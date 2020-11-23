@@ -1,5 +1,0 @@
-An approach to reasoning with default rules where the proportion of exceptions, or more generally the probability of encountering an exception, can be at least roughly assessed is presented.
-It is based on local uncertainty propagation rules which provide the best bracketing of a conditional probability of interest from the knowledge of the bracketing of some other conditional probabilities.
-A procedure that uses two such propagation rules repeatedly is proposed in order to estimate any simple conditional probability of interest from the available knowledge.
-The iterative procedure, that does not require independence assumptions, looks promising with respect to the linear programming method.
-Improved bounds for conditional probabilities are given when independence assumptions hold.

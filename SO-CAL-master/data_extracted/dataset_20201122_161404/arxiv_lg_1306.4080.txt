@@ -1,7 +1,0 @@
-Parallel coordinate descent algorithms emerge with the growing demand for large-scale optimization.
-These algorithms are usually limited by their divergence under high parallelism or need data preprocessing to avoid divergence.
-In this paper, we propose a parallelized algorithm, termed as Parallel Coordinate Descent Newton (PCDN), to pursue more parallelism.
-It randomly partitions the feature set into $b$ subsets/bundles with size of $P$, then it sequentially processes each bundle by first computing the descent directions for each feature in the bundle in parallel and then conducting $P$-dimensional line search to obtain the stepsize of the bundle.
-We will show that: (1) PCDN is guaranteed to converge globally; (2) PCDN can converge to the specified accuracy $\epsilon$ within the limited iteration number of $T_\epsilon$, and the iteration number $T_\epsilon$ decreases along with the increasing of parallelism (bundle size $P$).
-PCDN is applied to large-scale $L_1$-regularized logistic regression and $L_2$-loss SVM.
-Experimental evaluations over five public datasets indicate that PCDN can better exploit parallelism and outperforms state-of-the-art algorithms in speed, without losing test accuracy.

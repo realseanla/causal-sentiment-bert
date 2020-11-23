@@ -1,6 +1,0 @@
-In this paper we proposed reinforcement learning algorithms with the generalized reward function.
-In our proposed method we use Q-learning and SARSA algorithms with generalised reward function to train the reinforcement learning agent.
-We evaluated the performance of our proposed algorithms on two real-time strategy games called BattleCity and S3.
-There are two main advantages of having such an approach as compared to other works in RTS.
-(1) We can ignore the concept of a simulator which is often game specific and is usually hard coded in any type of RTS games (2) our system can learn from interaction with any opponents and quickly change the strategy according to the opponents and do not need any human traces as used in previous works.
-Keywords : Reinforcement learning, Machine learning, Real time strategy, Artificial intelligence.

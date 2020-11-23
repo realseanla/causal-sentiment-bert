@@ -1,6 +1,0 @@
-We study the online learning problem of a bidder who participates in repeated auctions.
-With the goal of maximizing his total T-period payoff, the bidder wants to determine the optimal allocation of his fixed budget among his bids for $K$ different goods at each period.
-As a bidding strategy, we propose a polynomial time algorithm, referred to as dynamic programming on discrete set (DPDS), which is inspired by the dynamic programming approach to Knapsack problems.
-We show that DPDS achieves the regret order of $O(\sqrt{T\log{T}})$.
-Also, by showing that the regret growth rate is lower bounded by $\Omega(\sqrt{T})$ for any bidding strategy, we conclude that DPDS algorithm is order optimal up to a $\sqrt{\log{T}}$ term.
-We also evaluate the performance of DPDS empirically in the context of virtual bidding in wholesale electricity markets by using historical data from the New York energy market.

@@ -1,4 +1,0 @@
-We consider a ubiquitous scenario in the Internet economy when individual decision-makers (henceforth, agents) both produce and consume information as they make strategic choices in an uncertain environment.
-This creates a three-way tradeoff between exploration (trying out insufficiently explored alternatives to help others in the future), exploitation (making optimal decisions given the information discovered by other agents), and incentives of the agents (who are myopically interested in exploitation, while preferring the others to explore).
-We posit a principal who controls the flow of information from agents that came before, and strives to coordinate the agents towards a socially optimal balance between exploration and exploitation, not using any monetary transfers.
-The goal is to design a recommendation policy for the principal which respects agents' incentives and minimizes a suitable notion of regret.

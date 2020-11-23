@@ -1,6 +1,0 @@
-In this paper, we derive a modified InfoMax algorithm for the solution of Blind Signal Separation (BSS) problems by using advanced stochastic methods.
-The proposed approach is based on a novel stochastic optimization approach known as the Adaptive Moment Estimation (Adam) algorithm.
-The proposed BSS solution can benefit from the excellent properties of the Adam approach.
-In order to derive the new learning rule, the Adam algorithm is introduced in the derivation of the cost function maximization in the standard InfoMax algorithm.
-The natural gradient adaptation is also considered.
-Finally, some experimental results show the effectiveness of the proposed approach.

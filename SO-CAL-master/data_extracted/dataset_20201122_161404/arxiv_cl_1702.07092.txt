@@ -1,5 +1,0 @@
-Medical errors are leading causes of death in the US and as such, prevention of these errors is paramount to promoting health care.
-Patient Safety Event reports are narratives describing potential adverse events to the patients and are important in identifying and preventing medical errors.
-We present a neural network architecture for identifying the type of safety events which is the first step in understanding these narratives.
-Our proposed model is based on a soft neural attention model to improve the effectiveness of encoding long sequences.
-Empirical results on two large-scale real-world datasets of patient safety reports demonstrate the effectiveness of our method with significant improvements over existing methods.

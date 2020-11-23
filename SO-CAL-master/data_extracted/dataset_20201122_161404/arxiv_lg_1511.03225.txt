@@ -1,3 +1,0 @@
-We analyze the popular multi-class algorithmic techniques of one-vs-all and error correcting output-codes, and show the surprising result that under the assumption that they are successful (at learning from labeled data), and under an additional mild distributional assumption, we can learn from unlabeled data (up to a permutation of the labels).
-The key point is that in cases where they work, these techniques implicitly assume structure on how the classes are related.
-We show how to exploit this relationship both in the case where the codewords are well separated (which includes the one-vs-all case) and in the case where the code matrix has the property that each bit of the codewords is important for distinguishing at least one class from impossible inputs.

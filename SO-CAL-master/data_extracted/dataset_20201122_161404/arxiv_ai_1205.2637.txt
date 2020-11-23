@@ -1,6 +1,0 @@
-A major benefit of graphical models is that most knowledge is captured in the model structure.
-Many models, however, produce inference problems with a lot of symmetries not reflected in the graphical structure and hence not exploitable by efficient inference techniques such as belief propagation (BP).
-In this paper, we present a new and simple BP algorithm, called counting BP, that exploits such additional symmetries.
-Starting from a given factor graph, counting BP first constructs a compressed factor graph of clusternodes and clusterfactors, corresponding to sets of nodes and factors that are indistinguishable given the evidence.
-Then it runs a modified BP algorithm on the compressed graph that is equivalent to running BP on the original factor graph.
-Our experiments show that counting BP is applicable to a variety of important AI tasks such as (dynamic) relational models and boolean model counting, and that significant efficiency gains are obtainable, often by orders of magnitude.

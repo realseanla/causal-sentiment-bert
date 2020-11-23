@@ -1,6 +1,0 @@
-While the general analysis of named entities has received substantial research attention, the analysis of relations over named entities has not.
-In fact, a review of the literature on unstructured as well as structured data revealed a deficiency in research on the abstract conceptualization required to organize relations.
-We believe that such an abstract conceptualization can benefit various communities and applications such as natural language processing, information extraction, machine learning and ontology engineering.
-In this paper, we present CEVO (i.e., a Comprehensive EVent Ontology) built on Levin's conceptual hierarchy of English verbs that categorizes verbs with the shared meaning and syntactic behavior.
-We present the fundamental concepts and requirements for this ontology.
-Furthermore, we present three use cases for demonstrating the benefits of this ontology on annotation tasks: 1) annotating relations in plain text, 2) annotating ontological properties and 3) linking textual relations to ontological properties.

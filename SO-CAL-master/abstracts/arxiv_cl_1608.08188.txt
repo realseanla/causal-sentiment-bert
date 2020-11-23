@@ -1,0 +1,6 @@
+Visual question answering (VQA) systems are emerging from a desire to empower users to ask any natural language question about visual content and receive a valid answer in response.
+However, close examination of the VQA problem reveals an unavoidable, entangled problem that multiple humans may or may not always agree on a single answer to a visual question.
+We train a model to automatically predict from a visual question whether a crowd would agree on a single answer.
+We then propose how to exploit this system in a novel application to efficiently allocate human effort to collect answers to visual questions.
+Specifically, we propose a crowdsourcing system that automatically solicits fewer human responses when answer agreement is expected and more human responses when answer disagreement is expected.
+Our system improves upon existing crowdsourcing systems, typically eliminating at least 20 percent of human effort with no loss to the information collected from the crowd.

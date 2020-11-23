@@ -1,7 +1,0 @@
-Recent years have seen an increasing interest in the design of AQM (Active Queue Management) controllers.
-The purpose of these controllers is to manage the network congestion under varying loads, link delays and bandwidth.
-In this paper, a new AQM controller is proposed which is trained by using the SVM (Support Vector Machine) with the RBF (Radial Basis Function) kernal.
-The proposed controller is called the support vector based AQM (SAM) controller.
-The performance of the proposed controller has been compared with three conventional AQM controllers, namely the Random Early Detection, Blue and Proportional Plus Integral Controller.
-The preliminary simulation studies show that the performance of the proposed controller is comparable to the conventional controllers.
-However, the proposed controller is more efficient in controlling the queue size than the conventional controllers.

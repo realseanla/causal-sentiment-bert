@@ -1,5 +1,0 @@
-Quantification is the machine learning task of estimating test-data class proportions that are not necessarily similar to those in training.
-Apart from its intrinsic value as an aggregate statistic, quantification output can also be used to optimize classifier probabilities, thereby increasing classification accuracy.
-We unify major quantification approaches under a constrained multi-variate regression framework, and use mathematical programming to estimate class proportions for different loss functions.
-With this modeling approach, we extend existing binary-only quantification approaches to multi-class settings as well.
-We empirically verify our unified framework by experimenting with several multi-class datasets including the Stanford Sentiment Treebank and CIFAR-10.

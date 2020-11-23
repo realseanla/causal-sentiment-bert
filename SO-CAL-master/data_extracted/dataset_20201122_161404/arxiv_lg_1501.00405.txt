@@ -1,7 +1,0 @@
-While analyzing vehicular sensor data, we found that frequently occurring waveforms could serve as features for further analysis, such as rule mining, classification, and anomaly detection.
-The discovery of waveform patterns, also known as time-series motifs, has been studied extensively; however, available techniques for discovering frequently occurring time-series motifs were found lacking in either efficiency or quality: Standard subsequence clustering results in poor quality, to the extent that it has even been termed 'meaningless'.
-Variants of hierarchical clustering using techniques for efficient discovery of 'exact pair motifs' find high-quality frequent motifs, but at the cost of high computational complexity, making such techniques unusable for our voluminous vehicular sensor data.
-We show that good quality frequent motifs can be discovered using bounded spherical clustering of time-series subsequences, which we refer to as COIN clustering, with near linear complexity in time-series size.
-COIN clustering addresses many of the challenges that previously led to subsequence clustering being viewed as meaningless.
-We describe an end-to-end motif-discovery procedure using a sequence of pre and post-processing techniques that remove trivial-matches and shifted-motifs, which also plagued previous subsequence-clustering approaches.
-We demonstrate that our technique efficiently discovers frequent motifs in voluminous vehicular sensor data as well as in publicly available data sets.

@@ -1,7 +1,0 @@
-When agents devise plans for execution in the real world, they face two important forms of uncertainty: they can never have complete knowledge about the state of the world, and they do not have complete control, as the effects of their actions are uncertain.
-While most classical planning methods avoid explicit uncertainty reasoning, we believe that uncertainty should be explicitly represented and reasoned about.
-We develop a probabilistic representation for states and actions, based on belief networks.
-We define conditional belief nets (CBNs) to capture the probabilistic dependency of the effects of an action upon the state of the world.
-We also use a CBN to represent the intrinsic relationships among entities in the environment, which persist from state to state.
-We present a simple projection algorithm to construct the belief network of the state succeeding an action, using the environment CBN model to infer indirect effects.
-We discuss how the qualitative aspects of belief networks and CBNs make them appropriate for the various stages of the problem solving process, from model construction to the design of planning algorithms.

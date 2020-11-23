@@ -1,0 +1,6 @@
+Artifact-centric models for business processes recently raised a lot of attention as they manage to combine structural (i.e.
+data related) with dynamical (i.e.
+process related) aspects in a seamless way.
+This developed in parallel with declarative approaches for modelling processes, where activities are not burdened by over-specified constrains like in traditional process-centric approaches, but try to adapt the internal system to the humans involved and the input they receive.
+In this paper, we try to merge these two aspects by proposing a framework aimed at describing rich business domains through Description Logic-based ontologies, and where a set of actions allows the system to evolve by modifying such ontologies.
+We then propose an evolution of such framework which represents a viable and formal environment to develop decision making and planning techniques for DL-based artifact-centric business domains.

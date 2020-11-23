@@ -1,0 +1,4 @@
+Monitoring plan preconditions can allow for replanning when a precondition fails, generally far in advance of the point in the plan where the precondition is relevant.
+However, monitoring is generally costly, and some precondition failures have a very small impact on plan quality.
+We formulate a model for optimal precondition monitoring, using partially-observable Markov decisions processes, and describe methods for solving this model efficitively, though approximately.
+Specifically, we show that the single-precondition monitoring problem is generally tractable, and the multiple-precondition monitoring policies can be efficitively approximated using single-precondition soultions.

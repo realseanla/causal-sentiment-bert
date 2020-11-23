@@ -1,0 +1,6 @@
+We analyze how the knowledge to autonomously handle one type of intersection, represented as a Deep Q-Network, translates to other types of intersections (tasks).
+We view intersection handling as a deep reinforcement learning problem, which approximates the state action Q function as a deep neural network.
+Using a traffic simulator, we show that directly copying a network trained for one type of intersection to another type of intersection decreases the success rate.
+We also show that when a network that is pre-trained on Task A and then is fine-tuned on a Task B, the resulting network not only performs better on the Task B than an network exclusively trained on Task A, but also retained knowledge on the Task A.
+Finally, we examine a lifelong learning setting, where we train a single network on five different types of intersections sequentially and show that the resulting network exhibited catastrophic forgetting of knowledge on previous tasks.
+This result suggests a need for a long-term memory component to preserve knowledge.

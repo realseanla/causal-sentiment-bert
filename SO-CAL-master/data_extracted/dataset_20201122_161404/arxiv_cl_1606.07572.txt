@@ -1,6 +1,0 @@
-Although several RDF knowledge bases are available through the LOD initiative, often these data sources remain isolated, lacking schemata and links to other datasets.
-While there are numerous works that focus on establishing that two resources are identical and on adding more instances of an already existing relation, the problem of finding new relations between any two given datasets has not been investigated in detail.
-In this paper, given two entity sets, we present an unsupervised approach to enrich the LOD cloud with new relations between them by exploiting the web corpus.
-During the first phase we gather prospective relations from the corpus through pattern extraction and paraphrase detection.
-In the second phase, we perform actual enrichment by extracting instances of these relations.
-We have empirically evaluated our approach on several dataset pairs and found that the system can indeed be used for enriching the existing datasets with new relations.

@@ -1,3 +1,0 @@
-In this paper we describe a dynamic normalization process applied to social network multilingual documents (Facebook and Twitter) to improve the performance of the Author profiling task for short texts.
-After the normalization process, $n$-grams of characters and n-grams of POS tags are obtained to extract all the possible stylistic information encoded in the documents (emoticons, character flooding, capital letters, references to other users, hyperlinks, hashtags, etc.).
-Experiments with SVM showed up to 90 percent of performance.

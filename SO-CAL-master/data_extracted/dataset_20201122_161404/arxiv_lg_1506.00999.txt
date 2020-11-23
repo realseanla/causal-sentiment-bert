@@ -1,5 +1,0 @@
-This paper tackles the problem of endogenous link prediction for Knowledge Base completion.
-Knowledge Bases can be represented as directed graphs whose nodes correspond to entities and edges to relationships.
-Previous attempts either consist of powerful systems with high capacity to model complex connectivity patterns, which unfortunately usually end up overfitting on rare relationships, or in approaches that trade capacity for simplicity in order to fairly model all relationships, frequent or not.
-In this paper, we propose Tatec a happy medium obtained by complementing a high-capacity model with a simpler one, both pre-trained separately and then combined.
-We present several variants of this model with different kinds of regularization and combination strategies and show that this approach outperforms existing methods on different types of relationships by achieving state-of-the-art results on four benchmarks of the literature.

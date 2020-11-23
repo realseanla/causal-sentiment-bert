@@ -1,0 +1,4 @@
+The task of computing approximate Nash equilibria in large zero-sum extensive-form games has received a tremendous amount of attention due mainly to the Annual Computer Poker Competition.
+Immediately after its inception, two competing and seemingly different approaches emerged---one an application of no-regret online learning, the other a sophisticated gradient method applied to a convex-concave saddle-point formulation.
+Since then, both approaches have grown in relative isolation with advancements on one side not effecting the other.
+In this paper, we rectify this by dissecting and, in a sense, unify the two views.

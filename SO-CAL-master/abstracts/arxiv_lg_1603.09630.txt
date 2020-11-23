@@ -1,0 +1,6 @@
+We present a deep neural network (DNN) acoustic model including parametrised and differentiable pooling operators.
+Unsupervised acoustic model adaptation is cast as the problem of updating the decision boundaries implemented by each pooling operator.
+In particular, we experiment with two types of pooling parametrisations: learned $L_p$-norm pooling and weighted Gaussian pooling, in which the weights of both operators are treated as speaker-dependent.
+We perform investigations using three different large vocabulary speech recognition corpora: AMI meetings, TED talks and Switchboard conversational telephone speech.
+We demonstrate that differentiable pooling operators provide a robust and relatively low-dimensional way to adapt acoustic models, with word error rates reductions ranging from 5--20\ percent with respect to unadapted systems, which themselves are better than the baseline fully-connected DNN-based acoustic models.
+We also investigate how the proposed techniques work under various adaptation conditions including the quality of adaptation data and complementarity to other feature- and model-space adaptation methods, as well as providing an analysis of the characteristics of each of the proposed approaches.

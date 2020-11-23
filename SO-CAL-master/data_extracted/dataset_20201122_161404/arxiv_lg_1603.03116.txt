@@ -1,3 +1,0 @@
-Deep learning consists in training neural networks to perform computations that sequentially unfold in many steps over a time dimension or an intrinsic depth dimension.
-Effective learning in this setting is usually accomplished by specialized network architectures that are designed to mitigate the vanishing gradient problem of naive deep networks.
-Many of these architectures, such as LSTMs, GRUs, Highway Networks and Deep Residual Network, are based on a single structural principle: the state passthrough.

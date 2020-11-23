@@ -1,0 +1,7 @@
+The fundamental issue in knowledge representation is to provide a precise definition of the knowledge that they possess in a manner that is independent of procedural considerations, context free and easy to manipulate, exchange and reason about.
+Knowledge must be accessible to everyone regardless of their native languages.
+Universal Networking Language (UNL) is a declarative formal language and a generalized form of human language in a machine independent digital platform for defining, recapitulating, amending, storing and dissipating knowledge among people of different affiliations.
+UNL extracts semantic data from a native language for Interlingua machine translation.
+This paper presents the development of a graphical tool that incorporates UNL to provide a visual mean to represent the semantic data available in a native text.
+UNL represents the semantics of a sentence as a conceptual hyper-graph.
+We translate this information into XML format and create a graph from XML, representing the actual concepts available in the native language

@@ -1,0 +1,7 @@
+This paper presents a Directed Controller Synthesis (DCS) technique for discrete event systems.
+The DCS method explores the solution space for reactive controllers guided by a domain-independent heuristic.
+The heuristic is derived from an efficient abstraction of the environment based on the componentized way in which complex environments are described.
+Then by building the composition of the components on-the-fly DCS obtains a solution by exploring a reduced portion of the state space.
+This work focuses on untimed discrete event systems with safety and co-safety (i.e.
+reachability) goals.
+An evaluation for the technique is presented comparing it to other well-known approaches to controller synthesis (based on symbolic representation and compositional analyses).

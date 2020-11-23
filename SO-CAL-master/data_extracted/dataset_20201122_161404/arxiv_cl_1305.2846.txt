@@ -1,4 +1,0 @@
-Automatic speech recognition enables a wide range of current and emerging applications such as automatic transcription, multimedia content analysis, and natural human-computer interfaces.
-This paper provides a glimpse of the opportunities and challenges that parallelism provides for automatic speech recognition and related application research from the point of view of speech researchers.
-The increasing parallelism in computing platforms opens three major possibilities for speech recognition systems: improving recognition accuracy in non-ideal, everyday noisy environments; increasing recognition throughput in batch processing of speech data; and reducing recognition latency in realtime usage scenarios.
-This paper describes technical challenges, approaches taken, and possible directions for future research to guide the design of efficient parallel software and hardware infrastructures.

@@ -1,7 +1,0 @@
-We study non-convex empirical risk minimization for learning halfspaces and neural networks.
-For loss functions that are $L$-Lipschitz continuous, we present algorithms to learn halfspaces and multi-layer neural networks that achieve arbitrarily small excess risk $\epsilon&gt;0$.
-The time complexity is polynomial in the input dimension $d$ and the sample size $n$, but exponential in the quantity $(L/\epsilon^2)\log(L/\epsilon)$.
-These algorithms run multiple rounds of random initialization followed by arbitrary optimization steps.
-We further show that if the data is separable by some neural network with constant margin $\gamma&gt;0$, then there is a polynomial-time algorithm for learning a neural network that separates the training data with margin $\Omega(\gamma)$.
-As a consequence, the algorithm achieves arbitrary generalization error $\epsilon&gt;0$ with ${\rm poly}(d,1/\epsilon)$ sample and time complexity.
-We establish the same learnability result when the labels are randomly flipped with probability $\eta&lt;1/2$.

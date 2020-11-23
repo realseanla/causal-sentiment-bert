@@ -1,0 +1,4 @@
+We present a transition-based parser that jointly produces syntactic and semantic dependencies.
+It learns a representation of the entire algorithm state, using stack long short-term memories.
+Our greedy inference algorithm has linear time, including feature extraction.
+On the CoNLL 2008--9 English shared tasks, we obtain the best published parsing performance among models that jointly learn syntax and semantics.

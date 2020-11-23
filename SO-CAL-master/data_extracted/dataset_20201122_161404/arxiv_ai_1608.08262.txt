@@ -1,5 +1,0 @@
-The paper continues the investigation of Poincare and Russel's Vicious Circle Principle (VCP) in the context of the design of logic programming languages with sets.
-We expand previously introduced language Alog with aggregates by allowing infinite sets and several additional set related constructs useful for knowledge representation and teaching.
-In addition, we propose an alternative formalization of the original VCP and incorporate it into the semantics of new language, Slog+, which allows more liberal construction of sets and their use in programming rules.
-We show that, for programs without disjunction and infinite sets, the formal semantics of aggregates in Slog+ coincides with that of several other known languages.
-Their intuitive and formal semantics, however, are based on quite different ideas and seem to be more involved than that of Slog+.

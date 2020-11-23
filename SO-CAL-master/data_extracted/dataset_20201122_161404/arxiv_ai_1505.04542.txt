@@ -1,4 +1,0 @@
-We present a scalable parallel solver for numerical constraint satisfaction problems (NCSPs).
-Our parallelization scheme consists of homogeneous worker solvers, each of which runs on an available core and communicates with others via the global load balancing (GLB) method.
-The parallel solver is implemented with X10 that provides an implementation of GLB as a library.
-In experiments, several NCSPs from the literature were solved and attained up to 516-fold speedup using 600 cores of the TSUBAME2.5 supercomputer.

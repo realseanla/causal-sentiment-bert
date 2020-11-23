@@ -1,4 +1,0 @@
-We present MultiGain, a tool to synthesize strategies for Markov decision processes (MDPs) with multiple mean-payoff objectives.
-Our models are described in PRISM, and our tool uses the existing interface and simulator of PRISM.
-Our tool extends PRISM by adding novel algorithms for multiple mean-payoff objectives, and also provides features such as (i)~generating strategies and exploring them for simulation, and checking them with respect to other properties; and (ii)~generating an approximate Pareto curve for two mean-payoff objectives.
-In addition, we present a new practical algorithm for the analysis of MDPs with multiple mean-payoff objectives under memoryless strategies.

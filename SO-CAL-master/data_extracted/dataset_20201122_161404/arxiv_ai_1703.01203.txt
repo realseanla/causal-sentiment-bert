@@ -1,4 +1,0 @@
-A set $S$ is linearly separable if each $x\in S$ can be separated from the rest of $S$ by a linear functional.
-We study random $N$-element sets in $\mathbb{R}^n$ for large $n$ and demonstrate that for $N&lt;a\exp(b{n})$ they are linearly separable with probability $p$, $p&gt;1-\vartheta$, for a given (small) $\vartheta&gt;0$.
-Constants $a,b&gt;0$ depend on the probability distribution and the constant $\vartheta$.
-The results are important for machine learning in high dimension, especially for correction of unavoidable mistakes of legacy Artificial Intelligence systems.

@@ -1,6 +1,0 @@
-Variation in language is ubiquitous, and is particularly evident in newer forms of writing such as social media.
-Fortunately, variation is not random, but is usually linked to social factors.
-By exploiting linguistic homophily --- the tendency of socially linked individuals to use language similarly --- it is possible to build models that are more robust to variation.
-In this paper, we focus on social network communities, which make it possible to generalize sociolinguistic properties from authors in the training set to authors in the test sets, without requiring demographic author metadata.
-We detect communities via standard graph clustering algorithms, and then exploit these communities by learning community-specific projections of word embeddings.
-These projections capture shifts in word meaning in different social groups; by modeling them, we are able to improve the overall accuracy of Twitter sentiment analysis by a significant margin over competitive prior work.

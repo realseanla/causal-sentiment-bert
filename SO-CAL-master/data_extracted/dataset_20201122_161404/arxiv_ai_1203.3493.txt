@@ -1,5 +1,0 @@
-We describe a framework and an algorithm for solving hybrid influence diagrams with discrete, continuous, and deterministic chance variables, and discrete and continuous decision variables.
-A continuous chance variable in an influence diagram is said to be deterministic if its conditional distributions have zero variances.
-The solution algorithm is an extension of Shenoy's fusion algorithm for discrete influence diagrams.
-We describe an extended Shenoy-Shafer architecture for propagation of discrete, continuous, and utility potentials in hybrid influence diagrams that include deterministic chance variables.
-The algorithm and framework are illustrated by solving two small examples.

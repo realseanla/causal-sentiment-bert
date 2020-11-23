@@ -1,6 +1,0 @@
-In online convex optimization it is well known that objective functions with curvature are much easier than arbitrary convex functions.
-Here we show that the regret can be significantly reduced even without curvature, in cases where there is a stable optimum to converge to.
-More precisely, the regret of existing methods is determined by the norms of the encountered gradients, and matching worst-case performance lower bounds tell us that this cannot be improved uniformly.
-Yet we argue that this is a rather pessimistic assessment of the complexity of the problem.
-We introduce a new parameter-free algorithm, called MetaGrad, for which the gradient norms in the regret are scaled down by the distance to the (unknown) optimum.
-So when the optimum is reasonably stable over time, making the algorithm converge, this new scaling leads to orders of magnitude smaller regret even when the gradients themselves do not vanish.

@@ -1,0 +1,7 @@
+We develop a belief space planning (BSP) approach that advances the state of the art by incorporating reasoning about data association (DA) within planning, while considering additional sources of uncertainty.
+Existing BSP approaches typically assume data association is given and perfect, an assumption that can be harder to justify while operating, in the presence of localization uncertainty, in ambiguous and perceptually aliased environments.
+In contrast, our data association aware belief space planning (DA-BSP) approach explicitly reasons about DA within belief evolution, and as such can better accommodate these challenging real world scenarios.
+In particular, we show that due to perceptual aliasing, the posterior belief becomes a mixture of probability distribution functions, and design cost functions that measure the expected level of ambiguity and posterior uncertainty.
+Using these and standard costs (e.g.~control penalty, distance to goal) within the objective function, yields a general framework that reliably represents action impact, and in particular, capable of active disambiguation.
+Our approach is thus applicable to robust active perception and autonomous navigation in perceptually aliased environments.
+We demonstrate key aspects in basic and realistic simulations.

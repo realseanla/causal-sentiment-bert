@@ -1,9 +1,0 @@
-Back-propagation has been the workhorse of recent successes of deep learning but it relies on infinitesimal effects (partial derivatives) in order to perform credit assignment.
-This could become a serious issue as one considers deeper and more non-linear functions, e.g., consider the extreme case of non-linearity where the relation between parameters and cost is actually discrete.
-Inspired by the biological implausibility of back-propagation, a few approaches have been proposed in the past that could play a similar credit assignment role as back-prop.
-In this spirit, we explore a novel approach to credit assignment in deep networks that we call target propagation.
-The main idea is to compute targets rather than gradients, at each layer.
-Like gradients, they are propagated backwards.
-In a way that is related but different from previously proposed proxies for back-propagation which rely on a backwards network with symmetric weights, target propagation relies on auto-encoders at each layer.
-Unlike back-propagation, it can be applied even when units exchange stochastic bits rather than real numbers.
-We show that a linear correction for the imperfectness of the auto-encoders is very effective to make target propagation actually work, along with adaptive learning rates.

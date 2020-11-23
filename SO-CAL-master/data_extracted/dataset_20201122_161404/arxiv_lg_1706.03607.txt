@@ -1,6 +1,0 @@
-Clustering is a fundamental technique in data analysis.
-Consider data points $X$ that lie in a (relaxed) metric space (where the triangle inequality can be relaxed by a constant factor).
-Each set of points $Q$ ({\em centers}) defines a clustering of $X$ according to the closest center with {\em cost} $V(Q)=\sum_{x\in X} d_{xQ}$.
-This formulation generalizes classic $k$-means clustering, which uses squared distances.
-Two basic tasks, parametrized by $k \geq 1$, are {\em cost estimation}, which returns (approximate) $V(Q)$ for queries $Q$ such that $|Q|=k$ and {\em clustering}, which returns an (approximate) minimizer of $V(Q)$ of size $|Q|=k$.
-With very large data sets $X$, we seek efficient constructions of small summaries that allow us to efficiently approximate clustering costs over the full data.

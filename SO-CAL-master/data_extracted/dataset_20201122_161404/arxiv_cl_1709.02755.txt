@@ -1,6 +1,0 @@
-Recurrent neural networks scale poorly due to the intrinsic difficulty in parallelizing their state computations.
-For instance, the forward pass computation of $h_t$ is blocked until the entire computation of $h_{t-1}$ finishes, which is a major bottleneck for parallel computing.
-In this work, we propose an alternative RNN implementation by deliberately simplifying the state computation and exposing more parallelism.
-The proposed recurrent unit operates as fast as a convolutional layer and 5-10x faster than cuDNN-optimized LSTM.
-We demonstrate the unit's effectiveness across a wide range of applications including classification, question answering, language modeling, translation and speech recognition.
-We open source our implementation in PyTorch and CNTK.

@@ -1,4 +1,0 @@
-In this paper we present an algorithm to build a road network map enriched with traffic rules such as one-way streets and forbidden turns, based on the interpretation of already detected and classified traffic signs.
-Such algorithm helps to automatize the elaboration of maps for commercial navigation systems.
-Our solution is based on simulating navigation along the road network, determining at each point of interest the visibility of the signs and their effect on the roads.
-We test our approach in a small urban network and discuss various ways to generalize it to support more complex environments.

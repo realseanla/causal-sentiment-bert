@@ -1,0 +1,4 @@
+We present tropical games, a generalization of combinatorial min-max games based on tropical algebras.
+Our model breaks the traditional symmetry of rational zero-sum games where players have exactly opposed goals (min vs. max), is more widely applicable than min-max and also supports a form of pruning, despite it being less effective than alpha-beta.
+Actually, min-max games may be seen as particular cases where both the game and its dual are tropical: when the dual of a tropical game is also tropical, the power of alpha-beta is completely recovered.
+We formally develop the model and prove that the tropical pruning strategy is correct, then conclude by showing how the problem of approximated parsing can be modeled as a tropical game, profiting from pruning.

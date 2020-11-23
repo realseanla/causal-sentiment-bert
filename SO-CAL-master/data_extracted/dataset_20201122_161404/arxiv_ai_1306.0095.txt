@@ -1,7 +1,0 @@
-Universal induction is a crucial issue in AGI.
-Its practical applicability can be achieved by the choice of the reference machine or representation of algorithms agreed with the environment.
-This machine should be updatable for solving subsequent tasks more efficiently.
-We study this problem on an example of combinatory logic as the very simple Turing-complete reference machine, which enables modifying program representations by introducing different sets of primitive combinators.
-Genetic programming system is used to search for combinator expressions, which are easily decomposed into sub-expressions being recombined in crossover.
-Our experiments show that low-complexity induction or prediction tasks can be solved by the developed system (much more efficiently than using brute force); useful combinators can be revealed and included into the representation simplifying more difficult tasks.
-However, optimal sets of combinators depend on the specific task, so the reference machine should be adaptively chosen in coordination with the search engine.

@@ -1,0 +1,6 @@
+We derive bounds on the sample complexity of empirical risk minimization (ERM) in the context of minimizing non-convex risks that admit the strict saddle property.
+Recent progress in non-convex optimization has yielded efficient algorithms for minimizing such functions.
+Our results imply that these efficient algorithms are statistically stable and also generalize well.
+In particular, we derive fast rates which resemble the bounds that are often attained in the strongly convex setting.
+We specify our bounds to Principal Component Analysis and Independent Component Analysis.
+Our results and techniques may pave the way for statistical analyses of additional strict saddle problems.

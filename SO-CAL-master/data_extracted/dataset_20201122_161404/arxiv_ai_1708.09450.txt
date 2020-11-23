@@ -1,6 +1,0 @@
-Much of the user-generated content on social media is provided by ordinary people telling stories about their daily lives.
-We develop and test a novel method for learning fine-grained common-sense knowledge from these stories about contingent (causal and conditional) relationships between everyday events.
-This type of knowledge is useful for text and story understanding, information extraction, question answering, and text summarization.
-We test and compare different methods for learning contingency relation, and compare what is learned from topic-sorted story collections vs. general-domain stories.
-Our experiments show that using topic-specific datasets enables learning finer-grained knowledge about events and results in significant improvement over the baselines.
-An evaluation on Amazon Mechanical Turk shows 82 percent of the relations between events that we learn from topic-sorted stories are judged as contingent.

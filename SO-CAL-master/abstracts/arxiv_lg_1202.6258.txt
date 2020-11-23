@@ -1,0 +1,3 @@
+We propose a new stochastic gradient method for optimizing the sum of a finite set of smooth functions, where the sum is strongly convex.
+While standard stochastic gradient methods converge at sublinear rates for this problem, the proposed method incorporates a memory of previous gradient values in order to achieve a linear convergence rate.
+Numerical experiments indicate that the new algorithm can dramatically outperform standard algorithms.

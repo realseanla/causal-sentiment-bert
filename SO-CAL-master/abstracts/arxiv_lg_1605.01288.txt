@@ -1,0 +1,4 @@
+We present an algorithm for the statistical learning setting with a bounded exp-concave loss in $d$ dimensions that obtains excess risk $O(d / n)$ with high probability: the dependence on the confidence parameter $\delta$ is polylogarithmic in $1/\delta$.
+The core technique is to boost the confidence of recent $O(d / n)$ bounds, without sacrificing the rate, by leveraging a Bernstein-type condition which holds due to exp-concavity.
+This Bernstein-type condition implies that the variance of excess loss random variables are controlled in terms of their excess risk.
+Using this variance control, we further show that a regret bound for any online learner in this setting translates to a high probability excess risk bound for the corresponding online-to-batch conversion of the online learner.

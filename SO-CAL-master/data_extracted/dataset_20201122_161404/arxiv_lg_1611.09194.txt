@@ -1,7 +1,0 @@
-In the light of regularized dynamic time warping kernels, this paper re-considers the concept of time elastic centroid for a setof time series.
-We derive a new algorithm based on a probabilistic interpretation of kernel alignment matrices.
-This algorithm expressesthe averaging process in terms of a stochastic alignment automata.
-It uses an iterative agglomerative heuristic method for averagingthe aligned samples, while also averaging the times of occurrence of the aligned samples.
-By comparing classification accuracies for45 heterogeneous time series datasets obtained by first nearest centroid/medoid classifiers we show that: i) centroid-basedapproaches significantly outperform medoid-based approaches, ii) for the considered datasets, our algorithm that combines averagingin the sample space and along the time axes, emerges as the most significantly robust model for time-elastic averaging with apromising noise reduction capability.
-We also demonstrate its benefit in an isolated gesture recognition experiment and its ability tosignificantly reduce the size of training instance sets.
-Finally we highlight its denoising capability using demonstrative synthetic data:we show that it is possible to retrieve, from few noisy instances, a signal whose components are scattered in a wide spectral band.

@@ -1,0 +1,7 @@
+All multi-component product manufacturing companies face the problem of warranty cost estimation.
+Failure rate analysis of components plays a key role in this problem.
+Data source used for failure rate analysis has traditionally been past failure data of components.
+However, failure rate analysis can be improved by means of fusion of additional information, such as symptoms observed during after-sale service of the product, geographical information (hilly or plains areas), and information from tele-diagnostic analytics.
+In this paper, we propose an approach, which learns dependency between part-failures and symptoms gleaned from such diverse sources of information, to predict expected number of failures with better accuracy.
+We also indicate how the optimum warranty period can be computed.
+We demonstrate, through empirical results, that our method can improve the warranty cost estimates significantly.

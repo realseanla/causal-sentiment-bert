@@ -1,8 +1,0 @@
-We present a new model for singing synthesis based on a modified version of the WaveNet architecture.
-Instead of modeling raw waveform, we model features produced by a parametric vocoder that separates the influence of pitch and timbre.
-This allows conveniently modifying pitch to match any target melody, facilitates training on more modest dataset sizes, and significantly reduces training and generation times.
-Our model makes frame-wise predictions using mixture density outputs rather than categorical outputs in order to reduce the required parameter count.
-As we found overfitting to be an issue with the relatively small datasets used in our experiments, we propose a method to regularize the model and make the autoregressive generation process more robust to prediction errors.
-Using a simple multi-stream architecture, harmonic, aperiodic and voiced/unvoiced components can all be predicted in a coherent manner.
-We compare our method to existing parametric statistical and state-of-the-art concatenative methods using quantitative metrics and a listening test.
-While naive implementations of the autoregressive generation algorithm tend to be inefficient, using a smart algorithm we can greatly speed up the process and obtain a system that's competitive in both speed and quality.

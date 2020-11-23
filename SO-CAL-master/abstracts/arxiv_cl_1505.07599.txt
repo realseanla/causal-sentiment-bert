@@ -1,0 +1,5 @@
+Word segmentation and Part-of-Speech (POS) tagging are two fundamental tasks for Chinese language processing.
+In recent years, word segmentation and POS tagging have undergone great development.
+The popular method is to regard these two tasks as sequence labeling problem, which can be handled with supervised learning algorithms such as Conditional Random Fields (CRF).
+However, the performances of the state-of-the-art systems are still relatively low for the informal texts, such as micro-blogs, forums.
+In this shared task, we wish to investigate the performances of Chinese word segmentation and POS tagging for the micro-blog texts.

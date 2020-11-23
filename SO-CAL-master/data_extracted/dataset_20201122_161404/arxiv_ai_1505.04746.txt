@@ -1,8 +1,0 @@
-Analyzing huge amounts of spatial data plays an important role in many emerging analysis and decision-making domains such as healthcare, urban planning, agriculture and so on.
-For extracting meaningful knowledge from geographical data, the relationships between spatial data objects need to be analyzed.
-An important class of such relationships are topological relations like the connectedness or overlap between regions.
-While real-world geographical regions such as lakes or forests do not have exact boundaries and are fuzzy, most of the existing analysis methods neglect this inherent feature of topological relations.
-In this paper, we propose a method for handling the topological relations in spatial databases based on fuzzy region connection calculus (RCC).
-The proposed method is implemented in PostGIS spatial database and evaluated in analyzing the relationship of diseases as an important application domain.
-We also used our fuzzy RCC implementation for fuzzification of the skyline operator in spatial databases.
-The results of the evaluation show that our method provides a more realistic view of spatial relationships and gives more flexibility to the data analyst to extract meaningful and accurate results in comparison with the existing methods.

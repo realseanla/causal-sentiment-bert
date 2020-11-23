@@ -1,7 +1,0 @@
-Korea University Intelligent Signal Processing Lab.
-(KU-ISPL) developed speaker recognition system for SRE16 fixed training condition.
-Data for evaluation trials are collected from outside North America, spoken in Tagalog and Cantonese while training data only is spoken English.
-Thus, main issue for SRE16 is compensating the discrepancy between different languages.
-As development dataset which is spoken in Cebuano and Mandarin, we could prepare the evaluation trials through preliminary experiments to compensate the language mismatched condition.
-Our team developed 4 different approaches to extract i-vectors and applied state-of-the-art techniques as backend.
-To compensate language mismatch, we investigated and endeavored unique method such as unsupervised language clustering, inter language variability compensation and gender/language dependent score normalization.

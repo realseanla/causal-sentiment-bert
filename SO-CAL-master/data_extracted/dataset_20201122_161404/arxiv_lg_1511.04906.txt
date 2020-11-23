@@ -1,7 +1,0 @@
-We investigated how the application of deep learning, specifically the use of convolutional networks trained with GPUs, can help to build better predictive models in telecommunication business environments, and fill this gap.
-In particular, we focus on the non-trivial problem of predicting customer churn in telecommunication operators.
-Our model, called WiseNet, consists of a convolutional network and a novel encoding method that transforms customer activity data and Call Detail Records (CDRs) into images.
-Experimental evaluation with several machine learning classifiers supports the ability of WiseNet for learning features when using structured input data.
-For this type of telecommunication business problems, we found that WiseNet outperforms machine learning models with hand-crafted features, and does not require the labor-intensive step of feature engineering.
-Furthermore, the same model has been applied without retraining to a different market, achieving consistent results.
-This confirms the generalization property of WiseNet and the ability to extract useful representations.

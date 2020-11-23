@@ -1,4 +1,0 @@
-Particle Filter algorithm (PF) suffers from some problems such as the loss of particle diversity, the need for large number of particles, and the costly selection of the importance density functions.
-In this paper, a novel Exponential Natural Particle Filter (xNPF) is introduced to solve the above problems.
-In this approach, a state transitional probability with the use of natural gradient learning is proposed which balances exploration and exploitation more robustly.
-The results show that xNPF converges much closer to the true target states than the other state of the art particle filter.

@@ -1,0 +1,3 @@
+Hierarchical clustering is a recursive partitioning of a dataset into clusters at an increasingly finer granularity.
+Motivated by the fact that most work on hierarchical clustering was based on providing algorithms, rather than optimizing a specific objective, Dasgupta framed similarity-based hierarchical clustering as a combinatorial optimization problem, where a `good' hierarchical clustering is one that minimizes some cost function.
+He showed that this cost function has certain desirable properties.

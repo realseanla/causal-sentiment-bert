@@ -1,5 +1,0 @@
-In many applications data is naturally presented in terms of orderings of some basic elements or symbols.
-Reasoning about such data requires a notion of similarity capable of handling sequences of different lengths.
-In this paper we describe a family of Mercer kernel functions for such sequentially structured data.
-The family is characterized by a decomposable structure in terms of symbol-level and structure-level similarities, representing a specific combination of kernels which allows for efficient computation.
-We provide an experimental evaluation on sequential classification tasks comparing kernels from our family of kernels to a state of the art sequence kernel called the Global Alignment kernel which has been shown to outperform Dynamic Time Warping

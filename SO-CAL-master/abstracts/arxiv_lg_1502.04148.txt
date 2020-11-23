@@ -1,0 +1,4 @@
+Independent Component Analysis (ICA) is a popular model for blind signal separation.
+The ICA model assumes that a number of independent source signals are linearly mixed to form the observed signal.
+Traditional ICA algorithms typically aim to recover the mixing matrix, the inverse of which can be applied to data in order to recover the latent independent signals.
+However, in the presence of noise, this demixing process is non-optimal for signal recovery as measured by signal-to-interference-plus-noise ratio (SINR), even if the mixing matrix is recovered exactly.

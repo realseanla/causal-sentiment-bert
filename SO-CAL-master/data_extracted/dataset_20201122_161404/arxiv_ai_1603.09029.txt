@@ -1,7 +1,0 @@
-We study the worst-case adaptive optimization problem with budget constraint.
-Unlike previous works, we consider the general setting where the cost is a set function on sets of decisions.
-For this setting, we investigate the near-optimality of greedy policies when the utility function satisfies a novel property called pointwise cost-sensitive submodularity.
-This property is an extension of cost-sensitive submodularity, which in turn is a generalization of submodularity to general cost functions.
-We prove that two simple greedy policies for the problem are not near-optimal but the best between them is near-optimal.
-With this result, we propose a combined policy that is near-optimal with respect to the optimal worst-case policy that uses half of the budget.
-We discuss applications of our theoretical results and also report experimental results comparing the greedy policies on the active learning problem.

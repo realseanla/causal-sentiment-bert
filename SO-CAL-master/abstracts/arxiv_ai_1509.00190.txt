@@ -1,0 +1,4 @@
+The integration of Linked Open Data (LOD) content in Web pages is a challenging and sometimes tedious task for Web developers.
+At the same moment, most software packages for blogs, content management systems (CMS), and shop applications support the consumption of feed formats, namely RSS and Atom.
+In this technical report, we demonstrate an on-line tool that fetches e-commerce data from a SPARQL endpoint and syndicates obtained results as RSS or Atom feeds.
+Our approach combines (1) the popularity and broad tooling support of existing feed formats, (2) the precision of queries against structured data built upon common Web vocabularies like schema.org, GoodRelations, FOAF, VCard, and WGS 84, and (3) the ease of integrating content from a large number of Web sites and other data sources in RDF in general.

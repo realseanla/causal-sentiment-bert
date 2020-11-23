@@ -1,5 +1,0 @@
-We propose an active question answering agent that learns to reformulate questions and combine evidence to improve question answering.
-The agent sits between the user and a black box question-answering system and learns to optimally probe the system with natural language reformulations of the initial question and to aggregate the evidence to return the best possible answer.
-The system is trained end-to-end to maximize answer quality using policy gradient.
-We evaluate on SearchQA, a dataset of complex questions extracted from Jeopardy!.
-Our agent improves F1 by 11 percent over a state-of-the-art base model that uses the original question/answer pairs.

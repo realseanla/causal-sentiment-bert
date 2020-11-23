@@ -1,7 +1,0 @@
-Summarization of large texts is still an open problem in language processing.
-In this work we develop a full fledged pipeline to generate summaries of news articles using the Abstract Meaning Representation(AMR).
-We first generate the AMR graphs of stories then extract summary graphs from the story graphs and finally generate sentences from the summary graph.
-For extracting summary AMRs from the story AMRs we use a two step process.
-First, we find important sentences from the text and then extract the summary AMRs from those selected sentences.
-We outperform the previous methods using AMR for summarization by more that 3 ROGUE-1 points.
-On the CNN-Dailymail corpus we achieve results competitive with the strong lead-3 baseline till summary graph extraction step.

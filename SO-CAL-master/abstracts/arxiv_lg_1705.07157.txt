@@ -1,0 +1,5 @@
+Recently, there has been substantial interest in clustering research that takes a beyond worst-case approach to the analysis of algorithms.
+The typical idea is to design a clustering algorithm that outputs a near-optimal solution, provided the data satisfy a natural stability notion.
+For example, Bilu and Linial (2010) and Awasthi et al.
+(2012) presented algorithms that output near-optimal solutions, assuming the optimal solution is preserved under small perturbations to the input distances.
+A drawback to this approach is that the algorithms are often explicitly built according to the stability assumption and give no guarantees in the worst case; indeed, several recent algorithms output arbitrarily bad solutions even when just a small section of the data does not satisfy the given stability notion.

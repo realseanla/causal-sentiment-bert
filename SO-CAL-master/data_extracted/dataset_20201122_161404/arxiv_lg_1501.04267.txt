@@ -1,6 +1,0 @@
-In [1], a clustering algorithm was given to find the centers of clusters quickly.
-However, the accuracy of this algorithm heavily depend on the threshold value of d-c.
-Furthermore, [1] has not provided any efficient way to select the threshold value of d-c, that is, one can have to estimate the value of d_c depend on one's subjective experience.
-In this paper, based on the data field [2], we propose a new way to automatically extract the threshold value of d_c from the original data set by using the potential entropy of data field.
-For any data set to be clustered, the most reasonable value of d_c can be objectively calculated from the data set by using our proposed method.
-The same experiments in [1] are redone with our proposed method on the same experimental data set used in [1], the results of which shows that the problem to calculate the threshold value of d_c in [1] has been solved by using our method.

@@ -1,6 +1,0 @@
-Thanks to recent advances, AI Planning has become the underlying technique for several applications.
-Figuring prominently among these is automated Web Service Composition (WSC) at the "capability" level, where services are described in terms of preconditions and effects over ontological concepts.
-A key issue in addressing WSC as planning is that ontologies are not only formal vocabularies; they also axiomatize the possible relationships between concepts.
-Such axioms correspond to what has been termed "integrity constraints" in the actions and change literature, and applying a web service is essentially a belief update operation.
-The reasoning required for belief update is known to be harder than reasoning in the ontology itself.
-The support for belief update is severely limited in current planning tools.

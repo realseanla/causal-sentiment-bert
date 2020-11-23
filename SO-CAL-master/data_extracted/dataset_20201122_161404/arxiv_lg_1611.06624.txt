@@ -1,6 +1,0 @@
-In this paper we propose a generative model, the Temporal Generative Adversarial Network (TGAN), which can learn a semantic representation of unlabelled videos, and is capable of generating consistent videos.
-Unlike an existing GAN that generates videos with a generator consisting of 3D deconvolutional layers, our model exploits two types of generators: a temporal generator and an image generator.
-The temporal generator consists of 1D deconvolutional layers and outputs a set of latent variables, each of which corresponds to a frame in the generated video, and the image generator transforms them into a video with 2D deconvolutional layers.
-This representation allows efficient training of the network parameters.
-Moreover, it can handle a wider range of applications including the generation of a long sequence, frame interpolation, and the use of pre-trained models.
-Experimental results demonstrate the effectiveness of our method.

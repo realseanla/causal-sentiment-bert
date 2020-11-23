@@ -1,3 +1,0 @@
-We describe a novel optimization method for finite sums (such as empirical risk minimization problems) building on the recently introduced SAGA method.
-Our method achieves an accelerated convergence rate on strongly convex smooth problems, matching the conjectured optimal rate.
-Our method has only one parameter (a step size), and is radically simpler than other accelerated methods for finite sums.

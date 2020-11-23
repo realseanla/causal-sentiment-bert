@@ -1,0 +1,4 @@
+In this paper we present a new type of latent topic model, which exploits supervision to produce a factorized representation of the observed data.
+The structured parameterization separately encodes variance that is shared between classes from variance that is private to each class by the introduction of a new prior.
+The approach allows for a more efficient inference and provides an intuitive interpretation of the data in terms of an informative signal together with structured noise.
+The factorized representation is shown to enhance inference performance for both image and text classification.

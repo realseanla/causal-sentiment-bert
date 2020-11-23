@@ -1,7 +1,0 @@
-Recommender systems leverage user social and demographic information, e.g., age, gender and political affiliation, to personalize content and monetize on their users.
-Oftentimes, users do not volunteer this information due to privacy concerns or to the lack of initiative in filling out their profile information.
-In this work, we illustrate a new threat in which the system can nevertheless learn the private attribute for those users who do not voluntarily disclose them.
-We design an active attack that solicit ratings for strategically selected items, and could thus be used by a recommender system to pursue its hidden agenda.
-Our method is based on a novel usage of Bayesian matrix factorization in an active learning setting.
-Evaluations, on multiple datasets, illustrate that such an attack is indeed feasible and can be carried out using significantly fewer rated items than the previously proposed static inference methods.
-Importantly, this threat can succeed without sacrificing the quality of the regular recommendations made to the user.

@@ -1,0 +1,4 @@
+Recent research has shown that the performances of a single arbitrarily efficient solver can be significantly outperformed by a portfolio of possibly slower on-average solvers.
+The solver selection is usually done by using machine learning techniques which exploit features extracted from the problem specification.
+In this paper we present a tool that is able to extract an extensive set of features from a Constraint Satisfaction Problem (CSP) defined either in the MiniZinc format or in the XCSP format.
+We also report some empirical results showing that the performances that can be obtained using these features are competitive with state of the art CSP portfolio techniques.

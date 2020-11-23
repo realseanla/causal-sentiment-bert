@@ -1,5 +1,0 @@
-This work introduces a probabilistic-based model for binary CSP that provides a fine grained analysis of its internal structure.
-Assuming that a domain modification could occur in the CSP, it shows how to express, in a predictive way, the probability that a domain value becomes inconsistent, then it express the expectation of the number of arc-inconsistent values in each domain of the constraint network.
-Thus, it express the expectation of the number of arc-inconsistent values for the whole constraint network.
-Next, it provides bounds for each of these three probabilistic indicators.
-Finally, a polytime algorithm, which propagates the probabilistic information, is presented.

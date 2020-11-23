@@ -1,0 +1,4 @@
+The paper presents a novel concept for collaborative descriptors between deeply learned and hand-crafted features.
+To achieve this concept, we apply convolutional maps for pre-processing, namely the convovlutional maps are used as input of hand-crafted features.
+We recorded an increase in the performance rate of +17.06  percent (multi-class object recognition) and +24.71  percent (car detection) from grayscale input to convolutional maps.
+Although the framework is straight-forward, the concept should be inherited for an improved representation.

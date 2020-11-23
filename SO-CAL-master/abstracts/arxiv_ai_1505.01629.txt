@@ -1,0 +1,3 @@
+LeoPARD supports the implementation of knowledge representation and reasoning tools for higher-order logic(s).
+It combines a sophisticated data structure layer (polymorphically typed {\lambda}-calculus with nameless spine notation, explicit substitutions, and perfect term sharing) with an ambitious multi-agent blackboard architecture (supporting prover parallelism at the term, clause, and search level).
+Further features of LeoPARD include a parser for all TPTP dialects, a command line interpreter, and generic means for the integration of external reasoners.

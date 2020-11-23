@@ -1,0 +1,8 @@
+Even though the problem of blind deblurring is a long studied vision task, the outcomes of generic methods are not effective in real world blurred images.
+Exploiting domain knowledge for specific object deblurring, e.g.
+text or faces, has attracted recently an increasing amount of attention.
+Faces are among the most well studied objects in computer vision and despite the significant progress made, the deblurring of faces does not yield yet satisfying results in an arbitrary image.
+We study the problem of face deblurring by inserting weak supervision in the form of alignment in a deep network.
+We introduce an efficient framework, used to generate a dataset of over two million frames.
+The dataset, which we call 2MF2, was used during the network's training process.
+We conduct experiments with real world blurred facial images and report that our method returns a result close to the sharp natural latent image.

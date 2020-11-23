@@ -1,4 +1,0 @@
-Symmetry breaking has been proven to be an efficient preprocessing technique for satisfiability solving (SAT).
-In this paper, we port the state-of-the-art SAT symmetry breaker BreakID to answer set programming (ASP).
-The result is a lightweight tool that can be plugged in between the grounding and the solving phases that are common when modelling in ASP.
-We compare our tool with sbass, the current state-of-the-art symmetry breaker for ASP.

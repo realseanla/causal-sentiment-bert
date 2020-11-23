@@ -1,5 +1,0 @@
-Non-stationary domains, that change in unpredicted ways, are a challenge for agents searching for optimal policies in sequential decision-making problems.
-This paper presents a combination of Markov Decision Processes (MDP) with Answer Set Programming (ASP), named {\em Online ASP for MDP} (oASP(MDP)), which is a method capable of constructing the set of domain states while the agent interacts with a changing environment.
-oASP(MDP) updates previously obtained policies, learnt by means of Reinforcement Learning (RL), using rules that represent the domain changes observed by the agent.
-These rules represent a set of domain constraints that are processed as ASP programs reducing the search space.
-Results show that oASP(MDP) is capable of finding solutions for problems in non-stationary domains without interfering with the action-value function approximation process.

@@ -1,0 +1,7 @@
+Performing effective preference-based data retrieval requires detailed and preferentially meaningful structurized information about the current user as well as the items under consideration.
+A common problem is that representations of items often only consist of mere technical attributes, which do not resemble human perception.
+This is particularly true for integral items such as movies or songs.
+It is often claimed that meaningful item features could be extracted from collaborative rating data, which is becoming available through social networking services.
+However, there is only anecdotal evidence supporting this claim; but if it is true, the extracted information could very valuable for preference-based data retrieval.
+In this paper, we propose a methodology to systematically check this common claim.
+We performed a preliminary investigation on a large collection of movie ratings and present initial evidence.

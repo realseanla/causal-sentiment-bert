@@ -1,6 +1,0 @@
-This paper proposes information directed sampling--a new algorithm for balancing between exploration and exploitation in online optimization problems in which a decision-maker must learn from partial feedback.
-The algorithm quantifies the amount learned by selecting an action through an information theoretic measure: the mutual information between the true optimal action and the algorithm's next observation.
-Actions are then selected by optimizing a myopic objective that balances earning high immediate reward and acquiring information.
-We show this algorithm is provably efficient and is empirically efficient in simulation trials.
-We provide novel and general regret bounds that scale with the entropy of the optimal action distribution.
-Furthermore, as we highlight through several examples, information directed sampling sometimes dramatically outperforms popular approaches like UCB algorithms and Thompson sampling which don't quantify the information provided by different actions.

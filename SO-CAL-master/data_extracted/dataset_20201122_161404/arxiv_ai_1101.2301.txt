@@ -1,8 +1,0 @@
-Software testing is an expensive process, which is vital in the industry.
-Construction of the test-data in software testing requires the major cost and to decide which method to use in order to generate the test data is important.
-This paper discusses the efficiency of search-based algorithms (preferably genetic algorithm) versus random testing, in soft- ware test-data generation.
-This study differs from all previous studies due to sample programs (SUTs) which are used.
-Since we want to in- crease the complexity of SUTs gradually, and the program generation is automatic as well, Grammatical Evolution is used to guide the program generation.
-SUTs are generated according to the grammar we provide, with different levels of complexity.
-SUTs will first undergo genetic al- gorithm and then random testing.
-Based on the test results, this paper recommends one method to use for automation of software testing.

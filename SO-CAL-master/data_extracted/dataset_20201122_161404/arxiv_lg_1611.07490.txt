@@ -1,6 +1,0 @@
-We explore beyond existing work on learning from demonstration by asking the question: Can robots learn to teach?, that is, can a robot autonomously learn an instructional policy from expert demonstration and use it to instruct or collaborate with humans in executing complex tasks in uncertain environments?
-In this paper we pursue a solution to this problem by leveraging the idea that humans often implicitly decompose a higher level task into several subgoals whose execution brings the task closer to completion.
-We propose Dirichlet process based non-parametric Inverse Reinforcement Learning (DPMIRL) approach for reward based unsupervised clustering of task space into subgoals.
-This approach is shown to capture the latent subgoals that a human teacher would have utilized to train a novice.
-The notion of action primitive is introduced as the means to communicate instruction policy to humans in the least complicated manner, and as a computationally efficient tool to segment demonstration data.
-We evaluate our approach through experiments on hydraulic actuated scaled model of an excavator and evaluate and compare different teaching strategies utilized by the robot.

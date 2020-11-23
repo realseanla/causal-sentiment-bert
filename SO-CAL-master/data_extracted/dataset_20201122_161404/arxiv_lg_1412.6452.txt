@@ -1,6 +1,0 @@
-The importance of metrics in machine learning has attracted a growing interest for distance and similarity learning, and especially the Mahalanobis distance.
-However, it is worth noting that this research field lacks theoretical guarantees that can be expected on the generalization capacity of the classifier associated to a learned metric.
-The theoretical framework of $(\epsilon, \gamma, \tau)$-good similarity functions has been one of the first attempts to draw a link between the properties of a similarity function and those of a linear classifier making use of it.
-In this paper, we extend this theory to a setting where the metric and the separator are jointly learned in a semi-supervised way.
-We furthermore provide a generalization bound for the associated classifier based on the algorithmic robustness framework.
-The behavior of our method is illustrated via some experimental results.

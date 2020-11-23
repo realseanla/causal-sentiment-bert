@@ -1,9 +1,0 @@
-Classification performance is often not uniform over the data.
-Some areas in the input space are easier to classify than others.
-Features that hold information about the "difficulty" of the data may be non-discriminative and are therefore disregarded in the classification process.
-We propose a meta-learning approach where performance may be improved by post-processing.
-This improvement is done by establishing a dynamic threshold on the base-classifier results.
-Since the base-classifier is treated as a "black box" the method presented can be used on any state of the art classifier in order to try an improve its performance.
-We focus our attention on how to better control the true-positive/false-positive trade-off known as the ROC curve.
-We propose an algorithm for the derivation of optimal thresholds by redistributing the error depending on features that hold information about difficulty.
-We demonstrate the resulting benefit on both synthetic and real-life data.

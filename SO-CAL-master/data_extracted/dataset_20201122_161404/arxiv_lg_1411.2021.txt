@@ -1,3 +1,0 @@
-We study a suitable class of well-clustered graphs that admit good k-way partitions and present the first almost-linear time algorithm for with almost-optimal approximation guarantees partitioning such graphs.
-A good k-way partition is a partition of the vertices of a graph into disjoint clusters (subsets) $\{S_i\}_{i=1}^k$, such that each cluster is better connected on the inside than towards the outside.
-This problem is a key building block in algorithm design, and has wide applications in community detection and network analysis.

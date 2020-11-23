@@ -1,4 +1,0 @@
-This paper addresses the problem of non-Bayesian learning over multi-agent networks, where agents repeatedly collect partially informative observations about an unknown state of the world, and try to collaboratively learn the true state.
-We focus on the impact of the adversarial agents on the performance of consensus-based non-Bayesian learning, where non-faulty agents combine local learning updates with consensus primitives.
-In particular, we consider the scenario where an unknown subset of agents suffer Byzantine faults -- agents suffering Byzantine faults behave arbitrarily.
-Two different learning rules are proposed.

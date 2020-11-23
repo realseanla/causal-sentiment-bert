@@ -1,0 +1,4 @@
+In this paper, we propose an approach for Relationship Extraction (RE) based on labeled graph kernels.
+The kernel we propose is a particularization of a random walk kernel that exploits two properties previously studied in the RE literature: (i) the words between the candidate entities or connecting them in a syntactic representation are particularly likely to carry information regarding the relationship; and (ii) combining information from distinct sources in a kernel may help the RE system make better decisions.
+We performed experiments on a dataset of protein-protein interactions and the results show that our approach obtains effectiveness values that are comparable with the state-of-the art kernel methods.
+Moreover, our approach is able to outperform the state-of-the-art kernels when combined with other kernel methods.

@@ -1,5 +1,0 @@
-In the process of recording, storage and transmission of time-domain audio signals, errors may be introduced that are difficult to correct in an unsupervised way.
-Here, we train a convolutional deep neural network to re-synthesize input time-domain speech signals at its output layer.
-We then use this abstract transformation, which we call a deep transform (DT), to perform probabilistic re-synthesis on further speech (of the same speaker) which has been degraded.
-Using the convolutive DT, we demonstrate the recovery of speech audio that has been subject to extreme degradation.
-This approach may be useful for correction of errors in communications devices.

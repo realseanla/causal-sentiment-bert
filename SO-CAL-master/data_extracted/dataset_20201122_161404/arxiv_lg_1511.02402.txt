@@ -1,4 +1,0 @@
-In many applications such as web-based search, document summarization, facility location and other applications, the results are preferable to be both representative and diversified subsets of documents.
-The goal of this study is to select a good "quality", bounded-size subset of a given set of items, while maintaining their diversity relative to a semi-metric distance function.
-This problem was first studied by Borodin et al, but a crucial property used throughout their proof is the triangle inequality.
-In this modified proof, we want to relax the triangle inequality and relate the approximation ratio of max-sum diversification problem to the parameter of the relaxed triangle inequality in the normal form of the problem (i.e., a uniform matroid) and also in an arbitrary matroid.

@@ -1,0 +1,8 @@
+In cognitive radio (CR) technology, the trend of sensing is no longer to only detect the presence of active primary users.
+A large number of applications demand for the relationship of user behaviour in spatial, temporal, and frequency domains.
+To satisfy such requirements, we study the statistical relationship of primary users by introducing a Bayesian network (BN) based structure learning framework in this paper.
+How to learn the BN structure is a long standing issue, not fully understood even in the machining learning field.
+Besides, another key problem in the learning scenario is that the CR has to identify how many variables in the BN, which is usually considered as prior knowledge in machine learning applications.
+To solve such two issues simultaneously, this paper proposes a BN structure learning scheme consisting of an efficient structure learning algorithm and a blind variable identification algorithm.
+The proposed scheme bears significantly lower computational complexity compared with previous ones, and is capable of determining the structure without assuming any prior knowledge about variables.
+With this scheme, cognitive users could understand the statistical pattern of primary networks efficiently, such that more efficient cognitive protocols could be designed across different network layers.

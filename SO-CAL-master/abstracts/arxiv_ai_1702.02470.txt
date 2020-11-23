@@ -1,0 +1,5 @@
+The technique of kernelization consists in extracting, from an instance of a problem, an essentially equivalent instance whose size is bounded in a parameter k. Besides being the basis for efficient param-eterized algorithms, this method also provides a wealth of information to reason about in the context of constraint programming.
+We study the use of kernelization for designing propagators through the example of the Vertex Cover constraint.
+Since the classic kernelization rules often correspond to dominance rather than consistency, we introduce the notion of "loss-less" kernel.
+While our preliminary experimental results show the potential of the approach, they also show some of its limits.
+In particular, this method is more effective for vertex covers of large and sparse graphs, as they tend to have, relatively, smaller kernels.

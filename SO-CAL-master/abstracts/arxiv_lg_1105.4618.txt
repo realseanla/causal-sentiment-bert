@@ -1,0 +1,3 @@
+We begin this report by describing the Probably Approximately Correct (PAC) model for learning a concept class, consisting of subsets of a domain, and a function class, consisting of functions from the domain to the unit interval.
+Two combinatorial parameters, the Vapnik-Chervonenkis (VC) dimension and its generalization, the Fat Shattering dimension of scale e, are explained and a few examples of their calculations are given with proofs.
+We then explain Sauer's Lemma, which involves the VC dimension and is used to prove the equivalence of a concept class being distribution-free PAC learnable and it having finite VC dimension.

@@ -1,6 +1,0 @@
-Deliberating on large or continuous state spaces have been long standing challenges in reinforcement learning.
-Temporal Abstraction have somewhat made this possible, but efficiently planing using temporal abstraction still remains an issue.
-Moreover using spatial abstractions to learn policies for various situations at once while using temporal abstraction models is an open problem.
-We propose here an efficient algorithm which is convergent under linear function approximation while planning using temporally abstract actions.
-We show how this algorithm can be used along with randomly generated option models over multiple time scales to plan agents which need to act real time.
-Using these randomly generated option models over multiple time scales are shown to reduce number of decision epochs required to solve the given task, hence effectively reducing the time needed for deliberation.

@@ -1,5 +1,0 @@
-The quadratic unconstrained binary optimization (QUBO) problem arises in diverse optimization applications ranging from Ising spin problems to classical problems in graph theory and binary discrete optimization.
-The use of preprocessing to transform the graph representing the QUBO problem into a smaller equivalent graph is important for improving solution quality and time for both exact and metaheuristic algorithms and is a step towards mapping large scale QUBO to hardware graphs used in quantum annealing computers.
-In an earlier paper (Lewis and Glover, 2016) a set of rules was introduced that achieved significant QUBO reductions as verified through computational testing.
-Here this work is extended with additional rules that provide further reductions that succeed in exactly solving 10 percent of the benchmark QUBO problems.
-An algorithm and associated data structures to efficiently implement the entire set of rules is detailed and computational experiments are reported that demonstrate their efficacy.

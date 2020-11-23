@@ -1,0 +1,5 @@
+Heretofore, automatic checkpointing at procedure-call boundaries, to reduce the space complexity of reverse mode, has been provided by systems like Tapenade.
+However, binomial checkpointing, or treeverse, has only been provided in Automatic Differentiation (AD) systems in special cases, e.g., through user-provided pragmas on DO loops in Tapenade, or as the nested taping mechanism in adol-c for time integration processes, which requires that user code be refactored.
+We present a framework for applying binomial checkpointing to arbitrary code with no special annotation or refactoring required.
+This is accomplished by applying binomial checkpointing directly to a program trace.
+This trace is produced by a general-purpose checkpointing mechanism that is orthogonal to AD.

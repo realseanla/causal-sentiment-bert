@@ -1,0 +1,12 @@
+The composition of polyphonic chorale music in the style of J.S Bach has represented a major challenge in automatic music composition over the last decades.
+The art of Bach chorales composition involves combining four-part harmony with characteristic rhythmic patterns and typical melodic movements to produce musical phrases which begin, evolve and end (cadences) in a harmonious way.
+To our knowledge, no model so far was able to solve all these problems simultaneously using an agnostic machine-learning approach.
+This paper introduces DeepBach, a statistical model aimed at modeling polyphonic music and specifically four parts, hymn-like pieces.
+We claim that, after being trained on the chorale harmonizations by Johann Sebastian Bach, our model is capable of generating highly convincing chorales in the style of Bach.
+We evaluate how indistinguishable our generated chorales are from existing Bach chorales with a listening test.
+The results corroborate our claim.
+A key strength of DeepBach is that it is agnostic and flexible.
+Users can constrain the generation by imposing some notes, rhythms or cadences in the generated score.
+This allows users to reharmonize user-defined melodies.
+DeepBach's generation is fast, making it usable for interactive music composition applications.
+Several generation examples are provided and discussed from a musical point of view.

@@ -1,0 +1,7 @@
+Network complexity is increasing, making network control and orchestration a challenging task.
+The proliferation of network information and tools for data analytics can provide an important insight into resource provisioning and optimisation.
+The network knowledge incorporated in software defined networking can facilitate the knowledge driven control, leveraging the network programmability.
+We present Seer: a flexible, highly configurable data analytics platform for network intelligence based on software defined networking and big data principles.
+Seer combines a computational engine with a distributed messaging system to provide a scalable, fault tolerant and real-time platform for knowledge extraction.
+Our first prototype uses Apache Spark for streaming analytics and open network operating system (ONOS) controller to program a network in real-time.
+The first application we developed aims to predict the mobility pattern of mobile devices inside a smart city environment.

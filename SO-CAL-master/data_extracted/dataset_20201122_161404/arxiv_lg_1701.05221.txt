@@ -1,5 +1,0 @@
-A new, radical CNN design approach is presented in this paper, considering the reduction of the total computational load during inference.
-This is achieved by a new holistic intervention on both the CNN architecture and the training procedure, which targets to the parsimonious inference by learning to exploit or remove the redundant capacity of a CNN architecture.
-This is accomplished, by the introduction of a new structural element that can be inserted as an add-on to any contemporary CNN architecture, whilst preserving or even improving its recognition accuracy.
-Our approach formulates a systematic and data-driven method for developing CNNs that are trained to eventually change size and form in real-time during inference, targeting to the smaller possible computational footprint.
-Results are provided for the optimal implementation on a few modern, high-end mobile computing platforms indicating a significant speed-up of up to x3 times.

@@ -1,0 +1,10 @@
+LinkedIn is the largest professional network with more than 350 million members.
+As the member base increases, searching for experts becomes more and more challenging.
+In this paper, we propose an approach to address the problem of personalized expertise search on LinkedIn, particularly for exploratory search queries containing {\it skills}.
+In the offline phase, we introduce a collaborative filtering approach based on matrix factorization.
+Our approach estimates expertise scores for both the skills that members list on their profiles as well as the skills they are likely to have but do not explicitly list.
+In the online phase (at query time) we use expertise scores on these skills as a feature in combination with other features to rank the results.
+To learn the personalized ranking function, we propose a heuristic to extract training data from search logs while handling position and sample selection biases.
+We tested our models on two products - LinkedIn homepage and LinkedIn recruiter.
+A/B tests showed significant improvements in click through rates - 31 percent for CTR@1 for recruiter (18 percent for homepage) as well as downstream messages sent from search - 37 percent for recruiter (20 percent for homepage).
+As of writing this paper, these models serve nearly all live traffic for skills search on LinkedIn homepage as well as LinkedIn recruiter.

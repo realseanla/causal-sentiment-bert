@@ -1,4 +1,0 @@
-We describe a open-domain information extraction method for extracting concept-instance pairs from an HTML corpus.
-Most earlier approaches to this problem rely on combining clusters of distributionally similar terms and concept-instance pairs obtained with Hearst patterns.
-In contrast, our method relies on a novel approach for clustering terms found in HTML tables, and then assigning concept names to these clusters using Hearst patterns.
-The method can be efficiently applied to a large corpus, and experimental results on several datasets show that our method can accurately extract large numbers of concept-instance pairs.

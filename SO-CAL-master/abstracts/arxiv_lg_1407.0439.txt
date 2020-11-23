@@ -1,0 +1,6 @@
+This paper is about authenticating genuine van Gogh paintings from forgeries.
+The authentication process depends on two key steps: feature extraction and outlier detection.
+In this paper, a geometric tight frame and some low order moment statistics of the tight frame coefficients are used to extract features from the paintings.
+Then a forward stage-wise rank boosting is used to select a small set of features for more accurate classification so that van Gogh paintings are highly concentrated towards some center point while forgeries are spread out as outliers.
+Numerical results on leave-one-out cross-validation show that our proposed method can achieve a 87 percent classification accuracy which is better than any reported in literature so far.
+Even with only 4 features, our method can give a 84 percent classification accuracy, indicating a highly consistent style in van Gogh's brushstroke movements.

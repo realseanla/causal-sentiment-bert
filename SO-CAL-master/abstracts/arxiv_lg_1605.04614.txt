@@ -1,0 +1,5 @@
+In this paper we present DeepLearningKit - an open source framework that supports using pretrained deep learning models (convolutional neural networks) for iOS, OS X and tvOS.
+DeepLearningKit is developed in Metal in order to utilize the GPU efficiently and Swift for integration with applications, e.g.
+iOS-based mobile apps on iPhone/iPad, tvOS-based apps for the big screen, or OS X desktop applications.
+The goal is to support using deep learning models trained with popular frameworks such as Caffe, Torch, TensorFlow, Theano, Pylearn, Deeplearning4J and Mocha.
+Given the massive GPU resources and time required to train Deep Learning models we suggest an App Store like model to distribute and download pretrained and reusable Deep Learning models.

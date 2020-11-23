@@ -1,0 +1,4 @@
+Several studies on sentence processing suggest that the mental lexicon keeps track of the mutual expectations between words.
+Current DSMs, however, represent context words as separate features, which causes the loss of important information for word expectations, such as word order and interrelations.
+In this paper, we present a DSM which addresses the issue by defining verb contexts as joint dependencies.
+We test our representation in a verb similarity task on two datasets, showing that joint contexts are more efficient than single dependencies, even with a relatively small amount of training data.

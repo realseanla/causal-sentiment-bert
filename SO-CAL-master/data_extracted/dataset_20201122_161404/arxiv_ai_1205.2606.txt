@@ -1,5 +1,0 @@
-This paper presents a new algorithm for online linear regression whose efficiency guarantees satisfy the requirements of the KWIK (Knows What It Knows) framework.
-The algorithm improves on the complexity bounds of the current state-of-the-art procedure in this setting.
-We explore several applications of this algorithm for learning compact reinforcement-learning representations.
-We show that KWIK linear regression can be used to learn the reward function of a factored MDP and the probabilities of action outcomes in Stochastic STRIPS and Object Oriented MDPs, none of which have been proven to be efficiently learnable in the RL setting before.
-We also combine KWIK linear regression with other KWIK learners to learn larger portions of these models, including experiments on learning factored MDP transition and reward functions together.

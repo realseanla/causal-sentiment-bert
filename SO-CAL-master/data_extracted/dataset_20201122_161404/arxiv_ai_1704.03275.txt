@@ -1,2 +1,0 @@
-This paper introduces Scavenger, the first theorem prover for pure first-order logic without equality based on the new conflict resolution calculus.
-Conflict resolution has a restricted resolution inference rule that resembles (a first-order generalization of) unit propagation as well as a rule for assuming decision literals and a rule for deriving new clauses by (a first-order generalization of) conflict-driven clause learning.

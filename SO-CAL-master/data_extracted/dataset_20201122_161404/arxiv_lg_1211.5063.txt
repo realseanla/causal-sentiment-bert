@@ -1,5 +1,0 @@
-Training Recurrent Neural Networks is more troublesome than feedforward ones because of the vanishing and exploding gradient problems detailed in Bengio et al.
-(1994).
-In this paper we attempt to understand the fundamental issues underlying the exploding gradient problem by exploring it from an analytical, a geometric and a dynamical system perspective.
-Our analysis is used to justify the simple yet effective solution of norm clipping the exploded gradient.
-In the experimental section, the comparison between this heuristic solution and standard SGD provides empirical evidence towards our hypothesis as well as it shows that such a heuristic is required to reach state of the art results on a character prediction task and a polyphonic music prediction one.

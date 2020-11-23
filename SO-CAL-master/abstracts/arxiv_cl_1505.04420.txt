@@ -1,0 +1,4 @@
+This thesis presents a study about the integration of information about Multiword Expressions (MWEs) into parsing with Combinatory Categorial Grammar (CCG).
+We build on previous work which has shown the benefit of adding information about MWEs to syntactic parsing by implementing a similar pipeline with CCG parsing.
+More specifically, we collapse MWEs to one token in training and test data in CCGbank, a corpus which contains sentences annotated with CCG derivations.
+Our collapsing algorithm however can only deal with MWEs when they form a constituent in the data which is one of the limitations of our approach.

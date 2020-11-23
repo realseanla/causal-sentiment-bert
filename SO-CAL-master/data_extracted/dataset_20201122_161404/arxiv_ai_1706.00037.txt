@@ -1,3 +1,0 @@
-Multi-start algorithms are a common and effective tool for metaheuristic searches.
-In this paper we amplify multi-start capabilities by employing the parallel processing power of the graphics processer unit (GPU) to quickly generate a diverse starting set of solutions for the Unconstrained Binary Quadratic Optimization Problem which are evaluated and used to implement screening methods to select solutions for further optimization.
-This method is implemented as an initial high quality solution generation phase prior to a secondary steepest ascent search and a comparison of results to best known approaches on benchmark unconstrained binary quadratic problems demonstrates that GPU-enabled diversified multi-start with screening quickly yields very good results.

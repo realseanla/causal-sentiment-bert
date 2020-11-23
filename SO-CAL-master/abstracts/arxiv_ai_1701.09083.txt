@@ -1,0 +1,5 @@
+We propose a novel rank aggregation method based on converting permutations into their corresponding Lehmer codes or other subdiagonal images.
+Lehmer codes, also known as inversion vectors, are vector representations of permutations in which each coordinate can take values not restricted by the values of other coordinates.
+This transformation allows for decoupling of the coordinates and for performing aggregation via simple scalar median or mode computations.
+We present simulation results illustrating the performance of this completely parallelizable approach and analytically prove that both the mode and median aggregation procedure recover the correct centroid aggregate with small sample complexity when the permutations are drawn according to the well-known Mallows models.
+The proposed Lehmer code approach may also be used on partial rankings, with similar performance guarantees.

@@ -1,5 +1,0 @@
-A reproducing kernel can define an embedding of a data point into an infinite dimensional reproducing kernel Hilbert space (RKHS).
-The norm in this space describes a distance, which we call the kernel distance.
-The random Fourier features (of Rahimi and Recht) describe an oblivious approximate mapping into finite dimensional Euclidean space that behaves similar to the RKHS.
-We show in this paper that for the Gaussian kernel the Euclidean norm between these mapped to features has $(1+\epsilon)$-relative error with respect to the kernel distance.
-When there are $n$ data points, we show that $O((1/\epsilon^2) \log(n))$ dimensions of the approximate feature space are sufficient and necessary.

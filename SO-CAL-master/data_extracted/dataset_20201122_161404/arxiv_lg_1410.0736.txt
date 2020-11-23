@@ -1,8 +1,0 @@
-Existing deep convolutional neural network (CNN) architectures are trained as N-way classifiers to distinguish between N output classes.
-This work builds on the intuition that not all classes are equally difficult to distinguish from a true class label.
-Towards this end, we introduce hierarchical branching CNNs, named as Hierarchical Deep CNN (HD-CNN), wherein classes that can be easily distinguished are classified in the higher layer coarse category CNN, while the most difficult classifications are done on lower layer fine category CNN.
-We propose utilizing a multinomial logistic loss and a novel temporal sparsity penalty for HD-CNN training.
-Together they ensure each branching component deals with a subset of categories confusing to each other.
-This new network architecture adopts coarse-to-fine classification strategy and module design principle.
-The proposed model achieves superior performance over standard models.
-We demonstrate state-of-the-art results on CIFAR100 benchmark.

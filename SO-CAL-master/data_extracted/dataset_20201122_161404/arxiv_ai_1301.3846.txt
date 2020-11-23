@@ -1,5 +1,0 @@
-Algorithms for exact and approximate inference in stochastic logic programs (SLPs) are presented, based respectively, on variable elimination and importance sampling.
-We then show how SLPs can be used to represent prior distributions for machine learning, using (i) logic programs and (ii) Bayes net structures as examples.
-Drawing on existing work in statistics, we apply the Metropolis-Hasting algorithm to construct a Markov chain which samples from the posterior distribution.
-A Prolog implementation for this is described.
-We also discuss the possibility of constructing explicit representations of the posterior.

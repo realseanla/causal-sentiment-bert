@@ -1,4 +1,0 @@
-NP-SPEC is a language for specifying problems in NP in a declarative way.
-Despite the fact that the semantics of the language was given by referring to Datalog with circumscription, which is very close to ASP, so far the only existing implementations are by means of ECLiPSe Prolog and via Boolean satisfiability solvers.
-In this paper, we present translations from NP-SPEC into various forms of ASP and analyze them.
-We also argue that it might be useful to incorporate certain language constructs of NP-SPEC into mainstream ASP.

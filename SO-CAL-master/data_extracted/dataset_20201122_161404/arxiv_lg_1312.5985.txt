@@ -1,5 +1,0 @@
-This paper investigates the learning of 3rd-order tensors representing the semantics of transitive verbs.
-The meaning representations are part of a type-driven tensor-based semantic framework, from the newly emerging field of compositional distributional semantics.
-Standard techniques from the neural networks literature are used to learn the tensors, which are tested on a selectional preference-style task with a simple 2-dimensional sentence space.
-Promising results are obtained against a competitive corpus-based baseline.
-We argue that extending this work beyond transitive verbs, and to higher-dimensional sentence spaces, is an interesting and challenging problem for the machine learning community to consider.

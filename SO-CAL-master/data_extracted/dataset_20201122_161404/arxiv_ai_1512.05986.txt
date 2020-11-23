@@ -1,5 +1,0 @@
-Convolutional neural networks demonstrated outstanding empirical results in computer vision and speech recognition tasks where labeled training data is abundant.
-In medical imaging, there is a huge variety of possible imaging modalities and contrasts, where annotated data is usually very scarce.
-We present two approaches to deal with this challenge.
-A network pretrained in a different domain with abundant data is used as a feature extractor, while a subsequent classifier is trained on a small target dataset; and a deep architecture trained with heavy augmentation and equipped with sophisticated regularization methods.
-We test the approaches on a corpus of X-ray images to design an anatomy detection system.

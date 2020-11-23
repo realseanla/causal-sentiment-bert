@@ -1,6 +1,0 @@
-The BusPlus project aims at improving the off-peak hours public transit service in Canberra, Australia.
-To address the difficulty of covering a large geographic area, BusPlus proposes a hub and shuttle model consisting of a combination of a few high-frequency bus routes between key hubs and a large number of shuttles that bring passengers from their origin to the closest hub and take them from their last bus stop to their destination.
-This paper focuses on the design of bus network and proposes an efficient solving method to this multimodal network design problem based on the Benders decomposition method.
-Starting from a MIP formulation of the problem, the paper presents a Benders decomposition approach using dedicated solution techniques for solving independent sub-problems, Pareto optimal cuts, cut bundling, and core point update.
-Computational results on real-world data from Canberra's public transit system justify the design choices and show that the approach outperforms the MIP formulation by two orders of magnitude.
-Moreover, the results show that the hub and shuttle model may decrease transit time by a factor of 2, while staying within the costs of the existing transit system.

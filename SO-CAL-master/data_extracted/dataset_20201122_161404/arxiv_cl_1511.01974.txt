@@ -1,5 +1,0 @@
-Our method for multi-lingual geoparsing uses monolingual tools and resources along with machine translation and alignment to return location words in many languages.
-Not only does our method save the time and cost of developing geoparsers for each language separately, but also it allows the possibility of a wide range of language capabilities within a single interface.
-We evaluated our method in our LanguageBridge prototype on location named entities using newswire, broadcast news and telephone conversations in English, Arabic and Chinese data from the Linguistic Data Consortium (LDC).
-Our results for geoparsing Chinese and Arabic text using our multi-lingual geoparsing method are comparable to our results for geoparsing English text with our English tools.
-Furthermore, experiments using our machine translation approach results in accuracy comparable to results from the same data that was translated manually.

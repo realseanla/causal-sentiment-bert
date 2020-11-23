@@ -1,5 +1,0 @@
-We propose a novel approach to automatically produce multiple colorized versions of a grayscale image.
-Our method results from the observation that the task of automated colorization is relatively easy given a low-resolution version of the color image.
-We first train a conditional PixelCNN to generate a low resolution color for a given grayscale image.
-Then, given the generated low-resolution color image and the original grayscale image as inputs, we train a second CNN to generate a high-resolution colorization of an image.
-We demonstrate that our approach produces more diverse and plausible colorizations than existing methods, as judged by human raters in a "Visual Turing Test".

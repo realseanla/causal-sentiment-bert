@@ -1,4 +1,0 @@
-We demonstrate that a continuous relaxation of the argmax operation can be used to create a differentiable approximation to greedy decoding for sequence-to-sequence (seq2seq) models.
-By incorporating this approximation into the scheduled sampling training procedure (Bengio et al., 2015)--a well-known technique for correcting exposure bias--we introduce a new training objective that is continuous and differentiable everywhere and that can provide informative gradients near points where previous decoding decisions change their value.
-In addition, by using a related approximation, we demonstrate a similar approach to sampled-based training.
-Finally, we show that our approach outperforms cross-entropy training and scheduled sampling procedures in two sequence prediction tasks: named entity recognition and machine translation.

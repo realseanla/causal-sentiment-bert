@@ -1,0 +1,6 @@
+Real-time optimization of traffic flow addresses important practical problems: reducing a driver's wasted time, improving city-wide efficiency, reducing gas emissions and improving air quality.
+Much of the current research in traffic-light optimization relies on extending the capabilities of traffic lights to either communicate with each other or communicate with vehicles.
+However, before such capabilities become ubiquitous, opportunities exist to improve traffic lights by being more responsive to current traffic situations within the current, already deployed, infrastructure.
+In this paper, we introduce a traffic light controller that employs bidding within micro-auctions to efficiently incorporate traffic sensor information; no other outside sources of information are assumed.
+We train and test traffic light controllers on large-scale data collected from opted-in Android cell-phone users over a period of several months in Mountain View, California and the River North neighborhood of Chicago, Illinois.
+The learned auction-based controllers surpass (in both the relevant metrics of road-capacity and mean travel time) the currently deployed lights, optimized static-program lights, and longer-term planning approaches, in both cities, measured using real user driving data.

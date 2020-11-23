@@ -1,6 +1,0 @@
-Encoding finite linear CSPs as Boolean formulas and solving them by using modern SAT solvers has proven to be highly effective, as exemplified by the award-winning sugar system.
-We here develop an alternative approach based on ASP.
-This allows us to use first-order encodings providing us with a high degree of flexibility for easy experimentation with different implementations.
-The resulting system aspartame re-uses parts of sugar for parsing and normalizing CSPs.
-The obtained set of facts is then combined with an ASP encoding that can be grounded and solved by off-the-shelf ASP systems.
-We establish the competitiveness of our approach by empirically contrasting aspartame and sugar.

@@ -1,6 +1,0 @@
-Motivated by applications in computational advertising and systems biology, we consider the problem of identifying the best out of several possible soft interventions at a source node $V$ in a causal DAG, to maximize the expected value of a target node $Y$ (downstream of $V$).
-There is a fixed total budget for sampling under various interventions.
-Also, there are cost constraints on different types of interventions.
-We pose this as a best arm identification problem with $K$ arms, where each arm is a soft intervention at $V$.
-The key difference from the classical setting is that there is information leakage among the arms.
-Each soft intervention is a distinct known conditional probability distribution between $V$ and its parents $pa(V)$.

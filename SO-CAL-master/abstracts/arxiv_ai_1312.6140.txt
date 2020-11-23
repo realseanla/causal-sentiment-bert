@@ -1,0 +1,4 @@
+Abstract dialectical frameworks (ADFs) are a powerful generalisation of Dung's abstract argumentation frameworks.
+In this paper we present an answer set programming based software system, called DIAMOND (DIAlectical MOdels eNcoDing).
+It translates ADFs into answer set programs whose stable models correspond to models of the ADF with respect to several semantics (i.e.
+admissible, complete, stable, grounded).

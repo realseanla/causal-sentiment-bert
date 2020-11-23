@@ -1,5 +1,0 @@
-We study classifiers operating under severe classification time constraints, corresponding to 1-1000 CPU microseconds, using Convolutional Tables Ensemble (CTE), an inherently fast architecture for object category recognition.
-The architecture is based on convolutionally-applied sparse feature extraction, using trees or ferns, and a linear voting layer.
-Several structure and optimization variants are considered, including novel decision functions, tree learning algorithm, and distillation from CNN to CTE architecture.
-Accuracy improvements of 24-45 percent over related art of similar speed are demonstrated on standard object recognition benchmarks.
-Using Pareto speed-accuracy curves, we show that CTE can provide better accuracy than Convolutional Neural Networks (CNN) for a certain range of classification time constraints, or alternatively provide similar error rates with 5-200X speedup.

@@ -1,5 +1,0 @@
-In late 2011, Fado was elevated to the oral and intangible heritage of humanity by UNESCO.
-This study aims to develop a tool for automatic detection of Fado music based on the audio signal.
-To do this, frequency spectrum-related characteristics were captured form the audio signal: in addition to the Mel Frequency Cepstral Coefficients (MFCCs) and the energy of the signal, the signal was further analysed in two frequency ranges, providing additional information.
-Tests were run both in a 10-fold cross-validation setup (97.6 percent accuracy), and in a traditional train/test setup (95.8 percent accuracy).
-The good results reflect the fact that Fado is a very distinctive musical style.

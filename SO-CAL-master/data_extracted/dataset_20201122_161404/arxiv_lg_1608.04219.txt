@@ -1,5 +1,0 @@
-Cylindrical Algebraic Decomposition (CAD) is a key tool in computational algebraic geometry, particularly for quantifier elimination over real-closed fields.
-However, it can be expensive, with worst case complexity doubly exponential in the size of the input.
-Hence it is important to formulate the problem in the best manner for the CAD algorithm.
-One possibility is to precondition the input polynomials using Groebner Basis (GB) theory.
-Previous experiments have shown that while this can often be very beneficial to the CAD algorithm, for some problems it can significantly worsen the CAD performance.

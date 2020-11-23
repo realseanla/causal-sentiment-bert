@@ -1,7 +1,0 @@
-Recent studies have shown that Convolutional Neural Networks (CNNs) are vulnerable to a small perturbation of input called "adversarial examples".
-In this work, we propose a new feedforward CNN that improves robustness in the presence of adversarial noise.
-Our model uses stochastic additive noise added to the input image and to the CNN models.
-The proposed model operates in conjunction with a CNN trained with standard backpropagation algorithm.
-In particular, convolution, max-pooling, and ReLU layers are modified to benefit from the noise model.
-Our model is parameterized by only a mean and variance per pixel which simplifies computations and makes our method scalable to a deep architecture.
-The proposed model outperforms the standard CNN by 13.12 percent on ImageNet and 7.37 percent on CIFAR-10 under adversarial noise at the expense of 0.28 percent of accuracy drop when used in the original dataset -- with no added noise.

@@ -1,5 +1,0 @@
-We examine various methods for combining the output of one-class models.
-In particular, we show that simple meta-learning based ensemble achieves better result than weighting methods.
-Furthermore we propose a new one-class ensemble scheme, called TUPSO that uses meta-learning for combining multiple one-class classifiers.
-We also present a new one-class classification performance measures to weigh the base-classifiers, a process that proved helpful for increasing the classification performance of the induced ensemble.
-Our experimental study shows that the proposed method significantly outperforms exiting methods.

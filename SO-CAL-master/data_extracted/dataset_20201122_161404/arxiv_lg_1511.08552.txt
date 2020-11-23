@@ -1,3 +1,0 @@
-We investigate the direct-sum problem in the context of differentially private PAC learning: What is the sample complexity of solving $k$ learning tasks simultaneously under differential privacy, and how does this cost compare to that of solving $k$ learning tasks without privacy?
-In our setting, an individual example consists of a domain element $x$ labeled by $k$ unknown concepts $(c_1,\ldots,c_k)$.
-The goal of a multi-learner is to output $k$ hypotheses $(h_1,\ldots,h_k)$ that generalize the input examples.

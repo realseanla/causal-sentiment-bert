@@ -1,0 +1,6 @@
+We present and analyze statistically optimal, communication and memory efficient distributed stochastic optimization algorithms with near-linear speedups (up to $\log$-factors).
+This improves over prior work which includes methods with near-linear speedups but polynomial communication requirements (accelerated minibatch SGD) and communication efficient methods which do not exhibit any runtime speedups over a naive single-machine approach.
+We first analyze a distributed SVRG variant as a distributed stochastic optimization method and show that it can achieve near-linear speedups with logarithmic rounds of communication, at the cost of high memory requirements.
+We then present a novel method, stochastic DANE, which trades off memory for communication and still allows for optimization with communication which scales only logarithmically with the desired accuracy while also being memory efficient.
+Stochastic DANE is based on a minibatch prox procedure, solving a non-linearized subproblem on a minibatch at each iteration.
+We provide a novel analysis for this procedure which achieves the statistical optimal rate regardless of minibatch size and smoothness, and thus significantly improving on prior work.

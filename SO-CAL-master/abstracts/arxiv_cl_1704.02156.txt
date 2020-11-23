@@ -1,0 +1,4 @@
+We evaluate a semantic parser based on a character-based sequence-to-sequence model in the context of the SemEval-2017 shared task on semantic parsing for AMRs.
+With data augmentation, super characters, and POS-tagging we gain major improvements in performance compared to a baseline model.
+The overall accuracy however is still lower than a state-of-the-art AMR parser.
+An ensemble combining our neural semantic parser with an existing, traditional parser, yields a small gain in performance.

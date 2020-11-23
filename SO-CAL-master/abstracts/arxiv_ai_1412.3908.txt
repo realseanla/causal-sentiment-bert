@@ -1,0 +1,5 @@
+Belief revision is an operation that aims at modifying old be-liefs so that they become consistent with new ones.
+The issue of belief revision has been studied in various formalisms, in particular, in qualitative algebras (QAs) in which the result is a disjunction of belief bases that is not necessarily repre-sentable in a QA.
+This motivates the study of belief revision in formalisms extending QAs, namely, their propositional clo-sures: in such a closure, the result of belief revision belongs to the formalism.
+Moreover, this makes it possible to define a contraction operator thanks to the Harper identity.
+Belief revision in the propositional closure of QAs is studied, an al-gorithm for a family of revision operators is designed, and an open-source implementation is made freely available on the web.

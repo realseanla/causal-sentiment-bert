@@ -1,5 +1,0 @@
-The potential use of non-linear speech features has not been investigated for music analysis although other commonly used speech features like Mel Frequency Ceptral Coefficients (MFCC) and pitch have been used extensively.
-In this paper, we assume an audio signal to be a sum of modulated sinusoidal and then use the energy separation algorithm to decompose the audio into amplitude and frequency modulation components using the non-linear Teager-Kaiser energy operator.
-We first identify the distribution of these non-linear features for music only and voice only segments in the audio signal in different Mel spaced frequency bands and show that they have the ability to discriminate.
-The proposed method based on Kullback-Leibler divergence measure is evaluated using a set of Indian classical songs from three different artists.
-Experimental results show that the discrimination ability is evident in certain low and mid frequency bands (200 - 1500 Hz).

@@ -1,6 +1,0 @@
-The rigorous theoretical analysis of the algorithm for a subclass of QSAT, i.e.
-(1, 2)-QSAT, has been proposed in the literature.
-(1, 2)-QSAT, first introduced in SAT'08, can be seen as quantified extended 2-CNF formulas.
-Until now, within our knowledge, there exists no algorithm presenting the worst upper bound for (1, 2)-QSAT.
-Therefore in this paper, we present an exact algorithm to solve (1, 2)-QSAT.
-By analyzing the algorithms, we obtain a worst-case upper bound O(1.4142m), where m is the number of clauses.

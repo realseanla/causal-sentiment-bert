@@ -1,8 +1,0 @@
-Well-established automatic analyses of texts mainly consider frequencies of linguistic units, e.g.
-letters, words and bigrams, while methods based on co-occurrence networks consider the structure of texts regardless of the nodes label (i.e.
-the words semantics).
-In this paper, we reconcile these distinct viewpoints by introducing a generalized similarity measure to compare texts which accounts for both the network structure of texts and the role of individual words in the networks.
-We use the similarity measure for authorship attribution of three collections of books, each composed of 8 authors and 10 books per author.
-High accuracy rates were obtained with typical values from 90 percent to 98.75 percent, much higher than with the traditional the TF-IDF approach for the same collections.
-These accuracies are also higher than taking only the topology of networks into account.
-We conclude that the different properties of specific words on the macroscopic scale structure of a whole text are as relevant as their frequency of appearance; conversely, considering the identity of nodes brings further knowledge about a piece of text represented as a network.

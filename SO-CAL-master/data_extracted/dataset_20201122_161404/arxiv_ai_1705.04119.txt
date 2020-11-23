@@ -1,9 +1,0 @@
-Critical node problems involve identifying a subset of critical nodes from an undirected graph whose removal results in optimizing a pre-defined measure over the residual graph.
-As useful models for a variety of practical applications, these problems are computational challenging.
-In this paper, we study the classic critical node problem (CNP) and introduce an effective memetic algorithm for solving CNP.
-The proposed algorithm combines a double backbone-based crossover operator (to generate promising offspring solutions), a component-based neighborhood search procedure (to find high-quality local optima) and a rank-based pool updating strategy (to guarantee a healthy population).
-Specially, the component-based neighborhood search integrates two key techniques, i.e., two-phase node exchange strategy and node weighting scheme.
-The double backbone-based crossover extends the idea of general backbone-based crossovers.
-Extensive evaluations on 42 synthetic and real-world benchmark instances show that the proposed algorithm discovers 21 new upper bounds and matches 18 previous best-known upper bounds.
-We also demonstrate the relevance of our algorithm for effectively solving a variant of the classic CNP, called the cardinality-constrained critical node problem.
-Finally, we investigate the usefulness of each key algorithmic component.

@@ -1,7 +1,0 @@
-The remarkable successes of deep learning models across various applications have resulted in the design of deeper networks that can solve complex problems.
-However, the increasing depth of such models also results in a higher storage and runtime complexity, which restricts the deployability of such very deep models on mobile and portable devices, which have limited storage and battery capacity.
-While many methods have been proposed for deep model compression in recent years, almost all of them have focused on reducing storage complexity.
-In this work, we extend the teacher-student framework for deep model compression, since it has the potential to address runtime and train time complexity too.
-We propose a simple methodology to include a noise-based regularizer while training the student from the teacher, which provides a healthy improvement in the performance of the student network.
-Our experiments on the CIFAR-10, SVHN and MNIST datasets show promising improvement, with the best performance on the CIFAR-10 dataset.
-We also conduct a comprehensive empirical evaluation of the proposed method under related settings on the CIFAR-10 dataset to show the promise of the proposed approach.

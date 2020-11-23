@@ -1,0 +1,4 @@
+Transfer Learning is concerned with the application of knowledge gained from solving a problem to a different but related problem domain.
+In this paper, we propose a method and efficient algorithm for ranking and selecting representations from a Restricted Boltzmann Machine trained on a source domain to be transferred onto a target domain.
+Experiments carried out using the MNIST, ICDAR and TiCC image datasets show that the proposed adaptive feature ranking and transfer learning method offers statistically significant improvements on the training of RBMs.
+Our method is general in that the knowledge chosen by the ranking function does not depend on its relation to any specific target domain, and it works with unsupervised learning and knowledge-based transfer.

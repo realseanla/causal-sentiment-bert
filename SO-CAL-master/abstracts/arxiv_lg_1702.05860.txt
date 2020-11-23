@@ -1,0 +1,5 @@
+In this paper we initiate the study of whether or not sparse estimation tasks can be performed efficiently in high dimensions, in the robust setting where an $\eps$-fraction of samples are corrupted adversarially.
+We study the natural robust version of two classical sparse estimation problems, namely, sparse mean estimation and sparse PCA in the spiked covariance model.
+For both of these problems, we provide the first efficient algorithms that provide non-trivial error guarantees in the presence of noise, using only a number of samples which is similar to the number required for these problems without noise.
+In particular, our sample complexities are sublinear in the ambient dimension $d$.
+Our work also suggests evidence for new computational-vs-statistical gaps for these problems (similar to those for sparse PCA without noise) which only arise in the presence of noise.

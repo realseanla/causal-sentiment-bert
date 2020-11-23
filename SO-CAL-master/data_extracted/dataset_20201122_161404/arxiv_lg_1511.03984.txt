@@ -1,7 +1,0 @@
-3\b{eta}-O-phthalic ester of betulinic acid is of great importance in anticancer studies.
-However, the optimization of its reaction conditions requires a large number of experimental works.
-To simplify the number of times of optimization in experimental works, here, we use artificial neural network (ANN) and support vector machine (SVM) models for the prediction of yields of 3\b{eta}-O-phthalic ester of betulinic acid synthesized by betulinic acid and phthalic anhydride using lipase as biocatalyst.
-General regression neural network (GRNN), multilayer feed-forward neural network (MLFN) and the SVM models were trained based on experimental data.
-Four indicators were set as independent variables, including time (h), temperature (C), amount of enzyme (mg) and molar ratio, while the yield of the 3\b{eta}-O-phthalic ester of betulinic acid was set as the dependent variable.
-Results show that the GRNN and SVM models have the best prediction results during the testing process, with comparatively low RMS errors (4.01 and 4.23respectively) and short training times (both 1s).
-The prediction accuracy of the GRNN and SVM are both 100 percent in testing process, under the tolerance of 30 percent.

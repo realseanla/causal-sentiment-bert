@@ -1,8 +1,0 @@
-We propose a decomposition of the max-min fair curriculum-based course time-tabling (MMF-CB-CTT) problem.
-The decomposition models the room assignment subproblem as a generalized lexicographic bottleneck optimization problem (GLBOP).
-We show that the GLBOP can be solved in polynomial time if the corresponding sum optimization problem can be solved in polynomial time as well.
-Thus, the room assignment subproblem of the MMF-CB-CTT problem can be solved efficiently.
-We apply this result to a previously proposed heuristic algorithm for the MMF-CB-CTT problem, in which solving the room assignment subproblem is a key ingredient.
-Our experimental results indicate that using the proposed decomposition improves the performance of the algorithm on most of the 21 ITC2007 test instances with respect to the quality of the best solution found and the average solution quality.
-Furthermore, we introduce a measure for the quality of a solution to a (generalized) lexicographic bottleneck optimization problem.
-This measure helps to overcome some limitations imposed by the qualitative nature of max-min fairness and aids the statistical evaluation of the performance of randomized algorithms for such problems.

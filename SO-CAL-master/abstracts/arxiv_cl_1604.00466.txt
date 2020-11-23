@@ -1,0 +1,9 @@
+Motivated by the application of fact-level image understanding, we present an automatic method for data collection of structured visual facts from images with captions.
+Example structured facts include attributed objects (e.g., &lt;flower, red&gt;), actions (e.g., &lt;baby, smile&gt;), interactions (e.g., &lt;man, walking, dog&gt;), and positional information (e.g., &lt;vase, on, table&gt;).
+The collected annotations are in the form of fact-image pairs (e.g.,&lt;man, walking, dog&gt; and an image region containing this fact).
+With a language approach, the proposed method is able to collect hundreds of thousands of visual fact annotations with accuracy of 83\ percent according to human judgment.
+percentthat we obtained using both Amazon Mechanical Turk and volunteer scientists in our laboratory.
+Our method automatically collected more than 380,000 visual fact annotations and more than 110,000 unique visual facts from images with captions and localized them in images in less than one day of processing time on standard CPU platforms.
+percentOur work enable large-scale fact-level understanding of images.
+percentBased on human j evaluation shows that more than 83\ percent of the automatically collected annotation  percentWe focus on collecting higher order visual facts annotations which include attributed objects (e.g.
+&lt;car, black&gt;, &lt;flower, red&gt;, actions &lt;baby, smile&gt;, and interactions &lt;dog, riding, wave&gt;.

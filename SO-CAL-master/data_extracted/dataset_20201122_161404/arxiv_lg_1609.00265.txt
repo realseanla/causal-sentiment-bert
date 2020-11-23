@@ -1,5 +1,0 @@
-A Boolean $k$-monotone function defined over a finite poset domain ${\cal D}$ alternates between the values $0$ and $1$ at most $k$ times on any ascending chain in ${\cal D}$.
-Therefore, $k$-monotone functions are natural generalizations of the classical monotone functions, which are the $1$-monotone functions.
-Motivated by the recent interest in $k$-monotone functions in the context of circuit complexity and learning theory, and by the central role that monotonicity testing plays in the context of property testing, we initiate a systematic study of $k$-monotone functions, in the property testing model.
-In this model, the goal is to distinguish functions that are $k$-monotone (or are close to being $k$-monotone) from functions that are far from being $k$-monotone.
-Our results include the following:

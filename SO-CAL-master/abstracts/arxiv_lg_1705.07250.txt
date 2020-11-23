@@ -1,0 +1,3 @@
+A different parametrization of the hyperplanes is used in the neural net algorithm.
+As demonstrated on several autoencoder examples it significantly outperforms the usual parametrization, reaching lower training error values with only a fraction of the number of epochs.
+It's argued that it makes it easier to understand and initialize the parameters.

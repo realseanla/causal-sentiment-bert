@@ -1,4 +1,0 @@
-One of the long-standing challenges in Artificial Intelligence is to build a single agent which can solve multiple tasks.
-Recent progress in multi-task learning for learning behavior in many goal-directed sequential tasks has been in the form of distillation based learning wherein a single student network learns from multiple task-specific teacher networks by mimicking the task-specific policies of the teacher networks.
-There has also been progress in the form of Progressive Networks which seek to overcome the catastrophic forgetting problem using gating mechanisms.
-We propose a simple yet efficient Multi-Tasking framework which solves many tasks in an online or active learning setup.

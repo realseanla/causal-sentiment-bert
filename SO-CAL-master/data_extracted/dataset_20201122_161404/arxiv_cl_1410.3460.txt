@@ -1,8 +1,0 @@
-With the acceptance of Western culture and science, Traditional Chinese Medicine (TCM) has become a controversial issue in China.
-So, it's important to study the public's sentiment and opinion on TCM.
-The rapid development of online social network, such as twitter, make it convenient and efficient to sample hundreds of millions of people for the aforementioned sentiment study.
-To the best of our knowledge, the present work is the first attempt that applies sentiment analysis to the domain of TCM on Sina Weibo (a twitter-like microblogging service in China).
-In our work, firstly we collect tweets topic about TCM from Sina Weibo, and label the tweets as supporting TCM and opposing TCM automatically based on user tag.
-Then, a support vector machine classifier has been built to predict the sentiment of TCM tweets without labels.
-Finally, we present a method to adjust the classifier result.
-The performance of F-measure attained with our method is 97 percent.

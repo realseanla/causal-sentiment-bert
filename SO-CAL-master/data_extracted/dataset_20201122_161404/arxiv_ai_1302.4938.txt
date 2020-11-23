@@ -1,5 +1,0 @@
-We present a simple characterization of equivalent Bayesian network structures based on local transformations.
-The significance of the characterization is twofold.
-First, we are able to easily prove several new invariant properties of theoretical interest for equivalent structures.
-Second, we use the characterization to derive an efficient algorithm that identifies all of the compelled edges in a structure.
-Compelled edge identification is of particular importance for learning Bayesian network structures from data because these edges indicate causal relationships when certain assumptions hold.

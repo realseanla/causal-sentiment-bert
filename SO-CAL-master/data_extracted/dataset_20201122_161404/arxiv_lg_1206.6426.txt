@@ -1,2 +1,0 @@
-In spite of their superior performance, neural probabilistic language models (NPLMs) remain far less widely used than n-gram models due to their notoriously long training times, which are measured in weeks even for moderately-sized datasets.
-Training NPLMs is computationally expensive because they are explicitly normalized, which leads to having to consider all words in the vocabulary when computing the log-likelihood gradients.

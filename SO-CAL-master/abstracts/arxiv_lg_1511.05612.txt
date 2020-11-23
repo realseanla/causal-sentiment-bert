@@ -1,0 +1,8 @@
+Accurate mobile traffic forecast is important for efficient network planning and operations.
+However, existing traffic forecasting models have high complexity, making the forecasting process slow and costly.
+In this paper, we analyze some characteristics of mobile traffic such as periodicity, spatial similarity and short term relativity.
+Based on these characteristics, we propose a \emph{Block Regression} ({BR}) model for mobile traffic forecasting.
+This model employs seasonal differentiation so as to take into account of the temporally repetitive nature of mobile traffic.
+One of the key features of our {BR} model lies in its low complexity since it constructs a single model for all base stations.
+We evaluate the accuracy of {BR} model based on real traffic data and compare it with the existing models.
+Results show that our {BR} model offers equal accuracy to the existing models but has much less complexity.

@@ -1,6 +1,0 @@
-We present a novel extension of Thompson Sampling for stochastic sequential decision problems with graph feedback, even when the graph structure itself is unknown and/or changing.
-We provide theoretical guarantees on the Bayesian regret of the algorithm, linking its performance to the underlying properties of the graph.
-Thompson Sampling has the advantage of being applicable without the need to construct complicated upper confidence bounds for different problems.
-We illustrate its performance through extensive experimental results on real and simulated networks with graph feedback.
-More specifically, we tested our algorithms on power law, planted partitions and Erdo's-Renyi graphs, as well as on graphs derived from Facebook and Flixster data.
-These all show that our algorithms clearly outperform related methods that employ upper confidence bounds, even if the latter use more information about the graph.

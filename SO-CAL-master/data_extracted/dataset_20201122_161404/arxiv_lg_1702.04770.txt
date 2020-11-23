@@ -1,3 +1,0 @@
-While Truncated Back-Propagation through Time (BPTT) is the most popular approach to training Recurrent Neural Networks (RNNs), it suffers from being inherently sequential (making parallelization difficult) and from truncating gradient flow between distant time-steps.
-We investigate whether Target Propagation (TPROP) style approaches can address these shortcomings.
-Unfortunately, extensive experiments suggest that TPROP generally underperforms BPTT, and we end with an analysis of this phenomenon, and suggestions for future work.

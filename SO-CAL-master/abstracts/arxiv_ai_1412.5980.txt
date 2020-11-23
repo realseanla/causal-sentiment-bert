@@ -1,0 +1,5 @@
+Automated Theorem Proving (ATP) is an established branch of Artificial Intelligence.
+The purpose of ATP is to design a system which can automatically figure out an algorithm either to prove or disprove a mathematical claim, on the basis of a set of given premises, using a set of fundamental postulates and following the method of logical inference.
+In this paper, we propose GraATP, a generalized framework for automated theorem proving in plane geometry.
+Our proposed method translates the geometric entities into nodes of a graph and the relations between them as edges of that graph.
+The automated system searches for different ways to reach the conclusion for a claim via graph traversal by which the validity of the geometric theorem is examined.

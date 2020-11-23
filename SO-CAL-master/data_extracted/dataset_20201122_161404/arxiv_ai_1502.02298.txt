@@ -1,5 +1,0 @@
-Belief revision of knowledge bases represented by a set of sentences in a given logic has been extensively studied but for specific logics, mainly propositional, but also recently Horn and description logics.
-Here, we propose to generalize this operation from a model-theoretic point of view, by defining revision in a categorical abstract model theory known under the name of theory of institutions.
-In this framework, we generalize to any institution the characterization of the well known AGM postulates given by Katsuno and Mendelzon for propositional logic in terms of minimal change with respect to an ordering among interpretations.
-Moreover, we study how to define revision, satisfying the AGM postulates, from relaxation notions that have been first introduced in description logics to define dissimilarity measures between concepts, and the consequence of which is to relax the set of models of the old belief until it becomes consistent with the new pieces of knowledge.
-The proposed general framework can be instantiated in different logics such as propositional, description and Horn logics.

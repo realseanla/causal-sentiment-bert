@@ -1,6 +1,0 @@
-As a well-known NP-hard problem, the Three-Index Assignment Problem (AP3) has attracted lots of research efforts for developing heuristics.
-However, existing heuristics either obtain less competitive solutions or consume too much time.
-In this paper, a new heuristic named Approximate Muscle guided Beam Search (AMBS) is developed to achieve a good trade-off between solution quality and running time.
-By combining the approximate muscle with beam search, the solution space size can be significantly decreased, thus the time for searching the solution can be sharply reduced.
-Extensive experimental results on the benchmark indicate that the new algorithm is able to obtain solutions with competitive quality and it can be employed on instances with largescale.
-Work of this paper not only proposes a new efficient heuristic, but also provides a promising method to improve the efficiency of beam search.

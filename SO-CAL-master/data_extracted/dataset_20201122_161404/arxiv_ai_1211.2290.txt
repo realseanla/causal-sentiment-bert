@@ -1,9 +1,0 @@
-This paper tackles temporal resolution of documents, such as determining when a document is about or when it was written, based only on its text.
-We apply techniques from information retrieval that predict dates via language models over a discretized timeline.
-Unlike most previous works, we rely {\it solely} on temporal cues implicit in the text.
-We consider both document-likelihood and divergence based techniques and several smoothing methods for both of them.
-Our best model predicts the mid-point of individuals' lives with a median of 22 and mean error of 36 years for Wikipedia biographies from 3800 B.C.
-to the present day.
-We also show that this approach works well when training on such biographies and predicting dates both for non-biographical Wikipedia pages about specific years (500 B.C.
-to 2010 A.D.) and for publication dates of short stories (1798 to 2008).
-Together, our work shows that, even in absence of temporal extraction resources, it is possible to achieve remarkable temporal locality across a diverse set of texts.

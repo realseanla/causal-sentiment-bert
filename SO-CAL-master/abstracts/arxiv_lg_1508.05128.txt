@@ -1,0 +1,6 @@
+We propose a method combining relational-logic representations with deep neural network learning.
+Domain-specific knowledge is described through relational rules which may be handcrafted or learned.
+The relational rule-set serves as a template for unfolding possibly deep neural networks whose structures also reflect the structure of given training or testing examples.
+Different networks corresponding to different examples share their weights, which co-evolve during training by stochastic gradient descend algorithm.
+Notable relational concepts can be discovered by interpreting shared hidden layer weights corresponding to the rules.
+Experiments on 78 relational learning benchmarks demonstrate the favorable performance of the method.

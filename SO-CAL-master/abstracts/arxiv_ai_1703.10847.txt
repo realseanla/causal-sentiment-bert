@@ -1,0 +1,8 @@
+In this paper, we present MidiNet, a deep convolutional neural network (CNN) based generative adversarial network (GAN) that is intended to provide a general, highly adaptive network structure for symbolic-domain music generation.
+The network takes random noise as input and generates a melody sequence one mea- sure (bar) after another.
+Moreover, it has a novel reflective CNN sub-model that allows us to guide the generation process by providing not only 1D but also 2D conditions.
+In our implementation, we used the intended chord of the current bar as a 1D condition to provide a harmonic context, and the melody generated for the preceding bar previously as a 2D condition to provide sequential information.
+The output of the network is a 16 by 128 matrix each time, representing the presence of each of the 128 MIDI notes in the generated melody sequence of that bar, with the smallest temporal unit being the sixteenth note.
+MidiNet can generate music of arbitrary number of bars, by concatenating these 16 by 128 matrices.
+The melody sequence can then be played back with a synthesizer.
+We provide example clips showing the effectiveness of MidiNet in generating harmonic music.

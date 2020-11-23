@@ -1,0 +1,9 @@
+Conditioning is the primary method for belief revision in data fusion systems employing probabilistic inferencing.
+However, big-data environments, where soft (i.e., human or human-based) sources are commonly utilized in addition to hard (i.e., physics-based sensors, pose several challenges to traditional conditioning tasks primarily due to the numerous data/source imperfections that are characteristic of such data.
+The objective of this paper is to investigate the most natural extension of Bayes conditioning based evidence updates in the presence of such large-scale data uncertainties and source/sensor imperfections.
+By viewing the evidence updating process as a thought experiment, we devise an elegant strategy for robust evidence updating in the presence of extreme uncertainties characteristic of big-data environments.
+In particular, we look at the formulation of a belief theoretic evidence updating mechanism that is derived as a natural extension of Bayes conditional approach when the incoming evidence takes the form of a general belief function.
+Proposed method generalizes the belief theoretic Fagin-Halpern conditional notion, and provides a novel evidence updating strategy that is derived as a natural extension of Bayes conditional applied in a highly uncertain and complex fusion scenario that is characteristic of big-data environments.
+The presented extension differs fundamentally from the previously published work on Conditional Update Equation (CUE) as well as authors own work.
+An overview of this development is provided via illustrative examples.
+Furthermore, insights into parameter selection under various fusion contexts are also provided.

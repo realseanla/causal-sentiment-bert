@@ -1,3 +1,0 @@
-Vector representation of sentences is important for many text processing tasks that involve clustering, classifying, or ranking sentences.
-Recently, distributed representation of sentences learned by neural models from unlabeled data has been shown to outperform the traditional bag-of-words representation.
-However, most of these learning methods consider only the content of a sentence and disregard the relations among sentences in a discourse by and large.

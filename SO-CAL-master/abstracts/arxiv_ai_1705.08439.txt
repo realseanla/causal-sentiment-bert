@@ -1,0 +1,5 @@
+Solving sequential decision making problems, such as text parsing, robotic control, and game playing, requires a combination of planning policies and generalisation of those plans.
+In this paper, we present Expert Iteration, a novel algorithm which decomposes the problem into separate planning and generalisation tasks.
+Planning new policies is performed by tree search, while a deep neural network generalises those plans.
+In contrast, standard Deep Reinforcement Learning algorithms rely on a neural network not only to generalise plans, but to discover them too.
+We show that our method substantially outperforms Policy Gradients in the board game Hex, winning 84.4 percent of games against it when trained for equal time.

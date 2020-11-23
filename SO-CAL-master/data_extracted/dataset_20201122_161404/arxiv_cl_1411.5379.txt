@@ -1,5 +1,0 @@
-Semantic parsing is a burgeoning field, but most current semantic parsers are extremely slow (CKY-based) and rather primitive in representation (simply typed lambda calculus).
-We introduce two new techniques to tackle these problems.
-First, we design a linear-time, type-driven, incremental parsing algorithm that use type checking to reduce the search space, which is orders of magnitude faster than conventional cubic-time bottom-up semantic parsers, and also eliminates the need for a formal grammar such as CCG.
-Second, to fully exploit the power of type-driven semantic parsing beyond simple types (such as entities and truth values), we introduce a sophisticated subtype hierarchy and parametric polymorphism to the system, so that the type system is powerful enough to better guide the parsing.
-Together with max-violation perceptron training, our system learns very accurate parses in GeoQuery, Jobs and Atis domains.

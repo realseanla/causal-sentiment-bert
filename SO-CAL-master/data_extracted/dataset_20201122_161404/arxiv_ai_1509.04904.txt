@@ -1,7 +1,0 @@
-A major problem of causal inference is the arrangement of dependent nodes in a directed acyclic graph (DAG) with path coefficients and observed confounders.
-Path coefficients do not provide the units to measure the strength of information flowing from one node to the other.
-Here we proposed the method of causal structure learning using collider v-structures (CVS) with Negative Percentage Mapping (NPM) to get selective thresholds of information strength, to direct the edges and subjective confounders in a DAG.
-The NPM is used to scale the strength of information passed through nodes in units of percentage from interval from 0 to 1.
-The causal structures are constructed by bottom up approach using path coefficients, causal directions and confounders, derived implementing collider v-structure and NPM.
-The method is self-sufficient to observe all the latent confounders present in the causal model and capable of detecting every responsible causal direction.
-The results are tested for simulated datasets of non-Gaussian distributions and compared with DirectLiNGAM and ICA-LiNGAM to check efficiency of the proposed method.

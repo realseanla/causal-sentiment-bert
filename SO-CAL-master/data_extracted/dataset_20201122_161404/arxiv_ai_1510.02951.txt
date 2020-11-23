@@ -1,6 +1,0 @@
-In this paper we study complexity of an extension of ordered binary decision diagrams (OBDDs) called $c$-OBDDs on CNFs of bounded (primal graph) treewidth.
-In particular, we show that for each $k$ there is a class of CNFs of treewidth $k \geq 3$ for which the equivalent $c$-OBDDs are of size $\Omega(n^{k/(8c-4)})$.
-Moreover, this lower bound holds if $c$-OBDD is non-deterministic and semantic.
-Our second result uses the above lower bound to separate the above model from sentential decision diagrams (SDDs).
-In order to obtain the lower bound, we use a structural graph parameter called matching width.
-Our third result shows that matching width and pathwidth are linearly related.

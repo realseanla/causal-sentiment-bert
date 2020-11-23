@@ -1,7 +1,0 @@
-PDDL+ is an extension of PDDL that enables modelling planning domains with mixed discrete-continuous dynamics.
-In this paper we present a new approach to PDDL+ planning based on Constraint Answer Set Programming (CASP), i.e.
-ASP rules plus numerical constraints.
-To the best of our knowledge, ours is the first attempt to link PDDL+ planning and logic programming.
-We provide an encoding of PDDL+ models into CASP problems.
-The encoding can handle non-linear hybrid domains, and represents a solid basis for applying logic programming to PDDL+ planning.
-As a case study, we consider the EZCSP CASP solver and obtain promising results on a set of PDDL+ benchmark problems.

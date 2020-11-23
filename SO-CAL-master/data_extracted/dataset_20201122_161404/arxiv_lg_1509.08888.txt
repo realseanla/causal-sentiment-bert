@@ -1,5 +1,0 @@
-Prediction of survival for cancer patients is an open area of research.
-However, many of these studies focus on datasets with a large number of patients.
-We present a novel method that is specifically designed to address the challenge of data scarcity, which is often the case for cancer datasets.
-Our method is able to use unlabeled data to improve classification by adopting a semi-supervised training approach to learn an ensemble classifier.
-The results of applying our method to three cancer datasets show the promise of semi-supervised learning for prediction of cancer survival.

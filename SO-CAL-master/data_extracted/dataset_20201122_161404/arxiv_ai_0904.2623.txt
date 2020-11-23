@@ -1,4 +1,0 @@
-We present a simple and efficient approach for learning to rank.
-It is an instance of a more general method for learning max-weight matching predictors in bipartite graphs, which has applications beyond ranking.
-The method consists of performing maximum a posteriori estimation in exponential families with suitable sufficient statistics.
-We apply the method to a standard benchmark dataset for learning web page ranking, obtaining state-of-the-art results.

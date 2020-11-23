@@ -1,6 +1,0 @@
-This paper proposes a new data-driven approach for modeling detailed splashes for liquid simulations with neural networks.
-Our model learns to generate small-scale splash detail for fluid-implicit-particle methods using training data acquired from physically accurate, high-resolution simulations.
-We use neural networks to model the regression of splash formation using a classifier together with a velocity modification term.
-More specifically, we employ a heteroscedastic model for the velocity updates.
-Our simulation results demonstrate that our model significantly improves visual fidelity with a large amount of realistic droplet formation and yields splash detail much more efficiently than finer discretizations.
-We show this for two different spatial scales and simulation setups.

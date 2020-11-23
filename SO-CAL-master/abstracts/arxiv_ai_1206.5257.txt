@@ -1,0 +1,5 @@
+Although a number of related algorithms have been developed to evaluate influence diagrams, exploiting the conditional independence in the diagram, the exact solution has remained intractable for many important problems.
+In this paper we introduce decision circuits as a means to exploit the local structure usually found in decision problems and to improve the performance of influence diagram analysis.
+This work builds on the probabilistic inference algorithms using arithmetic circuits to represent Bayesian belief networks [Darwiche, 2003].
+Once compiled, these arithmetic circuits efficiently evaluate probabilistic queries on the belief network, and methods have been developed to exploit both the global and local structure of the network.
+We show that decision circuits can be constructed in a similar fashion and promise similar benefits.

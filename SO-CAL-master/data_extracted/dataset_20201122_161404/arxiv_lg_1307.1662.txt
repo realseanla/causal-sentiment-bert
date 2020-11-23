@@ -1,6 +1,0 @@
-Distributed word representations (word embeddings) have recently contributed to competitive performance in language modeling and several NLP tasks.
-In this work, we train word embeddings for more than 100 languages using their corresponding Wikipedias.
-We quantitatively demonstrate the utility of our word embeddings by using them as the sole features for training a part of speech tagger for a subset of these languages.
-We find their performance to be competitive with near state-of-art methods in English, Danish and Swedish.
-Moreover, we investigate the semantic features captured by these embeddings through the proximity of word groupings.
-We will release these embeddings publicly to help researchers in the development and enhancement of multilingual applications.

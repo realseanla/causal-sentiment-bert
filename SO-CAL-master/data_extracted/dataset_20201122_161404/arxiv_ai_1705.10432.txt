@@ -1,4 +1,0 @@
-Recent advances in combining deep learning and Reinforcement Learning have shown a promising path for designing new control agents that can learn optimal policies for challenging control tasks.
-These new methods address the main limitations of conventional Reinforcement Learning methods such as customized feature engineering and small action/state space dimension requirements.
-In this paper, we leverage one of the state-of-the-art Reinforcement Learning methods, known as Trust Region Policy Optimization, to tackle intersection management for autonomous vehicles.
-We show that using this method, we can perform fine-grained acceleration control of autonomous vehicles in a grid street plan to achieve a global design objective.

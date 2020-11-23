@@ -1,4 +1,0 @@
-In this paper, we explore different neural network architectures that can predict if a speaker of a given utterance is asking a question or making a statement.
-We com- pare the outcomes of regularization methods that are popularly used to train deep neural networks and study how different context functions can affect the classification performance.
-We also compare the efficacy of gated activation functions that are favorably used in recurrent neural networks and study how to combine multimodal inputs.
-We evaluate our models on two multimodal datasets: MSR-Skype and CALLHOME.

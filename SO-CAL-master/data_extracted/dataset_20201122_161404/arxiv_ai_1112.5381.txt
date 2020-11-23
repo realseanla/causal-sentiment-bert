@@ -1,5 +1,0 @@
-We consider the task of performing probabilistic inference with probabilistic logical models.
-Many algorithms for approximate inference with such models are based on sampling.
-From a logic programming perspective, sampling boils down to repeatedly calling the same queries on a knowledge base composed of a static part and a dynamic part.
-The larger the static part, the more redundancy there is in these repeated calls.
-This is problematic since inefficient sampling yields poor approximations.

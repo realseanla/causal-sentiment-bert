@@ -1,0 +1,6 @@
+This paper tests the hypothesis that distinctive feature classifiers anchored at phonetic landmarks can be transferred cross-lingually without loss of accuracy.
+Three consonant voicing classifiers were developed: (1) manually selected acoustic features anchored at a phonetic landmark, (2) MFCCs (either averaged across the segment or anchored at the landmark), and(3) acoustic features computed using a convolutional neural network (CNN).
+All detectors are trained on English data (TIMIT),and tested on English, Turkish, and Spanish (performance measured using F1 and accuracy).
+Experiments demonstrate that manual features outperform all MFCC classifiers, while CNNfeatures outperform both.
+MFCC-based classifiers suffer an F1reduction of 16 percent absolute when generalized from English to other languages.
+Manual features suffer only a 5 percent F1 reduction,and CNN features actually perform better in Turkish and Span-ish than in the training language, demonstrating that features capable of representing long-term spectral dynamics (CNN and landmark-based features) are able to generalize cross-lingually with little or no loss of accuracy

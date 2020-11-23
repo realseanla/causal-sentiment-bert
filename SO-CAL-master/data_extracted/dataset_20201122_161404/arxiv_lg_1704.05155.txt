@@ -1,4 +1,0 @@
-A new method for learning variational autoencoders is developed, based on an application of Stein's operator.
-The framework represents the encoder as a deep nonlinear function through which samples from a simple distribution are fed.
-One need not make parametric assumptions about the form of the encoder distribution, and performance is further enhanced by integrating the proposed encoder with importance sampling.
-Example results are demonstrated across multiple unsupervised and semi-supervised problems, including semi-supervised analysis of the ImageNet data, demonstrating the scalability of the model to large datasets.

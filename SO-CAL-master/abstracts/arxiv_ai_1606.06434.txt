@@ -1,0 +1,4 @@
+Ontologies provide conceptual abstractions over data, in domains such as the Internet of Things, in a way that sensor data can be harvested and interpreted by people and applications.
+The Semantic Sensor Network (SSN) ontology is the de-facto standard for semantic representation of sensor observations and metadata, and it is used at the core of the open source platform for the Internet of Things, OpenIoT.
+In this paper we present a Schema Editor that provides an intuitive web interface for defining new types of sensors, and concrete instances of them, using the SSN ontology as the core model.
+This editor is fully integrated with the OpenIoT platform for generating virtual sensor descriptions and automating their semantic annotation and registration process.

@@ -1,5 +1,0 @@
-An essential element of any verification technique is that of identifying and communicating to the user, system behaviour which leads to a deviation from the expected behaviour.
-Such behaviours are typically made available as long traces of system actions which would benefit from a natural language explanation of the trace and especially in the context of business logic level specifications.
-In this paper we present a natural language generation model which can be used to explain such traces.
-A key idea is that the explanation language is a CNL that is, formally speaking, regular language susceptible transformations that can be expressed with finite state machinery.
-At the same time it admits various forms of abstraction and simplification which contribute to the naturalness of explanations that are communicated to the user.

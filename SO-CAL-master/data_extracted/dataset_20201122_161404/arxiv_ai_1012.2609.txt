@@ -1,6 +1,0 @@
-Unsupervised term weighting schemes, borrowed from information retrieval field, have been widely used for text categorization and the most famous one is tf.idf.
-The intuition behind idf seems less reasonable for TC task than IR task.
-In this paper, we introduce inverse category frequency into supervised term weighting schemes and propose a novel icf-based method.
-The method combines icf and relevance frequency (rf) to weight terms in training dataset.
-Our experiments have shown that icf-based supervised term weighting scheme is superior to tf.rf and prob-based supervised term weighting schemes and tf.idf based on two widely used datasets, i.e., the unbalanced Reuters-21578 corpus and the balanced 20 Newsgroup corpus.
-We also present the detailed evaluations of each category of the two datasets among the four term weighting schemes on precision, recall and F1 measure.

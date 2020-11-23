@@ -1,5 +1,0 @@
-Deep neural networks have been successfully applied in applications with a large amount of labeled data.
-However, there are major drawbacks of the neural networks that are related to rapid generalization with small data and continual learning of new concepts without forgetting.
-We present a novel meta learning method, Meta Networks (MetaNet), that acquires a meta-level knowledge across tasks and shifts its inductive bias via fast parameterization for the rapid generalization.
-When tested on the standard one-shot learning benchmarks, our MetaNet models achieved near human-level accuracy.
-We demonstrated several appealing properties of MetaNet relating to generalization and continual learning.

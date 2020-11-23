@@ -1,0 +1,6 @@
+The Resource Description Framework (RDF) is a Semantic Web standard that provides a data language, simply called RDF, as well as a lightweight ontology language, called RDF Schema.
+We investigate embeddings of RDF in logic and show how standard logic programming and description logic technology can be used for reasoning with RDF.
+We subsequently consider extensions of RDF with datatype support, considering D entailment, defined in the RDF semantics specification, and D* entailment, a semantic weakening of D entailment, introduced by ter Horst.
+We use the embeddings and properties of the logics to establish novel upper bounds for the complexity of deciding entailment.
+We subsequently establish two novel lower bounds, establishing that RDFS entailment is PTime-complete and that simple-D entailment is coNP-hard, when considering arbitrary datatypes, both in the size of the entailing graph.
+The results indicate that RDFS may not be as lightweight as one may expect.

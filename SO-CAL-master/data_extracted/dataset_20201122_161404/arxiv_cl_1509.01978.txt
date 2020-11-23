@@ -1,8 +1,0 @@
-The paper presents a new script classification method for the discrimination of the South Slavic medieval labels.
-It consists in the textural analysis of the script types.
-In the first step, each letter is coded by the equivalent script type, which is defined by its typographical features.
-Obtained coded text is subjected to the run-length statistical analysis and to the adjacent local binary pattern analysis in order to extract the features.
-The result shows a diversity between the extracted features of the scripts, which makes the feature classification more effective.
-It is the basis for the classification process of the script identification by using an extension of a state-of-the-art approach for document clustering.
-The proposed method is evaluated on an example of hand-engraved in stone and hand-printed in paper labels in old Cyrillic, angular and round Glagolitic.
-Experiments demonstrate very positive results, which prove the effectiveness of the proposed method.

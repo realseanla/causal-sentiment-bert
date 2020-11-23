@@ -1,6 +1,0 @@
-Bayesian networks offer great potential for use in automating large scale diagnostic reasoning tasks.
-Gibbs sampling is the main technique used to perform diagnostic reasoning in large richly interconnected Bayesian networks.
-Unfortunately Gibbs sampling can take an excessive time to generate a representative sample.
-In this paper we describe and test a number of heuristic strategies for improving sampling in noisy-or Bayesian networks.
-The strategies include Monte Carlo Markov chain sampling techniques other than Gibbs sampling.
-Emphasis is put on strategies that can be implemented in distributed systems.

@@ -1,7 +1,0 @@
-This paper presents experiments illustrating how formal language theory can shed light on deep learning.
-We train naive Long Short-Term Memory (LSTM) Recurrent Neural Networks (RNNs) on six formal languages drawn from the Strictly Local (SL) and Strictly Piecewise (SP) classes.
-These classes are relevant to computational linguistics and among the simplest in a mathematically well-understood hierarchy of subregular classes.
-SL and SP classes encode local and long-distance dependencies, respectively.
-The results show four of the six languages were learned remarkably well, but overfitting arguably occurred with the simplest SL language and undergeneralization with the most complex SP pattern.
-Even though LSTMs were developed to handle long-distance dependencies, the latter result shows they stymie naive LSTMs in contrast to local dependencies.
-While it remains to be seen which of the many variants of LSTMs may learn SP languages well, this result speaks to the larger point that the judicial use of formal language theory can illuminate the inner workings of RNNs.

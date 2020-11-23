@@ -1,3 +1,0 @@
-We study how approximation errors of neural networks with ReLU activation functions depend on the depth of the network.
-We establish rigorous error bounds showing that deep ReLU networks are significantly more expressive than shallow ones as long as approximations of smooth functions are concerned.
-At the same time, we show that on a set of functions constrained only by their degree of smoothness, a ReLU network architecture cannot in general achieve approximation accuracy with better than a power law dependence on the network size, regardless of its depth.

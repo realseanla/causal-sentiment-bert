@@ -1,0 +1,5 @@
+Autoencoder is a special kind of neural network based on reconstruction.
+Denoising autoencoder (DAE) is an improved autoencoder which is robust to the input by corrupting the original data first and then reconstructing the original input.
+And contractive autoencoder (CAE) is another kind of improved autoender to learn robust feature by introducing the Frobenius norm of the Jacobbian matrix of the learned feature with respect to the original input.
+In this paper, we combine denoising autoencoder and contractive autoencoder, and propose another improved autoencoder, contractive denoising autoencoder (CDAE), which is robust to both the original input and the learned feature.
+The experiment result shows that our proposed CDAE performed better than both DAE and CAE, proving the effective of our method.

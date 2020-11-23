@@ -1,3 +1,0 @@
-This paper demonstrates neural network-based toolkit namely NNVLP for essential Vietnamese language processing tasks including part-of-speech (POS) tagging, chunking, Named Entity Recognition (NER).
-Our toolkit is a combination of bidirectional Long Short-Term Memory (Bi-LSTM), Convolutional Neural Network (CNN), Conditional Random Field (CRF), using pre-trained word embeddings as input, which outperforms previously published toolkits on these three tasks.
-We provide both API and web demo for this toolkit.

@@ -1,6 +1,0 @@
-In Operation Research, practical evaluation is essential to validate the efficacy of optimization approaches.
-This paper promotes the usage of performance profiles as a standard practice to visualize and analyze experimental results.
-It introduces a Web tool to construct and export performance profiles as SVG or HTML files.
-In addition, the application relies on a methodology to estimate the benefit of hypothetical solver improvements.
-Therefore, the tool allows one to employ what-if analysis to screen possible research directions, and identify those having the best potential.
-The approach is showcased on two Operation Research technologies: Constraint Programming and Mixed Integer Linear Programming.

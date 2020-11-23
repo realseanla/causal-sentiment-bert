@@ -1,5 +1,0 @@
-Existing algorithms for subgroup discovery with numerical targets do not optimize the error or target variable dispersion of the groups they find.
-This often leads to unreliable or inconsistent statements about the data, rendering practical applications, especially in scientific domains, futile.
-Therefore, we here extend the optimistic estimator framework for optimal subgroup discovery to a new class of objective functions: we show how tight estimators can be computed efficiently for all functions that are determined by subgroup size (non-decreasing dependence), the subgroup median value, and a dispersion measure around the median (non-increasing dependence).
-In the important special case when dispersion is measured using the average absolute deviation from the median, this novel approach yields a linear time algorithm.
-Empirical evaluation on a wide range of datasets shows that, when used within branch-and-bound search, this approach is highly efficient and indeed discovers subgroups with much smaller errors.

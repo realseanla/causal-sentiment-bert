@@ -1,5 +1,0 @@
-We present xokde++, a state-of-the-art online kernel density estimation approach that maintains Gaussian mixture models input data streams.
-The approach follows state-of-the-art work on online density estimation, but was redesigned with computational efficiency, numerical robustness, and extensibility in mind.
-Our approach produces comparable or better results than the current state-of-the-art, while achieving significant computational performance gains and improved numerical stability.
-The use of diagonal covariance Gaussian kernels, which further improve performance and stability, at a small loss of modelling quality, is also explored.
-Our approach is up to 40 times faster, while requiring 90\ percent less memory than the closest state-of-the-art counterpart.

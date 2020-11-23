@@ -1,0 +1,3 @@
+Recurrent Neural Networks have achieved state-of-the-art results for many problems in NLP and two most popular RNN architectures are Tail Model and Pooling Model.
+In this paper, a hybrid architecture is proposed and we present the first empirical study using LSTMs to compare performance of the three RNN structures on sentence classification task.
+Experimental results show that the Tail Model and Hybrid Model consistently get a better performance over Pooling Model, and Hybrid Model is comparable with Tail Model.

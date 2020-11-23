@@ -1,4 +1,0 @@
-We provide a new robust convergence analysis of the well-known subspace iteration algorithm for computing the dominant singular vectors of a matrix, also known as simultaneous iteration or power method.
-Our result characterizes the convergence behavior of the algorithm when a large amount noise is introduced after each matrix-vector multiplication.
-While interesting in its own right, our main motivation comes from the problem of privacy-preserving spectral analysis where noise is added in order to achieve the privacy guarantee known as differential privacy.
-Our contributions here are twofold:

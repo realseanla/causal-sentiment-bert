@@ -1,0 +1,3 @@
+Standard deep reinforcement learning methods such as Deep Q-Networks (DQN) for multiple tasks (domains) face scalability problems.
+We propose a method for multi-domain dialogue policy learning---termed NDQN, and apply it to an information-seeking spoken dialogue system in the domains of restaurants and hotels.
+Experimental results comparing DQN (baseline) versus NDQN (proposed) using simulations report that our proposed method exhibits better scalability and is promising for optimising the behaviour of multi-domain dialogue systems.

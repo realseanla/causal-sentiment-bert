@@ -1,2 +1,0 @@
-In this paper, we propose and study a semi-random model for the Correlation Clustering problem.
-We give an approximation algorithm that given an instance from this model finds a solution of value (1+ \delta)opt-cost + O_{\delta}(n log^3 n) with high probability, where opt-cost is the value of the optimal solution (for every \delta &gt; 0).

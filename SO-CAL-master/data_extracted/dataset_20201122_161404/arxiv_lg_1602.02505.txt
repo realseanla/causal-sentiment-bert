@@ -1,6 +1,0 @@
-In this work we introduce a binarized deep neural network (BDNN) model.
-BDNNs are trained using a novel binarized back propagation algorithm (BBP), which uses binary weights and binary neurons during the forward and backward propagation, while retaining precision of the stored weights in which gradients are accumulated.
-At test phase, BDNNs are fully binarized and can be implemented in hardware with low circuit complexity.
-The proposed binarized networks can be implemented using binary convolutions and proxy matrix multiplications with only standard binary XNOR and population count (popcount) operations.
-BBP is expected to reduce energy consumption by at least two orders of magnitude when compared to the hardware implementation of existing training algorithms.
-We obtained near state-of-the-art results with BDNNs on the permutation-invariant MNIST, CIFAR-10 and SVHN datasets.

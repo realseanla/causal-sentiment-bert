@@ -1,6 +1,0 @@
-Recently, Neural Turing Machine and Memory Networks have shown that adding an external memory can greatly ameliorate a traditional recurrent neural network's tendency to forget after a long period of time.
-Here we present a new design of an external memory, wherein memories are stored in an Euclidean key space $\mathbb R^n$.
-An LSTM controller performs read and write via specialized structures called read and write heads, following the design of Neural Turing Machine.
-It can move a head by either providing a new address in the key space (aka random access) or moving from its previous position via a Lie group action (aka Lie access).
-In this way, the "L" and "R" instructions of a traditional Turing Machine is generalized to arbitrary elements of a fixed Lie group action.
-For this reason, we name this new model the Lie Access Neural Turing Machine, or LANTM.

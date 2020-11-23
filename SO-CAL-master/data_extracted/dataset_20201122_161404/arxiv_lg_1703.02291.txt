@@ -1,7 +1,0 @@
-Generative adversarial nets (GANs) are good at generating realistic images and have been extended for semi-supervised classification.
-However, under a two-player formulation, existing work shares competing roles of identifying fake samples and predicting labels via a single discriminator network, which can lead to undesirable incompatibility.
-We present triple generative adversarial net (Triple-GAN), a flexible game-theoretical framework for classification and class-conditional generation in semi-supervised learning.
-Triple-GAN consists of three players - a generator, a discriminator and a classifier, where the generator and classifier characterize the conditional distributions between images and labels, and the discriminator solely focuses on identifying fake image-label pairs.
-With designed utilities, the distributions characterized by the classifier and generator both concentrate to the data distribution under nonparametric assumptions.
-We further propose unbiased regularization terms to make the classifier and generator strongly coupled and some biased techniques to boost the performance of Triple-GAN in practice.
-Our results on several datasets demonstrate the promise in semi-supervised learning, where Triple-GAN achieves comparable or superior performance than state-of-the-art classification results among DGMs; it is also able to disentangle the classes and styles and transfer smoothly on the data level via interpolation on the latent space class-conditionally.

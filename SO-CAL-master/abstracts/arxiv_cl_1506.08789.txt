@@ -1,0 +1,7 @@
+Requirements traceability is an essential step in ensuring the quality of software during the early stages of its development life cycle.
+Requirements tracing usually consists of document parsing, candidate link generation and evaluation and traceability analysis.
+This paper demonstrates the applicability of Statistical Term Extraction metrics to generate candidate links.
+It is applied and validated using two data sets and four types of filters two for each data set, 0.2 and 0.25 for MODIS, 0 and 0.05 for CM1.
+This method generates requirements traceability matrices between textual requirements artifacts (such as high-level requirements traced to low-level requirements).
+The proposed method includes ten word frequency metrics divided into three main groups for calculating the frequency of terms.
+The results show that the proposed method gives better result when compared with the traditional TF-IDF method.

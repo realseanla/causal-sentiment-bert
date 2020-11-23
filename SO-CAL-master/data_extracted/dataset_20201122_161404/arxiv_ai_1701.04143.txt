@@ -1,4 +1,0 @@
-Deep learning classifiers are known to be inherently vulnerable to manipulation by intentionally perturbed inputs, named adversarial examples.
-In this work, we establish that reinforcement learning techniques based on Deep Q-Networks (DQNs) are also vulnerable to adversarial input perturbations, and verify the transferability of adversarial examples across different DQN models.
-Furthermore, we present a novel class of attacks based on this vulnerability that enable policy manipulation and induction in the learning process of DQNs.
-We propose an attack mechanism that exploits the transferability of adversarial examples to implement policy induction attacks on DQNs, and demonstrate its efficacy and impact through experimental study of a game-learning scenario.

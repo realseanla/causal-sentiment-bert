@@ -1,5 +1,0 @@
-We present an approach to structured prediction from bandit feedback, called Bandit Structured Prediction, where only the value of a task loss function at a single predicted point, instead of a correct structure, is observed in learning.
-We present an application to discriminative reranking in Statistical Machine Translation (SMT) where the learning algorithm only has access to a 1-BLEU loss evaluation of a predicted translation instead of obtaining a gold standard reference translation.
-In our experiment bandit feedback is obtained by evaluating BLEU on reference translations without revealing them to the algorithm.
-This can be thought of as a simulation of interactive machine translation where an SMT system is personalized by a user who provides single point feedback to predicted translations.
-Our experiments show that our approach improves translation quality and is comparable to approaches that employ more informative feedback in learning.

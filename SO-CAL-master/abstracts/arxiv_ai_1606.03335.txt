@@ -1,0 +1,9 @@
+A complex nature of big data resources demands new methods for structuring especially for textual content.
+WordNet is a good knowledge source for comprehensive abstraction of natural language as its good implementations exist for many languages.
+Since WordNet embeds natural language in the form of a complex network, a transformation mechanism WordNet2Vec is proposed in the paper.
+It creates vectors for each word from WordNet.
+These vectors encapsulate general position - role of a given word towards all other words in the natural language.
+Any list or set of such vectors contains knowledge about the context of its component within the whole language.
+Such word representation can be easily applied to many analytic tasks like classification or clustering.
+The usefulness of the WordNet2Vec method was demonstrated in sentiment analysis, i.e.
+classification with transfer learning for the real Amazon opinion textual dataset.

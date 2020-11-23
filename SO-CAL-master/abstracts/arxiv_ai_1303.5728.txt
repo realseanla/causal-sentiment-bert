@@ -1,0 +1,4 @@
+Any probabilistic model of a problem is based on assumptions which, if violated, invalidate the model.
+Users of probability based decision aids need to be alerted when cases arise that are not covered by the aid's model.
+Diagnosis of model failure is also necessary to control dynamic model construction and revision.
+This paper presents a set of decision theoretically motivated heuristics for diagnosing situations in which a model is likely to provide an inadequate representation of the process being modeled.

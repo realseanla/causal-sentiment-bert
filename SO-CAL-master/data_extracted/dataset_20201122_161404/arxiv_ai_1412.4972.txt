@@ -1,6 +1,0 @@
-Max-product belief propagation (BP) is a popular message-passing algorithm for computing a maximum a-posteriori (MAP) assignment in a joint distribution represented by a graphical model (GM).
-It was recently shown that BP can solve certain classes of Linear Programming (LP) formulations to combinatorial optimization problems including maximum weight matching and shortest path, i.e., BP can be a distributed solver for certain LPs.
-However, those LPs and corresponding BP analysis are very sensitive to underlying problem setups, and it has been not clear what extent these results can be generalized to.
-In this paper, we obtain a generic criteria such that BP converges to the correct solution of the desired LP.
-Our theoretical result not only rediscovers prior known ones for maximum weight matching and shortest path as special cases, but also can be applied to new problems including traveling salesman, longest path and vertex cover, i.e., BP is a distributed (and parallel) solver to the combinatorial optimization problems.
-We believe that our results provide new insights on BP performances and new directions on distributed solvers for certain classes of large-scale LPs.

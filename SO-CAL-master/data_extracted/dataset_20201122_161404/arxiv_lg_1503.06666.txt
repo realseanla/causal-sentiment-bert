@@ -1,8 +1,0 @@
-Many Music Information Retrieval (MIR) tasks process only a segment of the whole music signal, in order to satisfy processing time constraints.
-This practice may lead to decreasing performance since the most important information for the task may not be in those processed segments.
-In this paper, we leverage generic summarization algorithms, previously applied to text and speech summarization, to summarize items in music datasets.
-These algorithms build summaries, that are both concise and diverse, by selecting appropriate segments from the input signal which makes them good candidates to summarize music as well.
-We evaluate the summarization process on binary and multiclass music genre classification tasks, by comparing the performance obtained using summarized datasets against the performances obtained using continuous segments (which is the traditional method used for addressing the previously mentioned time constraints) and full songs of the same original dataset.
-We show that GRASSHOPPER, LexRank, LSA, MMR, and a Support Sets-based Centrality model improve classification performance when compared to selected 30-second baselines.
-We also show that these summarized datasets lead to a classification performance whose difference is not statistically significant from using full songs.
-Furthermore, we make an argument stating the advantages of sharing summarized datasets for future MIR research.

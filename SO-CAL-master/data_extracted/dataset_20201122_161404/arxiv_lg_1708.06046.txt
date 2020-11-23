@@ -1,4 +1,0 @@
-Data preprocessing is a fundamental part of any machine learning application and frequently the most time-consuming aspect when developing a machine learning solution.
-Preprocessing for deep learning is characterized by pipelines that lazily load data and perform data transformation, augmentation, batching and logging.
-Many of these functions are common across applications but require different arrangements for training, testing or inference.
-Here we introduce a novel software framework named nuts-flow/ml that encapsulates common preprocessing operations as components, which can be flexibly arranged to rapidly construct efficient preprocessing pipelines for deep learning.

@@ -1,2 +1,0 @@
-We introduce a new spatial data structure for high dimensional data called the \emph{approximate principal direction tree} (APD tree) that adapts to the intrinsic dimension of the data.
-Our algorithm ensures vector-quantization accuracy similar to that of computationally-expensive PCA trees with similar time-complexity to that of lower-accuracy RP trees.

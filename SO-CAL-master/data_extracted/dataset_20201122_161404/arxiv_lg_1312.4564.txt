@@ -1,8 +1,0 @@
-The Alternating Direction Method of Multipliers (ADMM) has been studied for years, since it can be applied to many large-scale and data-distributed machine learning tasks.
-The traditional ADMM algorithm needs to compute an (empirical) expected loss function on all the training examples for each iteration, which results in a computational complexity propositional to the number of training examples.
-To reduce the time complexity, stochastic ADMM algorithm is proposed to replace the expected loss function by a random loss function associated with one single uniformly drawn example and Bregman divergence for a second order proximal function.
-The Bregman divergence in the original stochastic ADMM algorithm is derived from half squared norm, which could be a suboptimal choice.
-In this paper, we present a new stochastic ADMM algorithm, using Bregman divergence derived from second order proximal functions associated with iteratively updated matrices.
-Our new stochastic ADMM produces a new family of adaptive subgradient methods.
-We theoretically prove that their regret bounds are as good as the bounds achieved by the best proximal functions that can be chosen in hindsight.
-Encouraging results confirm the effectiveness and efficiency of the proposed algorithms.

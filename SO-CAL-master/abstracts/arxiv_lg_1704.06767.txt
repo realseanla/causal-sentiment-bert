@@ -1,0 +1,7 @@
+Multiple instance learning (MIL) is a variation of traditional supervised learning problems where data (referred to as bags) are composed of sub-elements (referred to as instances) and only bag labels are available.
+MIL has a variety of applications such as content-based image retrieval, text categorization and medical diagnosis.
+Most of the previous work for MIL assume that the training bags are fully labeled.
+However, it is often difficult to obtain an enough number of labeled bags in practical situations, while many unlabeled bags are available.
+A learning framework called PU learning (positive and unlabeled learning) can address this problem.
+In this paper, we propose a convex PU learning method to solve an MIL problem.
+We experimentally show that the proposed method achieves better performance with significantly lower computational costs than an existing method for PU-MIL.

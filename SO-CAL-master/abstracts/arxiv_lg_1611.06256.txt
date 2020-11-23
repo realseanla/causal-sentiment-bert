@@ -1,0 +1,4 @@
+We introduce and analyze the computational aspects of a hybrid CPU/GPU implementation of the Asynchronous Advantage Actor-Critic (A3C) algorithm, currently the state-of-the-art method in reinforcement learning for various gaming tasks.
+Our analysis concentrates on the critical aspects to leverage the GPU's computational power, including the introduction of a system of queues and a dynamic scheduling strategy, potentially helpful for other asynchronous algorithms as well.
+We also show the potential for the use of larger DNN models on a GPU.
+Our TensorFlow implementation achieves a significant speed up compared to our CPU-only implementation, and it will be made publicly available to other researchers.

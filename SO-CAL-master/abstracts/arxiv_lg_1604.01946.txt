@@ -1,0 +1,5 @@
+As recurrent neural networks become larger and deeper, training times for single networks are rising into weeks or even months.
+As such there is a significant incentive to improve the performance and scalability of these networks.
+While GPUs have become the hardware of choice for training and deploying recurrent models, the implementations employed often make use of only basic optimizations for these architectures.
+In this article we demonstrate that by exposing parallelism between operations within the network, an order of magnitude speedup across a range of network sizes can be achieved over a naive implementation.
+We describe three stages of optimization that have been incorporated into the fifth release of NVIDIA's cuDNN: firstly optimizing a single cell, secondly a single layer, and thirdly the entire network.

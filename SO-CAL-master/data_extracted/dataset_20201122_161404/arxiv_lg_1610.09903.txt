@@ -1,6 +1,0 @@
-Learning effective configurations in computer systems without hand-crafting models for every parameter is a long-standing problem.
-This paper investigates the use of deep reinforcement learning for runtime parameters of cloud databases under latency constraints.
-Cloud services serve up to thousands of concurrent requests per second and can adjust critical parameters by leveraging performance metrics.
-In this work, we use continuous deep reinforcement learning to learn optimal cache expirations for HTTP caching in content delivery networks.
-To this end, we introduce a technique for asynchronous experience management called delayed experience injection, which facilitates delayed reward and next-state computation in concurrent environments where measurements are not immediately available.
-Evaluation results show that our approach based on normalized advantage functions and asynchronous CPU-only training outperforms a statistical estimator.

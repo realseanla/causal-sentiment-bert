@@ -1,0 +1,4 @@
+Visual Question Answering (VQA) task has showcased a new stage of interaction between language and vision, two of the most pivotal components of artificial intelligence.
+However, it has mostly focused on generating short and repetitive answers, mostly single words, which fall short of rich linguistic capabilities of humans.
+We introduce Full-Sentence Visual Question Answering (FSVQA) dataset, consisting of nearly 1 million pairs of questions and full-sentence answers for images, built by applying a number of rule-based natural language processing techniques to original VQA dataset and captions in the MS COCO dataset.
+This poses many additional complexities to conventional VQA task, and we provide a baseline for approaching and evaluating the task, on top of which we invite the research community to build further improvements.

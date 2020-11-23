@@ -1,5 +1,0 @@
-The paper presents a method for reducing the computational complexity of Bayesian networks through identification and removal of weak dependencies (removal of links from the (moralized) independence graph).
-The removal of a small number of links may reduce the computational complexity dramatically, since several fill-ins and moral links may be rendered superfluous by the removal.
-The method is described in terms of impact on the independence graph, the junction tree, and the potential functions associated with these.
-An empirical evaluation of the method using large real-world networks demonstrates the applicability of the method.
-Further, the method, which has been implemented in Hugin, complements the approximation method suggested by Jensen &amp; Andersen (1990).

@@ -1,6 +1,0 @@
-Recently published methods enable training of bitwise neural networks which allow reduced representation of down to a single bit per weight.
-We present a method that exploits ensemble decisions based on multiple stochastically sampled network models to increase performance figures of bitwise neural networks in terms of classification accuracy at inference.
-Our experiments with the CIFAR-10 and GTSRB datasets show that the performance of such network ensembles surpasses the performance of the high-precision base model.
-With this technique we achieve 5.81 percent best classification error on CIFAR-10 test set using bitwise networks.
-Concerning inference on embedded systems we evaluate these bitwise networks using a hardware efficient stochastic rounding procedure.
-Our work contributes to efficient embedded bitwise neural networks.

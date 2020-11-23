@@ -1,5 +1,0 @@
-Temporal point processes are powerful tools to model event occurrences and have a plethora of applications in social sciences.
-While the majority of prior works focus on the modeling and learning of these processes, we consider the problem of how to design the optimal control policy for general point process with stochastic intensities, such that the stochastic system driven by the process is steered to a target state.
-In particular, we exploit the novel insight from the information theoretic formulations of stochastic optimal control.
-We further propose a novel convex optimization framework and a highly efficient online algorithm to update the policy adaptively to the current system state.
-Experiments on synthetic and real-world data show that our algorithm can steer the user activities much more accurately than state-of-arts.

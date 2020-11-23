@@ -1,0 +1,5 @@
+A central question for knowledge representation is how to encode and handle uncertain knowledge adequately.
+We introduce the probabilistic description logic ALCP that is designed for representing context-dependent knowledge, where the actual context taking place is uncertain.
+ALCP allows the expression of logical dependencies on the domain and probabilistic dependencies on the possible contexts.
+In order to draw probabilistic conclusions, we employ the principle of maximum entropy.
+We provide reasoning algorithms for this logic, and show that it satisfies several desirable properties of probabilistic logics.

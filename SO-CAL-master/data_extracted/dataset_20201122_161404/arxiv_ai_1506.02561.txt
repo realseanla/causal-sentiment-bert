@@ -1,5 +1,0 @@
-Frequent itemset mining is an essential part of data analysis and data mining.
-Recent works propose interesting SAT-based encodings for the problem of discovering frequent itemsets.
-Our aim in this work is to define strategies for adapting SAT solvers to such encodings in order to improve models enumeration.
-In this context, we deeply study the effects of restart, branching heuristics and clauses learning.
-We then conduct an experimental evaluation on SAT-Based itemset mining instances to show how SAT solvers can be adapted to obtain an efficient SAT model enumerator.

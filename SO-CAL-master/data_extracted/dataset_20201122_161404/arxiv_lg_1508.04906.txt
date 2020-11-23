@@ -1,5 +1,0 @@
-We study a semi-supervised learning method based on the similarity graph and RegularizedLaplacian.
-We give convenient optimization formulation of the Regularized Laplacian method and establishits various properties.
-In particular, we show that the kernel of the methodcan be interpreted in terms of discrete and continuous time random walks and possesses several importantproperties of proximity measures.
-Both optimization and linear algebra methods can be used for efficientcomputation of the classification functions.
-We demonstrate on numerical examples that theRegularized Laplacian method is competitive with respect to the other state of the art semi-supervisedlearning methods.

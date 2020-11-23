@@ -1,5 +1,0 @@
-In this paper we present a domain adaptation technique for formant estimation using a deep network.
-We first train a deep learning network on a small read speech dataset.
-We then freeze the parameters of the trained network and use several different datasets to train an adaptation layer that makes the obtained network universal in the sense that it works well for a variety of speakers and speech domains with very different characteristics.
-We evaluated our adapted network on three datasets, each of which has different speaker characteristics and speech styles.
-The performance of our method compares favorably with alternative methods for formant estimation.

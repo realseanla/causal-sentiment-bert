@@ -1,3 +1,0 @@
-We present an approach to improve statistical machine translation of image descriptions by multimodal pivots defined in visual space.
-Image similarity is computed by a convolutional neural network and incorporated into a target-side translation memory retrieval model where descriptions of most similar images are used to rerank translation outputs.
-Our approach does not depend on the availability of in-domain parallel data and achieves improvements of 1.4 BLEU over strong baselines.

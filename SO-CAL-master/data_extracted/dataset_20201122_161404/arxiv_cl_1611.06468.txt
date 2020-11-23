@@ -1,8 +1,0 @@
-It is critical for advanced manufacturing machines to autonomously execute a task by following an end-user's natural language (NL) instructions.
-However, NL instructions are usually ambiguous and abstract so that the machines may misunderstand and incorrectly execute the task.
-To address this NL-based human-machine communication problem and enable the machines to appropriately execute tasks by following the end-user's NL instructions, we developed a Machine-Executable-Plan-Generation (exePlan) method.
-The exePlan method conducts task-centered semantic analysis to extract task-related information from ambiguous NL instructions.
-In addition, the method specifies machine execution parameters to generate a machine-executable plan by interpreting abstract NL instructions.
-To evaluate the exePlan method, an industrial robot Baxter was instructed by NL to perform three types of industrial tasks {'drill a hole', 'clean a spot', 'install a screw'}.
-The experiment results proved that the exePlan method was effective in generating machine-executable plans from the end-user's NL instructions.
-Such a method has the promise to endow a machine with the ability of NL-instructed task execution.

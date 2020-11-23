@@ -1,9 +1,0 @@
-Vertex Separation Minimization Problem (VSMP) consists of finding a layout of a graph G = (V,E) which minimizes the maximum vertex cut or separation of a layout.
-It is an NP-complete problem in general for which metaheuristic techniques can be applied to find near optimal solution.
-VSMP has applications in VLSI design, graph drawing and computer language compiler design.
-VSMP is polynomially solvable for grids, trees, permutation graphs and cographs.
-Construction heuristics play a very important role in the metaheuristic techniques as they are responsible for generating initial solutions which lead to fast convergence.
-In this paper, we have proposed three construction heuristics H1, H2 and H3 and performed experiments on Grids, Small graphs, Trees and Harwell Boeing graphs, totaling 248 instances of graphs.
-Experiments reveal that H1, H2 and H3 are able to achieve best results for 88.71 percent, 43.5 percent and 37.1 percent of the total instances respectively while the best construction heuristic in the literature achieves the best solution for 39.9 percent of the total instances.
-We have also compared the results with the state-of-the-art metaheuristic GVNS and observed that the proposed construction heuristics improves the results for some of the input instances.
-It was found that GVNS obtained best results for 82.9 percent instances of all input instances and the heuristic H1 obtained best results for 82.3 percent of all input instances.

@@ -1,0 +1,4 @@
+In this paper we present a novel graph kernel framework inspired the by the Weisfeiler-Lehman (WL) isomorphism tests.
+Any WL test comprises a relabelling phase of the nodes based on test-specific information extracted from the graph, for example the set of neighbours of a node.
+We defined a novel relabelling and derived two kernels of the framework from it.
+The novel kernels are very fast to compute and achieve state-of-the-art results on five real-world datasets.

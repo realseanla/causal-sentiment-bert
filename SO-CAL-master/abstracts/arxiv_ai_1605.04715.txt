@@ -1,0 +1,5 @@
+In this paper, we study three connection games among the most widely played: Havannah, Twixt, and Slither.
+We show that determining the outcome of an arbitrary input position is PSPACE-complete in all three cases.
+Our reductions are based on the popular graph problem Generalized Geography and on Hex itself.
+We also consider the complexity of generalizations of Hex parameterized by the length of the solution and establish that while Short Generalized Hex is W[1]-hard, Short Hex is FPT.
+Finally, we prove that the ultra-weak solution to the empty starting position in hex cannot be fully adapted to any of these three games.

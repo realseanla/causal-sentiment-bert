@@ -1,0 +1,10 @@
+Human body consists of lot of cells, each cell consist of DeOxaRibo Nucleic Acid (DNA).
+Identifying the genes from the DNA sequences is a very difficult task.
+But identifying the coding regions is more complex task compared to the former.
+Identifying the protein which occupy little place in genes is a really challenging issue.
+For understating the genes coding region analysis plays an important role.
+Proteins are molecules with macro structure that are responsible for a wide range of vital biochemical functions, which includes acting as oxygen, cell signaling, antibody production, nutrient transport and building up muscle fibers.
+Promoter region identification and protein structure prediction has gained a remarkable attention in recent years.
+Even though there are some identification techniques addressing this problem, the approximate accuracy in identifying the promoter region is closely 68 percent to 72 percent.
+We have developed a Cellular Automata based tool build with hybrid multiple attractor cellular automata (HMACA) classifier for protein coding region, promoter region identification and protein structure prediction which predicts the protein and promoter regions with an accuracy of 76 percent.
+This tool also predicts the structure of protein with an accuracy of 80 percent.

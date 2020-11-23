@@ -1,0 +1,4 @@
+The paper introduces AND/OR importance sampling for probabilistic graphical models.
+In contrast to importance sampling, AND/OR importance sampling caches samples in the AND/OR space and then extracts a new sample mean from the stored samples.
+We prove that AND/OR importance sampling may have lower variance than importance sampling; thereby providing a theoretical justification for preferring it over importance sampling.
+Our empirical evaluation demonstrates that AND/OR importance sampling is far more accurate than importance sampling in many cases.

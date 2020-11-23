@@ -1,4 +1,0 @@
-Because of their performance, deep neural networks are increasingly used for object recognition.
-They are particularly attractive because of their ability to 'absorb' great quantities of labeled data through millions of parameters.
-However, as the accuracy and the model sizes increase, so does the memory requirements of the classifiers.
-This prohibits their usage on resource limited hardware, including cell phones or other embedded devices.

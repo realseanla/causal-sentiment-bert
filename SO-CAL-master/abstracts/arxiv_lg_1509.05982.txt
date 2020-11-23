@@ -1,0 +1,4 @@
+Training a denoising autoencoder neural network requires access to truly clean data, a requirement which is often impractical.
+To remedy this, we introduce a method to train an autoencoder using only noisy data, having examples with and without the signal class of interest.
+The autoencoder learns a partitioned representation of signal and noise, learning to reconstruct each separately.
+We illustrate the method by denoising birdsong audio (available abundantly in uncontrolled noisy datasets) using a convolutional autoencoder.

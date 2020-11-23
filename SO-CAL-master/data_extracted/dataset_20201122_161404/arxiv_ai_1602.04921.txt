@@ -1,7 +1,0 @@
-This paper addresses the problem of detecting coherent motions in crowd scenes and presents its two applications in crowd scene understanding: semantic region detection and recurrent activity mining.
-It processes input motion fields (e.g., optical flow fields) and produces a coherent motion filed, named as thermal energy field.
-The thermal energy field is able to capture both motion correlation among particles and the motion trends of individual particles which are helpful to discover coherency among them.
-We further introduce a two-step clustering process to construct stable semantic regions from the extracted time-varying coherent motions.
-These semantic regions can be used to recognize pre-defined activities in crowd scenes.
-Finally, we introduce a cluster-and-merge process which automatically discovers recurrent activities in crowd scenes by clustering and merging the extracted coherent motions.
-Experiments on various videos demonstrate the effectiveness of our approach.

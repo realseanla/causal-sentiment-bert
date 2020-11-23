@@ -1,0 +1,7 @@
+This report covers an intelligent decision support system (IDSS), which handles an efficient and effective way to rapidly inspect containerized cargos for defection.
+Defection is either cargo exposure to radiation, physical damages such as holes, punctured surfaces, iron surface oxidation, etc.
+The system uses a sorting array triangulation technique (SAT) and surface damage detection (SDD) to conduct the inspection.
+This new technique saves time and money on finding damaged goods during transportation such that, instead of running $n$ inspections on $n$ containers, only 3 inspections per triangulation or a ratio of $3:n$ is required, assuming $n &gt; 3$ containers.
+The damaged stack in the array is virtually detected contiguous to an actually-damaged cargo by calculating nearby distances of such cargos, delivering reliable estimates for the whole local stack population.
+The estimated values on damaged, somewhat damaged and undamaged cargo stacks, are listed and profiled after being sorted by the program, thereby submitted to the manager for a final decision.
+The report describes the problem domain and the implementation of the simulator prototype, showing how the system operates via software, hardware with/without human agents, conducting real-time inspections and management per se.

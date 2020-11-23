@@ -1,0 +1,5 @@
+We report the "Recurrent Deterioration" (RD) phenomenon observed in online recommender systems.
+The RD phenomenon is reflected by the trend of performance degradation when the recommendation model is always trained based on users' feedbacks of the previous recommendations.
+There are several reasons for the recommender systems to encounter the RD phenomenon, including the lack of negative training data and the evolution of users' interests, etc.
+Motivated to tackle the problems causing the RD phenomenon, we propose the POMDP-Rec framework, which is a neural-optimized Partially Observable Markov Decision Process algorithm for recommender systems.
+We show that the POMDP-Rec framework effectively uses the accumulated historical data from real-world recommender systems and automatically achieves comparable results with those models fine-tuned exhaustively by domain exports on public datasets.

@@ -1,0 +1,4 @@
+The Covariance Matrix Adaptation Evolution Strategy (CMA-ES) is widely accepted as a robust derivative-free continuous optimization algorithm for non-linear and non-convex optimization problems.
+CMA-ES is well known to be almost parameterless, meaning that only one hyper-parameter, the population size, is proposed to be tuned by the user.
+In this paper, we propose a principled approach called self-CMA-ES to achieve the online adaptation of CMA-ES hyper-parameters in order to improve its overall performance.
+Experimental results show that for larger-than-default population size, the default settings of hyper-parameters of CMA-ES are far from being optimal, and that self-CMA-ES allows for dynamically approaching optimal settings.

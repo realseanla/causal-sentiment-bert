@@ -1,5 +1,0 @@
-We reconsider randomized algorithms for the low-rank approximation of symmetric positive semi-definite (SPSD) matrices such as Laplacian and kernel matrices that arise in data analysis and machine learning applications.
-Our main results consist of an empirical evaluation of the performance quality and running time of sampling and projection methods on a diverse suite of SPSD matrices.
-Our results highlight complementary aspects of sampling versus projection methods based on leverage scores.
-We complement our empirical results with a suite of worst-case theoretical bounds for both random sampling and random projections methods.
-These bounds are qualitatively superior to existing bounds---e.g., improved additive-error bounds for the spectral and Frobenius norm errors and relative-error bounds for the trace norm error.

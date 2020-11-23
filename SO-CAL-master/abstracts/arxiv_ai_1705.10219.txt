@@ -1,0 +1,9 @@
+A long-standing dream of Artificial Intelligence (AI) has pursued to encode commonsense knowledge into computer programs enabling machines to reason about our world and problems.
+This work offers a new practical insight towards the automatic testing of first-order logic (FOL) ontologies.
+We introduce a novel fully automatic white-box testing framework for first-order logic (FOL) ontologies.
+The application of the proposed testing method is fully automatic since a) the automated generation of tests is only guided by the syntax of axioms and b) the evaluation of tests is performed by automated theorem provers.
+Our proposal enables the detection of defective axioms and, additionally, it also serves to demonstrate the suitability for reasoning purposes of those formulas included into FOL ontologies.
+We validate our proposal by its practical application to different FOL ontologies.
+In particular, DOLCE ---consisting of around 200 axioms---, FPK (formal proof of the Kepler conjecture) ---which has been derived from the Flyspeck project for its use in the CADE ATP System Competition CASC-J8---, and Adimen-SUMO ---which is an ontology with more than 7,000 axioms derived from SUMO---.
+As result, we have detected several non-trivial defects that were hidden in those ontologies.
+Further, we have obtained an improved version of Adimen-SUMO (v2.6) by correcting all the defects detected during the practical application of our white-box testing method.

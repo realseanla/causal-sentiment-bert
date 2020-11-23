@@ -1,6 +1,0 @@
-In this work, we present a methodology that enables an agent to make efficient use of its exploratory actions by autonomously identifying possible objectives in its environment and learning them in parallel.
-The identification of objectives is achieved using an online and unsupervised adaptive clustering algorithm.
-The identified objectives are learned (at least partially) in parallel using Q-learning.
-Using a simulated agent and environment, it is shown that the converged or partially converged value function weights resulting from off-policy learning can be used to accumulate knowledge about multiple objectives without any additional exploration.
-We claim that the proposed approach could be useful in scenarios where the objectives are initially unknown or in real world scenarios where exploration is typically a time and energy intensive process.
-The implications and possible extensions of this work are also briefly discussed.

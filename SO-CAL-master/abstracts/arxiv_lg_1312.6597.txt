@@ -1,0 +1,6 @@
+In this work, we propose two stochastic architectural models (CMC and CMC-M) with two layers of classifiers applicable to datasets with one and multiple skewed classes.
+This distinction becomes important when the datasets have a large number of classes.
+Therefore, we present a novel solution to imbalanced multiclass learning with several skewed majority classes, which improves minority classes identification.
+This fact is particularly important for text classification tasks, such as event detection.
+Our models combined with pre-processing sampling techniques improved the classification results on 6 well-known datasets.
+Finally, we have also introduced a new metric SG-Mean to overcome the multiplication by zero limitation of G-Mean.

@@ -1,6 +1,0 @@
-One of the fundamental problems in crowdsourcing is the trade-off between number of workers needed for high-accuracy aggregation and the budget to pay.
-For saving budget, it is important to ensure high quality of the crowd-sourced labels, hence the total cost on label collection will be reduced.
-Since the self-confidence of workers often has close relationship with their abilities, a possible way for quality control is to request workers to work on problems only when they feel confident, by means of providing unsure option to them.
-On the other hand, allowing workers to choose unsure option also leads to the potential danger of budget waste.
-In this work, we propose the analysis towards understanding when providing unsure option indeed leads to significant cost reduction, as well as how the confidence threshold is set.
-We also propose an online mechanism, which is alternative for threshold selection when the estimation of the crowd ability distribution is difficult.

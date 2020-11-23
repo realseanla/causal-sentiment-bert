@@ -1,2 +1,0 @@
-With a weighting scheme proportional to t, a traditional stochastic gradient descent (SGD) algorithm achieves a high probability convergence rate of O({\kappa}/T) for strongly convex functions, instead of O({\kappa} ln(T)/T).
-We also prove that an accelerated SGD algorithm also achieves a rate of O({\kappa}/T).

@@ -1,5 +1,0 @@
-Semantic parsers map language onto executable statements in a fixed schema.
-This mapping allows them to effectively leverage the information contained in large, formal knowledge bases (e.g., Freebase) to answer questions, but it is also fundamentally limiting---semantic parsers can only represent language that falls within their manually produced schema.
-Recently proposed methods for open vocabulary semantic parsing overcome this limitation by learning execution models for arbitrary language.
-However, all prior approaches to open vocabulary semantic parsing are purely distributional, making no use of any underlying knowledge base.
-We show how to combine the benefits of both of these approaches by incorporating knowledge base information into open vocabulary semantic parsing models, improving mean average precision on an open-domain natural language query task by more than 120 percent.

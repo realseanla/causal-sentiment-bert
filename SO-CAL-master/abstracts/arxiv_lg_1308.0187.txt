@@ -1,0 +1,2 @@
+In this paper we introduce the fast product format, the use of which allows fast computation of a product of many potentials (an operation in the junction tree algorithm (see Shafer, Shenoy: "Probability Propagation")).
+When combined with the use of the inclusion exclusion format (see Smith, Gogate: "The Inclusion-Exculsion Rule and its Application to the Junction Tree Algorithm") which allows for fast computation of many marginals of a potential, the junction tree algorithm can be made significantly faster in many cases.

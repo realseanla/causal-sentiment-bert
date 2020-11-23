@@ -1,0 +1,6 @@
+Mutation is one of the most important stages of the genetic algorithm because of its impact on the exploration of global optima, and to overcome premature convergence.
+There are many types of mutation, and the problem lies in selection of the appropriate type, where the decision becomes more difficult and needs more trial and error.
+This paper investigates the use of more than one mutation operator to enhance the performance of genetic algorithms.
+Novel mutation operators are proposed, in addition to two selection strategies for the mutation operators, one of which is based on selecting the best mutation operator and the other randomly selects any operator.
+Several experiments on some Travelling Salesman Problems (TSP) were conducted to evaluate the proposed methods, and these were compared to the well-known exchange mutation and rearrangement mutation.
+The results show the importance of some of the proposed methods, in addition to the significant enhancement of the genetic algorithm's performance, particularly when using more than one mutation operator.

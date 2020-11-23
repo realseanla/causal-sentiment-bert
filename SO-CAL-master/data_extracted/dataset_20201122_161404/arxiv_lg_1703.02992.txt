@@ -1,3 +1,0 @@
-Although many machine learning algorithms involve learning subspaces with particular characteristics, optimizing a parameter matrix that is constrained to represent a subspace can be challenging.
-One solution is to use Riemannian optimization methods that enforce such constraints implicitly, leveraging the fact that the feasible parameter values form a manifold.
-While Riemannian methods exist for some specific problems, such as learning a single subspace, there are more general subspace constraints that offer additional flexibility when setting up an optimization problem, but have not been formulated as a manifold.

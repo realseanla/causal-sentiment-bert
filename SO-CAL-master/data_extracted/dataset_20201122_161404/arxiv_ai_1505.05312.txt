@@ -1,6 +1,0 @@
-This paper describes a new method for reducing the error in a classifier.
-It uses a weight adjustment update, but includes the very simple rule of either adding or subtracting the adjustment, based on whether the data point is currently larger or smaller than the desired value, and on a point-by-point basis.
-This gives added flexibility to the convergence procedure, where through a series of transpositions, values far away can continue towards the desired value, whereas values that are originally much closer can oscillate from one side to the other.
-Tests show that the method can successfully classify some known datasets.
-It can also work in a batch mode, with reduced training times and can be used as part of a neural network, or classifiers in general.
-There are also some updates on an earlier wave shape paper.

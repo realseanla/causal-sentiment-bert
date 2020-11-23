@@ -1,5 +1,0 @@
-We present a new approach for inference in Bayesian networks, which is mainly based on partial differentiation.
-According to this approach, one compiles a Bayesian network into a multivariate polynomial and then computes the partial derivatives of this polynomial with respect to each variable.
-We show that once such derivatives are made available, one can compute in constant-time answers to a large class of probabilistic queries, which are central to classical inference, parameter estimation, model validation and sensitivity analysis.
-We present a number of complexity results relating to the compilation of such polynomials and to the computation of their partial derivatives.
-We argue that the combined simplicity, comprehensiveness and computational complexity of the presented framework is unique among existing frameworks for inference in Bayesian networks.

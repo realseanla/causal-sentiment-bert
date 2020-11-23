@@ -1,0 +1,9 @@
+Currently, personal assistant systems, run on smartphones and use natural language interfaces.
+However, these systems rely mostly on the web for finding information.
+Mobile and wearable devices can collect an enormous amount of contextual personal data such as sleep and physical activities.
+These information objects and their applications are known as quantified-self, mobile health or personal informatics, and they can be used to provide a deeper insight into our behavior.
+To our knowledge, existing personal assistant systems do not support all types of quantified-self queries.
+In response to this, we have undertaken a user study to analyze a set of "textual questions/queries" that users have used to search their quantified-self or mobile health data.
+Through analyzing these questions, we have constructed a light-weight natural language based query interface, including a text parser algorithm and a user interface, to process the users' queries that have been used for searching quantified-self information.
+This query interface has been designed to operate on small devices, i.e.
+smartwatches, as well as augmenting the personal assistant systems by allowing them to process end users' natural language queries about their quantified-self data.

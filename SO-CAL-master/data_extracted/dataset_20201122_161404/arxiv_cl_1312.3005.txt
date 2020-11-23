@@ -1,5 +1,0 @@
-We propose a new benchmark corpus to be used for measuring progress in statistical language modeling.
-With almost one billion words of training data, we hope this benchmark will be useful to quickly evaluate novel language modeling techniques, and to compare their contribution when combined with other advanced techniques.
-We show performance of several well-known types of language models, with the best results achieved with a recurrent neural network based language model.
-The baseline unpruned Kneser-Ney 5-gram model achieves perplexity 74.4.
-A combination of techniques leads to 37 percent reduction in perplexity, or 11 percent reduction in cross-entropy (bits), over that baseline.

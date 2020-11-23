@@ -1,9 +1,0 @@
-Finding related published articles is an important task in any science, but with the explosion of new work in the biomedical domain it has become especially challenging.
-Most existing methodologies use text similarity metrics to identify whether two articles are related or not.
-However biomedical knowledge discovery is hypothesis-driven.
-The most related articles may not be ones with the highest text similarities.
-In this study, we first develop an innovative crowd-sourcing approach to build an expert-annotated document-ranking corpus.
-Using this corpus as the gold standard, we then evaluate the approaches of using text similarity to rank the relatedness of articles.
-Finally, we develop and evaluate a new supervised model to automatically rank related scientific articles.
-Our results show that authors' ranking differ significantly from rankings by text-similarity-based models.
-By training a learning-to-rank model on a subset of the annotated corpus, we found the best supervised learning-to-rank model (SVM-Rank) significantly surpassed state-of-the-art baseline systems.

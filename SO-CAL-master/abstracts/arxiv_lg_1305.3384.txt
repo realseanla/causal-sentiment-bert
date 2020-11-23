@@ -1,0 +1,8 @@
+In this paper we present a new approach to content-based transfer learning for solving the data sparsity problem in cases when the users' preferences in the target domain are either scarce or unavailable, but the necessary information on the preferences exists in another domain.
+We show that training a system to use such information across domains can produce better performance.
+Specifically, we represent users' behavior patterns based on topological graph structures.
+Each behavior pattern represents the behavior of a set of users, when the users' behavior is defined as the items they rated and the items' rating values.
+In the next step we find a correlation between behavior patterns in the source domain and behavior patterns in the target domain.
+This mapping is considered a bridge between the two domains.
+Based on the correlation and content-attributes of the items, we train a machine learning model to predict users' ratings in the target domain.
+When we compare our approach to the popularity approach and KNN-cross-domain on a real world dataset, the results show that on an average of 83$ percent$ of the cases our approach outperforms both methods.

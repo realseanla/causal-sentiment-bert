@@ -1,6 +1,0 @@
-An order-revealing encryption scheme gives a public procedure by which two ciphertexts can be compared to reveal the ordering of their underlying plaintexts.
-We show how to use order-revealing encryption to separate computationally efficient PAC learning from efficient $(\epsilon, \delta)$-differentially private PAC learning.
-That is, we construct a concept class that is efficiently PAC learnable, but for which every efficient learner fails to be differentially private.
-This answers a question of Kasiviswanathan et al.
-(FOCS '08, SIAM J. Comput.
-'11).

@@ -1,9 +1,0 @@
-The decision variable selection policy used by the most competitive CDCL (Conflict-Driven Clause Learning) SAT solvers is either VSIDS (Variable State Independent Decaying Sum) or its variants such as exponential version EVSIDS.
-The common characteristic of VSIDS and its variants is to make use of statistical information in the solving process, but ignore structure information of the problem.
-For this reason, this paper modifies the decision variable selection policy, and presents a SAT solving technique based on BCD (Blocked Clause Decomposition).
-Its basic idea is that a part of decision variables are selected by VSIDS heuristic, while another part of decision variables are selected by blocked sets that are obtained by BCD.
-Compared with the existing BCD-based technique, our technique is simple, and need not to reencode CNF formulas.
-SAT solvers for certified UNSAT track can apply also our BCD-based technique.
-Our experiments on application benchmarks demonstrate that the new variables selection policy based on BCD can increase the performance of SAT solvers such as abcdSAT.
-The solver with BCD solved an instance from the SAT Race 2015 that was not solved by any solver so far.
-This shows that in some cases, the heuristic based on structure information is more efficient than that based on statistical information.

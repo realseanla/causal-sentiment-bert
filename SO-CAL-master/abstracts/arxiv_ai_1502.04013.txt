@@ -1,0 +1,6 @@
+We introduce Deep Neural Programs (DNP), a novel programming paradigm for writing adaptive controllers for cy-ber-physical systems (CPS).
+DNP replace if and while statements, whose discontinuity is responsible for undecidability in CPS analysis, intractability in CPS design, and frailness in CPS implementation, with their smooth, neural nif and nwhile counterparts.
+This not only makes CPS analysis decidable and CPS design tractable, but also allows to write robust and adaptive CPS code.
+In DNP the connection between the sigmoidal guards of the nif and nwhile statements has to be given as a Gaussian Bayesian network, which reflects the partial knowledge, the CPS program has about its environment.
+To the best of our knowledge, DNP are the first approach linking neural networks to programs, in a way that makes explicit the meaning of the network.
+In order to prove and validate the usefulness of DNP, we use them to write and learn an adaptive CPS controller for the parallel parking of the Pioneer rovers available in our CPS lab.

@@ -1,4 +1,0 @@
-In this paper, we describe our autonomous bidding agent, RoxyBot, who emerged victorious in the travel division of the 2006 Trading Agent Competition in a photo finish.
-At a high level, the design of many successful trading agents can be summarized as follows: (i) price prediction: build a model of market prices; and (ii) optimization: solve for an approximately optimal set of bids, given this model.
-To predict, RoxyBot builds a stochastic model of market prices by simulating simultaneous ascending auctions.
-To optimize, RoxyBot relies on the sample average approximation method, a stochastic optimization technique.

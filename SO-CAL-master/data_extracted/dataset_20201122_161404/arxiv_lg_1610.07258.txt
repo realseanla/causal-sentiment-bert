@@ -1,7 +1,0 @@
-We propose a new model based on the deconvolutional networks and SAX discretization to learn the representation for multivariate time series.
-Deconvolutional networks fully exploit the advantage the powerful expressiveness of deep neural networks in the manner of unsupervised learning.
-We design a network structure specifically to capture the cross-channel correlation with deconvolution, forcing the pooling operation to perform the dimension reduction along each position in the individual channel.
-Discretization based on Symbolic Aggregate Approximation is applied on the feature vectors to further extract the bag of features.
-We show how this representation and bag of features helps on classification.
-A full comparison with the sequence distance based approach is provided to demonstrate the effectiveness of our approach on the standard datasets.
-We further build the Markov matrix from the discretized representation from the deconvolution to visualize the time series as complex networks, which show more class-specific statistical properties and clear structures with respect to different labels.

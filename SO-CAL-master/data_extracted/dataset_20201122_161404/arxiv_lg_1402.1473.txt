@@ -1,5 +1,0 @@
-Joint matching over a collection of objects aims at aggregating information from a large collection of similar instances (e.g.
-images, graphs, shapes) to improve maps between pairs of them.
-Given multiple matches computed between a few object pairs in isolation, the goal is to recover an entire collection of maps that are (1) globally consistent, and (2) close to the provided maps --- and under certain conditions provably the ground-truth maps.
-Despite recent advances on this problem, the best-known recovery guarantees are limited to a small constant barrier --- none of the existing methods find theoretical support when more than $50\ percent$ of input correspondences are corrupted.
-Moreover, prior approaches focus mostly on fully similar objects, while it is practically more demanding to match instances that are only partially similar to each other.

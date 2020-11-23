@@ -1,4 +1,0 @@
-In recent years, Deep Neural Networks (DNNs) based methods have achieved remarkable performance in a wide range of tasks and have been among the most powerful and widely used techniques in computer vision, speech recognition and Natural Language Processing.
-However, DNN-based methods are both computational-intensive and resource-consuming, which hinders the application of these methods on embedded systems like smart phones.
-To alleviate this problem, we introduce a novel Fixed-point Factorized Networks (FFN) on pre-trained models to reduce the computational complexity as well as the storage requirement of networks.
-Extensive experiments on large-scale ImageNet classification task show the effectiveness of our proposed method.

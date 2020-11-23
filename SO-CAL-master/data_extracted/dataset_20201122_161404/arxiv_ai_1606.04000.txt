@@ -1,4 +1,0 @@
-The inherent inflexibility and incompleteness of commonsense knowledge bases (KB) has limited their usefulness.
-We describe a system called Displacer for performing KB queries extended with the analogical capabilities of the word2vec distributional semantic vector space (DSVS).
-This allows the system to answer queries with information which was not contained in the original KB in any form.
-By performing analogous queries on semantically related terms and mapping their answers back into the context of the original query using displacement vectors, we are able to give approximate answers to many questions which, if posed to the KB alone, would return no results.

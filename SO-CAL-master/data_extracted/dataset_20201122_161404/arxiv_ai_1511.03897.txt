@@ -1,8 +1,0 @@
-In the context of Building Information Modelling, ontologies have been identified as interesting in achieving information interoperability.
-Regarding the construction and facility management domains, several IFC (Industry Foundation Classes) based ontologies have been developed, such as IfcOWL.
-In the context of ontology modelling, the constraint of optimizing the size of IFC STEP-based files can be leveraged.
-In this paper, we propose an adaptation of the IFC model into OWL which leverages from all modelling constraints required by the object-oriented structure of IFC schema.
-Therefore, we do not only present a syntactic but also a semantic adaptation of the IFC model.
-Our model takes into consideration the meaning of entities, relationships, properties and attributes defined by the IFC standard.
-Our approach presents several advantages compared to other initiatives such as the optimization of query execution time.
-Every advantage is defended by means of practical examples and benchmarks.

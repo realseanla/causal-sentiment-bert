@@ -1,4 +1,0 @@
-Variational inference is a very efficient and popular heuristic used in various forms in the context of latent variable models.
-It's closely related to Expectation Maximization (EM), and is applied when exact EM is computationally infeasible.
-Despite being immensely popular, current theoretical understanding of the effectiveness of variaitonal inference based algorithms is very limited.
-In this work we provide the first analysis of instances where variational inference algorithms converge to the global optimum, in the setting of topic models.

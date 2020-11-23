@@ -1,4 +1,0 @@
-We introduce the value iteration network: a fully differentiable neural network with a `planning module' embedded within.
-Value iteration networks are suitable for making predictions about outcomes that involve planning-based reasoning, such as predicting a desired trajectory from an observation of a map.
-Key to our approach is a novel differentiable approximation of the value-iteration algorithm, which can be represented as a convolutional neural network, and trained end-to-end using standard backpropagation.
-We evaluate our value iteration networks on the task of predicting optimal obstacle-avoiding trajectories from an image of a landscape, both on synthetic data, and on challenging raw images of the Mars terrain.

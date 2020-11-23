@@ -1,0 +1,11 @@
+Problems such as predicting an optical flow field (Y) for an image (X) are ambiguous: many very distinct solutions are good.
+Representing this ambiguity requires building a conditional model P(Y|X) of the prediction, conditioned on the image.
+It is hard because training data usually does not contain many different flow fields for the same image.
+As a result, we need different images to share data to produce good models.
+We demonstrate an improved method for building conditional models, the Co-Embedding Deep Variational Auto Encoder.
+Our CDVAE exploits multiple encoding and decoding layers for both X and Y.
+These are tied during training to produce a model of the joint distribution P(X, Y), which provides the necessary smoothing.
+Our tying procedure is designed to yield a conditional model easy at test time.
+We demonstrate our model on three example tasks using real data: image saturation adjustment, image relighting, and motion prediction.
+We describe quantitative evaluation metrics to evaluate ambiguous generation results.
+Our results quantitatively and qualitatively advance the state of the art.

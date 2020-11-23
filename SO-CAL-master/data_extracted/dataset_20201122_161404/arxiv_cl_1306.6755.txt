@@ -1,8 +1,0 @@
-Arabizi is Arabic text that is written using Latin characters.
-Arabizi is used to present both Modern Standard Arabic (MSA) or Arabic dialects.
-It is commonly used in informal settings such as social networking sites and is often with mixed with English.
-In this paper we address the problems of: identifying Arabizi in text and converting it to Arabic characters.
-We used word and sequence-level features to identify Arabizi that is mixed with English.
-We achieved an identification accuracy of 98.5 percent.
-As for conversion, we used transliteration mining with language modeling to generate equivalent Arabic text.
-We achieved 88.7 percent conversion accuracy, with roughly a third of errors being spelling and morphological variants of the forms in ground truth.

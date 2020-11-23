@@ -1,7 +1,0 @@
-One-hot CNN (convolutional neural network) has been shown to be effective for text categorization in our previous work.
-We view it as a special case of a general framework which jointly trains a linear model with a non-linear feature generator consisting of `text region embedding + pooling'.
-Under this framework, we explore a more sophisticated region embedding method using Long Short-Term Memory (LSTM).
-LSTM can embed text regions of variable (and possibly large) sizes, whereas the region size needs to be fixed in a CNN.
-We seek the best use of LSTM for the purpose in the supervised and semi-supervised settings, starting with the idea of one-hot LSTM, which eliminates the customarily used word embedding layer.
-Our results indicate that on this task, embeddings of text regions, which can convey higher concepts than single words in isolation, are more useful than word embeddings.
-We report performances exceeding the previous best results on four benchmark datasets.

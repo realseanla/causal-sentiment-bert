@@ -1,6 +1,0 @@
-Social media platforms contain a great wealth of information which provides opportunities for us to explore hidden patterns or unknown correlations, and understand people's satisfaction with what they are discussing.
-As one showcase, in this paper, we present a system, TwiInsight which explores the insight of Twitter data.
-Different from other Twitter analysis systems, TwiInsight automatically extracts the popular topics under different categories (e.g., healthcare, food, technology, sports and transport) discussed in Twitter via topic modeling and also identifies the correlated topics across different categories.
-Additionally, it also discovers the people's opinions on the tweets and topics via the sentiment analysis.
-The system also employs an intuitive and informative visualization to show the uncovered insight.
-Furthermore, we also develop and compare six most popular algorithms - three for sentiment analysis and three for topic modeling.

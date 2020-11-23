@@ -1,6 +1,0 @@
-Specialized dictionaries are used to understand concepts in specific domains, especially where those concepts are not part of the general vocabulary, or having meanings that differ from ordinary languages.
-The first step in creating a specialized dictionary involves detecting the characteristic vocabulary of the domain in question.
-Classical methods for detecting this vocabulary involve gathering a domain corpus, calculating statistics on the terms found there, and then comparing these statistics to a background or general language corpus.
-Terms which are found significantly more often in the specialized corpus than in the background corpus are candidates for the characteristic vocabulary of the domain.
-Here we present two tools, a directed crawler, and a distributional semantics package, that can be used together, circumventing the need of a background corpus.
-Both tools are available on the web.

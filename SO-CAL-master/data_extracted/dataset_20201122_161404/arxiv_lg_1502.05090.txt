@@ -1,5 +1,0 @@
-Motivated by the problem of computing investment portfolio weightings we investigate various methods of clustering as alternatives to traditional mean-variance approaches.
-Such methods can have significant benefits from a practical point of view since they remove the need to invert a sample covariance matrix, which can suffer from estimation error and will almost certainly be non-stationary.
-The general idea is to find groups of assets which share similar return characteristics over time and treat each group as a single composite asset.
-We then apply inverse volatility weightings to these new composite assets.
-In the course of our investigation we devise a method of clustering based on triangular potentials and we present associated theoretical results as well as various examples based on synthetic data.

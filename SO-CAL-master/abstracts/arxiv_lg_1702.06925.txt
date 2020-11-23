@@ -1,0 +1,7 @@
+Limited annotated data is available for the research of estimating facial expression intensities, which makes the training of deep networks for automated expression assessment very challenging.
+Fortunately, fine-tuning from a data-extensive pre-trained domain such as face verification can alleviate the problem.
+In this paper, we propose a transferred network that fine-tunes a state-of-the-art face verification network using expression-intensity labeled data with a regression layer.
+In this way, the expression regression task can benefit from the rich feature representations trained on a huge amount of data for face verification.
+The proposed transferred deep regressor is applied in estimating the intensity of facial action units (2017 EmotionNet Challenge) and in particular pain intensity estimation (UNBS-McMaster Shoulder-Pain dataset).
+It wins the second place in the challenge and achieves the state-of-the-art performance on Shoulder-Pain dataset.
+Particularly for Shoulder-Pain with the imbalance issue of different pain levels, a new weighted evaluation metric is proposed.

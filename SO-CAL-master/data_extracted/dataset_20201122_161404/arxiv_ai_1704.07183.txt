@@ -1,5 +1,0 @@
-Stochastic Constraint Programming (SCP) is an extension of Constraint Programming (CP) used for modelling and solving problems involving constraints and uncertainty.
-SCP inherits excellent modelling abilities and filtering algorithms from CP, but so far it has not been applied to large problems.
-Reinforcement Learning (RL) extends Dynamic Programming to large stochastic problems, but is problem-specific and has no generic solvers.
-We propose a hybrid combining the scalability of RL with the modelling and constraint filtering methods of CP.
-We implement a prototype in a CP system and demonstrate its usefulness on SCP problems.

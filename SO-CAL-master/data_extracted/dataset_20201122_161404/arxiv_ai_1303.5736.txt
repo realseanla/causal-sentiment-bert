@@ -1,5 +1,0 @@
-We present a general architecture for the monitoring and diagnosis of large scale sensor-based systems with real time diagnostic constraints.
-This architecture is multileveled, combining a single monitoring level based on statistical methods with two model based diagnostic levels.
-At each level, sources of uncertainty are identified, and integrated methodologies for uncertainty management are developed.
-The general architecture was applied to the monitoring and diagnosis of a specific nuclear physics detector at Lawrence Berkeley National Laboratory that contained approximately 5000 components and produced over 500 channels of output data.
-The general architecture is scalable, and work is ongoing to apply it to detector systems one and two orders of magnitude more complex.

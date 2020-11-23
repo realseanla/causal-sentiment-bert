@@ -1,0 +1,4 @@
+K-means is an effective clustering technique used to separate similar data into groups based on initial centroids of clusters.
+In this paper, Normalization based K-means clustering algorithm(N-K means) is proposed.
+Proposed N-K means clustering algorithm applies normalization prior to clustering on the available data as well as the proposed approach calculates initial centroids based on weights.
+Experimental results prove the betterment of proposed N-K means clustering algorithm over existing K-means clustering algorithm in terms of complexity and overall performance.

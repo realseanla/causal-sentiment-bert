@@ -1,3 +1,0 @@
-This paper considers the problem of clustering a partially observed unweighted graph -- i.e.
-one where for some node pairs we know there is an edge between them, for some others we know there is no edge, and for the remaining we do not know whether or not there is an edge.
-We want to organize the nodes into disjoint clusters so that there is relatively dense (observed) connectivity within clusters, and sparse across clusters.

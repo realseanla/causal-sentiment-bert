@@ -1,5 +1,0 @@
-We study the computational complexity of committee selection problem for several approval-based voting rules in the presence of outliers.
-Our first result shows that outlier consideration makes committee selection problem intractable for approval, net approval, and minisum approval voting rules.
-We then study parameterized complexity of this problem with five natural parameters, namely the target score, the size of the committee (and its dual parameter, the number of candidates outside the committee), the number of outliers (and its dual parameter, the number of non-outliers).
-For net approval and minisum approval voting rules, we provide a dichotomous result, resolving the parameterized complexity of this problem for all subsets of five natural parameters considered (by showing either FPT or W[1]-hardness for all subsets of parameters).
-For the approval voting rule, we resolve the parameterized complexity of this problem for all subsets of parameters except one.

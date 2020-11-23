@@ -1,0 +1,4 @@
+We consider the problem of efficiently computing shortest paths in weighted graphs given auxiliary data computed in an expensive offline phase.
+Contraction Hierarchies --- a very successful techniques on road graphs --- are extended in this work to support a three phase workflow by adding a fast weight customization phase and using nested dissection orders.
+We provide an in-depth experimental analysis on large road and game maps that clearly shows that Customizable Contraction Hierarchies are a very practicable solution even in scenarios where edge weights constantly change.
+We are able to prove a constant factor approximation bound.

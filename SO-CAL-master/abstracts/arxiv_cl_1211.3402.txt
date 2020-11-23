@@ -1,0 +1,5 @@
+The genetic selection of keywords set, the text frequencies of which are considered as attributes in text classification analysis, has been analyzed.
+The genetic optimization was performed on a set of words, which is the fraction of the frequency dictionary with given frequency limits.
+The frequency dictionary was formed on the basis of analyzed text array of texts of English fiction.
+As the fitness function which is minimized by the genetic algorithm, the error of nearest k neighbors classifier was used.
+The obtained results show high precision and recall of texts classification by authorship categories on the basis of attributes of keywords set which were selected by the genetic algorithm from the frequency dictionary.

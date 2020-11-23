@@ -1,5 +1,0 @@
-We introduce a new type of graphical model that we call a "memory factor network" (MFN).
-We show how to use MFNs to model the structure inherent in many types of data sets.
-We also introduce an associated message-passing style algorithm called "proactive message passing"' (PMP) that performs inference on MFNs.
-PMP comes with convergence guarantees and is efficient in comparison to competing algorithms such as variants of belief propagation.
-We specialize MFNs and PMP to a number of distinct types of data (discrete, continuous, labelled) and inference problems (interpolation, hypothesis testing), provide examples, and discuss approaches for efficient implementation.

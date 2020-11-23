@@ -1,0 +1,4 @@
+This document discusses the Information Theoretically Efficient Model (ITEM), a computerized system to generate an information theoretically efficient multinomial logistic regression from a general dataset.
+More specifically, this model is designed to succeed even where the logit transform of the dependent variable is not necessarily linear in the independent variables.
+This research shows that for large datasets, the resulting models can be produced on modern computers in a tractable amount of time.
+These models are also resistant to overfitting, and as such they tend to produce interpretable models with only a limited number of features, all of which are designed to be well behaved.

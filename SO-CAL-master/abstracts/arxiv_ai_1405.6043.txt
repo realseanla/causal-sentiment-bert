@@ -1,0 +1,3 @@
+We extend the knowledge about so-called structural restrictions of $\mathrm{\#SAT}$ by giving a polynomial time algorithm for $\beta$-acyclic $\mathrm{\#SAT}$.
+In contrast to previous algorithms in the area, our algorithm does not proceed by dynamic programming but works along an elimination order, solving a weighted version of constraint satisfaction.
+Moreover, we give evidence that this deviation from more standard algorithm is not a coincidence, but that there is likely no dynamic programming algorithm of the usual style for $\beta$-acyclic $\mathrm{\#SAT}$.

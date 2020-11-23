@@ -1,9 +1,0 @@
-Music auto-tagging is often handled in a similar manner to image classification by regarding the 2D audio spectrogram as image data.
-However, music auto-tagging is distinguished from image classification in that the tags are highly diverse and have different levels of abstractions.
-Considering this issue, we propose a convolutional neural networks (CNN)-based architecture that embraces multi-level and multi-scaled features.
-The architecture is trained in three steps.
-First, we conduct supervised feature learning to capture local audio features using a set of CNNs with different input sizes.
-Second, we extract audio features from each layer of the pre-trained convolutional networks separately and aggregate them altogether given a long audio clip.
-Finally, we put them into fully-connected networks and make final predictions of the tags.
-Our experiments show that using the combination of multi-level and multi-scale features is highly effective in music auto-tagging and the proposed method outperforms previous state-of-the-arts on the Magnatagatune dataset and the million song dataset.
-We further show that the proposed architecture is useful in transfer learning.

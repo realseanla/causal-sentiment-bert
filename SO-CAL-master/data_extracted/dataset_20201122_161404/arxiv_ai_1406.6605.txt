@@ -1,5 +1,0 @@
-Description Logics are widely used to describe knowledge bases.
-Their purpose is to describe static knowledge.
-Our goal, in the other hand, is to be able to do the same thing with dynamic knowledge.
-To reach that objective we introduce substitution modifying concepts and roles.
-We investigate the effect of adding such substitutions to the logic SROIQ, yielding SROIQsigma, and prove that the satisfiability of a property is still decidable in SROIQsigma.

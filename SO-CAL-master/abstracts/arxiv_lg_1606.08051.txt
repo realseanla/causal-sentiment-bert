@@ -1,0 +1,6 @@
+Many machine learning problems such as speech recognition, gesture recognition, and handwriting recognition are concerned with simultaneous segmentation and labeling of sequence data.
+Latent-dynamic conditional random field (LDCRF) is a well-known discriminative method that has been successfully used for this task.
+However, LDCRF can only be trained with pre-segmented data sequences in which the label of each frame is available.
+In the realm of neural networks, the invention of Connectionist Temporal Classification (CTC) made it possible to train Recurrent Neural Networks on unsegmented sequences with great success.
+In this paper, we use CTC to train LDCRF model on unsegmented sequences.
+Experimental results on gesture recognition tasks show that our proposed method can outperform LDCRF, Hidden Markov Models, and Conditional Random Fields.

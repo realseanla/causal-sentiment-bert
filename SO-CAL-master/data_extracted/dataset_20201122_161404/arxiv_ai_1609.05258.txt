@@ -1,6 +1,0 @@
-Robotic challenges like the Amazon Picking Challenge (APC) or the DARPA Challenges are an established and important way to drive scientific progress as they make research comparable on a well-defined benchmark with equal test conditions for all participants.
-However, such challenge events occur only occasionally, are limited to a small number of contestants, and the test conditions are very difficult to replicate after the main event.
-We present a new physical benchmark challenge for robotic picking.
-The ACRV Picking Benchmark is designed to be reproducible by using a set of 42 common objects, a widely available shelf, and exact guidelines for object arrangement using stencils.
-A well-defined evaluation protocol enables the comparability of complete robotic systems -- including perception and manipulation -- instead of sub-systems only.
-Our paper describes this new benchmark challenge and presents results acquired by a baseline system based on a Baxter robot.

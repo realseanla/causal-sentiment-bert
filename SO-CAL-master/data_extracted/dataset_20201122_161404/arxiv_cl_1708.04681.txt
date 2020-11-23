@@ -1,6 +1,0 @@
-Preventable medical errors are estimated to be among the leading causes of injury and death in the United States.
-To prevent such errors, healthcare systems have implemented patient safety and incident reporting systems.
-These systems enable clinicians to report unsafe conditions and cases where patients have been harmed due to errors in medical care.
-These reports are narratives in natural language and while they provide detailed information about the situation, it is non-trivial to perform large scale analysis for identifying common causes of errors and harm to the patients.
-In this work, we present a method based on attentive convolutional and recurrent networks for identifying harm events in patient care and categorize the harm based on its severity level.
-We demonstrate that our methods can significantly improve the performance over existing methods in identifying harm in clinical care.

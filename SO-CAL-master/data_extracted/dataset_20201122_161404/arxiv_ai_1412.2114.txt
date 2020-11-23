@@ -1,4 +1,0 @@
-We propose a new approach for solving combinatorial optimization problem by utilizing the mechanism of chases and escapes, which has a long history in mathematics.
-In addition to the well-used steepest descent and neighboring search, we perform a chase and escape game on the "landscape" of the cost function.
-We have created a concrete algorithm for the Traveling Salesman Problem.
-Our preliminary test indicates a possibility that this new fusion of chases and escapes problem into combinatorial optimization search is fruitful.

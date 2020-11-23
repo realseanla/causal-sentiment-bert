@@ -1,0 +1,9 @@
+There is an increasing consensus among re- searchers that making a computer emotionally intelligent with the ability to decode human affective states would allow a more meaningful and natural way of human-computer interactions (HCIs).
+One unobtrusive and non-invasive way of recognizing human affective states entails the exploration of how physiological signals vary under different emotional experiences.
+In particular, this paper explores the correlation between autonomically-mediated changes in multimodal body signals and discrete emotional states.
+In order to fully exploit the information in each modality, we have provided an innovative classification approach for three specific physiological signals including Electromyogram (EMG), Blood Volume Pressure (BVP) and Galvanic Skin Response (GSR).
+These signals are analyzed as inputs to an emotion recognition paradigm based on fusion of a series of weak learners.
+Our proposed classification approach showed 88.1 percent recognition accuracy, which outperformed the conventional Support Vector Machine (SVM) classifier with 17 percent accuracy improvement.
+Furthermore, in order to avoid information redundancy and the resultant over-fitting, a feature reduction method is proposed based on a correlation analysis to optimize the number of features required for training and validating each weak learner.
+Results showed that despite the feature space dimensionality reduction from 27 to 18 features, our methodology preserved the recognition accuracy of about 85.0 percent.
+This reduction in complexity will get us one step closer towards embedding this human emotion encoder in the wireless and wearable HCI platforms.

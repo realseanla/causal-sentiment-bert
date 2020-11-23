@@ -1,6 +1,0 @@
-Convolutional Neural Networks (CNNs) exhibit remarkable performance in various machine learning tasks.
-As sensor-equipped internet of things (IoT) devices permeate into every aspect of modern life, it is increasingly important to run CNN inference, a computationally intensive application, on resource constrained devices.
-We present a technique for fast and energy-efficient CNN inference on mobile SoC platforms, which are projected to be a major player in the IoT space.
-We propose techniques for efficient parallelization of CNN inference targeting mobile GPUs, and explore the underlying tradeoffs.
-Experiments with running Squeezenet on three different mobile devices confirm the effectiveness of our approach.
-For further study, please refer to the project repository available on our GitHub page:

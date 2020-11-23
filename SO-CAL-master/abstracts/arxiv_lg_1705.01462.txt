@@ -1,0 +1,10 @@
+We propose a novel fine-grained quantization method for ternarizing pre-trained full precision models, while also constraining activations to 8-bits.
+Using this method, we demonstrate minimal loss in classification accuracy on state-of-the-art topologies without additional training.
+This enables a full 8-bit inference pipeline, with best reported accuracy using ternary weights on ImageNet dataset.
+Further, we also provide an improved theoretical formulation that forms the basis for a higher quality solution with this approach.
+Our method involves ternarizing the original weight tensor in groups of $N$ weights.
+Using $N=4$, we achieve Top-1 accuracy within $3.7\ percent$ and $5.8\ percent$ of the baseline full precision result for Resnet-101 and Resnet-50 respectively, while eliminating $75\ percent$ of all multiplications.
+We also study the impact of group size on both performance and accuracy.
+With a group size of $N=64$, we eliminate $\approx99\ percent$ of the multiplications; however, this introduces a significant drop in accuracy, which necessitates fine tuning the parameters (re-training) at lower precision.
+To address this, we re-train Resnet-50 with 8-bit activations and ternary weights, improving the Top-1 accuracy to within $4\ percent$ of the full precision result with $&lt;30\ percent$ additional overhead.
+Our final quantized model can run on a full 8-bit compute pipeline using 2-bit weights and has the potential of up to $16\times$ improvement in performance compared to baseline full-precision models.

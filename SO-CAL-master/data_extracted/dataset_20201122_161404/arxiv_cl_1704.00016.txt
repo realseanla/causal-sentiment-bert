@@ -1,8 +1,0 @@
-As the type and the number of such venues increase, automated analysis of sentiment on textual resources has become an essential data mining task.
-In this paper, we investigate the problem of mining opinions by extracting aspects of entities on the collection of informal short texts.
-Both positive and negative sentiment strength of texts are detected.
-We focus on a non-English language that has few resources for text mining.
-This approach would help enhance the sentiment analysis in languages where a list of opinionated words does not exist.
-We propose a new method projects the text into dense and low dimensional feature vectors according to the sentiment strength of the words.
-We detect the mixture of positive and negative sentiments on a multi-variant scale.
-Empirical evaluation of the proposed framework on Turkish tweets shows that our approach gets good results for opinion mining.

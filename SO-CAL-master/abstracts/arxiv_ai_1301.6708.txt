@@ -1,0 +1,5 @@
+The paper is a second in a series of two papers evaluating the power of a new scheme that generates search heuristics mechanically.
+The heuristics are extracted from an approximation scheme called mini-bucket elimination that was recently introduced.
+The first paper introduced the idea and evaluated it within Branch-and-Bound search.
+In the current paper the idea is further extended and evaluated within Best-First search.
+The resulting algorithms are compared on coding and medical diagnosis problems, using varying strength of the mini-bucket heuristics.

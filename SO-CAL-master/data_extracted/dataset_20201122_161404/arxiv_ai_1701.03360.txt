@@ -1,9 +1,0 @@
-In this paper, a novel architecture for a deep recurrent neural network, residual LSTM is introduced.
-A plain LSTM has an internal memory cell that can learn long term dependencies of sequential data.
-It also provides a temporal shortcut path to avoid vanishing or exploding gradients in the temporal domain.
-The proposed residual LSTM architecture provides an additional spatial shortcut path from lower layers for efficient training of deep networks with multiple LSTM layers.
-Compared with the previous work, highway LSTM, residual LSTM reuses the output projection matrix and the output gate of LSTM to control the spatial information flow instead of additional gate networks, which effectively reduces more than 10 percent of network parameters.
-An experiment for distant speech recognition on the AMI SDM corpus indicates that the performance of plain and highway LSTM networks degrades with increasing network depth.
-For example, 10-layer plain and highway LSTM networks showed 13.7 percent and 6.2 percent increase in WER over 3-layer baselines, respectively.
-On the contrary, 10-layer residual LSTM networks provided the lowest WER 41.0 percent, which corresponds to 3.3 percent and 2.8 percent WER reduction over 3-layer plain and highway LSTM networks, respectively.
-Training with both the IHM and SDM corpora, the residual LSTM architecture provided larger gain from increasing depth: a 10-layer residual LSTM showed 3.0 percent WER reduction over the corresponding 5-layer one.

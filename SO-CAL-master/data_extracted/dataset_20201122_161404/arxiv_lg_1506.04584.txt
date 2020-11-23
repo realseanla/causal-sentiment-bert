@@ -1,8 +1,0 @@
-Collaborative filtering recommender systems (CFRSs) are the key components of successful e-commerce systems.
-Actually, CFRSs are highly vulnerable to attacks since its openness.
-However, since attack size is far smaller than that of genuine users, conventional supervised learning based detection methods could be too "dull" to handle such imbalanced classification.
-In this paper, we improve detection performance from following two aspects.
-First, we extract well-designed features from user profiles based on the statistical properties of the diverse attack models, making hard classification task becomes easier to perform.
-Then, refer to the general idea of re-scale Boosting (RBoosting) and AdaBoost, we apply a variant of AdaBoost, called the re-scale AdaBoost (RAdaBoost) as our detection method based on extracted features.
-RAdaBoost is comparable to the optimal Boosting-type algorithm and can effectively improve the performance in some hard scenarios.
-Finally, a series of experiments on the MovieLens-100K data set are conducted to demonstrate the outperformance of RAdaBoost comparing with some classical techniques such as SVM, kNN and AdaBoost.

@@ -1,0 +1,9 @@
+Optimization plays a key role in machine learning.
+Recently, stochastic second-order methods have attracted much attention due to their low computational cost in each iteration.
+However, these algorithms might perform poorly especially if it is hard to approximate the Hessian well and efficiently.
+As far as we know, there is no effective way to handle this problem.
+In this paper, we resort to Nestrov's acceleration technique to improve the convergence performance of a class of second-order methods called approximate Newton.
+We give a theoretical analysis that Nestrov's acceleration technique can improve the convergence performance for approximate Newton just like for first-order methods.
+We accordingly propose an accelerated regularized sub-sampled Newton.
+Our accelerated algorithm performs much better than the original regularized sub-sampled Newton in experiments, which validates our theory empirically.
+Besides, the accelerated regularized sub-sampled Newton has good performance comparable to or even better than state-of-art algorithms.

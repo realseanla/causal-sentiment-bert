@@ -1,0 +1,4 @@
+We consider learning a predictor which is non-discriminatory with respect to a "protected attribute" according to the notion of "equalized odds" proposed by Hardt et al.
+[2016].
+We study the problem of learning such a non-discriminatory predictor from a finite training set, both statistically and computationally.
+We show that a post-hoc correction approach, as suggested by Hardt et al, can be highly suboptimal, present a nearly-optimal statistical procedure, argue that the associated computational problem is intractable, and suggest a second moment relaxation of the non-discrimination definition for which learning is tractable.

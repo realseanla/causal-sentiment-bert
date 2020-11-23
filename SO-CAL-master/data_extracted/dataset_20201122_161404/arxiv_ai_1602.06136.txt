@@ -1,7 +1,0 @@
-The advances of the Linked Open Data (LOD) initiative are giving rise to a more structured web of data.
-Indeed, a few datasets act as hubs (e.g., DBpedia) connecting many other datasets.
-They also made possible new web services for entity detection inside plain text (e.g., DBpedia Spotlight), thus allowing for new applications that will benefit from a combination of the web of documents and the web of data.
-To ease the emergence of these new use-cases, we propose a query-biased algorithm for the ranking of entities detected inside a web page.
-Our algorithm combine link analysis with dimensionality reduction.
-We use crowdsourcing for building a publicly available and reusable dataset on which we compare our algorithm to the state of the art.
-Finally, we use this algorithm for the construction of semantic snippets for which we evaluate the usability and the usefulness with a crowdsourcing-based approach.

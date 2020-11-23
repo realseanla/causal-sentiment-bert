@@ -1,0 +1,5 @@
+The paper presents an application of Conformal Predictors to a chemoinformatics problem of identifying activities of chemical compounds.
+The paper addresses some specific challenges of this domain: a large number of compounds (training examples), high-dimensionality of feature space, sparseness and a strong class imbalance.
+A variant of conformal predictors called Inductive Mondrian Conformal Predictor is applied to deal with these challenges.
+Results are presented for several non-conformity measures (NCM) extracted from underlying algorithms and different kernels.
+A number of performance measures are used in order to demonstrate the flexibility of Inductive Mondrian Conformal Predictors in dealing with such a complex set of data.

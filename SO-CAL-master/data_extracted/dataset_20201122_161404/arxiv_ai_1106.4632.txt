@@ -1,6 +1,0 @@
-Given a point cloud, we consider inferring kinematic models of 3D articulated objects such as boxes for the purpose of manipulating them.
-While previous work has shown how to extract a planar kinematic model (often represented as a linear chain), such planar models do not apply to 3D objects that are composed of segments often linked to the other segments in cyclic configurations.
-We present an approach for building a model that captures the relation between the input point cloud features and the object segment as well as the relation between the neighboring object segments.
-We use a conditional random field that allows us to model the dependencies between different segments of the object.
-We test our approach on inferring the kinematic structure from partial and noisy point cloud data for a wide variety of boxes including cake boxes, pizza boxes, and cardboard cartons of several sizes.
-The inferred structure enables our robot to successfully close these boxes by manipulating the flaps.

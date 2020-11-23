@@ -1,3 +1,0 @@
-Deep neural networks (DNN) have shown unprecedented success in various computer vision applications such as image classification and object detection.
-However, it is still a common (yet inconvenient) practice to prepare at least tens of thousands of labeled image to fine-tune a network on every task before the model is ready to use.
-Recent study shows that a DNN has strong dependency towards the training dataset, and the learned features cannot be easily transferred to a different but relevant task without fine-tuning.

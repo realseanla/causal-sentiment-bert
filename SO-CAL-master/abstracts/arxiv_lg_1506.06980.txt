@@ -1,0 +1,6 @@
+Machine learning relies on the assumption that unseen test instances of a classification problem follow the same distribution as observed training data.
+However, this principle can break down when machine learning is used to make important decisions about the welfare (employment, education, health) of strategic individuals.
+Knowing information about the classifier, such individuals may manipulate their attributes in order to obtain a better classification outcome.
+As a result of this behavior---often referred to as gaming---the performance of the classifier may deteriorate sharply.
+Indeed, gaming is a well-known obstacle for using machine learning methods in practice; in financial policy-making, the problem is widely known as Goodhart's law.
+In this paper, we formalize the problem, and pursue algorithms for learning classifiers that are robust to gaming.

@@ -1,0 +1,5 @@
+This paper investigates the mining of class association rules with rough set approach.
+In data mining, an association occurs between two set of elements when one element set happen together with another.
+A class association rule set (CARs) is a subset of association rules with classes specified as their consequences.
+We present an efficient algorithm for mining the finest class rule set inspired form Apriori algorithm, where the support and confidence are computed based on the elementary set of lower approximation included in the property of rough set theory.
+Our proposed approach has been shown very effective, where the rough set approach for class association discovery is much simpler than the classic association method.

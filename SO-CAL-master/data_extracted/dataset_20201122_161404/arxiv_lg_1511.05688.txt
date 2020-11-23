@@ -1,6 +1,0 @@
-Proposed methods for prediction interval estimation focus on cases where input variables are numerical.
-Since categorical input variables can also be represented using numerical variables, such methods are applicable to most datasets.
-We propose a new prediction interval estimation method tailored for datasets with nominal input variables.
-This method has two main phases: I) modeling the output variable distribution separately for groups of samples with equal input vectors II) training the parameters of the predictor such that, it can best represent the relationship between the input variables and modeled distributions of output variables.
-The trained predictor is then used to provide prediction intervals for a new input.
-For Gaussian distribution, our experiment on synthetic dataset show higher performance when compared to the popular bootstrap method.

@@ -1,4 +1,0 @@
-In this paper, we propose new Distributed Asynchronous Dual-Free Coordinate Ascent method (Asy-df SDCA), and provide the proof of convergence rate for two cases: the individual loss is convex and the individual loss is non-convex but its expected loss is convex.
-Stochastic Dual Coordinate Ascent (SDCA) model is a popular method and often has better performances than stochastic gradient descent methods in solving regularized convex loss minimization problems.
-Dual-Free Stochastic Dual Coordinate Ascent method is a variation of SDCA, and can be applied to non-convex problem when its dual problem is meaningless.
-We extend Dual-Free Stochastic Dual Coordinate Ascent method to the distributed mode with considering the star network in this paper.

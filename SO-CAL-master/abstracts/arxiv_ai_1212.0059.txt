@@ -1,0 +1,7 @@
+Detection and segmentation of Brain tumor is very important because it provides anatomical information of normal and abnormal tissues which helps in treatment planning and patient follow-up.
+There are number of techniques for image segmentation.
+Proposed research work uses ANFIS (Artificial Neural Network Fuzzy Inference System) for image classification and then compares the results with FCM (Fuzzy C means) and K-NN (K-nearest neighbor).
+ANFIS includes benefits of both ANN and the fuzzy logic systems.
+A comprehensive feature set and fuzzy rules are selected to classify an abnormal image to the corresponding tumor type.
+Experimental results illustrate promising results in terms of classification accuracy.
+A comparative analysis is performed with the FCM and K-NN to show the superior nature of ANFIS systems.

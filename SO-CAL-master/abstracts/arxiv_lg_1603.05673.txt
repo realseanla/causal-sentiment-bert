@@ -1,0 +1,4 @@
+Informatics around public health are increasingly shifting from the professional to the public spheres.
+In this work, we apply linguistic analytics to restaurant reviews, from Yelp, in order to automatically predict official health inspection reports.
+We consider two types of feature sets, i.e., keyword detection and topic model features, and use these in several classification methods.
+Our empirical analysis shows that these extracted features can predict public health inspection reports with over 90 percent accuracy using simple support vector machines.

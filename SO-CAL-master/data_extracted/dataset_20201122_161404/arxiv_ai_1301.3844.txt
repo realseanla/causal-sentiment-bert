@@ -1,7 +1,0 @@
-This paper describes a Bayesian method for learning causal networks using samples that were selected in a non-random manner from a population of interest.
-Examples of data obtained by non-random sampling include convenience samples and case-control data in which a fixed number of samples with and without some condition is collected; such data are not uncommon.
-The paper describes a method for combining data under selection with prior beliefs in order to derive a posterior probability for a model of the causal processes that are generating the data in the population of interest.
-The priors include beliefs about the nature of the non-random sampling procedure.
-Although exact application of the method would be computationally intractable for most realistic datasets, efficient special-case and approximation methods are discussed.
-Finally, the paper describes how to combine learning under selection with previous methods for learning from observational and experimental data that are obtained on random samples of the population of interest.
-The net result is a Bayesian methodology that supports causal modeling and discovery from a rich mixture of different types of data.

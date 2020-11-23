@@ -1,9 +1,0 @@
-We present a unified approach for learning the parameters of Sum-Product networks (SPNs).
-We prove that any complete and decomposable SPN is equivalent to a mixture of trees where each tree corresponds to a product of univariate distributions.
-Based on the mixture model perspective, we characterize the objective function when learning SPNs based on the maximum likelihood estimation (MLE) principle and show that the optimization problem can be formulated as a signomial program.
-Both the projected gradient descent (PGD) and the exponentiated gradient (EG) in this setting can be viewed as first order approximations of the signomial program after proper transformation of the objective function.
-Based on the signomial program formulation, we construct two parameter learning algorithms for SPNs by using sequential monomial approximations (SMA) and the concave-convex procedure (CCCP), respectively.
-The two proposed methods naturally admit multiplicative updates, hence effectively avoiding the projection operation.
-With the help of the a unified framework, we also show an intrinsic connection between CCCP and Expectation Maximization (EM), where EM turns out to be another relaxation of the signomial program.
-Extensive experiments on 20 data sets demonstrate the effectiveness and efficiency of the two proposed approaches for learning SPNs.
-We also show that the proposed methods can improve the performance of structure learning and yield state-of-the-art results.

@@ -1,0 +1,7 @@
+We consider regression under the "extremely small $n$ large $p$" condition.
+In particular, we focus on problems with so small sample sizes $n$ compared to the dimensionality $p$, even $n\to 1$, that predictors cannot be estimated without prior knowledge.
+Furthermore, we assume all prior knowledge that can be automatically extracted from databases has already been taken into account.
+This setup occurs in personalized medicine, for instance, when predicting treatment outcomes for an individual patient based on noisy high-dimensional genomics data.
+A remaining source of information is expert knowledge which has received relatively little attention in recent years.
+We formulate the inference problem of asking expert feedback on features on a budget, present experimental results for two setups: "small $n$" and "n=1 with similar data available", and derive conditions under which the elicitation strategy is optimal.
+Experiments on simulated experts, both on simulated and genomics data, demonstrate that the proposed strategy can drastically improve prediction accuracy.

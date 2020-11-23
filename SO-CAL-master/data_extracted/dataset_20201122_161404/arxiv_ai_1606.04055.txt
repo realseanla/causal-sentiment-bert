@@ -1,6 +1,0 @@
-The Bacterial Foraging Optimization (BFO) is one of the metaheuristics algorithms that most widely used to solve optimization problems.
-The BFO is imitated from the behavior of the foraging bacteria group such as Ecoli.
-The main aim of algorithm is to eliminate those bacteria that have weak foraging methods and maintaining those bacteria that have strong foraging methods.
-In this extent, each bacterium communicates with other bacteria by sending signals such that bacterium change the position in the next step if prior factors have been satisfied.
-In fact, the process of algorithm allows bacteria to follow up nutrients toward the optimal.
-In this paper, the BFO is used for the solutions of Quadratic Assignment Problem (QAP), and multi- objective QAP (mQAP) by using updating mechanisms including mutation, crossover, and a local search.

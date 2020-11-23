@@ -1,4 +1,0 @@
-Many formalisms combining ontology languages with uncertainty, usually in the form of probabilities, have been studied over the years.
-Most of these formalisms, however, assume that the probabilistic structure of the knowledge remains static over time.
-We present a general approach for extending ontology languages to handle time-evolving uncertainty represented by a dynamic Bayesian network.
-We show how reasoning in the original language and dynamic Bayesian inferences can be exploited for effective reasoning in our framework.

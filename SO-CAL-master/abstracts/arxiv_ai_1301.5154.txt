@@ -1,0 +1,5 @@
+The dynamics of belief and knowledge is one of the major components of any autonomous system that should be able to incorporate new pieces of information.
+In this paper, we argue that to apply rationality result of belief dynamics theory to various practical problems, it should be generalized in two respects: first of all, it should allow a certain part of belief to be declared as immutable; and second, the belief state need not be deductively closed.
+Such a generalization of belief dynamics, referred to as base dynamics, is presented, along with the concept of a generalized revision algorithm for Horn knowledge bases.
+We show that Horn knowledge base dynamics has interesting connection with kernel change and abduction.
+Finally, we also show that both variants are rational in the sense that they satisfy certain rationality postulates stemming from philosophical works on belief dynamics.

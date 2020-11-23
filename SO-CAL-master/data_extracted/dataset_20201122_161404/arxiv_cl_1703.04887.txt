@@ -1,8 +1,0 @@
-This paper proposes a new route for applying the generative adversarial nets (GANs) to NLP tasks (taking the neural machine translation as an instance) and the widespread perspective that GANs can't work well in the NLP area turns out to be unreasonable.
-In this work, we build a conditional sequence generative adversarial net which comprises of two adversarial sub models, a generative model (generator) which translates the source sentence into the target sentence as the traditional NMT models do and a discriminative model (discriminator) which discriminates the machine-translated target sentence from the human-translated sentence.
-From the perspective of Turing test, the proposed model is to generate the translation which is indistinguishable from the human-translated one.
-Experiments show that the proposed model achieves significant improvements than the traditional NMT model.
-In Chinese-English translation tasks, we obtain up to +2.0 BLEU points improvement.
-To the best of our knowledge, this is the first time that the quantitative results about the application of GANs in the traditional NLP task is reported.
-Meanwhile, we present detailed strategies for GAN training.
-In addition, We find that the discriminator of the proposed model shows great capability in data cleaning.

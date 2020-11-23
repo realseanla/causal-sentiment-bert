@@ -1,0 +1,10 @@
+This paper presents categorization of Croatian texts using Non-Standard Words (NSW) as features.
+Non-Standard Words are: numbers, dates, acronyms, abbreviations, currency, etc.
+NSWs in Croatian language are determined according to Croatian NSW taxonomy.
+For the purpose of this research, 390 text documents were collected and formed the SKIPEZ collection with 6 classes: official, literary, informative, popular, educational and scientific.
+Text categorization experiment was conducted on three different representations of the SKIPEZ collection: in the first representation, the frequencies of NSWs are used as features; in the second representation, the statistic measures of NSWs (variance, coefficient of variation, standard deviation, etc.)
+are used as features; while the third representation combines the first two feature sets.
+Naive Bayes, CN2, C4.5, kNN, Classification Trees and Random Forest algorithms were used in text categorization experiments.
+The best categorization results are achieved using the first feature set (NSW frequencies) with the categorization accuracy of 87 percent.
+This suggests that the NSWs should be considered as features in highly inflectional languages, such as Croatian.
+NSW based features reduce the dimensionality of the feature space without standard lemmatization procedures, and therefore the bag-of-NSWs should be considered for further Croatian texts categorization experiments.

@@ -1,5 +1,0 @@
-We consider learning from data of variable quality that may be obtained from different heterogeneous sources.
-Addressing learning from heterogeneous data in its full generality is a challenging problem.
-In this paper, we adopt instead a model in which data is observed through heterogeneous noise, where the noise level reflects the quality of the data source.
-We study how to use stochastic gradient algorithms to learn in this model.
-Our study is motivated by two concrete examples where this problem arises naturally: learning with local differential privacy based on data from multiple sources with different privacy requirements, and learning from data with labels of variable quality.

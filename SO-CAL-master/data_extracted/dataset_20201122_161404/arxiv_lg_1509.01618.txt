@@ -1,5 +1,0 @@
-Determinantal Point Processes (DPPs) provide probabilistic models over discrete sets of items that help model repulsion and diversity.
-Applicability of DPPs to large sets of data is, however, hindered by the expensive matrix operations involved, especially when sampling.
-We therefore propose a new efficient approximate two-stage sampling algorithm for discrete k-DPPs.
-As opposed to previous approximations, our algorithm aims at minimizing the variational distance to the original distribution.
-Experiments indicate that the resulting sampling algorithm works well on large data and yields more accurate samples than previous approaches.

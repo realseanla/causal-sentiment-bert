@@ -1,5 +1,0 @@
-We propose a system for automated essay grading using ontologies and textual entailment.
-The process of textual entailment is guided by hypotheses, which are extracted from a domain ontology.
-Textual entailment checks if the truth of the hypothesis follows from a given text.
-We enact textual entailment to compare students answer to a model answer obtained from ontology.
-We validated the solution against various essays written by students in the chemistry domain.

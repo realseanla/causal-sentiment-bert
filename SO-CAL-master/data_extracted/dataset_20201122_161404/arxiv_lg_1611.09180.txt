@@ -1,9 +1,0 @@
-Real estate appraisal, which is the process of estimating the price for real estate properties, is crucial for both buys and sellers as the basis for negotiation and transaction.
-Traditionally, the repeat sales model has been widely adopted to estimate real estate price.
-However, it depends the design and calculation of a complex economic related index, which is challenging to estimate accurately.
-Today, real estate brokers provide easy access to detailed online information on real estate properties to their clients.
-We are interested in estimating the real estate price from these large amounts of easily accessed data.
-In particular, we analyze the prediction power of online house pictures, which is one of the key factors for online users to make a potential visiting decision.
-The development of robust computer vision algorithms makes the analysis of visual content possible.
-In this work, we employ a Recurrent Neural Network (RNN) to predict real estate price using the state-of-the-art visual features.
-The experimental results indicate that our model outperforms several of other state-of-the-art baseline algorithms in terms of both mean absolute error (MAE) and mean absolute percentage error (MAPE).

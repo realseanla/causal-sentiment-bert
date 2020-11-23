@@ -1,0 +1,4 @@
+We study generative nets which can control and modify observations, after being trained on real-life datasets.
+In order to zoom-in on an object, some spatial, color and other attributes are learned by classifiers and attention nets.
+Plugging these symmetry statistics in the generative layers of auto-classifiers-encoders (ACE) appears to be the most direct way to simultaneously: i) generate new observations with arbitrary attributes, from a given class , ii) describe the true "style", i.e., the low-dimensional latent manifold encoding the "essence" of the data, after superfluous attributes are factored out, and iii) organically control, i.e., move or modify objects within given observations.
+We demonstrate the sharp improvement of the generative qualities of shallow ACE with spatial symmetry statistics, on the distorted MNIST and CIFAR10 datasets.

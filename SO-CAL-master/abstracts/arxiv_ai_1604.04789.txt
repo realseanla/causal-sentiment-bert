@@ -1,0 +1,6 @@
+Computational Intelligence techniques are today widely used to solve complex engineering problems.
+Bio-inspired algorithms like Genetic Algorithms and Fuzzy Inference Systems are nowadays adopted as hybrids techniques in the commercial and industrial environment.
+In this paper, we present an interesting application of the FUZZY-GA paradigm to Smart Grids.
+In particular, this study focuses on the possibility of tuning a Fuzzy Rule Base trying to discover, by means of a GA, a minimal fuzzy rules set in a Fuzzy Logic Controller (FLC) adopted to perform decision making for the power flow management task in a microgrid.
+The RB optimization is obtained through Hierarchical Genetic Algorithm, based on an encoding scheme inspired by Nature, applied to the optimization of the FIS parameters.
+Tests show how the proposed controller scheme is effective in maximizing the economic return when dealing with the problem of power flows management in a microgrid, equipped with an energy storage system.

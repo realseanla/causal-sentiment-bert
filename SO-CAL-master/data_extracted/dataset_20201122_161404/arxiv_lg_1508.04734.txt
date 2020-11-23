@@ -1,8 +1,0 @@
-Gear drives are one of the most widely used transmission system in many machinery.
-Sound signals of a rotating machine contain the dynamic information about its health conditions.
-Not much information available in the literature reporting suitability of sound signals for fault diagnosis applications.
-Maximum numbers of literature are based on FFT (Fast Fourier Transform) analysis and have its own limitations with non-stationary signals like the ones from gears.
-In this paper, attempt has been made in using sound signals acquired from gears in good and simulated faulty conditions for the purpose of fault diagnosis through a machine learning approach.
-The descriptive statistical features were extracted from the acquired sound signals and the predominant features were selected using J48 decision tree technique.
-The selected features were then used for classification using Large Margin K-nearest neighbor approach.
-The paper also discusses the effect of various parameters on classification accuracy.

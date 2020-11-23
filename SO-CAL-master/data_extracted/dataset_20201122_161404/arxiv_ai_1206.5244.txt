@@ -1,7 +1,0 @@
-Choquet expected utility (CEU) is one of the most sophisticated decision criteria used in decision theory under uncertainty.
-It provides a generalisation of expected utility enhancing both descriptive and prescriptive possibilities.
-In this paper, we investigate the use of CEU for path-planning under uncertainty with a special focus on robust solutions.
-We first recall the main features of the CEU model and introduce some examples showing its descriptive potential.
-Then we focus on the search for Choquet-optimal paths in multivalued implicit graphs where costs depend on different scenarios.
-After discussing complexity issues, we propose two different heuristic search algorithms to solve the problem.
-Finally, numerical experiments are reported, showing the practical efficiency of the proposed algorithms.

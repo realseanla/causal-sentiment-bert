@@ -1,5 +1,0 @@
-This paper addresses the task of user gender classification in social media, with an application to Twitter.
-The approach automatically predicts gender by leveraging observable information such as the tweet behavior, linguistic content of the user's Twitter feed and the celebrities followed by the user.
-This paper first evaluates linguistic content based features using LIWC dictionary and popular neighborhood features using Wikipedia and Freebase.
-Then augments both features which yielded a significant increase in the accuracy for gender prediction.
-Results show that rich linguistic features combined with popular neighborhood prove valuables and promising for additional user classification needs.

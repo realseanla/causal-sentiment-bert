@@ -1,0 +1,6 @@
+The progress in imaging techniques have allowed the study of various aspect of cellular mechanisms.
+To isolate individual cells in live imaging data, we introduce an elegant image segmentation framework that effectively extracts cell boundaries, even in the presence of poor edge details.
+Our approach works in two stages.
+First, we estimate pixel interior/border/exterior class probabilities using random ferns.
+Then, we use an energy minimization framework to compute boundaries whose localization is compliant with the pixel class probabilities.
+We validate our approach on a manually annotated dataset.

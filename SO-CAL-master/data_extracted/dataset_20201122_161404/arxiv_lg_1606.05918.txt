@@ -1,5 +1,0 @@
-Slack and margin rescaling are variants of the structured output SVM.
-They define convex surrogates to task specific loss functions, which, when specialized to non-additive loss functions for multi-label problems, yield extensions to increasing set functions.
-We demonstrate in this paper that we may use these concepts to define polynomial time convex extensions of arbitrary supermodular functions.
-We further show that slack and margin rescaling can be interpreted as dominating convex extensions over multiplicative and additive families, and that margin rescaling is strictly dominated by slack rescaling.
-However, we also demonstrate that, while the function value and gradient for margin rescaling can be computed in polynomial time, the same for slack rescaling corresponds to a non-supermodular maximization problem.

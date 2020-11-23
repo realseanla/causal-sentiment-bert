@@ -1,4 +1,0 @@
-This paper is devoted to expressiveness of hypergraphs for which uncertainty propagation by local computations via Shenoy/Shafer method applies.
-It is demonstrated that for this propagation method for a given joint belief distribution no valuation of hyperedges of a hypergraph may provide with simpler hypergraph structure than valuation of hyperedges by conditional distributions.
-This has vital implication that methods recovering belief networks from data have no better alternative for finding the simplest hypergraph structure for belief propagation.
-A method for recovery tree-structured belief networks has been developed and specialized for Dempster-Shafer belief functions

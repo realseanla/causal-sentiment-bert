@@ -1,4 +1,0 @@
-This work, inspired by the idea of "Computing with Words and Perceptions" proposed by Zadeh in 2001, focuses on how to transform measurements into perceptions for the problem of map building by Autonomous Mobile Robots.
-We propose to model the perceptions obtained from sonar-sensors as two grid maps: one for obstacles and another for empty spaces.
-The rules used to build and integrate these maps are expressed by linguistic descriptions and modeled by fuzzy rules.
-The main difference of this approach from other studies reported in the literature is that the method presented here is based on the hypothesis that the concepts "occupied" and "empty" are antonyms rather than complementary (as it happens in probabilistic approaches), or independent (as it happens in the previous fuzzy models).

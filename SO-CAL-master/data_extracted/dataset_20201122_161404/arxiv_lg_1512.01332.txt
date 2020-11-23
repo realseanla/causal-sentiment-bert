@@ -1,6 +1,0 @@
-In this paper reinforcement learning with binary vector actions was investigated.
-We suggest an effective architecture of the neural networks for approximating an action-value function with binary vector actions.
-The proposed architecture approximates the action-value function by a linear function with respect to the action vector, but is still non-linear with respect to the state input.
-We show that this approximation method enables the efficient calculation of greedy action selection and softmax action selection.
-Using this architecture, we suggest an online algorithm based on Q-learning.
-The empirical results in the grid world and the blocker task suggest that our approximation architecture would be effective for the RL problems with large discrete action sets.

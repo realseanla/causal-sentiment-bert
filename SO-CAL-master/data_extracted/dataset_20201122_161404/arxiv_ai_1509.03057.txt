@@ -1,7 +1,0 @@
-We re-examine a practical aspect of combinatorial fuzzy problems of various types, including search, counting, optimization, and decision problems.
-We are focused only on those fuzzy problems that take series of fuzzy input objects and produce fuzzy values.
-To solve such problems efficiently, we design fast fuzzy algorithms, which are modeled by polynomial-time deterministic fuzzy Turing machines equipped with read-only auxiliary tapes and write-only output tapes and also modeled by polynomial-size fuzzy circuits composed of fuzzy gates.
-We also introduce fuzzy proof verification systems to model the fuzzification of nondeterminism.
-Those models help us identify four complexity classes: Fuzzy-FPA of fuzzy functions, Fuzzy-PA and Fuzzy-NPA of fuzzy decision problems, and Fuzzy-NPAO of fuzzy optimization problems.
-Based on a relative approximation scheme targeting fuzzy membership degree, we formulate two notions of "reducibility" in order to compare the computational complexity of two fuzzy problems.
-These reducibility notions make it possible to locate the most difficult fuzzy problems in Fuzzy-NPA and in Fuzzy-NPAO.

@@ -1,2 +1,0 @@
-The permutahedron is the convex polytope with vertex set consisting of the vectors $(\pi(1),\dots, \pi(n))$ for all permutations (bijections) $\pi$ over $\{1,\dots, n\}$.
-We study a bandit game in which, at each step $t$, an adversary chooses a hidden weight weight vector $s_t$, a player chooses a vertex $\pi_t$ of the permutahedron and suffers an observed loss of $\sum_{i=1}^n \pi(i) s_t(i)$.

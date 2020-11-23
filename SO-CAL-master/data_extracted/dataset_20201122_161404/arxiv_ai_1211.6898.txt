@@ -1,4 +1,0 @@
-We consider infinite-horizon stationary $\gamma$-discounted Markov Decision Processes, for which it is known that there exists a stationary optimal policy.
-Using Value and Policy Iteration with some error $\epsilon$ at each iteration, it is well-known that one can compute stationary policies that are $\frac{2\gamma}{(1-\gamma)^2}\epsilon$-optimal.
-After arguing that this guarantee is tight, we develop variations of Value and Policy Iteration for computing non-stationary policies that can be up to $\frac{2\gamma}{1-\gamma}\epsilon$-optimal, which constitutes a significant improvement in the usual situation when $\gamma$ is close to 1.
-Surprisingly, this shows that the problem of "computing near-optimal non-stationary policies" is much simpler than that of "computing near-optimal stationary policies".

@@ -1,7 +1,0 @@
-In this paper, an improved multimodal optimization (MMO) algorithm,called LSEPSO,has been proposed.
-LSEPSO combined Electrostatic Particle Swarm Optimization (EPSO) algorithm and a local search method and then made some modification on them.
-It has been shown to improve global and local optima finding ability of the algorithm.
-This algorithm useda modified local search to improve particle's personal best, which used n-nearest-neighbour instead of nearest-neighbour.
-Then, by creating n new points among each particle and n nearest particles, it tried to find a point which could be the alternative of particle's personal best.
-This method prevented particle's attenuation and following a specific particle by its neighbours.
-The performed tests on a number of benchmark functions clearly demonstrated that the improved algorithm is able to solve MMO problems and outperform other tested algorithms in this article.

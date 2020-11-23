@@ -1,4 +1,0 @@
-Bootstrapping is a useful technique for estimating the uncertainty of a predictor, for example, confidence intervals for prediction.
-It is typically used on small to moderate sized datasets, due to its high computation cost.
-This work describes a highly scalable online bootstrapping strategy, implemented inside Vowpal Wabbit, that is several times faster than traditional strategies.
-Our experiments indicate that, in addition to providing a black box-like method for estimating uncertainty, our implementation of online bootstrapping may also help to train models with better prediction performance due to model averaging.

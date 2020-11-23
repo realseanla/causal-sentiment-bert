@@ -1,4 +1,0 @@
-We give algorithms with provable guarantees that learn a class of deep nets in the generative model view popularized by Hinton and others.
-Our generative model is an $n$ node multilayer neural net that has degree at most $n^{\gamma}$ for some $\gamma &lt;1$ and each edge has a random edge weight in $[-1,1]$.
-Our algorithm learns {\em almost all} networks in this class with polynomial running time.
-The sample complexity is quadratic or cubic depending upon the details of the model.

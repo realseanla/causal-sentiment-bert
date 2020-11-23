@@ -1,3 +1,0 @@
-This paper proposes a novel approach for relation extraction from free text which is trained to jointly use information from the text and from existing knowledge.
-Our model is based on two scoring functions that operate by learning low-dimensional embeddings of words and of entities and relationships from a knowledge base.
-We empirically show on New York Times articles aligned with Freebase relations that our approach is able to efficiently use the extra information provided by a large subset of Freebase data (4M entities, 23k relationships) to improve over existing methods that rely on text features alone.

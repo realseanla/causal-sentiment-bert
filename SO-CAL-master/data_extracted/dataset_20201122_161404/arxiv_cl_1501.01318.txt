@@ -1,6 +1,0 @@
-Text categorization is the process of grouping documents into categories based on their contents.
-This process is important to make information retrieval easier, and it became more important due to the huge textual information available online.
-The main problem in text categorization is how to improve the classification accuracy.
-Although Arabic text categorization is a new promising field, there are a few researches in this field.
-This paper proposes a new method for Arabic text categorization using vector evaluation.
-The proposed method uses a categorized Arabic documents corpus, and then the weights of the tested document's words are calculated to determine the document keywords which will be compared with the keywords of the corpus categorizes to determine the tested document's best category.

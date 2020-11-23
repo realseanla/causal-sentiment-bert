@@ -1,5 +1,0 @@
-This paper introduces an SLD-resolution technique based on deep learning.
-This technique enables neural networks to learn from old and successful resolution processes and to use learnt experiences to guide new resolution processes.
-An implementation of this technique is named SLDR-DL.
-It includes a Prolog library of deep feedforward neural networks and some essential functions of resolution.
-In the SLDR-DL framework, users can define logical rules in the form of definite clauses and teach neural networks to use the rules in reasoning processes.

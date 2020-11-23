@@ -1,6 +1,0 @@
-A Deep Belief Network (DBN) requires large, multiple hidden layers with high number of hidden units to learn good features from the raw pixels of large images.
-This implies more training time as well as computational complexity.
-By integrating DBN with Discrete Wavelet Transform (DWT), both training time and computational complexity can be reduced.
-The low resolution images obtained after application of DWT are used to train multiple DBNs.
-The results obtained from these DBNs are combined using a weighted voting algorithm.
-The performance of this method is found to be competent and faster in comparison with that of traditional DBNs.

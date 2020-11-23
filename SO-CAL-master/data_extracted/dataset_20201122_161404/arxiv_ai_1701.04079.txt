@@ -1,5 +1,0 @@
-Providing Reinforcement Learning agents with expert advice can dramatically improve various aspects of learning.
-Prior work has developed teaching protocols that enable agents to learn efficiently in complex environments; many of these methods tailor the teacher's guidance to agents with a particular representation or underlying learning scheme, offering effective but specialized teaching procedures.
-In this work, we explore protocol programs, an agent-agnostic schema for Human-in-the-Loop Reinforcement Learning.
-Our goal is to incorporate the beneficial properties of a human teacher into Reinforcement Learning without making strong assumptions about the inner workings of the agent.
-We show how to represent existing approaches such as action pruning, reward shaping, and training in simulation as special cases of our schema and conduct preliminary experiments on simple domains.

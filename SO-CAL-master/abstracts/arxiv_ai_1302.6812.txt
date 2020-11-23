@@ -1,0 +1,4 @@
+This paper discusses the problem of abstracting conditional probabilistic actions.
+We identify two distinct types of abstraction: intra-action abstraction and inter-action abstraction.
+We define what it means for the abstraction of an action to be correct and then derive two methods of intra-action abstraction and two methods of inter-action abstraction which are correct according to this criterion.
+We illustrate the developed techniques by applying them to actions described with the temporal action representation used in the DRIPS decision-theoretic planner and we describe how the planner uses abstraction to reduce the complexity of planning.

@@ -1,7 +1,0 @@
-Many efforts have been dedicated to identifying restrictions on ontologies expressed as tuple-generating dependencies (tgds), a.k.a.
-existential rules, that lead to the decidability for the problem of answering ontology-mediated queries (OMQs).
-This has given rise to three families of formalisms: guarded, non-recursive, and sticky sets of tgds.
-In this work, we study the containment problem for OMQs expressed in such formalisms, which is a key ingredient for solving static analysis tasks associated with them.
-Our main contribution is the development of specially tailored techniques for OMQ containment under the classes of tgds stated above.
-This enables us to obtain sharp complexity bounds for the problems at hand.
-We also apply our techniques to pinpoint the complexity of problems associated with two emerging applications of OMQ containment: distribution over components and UCQ rewritability of OMQs.

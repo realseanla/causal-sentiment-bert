@@ -1,0 +1,8 @@
+Support vector machines (SVM) can classify data sets along highly non-linear decision boundaries because of the kernel-trick.
+This expressiveness comes at a price: During test-time, the SVM classifier needs to compute the kernel inner-product between a test sample and all support vectors.
+With large training data sets, the time required for this computation can be substantial.
+In this paper, we introduce a post-processing algorithm, which compresses the learned SVM model by reducing and optimizing support vectors.
+We evaluate our algorithm on several medium-scaled real-world data sets, demonstrating that it maintains high test accuracy while reducing the test-time evaluation cost by several orders of magnitude---in some cases from hours to seconds.
+It is fair to say that most of the work in this paper was previously been invented by Burges and Sch\"olkopf almost 20 years ago.
+For most of the time during which we conducted this research, we were unaware of this prior work.
+However, in the past two decades, computing power has increased drastically, and we can therefore provide empirical insights that were not possible in their original paper.

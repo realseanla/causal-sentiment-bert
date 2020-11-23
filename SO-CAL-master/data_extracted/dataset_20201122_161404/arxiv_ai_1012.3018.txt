@@ -1,4 +1,0 @@
-Temporal Logic Model Checking is a verification method in which we describe a system, the model, and then we verify whether some properties, expressed in a temporal logic formula, hold in the system.
-It has many industrial applications.
-In order to improve performance, some tools allow preprocessing of the model, verifying on-line a set of properties reusing the same compiled model; we prove that the complexity of the Model Checking problem, without any preprocessing or preprocessing the model or the formula in a polynomial data structure, is the same.
-As a result preprocessing does not always exponentially improve performance.

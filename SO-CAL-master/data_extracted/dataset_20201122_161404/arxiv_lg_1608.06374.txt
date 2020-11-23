@@ -1,6 +1,0 @@
-This paper emphasizes the significance to jointly exploit the problem structure and the parameter structure, in the context of deep modeling.
-As a specific and interesting example, we describe the deep double sparsity encoder (DDSE), which is inspired by the double sparsity model for dictionary learning.
-DDSE simultaneously sparsities the output features and the learned model parameters, under one unified framework.
-In addition to its intuitive model interpretation, DDSE also possesses compact model size and low complexity.
-Extensive simulations compare DDSE with several carefully-designed baselines, and verify the consistently superior performance of DDSE.
-We further apply DDSE to the novel application domain of brain encoding, with promising preliminary results achieved.

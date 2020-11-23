@@ -1,0 +1,9 @@
+Stochastic algorithms are efficient approaches to solving machine learning and optimization problems.
+In this paper, we propose a general framework called Splash for parallelizing stochastic algorithms on multi-node distributed systems.
+Splash consists of a programming interface and an execution engine.
+Using the programming interface, the user develops sequential stochastic algorithms without concerning any detail about distributed computing.
+The algorithm is then automatically parallelized by a communication-efficient execution engine.
+We provide theoretical justifications on the optimal rate of convergence for parallelizing stochastic gradient descent.
+The real-data experiments with stochastic gradient descent, collapsed Gibbs sampling, stochastic variational inference and stochastic collaborative filtering verify that Splash yields order-of-magnitude speedup over single-thread stochastic algorithms and over parallelized batch algorithms.
+Besides its efficiency, Splash provides a rich collection of interfaces for algorithm implementation.
+It is built on Apache Spark and is closely integrated with the Spark ecosystem.

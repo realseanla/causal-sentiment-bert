@@ -1,8 +1,0 @@
-Multi-view high-dimensional data become increasingly popular in the big data era.
-Feature selection is a useful technique for alleviating the curse of dimensionality in multi-view learning.
-In this paper, we study unsupervised feature selection for multi-view data, as class labels are usually expensive to obtain.
-Traditional feature selection methods are mostly designed for single-view data and cannot fully exploit the rich information from multi-view data.
-Existing multi-view feature selection methods are usually based on noisy cluster labels which might not preserve sufficient information from multi-view data.
-To better utilize multi-view information, we propose a method, CDMA-FS, to select features for each view by performing alignment on a cross diffused matrix.
-We formulate it as a constrained optimization problem and solve it using Quasi-Newton based method.
-Experiments results on four real-world datasets show that the proposed method is more effective than the state-of-the-art methods in multi-view setting.

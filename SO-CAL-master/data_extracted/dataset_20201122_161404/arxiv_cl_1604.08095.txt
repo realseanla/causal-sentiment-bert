@@ -1,3 +1,0 @@
-Previous accent classification research focused mainly on detecting accents with pure acoustic information without recognizing accented speech.
-This work combines phonetic knowledge such as vowels with acoustic information to build Guassian Mixture Model (GMM) classifier with Perceptual Linear Predictive (PLP) features, optimized by Hetroscedastic Linear Discriminant Analysis (HLDA).
-With input about 20-second accented speech, this system achieves classification rate of 51 percent on a 7-way classification system focusing on the major types of accents in English, which is competitive to the state-of-the-art results in this field.

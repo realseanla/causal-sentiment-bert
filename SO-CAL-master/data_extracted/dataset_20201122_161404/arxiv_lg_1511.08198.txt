@@ -1,5 +1,0 @@
-In this paper, we show how to create paraphrastic sentence embeddings using the Paraphrase Database (Ganitkevitch et al., 2013), an extensive semantic resource with millions of phrase pairs.
-We consider several compositional architectures and evaluate them on 24 textual similarity datasets encompassing domains such as news, tweets, web forums, news headlines, machine translation output, glosses, and image and video captions.
-We present the interesting result that simple compositional architectures based on updated vector averaging vastly outperform long short-term memory (LSTM) recurrent neural networks and that these simpler architectures allow us to learn models with superior generalization.
-Our models are efficient, very easy to use, and competitive with task-tuned systems.
-We make them available to the research community with the hope that they can serve as the new baseline for further work on universal paraphrastic sentence embeddings.

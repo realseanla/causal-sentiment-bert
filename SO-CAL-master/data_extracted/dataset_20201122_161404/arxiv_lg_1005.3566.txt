@@ -1,6 +1,0 @@
-We consider the question of the stability of evolutionary algorithms to gradual changes, or drift, in the target concept.
-We define an algorithm to be resistant to drift if, for some inverse polynomial drift rate in the target function, it converges to accuracy 1 -- \epsilon , with polynomial resources, and then stays within that accuracy indefinitely, except with probability \epsilon , at any one time.
-We show that every evolution algorithm, in the sense of Valiant (2007; 2009), can be converted using the Correlational Query technique of Feldman (2008), into such a drift resistant algorithm.
-For certain evolutionary algorithms, such as for Boolean conjunctions, we give bounds on the rates of drift that they can resist.
-We develop some new evolution algorithms that are resistant to significant drift.
-In particular, we give an algorithm for evolving linear separators over the spherically symmetric distribution that is resistant to a drift rate of O(\epsilon /n), and another algorithm over the more general product normal distributions that resists a smaller drift rate.

@@ -1,0 +1,9 @@
+Self-paced learning (SPL) mimics the cognitive mechanism of humans and animals that gradually learns from easy to hard samples.
+One key issue in SPL is to obtain better weighting strategy that is determined by the minimizer functions.
+Existing methods usually pursue this by artificially designing the explicit form of regularizers.
+In this paper, we focus on the minimizer functions, and study a group of new regularizers, named self-paced implicit regularizers that are derived from convex conjugacy.
+Based on the multiplicative form of half-quadratic optimization, convex and non-convex functions induced minimizer functions for the implicit regularizers are developed.
+And a general framework (named SPL-IR) for SPL is developed accordingly.
+We further analyze the relation between SPLIR and half-quadratic optimization.
+We implement SPL-IR to matrix factorization and multi-view clustering.
+Experimental results on both synthetic and real-world databases corroborate our ideas and demonstrate the effectiveness of implicit regularizers.

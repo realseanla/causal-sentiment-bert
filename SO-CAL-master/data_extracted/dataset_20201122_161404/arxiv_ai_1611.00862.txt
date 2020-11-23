@@ -1,4 +1,0 @@
-In reinforcement learning, the standard criterion to evaluate policies in a state is the expectation of (discounted) sum of rewards.
-However, this criterion may not always be suitable, we consider an alternative criterion based on the notion of quantiles.
-In the case of episodic reinforcement learning problems, we propose an algorithm based on stochastic approximation with two timescales.
-We evaluate our proposition on a simple model of the TV show, Who wants to be a millionaire.

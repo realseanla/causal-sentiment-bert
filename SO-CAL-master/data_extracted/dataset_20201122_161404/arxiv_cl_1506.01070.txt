@@ -1,3 +1,0 @@
-Learning a distinct representation for each sense of an ambiguous word could lead to more powerful and fine-grained models of vector-space representations.
-Yet while `multi-sense' methods have been proposed and tested on artificial word-similarity tasks, we don't know if they improve real natural language understanding tasks.
-In this paper we introduce a pipelined architecture for incorporating multi-sense embeddings into language understanding, and test the performance of a state-of-the-art multi-sense embedding model (based on Chinese Restaurant Processes).

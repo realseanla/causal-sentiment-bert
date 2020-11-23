@@ -1,0 +1,8 @@
+We study the extent to which we can infer users' geographical locations from social media.
+Location inference from social media can benefit many applications, such as disaster management, targeted advertising, and news content tailoring.
+In recent years, a number of algorithms have been proposed for identifying user locations on social media platforms such as Twitter and Facebook from message contents, friend networks, and interactions between users.
+In this paper, we propose a novel probabilistic model based on factor graphs for location inference that offers several unique advantages for this task.
+First, the model generalizes previous methods by incorporating content, network, and deep features learned from social context.
+The model is also flexible enough to support both supervised learning and semi-supervised learning.
+Second, we explore several learning algorithms for the proposed model, and present a Two-chain Metropolis-Hastings (MH+) algorithm, which improves the inference accuracy.
+Third, we validate the proposed model on three different genres of data - Twitter, Weibo, and Facebook - and demonstrate that the proposed model can substantially improve the inference accuracy (+3.3-18.5 percent by F1-score) over that of several state-of-the-art methods.

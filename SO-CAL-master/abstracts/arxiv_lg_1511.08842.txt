@@ -1,0 +1,8 @@
+The sparsity of natural signals and images in a transform domain or dictionary has been extensively exploited in several applications such as compression, denoising and inverse problems.
+More recently, data-driven adaptation of synthesis dictionaries has shown promise in many applications compared to fixed or analytical dictionary models.
+However, dictionary learning problems are typically non-convex and NP-hard, and the usual alternating minimization approaches for these problems are often computationally expensive, with the computations dominated by the NP-hard synthesis sparse coding step.
+In this work, we investigate an efficient method for $\ell_{0}$ "norm"-based dictionary learning by first approximating the training data set with a sum of sparse rank-one matrices and then using a block coordinate descent approach to estimate the unknowns.
+The proposed block coordinate descent algorithm involves efficient closed-form solutions.
+In particular, the sparse coding step involves a simple form of thresholding.
+We provide a convergence analysis for the proposed block coordinate descent approach.
+Our numerical experiments show the promising performance and significant speed-ups provided by our method over the classical K-SVD scheme in sparse signal representation and image denoising.

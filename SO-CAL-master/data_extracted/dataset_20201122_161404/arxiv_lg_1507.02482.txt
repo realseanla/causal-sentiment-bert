@@ -1,8 +1,0 @@
-Linear regression is one of the most prevalent techniques in data analysis.
-Given a collection of samples composed of features $x$ and a label $y$, linear regression is used to find the best prediction of the label as a linear combination of the features.
-However, it is also common to use linear regression for its explanatory capabilities rather than label prediction.
-Ordinary Least Squares (OLS) is often used in statistics to establish a correlation between an attribute (e.g.
-gender) and a label (e.g.
-income) in the presence of other features.
-OLS uses linear regression in order to estimate the correlation between the label and a feature $x_j$ on a given dataset; and then, under the assumption of a certain generative model for the data, OLS outputs an interval that is likely to contain the correlation between $y$ and $x_j$ in the underlying distribution (a confidence interval).
-When this interval does not intersect the origin, we can reject the null hypothesis as it is likely that $x_j$ has a non-zero correlation with $y$.

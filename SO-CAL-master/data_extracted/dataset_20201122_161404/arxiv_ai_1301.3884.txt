@@ -1,2 +1,0 @@
-Large sparse sets of binary transaction data with millions of records and thousands of attributes occur in various domains: customers purchasing products, users visiting web pages, and documents containing words are just three typical examples.
-Real-time query selectivity estimation (the problem of estimating the number of rows in the data satisfying a given predicate) is an important practical problem for such databases.

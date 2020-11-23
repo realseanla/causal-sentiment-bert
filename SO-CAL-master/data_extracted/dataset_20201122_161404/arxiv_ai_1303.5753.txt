@@ -1,4 +1,0 @@
-In probabilistic logic entailments, even moderate size problems can yield linear constraint systems with so many variables that exact methods are impractical.
-This difficulty can be remedied in many cases of interest by introducing a three valued logic (true, false, and "don't care").
-The three-valued approach allows the construction of "compressed" constraint systems which have the same solution sets as their two-valued counterparts, but which may involve dramatically fewer variables.
-Techniques to calculate point estimates for the posterior probabilities of entailed sentences are discussed.

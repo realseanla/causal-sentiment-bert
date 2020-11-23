@@ -1,0 +1,6 @@
+Imbalanced-learn is an open-source python toolbox aiming at providing a wide range of methods to cope with the problem of imbalanced dataset frequently encountered in machine learning and pattern recognition.
+The implemented state-of-the-art methods can be categorized into 4 groups: (i) under-sampling, (ii) over-sampling, (iii) combination of over- and under-sampling, and (iv) ensemble learning methods.
+The proposed toolbox only depends on numpy, scipy, and scikit-learn and is distributed under MIT license.
+Furthermore, it is fully compatible with scikit-learn and is part of the scikit-learn-contrib supported project.
+Documentation, unit tests as well as integration tests are provided to ease usage and contribution.
+The toolbox is publicly available in GitHub:

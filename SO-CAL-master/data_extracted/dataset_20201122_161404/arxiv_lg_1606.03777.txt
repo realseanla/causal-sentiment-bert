@@ -1,6 +1,0 @@
-Belief tracking is a core component of modern spoken dialogue system pipelines.
-However, most current approaches would have difficulty scaling to larger, more complex dialogue domains.
-This is due to their dependency on either: a) Spoken Language Understanding models that require large amounts of annotated training data; or b) hand-crafted semantic lexicons that capture the lexical variation in users' language.
-We propose a novel Neural Belief Tracking (NBT) framework which aims to overcome these problems by building on recent advances in semantic representation learning.
-The NBT models reason over continuous distributed representations of words, utterances and dialogue context.
-Our evaluation on two datasets shows that this approach overcomes both limitations, matching the performance of state-of-the-art models that have greater resource requirements.

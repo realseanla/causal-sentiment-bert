@@ -1,0 +1,3 @@
+We introduce the first goal-driven training for visual question answering and dialog agents.
+Specifically, we pose a cooperative 'image guessing' game between two agents -- Qbot and Abot -- who communicate in natural language dialog so that Qbot can select an unseen image from a lineup of images.
+We use deep reinforcement learning (RL) to learn the policies of these agents end-to-end -- from pixels to multi-agent multi-round dialog to game reward.

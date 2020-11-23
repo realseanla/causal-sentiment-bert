@@ -1,0 +1,7 @@
+Recurrent Neural Network (RNN) has been widely applied for sequence modeling.
+In RNN, the hidden states at current step are full connected to those at previous step, thus the influence from less related features at previous step may potentially decrease model's learning ability.
+We propose a simple technique called parallel cells (PCs) to enhance the learning ability of Recurrent Neural Network (RNN).
+In each layer, we run multiple small RNN cells rather than one single large cell.
+In this paper, we evaluate PCs on 2 tasks.
+On language modeling task on PTB (Penn Tree Bank), our model outperforms state of art models by decreasing perplexity from 78.6 to 75.3.
+On Chinese-English translation task, our model increases BLEU score for 0.39 points than baseline model.

@@ -1,7 +1,0 @@
-Finding experts for a given problem is recognized as a difficult task.
-Even when a taxonomy of subject expertise exists, and is associated with a group of experts, it can be hard to exploit by users who have not internalized the taxonomy.
-Here we present a method for both attaching experts to a domain ontology, and hiding this fact from the end user looking for an expert.
-By linking Wikipedia to this same pivot ontology, we describe how a user can browse Wikipedia, as they normally do to search for information, and use this browsing behavior to find experts.
-Experts are characterized by their textual productions (webpages, publications, reports), and these textual productions are attached to concepts in the pivot ontology.
-When the user finds the Wikipedia page characterizing their need, a list of experts is displayed.
-In this way we transform Wikipedia into a search engine for experts.

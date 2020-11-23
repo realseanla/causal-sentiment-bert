@@ -1,0 +1,4 @@
+Over the past few years, artificial neural networks have seen a dramatic resurgence in popularity as a tool for solving hard learning problems in AI applications.
+While it is widely known that neural networks are computationally hard to train in the worst case, in practice, neural networks are trained efficiently using SGD methods and a variety of techniques which accelerate the learning process.
+One mechanism which has been suggested to explain this is overspecification, which is the training of a network larger than what would be needed with unbounded computational power.
+Empirically, despite worst-case NP-hardness results, large networks tend to achieve a smaller error over the training set.

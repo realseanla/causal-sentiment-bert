@@ -1,3 +1,0 @@
-We introduce a novel type of artificial neural network structure and training procedure that results in networks that are provably, quantitatively more robust to adversarial samples than classical, end-to-end trained classifiers.
-The main idea of our approach is to force the network to make predictions on what the given instance of the class under consideration would look like and subsequently test those predictions.
-By forcing the network to redraw the relevant parts of the image and subsequently comparing this new image to the original, we are having the network give a 'proof' of the presence of the object.

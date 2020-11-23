@@ -1,5 +1,0 @@
-Disentangled distributed representations of data are desirable for machine learning, since they are more expressive and can generalize from fewer examples.
-However, for complex data, the distributed representations of multiple objects present in the same input can interfere and lead to ambiguities, which is commonly referred to as the binding problem.
-We argue for the importance of the binding problem to the field of representation learning, and develop a probabilistic framework that explicitly models inputs as a composition of multiple objects.
-We propose an unsupervised algorithm that uses denoising autoencoders to dynamically bind features together in multi-object inputs through an Expectation-Maximization-like clustering process.
-The effectiveness of this method is demonstrated on artificially generated datasets of binary images, showing that it can even generalize to bind together new objects never seen by the autoencoder during training.

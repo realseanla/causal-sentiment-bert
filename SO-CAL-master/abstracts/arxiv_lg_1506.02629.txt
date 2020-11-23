@@ -1,0 +1,4 @@
+Overfitting is the bane of data analysts, even when data are plentiful.
+Formal approaches to understanding this problem focus on statistical inference and generalization of individual analysis procedures.
+Yet the practice of data analysis is an inherently interactive and adaptive process: new analyses and hypotheses are proposed after seeing the results of previous ones, parameters are tuned on the basis of obtained results, and datasets are shared and reused.
+An investigation of this gap has recently been initiated by the authors in (Dwork et al., 2014), where we focused on the problem of estimating expectations of adaptively chosen functions.

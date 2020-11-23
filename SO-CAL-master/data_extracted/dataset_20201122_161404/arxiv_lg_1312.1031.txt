@@ -1,7 +1,0 @@
-In \citep{Yangnips13}, the author presented distributed stochastic dual coordinate ascent (DisDCA) algorithms for solving large-scale regularized loss minimization.
-Extraordinary performances have been observed and reported for the well-motivated updates, as referred to the practical updates, compared to the naive updates.
-However, no serious analysis has been provided to understand the updates and therefore the convergence rates.
-In the paper, we bridge the gap by providing a theoretical analysis of the convergence rates of the practical DisDCA algorithm.
-Our analysis helped by empirical studies has shown that it could yield an exponential speed-up in the convergence by increasing the number of dual updates at each iteration.
-This result justifies the superior performances of the practical DisDCA as compared to the naive variant.
-As a byproduct, our analysis also reveals the convergence behavior of the one-communication DisDCA.

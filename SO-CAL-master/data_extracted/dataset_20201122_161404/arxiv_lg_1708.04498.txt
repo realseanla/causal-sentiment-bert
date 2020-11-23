@@ -1,2 +1,0 @@
-In this paper we propose an algorithm, Simple Hebbian PCA, and prove that it is able to calculate the principal component analysis (PCA) in a distributed fashion across nodes.
-It simplifies existing network structures by removing intralayer weights, essentially cutting the number of weights that need to be trained in half.

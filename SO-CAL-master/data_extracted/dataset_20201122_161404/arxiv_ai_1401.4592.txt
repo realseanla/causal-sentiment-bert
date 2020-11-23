@@ -1,3 +1,0 @@
-In a deterministic world, a planning agent can be certain of the consequences of its planned sequence of actions.
-Not so, however, in dynamic, stochastic domains where Markov decision processes are commonly used.
-Unfortunately these suffer from the curse of dimensionality: if the state space is a Cartesian product of many small sets (dimensions), planning is exponential in the number of those dimensions.

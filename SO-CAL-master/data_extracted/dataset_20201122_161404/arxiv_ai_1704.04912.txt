@@ -1,3 +1,0 @@
-Catastrophic forgetting has a serious impact in reinforcement learning, as the data distribution is generally sparse and non-stationary over time.
-The purpose of this study is to investigate whether pseudorehearsal can increase performance of an actor-critic agent with neural-network based policy selection and function approximation in a pole balancing task and compare different pseudorehearsal approaches.
-We expect that pseudorehearsal assists learning even in such very simple problems, given proper initialization of the rehearsal parameters.

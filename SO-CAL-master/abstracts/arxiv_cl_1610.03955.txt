@@ -1,0 +1,5 @@
+In human-computer conversation systems, the context of a user-issued utterance is particularly important because it provides useful background information of the conversation.
+However, it is unwise to track all previous utterances in the current session as not all of them are equally important.
+In this paper, we address the problem of session segmentation.
+We propose an embedding-enhanced TextTiling approach, inspired by the observation that conversation utterances are highly noisy, and that word embeddings provide a robust way of capturing semantics.
+Experimental results show that our approach achieves better performance than the TextTiling, MMD approaches.

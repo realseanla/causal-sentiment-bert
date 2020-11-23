@@ -1,4 +1,0 @@
-This paper presents a system which creates and visualizes probabilistic semantic links between concepts in a thesaurus and classes in a classification system.
-For creating the links, we build on the Polylingual Labeled Topic Model (PLL-TM).
-PLL-TM identifies probable thesaurus descriptors for each class in the classification system by using information from the natural language text of documents, their assigned thesaurus descriptors and their designated classes.
-The links are then presented to users of the system in an interactive visualization, providing them with an automatically generated overview of the relations between the thesaurus and the classification system.

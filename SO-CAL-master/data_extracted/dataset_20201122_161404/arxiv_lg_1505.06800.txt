@@ -1,5 +1,0 @@
-This paper proposes boosting-like deep learning (BDL) framework for pedestrian detection.
-Due to overtraining on the limited training samples, overfitting is a major problem of deep learning.
-We incorporate a boosting-like technique into deep learning to weigh the training samples, and thus prevent overtraining in the iterative process.
-We theoretically give the details of derivation of our algorithm, and report the experimental results on open data sets showing that BDL achieves a better stable performance than the state-of-the-arts.
-Our approach achieves 15.85 percent and 3.81 percent reduction in the average miss rate compared with ACF and JointDeep on the largest Caltech benchmark dataset, respectively.

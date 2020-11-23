@@ -1,0 +1,5 @@
+Knowledge graph embedding represents the entities and relations as numerical vectors, and then knowledge analysis could be promoted as a numerical method.
+So far, most methods merely concentrate on the fact triples that are composed by the symbolic entities and relations, while the textual information which is supposed to be most critical in NLP could hardly play a reasonable role.
+For this end, this paper proposes the method SSP which jointly learns from the symbolic triples and textual descriptions.
+Our model could interact both two information sources by characterizing the correlations, by which means, the textual descriptions could make effects to discover semantic relevance and offer precise semantic embedding.
+Extensive experiments show our method achieves the substantial improvements against the state-of-the-art baselines on the tasks of knowledge graph completion and entity classification.

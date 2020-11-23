@@ -1,5 +1,0 @@
-We present a mathematical construction for the restricted Boltzmann machine (RBM) in which the hidden layer size is adaptive and can grow during training.
-This is obtained by first extending the RBM to be sensitive to the ordering of its hidden units.
-Then, thanks to a carefully chosen definition of the energy function, we show that the limit of infinitely many hidden units is well defined.
-As in a regular RBM, approximate maximum likelihood training can be performed, resulting in an algorithm that naturally and adaptively adds trained hidden units during learning.
-We empirically study the behaviour of this infinite RBM, showing that its performance is competitive to that of the RBM.

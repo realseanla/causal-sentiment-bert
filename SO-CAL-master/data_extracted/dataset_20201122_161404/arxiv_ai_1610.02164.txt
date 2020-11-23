@@ -1,7 +1,0 @@
-Using current reinforcement learning methods, it has recently become possible to learn to play unknown 3D games from raw pixels.
-In this work, we study the challenges that arise in such complex environments, and summarize current methods to approach these.
-We choose a task within the Doom game, that has not been approached yet.
-The goal for the agent is to fight enemies in a 3D world consisting of five rooms.
-We train the DQN and LSTM-A3C algorithms on this task.
-Results show that both algorithms learn sensible policies, but fail to achieve high scores given the amount of training.
-We provide insights into the learned behavior, which can serve as a valuable starting point for further research in the Doom domain.

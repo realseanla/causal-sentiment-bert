@@ -1,0 +1,8 @@
+Reasoning with ontologies is one of the core fields of research in Description Logics.
+A variety of efficient reasoner with highly optimized algorithms have been developed to allow inference tasks on expressive ontology languages such as OWL(DL).
+However, reasoner reported computing times have exceeded and sometimes fall behind the expected theoretical values.
+From an empirical perspective, it is not yet well understood, which particular aspects in the ontology are reasoner performance degrading factors.
+In this paper, we conducted an investigation about state of art works that attempted to portray potential correlation between reasoner empirical behaviour and particular ontological features.
+These works were analysed and then broken down into categories.
+Further, we proposed a set of ontology features covering a broad range of structural and syntactic ontology characteristics.
+We claim that these features are good indicators of the ontology hardness level against reasoning tasks.

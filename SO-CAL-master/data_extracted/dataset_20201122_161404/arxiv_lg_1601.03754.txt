@@ -1,6 +1,0 @@
-k-means is a widely used clustering algorithm, but for $k$ clusters and a dataset size of $N$, each iteration of Lloyd's algorithm costs $O(kN)$ time.
-Although there are existing techniques to accelerate single Lloyd iterations, none of these are tailored to the case of large $k$, which is increasingly common as dataset sizes grow.
-We propose a dual-tree algorithm that gives the exact same results as standard $k$-means; when using cover trees, we use adaptive analysis techniques to, under some assumptions, bound the single-iteration runtime of the algorithm as $O(N + k log k)$.
-To our knowledge these are the first sub-$O(kN)$ bounds for exact Lloyd iterations.
-We then show that this theoretically favorable algorithm performs competitively in practice, especially for large $N$ and $k$ in low dimensions.
-Further, the algorithm is tree-independent, so any type of tree may be used.

@@ -1,7 +1,0 @@
-Here we study the problem of predicting labels for large text corpora where each text can be assigned multiple labels.
-The problem might seem trivial when the number of labels is small, and can be easily solved using a series of one-vs-all classifiers.
-However, as the number of labels increases to several thousand, the parameter space becomes extremely large, and it is no longer possible to use the one-vs-all technique.
-Here we propose a model based on the factorization of higher order word vector moments, as well as the cross moments between the labels and the words for multi-label prediction.
-Our model provides guaranteed converge bounds on the extracted parameters.
-Further, our model takes only three passes through the training dataset to extract the parameters, resulting in a highly scalable algorithm that can train on GB's of data consisting of millions of documents with hundreds of thousands of labels using a nominal resource of a single processor with 16GB RAM.
-Our model achieves 10x-15x order of speed-up on large-scale datasets while producing competitive performance in comparison with existing benchmark algorithms.

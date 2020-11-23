@@ -1,0 +1,7 @@
+Modern malware is designed with mutation characteristics, namely polymorphism and metamorphism, which causes an enormous growth in the number of variants of malware samples.
+Categorization of malware samples on the basis of their behaviors is essential for the computer security community in order to group samples belonging to same family.
+Microsoft released a malware classification challenge in 2015 with a huge dataset of near 0.5 terabytes of data, containing more than 20K malware samples.
+The analysis of this dataset inspired the development of a novel paradigm that is effective in categorizing malware variants into their actual family groups.
+This paradigm is presented and discussed in the present paper, where emphasis has been given to the phases related to the extraction, and selection of a set of novel features for the effective representation of malware samples.
+Features can be grouped according to different characteristics of malware behavior, and their fusion is performed according to a per-class weighting paradigm.
+The proposed method achieved a very high accuracy ($\approx$ 0.998) on the Microsoft Malware Challenge dataset.

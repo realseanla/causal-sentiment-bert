@@ -1,0 +1,6 @@
+Margin-Based Principle has been proposed for a long time, it has been proved that this principle could reduce the structural risk and improve the performance in both theoretical and practical aspects.
+Meanwhile, feed-forward neural network is a traditional classifier, which is very hot at present with a deeper architecture.
+However, the training algorithm of feed-forward neural network is developed and generated from Widrow-Hoff Principle that means to minimize the squared error.
+In this paper, we propose a new training algorithm for feed-forward neural networks based on Margin-Based Principle, which could effectively promote the accuracy and generalization ability of neural network classifiers with less labelled samples and flexible network.
+We have conducted experiments on four UCI open datasets and achieved good results as expected.
+In conclusion, our model could handle more sparse labelled and more high-dimension dataset in a high accuracy while modification from old ANN method to our method is easy and almost free of work.

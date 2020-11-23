@@ -1,5 +1,0 @@
-We present an experimental setup and procedure for benchmarking numerical optimization algorithms in a black-box scenario.
-This procedure can be applied with the COCO benchmarking platform.
-We describe initialization of and input to the algorithm and touch upon the relevance of termination and restarts.
-We introduce the concept of recommendations for benchmarking with COCO.
-Recommendations detach the solutions used in function calls from the anytime performance assessment of the algorithm.

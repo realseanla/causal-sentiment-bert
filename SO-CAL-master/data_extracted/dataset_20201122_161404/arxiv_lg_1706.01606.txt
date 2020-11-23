@@ -1,8 +1,0 @@
-Biometric authentication involves various technologies to identify individuals by exploiting their unique, measurable physiological and behavioral characteristics.
-However, biometric authentication systems (e.g., face recognition, iris, retina, voice, and fingerprint) are increasingly facing the risk of being tricked by biometric tools such as anti-surveillance masks, contact lenses, vocoders, or fingerprint films.
-In this regard, we design a multimodal biometric authentication system named DeepKey which uses both gait and Electroencephalography (EEG) signals to provide better protection against such risks.
-DeepKey consists of three key components: an Invalid ID Filter Model to block invalid subjects, a Gait Identification Model to recognize Gait IDs and an EEG Identification Model to recognize EEG IDs.
-In particular, the first two models employ a one-class SVM algorithm and a Recurrent Neural Network based deep learning model, respectively.
-The third model combines autoregressive coefficients, an RNN structure, and an SVM classifier.
-DeepKey is trained with a gait dataset of 160,000 samples and an EEG dataset of 108,000 samples.
-Experimental results show DeepKey outperforms a series of comparison methods and achieves an overall accuracy of 0.983 along with an overall false acceptance rate (FAR) of 0.0 and a false rejection rate (FRR) of 0.019.

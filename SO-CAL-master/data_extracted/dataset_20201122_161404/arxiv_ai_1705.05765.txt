@@ -1,3 +1,0 @@
-The content ranking problem in a social news website, is typically a function that maximizes a scalar metric of interest like dwell-time.
-However, like in most real-world applications we are interested in more than one metric---for instance simultaneously maximizing click-through rate, monetization metrics, dwell-time---and also satisfy the traffic requirements promised to different publishers.
-All this needs to be done on online data and under the settings where the objective function and the constraints can dynamically change; this could happen if for instance new publishers are added, some contracts are adjusted, or if some contracts are over.

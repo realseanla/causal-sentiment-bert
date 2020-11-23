@@ -1,7 +1,0 @@
-We present our ongoing work and initial results towards the (behavioral) correctness analysis of the cognitive middleware AWDRAT.
-Since, the (provable) behavioral correctness of a software system is a fundamental pre-requisite of the system's security.
-Therefore, the goal of the work is to first formalize the behavioral semantics of the middleware as a pre-requisite for our proof of the behavioral correctness.
-However, in this paper, we focus only on the core and critical component of the middleware, i.e.
-Execution Monitor which is a part of the module "Architectural Differencer" of AWDRAT.
-The role of the execution monitor is to identify inconsistencies between runtime observations of the target system and predictions of the specification System Architectural Model of the system.
-As a starting point we have defined the formal (denotational) semantics of the observations (runtime events) and predictions (executable specifications as of System Architectural Model); then based on the aforementioned formal semantices, we have formalized the behavior of the "Execution Monitor" of the middleware.

@@ -1,0 +1,5 @@
+Belief revision has been studied mainly with respect to background logics that are monotonic in character.
+In this paper we study belief revision when the underlying logic is non-monotonic instead--an inherently interesting problem that is under explored.
+In particular, we will focus on the revision of a body of beliefs that is represented as a logic program under the answer set semantics, while the new information is also similarly represented as a logic program.
+Our approach is driven by the observation that unlike in a monotonic setting where, when necessary, consistency in a revised body of beliefs is maintained by jettisoning some old beliefs, in a non-monotonic setting consistency can be restored by adding new beliefs as well.
+We will define a syntactic revision function and subsequently provide representation theorem for characterising it.

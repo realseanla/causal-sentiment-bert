@@ -1,7 +1,0 @@
-In machine learning area, as the number of labeled input samples becomes very large, it is very difficult to build a classification model because of input data set is not fit in a memory in training phase of the algorithm, therefore, it is necessary to utilize data partitioning to handle overall data set.
-Bagging and boosting based data partitioning methods have been broadly used in data mining and pattern recognition area.
-Both of these methods have shown a great possibility for improving classification model performance.
-This study is concerned with the analysis of data set partitioning with noise removal and its impact on the performance of multiple classifier models.
-In this study, we propose noise filtering preprocessing at each data set partition to increment classifier model performance.
-We applied Gini impurity approach to find the best split percentage of noise filter ratio.
-The filtered sub data set is then used to train individual ensemble models.

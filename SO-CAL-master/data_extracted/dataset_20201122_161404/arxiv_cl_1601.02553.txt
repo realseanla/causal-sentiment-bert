@@ -1,4 +1,0 @@
-We propose a novel deep neural network architecture for speech recognition that explicitly employs knowledge of the background environmental noise within a deep neural network acoustic model.
-A deep neural network is used to predict the acoustic environment in which the system in being used.
-The discriminative embedding generated at the bottleneck layer of this network is then concatenated with traditional acoustic features as input to a deep neural network acoustic model.
-Using simulated acoustic environments we show that the proposed approach significantly improves speech recognition accuracy in noisy and highly reverberant environments, outperforming multi-condition training and multi-task learning for this task.

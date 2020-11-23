@@ -1,0 +1,4 @@
+Text simplification (TS) aims to reduce the lexical and structural complexity of a text, while still retaining the semantic meaning.
+Current automatic TS techniques are limited to either lexical-level applications or manually defining a large amount of rules.
+Since deep neural networks are powerful models that have achieved excellent performance over many difficult tasks, in this paper, we propose to use the Long Short-Term Memory (LSTM) Encoder-Decoder model for sentence level TS, which makes minimal assumptions about word sequence.
+We conduct preliminary experiments to find that the model is able to learn operation rules such as reversing, sorting and replacing from sequence pairs, which shows that the model may potentially discover and apply rules such as modifying sentence structure, substituting words, and removing words for TS.

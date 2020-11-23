@@ -1,6 +1,0 @@
-The recently introduced "words as classifiers" model of grounded semantics (Kennington &amp; Schlangen 2015) views words as classifiers on (perceptual) contexts, and composes the meaning of a phrase through 'soft' intersection of the denotations of its component words.
-The model is trained from instances of referential language use, and was first evaluated with references in a game-playing scenario with a small number of different types of objects.
-Here, we apply this model to a large set of real-world photographs (SAIAPR TC-12, (Escalante et al.
-2010)) that contain objects with a much larger variety of types, and we show that it achieves good performance in a reference resolution task on this data set.
-We also extend the model to deal with quantification and negation, and evaluate these extensions, with good results.
-To investigate what the classifiers learn, we introduce 'intensional' and 'denotational' word vectors, and show that they capture meaning similarity in a way that is different from and complementary to word2vec word embeddings.

@@ -1,0 +1,4 @@
+Non-linear models recently receive a lot of attention as people are starting to discover the power of statistical and embedding features.
+However, tree-based models are seldom studied in the context of structured learning despite their recent success on various classification and ranking tasks.
+In this paper, we propose S-MART, a tree-based structured learning framework based on multiple additive regression trees.
+S-MART is especially suitable for handling tasks with dense features, and can be used to learn many different structures under various loss functions.

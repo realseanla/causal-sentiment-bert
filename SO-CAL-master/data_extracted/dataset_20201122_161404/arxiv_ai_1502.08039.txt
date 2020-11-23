@@ -1,4 +1,0 @@
-In this paper we propose a non-metric ranking-based representation of semantic similarity that allows natural aggregation of semantic information from multiple heterogeneous sources.
-We apply the ranking-based representation to zero-shot learning problems, and present deterministic and probabilistic zero-shot classifiers which can be built from pre-trained classifiers without retraining.
-We demonstrate their the advantages on two large real-world image datasets.
-In particular, we show that aggregating different sources of semantic information, including crowd-sourcing, leads to more accurate classification.

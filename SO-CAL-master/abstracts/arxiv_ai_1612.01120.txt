@@ -1,0 +1,4 @@
+We examine the complexity of inference in Bayesian networks specified by logical languages.
+We consider representations that range from fragments of propositional logic to function-free first-order logic with equality; in doing so we cover a variety of plate models and of probabilistic relational models.
+We study the complexity of inferences when network, query and domain are the input (the inferential and the combined complexity), when the network is fixed and query and domain are the input (the query/data complexity), and when the network and query are fixed and the domain is the input (the domain complexity).
+We draw connections with probabilistic databases and liftability results, and obtain complexity classes that range from polynomial to exponential levels.

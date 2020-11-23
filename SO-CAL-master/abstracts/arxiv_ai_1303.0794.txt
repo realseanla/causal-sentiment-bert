@@ -1,0 +1,4 @@
+We propose a validity preserving translation from a subset of epistemic Alternating-time Temporal Logic (ATL) to epistemic Computation Tree Logic (CTL).
+The considered subset of epistemic ATL is known to have the finite model property and decidable model-checking.
+This entails the decidability of validity but the implied algorithm is unfeasible.
+Reducing the validity problem to that in a corresponding system of CTL makes the techniques for automated deduction for that logic available for the handling of the apparently more complex system of ATL.

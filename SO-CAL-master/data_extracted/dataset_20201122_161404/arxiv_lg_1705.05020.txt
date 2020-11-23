@@ -1,5 +1,0 @@
-This paper proposes an approach for tackling an abstract formulation of weakly supervised learning, which is posed as a joint optimization problem in the continuous model parameters and discrete label variables.
-We devise a novel decomposition of the latter into purely discrete and continuous subproblems within the framework of the Alternating Direction Method of Multipliers (ADMM), which allows to efficiently compute a local minimum of the nonconvex objective function.
-Our approach preserves integrality of the discrete label variables and admits a globally convergent kernel formulation.
-The resulting method implicitly alternates between a discrete and a continuous variable update, however, it is inherently different from simple alternating optimization (hard EM).
-In numerous experiments we illustrate that our method can learn a classifier from weak and abstract combinatorial supervision thereby being superior towards hard EM.

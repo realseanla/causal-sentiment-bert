@@ -1,8 +1,0 @@
-Connectionist temporal classification (CTC) based supervised sequence training of recurrent neural networks (RNNs) has shown great success in many machine learning areas including end-to-end speech and handwritten character recognition.
-For the CTC training, however, it is required to unroll the RNN by the length of an input sequence.
-This unrolling requires a lot of memory and hinders a small footprint implementation of online learning or adaptation.
-Furthermore, the length of training sequences is usually not uniform, which makes parallel training with multiple sequences inefficient on shared memory models such as graphics processing units (GPUs).
-In this work, we introduce an expectation-maximization (EM) based online CTC algorithm that enables unidirectional RNNs to learn sequences that are longer than the amount of unrolling.
-The RNNs can also be trained to process an infinitely long input sequence without pre-segmentation or external reset.
-Moreover, the proposed approach allows efficient parallel training on GPUs.
-For evaluation, end-to-end speech recognition examples are presented on the Wall Street Journal (WSJ) corpus.

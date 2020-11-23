@@ -1,5 +1,0 @@
-Entity resolution (ER) is about identifying and merging records in a database that represent the same real-world entity.
-Matching dependencies (MDs) have been introduced and investigated as declarative rules that specify ER policies.
-An ER process induced by MDs over a dirty instance leads to multiple clean instances, in general.
-General "answer sets programs" have been proposed to specify the MD-based cleaning task and its results.
-In this work, we extend MDs to "relational MDs", which capture more application semantics, and identify classes of relational MDs for which the general ASP can be automatically rewritten into a stratified Datalog program, with the single clean instance as its standard model.

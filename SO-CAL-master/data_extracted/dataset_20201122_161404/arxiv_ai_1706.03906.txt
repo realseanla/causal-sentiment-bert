@@ -1,6 +1,0 @@
-Constrained counting is important in domains ranging from artificial intelligence to software analysis.
-There are already a few approaches for counting models over various types of constraints.
-Recently, hashing-based approaches achieve both theoretical guarantees and scalability, but still rely on solution enumeration.
-In this paper, a new probabilistic polynomial time approximate model counter is proposed, which is also a hashing-based universal framework, but with only satisfiability queries.
-A variant with a dynamic stopping criterion is also presented.
-Empirical evaluation over benchmarks on propositional logic formulas and SMT(BV) formulas shows that the approach is promising.

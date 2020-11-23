@@ -1,5 +1,0 @@
-Machine Comprehension (MC), answering questions about a given context, re-quires modeling complex interactions between the context and the query.
-Recently, attention mechanisms have been successfully extended to MC.
-Typically these mechanisms use attention to summarize the query and context into a single vectors, couple attentions temporally, and often form a unidirectional attention.
-In this paper we introduce the Bidirectional Attention Flow (BIDAF) Model, a multi-stage hierarchical process that represents the context at different levels of granularity and uses a bi-directional attention flow mechanism to achieve a query-aware context representation without early summarization.
-Our experimental evaluations show that our model achieves the state-of-the-art results in Stanford QA(SQuAD) and CNN/DailyMail Cloze Test datasets.

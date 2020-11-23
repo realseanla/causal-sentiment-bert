@@ -1,6 +1,0 @@
-Bayesian learning of belief networks (BLN) is a method for automatically constructing belief networks (BNs) from data using search and Bayesian scoring techniques.
-K2 is a particular instantiation of the method that implements a greedy search strategy.
-To evaluate the accuracy of K2, we randomly generated a number of BNs and for each of those we simulated data sets.
-K2 was then used to induce the generating BNs from the simulated data.
-We examine the performance of the program, and the factors that influence it.
-We also present a simple BN model, developed from our results, which predicts the accuracy of K2, when given various characteristics of the data set.

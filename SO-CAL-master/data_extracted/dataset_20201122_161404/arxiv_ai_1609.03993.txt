@@ -1,3 +1,0 @@
-A common strategy for improving optimization algorithms is to restart the algorithm when it is believed to be trapped in an inferior part of the search space.
-However, while specific restart strategies have been developed for specific problems (and specific algorithms), restarts are typically not regarded as a general tool to speed up an optimization algorithm.
-In fact, many optimization algorithms do not employ restarts at all.

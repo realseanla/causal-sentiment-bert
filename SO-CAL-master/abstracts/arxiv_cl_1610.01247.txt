@@ -1,0 +1,4 @@
+This paper introduces the Event Capture Annotation Tool (ECAT), a user-friendly, open-source interface tool for annotating events and their participants in video, capable of extracting the 3D positions and orientations of objects in video captured by Microsoft's Kinect(R) hardware.
+The modeling language VoxML (Pustejovsky and Krishnaswamy, 2016) underlies ECAT's object, program, and attribute representations, although ECAT uses its own spec for explicit labeling of motion instances.
+The demonstration will show the tool's workflow and the options available for capturing event-participant relations and browsing visual data.
+Mapping ECAT's output to VoxML will also be addressed.

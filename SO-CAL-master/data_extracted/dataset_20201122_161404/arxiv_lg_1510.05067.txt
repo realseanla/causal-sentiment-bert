@@ -1,5 +1,0 @@
-Gradient backpropagation (BP) requires symmetric feedforward and feedback connections--the same weights must be used for forward and backward passes.
-This "weight transport problem" [1] is thought to be the crux of BP's biological implausibility.
-Using 15 different classification datasets, we systematically study to what extent BP really depends on weight symmetry.
-Surprisingly, the results indicate: (1) the magnitudes of feedback weights do not matter to performance (2) the signs of feedback weights do matter--the more concordant signs between feedforward and their corresponding feedback connections, the better (3) with feedback weights having random magnitudes and 100 percent concordant signs, we were able to achieve the same or even better performance than SGD.
-(4) some normalizations/stabilizations are indispensable for such asymmetric BP to work, namely Batch Normalization (BN) [2] and/or a "Batch Manhattan" (BM) update rule.

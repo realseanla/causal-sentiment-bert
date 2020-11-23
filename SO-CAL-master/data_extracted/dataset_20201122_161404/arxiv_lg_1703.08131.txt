@@ -1,8 +1,0 @@
-We present a novel diffusion scheme for online kernel-based learning over networks.
-So far, a major drawback of any online learning algorithm, operating in a reproducing kernel Hilbert space (RKHS), is the need for updating a growing number of parameters as time iterations evolve.
-Besides complexity, this leads to an increased need of communication resources, in a distributed setting.
-In contrast, the proposed method approximates the solution as a fixed-size vector (of larger dimension than the input space) using Random Fourier Features.
-This paves the way to use standard linear combine-then-adapt techniques.
-To the best of our knowledge, this is the first time that a complete protocol for distributed online learning in RKHS is presented.
-Conditions for asymptotic convergence and boundness of the networkwise regret are also provided.
-The simulated tests illustrate the performance of the proposed scheme.

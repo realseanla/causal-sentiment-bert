@@ -1,0 +1,5 @@
+Feature selection plays a pivotal role in learning, particularly in areas were parsimonious features can provide insight into the underlying process, such as biology.
+Recent approaches for non-linear feature selection employing greedy optimisation of Centred Kernel Target Alignment(KTA), while exhibiting strong results in terms of generalisation accuracy and sparsity, can become computationally prohibitive for high-dimensional datasets.
+We propose randSel, a randomised feature selection algorithm, with attractive scaling properties.
+Our theoretical analysis of randSel provides strong probabilistic guarantees for the correct identification of relevant features.
+Experimental results on real and artificial data, show that the method successfully identifies effective features, performing better than a number of competitive approaches.

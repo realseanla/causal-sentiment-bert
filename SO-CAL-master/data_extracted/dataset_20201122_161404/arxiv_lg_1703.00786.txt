@@ -1,5 +1,0 @@
-To speed up the training process, many existing systems use parallel technology for online learning algorithms.
-However, most research mainly focus on stochastic gradient descent (SGD) instead of other algorithms.
-We propose a generic online parallel learning framework for large margin models, and also analyze our framework on popular large margin algorithms, including MIRA and Structured Perceptron.
-Our framework is lock-free and easy to implement on existing systems.
-Experiments show that systems with our framework can gain near linear speed up by increasing running threads, and with no loss in accuracy.

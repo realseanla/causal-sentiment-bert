@@ -1,4 +1,0 @@
-We propose an efficient optimization algorithm for selecting a subset of training data to induce sparsity for Gaussian process regression.
-The algorithm estimates an inducing set and the hyperparameters using a single objective, either the marginal likelihood or a variational free energy.
-The space and time complexity are linear in training set size, and the algorithm can be applied to large regression problems on discrete or continuous domains.
-Empirical evaluation shows state-of-art performance in discrete cases and competitive results in the continuous case.

@@ -1,6 +1,0 @@
-With the success of modern internet based platform, such as Amazon Mechanical Turk, it is now normal to collect a large number of hand labeled samples from non-experts.
-The Dawid- Skene algorithm, which is based on Expectation- Maximization update, has been widely used for inferring the true labels from noisy crowdsourced labels.
-However, Dawid-Skene scheme requires all the data to perform each EM iteration, and can be infeasible for streaming data or large scale data.
-In this paper, we provide an online version of Dawid- Skene algorithm that only requires one data frame for each iteration.
-Further, we prove that under mild conditions, the online Dawid-Skene scheme with projection converges to a stationary point of the marginal log-likelihood of the observed data.
-Our experiments demonstrate that the online Dawid- Skene scheme achieves state of the art performance comparing with other methods based on the Dawid- Skene scheme.

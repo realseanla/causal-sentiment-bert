@@ -1,7 +1,0 @@
-Classes in natural images tend to follow long tail distributions.
-This is problematic when there are insufficient training examples for rare classes.
-This effect is emphasized in compound classes, involving the conjunction of several concepts, such as those appearing in action-recognition datasets.
-In this paper, we propose to address this issue by learning how to utilize common visual concepts which are readily available.
-We detect the presence of prominent concepts in images and use them to infer the target labels instead of using visual features directly, combining tools from vision and natural-language processing.
-We validate our method on the recently introduced HICO dataset reaching a mAP of 31.54 percent and on the Stanford-40 Actions dataset, where the proposed method outperforms current state-of-the art and, combined with direct visual features, obtains an accuracy 83.12 percent.
-Moreover, the method provides for each class a semantically meaningful list of keywords and relevant image regions relating it to its constituent concepts.

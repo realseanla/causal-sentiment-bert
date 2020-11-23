@@ -1,4 +1,0 @@
-A new method is developed to represent probabilistic relations on multiple random events.
-Where previously knowledge bases containing probabilistic rules were used for this purpose, here a probability distribution over the relations is directly represented by a Bayesian network.
-By using a powerful way of specifying conditional probability distributions in these networks, the resulting formalism is more expressive than the previous ones.
-Particularly, it provides for constraints on equalities of events, and it allows to define complex, nested combination functions.

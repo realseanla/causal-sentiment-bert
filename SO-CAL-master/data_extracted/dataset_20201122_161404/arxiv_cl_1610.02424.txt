@@ -1,9 +1,0 @@
-Neural sequence models are widely used to model time-series data in many fields.
-Equally ubiquitous is the usage of beam search (BS) as an approximate inference algorithm to decode output sequences from these models.
-BS explores the search space in a greedy left-right fashion retaining only the top-$B$ candidates -- resulting in sequences that differ only slightly from each other.
-Producing lists of nearly identical sequences is not only computationally wasteful but also typically fails to capture the inherent ambiguity of complex AI tasks.
-To overcome this problem, we propose \emph{Diverse Beam Search} (DBS), an alternative to BS that decodes a list of diverse outputs by optimizing for a diversity-augmented objective.
-We observe that our method finds better top-1 solutions by controlling for the exploration and exploitation of the search space -- implying that DBS is a \emph{better search algorithm}.
-Moreover, these gains are achieved with minimal computational or memory overhead as compared to beam search.
-To demonstrate the broad applicability of our method, we present results on image captioning, machine translation and visual question generation using both standard quantitative metrics and qualitative human studies.
-Our method consistently outperforms BS and previously proposed techniques for diverse decoding from neural sequence models.

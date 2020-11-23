@@ -1,0 +1,5 @@
+We develop a recursive total least-squares (RTLS) algorithm for errors-in-variables system identification utilizing the inverse power method and the dichotomous coordinate-descent (DCD) iterations.
+The proposed algorithm, called DCD-RTLS, outperforms the previously-proposed RTLS algorithms, which are based on the line search method, with reduced computational complexity.
+We perform a comprehensive analysis of the DCD-RTLS algorithm and show that it is asymptotically unbiased as well as being stable in the mean.
+We also find a lower bound for the forgetting factor that ensures mean-square stability of the algorithm and calculate the theoretical steady-state mean-square deviation (MSD).
+We verify the effectiveness of the proposed algorithm and the accuracy of the predicted steady-state MSD via simulations.

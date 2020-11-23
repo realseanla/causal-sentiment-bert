@@ -1,8 +1,0 @@
-Machine learning based computational intelligence methods are widely used to analyze large scale data sets in this age of big data.
-Extracting useful predictive modeling from these types of data sets is a challenging problem due to their high complexity.
-Analyzing large amount of streaming data that can be leveraged to derive business value is another complex problem to solve.
-With high levels of data availability (\textit{i.e.
-Big Data}) automatic classification of them has become an important and complex task.
-Hence, we explore the power of applying MapReduce based Distributed AdaBoosting of Extreme Learning Machine (ELM) to build a predictive bag of classification models.
-Accordingly, (i) data set ensembles are created; (ii) ELM algorithm is used to build weak learners (classifier functions); and (iii) builds a strong learner from a set of weak learners.
-We applied this training model to the benchmark knowledge discovery and data mining data sets.

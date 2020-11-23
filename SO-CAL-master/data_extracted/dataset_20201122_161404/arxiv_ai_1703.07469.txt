@@ -1,2 +1,0 @@
-The problem of automatically generating a computer program from some specification has been studied since the early days of AI.
-Recently, two competing approaches for automatic program learning have received significant attention: (1) neural program synthesis, where a neural network is conditioned on input/output (I/O) examples and learns to generate a program, and (2) neural program induction, where a neural network generates new outputs directly using a latent program representation.

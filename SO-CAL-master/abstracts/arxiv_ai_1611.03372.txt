@@ -1,0 +1,7 @@
+A new agent architecture called Limited Instruction Set Agent (LISA) is introduced for autonomous control.
+The new architecture is based on previous implementations of AgentSpeak and it is structurally simpler than its predecessors with the aim of facilitating design-time and run-time verification methods.
+The process of abstracting the LISA system to two different types of discrete probabilistic models (DTMC and MDP) is investigated and illustrated.
+The LISA system provides a tool for complete modelling of the agent and the environment for probabilistic verification.
+The agent program can be automatically compiled into a DTMC or a MDP model for verification with Prism.
+The automatically generated Prism model can be used for both design-time and run-time verification.
+The run-time verification is investigated and illustrated in the LISA system as an internal modelling mechanism for prediction of future outcomes.

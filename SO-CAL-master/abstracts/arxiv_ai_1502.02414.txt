@@ -1,0 +1,8 @@
+Enforcing local consistencies in cost function networks is performed by applying so-called Equivalent Preserving Transformations (EPTs) to the cost functions.
+As EPTs transform the cost functions, they may break the property that was making local consistency enforcement tractable on a global cost function.
+A global cost function is called tractable projection-safe when applying an EPT to it is tractable and does not break the tractability property.
+In this paper, we prove that depending on the size r of the smallest scopes used for performing EPTs, the tractability of global cost functions can be preserved (r = 0) or destroyed (r &gt; 1).
+When r = 1, the answer is indefinite.
+We show that on a large family of cost functions, EPTs can be computed via dynamic programming-based algorithms, leading to tractable projection-safety.
+We also show that when a global cost function can be decomposed into a Berge acyclic network of bounded arity cost functions, soft local consistencies such as soft Directed or Virtual Arc Consistency can directly emulate dynamic programming.
+These different approaches to decomposable cost functions are then embedded in a solver for extensive experiments that confirm the feasibility and efficiency of our proposal.

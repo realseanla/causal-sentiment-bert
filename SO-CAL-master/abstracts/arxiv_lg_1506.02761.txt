@@ -1,0 +1,7 @@
+Embedding words in a vector space has gained a lot of research attention in recent years.
+While state-of-the-art methods provide efficient computation of word similarities via a low-dimensional matrix embedding, their motivation is often left unclear.
+In this paper, we argue that word embedding can be naturally viewed as a ranking problem.
+Then, based on this insight, we propose a novel framework WordRank that efficiently estimates word representations via robust ranking.
+The performance of WordRank is measured in word similarity and word analogy benchmarks, and the results are compared to the state-of-the-art word embedding techniques.
+Our algorithm produces a vector space with meaningful substructure, as evidenced by its performance of 77.4 percent accuracy on a popular word similarity benchmark and 76 percent on the Google word analogy benchmark.
+WordRank performs especially well on small corpora.

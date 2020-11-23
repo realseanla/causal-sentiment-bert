@@ -1,0 +1,7 @@
+We propose the use of structured natural language (English) in specifying service choreographies, focusing on the what rather than the how of the required coordination of participant services in realising a business application scenario.
+The declarative approach we propose uses the OMG standard Semantics of Business Vocabulary and Rules (SBVR) as a modelling language.
+The service choreography approach has been proposed for describing the global orderings of the invocations on interfaces of participant services.
+We therefore extend SBVR with a notion of time which can capture the coordination of the participant services, in terms of the observable message exchanges between them.
+The extension is done using existing modelling constructs in SBVR, and hence respects the standard specification.
+The idea is that users - domain specialists rather than implementation specialists - can verify the requested service composition by directly reading the structured English used by SBVR.
+At the same time, the SBVR model can be represented in formal logic so it can be parsed and executed by a machine.

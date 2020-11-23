@@ -1,0 +1,3 @@
+The aim of this paper is to report on a novel text reduction technique, called Text Denoising, that highlights information-rich content when processing a large volume of text data, especially from the biomedical domain.
+The core feature of the technique, the text readability index, embodies the hypothesis that complex text is more information-rich than the rest.
+When applied on tasks like biomedical relation bearing text extraction, keyphrase indexing and extracting sentences describing protein interactions, it is evident that the reduced set of text produced by text denoising is more information-rich than the rest.

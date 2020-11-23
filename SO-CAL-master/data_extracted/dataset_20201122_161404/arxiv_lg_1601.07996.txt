@@ -1,7 +1,0 @@
-Feature selection, as a data preprocessing strategy, has been proven to be effective and efficient in preparing high-dimensional data for data mining and machine learning problems.
-The objectives of feature selection include: building simpler and more comprehensible models, improving data mining performance, and preparing clean, understandable data.
-The recent proliferation of big data has presented some substantial challenges and opportunities of feature selection algorithms.
-In this survey, we provide a comprehensive and structured overview of recent advances in feature selection research.
-Motivated by current challenges and opportunities in the big data age, we revisit feature selection research from a data perspective, and review representative feature selection algorithms for generic data, structured data, heterogeneous data and streaming data.
-Methodologically, to emphasize the differences and similarities of most existing feature selection algorithms for generic data, we generally categorize them into four groups: similarity based, information theoretical based, sparse learning based and statistical based methods.
-Finally, to facilitate and promote the research in this community, we also present a open-source feature selection repository that consists of most of the popular feature selection algorithms (

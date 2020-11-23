@@ -1,5 +1,0 @@
-Hyperspectral data consists of large number of features which require sophisticated analysis to be extracted.
-A popular approach to reduce computational cost, facilitate information representation and accelerate knowledge discovery is to eliminate bands that do not improve the classification and analysis methods being applied.
-In particular, algorithms that perform band elimination should be designed to take advantage of the specifics of the classification method being used.
-This paper employs a recently proposed filter-feature-selection algorithm based on minimizing a tight bound on the VC dimension.
-We have successfully applied this algorithm to determine a reasonable subset of bands without any user-defined stopping criteria on widely used hyperspectral images and demonstrate that this method outperforms state-of-the-art methods in terms of both sparsity of feature set as well as accuracy of classification.\end{abstract}

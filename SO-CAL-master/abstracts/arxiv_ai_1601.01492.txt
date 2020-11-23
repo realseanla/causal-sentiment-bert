@@ -1,0 +1,4 @@
+We study the (parameterized) complexity of SHIFT BRIBERY for multiwinner voting rules.
+We focus on SNTV, Bloc, k-Borda, and Chamberlin-Courant, as well as on approximate variants of Chamberlin-Courant, since the original rule is NP-hard to compute.
+We show that SHIFT BRIBERY tends to be significantly harder in the multiwinner setting than in the single-winner one by showing settings where SHIFT BRIBERY is easy in the single-winner cases, but is hard (and hard to approximate) in the multiwinner ones.
+Moreover, we show that the non-monotonicity of those rules which are based on approximation algorithms for the Chamberlin-Courant rule sometimes affects the complexity of SHIFT BRIBERY.

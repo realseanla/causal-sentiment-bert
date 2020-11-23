@@ -1,0 +1,6 @@
+Near-future electric distribution grids operation will have to rely on demand-side flexibility, both by implementation of demand response strategies and by taking advantage of the intelligent management of increasingly common small-scale energy storage.
+Home energy management systems (HEMS) will play a crucial role on the flexibility provision to both system operators and market players like aggregators.
+Modeling multi-period flexibility from residential consumers (HEMS flexibility), such as battery storage and electric water heater, while complying with internal constraints (comfort levels, data privacy) and uncertainty is a complex task.
+This paper describes a computational method that is capable of efficiently define and learn the feasible flexibility set from controllable resources connected to a HEMS.
+An Evolutionary Particle Swarm Optimization (EPSO) algorithm is adopted and reshaped to derive a set of feasible temporal trajectories for the residential net-load, considering storage, flexible appliances, and predefined costumer preferences, as well as load and photovoltaic (PV) forecast uncertainty.
+A support vector data description (SVDD) algorithm is used to build models capable of classifying feasible and unfeasible HEMS operating trajectories upon request from an optimization/control algorithm operated by a DSO or market player.

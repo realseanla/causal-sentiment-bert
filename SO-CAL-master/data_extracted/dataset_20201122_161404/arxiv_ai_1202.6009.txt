@@ -1,5 +1,0 @@
-The purpose of statistical disclosure control (SDC) of microdata, a.k.a.
-data anonymization or privacy-preserving data mining, is to publish data sets containing the answers of individual respondents in such a way that the respondents corresponding to the released records cannot be re-identified and the released data are analytically useful.
-SDC methods are either based on masking the original data, generating synthetic versions of them or creating hybrid versions by combining original and synthetic data.
-The choice of SDC methods for categorical data, especially nominal data, is much smaller than the choice of methods for numerical data.
-We mitigate this problem by introducing a numerical mapping for hierarchical nominal data which allows computing means, variances and covariances on them.

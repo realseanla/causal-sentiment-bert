@@ -1,0 +1,4 @@
+We present a new action recognition deep neural network which adaptively learns the best action velocities in addition to the classification.
+While deep neural networks have reached maturity for image understanding tasks, we are still exploring network topologies and features to handle the richer environment of video clips.
+Here, we tackle the problem of multiple velocities in action recognition, and provide state-of-the-art results for gesture recognition, on known and new collected datasets.
+We further provide the training steps for our semi-supervised network, suited to learn from huge unlabeled datasets with only a fraction of labeled examples.

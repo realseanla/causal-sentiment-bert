@@ -1,6 +1,0 @@
-In This paper we present a novel approach to spam filtering and demonstrate its applicability with respect to SMS messages.
-Our approach requires minimum features engineering and a small set of la- belled data samples.
-Features are extracted using topic modelling based on latent Dirichlet allocation, and then a comprehensive data model is created using a Stacked Denoising Autoencoder (SDA).
-Topic modelling summarises the data providing ease of use and high interpretability by visualising the topics using word clouds.
-Given that the SMS messages can be regarded as either spam (unwanted) or ham (wanted), the SDA is able to model the messages and accurately discriminate between the two classes without the need for a pre-labelled training set.
-The results are compared against the state-of-the-art spam detection algorithms with our proposed approach achieving over 97 percent accuracy which compares favourably to the best reported algorithms presented in the literature.

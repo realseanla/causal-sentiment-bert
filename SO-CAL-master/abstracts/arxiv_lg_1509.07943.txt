@@ -1,0 +1,3 @@
+Super-resolution is the problem of recovering a superposition of point sources using bandlimited measurements, which may be corrupted with noise.
+This signal processing problem arises in numerous imaging problems, ranging from astronomy to biology to spectroscopy, where it is common to take (coarse) Fourier measurements of an object.
+Of particular interest is in obtaining estimation procedures which are robust to noise, with the following desirable statistical and computational properties: we seek to use coarse Fourier measurements (bounded by some cutoff frequency); we hope to take a (quantifiably) small number of measurements; we desire our algorithm to run quickly.

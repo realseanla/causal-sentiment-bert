@@ -1,3 +1,0 @@
-Suppose we want to build a system that answers a natural language question by representing its semantics as a logical form and computing the answer given a structured database of facts.
-The core part of such a system is the semantic parser that maps questions to logical forms.
-Semantic parsers are typically trained from examples of questions annotated with their target logical forms, but this type of annotation is expensive.

@@ -1,7 +1,0 @@
-Deep networks rely on massive amounts of labeled data to learn powerful models.
-For a target task short of labeled data, transfer learning enables model adaptation from a different source domain.
-This paper addresses deep transfer learning under a more general scenario that the joint distributions of features and labels may change substantially across domains.
-Based on the theory of Hilbert space embedding of distributions, a novel joint distribution discrepancy is proposed to directly compare joint distributions across domains, eliminating the need of marginal-conditional factorization.
-Transfer learning is enabled in deep convolutional networks, where the dataset shifts may linger in multiple task-specific feature layers and the classifier layer.
-A set of joint adaptation networks are crafted to match the joint distributions of these layers across domains by minimizing the joint distribution discrepancy, which can be trained efficiently using back-propagation.
-Experiments show that the new approach yields state of the art results on standard domain adaptation datasets.

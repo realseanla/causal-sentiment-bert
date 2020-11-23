@@ -1,7 +1,0 @@
-This paper describes a new method for classifying a dataset that partitions elements into different categories.
-It has relations with neural networks but works in a different way, requiring only a single pass through the classifier to generate the weight sets.
-A grid structure is required and a novel idea of converting a row of real values into a 2-D or grid-like structure of value bands.
-Each cell in the band can then store a cell weight value and also a set of weights that represent its own importance to each of the output categories.
-For any input that needs to be categorised, all of the output weight lists for each relevant input cell can be retrieved and summed to produce a probability for what the correct output category is.
-So the relative importance of each input point to the output is distributed to each cell.
-The construction process itself can simply be the reinforcement of the weight values, without requiring an iterative adjustment process, making it potentially much faster.

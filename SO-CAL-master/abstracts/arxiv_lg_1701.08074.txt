@@ -1,0 +1,5 @@
+Optimal control of thermostatically controlled loads connected to a district heating network is considered a sequential decision- making problem under uncertainty.
+The practicality of a direct model-based approach is compromised by two challenges, namely scalability due to the large dimensionality of the problem and the system identification required to identify an accurate model.
+To help in mitigating these problems, this paper leverages on recent developments in reinforcement learning in combination with a market-based multi-agent system to obtain a scalable solution that obtains a significant performance improvement in a practical learning time.
+The control approach is applied on a scenario comprising 100 thermostatically controlled loads connected to a radial district heating network supplied by a central combined heat and power plant.
+Both for an energy arbitrage and a peak shaving objective, the control approach requires 60 days to obtain a performance within 65 percent of a theoretical lower bound on the cost.

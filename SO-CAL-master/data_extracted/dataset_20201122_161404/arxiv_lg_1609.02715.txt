@@ -1,7 +1,0 @@
-The segmentation, seen as the association of a partition with an image, is a difficult task.
-It can be decomposed in two steps: at first, a family of contours associated with a series of nested partitions (or hierarchy) is created and organized, then pertinent contours are extracted.
-A coarser partition is obtained by merging adjacent regions of a finer partition.
-The strength of a contour is then measured by the level of the hierarchy for which its two adjacent regions merge.
-We present an automatic segmentation strategy using a wide range of stochastic watershed hierarchies.
-For a given set of homogeneous images, our approach selects automatically the best hierarchy and cut level to perform image simplification given an evaluation score.
-Experimental results illustrate the advantages of our approach on several real-life images datasets.

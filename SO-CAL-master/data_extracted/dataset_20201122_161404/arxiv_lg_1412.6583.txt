@@ -1,5 +1,0 @@
-We propose a method for learning latent representations of the factors of variation in data.
-By augmenting deep autoencoders with a supervised cost and an additional unsupervised cost, we create a semi-supervised model that can discover and explicitly represent factors of variation beyond those relevant for categorization.
-We use a novel unsupervised covariance penalty (XCov) to disentangle factors like handwriting style for digits and subject identity in faces.
-We demonstrate this on the MNIST handwritten digit database, the Toronto Faces Database (TFD) and the Multi-PIE dataset by generating manipulated instances of the data.
-Our model discovers additional high-level latent factors absent from the supervised signal.

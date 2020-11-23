@@ -1,4 +1,0 @@
-We take the generation of Chinese classical poem lines as a sequence-to-sequence learning problem, and build a novel system based on the RNN Encoder-Decoder structure to generate quatrains (Jueju in Chinese), with a topic word as input.
-Our system can jointly learn semantic meaning within a single line, semantic relevance among lines in a poem, and the use of structural, rhythmical and tonal patterns, without utilizing any constraint templates.
-Experimental results show that our system outperforms other competitive systems.
-We also find that the attention mechanism can capture the word associations in Chinese classical poetry and inverting target lines in training can improve performance.

@@ -1,0 +1,4 @@
+This paper presents the Voronoi diagram-based evolutionary algorithm (VorEAl).
+VorEAl partitions input space in abnormal/normal subsets using Voronoi diagrams.
+Diagrams are evolved using a multi-objective bio-inspired approach in order to conjointly optimize classification metrics while also being able to represent areas of the data space that are not present in the training dataset.
+As part of the paper VorEAl is experimentally validated and contrasted with similar approaches.

@@ -1,5 +1,0 @@
-In this study we determined neural network weights and biases by Imperialist Competitive Algorithm (ICA) in order to train network for predicting earthquake intensity in Richter.
-For this reason, we used dependent parameters like earthquake occurrence time, epicenter's latitude and longitude in degree, focal depth in kilometer, and the seismological center distance from epicenter and earthquake focal center in kilometer which has been provided by Berkeley data base.
-The studied neural network has two hidden layer: its first layer has 16 neurons and the second layer has 24 neurons.
-By using ICA algorithm, average error for testing data is 0.0007 with a variance equal to 0.318.
-The earthquake prediction error in Richter by MSE criteria for ICA algorithm is 0.101, but by using GA, the MSE value is 0.115.

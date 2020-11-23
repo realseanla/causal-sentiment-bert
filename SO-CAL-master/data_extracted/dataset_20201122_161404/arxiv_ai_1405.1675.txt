@@ -1,5 +1,0 @@
-Modelling problems containing a mixture of Boolean and numerical variables is a long-standing interest of Artificial Intelligence.
-However, performing inference and learning in hybrid domains is a particularly daunting task.
-The ability to model this kind of domains is crucial in "learning to design" tasks, that is, learning applications where the goal is to learn from examples how to perform automatic de novo design of novel objects.
-In this paper we present Structured Learning Modulo Theories, a max-margin approach for learning in hybrid domains based on Satisfiability Modulo Theories, which allows to combine Boolean reasoning and optimization over continuous linear arithmetical constraints.
-We validate our method on artificial and real world scenarios.

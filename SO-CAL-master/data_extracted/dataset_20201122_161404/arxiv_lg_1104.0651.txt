@@ -1,6 +1,0 @@
-We propose a new clustering method that can be regarded as a numerical method to compute the proximity gestalt.
-The method analyzes edge length statistics in the MST of the dataset and provides an a contrario cluster detection criterion.
-The approach is fully parametric on the chosen distance and can detect arbitrarily shaped clusters.
-The method is also automatic, in the sense that only a single parameter is left to the user.
-This parameter has an intuitive interpretation as it controls the expected number of false detections.
-We show that the iterative application of our method can (1) provide robustness to noise and (2) solve a masking phenomenon in which a highly populated and salient cluster dominates the scene and inhibits the detection of less-populated, but still salient, clusters.

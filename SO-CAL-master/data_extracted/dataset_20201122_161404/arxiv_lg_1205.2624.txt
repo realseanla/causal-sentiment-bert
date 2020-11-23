@@ -1,6 +1,0 @@
-The introduction of loopy belief propagation (LBP) revitalized the application of graphical models in many domains.
-Many recent works present improvements on the basic LBP algorithm in an attempt to overcome convergence and local optima problems.
-Notable among these are convexified free energy approximations that lead to inference procedures with provable convergence and quality properties.
-However, empirically LBP still outperforms most of its convex variants in a variety of settings, as we also demonstrate here.
-Motivated by this fact we seek convexified free energies that directly approximate the Bethe free energy.
-We show that the proposed approximations compare favorably with state-of-the art convex free energy approximations.

@@ -1,3 +1,0 @@
-We use random geometric graphs to describe clusters of higher dimensional data points which are bijectively mapped to a (possibly) lower dimensional space where an equivalent random cluster model is used to calculate the expected number of modes to be found when separating the data of a multi-modal data set into distinct clusters.
-Furthermore, as a function of the expected number of modes and the number of data points in the sample, an upper bound on a given distance measure is found such that data points have the greatest correlation if their mutual distances from a common center is less than or equal to the calculated bound.
-Anomalies are exposed, which lie outside of the union of all regularized clusters of data points.

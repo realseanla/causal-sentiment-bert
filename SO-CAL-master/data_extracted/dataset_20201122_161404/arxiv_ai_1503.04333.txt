@@ -1,6 +1,0 @@
-The idea of dynamic move chains has been described in a preceding paper [6].
-It allows the search tree to be forward-pruned, which is known to be dangerous, because that can remove important moves which would only be evaluated through a more exhaustive search process.
-This paper has added to the forward-pruning technique, through the use of 'Move Tables' that can act in the same way as Transposition Tables, but for moves not positions.
-They use an efficient memory structure and have put the design into the context of short or long-term memories.
-These can allow the search to be broadened, making it more reliable and are relatively independent, allowing some configuration as to how much to use.
-It has advanced some of the future work theory of the earlier paper and made more explicit where logical plans or more knowledge-based approaches might be applied.

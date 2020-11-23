@@ -1,0 +1,5 @@
+We introduce a model-free algorithm for learning in Markov decision processes with parameterized actions-discrete actions with continuous parameters.
+At each step the agent must select both which action to use and which parameters to use with this action.
+This models domains where there are distinct actions which can be adjusted to a particular state.
+We introduce the Q-PAMDP algorithm for learning in these domains.
+We show that Q-PAMDP converges to a local optima, and compare different approaches in a robot soccer goal-scoring domain and a platformer domain.

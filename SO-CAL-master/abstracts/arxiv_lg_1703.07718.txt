@@ -1,0 +1,4 @@
+Finding features that disentangle the different causes of variation in real data is a difficult task, that has nonetheless received considerable attention in static domains like natural images.
+Interactive environments, in which an agent can deliberately take actions, offer an opportunity to tackle this task better, because the agent can experiment with different actions and observe their effects.
+We introduce the idea that in interactive environments, latent factors that control the variation in observed data can be identified by figuring out what the agent can control.
+We propose a naive method to find factors that explain or measure the effect of the actions of a learner, and test it in illustrative experiments.

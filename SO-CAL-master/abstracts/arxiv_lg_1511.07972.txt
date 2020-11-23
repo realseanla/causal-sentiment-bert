@@ -1,0 +1,11 @@
+Embedding learning, a.k.a.
+representation learning, has been shown to be able to model large-scale semantic knowledge graphs.
+A key concept is a mapping of the knowledge graph to a tensor representation whose entries are predicted by models using latent representations of generalized entities.
+In recent publications the embedding models were extended to also consider temporal evolutions, temporal patterns and subsymbolic representations.
+These extended models were used successfully to predict clinical events like procedures, lab measurements, and diagnoses.
+In this paper, we attempt to map these embedding models, which were developed purely as solutions to technical problems, to various cognitive memory functions, in particular to semantic and concept memory, episodic memory and sensory memory.
+We also make an analogy between a predictive model, which uses entity representations derived in memory models, to working memory.
+Cognitive memory functions are typically classified as long-term or short-term memory, where long-term memory has the subcategories declarative memory and non-declarative memory and the short term memory has the subcategories sensory memory and working memory.
+There is evidence that these main cognitive categories are partially dissociated from one another in the brain, as expressed in their differential sensitivity to brain damage.
+However, there is also evidence indicating that the different memory functions are not mutually independent.
+A hypothesis that arises out off this work is that mutual information exchange can be achieved by sharing or coupling of distributed latent representations of entities across different memory functions.

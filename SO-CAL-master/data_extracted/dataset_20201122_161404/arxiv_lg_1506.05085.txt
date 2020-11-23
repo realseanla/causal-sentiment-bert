@@ -1,5 +1,0 @@
-We present a new model for time series classification, called the hidden-unit logistic model, that uses binary stochastic hidden units to model latent structure in the data.
-The hidden units are connected in a chain structure that models temporal dependencies in the data.
-Compared to the prior models for time series classification such as the hidden conditional random field, our model can model very complex decision boundaries because the number of latent states grows exponentially with the number of hidden units.
-We demonstrate the strong performance of our model in experiments on a variety of (computer vision) tasks, including handwritten character recognition, speech recognition, facial expression, and action recognition.
-We also present a state-of-the-art system for facial action unit detection based on the hidden-unit logistic model.

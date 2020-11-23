@@ -1,0 +1,7 @@
+We extend the effective SKIP-GRAM model of Mikolov et al.
+(2013) by taking visual information into account.
+Like S KIP - GRAM , our multimodal models (MMSKIP-GRAM) build vector-based word representations by learning to predict linguistic contexts in text corpora.
+However, for a restricted set of words, the models are also exposed to visual representations of the objects they denote (extracted from natural images), and must predict linguistic and visual features jointly.
+The MMS KIP - GRAM models achieve excellent performance on a variety of semantic benchmarks.
+Moreover, since they propagate visual information to all words, we also use them to improve image labeling and retrieval in the challenging zero-shot setup, where the test concepts are not seen in training.
+Finally, the MMS KIP - GRAM models discover intriguing vision-related properties of abstract words, paving the way to realistic implementations of embodied theories of meaning.

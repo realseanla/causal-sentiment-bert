@@ -1,4 +1,0 @@
-The adaptation to situations of sequential choice under uncertainty of decision criteria which deviate from (subjective) expected utility raises the problem of ensuring the selection of a nondominated strategy.
-In particular, when following the suggestion of Machina and McClennen of giving up separability (also known as consequentialism), which requires the choice of a substrategy in a subtree to depend only on data relevant to that subtree, one must renounce to the use of dynamic programming, since Bellman's principle is no longer valid.
-An interpretation of McClennen's resolute choice, based on cooperation between the successive Selves of the decision maker, is proposed.
-Implementations of resolute choice which prevent Money Pumps negative prices of information or, more generally, choices of dominated strategies, while remaining computationally tractable, are proposed.

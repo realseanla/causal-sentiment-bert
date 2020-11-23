@@ -1,6 +1,0 @@
-Views are a standard abstraction in constraint programming: They make it possible to implement a single version of each constraint, while avoiding to create new variables and constraints that would slow down propagation.
-Traditional constraint-programming systems provide the concept of {\em variable views} which implement a view of the type $y = f(x)$ by delegating all (domain and constraint) operations on variable $y$ to variable $x$.
-This paper proposes the alternative concept of {\em domain views} which only delegate domain operations.
-Domain views preserve the benefits of variable views but simplify the implementation of value-based propagation.
-Domain views also support non-injective views compositionally, expanding the scope of views significantly.
-Experimental results demonstrate the practical benefits of domain views.

@@ -1,4 +1,0 @@
-MEASP is a multi-engine solver for ground ASP programs.
-It exploits algorithm selection techniques based on classification to select one among a set of out-of-the-box heterogeneous ASP solvers used as black-box engines.
-In this paper we report on (i) a new optimized implementation of MEASP; and (ii) an attempt of applying algorithm selection to non-ground programs.
-An experimental analysis reported in the paper shows that (i) the new implementation of \measp is substantially faster than the previous version; and (ii) the multi-engine recipe can be applied to the evaluation of non-ground programs with some benefits.

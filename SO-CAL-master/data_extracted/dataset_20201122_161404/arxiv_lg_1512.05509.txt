@@ -1,4 +1,0 @@
-This paper explores the performance of fitted neural Q iteration for reinforcement learning in several partially observable environments, using three recurrent neural network architectures: Long Short-Term Memory, Gated Recurrent Unit and MUT1, a recurrent neural architecture evolved from a pool of several thousands candidate architectures.
-A variant of fitted Q iteration, based on Advantage values instead of Q values, is also explored.
-The results show that GRU performs significantly better than LSTM and MUT1 for most of the problems considered, requiring less training episodes and less CPU time before learning a very good policy.
-Advantage learning also tends to produce better results.

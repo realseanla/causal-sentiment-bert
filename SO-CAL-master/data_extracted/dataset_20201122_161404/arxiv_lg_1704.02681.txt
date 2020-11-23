@@ -1,4 +1,0 @@
-This paper explores the use of Pyramid Vector Quantization (PVQ) to reduce the computational cost for a variety of neural networks (NNs) while, at the same time, compressing the weights that describe them.
-This is based on the fact that the dot product between an N dimensional vector of real numbers and an N dimensional PVQ vector can be calculated with only additions and subtractions and one multiplication.
-This is advantageous since tensor products, commonly used in NNs, can be re-conduced to a dot product or a set of dot products.
-Finally, it is stressed that any NN architecture that is based on an operation that can be re-conduced to a dot product can benefit from the techniques described here.

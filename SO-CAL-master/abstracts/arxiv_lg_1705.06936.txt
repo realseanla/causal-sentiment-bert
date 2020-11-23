@@ -1,0 +1,4 @@
+The asynchronous nature of the state-of-the-art reinforcement learning algorithms such as the Asynchronous Advantage Actor-Critic algorithm, makes them exceptionally suitable for CPU computations.
+However, given the fact that deep reinforcement learning often deals with interpreting visual information, a large part of the train and inference time is spent performing convolutions.
+In this work we present our results on learning strategies in Atari games using a Convolutional Neural Network, the Math Kernel Library and TensorFlow 0.11rc0 machine learning framework.
+We also analyze effects of asynchronous computations on the convergence of reinforcement learning algorithms.

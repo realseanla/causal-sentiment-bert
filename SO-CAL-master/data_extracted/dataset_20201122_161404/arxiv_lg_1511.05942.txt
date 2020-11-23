@@ -1,7 +1,0 @@
-Large amount of Electronic Health Record (EHR) data have been collected over millions of patients over multiple years.
-The rich longitudinal EHR data documented the collective experiences of physicians including diagnosis, medication prescription and procedures.
-We argue it is possible now to leverage the EHR data to model how physicians behave, and we call our model Doctor AI.
-Towards this direction of modeling clinical bahavior of physicians, we develop a successful application of Recurrent Neural Networks (RNN) to jointly forecast the future disease diagnosis and medication prescription along with their timing.
-Unlike a traditional classification model where a single target is of interest, our model can assess entire history of patients and make continuous and multilabel prediction based on patients' historical data.
-We evaluate the performance of the proposed method on a large real-world EHR data over 250K patients over 8 years.
-We observe Doctor AI achieves up to 79 percent recall@30, significantly higher than several baselines.

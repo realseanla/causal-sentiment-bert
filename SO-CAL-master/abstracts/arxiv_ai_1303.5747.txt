@@ -1,0 +1,4 @@
+In general, the best explanation for a given observation makes no promises on how good it is with respect to other alternative explanations.
+A major deficiency of message-passing schemes for belief revision in Bayesian networks is their inability to generate alternatives beyond the second best.
+In this paper, we present a general approach based on linear constraint systems that naturally generates alternative explanations in an orderly and highly efficient manner.
+This approach is then applied to cost-based abduction problems as well as belief revision in Bayesian net works.

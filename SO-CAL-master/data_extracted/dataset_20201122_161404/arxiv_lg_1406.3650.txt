@@ -1,7 +1,0 @@
-The field of statistical machine learning has seen a rapid progress in complex hierarchical Bayesian models.
-In Stochastic Variational Inference (SVI), the inference problem is mapped to an optimization problem involving stochastic gradients.
-While this scheme was shown to scale up to massive data sets, the intrinsic noise of the stochastic gradients impedes a fast convergence.
-Inspired by gradient averaging methods from stochastic optimization, we propose a variance reduction scheme tailored to SVI by averaging successively over the sufficient statistics of the local variational parameters.
-Its simplicity comes at the cost of biased stochastic gradients.
-We show that we can eliminate large parts of the bias while obtaining the same variance reduction as in simple gradient averaging schemes.
-We explore the tradeoff between variance and bias based on the example of Latent Dirichlet Allocation.

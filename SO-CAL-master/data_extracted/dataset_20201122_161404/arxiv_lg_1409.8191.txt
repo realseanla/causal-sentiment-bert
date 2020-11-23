@@ -1,4 +1,0 @@
-This paper presents a new contextual bandit algorithm, NeuralBandit, which does not need hypothesis on stationarity of contexts and rewards.
-Several neural networks are trained to modelize the value of rewards knowing the context.
-Two variants, based on multi-experts approach, are proposed to choose online the parameters of multi-layer perceptrons.
-The proposed algorithms are successfully tested on a large dataset with and without stationarity of rewards.

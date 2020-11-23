@@ -1,0 +1,6 @@
+Structured prediction applications often involve complex inference problems that require the use of approximate methods.
+Approximations based on linear programming (LP) relaxations have proved particularly successful in this setting, with both theoretical and empirical support.
+Despite the general intractability of inference, it has been observed that in many real-world applications the LP relaxation is often tight.
+In this work we propose a theoretical explanation to this striking observation.
+In particular, we show that learning with LP relaxed inference encourages tightness of training instances.
+We complement this result with a generalization bound showing that tightness generalizes from train to test data.

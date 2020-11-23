@@ -1,0 +1,6 @@
+Many machine learning applications require the ability to learn from and reason about noisy multi-relational data.
+To address this, several effective representations have been developed that provide both a language for expressing the structural regularities of a domain, and principled support for probabilistic inference.
+In addition to these two aspects, however, many applications also involve a third aspect-the need to reason about similarities-which has not been directly supported in existing frameworks.
+This paper introduces probabilistic similarity logic (PSL), a general-purpose framework for joint reasoning about similarity in relational domains that incorporates probabilistic reasoning about similarities and relational structure in a principled way.
+PSL can integrate any existing domain-specific similarity measures and also supports reasoning about similarities between sets of entities.
+We provide efficient inference and learning techniques for PSL and demonstrate its effectiveness both in common relational tasks and in settings that require reasoning about similarity.

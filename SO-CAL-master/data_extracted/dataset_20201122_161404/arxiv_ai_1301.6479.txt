@@ -1,7 +1,0 @@
-Ontology-based data access is concerned with querying incomplete data sources in the presence of domain-specific knowledge provided by an ontology.
-A central notion in this setting is that of an ontology-mediated query, which is a database query coupled with an ontology.
-In this paper, we study several classes of ontology-mediated queries, where the database queries are given as some form of conjunctive query and the ontologies are formulated in description logics or other relevant fragments of first-order logic, such as the guarded fragment and the unary-negation fragment.
-The contributions of the paper are three-fold.
-First, we characterize the expressive power of ontology-mediated queries in terms of fragments of disjunctive datalog.
-Second, we establish intimate connections between ontology-mediated queries and constraint satisfaction problems (CSPs) and their logical generalization, MMSNP formulas.
-Third, we exploit these connections to obtain new results regarding (i) first-order rewritability and datalog-rewritability of ontology-mediated queries, (ii) P/NP dichotomies for ontology-mediated queries, and (iii) the query containment problem for ontology-mediated queries.

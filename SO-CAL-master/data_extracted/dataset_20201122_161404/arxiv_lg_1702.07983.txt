@@ -1,6 +1,0 @@
-Despite the successes in capturing continuous distributions, the application of generative adversarial networks (GANs) to discrete settings, like natural language tasks, is rather restricted.
-The fundamental reason is the difficulty of back-propagation through discrete random variables combined with the inherent instability of the GAN training objective.
-To address these problems, we propose Maximum-Likelihood Augmented Discrete Generative Adversarial Networks.
-Instead of directly optimizing the GAN objective, we derive a novel and low-variance objective using the discriminator's output that follows corresponds to the log-likelihood.
-Compared with the original, the new objective is proved to be consistent in theory and beneficial in practice.
-The experimental results on various discrete datasets demonstrate the effectiveness of the proposed approach.

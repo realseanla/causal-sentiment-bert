@@ -1,6 +1,0 @@
-The problem of rare and unknown words is an important issue that can potentially effect the performance of many NLP systems, including both traditional count based models and deep learning models.
-We propose a novel way to deal with the rare and unseen words for the neural network models with attention.
-Our model uses two softmax layers in order to predict the next word in conditional language models: one of the softmax layers predicts the location of a word in the source sentence, and the other softmax layer predicts a word in the shortlist vocabulary.
-The decision of which softmax layer to use at each timestep is adaptively made by an MLP which is conditioned on the context.
-We motivate this work from a psychological evidence that humans naturally have a tendency to point towards objects in the context or the environment when the name of an object is not known.
-Using our proposed model, we observe improvements in two tasks, neural machine translation on the Europarl English to French parallel corpora and text summarization on the Gigaword dataset.

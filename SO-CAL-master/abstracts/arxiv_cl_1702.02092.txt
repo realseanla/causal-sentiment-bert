@@ -1,0 +1,4 @@
+We report investigations into speaker classification of larger quantities of unlabelled speech data using small sets of manually phonemically annotated speech.
+The Kohonen speech typewriter is a semi-supervised method comprised of self-organising maps (SOMs) that achieves low phoneme error rates.
+A SOM is a 2D array of cells that learn vector representations of the data based on neighbourhoods.
+In this paper, we report a method to evaluate pronunciation using multilevel SOMs with /hVd/ single syllable utterances for the study of vowels, for Australian pronunciation.

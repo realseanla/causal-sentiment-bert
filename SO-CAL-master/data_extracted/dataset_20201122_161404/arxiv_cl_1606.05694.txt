@@ -1,6 +1,0 @@
-This paper describes our approach for the Detecting Stance in Tweets task (SemEval-2016 Task 6).
-We utilized recent advances in short text categorization using deep learning to create word-level and character-level models.
-The choice between word-level and character-level models in each particular case was informed through validation performance.
-Our final system is a combination of classifiers using word-level or character-level models.
-We also employed novel data augmentation techniques to expand and diversify our training dataset, thus making our system more robust.
-Our system achieved a macro-average precision, recall and F1-scores of 0.67, 0.61 and 0.635 respectively.

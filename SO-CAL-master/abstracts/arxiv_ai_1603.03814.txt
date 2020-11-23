@@ -1,0 +1,5 @@
+The Maximum Satisfiability (MaxSAT) problem is the problem of finding a truth assignment that maximizes the number of satisfied clauses of a given Boolean formula in Conjunctive Normal Form (CNF).
+Many exact solvers for MaxSAT have been developed during recent years, and many of them were presented in the well-known SAT conference.
+Algorithms for MaxSAT generally fall into two categories: (1) branch and bound algorithms and (2) algorithms that use successive calls to a SAT solver (SAT- based), which this paper in on.
+In practical problems, SAT-based algorithms have been shown to be more efficient.
+This paper provides an experimental investigation to compare the performance of recent SAT-based and branch and bound algorithms on the benchmarks of the MaxSAT Evaluations.

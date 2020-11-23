@@ -1,7 +1,0 @@
-This paper investigates an important problem in stream mining, i.e., classification under streaming emerging new classes or SENC.
-The common approach is to treat it as a classification problem and solve it using either a supervised learner or a semi-supervised learner.
-We propose an alternative approach by using unsupervised learning as the basis to solve this problem.
-The SENC problem can be decomposed into three sub problems: detecting emerging new classes, classifying for known classes, and updating models to enable classification of instances of the new class and detection of more emerging new classes.
-The proposed method employs completely random trees which have been shown to work well in unsupervised learning and supervised learning independently in the literature.
-This is the first time, as far as we know, that completely random trees are used as a single common core to solve all three sub problems: unsupervised learning, supervised learning and model update in data streams.
-We show that the proposed unsupervised-learning-focused method often achieves significantly better outcomes than existing classification-focused methods.

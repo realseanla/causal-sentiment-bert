@@ -1,6 +1,0 @@
-The nearest neighbor classifier is one of the most widely used models for classification.
-The selection of prototype instances is an important problem for its applications, as the efficiency of the model largely depends on the compactness of the prototype set.
-The existing studies on prototype selection have been primarily motivated by instance-based analyses of the class distribution and consistency among local neighbors.
-In this paper, we explore an approximation and a parametrization of the nearest neighbor rule, which allows us to formulate the violation of the rule over the training set with regards to the prototypes and take advantage of a discriminative learning principle.
-We show that our approach reduces to a large-margin learning based on a sparse representation of the relations among the neighbors.
-We demonstrate the advantage of the proposed algorithm by empirical comparison with the recent state-of-the-art methods over a collection of public benchmarks.

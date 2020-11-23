@@ -1,6 +1,0 @@
-We are interested in bridging the world of natural language and the world of the semantic web in particular to support natural multilingual access to the web of data.
-In this paper we introduce a new type of lexical ontology called interlingual lexical ontology (ILexicOn), which uses semantic web formalisms to make each interlingual lexical unit class (ILUc) support the projection of its semantic decomposition on itself.
-After a short overview of existing lexical ontologies, we briefly introduce the semantic web formalisms we use.
-We then present the three layered architecture of our approach: i) the interlingual lexical meta-ontology (ILexiMOn); ii) the ILexicOn where ILUcs are formally defined; iii) the data layer.
-We illustrate our approach with a standalone ILexicOn, and introduce and explain a concise human-readable notation to represent ILexicOns.
-Finally, we show how semantic web formalisms enable the projection of a semantic decomposition on the decomposed ILUc.

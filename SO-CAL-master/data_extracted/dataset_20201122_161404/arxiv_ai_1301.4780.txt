@@ -1,7 +1,0 @@
-The Constructive Solid Geometry (CSG) is a data model providing a set of binary Boolean operators such as Union, Difference and Intersection.
-In this work, these operators are used to compute topological relations between objects defined by the constraints of the nine Intersection Model (9-IM) from Egenhofer.
-With the help of these constraints, we define a procedure to compute the topological relations on CSG objects.
-These topological relations are Disjoint, Contains, Inside, Covers, CoveredBy, Equals and Overlaps, and are defined in a top-level ontology with a specific semantic definition on relation such as Transitive, Symmetric, Asymmetric, Functional, Reflexive, and Irreflexive.
-The results of topological relations computation are stored in the ontology allowing after what to infer on these topological relationships.
-In addition, logic rules based on the Semantic Web Language allows the definition of logic programs that define which topological relationships have to be computed on which kind of objects.
-For instance, a "Building" that overlaps a "Railway" is a "RailStation".

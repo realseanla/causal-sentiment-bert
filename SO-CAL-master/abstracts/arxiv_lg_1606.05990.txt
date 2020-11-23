@@ -1,0 +1,3 @@
+We propose a new training method for a feedforward neural network having the activation functions with the geometric contraction property.
+The method consists of constructing a new functional that is less nonlinear in comparison with the classical functional by removing the nonlinearity of the activation functions from the output layer.
+We validate this new method by a series of experiments that show an improved learning speed and also a better classification error.

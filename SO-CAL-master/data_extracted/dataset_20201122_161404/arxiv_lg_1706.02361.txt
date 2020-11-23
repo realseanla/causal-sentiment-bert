@@ -1,6 +1,0 @@
-Deep neural networks (DNN) have been successfully applied for music classification including music tagging.
-However, there are several open questions regarding generalisation and best practices in the choice of network architectures, hyper-parameters and input representations.
-In this article, we investigate specific aspects of neural networks to deepen our understanding of their properties.
-We analyse and (re-)validate a large music tagging dataset to investigate the reliability of training and evaluation.
-We perform comprehensive experiments involving audio preprocessing using different time-frequency representations, logarithmic magnitude compression, frequency weighting and scaling.
-Using a trained network, we compute label vector similarities which is compared to groundtruth similarity.

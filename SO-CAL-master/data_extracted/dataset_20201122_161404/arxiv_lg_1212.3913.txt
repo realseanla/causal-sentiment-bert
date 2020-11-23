@@ -1,7 +1,0 @@
-Very often the data we encounter in practice is a collection of matrices measured from a same subject or under quite similar conditions, rather than a single one matrix.
-These matrices are linked naturally and should share some common features and at the same time they have their own individual features, due to the background in which they are measured and collected.
-In this study we proposed a new scheme for common and individual feature analysis (CIFA) on a given set of matrices, which can be viewed as a population based feature analysis and thus differs from most existing data analysis tools.
-According to whether the number of common features is known or not, two algorithms are proposed to extract the common basis shared by all the data.
-Then feature extraction can be performed on the common and individual space separately by incorporating the techniques such as dimensionality reduction and blind source separation.
-We also discussed how the proposed CIFA can be applied to classification and clustering tasks to significantly improve the performance.
-Our experimental results show some encouraging features of the proposed methods in comparison to the state-of-the-art methods on synthetic and real data.

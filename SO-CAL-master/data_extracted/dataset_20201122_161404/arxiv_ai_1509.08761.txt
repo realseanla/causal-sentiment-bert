@@ -1,6 +1,0 @@
-Fuzzy Description Logics (FDLs) are logic-based formalisms used to represent and reason with vague or imprecise knowledge.
-It has been recently shown that reasoning in most FDLs using truth values from the interval [0,1] becomes undecidable in the presence of a negation constructor and general concept inclusion axioms.
-One exception to this negative result are FDLs whose semantics is based on the infinitely valued G\"odel t-norm (G).
-In this paper, we extend previous decidability results for G-IALC to deal also with qualified number restrictions.
-Our novel approach is based on a combination of the known crispification technique for finitely valued FDLs and the automata-based procedure originally developed for reasoning in G-IALC.
-The proposed approach combines the advantages of these two methods, while removing their respective drawbacks.

@@ -1,0 +1,4 @@
+We propose a framework for Semi-Supervised Active Clustering framework (SSAC), where the learner is allowed to interact with a domain expert, asking whether two given instances belong to the same cluster or not.
+We study the query and computational complexity of clustering in this framework.
+We consider a setting where the expert conforms to a center-based clustering with a notion of margin.
+We show that there is a trade off between computational complexity and query complexity; We prove that for the case of $k$-means clustering (i.e., when the expert conforms to a solution of $k$-means), having access to relatively few such queries allows efficient solutions to otherwise NP hard problems.

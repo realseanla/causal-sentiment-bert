@@ -1,7 +1,0 @@
-In many real tasks the features are evolving, with some features being vanished and some other features augmented.
-For example, in environment monitoring some sensors expired whereas some new ones deployed; in mobile game recommendation some games dropped whereas some new ones added.
-Learning with such incremental and decremental features is crucial but rarely studied, particularly when the data coming like a stream and thus it is infeasible to keep the whole data for optimization.
-In this paper, we study this challenging problem and present the OPID approach.
-Our approach attempts to compress important information of vanished features into functions of survived features, and then expand to include the augmented features.
-It is the one-pass learning approach, which only needs to scan each instance once and does not need to store the whole data, and thus satisfy the evolving streaming data nature.
-The effectiveness of our approach is validated theoretically and empirically.

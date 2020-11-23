@@ -1,7 +1,0 @@
-Convolutional Neural Networks (CNNs) have become the state-of-the-art in supervised learning vision tasks.
-Their convolutional filters are of paramount importance for they allow to learn patterns while disregarding their locations in input images.
-When facing highly irregular domains, generalized convolutional operators based on an underlying graph structure have been proposed.
-However, these operators do not exactly match standard ones on grid graphs, and introduce unwanted additional invariance (e.g.
-with regards to rotations).
-We propose a novel approach to generalize CNNs to irregular domains using weight sharing and graph-based operators.
-Using experiments, we show that these models resemble CNNs on regular domains and offer better performance than multilayer perceptrons on distorded ones.

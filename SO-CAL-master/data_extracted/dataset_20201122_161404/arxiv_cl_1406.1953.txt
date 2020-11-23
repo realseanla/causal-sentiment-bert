@@ -1,5 +1,0 @@
-Protein-protein interaction extraction is the key precondition of the construction of protein knowledge network, and it is very important for the research in the biomedicine.
-This paper extracted directional protein-protein interaction from the biological text, using the SVM-based method.
-Experiments were evaluated on the LLL05 corpus with good results.
-The results show that dependency features are import for the protein-protein interaction extraction and features related to the interaction word are effective for the interaction direction judgment.
-At last, we analyzed the effects of different features and planed for the next step.

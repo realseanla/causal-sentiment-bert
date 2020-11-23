@@ -1,5 +1,0 @@
-We develop a new statistical machine learning paradigm, named infinite-label learning, to annotate a data point with more than one relevant labels from a candidate set, which pools both the finite labels observed at training and a potentially infinite number of previously unseen labels.
-The infinite-label learning fundamentally expands the scope of conventional multi-label learning, and better models the practical requirements in various real-world applications, such as image tagging, ads-query association, and article categorization.
-However, how can we learn a labeling function that is capable of assigning to a data point the labels omitted from the training set?
-To answer the question, we seek some clues from the recent work on zero-shot learning, where the key is to represent a class/label by a vector of semantic codes, as opposed to treating them as atomic labels.
-We validate the infinite-label learning by a PAC bound in theory and some empirical studies on both synthetic and real data.

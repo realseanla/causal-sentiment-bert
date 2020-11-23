@@ -1,5 +1,0 @@
-Inverse problems, such as denoising and source separation, are of great interest in audio and image processing.
-The classical model-based approach uses problem domain knowledge to define an appropriate objective function requiring in general an iterative inference algorithm.
-In the case of monoaural speech separation, we require robust signal models that integrate information across long temporal contexts while removing uninformative variability.
-This is achieved with a pyramid of wavelet scattering operators, which generalizes Constant Q Transforms (CQT) with extra layers of convolution and complex modulus.
-Learning Non-Negative Matrix Factorizations at different resolutions improves source separation results over fixed-resolution methods.

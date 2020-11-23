@@ -1,5 +1,0 @@
-We analyze online  and mini-batch  $k$-means variants.
-Both scale up the widely used $k$-means algorithm via stochastic approximation, and have become popular for large-scale clustering and unsupervised feature learning.
-We show, for the first time, that starting with any initial solution, they converge to a "local optimum" at rate $O(\frac{1}{t})$ (in terms of the $k$-means objective) under general conditions.
-In addition, we show if the dataset is clusterable, when initialized with a simple and scalable seeding algorithm, mini-batch $k$-means converges to an optimal $k$-means solution at rate $O(\frac{1}{t})$ with high probability.
-The $k$-means objective is non-convex and non-differentiable: we exploit ideas from recent work on stochastic gradient descent for non-convex problems  by providing a novel characterization of the trajectory of $k$-means algorithm on its solution space, and circumvent the non-differentiability problem via geometric insights about $k$-means update.

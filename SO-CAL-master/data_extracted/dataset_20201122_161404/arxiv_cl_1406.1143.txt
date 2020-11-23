@@ -1,3 +1,0 @@
-Our study identifies sentences in Wikipedia articles that are either identical or highly similar by applying techniques for near-duplicate detection of web pages.
-This is accomplished with a MapReduce implementation of minhash to identify clusters of sentences with high Jaccard similarity.
-We show that these clusters can be categorized into six different types, two of which are particularly interesting: identical sentences quantify the extent to which content in Wikipedia is copied and pasted, and near-duplicate sentences that state contradictory facts point to quality issues in Wikipedia.

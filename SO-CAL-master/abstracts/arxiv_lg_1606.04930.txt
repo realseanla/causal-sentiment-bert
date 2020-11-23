@@ -1,0 +1,5 @@
+Our goal is to be able to build a generative model from a deep neural network architecture to try to create music that has both harmony and melody and is passable as music composed by humans.
+Previous work in music generation has mainly been focused on creating a single melody.
+More recent work on polyphonic music modeling, centered around time series probability density estimation, has met some partial success.
+In particular, there has been a lot of work based off of Recurrent Neural Networks combined with Restricted Boltzmann Machines (RNN-RBM) and other similar recurrent energy based models.
+Our approach, however, is to perform end-to-end learning and generation with deep neural nets alone.

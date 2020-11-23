@@ -1,0 +1,3 @@
+Search for binary sequences with a high figure of merit, also known as the low autocorrelation binary sequence problem, represents a formidable computational challenge.
+In 2003, two stochastic solvers reported computational complexity of $O(1.423^L)$ and $O(1.370^L)$, refined to $O(1.5097^L)$ and $O(1.4072^L)$ for L odd in this paper.
+The solvers from 2009, in our experiments, demonstrate average-case asymptotic performance of $114.515*1.3464^L$ for L even, and $320.360*1.3421^L$ for L odd.

@@ -1,4 +1,0 @@
-The ability to model search in a constraint solver can be an essential asset for solving combinatorial problems.
-However, existing infrastructure for defining search heuristics is often inadequate.
-Either modeling capabilities are extremely limited or users are faced with a general-purpose programming language whose features are not tailored towards writing search heuristics.
-As a result, major improvements in performance may remain unexplored.

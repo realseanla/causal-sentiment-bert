@@ -1,0 +1,9 @@
+Due to its simplicity and versatility, k-means remains popular since it was proposed three decades ago.
+Since then, continuous efforts have been taken to enhance its performance.
+Unfortunately, a good trade-off between quality and efficiency is hardly reached.
+In this paper, a novel k-means variant is presented.
+Different from most of k-means variants, the clustering procedure is explicitly driven by an objective function, which is feasible for the whole l2-space.
+The classic egg-chicken loop in k-means has been simplified to a pure stochastic optimization procedure.
+K-means therefore becomes simpler, faster and better.
+The effectiveness of this new variant has been studied extensively in different contexts, such as document clustering, nearest neighbor search and image clustering.
+Superior performance is observed across different scenarios.

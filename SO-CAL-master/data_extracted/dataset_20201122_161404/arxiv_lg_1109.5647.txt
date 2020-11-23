@@ -1,8 +1,0 @@
-Stochastic gradient descent (SGD) with averaging is a simple and popular method to solve stochastic optimization problems which arise in machine learning.
-For strongly convex problems, its convergence rate was known to be at most O(\log(T)/T).
-However, recent results showed that using a different algorithm, one can get an optimal O(1/T) rate.
-This might lead one to believe that SGD is suboptimal, and maybe should even be replaced as a method of choice.
-In this paper, we investigate the convergence rate of SGD with averaging in a stochastic setting.
-We show that for smooth problems, the algorithm attains the optimal O(1/T) rate.
-However, for non-smooth problems, the convergence rate might really be \Omega(\log(T)/T), and this is not just an artifact of the analysis.
-On the flip side, we show that a simple modification of the averaging step suffices to recover the O(1/T) step, and no significant change of the algorithm is necessary.

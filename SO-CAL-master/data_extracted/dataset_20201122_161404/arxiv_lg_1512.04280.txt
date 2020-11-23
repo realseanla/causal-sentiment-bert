@@ -1,6 +1,0 @@
-For speech recognition, deep neural network (DNN) have significantly improved the recognition accuracy in most of benchmark datasets and application domains.
-However, compared to the conventional Gaussian mixture models(GMMs), DNN-based acoustic models usually have much larger number of model parameters, making it challenging for their applications in resource constrained platforms, e.g.
-mobile devices.
-In this paper, we study the application of the recently proposed highway network to train small-footprint DNNs, which are thinner and deeper and have significantly smaller number of model parameters compared to conventional DNNs.
-We investigated this approach on the AMI meeting speech transcription corpus which has around 70 hours of audio data.
-The highway neural networks constantly outperformed their plain DNN counterparts, and the number of model parameters can be reduced significantly without sacrificing the recognition accuracy.

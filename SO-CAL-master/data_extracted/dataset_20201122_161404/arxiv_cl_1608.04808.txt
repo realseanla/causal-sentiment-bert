@@ -1,4 +1,0 @@
-Many social media platforms offer a mechanism for readers to react to comments, both positively and negatively, which in aggregate can be thought of as community endorsement.
-This paper addresses the problem of predicting community endorsement in online discussions, leveraging both the participant response structure and the text of the comment.
-The different types of features are integrated in a neural network that uses a novel architecture to learn latent modes of discussion structure that perform as well as deep neural networks but are more interpretable.
-In addition, the latent modes can be used to weight text features thereby improving prediction accuracy.

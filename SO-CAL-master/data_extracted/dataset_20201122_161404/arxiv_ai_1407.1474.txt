@@ -1,6 +1,0 @@
-This paper discusses a fuzzy model for multi-level human emotions recognition by computer systems through keyboard keystrokes, mouse and touchscreen interactions.
-This model can also be used to detect the other possible emotions at the time of recognition.
-Accuracy measurements of human emotions by the fuzzy model are discussed through two methods; the first is accuracy analysis and the second is false positive rate analysis.
-This fuzzy model detects more emotions, but on the other hand, for some of emotions, a lower accuracy was obtained with the comparison with the non-fuzzy human emotions detection methods.
-This system was trained and tested by Support Vector Machine (SVM) to recognize the users' emotions.
-Overall, this model represents a closer similarity between human brain detection of emotions and computer systems.

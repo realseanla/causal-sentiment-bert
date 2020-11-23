@@ -1,4 +1,0 @@
-Let $p$ be an unknown and arbitrary probability distribution over $[0,1)$.
-We consider the problem of {\em density estimation}, in which a learning algorithm is given i.i.d.
-draws from $p$ and must (with high probability) output a hypothesis distribution that is close to $p$.
-The main contribution of this paper is a highly efficient density estimation algorithm for learning using a variable-width histogram, i.e., a hypothesis distribution with a piecewise constant probability density function.

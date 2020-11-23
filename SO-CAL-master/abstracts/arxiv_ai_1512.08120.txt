@@ -1,0 +1,7 @@
+Multi-relational learning has received lots of attention from researchers in various research communities.
+Most existing methods either suffer from superlinear per-iteration cost, or are sensitive to the given ranks.
+To address both issues, we propose a scalable core tensor trace norm Regularized Orthogonal Iteration Decomposition (ROID) method for full or incomplete tensor analytics, which can be generalized as a graph Laplacian regularized version by using auxiliary information or a sparse higher-order orthogonal iteration (SHOOI) version.
+We first induce the equivalence relation of the Schatten p-norm (0&lt;p&lt;\infty) of a low multi-linear rank tensor and its core tensor.
+Then we achieve a much smaller matrix trace norm minimization problem.
+Finally, we develop two efficient augmented Lagrange multiplier algorithms to solve our problems with convergence guarantees.
+Extensive experiments using both real and synthetic datasets, even though with only a few observations, verified both the efficiency and effectiveness of our methods.

@@ -1,8 +1,0 @@
-Research on multilingual speech recognition remains attractive yet challenging.
-Recent studies focus on learning shared structures under the multi-task paradigm, in particular a feature sharing structure.
-This approach has been found effective to improve performance on each individual language.
-However, this approach is only useful when the deployed system supports just one language.
-In a true multilingual scenario where multiple languages are allowed, performance will be significantly reduced due to the competition among languages in the decoding space.
-This paper presents a multi-task recurrent model that involves a multilingual speech recognition (ASR) component and a language recognition (LR) component, and the ASR component is informed of the language information by the LR component, leading to a language-aware recognition.
-We tested the approach on an English-Chinese bilingual recognition task.
-The results show that the proposed multi-task recurrent model can improve performance of multilingual recognition systems.

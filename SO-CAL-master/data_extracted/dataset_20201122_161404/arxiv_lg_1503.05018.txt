@@ -1,5 +1,0 @@
-Time series shapelets are discriminative subsequences and their similarity to a time series can be used for time series classification.
-Since the discovery of time series shapelets is costly in terms of time, the applicability on long or multivariate time series is difficult.
-In this work we propose Ultra-Fast Shapelets that uses a number of random shapelets.
-It is shown that Ultra-Fast Shapelets yield the same prediction quality as current state-of-the-art shapelet-based time series classifiers that carefully select the shapelets by being by up to three orders of magnitudes.
-Since this method allows a ultra-fast shapelet discovery, using shapelets for long multivariate time series classification becomes feasible.

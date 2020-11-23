@@ -1,0 +1,9 @@
+Many datasets have multiple tables connected by key-foreign key dependencies.
+Data scientists usually join all tables to bring in extra features from the so-called dimension tables.
+Unlike the statistical relational learning setting, such joins do not cause record duplications, which means regular IID models are typically used.
+Recent work demonstrated the possibility of using foreign key features as representatives for the dimension tables' features and eliminating the latter a priori, potentially saving runtime and effort of data scientists.
+However, the prior work was restricted to linear models and it established a dichotomy of when dimension tables are safe to discard due to extra overfitting caused by the use of foreign key features.
+In this work, we revisit that question for two popular high capacity models: decision tree and SVM with RBF kernel.
+Our extensive empirical and simulation-based analyses show that these two classifiers are surprisingly and counter-intuitively more robust to discarding dimension tables and face much less extra overfitting than linear models.
+We provide intuitive explanations for their behavior and identify new open questions for further ML theoretical research.
+We also identify and resolve two key practical bottlenecks in using foreign key features.

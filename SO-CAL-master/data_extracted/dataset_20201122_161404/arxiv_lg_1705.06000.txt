@@ -1,5 +1,0 @@
-This paper presents a novel framework in which image cosegmentation and colocalization are cast into a single optimization problem that integrates information from low level appearance cues with that of high level localization cues in a very weakly supervised manner.
-In contrast to multi-task learning paradigm that learns similar tasks using a shared representation, the proposed framework leverages two representations at different levels and simultaneously discriminates between foreground and background at the bounding box and superpixel level using discriminative clustering.
-We show empirically that constraining the two problems at different scales enables the transfer of semantic localization cues to improve cosegmentation output whereas local appearance based segmentation cues help colocalization.
-The unified framework outperforms strong baseline approaches, of learning the two problems separately, by a large margin on four benchmark datasets.
-Furthermore, it obtains competitive results compared to the state of the art for cosegmentation on two benchmark datasets and second best result for colocalization on Pascal VOC 2007.

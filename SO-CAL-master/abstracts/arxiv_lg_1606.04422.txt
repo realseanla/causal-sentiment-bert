@@ -1,0 +1,6 @@
+We propose real logic: a uniform framework for integrating automatic learning and reasoning.
+Real logic is defined on a full first-order language where formulas have truth-value in the interval [0,1] and semantics defined concretely on the domain of real numbers.
+Logical constants are interpreted as (feature) vectors of real numbers.
+Real logic promotes a well-founded integration of deductive reasoning on knowledge-bases with efficient, data-driven relational machine learning.
+We show how Real Logic can be implemented in deep Tensor Neural Networks with the use of Google's TensorFlow primitives.
+The paper concludes with experiments on a simple but representative example of knowledge completion.

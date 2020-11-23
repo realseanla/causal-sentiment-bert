@@ -1,7 +1,0 @@
-To improve user satisfaction, mobile app developers are interested in relevant user opinions such as complaints or suggestions.
-An important source for such opinions is user reviews on online app markets.
-However, manual review analysis for useful opinions is often challenging due to the large amount and the noisy-nature of user reviews.
-To address this problem, we propose M.A.R.K, a keyword-based framework for semiautomated review analysis.
-The key task of M.A.R.K is to analyze reviews for keywords of potential interest which developers can use to search for useful opinions.
-We have developed several techniques for that task including: 1) keyword extracting with customized regularization algorithms; 2) keyword grouping with distributed representation; and 3) keyword ranking with ratings and frequencies analysis.
-Our empirical evaluation and case studies show that M.A.R.K can identify keywords of high interest and provide developers with useful user opinions.

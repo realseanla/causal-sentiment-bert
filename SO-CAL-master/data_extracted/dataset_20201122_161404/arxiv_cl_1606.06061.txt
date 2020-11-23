@@ -1,4 +1,0 @@
-Acoustic models based on long short-term memory recurrent neural networks (LSTM-RNNs) were applied to statistical parametric speech synthesis (SPSS) and showed significant improvements in naturalness and latency over those based on hidden Markov models (HMMs).
-This paper describes further optimizations of LSTM-RNN-based SPSS for deployment on mobile devices; weight quantization, multi-frame inference, and robust inference using an {\epsilon}-contaminated Gaussian loss function.
-Experimental results in subjective listening tests show that these optimizations can make LSTM-RNN-based SPSS comparable to HMM-based SPSS in runtime speed while maintaining naturalness.
-Evaluations between LSTM-RNN- based SPSS and HMM-driven unit selection speech synthesis are also presented.

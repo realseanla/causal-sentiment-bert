@@ -1,6 +1,0 @@
-Present incremental learning methods are limited in the ability to achieve reliable credit assignment over a large number time steps (or events).
-However, this situation is typical for cases where the dynamical system to be controlled requires relatively frequent control updates in order to maintain stability or robustness yet has some action-consequences which must be established over relatively long periods of time.
-To address this problem, the learning capabilities of a control architecture comprised of two Backpropagated Adaptive Critics (BACs) in a two-level hierarchy with continuous actions are explored.
-The high-level BAC updates less frequently than the low-level BAC and controls the latter to some degree.
-The response of the low-level to high-level signals can either be determined a priori or it can emerge during learning.
-A general approach called Response Induction Learning is introduced to address the latter case.

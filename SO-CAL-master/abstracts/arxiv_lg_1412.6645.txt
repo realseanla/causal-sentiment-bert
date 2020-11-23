@@ -1,0 +1,2 @@
+We trained a Siamese network with multi-task same/different information on a speech dataset, we found that learning a good representation for one task helps in the other too, and joint-learning of both tasks gave the best results.
+The first task was to discriminate between two same or different words, and the second was to discriminate between two same or different talkers.

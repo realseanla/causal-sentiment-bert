@@ -1,4 +1,0 @@
-In this paper, we propose an algebraic similarity measure {\sigma}BS (BS stands for BitSim) for assigning semantic similarity score to concept definitions in ALCH+ an expressive fragment of Description Logics (DL).
-We define an algebraic interpretation function, I_B, that maps a concept definition to a unique string ({\omega}_B) called bit-code) over an alphabet {\Sigma}_B of 11 symbols belonging to L_B - the language over P B. IB has semantic correspondence with conventional model-theoretic interpretation of DL.
-We then define {\sigma}_BS on L_B.
-A detailed analysis of I_B and {\sigma}_BS has been given.

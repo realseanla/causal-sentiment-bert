@@ -1,0 +1,10 @@
+Sequence models can be trained using supervised learning and a next-step prediction objective.
+This approach, however, suffers from known failure modes.
+For example, it is notoriously difficult to ensure multi-step generated sequences have coherent global structure.
+Motivated by the fact that reinforcement learning (RL) can be used to impose arbitrary properties on generated data by choosing appropriate reward functions, in this paper we propose a novel approach for sequence training which combines Maximum Likelihood (ML) and RL training.
+We refine a sequence predictor by optimizing for some imposed reward functions, while maintaining good predictive properties learned from data.
+We propose efficient ways to solve this by augmenting deep Q-learning with a cross-entropy reward and deriving novel off-policy methods for RNNs from stochastic optimal control (SOC).
+We explore the usefulness of our approach in the context of music generation.
+An LSTM is trained on a large corpus of songs to predict the next note in a musical sequence.
+This Note-RNN is then refined using RL, where the reward function is a combination of rewards based on rules of music theory, as well as the output of another trained Note-RNN.
+We show that by combining ML and RL, this RL Tuner method can not only produce more pleasing melodies, but that it can significantly reduce unwanted behaviors and failure modes of the RNN.

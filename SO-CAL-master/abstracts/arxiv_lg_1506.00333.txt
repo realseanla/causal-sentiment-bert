@@ -1,0 +1,4 @@
+In this paper, we propose to employ the convolutional neural network (CNN) for learning to answer questions from the image.
+Our proposed CNN provides an end-to-end framework for learning not only the image representation, the composition model for question, but also the inter-modal interaction between the image and question, for the generation of answer.
+More specifically, the proposed model consists of three components: an image CNN to extract the image representation, one sentence CNN to encode the question, and one multimodal convolution layer to fuse the multimodal input of the image and question to obtain the joint representation for the classification in the space of candidate answer words.
+We demonstrate the efficacy of our proposed model on DAQUAR and COCO-QA datasets, two datasets recently created for the image question answering (QA), with performance substantially outperforming the state-of-the-arts.

@@ -1,8 +1,0 @@
-We study a binary classification problem whereby an infinite time series having one of two labels ("event" or "non-event") streams in, and we want to predict the label of the time series.
-Intuitively, the longer we wait, the more of the time series we see and so the more accurate our prediction could be.
-Conversely, making a prediction too early could result in a grossly inaccurate prediction.
-In numerous applications, such as predicting an imminent market crash or revealing which topics will go viral in a social network, making an accurate prediction as early as possible is highly valuable.
-Motivated by these applications, we propose a generative model for time series which we call a latent source model and which we use for non-parametric online time series classification.
-Our main assumption is that there are only a few ways in which a time series corresponds to an "event", such as a market crashing or a Twitter topic going viral, and that we have access to training data that are noisy versions of these few distinct modes.
-Our model naturally leads to weighted majority voting as a classification rule, which operates without knowing nor learning what the few latent sources are.
-We establish theoretical performance guarantees of weighted majority voting under the latent source model and then use the voting to predict which news topics on Twitter will go viral to become trends.

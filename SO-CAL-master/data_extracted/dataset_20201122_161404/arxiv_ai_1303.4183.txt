@@ -1,5 +1,0 @@
-This paper presents capabilities of using genetic algorithms to find approximations of function extrema, which cannot be found using analytic ways.
-To enhance effectiveness of calculations, algorithm has been parallelized using OpenMP library.
-We gained much increase in speed on platforms using multithreaded processors with shared memory free access.
-During analysis we used different modifications of genetic operator, using them we obtained varied evolution process of potential solutions.
-Results allow to choose best methods among many applied in genetic algorithms and observation of acceleration on Yorkfield, Bloomfield, Westmere-EX and most recent Sandy Bridge cores.

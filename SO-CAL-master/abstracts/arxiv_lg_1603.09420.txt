@@ -1,0 +1,7 @@
+Recently recurrent neural networks (RNN) has been very successful in handling sequence data.
+However, understanding RNN and finding the best practices for RNN is a difficult task, partly because there are many competing and complex hidden units (such as LSTM and GRU).
+We propose a gated unit for RNN, named as Minimal Gated Unit (MGU), since it only contains one gate, which is a minimal design among all gated hidden units.
+The design of MGU benefits from evaluation results on LSTM and GRU in the literature.
+Experiments on various sequence data show that MGU has comparable accuracy with GRU, but has a simpler structure, fewer parameters, and faster training.
+Hence, MGU is suitable in RNN's applications.
+Its simple architecture also means that it is easier to evaluate and tune, and in principle it is easier to study MGU's properties theoretically and empirically.

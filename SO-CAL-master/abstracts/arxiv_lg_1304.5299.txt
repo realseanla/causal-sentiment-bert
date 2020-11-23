@@ -1,0 +1,5 @@
+Can we make Bayesian posterior MCMC sampling more efficient when faced with very large datasets?
+We argue that computing the likelihood for N datapoints twice in order to reach a single binary decision is computationally inefficient.
+We introduce an approximate Metropolis-Hastings rule based on a sequential hypothesis test which allows us to accept or reject samples with high confidence using only a fraction of the data required for the exact MH rule.
+While this introduces an asymptotic bias, we show that this bias can be controlled and is more than offset by a decrease in variance due to our ability to draw more samples per unit of time.
+We show that the same idea can also be applied to Gibbs sampling in densely connected graphs.

@@ -1,6 +1,0 @@
-Entity images provide significant visual information that helps the construction of knowledge representations.
-Most conventional methods learn knowledge representations solely from structured triples, ignoring rich visual information extracted from entity images.
-In this paper, we propose a novel Image-embodied Knowledge Representation Learning model, where knowledge representations are learned with both triples and images.
-More specifically, for each image of an entity, we construct image-based representations via a neural image encoder, and these representations with respect to multiple image instances are then integrated via an attention-based method.
-We evaluate our models on knowledge graph completion and triple classification.
-Experimental results demonstrate that our models outperform all baselines on both tasks, which indicates the significance of visual information for knowledge representations and the capability of our models in learning knowledge representations with images.

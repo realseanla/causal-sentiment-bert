@@ -1,5 +1,0 @@
-We propose an efficient method for approximating natural gradient descent in neural networks which we call Kronecker-factored Approximate Curvature (K-FAC).
-K-FAC is based on an efficiently invertible approximation of a neural network's Fisher information matrix which is neither diagonal nor low-rank, and in some cases is completely non-sparse.
-It is derived by approximating various large blocks of the Fisher (corresponding to entire layers) as factoring as Kronecker products between two much smaller matrices.
-While only several times more expensive to compute than the plain stochastic gradient, the updates produced by K-FAC make much more progress optimizing the objective, which results in an algorithm that can be much faster than stochastic gradient descent with momentum in practice.
-And unlike some previously proposed approximate natural-gradient/Newton methods such as Hessian-free methods, K-FAC works very well in highly stochastic optimization regimes.

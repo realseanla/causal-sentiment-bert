@@ -1,6 +1,0 @@
-We describe how to use propositional model counting for a quantitative analysis of product configuration data.
-Our approach computes valuable meta information such as the total number of valid configurations or the relative frequency of components.
-This information can be used to assess the severity of documentation errors or to measure documentation quality.
-As an application example we show how we apply these methods to product documentation formulas of the Mercedes-Benz line of vehicles.
-In order to process these large formulas we developed and implemented a new model counter for non-CNF formulas.
-Our model counter can process formulas, whose CNF representations could not be processed up till now.

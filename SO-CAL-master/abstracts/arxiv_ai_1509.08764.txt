@@ -1,0 +1,7 @@
+Once known to be used exclusively in military domain, unmanned aerial vehicles (UAV) have stepped up to become a part of new logistic method in commercial sector called "last-mile delivery".
+In this novel approach, small UAVs, also known as drones, are deployed in tandem with the trucks to deliver goods to customers.
+Under research context, it gives rise to a new variant of the traveling salesman problem (TSP), of which we call TSP with drone (TSP-D).
+In this paper, we propose two heuristics: route first - cluster second, and cluster first - route second, to solve the problem efficiently.
+A new mixed integer programming formulation is also introduced to handle the cluster step in both heuristics.
+We conduct an experiment, adapting different profit functions of the MIP model, in both heuristics, to many instances with different sizes and characteristics.
+The numerical analysis shows not only a significant savings compare to truck-only delivery but also a superior performance against the previous work.

@@ -1,0 +1,6 @@
+The convex hull of $n$-symbol Huffman trees is known to have exponentially many facets/constraints.
+This makes the standard on-line learning techniques for learning Huffman trees impractical, since they use multiplicative updates followed by projections to satisfy all of the constraints.
+However, there are general extended formulation techniques that encode the convex hull of Huffman trees as a polytope in a higher dimensional space with only polynomially many facets.
+This extended formulation methodology can also be used to encode the $n$-element permutahedron in $O(n \log n)$ dimensions with only a polynomial number of facets.
+We develop a general technique for converting these extended formulations into efficient on-line algorithms with good relative loss bounds.
+The resulting algorithms have nearly the same regret bounds as state of the art algorithms for permutations, and are the first efficient algorithms for the on-line learning of Huffman trees.

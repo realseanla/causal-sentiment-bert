@@ -1,0 +1,6 @@
+An important part of problems in statistical physics and computer science can be expressed as the computation of marginal probabilities over a Markov Random Field.
+The belief propagation algorithm, which is an exact procedure to compute these marginals when the underlying graph is a tree, has gained its popularity as an efficient way to approximate them in the more general case.
+In this paper, we focus on an aspect of the algorithm that did not get that much attention in the literature, which is the effect of the normalization of the messages.
+We show in particular that, for a large class of normalization strategies, it is possible to focus only on belief convergence.
+Following this, we express the necessary and sufficient conditions for local stability of a fixed point in terms of the graph structure and the beliefs values at the fixed point.
+We also explicit some connexion between the normalization constants and the underlying Bethe Free Energy.

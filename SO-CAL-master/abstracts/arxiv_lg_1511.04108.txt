@@ -1,0 +1,6 @@
+In this paper, we apply a general deep learning (DL) framework for the answer selection task, which does not depend on manually defined features or linguistic tools.
+The basic framework is to build the embeddings of questions and answers based on bidirectional long short-term memory (biLSTM) models, and measure their closeness by cosine similarity.
+We further extend this basic model in two directions.
+One is to define a more composite representation for questions and answers by combining convolutional neural network with the basic framework, the other is to utilize a simple but efficient attention mechanism in order to generate the answer representation according to the question context.
+Several variations of models are provided.
+Experimental results on a public insurance-domain dataset demonstrate that the extended models substantially outperform two state-of-the-art non-DL baselines and a strong DL baseline.

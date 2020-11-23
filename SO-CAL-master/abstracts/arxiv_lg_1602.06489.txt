@@ -1,0 +1,9 @@
+With the rapid growth of Internet technologies, cloud computing and social networks have become ubiquitous.
+An increasing number of people participate in social networks and massive online social data are obtained.
+In order to exploit knowledge from copious amounts of data obtained and predict social behavior of users, we urge to realize data mining in social networks.
+Almost all online websites use cloud services to effectively process the large scale of social data, which are gathered from distributed data centers.
+These data are so large-scale, high-dimension and widely distributed that we propose a distributed sparse online algorithm to handle them.
+Additionally, privacy-protection is an important point in social networks.
+We should not compromise the privacy of individuals in networks, while these social data are being learned for data mining.
+Thus we also consider the privacy problem in this article.
+Our simulations shows that the appropriate sparsity of data would enhance the performance of our algorithm and the privacy-preserving method does not significantly hurt the performance of the proposed algorithm.

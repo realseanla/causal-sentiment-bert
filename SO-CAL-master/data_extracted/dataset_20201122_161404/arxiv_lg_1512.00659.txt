@@ -1,8 +1,0 @@
-Support Vector Machines (SVMs) were primarily designed for 2-class classification.
-But they have been extended for N-class classification also based on the requirement of multiclasses in the practical applications.
-Although N-class classification using SVM has considerable research attention, getting minimum number of classifiers at the time of training and testing is still a continuing research.
-We propose a new algorithm CBTS-SVM (Centroid based Binary Tree Structured SVM) which addresses this issue.
-In this we build a binary tree of SVM models based on the similarity of the class labels by finding their distance from the corresponding centroids at the root level.
-The experimental results demonstrates the comparable accuracy for CBTS with OVO with reasonable gamma and cost values.
-On the other hand when CBTS is compared with OVA, it gives the better accuracy with reduced training time and testing time.
-Furthermore CBTS is also scalable as it is able to handle the large data sets.

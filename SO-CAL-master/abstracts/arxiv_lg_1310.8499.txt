@@ -1,0 +1,5 @@
+We introduce a multilayer deep generative model capable of learning hierarchies of sparse distributed representations from data.
+The model consists of several layers of stochastic units, with autoregressive connections within each layer, which allows for efficient exact sampling.
+We train the model efficiently using an algorithm derived from the Minimum Description Length (MDL) principle, which minimizes the amount of information contained in the joint vector of data and hidden unit configurations for the training set.
+As we are not given the hidden unit configurations corresponding to the training data, we use a feedforward network to map data vectors to configurations of hidden units that are jointly probable with them and train it jointly with the model.
+Our approach can also be seen as maximizing a lower bound on the log-likelihood, with the feedforward network implementing approximate inference.

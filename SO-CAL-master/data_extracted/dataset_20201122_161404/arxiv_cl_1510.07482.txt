@@ -1,3 +1,0 @@
-The run time complexity of state-of-the-art inference algorithms in graph-based dependency parsing is super-linear in the number of input words (n).
-Recently, pruning algorithms for these models have shown to cut a large portion of the graph edges, with minimal damage to the resulting parse trees.
-Solving the inference problem in run time complexity determined solely by the number of edges (m) is hence of obvious importance.

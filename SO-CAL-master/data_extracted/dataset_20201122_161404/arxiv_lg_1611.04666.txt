@@ -1,6 +1,0 @@
-In recent years, interest in recommender research has shifted from explicit feedback towards implicit feedback data.
-A diversity of complex models has been proposed for a wide variety of applications.
-Despite this, learning from implicit feedback is still computationally challenging.
-So far, most work relies on stochastic gradient descent (SGD) solvers which are easy to derive, but in practice challenging to apply, especially for tasks with many items.
-For the simple matrix factorization model, an efficient coordinate descent (CD) solver has been previously proposed.
-However, efficient CD approaches have not been derived for more complex models.

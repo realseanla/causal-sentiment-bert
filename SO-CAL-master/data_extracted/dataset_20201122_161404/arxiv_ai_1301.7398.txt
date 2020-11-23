@@ -1,4 +1,0 @@
-The efficiency of algorithms using secondary structures for probabilistic inference in Bayesian networks can be improved by exploiting independence relations induced by evidence and the direction of the links in the original network.
-In this paper we present an algorithm that on-line exploits independence relations induced by evidence and the direction of the links in the original network to reduce both time and space costs.
-Instead of multiplying the conditional probability distributions for the various cliques, we determine on-line which potentials to multiply when a message is to be produced.
-The performance improvement of the algorithm is emphasized through empirical evaluations involving large real world Bayesian networks, and we compare the method with the HUGIN and Shafer-Shenoy inference algorithms.

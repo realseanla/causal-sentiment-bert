@@ -1,5 +1,0 @@
-We consider the non-smooth optimization problems in machine learning, where both the loss function and the regularizer are non-smooth functions.
-Previous studies on efficient empirical loss minimization assume either a smooth loss function or a strongly convex regularizer, making them unsuitable for non-smooth optimization.
-We develop an efficient method for a family of non-smooth optimization where the dual form of the loss function is bilinear in primal and dual variables.
-We cast a non-smooth optimization problem into a minimax optimization problem, and develop a primal dual prox method that solves the minimax optimization problem at a rate of $O(1/T)$, significantly faster than a standard gradient descent method ($O(1/\sqrt{T})$).
-Our empirical study verifies the efficiency of the proposed method for non-smooth optimization by comparing it to the state-of-the-art first order methods.

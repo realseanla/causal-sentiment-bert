@@ -1,3 +1,0 @@
-Though a belief network (a representation of the joint probability distribution, see [3]) and a causal network (a representation of causal relationships [14]) are intended to mean different things, they are closely related.
-Both assume an underlying dag (directed acyclic graph) structure of relations among variables and if Markov condition and faithfulness condition [15] are met, then a causal network is in fact a belief network.
-The difference comes to appearance when we recover belief network and causal network structure from data.

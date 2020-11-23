@@ -1,7 +1,0 @@
-Generalizing the novel clause elimination procedures developed in [M. Heule, M. J\"arvisalo, and A. Biere.
-Clause elimination procedures for CNF formulas.
-In Proc.
-LPAR-17, volume 6397 of LNCS, pages 357-371.
-Springer, 2010.
-], we introduce explicit (CCE), hidden (HCCE), and asymmetric (ACCE) variants of a procedure that eliminates covered clauses from CNF formulas.
-We show that these procedures are more effective in reducing CNF formulas than the respective variants of blocked clause elimination, and may hence be interesting as new preprocessing/simplification techniques for SAT solving.

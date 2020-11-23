@@ -1,6 +1,0 @@
-Conversational speech recognition has served as a flagship speech recognition task since the release of the DARPA Switchboard corpus in the 1990s.
-In this paper, we measure the human error rate on the widely used NIST 2000 test set, and find that our latest automated system has reached human parity.
-The error rate of professional transcriptionists is 5.9 percent for the Switchboard portion of the data, in which newly acquainted pairs of people discuss an assigned topic, and 11.3 percent for the CallHome portion where friends and family members have open-ended conversations.
-In both cases, our automated system establishes a new state-of-the-art, and edges past the human benchmark.
-This marks the first time that human parity has been reported for conversational speech.
-The key to our system's performance is the systematic use of convolutional and LSTM neural networks, combined with a novel spatial smoothing method and lattice-free MMI acoustic training.

@@ -1,5 +1,0 @@
-In this paper, we consider simple and fast approaches to initialize the Expectation-Maximization algorithm (EM) for multivariate Gaussian mixture models.
-We present new initialization methods based on the well-known $K$-means++ algorithm and the Gonzalez algorithm.
-These methods close the gap between simple uniform initialization techniques and complex methods, that have been specifically designed for Gaussian mixture models and depend on the right choice of hyperparameters.
-In our evaluation we compare our methods with a commonly used random initialization method, an approach based on agglomerative hierarchical clustering, and a known, plain adaption of the Gonzalez algorithm.
-Our results indicate that algorithms based on $K$-means++ outperform the other methods.

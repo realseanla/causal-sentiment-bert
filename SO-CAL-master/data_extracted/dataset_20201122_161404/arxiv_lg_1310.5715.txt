@@ -1,5 +1,0 @@
-We show that the exponential convergence rate of stochastic gradient descent for smooth strongly convex objectives can be markedly improved by perturbing the row selection rule in the direction of sampling estimates proportionally to the Lipschitz constants of their gradients.
-That is, we show that partially biased sampling allows a convergence rate with linear dependence on the average condition number of the system, compared to dependence on the average squared condition number for standard stochastic gradient descent.
-We assume the regime where all stochastic estimates share an optimum and so such an exponential rate is possible.
-We then recast the randomized Kaczmarz algorithm for solving overdetermined linear systems as an instance of preconditioned stochastic gradient descent, and apply our results to prove its exponential convergence, but to the solution of a weighted least squares problem rather than the original least squares problem.
-We present a modified Kaczmarz algorithm with partially biased sampling which does converge to the original least squares solution with the same exponential convergence rate.

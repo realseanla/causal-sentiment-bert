@@ -1,3 +1,0 @@
-In this paper, we propose a new approach for recommender systems based on target tracking by Kalman filtering.
-We assume that users and their seen resources are vectors in the multidimensional space of the categories of the resources.
-Knowing this space, we propose an algorithm based on a Kalman filter to track users and to predict the best prediction of their future position in the recommendation space.

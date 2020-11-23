@@ -1,0 +1,6 @@
+RockIt is a maximum a-posteriori (MAP) query engine for statistical relational models.
+MAP inference in graphical models is an optimization problem which can be compiled to integer linear programs (ILPs).
+We describe several advances in translating MAP queries to ILP instances and present the novel meta-algorithm cutting plane aggregation (CPA).
+CPA exploits local context-specific symmetries and bundles up sets of linear constraints.
+The resulting counting constraints lead to more compact ILPs and make the symmetry of the ground model more explicit to state-of-the-art ILP solvers.
+Moreover, RockIt parallelizes most parts of the MAP inference pipeline taking advantage of ubiquitous shared-memory multi-core architectures.

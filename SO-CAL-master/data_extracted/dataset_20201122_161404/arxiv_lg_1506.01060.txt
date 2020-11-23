@@ -1,7 +1,0 @@
-Subspace learning is becoming more and more popular thanks to its capabilities of good interpretation.
-However, existing approaches do not adapt both local structure and self reconstruction very well.
-We propose local-structure adaptive sparse subspace learning (ASSL) model for unsupervised feature selection.
-In this paper, we formulate the feature selection process as a subspace learning problem and incorporate a regularization term to preserve the local structure of the data.
-Furthermore, we develop a greedy algorithm to establish the basic model and an iterative strategy based on an accelerated block coordinate descent is used to solve the local-structure ASSL problem.
-We also provide the global convergence analysis of the proposed ASSL algorithm.
-Extensive experiments are conducted on real-world datasets to show the superiority of the proposed approach over several state-of-the-art unsupervised feature selection approaches.

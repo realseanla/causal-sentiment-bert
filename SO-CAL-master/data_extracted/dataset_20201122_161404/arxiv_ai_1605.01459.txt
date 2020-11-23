@@ -1,8 +1,0 @@
-In order to be effective teammates, robots need to be able to understand high-level human behavior to recognize, anticipate, and adapt to human motion.
-We have designed a new approach to enable robots to perceive human group motion in real-time, anticipate future actions, and synthesize their own motion accordingly.
-We explore this within the context of joint action, where humans and robots move together synchronously.
-In this paper, we present an anticipation method which takes high-level group behavior into account.
-We validate the method within a human-robot interaction scenario, where an autonomous mobile robot observes a team of human dancers, and then successfully and contingently coordinates its movements to "join the dance".
-We compared the results of our anticipation method to move the robot with another method which did not rely on high-level group behavior, and found our method performed better both in terms of more closely synchronizing the robot's motion to the team, and also exhibiting more contingent and fluent motion.
-These findings suggest that the robot performs better when it has an understanding of high-level group behavior than when it does not.
-This work will help enable others in the robotics community to build more fluent and adaptable robots in the future.

@@ -1,0 +1,6 @@
+Intelligent systems sometimes need to infer the probable goals of people, cars, and robots, based on partial observations of their motion.
+This paper introduces a class of probabilistic programs for formulating and solving these problems.
+The formulation uses randomized path planning algorithms as the basis for probabilistic models of the process by which autonomous agents plan to achieve their goals.
+Because these path planning algorithms do not have tractable likelihood functions, new inference algorithms are needed.
+This paper proposes two Monte Carlo techniques for these "likelihood-free" models, one of which can use likelihood estimates from neural networks to accelerate inference.
+The paper demonstrates efficacy on three simple examples, each using under 50 lines of probabilistic code.

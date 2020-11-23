@@ -1,0 +1,3 @@
+Falsification is drawing attention in quality assurance of heterogeneous systems whose complexities are beyond most verification techniques' scalability.
+In this paper we introduce the idea of causality aid in falsification: by providing a falsification solver -- that relies on stochastic optimization of a certain cost function -- with suitable causal information expressed by a Bayesian network, search for a falsifying input value can be efficient.
+Our experiment results show the idea's viability.

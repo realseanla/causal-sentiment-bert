@@ -1,9 +1,0 @@
-Time series classification is an application of particular interest with the increase of data to monitor.
-Classical techniques for time series classification rely on point-to-point distances.
-Recently, Bag-of-Words approaches have been used in this context.
-Words are quantized versions of simple features extracted from sliding windows.
-The SIFT framework has proved efficient for image classification.
-In this paper, we design a time series classification scheme that builds on the SIFT framework adapted to time series to feed a Bag-of-Words.
-We then refine our method by studying the impact of normalized Bag-of-Words, as well as densely extract point descriptors.
-Proposed adjustements achieve better performance.
-The evaluation shows that our method outperforms classical techniques in terms of classification.

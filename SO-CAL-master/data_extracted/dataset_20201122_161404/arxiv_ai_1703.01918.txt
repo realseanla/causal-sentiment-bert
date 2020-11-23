@@ -1,4 +1,0 @@
-Unmanned aircraft have decreased the cost required to collect remote sensing imagery, which has enabled researchers to collect high-spatial resolution data from multiple sensor modalities more frequently and easily.
-The increase in data will push the need for semantic segmentation frameworks that are able to classify non-RGB imagery, but this type of algorithmic development requires an increase in publicly available benchmark datasets with class labels.
-In this paper, we introduce a high-resolution multispectral dataset with image labels.
-This new benchmark dataset has been pre-split into training/testing folds in order to standardize evaluation and continue to push state-of-the-art classification frameworks for non-RGB imagery.

@@ -1,8 +1,0 @@
-Typical techniques for sequence classification are designed for well-segmented sequences which has been edited to remove noisy or irrelevant parts.
-Therefore, such methods cannot be easily applied on noisy sequences which are expected in real-world applications.
-We present the Temporal Attention-Gated Model (TAGM) which is able to deal with noisy sequences.
-Our model assimilates ideas from attention models and gated recurrent networks.
-Specifically, we employ an attention model to measure the relevance of each time step of a sequence to the final decision.
-We then use the relevant segments based on their attention scores in a novel gated recurrent network to learn the hidden representation for the classification.
-More importantly, our attention weights provide a physically meaningful interpretation for the salience of each time step in the sequence.
-We demonstrate the merits of our model in both interpretability and classification performance on a variety of tasks, including speech recognition, textual sentiment analysis and event recognition.

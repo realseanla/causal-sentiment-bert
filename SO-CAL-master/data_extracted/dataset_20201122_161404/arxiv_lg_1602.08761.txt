@@ -1,8 +1,0 @@
-We study the problem of structured prediction under test-time budget constraints.
-We propose a novel approach applicable to a wide range of structured prediction problems in computer vision and natural language processing.
-Our approach seeks to adaptively generate computationally costly features during test-time in order to reduce the computational cost of prediction while maintaining prediction performance.
-We show that training the adaptive feature generation system can be reduced to a series of structured learning problems, resulting in efficient training using existing structured learning algorithms.
-This framework provides theoretical justification for several existing heuristic approaches found in literature.
-We evaluate our proposed adaptive system on two real-world structured prediction tasks, optical character recognition (OCR) and dependency parsing.
-For OCR our method cuts the feature acquisition time by half coming within a 1 percent margin of top accuracy.
-For dependency parsing we realize an overall runtime gain of 20 percent without significant loss in performance.

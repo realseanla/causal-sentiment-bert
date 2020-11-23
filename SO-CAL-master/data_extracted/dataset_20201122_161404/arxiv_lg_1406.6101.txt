@@ -1,4 +1,0 @@
-The purpose of speech emotion recognition system is to classify speakers utterances into different emotional states such as disgust, boredom, sadness, neutral and happiness.
-Speech features that are commonly used in speech emotion recognition rely on global utterance level prosodic features.
-In our work, we evaluate the impact of frame level feature extraction.
-The speech samples are from Berlin emotional database and the features extracted from these utterances are energy, different variant of mel frequency cepstrum coefficients, velocity and acceleration features.

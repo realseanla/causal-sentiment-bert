@@ -1,4 +1,0 @@
-Continuous/Lifelong learning of high-dimensional data streams is a challenging research problem.
-In fact, fully retraining models each time new data become available is infeasible, due to computational and storage issues, while na\"ive incremental strategies have been shown to suffer from catastrophic forgetting.
-In the context of real-world object recognition applications (e.g., robotic vision), where continuous learning is crucial, very few datasets and benchmarks are available to evaluate and compare emerging techniques.
-In this work we propose a new dataset and benchmark CORe50, specifically designed for continuous object recognition, and introduce baseline approaches for different continuous learning scenarios.

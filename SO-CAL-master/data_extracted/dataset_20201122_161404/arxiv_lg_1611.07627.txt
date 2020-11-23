@@ -1,2 +1,0 @@
-Syntax-Guided Synthesis (SyGuS) is the computational problem of finding an implementation f that meets both a semantic constraint given by a logical formula $\varphi$ in a background theory T, and a syntactic constraint given by a grammar G, which specifies the allowed set of candidate implementations.
-Such a synthesis problem can be formally defined in SyGuS-IF, a language that is built on top of SMT-LIB.

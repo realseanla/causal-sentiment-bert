@@ -1,4 +1,0 @@
-We present a new probabilistic model of commutative Lie groups, that produces invariant-equivariant and disentangled representations of data.
-We borrow a fundamental principle from physics, used to define the elementary particles of a physical system, and use it to give a mathematically precise definition of the popular but heretofore rather vague notion of a "disentangled representation".
-Our model is based on a newfound Bayesian conjugacy relation that enables us to perform fully tractable probabilistic inference over so-called Toroidal Lie groups -- a class that includes practically relevant groups such as rotations and translations of images.
-We train the model on pairs of transformed image patches, and show that it produces a completely invariant representation which is highly effective for classification.

@@ -1,6 +1,0 @@
-Training the parameters of statistical models to describe a given data set is a central task in the field of data mining and machine learning.
-A very popular and powerful way of parameter estimation is the method of maximum likelihood estimation (MLE).
-Among the most widely used families of statistical models are mixture models, especially, mixtures of Gaussian distributions.
-A popular hard-clustering variant of the MLE problem is the so-called complete-data maximum likelihood estimation (CMLE) method.
-The standard approach to solve the CMLE problem is the Classification-Expectation-Maximization (CEM) algorithm.
-Unfortunately, it is only guaranteed that the algorithm converges to some (possibly arbitrarily poor) stationary point of the objective function.

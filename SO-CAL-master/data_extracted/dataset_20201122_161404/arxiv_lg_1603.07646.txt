@@ -1,6 +1,0 @@
-We consider the problem of learning distributed representations for tags from their associated content for the task of tag recommendation.
-Considering tagging information is usually very sparse, effective learning from content and tag association is very crucial and challenging task.
-Recently, various neural representation learning models such as WSABIE and its variants show promising performance, mainly due to compact feature representations learned in a semantic space.
-However, their capacity is limited by a linear compositional approach for representing tags as sum of equal parts and hurt their performance.
-In this work, we propose a neural feedback relevance model for learning tag representations with weighted feature representations.
-Our experiments on two widely used datasets show significant improvement for quality of recommendations over various baselines.

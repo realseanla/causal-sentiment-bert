@@ -1,5 +1,0 @@
-Syntactic parsing is a fundamental problem in computational linguistics and Natural Language Processing.
-Traditional approaches to parsing are highly complex and problem specific.
-Recently, Sutskever et al.
-(2014) presented a domain-independent method for learning to map input sequences to output sequences that achieved strong results on a large scale machine translation problem.
-In this work, we show that precisely the same sequence-to-sequence method achieves results that are close to state-of-the-art on syntactic constituency parsing, whilst making almost no assumptions about the structure of the problem.

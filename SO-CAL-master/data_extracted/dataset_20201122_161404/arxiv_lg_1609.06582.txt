@@ -1,6 +1,0 @@
-Location data can be extremely useful to study commuting patterns and disruptions, as well as to predict real-time traffic volumes.
-At the same time, however, the fine-grained collection of user locations raises serious privacy concerns, as this can reveal sensitive information about the users, such as, life style, political and religious inclinations, or even identities.
-In this paper, we study the feasibility of crowd-sourced mobility analytics over aggregate location information: users periodically report their location, through using a privacy-preserving aggregation protocol, so that the server can only recover aggregates -- i.e., how many, but not which, users are in a region at a given time.
-We experiment with real-world mobility datasets obtained from the Transport For London authority and the San Francisco Cabs network, and present a novel methodology based on time series modeling that is geared to forecast traffic volumes in regions of interest and to detect mobility anomalies in them.
-In the presence of anomalies, we also make enhanced traffic volume predictions by feeding our model with additional information from correlated regions.
-Finally, we present and evaluate a mobile app prototype, called Mobility Data Donors (MDD), in terms of computation, communication, and energy overhead, demonstrating the real-world deployability of our techniques.

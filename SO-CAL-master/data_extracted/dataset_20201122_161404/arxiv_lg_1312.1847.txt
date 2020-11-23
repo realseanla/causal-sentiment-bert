@@ -1,8 +1,0 @@
-Convolutional neural network models have recently been shown to achieve excellent performance on challenging recognition benchmarks.
-However, like many deep models, there is little guidance on how the architecture of the model should be selected.
-Important hyper-parameters such as the degree of parameter sharing, number of layers, units per layer, and overall number of parameters must be selected manually through trial-and-error.
-To address this, we introduce a novel type of recursive neural network that is convolutional in nature.
-Its similarity to standard convolutional models allows us to tease apart the important architectural factors that influence performance.
-We find that for a given parameter budget, deeper models are preferred over shallow ones, and models with more parameters are preferred to those with fewer.
-Surprisingly and perhaps counterintuitively, we find that performance is independent of the number of units, so long as the network depth and number of parameters is held constant.
-This suggests that, computational efficiency considerations aside, parameter sharing within deep networks may not be so beneficial as previously supposed.

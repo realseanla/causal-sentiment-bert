@@ -1,0 +1,11 @@
+Making high-quality decisions in strategic spatial planning is heavily dependent on extracting knowledge from vast amounts of data.
+Although many decision-making problems like developing urban areas require such perception and reasoning, existing methods in this field usually neglect the deep knowledge mined from geographic databases and are based on pure statistical methods.
+Due to the large volume of data gathered in spatial databases, and the uncertainty of spatial objects, mining association rules for high-level knowledge representation is a challenging task.
+Few algorithms manage geographical and non-geographical data using topological relations.
+In this paper, a novel approach for spatial data mining based on the MOSES evolutionary framework is presented which improves the classic genetic programming approach.
+A hybrid architecture called GGeo is proposed to apply the MOSES mining rules considering fuzzy topological relations from spatial data.
+The uncertainty and fuzziness aspects are addressed using an enriched model of topological relations by fuzzy region connection calculus.
+Moreover, to overcome the problem of time-consuming fuzzy topological relationships calculations, this a novel data pre-processing method is offered.
+GGeo analyses and learns from geographical and non-geographical data and uses topological and distance parameters, and returns a series of arithmetic-spatial formulas as classification rules.
+The proposed approach is resistant to noisy data, and all its stages run in parallel to increase speed.
+This approach may be used in different spatial data classification problems as well as representing an appropriate method of data analysis and economic policy making.

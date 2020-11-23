@@ -1,5 +1,0 @@
-The evolution of named entities affects exploration and retrieval tasks in digital libraries.
-An information retrieval system that is aware of name changes can actively support users in finding former occurrences of evolved entities.
-However, current structured knowledge bases, such as DBpedia or Freebase, do not provide enough information about evolutions, even though the data is available on their resources, like Wikipedia.
-Our \emph{Evolution Base} prototype will demonstrate how excerpts describing name evolutions can be identified on these websites with a promising precision.
-The descriptions are classified by means of models that we trained based on a recent analysis of named entity evolutions on Wikipedia.

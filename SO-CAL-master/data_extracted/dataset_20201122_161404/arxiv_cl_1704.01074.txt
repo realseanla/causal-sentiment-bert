@@ -1,5 +1,0 @@
-Emotional intelligence is one of the key factors to the success of dialogue systems or conversational agents.
-In this paper, we propose Emotional Chatting Machine (ECM) which generates responses that are appropriate not only at the content level (relevant and grammatical) but also at the emotion level (consistent emotional expression).
-To the best of our knowledge, this is the first work that addresses the emotion factor in large-scale conversation generation.
-ECM addresses the factor in three ways: modeling high-level abstraction of emotion expression by embedding emotion categories, changing of implicit internal emotion states, and using explicit emotion expressions with an external emotion vocabulary.
-Experiments show that our model can generate responses appropriate not only in content but also in emotion.

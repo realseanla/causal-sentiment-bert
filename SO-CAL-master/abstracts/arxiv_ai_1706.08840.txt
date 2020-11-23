@@ -1,0 +1,6 @@
+One major obstacle towards artificial intelligence is the poor ability of models to quickly solve new problems, without forgetting previously acquired knowledge.
+To better understand this issue, we study the problem of learning over a continuum of data, where the model observes, once and one by one, examples concerning an ordered sequence of tasks.
+First, we propose a set of metrics to evaluate models learning over a continuum of data.
+These metrics characterize models not only by their test accuracy, but also in terms of their ability to transfer knowledge across tasks.
+Second, we propose a model to learn over continuums of data, called Gradient of Episodic Memory (GEM), which alleviates forgetting while allowing beneficial transfer of knowledge to previous tasks.
+Our experiments on variants of the MNIST and CIFAR-100 datasets demonstrate the strong performance of GEM when compared to the state-of-the-art.

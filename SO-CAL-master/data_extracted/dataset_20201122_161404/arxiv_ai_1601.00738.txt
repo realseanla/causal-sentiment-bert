@@ -1,3 +1,0 @@
-Multi-tenancy hosting of users in cloud NoSQL data stores is favored by cloud providers because it enables resource sharing at low operating cost.
-Multi-tenancy takes several forms depending on whether the back-end file system is a local file system (LFS) or a parallel file system (PFS), and on whether tenants are independent or share data across tenants.
-In this thesis I focus on and propose solutions to two cases: independent data-local file system, and shared data-parallel file system.

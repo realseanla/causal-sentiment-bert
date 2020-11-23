@@ -1,0 +1,5 @@
+This paper investigates the scaling properties of Recurrent Neural Network Language Models (RNNLMs).
+We discuss how to train very large RNNs on GPUs and address the questions of how RNNLMs scale with respect to model size, training-set size, computational costs and memory.
+Our analysis shows that despite being more costly to train, RNNLMs obtain much lower perplexities on standard benchmarks than n-gram models.
+We train the largest known RNNs and present relative word error rates gains of 18 percent on an ASR task.
+We also present the new lowest perplexities on the recently released billion word language modelling benchmark, 1 BLEU point gain on machine translation and a 17 percent relative hit rate gain in word prediction.

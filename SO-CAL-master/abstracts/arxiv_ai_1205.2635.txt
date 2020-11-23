@@ -1,0 +1,6 @@
+First-order probabilistic models combine representational power of first-order logic with graphical models.
+There is an ongoing effort to design lifted inference algorithms for first-order probabilistic models.
+We analyze lifted inference from the perspective of constraint processing and, through this viewpoint, we analyze and compare existing approaches and expose their advantages and limitations.
+Our theoretical results show that the wrong choice of constraint processing method can lead to exponential increase in computational complexity.
+Our empirical tests confirm the importance of constraint processing in lifted inference.
+This is the first theoretical and empirical study of constraint processing in lifted inference.

@@ -1,7 +1,0 @@
-Rumour detection is hard because the most accurate systems operate retrospectively, only recognizing rumours once they have collected repeated signals.
-By then the rumours might have already spread and caused harm.
-We introduce a new category of features based on novelty, tailored to detect rumours early on.
-To compensate for the absence of repeated signals, we make use of news wire as an additional data source.
-Unconfirmed (novel) information with respect to the news articles is considered as an indication of rumours.
-Additionally we introduce pseudo feedback, which assumes that documents that are similar to previous rumours, are more likely to also be a rumour.
-Comparison with other real-time approaches shows that novelty based features in conjunction with pseudo feedback perform significantly better, when detecting rumours instantly after their publication.

@@ -1,0 +1,7 @@
+The driving force behind convolutional networks - the most successful deep learning architecture to date, is their expressive power.
+Despite its wide acceptance and vast empirical evidence, formal analyses supporting this belief are scarce.
+The primary notions for formally reasoning about expressiveness are efficiency and inductive bias.
+Efficiency refers to the ability of a network architecture to realize functions that require an alternative architecture to be much larger.
+Inductive bias refers to the prioritization of some functions over others given prior knowledge regarding a task at hand.
+In this paper we provide a high-level overview of a series of works written by the authors, that through an equivalence to hierarchical tensor decompositions, analyze the expressive efficiency and inductive bias of various architectural features in convolutional networks (depth, width, convolution strides and more).
+The results presented shed light on the demonstrated effectiveness of convolutional networks, and in addition, provide new tools for network design.

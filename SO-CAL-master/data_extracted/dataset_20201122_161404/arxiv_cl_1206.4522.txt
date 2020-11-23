@@ -1,4 +1,0 @@
-BADREX uses dynamically generated regular expressions to annotate term definition-term abbreviation pairs, and corefers unpaired acronyms and abbreviations back to their initial definition in the text.
-Against the Medstract corpus BADREX achieves precision and recall of 98 percent and 97 percent, and against a much larger corpus, 90 percent and 85 percent, respectively.
-BADREX yields improved performance over previous approaches, requires no training data and allows runtime customisation of its input parameters.
-BADREX is freely available from

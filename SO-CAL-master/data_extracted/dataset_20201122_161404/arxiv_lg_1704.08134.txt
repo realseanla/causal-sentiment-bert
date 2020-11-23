@@ -1,7 +1,0 @@
-In this paper, we propose a novel learning based method for automated segmenta-tion of brain tumor in multimodal MRI images.
-The machine learned features from fully convolutional neural network (FCN) and hand-designed texton fea-tures are used to classify the MRI image voxels.
-The score map with pixel-wise predictions is used as a feature map which is learned from multimodal MRI train-ing dataset using the FCN.
-The learned features are then applied to random for-ests to classify each MRI image voxel into normal brain tissues and different parts of tumor.
-The method was evaluated on BRATS 2013 challenge dataset.
-The results show that the application of the random forest classifier to multimodal MRI images using machine-learned features based on FCN and hand-designed features based on textons provides promising segmentations.
-The Dice overlap measure for automatic brain tumor segmentation against ground truth is 0.88, 080 and 0.73 for complete tumor, core and enhancing tumor, respectively.

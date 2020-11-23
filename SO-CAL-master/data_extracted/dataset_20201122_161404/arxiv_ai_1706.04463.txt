@@ -1,9 +1,0 @@
-Mapping in the GPS-denied environment is an important and challenging task in the field of robotics.
-In the large environment, mapping can be significantly accelerated by multiple robots exploring different parts of the environment.
-Accordingly, a key problem is how to integrate these local maps built by different robots into a single global map.
-In this paper, we propose an approach for simultaneous merging of multiple grid maps by the robust motion averaging.
-The main idea of this approach is to recover all global motions for map merging from a set of relative motions.
-Therefore, it firstly adopts the pair-wise map merging method to estimate relative motions for grid map pairs.
-To obtain as many reliable relative motions as possible, a graph-based sampling scheme is utilized to efficiently remove unreliable relative motions obtained from the pair-wise map merging.
-Subsequently, the accurate global motions can be recovered from the set of reliable relative motions by the motion averaging.
-Experimental results carried on real robot data sets demonstrate that proposed approach can achieve simultaneous merging of multiple grid maps with good performances.

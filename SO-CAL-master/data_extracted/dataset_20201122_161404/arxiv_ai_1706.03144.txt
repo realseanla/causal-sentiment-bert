@@ -1,6 +1,0 @@
-In this research, we investigate the subject of path-finding.
-A pruned version of visibility graph based on Candidate Vertices is formulated, followed by a new visibility check technique.
-Such combination enables us to quickly identify the useful vertices and thus find the optimal path more efficiently.
-The algorithm proposed is demonstrated on various path-finding cases.
-The performance of the new technique on visibility graphs is compared to the traditional A* on Grids, Theta* and A* on Visibility Graphs in terms of path length, number of nodes evaluated, as well as computational time.
-The key algorithmic contribution is that the new approach combines the merits of grid-based method and visibility graph-based method and thus yields better overall performance.

@@ -1,0 +1,6 @@
+Neural machine translation has meant a revolution of the field.
+Nevertheless, post-editing the outputs of the system is mandatory for tasks requiring high translation quality.
+Post-editing offers a unique opportunity for improving neural machine translation systems, using online learning techniques and treating the post-edited translations as new, fresh training data.
+We review classical learning methods and propose a new optimization algorithm.
+We thoroughly compare online learning algorithms in a post-editing scenario.
+Results show significant improvements in translation quality and effort reduction.

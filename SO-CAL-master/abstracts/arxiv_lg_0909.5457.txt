@@ -1,0 +1,3 @@
+Minimizing the rank of a matrix subject to affine constraints is a fundamental problem with many important applications in machine learning and statistics.
+In this paper we propose a simple and fast algorithm SVP (Singular Value Projection) for rank minimization with affine constraints (ARMP) and show that SVP recovers the minimum rank solution for affine constraints that satisfy the "restricted isometry property".
+Our results improve upon a recent breakthrough by Recht, Fazel and Parillo (RFP07) in three significant ways:

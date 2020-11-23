@@ -1,9 +1,0 @@
-Text embeddings have played a key role in obtaining state-of-the-art results in natural language processing.
-Word2Vec and its variants have successfully mapped words with similar syntactic or semantic meanings to nearby vectors.
-However, extracting universal embeddings of longer word-sequences remains a challenging task.
-We employ the convolutional dictionary model for unsupervised learning of embeddings for variable length word-sequences.
-We propose a two-phase ConvDic+DeconvDec framework that first learns dictionary elements (i.e., phrase templates), and then employs them for decoding the activations.
-The estimated activations are then used as embeddings for downstream tasks such as sentiment analysis, paraphrase detection, and semantic textual similarity estimation.
-We propose a convolutional tensor decomposition algorithm for learning the phrase templates.
-It is shown to be more accurate, and much more efficient than the popular alternating minimization in dictionary learning literature.
-Our word-sequence embeddings achieve state-of-the-art performance in sentiment classification, semantic textual similarity estimation, and paraphrase detection over eight datasets from various domains, without requiring pre-training or additional features.

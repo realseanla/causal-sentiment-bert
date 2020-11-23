@@ -1,6 +1,0 @@
-We observe a trend regarding restart strategies used in SAT solvers.
-A few years ago, most state-of-the-art solvers restarted on average after a few thousands of backtracks.
-Currently, restarting after a dozen backtracks results in much better performance.
-The main reason for this trend is that heuristics and data structures have become more restart-friendly.
-We expect further continuation of this trend, so future SAT solvers will restart even more rapidly.
-Additionally, we present experimental results to support our observations.

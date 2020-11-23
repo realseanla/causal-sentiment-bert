@@ -1,3 +1,0 @@
-The aim of the k-means is to minimize squared sum of Euclidean distance from the mean (SSEDM) of each cluster.
-The k-means can effectively optimize this function, but it is too sensitive for initial centers (seeds).
-This paper proposed a method for initialization of the k-means using the concept of useful nearest center for each data point.

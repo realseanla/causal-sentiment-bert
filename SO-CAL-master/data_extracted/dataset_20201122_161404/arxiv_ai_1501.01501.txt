@@ -1,3 +1,0 @@
-Autonomously detecting and recovering from faults is one approach for reducing the operational complexity and costs associated with managing computing environments.
-We present a novel methodology for autonomously generating investigation leads that help identify systems faults, and extends our previous work in this area by leveraging Restricted Boltzmann Machines (RBMs) and contrastive divergence learning to analyse changes in historical feature data.
-This allows us to heuristically identify the root cause of a fault, and demonstrate an improvement to the state of the art by showing feature data can be predicted heuristically beyond a single instance to include entire sequences of information.

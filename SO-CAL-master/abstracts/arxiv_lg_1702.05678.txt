@@ -1,0 +1,2 @@
+Adaptivity is known to play a crucial role in property testing.
+In particular, there exist properties for which there is an exponential gap between the power of \emph{adaptive} testing algorithms, wherein each query may be determined by the answers received to prior queries, and their \emph{non-adaptive} counterparts, in which all queries are independent of answers obtained from previous queries.

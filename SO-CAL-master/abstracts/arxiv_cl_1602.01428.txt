@@ -1,0 +1,4 @@
+We develop the "Draw My Topics" toolkit, which provides a fast way to incorporate social scientists' interest into standard topic modelling.
+Instead of using raw corpus with primitive processing as input, an algorithm based on Vector Space Model and Conditional Entropy are used to connect social scientists' willingness and unsupervised topic models' output.
+Space for users' adjustment on specific corpus of their interest is also accommodated.
+We demonstrate the toolkit's use on the Diachronic People's Daily Corpus in Chinese.

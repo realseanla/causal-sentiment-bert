@@ -1,0 +1,5 @@
+The back-propagation (BP) algorithm has been considered the de facto method for training deep neural networks.
+It back-propagates errors from the output layer to the hidden layers in an exact manner using feedforward weights.
+In this work, we propose a more biologically plausible paradigm of neural architecture according to biological findings.
+Specifically, we propose two bidirectional learning algorithms with two sets of trainable weights.
+Preliminary results show that our models perform best on the MNIST and the CIFAR10 datasets among the asymmetric error signal passing methods, and their performance is more close to that of BP.

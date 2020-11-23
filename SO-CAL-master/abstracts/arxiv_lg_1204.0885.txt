@@ -1,0 +1,3 @@
+Time delays are components that make time-lag in systems response.
+They arise in physical, chemical, biological and economic systems, as well as in the process of measurement and computation.
+In this work, we implement Genetic Algorithm (GA) in determining PID controller parameters to compensate the delay in First Order Lag plus Time Delay (FOLPD) and compare the results with Iterative Method and Ziegler-Nichols rule results.

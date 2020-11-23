@@ -1,5 +1,0 @@
-First-order knowledge compilation techniques have proven efficient for lifted inference.
-They compile a relational probability model into a target circuit on which many inference queries can be answered efficiently.
-Early methods used data structures as their target circuit.
-In our KR-2016 paper, we showed that compiling to a low-level program instead of a data structure offers orders of magnitude speedup, resulting in the state-of-the-art lifted inference technique.
-In this paper, we conduct experiments to address two questions regarding our KR-2016 results: 1- does the speedup come from more efficient compilation or more efficient reasoning with the target circuit?, and 2- why are low-level programs more efficient target circuits than data structures?

@@ -1,7 +1,0 @@
-Recent work (Bengio et al., 2013) has shown howDenoising Auto-Encoders(DAE) become gener-ative models as a density estimator.
-However,in practice, the framework suffers from a mixingproblem in the MCMC sampling process and nodirect method to estimate the test log-likelihood.We consider a directed model with an stochas-tic identity mapping (simple corruption pro-cess) as an inference model and a DAE as agenerative model.
-By cascading these mod-els, we propose Cascading Denoising Auto-Encoders(CDAE) which can generate samples ofdata distribution from tractable prior distributionunder the assumption that probabilistic distribu-tion of corrupted data approaches tractable priordistribution as the level of corruption increases.This work tries to answer two questions.
-On theone hand, can deep directed models be success-fully trained without intractable posterior infer-ence and difficult optimization of very deep neu-ral networks in inference and generative mod-els?
-These are unavoidable when recent suc-cessful directed model like VAE (Kingma &amp;Welling, 2014) is trained on complex dataset likereal images.
-On the other hand, can DAEs getclean samples of data distribution from heavilycorrupted samples which can be considered oftractable prior distribution far from data mani-fold?
-so-called global denoising scheme.Our results show positive responses of thesequestions and this work can provide fairly simpleframework for generative models of very com-plex dataset.

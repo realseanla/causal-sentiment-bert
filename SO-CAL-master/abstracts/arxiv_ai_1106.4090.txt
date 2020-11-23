@@ -1,0 +1,6 @@
+Refinement is a powerful mechanism for mastering the complexities that arise when formally modelling systems.
+Refinement also brings with it additional proof obligations -- requiring a developer to discover properties relating to their design decisions.
+With the goal of reducing this burden, we have investigated how a general purpose theory formation tool, HR, can be used to automate the discovery of such properties within the context of Event-B.
+Here we develop a heuristic approach to the automatic discovery of invariants and report upon a series of experiments that we undertook in order to evaluate our approach.
+The set of heuristics developed provides systematic guidance in tailoring HR for a given Event-B development.
+These heuristics are based upon proof-failure analysis, and have given rise to some promising results.

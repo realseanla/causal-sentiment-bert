@@ -1,0 +1,6 @@
+Inspired by the brain, deep neural networks (DNN) are thought to learn abstract representations through their hierarchical architecture.
+However, at present, how this happens is not well understood.
+Here, we demonstrate that DNN learn abstract representations by a process of demodulation.
+We introduce a biased sigmoid activation function and use it to show that DNN learn and perform better when optimized for demodulation.
+Our findings constitute the first unambiguous evidence that DNN perform abstract learning in practical use.
+Our findings may also explain abstract learning in the human brain.

@@ -1,5 +1,0 @@
-In this paper we propose a new algorithm for dynamically predicting a set of apps that the user is likely to use.
-A set of app icons (usually four) are presented on a special dock, called Prediction Bar, and dynamically change according to the user's habits at a given time, location, and device state (headphone connected, bluetooth active, and so on).
-The goal of the algorithm is, given the context information, to actively help the user navigate to the desired app as well as to provide a personalized feeling.
-We propose an efficient online algorithm that is executed on the device, which is based on the Passive-Aggressive online algorithmic framework, adapted to maximize the AUC at each round.
-We concluded the paper with a large scale empirical study on the performance of the algorithm on a real users' data.

@@ -1,6 +1,0 @@
-Unsupervised segmentation and clustering of unlabelled speech are core problems in zero-resource speech processing.
-Most competitive approaches lie at methodological extremes: some follow a Bayesian approach, defining probabilistic models with convergence guarantees, while others opt for more efficient heuristic techniques.
-Here we introduce an approximation to a segmental Bayesian model that falls in between, with a clear objective function but using hard clustering and segmentation rather than full Bayesian inference.
-Like its Bayesian counterpart, this embedded segmental k-means model (ES-KMeans) represents arbitrary-length word segments as fixed-dimensional acoustic word embeddings.
-On English and Xitsonga data, ES-KMeans outperforms a leading heuristic method in word segmentation, giving similar scores to the Bayesian model while being five times faster with fewer hyperparameters.
-However, there is a trade-off in cluster purity, with the Bayesian model's purer clusters yielding about 10 percent better unsupervised word error rates.

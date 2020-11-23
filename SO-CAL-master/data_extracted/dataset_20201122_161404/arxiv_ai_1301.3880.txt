@@ -1,4 +1,0 @@
-When using Bayesian networks for modelling the behavior of man-made machinery, it usually happens that a large part of the model is deterministic.
-For such Bayesian networks deterministic part of the model can be represented as a Boolean function, and a central part of belief updating reduces to the task of calculating the number of satisfying configurations in a Boolean function.
-In this paper we explore how advances in the calculation of Boolean functions can be adopted for belief updating, in particular within the context of troubleshooting.
-We present experimental results indicating a substantial speed-up compared to traditional junction tree propagation.

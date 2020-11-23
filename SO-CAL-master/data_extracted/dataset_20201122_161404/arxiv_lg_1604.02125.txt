@@ -1,8 +1,0 @@
-We present an approach to simultaneously perform semantic segmentation and prepositional phrase attachment resolution for captioned images.
-The motivation for this work comes from the fact that some ambiguities in language simply cannot be resolved without simultaneously reasoning about an associated image.
-If we consider the sentence "I shot an elephant in my pajamas", looking at the language alone (and not reasoning about common sense), it is unclear if it is the person or the elephant that is wearing the pajamas or both.
-Our approach involves producing a diverse set of plausible hypotheses for both semantic segmentation and prepositional phrase attachment resolution that are then jointly re-ranked to select the most consistent pair.
-We show that our semantic segmentation and prepositional phrase attachment resolution modules have complementary strengths, and that joint reasoning produces more accurate results than any module operating in isolation.
-We also show that multiple hypotheses are crucial to improved multiple-module reasoning.
-Our vision and language approach significantly outperforms a state-of-the-art NLP system (Stanford Parser [16,27]) by 17.91 percent (28.69 percent relative) in one experiment, and by 12.83 percent (25.28 percent relative) in another.
-We also make small improvements over a state-of-the-art vision system (DeepLab-CRF [13]).

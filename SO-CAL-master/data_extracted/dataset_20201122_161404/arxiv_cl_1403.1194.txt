@@ -1,8 +1,0 @@
-In this paper, I propose a novel word sense disambiguation method based on the global co-occurrence information using NMF.
-When I calculate the dependency relation matrix, the existing method tends to produce very sparse co-occurrence matrix from a small training set.
-Therefore, the NMF algorithm sometimes does not converge to desired solutions.
-To obtain a large number of co-occurrence relations, I propose to use co-occurrence frequencies of dependency relations between word features in the whole training set.
-This enables us to solve data sparseness problem and induce more effective latent features.
-To evaluate the efficiency of the method of word sense disambiguation, I make some experiments to compare with the result of the two baseline methods.
-The results of the experiments show this method is effective for word sense disambiguation in comparison with the all baseline methods.
-Moreover, the proposed method is effective for obtaining a stable effect by analyzing the global co-occurrence information.

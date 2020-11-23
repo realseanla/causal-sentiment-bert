@@ -1,0 +1,5 @@
+Most current very low bit rate (VLBR) speech coding systems use hidden Markov model (HMM) based speech recognition/synthesis techniques.
+This allows transmission of information (such as phonemes) segment by segment that decreases the bit rate.
+However, the encoder based on a phoneme speech recognition may create bursts of segmental errors.
+Segmental errors are further propagated to optional suprasegmental (such as syllable) information coding.
+Together with the errors of voicing detection in pitch parametrization, HMM-based speech coding creates speech discontinuities and unnatural speech sound artefacts.

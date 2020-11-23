@@ -1,3 +1,0 @@
-We study the problem of Robust Least Squares Regression (RLSR) where several response variables can be adversarially corrupted.
-More specifically, for a data matrix X \in R^{p x n} and an underlying model w*, the response vector is generated as y = X'w* + b where b \in R^n is the corruption vector supported over at most C.n coordinates.
-Existing exact recovery results for RLSR focus solely on L1-penalty based convex formulations and impose relatively strict model assumptions such as requiring the corruptions b to be selected independently of X.

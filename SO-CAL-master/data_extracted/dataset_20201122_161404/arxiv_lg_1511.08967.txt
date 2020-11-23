@@ -1,5 +1,0 @@
-Reinforcement learning (RL) is a general and well-known method that a robot can use to learn an optimal control policy to solve a particular task.
-We would like to build a versatile robot that can learn multiple tasks, but using RL for each of them would be prohibitively expensive in terms of both time and wear-and-tear on the robot.
-To remedy this problem, we use the Policy Gradient Efficient Lifelong Learning Algorithm (PG-ELLA), an online multi-task RL algorithm that enables the robot to efficiently learn multiple consecutive tasks by sharing knowledge between these tasks to accelerate learning and improve performance.
-We implemented and evaluated three RL methods--Q-learning, policy gradient RL, and PG-ELLA--on a ground robot whose task is to find a target object in an environment under different surface conditions.
-In this paper, we discuss our implementations as well as present an empirical analysis of their learning performance.

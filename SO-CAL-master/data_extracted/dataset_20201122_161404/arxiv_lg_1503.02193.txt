@@ -1,7 +1,0 @@
-We resolve an open question from (Christiano, 2014b) posed in COLT'14 regarding the optimal dependency of the regret achievable for online local learning on the size of the label set.
-In this framework the algorithm is shown a pair of items at each step, chosen from a set of $n$ items.
-The learner then predicts a label for each item, from a label set of size $L$ and receives a real valued payoff.
-This is a natural framework which captures many interesting scenarios such as collaborative filtering, online gambling, and online max cut among others.
-(Christiano, 2014a) designed an efficient online learning algorithm for this problem achieving a regret of $O(\sqrt{nL^3T})$, where $T$ is the number of rounds.
-Information theoretically, one can achieve a regret of $O(\sqrt{n \log L T})$.
-One of the main open questions left in this framework concerns closing the above gap.

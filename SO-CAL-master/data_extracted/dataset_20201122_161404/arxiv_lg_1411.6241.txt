@@ -1,8 +1,0 @@
-Spectral clustering is a key research topic in the field of machine learning and data mining.
-Most of the existing spectral clustering algorithms are built upon Gaussian Laplacian matrices, which are sensitive to parameters.
-We propose a novel parameter free, distance consistent Locally Linear Embedding.
-The proposed distance consistent LLE promises that edges between closer data points have greater weight.Furthermore, we propose a novel improved spectral clustering via embedded label propagation.
-Our algorithm is built upon two advancements of the state of the art:1) label propagation,which propagates a node\'s labels to neighboring nodes according to their proximity; and 2) manifold learning, which has been widely used in its capacity to leverage the manifold structure of data points.
-First we perform standard spectral clustering on original data and assign each cluster to k nearest data points.
-Next, we propagate labels through dense, unlabeled data regions.
-Extensive experiments with various datasets validate the superiority of the proposed algorithm compared to current state of the art spectral algorithms.

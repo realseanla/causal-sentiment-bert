@@ -1,0 +1,3 @@
+Infinite--Layer Networks (ILN) have recently been proposed as an architecture that mimics neural networks while enjoying some of the advantages of kernel methods.
+ILN are networks that integrate over infinitely many nodes within a single hidden layer.
+It has been demonstrated by several authors that the problem of learning ILN can be reduced to the kernel trick, implying that whenever a certain integral can be computed analytically they are efficiently learnable.

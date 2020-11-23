@@ -1,5 +1,0 @@
-We study the stochastic optimization of canonical correlation analysis (CCA), whose objective is nonconvex and does not decouple over training samples.
-Although several stochastic optimization algorithms have been recently proposed to solve this problem, no global convergence guarantee was provided by any of them.
-Based on the alternating least squares formulation of CCA, we propose a globally convergent stochastic algorithm, which solves the resulting least squares problems approximately to sufficient accuracy with state-of-the-art stochastic gradient methods for convex optimization.
-We provide the overall time complexity of our algorithm which significantly improves upon that of previous work.
-Experimental results demonstrate the superior performance of our algorithm.

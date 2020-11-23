@@ -1,0 +1,6 @@
+In this paper, we study CPU utilization time patterns of several MapReduce applications.
+After extracting running patterns of several applications, they are saved in a reference database to be later used to tweak system parameters to efficiently execute unknown applications in future.
+To achieve this goal, CPU utilization patterns of new applications are compared with the already known ones in the reference database to find/predict their most probable execution patterns.
+Because of different patterns lengths, the Dynamic Time Warping (DTW) is utilized for such comparison; a correlation analysis is then applied to DTWs outcomes to produce feasible similarity patterns.
+Three real applications (WordCount, Exim Mainlog parsing and Terasort) are used to evaluate our hypothesis in tweaking system parameters in executing similar applications.
+Results were very promising and showed effectiveness of our approach on pseudo-distributed MapReduce platforms.

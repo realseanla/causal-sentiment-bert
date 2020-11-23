@@ -1,3 +1,0 @@
-Existing caching strategies, in the storage domain, though well suited to exploit short range spatio-temporal patterns, are unable to leverage long-range motifs for improving hitrates.
-Motivated by this, we investigate novel Bayesian non-parametric modeling(BNP) techniques for count vectors, to capture long range correlations for cache preloading, by mining Block I/O traces.
-Such traces comprise of a sequence of memory accesses that can be aggregated into high-dimensional sparse correlated count vector sequences.

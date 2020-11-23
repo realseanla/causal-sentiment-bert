@@ -1,8 +1,0 @@
-Deep networks have inspired a renaissance in neural network use, and are becoming the default option for difficult tasks on large datasets.
-In this report we show that published deep network results on the MNIST handwritten digit dataset can straightforwardly be replicated (error rates below 1 percent, without use of any distortions) with shallow 'Extreme Learning Machine' (ELM) networks, with a very rapid training time (~10 minutes).
-When we used distortions of the training set we obtained error rates below 0.6 percent.
-To achieve this performance, we introduce several methods for enhancing ELM implementation, which individually and in combination can significantly improve performance, to the point where it is nearly indistinguishable from deep network performance.
-The main innovation is to ensure each hidden-unit operates only on a randomly sized and positioned patch of each image.
-This form of random 'receptive field' sampling of the input ensures the input weight matrix is sparse, with about 90 percent of weights equal to zero, which is a potential advantage for hardware implementations.
-Furthermore, combining our methods with a small number of iterations of a single-batch backpropagation method can significantly reduce the number of hidden-units required to achieve a particular performance.
-Our close to state-of-the-art results for MNIST suggest that the ease of use and accuracy of ELM should cause it to be given greater consideration as an alternative to deep networks applied to more challenging datasets.

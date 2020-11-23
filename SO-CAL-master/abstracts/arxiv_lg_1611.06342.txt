@@ -1,0 +1,5 @@
+The complexity of deep neural network algorithms for hardware implementation can be lowered either by scaling the number of units or reducing the word-length of weights.
+Both approaches, however, can accompany the performance degradation although many types of research are conducted to relieve this problem.
+Thus, it is an important question which one, between the network size scaling and the weight quantization, is more effective for hardware optimization.
+For this study, the performances of fully-connected deep neural networks (FCDNNs) and convolutional neural networks (CNNs) are evaluated while changing the network complexity and the word-length of weights.
+Based on these experiments, we present the effective compression ratio (ECR) to guide the trade-off between the network size and the precision of weights when the hardware resource is limited.

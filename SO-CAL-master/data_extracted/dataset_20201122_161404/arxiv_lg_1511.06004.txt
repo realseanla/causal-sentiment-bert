@@ -1,6 +1,0 @@
-The electromyography (EMG) signal is the electrical manifestation of a neuromuscular activation that provides access to physiological processes which cause the muscle to generate force and produce movement.
-Non invasive prostheses use such signals detected by the electrodes placed on the user's stump, as input to generate hand posture movements according to the intentions of the prosthesis wearer.
-The aim of this pilot study is to explore the repeatability issue, i.e.
-the ability to classify 17 different hand postures, represented by EMG signal, across a time span of days by a control algorithm.
-Data collection experiments lasted four days and signals were collected from the forearm of a single subject.
-We find that Support Vector Machine (SVM) classification results are high enough to guarantee a correct classification of more than 10 postures in each moment of the considered time span.

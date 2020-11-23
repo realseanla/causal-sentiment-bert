@@ -1,4 +1,0 @@
-In this article we propose a qualitative (ordinal) counterpart for the Partially Observable Markov Decision Processes model (POMDP) in which the uncertainty, as well as the preferences of the agent, are modeled by possibility distributions.
-This qualitative counterpart of the POMDP model relies on a possibilistic theory of decision under uncertainty, recently developed.
-One advantage of such a qualitative framework is its ability to escape from the classical obstacle of stochastic POMDPs, in which even with a finite state space, the obtained belief state space of the POMDP is infinite.
-Instead, in the possibilistic framework even if exponentially larger than the state space, the belief state space remains finite.

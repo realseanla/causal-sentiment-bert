@@ -1,0 +1,4 @@
+Recent work has successfully constructed adversarial "evading" instances for differentiable prediction models.
+However generating adversarial instances for tree ensembles, a piecewise constant class of models, has remained an open problem.
+In this paper, we construct both exact and approximate evasion algorithms for tree ensembles: for a given instance x we find the "nearest" instance x' such that the classifier predictions of x and x' are different.
+First, we show that finding such instances is practically possible despite tree ensemble models being non-differentiable and the optimal evasion problem being NP-hard.

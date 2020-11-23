@@ -1,6 +1,0 @@
-Bayesian knowledge bases (BKBs) are a generalization of Bayes networks and weighted proof graphs (WAODAGs), that allow cycles in the causal graph.
-Reasoning in BKBs requires finding the most probable inferences consistent with the evidence.
-The cost-sharing heuristic for finding least-cost explanations in WAODAGs was presented and shown to be effective by Charniak and Husain.
-However, the cycles in BKBs would make the definition of cost-sharing cyclic as well, if applied directly to BKBs.
-By treating the defining equations of cost-sharing as a system of equations, one can properly define an admissible cost-sharing heuristic for BKBs.
-Empirical evaluation shows that cost-sharing improves performance significantly when applied to BKBs.

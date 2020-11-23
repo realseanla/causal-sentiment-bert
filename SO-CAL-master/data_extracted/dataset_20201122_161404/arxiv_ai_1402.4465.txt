@@ -1,8 +1,0 @@
-Recent work introduced the cube-and-conquer technique to solve hard SAT instances.
-It partitions the search space into cubes using a lookahead solver.
-Each cube is tackled by a conflict-driven clause learning (CDCL) solver.
-Crucial for strong performance is the cutoff heuristic that decides when to switch from lookahead to CDCL.
-Yet, this offline heuristic is far from ideal.
-In this paper, we present a novel hybrid solver that applies the cube and conquer steps simultaneously.
-A lookahead and a CDCL solver work together on each cube, while communication is restricted to synchronization.
-Our concurrent cube-and-conquer solver can solve many instances faster than pure lookahead, pure CDCL and offline cube-and-conquer, and can abort early in favor of a pure CDCL search if an instance is not suitable for cube-and-conquer techniques.

@@ -1,6 +1,0 @@
-We envision a machine learning service provider facing a continuous stream of problems with the same input domain, but with output domains that may differ.
-Clients present the provider with problems implicitly, by labeling a few example inputs, and then ask the provider to train models which reasonably extend their labelings to novel inputs.
-The provider wants to avoid constraining its users to a set of common labels, so it does not assume any particular correspondence between labels for a new task and labels for previously encountered tasks.
-To perform well in this setting, the provider needs a representation of the input domain which, in expectation, permits effective models for new problems to be learned efficiently from a small number of examples.
-While this bears a resemblance to settings considered in previous work on multitask and lifelong learning, our non-assumption of inter-task label correspondence leads to a novel algorithm: Lifelong Learner of Discriminative Representations (LLDR), which explicitly minimizes a proxy for the intra-task small-sample generalization error.
-We examine the relative benefits of our approach on a diverse set of real-world datasets in three significant scenarios: representation learning, multitask learning and lifelong learning.

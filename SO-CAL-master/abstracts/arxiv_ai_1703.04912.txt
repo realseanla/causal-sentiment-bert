@@ -1,0 +1,4 @@
+Recent methods have adapted the well-established AGM and belief base frameworks for belief change to cover belief revision in logic programs.
+In this study here, we present two new sets of belief change operators for logic programs.
+They focus on preserving the explicit relationships expressed in the rules of a program, a feature that is missing in purely semantic approaches that consider programs only in their entirety.
+In particular, operators of the latter class fail to satisfy preservation and support, two important properties for belief change in logic programs required to ensure intuitive results.

@@ -1,4 +1,0 @@
-This paper presents a new method to construct a system of transformation rules for the Part-Of-Speech tagging task.
-Our approach is based on an incremental knowledge acquisition methodology where rules are stored in an exception-structure and new rules are only added to correct errors of existing rules; thus allowing systematic control of the interaction between rules.
-Experiments on 13 languages exhibit that our method is fast in terms of training time and tagging speed.
-Furthermore, our method is able to attain state-of-the-art accuracies for relatively isolating or analytic languages whilst reaching competitive accuracy results on morphologically rich Indo-European languages.

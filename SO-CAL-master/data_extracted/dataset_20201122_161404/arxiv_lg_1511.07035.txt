@@ -1,7 +1,0 @@
-We introduce a recurrent neural network architecture for automated road surface wetness detection from audio of tire-surface interaction.
-The robustness of our approach is evaluated on 785,826 bins of audio that span an extensive range of vehicle speeds, noises from the environment, road surface types, and pavement conditions including international roughness index (IRI) values from 25 in/mi to 1400 in/mi.
-The training and evaluation of the model are performed on different roads to minimize the impact of environmental and other external factors on the accuracy of the classification.
-We achieve an unweighted average recall (UAR) of 93.2 percent across all vehicle speeds including 0 mph.
-The classifier still works at 0 mph because the discriminating signal is present in the sound of other vehicles driving by.
-Removing audio segments at speeds below 2.9 mph from consideration improves the UAR to 100 percent.
-In the case when the vehicle speed is below 2.9 mph, we were able to discriminate between wet and dry road surfaces from ambient noises and achieve 74.5 percent UAR.

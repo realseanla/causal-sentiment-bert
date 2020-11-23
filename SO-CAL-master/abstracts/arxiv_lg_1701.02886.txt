@@ -1,0 +1,4 @@
+We illustrate the potential in statistics and machine learning of the Christoffel function, or more precisely, its empirical counterpart associated with a counting measure uniformly supported on a finite set of points.
+Firstly, we provide a thresholding scheme which allows to approximate the support of a measure from a finite subset of its moments with strong asymptotic guaranties.
+Secondly, we provide a consistency result which relates the empirical Christoffel function and its population counterpart in the limit of large samples.
+Finally, we illustrate the relevance of our results on simulated and real world datasets for several applications in statistics and machine learning: (a) density and support estimation from finite samples, (b) outlier and novelty detection and (c) affine matching.

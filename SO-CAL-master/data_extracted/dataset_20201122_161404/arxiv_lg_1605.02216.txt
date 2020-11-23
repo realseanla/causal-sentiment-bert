@@ -1,6 +1,0 @@
-We study the problem of how to distribute the training of large-scale deep learning models in the parallel computing environment.
-We propose a new distributed stochastic optimization method called Elastic Averaging SGD (EASGD).
-We analyze the convergence rate of the EASGD method in the synchronous scenario and compare its stability condition with the existing ADMM method in the round-robin scheme.
-An asynchronous and momentum variant of the EASGD method is applied to train deep convolutional neural networks for image classification on the CIFAR and ImageNet datasets.
-Our approach accelerates the training and furthermore achieves better test accuracy.
-It also requires a much smaller amount of communication than other common baseline approaches such as the DOWNPOUR method.

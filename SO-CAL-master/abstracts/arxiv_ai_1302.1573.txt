@@ -1,0 +1,3 @@
+This paper is concerned with planning in stochastic domains by means of partially observable Markov decision processes (POMDPs).
+POMDPs are difficult to solve.
+This paper identifies a subclass of POMDPs called region observable POMDPs, which are easier to solve and can be used to approximate general POMDPs to arbitrary accuracy.

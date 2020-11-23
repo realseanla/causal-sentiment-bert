@@ -1,0 +1,4 @@
+Two-timescale Stochastic Approximation (SA) algorithms are widely used in Reinforcement Learning (RL).
+In such methods, the iterates consist of two parts that are updated using different stepsizes.
+We develop the first convergence rate result for these algorithms; in particular, we provide a general methodology for analyzing two-timescale linear SA.
+We apply our methodology to two-timescale RL algorithms such as GTD(0), GTD2, and TDC.

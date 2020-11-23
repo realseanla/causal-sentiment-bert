@@ -1,6 +1,0 @@
-Learning to hash plays a fundamentally important role in the efficient image and video retrieval and many other computer vision problems.
-However, due to the binary outputs of the hash functions, the learning of hash functions is very challenging.
-In this paper, we propose a novel approach to learn stochastic hash functions such that the learned hashing codes can be used to regenerate the inputs.
-We develop an efficient stochastic gradient learning algorithm which can avoid the notorious difficulty caused by binary output constraint, and directly optimize the parameters of the hash functions and the associated generative model jointly.
-The proposed method can be applied to both $L2$ approximate nearest neighbor search (L2NNS) and maximum inner product search (MIPS).
-Extensive experiments on a variety of large-scale datasets show that the proposed method achieves significantly better retrieval results than previous state-of-the-arts.

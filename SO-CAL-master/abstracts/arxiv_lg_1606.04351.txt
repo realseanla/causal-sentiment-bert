@@ -1,0 +1,7 @@
+This paper describes the participation of the team "TwiSE" in the SemEval 2016 challenge.
+Specifically, we participated in Task 4, namely "Sentiment Analysis in Twitter" for which we implemented sentiment classification systems for subtasks A, B, C and D. Our approach consists of two steps.
+In the first step, we generate and validate diverse feature sets for twitter sentiment evaluation, inspired by the work of participants of previous editions of such challenges.
+In the second step, we focus on the optimization of the evaluation measures of the different subtasks.
+To this end, we examine different learning strategies by validating them on the data provided by the task organisers.
+For our final submissions we used an ensemble learning approach (stacked generalization) for Subtask A and single linear models for the rest of the subtasks.
+In the official leaderboard we were ranked 9/35, 8/19, 1/11 and 2/14 for subtasks A, B, C and D respectively.\footnote{We make the code available for research purposes at \url{

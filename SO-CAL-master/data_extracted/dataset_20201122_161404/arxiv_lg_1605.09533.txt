@@ -1,6 +1,0 @@
-This paper proposes an approach that predicts the road course from camera sensors leveraging deep learning techniques.
-Road pixels are identified by training a multi-scale convolutional neural network on a large number of full-scene-labeled night-time road images including adverse weather conditions.
-A framework is presented that applies the proposed approach to longer distance road course estimation, which is the basis for an augmented reality navigation application.
-In this framework long range sensor data (radar) and data from a map database are fused with short range sensor data (camera) to produce a precise longitudinal and lateral localization and road course estimation.
-The proposed approach reliably detects roads with and without lane markings and thus increases the robustness and availability of road course estimations and augmented reality navigation.
-Evaluations on an extensive set of high precision ground truth data taken from a differential GPS and an inertial measurement unit show that the proposed approach reaches state-of-the-art performance without the limitation of requiring existing lane markings.

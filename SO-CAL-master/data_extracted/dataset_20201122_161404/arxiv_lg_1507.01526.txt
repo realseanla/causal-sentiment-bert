@@ -1,8 +1,0 @@
-This paper introduces Grid Long Short-Term Memory, a network of LSTM cells arranged in a multidimensional grid that can be applied to vectors, sequences or higher dimensional data such as images.
-The network differs from existing deep LSTM architectures in that the cells are connected between network layers as well as along the spatiotemporal dimensions of the data.
-It therefore provides a unified way of using LSTM for both deep and sequential computation.
-We apply the model to algorithmic tasks such as integer addition and determining the parity of random binary vectors.
-It is able to solve these problems for 15-digit integers and 250-bit vectors respectively.
-We then give results for three empirical tasks.
-We find that 2D Grid LSTM achieves 1.47 bits per character on the Wikipedia character prediction benchmark, which is state-of-the-art among neural approaches.
-We also observe that a two-dimensional translation model based on Grid LSTM outperforms a phrase-based reference system on a Chinese-to-English translation task, and that 3D Grid LSTM yields a near state-of-the-art error rate of 0.32 percent on MNIST.

@@ -1,5 +1,0 @@
-Semi-supervised learning algorithms are an indispensable tool when labeled examples are scarce and there are many unlabeled examples [Blum and Chawla 2001, Zhu et.
-al.
-2003].
-With graph-based methods, entities (examples) correspond to nodes in a graph and edges correspond to related entities.
-The graph structure is used to infer implicit pairwise affinity values (kernel) which are used to compute the learned labels.

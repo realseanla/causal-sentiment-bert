@@ -1,0 +1,6 @@
+We propose a novel system which can transform a recipe into any selected regional style (e.g., Japanese, Mediterranean, or Italian).
+This system has three characteristics.
+First the system can identify the degree of dietary style mixture of any selected recipe.
+Second, the system can visualize such dietary style mixtures using barycentric Newton diagrams.
+Third, the system can suggest ingredient substitutions through an extended word2vec model, such that a recipe becomes more authentic for any selected dietary style.
+Drawing on a large number of recipes from Yummly, an example shows how the proposed system can transform a traditional Japanese recipe, Sukiyaki, into French style.

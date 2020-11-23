@@ -1,8 +1,0 @@
-We investigate crowdsourcing algorithms for finding the top-quality item within a large collection of objects with unknown intrinsic quality values.
-This is an important problem with many relevant applications, for example in networked recommendation systems.
-The core of the algorithms is that objects are distributed to crowd workers, who return a noisy evaluation.
-All received evaluations are then combined, to identify the top-quality object.
-We first present a simple probabilistic model for the system under investigation.
-Then, we devise and study a class of efficient adaptive algorithms to assign in an effective way objects to workers.
-We compare the performance of several algorithms, which correspond to different choices of the design parameters/metrics.
-We finally compare our approach based on scoring object qualities against traditional proposals based on comparisons and tournaments.

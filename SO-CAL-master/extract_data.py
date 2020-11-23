@@ -45,9 +45,8 @@ def extract_arxiv(categories=("ai", "cl", "lg"), splits=("dev", "test", "train")
     return extracted_data
 
 
-def generate_txt_files(_dict):
-    results_folder = 'dataset_' + time.strftime('%Y%m%d') + '_' + time.strftime('%H%M%S')
-    results_path = os.path.join('data_extracted', results_folder)
+def generate_abstract_files(_dict):
+    results_path = 'abstracts'
     if not os.path.exists(results_path):
         os.mkdir(results_path)
     for paper in _dict.items():
@@ -58,36 +57,34 @@ def generate_txt_files(_dict):
                 fout.write(s + '\n')
 
 
-def remove_citations(_str):
-    while True:
-        cite_start = _str.find("\\cite{")
-        cite_end = _str.find("}")
-        if cite_start == -1: break
-        if cite_start > cite_end:
-            cite_end = _str[cite_start:].find("}") + len(_str[:cite_start])
-        if cite_start == 0:
-            _str = _str[_str[cite_end + 1:]]
-        else:
-            _str = _str[:cite_start] + _str[cite_end + 1:]
-    return _str
+def save_dict(_dict):
+    with open('dataset.json', 'w') as j_file:
+        json.dump(_dict, j_file)
 
 
-def replace_percent(_str):
-    percent_idx = _str.find("%")
-    if percent_idx == -1: return _str
-    _str = _str.replace("%", " percent")
-    return _str
-
-
-def clean_abstract(_str):
-    _str = remove_citations(_str)
-    _str = replace_percent(_str)
+def clean_abstract(_str, rm_cites=True, replace_p=True):
+    if rm_cites:
+        while True:
+            cite_start = _str.find("\\cite{")
+            cite_end = _str.find("}")
+            if cite_start == -1: break
+            if cite_start > cite_end:
+                cite_end = _str[cite_start:].find("}") + len(_str[:cite_start])
+            if cite_start == 0:
+                _str = _str[_str[cite_end + 1:]]
+            else:
+                _str = _str[:cite_start] + _str[cite_end + 1:]
+    if replace_p:
+        percent_idx = _str.find("%")
+        if percent_idx == -1: return _str
+        _str = _str.replace("%", " percent")
     return _str
 
 
 def main():
     extracted_data = extract_arxiv()
-    generate_txt_files(extracted_data)
+    generate_abstract_files(extracted_data)
+    save_dict(extracted_data)
 
 
 if __name__ == '__main__':

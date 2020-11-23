@@ -1,0 +1,9 @@
+This paper presents a method, called \textit{AOGTracker}, for simultaneously tracking, learning and parsing (TLP) objects in video sequences with a hierarchical and compositional And-Or graph (AOG) representation.
+In our TLP framework, the AOG explores latent part configurations to represent a target object.
+The TLP is formulated in the Bayesian framework and a spatial-temporal dynamic programming (DP) algorithm is derived to infer object bounding boxes on the fly.
+During online learning, the AOG is discriminatively trained in the latent structural SVM framework to account for the appearance (e.g., lighting and partial occlusion) and structural (e.g., different poses and viewpoints) variations of the object, as well as the distractors (e.g., similar objects) in the background scene.
+Three key issues in online learning are addressed: (i) maintaining the purity of positive and negative datasets collected online with the help from the spatial-temporal DP algorithm, (ii) controling the model complexity in latent structure learning, and (iii) identifying the critical moments to re-learn the structure of AOG based on its intrackability.
+The intrackability measures the uncertainty of the AOG based on its score maps.
+In experiments, our AOGTracker is tested in two main tracking benchmarks with the same parameter setting: the TB-100/50/CVPR2013 benchmarks, and the VOT benchmarks --- VOT 2013, 2014, 2015 and TIR2015 (thermal imagery tracking).
+In the former, our AOGTracker outperforms state-of-the-art tracking algorithms including two trackers based on deep convolutional network.
+In the latter, our AOGTracker outperforms all other trackers in VOT2013 and is comparable to the state-of-the-art methods in VOT2014 (comparison results of VOT2015 and VOT-TIR2015 will be released by the benchmark authors at the VOT2015 workshop in conjunction with ICCV2015).

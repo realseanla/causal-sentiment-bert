@@ -1,4 +1,0 @@
-Presented herein is a novel model for similar question ranking within collaborative question answer platforms.
-The presented approach integrates a regression stage to relate topics derived from questions to those derived from question-answer pairs.
-This helps to avoid problems caused by the differences in vocabulary used within questions and answers, and the tendency for questions to be shorter than answers.
-The performance of the model is shown to outperform translation methods and topic modelling (without regression) on several real-world datasets.

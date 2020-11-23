@@ -1,5 +1,0 @@
-Mammogram classification is directly related to computer-aided diagnosis of breast cancer.
-Traditional methods rely on regions of interest (ROIs) which require great efforts to annotate.
-Inspired by the success of using deep convolutional features for natural image analysis and multi-instance learning (MIL) for labeling a set of instances/patches, we propose end-to-end trained deep multi-instance networks for mass classification based on whole mammogram without the aforementioned ROIs.
-We explore three different schemes to construct deep multi-instance networks for whole mammogram classification.
-Experimental results on the INbreast dataset demonstrate the robustness of proposed networks compared to previous work using segmentation and detection annotations.

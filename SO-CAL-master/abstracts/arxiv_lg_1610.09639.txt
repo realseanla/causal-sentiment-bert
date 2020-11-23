@@ -1,0 +1,10 @@
+The learning capability of a neural network improves with increasing depth at higher computational costs.
+Wider layers with dense kernel connectivity patterns furhter increase this cost and may hinder real-time inference.
+We propose feature map and kernel level pruning for reducing the computational complexity of a deep convolutional neural network.
+Pruning feature maps reduces the width of a layer and hence does not need any sparse representation.
+Further, kernel pruning converts the dense connectivity pattern into a sparse one.
+Due to coarse nature, these pruning granularities can be exploited by GPUs and VLSI based implementations.
+We propose a simple and generic strategy to choose the least adversarial pruning masks for both granularities.
+The pruned networks are retrained which compensates the loss in accuracy.
+We obtain the best pruning ratios when we prune a network with both granularities.
+Experiments with the CIFAR-10 dataset show that more than 85 percent sparsity can be induced in the convolution layers with less than 1 percent increase in the missclassification rate of the baseline network.

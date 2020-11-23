@@ -1,7 +1,0 @@
-Procedural content generation (PCG) is of great interest to game design and development as it generates game content automatically.
-Motivated by the recent learning-based PCG framework and other existing PCG works, we propose an alternative approach to online content generation and adaptation in Super Mario Bros (SMB).
-Unlike most of existing works in SMB, our approach exploits the synergy between rule-based and learning-based methods to produce constructive primitives, quality yet controllable game segments in SMB.
-As a result, a complete quality game level can be generated online by integrating relevant constructive primitives via controllable parameters regarding geometrical features and procedure-level properties.
-Also the adaptive content can be generated in real time by dynamically selecting proper constructive primitives via an adaptation criterion, e.g., dynamic difficulty adjustment (DDA).
-Our approach is of several favorable properties in terms of content quality assurance, generation efficiency and controllability.
-Extensive simulation results demonstrate that the proposed approach can generate controllable yet quality game levels online and adaptable content for DDA in real time.

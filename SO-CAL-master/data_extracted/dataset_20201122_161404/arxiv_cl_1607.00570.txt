@@ -1,7 +1,0 @@
-Short text messages such as tweets are very noisy and sparse in their use of vocabulary.
-Traditional textual representations, such as tf-idf, have difficulty grasping the semantic meaning of such texts, which is important in applications such as event detection, opinion mining, news recommendation, etc.
-We constructed a method based on semantic word embeddings and frequency information to arrive at low-dimensional representations for short texts designed to capture semantic similarity.
-For this purpose we designed a weight-based model and a learning procedure based on a novel median-based loss function.
-This paper discusses the details of our model and the optimization methods, together with the experimental results on both Wikipedia and Twitter data.
-We find that our method outperforms the baseline approaches in the experiments, and that it generalizes well on different word embeddings without retraining.
-Our method is therefore capable of retaining most of the semantic information in the text, and is applicable out-of-the-box.

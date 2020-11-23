@@ -1,0 +1,4 @@
+Deep learning with convolutional neural networks (deep ConvNets) has revolutionized computer vision through end-to-end learning, i.e.
+learning from the raw data.
+Now, there is increasing interest in using deep ConvNets for end-to-end EEG analysis.
+However, little is known about many important aspects of how to design and train ConvNets for end-to-end EEG decoding, and there is still a lack of techniques to visualize the informative EEG features the ConvNets learn.

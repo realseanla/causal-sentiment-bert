@@ -1,5 +1,0 @@
-Using a known speaker-intrinsic normalization procedure, formant data are scaled by the reciprocal of the geometric mean of the first three formant frequencies.
-This reduces the influence of the talker but results in a distorted vowel space.
-The proposed speaker-extrinsic procedure re-scales the normalized values by the mean formant values of vowels.
-When tested on the formant data of vowels published by Peterson and Barney, the combined approach leads to well separated clusters by reducing the spread due to talkers.
-The proposed procedure performs better than two top-ranked normalization procedures based on the accuracy of vowel classification as the objective measure.

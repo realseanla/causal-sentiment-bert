@@ -1,0 +1,3 @@
+A first-order conditional logic is considered, with semantics given by a variant of epsilon-semantics, where p -&gt; q means that Pr(q | p) approaches 1 super-polynomially --faster than any inverse polynomial.
+This type of convergence is needed for reasoning about security protocols.
+A complete axiomatization is provided for this semantics, and it is shown how a qualitative proof of the correctness of a security protocol can be automatically converted to a quantitative proof appropriate for reasoning about concrete security.

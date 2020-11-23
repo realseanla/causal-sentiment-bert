@@ -1,0 +1,4 @@
+We consider the problem of reinforcement learning with an orientation toward contexts in which an agent must generalize from past experience and explore to reduce uncertainty.
+We propose an approach to exploration based on randomized value functions and an algorithm -- randomized least-squares value iteration (RLSVI) -- that embodies this approach.
+We explain why versions of least-squares value iteration that use Boltzmann or epsilon-greedy exploration can be highly inefficient and present computational results that demonstrate dramatic efficiency gains enjoyed by RLSVI.
+Our experiments focus on learning over episodes of a finite-horizon Markov decision process and use a version of RLSVI designed for that task, but we also propose a version of RLSVI that addresses continual learning in an infinite-horizon discounted Markov decision process.

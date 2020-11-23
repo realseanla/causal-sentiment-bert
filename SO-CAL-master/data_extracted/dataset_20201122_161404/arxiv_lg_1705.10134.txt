@@ -1,4 +1,0 @@
-Deep learning approaches are still not very common in the speaker verification field.
-We investigate the possibility of using deep residual convolutional neural network with spectrograms as an input features in the text-dependent speaker verification task.
-Despite the fact that we were not able to surpass the baseline system in quality, we achieved a quite good results for such a new approach getting an 5.23\ percent ERR on the RSR2015 evaluation part.
-Fusion of the baseline and proposed systems outperformed the best individual system by 18\ percent relatively.

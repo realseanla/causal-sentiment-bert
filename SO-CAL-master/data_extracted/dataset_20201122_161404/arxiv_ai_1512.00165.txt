@@ -1,8 +1,0 @@
-Classic machine learning algorithms learn from labelled examples.
-For example, to design a machine translation system, a typical training set will consist of English sentences and their translation.
-There is a stronger model, in which the algorithm can also query for labels of new examples it creates.
-E.g, in the translation task, the algorithm can create a new English sentence, and request its translation from the user during training.
-This combination of examples and queries has been widely studied.
-Yet, despite many theoretical results, query algorithms are almost never used.
-One of the main causes for this is a report (Baum and Lang, 1992) on very disappointing empirical performance of a query algorithm.
-These poor results were mainly attributed to the fact that the algorithm queried for labels of examples that are artificial, and impossible to interpret by humans.

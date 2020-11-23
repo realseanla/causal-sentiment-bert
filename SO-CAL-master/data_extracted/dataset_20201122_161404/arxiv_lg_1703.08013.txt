@@ -1,7 +1,0 @@
-Text content can have different visual presentation ways with roughly similar characters.
-While conventional text image retrieval depends on complex model of OCR-based text recognition and text similarity detection, this paper proposes a new learning-based approach to text image retrieval with the purpose of finding out the original or similar text through a query text image.
-Firstly, features of text images are extracted by the CNN network to obtain the deep visual representations.
-Then, the dimension of CNN features is reduced by PCA method to improve the efficiency of similarity detection.
-Based on that, an improved similarity metrics with article theme relevance filtering is proposed to improve the retrieval accuracy.
-In experimental procedure, we collect a group of academic papers both including English and Chinese as the text database, and cut them into pieces of text image.
-A text image with changed text content is used as the query image, experimental results show that the proposed approach has good ability to retrieve the original text content.

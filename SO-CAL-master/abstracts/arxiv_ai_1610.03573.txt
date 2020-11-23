@@ -1,0 +1,6 @@
+We describe a general method of detecting valid chains or links of pieces on a two-dimensional grid.
+Specifically, using the example of the chess variant known as Switch-Side Chain-Chess (SSCC).
+Presently, no foolproof method of detecting such chains in any given chess position is known and existing graph theory, to our knowledge, is unable to fully address this problem either.
+We therefore propose a solution implemented and tested using the C++ programming language.
+We have been unable to find an incorrect result and therefore offer it as the most viable solution thus far to the chain-detection problem in this chess variant.
+The algorithm is also scalable, in principle, to areas beyond two-dimensional grids such as 3D analysis and molecular chemistry.

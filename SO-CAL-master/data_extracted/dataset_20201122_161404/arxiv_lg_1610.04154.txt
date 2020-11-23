@@ -1,5 +1,0 @@
-With the advent of extremely high dimensional datasets, dimensionality reduction techniques are becoming mandatory.
-Among many techniques, feature selection has been growing in interest as an important tool to identify relevant features on huge datasets --both in number of instances and features--.
-The purpose of this work is to demonstrate that standard feature selection methods can be parallelized in Big Data platforms like Apache Spark, boosting both performance and accuracy.
-We thus propose a distributed implementation of a generic feature selection framework which includes a wide group of well-known Information Theoretic methods.
-Experimental results on a wide set of real-world datasets show that our distributed framework is capable of dealing with ultra-high dimensional datasets as well as those with a huge number of samples in a short period of time, outperforming the sequential version in all the cases studied.

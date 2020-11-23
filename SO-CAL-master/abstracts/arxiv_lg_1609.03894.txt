@@ -1,0 +1,7 @@
+Convolutional Neural Networks (CNNs) were recently shown to provide state-of-the-art results for object category viewpoint estimation.
+However different ways of formulating this problem have been proposed and the competing approaches have been explored with very different design choices.
+This paper presents a comparison of these approaches in a unified setting as well as a detailed analysis of the key factors that impact performance.
+Followingly, we present a new joint training method with the detection task and demonstrate its benefit.
+We also highlight the superiority of classification approaches over regression approaches, quantify the benefits of deeper architectures and extended training data, and demonstrate that synthetic data is beneficial even when using ImageNet training data.
+By combining all these elements, we demonstrate an improvement of approximately 5 percent mAVP over previous state-of-the-art results on the Pascal3D+ dataset.
+In particular for their most challenging 24 view classification task we improve the results from 31.1 percent to 36.1 percent mAVP.

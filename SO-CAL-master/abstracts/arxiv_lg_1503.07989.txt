@@ -1,0 +1,10 @@
+We propose a Bayesian approach to learn discriminative dictionaries for sparse representation of data.
+The proposed approach infers probability distributions over the atoms of a discriminative dictionary using a Beta Process.
+It also computes sets of Bernoulli distributions that associate class labels to the learned dictionary atoms.
+This association signifies the selection probabilities of the dictionary atoms in the expansion of class-specific data.
+Furthermore, the non-parametric character of the proposed approach allows it to infer the correct size of the dictionary.
+We exploit the aforementioned Bernoulli distributions in separately learning a linear classifier.
+The classifier uses the same hierarchical Bayesian model as the dictionary, which we present along the analytical inference solution for Gibbs sampling.
+For classification, a test instance is first sparsely encoded over the learned dictionary and the codes are fed to the classifier.
+We performed experiments for face and action recognition; and object and scene-category classification using five public datasets and compared the results with state-of-the-art discriminative sparse representation approaches.
+Experiments show that the proposed Bayesian approach consistently outperforms the existing approaches.

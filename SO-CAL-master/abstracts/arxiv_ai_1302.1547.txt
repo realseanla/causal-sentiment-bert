@@ -1,0 +1,5 @@
+We describe work to control graphics rendering under limited computational resources by taking a decision-theoretic perspective on perceptual costs and computational savings of approximations.
+The work extends earlier work on the control of rendering by introducing methods and models for computing the expected cost associated with degradations of scene components.
+The expected cost is computed by considering the perceptual cost of degradations and a probability distribution over the attentional focus of viewers.
+We review the critical literature describing findings on visual search and attention, discuss the implications of the findings, and introduce models of expected perceptual cost.
+Finally, we discuss policies that harness information about the expected cost of scene components.

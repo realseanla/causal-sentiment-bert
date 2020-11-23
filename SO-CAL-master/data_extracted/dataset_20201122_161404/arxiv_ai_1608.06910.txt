@@ -1,6 +1,0 @@
-As the practical use of answer set programming (ASP) has grown with the development of efficient solvers, we expect a growing interest in extensions of ASP as their semantics stabilize and solvers supporting them mature.
-Epistemic Specifications, which adds modal operators K and M to the language of ASP, is one such extension.
-We call a program in this language an epistemic logic program (ELP).
-Solvers have thus far been practical for only the simplest ELPs due to exponential growth of the memory required.
-We describe a solver that is able to solve harder problems better (without exponentially-growing memory needs w.r.t.
-K and M occurrences) and faster than any other known ELP solver.

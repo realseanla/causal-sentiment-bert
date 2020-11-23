@@ -1,7 +1,0 @@
-Neural networks have proven effective at solving difficult problems but designing their architectures can be challenging, even for image classification problems alone.
-Evolutionary algorithms provide a technique to discover such networks automatically.
-Despite significant computational requirements, we show that evolving models that rival large, hand-designed architectures is possible today.
-We employ simple evolutionary techniques at unprecedented scales to discover models for the CIFAR-10 and CIFAR-100 datasets, starting from trivial initial conditions.
-To do this, we use novel and intuitive mutation operators that navigate large search spaces.
-We stress that no human participation is required once evolution starts and that the output is a fully-trained model.
-Throughout this work, we place special emphasis on the repeatability of results, the variability in the outcomes and the computational requirements.

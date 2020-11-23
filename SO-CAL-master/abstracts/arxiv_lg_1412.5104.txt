@@ -1,0 +1,7 @@
+Convolutional Neural Networks (ConvNets) have shown excellent results on many visual classification tasks.
+With the exception of ImageNet, these datasets are carefully crafted such that objects are well-aligned at similar scales.
+Naturally, the feature learning problem gets more challenging as the amount of variation in the data increases, as the models have to learn to be invariant to certain changes in appearance.
+Recent results on the ImageNet dataset show that given enough data, ConvNets can learn such invariances producing very discriminative features [1].
+But could we do more: use less parameters, less data, learn more discriminative features, if certain invariances were built into the learning process?
+In this paper we present a simple model that allows ConvNets to learn features in a locally scale-invariant manner without increasing the number of model parameters.
+We show on a modified MNIST dataset that when faced with scale variation, building in scale-invariance allows ConvNets to learn more discriminative features with reduced chances of over-fitting.

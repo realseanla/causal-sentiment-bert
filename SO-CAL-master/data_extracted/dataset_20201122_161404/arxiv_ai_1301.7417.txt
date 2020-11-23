@@ -1,3 +1,0 @@
-There is much interest in using partially observable Markov decision processes (POMDPs) as a formal model for planning in stochastic domains.
-This paper is concerned with finding optimal policies for POMDPs.
-We propose several improvements to incremental pruning, presently the most efficient exact algorithm for solving POMDPs.

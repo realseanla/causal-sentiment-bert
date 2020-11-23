@@ -1,6 +1,0 @@
-Traditionally, classifying large hierarchical labels with more than 10000 distinct traces can only be achieved with flatten labels.
-Although flatten labels is feasible, it misses the hierarchical information in the labels.
-Hierarchical models like HSVM by  becomes impossible to train because of the sheer number of SVMs in the whole architecture.
-We developed a hierarchical architecture based on neural networks that is simple to train.
-Also, we derived an inference algorithm that can efficiently infer the MAP (maximum a posteriori) trace guaranteed by our theorems.
-Furthermore, the complexity of the model is only $O(n^2)$ compared to $O(n^h)$ in a flatten model, where $h$ is the height of the hierarchy.

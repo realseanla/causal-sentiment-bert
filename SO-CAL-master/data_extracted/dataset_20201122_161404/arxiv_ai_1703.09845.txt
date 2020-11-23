@@ -1,5 +1,0 @@
-The recently launched LinkedIn Salary product has been designed to realize the vision of helping the world's professionals optimize their earning potential through salary transparency.
-We describe the overall design and architecture of the salary modeling system underlying this product.
-We focus on the unique data mining challenges in designing and implementing the system, and describe the modeling components such as outlier detection and Bayesian hierarchical smoothing that help to compute and present robust compensation insights to users.
-We report on extensive evaluation with nearly one year of anonymized compensation data collected from over one million LinkedIn users, thereby demonstrating the efficacy of the statistical models.
-We also highlight the lessons learned through the deployment of our system at LinkedIn.

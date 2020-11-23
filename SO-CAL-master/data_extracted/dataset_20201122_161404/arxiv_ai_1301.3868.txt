@@ -1,6 +1,0 @@
-To investigate the robustness of the output probabilities of a Bayesian network, a sensitivity analysis can be performed.
-A one-way sensitivity analysis establishes, for each of the probability parameters of a network, a function expressing a posterior marginal probability of interest in terms of the parameter.
-Current methods for computing the coefficients in such a function rely on a large number of network evaluations.
-In this paper, we present a method that requires just a single outward propagation in a junction tree for establishing the coefficients in the functions for all possible parameters; in addition, an inward propagation is required for processing evidence.
-Conversely, the method requires a single outward propagation for computing the coefficients in the functions expressing all possible posterior marginals in terms of a single parameter.
-We extend these results to an n-way sensitivity analysis in which sets of parameters are studied.

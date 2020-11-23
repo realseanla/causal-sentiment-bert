@@ -1,0 +1,5 @@
+In recent years, deep architectures have been used for transfer learning with state-of-the-art performance in many datasets.
+The properties of their features remain, however, largely unstudied under the transfer perspective.
+In this work, we present an extensive analysis of the resiliency of feature vectors extracted from deep models, with special focus on the trade-off between performance and compression rate.
+By introducing perturbations to image descriptions extracted from a deep convolutional neural network, we change their precision and number of dimensions, measuring how it affects the final score.
+We show that deep features are more robust to these disturbances when compared to classical approaches, achieving a compression rate of 98.4 percent, while losing only 0.88 percent of their original score for Pascal VOC 2007.

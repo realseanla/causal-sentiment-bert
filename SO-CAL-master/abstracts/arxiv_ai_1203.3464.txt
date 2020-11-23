@@ -1,0 +1,6 @@
+Languages for open-universe probabilistic models (OUPMs) can represent situations with an unknown number of objects and iden- tity uncertainty.
+While such cases arise in a wide range of important real-world appli- cations, existing general purpose inference methods for OUPMs are far less efficient than those available for more restricted lan- guages and model classes.
+This paper goes some way to remedying this deficit by in- troducing, and proving correct, a generaliza- tion of Gibbs sampling to partial worlds with possibly varying model structure.
+Our ap- proach draws on and extends previous generic OUPM inference methods, as well as aux- iliary variable samplers for nonparametric mixture models.
+It has been implemented for BLOG, a well-known OUPM language.
+Combined with compile-time optimizations, the resulting algorithm yields very substan- tial speedups over existing methods on sev- eral test cases, and substantially improves the practicality of OUPM languages generally.

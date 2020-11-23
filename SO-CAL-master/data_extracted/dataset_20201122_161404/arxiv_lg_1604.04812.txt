@@ -1,3 +1,0 @@
-This paper aims to improve the feature learning in Convolutional Networks (Convnet) by capturing the structure of objects.
-A new sparsity function is imposed on the extracted featuremap to capture the structure and shape of the learned object, extracting interpretable features to improve the prediction performance.
-The proposed algorithm is based on organizing the activation within and across featuremap by constraining the node activities through $\ell_{2}$ and $\ell_{1}$ normalization in a structured form.

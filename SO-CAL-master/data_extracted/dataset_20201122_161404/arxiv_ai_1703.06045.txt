@@ -1,6 +1,0 @@
-We discuss the computational complexity of approximating maximum a posteriori inference in sum-product networks.
-We first show NP-hardness in three-level trees by a reduction from maximum independent set; this implies non-approximability within a sublinear factor.
-We show that this is a tight bound, as we can find an approximation within a linear factor in three-level networks.
-We then show that in four-level trees it is NP-hard to approximate the problem within a factor $2^{f(n)}$ for any sublinear function $f$ of the size of the input $n$.
-Again, this is bound is tight, as we prove that the usual max-product algorithm finds (in any network) approximations within factor $2^{c n}$ from some constant $c &lt; 1$.
-Last, we present a simple algorithm, and show that it provably produces solutions at least as good as, and potentially much better than, the max-product algorithm.

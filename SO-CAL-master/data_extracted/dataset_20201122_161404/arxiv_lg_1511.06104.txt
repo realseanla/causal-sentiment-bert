@@ -1,6 +1,0 @@
-The recent promising achievements of deep learning rely on the large amount of labeled data.
-Considering the abundance of data on the web, most of them do not have labels at all.
-Therefore, it is important to improve generalization performance using unlabeled data on supervised tasks with few labeled instances.
-In this work, we revisit graph-based semi-supervised learning algorithms and propose an online graph construction technique which suits deep convolutional neural network better.
-We consider an EM-like algorithm for semi-supervised learning on deep neural networks: In forward pass, the graph is constructed based on the network output, and the graph is then used for loss calculation to help update the network by back propagation in the backward pass.
-We demonstrate the strength of our online approach compared to the conventional ones whose graph is constructed on static but not robust enough feature representations beforehand.

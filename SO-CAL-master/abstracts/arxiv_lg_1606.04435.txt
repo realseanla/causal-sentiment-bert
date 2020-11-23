@@ -1,0 +1,4 @@
+Deep neural networks have recently been shown to lack robustness against adversarially crafted inputs.
+These inputs are derived from regular inputs by minor yet carefully selected perturbations that deceive the neural network into desired misclassifications.
+Existing work in this emerging field was largely specific to the domain of image classification, since images with their high-entropy can be conveniently manipulated without changing the images' overall visual appearance.
+Yet, it remains unclear how such attacks translate to more security-sensitive applications such as malware detection - which may pose significant challenges in sample generation and arguably grave consequences for failure.

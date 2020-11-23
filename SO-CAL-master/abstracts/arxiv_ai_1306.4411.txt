@@ -1,0 +1,6 @@
+The broader goal of our research is to formulate answers to why and how questions with respect to knowledge bases, such as AURA.
+One issue we face when reasoning with many available knowledge bases is that at times needed information is missing.
+Examples of this include partially missing information about next sub-event, first sub-event, last sub-event, result of an event, input to an event, destination of an event, and raw material involved in an event.
+In many cases one can recover part of the missing knowledge through reasoning.
+In this paper we give a formal definition about how such missing information can be recovered and then give an ASP implementation of it.
+We then discuss the implication of this with respect to answering why and how questions.

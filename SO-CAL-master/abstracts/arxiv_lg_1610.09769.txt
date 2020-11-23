@@ -1,0 +1,3 @@
+Most real-world data can be modeled as heterogeneous information networks (HINs) consisting of vertices of multiple types and their relationships.
+Search for similar vertices of the same type in large HINs, such as bibliographic networks and business-review networks, is a fundamental problem with broad applications.
+Although similarity search in HINs has been studied previously, most existing approaches neither explore rich semantic information embedded in the network structures nor take user's preference as a guidance.

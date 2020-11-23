@@ -1,0 +1,4 @@
+We analyze the structure of the state space of chess by means of transition path sampling Monte Carlo simulation.
+Based on the typical number of moves required to transpose a given configuration of chess pieces into another, we conclude that the state space consists of several pockets between which transitions are rare.
+Skilled players explore an even smaller subset of positions that populate some of these pockets only very sparsely.
+These results suggest that the usual measures to estimate both, the size of the state space and the size of the tree of legal moves, are not unique indicators of the complexity of the game, but that topological considerations are equally important.

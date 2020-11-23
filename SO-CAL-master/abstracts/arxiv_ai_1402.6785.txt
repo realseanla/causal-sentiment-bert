@@ -1,0 +1,8 @@
+Formal methods apply algorithms based on mathematical principles to enhance the reliability of systems.
+It would only be natural to try to progress from verification, model checking or testing a system against its formal specification into constructing it automatically.
+Classical algorithmic synthesis theory provides interesting algorithms but also alarming high complexity and undecidability results.
+The use of genetic programming, in combination with model checking and testing, provides a powerful heuristic to synthesize programs.
+The method is not completely automatic, as it is fine tuned by a user that sets up the specification and parameters.
+It also does not guarantee to always succeed and converge towards a solution that satisfies all the required properties.
+However, we applied it successfully on quite nontrivial examples and managed to find solutions to hard programming challenges, as well as to improve and to correct code.
+We describe here several versions of our method for synthesizing sequential and concurrent systems.

@@ -1,0 +1,11 @@
+Using supporting backchannel (BC) cues can make human-computer interaction more social.
+BCs provide a feedback from the listener to the speaker indicating to the speaker that he is still listened to.
+BCs can be expressed in different ways, depending on the modality of the interaction, for example as gestures or acoustic cues.
+In this work, we only considered acoustic cues.
+We are proposing an approach towards detecting BC opportunities based on acoustic input features like power and pitch.
+While other works in the field rely on the use of a hand-written rule set or specialized features, we made use of artificial neural networks.
+They are capable of deriving higher order features from input features themselves.
+In our setup, we first used a fully connected feed-forward network to establish an updated baseline in comparison to our previously proposed setup.
+We also extended this setup by the use of Long Short-Term Memory (LSTM) networks which have shown to outperform feed-forward based setups on various tasks.
+Our best system achieved an F1-Score of 0.37 using power and pitch features.
+Adding linguistic information using word2vec, the score increased to 0.39.

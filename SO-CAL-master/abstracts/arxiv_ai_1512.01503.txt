@@ -1,0 +1,9 @@
+Once known to be used exclusively in military domain, unmanned aerial vehicles (drones) have stepped up to become a part of new logistic method in commercial sector called "last-mile delivery".
+In this novel approach, small unmanned aerial vehicles (UAV), also known as drones, are deployed alongside with trucks to deliver goods to customers in order to improve the service quality or reduce the transportation cost.
+It gives rise to a new variant of the traveling salesman problem (TSP), of which we call TSP with drone (TSP-D).
+In this article, we consider a variant of TSP-D where the main objective is to minimize the total transportation cost.
+We also propose two heuristics: "Drone First, Truck Second" (DFTS) and "Truck First, Drone Second" (TFDS), to effectively solve the problem.
+The former constructs route for drone first while the latter constructs route for truck first.
+We solve a TSP to generate route for truck and propose a mixed integer programming (MIP) formulation with different profit functions to build route for drone.
+Numerical results obtained on many instances with different sizes and characteristics are presented.
+Recommendations on promising algorithm choices are also provided.

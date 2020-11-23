@@ -1,5 +1,0 @@
-Some of the most compelling applications of online convex optimization, including online prediction and classification, are unconstrained: the natural feasible set is R^n.
-Existing algorithms fail to achieve sub-linear regret in this setting unless constraints on the comparator point x^* are known in advance.
-We present algorithms that, without such prior knowledge, offer near-optimal regret bounds with respect to any choice of x^*.
-In particular, regret with respect to x^* = 0 is constant.
-We then prove lower bounds showing that our guarantees are near-optimal in this setting.

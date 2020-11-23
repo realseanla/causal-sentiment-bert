@@ -1,5 +1,0 @@
-In this paper, we develop a framework for information theoretic learning based on infinitely divisible matrices.
-We formulate an entropy-like functional on positive definite matrices based on Renyi's entropy definition and examine some key properties of this functional that lead to the concept of infinite divisibility.
-The proposed formulation avoids the plug in estimation of density and brings along the representation power of reproducing kernel Hilbert spaces.
-We show how analogues to quantities such as conditional entropy can be defined, enabling solutions to learning problems.
-In particular, we derive a supervised metric learning algorithm with very competitive results.

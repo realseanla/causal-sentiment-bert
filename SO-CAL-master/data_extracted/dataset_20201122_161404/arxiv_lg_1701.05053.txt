@@ -1,7 +1,0 @@
-We introduce highly efficient online nonlinear regression algorithms that are suitable for real life applications.
-We process the data in a truly online manner such that no storage is needed, i.e., the data is discarded after being used.
-For nonlinear modeling we use a hierarchical piecewise linear approach based on the notion of decision trees where the space of the regressor vectors is adaptively partitioned based on the performance.
-As the first time in the literature, we learn both the piecewise linear partitioning of the regressor space as well as the linear models in each region using highly effective second order methods, i.e., Newton-Raphson Methods.
-Hence, we avoid the well known over fitting issues by using piecewise linear models, however, since both the region boundaries as well as the linear models in each region are trained using the second order methods, we achieve substantial performance compared to the state of the art.
-We demonstrate our gains over the well known benchmark data sets and provide performance results in an individual sequence manner guaranteed to hold without any statistical assumptions.
-Hence, the introduced algorithms address computational complexity issues widely encountered in real life applications while providing superior guaranteed performance in a strong deterministic sense.

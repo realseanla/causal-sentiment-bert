@@ -1,0 +1,4 @@
+The probability density function of a probability distribution is a fundamental concept in probability theory and a key ingredient in various widely used machine learning methods.
+However, the necessary framework for compiling probabilistic functional programs to density functions has only recently been developed.
+In this work, we present a density compiler for a probabilistic language with failure and both discrete and continuous distributions, and provide a proof of its soundness.
+The compiler greatly reduces the development effort of domain experts, which we demonstrate by solving inference problems from various scientific applications, such as modelling the global carbon cycle, using a standard Markov chain Monte Carlo framework.

@@ -1,0 +1,4 @@
+Dealing with the complex word forms in morphologically rich languages is an open problem in language processing, and is particularly important in translation.
+In contrast to most modern neural systems of translation, which discard the identity for rare words, in this paper we propose several architectures for learning word representations from character and morpheme level word decompositions.
+We incorporate these representations in a novel machine translation model which jointly learns word alignments and translations via a hard attention mechanism.
+Evaluating on translating from several morphologically rich languages into English, we show consistent improvements over strong baseline methods, of between 1 and 1.5 BLEU points.

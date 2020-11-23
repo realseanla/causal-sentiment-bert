@@ -1,3 +1,0 @@
-In this paper we provide a rigorous convergence analysis of a "off"-policy temporal difference learning algorithm with linear function approximation and per time-step linear computational complexity in "online" learning environment.
-The algorithm considered here is TDC with importance weighting introduced by Maei et al.
-We support our theoretical results by providing suitable empirical results for standard off-policy counterexamples.

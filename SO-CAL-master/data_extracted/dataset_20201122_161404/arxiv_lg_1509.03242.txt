@@ -1,3 +1,0 @@
-Topic modeling of streaming sensor data can be used for high level perception of the environment by a mobile robot.
-In this paper we compare various Gibbs sampling strategies for topic modeling of streaming spatiotemporal data, such as video captured by a mobile robot.
-Compared to previous work on online topic modeling, such as o-LDA and incremental LDA, we show that the proposed technique results in lower online and final perplexity, given the realtime constraints.

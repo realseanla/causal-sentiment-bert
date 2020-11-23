@@ -1,6 +1,0 @@
-We address a problem of area protection in graph-based scenarios with multiple mobile agents where connectivity is maintained among agents to ensure they can communicate.
-The problem consists of two adversarial teams of agents that move in an undirected graph shared by both teams.
-Agents are placed in vertices of the graph; at most one agent can occupy a vertex; and they can move into adjacent vertices in a conflict free way.
-Teams have asymmetric goals: the aim of one team - attackers - is to invade into given area while the aim of the opponent team - defenders - is to protect the area from being entered by attackers by occupying selected vertices.
-The team of defenders need to maintain connectivity of vertices occupied by its own agents in a visibility graph.
-The visibility graph models possibility of communication between pairs of vertices.

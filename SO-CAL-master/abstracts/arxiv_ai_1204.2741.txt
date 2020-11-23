@@ -1,0 +1,4 @@
+The common internal structure and algorithmic organization of object detection, detection-based tracking, and event recognition facilitates a general approach to integrating these three components.
+This supports multidirectional information flow between these components allowing object detection to influence tracking and event recognition and event recognition to influence tracking and object detection.
+The performance of the combination can exceed the performance of the components in isolation.
+This can be done with linear asymptotic complexity.

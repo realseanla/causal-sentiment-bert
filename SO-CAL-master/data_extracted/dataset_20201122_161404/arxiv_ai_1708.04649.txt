@@ -1,8 +1,0 @@
-Accurately predicting the time of occurrence of an event of interest is a critical problem in longitudinal data analysis.
-One of the main challenges in this context is the presence of instances whose event outcomes become unobservable after a certain time point or when some instances do not experience any event during the monitoring period.
-Such a phenomenon is called censoring which can be effectively handled using survival analysis techniques.
-Traditionally, statistical approaches have been widely developed in the literature to overcome this censoring issue.
-In addition, many machine learning algorithms are adapted to effectively handle survival data and tackle other challenging problems that arise in real-world data.
-In this survey, we provide a comprehensive and structured review of the representative statistical methods along with the machine learning techniques used in survival analysis and provide a detailed taxonomy of the existing methods.
-We also discuss several topics that are closely related to survival analysis and illustrate several successful applications in various real-world application domains.
-We hope that this paper will provide a more thorough understanding of the recent advances in survival analysis and offer some guidelines on applying these approaches to solve new problems that arise in applications with censored data.

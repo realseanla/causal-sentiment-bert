@@ -1,0 +1,6 @@
+Existential rules have been proposed for representing ontological knowledge, specifically in the context of Ontology- Based Data Access.
+Entailment with existential rules is undecidable.
+We focus in this paper on conditions that ensure the termination of a breadth-first forward chaining algorithm known as the chase.
+Several variants of the chase have been proposed.
+In the first part of this paper, we propose a new tool that allows to extend existing acyclicity conditions ensuring chase termination, while keeping good complexity properties.
+In the second part, we study the extension to existential rules with nonmonotonic negation under stable model semantics, discuss the relevancy of the chase variants for these rules and further extend acyclicity results obtained in the positive case.

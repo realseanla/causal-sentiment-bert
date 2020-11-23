@@ -1,0 +1,6 @@
+A famous biologically inspired hierarchical model firstly proposed by Riesenhuber and Poggio has been successfully applied to multiple visual recognition tasks.
+The model is able to achieve a set of position- and scale-tolerant recognition, which is a central problem in pattern recognition.
+In this paper, based on some other biological experimental results, we introduce the Memory and Association Mechanisms into the above biologically inspired model.
+The main motivations of the work are (a) to mimic the active memory and association mechanism and add the 'top down' adjustment to the above biologically inspired hierarchical model and (b) to build up an algorithm which can save the space and keep a good recognition performance.
+The new model is also applied to object recognition processes.
+The primary experimental results show that our method is efficient with much less memory requirement.

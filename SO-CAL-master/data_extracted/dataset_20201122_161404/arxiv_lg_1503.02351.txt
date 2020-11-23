@@ -1,5 +1,0 @@
-Convolutional neural networks with many layers have recently been shown to achieve excellent results on many high-level tasks such as image classification, object detection and more recently also semantic segmentation.
-Particularly for semantic segmentation, a two-stage procedure is often employed.
-Hereby, convolutional networks are trained to provide good local pixel-wise features for the second step being traditionally a more global graphical model.
-In this work we unify this two-stage process into a single joint training algorithm.
-We demonstrate our method on the semantic image segmentation task and show encouraging results on the challenging PASCAL VOC 2012 dataset.

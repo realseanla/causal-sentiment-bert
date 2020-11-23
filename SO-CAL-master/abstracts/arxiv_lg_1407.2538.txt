@@ -1,0 +1,4 @@
+In recent years the performance of deep learning algorithms has been demonstrated in a variety of application domains.
+The goal of this paper is to enrich deep learning to be able to predict a set of random variables while taking into account their dependencies.
+Towards this goal, we propose an efficient algorithm that is able to learn structured models with non-linear functions.
+We demonstrate the effectiveness of our algorithm in the tasks of predicting words as well as codes from noisy images, and show that by jointly learning multilayer perceptrons and pairwise features, significant gains in performance can be obtained.

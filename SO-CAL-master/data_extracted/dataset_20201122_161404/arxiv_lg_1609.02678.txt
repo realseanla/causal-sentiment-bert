@@ -1,5 +1,0 @@
-In a power distribution network, the network topology information is essential for an efficient operation of the network.
-This information of network connectivity is not accurately available, at the low voltage level, due to uninformed changes that happen from time to time.
-In this paper, we propose a novel data--driven approach to identify the underlying network topology including the load phase connectivity from time series of energy measurements.
-The proposed method involves the application of Principal Component Analysis (PCA) and its graph-theoretic interpretation to infer the topology from smart meter energy measurements.
-The method is demonstrated through simulation on randomly generated networks and also on IEEE recognized Roy Billinton distribution test system.

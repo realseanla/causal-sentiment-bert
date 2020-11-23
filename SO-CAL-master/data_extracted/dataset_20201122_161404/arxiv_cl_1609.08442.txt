@@ -1,3 +1,0 @@
-This paper presents a unified model to perform language and speaker recognition simultaneously and altogether.
-The model is based on a multi-task recurrent neural network where the output of one task is fed as the input of the other, leading to a collaborative learning framework that can improve both language and speaker recognition by borrowing information from each other.
-Our experiments demonstrated that the multi-task model outperforms the task-specific models on both tasks.

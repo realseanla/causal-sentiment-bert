@@ -1,7 +1,0 @@
-Most of the metaheuristics can efficiently solve unconstrained problems; however, their performance may degenerate if the constraints are involved.
-This paper proposes two constraint handling approaches for an emerging metaheuristic of Cohort Intelligence (CI).
-More specifically CI with static penalty function approach (SCI) and CI with dynamic penalty function approach (DCI) are proposed.
-The approaches have been tested by solving several constrained test problems.
-The performance of the SCI and DCI have been compared with algorithms like GA, PSO, ABC, d-Ds.
-In addition, as well as three real world problems from mechanical engineering domain with improved solutions.
-The results were satisfactory and validated the applicability of CI methodology for solving real world problems.

@@ -1,9 +1,0 @@
-Zero-sum stochastic games are easy to solve as they can be cast as simple Markov decision processes.
-This is however not the case with general-sum stochastic games.
-A fairly general optimization problem formulation is available for general-sum stochastic games by Filar and Vrieze [2004].
-However, the optimization problem there has a non-linear objective and non-linear constraints with special structure.
-Since gradients of both the objective as well as constraints of this optimization problem are well defined, gradient based schemes seem to be a natural choice.
-We discuss a gradient scheme tuned for two-player stochastic games.
-We show in simulations that this scheme indeed converges to a Nash equilibrium, for a simple terrain exploration problem modelled as a general-sum stochastic game.
-However, it turns out that only global minima of the optimization problem correspond to Nash equilibria of the underlying general-sum stochastic game, while gradient schemes only guarantee convergence to local minima.
-We then provide important necessary conditions for gradient schemes to converge to Nash equilibria in general-sum stochastic games.

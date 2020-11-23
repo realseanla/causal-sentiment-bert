@@ -1,0 +1,5 @@
+In this preliminary study, we examine whether random samples from within given Library of Congress Classification Outline areas yield significantly different topic models.
+We find that models of subsamples can equal the topic similarity of models over the whole corpus.
+As the sample size increases, topic distance decreases and topic overlap increases.
+The requisite subsample size differs by field and by number of topics.
+While this study focuses on only five areas, we find significant differences in the behavior of these areas that can only be investigated with large corpora like the Hathi Trust.

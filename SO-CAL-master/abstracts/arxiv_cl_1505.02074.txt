@@ -1,0 +1,4 @@
+This work aims to address the problem of image-based question-answering (QA) with new models and datasets.
+In our work, we propose to use recurrent neural networks and visual semantic embeddings without intermediate stages such as object detection and image segmentation.
+Our model performs 1.8 times better than the recently published results on the same dataset.
+Another main contribution is an automatic question generation algorithm that converts the currently available image description dataset into QA form, resulting in a 10 times bigger dataset with more evenly distributed answers.

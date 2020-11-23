@@ -1,5 +1,0 @@
-A Chain Event Graph (CEG) is a graphial model which designed to embody conditional independencies in problems whose state spaces are highly asymmetric and do not admit a natural product structure.
-In this paer we present a probability propagation algorithm which uses the topology of the CEG to build a transporter CEG.
-Intriungly,the transporter CEG is directly analogous to the triangulated Bayesian Network (BN) in the more conventional junction tree propagation algorithms used with BNs.
-The propagation method uses factorization formulae also analogous to (but different from) the ones using potentials on cliques and separators of the BN.
-It appears that the methods will be typically more efficient than the BN algorithms when applied to contexts where there is significant asymmetry present.

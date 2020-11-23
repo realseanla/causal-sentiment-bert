@@ -1,0 +1,3 @@
+We proposea graphical model for multi-view feature extraction that automatically adapts its structure to achieve better representation of data distribution.
+The proposed model, structure-adapting multi-view harmonium (SA-MVH) has switch parameters that control the connection between hidden nodes and input views, and learn the switch parameter while training.
+Numerical experiments on synthetic and a real-world dataset demonstrate the useful behavior of the SA-MVH, compared to existing multi-view feature extraction methods.

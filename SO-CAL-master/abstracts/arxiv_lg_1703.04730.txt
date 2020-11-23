@@ -1,0 +1,5 @@
+How can we explain the predictions of a black-box model?
+In this paper, we use influence functions -- a classic technique from robust statistics -- to trace a model's prediction through the learning algorithm and back to its training data, identifying the points most responsible for a given prediction.
+Applying ideas from second-order optimization, we scale up influence functions to modern machine learning settings and show that they can be applied to high-dimensional black-box models, even in non-convex and non-differentiable settings.
+We give a simple, efficient implementation that requires only oracle access to gradients and Hessian-vector products.
+On linear models and convolutional neural networks, we demonstrate that influence functions are useful for many different purposes: to understand model behavior, debug models and detect dataset errors, and even identify and exploit vulnerabilities to adversarial training-set attacks.

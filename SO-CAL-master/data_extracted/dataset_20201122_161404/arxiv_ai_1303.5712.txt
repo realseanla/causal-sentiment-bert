@@ -1,8 +1,0 @@
-Research on Symbolic Probabilistic Inference (SPI) [2, 3] has provided an algorithm for resolving general queries in Bayesian networks.
-SPI applies the concept of dependency directed backward search to probabilistic inference, and is incremental with respect to both queries and observations.
-Unlike traditional Bayesian network inferencing algorithms, SPI algorithm is goal directed, performing only those calculations that are required to respond to queries.
-Research to date on SPI applies to Bayesian networks with discrete-valued variables and does not address variables with continuous values.
-In this papers, we extend the SPI algorithm to handle Bayesian networks made up of continuous variables where the relationships between the variables are restricted to be ?linear gaussian?.
-We call this variation of the SPI algorithm, SPI Continuous (SPIC).
-SPIC modifies the three basic SPI operations: multiplication, summation, and substitution.
-However, SPIC retains the framework of the SPI algorithm, namely building the search tree and recursive query mechanism and therefore retains the goal-directed and incrementality features of SPI.

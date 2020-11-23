@@ -1,0 +1,5 @@
+We apply genetic programming techniques to the `shepherding' problem, in which a group of one type of animal (sheep dogs) attempts to control the movements of a second group of animals (sheep) obeying flocking behavior.
+Our genetic programming algorithm evolves an expression tree that governs the movements of each dog.
+The operands of the tree are hand-selected features of the simulation environment that may allow the dogs to herd the sheep effectively.
+The algorithm uses tournament-style selection, crossover reproduction, and a point mutation.
+We find that the evolved solutions generalize well and outperform a (naive) human-designed algorithm.

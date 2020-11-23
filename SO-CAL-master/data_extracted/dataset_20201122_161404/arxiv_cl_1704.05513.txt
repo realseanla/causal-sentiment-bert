@@ -1,4 +1,0 @@
-Predicting personality is essential for social applications supporting human-centered activities, yet prior modeling methods with users written text require too much input data to be realistically used in the context of social media.
-In this work, we aim to drastically reduce the data requirement for personality modeling and develop a model that is applicable to most users on Twitter.
-Our model integrates Word Embedding features with Gaussian Processes regression.
-Based on the evaluation of over 1.3K users on Twitter, we find that our model achieves comparable or better accuracy than state of the art techniques with 8 times fewer data.

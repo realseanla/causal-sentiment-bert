@@ -1,0 +1,5 @@
+The goal of semi supervised learning methods is to effectively combine labeled and unlabeled data to arrive at a better model.
+Many such methods rely on graph-based approaches, where continuous labels are propagated through a graph on the input points.
+Here we argue that it is more effective to consider infection processes on these graphs, whereby at any point in time nodes can infect other nodes with their labels.
+Since the dynamics of these processes is stochastic, we develop algorithms for efficiently estimating the expected labels over time.
+We show that our approach addresses many of the limitations of graph based learning, and is also empirically effective.

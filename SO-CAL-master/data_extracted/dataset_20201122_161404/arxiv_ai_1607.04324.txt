@@ -1,6 +1,0 @@
-Combinatorial optimization problems are typically NP-hard, and thus very challenging to solve.
-In this paper, we present the random key cuckoo search (RKCS) algorithm for solving the famous Travelling Salesman Problem (TSP).
-We used a simplified random-key encoding scheme to pass from a continuous space (real numbers) to a combinatorial space.
-We also consider the displacement of a solution in both spaces using Levy flights.
-The performance of the proposed RKCS is tested against a set of benchmarks of symmetric TSP from the well-known TSPLIB library.
-The results of the tests show that RKCS is superior to some other metaheuristic algorithms.

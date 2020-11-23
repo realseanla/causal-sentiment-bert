@@ -1,5 +1,0 @@
-Bilinear models provide rich representations compared to linear models.
-They have been applied in various visual tasks, such as object recognition, segmentation, and visual question-answering, to get state-of-the-art performances taking advantage of the expanded representations.
-However, bilinear representations tend to be high-dimensional, limiting the applicability to computationally complex tasks.
-We propose low-rank bilinear neural networks using Hadamard product (element-wise multiplication), commonly implemented in many scientific computing frameworks.
-We show that our model outperforms compact bilinear pooling in visual question-answering tasks, having a better parsimonious property.

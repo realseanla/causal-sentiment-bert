@@ -1,6 +1,0 @@
-We present locally complete inference rules for probabilistic deduction from taxonomic and probabilistic knowledge-bases over conjunctive events.
-Crucially, in contrast to similar inference rules in the literature, our inference rules are locally complete for conjunctive events and under additional taxonomic knowledge.
-We discover that our inference rules are extremely complex and that it is at first glance not clear at all where the deduced tightest bounds come from.
-Moreover, analyzing the global completeness of our inference rules, we find examples of globally very incomplete probabilistic deductions.
-More generally, we even show that all systems of inference rules for taxonomic and probabilistic knowledge-bases over conjunctive events are globally incomplete.
-We conclude that probabilistic deduction by the iterative application of inference rules on interval restrictions for conditional probabilities, even though considered very promising in the literature so far, seems very limited in its field of application.

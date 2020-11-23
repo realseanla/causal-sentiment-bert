@@ -1,5 +1,0 @@
-We propose a regularized linear learning algorithm to sequence groups of features, where each group incurs test-time cost or computation.
-Specifically, we develop a simple extension to Orthogonal Matching Pursuit (OMP) that respects the structure of groups of features with variable costs, and we prove that it achieves near-optimal anytime linear prediction at each budget threshold where a new group is selected.
-Our algorithm and analysis extends to generalized linear models with multi-dimensional responses.
-We demonstrate the scalability of the resulting approach on large real-world data-sets with many feature groups associated with test-time computational costs.
-Our method improves over Group Lasso and Group OMP in the anytime performance of linear predictions, measured in timeliness, an anytime prediction performance metric, while providing rigorous performance guarantees.

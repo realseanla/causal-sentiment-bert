@@ -1,5 +1,0 @@
-Shapelets are discriminative time series subsequences that allow generation of interpretable classification models, which provide faster and generally better classification than the nearest neighbor approach.
-However, the shapelet discovery process requires the evaluation of all possible subsequences of all time series in the training set, making it extremely computation intensive.
-Consequently, shapelet discovery for large time series datasets quickly becomes intractable.
-A number of improvements have been proposed to reduce the training time.
-These techniques use approximation or discretization and often lead to reduced classification accuracy compared to the exact method.

@@ -1,0 +1,3 @@
+The present survey aims at presenting the current machine learning techniques employed in security games domains.
+Specifically, we focused on papers and works developed by the Teamcore of University of Southern California, which deepened different directions in this field.
+After a brief introduction on Stackelberg Security Games (SSGs) and the poaching setting, the rest of the work presents how to model a boundedly rational attacker taking into account her human behavior, then describes how to face the problem of having attacker's payoffs not defined and how to estimate them and, finally, presents how online learning techniques have been exploited to learn a model of the attacker.

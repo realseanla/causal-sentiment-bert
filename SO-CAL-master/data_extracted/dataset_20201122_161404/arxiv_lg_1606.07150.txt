@@ -1,5 +1,0 @@
-It is well-known that malware constantly evolves so as to evade detection and this causes the entire malware population to be non-stationary.
-Contrary to this fact, prior works on machine learning based Android malware detection have assumed that the distribution of the observed malware characteristics (i.e., features) do not change over time.
-In this work, we address the problem of malware population drift and propose a novel online machine learning based framework, named DroidOL to handle it and effectively detect malware.
-In order to perform accurate detection, security-sensitive behaviors are captured from apps in the form of inter-procedural control-flow sub-graph features using a state-of-the-art graph kernel.
-In order to perform scalable detection and to adapt to the drift and evolution in malware population, an online passive-aggressive classifier is used.

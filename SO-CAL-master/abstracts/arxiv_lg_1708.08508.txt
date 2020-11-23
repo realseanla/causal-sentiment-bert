@@ -1,0 +1,11 @@
+Active appearance models (AAMs) are a class of generative models that have seen tremendous success in face analysis.
+However, model learning depends on the availability of detailed annotation of canonical landmark points.
+As a result, when accurate AAM fitting is required on a different set of variations (expression, pose, identity), a new dataset is collected and annotated.
+To overcome the need for time consuming data collection and annotation, transfer learning approaches have received recent attention.
+The goal is to transfer knowledge from previously available datasets (source) to a new dataset (target).
+We propose a subspace transfer learning method, in which we select a subspace from the source that best describes the target space.
+We propose a metric to compute the directional similarity between the source eigenvectors and the target subspace.
+We show an equivalence between this metric and the variance of target data when projected onto source eigenvectors.
+Using this equivalence, we select a subset of source principal directions that capture the variance in target data.
+To define our model, we augment the selected source subspace with the target subspace learned from a handful of target examples.
+In experiments done on six publicly available datasets, we show that our approach outperforms the state of the art in terms of the RMS fitting error as well as the percentage of test examples for which AAM fitting converges to the ground truth.

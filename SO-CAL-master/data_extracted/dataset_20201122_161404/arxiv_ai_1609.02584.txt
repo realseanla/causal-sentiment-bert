@@ -1,5 +1,0 @@
-Many AI applications rely on knowledge encoded in a locigal knowledge base (KB).
-The most essential benefit of such logical KBs is the opportunity to perform automatic reasoning which however requires a KB to meet some minimal quality criteria such as consistency.
-Without adequate tool assistance, the task of resolving such violated quality criteria in a KB can be extremely hard, especially when the problematic KB is large and complex.
-To this end, interactive KB debuggers have been introduced which ask a user queries whether certain statements must or must not hold in the intended domain.
-The given answers help to gradually restrict the search space for KB repairs.

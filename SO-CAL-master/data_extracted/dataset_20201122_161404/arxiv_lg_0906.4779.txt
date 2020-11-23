@@ -1,7 +1,0 @@
-Learning in probabilistic models is often severely hampered by the general intractability of the normalization factor and its derivatives.
-Here we propose a new learning technique that obviates the need to compute an intractable normalization factor or sample from the equilibrium distribution of the model.
-This is achieved by establishing dynamics that would transform the observed data distribution into the model distribution, and then setting as the objective the minimization of the initial flow of probability away from the data distribution.
-Score matching, minimum velocity learning, and certain forms of contrastive divergence are shown to be special cases of this learning technique.
-We demonstrate the application of minimum probability flow learning to parameter estimation in Ising models, deep belief networks, multivariate Gaussian distributions and a continuous model with a highly general energy function defined as a power series.
-In the Ising model case, minimum probability flow learning outperforms current state of the art techniques by approximately two orders of magnitude in learning time, with comparable error in the recovered parameters.
-It is our hope that this technique will alleviate existing restrictions on the classes of probabilistic models that are practical for use.

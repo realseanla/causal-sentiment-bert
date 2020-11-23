@@ -1,0 +1,7 @@
+In this paper, we propose a new text recognition model based on measuring the visual similarity of text and predicting the content of the unlabeled texts.
+First a Siamese network is trained with deep supervision on the labeled text of training dataset which project texts in a similarity manifold.
+The Deeply Supervised Siamese network learn the visual similarity of texts.
+Then a K-nearest neighbor classifier is used to predict the unlabeled text based on similarity distance to labeled texts.
+The performance of the model is evaluated on three datasets of combined machine-printed and hand-written text, which demonstrates in reducing the cost of human extimation by $50\ percent-85\ percent$ with error less than $0.1\ percent$.
+The results also demonstrates that the predicted labels are sometimes better than human estimates labels e.g.
+spelling correction.

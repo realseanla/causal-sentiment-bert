@@ -1,0 +1,6 @@
+This paper relates the well-known formalism of Linear Temporal Logic with the logic of propositional schemata introduced by the authors.
+We prove that LTL is equivalent to a particular class of schemata in the sense that polynomial-time translation algorithms exist from one logic to the other.
+Not only does this result shed new light on the expressive power of propositional schemata, but it also entails the new result that the satisfiability of the considered class of schemata is PSPACE-complete.
+We informally compare the resulting proof procedures for each logic (opposing the direct approaches to the translation-based ones).
+The encoding from schemata to LTL makes the Wolper procedure for LTL very close to the standard tableaux procedure for schemata.
+The reverse encoding surprisingly makes the latter procedure very close to the one-pass Schwendimann algorithm for LTL.

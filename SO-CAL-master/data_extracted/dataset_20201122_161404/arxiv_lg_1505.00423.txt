@@ -1,4 +1,0 @@
-Motifs are the most repetitive/frequent patterns of a time-series.
-The discovery of motifs is crucial for practitioners in order to understand and interpret the phenomena occurring in sequential data.
-Currently, motifs are searched among series sub-sequences, aiming at selecting the most frequently occurring ones.
-Search-based methods, which try out series sub-sequence as motif candidates, are currently believed to be the best methods in finding the most frequent patterns.

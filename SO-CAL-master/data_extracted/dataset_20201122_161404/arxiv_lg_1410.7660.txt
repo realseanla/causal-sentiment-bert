@@ -1,6 +1,0 @@
-We propose a new method for robust PCA -- the task of recovering a low-rank matrix from sparse corruptions that are of unknown value and support.
-Our method involves alternating between projecting appropriate residuals onto the set of low-rank matrices, and the set of sparse matrices; each projection is {\em non-convex} but easy to compute.
-In spite of this non-convexity, we establish exact recovery of the low-rank matrix, under the same conditions that are required by existing methods (which are based on convex optimization).
-For an $m \times n$ input matrix ($m \leq n)$, our method has a running time of $O(r^2mn)$ per iteration, and needs $O(\log(1/\epsilon))$ iterations to reach an accuracy of $\epsilon$.
-This is close to the running time of simple PCA via the power method, which requires $O(rmn)$ per iteration, and $O(\log(1/\epsilon))$ iterations.
-In contrast, existing methods for robust PCA, which are based on convex optimization, have $O(m^2n)$ complexity per iteration, and take $O(1/\epsilon)$ iterations, i.e., exponentially more iterations for the same accuracy.

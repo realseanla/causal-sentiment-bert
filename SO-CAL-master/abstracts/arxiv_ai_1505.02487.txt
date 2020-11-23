@@ -1,0 +1,5 @@
+Large-scale controlled evacuations require emergency services to select evacuation routes, decide departure times, and mobilize resources to issue orders, all under strict time constraints.
+Existing algorithms almost always allow for preemptive evacuation schedules, which are less desirable in practice.
+This paper proposes, for the first time, a constraint-based scheduling model that optimizes the evacuation flow rate (number of vehicles sent at regular time intervals) and evacuation phasing of widely populated areas, while ensuring a nonpreemptive evacuation for each residential zone.
+Two optimization objectives are considered: (1) to maximize the number of evacuees reaching safety and (2) to minimize the overall duration of the evacuation.
+Preliminary results on a set of real-world instances show that the approach can produce, within a few seconds, a non-preemptive evacuation schedule which is either optimal or at most 6 percent away of the optimal preemptive solution.

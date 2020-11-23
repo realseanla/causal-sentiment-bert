@@ -1,5 +1,0 @@
-We study the problem of learning classifiers with a fairness constraint, with three main contributions towards the goal of quantifying the problem's inherent tradeoffs.
-First, we relate two existing fairness measures to cost-sensitive risks.
-Second, we show that for cost-sensitive classification and fairness measures, the optimal classifier is an instance-dependent thresholding of the class-probability function.
-Third, we show how the tradeoff between accuracy and fairness is determined by the alignment between the class-probabilities for the target and sensitive features.
-Underpinning our analysis is a general framework that casts the problem of learning with a fairness requirement as one of minimising the difference of two statistical risks.

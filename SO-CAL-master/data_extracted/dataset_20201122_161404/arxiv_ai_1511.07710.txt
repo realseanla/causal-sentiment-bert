@@ -1,7 +1,0 @@
-To identify the location of objects of a particular class, a passive computer vision system generally processes all the regions in an image to finally output few regions.
-However, we can use structure in the scene to search for objects without processing the entire image.
-We propose a search technique that sequentially processes image regions such that the regions that are more likely to correspond to the query class object are explored earlier.
-We frame the problem as a Markov decision process and use an imitation learning algorithm to learn a search strategy.
-Since structure in the scene is essential for search, we work with indoor scene images as they contain both unary scene context information and object-object context in the scene.
-We perform experiments on the NYU-depth v2 dataset and show that the unary scene context features alone can achieve a significantly high average precision while processing only 20-25\ percent of the regions for classes like bed and sofa.
-By considering object-object context along with the scene context features, the performance is further improved for classes like counter, lamp, pillow and sofa.

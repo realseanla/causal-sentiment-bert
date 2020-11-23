@@ -1,0 +1,3 @@
+Classical game theory treats players as special---a description of a game contains a full, explicit enumeration of all players---even though in the real world, "players" are no more fundamentally special than rocks or clouds.
+It isn't trivial to find a decision-theoretic foundation for game theory in which an agent's coplayers are a non-distinguished part of the agent's environment.
+Attempts to model both players and the environment as Turing machines, for example, fail for standard diagonalization reasons.

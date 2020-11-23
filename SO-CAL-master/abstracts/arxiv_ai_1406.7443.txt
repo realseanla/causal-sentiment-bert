@@ -1,0 +1,5 @@
+In this paper, we consider efficient learning in large-scale combinatorial semi-bandits with linear generalization, and as a solution, propose a novel learning algorithm called Randomized Combinatorial Maximization (RCM).
+RCM is motivated by Thompson sampling, and is computationally efficient as long as the offline version of the combinatorial problem can be solved efficiently.
+We establish that RCM is provably statistically efficient in the coherent Gaussian case, by developing a Bayes regret bound that is independent of the problem scale (number of items) and sublinear in time.
+We also evaluate RCM on a variety of real-world problems with thousands of items.
+Our experimental results demonstrate that RCM learns two orders of magnitude faster than the best baseline.

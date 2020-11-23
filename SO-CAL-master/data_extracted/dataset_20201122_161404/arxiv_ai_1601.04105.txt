@@ -1,7 +1,0 @@
-Information sources such as relational databases, spreadsheets, XML, JSON, and Web APIs contain a tremendous amount of structured data that can be leveraged to build and augment knowledge graphs.
-However, they rarely provide a semantic model to describe their contents.
-Semantic models of data sources represent the implicit meaning of the data by specifying the concepts and the relationships within the data.
-Such models are the key ingredients to automatically publish the data into knowledge graphs.
-Manually modeling the semantics of data sources requires significant effort and expertise, and although desirable, building these models automatically is a challenging problem.
-Most of the related work focuses on semantic annotation of the data fields (source attributes).
-However, constructing a semantic model that explicitly describes the relationships between the attributes in addition to their semantic types is critical.

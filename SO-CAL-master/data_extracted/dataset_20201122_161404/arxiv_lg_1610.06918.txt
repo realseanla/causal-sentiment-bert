@@ -1,5 +1,0 @@
-We ask whether neural networks can learn to use secret keys to protect information from other neural networks.
-Specifically, we focus on ensuring confidentiality properties in a multiagent system, and we specify those properties in terms of an adversary.
-Thus, a system may consist of neural networks named Alice and Bob, and we aim to limit what a third neural network named Eve learns from eavesdropping on the communication between Alice and Bob.
-We do not prescribe specific cryptographic algorithms to these neural networks; instead, we train end-to-end, adversarially.
-We demonstrate that the neural networks can learn how to perform forms of encryption and decryption, and also how to apply these operations selectively in order to meet confidentiality goals.

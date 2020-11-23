@@ -1,0 +1,4 @@
+How should we gather information to make effective decisions?
+We address Bayesian active learning and experimental design problems, where we sequentially select tests to reduce uncertainty about a set of hypotheses.
+Instead of minimizing uncertainty per se, we consider a set of overlapping decision regions of these hypotheses.
+Our goal is to drive uncertainty into a single decision region as quickly as possible.

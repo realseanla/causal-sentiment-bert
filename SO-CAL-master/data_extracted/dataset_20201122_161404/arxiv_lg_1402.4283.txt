@@ -1,5 +1,0 @@
-In real world, the huge amount of temporal data is to be processed in many application areas such as scientific, financial, network monitoring, sensor data analysis.
-Data mining techniques are primarily oriented to handle discrete features.
-In the case of temporal data the time plays an important role on the characteristics of data.
-To consider this effect, the data discretization techniques have to consider the time while processing to resolve the issue by finding the intervals of data which are more concise and precise with respect to time.
-Here, this research is reviewing different data discretization techniques used in temporal data applications according to the inclusion or exclusion of: class label, temporal order of the data and handling of stream data to open the research direction for temporal data discretization to improve the performance of data mining technique.

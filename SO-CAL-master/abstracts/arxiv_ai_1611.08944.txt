@@ -1,0 +1,6 @@
+Reinforcement learning (RL) problems are often phrased in terms of Markov decision processes (MDPs).
+In this thesis we go beyond MDPs and consider RL in environments that are non-Markovian, non-ergodic and only partially observable.
+Our focus is not on practical algorithms, but rather on the fundamental underlying problems: How do we balance exploration and exploitation?
+How do we explore optimally?
+When is an agent optimal?
+We follow the nonparametric realizable paradigm.

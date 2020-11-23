@@ -1,4 +1,0 @@
-Model-based diagnosis reasons backwards from a functional schematic of a system to isolate faults given observations of anomalous behavior.
-We develop a fully probabilistic approach to model based diagnosis and extend it to support hierarchical models.
-Our scheme translates the functional schematic into a Bayesian network and diagnostic inference takes place in the Bayesian network.
-A Bayesian network diagnostic inference algorithm is modified to take advantage of the hierarchy to give computational gains.

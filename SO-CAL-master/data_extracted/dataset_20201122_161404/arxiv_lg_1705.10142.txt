@@ -1,3 +1,0 @@
-Our work addresses two important issues with recurrent neural networks: (1) they are over-parameterized, and (2) the recurrence matrix is ill-conditioned.
-The former increases the sample complexity of learning and the training time.
-The latter causes the vanishing and exploding gradient problem.

@@ -1,7 +1,0 @@
-Generative Adversarial Networks have emerged as an effective technique for estimating data distributions.
-The basic setup consists of two deep networks playing against each other in a zero-sum game setting.
-However, it is not understood if the networks reach an equilibrium eventually and what dynamics makes this possible.
-The current GAN training procedure, which involves simultaneous gradient descent, lacks a clear game-theoretic justification in the literature.
-In this paper, we introduce regret minimization as a technique to reach equilibrium in games and use this to motivate the use of simultaneous GD in GANs.
-In addition, we present a hypothesis that mode collapse, which is a common occurrence in GAN training, happens due to the existence of spurious local equilibria in non-convex games.
-Motivated by these insights, we develop an algorithm called DRAGAN that is fast, simple to implement and achieves competitive performance in a stable fashion across different architectures, datasets (MNIST, CIFAR-10, and CelebA), and divergence measures with almost no hyperparameter tuning.

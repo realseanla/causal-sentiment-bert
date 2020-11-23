@@ -1,6 +1,0 @@
-In computer vision pixelwise dense prediction is the task of predicting a label for each pixel in the image.
-Convolutional neural networks achieve good performance on this task, while being computationally efficient.
-In this paper we carry these ideas over to the problem of assigning a sequence of labels to a set of speech frames, a task commonly known as framewise classification.
-We show that dense prediction view of framewise classification offers several advantages and insights, including computational efficiency and the ability to apply batch normalization.
-When doing dense prediction we pay specific attention to strided pooling in time and introduce an asymmetric dilated convolution, called time-dilated convolution, that allows for efficient and elegant implementation of pooling in time.
-We show that by using time-dilated convolutions with a very deep VGG-style CNN with batch normalization, we achieve best published single model accuracy result on the switchboard-2000 benchmark dataset.

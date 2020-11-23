@@ -1,0 +1,6 @@
+Superoptimization requires the estimation of the best program for a given computational task.
+In order to deal with large programs, superoptimization techniques perform a stochastic search.
+This involves proposing a modification of the current program, which is accepted or rejected based on the improvement achieved.
+The state of the art method uses uniform proposal distributions, which fails to exploit the problem structure to the fullest.
+To alleviate this deficiency, we learn a proposal distribution over possible modifications using Reinforcement Learning.
+We provide convincing results on the superoptimization of "Hacker's Delight" programs.

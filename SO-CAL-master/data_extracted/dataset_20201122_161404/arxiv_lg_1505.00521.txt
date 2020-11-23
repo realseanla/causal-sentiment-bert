@@ -1,4 +1,0 @@
-The expressive power of a machine learning model is closely related to the number of sequential computational steps it can learn.
-For example, Deep Neural Networks have been more successful than shallow networks because they can perform a greater number of sequential computational steps (each highly parallel).
-The Neural Turing Machine (NTM) is a model that can compactly express an even greater number of sequential computational steps, so it is even more powerful than a DNN.
-Its memory addressing operations are designed to be differentiable; thus the NTM can be trained with backpropagation.

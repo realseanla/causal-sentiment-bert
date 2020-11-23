@@ -1,9 +1,0 @@
-Binary decisions are very common in artificial intelligence.
-Applying a threshold on the continuous score gives the human decider the power to control the operating point to separate the two classes.
-The classifier,s discriminating power is measured along the continuous range of the score by the Area Under the ROC curve (AUC_ROC) in most application fields.
-Only finances uses the poor single point metric maximum Kolmogorov-Smirnov (KS) distance.
-This paper proposes the Area Under the KS curve (AUC_KS) for performance assessment and proves AUC_ROC = 0.5 + AUC_KS, as a simpler way to calculate the AUC_ROC.
-That is even more important for ROC averaging in ensembles of classifiers or n fold cross-validation.
-The proof is geometrically inspired on rotating all KS curve to make it lie on the top of the ROC chance diagonal.
-On the practical side, the independent variable on the abscissa on the KS curve simplifies the calculation of the AUC_ROC.
-On the theoretical side, this research gives insights on probabilistic interpretations of classifiers assessment and integrates the existing body of knowledge of the information theoretical ROC approach with the proposed statistical approach based on the thoroughly known KS distribution.

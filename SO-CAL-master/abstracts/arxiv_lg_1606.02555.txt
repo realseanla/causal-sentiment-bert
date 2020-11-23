@@ -1,0 +1,4 @@
+In this paper we study different types of Recurrent Neural Networks (RNN) for sequence labeling tasks.
+We propose two new variants of RNNs integrating improvements for sequence labeling, and we compare them to the more traditional Elman and Jordan RNNs.
+We compare all models, either traditional or new, on four distinct tasks of sequence labeling: two on Spoken Language Understanding (ATIS and MEDIA); and two of POS tagging for the French Treebank (FTB) and the Penn Treebank (PTB) corpora.
+The results show that our new variants of RNNs are always more effective than the others.

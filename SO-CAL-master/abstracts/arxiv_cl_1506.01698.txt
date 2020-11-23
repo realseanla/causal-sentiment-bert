@@ -1,0 +1,8 @@
+Generating descriptions for videos has many applications including assisting blind people and human-robot interaction.
+The recent advances in image captioning as well as the release of large-scale movie description datasets such as MPII Movie Description allow to study this task in more depth.
+Many of the proposed methods for image captioning rely on pre-trained object classifier CNNs and Long-Short Term Memory recurrent networks (LSTMs) for generating descriptions.
+While image description focuses on objects, we argue that it is important to distinguish verbs, objects, and places in the challenging setting of movie description.
+In this work we show how to learn robust visual classifiers from the weak annotations of the sentence descriptions.
+Based on these visual classifiers we learn how to generate a description using an LSTM.
+We explore different design choices to build and train the LSTM and achieve the best performance to date on the challenging MPII-MD dataset.
+We compare and analyze our approach and prior work along various dimensions to better understand the key challenges of the movie description task.

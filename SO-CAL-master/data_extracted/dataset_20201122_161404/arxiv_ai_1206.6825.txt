@@ -1,5 +1,0 @@
-We observe that certain large-clique graph triangulations can be useful to reduce both computational and space requirements when making queries on mixed stochastic/deterministic graphical models.
-We demonstrate that many of these large-clique triangulations are non-minimal and are thus unattainable via the variable elimination algorithm.
-We introduce ancestral pairs as the basis for novel triangulation heuristics and prove that no more than the addition of edges between ancestral pairs need be considered when searching for state space optimal triangulations in such graphs.
-Empirical results on random and real world graphs show that the resulting triangulations that yield significant speedups are almost always non-minimal.
-We also give an algorithm and correctness proof for determining if a triangulation can be obtained via elimination, and we show that the decision problem associated with finding optimal state space triangulations in this mixed stochastic/deterministic setting is NP-complete.

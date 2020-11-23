@@ -1,0 +1,5 @@
+Probabilistic linear discriminant analysis (PLDA) is among the most popular methods that accompany the i-vector model to deliver state-of-the-art performance for speaker recognition.
+A potential problem of the PLDA model, however, is that it essentially assumes strong Gaussian distributions over i-vectors as well as speaker mean vectors, and the objective function is not directly related to the goal of the task, e.g., discriminating true speakers and imposters.
+We propose a max-margin metric learning approach to solve the problem.
+It learns a linear transform with the criterion that target trials and imposter trials are discriminated from each other by a large margin.
+Experiments conducted on the SRE08 core test show that this new approach achieves a performance comparable to or even better than PLDA, though the scoring is as simple as a cosine computation.

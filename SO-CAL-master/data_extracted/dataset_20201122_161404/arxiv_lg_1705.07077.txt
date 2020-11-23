@@ -1,7 +1,0 @@
-Recently, deep convolutional neural network (DCNN) achieved increasingly remarkable success and rapidly developed in the field of natural image recognition.
-Compared with the natural image, the scale of remote sensing image is larger and the scene and the object it represents are more macroscopic.
-This study inquires whether remote sensing scene and natural scene recognitions differ and raises the following questions: What are the key factors in remote sensing scene recognition?
-Is the DCNN recognition mechanism centered on object recognition still applicable to the scenarios of remote sensing scene understanding?
-We performed several experiments to explore the influence of the DCNN structure and the scale of remote sensing scene understanding from the perspective of scene complexity.
-Our experiment shows that understanding a complex scene depends on an in-depth network and multiple-scale perception.
-Using a visualization method, we qualitatively and quantitatively analyze the recognition mechanism in a complex remote sensing scene and demonstrate the importance of multi-objective joint semantic support.

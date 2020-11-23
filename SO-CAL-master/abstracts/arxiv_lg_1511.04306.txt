@@ -1,0 +1,8 @@
+We introduce and compare several strategies for learning discriminative features from electroencephalography (EEG) recordings using deep learning techniques.
+EEG data are generally only available in small quantities, they are high-dimensional with a poor signal-to-noise ratio, and there is considerable variability between individual subjects and recording sessions.
+Our proposed techniques specifically address these challenges for feature learning.
+Similarity-constraint encoders learn features that allow to distinguish between classes by demanding that two trials from the same class are more similar to each other than to trials from other classes.
+This tuple-based training approach is especially suitable for small datasets.
+Hydra-nets allow for separate processing pathways adapting to subsets of a dataset and thus combine the advantages of individual feature learning (better adaptation of early, low-level processing) with group model training (better generalization of higher-level processing in deeper layers).
+This way, models can, for instance, adapt to each subject individually to compensate for differences in spatial patterns due to anatomical differences or variance in electrode positions.
+The different techniques are evaluated using the publicly available OpenMIIR dataset of EEG recordings taken while participants listened to and imagined music.

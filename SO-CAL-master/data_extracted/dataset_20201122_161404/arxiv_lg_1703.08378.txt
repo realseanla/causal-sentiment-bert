@@ -1,6 +1,0 @@
-Robot vision is a fundamental device for human-robot interaction and robot complex tasks.
-In this paper, we use Kinect and propose a feature graph fusion (FGF) for robot recognition.
-Our feature fusion utilizes RGB and depth information to construct fused feature from Kinect.
-FGF involves multi-Jaccard similarity to compute a robust graph and utilize word embedding method to enhance the recognition results.
-We also collect DUT RGB-D face dataset and a benchmark datset to evaluate the effectiveness and efficiency of our method.
-The experimental results illustrate FGF is robust and effective to face and object datasets in robot applications.

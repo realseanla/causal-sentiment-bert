@@ -1,0 +1,4 @@
+Item Response Theory (IRT) allows for measuring ability of Machine Learning models as compared to a human population.
+However, it is difficult to create a large dataset to train the ability of deep neural network models (DNNs).
+We propose fine-tuning as a new training process, where a model pre-trained on a large dataset is fine-tuned with a small supplemental training set.
+Our results show that fine-tuning can improve the ability of a state-of-the-art DNN model for Recognizing Textual Entailment tasks.

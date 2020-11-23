@@ -1,0 +1,5 @@
+A neural probabilistic language model (NPLM) provide an idea to achieve the better perplexity than n-gram language model and their smoothed language models.
+This paper investigates application area in bilingual NLP, specifically Statistical Machine Translation (SMT).
+We focus on the perspectives that NPLM has potential to open the possibility to complement potentially `huge' monolingual resources into the `resource-constraint' bilingual resources.
+In order to facilitate the application to various tasks, we propose the joint space model of ngram-HMM language model.
+We show two experiments in SMT: system combination and word alignment.

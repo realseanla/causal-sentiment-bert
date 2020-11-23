@@ -1,0 +1,2 @@
+We introduce a variant of (sparse) PCA in which the set of feasible support sets is determined by a graph.
+In particular, we consider the following setting: given a directed acyclic graph $G$ on $p$ vertices corresponding to variables, the non-zero entries of the extracted principal component must coincide with vertices lying along a path in $G$.

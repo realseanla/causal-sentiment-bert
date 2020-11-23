@@ -1,6 +1,0 @@
-We present a novel end-to-end neural model to extract entities and relations between them.
-Our recurrent neural network based model stacks bidirectional sequential LSTM-RNNs and bidirectional tree-structured LSTM-RNNs to capture both word sequence and dependency tree substructure information.
-This allows our model to jointly represent both entities and relations with shared parameters.
-We further encourage detection of entities during training and use of entity information in relation extraction via curriculum learning and scheduled sampling.
-Our model improves over the state-of-the-art feature-based model on end-to-end relation extraction, achieving 3.5 percent and 4.8 percent relative error reductions in F-score on ACE2004 and ACE2005, respectively.
-We also show improvements over the state-of-the-art convolutional neural network based model on nominal relation classification (SemEval-2010 Task 8), with 2.5 percent relative error reduction in F-score.

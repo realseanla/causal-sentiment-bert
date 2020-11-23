@@ -1,0 +1,6 @@
+The increasing diversity of languages used on the web introduces a new level of complexity to Information Retrieval (IR) systems.
+We can no longer assume that textual content is written in one language or even the same language family.
+In this paper, we demonstrate how to build massive multilingual annotators with minimal human expertise and intervention.
+We describe a system that builds Named Entity Recognition (NER) annotators for 40 major languages using Wikipedia and Freebase.
+Our approach does not require NER human annotated datasets or language specific resources like treebanks, parallel corpora, and orthographic rules.
+The novelty of approach lies therein - using only language agnostic techniques, while achieving competitive performance.

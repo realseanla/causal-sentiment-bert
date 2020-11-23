@@ -1,0 +1,7 @@
+Multivariate time series naturally exist in many fields, like energy, bioinformatics, signal processing, and finance.
+Most of these applications need to be able to compare these structured data.
+In this context, dynamic time warping (DTW) is probably the most common comparison measure.
+However, not much research effort has been put into improving it by learning.
+In this paper, we propose a novel method for learning similarities based on DTW, in order to improve time series classification.
+Making use of the uniform stability framework, we provide the first theoretical guarantees in the form of a generalization bound for linear classification.
+The experimental study shows that the proposed approach is efficient, while yielding sparse classifiers.

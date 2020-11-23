@@ -1,8 +1,0 @@
-This paper presents real-time vibration based identification technique using measured frequency response functions(FRFs) under random vibration loading.
-Artificial Neural Networks (ANNs) are trained to map damage fingerprints to damage characteristic parameters.
-Principal component statistical analysis(PCA) technique was used to tackle the problem of high dimensionality and high noise of data, which is common for industrial structures.
-The present study considers Crack, Rivet hole expansion and redundant uniform mass as damages on the structure.
-Frequency response function data after being reduced in size using PCA is fed to individual neural networks to localize and predict the severity of damage on the structure.
-The system of ANNs trained with both numerical and experimental model data to make the system reliable and robust.
-The methodology is applied to a numerical model of stiffened panel structure, where damages are confined close to the stiffener.
-The results showed that, in all the cases considered, it is possible to localize and predict severity of the damage occurrence with very good accuracy and reliability.

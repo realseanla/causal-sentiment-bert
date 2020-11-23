@@ -1,0 +1,3 @@
+The well known maximum-entropy principle due to Jaynes, which states that given mean parameters, the maximum entropy distribution matching them is in an exponential family, has been very popular in machine learning due to its "Occam's razor" interpretation.
+Unfortunately, calculating the potentials in the maximum-entropy distribution is intractable .
+We provide computationally efficient versions of this principle when the mean parameters are pairwise moments: we design distributions that approximately match given pairwise moments, while having entropy which is comparable to the maximum entropy distribution matching those moments.

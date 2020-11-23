@@ -1,0 +1,5 @@
+Researches have shown accent classification can be improved by integrating semantic information into pure acoustic approach.
+In this work, we combine phonetic knowledge, such as vowels, with enhanced acoustic features to build an improved accent classification system.
+The classifier is based on Gaussian Mixture Model-Universal Background Model (GMM-UBM), with normalized Perceptual Linear Predictive (PLP) features.
+The features are further optimized by Principle Component Analysis (PCA) and Hetroscedastic Linear Discriminant Analysis (HLDA).
+Using 7 major types of accented speech from the Foreign Accented English (FAE) corpus, the system achieves classification accuracy 54 percent with input test data as short as 20 seconds, which is competitive to the state of the art in this field.

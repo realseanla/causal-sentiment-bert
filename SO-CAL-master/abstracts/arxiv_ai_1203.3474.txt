@@ -1,0 +1,2 @@
+We propose a new point-based method for approximate planning in Dec-POMDP which outperforms the state-of-the-art approaches in terms of solution quality.
+It uses a heuristic estimation of the prior probability of beliefs to choose a bounded number of policy trees: this choice is formulated as a combinatorial optimisation problem minimising the error induced by pruning.

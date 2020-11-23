@@ -1,4 +1,0 @@
-Logic programs under the stable model semantics, or answer-set programs, provide an expressive rule-based knowledge representation framework, featuring a formal, declarative and well-understood semantics.
-However, handling the evolution of rule bases is still a largely open problem.
-The AGM framework for belief change was shown to give inappropriate results when directly applied to logic programs under a non-monotonic semantics such as the stable models.
-The approaches to address this issue, developed so far, proposed update semantics based on manipulating the syntactic structure of programs and rules.

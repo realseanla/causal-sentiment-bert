@@ -1,0 +1,5 @@
+We present a novel algorithm that synthesizes imperative programs for introductory programming courses.
+Given a set of input-output examples and a partial program, our algorithm generates a complete program that is consistent with every example.
+Our key idea is to combine enumerative program synthesis and static analysis, which aggressively prunes out a large search space while guaranteeing to find, if any, a correct solution.
+We have implemented our algorithm in a tool, called SIMPL, and evaluated it on 30 problems used in introductory programming courses.
+The results show that SIMPL is able to solve the benchmark problems in 6.6 seconds on average.

@@ -1,3 +1,0 @@
-We describe a representation of a scene that captures geometric and semantic attributes of objects within, along with their uncertainty.
-Objects are assumed persistent in the scene, and their likelihood computed from intermittent visual data using a convolutional architecture, integrated within a Bayesian filtering framework with inertials and a context model.
-Our method yields a posterior estimate of geometry (attributed point cloud and associated uncertainty), semantics (identities and co-occurrence), and a point-estimate of topology for a variable number of objects within the scene, implemented causally and in real-time on commodity hardware.

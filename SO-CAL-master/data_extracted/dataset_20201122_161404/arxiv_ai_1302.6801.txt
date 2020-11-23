@@ -1,4 +1,0 @@
-AI planning algorithms have addressed the problem of generating sequences of operators that achieve some input goal, usually assuming that the planning agent has perfect control over and information about the world.
-Relaxing these assumptions requires an extension to the action representation that allows reasoning both about the changes an action makes and the information it provides.
-This paper presents an action representation that extends the deterministic STRIPS model, allowing actions to have both causal and informational effects, both of which can be context dependent and noisy.
-We also demonstrate how a standard least-commitment planning algorithm can be extended to include informational actions and contingent execution.

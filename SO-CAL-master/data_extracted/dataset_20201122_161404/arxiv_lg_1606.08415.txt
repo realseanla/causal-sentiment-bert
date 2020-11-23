@@ -1,4 +1,0 @@
-We propose the Gaussian Error Linear Unit (GELU), a high-performing neural network activation function.
-The GELU nonlinearity is the expected transformation of a stochastic process which randomly applies the identity or zero map, combining the intuitions of dropout and zoneout while respecting neuron values.
-This connection suggests a new probabilistic understanding of nonlinearities.
-We perform an empirical evaluation of the GELU nonlinearity against the ReLU and ELU activations and find performance improvements across all tasks.

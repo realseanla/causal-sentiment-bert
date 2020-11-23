@@ -1,3 +1,0 @@
-We study the learning algorithm corresponding to the incremental gradient descent defined by the empirical risk over an infinite dimensional hypotheses space.
-We consider a statistical learning setting and show that, provided with a universal step-size and a suitable early stopping rule, the learning algorithm thus obtained is universally consistent and derive finite sample bounds.
-Our results provide a theoretical foundation for considering early stopping in online learning algorithms and shed light on the effect of allowing for multiple passes over the data.

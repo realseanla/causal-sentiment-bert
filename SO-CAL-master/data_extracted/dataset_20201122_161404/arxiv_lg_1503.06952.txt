@@ -1,8 +1,0 @@
-In supervised learning, simple baseline classifiers can be constructed by only looking at the class, i.e., ignoring any other information from the dataset.
-The single-label learning community frequently uses as a reference the one which always predicts the majority class.
-Although a classifier might perform worse than this simple baseline classifier, this behaviour requires a special explanation.
-Aiming to motivate the community to compare experimental results with the ones provided by a multi-label baseline classifier, calling the attention about the need of special explanations related to classifiers which perform worse than the baseline, in this work we propose the use of General_B, a multi-label baseline classifier.
-General_B was evaluated in contrast to results published in the literature which were carefully selected using a systematic review process.
-It was found that a considerable number of published results on 10 frequently used datasets are worse than or equal to the ones obtained by General_B, and for one dataset it reaches up to 43 percent of the dataset published results.
-Moreover, although a simple baseline classifier was not considered in these publications, it was observed that even for very poor results no special explanations were provided in most of them.
-We hope that the findings of this work would encourage the multi-label community to consider the idea of using a simple baseline classifier, such that further explanations are provided when a classifiers performs worse than a baseline.

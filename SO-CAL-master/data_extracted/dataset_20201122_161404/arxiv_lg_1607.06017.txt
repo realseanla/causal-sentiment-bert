@@ -1,2 +1,0 @@
-We study $k$-GenEV, the problem of finding the top $k$ generalized eigenvectors, and $k$-CCA, the problem of finding the top $k$ vectors in canonical-correlation analysis.
-We propose algorithms $\mathtt{LazyEV}$ and $\mathtt{LazyCCA}$ to solve the two problems with running times linearly dependent on the input size and on $k$.

@@ -1,5 +1,0 @@
-Typical approaches to plan recognition start from a representation of an agent's possible plans, and reason evidentially from observations of the agent's actions to assess the plausibility of the various candidates.
-A more expansive view of the task (consistent with some prior work) accounts for the context in which the plan was generated, the mental state and planning process of the agent, and consequences of the agent's actions in the world.
-We present a general Bayesian framework encompassing this view, and focus on how context can be exploited in plan recognition.
-We demonstrate the approach on a problem in traffic monitoring, where the objective is to induce the plan of the driver from observation of vehicle movements.
-Starting from a model of how the driver generates plans, we show how the highway context can appropriately influence the recognizer's interpretation of observed driver behavior.

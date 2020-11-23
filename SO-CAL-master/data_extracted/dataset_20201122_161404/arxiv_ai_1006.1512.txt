@@ -1,7 +1,0 @@
-The Dendritic Cell Algorithm is an immune-inspired algorithm orig- inally based on the function of natural dendritic cells.
-The original instantiation of the algorithm is a highly stochastic algorithm.
-While the performance of the algorithm is good when applied to large real-time datasets, it is difficult to anal- yse due to the number of random-based elements.
-In this paper a deterministic version of the algorithm is proposed, implemented and tested using a port scan dataset to provide a controllable system.
-This version consists of a controllable amount of parameters, which are experimented with in this paper.
-In addition the effects are examined of the use of time windows and variation on the number of cells, both which are shown to influence the algorithm.
-Finally a novel metric for the assessment of the algorithms output is introduced and proves to be a more sensitive metric than the metric used with the original Dendritic Cell Algorithm.

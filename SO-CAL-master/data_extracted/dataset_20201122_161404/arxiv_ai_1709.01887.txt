@@ -1,9 +1,0 @@
-When people converse about social or political topics, similar arguments are often paraphrased by different speakers, across many different conversations.
-Debate websites produce curated summaries of arguments on such topics; these summaries typically consist of lists of sentences that represent frequently paraphrased propositions, or labels capturing the essence of one particular aspect of an argument, e.g.
-Morality or Second Amendment.
-We call these frequently paraphrased propositions ARGUMENT FACETS.
-Like these curated sites, our goal is to induce and identify argument facets across multiple conversations, and produce summaries.
-However, we aim to do this automatically.
-We frame the problem as consisting of two steps: we first extract sentences that express an argument from raw social media dialogs, and then rank the extracted arguments in terms of their similarity to one another.
-Sets of similar arguments are used to represent argument facets.
-We show here that we can predict ARGUMENT FACET SIMILARITY with a correlation averaging 0.63 compared to a human topline averaging 0.68 over three debate topics, easily beating several reasonable baselines.

@@ -1,4 +1,0 @@
-We propose Sentence Level Recurrent Topic Model (SLRTM), a new topic model that assumes the generation of each word within a sentence to depend on both the topic of the sentence and the whole history of its preceding words in the sentence.
-Different from conventional topic models that largely ignore the sequential order of words or their topic coherence, SLRTM gives full characterization to them by using a Recurrent Neural Networks (RNN) based framework.
-Experimental results have shown that SLRTM outperforms several strong baselines on various tasks.
-Furthermore, SLRTM can automatically generate sentences given a topic (i.e., topics to sentences), which is a key technology for real world applications such as personalized short text conversation.

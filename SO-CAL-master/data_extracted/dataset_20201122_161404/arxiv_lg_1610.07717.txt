@@ -1,3 +1,0 @@
-The all-relevant problem of feature selection is the identification of all strongly and weakly relevant attributes.
-This problem is especially hard to solve for time series classification and regression in industrial applications such as predictive maintenance or production line optimization, for which each label or regression target is associated with several time series and meta-information simultaneously.
-Here, we are proposing an efficient, scalable feature extraction algorithm, which filters the available features in an early stage of the machine learning pipeline with respect to their significance for the classification or regression task, while controlling the expected percentage of selected but irrelevant features.

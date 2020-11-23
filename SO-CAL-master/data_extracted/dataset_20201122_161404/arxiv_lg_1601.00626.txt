@@ -1,6 +1,0 @@
-Information hierarchies are organizational structures that often used to organize and present large and complex information as well as provide a mechanism for effective human navigation.
-Fortunately, many statistical and computational models exist that automatically generate hierarchies; however, the existing approaches do not consider linkages in information {\em networks} that are increasingly common in real-world scenarios.
-Current approaches also tend to present topics as an abstract probably distribution over words, etc rather than as tangible nodes from the original network.
-Furthermore, the statistical techniques present in many previous works are not yet capable of processing data at Web-scale.
-In this paper we present the Hierarchical Document Topic Model (HDTM), which uses a distributed vertex-programming process to calculate a nonparametric Bayesian generative model.
-Experiments on three medium size data sets and the entire Wikipedia dataset show that HDTM can infer accurate hierarchies even over large information networks.

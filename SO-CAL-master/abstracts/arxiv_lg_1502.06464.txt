@@ -1,0 +1,6 @@
+We propose rectified factor networks (RFNs) as generative unsupervised models, which learn robust, very sparse, and non-linear codes with many code units.
+RFN learning is a variational expectation maximization (EM) algorithm with unknown prior which includes (i) rectified posterior means, (ii) normalized signals of hidden units, and (iii) dropout.
+Like factor analysis, RFNs explain the data variance by their parameters.
+For pretraining of deep networks on MNIST, rectangle data, convex shapes, NORB, and CIFAR, RFNs were superior to restricted Boltzmann machines (RBMs) and denoising autoencoders.
+On CIFAR-10 and CIFAR-100, RFN pretraining always improved the results of deep networks for different architectures like AlexNet, deep supervised net (DSN), and a simple "Network In Network" architecture.
+With RFNs success is guaranteed.

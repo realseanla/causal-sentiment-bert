@@ -1,6 +1,0 @@
-Recommender systems often use latent features to explain the behaviors of users and capture the properties of items.
-As users interact with different items over time, user and item features can influence each other, evolve and co-evolve over time.
-To accurately capture the fine grained nonlinear coevolution of these features, we propose a recurrent coevolutionary feature embedding process model, which combines recurrent neural network (RNN) with a multidimensional point process model.
-The RNN learns a nonlinear representation of user and item features which take into account mutual influence between user and item features, and the feature evolution over time.
-We also develop an efficient stochastic gradient algorithm for learning the model parameters, which can readily scale up to millions of events.
-Experiments on diverse real-world datasets demonstrate significant improvements in user behavior prediction compared to state-of-the-arts.

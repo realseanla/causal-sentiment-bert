@@ -1,5 +1,0 @@
-Incomplete data are often represented as vectors with filled missing attributes joined with flag vectors indicating missing components.
-In this paper we generalize this approach and represent incomplete data as pointed affine subspaces.
-This allows to perform various affine transformations of data, as whitening or dimensionality reduction.
-We embed such generalized missing data into a vector space by mapping pointed affine subspace (generalized missing data point) to a vector containing imputed values joined with a corresponding projection matrix.
-Such an operation preserves the scalar product of the embedding defined for flag vectors and allows to input transformed incomplete data to typical classification methods.

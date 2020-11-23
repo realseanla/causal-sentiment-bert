@@ -1,0 +1,9 @@
+Redescription mining is a field of knowledge discovery that aims at finding different descriptions of similar subsets of instances in the data.
+These instances are characterized with descriptive attributes from one or more disjoint sets of attributes called views.
+By exploring different characterizations it is possible to find non trivial and interesting connections between different subsets of attributes.
+In this work, we explore the process of creating possibly large and heterogeneous redescription set in which redescriptions are iteratively improved by a conjunctive refinement procedure aimed at increasing redescription accuracy.
+This set is used by our redescription set construction procedure to create multiple redescription sets of user defined size.
+Set construction is based on redescription selection by using multi-objective optimization incorporating user defined importance levels towards one or more redescription quality criteria.
+These properties distinguish our approach from current state of the art approaches that create one, mostly smaller set that contains redescriptions satisfying a pre-defined set of constraints.
+We introduce a new redescription quality criterion that assesses the variability of redescription accuracy when missing values are present in the data.
+Finally, we compare the performance of our framework with three state of the art redescription mining algorithms.

@@ -1,4 +1,0 @@
-The word2vec model and application by Mikolov et al.
-have attracted a great amount of attention in recent two years.
-The vector representations of words learned by word2vec models have been proven to be able to carry semantic meanings and are useful in various NLP tasks.
-As an increasing number of researchers would like to experiment with word2vec, I notice that there lacks a material that comprehensively explains the parameter learning process of word2vec in details, thus preventing many people with less neural network experience from understanding how exactly word2vec works.

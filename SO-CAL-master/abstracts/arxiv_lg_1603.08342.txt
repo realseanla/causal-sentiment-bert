@@ -1,0 +1,5 @@
+A hierarchical clustering algorithm based on Gaussian mixture model is presented.
+The key difference to regular hierarchical mixture models is the ability to store objects in both terminal and nonterminal nodes.
+Upper levels of the hierarchy contain sparsely distributed objects, while lower levels contain densely represented ones.
+As it was shown by experiments, this ability helps in noise detection (modelling).
+Furthermore, compared to regular hierarchical mixture model, the presented method generates more compact dendrograms with higher quality measured by adopted F-measure.

@@ -1,4 +1,0 @@
-This article demontrates that we can apply deep learning to text understanding from character-level inputs all the way up to abstract text concepts, using temporal convolutional networks (ConvNets).
-We apply ConvNets to various large-scale datasets, including ontology classification, sentiment analysis, and text categorization.
-We show that temporal ConvNets can achieve astonishing performance without the knowledge of words, phrases, sentences and any other syntactic or semantic structures with regards to a human language.
-Evidence shows that our models can work for both English and Chinese.

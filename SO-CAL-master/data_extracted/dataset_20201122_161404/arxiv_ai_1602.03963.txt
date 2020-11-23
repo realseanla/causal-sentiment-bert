@@ -1,4 +1,0 @@
-An important problem in the field of bioinformatics is to identify interactive effects among profiled variables for outcome prediction.
-In this paper, a simple logistic regression model with pairwise interactions among a set of binary covariates is considered.
-Modeling the structure of the interactions by a graph, our goal is to recover the interaction graph from independently identically distributed (i.i.d.)
-samples of the covariates and the outcome.

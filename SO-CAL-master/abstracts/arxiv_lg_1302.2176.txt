@@ -1,0 +1,4 @@
+We design and analyze minimax-optimal algorithms for online linear optimization games where the player's choice is unconstrained.
+The player strives to minimize regret, the difference between his loss and the loss of a post-hoc benchmark strategy.
+The standard benchmark is the loss of the best strategy chosen from a bounded comparator set.
+When the the comparison set and the adversary's gradients satisfy L_infinity bounds, we give the value of the game in closed form and prove it approaches sqrt(2T/pi) as T -&gt; infinity.

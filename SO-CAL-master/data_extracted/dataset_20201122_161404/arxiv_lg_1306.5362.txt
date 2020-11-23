@@ -1,4 +1,0 @@
-One popular method for dealing with large-scale data sets is sampling.
-For example, by using the empirical statistical leverage scores as an importance sampling distribution, the method of algorithmic leveraging samples and rescales rows/columns of data matrices to reduce the data size before performing computations on the subproblem.
-This method has been successful in improving computational efficiency of algorithms for matrix problems such as least-squares approximation, least absolute deviations approximation, and low-rank matrix approximation.
-Existing work has focused on algorithmic issues such as worst-case running times and numerical issues associated with providing high-quality implementations, but none of it addresses statistical aspects of this method.

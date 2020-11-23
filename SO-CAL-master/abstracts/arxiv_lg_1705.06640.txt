@@ -1,0 +1,3 @@
+Deep learning (DL) systems are increasingly deployed in security-critical domains including self-driving cars and malware detection, where the correctness and predictability of a system's behavior for corner-case inputs are of great importance.
+However, systematic testing of large-scale DL systems with thousands of neurons and millions of parameters for all possible corner-cases is a hard problem.
+Existing DL testing depends heavily on manually labeled data and therefore often fails to expose different erroneous behaviors for rare inputs.

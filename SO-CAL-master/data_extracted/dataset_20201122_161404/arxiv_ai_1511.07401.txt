@@ -1,6 +1,0 @@
-This paper introduces an environment for simple 2D maze games, designed as a sandbox for machine learning approaches to reasoning and planning.
-Within it, we create 10 simple games based on algorithmic tasks (e.g.
-embodying simple if-then statements).
-We deploy a range of neural models (fully connected, convolutional network, memory network) on these games, with and without a procedurally generated curriculum.
-We show that these architectures can be trained with reinforcement to respectable performance on these tasks, but are still far from optimal, despite their simplicity.
-We also apply these models to games involving combat, including StarCraft, demonstrating their ability to learn non-trivial tactics which enable them to consistently beat the in-game AI.

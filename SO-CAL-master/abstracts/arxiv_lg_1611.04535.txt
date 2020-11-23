@@ -1,0 +1,11 @@
+Many data analysis problems are NP-hard, a reality that has motivated researchers to develop a wealth of approximation algorithms and heuristics over the past few decades.
+Max-cut, clustering, and many other widely applicable partitioning problems fall into this camp.
+We focus on two common classes of algorithms that are used for clustering and partitioning problems, including SDP rounding algorithms and agglomerative clustering algorithms with dynamic programming.
+The best algorithm to use typically depends on the specific application or distribution over instances.
+A worst-case analysis is often used to compare algorithms, but worst-case instances may not be present in the particular problem domain, and thus may be misleading when determining which algorithm to apply.
+Therefore, it is necessary to develop optimization methods which return the algorithms and parameters best suited for typical inputs from the application at hand.
+We address this problem for integer quadratic programming and clustering within a learning-theoretic framework where the learning algorithm is given samples from an application-specific distribution over problem instances and learns an algorithm which performs well over the distribution.
+We provide sample complexity guarantees and computationally efficient algorithms which optimize an algorithm family's parameters to best suit typical inputs from a particular application.
+We analyze these algorithms using the learning-theoretic notion of pseudo-dimension.
+Along with upper bounds, we provide the first pseudo-dimension lower bounds in this line of work, which require an involved analysis of each algorithm family's performance on carefully constructed problem instances.
+Our bounds are tight and therefore nail down the intrinsic complexity of the algorithm classes we analyze, which are significantly more complex than classes commonly used in learning theory.

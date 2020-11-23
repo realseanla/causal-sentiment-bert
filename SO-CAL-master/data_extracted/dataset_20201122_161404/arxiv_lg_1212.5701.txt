@@ -1,4 +1,0 @@
-We present a novel per-dimension learning rate method for gradient descent called ADADELTA.
-The method dynamically adapts over time using only first order information and has minimal computational overhead beyond vanilla stochastic gradient descent.
-The method requires no manual tuning of a learning rate and appears robust to noisy gradient information, different model architecture choices, various data modalities and selection of hyperparameters.
-We show promising results compared to other methods on the MNIST digit classification task using a single machine and on a large scale voice dataset in a distributed cluster environment.

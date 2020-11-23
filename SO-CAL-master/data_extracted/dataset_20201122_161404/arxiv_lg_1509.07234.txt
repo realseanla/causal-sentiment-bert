@@ -1,5 +1,0 @@
-This paper describes an exponential transient excision algorithm (ETEA).
-In biomedical time series analysis, e.g., in vivo neural recording and electrocorticography (ECoG), some measurement artifacts take the form of piecewise exponential transients.
-The proposed method is formulated as an unconstrained convex optimization problem, regularized by smoothed l1-norm penalty function, which can be solved by majorization-minimization (MM) method.
-With a slight modification of the regularizer, ETEA can also suppress more irregular piecewise smooth artifacts, especially, ocular artifacts (OA) in electroencephalog- raphy (EEG) data.
-Examples of synthetic signal, EEG data, and ECoG data are presented to illustrate the proposed algorithms.

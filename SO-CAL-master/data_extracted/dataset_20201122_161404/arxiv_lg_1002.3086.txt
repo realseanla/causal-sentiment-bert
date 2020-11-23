@@ -1,3 +1,0 @@
-Recently, new approaches to adaptive control have sought to reformulate the problem as a minimization of a relative entropy criterion to obtain tractable solutions.
-In particular, it has been shown that minimizing the expected deviation from the causal input-output dependencies of the true plant leads to a new promising stochastic control rule called the Bayesian control rule.
-This work proves the convergence of the Bayesian control rule under two sufficient assumptions: boundedness, which is an ergodicity condition; and consistency, which is an instantiation of the sure-thing principle.

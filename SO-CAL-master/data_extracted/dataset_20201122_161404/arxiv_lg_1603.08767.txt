@@ -1,4 +1,0 @@
-Applying popular machine learning algorithms to large amounts of data raised new challenges for the ML practitioners.
-Traditional ML libraries does not support well processing of huge datasets, so that new approaches were needed.
-Parallelization using modern parallel computing frameworks, such as MapReduce, CUDA, or Dryad gained in popularity and acceptance, resulting in new ML libraries developed on top of these frameworks.
-We will briefly introduce the most prominent industrial and academic outcomes, such as Apache Mahout, GraphLab or Jubatus.

@@ -1,6 +1,0 @@
-Complex-valued neural networks (CVNNs) are an emerging field of research in neural networks due to their potential representational properties for audio, image, and physiological signals.
-It is common in signal processing to transform sequences of real values to the complex domain via a set of complex basis functions, such as the Fourier transform.
-We show how CVNNs can be used to learn complex representations of real valued time-series data.
-We present methods and results using a framework that can compose holomorphic and non-holomorphic functions in a multi-layer network using a theoretical result called the Wirtinger derivative.
-We test our methods on a representation learning task for real-valued signals, recurrent complex-valued networks and their real-valued counterparts.
-Our results show that recurrent complex-valued networks can perform as well as their real-valued counterparts while learning filters that are representative of the domain of the data.

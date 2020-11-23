@@ -1,4 +1,0 @@
-Projected stochastic gradient descent (SGD) is often the default choice for large-scale optimization in machine learning, but requires a projection after each update.
-For heavily-constrained objectives, we propose an efficient extension of SGD that stays close to the feasible region while only applying constraints probabilistically at each iteration.
-Theoretical analysis shows a good trade-off between per-iteration work and the number of iterations needed, indicating compelling advantages on problems with a large number of constraints onto which projecting is expensive.
-In MATLAB experiments, our algorithm successfully handles a large-scale real-world video ranking problem with tens of thousands of linear inequality constraints that was too large for projected SGD and stochastic Frank-Wolfe.

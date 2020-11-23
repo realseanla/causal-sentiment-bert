@@ -1,0 +1,9 @@
+The vocabulary mismatch problem is a long-standing problem in information retrieval.
+Semantic matching holds the promise of solving the problem.
+Recent advances in language technology have given rise to unsupervised neural models for learning representations of words as well as bigger textual units.
+Such representations enable powerful semantic matching methods.
+This survey is meant as an introduction to the use of neural models for semantic matching.
+To remain focused we limit ourselves to web search.
+We detail the required background and terminology, a taxonomy grouping the rapidly growing body of work in the area, and then survey work on neural models for semantic matching in the context of three tasks: query suggestion, ad retrieval, and document retrieval.
+We include a section on resources and best practices that we believe will help readers who are new to the area.
+We conclude with an assessment of the state-of-the-art and suggestions for future work.

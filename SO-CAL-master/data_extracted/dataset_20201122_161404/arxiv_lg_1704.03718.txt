@@ -1,8 +1,0 @@
-Extreme multi-label learning or classification has been a practical and important problem since the boom of big data.
-The main challenge lies in the exponential label space which involves 2L possible label sets when the label dimension L is very large e.g.
-in millions for Wikipedia labels.
-This paper is motivated to better explore the label space by build- ing and modeling an explicit label graph.
-In the meanwhile, deep learning has been widely studied and used in various classification problems includ- ing multi-label classification, however it has not been sufficiently studied in this extreme but practi- cal case, where the label space can be as large as in millions.
-In this paper, we propose a practical deep embedding method for extreme multi-label classifi- cation.
-Our method harvests the ideas of non-linear embedding and modeling label space with graph priors at the same time.
-Extensive experiments on public datasets for XML show that our method per- form competitively against state-of-the-art result.

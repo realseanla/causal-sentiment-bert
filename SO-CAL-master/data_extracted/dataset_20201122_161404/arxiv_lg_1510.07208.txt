@@ -1,6 +1,0 @@
-Global optimization of the energy consumption of dual power source vehicles such as hybrid electric vehicles, plug-in hybrid electric vehicles, and plug in fuel cell electric vehicles requires knowledge of the complete route characteristics at the beginning of the trip.
-One of the main characteristics is the vehicle speed profile across the route.
-The profile will translate directly into energy requirements for a given vehicle.
-However, the vehicle speed that a given driver chooses will vary from driver to driver and from time to time, and may be slower, equal to, or faster than the average traffic flow.
-If the specific driver speed profile can be predicted, the energy usage can be optimized across the route chosen.
-The purpose of this paper is to research the application of Deep Learning techniques to this problem to identify at the beginning of a drive cycle the driver specific vehicle speed profile for an individual driver repeated drive cycle, which can be used in an optimization algorithm to minimize the amount of fossil fuel energy used during the trip.

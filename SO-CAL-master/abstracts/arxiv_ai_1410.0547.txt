@@ -1,0 +1,6 @@
+An initial study of surrogate-assisted evolutionary algorithms used to design vertical-axis wind turbines wherein candidate prototypes are evaluated under approximated wind tunnel conditions after being physically instantiated by a three-dimensional printer has recently been presented.
+Unlike other approaches, such as computational fluid dynamics simulations, no mathematical formulations were used and no model assumptions were made.
+This paper extends that work by exploring alternative surrogate modelling and evolutionary techniques.
+The accuracy of various modelling algorithms used to estimate the fitness of evaluated individuals from the initial experiments is compared.
+The effect of temporally windowing surrogate model training samples is explored.
+A surrogate-assisted approach based on an enhanced local search is introduced; and alternative coevolution collaboration schemes are examined.

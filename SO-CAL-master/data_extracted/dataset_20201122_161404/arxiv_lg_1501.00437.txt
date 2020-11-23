@@ -1,5 +1,0 @@
-It is well known that most of the common clustering objectives are NP-hard to optimize.
-In practice, however, clustering is being routinely carried out.
-One approach for providing theoretical understanding of this seeming discrepancy is to come up with notions of clusterability that distinguish realistically interesting input data from worst-case data sets.
-The hope is that there will be clustering algorithms that are provably efficient on such 'clusterable' instances.
-In other words, hope that "Clustering is difficult only when it does not matter" (CDNM thesis, for short).

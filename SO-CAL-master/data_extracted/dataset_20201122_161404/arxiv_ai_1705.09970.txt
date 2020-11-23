@@ -1,6 +1,0 @@
-Abstraction is a fundamental tool for reasoning about complex systems.
-Program abstraction has been utilized to great effect for analyzing deterministic programs.
-At the heart of pro- gram abstraction is the relationship between a concrete program, which is difficult to analyze, and an abstraction, which is more tractable.
-We generalize non-deterministic program abstractions to probabilistic program abstractions by explicitly quantifying the non-deterministic choices made by traditional program abstractions.
-We upgrade key theoretical program abstraction insights to the probabilistic context.
-Probabilistic program abstractions provide avenues for utilizing abstraction techniques from the programming languages community to improve the analysis of probabilistic programs.

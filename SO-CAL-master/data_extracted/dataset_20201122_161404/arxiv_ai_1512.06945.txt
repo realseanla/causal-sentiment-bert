@@ -1,6 +1,0 @@
-Hypothetical Datalog is based on an intuitionistic semantics rather than on a classical logic semantics, and embedded implications are allowed in rule bodies.
-While the usual implication (i.e., the neck of a Horn clause) stands for inferring facts, an embedded implication plays the role of assuming its premise for deriving its consequence.
-A former work introduced both a formal framework and a goal-oriented tabled implementation, allowing negation in rule bodies.
-While in that work positive assumptions for both facts and rules can occur in the premise, negative assumptions are not allowed.
-In this work, we cover this subject by introducing a new concept: a restricted predicate, which allows negative assumptions by pruning the usual semantics of a predicate.
-This new setting has been implemented in the deductive system DES.

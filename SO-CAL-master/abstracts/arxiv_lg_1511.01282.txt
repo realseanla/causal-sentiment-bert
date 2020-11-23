@@ -1,0 +1,5 @@
+Recommendation systems often rely on point-wise loss metrics such as the mean squared error.
+However, in real recommendation settings only few items are presented to a user.
+This observation has recently encouraged the use of rank-based metrics.
+LambdaMART is the state-of-the-art algorithm in learning to rank which relies on such a metric.
+Despite its success it does not have a principled regularization mechanism relying in empirical approaches to control model complexity leaving it thus prone to overfitting.

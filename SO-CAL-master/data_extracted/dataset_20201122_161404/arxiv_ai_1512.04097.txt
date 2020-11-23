@@ -1,6 +1,0 @@
-It is widely acknowledged that function symbols are an important feature in answer set programming, as they make modeling easier, increase the expressive power, and allow us to deal with infinite domains.
-The main issue with their introduction is that the evaluation of a program might not terminate and checking whether it terminates or not is undecidable.
-To cope with this problem, several classes of logic programs have been proposed where the use of function symbols is restricted but the program evaluation termination is guaranteed.
-Despite the significant body of work in this area, current approaches do not include many simple practical programs whose evaluation terminates.
-In this paper, we present the novel classes of rule-bounded and cycle-bounded programs, which overcome different limitations of current approaches by performing a more global analysis of how terms are propagated from the body to the head of rules.
-Results on the correctness, the complexity, and the expressivity of the proposed approach are provided.

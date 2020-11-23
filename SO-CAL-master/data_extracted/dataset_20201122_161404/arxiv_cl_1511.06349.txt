@@ -1,6 +1,0 @@
-The standard unsupervised recurrent neural network language model (RNNLM) generates sentences one word at a time and does not work from an explicit global distributed sentence representation.
-In this work, we present an RNN-based variational autoencoder language model that incorporates distributed latent representations of entire sentences.
-This factorization allows it to explicitly model holistic properties of sentences such as style, topic, and high-level syntactic features.
-Samples from the prior over these sentence representations remarkably produce diverse and well-formed sentences through simple deterministic decoding.
-By examining paths through this latent space, we are able to generate coherent novel sentences that interpolate between known sentences.
-We present techniques for solving the difficult learning problem presented by this model, demonstrate strong performance in the imputation of missing tokens, and explore many interesting properties of the latent sentence space.

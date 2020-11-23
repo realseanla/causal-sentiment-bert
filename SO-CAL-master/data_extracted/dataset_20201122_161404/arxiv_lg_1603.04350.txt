@@ -1,4 +1,0 @@
-We consider the problem of online convex optimization against an arbitrary adversary with bandit feedback, known as bandit convex optimization.
-We give the first $\tilde{O}(\sqrt{T})$-regret algorithm for this setting based on a novel application of the ellipsoid method to online learning.
-This bound is known to be tight up to logarithmic factors.
-Our analysis is introduces new tools in discrete convex geometry.

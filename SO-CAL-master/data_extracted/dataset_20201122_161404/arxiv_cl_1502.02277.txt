@@ -1,9 +1,0 @@
-Term frequency normalization is a serious issue since lengths of documents are various.
-Generally, documents become long due to two different reasons - verbosity and multi-topicality.
-First, verbosity means that the same topic is repeatedly mentioned by terms related to the topic, so that term frequency is more increased than the well-summarized one.
-Second, multi-topicality indicates that a document has a broad discussion of multi-topics, rather than single topic.
-Although these document characteristics should be differently handled, all previous methods of term frequency normalization have ignored these differences and have used a simplified length-driven approach which decreases the term frequency by only the length of a document, causing an unreasonable penalization.
-To attack this problem, we propose a novel TF normalization method which is a type of partially-axiomatic approach.
-We first formulate two formal constraints that the retrieval model should satisfy for documents having verbose and multi-topicality characteristic, respectively.
-Then, we modify language modeling approaches to better satisfy these two constraints, and derive novel smoothing methods.
-Experimental results show that the proposed method increases significantly the precision for keyword queries, and substantially improves MAP (Mean Average Precision) for verbose queries.

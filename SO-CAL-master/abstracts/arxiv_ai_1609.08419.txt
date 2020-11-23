@@ -1,0 +1,7 @@
+Decision making is an important component in a speaker verification system.
+For the conventional GMM-UBM architecture, the decision is usually conducted based on the log likelihood ratio of the test utterance against the GMM of the claimed speaker and the UBM.
+This single-score decision is simple but tends to be sensitive to the complex variations in speech signals (e.g.
+text content, channel, speaking style, etc.).
+In this paper, we propose a decision making approach based on multiple scores derived from a set of cohort GMMs (cohort scores).
+Importantly, these cohort scores are not simply averaged as in conventional cohort methods; instead, we employ a powerful discriminative model as the decision maker.
+Experimental results show that the proposed method delivers substantial performance improvement over the baseline system, especially when a deep neural network (DNN) is used as the decision maker, and the DNN input involves some statistical features derived from the cohort scores.

@@ -1,0 +1,2 @@
+In this paper, we propose a novel graph kernel specifically to address a challenging problem in the field of cyber-security, namely, malware detection.
+Previous research has revealed the following: (1) Graph representations of programs are ideally suited for malware detection as they are robust against several attacks, (2) Besides capturing topological neighbourhoods (i.e., structural information) from these graphs it is important to capture the context under which the neighbourhoods are reachable to accurately detect malicious neighbourhoods.

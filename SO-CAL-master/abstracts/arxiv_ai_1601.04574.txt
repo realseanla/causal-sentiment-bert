@@ -1,0 +1,3 @@
+This paper presents 'SimpleDS', a simple and publicly available dialogue system trained with deep reinforcement learning.
+In contrast to previous reinforcement learning dialogue systems, this system avoids manual feature engineering by performing action selection directly from raw text of the last system and (noisy) user responses.
+Our initial results, in the restaurant domain, show that it is indeed possible to induce reasonable dialogue behaviour with an approach that aims for high levels of automation in dialogue control for intelligent interactive agents.

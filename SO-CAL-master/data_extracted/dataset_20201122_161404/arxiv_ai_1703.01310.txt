@@ -1,4 +1,0 @@
-Bellemare et al.
-(2016) introduced the notion of a pseudo-count to generalize count-based exploration to non-tabular reinforcement learning.
-This pseudo-count is derived from a density model which effectively replaces the count table used in the tabular setting.
-Using an exploration bonus based on this pseudo-count and a mixed Monte Carlo update applied to a DQN agent was sufficient to achieve state-of-the-art on the Atari 2600 game Montezuma's Revenge.

@@ -1,0 +1,7 @@
+Fuzzy controllers are known to serve as efficient and interpretable system controllers for continuous state and action spaces.
+To date these controllers have been constructed by hand, or automatically trained either on expert generated problem specific cost functions or by incorporating detailed knowledge about the optimal control strategy.
+Both requirements for automatic training processes are not given in the majority of real world reinforcement learning (RL) problems.
+We introduce a new particle swarm reinforcement learning (PSRL) approach which is capable of constructing fuzzy RL policies solely by training parameters on world models produced from randomly generated samples of the real system.
+This approach relates self-organizing fuzzy controllers to model-based RL for the first time.
+PSRL can be used straightforward on any RL problem, which is demonstrated on three standard RL benchmarks, mountain car, cart pole balancing and cart pole swing up.
+Our experiments yielded high performing and well interpretable fuzzy policies.

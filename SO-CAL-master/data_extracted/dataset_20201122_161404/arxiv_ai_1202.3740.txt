@@ -1,7 +1,0 @@
-We study the problem of agent-based negotiation in combinatorial domains.
-It is difficult to reach optimal agreements in bilateral or multi-lateral negotiations when the agents' preferences for the possible alternatives are not common knowledge.
-Self-interested agents often end up negotiating inefficient agreements in such situations.
-In this paper, we present a protocol for negotiation in combinatorial domains which can lead rational agents to reach optimal agreements under incomplete information setting.
-Our proposed protocol enables the negotiating agents to identify efficient solutions using distributed search that visits only a small subspace of the whole outcome space.
-Moreover, the proposed protocol is sufficiently general that it is applicable to most preference representation models in combinatorial domains.
-We also present results of experiments that demonstrate the feasibility and computational efficiency of our approach.

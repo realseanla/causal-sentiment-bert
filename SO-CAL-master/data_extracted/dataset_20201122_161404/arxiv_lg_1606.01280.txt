@@ -1,7 +1,0 @@
-Conventional dependency parsers rely on a statistical model and a transition system or graph algorithm to enforce tree-structured outputs during training and inference.
-In this work we formalize dependency parsing as the problem of selecting the head (a.k.a.
-parent) of each word in a sentence.
-Our model which we call DeNSe (as shorthand for Dependency Neural Selection) employs bidirectional recurrent neural networks for the head selection task.
-Without enforcing any structural constraints during training, DeNSe generates (at inference time) trees for the overwhelming majority of sentences (95 percent on an English dataset), while remaining non-tree outputs can be adjusted with a maximum spanning tree algorithm.
-We evaluate DeNSe on four languages (English, Chinese, Czech, and German) with varying degrees of non-projectivity.
-Despite the simplicity of our approach, experiments show that the resulting parsers are on par with or outperform the state of the art.

@@ -1,0 +1,5 @@
+The difficulty in analyzing LSTM-like recurrent neural networks lies in the complex structure of the recurrent unit, which induces highly complex nonlinear dynamics.
+In this paper, we design a new simple recurrent unit, which we call Prototypical Recurrent Unit (PRU).
+We verify experimentally that PRU performs comparably to LSTM and GRU.
+This potentially enables PRU to be a prototypical example for analytic study of LSTM-like recurrent networks.
+Along these experiments, the memorization capability of LSTM-like networks is also studied and some insights are obtained.

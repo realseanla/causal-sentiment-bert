@@ -1,8 +1,0 @@
-The current trends in next-generation exascale systems go towards integrating a wide range of specialized (co-)processors into traditional supercomputers.
-Due to the efficiency of heterogeneous systems in terms of Watts and FLOPS per surface unit, opening the access of heterogeneous platforms to a wider range of users is an important problem to be tackled.
-However, heterogeneous platforms limit the portability of the applications and increase development complexity due to the programming skills required.
-Program transformation can help make programming heterogeneous systems easier by defining a step-wise transformation process that translates a given initial code into a semantically equivalent final code, but adapted to a specific platform.
-Program transformation systems require the definition of efficient transformation strategies to tackle the combinatorial problem that emerges due to the large set of transformations applicable at each step of the process.
-In this paper we propose a machine learning-based approach to learn heuristics to define program transformation strategies.
-Our approach proposes a novel combination of reinforcement learning and classification methods to efficiently tackle the problems inherent to this type of systems.
-Preliminary results demonstrate the suitability of this approach.

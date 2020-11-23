@@ -1,8 +1,0 @@
-Many important NLP problems can be posed as dual-sequence or sequence-to-sequence modeling tasks.
-Recent advances in building end-to-end neural architectures have been highly successful in solving such tasks.
-In this work we propose a new architecture for dual-sequence modeling that is based on associative memory.
-We derive AM-RNNs, a recurrent associative memory (AM) which augments generic recurrent neural networks (RNN).
-This architecture is extended to the Dual AM-RNN which operates on two AMs at once.
-Our models achieve very competitive results on textual entailment.
-A qualitative analysis demonstrates that long range dependencies between source and target-sequence can be bridged effectively using Dual AM-RNNs.
-However, an initial experiment on auto-encoding reveals that these benefits are not exploited by the system when learning to solve sequence-to-sequence tasks which indicates that additional supervision or regularization is needed.

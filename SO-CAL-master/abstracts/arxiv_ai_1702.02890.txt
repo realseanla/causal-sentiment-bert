@@ -1,0 +1,7 @@
+Parameterized algorithms are a way to solve hard problems more efficiently, given that a specific parameter of the input is small.
+In this paper, we apply this idea to the field of answer set programming (ASP).
+To this end, we propose two kinds of graph representations of programs to exploit their treewidth as a parameter.
+Treewidth roughly measures to which extent the internal structure of a program resembles a tree.
+Our main contribution is the design of parameterized dynamic programming algorithms, which run in linear time if the treewidth and weights of the given program are bounded.
+Compared to previous work, our algorithms handle the full syntax of ASP.
+Finally, we report on an empirical evaluation that shows good runtime behaviour for benchmark instances of low treewidth, especially for counting answer sets.

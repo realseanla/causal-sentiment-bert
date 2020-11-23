@@ -1,5 +1,0 @@
-Stochastic multi-armed bandits solve the Exploration-Exploitation dilemma and ultimately maximize the expected reward.
-Nonetheless, in many practical problems, maximizing the expected reward is not the most desirable objective.
-In this paper, we introduce a novel setting based on the principle of risk-aversion where the objective is to compete against the arm with the best risk-return trade-off.
-This setting proves to be intrinsically more difficult than the standard multi-arm bandit setting due in part to an exploration risk which introduces a regret associated to the variability of an algorithm.
-Using variance as a measure of risk, we introduce two new algorithms, investigate their theoretical guarantees, and report preliminary empirical results.

@@ -1,7 +1,0 @@
-We revisit the classical decision-theoretic problem of weighted expert voting from a statistical learning perspective.
-In particular, we examine the consistency (both asymptotic and finitary) of the optimal Nitzan-Paroush weighted majority and related rules.
-In the case of known expert competence levels, we give precise necessary and sufficient conditions for consistency.
-When the competence levels are unknown, they must be empirically estimated.
-We provide frequentist and Bayesian analyses for this situation and discuss open problems presented by both approaches.
-Some of our proof techniques are non-standard and may be of independent interest.
-Experimental results are provided.

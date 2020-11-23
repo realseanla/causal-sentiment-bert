@@ -1,3 +1,0 @@
-In this paper we introduce temporal action graph games (TAGGs), a novel graphical representation of imperfect-information extensive form games.
-We show that when a game involves anonymity or context-specific utility independencies, its encoding as a TAGG can be much more compact than its direct encoding as a multiagent influence diagram (MAID).We also show that TAGGs can be understood as indirect MAID encodings in which many deterministic chance nodes are introduced.
-We provide an algorithm for computing with TAGGs, and show both theoretically and empirically that our approach improves significantly on the previous state of the art.

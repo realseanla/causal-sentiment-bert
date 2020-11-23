@@ -1,0 +1,7 @@
+In this work we propose an approach to learn a robust policy for solving the pivoting task.
+Recently, several model-free continuous control algorithms were shown to learn successful policies without prior knowledge of the dynamics of the task.
+However, obtaining successful policies required thousands to millions of training episodes, limiting the applicability of these approaches to real hardware.
+We developed a training procedure that allows us to use a simple custom simulator to learn policies robust to the mismatch of simulation vs robot.
+In our experiments, we demonstrate that the policy learned in the simulator is able to pivot the object to the desired target angle on the real robot.
+We also show generalization to an object with different inertia, shape, mass and friction properties than those used during training.
+This result is a step towards making model-free reinforcement learning available for solving robotics tasks via pre-training in simulators that offer only an imprecise match to the real-world dynamics.

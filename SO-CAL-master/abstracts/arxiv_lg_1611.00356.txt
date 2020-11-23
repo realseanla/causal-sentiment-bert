@@ -1,0 +1,7 @@
+Whether officials can be trusted to protect national security information has become a matter of great public controversy, reigniting a long-standing debate about the scope and nature of official secrecy.
+The declassification of millions of electronic records has made it possible to analyze these issues with greater rigor and precision.
+Using machine-learning methods, we examined nearly a million State Department cables from the 1970s to identify features of records that are more likely to be classified, such as international negotiations, military operations, and high-level communications.
+Even with incomplete data, algorithms can use such features to identify 90 percent of classified cables with &lt;11 percent false positives.
+But our results also show that there are longstanding problems in the identification of sensitive information.
+Error analysis reveals many examples of both overclassification and underclassification.
+This indicates both the need for research on inter-coder reliability among officials as to what constitutes classified material and the opportunity to develop recommender systems to better manage both classification and declassification.

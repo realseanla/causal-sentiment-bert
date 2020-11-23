@@ -1,8 +1,0 @@
-Directly reading documents and being able to answer questions from them is a key problem.
-To avoid its inherent difficulty, question answering (QA) has been directed towards using Knowledge Bases (KBs) instead, which has proven effective.
-Unfortunately KBs suffer from often being too restrictive, as the schema cannot support certain types of answers, and too sparse, e.g.
-Wikipedia contains much more information than Freebase.
-In this work we introduce a new method, Key-Value Memory Networks, that makes reading documents more viable by utilizing different encodings in the addressing and output stages of the memory read operation.
-To compare using KBs, information extraction or Wikipedia documents directly in a single framework we construct an analysis tool, MovieQA, a QA dataset in the domain of movies.
-Our method closes the gap between all three settings.
-It also achieves state-of-the-art results on the existing WikiQA benchmark.

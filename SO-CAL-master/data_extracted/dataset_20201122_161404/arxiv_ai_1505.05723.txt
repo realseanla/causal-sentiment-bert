@@ -1,3 +1,0 @@
-Our study revisits the problem of accuracy-fairness tradeoff in binary classification.
-We argue that comparison of non-discriminatory classifiers needs to account for different rates of positive predictions, otherwise conclusions about performance may be misleading, because accuracy and discrimination of naive baselines on the same dataset vary with different rates of positive predictions.
-We provide methodological recommendations for sound comparison of non-discriminatory classifiers, and present a brief theoretical and empirical analysis of tradeoffs between accuracy and non-discrimination.

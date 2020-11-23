@@ -1,5 +1,0 @@
-In this paper we introduce RankPL, a modeling language that can be thought of as a qualitative variant of a probabilistic programming language with a semantics based on Spohn's ranking theory.
-Broadly speaking, RankPL can be used to represent and reason about processes that exhibit uncertainty expressible by distinguishing "normal" from" surprising" events.
-RankPL allows (iterated) revision of rankings over alternative program states and supports various types of reasoning, including abduction and causal inference.
-We present the language, its denotational semantics, and a number of practical examples.
-We also discuss an implementation of RankPL that is available for download.

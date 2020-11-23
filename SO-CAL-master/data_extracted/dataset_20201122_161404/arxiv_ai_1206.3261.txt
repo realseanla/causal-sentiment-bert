@@ -1,4 +1,0 @@
-We study a multiagent learning problem where agents can either learn via repeated interactions, or can follow the advice of a mediator who suggests possible actions to take.
-We present an algorithmthat each agent can use so that, with high probability, they can verify whether or not the mediator's advice is useful.
-In particular, if the mediator's advice is useful then agents will reach a correlated equilibrium, but if the mediator's advice is not useful, then agents are not harmed by using our test, and can fall back to their original learning algorithm.
-We then generalize our algorithm and show that in the limit it always correctly verifies the mediator's advice.

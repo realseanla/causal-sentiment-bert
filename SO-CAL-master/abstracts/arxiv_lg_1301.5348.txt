@@ -1,0 +1,3 @@
+Recently, the computer vision and machine learning community has been in favor of feature extraction pipelines that rely on a coding step followed by a linear classifier, due to their overall simplicity, well understood properties of linear classifiers, and their computational efficiency.
+In this paper we propose a novel view of this pipeline based on kernel methods and Nystrom sampling.
+In particular, we focus on the coding of a data point with a local representation based on a dictionary with fewer elements than the number of data points, and view it as an approximation to the actual function that would compute pair-wise similarity to all data points (often too many to compute in practice), followed by a Nystrom sampling step to select a subset of all data points.

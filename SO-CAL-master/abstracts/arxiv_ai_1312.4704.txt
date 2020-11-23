@@ -1,0 +1,7 @@
+The interdisciplinary nature of the Semantic Web and the many projects put forward by the community led to a large number of widely accepted serialization formats for RDF.
+Most of these RDF syntaxes have been developed out of a necessity to serve specific purposes better than existing ones, e.g.
+RDFa was proposed as an extension to HTML for embedding non-intrusive RDF statements in human-readable documents.
+Nonetheless, the RDF serialization formats are generally transducible among themselves given that they are commonly based on the RDF model.
+In this paper, we present (1) a RESTful Web service based on the HTTP protocol that translates between different serializations.
+In addition to its core functionality, our proposed solution provides (2) features to accommodate frequent needs of Semantic Web developers, namely a straightforward user interface with copy-to-clipboard functionality, syntax highlighting, persistent URI links for easy sharing, cool URI patterns, and content negotiation using respective HTTP headers.
+We demonstrate the benefit of our converter by presenting two use cases.

@@ -1,5 +1,0 @@
-We consider the problem of maximizing a non-monotone DR-submodular function subject to a cardinality constraint.
-Diminishing returns (DR) submodularity is a generalization of the diminishing returns property for functions defined over the integer lattice.
-This generalization can be used to solve many machine learning or combinatorial optimization problems such as optimal budget allocation, revenue maximization, etc.
-In this work we propose the first polynomial-time approximation algorithms for non-monotone constrained maximization.
-We implement our algorithms for a revenue maximization problem with a real-world dataset to check their efficiency and performance.

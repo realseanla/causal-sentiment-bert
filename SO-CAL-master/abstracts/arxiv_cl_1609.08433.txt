@@ -1,0 +1,3 @@
+PLDA is a popular normalization approach for the i-vector model, and it has delivered state-of-the-art performance in speaker verification.
+However, PLDA training requires a large amount of labeled development data, which is highly expensive in most cases.
+A possible approach to mitigate the problem is various unsupervised adaptation methods, which use unlabeled data to adapt the PLDA scattering matrices to the target domain.

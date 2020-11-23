@@ -1,0 +1,3 @@
+In the framework of prediction with expert advice, we consider a recently introduced kind of regret bounds: the bounds that depend on the effective instead of nominal number of experts.
+In contrast to the NormalHedge bound, which mainly depends on the effective number of experts and also weakly depends on the nominal one, we obtain a bound that does not contain the nominal number of experts at all.
+We use the defensive forecasting method and introduce an application of defensive forecasting to multivalued supermartingales.

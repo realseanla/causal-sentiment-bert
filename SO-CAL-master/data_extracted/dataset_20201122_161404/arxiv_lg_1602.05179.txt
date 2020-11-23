@@ -1,7 +1,0 @@
-This work follows Bengio and Fischer (2015) in which theoretical foundations were laid to show how iterative inference can backpropagate error signals.
-Neurons move their activations towards configurations corresponding to lower energy and smaller prediction error: a new observation creates a perturbation at visible neurons that propagates into hidden layers, with these propagated perturbations corresponding to the back-propagated gradient.
-This avoids the need for a lengthy relaxation in the positive phase of training (when both inputs and targets are observed), as was believed with previous work on fixed-point recurrent networks.
-We show experimentally that energy-based neural networks with several hidden layers can be trained at discriminative tasks by using iterative inference and an STDP-like learning rule.
-The main result of this paper is that we can train neural networks with 1, 2 and 3 hidden layers on the permutation-invariant MNIST task and get the training error down to 0.00 percent.
-The results presented here make it more biologically plausible that a mechanism similar to back-propagation may take place in brains in order to achieve credit assignment in deep networks.
-The paper also discusses some of the remaining open problems to achieve a biologically plausible implementation of backprop in brains.

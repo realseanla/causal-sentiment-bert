@@ -1,5 +1,0 @@
-We study unsupervised learning by developing introspective generative modeling (IGM) that attains a generator using progressively learned deep convolutional neural networks.
-The generator is itself a discriminator, capable of introspection: being able to self-evaluate the difference between its generated samples and the given training data.
-When followed by repeated discriminative learning, desirable properties of modern discriminative classifiers are directly inherited by the generator.
-IGM learns a cascade of CNN classifiers using a synthesis-by-classification algorithm.
-In the experiments, we observe encouraging results on a number of applications including texture modeling, artistic style transferring, face modeling, and semi-supervised learning.

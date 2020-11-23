@@ -1,0 +1,5 @@
+Most algorithms for propagating evidence through belief networks have been exact and exhaustive: they produce an exact (point-valued) marginal probability for every node in the network.
+Often, however, an application will not need information about every n ode in the network nor will it need exact probabilities.
+We present the localized partial evaluation (LPE) propagation algorithm, which computes interval bounds on the marginal probability of a specified query node by examining a subset of the nodes in the entire network.
+Conceptually, LPE ignores parts of the network that are "too far away" from the queried node to have much impact on its value.
+LPE has the "anytime" property of being able to produce better solutions (tighter intervals) given more time to consider more of the network.

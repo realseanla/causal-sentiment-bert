@@ -1,0 +1,5 @@
+We propose Novel Object Captioner (NOC), a deep visual semantic captioning model that can describe a large number of object categories not present in existing image-caption datasets.
+Recent captioning models are limited in their ability to scale and describe concepts outside of paired image-text corpora.
+Our model takes advantage of external sources - labeled images from object recognition datasets, and semantic knowledge extracted from unannotated text - and combines them to generate descriptions about novel objects.
+We propose minimizing a joint objective which can learn from diverse data sources and leverage distributional semantic embeddings, enabling the model to generalize and describe novel objects outside of image-caption datasets.
+We demonstrate that our model exploits semantic information to generate captions for hundreds of object categories in the ImageNet object recognition dataset that are not observed in image-caption training data, as well as many categories that are observed very rarely.

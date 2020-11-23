@@ -1,0 +1,3 @@
+Given an argumentation network with initial values to the arguments, we look for algorithms which can yield extensions compatible with such initial values.
+We find that the best way of tackling this problem is to offer an iteration formula that takes the initial values and the attack relation and iterates a sequence of intermediate values that eventually converges leading to an extension.
+The properties surrounding the application of the iteration formula and its connection with other numerical and non-numerical techniques proposed by others are thoroughly investigated in this paper.

@@ -1,4 +1,0 @@
-My research goal is to employ a parser generation algorithm based on the Earley parsing algorithm to the evaluation and compilation of queries to logic programs, especially to deductive databases.
-By means of partial deduction, from a query to a logic program a parameterized automaton is to be generated that models the evaluation of this query.
-This automaton can be compiled to executable code; thus we expect a speedup in runtime of query evaluation.
-An extended abstract/ full version of a paper accepted to be presented at the Doctoral Consortium of the 30th International Conference on Logic Programming (ICLP 2014), July 19-22, Vienna, Austria

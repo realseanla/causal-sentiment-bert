@@ -1,5 +1,0 @@
-Causality has been recently introduced in databases, to model, characterize and possibly compute causes for query results (answers).
-Connections between query causality and consistency-based diagnosis and database repairs (wrt.
-integrity constrain violations) have been established in the literature.
-In this work we establish connections between query causality and abductive diagnosis and the view-update problem.
-The unveiled relationships allow us to obtain new complexity results for query causality -the main focus of our work- and also for the two other areas.

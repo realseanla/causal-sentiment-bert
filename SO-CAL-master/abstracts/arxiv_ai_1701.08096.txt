@@ -1,0 +1,5 @@
+Discovering the key structure of a database is one of the main goals of data mining.
+In pattern set mining we do so by discovering a small set of patterns that together describe the data well.
+The richer the class of patterns we consider, and the more powerful our description language, the better we will be able to summarise the data.
+In this paper we propose \ourmethod, a novel greedy MDL-based method for summarising sequential data using rich patterns that are allowed to interleave.
+Experiments show \ourmethod is orders of magnitude faster than the state of the art, results in better models, as well as discovers meaningful semantics in the form patterns that identify multiple choices of values.

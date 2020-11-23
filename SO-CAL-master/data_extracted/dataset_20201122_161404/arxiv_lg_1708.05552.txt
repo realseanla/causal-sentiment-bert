@@ -1,9 +1,0 @@
-Convolutional neural network provides an end-to-end solution to train many computer vision tasks and has gained great successes.
-However, the design of network architectures usually relies heavily on expert knowledge and is hand-crafted.
-In this paper, we provide a solution to automatically and efficiently design high performance network architectures.
-To reduce the search space of network design, we focus on constructing network blocks, which can be stacked to generate the whole network.
-Blocks are generated through an agent, which is trained with Q-learning to maximize the expected accuracy of the searching blocks on the learning task.
-Distributed asynchronous framework and early stop strategy are used to accelerate the training process.
-Our experimental results demonstrate that the network architectures designed by our approach perform competitively compared with hand-crafted state-of-the-art networks.
-We trained the Q-learning on CIFAR-100, and evaluated on CIFAR10 and ImageNet, the designed block structure achieved 3.60 percent error on CIFAR-10 and competitive result on ImageNet.
-The Q-learning process can be efficiently trained only on 32 GPUs in 3 days.

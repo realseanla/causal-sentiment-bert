@@ -1,4 +1,0 @@
-We present Query-Regression Network (QRN), a variant of Recurrent Neural Network (RNN) that is suitable for end-to-end machine comprehension.
-While previous work largely relied on external memory and attention mechanism, QRN is a single recurrent unit with internal memory.
-Unlike most RNN-based models, QRN is able to effectively handle long-term dependencies and is highly parallelizable.
-In our experiments we show that QRN outperforms the state of the art in end-to-end bAbI QA tasks.

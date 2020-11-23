@@ -1,0 +1,5 @@
+Despite recent advances, memory-augmented deep neural networks are still limited when it comes to life-long and one-shot learning, especially in remembering rare events.
+We present a large-scale life-long memory module for use in deep learning.
+The module exploits fast nearest-neighbor algorithms for efficiency and thus scales to large memory sizes.
+Except for the nearest-neighbor query, the module is fully differentiable and trained end-to-end with no extra supervision.
+It operates in a life-long manner, i.e., without the need to reset it during training.

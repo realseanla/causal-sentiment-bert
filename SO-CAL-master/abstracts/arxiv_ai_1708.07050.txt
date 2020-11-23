@@ -1,0 +1,8 @@
+The goal of continuous emotion recognition is to assign an emotion value to every frame in a sequence of acoustic features.
+We show that incorporating long-term temporal dependencies is critical for continuous emotion recognition tasks.
+To this end, we first investigate architectures that use dilated convolutions.
+We show that even though such architectures outperform previously reported systems, the output signals produced from such architectures undergo erratic changes between consecutive time steps.
+This is inconsistent with the slow moving ground-truth emotion labels that are obtained from human annotators.
+To deal with this problem, we model a downsampled version of the input signal and then generate the output signal through upsampling.
+Not only does the resulting downsampling/upsampling network achieve good performance, it also generates smooth output trajectories.
+Our method yields the best known audio-only performance on the RECOLA dataset.

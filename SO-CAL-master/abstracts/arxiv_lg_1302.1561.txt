@@ -1,0 +1,4 @@
+This paper discusses causal independence models and a generalization of these models called causal interaction models.
+Causal interaction models are models that have independent mechanisms where a mechanism can have several causes.
+In addition to introducing several particular types of causal interaction models, we show how we can apply the Bayesian approach to learning causal interaction models obtaining approximate posterior distributions for the models and obtain MAP and ML estimates for the parameters.
+We illustrate the approach with a simulation study of learning model posteriors.

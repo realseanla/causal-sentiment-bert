@@ -1,6 +1,0 @@
-All solutions SAT (AllSAT for short) is a variant of propositional satisfiability problem.
-Despite its significance, AllSAT has been relatively unexplored compared to other variants.
-We thus survey and discuss major techniques of AllSAT solvers.
-We faithfully implement them and conduct comprehensive experiments using a large number of instances and various types of solvers including one of the few public softwares.
-The experiments reveal solver's characteristics.
-Our implemented solvers are made publicly available so that other researchers can easily develop their solver by modifying our codes and compare it with existing methods.

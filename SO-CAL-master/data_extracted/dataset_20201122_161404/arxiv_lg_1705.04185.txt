@@ -1,5 +1,0 @@
-In this paper we present the first empirical study of the emphatic temporal-difference learning algorithm (ETD), comparing it with conventional temporal-difference learning, in particular, with linear TD(0), on on-policy and off-policy variations of the Mountain Car problem.
-The initial motivation for developing ETD was that it has good convergence properties under \emph{off}-policy training (Sutton, Mahmood \&amp; White 2016), but it is also a new algorithm for the \emph{on}-policy case.
-In both our on-policy and off-policy experiments, we found that each method converged to a characteristic asymptotic level of error, with ETD better than TD(0).
-TD(0) achieved a still lower error level temporarily before falling back to its higher asymptote, whereas ETD never showed this kind of "bounce".
-In the off-policy case (in which TD(0) is not guaranteed to converge), ETD was significantly slower.

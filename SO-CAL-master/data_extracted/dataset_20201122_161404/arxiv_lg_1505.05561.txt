@@ -1,6 +1,0 @@
-Although a number of auto-encoder models enforce sparsity explicitly in their learned representation while others don't, there has been little formal analysis on what encourages sparsity in these models in general.
-Therefore, our objective here is to formally study this general problem for regularized auto-encoders.
-We show that both regularization and activation function play an important role in encouraging sparsity.
-We provide sufficient conditions on both these criteria and show that multiple popular models-- like De-noising and Contractive auto-encoder-- and activations-- like Rectified Linear and Sigmoid-- satisfy these conditions; thus explaining sparsity in their learned representation.
-Our theoretical and empirical analysis together, throws light on the properties of regularization/activation that are conducive to sparsity.
-As a by-product of the insights gained from our analysis, we also propose a new activation function that overcomes the individual drawbacks of multiple existing activations (in terms of sparsity) and hence produces performance at par (or better) with the best performing activation for all auto-encoder models discussed.

@@ -1,4 +1,0 @@
-We have proposed a simple, effective and fast method named retrofitting to improve word vectors using word relation knowledge found in semantic lexicons constructed either automatically or by humans.
-Retrofitting is used as a post-processing step to improve vector quality and is simpler to use than other approaches that use semantic information while training.
-It can be used for improving vectors obtained from any word vector training model and performs better than current state-of-the-art approaches to semantic enrichment of word vectors.
-We validated the applicability of our method across tasks, semantic lexicons, and languages.

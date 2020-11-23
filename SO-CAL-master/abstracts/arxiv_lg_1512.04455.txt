@@ -1,0 +1,2 @@
+Partially observed control problems are a challenging aspect of reinforcement learning.
+We extend two related, model-free algorithms for continuous control -- deterministic policy gradient and stochastic value gradient -- to solve partially observed domains using recurrent neural networks trained with backpropagation through time.

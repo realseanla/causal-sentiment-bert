@@ -1,0 +1,6 @@
+In this paper, we propose a novel technique for direct recognition of multiple speech streams given the single channel of mixed speech, without first separating them.
+Our technique is based on permutation invariant training (PIT) for automatic speech recognition (ASR).
+In PIT-ASR, we compute the average cross entropy (CE) over all frames in the whole utterance for each possible output-target assignment, pick the one with the minimum CE, and optimize for that assignment.
+PIT-ASR forces all the frames of the same speaker to be aligned with the same output layer.
+This strategy elegantly solves the label permutation problem and speaker tracing problem in one shot.
+Our experiments on artificially mixed AMI data showed that the proposed approach is very promising.

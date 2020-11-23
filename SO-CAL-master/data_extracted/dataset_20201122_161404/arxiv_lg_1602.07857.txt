@@ -1,5 +1,0 @@
-Several statistical techniques have been recently developed for the inference of cancer progression models from the increasingly available NGS cross sectional mutational profiles.
-A particular algorithm, CAPRI, was proven to be the most efficient with respect to sample size and level of noise in the data.
-The algorithm combines structural constraints based on Suppes' theory of probabilistic causation and maximum likelihood fit with regularization,and defines constrained Bayesian networks, named Suppes-Bayes Causal Networks(SBCNs), which account for the selective advantage relations among genomic events.
-In general, SBCNs are effective in modeling any phenomenon driven by cumulative dynamics, as long as the modeled events are persistent.
-We here discuss on the effectiveness of the SBCN theoretical framework and we investigate the inference of: (i) the priors based on Suppes' theory and (ii) different maximum likelihood regularization parameters on the inference performance estimated on large synthetically generated datasets.

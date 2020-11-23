@@ -1,7 +1,0 @@
-Pairwise association measure is an important operation in data analytics.
-Kendall's tau coefficient is one widely used correlation coefficient identifying non-linear relationships between ordinal variables.
-In this paper, we investigated a parallel algorithm accelerating all-pairs Kendall's tau coefficient computation via single instruction multiple data (SIMD) vectorized sorting on Intel Xeon Phis by taking advantage of many processing cores and 512-bit SIMD vector instructions.
-To facilitate workload balancing and overcome on-chip memory limitation, we proposed a generic framework for symmetric all-pairs computation by building provable bijective functions between job identifier and coordinate space.
-Performance evaluation demonstrated that our algorithm on one 5110P Phi achieves two orders-of-magnitude speedups over 16-threaded MATLAB and three orders-of-magnitude speedups over sequential R, both running on high-end CPUs.
-Besides, our algorithm exhibited rather good distributed computing scalability with respect to number of Phis.
-Source code and datasets are publicly available at

@@ -1,3 +1,0 @@
-In this paper, we present a model which takes as input a corpus of images with relevant spoken captions and finds a correspondence between the two modalities.
-We employ a pair of convolutional neural networks to model visual objects and speech signals at the word level, and tie the networks together with an embedding and alignment model which learns a joint semantic space over both modalities.
-We evaluate our model using image search and annotation tasks on the Flickr8k dataset, which we augmented by collecting a corpus of 40,000 spoken captions using Amazon Mechanical Turk.

@@ -1,8 +1,0 @@
-This paper presents a probabilistic model for reasoning about the state of a system as it changes over time, both due to exogenous and endogenous influences.
-Our target domain is a class of medical prediction problems that are neither so urgent as to preclude careful diagnosis nor progress so slowly as to allow arbitrary testing and treatment options.
-In these domains there is typically enough time to gather information about the patient's state and consider alternative diagnoses and treatments, but the temporal interaction between the timing of tests, treatments, and the course of the disease must also be considered.
-Our approach is to elicit a qualitative structural model of the patient from a human expert---the model identifies important attributes, the way in which exogenous changes affect attribute values, and the way in which the patient's condition changes endogenously.
-We then elicit probabilistic information to capture the expert's uncertainty about the effects of tests and treatments and the nature and timing of endogenous state changes.
-This paper describes the model in the context of a problem in treating vehicle accident trauma, and suggests a method for solving the model based on the technique of sequential imputation.
-A complementary goal of this work is to understand and synthesize a disparate collection of research efforts all using the name ?probabilistic temporal reasoning.?
-This paper analyzes related work and points out essential differences between our proposed model and other approaches in the literature.

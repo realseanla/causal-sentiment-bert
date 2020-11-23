@@ -1,0 +1,8 @@
+Patient time series classification faces challenges in high degrees of dimensionality and missingness.
+In light of patient similarity theory, this study explores effective temporal feature engineering and reduction, missing value imputation, and change point detection methods that can afford similarity-based classification models with desirable accuracy enhancement.
+We select a piecewise aggregation approximation method to extract fine-grain temporal features and propose a minimalist method to impute missing values in temporal features.
+For dimensionality reduction, we adopt a gradient descent search method for feature weight assignment.
+We propose new patient status and directional change definitions based on medical knowledge or clinical guidelines about the value ranges for different patient status levels, and develop a method to detect change points indicating positive or negative patient status changes.
+We evaluate the effectiveness of the proposed methods in the context of early Intensive Care Unit mortality prediction.
+The evaluation results show that the k-Nearest Neighbor algorithm that incorporates methods we select and propose significantly outperform the relevant benchmarks for early ICU mortality prediction.
+This study makes contributions to time series classification and early ICU mortality prediction via identifying and enhancing temporal feature engineering and reduction methods for similarity-based time series classification.

@@ -1,5 +1,0 @@
-Deciding what to sense is a crucial task, made harder by dependencies and by a nonadditive utility function.
-We develop approximation algorithms for selecting an optimal set of measurements, under a dependency structure modeled by a tree-shaped Bayesian network (BN).
-Our approach is a generalization of composing anytime algorithm represented by conditional performance profiles.
-This is done by relaxing the input monotonicity assumption, and extending the local compilation technique to more general classes of performance profiles (PPs).
-We apply the extended scheme to selecting a subset of measurements for choosing a maximum expectation variable in a binary valued BN, and for minimizing the worst variance in a Gaussian BN.

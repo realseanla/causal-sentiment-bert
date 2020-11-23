@@ -1,7 +1,0 @@
-In one-class classification (OCC) problems, only the data for the target class is available, whereas the data for the non-target class may be completely absent.
-In this paper, we study one-class nearest neighbour (OCNN) classifiers and their different variants for the OCC problem.
-We present a theoretical analysis to show the equivalence among different variants of OCNN that may use different neighbours or thresholds to identify unseen examples of the non-target class.
-We also present a method based on inter-quartile range for optimizing parameters used in OCNN in the absence of non-target data during training.
-Then, we propose to use two ensemble approaches based on random sub-space and random projection approaches to create accurate ensemble that significantly outperforms the baseline OCNN.
-We tested the proposed methods on various benchmark and real word domain-specific datasets to show their superior performance.
-The results give strong evidence that the random projection ensemble of the proposed OCNN with optimized parameters variants perform significantly and consistently better than the single OCC on all the tested datasets.

@@ -1,0 +1,9 @@
+The partially observable Markov decision process (POMDP) provides a principled general framework for planning under uncertainty, but solving POMDPs optimally is computationally intractable, due to the "curse of dimensionality" and the "curse of history".
+To overcome these challenges, we introduce the Determinized Sparse Partially Observable Tree (DESPOT), a sparse approximation of the standard belief tree, for online planning under uncertainty.
+A DESPOT focuses online planning on a set of randomly sampled scenarios and compactly captures the "execution" of all policies under these scenarios.
+We show that the best policy obtained from a DESPOT is near-optimal, with a regret bound that depends on the representation size of the optimal policy.
+Leveraging this result, we give an anytime online planning algorithm, which searches a DESPOT for a policy that optimizes a regularized objective function.
+Regularization balances the estimated value of a policy under the sampled scenarios and the policy size, thus avoiding overfitting.
+The algorithm demonstrates strong experimental results, compared with some of the best online POMDP algorithms available.
+It has also been incorporated into an autonomous driving system for realtime vehicle control.
+The source code for the algorithm is available at http: //bigbird.comp.nus.edu.sg/pmwiki/farm/appl/.

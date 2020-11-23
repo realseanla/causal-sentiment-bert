@@ -1,4 +1,0 @@
-We present a data-driven approach to the problem of inductive computer program synthesis.
-Our method learns a probabilistic model for real-world programs from a corpus of existing code.
-It uses this model during synthesis to automatically infer a posterior distribution over sketches, or syntactic models of the problem to be synthesized.
-Sketches sampled from this posterior are then used to drive combinatorial synthesis of a program in a high-level programming language.

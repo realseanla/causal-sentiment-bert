@@ -1,4 +1,0 @@
-We introduce a novel generalization of Counterexample-Guided Inductive Synthesis (CEGIS) and instantiate it to yield a novel, competitive algorithm for solving Quantified Boolean Formulas (QBF).
-Current QBF solvers based on counterexample-guided expansion use a recursive approach which scales poorly with the number of quantifier alternations.
-Our generalization of CEGIS removes the need for this recursive approach, and we instantiate it to yield a simple and efficient algorithm for QBF solving.
-Lastly, this research is supported by a competitive, though straightforward, implementation of the algorithm, making it possible to study the practical impact of our algorithm design decisions, along with various optimizations.

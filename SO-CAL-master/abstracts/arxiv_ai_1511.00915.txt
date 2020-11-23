@@ -1,0 +1,7 @@
+Recently, we see a new type of interfaces for programmers based on web technology.
+For example, JSFiddle, IPython Notebook and R-studio.
+Web technology enables cloud-based solutions, embedding in tutorial web pages, atractive rendering of results, web-scale cooperative development, etc.
+This article describes SWISH, a web front-end for Prolog.
+A public website exposes SWI-Prolog using SWISH, which is used to run small Prolog programs for demonstration, experimentation and education.
+We connected SWISH to the ClioPatria semantic web toolkit, where it allows for collaborative development of programs and queries related to a dataset as well as performing maintenance tasks on the running server and we embedded SWISH in the Learn Prolog Now!
+online Prolog book.

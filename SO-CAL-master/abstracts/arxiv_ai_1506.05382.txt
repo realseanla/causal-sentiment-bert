@@ -1,0 +1,5 @@
+This paper proposes a decision support system to aid movie investment decisions at the early stage of movie productions.
+The system predicts the success of a movie based on its profitability by leveraging historical data from various sources.
+Using social network analysis and text mining techniques, the system automatically extracts several groups of features, including "who" are on the cast, "what" a movie is about, "when" a movie will be released, as well as "hybrid" features that match "who" with "what", and "when" with "what".
+Our experiments with movies during an 11-year period showcase the system's decent performance in predicting movie success.
+Moreover, experiment results also suggest that different groups of features, including novel features we proposed, all contribute to the prediction.

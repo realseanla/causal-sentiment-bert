@@ -1,4 +1,0 @@
-This paper investigates how linguistic knowledge mined from large text corpora can aid the generation of natural language descriptions of videos.
-Specifically, we integrate both a neural language model and distributional semantics trained on large text corpora into a recent LSTM-based architecture for video description.
-We evaluate our approach on a collection of Youtube videos as well as two large movie description datasets showing significant improvements in grammaticality while maintaining or modestly improving descriptive quality.
-Further, we show that such techniques can be beneficial for describing unseen object classes with no paired training data (zeroshot captioning).

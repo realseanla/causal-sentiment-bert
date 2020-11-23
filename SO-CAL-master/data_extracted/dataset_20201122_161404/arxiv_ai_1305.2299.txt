@@ -1,4 +1,0 @@
-We examine three different algorithms that enable the collision certificate method from [Bialkowski, et al.]
-to handle the case of a centralized multi-robot team.
-By taking advantage of symmetries in the configuration space of multi-robot teams, our methods can significantly reduce the number of collision checks vs. both [Bialkowski, et al.]
-and standard collision checking implementations.

@@ -1,0 +1,9 @@
+Designing an e-commerce recommender system that serves hundreds of millions of active users is a daunting challenge.
+Ranking strategy as the key module needs to be more carefully designed.
+We find two key factors that affect users' behaviors: attractive item content and compatibility with users' interests.
+To extract these factors, a ranking model needs to understand users from a human vision perspective.
+This paper proposes Telepath, a vision-based architecture that simulates the human vision system to extract the key visual signals that attract users to a displayed item and generate vision activations and simulates cerebral cortex to understand users' interest based on the captured activations from browsed items.
+Telepath is a combination of CNN, RNN and DNN.
+In practice, the Telepath model has been launched to JD's online recommender system and advertising system.
+For one of the major item recommendation blocks on the JD app, CTR, GMV and orders have increased 1.59 percent, 8.16 percent and 8.71 percent respectively.
+For several major advertising publishers of JD DSP, CTR, GMV and ROI have increased 6.58 percent, 61.72 percent and 65.57 percent respectively by the first launch, and further increased 2.95 percent, 41.75 percent and 41.37 percent respectively by the second launch.

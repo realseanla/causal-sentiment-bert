@@ -1,4 +1,0 @@
-We have developed and trained a convolutional neural network to automatically and simultaneously segment optic disc, fovea and blood vessels.
-Fundus images were normalised before segmentation was performed to enforce consistency in background lighting and contrast.
-For every effective point in the fundus image, our algorithm extracted three channels of input from the neighbourhood of the point and forward the response across the 7 layer network.
-In average, our segmentation achieved an accuracy of 92.68 percent on the testing set from Drive database.

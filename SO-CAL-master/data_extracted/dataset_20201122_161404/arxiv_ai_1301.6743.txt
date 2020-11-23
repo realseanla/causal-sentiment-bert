@@ -1,7 +1,0 @@
-The deontic logic DUS is a Deontic Update Semantics for prescriptive obligations based on the update semantics of Veltman.
-In DUS the definition of logical validity of obligations is not based on static truth values but on dynamic action transitions.
-In this paper prescriptive defeasible obligations are formalized in update semantics and the diagnostic problem of defeasible deontic logic is discussed.
-Assume a defeasible obligation `normally A ought to be (done)' together withthe fact `A is not (done).'
-Is this an exception of the normality claim, or is it a violation of the obligation?
-In this paper we formalize the heuristic principle that it is a violation, unless there is a more specific overriding obligation.
-The underlying motivation from legal reasoning is that criminals should have as little opportunities as possible to excuse themselves by claiming that their behavior was exceptional rather than criminal.

@@ -1,5 +1,0 @@
-The notion of approachability in repeated games with vector payoffs was introduced by Blackwell in the 1950s, along with geometric conditions for approachability and corresponding strategies that rely on computing {\em steering directions} as projections from the current average payoff vector to the (convex) target set.
-Recently, Abernethy, Batlett and Hazan (2011) proposed a class of approachability algorithms that rely on the no-regret properties of Online Linear Programming for computing a suitable sequence of steering directions.
-This is first carried out for target sets that are convex cones, and then generalized to any convex set by embedding it in a higher-dimensional convex cone.
-In this paper we present a more direct formulation that relies on the support function of the set, along with suitable Online Convex Optimization algorithms, which leads to a general class of approachability algorithms.
-We further show that Blackwell's original algorithm and its convergence follow as a special case.

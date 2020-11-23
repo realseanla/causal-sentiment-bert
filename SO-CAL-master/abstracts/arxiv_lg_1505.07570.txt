@@ -1,0 +1,3 @@
+Matrix operations such as matrix inversion, eigenvalue decomposition, singular value decomposition are ubiquitous in real-world applications.
+Unfortunately, many of these matrix operations so time and memory expensive that they are prohibitive when the scale of data is large.
+In real-world applications, since the data themselves are noisy, machine-precision matrix operations are not necessary at all, and one can sacrifice a reasonable amount of accuracy for computational efficiency.

@@ -1,0 +1,7 @@
+Question answering tasks have shown remarkable progress with distributed vector representations.
+In this paper, we look into the recently proposed Facebook 20 tasks (FB20).
+Finding the answers for questions in FB20 requires complex reasoning.
+Because the previous work on FB20 consists of end-to-end models, it is unclear whether errors come from imperfect understanding of semantics or in certain steps of the reasoning.
+To address this issue, we propose two vector space models inspired by tensor product representation (TPR) to perform analysis, knowledge representation, and reasoning based on common-sense inference.
+We achieve near-perfect accuracy on all categories, including positional reasoning and pathfinding that have proved difficult for all previous approaches due to the special two-dimensional relationships identified from this study.
+The exploration reported in this paper and our subsequent work on generalizing the current model to the TPR formalism suggest the feasibility of developing further reasoning models in tensor space with learning capabilities.

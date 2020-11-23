@@ -1,6 +1,0 @@
-Pure acoustic neural models, particularly the LSTM-RNN model, have shown great potential in language identification (LID).
-However, the phonetic information has been largely overlooked by most of existing neural LID models, although this information has been used in the conventional phonetic LID systems with a great success.
-We present a phone-aware neural LID architecture, which is a deep LSTM-RNN LID system but accepts output from an RNN-based ASR system.
-By utilizing the phonetic knowledge, the LID performance can be significantly improved.
-Interestingly, even if the test language is not involved in the ASR training, the phonetic knowledge still presents a large contribution.
-Our experiments conducted on four languages within the Babel corpus demonstrated that the phone-aware approach is highly effective.

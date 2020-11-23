@@ -1,6 +1,0 @@
-With the increasing popularity of online learning, intelligent tutoring systems are regaining increased attention.
-In this paper, we introduce adaptive algorithms for personalized assignment of learning tasks to student so that to improve his performance in online learning environments.
-As main contribution of this paper, we propose a a novel Skill-Based Task Selector (SBTS) algorithm which is able to approximate a student's skill level based on his performance and consequently suggest adequate assignments.
-The SBTS is inspired by the class of multi-armed bandit algorithms.
-However, in contrast to standard multi-armed bandit approaches, the SBTS aims at acquiring two criteria related to student learning, namely: which topics should the student work on, and what level of difficulty should the task be.
-The SBTS centers on innovative reward and punishment schemes in a task and skill matrix based on the student behaviour.

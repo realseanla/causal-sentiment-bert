@@ -1,3 +1,0 @@
-This work presents an attention mechanism-based neural network approach for tracking objects in video.
-A recurrent neural network is trained to predict the position of an object at time t+1 given a series of selective glimpses into video frames at time steps 1 to t. The proposed recurrent attentive tracking model can be trained using simple gradient-based training.
-Various settings are explored in experiments on artificial data to justify design choices.

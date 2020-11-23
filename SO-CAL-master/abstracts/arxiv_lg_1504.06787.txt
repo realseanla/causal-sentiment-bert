@@ -1,0 +1,5 @@
+Deep generative models (DGMs) are effective on learning multilayered representations of complex data and performing inference of input data by exploring the generative ability.
+However, little work has been done on examining whether the representations are discriminative enough to get good prediction performance.
+In this paper, we present max-margin deep generative models (mmDGMs), which explore the strongly discriminative principle of max-margin learning to improve the discriminative power of DGMs, while retaining the generative capability.
+We develop an efficient doubly stochastic subgradient algorithm.
+Empirical results on MNIST and its variant datasets demonstrate that (1) max-margin learning can significantly improve the classification performance of DGMs and meanwhile retain the ability of inferring input data; and (2) mmDGMs are competitive to the state-of-the-art networks that have a similar structure.

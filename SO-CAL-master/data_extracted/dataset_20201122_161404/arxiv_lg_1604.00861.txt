@@ -1,6 +1,0 @@
-In this paper we present an approach to polyphonic sound event detection in real life recordings based on bi-directional long short term memory (BLSTM) recurrent neural networks (RNNs).
-A single multilabel BLSTM RNN is trained to map acoustic features of a mixture signal consisting of sounds from multiple classes, to binary activity indicators of each event class.
-Our method is tested on a large database of real-life recordings, with 61 classes (e.g.
-music, car, speech) from 10 different everyday contexts.
-The proposed method outperforms previous approaches by a large margin, and the results are further improved using data augmentation techniques.
-Overall, our system reports an average F1-score of 65.5 percent on 1 second blocks and 64.7 percent on single frames, a relative improvement over previous state-of-the-art approach of 6.8 percent and 15.1 percent respectively.

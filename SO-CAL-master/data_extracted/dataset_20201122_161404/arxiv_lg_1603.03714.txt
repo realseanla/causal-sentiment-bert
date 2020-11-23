@@ -1,2 +1,0 @@
-The model of learning with \emph{local membership queries} interpolates between the PAC model and the membership queries model by allowing the learner to query the label of any example that is similar to an example in the training set.
-This model, recently proposed and studied by Awasthi, Feldman and Kanade, aims to facilitate practical use of membership queries.

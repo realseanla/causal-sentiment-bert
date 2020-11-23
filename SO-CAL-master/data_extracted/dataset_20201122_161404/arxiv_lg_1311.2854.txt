@@ -1,5 +1,0 @@
-Spectral clustering is arguably one of the most important algorithms in data mining and machine intelligence; however, its computational complexity makes challenging to use in large scale data analysis.
-Recently, several approximation algorithms for spectral clustering have been developed in order to alleviate the relevant costs, but theoretical results are lacking.
-In this paper, we present an approximation algorithm for spectral clustering with strong theoretical evidence of its performance.
-Our algorithm is based on approximating the eigenvectors of the Laplacian matrix using random projections, a.k.a randomized sketching.
-Our experimental results demonstrate that the proposed approximation algorithm compares remarkably well to the exact algorithm.

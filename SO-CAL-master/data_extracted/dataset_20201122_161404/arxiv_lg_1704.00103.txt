@@ -1,7 +1,0 @@
-We describe a method to produce a network where current methods such as DeepFool have great difficulty producing adversarial samples.
-Our construction suggests some insights into how deep networks work.
-We provide a reasonable analyses that our construction is difficult to defeat, and show experimentally that our method is hard to defeat using several standard networks and datasets.
-We use our method to produce a system that can reliably detect whether an image is a picture of a real scene or not.
-Our system applies to images captured with depth maps (RGBD images) and checks if a pair of image and depth map is consistent.
-It relies on the relative difficulty of producing naturalistic depth maps for images in post processing.
-We demonstrate that our system is robust to adversarial examples built from currently known attacking approaches.

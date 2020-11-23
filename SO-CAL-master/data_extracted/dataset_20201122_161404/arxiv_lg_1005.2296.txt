@@ -1,6 +1,0 @@
-We study online learning when individual instances are corrupted by random noise.
-We assume the noise distribution is unknown, and may change over time with no restriction other than having zero mean and bounded variance.
-Our technique relies on a family of unbiased estimators for non-linear functions, which may be of independent interest.
-We show that a variant of online gradient descent can learn functions in any dot-product (e.g., polynomial) or Gaussian kernel space with any analytic convex loss function.
-Our variant uses randomized estimates that need to query a random number of noisy copies of each instance, where with high probability this number is upper bounded by a constant.
-Allowing such multiple queries cannot be avoided: Indeed, we show that online learning is in general impossible when only one noisy copy of each instance can be accessed.

@@ -1,0 +1,6 @@
+Most real-world Planning problems are multi-objective, trying to minimize both the makespan of the solution plan, and some cost of the actions involved in the plan.
+But most, if not all existing approaches are based on single-objective planners, and use an aggregation of the objectives to remain in the single-objective context.
+Divide and Evolve (DaE) is an evolutionary planner that won the temporal deterministic satisficing track at the last International Planning Competitions (IPC).
+Like all Evolutionary Algorithms (EA), it can easily be turned into a Pareto-based Multi-Objective EA.
+It is however important to validate the resulting algorithm by comparing it with the aggregation approach: this is the goal of this paper.
+The comparative experiments on a recently proposed benchmark set that are reported here demonstrate the usefulness of going Pareto-based in AI Planning.

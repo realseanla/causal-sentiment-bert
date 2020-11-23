@@ -1,0 +1,3 @@
+We train a language-universal dependency parser on a multilingual collection of treebanks.
+The parsing model uses multilingual word embeddings alongside learned and specified typological information, enabling generalization based on linguistic universals and based on typological similarities.
+We evaluate our parser's performance on languages in the training set as well as on the unsupervised scenario where the target language has no trees in the training data, and find that multilingual training outperforms standard supervised training on a single language, and that generalization to unseen languages is competitive with existing model-transfer approaches.

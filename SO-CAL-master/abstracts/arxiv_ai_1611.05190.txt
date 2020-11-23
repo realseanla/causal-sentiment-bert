@@ -1,0 +1,6 @@
+The CDCL algorithm is the leading solution adopted by state-of-the-art solvers for SAT, SMT, ASP, and others.
+Experiments show that the performance of CDCL solvers can be significantly boosted by embedding domain-specific heuristics, especially on large real-world problems.
+However, a proper integration of such criteria in off-the-shelf CDCL implementations is not obvious.
+In this paper, we distill the key ingredients that drive the search of CDCL solvers, and propose a general framework for designing and implementing new heuristics.
+We implemented our strategy in an ASP solver, and we experimented on two industrial domains.
+On hard problem instances, state-of-the-art implementations fail to find any solution in acceptable time, whereas our implementation is very successful and finds all solutions.

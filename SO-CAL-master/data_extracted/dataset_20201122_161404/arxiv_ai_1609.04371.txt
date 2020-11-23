@@ -1,4 +1,0 @@
-LTL synthesis -- the construction of a function to satisfy a logical specification formulated in Linear Temporal Logic -- is a 2EXPTIME-complete problem with relevant applications in controller synthesis and a myriad of artificial intelligence applications.
-In this research note we consider De Giacomo and Vardi's variant of the synthesis problem for LTL formulas interpreted over finite rather than infinite traces.
-Rather surprisingly, given the existing claims on complexity, we establish that LTL synthesis is EXPTIME-complete for the finite interpretation, and not 2EXPTIME-complete as previously reported.
-Our result coincides nicely with the planning perspective where non-deterministic planning with full observability is EXPTIME-complete and partial observability increases the complexity to 2EXPTIME-complete; a recent related result for LTL synthesis shows that in the finite case with partial observability, the problem is 2EXPTIME-complete.

@@ -1,4 +1,0 @@
-We describe and evaluate a novel optimization-based off-line path planning algorithm for mobile robots based on the Counterexample-Guided Inductive Optimization (CEGIO) technique.
-CEGIO iteratively employs counterexamples generated from Boolean Satisfiability (SAT) and Satisfiability Modulo Theories (SMT) solvers, in order to guide the optimization process and to ensure global optimization.
-This paper marks the first application of CEGIO for planning mobile robot path.
-In particular, CEGIO has been successfully applied to obtain optimal two-dimensional paths for autonomous mobile robots using off-the-shelf SAT and SMT solvers.

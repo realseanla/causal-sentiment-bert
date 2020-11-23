@@ -1,5 +1,0 @@
-CoCoE stands for Complexity, Coherence and Entropy, and presents an extensible methodology for empirical analysis of Linked Open Data (i.e., RDF graphs).
-CoCoE can offer answers to questions like: Is dataset A better than B for knowledge discovery since it is more complex and informative?, Is dataset X better than Y for simple value lookups due its flatter structure?, etc.
-In order to address such questions, we introduce a set of well-founded measures based on complementary notions from distributional semantics, network analysis and information theory.
-These measures are part of a specific implementation of the CoCoE methodology that is available for download.
-Last but not least, we illustrate CoCoE by its application to selected biomedical RDF datasets.

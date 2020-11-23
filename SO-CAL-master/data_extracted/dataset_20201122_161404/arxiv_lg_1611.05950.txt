@@ -1,4 +1,0 @@
-We study the task of teaching a machine to classify objects using features and labels.
-We introduce the Error-Driven-Featuring design pattern for teaching using features and labels in which a teacher prefers to introduce features only if they are needed.
-We analyze the potential risks and benefits of this teaching pattern through the use of teaching protocols, illustrative examples, and by providing bounds on the effort required for an optimal machine teacher using a linear learning algorithm, the most commonly used type of learners in interactive machine learning systems.
-Our analysis provides a deeper understanding of potential trade-offs of using different learning algorithms and between the effort required for featuring (creating new features) and labeling (providing labels for objects).

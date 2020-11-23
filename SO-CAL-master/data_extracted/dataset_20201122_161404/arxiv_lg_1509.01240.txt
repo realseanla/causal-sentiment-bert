@@ -1,4 +1,0 @@
-We show that any model trained by a stochastic gradient method with few iterations has vanishing generalization error.
-We prove this by showing the method is algorithmically stable in the sense of Bousquet and Elisseeff.
-Our analysis only employs elementary tools from convex and continuous optimization.
-Our results apply to both convex and non-convex optimization under standard Lipschitz and smoothness assumptions.

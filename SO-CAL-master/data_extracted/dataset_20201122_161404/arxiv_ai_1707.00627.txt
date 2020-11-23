@@ -1,3 +1,0 @@
-We present Solrex,an automated solver for the game of Reverse Hex.Reverse Hex, also known as Rex, or Misere Hex, is the variant of the game of Hex in which the player who joins her two sides loses the game.
-Solrex performs a mini-max search of the state space using Scalable Parallel Depth First Proof Number Search, enhanced by the pruning of inferior moves and the early detection of certain winning strategies.
-Solrex is implemented on the same code base as the Hex program Solver, and can solve arbitrary positions on board sizes up to 6x6, with the hardest position taking less than four hours on four threads.

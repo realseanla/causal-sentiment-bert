@@ -1,0 +1,5 @@
+Semi-supervised learning based on the low-density separation principle such as the cluster and manifold assumptions has been extensively studied in the last decades.
+However, such semi-supervised learning methods do not always perform well due to violation of the cluster and manifold assumptions.
+In this paper, we propose a novel approach to semi-supervised learning that does not require such restrictive assumptions.
+Our key idea is to combine learning from positive and negative data (standard supervised learning) and learning from positive and unlabeled data (PU learning), the latter is guaranteed to be able to utilize unlabeled data without the cluster and manifold assumptions.
+We theoretically and experimentally show the usefulness of our approach.

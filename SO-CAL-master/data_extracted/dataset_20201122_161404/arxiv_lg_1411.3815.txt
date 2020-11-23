@@ -1,7 +1,0 @@
-We propose a new neurally-inspired model that can learn to encode global relationship context of visual events across time and space and to use the contextual information to modulate the analysis by synthesis process in a predictive coding framework.
-The model is based on the principle of mutual predictability.
-It learns latent contextual representations by maximizing the predictability of visual events based on local and global context information.
-The model can therefore interpolate missing events or predict future events in image sequences.
-The contextual representations modulate the prediction synthesis process by adaptively rescaling the contribution of each neuron's basis function.
-In contrast to standard predictive coding models, the prediction error in this model is used to update the context representation but does not alter the feedforward input for the next layer, thus is more consistent with neuro-physiological observations.
-We establish the computational feasibility of this model by demonstrating its ability to simultaneously infer context, as well as interpolate and predict input image sequences in a unified framework.

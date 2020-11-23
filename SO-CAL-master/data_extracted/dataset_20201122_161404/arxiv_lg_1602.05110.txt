@@ -1,5 +1,0 @@
-Gatys et al.
-(2015) showed that optimizing pixels to match features in a convolutional network with respect reference image features is a way to render images of high visual quality.
-We show that unrolling this gradient-based optimization yields a recurrent computation that creates images by incrementally adding onto a visual "canvas".
-We propose a recurrent generative model inspired by this view, and show that it can be trained using adversarial training to generate very good image samples.
-We also propose a way to quantitatively compare adversarial networks by having the generators and discriminators of these networks compete against each other.

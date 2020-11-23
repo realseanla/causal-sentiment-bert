@@ -1,8 +1,0 @@
-Neural Machine Translation (NMT) has recently attracted a lot of attention due to the very high performance achieved by deep neural networks in other domains.
-An inherent weakness in existing NMT systems is their inability to correctly translate rare words: end-to-end NMTs tend to have relatively small vocabularies with a single "unknown-word" symbol representing every possible out-of-vocabulary (OOV) word.
-In this paper, we propose and implement a simple technique to address this problem.
-We train an NMT system on data that is augmented by the output of a word alignment algorithm, allowing the NMT system to output, for each OOV word in the target sentence, its corresponding word in the source sentence.
-This information is later utilized in a post-processing step that translates every OOV word using a dictionary.
-Our experiments on the WMT'14 English to French translation task show that this simple method provides a substantial improvement over an equivalent NMT system that does not use this technique.
-The performance of our system achieves a BLEU score of 36.9, which improves the previous best end-to-end NMT by 2.1 points.
-Our model matches the performance of the state-of-the-art system while using three times less data.

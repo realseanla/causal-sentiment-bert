@@ -1,5 +1,0 @@
-We propose zoneout, a novel method for regularizing RNNs.
-At each timestep, zoneout stochastically forces some hidden units to maintain their previous values.
-Like dropout, zoneout uses random noise to train a pseudo-ensemble, improving generalization.
-But by preserving instead of dropping hidden units, gradient information and state information are more readily propagated through time, as in feedforward stochastic depth networks.
-We perform an empirical investigation of various RNN regularizers, and find encouraging results: zoneout gives significant performance improvements across tasks, yielding state-of-the-art results in character-level language modeling on the Penn Treebank dataset and competitive results on word-level Penn Treebank and permuted sequential MNIST classification tasks.

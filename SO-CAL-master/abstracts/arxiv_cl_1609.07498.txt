@@ -1,0 +1,8 @@
+This paper presents results on Speaker Recognition (SR) for children's speech, using the OGI Kids corpus and GMM-UBM and GMM-SVM SR systems.
+Regions of the spectrum containing important speaker information for children are identified by conducting SR experiments over 21 frequency bands.
+As for adults, the spectrum can be split into four regions, with the first (containing primary vocal tract resonance information) and third (corresponding to high frequency speech sounds) being most useful for SR.
+However, the frequencies at which these regions occur are from 11 percent to 38 percent higher for children.
+It is also noted that subband SR rates are lower for younger children.
+Finally results are presented of SR experiments to identify a child in a class (30 children, similar age) and school (288 children, varying ages).
+Class performance depends on age, with accuracy varying from 90 percent for young children to 99 percent for older children.
+The identification rate achieved for a child in a school is 81 percent.

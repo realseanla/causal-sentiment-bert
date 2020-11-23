@@ -1,0 +1,6 @@
+We study a novel architecture and training procedure for locomotion tasks.
+A high-frequency, low-level "spinal" network with access to proprioceptive sensors learns sensorimotor primitives by training on simple tasks.
+This pre-trained module is fixed and connected to a low-frequency, high-level "cortical" network, with access to all sensors, which drives behavior by modulating the inputs to the spinal network.
+Where a monolithic end-to-end architecture fails completely, learning with a pre-trained spinal module succeeds at multiple high-level tasks, and enables the effective exploration required to learn from sparse rewards.
+We test our proposed architecture on three simulated bodies: a 16-dimensional swimming snake, a 20-dimensional quadruped, and a 54-dimensional humanoid.
+Our results are illustrated in the accompanying video at

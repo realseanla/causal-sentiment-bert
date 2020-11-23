@@ -1,4 +1,0 @@
-Learning to rank is a machine learning technique broadly used in many areas such as document retrieval, collaborative filtering or question answering.
-We present experimental results which suggest that the performance of the current state-of-the-art learning to rank algorithm LambdaMART, when used for document retrieval for search engines, can be improved if standard regression trees are replaced by oblivious trees.
-This paper provides a comparison of both variants and our results demonstrate that the use of oblivious trees can improve the performance by more than $2.2\ percent$.
-Additional experimental analysis of the influence of a number of features and of a size of the training set is also provided and confirms the desirability of properties of oblivious decision trees.

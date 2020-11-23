@@ -1,5 +1,0 @@
-Exploiting a priori known structural information lies at the core of many image reconstruction methods that can be stated as inverse problems.
-The synthesis model, which assumes that images can be decomposed into a linear combination of very few atoms of some dictionary, is now a well established tool for the design of image reconstruction algorithms.
-An interesting alternative is the analysis model, where the signal is multiplied by an analysis operator and the outcome is assumed to be the sparse.
-This approach has only recently gained increasing interest.
-The quality of reconstruction methods based on an analysis model severely depends on the right choice of the suitable operator.

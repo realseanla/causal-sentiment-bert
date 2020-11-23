@@ -1,6 +1,0 @@
-Multicriteria decision analysis aims at supporting a person facing a decision problem involving conflicting criteria.
-We consider an additive utility model which provides robust conclusions based on preferences elicited from the decision maker.
-The recommendations based on these robust conclusions are even more convincing if they are complemented by explanations.
-We propose a general scheme, based on sequence of preference swaps, in which explanations can be computed.
-We show first that the length of explanations can be unbounded in the general case.
-However, in the case of binary reference scales, this length is bounded and we provide an algorithm to compute the corresponding explanation.

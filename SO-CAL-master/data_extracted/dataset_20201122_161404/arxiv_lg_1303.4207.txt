@@ -1,8 +1,0 @@
-The Nystrom method has been widely used to compute low-rank approximations to positive semidefinite matrices.
-Much work has been done on the sampling techniques for the Nystrom method, and many were guaranteed with upper error bounds.
-However, the lower bounds, especially the relative error bounds, were largely unknown.
-We explore in this paper the lower bounds of the Nystrom method to show how bad the Nystrom method can perform.
-We establish both additive and relative error lower bounds for the Nystrom method.
-Interestingly, some of the relative-error lower bounds we established can be attained by some algorithms, which indicates some lower bounds we establish are tight.
-However, some lower bounds reveal the downside of the Nystrom method that they are much worse than the column selection problem and the CUR problem.
-Sadly, we also show that some bounds cannot be improved by the ensemble Nystrom method.

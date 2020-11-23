@@ -1,0 +1,5 @@
+Gene and protein networks are very important to model complex large-scale systems in molecular biology.
+Inferring or reverseengineering such networks can be defined as the process of identifying gene/protein interactions from experimental data through computational analysis.
+However, this task is typically complicated by the enormously large scale of the unknowns in a rather small sample size.
+Furthermore, when the goal is to study causal relationships within the network, tools capable of overcoming the limitations of correlation networks are required.
+In this work, we make use of Bayesian Graphical Models to attach this problem and, specifically, we perform a comparative study of different state-of-the-art heuristics, analyzing their performance in inferring the structure of the Bayesian Network from breast cancer data.

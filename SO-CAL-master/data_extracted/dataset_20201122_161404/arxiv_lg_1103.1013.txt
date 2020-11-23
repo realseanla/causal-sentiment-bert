@@ -1,7 +1,0 @@
-Feature selection with specific multivariate performance measures is the key to the success of many applications such as information retrieval.
-In this paper, we propose a feature selection method for multivariate performance measures.
-The proposed method forms an optimization problem with exponential size of both feature groups and label configurations for a given dataset.
-To address this problem, a two-layer cutting plane algorithm is proposed.
-The outer layer performs group feature generation; while the inner layer learns the label configuration for multivariate performance measures.
-Comprehensive experiments on large-scale and high-dimensional real world datasets show that the proposed method can significantly outperform $l_1$-SVM and SVM-RFE when choosing a small subset of features, and achieve significantly improved performances over SVM$^{perf}$ in terms of $F_1$-score.
-It also learns a sparse yet effective decision rule for multivariate performance measures.

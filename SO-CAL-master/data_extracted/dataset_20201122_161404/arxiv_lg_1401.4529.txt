@@ -1,8 +1,0 @@
-General feature based solutions are emerging in the field of recommender systems with the increased need to incorporate multiple sources of information into a single model.
-The common property of these approaches is that they use a fixed factorization model class that can be extended to handle arbitrary number of context dimensions; the model is then learnt using different optimization techniques.
-In this paper we propose a general framework in which arbitrary linear feature models can be learnt efficiently.
-Moreover, both the factorization model and the model members are unrestricted in the framework, thus it is more flexible than state-of-the-art general feature based solutions.
-The framework allows for both implicit feedback based item ranking and rating prediction from explicit feedback.
-The paper focuses on the implicit feedback based recommendation problems, due to its expansive use in practical systems compared to explicit feedback.
-Using the flexibility of the framework we (1) evaluate various factorization models using 5 implicit feedback data sets and injecting contextual information into the model; (2) identify models that can solve the implicit feedback based context-aware recommendation task better than previously proposed model classes.
-Advantages and drawbacks of various models and learning strategies are also discussed briefly.

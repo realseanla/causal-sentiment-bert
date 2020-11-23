@@ -1,0 +1,2 @@
+In a recent manuscript ("Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)", available on arXiv and to be presented in the upcoming NIPS), Shrivastava and Li argue that there is no symmetric LSH for the problem of Maximum Inner Product Search and propose an asymmetric LSH based on different mappings for query and database points.
+We show a simple LSH for the problem, using a simple symmetric mapping, with better performance, both theoretically and empirically.

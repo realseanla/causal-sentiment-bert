@@ -1,0 +1,5 @@
+Multidimensional recurrent neural network (MDRNN) has shown a remarkable performance in speech and handwriting recognition.
+The performance of MDRNN is improved by further increasing its depth, and the difficulty of learning the deeper network is overcome by Hessian-free (HF) optimization.
+Considering that connectionist temporal classification (CTC) is utilized as an objective of learning MDRNN for sequence labelling, the non-convexity of CTC poses a problem to apply HF to the network.
+As a solution to this, a convex approximation of CTC is formulated and its relationship with the EM algorithm and the Fisher information matrix is discussed.
+MDRNN up to the depth of 15 layers is successfully trained using HF, resulting in improved performance for sequence labelling.

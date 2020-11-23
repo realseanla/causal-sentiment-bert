@@ -1,9 +1,0 @@
-Query relevance ranking and sentence saliency ranking are the two main tasks in extractive query-focused summarization.
-Previous supervised summarization systems often perform the two tasks in isolation.
-However, since reference summaries are the trade-off between relevance and saliency, using them as supervision, neither of the two rankers could be trained well.
-This paper proposes a novel summarization system called AttSum, which tackles the two tasks jointly.
-It automatically learns distributed representations for sentences as well as the document cluster.
-Meanwhile, it applies the attention mechanism to simulate the attentive reading of human behavior when a query is given.
-Extensive experiments are conducted on DUC query-focused summarization benchmark datasets.
-Without using any hand-crafted features, AttSum achieves competitive performance.
-It is also observed that the sentences recognized to focus on the query indeed meet the query need.

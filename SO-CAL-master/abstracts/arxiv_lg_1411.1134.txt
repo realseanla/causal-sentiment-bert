@@ -1,0 +1,4 @@
+The Burer-Monteiro decomposition ($X = Y Y^T$) with stochastic gradient descent is commonly employed to speed up and scale up matrix problems including matrix completion, subspace tracking, and SDP relaxation.
+Although it is widely used in practice, there exist no known global convergence results for this method.
+In this paper, we prove that, under broad sampling conditions, a first-order rank-1 stochastic gradient descent (SGD) matrix recovery scheme converges globally from a random starting point at a $O(\epsilon^{-1} n \log n)$ rate with constant probability.
+We demonstrate our method experimentally.

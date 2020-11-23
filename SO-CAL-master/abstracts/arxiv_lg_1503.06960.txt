@@ -1,0 +1,5 @@
+We prove that proper PAC learnability implies compression.
+Namely, if a concept $C \subseteq \Sigma^X$ is properly PAC learnable with $d$ samples, then $C$ has a sample compression scheme of size $2^{O(d)}$.
+In particular, every boolean concept class with constant VC dimension has a sample compression scheme of constant size.
+This answers a question of Littlestone and Warmuth (1986).
+The proof uses an approximate minimax phenomenon for boolean matrices of low VC dimension.

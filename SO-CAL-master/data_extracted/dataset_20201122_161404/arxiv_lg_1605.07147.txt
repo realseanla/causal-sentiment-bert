@@ -1,8 +1,0 @@
-We study optimization of finite sums of \emph{geodesically} smooth functions on Riemannian manifolds.
-Although variance reduction techniques for optimizing finite-sum problems have witnessed a huge surge of interest in recent years, all existing work is limited to vector space problems.
-We introduce \emph{Riemannian SVRG}, a new variance reduced Riemannian optimization method.
-We analyze this method for both geodesically smooth \emph{convex} and \emph{nonconvex} functions.
-Our analysis reveals that Riemannian SVRG comes with advantages of the usual SVRG method, but with factors depending on manifold curvature that influence its convergence.
-To the best of our knowledge, ours is the first \emph{fast} stochastic Riemannian method.
-Moreover, our work offers the first non-asymptotic complexity analysis for nonconvex Riemannian optimization (even for the batch setting).
-Our results have several implications; for instance, they offer a Riemannian perspective on variance reduced PCA, which promises a short, transparent convergence analysis.

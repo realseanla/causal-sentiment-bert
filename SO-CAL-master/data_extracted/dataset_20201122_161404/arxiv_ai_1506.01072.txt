@@ -1,7 +1,0 @@
-A neuromorphic chip that combines CMOS analog spiking neurons and memristive synapses offers a promising solution to brain-inspired computing, as it can provide massive neural network parallelism and density.
-Previous hybrid analog CMOS-memristor approaches required extensive CMOS circuitry for training, and thus eliminated most of the density advantages gained by the adoption of memristor synapses.
-Further, they used different waveforms for pre and post-synaptic spikes that added undesirable circuit overhead.
-Here we describe a hardware architecture that can feature a large number of memristor synapses to learn real-world patterns.
-We present a versatile CMOS neuron that combines integrate-and-fire behavior, drives passive memristors and implements competitive learning in a compact circuit module, and enables in-situ plasticity in the memristor synapses.
-We demonstrate handwritten-digits recognition using the proposed architecture using transistor-level circuit simulations.
-As the described neuromorphic architecture is homogeneous, it realizes a fundamental building block for large-scale energy-efficient brain-inspired silicon chips that could lead to next-generation cognitive computing.

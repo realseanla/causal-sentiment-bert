@@ -1,8 +1,0 @@
-An algorithm for pose and motion estimation using corresponding features in omnidirectional images and a digital terrain map is proposed.
-In previous paper, such algorithm for regular camera was considered.
-Using a Digital Terrain (or Digital Elevation) Map (DTM/DEM) as a global reference enables recovering the absolute position and orientation of the camera.
-In order to do this, the DTM is used to formulate a constraint between corresponding features in two consecutive frames.
-In this paper, these constraints are extended to handle non-central projection, as is the case with many omnidirectional systems.
-The utilization of omnidirectional data is shown to improve the robustness and accuracy of the navigation algorithm.
-The feasibility of this algorithm is established through lab experimentation with two kinds of omnidirectional acquisition systems.
-The first one is polydioptric cameras while the second is catadioptric camera.

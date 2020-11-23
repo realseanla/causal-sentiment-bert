@@ -1,4 +1,0 @@
-Botnets, which consist of thousands of compromised machines, can cause significant threats to other systems by launching Distributed Denial of Service (SSoS) attacks, keylogging, and backdoors.
-In response to these threats, new effective techniques are needed to detect the presence of botnets.
-In this paper, we have used an interception technique to monitor Windows Application Programming Interface (API) functions calls made by communication applications and store these calls with their arguments in log files.
-Our algorithm detects botnets based on monitoring abnormal activity by correlating the changes in log file sizes from different hosts.

@@ -1,0 +1,9 @@
+In this paper we present a study on identification of audio recording devices from background noise, thus providing a method for forensics and copyright disputes related.
+The audio signal is the sum of speech signal and noise signal.
+Since usually, it's the speech which is regarded as the information to be passed that people care about, a great amount of researches have been dedicated to getting higher SNR.
+So there are many speech enhancement algorithms to improve the quality of the speech signals, which is generally can be seen much like reducing the noise.
+However, we make the underlying hypothesis that the noise can be regarded as the intrinsic fingerprint traces of an audio recording device in a way.
+These digital traces can be characterized and identified by new machine learning techniques.
+Therefore, the noise can serve as the intrinsic features for the identification.
+As for the classifier, a Softmax classifier and an MLP classifier are used and compared.
+The identification accuracy is up to 93\ percent among nine different devices, and shows the method of getting feature vector from the noise of each device and identifying with deeplearning techniques is viable, and well-preformed.

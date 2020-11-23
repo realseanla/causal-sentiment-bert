@@ -1,5 +1,0 @@
-Adversarial learning has been successfully embedded into deep networks to learn transferable features for domain adaptation, which reduce distribution discrepancy between the source and target domains and improve generalization performance.
-Prior domain adversarial adaptation methods could not align complex multimode distributions since the discriminative structures and inter-layer interactions across multiple domain-specific layers have not been exploited for distribution alignment.
-In this paper, we present randomized multilinear adversarial networks (RMAN), which exploit multiple feature layers and the classifier layer based on a randomized multilinear adversary to enable both deep and discriminative adversarial adaptation.
-The learning can be performed by stochastic gradient descent with the gradients computed by back-propagation in linear-time.
-Experiments demonstrate that our models exceed the state-of-the-art results on standard domain adaptation datasets.

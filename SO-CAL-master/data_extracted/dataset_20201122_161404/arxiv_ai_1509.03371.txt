@@ -1,3 +1,0 @@
-This work presents and analyzes three convolutional neural network (CNN) models for efficient pixelwise classification of images.
-When using convolutional neural networks to classify single pixels in patches of a whole image, a lot of redundant computations are carried out when using sliding window networks.
-This set of new architectures solve this issue by either removing redundant computations or using fully convolutional architectures that inherently predict many pixels at once.

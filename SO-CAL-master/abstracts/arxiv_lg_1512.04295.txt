@@ -1,0 +1,5 @@
+Today advanced computer vision (CV) systems of ever increasing complexity are being deployed in a growing number of application scenarios with strong real-time and power constraints.
+Current trends in CV clearly show a rise of neural network-based algorithms, which have recently broken many object detection and localization records.
+These approaches are very flexible and can be used to tackle many different challenges by only changing their parameters.
+In this paper, we present the first convolutional network accelerator which is scalable to network sizes that are currently only handled by workstation GPUs, but remains within the power envelope of embedded systems.
+The architecture has been implemented on 3.09 mm2 core area in UMC 65 nm technology, capable of a throughput of 274 GOp/s at 369 GOp/s/W with an external memory bandwidth of just 525 MB/s full-duplex - a decrease of more than 90 percent from previous work.

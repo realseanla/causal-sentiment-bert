@@ -1,7 +1,0 @@
-In this paper we propose an approximated structured prediction framework for large scale graphical models and derive message-passing algorithms for learning their parameters efficiently.
-We first relate CRFs and structured SVMs and show that in CRFs a variant of the log-partition function, known as soft-max, smoothly approximates the hinge loss function of structured SVMs.
-We then propose an intuitive approximation for the structured prediction problem, using duality, based on local entropy approximations and derive an efficient message-passing algorithm that is guaranteed to converge to the optimum for concave entropy approximations.
-Unlike existing approaches, this allows us to learn efficiently graphical models with cycles and very large number of parameters.
-We demonstrate the effectiveness of our approach in an image denoising task.
-This task was previously solved by sharing parameters across cliques.
-In contrast, our algorithm is able to efficiently learn large number of parameters resulting in orders of magnitude better prediction.

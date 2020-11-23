@@ -1,7 +1,0 @@
-Feature selection is a process of choosing a subset of relevant features so that the quality of prediction models can be improved.
-An extensive body of work exists on information-theoretic feature selection, based on maximizing Mutual Information (MI) between subsets of features and class labels.
-The prior methods use a lower order approximation, by treating the joint entropy as a summation of several single variable entropies.
-This leads to locally optimal selections and misses multi-way feature combinations.
-We present a higher order MI based approximation technique called Higher Order Feature Selection (HOFS).
-Instead of producing a single list of features, our method produces a ranked collection of feature subsets that maximizes MI, giving better comprehension (feature ranking) as to which features work best together when selected, due to their underlying interdependent structure.
-Our experiments demonstrate that the proposed method performs better than existing feature selection approaches while keeping similar running times and computational complexity.

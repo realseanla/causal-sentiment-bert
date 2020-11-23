@@ -1,0 +1,7 @@
+Multimedia reasoning, which is suitable for, among others, multimedia content analysis and high-level video scene interpretation, relies on the formal and comprehensive conceptualization of the represented knowledge domain.
+However, most multimedia ontologies are not exhaustive in terms of role definitions, and do not incorporate complex role inclusions and role interdependencies.
+In fact, most multimedia ontologies do not have a role box at all, and implement only a basic subset of the available logical constructors.
+Consequently, their application in multimedia reasoning is limited.
+To address the above issues, VidOnt, the very first multimedia ontology with SROIQ(D) expressivity and a DL-safe ruleset has been introduced for next-generation multimedia reasoning.
+In contrast to the common practice, the formal grounding has been set in one of the most expressive description logics, and the ontology validated with industry-leading reasoners, namely HermiT and FaCT++.
+This paper also presents best practices for developing multimedia ontologies, based on my ontology engineering approach.

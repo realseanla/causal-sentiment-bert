@@ -1,3 +1,0 @@
-We re-analyze Simultaneous Power Iteration and the Block Lanczos methods, two classical iterative algorithms for the singular value decomposition (SVD).
-We are interested in convergence bounds that *do not depend* on properties of the input matrix (e.g.
-singular value gaps).

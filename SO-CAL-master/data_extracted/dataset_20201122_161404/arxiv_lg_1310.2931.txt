@@ -1,4 +1,0 @@
-A statistical predictor that is deployed in a live production system may perturb the features it uses to make predictions.
-Such a feedback loop can occur, for example, when a model that predicts a certain type of behavior ends up causing the behavior it predicts, thus creating a self-fulfilling prophecy.
-This paper analyzes statistical feedback detection as a causal inference problem, and proposes a local randomization scheme that can be used to detect feedback in real-world problems.
-We apply our method to a predictive model currently in use at an internet company.

@@ -1,5 +1,0 @@
-We introduce Item Response Theory (IRT) from psychometrics as an alternative to majority voting to create an IRT gold standard ($GS_{IRT}$).
-IRT describes characteristics of individual items in $GS_{IRT}$ - their difficulty and discriminating power - and is able to account for these characteristics in its estimation of human intelligence or ability for an NLP task.
-In this paper, we evaluated IRT's model-fitting of a majority vote gold standard designed for Recognizing Textual Entailment (RTE), denoted as $GS_{RTE}$.
-By collecting human responses and fitting our IRT model, we found that up to 31 percent of $GS_{RTE}$ were not useful in building $GS_{IRT}$ for RTE.
-In addition, we found low inter-annotator agreement for some items in $GS_{RTE}$ suggesting that more work is needed for creating intelligent gold-standards.

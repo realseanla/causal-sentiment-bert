@@ -1,0 +1,6 @@
+Class imbalance is one of the challenging problems for machine learning in many real-world applications, such as coal and gas burst accident monitoring: the burst premonition data is extreme smaller than the normal data, however, which is the highlight we truly focus on.
+Cost-sensitive adjustment approach is a typical algorithm-level method resisting the data set imbalance.
+For SVMs classifier, which is modified to incorporate varying penalty parameter(C) for each of considered groups of examples.
+However, the C value is determined empirically, or is calculated according to the evaluation metric, which need to be computed iteratively and time consuming.
+This paper presents a novel cost-sensitive SVM method whose penalty parameter C optimized on the basis of cluster probability density function(PDF) and the cluster PDF is estimated only according to similarity matrix and some predefined hyper-parameters.
+Experimental results on various standard benchmark data sets and real-world data with different ratios of imbalance show that the proposed method is effective in comparison with commonly used cost-sensitive techniques.

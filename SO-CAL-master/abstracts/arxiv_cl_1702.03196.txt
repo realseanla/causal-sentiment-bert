@@ -1,0 +1,8 @@
+Universal Dependencies (UD) provides a cross-linguistically uniform syntactic representation, with the aim of advancing multilingual applications of parsing and natural language understanding.
+Reddy et al.
+(2016) recently developed a semantic interface for (English) Stanford Dependencies, based on the lambda calculus.
+In this work, we introduce UDepLambda, a similar semantic interface for UD, which allows mapping natural language to logical forms in an almost language-independent framework.
+We evaluate our approach on semantic parsing for the task of question answering against Freebase.
+To facilitate multilingual evaluation, we provide German and Spanish translations of the WebQuestions and GraphQuestions datasets.
+Results show that UDepLambda outperforms strong baselines across languages and datasets.
+For English, it achieves the strongest result to date on GraphQuestions, with competitive results on WebQuestions.

@@ -1,0 +1,4 @@
+This paper describes the submission of the AMU (Adam Mickiewicz University) team to the Automatic Post-Editing (APE) task of WMT 2016.
+We explore the application of neural translation models to the APE problem and achieve good results by treating different models as components in a log-linear model, allowing for multiple inputs (the MT-output and the source) that are decoded to the same target language (post-edited translations).
+A simple string-matching penalty integrated within the log-linear model can be used to control for higher faithfulness with regard to the to-be-corrected machine translation input.
+Our submission outperforms the uncorrected baseline on the unseen test set by -3.2 percent TER and +5.5 percent BLEU.

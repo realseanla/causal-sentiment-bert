@@ -1,0 +1,6 @@
+Instant messaging is one of the major channels of computer mediated communication.
+However, humans are known to be very limited in understanding others' emotions via text-based communication.
+Aiming on introducing emotion sensing technologies to instant messaging, we developed EmotionPush, a system that automatically detects the emotions of the messages end-users received on Facebook Messenger and provides colored cues on their smartphones accordingly.
+We conducted a deployment study with 20 participants during a time span of two weeks.
+In this paper, we revealed five challenges, along with examples, that we observed in our study based on both user's feedback and chat logs, including (i)the continuum of emotions, (ii)multi-user conversations, (iii)different dynamics between different users, (iv)misclassification of emotions and (v)unconventional content.
+We believe this discussion will benefit the future exploration of affective computing for instant messaging, and also shed light on research of conversational emotion sensing.

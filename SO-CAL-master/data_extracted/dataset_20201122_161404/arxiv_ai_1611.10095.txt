@@ -1,7 +1,0 @@
-We present an online deliberation system using mutual evaluation in order to collaboratively develop solutions.
-Participants submit their proposals and evaluate each other's proposals; some of them may then be invited by the system to rewrite 'problematic' proposals.
-Two cases are discussed: a proposal supported by many, but not by a given person, who is then invited to rewrite it for making yet more acceptable; and a poorly presented but presumably interesting proposal.
-The first of these cases has been successfully implemented.
-Proposals are evaluated along two axes-understandability (or clarity, or, more generally, quality), and agreement.
-The latter is used by the system to cluster proposals according to their ideas, while the former is used both to present the best proposals on top of their clusters, and to find poorly written proposals candidates for rewriting.
-These functionalities may be considered as important components of a large scale online deliberation system.

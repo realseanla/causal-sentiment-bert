@@ -1,5 +1,0 @@
-The music industry is a $130 billion industry.
-Predicting whether a song catches the pulse of the audience impacts the industry.
-In this paper we analyze language inside the lyrics of the songs using several computational linguistic algorithms and predict whether a song would make to the top or bottom of the billboard rankings based on the language features.
-We trained and tested an SVM classifier with a radial kernel function on the linguistic features.
-Results indicate that we can classify whether a song belongs to top and bottom of the billboard charts with a precision of 0.76.

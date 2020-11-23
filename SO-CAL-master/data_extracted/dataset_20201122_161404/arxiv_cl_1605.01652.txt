@@ -1,3 +1,0 @@
-We introduce an LSTM-based method for dynamically integrating several word-prediction experts to obtain a conditional language model which can be good simultaneously at several subtasks.
-We illustrate this general approach with an application to dialogue where we integrate a neural chat model, good at conversational aspects, with a neural question-answering model, good at retrieving precise information from a knowledge-base, and show how the integration combines the strengths of the independent components.
-We hope that this focused contribution will attract attention on the benefits of using such mixtures of experts in NLP.

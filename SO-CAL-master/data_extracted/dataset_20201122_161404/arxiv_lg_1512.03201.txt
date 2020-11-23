@@ -1,6 +1,0 @@
-Gated networks are networks that contain gating connections, in which the outputs of at least two neurons are multiplied.
-Initially, gated networks were used to learn relationships between two input sources, such as pixels from two images.
-More recently, they have been applied to learning activity recognition or multi-modal representations.
-The aims of this paper are threefold: 1) to explain the basic computations in gated networks to the non-expert, while adopting a standpoint that insists on their symmetric nature.
-2) to serve as a quick reference guide to the recent literature, by providing an inventory of applications of these networks, as well as recent extensions to the basic architecture.
-3) to suggest future research directions and applications.

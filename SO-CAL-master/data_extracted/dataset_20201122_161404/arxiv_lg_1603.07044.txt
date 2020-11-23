@@ -1,5 +1,0 @@
-We apply a general recurrent neural network (RNN) encoder framework to community question answering (cQA) tasks.
-Our approach does not rely on any linguistic processing, and can be applied to different languages or domains.
-Further improvements are observed when we extend the RNN encoders with a neural attention mechanism that encourages reasoning over entire sequences.
-To deal with practical issues such as data sparsity and imbalanced labels, we apply various techniques such as transfer learning and multitask learning.
-Our experiments on the SemEval-2016 cQA task show 10 percent improvement on a MAP score compared to an information retrieval-based approach, and achieve comparable performance to a strong handcrafted feature-based method.

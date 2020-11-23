@@ -1,0 +1,6 @@
+Deep convolutional neural networks are generally regarded as robust function approximators.
+So far, this intuition is based on perturbations to external stimuli such as the images to be classified.
+Here we explore the robustness of convolutional neural networks to perturbations to the internal weights and architecture of the network itself.
+We show that convolutional networks are surprisingly robust to a number of internal perturbations in the higher convolutional layers but the bottom convolutional layers are much more fragile.
+For instance, Alexnet shows less than a 30 percent decrease in classification performance when randomly removing over 70 percent of weight connections in the top convolutional or dense layers but performance is almost at chance with the same perturbation in the first convolutional layer.
+Finally, we suggest further investigations which could continue to inform the robustness of convolutional networks to internal perturbations.

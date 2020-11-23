@@ -1,0 +1,2 @@
+In this paper, we proposed a new approximate heuristic search algorithm: Cascading A*, which is a two-phrase algorithm combining A* and IDA* by a new concept "envelope ball".
+The new algorithm CA* is efficient, able to generate approximate solution and any-time solution, and parallel friendly.

@@ -1,0 +1,4 @@
+Many malware families utilize domain generation algorithms (DGAs) to establish command and control (C&amp;C) connections.
+While there are many methods to pseudorandomly generate domains, we focus in this paper on detecting (and generating) domains on a per-domain basis which provides a simple and flexible means to detect known DGA families.
+Recent machine learning approaches to DGA detection have been successful on fairly simplistic DGAs, many of which produce names of fixed length.
+However, models trained on limited datasets are somewhat blind to new DGA variants.

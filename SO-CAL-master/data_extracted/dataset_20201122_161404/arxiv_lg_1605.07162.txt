@@ -1,4 +1,0 @@
-We study the pure exploration problem subject to a matroid constraint (Best-Basis) in a stochastic multi-armed bandit game.
-In a Best-Basis instance, we are given $n$ stochastic arms with unknown reward distributions, as well as a matroid $\mathcal{M}$ over the arms.
-Let the weight of an arm be the mean of its reward distribution.
-Our goal is to identify a basis of $\mathcal{M}$ with the maximum total weight, using as few samples as possible.

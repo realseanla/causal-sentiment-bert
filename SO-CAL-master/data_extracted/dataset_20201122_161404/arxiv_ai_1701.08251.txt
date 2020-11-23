@@ -1,5 +1,0 @@
-The popularity of image sharing on social media reflects the important role visual context plays in everyday conversation.
-In this paper, we present a novel task, Image-Grounded Conversations (IGC), in which natural-sounding conversations are generated about shared photographic images.
-We investigate this task using training data derived from image-grounded conversations on social media and introduce a new dataset of crowd-sourced conversations for benchmarking progress.
-Experiments using deep neural network models trained on social media data show that the combination of visual and textual context can enhance the quality of generated conversational turns.
-In human evaluation, a gap between human performance and that of both neural and retrieval architectures suggests that IGC presents an interesting challenge for vision and language research.

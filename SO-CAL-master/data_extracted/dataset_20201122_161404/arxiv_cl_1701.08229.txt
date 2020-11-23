@@ -1,7 +1,0 @@
-The utility of Twitter data as a medium to support population-level mental health monitoring is not well understood.
-In an effort to better understand the predictive power of supervised machine learning classifiers and the influence of feature sets for efficiently classifying depression-related tweets on a large-scale, we conducted two feature study experiments.
-In the first experiment, we assessed the contribution of feature groups such as lexical information (e.g., unigrams) and emotions (e.g., strongly negative) using a feature ablation study.
-In the second experiment, we determined the percentile of top ranked features that produced the optimal classification performance by applying a three-step feature elimination approach.
-In the first experiment, we observed that lexical features are critical for identifying depressive symptoms, specifically for depressed mood (-35 points) and for disturbed sleep (-43 points).
-In the second experiment, we observed that the optimal F1-score performance of top ranked features in percentiles variably ranged across classes e.g., fatigue or loss of energy (5th percentile, 288 features) to depressed mood (55th percentile, 3,168 features) suggesting there is no consistent count of features for predicting depressive-related tweets.
-We conclude that simple lexical features and reduced feature sets can produce comparable results to larger feature sets.

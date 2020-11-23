@@ -1,0 +1,7 @@
+While machine learning is currently very successful in several application domains, we are still very far from a real Artificial Intelligence.
+In this paper, we study basic sequence prediction problems that are beyond the scope of what is learnable with popular methods such as recurrent networks.
+We show that simple algorithms can be learnt from sequential data with a recurrent network associated with trainable stacks.
+We focus our study on algorithmically generated sequences such as $a^n b^{n}$, that can only be learnt by models which have the capacity to count.
+Our study highlights certain topics in machine learning that deserve more attention, such as addressing the shortcomings of purely gradient based training of non-convex models.
+We achieve progress in this direction by incorporating search based strategy.
+Once trained, we show that our method is able generalize to sequences up to an arbitrary size.

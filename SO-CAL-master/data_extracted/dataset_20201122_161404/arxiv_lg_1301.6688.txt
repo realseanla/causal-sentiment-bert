@@ -1,3 +1,0 @@
-We consider the task of learning the maximum-likelihood polytree from data.
-Our first result is a performance guarantee establishing that the optimal branching (or Chow-Liu tree), which can be computed very easily, constitutes a good approximation to the best polytree.
-We then show that it is not possible to do very much better, since the learning problem is NP-hard even to approximately solve within some constant factor.

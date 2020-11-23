@@ -1,2 +1,0 @@
-This paper describes an efficient approach to improve the accuracy of a named entity recognition system for Vietnamese.
-The approach combines regular expressions over tokens and a bidirectional inference method in a sequence labelling model, which achieves an overall $F_1$ score of 89.66 percent on a test set of an evaluation compaign, organized in late 2016 by the Vietnamese Language and Speech Processing (VLSP) community.

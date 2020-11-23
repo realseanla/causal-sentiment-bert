@@ -1,6 +1,0 @@
-LogitBoost and its later improvement, ABC-LogitBoost, are both successful multi-class boosting algorithms for classification.
-In this paper, we explicitly formulate the tree building at each LogitBoost iteration as constrained quadratic optimization.
-Both LogitBoost and ABC-LogtiBoost adopt approximated solver to such quadratic subproblem.
-We then propose an intuitively more natural solver, i.e.
-the block coordinate descent algorithm, and demonstrate that it leads to higher classification accuracy and faster convergence rate on a number of public datasets.
-This new LogitBoost behaves as if it combines many one-vs-one binary classifiers adaptively, hence the name AOSO-LogitBoost(Adaptive One-vs-One LogitBoost)

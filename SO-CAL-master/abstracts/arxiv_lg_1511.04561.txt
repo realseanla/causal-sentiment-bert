@@ -1,0 +1,5 @@
+The creation of practical deep learning data-products often requires the parallelization across processors and computers to make deep learning feasible on large data sets, but bottlenecks in communication bandwidth make it difficult to attain good speedups through parallelism.
+Here we develop and test 8-bit approximation algorithms, which provide improved utilization of the available bandwidth by compressing 32-bit gradients and nonlinear activations to 8-bit approximations.
+We show that these approximations do not decrease predictive performance on MNIST, CIFAR10, and ImageNet for both model and data parallelism and provide a data transfer speedup of 2x relative to 32-bit parallelism.
+We compare our data types with other methods and show that 8-bit approximations achieve state-of-the-art speedups for model parallelism in general and data parallelism with up to 200k parameters per layer.
+Thus 8-bit approximation is the single best method for parameter compression in the parallelization of convolutional networks.

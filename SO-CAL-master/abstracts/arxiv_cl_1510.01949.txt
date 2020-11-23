@@ -1,0 +1,7 @@
+Prominences and boundaries are the essential constituents of prosodic structure in speech.
+They provide for means to chunk the speech stream into linguistically relevant units by providing them with relative saliences and demarcating them within coherent utterance structures.
+Prominences and boundaries have both been widely used in both basic research on prosody as well as in text-to-speech synthesis.
+However, there are no representation schemes that would provide for both estimating and modelling them in a unified fashion.
+Here we present an unsupervised unified account for estimating and representing prosodic prominences and boundaries using a scale-space analysis based on continuous wavelet transform.
+The methods are evaluated and compared to earlier work using the Boston University Radio News corpus.
+The results show that the proposed method is comparable with the best published supervised annotation methods.

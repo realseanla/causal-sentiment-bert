@@ -1,6 +1,0 @@
-Statistical Relational Learning (SRL) methods for anomaly detection are introduced via a security-related application.
-Operational requirements for online learning stability are outlined and compared to mathematical definitions as applied to the learning process of a representative SRL method - Bayesian Logic Programs (BLP).
-Since a formal proof of online stability appears to be impossible, tentative common sense requirements are formulated and tested by theoretical and experimental analysis of a simple and analytically tractable BLP model.
-It is found that learning algorithms in initial stages of online learning can lock on unstable false predictors that nevertheless comply with our tentative stability requirements and thus masquerade as bona fide solutions.
-The very expressiveness of SRL seems to cause significant stability issues in settings with many variables and scarce data.
-We conclude that reliable anomaly detection with SRL-methods requires monitoring by an overarching framework that may involve a comprehensive context knowledge base or human supervision.

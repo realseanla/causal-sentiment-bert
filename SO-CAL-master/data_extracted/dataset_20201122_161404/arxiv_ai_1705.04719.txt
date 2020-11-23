@@ -1,4 +1,0 @@
-We propose a new mechanism for integration of OWL ontologies using semantic import relations.
-In contrast to the standard OWL importing, we do not require all axioms of the imported ontologies to be taken into account for reasoning tasks, but only their logical implications over a chosen signature.
-This property comes natural in many ontology integration scenarios, especially when the number of ontologies is large.
-In this paper, we study the complexity of reasoning over ontologies with semantic import relations and establish a range of tight complexity bounds for various fragments of OWL.

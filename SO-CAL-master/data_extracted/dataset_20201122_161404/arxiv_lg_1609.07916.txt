@@ -1,5 +1,0 @@
-We propose a highly structured neural network architecture for semantic segmentation of images that combines i) a Haar wavelet-based tree-like convolutional neural network (CNN), ii) a random layer realizing a radial basis function kernel approximation, and iii) a linear classifier.
-While stages i) and ii) are completely pre-specified, only the linear classifier is learned from data.
-Thanks to its high degree of structure, our architecture has a very small memory footprint and thus fits onto low-power embedded and mobile platforms.
-We apply the proposed architecture to outdoor scene and aerial image semantic segmentation and show that the accuracy of our architecture is competitive with conventional pixel classification CNNs.
-Furthermore, we demonstrate that the proposed architecture is data efficient in the sense of matching the accuracy of pixel classification CNNs when trained on a much smaller data set.

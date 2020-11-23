@@ -1,5 +1,0 @@
-Recent studies have shown that deep neural networks (DNNs) perform significantly better than shallow networks and Gaussian mixture models (GMMs) on large vocabulary speech recognition tasks.
-In this paper we argue that the difficulty in speech recognition is primarily caused by the high variability in speech signals.
-DNNs, which can be considered a joint model of a nonlinear feature transform and a log-linear classifier, achieve improved recognition accuracy by extracting discriminative internal representations that are less sensitive to small perturbations in the input features.
-However, if test samples are very dissimilar to training samples, DNNs perform poorly.
-We demonstrate these properties empirically using a series of recognition experiments on mixed narrowband and wideband speech and speech distorted by environmental noise.

@@ -1,0 +1,9 @@
+Abundant data is the key to successful machine learning.
+However, supervised learning requires annotated data that are often hard to obtain.
+In a classification task with limited resources, Active Learning (AL) promises to guide annotators to examples that bring the most value for a classifier.
+AL can be successfully combined with self-training, i.e., extending a training set with the unlabelled examples for which a classifier is the most certain.
+We report our experiences on using AL in a systematic manner to train an SVM classifier for Stack Overflow posts discussing performance of software components.
+We show that the training examples deemed as the most valuable to the classifier are also the most difficult for humans to annotate.
+Despite carefully evolved annotation criteria, we report low inter-rater agreement, but we also propose mitigation strategies.
+Finally, based on one annotator's work, we show that self-training can improve the classification accuracy.
+We conclude the paper by discussing implication for future text miners aspiring to use AL and self-training.

@@ -1,7 +1,0 @@
-Business rules represent the primary means by which companies define their business, perform their actions in order to reach their objectives.
-Thus, they need to be expressed unambiguously to avoid inconsistencies between business stakeholders and formally in order to be machine-processed.
-A promising solution is the use of a controlled natural language (CNL) which is a good mediator between natural and formal languages.
-This paper presents RuleCNL, which is a CNL for defining business rules.
-Its core feature is the alignment of the business rule definition with the business vocabulary which ensures traceability and consistency with the business domain.
-The RuleCNL tool provides editors that assist end-users in the writing process and automatic mappings into the Semantics of Business Vocabulary and Business Rules (SBVR) standard.
-SBVR is grounded in first order logic and includes constructs called semantic formulations that structure the meaning of rules.

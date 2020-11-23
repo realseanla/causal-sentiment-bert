@@ -1,7 +1,0 @@
-In this paper, I describe several approaches to automatic or semi-automatic development of symbolic rules for grammar checkers from the information contained in corpora.
-The rules obtained this way are an important addition to manually-created rules that seem to dominate in rule-based checkers.
-However, the manual process of creation of rules is costly, time-consuming and error-prone.
-It seems therefore advisable to use machine-learning algorithms to create the rules automatically or semi-automatically.
-The results obtained seem to corroborate my initial hypothesis that symbolic machine learning algorithms can be useful for acquiring new rules for grammar checking.
-It turns out, however, that for practical uses, error corpora cannot be the sole source of information used in grammar checking.
-I suggest therefore that only by using different approaches, grammar-checkers, or more generally, computer-aided proofreading tools, will be able to cover most frequent and severe mistakes and avoid false alarms that seem to distract users.

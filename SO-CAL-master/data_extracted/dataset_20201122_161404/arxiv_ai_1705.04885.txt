@@ -1,7 +1,0 @@
-The brain's self-monitoring of activities, including internal activities -- a functionality that we refer to as awareness -- has been suggested as a key element of consciousness.
-Here we investigate whether the presence of an inner-eye-like process (monitor) that supervises the activities of a number of subsystems (operative agents) engaged in the solution of a problem can improve the problem-solving efficiency of the system.
-The problem is to find the global maximum of a NK fitness landscape and the performance is measured by the time required to find that maximum.
-The operative agents explore blindly the fitness landscape and the monitor provides them with feedback on the quality (fitness) of the proposed solutions.
-This feedback is then used by the operative agents to bias their searches towards the fittest regions of the landscape.
-We find that a weak feedback between the monitor and the operative agents improves the performance of the system, regardless of the difficulty of the problem, which is gauged by the number of local maxima in the landscape.
-For easy problems (i.e., landscapes without local maxima), the performance improves monotonically as the feedback strength increases, but for difficult problems, there is an optimal value of the feedback strength beyond which the system performance degrades very rapidly.

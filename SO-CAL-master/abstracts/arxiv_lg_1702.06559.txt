@@ -1,0 +1,5 @@
+Recent advances in one-shot learning have produced models that can learn from a handful of labeled examples, for passive classification and regression tasks.
+This paper combines reinforcement learning with one-shot learning, allowing the model to decide, during classification, which examples are worth labeling.
+We introduce a classification task in which a stream of images are presented and, on each time step, a decision must be made to either predict a label or pay to receive the correct label.
+We present a recurrent neural network based action-value function, and demonstrate its ability to learn how and when to request labels.
+Through the choice of reward function, the model can achieve a higher prediction accuracy than a similar model on a purely supervised task, or trade prediction accuracy for fewer label requests.

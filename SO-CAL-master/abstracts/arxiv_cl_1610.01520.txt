@@ -1,0 +1,6 @@
+Word embeddings have been extensively studied in large text datasets.
+However, only a few studies analyze semantic representations of small corpora, particularly relevant in single-person text production studies.
+In the present paper, we compare Skip-gram and LSA capabilities in this scenario, and we test both techniques to extract relevant semantic patterns in single-series dreams reports.
+LSA showed better performance than Skip-gram in small size training corpus in two semantic tests.
+As a study case, we show that LSA can capture relevant words associations in dream reports series, even in cases of small number of dreams or low-frequency words.
+We propose that LSA can be used to explore words associations in dreams reports, which could bring new insight into this classic research area of psychology

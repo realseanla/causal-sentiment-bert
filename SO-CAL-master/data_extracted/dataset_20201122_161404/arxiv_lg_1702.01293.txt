@@ -1,9 +1,0 @@
-Deep Learning (DL) methods show very good performance when trained on large, balanced data sets.
-However, many practical problems involve imbalanced data sets, or/and classes with a small number of training samples.
-The performance of DL methods as well as more traditional classifiers drops significantly in such settings.
-Most of the existing solutions for imbalanced problems focus on customizing the data for training.
-A more principled solution is to use mixed Hinge-Minimax risk [19] specifically designed to solve binary problems with imbalanced training sets.
-Here we propose a Latent Hinge Minimax (LHM) risk and a training algorithm that generalizes this paradigm to an ensemble of hyperplanes that can form arbitrary complex, piecewise linear boundaries.
-To extract good features, we combine LHM model with CNN via transfer learning.
-To solve multi-class problem we map pre-trained category-specific LHM classifiers to a multi-class neural network and adjust the weights with very fast tuning.
-LHM classifier enables the use of unlabeled data in its training and the mapping allows for multi-class inference, resulting in a classifier that performs better than alternatives when trained on a small number of training samples.

@@ -1,5 +1,0 @@
-Markov Logic Networks (MLN) and Probabilistic Soft Logic (PSL) are widely applied formalisms in Statistical Relational Learning, an emerging area in Artificial Intelligence that is concerned with combining logical and statistical AI.
-Despite their resemblance, the relationship has not been formally stated.
-In this paper, we describe the precise semantic relationship between them from a logical perspective.
-This is facilitated by first extending fuzzy logic to allow weights, which can be also viewed as a generalization of PSL, and then relate that generalization to MLN.
-We observe that the relationship between PSL and MLN is analogous to the known relationship between fuzzy logic and Boolean logic, and furthermore the weight scheme of PSL is essentially a generalization of the weight scheme of MLN for the many-valued setting.

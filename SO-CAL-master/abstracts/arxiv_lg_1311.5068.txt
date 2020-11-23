@@ -1,0 +1,6 @@
+A hierarchical clustering method is stable if small perturbations on the data set produce small perturbations in the result.
+These perturbations are measured using the Gromov-Hausdorff metric.
+We study the problem of stability on linkage-based hierarchical clustering methods.
+We obtain that, under some basic conditions, standard linkage-based methods are semi-stable.
+This means that they are stable if the input data is close enough to an ultrametric space.
+We prove that, apart from exotic examples, introducing any unchaining condition in the algorithm always produces unstable methods.

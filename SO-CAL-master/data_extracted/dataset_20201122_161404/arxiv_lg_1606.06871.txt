@@ -1,3 +1,0 @@
-We present a comprehensive study of deep bidirectional long short-term memory (LSTM) recurrent neural network (RNN) based acoustic models for automatic speech recognition (ASR).
-We study the effect of size and depth and train models of up to 8 layers.
-We investigate the training aspect and study different variants of optimization methods, batching, truncated backpropagation, different regularization techniques such as dropout and $L_2$ regularization, and different gradient clipping variants.

@@ -1,5 +1,0 @@
-In this short note, we present an extension of LSTM to use a depth gate to connect memory cells of adjacent layers.
-Doing so introduces a linear dependence between lower and upper recurrent units.
-Importantly, the linear dependence is gated through a gating function, which we call forget gate.
-This gate is a function of lower layer memory cell, its input, and its past memory.
-We conducted experiments and verified that this new architecture of LSTMs is able to improve machine translation and language modeling performances.

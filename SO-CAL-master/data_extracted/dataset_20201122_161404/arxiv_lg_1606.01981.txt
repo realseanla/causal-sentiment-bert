@@ -1,7 +1,0 @@
-Recent results show that deep neural networks achieve excellent performance even when, during training, weights are quantized and projected to a binary representation.
-Here, we show that this is just the tip of the iceberg: these same networks, during testing, also exhibit a remarkable robustness to distortions beyond quantization, including additive and multiplicative noise, and a class of non-linear projections where binarization is just a special case.
-To quantify this robustness, we show that one such network achieves 11 percent test error on CIFAR-10 even with 0.68 effective bits per weight.
-Furthermore, we find that a common training heuristic--namely, projecting quantized weights during backpropagation--can be altered (or even removed) and networks still achieve a base level of robustness during testing.
-Specifically, training with weight projections other than quantization also works, as does simply clipping the weights, both of which have never been reported before.
-We confirm our results for CIFAR-10 and ImageNet datasets.
-Finally, drawing from these ideas, we propose a stochastic projection rule that leads to a new state of the art network with 7.64 percent test error on CIFAR-10 using no data augmentation.

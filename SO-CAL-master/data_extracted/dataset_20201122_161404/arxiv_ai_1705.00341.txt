@@ -1,7 +1,0 @@
-Open world games present players with more freedom than games with linear progression structures.
-However, without clearly-defined objectives, they often leave players without a sense of purpose.
-Most of the time, quests and objectives are hand-authored and overlaid atop an open world's mechanics.
-But what if they could be generated organically from the gameplay itself?
-The goal of our project was to develop a model of the mechanics in Minecraft that could be used to determine the ideal placement of objectives in an open world setting.
-We formalized the game logic of Minecraft in terms of logical rules that can be manipulated in two ways: they may be executed to generate graphs representative of the player experience when playing an open world game with little developer direction; and they may be statically analyzed to determine dependency orderings, feedback loops, and bottlenecks.
-These analyses may then be used to place achievements on gameplay actions algorithmically.

@@ -1,0 +1,7 @@
+The best currently known interactive debugging systems rely upon some meta-information in terms of fault probabilities in order to improve their efficiency.
+However, misleading meta information might result in a dramatic decrease of the performance and its assessment is only possible a-posteriori.
+Consequently, as long as the actual fault is unknown, there is always some risk of suboptimal interactions.
+In this work we present a reinforcement learning strategy that continuously adapts its behavior depending on the performance achieved and minimizes the risk of using low-quality meta information.
+Therefore, this method is suitable for application scenarios where reliable prior fault estimates are difficult to obtain.
+Using diverse real-world knowledge bases, we show that the proposed interactive query strategy is scalable, features decent reaction time, and outperforms both entropy-based and no-risk strategies on average w.r.t.
+required amount of user interaction.

@@ -1,5 +1,0 @@
-Bounded policy iteration is an approach to solving infinite-horizon POMDPs that represents policies as stochastic finite-state controllers and iteratively improves a controller by adjusting the parameters of each node using linear programming.
-In the original algorithm, the size of the linear programs, and thus the complexity of policy improvement, depends on the number of parameters of each node, which grows with the size of the controller.
-But in practice, the number of parameters of a node with non-zero values is often very small, and does not grow with the size of the controller.
-Based on this observation, we develop a version of bounded policy iteration that leverages the sparse structure of a stochastic finite-state controller.
-In each iteration, it improves a policy by the same amount as the original algorithm, but with much better scalability.

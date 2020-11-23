@@ -1,6 +1,0 @@
-Agent technology is a software paradigm that permits to implement large and complex distributed applications.
-In order to assist analyzing, conception and development or implementation phases of multi-agent systems, we've tried to present a practical application of a generic and scalable method of a MAS with a component-oriented architecture and agent-based approach that allows MDA to generate source code from a given model.
-We've designed on AUML the class diagrams as a class meta-model of different agents of a MAS.
-Then we generated the source code of the models developed using an open source tool called AndroMDA.
-This agent-based and evolutive approach enhances the modularity and genericity developments and promotes their reusability in future developments.
-This property distinguishes our design methodology of existing methodologies in that it is constrained by any particular agent-based model while providing a library of generic models

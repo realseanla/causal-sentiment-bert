@@ -1,0 +1,3 @@
+In this work we describe and evaluate methods to learn musical embeddings.
+Each embedding is a vector that represents four contiguous beats of music and is derived from a symbolic representation.
+We consider autoencoding-based methods including denoising autoencoders, and context reconstruction, and evaluate the resulting embeddings on a forward prediction and a classification task.

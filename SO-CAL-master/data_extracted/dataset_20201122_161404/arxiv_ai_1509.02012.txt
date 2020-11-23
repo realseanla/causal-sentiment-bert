@@ -1,7 +1,0 @@
-In this paper, we investigate bounded action theories in the situation calculus.
-A bounded action theory is one which entails that, in every situation, the number of object tuples in the extension of fluents is bounded by a given constant, although such extensions are in general different across the infinitely many situations.
-We argue that such theories are common in applications, either because facts do not persist indefinitely or because the agent eventually forgets some facts, as new ones are learnt.
-We discuss various classes of bounded action theories.
-Then we show that verification of a powerful first-order variant of the mu-calculus is decidable for such theories.
-Notably, this variant supports a controlled form of quantification across situations.
-We also show that through verification, we can actually check whether an arbitrary action theory maintains boundedness.

@@ -1,8 +1,0 @@
-It is a high-quality algorithm for hierarchical clustering of large software source code.
-This effectively allows to break the complexity of tens of millions lines of source code, so that a human software engineer can comprehend a software system at high level by means of looking at its architectural diagram that is reconstructed automatically from the source code of the software system.
-The architectural diagram shows a tree of subsystems having OOP classes in its leaves (in the other words, a nested software decomposition).
-The tool reconstructs the missing (inconsistent/incomplete/inexistent) architectural documentation for a software system from its source code.
-This facilitates software maintenance: change requests can be performed substantially faster.
-Simply speaking, this unique tool allows to lift the comprehensible grain of object-oriented software systems from OOP class-level to subsystem-level.
-It is estimated that a commercial tool, developed on the basis of this work, will reduce software maintenance expenses 10 times on the current needs, and will allow to implement next-generation software systems which are currently too complex to be within the range of human comprehension, therefore can't yet be designed or implemented.
-Implemented prototype in Open Source:

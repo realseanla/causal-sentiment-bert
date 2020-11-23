@@ -1,0 +1,4 @@
+Objective: Allowing patients to access their own electronic health record (EHR) notes through online patient portals has the potential to improve patient-centered care.
+However, medical jargon, which abounds in EHR notes, has been shown to be a barrier for patient EHR comprehension.
+Existing knowledge bases that link medical jargon to lay terms or definitions play an important role in alleviating this problem but have low coverage of medical jargon in EHRs.
+We developed a data-driven approach that mines EHRs to identify and rank medical jargon based on its importance to patients, to support the building of EHR-centric lay language resources.

@@ -1,4 +1,0 @@
-Despite the importance of sparsity in many big data applications, there are few existing methods for efficient distributed optimization of sparsely-regularized objectives.
-In this paper, we present a communication-efficient framework for L1-regularized optimization in distributed environments.
-By taking a non-traditional view of classical objectives as part of a more general primal-dual setting, we obtain a new class of methods that can be efficiently distributed and is applicable to common L1-regularized regression and classification objectives, such as Lasso, sparse logistic regression, and elastic net regression.
-We provide convergence guarantees for this framework and demonstrate strong empirical performance as compared to other state-of-the-art methods on several real-world distributed datasets.

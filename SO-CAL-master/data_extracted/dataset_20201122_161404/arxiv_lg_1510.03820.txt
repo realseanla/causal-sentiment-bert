@@ -1,6 +1,0 @@
-Convolutional Neural Networks (CNNs) have recently achieved remarkably strong performance on sentence classification tasks (Kim, 2014; Kalchbrenner et al.,2014; Wang et al., 2015).
-However, these models require practitioners to specify the exact model architecture and accompanying hyper-parameters, e.g., the choice of filter region size, regularization parameters, and so on.
-It is currently unknown how sensitive model performance is to changes in these configurations for the task of sentence classification.
-We thus conduct an empirical sensitivity analysis of one-layer CNNs to explore the effect of each part of the architecture on the performance; our aim is to assess the robustness of the model and to distinguish between important and comparatively inconsequential design decisions for sentence classification.
-We focus on one-layer CNNs (to the exclusion of more complex models) due to their comparative simplicity and strong empirical performance (Kim, 2014).
-We derive practical advice from our extensive empirical results for those interested in getting the most out of CNNs for sentence classification.

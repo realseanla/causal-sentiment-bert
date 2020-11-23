@@ -1,5 +1,0 @@
-This paper addresses the problem of minimizing a convex, Lipschitz function $f$ over a convex, compact set $\xset$ under a stochastic bandit feedback model.
-In this model, the algorithm is allowed to observed noisy realizations of the function value $f(x)$ at any query point $x \in \xset$.
-The quantity of interest is regret of the algorithm, which is the sum of the function values at algorithm's query points minus the optimal function value.
-We demonstrate a generalization of the ellipsoid algorithm that incurs $\otil(\poly(d)\sqrt{T})$ regret.
-Since any algorithm has regret at least $\Omega(\sqrt{T})$ on this problem, our algorithm is optimal in terms of the scaling with $T$.

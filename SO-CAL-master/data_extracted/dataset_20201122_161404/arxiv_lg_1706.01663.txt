@@ -1,4 +1,0 @@
-A classical problem in grammatical inference is to identify a deterministic finite automaton (DFA) from a set of positive and negative examples.
-In this paper, we address the related - yet seemingly novel - problem of identifying a set of DFAs from examples that belong to different unknown simple regular languages.
-We propose two methods based on compression for clustering the observed positive examples.
-We apply our methods to a set of print jobs submitted to large industrial printers.

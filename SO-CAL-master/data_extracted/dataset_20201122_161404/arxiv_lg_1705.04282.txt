@@ -1,7 +1,0 @@
-Humans make complex inferences on faces, ranging from objective properties (gender, ethnicity, expression, age, identity, etc) to subjective judgments (facial attractiveness, trustworthiness, sociability, friendliness, etc).
-While the objective aspects of face perception have been extensively studied, relatively fewer computational models have been developed for the social impressions of faces.
-Bridging this gap, we develop a method to predict human impressions of faces in 40 subjective social dimensions, using deep representations from state-of-the-art neural networks.
-We find that model performance grows as the human consensus on a face trait increases, and that model predictions outperform human groups in correlation with human averages.
-This illustrates the learnability of subjective social perception of faces, especially when there is high human consensus.
-Our system can be used to decide which photographs from a personal collection will make the best impression.
-The results are significant for the field of social robotics, demonstrating that robots can learn the subjective judgments defining the underlying fabric of human interaction.

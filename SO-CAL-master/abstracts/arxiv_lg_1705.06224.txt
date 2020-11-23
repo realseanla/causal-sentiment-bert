@@ -1,0 +1,6 @@
+We present a practical approach for processing mobile sensor time series data for continual deep learning predictions.
+The approach comprises data cleaning, normalization, capping, time-based compression, and finally classification with a recurrent neural network.
+We demonstrate the effectiveness of the approach in a case study with 279 participants.
+On the basis of sparse sensor events, the network continually predicts whether the participants would attend to a notification within 10 minutes.
+Compared to a random baseline, the classifier achieves a 40 percent performance increase (AUC of 0.702) on a withheld test set.
+This approach allows to forgo resource-intensive, domain-specific, error-prone feature engineering, which may drastically increase the applicability of machine learning to mobile phone sensor data.

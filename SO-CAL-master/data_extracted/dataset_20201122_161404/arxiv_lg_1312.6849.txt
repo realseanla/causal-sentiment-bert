@@ -1,9 +1,0 @@
-Phoneme classification is investigated for linear feature domains with the aim of improving robustness to additive noise.
-In linear feature domains noise adaptation is exact, potentially leading to more accurate classification than representations involving non-linear processing and dimensionality reduction.
-A generative framework is developed for isolated phoneme classification using linear features.
-Initial results are shown for representations consisting of concatenated frames from the centre of the phoneme, each containing $f$ frames.
-As phonemes have variable duration, no single $f$ is optimal for all phonemes, therefore an average is taken over models with a range of values of $f$.
-Results are further improved by including information from the entire phoneme and transitions.
-In the presence of additive noise, classification in this framework performs better than an analogous PLP classifier, adapted to noise using cepstral mean and variance normalisation, below $18$dB SNR.
-Finally we propose classification using a combination of acoustic waveform and PLP log-likelihoods.
-The combined classifier performs uniformly better than either of the individual classifiers across all noise levels.

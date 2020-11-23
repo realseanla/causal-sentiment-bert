@@ -1,3 +1,0 @@
-The traditional notion of generalization --- i.e., learning a hypothesis whose empirical error is close to its true error --- is surprisingly brittle.
-As has recently been noted [DFH+15b], even if several algorithms have this guarantee in isolation, the guarantee need not hold if the algorithms are composed adaptively.
-In this paper, we study three notions of generalization ---increasing in strength--- that are robust to post-processing and amenable to adaptive composition, and examine the relationships between them.

@@ -1,7 +1,0 @@
-We present a concrete design for Solomonoff's incremental machine learning system suitable for desktop computers.
-We use R5RS Scheme and its standard library with a few omissions as the reference machine.
-We introduce a Levin Search variant based on a stochastic Context Free Grammar together with new update algorithms that use the same grammar as a guiding probability distribution for incremental machine learning.
-The updates include adjusting production probabilities, re-using previous solutions, learning programming idioms and discovery of frequent subprograms.
-The issues of extending the a priori probability distribution and bootstrapping are discussed.
-We have implemented a good portion of the proposed algorithms.
-Experiments with toy problems show that the update algorithms work as expected.

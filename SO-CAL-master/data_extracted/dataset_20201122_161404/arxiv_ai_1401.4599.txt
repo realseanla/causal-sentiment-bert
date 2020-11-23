@@ -1,3 +1,0 @@
-We propose the concept of Action-Related Place (ARPlace) as a powerful and flexible representation of task-related place in the context of mobile manipulation.
-ARPlace represents robot base locations not as a single position, but rather as a collection of positions, each with an associated probability that the manipulation action will succeed when located there.
-ARPlaces are generated using a predictive model that is acquired through experience-based learning, and take into account the uncertainty the robot has about its own location and the location of the object to be manipulated.

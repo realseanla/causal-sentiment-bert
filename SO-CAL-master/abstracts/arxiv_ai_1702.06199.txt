@@ -1,0 +1,3 @@
+Generative model has been one of the most common approaches for solving the Dialog State Tracking Problem with the capabilities to model the dialog hypotheses in an explicit manner.
+The most important task in such Bayesian networks models is constructing the most reliable user models by learning and reflecting the training data into the probability distribution of user actions conditional on networks states.
+This paper provides an overall picture of the learning process in a Bayesian framework with an emphasize on the state-of-the-art theoretical analyses of the Expectation Maximization learning algorithm.

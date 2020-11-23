@@ -1,0 +1,5 @@
+We systematically explored a spectrum of normalization algorithms related to Batch Normalization (BN) and propose a generalized formulation that simultaneously solves two major limitations of BN: (1) online learning and (2) recurrent learning.
+Our proposal is simpler and more biologically-plausible.
+Unlike previous approaches, our technique can be applied out of the box to all learning scenarios (e.g., online learning, batch learning, fully-connected, convolutional, feedforward, recurrent and mixed --- recurrent and convolutional) and compare favorably with existing approaches.
+We also propose Lp Normalization for normalizing by different orders of statistical moments.
+In particular, L1 normalization is well-performing, simple to implement, fast to compute, more biologically-plausible and thus ideal for GPU or hardware implementations.

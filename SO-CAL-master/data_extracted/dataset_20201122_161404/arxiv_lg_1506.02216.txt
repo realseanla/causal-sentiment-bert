@@ -1,4 +1,0 @@
-In this paper, we explore the inclusion of random variables into the dynamic latent state of a recurrent neural network (RNN) by combining elements of the variational autoencoder.
-We argue that through the use of high-level latent random variables, our variational RNN (VRNN) is able to learn to model the kind of variability observed in highly-structured sequential data (such as speech).
-We empirically evaluate the proposed model against related sequential models on five sequence datasets, four of speech and one of handwriting.
-Our results show the importance of the role random variables can play in the RNN dynamic latent state.

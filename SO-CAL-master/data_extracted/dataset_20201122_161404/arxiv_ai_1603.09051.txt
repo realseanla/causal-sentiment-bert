@@ -1,9 +1,0 @@
-Since the advent of computers, many tasks which required humans to spend a lot of time and energy have been trivialized by the computers' ability to perform repetitive tasks extremely quickly.
-However there are still many areas in which humans excel in comparison with the machines.
-One such area is chess.
-Even with great advances in the speed and computational power of modern machines, Grandmasters often beat the best chess programs in the world with relative ease.
-This may be due to the fact that a game of chess cannot be won by pure calculation.
-There is more to the goodness of a chess position than some numerical value which apparently can be seen only by the human brain.
-Here an effort has been made to improve current chess engines by letting themselves evolve over a period of time.
-Firstly, the problem of learning is reduced into an optimization problem by defining Position Evaluation in terms of Positional Value Tables (PVTs).
-Next, the PVTs are optimized using Multi-Niche Crowding which successfully identifies the optima in a multimodal function, thereby arriving at distinctly different solutions which are close to the global optimum.

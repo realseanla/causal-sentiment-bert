@@ -1,9 +1,0 @@
-In the last few years thousands of scientific papers have explored sentiment analysis, several startups that measures opinions on real data have emerged, and a number of innovative products related to this theme have been developed.
-There are multiple methods for measuring sentiments, including lexical-based approaches and supervised machine learning methods.
-Despite the vast interest on the theme and wide popularity of some methods, it is unclear which method is better for identifying the polarity (i.e., positive or negative) of a message.
-Thus, there is a strong need to conduct a thorough apple-to-apple comparison of sentiment analysis methods, as they are used in practice, across multiple datasets originated from different data sources.
-Such a comparison is key for understanding the potential limitations, advantages, and disadvantages of popular methods.
-This study aims at filling this gap by presenting a benchmark comparison of twenty one popular sentiment analysis methods (which we call the state-of-the-practice methods).
-Our evaluation is based on a benchmark of twenty labeled datasets, covering messages posted on social networks, movie and product reviews, as well as opinions and comments in news articles.
-Our results highlight the extent to which the prediction performance of these methods varies widely across datasets.
-Aiming at boosting the development of this research area, we open the methods' codes and datasets used in this paper and we deploy a benchmark system, which provides an open API for accessing and comparing sentence-level sentiment analysis methods.

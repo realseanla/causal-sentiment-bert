@@ -1,5 +1,0 @@
-Stochastic Gradient Descent (SGD) is arguably the most popular of the machine learning methods applied to training deep neural networks (DNN) today.
-It has recently been demonstrated that SGD can be statistically biased so that certain elements of the training set are learned more rapidly than others.
-In this article, we place SGD into a feedback loop whereby the probability of selection is proportional to error magnitude.
-This provides a novelty-driven oddball SGD process that learns more rapidly than traditional SGD by prioritising those elements of the training set with the largest novelty (error).
-In our DNN example, oddball SGD trains some 50x faster than regular SGD.

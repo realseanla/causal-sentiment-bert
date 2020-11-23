@@ -1,4 +1,0 @@
-Many applications require recovering a ground truth low-rank matrix from noisy observations of the entries.
-In practice, this is typically formulated as weighted low-rank approximation problem and solved using non-convex optimization heuristics such as alternating minimization.
-Such non-convex techniques have little guarantees.
-Even worse, weighted low-rank approximation is NP-hard for even the most simple case when the ground truth is a rank-1 matrix.

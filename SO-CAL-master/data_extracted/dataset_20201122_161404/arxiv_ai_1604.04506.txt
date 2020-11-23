@@ -1,6 +1,0 @@
-This paper presents the first framework for integrating procedural knowledge, or "know-how", into the Linked Data Cloud.
-Know-how available on the Web, such as step-by-step instructions, is largely unstructured and isolated from other sources of online knowledge.
-To overcome these limitations, we propose extending to procedural knowledge the benefits that Linked Data has already brought to representing, retrieving and reusing declarative knowledge.
-We describe a framework for representing generic know-how as Linked Data and for automatically acquiring this representation from existing resources on the Web.
-This system also allows the automatic generation of links between different know-how resources, and between those resources and other online knowledge bases, such as DBpedia.
-We discuss the results of applying this framework to a real-world scenario and we show how it outperforms existing manual community-driven integration efforts.

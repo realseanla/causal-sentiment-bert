@@ -1,8 +1,0 @@
-We propose a method for an agent to revise its incomplete probabilistic beliefs when a new piece of propositional information is observed.
-In this work, an agent's beliefs are represented by a set of probabilistic formulae -- a belief base.
-The method involves determining a representative set of 'boundary' probability distributions consistent with the current belief base, revising each of these probability distributions and then translating the revised information into a new belief base.
-We use a version of Lewis Imaging as the revision operation.
-The correctness of the approach is proved.
-The expressivity of the belief bases under consideration are rather restricted, but has some applications.
-We also discuss methods of belief base revision employing the notion of optimum entropy, and point out some of the benefits and difficulties in those methods.
-Both the boundary distribution method and the optimum entropy method are reasonable, yet yield different results.

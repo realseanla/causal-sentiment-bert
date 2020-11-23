@@ -1,7 +1,0 @@
-Suicide is an important but often misunderstood problem, one that researchers are now seeking to better understand through social media.
-Due in large part to the fuzzy nature of what constitutes suicidal risks, most supervised approaches for learning to automatically detect suicide-related activity in social media require a great deal of human labor to train.
-However, humans themselves have diverse or conflicting views on what constitutes suicidal thoughts.
-So how to obtain reliable gold standard labels is fundamentally challenging and, we hypothesize, depends largely on what is asked of the annotators and what slice of the data they label.
-We conducted multiple rounds of data labeling and collected annotations from crowdsourcing workers and domain experts.
-We aggregated the resulting labels in various ways to train a series of supervised models.
-Our preliminary evaluations show that using unanimously agreed labels from multiple annotators is helpful to achieve robust machine models.

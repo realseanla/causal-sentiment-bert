@@ -1,3 +1,0 @@
-This paper addresses the problem of practical privacy-preserving machine learning: how to detect patterns in massive, real-world databases of sensitive personal information, while maintaining the privacy of individuals.
-Chaudhuri and Monteleoni (2008) recently provided privacy-preserving techniques for learning linear separators via regularized logistic regression.
-With the goal of handling large databases that may not be linearly separable, we provide privacy-preserving support vector machine algorithms.

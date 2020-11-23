@@ -1,0 +1,4 @@
+We create a transition-based dependency parser using a general purpose learning to search system.
+The result is a fast and accurate parser for many languages.
+Compared to other transition-based dependency parsing approaches, our parser provides similar statistical and computational performance with best-known approaches while avoiding various downsides including randomization, extra feature requirements, and custom learning algorithms.
+We show that it is possible to implement a dependency parser with an open-source learning to search library in about 300 lines of C++ code, while existing systems often requires several thousands of lines.

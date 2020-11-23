@@ -1,4 +1,0 @@
-Parallel implementations of stochastic gradient descent (SGD) have received significant research attention, thanks to excellent scalability properties of this algorithm, and to its efficiency in the context of training deep neural networks.
-A fundamental barrier for parallelizing large-scale SGD is the fact that the cost of communicating the gradient updates between nodes can be very large.
-Consequently, lossy compresion heuristics have been proposed, by which nodes only communicate quantized gradients.
-Although effective in practice, these heuristics do not always provably converge, and it is not clear whether they are optimal.

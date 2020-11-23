@@ -1,0 +1,8 @@
+A fall is an abnormal activity that occurs rarely; however, missing to identify falls can have serious health and safety implications on an individual.
+Due to the rarity of occurrence of falls, there may be insufficient or no training data available for them.
+Therefore, standard supervised machine learning methods may not be directly applied to handle this problem.
+In this paper, we present a taxonomy for the study of fall detection from the perspective of availability of fall data.
+The proposed taxonomy is independent of the type of sensors used and specific feature extraction/selection methods.
+The taxonomy identifies different categories of classification methods for the study of fall detection based on the availability of their data during training the classifiers.
+Then, we present a comprehensive literature review within those categories and identify the approach of treating a fall as an abnormal activity to be a plausible research direction.
+We conclude our paper by discussing several open research problems in the field and pointers for future research.

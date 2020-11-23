@@ -1,3 +1,0 @@
-Recent advances in machine learning are paving the way for the artificial generation of high quality images and videos.
-In this paper, we investigate how generating synthetic samples through generative models can lead to information leakage, and, consequently, to privacy breaches affecting individuals' privacy that contribute their personal or sensitive data to train these models.
-In order to quantitatively measure privacy leakage, we train a Generative Adversarial Network (GAN), which combines a discriminative model and a generative model, to detect overfitting by relying on the discriminator capacity to learn statistical differences in distributions.

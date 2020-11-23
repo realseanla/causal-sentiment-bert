@@ -1,6 +1,0 @@
-We present the sTeX+ system, a user-driven advancement of sTeX - a semantic extension of LaTeX that allows for producing high-quality PDF documents for (proof)reading and printing, as well as semantic XML/OMDoc documents for the Web or further processing.
-Originally sTeX had been created as an invasive, semantic frontend for authoring XML documents.
-Here, we used sTeX in a Software Engineering case study as a formalization tool.
-In order to deal with modular pre-semantic vocabularies and relations, we upgraded it to sTeX+ in a participatory design process.
-We present a tool chain that starts with an sTeX+ editor and ultimately serves the generated documents as XHTML+RDFa Linked Data via an OMDoc-enabled, versioned XML database.
-In the final output, all structural annotations are preserved in order to enable semantic information retrieval services.

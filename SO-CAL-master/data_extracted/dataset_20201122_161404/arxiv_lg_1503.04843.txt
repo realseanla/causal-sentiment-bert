@@ -1,4 +1,0 @@
-Adaptivity is an important feature of data analysis---typically the choice of questions asked about a dataset depends on previous interactions with the same dataset.
-However, generalization error is typically bounded in a non-adaptive model, where all questions are specified before the dataset is drawn.
-Recent work by Dwork et al.
-(STOC '15) and Hardt and Ullman (FOCS '14) initiated the formal study of this problem, and gave the first upper and lower bounds on the achievable generalization error for adaptive data analysis.

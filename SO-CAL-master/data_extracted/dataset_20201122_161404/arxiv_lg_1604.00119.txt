@@ -1,9 +1,0 @@
-Web discussion forums are used by millions of people worldwide to share information belonging to a variety of domains such as automotive vehicles, pets, sports, etc.
-They typically contain posts that fall into different categories such as \textit{problem}, \textit{solution}, \textit{feedback}, \textit{spam}, etc.
-Automatic identification of these categories can aid information retrieval that is tailored for specific user requirements.
-Previously, a number of supervised methods have attempted to solve this problem; however, these depend on the availability of abundant training data.
-A few existing unsupervised and semi-supervised approaches are either focused on identifying a single category or do not report category-specific performance.
-In contrast, this work proposes unsupervised and semi-supervised methods that require no or minimal training data to achieve this objective without compromising on performance.
-A fine-grained analysis is also carried out to discuss their limitations.
-The proposed methods are based on sequence models (specifically, Hidden Markov Models) that can model language for each category using word and part-of-speech probability distributions, and manually specified features.
-Empirical evaluations across domains demonstrate that the proposed methods are better suited for this task than existing ones.

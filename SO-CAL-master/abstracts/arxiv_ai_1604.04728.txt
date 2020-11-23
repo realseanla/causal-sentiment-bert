@@ -1,0 +1,6 @@
+In this article, an agent-based negotiation model for negotiation teams that negotiate a deal with an opponent is presented.
+Agent-based negotiation teams are groups of agents that join together as a single negotiation party because they share an interest that is related to the negotiation process.
+The model relies on a trusted mediator that coordinates and helps team members in the decisions that they have to take during the negotiation process: which offer is sent to the opponent, and whether the offers received from the opponent are accepted.
+The main strength of the proposed negotiation model is the fact that it guarantees unanimity within team decisions since decisions report a utility to team members that is greater than or equal to their aspiration levels at each negotiation round.
+This work analyzes how unanimous decisions are taken within the team and the robustness of the model against different types of manipulations.
+An empirical evaluation is also performed to study the impact of the different parameters of the model.

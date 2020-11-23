@@ -1,3 +1,0 @@
-In a multi-armed bandit problem, an online algorithm chooses from a set of strategies in a sequence of trials so as to maximize the total payoff of the chosen strategies.
-While the performance of bandit algorithms with a small finite strategy set is quite well understood, bandit problems with large strategy sets are still a topic of very active investigation, motivated by practical applications such as online auctions and web advertisement.
-The goal of such research is to identify broad and natural classes of strategy sets and payoff functions which enable the design of efficient solutions.

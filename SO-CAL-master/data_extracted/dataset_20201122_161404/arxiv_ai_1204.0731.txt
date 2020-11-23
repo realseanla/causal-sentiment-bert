@@ -1,3 +1,0 @@
-Some aspects of the result of applying unit resolution on a CNF formula can be formalized as functions with domain a set of partial truth assignments.
-We are interested in two ways for computing such functions, depending on whether the result is the production of the empty clause or the assignment of a variable with a given truth value.
-We show that these two models can compute the same functions with formulae of polynomially related sizes, and we explain how this result is related to the CNF encoding of Boolean constraints.

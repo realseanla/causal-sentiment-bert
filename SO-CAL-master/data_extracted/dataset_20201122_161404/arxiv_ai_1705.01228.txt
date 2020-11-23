@@ -1,4 +1,0 @@
-We present a tool, simplify-defun, that transforms the definition of a given function into a simplified definition of a new function, providing a proof checked by ACL2 that the old and new functions are equivalent.
-When appropriate it also generates termination and guard proofs for the new function.
-We explain how the tool is engineered so that these proofs will succeed.
-Examples illustrate its utility, in particular for program transformation in synthesis and verification.

@@ -1,8 +1,0 @@
-In this paper we propose a special type of aggregation function which generalizes the notion of Ordered Weighted Averaging Function - OWA.
-The resulting functions are called Dynamic Ordered Weighted Averaging Functions --- DYOWAs.
-This generalization will be developed in such way that the weight vectors are variables depending on the input vector.
-Particularly, this operators generalize the aggregation functions: Minimum, Maximum, Arithmetic Mean, Median, etc, which are extensively used in image processing.
-In this field of research two problems are considered: The determination of methods to reduce images and the construction of techniques which provide noise reduction.
-The operators described here are able to be used in both cases.
-In terms of image reduction we apply the methodology provided by Patermain et al.
-We use the noise reduction operators obtained here to treat the images obtained in the first part of the paper, thus obtaining images with better quality.

@@ -1,9 +1,0 @@
-Bayesian Optimisation (BO) is a technique used in optimising a $D$-dimensional function which is typically expensive to evaluate.
-While there have been many successes for BO in low dimensions, scaling it to high dimensions has been a notoriously difficult problem.
-Existing literature on the subject are under very restrictive settings.
-In this paper, we identify two key challenges in this endeavour.
-We tackle these challenges by assuming an additive structure for the function.
-This setting is substantially more expressive and contains a richer class of functions than previous work.
-In our theoretical analysis we prove that for additive functions the regret has only linear (as opposed to exponential) dependence on $D$ even though the function depends on all $D$ dimensions.
-We also demonstrate several other statistical and computational benefits in our framework.
-Empirically via synthetic examples, a scientific simulation and a face detection problem we demonstrate that our method outperforms naive BO on additive functions and on several examples when the function is not additive.

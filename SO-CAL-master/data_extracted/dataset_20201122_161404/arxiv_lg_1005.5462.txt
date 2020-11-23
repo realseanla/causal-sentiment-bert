@@ -1,4 +1,0 @@
-This paper provides a theoretical explanation on the clustering aspect of nonnegative matrix factorization (NMF).
-We prove that even without imposing orthogonality or sparsity constraint on the basis and/or coefficient matrix, NMF still can give clustering results, thus providing a theoretical support for the works of Xu et al.
-[1] and Kim et al.
-[2], where the authors showed the superiority of the standard NMF as a clustering method.

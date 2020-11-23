@@ -1,6 +1,0 @@
-Electronic health records capture patient information using structured controlled vocabularies and unstructured narrative text.
-While structured data typically encodes lab values, encounters and medication lists, unstructured data captures the physician's interpretation of the patient's condition, prognosis, and response to therapeutic intervention.
-In this paper, we demonstrate that information extraction from unstructured clinical narratives is essential to most clinical applications.
-We perform an empirical study to validate the argument and show that structured data alone is insufficient in resolving eligibility criteria for recruiting patients onto clinical trials for chronic lymphocytic leukemia (CLL) and prostate cancer.
-Unstructured data is essential to solving 59 percent of the CLL trial criteria and 77 percent of the prostate cancer trial criteria.
-More specifically, for resolving eligibility criteria with temporal constraints, we show the need for temporal reasoning and information integration with medical events within and across unstructured clinical narratives and structured data.

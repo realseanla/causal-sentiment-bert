@@ -1,6 +1,0 @@
-Many tourist applications provide a personalized tourist agenda with the list of recommended activities to the user.
-These applications must undoubtedly deal with the constraints and preferences that define the user interests.
-Among these preferences, we can find those that define the travel style of the user, such as the rhythm of the trip, the number of visits to include in the tour or the priority to visits of special interest for the user.
-In this paper, we deal with the task of creating a customized tourist agenda as a planning and scheduling application capable of conveniently scheduling the most appropriate goals (visits) so as to maximize the user satisfaction with the tourist route.
-This paper makes an analysis of the meaning of the travel style preferences and compares the quality of the solutions obtained by two different solvers, a PDDL-based planner and a Constraint Satisfaction Problem solver.
-We also define several quality metrics and perform extensive experiments in order to evaluate the results obtained with both solvers.

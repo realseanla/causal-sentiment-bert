@@ -1,3 +1,0 @@
-In this paper, we study the generalization performance of regularized multi-task learning (RMTL) in a vector-valued framework, where MTL is considered as a learning process for vector-valued functions.
-We are mainly concerned with two theoretical questions: 1) under what conditions does RMTL perform better with a smaller task sample size than STL?
-2) under what conditions is RMTL generalizable and can guarantee the consistency of each task during simultaneous learning?

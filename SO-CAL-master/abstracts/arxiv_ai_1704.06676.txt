@@ -1,0 +1,8 @@
+In this work we present a method for using Deep Q-Networks (DQNs) in multi-objective tasks.
+Deep Q-Networks provide remarkable performance in single objective tasks learning from high-level visual perception.
+However, in many scenarios (e.g in robotics), the agent needs to pursue multiple objectives simultaneously.
+We propose an architecture in which separate DQNs are used to control the agent's behaviour with respect to particular objectives.
+In this architecture we use signal suppression, known from the (Brooks) subsumption architecture, to combine outputs of several DQNs into a single action.
+Our architecture enables the decomposition of the agent's behaviour into controllable and replaceable sub-behaviours learned by distinct modules.
+To evaluate our solution we used a game-like simulator in which an agent - provided with high-level visual input - pursues multiple objectives in a 2D world.
+Our solution provides benefits of modularity, while its performance is comparable to the monolithic approach.

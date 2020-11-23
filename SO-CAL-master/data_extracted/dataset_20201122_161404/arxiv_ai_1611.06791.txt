@@ -1,8 +1,0 @@
-Deep Neural Networks often require good regularizers to generalize well.
-Dropout is one such regularizer that is widely used among Deep Learning practitioners.
-Recent work has shown that Dropout can also be viewed as performing Approximate Bayesian Inference over the network parameters.
-In this work, we generalize this notion and introduce a rich family of regularizers which we call Generalized Dropout.
-One set of methods in this family, called Dropout++, is a version of Dropout with trainable parameters.
-Classical Dropout emerges as a special case of this method.
-Another member of this family selects the width of neural network layers.
-Experiments show that these methods help in improving generalization performance over Dropout.

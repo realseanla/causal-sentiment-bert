@@ -1,6 +1,0 @@
-News events and social media are composed of evolving storylines, which capture public attention for a limited period of time.
-Identifying these storylines would enable many high-impact applications, such as tracking public interest and opinion in ongoing crisis events.
-However, this requires integrating temporal and linguistic information, and prior work takes a largely heuristic approach.
-We present a novel online non-parametric Bayesian framework for storyline detection, using the distance-dependent Chinese Restaurant Process (dd-CRP).
-To ensure efficient linear-time inference, we employ a fixed-lag Gibbs sampling procedure, which is novel for the dd-CRP.
-We evaluate our baseline and proposed models on the TREC Twitter Timeline Generation task and show strong results.

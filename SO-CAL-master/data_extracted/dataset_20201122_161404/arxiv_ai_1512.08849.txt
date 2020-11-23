@@ -1,8 +1,0 @@
-Natural language inference (NLI) is a fundamentally important task in natural language processing that has many applications.
-The recently released Stanford Natural Language Inference (SNLI) corpus has made it possible to develop and evaluate learning-centered methods such as deep neural networks for the NLI task.
-In this paper, we propose a special long short-term memory (LSTM) architecture for NLI.
-Our model builds on top of a recently proposed neutral attention model for NLI but is based on a significantly different idea.
-Instead of deriving sentence embeddings for the premise and the hypothesis to be used for classification, our solution uses a matching-LSTM that performs word-by-word matching of the hypothesis with the premise.
-This LSTM is able to place more emphasis on important word-level matching results.
-In particular, we observe that this LSTM remembers important mismatches that are critical for predicting the contradiction or the neutral relationship label.
-Our experiments on the SNLI corpus show that our model outperforms the state of the art, achieving an accuracy of 86.1 percent on the test data.

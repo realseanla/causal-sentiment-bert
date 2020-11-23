@@ -1,0 +1,3 @@
+In this paper we investigate clustering in the weighted setting, in which every data point is assigned a real valued weight.
+We conduct a theoretical analysis on the influence of weighted data on standard clustering algorithms in each of the partitional and hierarchical settings, characterising the precise conditions under which such algorithms react to weights, and classifying clustering methods into three broad categories: weight-responsive, weight-considering, and weight-robust.
+Our analysis raises several interesting questions and can be directly mapped to the classical unweighted setting.

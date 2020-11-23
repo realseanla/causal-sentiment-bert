@@ -1,4 +1,0 @@
-Recognizing various semantic relations between terms is crucial for many NLP tasks.
-While path-based and distributional information sources are considered complementary, the strong results the latter showed on recent datasets suggested that the former's contribution might have become obsolete.
-We follow the recent success of an integrated neural method for hypernymy detection (Shwartz et al., 2016) and extend it to recognize multiple relations.
-We demonstrate that these two information sources are indeed complementary, and analyze the contributions of each source.

@@ -1,7 +1,0 @@
-Recommender systems use algorithms to provide users product recommendations.
-Recently, these systems started using machine learning algorithms because of the progress and popularity of the artificial intelligence research field.
-However, choosing the suitable machine learning algorithm is difficult because of the sheer number of algorithms available in the literature.
-Researchers and practitioners are left with little information about the best approaches or the trends in algorithms usage.
-Moreover, the development of a recommender system featuring a machine learning algorithm has problems and open questions that must be evaluated, so software engineers know where to focus research efforts.
-This work presents a systematic review of the literature that analyzes the use of machine learning algorithms in recommender systems and identifies research opportunities for the software engineering research field.
-The study concluded that Bayesian and decision tree algorithms are widely used in recommender systems because of their low complexity, and that requirements and design phases of recommender system development must be investigated for research opportunities.

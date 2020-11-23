@@ -1,7 +1,0 @@
-Decision making in cloud environments is quite challenging due to the diversity in service offerings and pricing models, especially considering that the cloud market is an incredibly fast moving one.
-In addition, there are no hard and fast rules, each customer has a specific set of constraints (e.g.
-budget) and application requirements (e.g.
-minimum computational resources).
-Machine learning can help address some of the complicated decisions by carrying out customer-specific analytics to determine the most suitable instance type(s) and the most opportune time for starting or migrating instances.
-We employ machine learning techniques to develop an adaptive deployment policy, providing an optimal match between the customer demands and the available cloud service offerings.
-We provide an experimental study based on extensive set of job executions over a major public cloud infrastructure.

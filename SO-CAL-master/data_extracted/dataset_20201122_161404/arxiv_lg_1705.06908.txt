@@ -1,3 +1,0 @@
-Given a full rank matrix $X$ with more columns than rows consider the task of estimating the pseudo inverse $X^+$ based on the pseudo inverse of a sampled subset of columns (of size at least the number of rows).
-We show that this is possible if the subset of columns is chosen proportional to the squared volume spanned by the rows of the chosen submatrix (ie, volume sampling).
-The resulting estimator is unbiased and surprisingly the covariance of the estimator also has a closed form: It equals a specific factor times $X^+X^{+\top}$.

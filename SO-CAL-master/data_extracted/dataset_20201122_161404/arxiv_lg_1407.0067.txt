@@ -1,5 +1,0 @@
-Nearest neighbor methods are a popular class of nonparametric estimators with several desirable properties, such as adaptivity to different distance scales in different regions of space.
-Prior work on convergence rates for nearest neighbor classification has not fully reflected these subtle properties.
-We analyze the behavior of these estimators in metric spaces and provide finite-sample, distribution-dependent rates of convergence under minimal assumptions.
-As a by-product, we are able to establish the universal consistency of nearest neighbor in a broader range of data spaces than was previously known.
-We illustrate our upper and lower bounds by introducing smoothness classes that are customized for nearest neighbor classification.

@@ -1,7 +1,0 @@
-A new probabilistic network construction system, DYNASTY, is proposed for diagnostic reasoning given variables whose probabilities change over time.
-Diagnostic reasoning is formulated as a sequential stochastic process, and is modeled using influence diagrams.
-Given a set O of observations, DYNASTY creates an influence diagram in order to devise the best action given O.
-Sensitivity analyses are conducted to determine if the best network has been created, given the uncertainty in network parameters and topology.
-DYNASTY uses an equivalence class approach to provide decision thresholds for the sensitivity analysis.
-This equivalence-class approach to diagnostic reasoning differentiates diagnoses only if the required actions are different.
-A set of network-topology updating algorithms are proposed for dynamically updating the network when necessary.

@@ -1,5 +1,0 @@
-Ubiquitous information access becomes more and more important nowadays and research is aimed at making it adapted to users.
-Our work consists in applying machine learning techniques in order to bring a solution to some of the problems concerning the acceptance of the system by users.
-To achieve this, we propose a fundamental shift in terms of how we model the learning of recommender system: inspired by models of human reasoning developed in robotic, we combine reinforcement learning and case-base reasoning to define a recommendation process that uses these two approaches for generating recommendations on different context dimensions (social, temporal, geographic).
-We describe an implementation of the recommender system based on this framework.
-We also present preliminary results from experiments with the system and show how our approach increases the recommendation quality.

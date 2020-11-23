@@ -1,0 +1,6 @@
+The proximal problem for structured penalties obtained via convex relaxations of submodular functions is known to be equivalent to minimizing separable convex functions over the corresponding submodular polyhedra.
+In this paper, we reveal a comprehensive class of structured penalties for which penalties this problem can be solved via an efficiently solvable class of parametric maxflow optimization.
+We then show that the parametric maxflow algorithm proposed by Gallo et al.
+and its variants, which runs, in the worst-case, at the cost of only a constant factor of a single computation of the corresponding maxflow optimization, can be adapted to solve the proximal problems for those penalties.
+Several existing structured penalties satisfy these conditions; thus, regularized learning with these penalties is solvable quickly using the parametric maxflow algorithm.
+We also investigate the empirical runtime performance of the proposed framework.

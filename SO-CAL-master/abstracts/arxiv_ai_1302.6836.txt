@@ -1,0 +1,7 @@
+This paper describes a novel approach to planning which takes advantage of decision theory to greatly improve robustness in an uncertain environment.
+We present an algorithm which computes conditional plans of maximum expected utility.
+This algorithm relies on a representation of the search space as an AND/OR tree and employs a depth-limit to control computation costs.
+A numeric robustness factor, which parameterizes the utility function, allows the user to modulate the degree of risk-aversion employed by the planner.
+Via a look-ahead search, the planning algorithm seeks to find an optimal plan using expected utility as its optimization criterion.
+We present experimental results obtained by applying our algorithm to a non-deterministic extension of the blocks world domain.
+Our results demonstrate that the robustness factor governs the degree of risk embodied in the conditional plans computed by our algorithm.

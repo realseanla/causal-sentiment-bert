@@ -1,0 +1,7 @@
+We present a new method to propagate lower bounds on conditional probability distributions in conventional Bayesian networks.
+Our method guarantees to provide outer approximations of the exact lower bounds.
+A key advantage is that we can use any available algorithms and tools for Bayesian networks in order to represent and infer lower bounds.
+This new method yields results that are provable exact for trees with binary variables, and results which are competitive to existing approximations in credal networks for all other network structures.
+Our method is not limited to a specific kind of network structure.
+Basically, it is also not restricted to a specific kind of inference, but we restrict our analysis to prognostic inference in this article.
+The computational complexity is superior to that of other existing approaches.

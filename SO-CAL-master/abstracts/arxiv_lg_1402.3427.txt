@@ -1,0 +1,5 @@
+Denoising autoencoders (DAs) are typically applied to relatively large datasets for unsupervised learning of representative data encodings; they rely on the idea of making the learned representations robust to partial corruption of the input pattern, and perform learning using stochastic gradient descent with relatively large datasets.
+In this paper, we present a fully Bayesian DA architecture that allows for the application of DAs even when data is scarce.
+Our novel approach formulates the signal encoding problem under a nonparametric Bayesian regard, considering a Gaussian process prior over the latent input encodings generated given the (corrupt) input observations.
+Subsequently, the decoder modules of our model are formulated as large-margin regression models, treated under the Bayesian inference paradigm, by exploiting the maximum entropy discrimination (MED) framework.
+We exhibit the effectiveness of our approach using several datasets, dealing with both classification and transfer learning applications.

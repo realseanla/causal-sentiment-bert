@@ -1,7 +1,0 @@
-In Imitation Learning, a supervisor's policy is observed and the intended behavior is learned.
-A known problem with this approach is covariate shift, which occurs because the agent visits different states than the supervisor.
-Rolling out the current agent's policy, an on-policy method, allows for collecting data along a distribution similar to the updated agent's policy.
-However this approach can become less effective as the demonstrations are collected in very large batch sizes, which reduces the relevance of data collected in previous iterations.
-In this paper, we propose to alleviate the covariate shift via the injection of artificial noise into the supervisor's policy.
-We prove an improved bound on the loss due to the covariate shift, and introduce an algorithm that leverages our analysis to estimate the level of $\epsilon$-greedy noise to inject.
-In a driving simulator domain where an agent learns an image-to-action deep network policy, our algorithm Dart achieves a better performance than DAgger with 75 percent fewer demonstrations.

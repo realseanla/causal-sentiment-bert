@@ -1,5 +1,0 @@
-This paper presents a statistical method for music transcription that can estimate score times of note onsets and offsets from polyphonic MIDI performance signals.
-Because performed note durations can deviate largely from score-indicated values, previous methods had the problem of not being able to accurately estimate offset score times (or note values) and thus could only output incomplete musical scores.
-Based on observations that the pitch context and onset score times are influential on the configuration of note values, we construct a context-tree model that provides prior distributions of note values using these features and combine it with a performance model in the framework of Markov random fields.
-Evaluation results showed that our method reduces the average error rate by around 40 percent compared to existing/simple methods.
-We also confirmed that, in our model, the score model plays a more important role than the performance model, and it automatically captures the voice structure by unsupervised learning.

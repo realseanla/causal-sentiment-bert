@@ -1,0 +1,4 @@
+We propose a novel method of regularization for recurrent neural networks called suprisal-driven zoneout.
+In this method, states \textit{zoneout} (maintain their previous value rather than updating), when the \textit{suprisal} (discrepancy between the last state's prediction and target) is small.
+Thus regularization is adaptive and input-driven on a per-neuron basis.
+We demonstrate the effectiveness of this idea by achieving state-of-the-art bits per character of 1.32 on the Hutter Prize Wikipedia dataset, significantly reducing the gap to the best known highly-engineered compression methods.

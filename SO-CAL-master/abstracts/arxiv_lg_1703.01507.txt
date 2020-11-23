@@ -1,0 +1,4 @@
+In this paper we make a novel use of the Johnson-Lindenstrauss Lemma.
+The Lemma has an existential form saying that there exists a JL transformation $f$ of the data points into lower dimensional space such that all of them fall into predefined error range $\delta$.
+We formulate in this paper a theorem stating that we can choose the target dimensionality in a random projection type JL linear transformation in such a way that with probability $1-\epsilon$ all of them fall into predefined error range $\delta$ for any user-predefined failure probability $\epsilon$.
+This result is important for applications such a data clustering where we want to have a priori dimensionality reducing transformation instead of trying out a (large) number of them, as with traditional Johnson-Lindenstrauss Lemma.

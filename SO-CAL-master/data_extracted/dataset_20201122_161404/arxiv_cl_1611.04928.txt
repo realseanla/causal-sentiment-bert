@@ -1,5 +1,0 @@
-Neural machine translation systems typically rely on the size of parallel corpora.
-Nevertheless, high-quality parallel corpora are scarce resources for specific language pairs and domains.
-For a source-to-target language pair with a small parallel corpus, we introduce the pivot language to "bridge" source language and target language under the existence of large source-to-pivot and pivot-to-target parallel corpora.
-We propose three kinds of connection terms to jointly train source-to-pivot and pivot-to-target translation models in order to enhance the interaction between two sets of model parameters.
-Experiments on German-French and Spanish-French translation tasks with English as the pivot language show that our joint training approach improves the translation quality significantly than independent training on source-to-pivot, pivot-to-target and source-to-target directions.

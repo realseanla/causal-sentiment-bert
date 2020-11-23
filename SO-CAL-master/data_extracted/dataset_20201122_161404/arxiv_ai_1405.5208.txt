@@ -1,5 +1,0 @@
-Dual decomposition, and more generally Lagrangian relaxation, is a classical method for combinatorial optimization; it has recently been applied to several inference problems in natural language processing (NLP).
-This tutorial gives an overview of the technique.
-We describe example algorithms, describe formal guarantees for the method, and describe practical issues in implementing the algorithms.
-While our examples are predominantly drawn from the NLP literature, the material should be of general relevance to inference problems in machine learning.
-A central theme of this tutorial is that Lagrangian relaxation is naturally applied in conjunction with a broad class of combinatorial algorithms, allowing inference in models that go significantly beyond previous work on Lagrangian relaxation for inference in graphical models.

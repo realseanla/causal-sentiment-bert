@@ -1,5 +1,0 @@
-Neural network models have recently received heated research attention in the natural language processing community.
-Compared with traditional models with discrete features, neural models have two main advantages.
-First, they take low-dimensional, real-valued embedding vectors as inputs, which can be trained over large raw data, thereby addressing the issue of feature sparsity in discrete models.
-Second, deep neural networks can be used to automatically combine input features, and including non-local features that capture semantic patterns that cannot be expressed using discrete indicator features.
-As a result, neural network models have achieved competitive accuracies compared with the best discrete models for a range of NLP tasks.

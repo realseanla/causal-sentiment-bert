@@ -1,4 +1,0 @@
-We investigate evaluation metrics for end-to-end dialogue systems where supervised labels, such as task completion, are not available.
-Recent works in end-to-end dialogue systems have adopted metrics from machine translation and text summarization to compare a model's generated response to a single target response.
-We show that these metrics correlate very weakly or not at all with human judgements of the response quality in both technical and non-technical domains.
-We provide quantitative and qualitative results highlighting specific weaknesses in existing metrics, and provide recommendations for future development of better automatic evaluation metrics for dialogue systems.

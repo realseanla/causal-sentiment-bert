@@ -1,0 +1,6 @@
+Deep Reinforcement Learning (RL) recently emerged as one of the most competitive approaches for learning in sequential decision making problems with fully observable environments, e.g., computer Go.
+However, very little work has been done in deep RL to handle partially observable environments.
+We propose a new architecture called Action-specific Deep Recurrent Q-Network (ADRQN) to enhance learning performance in partially observable domains.
+Actions are encoded by a fully connected layer and coupled with a convolutional observation to form an action-observation pair.
+The time series of action-observation pairs are then integrated by an LSTM layer that learns latent states based on which a fully connected layer computes Q-values as in conventional Deep Q-Networks (DQNs).
+We demonstrate the effectiveness of our new architecture in several partially observable domains, including flickering Atari games.

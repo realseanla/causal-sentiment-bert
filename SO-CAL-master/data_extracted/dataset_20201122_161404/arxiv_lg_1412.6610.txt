@@ -1,8 +1,0 @@
-Auto-encoders are perhaps the best-known non-probabilistic methods for representation learning.
-They are conceptually simple and easy to train.
-Recent theoretical work has shed light on their ability to capture manifold structure, and drawn connections to density modelling.
-This has motivated researchers to seek ways of auto-encoder scoring, which has furthered their use in classification.
-Gated auto-encoders (GAEs) are an interesting and flexible extension of auto-encoders which can learn transformations among different images or pixel covariances within images.
-However, they have been much less studied, theoretically or empirically.
-In this work, we apply a dynamical systems view to GAEs, deriving a scoring function, and drawing connections to RBMs.
-On a set of deep learning benchmarks, we also demonstrate their effectiveness for single and multi-label classification.

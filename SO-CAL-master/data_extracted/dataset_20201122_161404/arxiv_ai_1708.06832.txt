@@ -1,9 +1,0 @@
-We address the problem of anytime prediction in neural networks.
-An anytime predictor automatically adjusts to and utilizes available test-time budget: it produces a crude initial result quickly and continuously refines the result afterwards.
-Traditional feed-forward networks achieve state-of-the-art performance on many machine learning tasks, but cannot produce anytime predictions during their typically expensive computation.
-In this work, we propose to add auxiliary predictions in a residual network to generate anytime predictions, and optimize these predictions simultaneously.
-We solve this multi-objective optimization by minimizing a carefully constructed weighted sum of losses.
-We also oscillate weightings of the losses in each iteration to avoid spurious solutions that are optimal for the sum but not for each individual loss.
-The proposed approach produces competitive results if computation is interrupted early, and the same level of performance as the original network once computation is finished.
-Observing that the relative performance gap between the optimal and our proposed anytime network shrinks as the network is near completion, we propose a method to combine anytime networks to achieve more accurate anytime predictions with a constant fraction of additional cost.
-We evaluate the proposed methods on real-world visual recognition data-sets to demonstrate their anytime performance.

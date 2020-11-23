@@ -1,6 +1,0 @@
-We consider the problem of community detection in the labeled Stochastic Block Model (labeled SBM) with a finite number $K$ of communities of sizes linearly growing with the network size $n$.
-Every pair of nodes is labeled independently at random, and label $\ell$ appears with probability $p(i,j,\ell)$ between two nodes in community $i$ and $j$, respectively.
-One observes a realization of these random labels, and the objective is to reconstruct the communities from this observation.
-Under mild assumptions on the parameters $p$, we show that under spectral algorithms, the number of misclassified nodes does not exceed $s$ with high probability as $n$ grows large, whenever $\bar{p}n=\omega(1)$ (where $\bar{p}=\max_{i,j,\ell\ge 1}p(i,j,\ell)$), $s=o(n)$ and $\frac{n D(p)}{ \log (n/s)} &gt;1$, where $D(p)$, referred to as the {\it divergence}, is an appropriately defined function of the parameters $p=(p(i,j,\ell), i,j, \ell)$.
-We further show that $\frac{n D(p)}{ \log (n/s)} &gt;1$ is actually necessary to obtain less than $s$ misclassified nodes asymptotically.
-This establishes the optimality of spectral algorithms, i.e., when $\bar{p}n=\omega(1)$ and $nD(p)=\omega(1)$, no algorithm can perform better in terms of expected misclassified nodes than spectral algorithms.

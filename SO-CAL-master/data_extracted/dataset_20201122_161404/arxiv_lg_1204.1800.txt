@@ -1,5 +1,0 @@
-The role of kernels is central to machine learning.
-Motivated by the importance of power law distributions in modeling, simulation and learning, in this paper, we propose a power-law generalization of the Gaussian kernel.
-This generalization is based on q-Gaussian distribution, which is a power-law distribution studied in context of nonextensive statistical mechanics.
-We prove that the proposed kernel is positive definite, and provide some insights regarding the corresponding Reproducing Kernel Hilbert Space (RKHS).
-We also study practical significance of q-Gaussian kernels in classification, regression and clustering, and present some simulation results.

@@ -1,0 +1,6 @@
+We study a theoretical model that connects deep learning to finding the ground state of the Hamiltonian of a spherical spin glass.
+Existing results motivated from statistical physics show that deep networks have a highly non-convex energy landscape with exponentially many local minima and energy barriers beyond which gradient descent algorithms cannot make progress.
+We leverage a technique known as topology trivialization where, upon perturbation by an external magnetic field, the energy landscape of the spin glass Hamiltonian changes dramatically from exponentially many local minima to "total trivialization", i.e., a constant number of local minima.
+There also exists a transitional regime with polynomially many local minima which interpolates between these extremes.
+We show that a number of regularization schemes in deep learning can benefit from this phenomenon.
+As a consequence, our analysis provides order heuristics to choose regularization parameters and motivates annealing schemes for these perturbations.

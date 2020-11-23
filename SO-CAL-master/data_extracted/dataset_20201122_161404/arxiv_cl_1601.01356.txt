@@ -1,9 +1,0 @@
-Social network platforms can archive data produced by their users and re-use the data to serve the users better.
-One of the services that these platforms provide is the recommendation service.
-Recommendation systems can predict the future preferences of the users using various different techniques.
-One of the most popular technique for recommendation is matrix-factorization, which uses low-rank approximation of input data.
-Similarly word embedding methods from natural language processing literature learn low-dimensional vector space representation of input elements.
-Noticing the similarities among word embedding and matrix factorization techniques and based on the previous works that apply techniques from text processing for recommendation, Word2Vec's skip-gram technique is employed to make recommendations.
-Unlike previous works that use Word2Vec for recommendation, non-textual features are used.
-The aim of this work is to make recommendation on next check-in venues and a Foursquare check-in dataset is used for this purpose.
-The results showed that use of vector space representations of items modelled by skip-gram technique is promising for making recommendations.

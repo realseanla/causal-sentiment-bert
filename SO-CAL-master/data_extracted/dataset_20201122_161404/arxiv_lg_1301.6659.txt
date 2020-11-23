@@ -1,7 +1,0 @@
-Recommender systems are emerging technologies that nowadays can be found in many applications such as Amazon, Netflix, and so on.
-These systems help users find relevant information, recommendations, and their preferred items.
-Matrix Factorization is a popular method in Recommendation Systems showing promising results in accuracy and complexity.
-In this paper we propose an extension of matrix factorization that uses the clustering paradigm to cluster similar users and items in several communities.
-We then establish their effects on the prediction model then.
-To the best of our knowledge, our proposed model outperforms all other published recommender methods in accuracy and complexity.
-For instance, our proposed method's accuracy is 0.8122 on the Netflix dataset which is better than the Netflix prize winner's accuracy of 0.8567.

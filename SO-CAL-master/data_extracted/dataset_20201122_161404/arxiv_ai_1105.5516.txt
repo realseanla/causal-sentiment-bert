@@ -1,8 +1,0 @@
-We present PARIS, an approach for the automatic alignment of ontologies.
-PARIS aligns not only instances, but also relations and classes.
-Alignments at the instance-level cross-fertilize with alignments at the schema-level.
-Thereby, our system provides a truly holistic solution to the problem of ontology alignment.
-The heart of the approach is probabilistic.
-This allows PARIS to run without any parameter tuning.
-We demonstrate the efficiency of the algorithm and its precision through extensive experiments.
-In particular, we obtain a precision of around 80 percent in experiments with two of the world's largest ontologies.

@@ -1,7 +1,0 @@
-Neural network models have been demon- strated to be capable of achieving remarkable performance in sentence and document mod- eling.
-Convolutional neural network (CNN) and recurrent neural network (RNN) are two mainstream architectures for such modeling tasks, which adopt totally different ways of understanding natural languages.
-In this work, we combine the strengths of both architectures and propose a novel and unified model called C-LSTM for sentence representation and text classification.
-C-LSTM utilizes CNN to ex- tract a sequence of higher-level phrase repre- sentations, and are fed into a long short-term memory recurrent neural network (LSTM) to obtain the sentence representation.
-C-LSTM is able to capture both local features of phrases as well as global and temporal sentence se- mantics.
-We evaluate the proposed archi- tecture on sentiment classification and ques- tion classification tasks.
-The experimental re- sults show that the C-LSTM outperforms both CNN and LSTM and can achieve excellent performance on these tasks.

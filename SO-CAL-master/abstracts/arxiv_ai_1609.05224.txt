@@ -1,0 +1,4 @@
+We express Brewka's prioritised default logic (PDL) as argumentation using ASPIC+.
+By representing PDL as argumentation and designing an argument preference relation that takes the argument structure into account, we prove that the conclusions of the justified arguments correspond to the PDL extensions.
+We will first assume that the default priority is total, and then generalise to the case where it is a partial order.
+This provides a characterisation of non-monotonic inference in PDL as an exchange of argument and counter-argument, providing a basis for distributed non-monotonic reasoning in the form of dialogue.

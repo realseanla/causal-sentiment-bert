@@ -1,0 +1,5 @@
+Word embeddings play a significant role in many modern NLP systems.
+However, most used word embedding learning methods learn one representation per word which is problematic for polysemous words and homonymous words.
+To address this problem, we propose a multi-phase word sense embedding retrofitting method which utilizes a lexical ontology to learn one embedding per word sense.
+We use word sense definitions and relations between word senses defined in a lexical ontology in a different way from existing systems.
+Experimental results on word similarity task show that our approach remarkablely improves the quality of embeddings.

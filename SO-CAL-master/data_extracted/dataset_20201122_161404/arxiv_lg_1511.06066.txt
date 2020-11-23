@@ -1,6 +1,0 @@
-Transfer learning is a vital technique that generalizes models trained for one setting or task to other settings or tasks.
-For example in speech recognition, an acoustic model trained for one language can be used to recognize speech in another language, with little or no re-training data.
-Transfer learning is closely related to multi-task learning (cross-lingual vs. multilingual), and is traditionally studied in the name of `model adaptation'.
-Recent advance in deep learning shows that transfer learning becomes much easier and more effective with high-level abstract features learned by deep models, and the `transfer' can be conducted not only between data distributions and data types, but also between model structures (e.g., shallow nets and deep nets) or even model types (e.g., Bayesian models and neural models).
-This review paper summarizes some recent prominent research towards this direction, particularly for speech and language processing.
-We also report some results from our group and highlight the potential of this very interesting research field.

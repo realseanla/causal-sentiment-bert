@@ -1,0 +1,6 @@
+With the rise of digital humanities research, natural language processing for historical texts is of increasing interest.
+However, directly applying standard language processing tools to historical texts often yields unsatisfactory performance, due to language change and genre differences.
+Spelling normalization is the dominant solution, but it fails to account for changes in usage and vocabulary.
+In this empirical paper, we assess the capability of do- main adaptation techniques to cope with historical texts, focusing on the classic bench- mark task of part-of-speech tagging.
+We empirically evaluate several domain adaptation methods on the task of tagging two million- word treebanks of the Penn Corpora of Historical English.
+We demonstrate that domain adaptation significantly outperforms spelling normalization when adapting modern taggers to older texts, and that domain adaptation is complementary with spelling normalization, yielding better results in combination.

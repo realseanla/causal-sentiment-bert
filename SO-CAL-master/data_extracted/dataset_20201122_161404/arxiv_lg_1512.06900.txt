@@ -1,9 +1,0 @@
-Embedding learning, a.k.a.
-representation learning, has been shown to be able to model large-scale semantic knowledge graphs.
-A key concept is a mapping of the knowledge graph to a tensor representation whose entries are predicted by models using latent representations of generalized entities.
-Knowledge graphs are typically treated as static: A knowledge graph grows more links when more facts become available but the ground truth values associated with links is considered time invariant.
-In this paper we address the issue of knowledge graphs where triple states depend on time.
-We assume that changes in the knowledge graph always arrive in form of events, in the sense that the events are the gateway to the knowledge graph.
-We train an event prediction model which uses both knowledge graph background information and information on recent events.
-By predicting future events, we also predict likely changes in the knowledge graph and thus obtain a model for the evolution of the knowledge graph as well.
-Our experiments demonstrate that our approach performs well in a clinical application, a recommendation engine and a sensor network application.

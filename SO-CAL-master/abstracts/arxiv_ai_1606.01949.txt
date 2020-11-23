@@ -1,0 +1,7 @@
+Demand response provides utilities with a mechanism to share with end users the stochasticity resulting from the use of renewable sources.
+Pricing is accordingly used to reflect energy availability, to allocate such a limited resource to those loads that value it most.
+However, the strictly competitive mechanism can result in service interruption in presence of competing demand.
+To solve this issue we investigate on the use of forward contracts, i.e., service level agreements priced to reflect the expectation of future supply and demand curves.
+Given the limited resources of microgrids, service interruption is an opposite objective to the one of service availability.
+We firstly design policy-based brokers and identify then a learning broker based on artificial neural networks.
+We show the latter being progressively minimizing the reimbursement costs and maximizing the overall profit.

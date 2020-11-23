@@ -1,7 +1,0 @@
-We propose the PeerRank method for peer assessment.
-This constructs a grade for an agent based on the grades proposed by the agents evaluating the agent.
-Since the grade of an agent is a measure of their ability to grade correctly, the PeerRank method weights grades by the grades of the grading agent.
-The PeerRank method also provides an incentive for agents to grade correctly.
-As the grades of an agent depend on the grades of the grading agents, and as these grades themselves depend on the grades of other agents, we define the PeerRank method by a fixed point equation similar to the PageRank method for ranking web-pages.
-We identify some formal properties of the PeerRank method (for example, it satisfies axioms of unanimity, no dummy, no discrimination and symmetry), discuss some examples, compare with related work and evaluate the performance on some synthetic data.
-Our results show considerable promise, reducing the error in grade predictions by a factor of 2 or more in many cases over the natural baseline of averaging peer grades.

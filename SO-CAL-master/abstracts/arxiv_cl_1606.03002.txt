@@ -1,0 +1,6 @@
+Recurrent neural networks such as the GRU and LSTM found wide adoption in natural language processing and achieve state-of-the-art results for many tasks.
+These models are characterized by a memory state that can be written to and read from by applying gated composition operations to the current input and the previous state.
+However, they only cover a small subset of potentially useful compositions.
+We propose Multi-Function Recurrent Units (MuFuRUs) that allow for arbitrary differentiable functions as composition operations.
+Furthermore, MuFuRUs allow for an input- and state-dependent choice of these composition operations that is learned.
+Our experiments demonstrate that the additional functionality helps in different sequence modeling tasks, including the evaluation of propositional logic formulae, language modeling and sentiment analysis.

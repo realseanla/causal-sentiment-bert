@@ -1,4 +1,0 @@
-In this paper, we propose a simple, fast decoding algorithm that fosters diversity in neural generation.
-The algorithm modifies the standard beam search algorithm by adding an inter-sibling ranking penalty, favoring choosing hypotheses from diverse parents.
-We evaluate the proposed model on the tasks of dialogue response generation, abstractive summarization and machine translation.
-We find that diverse decoding helps across all tasks, especially those for which reranking is needed.

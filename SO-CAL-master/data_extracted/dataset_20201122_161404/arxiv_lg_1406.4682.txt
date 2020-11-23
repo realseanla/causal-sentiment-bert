@@ -1,5 +1,0 @@
-Latent variable conditional models, including the latent conditional random fields as a special case, are popular models for many natural language processing and vision processing tasks.
-The computational complexity of the exact decoding/inference in latent conditional random fields is unclear.
-In this paper, we try to clarify the computational complexity of the exact decoding.
-We analyze the complexity and demonstrate that it is an NP-hard problem even on a sequential labeling setting.
-Furthermore, we propose the latent-dynamic inference (LDI-Naive) method and its bounded version (LDI-Bounded), which are able to perform exact-inference or almost-exact-inference by using top-$n$ search and dynamic programming.

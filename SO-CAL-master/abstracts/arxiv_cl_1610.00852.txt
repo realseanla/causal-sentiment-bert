@@ -1,0 +1,4 @@
+The evolution of the internet has created an abundance of unstructured data on the web, a significant part of which is textual.
+The task of author profiling seeks to find the demographics of people solely from their linguistic and content-based features in text.
+The ability to describe traits of authors clearly has applications in fields such as security and forensics, as well as marketing.
+Instead of seeing age as just a classification problem, we also frame age as a regression one, but use an ensemble chain method that incorporates the power of both classification and regression to learn the authors exact age.

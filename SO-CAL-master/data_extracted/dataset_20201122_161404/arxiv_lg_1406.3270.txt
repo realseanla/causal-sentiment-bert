@@ -1,7 +1,0 @@
-Because reinforcement learning suffers from a lack of scalability, online value (and Q-) function approximation has received increasing interest this last decade.
-This contribution introduces a novel approximation scheme, namely the Kalman Temporal Differences (KTD) framework, that exhibits the following features: sample-efficiency, non-linear approximation, non-stationarity handling and uncertainty management.
-A first KTD-based algorithm is provided for deterministic Markov Decision Processes (MDP) which produces biased estimates in the case of stochastic transitions.
-Than the eXtended KTD framework (XKTD), solving stochastic MDP, is described.
-Convergence is analyzed for special cases for both deterministic and stochastic transitions.
-Related algorithms are experimented on classical benchmarks.
-They compare favorably to the state of the art while exhibiting the announced features.

@@ -1,5 +1,0 @@
-We present two related methods for creating MasterPrints, synthetic fingerprints that a fingerprint verification system identifies as many different people.
-Both methods start with training a Generative Adversarial Network (GAN) on a set of real fingerprint images.
-The generator network is then used to search for images that can be recognized as multiple individuals.
-The first method uses evolutionary optimization in the space of latent variables, and the second uses gradient-based search.
-Our method is able to design a MasterPrint that a commercial fingerprint system matches to 22 percent of all users in a strict security setting, and 75 percent of all users at a looser security setting.

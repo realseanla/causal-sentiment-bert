@@ -1,8 +1,0 @@
-This paper focuses on two key problems for audio-visual emotion recognition in the video.
-One is the audio and visual streams temporal alignment for feature level fusion.
-The other one is locating and re-weighting the perception attentions in the whole audio-visual stream for better recognition.
-The Long Short Term Memory Recurrent Neural Network (LSTM-RNN) is employed as the main classification architecture.
-Firstly, soft attention mechanism aligns the audio and visual streams.
-Secondly, seven emotion embedding vectors, which are corresponding to each classification emotion type, are added to locate the perception attentions.
-The locating and re-weighting process is also based on the soft attention mechanism.
-The experiment results on EmotiW2015 dataset and the qualitative analysis show the efficiency of the proposed two techniques.

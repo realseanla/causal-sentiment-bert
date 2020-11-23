@@ -1,7 +1,0 @@
-Social Internet content plays an increasingly critical role in many domains, including public health, disaster management, and politics.
-However, its utility is sharply limited by lack of geographic information; for example, fewer than 1.6 percent of Twitter messages (tweets) contain a geotag.
-We propose a scalable, content-based approach to estimate the location of tweets using a novel yet simple variant of gaussian mixture models tuned for this task.
-Further, given that real-world applications depend on quantified uncertainty of such estimates, we propose novel metrics of accuracy, precision, and calibration, and we evaluate our approach accordingly.
-Experiments on 13 million global, comprehensively multi-lingual tweets show that our approach yields reliable, well-calibrated results competitive with previous computationally intensive methods.
-Our results also show that a relatively small number of training data are required for good estimates (roughly 30,000 tweets), and trained models are quite time-invariant (effective on tweets many weeks newer than the training set).
-Finally, we offer an analysis of which types of content provide the most useful location signals.

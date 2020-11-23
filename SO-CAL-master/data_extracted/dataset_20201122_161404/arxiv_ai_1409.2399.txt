@@ -1,5 +1,0 @@
-An important capability of autonomous multi-robot systems is to prevent collision among the individual robots.
-One approach to this problem is to plan conflict-free trajectories and let each of the robots follow its pre-planned trajectory.
-A widely used practical method for multi-robot trajectory planning is prioritized planning, which has been shown to be effective in practice, but is in general incomplete.
-Formal analysis of instances that are provably solvable by prioritized planning is still missing.
-Moreover, prioritized planning is a centralized algorithm, which may be in many situations undesirable.

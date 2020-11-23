@@ -1,0 +1,7 @@
+We study abduction in First Order Horn logic theories where all atoms can be abduced and we are looking for prefered solutions with respect to objective functions cardinality minimality, Coherence, or Weighted Abduction.
+We represent this reasoning problem in Answer Set Programming (ASP), in order to obtain a flexible framework for experimenting with global constraints and objective functions, and to test the boundaries of what is possible with ASP, because realizing this problem in ASP is challenging as it requires value invention and equivalence between certain constants as the Unique Names Assumption does not hold in general.
+For permitting reasoning in cyclic theories, we formally describe fine-grained variations of limiting Skolemization.
+We evaluate our encodings and extensions experimentally on the ACCEL benchmark for plan recognition in Natural Language Understanding.
+Our encodings are publicly available, modular, and our approach is more efficient than state-of-the-art solvers on the ACCEL benchmark.
+We identify term equivalence as a main instantiation bottleneck, and experiment with on-demand constraints that were used to eliminate the same bottleneck in state-of-the-art solvers and make them applicable for larger datasets.
+Surprisingly, experiments show that this method is beneficial only for cardinality minimality with our ASP encodings.

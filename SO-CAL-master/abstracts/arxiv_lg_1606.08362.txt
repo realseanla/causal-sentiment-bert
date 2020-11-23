@@ -1,0 +1,2 @@
+A function $f: \mathbb{Z}_+^E \rightarrow \mathbb{R}_+$ is DR-submodular if it satisfies $f(\bx + \chi_i) -f (\bx) \ge f(\by + \chi_i) - f(\by)$ for all $\bx\le \by, i\in E$.
+Recently, the problem of maximizing a DR-submodular function $f: \mathbb{Z}_+^E \rightarrow \mathbb{R}_+$ subject to a budget constraint $\|\bx\|_1 \leq B$ as well as additional constraints has received significant attention .

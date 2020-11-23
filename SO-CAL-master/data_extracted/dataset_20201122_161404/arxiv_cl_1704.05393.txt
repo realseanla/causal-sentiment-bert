@@ -1,6 +1,0 @@
-In this paper, we propose a novel approach for aggregating online reviews, according to the opinions they express.
-Our methodology is unsupervised - due to the fact that it does not rely on pre-labeled reviews - and it is agnostic - since it does not make any assumption about the domain or the language of the review content.
-We measure the adherence of a review content to the domain terminology extracted from a review set.
-First, we demonstrate the informativeness of the adherence metric with respect to the score associated with a review.
-Then, we exploit the metric values to group reviews, according to the opinions they express.
-Our experimental campaign has been carried out on two large datasets collected from Booking and Amazon, respectively.

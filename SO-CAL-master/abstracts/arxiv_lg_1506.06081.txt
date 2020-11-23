@@ -1,0 +1,2 @@
+We propose a simple, scalable, and fast gradient descent algorithm to optimize a nonconvex objective for the rank minimization problem and a closely related family of semidefinite programs.
+With $O(r^2 \kappa^2 n \log n)$ random measurements of a positive semidefinite $n \times n$ matrix of rank $r$ and condition number $\kappa$, our method is guaranteed to converge linearly to the global optimum.

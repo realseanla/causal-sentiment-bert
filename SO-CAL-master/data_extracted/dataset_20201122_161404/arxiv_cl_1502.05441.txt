@@ -1,9 +1,0 @@
-This paper investigates the problem that some Arabic names can be written in multiple ways.
-When someone searches for only one form of a name, neither exact nor approximate matching is appropriate for returning the multiple variants of the name.
-Exact matching requires the user to enter all forms of the name for the search, and approximate matching yields names not among the variations of the one being sought.
-In this paper, we attempt to solve the problem with a dictionary of all Arabic names mapped to their different (alternative) writing forms.
-We generated alternatives based on rules we derived from reviewing the first names of 9.9 million citizens and former citizens of Jordan.
-This dictionary can be used for both standardizing the written form when inserting a new name into a database and for searching for the name and all its alternative written forms.
-Creating the dictionary automatically based on rules resulted in at least 7 percent erroneous acceptance errors and 7.9 percent erroneous rejection errors.
-We addressed the errors by manually editing the dictionary.
-The dictionary can be of help to real world-databases, with the qualification that manual editing does not guarantee 100 percent correctness.

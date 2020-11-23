@@ -1,6 +1,0 @@
-Even though, many researchers tried to explore the various possibilities on multi objective feature selection, still it is yet to be explored with best of its capabilities in data mining applications rather than going for developing new ones.
-In this paper, multi-objective evolutionary algorithm ENORA is used to select the features in a multi-class classification problem.
-The fusion of AnDE (averaged n-dependence estimators) with n=1, a variant of naive Bayes with efficient feature selection by ENORA is performed in order to obtain a fast hybrid classifier which can effectively learn from big data.
-This method aims at solving the problem of finding optimal feature subset from full data which at present still remains to be a difficult problem.
-The efficacy of the obtained classifier is extensively evaluated with a range of most popular 21 real world dataset, ranging from small to big.
-The results obtained are encouraging in terms of time, Root mean square error, zero-one loss and classification accuracy.

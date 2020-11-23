@@ -1,7 +1,0 @@
-This work presents novel algorithms for learning Bayesian network structures with bounded treewidth.
-Both exact and approximate methods are developed.
-The exact method combines mixed-integer linear programming formulations for structure learning and treewidth computation.
-The approximate method consists in uniformly sampling $k$-trees (maximal graphs of treewidth $k$), and subsequently selecting, exactly or approximately, the best structure whose moral graph is a subgraph of that $k$-tree.
-Some properties of these methods are discussed and proven.
-The approaches are empirically compared to each other and to a state-of-the-art method for learning bounded treewidth structures on a collection of public data sets with up to 100 variables.
-The experiments show that our exact algorithm outperforms the state of the art, and that the approximate approach is fairly accurate.

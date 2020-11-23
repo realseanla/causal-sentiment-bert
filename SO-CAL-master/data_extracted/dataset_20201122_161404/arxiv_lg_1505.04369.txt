@@ -1,3 +1,0 @@
-Re-scale boosting (RBoosting) is a variant of boosting which can essentially improve the generalization performance of boosting learning.
-The key feature of RBoosting lies in introducing a shrinkage degree to re-scale the ensemble estimate in each gradient-descent step.
-Thus, the shrinkage degree determines the performance of RBoosting.

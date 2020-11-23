@@ -1,4 +1,0 @@
-Users who need several queries before finding what they need can benefit from an automatic search assistant that provides feedback on their query modification strategies.
-We present a method to learn from a search log which types of query modifications have and have not been effective in the past.
-The method analyses query modifications along two dimensions: a traditional term-based dimension and a semantic dimension, for which queries are enriches with linked data entities.
-Applying the method to the search logs of two search engines, we identify six opportunities for a query modification assistant to improve search: modification strategies that are commonly used, but that often do not lead to satisfactory results.

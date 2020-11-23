@@ -1,0 +1,6 @@
+Observable operator models (OOMs) and related models are one of the most important and powerful tools for modeling and analyzing stochastic systems.
+They can exactly describe dynamics of finite-rank systems, and be efficiently learned from data by moment based algorithms.
+Almost all OOM learning algorithms are developed based on the assumption of equilibrium data which is very difficult to guarantee in real life, especially for complex processes with large time scales.
+In this paper, we derive a nonequilibrium learning algorithm for OOMs, which dismisses this assumption and can effectively extract the equilibrium dynamics of a system from nonequilibrium observation data.
+In addition, we propose binless OOMs for the application of nonequilibrium learning to continuous-valued systems.
+In comparison with the other OOMs with continuous observations, binless OOMs can achieve consistent estimation from nonequilibrium data with only linear computational complexity.

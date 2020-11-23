@@ -1,0 +1,8 @@
+The steadily growing use of license-free frequency bands requires reliable coexistence management for deterministic medium utilization.
+For interference mitigation, proper wireless interference identification (WII) is essential.
+In this work we propose the first WII approach based upon deep convolutional neural networks (CNNs).
+The CNN naively learns its features through self-optimization during an extensive data-driven GPU-based training process.
+We propose a CNN example which is based upon sensing snapshots with a limited duration of 12.8 {\mu}s and an acquisition bandwidth of 10 MHz.
+The CNN differs between 15 classes.
+They represent packet transmissions of IEEE 802.11 b/g, IEEE 802.15.4 and IEEE 802.15.1 with overlapping frequency channels within the 2.4 GHz ISM band.
+We show that the CNN outperforms state-of-the-art WII approaches and has a classification accuracy greater than 95 percent for signal-to-noise ratio of at least -5 dB.

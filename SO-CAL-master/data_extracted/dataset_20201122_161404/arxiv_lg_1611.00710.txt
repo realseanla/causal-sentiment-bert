@@ -1,5 +1,0 @@
-Despite their advantages in terms of computational resources, latency, and power consumption, event-based implementations of neural networks have not been able to achieve the same performance figures as their equivalent state-of-the-art deep network models.
-We propose counter neurons as minimal spiking neuron models which only require addition and comparison operations, thus avoiding costly multiplications.
-We show how inference carried out in deep counter networks converges to the same accuracy levels as are achieved with state-of-the-art conventional networks.
-As their event-based style of computation leads to reduced latency and sparse updates, counter networks are ideally suited for efficient compact and low-power hardware implementation.
-We present theory and training methods for counter networks, and demonstrate on the MNIST benchmark that counter networks converge quickly, both in terms of time and number of operations required, to state-of-the-art classification accuracy.

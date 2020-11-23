@@ -1,6 +1,0 @@
-The normalized edit distance is one of the distances derived from the edit distance.
-It is useful in some applications because it takes into account the lengths of the two strings compared.
-The normalized edit distance is not defined in terms of edit operations but rather in terms of the edit path.
-In this paper we propose a new derivative of the edit distance that also takes into consideration the lengths of the two strings, but the new distance is related directly to the edit distance.
-The particularity of the new distance is that it uses the genetic algorithms to set the values of the parameters it uses.
-We conduct experiments to test the new distance and we obtain promising results.

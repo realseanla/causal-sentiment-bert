@@ -1,0 +1,4 @@
+In recent years, Deep Learning (DL) has found great success in domains such as multimedia understanding.
+However, the complex nature of multimedia data makes it difficult to develop DL-based software.
+The state-of-the art tools, such as Caffe, TensorFlow, Torch7, and CNTK, while are successful in their applicable domains, are programming libraries with fixed user interface, internal representation, and execution environment.
+This makes it difficult to implement portable and customized DL applications.

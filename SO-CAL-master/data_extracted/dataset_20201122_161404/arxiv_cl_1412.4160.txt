@@ -1,6 +1,0 @@
-Recent years have witnessed a new trend on building ontology-based question answering systems, that is to use semantic web information to provide more precise answers to users' queries.
-However, these systems are mostly designed for English, therefore, we introduce in this paper such a system for Vietnamese, that is, to the best of our knowledge, the first one made for Vietnamese.
-Different from most of previous works, we propose an approach that systematically builds a knowledge base of grammar rules for processing each input question into an intermediate representation element.
-Then we take this element with respect to a target ontology by applying concept-matching techniques for returning an answer.
-Experimental results show that the performance of the system on a wide range of Vietnamese questions is promising with accuracies of 84.1 percent and 82.4 percent for analyzing question and retrieving answer, respectively.
-Furthermore, our approach to the question analysis can easily be applied to new domains and new languages, thus saving time and human effort.

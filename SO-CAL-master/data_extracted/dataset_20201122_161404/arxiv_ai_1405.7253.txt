@@ -1,7 +1,0 @@
-We consider planning with uncertainty in the initial state as a case study of incremental quantified Boolean formula (QBF) solving.
-We report on experiments with a workflow to incrementally encode a planning instance into a sequence of QBFs.
-To solve this sequence of incrementally constructed QBFs, we use our general-purpose incremental QBF solver DepQBF.
-Since the generated QBFs have many clauses and variables in common, our approach avoids redundancy both in the encoding phase and in the solving phase.
-Experimental results show that incremental QBF solving outperforms non-incremental QBF solving.
-Our results are the first empirical study of incremental QBF solving in the context of planning.
-Based on our case study, we argue that incremental QBF solving also has the potential to improve QBF-based workflows in other application domains.

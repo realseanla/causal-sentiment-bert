@@ -1,7 +1,0 @@
-The study of representations invariant to common transformations of the data is important to learning.
-Most techniques have focused on local approximate invariance implemented within expensive optimization frameworks lacking explicit theoretical guarantees.
-In this paper, we study kernels that are invariant to the unitary group while having theoretical guarantees in addressing practical issues such as (1) unavailability of transformed versions of labelled data and (2) not observing all transformations.
-We present a theoretically motivated alternate approach to the invariant kernel SVM.
-Unlike previous approaches to the invariant SVM, the proposed formulation solves both issues mentioned.
-We also present a kernel extension of a recent technique to extract linear unitary-group invariant features addressing both issues and extend some guarantees regarding invariance and stability.
-We present experiments on the UCI ML datasets to illustrate and validate our methods.

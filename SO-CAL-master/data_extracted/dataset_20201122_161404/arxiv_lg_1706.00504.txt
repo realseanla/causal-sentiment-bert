@@ -1,4 +1,0 @@
-Stripes is a Deep Neural Network (DNN) accelerator that uses bit-serial computation to offer performance that is proportional to the fixed-point precision of the activation values.
-The fixed-point precisions are determined a priori using profiling and are selected at a per layer granularity.
-This paper presents Dynamic Stripes, an extension to Stripes that detects precision variance at runtime and at a finer granularity.
-This extra level of precision reduction increases performance by 41 percent over Stripes.

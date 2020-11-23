@@ -1,0 +1,3 @@
+We investigate the task of assessing sentence-level prompt relevance in learner essays.
+Various systems using word overlap, neural embeddings and neural compositional models are evaluated on two datasets of learner writing.
+We propose a new method for sentence-level similarity calculation, which learns to adjust the weights of pre-trained word embeddings for a specific task, achieving substantially higher accuracy compared to other relevant baselines.

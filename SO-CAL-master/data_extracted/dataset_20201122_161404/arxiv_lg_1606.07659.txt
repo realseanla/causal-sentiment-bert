@@ -1,4 +1,0 @@
-A standard model for Recommender Systems is the Matrix Completion setting: given partially known matrix of ratings given by users (rows) to items (columns), infer the unknown ratings.
-In the last decades, few attempts where done to handle that objective with Neural Networks, but recently an architecture based on Autoencoders proved to be a promising approach.
-In current paper, we enhanced that architecture (i) by using a loss function adapted to input data with missing values, and (ii) by incorporating side information.
-The experiments demonstrate that while side information only slightly improve the test error averaged on all users/items, it has more impact on cold users/items.

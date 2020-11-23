@@ -1,5 +1,0 @@
-This paper presents an approach for transforming data granularity in hierarchical databases for binary decision problems by applying regression to categorical attributes at the lower grain levels.
-Attributes from a lower hierarchy entity in the relational database have their information content optimized through regression on the categories histogram trained on a small exclusive labelled sample, instead of the usual mode category of the distribution.
-The paper validates the approach on a binary decision task for assessing the quality of secondary schools focusing on how logistic regression transforms the students and teachers attributes into school attributes.
-Experiments were carried out on Brazilian schools public datasets via 10-fold cross-validation comparison of the ranking score produced also by logistic regression.
-The proposed approach achieved higher performance than the usual distribution mode transformation and equal to the expert weighing approach measured by the maximum Kolmogorov-Smirnov distance and the area under the ROC curve at 0.01 significance level.

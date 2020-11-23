@@ -1,8 +1,0 @@
-In modern machine learning, pattern recognition replaces realtime semantic reasoning.
-The mapping from input to output is learned with fixed semantics by training outcomes deliberately.
-This is an expensive and static approach which depends heavily on the availability of a very particular kind of prior raining data to make inferences in a single step.
-Conventional semantic network approaches, on the other hand, base multi-step reasoning on modal logics and handcrafted ontologies, which are {\em ad hoc}, expensive to construct, and fragile to inconsistency.
-Both approaches may be enhanced by a hybrid approach, which completely separates reasoning from pattern recognition.
-In this report, a quasi-linguistic approach to knowledge representation is discussed, motivated by spacetime structure.
-Tokenized patterns from diverse sources are integrated to build a lightly constrained and approximately scale-free network.
-This is then be parsed with very simple recursive algorithms to generate `brainstorming' sets of reasoned knowledge.

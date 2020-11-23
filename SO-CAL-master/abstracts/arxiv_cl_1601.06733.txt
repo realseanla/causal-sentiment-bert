@@ -1,0 +1,4 @@
+Teaching machines to process text with psycholinguistics insights is a challenging task.
+We propose an attentive machine reader that reads text from left to right, whilst linking the word at the current fixation point to previous words stored in the memory as a kind of implicit information parsing to facilitate understanding.
+The reader is equipped with a Long Short-Term Memory architecture, which, different from previous work, has a memory tape (instead of a memory cell) to store the past information and adaptively use them without severe information compression.
+We demonstrate the excellent performance of the machine reader in language modeling as well as the downstream sentiment analysis and natural language inference.

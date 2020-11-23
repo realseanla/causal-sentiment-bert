@@ -1,0 +1,6 @@
+In Constraint Programming, global constraints allow to model and solve many combinatorial problems.
+Among these constraints, several sortedness constraints have been defined, for which propagation algorithms are available, but for which the tractability is not settled.
+We show that the sort(U,V) constraint (Older et.
+al, 1995) is intractable for integer variables whose domains are not limited to intervals.
+As a consequence, the similar result holds for the sort(U,V, P) constraint (Zhou, 1996).
+Moreover, the intractability holds even under the stability condition present in the recently introduced keysorting(U,V,Keys,P) constraint (Carlsson et al., 2014), and requiring that the order of the variables with the same value in the list U be preserved in the list V. Therefore, keysorting(U,V,Keys,P) is intractable as well.

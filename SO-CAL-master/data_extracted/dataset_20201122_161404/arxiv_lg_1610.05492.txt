@@ -1,6 +1,0 @@
-Federated Learning is a machine learning setting where the goal is to train a high-quality centralized model with training data distributed over a large number of clients each with unreliable and relatively slow network connections.
-We consider learning algorithms for this setting where on each round, each client independently computes an update to the current model based on its local data, and communicates this update to a central server, where the client-side updates are aggregated to compute a new global model.
-The typical clients in this setting are mobile phones, and communication efficiency is of utmost importance.
-In this paper, we propose two ways to reduce the uplink communication costs.
-The proposed methods are evaluated on the application of training a deep neural network to perform image classification.
-Our best approach reduces the upload communication required to train a reasonable model by two orders of magnitude.

@@ -1,0 +1,6 @@
+Shannon's information entropy measures of the uncertainty of an event's outcome.
+If learning about a system reflects a decrease in uncertainty, then a plausible intuition is that learning should be accompanied by a decrease in the entropy of the organism's actions and/or perceptual states.
+To address whether this intuition is valid, I examined an artificial organism -- a simple robot -- that learned to navigate in an arena and analyzed the entropy of the outcome variables action, state, and reward.
+Entropy did indeed decrease in the initial stages of learning, but two factors complicated the scenario: (1) the introduction of new options discovered during the learning process and (2) the shifting patterns of perceptual and environmental states resulting from changes to the robot's learned movement strategies.
+These factors lead to a subsequent increase in entropy as the agent learned.
+I end with a discussion of the utility of information-based characterizations of learning.

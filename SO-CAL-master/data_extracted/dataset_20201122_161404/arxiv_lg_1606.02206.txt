@@ -1,6 +1,0 @@
-Given a task of predicting $Y$ from $X$, a loss function $L$, and a set of probability distributions $\Gamma$, what is the optimal decision rule minimizing the worst-case expected loss over $\Gamma$?
-In this paper, we address this question by introducing a generalization of the principle of maximum entropy.
-Applying this principle to sets of distributions with a proposed structure, we develop a general minimax approach for supervised learning problems, that reduces to the maximum likelihood problem over generalized linear models.
-Through this framework, we develop two classification algorithms called the minimax SVM and the minimax Brier classifier.
-The minimax SVM, which is a relaxed version of the standard SVM, minimizes the worst-case 0-1 loss over the structured set of distribution, and by our numerical experiments can outperform the SVM.
-We also explore the application of the developed framework in robust feature selection.

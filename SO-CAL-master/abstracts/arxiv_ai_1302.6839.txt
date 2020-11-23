@@ -1,0 +1,6 @@
+We present several techniques for knowledge engineering of large belief networks (BNs) based on the our experiences with a network derived from a large medical knowledge base.
+The noisyMAX, a generalization of the noisy-OR gate, is used to model causal in dependence in a BN with multi-valued variables.
+We describe the use of leak probabilities to enforce the closed-world assumption in our model.
+We present Netview, a visualization tool based on causal independence and the use of leak probabilities.
+The Netview software allows knowledge engineers to dynamically view sub-networks for knowledge engineering, and it provides version control for editing a BN.
+Netview generates sub-networks in which leak probabilities are dynamically updated to reflect the missing portions of the network.

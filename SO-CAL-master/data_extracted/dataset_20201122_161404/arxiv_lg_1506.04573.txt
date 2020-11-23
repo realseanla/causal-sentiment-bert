@@ -1,5 +1,0 @@
-We study the issue of domain adaptation: we want to adapt a model from a source distribution to a target one.
-We focus on models expressed as a majority vote.
-Our main contribution is a novel theoretical analysis of the target risk that is formulated as an upper bound expressing a trade-off between only two terms: (i) the voters' joint errors on the source distribution, and (ii) the voters' disagreement on the target one; both easily estimable from samples.
-Hence, this new study is more precise than other analyses that usually rely on three terms (including a hardly controllable term).
-Moreover, we derive a PAC-Bayesian generalization bound, and specialize the result to linear classifiers to propose a learning algorithm.

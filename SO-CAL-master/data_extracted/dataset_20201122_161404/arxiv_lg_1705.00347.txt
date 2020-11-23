@@ -1,5 +1,0 @@
-Learning from large datasets has been a challenge irrespective of the Machine Learning approach used.
-Twin Support Vector Machines (TWSVMs) have proved to be an efficient alternative to Support Vector Machine (SVM) for learning from imbalanced datasets.
-However, the TWSVM is unsuitable for large datasets due to the matrix inversion operations required.
-In this paper, we discuss a Twin Neural Network for learning from large datasets that are unbalanced, while optimizing the feature map at the same time.
-Our results clearly demonstrate the generalization ability and scalability obtained by the Twin Neural Network on large unbalanced datasets.

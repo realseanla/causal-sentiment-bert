@@ -1,4 +1,0 @@
-Homogeneous unstructured data (HUD) are collections of unstructured documents that share common properties, such as similar layout, common file format, or common domain of values.
-Building on such properties, it would be desirable to automatically process HUD to access the main information through a semantic layer -- typically an ontology -- called semantic view.
-Hence, we propose an ontology-based approach for extracting semantically rich information from HUD, by integrating and extending recent technologies and results from the fields of classical information extraction, table recognition, ontologies, text annotation, and logic programming.
-Moreover, we design and implement a system, named KnowRex, that has been successfully applied to curriculum vitae in the Europass style to offer a semantic view of them, and be able, for example, to select those which exhibit required skills.

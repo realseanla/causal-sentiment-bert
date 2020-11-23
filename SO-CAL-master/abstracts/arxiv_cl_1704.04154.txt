@@ -1,0 +1,5 @@
+In this paper, we use the framework of neural machine translation to learn joint sentence representations across different languages.
+Our hope is that a representation which is independent of the language a sentence is written in, is likely to capture the underlying semantics.
+We search and compare more than 1.4M sentence representations in three different languages and study the characteristics of close sentences.
+We provide experimental evidence that sentences that are close in embedding space are indeed semantically highly related, but often have quite different structure and syntax.
+These relations also hold when comparing sentences in different languages.

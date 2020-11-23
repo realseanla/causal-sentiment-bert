@@ -1,0 +1,5 @@
+In this paper we introduce Refractor Importance Sampling (RIS), an improvement to reduce error variance in Bayesian network importance sampling propagation under evidential reasoning.
+We prove the existence of a collection of importance functions that are close to the optimal importance function under evidential reasoning.
+Based on this theoretic result we derive the RIS algorithm.
+RIS approaches the optimal importance function by applying localized arc changes to minimize the divergence between the evidence-adjusted importance function and the optimal importance function.
+The validity and performance of RIS is empirically tested with a large setof synthetic Bayesian networks and two real-world networks.

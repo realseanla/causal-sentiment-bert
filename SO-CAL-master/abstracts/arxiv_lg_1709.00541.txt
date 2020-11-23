@@ -1,0 +1,10 @@
+Words in some natural languages can have a composite structure.
+Elements of this structure include the root (that could also be composite), prefixes and suffixes with which various nuances and relations to other words can be expressed.
+Thus, in order to build a proper word representation one must take into account its internal structure.
+From a corpus of texts we extract a set of frequent subwords and from the latter set we select patterns, i.e.
+subwords which encapsulate information on character $n$-gram regularities.
+The selection is made using the pattern-based Conditional Random Field model with $l_1$ regularization.
+Further, for every word we construct a new sequence over an alphabet of patterns.
+The new alphabet's symbols confine a local statistical context stronger than the characters, therefore they allow better representations in ${\mathbb{R}}^n$ and are better building blocks for word representation.
+In the task of subword-aware language modeling, pattern-based models outperform character-based analogues by 2-20 perplexity points.
+Also, a recurrent neural network in which a word is represented as a sum of embeddings of its patterns is on par with a competitive and significantly more sophisticated character-based convolutional architecture.

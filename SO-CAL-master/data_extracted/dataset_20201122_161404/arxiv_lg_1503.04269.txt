@@ -1,6 +1,0 @@
-In this paper we introduce the idea of improving the performance of parametric temporal-difference (TD) learning algorithms by selectively emphasizing or de-emphasizing their updates on different time steps.
-In particular, we show that varying the emphasis of linear TD($\lambda$)'s updates in a particular way causes its expected update to become stable under off-policy training.
-The only prior model-free TD methods to achieve this with per-step computation linear in the number of function approximation parameters are the gradient-TD family of methods including TDC, GTD($\lambda$), and GQ($\lambda$).
-Compared to these methods, our _emphatic TD($\lambda$)_ is simpler and easier to use; it has only one learned parameter vector and one step-size parameter.
-On the other hand, the range of problems for which it is stable but does not converge with probability one is larger than for gradient-TD methods.
-Our treatment includes general state-dependent discounting and bootstrapping functions, and a way of specifying varying degrees of interest in accurately valuing different states.

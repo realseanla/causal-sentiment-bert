@@ -1,0 +1,7 @@
+This paper addresses the task of set prediction using deep learning.
+This is important because the output of many computer vision tasks, including image tagging and object detection, are naturally expressed as sets of entities rather than vectors.
+As opposed to a vector, the size of a set is not fixed in advance, and it is invariant to the ordering of entities within it.
+We define a likelihood for a set distribution and learn its parameters using a deep neural network.
+We also derive a loss for predicting a discrete distribution corresponding to set cardinality.
+Set prediction is demonstrated on the problems of multi-class image classification and pedestrian detection.
+Our approach yields state-of-the-art results in both cases on standard datasets.

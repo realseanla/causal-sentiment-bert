@@ -1,0 +1,4 @@
+Encoder-decoder networks are popular for probabilistic modeling sequences in many applications.
+These models use the power of the Long Short-Term Memory (LSTM) architecture to capture the full dependence among variables and are not subject to label bias of locally conditioned models that assume partial conditional independence.
+However in practice they exhibit a bias towards short sequences even when using a beam search to find the optimal sequence.
+Surprisingly, sometimes there is even a decline in accuracy with increasing the beam size.

@@ -1,6 +1,0 @@
-In this paper we present a new way of semi-supervised representation learning.
-The algorithm is based on assigning class probabilities to unlabeled data.
-The approach will use Hilber-Schmidt Independence Criterion (HSIC) to find a mapping which takes the data to a lower dimensional space.
-We call this algorithm SSRL-PL.
-Use of unlabeled data for learning is not always beneficial and there is no algorithm which deterministically guarantee the improvement of the performance by using unlabeled data.
-Therefore, we also propose a bound on the performance of the algorithm which can be used to determine the effectiveness of using the structure of unlabeled data in the algorithm.

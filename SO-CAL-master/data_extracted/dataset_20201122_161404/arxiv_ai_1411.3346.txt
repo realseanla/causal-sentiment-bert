@@ -1,5 +1,0 @@
-This paper develops the idea of membership function assignment for OWL (Web Ontology Language) ontology elements in order to subsequently generate fuzzy rules from this ontology.
-The task of membership function assignment for OWL ontology elements had already been partially described, but this concerned the case, when several OWL ontologies of the same domain were available, and they were merged into a single ontology.
-The purpose of this paper is to present the way of membership function assignment for OWL ontology elements in the case, when there is the only one available ontology.
-Fuzzy rules, generated from the OWL ontology, are necessary for supplement of the SWES (Semantic Web Expert System) knowledge base.
-SWES is an expert system, which will be able to extract knowledge from OWL ontologies, found in the Web, and will serve as a universal expert for the user.

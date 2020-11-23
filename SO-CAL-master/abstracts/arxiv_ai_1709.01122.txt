@@ -1,0 +1,4 @@
+Probabilistic Inference Modulo Theories (PIMT) is a recent framework that expands exact inference on graphical models to use richer languages that include arithmetic, equalities, and inequalities on both integers and real numbers.
+In this paper, we expand PIMT to a lifted version that also processes random functions and relations.
+This enhancement is achieved by adapting Inversion, a method from Lifted First-Order Probabilistic Inference literature, to also be modulo theories.
+This results in the first algorithm for exact probabilistic inference that efficiently and simultaneously exploits random relations and functions, arithmetic, equalities and inequalities.

@@ -1,0 +1,8 @@
+Belief function theory provides a flexible way to combine information provided by different sources.
+This combination is usually followed by a decision making which can be handled by a range of decision rules.
+Some rules help to choose the most likely hypothesis.
+Others allow that a decision is made on a set of hypotheses.
+In [6], we proposed a decision rule based on a distance measure.
+First, in this paper, we aim to demonstrate that our proposed decision rule is a particular case of the rule proposed in [4].
+Second, we give experiments showing that our rule is able to decide on a set of hypotheses.
+Some experiments are handled on a set of mass functions generated randomly, others on real databases.

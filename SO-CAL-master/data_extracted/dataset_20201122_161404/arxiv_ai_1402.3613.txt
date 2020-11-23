@@ -1,4 +1,0 @@
-Avoiding collisions is one of the vital tasks for systems of autonomous mobile agents.
-We focus on the problem of finding continuous coordinated paths for multiple mobile disc agents in a 2-d environment with polygonal obstacles.
-The problem is PSPACE-hard, with the state space growing exponentially in the number of agents.
-Therefore, the state of the art methods include mainly reactive techniques and sampling-based iterative algorithms.

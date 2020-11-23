@@ -1,5 +1,0 @@
-Constraint Programming (CP) users need significant expertise in order to model their problems appropriately, notably to select propagators and search strategies.
-This puts the brakes on a broader uptake of CP.
-In this paper, we introduce MICE, a complete Java CP modeler that can use any Mixed Integer Linear Programming (MILP) solver as a solution technique.
-Our aim is to provide an alternative tool for democratizing the "CP-style" modeling thanks to its simplicity of use, with reasonable solving capabilities.
-Our contributions include new decompositions of (reified) constraints and constraints on numerical variables.

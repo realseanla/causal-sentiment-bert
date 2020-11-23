@@ -1,8 +1,0 @@
-One-sided matching mechanisms are fundamental for assigning a set of indivisible objects to a set of self-interested agents when monetary transfers are not allowed.
-Two widely-studied randomized mechanisms in multiagent settings are the Random Serial Dictatorship (RSD) and the Probabilistic Serial Rule (PS).
-Both mechanisms require only that agents specify ordinal preferences and have a number of desirable economic and computational properties.
-However, the induced outcomes of the mechanisms are often incomparable and thus there are challenges when it comes to deciding which mechanism to adopt in practice.
-In this paper, we first consider the space of general ordinal preferences and provide empirical results on the (in)comparability of RSD and PS.
-We analyze their respective economic properties under general and lexicographic preferences.
-We then instantiate utility functions with the goal of gaining insights on the manipulability, efficiency, and envyfreeness of the mechanisms under different risk-attitude models.
-Our results hold under various preference distribution models, which further confirm the broad use of RSD in most practical applications.

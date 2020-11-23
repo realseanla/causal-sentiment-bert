@@ -1,0 +1,5 @@
+A softmax operator applied to a set of values acts somewhat like the maximization function and somewhat like an average.
+In sequential decision making, softmax is often used in settings where it is necessary to maximize utility but also to hedge against problems that arise from putting all of one's weight behind a single maximum utility decision.
+The Boltzmann softmax operator is the most commonly used softmax operator in this setting, but we show that this operator is prone to misbehavior.
+In this work, we study an alternative softmax operator that, among other properties, is both a non-expansion (ensuring convergent behavior in learning and planning) and differentiable (making it possible to improve decisions via gradient descent methods).
+We provide proofs of these properties and present empirical comparisons between various softmax operators.

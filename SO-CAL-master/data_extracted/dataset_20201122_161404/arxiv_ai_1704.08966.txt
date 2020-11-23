@@ -1,6 +1,0 @@
-Neural conversational models require substantial amounts of dialogue data for their parameter estimation and are therefore usually learned on large corpora such as chat forums or movie subtitles.
-These corpora are, however, often challenging to work with, notably due to their frequent lack of turn segmentation and the presence of multiple references external to the dialogue itself.
-This paper shows that these challenges can be mitigated by adding a weighting model into the architecture.
-The weighting model, which is itself estimated from dialogue data, associates each training example to a numerical weight that reflects its intrinsic quality for dialogue modelling.
-At training time, these sample weights are included into the empirical loss to be minimised.
-Evaluation results on retrieval-based models trained on movie and TV subtitles demonstrate that the inclusion of such a weighting model improves the model performance on unsupervised metrics.

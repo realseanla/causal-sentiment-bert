@@ -1,8 +1,0 @@
-This article presents the state-of-the-art in optimal solution methods for decentralized partially observable Markov decision processes (Dec-POMDPs), which are general models for collaborative multiagent planning under uncertainty.
-Building off the generalized multiagent A* (GMAA*) algorithm, which reduces the problem to a tree of one-shot collaborative Bayesian games (CBGs), we describe several advances that greatly expand the range of Dec-POMDPs that can be solved optimally.
-First, we introduce lossless incremental clustering of the CBGs solved by GMAA*, which achieves exponential speedups without sacrificing optimality.
-Second, we introduce incremental expansion of nodes in the GMAA* search tree, which avoids the need to expand all children, the number of which is in the worst case doubly exponential in the nodes depth.
-This is particularly beneficial when little clustering is possible.
-In addition, we introduce new hybrid heuristic representations that are more compact and thereby enable the solution of larger Dec-POMDPs.
-We provide theoretical guarantees that, when a suitable heuristic is used, both incremental clustering and incremental expansion yield algorithms that are both complete and search equivalent.
-Finally, we present extensive empirical results demonstrating that GMAA*-ICE, an algorithm that synthesizes these advances, can optimally solve Dec-POMDPs of unprecedented size.

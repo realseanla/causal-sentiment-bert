@@ -1,0 +1,3 @@
+In this work, we propose several online methods to build a \emph{learning curriculum} from a given set of target-task-specific training tasks in order to speed up reinforcement learning (RL).
+These methods can decrease the total training time needed by an RL agent compared to training on the target task from scratch.
+Unlike traditional transfer learning, we consider creating a sequence from several training tasks in order to provide the most benefit in terms of reducing the total time to train.

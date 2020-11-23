@@ -1,0 +1,3 @@
+In earlier work, we introduced flexible inference and decision-theoretic metareasoning to address the intractability of normative inference.
+Here, rather than pursuing the task of computing beliefs and actions with decision models composed of distinctions about uncertain events, we examine methods for inferring beliefs about mathematical truth before an automated theorem prover completes a proof.
+We employ a Bayesian analysis to update belief in truth, given theorem-proving progress, and show how decision-theoretic methods can be used to determine the value of continuing to deliberate versus taking immediate action in time-critical situations.

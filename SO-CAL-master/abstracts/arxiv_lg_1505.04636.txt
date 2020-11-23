@@ -1,0 +1,2 @@
+Distributed computing excels at processing large scale data, but the communication cost for synchronizing the shared parameters may slow down the overall performance.
+Fortunately, the interactions between parameter and data in many problems are sparse, which admits efficient partition in order to reduce the communication overhead.

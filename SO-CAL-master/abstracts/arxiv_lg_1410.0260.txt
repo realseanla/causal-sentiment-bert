@@ -1,0 +1,5 @@
+We present a fast algorithm for kernel summation problems in high-dimensions.
+These problems appear in computational physics, numerical approximation, non-parametric statistics, and machine learning.
+In our context, the sums depend on a kernel function that is a pair potential defined on a dataset of points in a high-dimensional Euclidean space.
+A direct evaluation of the sum scales quadratically with the number of points.
+Fast kernel summation methods can reduce this cost to linear complexity, but the constants involved do not scale well with the dimensionality of the dataset.

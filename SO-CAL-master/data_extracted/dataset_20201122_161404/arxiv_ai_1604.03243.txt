@@ -1,5 +1,0 @@
-We study the complexity of the problem of searching for a set of patterns that separate two given sets of strings.
-This problem has applications in a wide variety of areas, most notably in data mining, computational biology, and in understanding the complexity of genetic algorithms.
-We show that the basic problem of finding a small set of patterns that match one set of strings but do not match any string in a second set is difficult (NP-complete, W[2]-hard when parameterized by the size of the pattern set, and APX-hard).
-We then perform a detailed parameterized analysis of the problem, separating tractable and intractable variants.
-In particular we show that parameterizing by the size of pattern set and the number of strings, and the size of the alphabet and the number of strings give FPT results, amongst others.

@@ -1,0 +1,3 @@
+We give a new deterministic algorithm that non-adaptively learns a hidden hypergraph from edge-detecting queries.
+All previous non-adaptive algorithms either run in exponential time or have non-optimal query complexity.
+We give the first polynomial time non-adaptive learning algorithm for learning hypergraph that asks almost optimal number of queries.

@@ -1,0 +1,6 @@
+Probabilistic Linear Discriminant Analysis (PLDA) has become state-of-the-art method for modeling $i$-vector space in speaker recognition task.
+However the performance degradation is observed if enrollment data size differs from one speaker to another.
+This paper presents a solution to such problem by introducing new PLDA scoring normalization technique.
+Normalization parameters are derived in a blind way, so that, unlike traditional \textit{ZT-norm}, no extra development data is required.
+Moreover, proposed method has shown to be optimal in terms of detection cost function.
+The experiments conducted on NIST SRE 2014 database demonstrate an improved accuracy in a mixed enrollment number condition.

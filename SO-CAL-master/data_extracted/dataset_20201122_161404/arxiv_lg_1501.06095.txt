@@ -1,2 +1,0 @@
-We show a new lower bound on the sample complexity of $(\varepsilon, \delta)$-differentially private algorithms that accurately answer statistical queries on high-dimensional databases.
-The novelty of our bound is that it depends optimally on the parameter $\delta$, which loosely corresponds to the probability that the algorithm fails to be private, and is the first to smoothly interpolate between approximate differential privacy ($\delta &gt; 0$) and pure differential privacy ($\delta = 0$).

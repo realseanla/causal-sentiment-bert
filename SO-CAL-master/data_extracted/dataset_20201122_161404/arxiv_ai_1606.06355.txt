@@ -1,4 +1,0 @@
-Reinforcement learning has been applied to many interesting problems such as the famous TD-gammon and the inverted helicopter flight.
-However, little effort has been put into developing methods to learn policies for complex persistent tasks and tasks that are time-sensitive.
-In this paper, we take a step towards solving this problem by using signal temporal logic (STL) as task specification, and taking advantage of the temporal abstraction feature that the options framework provide.
-We show via simulation that a relatively easy to implement algorithm that combines STL and options can learn a satisfactory policy with a small number of training cases

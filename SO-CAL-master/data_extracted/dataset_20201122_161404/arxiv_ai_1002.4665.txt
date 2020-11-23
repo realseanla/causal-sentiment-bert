@@ -1,9 +1,0 @@
-The syntactic topic model (STM) is a Bayesian nonparametric model of language that discovers latent distributions of words (topics) that are both semantically and syntactically coherent.
-The STM models dependency parsed corpora where sentences are grouped into documents.
-It assumes that each word is drawn from a latent topic chosen by combining document-level features and the local syntactic context.
-Each document has a distribution over latent topics, as in topic models, which provides the semantic consistency.
-Each element in the dependency parse tree also has a distribution over the topics of its children, as in latent-state syntax models, which provides the syntactic consistency.
-These distributions are convolved so that the topic of each word is likely under both its document and syntactic context.
-We derive a fast posterior inference algorithm based on variational methods.
-We report qualitative and quantitative studies on both synthetic data and hand-parsed documents.
-We show that the STM is a more predictive model of language than current models based only on syntax or only on topics.

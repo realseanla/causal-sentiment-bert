@@ -1,6 +1,0 @@
-In traditional formulations, information extraction systems operate on a fixed collection of documents.
-In this work, we explore the task of acquiring and incorporating external evidence to improve extraction accuracy.
-This process entails query reformulation for search, extraction from new sources and reconciliation of extracted values, which are repeated until sufficient evidence is collected.
-We approach the problem using a reinforcement learning framework where our model learns to select optimal actions based on contextual information.
-We employ a deep Q-network, trained to optimize a reward function that reflects extraction accuracy while penalizing extra effort.
-Our experiments on a publicly available database of shooting incidents demonstrate that our system outperforms traditional extractors by 7.2 percent on average.

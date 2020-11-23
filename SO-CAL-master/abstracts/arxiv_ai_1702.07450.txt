@@ -1,0 +1,4 @@
+As artificial agents proliferate, it is becoming increasingly important to ensure that their interactions with one another are well-behaved.
+In this paper, we formalize a common-sense notion of when algorithms are well-behaved: an algorithm is safe if it does no harm.
+Motivated by recent progress in deep learning, we focus on the specific case where agents update their actions according to gradient descent.
+The first result is that gradient descent converges to a Nash equilibrium in safe games.

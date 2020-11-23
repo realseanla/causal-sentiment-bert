@@ -1,6 +1,0 @@
-With the explosion of the size of digital dataset, the limiting factor for decomposition algorithms is the \emph{number of passes} over the input, as the input is often stored out-of-core or even off-site.
-Moreover, we're only interested in algorithms that operate in \emph{constant memory} w.r.t.
-to the input size, so that arbitrarily large input can be processed.
-In this paper, we present a practical comparison of two such algorithms: a distributed method that operates in a single pass over the input vs. a streamed two-pass stochastic algorithm.
-The experiments track the effect of distributed computing, oversampling and memory trade-offs on the accuracy and performance of the two algorithms.
-To ensure meaningful results, we choose the input to be a real dataset, namely the whole of the English Wikipedia, in the application settings of Latent Semantic Analysis.

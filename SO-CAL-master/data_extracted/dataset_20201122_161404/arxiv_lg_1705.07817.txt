@@ -1,4 +1,0 @@
-This work focus on regression optimization problem with hierarchical interactions between variables, which is beyond the additive models in the traditional linear regression.
-We investigate two different fashions in the literature to deal with this problem: "hierNet" and structural-sparsity regularization, and study their connections, then we propose a primal-dual proximal algorithm based on epigraphical projection to optimize the learning problem.
-The experimental setting first highlight the improvement of the proposed procedure compare to state-of-the-art methods based on FISTA or ADMM and second we provide comparisons between the different hierarchical penalization.
-The experiments are conducted both on the synthetic and real data.

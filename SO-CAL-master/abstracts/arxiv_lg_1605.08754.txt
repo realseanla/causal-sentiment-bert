@@ -1,0 +1,2 @@
+We give faster algorithms and improved sample complexities for estimating the top eigenvector of a matrix $\Sigma$ -- i.e.
+computing a unit vector $x$ such that $x^T \Sigma x \ge (1-\epsilon)\lambda_1(\Sigma)$:

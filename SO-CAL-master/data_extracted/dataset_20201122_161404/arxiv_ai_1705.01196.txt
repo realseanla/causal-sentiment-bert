@@ -1,5 +1,0 @@
-Providing an efficient strategy to navigate safely through unsignaled intersections is a difficult task that requires determining the intent of other drivers.
-We explore the effectiveness of using Deep Reinforcement Learning to handle intersection problems.
-Combining several recent advances in Deep RL, were we able to learn policies that surpass the performance of a commonly-used heuristic approach in several metrics including task completion time and goal success rate.
-Our analysis, and the solutions learned by the network point out several short comings of current rule-based methods.
-The fact that Deep RL policies resulted in collisions, although rarely, combined with the limitations of the policy to generalize well to out-of-sample scenarios suggest a need for further research.

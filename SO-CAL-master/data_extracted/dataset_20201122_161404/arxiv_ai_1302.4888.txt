@@ -1,9 +1,0 @@
-One of the most challenging problems in recommender systems based on the collaborative filtering (CF) concept is data sparseness, i.e., limited user preference data is available for making recommendations.
-Cross-domain collaborative filtering (CDCF) has been studied as an effective mechanism to alleviate data sparseness of one domain by transferring knowledge about user preferences from other domains.
-However, there are two key issues that need to be addressed to make a CDCF approach successful: (a) what common characteristics can be used to establish a link between different domains and (b) how to get each domain effectively and efficiently benefit from such a link.
-In this paper, we propose a novel algorithm, Generalized Tag-induced Cross-domain Collaborative Filtering (GTagCDCF), that exploits user-contributed tags as common characteristics to link different domains together.
-Formulated from the probabilistic point of view, GTagCDCF takes into account all the user-item relations, the user-tag relations and the item-tag relations from different domains, in which the common tags take the role of effectively transferring the knowledge between different domains.
-Using publicly available datasets to represent three cross-domain cases, we experimentally demonstrate that GTagCDCF substantially outperforms several state-of-the-art single domain and cross-domain CF-based recommendation approaches.
-GTagCDCF is also shown to be effective for heterogeneous cross-domain cases, in which different domains are characterized by different types of user preferences.
-In addition, our investigation of the impact of user tagging behavior on GTagCDCF led to the conclusion that users can already benefit from GTagCDCF if they only share a few common tags.
-Finally, we validate the robustness of GTagCDCF with respect to the scale of datasets and the number of domains, based on a three-domain experiment.

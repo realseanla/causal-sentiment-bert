@@ -1,5 +1,0 @@
-This paper proposes a new convolutional neural architecture based on tree-structures, called the tree-based convolutional neural network (TBCNN).
-Two variants take advantage of constituency trees and dependency trees, respectively, to model sentences.
-Compared with traditional "flat" convolutional neural networks (CNNs), TBCNNs explore explicitly the structural information of sentences; compared with recursive neural networks, TBCNNs have much shorter propagation paths, enabling more effective feature learning and extraction.
-In the experiment of sentiment analysis, our two models consistently outperform CNNs and RNNs in a controlled setting.
-Our models are also competitive to most state-of-the-art results, including RNNs based on long short term memory and deep CNNs/RNNs.

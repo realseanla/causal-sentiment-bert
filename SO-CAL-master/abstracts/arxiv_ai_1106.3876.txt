@@ -1,0 +1,8 @@
+Nowadays ontologies present a growing interest in Data Fusion applications.
+As a matter of fact, the ontologies are seen as a semantic tool for describing and reasoning about sensor data, objects, relations and general domain theories.
+In addition, uncertainty is perhaps one of the most important characteristics of the data and information handled by Data Fusion.
+However, the fundamental nature of ontologies implies that ontologies describe only asserted and veracious facts of the world.
+Different probabilistic, fuzzy and evidential approaches already exist to fill this gap; this paper recaps the most popular tools.
+However none of the tools meets exactly our purposes.
+Therefore, we constructed a Dempster-Shafer ontology that can be imported into any specific domain ontology and that enables us to instantiate it in an uncertain manner.
+We also developed a Java application that enables reasoning about these uncertain ontological instances.

@@ -1,7 +1,0 @@
-An increasing amount of information is generated from the rapidly increasing number of sensor networks and smart devices.
-A wide variety of sources generate and publish information in different formats, thus highlighting interoperability as one of the key prerequisites for the success of Internet of Things (IoT).
-The BT Hypercat Data Hub provides a focal point for the sharing and consumption of available datasets from a wide range of sources.
-In this work, we propose a semantic enrichment of the BT Hypercat Data Hub, using well-accepted Semantic Web standards and tools.
-We propose an ontology that captures the semantics of the imported data and present the BT SPARQL Endpoint by means of a mapping between SPARQL and SQL queries.
-Furthermore, federated SPARQL queries allow queries over multiple hub-based and external data sources.
-Finally, we provide two use cases in order to illustrate the advantages afforded by our semantic approach.

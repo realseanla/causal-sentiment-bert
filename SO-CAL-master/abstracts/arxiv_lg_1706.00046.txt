@@ -1,0 +1,2 @@
+Learning neural network architectures is a way to discover new highly predictive models.
+We propose to focus on this problem from a different perspective where the goal is to discover architectures efficient in terms of both prediction quality and computation cost, e.g time in milliseconds, number of operations... For instance, our approach is able to solve the following task: find the best neural network architecture (in a very large set of possible architectures) able to predict well in less than 100 milliseconds on my mobile phone.

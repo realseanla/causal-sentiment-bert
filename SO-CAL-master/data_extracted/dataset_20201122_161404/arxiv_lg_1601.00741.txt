@@ -1,6 +1,0 @@
-We consider the problem of learning preferences over trajectories for mobile manipulators such as personal robots and assembly line robots.
-The preferences we learn are more intricate than simple geometric constraints on trajectories; they are rather governed by the surrounding context of various objects and human interactions in the environment.
-We propose a coactive online learning framework for teaching preferences in contextually rich environments.
-The key novelty of our approach lies in the type of feedback expected from the user: the human user does not need to demonstrate optimal trajectories as training data, but merely needs to iteratively provide trajectories that slightly improve over the trajectory currently proposed by the system.
-We argue that this coactive preference feedback can be more easily elicited than demonstrations of optimal trajectories.
-Nevertheless, theoretical regret bounds of our algorithm match the asymptotic rates of optimal trajectory algorithms.

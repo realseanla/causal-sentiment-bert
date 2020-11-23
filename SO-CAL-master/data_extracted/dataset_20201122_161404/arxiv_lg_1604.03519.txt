@@ -1,5 +1,0 @@
-In this paper, we describe a novel deep convolutional neural networks (CNN) based approach called contextual deep CNN that can jointly exploit spatial and spectral features for hyperspectral image classification.
-The contextual deep CNN first concurrently applies multiple 3-dimensional local convolutional filters with different sizes jointly exploiting spatial and spectral features of a hyperspectral image.
-The initial spatial and spectral feature maps obtained from applying the variable size convolutional filters are then combined together to form a joint spatio-spectral feature map.
-The joint feature map representing rich spectral and spatial properties of the hyperspectral image is then fed through fully convolutional layers that eventually predict the corresponding label of each pixel vector.
-The proposed approach is tested on the Indian Pines data and performance comparison shows enhanced classification performance of the proposed approach over the current state of the art.

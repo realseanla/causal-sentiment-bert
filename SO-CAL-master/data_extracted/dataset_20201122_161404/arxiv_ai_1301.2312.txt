@@ -1,3 +1,0 @@
-We propose a new method of discovering causal structures, based on the detection of local, spontaneous changes in the underlying data-generating model.
-We analyze the classes of structures that are equivalent relative to a stream of distributions produced by local changes, and devise algorithms that output graphical representations of these equivalence classes.
-We present experimental results, using simulated data, and examine the errors associated with detection of changes and recovery of structures.

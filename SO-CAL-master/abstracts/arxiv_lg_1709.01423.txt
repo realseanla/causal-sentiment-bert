@@ -1,0 +1,6 @@
+Medical and social sciences demand sampling techniques which are robust, reliable, replicable and give samples with the least bias.
+Majority of the applications of sampling use randomized sampling, albeit with stratification where applicable to lower the bias.
+The randomized technique is not consistent, and may provide different samples each time, and the different samples themselves may not be similar to each other.
+In this paper, we introduce a novel sampling technique called Wobbly Center Algorithm, which relies on iterative clustering based on maximizing heterogeneity to achieve samples which are consistent, and with low bias.
+The algorithm works on the principle of iteratively building clusters by finding the points with the maximal distance from the cluster center.
+The algorithm consistently gives a better result in lowering the bias by reducing the standard deviations in the means of each feature in a scaled data

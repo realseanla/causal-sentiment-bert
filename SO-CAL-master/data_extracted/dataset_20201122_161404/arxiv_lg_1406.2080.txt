@@ -1,4 +1,0 @@
-We propose several simple approaches to training deep neural networks on data with noisy labels.
-We introduce an extra noise layer into the network which adapts the network outputs to match the noisy label distribution.
-The parameters of this noise layer can be estimated as part of the training process and involve simple modifications to current training infrastructures for deep networks.
-We demonstrate the approaches on several datasets, including large scale experiments on the ImageNet classification benchmark, showing how additional noisy data can improve state-of-the-art recognition models.

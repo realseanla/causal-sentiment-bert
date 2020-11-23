@@ -1,3 +1,0 @@
-We propose an importance weighting framework for actively labeling samples.
-This technique yields practical yet sound active learning algorithms for general loss functions.
-Experiments on passively labeled data show that this approach effectively reduces the label complexity required to achieve good prediction performance on many learning problems.

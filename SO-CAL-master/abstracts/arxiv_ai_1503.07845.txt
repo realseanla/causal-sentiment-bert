@@ -1,0 +1,7 @@
+In the a posteriori approach of multiobjective optimization the Pareto front is approximated by a finite set of solutions in the objective space.
+The quality of the approximation can be measured by different indicators that take into account the approximation's closeness to the Pareto front and its distribution along the Pareto front.
+In particular, the averaged Hausdorff indicator prefers an almost uniform distribution.
+An observed drawback of multiobjective estimation of distribution algorithms (MEDAs) is that - as common for randomized metaheuristics - the final population usually is not uniformly distributed along the Pareto front.
+Therefore, we propose a postprocessing strategy which consists of applying the averaged Hausdorff indicator to the complete archive of generated solutions after optimization in order to select a uniformly distributed subset of nondominated solutions from the archive.
+In this paper, we put forward a strategy for extracting the above described subset.
+The effectiveness of the proposal is contrasted in a series of experiments that involve different MEDAs and filtering techniques.

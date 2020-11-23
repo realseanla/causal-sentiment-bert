@@ -1,0 +1,3 @@
+Ladder networks are a notable new concept in the field of semi-supervised learning by showing state-of-the-art results in image recognition tasks while being compatible with many existing neural architectures.
+We present the recurrent ladder network, a novel modification of the ladder network, for semi-supervised learning of recurrent neural networks which we evaluate with a phoneme recognition task on the TIMIT corpus.
+Our results show that the model is able to consistently outperform the baseline and achieve fully-supervised baseline performance with only 75 percent of all labels which demonstrates that the model is capable of using unsupervised data as an effective regulariser.

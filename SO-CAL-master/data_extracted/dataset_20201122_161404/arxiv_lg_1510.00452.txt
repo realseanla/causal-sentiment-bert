@@ -1,3 +1,0 @@
-We develop a worst-case analysis of aggregation of binary classifier ensembles in a transductive setting, for a broad class of losses including but not limited to all convex surrogates.
-The result is a family of parameter-free ensemble aggregation algorithms, which are as efficient as linear learning and prediction for convex risk minimization but work without any relaxations whatsoever on many nonconvex losses like the 0-1 loss.
-The prediction algorithms take a familiar form, applying "link functions" to a generalized notion of ensemble margin, but without the assumptions typically made in margin-based learning - all this structure follows from a minimax interpretation of loss minimization.

@@ -1,4 +1,0 @@
-We present a new representation of harmonic sounds that linearizes the dynamics of pitch and spectral envelope, while remaining stable to deformations in the time-frequency plane.
-It is an instance of the scattering transform, a generic operator which cascades wavelet convolutions and modulus nonlinearities.
-It is derived from the pitch spiral, in that convolutions are successively performed in time, log-frequency, and octave index.
-We give a closed-form approximation of spiral scattering coefficients for a nonstationary generalization of the harmonic source-filter model.

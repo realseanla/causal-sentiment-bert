@@ -1,0 +1,4 @@
+We prove that the empirical risk of most well-known loss functions factors into a linear term aggregating all labels with a term that is label free, and can further be expressed by sums of the loss.
+This holds true even for non-smooth, non-convex losses and in any RKHS.
+The first term is a (kernel) mean operator --the focal quantity of this work-- which we characterize as the sufficient statistic for the labels.
+The result tightens known generalization bounds and sheds new light on their interpretation.

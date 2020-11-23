@@ -1,5 +1,0 @@
-This paper investigates the problem of network embedding, which aims at learning low-dimensional vector representation of nodes in networks.
-Most existing network embedding methods rely solely on the network structure, i.e., the linkage relationships between nodes, but ignore the rich content information associated with it, which is common in real world networks and beneficial to describing the characteristics of a node.
-In this paper, we propose content-enhanced network embedding (CENE), which is capable of jointly leveraging the network structure and the content information.
-Our approach integrates text modeling and structure modeling in a general framework by treating the content information as a special kind of node.
-Experiments on several real world net- works with application to node classification show that our models outperform all existing network embedding methods, demonstrating the merits of content information and joint learning.

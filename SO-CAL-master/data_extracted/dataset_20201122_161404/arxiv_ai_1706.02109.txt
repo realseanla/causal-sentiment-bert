@@ -1,8 +1,0 @@
-Artifact-centric process models aim to describe complex processes as a collection of interacting artifacts.
-Recent development in process mining allow for the discovery of such models.
-However, the focus is often on the representation of the individual artifacts rather than their interactions.
-Based on event data we can automatically discover composite state machines representing artifact-centric processes.
-Moreover, we provide ways of visualizing and quantifying interactions among different artifacts.
-For example, we are able to highlight strongly correlated behaviours in different artifacts.
-The approach has been fully implemented as a ProM plug-in; the CSM Miner provides an interactive artifact-centric process discovery tool focussing on interactions.
-The approach has been evaluated using real life data sets, including the personal loan and overdraft process of a Dutch financial institution.

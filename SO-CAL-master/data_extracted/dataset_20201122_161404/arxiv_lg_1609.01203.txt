@@ -1,6 +1,0 @@
-This paper introduces the first system for performing automatic orchestration based on a real-time piano input.
-We believe that it is possible to learn the underlying regularities existing between piano scores and their orchestrations by notorious composers, in order to automatically perform this task on novel piano inputs.
-To that end, we investigate a class of statistical inference models called conditional Restricted Boltzmann Machine (cRBM).
-We introduce a specific evaluation framework for orchestral generation based on a prediction task in order to assess the quality of different models.
-As prediction and creation are two widely different endeavours, we discuss the potential biases in evaluating temporal generative models through prediction tasks and their impact on a creative system.
-Finally, we introduce an implementation of the proposed model called Live Orchestral Piano (LOP), which allows to perform real-time projective orchestration of a MIDI keyboard input.

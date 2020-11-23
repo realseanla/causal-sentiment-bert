@@ -1,3 +1,0 @@
-We propose a strong baseline model for unsupervised feature learning using video data.
-By learning to predict missing frames or extrapolate future frames from an input video sequence, the model discovers both spatial and temporal correlations which are useful to represent complex deformations and motion patterns.
-The models we propose are largely borrowed from the language modeling literature, and adapted to the vision domain by quantizing the space of image patches into a large dictionary.

@@ -1,7 +1,0 @@
-In this paper, we theoretically address three fundamental problems involving deep convolutional networks regarding invariance, depth and hierarchy.
-We introduce the paradigm of Transformation Networks (TN) which are a direct generalization of Convolutional Networks (ConvNets).
-Theoretically, we show that TNs (and thereby ConvNets) are can be invariant to non-linear transformations of the input despite pooling over mere local translations.
-Our analysis provides clear insights into the increase in invariance with depth in these networks.
-Deeper networks are able to model much richer classes of transformations.
-We also find that a hierarchical architecture allows the network to generate invariance much more efficiently than a non-hierarchical network.
-Our results provide useful insight into these three fundamental problems in deep learning using ConvNets.

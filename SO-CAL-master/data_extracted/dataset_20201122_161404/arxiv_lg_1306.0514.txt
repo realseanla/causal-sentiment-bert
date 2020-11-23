@@ -1,4 +1,0 @@
-We introduce persistent contextual neural networks (PCNNs) as a probabilistic model for learning symbolic data sequences, aimed at discovering complex algorithmic dependencies in the sequence.
-PCNNs are similar to recurrent neural networks but feature an architecture inspired by finite automata and a modified time evolution to better model memory effects.
-An effective training procedure using a gradient ascent in a metric inspired by Riemannian geometry is developed: this produces an algorithm independent from design choices such as the encoding of parameters and unit activities.
-This metric gradient ascent is designed to have an algorithmic cost close to backpropagation through time for sparsely connected networks.

@@ -1,2 +1,0 @@
-A branch-and-bound approach to solving influ- ence diagrams has been previously proposed in the literature, but appears to have never been implemented and evaluated - apparently due to the difficulties of computing effective bounds for the branch-and-bound search.
-In this paper, we describe how to efficiently compute effective bounds, and we develop a practical implementa- tion of depth-first branch-and-bound search for influence diagram evaluation that outperforms existing methods for solving influence diagrams with multiple stages.

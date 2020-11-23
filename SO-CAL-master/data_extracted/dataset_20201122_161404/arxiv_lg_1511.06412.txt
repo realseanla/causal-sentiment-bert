@@ -1,7 +1,0 @@
-While the current trend is to increase the depth of neural networks to increase their performance, the size of their training database has to grow accordingly.
-We notice an emergence of tremendous databases, although providing labels to build a training set still remains a very expensive task.
-We tackle the problem of selecting the samples to be labelled in an online fashion.
-In this paper, we present an active learning strategy based on query by committee and dropout technique to train a Convolutional Neural Network (CNN).
-We derive a commmittee of partial CNNs resulting from batchwise dropout runs on the initial CNN.
-We evaluate our active learning strategy for CNN on MNIST benchmark, showing in particular that selecting less than 30  percent from the annotated database is enough to get similar error rate as using the full training set on MNIST.
-We also studied the robustness of our method against adversarial examples.

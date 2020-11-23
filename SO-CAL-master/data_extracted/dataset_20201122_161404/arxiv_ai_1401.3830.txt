@@ -1,4 +1,0 @@
-In many AI domains such as product configuration, a user should interactively specify a solution that must satisfy a set of constraints.
-In such scenarios, offline compilation of feasible solutions into a tractable representation is an important approach to delivering efficient backtrack-free user interaction online.
-In particular,binary decision diagrams (BDDs) have been successfully used as a compilation target for product and service configuration.
-In this paper we discuss how to extend BDD-based configuration to scenarios involving cost functions which express user preferences.

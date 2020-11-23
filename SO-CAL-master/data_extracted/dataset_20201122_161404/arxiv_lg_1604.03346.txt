@@ -1,8 +1,0 @@
-We present a classification method with linear-time incremental capabilities based on the Optimum-Path Forest (OPF) classifier.
-The OPF considers instances as nodes of a fully-connected training graph, where the edges' weights are the distances between two nodes' feature vectors.
-Upon this graph, a minimum spanning tree is built, and every edge connecting instances of different classes is removed, with those nodes becoming prototypes or roots of a tree.
-A new instance is classified by discovering which tree it would conquer.
-In this paper we describe a new training algorithm with incremental capabilities while keeping the properties of the OPF.
-New instances can be inserted in the model into one of the existing trees; substitute the prototype of a tree; or split a tree.
-This incremental method was tested for accuracy and running time against both full retraining using the original OPF and an adaptation of the Differential Image Foresting Transform.
-The method updates the training model in linear-time, while keeping similar accuracies when compared with the original model, which runs in quadratic-time.

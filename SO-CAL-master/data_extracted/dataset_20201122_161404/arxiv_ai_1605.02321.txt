@@ -1,8 +1,0 @@
-The combination of multi-armed bandit (MAB) algorithms with Monte-Carlo tree search (MCTS) has made a significant impact in various research fields.
-The UCT algorithm, which combines the UCB bandit algorithm with MCTS, is a good example of the success of this combination.
-The recent breakthrough made by AlphaGo, which incorporates convolutional neural networks with bandit algorithms in MCTS, also highlights the necessity of bandit algorithms in MCTS.
-However, despite the various investigations carried out on MCTS, nearly all of them still follow the paradigm of treating every node as an independent instance of the MAB problem, and applying the same bandit algorithm and heuristics on every node.
-As a result, this paradigm may leave some properties of the game tree unexploited.
-In this work, we propose that max nodes and min nodes have different concerns regarding their value estimation, and different bandit algorithms should be applied accordingly.
-We develop the Asymmetric-MCTS algorithm, which is an MCTS variant that applies a simple regret algorithm on max nodes, and the UCB algorithm on min nodes.
-We will demonstrate the performance of the Asymmetric-MCTS algorithm on the game of $9\times 9$ Go, $9\times 9$ NoGo, and Othello.

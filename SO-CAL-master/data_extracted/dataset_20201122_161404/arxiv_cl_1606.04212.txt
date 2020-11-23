@@ -1,7 +1,0 @@
-We propose a new active learning (AL) method for text classification based on convolutional neural networks (CNNs).
-In AL, one selects the instances to be manually labeled with the aim of maximizing model performance with minimal effort.
-Neural models capitalize on word embeddings as features, tuning these to the task at hand.
-We argue that AL strategies for neural text classification should focus on selecting instances that most affect the embedding space (i.e., induce discriminative word representations).
-This is in contrast to traditional AL approaches (e.g.,uncertainty sampling), which specify higher level objectives.
-We propose a simple approach that selects instances containing words whose embeddings are likely to be updated with the greatest magnitude, thereby rapidly learning discriminative, task-specific embeddings.
-Empirical results show that our method outperforms baseline AL approaches.

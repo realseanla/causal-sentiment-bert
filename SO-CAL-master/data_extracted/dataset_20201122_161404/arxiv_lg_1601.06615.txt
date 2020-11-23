@@ -1,9 +1,0 @@
-Traditional architectures for solving computer vision problems and the degree of success they enjoyed have been heavily reliant on hand-crafted features.
-However, of late, deep learning techniques have offered a compelling alternative -- that of automatically learning problem-specific features.
-With this new paradigm, every problem in computer vision is now being re-examined from a deep learning perspective.
-Therefore, it has become important to understand what kind of deep networks are suitable for a given problem.
-Although general surveys of this fast-moving paradigm (i.e.
-deep-networks) exist, a survey specific to computer vision is missing.
-We specifically consider one form of deep networks widely used in computer vision - convolutional neural networks (CNNs).
-We start with "AlexNet" as our base CNN and then examine the broad variations proposed over time to suit different applications.
-We hope that our recipe-style survey will serve as a guide, particularly for novice practitioners intending to use deep-learning techniques for computer vision.

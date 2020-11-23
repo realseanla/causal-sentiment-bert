@@ -1,4 +1,0 @@
-We consider the problem of prediction with expert advice when the losses of the experts have low-dimensional structure: they are restricted to an unknown $d$-dimensional subspace.
-We devise algorithms with regret bounds that are independent of the number of experts and depends only on the rank $d$.
-For the stochastic model we show a tight bound of $\Theta(\sqrt{dT})$, and extend it to a setting of an approximate $d$ subspace.
-For the adversarial model we show an upper bound of $O(d\sqrt{T})$ and a lower bound of $\Omega(\sqrt{dT})$.

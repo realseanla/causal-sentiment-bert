@@ -1,8 +1,0 @@
-We present a new method to reduce the variance of stochastic versions of the BFGS optimization method, applied to the optimization of a class of smooth strongly convex functions.
-Although Stochastic Gradient Descent (SGD) is a popular method to solve this kind of problem, its convergence rate is sublinear as it is in fact limited by the noisy approximation of the true gradient.
-In order to recover a high convergence rate, one has to pick an appropriate step-size or explicitly reduce the variance of the approximate gradients.
-Another limiting factor of SGD is that it ignores the curvature of the objective function that can help greatly speed up convergence.
-Stochastic variants of BFGS that include curvature have shown good empirical performance but suffer from the same noise effects as SGD.
-We here propose a new algorithm V ITE that uses an existing technique to reduce this variance while allowing a constant step-size to be used.
-We show that the expected objective value converges to the optimum at a geometric rate.
-We experimentally demonstrate improved convergence rate on diverse stochastic optimization problems.

@@ -1,4 +1,0 @@
-In this paper, we study the use of recurrent neural networks (RNNs) for modeling and forecasting time series.
-We first illustrate the fact that standard sequence-to-sequence RNNs neither capture well periods in time series nor handle well missing values, even though many real life times series are periodic and contain missing values.
-We then propose an extended attention mechanism that can be deployed on top of any RNN and that is designed to capture periods and make the RNN more robust to missing values.
-We show the effectiveness of this novel model through extensive experiments with multiple univariate and multivariate datasets.

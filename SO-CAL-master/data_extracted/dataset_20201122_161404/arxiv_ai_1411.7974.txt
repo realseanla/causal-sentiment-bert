@@ -1,3 +1,0 @@
-We propose a novel online learning method for minimizing regret in large extensive-form games.
-The approach learns a function approximator online to estimate the regret for choosing a particular action.
-A no-regret algorithm uses these estimates in place of the true regrets to define a sequence of policies.

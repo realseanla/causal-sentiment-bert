@@ -1,7 +1,0 @@
-Structured learning has found many applications in computer vision recently.
-Analogues to structured support vector machines, here we propose boosting algorithms for predicting multivariate or structured outputs, which is referred to as StructBoost.
-As SVM-Struct generalizes SVM, our StructBoost generalizes standard boosting such as AdaBoost, or LPBoost to structured learning.
-AdaBoost, LPBoost and many other conventional boosting methods arise as special cases of StructBoost.
-The resulting optimization problem of StructBoost is more challenging than SVM-Struct in the sense that the problem of StructBoost can involve exponentially many variables and constraints.
-In contrast, for SVM-Struct one usually has an exponential number of constraints and a cutting-plane method is used.
-In order to efficiently solve StructBoost, we propose an equivalent 1-slack formulation and solve it using a combination of cutting planes and column generation.

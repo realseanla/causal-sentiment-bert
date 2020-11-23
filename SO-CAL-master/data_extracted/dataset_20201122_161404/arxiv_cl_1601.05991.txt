@@ -1,9 +1,0 @@
-Using phonological speech vocoding, we propose a platform for exploring relations between phonology and speech processing, and in broader terms, for exploring relations between the abstract and physical structures of a speech signal.
-Our goal is to make a step towards bridging phonology and speech processing and to contribute to the program of Laboratory Phonology.
-We show three application examples for laboratory phonology: compositional phonological speech modelling, a comparison of phonological systems and an experimental phonological parametric text-to-speech (TTS) system.
-The featural representations of the following three phonological systems are considered in this work: (i) Government Phonology (GP), (ii) the Sound Pattern of English (SPE), and (iii) the extended SPE (eSPE).
-Comparing GP- and eSPE-based vocoded speech, we conclude that the latter achieves slightly better results than the former.
-However, GP - the most compact phonological speech representation - performs comparably to the systems with a higher number of phonological features.
-The parametric TTS based on phonological speech representation, and trained from an unlabelled audiobook in an unsupervised manner, achieves intelligibility of 85 percent of the state-of-the-art parametric speech synthesis.
-We envision that the presented approach paves the way for researchers in both fields to form meaningful hypotheses that are explicitly testable using the concepts developed and exemplified in this paper.
-On the one hand, laboratory phonologists might test the applied concepts of their theoretical models, and on the other hand, the speech processing community may utilize the concepts developed for the theoretical phonological models for improvements of the current state-of-the-art applications.

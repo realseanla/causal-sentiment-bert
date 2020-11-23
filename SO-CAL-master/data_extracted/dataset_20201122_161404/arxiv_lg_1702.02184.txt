@@ -1,4 +1,0 @@
-In this paper, we tackle the problem of transferring policy from multiple partially observable source environments to a partially observable target environment modeled as predictive state representation.
-This is an entirely new approach with no previous work, other than the case of transfer in fully observable domains.
-We develop algorithms to successfully achieve policy transfer when we have the model of both the source and target tasks and discuss in detail their performance and shortcomings.
-These algorithms could be a starting point for the field of transfer learning in partial observability.

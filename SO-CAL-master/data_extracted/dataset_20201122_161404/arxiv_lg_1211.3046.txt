@@ -1,4 +1,0 @@
-In this work, we address the problem of how to recover the optimal solution to the optimization problem related to high dimensional data classification using random projection, to which we refer as Recovery of Optimal Solution.
-This is in contrast to the previous studies that were focused on analyzing the classification performance using random projection.
-We reveal the relationship between compressive sensing and the problem of recovering optimal solution using random projection.
-We also present a simple algorithm, termed as Dual Random Projection, that recovers the optimal solution with a small error by computing dual solution provided that the data matrix is of low rank.

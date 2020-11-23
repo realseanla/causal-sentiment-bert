@@ -1,5 +1,0 @@
-We introduce the first, general purpose, slice sampling inference engine for probabilistic programs.
-This engine is released as part of StocPy, a new Turing-Complete probabilistic programming language, available as a Python library.
-We present a transdimensional generalisation of slice sampling which is necessary for the inference engine to work on traces with different numbers of random variables.
-We show that StocPy compares favourably to other PPLs in terms of flexibility and usability, and that slice sampling can outperform previously introduced inference methods.
-Our experiments include a logistic regression, HMM, and Bayesian Neural Net.

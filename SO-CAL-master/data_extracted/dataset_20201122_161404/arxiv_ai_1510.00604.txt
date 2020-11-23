@@ -1,7 +1,0 @@
-If a robot is supposed to roam an environment and interact with objects, it is often necessary to know all possible objects in advance, so that a database with models of all objects can be generated for visual identification.
-However, this constraint cannot always be fulfilled.
-Due to that reason, a model based object recognition cannot be used to guide the robot's interactions.
-Therefore, this paper proposes a system that analyzes features of encountered objects and then uses these features to compare unknown objects to already known ones.
-From the resulting similarity appropriate actions can be derived.
-Moreover, the system enables the robot to learn object categories by grouping similar objects or by splitting existing categories.
-To represent the knowledge a hybrid form is used, consisting of both symbolic and subsymbolic representations.

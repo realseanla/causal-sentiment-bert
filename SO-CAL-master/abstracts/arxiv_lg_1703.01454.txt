@@ -1,0 +1,6 @@
+We present a new distributed representation in deep neural nets wherein the information is represented in native form as a matrix.
+This differs from current neural architectures that rely on vector representations.
+We consider matrices as central to the architecture and they compose the input, hidden and output layers.
+The model representation is more compact and elegant - the number of parameters grows only with the largest dimension of the incoming layer rather than the number of hidden units.
+We derive feed-forward nets that map an input matrix into an output matrix, and recurrent nets which map a sequence of input matrices into a sequence of output matrices.
+Experiments on handwritten digits recognition, face reconstruction, sequence to sequence learning and EEG classification demonstrate the efficacy and compactness of the matrix-centric architectures.

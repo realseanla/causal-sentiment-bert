@@ -1,0 +1,6 @@
+In this article, a stochastic gradient based online learning algorithm for Extreme Learning Machines (ELM) is developed (SG-ELM).
+A stability criterion based on Lyapunov approach is used to prove both asymptotic stability of estimation error and stability in the estimated parameters suitable for identification of nonlinear dynamic systems.
+The developed algorithm not only guarantees stability, but also reduces the computational demand compared to the OS-ELM approach based on recursive least squares.
+In order to demonstrate the effectiveness of the algorithm on a real-world scenario, an advanced combustion engine identification problem is considered.
+The algorithm is applied to two case studies: An online regression learning for system identification of a Homogeneous Charge Compression Ignition (HCCI) Engine and an online classification learning (with class imbalance) for identifying the dynamic operating envelope of the HCCI Engine.
+The results indicate that the accuracy of the proposed SG-ELM is comparable to that of the state-of-the-art but adds stability and a reduction in computational effort.

@@ -1,0 +1,3 @@
+This paper presents a challenge to the community: given a large corpus of written text aligned to its normalized spoken form, train an RNN to learn the correct normalization function.
+We present a data set of general text where the normalizations were generated using an existing text normalization component of a text-to-speech system.
+This data set will be released open-source in the near future.

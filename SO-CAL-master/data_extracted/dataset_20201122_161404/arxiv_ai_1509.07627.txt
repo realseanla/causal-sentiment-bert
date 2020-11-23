@@ -1,4 +1,0 @@
-In this paper, we evaluate convolutional neural network (CNN) features using the AlexNet architecture and very deep convolutional network (VGGNet) architecture.
-To date, most CNN researchers have employed the last layers before output, which were extracted from the fully connected feature layers.
-However, since it is unlikely that feature representation effectiveness is dependent on the problem, this study evaluates additional convolutional layers that are adjacent to fully connected layers, in addition to executing simple tuning for feature concatenation (e.g., layer 3 + layer 5 + layer 7) and transformation, using tools such as principal component analysis.
-In our experiments, we carried out detection and classification tasks using the Caltech 101 and Daimler Pedestrian Benchmark Datasets.

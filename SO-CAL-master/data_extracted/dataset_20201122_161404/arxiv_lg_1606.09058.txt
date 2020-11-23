@@ -1,5 +1,0 @@
-In the present paper we show that distributional information is particularly important when considering concept availability under implicit language learning conditions.
-Based on results from different behavioural experiments we argue that the implicit learnability of semantic regularities depends on the degree to which the relevant concept is reflected in language use.
-In our simulations, we train a Vector-Space model on either an English or a Chinese corpus and then feed the resulting representations to a feed-forward neural network.
-The task of the neural network was to find a mapping between the word representations and the novel words.
-Using datasets from four behavioural experiments, which used different semantic manipulations, we were able to obtain learning patterns very similar to those obtained by humans.

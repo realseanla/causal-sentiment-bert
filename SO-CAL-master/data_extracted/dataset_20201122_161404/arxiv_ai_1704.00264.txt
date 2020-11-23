@@ -1,7 +1,0 @@
-Rapidly-exploring Random Tree Star(RRT*) is a recently proposed extension of Rapidly-exploring Random Tree (RRT) algorithm that provides a collision-free, asymptotically optimal path regardless of obstacle's geometry in a given environment.
-However, one of the limitations in the RRT* algorithm is slow convergence to optimal path solution.
-As a result, it consumes high memory as well as time due to a large number of iterations utilised in achieving optimal path solution.
-To overcome these limitations, we propose the Potential Function Based-RRT* (P-RRT*) that incorporates the Artificial Potential Field Algorithm in RRT*.
-The proposed algorithm allows a considerable decrease in the number of iterations and thus leads to more efficient memory utilization and an accelerated convergence rate.
-In order to illustrate the usefulness of the proposed algorithm in terms of space execution and convergence rate, this paper presents rigorous simulation based comparisons between the proposed techniques and RRT* under different environmental conditions.
-Moreover, both algorithms are also tested and compared under non-holonomic differential constraints.

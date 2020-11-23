@@ -1,7 +1,0 @@
-Solving complex problems can involve non-trivial combinations of distinct knowledge bases and problem solvers.
-The Algebra of Modular Systems is a knowledge representation framework that provides a method for formally specifying such systems in purely semantic terms.
-Formally, an expression of the algebra defines a class of structures.
-Many expressive formalism used in practice solve the model expansion task, where a structure is given on the input and an expansion of this structure in the defined class of structures is searched (this practice overcomes the common undecidability problem for expressive logics).
-In this paper, we construct a solver for the model expansion task for a complex modular systems from an expression in the algebra and black-box propagators or solvers for the primitive modules.
-To this end, we define a general notion of propagators equipped with an explanation mechanism, an extension of the alge- bra to propagators, and a lazy conflict-driven learning algorithm.
-The result is a framework for seamlessly combining solving technology from different domains to produce a solver for a combined system.

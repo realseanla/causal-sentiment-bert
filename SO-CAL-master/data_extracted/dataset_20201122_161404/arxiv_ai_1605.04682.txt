@@ -1,5 +1,0 @@
-Many academic disciplines - including information systems, computer science, and operations management - face scheduling problems as important decision making tasks.
-Since many scheduling problems are NP-hard in the strong sense, there is a need for developing solution heuristics.
-For scheduling problems with setup times on unrelated parallel machines, there is limited research on solution methods and to the best of our knowledge, parallel computer architectures have not yet been taken advantage of.
-We address this gap by proposing and implementing a new solution heuristic and by testing different parallelization strategies.
-In our computational experiments, we show that our heuristic calculates near-optimal solutions even for large instances and that computing time can be reduced substantially by our parallelization approach.

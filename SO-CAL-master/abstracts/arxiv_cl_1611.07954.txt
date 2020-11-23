@@ -1,0 +1,6 @@
+Reading comprehension is a question answering task where the answer is to be found in a given passage about entities and events not mentioned in general knowledge sources.
+A significant number of neural architectures for this task (neural readers) have recently been developed and evaluated on large cloze-style datasets.
+We present experiments supporting the existence of logical structure in the hidden state vectors of "aggregation readers" such as the Attentive Reader and Stanford Reader.
+The logical structure of aggregation readers reflects the architecture of "explicit reference readers" such as the Attention-Sum Reader, the Gated Attention Reader and the Attention-over-Attention Reader.
+This relationship between aggregation readers and explicit reference readers presents a case study in emergent logical structure.
+In an independent contribution, we show that the addition of linguistics features to the input to existing neural readers significantly boosts performance yielding the best results to date on the Who-did-What datasets.

@@ -1,0 +1,7 @@
+We present an autoencoder that leverages the power of learned representations to better measure similarities in data space.
+By combining a variational autoencoder (VAE) with a generative adversarial network (GAN) we can use learned feature representations in the GAN discriminator as basis for the VAE reconstruction objective.
+Thereby, we replace element-wise errors with feature-wise errors that better capture the data distribution while offering invariance towards e.g.
+translation.
+We apply our method to images of faces and show that our method outperforms VAEs with element-wise similarity measures in terms of visual fidelity.
+Moreover, we show that our method learns an embedding in which high-level abstract visual features (e.g.
+wearing glasses) can be modified using simple arithmetic.

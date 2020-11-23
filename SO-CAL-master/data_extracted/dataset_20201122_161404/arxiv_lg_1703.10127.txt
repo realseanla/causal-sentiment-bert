@@ -1,2 +1,0 @@
-We develop differentially private hypothesis testing methods for the small sample regime.
-Given a sample $\cal D$ from a categorical distribution $p$ over some domain $\Sigma$, an explicitly described distribution $q$ over $\Sigma$, some privacy parameter $\varepsilon$, accuracy parameter $\alpha$, and requirements $\beta_{\rm I}$ and $\beta_{\rm II}$ for the type I and type II errors of our test, the goal is to distinguish between $p=q$ and $d_{\rm{TV}}(p,q) \geq \alpha$.

@@ -1,0 +1,4 @@
+When a new treatment is considered for use, whether a pharmaceutical drug or a search engine ranking algorithm, a typical question that arises is, will its performance exceed that of the current treatment?
+The conventional way to answer this counterfactual question is to estimate the effect of the new treatment in comparison to that of the conventional treatment by running a controlled, randomized experiment.
+While this approach theoretically ensures an unbiased estimator, it suffers from several drawbacks, including the difficulty in finding representative experimental populations as well as the cost of running such trials.
+Moreover, such trials neglect the huge quantities of available control-condition data which are often completely ignored.

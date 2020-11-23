@@ -1,6 +1,0 @@
-As robots become more ubiquitous and capable, it becomes ever more important to enable untrained users to easily interact with them.
-Recently, this has led to study of the language grounding problem, where the goal is to extract representations of the meanings of natural language tied to perception and actuation in the physical world.
-In this paper, we present an approach for joint learning of language and perception models for grounded attribute induction.
-Our perception model includes attribute classifiers, for example to detect object color and shape, and the language model is based on a probabilistic categorial grammar that enables the construction of rich, compositional meaning representations.
-The approach is evaluated on the task of interpreting sentences that describe sets of objects in a physical workspace.
-We demonstrate accurate task performance and effective latent-variable concept induction in physical grounded scenes.

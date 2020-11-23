@@ -1,4 +1,0 @@
-This paper extends the idea of Universum learning [18, 19] to regression problems.
-We propose new Universum-SVM formulation for regression problems that incorporates a priori knowledge in the form of additional data samples.
-These additional data samples or Universum belong to the same application domain as the training samples, but they follow a different distribution.
-Several empirical comparisons are presented to illustrate the utility of the proposed approach.

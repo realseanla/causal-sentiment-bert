@@ -1,5 +1,0 @@
-We provide sampling-based algorithms for optimization under a coherent-risk objective.
-The class of coherent-risk measures is widely accepted in finance and operations research, among other fields, and encompasses popular risk-measures such as the conditional value at risk (CVaR) and the mean-semi-deviation.
-Our approach is suitable for problems in which the tunable parameters control the distribution of the cost, such as in reinforcement learning with a parameterized policy; such problems cannot be solved using previous approaches.
-We consider both static risk measures, and time-consistent dynamic risk measures.
-For static risk measures, our approach is in the spirit of policy gradient algorithms, while for the dynamic risk measures our approach is actor-critic style.

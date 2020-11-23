@@ -1,6 +1,0 @@
-In this paper we introduce a new framework to train an Echo State Network to predict real valued time-series.
-The method consists in projecting the output of the internal layer of the network on a space with lower dimensionality, before training the output layer to learn the target task.
-Notably, we enforce a regularization constraint that leads to better generalization capabilities.
-We evaluate the performances of our approach on several benchmark tests, using different techniques to train the readout of the network, achieving superior predictive performance when using the proposed framework.
-Finally, we provide an insight on the effectiveness of the implemented mechanics through a visualization of the trajectory in the phase space and relying on the methodologies of nonlinear time-series analysis.
-By applying our method on well known chaotic systems, we provide evidence that the lower dimensional embedding retains the dynamical properties of the underlying system better than the full-dimensional internal states of the network.

@@ -1,0 +1,6 @@
+Microsoft Kinect camera and its skeletal tracking capabilities have been embraced by many researchers and commercial developers in various applications of real-time human movement analysis.
+In this paper, we evaluate the accuracy of the human kinematic motion data in the first and second generation of the Kinect system, and compare the results with an optical motion capture system.
+We collected motion data in 12 exercises for 10 different subjects and from three different viewpoints.
+We report on the accuracy of the joint localization and bone length estimation of Kinect skeletons in comparison to the motion capture.
+We also analyze the distribution of the joint localization offsets by fitting a mixture of Gaussian and uniform distribution models to determine the outliers in the Kinect motion data.
+Our analysis shows that overall Kinect 2 has more robust and more accurate tracking of human pose as compared to Kinect 1.

@@ -1,4 +1,0 @@
-Many applications require solving non-linear control problems that are classically not well behaved.
-This paper develops a simple and efficient chattering algorithm that learns near optimal decision policies through an open-loop feedback strategy.
-The optimal control problem reduces to a series of linear optimization programs that can be easily solved to recover a relaxed optimal trajectory.
-This algorithm is implemented on a real-time enterprise scheduling and control process.

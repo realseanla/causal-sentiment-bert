@@ -1,0 +1,5 @@
+Online learning is becoming increasingly popular for training on large datasets.
+However, the sequential nature of online learning requires a centralized learner to store data and update parameters.
+In this paper, we consider a fully decentralized setting, cooperative autonomous online learning, with a distributed data source.
+The learners perform learning with local parameters while periodically communicating with a small subset of neighbors to exchange information.
+We define the regret in terms of an implicit aggregated parameter of the learners for such a setting and prove regret bounds similar to the classical sequential online learning.

@@ -1,7 +1,0 @@
-Recent work on sequence to sequence translation using Recurrent Neural Networks (RNNs) based on Long Short Term Memory (LSTM) architectures has shown great potential for learning useful representations of sequential data.
-These architectures, using one recurrent neural network to encode sequences into fixed-length representations, and one or more network(s) to decode representations into new sequences have the advantages of being modular, while also allowing modules to be jointly trained.
-A one-to-many encoder-decoder(s) scheme allows for a single encoder to provide representations serving multiple purposes.
-In our case, we present an LSTM encoder network able to produce representations used by two decoders: one that reconstructs, and one that classifies if the training sequence has a labelling.
-This allows the network to learn representations that are useful for both discriminative and generative tasks at the same time.
-We show how this paradigm is very well suited for semi-supervised learning with sequences.
-We test our proposed approach on an action recognition task using motion capture (MOCAP) sequences and show that semi-supervised feature learning can improve movement classification.

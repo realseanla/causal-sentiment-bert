@@ -1,5 +1,0 @@
-We consider the problem of building detectors for high-level concepts using only unsupervised feature learning.
-For example, we would like to understand if it is possible to learn a face detector using only unlabeled images downloaded from the internet.
-To answer this question, we trained a simple feature learning algorithm on a large dataset of images (10 million images, each image is 200x200).
-The simulation is performed on a cluster of 1000 machines with fast network hardware for one week.
-Extensive experimental results reveal surprising evidence that such high-level concepts can indeed be learned using only unlabeled data and a simple learning algorithm.

@@ -1,0 +1,5 @@
+In an attempt to better understand generalization in deep learning, we study several possible explanations.
+We show that implicit regularization induced by the optimization method is playing a key role in generalization and success of deep learning models.
+Motivated by this view, we study how different complexity measures can ensure generalization and explain how optimization algorithms can implicitly regularize complexity measures.
+We empirically investigate the ability of these measures to explain different observed phenomena in deep learning.
+We further study the invariances in neural networks, suggest complexity measures and optimization algorithms that have similar invariances to those in neural networks and evaluate them on a number of learning tasks.

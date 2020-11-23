@@ -1,9 +1,0 @@
-Data quality assessment and data cleaning are context-dependent activities.
-Motivated by this observation, we propose the Ontological Multidimensional Data Model (OMD model), which can be used to model and represent contexts as logic-based ontologies.
-The data under assessment is mapped into the context, for additional analysis, processing, and quality data extraction.
-The resulting contexts allow for the representation of dimensions, and multidimensional data quality assessment becomes possible.
-At the core of a multidimensional context we include a generalized multidimensional data model and a Datalog+/- ontology with provably good properties in terms of query answering.
-These main components are used to represent dimension hierarchies, dimensional constraints, dimensional rules, and define predicates for quality data specification.
-Query answering relies upon and triggers navigation through dimension hierarchies, and becomes the basic tool for the extraction of quality data.
-The OMD model is interesting per se, beyond applications to data quality.
-It allows for a logic-based, and computationally tractable representation of multidimensional data, extending previous multidimensional data models with additional expressive power and functionalities.

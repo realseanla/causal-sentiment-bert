@@ -1,5 +1,0 @@
-Given an existing trained neural network, it is often desirable to be able to add new capabilities without hindering performance of already learned tasks.
-Existing approaches either learn sub-optimal solutions, require joint training, or incur a substantial increment in the number of parameters for each added task, typically as many as the original network.
-We propose a method which fully preserves performance on the original task, with only a small increase (around 20 percent) in the number of required parameters while performing on par with more costly fine-tuning procedures, which typically double the number of parameters.
-The learned architecture can be controlled to switch between various learned representations, enabling a single network to solve a task from multiple different domains.
-We conduct extensive experiments showing the effectiveness of our method and explore different aspects of its behavior.

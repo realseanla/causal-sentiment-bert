@@ -1,0 +1,5 @@
+Various aspects of computer game design, including adaptive elements of game levels, characteristics of 'bot' behavior, and player matching in multiplayer games, would ideally be sensitive to a player's skill level.
+Yet, while difficulty and player learning have been explored in the context of games, there has been little work analyzing skill per se, and how it pertains to a player's input.
+To this end, we present a data set of 476 game logs from over 40 players of a first-person shooter game (Red Eclipse) as a basis of a case study.
+We then analyze different metrics of skill and show that some of these can be predicted using only a few seconds of keyboard and mouse input.
+We argue that the techniques used here are useful for adapting games to match players' skill levels rapidly, perhaps more rapidly than solutions based on performance averaging such as TrueSkill.

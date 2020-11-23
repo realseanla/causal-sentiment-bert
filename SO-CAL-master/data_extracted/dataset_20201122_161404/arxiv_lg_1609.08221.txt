@@ -1,3 +1,0 @@
-We propose an algorithm to uncover the intrinsic low-rank component of a high-dimensional, graph-smooth and grossly-corrupted dataset, under the situations that the underlying graph is unknown.
-Based on a model with a low-rank component plus a sparse perturbation, and an initial graph estimation, our proposed algorithm simultaneously learns the low-rank component and refines the graph.
-Our evaluations using synthetic and real brain imaging data in unsupervised and supervised classification tasks demonstrate encouraging performance.

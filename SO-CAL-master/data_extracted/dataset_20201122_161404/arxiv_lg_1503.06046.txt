@@ -1,6 +1,0 @@
-In cocktail party listening scenarios, the human brain is able to separate competing speech signals.
-However, the signal processing implemented by the brain to perform cocktail party listening is not well understood.
-Here, we trained two separate convolutive autoencoder deep neural networks (DNN) to separate monaural and binaural mixtures of two concurrent speech streams.
-We then used these DNNs as convolutive deep transform (CDT) devices to perform probabilistic re-synthesis.
-The CDTs operated directly in the time-domain.
-Our simulations demonstrate that very simple neural networks are capable of exploiting monaural and binaural information available in a cocktail party listening scenario.

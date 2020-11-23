@@ -1,6 +1,0 @@
-In outdoor environments, mobile robots are required to navigate through terrain with varying characteristics, some of which might significantly affect the integrity of the platform.
-Ideally, the robot should be able to identify areas that are safe for navigation based on its own percepts about the environment while avoiding damage to itself.
-Bayesian optimisation (BO) has been successfully applied to the task of learning a model of terrain traversability while guiding the robot through more traversable areas.
-An issue, however, is that localisation uncertainty can end up guiding the robot to unsafe areas and distort the model being learnt.
-In this paper, we address this problem and present a novel method that allows BO to consider localisation uncertainty by applying a Gaussian process model for uncertain inputs as a prior.
-We evaluate the proposed method in simulation and in experiments with a real robot navigating over rough terrain and compare it to standard BO methods which assume deterministic inputs.

@@ -1,5 +1,0 @@
-Separation of competing speech is a key challenge in signal processing and a feat routinely performed by the human auditory brain.
-A long standing benchmark of the spectrogram approach to source separation is known as the ideal binary mask.
-Here, we train a convolutional deep neural network, on a two-speaker cocktail party problem, to make probabilistic predictions about binary masks.
-Our results approach ideal binary mask performance, illustrating that relatively simple deep neural networks are capable of robust binary mask prediction.
-We also illustrate the trade-off between prediction statistics and separation quality.

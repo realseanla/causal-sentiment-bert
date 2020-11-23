@@ -1,7 +1,0 @@
-Subspace clustering aims to group data points into multiple clusters of which each corresponds to one subspace.
-Most existing subspace clustering methods assume that the data could be linearly represented with each other in the input space.
-In practice, however, this assumption is hard to be satisfied.
-To achieve nonlinear subspace clustering, we propose a novel method which consists of the following three steps: 1) projecting the data into a hidden space in which the data can be linearly reconstructed from each other; 2) calculating the globally linear reconstruction coefficients in the kernel space; 3) truncating the trivial coefficients to achieve robustness and block-diagonality, and then achieving clustering by solving a graph Laplacian problem.
-Our method has the advantages of a closed-form solution and capacity of clustering data points that lie in nonlinear subspaces.
-The first advantage makes our method efficient in handling large-scale data sets, and the second one enables the proposed method to address the nonlinear subspace clustering challenge.
-Extensive experiments on five real-world datasets demonstrate the effectiveness and the efficiency of the proposed method in comparison with ten state-of-the-art approaches regarding four evaluation metrics.

@@ -1,7 +1,0 @@
-In this paper, we develop a novel paradigm, namely hypergraph shift, to find robust graph modes by probabilistic voting strategy, which are semantically sound besides the self-cohesiveness requirement in forming graph modes.
-Unlike the existing techniques to seek graph modes by shifting vertices based on pair-wise edges (i.e, an edge with $2$ ends), our paradigm is based on shifting high-order edges (hyperedges) to deliver graph modes.
-Specifically, we convert the problem of seeking graph modes as the problem of seeking maximizers of a novel objective function with the aim to generate good graph modes based on sifting edges in hypergraphs.
-As a result, the generated graph modes based on dense subhypergraphs may more accurately capture the object semantics besides the self-cohesiveness requirement.
-We also formally prove that our technique is always convergent.
-Extensive empirical studies on synthetic and real world data sets are conducted on clustering and graph matching.
-They demonstrate that our techniques significantly outperform the existing techniques.

@@ -1,7 +1,0 @@
-We investigate the generation of new concepts from combinations of properties as an artificial language develops.
-To do so, we have developed a new framework for conjunctive concept combination.
-This framework gives a semantic grounding to the weighted sum approach to concept combination seen in the literature.
-We implement the framework in a multi-agent simulation of language evolution and show that shared combination weights emerge.
-The expected value and the variance of these weights across agents may be predicted from the distribution of elements in the conceptual space, as determined by the underlying environment, together with the rate at which agents adopt others' concepts.
-When this rate is smaller, the agents are able to converge to weights with lower variance.
-However, the time taken to converge to a steady state distribution of weights is longer.

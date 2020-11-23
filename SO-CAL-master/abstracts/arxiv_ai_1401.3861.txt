@@ -1,0 +1,7 @@
+To harness modern multicore processors, it is imperative to develop parallel versions of fundamental algorithms.
+In this paper, we compare different approaches to parallel best-first search in a shared-memory setting.
+We present a new method, PBNF, that uses abstraction to partition the state space and to detect duplicate states without requiring frequent locking.
+PBNF allows speculative expansions when necessary to keep threads busy.
+We identify and fix potential livelock conditions in our approach, proving its correctness using temporal logic.
+Our approach is general, allowing it to extend easily to suboptimal and anytime heuristic search.
+In an empirical comparison on STRIPS planning, grid pathfinding, and sliding tile puzzle problems using 8-core machines, we show that A*, weighted A* and Anytime weighted A* implemented using PBNF yield faster search than improved versions of previous parallel search proposals.

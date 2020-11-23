@@ -1,5 +1,0 @@
-In built infrastructure monitoring, an efficient path planning algorithm is essential for robotic inspection of large surfaces using computer vision.
-In this work, we first formulate the inspection path planning problem as an extended travelling salesman problem (TSP) in which both the coverage and obstacle avoidance were taken into account.
-An enhanced discrete particle swarm optimization (DPSO) algorithm is then proposed to solve the TSP, with performance improvement by using deterministic initialization, random mutation, and edge exchange.
-Finally, we take advantage of parallel computing to implement the DPSO in a GPU-based framework so that the computation time can be significantly reduced while keeping the hardware requirement unchanged.
-To show the effectiveness of the proposed algorithm, experimental results are included for datasets obtained from UAV inspection of an office building and a bridge.

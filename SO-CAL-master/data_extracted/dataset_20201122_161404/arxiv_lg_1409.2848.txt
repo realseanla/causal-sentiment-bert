@@ -1,3 +1,0 @@
-We describe and analyze a simple algorithm for principal component analysis, VR-PCA, which uses computationally cheap stochastic iterations, yet converges exponentially fast to the optimal solution.
-In contrast, existing algorithms suffer either from slow convergence, or computationally intensive iterations whose runtime scales with the data size.
-The algorithm builds on a recent variance-reduced stochastic gradient technique, which was previously analyzed for strongly convex optimization, whereas here we apply it to the non-convex PCA problem, using a very different analysis.

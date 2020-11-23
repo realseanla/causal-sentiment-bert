@@ -1,0 +1,3 @@
+The paper concerns the probabilistic evaluation of plans in the presence of unmeasured variables, each plan consisting of several concurrent or sequential actions.
+We establish a graphical criterion for recognizing when the effects of a given plan can be predicted from passive observations on measured variables only.
+When the criterion is satisfied, a closed-form expression is provided for the probability that the plan will achieve a specified goal.

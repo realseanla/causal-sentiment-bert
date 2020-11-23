@@ -1,0 +1,8 @@
+The Aviation Safety Reporting System collects voluntarily submitted reports on aviation safety incidents to facilitate research work aiming to reduce such incidents.
+To effectively reduce these incidents, it is vital to accurately identify why these incidents occurred.
+More precisely, given a set of possible causes, or shaping factors, this task of cause identification involves identifying all and only those shaping factors that are responsible for the incidents described in a report.
+We investigate two approaches to cause identification.
+Both approaches exploit information provided by a semantic lexicon, which is automatically constructed via Thelen and Riloffs Basilisk framework augmented with our linguistic and algorithmic modifications.
+The first approach labels a report using a simple heuristic, which looks for the words and phrases acquired during the semantic lexicon learning process in the report.
+The second approach recasts cause identification as a text classification problem, employing supervised and transductive text classification algorithms to learn models from incident reports labeled with shaping factors and using the models to label unseen reports.
+Our experiments show that both the heuristic-based approach and the learning-based approach (when given sufficient training data) outperform the baseline system significantly.

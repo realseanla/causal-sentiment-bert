@@ -1,7 +1,0 @@
-The paper describes a novel approach to categorize users' reviews according to the three Quality in Use (QU) indicators defined in ISO: effectiveness, efficiency and freedom from risk.
-With the tremendous amount of reviews published each day, there is a need to automatically summarize user reviews to inform us if any of the software able to meet requirement of a company according to the quality requirements.
-We implemented the method of Latent Semantic Analysis (LSA) and its subspace to predict QU indicators.
-We build a reduced dimensionality universal semantic space from Information System journals and Amazon reviews.
-Next, we projected set of indicators' measurement scales into the universal semantic space and represent them as subspace.
-In the subspace, we can map similar measurement scales to the unseen reviews and predict the QU indicators.
-Our preliminary study able to obtain the average of F-measure, 0.3627.

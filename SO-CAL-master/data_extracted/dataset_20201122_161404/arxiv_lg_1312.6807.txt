@@ -1,6 +1,0 @@
-Transductive graph-based semi-supervised learning methods usually build an undirected graph utilizing both labeled and unlabeled samples as vertices.
-Those methods propagate label information of labeled samples to neighbors through their edges in order to get the predicted labels of unlabeled samples.
-Most popular semi-supervised learning approaches are sensitive to initial label distribution happened in imbalanced labeled datasets.
-The class boundary will be severely skewed by the majority classes in an imbalanced classification.
-In this paper, we proposed a simple and effective approach to alleviate the unfavorable influence of imbalance problem by iteratively selecting a few unlabeled samples and adding them into the minority classes to form a balanced labeled dataset for the learning methods afterwards.
-The experiments on UCI datasets and MNIST handwritten digits dataset showed that the proposed approach outperforms other existing state-of-art methods.

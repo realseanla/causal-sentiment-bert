@@ -1,0 +1,4 @@
+Recurrent neural networks (RNNs) have proven to be powerful models in problems involving sequential data.
+Recently, RNNs have been augmented with "attention" mechanisms which allow the network to focus on different parts of an input sequence when computing their output.
+We propose a simplified model of attention which is applicable to feed-forward neural networks and demonstrate that it can solve some long-term memory problems (specifically, those where temporal order doesn't matter).
+In fact, we show empirically that our model can solve these problems for sequence lengths which are both longer and more widely varying than the best results attained with RNNs.

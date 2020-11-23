@@ -1,7 +1,0 @@
-This work proposes a low complexity nonlinearity model and develops adaptive algorithms over it.
-The model is based on the decomposable---or rank-one, in tensor language---Volterra kernels.
-It may also be described as a product of FIR filters, which explains its low-complexity.
-The rank-one model is also interesting because it comes from a well-posed problem in approximation theory.
-The paper uses such model in an estimation theory context to develop an exact gradient-type algorithm, from which adaptive algorithms such as the least mean squares (LMS) filter and its data-reuse version---the TRUE-LMS---are derived.
-Stability and convergence issues are addressed.
-The algorithms are then tested in simulations, which show its good performance when compared to other nonlinear processing algorithms in the literature.

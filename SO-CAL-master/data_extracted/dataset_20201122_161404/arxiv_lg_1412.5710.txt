@@ -1,3 +1,0 @@
-Finding a good classifier is a multiobjective optimization problem with different error rates and the costs to be minimized.
-The receiver operating characteristic is widely used in the machine learning community to analyze the performance of parametric classifiers or sets of Pareto optimal classifiers.
-In order to directly compare two sets of classifiers the area (or volume) under the convex hull can be used as a scalar indicator for the performance of a set of classifiers in receiver operating characteristic space.

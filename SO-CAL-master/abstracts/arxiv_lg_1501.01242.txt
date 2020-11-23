@@ -1,0 +1,6 @@
+Learning a kernel matrix from relative comparison human feedback is an important problem with applications in collaborative filtering, object retrieval, and search.
+For learning a kernel over a large number of objects, existing methods face significant scalability issues inhibiting the application of these methods to settings where a kernel is learned in an online and timely fashion.
+In this paper we propose a novel framework called Efficient online Relative comparison Kernel LEarning (ERKLE), for efficiently learning the similarity of a large set of objects in an online manner.
+We learn a kernel from relative comparisons via stochastic gradient descent, one query response at a time, by taking advantage of the sparse and low-rank properties of the gradient to efficiently restrict the kernel to lie in the space of positive semidefinite matrices.
+In addition, we derive a passive-aggressive online update for minimally satisfying new relative comparisons as to not disrupt the influence of previously obtained comparisons.
+Experimentally, we demonstrate a considerable improvement in speed while obtaining improved or comparable accuracy compared to current methods in the online learning setting.

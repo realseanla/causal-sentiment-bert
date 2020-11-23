@@ -1,0 +1,4 @@
+We first present a general risk bound for ensembles that depends on the Lp norm of the weighted combination of voters which can be selected from a continuous set.
+We then propose a boosting method, called QuadBoost, which is strongly supported by the general risk bound and has very simple rules for assigning the voters' weights.
+Moreover, QuadBoost exhibits a rate of decrease of its empirical error which is slightly faster than the one achieved by AdaBoost.
+The experimental results confirm the expectation of the theory that QuadBoost is a very efficient method for learning ensembles.

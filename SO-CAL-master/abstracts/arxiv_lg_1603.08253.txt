@@ -1,0 +1,3 @@
+We present a method of training a differentiable function approximator for a regression task using negative examples.
+We effect this training using negative learning rates.
+We also show how this method can be used to perform direct policy learning in a reinforcement learning setting.

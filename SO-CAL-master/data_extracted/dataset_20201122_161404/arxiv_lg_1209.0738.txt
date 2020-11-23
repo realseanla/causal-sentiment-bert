@@ -1,5 +1,0 @@
-We present an extension of sparse coding to the problems of multitask and transfer learning.
-The central assumption of the method is that the tasks parameters are well approximated by sparse linear combinations of the atoms of a dictionary on a high or infinite dimensional space.
-This assumption, together with the large quantity of available data in the multitask and transfer learning settings, allows a principled choice of the dictionary.
-We provide bounds on the generalization error of this approach, for both settings.
-Preliminary experiments indicate the advantage of the sparse multitask coding method over single task learning and a previous method based on orthogonal and dense representation of the tasks.

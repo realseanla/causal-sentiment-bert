@@ -1,4 +1,0 @@
-Learning a good representation of text is key to many recommendation applications.
-Examples include news recommendation where texts to be recommended are constantly published everyday.
-However, most existing recommendation techniques, such as matrix factorization based methods, mainly rely on interaction histories to learn representations of items.
-While latent factors of items can be learned effectively from user interaction data, in many cases, such data is not available, especially for newly emerged items.

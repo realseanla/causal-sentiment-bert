@@ -1,4 +1,0 @@
-We present a novel method to perform multi-class pattern classification with neural networks and test it on a challenging 3D hand gesture recognition problem.
-Our method consists of a standard one-against-all (OAA) classification, followed by another network layer classifying the resulting class scores, possibly augmented by the original raw input vector.
-This allows the network to disambiguate hard-to-separate classes as the distribution of class scores carries considerable information as well, and is in fact often used for assessing the confidence of a decision.
-We show that by this approach we are able to significantly boost our results, overall as well as for particular difficult cases, on the hard 10-class gesture classification task.

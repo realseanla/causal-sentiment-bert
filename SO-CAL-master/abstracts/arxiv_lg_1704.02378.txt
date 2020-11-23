@@ -1,0 +1,6 @@
+Clustering is a widely-used data mining tool, which aims to discover partitions of similar items in data.
+We introduce a new clustering paradigm, \emph{accordant clustering}, which enables the discovery of (predefined) group level insights.
+Unlike previous clustering paradigms that aim to understand relationships amongst the individual members, the goal of accordant clustering is to uncover insights at the group level through the analysis of their members.
+Group level insight can often support a call to action that cannot be informed through previous clustering techniques.
+We propose the first accordant clustering algorithm, and prove that it finds near-optimal solutions when data possesses inherent cluster structure.
+The insights revealed by accordant clusterings enabled experts in the field of medicine to isolate successful treatments for a neurodegenerative disease, and those in finance to discover patterns of unnecessary spending.

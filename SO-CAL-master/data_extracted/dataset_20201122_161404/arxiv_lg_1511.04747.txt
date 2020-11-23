@@ -1,6 +1,0 @@
-There has been a lot of prior work on representation learning for speech recognition applications, but not much emphasis has been given to an investigation of effective representations of affect from speech, where the paralinguistic elements of speech are separated out from the verbal content.
-In this paper, we explore denoising autoencoders for learning paralinguistic attributes i.e.
-dimensional affective traits from speech.
-We show that the representations learnt by the bottleneck layer of the autoencoder are highly discriminative at separating out negative sentiments (sadness and anger) from positive sentiments (happiness).
-We also learn utterance specific representations by a combination of denoising autoencoders and LSTM based recurrent autoencoders, and perform emotion classification with the learnt temporal/dynamic representations.
-Experiments on a well-established real-life speech dataset (IEMOCAP) show that the utterance representations are comparable to state of the art feature extractors (such as voice quality features and MFCCs) at emotion and affect recognition.

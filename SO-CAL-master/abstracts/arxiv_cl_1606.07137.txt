@@ -1,0 +1,5 @@
+We present a simple approach for automatically extracting the number of subjects involved in randomised controlled trials (RCT).
+Our approach first applies a set of rule-based techniques to extract candidate study sizes from the abstracts of the articles.
+Supervised classification is then performed over the candidates with support vector machines, using a small set of lexical, structural, and contextual features.
+With only a small annotated training set of 201 RCTs, we obtained an accuracy of 88\ percent.
+We believe that this system will aid complex medical text processing tasks such as summarisation and question answering.

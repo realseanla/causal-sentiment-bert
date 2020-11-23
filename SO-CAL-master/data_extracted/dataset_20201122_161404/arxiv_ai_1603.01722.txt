@@ -1,7 +1,0 @@
-The increasing amount of available Linked Data resources is laying the foundations for more advanced Semantic Web applications.
-One of their main limitations, however, remains the general low level of data quality.
-In this paper we focus on a measure of quality which is negatively affected by the increase of the available resources.
-We propose a measure of semantic richness of Linked Data concepts and we demonstrate our hypothesis that the more a concept is reused, the less semantically rich it becomes.
-This is a significant scalability issue, as one of the core aspects of Linked Data is the propagation of semantic information on the Web by reusing common terms.
-We prove our hypothesis with respect to our measure of semantic richness and we validate our model empirically.
-Finally, we suggest possible future directions to address this scalability problem.

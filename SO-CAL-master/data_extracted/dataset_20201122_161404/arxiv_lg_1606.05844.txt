@@ -1,7 +1,0 @@
-In this paper, we describe a statistical parametric speech synthesis approach with unit-level acoustic representation.
-In conventional deep neural network based speech synthesis, the input text features are repeated for the entire duration of phoneme for mapping text and speech parameters.
-This mapping is learnt at the frame-level which is the de-facto acoustic representation.
-However much of this computational requirement can be drastically reduced if every unit can be represented with a fixed-dimensional representation.
-Using recurrent neural network based auto-encoder, we show that it is indeed possible to map units of varying duration to a single vector.
-We then use this acoustic representation at unit-level to synthesize speech using deep neural network based statistical parametric speech synthesis technique.
-Results show that the proposed approach is able to synthesize at the same quality as the conventional frame based approach at a highly reduced computational cost.

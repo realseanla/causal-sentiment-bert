@@ -1,0 +1,5 @@
+In order for the predicted interactions to be directly adopted by biologists, the ma- chine learning predictions have to be of high precision, regardless of recall.
+This aspect cannot be evaluated or numerically represented well by traditional metrics like accuracy, ROC, or precision-recall curve.
+In this work, we start from the alignment in sensitivity of ROC and recall of precision-recall curve, and propose an evaluation metric focusing on the ability of a model to be adopted by biologists.
+This metric evaluates the ability of a machine learning algorithm to predict only new interactions, meanwhile, it eliminates the influence of test dataset.
+In the experiment of evaluating different classifiers with a same data set and evaluating the same predictor with different datasets, our new metric fulfills the evaluation task of our interest while two widely recognized metrics, ROC and precision-recall curve fail the tasks for different reasons.

@@ -1,0 +1,8 @@
+Building recommendation algorithms is one of the most challenging tasks in Machine Learning.
+Although there has been significant progress in building recommendation systems when explicit feedback is available from the users in the form of rating or text, most of the applications do not receive such feedback.
+Here we consider the recommendation task where the available data is the record of the items selected by different users over time for subscription or purchase.
+This is known as implicit feedback recommendation.
+Such data are usually available as large amount of user logs stored over massively distributed storage systems such as Hadoop.
+Therefore it is essential to have a highly scalable algorithm to build a recommender system for such applications.
+Here we propose a probabilistic algorithm that takes only two to three passes through the entire dataset to extract the model parameters during the training phase.
+We demonstrate the competitive performance of our algorithm in several empirical measures as well as the computation time in comparison with the existing algorithms on various publicly available datasets.

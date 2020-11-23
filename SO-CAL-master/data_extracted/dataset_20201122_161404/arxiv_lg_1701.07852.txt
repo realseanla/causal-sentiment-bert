@@ -1,5 +1,0 @@
-Machine learning models, such as neural networks, decision trees, random forests and gradient boosting machines accept a feature vector and provide a prediction.
-These models learn in a supervised fashion where a set of feature vectors with expected output is provided.
-It is very common practice to engineer new features from the provided feature set.
-Such engineered features will either augment, or replace portions of the existing feature vector.
-These engineered features are essentially calculated fields, based on the values of the other features.

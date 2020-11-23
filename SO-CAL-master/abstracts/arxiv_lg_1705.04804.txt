@@ -1,0 +1,7 @@
+The redundant features existing in high dimensional datasets always affect the performance of learning and mining algorithms.
+How to detect and remove them is an important research topic in machine learning and data mining research.
+In this paper, we propose a graph based approach to find and remove those redundant features automatically for high dimensional data.
+Based on the framework of sparse learning based unsupervised feature selection, Sparse Feature Graph (SFG) is introduced not only to model the redundancy between two features, but also to disclose the group redundancy between two groups of features.
+With SFG, we can divide the whole features into different groups, and improve the intrinsic structure of data by removing detected redundant features.
+With accurate data structure, quality indicator vectors can be obtained to improve the learning performance of existing unsupervised feature selection algorithms such as multi-cluster feature selection (MCFS).
+Our experimental results on benchmark datasets show that the proposed SFG and feature redundancy remove algorithm can improve the performance of unsupervised feature selection algorithms consistently.

@@ -1,0 +1,5 @@
+Several algorithms have been proposed for discovering patterns from trajectories of moving objects, but only a few have concentrated on outlier detection.
+Existing approaches, in general, discover spatial outliers, and do not provide any further analysis of the patterns.
+In this paper we introduce semantic spatial and spatio-temporal outliers and propose a new algorithm for trajectory outlier detection.
+Semantic outliers are computed between regions of interest, where objects have similar movement intention, and there exist standard paths which connect the regions.
+We show with experiments on real data that the method finds semantic outliers from trajectory data that are not discovered by similar approaches.

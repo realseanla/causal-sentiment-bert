@@ -1,0 +1,4 @@
+Information delivery in a network of agents is a key issue for large, complex systems that need to do so in a predictable, efficient manner.
+The delivery of information in such multi-agent systems is typically implemented through routing protocols that determine how information flows through the network.
+Different routing protocols exist each with its own benefits, but it is generally unclear which properties can be successfully combined within a given algorithm.
+We approach this problem from the axiomatic point of view, i.e., we try to establish what are the properties we would seek to see in such a system, and examine the different properties which uniquely define common routing algorithms used today.

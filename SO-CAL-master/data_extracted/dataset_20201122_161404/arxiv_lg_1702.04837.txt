@@ -1,4 +1,0 @@
-We address the statistical and optimization impacts of using classical or Hessian sketch to approximately solve the Matrix Ridge Regression (MRR) problem.
-Prior research has considered the effects of classical sketch on least squares regression (LSR), a strictly simpler problem.
-We establish that classical sketch has a similar effect upon the optimization properties of MRR as it does on those of LSR -- namely, it recovers nearly optimal solutions.
-In contrast, Hessian sketch does not have this guarantee; instead, the approximation error is governed by a subtle interplay between the "mass" in the responses and the optimal objective value.

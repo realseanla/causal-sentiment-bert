@@ -1,4 +1,0 @@
-The goal of Text-to-Speech (TTS) synthesis in a particular language is to convert arbitrary input text to intelligible and natural sounding speech.
-However, for a particular language like Hindi, which is a highly confusing language (due to very close spellings), it is not an easy task to identify errors/mistakes in input text and an incorrect text degrade the quality of output speech hence this paper is a contribution to the development of high quality speech synthesis with the involvement of Spellchecker which generates spell suggestions for misspelled words automatically.
-Involvement of spellchecker would increase the efficiency of speech synthesis by providing spell suggestions for incorrect input text.
-Furthermore, we have provided the comparative study for evaluating the resultant effect on to phonetic text by adding spellchecker on to input text.

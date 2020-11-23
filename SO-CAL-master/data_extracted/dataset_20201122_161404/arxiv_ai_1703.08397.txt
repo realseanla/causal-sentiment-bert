@@ -1,4 +1,0 @@
-We extend the $ASPIC^+$ framework for structured argumentation so as to allow applications of the reasoning by cases inference scheme for defeasible arguments.
-Given an argument with conclusion `$A$ or $B$', an argument based on $A$ with conclusion $C$, and an argument based on $B$ with conclusion $C$, we allow the construction of an argument with conclusion $C$.
-We show how our framework leads to different results than other approaches in non-monotonic logic for dealing with disjunctive information, such as disjunctive default theory or approaches based on the OR-rule (which allows to derive a defeasible rule `If ($A$ or $B$) then $C$', given two defeasible rules `If $A$ then $C$' and `If $B$ then $C$').
-We raise new questions regarding the subtleties of reasoning defeasibly with disjunctive information, and show that its formalization is more intricate than one would presume.

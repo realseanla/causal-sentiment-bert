@@ -1,0 +1,7 @@
+We propose a method for hand pose estimation based on a deep regressor trained on two different kinds of input.
+Raw depth data is fused with an intermediate representation in the form of a segmentation of the hand into parts.
+This intermediate representation contains important topological information and provides useful cues for reasoning about joint locations.
+The mapping from raw depth to segmentation maps is learned in a semi/weakly-supervised way from two different datasets: (i) a synthetic dataset created through a rendering pipeline including densely labeled ground truth (pixelwise segmentations); and (ii) a dataset with real images for which ground truth joint positions are available, but not dense segmentations.
+Loss for training on real images is generated from a patch-wise restoration process, which aligns tentative segmentation maps with a large dictionary of synthetic poses.
+The underlying premise is that the domain shift between synthetic and real data is smaller in the intermediate representation, where labels carry geometric and topological meaning, than in the raw input domain.
+Experiments on the NYU dataset show that the proposed training method decreases error on joints over direct regression of joints from depth data by 15.7 percent.

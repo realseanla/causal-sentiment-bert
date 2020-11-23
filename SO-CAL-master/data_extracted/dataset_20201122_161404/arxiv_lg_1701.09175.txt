@@ -1,7 +1,0 @@
-Skip connections made the training of very deep neural networks possible and have become an indispendable component in a variety of neural architectures.
-A satisfactory explanation for their success remains elusive.
-Here, we present an explanation for the benefits of skip connections in training very deep neural networks.
-We argue that skip connections help break symmetries inherent in the loss landscapes of deep networks, leading to drastically simplified landscapes.
-In particular, skip connections between adjacent layers in a multilayer network break the permutation symmetry of nodes in a given layer, and the recently proposed DenseNet architecture, where each layer projects skip connections to every layer above it, also breaks the rescaling symmetry of connectivity matrices between different layers.
-This hypothesis is supported by evidence from a toy model with binary weights and from experiments with fully-connected networks suggesting (i) that skip connections do not necessarily improve training unless they help break symmetries and (ii) that alternative ways of breaking the symmetries also lead to significant performance improvements in training deep networks, hence there is nothing special about skip connections in this respect.
-We find, however, that skip connections confer additional benefits over and above symmetry-breaking, such as the ability to deal effectively with the vanishing gradients problem.

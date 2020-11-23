@@ -1,4 +1,0 @@
-Many typical applications of object detection operate within a prescribed false-positive range.
-In this situation the performance of a detector should be assessed on the basis of the area under the ROC curve over that range, rather than over the full curve, as the performance outside the range is irrelevant.
-This measure is labelled as the partial area under the ROC curve (pAUC).
-We propose a novel ensemble learning method which achieves a maximal detection rate at a user-defined range of false positive rates by directly optimizing the partial AUC using structured output learning.

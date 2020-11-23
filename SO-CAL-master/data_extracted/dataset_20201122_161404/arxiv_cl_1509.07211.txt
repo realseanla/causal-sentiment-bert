@@ -1,6 +1,0 @@
-In this paper, the Lingban entry to the third 'CHiME' speech separation and recognition challenge is presented.
-A time-frequency masking based speech enhancement front-end is proposed to suppress the environmental noise utilizing multi-channel coherence and spatial cues.
-The state-of-the-art speech recognition techniques, namely recurrent neural network based acoustic and language modeling, state space minimum Bayes risk based discriminative acoustic modeling, and i-vector based acoustic condition modeling, are carefully integrated into the speech recognition back-end.
-To further improve the system performance by fully exploiting the advantages of different technologies, the final recognition results are obtained by lattice combination and rescoring.
-Evaluations carried out on the official dataset prove the effectiveness of the proposed systems.
-Comparing with the best baseline result, the proposed system obtains consistent improvements with over 57 percent relative word error rate reduction on the real-data test set.

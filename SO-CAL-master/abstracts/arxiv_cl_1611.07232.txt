@@ -1,0 +1,8 @@
+Nowadays, large-scale knowledge bases containing billions of facts have reached impressive sizes; however, they are still far from completion.
+In addition, most existing methods only consider the direct links between entities, ignoring the vital impact about the semantic of relation paths.
+In this paper, we study the problem of how to better embed entities and relations into different low dimensional spaces.
+A compositional learning model of relation paths embedding (RPE) is proposed to take full advantage of additional semantic information expressed by relation paths.
+More specifically, using corresponding projection matrices, RPE can simultaneously embed entities into corresponding relation and path spaces.
+It is also suggested that type constraints could be extended from traditional relation-specific to the new proposed path-specific ones.
+Both of the two type constraints can be seamlessly incorporated into RPE and decrease the errors in prediction.
+Experiments are conducted on the benchmark datasets and the proposed model achieves significant and consistent improvements compared with the state-of-the-art algorithms for knowledge base completion.

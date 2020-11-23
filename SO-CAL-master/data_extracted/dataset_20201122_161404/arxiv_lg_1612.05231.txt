@@ -1,2 +1,0 @@
-We present a method for implementing an Efficient Unitary Neural Network (EUNN) whose computational complexity is merely $\mathcal{O}(1)$ per parameter and has full tunability, from spanning part of unitary space to all of it.
-We apply the EUNN in Recurrent Neural Networks, and test its performance on the standard copying task and the MNIST digit recognition benchmark, finding that it significantly outperforms a non-unitary RNN, an LSTM network, an exclusively partial space URNN and a projective URNN with comparable parameter numbers.

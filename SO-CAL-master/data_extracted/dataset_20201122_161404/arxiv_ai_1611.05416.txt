@@ -1,7 +1,0 @@
-Creating any aesthetically pleasing piece of art, like music, has been a long time dream for artificial intelligence research.
-Based on recent success of long-short term memory (LSTM) on sequence learning, we put forward a novel system to reflect the thinking pattern of a musician.
-For data representation, we propose a note-level encoding method, which enables our model to simulate how human composes and polishes music phrases.
-To avoid failure against music theory, we invent a novel method, grammar argumented (GA) method.
-It can teach machine basic composing principles.
-In this method, we propose three rules as argumented grammars and three metrics for evaluation of machine-made music.
-Results show that comparing to basic LSTM, grammar argumented model's compositions have higher contents of diatonic scale notes, short pitch intervals, and chords.

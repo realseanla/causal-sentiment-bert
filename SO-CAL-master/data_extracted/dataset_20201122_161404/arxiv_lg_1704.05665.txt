@@ -1,7 +1,0 @@
-Music emotion recognition (MER) is usually regarded as a multi-label tagging task, and each segment of music can inspire specific emotion tags.
-Most researchers extract acoustic features from music and explore the relations between these features and their corresponding emotion tags.
-Considering the inconsistency of emotions inspired by the same music segment for human beings, seeking for the key acoustic features that really affect on emotions is really a challenging task.
-In this paper, we propose a novel MER method by using deep convolutional neural network (CNN) on the music spectrograms that contains both the original time and frequency domain information.
-By the proposed method, no additional effort on extracting specific features required, which is left to the training procedure of the CNN model.
-Experiments are conducted on the standard CAL500 and CAL500exp dataset.
-Results show that, for both datasets, the proposed method outperforms state-of-the-art methods.

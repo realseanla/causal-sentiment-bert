@@ -1,6 +1,0 @@
-This paper describes a preliminary study for producing and distributing a large-scale database of embeddings from the Portuguese Twitter stream.
-We start by experimenting with a relatively small sample and focusing on three challenges: volume of training data, vocabulary size and intrinsic evaluation metrics.
-Using a single GPU, we were able to scale up vocabulary size from 2048 words embedded and 500K training examples to 32768 words over 10M training examples while keeping a stable validation loss and approximately linear trend on training time per epoch.
-We also observed that using less than 50\ percent of the available training examples for each vocabulary size might result in overfitting.
-Results on intrinsic evaluation show promising performance for a vocabulary size of 32768 words.
-Nevertheless, intrinsic evaluation metrics suffer from over-sensitivity to their corresponding cosine similarity thresholds, indicating that a wider range of metrics need to be developed to track progress.

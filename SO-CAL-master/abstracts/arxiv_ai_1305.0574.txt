@@ -1,0 +1,3 @@
+In this paper, we address the problem of enumerating all models of a Boolean formula in conjunctive normal form (CNF).
+We propose an extension of CDCL-based SAT solvers to deal with this fundamental problem.
+Then, we provide an experimental evaluation of our proposed SAT model enumeration algorithms on both satisfiable SAT instances taken from the last SAT challenge and on instances from the SAT-based encoding of sequence mining problems.

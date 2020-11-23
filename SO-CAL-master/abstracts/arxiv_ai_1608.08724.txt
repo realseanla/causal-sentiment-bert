@@ -1,0 +1,5 @@
+We present POAPS, a novel planning system for defining Partially Observable Markov Decision Processes (POMDPs) that abstracts away from POMDP details for the benefit of non-expert practitioners.
+POAPS includes an expressive adaptive programming language based on Lisp that has constructs for choice points that can be dynamically optimized.
+Non-experts can use our language to write adaptive programs that have partially observable components without needing to specify belief/hidden states or reason about probabilities.
+POAPS is also a compiler that defines and performs the transformation of any program written in our language into a POMDP with control knowledge.
+We demonstrate the generality and power of POAPS in the rapidly growing domain of human computation by describing its expressiveness and simplicity by writing several POAPS programs for common crowdsourcing tasks.

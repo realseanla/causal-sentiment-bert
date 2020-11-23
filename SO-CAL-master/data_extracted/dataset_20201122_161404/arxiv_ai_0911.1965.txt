@@ -1,4 +1,0 @@
-We propose and compare various sentence selection strategies for active learning for the task of detecting mentions of entities.
-The best strategy employs the sum of confidences of two statistical classifiers trained on different views of the data.
-Our experimental results show that, compared to the random selection strategy, this strategy reduces the amount of required labeled training data by over 50 percent while achieving the same performance.
-The effect is even more significant when only named mentions are considered: the system achieves the same performance by using only 42 percent of the training data required by the random selection strategy.

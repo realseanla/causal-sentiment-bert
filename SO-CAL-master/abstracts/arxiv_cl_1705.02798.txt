@@ -1,0 +1,6 @@
+Recently, several end-to-end neural models have been proposed for machine comprehension tasks.
+Typically, these models use attention mechanisms to capture the complicated interaction between the context and the query and then point the boundary of answer.
+To better point the correct answer, we introduce the Mnemonic Reader for machine comprehension tasks, which enhance the attention reader in two aspects.
+Firstly, we use a self-alignment attention to model the long-distance dependency among context words, and obtain query-aware and self-aware contextual representation for each word in the context.
+Second, we use a memory-based query-dependent pointer to predict the answer, which integrates both explicit and implicit query information, such as query category.
+Our experimental evaluations show that our model obtains the state-of-the-art result on the large-scale machine comprehension benchmarks SQuAD.

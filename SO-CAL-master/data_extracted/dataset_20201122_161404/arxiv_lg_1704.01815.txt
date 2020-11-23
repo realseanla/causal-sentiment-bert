@@ -1,6 +1,0 @@
-The key issues pertaining to collection of epidemic disease data for our analysis purposes are that it is a labour intensive, time consuming and expensive process resulting in availability of sparse sample data which we use to develop prediction models.
-To address this sparse data issue, we present novel Incremental Transductive methods to circumvent the data collection process by applying previously acquired data to provide consistent, confidence-based labelling alternatives to field survey research.
-We investigated various reasoning approaches for semisupervised machine learning including Bayesian models for labelling data.
-The results show that using the proposed methods, we can label instances of data with a class of vector density at a high level of confidence.
-By applying the Liberal and Strict Training Approaches, we provide a labelling and classification alternative to standalone algorithms.
-The methods in this paper are components in the process of reducing the proliferation of the Schistosomiasis disease and its effects.

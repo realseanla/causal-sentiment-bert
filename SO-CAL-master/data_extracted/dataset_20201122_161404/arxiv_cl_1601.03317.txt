@@ -1,7 +1,0 @@
-Neural machine translation has shown very promising results lately.
-Most NMT models follow the encoder-decoder frame- work.
-To make encoder-decoder models more flexible, attention mechanism was introduced to machine translation and also other tasks like speech recognition and image captioning.
-We observe that the quality of translation by attention-based encoder-decoder can be significantly dam- aged when the alignment is incorrect.
-We attribute these problems to the lack of distortion and fertility models.
-Aiming to resolve these problems, we propose new variations of attention-based encoder- decoder and compare them with other models on machine translation.
-Our pro- posed method achieved an improvement of 2 BLEU points over the original attention- based encoder-decoder.

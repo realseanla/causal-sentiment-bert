@@ -1,0 +1,7 @@
+Ensemble learning has been widely employed by mobile applications, ranging from environmental sensing to activity recognitions.
+One of the fundamental issue in ensemble learning is the trade-off between classification accuracy and computational costs, which is the goal of ensemble pruning.
+During crowdsourcing, the centralized aggregator releases ensemble learning models to a large number of mobile participants for task evaluation or as the crowdsourcing learning results, while different participants may seek for different levels of the accuracy-cost trade-off.
+However, most of existing ensemble pruning approaches consider only one identical level of such trade-off.
+In this study, we present an efficient ensemble pruning framework for personalized accuracy-cost trade-offs via multi-objective optimization.
+Specifically, for the commonly used linear-combination style of the trade-off, we provide an objective-mixture optimization to further reduce the number of ensemble candidates.
+Experimental results show that our framework is highly efficient for personalized ensemble pruning, and achieves much better pruning performance with objective-mixture optimization when compared to state-of-art approaches.

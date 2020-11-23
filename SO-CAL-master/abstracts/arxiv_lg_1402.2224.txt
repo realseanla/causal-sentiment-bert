@@ -1,0 +1,6 @@
+In 2008, Kasiviswanathan et al.
+defined private learning as a combination of PAC learning and differential privacy.
+Informally, a private learner is applied to a collection of labeled individual information and outputs a hypothesis while preserving the privacy of each individual.
+Kasiviswanathan et al.
+gave a generic construction of private learners for (finite) concept classes, with sample complexity logarithmic in the size of the concept class.
+This sample complexity is higher than what is needed for non-private learners, hence leaving open the possibility that the sample complexity of private learning may be sometimes significantly higher than that of non-private learning.

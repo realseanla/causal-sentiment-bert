@@ -1,3 +1,0 @@
-We present a method for estimating pose information from a single depth image given an arbitrary kinematic structure without prior training.
-For an arbitrary skeleton and depth image, an evolutionary algorithm is used to find the optimal kinematic configuration to explain the observed image.
-Results show that our approach can correctly estimate poses of 39 and 78 degree-of-freedom models from a single depth image, even in cases of significant self-occlusion.

@@ -1,3 +1,0 @@
-Catastrophic forgetting is of special importance in reinforcement learning, as the data distribution is generally non-stationary over time.
-We study and compare several pseudorehearsal approaches for Q-learning with function approximation in a pole balancing task.
-We have found that pseudorehearsal seems to assist learning even in such very simple problems, given proper initialization of the rehearsal parameters.

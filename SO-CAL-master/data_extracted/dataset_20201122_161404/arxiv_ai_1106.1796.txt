@@ -1,9 +1,0 @@
-This paper discusses a system that accelerates reinforcement learning by using transfer from related tasks.
-Without such transfer, even if two tasks are very similar at some abstract level, an extensive re-learning effort is required.
-The system achieves much of its power by transferring parts of previously learned solutions rather than a single complete solution.
-The system exploits strong features in the multi-dimensional function produced by reinforcement learning in solving a particular task.
-These features are stable and easy to recognize early in the learning process.
-They generate a partitioning of the state space and thus the function.
-The partition is represented as a graph.
-This is used to index and compose functions stored in a case base to form a close approximation to the solution of the new task.
-Experiments demonstrate that function composition often produces more than an order of magnitude increase in learning rate compared to a basic reinforcement learning algorithm.

@@ -1,0 +1,6 @@
+In this paper we focus on finding high quality solutions for the problem of maximum partitioning of graphs with supply and demand (MPGSD).
+There is a growing interest for the MPGSD due to its close connection to problems appearing in the field of electrical distribution systems, especially for the optimization of self-adequacy of interconnected microgrids.
+We propose an ant colony optimization algorithm for the problem.
+With the goal of further improving the algorithm we combine it with a previously developed correction procedure.
+In our computational experiments we evaluate the performance of the proposed algorithm on both trees and general graphs.
+The tests show that the method manages to find optimal solutions in more than 50 percent of the problem instances, and has an average relative error of less than 0.5 percent when compared to known optimal solutions.

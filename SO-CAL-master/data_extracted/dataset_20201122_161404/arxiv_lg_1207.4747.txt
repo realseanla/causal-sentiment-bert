@@ -1,5 +1,0 @@
-We consider the use of Frank-Wolfe optimization algorithms on the dual formulation of structural SVMs.
-These yield simple algorithms which only need access to an approximate maximization oracle for the structured prediction problem and thus have wide applicability.
-This perspective provides insights on previous popular algorithms as we show that batch subgradient as well as the cutting plane algorithms are equivalent to versions of Frank-Wolfe algorithms, enabling us to improve on their convergence analysis by harvesting the Frank-Wolfe literature.
-Moreover, we propose a new stochastic coordinate descent version of Frank-Wolfe which yields a provably convergent optimization algorithm for structural SVMs with total run-time independent of the number of training examples, like Pegasos, but with duality gap certificate guarantees and step-size robustness thanks to the use of line-search.
-Our experiments on sequence prediction indicate that this simple algorithm outperforms all other optimization algorithms which only have access to the maximization oracle.

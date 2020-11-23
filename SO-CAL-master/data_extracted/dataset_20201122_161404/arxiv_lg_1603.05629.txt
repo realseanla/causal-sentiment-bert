@@ -1,3 +1,0 @@
-Kernel classifiers and regressors designed for structured data, such as sequences, trees and graphs, have significantly advanced in a number of interdisciplinary areas such as computational biology and drug design.
-Typically, kernel functions are designed beforehand for a data type which either exploit statistics of the structures or make use of probabilistic generative models, and then a discriminative classifier is learned based on the kernels via convex optimization.
-However, such an elegant two-stage approach also limited kernel methods from scaling up to millions of data points, and exploiting discriminative information to learn feature representations.

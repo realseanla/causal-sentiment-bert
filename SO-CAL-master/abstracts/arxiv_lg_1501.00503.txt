@@ -1,0 +1,4 @@
+A particular case of Recurrent Neural Network (RNN) was introduced at the beginning of the 2000s under the name of Echo State Networks (ESNs).
+The ESN model overcomes the limitations during the training of the RNNs while introducing no significant disadvantages.
+Although the model presents some well-identified drawbacks when the parameters are not well initialised.
+The performance of an ESN is highly dependent on its internal parameters and pattern of connectivity of the hidden-hidden weights Often, the tuning of the network parameters can be hard and can impact in the accuracy of the models.

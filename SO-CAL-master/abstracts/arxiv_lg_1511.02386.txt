@@ -1,0 +1,8 @@
+Black box inference allows researchers to easily prototype and evaluate an array of models.
+Recent advances in variational inference allow such algorithms to scale to high dimensions.
+However, a central question remains: How to specify an expressive variational distribution which maintains efficient computation?
+To address this, we develop hierarchical variational models.
+In a hierarchical variational model, the variational approximation is augmented with a prior on its parameters, such that the latent variables are conditionally independent given this shared structure.
+This preserves the computational efficiency of the original approximation, while admitting hierarchically complex distributions for both discrete and continuous latent variables.
+We study hierarchical variational models on a variety of deep discrete latent variable models.
+Hierarchical variational models generalize other expressive variational distributions and maintains higher fidelity to the posterior.

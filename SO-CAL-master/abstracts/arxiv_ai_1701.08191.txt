@@ -1,0 +1,5 @@
+Maintenance of association rules is an interesting problem.
+Several incremental maintenance algorithms were proposed since the work of (Cheung et al, 1996).
+The majority of these algorithms maintain rule bases assuming that support threshold doesn't change.
+In this paper, we present incremental maintenance algorithm under support threshold change.
+This solution allows user to maintain its rule base under any support threshold.

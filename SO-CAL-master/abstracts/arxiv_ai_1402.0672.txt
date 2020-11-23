@@ -1,0 +1,6 @@
+CAPTCHAs or reverse Turing tests are real-time assessments used by programs (or computers) to tell humans and machines apart.
+This is achieved by assigning and assessing hard AI problems that could only be solved easily by human but not by machines.
+Applications of such assessments range from stopping spammers from automatically filling online forms to preventing hackers from performing dictionary attack.
+Today, the race between makers and breakers of CAPTCHAs is at a juncture, where the CAPTCHAs proposed are not even answerable by humans.
+We consider such CAPTCHAs as non user friendly.
+In this paper, we propose a novel technique for reverse Turing test - we call it the Line CAPTCHAs - that mainly focuses on user friendliness while not compromising the security aspect that is expected to be provided by such a system.

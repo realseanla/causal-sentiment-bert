@@ -1,5 +1,0 @@
-Variational autoencoders (VAE) often use Gaussian or category distribution to model the inference process.
-This puts a limit on variational learning because this simplified assumption does not match the true posterior distribution, which is usually much more sophisticated.
-To break this limitation and apply arbitrary parametric distribution during inference, this paper derives a \emph{semi-continuous} latent representation, which approximates a continuous density up to a prescribed precision, and is much easier to analyze than its continuous counterpart because it is fundamentally discrete.
-We showcase the proposition by applying polynomial exponential family distributions as the posterior, which are universal probability density function generators.
-Our experimental results show consistent improvements over commonly used VAE models.

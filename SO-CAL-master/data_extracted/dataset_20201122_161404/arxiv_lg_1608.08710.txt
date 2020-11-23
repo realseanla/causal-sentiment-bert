@@ -1,4 +1,0 @@
-Convolutional Neural Networks (CNNs) are extensively used in image and video recognition, natural language processing and other machine learning applications.
-The success of CNNs in these areas corresponds with a significant increase in the number of parameters and computation costs.
-Recent approaches towards reducing these overheads involve pruning and compressing the weights of various layers without hurting the overall CNN performance.
-However, using model compression to generate sparse CNNs mostly reduces parameters from the fully connected layers and may not significantly reduce the final computation costs.

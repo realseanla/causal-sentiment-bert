@@ -1,3 +1,0 @@
-A commonly used technique for managing AI complexity in real-time strategy (RTS) games is to use action and/or state abstractions.
-High-level abstractions can often lead to good strategic decision making, but tactical decision quality may suffer due to lost details.
-A competing method is to sample the search space which often leads to good tactical performance in simple scenarios, but poor high-level planning.

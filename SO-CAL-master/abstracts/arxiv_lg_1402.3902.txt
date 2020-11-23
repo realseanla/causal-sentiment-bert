@@ -1,0 +1,6 @@
+Let f be a real valued polynomial evaluated over the boolean hypercube with at most s non-zero real coefficients in the fourier domain.
+We give an algorithm for exactly reconstructing f given random examples only from the uniform distribution on the boolean hypercube that runs in time polynomial in n and 2s and succeeds if each coefficient of f has been perturbed by a small Gaussian (or any other reasonable distribution on the reals).
+Learning sparse polynomials over the Boolean domain in time polynomial in n and 2s is considered a notoriously hard problem in the worst-case.
+Our result shows that the problem is tractable in the smoothed- analysis setting.
+Our proof combines a method for identifying unique sign patterns induced by the underlying monomials of f with recent work in compressed sensing.
+We identify other natural conditions on f for which our techniques will succeed.

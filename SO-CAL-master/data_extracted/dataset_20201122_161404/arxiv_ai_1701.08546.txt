@@ -1,6 +1,0 @@
-Automation and computer intelligence to support complex human decisions becomes essential to manage large and distributed systems in the Cloud and IoT era.
-Understanding the root cause of an observed symptom in a complex system has been a major problem for decades.
-As industry dives into the IoT world and the amount of data generated per year grows at an amazing speed, an important question is how to find appropriate mechanisms to determine root causes that can handle huge amounts of data or may provide valuable feedback in real-time.
-While many survey papers aim at summarizing the landscape of techniques for modelling system behavior and infering the root cause of a problem based in the resulting models, none of those focuses on analyzing how the different techniques in the literature fit growing requirements in terms of performance and scalability.
-In this survey, we provide a review of root-cause analysis, focusing on these particular aspects.
-We also provide guidance to choose the best root-cause analysis strategy depending on the requirements of a particular system and application.

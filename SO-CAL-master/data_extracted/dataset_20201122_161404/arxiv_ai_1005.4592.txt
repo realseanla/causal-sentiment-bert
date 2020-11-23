@@ -1,5 +1,0 @@
-This paper presents a combination of several automated reasoning and proof presentation tools with the Mizar system for formalization of mathematics.
-The combination forms an online service called MizAR, similar to the SystemOnTPTP service for first-order automated reasoning.
-The main differences to SystemOnTPTP are the use of the Mizar language that is oriented towards human mathematicians (rather than the pure first-order logic used in SystemOnTPTP), and setting the service in the context of the large Mizar Mathematical Library of previous theorems,definitions, and proofs (rather than the isolated problems that are solved in SystemOnTPTP).
-These differences poses new challenges and new opportunities for automated reasoning and for proof presentation tools.
-This paper describes the overall structure of MizAR, and presents the automated reasoning systems and proof presentation tools that are combined to make MizAR a useful mathematical service.

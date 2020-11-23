@@ -1,5 +1,0 @@
-Recurrent neural network(RNN) has been broadly applied to natural language processing(NLP) problems.
-This kind of neural network is designed for modeling sequential data and has been testified to be quite efficient in sequential tagging tasks.
-In this paper, we propose to use bi-directional RNN with long short-term memory(LSTM) units for Chinese word segmentation, which is a crucial preprocess task for modeling Chinese sentences and articles.
-Classical methods focus on designing and combining hand-craft features from context, whereas bi-directional LSTM network(BLSTM) does not need any prior knowledge or pre-designing, and it is expert in keeping the contextual information in both directions.
-Experiment result shows that our approach gets state-of-the-art performance in word segmentation on both traditional Chinese datasets and simplified Chinese datasets.

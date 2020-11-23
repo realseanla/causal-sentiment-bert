@@ -1,4 +1,0 @@
-We present a family of logics for reasoning about agents' positions and motion in the plane which have several potential applications in the area of multi-agent systems (MAS), such as multi-agent planning and robotics.
-The most general logic includes (i) atomic formulas for representing the truth of a given fact or the presence of a given agent at a certain position of the plane, (ii) atomic programs corresponding to the four basic orientations in the plane (up, down, left, right) as well as the four program constructs of propositional dynamic logic (sequential composition, nondeterministic composition, iteration and test).
-As this logic is not computably enumerable, we study some interesting decidable and axiomatizable fragments of it.
-We also present a decidable extension of the iteration-free fragment of the logic by special programs representing motion of agents in the plane.

@@ -1,7 +1,0 @@
-We consider filtering for a continuous-time, or asynchronous, stochastic system where the full distribution over states is too large to be stored or calculated.
-We assume that the rate matrix of the system can be compactly represented and that the belief distribution is to be approximated as a product of marginals.
-The essential computation is the matrix exponential.
-We look at two different methods for its computation: ODE integration and uniformization of the Taylor expansion.
-For both we consider approximations in which only a factored belief state is maintained.
-For factored uniformization we demonstrate that the KL-divergence of the filtering is bounded.
-Our experimental results confirm our factored uniformization performs better than previously suggested uniformization methods and the mean field algorithm.

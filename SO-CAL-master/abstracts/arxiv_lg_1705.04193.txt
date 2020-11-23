@@ -1,0 +1,3 @@
+Traditional NMF-based signal decomposition relies on the factorization of spectral data which is typically computed by means of the short-time Fourier transform.
+In this paper we propose to relax the choice of a pre-fixed transform and learn a short-time unitary transform together with the factorization, using a novel block-descent algorithm.
+This improves the fit between the processed data and its approximation and is in turn shown to induce better separation performance in a speech enhancement experiment.

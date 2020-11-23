@@ -1,5 +1,0 @@
-We show that the internal representations of an image in a deep neural network (DNN) can be manipulated to mimic those of other natural images with only minor, imperceptible perturbations to the original image.
-Previous methods for generating adversarial images focused on image manipulation designed to produce erroneous class labels, while here we look at internal layers of the representation.
-Despite the similarities in the generation process, our class of adversarial images differs qualitatively from previous ones.
-Specifically, while the input image is perceptually similar to an image of one class, its internal representation appear remarkably like that of natural images in a different class.
-This phenomenon raises questions about DNN representations, as well as the properties of natural images themselves.

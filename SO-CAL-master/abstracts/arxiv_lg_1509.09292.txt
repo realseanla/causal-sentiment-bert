@@ -1,0 +1,5 @@
+Predicting properties of molecules requires functions that take graphs as inputs.
+Molecular graphs are usually preprocessed using hash-based functions to produce fixed-size fingerprint vectors, which are used as features for making predictions.
+We introduce a convolutional neural network that operates directly on graphs, allowing end-to-end learning of the feature pipeline.
+This architecture generalizes standard molecular fingerprints.
+We show that these data-driven features are more interpretable, and have better predictive performance on a variety of tasks.

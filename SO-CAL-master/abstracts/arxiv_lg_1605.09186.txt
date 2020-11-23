@@ -1,0 +1,4 @@
+This paper presents the systems developed by LIUM and CVC for the WMT16 Multimodal Machine Translation challenge.
+We explored various comparative methods, namely phrase-based systems and attentional recurrent neural networks models trained using monomodal or multimodal data.
+We also performed a human evaluation in order to estimate the usefulness of multimodal data for human machine translation and image description generation.
+Our systems obtained the best results for both tasks according to the automatic evaluation metrics BLEU and METEOR.

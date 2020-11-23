@@ -1,8 +1,0 @@
-Reinforcement learning is considered as a promising direction for driving policy learning.
-However, training autonomous driving vehicle with reinforcement learning in real environment involves non-affordable trial-and-error.
-It is more desirable to first train in a virtual environment and then transfer to the real environment.
-In this paper, we propose a novel realistic translation network to make model trained in virtual environment be workable in real world.
-The proposed network can convert non-realistic virtual image input into a realistic one with similar scene structure.
-Given realistic frames as input, driving policy trained by reinforcement learning can nicely adapt to real world driving.
-Experiments show that our proposed virtual to real (VR) reinforcement learning (RL) works pretty well.
-To our knowledge, this is the first successful case of driving policy trained by reinforcement learning that can adapt to real world driving data.

@@ -1,7 +1,0 @@
-The dynamics of belief and knowledge is one of the major components of any autonomous system that should be able to incorporate new pieces of information.
-We introduced the knowledge base dynamics to deal with two important points: first, to handle belief states that need not be deductively closed; and the second point is the ability to declare certain parts of the belief as immutable.
-In this paper, we address another, radically new approach to this problem.
-This approach is very close to the Hansson's dyadic representation of belief.
-Here, we consider the immutable part as defining a new logical system.
-By a logical system, we mean that it defines its own consequence relation and closure operator.
-Based on this, we provide an abductive framework for knowledge base dynamics.

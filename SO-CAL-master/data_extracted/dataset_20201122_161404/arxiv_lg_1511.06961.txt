@@ -1,5 +1,0 @@
-In this work, we leverage the linear algebraic structure of distributed word representations to automatically extend knowledge bases and allow a machine to learn new facts about the world.
-Our goal is to extract structured facts from corpora in a simpler manner, without applying classifiers or patterns, and using only the co-occurrence statistics of words.
-We demonstrate that the linear algebraic structure of word embeddings can be used to reduce data requirements for methods of learning facts.
-In particular, we demonstrate that words belonging to a common category, or pairs of words satisfying a certain relation, form a low-rank subspace in the projected space.
-We compute a basis for this low-rank subspace using singular value decomposition (SVD), then use this basis to discover new facts and to fit vectors for less frequent words which we do not yet have vectors for.

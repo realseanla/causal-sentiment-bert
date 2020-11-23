@@ -1,8 +1,0 @@
-Security Games employ game theoretical tools to derive resource allocation strategies in security domains.
-Recent works considered the presence of alarm systems, even suffering various forms of uncertainty, and showed that disregarding alarm signals may lead to arbitrarily bad strategies.
-The central problem with an alarm system, unexplored in other Security Games, is finding the best strategy to respond to alarm signals for each mobile defensive resource.
-The literature provides results for the basic single-resource case, showing that even in that case the problem is computationally hard.
-In this paper, we focus on the challenging problem of designing algorithms scaling with multiple resources.
-First, we focus on finding the minimum number of resources assuring non-null protection to every target.
-Then, we deal with the computation of multi-resource strategies with different degrees of coordination among resources.
-For each considered problem, we provide a computational analysis and propose algorithmic methods.

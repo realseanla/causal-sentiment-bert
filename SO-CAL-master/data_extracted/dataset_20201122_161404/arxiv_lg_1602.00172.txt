@@ -1,4 +1,0 @@
-Inspired by recent successes of deep learning in computer vision, we propose a novel application of deep convolutional neural networks to facial expression recognition, in particular smile recognition.
-A smile recognition test accuracy of 99.45 percent is achieved for the Denver Intensity of Spontaneous Facial Action (DISFA) database, significantly outperforming existing approaches based on hand-crafted features with accuracies ranging from 65.55 percent to 79.67 percent.
-The novelty of this approach includes a comprehensive model selection of the architecture parameters, allowing to find an appropriate architecture for each expression such as smile.
-This is feasible because all experiments were run on a Tesla K40c GPU, allowing a speedup of factor 10 over traditional computations on a CPU.

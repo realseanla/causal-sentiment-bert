@@ -1,4 +1,0 @@
-We solve the COLT 2013 open problem of Seldin et.
-al.
-on minimizing regret in the setting of advice-efficient multiarmed bandits with expert advice.
-We give an algorithm for the setting of K arms and N experts out of which we are allowed to query and use only M experts' advices in each round, which has a regret bound of 4\sqrt{\frac{\min\{K, M\} N \log(N)}{M} T} after T rounds.

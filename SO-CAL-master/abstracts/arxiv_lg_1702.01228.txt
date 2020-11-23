@@ -1,0 +1,8 @@
+Misunderstanding of driver correction behaviors (DCB) is the primary reason for false warnings of lane-departure-prediction systems.
+We propose a learning-based approach to predicting unintended lane-departure behaviors (LDB) and the chance for drivers to bring the vehicle back to the lane.
+First, in this approach, a personalized driver model for lane-departure and lane-keeping behavior is established by combining the Gaussian mixture model and the hidden Markov model.
+Second, based on this model, we develop an online model-based prediction algorithm to predict the forthcoming vehicle trajectory and judge whether the driver will demonstrate an LDB or a DCB.
+We also develop a warning strategy based on the model-based prediction algorithm that allows the lane-departure warning system to be acceptable for drivers according to the predicted trajectory.
+In addition, the naturalistic driving data of 10 drivers is collected through the University of Michigan Safety Pilot Model Deployment program to train the personalized driver model and validate this approach.
+We compare the proposed method with a basic time-to-lane-crossing (TLC) method and a TLC-directional sequence of piecewise lateral slopes (TLC-DSPLS) method.
+The results show that the proposed approach can reduce the false-warning rate to 3.07\ percent.

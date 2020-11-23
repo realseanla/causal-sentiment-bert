@@ -1,0 +1,7 @@
+In 2014, Amin, Heidari, and Kearns proved that tree networks can be learned by observing only the infected set of vertices of the contagion process under the independent cascade model, in both the active and passive query models.
+They also showed empirically that simple extensions of their algorithms work on sparse networks.
+In this work, we focus on the active model.
+We prove that a simple modification of Amin et al.
+'s algorithm works on more general classes of networks, namely (i) networks with large girth and low path growth rate, and (ii) networks with bounded degree.
+This also provides partial theoretical explanation for Amin et al.
+'s experiments on sparse networks.

@@ -1,4 +1,0 @@
-We present a system for online monitoring of maritime activity over streaming positions from numerous vessels sailing at sea.
-It employs an online tracking module for detecting important changes in the evolving trajectory of each vessel across time, and thus can incrementally retain concise, yet reliable summaries of its recent movement.
-In addition, thanks to its complex event recognition module, this system can also offer instant notification to marine authorities regarding emergency situations, such as risk of collisions, suspicious moves in protected zones, or package picking at open sea.
-Not only did our extensive tests validate the performance, efficiency, and robustness of the system against scalable volumes of real-world and synthetically enlarged datasets, but its deployment against online feeds from vessels has also confirmed its capabilities for effective, real-time maritime surveillance.

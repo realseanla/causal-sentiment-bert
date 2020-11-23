@@ -1,0 +1,6 @@
+We present an extensive analysis of the key problem of learning optimal reserve prices for generalized second price auctions.
+We describe two algorithms for this task: one based on density estimation, and a novel algorithm benefiting from solid theoretical guarantees and with a very favorable running-time complexity of $O(n S \log (n S))$, where $n$ is the sample size and $S$ the number of slots.
+Our theoretical guarantees are more favorable than those previously presented in the literature.
+Additionally, we show that even if bidders do not play at an equilibrium, our second algorithm is still well defined and minimizes a quantity of interest.
+To our knowledge, this is the first attempt to apply learning algorithms to the problem of reserve price optimization in GSP auctions.
+Finally, we present the first convergence analysis of empirical equilibrium bidding functions to the unique symmetric Bayesian-Nash equilibrium of a GSP.

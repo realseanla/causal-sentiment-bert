@@ -1,6 +1,0 @@
-We consider a general framework of online learning with expert advice where the regret is defined with respect to a competitor class defined by a weighted automaton over sequences of experts.
-Our framework covers several problems previously studied, in particular that of competing against k-shifting experts.
-We give a series of algorithms for this problem, including an automata-based algorithm extending weighted- majority and more efficient algorithms based on the notion of failure transitions.
-We further present efficient algorithms based on a compact approximation of the competitor automaton, in particular efficient n-gram models obtained by minimizing the Renyi divergence, and present an extensive study of the approximation properties of such models.
-We also extend our algorithms and results to the framework of sleeping experts.
-Finally, we describe the extension of our approximation methods to online convex optimization and a general mirror descent setting.

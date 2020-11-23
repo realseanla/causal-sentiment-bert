@@ -1,0 +1,3 @@
+We present a novel approach for automatic report generation from time-series data, in the context of student feedback generation.
+Our proposed methodology treats content selection as a multi-label classification (MLC) problem, which takes as input time-series data (students' learning data) and outputs a summary of these data (feedback).
+Unlike previous work, this method considers all data simultaneously using ensembles of classifiers, and therefore, it achieves higher accuracy and F- score compared to meaningful baselines.

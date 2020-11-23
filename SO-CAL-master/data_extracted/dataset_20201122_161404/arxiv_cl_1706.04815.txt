@@ -1,5 +1,0 @@
-Most existing works on machine reading comprehension are built under the answer extraction approach which predicts sub-spans from passages to answer questions.
-In this paper, we develop an extraction-then-generation framework for machine reading comprehension, in which the answer is generated from the extraction results.
-Specifically, we build the answer extraction model to predict the most important sub-spans from the passage as evidence, and develop the answer generation model which takes the evidence as additional features along with the question and passage to further elaborate the final answers.
-We build the answer extraction model with state-of-the-art neural networks for reading comprehension, and the answer generation model with sequence-to-sequence neural networks.
-Experiments on the MS-MARCO dataset show that the generation based approach achieves better results than pure answer extraction.

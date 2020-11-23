@@ -1,6 +1,0 @@
-We introduce an abductive method for a coherent integration of independent data-sources.
-The idea is to compute a list of data-facts that should be inserted to the amalgamated database or retracted from it in order to restore its consistency.
-This method is implemented by an abductive solver, called Asystem, that applies SLDNFA-resolution on a meta-theory that relates different, possibly contradicting, input databases.
-We also give a pure model-theoretic analysis of the possible ways to `recover' consistent data from an inconsistent database in terms of those models of the database that exhibit as minimal inconsistent information as reasonably possible.
-This allows us to characterize the `recovered databases' in terms of the `preferred' (i.e., most consistent) models of the theory.
-The outcome is an abductive-based application that is sound and complete with respect to a corresponding model-based, preferential semantics, and -- to the best of our knowledge -- is more expressive (thus more general) than any other implementation of coherent integration of databases.

@@ -1,7 +1,0 @@
-Real-time bidding (RTB) has become one of the largest online advertising markets in the world.
-Today the bid price per ad impression is typically decided by the expected value of how it can lead to a desired action event (e.g., registering an account or placing a purchase order) to the advertiser.
-However, this industry standard approach to decide the bid price does not consider the actual effect of the ad shown to the user, which should be measured based on the performance lift among users who have been or have not been exposed to a certain treatment of ads.
-In this paper, we propose a new bidding strategy and prove that if the bid price is decided based on the performance lift rather than absolute performance value, advertisers can actually gain more action events.
-We describe the modeling methodology to predict the performance lift and demonstrate the actual performance gain through blind A/B test with real ad campaigns in an industry-leading Demand-Side Platform (DSP).
-We also discuss the relationship between attribution models and bidding strategies.
-We prove that, to move the DSPs to bid based on performance lift, they should be rewarded according to the relative performance lift they contribute.

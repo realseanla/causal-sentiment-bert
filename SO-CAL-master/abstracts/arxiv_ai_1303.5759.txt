@@ -1,0 +1,6 @@
+The local computation technique (Shafer et al.
+1987, Shafer and Shenoy 1988, Shenoy and Shafer 1986) is used for propagating belief functions in so called a Markov Tree.
+In this paper, we describe an efficient implementation of belief function propagation on the basis of the local computation technique.
+The presented method avoids all the redundant computations in the propagation process, and so makes the computational complexity decrease with respect to other existing implementations (Hsia and Shenoy 1989, Zarley et al.
+1988).
+We also give a combined algorithm for both propagation and re-propagation which makes the re-propagation process more efficient when one or more of the prior belief functions is changed.

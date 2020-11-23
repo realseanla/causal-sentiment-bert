@@ -1,0 +1,4 @@
+Presented is a Julia meta-program that discovers compact theories from data if they exist.
+It writes candidate theories in Julia and then validates: tossing the bad theories and keeping the good theories.
+Compactness is measured by a metric: such as the number of space-time derivatives.
+The underlying algorithm is applicable to a wide variety of combinatorics problems and compactness serves to cut down the search space.

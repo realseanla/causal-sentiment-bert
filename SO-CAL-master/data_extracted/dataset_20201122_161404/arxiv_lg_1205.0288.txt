@@ -1,6 +1,0 @@
-We consider the problem of learning a predictor by combining possibly infinitely many linear predictors whose weights are to be learned, too, an instance of multiple kernel learning.
-To control overfitting a group p-norm penalty is used to penalize the empirical loss.
-We consider a reformulation of the problem that lets us implement a randomized version of the proximal point algorithm.
-The key idea of the new algorithm is to use randomized computation to alleviate the problem of dealing with possibly uncountably many predictors.
-Finite-time performance bounds are derived that show that under mild conditions the method finds the optimum of the penalized criterion in an efficient manner.
-Experimental results confirm the effectiveness of the new algorithm.

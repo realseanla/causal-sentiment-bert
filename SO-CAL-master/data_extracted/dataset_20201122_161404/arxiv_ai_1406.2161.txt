@@ -1,4 +1,0 @@
-The Dynamic Logic for Propositional Assignments (DL-PA) has recently been studied as an alternative to Propositional Dynamic Logic (PDL).
-In DL-PA, the abstract atomic programs of PDL are replaced by assignments of propositional variables to truth values.
-This makes DL-PA enjoy some interesting meta-logical properties that PDL does not, such as eliminability of the Kleene star, compactness and interpolation.
-We define and analytic tableaux calculus for DL-PA and show that it matches the known complexity results.

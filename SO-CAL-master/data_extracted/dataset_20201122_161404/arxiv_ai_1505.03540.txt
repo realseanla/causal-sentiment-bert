@@ -1,7 +1,0 @@
-In this paper, we present a fully automatic brain tumor segmentation method based on Deep Neural Networks (DNNs).
-The proposed networks are tailored to glioblastomas (both low and high grade) pictured in MR images.
-By their very nature, these tumors can appear anywhere in the brain and have almost any kind of shape, size, and contrast.
-These reasons motivate our exploration of a machine learning solution that exploits a flexible, high capacity DNN while being extremely efficient.
-Here, we give a description of different model choices that we've found to be necessary for obtaining competitive performance.
-We explore in particular different architectures based on Convolutional Neural Networks (CNN), i.e.
-DNNs specifically adapted to image data.

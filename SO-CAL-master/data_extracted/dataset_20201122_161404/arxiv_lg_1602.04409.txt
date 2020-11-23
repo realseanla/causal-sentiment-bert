@@ -1,4 +1,0 @@
-We apply column generation to approximating complex structured objects via a set of primitive structured objects under either the cross entropy or L2 loss.
-We use L1 regularization to encourage the use of few structured primitive objects.
-We attack approximation using convex optimization over an infinite number of variables each corresponding to a primitive structured object that are generated on demand by easy inference in the Lagrangian dual.
-We apply our approach to producing low rank approximations to large 3-way tensors.

@@ -1,0 +1,5 @@
+We propose a general framework for studying adaptive regret bounds in the online learning framework, including model selection bounds and data-dependent bounds.
+Given a data- or model-dependent bound we ask, "Does there exist some algorithm achieving this bound?"
+We show that modifications to recently introduced sequential complexity measures can be used to answer this question by providing sufficient conditions under which adaptive rates can be achieved.
+In particular each adaptive rate induces a set of so-called offset complexity measures, and obtaining small upper bounds on these quantities is sufficient to demonstrate achievability.
+A cornerstone of our analysis technique is the use of one-sided tail inequalities to bound suprema of offset random processes.

@@ -1,0 +1,6 @@
+We introduce a novel logical notion--partial entailment--to propositional logic.
+In contrast with classical entailment, that a formula P partially entails another formula Q with respect to a background formula set \Gamma intuitively means that under the circumstance of \Gamma, if P is true then some "part" of Q will also be true.
+We distinguish three different kinds of partial entailments and formalize them by using an extended notion of prime implicant.
+We study their semantic properties, which show that, surprisingly, partial entailments fail for many simple inference rules.
+Then, we study the related computational properties, which indicate that partial entailments are relatively difficult to be computed.
+Finally, we consider a potential application of partial entailments in reasoning about rational agents.

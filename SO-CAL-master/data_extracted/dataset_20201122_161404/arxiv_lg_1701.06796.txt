@@ -1,5 +1,0 @@
-We propose a neural network based approach for learning topics from text and image datasets.
-The model makes no assumptions about the conditional distribution of the observed features given the latent topics.
-This allows us to perform topic modelling efficiently using sentences of documents and patches of images as observed features, rather than limiting ourselves to words.
-Moreover, the proposed approach is online, and hence can be used for streaming data.
-Furthermore, since the approach utilizes neural networks, it can be implemented on GPU with ease, and hence it is very scalable.

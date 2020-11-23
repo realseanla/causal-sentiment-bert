@@ -1,0 +1,6 @@
+We consider the problem of online active learning to collect data for regression modeling.
+Specifically, we consider a decision maker that faces a limited experimentation budget but must efficiently learn an underlying linear population model.
+Our goal is to develop algorithms that provide substantial gains over passive random sampling of observations.
+To that end, our main contribution is a novel threshold-based algorithm for selection of observations; we characterize its performance and related lower bounds.
+We also apply our approach successfully to regularized regression.
+Simulations suggest the algorithm is remarkably robust: it provides significant benefits over passive random sampling even in several real-world datasets that exhibit high nonlinearity and high dimensionality --- significantly reducing the mean and variance of the squared error.

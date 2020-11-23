@@ -1,0 +1,7 @@
+Situation calculus has been widely applied in Artificial Intelligence related fields.
+This formalism is considered as a dialect of logic programming language and mostly used in dynamic domain modeling.
+However, type systems are hardly deployed in situation calculus in the literature.
+To achieve a correct and sound typed program written in situation calculus, adding typing elements into the current situation calculus will be quite helpful.
+In this paper, we propose to add more typing mechanisms to the current version of situation calculus, especially for three basic elements in situation calculus: situations, actions and objects, and then perform rigid type checking for existing situation calculus programs to find out the well-typed and ill-typed ones.
+In this way, type correctness and soundness in situation calculus programs can be guaranteed by type checking based on our type system.
+This modified version of a lightweight situation calculus is proved to be a robust and well-typed system.

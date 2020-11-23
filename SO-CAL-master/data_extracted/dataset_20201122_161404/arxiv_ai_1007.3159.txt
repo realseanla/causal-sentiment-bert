@@ -1,7 +1,0 @@
-Strategic Environmental Assessment is a procedure aimed at introducing systematic assessment of the environmental effects of plans and programs.
-This procedure is based on the so-called coaxial matrices that define dependencies between plan activities (infrastructures, plants, resource extractions, buildings, etc.)
-and positive and negative environmental impacts, and dependencies between these impacts and environmental receptors.
-Up to now, this procedure is manually implemented by environmental experts for checking the environmental effects of a given plan or program, but it is never applied during the plan/program construction.
-A decision support system, based on a clear logic semantics, would be an invaluable tool not only in assessing a single, already defined plan, but also during the planning process in order to produce an optimized, environmentally assessed plan and to study possible alternative scenarios.
-We propose two logic-based approaches to the problem, one based on Constraint Logic Programming and one on Probabilistic Logic Programming that could be, in the future, conveniently merged to exploit the advantages of both.
-We test the proposed approaches on a real energy plan and we discuss their limitations and advantages.

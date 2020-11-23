@@ -1,0 +1,3 @@
+Interaction information is one of the multivariate generalizations of mutual information, which expresses the amount information shared among a set of variables, beyond the information, which is shared in any proper subset of those variables.
+Unlike (conditional) mutual information, which is always non-negative, interaction information can be negative.
+We utilize this property to find the direction of causal influences among variables in a triangle topology under some mild assumptions.

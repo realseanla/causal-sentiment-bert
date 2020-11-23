@@ -1,9 +1,0 @@
-Many biomedical researchers and clinicians are faced with the information overload problem.
-Attaining desirable information from the ever-increasing body of knowledge is a difficult task without using automatic text summarization tools that help them to acquire the intended information in shorter time and with less effort.
-Although many text summarization methods have been proposed, developing domain-specific methods for the biomedical texts is a challenging task.
-In this paper, we propose a biomedical text summarization method, based on concept extraction technique and a novel sentence classification approach.
-We incorporate domain knowledge by utilizing the UMLS knowledge source and the na\"ive Bayes classifier to build our text summarizer.
-Unlike many existing methods, the system learns to classify the sentences without the need for training data, and selects them for the summary according to the distribution of essential concepts within the original text.
-We show that the use of critical concepts to represent the sentences as vectors of features, and classifying the sentences based on the distribution of those concepts, will improve the performance of automatic summarization.
-An extensive evaluation is performed on a collection of scientific articles in biomedical domain.
-The results show that our proposed method outperforms several well-known research-based, commercial and baseline summarizers according to the most commonly used ROUGE evaluation metrics.

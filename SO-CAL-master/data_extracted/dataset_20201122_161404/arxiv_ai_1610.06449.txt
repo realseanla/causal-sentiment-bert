@@ -1,5 +1,0 @@
-This paper presents a novel fixation prediction and saliency modeling framework based on inter-image similarities and ensemble of Extreme Learning Machines (ELM).
-The proposed framework is inspired by two observations, 1) the contextual information of a scene along with low-level visual cues modulates attention, 2) the influence of scene memorability on eye movement patterns caused by the resemblance of a scene to a former visual experience.
-Motivated by such observations, we develop a framework that estimates the saliency of a given image using an ensemble of extreme learners, each trained on an image similar to the input image.
-That is, after retrieving a set of similar images for a given image, a saliency predictor is learnt from each of the images in the retrieved image set using an ELM, resulting in an ensemble.
-The saliency of the given image is then measured in terms of the mean of predicted saliency value by the ensemble's members.

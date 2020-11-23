@@ -1,0 +1,4 @@
+Any learning algorithm over Markov decision processes (MDPs) will have worst-case regret $\Omega(\sqrt{SAT})$ where $T$ is the elapsed time and $S$ and $A$ are the cardinalities of the state and action spaces.
+In many settings of interest $S$ and $A$ may be so huge that it is impossible to guarantee good performance for an arbitrary MDP on any practical timeframe $T$.
+We show that, if we know the true system can be represented as a \emph{factored} MDP, we can obtain regret bounds which scale polynomially in the number of \emph{parameters} of the MDP, which may be exponentially smaller than $S$ or $A$.
+Assuming an algorithm for approximate planning and knowledge of the graphical structure of the underlying MDP, we demonstrate that posterior sampling reinforcement learning (PSRL) and an algorithm based upon optimism in the face of uncertainty (UCRL-Factored) both satisfy near-optimal regret bounds.

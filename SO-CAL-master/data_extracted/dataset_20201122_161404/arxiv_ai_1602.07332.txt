@@ -1,6 +1,0 @@
-Despite progress in perceptual tasks such as image classification, computers still perform poorly on cognitive tasks such as image description and question answering.
-Cognition is core to tasks that involve not just recognizing, but reasoning about our visual world.
-However, models used to tackle the rich content in images for cognitive tasks are still being trained using the same datasets designed for perceptual tasks.
-To achieve success at cognitive tasks, models need to understand the interactions and relationships between objects in an image.
-When asked "What vehicle is the person riding?
-", computers will need to identify the objects in an image as well as the relationships riding(man, carriage) and pulling(horse, carriage) in order to answer correctly that "the person is riding a horse-drawn carriage".

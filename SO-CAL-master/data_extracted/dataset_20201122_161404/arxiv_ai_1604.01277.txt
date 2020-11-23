@@ -1,6 +1,0 @@
-Recognition of goals and plans using incomplete evidence from action execution can be done efficiently by using planning techniques.
-In many applications it is important to recognize goals and plans not only accurately, but also quickly.
-In this paper, we develop a heuristic approach for recognizing plans based on planning techniques that rely on ordering constraints to filter candidate goals from observations.
-In the planning literature, these ordering constraints are called landmarks, which are facts or actions that cannot be avoided to achieve a goal.
-We show the applicability of planning landmarks in two settings: first, we use it directly to develop a heuristic-based plan recognition approach; second, we refine an existing planning-based plan recognition approach.
-Our empirical evaluation shows that our approach is not only substantially more accurate than the state-of-the-art in all available datasets, it is also an order of magnitude faster.

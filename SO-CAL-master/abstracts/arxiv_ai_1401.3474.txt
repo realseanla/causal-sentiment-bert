@@ -1,0 +1,7 @@
+Many real-world decision making tasks require us to choose among several expensive observations.
+In a sensor network, for example, it is important to select the subset of sensors that is expected to provide the strongest reduction in uncertainty.
+In medical decision making tasks, one needs to select which tests to administer before deciding on the most effective treatment.
+It has been general practice to use heuristic-guided procedures for selecting observations.
+In this paper, we present the first efficient optimal algorithms for selecting observations for a class of probabilistic graphical models.
+For example, our algorithms allow to optimally label hidden variables in Hidden Markov Models (HMMs).
+We provide results for both selecting the optimal subset of observations, and for obtaining an optimal conditional observation plan.

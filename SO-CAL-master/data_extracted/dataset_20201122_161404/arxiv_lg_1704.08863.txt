@@ -1,6 +1,0 @@
-A proper initialization of the weights in a neural network is critical to its convergence.
-Current insights into weight initialization come primarily from linear activation functions.
-In this paper, I develop a theory for weight initializations with non-linear activations.
-First, I derive a general weight initialization strategy for any neural network using activation functions differentiable at 0.
-Next, I derive the weight initialization strategy for the Rectified Linear Unit (RELU), and provide theoretical insights into why the Xavier initialization is a poor choice with RELU activations.
-My analysis provides a clear demonstration of the role of non-linearities in determining the proper weight initializations.

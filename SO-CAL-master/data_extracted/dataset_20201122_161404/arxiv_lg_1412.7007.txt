@@ -1,5 +1,0 @@
-Occlusion edges in images which correspond to range discontinuity in the scene from the point of view of the observer are an important prerequisite for many vision and mobile robot tasks.
-Although they can be extracted from range data however extracting them from images and videos would be extremely beneficial.
-We trained a deep convolutional neural network (CNN) to identify occlusion edges in images and videos with both RGB-D and RGB inputs.
-The use of CNN avoids hand-crafting of features for automatically isolating occlusion edges and distinguishing them from appearance edges.
-Other than quantitative occlusion edge detection results, qualitative results are provided to demonstrate the trade-off between high resolution analysis and frame-level computation time which is critical for real-time robotics applications.

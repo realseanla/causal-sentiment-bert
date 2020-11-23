@@ -1,7 +1,0 @@
-In this paper, we address the problem of how automated situation-awareness can be achieved by learning real-world situations from ubiquitously generated mobility data.
-Without semantic input about the time and space where situations take place, this turns out to be a fundamental challenging problem.
-Uncertainties also introduce technical challenges when data is generated in irregular time intervals, being mixed with noise, and errors.
-Purely relying on temporal patterns observable in mobility data, in this paper, we propose Spaceprint, a fully automated algorithm for finding the repetitive pattern of similar situations in spaces.
-We evaluate this technique by showing how the latent variables describing the category, and the actual identity of a space can be discovered from the extracted situation patterns.
-Doing so, we use different real-world mobility datasets with data about the presence of mobile entities in a variety of spaces.
-We also evaluate the performance of this technique by showing its robustness against uncertainties.

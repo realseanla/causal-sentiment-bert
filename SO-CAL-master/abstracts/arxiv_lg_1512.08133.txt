@@ -1,0 +1,6 @@
+We explore the problem of binary classification in machine learning, with a twist - the classifier is allowed to abstain on any datum, professing ignorance about the true class label without committing to any prediction.
+This is directly motivated by applications like medical diagnosis and fraud risk assessment, in which incorrect predictions have potentially calamitous consequences.
+We focus on a recent spate of theoretically driven work in this area that characterizes how allowing abstentions can lead to fewer errors in very general settings.
+Two areas are highlighted: the surprising possibility of zero-error learning, and the fundamental tradeoff between predicting sufficiently often and avoiding incorrect predictions.
+We review efficient algorithms with provable guarantees for each of these areas.
+We also discuss connections to other scenarios, notably active learning, as they suggest promising directions of further inquiry in this emerging field.

@@ -1,6 +1,0 @@
-We propose novel model transfer-learning methods that refine a decision forest model M learned within a "source" domain using a training set sampled from a "target" domain, assumed to be a variation of the source.
-We present two random forest transfer algorithms.
-The first algorithm searches greedily for locally optimal modifications of each tree structure by trying to locally expand or reduce the tree around individual nodes.
-The second algorithm does not modify structure, but only the parameter (thresholds) associated with decision nodes.
-We also propose to combine both methods by considering an ensemble that contains the union of the two forests.
-The proposed methods exhibit impressive experimental results over a range of problems.

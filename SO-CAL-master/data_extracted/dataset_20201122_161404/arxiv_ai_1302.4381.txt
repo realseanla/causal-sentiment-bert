@@ -1,9 +1,0 @@
-Bayesian networks leverage conditional independence to compactly encode joint probability distributions.
-Many learning algorithms exploit the constraints implied by observed conditional independencies to learn the structure of Bayesian networks.
-The rules of d-separation provide a theoretical and algorithmic framework for deriving conditional independence facts from model structure.
-However, this theory only applies to Bayesian networks.
-Many real-world systems, such as social or economic systems, are characterized by interacting heterogeneous entities and probabilistic dependencies that cross the boundaries of entities.
-Consequently, researchers have developed extensions to Bayesian networks that can represent these relational dependencies.
-We show that the theory of d-separation inaccurately infers conditional independence when applied directly to the structure of probabilistic models of relational data.
-We introduce relational d-separation, a theory for deriving conditional independence facts from relational models.
-We provide a new representation, the abstract ground graph, that enables a sound, complete, and computationally efficient method for answering d-separation queries about relational models, and we present empirical results that demonstrate effectiveness.

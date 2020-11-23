@@ -1,4 +1,0 @@
-As alignment links are not given between English sentences and Abstract Meaning Representation (AMR) graphs in the AMR annotation, automatic alignment becomes indispensable for training an AMR parser.
-Previous studies formalize it as a string-to-string problem, and solve it in an unsupervised way.
-In this paper, we formalize it as a syntax-based alignment problem, and solve it in a supervised manner based on the syntax trees.
-Experiments verify the effectiveness of the proposed method.

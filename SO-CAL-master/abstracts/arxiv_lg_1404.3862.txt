@@ -1,0 +1,5 @@
+Conditional Value at Risk (CVaR) is a prominent risk measure that is being used extensively in various domains such as finance.
+In this work we present a new formula for the gradient of the CVaR in the form of a conditional expectation.
+Our result is similar to policy gradients in the reinforcement learning literature.
+Based on this formula, we propose novel sampling-based estimators for the CVaR gradient, and a corresponding gradient descent procedure for CVaR optimization.
+We evaluate our approach in learning a risk-sensitive controller for the game of Tetris, and propose an importance sampling procedure that is suitable for such domains.

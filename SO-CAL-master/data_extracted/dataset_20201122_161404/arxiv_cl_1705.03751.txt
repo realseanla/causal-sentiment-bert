@@ -1,3 +1,0 @@
-Relation Extraction refers to the task of populating a database with tuples of the form $r(e_1, e_2)$, where $r$ is a relation and $e_1$, $e_2$ are entities.
-Distant supervision is one such technique which tries to automatically generate training examples based on an existing KB such as Freebase.
-This paper is a survey of some of the techniques in distant supervision which primarily rely on Probabilistic Graphical Models (PGMs).

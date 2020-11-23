@@ -1,0 +1,7 @@
+Privacy has traditionally been a major motivation for distributed problem solving.
+Distributed Constraint Satisfaction Problem (DisCSP) as well as Distributed Constraint Optimization Problem (DCOP) are fundamental models used to solve various families of distributed problems.
+Even though several approaches have been proposed to quantify and preserve privacy in such problems, none of them is exempt from limitations.
+Here we approach the problem by assuming that computation is performed among utilitarian agents.
+We introduce a utilitarian approach where the utility of each state is estimated as the difference between the reward for reaching an agreement on assignments of shared variables and the cost of privacy loss.
+We investigate extensions to solvers where agents integrate the utility function to guide their search and decide which action to perform, defining thereby their policy.
+We show that these extended solvers succeed in significantly reducing privacy loss without significant degradation of the solution quality.

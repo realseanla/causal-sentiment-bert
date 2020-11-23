@@ -1,7 +1,0 @@
-Semi-supervised learning tries to improve performance by using unlabeled data.
-In some situations, however, its performance may become inferior to that of without using unlabeled data.
-It is desired to have safe semi-supervised methods which often improve the performance while rarely degenerate the performance.
-In this paper, we focus on semi-supervised support vector machine and propose the S4VM (Safe Semi-Supervised Support Vector Machine) approach.
-Our intuition is that we shall use only the unlabeled examples which are very likely to help improve the performance while keeping the unlabeled data which are with high risk to be unexploited.
-Experimental results on a broad range of data sets over 120 different settings show that our proposed S4VM is highly competitive with TSVM.
-More important, contrasting to TSVM which degenerates performance in many cases when using unlabeled data, our S4VM never degenerates performance.

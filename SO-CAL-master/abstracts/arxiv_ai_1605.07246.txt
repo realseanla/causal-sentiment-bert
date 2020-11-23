@@ -1,0 +1,4 @@
+The alternating direction method of multipliers (ADMM) is a versatile tool for solving a wide range of constrained optimization problems, with differentiable or non-differentiable objective functions.
+Unfortunately, its performance is highly sensitive to a penalty parameter, which makes ADMM often unreliable and hard to automate for a non-expert user.
+We tackle this weakness of ADMM by proposing a method to adaptively tune the penalty parameters to achieve fast convergence.
+The resulting adaptive ADMM (AADMM) algorithm, inspired by the successful Barzilai-Borwein spectral method for gradient descent, yields fast convergence and relative insensitivity to the initial stepsize and problem scaling.

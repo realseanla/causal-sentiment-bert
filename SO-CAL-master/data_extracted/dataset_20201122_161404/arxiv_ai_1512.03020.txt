@@ -1,5 +1,0 @@
-In business analytics, measure values, such as sales numbers or volumes of cargo transported, are often summed along values of one or more corresponding categories, such as time or shipping container.
-However, not every measure should be added by default (e.g., one might more typically want a mean over the heights of a set of people); similarly, some measures should only be summed within certain constraints (e.g., population measures need not be summed over years).
-In systems such as Watson Analytics, the exact additive behaviour of a measure is often determined by a human expert.
-In this work, we propose a small set of features for this issue.
-We use these features in a case-based reasoning approach, where the system suggests an aggregation behaviour, with 86 percent accuracy in our collected dataset.

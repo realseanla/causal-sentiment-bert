@@ -1,6 +1,0 @@
-Cardinality constraints or, more generally, weight constraints are well recognized as an important extension of answer-set programming.
-Clearly, all common algorithmic tasks related to programs with cardinality or weight constraints - like checking the consistency of a program - are intractable.
-Many intractable problems in the area of knowledge representation and reasoning have been shown to become linear time tractable if the treewidth of the programs or formulas under consideration is bounded by some constant.
-The goal of this paper is to apply the notion of treewidth to programs with cardinality or weight constraints and to identify tractable fragments.
-It will turn out that the straightforward application of treewidth to such class of programs does not suffice to obtain tractability.
-However, by imposing further restrictions, tractability can be achieved.

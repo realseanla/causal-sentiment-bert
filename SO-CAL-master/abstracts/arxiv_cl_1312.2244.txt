@@ -1,0 +1,9 @@
+Timeline Generation aims at summarizing news from different epochs and telling readers how an event evolves.
+It is a new challenge that combines salience ranking with novelty detection.
+For long-term public events, the main topic usually includes various aspects across different epochs and each aspect has its own evolving pattern.
+Existing approaches neglect such hierarchical topic structure involved in the news corpus in timeline generation.
+In this paper, we develop a novel time-dependent Hierarchical Dirichlet Model (HDM) for timeline generation.
+Our model can aptly detect different levels of topic information across corpus and such structure is further used for sentence selection.
+Based on the topic mined fro HDM, sentences are selected by considering different aspects such as relevance, coherence and coverage.
+We develop experimental systems to evaluate 8 long-term events that public concern.
+Performance comparison between different systems demonstrates the effectiveness of our model in terms of ROUGE metrics.

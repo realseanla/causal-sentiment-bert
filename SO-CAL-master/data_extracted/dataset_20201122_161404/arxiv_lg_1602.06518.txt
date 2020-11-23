@@ -1,6 +1,0 @@
-In this paper we consider the problem of multi-task learning, in which a learner is given a collection of prediction tasks that need to be solved.
-In contrast to previous work, we give up on the assumption that labeled training data is available for all tasks.
-Instead, we propose an active task selection framework, where based only on the unlabeled data, the learner can choose a, typically small, subset of tasks for which he gets some labeled examples.
-For the remaining tasks, which have no available annotation, solutions are found by transferring information from the selected tasks.
-We analyze two transfer strategies and develop generalization bounds for each of them.
-Based on this theoretical analysis we propose two algorithms for making the choice of labeled tasks in a principled way and show their effectiveness on synthetic and real data.

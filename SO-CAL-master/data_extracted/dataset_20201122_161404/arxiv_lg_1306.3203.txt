@@ -1,6 +1,0 @@
-The mirror descent algorithm (MDA) generalizes gradient descent by using a Bregman di- vergence to replace squared Euclidean distance as a proximal function.
-In this paper, we simi- larly generalize the alternating direction method of multipliers (ADMM) to Bregman ADMM (BADMM), which uses Bregman divergences as proximal functions in updates.
-BADMM allows the use of different Bregman divergences for different variable updates and involves alternating MDA-style updates, including alternating additive and alternating multiplicative updates as special cases.
-BADMM provides a unified framework for ADMM and its variants, including generalized ADMM and inexact ADMM.
-We establish the global convergence for BADMM.
-We present promising preliminary empirical results for BADMM applied to opti- mization over doubly stochastic matrices.

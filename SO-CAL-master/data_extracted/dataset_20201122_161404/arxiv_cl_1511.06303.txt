@@ -1,8 +1,0 @@
-Recurrent neural networks are convenient and efficient models for language modeling.
-However, when applied on the level of characters instead of words, they suffer from several problems.
-In order to successfully model long-term dependencies, the hidden representation needs to be large.
-This in turn implies higher computational costs, which can become prohibitive in practice.
-We propose two alternative structural modifications to the classical RNN model.
-The first one consists on conditioning the character level representation on the previous word representation.
-The other one uses the character history to condition the output probability.
-We evaluate the performance of the two proposed modifications on challenging, multi-lingual real world data.

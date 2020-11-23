@@ -1,3 +1,0 @@
-This paper presents research in progress investigating the viability and adaptation of reinforcement learning using deep neural network based function approximation for the task of radio control and signal detection in the wireless domain.
-We demonstrate a successful initial method for radio control which allows naive learning of search without the need for expert features, heuristics, or search strategies.
-We also introduce Kerlym, an open Keras based reinforcement learning agent collection for OpenAI's Gym.

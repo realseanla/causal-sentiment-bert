@@ -1,4 +1,0 @@
-In this paper we compare three different architectures for the evaluation of influence diagrams: HUGIN, Shafer-Shenoy, and Lazy Evaluation architecture.
-The computational complexity of the architectures are compared on the LImited Memory Influence Diagram (LIMID): a diagram where only the requiste information for the computation of the optimal policies are depicted.
-Because the requsite information is explicitly represented in the LIMID the evaluation can take advantage of it, and significant savings in computational can be obtained.
-In this paper we show how the obtained savings is considerably increased when the computations performed on the LIMID is according to the Lazy Evaluation scheme.

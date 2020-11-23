@@ -1,6 +1,0 @@
-Speech Recognition searches to predict the spoken words automatically.
-These systems are known to be very expensive because of using several pre-recorded hours of speech.
-Hence, building a model that minimizes the cost of the recognizer will be very interesting.
-In this paper, we present a new approach for recognizing speech based on belief HMMs instead of proba-bilistic HMMs.
-Experiments shows that our belief recognizer is insensitive to the lack of the data and it can be trained using only one exemplary of each acoustic unit and it gives a good recognition rates.
-Consequently, using the belief HMM recognizer can greatly minimize the cost of these systems.

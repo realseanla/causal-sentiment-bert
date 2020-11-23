@@ -1,6 +1,0 @@
-In this paper we introduce a variant of Memory Networks that needs significantly less supervision to perform question and answering tasks.
-The original model requires that the sentences supporting the answer be explicitly indicated during training.
-In contrast, our approach only requires the answer to the question during training.
-We apply the model to the synthetic bAbI tasks, showing that our approach is competitive with the supervised approach, particularly when trained on a sufficiently large amount of data.
-Furthermore, it decisively beats other weakly supervised approaches based on LSTMs.
-The approach is quite general and can potentially be applied to many other tasks that require capturing long-term dependencies.

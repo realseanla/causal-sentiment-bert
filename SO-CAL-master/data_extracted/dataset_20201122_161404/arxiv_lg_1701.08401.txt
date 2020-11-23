@@ -1,6 +1,0 @@
-Network models play an important role in studying complex systems in many scientific disciplines.
-Graph signal processing is receiving growing interest as to design novel tools to combine the analysis of topology and signals.
-The graph Fourier transform, defined as the eigendecomposition of the graph Laplacian, allows extending conventional signal-processing operations to graphs.
-One main feature is to let emerge global organization from local interactions; i.e., the Fiedler vector has the smallest non-zero eigenvalue and is key for Laplacian embedding and graph clustering.
-Here, we introduce the design of Slepian graph signals, by maximizing energy concentration in a predefined subgraph for a given spectral bandlimit.
-We also establish a link with classical Laplacian embedding and graph clustering, for which the graph Slepian design can serve as a generalization.

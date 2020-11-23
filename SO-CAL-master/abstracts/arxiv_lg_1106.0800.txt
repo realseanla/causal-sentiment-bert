@@ -1,0 +1,5 @@
+The exploration-exploitation tradeoff is among the central challenges of reinforcement learning.
+A hypothetical exact Bayesian learner would provide the optimal solution, but is intractable in general.
+I show that, however, in the specific case of Gaussian process inference, it is possible to make analytic statements about optimal learning of both rewards and transition dynamics, for nonlinear, time-varying systems in continuous time and space, subject to a relatively weak restriction on the dynamics.
+The solution is described by an infinite-dimensional differential equation.
+For a first impression of how this result may be useful, I also provide an approximate reduction to a finite-dimensional problem, with a numeric solution.

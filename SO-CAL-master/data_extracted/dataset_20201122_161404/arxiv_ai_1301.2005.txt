@@ -1,4 +1,0 @@
-DL-Lite is an important family of description logics.
-Recently, there is an increasing interest in handling inconsistency in DL-Lite as the constraint imposed by a TBox can be easily violated by assertions in ABox in DL-Lite.
-In this paper, we present a distance-based paraconsistent semantics based on the notion of feature in DL-Lite, which provides a novel way to rationally draw meaningful conclusions even from an inconsistent knowledge base.
-Finally, we investigate several important logical properties of this entailment relation based on the new semantics and show its promising advantages in non-monotonic reasoning for DL-Lite.

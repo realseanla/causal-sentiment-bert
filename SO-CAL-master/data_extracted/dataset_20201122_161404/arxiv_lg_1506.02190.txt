@@ -1,7 +1,0 @@
-This work focuses on top-k recommendation in domains where underlying data distribution shifts overtime.
-We propose to learn a time-dependent bias for each item over whatever existing recommendation engine.
-Such a bias learning process alleviates data sparsity in constructing the engine, and at the same time captures recent trend shift observed in data.
-We present an alternating optimization framework to resolve the bias learning problem, and develop methods to handle a variety of commonly used recommendation evaluation criteria, as well as large number of items and users in practice.
-The proposed algorithm is examined, both offline and online, using real world data sets collected from the largest retailer worldwide.
-Empirical results demonstrate that the bias learning can almost always boost recommendation performance.
-We encourage other practitioners to adopt it as a standard component in recommender systems where temporal dynamics is a norm.

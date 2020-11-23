@@ -1,3 +1,0 @@
-ASHACL, a variant of the W3C Shapes Constraint Language, is designed to determine whether an RDF graph meets some conditions.
-These conditions are grouped into shapes, which validate whether particular RDF terms each meet the constraints of the shape.
-Shapes are themselves expressed as RDF triples in an RDF graph, called a shapes graph.

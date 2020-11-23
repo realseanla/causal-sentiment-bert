@@ -1,5 +1,0 @@
-We present an algorithm for arc reversal in Bayesian networks with tree-structured conditional probability tables, and consider some of its advantages, especially for the simulation of dynamic probabilistic networks.
-In particular, the method allows one to produce CPTs for nodes involved in the reversal that exploit regularities in the conditional distributions.
-We argue that this approach alleviates some of the overhead associated with arc reversal, plays an important role in evidence integration and can be used to restrict sampling of variables in DPNs.
-We also provide an algorithm that detects the dynamic irrelevance of state variables in forward simulation.
-This algorithm exploits the structured CPTs in a reversed network to determine, in a time-independent fashion, the conditions under which a variable does or does not need to be sampled.

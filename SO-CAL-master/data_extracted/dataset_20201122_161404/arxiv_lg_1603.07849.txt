@@ -1,6 +1,0 @@
-This paper proposes a movie genre-prediction based on multinomial probability model.
-To the best of our knowledge, this problem has not been addressed yet in the field of recommender system.
-The prediction of a movie genre has many practical applications including complementing the items categories given by experts and providing a surprise effect in the recommendations given to a user.
-We employ mulitnomial event model to estimate a likelihood of a movie given genre and the Bayes rule to evaluate the posterior probability of a genre given a movie.
-Experiments with the MovieLens dataset validate our approach.
-We achieved 70 percent prediction rate using only 15 percent of the whole set for training.

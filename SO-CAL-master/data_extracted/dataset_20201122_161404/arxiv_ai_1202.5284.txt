@@ -1,3 +1,0 @@
-In this article we present an elitism levels traverse mechanism that we designed to find bounds on population-based Evolutionary algorithms solving unimodal functions.
-We prove its efficiency theoretically and test it on OneMax function deriving bounds c{\mu}n log n - O({\mu} n).
-This analysis can be generalized to any similar algorithm using variants of tournament selection and genetic operators that flip or swap only 1 bit in each string.

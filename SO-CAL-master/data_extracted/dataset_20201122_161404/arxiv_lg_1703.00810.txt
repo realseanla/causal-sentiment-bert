@@ -1,3 +1,0 @@
-Despite their great success, there is still no com- prehensive theoretical understanding of learning with Deep Neural Networks (DNNs) or their in- ner organization.
-Previous work [Tishby &amp; Zaslavsky (2015)] proposed to analyze DNNs in the Information Plane; i.e., the plane of the Mutual Information values that each layer preserves on the input and output variables.
-They suggested that the goal of the network is to optimize the In- formation Bottleneck (IB) tradeoff between com- pression and prediction, successively, for each layer.

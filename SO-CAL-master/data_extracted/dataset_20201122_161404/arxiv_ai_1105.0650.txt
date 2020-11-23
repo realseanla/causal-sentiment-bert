@@ -1,5 +1,0 @@
-A fundamental task for propositional logic is to compute models of propositional formulas.
-Programs developed for this task are called satisfiability solvers.
-We show that transition systems introduced by Nieuwenhuis, Oliveras, and Tinelli to model and analyze satisfiability solvers can be adapted for solvers developed for two other propositional formalisms: logic programming under the answer-set semantics, and the logic PC(ID).
-We show that in each case the task of computing models can be seen as "satisfiability modulo answer-set programming," where the goal is to find a model of a theory that also is an answer set of a certain program.
-The unifying perspective we develop shows, in particular, that solvers CLASP and MINISATID are closely related despite being developed for different formalisms, one for answer-set programming and the latter for the logic PC(ID).

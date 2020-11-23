@@ -1,4 +1,0 @@
-We describe computational tasks - especially in vision - that correspond to compositional/hierarchical functions.
-While the universal approximation property holds both for hierarchical and shallow networks, we prove that deep (hierarchical) networks can approximate the class of compositional functions with the same accuracy as shallow networks but with exponentially lower VC-dimension as well as the number of training parameters.
-This leads to the question of approximation by sparse polynomials (in the number of independent parameters) and, as a consequence, by deep networks.
-We also discuss connections between our results and learnability of sparse Boolean functions, settling an old conjecture by Bengio.

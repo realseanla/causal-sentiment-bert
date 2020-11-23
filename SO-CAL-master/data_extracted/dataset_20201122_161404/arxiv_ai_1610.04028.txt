@@ -1,8 +1,0 @@
-A methodology for the development of a fuzzy expert system (FES) with application to earthquake prediction is presented.
-The idea is to reproduce the performance of a human expert in earthquake prediction.
-To do this, at the first step, rules provided by the human expert are used to generate a fuzzy rule base.
-These rules are then fed into an inference engine to produce a fuzzy inference system (FIS) and to infer the results.
-In this paper, we have used a Sugeno type fuzzy inference system to build the FES.
-At the next step, the adaptive network-based fuzzy inference system (ANFIS) is used to refine the FES parameters and improve its performance.
-The proposed framework is then employed to attain the performance of a human expert used to predict earthquakes in the Zagros area based on the idea of coupled earthquakes.
-While the prediction results are promising in parts of the testing set, the general performance indicates that prediction methodology based on coupled earthquakes needs more investigation and more complicated reasoning procedure to yield satisfactory predictions.

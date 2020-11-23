@@ -1,0 +1,5 @@
+Grouping problems aim to partition a set of items into multiple mutually disjoint subsets according to some specific criterion and constraints.
+Grouping problems cover a large class of important combinatorial optimization problems that are generally computationally difficult.
+In this paper, we propose a general solution approach for grouping problems, i.e., reinforcement learning based local search (RLS), which combines reinforcement learning techniques with descent-based local search.
+The viability of the proposed approach is verified on a well-known representative grouping problem (graph coloring) where a very simple descent-based coloring algorithm is applied.
+Experimental studies on popular DIMACS and COLOR02 benchmark graphs indicate that RLS achieves competitive performances compared to a number of well-known coloring algorithms.

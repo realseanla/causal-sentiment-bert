@@ -1,0 +1,8 @@
+Recognizing entailment and contradiction between two sentences has wide applications in NLP.
+Traditional methods include feature-rich classifiers or formal reasoning.
+However, they are usually limited in terms of accuracy and scope.
+Recently, the renewed prosperity neural networks has made many improvements in a variety of NLP tasks.
+In particular, the tree-based convolutional neural network (TBCNN) proposed in our previous work has achieved high performance in several sentence-level classification tasks.
+But whether TBCNN is applicable to recognize entailment and contradiction between two sentences remains unknown.
+In this paper, we propose TBCNN-pair model for entailment/contradiction recognition.
+Experimental results in a large dataset verifies the rationale of using TBCNN as the sentence-level model; leveraging additional heuristics like element-wise product/difference further improves the result, and outperforms published results by a large margin.

@@ -1,4 +1,0 @@
-The work presented here involves the design of a Multi Layer Perceptron (MLP) based classifier for recognition of handwritten Bangla alphabet using a 76 element feature set Bangla is the second most popular script and language in the Indian subcontinent and the fifth most popular language in the world.
-The feature set developed for representing handwritten characters of Bangla alphabet includes 24 shadow features, 16 centroid features and 36 longest-run features.
-Recognition performances of the MLP designed to work with this feature set are experimentally observed as 86.46 percent and 75.05 percent on the samples of the training and the test sets respectively.
-The work has useful application in the development of a complete OCR system for handwritten Bangla text.

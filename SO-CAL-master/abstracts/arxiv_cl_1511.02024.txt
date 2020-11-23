@@ -1,0 +1,4 @@
+In a recent paper, Levy and Goldberg pointed out an interesting connection between prediction-based word embedding models and count models based on pointwise mutual information.
+Under certain conditions, they showed that both models end up optimizing equivalent objective functions.
+This paper explores this connection in more detail and lays out the factors leading to differences between these models.
+We find that the most relevant differences from an optimization perspective are (i) predict models work in a low dimensional space where embedding vectors can interact heavily; (ii) since predict models have fewer parameters, they are less prone to overfitting.

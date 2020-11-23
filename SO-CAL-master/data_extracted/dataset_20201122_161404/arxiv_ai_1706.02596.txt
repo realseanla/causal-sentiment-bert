@@ -1,6 +1,0 @@
-Despite the recent success of neural networks in tasks involving natural language understanding (NLU) there has only been limited progress in some of the fundamental challenges of NLU, such as the disambiguation of the meaning and function of words in context.
-This work approaches this problem by incorporating contextual information into word representations prior to processing the task at hand.
-To this end we propose a general-purpose reading architecture that is employed prior to a task-specific NLU model.
-It is responsible for refining context-agnostic word representations with contextual information and lends itself to the introduction of additional, context-relevant information from external knowledge sources.
-We demonstrate that previously non-competitive models benefit dramatically from employing contextual representations, closing the gap between general-purpose reading architectures and the state-of-the-art performance obtained with fine-tuned, task-specific architectures.
-Apart from our empirical results we present a comprehensive analysis of the computed representations which gives insights into the kind of information added during the refinement process.

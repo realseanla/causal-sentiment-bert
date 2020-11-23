@@ -1,7 +1,0 @@
-Search is a major technique for planning.
-It amounts to exploring a state space of planning domains typically modeled as a directed graph.
-However, prohibitively large sizes of the search space make search expensive.
-Developing better heuristic functions has been the main technique for improving search efficiency.
-Nevertheless, recent studies have shown that improving heuristics alone has certain fundamental limits on improving search efficiency.
-Recently, a new direction of research called partial order based reduction (POR) has been proposed as an alternative to improving heuristics.
-POR has shown promise in speeding up searches.

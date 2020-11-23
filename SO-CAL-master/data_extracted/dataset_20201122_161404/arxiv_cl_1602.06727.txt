@@ -1,7 +1,0 @@
-We propose two novel techniques --- stacking bottleneck features and minimum trajectory error training criterion --- to improve the performance of deep neural network (DNN)-based speech synthesis.
-The techniques address the related issues of frame-by-frame independence and ignorance of the relationship between static and dynamic features, within current typical DNN-based synthesis frameworks.
-Stacking bottleneck features, which are an acoustically--informed linguistic representation, provides an efficient way to include more detailed linguistic context at the input.
-The proposed minimum trajectory error training criterion minimises overall output trajectory error across an utterance, rather than minimising the error per frame independently, and thus takes into account the interaction between static and dynamic features.
-The two techniques can be easily combined to further improve performance.
-We present both objective and subjective results that demonstrate the effectiveness of the proposed techniques.
-The subjective results show that combining the two techniques leads to significantly more natural synthetic speech than from conventional DNN or long short-term memory (LSTM) recurrent neural network (RNN) systems.

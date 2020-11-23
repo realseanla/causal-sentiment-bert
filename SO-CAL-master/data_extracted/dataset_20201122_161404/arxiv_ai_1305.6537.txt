@@ -1,4 +1,0 @@
-We propose a cooperative coevolutionary genetic algorithm for learning Bayesian network structures from fully observable data sets.
-Since this problem can be decomposed into two dependent subproblems, that is to find an ordering of the nodes and an optimal connectivity matrix, our algorithm uses two subpopulations, each one representing a subtask.
-We describe the empirical results obtained with simulations of the Alarm and Insurance networks.
-We show that our algorithm outperforms the deterministic algorithm K2.

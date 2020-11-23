@@ -1,6 +1,0 @@
-Causality has been recently introduced in databases, to model, characterize, and possibly compute causes for query answers.
-Connections between QA-causality and consistency-based diagnosis and database repairs (wrt.
-integrity constraint violations) have already been established.
-In this work we establish precise connections between QA-causality and both abductive diagnosis and the view-update problem in databases, allowing us to obtain new algorithmic and complexity results for QA-causality.
-We also obtain new results on the complexity of view-conditioned causality, and investigate the notion of QA-causality in the presence of integrity constraints, obtaining complexity results from a connection with view-conditioned causality.
-The abduction connection under integrity constraints allows us to obtain algorithmic tools for QA-causality.

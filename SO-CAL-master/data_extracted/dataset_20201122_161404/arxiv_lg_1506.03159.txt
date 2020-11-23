@@ -1,6 +1,0 @@
-We develop a general methodology for variational inference which preserves dependency among the latent variables.
-This is done by augmenting the families of distributions used in mean-field and structured approximation with copulas.
-Copulas allow one to separately model the dependency given a factorization of the variational distribution, and can guarantee us better approximations to the posterior as measured by KL divergence.
-We show that inference on the augmented distribution is highly scalable using stochastic optimization.
-Furthermore, the addition of a copula is generic and can be applied straightforwardly to any inference procedure using the original mean-field or structured approach.
-This reduces bias, sensitivity to local optima, sensitivity to hyperparameters, and significantly helps characterize and interpret the dependency among the latent variables.

@@ -1,5 +1,0 @@
-In this paper, we present a new algorithm for parallel Monte Carlo tree search (MCTS).
-It is based on the pipeline pattern and allows flexible management of the control flow of the operations in parallel MCTS.
-The pipeline pattern provides for the first structured parallel programming approach to MCTS.
-Moreover, we propose a new lock-free tree data structure for parallel MCTS which removes synchronization overhead.
-The Pipeline Pattern for Parallel MCTS algorithm (called 3PMCTS), scales very well to higher numbers of cores when compared to the existing methods.

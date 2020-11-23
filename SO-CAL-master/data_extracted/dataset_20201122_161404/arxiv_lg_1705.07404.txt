@@ -1,5 +1,0 @@
-We propose a novel neural network structure called CrossNets, which considers architectures on directed acyclic graphs.
-This structure builds on previous generalizations of feed forward models, such as ResNets, by allowing for all forward cross connections between layers (both adjacent and non-adjacent).
-The addition of cross connections among the network increases information flow across the whole network, leading to better training and testing performances.
-The superior performance of the network is tested against four benchmark datasets: MNIST, CIFAR-10, CIFAR-100, and SVHN.
-We conclude with a proof of convergence for Crossnets to a local minimum for error, where weights for connections are chosen through backpropagation with momentum.

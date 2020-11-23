@@ -1,6 +1,0 @@
-We study several questions in the reliable agnostic learning framework of Kalai et al.
-(2009), which captures learning tasks in which one type of error is costlier than others.
-A positive reliable classifier is one that makes no false positive errors.
-The goal in the positive reliable agnostic framework is to output a hypothesis with the following properties: (i) its false positive error rate is at most $\epsilon$, (ii) its false negative error rate is at most $\epsilon$ more than that of the best positive reliable classifier from the class.
-A closely related notion is fully reliable agnostic learning, which considers partial classifiers that are allowed to predict "unknown" on some inputs.
-The best fully reliable partial classifier is one that makes no errors and minimizes the probability of predicting "unknown", and the goal in fully reliable learning is to output a hypothesis that is almost as good as the best fully reliable partial classifier from a class.

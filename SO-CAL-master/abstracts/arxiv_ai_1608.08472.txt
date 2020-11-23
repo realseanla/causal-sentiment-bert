@@ -1,0 +1,5 @@
+For most branching algorithms in Boolean logic "branching" means "variable-wise branching".
+We present the apparently novel technique of clause-wise branching, which is used to solve the ALLSAT problem for arbitrary Boolean functions in CNF format.
+Specifically, it converts a CNF into an orthogonal DNF, i.e.
+into an exclusive sum of products.
+Our method is enhanced by two ingredients: The use of a good SAT-solver and wildcards beyond the common don't-care symbol.

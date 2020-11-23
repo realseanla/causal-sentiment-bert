@@ -1,0 +1,7 @@
+We show new limits on the efficiency of using current techniques to make exact probabilistic inference for large classes of natural problems.
+In particular we show new lower bounds on knowledge compilation to SDD and DNNF forms.
+We give strong lower bounds on the complexity of SDD representations by relating SDD size to best-partition communication complexity.
+We use this relationship to prove exponential lower bounds on the SDD size for representing a large class of problems that occur naturally as queries over probabilistic databases.
+A consequence is that for representing unions of conjunctive queries, SDDs are not qualitatively more concise than OBDDs.
+We also derive simple examples for which SDDs must be exponentially less concise than FBDDs.
+Finally, we derive exponential lower bounds on the sizes of DNNF representations using a new quasipolynomial simulation of DNNFs by nondeterministic FBDDs.

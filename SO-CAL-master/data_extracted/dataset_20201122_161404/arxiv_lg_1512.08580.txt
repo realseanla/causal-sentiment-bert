@@ -1,6 +1,0 @@
-The increased availability of large-scale trajectory data around the world provides rich information for the study of urban dynamics.
-For example, New York City Taxi Limousine Commission regularly releases source-destination information about trips in the taxis they regulate.
-Taxi data provide information about traffic patterns, and thus enable the study of urban flow -- what will traffic between two locations look like at a certain date and time in the future?
-Existing big data methods try to outdo each other in terms of complexity and algorithmic sophistication.
-In the spirit of "big data beats algorithms", we present a very simple baseline which outperforms state-of-the-art approaches, including Bing Maps and Baidu Maps (whose APIs permit large scale experimentation).
-Such a travel time estimation baseline has several important uses, such as navigation (fast travel time estimates can serve as approximate heuristics for A search variants for path finding) and trip planning (which uses operating hours for popular destinations along with travel time estimates to create an itinerary).

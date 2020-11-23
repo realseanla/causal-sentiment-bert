@@ -1,6 +1,0 @@
-Path planning for multiple robots is well studied in the AI and robotics communities.
-For a given discretized environment, robots need to find collision-free paths to a set of specified goal locations.
-Robots can be fully anonymous, non-anonymous, or organized in groups.
-Although powerful solvers for this abstract problem exist, they make simplifying assumptions by ignoring kinematic constraints, making it difficult to use the resulting plans on actual robots.
-In this paper, we present a solution which takes kinematic constraints, such as maximum velocities, into account, while guaranteeing a user-specified minimum safety distance between robots.
-We demonstrate our approach in simulation and on real robots in 2D and 3D environments.

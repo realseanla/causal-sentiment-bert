@@ -1,6 +1,0 @@
-Bayesian model-based reinforcement learning is a formally elegant approach to learning optimal behaviour under model uncertainty.
-In this setting, a Bayes-optimal policy captures the ideal trade-off between exploration and exploitation.
-Unfortunately, finding Bayes-optimal policies is notoriously taxing due to the enormous search space in the augmented belief-state MDP.
-In this paper we exploit recent advances in sample-based planning, based on Monte-Carlo tree search, to introduce a tractable method for approximate Bayes-optimal planning.
-Unlike prior work in this area, we avoid expensive applications of Bayes rule within the search tree, by lazily sampling models from the current beliefs.
-Our approach outperformed prior Bayesian model-based RL algorithms by a significant margin on several well-known benchmark problems.

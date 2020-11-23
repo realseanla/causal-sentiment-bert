@@ -1,5 +1,0 @@
-We present LADDER, the first deep reinforcement learning agent that can successfully learn control policies for large-scale real-world problems directly from raw inputs composed of high-level semantic information.
-The agent is based on an asynchronous stochastic variant of DQN (Deep Q Network) named DASQN.
-The inputs of the agent are plain-text descriptions of states of a game of incomplete information, i.e.
-real-time large scale online auctions, and the rewards are auction profits of very large scale.
-We apply the agent to an essential portion of JD's online RTB (real-time bidding) advertising business and find that it easily beats the former state-of-the-art bidding policy that had been carefully engineered and calibrated by human experts: during JD.com's June 18th anniversary sale, the agent increased the company's ads revenue from the portion by more than 50 percent, while the advertisers' ROI (return on investment) also improved significantly.

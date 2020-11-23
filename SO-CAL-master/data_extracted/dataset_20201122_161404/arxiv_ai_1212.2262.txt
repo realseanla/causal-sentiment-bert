@@ -1,7 +1,0 @@
-Automatic analysis of biomedical time series such as electroencephalogram (EEG) and electrocardiographic (ECG) signals has attracted great interest in the community of biomedical engineering due to its important applications in medicine.
-In this work, a simple yet effective bag-of-words representation that is able to capture both local and global structure similarity information is proposed for biomedical time series representation.
-In particular, similar to the bag-of-words model used in text document domain, the proposed method treats a time series as a text document and extracts local segments from the time series as words.
-The biomedical time series is then represented as a histogram of codewords, each entry of which is the count of a codeword appeared in the time series.
-Although the temporal order of the local segments is ignored, the bag-of-words representation is able to capture high-level structural information because both local and global structural information are well utilized.
-The performance of the bag-of-words model is validated on three datasets extracted from real EEG and ECG signals.
-The experimental results demonstrate that the proposed method is not only insensitive to parameters of the bag-of-words model such as local segment length and codebook size, but also robust to noise.

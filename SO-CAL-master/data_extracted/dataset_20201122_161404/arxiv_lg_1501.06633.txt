@@ -1,4 +1,0 @@
-This paper describes maxDNN, a computationally efficient convolution kernel for deep learning with the NVIDIA Maxwell GPU.
-maxDNN reaches 96.3\ percent computational efficiency on typical deep learning network architectures using a single kernel.
-The design combines ideas from cuda-convnet2 with the Maxas SGEMM assembly code.
-We only address forward propagation (FPROP) operation of the network, but we believe that the same techniques used here will be effective for backward propagation (BPROP) as well.

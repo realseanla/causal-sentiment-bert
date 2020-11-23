@@ -1,0 +1,6 @@
+In this paper we present a new scheme for instrumentation, which has been inspired by the way small mammals sense their environment.
+We call this scheme Application Specific Instrumentation (ASIN).
+A conventional instrumentation system focuses on gathering as much information about the scene as possible.
+This, usually, is a generic system whose data can be used by another system to take a specific action.
+ASIN fuses these two steps into one.
+The major merit of the proposed scheme is that it uses low resolution sensors and much less computational overhead to give good performance for a highly specialised application

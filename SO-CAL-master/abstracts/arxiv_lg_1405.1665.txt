@@ -1,0 +1,6 @@
+We explore the connection between dimensionality and communication cost in distributed learning problems.
+Specifically we study the problem of estimating the mean \vectheta of an unknown d dimensional normal distribution in the distributed setting.
+In this problem, the samples from the unknown distribution are distributed among m different machines.
+The goal is to estimate the mean \vectheta at the optimal minimax rate while communicating as few bits as possible.
+We show that in this simple setting, the communication cost scales linearly in the number of dimensions i.e.
+one needs to deal with different dimensions individually.

@@ -1,0 +1,3 @@
+Importance sampling has been successfully used to accelerate stochastic optimization in many convex problems.
+However, the lack of an efficient way to calculate the importance still hinders its application to Deep Learning.
+In this paper, we show that the loss value can be used as an alternative importance metric, and propose a way to efficiently approximate it for a deep model, using a small model trained for that purpose in parallel.

@@ -1,4 +1,0 @@
-This paper studies the problem of learning weighted automata from a finite labeled training sample.
-We consider several general families of weighted automata defined in terms of three different measures: the norm of an automaton's weights, the norm of the function computed by an automaton, or the norm of the corresponding Hankel matrix.
-We present new data-dependent generalization guarantees for learning weighted automata expressed in terms of the Rademacher complexity of these families.
-We further present upper bounds on these Rademacher complexities, which reveal key new data-dependent terms related to the complexity of learning weighted automata.

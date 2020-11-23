@@ -1,3 +1,0 @@
-We propose a new method for the unsupervised extraction of predictable features from high-dimensional time-series, where high predictability is understood very generically as low variance in the distribution of the next data point given the current one.
-We show how this objective can be understood in terms of graph embedding as well as how it corresponds to the information-theoretic measure of excess entropy in special cases.
-Experimentally, we compare the approach to two other algorithms for the extraction of predictable features, namely ForeCA and PFA, and show how it is able to outperform them in certain settings.

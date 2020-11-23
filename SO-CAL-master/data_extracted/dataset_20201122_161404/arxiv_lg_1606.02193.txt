@@ -1,7 +1,0 @@
-Monitoring Wireless Sensor Networks (WSNs) are composed by sensor nodes that report temperature, relative humidity and other environmental parameters.
-The time between two successive measurements is a critical parameter to set during the WSN configuration, because it can impact the WSN's lifetime, the wireless medium contention and the quality of the reported data.
-As trends in monitored parameters can significantly vary between scenarios and within time, identifying a sampling interval suitable for several cases is also challenging.
-In this work, we propose a dynamic sampling rate adaptation scheme based on reinforcement learning, able to tune sensors' sampling interval on-the-fly, according to environmental conditions and application requirements.
-The main goal is to set the sampling interval to the best value possible so as to avoid oversampling and save energy, while not missing environmental changes that can be relevant for the application.
-In simulations, our mechanism could reduce up to 73 percent the total number of transmissions compared to a fixed strategy and, simultaneously, keep the average quality of information provided by the WSN.
-The inherent flexibility of the reinforcement learning algorithm facilitates its use in several scenarios, so as to exploit the broad scope of the Internet of Things.

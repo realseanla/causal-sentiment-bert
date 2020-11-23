@@ -1,4 +1,0 @@
-A language independent Stemmer has always been looked for.
-Single N gram tokenization technique works well, however, it often generates stems that start with intermediate characters, rather than initial ones.
-We present a novel technique that takes the concept of N grams one step ahead and compare our method with an established algorithm in the field Porter's Stemmer.
-Porters Stemmer is language dependent, and performance of our proposed method is not inferior to it.

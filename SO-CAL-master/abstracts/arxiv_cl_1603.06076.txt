@@ -1,0 +1,4 @@
+Detecting hypernymy relations is a key task in NLP, which is addressed in the literature using two complementary approaches.
+Distributional methods, whose supervised variants are the current best performers, and path-based methods who receive less research attention.
+We suggest an improved path-based algorithm, in which the dependency paths are encoded using a recurrent neural network, and achieve results comparable to distributional methods.
+We then extend the approach to integrate both path-based and distributional signals, significantly improving the state-of-the-art on this task.

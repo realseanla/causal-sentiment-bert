@@ -1,5 +1,0 @@
-Boolean factor analysis is the task of decomposing a Binary matrix to the Boolean product of two binary factors.
-This unsupervised data-analysis approach is desirable due to its interpretability, but hard to perform due its NP-hardness.
-A closely related problem is low-rank Boolean matrix completion from noisy observations.
-We treat these problems as maximum a posteriori inference problems, and present message passing solutions that scale linearly with the number of observations and factors.
-Our empirical study demonstrates that message passing is able to recover low-rank Boolean matrices, in the boundaries of theoretically possible recovery and outperform existing techniques in real-world applications, such as large-scale binary valued collaborative filtering tasks.

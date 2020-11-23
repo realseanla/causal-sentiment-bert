@@ -1,6 +1,0 @@
-The novel Unbiased Online Recurrent Optimization (UORO) algorithm allows for online learning of general recurrent computational graphs such as recurrent network models.
-It works in a streaming fashion and avoids backtracking through past activations and inputs.
-UORO is a modification of NoBackTrack that bypasses the need for model sparsity and makes implementation easy in current deep learning frameworks, even for complex models.
-Computationally, UORO is as costly as Truncated Backpropagation Through Time (TBPTT).
-Contrary to TBPTT, UORO is guaranteed to provide unbiased gradient estimates, and does not favor short-term dependencies.
-The downside is added noise, requiring smaller learning rates.

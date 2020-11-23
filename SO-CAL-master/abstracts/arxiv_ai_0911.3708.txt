@@ -1,0 +1,8 @@
+For many voting rules, it is NP-hard to compute a successful manipulation.
+However, NP-hardness only bounds the worst-case complexity.
+Recent theoretical results suggest that manipulation may often be easy in practice.
+We study empirically the cost of manipulating the single transferable vote (STV) rule.
+This was one of the first rules shown to be NP-hard to manipulate.
+It also appears to be one of the harder rules to manipulate since it involves multiple rounds and since, unlike many other rules, it is NP-hard for a single agent to manipulate without weights on the votes or uncertainty about how the other agents have voted.
+In almost every election in our experiments, it was easy to compute how a single agent could manipulate the election or to prove that manipulation by a single agent was impossible.
+It remains an interesting open question if manipulation by a coalition of agents is hard to compute in practice.

@@ -1,7 +1,0 @@
-In this work, we take a beyond the worst case approach to asymmetric and symmetric $k$-center problems under two very natural input stability (promise) conditions.
-We consider both the $\alpha$-perturbation resilience notion of Bilu and Linial [BL12], which states that the optimal solution does not change under any $\alpha$-factor perturbation to the input distances, and the $(\alpha,\epsilon)$-approximation stability notion of Balcan et al.
-[BBG09], which states that any $\alpha$-approximation to the cost of the optimal solution should be $\epsilon$-close in the solution space (i.e., the partitioning) to the optimal solution.
-We show that by merely assuming 3-perturbation resilience or $(2,0)$-approximation stability, the exact solution for the asymmetric $k$-center problem can be found in polynomial time.
-To our knowledge, this is the first problem that is hard to approximate to any constant factor in the worst case, yet can be optimally solved in polynomial time under perturbation resilience for a constant value of $\alpha$.
-In the case of 2-approximation stability, we prove our result is tight by showing $k$-center under $(2-\epsilon)$-approximation stability is hard unless $NP=RP$.
-For the case of symmetric $k$-center, we give an efficient algorithm to cluster 2-perturbation resilient instances.

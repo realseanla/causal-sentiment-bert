@@ -1,3 +1,0 @@
-We consider Conditional Random Fields (CRFs) with pattern-based potentials defined on a chain.
-In this model the energy of a string (labeling) $x_1 ... x_n$ is the sum of terms over intervals $[i,j]$ where each term is non-zero only if the substring $x_i ... x_j$ equals a prespecified pattern $\alpha$.
-Such CRFs were used in computer vision, and can be naturally applied to many sequence tagging problems.

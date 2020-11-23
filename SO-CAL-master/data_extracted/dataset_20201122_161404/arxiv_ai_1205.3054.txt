@@ -1,6 +1,0 @@
-Modified policy iteration (MPI) is a dynamic programming (DP) algorithm that contains the two celebrated policy and value iteration methods.
-Despite its generality, MPI has not been thoroughly studied, especially its approximation form which is used when the state and/or action spaces are large or infinite.
-In this paper, we propose three approximate MPI (AMPI) algorithms that are extensions of the well-known approximate DP algorithms: fitted-value iteration, fitted-Q iteration, and classification-based policy iteration.
-We provide an error propagation analysis for AMPI that unifies those for approximate policy and value iteration.
-We also provide a finite-sample analysis for the classification-based implementation of AMPI (CBMPI), which is more general (and somehow contains) than the analysis of the other presented AMPI algorithms.
-An interesting observation is that the MPI's parameter allows us to control the balance of errors (in value function approximation and in estimating the greedy policy) in the final performance of the CBMPI algorithm.

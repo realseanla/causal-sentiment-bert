@@ -1,5 +1,0 @@
-We investigate adaptive mixture methods that linearly combine outputs of $m$ constituent filters running in parallel to model a desired signal.
-We use "Bregman divergences" and obtain certain multiplicative updates to train the linear combination weights under an affine constraint or without any constraints.
-We use unnormalized relative entropy and relative entropy to define two different Bregman divergences that produce an unnormalized exponentiated gradient update and a normalized exponentiated gradient update on the mixture weights, respectively.
-We then carry out the mean and the mean-square transient analysis of these adaptive algorithms when they are used to combine outputs of $m$ constituent filters.
-We illustrate the accuracy of our results and demonstrate the effectiveness of these updates for sparse mixture systems.

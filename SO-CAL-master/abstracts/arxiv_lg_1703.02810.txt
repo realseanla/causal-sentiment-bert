@@ -1,0 +1,5 @@
+Traffic on freeways can be managed by means of ramp meters from Road Traffic Control rooms.
+Human operators cannot efficiently manage a network of ramp meters.
+To support them, we present an intelligent platform for traffic management which includes a new ramp metering coordination scheme in the decision making module, an efficient dashboard for interacting with human operators, machine learning tools for learning event definitions and Complex Event Processing tools able to deal with uncertainties inherent to the traffic use case.
+Unlike the usual approach, the devised event-driven platform is able to predict a congestion up to 4 minutes before it really happens.
+Proactive decision making can then be established leading to significant improvement of traffic conditions.

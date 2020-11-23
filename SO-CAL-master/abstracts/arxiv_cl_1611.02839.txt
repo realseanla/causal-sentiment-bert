@@ -1,0 +1,6 @@
+Named Entity Recognition (NER), search, classification and tagging of names and name like frequent informational elements in texts, has become a standard information extraction procedure for textual data.
+NER has been applied to many types of texts and different types of entities: newspapers, fiction, historical records, persons, locations, chemical compounds, protein families, animals etc.
+In general a NER system's performance is genre and domain dependent and also used entity categories vary (Nadeau and Sekine, 2007).
+The most general set of named entities is usually some version of three partite categorization of locations, persons and organizations.
+In this paper we report first large scale trials and evaluation of NER with data out of a digitized Finnish historical newspaper collection Digi.
+Experiments, results and discussion of this research serve development of the Web collection of historical Finnish newspapers.

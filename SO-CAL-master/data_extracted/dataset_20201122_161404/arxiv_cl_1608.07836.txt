@@ -1,6 +1,0 @@
-Real world data differs radically from the benchmark corpora we use in natural language processing (NLP).
-As soon as we apply our technologies to the real world, performance drops.
-The reason for this problem is obvious: NLP models are trained on samples from a limited set of canonical varieties that are considered standard, most prominently English newswire.
-However, there are many dimensions, e.g., socio-demographics, language, genre, sentence type, etc.
-on which texts can differ from the standard.
-The solution is not obvious: we cannot control for all factors, and it is not clear how to best go beyond the current practice of training on homogeneous data from a single domain and language.

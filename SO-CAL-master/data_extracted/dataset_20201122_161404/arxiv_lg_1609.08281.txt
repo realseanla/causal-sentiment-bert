@@ -1,5 +1,0 @@
-The aim of this brief is to design a robust projection matrix for the Compressive Sensing (CS) system when the signal is not exactly sparse.
-The optimal projection matrix design is obtained by minimizing the Frobenius norm of the difference between the identity matrix and the Gram matrix of the equivalent dictionary $\Phi\Psi$.
-A novel penalty $\|\Phi\|_F$ is added to make the projection matrix robust when the sparse representation error (SRE) exists.
-Additionally, designing the projection matrix with a high dimensional dictionary improves the signal reconstruct accuracy when the compression rate is the same as in a low dimensional dictionary scenario.
-Simulation results demonstrate the effectiveness of the proposed approach comparing with the state-of-the-art methods.

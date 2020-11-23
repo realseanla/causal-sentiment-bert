@@ -1,6 +1,0 @@
-Most existing approaches for zero pronoun resolution are supervised approaches, where annotated data are released by shared task organizers.
-Therefore, the lack of annotated data becomes a major obstacle in zero pronoun resolution task.
-The existing approaches mainly face the challenge of costing manpower on labeling the extended data for better training performance and domain adaption.
-To alleviate the problem above, in this paper we propose a simple but novel approach to automatically produce large-scale pseudo training data for zero pronoun resolution.
-Furthermore, to avoid the drawbacks of the feature engineering based approaches, we proposed an attention-based LSTM model for this task.
-Experimental results show that our proposed approach outperforms the state-of-the-art methods significantly with an absolute improvement of 5.1 percent F-score in OntoNotes 5.0 corpus.

@@ -1,3 +1,0 @@
-Lexical ambiguities naturally arise in languages.
-We present Lamb, a lexical analyzer that produces a lexical analysis graph describing all the possible sequences of tokens that can be found within the input string.
-Parsers can process such lexical analysis graphs and discard any sequence of tokens that does not produce a valid syntactic sentence, therefore performing, together with Lamb, a context-sensitive lexical analysis in lexically-ambiguous language specifications.

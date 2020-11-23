@@ -1,5 +1,0 @@
-This paper investigates graph clustering in the planted cluster model in the presence of {\em small clusters}.
-Traditional results dictate that for an algorithm to provably correctly recover the clusters, {\em all} clusters must be sufficiently large (in particular, $\tilde{\Omega}(\sqrt{n})$ where $n$ is the number of nodes of the graph).
-We show that this is not really a restriction: by a more refined analysis of the trace-norm based recovery approach proposed in Jalali et al.
-(2011) and Chen et al.
-(2012), we prove that small clusters, under certain mild assumptions, do not hinder recovery of large ones.

@@ -1,3 +1,0 @@
-Feature squeezing is a recently-introduced framework for mitigating and detecting adversarial examples.
-In previous work, we showed that it is effective against several earlier methods for generating adversarial examples.
-In this short note, we report on recent results showing that simple feature squeezing techniques also make deep learning models significantly more robust against the Carlini/Wagner attacks, which are the best known adversarial methods discovered to date.

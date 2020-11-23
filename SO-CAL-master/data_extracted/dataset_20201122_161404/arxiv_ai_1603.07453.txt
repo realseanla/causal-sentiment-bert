@@ -1,3 +1,0 @@
-This paper argues that a combined treatment of probabilities, time and actions is essential for an appropriate logical account of the notion of probability; and, based on this intuition, describes an expressive probabilistic temporal logic for reasoning about actions with uncertain outcomes.
-The logic is modal and higher-order: modalities annotated by actions are used to express possibility and necessity of propositions in the next states resulting from the actions, and a higher-order function is needed to express the probability operator.
-The proposed logic is shown to be an adequate extension of classical mathematical probability theory, and its expressiveness is illustrated through the formalization of the Monty Hall problem.

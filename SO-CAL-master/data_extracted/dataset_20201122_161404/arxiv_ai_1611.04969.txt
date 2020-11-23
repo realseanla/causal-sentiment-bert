@@ -1,8 +1,0 @@
-Answer Set Programming (ASP) is an expressive knowledge representation and reasoning framework.
-Due to its rather simple syntax paired with high-performance solvers, ASP is interesting for industrial applications.
-However, to err is human and thus debugging is an important activity during the development process.
-Therefore, tools for debugging non-ground answer set programs are needed.
-In this paper, we present a new graphical debugging interface for non-ground answer set programs.
-The tool is based on the recently-introduced DWASP approach for debugging and it simplifies the interaction with the debugger.
-Furthermore, the debugging interface is integrated in ASPIDE, a rich IDE for answer set programs.
-With our extension ASPIDE turns into a full-fledged IDE by offering debugging support.

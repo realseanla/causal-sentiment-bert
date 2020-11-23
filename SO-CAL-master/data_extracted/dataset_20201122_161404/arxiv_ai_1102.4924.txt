@@ -1,6 +1,0 @@
-An algorithm running in O(1.1995n) is presented for counting models for exact satisfiability formulae(#XSAT).
-This is faster than the previously best algorithm which runs in O(1.2190n).
-In order to improve the efficiency of the algorithm, a new principle, i.e.
-the common literals principle, is addressed to simplify formulae.
-This allows us to eliminate more common literals.
-In addition, we firstly inject the resolution principles into solving #XSAT problem, and therefore this further improves the efficiency of the algorithm.

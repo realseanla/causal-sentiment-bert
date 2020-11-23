@@ -1,4 +1,0 @@
-We propose a family of trust region policy optimization (TRPO) algorithms for learning control policies.
-We first develop a policy update scheme with guaranteed monotonic improvement, and then we describe a finite-sample approximation to this scheme that is practical for large-scale problems.
-In our experiments, we evaluate the method on two different and very challenging sets of tasks: learning simulated robotic swimming, hopping, and walking gaits, and playing Atari games using images of the screen as input.
-For these tasks, the policies are neural networks with tens of thousands of parameters, mapping from observations to actions.

@@ -1,8 +1,0 @@
-The Human visual perception of the world is of a large fixed image that is highly detailed and sharp.
-However, receptor density in the retina is not uniform: a small central region called the fovea is very dense and exhibits high resolution, whereas a peripheral region around it has much lower spatial resolution.
-Thus, contrary to our perception, we are only able to observe a very small region around the line of sight with high resolution.
-The perception of a complete and stable view is aided by an attention mechanism that directs the eyes to the numerous points of interest within the scene.
-The eyes move between these targets in quick, unconscious movements, known as "saccades".
-Once a target is centered at the fovea, the eyes fixate for a fraction of a second while the visual system extracts the necessary information.
-An artificial visual system was built based on a fully recurrent neural network set within a reinforcement learning protocol, and learned to attend to regions of interest while solving a classification task.
-The model is consistent with several experimentally observed phenomena, and suggests novel predictions.

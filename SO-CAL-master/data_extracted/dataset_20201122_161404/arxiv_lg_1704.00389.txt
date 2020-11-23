@@ -1,8 +1,0 @@
-Analyzing videos of human actions involves understanding the temporal relationships among video frames.
-CNNs are the current state-of-the-art methods for action recognition in videos.
-However, the CNN architectures currently being used have difficulty in capturing these relationships.
-State-of-the-art action recognition approaches rely on traditional local optical flow estimation methods to pre-compute the motion information for CNNs.
-Such a two-stage approach is computationally expensive, storage demanding, and not end-to-end trainable.
-In this paper, we present a novel CNN architecture that implicitly captures motion information.
-Our method is 10x faster than a two-stage approach, does not need to cache flow information, and is end-to-end trainable.
-Experimental results on UCF101 and HMDB51 show that it achieves competitive accuracy with the two-stage approaches.

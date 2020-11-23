@@ -1,5 +1,0 @@
-Unsupervised neural networks, such as restricted Boltzmann machines (RBMs) and deep belief networks (DBNs), are powerful tools for feature selection and pattern recognition tasks.
-We demonstrate that overfitting occurs in such models just as in deep feedforward neural networks, and discuss possible regularization methods to reduce overfitting.
-We consider weight decay, model averaging methods, and backward elimination, and propose revised model averaging methods to improve their efficiency.
-We also discuss the asymptotic convergence properties of these methods.
-Finally, we compare the performance of these methods using likelihood and classification error rates on various pattern recognition data sets.

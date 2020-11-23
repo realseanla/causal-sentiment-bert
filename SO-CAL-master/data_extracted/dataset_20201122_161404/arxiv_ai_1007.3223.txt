@@ -1,5 +1,0 @@
-This paper develops automated testing and debugging techniques for answer set solver development.
-We describe a flexible grammar-based black-box ASP fuzz testing tool which is able to reveal various defects such as unsound and incomplete behavior, i.e.
-invalid answer sets and inability to find existing solutions, in state-of-the-art answer set solver implementations.
-Moreover, we develop delta debugging techniques for shrinking failure-inducing inputs on which solvers exhibit defective behavior.
-In particular, we develop a delta debugging algorithm in the context of answer set solving, and evaluate two different elimination strategies for the algorithm.

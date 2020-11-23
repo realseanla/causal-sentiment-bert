@@ -1,0 +1,9 @@
+Temporal drift of sensory data is a severe problem impacting the data quality of wireless sensor networks (WSNs).
+With the proliferation of large-scale and long-term WSNs, it is becoming more important to calibrate sensors when the ground truth is unavailable.
+This problem is called "blind calibration".
+In this paper, we propose a novel deep learning method named projection-recovery network (PRNet) to blindly calibrate sensor measurements online.
+The PRNet first projects the drifted data to a feature space, and uses a powerful deep convolutional neural network to recover the estimated drift-free measurements.
+We deploy a 24-sensor testbed and provide comprehensive empirical evidence showing that the proposed method significantly improves the sensing accuracy and drifted sensor detection.
+Compared with previous methods, PRNet can calibrate 2x of drifted sensors at the recovery rate of 80 percent under the same level of accuracy requirement.
+We also provide helpful insights for designing deep neural networks for sensor calibration.
+We hope our proposed simple and effective approach will serve as a solid baseline in blind drift calibration of sensor networks.

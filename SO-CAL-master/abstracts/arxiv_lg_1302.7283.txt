@@ -1,0 +1,9 @@
+We propose a new method to enforce priors on the solution of the nonnegative matrix factorization (NMF).
+The proposed algorithm can be used for denoising or single-channel source separation (SCSS) applications.
+The NMF solution is guided to follow the Minimum Mean Square Error (MMSE) estimates under Gaussian mixture prior models (GMM) for the source signal.
+In SCSS applications, the spectra of the observed mixed signal are decomposed as a weighted linear combination of trained basis vectors for each source using NMF.
+In this work, the NMF decomposition weight matrices are treated as a distorted image by a distortion operator, which is learned directly from the observed signals.
+The MMSE estimate of the weights matrix under GMM prior and log-normal distribution for the distortion is then found to improve the NMF decomposition results.
+The MMSE estimate is embedded within the optimization objective to form a novel regularized NMF cost function.
+The corresponding update rules for the new objectives are derived in this paper.
+Experimental results show that, the proposed regularized NMF algorithm improves the source separation performance compared with using NMF without prior or with other prior models.

@@ -1,2 +1,0 @@
-We show that a deep convolutional network with an architecture inspired by the models used in image recognition can yield accuracy similar to a long-short term memory (LSTM) network, which achieves the state-of-the-art performance on the standard Switchboard automatic speech recognition task.
-Moreover, we demonstrate that merging the knowledge in the CNN and LSTM models via model compression further improves the accuracy of the convolutional model.

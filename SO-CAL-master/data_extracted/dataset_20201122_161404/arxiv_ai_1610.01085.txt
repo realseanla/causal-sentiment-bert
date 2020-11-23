@@ -1,5 +1,0 @@
-Detection rules have traditionally been designed for rational agents that minimize the Bayes risk (average decision cost).
-With the advent of crowd-sensing systems, there is a need to redesign binary hypothesis testing rules for behavioral agents, whose cognitive behavior is not captured by traditional utility functions such as Bayes risk.
-In this paper, we adopt prospect theory based models for decision makers.
-We consider special agent models namely optimists and pessimists in this paper, and derive optimal detection rules under different scenarios.
-Using an illustrative example, we also show how the decision rule of a human agent deviates from the Bayesian decision rule under various behavioral models, considered in this paper.

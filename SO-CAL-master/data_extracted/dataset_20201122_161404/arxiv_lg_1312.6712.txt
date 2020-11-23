@@ -1,7 +1,0 @@
-Time-series classification is an important domain of machine learning and a plethora of methods have been developed for the task.
-In comparison to existing approaches, this study presents a novel method which decomposes a time-series dataset into latent patterns and membership weights of local segments to those patterns.
-The process is formalized as a constrained objective function and a tailored stochastic coordinate descent optimization is applied.
-The time-series are projected to a new feature representation consisting of the sums of the membership weights, which captures frequencies of local patterns.
-Features from various sliding window sizes are concatenated in order to encapsulate the interaction of patterns from different sizes.
-Finally, a large-scale experimental comparison against 6 state of the art baselines and 43 real life datasets is conducted.
-The proposed method outperforms all the baselines with statistically significant margins in terms of prediction accuracy.

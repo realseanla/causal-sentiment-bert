@@ -1,9 +1,0 @@
-In this paper we address the problem of robot movement adaptation under various environmental constraints interactively.
-Motion primitives are generally adopted to generate target motion from demonstrations.
-However, their generalization capability is weak while facing novel environments.
-Additionally, traditional motion generation methods do not consider the versatile constraints from various users, tasks, and environments.
-In this work, we propose a co-active learning framework for learning to adapt robot end-effector's movement for manipulation tasks.
-It is designed to adapt the original imitation trajectories, which are learned from demonstrations, to novel situations with various constraints.
-The framework also considers user's feedback towards the adapted trajectories, and it learns to adapt movement through human-in-the-loop interactions.
-The implemented system generalizes trained motion primitives to various situations with different constraints considering user preferences.
-Experiments on a humanoid platform validate the effectiveness of our approach.

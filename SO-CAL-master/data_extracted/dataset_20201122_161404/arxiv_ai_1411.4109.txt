@@ -1,7 +1,0 @@
-A new natural language understanding method for disambiguation of difficult pronouns is described.
-Difficult pronouns are those pronouns for which a level of world or domain knowledge is needed in order to perform anaphoral or other types of resolution.
-Resolution of difficult pronouns may in some cases require a prior step involving the application of inference to a situation that is represented by the natural language text.
-A general method is described: it performs entity resolution and pronoun resolution.
-An extension to the general pronoun resolution method performs inference as an embedded commonsense reasoning method.
-The general method and the embedded method utilize features of the ROSS representational scheme; in particular the methods use ROSS ontology classes and the ROSS situation model.
-The overall method is a working solution that solves the following Winograd schemas: a) trophy and suitcase, b) person lifts person, c) person pays detective, and d) councilmen and demonstrators.

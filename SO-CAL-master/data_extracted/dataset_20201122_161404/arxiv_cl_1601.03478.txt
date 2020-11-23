@@ -1,6 +1,0 @@
-The ability to describe images with natural language sentences is the hallmark for image and language understanding.
-Such a system has wide ranging applications such as annotating images and using natural sentences to search for images.In this project we focus on the task of bidirectional image retrieval: such asystem is capable of retrieving an image based on a sentence (image search) andretrieve sentence based on an image query (image annotation).
-We present asystem based on a global ranking objective function which uses a combinationof convolutional neural networks (CNN) and multi layer perceptrons (MLP).It takes a pair of image and sentence and processes them in different channels,finally embedding it into a common multimodal vector space.
-These embeddingsencode abstract semantic information about the two inputs and can be comparedusing traditional information retrieval approaches.
-For each such pair, the modelreturns a score which is interpretted as a similarity metric.
-If this score is high,the image and sentence are likely to convey similar meaning, and if the score is low then they are likely not to.

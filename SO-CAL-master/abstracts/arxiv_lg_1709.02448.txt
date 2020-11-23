@@ -1,0 +1,6 @@
+We propose a neural embedding algorithm called Network Vector, which learns distributed representations of nodes and the entire networks simultaneously.
+By embedding networks in a low-dimensional space, the algorithm allows us to compare networks in terms of structural similarity and to solve outstanding predictive problems.
+Unlike alternative approaches that focus on node level features, we learn a continuous global vector that captures each node's global context by maximizing the predictive likelihood of random walk paths in the network.
+Our algorithm is scalable to real world graphs with many nodes.
+We evaluate our algorithm on datasets from diverse domains, and compare it with state-of-the-art techniques in node classification, role discovery and concept analogy tasks.
+The empirical results show the effectiveness and the efficiency of our algorithm.

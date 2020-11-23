@@ -1,9 +1,0 @@
-Deep learning has been shown as a successful machine learning method for a variety of tasks, and its popularity results in numerous open-source deep learning software tools coming to public.
-Training a deep network is usually a very time-consuming process.
-To address the huge computational challenge in deep learning, many tools exploit hardware features such as multi-core CPUs and many-core GPUs to shorten the training time.
-However, different tools exhibit different features and running performance when training different types of deep networks on different hardware platforms, which makes it difficult for end users to select an appropriate pair of software and hardware.
-In this paper, we aim to make a comparative study of the state-of-the-art GPU-accelerated deep learning software tools, including Caffe, CNTK, TensorFlow, and Torch.
-We benchmark the running performance of these tools with three popular types of neural networks on two CPU platforms and three GPU platforms.
-Our contribution is two-fold.
-First, for deep learning end users, our benchmarking results can serve as a guide to selecting appropriate software tool and hardware platform.
-Second, for deep learning software developers, our in-depth analysis points out possible future directions to further optimize the training performance.

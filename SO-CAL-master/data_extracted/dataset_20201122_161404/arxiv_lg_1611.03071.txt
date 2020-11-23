@@ -1,2 +1,0 @@
-We initiate the study of fair learning in Markovian settings, where the actions of a learning algorithm may affect its environment and future rewards.
-Working in the model of reinforcement learning, we define a fairness constraint requiring that an algorithm never prefers one action over another if the long-term (discounted) reward of choosing the latter action is higher.

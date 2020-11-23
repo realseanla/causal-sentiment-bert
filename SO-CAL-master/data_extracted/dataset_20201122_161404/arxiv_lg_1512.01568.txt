@@ -1,8 +1,0 @@
-Semi supervised learning methods have gained importance in today's world because of large expenses and time involved in labeling the unlabeled data by human experts.
-The proposed hybrid approach uses SVM and Label Propagation to label the unlabeled data.
-In the process, at each step SVM is trained to minimize the error and thus improve the prediction quality.
-Experiments are conducted by using SVM and logistic regression(Logreg).
-Results prove that SVM performs tremendously better than Logreg.
-The approach is tested using 12 datasets of different sizes ranging from the order of 1000s to the order of 10000s.
-Results show that the proposed approach outperforms Label Propagation by a large margin with F-measure of almost twice on average.
-The parallel version of the proposed approach is also designed and implemented, the analysis shows that the training time decreases significantly when parallel version is used.

@@ -1,4 +1,0 @@
-We describe a representation in a high-level transition system for policies that express a reactive behavior for the agent.
-We consider a target decision component that figures out what to do next and an (online) planning capability to compute the plans needed to reach these targets.
-Our representation allows one to analyze the flow of executing the given reactive policy, and to determine whether it works as expected.
-Additionally, the flexibility of the representation opens a range of possibilities for designing behaviors.

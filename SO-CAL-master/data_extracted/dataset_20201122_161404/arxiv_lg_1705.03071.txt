@@ -1,4 +1,0 @@
-We argue that the optimization plays a crucial role in generalization of deep learning models through implicit regularization.
-We do this by demonstrating that generalization ability is not controlled by network size but rather by some other implicit control.
-We then demonstrate how changing the empirical optimization procedure can improve generalization, even if actual optimization quality is not affected.
-We do so by studying the geometry of the parameter space of deep networks, and devising an optimization algorithm attuned to this geometry.

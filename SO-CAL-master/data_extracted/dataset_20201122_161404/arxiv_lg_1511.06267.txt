@@ -1,6 +1,0 @@
-Joint modeling of language and vision has been drawing increasing interest.
-A multimodal data representation allowing for bidirectional retrieval of images by sentences and vice versa is a key aspect of this modeling.
-In this paper we show that canonical correlation analysis (CCA) can be adapted to bidirectional retrieval by a simple task dependent asymmetric weighting, which solves optimally the retrieval problem in a least squares sense.
-While regularizing CCA is known to improve numerical stability as well as generalization performance, less attention has been brought to the efficient computation of the regularization path of CCA, which is key to model selection.
-In this paper we develop efficient algorithms to compute the full regularization path of CCA within the classical Tikhonov and the truncated SVD (T-SVD CCA) regularization frameworks.
-T-SVD CCA is new to the best of our knowledge, and its regularization path can be computed more efficiently than its Tikhonov counterpart.

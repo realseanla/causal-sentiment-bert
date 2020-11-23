@@ -1,9 +1,0 @@
-Generative models are widely used for unsupervised learning with various applications, including data compression and signal restoration.
-Training methods for such systems focus on the generality of the network given limited amount of training data.
-A less researched type of techniques concerns generation of only a single type of input.
-This is useful for applications such as constraint handling, noise reduction and anomaly detection.
-In this paper we present a technique to limit the generative capability of the network using negative learning.
-The proposed method searches the solution in the gradient direction for the desired input and in the opposite direction for the undesired input.
-One of the application can be anomaly detection where the undesired inputs are the anomalous data.
-In the results section we demonstrate the features of the algorithm using MNIST handwritten digit dataset and latter apply the technique to a real-world obstacle detection problem.
-The results clearly show that the proposed learning technique can significantly improve the performance for anomaly detection.

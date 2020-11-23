@@ -1,4 +1,0 @@
-Language understanding is a key component in a spoken dialogue system.
-In this paper, we investigate how the language understanding module influences the dialogue system performance by conducting a series of systematic experiments on a task-oriented neural dialogue system in a reinforcement learning based setting.
-The empirical study shows that among different types of language understanding errors, slot-level errors can have more impact on the overall performance of a dialogue system compared to intent-level errors.
-In addition, our experiments demonstrate that the reinforcement learning based dialogue system is able to learn when and what to confirm in order to achieve better performance and greater robustness.

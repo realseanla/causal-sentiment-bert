@@ -1,0 +1,8 @@
+Multiclass logistic regression (MLR) is a fundamental machine learning model to do multiclass classification.
+However, it is very challenging to perform MLR on large scale data where the feature dimension is high, the number of classes is large and the number of data samples is numerous.
+In this paper, we build a distributed framework to support large scale multiclass logistic regression.
+Using stochastic gradient descent to optimize MLR, we find that the gradient matrix is computed as the outer product of two vectors.
+This grants us an opportunity to greatly reduce communication cost: instead of communicating the gradient matrix among machines, we can only communicate the two vectors and use them to reconstruct the gradient matrix after communication.
+We design a Sufficient Vector Broadcaster (SVB) to support this communication pattern.
+SVB synchronizes the parameter matrix of MLR by broadcasting the sufficient vectors among machines and migrates gradient matrix computation on the receiver side.SVB can reduce the communication cost from quadratic to linear without incurring any loss of correctness.
+We evaluate the system on the ImageNet dataset and demonstrate the efficiency and effectiveness of our distributed framework.

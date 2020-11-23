@@ -1,0 +1,4 @@
+We present DataGrad, a general back-propagation style training procedure for deep neural architectures that uses regularization of a deep Jacobian-based penalty.
+It can be viewed as a deep extension of the layerwise contractive auto-encoder penalty.
+More importantly, it unifies previous proposals for adversarial training of deep neural nets -- this list includes directly modifying the gradient, training on a mix of original and adversarial examples, using contractive penalties, and approximately optimizing constrained adversarial objective functions.
+In an experiment using a Deep Sparse Rectifier Network, we find that the deep Jacobian regularization of DataGrad (which also has L1 and L2 flavors of regularization) outperforms traditional L1 and L2 regularization both on the original dataset as well as on adversarial examples.

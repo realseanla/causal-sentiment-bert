@@ -1,9 +1,0 @@
-Large labeled training sets are the critical building blocks of supervised learning methods and are key enablers of deep learning techniques.
-For some applications, creating labeled training sets is the most time-consuming and expensive part of applying machine learning.
-We therefore propose a paradigm for the programmatic creation of training sets called data programming in which users provide a set of labeling functions, which are programs that heuristically label large subsets of data points, albeit noisily.
-By viewing these labeling functions as implicitly describing a generative model for this noise, we show that we can recover the parameters of this model to "denoise" the training set.
-Then, we show how to modify a discriminative loss function to make it noise-aware.
-We demonstrate our method over a range of discriminative models including logistic regression and LSTMs.
-We establish theoretically that we can recover the parameters of these generative models in a handful of settings.
-Experimentally, on the 2014 TAC-KBP relation extraction challenge, we show that data programming would have obtained a winning score, and also show that applying data programming to an LSTM model leads to a TAC-KBP score almost 6 F1 points over a supervised LSTM baseline (and into second place in the competition).
-Additionally, in initial user studies we observed that data programming may be an easier way to create machine learning models for non-experts.

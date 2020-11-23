@@ -1,5 +1,0 @@
-This paper addresses the problem of automatic speech recognition (ASR) error detection and their use for improving spoken language understanding (SLU) systems.
-In this study, the SLU task consists in automatically extracting, from ASR transcriptions , semantic concepts and concept/values pairs in a e.g touristic information system.
-An approach is proposed for enriching the set of semantic labels with error specific labels and by using a recently proposed neural approach based on word embeddings to compute well calibrated ASR confidence measures.
-Experimental results are reported showing that it is possible to decrease significantly the Concept/Value Error Rate with a state of the art system, outperforming previously published results performance on the same experimental data.
-It also shown that combining an SLU approach based on conditional random fields with a neural encoder/decoder attention based architecture , it is possible to effectively identifying confidence islands and uncertain semantic output segments useful for deciding appropriate error handling actions by the dialogue manager strategy .

@@ -1,8 +1,0 @@
-Random generators or stochastic engines are a key component in the structure of metaheuristic algorithms.
-This work investigates the effects of non-Gaussian stochastic engines on the performance of metaheuristics when solving a real-world optimization problem.
-In this work, the bacteria foraging algorithm (BFA) was employed in tandem with four random generators (stochastic engines).
-The stochastic engines operate using the Weibull distribution, Gamma distribution, Gaussian distribution and a chaotic mechanism.
-The two non-Gaussian distributions are the Weibull and Gamma distributions.
-In this work, the approaches developed were implemented on the real-world multi-objective resin bonded sand mould problem.
-The Pareto frontiers obtained were benchmarked using two metrics; the hyper volume indicator (HVI) and the proposed Average Explorative Rate (AER) metric.
-Detail discussions from various perspectives on the effects of non-Gaussian random generators in metaheuristics are provided.

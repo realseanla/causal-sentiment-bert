@@ -1,6 +1,0 @@
-This chapter overviews a recently introduced network-based model of combinatorial landscapes: Local Optima Networks (LON).
-The model compresses the information given by the whole search space into a smaller mathematical object that is a graph having as vertices the local optima and as edges the possible weighted transitions between them.
-Two definitions of edges have been proposed: basin-transition and escape-edges, which capture relevant topological features of the underlying search spaces.
-This network model brings a new set of metrics to characterize the structure of combinatorial landscapes, those associated with the science of complex networks.
-These metrics are described, and results are presented of local optima network extraction and analysis for two selected combinatorial landscapes: NK landscapes and the quadratic assignment problem.
-Network features are found to correlate with and even predict the performance of heuristic search algorithms operating on these problems.

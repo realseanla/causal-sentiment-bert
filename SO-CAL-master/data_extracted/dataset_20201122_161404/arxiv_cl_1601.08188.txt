@@ -1,6 +1,0 @@
-Lipreading, i.e.
-speech recognition from visual-only recordings of a speaker's face, can be achieved with a processing pipeline based solely on neural networks, yielding significantly better accuracy than conventional methods.
-Feed-forward and recurrent neural network layers (namely Long Short-Term Memory; LSTM) are stacked to form a single structure which is trained by back-propagating error gradients through all the layers.
-The performance of such a stacked network was experimentally evaluated and compared to a standard Support Vector Machine classifier using conventional computer vision features (Eigenlips and Histograms of Oriented Gradients).
-The evaluation was performed on data from 19 speakers of the publicly available GRID corpus.
-With 51 different words to classify, we report a best word accuracy on held-out evaluation speakers of 79.6 percent using the end-to-end neural network-based solution (11.6 percent improvement over the best feature-based solution evaluated).

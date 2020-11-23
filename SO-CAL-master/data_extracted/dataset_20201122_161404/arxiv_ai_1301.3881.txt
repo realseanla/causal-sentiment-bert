@@ -1,5 +1,0 @@
-We present a new approach to the solution of decision problems formulated as influence diagrams.
-The approach converts the influence diagram into a simpler structure, the LImited Memory Influence Diagram (LIMID), where only the requisite information for the computation of optimal policies is depicted.
-Because the requisite information is explicitly represented in the diagram, the evaluation procedure can take advantage of it.
-In this paper we show how to convert an influence diagram to a LIMID and describe the procedure for finding an optimal strategy.
-Our approach can yield significant savings of memory and computational time when compared to traditional methods.

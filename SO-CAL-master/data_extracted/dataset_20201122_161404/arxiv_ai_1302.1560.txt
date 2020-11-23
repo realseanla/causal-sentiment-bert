@@ -1,7 +1,0 @@
-A submarine's sonar team is responsible for detecting, localising and classifying targets using information provided by the platform's sensor suite.
-The information used to make these assessments is typically uncertain and/or incomplete and is likely to require a measure of confidence in its reliability.
-Moreover, improvements in sensor and communication technology are resulting in increased amounts of on-platform and off-platform information available for evaluation.
-This proliferation of imprecise information increases the risk of overwhelming the operator.
-To assist the task of localisation and classification a concept demonstration decision aid (Horizon), based on evidential reasoning, has been developed.
-Horizon is an information fusion software package for representing and fusing imprecise information about the state of the world, expressed across suitable frames of reference.
-The Horizon software is currently at prototype stage.

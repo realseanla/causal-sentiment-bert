@@ -1,7 +1,0 @@
-Performance of end-to-end automatic speech recognition (ASR) systems can significantly be improved by the increasing large speech corpus and deeper neural network.
-Given the arising problem of training speed and recent success of deep convolutional neural network in ASR, we build a novel deep recurrent convolutional network for acoustic modeling and apply deep residual learning framework to it, our experiments show that it has not only faster convergence speed but better recognition accuracy over traditional deep convolutional recurrent network.
-We mainly compare convergence speed of two acoustic models, which are novel deep recurrent convolutional networks and traditional deep convolutional recurrent networks.
-With faster convergence speed, our novel deep recurrent convolutional networks can reach the comparable performance.
-We further show that applying deep residual learning can boost both convergence speed and recognition accuracy of our novel recurret convolutional networks.
-Finally, we evaluate all our experimental networks by phoneme error rate (PER) with newly proposed bidirectional statistical language model.
-Our evaluation results show that our model applied with deep residual learning can reach the best PER of 17.33 percent with fastest convergence speed in TIMIT database.

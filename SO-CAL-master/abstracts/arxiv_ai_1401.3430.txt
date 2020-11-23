@@ -1,0 +1,2 @@
+Literature on Constraint Satisfaction exhibits the definition of several structural properties that can be possessed by CSPs, like (in)consistency, substitutability or interchangeability.
+Current tools for constraint solving typically detect such properties efficiently by means of incomplete yet effective algorithms, and use them to reduce the search space and boost search.

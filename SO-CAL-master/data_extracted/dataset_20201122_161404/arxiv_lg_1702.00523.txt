@@ -1,9 +1,0 @@
-Standardized corpora of undeciphered scripts, a necessary starting point for computational epigraphy, requires laborious human effort for their preparation from raw archaeological records.
-Automating this process through machine learning algorithms can be of significant aid to epigraphical research.
-Here, we take the first steps in this direction and present a deep learning pipeline that takes as input images of the undeciphered Indus script, as found in archaeological artifacts, and returns as output a string of graphemes, suitable for inclusion in a standard corpus.
-The image is first decomposed into regions using Selective Search and these regions are classified as containing textual and/or graphical information using a convolutional neural network.
-Regions classified as potentially containing text are hierarchically merged and trimmed to remove non-textual information.
-The remaining textual part of the image is segmented using standard image processing techniques to isolate individual graphemes.
-This set is finally passed to a second convolutional neural network to classify the graphemes, based on a standard corpus.
-The classifier can identify the presence or absence of the most frequent Indus grapheme, the "jar" sign, with an accuracy of 92 percent.
-Our results demonstrate the great potential of deep learning approaches in computational epigraphy and, more generally, in the digital humanities.

@@ -1,8 +1,0 @@
-The weighted Maximum Satisfiability problem (weighted MAX-SAT) is a NP-hard problem with numerous applications arising in artificial intelligence.
-As an efficient tool for heuristic design, the backbone has been applied to heuristics design for many NP-hard problems.
-In this paper, we investigated the computational complexity for retrieving the backbone in weighted MAX-SAT and developed a new algorithm for solving this problem.
-We showed that it is intractable to retrieve the full backbone under the assumption that .
-Moreover, it is intractable to retrieve a fixed fraction of the backbone as well.
-And then we presented a backbone guided local search (BGLS) with Walksat operator for weighted MAX-SAT.
-BGLS consists of two phases: the first phase samples the backbone information from local optima and the backbone phase conducts local search under the guideline of backbone.
-Extensive experimental results on the benchmark showed that BGLS outperforms the existing heuristics in both solution quality and runtime.

@@ -1,9 +1,0 @@
-The Tabu Search (TS) metaheuristic has been proposed for K-Means clustering as an alternative to Lloyd's algorithm, which for all its ease of implementation and fast runtime, has the major drawback of being trapped at local optima.
-While the TS approach can yield superior performance, it involves a high computational complexity.
-Moreover, the difficulty in parameter selection in the existing TS approach does not make it any more attractive.
-This paper presents an alternative, low-complexity formulation of the TS optimization procedure for K-Means clustering.
-This approach does not require many parameter settings.
-We initially constrain the centers to points in the dataset.
-We then aim at evolving these centers using a unique neighborhood structure that makes use of gradient information of the objective function.
-This results in an efficient exploration of the search space, after which the means are refined.
-The proposed scheme is implemented in MATLAB and tested on four real-world datasets, and it achieves a significant improvement over the existing TS approach in terms of the intra cluster sum of squares and computational time.

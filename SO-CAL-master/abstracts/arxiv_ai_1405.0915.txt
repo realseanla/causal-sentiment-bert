@@ -1,0 +1,6 @@
+The interest in the combination of probability with logics for modeling the world has rapidly increased in the last few years.
+One of the most effective approaches is the Distribution Semantics which was adopted by many logic programming languages and in Descripion Logics.
+In this paper, we illustrate the work we have done in this research field by presenting a probabilistic semantics for description logics and reasoning and learning algorithms.
+In particular, we present in detail the system TRILL P, which computes the probability of queries w.r.t.
+probabilistic knowledge bases, which has been implemented in Prolog.
+An extended abstract / full version of a paper accepted to be presented at the Doctoral Consortium of the 30th International Conference on Logic Programming (ICLP 2014), July 19-22, Vienna, Austria

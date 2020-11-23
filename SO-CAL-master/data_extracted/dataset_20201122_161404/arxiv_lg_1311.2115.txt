@@ -1,7 +1,0 @@
-We present an algorithm for minimizing a sum of functions that combines the computational efficiency of stochastic gradient descent (SGD) with the second order curvature information accessible by quasi-Newton methods.
-We unify these disparate approaches by maintaining an independent Hessian approximation for each contributing function in the sum.
-We maintain computational tractability even for high dimensional optimization problems by developing an adaptive scheme to store and manipulate these quadratic approximations in a shared, time evolving low dimensional subspace, determined by the recent history of gradient evaluations.
-This algorithm contrasts with earlier stochastic second order techniques, which treat the Hessian of each contributing function only as a noisy approximation to the full Hessian, rather than as a target for direct estimation.
-Our approach reaps the benefits of both SGD and quasi-Newton methods; each update step requires only a single subfunction evaluation (like SGD but unlike previous stochastic second order methods), while little to no adjustment of hyperparameters is required (as is typical for quasi-Newton methods but not for SGD).
-For convex problems the convergence rate of the proposed technique is at least linear.
-We demonstrate improved convergence on five diverse optimization problems.

@@ -1,4 +1,0 @@
-The paper  presented a bound on the generalisation error of classifiers learned through multiple kernel learning.
-The bound has (an improved) \emph{additive} dependence on the number of kernels (with the same logarithmic dependence on this number).
-However, parts of the proof were incorrectly presented in that paper.
-This note remedies this weakness by restating the problem and giving a detailed proof of the Rademacher complexity bound from .

@@ -1,0 +1,2 @@
+We study the cost sharing problem for cooperative games in situations where the cost function $C$ is not available via oracle queries, but must instead be derived from data, represented as tuples $(S, C(S))$, for different subsets $S$ of players.
+We formalize this approach, which we call statistical cost sharing, and consider the computation of the core and the Shapley value, when the tuples are drawn from some distribution $\mathcal{D}$.

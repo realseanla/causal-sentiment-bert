@@ -1,0 +1,7 @@
+The null linear discriminant analysis method is a competitive approach for dimensionality reduction.
+The implementation of this method, however, is computationally expensive.
+Recently, a fast implementation of null linear discriminant analysis method using random matrix multiplication with scatter matrices was proposed.
+However, if the random matrix is chosen arbitrarily, the orientation matrix may be rank deficient, and some useful discriminant information will be lost.
+In this paper, we investigate how to choose the random matrix properly, such that the two criteria of the null LDA method are satisfied theoretically.
+We give a necessary and sufficient condition to guarantee full column rank of the orientation matrix.
+Moreover, the geometric characterization of the condition is also described.

@@ -1,6 +1,0 @@
-This paper presents a tentative outline for the construction of an artificial, generally intelligent system (AGI).
-It is argued that building a general data compression algorithm solving all problems up to a complexity threshold should be the main thrust of research.
-A measure for partial progress in AGI is suggested.
-Although the details are far from being clear, some general properties for a general compression algorithm are fleshed out.
-Its inductive bias should be flexible and adapt to the input data while constantly searching for a simple, orthogonal and complete set of hypotheses explaining the data.
-It should recursively reduce the size of its representations thereby compressing the data increasingly at every iteration.

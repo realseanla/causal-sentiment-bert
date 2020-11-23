@@ -1,5 +1,0 @@
-We introduce AI rationalization, an approach for generating explanations of autonomous system behavior as if a human had done the behavior.
-We describe a rationalization technique that uses neural machine translation to translate internal state-action representations of the autonomous agent into natural language.
-We evaluate our technique in the Frogger game environment.
-The natural language is collected from human players thinking out loud as they play the game.
-We motivate the use of rationalization as an approach to explanation generation, show the results of experiments on the accuracy of our rationalization technique, and describe future research agenda.

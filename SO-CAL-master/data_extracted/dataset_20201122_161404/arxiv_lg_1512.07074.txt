@@ -1,8 +1,0 @@
-In an online decision problem, one makes decisions often with a pool of decision sequence called experts but without knowledge of the future.
-After each step, one pays a cost based on the decision and observed rate.
-One reasonal goal would be to perform as well as the best expert in the pool.
-The modern and well-known way to attain this goal is the algorithm of exponential weighting.
-However, recently, another algorithm called follow the perturbed leader is developed and achieved about the same performance.
-In our work, we first show the properties shared in common by the two algorithms which explain the similarities on the performance.
-Next we will show that for a specific perturbation, the two algorithms are identical.
-Finally, we show with some examples that follow-the-leader style algorithms extend naturally to a large class of structured online problems for which the exponential algorithms are inefficient.

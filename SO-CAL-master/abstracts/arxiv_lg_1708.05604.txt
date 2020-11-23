@@ -1,0 +1,6 @@
+An efficient algorithm for recurrent neural network training is presented.
+The approach increases the training speed for tasks where a length of the input sequence may vary significantly.
+The proposed approach is based on the optimal batch bucketing by input sequence length and data parallelization on multiple graphical processing units.
+The baseline training performance without sequence bucketing is compared with the proposed solution for a different number of buckets.
+An example is given for the online handwriting recognition task using an LSTM recurrent neural network.
+The evaluation is performed in terms of the wall clock time, number of epochs, and validation loss value.

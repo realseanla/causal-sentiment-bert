@@ -1,5 +1,0 @@
-In this paper, we propose a set theoretic approach for knowledge representation.
-While the syntax of an application domain is captured by set theoretic constructs including individuals, concepts and operators, knowledge is formalized by equality assertions.
-We first present a primitive form that uses minimal assumed knowledge and constructs.
-Then, assuming naive set theory, we extend it by definitions, which are special kinds of knowledge.
-Interestingly, we show that the primitive form is expressive enough to define logic operators, not only propositional connectives but also quantifiers.

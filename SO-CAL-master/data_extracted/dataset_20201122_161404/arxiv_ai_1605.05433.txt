@@ -1,4 +1,0 @@
-We consider the task of predicting lexical entailment using distributional vectors.
-We focus experiments on one previous classifier which was shown to only learn to detect prototypicality of a word pair.
-Analysis shows that the model single-mindedly learns to detect Hearst Patterns, which are well known to be predictive of lexical relations.
-We present a new model which exploits this Hearst Detector functionality, matching or outperforming prior work on multiple data sets.

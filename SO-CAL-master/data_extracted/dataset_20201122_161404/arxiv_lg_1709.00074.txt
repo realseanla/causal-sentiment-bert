@@ -1,4 +1,0 @@
-We discuss the feasibility of the following learning problem: given unmatched samples from two domains and nothing else, learn a mapping between the two, which preserves semantics.
-Due to the lack of paired samples and without any definition of the semantic information, the problem might seem ill-posed.
-Specifically, in typical cases, it seems possible to build infinitely many alternative mappings from every target mapping.
-This apparent ambiguity stands in sharp contrast to the recent empirical success in solving this problem.

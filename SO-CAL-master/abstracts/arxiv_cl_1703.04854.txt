@@ -1,0 +1,6 @@
+Collaborative filtering (CF) aims to build a model from users' past behaviors and/or similar decisions made by other users, and use the model to recommend items for users.
+Despite of the success of previous collaborative filtering approaches, they are all based on the assumption that there are sufficient rating scores available for building high-quality recommendation models.
+In real world applications, however, it is often difficult to collect sufficient rating scores, especially when new items are introduced into the system, which makes the recommendation task challenging.
+We find that there are often "short" texts describing features of items, based on which we can approximate the similarity of items and make recommendation together with rating scores.
+In this paper we "borrow" the idea of vector representation of words to capture the information of short texts and embed it into a matrix factorization framework.
+We empirically show that our approach is effective by comparing it with state-of-the-art approaches.

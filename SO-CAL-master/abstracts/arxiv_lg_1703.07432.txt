@@ -1,0 +1,4 @@
+In recent years crowdsourcing has become the method of choice for gathering labeled training data for learning algorithms.
+Standard approaches to crowdsourcing view the process of acquiring labeled data separately from the process of learning a classifier from the gathered data.
+This can give rise to computational and statistical challenges.
+For example, in most cases there are no known computationally efficient learning algorithms that are robust to the high level of noise that exists in crowdsourced data, and efforts to eliminate noise through voting often require a large number of queries per example.

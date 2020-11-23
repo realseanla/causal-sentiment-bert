@@ -1,4 +1,0 @@
-We present a new algorithm for the contextual bandit learning problem, where the learner repeatedly takes an action in response to the observed context, observing the reward only for that action.
-Our method assumes access to an oracle for solving cost-sensitive classification problems and achieves the statistically optimal regret guarantee with only $\tilde{O}(\sqrt{T})$ oracle calls across all $T$ rounds.
-By doing so, we obtain the most practical contextual bandit learning algorithm amongst approaches that work for general policy classes.
-We further conduct a proof-of-concept experiment which demonstrates the excellent computational and prediction performance of (an online variant of) our algorithm relative to several baselines.

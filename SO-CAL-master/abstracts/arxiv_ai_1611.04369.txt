@@ -1,0 +1,7 @@
+Measuring research impact and ranking academic achievement are important and challenging problems.
+Having an objective picture of research institution is particularly valuable for students, parents and funding agencies, and also attracts attention from government and industry.
+KDD Cup 2016 proposes the paper acceptance rank prediction task, in which the participants are asked to rank the importance of institutions based on predicting how many of their papers will be accepted at the 8 top conferences in computer science.
+In our work, we adopt a three-step feature engineering method, including basic features definition, finding similar conferences to enhance the feature set, and dimension reduction using PCA.
+We propose three ranking models and the ensemble methods for combining such models.
+Our experiment verifies the effectiveness of our approach.
+In KDD Cup 2016, we achieved the overall rank of the 2nd place.

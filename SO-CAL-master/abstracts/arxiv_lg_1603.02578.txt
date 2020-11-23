@@ -1,0 +1,3 @@
+We introduce a batched lazy algorithm for supervised classification using decision trees.
+It avoids unnecessary visits to irrelevant nodes when it is used to make predictions with either eagerly or lazily trained decision trees.
+A set of experiments demonstrate that the proposed algorithm can outperform both the conventional and lazy decision tree algorithms in terms of computation time as well as memory consumption, without compromising accuracy.

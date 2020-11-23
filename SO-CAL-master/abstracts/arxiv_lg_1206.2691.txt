@@ -1,0 +1,5 @@
+We present a new algorithm IDS for incremental learning of deterministic finite automata (DFA).
+This algorithm is based on the concept of distinguishing sequences introduced in (Angluin81).
+We give a rigorous proof that two versions of this learning algorithm correctly learn in the limit.
+Finally we present an empirical performance analysis that compares these two algorithms, focussing on learning times and different types of learning queries.
+We conclude that IDS is an efficient algorithm for software engineering applications of automata learning, such as testing and model inference.

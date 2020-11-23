@@ -1,5 +1,0 @@
-Document categorization is a technique where the category of a document is determined.
-In this paper three well-known supervised learning techniques which are Support Vector Machine(SVM), Na\"ive Bayes(NB) and Stochastic Gradient Descent(SGD) compared for Bengali document categorization.
-Besides classifier, classification also depends on how feature is selected from dataset.
-For analyzing those classifier performances on predicting a document against twelve categories several feature selection techniques are also applied in this article namely Chi square distribution, normalized TFIDF (term frequency-inverse document frequency) with word analyzer.
-So, we attempt to explore the efficiency of those three-classification algorithms by using two different feature selection techniques in this article.

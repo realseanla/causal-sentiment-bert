@@ -1,6 +1,0 @@
-Neural network based approaches for sentence relation modeling automatically generate hidden matching features from raw sentence pairs.
-However, the quality of matching feature representation may not be satisfied due to complex semantic relations such as entailment or contradiction.
-To address this challenge, we propose a new deep neural network architecture that jointly leverage pre-trained word embedding and auxiliary character embedding to learn sentence meanings.
-The two kinds of word sequence representations as inputs into multi-layer bidirectional LSTM to learn enhanced sentence representation.
-After that, we construct matching features followed by another temporal CNN to learn high-level hidden matching feature representations.
-Experimental results demonstrate that our approach consistently outperforms the existing methods on standard evaluation datasets.

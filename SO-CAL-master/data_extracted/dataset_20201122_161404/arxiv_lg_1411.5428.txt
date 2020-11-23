@@ -1,4 +1,0 @@
-An important use of private data is to build machine learning classi- fiers.
-While there is a burgeoning literature on differentially private classification algorithms, we find that they are not practical in real applications due to two reasons.
-First, existing differentially private classifiers provide poor accuracy on real world datasets.
-Second, there is no known differentially private algorithm for empirically evaluating the private classifier on a private test dataset.

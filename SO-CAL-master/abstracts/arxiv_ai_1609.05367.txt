@@ -1,0 +1,3 @@
+In this paper we introduce the Wastewater Treatment Plant Problem, a real-world scheduling problem, and compare the performance of several tools on it.
+We show that, for a naive modeling, state-of-the-art SMT solvers outperform other tools ranging from mathematical programming to constraint programming.
+We use both real and randomly generated benchmarks.

@@ -1,6 +1,0 @@
-Recent advances in combining deep neural network architectures with reinforcement learning techniques have shown promising potential results in solving complex control problems with high dimensional state and action spaces.
-Inspired by these successes, in this paper, we build two kinds of reinforcement learning algorithms: deep policy-gradient and value-function based agents which can predict the best possible traffic signal for a traffic intersection.
-At each time step, these adaptive traffic light control agents receive a snapshot of the current state of a graphical traffic simulator and produce control signals.
-The policy-gradient based agent maps its observation directly to the control signal, however the value-function based agent first estimates values for all legal control signals.
-The agent then selects the optimal control action with the highest value.
-Our methods show promising results in a traffic network simulated in the SUMO traffic simulator, without suffering from instability issues during the training process.

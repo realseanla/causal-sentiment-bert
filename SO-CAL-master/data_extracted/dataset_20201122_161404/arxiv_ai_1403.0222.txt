@@ -1,3 +1,0 @@
-We consider the quantified constraint satisfaction problem (QCSP) which is to decide, given a structure and a first-order sentence (not assumed here to be in prenex form) built from conjunction and quantification, whether or not the sentence is true on the structure.
-We present a proof system for certifying the falsity of QCSP instances and develop its basic theory; for instance, we provide an algorithmic interpretation of its behavior.
-Our proof system places the established Q-resolution proof system in a broader context, and also allows us to derive QCSP tractability results.

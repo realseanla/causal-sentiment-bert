@@ -1,0 +1,5 @@
+Vector quantization(VQ) is a lossy data compression technique from signal processing, which is restricted to feature vectors and therefore inapplicable for combinatorial structures.
+This contribution presents a theoretical foundation of graph quantization (GQ) that extends VQ to the domain of attributed graphs.
+We present the necessary Lloyd-Max conditions for optimality of a graph quantizer and consistency results for optimal GQ design based on empirical distortion measures and stochastic optimization.
+These results statistically justify existing clustering algorithms in the domain of graphs.
+The proposed approach provides a template of how to link structural pattern recognition methods other than GQ to statistical pattern recognition.

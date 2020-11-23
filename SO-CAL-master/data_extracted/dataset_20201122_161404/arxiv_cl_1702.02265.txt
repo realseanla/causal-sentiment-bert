@@ -1,3 +1,0 @@
-This paper presents a novel neural machine translation model which jointly learns translation and source-side latent graph representations of sentences.
-Unlike existing pipelined approaches using syntactic parsers, our end-to-end model learns a latent graph parser as part of the encoder of an attention-based neural machine translation model, so the parser is optimized according to the translation objective.
-Experimental results show that our model significantly outperforms the previous best results on the standard English-to-Japanese translation dataset.

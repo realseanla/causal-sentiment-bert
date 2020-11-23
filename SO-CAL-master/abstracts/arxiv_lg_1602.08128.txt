@@ -1,0 +1,7 @@
+This paper presents a method for detecting mispronunciations with the aim of improving Computer Assisted Language Learning (CALL) tools used by foreign language learners.
+The algorithm is based on Principle Component Analysis (PCA).
+It is hierarchical with each successive step refining the estimate to classify the test word as being either mispronounced or correct.
+Preprocessing before detection, like normalization and time-scale modification, is implemented to guarantee uniformity of the feature vectors input to the detection system.
+The performance using various features including spectrograms and Mel-Frequency Cepstral Coefficients (MFCCs) are compared and evaluated.
+Best results were obtained using MFCCs, achieving up to 99 percent accuracy in word verification and 93 percent in native/non-native classification.
+Compared with Hidden Markov Models (HMMs) which are used pervasively in recognition application, this particular approach is computational efficient and effective when training data is limited.

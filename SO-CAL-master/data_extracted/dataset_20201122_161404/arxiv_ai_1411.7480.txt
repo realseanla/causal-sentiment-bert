@@ -1,4 +1,0 @@
-We present ULSA, a novel stochastic local search algorithm for random binary constraint satisfaction problems (CSP).
-ULSA is many times faster than the prior state of the art on a widely-studied suite of random CSP benchmarks.
-Unlike the best previous methods for these benchmarks, ULSA is a simple unweighted method that does not require dynamic adaptation of weights or penalties.
-ULSA obtains new record best solutions satisfying 99 of 100 variables in the challenging frb100-40 benchmark instance.

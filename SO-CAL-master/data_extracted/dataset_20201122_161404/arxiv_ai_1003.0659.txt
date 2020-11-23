@@ -1,6 +1,0 @@
-We present a novel particle filtering algorithm for tracking a moving sound source using a microphone array.
-If there are N microphones in the array, we track all $N \choose 2$ delays with a single particle filter over time.
-Since it is known that tracking in high dimensions is rife with difficulties, we instead integrate into our particle filter a model of the low dimensional manifold that these delays lie on.
-Our manifold model is based off of work on modeling low dimensional manifolds via random projection trees [1].
-In addition, we also introduce a new weighting scheme to our particle filtering algorithm based on recent advancements in online learning.
-We show that our novel TDOA tracking algorithm that integrates a manifold model can greatly outperform standard particle filters on this audio tracking task.

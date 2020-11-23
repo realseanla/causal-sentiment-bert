@@ -1,0 +1,6 @@
+Collaborative approaches to network defense are being increasingly advocated, aiming to proactively predict and speed up detection of attacks.
+In particular, a lot of attention has recently been given to the problem of predictive blacklisting, i.e., forecasting attack sources based on Intrusion Detection Systems (IDS) alerts contributed by different organizations.
+While collaboration allows the discovery of groups of correlated attacks targeting similar victims, it also raises important privacy and security challenges, thus motivating privacy-preserving approaches to the problem.
+Although recent work provides encouraging results on the feasibility of collaborative predictive blacklisting via limited data sharing, a number of open problems remain unaddressed, which this paper sets to address.
+We introduce a privacy-friendly system for predictive blacklisting featuring a semi-trusted authority that clusters organizations based on the similarity of their logs, without access to these logs.
+Entities in the same cluster then securely share relevant logs with each other, and build predictive blacklists.

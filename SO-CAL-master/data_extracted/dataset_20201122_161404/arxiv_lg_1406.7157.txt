@@ -1,8 +1,0 @@
-Consider a requester who wishes to crowdsource a series of identical binary labeling tasks from a pool of workers so as to achieve an assured accuracy for each task, in a cost optimal way.
-The workers are heterogeneous with unknown but fixed qualities and moreover their costs are private.
-The problem is to select an optimal subset of the workers to work on each task so that the outcome obtained from aggregating labels from them guarantees a target accuracy.
-This problem is challenging because the requester not only has to learn the qualities of the workers but also elicit their true costs.
-We develop a novel multi-armed bandit (MAB) mechanism for solving this problem.
-We propose a framework, {\em Assured Accuracy Bandit (AAB)}, which leads to an adaptive, exploration separated MAB algorithm, {\em Strategic Constrained Confidence Bound (CCB-S)}.
-We derive an upper bound on the number of exploration steps which depends on the target accuracy and true qualities.
-We show that our CCB-S algorithm produces an ex-post monotone allocation rule which can be transformed into an ex-post incentive compatible and ex-post individually rational mechanism that learns qualities of the workers and guarantees the target accuracy in a cost optimal way.

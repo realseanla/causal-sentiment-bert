@@ -1,0 +1,7 @@
+The use of alluring headlines (clickbait) to tempt the readers has become a growing practice nowadays.
+For the sake of existence in the highly competitive media industry, most of the on-line media including the mainstream ones, have started following this practice.
+Although the wide-spread practice of clickbait makes the reader's reliability on media vulnerable, a large scale analysis to reveal this fact is still absent.
+In this paper, we analyze 1.67 million Facebook posts created by 153 media organizations to understand the extent of clickbait practice, its impact and user engagement by using our own developed clickbait detection model.
+The model uses distributed sub-word embeddings learned from a large corpus.
+The accuracy of the model is 98.3 percent.
+Powered with this model, we further study the distribution of topics in clickbait and non-clickbait contents.

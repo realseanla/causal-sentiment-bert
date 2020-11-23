@@ -1,6 +1,0 @@
-This work shows how using reduced precision data in Convolutional Neural Networks (CNNs) affects network accuracy during classification.
-Unlike similar studies, this study considers networks where each layer may use different precision data.
-The key result of this study is that the tolerance of CNNs to reduced precision data not only varies across networks, a well established observation, but also within networks.
-Tuning precision per layer is appealing as it could enable energy and performance improvements.
-The trends of error tolerance across layers are studied and a method for finding a low precision configuration for a network while maintaining high accuracy is presented.
-A diverse set of CNNs is analyzed showing that compared to a conventional implementation using a 32-bit floating-point representation for all layers, and with less than 1 percent loss in relative accuracy, the data footprint required by these networks can be reduced by an average of 74 percent and up to 92 percent.

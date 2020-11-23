@@ -1,6 +1,0 @@
-We explore the use of segments learnt using Byte Pair Encoding (referred to as BPE units) as basic units for statistical machine translation between related languages and compare it with orthographic syllables, which are currently the best performing basic units for this translation task.
-BPE identifies the most frequent character sequences as basic units, while orthographic syllables are linguistically motivated pseudo-syllables.
-We show that BPE units outperform orthographic syllables as units of translation, showing up to 11 percent increase in BLEU scores.
-In addition, BPE can be applied to any writing system, while orthographic syllables can be used only for languages whose writing systems use vowel representations.
-We show that BPE units outperform word and morpheme level units for translation involving languages like Urdu, Japanese whose writing systems do not use vowels (either completely or partially).
-Across many language pairs, spanning multiple language families and types of writing systems, we show that translation with BPE segments outperforms orthographic syllables, especially for morphologically rich languages.

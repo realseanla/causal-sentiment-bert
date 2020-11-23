@@ -1,0 +1,5 @@
+We introduce new diversification methods for zero-one optimization that significantly extend strategies previously introduced in the setting of metaheuristic search.
+Our methods incorporate easily implemented strategies for partitioning assignments of values to variables, accompanied by processes called augmentation and shifting which create greater flexibility and generality.
+We then show how the resulting collection of diversified solutions can be further diversified by means of permutation mappings, which equally can be used to generate diversified collections of permutations for applications such as scheduling and routing.
+These methods can be applied to non-binary vectors by the use of binarization procedures and by Diversification-Based Learning (DBL) procedures which also provide connections to applications in clustering and machine learning.
+Detailed pseudocode and numerical illustrations are provided to show the operation of our methods and the collections of solutions they create.

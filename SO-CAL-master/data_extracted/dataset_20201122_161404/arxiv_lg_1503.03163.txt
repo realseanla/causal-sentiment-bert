@@ -1,6 +1,0 @@
-We propose a method for using synthetic data to help learning classifiers.
-Synthetic data, even is generated based on real data, normally results in a shift from the distribution of real data in feature space.
-To bridge the gap between the real and synthetic data, and jointly learn from synthetic and real data, this paper proposes a Multichannel Autoencoder(MCAE).
-We show that by suing MCAE, it is possible to learn a better feature representation for classification.
-To evaluate the proposed approach, we conduct experiments on two types of datasets.
-Experimental results on two datasets validate the efficiency of our MCAE model and our methodology of generating synthetic data.

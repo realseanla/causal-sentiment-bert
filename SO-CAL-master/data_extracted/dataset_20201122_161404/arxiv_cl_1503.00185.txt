@@ -1,7 +1,0 @@
-Recursive neural models, which use syntactic parse trees to recursively generate representations bottom-up from parse children, are a popular new architecture, promising to capture structural properties like the scope of negation or long-distance semantic dependencies.
-But understanding exactly which tasks this parse-based method is appropriate for remains an open question.
-In this paper we benchmark recursive neural models against sequential recurrent neural models, which are structured solely on word sequences.
-We investigate 5 tasks: sentiment classification on (1) sentences and (2) syntactic phrases; (3) question answering; (4) discourse parsing; (5) semantic relations (e.g., component-whole between nouns); We find that recurrent models have equal or superior performance to recursive models on all tasks except one: semantic relations between nominals.
-Our analysis suggests that tasks relying on the scope of negation (like sentiment) are well-handled by sequential models.
-Recursive models help only with tasks that require representing long-distance relations between words.
-Our results offer insights on the design of neural architectures for representation learning.

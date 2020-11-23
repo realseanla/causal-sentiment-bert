@@ -1,5 +1,0 @@
-Hidden Markov models (HMMs) and partially observable Markov decision processes (POMDPs) provide useful tools for modeling dynamical systems.
-They are particularly useful for representing the topology of environments such as road networks and office buildings, which are typical for robot navigation and planning.
-The work presented here describes a formal framework for incorporating readily available odometric information and geometrical constraints into both the models and the algorithm that learns them.
-By taking advantage of such information, learning HMMs/POMDPs can be made to generate better solutions and require fewer iterations, while being robust in the face of data reduction.
-Experimental results, obtained from both simulated and real robot data, demonstrate the effectiveness of the approach.

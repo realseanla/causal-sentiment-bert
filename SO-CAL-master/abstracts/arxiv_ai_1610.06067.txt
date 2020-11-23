@@ -1,0 +1,3 @@
+We explore the following question: Is a decision-making program fair, for some useful definition of fairness?
+First, we describe how several algorithmic fairness questions can be phrased as program verification problems.
+Second, we discuss an automated verification technique for proving or disproving fairness of decision-making programs with respect to a probabilistic model of the population.

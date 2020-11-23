@@ -1,0 +1,5 @@
+While open-domain question answering (QA) systems have proven effective for answering simple questions, they struggle with more complex questions.
+Our goal is to answer more complex questions reliably, without incurring a significant cost in knowledge resource construction to support the QA.
+One readily available knowledge resource is a term bank, enumerating the key concepts in a domain.
+We have developed an unsupervised learning approach that leverages a term bank to guide a QA system, by representing the terminological knowledge with thousands of specialized vector spaces.
+In experiments with complex science questions, we show that this approach significantly outperforms several state-of-the-art QA systems, demonstrating that significant leverage can be gained from continuous vector representations of domain terminology.

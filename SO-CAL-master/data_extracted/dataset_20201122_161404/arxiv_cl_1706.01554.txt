@@ -1,5 +1,0 @@
-We present a novel training framework for neural sequence models, particularly for grounded dialog generation.
-The standard training paradigm for these models is maximum likelihood estimation (MLE), or minimizing the cross-entropy of the human responses.
-Across a variety of domains, a recurring problem with MLE trained generative neural dialog models (G) is that they tend to produce 'safe' and generic responses ("I don't know", "I can't tell").
-In contrast, discriminative dialog models (D) that are trained to rank a list of candidate human responses outperform their generative counterparts; in terms of automatic metrics, diversity, and informativeness of the responses.
-However, D is not useful in practice since it can not be deployed to have real conversations with users.

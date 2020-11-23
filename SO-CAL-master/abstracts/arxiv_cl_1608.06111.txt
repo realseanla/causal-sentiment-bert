@@ -1,0 +1,3 @@
+We describe an incremental parser for mapping input text into Abstract Meaning Representation (AMR) graphs.
+Our parser is based on a transition system for dependency parsing, and allows to incrementally parse the sentence into an AMR graph, if all other components that are needed by the parser (such as the part-of-speech tagger and the dependency parser) are incremental as well.
+We show that our parser has an advantage over state-of-the-art AMR parsers on several metrics.

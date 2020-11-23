@@ -1,0 +1,10 @@
+The holy Quran is the holy book of the Muslims.
+It contains information about many domains.
+Often people search for particular concepts of holy Quran based on the relations among concepts.
+An ontological modeling of holy Quran can be useful in such a scenario.
+In this paper, we have modeled nature related concepts of holy Quran using OWL (Web Ontology Language) / RDF (Resource Description Framework).
+Our methodology involves identifying nature related concepts mentioned in holy Quran and identifying relations among those concepts.
+These concepts and relations are represented as classes/instances and properties of an OWL ontology.
+Later, in the result section it is shown that, using the Ontological model, SPARQL queries can retrieve verses and concepts of interest.
+Thus, this modeling helps semantic search and query on the holy Quran.
+In this work, we have used English translation of the holy Quran by Sahih International, Protege OWL Editor and for querying we have used SPARQL.

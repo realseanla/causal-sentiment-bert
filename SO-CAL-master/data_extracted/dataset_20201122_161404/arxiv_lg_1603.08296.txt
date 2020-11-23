@@ -1,7 +1,0 @@
-The problem of development of the SVM classifier based on the modified particle swarm optimization has been considered.
-This algorithm carries out the simultaneous search of the kernel function type, values of the kernel function parameters and value of the regularization parameter for the SVM classifier.
-Such SVM classifier provides the high quality of data classification.
-The idea of particles' {\guillemotleft}regeneration{\guillemotright} is put on the basis of the modified particle swarm optimization algorithm.
-At the realization of this idea, some particles change their kernel function type to the one which corresponds to the particle with the best value of the classification accuracy.
-The offered particle swarm optimization algorithm allows reducing the time expenditures for development of the SVM classifier.
-The results of experimental studies confirm the efficiency of this algorithm.

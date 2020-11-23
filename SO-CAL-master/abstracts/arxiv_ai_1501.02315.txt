@@ -1,0 +1,6 @@
+Estimation of causal effects of interventions in dynamical systems of interacting agents is under-developed.
+In this paper, we explore the intricacies of this problem through standard approaches, and demonstrate the need for more appropriate methods.
+Working under the Neyman-Rubin causal model, we proceed to develop a causal inference method and we explicate the stability assumptions that are necessary for valid causal inference.
+Our method consists of a behavioral component that models the evolution of agent behaviors over time and informs on the long-term distribution of agent behaviors in the system, and a game-theoretic component that models the observed distribution of agent actions conditional on adopted behaviors.
+This allows the imputation of long-term estimates of quantities of interest, and thus the estimation of long-term causal effects of interventions.
+We demonstrate our method on a dataset from behavioral game theory, and discuss open problems to stimulate future research.

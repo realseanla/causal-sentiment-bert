@@ -1,7 +1,0 @@
-Neuromorphic computing systems comprise net- works of neurons that use asynchronous events for both computation and communication.
-This type of representation offers several advantages in terms of bandwidth and power consumption in neuromorphic electronic systems.
-However, managing the traffic of asynchronous events in large scale systems is a daunting task, both in terms of circuit complexity and memory requirements.
-Here we present a novel routing methodology that employs both hierarchical and mesh routing strategies and combines heterogeneous memory structures for minimizing both memory requirements and latency, while maximizing programming flexibility to support a wide range of event-based neural network architectures, through parameter configuration.
-We validated the proposed scheme in a prototype multi-core neuromorphic processor chip that employs hybrid analog/digital circuits for emulating synapse and neuron dynamics together with asynchronous digital circuits for managing the address-event traffic.
-We present a theoretical analysis of the proposed connectivity scheme, describe the methods and circuits used to implement such scheme, and characterize the prototype chip.
-Finally, we demonstrate the use of the neuromorphic processor with a convolutional neural network for the real-time classification of visual symbols being flashed to a dynamic vision sensor (DVS) at high speed.

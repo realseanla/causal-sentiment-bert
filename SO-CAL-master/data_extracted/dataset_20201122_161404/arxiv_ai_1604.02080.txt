@@ -1,7 +1,0 @@
-Information-theoretic principles for learning and acting have been proposed to solve particular classes of Markov Decision Problems.
-Mathematically, such approaches are governed by a variational free energy principle and allow solving MDP planning problems with information-processing constraints expressed in terms of a Kullback-Leibler divergence with respect to a reference distribution.
-Here we consider a generalization of such MDP planners by taking model uncertainty into account.
-As model uncertainty can also be formalized as an information-processing constraint, we can derive a unified solution from a single generalized variational principle.
-We provide a generalized value iteration scheme together with a convergence proof.
-As limit cases, this generalized scheme includes standard value iteration with a known model, Bayesian MDP planning, and robust planning.
-We demonstrate the benefits of this approach in a grid world simulation.

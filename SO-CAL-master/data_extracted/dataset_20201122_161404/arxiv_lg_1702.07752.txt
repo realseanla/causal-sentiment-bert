@@ -1,8 +1,0 @@
-For any stream of time-stamped edges that form a dynamic network, an important choice is the aggregation granularity that an analyst uses to bin the data.
-Picking such a windowing of the data is often done by hand, or left up to the technology that is collecting the data.
-However, the choice can make a big difference in the properties of the dynamic network.
-This is the time scale detection problem.
-In previous work, this problem is often solved with a heuristic as an unsupervised task.
-As an unsupervised problem, it is difficult to measure how well a given algorithm performs.
-In addition, we show that the quality of the windowing is dependent on which task an analyst wants to perform on the network after windowing.
-Therefore the time scale detection problem should not be handled independently from the rest of the analysis of the network.

@@ -1,4 +1,0 @@
-In this paper, we motivate the need for a publicly available, generic software framework for question-answering (QA) systems.
-We present an open-source QA framework QANUS which researchers can leverage on to build new QA systems easily and rapidly.
-The framework implements much of the code that will otherwise have been repeated across different QA systems.
-To demonstrate the utility and practicality of the framework, we further present a fully functioning factoid QA system QA-SYS built on top of QANUS.

@@ -1,0 +1,8 @@
+Very deep CNNs with small 3x3 kernels have recently been shown to achieve very strong performance as acoustic models in hybrid NN-HMM speech recognition systems.
+In this paper, we demonstrate that the accuracy gains of these deep CNNs are retained both on larger scale data, and after sequence training.
+We show this by carrying out sequence training on both the 300h switchboard-1 and the 2000h switchboard dataset.
+Furthermore, we investigate how pooling and padding in time influences performance, both in terms of word error rate and computational cost.
+We argue that designing CNNs without timepadding and without timepooling, though slightly suboptimal for accuracy, has two significant consequences.
+Firstly, the proposed design allows for efficient evaluation at sequence training and test (deployment) time.
+Secondly, this design principle allows for batch normalization to be adopted to CNNs on sequence data.
+Our very deep CNN model sequence trained on the 2000h switchboard dataset obtains 9.4 word error rate on the Hub5 test-set, matching with a single model the performance of 2015 IBM system combination, which was the previous best published result.

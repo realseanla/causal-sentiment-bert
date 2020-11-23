@@ -1,0 +1,2 @@
+We introduce an approach to implicit semantic role labeling (iSRL) based on a recurrent neural semantic frame model that learns probability distributions over sequences of explicit semantic frame arguments.
+On the NomBank iSRL test set, the approach results in better state-of-the-art performance with much less reliance on manually constructed language resources.

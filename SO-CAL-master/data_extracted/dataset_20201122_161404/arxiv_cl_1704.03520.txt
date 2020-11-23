@@ -1,8 +1,0 @@
-Process mining analyzes business processes based on events stored in event logs.
-However, some recorded events may correspond to activities on a very low level of abstraction.
-When events are recorded on a too low level of granularity, process discovery methods tend to generate overgeneralizing process models.
-Grouping low-level events to higher level activities, i.e., event abstraction, can be used to discover better process models.
-Existing event abstraction methods are mainly based on common sub-sequences and clustering techniques.
-In this paper, we propose to first discover local process models and then use those models to lift the event log to a higher level of abstraction.
-Our conjecture is that process models discovered on the obtained high-level event log return process models of higher quality: their fitness and precision scores are more balanced.
-We show this with preliminary results on several real-life event logs.

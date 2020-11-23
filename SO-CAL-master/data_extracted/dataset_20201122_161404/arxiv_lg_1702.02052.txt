@@ -1,3 +1,0 @@
-Domain adaptation is crucial in many real-world applications where the distribution of the training data differs from the distribution of the test data.
-Previous Deep Learning-based approaches to domain adaptation need to be trained jointly on source and target domain data and are therefore unappealing in scenarios where models need to be adapted to a large number of domains or where a domain is evolving, e.g.
-spam detection where attackers continuously change their tactics.

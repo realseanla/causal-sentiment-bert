@@ -1,4 +1,0 @@
-Deep CCA is a recently proposed deep neural network extension to the traditional canonical correlation analysis (CCA), and has been successful for multi-view representation learning in several domains.
-However, stochastic optimization of the deep CCA objective is not straightforward, because it does not decouple over training examples.
-Previous optimizers for deep CCA are either batch-based algorithms or stochastic optimization using large minibatches, which can have high memory consumption.
-In this paper, we tackle the problem of stochastic optimization for deep CCA with small minibatches, based on an iterative solution to the CCA objective, and show that we can achieve as good performance as previous optimizers and thus alleviate the memory requirement.

@@ -1,5 +1,0 @@
-Our FRDC_QA team participated in the QA-Lab English subtask of the NTCIR-11.
-In this paper, we describe our system for solving real-world university entrance exam questions, which are related to world history.
-Wikipedia is used as the main external resource for our system.
-Since problems with choosing right/wrong sentence from multiple sentence choices account for about two-thirds of the total, we individually design a classification based model for solving this type of questions.
-For other types of questions, we also design some simple methods.

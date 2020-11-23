@@ -1,4 +1,0 @@
-The competitive MNIST handwritten digit recognition benchmark has a long history of broken records since 1998.
-The most recent substantial improvement by others dates back 7 years (error rate 0.4 percent) .
-Recently we were able to significantly improve this result, using graphics cards to greatly speed up training of simple but deep MLPs, which achieved 0.35 percent, outperforming all the previous more complex methods.
-Here we report another substantial improvement: 0.31 percent obtained using a committee of MLPs.

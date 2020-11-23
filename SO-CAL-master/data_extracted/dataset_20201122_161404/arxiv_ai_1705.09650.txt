@@ -1,4 +1,0 @@
-This paper focuses on detecting anomalies in a digital video broadcasting (DVB) system from providers' perspective.
-We learn a probabilistic deterministic real timed automaton profiling benign behavior of encryption control in the DVB control access system.
-This profile is used as a one-class classifier.
-Anomalous items in a testing sequence are detected when the sequence is not accepted by the learned model.

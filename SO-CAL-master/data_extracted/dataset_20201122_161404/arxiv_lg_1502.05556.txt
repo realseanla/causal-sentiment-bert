@@ -1,6 +1,0 @@
-From sporting events to sociological surveys, ranking from pairwise comparisons is a tool of choice for many applications.
-When certain pairs of items are difficult to compare, outcomes can be noisy, and it is necessary to develop robust strategies.
-In this work, we show how a simple active sampling scheme that uses a standard black box sorting algorithm enables the efficient recovery of the ranking, achieving low error with sparse samples.
-Both in theory and practice, this active strategy performs systematically better than selecting comparisons at random.
-As a detour, we show a link between Rank Centrality, a recently proposed algorithm for rank aggregation, and the ML estimator for the Bradley-Terry model.
-This enables us to develop a new, provably convergent iterative algorithm for computing the ML estimate.

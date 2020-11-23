@@ -1,6 +1,0 @@
-To appear in Theory and Practice of Logic Programming (TPLP).
-In this paper we propose an extension of logic programming (LP) where each default literal derived from the well-founded model is associated to a justification represented as an algebraic expression.
-This expression contains both causal explanations (in the form of proof graphs built with rule labels) and terms under the scope of negation that stand for conditions that enable or disable the application of causal rules.
-Using some examples, we discuss how these new conditions, we respectively call "enablers" and "inhibitors", are intimately related to default negation and have an essentially different nature from regular cause-effect relations.
-The most important result is a formal comparison to the recent algebraic approaches for justifications in LP: "Why-not Provenance" (WnP) and "Causal Graphs" (CG).
-We show that the current approach extends both WnP and CG justifications under the Well-Founded Semantics and, as a byproduct, we also establish a formal relation between these two approaches.

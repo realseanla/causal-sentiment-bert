@@ -1,6 +1,0 @@
-We describe a learning-based approach to hand-eye coordination for robotic grasping from monocular images.
-To learn hand-eye coordination for grasping, we trained a large convolutional neural network to predict the probability that task-space motion of the gripper will result in successful grasps, using only monocular camera images and independently of camera calibration or the current robot pose.
-This requires the network to observe the spatial relationship between the gripper and objects in the scene, thus learning hand-eye coordination.
-We then use this network to servo the gripper in real time to achieve successful grasps.
-To train our network, we collected over 800,000 grasp attempts over the course of two months, using between 6 and 14 robotic manipulators at any given time, with differences in camera placement and hardware.
-Our experimental evaluation demonstrates that our method achieves effective real-time control, can successfully grasp novel objects, and corrects mistakes by continuous servoing.

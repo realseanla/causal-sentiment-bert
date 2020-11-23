@@ -1,6 +1,0 @@
-We propose a novel semi-supervised structured out- put prediction method based on local linear regression in this paper.
-The existing semi-supervise structured output prediction methods learn a global predictor for all the data points in a data set, which ignores the differences of local distributions of the data set, and the effects to the structured output prediction.
-To solve this problem, we propose to learn the missing structured outputs and local predictors for neighborhoods of different data points jointly.
-Using the local linear regression strategy, in the neighborhood of each data point, we propose to learn a local linear predictor by minimizing both the complexity of the predictor and the upper bound of the structured prediction loss.
-The minimization problem is solved by sub-gradient descent algorithms.
-We conduct experiments over two benchmark data sets, and the results show the advantages of the proposed method.

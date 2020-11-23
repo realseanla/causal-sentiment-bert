@@ -1,0 +1,9 @@
+Functional magnetic resonance imaging produces high dimensional data, with a less then ideal number of labelled samples for brain decoding tasks.
+In this study, we propose a deep temporal convolutional neural network architecture for brain decoding task in order to reduce dimensionality of feature space along with improved classification performance.
+Temporal representations (filters) for each layer of the convolutional model are learned by leveraging unlabelled fMRI data in an unsupervised fashion by employing regularized autoencoders.
+Learned temporal representations in multiple levels capture the regularities in the temporal domain and are observed to be a rich bank of activation patterns which also exhibit similarities to the actual hemodynamic responses.
+Further spatial pooling layers in the convolutional architecture reduce the dimensionality without losing excessive information.
+By employing the proposed temporal convolutional architecture, raw input fMRI data is mapped to a non-linear, highly-expressive and low-dimensional feature space where the final classification is conducted.
+In addition, we propose a simple heuristic approach for hyper-parameter tuning when no validation data is available.
+Proposed method is tested on a ten class recognition memory experiment with nine subjects.
+The results support the efficiency and potential of the proposed model, compared to the baseline multi-voxel pattern analysis techniques.

@@ -1,0 +1,6 @@
+This paper presents a RKHS, in general, of vector-valued functions intended to be used as hypothesis space for multi-task classification.
+It extends similar hypothesis spaces that have previously considered in the literature.
+Assuming this space, an improved Empirical Rademacher Complexity-based generalization bound is derived.
+The analysis is itself extended to an MKL setting.
+The connection between the proposed hypothesis space and a Group-Lasso type regularizer is discussed.
+Finally, experimental results, with some SVM-based Multi-Task Learning problems, underline the quality of the derived bounds and validate the paper's analysis.

@@ -1,9 +1,0 @@
-Proliferation of advanced metering devices with high sampling rates in distribution grids, e.g., micro-phasor measurement units ({\mu}PMU), provides unprecedented potentials for wide-area monitoring and diagnostic applications, e.g., situational awareness, health monitoring of distribution assets.
-Unexpected disruptive events interrupting the normal operation of assets in distribution grids can eventually lead to permanent failure with expensive replacement cost over time.
-Therefore, disruptive event classification provides useful information for preventive maintenance of the assets in distribution networks.
-Preventive maintenance provides wide range of benefits in terms of time, avoiding unexpected outages, maintenance crew utilization, and equipment replacement cost.
-In this paper, a PMU-data-driven framework is proposed for classification of disruptive events in distribution networks.
-The two disruptive events, i.e., malfunctioned capacitor bank switching and malfunctioned regulator on-load tap changer (OLTC) switching are considered and distinguished from the normal abrupt load change in distribution grids.
-The performance of the proposed framework is verified using the simulation of the events in the IEEE 13-bus distribution network.
-The event classification is formulated using two different algorithms as; i) principle component analysis (PCA) together with multi-class support vector machine (SVM), and ii) autoencoder along with softmax classifier.
-The results demonstrate the effectiveness of the proposed algorithms and satisfactory classification accuracies.

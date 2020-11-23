@@ -1,0 +1,7 @@
+Feature selection is a problem of finding efficient features among all features in which the final feature set can improve accuracy and reduce complexity.
+In feature selection algorithms search strategies are key aspects.
+Since feature selection is an NP-Hard problem; therefore heuristic algorithms have been studied to solve this problem.
+In this paper, we have proposed a method based on memetic algorithm to find an efficient feature subset for a classification problem.
+It incorporates a filter method in the genetic algorithm to improve classification performance and accelerates the search in identifying core feature subsets.
+Particularly, the method adds or deletes a feature from a candidate feature subset based on the multivariate feature information.
+Empirical study on commonly data sets of the university of California, Irvine shows that the proposed method outperforms existing methods.

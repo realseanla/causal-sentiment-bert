@@ -1,0 +1,5 @@
+Several well-studied models of access to data samples, including statistical queries, local differential privacy and low-communication algorithms rely on queries that provide information about a function of a single sample.
+(For example, a statistical query (SQ) gives an estimate of $Ex_{x \sim D}[q(x)]$ for any choice of the query function $q$ mapping $X$ to the reals, where $D$ is an unknown data distribution over $X$.)
+Yet some data analysis algorithms rely on properties of functions that depend on multiple samples.
+Such algorithms would be naturally implemented using $k$-wise queries each of which is specified by a function $q$ mapping $X^k$ to the reals.
+Hence it is natural to ask whether algorithms using $k$-wise queries can solve learning problems more efficiently and by how much.

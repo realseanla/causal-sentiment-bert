@@ -1,6 +1,0 @@
-We consider semi-supervised learning from multiple outlooks of the same learning task, that is, learning from different representations of the same type of data.
-As opposed to learning from multiple views where it is assumed that the exact same instances have multiple representations, we only assume the availability of samples of the same learning task in different domains.
-We develop an algorithmic framework that is based on mapping the (unlabeled) data followed by adjusting the mapping using the scarcer labeled data.
-The mapped data from all the outlooks can then be used for a generic classification algorithm.
-We further provide sample complexity results under the assumption that the different outlooks are inherently low dimension Gaussian mixtures.
-Experiments with real-world data indicate the performance boost from using multiple outlooks.

@@ -1,5 +1,0 @@
-This paper describes a Naive-Bayesian predictive model for 2016 U.S. Presidential Election based on Twitter data.
-We use 33,708 tweets gathered since December 16, 2015 until February 29, 2016.
-We introduce a simpler data preprocessing method to label the data and train the model.
-The model achieves 95.8 percent accuracy on 10-fold cross validation and predicts Ted Cruz and Bernie Sanders as Republican and Democratic nominee respectively.
-It achieves a comparable result to those in its competitor methods.

@@ -1,9 +1,0 @@
-One of the common artificial intelligence applications in electronic games consists of making an artificial agent learn how to execute some determined task successfully in a game environment.
-One way to perform this task is through machine learning algorithms capable of learning the sequence of actions required to win in a given game environment.
-There are several supervised learning techniques able to learn the correct answer for a problem through examples.
-However, when learning how to play electronic games, the correct answer might only be known by the end of the game, after all the actions were already taken.
-Thus, not being possible to measure the accuracy of each individual action to be taken at each time step.
-A way for dealing with this problem is through Neuroevolution, a method which trains Artificial Neural Networks using evolutionary algorithms.
-In this article, we introduce a framework for testing optimization algorithms with artificial agent controllers in electronic games, called EvoMan, which is inspired in the action-platformer game Mega Man II.
-The environment can be configured to run in different experiment modes, as single evolution, coevolution and others.
-To demonstrate some challenges regarding the proposed platform, as initial experiments we applied Neuroevolution using Genetic Algorithms and the NEAT algorithm, in the context of competitively coevolving two distinct agents in this game.

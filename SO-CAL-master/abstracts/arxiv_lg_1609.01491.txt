@@ -1,0 +1,5 @@
+Cyber-physical systems (CPS), which integrate algorithmic control with physical processes, often consist of physically distributed components communicating over a network.
+A malfunctioning or compromised component in such a CPS can lead to costly consequences, especially in the context of public infrastructure.
+In this short paper, we argue for the importance of constructing invariants (or models) of the physical behaviour exhibited by CPS, motivated by their applications to the control, monitoring, and attestation of components.
+To achieve this despite the inherent complexity of CPS, we propose a new technique for learning invariants that combines machine learning with ideas from mutation testing.
+We present a preliminary study on a water treatment system that suggests the efficacy of this approach, propose strategies for establishing confidence in the correctness of invariants, then summarise some research questions and the steps we are taking to investigate them.

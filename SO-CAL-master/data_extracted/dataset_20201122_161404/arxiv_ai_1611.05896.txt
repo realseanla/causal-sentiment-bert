@@ -1,6 +1,0 @@
-In this work, we explore a genre of puzzles ("image riddles") which involves a set of images and a question.
-Answering these puzzles require both capabilities involving visual detection (including object, activity recognition) and, knowledge-based or commonsense reasoning.
-We compile a dataset of over 3k riddles where each riddle consists of 4 images and a groundtruth answer.
-The annotations are validated using crowd-sourced evaluation.
-We also define an automatic evaluation metric to track future progress.
-Our task bears similarity with the commonly known IQ tasks such as analogy solving, sequence filling that are often used to test intelligence.

@@ -1,4 +1,0 @@
-We propose a neural network framework for high-dimensional conditional density estimation.
-The Bottleneck Conditional Density Estimator (BCDE) is a variant of the conditional variational autoencoder (CVAE) that employs layer(s) of stochastic variables as the bottleneck between the input x and target y, where both are high-dimensional.
-The key to effectively train BCDEs is the hybrid blending of the conditional generative model with a joint generative model that leverages unlabeled data to regularize the conditional model.
-We show that the BCDE significantly outperforms the CVAE in MNIST quadrant prediction benchmarks in the fully supervised case and establishes new benchmarks in the semi-supervised case.

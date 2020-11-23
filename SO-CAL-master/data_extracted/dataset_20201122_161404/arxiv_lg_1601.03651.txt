@@ -1,7 +1,0 @@
-Nowadays, neural networks play an important role in the task of relation classification.
-By designing different neural architectures, researchers have improved the performance to a large extent, compared with traditional methods.
-However, existing neural networks for relation classification are usually of shallow architectures (e.g., one-layer convolution neural networks or recurrent networks).
-They may fail to explore the potential representation space in different abstraction levels.
-In this paper, we propose deep recurrent neural networks (DRNNs) to tackle this challenge.
-Further, we propose a data augmentation method by leveraging the directionality of relations.
-We evaluate our DRNNs on the SemEval-2010 Task 8, and achieve an $F_1$-score of 85.81 percent, outperforming state-of-the-art recorded results.

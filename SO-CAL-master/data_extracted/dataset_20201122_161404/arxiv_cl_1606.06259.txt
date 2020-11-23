@@ -1,7 +1,0 @@
-People are sharing their opinions, stories and reviews through online video sharing websites every day.
-Studying sentiment and subjectivity in these opinion videos is experiencing a growing attention from academia and industry.
-While sentiment analysis has been successful for text, it is an understudied research question for videos and multimedia content.
-The biggest setbacks for studies in this direction are lack of a proper dataset, methodology, baselines and statistical analysis of how information from different modality sources relate to each other.
-This paper introduces to the scientific community the first opinion-level annotated corpus of sentiment and subjectivity analysis in online videos called Multimodal Opinion-level Sentiment Intensity dataset (MOSI).
-The dataset is rigorously annotated with labels for subjectivity, sentiment intensity, per-frame and per-opinion annotated visual features, and per-milliseconds annotated audio features.
-Furthermore, we present baselines for future studies in this direction as well as a new multimodal fusion approach that jointly models spoken words and visual gestures.

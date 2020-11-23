@@ -1,0 +1,8 @@
+Tensor methods are gaining increasing traction in machine learning.
+However, there are scant to no resources available to perform tensor learning and decomposition in Python.
+To answer this need we developed TensorLy.
+TensorLy is a state of the art general purpose library for tensor learning.
+Written in Python, it aims at following the same standards adopted by the main projects of the Python scientific community and fully integrating with these.
+It allows for fast and straightforward tensor decomposition and learning and comes with exhaustive tests, thorough documentation and minimal dependencies.
+It can be easily extended and its BSD licence makes it suitable for both academic and commercial applications.
+TensorLy is available at

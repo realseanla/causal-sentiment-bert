@@ -1,0 +1,3 @@
+With the range and sensitivity of algorithmic decisions expanding at a break-neck speed, it is imperative that we aggressively investigate whether programs are biased.
+We propose a novel probabilistic program analysis technique and apply it to quantifying bias in decision-making programs.
+Specifically, we (i) present a sound and complete automated verification technique for proving quantitative properties of probabilistic programs; (ii) show that certain notions of bias, recently proposed in the fairness literature, can be phrased as quantitative correctness properties; and (iii) present FairSquare, the first verification tool for quantifying program bias, and evaluate it on a range of decision-making programs.

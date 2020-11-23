@@ -1,0 +1,4 @@
+We introduce KERT (Keyphrase Extraction and Ranking by Topic), a framework for topical keyphrase generation and ranking.
+By shifting from the unigram-centric traditional methods of unsupervised keyphrase extraction to a phrase-centric approach, we are able to directly compare and rank phrases of different lengths.
+We construct a topical keyphrase ranking function which implements the four criteria that represent high quality topical keyphrases (coverage, purity, phraseness, and completeness).
+The effectiveness of our approach is demonstrated on two collections of content-representative titles in the domains of Computer Science and Physics.

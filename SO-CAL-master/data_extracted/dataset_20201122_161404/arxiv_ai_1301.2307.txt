@@ -1,6 +1,0 @@
-We investigate a model for planning under uncertainty with temporallyextended actions, where multiple actions can be taken concurrently at each decision epoch.
-Our model is based on the options framework, and combines it with factored state space models,where the set of options can be partitioned into classes that affectdisjoint state variables.
-We show that the set of decisionepochs for concurrent options defines a semi-Markov decisionprocess, if the underlying temporally extended actions being parallelized arerestricted to Markov options.
-This property allows us to use SMDPalgorithms for computing the value function over concurrentoptions.
-The concurrent options model allows overlapping execution ofoptions in order to achieve higher performance or in order to performa complex task.
-We describe a simple experiment using a navigationtask which illustrates how concurrent options results in a faster planwhen compared to the case when only one option is taken at a time.

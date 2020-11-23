@@ -1,6 +1,0 @@
-Recent work has demonstrated that state-of-the-art word embedding models require different context types to produce high-quality representations for different word classes such as adjectives (A), verbs (V), and nouns (N).
-This paper is concerned with identifying contexts useful for learning A/V/N-specific representations.
-We introduce a simple yet effective framework for selecting class-specific context configurations that yield improved representations for each class.
-We propose an automatic A* style selection algorithm that effectively searches only a fraction of the large configuration space.
-The results on predicting similarity scores for the A, V, and N subsets of the benchmarking SimLex-999 evaluation set indicate that our method is useful for each class: the improvements are 6 percent (A), 6 percent (V), and 5 percent (N) over the best previously proposed context type for each class.
-At the same time, the model trains on only 14 percent (A), 26.2 percent (V), and 33.6 percent (N) of all dependency-based contexts, resulting in much shorter training time.

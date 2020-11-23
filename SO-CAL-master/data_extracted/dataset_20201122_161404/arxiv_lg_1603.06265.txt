@@ -1,5 +1,0 @@
-We consider a collaborative variant of prediction with expert advice.
-In each round, one user wishes to make a prediction, and must choose which expert to follow.
-The users would like to share their experiences in order to learn faster--ideally they could amortize the same total regret cross the whole community of users.
-However, some of the users may behave maliciously, distorting their reported payoffs in order to manipulate the honest users of the system.
-And even if all users behave honestly, different experts may perform better for different users, such that sharing data can be counterproductive.

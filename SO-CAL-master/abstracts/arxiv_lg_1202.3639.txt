@@ -1,0 +1,9 @@
+We study the problem of learning the most biased coin among a set of coins by tossing the coins adaptively.
+The goal is to minimize the number of tosses to identify a coin i* such that prob{coin i* is most biased} is at least 1-\delta\ for any given \delta&gt;0.
+Under a particular probabilistic model, we give an optimal algorithm, i.e., an algorithm that minimizes the expected number of tosses, to learn a most biased coin.
+The problem is equivalent to finding the best arm in the multi-armed bandit problem using adaptive strategies.
+Dar et al.
+(2002) and Mannor and Tsitsiklis (2004) show upper and lower bounds matching up to constant factors on the number of coin tosses for several underlying settings of the bias probabilities.
+For a class of such settings we bridge the constant factor gap by giving an optimal adaptive strategy -- a strategy that performs the best possible action under any given history of outcomes.
+For any given history, tossing the coin chosen by our strategy minimizes the expected number of tosses needed to learn a most biased coin.
+To our knowledge, this is the first algorithm that employs an optimal adaptive strategy under a Bayesian setting for this problem.

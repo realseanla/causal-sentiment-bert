@@ -1,0 +1,3 @@
+Most of the existing classification methods are aimed at minimization of empirical risk (through some simple point-based error measured with loss function) with added regularization.
+We propose to approach this problem in a more information theoretic way by investigating applicability of entropy measures as a classification model objective function.
+We focus on quadratic Renyi's entropy and connected Cauchy-Schwarz Divergence which leads to the construction of Extreme Entropy Machines (EEM).

@@ -1,4 +1,0 @@
-Simulation schemes for probabilistic inference in Bayesian belief networks offer many advantages over exact algorithms; for example, these schemes have a linear and thus predictable runtime while exact algorithms have exponential runtime.
-Experiments have shown that likelihood weighting is one of the most promising simulation schemes.
-In this paper, we present a new simulation scheme that generates samples more evenly spread in the sample space than the likelihood weighting scheme.
-We show both theoretically and experimentally that the stratified scheme outperforms likelihood weighting in average runtime and error in estimates of beliefs.

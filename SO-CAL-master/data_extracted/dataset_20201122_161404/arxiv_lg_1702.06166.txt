@@ -1,6 +1,0 @@
-Boolean matrix factorisation (BooMF) infers interpretable decompositions of a binary data matrix into a pair of low-rank, binary matrices: One containing meaningful patterns, the other quantifying how the observations can be expressed as a combination of these patterns.
-We introduce the OrMachine, a probabilistic generative model for BooMF and derive a Metropolised Gibbs sampler that facilitates very efficient parallel posterior inference.
-Our method outperforms all currently existing approaches for Boolean Matrix factorization and completion, as we show on simulated and real world data.
-This is the first method to provide full posterior inference for BooMF which is relevant in applications, e.g.
-for controlling false positive rates in collaborative filtering, and crucially it improves the interpretability of the inferred patterns.
-The proposed algorithm scales to large datasets as we demonstrate by analysing single cell gene expression data in 1.3 million mouse brain cells across 11,000 genes on commodity hardware.

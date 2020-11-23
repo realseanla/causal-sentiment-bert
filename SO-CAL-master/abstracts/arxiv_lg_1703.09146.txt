@@ -1,0 +1,6 @@
+GPU activity prediction is an important and complex problem.
+This is due to the high level of contention among thousands of parallel threads.
+This problem was mostly addressed using heuristics.
+We propose a representation learning approach to address this problem.
+We model any performance metric as a temporal function of the executed instructions with the intuition that the flow of instructions can be identified as distinct activities of the code.
+Our experiments show high accuracy and non-trivial predictive power of representation learning on a benchmark.

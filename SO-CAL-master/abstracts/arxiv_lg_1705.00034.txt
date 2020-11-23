@@ -1,0 +1,6 @@
+Non-cosmic, non-Gaussian disturbances known as "glitches", show up in gravitational-wave data of the Advanced Laser Interferometer Gravitational-wave Observatory, or aLIGO.
+In this paper, we propose a deep multi-view convolutional neural network to classify glitches automatically.
+The primary purpose of classifying glitches is to understand their characteristics and origin, which facilitates their removal from the data or from the detector entirely.
+We visualize glitches as spectrograms and leverage the state-of-the-art image classification techniques in our model.
+The suggested classifier is a multi-view deep neural network that exploits four different views for classification.
+The experimental results demonstrate that the proposed model improves the overall accuracy of the classification compared to traditional single view algorithms.

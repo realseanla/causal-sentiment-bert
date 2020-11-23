@@ -1,6 +1,0 @@
-Features based on sparse representation, especially using synthesis dictionary model, have been heavily exploited in signal processing and computer vision.
-However, synthesis dictionary learning involves NP-hard sparse coding and expensive learning steps.
-Recently, sparsifying transform learning received interest for its cheap computation and closed-form solution.
-In this work, we develop a methodology for learning of Flipping and Rotation Invariant Sparsifying Transform, dubbed FRIST, to better represent natural images that contain textures with various geometrical directions.
-The proposed alternating learning algorithm involves simple closed-form solutions.
-Preliminary experiments show the usefulness of adaptive sparse representation by FRIST for image compression, denoising and inpainting with promising performances.

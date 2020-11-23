@@ -1,6 +1,0 @@
-Statistical language models are central to many applications that use semantics.
-Recurrent Neural Networks (RNN) are known to produce state of the art results for language modelling, outperforming their traditional n-gram counterparts in many cases.
-To generate a probability distribution across a vocabulary, these models require a softmax output layer that linearly increases in size with the size of the vocabulary.
-Large vocabularies need a commensurately large softmax layer and training them on typical laptops/PCs requires significant time and machine resources.
-In this paper we present a new technique for implementing RNN based large vocabulary language models that substantially speeds up computation while optimally using the limited memory resources.
-Our technique, while building on the notion of factorizing the output layer by having multiple output layers, improves on the earlier work by substantially optimizing on the individual output layer size and also eliminating the need for a multistep prediction process.

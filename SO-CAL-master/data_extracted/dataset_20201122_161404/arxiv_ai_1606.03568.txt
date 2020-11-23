@@ -1,4 +1,0 @@
-In this paper we present a model that leverages a bidirectional long short-term memory network to learn word sense disambiguation directly from data.
-The approach is end-to-end trainable and makes effective use of word order.
-Further, to improve the robustness of the model we introduce dropword, a regularization technique that randomly removes words from the text.
-The model is evaluated on two standard datasets and achieves state-of-the-art results on both datasets, using identical hyperparameter settings.

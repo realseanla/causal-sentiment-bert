@@ -1,4 +1,0 @@
-We consider two active binary-classification problems with atypical objectives.
-In the first, active search, our goal is to actively uncover as many members of a given class as possible.
-In the second, active surveying, our goal is to actively query points to ultimately predict the proportion of a given class.
-Numerous real-world problems can be framed in these terms, and in either case typical model-based concerns such as generalization error are only of secondary importance.

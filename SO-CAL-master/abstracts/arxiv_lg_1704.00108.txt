@@ -1,0 +1,8 @@
+Motivated by e-commerce, we study the online assortment optimization problem.
+The seller offers an assortment, i.e.
+a subset of products, to each arriving customer, who then purchases one or no product from her offered assortment.
+A customer's purchase decision is governed by the underlying MultiNomial Logit (MNL) choice model.
+The seller aims to maximize the total revenue in a finite sales horizon, subject to resource constraints and uncertainty in the MNL choice model.
+We first propose an efficient online policy which incurs a regret $\tilde{O}(T^{2/3})$, where $T$ is the number of customers in the sales horizon.
+Then, we propose a UCB policy that achieves a regret $\tilde{O}(T^{1/2})$.
+Both regret bounds are sublinear in the number of assortments.

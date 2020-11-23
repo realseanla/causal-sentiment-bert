@@ -1,0 +1,6 @@
+In this paper, we describe a dataset relating to cellular and physical conditions of patients who are operated upon to remove colorectal tumours.
+This data provides a unique insight into immunological status at the point of tumour removal, tumour classification and post-operative survival.
+We build on existing research on clustering and machine learning facets of this data to demonstrate a role for an ensemble approach to highlighting patients with clearer prognosis parameters.
+Results for survival prediction using 3 different approaches are shown for a subset of the data which is most difficult to model.
+The performance of each model individually is compared with subsets of the data where some agreement is reached for multiple models.
+Significant improvements in model accuracy on an unseen test set can be achieved for patients where agreement between models is achieved.

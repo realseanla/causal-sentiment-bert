@@ -1,6 +1,0 @@
-In many online learning scenarios the loss functions are not memoryless, but rather depend on history.
-Our first contribution is a complete characterization of sufficient and necessary conditions for learning with memory, accompanied with a novel algorithm for this framework that attains the optimal O(\sqrt{T})-regret.
-This improves previous online learning algorithms that guaranteed O(T^{2/3}) regret and required more stringent conditions.
-As an application of the new technique, we address the classical problem in finance of constructing mean reverting portfolios.
-We design an efficient online learning algorithm for this problem, and provide guarantees for its performance.
-We complement our theoretical findings with an empirical study that verifies our theoretical results on financial data.

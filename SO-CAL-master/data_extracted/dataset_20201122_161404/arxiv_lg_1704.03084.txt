@@ -1,6 +1,0 @@
-In a composite-domain task-completion dialogue system, a conversation agent often switches among multiple sub-domains before it successfully completes the task.
-Given such a scenario, a standard deep reinforcement learning based dialogue agent may suffer to find a good policy due to the issues such as: increased state and action spaces, high sample complexity demands, sparse reward and long horizon, etc.
-In this paper, we propose to use hierarchical deep reinforcement learning approach which can operate at different temporal scales and is intrinsically motivated to attack these problems.
-Our hierarchical network consists of two levels: the top-level meta-controller for subgoal selection and the low-level controller for dialogue policy learning.
-Subgoals selected by meta-controller and intrinsic rewards can guide the controller to effectively explore in the state-action space and mitigate the spare reward and long horizon problems.
-Experiments on both simulations and human evaluation show that our model significantly outperforms flat deep reinforcement learning agents in terms of success rate, rewards and user rating.

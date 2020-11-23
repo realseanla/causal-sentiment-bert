@@ -1,7 +1,0 @@
-Graph-based semi-supervised learning has proven to be an effective approach for query-focused multi-document summarization.
-The problem of previous semi-supervised learning is that sentences are ranked without considering the higher level information beyond sentence level.
-Researches on general summarization illustrated that the addition of topic level can effectively improve the summary quality.
-Inspired by previous researches, we propose a two-layer (i.e.
-sentence layer and topic layer) graph-based semi-supervised learning approach.
-At the same time, we propose a novel topic model which makes full use of the dependence between sentences and words.
-Experimental results on DUC and TAC data sets demonstrate the effectiveness of our proposed approach.

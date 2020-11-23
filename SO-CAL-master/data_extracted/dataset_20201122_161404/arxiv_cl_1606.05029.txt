@@ -1,4 +1,0 @@
-First-order factoid question answering assumes that the question can be answered by a single fact in a knowledge base (KB).
-While this does not seem like a challenging task, many recent attempts that apply either complex linguistic reasoning or deep neural networks achieve 35 percent-65 percent on benchmark sets.
-Our approach formulates the task as two machine learning problems: detecting the entities in the question, and classifying the question as one of the relation types in the KB.
-Based on this assumption of the structure, our simple yet effective approach trains two recurrent neural networks to outperform state of the art by significant margins --- relative improvement reaches 16 percent for WebQuestions, and surpasses 38 percent for SimpleQuestions.

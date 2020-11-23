@@ -1,8 +1,0 @@
-kLog is a logical and relational language for kernel-based learning.
-It allows users to specify logical and relational learning problems at a high level in a declarative way.
-It builds on simple but powerful concepts: learning from interpretations, entity/relationship data modeling, logic programming and deductive databases (Prolog and Datalog), and graph kernels.
-kLog is a statistical relational learning system but unlike other statistical relational learning models, it does not represent a probability distribution directly.
-It is rather a kernel-based approach to learning that employs features derived from a grounded entity/relationship diagram.
-These features are derived using a novel technique called graphicalization: first, relational representations are transformed into graph based representations; subsequently, graph kernels are employed for defining feature spaces.
-kLog can use numerical and symbolic data, background knowledge in the form of Prolog or Datalog programs (as in inductive logic programming systems) and several statistical procedures can be used to fit the model parameters.
-The kLog framework can -- in principle -- be applied to tackle the same range of tasks that has made statistical relational learning so popular, including classification, regression, multitask learning, and collective classification.

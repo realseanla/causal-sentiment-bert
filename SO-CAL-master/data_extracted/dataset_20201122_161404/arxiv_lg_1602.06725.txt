@@ -1,5 +1,0 @@
-Recent progress in deep latent variable models has largely been driven by the development of flexible and scalable variational inference methods.
-Variational training of this type involves maximizing a lower bound on the log-likelihood, using samples from the variational posterior to compute the required gradients.
-Recently, Burda et al.
-(2015) have derived a tighter lower bound using a multi-sample importance sampling estimate of the likelihood and showed that optimizing it yields models that use more of their capacity and achieve higher likelihoods.
-This development showed the importance of such multi-sample objectives and explained the success of several related approaches.

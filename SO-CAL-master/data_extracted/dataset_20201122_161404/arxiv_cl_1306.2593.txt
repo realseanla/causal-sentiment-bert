@@ -1,6 +1,0 @@
-We formulate a phonetic-prosodic space based on attributes as perceptual observables, rather than articulatory specifications.
-We propose an alphabet as markers in the phonetic subspace, aiming for a resolution sufficient to support recognition of all spoken languages.
-The prosodic subspace is made up of directly measurable physical variables.
-With the proposed alphabet, traditional diphthongs naturally generalize to a broader class of language-neutral phonotactic constraints, indicating a correlation structure similar to that of the traditional sonority-based syllable.
-We define a stochastic structure on the phone strings based on this diphthongal constraint, and show how a specific spoken language can be defined as a specific set of probability distributions of this stochastic structure.
-Furthermore, phonological variations within a spoken language can be modeled as varying probability distributions restricted to the phonetic subspace, conditioned on different values in the prosodic subspace.

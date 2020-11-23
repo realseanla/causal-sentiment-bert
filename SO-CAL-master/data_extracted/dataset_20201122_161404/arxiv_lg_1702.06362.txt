@@ -1,7 +1,0 @@
-Identifying significant location categories visited by mobile phone users is the key to a variety of applications.
-This is an extremely challenging task due to the possible deviation between the estimated location coordinate and the actual location, which could be on the order of kilometers.
-Using the collected location coordinate as the center and its associated location error as the radius, we can draw a location uncertainty circle that may cover multiple location categories, especially in densely populated areas.
-To estimate the actual location category more precisely, we propose a novel tensor factorization framework, through several key observations including the intrinsic correlations between users, to infer the most likely location categories within the location uncertainty circle.
-In addition, the proposed algorithm can also predict where users are even when there is no location update.
-In order to efficiently solve the proposed framework, we propose a parameter-free and scalable optimization algorithm by effectively exploring the sparse and low-rank structure of the tensor.
-Our empirical studies show that the proposed algorithm is both efficient and effective: it can solve problems with millions of users and billions of location updates, and also provides superior prediction accuracies on real-world location updates and check-in data sets.

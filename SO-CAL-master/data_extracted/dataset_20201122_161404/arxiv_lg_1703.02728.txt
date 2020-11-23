@@ -1,4 +1,0 @@
-We consider the statistical problem of recovering a hidden "ground truth" binary labeling for the vertices of a graph G up to low Hamming error from noisy edge and vertex measurements.
-We present new algorithms and a sharp finite-sample analysis for this problem on trees and sparse graphs with poor expansion properties such as hypergrids and ring lattices.
-Our method generalizes and improves over Globerson et al.
-(2015), who introduced the problem for two-dimensional grid lattices.

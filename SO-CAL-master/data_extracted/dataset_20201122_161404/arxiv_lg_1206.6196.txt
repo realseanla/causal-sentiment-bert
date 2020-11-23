@@ -1,5 +1,0 @@
-This paper proposes a framework dedicated to the construction of what we call discrete elastic inner product allowing one to embed sets of non-uniformly sampled multivariate time series or sequences of varying lengths into inner product space structures.
-This framework is based on a recursive definition that covers the case of multiple embedded time elastic dimensions.
-We prove that such inner products exist in our general framework and show how a simple instance of this inner product class operates on some prospective applications, while generalizing the Euclidean inner product.
-Classification experimentations on time series and symbolic sequences datasets demonstrate the benefits that we can expect by embedding time series or sequences into elastic inner spaces rather than into classical Euclidean spaces.
-These experiments show good accuracy when compared to the euclidean distance or even dynamic programming algorithms while maintaining a linear algorithmic complexity at exploitation stage, although a quadratic indexing phase beforehand is required.

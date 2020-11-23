@@ -1,4 +1,0 @@
-Penalty logic, introduced by Pinkas, associates to each formula of a knowledge base the price to pay if this formula is violated.
-Penalties may be used as a criterion for selecting preferred consistent subsets in an inconsistent knowledge base, thus inducing a non-monotonic inference relation.
-A precise formalization and the main properties of penalty logic and of its associated non-monotonic inference relation are given in the first part.
-We also show that penalty logic and Dempster-Shafer theory are related, especially in the infinitesimal case.

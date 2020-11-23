@@ -1,3 +1,0 @@
-We consider elections where the voters come one at a time, in a streaming fashion, and devise space-efficient algorithms which identify an approximate winning committee with respect to common multiwinner proportional representation voting rules; specifically, we consider the Approval-based and the Borda-based variants of both the Chamberlin-- ourant rule and the Monroe rule.
-We complement our algorithms with lower bounds.
-Somewhat surprisingly, our results imply that, using space which does not depend on the number of voters it is possible to efficiently identify an approximate representative committee of fixed size over vote streams with huge number of voters.

@@ -1,0 +1,6 @@
+Symmetry is the essential element of lifted inference that has recently demon- strated the possibility to perform very efficient inference in highly-connected, but symmetric probabilistic models models.
+This raises the question, whether this holds for optimisation problems in general.
+Here we show that for a large class of optimisation methods this is actually the case.
+More precisely, we introduce the concept of fractional symmetries of convex quadratic programs (QPs), which lie at the heart of many machine learning approaches, and exploit it to lift, i.e., to compress QPs.
+These lifted QPs can then be tackled with the usual optimization toolbox (off-the-shelf solvers, cutting plane algorithms, stochastic gradients etc.).
+If the original QP exhibits symmetry, then the lifted one will generally be more compact, and hence their optimization is likely to be more efficient.

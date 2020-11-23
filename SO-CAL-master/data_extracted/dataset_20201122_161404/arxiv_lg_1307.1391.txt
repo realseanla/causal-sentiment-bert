@@ -1,9 +1,0 @@
-Theoretical analyses of the Dendritic Cell Algorithm (DCA) have yielded several criticisms about its underlying structure and operation.
-As a result, several alterations and fixes have been suggested in the literature to correct for these findings.
-A contribution of this work is to investigate the effects of replacing the classification stage of the DCA (which is known to be flawed) with a traditional machine learning technique.
-This work goes on to question the merits of those unique properties of the DCA that are yet to be thoroughly analysed.
-If none of these properties can be found to have a benefit over traditional approaches, then "fixing" the DCA is arguably less efficient than simply creating a new algorithm.
-This work examines the dynamic filtering property of the DCA and questions the utility of this unique feature for the anomaly detection problem.
-It is found that this feature, while advantageous for noisy, time-ordered classification, is not as useful as a traditional static filter for processing a synthetic dataset.
-It is concluded that there are still unique features of the DCA left to investigate.
-Areas that may be of benefit to the Artificial Immune Systems community are suggested.

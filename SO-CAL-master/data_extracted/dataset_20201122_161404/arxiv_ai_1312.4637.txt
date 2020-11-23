@@ -1,4 +1,0 @@
-LP relaxation-based message passing algorithms provide an effective tool for MAP inference over Probabilistic Graphical Models.
-However, different LP relaxations often have different objective functions and variables of differing dimensions, which presents a barrier to effective comparison and analysis.
-In addition, the computational complexity of LP relaxation-based methods grows quickly with the number of constraints.
-Reducing the number of constraints without sacrificing the quality of the solutions is thus desirable.

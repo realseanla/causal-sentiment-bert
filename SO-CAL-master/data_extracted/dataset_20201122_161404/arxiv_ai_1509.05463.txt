@@ -1,6 +1,0 @@
-Learning from synthetic data has many important and practical applications.
-An example of application is photo-sketch recognition.
-Using synthetic data is challenging due to the differences in feature distributions between synthetic and real data, a phenomenon we term synthetic gap.
-In this paper, we investigate and formalize a general framework-Stacked Multichannel Autoencoder (SMCAE) that enables bridging the synthetic gap and learning from synthetic data more efficiently.
-In particular, we show that our SMCAE can not only transform and use synthetic data on the challenging face-sketch recognition task, but that it can also help simulate real images, which can be used for training classifiers for recognition.
-Preliminary experiments validate the effectiveness of the framework.

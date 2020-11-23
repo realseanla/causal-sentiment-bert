@@ -1,6 +1,0 @@
-Multimodal registration is a challenging problem in medical imaging due the high variability of tissue appearance under different imaging modalities.
-The crucial component here is the choice of the right similarity measure.
-We make a step towards a general learning-based solution that can be adapted to specific situations and present a metric based on a convolutional neural network.
-Our network can be trained from scratch even from a few aligned image pairs.
-The metric is validated on intersubject deformable registration on a dataset different from the one used for training, demonstrating good generalization.
-In this task, we outperform mutual information by a significant margin.

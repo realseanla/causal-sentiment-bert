@@ -1,0 +1,3 @@
+We present in this article the model Function-described graph (FDG), which is a type of compact representation of a set of attributed graphs (AGs) that borrow from Random Graphs the capability of probabilistic modelling of structural and attribute information.
+We define the FDGs, their features and two distance measures between AGs (unclassified patterns) and FDGs (models or classes) and we also explain an efficient matching algorithm.
+Two applications of FDGs are presented: in the former, FDGs are used for modelling and matching 3D-objects described by multiple views, whereas in the latter, they are used for representing and recognising human faces, described also by several views.

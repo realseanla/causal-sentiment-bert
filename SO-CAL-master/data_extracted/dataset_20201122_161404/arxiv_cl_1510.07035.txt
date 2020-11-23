@@ -1,4 +1,0 @@
-In this project we outline Vedalia, a high performance distributed network for performing inference on latent variable models in the context of Amazon review visualization.
-We introduce a new model, RLDA, which extends Latent Dirichlet Allocation (LDA) [Blei et al., 2003] for the review space by incorporating auxiliary data available in online reviews to improve modeling while simultaneously remaining compatible with pre-existing fast sampling techniques such as [Yao et al., 2009; Li et al., 2014a] to achieve high performance.
-The network is designed such that computation is efficiently offloaded to the client devices using the Chital system [Robinson &amp; Li, 2015], improving response times and reducing server costs.
-The resulting system is able to rapidly compute a large number of specialized latent variable models while requiring minimal server resources.

@@ -1,0 +1,3 @@
+In this paper, we develop a qualitative theory of influence diagrams that can be used to model and solve sequential decision making tasks when only qualitative (or imprecise) information is available.
+Our approach is based on an order-of-magnitude approximation of both probabilities and utilities and allows for specifying partially ordered preferences via sets of utility values.
+We also propose a dedicated variable elimination algorithm that can be applied for solving order-of-magnitude influence diagrams.

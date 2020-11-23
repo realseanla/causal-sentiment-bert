@@ -1,0 +1,2 @@
+We show how to efficiently project a vector onto the top principal components of a matrix, without explicitly computing these components.
+Specifically, we introduce an iterative algorithm that provably computes the projection using few calls to any black-box routine for ridge regression.

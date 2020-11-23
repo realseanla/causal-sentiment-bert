@@ -1,5 +1,0 @@
-Information Retrieval (IR) is concerned with the identification of documents in a collection that are relevant to a given information need, usually represented as a query containing terms or keywords, which are supposed to be a good description of what the user is looking for.
-IR systems may improve their effectiveness (i.e., increasing the number of relevant documents retrieved) by using a process of query expansion, which automatically adds new terms to the original query posed by an user.
-In this paper we develop a method of query expansion based on Bayesian networks.
-Using a learning algorithm, we construct a Bayesian network that represents some of the relationships among the terms appearing in a given document collection; this network is then used as a thesaurus (specific for that collection).
-We also report the results obtained by our method on three standard test collections.

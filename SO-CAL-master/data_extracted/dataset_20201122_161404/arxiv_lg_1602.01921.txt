@@ -1,7 +1,0 @@
-The current paper proposes a novel dynamic neural network model, multiple spatio-temporal scales recurrent neural network (MSTRNN) used for categorization of complex human action pattern in video image.
-The MSTRNN has been developed by newly introducing recurrent connectivity to a prior-proposed model, multiple spatio-temporal scales neural network (MSTNN) [1] such that the model can learn to extract latent spatio-temporal structures more effectively by developing adequate recurrent contextual dynamics.
-The MSTRNN was evaluated by conducting a set of simulation experiments on learning to categorize human action visual patterns.
-The first experiment on categorizing a set of long-concatenated human movement patterns showed that MSTRNN outperforms MSTNN in the capability of learning to extract long-ranged correlation in video image.
-The second experiment on categorizing a set of object-directed actions showed that the MSTRNN can learn to extract structural relationship between actions and directed-objects.
-Our analysis on the characteristics of miscategorization in both cases of object-directed action and pantomime actions indicated that the model network developed the categorical memories by organizing relational structure among them.
-Development of such relational structure is considered to be beneficial for gaining generalization in categorization.

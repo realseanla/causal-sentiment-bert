@@ -1,0 +1,8 @@
+Stochastic gradient algorithms (SGA) are increasingly popular in machine learning applications and have become "the algorithm" for extremely large scale problems.
+Although there are some convergence results, little is known about their dynamics.
+In this paper, We propose the method of stochastic modified equations (SME) to analyze the dynamics of the SGA.
+Using this technique, we can give precise characterizations for both the initial convergence speed and the eventual oscillations, at least in some special cases.
+Furthermore, the SME formalism allows us to characterize various speed-up techniques, such as introducing momentum, adjusting the learning rate and the mini-batch sizes.
+Previously, these techniques relied mostly on heuristics.
+Besides introducing simple examples to illustrate the SME formalism, we also apply the framework to improve the relaxed randomized Kaczmarz method for solving linear equations.
+The SME framework is a precise and unifying approach to understanding and improving the SGA, and has the potential to be applied to many more stochastic algorithms.

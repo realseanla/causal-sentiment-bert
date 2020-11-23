@@ -1,8 +1,0 @@
-Text alignment is crucial to the accuracy of Machine Translation (MT) systems, some NLP tools or any other text processing tasks requiring bilingual data.
-This research proposes a language independent sentence alignment approach based on Polish (not position-sensitive language) to English experiments.
-This alignment approach was developed on the TED Talks corpus, but can be used for any text domain or language pair.
-The proposed approach implements various heuristics for sentence recognition.
-Some of them value synonyms and semantic text structure analysis as a part of additional information.
-Minimization of data loss was ensured.
-The solution is compared to other sentence alignment implementations.
-Also an improvement in MT system score with text processed with described tool is shown.

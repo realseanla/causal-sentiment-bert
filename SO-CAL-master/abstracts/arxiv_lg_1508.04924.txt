@@ -1,0 +1,9 @@
+We address the problem of compressed sensing with Multiple Measurement Vectors (MMVs) when the structure of sparse vectors in different channels depend on each other.
+"The sparse vectors are not necessarily joint sparse".
+We capture this dependency by computing the conditional probability of each entry of each sparse vector to be non-zero given "residuals" of all previous sparse vectors.
+To compute these probabilities, we propose to use Long Short-Term Memory (LSTM) [1], a bottom up data driven model for sequence modelling.
+To compute model parameters we minimize a cross entropy cost function.
+We propose a greedy solver that uses above probabilities at the decoder.
+By performing extensive experiments on two real world datasets, we show that the proposed method significantly outperforms general MMV solver Simultaneous Orthogonal Matching Pursuit (SOMP) and model based Bayesian methods including Multitask Compressive Sensing [2] and Sparse Bayesian Learning for Temporally Correlated Sources [3].
+Nevertheless, we emphasize that the proposed method is a data driven method where availability of training data is important.
+However, in many applications, train data is indeed available, e.g., recorded images or video.

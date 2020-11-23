@@ -1,2 +1,0 @@
-While Bayesian methods are praised for their ability to incorporate useful prior knowledge, in practice, priors that allow for computationally convenient or tractable inference are more commonly used.
-In this paper, we investigate the following question: for a given model, is it possible to use any convenient prior to infer a false posterior, and afterwards, given some true prior of interest, quickly transform this result into the true posterior?

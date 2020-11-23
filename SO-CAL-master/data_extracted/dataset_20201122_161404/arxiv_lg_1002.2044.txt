@@ -1,4 +1,0 @@
-Recently Kutin and Niyogi investigated several notions of algorithmic stability--a property of a learning map conceptually similar to continuity--showing that training-stability is sufficient for consistency of Empirical Risk Minimization while distribution-free CV-stability is necessary and sufficient for having finite VC-dimension.
-This paper concerns a phase transition in the training stability of ERM, conjectured by the same authors.
-Kutin and Niyogi proved that ERM on finite hypothesis spaces containing a unique risk minimizer has training stability that scales exponentially with sample size, and conjectured that the existence of multiple risk minimizers prevents even super-quadratic convergence.
-We prove this result for the strictly weaker notion of CV-stability, positively resolving the conjecture.

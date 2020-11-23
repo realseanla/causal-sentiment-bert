@@ -1,0 +1,7 @@
+Markov Random Fields (MRFs), a formulation widely used in generative image modeling, have long been plagued by the lack of expressive power.
+This issue is primarily due to the fact that conventional MRFs formulations tend to use simplistic factors to capture local patterns.
+In this paper, we move beyond such limitations, and propose a novel MRF model that uses fully-connected neurons to express the complex interactions among pixels.
+Through theoretical analysis, we reveal an inherent connection between this model and recurrent neural networks, and thereon derive an approximated feed-forward network that couples multiple RNNs along opposite directions.
+This formulation combines the expressive power of deep neural networks and the cyclic dependency structure of MRF in a unified model, bringing the modeling capability to a new level.
+The feed-forward approximation also allows it to be efficiently learned from data.
+Experimental results on a variety of low-level vision tasks show notable improvement over state-of-the-arts.

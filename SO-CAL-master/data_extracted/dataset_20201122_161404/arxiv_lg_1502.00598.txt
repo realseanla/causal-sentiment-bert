@@ -1,4 +1,0 @@
-We often encounter situations in which an experimenter wants to find, by sequential experimentation, $x_{max} = \arg\max_{x} f(x)$, where $f(x)$ is a (possibly unknown) function of a well controllable variable $x$.
-Taking inspiration from physics and engineering, we have designed a new method to address this problem.
-In this paper, we first introduce the method in continuous time, and then present two algorithms for use in sequential experiments.
-Through a series of simulation studies, we show that the method is effective for finding maxima of unknown functions by experimentation, even when the maximum of the functions drifts or when the signal to noise ratio is low.

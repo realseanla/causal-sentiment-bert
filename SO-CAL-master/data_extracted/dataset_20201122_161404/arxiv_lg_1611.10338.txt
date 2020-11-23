@@ -1,6 +1,0 @@
-Service level agreement (SLA) is an essential part of cloud systems to ensure maximum availability of services for customers.
-With a violation of SLA, the provider has to pay penalties.
-In this paper, we explore two machine learning models: Naive Bayes and Random Forest Classifiers to predict SLA violations.
-Since SLA violations are a rare event in the real world (~0.2  percent), the classification task becomes more challenging.
-In order to overcome these challenges, we use several re-sampling methods.
-We find that random forests with SMOTE-ENN re-sampling have the best performance among other methods with the accuracy of 99.88  percent and F_1 score of 0.9980.

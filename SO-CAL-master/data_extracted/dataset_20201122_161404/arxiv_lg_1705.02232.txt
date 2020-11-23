@@ -1,7 +1,0 @@
-Gaussian mixture model is very useful in many practical problems.
-Nevertheless, it cannot be directly generalized to non Euclidean spaces.
-To overcome this problem we present a spherical Gaussian-based clustering approach for partitioning data sets with respect to arbitrary dissimilarity measure.
-The proposed method is a combination of spherical Cross-Entropy Clustering with a generalized Wards approach.
-The algorithm finds the optimal number of clusters by automatically removing groups which carry no information.
-Moreover, it is scale invariant and allows for forming of spherically-shaped clusters of arbitrary sizes.
-In order to graphically represent and interpret the results the notion of Voronoi diagram was generalized to non Euclidean spaces and applied for introduced clustering method.

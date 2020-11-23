@@ -1,0 +1,7 @@
+We study contextual bandits with budget and time constraints under discrete contexts, referred to as constrained contextual bandits.
+The budget and time constraints significantly increase the complexity of exploration-exploitation tradeoff because they introduce coupling among contexts.
+Such coupling effects make it difficult to obtain oracle solutions that assume known statistics of bandits.
+To gain insight, we first study unit-cost systems, where the costs of all actions under any context are identical.
+We develop near-optimal approximations of the oracle, which are then combined with upper confidence bound (UCB) method in the general case where the expected rewards are unknown a priori.
+We show that our proposed algorithms, named UCB-PB and UCB-ALP, achieve logarithmic regret except in certain boundary cases.
+Last, we discuss the extension of the proposed algorithms into general-cost systems.

@@ -1,5 +1,0 @@
-In this paper, we present a transfer learning approach for music classification and regression tasks.
-We propose to use a pretrained convnet feature, a concatenated feature vector using activations of feature maps of multiple layers in a trained convolutional network.
-We show that how this convnet feature can serve as a general-purpose music representation.
-In the experiment, a convnet is trained for music tagging and then transferred for many music-related classification and regression tasks as well as an audio-related classification task.
-In experiments, the convnet feature outperforms the baseline MFCC feature in all tasks and many reported approaches of aggregating MFCCs and low- and high-level music features.

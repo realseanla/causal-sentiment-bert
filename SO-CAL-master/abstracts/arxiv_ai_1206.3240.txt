@@ -1,0 +1,6 @@
+It is well-known that inference in graphical models is hard in the worst case, but tractable for models with bounded treewidth.
+We ask whether treewidth is the only structural criterion of the underlying graph that enables tractable inference.
+In other words, is there some class of structures with unbounded treewidth in which inference is tractable?
+Subject to a combinatorial hypothesis due to Robertson et al.
+(1994), we show that low treewidth is indeed the only structural restriction that can ensure tractability.
+Thus, even for the "best case" graph structure, there is no inference algorithm with complexity polynomial in the treewidth.

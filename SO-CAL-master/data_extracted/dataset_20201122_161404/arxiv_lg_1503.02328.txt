@@ -1,3 +1,0 @@
-Given financial data from popular sites like Yahoo and the London Exchange, the presented paper attempts to model and predict stocks that can be considered "good investments".
-Stocks are characterized by 125 features ranging from gross domestic product to EDIBTA, and are labeled by discrepancies between stock and market price returns.
-An artificial neural network (Self-Organizing Map) is fitted to train on more than a million data points to predict "good investments" given testing stocks from 2013 and after.

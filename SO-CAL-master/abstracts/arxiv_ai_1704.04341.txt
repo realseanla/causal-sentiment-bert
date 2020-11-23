@@ -1,0 +1,3 @@
+We propose a new task-specification language for Markov decision processes that is designed to be an improvement over reward functions by being environment independent.
+The language is a variant of Linear Temporal Logic (LTL) that is extended to probabilistic specifications in a way that permits approximations to be learned in finite time.
+We provide several small environments that demonstrate the advantages of our geometric LTL (GLTL) language and illustrate how it can be used to specify standard reinforcement-learning tasks straightforwardly.
