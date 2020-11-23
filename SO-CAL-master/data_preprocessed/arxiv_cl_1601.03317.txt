@@ -1,0 +1,7 @@
+Neural/JJ machine/NN translation/NN has/VBZ shown/VBN very/RB promising/JJ results/NNS lately/RB ./.
+Most/JJS NMT/NN models/NNS follow/VBP the/DT encoder/NN -/HYPH decoder/NN frame/NN -/HYPH work/NN ./.
+To/TO make/VB encoder/NN -/HYPH decoder/NN models/NNS more/RBR flexible/JJ ,/, attention/NN mechanism/NN was/VBD introduced/VBN to/IN machine/NN translation/NN and/CC also/RB other/JJ tasks/NNS like/IN speech/NN recognition/NN and/CC image/NN captioning/NN ./.
+We/PRP observe/VBP that/IN the/DT quality/NN of/IN translation/NN by/IN attention/NN -/HYPH based/VBN encoder/NN -/HYPH decoder/NN can/MD be/VB significantly/RB dam/VB -/HYPH aged/VBN when/WRB the/DT alignment/NN is/VBZ incorrect/JJ ./.
+We/PRP attribute/VBP these/DT problems/NNS to/IN the/DT lack/NN of/IN distortion/NN and/CC fertility/NN models/NNS ./.
+Aiming/VBG to/TO resolve/VB these/DT problems/NNS ,/, we/PRP propose/VBP new/JJ variations/NNS of/IN attention/NN -/HYPH based/VBN encoder/NN -/HYPH decoder/NN and/CC compare/VB them/PRP with/IN other/JJ models/NNS on/IN machine/NN translation/NN ./.
+Our/PRP$ pro-/VB posed/VBN method/NN achieved/VBD an/DT improvement/NN of/IN 2/CD BLEU/NN points/NNS over/IN the/DT original/JJ attention/NN -/HYPH based/VBN encoder/NN -/HYPH decoder/NN ./.

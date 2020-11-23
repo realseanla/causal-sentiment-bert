@@ -1,0 +1,8 @@
+Human/JJ activity/NN recognition/NN has/VBZ wide/JJ applications/NNS in/IN medical/JJ research/NN and/CC human/JJ survey/NN system/NN ./.
+In/IN this/DT project/NN ,/, we/PRP design/VBP a/DT robust/JJ activity/NN recognition/NN system/NN based/VBN on/IN a/DT smartphone/NN ./.
+The/DT system/NN uses/VBZ a/DT 3/CD -/HYPH dimentional/JJ smartphone/NN accelerometer/NN as/IN the/DT only/JJ sensor/NN to/TO collect/VB time/NN series/NN signals/NNS ,/, from/IN which/WDT 31/CD features/NNS are/VBP generated/VBN in/IN both/DT time/NN and/CC frequency/NN domain/NN ./.
+Activities/NNS are/VBP classified/VBN using/VBG 4/CD different/JJ passive/JJ learning/NN methods/NNS ,/, i.e./FW ,/, quadratic/JJ classifier/NN ,/, k/CD -/HYPH nearest/JJS neighbor/NN algorithm/NN ,/, support/NN vector/NN machine/NN ,/, and/CC artificial/JJ neural/JJ networks/NNS ./.
+Dimensionality/NN reduction/NN is/VBZ performed/VBN through/IN both/DT feature/NN extraction/NN and/CC subset/NN selection/NN ./.
+Besides/IN passive/JJ learning/NN ,/, we/PRP also/RB apply/VBP active/JJ learning/NN algorithms/NNS to/TO reduce/VB data/NNS labeling/VBG expense/NN ./.
+Experiment/NN results/NNS show/VBP that/IN the/DT classification/NN rate/NN of/IN passive/JJ learning/NN reaches/VBZ 84.4/CD percent/NN and/CC it/PRP is/VBZ robust/JJ to/IN common/JJ positions/NNS and/CC poses/NNS of/IN cellphone/NN ./.
+The/DT results/NNS of/IN active/JJ learning/NN on/IN real/JJ data/NNS demonstrate/VBP a/DT reduction/NN of/IN labeling/NN labor/NN to/TO achieve/VB comparable/JJ performance/NN with/IN passive/JJ learning/NN ./.

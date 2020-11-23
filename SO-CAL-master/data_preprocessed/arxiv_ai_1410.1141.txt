@@ -1,0 +1,4 @@
+It/PRP is/VBZ well/RB -/HYPH known/VBN that/IN neural/JJ networks/NNS are/VBP computationally/RB hard/JJ to/TO train/VB ./.
+On/IN the/DT other/JJ hand/NN ,/, in/IN practice/NN ,/, modern/JJ day/NN neural/JJ networks/NNS are/VBP trained/VBN efficiently/RB using/VBG SGD/NNP and/CC a/DT variety/NN of/IN tricks/NNS that/WDT include/VBP different/JJ activation/NN functions/NNS (/-LRB- e.g./FW ReLU/NN )/-RRB- ,/, over-specification/NN (/-LRB- i.e./FW ,/, train/NN networks/NNS which/WDT are/VBP larger/JJR than/IN needed/VBN )/-RRB- ,/, and/CC regularization/NN ./.
+In/IN this/DT paper/NN we/PRP revisit/VBP the/DT computational/JJ complexity/NN of/IN training/NN neural/JJ networks/NNS from/IN a/DT modern/JJ perspective/NN ./.
+We/PRP provide/VBP both/DT positive/JJ and/CC negative/JJ results/NNS ,/, some/DT of/IN them/PRP yield/VBP new/JJ provably/RB efficient/JJ and/CC practical/JJ algorithms/NNS for/IN training/VBG certain/JJ types/NNS of/IN neural/JJ networks/NNS ./.

@@ -1,0 +1,8 @@
+Learning/VBG Granger/NNP causality/NN for/IN general/JJ point/NN processes/NNS is/VBZ a/DT very/RB challenging/JJ task/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT effective/JJ method/NN ,/, learning/VBG Granger/NNP causality/NN ,/, for/IN a/DT special/JJ but/CC significant/JJ type/NN of/IN point/NN processes/NNS ---/, Hawkes/NNPS process/NN ./.
+We/PRP reveal/VBP the/DT relationship/NN between/IN Hawkes/NNP process/NN 's/POS impact/NN function/NN and/CC its/PRP$ Granger/NNP causality/NN graph/NN ./.
+Specifically/RB ,/, our/PRP$ model/NN represents/VBZ impact/NN functions/NNS using/VBG a/DT series/NN of/IN basis/NN functions/NNS and/CC recovers/VBZ the/DT Granger/NNP causality/NN graph/NN via/IN group/NN sparsity/NN of/IN the/DT impact/NN functions/NNS '/POS coefficients/NNS ./.
+We/PRP propose/VBP an/DT effective/JJ learning/NN algorithm/NN combining/VBG a/DT maximum/JJ likelihood/NN estimator/NN (/-LRB- MLE/NNP )/-RRB- with/IN a/DT sparse/JJ -/HYPH group/NN -/HYPH lasso/NN (/-LRB- SGL/NN )/-RRB- regularizer/NN ./.
+Additionally/RB ,/, the/DT flexibility/NN of/IN our/PRP$ model/NN allows/VBZ to/TO incorporate/VB the/DT clustering/NN structure/NN event/NN types/NNS into/IN learning/NN framework/NN ./.
+We/PRP analyze/VBP our/PRP$ learning/NN algorithm/NN and/CC propose/VB an/DT adaptive/JJ procedure/NN to/TO select/VB basis/NN functions/NNS ./.
+Experiments/NNS on/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH world/NN data/NNS show/VBP that/IN our/PRP$ method/NN can/MD learn/VB the/DT Granger/NNP causality/NN graph/NN and/CC the/DT triggering/VBG patterns/NNS of/IN the/DT Hawkes/NNPS processes/NNS simultaneously/RB ./.

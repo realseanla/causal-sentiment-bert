@@ -1,0 +1,7 @@
+Suicide/NN is/VBZ an/DT important/JJ but/CC often/RB misunderstood/VBN problem/NN ,/, one/CD that/WDT researchers/NNS are/VBP now/RB seeking/VBG to/TO better/RBR understand/VB through/IN social/JJ media/NNS ./.
+Due/IN in/IN large/JJ part/NN to/IN the/DT fuzzy/JJ nature/NN of/IN what/WP constitutes/VBZ suicidal/JJ risks/NNS ,/, most/JJS supervised/JJ approaches/NNS for/IN learning/VBG to/IN automatically/RB detect/VB suicide/NN -/HYPH related/VBN activity/NN in/IN social/JJ media/NNS require/VBP a/DT great/JJ deal/NN of/IN human/JJ labor/NN to/TO train/VB ./.
+However/RB ,/, humans/NNS themselves/PRP have/VBP diverse/JJ or/CC conflicting/JJ views/NNS on/IN what/WP constitutes/VBZ suicidal/JJ thoughts/NNS ./.
+So/RB how/WRB to/TO obtain/VB reliable/JJ gold/NN standard/JJ labels/NNS is/VBZ fundamentally/RB challenging/JJ and/CC ,/, we/PRP hypothesize/VBP ,/, depends/VBZ largely/RB on/IN what/WP is/VBZ asked/VBN of/IN the/DT annotators/NNS and/CC what/WP slice/NN of/IN the/DT data/NNS they/PRP label/VBP ./.
+We/PRP conducted/VBD multiple/JJ rounds/NNS of/IN data/NNS labeling/NN and/CC collected/VBN annotations/NNS from/IN crowdsourcing/VBG workers/NNS and/CC domain/NN experts/NNS ./.
+We/PRP aggregated/VBD the/DT resulting/VBG labels/NNS in/IN various/JJ ways/NNS to/TO train/VB a/DT series/NN of/IN supervised/JJ models/NNS ./.
+Our/PRP$ preliminary/JJ evaluations/NNS show/VBP that/IN using/VBG unanimously/RB agreed/VBD labels/NNS from/IN multiple/JJ annotators/NNS is/VBZ helpful/JJ to/TO achieve/VB robust/JJ machine/NN models/NNS ./.

@@ -1,0 +1,7 @@
+A/DT Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- has/VBZ become/VBN a/DT very/RB popular/JJ machine/NN learning/NN method/NN for/IN text/NN classification/NN ./.
+One/CD reason/NN for/IN this/DT relates/VBZ to/IN the/DT range/NN of/IN existing/VBG kernels/NNS which/WDT allow/VBP for/IN classifying/VBG data/NNS that/WDT is/VBZ not/RB linearly/RB separable/JJ ./.
+The/DT linear/JJ ,/, polynomial/JJ and/CC RBF/NNP (/-LRB- Gaussian/NNP Radial/NNP Basis/NN Function/NN )/-RRB- kernel/NN are/VBP commonly/RB used/VBN and/CC serve/VB as/IN a/DT basis/NN of/IN comparison/NN in/IN our/PRP$ study/NN ./.
+We/PRP show/VBP how/WRB to/TO derive/VB the/DT primal/JJ form/NN of/IN the/DT quadratic/JJ Power/NN Kernel/NNP (/-LRB- PK/NN )/-RRB- --/: also/RB called/VBD the/DT Negative/JJ Euclidean/NNP Distance/NNP Kernel/NNP (/-LRB- NDK/NNP )/-RRB- --/: by/IN means/NNS of/IN complex/JJ numbers/NNS ./.
+We/PRP exemplify/VBP the/DT NDK/NNP in/IN the/DT framework/NN of/IN text/NN categorization/NN using/VBG the/DT Dewey/NNP Document/NNP Classification/NN (/-LRB- DDC/NN )/-RRB- as/IN the/DT target/NN scheme/NN ./.
+Our/PRP$ evaluation/NN shows/VBZ that/IN the/DT power/NN kernel/NN produces/VBZ F/NNP -/HYPH scores/NNS that/WDT are/VBP comparable/JJ to/IN the/DT reference/NN kernels/NNS ,/, but/CC is/VBZ --/: except/IN for/IN the/DT linear/JJ kernel/NN --/: faster/JJR to/TO compute/VB ./.
+Finally/RB ,/, we/PRP show/VBP how/WRB to/TO extend/VB the/DT NDK/NN -/HYPH approach/NN by/IN including/VBG the/DT Mahalanobis/NNPS distance/NN ./.

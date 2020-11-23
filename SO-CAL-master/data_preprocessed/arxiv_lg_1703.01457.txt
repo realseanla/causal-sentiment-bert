@@ -1,0 +1,12 @@
+Deep/JJ convolutional/JJ neural/JJ networks/NNS (/-LRB- CNN/NNP )/-RRB- have/VBP shown/VBN their/PRP$ good/JJ performances/NNS in/IN many/JJ computer/NN vision/NN tasks/NNS ./.
+However/RB ,/, the/DT high/JJ computational/JJ complexity/NN of/IN CNN/NNP involves/VBZ a/DT huge/JJ amount/NN of/IN data/NNS movements/NNS between/IN the/DT computational/JJ processor/NN core/NN and/CC memory/NN hierarchy/NN which/WDT occupies/VBZ the/DT major/JJ of/IN the/DT power/NN consumption/NN ./.
+This/DT paper/NN presents/VBZ Chain/NNP -/HYPH NN/NNP ,/, a/DT novel/JJ energy/NN -/HYPH efficient/JJ 1D/NN chain/NN architecture/NN for/IN accelerating/VBG deep/JJ CNNs/NNS ./.
+Chain/NN -/: NN/NNP consists/VBZ of/IN the/DT dedicated/JJ dual/JJ -/HYPH channel/NN process/NN engines/NNS (/-LRB- PE/NN )/-RRB- ./.
+In/IN Chain/NNP -/HYPH NN/NNP ,/, convolutions/NNS are/VBP done/VBN by/IN the/DT 1D/NN systolic/JJ primitives/NNS composed/VBN of/IN a/DT group/NN of/IN adjacent/JJ PEs/NNS ./.
+These/DT systolic/JJ primitives/NNS ,/, together/RB with/IN the/DT proposed/VBN column-wise/JJ scan/NN input/NN pattern/NN ,/, can/MD fully/RB reuse/VB input/NN operand/NN to/TO reduce/VB the/DT memory/NN bandwidth/NN requirement/NN for/IN energy/NN saving/NN ./.
+Moreover/RB ,/, the/DT 1D/NN chain/NN architecture/NN allows/VBZ the/DT systolic/JJ primitives/NNS to/TO be/VB easily/RB reconfigured/VBN according/VBG to/IN specific/JJ CNN/NNP parameters/NNS with/IN fewer/JJR design/NN complexity/NN ./.
+The/DT synthesis/NN and/CC layout/NN of/IN Chain/NNP -/HYPH NN/NNP is/VBZ under/IN TSMC/NNP 28nm/JJ process/NN ./.
+It/PRP costs/VBZ 3751k/JJ logic/NN gates/NNS and/CC 352KB/NN on/IN -/HYPH chip/NN memory/NN ./.
+The/DT results/NNS show/VBP a/DT 576/CD -/HYPH PE/NN Chain/NNP -/HYPH NN/NNP can/MD be/VB scaled/VBN up/RP to/IN 700/CD MHz/NN ./.
+This/DT achieves/VBZ a/DT peak/NN throughput/NN of/IN 806.4/CD GOPS/NNS with/IN 567.5/CD mW/NN and/CC is/VBZ able/JJ to/TO accelerate/VB the/DT five/CD convolutional/JJ layers/NNS in/IN AlexNet/NNP at/IN a/DT frame/NN rate/NN of/IN 326.2/CD fps/NN ./.
+1421.0/CD GOPS/NN //SYM W/NN power/NN efficiency/NN is/VBZ at/IN least/RBS 2.5/CD to/IN 4.1/CD x/SYM times/NNS better/JJR than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN works/NNS ./.

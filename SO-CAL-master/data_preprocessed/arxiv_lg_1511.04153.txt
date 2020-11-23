@@ -1,0 +1,11 @@
+Spectral/JJ clustering/NN is/VBZ one/CD of/IN the/DT most/RBS popular/JJ clustering/NN approaches/VBZ with/IN the/DT capability/NN to/TO handle/VB some/DT challenging/JJ clustering/NN problems/NNS ./.
+Most/JJS spectral/JJ clustering/NN methods/NNS provide/VBP a/DT nonlinear/JJ map/NN from/IN the/DT data/NNS manifold/NN to/IN a/DT subspace/NN ./.
+Only/RB a/DT little/JJ work/NN focuses/VBZ on/IN the/DT explicit/JJ linear/JJ map/NN which/WDT can/MD be/VB viewed/VBN as/IN the/DT unsupervised/JJ distance/NN metric/JJ learning/NN ./.
+In/IN practice/NN ,/, the/DT selection/NN of/IN the/DT affinity/NN matrix/NN exhibits/VBZ a/DT tremendous/JJ impact/NN on/IN the/DT unsupervised/JJ learning/NN ./.
+While/IN much/JJ success/NN of/IN affinity/NN learning/NN has/VBZ been/VBN achieved/VBN in/IN recent/JJ years/NNS ,/, some/DT issues/NNS such/JJ as/IN noise/NN reduction/NN remain/VBP to/TO be/VB addressed/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ method/NN ,/, dubbed/VBN Adaptive/NNP Affinity/NNP Matrix/NNP (/-LRB- AdaAM/NNP )/-RRB- ,/, to/TO learn/VB an/DT adaptive/JJ affinity/NN matrix/NN and/CC derive/VBP a/DT distance/NN metric/JJ from/IN the/DT affinity/NN ./.
+We/PRP assume/VBP the/DT affinity/NN matrix/NN to/TO be/VB positive/JJ semidefinite/NN with/IN ability/NN to/TO quantify/VB the/DT pairwise/JJ dissimilarity/NN ./.
+Our/PRP$ method/NN is/VBZ based/VBN on/IN posing/VBG the/DT optimization/NN of/IN objective/JJ function/NN as/IN a/DT spectral/JJ decomposition/NN problem/NN ./.
+We/PRP yield/VBP the/DT affinity/NN from/IN both/CC the/DT original/JJ data/NNS distribution/NN and/CC the/DT widely/RB -/HYPH used/VBN heat/NN kernel/NN ./.
+The/DT provided/VBN matrix/NN can/MD be/VB regarded/VBN as/IN the/DT optimal/JJ representation/NN of/IN pairwise/JJ relationship/NN on/IN the/DT manifold/NN ./.
+Extensive/JJ experiments/NNS on/IN a/DT number/NN of/IN real/JJ -/HYPH world/NN data/NN sets/NNS show/VBP the/DT effectiveness/NN and/CC efficiency/NN of/IN AdaAM/NNP ./.

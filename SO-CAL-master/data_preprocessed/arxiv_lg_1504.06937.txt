@@ -1,0 +1,7 @@
+We/PRP study/VBP contextual/JJ bandits/NNS with/IN budget/NN and/CC time/NN constraints/NNS under/IN discrete/JJ contexts/NNS ,/, referred/VBN to/IN as/IN constrained/VBN contextual/JJ bandits/NNS ./.
+The/DT budget/NN and/CC time/NN constraints/NNS significantly/RB increase/VBP the/DT complexity/NN of/IN exploration/NN -/HYPH exploitation/NN tradeoff/NN because/IN they/PRP introduce/VBP coupling/NN among/IN contexts/NNS ./.
+Such/JJ coupling/NN effects/NNS make/VBP it/PRP difficult/JJ to/TO obtain/VB oracle/NN solutions/NNS that/WDT assume/VBP known/VBN statistics/NNS of/IN bandits/NNS ./.
+To/TO gain/VB insight/NN ,/, we/PRP first/RB study/VB unit/NN -/HYPH cost/NN systems/NNS ,/, where/WRB the/DT costs/NNS of/IN all/DT actions/NNS under/IN any/DT context/NN are/VBP identical/JJ ./.
+We/PRP develop/VBP near/IN -/HYPH optimal/JJ approximations/NNS of/IN the/DT oracle/NN ,/, which/WDT are/VBP then/RB combined/VBN with/IN upper/JJ confidence/NN bound/VBN (/-LRB- UCB/NNP )/-RRB- method/NN in/IN the/DT general/JJ case/NN where/WRB the/DT expected/VBN rewards/NNS are/VBP unknown/JJ a/FW priori/FW ./.
+We/PRP show/VBP that/IN our/PRP$ proposed/VBN algorithms/NNS ,/, named/VBN UCB/NNP -/HYPH PB/NNP and/CC UCB/NNP -/HYPH ALP/NNP ,/, achieve/VB logarithmic/JJ regret/NN except/IN in/IN certain/JJ boundary/NN cases/NNS ./.
+Last/JJ ,/, we/PRP discuss/VBP the/DT extension/NN of/IN the/DT proposed/VBN algorithms/NNS into/IN general/JJ -/HYPH cost/NN systems/NNS ./.

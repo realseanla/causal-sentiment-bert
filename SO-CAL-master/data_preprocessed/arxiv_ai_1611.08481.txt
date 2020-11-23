@@ -1,0 +1,8 @@
+We/PRP introduce/VBP GuessWhat/NNP ?/.
+!/.
+,/, a/DT two/CD -/HYPH player/NN guessing/VBG game/NN as/IN a/DT testbed/NN for/IN research/NN on/IN the/DT interplay/NN of/IN computer/NN vision/NN and/CC dialogue/NN systems/NNS ./.
+The/DT goal/NN of/IN the/DT game/NN is/VBZ to/TO locate/VB an/DT unknown/JJ object/NN in/IN a/DT rich/JJ image/NN scene/NN by/IN asking/VBG a/DT sequence/NN of/IN questions/NNS ./.
+Higher/JJR -/HYPH level/NN image/NN understanding/NN ,/, like/IN spatial/JJ reasoning/NN and/CC language/NN grounding/NN ,/, is/VBZ required/VBN to/TO solve/VB the/DT proposed/VBN task/NN ./.
+Our/PRP$ key/JJ contribution/NN is/VBZ the/DT collection/NN of/IN a/DT large/JJ -/HYPH scale/NN dataset/NN consisting/VBG of/IN 150K/NN human/JJ -/HYPH played/VBN games/NNS with/IN a/DT total/NN of/IN 800K/NN visual/JJ question/NN -/HYPH answer/NN pairs/NNS on/IN 66K/NN images/NNS ./.
+We/PRP explain/VBP our/PRP$ design/NN decisions/NNS in/IN collecting/VBG the/DT dataset/NN and/CC introduce/VB the/DT oracle/NN and/CC questioner/NN tasks/NNS that/WDT are/VBP associated/VBN with/IN the/DT two/CD players/NNS of/IN the/DT game/NN ./.
+We/PRP prototyped/VBD deep/JJ learning/NN models/NNS to/TO establish/VB initial/JJ baselines/NNS of/IN the/DT introduced/VBN tasks/NNS ./.

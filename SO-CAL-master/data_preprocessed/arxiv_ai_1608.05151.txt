@@ -1,0 +1,8 @@
+Multi-step/JJ temporal/JJ -/HYPH difference/NN (/-LRB- TD/NN )/-RRB- learning/NN ,/, where/WRB the/DT update/NN targets/NNS contain/VBP information/NN from/IN multiple/JJ time/NN steps/NNS ahead/RB ,/, is/VBZ one/CD of/IN the/DT most/RBS popular/JJ forms/NNS of/IN TD/NN learning/NN for/IN linear/JJ function/NN approximation/NN ./.
+The/DT reason/NN is/VBZ that/IN multi-step/JJ methods/NNS often/RB yield/VBP substantially/RB better/JJR performance/NN than/IN their/PRP$ single/JJ -/HYPH step/NN counter-parts/NNS ,/, due/IN to/IN a/DT lower/JJR bias/NN of/IN the/DT update/NN targets/NNS ./.
+For/IN non-linear/JJ function/NN approximation/NN ,/, however/RB ,/, single/JJ -/HYPH step/NN methods/NNS appear/VBP to/TO be/VB the/DT norm/NN ./.
+Part/NN of/IN the/DT reason/NN could/MD be/VB that/DT on/IN many/JJ domains/NNS the/DT popular/JJ multi-step/JJ methods/NNS TD/NN (/-LRB- $/$ \/CD lambda/NN $/$ )/-RRB- and/CC Sarsa/NN (/-LRB- $/$ \/CD lambda/NN $/$ )/-RRB- do/VBP not/RB perform/VB well/RB when/WRB combined/VBN with/IN non-linear/JJ function/NN approximation/NN ./.
+In/IN particular/JJ ,/, they/PRP are/VBP very/RB susceptible/JJ to/IN divergence/NN of/IN value/NN estimates/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP identify/VBP the/DT reason/NN behind/IN this/DT ./.
+Furthermore/RB ,/, based/VBN on/IN our/PRP$ analysis/NN ,/, we/PRP propose/VBP a/DT new/JJ multi-step/JJ TD/NN method/NN for/IN non-linear/JJ function/NN approximation/NN that/WDT addresses/VBZ this/DT issue/NN ./.
+We/PRP confirm/VBP the/DT effectiveness/NN of/IN our/PRP$ method/NN using/VBG two/CD benchmark/NN tasks/NNS with/IN neural/JJ networks/NNS as/IN function/NN approximation/NN ./.

@@ -1,0 +1,7 @@
+Inferring/VBG the/DT relations/NNS between/IN two/CD images/NNS is/VBZ an/DT important/JJ class/NN of/IN tasks/NNS in/IN computer/NN vision/NN ./.
+Examples/NNS of/IN such/JJ tasks/NNS include/VBP computing/VBG optical/JJ flow/NN and/CC stereo/NN disparity/NN ./.
+We/PRP treat/VBP the/DT relation/NN inference/NN tasks/NNS as/IN a/DT machine/NN learning/NN problem/NN and/CC tackle/VB it/PRP with/IN neural/JJ networks/NNS ./.
+A/DT key/JJ to/IN the/DT problem/NN is/VBZ learning/VBG a/DT representation/NN of/IN relations/NNS ./.
+We/PRP propose/VBP a/DT new/JJ neural/JJ network/NN module/NN ,/, contrast/NN association/NN unit/NN (/-LRB- CAU/NN )/-RRB- ,/, which/WDT explicitly/RB models/NNS the/DT relations/NNS between/IN two/CD sets/NNS of/IN input/NN variables/NNS ./.
+Due/IN to/IN the/DT non-negativity/NN of/IN the/DT weights/NNS in/IN CAU/NNP ,/, we/PRP adopt/VBP a/DT multiplicative/JJ update/NN algorithm/NN for/IN learning/VBG these/DT weights/NNS ./.
+Experiments/NNS show/VBP that/IN neural/JJ networks/NNS with/IN CAUs/NNS are/VBP more/RBR effective/JJ in/IN learning/VBG five/CD fundamental/JJ image/NN transformations/NNS than/IN conventional/JJ neural/JJ networks/NNS ./.

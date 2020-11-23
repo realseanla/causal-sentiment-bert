@@ -1,0 +1,5 @@
+Joint/JJ extraction/NN of/IN entities/NNS and/CC relations/NNS is/VBZ an/DT important/JJ task/NN in/IN information/NN extraction/NN ./.
+To/TO tackle/VB this/DT problem/NN ,/, we/PRP firstly/RB propose/VBP a/DT novel/JJ tagging/NN scheme/NN that/WDT can/MD convert/VB the/DT joint/JJ extraction/NN task/NN to/IN a/DT tagging/NN problem/NN ./.
+Then/RB ,/, based/VBN on/IN our/PRP$ tagging/VBG scheme/NN ,/, we/PRP study/VBP different/JJ end/NN -/HYPH to/IN -/HYPH end/NN models/NNS to/TO extract/VB entities/NNS and/CC their/PRP$ relations/NNS directly/RB ,/, without/IN identifying/VBG entities/NNS and/CC relations/NNS separately/RB ./.
+We/PRP conduct/VBP experiments/NNS on/IN a/DT public/JJ dataset/NN produced/VBN by/IN distant/JJ supervision/NN method/NN and/CC the/DT experimental/JJ results/NNS show/VBP that/IN the/DT tagging/NN based/VBN methods/NNS are/VBP better/JJR than/IN most/JJS of/IN the/DT existing/VBG pipelined/JJ and/CC joint/JJ learning/NN methods/NNS ./.
+What/WP 's/VBZ more/JJR ,/, the/DT end/NN -/HYPH to/IN -/HYPH end/NN model/NN proposed/VBN in/IN this/DT paper/NN ,/, achieves/VBZ the/DT best/JJS results/NNS on/IN the/DT public/JJ dataset/NN ./.

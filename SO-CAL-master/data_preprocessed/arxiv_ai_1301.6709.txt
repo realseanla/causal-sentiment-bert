@@ -1,0 +1,8 @@
+The/DT clique/NN tree/NN algorithm/NN is/VBZ the/DT standard/JJ method/NN for/IN doing/VBG inference/NN in/IN Bayesian/JJ networks/NNS ./.
+It/PRP works/VBZ by/IN manipulating/VBG clique/NN potentials/NNS -/, distributions/NNS over/IN the/DT variables/NNS in/IN a/DT clique/NN ./.
+While/IN this/DT approach/NN works/VBZ well/RB for/IN many/JJ networks/NNS ,/, it/PRP is/VBZ limited/VBN by/IN the/DT need/NN to/TO maintain/VB an/DT exact/JJ representation/NN of/IN the/DT clique/NN potentials/NNS ./.
+This/DT paper/NN presents/VBZ a/DT new/JJ unified/JJ approach/NN that/WDT combines/VBZ approximate/JJ inference/NN and/CC the/DT clique/NN tree/NN algorithm/NN ,/, thereby/RB circumventing/VBG this/DT limitation/NN ./.
+Many/JJ known/VBN approximate/JJ inference/NN algorithms/NNS can/MD be/VB viewed/VBN as/IN instances/NNS of/IN this/DT approach/NN ./.
+The/DT algorithm/NN essentially/RB does/VBZ clique/NN tree/NN propagation/NN ,/, using/VBG approximate/JJ inference/NN to/TO estimate/VB the/DT densities/NNS in/IN each/DT clique/NN ./.
+In/IN many/JJ settings/NNS ,/, the/DT computation/NN of/IN the/DT approximate/JJ clique/NN potential/NN can/MD be/VB done/VBN easily/RB using/VBG statistical/JJ importance/NN sampling/NN ./.
+Iterations/NNS are/VBP used/VBN to/TO gradually/RB improve/VB the/DT quality/NN of/IN the/DT estimation/NN ./.

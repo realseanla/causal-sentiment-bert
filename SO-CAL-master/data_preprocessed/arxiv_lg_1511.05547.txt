@@ -1,0 +1,7 @@
+Unlike/IN human/JJ learning/NN ,/, machine/NN learning/NN often/RB fails/VBZ to/TO handle/VB changes/NNS between/IN training/NN (/-LRB- source/NN )/-RRB- and/CC test/NN (/-LRB- target/NN )/-RRB- input/NN distributions/NNS ./.
+Such/JJ domain/NN shifts/NNS ,/, common/JJ in/IN practical/JJ scenarios/NNS ,/, severely/RB damage/VB the/DT performance/NN of/IN conventional/JJ machine/NN learning/NN methods/NNS ./.
+Supervised/VBN domain/NN adaptation/NN methods/NNS have/VBP been/VBN proposed/VBN for/IN the/DT case/NN when/WRB the/DT target/NN data/NNS have/VBP labels/NNS ,/, including/VBG some/DT that/WDT perform/VBP very/RB well/RB despite/IN being/VBG ``/`` frustratingly/RB easy/JJ ''/'' to/TO implement/VB ./.
+However/RB ,/, in/IN practice/NN ,/, the/DT target/NN domain/NN is/VBZ often/RB unlabeled/JJ ,/, requiring/VBG unsupervised/JJ adaptation/NN ./.
+We/PRP propose/VBP a/DT simple/JJ ,/, effective/JJ ,/, and/CC efficient/JJ method/NN for/IN unsupervised/JJ domain/NN adaptation/NN called/VBN CORrelation/NN ALignment/NN (/-LRB- CORAL/NN )/-RRB- ./.
+CORAL/NN minimizes/VBZ domain/NN shift/NN by/IN aligning/VBG the/DT second/JJ -/HYPH order/NN statistics/NNS of/IN source/NN and/CC target/NN distributions/NNS ,/, without/IN requiring/VBG any/DT target/NN labels/NNS ./.
+Even/RB though/IN it/PRP is/VBZ extraordinarily/RB simple/JJ --/: it/PRP can/MD be/VB implemented/VBN in/IN four/CD lines/NNS of/IN Matlab/NNP code/NN --/: CORAL/NN performs/VBZ remarkably/RB well/RB in/IN extensive/JJ evaluations/NNS on/IN standard/JJ benchmark/NN datasets/NNS ./.

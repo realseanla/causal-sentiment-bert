@@ -1,0 +1,3 @@
+We/PRP propose/VBP a/DT finite/NN -/HYPH state/NN transducer/NN (/-LRB- FST/NN )/-RRB- representation/NN for/IN the/DT models/NNS used/VBN to/TO decode/VB keyboard/NN inputs/NNS on/IN mobile/JJ devices/NNS ./.
+Drawing/VBG from/IN learnings/NNS from/IN the/DT field/NN of/IN speech/NN recognition/NN ,/, we/PRP describe/VBP a/DT decoding/NN framework/NN that/WDT can/MD satisfy/VB the/DT strict/JJ memory/NN and/CC latency/NN constraints/NNS of/IN keyboard/NN input/NN ./.
+We/PRP extend/VBP this/DT framework/NN to/TO support/VB functionalities/NNS typically/RB not/RB present/JJ in/IN speech/NN recognition/NN ,/, such/JJ as/IN literal/JJ decoding/NN ,/, autocorrections/NNS ,/, word/NN completions/NNS ,/, and/CC next/JJ word/NN predictions/NNS ./.

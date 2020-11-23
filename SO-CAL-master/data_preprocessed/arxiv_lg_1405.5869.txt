@@ -1,0 +1,10 @@
+We/PRP present/VBP the/DT first/JJ provably/RB sublinear/JJ time/NN algorithm/NN for/IN approximate/JJ \/SYM emph/NN {/-LRB- Maximum/NNP Inner/NNP Product/NN Search/NN }/-RRB- (/-LRB- MIPS/NNP )/-RRB- ./.
+Our/PRP$ proposal/NN is/VBZ also/RB the/DT first/JJ hashing/VBG algorithm/NN for/IN searching/VBG with/IN (/-LRB- un-normalized/JJ )/-RRB- inner/JJ product/NN as/IN the/DT underlying/VBG similarity/NN measure/NN ./.
+Finding/VBG hashing/VBG schemes/NNS for/IN MIPS/NNP was/VBD considered/VBN hard/RB ./.
+We/PRP formally/RB show/VBP that/IN the/DT existing/VBG Locality/NN Sensitive/JJ Hashing/NN (/-LRB- LSH/NN )/-RRB- framework/NN is/VBZ insufficient/JJ for/IN solving/VBG MIPS/NNP ,/, and/CC then/RB we/PRP extend/VBP the/DT existing/VBG LSH/NN framework/NN to/TO allow/VB asymmetric/JJ hashing/VBG schemes/NNS ./.
+Our/PRP$ proposal/NN is/VBZ based/VBN on/IN an/DT interesting/JJ mathematical/JJ phenomenon/NN in/IN which/WDT inner/JJ products/NNS ,/, after/IN independent/JJ asymmetric/JJ transformations/NNS ,/, can/MD be/VB converted/VBN into/IN the/DT problem/NN of/IN approximate/JJ near/IN neighbor/NN search/NN ./.
+This/DT key/JJ observation/NN makes/VBZ efficient/JJ sublinear/NN hashing/VBG scheme/NN for/IN MIPS/NNP possible/JJ ./.
+In/IN the/DT extended/JJ asymmetric/JJ LSH/NN (/-LRB- ALSH/NNP )/-RRB- framework/NN ,/, we/PRP provide/VBP an/DT explicit/JJ construction/NN of/IN provably/RB fast/RB hashing/VBG scheme/NN for/IN MIPS/NNP ./.
+The/DT proposed/VBN construction/NN and/CC the/DT extended/VBN LSH/NN framework/NN could/MD be/VB of/IN independent/JJ theoretical/JJ interest/NN ./.
+Our/PRP$ proposed/VBN algorithm/NN is/VBZ simple/JJ and/CC easy/JJ to/TO implement/VB ./.
+We/PRP evaluate/VBP the/DT method/NN ,/, for/IN retrieving/VBG inner/JJ products/NNS ,/, in/IN the/DT collaborative/JJ filtering/NN task/NN of/IN item/NN recommendations/NNS on/IN Netflix/NNP and/CC Movielens/NNP datasets/NNS ./.

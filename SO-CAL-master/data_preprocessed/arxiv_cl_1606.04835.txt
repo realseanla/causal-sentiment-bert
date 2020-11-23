@@ -1,0 +1,5 @@
+Word/NNP embeddings/NNS play/VBP a/DT significant/JJ role/NN in/IN many/JJ modern/JJ NLP/NN systems/NNS ./.
+However/RB ,/, most/JJS used/JJ word/NN embedding/NN learning/NN methods/NNS learn/VBP one/CD representation/NN per/IN word/NN which/WDT is/VBZ problematic/JJ for/IN polysemous/JJ words/NNS and/CC homonymous/JJ words/NNS ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP propose/VBP a/DT multi-phase/JJ word/NN sense/NN embedding/NN retrofitting/NN method/NN which/WDT utilizes/VBZ a/DT lexical/JJ ontology/NN to/TO learn/VB one/CD embedding/NN per/IN word/NN sense/NN ./.
+We/PRP use/VBP word/NN sense/NN definitions/NNS and/CC relations/NNS between/IN word/NN senses/NNS defined/VBN in/IN a/DT lexical/JJ ontology/NN in/IN a/DT different/JJ way/NN from/IN existing/VBG systems/NNS ./.
+Experimental/JJ results/NNS on/IN word/NN similarity/NN task/NN show/VBP that/IN our/PRP$ approach/NN remarkablely/RB improves/VBZ the/DT quality/NN of/IN embeddings/NNS ./.

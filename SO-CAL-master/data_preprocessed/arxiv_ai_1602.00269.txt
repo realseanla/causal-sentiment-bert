@@ -1,0 +1,8 @@
+This/DT paper/NN describes/VBZ about/IN information/NN extraction/NN system/NN ,/, which/WDT is/VBZ an/DT extension/NN of/IN the/DT system/NN developed/VBN by/IN team/NN Hitachi/NNP for/IN "/`` Disease/NNP //HYPH Disorder/NNP Template/NNP filling/VBG "/`` task/NN organized/VBN by/IN ShARe/NN //HYPH CLEF/NN eHealth/NN Evolution/NN Lab/NN 2014/CD ./.
+In/IN this/DT extension/NN module/NN we/PRP focus/VBP on/IN extraction/NN of/IN numerical/JJ attributes/NNS and/CC values/NNS from/IN discharge/NN summary/NN records/NNS and/CC associating/VBG correct/JJ relation/NN between/IN attributes/NNS and/CC values/NNS ./.
+We/PRP solve/VB the/DT problem/NN in/IN two/CD steps/NNS ./.
+First/JJ step/NN is/VBZ extraction/NN of/IN numerical/JJ attributes/NNS and/CC values/NNS ,/, which/WDT is/VBZ developed/VBN as/IN a/DT Named/VBN Entity/NN Recognition/NN (/-LRB- NER/NN )/-RRB- model/NN using/VBG Stanford/NNP NLP/NNP libraries/NNS ./.
+Second/JJ step/NN is/VBZ correctly/RB associating/VBG the/DT attributes/NNS to/IN values/NNS ,/, which/WDT is/VBZ developed/VBN as/IN a/DT relation/NN extraction/NN module/NN in/IN Apache/NNP cTAKES/NNP framework/NN ./.
+We/PRP integrated/VBD Stanford/NNP NER/NN model/NN as/IN cTAKES/NNP pipeline/NN component/NN and/CC used/VBN in/IN relation/NN extraction/NN module/NN ./.
+Conditional/JJ Random/NNP Field/NNP (/-LRB- CRF/NNP )/-RRB- algorithm/NN is/VBZ used/VBN for/IN NER/NN and/CC Support/NN Vector/NNP Machines/NNPS (/-LRB- SVM/NNP )/-RRB- for/IN relation/NN extraction/NN ./.
+For/IN attribute/NN value/NN relation/NN extraction/NN ,/, we/PRP observe/VBP 95/CD percent/NN accuracy/NN using/VBG NER/NN alone/RB and/CC combined/VBN accuracy/NN of/IN 87/CD percent/NN with/IN NER/NN and/CC SVM/NN ./.

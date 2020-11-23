@@ -1,0 +1,8 @@
+Gear/NNP drives/NNS are/VBP one/CD of/IN the/DT most/RBS widely/RB used/VBN transmission/NN system/NN in/IN many/JJ machinery/NN ./.
+Sound/VB signals/NNS of/IN a/DT rotating/VBG machine/NN contain/VBP the/DT dynamic/JJ information/NN about/IN its/PRP$ health/NN conditions/NNS ./.
+Not/RB much/JJ information/NN available/JJ in/IN the/DT literature/NN reporting/VBG suitability/NN of/IN sound/JJ signals/NNS for/IN fault/NN diagnosis/NN applications/NNS ./.
+Maximum/JJ numbers/NNS of/IN literature/NN are/VBP based/VBN on/IN FFT/NN (/-LRB- Fast/JJ Fourier/NNP Transform/NNP )/-RRB- analysis/NN and/CC have/VB its/PRP$ own/JJ limitations/NNS with/IN non-stationary/JJ signals/NNS like/IN the/DT ones/NNS from/IN gears/NNS ./.
+In/IN this/DT paper/NN ,/, attempt/NN has/VBZ been/VBN made/VBN in/IN using/VBG sound/JJ signals/NNS acquired/VBN from/IN gears/NNS in/IN good/JJ and/CC simulated/JJ faulty/JJ conditions/NNS for/IN the/DT purpose/NN of/IN fault/NN diagnosis/NN through/IN a/DT machine/NN learning/NN approach/NN ./.
+The/DT descriptive/JJ statistical/JJ features/NNS were/VBD extracted/VBN from/IN the/DT acquired/VBN sound/NN signals/NNS and/CC the/DT predominant/JJ features/NNS were/VBD selected/VBN using/VBG J48/NN decision/NN tree/NN technique/NN ./.
+The/DT selected/VBN features/NNS were/VBD then/RB used/VBN for/IN classification/NN using/VBG Large/JJ Margin/NN K/NN -/HYPH nearest/JJS neighbor/NN approach/NN ./.
+The/DT paper/NN also/RB discusses/VBZ the/DT effect/NN of/IN various/JJ parameters/NNS on/IN classification/NN accuracy/NN ./.

@@ -1,0 +1,7 @@
+Predicting/NNP protein/NN properties/NNS such/JJ as/IN solvent/JJ accessibility/NN and/CC secondary/JJ structure/NN from/IN its/PRP$ primary/JJ amino/NN acid/NN sequence/NN is/VBZ an/DT important/JJ task/NN in/IN bioinformatics/NN ./.
+Recently/RB ,/, a/DT few/JJ deep/JJ learning/NN models/NNS have/VBP surpassed/VBN the/DT traditional/JJ window/NN based/VBN multilayer/JJ perceptron/NN ./.
+Taking/VBG inspiration/NN from/IN the/DT image/NN classification/NN domain/NN we/PRP propose/VBP a/DT deep/JJ convolutional/JJ neural/JJ network/NN architecture/NN ,/, MUST/MD -/HYPH CNN/NNP ,/, to/TO predict/VB protein/NN properties/NNS ./.
+This/DT architecture/NN uses/VBZ a/DT novel/JJ multilayer/JJ shift/NN -/HYPH and/CC -/HYPH stitch/VB (/-LRB- MUST/MD )/-RRB- technique/NN to/TO generate/VB fully/RB dense/JJ per/IN -/HYPH position/NN predictions/NNS on/IN protein/NN sequences/NNS ./.
+Our/PRP$ model/NN is/VBZ significantly/RB simpler/JJR than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ,/, yet/CC achieves/VBZ better/JJR results/NNS ./.
+By/IN combining/VBG MUST/MD and/CC the/DT efficient/JJ convolution/NN operation/NN ,/, we/PRP can/MD consider/VB far/RB more/RBR parameters/NNS while/IN retaining/VBG very/RB fast/RB prediction/NN speeds/NNS ./.
+We/PRP beat/VBD the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN two/CD large/JJ protein/NN property/NN prediction/NN datasets/NNS ./.

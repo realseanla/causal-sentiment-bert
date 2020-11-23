@@ -1,0 +1,9 @@
+Machine/NN Transliteration/NN has/VBZ come/VBN out/RP to/TO be/VB an/DT emerging/VBG and/CC a/DT very/RB important/JJ research/NN area/NN in/IN the/DT field/NN of/IN machine/NN translation/NN ./.
+Transliteration/NN basically/RB aims/VBZ to/TO preserve/VB the/DT phonological/JJ structure/NN of/IN words/NNS ./.
+Proper/JJ transliteration/NN of/IN name/NN entities/NNS plays/VBZ a/DT very/RB significant/JJ role/NN in/IN improving/VBG the/DT quality/NN of/IN machine/NN translation/NN ./.
+In/IN this/DT paper/NN we/PRP are/VBP doing/VBG machine/NN transliteration/NN for/IN English/NNP -/HYPH Punjabi/NNP language/NN pair/NN using/VBG rule/NN based/VBN approach/NN ./.
+We/PRP have/VBP constructed/VBN some/DT rules/NNS for/IN syllabification/NN ./.
+Syllabification/NN is/VBZ the/DT process/NN to/TO extract/VB or/CC separate/VB the/DT syllable/NN from/IN the/DT words/NNS ./.
+In/IN this/DT we/PRP are/VBP calculating/VBG the/DT probabilities/NNS for/IN name/NN entities/NNS (/-LRB- Proper/JJ names/NNS and/CC location/NN )/-RRB- ./.
+For/IN those/DT words/NNS which/WDT do/VBP not/RB come/VBN under/IN the/DT category/NN of/IN name/NN entities/NNS ,/, separate/JJ probabilities/NNS are/VBP being/VBG calculated/VBN by/IN using/VBG relative/JJ frequency/NN through/IN a/DT statistical/JJ machine/NN translation/NN toolkit/NN known/VBN as/IN MOSES/NNP ./.
+Using/VBG these/DT probabilities/NNS we/PRP are/VBP transliterating/VBG our/PRP$ input/NN text/NN from/IN English/NNP to/IN Punjabi/NNP ./.

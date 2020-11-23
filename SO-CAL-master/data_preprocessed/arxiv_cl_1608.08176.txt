@@ -1,0 +1,10 @@
+Topic/NN Modeling/VBG finds/VBZ human/JJ -/HYPH readable/JJ structures/NNS in/IN large/JJ sets/NNS of/IN unstructured/JJ SE/NNP data/NNS ./.
+A/DT widely/RB used/VBN topic/NN modeler/NN is/VBZ Latent/JJ Dirichlet/NNP Allocation/NNP ./.
+When/WRB run/VBN on/IN SE/NNP data/NNS ,/, LDA/NNP suffers/VBZ from/IN "/`` order/NN effects/NNS "/'' i.e./FW different/JJ topics/NNS be/VB generated/VBN if/IN the/DT training/NN data/NNS was/VBD shuffled/VBN into/IN a/DT different/JJ order/NN ./.
+Such/JJ order/NN effects/NNS introduce/VBP a/DT systematic/JJ error/NN for/IN any/DT study/NN that/WDT uses/VBZ topics/NNS to/TO make/VB conclusions/NNS ./.
+This/DT paper/NN introduces/VBZ LDADE/NNP ,/, a/DT Search/NN -/HYPH Based/VBN SE/NNP tool/NN that/WDT tunes/VBZ LDA/NNP 's/POS parameters/NNS using/VBG DE/NN (/-LRB- Differential/NNP Evolution/NNP )/-RRB- ./.
+LDADE/NNP has/VBZ been/VBN tested/VBN on/IN data/NNS from/IN a/DT programmer/NN information/NN exchange/NN site/NN (/-LRB- Stackoverflow/NNP )/-RRB- ,/, title/NN and/CC abstract/JJ text/NN of/IN thousands/NNS of/IN SE/NNP papers/NNS ,/, and/CC software/NN defect/NN reports/VBZ from/IN NASA/NNP ./.
+Results/NNS were/VBD collected/VBN across/IN different/JJ implementations/NNS of/IN LDA/NN (/-LRB- Python/NN Scikit/NN -/HYPH Learn/VB ,/, Scala/NNP Spark/NNP )/-RRB- ;/: across/IN different/JJ platforms/NNS (/-LRB- Linux/NNP ,/, Macintosh/NNP )/-RRB- and/CC for/IN different/JJ kinds/NNS of/IN LDAs/NNS (/-LRB- the/DT traditional/JJ VEM/NN method/NN ,/, or/CC using/VBG Gibbs/NNP sampling/NN )/-RRB- ./.
+In/IN all/DT tests/NNS ,/, the/DT pattern/NN was/VBD the/DT same/JJ :/: LDADE/NNP 's/POS tunings/NNS dramatically/RB reduces/VBZ topic/NN instability/NN ./.
+The/DT implications/NNS of/IN this/DT study/NN for/IN other/JJ software/NN analytics/NNS tasks/NNS is/VBZ now/RB an/DT open/JJ and/CC pressing/JJ issue/NN ./.
+In/IN how/WRB many/JJ domains/NNS can/MD search/VB -/HYPH based/VBN SE/NNP dramatically/RB improve/VB software/NN analytics/NNS ?/.

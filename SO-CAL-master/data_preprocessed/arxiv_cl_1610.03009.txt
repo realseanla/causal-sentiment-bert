@@ -1,0 +1,8 @@
+Speaker/NNP verification/NN systems/NNS are/VBP vulnerable/JJ to/IN spoofing/NN attacks/NNS which/WDT presents/VBZ a/DT major/JJ problem/NN in/IN their/PRP$ real/JJ -/HYPH life/NN deployment/NN ./.
+To/IN date/NN ,/, most/JJS of/IN the/DT proposed/VBN synthetic/JJ speech/NN detectors/NNS (/-LRB- SSDs/NNS )/-RRB- have/VBP weighted/VBN the/DT importance/NN of/IN different/JJ segments/NNS of/IN speech/NN equally/RB ./.
+However/RB ,/, different/JJ attack/NN methods/NNS have/VBP different/JJ strengths/NNS and/CC weaknesses/NNS and/CC the/DT traces/NNS that/WDT they/PRP leave/VBP may/MD be/VB short/JJ or/CC long/JJ term/NN acoustic/JJ artifacts/NNS ./.
+Moreover/RB ,/, those/DT may/MD occur/VB for/IN only/RB particular/JJ phonemes/NNS or/CC sounds/NNS ./.
+Here/RB ,/, we/PRP propose/VBP three/CD algorithms/NNS that/WDT weigh/VBP likelihood/NN -/HYPH ratio/NN scores/NNS of/IN individual/JJ frames/NNS ,/, phonemes/NNS ,/, and/CC sound/VB -/HYPH classes/NNS depending/VBG on/IN their/PRP$ importance/NN for/IN the/DT SSD/NN ./.
+Significant/JJ improvement/NN over/IN the/DT baseline/NN system/NN has/VBZ been/VBN obtained/VBN for/IN known/JJ attack/NN methods/NNS that/WDT were/VBD used/VBN in/IN training/VBG the/DT SSDs/NNS ./.
+However/RB ,/, improvement/NN with/IN unknown/JJ attack/NN types/NNS was/VBD not/RB substantial/JJ ./.
+Thus/RB ,/, the/DT type/NN of/IN distortions/NNS that/WDT were/VBD caused/VBN by/IN the/DT unknown/JJ systems/NNS were/VBD different/JJ and/CC could/MD not/RB be/VB captured/VBN better/JJR with/IN the/DT proposed/VBN SSD/NN compared/VBN to/IN the/DT baseline/NN SSD/NN ./.

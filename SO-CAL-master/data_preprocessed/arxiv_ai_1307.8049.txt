@@ -1,0 +1,5 @@
+Research/NN on/IN distributed/VBN machine/NN learning/NN algorithms/NNS has/VBZ focused/VBN primarily/RB on/IN one/CD of/IN two/CD extremes/NNS -/HYPH algorithms/NNS that/WDT obey/VBP strict/JJ concurrency/NN constraints/NNS or/CC algorithms/NNS that/WDT obey/VBP few/JJ or/CC no/DT such/JJ constraints/NNS ./.
+We/PRP consider/VBP an/DT intermediate/JJ alternative/NN in/IN which/WDT algorithms/NNS optimistically/RB assume/VBP that/IN conflicts/NNS are/VBP unlikely/JJ and/CC if/IN conflicts/NNS do/VBP arise/VB a/DT conflict/NN -/HYPH resolution/NN protocol/NN is/VBZ invoked/VBN ./.
+We/PRP view/VBP this/DT "/`` optimistic/JJ concurrency/NN control/NN "/'' paradigm/NN as/IN particularly/RB appropriate/JJ for/IN large/JJ -/HYPH scale/NN machine/NN learning/NN algorithms/NNS ,/, particularly/RB in/IN the/DT unsupervised/JJ setting/NN ./.
+We/PRP demonstrate/VBP our/PRP$ approach/NN in/IN three/CD problem/NN areas/NNS :/: clustering/NN ,/, feature/NN learning/NN and/CC online/JJ facility/NN location/NN ./.
+We/PRP evaluate/VBP our/PRP$ methods/NNS via/IN large/JJ -/HYPH scale/NN experiments/NNS in/IN a/DT cluster/NN computing/NN environment/NN ./.

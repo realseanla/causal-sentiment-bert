@@ -1,0 +1,10 @@
+Automatic/JJ image/NN annotation/NN is/VBZ one/CD of/IN the/DT most/RBS challenging/JJ problems/NNS in/IN machine/NN vision/NN areas/NNS ./.
+The/DT goal/NN of/IN this/DT task/NN is/VBZ to/TO predict/VB number/NN of/IN keywords/NNS automatically/RB for/IN images/NNS captured/VBN in/IN real/JJ data/NNS ./.
+Many/JJ methods/NNS are/VBP based/VBN on/IN visual/JJ features/NNS in/IN order/NN to/TO calculate/VB similarities/NNS between/IN image/NN samples/NNS ./.
+But/CC the/DT computation/NN cost/NN of/IN these/DT approaches/NNS is/VBZ very/RB high/JJ ./.
+These/DT methods/NNS require/VBP many/JJ training/NN samples/NNS to/TO be/VB stored/VBN in/IN memory/NN ./.
+To/TO lessen/VB this/DT burden/NN ,/, a/DT number/NN of/IN techniques/NNS have/VBP been/VBN developed/VBN to/TO reduce/VB the/DT number/NN of/IN features/NNS in/IN a/DT dataset/NN ./.
+Manifold/NN learning/NN is/VBZ a/DT popular/JJ approach/NN to/IN nonlinear/JJ dimensionality/NN reduction/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP Diffusion/NNP maps/VBZ manifold/JJ learning/NN method/NN for/IN web/NN image/NN auto/NN -/HYPH annotation/NN task/NN ./.
+Diffusion/NN maps/VBZ manifold/JJ learning/NN method/NN is/VBZ used/VBN to/TO reduce/VB the/DT dimension/NN of/IN some/DT visual/JJ features/NNS ./.
+Extensive/JJ experiments/NNS and/CC analysis/NN on/IN NUS/NNP -/HYPH WIDE/NNP -/HYPH LITE/NNP web/NN image/NN dataset/NN with/IN different/JJ visual/JJ features/NNS show/VBP how/WRB this/DT manifold/JJ learning/NN dimensionality/NN reduction/NN method/NN can/MD be/VB applied/VBN effectively/RB to/IN image/NN annotation/NN ./.

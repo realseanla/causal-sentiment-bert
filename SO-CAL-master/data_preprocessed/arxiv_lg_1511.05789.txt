@@ -1,0 +1,6 @@
+The/DT efficiency/NN of/IN graph/NN -/HYPH based/VBN semi-supervised/JJ algorithms/NNS depends/VBZ on/IN the/DT graph/NN of/IN instances/NNS on/IN which/WDT they/PRP are/VBP applied/VBN ./.
+The/DT instances/NNS are/VBP often/RB in/IN a/DT vectorial/JJ form/NN before/IN a/DT graph/NN linking/VBG them/PRP is/VBZ built/VBN ./.
+The/DT construction/NN of/IN the/DT graph/NN relies/VBZ on/IN a/DT metric/JJ over/IN the/DT vectorial/JJ space/NN that/WDT help/VBP define/VB the/DT weight/NN of/IN the/DT connection/NN between/IN entities/NNS ./.
+The/DT classic/JJ choice/NN for/IN this/DT metric/JJ is/VBZ usually/RB a/DT distance/NN measure/NN or/CC a/DT similarity/NN measure/NN based/VBN on/IN the/DT euclidean/JJ norm/NN ./.
+We/PRP claim/VBP that/IN in/IN some/DT cases/NNS the/DT euclidean/JJ norm/NN on/IN the/DT initial/JJ vectorial/JJ space/NN might/MD not/RB be/VB the/DT more/RBR appropriate/JJ to/TO solve/VB the/DT task/NN efficiently/RB ./.
+We/PRP propose/VBP an/DT algorithm/NN that/WDT aims/VBZ at/IN learning/VBG the/DT most/RBS appropriate/JJ vectorial/JJ representation/NN for/IN building/VBG a/DT graph/NN on/IN which/WDT the/DT task/NN at/IN hand/NN is/VBZ solved/VBN efficiently/RB ./.

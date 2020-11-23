@@ -1,0 +1,9 @@
+Phoneme/NN classification/NN is/VBZ investigated/VBN for/IN linear/JJ feature/NN domains/NNS with/IN the/DT aim/NN of/IN improving/VBG robustness/NN to/IN additive/JJ noise/NN ./.
+In/IN linear/JJ feature/NN domains/NNS noise/NN adaptation/NN is/VBZ exact/JJ ,/, potentially/RB leading/VBG to/IN more/RBR accurate/JJ classification/NN than/IN representations/NNS involving/VBG non-linear/JJ processing/NN and/CC dimensionality/NN reduction/NN ./.
+A/DT generative/JJ framework/NN is/VBZ developed/VBN for/IN isolated/VBN phoneme/NN classification/NN using/VBG linear/JJ features/NNS ./.
+Initial/JJ results/NNS are/VBP shown/VBN for/IN representations/NNS consisting/VBG of/IN concatenated/JJ frames/NNS from/IN the/DT centre/NN of/IN the/DT phoneme/NN ,/, each/DT containing/VBG $/$ f/LS $/$ frames/NNS ./.
+As/IN phonemes/NNS have/VBP variable/JJ duration/NN ,/, no/DT single/JJ $/$ f/LS $/$ is/VBZ optimal/JJ for/IN all/DT phonemes/NNS ,/, therefore/RB an/DT average/NN is/VBZ taken/VBN over/RP models/NNS with/IN a/DT range/NN of/IN values/NNS of/IN $/$ f/LS $/$ ./.
+Results/NNS are/VBP further/RB improved/VBN by/IN including/VBG information/NN from/IN the/DT entire/JJ phoneme/NN and/CC transitions/NNS ./.
+In/IN the/DT presence/NN of/IN additive/JJ noise/NN ,/, classification/NN in/IN this/DT framework/NN performs/VBZ better/JJR than/IN an/DT analogous/JJ PLP/NN classifier/NN ,/, adapted/VBD to/IN noise/NN using/VBG cepstral/JJ mean/NN and/CC variance/NN normalisation/NN ,/, below/IN $/$ 18/CD $/$ dB/CD SNR/NNP ./.
+Finally/RB we/PRP propose/VB classification/NN using/VBG a/DT combination/NN of/IN acoustic/JJ waveform/NN and/CC PLP/NN log/NN -/HYPH likelihoods/NNS ./.
+The/DT combined/VBN classifier/NN performs/VBZ uniformly/RB better/JJR than/IN either/DT of/IN the/DT individual/JJ classifiers/NNS across/IN all/DT noise/NN levels/NNS ./.

@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, a/DT new/JJ method/NN for/IN PPI/NN (/-LRB- proteinprotein/NN interaction/NN )/-RRB- prediction/NN is/VBZ proposed/VBN ./.
+In/IN PPI/NN prediction/NN ,/, a/DT reliable/JJ and/CC sufficient/JJ number/NN of/IN training/NN samples/NNS is/VBZ not/RB available/JJ ,/, but/CC a/DT large/JJ number/NN of/IN unlabeled/JJ samples/NNS is/VBZ in/IN hand/NN ./.
+In/IN the/DT proposed/JJ method/NN ,/, the/DT denoising/NN auto/NN encoders/NNS are/VBP employed/VBN for/IN learning/VBG robust/JJ features/NNS ./.
+The/DT obtained/VBN robust/JJ features/NNS are/VBP used/VBN in/IN order/NN to/TO train/VB a/DT classifier/NN with/IN a/DT better/JJR performance/NN ./.
+The/DT experimental/JJ results/NNS demonstrate/VBP the/DT capabilities/NNS of/IN the/DT proposed/JJ method/NN ./.

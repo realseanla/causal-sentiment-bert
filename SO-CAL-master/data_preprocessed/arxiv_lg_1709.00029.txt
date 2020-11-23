@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT challenge/NN of/IN land/NN use/NN and/CC land/NN cover/NN classification/NN using/VBG remote/JJ sensing/VBG satellite/NN images/NNS ./.
+For/IN this/DT challenging/JJ task/NN ,/, we/PRP use/VBP the/DT openly/RB and/CC freely/RB accessible/JJ Sentinel/NN -/HYPH 2/CD satellite/NN images/NNS provided/VBN within/IN the/DT scope/NN of/IN the/DT Earth/NNP observation/NN program/NN Copernicus/NNP ./.
+The/DT key/JJ contributions/NNS are/VBP as/IN follows/VBZ ./.
+We/PRP present/VBP a/DT novel/JJ dataset/NN based/VBN on/IN satellite/NN images/NNS covering/VBG 13/CD different/JJ spectral/JJ bands/NNS and/CC consisting/VBG of/IN 10/CD classes/NNS with/IN in/IN total/JJ 27,000/CD labeled/VBN images/NNS ./.
+We/PRP evaluate/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN deep/JJ Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNNs/NNS )/-RRB- on/IN this/DT novel/JJ dataset/NN with/IN its/PRP$ different/JJ spectral/JJ bands/NNS ./.
+We/PRP also/RB evaluate/VBP deep/JJ CNNs/NNS on/IN existing/VBG remote/JJ sensing/VBG datasets/NNS and/CC compare/VB the/DT obtained/VBN results/NNS ./.
+With/IN the/DT proposed/VBN novel/NN dataset/NN ,/, we/PRP achieved/VBD an/DT overall/JJ classification/NN accuracy/NN of/IN 98.57/CD percent/NN ./.
+The/DT classification/NN system/NN resulting/VBG from/IN the/DT proposed/VBN research/NN opens/VBZ a/DT gate/NN towards/IN a/DT number/NN of/IN Earth/NNP observation/NN applications/NNS ./.
+We/PRP demonstrate/VBP how/WRB the/DT classification/NN system/NN can/MD be/VB used/VBN for/IN detecting/VBG land/NN use/NN or/CC land/NN cover/NN changes/NNS and/CC how/WRB it/PRP can/MD assist/VB in/IN improving/VBG geographical/JJ maps/NNS ./.

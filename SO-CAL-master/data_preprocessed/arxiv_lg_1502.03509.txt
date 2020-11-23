@@ -1,0 +1,9 @@
+There/EX has/VBZ been/VBN a/DT lot/NN of/IN recent/JJ interest/NN in/IN designing/VBG neural/JJ network/NN models/NNS to/TO estimate/VB a/DT distribution/NN from/IN a/DT set/NN of/IN examples/NNS ./.
+We/PRP introduce/VBP a/DT simple/JJ modification/NN for/IN autoencoder/NN neural/JJ networks/NNS that/WDT yields/VBZ powerful/JJ generative/JJ models/NNS ./.
+Our/PRP$ method/NN masks/NNS the/DT autoencoder/NN 's/POS parameters/NNS to/TO respect/VB autoregressive/JJ constraints/NNS :/: each/DT input/NN is/VBZ reconstructed/VBN only/RB from/IN previous/JJ inputs/NNS in/IN a/DT given/VBN ordering/NN ./.
+Constrained/VBN this/DT way/NN ,/, the/DT autoencoder/NN outputs/NNS can/MD be/VB interpreted/VBN as/IN a/DT set/NN of/IN conditional/JJ probabilities/NNS ,/, and/CC their/PRP$ product/NN ,/, the/DT full/JJ joint/JJ probability/NN ./.
+We/PRP can/MD also/RB train/VB a/DT single/JJ network/NN that/WDT can/MD decompose/VB the/DT joint/JJ probability/NN in/IN multiple/JJ different/JJ orderings/NNS ./.
+Our/PRP$ simple/JJ framework/NN can/MD be/VB applied/VBN to/IN multiple/JJ architectures/NNS ,/, including/VBG deep/JJ ones/NNS ./.
+Vectorized/VBN implementations/NNS ,/, such/JJ as/IN on/IN GPUs/NNS ,/, are/VBP simple/JJ and/CC fast/JJ ./.
+Experiments/NNS demonstrate/VBP that/IN this/DT approach/NN is/VBZ competitive/JJ with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN tractable/JJ distribution/NN estimators/NNS ./.
+At/IN test/NN time/NN ,/, the/DT method/NN is/VBZ significantly/RB faster/RBR and/CC scales/VBZ better/JJR than/IN other/JJ autoregressive/JJ estimators/NNS ./.

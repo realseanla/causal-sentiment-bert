@@ -1,0 +1,9 @@
+A/DT Behavior/NNP Tree/NNP (/-LRB- BT/NNP )/-RRB- is/VBZ a/DT way/NN to/TO structure/VB the/DT switching/NN between/IN different/JJ tasks/NNS in/IN an/DT autonomous/JJ agent/NN ,/, such/JJ as/IN a/DT robot/NN or/CC a/DT virtual/JJ entity/NN in/IN a/DT computer/NN game/NN ./.
+BTs/NNS are/VBP a/DT very/RB efficient/JJ way/NN of/IN creating/VBG complex/JJ systems/NNS that/WDT are/VBP both/DT modular/JJ and/CC reactive/JJ ./.
+These/DT properties/NNS are/VBP crucial/JJ in/IN many/JJ applications/NNS ,/, which/WDT has/VBZ led/VBN to/IN the/DT spread/NN of/IN BT/NNP from/IN computer/NN game/NN programming/NN to/IN many/JJ branches/NNS of/IN AI/NN and/CC Robotics/NNP ./.
+In/IN this/DT book/NN ,/, we/PRP will/MD first/RB give/VB an/DT introduction/NN to/IN BTs/NNP ,/, then/RB we/PRP describe/VBP how/WRB BTs/NNS relate/VBP to/IN ,/, and/CC in/IN many/JJ cases/NNS generalize/VBP ,/, earlier/RBR switching/VBG structures/NNS ./.
+These/DT ideas/NNS are/VBP then/RB used/VBN as/IN a/DT foundation/NN for/IN a/DT set/NN of/IN efficient/JJ and/CC easy/JJ to/TO use/VB design/NN principles/NNS ./.
+Properties/NNP such/JJ as/IN safety/NN ,/, robustness/NN ,/, and/CC efficiency/NN are/VBP important/JJ for/IN an/DT autonomous/JJ system/NN ,/, and/CC we/PRP describe/VBP a/DT set/NN of/IN tools/NNS for/IN formally/RB analyzing/VBG these/DT using/VBG a/DT state/NN space/NN description/NN of/IN BTs/NNS ./.
+With/IN the/DT new/JJ analysis/NN tools/NNS ,/, we/PRP can/MD formalize/VB the/DT descriptions/NNS of/IN how/WRB BTs/NNP generalize/VB earlier/JJR approaches/NNS ./.
+Finally/RB ,/, we/PRP describe/VBP an/DT extended/VBN set/NN of/IN tools/NNS to/TO capture/VB the/DT behavior/NN of/IN Stochastic/JJ BTs/NNS ,/, where/WRB the/DT outcomes/NNS of/IN actions/NNS are/VBP described/VBN by/IN probabilities/NNS ./.
+These/DT tools/NNS enable/VBP the/DT computation/NN of/IN both/DT success/NN probabilities/NNS and/CC time/NN to/IN completion/NN ./.

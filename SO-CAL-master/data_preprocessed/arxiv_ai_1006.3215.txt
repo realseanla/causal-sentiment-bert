@@ -1,0 +1,6 @@
+Functional/JJ constraints/NNS and/CC bi-functional/JJ constraints/NNS are/VBP an/DT important/JJ constraint/NN class/NN in/IN Constraint/NNP Programming/NNP (/-LRB- CP/NN )/-RRB- systems/NNS ,/, in/IN particular/JJ for/IN Constraint/NN Logic/NN Programming/NN (/-LRB- CLP/NN )/-RRB- systems/NNS ./.
+CP/NN systems/NNS with/IN finite/JJ domain/NN constraints/NNS usually/RB employ/VBP CSP/NNP -/HYPH based/VBN solvers/NNS which/WDT use/VBP local/JJ consistency/NN ,/, for/IN example/NN ,/, arc/NN consistency/NN ./.
+We/PRP introduce/VBP a/DT new/JJ approach/NN which/WDT is/VBZ based/VBN instead/RB on/IN variable/JJ substitution/NN ./.
+We/PRP obtain/VBP efficient/JJ algorithms/NNS for/IN reducing/VBG systems/NNS involving/VBG functional/JJ and/CC bi-functional/JJ constraints/NNS together/RB with/IN other/JJ non-functional/JJ constraints/NNS ./.
+It/PRP also/RB solves/VBZ globally/RB any/DT CSP/NNP where/WRB there/EX exists/VBZ a/DT variable/JJ such/JJ that/IN any/DT other/JJ variable/NN is/VBZ reachable/JJ from/IN it/PRP through/IN a/DT sequence/NN of/IN functional/JJ constraints/NNS ./.
+Our/PRP$ experiments/NNS on/IN random/JJ problems/NNS show/VBP that/IN variable/JJ elimination/NN can/MD significantly/RB improve/VB the/DT efficiency/NN of/IN solving/VBG problems/NNS with/IN functional/JJ constraints/NNS ./.

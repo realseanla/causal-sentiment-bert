@@ -1,0 +1,6 @@
+Knowledge/NN Representation/NN is/VBZ important/JJ issue/NN in/IN reinforcement/NN learning/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP bridge/VBP the/DT gap/NN between/IN reinforcement/NN learning/NN and/CC knowledge/NN representation/NN ,/, by/IN providing/VBG a/DT rich/JJ knowledge/NN representation/NN framework/NN ,/, based/VBN on/IN normal/JJ logic/NN programs/NNS with/IN answer/NN set/VBN semantics/NNS ,/, that/DT is/VBZ capable/JJ of/IN solving/VBG model/NN -/HYPH free/JJ reinforcement/NN learning/VBG problems/NNS for/IN more/RBR complex/JJ do/VB -/HYPH mains/NNS and/CC exploits/NNS the/DT domain/NN -/HYPH specific/JJ knowledge/NN ./.
+We/PRP prove/VBP the/DT correctness/NN of/IN our/PRP$ approach/NN ./.
+We/PRP show/VBP that/IN the/DT complexity/NN of/IN finding/VBG an/DT offline/RB and/CC online/RB policy/NN for/IN a/DT model/NN -/HYPH free/JJ reinforcement/NN learning/VBG problem/NN in/IN our/PRP$ approach/NN is/VBZ NP/NNP -/HYPH complete/JJ ./.
+Moreover/RB ,/, we/PRP show/VBP that/IN any/DT model/NN -/HYPH free/JJ reinforcement/NN learning/VBG problem/NN in/IN MDP/NNP environment/NN can/MD be/VB encoded/VBN as/IN a/DT SAT/NN problem/NN ./.
+The/DT importance/NN of/IN that/DT is/VBZ model/NN -/HYPH free/JJ reinforcement/NN

@@ -1,0 +1,5 @@
+We/PRP present/VBP two/CD related/JJ methods/NNS for/IN creating/VBG MasterPrints/NNPS ,/, synthetic/JJ fingerprints/NNS that/WDT a/DT fingerprint/NN verification/NN system/NN identifies/VBZ as/IN many/JJ different/JJ people/NNS ./.
+Both/DT methods/NNS start/VBP with/IN training/VBG a/DT Generative/JJ Adversarial/NNP Network/NNP (/-LRB- GAN/NNP )/-RRB- on/IN a/DT set/NN of/IN real/JJ fingerprint/NN images/NNS ./.
+The/DT generator/NN network/NN is/VBZ then/RB used/VBN to/TO search/VB for/IN images/NNS that/WDT can/MD be/VB recognized/VBN as/IN multiple/JJ individuals/NNS ./.
+The/DT first/JJ method/NN uses/VBZ evolutionary/JJ optimization/NN in/IN the/DT space/NN of/IN latent/JJ variables/NNS ,/, and/CC the/DT second/JJ uses/VBZ gradient/NN -/HYPH based/VBN search/NN ./.
+Our/PRP$ method/NN is/VBZ able/JJ to/TO design/VB a/DT MasterPrint/NNP that/IN a/DT commercial/JJ fingerprint/NN system/NN matches/VBZ to/IN 22/CD percent/NN of/IN all/DT users/NNS in/IN a/DT strict/JJ security/NN setting/NN ,/, and/CC 75/CD percent/NN of/IN all/DT users/NNS at/IN a/DT looser/JJR security/NN setting/NN ./.

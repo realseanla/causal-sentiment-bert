@@ -1,0 +1,7 @@
+Belief/NN Propagation/NN (/-LRB- BP/NN )/-RRB- is/VBZ a/DT popular/JJ ,/, distributed/VBN heuristic/NN for/IN performing/VBG MAP/NN computations/NNS in/IN Graphical/JJ Models/NNS ./.
+BP/NN can/MD be/VB interpreted/VBN ,/, from/IN a/DT variational/JJ perspective/NN ,/, as/IN minimizing/VBG the/DT Bethe/NNP Free/NNP Energy/NNP (/-LRB- BFE/NNP )/-RRB- ./.
+BP/NN can/MD also/RB be/VB used/VBN to/TO solve/VB a/DT special/JJ class/NN of/IN Linear/NNP Programming/NNP (/-LRB- LP/NNP )/-RRB- problems/NNS ./.
+For/IN this/DT class/NN of/IN problems/NNS ,/, MAP/NN inference/NN can/MD be/VB stated/VBN as/IN an/DT integer/NN LP/NN with/IN an/DT LP/NN relaxation/NN that/WDT coincides/VBZ with/IN minimization/NN of/IN the/DT BFE/NNP at/IN ``/`` zero/CD temperature/NN "/'' ./.
+We/PRP generalize/VBP these/DT prior/JJ results/NNS and/CC establish/VB a/DT tight/JJ characterization/NN of/IN the/DT LP/NN problems/NNS that/WDT can/MD be/VB formulated/VBN as/IN an/DT equivalent/JJ LP/NN relaxation/NN of/IN MAP/NN inference/NN ./.
+Moreover/RB ,/, we/PRP suggest/VBP an/DT efficient/JJ ,/, iterative/JJ annealing/VBG BP/NN algorithm/NN for/IN solving/VBG this/DT broader/JJR class/NN of/IN LP/NN problems/NNS ./.
+We/PRP demonstrate/VBP the/DT algorithm/NN 's/POS performance/NN on/IN a/DT set/NN of/IN weighted/JJ matching/NN problems/NNS by/IN using/VBG it/PRP as/IN a/DT cutting/NN plane/NN method/NN to/TO solve/VB a/DT sequence/NN of/IN LPs/NNS tightened/VBN by/IN adding/VBG ``/`` blossom/NN ''/'' inequalities/NNS ./.

@@ -1,0 +1,6 @@
+Service/NN level/NN agreement/NN (/-LRB- SLA/NN )/-RRB- is/VBZ an/DT essential/JJ part/NN of/IN cloud/NN systems/NNS to/TO ensure/VB maximum/JJ availability/NN of/IN services/NNS for/IN customers/NNS ./.
+With/IN a/DT violation/NN of/IN SLA/NNP ,/, the/DT provider/NN has/VBZ to/TO pay/VB penalties/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP explore/VBP two/CD machine/NN learning/NN models/NNS :/: Naive/NNP Bayes/NNP and/CC Random/NNP Forest/NNP Classifiers/NNPS to/TO predict/VB SLA/NN violations/NNS ./.
+Since/IN SLA/NN violations/NNS are/VBP a/DT rare/JJ event/NN in/IN the/DT real/JJ world/NN (/-LRB- ~/SYM 0.2/CD percent/NN )/-RRB- ,/, the/DT classification/NN task/NN becomes/VBZ more/RBR challenging/JJ ./.
+In/IN order/NN to/TO overcome/VB these/DT challenges/NNS ,/, we/PRP use/VBP several/JJ re-sampling/JJ methods/NNS ./.
+We/PRP find/VBP that/IN random/JJ forests/NNS with/IN SMOTE/NN -/HYPH ENN/NNP re-sampling/VBG have/VBP the/DT best/JJS performance/NN among/IN other/JJ methods/NNS with/IN the/DT accuracy/NN of/IN 99.88/CD percent/NN and/CC F_1/NN score/NN of/IN 0.9980/CD ./.

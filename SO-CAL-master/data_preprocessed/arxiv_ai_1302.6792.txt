@@ -1,0 +1,9 @@
+Bayesian/JJ belief/NN network/NN learning/NN algorithms/NNS have/VBP three/CD basic/JJ components/NNS :/: a/DT measure/NN of/IN a/DT network/NN structure/NN and/CC a/DT database/NN ,/, a/DT search/NN heuristic/NN that/WDT chooses/VBZ network/NN structures/NNS to/TO be/VB considered/VBN ,/, and/CC a/DT method/NN of/IN estimating/VBG the/DT probability/NN tables/NNS from/IN the/DT database/NN ./.
+This/DT paper/NN contributes/VBZ to/IN all/PDT these/DT three/CD topics/NNS ./.
+The/DT behavior/NN of/IN the/DT Bayesian/JJ measure/NN of/IN Cooper/NNP and/CC Herskovits/NNP and/CC a/DT minimum/JJ description/NN length/NN (/-LRB- MDL/NN )/-RRB- measure/NN are/VBP compared/VBN with/IN respect/NN to/IN their/PRP$ properties/NNS for/IN both/DT limiting/VBG size/NN and/CC finite/NN size/NN databases/NNS ./.
+It/PRP is/VBZ shown/VBN that/IN the/DT MDL/NNP measure/NN has/VBZ more/JJR desirable/JJ properties/NNS than/IN the/DT Bayesian/JJ measure/NN when/WRB a/DT distribution/NN is/VBZ to/TO be/VB learned/VBN ./.
+It/PRP is/VBZ shown/VBN that/IN selecting/VBG belief/NN networks/NNS with/IN certain/JJ minimallity/NN properties/NNS is/VBZ NP/NNP -/HYPH hard/JJ ./.
+This/DT result/NN justifies/VBZ the/DT use/NN of/IN search/NN heuristics/NNS instead/RB of/IN exact/JJ algorithms/NNS for/IN choosing/VBG network/NN structures/NNS to/TO be/VB considered/VBN ./.
+In/IN some/DT cases/NNS ,/, a/DT collection/NN of/IN belief/NN networks/NNS can/MD be/VB represented/VBN by/IN a/DT single/JJ belief/NN network/NN which/WDT leads/VBZ to/IN a/DT new/JJ kind/NN of/IN probability/NN table/NN estimation/NN called/VBN smoothing/NN ./.
+We/PRP argue/VBP that/IN smoothing/NN can/MD be/VB efficiently/RB implemented/VBN by/IN incorporating/VBG it/PRP in/IN the/DT search/NN heuristic/NN ./.
+Experimental/JJ results/NNS suggest/VBP that/IN for/IN learning/VBG probabilities/NNS of/IN belief/NN networks/NNS smoothing/VBG is/VBZ helpful/JJ ./.

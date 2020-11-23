@@ -1,0 +1,5 @@
+Syntactic/JJ parsers/NNS perform/VBP poorly/RB in/IN prediction/NN of/IN Argument/NN -/HYPH Cluster/NN Coordination/NN (/-LRB- ACC/NN )/-RRB- ./.
+We/PRP change/VBP the/DT PTB/NN representation/NN of/IN ACC/NN to/TO be/VB more/RBR suitable/JJ for/IN learning/VBG by/IN a/DT statistical/JJ PCFG/NN parser/NN ,/, affecting/VBG 125/CD trees/NNS in/IN the/DT training/NN set/NN ./.
+Training/VBG on/IN the/DT modified/VBN trees/NNS yields/VBZ a/DT slight/JJ improvement/NN in/IN EVALB/NN scores/NNS on/IN sections/NNS 22/CD and/CC 23/CD ./.
+The/DT main/JJ evaluation/NN is/VBZ on/IN a/DT corpus/NN of/IN 4th/JJ grade/NN science/NN exams/NNS ,/, in/IN which/WDT ACC/NN structures/NNS are/VBP prevalent/JJ ./.
+On/IN this/DT corpus/NN ,/, we/PRP obtain/VBP an/DT impressive/JJ x2/NN .7/NN improvement/NN in/IN recovering/VBG ACC/NN structures/NNS compared/VBN to/IN a/DT parser/NN trained/VBN on/IN the/DT original/JJ PTB/NN trees/NNS ./.

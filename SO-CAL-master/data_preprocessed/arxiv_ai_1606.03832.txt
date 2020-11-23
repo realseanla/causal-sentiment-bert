@@ -1,0 +1,12 @@
+Community/NN detection/NN has/VBZ attracted/VBN considerable/JJ attention/NN crossing/VBG many/JJ areas/NNS as/IN it/PRP can/MD be/VB used/VBN for/IN discovering/VBG the/DT structure/NN and/CC features/NNS of/IN complex/JJ networks/NNS ./.
+With/IN the/DT increasing/VBG size/NN of/IN social/JJ networks/NNS in/IN real/JJ world/NN ,/, community/NN detection/NN approaches/NNS should/MD be/VB fast/JJ and/CC accurate/JJ ./.
+The/DT Label/NN Propagation/NN Algorithm/NN (/-LRB- LPA/NN )/-RRB- is/VBZ known/VBN to/TO be/VB one/CD of/IN the/DT near/JJ -/HYPH linear/JJ solutions/NNS and/CC benefits/NNS of/IN easy/JJ implementation/NN ,/, thus/RB it/PRP forms/VBZ a/DT good/JJ basis/NN for/IN efficient/JJ community/NN detection/NN methods/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP extend/VBP the/DT update/NN rule/NN and/CC propagation/NN criterion/NN of/IN LPA/NNP in/IN the/DT framework/NN of/IN belief/NN functions/NNS ./.
+A/DT new/JJ community/NN detection/NN approach/NN ,/, called/VBN Evidential/JJ Label/NN Propagation/NN (/-LRB- ELP/NNP )/-RRB- ,/, is/VBZ proposed/VBN as/IN an/DT enhanced/VBN version/NN of/IN conventional/JJ LPA/NN ./.
+The/DT node/NN influence/NN is/VBZ first/RB defined/VBN to/TO guide/VB the/DT propagation/NN process/NN ./.
+The/DT plausibility/NN is/VBZ used/VBN to/TO determine/VB the/DT domain/NN label/NN of/IN each/DT node/NN ./.
+The/DT update/NN order/NN of/IN nodes/NNS is/VBZ discussed/VBN to/TO improve/VB the/DT robustness/NN of/IN the/DT method/NN ./.
+ELP/NNP algorithm/NN will/MD converge/VB after/IN the/DT domain/NN labels/NNS of/IN all/PDT the/DT nodes/NNS become/VBP unchanged/JJ ./.
+The/DT mass/NN assignments/NNS are/VBP calculated/VBN finally/RB as/IN memberships/NNS of/IN nodes/NNS ./.
+The/DT overlapping/VBG nodes/NNS and/CC outliers/NNS can/MD be/VB detected/VBN simultaneously/RB through/IN the/DT proposed/JJ method/NN ./.
+The/DT experimental/JJ results/NNS demonstrate/VBP the/DT effectiveness/NN of/IN ELP/NNP ./.

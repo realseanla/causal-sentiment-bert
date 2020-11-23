@@ -1,0 +1,10 @@
+Semi-supervised/VBN clustering/NN is/VBZ an/DT very/RB important/JJ topic/NN in/IN machine/NN learning/NN and/CC computer/NN vision/NN ./.
+The/DT key/JJ challenge/NN of/IN this/DT problem/NN is/VBZ how/WRB to/TO learn/VB a/DT metric/JJ ,/, such/JJ that/IN the/DT instances/NNS sharing/VBG the/DT same/JJ label/NN are/VBP more/RBR likely/RB close/JJ to/IN each/DT other/JJ on/IN the/DT embedded/VBN space/NN ./.
+However/RB ,/, little/JJ attention/NN has/VBZ been/VBN paid/VBN to/TO learn/VB better/JJR representations/NNS when/WRB the/DT data/NNS lie/VBP on/IN non-linear/JJ manifold/NN ./.
+Fortunately/RB ,/, deep/JJ learning/NN has/VBZ led/VBN to/IN great/JJ success/NN on/IN feature/NN learning/NN recently/RB ./.
+Inspired/VBN by/IN the/DT advances/NNS of/IN deep/JJ learning/NN ,/, we/PRP propose/VBP a/DT deep/JJ transductive/JJ semi-supervised/JJ maximum/JJ margin/NN clustering/NN approach/NN ./.
+More/RBR specifically/RB ,/, given/VBN pairwise/JJ constraints/NNS ,/, we/PRP exploit/VBP both/DT labeled/VBN and/CC unlabeled/JJ data/NNS to/TO learn/VB a/DT non-linear/JJ mapping/NN under/IN maximum/JJ margin/NN framework/NN for/IN clustering/NN analysis/NN ./.
+Thus/RB ,/, our/PRP$ model/NN unifies/VBZ transductive/JJ learning/NN ,/, feature/NN learning/NN and/CC maximum/JJ margin/NN techniques/NNS in/IN the/DT semi-supervised/JJ clustering/NN framework/NN ./.
+We/PRP pretrain/VBP the/DT deep/JJ network/NN structure/NN with/IN restricted/VBN Boltzmann/NNP machines/NNS (/-LRB- RBMs/NNS )/-RRB- layer/NN by/IN layer/NN greedily/RB ,/, and/CC optimize/VB our/PRP$ objective/JJ function/NN with/IN gradient/NN descent/NN ./.
+By/IN checking/VBG the/DT most/RBS violated/VBN constraints/NNS ,/, our/PRP$ approach/NN updates/NNS the/DT model/NN parameters/NNS through/IN error/NN backpropagation/NN ,/, in/IN which/WDT deep/JJ features/NNS are/VBP learned/VBN automatically/RB ./.
+The/DT experimental/JJ results/NNS shows/VBZ that/IN our/PRP$ model/NN is/VBZ significantly/RB better/JJR than/IN the/DT state/NN of/IN the/DT art/NN on/IN semi-supervised/VBN clustering/NN ./.

@@ -1,0 +1,8 @@
+Consider/VB a/DT person/NN trying/VBG to/TO spread/VB an/DT important/JJ message/NN on/IN a/DT social/JJ network/NN ./.
+He/PRP //, she/PRP can/MD spend/VB hours/NNS trying/VBG to/TO craft/VB the/DT message/NN ./.
+Does/VBZ it/PRP actually/RB matter/VB ?/.
+While/IN there/EX has/VBZ been/VBN extensive/JJ prior/JJ work/NN looking/VBG into/IN predicting/VBG popularity/NN of/IN social/JJ -/HYPH media/NN content/NN ,/, the/DT effect/NN of/IN wording/NN per/FW se/FW has/VBZ rarely/RB been/VBN studied/VBN since/IN it/PRP is/VBZ often/RB confounded/VBN with/IN the/DT popularity/NN of/IN the/DT author/NN and/CC the/DT topic/NN ./.
+To/TO control/VB for/IN these/DT confounding/VBG factors/NNS ,/, we/PRP take/VBP advantage/NN of/IN the/DT surprising/JJ fact/NN that/IN there/EX are/VBP many/JJ pairs/NNS of/IN tweets/NNS containing/VBG the/DT same/JJ url/NN and/CC written/VBN by/IN the/DT same/JJ user/NN but/CC employing/VBG different/JJ wording/NN ./.
+Given/VBN such/JJ pairs/NNS ,/, we/PRP ask/VBP :/: which/WDT version/NN attracts/VBZ more/JJR retweets/NNS ?/.
+This/DT turns/VBZ out/RP to/TO be/VB a/DT more/RBR difficult/JJ task/NN than/IN predicting/VBG popular/JJ topics/NNS ./.
+Still/RB ,/, humans/NNS can/MD answer/VB this/DT question/NN better/JJR than/IN chance/NN (/-LRB- but/CC far/RB from/IN perfectly/RB )/-RRB- ,/, and/CC the/DT computational/JJ methods/NNS we/PRP develop/VBP can/MD do/VB better/JJR than/IN both/DT an/DT average/JJ human/JJ and/CC a/DT strong/JJ competing/VBG method/NN trained/VBN on/IN non-controlled/JJ data/NNS ./.

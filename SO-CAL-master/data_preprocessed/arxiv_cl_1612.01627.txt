@@ -1,0 +1,7 @@
+We/PRP study/VBP response/NN selection/NN for/IN multi-turn/JJ conversation/NN in/IN retrieval/NN based/VBN chatbots/NNS ./.
+Existing/VBG works/VBZ either/CC ignores/VBZ relationships/NNS among/IN utterances/NNS ,/, or/CC misses/VBZ important/JJ information/NN in/IN context/NN when/WRB matching/VBG a/DT response/NN with/IN a/DT highly/RB abstract/JJ context/NN vector/NN finally/RB ./.
+We/PRP propose/VBP a/DT new/JJ session/NN based/VBN matching/VBG model/NN to/TO address/VB both/DT problems/NNS ./.
+The/DT model/NN first/RB matches/VBZ a/DT response/NN with/IN each/DT utterance/NN on/IN multiple/JJ granularities/NNS ,/, and/CC distills/VBZ important/JJ matching/VBG information/NN from/IN each/DT pair/NN as/IN a/DT vector/NN with/IN convolution/NN and/CC pooling/VBG operations/NNS ./.
+The/DT vectors/NNS are/VBP then/RB accumulated/VBN in/IN a/DT chronological/JJ order/NN through/IN a/DT recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- which/WDT models/NNS the/DT relationships/NNS among/IN the/DT utterances/NNS ./.
+The/DT final/JJ matching/NN score/NN is/VBZ calculated/VBN with/IN the/DT hidden/JJ states/NNS of/IN the/DT RNN/NN ./.
+Empirical/JJ study/NN on/IN two/CD public/JJ data/NNS sets/NNS shows/VBZ that/IN our/PRP$ model/NN can/MD significantly/RB outperform/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS for/IN response/NN selection/NN in/IN multi-turn/JJ conversation/NN ./.

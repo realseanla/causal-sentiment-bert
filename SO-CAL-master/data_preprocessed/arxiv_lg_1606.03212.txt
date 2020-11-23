@@ -1,0 +1,14 @@
+Unsupervised/JJ learning/NN aims/VBZ at/IN the/DT discovery/NN of/IN hidden/JJ structure/NN that/WDT drives/VBZ the/DT observations/NNS in/IN the/DT real/JJ world/NN ./.
+It/PRP is/VBZ essential/JJ for/IN success/NN in/IN modern/JJ machine/NN learning/NN ./.
+Latent/JJ variable/JJ models/NNS are/VBP versatile/JJ in/IN unsupervised/JJ learning/NN and/CC have/VBP applications/NNS in/IN almost/RB every/DT domain/NN ./.
+Training/VBG latent/JJ variable/JJ models/NNS is/VBZ challenging/VBG due/IN to/IN the/DT non-convexity/NN of/IN the/DT likelihood/NN objective/NN ./.
+An/DT alternative/JJ method/NN is/VBZ based/VBN on/IN the/DT spectral/JJ decomposition/NN of/IN low/JJ order/NN moment/NN tensors/NNS ./.
+This/DT versatile/JJ framework/NN is/VBZ guaranteed/VBN to/TO estimate/VB the/DT correct/JJ model/NN consistently/RB ./.
+My/PRP$ thesis/NN spans/NNS both/CC theoretical/JJ analysis/NN of/IN tensor/NN decomposition/NN framework/NN and/CC practical/JJ implementation/NN of/IN various/JJ applications/NNS ./.
+This/DT thesis/NN presents/VBZ theoretical/JJ results/NNS on/IN convergence/NN to/IN globally/RB optimal/JJ solution/NN of/IN tensor/NN decomposition/NN using/VBG the/DT stochastic/JJ gradient/NN descent/NN ,/, despite/IN non-convexity/NN of/IN the/DT objective/NN ./.
+This/DT is/VBZ the/DT first/JJ work/NN that/WDT gives/VBZ global/JJ convergence/NN guarantees/NNS for/IN the/DT stochastic/JJ gradient/NN descent/NN on/IN non-convex/JJ functions/NNS with/IN exponentially/RB many/JJ local/JJ minima/NN and/CC saddle/NN points/NNS ./.
+This/DT thesis/NN also/RB presents/VBZ large/JJ -/HYPH scale/NN deployment/NN of/IN spectral/JJ methods/NNS carried/VBD out/RP on/IN various/JJ platforms/NNS ./.
+Dimensionality/NN reduction/NN techniques/NNS such/JJ as/IN random/JJ projection/NN are/VBP incorporated/VBN for/IN a/DT highly/RB parallel/JJ and/CC scalable/JJ tensor/NN decomposition/NN algorithm/NN ./.
+We/PRP obtain/VBP a/DT gain/NN in/IN both/CC accuracies/NNS and/CC in/IN running/VBG times/NNS by/IN several/JJ orders/NNS of/IN magnitude/NN compared/VBN to/IN the/DT state/NN -/HYPH of/IN -/HYPH art/NN variational/JJ methods/NNS ./.
+To/TO solve/VB real/JJ world/NN problems/NNS ,/, more/RBR advanced/JJ models/NNS and/CC learning/VBG algorithms/NNS are/VBP proposed/VBN ./.
+This/DT thesis/NN discusses/VBZ generalization/NN of/IN LDA/NNP model/NN to/IN mixed/JJ membership/NN stochastic/JJ block/NN model/NN for/IN learning/VBG user/NN communities/NNS in/IN social/JJ network/NN ,/, convolutional/JJ dictionary/NN model/NN for/IN learning/VBG word/NN -/HYPH sequence/NN embeddings/NNS ,/, hierarchical/JJ tensor/NN decomposition/NN and/CC latent/JJ tree/NN structure/NN model/NN for/IN learning/VBG disease/NN hierarchy/NN ,/, and/CC spatial/JJ point/NN process/NN mixture/NN model/NN for/IN detecting/VBG cell/NN types/NNS in/IN neuroscience/NN ./.

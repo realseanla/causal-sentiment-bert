@@ -1,0 +1,6 @@
+Open/VB -/HYPH domain/NN human/JJ -/HYPH computer/NN conversation/NN has/VBZ been/VBN attracting/VBG increasing/VBG attention/NN over/IN the/DT past/JJ few/JJ years/NNS ./.
+However/RB ,/, there/EX does/VBZ not/RB exist/VB a/DT standard/JJ automatic/JJ evaluation/NN metric/JJ for/IN open/JJ -/HYPH domain/NN dialog/NN systems/NNS ;/: researchers/NNS usually/RB resort/VBP to/IN human/JJ annotation/NN for/IN model/NN evaluation/NN ,/, which/WDT is/VBZ time/NN -/HYPH and/CC labor/NN -/HYPH intensive/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP RUBER/NNP ,/, a/DT Referenced/VBN metric/JJ and/CC Unreferenced/JJ metric/JJ Blended/VBN Evaluation/NN Routine/JJ ,/, which/WDT evaluates/VBZ a/DT reply/NN by/IN taking/VBG into/IN consideration/NN both/CC a/DT groundtruth/JJ reply/NN and/CC a/DT query/NN (/-LRB- previous/JJ user/NN utterance/NN )/-RRB- ./.
+Our/PRP$ metric/JJ is/VBZ learnable/JJ ,/, but/CC its/PRP$ training/NN does/VBZ not/RB require/VB labels/NNS of/IN human/JJ satisfaction/NN ./.
+Hence/RB ,/, RUBER/NNP is/VBZ flexible/JJ and/CC extensible/JJ to/IN different/JJ datasets/NNS and/CC languages/NNS ./.
+Experiments/NNS on/IN both/DT retrieval/NN and/CC generative/JJ dialog/NN systems/NNS show/VBP that/IN RUBER/NNP has/VBZ high/JJ correlation/NN with/IN human/JJ annotation/NN ./.

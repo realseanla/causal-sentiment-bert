@@ -1,0 +1,6 @@
+Learning/VBG multiple/JJ tasks/NNS across/IN heterogeneous/JJ domains/NNS is/VBZ a/DT challenging/JJ problem/NN since/IN the/DT feature/NN space/NN may/MD not/RB be/VB the/DT same/JJ for/IN different/JJ tasks/NNS ./.
+We/PRP assume/VBP the/DT data/NNS in/IN multiple/JJ tasks/NNS are/VBP generated/VBN from/IN a/DT latent/JJ common/JJ domain/NN via/IN sparse/JJ domain/NN transforms/VBZ and/CC propose/VB a/DT latent/JJ probit/NN model/NN (/-LRB- LPM/NN )/-RRB- to/TO jointly/RB learn/VB the/DT domain/NN transforms/VBZ ,/, and/CC the/DT shared/VBN probit/NN classifier/NN in/IN the/DT common/JJ domain/NN ./.
+To/TO learn/VB meaningful/JJ task/NN relatedness/NN and/CC avoid/VB over-fitting/VBG in/IN classification/NN ,/, we/PRP introduce/VBP sparsity/NN in/IN the/DT domain/NN transforms/VBZ matrices/NNS ,/, as/RB well/RB as/IN in/IN the/DT common/JJ classifier/NN ./.
+We/PRP derive/VBP theoretical/JJ bounds/NNS for/IN the/DT estimation/NN error/NN of/IN the/DT classifier/NN in/IN terms/NNS of/IN the/DT sparsity/NN of/IN domain/NN transforms/VBZ ./.
+An/DT expectation/NN -/HYPH maximization/NN algorithm/NN is/VBZ derived/VBN for/IN learning/VBG the/DT LPM/NN ./.
+The/DT effectiveness/NN of/IN the/DT approach/NN is/VBZ demonstrated/VBN on/IN several/JJ real/JJ datasets/NNS ./.

@@ -1,0 +1,4 @@
+Many kernel methods suffer from high time and space complexities, so they are prohibitive in big-data applications.
+To tackle the computational challenge, the Nystr\"om method has been extensively used to reduce time and space complexities by sacrificing some accuracy.
+The Nystr\"om method speedups computation by constructing an approximation of the kernel matrix in question using only a few columns of the matrix.
+Recently, a variant of the Nystr\"om method called the modified Nystr\"om method has demonstrated significant improvement over the standard Nystr\"om method in approximation accuracy, both theoretically and empirically.

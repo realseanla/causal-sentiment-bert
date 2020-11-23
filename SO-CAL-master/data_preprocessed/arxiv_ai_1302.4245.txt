@@ -1,0 +1,6 @@
+Gaussian/JJ processes/NNS are/VBP rich/JJ distributions/NNS over/IN functions/NNS ,/, which/WDT provide/VBP a/DT Bayesian/JJ nonparametric/JJ approach/NN to/IN smoothing/NN and/CC interpolation/NN ./.
+We/PRP introduce/VBP simple/JJ closed/JJ form/NN kernels/NNS that/WDT can/MD be/VB used/VBN with/IN Gaussian/JJ processes/NNS to/TO discover/VB patterns/NNS and/CC enable/VB extrapolation/NN ./.
+These/DT kernels/NNS are/VBP derived/VBN by/IN modelling/VBG a/DT spectral/JJ density/NN --/: the/DT Fourier/NNP transform/VB of/IN a/DT kernel/NN --/: with/IN a/DT Gaussian/JJ mixture/NN ./.
+The/DT proposed/VBN kernels/NNS support/VBP a/DT broad/JJ class/NN of/IN stationary/JJ covariances/NNS ,/, but/CC Gaussian/JJ process/NN inference/NN remains/VBZ simple/JJ and/CC analytic/JJ ./.
+We/PRP demonstrate/VBP the/DT proposed/VBN kernels/NNS by/IN discovering/VBG patterns/NNS and/CC performing/VBG long/JJ range/NN extrapolation/NN on/IN synthetic/JJ examples/NNS ,/, as/RB well/RB as/IN atmospheric/JJ CO2/NN trends/NNS and/CC airline/NN passenger/NN data/NNS ./.
+We/PRP also/RB show/VBP that/IN we/PRP can/MD reconstruct/VB standard/JJ covariances/NNS within/IN our/PRP$ framework/NN ./.

@@ -1,0 +1,12 @@
+LAMA/NN is/VBZ a/DT classical/JJ planning/NN system/NN based/VBN on/IN heuristic/NN forward/RB search/VB ./.
+Its/PRP$ core/NN feature/NN is/VBZ the/DT use/NN of/IN a/DT pseudo-heuristic/JJ derived/VBN from/IN landmarks/NNS ,/, propositional/JJ formulas/NNS that/WDT must/MD be/VB true/JJ in/IN every/DT solution/NN of/IN a/DT planning/NN task/NN ./.
+LAMA/NN builds/VBZ on/IN the/DT Fast/JJ Downward/NNP planning/NN system/NN ,/, using/VBG finite/NN -/HYPH domain/NN rather/RB than/IN binary/JJ state/NN variables/NNS and/CC multi-heuristic/JJ search/NN ./.
+The/DT latter/JJ is/VBZ employed/VBN to/TO combine/VB the/DT landmark/NN heuristic/NN with/IN a/DT variant/NN of/IN the/DT well/NN -/HYPH known/VBN FF/NN heuristic/NN ./.
+Both/DT heuristics/NNS are/VBP cost/NN -/HYPH sensitive/JJ ,/, focusing/VBG on/IN high/JJ -/HYPH quality/NN solutions/NNS in/IN the/DT case/NN where/WRB actions/NNS have/VBP non-uniform/JJ cost/NN ./.
+A/DT weighted/JJ A/NN */NFP search/NN is/VBZ used/VBN with/IN iteratively/RB decreasing/VBG weights/NNS ,/, so/IN that/IN the/DT planner/NN continues/VBZ to/TO search/VB for/IN plans/NNS of/IN better/JJR quality/NN until/IN the/DT search/NN is/VBZ terminated/VBN ./.
+LAMA/NN showed/VBD best/JJS performance/NN among/IN all/DT planners/NNS in/IN the/DT sequential/JJ satisficing/NN track/NN of/IN the/DT International/NNP Planning/NNP Competition/NNP 2008/CD ./.
+In/IN this/DT paper/NN we/PRP present/VBP the/DT system/NN in/IN detail/NN and/CC investigate/VB which/WDT features/NNS of/IN LAMA/NN are/VBP crucial/JJ for/IN its/PRP$ performance/NN ./.
+We/PRP present/VBP individual/JJ results/NNS for/IN some/DT of/IN the/DT domains/NNS used/VBN at/IN the/DT competition/NN ,/, demonstrating/VBG good/JJ and/CC bad/JJ cases/NNS for/IN the/DT techniques/NNS implemented/VBN in/IN LAMA/NN ./.
+Overall/RB ,/, we/PRP find/VBP that/IN using/VBG landmarks/NNS improves/VBZ performance/NN ,/, whereas/IN the/DT incorporation/NN of/IN action/NN costs/NNS into/IN the/DT heuristic/NN estimators/NNS proves/VBZ not/RB to/TO be/VB beneficial/JJ ./.
+We/PRP show/VBP that/IN in/IN some/DT domains/NNS a/DT search/NN that/WDT ignores/VBZ cost/NN solves/VBZ far/RB more/RBR problems/NNS ,/, raising/VBG the/DT question/NN of/IN how/WRB to/TO deal/VB with/IN action/NN costs/NNS more/RBR effectively/RB in/IN the/DT future/NN ./.
+The/DT iterated/VBN weighted/VBN A/DT */SYM search/NN greatly/RB improves/VBZ results/NNS ,/, and/CC shows/VBZ synergy/NN effects/NNS with/IN the/DT use/NN of/IN landmarks/NNS ./.

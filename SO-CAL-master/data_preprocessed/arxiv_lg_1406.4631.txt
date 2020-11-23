@@ -1,0 +1,7 @@
+Spectral/JJ learning/NN recently/RB generated/VBD lots/NNS of/IN excitement/NN in/IN machine/NN learning/NN ,/, largely/RB because/IN it/PRP is/VBZ the/DT first/JJ known/JJ method/NN to/TO produce/VB consistent/JJ estimates/NNS (/-LRB- under/IN suitable/JJ conditions/NNS )/-RRB- for/IN several/JJ latent/JJ variable/JJ models/NNS ./.
+In/IN contrast/NN ,/, maximum/JJ likelihood/NN estimates/NNS may/MD get/VB trapped/VBN in/IN local/JJ optima/NNS due/IN to/IN the/DT non-convex/JJ nature/NN of/IN the/DT likelihood/NN function/NN of/IN latent/JJ variable/JJ models/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP do/VBP an/DT empirical/JJ evaluation/NN of/IN spectral/JJ learning/NN (/-LRB- SL/NNP )/-RRB- and/CC expectation/NN maximization/NN (/-LRB- EM/NN )/-RRB- ,/, which/WDT reveals/VBZ an/DT important/JJ gap/NN between/IN the/DT theory/NN and/CC the/DT practice/NN ./.
+First/RB ,/, SL/NNP often/RB leads/VBZ to/IN negative/JJ probabilities/NNS ./.
+Second/RB ,/, EM/NNP often/RB yields/VBZ better/JJR estimates/NNS than/IN spectral/JJ learning/NN and/CC it/PRP does/VBZ not/RB seem/VB to/TO get/VB stuck/VBN in/IN local/JJ optima/NN ./.
+We/PRP discuss/VBP how/WRB the/DT rank/NN of/IN the/DT model/NN parameters/NNS and/CC the/DT amount/NN of/IN training/NN data/NNS can/MD yield/VB negative/JJ probabilities/NNS ./.
+We/PRP also/RB question/VBP the/DT common/JJ belief/NN that/IN maximum/JJ likelihood/NN estimators/NNS are/VBP necessarily/RB inconsistent/JJ ./.

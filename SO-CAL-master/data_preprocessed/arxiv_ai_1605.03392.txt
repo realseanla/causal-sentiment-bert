@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT method/NN for/IN learning/VBG treewidth/NN -/HYPH bounded/VBN Bayesian/JJ networks/NNS from/IN data/NNS sets/NNS containing/VBG thousands/NNS of/IN variables/NNS ./.
+Bounding/VBG the/DT treewidth/NN of/IN a/DT Bayesian/JJ greatly/RB reduces/VBZ the/DT complexity/NN of/IN inferences/NNS ./.
+Yet/RB ,/, being/VBG a/DT global/JJ property/NN of/IN the/DT graph/NN ,/, it/PRP considerably/RB increases/VBZ the/DT difficulty/NN of/IN the/DT learning/NN process/NN ./.
+We/PRP propose/VBP a/DT novel/JJ algorithm/NN for/IN this/DT task/NN ,/, able/JJ to/TO scale/VB to/IN large/JJ domains/NNS and/CC large/JJ treewidths/NNS ./.
+Our/PRP$ novel/JJ approach/NN consistently/RB outperforms/VBZ the/DT state/NN of/IN the/DT art/NN on/IN data/NNS sets/VBZ with/IN up/RB to/IN ten/CD thousand/CD variables/NNS ./.

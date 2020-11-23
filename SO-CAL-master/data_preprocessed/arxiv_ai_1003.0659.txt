@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT novel/JJ particle/NN filtering/VBG algorithm/NN for/IN tracking/VBG a/DT moving/VBG sound/NN source/NN using/VBG a/DT microphone/NN array/NN ./.
+If/IN there/EX are/VBP N/NN microphones/NNS in/IN the/DT array/NN ,/, we/PRP track/VBP all/DT $/$ N/CD \/SYM choose/VB 2/CD $/$ delays/NNS with/IN a/DT single/JJ particle/NN filter/NN over/IN time/NN ./.
+Since/IN it/PRP is/VBZ known/VBN that/IN tracking/VBG in/IN high/JJ dimensions/NNS is/VBZ rife/JJ with/IN difficulties/NNS ,/, we/PRP instead/RB integrate/VBP into/IN our/PRP$ particle/NN filter/NN a/DT model/NN of/IN the/DT low/JJ dimensional/JJ manifold/NN that/WDT these/DT delays/NNS lie/VBP on/RB ./.
+Our/PRP$ manifold/JJ model/NN is/VBZ based/VBN off/IN of/IN work/NN on/IN modeling/VBG low/JJ dimensional/JJ manifolds/NNS via/IN random/JJ projection/NN trees/NNS [/-LRB- 1/CD ]/-RRB- ./.
+In/IN addition/NN ,/, we/PRP also/RB introduce/VBP a/DT new/JJ weighting/NN scheme/NN to/IN our/PRP$ particle/NN filtering/VBG algorithm/NN based/VBN on/IN recent/JJ advancements/NNS in/IN online/JJ learning/NN ./.
+We/PRP show/VBP that/IN our/PRP$ novel/JJ TDOA/NN tracking/VBG algorithm/NN that/WDT integrates/VBZ a/DT manifold/JJ model/NN can/MD greatly/RB outperform/VB standard/JJ particle/NN filters/NNS on/IN this/DT audio/JJ tracking/NN task/NN ./.

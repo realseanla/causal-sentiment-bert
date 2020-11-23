@@ -1,0 +1,7 @@
+How/WRB much/JJ is/VBZ 131/CD million/CD US/NNP dollars/NNS ?/.
+To/TO help/VB readers/NNS put/VB such/JJ numbers/NNS in/IN context/NN ,/, we/PRP propose/VBP a/DT new/JJ task/NN of/IN automatically/RB generating/VBG short/JJ descriptions/NNS known/VBN as/IN perspectives/NNS ,/, e.g./FW "/'' $/$ 131/CD million/CD is/VBZ about/IN the/DT cost/NN to/TO employ/VB everyone/NN in/IN Texas/NNP over/IN a/DT lunch/NN period/NN "/'' ./.
+First/RB ,/, we/PRP collect/VBP a/DT dataset/NN of/IN numeric/JJ mentions/VBZ in/IN news/NN articles/NNS ,/, where/WRB each/DT mention/NN is/VBZ labeled/VBN with/IN a/DT set/NN of/IN rated/VBN perspectives/NNS ./.
+We/PRP then/RB propose/VB a/DT system/NN to/TO generate/VB these/DT descriptions/NNS consisting/VBG of/IN two/CD steps/NNS :/: formula/NN construction/NN and/CC description/NN generation/NN ./.
+In/IN construction/NN ,/, we/PRP compose/VBP formulae/NNS from/IN numeric/JJ facts/NNS in/IN a/DT knowledge/NN base/NN and/CC rank/VB the/DT resulting/VBG formulas/NNS based/VBN on/IN familiarity/NN ,/, numeric/JJ proximity/NN and/CC semantic/JJ compatibility/NN ./.
+In/IN generation/NN ,/, we/PRP convert/VBP a/DT formula/NN into/IN natural/JJ language/NN using/VBG a/DT sequence/NN -/HYPH to/IN -/HYPH sequence/NN recurrent/JJ neural/JJ network/NN ./.
+Our/PRP$ system/NN obtains/VBZ a/DT 15.2/CD percent/NN F1/NN improvement/NN over/IN a/DT non-compositional/JJ baseline/NN at/IN formula/NN construction/NN and/CC a/DT 12.5/CD BLEU/NN point/NN improvement/NN over/IN a/DT baseline/NN description/NN generation/NN ./.

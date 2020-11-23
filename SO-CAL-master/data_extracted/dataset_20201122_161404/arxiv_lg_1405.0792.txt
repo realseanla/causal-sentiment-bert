@@ -1,0 +1,2 @@
+In this paper, we study the problem of learning a monotone DNF with at most $s$ terms of size (number of variables in each term) at most $r$ ($s$ term $r$-MDNF) from membership queries.
+This problem is equivalent to the problem of learning a general hypergraph using hyperedge-detecting queries, a problem motivated by applications arising in chemical reactions and genome sequencing.

@@ -1,0 +1,5 @@
+When a three-dimensional object moves through a scene, a corresponding change occurs on the image plane and in the visual representation constructed by a learning algorithm.
+Starting with the idea that a good representation is one that transforms linearly under scene motions, we use standard results from group representation theory to show that any such representation is equivalent to a combination of particularly simple irreducible representations.
+We derive a striking relationship between irreducibility and the statistical dependency structure of the representation.
+Under partial observability, as induced by the perspective projection of a scene onto the image plane, the motion group does not have a linear action on the space of images, so that it becomes necessary to perform inference over a latent representation that does transform linearly.
+This idea is demonstrated in a model of rotating NORB objects that employs a latent representation of the non-commutative 3D rotation group SO(3).

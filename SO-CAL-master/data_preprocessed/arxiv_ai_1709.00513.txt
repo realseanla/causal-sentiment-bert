@@ -1,0 +1,6 @@
+There/EX is/VBZ an/DT increasing/VBG interest/NN on/IN accelerating/VBG neural/JJ networks/NNS for/IN real/JJ -/HYPH time/NN applications/NNS ./.
+We/PRP study/VBP the/DT student/NN -/HYPH teacher/NN strategy/NN ,/, in/IN which/WDT a/DT small/JJ and/CC fast/JJ student/NN network/NN is/VBZ trained/VBN with/IN the/DT auxiliary/JJ information/NN provided/VBN by/IN a/DT large/JJ and/CC accurate/JJ teacher/NN network/NN ./.
+We/PRP use/VBP conditional/JJ adversarial/JJ networks/NNS to/TO learn/VB the/DT loss/NN function/NN to/TO transfer/VB knowledge/NN from/IN teacher/NN to/IN student/NN ./.
+The/DT proposed/JJ method/NN is/VBZ particularly/RB effective/JJ for/IN relatively/RB small/JJ student/NN networks/NNS ./.
+Moreover/RB ,/, experimental/JJ results/NNS show/VBP the/DT effect/NN of/IN network/NN size/NN when/WRB the/DT modern/JJ networks/NNS are/VBP used/VBN as/IN student/NN ./.
+We/PRP empirically/RB study/VB trade/NN -/HYPH off/NN between/IN inference/NN time/NN and/CC classification/NN accuracy/NN ,/, and/CC provide/VBP suggestions/NNS on/IN choosing/VBG a/DT proper/JJ student/NN ./.

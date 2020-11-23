@@ -1,0 +1,14 @@
+Intrusion/NN detection/NN for/IN computer/NN network/NN systems/NNS becomes/VBZ one/CD of/IN the/DT most/RBS critical/JJ tasks/NNS for/IN network/NN administrators/NNS today/NN ./.
+It/PRP has/VBZ an/DT important/JJ role/NN for/IN organizations/NNS ,/, governments/NNS and/CC our/PRP$ society/NN due/IN to/IN its/PRP$ valuable/JJ resources/NNS on/IN computer/NN networks/NNS ./.
+Traditional/JJ misuse/NN detection/NN strategies/NNS are/VBP unable/JJ to/TO detect/VB new/JJ and/CC unknown/JJ intrusion/NN ./.
+Besides/RB ,/, anomaly/NN detection/NN in/IN network/NN security/NN is/VBZ aim/NN to/TO distinguish/VB between/IN illegal/JJ or/CC malicious/JJ events/NNS and/CC normal/JJ behavior/NN of/IN network/NN systems/NNS ./.
+Anomaly/NNP detection/NN can/MD be/VB considered/VBN as/IN a/DT classification/NN problem/NN where/WRB it/PRP builds/VBZ models/NNS of/IN normal/JJ network/NN behavior/NN ,/, which/WDT it/PRP uses/VBZ to/TO detect/VB new/JJ patterns/NNS that/WDT significantly/RB deviate/VBP from/IN the/DT model/NN ./.
+Most/JJS of/IN the/DT cur/NN -/HYPH rent/NN research/NN on/IN anomaly/NN detection/NN is/VBZ based/VBN on/IN the/DT learning/NN of/IN normally/RB and/CC anomaly/RB behaviors/NNS ./.
+They/PRP do/VBP not/RB take/VB into/IN account/NN the/DT previous/JJ ,/, re/IN -/HYPH cent/NN events/NNS to/TO detect/VB the/DT new/JJ incoming/JJ one/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT real/JJ time/NN collective/JJ anomaly/NN detection/NN model/NN based/VBN on/IN neural/JJ network/NN learning/NN and/CC feature/NN operating/NN ./.
+Normally/RB a/DT Long/JJ Short/JJ Term/NN Memory/NN Recurrent/JJ Neural/JJ Network/NN (/-LRB- LSTM/NNP RNN/NNP )/-RRB- is/VBZ trained/VBN only/RB on/IN normal/JJ data/NNS and/CC it/PRP is/VBZ capable/JJ of/IN predicting/VBG several/JJ time/NN steps/NNS ahead/RB of/IN an/DT input/NN ./.
+In/IN our/PRP$ approach/NN ,/, a/DT LSTM/NN RNN/NN is/VBZ trained/VBN with/IN normal/JJ time/NN series/NN data/NNS before/IN performing/VBG a/DT live/JJ prediction/NN for/IN each/DT time/NN step/NN ./.
+Instead/RB of/IN considering/VBG each/DT time/NN step/NN separately/RB ,/, the/DT observation/NN of/IN prediction/NN errors/NNS from/IN a/DT certain/JJ number/NN of/IN time/NN steps/NNS is/VBZ now/RB proposed/VBN as/IN a/DT new/JJ idea/NN for/IN detecting/VBG collective/JJ anomalies/NNS ./.
+The/DT prediction/NN errors/NNS from/IN a/DT number/NN of/IN the/DT latest/JJS time/NN steps/NNS above/IN a/DT threshold/NN will/MD indicate/VB a/DT collective/JJ anomaly/NN ./.
+The/DT model/NN is/VBZ built/VBN on/IN a/DT time/NN series/NN version/NN of/IN the/DT KDD/NNP 1999/CD dataset/NN ./.
+The/DT experiments/NNS demonstrate/VBP that/IN it/PRP is/VBZ possible/JJ to/TO offer/VB reliable/JJ and/CC efficient/JJ for/IN collective/JJ anomaly/NN detection/NN ./.

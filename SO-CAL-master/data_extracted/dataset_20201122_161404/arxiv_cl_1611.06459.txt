@@ -1,0 +1,14 @@
+Online social media and games are increasingly replacing offline social activities.
+Social media is now an indispensable mode of communication; online gaming is not only a genuine social activity but also a popular spectator sport.
+With support for anonymity and larger audiences, online interaction shrinks social and geographical barriers.
+Despite such benefits, social disparities such as gender inequality persist in online social media.
+In particular, online gaming communities have been criticized for persistent gender disparities and objectification.
+As gaming evolves into a social platform, persistence of gender disparity is a pressing question.
+Yet, there are few large-scale, systematic studies of gender inequality and objectification in social gaming platforms.
+Here we analyze more than one billion chat messages from Twitch, a social game-streaming platform, to study how the gender of streamers is associated with the nature of conversation.
+Using a combination of computational text analysis methods, we show that gendered conversation and objectification is prevalent in chats.
+Female streamers receive significantly more objectifying comments while male streamers receive more game-related comments.
+This difference is more pronounced for popular streamers.
+There also exists a large number of users who post only on female or male streams.
+Employing a neural vector-space embedding (paragraph vector) method, we analyze gendered chat messages and create prediction models that (i) identify the gender of streamers based on messages posted in the channel and (ii) identify the gender a viewer prefers to watch based on their chat messages.
+Our findings suggest that disparities in social game-streaming platforms is a nuanced phenomenon that involves the gender of streamers as well as those who produce gendered and game-related conversation.

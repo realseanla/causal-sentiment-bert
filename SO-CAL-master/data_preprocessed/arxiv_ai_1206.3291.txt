@@ -1,0 +1,7 @@
+Planning/NN can/MD often/RB be/VB simpli/JJ ed/NN by/IN decomposing/VBG the/DT task/NN into/IN smaller/JJR tasks/NNS arranged/VBD hierarchically/RB ./.
+Charlin/NNP et/FW al./FW [/-LRB- 4/CD ]/-RRB- recently/RB showed/VBD that/IN the/DT hierarchy/NN discovery/NN problem/NN can/MD be/VB framed/VBN as/IN a/DT non-convex/JJ optimization/NN problem/NN ./.
+However/RB ,/, the/DT inherent/JJ computational/JJ di/NN culty/NN of/IN solving/VBG such/PDT an/DT optimization/NN problem/NN makes/VBZ it/PRP hard/JJ to/TO scale/VB to/IN realworld/NN problems/NNS ./.
+In/IN another/DT line/NN of/IN research/NN ,/, Toussaint/NNP et/FW al./FW [/-LRB- 18/CD ]/-RRB- developed/VBD a/DT method/NN to/TO solve/VB planning/NN problems/NNS by/IN maximumlikelihood/JJ estimation/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP how/WRB the/DT hierarchy/NN discovery/NN problem/NN in/IN partially/RB observable/JJ domains/NNS can/MD be/VB tackled/VBN using/VBG a/DT similar/JJ maximum/JJ likelihood/NN approach/NN ./.
+Our/PRP$ technique/NN rst/NN transforms/VBZ the/DT problem/NN into/IN a/DT dynamic/JJ Bayesian/JJ network/NN through/IN which/WDT a/DT hierarchical/JJ structure/NN can/MD naturally/RB be/VB discovered/VBN while/IN optimizing/VBG the/DT policy/NN ./.
+Experimental/JJ results/NNS demonstrate/VBP that/IN this/DT approach/NN scales/VBZ better/JJR than/IN previous/JJ techniques/NNS based/VBN on/IN non-convex/JJ optimization/NN ./.

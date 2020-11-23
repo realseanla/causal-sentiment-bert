@@ -1,0 +1,7 @@
+amLite/NN is/VBZ a/DT framework/NN developed/VBN to/TO map/VB ASCII/NNP transliterated/VBN Amharic/NNP texts/NNS back/RB to/IN the/DT original/JJ Amharic/NNP letter/NN texts/NNS ./.
+The/DT aim/NN of/IN such/PDT a/DT framework/NN is/VBZ to/TO make/VB existing/VBG Amharic/NNP linguistic/JJ data/NNS consistent/JJ and/CC interoperable/JJ among/IN researchers/NNS ./.
+For/IN achieving/VBG the/DT objective/NN ,/, a/DT key/JJ map/NN dictionary/NN is/RB constructed/VBN using/VBG the/DT possible/JJ ASCII/NN combinations/NNS actively/RB in/IN use/NN for/IN transliterating/VBG Amharic/NNP letters/NNS ;/: and/CC a/DT mapping/NN of/IN the/DT combinations/NNS to/IN the/DT corresponding/VBG Amharic/JJ letters/NNS is/VBZ done/VBN ./.
+The/DT mapping/NN is/VBZ then/RB used/VBN to/TO replace/VB the/DT Amharic/NNP linguistic/JJ text/NN back/RB to/TO form/VB the/DT original/JJ Amharic/NNP letters/NNS text/NN ./.
+The/DT framework/NN indicated/VBD 97.7/CD ,/, 99.7/CD and/CC 98.4/CD percentage/NN accuracy/NN on/IN converting/VBG the/DT three/CD sample/NN random/JJ test/NN data/NNS ./.
+It/PRP is/VBZ ;/: however/RB ,/, possible/JJ to/TO improve/VB the/DT accuracy/NN of/IN the/DT framework/NN by/IN adding/VBG an/DT exception/NN to/IN the/DT implementation/NN of/IN the/DT algorithm/NN ,/, or/CC by/IN preprocessing/VBG the/DT input/NN text/NN prior/JJ to/IN conversion/NN ./.
+This/DT paper/NN outlined/VBD the/DT rationales/NNS behind/IN the/DT need/NN for/IN developing/VBG the/DT framework/NN and/CC the/DT processes/NNS undertaken/VBN in/IN the/DT development/NN ./.

@@ -1,0 +1,9 @@
+Acoustic/JJ event/NN detection/NN is/VBZ essential/JJ for/IN content/NN analysis/NN and/CC description/NN of/IN multimedia/NNS recordings/NNS ./.
+The/DT majority/NN of/IN current/JJ literature/NN on/IN the/DT topic/NN learns/VBZ the/DT detectors/NNS through/IN fully/RB -/HYPH supervised/JJ techniques/NNS employing/VBG strongly/RB labeled/VBN data/NNS ./.
+However/RB ,/, the/DT labels/NNS available/JJ for/IN online/JJ multimedia/NNS data/NNS are/VBP generally/RB weak/JJ and/CC do/VBP not/RB provide/VB sufficient/JJ detail/NN for/IN such/JJ methods/NNS to/TO be/VB employed/VBN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT framework/NN for/IN learning/VBG acoustic/JJ event/NN detectors/NNS using/VBG only/RB weakly/RB labeled/VBN data/NNS based/VBN on/IN a/DT Multiple/JJ Instance/NNP Learning/NNP (/-LRB- MIL/NNP )/-RRB- framework/NN ./.
+We/PRP first/RB show/VBP that/IN audio/JJ event/NN detection/NN using/VBG weak/JJ data/NNS can/MD be/VB formulated/VBN as/IN an/DT MIL/NN problem/NN ./.
+We/PRP then/RB suggest/VBP two/CD frameworks/NNS for/IN solving/VBG multiple/JJ -/HYPH instance/NN learning/NN ,/, one/CD based/VBN on/IN neural/JJ networks/NNS ,/, and/CC the/DT second/JJ on/IN support/NN vector/NN machines/NNS ./.
+The/DT proposed/VBN methods/NNS can/MD help/VB in/IN removing/VBG the/DT time/NN consuming/VBG and/CC expensive/JJ process/NN of/IN manually/RB annotating/VBG data/NNS to/TO facilitate/VB fully/RB supervised/JJ learning/NN ./.
+Our/PRP$ proposed/VBN framework/NN can/MD not/RB only/RB successfully/RB detect/VB events/NNS in/IN a/DT recording/NN but/CC can/MD also/RB provide/VB temporal/JJ locations/NNS of/IN events/NNS in/IN the/DT recording/NN ./.
+This/DT is/VBZ interesting/JJ as/IN these/DT information/NN were/VBD never/RB known/VBN in/IN the/DT first/JJ place/NN for/IN weakly/RB labeled/VBN data/NNS ./.

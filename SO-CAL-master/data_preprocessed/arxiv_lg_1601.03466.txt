@@ -1,0 +1,12 @@
+Privacy/NN -/HYPH preserving/VBG distributed/VBN machine/NN learning/NN becomes/VBZ increasingly/RB important/JJ due/IN to/IN the/DT rapid/JJ growth/NN of/IN amount/NN of/IN data/NNS and/CC the/DT importance/NN of/IN distributed/VBN learning/NN ./.
+This/DT paper/NN develops/VBZ algorithms/NNS to/TO provide/VB privacy/NN -/HYPH preserving/VBG learning/NN for/IN classification/NN problem/NN using/VBG the/DT regularized/VBN empirical/JJ risk/NN minimization/NN (/-LRB- ERM/NN )/-RRB- objective/JJ function/NN in/IN a/DT distributed/VBN fashion/NN ./.
+We/PRP use/VBP the/DT definition/NN of/IN differential/JJ privacy/NN ,/, developed/VBN by/IN Dwork/NNP et/FW al./FW privacy/NN to/TO capture/VB the/DT notion/NN of/IN privacy/NN of/IN our/PRP$ algorithm/NN ./.
+We/PRP provide/VBP two/CD methods/NNS ./.
+We/PRP first/RB propose/VB the/DT dual/JJ variable/JJ perturbation/NN }/-RRB- which/WDT perturbs/VBZ the/DT dual/JJ variable/NN before/IN next/JJ intermediate/JJ minimization/NN of/IN augmented/VBN Lagrange/NNP function/NN over/IN the/DT classifier/NN in/IN every/DT ADMM/NN iteration/NN ./.
+In/IN the/DT second/JJ method/NN ,/, we/PRP apply/VBP the/DT output/NN perturbation/NN to/IN the/DT primal/JJ variable/NN before/IN releasing/VBG it/PRP to/IN neighboring/VBG nodes/NNS ./.
+We/PRP call/VBP the/DT second/JJ method/NN primal/JJ variable/JJ perturbation/NN ./.
+Under/IN certain/JJ conditions/NNS on/IN the/DT convexity/NN and/CC differentiability/NN of/IN the/DT loss/NN function/NN and/CC regularizer/NN ,/, our/PRP$ algorithms/NNS is/VBZ proved/VBN to/TO provide/VB differential/JJ privacy/NN through/IN the/DT entire/JJ learning/NN process/NN ./.
+We/PRP also/RB provide/VBP theoretical/JJ results/NNS for/IN the/DT accuracy/NN of/IN the/DT algorithm/NN ,/, and/CC prove/VB that/IN both/DT algorithms/NNS converges/VBZ in/IN distribution/NN ./.
+The/DT theoretical/JJ results/NNS show/VBP that/IN the/DT dual/JJ variable/JJ perturbation/NN outperforms/VBZ the/DT primal/JJ case/NN ./.
+The/DT tradeoff/NN between/IN privacy/NN and/CC accuracy/NN is/VBZ examined/VBN in/IN the/DT numerical/JJ experiment/NN ./.
+Our/PRP$ experiment/NN shows/VBZ that/IN both/DT algorithms/NNS performs/VBZ similar/JJ in/IN managing/VBG the/DT privacy/NN -/HYPH accuracy/NN tradeoff/NN ,/, and/CC primal/JJ variable/JJ perturbaiton/NN is/VBZ slightly/RB better/JJR than/IN the/DT dual/JJ case/NN ./.

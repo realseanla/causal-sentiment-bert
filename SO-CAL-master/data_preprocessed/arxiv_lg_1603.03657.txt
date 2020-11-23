@@ -1,0 +1,4 @@
+When/WRB a/DT Convolutional/JJ Neural/JJ Network/NN is/VBZ used/VBN for/IN on/IN -/HYPH the/DT -/HYPH fly/NN evaluation/NN of/IN continuously/RB updating/VBG time/NN -/HYPH sequences/NNS ,/, many/JJ redundant/JJ convolution/NN operations/NNS are/VBP performed/VBN ./.
+We/PRP propose/VBP the/DT method/NN of/IN Deep/JJ Shifting/NN ,/, which/WDT remembers/VBZ previously/RB calculated/VBN results/NNS of/IN convolution/NN operations/NNS in/IN order/NN to/TO minimize/VB the/DT number/NN of/IN calculations/NNS ./.
+The/DT reduction/NN in/IN complexity/NN is/VBZ at/IN least/JJS a/DT constant/JJ and/CC in/IN the/DT best/JJS case/NN quadratic/JJ ./.
+We/PRP demonstrate/VBP that/IN this/DT method/NN does/VBZ indeed/RB save/VB significant/JJ computation/NN time/NN in/IN a/DT practical/JJ implementation/NN ,/, especially/RB when/WRB the/DT networks/NNS receives/VBZ a/DT large/JJ number/NN of/IN time/NN -/HYPH frames/NNS ./.

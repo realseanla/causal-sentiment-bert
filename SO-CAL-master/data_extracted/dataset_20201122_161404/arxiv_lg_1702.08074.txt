@@ -1,0 +1,6 @@
+We consider the task of learning control policies for a robotic mechanism striking a puck in an air hockey game.
+The control signal is a direct command to the robot's motors.
+We employ a model free deep reinforcement learning framework to learn the motoric skills of striking the puck accurately in order to score.
+We propose certain improvements to the standard learning scheme which make the deep Q-learning algorithm feasible when it might otherwise fail.
+Our improvements include integrating prior knowledge into the learning scheme, and accounting for the changing distribution of samples in the experience replay buffer.
+Finally we present our simulation results for aimed striking which demonstrate the successful learning of this task, and the improvement in algorithm stability due to the proposed modifications.

@@ -1,0 +1,12 @@
+The/DT Matlab/NNP toolbox/NN SciXMiner/NNP is/VBZ designed/VBN for/IN the/DT visualization/NN and/CC analysis/NN of/IN time/NN series/NN and/CC features/VBZ with/IN a/DT special/JJ focus/NN to/IN classification/NN problems/NNS ./.
+It/PRP was/VBD developed/VBN at/IN the/DT Institute/NNP of/IN Applied/NNP Computer/NNP Science/NNP of/IN the/DT Karlsruhe/NNP Institute/NNP of/IN Technology/NNP (/-LRB- KIT/NN )/-RRB- ,/, a/DT member/NN of/IN the/DT Helmholtz/NNP Association/NNP of/IN German/NNP Research/NNP Centres/NNPS in/IN Germany/NNP ./.
+The/DT aim/NN was/VBD to/TO provide/VB an/DT open/JJ platform/NN for/IN the/DT development/NN and/CC improvement/NN of/IN data/NNS mining/NN methods/NNS and/CC its/PRP$ applications/NNS to/IN various/JJ medical/JJ and/CC technical/JJ problems/NNS ./.
+SciXMiner/NNP bases/NNS on/IN Matlab/NNP (/-LRB- tested/VBN for/IN the/DT version/NN 2017a/NN )/-RRB- ./.
+Many/JJ functions/NNS do/VBP not/RB require/VB additional/JJ standard/JJ toolboxes/NNS but/CC some/DT parts/NNS of/IN Signal/NNP ,/, Statistics/NNPS and/CC Wavelet/NNP toolboxes/NNS are/VBP used/VBN for/IN special/JJ cases/NNS ./.
+The/DT decision/NN to/IN a/DT Matlab/NNP -/HYPH based/VBN solution/NN was/VBD made/VBN to/TO use/VB the/DT wide/JJ mathematical/JJ functionality/NN of/IN this/DT package/NN provided/VBN by/IN The/DT Mathworks/NNP Inc/NNP ./.
+SciXMiner/NNP is/VBZ controlled/VBN by/IN a/DT graphical/JJ user/NN interface/NN (/-LRB- GUI/NNP )/-RRB- with/IN menu/NN items/NNS and/CC control/NN elements/NNS like/IN popup/NN lists/NNS ,/, checkboxes/NNS and/CC edit/NN elements/NNS ./.
+This/DT makes/VBZ it/PRP easier/JJR to/TO work/VB with/IN SciXMiner/NNP for/IN inexperienced/JJ users/NNS ./.
+Furthermore/RB ,/, an/DT automatization/NN and/CC batch/NN standardization/NN of/IN analyzes/VBZ is/VBZ possible/JJ using/VBG macros/NNS ./.
+The/DT standard/JJ Matlab/NNP style/NN using/VBG the/DT command/NN line/NN is/VBZ also/RB available/JJ ./.
+SciXMiner/NNP is/VBZ an/DT open/JJ source/NN software/NN ./.
+The/DT download/NN page/NN is/VBZ

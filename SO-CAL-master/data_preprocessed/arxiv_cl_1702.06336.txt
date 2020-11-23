@@ -1,0 +1,6 @@
+This/DT paper/NN presents/VBZ a/DT hybrid/NN dialog/NN state/NN tracker/NN enhanced/VBN by/IN trainable/JJ Spoken/NNP Language/NNP Understanding/VBG (/-LRB- SLU/NNP )/-RRB- for/IN slot/NN -/HYPH filling/VBG dialog/NN systems/NNS ./.
+Our/PRP$ architecture/NN is/VBZ inspired/VBN by/IN previously/RB proposed/VBN neural/JJ -/HYPH network/NN -/HYPH based/VBN belief/NN -/HYPH tracking/VBG systems/NNS ./.
+In/IN addition/NN ,/, we/PRP extended/VBD some/DT parts/NNS of/IN our/PRP$ modular/JJ architecture/NN with/IN differentiable/JJ rules/NNS to/TO allow/VB end/NN -/HYPH to/IN -/HYPH end/NN training/NN ./.
+We/PRP hypothesize/VBP that/IN these/DT rules/NNS allow/VBP our/PRP$ tracker/NN to/IN generalize/VB better/JJR than/IN pure/JJ machine/NN -/HYPH learning/NN based/VBN systems/NNS ./.
+For/IN evaluation/NN ,/, we/PRP used/VBD the/DT Dialog/NNP State/NNP Tracking/NNP Challenge/NNP (/-LRB- DSTC/NNP )/-RRB- 2/CD dataset/NN -/HYPH a/DT popular/JJ belief/NN tracking/VBG testbed/VBN with/IN dialogs/NNS from/IN restaurant/NN information/NN system/NN ./.
+To/IN our/PRP$ knowledge/NN ,/, our/PRP$ hybrid/NN tracker/NN sets/VBZ a/DT new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN result/NN in/IN three/CD out/IN of/IN four/CD categories/NNS within/IN the/DT DSTC2/NN ./.

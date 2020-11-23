@@ -1,0 +1,6 @@
+As/IN of/IN today/NN the/DT programming/NN language/NN of/IN the/DT vast/JJ majority/NN of/IN the/DT published/VBN source/NN code/NN is/VBZ manually/RB specified/VBN or/CC programmatically/RB assigned/VBN based/VBN on/IN the/DT sole/JJ file/NN extension/NN ./.
+In/IN this/DT paper/NN we/PRP show/VBP that/IN the/DT source/NN code/NN programming/NN language/NN identification/NN task/NN can/MD be/VB fully/RB automated/VBN using/VBG machine/NN learning/NN techniques/NNS ./.
+We/PRP first/RB define/VBP the/DT criteria/NNS that/WDT a/DT production/NN -/HYPH level/NN automatic/JJ programming/NN language/NN identification/NN solution/NN should/MD meet/VB ./.
+Our/PRP$ criteria/NNS include/VBP accuracy/NN ,/, programming/VBG language/NN coverage/NN ,/, extensibility/NN and/CC performance/NN ./.
+We/PRP then/RB describe/VBP our/PRP$ approach/NN :/: How/WRB training/NN files/NNS are/VBP preprocessed/VBN for/IN extracting/VBG features/NNS that/WDT mimic/VBP grammar/NN productions/NNS ,/, and/CC then/RB how/WRB these/DT extracted/VBN grammar/NN productions/NNS are/VBP used/VBN for/IN the/DT training/NN and/CC testing/NN of/IN our/PRP$ classifier/NN ./.
+We/PRP achieve/VBP a/DT 99/CD percent/NN accuracy/NN rate/NN while/IN classifying/VBG 29/CD of/IN the/DT most/RBS popular/JJ programming/NN languages/NNS with/IN a/DT Maximum/NNP Entropy/NNP classifier/NN ./.

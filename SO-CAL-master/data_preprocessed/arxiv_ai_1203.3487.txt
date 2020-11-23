@@ -1,0 +1,3 @@
+A/DT major/JJ limitation/NN of/IN exact/JJ inference/NN algorithms/NNS for/IN probabilistic/JJ graphical/JJ models/NNS is/VBZ their/PRP$ extensive/JJ memory/NN usage/NN ,/, which/WDT often/RB puts/VBZ real/JJ -/HYPH world/NN problems/NNS out/IN of/IN their/PRP$ reach/NN ./.
+In/IN this/DT paper/NN we/PRP show/VBP how/WRB we/PRP can/MD extend/VB inference/NN algorithms/NNS ,/, particularly/RB Bucket/NNP Elimination/NNP ,/, a/DT special/JJ case/NN of/IN cluster/NN (/-LRB- join/VB )/-RRB- tree/NN decomposition/NN ,/, to/TO utilize/VB disk/NN memory/NN ./.
+We/PRP provide/VBP the/DT underlying/VBG ideas/NNS and/CC show/VBP promising/JJ empirical/JJ results/NNS of/IN exactly/RB solving/VBG large/JJ problems/NNS not/RB solvable/JJ before/IN ./.

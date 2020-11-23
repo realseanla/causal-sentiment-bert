@@ -1,0 +1,8 @@
+Dimensionality reduction techniques play important roles in the analysis of big data.
+Traditional dimensionality reduction approaches, such as Principle Component Analysis (PCA) and Linear Discriminant Analysis (LDA), have been studied extensively in the past few decades.
+However, as the dimension of huge data increases, the computational cost of traditional dimensionality reduction approaches grows dramatically and becomes prohibitive.
+It has also triggered the development of Random Projection (RP) technique which maps high-dimensional data onto low-dimensional subspace within short time.
+However, RP generates transformation matrix without considering intrinsic structure of original data and usually leads to relatively high distortion.
+Therefore, in the past few years, some approaches based on RP have been proposed to address this problem.
+In this paper, we summarized these approaches in different applications to help practitioners to employ proper approaches in their specific applications.
+Also, we enumerated their benefits and limitations to provide further references for researchers to develop novel RP-based approaches.

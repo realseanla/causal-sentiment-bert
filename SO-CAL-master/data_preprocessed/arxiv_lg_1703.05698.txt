@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT data/NN -/HYPH driven/VBN approach/NN to/IN the/DT problem/NN of/IN inductive/JJ computer/NN program/NN synthesis/NN ./.
+Our/PRP$ method/NN learns/VBZ a/DT probabilistic/JJ model/NN for/IN real/JJ -/HYPH world/NN programs/NNS from/IN a/DT corpus/NN of/IN existing/VBG code/NN ./.
+It/PRP uses/VBZ this/DT model/NN during/IN synthesis/NN to/IN automatically/RB infer/VB a/DT posterior/JJ distribution/NN over/IN sketches/NNS ,/, or/CC syntactic/JJ models/NNS of/IN the/DT problem/NN to/TO be/VB synthesized/VBN ./.
+Sketches/NNS sampled/VBN from/IN this/DT posterior/JJ are/VBP then/RB used/VBN to/TO drive/VB combinatorial/JJ synthesis/NN of/IN a/DT program/NN in/IN a/DT high/JJ -/HYPH level/NN programming/NN language/NN ./.

@@ -1,0 +1,7 @@
+The/DT literature/NN on/IN bandit/NN learning/NN and/CC regret/NN analysis/NN has/VBZ focused/VBN on/IN contexts/NNS where/WRB the/DT goal/NN is/VBZ to/TO converge/VB on/IN an/DT optimal/JJ action/NN in/IN a/DT manner/NN that/WDT limits/VBZ exploration/NN costs/NNS ./.
+One/CD shortcoming/NN imposed/VBN by/IN this/DT orientation/NN is/VBZ that/IN it/PRP does/VBZ not/RB treat/VB time/NN preference/NN in/IN a/DT coherent/JJ manner/NN ./.
+Time/NNP preference/NN plays/VBZ an/DT important/JJ role/NN when/WRB the/DT optimal/JJ action/NN is/VBZ costly/JJ to/TO learn/VB relative/JJ to/IN near/JJ -/HYPH optimal/JJ actions/NNS ./.
+This/DT limitation/NN has/VBZ not/RB only/RB restricted/VBN the/DT relevance/NN of/IN theoretical/JJ results/NNS but/CC has/VBZ also/RB influenced/VBN the/DT design/NN of/IN algorithms/NNS ./.
+Indeed/RB ,/, popular/JJ approaches/NNS such/JJ as/IN Thompson/NNP sampling/NN and/CC UCB/NNP can/MD fare/VB poorly/RB in/IN such/JJ situations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP discounted/VBN rather/RB than/IN cumulative/JJ regret/NN ,/, where/WRB a/DT discount/NN factor/NN encodes/VBZ time/NN preference/NN ./.
+We/PRP propose/VBP satisficing/VBG Thompson/NNP sampling/NN --/: a/DT variation/NN of/IN Thompson/NNP sampling/NN --/: and/CC establish/VB a/DT strong/JJ discounted/VBN regret/NN bound/VBN for/IN this/DT new/JJ algorithm/NN ./.

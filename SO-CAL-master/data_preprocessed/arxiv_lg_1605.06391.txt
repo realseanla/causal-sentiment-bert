@@ -1,0 +1,7 @@
+Most/JJS contemporary/JJ multi-task/VB learning/NN methods/NNS assume/VBP linear/JJ models/NNS ./.
+This/DT setting/NN is/VBZ considered/VBN shallow/JJ in/IN the/DT era/NN of/IN deep/JJ learning/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ deep/JJ multi-task/VB representation/NN learning/NN framework/NN that/WDT learns/VBZ cross-task/JJ sharing/NN structure/NN at/IN every/DT layer/NN in/IN a/DT deep/JJ network/NN ./.
+Our/PRP$ approach/NN is/VBZ based/VBN on/IN generalising/VBG the/DT matrix/NN factorisation/NN techniques/NNS explicitly/RB or/CC implicitly/RB used/VBN by/IN many/JJ conventional/JJ MTL/NN algorithms/NNS to/IN tensor/NN factorisation/NN ,/, to/TO realise/VB automatic/JJ learning/NN of/IN end/NN -/HYPH to/IN -/HYPH end/NN knowledge/NN sharing/NN in/IN deep/JJ networks/NNS ./.
+This/DT is/VBZ in/IN contrast/NN to/IN existing/VBG deep/JJ learning/NN approaches/VBZ that/IN need/VB a/DT user/NN -/HYPH defined/VBN multi-task/VBP sharing/VBG strategy/NN ./.
+Our/PRP$ approach/NN applies/VBZ to/IN both/DT homogeneous/JJ and/CC heterogeneous/JJ MTL/NN ./.
+Experiments/NNS demonstrate/VBP the/DT efficacy/NN of/IN our/PRP$ deep/JJ multi-task/VB representation/NN learning/NN in/IN terms/NNS of/IN both/DT higher/JJR accuracy/NN and/CC fewer/JJR design/NN choices/NNS ./.

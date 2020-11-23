@@ -1,0 +1,7 @@
+There/EX has/VBZ been/VBN considerable/JJ work/NN on/IN improving/VBG popular/JJ clustering/NN algorithm/NN `/'' K/NN -/HYPH means/NN '/'' in/IN terms/NNS of/IN mean/JJ squared/JJ error/NN (/-LRB- MSE/NN )/-RRB- and/CC speed/NN ,/, both/DT ./.
+However/RB ,/, most/JJS of/IN the/DT k/NN -/HYPH means/NN variants/NNS tend/VBP to/TO compute/VB distance/NN of/IN each/DT data/NN point/NN to/IN each/DT cluster/NN centroid/NN for/IN every/DT iteration/NN ./.
+We/PRP propose/VBP a/DT fast/JJ heuristic/NN to/TO overcome/VB this/DT bottleneck/NN with/IN only/RB marginal/JJ increase/NN in/IN MSE/NNP ./.
+We/PRP observe/VBP that/IN across/IN all/DT iterations/NNS of/IN K/NN -/HYPH means/NNS ,/, a/DT data/NN point/NN changes/VBZ its/PRP$ membership/NN only/RB among/IN a/DT small/JJ subset/NN of/IN clusters/NNS ./.
+Our/PRP$ heuristic/NN predicts/VBZ such/JJ clusters/NNS for/IN each/DT data/NN point/NN by/IN looking/VBG at/IN nearby/JJ clusters/NNS after/IN the/DT first/JJ iteration/NN of/IN k/CD -/HYPH means/NNS ./.
+We/PRP augment/VBP well/RB known/VBN variants/NNS of/IN k/CD -/HYPH means/NN with/IN our/PRP$ heuristic/NN to/TO demonstrate/VB effectiveness/NN of/IN our/PRP$ heuristic/NN ./.
+For/IN various/JJ synthetic/JJ and/CC real/JJ -/HYPH world/NN datasets/NNS ,/, our/PRP$ heuristic/NN achieves/VBZ speed/NN -/HYPH up/NN of/IN up/RB -/HYPH to/TO 3/CD times/NNS when/WRB compared/VBN to/IN efficient/JJ variants/NNS of/IN k/CD -/HYPH means/NNS ./.

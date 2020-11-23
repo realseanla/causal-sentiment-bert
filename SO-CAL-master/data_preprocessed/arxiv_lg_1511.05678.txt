@@ -1,0 +1,7 @@
+Rectified/VBN Linear/NNP Units/NNS (/-LRB- ReLUs/NNS )/-RRB- have/VBP been/VBN shown/VBN to/TO ameliorate/VB the/DT vanishing/VBG gradient/NN problem/NN ,/, allow/VB for/IN efficient/JJ back/RB -/HYPH propagation/NN ,/, and/CC empirically/RB promote/VB sparsity/NN in/IN the/DT learned/VBN parameters/NNS ./.
+Their/PRP$ use/NN has/VBZ led/VBN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS in/IN a/DT variety/NN of/IN applications/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP characterize/VBP the/DT expressiveness/NN of/IN ReLU/NNP networks/NNS ./.
+From/IN this/DT perspective/NN ,/, unlike/IN the/DT sign/NN (/-LRB- threshold/NN )/-RRB- and/CC sigmoid/NN activations/NNS ,/, ReLU/NN networks/NNS are/VBP less/RBR explored/VBN ./.
+We/PRP show/VBP that/IN ,/, while/IN the/DT decision/NN boundary/NN of/IN a/DT two/CD -/HYPH layer/NN ReLU/NN network/NN can/MD be/VB captured/VBN by/IN a/DT sign/NN network/NN ,/, the/DT sign/NN network/NN can/MD require/VB an/DT exponentially/RB larger/JJR number/NN of/IN hidden/VBN units/NNS ./.
+Furthermore/RB ,/, we/PRP formulate/VBP the/DT sufficient/JJ conditions/NNS for/IN a/DT corresponding/VBG logarithmic/JJ reduction/NN in/IN the/DT number/NN of/IN hidden/VBN units/NNS to/TO represent/VB a/DT sign/NN network/NN as/IN a/DT ReLU/NN network/NN ./.
+Finally/RB ,/, using/VBG synthetic/JJ data/NNS ,/, we/PRP experimentally/RB demonstrate/VBP that/IN back/RB propagation/NN can/MD recover/VB the/DT much/JJ smaller/JJR ReLU/NN networks/NNS as/IN predicted/VBN by/IN the/DT theory/NN ./.

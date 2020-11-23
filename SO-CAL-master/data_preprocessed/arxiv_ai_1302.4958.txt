@@ -1,0 +1,7 @@
+Whereas/IN acausal/JJ Bayesian/JJ networks/NNS represent/VBP probabilistic/JJ independence/NN ,/, causal/JJ Bayesian/JJ networks/NNS represent/VBP causal/JJ relationships/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP examine/VBP Bayesian/JJ methods/NNS for/IN learning/VBG both/DT types/NNS of/IN networks/NNS ./.
+Bayesian/JJ methods/NNS for/IN learning/VBG acausal/JJ networks/NNS are/VBP fairly/RB well/RB developed/VBN ./.
+These/DT methods/NNS often/RB employ/VBP assumptions/NNS to/TO facilitate/VB the/DT construction/NN of/IN priors/NNS ,/, including/VBG the/DT assumptions/NNS of/IN parameter/NN independence/NN ,/, parameter/NN modularity/NN ,/, and/CC likelihood/NN equivalence/NN ./.
+We/PRP show/VBP that/IN although/IN these/DT assumptions/NNS also/RB can/MD be/VB appropriate/JJ for/IN learning/VBG causal/JJ networks/NNS ,/, we/PRP need/VBP additional/JJ assumptions/NNS in/IN order/NN to/TO learn/VB causal/JJ networks/NNS ./.
+We/PRP introduce/VBP two/CD sufficient/JJ assumptions/NNS ,/, called/VBN {/-LRB- em/PRP mechanism/NN independence/NN }/-RRB- and/CC {/-LRB- em/PRP component/NN independence/NN }/-RRB- ./.
+We/PRP show/VBP that/IN these/DT new/JJ assumptions/NNS ,/, when/WRB combined/VBN with/IN parameter/NN independence/NN ,/, parameter/NN modularity/NN ,/, and/CC likelihood/NN equivalence/NN ,/, allow/VB us/PRP to/TO apply/VB methods/NNS for/IN learning/VBG acausal/JJ networks/NNS to/TO learn/VB causal/JJ networks/NNS ./.

@@ -1,0 +1,4 @@
+In this paper we address the problem of discretization in the context of learning Bayesian networks (BNs) from data containing both continuous and discrete variables.
+We describe a new technique for &lt;EM&gt;multivariate&lt;/EM&gt; discretization, whereby each continuous variable is discretized while taking into account its interaction with the other variables.
+The technique is based on the use of a Bayesian scoring metric that scores the discretization policy for a continuous variable given a BN structure and the observed data.
+Since the metric is relative to the BN structure currently being evaluated, the discretization of a variable needs to be dynamically adjusted as the BN structure changes.

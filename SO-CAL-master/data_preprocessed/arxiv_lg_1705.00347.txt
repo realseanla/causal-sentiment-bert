@@ -1,0 +1,5 @@
+Learning/VBG from/IN large/JJ datasets/NNS has/VBZ been/VBN a/DT challenge/NN irrespective/RB of/IN the/DT Machine/NN Learning/VBG approach/NN used/VBN ./.
+Twin/JJ Support/NN Vector/NNP Machines/NNPS (/-LRB- TWSVMs/NNS )/-RRB- have/VBP proved/VBN to/TO be/VB an/DT efficient/JJ alternative/NN to/IN Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- for/IN learning/VBG from/IN imbalanced/JJ datasets/NNS ./.
+However/RB ,/, the/DT TWSVM/NNP is/VBZ unsuitable/JJ for/IN large/JJ datasets/NNS due/IN to/IN the/DT matrix/NN inversion/NN operations/NNS required/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP discuss/VBP a/DT Twin/JJ Neural/JJ Network/NN for/IN learning/VBG from/IN large/JJ datasets/NNS that/WDT are/VBP unbalanced/JJ ,/, while/IN optimizing/VBG the/DT feature/NN map/NN at/IN the/DT same/JJ time/NN ./.
+Our/PRP$ results/NNS clearly/RB demonstrate/VBP the/DT generalization/NN ability/NN and/CC scalability/NN obtained/VBN by/IN the/DT Twin/JJ Neural/JJ Network/NN on/IN large/JJ unbalanced/JJ datasets/NNS ./.

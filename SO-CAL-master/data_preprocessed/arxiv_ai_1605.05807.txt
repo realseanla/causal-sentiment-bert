@@ -1,0 +1,5 @@
+In/IN a/DT recent/JJ paper/NN ,/, we/PRP have/VBP shown/VBN that/IN Plan/NNP Recognition/NNP over/IN STRIPS/NNPS can/MD be/VB formulated/VBN and/CC solved/VBN using/VBG Classical/NNP Planning/NNP heuristics/NNS and/CC algorithms/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP show/VBP that/IN this/DT formulation/NN subsumes/VBZ the/DT standard/JJ formulation/NN of/IN Plan/NNP Recognition/NNP over/IN libraries/NNS through/IN a/DT compilation/NN of/IN libraries/NNS into/IN STRIPS/NNS theories/NNS ./.
+The/DT libraries/NNS correspond/VBP to/IN AND/CC //, OR/CC graphs/NNS that/WDT may/MD be/VB cyclic/JJ and/CC where/WRB children/NNS of/IN AND/CC nodes/NNS may/MD be/VB partially/RB ordered/VBN ./.
+These/DT libraries/NNS include/VBP Context/NN -/HYPH Free/JJ Grammars/NNS as/IN a/DT special/JJ case/NN ,/, where/WRB the/DT Plan/NNP Recognition/NNP problem/NN becomes/VBZ a/DT parsing/VBG with/IN missing/VBG tokens/NNS problem/NN ./.
+Plan/NNP Recognition/NNP over/IN the/DT standard/JJ libraries/NNS become/VBP

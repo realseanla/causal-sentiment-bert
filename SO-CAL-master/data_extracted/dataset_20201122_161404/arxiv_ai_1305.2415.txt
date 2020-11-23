@@ -1,0 +1,4 @@
+We present Exponentiated Gradient LINUCB, an algorithm for con-textual multi-armed bandits.
+This algorithm uses Exponentiated Gradient to find the optimal exploration of the LINUCB.
+Within a deliberately designed offline simulation framework we conduct evaluations with real online event log data.
+The experimental results demonstrate that our algorithm outperforms surveyed algorithms.

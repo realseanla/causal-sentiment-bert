@@ -1,0 +1,8 @@
+Speech/NNP Segmentation/NNP is/VBZ the/DT process/NN change/NN point/NN detection/NN for/IN partitioning/VBG an/DT input/NN audio/NN stream/NN into/IN regions/NNS each/DT of/IN which/WDT corresponds/VBZ to/IN only/RB one/CD audio/JJ source/NN or/CC one/CD speaker/NN ./.
+One/CD application/NN of/IN this/DT system/NN is/VBZ in/IN Speaker/NNP Diarization/NNP systems/NNS ./.
+There/EX are/VBP several/JJ methods/NNS for/IN speaker/NN segmentation/NN ;/: however/RB ,/, most/JJS of/IN the/DT Speaker/NNP Diarization/NNP Systems/NNPS use/VBP BIC/NN -/HYPH based/VBN Segmentation/NN methods/NNS ./.
+The/DT main/JJ goal/NN of/IN this/DT paper/NN is/VBZ to/TO propose/VB a/DT new/JJ method/NN for/IN speaker/NN segmentation/NN with/IN higher/JJR speed/NN than/IN the/DT current/JJ methods/NNS -/, e.g./FW BIC/NN -/HYPH and/CC acceptable/JJ accuracy/NN ./.
+Our/PRP$ proposed/JJ method/NN is/VBZ based/VBN on/IN the/DT pitch/NN frequency/NN of/IN the/DT speech/NN ./.
+The/DT accuracy/NN of/IN this/DT method/NN is/VBZ similar/JJ to/IN the/DT accuracy/NN of/IN common/JJ speaker/NN segmentation/NN methods/NNS ./.
+However/RB ,/, its/PRP$ computation/NN cost/NN is/VBZ much/RB less/JJR than/IN theirs/PRP ./.
+We/PRP show/VBP that/IN our/PRP$ method/NN is/VBZ about/RB 2.4/CD times/NNS faster/JJR than/IN the/DT BIC/NN -/HYPH based/VBN method/NN ,/, while/IN the/DT average/JJ accuracy/NN of/IN pitch/NN -/HYPH based/VBN method/NN is/VBZ slightly/RB higher/JJR than/IN that/DT of/IN the/DT BIC/NN -/HYPH based/VBN method/NN ./.

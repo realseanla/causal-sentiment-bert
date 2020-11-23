@@ -1,0 +1,6 @@
+Various/JJ treebanks/NNS have/VBP been/VBN released/VBN for/IN dependency/NN parsing/VBG ./.
+Despite/IN that/DT treebanks/NNS may/MD belong/VB to/IN different/JJ languages/NNS or/CC have/VBP different/JJ annotation/NN schemes/NNS ,/, they/PRP contain/VBP syntactic/JJ knowledge/NN that/WDT is/VBZ potential/JJ to/TO benefit/VB each/DT other/JJ ./.
+This/DT paper/NN presents/VBZ an/DT universal/JJ framework/NN for/IN exploiting/VBG these/DT multi-typed/JJ treebanks/NNS to/TO improve/VB parsing/VBG with/IN deep/JJ multi-task/VB learning/NN ./.
+We/PRP consider/VBP two/CD kinds/NNS of/IN treebanks/NNS as/IN source/NN :/: the/DT multilingual/JJ universal/JJ treebanks/NNS and/CC the/DT monolingual/JJ heterogeneous/JJ treebanks/NNS ./.
+Multiple/JJ treebanks/NNS are/VBP trained/VBN jointly/RB and/CC interacted/VBD with/IN multi-level/JJ parameter/NN sharing/NN ./.
+Experiments/NNS on/IN several/JJ benchmark/NN datasets/NNS in/IN various/JJ languages/NNS demonstrate/VBP that/IN our/PRP$ approach/NN can/MD make/VB effective/JJ use/NN of/IN arbitrary/JJ source/NN treebanks/NNS to/TO improve/VB target/NN parsing/VBG models/NNS ./.

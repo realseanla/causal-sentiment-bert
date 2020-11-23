@@ -1,0 +1,9 @@
+We/PRP consider/VBP a/DT multi-neighborhood/JJ local/JJ search/NN algorithm/NN with/IN a/DT large/JJ number/NN of/IN possible/JJ neighborhoods/NNS ./.
+Each/DT neighborhood/NN is/VBZ accompanied/VBN by/IN a/DT weight/NN value/NN which/WDT represents/VBZ the/DT probability/NN of/IN being/VBG chosen/VBN at/IN each/DT iteration/NN ./.
+These/DT weights/NNS are/VBP fixed/VBN before/IN the/DT algorithm/NN runs/VBZ ,/, and/CC are/VBP considered/VBN as/IN parameters/NNS of/IN the/DT algorithm/NN ./.
+Given/VBN a/DT set/NN of/IN instances/NNS ,/, off/IN -/HYPH line/NN tuning/NN of/IN the/DT algorithm/NN 's/POS parameters/NNS can/MD be/VB done/VBN by/IN automated/VBN algorithm/NN configuration/NN tools/NNS (/-LRB- e.g./FW ,/, SMAC/NN )/-RRB- ./.
+However/RB ,/, the/DT large/JJ number/NN of/IN neighborhoods/NNS can/MD make/VB the/DT tuning/NN expensive/JJ and/CC difficult/JJ even/RB when/WRB the/DT number/NN of/IN parameters/NNS has/VBZ been/VBN reduced/VBN by/IN some/DT intuition/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT systematic/JJ method/NN to/TO characterize/VB each/DT neighborhood/NN 's/POS behaviours/NNS ,/, representing/VBG them/PRP as/IN a/DT feature/NN vector/NN ,/, and/CC using/VBG cluster/NN analysis/NN to/TO form/VB similar/JJ groups/NNS of/IN neighborhoods/NNS ./.
+The/DT novelty/NN of/IN our/PRP$ characterization/NN method/NN is/VBZ the/DT ability/NN of/IN reflecting/VBG changes/NNS of/IN behaviours/NNS according/VBG to/IN hardness/NN of/IN different/JJ solution/NN quality/NN regions/NNS ./.
+We/PRP show/VBP that/IN using/VBG neighborhood/NN clusters/NNS instead/RB of/IN individual/JJ neighborhoods/NNS helps/VBZ to/TO reduce/VB the/DT parameter/NN configuration/NN space/NN without/IN misleading/VBG the/DT search/NN of/IN the/DT tuning/NN procedure/NN ./.
+Moreover/RB ,/, this/DT method/NN is/VBZ problem/NN -/HYPH independent/JJ and/CC potentially/RB can/MD be/VB applied/VBN in/IN similar/JJ contexts/NNS ./.

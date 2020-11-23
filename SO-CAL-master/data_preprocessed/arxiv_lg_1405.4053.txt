@@ -1,0 +1,9 @@
+Many/JJ machine/NN learning/VBG algorithms/NNS require/VBP the/DT input/NN to/TO be/VB represented/VBN as/IN a/DT fixed/VBN -/HYPH length/NN feature/NN vector/NN ./.
+When/WRB it/PRP comes/VBZ to/IN texts/NNS ,/, one/CD of/IN the/DT most/RBS common/JJ fixed/VBN -/HYPH length/NN features/NNS is/VBZ bag/NN -/HYPH of/IN -/HYPH words/NNS ./.
+Despite/IN their/PRP$ popularity/NN ,/, bag/NN -/HYPH of/IN -/HYPH words/NNS features/NNS have/VBP two/CD major/JJ weaknesses/NNS :/: they/PRP lose/VBP the/DT ordering/NN of/IN the/DT words/NNS and/CC they/PRP also/RB ignore/VBP semantics/NNS of/IN the/DT words/NNS ./.
+For/IN example/NN ,/, "/'' powerful/JJ ,/, "/'' "/`` strong/JJ "/'' and/CC "/`` Paris/NNP "/'' are/VBP equally/RB distant/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP Paragraph/NN Vector/NNP ,/, an/DT unsupervised/JJ algorithm/NN that/WDT learns/VBZ fixed/VBN -/HYPH length/NN feature/NN representations/NNS from/IN variable/JJ -/HYPH length/NN pieces/NNS of/IN texts/NNS ,/, such/JJ as/IN sentences/NNS ,/, paragraphs/NNS ,/, and/CC documents/NNS ./.
+Our/PRP$ algorithm/NN represents/VBZ each/DT document/NN by/IN a/DT dense/JJ vector/NN which/WDT is/VBZ trained/VBN to/TO predict/VB words/NNS in/IN the/DT document/NN ./.
+Its/PRP$ construction/NN gives/VBZ our/PRP$ algorithm/NN the/DT potential/NN to/TO overcome/VB the/DT weaknesses/NNS of/IN bag/NN -/HYPH of/IN -/HYPH words/NNS models/NNS ./.
+Empirical/JJ results/NNS show/VBP that/IN Paragraph/NN Vectors/NNS outperforms/VBZ bag/NN -/HYPH of/IN -/HYPH words/NNS models/NNS as/RB well/RB as/IN other/JJ techniques/NNS for/IN text/NN representations/NNS ./.
+Finally/RB ,/, we/PRP achieve/VBP new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN several/JJ text/NN classification/NN and/CC sentiment/NN analysis/NN tasks/NNS ./.

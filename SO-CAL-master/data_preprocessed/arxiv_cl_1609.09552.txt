@@ -1,0 +1,5 @@
+Neural/JJ encoder/NN -/HYPH decoder/NN models/NNS have/VBP shown/VBN great/JJ success/NN in/IN many/JJ sequence/NN generation/NN tasks/NNS ./.
+However/RB ,/, previous/JJ work/NN has/VBZ not/RB investigated/VBN situations/NNS in/IN which/WDT we/PRP would/MD like/VB to/TO control/VB the/DT length/NN of/IN encoder/NN -/HYPH decoder/NN outputs/NNS ./.
+This/DT capability/NN is/VBZ crucial/JJ for/IN applications/NNS such/JJ as/IN text/NN summarization/NN ,/, in/IN which/WDT we/PRP have/VBP to/TO generate/VB concise/JJ summaries/NNS with/IN a/DT desired/VBN length/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP methods/NNS for/IN controlling/VBG the/DT output/NN sequence/NN length/NN for/IN neural/JJ encoder/NN -/HYPH decoder/NN models/NNS :/: two/CD decoding/NN -/HYPH based/VBN methods/NNS and/CC two/CD learning/NN -/HYPH based/VBN methods/NNS ./.
+Results/NNS show/VBP that/IN our/PRP$ learning/NN -/HYPH based/VBN methods/NNS have/VBP the/DT capability/NN to/TO control/VB length/NN without/IN degrading/JJ summary/NN quality/NN in/IN a/DT summarization/NN task/NN ./.

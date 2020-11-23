@@ -1,0 +1,6 @@
+A/DT fundamental/JJ problem/NN in/IN control/NN is/VBZ to/TO learn/VB a/DT model/NN of/IN a/DT system/NN from/IN observations/NNS that/WDT is/VBZ useful/JJ for/IN controller/NN synthesis/NN ./.
+To/TO provide/VB good/JJ performance/NN guarantees/NNS ,/, existing/VBG methods/NNS must/MD assume/VB that/IN the/DT real/JJ system/NN is/VBZ in/IN the/DT class/NN of/IN models/NNS considered/VBN during/IN learning/NN ./.
+We/PRP present/VBP an/DT iterative/JJ method/NN with/IN strong/JJ guarantees/NNS even/RB in/IN the/DT agnostic/JJ case/NN where/WRB the/DT system/NN is/VBZ not/RB in/IN the/DT class/NN ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/IN any/DT no/DT -/HYPH regret/NN online/JJ learning/NN algorithm/NN can/MD be/VB used/VBN to/TO obtain/VB a/DT near/JJ -/HYPH optimal/JJ policy/NN ,/, provided/VBD some/DT model/NN achieves/VBZ low/JJ training/NN error/NN and/CC access/NN to/IN a/DT good/JJ exploration/NN distribution/NN ./.
+Our/PRP$ approach/NN applies/VBZ to/IN both/DT discrete/JJ and/CC continuous/JJ domains/NNS ./.
+We/PRP demonstrate/VBP its/PRP$ efficacy/NN and/CC scalability/NN on/IN a/DT challenging/JJ helicopter/NN domain/NN from/IN the/DT literature/NN ./.

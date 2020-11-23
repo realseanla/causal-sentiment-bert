@@ -1,0 +1,8 @@
+Encoder/NN -/HYPH decoder/NN models/NNS have/VBP been/VBN widely/RB used/VBN to/TO solve/VB sequence/NN to/IN sequence/NN prediction/NN tasks/NNS ./.
+However/RB current/JJ approaches/NNS suffer/VBP from/IN two/CD shortcomings/NNS ./.
+First/RB ,/, the/DT encoders/NNS compute/VB a/DT representation/NN of/IN each/DT word/NN taking/VBG into/IN account/NN only/RB the/DT history/NN of/IN the/DT words/NNS it/PRP has/VBZ read/VBN so/RB far/RB ,/, yielding/VBG suboptimal/JJ representations/NNS ./.
+Second/RB ,/, current/JJ decoders/NNS utilize/VBP large/JJ vocabularies/NNS in/IN order/NN to/TO minimize/VB the/DT problem/NN of/IN unknown/JJ words/NNS ,/, resulting/VBG in/IN slow/JJ decoding/NN times/NNS ./.
+In/IN this/DT paper/NN we/PRP address/VBP both/DT shortcomings/NNS ./.
+Towards/IN this/DT goal/NN ,/, we/PRP first/RB introduce/VB a/DT simple/JJ mechanism/NN that/WDT first/RB reads/VBZ the/DT input/NN sequence/NN before/IN committing/VBG to/IN a/DT representation/NN of/IN each/DT word/NN ./.
+Furthermore/RB ,/, we/PRP propose/VBP a/DT simple/JJ copy/NN mechanism/NN that/WDT is/VBZ able/JJ to/TO exploit/VB very/RB small/JJ vocabularies/NNS and/CC handle/VB out/RB -/HYPH of/IN -/HYPH vocabulary/NN words/NNS ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN on/IN the/DT Gigaword/NNP dataset/NN and/CC DUC/NN competition/NN outperforming/VBG the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ./.

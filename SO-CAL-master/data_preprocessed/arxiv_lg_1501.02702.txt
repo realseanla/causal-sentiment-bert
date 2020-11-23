@@ -1,0 +1,8 @@
+We/PRP propose/VBP novel/JJ methods/NNS for/IN max/NN -/HYPH cost/NN Discrete/NN Function/NN Evaluation/NN Problem/NN (/-LRB- DFEP/NN )/-RRB- under/IN budget/NN constraints/NNS ./.
+We/PRP are/VBP motivated/VBN by/IN applications/NNS such/JJ as/IN clinical/JJ diagnosis/NN where/WRB a/DT patient/NN is/VBZ subjected/VBN to/IN a/DT sequence/NN of/IN (/-LRB- possibly/RB expensive/JJ )/-RRB- tests/NNS before/IN a/DT decision/NN is/VBZ made/VBN ./.
+Our/PRP$ goal/NN is/VBZ to/TO develop/VB strategies/NNS for/IN minimizing/VBG max/NN -/HYPH costs/NNS ./.
+The/DT problem/NN is/VBZ known/VBN to/TO be/VB NP/NNP hard/JJ and/CC greedy/JJ methods/NNS based/VBN on/IN specialized/JJ impurity/NN functions/NNS have/VBP been/VBN proposed/VBN ./.
+We/PRP develop/VBP a/DT broad/JJ class/NN of/IN \/SYM emph/NN {/-LRB- admissible/JJ }/-RRB- impurity/NN functions/NNS that/WDT admit/VBP monomials/NNS ,/, classes/NNS of/IN polynomials/NNS ,/, and/CC hinge/NN -/HYPH loss/NN functions/NNS that/WDT allow/VBP for/IN flexible/JJ impurity/NN design/NN with/IN provably/RB optimal/JJ approximation/NN bounds/NNS ./.
+This/DT flexibility/NN is/VBZ important/JJ for/IN datasets/NNS when/WRB max/NN -/HYPH cost/NN can/MD be/VB overly/RB sensitive/JJ to/IN "/`` outliers/NNS ./. "/''
+Outliers/NNS bias/VBP max/NN -/HYPH cost/NN to/IN a/DT few/JJ examples/NNS that/WDT require/VBP a/DT large/JJ number/NN of/IN tests/NNS for/IN classification/NN ./.
+We/PRP design/VBP admissible/JJ functions/NNS that/WDT allow/VBP for/IN accuracy/NN -/HYPH cost/NN trade/NN -/HYPH off/NN and/CC result/VBP in/IN $/$ O/UH (/-LRB- \/SYM log/NN n/NN )/-RRB- $/$ guarantees/NNS of/IN the/DT optimal/JJ cost/NN among/IN trees/NNS with/IN corresponding/VBG classification/NN accuracy/NN levels/NNS ./.

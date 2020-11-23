@@ -1,0 +1,5 @@
+This paper presents a design of a non-player character (AI) for promoting balancedness in use of body segments when engaging in full-body motion gaming.
+In our experiment, we settle a battle between the proposed AI and a player by using FightingICE, a fighting game platform for AI development.
+A middleware called UKI is used to allow the player to control the game by using body motion instead of the keyboard and mouse.
+During gameplay, the proposed AI analyze health states of the player; it determines its next action by predicting how each candidate action, recommended by a Monte-Carlo tree search algorithm, will induce the player to move, and how the player's health tends to be affected.
+Our result demonstrates successful improvement in balancedness in use of body segments on 4 out of 5 subjects.

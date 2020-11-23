@@ -1,0 +1,7 @@
+Graph/NN -/HYPH based/VBN representations/NNS of/IN images/NNS have/VBP recently/RB acquired/VBN an/DT important/JJ role/NN for/IN classification/NN purposes/NNS within/IN the/DT context/NN of/IN machine/NN learning/NN approaches/NNS ./.
+The/DT underlying/JJ idea/NN is/VBZ to/TO consider/VB that/DT relevant/JJ information/NN of/IN an/DT image/NN is/VBZ implicitly/RB encoded/VBN into/IN the/DT relationships/NNS between/IN more/JJR basic/JJ entities/NNS that/WDT compose/VBP by/IN themselves/PRP the/DT whole/JJ image/NN ./.
+The/DT classification/NN problem/NN is/VBZ then/RB reformulated/VBN in/IN terms/NNS of/IN an/DT optimization/NN problem/NN usually/RB solved/VBN by/IN a/DT gradient/NN -/HYPH based/VBN search/NN procedure/NN ./.
+Vario/NNP -/HYPH eta/NN through/IN structure/NN is/VBZ an/DT approximate/JJ second/JJ order/NN stochastic/JJ optimization/NN technique/NN that/WDT achieves/VBZ a/DT good/JJ trade/NN -/HYPH off/NN between/IN speed/NN of/IN convergence/NN and/CC the/DT computational/JJ effort/NN required/VBN ./.
+However/RB ,/, the/DT robustness/NN of/IN this/DT technique/NN for/IN large/JJ scale/NN problems/NNS has/VBZ not/RB been/VBN yet/RB assessed/VBN ./.
+In/IN this/DT paper/NN we/PRP firstly/RB provide/VBP a/DT theoretical/JJ justification/NN of/IN the/DT assumptions/NNS made/VBN by/IN this/DT optimization/NN procedure/NN ./.
+Secondly/RB ,/, a/DT complexity/NN analysis/NN of/IN the/DT algorithm/NN is/VBZ performed/VBN to/TO prove/VB its/PRP$ suitability/NN for/IN large/JJ scale/NN learning/NN problems/NNS ./.

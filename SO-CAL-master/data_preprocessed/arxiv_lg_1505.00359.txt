@@ -1,0 +1,7 @@
+Is/VBZ he/PRP //, she/PRP attractive/JJ or/CC not/RB ?/.
+We/PRP can/MD often/RB answer/VB this/DT question/NN in/IN a/DT split/NN of/IN a/DT second/JJ ,/, and/CC this/DT ability/NN is/VBZ one/CD of/IN the/DT main/JJ reasons/NNS behind/IN the/DT success/NN of/IN recent/JJ dating/NN apps/NNS ./.
+In/IN this/DT paper/NN we/PRP explore/VBP if/IN we/PRP can/MD predict/VB attractiveness/NN from/IN profile/NN pictures/NNS with/IN convolutional/JJ networks/NNS ./.
+We/PRP argue/VBP that/IN the/DT introduced/VBN task/NN is/VBZ difficult/JJ due/IN to/IN i/PRP )/-RRB- the/DT large/JJ number/NN of/IN variations/NNS in/IN profile/NN pictures/NNS and/CC ii/LS )/-RRB- the/DT noise/NN in/IN attractiveness/NN labels/NNS ./.
+We/PRP find/VBP that/IN our/PRP$ self/NN -/HYPH labeled/VBN dataset/NN of/IN $/$ 9364/CD $/$ pictures/NNS is/VBZ too/RB small/JJ to/TO apply/VB a/DT convolutional/JJ network/NN directly/RB ./.
+We/PRP resort/VBP to/IN transfer/NN learning/NN and/CC compare/VB feature/NN representations/NNS transferred/VBN from/IN VGGNet/NNP and/CC a/DT self/NN -/HYPH trained/VBN gender/NN prediction/NN network/NN ./.
+Our/PRP$ findings/NNS show/VBP that/IN VGGNet/NN features/NNS transfer/VB better/JJR and/CC we/PRP conclude/VBP that/IN our/PRP$ best/JJS model/NN ,/, achieving/VBG $/$ 68.1/CD \/SYM percent/NN $/$ accuracy/NN on/IN the/DT test/NN set/VBN ,/, is/VBZ moderately/RB successful/JJ at/IN predicting/VBG attractiveness/NN ./.

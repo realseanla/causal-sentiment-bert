@@ -1,0 +1,9 @@
+This/DT paper/NN presents/VBZ a/DT novel/JJ form/NN of/IN policy/NN gradient/NN for/IN model/NN -/HYPH free/JJ reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- with/IN improved/VBN exploration/NN properties/NNS ./.
+Current/JJ policy/NN -/HYPH based/VBN methods/NNS use/VBP entropy/NN regularization/NN to/TO encourage/VB undirected/JJ exploration/NN of/IN the/DT reward/NN landscape/NN ,/, which/WDT is/VBZ ineffective/JJ in/IN high/JJ dimensional/JJ spaces/NNS with/IN sparse/JJ rewards/NNS ./.
+We/PRP propose/VBP a/DT more/RBR directed/JJ exploration/NN strategy/NN that/WDT promotes/VBZ exploration/NN of/IN {/-LRB- \/SYM em/PRP under/IN -/HYPH appreciated/VBN reward/NN }/-RRB- regions/NNS ./.
+An/DT action/NN sequence/NN is/VBZ considered/VBN under/IN -/HYPH appreciated/VBN if/IN its/PRP$ log/NN -/HYPH probability/NN under/IN the/DT current/JJ policy/NN under/IN -/HYPH estimates/VBZ its/PRP$ \/SYM mbox/NN {/-LRB- resulting/VBG }/-RRB- reward/NN ./.
+The/DT proposed/VBN exploration/NN strategy/NN is/VBZ easy/JJ to/TO implement/VB ,/, requiring/VBG small/JJ modifications/NNS to/IN an/DT implementation/NN of/IN the/DT REINFORCE/NN algorithm/NN ./.
+We/PRP evaluate/VBP the/DT approach/NN on/IN a/DT set/NN of/IN algorithmic/JJ tasks/NNS that/WDT have/VBP long/JJ challenged/VBN RL/NN methods/NNS ./.
+Our/PRP$ approach/NN reduces/VBZ hyper/JJ -/HYPH parameter/NN sensitivity/NN and/CC demonstrates/VBZ significant/JJ improvements/NNS over/IN baseline/NN methods/NNS ./.
+Our/PRP$ algorithm/NN successfully/RB solves/VBZ a/DT benchmark/NN multi-digit/JJ addition/NN task/NN and/CC generalizes/VBZ to/IN long/JJ sequences/NNS ./.
+This/DT is/VBZ ,/, to/IN our/PRP$ knowledge/NN ,/, the/DT first/JJ time/NN that/WDT a/DT pure/JJ RL/NN method/NN has/VBZ solved/VBN addition/NN using/VBG only/RB reward/VB feedback/NN ./.

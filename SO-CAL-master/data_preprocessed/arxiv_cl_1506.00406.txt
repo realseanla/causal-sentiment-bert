@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP two/CD new/JJ features/NNS for/IN estimating/VBG phrase/NN based/VBN machine/NN translation/NN parameters/NNS ./.
+We/PRP only/RB use/VBP monolingual/JJ data/NNS with/IN the/DT assumption/NN that/IN the/DT phrase/NN table/NN is/VBZ given/VBN to/IN us/PRP ,/, but/CC all/DT of/IN its/PRP$ scores/NNS have/VBP been/VBN removed.Our/NN method/NN is/VBZ based/VBN on/IN two/CD recently/RB introduced/VBN neural/JJ network/NN vector/NN representation/NN models/NNS for/IN words/NNS and/CC sentences/NNS ./.
+It/PRP is/VBZ the/DT first/JJ use/NN of/IN these/DT models/NNS in/IN an/DT end/NN to/IN end/NN phrase/NN based/VBN machine/NN translation/NN system/NN ./.
+Scores/NNS obtained/VBN from/IN our/PRP$ method/NN can/MD recover/VB more/JJR than/IN 80/CD percent/NN of/IN BLEU/NN loss/NN caused/VBN by/IN removing/VBG phrase/NN table/NN probabilities/NNS ./.
+We/PRP also/RB show/VBP that/IN our/PRP$ features/NNS combined/VBN with/IN the/DT phrase/NN table/NN probabilities/NNS improve/VBP the/DT BLEU/NNP score/NN by/IN 0.74/CD points/NNS

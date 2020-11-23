@@ -1,0 +1,6 @@
+We/PRP consider/VBP an/DT agent/NN 's/POS uncertainty/NN about/IN its/PRP$ environment/NN and/CC the/DT problem/NN of/IN generalizing/VBG this/DT uncertainty/NN across/IN observations/NNS ./.
+Specifically/RB ,/, we/PRP focus/VBP on/IN the/DT problem/NN of/IN exploration/NN in/IN non-tabular/JJ reinforcement/NN learning/NN ./.
+Drawing/VBG inspiration/NN from/IN the/DT intrinsic/JJ motivation/NN literature/NN ,/, we/PRP use/VBP sequential/JJ density/NN models/NNS to/TO measure/VB uncertainty/NN ,/, and/CC propose/VB a/DT novel/JJ algorithm/NN for/IN deriving/VBG a/DT pseudo-count/NN from/IN an/DT arbitrary/JJ sequential/JJ density/NN model/NN ./.
+This/DT technique/NN enables/VBZ us/PRP to/TO generalize/VB count/NN -/HYPH based/VBN exploration/NN algorithms/NNS to/IN the/DT non-tabular/JJ case/NN ./.
+We/PRP apply/VBP our/PRP$ ideas/NNS to/IN Atari/NNP 2600/CD games/NNS ,/, providing/VBG sensible/JJ pseudo-counts/NNS from/IN raw/JJ pixels/NNS ./.
+We/PRP transform/VBP these/DT pseudo-counts/NNS into/IN intrinsic/JJ rewards/NNS and/CC obtain/VB significantly/RB improved/VBN exploration/NN in/IN a/DT number/NN of/IN hard/JJ games/NNS ,/, including/VBG the/DT infamously/RB difficult/JJ Montezuma/NNP 's/POS Revenge/NN ./.

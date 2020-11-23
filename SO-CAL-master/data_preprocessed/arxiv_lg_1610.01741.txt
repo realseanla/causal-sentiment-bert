@@ -1,0 +1,12 @@
+Sleep/NN stages/NNS pattern/NN provides/VBZ important/JJ clues/NNS in/IN diagnosing/VBG the/DT presence/NN of/IN sleep/NN disorder/NN ./.
+By/IN analyzing/VBG sleep/NN stages/NNS pattern/NN and/CC extracting/VBG its/PRP$ features/NNS from/IN EEG/NNP ,/, EOG/NNP ,/, and/CC EMG/NNP signals/NNS ,/, we/PRP can/MD classify/VB sleep/NN stages/NNS ./.
+This/DT study/NN presents/VBZ a/DT novel/JJ classification/NN model/NN for/IN predicting/VBG sleep/NN stages/NNS with/IN a/DT high/JJ accuracy/NN ./.
+The/DT main/JJ idea/NN is/VBZ to/TO combine/VB the/DT generative/JJ capability/NN of/IN Deep/NNP Belief/NNP Network/NNP (/-LRB- DBN/NNP )/-RRB- with/IN a/DT discriminative/JJ ability/NN and/CC sequence/NN pattern/NN recognizing/VBG capability/NN of/IN Long/JJ Short/JJ -/HYPH term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- ./.
+We/PRP use/VBP DBN/NNP that/WDT is/VBZ treated/VBN as/IN an/DT automatic/JJ higher/JJR level/NN features/NNS generator/NN ./.
+The/DT input/NN to/IN DBN/NNP is/VBZ 28/CD "/'' handcrafted/VBN "/`` features/NNS as/IN used/VBN in/IN previous/JJ sleep/NN stages/NNS studies/NNS ./.
+We/PRP compared/VBD our/PRP$ method/NN with/IN other/JJ techniques/NNS which/WDT combined/VBD DBN/NNP with/IN Hidden/NNP Markov/NNP Model/NNP (/-LRB- HMM/NNP )/-RRB- ./.
+In/IN this/DT study/NN ,/, we/PRP exploit/VBP the/DT sequence/NN or/CC time/NN series/NN characteristics/NNS of/IN sleep/NN dataset/NN ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, most/JJS of/IN the/DT present/JJ sleep/NN analysis/NN from/IN polysomnogram/NNP relies/VBZ only/RB on/IN single/JJ instanced/VBN label/NN (/-LRB- nonsequence/NN )/-RRB- for/IN classification/NN ./.
+In/IN this/DT study/NN ,/, we/PRP used/VBD two/CD datasets/NNS :/: an/DT open/JJ data/NNS set/VBP that/DT is/VBZ treated/VBN as/IN a/DT benchmark/NN ;/: the/DT other/JJ dataset/NN is/VBZ our/PRP$ sleep/NN stages/NNS dataset/NN (/-LRB- available/JJ for/IN download/NN )/-RRB- to/TO verify/VB the/DT results/NNS further/RB ./.
+Our/PRP$ experiments/NNS showed/VBD that/IN the/DT combination/NN of/IN DBN/NNP with/IN LSTM/NNP gives/VBZ better/JJR overall/JJ accuracy/NN 98.75/CD \/SYM percent/NN (/-LRB- Fscore/NN =/SYM 0.9875/CD )/-RRB- for/IN benchmark/NN dataset/NN and/CC 98.94/CD \/SYM percent/NN (/-LRB- Fscore/NN =/SYM 0.9894/CD )/-RRB- for/IN MKG/NN dataset/NN ./.
+This/DT result/NN is/VBZ better/JJR than/IN the/DT state/NN of/IN the/DT art/NN of/IN sleep/NN stages/NNS classification/NN that/WDT was/VBD 91.31/CD \/SYM percent/NN ./.

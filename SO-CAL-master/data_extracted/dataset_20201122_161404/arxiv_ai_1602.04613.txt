@@ -1,0 +1,7 @@
+Data Warehouses are structures with large amount of data collected from heterogeneous sources to be used in a decision support system.
+Data Warehouses analysis identifies hidden patterns initially unexpected which analysis requires great memory and computation cost.
+Data reduction methods were proposed to make this analysis easier.
+In this paper, we present a hybrid approach based on Genetic Algorithms (GA) as Evolutionary Algorithms and the Multiple Correspondence Analysis (MCA) as Analysis Factor Methods to conduct this reduction.
+Our approach identifies reduced subset of dimensions from the initial subset p where p'&lt;p where it is proposed to find the profile fact that is the closest to reference.
+GAs identify the possible subsets and the Khi formula of the ACM evaluates the quality of each subset.
+The study is based on a distance measurement between the reference and n facts profile extracted from the Warehouses.

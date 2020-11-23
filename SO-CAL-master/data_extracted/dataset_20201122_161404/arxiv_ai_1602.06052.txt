@@ -1,0 +1,3 @@
+In this paper, we introduce a notion of backdoors to Reiter's propositional default logic and study structural properties of it.
+Also we consider the problems of backdoor detection (parameterised by the solution size) as well as backdoor evaluation (parameterised by the size of the given backdoor), for various kinds of target classes (cnf, horn, krom, monotone, identity).
+We show that backdoor detection is fixed-parameter tractable for the considered target classes, and backdoor evaluation is either fixed-parameter tractable, in para-DP2 , or in para-NP, depending on the target class.

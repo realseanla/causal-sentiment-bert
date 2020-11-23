@@ -1,0 +1,4 @@
+We/PRP introduce/VBP a/DT simple/JJ recurrent/JJ variational/JJ auto/NN -/HYPH encoder/NN architecture/NN that/WDT significantly/RB improves/VBZ image/NN modeling/NN ./.
+The/DT system/NN represents/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN latent/JJ variable/JJ models/NNS for/IN both/CC the/DT ImageNet/NNP and/CC Omniglot/NNP datasets/NNS ./.
+We/PRP show/VBP that/IN it/PRP naturally/RB separates/VBZ global/JJ conceptual/JJ information/NN from/IN lower/JJR level/NN details/NNS ,/, thus/RB addressing/VBG one/CD of/IN the/DT fundamentally/RB desired/VBN properties/NNS of/IN unsupervised/JJ learning/NN ./.
+Furthermore/RB ,/, the/DT possibility/NN of/IN restricting/VBG ourselves/PRP to/IN storing/VBG only/RB global/JJ information/NN about/IN an/DT image/NN allows/VBZ us/PRP to/TO achieve/VB high/JJ quality/NN '/'' conceptual/JJ compression/NN '/'' ./.

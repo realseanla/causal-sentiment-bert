@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT novel/JJ factor/NN graph/NN model/NN for/IN argument/NN mining/NN ,/, designed/VBN for/IN settings/NNS in/IN which/WDT the/DT argumentative/JJ relations/NNS in/IN a/DT document/NN do/VBP not/RB necessarily/RB form/VB a/DT tree/NN structure/NN ./.
+(/-LRB- This/DT is/VBZ the/DT case/NN in/IN over/IN 20/CD percent/NN of/IN the/DT web/NN comments/VBZ dataset/NN we/PRP release/VBP ./. )/-RRB-
+Our/PRP$ model/NN jointly/RB learns/VBZ elementary/JJ unit/NN type/NN classification/NN and/CC argumentative/JJ relation/NN prediction/NN ./.
+Moreover/RB ,/, our/PRP$ model/NN supports/VBZ SVM/NNP and/CC RNN/NNP parametrizations/NNS ,/, can/MD enforce/VB structure/NN constraints/NNS (/-LRB- e.g./FW ,/, transitivity/NN )/-RRB- ,/, and/CC can/MD express/VB dependencies/NNS between/IN adjacent/JJ relations/NNS and/CC propositions/NNS ./.
+Our/PRP$ approaches/NNS outperform/VBP unstructured/JJ baselines/NNS in/IN both/DT web/NN comments/NNS and/CC argumentative/JJ essay/NN datasets/NNS ./.

@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT new/JJ distributed/VBN representation/NN in/IN deep/JJ neural/JJ nets/NNS wherein/WRB the/DT information/NN is/VBZ represented/VBN in/IN native/JJ form/NN as/IN a/DT matrix/NN ./.
+This/DT differs/VBZ from/IN current/JJ neural/JJ architectures/NNS that/WDT rely/VBP on/IN vector/NN representations/NNS ./.
+We/PRP consider/VBP matrices/NNS as/IN central/JJ to/IN the/DT architecture/NN and/CC they/PRP compose/VBP the/DT input/NN ,/, hidden/VBN and/CC output/NN layers/NNS ./.
+The/DT model/NN representation/NN is/VBZ more/RBR compact/JJ and/CC elegant/JJ -/HYPH the/DT number/NN of/IN parameters/NNS grows/VBZ only/RB with/IN the/DT largest/JJS dimension/NN of/IN the/DT incoming/JJ layer/NN rather/RB than/IN the/DT number/NN of/IN hidden/VBN units/NNS ./.
+We/PRP derive/VBP feed/NN -/HYPH forward/JJ nets/NNS that/WDT map/VBP an/DT input/NN matrix/NN into/IN an/DT output/NN matrix/NN ,/, and/CC recurrent/JJ nets/NNS which/WDT map/VBP a/DT sequence/NN of/IN input/NN matrices/NNS into/IN a/DT sequence/NN of/IN output/NN matrices/NNS ./.
+Experiments/NNS on/IN handwritten/JJ digits/NNS recognition/NN ,/, face/NN reconstruction/NN ,/, sequence/NN to/IN sequence/NN learning/NN and/CC EEG/NN classification/NN demonstrate/VBP the/DT efficacy/NN and/CC compactness/NN of/IN the/DT matrix/NN -/HYPH centric/JJ architectures/NNS ./.

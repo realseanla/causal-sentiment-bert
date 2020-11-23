@@ -1,0 +1,7 @@
+We/PRP develop/VBP a/DT family/NN of/IN accelerated/VBN stochastic/JJ algorithms/NNS that/WDT minimize/VBP sums/NNS of/IN convex/NN functions/NNS ./.
+Our/PRP$ algorithms/NNS improve/VB upon/IN the/DT fastest/JJS running/NN time/NN for/IN empirical/JJ risk/NN minimization/NN (/-LRB- ERM/NN )/-RRB- ,/, and/CC in/IN particular/JJ linear/JJ least/RBS -/HYPH squares/NNS regression/NN ,/, across/IN a/DT wide/JJ range/NN of/IN problem/NN settings/NNS ./.
+To/TO achieve/VB this/DT ,/, we/PRP establish/VBP a/DT framework/NN based/VBN on/IN the/DT classical/JJ proximal/JJ point/NN algorithm/NN ./.
+Namely/RB ,/, we/PRP provide/VBP several/JJ algorithms/NNS that/WDT reduce/VBP the/DT minimization/NN of/IN a/DT strongly/RB convex/JJ function/NN to/TO approximate/VB minimizations/NNS of/IN regularizations/NNS of/IN the/DT function/NN ./.
+Using/VBG these/DT results/NNS ,/, we/PRP accelerate/VBP recent/JJ fast/JJ stochastic/JJ algorithms/NNS in/IN a/DT black/JJ -/HYPH box/NN fashion/NN ./.
+Empirically/RB ,/, we/PRP demonstrate/VBP that/IN the/DT resulting/VBG algorithms/NNS exhibit/VBP notions/NNS of/IN stability/NN that/WDT are/VBP advantageous/JJ in/IN practice/NN ./.
+Both/CC in/IN theory/NN and/CC in/IN practice/NN ,/, the/DT provided/VBN algorithms/NNS reap/VBP the/DT computational/JJ benefits/NNS of/IN adding/VBG a/DT large/JJ strongly/RB convex/JJ regularization/NN term/NN ,/, without/IN incurring/VBG a/DT corresponding/VBG bias/NN to/IN the/DT original/JJ problem/NN ./.

@@ -1,0 +1,6 @@
+Recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- were/VBD recently/RB proposed/VBN for/IN the/DT session/NN -/HYPH based/VBN recommendation/NN task/NN ./.
+The/DT models/NNS showed/VBD promising/JJ improvements/NNS over/IN traditional/JJ recommendation/NN approaches/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP further/RB study/VB RNNbased/VBN models/NNS for/IN session/NN -/HYPH based/VBN recommendations/NNS ./.
+We/PRP propose/VBP the/DT application/NN of/IN two/CD techniques/NNS to/TO improve/VB model/NN performance/NN ,/, namely/RB ,/, data/NNS augmentation/NN ,/, and/CC a/DT method/NN to/TO account/VB for/IN shifts/NNS in/IN the/DT input/NN data/NNS distribution/NN ./.
+We/PRP also/RB empirically/RB study/VB the/DT use/NN of/IN generalised/VBN distillation/NN ,/, and/CC a/DT novel/JJ alternative/JJ model/NN that/WDT directly/RB predicts/VBZ item/NN embeddings/NNS ./.
+Experiments/NNS on/IN the/DT RecSys/NNP Challenge/NNP 2015/CD dataset/NN demonstrate/VBP relative/JJ improvements/NNS of/IN 12.8/CD percent/NN and/CC 14.8/CD percent/NN over/IN previously/RB reported/VBN results/NNS on/IN the/DT Recall@20/NN and/CC Mean/NNP Reciprocal/JJ Rank@20/NN metrics/NNS respectively/RB ./.

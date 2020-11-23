@@ -1,0 +1,8 @@
+Recommender/NN systems/NNS play/VBP an/DT increasingly/RB important/JJ role/NN in/IN online/JJ applications/NNS to/TO help/VB users/NNS find/VB what/WP they/PRP need/VBP or/CC prefer/VBP ./.
+Collaborative/JJ filtering/NN algorithms/NNS that/WDT generate/VBP predictions/NNS by/IN analyzing/VBG the/DT user/NN -/HYPH item/NN rating/NN matrix/NN perform/VB poorly/RB when/WRB the/DT matrix/NN is/VBZ sparse/JJ ./.
+To/TO alleviate/VB this/DT problem/NN ,/, this/DT paper/NN proposes/VBZ a/DT simple/JJ recommendation/NN algorithm/NN that/WDT fully/RB exploits/VBZ the/DT similarity/NN information/NN among/IN users/NNS and/CC items/NNS and/CC intrinsic/JJ structural/JJ information/NN of/IN the/DT user/NN -/HYPH item/NN matrix/NN ./.
+The/DT proposed/JJ method/NN constructs/NNS a/DT new/JJ representation/NN which/WDT preserves/VBZ affinity/NN and/CC structure/NN information/NN in/IN the/DT user/NN -/HYPH item/NN rating/NN matrix/NN and/CC then/RB performs/VBZ recommendation/NN task/NN ./.
+To/TO capture/VB proximity/NN information/NN about/IN users/NNS and/CC items/NNS ,/, two/CD graphs/NNS are/VBP constructed/VBN ./.
+Manifold/NN learning/NN idea/NN is/VBZ used/VBN to/TO constrain/VB the/DT new/JJ representation/NN to/TO be/VB smooth/JJ on/IN these/DT graphs/NNS ,/, so/RB as/IN to/TO enforce/VB users/NNS and/CC item/NN proximities/NNS ./.
+Our/PRP$ model/NN is/VBZ formulated/VBN as/IN a/DT convex/NN optimization/NN problem/NN ,/, for/IN which/WDT we/PRP need/VBP to/TO solve/VB the/DT well/NN -/HYPH known/VBN Sylvester/NNP equation/NN only/RB ./.
+We/PRP carry/VBP out/RP extensive/JJ empirical/JJ evaluations/NNS on/IN six/CD benchmark/NN datasets/NNS to/TO show/VB the/DT effectiveness/NN of/IN this/DT approach/NN ./.

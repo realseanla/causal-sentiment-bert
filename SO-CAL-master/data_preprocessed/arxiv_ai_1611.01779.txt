@@ -1,0 +1,10 @@
+We/PRP present/VBP an/DT approach/NN to/IN sensorimotor/NN control/NN in/IN immersive/JJ environments/NNS ./.
+Our/PRP$ approach/NN utilizes/VBZ a/DT high/JJ -/HYPH dimensional/JJ sensory/JJ stream/NN and/CC a/DT lower/JJR -/HYPH dimensional/JJ measurement/NN stream/NN ./.
+The/DT cotemporal/JJ structure/NN of/IN these/DT streams/NNS provides/VBZ a/DT rich/JJ supervisory/JJ signal/NN ,/, which/WDT enables/VBZ training/VBG a/DT sensorimotor/NN control/NN model/NN by/IN interacting/VBG with/IN the/DT environment/NN ./.
+The/DT model/NN is/VBZ trained/VBN using/VBG supervised/JJ learning/NN techniques/NNS ,/, but/CC without/IN extraneous/JJ supervision/NN ./.
+It/PRP learns/VBZ to/TO act/VB based/VBN on/IN raw/JJ sensory/JJ input/NN from/IN a/DT complex/JJ three/CD -/HYPH dimensional/JJ environment/NN ./.
+The/DT presented/VBN formulation/NN allows/VBZ changing/VBG the/DT agent/NN 's/POS goal/NN at/IN test/NN time/NN ./.
+We/PRP conduct/VBP extensive/JJ experiments/NNS in/IN three/CD -/HYPH dimensional/JJ simulations/NNS based/VBN on/IN the/DT classical/JJ first/JJ -/HYPH person/NN game/NN Doom/NNP ./.
+The/DT results/NNS demonstrate/VBP that/IN the/DT presented/VBN approach/NN outperforms/VBZ sophisticated/JJ prior/JJ formulations/NNS ,/, particularly/RB on/RB challenging/JJ tasks/NNS ./.
+The/DT results/NNS also/RB show/VBP that/IN trained/VBN models/NNS successfully/RB generalize/VB across/IN environments/NNS and/CC goals/NNS ./.
+A/DT model/NN trained/VBN using/VBG the/DT presented/VBN approach/NN won/VBD the/DT Full/JJ Deathmatch/NN track/NN of/IN the/DT Visual/JJ Doom/NNP AI/NN Competition/NN ,/, which/WDT was/VBD held/VBN in/IN previously/RB unseen/JJ environments/NNS ./.

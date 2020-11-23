@@ -1,0 +1,6 @@
+Policy/NN evaluation/NN is/VBZ a/DT crucial/JJ step/NN in/IN many/JJ reinforcement/NN -/HYPH learning/NN procedures/NNS ,/, which/WDT estimates/VBZ a/DT value/NN function/NN that/WDT predicts/VBZ states/NNS '/POS long/JJ -/HYPH term/NN value/NN under/IN a/DT given/VBN policy/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN policy/NN evaluation/NN with/IN linear/JJ function/NN approximation/NN over/IN a/DT fixed/VBN dataset/NN ./.
+We/PRP first/RB transform/VB the/DT empirical/JJ policy/NN evaluation/NN problem/NN into/IN a/DT (/-LRB- quadratic/JJ )/-RRB- convex/NN -/HYPH concave/NN saddle/NN point/NN problem/NN ,/, and/CC then/RB present/VB a/DT primal/JJ -/HYPH dual/JJ batch/NN gradient/NN method/NN ,/, as/RB well/RB as/IN two/CD stochastic/JJ variance/NN reduction/NN methods/NNS for/IN solving/VBG the/DT problem/NN ./.
+These/DT algorithms/NNS scale/NN linearly/RB in/IN both/DT sample/NN size/NN and/CC feature/NN dimension/NN ./.
+Moreover/RB ,/, they/PRP achieve/VBP linear/JJ convergence/NN even/RB when/WRB the/DT saddle/NN -/HYPH point/NN problem/NN has/VBZ only/RB strong/JJ concavity/NN in/IN the/DT dual/JJ variables/NNS but/CC no/DT strong/JJ convexity/NN in/IN the/DT primal/JJ variables/NNS ./.
+Numerical/NNP experiments/NNS on/IN benchmark/NN problems/NNS demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ methods/NNS ./.

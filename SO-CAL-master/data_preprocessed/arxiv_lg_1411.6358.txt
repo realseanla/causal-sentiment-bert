@@ -1,0 +1,6 @@
+Currently/RB ,/, many/JJ machine/NN learning/VBG algorithms/NNS contain/VBP lots/NNS of/IN iterations/NNS ./.
+When/WRB it/PRP comes/VBZ to/IN existing/VBG large/JJ -/HYPH scale/NN distributed/VBN systems/NNS ,/, some/DT slave/NN nodes/NNS may/MD break/VB down/RP or/CC have/VB lower/JJR efficiency/NN ./.
+Therefore/RB traditional/JJ machine/NN learning/VBG algorithm/NN may/MD fail/VB because/IN of/IN the/DT instability/NN of/IN distributed/VBN system.We/NN presents/VBZ a/DT hybrid/NN approach/NN which/WDT not/RB only/RB own/VB a/DT high/JJ fault/NN -/HYPH tolerant/JJ but/CC also/RB achieve/VB a/DT balance/NN of/IN performance/NN and/CC efficiency.For/NN each/DT iteration/NN ,/, the/DT result/NN of/IN slow/JJ machines/NNS will/MD be/VB abandoned/VBN ./.
+Then/RB ,/, we/PRP discuss/VBP the/DT relationship/NN between/IN accuracy/NN and/CC abandon/VB rate/NN ./.
+Next/RB we/PRP debate/VBP the/DT convergence/NN speed/NN of/IN this/DT process/NN ./.
+Finally/RB ,/, our/PRP$ experiments/NNS demonstrate/VBP our/PRP$ idea/NN can/MD dramatically/RB reduce/VB calculation/NN time/NN and/CC be/VB used/VBN in/IN many/JJ platforms/NNS ./.

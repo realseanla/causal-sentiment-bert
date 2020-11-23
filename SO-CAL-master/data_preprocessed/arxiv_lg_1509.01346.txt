@@ -1,0 +1,9 @@
+Deep/JJ learning/NN has/VBZ demonstrated/VBN the/DT power/NN of/IN detailed/JJ modeling/NN of/IN complex/JJ high/JJ -/HYPH order/NN (/-LRB- multivariate/JJ )/-RRB- interactions/NNS in/IN data/NNS ./.
+For/IN some/DT learning/NN tasks/NNS there/EX is/VBZ power/NN in/IN learning/NN models/NNS that/WDT are/VBP not/RB only/RB Deep/JJ but/CC also/RB Broad/JJ ./.
+By/IN Broad/NNP ,/, we/PRP mean/VBP models/NNS that/WDT incorporate/VBP evidence/NN from/IN large/JJ numbers/NNS of/IN features/NNS ./.
+This/DT is/VBZ of/IN especial/JJ value/NN in/IN applications/NNS where/WRB many/JJ different/JJ features/NNS and/CC combinations/NNS of/IN features/NNS all/DT carry/VBP small/JJ amounts/NNS of/IN information/NN about/IN the/DT class/NN ./.
+The/DT most/RBS accurate/JJ models/NNS will/MD integrate/VB all/DT that/WDT information/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT algorithm/NN for/IN Deep/NNP Broad/NNP Learning/NNP called/VBD DBL/NNP ./.
+The/DT proposed/VBN algorithm/NN has/VBZ a/DT tunable/JJ parameter/NN $/$ n/NN $/$ ,/, that/IN specifies/VBZ the/DT depth/NN of/IN the/DT model/NN ./.
+It/PRP provides/VBZ straightforward/JJ paths/NNS towards/IN out/IN -/HYPH of/IN -/HYPH core/NN learning/NN for/IN large/JJ data/NNS ./.
+We/PRP demonstrate/VBP that/IN DBL/NNP learns/VBZ models/NNS from/IN large/JJ quantities/NNS of/IN data/NNS with/IN accuracy/NN that/WDT is/VBZ highly/RB competitive/JJ with/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ./.

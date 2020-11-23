@@ -1,0 +1,5 @@
+Approximate/JJ inference/NN in/IN dynamic/JJ systems/NNS is/VBZ the/DT problem/NN of/IN estimating/VBG the/DT state/NN of/IN the/DT system/NN given/VBN a/DT sequence/NN of/IN actions/NNS and/CC partial/JJ observations/NNS ./.
+High/JJ precision/NN estimation/NN is/VBZ fundamental/JJ in/IN many/JJ applications/NNS like/IN diagnosis/NN ,/, natural/JJ language/NN processing/NN ,/, tracking/NN ,/, planning/NN ,/, and/CC robotics/NNS ./.
+In/IN this/DT paper/NN we/PRP present/VBP an/DT algorithm/NN that/WDT samples/VBZ possible/JJ deterministic/JJ executions/NNS of/IN a/DT probabilistic/JJ sequence/NN ./.
+The/DT algorithm/NN takes/VBZ advantage/NN of/IN a/DT compact/JJ representation/NN (/-LRB- using/VBG first/JJ order/NN logic/NN )/-RRB- for/IN actions/NNS and/CC world/NN states/VBZ to/TO improve/VB the/DT precision/NN of/IN its/PRP$ estimation/NN ./.
+Theoretical/JJ and/CC empirical/JJ results/NNS show/VBP that/IN the/DT algorithm/NN 's/POS expected/VBN error/NN is/VBZ smaller/JJR than/IN propositional/JJ sampling/NN and/CC Sequential/JJ Monte/NNP Carlo/NNP (/-LRB- SMC/NNP )/-RRB- sampling/NN techniques/NNS ./.

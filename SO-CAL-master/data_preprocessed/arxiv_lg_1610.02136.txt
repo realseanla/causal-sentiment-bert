@@ -1,0 +1,5 @@
+We/PRP consider/VBP the/DT two/CD related/JJ problems/NNS of/IN detecting/VBG if/IN an/DT example/NN is/VBZ misclassified/VBN or/CC out/RB -/HYPH of/IN -/HYPH distribution/NN ./.
+We/PRP present/VBP a/DT simple/JJ baseline/NN that/WDT utilizes/VBZ probabilities/NNS from/IN softmax/JJ distributions/NNS ./.
+Correctly/RB classified/JJ examples/NNS tend/VBP to/TO have/VB greater/JJR maximum/JJ softmax/NN probabilities/NNS than/IN erroneously/RB classified/VBN and/CC out/RB -/HYPH of/IN -/HYPH distribution/NN examples/NNS ,/, allowing/VBG for/IN their/PRP$ detection/NN ./.
+We/PRP assess/VBP performance/NN by/IN defining/VBG several/JJ tasks/NNS in/IN computer/NN vision/NN ,/, natural/JJ language/NN processing/NN ,/, and/CC automatic/JJ speech/NN recognition/NN ,/, showing/VBG the/DT effectiveness/NN of/IN this/DT baseline/NN across/IN all/DT ./.
+We/PRP then/RB show/VBP the/DT baseline/NN can/MD sometimes/RB be/VB surpassed/VBN ,/, demonstrating/VBG the/DT room/NN for/IN future/JJ research/NN on/IN these/DT underexplored/JJ detection/NN tasks/NNS ./.

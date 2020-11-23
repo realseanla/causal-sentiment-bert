@@ -1,0 +1,4 @@
+Simulation/NNP schemes/NNS for/IN probabilistic/JJ inference/NN in/IN Bayesian/JJ belief/NN networks/NNS offer/VBP many/JJ advantages/NNS over/IN exact/JJ algorithms/NNS ;/: for/IN example/NN ,/, these/DT schemes/NNS have/VBP a/DT linear/JJ and/CC thus/RB predictable/JJ runtime/NN while/IN exact/JJ algorithms/NNS have/VBP exponential/JJ runtime/NN ./.
+Experiments/NNS have/VBP shown/VBN that/IN likelihood/NN weighting/NN is/VBZ one/CD of/IN the/DT most/RBS promising/JJ simulation/NN schemes/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ simulation/NN scheme/NN that/WDT generates/VBZ samples/NNS more/RBR evenly/RB spread/VBN in/IN the/DT sample/NN space/NN than/IN the/DT likelihood/NN weighting/NN scheme/NN ./.
+We/PRP show/VBP both/CC theoretically/RB and/CC experimentally/RB that/IN the/DT stratified/JJ scheme/NN outperforms/VBZ likelihood/NN weighting/NN in/IN average/JJ runtime/NN and/CC error/NN in/IN estimates/NNS of/IN beliefs/NNS ./.

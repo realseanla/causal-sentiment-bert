@@ -1,0 +1,11 @@
+Many/JJ aspects/NNS of/IN people/NNS 's/POS lives/NNS are/VBP proven/VBN to/TO be/VB deeply/RB connected/VBN to/IN their/PRP$ jobs/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP first/RB investigate/VB the/DT distinct/JJ characteristics/NNS of/IN major/JJ occupation/NN categories/NNS based/VBN on/IN tweets/NNS ./.
+From/IN multiple/JJ social/JJ media/NNS platforms/NNS ,/, we/PRP gather/VBP several/JJ types/NNS of/IN user/NN information/NN ./.
+From/IN users/NNS '/POS LinkedIn/NN webpages/NNS ,/, we/PRP learn/VBP their/PRP$ proficiencies/NNS ./.
+To/TO overcome/VB the/DT ambiguity/NN of/IN self/NN -/HYPH reported/VBN information/NN ,/, a/DT soft/JJ clustering/NN approach/NN is/VBZ applied/VBN to/TO extract/VB occupations/NNS from/IN crowd/NN -/HYPH sourced/VBN data/NNS ./.
+Eight/CD job/NN categories/NNS are/VBP extracted/VBN ,/, including/VBG Marketing/NN ,/, Administrator/NN ,/, Start/VB -/HYPH up/RP ,/, Editor/NNP ,/, Software/NNP Engineer/NN ,/, Public/NNP Relation/NNP ,/, Office/NNP Clerk/NNP ,/, and/CC Designer/NN ./.
+Meanwhile/RB ,/, users/NNS '/POS posts/NNS on/IN Twitter/NNP provide/VBP cues/NNS for/IN understanding/VBG their/PRP$ linguistic/JJ styles/NNS ,/, interests/NNS ,/, and/CC personalities/NNS ./.
+Our/PRP$ results/NNS suggest/VBP that/IN people/NNS of/IN different/JJ jobs/NNS have/VBP unique/JJ tendencies/NNS in/IN certain/JJ language/NN styles/NNS and/CC interests/NNS ./.
+Our/PRP$ results/NNS also/RB clearly/RB reveal/VB distinctive/JJ levels/NNS in/IN terms/NNS of/IN Big/JJ Five/CD Traits/NNS for/IN different/JJ jobs/NNS ./.
+Finally/RB ,/, a/DT classifier/NN is/VBZ built/VBN to/TO predict/VB job/NN types/NNS based/VBN on/IN the/DT features/NNS extracted/VBN from/IN tweets/NNS ./.
+A/DT high/JJ accuracy/NN indicates/VBZ a/DT strong/JJ discrimination/NN power/NN of/IN language/NN features/NNS for/IN job/NN prediction/NN task/NN ./.

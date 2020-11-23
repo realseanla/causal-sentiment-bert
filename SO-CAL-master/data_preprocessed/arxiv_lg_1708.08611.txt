@@ -1,0 +1,9 @@
+Reinforcement/NN learning/NN algorithms/NNS discover/VBP policies/NNS that/WDT maximize/VBP reward/NN ,/, but/CC do/VBP not/RB necessarily/RB guarantee/VB safety/NN during/IN learning/NN or/CC execution/NN phases/NNS ./.
+We/PRP introduce/VBP a/DT new/JJ approach/NN to/TO learn/VB optimal/JJ policies/NNS while/IN enforcing/VBG properties/NNS expressed/VBN in/IN temporal/JJ logic/NN ./.
+To/IN this/DT end/NN ,/, given/VBN the/DT temporal/JJ logic/NN specification/NN that/WDT is/VBZ to/TO be/VB obeyed/VBN by/IN the/DT learning/NN system/NN ,/, we/PRP propose/VBP to/IN synthesize/VBP a/DT reactive/JJ system/NN called/VBD a/DT shield/NN ./.
+The/DT shield/NN is/VBZ introduced/VBN in/IN the/DT traditional/JJ learning/NN process/NN in/IN two/CD alternative/JJ ways/NNS ,/, depending/VBG on/IN the/DT location/NN at/IN which/WDT the/DT shield/NN is/VBZ implemented/VBN ./.
+In/IN the/DT first/JJ one/CD ,/, the/DT shield/NN acts/VBZ each/DT time/NN the/DT learning/NN agent/NN is/VBZ about/RB to/TO make/VB a/DT decision/NN and/CC provides/VBZ a/DT list/NN of/IN safe/JJ actions/NNS ./.
+In/IN the/DT second/JJ way/NN ,/, the/DT shield/NN is/VBZ introduced/VBN after/IN the/DT learning/NN agent/NN ./.
+The/DT shield/NN monitors/VBZ the/DT actions/NNS from/IN the/DT learner/NN and/CC corrects/VBZ them/PRP only/RB if/IN the/DT chosen/VBN action/NN causes/VBZ a/DT violation/NN of/IN the/DT specification/NN ./.
+We/PRP discuss/VBP which/WDT requirements/NNS a/DT shield/NN must/MD meet/VB to/TO preserve/VB the/DT convergence/NN guarantees/NNS of/IN the/DT learner/NN ./.
+Finally/RB ,/, we/PRP demonstrate/VBP the/DT versatility/NN of/IN our/PRP$ approach/NN on/IN several/JJ challenging/JJ reinforcement/NN learning/VBG scenarios/NNS ./.

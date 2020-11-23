@@ -1,0 +1,7 @@
+In recent years, work has been done to develop the theory of General Reinforcement Learning (GRL).
+However, there are few examples demonstrating these results in a concrete way.
+In particular, there are no examples demonstrating the known results regarding gener- alised discounting.
+We have added to the GRL simulation platform AIXIjs the functionality to assign an agent arbitrary discount functions, and an environment which can be used to determine the effect of discounting on an agent's policy.
+Using this, we investigate how geometric, hyperbolic and power discounting affect an informed agent in a simple MDP.
+We experimentally reproduce a number of theoretical results, and discuss some related subtleties.
+It was found that the agent's behaviour followed what is expected theoretically, assuming appropriate parameters were chosen for the Monte-Carlo Tree Search (MCTS) planning algorithm.

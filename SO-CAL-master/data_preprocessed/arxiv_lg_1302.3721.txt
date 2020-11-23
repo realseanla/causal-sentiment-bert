@@ -1,0 +1,9 @@
+Thompson/NNP Sampling/NNP has/VBZ recently/RB been/VBN shown/VBN to/TO be/VB optimal/JJ in/IN the/DT Bernoulli/NNP Multi-Armed/VBD Bandit/NN setting/NN [/-LRB- Kaufmann/NNP et/FW al./FW ,/, 2012/CD ]/-RRB- ./.
+This/DT bandit/NN problem/NN assumes/VBZ stationary/JJ distributions/NNS for/IN the/DT rewards/NNS ./.
+It/PRP is/VBZ often/RB unrealistic/JJ to/TO model/VB the/DT real/JJ world/NN as/IN a/DT stationary/JJ distribution/NN ./.
+In/IN this/DT paper/NN we/PRP derive/VBP and/CC evaluate/VBP algorithms/NNS using/VBG Thompson/NNP Sampling/NNP for/IN a/DT Switching/VBG Multi-Armed/JJ Bandit/NN Problem/NN ./.
+We/PRP propose/VBP a/DT Thompson/NNP Sampling/NNP strategy/NN equipped/VBN with/IN a/DT Bayesian/JJ change/NN point/NN mechanism/NN to/TO tackle/VB this/DT problem/NN ./.
+We/PRP develop/VBP algorithms/NNS for/IN a/DT variety/NN of/IN cases/NNS with/IN constant/JJ switching/NN rate/NN :/: when/WRB switching/VBG occurs/VBZ all/DT arms/NNS change/NN (/-LRB- Global/JJ Switching/NN )/-RRB- ,/, switching/VBG occurs/VBZ independently/RB for/IN each/DT arm/NN (/-LRB- Per/IN -/HYPH Arm/NN Switching/NN )/-RRB- ,/, when/WRB the/DT switching/VBG rate/NN is/VBZ known/VBN and/CC when/WRB it/PRP must/MD be/VB inferred/VBN from/IN data/NNS ./.
+This/DT leads/VBZ to/IN a/DT family/NN of/IN algorithms/NNS we/PRP collectively/RB term/VBP Change/NN -/HYPH Point/NN Thompson/NNP Sampling/NNP (/-LRB- CTS/NNP )/-RRB- ./.
+We/PRP show/VBP empirical/JJ results/NNS of/IN the/DT algorithm/NN in/IN 4/CD artificial/JJ environments/NNS ,/, and/CC 2/CD derived/VBN from/IN real/JJ world/NN data/NNS ;/: news/NN click/VB -/HYPH through/RP [/-LRB- Yahoo!/NNP ,/, 2011/CD ]/-RRB- and/CC foreign/JJ exchange/NN data/NNS [/-LRB- Dukascopy/NNP ,/, 2012/CD ]/-RRB- ,/, comparing/VBG them/PRP to/IN some/DT other/JJ bandit/NN algorithms/NNS ./.
+In/IN real/JJ world/NN data/NNS CTS/NNP is/VBZ the/DT most/RBS effective/JJ ./.

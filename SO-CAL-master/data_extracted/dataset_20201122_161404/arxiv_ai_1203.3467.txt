@@ -1,0 +1,3 @@
+Performing sensitivity analysis for influence diagrams using the decision circuit framework is particularly convenient, since the partial derivatives with respect to every parameter are readily available [Bhattacharjya and Shachter, 2007; 2008].
+In this paper we present three non-linear sensitivity analysis methods that utilize this partial derivative information and therefore do not require re-evaluating the decision situation multiple times.
+Specifically, we show how to efficiently compare strategies in decision situations, perform sensitivity to risk aversion and compute the value of perfect hedging [Seyller, 2008].

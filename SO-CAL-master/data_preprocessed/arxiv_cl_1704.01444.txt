@@ -1,0 +1,8 @@
+We/PRP explore/VBP the/DT properties/NNS of/IN byte/NN -/HYPH level/NN recurrent/JJ language/NN models/NNS ./.
+When/WRB given/VBN sufficient/JJ amounts/NNS of/IN capacity/NN ,/, training/NN data/NNS ,/, and/CC compute/VB time/NN ,/, the/DT representations/NNS learned/VBN by/IN these/DT models/NNS include/VBP disentangled/VBN features/NNS corresponding/VBG to/IN high/JJ -/HYPH level/NN concepts/NNS ./.
+Specifically/RB ,/, we/PRP find/VBP a/DT single/JJ unit/NN which/WDT performs/VBZ sentiment/NN analysis/NN ./.
+These/DT representations/NNS ,/, learned/VBN in/IN an/DT unsupervised/JJ manner/NN ,/, achieve/VB state/NN of/IN the/DT art/NN on/IN the/DT binary/JJ subset/NN of/IN the/DT Stanford/NNP Sentiment/NN Treebank/NNP ./.
+They/PRP are/VBP also/RB very/RB data/NN efficient/JJ ./.
+When/WRB using/VBG only/RB a/DT handful/NN of/IN labeled/VBN examples/NNS ,/, our/PRP$ approach/NN matches/VBZ the/DT performance/NN of/IN strong/JJ baselines/NNS trained/VBN on/IN full/JJ datasets/NNS ./.
+We/PRP also/RB demonstrate/VBP the/DT sentiment/NN unit/NN has/VBZ a/DT direct/JJ influence/NN on/IN the/DT generative/JJ process/NN of/IN the/DT model/NN ./.
+Simply/RB fixing/VBG its/PRP$ value/NN to/TO be/VB positive/JJ or/CC negative/JJ generates/VBZ samples/NNS with/IN the/DT corresponding/VBG positive/JJ or/CC negative/JJ sentiment/NN ./.

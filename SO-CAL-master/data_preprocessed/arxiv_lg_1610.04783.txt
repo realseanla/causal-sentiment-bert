@@ -1,0 +1,7 @@
+Multivariate/JJ time/NN series/NN naturally/RB exist/VBP in/IN many/JJ fields/NNS ,/, like/IN energy/NN ,/, bioinformatics/NN ,/, signal/NN processing/NN ,/, and/CC finance/NN ./.
+Most/JJS of/IN these/DT applications/NNS need/VBP to/TO be/VB able/JJ to/TO compare/VB these/DT structured/VBN data/NNS ./.
+In/IN this/DT context/NN ,/, dynamic/JJ time/NN warping/NN (/-LRB- DTW/NN )/-RRB- is/VBZ probably/RB the/DT most/RBS common/JJ comparison/NN measure/NN ./.
+However/RB ,/, not/RB much/JJ research/NN effort/NN has/VBZ been/VBN put/VBN into/IN improving/VBG it/PRP by/IN learning/VBG ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ method/NN for/IN learning/VBG similarities/NNS based/VBN on/IN DTW/NNP ,/, in/IN order/NN to/TO improve/VB time/NN series/NN classification/NN ./.
+Making/VBG use/NN of/IN the/DT uniform/JJ stability/NN framework/NN ,/, we/PRP provide/VBP the/DT first/JJ theoretical/JJ guarantees/NNS in/IN the/DT form/NN of/IN a/DT generalization/NN bound/VBN for/IN linear/JJ classification/NN ./.
+The/DT experimental/JJ study/NN shows/VBZ that/IN the/DT proposed/VBN approach/NN is/VBZ efficient/JJ ,/, while/IN yielding/VBG sparse/JJ classifiers/NNS ./.

@@ -1,0 +1,3 @@
+This article proposes the use of Vector Symbolic Architectures for implementing Hierarchical Graph Neuron, an architecture for memorizing patterns of generic sensor stimuli.
+The adoption of a Vector Symbolic representation ensures a one-layered design for the approach, while maintaining the previously reported properties and performance characteristics of Hierarchical Graph Neuron, and also improving the noise resistance of the architecture.
+The proposed architecture enables a linear (with respect to the number of stored entries) time search for an arbitrary sub-pattern.

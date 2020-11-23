@@ -1,0 +1,12 @@
+Search/VB engines/NNS are/VBP the/DT most/RBS important/JJ tools/NNS for/IN web/NN data/NNS acquisition/NN ./.
+Web/NN pages/NNS are/VBP crawled/VBN and/CC indexed/VBN by/IN search/NN Engines/NNS ./.
+Users/NNS typically/RB locate/VBP useful/JJ web/NN pages/NNS by/IN querying/VBG a/DT search/NN engine/NN ./.
+One/CD of/IN the/DT challenges/NNS in/IN search/NN engines/NNS administration/NN is/VBZ spam/JJ pages/NNS which/WDT waste/VBP search/NN engine/NN resources/NNS ./.
+These/DT pages/NNS by/IN deception/NN of/IN search/NN engine/NN ranking/VBG algorithms/NNS try/VBP to/TO be/VB showed/VBN in/IN the/DT first/JJ page/NN of/IN results/NNS ./.
+There/EX are/VBP many/JJ approaches/NNS to/IN web/NN spam/NN pages/NNS detection/NN such/JJ as/IN measurement/NN of/IN HTML/NN code/NN style/NN similarity/NN ,/, pages/NNS linguistic/JJ pattern/NN analysis/NN and/CC machine/NN learning/NN algorithm/NN on/IN page/NN content/NN features/NNS ./.
+One/CD of/IN the/DT famous/JJ algorithms/NNS has/VBZ been/VBN used/VBN in/IN machine/NN learning/NN approach/NN is/VBZ Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- classifier/NN ./.
+Recently/RB basic/JJ structure/NN of/IN SVM/NNP has/VBZ been/VBN changed/VBN by/IN new/JJ extensions/NNS to/TO increase/VB robustness/NN and/CC classification/NN accuracy/NN ./.
+In/IN this/DT paper/NN we/PRP improved/VBD accuracy/NN of/IN web/NN spam/NN detection/NN by/IN using/VBG two/CD nonlinear/JJ kernels/NNS into/IN Twin/NNP SVM/NNP (/-LRB- TSVM/NNP )/-RRB- as/IN an/DT improved/VBN extension/NN of/IN SVM/NNP ./.
+The/DT classifier/NN ability/NN to/TO data/NNS separation/NN has/VBZ been/VBN increased/VBN by/IN using/VBG two/CD separated/VBN kernels/NNS for/IN each/DT class/NN of/IN data/NNS ./.
+Effectiveness/NN of/IN new/JJ proposed/JJ method/NN has/VBZ been/VBN experimented/VBN with/IN two/CD publicly/RB used/VBN spam/NN datasets/NNS called/VBN UK/NNP -/HYPH 2007/CD and/CC UK/NNP -/HYPH 2006/CD ./.
+Results/NNS show/VBP the/DT effectiveness/NN of/IN proposed/VBN kernelized/VBN version/NN of/IN TSVM/NNP in/IN web/NN spam/NN page/NN detection/NN ./.

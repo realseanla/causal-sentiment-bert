@@ -1,0 +1,4 @@
+The/DT $/$ k/CD $/$ -/HYPH Means/NNS clustering/NN problem/NN on/IN $/$ n/NN $/$ points/NNS is/VBZ NP/NNP -/HYPH Hard/NNP for/IN any/DT dimension/NN $/$ d/LS \/SYM ge/NN 2/CD $/$ ,/, however/RB ,/, for/IN the/DT 1D/NN case/NN there/RB exist/VBP exact/JJ polynomial/JJ time/NN algorithms/NNS ./.
+The/DT current/JJ state/NN of/IN the/DT art/NN is/VBZ a/DT $/$ O/UH (/-LRB- kn/NNP ^/SYM 2/CD )/-RRB- $/$ dynamic/JJ programming/NN algorithm/NN that/WDT uses/VBZ $/$ O/UH (/-LRB- nk/NNP )/-RRB- $/$ space/NN ./.
+We/PRP present/VBP a/DT new/JJ algorithm/NN improving/VBG this/DT to/IN $/$ O/UH (/-LRB- kn/NN \/SYM log/NN n/NN )/-RRB- $/$ time/NN and/CC optimal/JJ $/NN O/NN (/-LRB- n/NN )/-RRB- $/$ space/NN ./.
+We/PRP generalize/VBP our/PRP$ algorithm/NN to/TO work/VB for/IN the/DT absolute/JJ distance/NN instead/RB of/IN squared/JJ distance/NN and/CC to/TO work/VB for/IN any/DT Bregman/NNP Divergence/NN as/RB well/RB ./.

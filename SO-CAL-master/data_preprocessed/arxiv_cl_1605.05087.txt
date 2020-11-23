@@ -1,0 +1,10 @@
+We/PRP show/VBP Correspondence/NNP Analysis/NNP (/-LRB- CA/NNP )/-RRB- is/VBZ equivalent/JJ to/IN defining/VBG Gini/NNP -/HYPH index/NN with/IN appropriate/JJ scaled/VBN one/CD -/HYPH hot/JJ encoding/NN ./.
+Using/VBG this/DT relation/NN ,/, we/PRP introduce/VBP non-linear/JJ kernel/NN extension/NN of/IN CA/NNP ./.
+The/DT extended/JJ CA/NN gives/VBZ well/RB -/HYPH known/VBN analysis/NN for/IN categorical/JJ data/NNS (/-LRB- CD/NN )/-RRB- and/CC natural/JJ language/NN processing/NN by/IN specializing/VBG kernels/NNS ./.
+For/IN example/NN ,/, our/PRP$ formulation/NN can/MD give/VB G/NNP -/HYPH test/NN ,/, skip/VB -/HYPH gram/NN with/IN negative/JJ -/HYPH sampling/NN (/-LRB- SGNS/NN )/-RRB- ,/, and/CC GloVe/NN as/IN a/DT special/JJ case/NN ./.
+We/PRP introduce/VBP two/CD kernels/NNS for/IN natural/JJ language/NN processing/NN based/VBN on/IN our/PRP$ formulation/NN ./.
+First/RB is/VBZ a/DT stop/NN word/NN (/-LRB- SW/NNP )/-RRB- kernel/NN ./.
+Second/RB is/VBZ word/NN similarity/NN (/-LRB- WS/NN )/-RRB- kernel/NN ./.
+The/DT SW/NNP kernel/NN is/VBZ the/DT system/NN introducing/VBG appropriate/JJ weights/NNS for/IN SW/NNP ./.
+The/DT WS/NNP kernel/NN enables/VBZ to/TO use/VB WS/NNP test/NN data/NNS as/IN training/NN data/NNS for/IN vector/NN space/NN representations/NNS of/IN words/NNS ./.
+We/PRP show/VBP these/DT kernels/NNS enhances/VBZ accuracy/NN when/WRB training/VBG data/NNS is/VBZ not/RB sufficiently/RB large/JJ ./.

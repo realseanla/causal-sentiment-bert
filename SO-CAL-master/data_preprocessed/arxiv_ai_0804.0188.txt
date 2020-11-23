@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT method/NN for/IN support/NN vector/NN machine/NN classification/NN using/VBG indefinite/JJ kernels/NNS ./.
+Instead/RB of/IN directly/RB minimizing/VBG or/CC stabilizing/VBG a/DT nonconvex/JJ loss/NN function/NN ,/, our/PRP$ algorithm/NN simultaneously/RB computes/VBZ support/NN vectors/NNS and/CC a/DT proxy/NN kernel/NN matrix/NN used/VBN in/IN forming/VBG the/DT loss/NN ./.
+This/DT can/MD be/VB interpreted/VBN as/IN a/DT penalized/VBN kernel/NN learning/NN problem/NN where/WRB indefinite/JJ kernel/NN matrices/NNS are/VBP treated/VBN as/IN a/DT noisy/JJ observations/NNS of/IN a/DT true/JJ Mercer/NNP kernel/NN ./.
+Our/PRP$ formulation/NN keeps/VBZ the/DT problem/NN convex/NN and/CC relatively/RB large/JJ problems/NNS can/MD be/VB solved/VBN efficiently/RB using/VBG the/DT projected/VBN gradient/NN or/CC analytic/JJ center/NN cutting/VBG plane/NN methods/NNS ./.
+We/PRP compare/VBP the/DT performance/NN of/IN our/PRP$ technique/NN with/IN other/JJ methods/NNS on/IN several/DT classic/JJ data/NN sets/NNS ./.

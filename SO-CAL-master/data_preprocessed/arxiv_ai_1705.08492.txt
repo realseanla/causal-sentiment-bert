@@ -1,0 +1,12 @@
+Randomized/JJ experiments/NNS have/VBP been/VBN used/VBN to/TO assist/VB decision/NN -/HYPH making/VBG in/IN many/JJ areas/NNS ./.
+They/PRP help/VBP people/NNS select/VB the/DT optimal/JJ treatment/NN for/IN the/DT test/NN population/NN with/IN certain/JJ statistical/JJ guarantee/NN ./.
+However/RB ,/, subjects/NNS can/MD show/VB significant/JJ heterogeneity/NN in/IN response/NN to/IN treatments/NNS ./.
+The/DT problem/NN of/IN customizing/VBG treatment/NN assignment/NN based/VBN on/IN subject/JJ characteristics/NNS is/VBZ known/VBN as/IN uplift/NN modeling/NN ,/, differential/JJ response/NN analysis/NN ,/, or/CC personalized/VBN treatment/NN learning/NN in/IN literature/NN ./.
+A/DT key/JJ feature/NN for/IN uplift/NN modeling/NN is/VBZ that/IN the/DT data/NNS is/VBZ unlabeled/JJ ./.
+It/PRP is/VBZ impossible/JJ to/TO know/VB whether/IN the/DT chosen/VBN treatment/NN is/VBZ optimal/JJ for/IN an/DT individual/JJ subject/NN because/IN response/NN under/IN alternative/JJ treatments/NNS is/VBZ unobserved/JJ ./.
+This/DT presents/VBZ a/DT challenge/NN to/IN both/CC the/DT training/NN and/CC the/DT evaluation/NN of/IN uplift/NN models/NNS ./.
+In/IN this/DT paper/NN we/PRP describe/VBP how/WRB to/TO obtain/VB an/DT unbiased/JJ estimate/NN of/IN the/DT key/JJ performance/NN metric/NN of/IN an/DT uplift/NN model/NN ,/, the/DT expected/VBN response/NN ./.
+We/PRP present/VBP a/DT new/JJ uplift/NN algorithm/NN which/WDT creates/VBZ a/DT forest/NN of/IN randomized/JJ trees/NNS ./.
+The/DT trees/NNS are/VBP built/VBN with/IN a/DT splitting/NN criterion/NN designed/VBN to/TO directly/RB optimize/VB their/PRP$ uplift/NN performance/NN based/VBN on/IN the/DT proposed/VBN evaluation/NN method/NN ./.
+Both/CC the/DT evaluation/NN method/NN and/CC the/DT algorithm/NN apply/VB to/IN arbitrary/JJ number/NN of/IN treatments/NNS and/CC general/JJ response/NN types/NNS ./.
+Experimental/JJ results/NNS on/IN synthetic/JJ data/NNS and/CC industry/NN -/HYPH provided/VBN data/NNS show/VBP that/IN our/PRP$ algorithm/NN leads/VBZ to/IN significant/JJ performance/NN improvement/NN over/IN other/JJ applicable/JJ methods/NNS ./.

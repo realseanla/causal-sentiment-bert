@@ -1,0 +1,5 @@
+We/PRP introduce/VBP an/DT algorithm/NN that/WDT ,/, given/VBN n/NN objects/NNS ,/, learns/VBZ a/DT similarity/NN matrix/NN over/IN all/DT n/NN ^/SYM 2/CD pairs/NNS ,/, from/IN crowdsourced/VBN data/NNS alone/RB ./.
+The/DT algorithm/NN samples/NNS responses/NNS to/IN adaptively/RB chosen/VBN triplet/NN -/HYPH based/VBN relative/JJ -/HYPH similarity/NN queries/NNS ./.
+Each/DT query/NN has/VBZ the/DT form/NN "/'' is/VBZ object/NN '/'' a/DT '/`` more/RBR similar/JJ to/IN '/`` b/NN '/'' or/CC to/IN '/`` c/NN '/'' ?/. "/''
+and/CC is/VBZ chosen/VBN to/TO be/VB maximally/RB informative/JJ given/VBN the/DT preceding/VBG responses/NNS ./.
+The/DT output/NN is/VBZ an/DT embedding/NN of/IN the/DT objects/NNS into/IN Euclidean/JJ space/NN (/-LRB- like/IN MDS/NNP )/-RRB- ;/: we/PRP refer/VBP to/IN this/DT as/IN the/DT "/`` crowd/NN kernel/NN ./. "/''

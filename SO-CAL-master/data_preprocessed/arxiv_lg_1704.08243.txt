@@ -1,0 +1,8 @@
+Visual/JJ Question/NN Answering/VBG (/-LRB- VQA/NN )/-RRB- has/VBZ received/VBN a/DT lot/NN of/IN attention/NN over/IN the/DT past/JJ couple/NN of/IN years/NNS ./.
+A/DT number/NN of/IN deep/JJ learning/NN models/NNS have/VBP been/VBN proposed/VBN for/IN this/DT task/NN ./.
+However/RB ,/, it/PRP has/VBZ been/VBN shown/VBN that/IN these/DT models/NNS are/VBP heavily/RB driven/VBN by/IN superficial/JJ correlations/NNS in/IN the/DT training/NN data/NNS and/CC lack/VBP compositionality/NN --/: the/DT ability/NN to/TO answer/VB questions/NNS about/IN unseen/JJ compositions/NNS of/IN seen/VBN concepts/NNS ./.
+This/DT compositionality/NN is/VBZ desirable/JJ and/CC central/JJ to/IN intelligence/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ setting/NN for/IN Visual/JJ Question/NN Answering/VBG where/WRB the/DT test/NN question/NN -/HYPH answer/NN pairs/NNS are/VBP compositionally/RB novel/JJ compared/VBN to/IN training/NN question/NN -/HYPH answer/NN pairs/NNS ./.
+To/TO facilitate/VB developing/VBG models/NNS under/IN this/DT setting/NN ,/, we/PRP present/VBP a/DT new/JJ compositional/JJ split/NN of/IN the/DT VQA/NNP v1/NN .0/CD dataset/NN ,/, which/WDT we/PRP call/VBP Compositional/JJ VQA/NN (/-LRB- C/NN -/HYPH VQA/NN )/-RRB- ./.
+We/PRP analyze/VBP the/DT distribution/NN of/IN questions/NNS and/CC answers/NNS in/IN the/DT C/NN -/HYPH VQA/NN splits/NNS ./.
+Finally/RB ,/, we/PRP evaluate/VBP several/JJ existing/VBG VQA/NN models/NNS under/IN this/DT new/JJ setting/NN and/CC show/VBP that/IN the/DT performances/NNS of/IN these/DT models/NNS degrade/VBP by/IN a/DT significant/JJ amount/NN compared/VBN to/IN the/DT original/JJ VQA/NN setting/NN ./.

@@ -1,0 +1,4 @@
+Encoder/NN -/HYPH decoder/NN networks/NNS are/VBP popular/JJ for/IN probabilistic/JJ modeling/NN sequences/NNS in/IN many/JJ applications/NNS ./.
+These/DT models/NNS use/VBP the/DT power/NN of/IN the/DT Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- architecture/NN to/TO capture/VB the/DT full/JJ dependence/NN among/IN variables/NNS and/CC are/VBP not/RB subject/JJ to/IN label/NN bias/NN of/IN locally/RB conditioned/VBN models/NNS that/WDT assume/VBP partial/JJ conditional/JJ independence/NN ./.
+However/RB in/IN practice/NN they/PRP exhibit/VBP a/DT bias/NN towards/IN short/JJ sequences/NNS even/RB when/WRB using/VBG a/DT beam/NN search/NN to/TO find/VB the/DT optimal/JJ sequence/NN ./.
+Surprisingly/RB ,/, sometimes/RB there/EX is/VBZ even/RB a/DT decline/NN in/IN accuracy/NN with/IN increasing/VBG the/DT beam/NN size/NN ./.

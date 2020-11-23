@@ -1,0 +1,7 @@
+Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNNs/NNS )/-RRB- can/MD be/VB shifted/VBN across/IN 2D/NN images/NNS or/CC 3D/JJ videos/NNS to/IN segment/NN them/PRP ./.
+They/PRP have/VBP a/DT fixed/VBN input/NN size/NN and/CC typically/RB perceive/VBP only/RB small/JJ local/JJ contexts/NNS of/IN the/DT pixels/NNS to/TO be/VB classified/VBN as/IN foreground/NN or/CC background/NN ./.
+In/IN contrast/NN ,/, Multi-Dimensional/JJ Recurrent/JJ NNs/NNS (/-LRB- MD/NN -/HYPH RNNs/NN )/-RRB- can/MD perceive/VB the/DT entire/JJ spatio/JJ -/HYPH temporal/JJ context/NN of/IN each/DT pixel/NN in/IN a/DT few/JJ sweeps/NNS through/IN all/DT pixels/NNS ,/, especially/RB when/WRB the/DT RNN/NNP is/VBZ a/DT Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- ./.
+Despite/IN these/DT theoretical/JJ advantages/NNS ,/, however/RB ,/, unlike/IN CNNs/NNS ,/, previous/JJ MD/NN -/HYPH LSTM/NN variants/NNS were/VBD hard/JJ to/TO parallelize/VB on/IN GPUs/NNS ./.
+Here/RB we/PRP re-arrange/VBP the/DT traditional/JJ cuboid/JJ order/NN of/IN computations/NNS in/IN MD/NN -/HYPH LSTM/NN in/IN pyramidal/JJ fashion/NN ./.
+The/DT resulting/VBG PyraMiD/NN -/HYPH LSTM/NN is/VBZ easy/JJ to/TO parallelize/VB ,/, especially/RB for/IN 3D/JJ data/NNS such/JJ as/IN stacks/NNS of/IN brain/NN slice/NN images/NNS ./.
+PyraMiD/NN -/HYPH LSTM/NN achieved/VBN best/RBS known/VBN pixel-wise/JJ brain/NN image/NN segmentation/NN results/VBZ on/IN MRBrainS13/NN (/-LRB- and/CC competitive/JJ results/NNS on/IN EM/NNP -/HYPH ISBI12/NNP )/-RRB- ./.

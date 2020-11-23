@@ -1,0 +1,10 @@
+With/IN the/DT popularity/NN of/IN massive/JJ open/JJ online/JJ courses/NNS ,/, grading/VBG through/IN crowdsourcing/NN has/VBZ become/VBN a/DT prevalent/JJ approach/NN towards/IN large/JJ scale/NN classes/NNS ./.
+However/RB ,/, for/IN getting/VBG grades/NNS for/IN complex/JJ tasks/NNS ,/, which/WDT require/VBP specific/JJ skills/NNS and/CC efforts/NNS for/IN grading/NN ,/, crowdsourcing/VBG encounters/VBZ a/DT restriction/NN of/IN insufficient/JJ knowledge/NN of/IN the/DT workers/NNS from/IN the/DT crowd/NN ./.
+Due/IN to/IN knowledge/NN limitation/NN of/IN the/DT crowd/NN graders/NNS ,/, grading/VBG based/VBN on/IN partial/JJ perspectives/NNS becomes/VBZ a/DT big/JJ challenge/NN for/IN evaluating/VBG complex/JJ tasks/NNS through/IN crowdsourcing/NN ./.
+Especially/RB for/IN those/DT tasks/NNS which/WDT not/RB only/RB need/VBP specific/JJ knowledge/NN for/IN grading/NN ,/, but/CC also/RB should/MD be/VB graded/VBN as/IN a/DT whole/JJ instead/RB of/IN being/VBG decomposed/VBN into/IN smaller/JJR and/CC simpler/JJR subtasks/NNS ./.
+We/PRP propose/VBP a/DT framework/NN for/IN grading/VBG complex/JJ tasks/NNS via/IN multiple/JJ views/NNS ,/, which/WDT are/VBP different/JJ grading/NN perspectives/NNS defined/VBN by/IN experts/NNS for/IN the/DT task/NN ,/, to/TO provide/VB uniformity/NN ./.
+Aggregation/NN algorithm/NN based/VBN on/IN graders/NNS variances/NNS are/VBP used/VBN to/TO combine/VB the/DT grades/NNS for/IN each/DT view/NN ./.
+We/PRP also/RB detect/VBP bias/NN patterns/NNS of/IN the/DT graders/NNS ,/, and/CC debias/VBZ them/PRP regarding/VBG each/DT view/NN of/IN the/DT task/NN ./.
+Bias/NNP pattern/NN determines/VBZ how/WRB the/DT behavior/NN is/VBZ biased/VBN among/IN graders/NNS ,/, which/WDT is/VBZ detected/VBN by/IN a/DT statistical/JJ technique/NN ./.
+The/DT proposed/VBN approach/NN is/VBZ analyzed/VBN on/IN a/DT synthetic/JJ data/NNS set/VBN ./.
+We/PRP show/VBP that/IN our/PRP$ model/NN gives/VBZ more/RBR accurate/JJ results/NNS compared/VBN to/IN the/DT grading/NN approaches/VBZ without/IN different/JJ views/NNS and/CC debiasing/VBG algorithm/NN ./.

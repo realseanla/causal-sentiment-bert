@@ -1,0 +1,7 @@
+We/PRP consider/VBP planning/VBG with/IN uncertainty/NN in/IN the/DT initial/JJ state/NN as/IN a/DT case/NN study/NN of/IN incremental/JJ quantified/VBN Boolean/JJ formula/NN (/-LRB- QBF/NN )/-RRB- solving/VBG ./.
+We/PRP report/VBP on/IN experiments/NNS with/IN a/DT workflow/NN to/IN incrementally/RB encode/VBP a/DT planning/NN instance/NN into/IN a/DT sequence/NN of/IN QBFs/NNS ./.
+To/TO solve/VB this/DT sequence/NN of/IN incrementally/RB constructed/VBN QBFs/NNS ,/, we/PRP use/VBP our/PRP$ general/JJ -/HYPH purpose/NN incremental/JJ QBF/NN solver/NN DepQBF/NN ./.
+Since/IN the/DT generated/VBN QBFs/NNS have/VBP many/JJ clauses/NNS and/CC variables/NNS in/IN common/JJ ,/, our/PRP$ approach/NN avoids/VBZ redundancy/NN both/CC in/IN the/DT encoding/VBG phase/NN and/CC in/IN the/DT solving/VBG phase/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN incremental/JJ QBF/NN solving/VBG outperforms/VBZ non-incremental/JJ QBF/NN solving/VBG ./.
+Our/PRP$ results/NNS are/VBP the/DT first/JJ empirical/JJ study/NN of/IN incremental/JJ QBF/NN solving/VBG in/IN the/DT context/NN of/IN planning/NN ./.
+Based/VBN on/IN our/PRP$ case/NN study/NN ,/, we/PRP argue/VBP that/IN incremental/JJ QBF/NN solving/NN also/RB has/VBZ the/DT potential/JJ to/TO improve/VB QBF/NN -/HYPH based/VBN workflows/NNS in/IN other/JJ application/NN domains/NNS ./.

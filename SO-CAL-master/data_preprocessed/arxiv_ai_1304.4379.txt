@@ -1,0 +1,6 @@
+RockIt/NNP is/VBZ a/DT maximum/JJ a-posteriori/NN (/-LRB- MAP/NN )/-RRB- query/NN engine/NN for/IN statistical/JJ relational/JJ models/NNS ./.
+MAP/NN inference/NN in/IN graphical/JJ models/NNS is/VBZ an/DT optimization/NN problem/NN which/WDT can/MD be/VB compiled/VBN to/IN integer/NN linear/JJ programs/NNS (/-LRB- ILPs/NNS )/-RRB- ./.
+We/PRP describe/VBP several/JJ advances/NNS in/IN translating/VBG MAP/NN queries/NNS to/IN ILP/NN instances/NNS and/CC present/VB the/DT novel/JJ meta/NN -/HYPH algorithm/NN cutting/NN plane/NN aggregation/NN (/-LRB- CPA/NN )/-RRB- ./.
+CPA/NN exploits/NNS local/JJ context/NN -/HYPH specific/JJ symmetries/NNS and/CC bundles/NNS up/IN sets/NNS of/IN linear/JJ constraints/NNS ./.
+The/DT resulting/VBG counting/NN constraints/NNS lead/VBP to/IN more/JJR compact/JJ ILPs/NNS and/CC make/VB the/DT symmetry/NN of/IN the/DT ground/NN model/NN more/RBR explicit/JJ to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ILP/NN solvers/NNS ./.
+Moreover/RB ,/, RockIt/NNP parallelizes/NNS most/RBS parts/NNS of/IN the/DT MAP/NN inference/NN pipeline/NN taking/VBG advantage/NN of/IN ubiquitous/JJ shared/VBN -/HYPH memory/NN multi-core/JJ architectures/NNS ./.

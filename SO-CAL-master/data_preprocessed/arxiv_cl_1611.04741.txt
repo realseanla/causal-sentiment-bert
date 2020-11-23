@@ -1,0 +1,6 @@
+In/IN this/DT work/NN we/PRP use/VBP the/DT recent/JJ advances/NNS in/IN representation/NN learning/NN to/TO propose/VB a/DT neural/JJ architecture/NN for/IN the/DT problem/NN of/IN natural/JJ language/NN inference/NN ./.
+Our/PRP$ approach/NN is/VBZ aligned/VBN to/TO mimic/VB how/WRB a/DT human/NN does/VBZ the/DT natural/JJ language/NN inference/NN process/NN given/VBN two/CD statements/NNS ./.
+The/DT model/NN uses/VBZ variants/NNS of/IN Long/JJ Short/JJ Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- ,/, attention/NN mechanism/NN and/CC composable/JJ neural/JJ networks/NNS ,/, to/TO carry/VB out/RP the/DT task/NN ./.
+Each/DT part/NN of/IN our/PRP$ model/NN can/MD be/VB mapped/VBN to/IN a/DT clear/JJ functionality/NN humans/NNS do/VBP for/IN carrying/VBG out/RP the/DT overall/JJ task/NN of/IN natural/JJ language/NN inference/NN ./.
+The/DT model/NN is/VBZ end/NN -/HYPH to/IN -/HYPH end/NN differentiable/NN enabling/VBG training/NN by/IN stochastic/JJ gradient/NN descent/NN ./.
+On/IN Stanford/NNP Natural/NNP Language/NNP Inference/NN (/-LRB- SNLI/NN )/-RRB- dataset/NN ,/, the/DT proposed/VBN model/NN achieves/VBZ better/JJR accuracy/NN numbers/NNS than/IN all/DT published/VBN models/NNS in/IN literature/NN ./.

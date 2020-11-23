@@ -1,0 +1,7 @@
+Many/JJ tasks/NNS in/IN Natural/NNP Language/NNP Processing/NNP involve/VBP recognizing/VBG lexical/JJ entailment/NN ./.
+Two/CD different/JJ approaches/NNS to/IN this/DT problem/NN have/VBP been/VBN proposed/VBN recently/RB that/DT are/VBP quite/RB different/JJ from/IN each/DT other/JJ ./.
+The/DT first/JJ is/VBZ an/DT asymmetric/JJ similarity/NN measure/NN designed/VBN to/TO give/VB high/JJ scores/NNS when/WRB the/DT contexts/NNS of/IN the/DT narrower/JJR term/NN in/IN the/DT entailment/NN are/VBP a/DT subset/NN of/IN those/DT of/IN the/DT broader/JJR term/NN ./.
+The/DT second/JJ is/VBZ a/DT supervised/JJ approach/NN where/WRB a/DT classifier/NN is/VBZ learned/VBN to/TO predict/VB entailment/NN given/VBN a/DT concatenated/JJ latent/NN vector/NN representation/NN of/IN the/DT word/NN ./.
+Both/DT of/IN these/DT approaches/NNS are/VBP vector/NN space/NN models/NNS that/WDT use/VBP a/DT single/JJ context/NN vector/NN as/IN a/DT representation/NN of/IN the/DT word/NN ./.
+In/IN this/DT work/NN ,/, I/PRP study/VBP the/DT effects/NNS of/IN clustering/NN words/NNS into/IN senses/NNS and/CC using/VBG these/DT multiple/JJ context/NN vectors/NNS to/TO infer/VB entailment/NN using/VBG extensions/NNS of/IN these/DT two/CD algorithms/NNS ./.
+I/PRP find/VBP that/IN this/DT approach/NN offers/VBZ some/DT improvement/NN to/IN these/DT entailment/NN algorithms/NNS ./.

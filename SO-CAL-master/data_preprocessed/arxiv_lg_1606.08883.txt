@@ -1,0 +1,4 @@
+This/DT paper/NN addresses/VBZ the/DT problem/NN of/IN non-Bayesian/JJ learning/NN over/IN multi-agent/JJ networks/NNS ,/, where/WRB agents/NNS repeatedly/RB collect/VBP partially/RB informative/JJ observations/NNS about/IN an/DT unknown/JJ state/NN of/IN the/DT world/NN ,/, and/CC try/VB to/TO collaboratively/RB learn/VB the/DT true/JJ state/NN ./.
+We/PRP focus/VBP on/IN the/DT impact/NN of/IN the/DT adversarial/JJ agents/NNS on/IN the/DT performance/NN of/IN consensus/NN -/HYPH based/VBN non-Bayesian/JJ learning/NN ,/, where/WRB non-faulty/JJ agents/NNS combine/VBP local/JJ learning/NN updates/NNS with/IN consensus/NN primitives/NNS ./.
+In/IN particular/JJ ,/, we/PRP consider/VBP the/DT scenario/NN where/WRB an/DT unknown/JJ subset/NN of/IN agents/NNS suffer/VBP Byzantine/JJ faults/NNS --/: agents/NNS suffering/VBG Byzantine/JJ faults/NNS behave/VBP arbitrarily/RB ./.
+Two/CD different/JJ learning/NN rules/NNS are/VBP proposed/VBN ./.

@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT general/JJ method/NN called/VBN truncated/VBN gradient/NN to/TO induce/VB sparsity/NN in/IN the/DT weights/NNS of/IN online/JJ learning/NN algorithms/NNS with/IN convex/NN loss/NN functions/NNS ./.
+This/DT method/NN has/VBZ several/JJ essential/JJ properties/NNS :/: The/DT degree/NN of/IN sparsity/NN is/VBZ continuous/JJ --/: a/DT parameter/NN controls/VBZ the/DT rate/NN of/IN sparsification/NN from/IN no/DT sparsification/NN to/IN total/JJ sparsification/NN ./.
+The/DT approach/NN is/VBZ theoretically/RB motivated/JJ ,/, and/CC an/DT instance/NN of/IN it/PRP can/MD be/VB regarded/VBN as/IN an/DT online/JJ counterpart/NN of/IN the/DT popular/JJ $/$ L_1/CD $/$ -/HYPH regularization/NN method/NN in/IN the/DT batch/NN setting/NN ./.
+We/PRP prove/VBP that/IN small/JJ rates/NNS of/IN sparsification/NN result/NN in/IN only/RB small/JJ additional/JJ regret/NN with/IN respect/NN to/IN typical/JJ online/JJ learning/NN guarantees/NNS ./.
+The/DT approach/NN works/VBZ well/RB empirically/RB ./.
+We/PRP apply/VBP the/DT approach/NN to/IN several/JJ datasets/NNS and/CC find/VB that/DT for/IN datasets/NNS with/IN large/JJ numbers/NNS of/IN features/NNS ,/, substantial/JJ sparsity/NN is/VBZ discoverable/JJ ./.

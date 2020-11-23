@@ -1,0 +1,6 @@
+Recently/RB published/VBN methods/NNS enable/VBP training/NN of/IN bitwise/JJ neural/JJ networks/NNS which/WDT allow/VBP reduced/VBN representation/NN of/IN down/RB to/IN a/DT single/JJ bit/NN per/IN weight/NN ./.
+We/PRP present/VBP a/DT method/NN that/WDT exploits/VBZ ensemble/NN decisions/NNS based/VBN on/IN multiple/JJ stochastically/RB sampled/VBN network/NN models/NNS to/TO increase/VB performance/NN figures/NNS of/IN bitwise/JJ neural/JJ networks/NNS in/IN terms/NNS of/IN classification/NN accuracy/NN at/IN inference/NN ./.
+Our/PRP$ experiments/NNS with/IN the/DT CIFAR/NN -/HYPH 10/CD and/CC GTSRB/NN datasets/NNS show/VBP that/IN the/DT performance/NN of/IN such/JJ network/NN ensembles/NNS surpasses/VBZ the/DT performance/NN of/IN the/DT high/JJ -/HYPH precision/NN base/NN model/NN ./.
+With/IN this/DT technique/NN we/PRP achieve/VBP 5.81/CD percent/NN best/JJS classification/NN error/NN on/IN CIFAR/NN -/HYPH 10/CD test/NN set/VBN using/VBG bitwise/RB networks/NNS ./.
+Concerning/VBG inference/NN on/IN embedded/VBN systems/NNS we/PRP evaluate/VBP these/DT bitwise/JJ networks/NNS using/VBG a/DT hardware/NN efficient/JJ stochastic/JJ rounding/NN procedure/NN ./.
+Our/PRP$ work/NN contributes/VBZ to/IN efficient/JJ embedded/VBN bitwise/NN neural/JJ networks/NNS ./.

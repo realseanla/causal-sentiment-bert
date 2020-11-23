@@ -1,0 +1,10 @@
+Reinforcement/NN learning/NN algorithms/NNS need/VBP to/TO deal/VB with/IN the/DT exponential/JJ growth/NN of/IN states/NNS and/CC actions/NNS when/WRB exploring/VBG optimal/JJ control/NN in/IN high/JJ -/HYPH dimensional/JJ spaces/NNS ./.
+This/DT is/VBZ known/VBN as/IN the/DT curse/NN of/IN dimensionality/NN ./.
+By/IN projecting/VBG the/DT agent/NN 's/POS state/NN onto/IN a/DT low/JJ -/HYPH dimensional/JJ manifold/NN ,/, we/PRP can/MD represent/VB the/DT state/NN space/NN in/IN a/DT smaller/JJR and/CC more/RBR efficient/JJ representation/NN ./.
+By/IN using/VBG this/DT representation/NN during/IN learning/NN ,/, the/DT agent/NN can/MD converge/VB to/IN a/DT good/JJ policy/NN much/RB faster/RBR ./.
+We/PRP test/VBP this/DT approach/NN in/IN the/DT Mario/NNP Benchmarking/NNP Domain/NNP ./.
+When/WRB using/VBG dimensionality/NN reduction/NN in/IN Mario/NNP ,/, learning/VBG converges/VBZ much/JJ faster/JJR to/IN a/DT good/JJ policy/NN ./.
+But/CC ,/, there/EX is/VBZ a/DT critical/JJ convergence/NN -/HYPH performance/NN trade/NN -/HYPH off/NN ./.
+By/IN projecting/VBG onto/IN a/DT low/JJ -/HYPH dimensional/JJ manifold/NN ,/, we/PRP are/VBP ignoring/VBG important/JJ data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP explore/VBP this/DT trade/NN -/HYPH off/NN of/IN convergence/NN and/CC performance/NN ./.
+We/PRP find/VBP that/IN learning/VBG in/IN as/IN few/JJ as/IN 4/CD dimensions/NNS (/-LRB- instead/RB of/IN 9/CD )/-RRB- ,/, we/PRP can/MD improve/VB performance/NN past/IN learning/VBG in/IN the/DT full/JJ dimensional/JJ space/NN at/IN a/DT faster/RBR convergence/NN rate/NN ./.

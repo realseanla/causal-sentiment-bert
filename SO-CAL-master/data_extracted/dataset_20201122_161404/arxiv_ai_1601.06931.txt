@@ -1,0 +1,6 @@
+The goal of this paper is to identify individuals by analyzing their gait.
+Instead of using binary silhouettes as input data (as done in many previous works) we propose and evaluate the use of motion descriptors based on densely sampled short-term trajectories.
+We take advantage of state-of-the-art people detectors to define custom spatial configurations of the descriptors around the target person, obtaining a rich representation of the gait motion.
+The local motion features (described by the Divergence-Curl-Shear descriptor) extracted on the different spatial areas of the person are combined into a single high-level gait descriptor by using the Fisher Vector encoding.
+The proposed approach, coined Pyramidal Fisher Motion, is experimentally validated on `CASIA' dataset (parts B and C), `TUM GAID' dataset, `CMU MoBo' dataset and the recent `AVA Multiview Gait' dataset.
+The results show that this new approach achieves state-of-the-art results in the problem of gait recognition, allowing to recognize walking people from diverse viewpoints on single and multiple camera setups, wearing different clothes, carrying bags, walking at diverse speeds and not limited to straight walking paths.

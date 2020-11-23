@@ -1,0 +1,6 @@
+Hypothetical/JJ Datalog/NNP is/VBZ based/VBN on/IN an/DT intuitionistic/JJ semantics/NNS rather/RB than/IN on/IN a/DT classical/JJ logic/NN semantics/NNS ,/, and/CC embedded/VBN implications/NNS are/VBP allowed/VBN in/IN rule/NN bodies/NNS ./.
+While/IN the/DT usual/JJ implication/NN (/-LRB- i.e./FW ,/, the/DT neck/NN of/IN a/DT Horn/NNP clause/NN )/-RRB- stands/VBZ for/IN inferring/VBG facts/NNS ,/, an/DT embedded/VBN implication/NN plays/VBZ the/DT role/NN of/IN assuming/VBG its/PRP$ premise/NN for/IN deriving/VBG its/PRP$ consequence/NN ./.
+A/DT former/JJ work/NN introduced/VBD both/CC a/DT formal/JJ framework/NN and/CC a/DT goal/NN -/HYPH oriented/VBN tabled/VBN implementation/NN ,/, allowing/VBG negation/NN in/IN rule/NN bodies/NNS ./.
+While/IN in/IN that/DT work/NN positive/JJ assumptions/NNS for/IN both/DT facts/NNS and/CC rules/NNS can/MD occur/VB in/IN the/DT premise/NN ,/, negative/JJ assumptions/NNS are/VBP not/RB allowed/VBN ./.
+In/IN this/DT work/NN ,/, we/PRP cover/VBP this/DT subject/NN by/IN introducing/VBG a/DT new/JJ concept/NN :/: a/DT restricted/JJ predicate/NN ,/, which/WDT allows/VBZ negative/JJ assumptions/NNS by/IN pruning/NN the/DT usual/JJ semantics/NNS of/IN a/DT predicate/NN ./.
+This/DT new/JJ setting/NN has/VBZ been/VBN implemented/VBN in/IN the/DT deductive/JJ system/NN DES/NNP ./.

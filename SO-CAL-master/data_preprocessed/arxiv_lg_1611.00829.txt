@@ -1,0 +1,7 @@
+We/PRP consider/VBP a/DT multidimensional/JJ search/NN problem/NN that/WDT is/VBZ motivated/VBN by/IN questions/NNS in/IN contextual/JJ decision/NN -/HYPH making/NN ,/, such/JJ as/IN dynamic/JJ pricing/NN and/CC personalized/VBN medicine/NN ./.
+Nature/NNP selects/VBZ a/DT state/NN from/IN a/DT $/$ d/LS $/$ -/HYPH dimensional/JJ unit/NN ball/NN and/CC then/RB generates/VBZ a/DT sequence/NN of/IN $/$ d/LS $/$ -/HYPH dimensional/JJ directions/NNS ./.
+We/PRP are/VBP given/VBN access/NN to/IN the/DT directions/NNS ,/, but/CC not/RB access/NN to/IN the/DT state/NN ./.
+After/IN receiving/VBG a/DT direction/NN ,/, we/PRP have/VBP to/TO guess/VB the/DT value/NN of/IN the/DT dot/NN product/NN between/IN the/DT state/NN and/CC the/DT direction/NN ./.
+Our/PRP$ goal/NN is/VBZ to/TO minimize/VB the/DT number/NN of/IN times/NNS when/WRB our/PRP$ guess/NN is/VBZ more/JJR than/IN $/$ \/CD epsilon/CD $/$ away/RB from/IN the/DT true/JJ answer/NN ./.
+We/PRP construct/VBP a/DT polynomial/JJ time/NN algorithm/NN that/WDT we/PRP call/VBP Projected/VBN Volume/NN achieving/VBG regret/NN $/$ O/UH (/-LRB- d/NN \/SYM log/NN (/-LRB- d/NN //HYPH \/SYM epsilon/NN )/-RRB- )/-RRB- $/$ ,/, which/WDT is/VBZ optimal/JJ up/RP to/IN a/DT $/$ \/CD log/NN d/NN $/$ factor/NN ./.
+The/DT algorithm/NN combines/VBZ a/DT volume/NN cutting/VBG strategy/NN with/IN a/DT new/JJ geometric/JJ technique/NN that/WDT we/PRP call/VBP cylindrification/NN ./.

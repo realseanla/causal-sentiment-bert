@@ -1,0 +1,5 @@
+Satisfiability of random Boolean expressions built from many clauses with K variables per clause (random K-satisfiability) is a fundamental problem in combinatorial discrete optimization.
+Here we study random K-satisfiability for K = 3 and K = 4 by the Backtracking Survey Propagation algorithm.
+This algorithm is able to find, in a time linear in the problem size, solutions within a region never reached before, very close to SAT-UNSAT threshold, and even beyond the freezing threshold.
+For K = 3 the algorithmic threshold practically coincides with the SAT-UNSAT threshold.
+We also study the whitening process on all the solutions found by the Backtracking Survey Propagation algorithm: none contains frozen variables and the whitening procedure is able to remove all variables, following a two-steps process, in a time that diverges approaching the algorithmic threshold.

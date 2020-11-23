@@ -1,0 +1,5 @@
+Sentence/NN simplification/NN aims/VBZ to/TO make/VB sentences/NNS easier/JJR to/TO read/VB and/CC understand/VB ./.
+Most/JJS recent/JJ approaches/NNS draw/VBP on/IN insights/NNS from/IN machine/NN translation/NN to/TO learn/VB simplification/NN rewrites/NNS from/IN monolingual/JJ corpora/NNS of/IN complex/JJ and/CC simple/JJ sentences/NNS ./.
+We/PRP address/VBP the/DT simplification/NN problem/NN with/IN an/DT encoder/NN -/HYPH decoder/NN model/NN coupled/VBN with/IN a/DT deep/JJ reinforcement/NN learning/VBG framework/NN ./.
+Our/PRP$ model/NN explores/VBZ the/DT space/NN of/IN possible/JJ simplifications/NNS while/IN learning/VBG to/TO optimize/VB a/DT reward/NN function/NN that/WDT encourages/VBZ outputs/NNS which/WDT are/VBP simple/JJ ,/, fluent/JJ ,/, and/CC preserve/VB the/DT meaning/NN of/IN the/DT input/NN ./.
+Experiments/NNS on/IN three/CD datasets/NNS demonstrate/VBP that/IN our/PRP$ model/NN brings/VBZ significant/JJ improvements/NNS over/IN the/DT state/NN of/IN the/DT art/NN ./.

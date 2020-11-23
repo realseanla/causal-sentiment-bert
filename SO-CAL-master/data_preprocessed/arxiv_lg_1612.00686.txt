@@ -1,0 +1,10 @@
+The/DT identification/NN and/CC quantification/NN of/IN markers/NNS in/IN medical/JJ images/NNS is/VBZ critical/JJ for/IN diagnosis/NN ,/, prognosis/NN and/CC management/NN of/IN patients/NNS in/IN clinical/JJ practice/NN ./.
+Supervised/VBN -/HYPH or/CC weakly/RB supervised/JJ training/NN enables/VBZ the/DT detection/NN of/IN findings/NNS that/WDT are/VBP known/VBN a/FW priori/FW ./.
+It/PRP does/VBZ not/RB scale/VB well/RB ,/, and/CC a/FW priori/FW definition/NN limits/VBZ the/DT vocabulary/NN of/IN markers/NNS to/IN known/VBN entities/NNS reducing/VBG the/DT accuracy/NN of/IN diagnosis/NN and/CC prognosis/NN ./.
+Here/RB ,/, we/PRP propose/VBP the/DT identification/NN of/IN anomalies/NNS in/IN large/JJ -/HYPH scale/NN medical/JJ imaging/NN data/NNS using/VBG healthy/JJ examples/NNS as/IN a/DT reference/NN ./.
+We/PRP detect/VBP and/CC categorize/VBP candidates/NNS for/IN anomaly/NN findings/NNS untypical/JJ for/IN the/DT observed/VBN data/NNS ./.
+A/DT deep/JJ convolutional/JJ autoencoder/NN is/VBZ trained/VBN on/IN healthy/JJ retinal/JJ images/NNS ./.
+The/DT learned/VBN model/NN generates/VBZ a/DT new/JJ feature/NN representation/NN ,/, and/CC the/DT distribution/NN of/IN healthy/JJ retinal/JJ patches/NNS is/VBZ estimated/VBN by/IN a/DT one/CD -/HYPH class/NN support/NN vector/NN machine/NN ./.
+Results/NNS demonstrate/VBP that/IN we/PRP can/MD identify/VB pathologic/JJ regions/NNS in/IN images/NNS without/IN using/VBG expert/NN annotations/NNS ./.
+A/DT subsequent/JJ clustering/NN categorizes/VBZ findings/NNS into/IN clinically/RB meaningful/JJ classes/NNS ./.
+In/IN addition/NN the/DT learned/VBN features/NNS outperform/VBP standard/JJ embedding/VBG approaches/NNS in/IN a/DT classification/NN task/NN ./.

@@ -1,0 +1,5 @@
+Bilinear/NNP models/NNS provide/VBP rich/JJ representations/NNS compared/VBN to/IN linear/JJ models/NNS ./.
+They/PRP have/VBP been/VBN applied/VBN in/IN various/JJ visual/JJ tasks/NNS ,/, such/JJ as/IN object/NN recognition/NN ,/, segmentation/NN ,/, and/CC visual/JJ question/NN -/HYPH answering/NN ,/, to/TO get/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performances/NNS taking/VBG advantage/NN of/IN the/DT expanded/VBN representations/NNS ./.
+However/RB ,/, bilinear/NN representations/NNS tend/VBP to/TO be/VB high/JJ -/HYPH dimensional/JJ ,/, limiting/VBG the/DT applicability/NN to/IN computationally/RB complex/JJ tasks/NNS ./.
+We/PRP propose/VBP low/JJ -/HYPH rank/NN bilinear/NN neural/JJ networks/NNS using/VBG Hadamard/NNP product/NN (/-LRB- element-wise/JJ multiplication/NN )/-RRB- ,/, commonly/RB implemented/VBN in/IN many/JJ scientific/JJ computing/NN frameworks/NNS ./.
+We/PRP show/VBP that/IN our/PRP$ model/NN outperforms/VBZ compact/JJ bilinear/NN pooling/VBG in/IN visual/JJ question/NN -/HYPH answering/VBG tasks/NNS ,/, having/VBG a/DT better/JJR parsimonious/JJ property/NN ./.

@@ -1,0 +1,8 @@
+Recently/RB ,/, several/JJ large/JJ -/HYPH scale/NN RDF/NNP knowledge/NN bases/NNS have/VBP been/VBN built/VBN and/CC applied/VBN in/IN many/JJ knowledge/NN -/HYPH based/VBN applications/NNS ./.
+To/TO further/RB increase/VB the/DT number/NN of/IN facts/NNS in/IN RDF/NNP knowledge/NN bases/NNS ,/, logic/NN rules/NNS can/MD be/VB used/VBN to/TO predict/VB new/JJ facts/NNS based/VBN on/IN the/DT existing/JJ ones/NNS ./.
+Therefore/RB ,/, how/WRB to/TO automatically/RB learn/VB reliable/JJ rules/NNS from/IN large/JJ -/HYPH scale/NN knowledge/NN bases/NNS becomes/VBZ increasingly/RB important/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ rule/NN learning/NN approach/NN named/VBN RDF2Rules/NNS for/IN RDF/NNP knowledge/NN bases/NNS ./.
+RDF2Rules/NNS first/JJ mines/NNS frequent/JJ predicate/JJ cycles/NNS (/-LRB- FPCs/NNS )/-RRB- ,/, a/DT kind/NN of/RB interesting/JJ frequent/JJ patterns/NNS in/IN knowledge/NN bases/NNS ,/, and/CC then/RB generates/VBZ rules/NNS from/IN the/DT mined/VBN FPCs/NNS ./.
+Because/IN each/DT FPC/NNP can/MD produce/VB multiple/JJ rules/NNS ,/, and/CC effective/JJ pruning/NN strategy/NN is/VBZ used/VBN in/IN the/DT process/NN of/IN mining/NN FPCs/NNS ,/, RDF2Rules/NN works/VBZ very/RB efficiently/RB ./.
+Another/DT advantage/NN of/IN RDF2Rules/NNS is/VBZ that/IN it/PRP uses/VBZ the/DT entity/NN type/NN information/NN when/WRB generates/VBZ and/CC evaluates/VBZ rules/NNS ,/, which/WDT makes/VBZ the/DT learned/VBN rules/NNS more/RBR accurate/JJ ./.
+Experiments/NNS show/VBP that/IN our/PRP$ approach/NN outperforms/VBZ the/DT compared/VBN approach/NN in/IN terms/NNS of/IN both/DT efficiency/NN and/CC accuracy/NN ./.

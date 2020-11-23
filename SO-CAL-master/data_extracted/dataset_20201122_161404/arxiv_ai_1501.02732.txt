@@ -1,0 +1,6 @@
+In educational technology and learning sciences, there are multiple uses for a predictive model of whether a student will perform a task correctly or not.
+For example, an intelligent tutoring system may use such a model to estimate whether or not a student has mastered a skill.
+We analyze the significance of data recency in making such predictions, i.e., asking whether relatively more recent observations of a student's performance matter more than relatively older observations.
+We develop a new Recent-Performance Factors Analysis model that takes data recency into account.
+The new model significantly improves predictive accuracy over both existing logistic-regression performance models and over novel baseline models in evaluations on real-world and synthetic datasets.
+As a secondary contribution, we demonstrate how the widely used cross-validation with 0-1 loss is inferior to AIC and to cross-validation with L1 prediction error loss as a measure of model performance.

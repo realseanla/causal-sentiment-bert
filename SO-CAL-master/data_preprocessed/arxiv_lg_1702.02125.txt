@@ -1,0 +1,8 @@
+This/DT paper/NN presents/VBZ a/DT multi-layer/JJ perceptron/NN model/NN for/IN the/DT estimation/NN of/IN classrooms/NNS number/NN of/IN occupants/NNS from/IN sensed/VBN indoor/JJ environmental/JJ data/NN -/HYPH relative/JJ humidity/NN ,/, air/NN temperature/NN ,/, and/CC carbon/NN dioxide/NN concentration/NN ./.
+The/DT modelling/NN datasets/NNS were/VBD collected/VBN from/IN two/CD classrooms/NNS in/IN the/DT Secondary/JJ School/NN of/IN Pombal/NNP ,/, Portugal/NNP ./.
+The/DT number/NN of/IN occupants/NNS and/CC occupation/NN periods/NNS were/VBD obtained/VBN from/IN class/NN attendance/NN reports/NNS ./.
+However/RB ,/, post-class/JJ occupancy/NN was/VBD unknown/JJ and/CC the/DT developed/VBN model/NN is/VBZ used/VBN to/TO reconstruct/VB the/DT classrooms/NNS occupancy/NN by/IN filling/VBG the/DT unreported/JJ periods/NNS ./.
+Different/JJ model/NN structure/NN and/CC environment/NN variables/NNS combination/NN were/VBD tested/VBN ./.
+The/DT model/NN with/IN best/JJS accuracy/NN had/VBD as/IN input/NN vector/NN 10/CD variables/NNS of/IN five/CD averaged/VBD time/NN intervals/NNS of/IN relative/JJ humidity/NN and/CC carbon/NN dioxide/NN concentration/NN ./.
+The/DT model/NN presented/VBD a/DT mean/JJ square/JJ error/NN of/IN 1.99/CD ,/, coefficient/NN of/IN determination/NN of/IN 0.96/CD with/IN a/DT significance/NN of/IN p/NN -/HYPH value/NN &lt;/-LRB- 0.001/CD ,/, and/CC a/DT mean/JJ absolute/JJ error/NN of/IN 1/CD occupant/NN ./.
+These/DT results/NNS show/VBP promising/JJ estimation/NN capabilities/NNS in/IN uncertain/JJ indoor/JJ environment/NN conditions/NNS ./.

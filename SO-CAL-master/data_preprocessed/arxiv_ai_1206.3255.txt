@@ -1,0 +1,6 @@
+We/PRP introduce/VBP Church/NNP ,/, a/DT universal/JJ language/NN for/IN describing/VBG stochastic/JJ generative/JJ processes/NNS ./.
+Church/NNP is/VBZ based/VBN on/IN the/DT Lisp/NN model/NN of/IN lambda/NN calculus/NN ,/, containing/VBG a/DT pure/JJ Lisp/NN as/IN its/PRP$ deterministic/JJ subset/NN ./.
+The/DT semantics/NNS of/IN Church/NNP is/VBZ defined/VBN in/IN terms/NNS of/IN evaluation/NN histories/NNS and/CC conditional/JJ distributions/NNS on/IN such/JJ histories/NNS ./.
+Church/NNP also/RB includes/VBZ a/DT novel/JJ language/NN construct/NN ,/, the/DT stochastic/JJ memoizer/NN ,/, which/WDT enables/VBZ simple/JJ description/NN of/IN many/JJ complex/JJ non-parametric/JJ models/NNS ./.
+We/PRP illustrate/VBP language/NN features/NNS through/IN several/JJ examples/NNS ,/, including/VBG :/: a/DT generalized/VBN Bayes/NNP net/NN in/IN which/WDT parameters/NNS cluster/VBP over/IN trials/NNS ,/, infinite/JJ PCFGs/NNS ,/, planning/VBG by/IN inference/NN ,/, and/CC various/JJ non-parametric/JJ clustering/NN models/NNS ./.
+Finally/RB ,/, we/PRP show/VBP how/WRB to/TO implement/VB query/NN on/IN any/DT Church/NN program/NN ,/, exactly/RB and/CC approximately/RB ,/, using/VBG Monte/NNP Carlo/NNP techniques/NNS ./.

@@ -1,0 +1,10 @@
+Coins/NNS are/VBP integral/JJ part/NN of/IN our/PRP$ day/NN to/IN day/NN life/NN ./.
+We/PRP use/VBP coins/NNS everywhere/RB like/IN grocery/NN store/NN ,/, banks/NNS ,/, buses/NNS ,/, trains/NNS etc/FW ./.
+So/RB it/PRP becomes/VBZ a/DT basic/JJ need/NN that/WDT coins/NNS can/MD be/VB sorted/VBN and/CC counted/VBN automatically/RB ./.
+For/IN this/DT it/PRP is/VBZ necessary/JJ that/IN coins/NNS can/MD be/VB recognized/VBN automatically/RB ./.
+In/IN this/DT paper/NN we/PRP have/VBP developed/VBN an/DT ANN/NNP (/-LRB- Artificial/NNP Neural/JJ Network/NN )/-RRB- based/VBN Automated/NNP Coin/NNP Recognition/NNP System/NNP for/IN the/DT recognition/NN of/IN Indian/JJ Coins/NNS of/IN denomination/NN Rs./NN 1/CD ,/, 2/CD ,/, 5/CD and/CC 10/CD with/IN rotation/NN invariance/NN ./.
+We/PRP have/VBP taken/VBN images/NNS from/IN both/DT sides/NNS of/IN coin/NN ./.
+So/RB this/DT system/NN is/VBZ capable/JJ of/IN recognizing/VBG coins/NNS from/IN both/DT sides/NNS ./.
+Features/NNS are/VBP extracted/VBN from/IN images/NNS using/VBG techniques/NNS of/IN Hough/NNP Transformation/NNP ,/, Pattern/NNP Averaging/NNP etc/FW ./.
+Then/RB ,/, the/DT extracted/VBN features/NNS are/VBP passed/VBN as/IN input/NN to/IN a/DT trained/VBN Neural/JJ Network/NN ./.
+97.74/CD percent/NN recognition/NN rate/NN has/VBZ been/VBN achieved/VBN during/IN the/DT experiments/NNS i.e./FW only/RB 2.26/CD percent/NN miss/VBP recognition/NN ,/, which/WDT is/VBZ quite/RB encouraging/JJ ./.

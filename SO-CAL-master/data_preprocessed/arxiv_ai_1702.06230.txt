@@ -1,0 +1,7 @@
+There/EX has/VBZ been/VBN a/DT recent/JJ explosion/NN in/IN the/DT capabilities/NNS of/IN game/NN -/HYPH playing/VBG artificial/JJ intelligence/NN ./.
+Many/JJ classes/NNS of/IN RL/NN tasks/NNS ,/, from/IN Atari/NNP games/NNS to/IN motor/NN control/NN to/TO board/VB games/NNS ,/, are/VBP now/RB solvable/JJ by/IN fairly/RB generic/JJ algorithms/NNS ,/, based/VBN on/IN deep/JJ learning/NN ,/, that/IN learn/VB to/TO play/VB from/IN experience/NN with/IN minimal/JJ knowledge/NN of/IN the/DT specific/JJ domain/NN of/IN interest/NN ./.
+In/IN this/DT work/NN ,/, we/PRP will/MD investigate/VB the/DT performance/NN of/IN these/DT methods/NNS on/IN Super/NNP Smash/NNP Bros/NNP ./.
+Melee/NNP (/-LRB- SSBM/NNP )/-RRB- ,/, a/DT popular/JJ console/NN fighting/NN game/NN ./.
+The/DT SSBM/NNP environment/NN has/VBZ complex/JJ dynamics/NNS and/CC partial/JJ observability/NN ,/, making/VBG it/PRP challenging/VBG for/IN human/JJ and/CC machine/NN alike/RB ./.
+The/DT multi-player/JJ aspect/NN poses/VBZ an/DT additional/JJ challenge/NN ,/, as/IN the/DT vast/JJ majority/NN of/IN recent/JJ advances/NNS in/IN RL/NNP have/VBP focused/VBN on/IN single/JJ -/HYPH agent/NN environments/NNS ./.
+Nonetheless/RB ,/, we/PRP will/MD show/VB that/IN it/PRP is/VBZ possible/JJ to/TO train/VB agents/NNS that/WDT are/VBP competitive/JJ against/IN and/CC even/RB surpass/VB human/JJ professionals/NNS ,/, a/DT new/JJ result/NN for/IN the/DT multi-player/JJ video/NN game/NN setting/NN ./.

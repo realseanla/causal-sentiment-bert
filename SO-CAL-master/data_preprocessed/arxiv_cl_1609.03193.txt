@@ -1,0 +1,4 @@
+This/DT paper/NN presents/VBZ a/DT simple/JJ end/NN -/HYPH to/IN -/HYPH end/NN model/NN for/IN speech/NN recognition/NN ,/, combining/VBG a/DT convolutional/JJ network/NN based/VBN acoustic/JJ model/NN and/CC a/DT graph/NN decoding/NN ./.
+It/PRP is/VBZ trained/VBN to/IN output/NN letters/NNS ,/, with/IN transcribed/VBN speech/NN ,/, without/IN the/DT need/NN for/IN force/NN alignment/NN of/IN phonemes/NNS ./.
+We/PRP introduce/VBP an/DT automatic/JJ segmentation/NN criterion/NN for/IN training/NN from/IN sequence/NN annotation/NN without/IN alignment/NN that/WDT is/VBZ on/IN par/NN with/IN CTC/NN while/IN being/VBG simpler/JJR ./.
+We/PRP show/VBP competitive/JJ results/NNS in/IN word/NN error/NN rate/NN on/IN the/DT Librispeech/NNP corpus/NN with/IN MFCC/NN features/NNS ,/, and/CC promising/JJ results/NNS from/IN raw/JJ waveform/NN ./.

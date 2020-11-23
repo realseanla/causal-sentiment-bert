@@ -1,0 +1,5 @@
+As/IN part/NN of/IN a/DT complete/JJ software/NN stack/NN for/IN autonomous/JJ driving/NN ,/, NVIDIA/NNP has/VBZ created/VBN a/DT neural/JJ -/HYPH network/NN -/HYPH based/VBN system/NN ,/, known/VBN as/IN PilotNet/NNP ,/, which/WDT outputs/NNS steering/NN angles/NNS given/VBN images/NNS of/IN the/DT road/NN ahead/RB ./.
+PilotNet/NNP is/VBZ trained/VBN using/VBG road/NN images/NNS paired/VBN with/IN the/DT steering/NN angles/NNS generated/VBN by/IN a/DT human/JJ driving/NN a/DT data/NN -/HYPH collection/NN car/NN ./.
+It/PRP derives/VBZ the/DT necessary/JJ domain/NN knowledge/NN by/IN observing/VBG human/JJ drivers/NNS ./.
+This/DT eliminates/VBZ the/DT need/NN for/IN human/JJ engineers/NNS to/TO anticipate/VB what/WP is/VBZ important/JJ in/IN an/DT image/NN and/CC foresee/VB all/PDT the/DT necessary/JJ rules/NNS for/IN safe/JJ driving/NN ./.
+Road/NN tests/NNS demonstrated/VBD that/IN PilotNet/NNP can/MD successfully/RB perform/VB lane/NN keeping/NN in/IN a/DT wide/JJ variety/NN of/IN driving/VBG conditions/NNS ,/, regardless/RB of/IN whether/IN lane/NN markings/NNS are/VBP present/JJ or/CC not/RB ./.

@@ -1,0 +1,8 @@
+Modern/JJ technologies/NNS are/VBP producing/VBG datasets/NNS with/IN complex/JJ intrinsic/JJ structures/NNS ,/, and/CC they/PRP can/MD be/VB naturally/RB represented/VBN as/IN matrices/NNS instead/RB of/IN vectors/NNS ./.
+To/TO preserve/VB the/DT latent/JJ data/NNS structures/NNS during/IN processing/NN ,/, modern/JJ regression/NN approaches/VBZ incorporate/VB the/DT low/JJ -/HYPH rank/NN property/NN to/IN the/DT model/NN and/CC achieve/VB satisfactory/JJ performance/NN for/IN certain/JJ applications/NNS ./.
+These/DT approaches/NNS all/DT assume/VBP that/IN both/DT predictors/NNS and/CC labels/NNS for/IN each/DT pair/NN of/IN data/NNS within/IN the/DT training/NN set/NN are/VBP accurate/JJ ./.
+However/RB ,/, in/IN real/JJ -/HYPH world/NN applications/NNS ,/, it/PRP is/VBZ common/JJ to/TO see/VB the/DT training/NN data/NNS contaminated/VBN by/IN noises/NNS ,/, which/WDT can/MD affect/VB the/DT robustness/NN of/IN these/DT matrix/NN regression/NN methods/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP this/DT issue/NN by/IN introducing/VBG a/DT novel/JJ robust/JJ matrix/NN regression/NN method/NN ./.
+We/PRP also/RB derive/VBP efficient/JJ proximal/JJ algorithms/NNS for/IN model/NN training/NN ./.
+To/TO evaluate/VB the/DT performance/NN of/IN our/PRP$ methods/NNS ,/, we/PRP apply/VBP it/PRP to/IN real/JJ world/NN applications/NNS with/IN comparative/JJ studies/NNS ./.
+Our/PRP$ method/NN achieves/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN ,/, which/WDT shows/VBZ the/DT effectiveness/NN and/CC the/DT practical/JJ value/NN of/IN our/PRP$ method/NN ./.

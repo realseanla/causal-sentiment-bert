@@ -1,0 +1,7 @@
+Sarcasm/NN detection/NN is/VBZ a/DT key/JJ task/NN for/IN many/JJ natural/JJ language/NN processing/NN tasks/NNS ./.
+In/IN sentiment/NN analysis/NN ,/, for/IN example/NN ,/, sarcasm/NN can/MD flip/VB the/DT polarity/NN of/IN an/DT "/`` apparently/RB positive/JJ "/`` sentence/NN and/CC ,/, hence/RB ,/, negatively/RB affect/VB polarity/NN detection/NN performance/NN ./.
+To/IN date/NN ,/, most/JJS approaches/NNS to/IN sarcasm/NN detection/NN have/VBP treated/VBN the/DT task/NN primarily/RB as/IN a/DT text/NN categorization/NN problem/NN ./.
+Sarcasm/NN ,/, however/RB ,/, can/MD be/VB expressed/VBN in/IN very/RB subtle/JJ ways/NNS and/CC requires/VBZ a/DT deeper/JJR understanding/NN of/IN natural/JJ language/NN that/WDT standard/JJ text/NN categorization/NN techniques/NNS can/MD not/RB grasp/VB ./.
+In/IN this/DT work/NN ,/, we/PRP develop/VBP models/NNS based/VBN on/IN a/DT pre-trained/JJ convolutional/JJ neural/JJ network/NN for/IN extracting/VBG sentiment/NN ,/, emotion/NN and/CC personality/NN features/NNS for/IN sarcasm/NN detection/NN ./.
+Such/JJ features/NNS ,/, along/IN with/IN the/DT network/NN 's/POS baseline/NN features/NNS ,/, allow/VB the/DT proposed/VBN models/NNS to/TO outperform/VB the/DT state/NN of/IN the/DT art/NN on/IN benchmark/NN datasets/NNS ./.
+We/PRP also/RB address/VBP the/DT often/RB ignored/VBN generalizability/NN issue/NN of/IN classifying/VBG data/NNS that/WDT have/VBP not/RB been/VBN seen/VBN by/IN the/DT models/NNS at/IN learning/NN phase/NN ./.

@@ -1,0 +1,7 @@
+Convolutional/JJ networks/NNS are/VBP one/CD of/IN the/DT most/RBS widely/RB employed/VBN architectures/NNS in/IN computer/NN vision/NN and/CC machine/NN learning/NN ./.
+In/IN order/NN to/TO leverage/VB their/PRP$ ability/NN to/TO learn/VB complex/JJ functions/NNS ,/, large/JJ amounts/NNS of/IN data/NNS are/VBP required/VBN for/IN training/NN ./.
+Training/VBG a/DT large/JJ convolutional/JJ network/NN to/TO produce/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS can/MD take/VB weeks/NNS ,/, even/RB when/WRB using/VBG modern/JJ GPUs/NNS ./.
+Producing/VBG labels/NNS using/VBG a/DT trained/VBN network/NN can/MD also/RB be/VB costly/JJ when/WRB dealing/VBG with/IN web/NN -/HYPH scale/NN datasets/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP present/VBP a/DT simple/JJ algorithm/NN which/WDT accelerates/VBZ training/NN and/CC inference/NN by/IN a/DT significant/JJ factor/NN ,/, and/CC can/MD yield/VB improvements/NNS of/IN over/IN an/DT order/NN of/IN magnitude/NN compared/VBN to/IN existing/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN implementations/NNS ./.
+This/DT is/VBZ done/VBN by/IN computing/VBG convolutions/NNS as/IN pointwise/JJ products/NNS in/IN the/DT Fourier/NNP domain/NN while/IN reusing/VBG the/DT same/JJ transformed/VBN feature/NN map/NN many/JJ times/NNS ./.
+The/DT algorithm/NN is/VBZ implemented/VBN on/IN a/DT GPU/NNP architecture/NN and/CC addresses/VBZ a/DT number/NN of/IN related/JJ challenges/NNS ./.

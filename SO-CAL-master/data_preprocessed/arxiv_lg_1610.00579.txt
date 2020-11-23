@@ -1,0 +1,9 @@
+Detecting/VBG and/CC quantifying/VBG anomalies/NNS in/IN urban/JJ traffic/NN is/VBZ critical/JJ for/IN real/JJ -/HYPH time/NN alerting/VBG or/CC re-routing/VBG in/IN the/DT short/JJ run/NN and/CC urban/JJ planning/NN in/IN the/DT long/JJ run/NN ./.
+We/PRP describe/VBP a/DT two/CD -/HYPH step/NN framework/NN that/WDT achieves/VBZ these/DT two/CD goals/NNS in/IN a/DT robust/JJ ,/, fast/RB ,/, online/RB ,/, and/CC unsupervised/JJ manner/NN ./.
+First/RB ,/, we/PRP adapt/VBP stable/JJ principal/JJ component/NN pursuit/NN to/TO detect/VB anomalies/NNS for/IN each/DT road/NN segment/NN ./.
+This/DT allows/VBZ us/PRP to/TO pinpoint/VB traffic/NN anomalies/NNS early/RB and/CC precisely/RB in/IN space/NN ./.
+Then/RB we/PRP group/NN the/DT road/NN -/HYPH level/NN anomalies/NNS across/IN time/NN and/CC space/NN into/IN meaningful/JJ anomaly/NN events/NNS using/VBG a/DT simple/JJ graph/NN expansion/NN procedure/NN ./.
+These/DT events/NNS can/MD be/VB easily/RB clustered/VBN ,/, visualized/VBN ,/, and/CC analyzed/VBN by/IN urban/JJ planners/NNS ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ system/NN using/VBG 7/CD weeks/NNS of/IN anonymized/VBN and/CC aggregated/VBN cellular/JJ location/NN data/NNS in/IN Dallas/NNP -/HYPH Fort/NNP Worth/NNP ./.
+We/PRP suggest/VBP potential/JJ opportunities/NNS for/IN urban/JJ planners/NNS and/CC policy/NN makers/NNS to/TO use/VB our/PRP$ methodology/NN to/TO make/VB informed/JJ changes/NNS ./.
+These/DT applications/NNS include/VBP real/JJ -/HYPH time/NN re-routing/NN of/IN traffic/NN in/IN response/NN to/IN abnormally/RB high/JJ traffic/NN ,/, or/CC identifying/VBG candidates/NNS for/IN high/JJ -/HYPH impact/NN infrastructure/NN projects/NNS ./.

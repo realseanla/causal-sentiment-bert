@@ -1,0 +1,5 @@
+When you need to enable deep learning on low-cost embedded SoCs, is it better to port an existing deep learning framework or should you build one from scratch?
+In this paper, we share our practical experiences of building an embedded inference engine using ARM Compute Library (ACL).
+The results show that, contradictory to conventional wisdoms, for simple models, it takes much less development time to build an inference engine from scratch compared to porting existing frameworks.
+In addition, by utilizing ACL, we managed to build an inference engine that outperforms TensorFlow by 25 percent.
+Our conclusion is that, on embedded devices, we most likely will use very simple deep learning models for inference, and with well-developed building blocks such as ACL, it may be better in both performance and development time to build the engine from scratch.

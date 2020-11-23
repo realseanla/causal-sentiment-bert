@@ -1,0 +1,10 @@
+We/PRP present/VBP a/DT library/NN that/WDT provides/VBZ optimized/VBN implementations/NNS for/IN deep/JJ learning/NN primitives/NNS ./.
+Deep/JJ learning/NN workloads/NNS are/VBP computationally/RB intensive/JJ ,/, and/CC optimizing/VBG the/DT kernels/NNS of/IN deep/JJ learning/NN workloads/NNS is/VBZ difficult/JJ and/CC time/NN -/HYPH consuming/VBG ./.
+As/IN parallel/JJ architectures/NNS evolve/VBP ,/, kernels/NNS must/MD be/VB reoptimized/VBN for/IN new/JJ processors/NNS ,/, which/WDT makes/VBZ maintaining/VBG codebases/NNS difficult/JJ over/IN time/NN ./.
+Similar/JJ issues/NNS have/VBP long/RB been/VBN addressed/VBN in/IN the/DT HPC/NNP community/NN by/IN libraries/NNS such/JJ as/IN the/DT Basic/NNP Linear/NNP Algebra/NNP Subroutines/NNPS (/-LRB- BLAS/NNP )/-RRB- ./.
+However/RB ,/, there/EX is/VBZ no/DT analogous/JJ library/NN for/IN deep/JJ learning/NN ./.
+Without/IN such/PDT a/DT library/NN ,/, researchers/NNS implementing/VBG deep/JJ learning/NN workloads/NNS on/IN parallel/JJ processors/NNS must/MD create/VB and/CC optimize/VB their/PRP$ own/JJ implementations/NNS of/IN the/DT main/JJ computational/JJ kernels/NNS ,/, and/CC this/DT work/NN must/MD be/VB repeated/VBN as/IN new/JJ parallel/JJ processors/NNS emerge/VBP ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP have/VBP created/VBN a/DT library/NN similar/JJ in/IN intent/NN to/TO BLAS/NNP ,/, with/IN optimized/VBN routines/NNS for/IN deep/JJ learning/NN workloads/NNS ./.
+Our/PRP$ implementation/NN contains/VBZ routines/NNS for/IN GPUs/NNS ,/, and/CC similarly/RB to/IN the/DT BLAS/NNP library/NN ,/, could/MD be/VB implemented/VBN for/IN other/JJ platforms/NNS ./.
+The/DT library/NN is/VBZ easy/JJ to/TO integrate/VB into/IN existing/VBG frameworks/NNS ,/, and/CC provides/VBZ optimized/VBN performance/NN and/CC memory/NN usage/NN ./.
+For/IN example/NN ,/, integrating/VBG cuDNN/NN into/IN Caffe/NNP ,/, a/DT popular/JJ framework/NN for/IN convolutional/JJ networks/NNS ,/, improves/VBZ performance/NN by/IN 36/CD percent/NN on/IN a/DT standard/JJ model/NN while/IN also/RB reducing/VBG memory/NN consumption/NN ./.

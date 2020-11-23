@@ -1,0 +1,8 @@
+Decision/NN theory/NN has/VBZ become/VBN widely/RB accepted/VBN in/IN the/DT AI/NN community/NN as/IN a/DT useful/JJ framework/NN for/IN planning/NN and/CC decision/NN making/NN ./.
+Applying/VBG the/DT framework/NN typically/RB requires/VBZ elicitation/NN of/IN some/DT form/NN of/IN probability/NN and/CC utility/NN information/NN ./.
+While/IN much/JJ work/NN in/IN AI/NN has/VBZ focused/VBN on/IN providing/VBG representations/NNS and/CC tools/NNS for/IN elicitation/NN of/IN probabilities/NNS ,/, relatively/RB little/JJ work/NN has/VBZ addressed/VBN the/DT elicitation/NN of/IN utility/NN models/NNS ./.
+This/DT imbalance/NN is/VBZ not/RB particularly/RB justified/JJ considering/VBG that/IN probability/NN models/NNS are/VBP relatively/RB stable/JJ across/IN problem/NN instances/NNS ,/, while/IN utility/NN models/NNS may/MD be/VB different/JJ for/IN each/DT instance/NN ./.
+Spending/VBG large/JJ amounts/NNS of/IN time/NN on/IN elicitation/NN can/MD be/VB undesirable/JJ for/IN interactive/JJ systems/NNS used/VBN in/IN low/JJ -/HYPH stakes/NNS decision/NN making/NN and/CC in/IN time/NN -/HYPH critical/JJ decision/NN making/NN ./.
+In/IN this/DT paper/NN we/PRP investigate/VBP the/DT issues/NNS of/IN reasoning/NN with/IN incomplete/JJ utility/NN models/NNS ./.
+We/PRP identify/VBP patterns/NNS of/IN problem/NN instances/NNS where/WRB plans/NNS can/MD be/VB proved/VBN to/TO be/VB suboptimal/JJ if/IN the/DT (/-LRB- unknown/JJ )/-RRB- utility/NN function/NN satisfies/VBZ certain/JJ conditions/NNS ./.
+We/PRP present/VBP an/DT approach/NN to/IN planning/NN and/CC decision/NN making/VBG that/DT performs/VBZ the/DT utility/NN elicitation/NN incrementally/RB and/CC in/IN a/DT way/NN that/WDT is/VBZ informed/VBN by/IN the/DT domain/NN model/NN ./.

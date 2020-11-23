@@ -1,0 +1,6 @@
+Network/NNP models/NNS play/VBP an/DT important/JJ role/NN in/IN studying/VBG complex/JJ systems/NNS in/IN many/JJ scientific/JJ disciplines/NNS ./.
+Graph/NN signal/NN processing/NN is/VBZ receiving/VBG growing/VBG interest/NN as/IN to/TO design/VB novel/JJ tools/NNS to/TO combine/VB the/DT analysis/NN of/IN topology/NN and/CC signals/NNS ./.
+The/DT graph/NN Fourier/NNP transform/VB ,/, defined/VBN as/IN the/DT eigendecomposition/NN of/IN the/DT graph/NN Laplacian/NNP ,/, allows/VBZ extending/VBG conventional/JJ signal/NN -/HYPH processing/NN operations/NNS to/IN graphs/NNS ./.
+One/CD main/JJ feature/NN is/VBZ to/TO let/VB emerge/VB global/JJ organization/NN from/IN local/JJ interactions/NNS ;/: i.e./FW ,/, the/DT Fiedler/NNP vector/NN has/VBZ the/DT smallest/JJS non-zero/JJ eigenvalue/NN and/CC is/VBZ key/JJ for/IN Laplacian/JJ embedding/NN and/CC graph/NN clustering/NN ./.
+Here/RB ,/, we/PRP introduce/VBP the/DT design/NN of/IN Slepian/JJ graph/NN signals/NNS ,/, by/IN maximizing/VBG energy/NN concentration/NN in/IN a/DT predefined/JJ subgraph/NN for/IN a/DT given/VBN spectral/JJ bandlimit/NN ./.
+We/PRP also/RB establish/VBP a/DT link/NN with/IN classical/JJ Laplacian/JJ embedding/NN and/CC graph/NN clustering/NN ,/, for/IN which/WDT the/DT graph/NN Slepian/NNP design/NN can/MD serve/VB as/IN a/DT generalization/NN ./.

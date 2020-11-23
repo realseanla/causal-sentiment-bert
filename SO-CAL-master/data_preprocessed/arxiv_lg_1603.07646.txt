@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN learning/VBG distributed/VBN representations/NNS for/IN tags/NNS from/IN their/PRP$ associated/VBN content/NN for/IN the/DT task/NN of/IN tag/NN recommendation/NN ./.
+Considering/VBG tagging/VBG information/NN is/VBZ usually/RB very/RB sparse/JJ ,/, effective/JJ learning/NN from/IN content/NN and/CC tag/NN association/NN is/VBZ very/RB crucial/JJ and/CC challenging/JJ task/NN ./.
+Recently/RB ,/, various/JJ neural/JJ representation/NN learning/NN models/NNS such/JJ as/IN WSABIE/NNP and/CC its/PRP$ variants/NNS show/VBP promising/JJ performance/NN ,/, mainly/RB due/IN to/IN compact/JJ feature/NN representations/NNS learned/VBN in/IN a/DT semantic/JJ space/NN ./.
+However/RB ,/, their/PRP$ capacity/NN is/VBZ limited/VBN by/IN a/DT linear/JJ compositional/JJ approach/NN for/IN representing/VBG tags/NNS as/IN sum/NN of/IN equal/JJ parts/NNS and/CC hurt/VB their/PRP$ performance/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT neural/JJ feedback/NN relevance/NN model/NN for/IN learning/VBG tag/NN representations/NNS with/IN weighted/JJ feature/NN representations/NNS ./.
+Our/PRP$ experiments/NNS on/IN two/CD widely/RB used/VBN datasets/NNS show/VBP significant/JJ improvement/NN for/IN quality/NN of/IN recommendations/NNS over/IN various/JJ baselines/NNS ./.

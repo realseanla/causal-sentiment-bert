@@ -1,0 +1,5 @@
+This/DT paper/NN describes/VBZ the/DT details/NNS of/IN Sighthound/NNP 's/POS fully/RB automated/VBN age/NN ,/, gender/NN and/CC emotion/NN recognition/NN system/NN ./.
+The/DT backbone/NN of/IN our/PRP$ system/NN consists/VBZ of/IN several/JJ deep/JJ convolutional/JJ neural/JJ networks/NNS that/WDT are/VBP not/RB only/RB computationally/RB inexpensive/JJ ,/, but/CC also/RB provide/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN several/JJ competitive/JJ benchmarks/NNS ./.
+To/IN power/NN our/PRP$ novel/JJ deep/JJ networks/NNS ,/, we/PRP collected/VBD large/JJ labeled/VBN datasets/NNS through/IN a/DT semi-supervised/JJ pipeline/NN to/TO reduce/VB the/DT annotation/NN effort/NN //HYPH time/NN ./.
+We/PRP tested/VBD our/PRP$ system/NN on/IN several/JJ public/JJ benchmarks/NNS and/CC report/NN outstanding/JJ results/NNS ./.
+Our/PRP$ age/NN ,/, gender/NN and/CC emotion/NN recognition/NN models/NNS are/VBP available/JJ to/IN developers/NNS through/IN the/DT Sighthound/NNP Cloud/NNP API/NN at/IN

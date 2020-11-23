@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN reinforcement/NN learning/VBG with/IN binary/JJ vector/NN actions/NNS was/VBD investigated/VBN ./.
+We/PRP suggest/VBP an/DT effective/JJ architecture/NN of/IN the/DT neural/JJ networks/NNS for/IN approximating/VBG an/DT action/NN -/HYPH value/NN function/NN with/IN binary/JJ vector/NN actions/NNS ./.
+The/DT proposed/VBN architecture/NN approximates/VBZ the/DT action/NN -/HYPH value/NN function/NN by/IN a/DT linear/JJ function/NN with/IN respect/NN to/IN the/DT action/NN vector/NN ,/, but/CC is/VBZ still/RB non-linear/JJ with/IN respect/NN to/IN the/DT state/NN input/NN ./.
+We/PRP show/VBP that/IN this/DT approximation/NN method/NN enables/VBZ the/DT efficient/JJ calculation/NN of/IN greedy/JJ action/NN selection/NN and/CC softmax/JJ action/NN selection/NN ./.
+Using/VBG this/DT architecture/NN ,/, we/PRP suggest/VBP an/DT online/JJ algorithm/NN based/VBN on/IN Q/NN -/HYPH learning/NN ./.
+The/DT empirical/JJ results/NNS in/IN the/DT grid/NN world/NN and/CC the/DT blocker/NN task/NN suggest/VBP that/IN our/PRP$ approximation/NN architecture/NN would/MD be/VB effective/JJ for/IN the/DT RL/NN problems/NNS with/IN large/JJ discrete/JJ action/NN sets/NNS ./.

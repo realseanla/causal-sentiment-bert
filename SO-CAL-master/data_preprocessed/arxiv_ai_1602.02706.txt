@@ -1,0 +1,6 @@
+We/PRP adress/VBP the/DT problem/NN of/IN dueling/VBG bandits/NNS defined/VBN on/IN partially/RB ordered/VBN sets/NNS ,/, or/CC posets/NNS ./.
+In/IN this/DT setting/NN ,/, arms/NNS may/MD not/RB be/VB comparable/JJ ,/, and/CC there/EX may/MD be/VB several/JJ (/-LRB- incomparable/JJ )/-RRB- optimal/JJ arms/NNS ./.
+We/PRP propose/VBP an/DT algorithm/NN ,/, UnchainedBandits/NNPS ,/, that/DT efficiently/RB finds/VBZ the/DT set/NN of/IN optimal/JJ arms/NNS of/IN any/DT poset/NN even/RB when/WRB pairs/NNS of/IN comparable/JJ arms/NNS can/MD not/RB be/VB distinguished/VBN from/IN pairs/NNS of/IN incomparable/JJ arms/NNS ,/, with/IN a/DT set/NN of/IN minimal/JJ assumptions/NNS ./.
+This/DT algorithm/NN relies/VBZ on/IN the/DT concept/NN of/IN decoys/NNS ,/, which/WDT stems/VBZ from/IN social/JJ psychology/NN ./.
+For/IN the/DT easier/JJR case/NN where/WRB the/DT incomparability/NN information/NN may/MD be/VB accessible/JJ ,/, we/PRP propose/VBP a/DT second/JJ algorithm/NN ,/, SlicingBandits/NNP ,/, which/WDT takes/VBZ advantage/NN of/IN this/DT information/NN and/CC achieves/VBZ a/DT very/RB significant/JJ gain/NN of/IN performance/NN compared/VBN to/IN UnchainedBandits/NNP ./.
+We/PRP provide/VBP theoretical/JJ guarantees/NNS and/CC experimental/JJ evaluation/NN for/IN both/DT algorithms/NNS ./.

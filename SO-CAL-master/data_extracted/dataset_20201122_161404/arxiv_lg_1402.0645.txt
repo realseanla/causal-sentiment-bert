@@ -1,0 +1,5 @@
+Locally weighted regression was created as a nonparametric learning method that is computationally efficient, can learn from very large amounts of data and add data incrementally.
+An interesting feature of locally weighted regression is that it can work with spatially varying length scales, a beneficial property, for instance, in control problems.
+However, it does not provide a generative model for function values and requires training and test data to be generated identically, independently.
+Gaussian (process) regression, on the other hand, provides a fully generative model without significant formal requirements on the distribution of training data, but has much higher computational cost and usually works with one global scale per input dimension.
+Using a localising function basis and approximate inference techniques, we take Gaussian (process) regression to increasingly localised properties and toward the same computational complexity class as locally weighted regression.

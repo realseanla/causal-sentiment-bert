@@ -1,0 +1,4 @@
+Natural/JJ image/NN statistics/NNS exhibit/VBP hierarchical/JJ dependencies/NNS across/IN multiple/JJ scales/NNS ./.
+Representing/VBG such/JJ prior/JJ knowledge/NN in/IN non-factorial/JJ latent/JJ tree/NN models/NNS can/MD boost/VB performance/NN of/IN image/NN denoising/NN ,/, inpainting/NN ,/, deconvolution/NN or/CC reconstruction/NN substantially/RB ,/, beyond/IN standard/JJ factorial/JJ "/`` sparse/JJ "/'' methodology/NN ./.
+We/PRP derive/VBP a/DT large/JJ scale/NN approximate/JJ Bayesian/JJ inference/NN algorithm/NN for/IN linear/JJ models/NNS with/IN non-factorial/JJ (/-LRB- latent/JJ tree/NN -/HYPH structured/VBN )/-RRB- scale/NN mixture/NN priors/NNS ./.
+Experimental/JJ results/NNS on/IN a/DT range/NN of/IN denoising/NN and/CC inpainting/NN problems/NNS demonstrate/VBP substantially/RB improved/VBN performance/NN compared/VBN to/IN MAP/NN estimation/NN or/CC to/IN inference/NN with/IN factorial/JJ priors/NNS ./.

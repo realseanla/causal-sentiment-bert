@@ -1,0 +1,5 @@
+The/DT Why3/NN IDE/NN and/CC verification/NN system/NN facilitates/VBZ the/DT use/NN of/IN a/DT wide/JJ range/NN of/IN Satisfiability/NNP Modulo/NNP Theories/NNPS (/-LRB- SMT/NNP )/-RRB- solvers/NNS through/IN a/DT driver/NN -/HYPH based/VBN architecture/NN ./.
+We/PRP present/VBP Where4/NN :/: a/DT portfolio/NN -/HYPH based/VBN approach/NN to/IN discharge/NN Why3/NN proof/NN obligations/NNS ./.
+We/PRP use/VBP data/NNS analysis/NN and/CC machine/NN learning/NN techniques/NNS on/IN static/NN metrics/NNS derived/VBN from/IN program/NN source/NN code/NN ./.
+Our/PRP$ approach/NN benefits/NNS software/NN engineers/NNS by/IN providing/VBG a/DT single/JJ utility/NN to/IN delegate/NN proof/NN obligations/NNS to/IN the/DT solvers/NNS most/RBS likely/JJ to/TO return/VB a/DT useful/JJ result/NN ./.
+It/PRP does/VBZ this/DT in/IN a/DT time/NN -/HYPH efficient/JJ way/NN using/VBG existing/VBG Why3/NN and/CC solver/NN installations/NNS -/, without/IN requiring/VBG low/JJ -/HYPH level/NN knowledge/NN about/IN SMT/NN solver/NN operation/NN from/IN the/DT user/NN ./.

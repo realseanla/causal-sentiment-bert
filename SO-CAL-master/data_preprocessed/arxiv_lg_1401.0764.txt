@@ -1,0 +1,9 @@
+Spectral/JJ clustering/NN is/VBZ a/DT powerful/JJ tool/NN for/IN unsupervised/JJ data/NNS analysis/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT context/NN -/HYPH aware/JJ hypergraph/NN similarity/NN measure/NN (/-LRB- CAHSM/NN )/-RRB- ,/, which/WDT leads/VBZ to/IN robust/JJ spectral/JJ clustering/NN in/IN the/DT case/NN of/IN noisy/JJ data/NNS ./.
+We/PRP construct/VBP three/CD types/NNS of/IN hypergraph/NN ---/, the/DT pairwise/JJ hypergraph/NN ,/, the/DT k/NN -/HYPH nearest/JJS -/HYPH neighbor/NN (/-LRB- kNN/NN )/-RRB- hypergraph/NN ,/, and/CC the/DT high/JJ -/HYPH order/NN over-clustering/NN hypergraph/NN ./.
+The/DT pairwise/JJ hypergraph/NN captures/VBZ the/DT pairwise/JJ similarity/NN of/IN data/NNS points/NNS ;/: the/DT kNN/NN hypergraph/NN captures/VBZ the/DT neighborhood/NN of/IN each/DT point/NN ;/: and/CC the/DT clustering/NN hypergraph/NN encodes/VBZ high/JJ -/HYPH order/NN contexts/NNS within/IN the/DT dataset/NN ./.
+By/IN combining/VBG the/DT affinity/NN information/NN from/IN these/DT three/CD hypergraphs/NNS ,/, the/DT CAHSM/NNP algorithm/NN is/VBZ able/JJ to/TO explore/VB the/DT intrinsic/JJ topological/JJ information/NN of/IN the/DT dataset/NN ./.
+Therefore/RB ,/, data/NNS clustering/NN using/VBG CAHSM/NNP tends/VBZ to/TO be/VB more/RBR robust/JJ ./.
+Considering/VBG the/DT intra-cluster/JJ compactness/NN and/CC the/DT inter-cluster/JJ separability/NN of/IN vertices/NNS ,/, we/PRP further/RB design/VB a/DT discriminative/JJ hypergraph/NN partitioning/NN criterion/NN (/-LRB- DHPC/NN )/-RRB- ./.
+Using/VBG both/DT CAHSM/NNP and/CC DHPC/NNP ,/, a/DT robust/JJ spectral/JJ clustering/NN algorithm/NN is/VBZ developed/VBN ./.
+Theoretical/JJ analysis/NN and/CC experimental/JJ evaluation/NN demonstrate/VBP the/DT effectiveness/NN and/CC robustness/NN of/IN the/DT proposed/VBN algorithm/NN ./.

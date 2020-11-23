@@ -1,0 +1,10 @@
+We/PRP propose/VBP a/DT convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- architecture/NN for/IN facial/JJ expression/NN recognition/NN ./.
+The/DT proposed/VBN architecture/NN is/VBZ independent/JJ of/IN any/DT hand/NN -/HYPH crafted/VBN feature/NN extraction/NN and/CC performs/VBZ better/JJR than/IN the/DT earlier/RBR proposed/VBN convolutional/JJ neural/JJ network/NN based/VBN approaches/NNS ./.
+We/PRP visualize/VBP the/DT automatically/RB extracted/VBN features/NNS which/WDT have/VBP been/VBN learned/VBN by/IN the/DT network/NN in/IN order/NN to/TO provide/VB a/DT better/JJR understanding/NN ./.
+The/DT standard/JJ datasets/NNS ,/, i.e./FW Extended/NNP Cohn/NNP -/HYPH Kanade/NNP (/-LRB- CKP/NN )/-RRB- and/CC MMI/NNP Facial/NNP Expression/NN Databse/NN are/VBP used/VBN for/IN the/DT quantitative/JJ evaluation/NN ./.
+On/IN the/DT CKP/NN set/VBD the/DT current/JJ state/NN of/IN the/DT art/NN approach/NN ,/, using/VBG CNNs/NNS ,/, achieves/VBZ an/DT accuracy/NN of/IN 99.2/CD percent/NN ./.
+For/IN the/DT MMI/NNP dataset/NN ,/, currently/RB the/DT best/JJS accuracy/NN for/IN emotion/NN recognition/NN is/VBZ 93.33/CD percent/NN ./.
+The/DT proposed/VBN architecture/NN achieves/VBZ 99.6/CD percent/NN for/IN CKP/NN and/CC 98.63/CD percent/NN for/IN MMI/NNP ,/, therefore/RB performing/VBG better/JJR than/IN the/DT state/NN of/IN the/DT art/NN using/VBG CNNs/NNS ./.
+Automatic/JJ facial/JJ expression/NN recognition/NN has/VBZ a/DT broad/JJ spectrum/NN of/IN applications/NNS such/JJ as/IN human/JJ -/HYPH computer/NN interaction/NN and/CC safety/NN systems/NNS ./.
+This/DT is/VBZ due/JJ to/IN the/DT fact/NN that/IN non-verbal/JJ cues/NNS are/VBP important/JJ forms/NNS of/IN communication/NN and/CC play/VB a/DT pivotal/JJ role/NN in/IN interpersonal/JJ communication/NN ./.
+The/DT performance/NN of/IN the/DT proposed/VBN architecture/NN endorses/VBZ the/DT efficacy/NN and/CC reliable/JJ usage/NN of/IN the/DT proposed/VBN work/NN for/IN real/JJ world/NN applications/NNS ./.

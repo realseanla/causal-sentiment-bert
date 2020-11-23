@@ -1,0 +1,15 @@
+Spectral/JJ graph/NN theory/NN has/VBZ been/VBN widely/RB applied/VBN in/IN unsupervised/JJ and/CC semi-supervised/JJ learning/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP find/VBP for/IN the/DT first/JJ time/NN ,/, to/IN our/PRP$ knowledge/NN ,/, that/IN it/PRP also/RB plays/VBZ a/DT concrete/JJ role/NN in/IN supervised/JJ classification/NN ./.
+It/PRP turns/VBZ out/RP that/IN two/CD classifiers/NNS are/VBP inherently/RB related/VBN to/IN the/DT theory/NN :/: linear/JJ regression/NN for/IN classification/NN (/-LRB- LRC/NN )/-RRB- and/CC normalized/VBN radial/JJ basis/NN function/NN network/NN (/-LRB- nRBFN/NN )/-RRB- ,/, corresponding/VBG to/IN linear/JJ and/CC nonlinear/JJ kernel/NN respectively/RB ./.
+The/DT spectral/JJ graph/NN theory/NN provides/VBZ us/PRP with/IN a/DT new/JJ insight/NN into/IN a/DT fundamental/JJ aspect/NN of/IN classification/NN :/: the/DT tradeoff/NN between/IN fitting/JJ error/NN and/CC overfitting/VBG risk/NN ./.
+With/IN the/DT theory/NN ,/, ideal/NN working/NN conditions/NNS for/IN LRC/NNP and/CC nRBFN/NNP are/VBP presented/VBN ,/, which/WDT ensure/VBP not/RB only/RB zero/CD fitting/JJ error/NN but/CC also/RB low/JJ overfitting/NN risk/NN ./.
+For/IN quantitative/JJ analysis/NN ,/, two/CD concepts/NNS ,/, the/DT fitting/JJ error/NN and/CC the/DT spectral/JJ risk/NN (/-LRB- indicating/VBG overfitting/NN )/-RRB- ,/, have/VBP been/VBN defined/VBN ./.
+Their/PRP$ bounds/NNS for/IN nRBFN/NNP and/CC LRC/NNP are/VBP derived/VBN ./.
+A/DT special/JJ result/NN shows/VBZ that/IN the/DT spectral/JJ risk/NN of/IN nRBFN/NNP is/VBZ lower/JJR bounded/VBN by/IN the/DT number/NN of/IN classes/NNS and/CC upper/JJ bounded/VBN by/IN the/DT size/NN of/IN radial/JJ basis/NN ./.
+When/WRB the/DT conditions/NNS are/VBP not/RB met/VBN exactly/RB ,/, the/DT classifiers/NNS will/MD pursue/VB the/DT minimum/JJ fitting/JJ error/NN ,/, running/VBG into/IN the/DT risk/NN of/IN overfitting/VBG ./.
+It/PRP turns/VBZ out/RP that/IN $/$ \/CD ell_2/CD $/$ -/HYPH norm/NN regularization/NN can/MD be/VB applied/VBN to/TO control/VB overfitting/NN ./.
+Its/PRP$ effect/NN is/VBZ explored/VBN under/IN the/DT spectral/JJ context/NN ./.
+It/PRP is/VBZ found/VBN that/IN the/DT two/CD terms/NNS in/IN the/DT $/$ \/CD ell_2/CD $/$ -/HYPH regularized/VBN objective/NN are/VBP one/CD -/HYPH one/CD correspondent/NN to/IN the/DT fitting/JJ error/NN and/CC the/DT spectral/JJ risk/NN ,/, revealing/VBG a/DT tradeoff/NN between/IN the/DT two/CD quantities/NNS ./.
+Concerning/VBG practical/JJ performance/NN ,/, we/PRP devise/VBP a/DT basis/NN selection/NN strategy/NN to/TO address/VB the/DT main/JJ problem/NN hindering/VBG the/DT applications/NNS of/IN (/-LRB- n/NN )/-RRB- RBFN/NN ./.
+With/IN the/DT strategy/NN ,/, nRBFN/NNP is/VBZ easy/JJ to/TO implement/VB yet/RB flexible/JJ ./.
+Experiments/NNS on/IN 14/CD benchmark/NN data/NNS sets/NNS show/VBP the/DT performance/NN of/IN nRBFN/NNP is/VBZ comparable/JJ to/IN that/DT of/IN SVM/NNP ,/, whereas/IN the/DT parameter/NN tuning/NN of/IN nRBFN/NNP is/VBZ much/RB easier/JJR ,/, leading/VBG to/IN reduction/NN of/IN model/NN selection/NN time/NN ./.

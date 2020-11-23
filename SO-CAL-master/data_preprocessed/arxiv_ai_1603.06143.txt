@@ -1,0 +1,9 @@
+We/PRP present/VBP a/DT deep/JJ learning/NN approach/NN for/IN speeding/VBG up/RP constrained/VBN procedural/JJ modeling/NN ./.
+Probabilistic/JJ inference/NN algorithms/NNS such/JJ as/IN Sequential/NNP Monte/NNP Carlo/NNP (/-LRB- SMC/NNP )/-RRB- provide/VBP powerful/JJ tools/NNS for/IN constraining/VBG procedural/JJ models/NNS ,/, but/CC they/PRP require/VBP many/JJ samples/NNS to/TO produce/VB desirable/JJ results/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP how/WRB to/TO create/VB procedural/JJ models/NNS which/WDT learn/VBP how/WRB to/TO satisfy/VB constraints/NNS ./.
+We/PRP augment/VBP procedural/JJ models/NNS with/IN neural/JJ networks/NNS :/: these/DT networks/NNS control/VBP how/WRB the/DT model/NN makes/VBZ random/JJ choices/NNS based/VBN on/IN what/WP output/NN it/PRP has/VBZ generated/VBN thus/RB far/RB ./.
+We/PRP call/VBP such/PDT a/DT model/NN a/DT neurally/RB -/HYPH guided/VBN procedural/JJ model/NN ./.
+As/IN a/DT pre-computation/NN ,/, we/PRP train/VBP these/DT models/NNS on/IN constraint/NN -/HYPH satisfying/VBG example/NN outputs/NNS generated/VBN via/IN SMC/NNP ./.
+They/PRP are/VBP then/RB used/VBN as/IN efficient/JJ importance/NN samplers/NNS for/IN SMC/NNP ,/, generating/VBG high/JJ -/HYPH quality/NN results/NNS with/IN very/RB few/JJ samples/NNS ./.
+We/PRP evaluate/VBP our/PRP$ method/NN on/IN L/NN -/HYPH system/NN -/HYPH like/JJ models/NNS with/IN image/NN -/HYPH based/VBN constraints/NNS ./.
+Given/VBN a/DT desired/VBN quality/NN threshold/NN ,/, neurally/RB -/HYPH guided/VBN models/NNS can/MD generate/VB satisfactory/JJ results/NNS up/IN to/IN 10x/CD faster/JJR than/IN unguided/JJ models/NNS ./.

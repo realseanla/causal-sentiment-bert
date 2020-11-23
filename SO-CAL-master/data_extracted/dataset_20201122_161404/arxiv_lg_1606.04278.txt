@@ -1,0 +1,6 @@
+Many complex multi-target prediction problems that concern large target spaces are characterised by a need for efficient prediction strategies that avoid the computation of predictions for all targets explicitly.
+Examples of such problems emerge in several subfields of machine learning, such as collaborative filtering, multi-label classification, dyadic prediction and biological network inference.
+In this article we analyse efficient and exact algorithms for computing the top-$K$ predictions in the above problem settings, using a general class of models that we refer to as separable linear relational models.
+We show how to use those inference algorithms, which are modifications of well-known information retrieval methods, in a variety of machine learning settings.
+Furthermore, we study the possibility of scoring items incompletely, while still retaining an exact top-K retrieval.
+Experimental results in several application domains reveal that the so-called threshold algorithm is very scalable, performing often many orders of magnitude more efficiently than the naive approach.

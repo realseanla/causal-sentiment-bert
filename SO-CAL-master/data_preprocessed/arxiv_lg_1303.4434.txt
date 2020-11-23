@@ -1,0 +1,10 @@
+Non-convex/NN sparsity/NN -/HYPH inducing/VBG penalties/NNS have/VBP recently/RB received/VBN considerable/JJ attentions/NNS in/IN sparse/JJ learning/NN ./.
+Recent/JJ theoretical/JJ investigations/NNS have/VBP demonstrated/VBN their/PRP$ superiority/NN over/IN the/DT convex/NN counterparts/NNS in/IN several/JJ sparse/JJ learning/NN settings/NNS ./.
+However/RB ,/, solving/VBG the/DT non-convex/JJ optimization/NN problems/NNS associated/VBN with/IN non-convex/JJ penalties/NNS remains/VBZ a/DT big/JJ challenge/NN ./.
+A/DT commonly/RB used/VBN approach/NN is/VBZ the/DT Multi-Stage/NNP (/-LRB- MS/NNP )/-RRB- convex/NN relaxation/NN (/-LRB- or/CC DC/NNP programming/NN )/-RRB- ,/, which/WDT relaxes/VBZ the/DT original/JJ non-convex/JJ problem/NN to/IN a/DT sequence/NN of/IN convex/NN problems/NNS ./.
+This/DT approach/NN is/VBZ usually/RB not/RB very/RB practical/JJ for/IN large/JJ -/HYPH scale/NN problems/NNS because/IN its/PRP$ computational/JJ cost/NN is/VBZ a/DT multiple/NN of/IN solving/VBG a/DT single/JJ convex/NN problem/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT General/NNP Iterative/NNP Shrinkage/NNP and/CC Thresholding/NNP (/-LRB- GIST/NN )/-RRB- algorithm/NN to/TO solve/VB the/DT nonconvex/JJ optimization/NN problem/NN for/IN a/DT large/JJ class/NN of/IN non-convex/JJ penalties/NNS ./.
+The/DT GIST/NN algorithm/NN iteratively/RB solves/VBZ a/DT proximal/JJ operator/NN problem/NN ,/, which/WDT in/IN turn/NN has/VBZ a/DT closed/JJ -/HYPH form/NN solution/NN for/IN many/JJ commonly/RB used/VBN penalties/NNS ./.
+At/IN each/DT outer/JJ iteration/NN of/IN the/DT algorithm/NN ,/, we/PRP use/VBP a/DT line/NN search/NN initialized/VBN by/IN the/DT Barzilai/NNP -/HYPH Borwein/NNP (/-LRB- BB/NNP )/-RRB- rule/NN that/WDT allows/VBZ finding/VBG an/DT appropriate/JJ step/NN size/NN quickly/RB ./.
+The/DT paper/NN also/RB presents/VBZ a/DT detailed/JJ convergence/NN analysis/NN of/IN the/DT GIST/NN algorithm/NN ./.
+The/DT efficiency/NN of/IN the/DT proposed/VBN algorithm/NN is/VBZ demonstrated/VBN by/IN extensive/JJ experiments/NNS on/IN large/JJ -/HYPH scale/NN data/NN sets/NNS ./.

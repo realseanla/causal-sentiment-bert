@@ -1,0 +1,3 @@
+In/IN this/DT work/NN we/PRP describe/VBP and/CC evaluate/VBP methods/NNS to/TO learn/VB musical/JJ embeddings/NNS ./.
+Each/DT embedding/NN is/VBZ a/DT vector/NN that/WDT represents/VBZ four/CD contiguous/JJ beats/NNS of/IN music/NN and/CC is/VBZ derived/VBN from/IN a/DT symbolic/JJ representation/NN ./.
+We/PRP consider/VBP autoencoding/VBG -/HYPH based/VBN methods/NNS including/VBG denoising/NN autoencoders/NNS ,/, and/CC context/NN reconstruction/NN ,/, and/CC evaluate/VB the/DT resulting/VBG embeddings/NNS on/IN a/DT forward/JJ prediction/NN and/CC a/DT classification/NN task/NN ./.

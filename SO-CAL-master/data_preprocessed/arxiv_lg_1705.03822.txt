@@ -1,0 +1,13 @@
+In/IN mobile/JJ crowdsourcing/NN ,/, mobile/JJ users/NNS accomplish/VBP outsourced/VBN human/JJ intelligence/NN tasks/NNS ./.
+Mobile/NNP crowdsourcing/VBG requires/VBZ an/DT appropriate/JJ task/NN assignment/NN strategy/NN ,/, since/IN different/JJ workers/NNS may/MD have/VB different/JJ performance/NN in/IN terms/NNS of/IN acceptance/NN rate/NN and/CC quality/NN ./.
+Task/NNP assignment/NN is/VBZ challenging/JJ ,/, since/IN a/DT worker/NN 's/POS performance/NN (/-LRB- i/LS )/-RRB- may/MD fluctuate/VB ,/, depending/VBG on/IN both/CC the/DT worker/NN 's/POS current/JJ context/NN and/CC the/DT task/NN context/NN ,/, (/-LRB- ii/LS )/-RRB- is/VBZ not/RB known/VBN a/FW priori/FW ,/, but/CC has/VBZ to/TO be/VB learned/VBN over/IN time/NN ./.
+However/RB ,/, learning/VBG context/NN -/HYPH specific/JJ worker/NN performance/NN requires/VBZ access/NN to/IN context/NN information/NN ,/, which/WDT workers/NNS may/MD not/RB grant/VB to/IN a/DT central/JJ entity/NN ./.
+Moreover/RB ,/, evaluating/VBG worker/NN performance/NN might/MD require/VB costly/JJ quality/NN assessments/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT context/NN -/HYPH aware/JJ hierarchical/JJ online/JJ learning/NN algorithm/NN addressing/VBG the/DT problem/NN of/IN performance/NN maximization/NN in/IN mobile/JJ crowdsourcing/NN ./.
+In/IN our/PRP$ algorithm/NN ,/, a/DT local/JJ controller/NN (/-LRB- LC/NN )/-RRB- in/IN the/DT mobile/JJ device/NN of/IN a/DT worker/NN regularly/RB observes/VBZ its/PRP$ worker/NN 's/POS context/NN ,/, his/PRP$ decisions/NNS to/TO accept/VB or/CC decline/VB tasks/NNS and/CC the/DT quality/NN in/IN completing/VBG tasks/NNS ./.
+Based/VBN on/IN these/DT observations/NNS ,/, the/DT LC/NN regularly/RB estimates/VBZ its/PRP$ worker/NN 's/POS context/NN -/HYPH specific/JJ performance/NN ./.
+The/DT mobile/JJ crowdsourcing/NN platform/NN (/-LRB- MCSP/NN )/-RRB- then/RB selects/VBZ workers/NNS based/VBN on/IN performance/NN estimates/NNS received/VBD from/IN the/DT LCs/NNS ./.
+This/DT hierarchical/JJ approach/NN enables/VBZ the/DT LCs/NNS to/TO learn/VB context/NN -/HYPH specific/JJ worker/NN performance/NN and/CC it/PRP enables/VBZ the/DT MCSP/NN to/TO select/VB suitable/JJ workers/NNS ./.
+In/IN addition/NN ,/, our/PRP$ algorithm/NN preserves/VBZ worker/NN context/NN locally/RB ,/, and/CC it/PRP keeps/VBZ the/DT number/NN of/IN required/JJ quality/NN assessments/NNS low/JJ ./.
+We/PRP prove/VBP that/IN our/PRP$ algorithm/NN converges/VBZ to/IN the/DT optimal/JJ task/NN assignment/NN strategy/NN ./.
+Moreover/RB ,/, the/DT algorithm/NN outperforms/VBZ simpler/JJR task/NN assignment/NN strategies/NNS in/IN experiments/NNS based/VBN on/IN synthetic/JJ and/CC real/JJ data/NNS ./.

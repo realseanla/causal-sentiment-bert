@@ -1,0 +1,8 @@
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT training/NN algorithm/NN for/IN an/DT audio/JJ -/HYPH visual/JJ automatic/JJ speech/NN recognition/NN (/-LRB- AV/NN -/HYPH ASR/NN )/-RRB- system/NN using/VBG deep/JJ recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- ./.
+First/RB ,/, we/PRP train/VBP a/DT deep/JJ RNN/NN acoustic/JJ model/NN with/IN a/DT Connectionist/NN Temporal/JJ Classification/NN (/-LRB- CTC/NN )/-RRB- objective/JJ function/NN ./.
+The/DT frame/NN labels/NNS obtained/VBN from/IN the/DT acoustic/JJ model/NN are/VBP then/RB used/VBN to/TO perform/VB a/DT non-linear/JJ dimensionality/NN reduction/NN of/IN the/DT visual/JJ features/NNS using/VBG a/DT deep/JJ bottleneck/NN network/NN ./.
+Audio/NNP and/CC visual/JJ features/NNS are/VBP fused/VBN and/CC used/VBN to/TO train/VB a/DT fusion/NN RNN/NN ./.
+The/DT use/NN of/IN bottleneck/NN features/NNS for/IN visual/JJ modality/NN helps/VBZ the/DT model/NN to/TO converge/VB properly/RB during/IN training/NN ./.
+Our/PRP$ system/NN is/VBZ evaluated/VBN on/IN GRID/NN corpus/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN presence/NN of/IN visual/JJ modality/NN gives/VBZ significant/JJ improvement/NN in/IN character/NN error/NN rate/NN (/-LRB- CER/NN )/-RRB- at/IN various/JJ levels/NNS of/IN noise/NN even/RB when/WRB the/DT model/NN is/VBZ trained/VBN without/IN noisy/JJ data/NNS ./.
+We/PRP also/RB provide/VBP a/DT comparison/NN of/IN two/CD fusion/NN methods/NNS :/: feature/NN fusion/NN and/CC decision/NN fusion/NN ./.

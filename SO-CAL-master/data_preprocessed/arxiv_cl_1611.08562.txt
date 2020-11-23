@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT simple/JJ ,/, fast/JJ decoding/NN algorithm/NN that/WDT fosters/VBZ diversity/NN in/IN neural/JJ generation/NN ./.
+The/DT algorithm/NN modifies/VBZ the/DT standard/JJ beam/NN search/NN algorithm/NN by/IN adding/VBG an/DT inter-sibling/NN ranking/VBG penalty/NN ,/, favoring/VBG choosing/VBG hypotheses/NNS from/IN diverse/JJ parents/NNS ./.
+We/PRP evaluate/VBP the/DT proposed/VBN model/NN on/IN the/DT tasks/NNS of/IN dialogue/NN response/NN generation/NN ,/, abstractive/JJ summarization/NN and/CC machine/NN translation/NN ./.
+We/PRP find/VBP that/IN diverse/JJ decoding/NN helps/VBZ across/RB all/DT tasks/NNS ,/, especially/RB those/DT for/IN which/WDT reranking/NN is/VBZ needed/VBN ./.

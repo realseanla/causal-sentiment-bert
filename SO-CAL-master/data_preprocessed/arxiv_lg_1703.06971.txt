@@ -1,0 +1,6 @@
+This/DT paper/NN is/VBZ on/IN active/JJ learning/NN where/WRB the/DT goal/NN is/VBZ to/TO reduce/VB the/DT data/NNS annotation/NN burden/NN by/IN interacting/VBG with/IN a/DT (/-LRB- human/JJ )/-RRB- oracle/NN during/IN training/NN ./.
+Standard/JJ active/JJ learning/NN methods/NNS ask/VBP the/DT oracle/NN to/IN annotate/VB data/NNS samples/NNS ./.
+Instead/RB ,/, we/PRP take/VBP a/DT profoundly/RB different/JJ approach/NN :/: we/PRP ask/VBP for/IN annotations/NNS of/IN the/DT decision/NN boundary/NN ./.
+We/PRP achieve/VBP this/DT using/VBG a/DT deep/JJ generative/JJ model/NN to/TO create/VB novel/JJ instances/NNS along/IN a/DT 1d/NN line/NN ./.
+A/DT point/NN on/IN the/DT decision/NN boundary/NN is/VBZ revealed/VBN where/WRB the/DT instances/NNS change/VB class/NN ./.
+Experimentally/RB we/PRP show/VBP on/IN three/CD data/NNS sets/VBZ that/IN our/PRP$ method/NN can/MD be/VB plugged/VBN -/HYPH in/RP to/IN other/JJ active/JJ learning/NN schemes/NNS ,/, that/IN human/JJ oracles/NNS can/MD effectively/RB annotate/VB points/NNS on/IN the/DT decision/NN boundary/NN ,/, that/IN our/PRP$ method/NN is/VBZ robust/JJ to/IN annotation/NN noise/NN ,/, and/CC that/DT decision/NN boundary/NN annotations/NNS improve/VBP over/IN annotating/VBG data/NNS samples/NNS ./.

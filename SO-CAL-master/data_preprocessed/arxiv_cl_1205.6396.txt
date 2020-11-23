@@ -1,0 +1,8 @@
+Many/JJ words/NNS in/IN documents/NNS recur/VBP very/RB frequently/RB but/CC are/VBP essentially/RB meaningless/JJ as/IN they/PRP are/VBP used/VBN to/TO join/VB words/NNS together/RB in/IN a/DT sentence/NN ./.
+It/PRP is/VBZ commonly/RB understood/VBN that/IN stop/NN words/NNS do/VBP not/RB contribute/VB to/IN the/DT context/NN or/CC content/NN of/IN textual/JJ documents/NNS ./.
+Due/IN to/IN their/PRP$ high/JJ frequency/NN of/IN occurrence/NN ,/, their/PRP$ presence/NN in/IN text/NN mining/NN presents/VBZ an/DT obstacle/NN to/IN the/DT understanding/NN of/IN the/DT content/NN in/IN the/DT documents/NNS ./.
+To/TO eliminate/VB the/DT bias/NN effects/NNS ,/, most/JJS text/NN mining/NN software/NN or/CC approaches/NNS make/VBP use/NN of/IN stop/NN words/NNS list/NN to/TO identify/VB and/CC remove/VB those/DT words/NNS ./.
+However/RB ,/, the/DT development/NN of/IN such/JJ top/JJ words/NNS list/NN is/VBZ difficult/JJ and/CC inconsistent/JJ between/IN textual/JJ sources/NNS ./.
+This/DT problem/NN is/VBZ further/JJ aggravated/VBN by/IN sources/NNS such/JJ as/IN Twitter/NNP which/WDT are/VBP highly/RB repetitive/JJ or/CC similar/JJ in/IN nature/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP will/MD be/VB examining/VBG the/DT original/JJ work/NN using/VBG term/NN frequency/NN ,/, inverse/JJ document/NN frequency/NN and/CC term/NN adjacency/NN for/IN developing/VBG a/DT stop/NN words/NNS list/NN for/IN the/DT Twitter/NNP data/NNS source/NN ./.
+We/PRP propose/VBP a/DT new/JJ technique/NN using/VBG combinatorial/JJ values/NNS as/IN an/DT alternative/JJ measure/NN to/TO effectively/RB list/VB out/RP stop/NN words/NNS ./.

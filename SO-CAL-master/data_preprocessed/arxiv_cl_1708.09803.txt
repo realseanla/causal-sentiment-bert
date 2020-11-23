@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT simple/JJ method/NN to/TO improve/VB neural/JJ translation/NN of/IN a/DT low/JJ -/HYPH resource/NN language/NN pair/NN using/VBG parallel/JJ data/NNS from/IN a/DT related/JJ ,/, also/RB low/JJ -/HYPH resource/NN one/NN ./.
+The/DT method/NN is/VBZ based/VBN on/IN the/DT transfer/NN method/NN of/IN Zoph/NNP et/FW al./FW ,/, but/CC whereas/IN their/PRP$ method/NN ignores/VBZ any/DT source/NN vocabulary/NN overlap/NN ,/, ours/PRP$ exploits/NNS it/PRP ./.
+First/RB ,/, we/PRP split/VBD words/NNS using/VBG Byte/NN Pair/NN Encoding/NN (/-LRB- BPE/NN )/-RRB- to/TO increase/VB vocabulary/NN overlap/NN ./.
+Then/RB ,/, we/PRP train/VBP a/DT model/NN on/IN the/DT first/JJ language/NN pair/NN and/CC transfer/VB its/PRP$ parameters/NNS ,/, including/VBG its/PRP$ source/NN word/NN embeddings/NNS ,/, to/IN another/DT model/NN and/CC continue/VB training/VBG on/IN the/DT second/JJ language/NN pair/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN while/IN BPE/NN and/CC transfer/NN learning/NN perform/VB inconsistently/RB on/IN their/PRP$ own/JJ ,/, together/RB they/PRP improve/VBP translation/NN quality/NN by/IN up/RB to/IN 1.8/CD BLEU/NN ./.

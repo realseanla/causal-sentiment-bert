@@ -1,0 +1,6 @@
+Many/JJ language/NN generation/NN tasks/NNS require/VBP the/DT production/NN of/IN text/NN conditioned/VBN on/IN both/DT structured/JJ and/CC unstructured/JJ inputs/NNS ./.
+We/PRP present/VBP a/DT novel/JJ neural/JJ network/NN architecture/NN which/WDT generates/VBZ an/DT output/NN sequence/NN conditioned/VBN on/IN an/DT arbitrary/JJ number/NN of/IN input/NN functions/NNS ./.
+Crucially/RB ,/, our/PRP$ approach/NN allows/VBZ both/CC the/DT choice/NN of/IN conditioning/NN context/NN and/CC the/DT granularity/NN of/IN generation/NN ,/, for/IN example/NN characters/NNS or/CC tokens/NNS ,/, to/TO be/VB marginalised/VBN ,/, thus/RB permitting/VBG scalable/JJ and/CC effective/JJ training/NN ./.
+Using/VBG this/DT framework/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN generating/VBG programming/NN code/NN from/IN a/DT mixed/JJ natural/JJ language/NN and/CC structured/VBN specification/NN ./.
+We/PRP create/VBP two/CD new/JJ data/NNS sets/NNS for/IN this/DT paradigm/NN derived/VBN from/IN the/DT collectible/JJ trading/NN card/NN games/NNS Magic/NNP the/DT Gathering/VBG and/CC Hearthstone/NNP ./.
+On/IN these/DT ,/, and/CC a/DT third/JJ preexisting/JJ corpus/NN ,/, we/PRP demonstrate/VBP that/IN marginalising/VBG multiple/JJ predictors/NNS allows/VBZ our/PRP$ model/NN to/TO outperform/VB strong/JJ benchmarks/NNS ./.

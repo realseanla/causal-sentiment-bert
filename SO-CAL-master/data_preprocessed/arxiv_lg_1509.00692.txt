@@ -1,0 +1,7 @@
+The/DT explosive/JJ growth/NN of/IN World/NN Wide/JJ Web/NN (/-LRB- WWW/NN )/-RRB- has/VBZ necessitated/VBN the/DT development/NN of/IN Web/NN personalization/NN systems/NNS in/IN order/NN to/TO understand/VB the/DT user/NN preferences/NNS to/IN dynamically/RB serve/VB customized/VBN content/NN to/IN individual/JJ users/NNS ./.
+To/TO reveal/VB information/NN about/IN user/NN preferences/NNS from/IN Web/NN usage/NN data/NNS ,/, Web/NN Usage/NN Mining/NN (/-LRB- WUM/NN )/-RRB- techniques/NNS are/VBP extensively/RB being/VBG applied/VBN to/IN the/DT Web/NN log/NN data/NNS ./.
+Clustering/NN techniques/NNS are/VBP widely/RB used/VBN in/IN WUM/NNP to/TO capture/VB similar/JJ interests/NNS and/CC trends/NNS among/IN users/NNS accessing/VBG a/DT Web/NN site/NN ./.
+Clustering/NN aims/VBZ to/TO divide/VB a/DT data/NNS set/VBN into/IN groups/NNS or/CC clusters/NNS where/WRB inter-cluster/JJ similarities/NNS are/VBP minimized/VBN while/IN the/DT intra/AFX cluster/VBP similarities/NNS are/VBP maximized/VBN ./.
+This/DT paper/NN reviews/NNS four/CD of/IN the/DT popularly/RB used/VBN clustering/NN techniques/NNS :/: k/CD -/HYPH Means/NNS ,/, k/CD -/HYPH Medoids/NNP ,/, Leader/NNP and/CC DBSCAN/NNP ./.
+These/DT techniques/NNS are/VBP implemented/VBN and/CC tested/VBN against/IN the/DT Web/NN user/NN navigational/JJ data/NNS ./.
+Performance/NN and/CC validity/NN results/NNS of/IN each/DT technique/NN are/VBP presented/VBN and/CC compared/VBN ./.

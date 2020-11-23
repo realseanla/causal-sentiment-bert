@@ -1,0 +1,4 @@
+We/PRP consider/VBP classification/NN and/CC regression/NN tasks/NNS where/WRB we/PRP have/VBP missing/VBG data/NNS and/CC assume/VB that/IN the/DT (/-LRB- clean/JJ )/-RRB- data/NNS resides/VBZ in/IN a/DT low/JJ rank/NN subspace/NN ./.
+Finding/VBG a/DT hidden/JJ subspace/NN is/VBZ known/VBN to/TO be/VB computationally/RB hard/RB ./.
+Nevertheless/RB ,/, using/VBG a/DT non-proper/JJ formulation/NN we/PRP give/VBP an/DT efficient/JJ agnostic/JJ algorithm/NN that/WDT classifies/VBZ as/RB good/JJ as/IN the/DT best/JJS linear/JJ classifier/NN coupled/VBN with/IN the/DT best/JJS low/JJ -/HYPH dimensional/JJ subspace/NN in/IN which/WDT the/DT data/NNS resides/VBZ ./.
+A/DT direct/JJ implication/NN is/VBZ that/IN our/PRP$ algorithm/NN can/MD linearly/RB (/-LRB- and/CC non-linearly/RB through/IN kernels/NNS )/-RRB- classify/VBP provably/RB as/RB well/RB as/IN the/DT best/JJS classifier/NN that/WDT has/VBZ access/NN to/IN the/DT full/JJ data/NNS ./.

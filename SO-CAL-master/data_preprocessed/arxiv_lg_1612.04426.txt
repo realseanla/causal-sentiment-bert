@@ -1,0 +1,5 @@
+We/PRP propose/VBP an/DT extension/NN to/IN neural/JJ network/NN language/NN models/NNS to/TO adapt/VB their/PRP$ prediction/NN to/IN the/DT recent/JJ history/NN ./.
+Our/PRP$ model/NN is/VBZ a/DT simplified/JJ version/NN of/IN memory/NN augmented/VBN networks/NNS ,/, which/WDT stores/VBZ past/JJ hidden/JJ activations/NNS as/IN memory/NN and/CC accesses/VBZ them/PRP through/IN a/DT dot/NN product/NN with/IN the/DT current/JJ hidden/JJ activation/NN ./.
+This/DT mechanism/NN is/VBZ very/RB efficient/JJ and/CC scales/NNS to/IN very/RB large/JJ memory/NN sizes/NNS ./.
+We/PRP also/RB draw/VBP a/DT link/NN between/IN the/DT use/NN of/IN external/JJ memory/NN in/IN neural/JJ network/NN and/CC cache/NN models/NNS used/VBN with/IN count/NN based/VBN language/NN models/NNS ./.
+We/PRP demonstrate/VBP on/IN several/JJ language/NN model/NN datasets/NNS that/WDT our/PRP$ approach/NN performs/VBZ significantly/RB better/JJR than/IN recent/JJ memory/NN augmented/VBN networks/NNS ./.

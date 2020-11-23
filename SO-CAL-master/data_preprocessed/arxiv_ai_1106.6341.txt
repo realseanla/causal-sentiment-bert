@@ -1,0 +1,8 @@
+An/DT algorithm/NN for/IN pose/NN and/CC motion/NN estimation/NN using/VBG corresponding/VBG features/NNS in/IN omnidirectional/JJ images/NNS and/CC a/DT digital/JJ terrain/NN map/NN is/VBZ proposed/VBN ./.
+In/IN previous/JJ paper/NN ,/, such/JJ algorithm/NN for/IN regular/JJ camera/NN was/VBD considered/VBN ./.
+Using/VBG a/DT Digital/NNP Terrain/NNP (/-LRB- or/CC Digital/NNP Elevation/NNP )/-RRB- Map/NNP (/-LRB- DTM/NNP //SYM DEM/NNP )/-RRB- as/IN a/DT global/JJ reference/NN enables/VBZ recovering/VBG the/DT absolute/JJ position/NN and/CC orientation/NN of/IN the/DT camera/NN ./.
+In/IN order/NN to/TO do/VB this/DT ,/, the/DT DTM/NNP is/VBZ used/VBN to/TO formulate/VB a/DT constraint/NN between/IN corresponding/VBG features/NNS in/IN two/CD consecutive/JJ frames/NNS ./.
+In/IN this/DT paper/NN ,/, these/DT constraints/NNS are/VBP extended/VBN to/TO handle/VB non-central/JJ projection/NN ,/, as/RB is/VBZ the/DT case/NN with/IN many/JJ omnidirectional/JJ systems/NNS ./.
+The/DT utilization/NN of/IN omnidirectional/JJ data/NNS is/VBZ shown/VBN to/TO improve/VB the/DT robustness/NN and/CC accuracy/NN of/IN the/DT navigation/NN algorithm/NN ./.
+The/DT feasibility/NN of/IN this/DT algorithm/NN is/VBZ established/VBN through/IN lab/NN experimentation/NN with/IN two/CD kinds/NNS of/IN omnidirectional/JJ acquisition/NN systems/NNS ./.
+The/DT first/JJ one/CD is/VBZ polydioptric/JJ cameras/NNS while/IN the/DT second/NN is/VBZ catadioptric/JJ camera/NN ./.

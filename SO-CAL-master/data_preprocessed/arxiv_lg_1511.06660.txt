@@ -1,0 +1,10 @@
+Mobile/NNP phone/NN metadata/NN are/VBP increasingly/RB used/VBN to/TO study/VB human/JJ behavior/NN at/IN large/JJ -/HYPH scale/NN ./.
+In/IN developing/VBG countries/NNS ,/, where/WRB data/NNS is/VBZ scarce/JJ ,/, data/NNS generated/VBN by/IN mobile/JJ phones/NNS have/VBP already/RB helped/VBN with/IN planning/NN disaster/NN response/NN and/CC informing/VBG public/JJ health/NN policy/NN ./.
+Basic/JJ demographic/JJ information/NN such/JJ as/IN age/NN or/CC gender/NN is/VBZ ,/, however/RB ,/, often/RB missing/VBG from/IN mobile/JJ phone/NN data/NNS ./.
+There/EX has/VBZ recently/RB been/VBN a/DT growing/VBG interest/NN in/IN predicting/VBG demographic/JJ information/NN from/IN metadata/NN ./.
+Previous/JJ approaches/NNS relied/VBD on/IN standard/JJ machine/NN learning/VBG algorithms/NNS and/CC hand/NN -/HYPH engineered/VBN features/NNS ./.
+We/PRP here/RB apply/VBP ,/, for/IN the/DT first/JJ time/NN ,/, deep/JJ learning/NN methods/NNS to/IN mobile/JJ phone/NN metadata/NN using/VBG a/DT convolutional/JJ network/NN ./.
+We/PRP represent/VBP the/DT data/NNS as/IN 8/CD matrices/NNS summarizing/VBG incoming/JJ and/CC outgoing/JJ mobile/JJ phone/NN usage/NN (/-LRB- contacts/NNS ,/, calls/NNS ,/, texts/NNS ,/, call/VB duration/NN )/-RRB- on/IN a/DT given/VBN week/NN ./.
+Our/PRP$ method/NN outperforms/VBZ the/DT previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN both/DT age/NN and/CC gender/NN prediction/NN ./.
+Our/PRP$ analyzes/VBZ indicate/VBP that/IN our/PRP$ method/NN captures/VBZ compositional/JJ hierarchies/NNS in/IN the/DT mobile/JJ metadata/NN based/VBN on/IN the/DT temporal/JJ nature/NN of/IN the/DT data/NNS ./.
+These/DT results/NNS show/VBP great/JJ potential/NN for/IN deep/JJ learning/NN approaches/VBZ for/IN prediction/NN tasks/NNS using/VBG standard/JJ mobile/JJ phone/NN metadata/NN ./.

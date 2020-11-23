@@ -1,0 +1,6 @@
+We/PRP address/VBP the/DT problem/NN of/IN automatically/RB learning/VBG the/DT main/JJ steps/NNS to/TO complete/VB a/DT certain/JJ task/NN ,/, such/JJ as/IN changing/VBG a/DT car/NN tire/NN ,/, from/IN a/DT set/NN of/IN narrated/VBN instruction/NN videos/NNS ./.
+The/DT contributions/NNS of/IN this/DT paper/NN are/VBP three-fold/JJ ./.
+First/RB ,/, we/PRP develop/VBP a/DT joint/JJ model/NN for/IN video/NN and/CC natural/JJ language/NN narration/NN that/WDT takes/VBZ advantage/NN of/IN the/DT complementary/JJ nature/NN of/IN the/DT two/CD signals/NNS ./.
+Second/RB ,/, we/PRP collect/VBP an/DT annotated/JJ dataset/NN of/IN 57/CD Internet/NN instruction/NN videos/NNS containing/VBG more/JJR than/IN 350,000/CD frames/NNS for/IN two/CD tasks/NNS (/-LRB- changing/VBG car/NN tire/NN and/CC CardioPulmonary/NNP Resuscitation/NNP )/-RRB- ./.
+Third/JJ ,/, we/PRP experimentally/RB demonstrate/VBP that/IN the/DT proposed/VBN model/NN automatically/RB discovers/VBZ ,/, in/IN an/DT unsupervised/JJ manner/NN ,/, the/DT main/JJ steps/NNS to/TO achieve/VB each/DT task/NN and/CC locate/VB them/PRP within/IN the/DT input/NN videos/NNS ./.
+The/DT results/NNS further/RB show/VBP that/IN the/DT proposed/VBN model/NN outperforms/VBZ single/JJ -/HYPH modality/NN baselines/NNS ,/, demonstrating/VBG the/DT benefits/NNS of/IN joint/JJ modeling/NN video/NN and/CC text/NN ./.

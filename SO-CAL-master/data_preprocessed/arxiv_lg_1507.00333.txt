@@ -1,0 +1,10 @@
+Low/JJ -/HYPH rank/NN matrix/NN factorization/NN (/-LRB- MF/NN )/-RRB- is/VBZ an/DT important/JJ technique/NN in/IN data/NNS science/NN ./.
+The/DT key/JJ idea/NN of/IN MF/NNP is/VBZ that/IN there/EX exists/VBZ latent/JJ structures/NNS in/IN the/DT data/NNS ,/, by/IN uncovering/VBG which/WDT we/PRP could/MD obtain/VB a/DT compressed/JJ representation/NN of/IN the/DT data/NNS ./.
+By/IN factorizing/VBG an/DT original/JJ matrix/NN to/IN low/JJ -/HYPH rank/NN matrices/NNS ,/, MF/NN provides/VBZ a/DT unified/JJ method/NN for/IN dimesion/NN reduction/NN ,/, clustering/NN ,/, and/CC matrix/NN completion/NN ./.
+In/IN this/DT article/NN we/PRP review/VBP several/JJ important/JJ variants/NNS of/IN MF/NNP ,/, including/VBG :/: Basic/NNP MF/NNP ,/, Non-negative/JJ MF/NN ,/, Orthogonal/NNP non-negative/JJ MF/NN ./.
+As/IN can/MD be/VB seen/VBN from/IN their/PRP$ names/NNS ,/, non-negative/JJ MF/NN and/CC orthogonal/JJ non-negative/JJ MF/NN are/VBP variants/NNS of/IN basic/JJ MF/NN with/IN non-negativity/NN and/CC //HYPH or/CC orthogonality/NN constraints/NNS ./.
+Such/JJ constraints/NNS are/VBP useful/JJ in/IN specific/JJ senarios/NNS ./.
+In/IN the/DT first/JJ part/NN of/IN this/DT article/NN ,/, we/PRP introduce/VBP ,/, for/IN each/DT of/IN these/DT models/NNS ,/, the/DT application/NN scenarios/NNS ,/, the/DT distinctive/JJ properties/NNS ,/, and/CC the/DT optimizing/VBG method/NN ./.
+By/IN properly/RB adapting/VBG MF/NNP ,/, we/PRP can/MD go/VB beyond/IN the/DT problem/NN of/IN clustering/NN and/CC matrix/NN completion/NN ./.
+In/IN the/DT second/JJ part/NN of/IN this/DT article/NN ,/, we/PRP will/MD extend/VB MF/NN to/IN sparse/JJ matrix/NN compeletion/NN ,/, enhance/VB matrix/NN compeletion/NN using/VBG various/JJ regularization/NN methods/NNS ,/, and/CC make/VB use/NN of/IN MF/NNP for/IN (/-LRB- semi/NN -/HYPH )/-RRB- supervised/VBD learning/NN by/IN introducing/VBG latent/JJ space/NN reinforcement/NN and/CC transformation/NN ./.
+We/PRP will/MD see/VB that/DT MF/NN is/VBZ not/RB only/RB a/DT useful/JJ model/NN but/CC also/RB as/IN a/DT flexible/JJ framework/NN that/WDT is/VBZ applicable/JJ for/IN various/JJ prediction/NN problems/NNS ./.

@@ -1,0 +1,10 @@
+Much of information sits in an unprecedented amount of text data.
+Managing allocation of these large scale text data is an important problem for many areas.
+Topic modeling performs well in this problem.
+The traditional generative models (PLSA,LDA) are the state-of-the-art approaches in topic modeling and most recent research on topic generation has been focusing on improving or extending these models.
+However, results of traditional generative models are sensitive to the number of topics K, which must be specified manually.
+The problem of generating topics from corpus resembles community detection in networks.
+Many effective algorithms can automatically detect communities from networks without a manually specified number of the communities.
+Inspired by these algorithms, in this paper, we propose a novel method named Hierarchical Latent Semantic Mapping (HLSM), which automatically generates topics from corpus.
+HLSM calculates the association between each pair of words in the latent topic space, then constructs a unipartite network of words with this association and hierarchically generates topics from this network.
+We apply HLSM to several document collections and the experimental comparisons against several state-of-the-art approaches demonstrate the promising performance.

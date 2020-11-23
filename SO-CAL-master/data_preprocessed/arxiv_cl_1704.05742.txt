@@ -1,0 +1,6 @@
+Neural/JJ network/NN models/NNS have/VBP shown/VBN their/PRP$ promising/JJ opportunities/NNS for/IN multi-task/VB learning/NN ,/, which/WDT focus/VBP on/IN learning/VBG the/DT shared/VBN layers/NNS to/TO extract/VB the/DT common/JJ and/CC task/NN -/HYPH invariant/JJ features/NNS ./.
+However/RB ,/, in/IN most/JJS existing/VBG approaches/NNS ,/, the/DT extracted/VBN shared/VBN features/NNS are/VBP prone/JJ to/TO be/VB contaminated/VBN by/IN task/NN -/HYPH specific/JJ features/NNS or/CC the/DT noise/NN brought/VBN by/IN other/JJ tasks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT adversarial/JJ multi-task/VB learning/VBG framework/NN ,/, alleviating/VBG the/DT shared/VBN and/CC private/JJ latent/JJ feature/NN spaces/NNS from/IN interfering/VBG with/IN each/DT other/JJ ./.
+We/PRP conduct/VBP extensive/JJ experiments/NNS on/IN 16/CD different/JJ text/NN classification/NN tasks/NNS ,/, which/WDT demonstrates/VBZ the/DT benefits/NNS of/IN our/PRP$ approach/NN ./.
+Besides/RB ,/, we/PRP show/VBP that/IN the/DT shared/VBN knowledge/NN learned/VBN by/IN our/PRP$ proposed/VBN model/NN can/MD be/VB regarded/VBN as/IN off/IN -/HYPH the/DT -/HYPH shelf/NN knowledge/NN and/CC easily/RB transferred/VBN to/IN new/JJ tasks/NNS ./.
+The/DT datasets/NNS of/IN all/DT 16/CD tasks/NNS are/VBP publicly/RB available/JJ at/IN \/SYM url/NN {/-LRB-

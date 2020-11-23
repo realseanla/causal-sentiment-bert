@@ -1,0 +1,7 @@
+Online/JJ Convex/NNP Optimization/NN plays/VBZ a/DT key/JJ role/NN in/IN large/JJ scale/NN machine/NN learning/NN ./.
+Early/JJ approaches/NNS to/IN this/DT problem/NN were/VBD conservative/JJ ,/, in/IN which/WDT the/DT main/JJ focus/NN was/VBD protection/NN against/IN the/DT worst/JJS case/NN scenario/NN ./.
+But/CC recently/RB several/JJ algorithms/NNS have/VBP been/VBN developed/VBN for/IN tightening/VBG the/DT regret/NN bounds/NNS in/IN easy/JJ data/NNS instances/NNS such/JJ as/IN sparsity/NN ,/, predictable/JJ sequences/NNS ,/, and/CC curved/JJ losses/NNS ./.
+In/IN this/DT work/NN we/PRP unify/VBP some/DT of/IN these/DT existing/VBG techniques/NNS to/TO obtain/VB new/JJ update/NN rules/NNS for/IN the/DT cases/NNS when/WRB these/DT easy/JJ instances/NNS occur/VBP together/RB ./.
+First/RB we/PRP analyse/VBP an/DT adaptive/JJ and/CC optimistic/JJ update/NN rule/NN which/WDT achieves/VBZ tighter/JJR regret/NN bound/VBN when/WRB the/DT loss/NN sequence/NN is/VBZ sparse/JJ and/CC predictable/JJ ./.
+Then/RB we/PRP explain/VBP an/DT update/NN rule/NN that/WDT dynamically/RB adapts/VBZ to/IN the/DT curvature/NN of/IN the/DT loss/NN function/NN and/CC utilizes/VBZ the/DT predictable/JJ nature/NN of/IN the/DT loss/NN sequence/NN as/RB well/RB ./.
+Finally/RB we/PRP extend/VBP these/DT results/NNS to/IN composite/JJ losses/NNS ./.

@@ -1,0 +1,10 @@
+Recently/RB ,/, many/JJ researches/NNS employ/VBP middle/JJ -/HYPH layer/NN output/NN of/IN convolutional/JJ neural/JJ network/NN models/NNS (/-LRB- CNN/NNP )/-RRB- as/IN features/NNS for/IN different/JJ visual/JJ recognition/NN tasks/NNS ./.
+Although/IN promising/JJ results/NNS have/VBP been/VBN achieved/VBN in/IN some/DT empirical/JJ studies/NNS ,/, such/JJ type/NN of/IN representations/NNS still/RB suffer/VBP from/IN the/DT well/NN -/HYPH known/VBN issue/NN of/IN semantic/JJ gap/NN ./.
+This/DT paper/NN proposes/VBZ so/RB -/HYPH called/VBN deep/JJ attribute/NN framework/NN to/TO alleviate/VB this/DT issue/NN from/IN three/CD aspects/NNS ./.
+First/RB ,/, we/PRP introduce/VBP object/NN region/NN proposals/NNS as/IN intermedia/NN to/TO represent/VB target/NN images/NNS ,/, and/CC extract/NN features/NNS from/IN region/NN proposals/NNS ./.
+Second/RB ,/, we/PRP study/VBP aggregating/VBG features/NNS from/IN different/JJ CNN/NNP layers/NNS for/IN all/DT region/NN proposals/NNS ./.
+The/DT aggregation/NN yields/VBZ a/DT holistic/JJ yet/CC compact/JJ representation/NN of/IN input/NN images/NNS ./.
+Results/NNS show/VBP that/IN cross-region/NN max/NN -/HYPH pooling/VBG of/IN soft/JJ -/HYPH max/NN layer/NN output/NN outperform/VBP all/DT other/JJ layers/NNS ./.
+As/IN soft/JJ -/HYPH max/NN layer/NN directly/RB corresponds/VBZ to/IN semantic/JJ concepts/NNS ,/, this/DT representation/NN is/VBZ named/VBN "/`` deep/JJ attributes/NNS "/'' ./.
+Third/JJ ,/, we/PRP observe/VBP that/IN only/RB a/DT small/JJ portion/NN of/IN generated/VBN regions/NNS by/IN object/NN proposals/NNS algorithm/NN are/VBP correlated/VBN to/IN classification/NN target/NN ./.
+Therefore/RB ,/, we/PRP introduce/VBP context/NN -/HYPH aware/JJ region/NN refining/NN algorithm/NN to/TO pick/VB out/RP contextual/JJ regions/NNS and/CC build/VB context/NN -/HYPH aware/JJ classifiers/NNS ./.

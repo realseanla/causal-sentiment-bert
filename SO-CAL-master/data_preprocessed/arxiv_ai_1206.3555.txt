@@ -1,0 +1,6 @@
+We/PRP describe/VBP a/DT dynamic/JJ programming/NN algorithm/NN for/IN computing/VBG the/DT marginal/JJ distribution/NN of/IN discrete/JJ probabilistic/JJ programs/NNS ./.
+This/DT algorithm/NN takes/VBZ a/DT functional/JJ interpreter/NN for/IN an/DT arbitrary/JJ probabilistic/JJ programming/NN language/NN and/CC turns/VBZ it/PRP into/IN an/DT efficient/JJ marginalizer/NN ./.
+Because/IN direct/JJ caching/NN of/IN sub-distributions/NNS is/VBZ impossible/JJ in/IN the/DT presence/NN of/IN recursion/NN ,/, we/PRP build/VBP a/DT graph/NN of/IN dependencies/NNS between/IN sub-distributions/NNS ./.
+This/DT factored/VBD sum/NN -/HYPH product/NN network/NN makes/VBZ (/-LRB- potentially/RB cyclic/JJ )/-RRB- dependencies/NNS between/IN subproblems/NNS explicit/JJ ,/, and/CC corresponds/VBZ to/IN a/DT system/NN of/IN equations/NNS for/IN the/DT marginal/JJ distribution/NN ./.
+We/PRP solve/VBP these/DT equations/NNS by/IN fixed/VBN -/HYPH point/NN iteration/NN in/IN topological/JJ order/NN ./.
+We/PRP illustrate/VBP this/DT algorithm/NN on/IN examples/NNS used/VBN in/IN teaching/VBG probabilistic/JJ models/NNS ,/, computational/JJ cognitive/JJ science/NN research/NN ,/, and/CC game/NN theory/NN ./.

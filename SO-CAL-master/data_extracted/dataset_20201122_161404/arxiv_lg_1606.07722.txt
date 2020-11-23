@@ -1,0 +1,5 @@
+Recently, the next-item/basket recommendation system, which considers the sequential relation between bought items, has drawn attention of researchers.
+The utilization of sequential patterns has boosted performance on several kinds of recommendation tasks.
+Inspired by natural language processing (NLP) techniques, we propose a novel neural network (NN) based next-song recommender, CNN-rec, in this paper.
+Then, we compare the proposed system with several NN based and classic recommendation systems on the next-song recommendation task.
+Verification results indicate the proposed system outperforms classic systems and has comparable performance with the state-of-the-art system.

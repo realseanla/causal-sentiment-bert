@@ -1,0 +1,6 @@
+Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNNs/NNS )/-RRB- have/VBP become/VBN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN supervised/JJ learning/NN vision/NN tasks/NNS ./.
+Their/PRP$ convolutional/JJ filters/NNS are/VBP of/IN paramount/JJ importance/NN for/IN they/PRP allow/VBP to/TO learn/VB patterns/NNS while/IN disregarding/VBG their/PRP$ locations/NNS in/IN input/NN images/NNS ./.
+When/WRB facing/VBG highly/RB irregular/JJ domains/NNS ,/, generalized/VBN convolutional/JJ operators/NNS based/VBN on/IN an/DT underlying/JJ graph/NN structure/NN have/VBP been/VBN proposed/VBN ./.
+However/RB ,/, these/DT operators/NNS do/VBP not/RB exactly/RB match/VB standard/JJ ones/NNS on/IN grid/NN graphs/NNS ,/, and/CC introduce/VB unwanted/JJ additional/JJ invariance/NN (/-LRB- e.g./FW with/IN regards/NNS to/IN rotations/NNS )/-RRB- ./.
+We/PRP propose/VBP a/DT novel/JJ approach/NN to/IN generalize/VB CNNs/NNS to/IN irregular/JJ domains/NNS using/VBG weight/NN sharing/NN and/CC graph/NN -/HYPH based/VBN operators/NNS ./.
+Using/VBG experiments/NNS ,/, we/PRP show/VBP that/IN these/DT models/NNS resemble/VBP CNNs/NNS on/IN regular/JJ domains/NNS and/CC offer/VB better/JJR performance/NN than/IN multilayer/JJ perceptrons/NNS on/IN distorded/JJ ones/NNS ./.

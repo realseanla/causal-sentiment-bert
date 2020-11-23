@@ -1,0 +1,4 @@
+Morphological/JJ reinflection/NN is/VBZ the/DT task/NN of/IN generating/VBG a/DT target/NN form/NN given/VBN a/DT source/NN form/NN ,/, a/DT source/NN tag/NN and/CC a/DT target/NN tag/NN ./.
+We/PRP propose/VBP a/DT new/JJ way/NN of/IN modeling/VBG this/DT task/NN with/IN neural/JJ encoder/NN -/HYPH decoder/NN models/NNS ./.
+Our/PRP$ approach/NN reduces/VBZ the/DT amount/NN of/IN required/JJ training/NN data/NNS for/IN this/DT architecture/NN and/CC achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ,/, making/VBG encoder/NN -/HYPH decoder/NN models/NNS applicable/JJ to/IN morphological/JJ reinflection/NN even/RB for/IN low/JJ -/HYPH resource/NN languages/NNS ./.
+We/PRP further/RB present/VBP a/DT new/JJ automatic/JJ correction/NN method/NN for/IN the/DT outputs/NNS based/VBN on/IN edit/NN trees/NNS ./.

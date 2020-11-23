@@ -1,0 +1,6 @@
+Character segmentation has long been one of the most critical areas of optical character recognition process.
+Through this operation, an image of a sequence of characters, which may be connected in some cases, is decomposed into sub-images of individual alphabetic symbols.
+In this paper, segmentation of cursive handwritten script of world's fourth popular language, Bengali, is considered.
+Unlike English script, Bengali handwritten characters and its components often encircle the main character, making the conventional segmentation methodologies inapplicable.
+Experimental results, using the proposed segmentation technique, on sample cursive handwritten data containing 218 ideal segmentation points show a success rate of 97.7 percent.
+Further feature-analysis on these segments may lead to actual recognition of handwritten cursive Bengali script.

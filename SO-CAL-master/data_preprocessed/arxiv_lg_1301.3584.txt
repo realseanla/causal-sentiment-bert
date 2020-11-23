@@ -1,0 +1,3 @@
+The/DT aim/NN of/IN this/DT paper/NN is/VBZ two-folded/VBN ./.
+First/RB we/PRP intend/VBP to/TO show/VB that/IN Hessian/JJ -/HYPH Free/JJ optimization/NN (/-LRB- Martens/NNP ,/, 2010/CD )/-RRB- and/CC Krylov/NNP Subspace/NNP Descent/NNP (/-LRB- Vinyals/NNPS and/CC Povey/NNP ,/, 2012/CD )/-RRB- can/MD be/VB described/VBN as/IN implementations/NNS of/IN Natural/JJ Gradient/NN Descent/NN due/IN to/IN their/PRP$ use/NN of/IN the/DT extended/JJ Gauss/NNP -/HYPH Newton/NNP approximation/NN of/IN the/DT Hessian/JJ ./.
+Secondly/RB we/PRP re-derive/JJ Natural/JJ Gradient/NN from/IN basic/JJ principles/NNS ,/, contrasting/VBG the/DT difference/NN between/IN the/DT two/CD version/NN of/IN the/DT algorithm/NN that/WDT are/VBP in/IN the/DT literature/NN ./.

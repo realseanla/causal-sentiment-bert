@@ -1,0 +1,13 @@
+Clustering/NN techniques/NNS are/VBP very/RB attractive/JJ for/IN extracting/VBG and/CC identifying/VBG patterns/NNS in/IN datasets/NNS ./.
+However/RB ,/, their/PRP$ application/NN to/IN very/RB large/JJ spatial/JJ datasets/NNS presents/VBZ numerous/JJ challenges/NNS such/JJ as/IN high/JJ -/HYPH dimensionality/NN data/NNS ,/, heterogeneity/NN ,/, and/CC high/JJ complexity/NN of/IN some/DT algorithms/NNS ./.
+For/IN instance/NN ,/, some/DT algorithms/NNS may/MD have/VB linear/JJ complexity/NN but/CC they/PRP require/VBP the/DT domain/NN knowledge/NN in/IN order/NN to/TO determine/VB their/PRP$ input/NN parameters/NNS ./.
+Distributed/VBN clustering/NN techniques/NNS constitute/VBP a/DT very/RB good/JJ alternative/NN to/IN the/DT big/JJ data/NNS challenges/NNS (/-LRB- e.g./FW ,/, Volume/NN ,/, Variety/NNP ,/, Veracity/NNP ,/, and/CC Velocity/NN )/-RRB- ./.
+Usually/RB these/DT techniques/NNS consist/VBP of/IN two/CD phases/NNS ./.
+The/DT first/JJ phase/NN generates/VBZ local/JJ models/NNS or/CC patterns/NNS and/CC the/DT second/JJ one/CD tends/VBZ to/IN aggregate/NN the/DT local/JJ results/NNS to/TO obtain/VB global/JJ models/NNS ./.
+While/IN the/DT first/JJ phase/NN can/MD be/VB executed/VBN in/IN parallel/NN on/IN each/DT site/NN and/CC ,/, therefore/RB ,/, efficient/JJ ,/, the/DT aggregation/NN phase/NN is/VBZ complex/JJ ,/, time/NN consuming/VBG and/CC may/MD produce/VB incorrect/JJ and/CC ambiguous/JJ global/JJ clusters/NNS and/CC therefore/RB incorrect/JJ models/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT new/JJ distributed/VBN clustering/NN approach/NN to/TO deal/VB efficiently/RB with/IN both/DT phases/NNS ;/: generation/NN of/IN local/JJ results/NNS and/CC generation/NN of/IN global/JJ models/NNS by/IN aggregation/NN ./.
+For/IN the/DT first/JJ phase/NN ,/, our/PRP$ approach/NN is/VBZ capable/JJ of/IN analysing/VBG the/DT datasets/NNS located/VBN in/IN each/DT site/NN using/VBG different/JJ clustering/NN techniques/NNS ./.
+The/DT aggregation/NN phase/NN is/VBZ designed/VBN in/IN such/PDT a/DT way/NN that/IN the/DT final/JJ clusters/NNS are/VBP compact/JJ and/CC accurate/JJ while/IN the/DT overall/JJ process/NN is/VBZ efficient/JJ in/IN time/NN and/CC memory/NN allocation/NN ./.
+For/IN the/DT evaluation/NN ,/, we/PRP use/VBP two/CD well/RB -/HYPH known/VBN clustering/NN algorithms/NNS ;/: K/NNP -/HYPH Means/NNP and/CC DBSCAN/NNP ./.
+One/CD of/IN the/DT key/JJ outputs/NNS of/IN this/DT distributed/VBN clustering/NN technique/NN is/VBZ that/IN the/DT number/NN of/IN global/JJ clusters/NNS is/VBZ dynamic/JJ ;/: no/DT need/NN to/TO be/VB fixed/VBN in/IN advance/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN the/DT approach/NN is/VBZ scalable/JJ and/CC produces/VBZ high/JJ quality/NN results/NNS ./.

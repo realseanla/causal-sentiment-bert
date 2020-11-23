@@ -1,0 +1,6 @@
+With/IN the/DT technology/NN development/NN ,/, the/DT need/NN of/IN analyze/VB and/CC extraction/NN of/IN useful/JJ information/NN is/VBZ increasing/VBG ./.
+Bayesian/JJ networks/NNS contain/VBP knowledge/NN from/IN data/NNS and/CC experts/NNS that/WDT could/MD be/VB used/VBN for/IN decision/NN making/NN processes/NNS But/CC they/PRP are/VBP not/RB easily/RB understandable/JJ thus/RB the/DT rule/NN extraction/NN methods/NNS have/VBP been/VBN used/VBN but/CC they/PRP have/VBP high/JJ computation/NN costs/NNS ./.
+To/TO overcome/VB this/DT problem/NN we/PRP extract/VBP rules/NNS from/IN Bayesian/JJ network/NN using/VBG genetic/JJ algorithm/NN ./.
+Then/RB we/PRP generate/VBP the/DT graphical/JJ chain/NN by/IN mutually/RB matching/VBG the/DT extracted/VBN rules/NNS and/CC Bayesian/JJ network/NN ./.
+This/DT graphical/JJ chain/NN could/MD shows/VBZ the/DT sequence/NN of/IN events/NNS that/WDT lead/VBP to/IN the/DT target/NN which/WDT could/MD help/VB the/DT decision/NN making/VBG process/NN ./.
+The/DT experimental/JJ results/NNS on/IN small/JJ networks/NNS show/VBP that/IN the/DT proposed/JJ method/NN has/VBZ comparable/JJ results/NNS with/IN brute/JJ force/NN method/NN which/WDT has/VBZ a/DT significantly/RB higher/JJR computation/NN cost/NN ./.

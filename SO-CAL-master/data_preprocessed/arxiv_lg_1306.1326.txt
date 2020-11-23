@@ -1,0 +1,6 @@
+Feature/NN selection/NN (/-LRB- FS/NN )/-RRB- is/VBZ a/DT process/NN which/WDT attempts/VBZ to/TO select/VB more/JJR informative/JJ features/NNS ./.
+In/IN some/DT cases/NNS ,/, too/RB many/JJ redundant/JJ or/CC irrelevant/JJ features/NNS may/MD overpower/VB main/JJ features/NNS for/IN classification/NN ./.
+Feature/NN selection/NN can/MD remedy/VB this/DT problem/NN and/CC therefore/RB improve/VB the/DT prediction/NN accuracy/NN and/CC reduce/VB the/DT computational/JJ overhead/NN of/IN classification/NN algorithms/NNS ./.
+The/DT main/JJ aim/NN of/IN feature/NN selection/NN is/VBZ to/TO determine/VB a/DT minimal/JJ feature/NN subset/NN from/IN a/DT problem/NN domain/NN while/IN retaining/VBG a/DT suitably/RB high/JJ accuracy/NN in/IN representing/VBG the/DT original/JJ features/NNS ./.
+In/IN this/DT paper/NN ,/, Principal/NN Component/NN Analysis/NN (/-LRB- PCA/NN )/-RRB- ,/, Rough/NNP PCA/NNP ,/, Unsupervised/NNP Quick/NNP Reduct/NNP (/-LRB- USQR/NNP )/-RRB- algorithm/NN and/CC Empirical/JJ Distribution/NN Ranking/NN (/-LRB- EDR/NN )/-RRB- approaches/NNS are/VBP applied/VBN to/TO discover/VB discriminative/JJ features/NNS that/WDT will/MD be/VB the/DT most/RBS adequate/JJ ones/NNS for/IN classification/NN ./.
+Efficiency/NN of/IN the/DT approaches/NNS is/VBZ evaluated/VBN using/VBG standard/JJ classification/NN metrics/NNS ./.

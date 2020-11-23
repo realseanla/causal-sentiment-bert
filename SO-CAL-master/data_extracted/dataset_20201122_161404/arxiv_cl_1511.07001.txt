@@ -1,0 +1,8 @@
+Recently, we have developed a software able of gathering information on social networks from written texts.
+This software, the CHAracters and PLaces Interaction Network (CHAPLIN) tool, is implemented in Visual Basic.
+By means of it, characters and places of a literary work can be extracted from a list of raw words.
+The software interface helps users to select their names out of this list.
+Setting some parameters, CHAPLIN creates a network where nodes represent characters/places and edges give their interactions.
+Nodes and edges are labelled by performances.
+In this paper, we propose to use CHAPLIN for the analysis a William Shakespeare's play, the famous 'Tragedy of Hamlet, Prince of Denmark'.
+Performances of characters in the play as a whole and in each act of it are given by graphs.

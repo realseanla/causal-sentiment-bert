@@ -1,0 +1,6 @@
+This work describes a methodology that combines logic-based systems and connectionist systems.
+Our approach uses finite truth-valued {\L}ukasiewicz logic, wherein every connective can be defined by a neuron in an artificial network.
+This allowed the injection of first-order formulas into a network architecture, and also simplified symbolic rule extraction.
+For that we trained a neural networks using the Levenderg-Marquardt algorithm, where we restricted the knowledge dissemination in the network structure.
+This procedure reduces neural network plasticity without drastically damaging the learning performance, thus making the descriptive power of produced neural networks similar to the descriptive power of {\L}ukasiewicz logic language and simplifying the translation between symbolic and connectionist structures.
+We used this method for reverse engineering truth table and in extraction of formulas from real data sets.

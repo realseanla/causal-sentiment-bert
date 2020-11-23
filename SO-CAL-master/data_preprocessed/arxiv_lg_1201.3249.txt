@@ -1,0 +1,6 @@
+Learning/VBG Classifier/NNP Systems/NNPS (/-LRB- LCS/NN )/-RRB- are/VBP population/NN -/HYPH based/VBN reinforcement/NN learners/NNS used/VBN in/IN a/DT wide/JJ variety/NN of/IN applications/NNS ./.
+This/DT paper/NN presents/VBZ a/DT LCS/NN where/WRB each/DT traditional/JJ rule/NN is/VBZ represented/VBN by/IN a/DT spiking/NN neural/JJ network/NN ,/, a/DT type/NN of/IN network/NN with/IN dynamic/JJ internal/JJ state/NN ./.
+We/PRP employ/VBP a/DT constructivist/NN model/NN of/IN growth/NN of/IN both/DT neurons/NNS and/CC dendrites/NNS that/WDT realise/VBP flexible/JJ learning/NN by/IN evolving/VBG structures/NNS of/IN sufficient/JJ complexity/NN to/TO solve/VB a/DT well/RB -/HYPH known/VBN problem/NN involving/VBG continuous/JJ ,/, real/JJ -/HYPH valued/VBN inputs/NNS ./.
+Additionally/RB ,/, we/PRP extend/VBP the/DT system/NN to/TO enable/VB temporal/JJ state/NN decomposition/NN ./.
+By/IN allowing/VBG our/PRP$ LCS/NN to/IN chain/NN together/RB sequences/NNS of/IN heterogeneous/JJ actions/NNS into/IN macro-actions/NNS ,/, it/PRP is/VBZ shown/VBN to/TO perform/VB optimally/RB in/IN a/DT problem/NN where/WRB traditional/JJ methods/NNS can/MD fail/VB to/TO find/VB a/DT solution/NN in/IN a/DT reasonable/JJ amount/NN of/IN time/NN ./.
+Our/PRP$ final/JJ system/NN is/VBZ tested/VBN on/IN a/DT simulated/JJ robotics/NNS platform/NN ./.

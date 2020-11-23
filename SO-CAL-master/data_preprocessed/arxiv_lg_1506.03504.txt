@@ -1,0 +1,5 @@
+We/PRP connect/VBP a/DT broad/JJ class/NN of/IN generative/JJ models/NNS through/IN their/PRP$ shared/VBN reliance/NN on/IN sequential/JJ decision/NN making/NN ./.
+We/PRP show/VBP how/WRB changes/NNS motivated/VBN by/IN our/PRP$ point/NN of/IN view/NN can/MD improve/VB an/DT already/RB -/HYPH strong/JJ model/NN ,/, and/CC then/RB explore/VB this/DT idea/NN further/RB in/IN the/DT context/NN of/IN data/NNS imputation/NN --/: perhaps/RB the/DT simplest/JJS setting/NN in/IN which/WDT to/TO investigate/VB the/DT relation/NN between/IN unconditional/JJ and/CC conditional/JJ generative/JJ modelling/NN ./.
+We/PRP formulate/VBP data/NNS imputation/NN as/IN an/DT MDP/NN and/CC develop/VB models/NNS capable/JJ of/IN representing/VBG effective/JJ policies/NNS for/IN it/PRP ./.
+We/PRP construct/VBP our/PRP$ models/NNS using/VBG neural/JJ networks/NNS and/CC train/VB them/PRP using/VBG a/DT form/NN of/IN guided/VBN policy/NN search/NN ./.
+Through/IN empirical/JJ tests/NNS ,/, we/PRP show/VBP that/IN our/PRP$ approach/NN can/MD learn/VB effective/JJ policies/NNS for/IN imputation/NN problems/NNS of/IN varying/VBG difficulty/NN and/CC across/IN multiple/JJ datasets/NNS ./.

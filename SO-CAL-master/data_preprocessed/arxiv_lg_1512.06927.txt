@@ -1,0 +1,10 @@
+This/DT is/VBZ the/DT document/NN of/IN Multimodal/NNP Deep/NNP Learning/NNP Library/NNP ,/, MDL/NNP ,/, which/WDT is/VBZ written/VBN in/IN C/NN ./.
+It/PRP explains/VBZ principles/NNS and/CC implementations/NNS with/IN details/NNS of/IN Restricted/VBN Boltzmann/NNP Machine/NNP ,/, Deep/JJ Neural/JJ Network/NN ,/, Deep/NNP Belief/NNP Network/NNP ,/, Denoising/NNP Autoencoder/NNP ,/, Deep/NNP Boltzmann/NNP Machine/NNP ,/, Deep/NNP Canonical/NNP Correlation/NN Analysis/NN ,/, and/CC modal/JJ prediction/NN model/NN ./.
+MDL/NNP uses/VBZ OpenCV/NNP 3.0.0/NNP ,/, which/WDT is/VBZ the/DT only/JJ dependency/NN of/IN this/DT library/NN ./.
+Most/JJS of/IN its/PRP$ implementation/NN has/VBZ been/VBN tested/VBN in/IN Mac/NNP OS/NNP ./.
+It/PRP also/RB provides/VBZ interface/NN for/IN reading/VBG various/JJ data/NNS set/VBP such/JJ as/IN MNIST/NNP ,/, CIFAR/NNP ,/, XRMB/NNP ,/, and/CC AVLetters/NNS ./.
+To/TO read/VB mat/NN file/NN ,/, Matlab/NNP must/MD be/VB installed/VBN because/IN it/PRP uses/VBZ Matlab/NNP //HYPH c/NN interface/NN provided/VBN by/IN Matlab/NNP ./.
+There/EX are/VBP multiple/JJ model/NN options/NNS provided/VBN ./.
+Different/JJ gradient/NN descent/NN methods/NNS ,/, loss/NN function/NN ,/, annealing/VBG methods/NNS ,/, and/CC activation/NN functions/NNS are/VBP given/VBN ./.
+These/DT options/NNS are/VBP easy/JJ to/TO extend/VB given/VBN the/DT structure/NN of/IN MDL/NN ./.
+So/RB MDL/NNP could/MD be/VB used/VBN as/IN a/DT frame/NN for/IN testings/NNS in/IN deep/JJ learning/NN ./.

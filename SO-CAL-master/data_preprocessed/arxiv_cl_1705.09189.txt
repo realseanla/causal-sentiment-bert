@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT neural/JJ network/NN that/WDT represents/VBZ sentences/NNS by/IN composing/VBG their/PRP$ words/NNS according/VBG to/IN induced/VBN binary/NN parse/VB trees/NNS ./.
+We/PRP use/VBP Tree/NNP -/HYPH LSTM/NNP as/IN our/PRP$ composition/NN function/NN ,/, applied/VBN along/IN a/DT tree/NN structure/NN found/VBN by/IN a/DT fully/RB differentiable/JJ natural/JJ language/NN chart/NN parser/NN ./.
+Our/PRP$ model/NN simultaneously/RB optimises/VBZ both/CC the/DT composition/NN function/NN and/CC the/DT parser/NN ,/, thus/RB eliminating/VBG the/DT need/NN for/IN externally/RB -/HYPH provided/VBN parse/VBP trees/NNS which/WDT are/VBP normally/RB required/VBN for/IN Tree/NNP -/HYPH LSTM/NNP ./.
+It/PRP can/MD therefore/RB be/VB seen/VBN as/IN a/DT tree/NN -/HYPH based/VBN RNN/NNP that/WDT is/VBZ unsupervised/JJ with/IN respect/NN to/IN the/DT parse/VB trees/NNS ./.
+As/IN it/PRP is/VBZ fully/RB differentiable/JJ ,/, our/PRP$ model/NN is/VBZ easily/RB trained/VBN with/IN an/DT off/RB -/HYPH the/DT -/HYPH shelf/NN gradient/NN descent/NN method/NN and/CC backpropagation/NN ./.
+We/PRP demonstrate/VBP that/IN it/PRP achieves/VBZ better/JJR performance/NN compared/VBN to/IN various/JJ supervised/JJ Tree/NN -/HYPH LSTM/NN architectures/NNS on/IN a/DT textual/JJ entailment/NN task/NN and/CC a/DT reverse/JJ dictionary/NN task/NN ./.

@@ -1,0 +1,4 @@
+Tree/NN transducers/NNS are/VBP formal/JJ automata/NN that/WDT transform/VBP trees/NNS into/IN other/JJ trees/NNS ./.
+Many/JJ varieties/NNS of/IN tree/NN transducers/NNS have/VBP been/VBN explored/VBN in/IN the/DT automata/NN theory/NN literature/NN ,/, and/CC more/RBR recently/RB ,/, in/IN the/DT machine/NN translation/NN literature/NN ./.
+In/IN this/DT paper/NN I/PRP review/VBP T/NN and/CC xT/NN transducers/NNS ,/, situate/VB them/PRP among/IN related/JJ formalisms/NNS ,/, and/CC show/VB how/WRB they/PRP can/MD be/VB used/VBN to/TO implement/VB rules/NNS for/IN machine/NN translation/NN systems/NNS that/WDT cover/VBP all/DT of/IN the/DT cross-language/JJ structural/JJ divergences/NNS described/VBN in/IN Bonnie/NNP Dorr/NNP 's/POS influential/JJ article/NN on/IN the/DT topic/NN ./.
+I/PRP also/RB present/VBP an/DT implementation/NN of/IN xT/NN transduction/NN ,/, suitable/JJ and/CC convenient/JJ for/IN experimenting/VBG with/IN translation/NN rules/NNS ./.

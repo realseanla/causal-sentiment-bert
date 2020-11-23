@@ -1,0 +1,6 @@
+Current/JJ methods/NNS for/IN automatically/RB evaluating/VBG grammatical/JJ error/NN correction/NN (/-LRB- GEC/NNP )/-RRB- systems/NNS rely/VBP on/IN gold/NN -/HYPH standard/JJ references/NNS ./.
+However/RB ,/, these/DT methods/NNS suffer/VBP from/IN penalizing/VBG grammatical/JJ edits/NNS that/WDT are/VBP correct/JJ but/CC not/RB in/IN the/DT gold/NN standard/NN ./.
+We/PRP show/VBP that/IN reference-less/JJ grammaticality/NN metrics/NNS correlate/VBP very/RB strongly/RB with/IN human/JJ judgments/NNS and/CC are/VBP competitive/JJ with/IN the/DT leading/VBG reference/NN -/HYPH based/VBN evaluation/NN metrics/NNS ./.
+By/IN interpolating/VBG both/DT methods/NNS ,/, we/PRP achieve/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN correlation/NN with/IN human/JJ judgments/NNS ./.
+Finally/RB ,/, we/PRP show/VBP that/IN GEC/NNP metrics/NNS are/VBP much/RB more/RBR reliable/JJ when/WRB they/PRP are/VBP calculated/VBN at/IN the/DT sentence/NN level/NN instead/RB of/IN the/DT corpus/NN level/NN ./.
+We/PRP have/VBP set/VBN up/RP a/DT CodaLab/NNP site/NN for/IN benchmarking/VBG GEC/NNP output/NN using/VBG a/DT common/JJ dataset/NN and/CC different/JJ evaluation/NN metrics/NNS ./.

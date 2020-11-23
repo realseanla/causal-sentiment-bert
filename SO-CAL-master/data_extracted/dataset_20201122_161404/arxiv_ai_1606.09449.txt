@@ -1,0 +1,8 @@
+Disjunctive Answer Set Programming (ASP) is a powerful declarative programming paradigm whose main decision problems are located on the second level of the polynomial hierarchy.
+Identifying tractable fragments and developing efficient algorithms for such fragments are thus important objectives in order to complement the sophisticated ASP systems available to date.
+Hard problems can become tractable if some problem parameter is bounded by a fixed constant; such problems are then called fixed-parameter tractable (FPT).
+While several FPT results for ASP exist, parameters that relate to directed or signed graphs representing the program at hand have been neglected so far.
+In this paper, we first give some negative observations showing that directed width measures on the dependency graph of a program do not lead to FPT results.
+We then consider the graph parameter of signed clique-width and present a novel dynamic programming algorithm that is FPT w.r.t.
+this parameter.
+Clique-width is more general than the well-known treewidth, and, to the best of our knowledge, ours is the first FPT algorithm for bounded clique-width for reasoning problems beyond SAT.

@@ -1,0 +1,6 @@
+Several Artificial Intelligence schemes for reasoning under uncertainty explore either explicitly or implicitly asymmetries among probabilities of various states of their uncertain domain models.
+Even though the correct working of these schemes is practically contingent upon the existence of a small number of probable states, no formal justification has been proposed of why this should be the case.
+This paper attempts to fill this apparent gap by studying asymmetries among probabilities of various states of uncertain models.
+By rewriting the joint probability distribution over a model's variables into a product of individual variables' prior and conditional probability distributions, and applying central limit theorem to this product, we can demonstrate that the probabilities of individual states of the model can be expected to be drawn from highly skewed, log-normal distributions.
+With sufficient asymmetry in individual prior and conditional probability distributions, a small fraction of states can be expected to cover a large portion of the total probability space with the remaining states having practically negligible probability.
+Theoretical discussion is supplemented by simulation results and an illustrative real-world example.

@@ -1,0 +1,7 @@
+In/IN machine/NN learning/NN area/NN ,/, as/IN the/DT number/NN of/IN labeled/VBN input/NN samples/NNS becomes/VBZ very/RB large/JJ ,/, it/PRP is/VBZ very/RB difficult/JJ to/TO build/VB a/DT classification/NN model/NN because/IN of/IN input/NN data/NNS set/NN is/VBZ not/RB fit/VB in/IN a/DT memory/NN in/IN training/NN phase/NN of/IN the/DT algorithm/NN ,/, therefore/RB ,/, it/PRP is/VBZ necessary/JJ to/TO utilize/VB data/NNS partitioning/VBG to/TO handle/VB overall/JJ data/NNS set/VBN ./.
+Bagging/NN and/CC boosting/VBG based/VBN data/NNS partitioning/NN methods/NNS have/VBP been/VBN broadly/RB used/VBN in/IN data/NNS mining/NN and/CC pattern/NN recognition/NN area/NN ./.
+Both/DT of/IN these/DT methods/NNS have/VBP shown/VBN a/DT great/JJ possibility/NN for/IN improving/VBG classification/NN model/NN performance/NN ./.
+This/DT study/NN is/VBZ concerned/VBN with/IN the/DT analysis/NN of/IN data/NNS set/VBN partitioning/VBG with/IN noise/NN removal/NN and/CC its/PRP$ impact/NN on/IN the/DT performance/NN of/IN multiple/JJ classifier/NN models/NNS ./.
+In/IN this/DT study/NN ,/, we/PRP propose/VBP noise/NN filtering/VBG preprocessing/VBG at/IN each/DT data/NN set/NN partition/NN to/IN increment/NN classifier/NN model/NN performance/NN ./.
+We/PRP applied/VBD Gini/NNP impurity/NN approach/NN to/TO find/VB the/DT best/JJS split/NN percentage/NN of/IN noise/NN filter/NN ratio/NN ./.
+The/DT filtered/VBN sub/NN data/NNS set/NN is/VBZ then/RB used/VBN to/TO train/VB individual/JJ ensemble/NN models/NNS ./.

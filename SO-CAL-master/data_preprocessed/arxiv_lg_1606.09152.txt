@@ -1,0 +1,6 @@
+Sample/NN efficiency/NN is/VBZ a/DT critical/JJ property/NN when/WRB optimizing/VBG policy/NN parameters/NNS for/IN the/DT controller/NN of/IN a/DT robot/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP evaluate/VBP two/CD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN policy/NN optimization/NN algorithms/NNS ./.
+One/CD is/VBZ a/DT recent/JJ deep/JJ reinforcement/NN learning/NN method/NN based/VBN on/IN an/DT actor/NN -/HYPH critic/NN algorithm/NN ,/, Deep/JJ Deterministic/JJ Policy/NN Gradient/NN (/-LRB- DDPG/NN )/-RRB- ,/, that/WDT has/VBZ been/VBN shown/VBN to/TO perform/VB well/RB on/IN various/JJ control/NN benchmarks/NNS ./.
+The/DT other/JJ one/NN is/VBZ a/DT direct/JJ policy/NN search/NN method/NN ,/, Covariance/NNP Matrix/NNP Adaptation/NNP Evolution/NNP Strategy/NNP (/-LRB- CMA/NN -/HYPH ES/NN )/-RRB- ,/, a/DT black/JJ -/HYPH box/NN optimization/NN method/NN that/WDT is/VBZ widely/RB used/VBN for/IN robot/NN learning/NN ./.
+The/DT algorithms/NNS are/VBP evaluated/VBN on/IN a/DT continuous/JJ version/NN of/IN the/DT mountain/NN car/NN benchmark/NN problem/NN ,/, so/RB as/IN to/TO compare/VB their/PRP$ sample/NN complexity/NN ./.
+From/IN a/DT preliminary/JJ analysis/NN ,/, we/PRP expect/VBP DDPG/NNP to/TO be/VB more/RBR sample/NN efficient/JJ than/IN CMA/NN -/HYPH ES/NN ,/, which/WDT is/VBZ confirmed/VBN by/IN our/PRP$ experimental/JJ results/NNS ./.

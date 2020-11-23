@@ -1,0 +1,8 @@
+For/IN any/DT stream/NN of/IN time/NN -/HYPH stamped/VBN edges/NNS that/WDT form/VBP a/DT dynamic/JJ network/NN ,/, an/DT important/JJ choice/NN is/VBZ the/DT aggregation/NN granularity/NN that/WDT an/DT analyst/NN uses/VBZ to/IN bin/NN the/DT data/NNS ./.
+Picking/VBG such/PDT a/DT windowing/NN of/IN the/DT data/NNS is/VBZ often/RB done/VBN by/IN hand/NN ,/, or/CC left/VBN up/RP to/IN the/DT technology/NN that/WDT is/VBZ collecting/VBG the/DT data/NNS ./.
+However/RB ,/, the/DT choice/NN can/MD make/VB a/DT big/JJ difference/NN in/IN the/DT properties/NNS of/IN the/DT dynamic/JJ network/NN ./.
+This/DT is/VBZ the/DT time/NN scale/NN detection/NN problem/NN ./.
+In/IN previous/JJ work/NN ,/, this/DT problem/NN is/VBZ often/RB solved/VBN with/IN a/DT heuristic/NN as/IN an/DT unsupervised/JJ task/NN ./.
+As/IN an/DT unsupervised/JJ problem/NN ,/, it/PRP is/VBZ difficult/JJ to/TO measure/VB how/WRB well/RB a/DT given/VBN algorithm/NN performs/VBZ ./.
+In/IN addition/NN ,/, we/PRP show/VBP that/IN the/DT quality/NN of/IN the/DT windowing/NN is/VBZ dependent/JJ on/IN which/WDT task/NN an/DT analyst/NN wants/VBZ to/TO perform/VB on/IN the/DT network/NN after/IN windowing/NN ./.
+Therefore/RB the/DT time/NN scale/NN detection/NN problem/NN should/MD not/RB be/VB handled/VBN independently/RB from/IN the/DT rest/NN of/IN the/DT analysis/NN of/IN the/DT network/NN ./.

@@ -1,0 +1,4 @@
+We/PRP introduce/VBP a/DT notion/NN of/IN algorithmic/JJ stability/NN of/IN learning/VBG algorithms/NNS ---/, that/IN we/PRP term/VBP hypothesis/NN stability/NN ---/: that/IN captures/VBZ stability/NN of/IN the/DT hypothesis/NN output/NN by/IN the/DT learning/NN algorithm/NN in/IN the/DT normed/JJ space/NN of/IN functions/NNS from/IN which/WDT hypotheses/NNS are/VBP selected/VBN ./.
+The/DT main/JJ result/NN of/IN the/DT paper/NN bounds/VBZ the/DT generalization/NN error/NN of/IN any/DT learning/NN algorithm/NN in/IN terms/NNS of/IN its/PRP$ hypothesis/NN stability/NN ./.
+The/DT bounds/NNS are/VBP based/VBN on/IN martingale/NN inequalities/NNS in/IN the/DT Banach/NNP space/NN to/TO which/WDT the/DT hypotheses/NNS belong/VBP ./.
+We/PRP apply/VBP the/DT general/JJ bounds/NNS to/IN bound/VBN the/DT performance/NN of/IN some/DT learning/NN algorithms/NNS based/VBN on/IN empirical/JJ risk/NN minimization/NN and/CC stochastic/JJ gradient/NN descent/NN ./.

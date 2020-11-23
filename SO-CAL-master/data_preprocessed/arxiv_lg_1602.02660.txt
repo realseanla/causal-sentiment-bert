@@ -1,0 +1,6 @@
+Many/JJ classes/NNS of/IN images/NNS exhibit/VBP rotational/JJ symmetry/NN ./.
+Convolutional/JJ neural/JJ networks/NNS are/VBP sometimes/RB trained/VBN using/VBG data/NNS augmentation/NN to/TO exploit/VB this/DT ,/, but/CC they/PRP are/VBP still/RB required/VBN to/TO learn/VB the/DT rotation/NN equivariance/NN properties/NNS from/IN the/DT data/NNS ./.
+Encoding/VBG these/DT properties/NNS into/IN the/DT network/NN architecture/NN ,/, as/IN we/PRP are/VBP already/RB used/VBN to/TO doing/VBG for/IN translation/NN equivariance/NN by/IN using/VBG convolutional/JJ layers/NNS ,/, could/MD result/VB in/IN a/DT more/RBR efficient/JJ use/NN of/IN the/DT parameter/NN budget/NN by/IN relieving/VBG the/DT model/NN from/IN learning/VBG them/PRP ./.
+We/PRP introduce/VBP four/CD operations/NNS which/WDT can/MD be/VB inserted/VBN into/IN neural/JJ network/NN models/NNS as/IN layers/NNS ,/, and/CC which/WDT can/MD be/VB combined/VBN to/TO make/VB these/DT models/NNS partially/RB equivariant/JJ to/IN rotations/NNS ./.
+They/PRP also/RB enable/VBP parameter/NN sharing/NN across/IN different/JJ orientations/NNS ./.
+We/PRP evaluate/VBP the/DT effect/NN of/IN these/DT architectural/JJ modifications/NNS on/IN three/CD datasets/NNS which/WDT exhibit/VBP rotational/JJ symmetry/NN and/CC demonstrate/VBP improved/VBN performance/NN with/IN smaller/JJR models/NNS ./.

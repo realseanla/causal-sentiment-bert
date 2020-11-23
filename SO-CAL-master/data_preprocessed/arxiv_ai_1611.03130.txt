@@ -1,0 +1,14 @@
+Detecting/VBG and/CC classifying/VBG targets/NNS in/IN video/NN streams/NNS from/IN surveillance/NN cameras/NNS is/VBZ a/DT cumbersome/JJ ,/, error/NN -/HYPH prone/JJ and/CC expensive/JJ task/NN ./.
+Often/RB ,/, the/DT incurred/VBN costs/NNS are/VBP prohibitive/JJ for/IN real/JJ -/HYPH time/NN monitoring/NN ./.
+This/DT leads/VBZ to/IN data/NNS being/VBG stored/VBN locally/RB or/CC transmitted/VBN to/IN a/DT central/JJ storage/NN site/NN for/IN post-incident/JJ examination/NN ./.
+The/DT required/VBN communication/NN links/NNS and/CC archiving/NN of/IN the/DT video/NN data/NNS are/VBP still/RB expensive/JJ and/CC this/DT setup/NN excludes/VBZ preemptive/JJ actions/NNS to/TO respond/VB to/IN imminent/JJ threats/NNS ./.
+An/DT effective/JJ way/NN to/TO overcome/VB these/DT limitations/NNS is/VBZ to/TO build/VB a/DT smart/JJ camera/NN that/WDT transmits/VBZ alerts/NNS when/WRB relevant/JJ video/NN sequences/NNS are/VBP detected/VBN ./.
+Deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- have/VBP come/VBN to/TO outperform/VB humans/NNS in/IN visual/JJ classifications/NNS tasks/NNS ./.
+The/DT concept/NN of/IN DNNs/NNS and/CC Convolutional/NNP Networks/NNP (/-LRB- ConvNets/NNP )/-RRB- can/MD easily/RB be/VB extended/VBN to/TO make/VB use/NN of/IN higher/JJR -/HYPH dimensional/JJ input/NN data/NNS such/JJ as/IN multispectral/JJ data/NNS ./.
+We/PRP explore/VBP this/DT opportunity/NN in/IN terms/NNS of/IN achievable/JJ accuracy/NN and/CC required/VBN computational/JJ effort/NN ./.
+To/TO analyze/VB the/DT precision/NN of/IN DNNs/NNS for/IN scene/NN labeling/NN in/IN an/DT urban/JJ surveillance/NN scenario/NN we/PRP have/VBP created/VBN a/DT dataset/NN with/IN 8/CD classes/NNS obtained/VBN in/IN a/DT field/NN experiment/NN ./.
+We/PRP combine/VBP an/DT RGB/NNP camera/NN with/IN a/DT 25/CD -/HYPH channel/NN VIS/NN -/HYPH NIR/NN snapshot/NN sensor/NN to/TO assess/VB the/DT potential/NN of/IN multispectral/JJ image/NN data/NNS for/IN target/NN classification/NN ./.
+We/PRP evaluate/VBP several/JJ new/JJ DNNs/NNS ,/, showing/VBG that/IN the/DT spectral/JJ information/NN fused/VBN together/RB with/IN the/DT RGB/NNP frames/NNS can/MD be/VB used/VBN to/TO improve/VB the/DT accuracy/NN of/IN the/DT system/NN or/CC to/TO achieve/VB similar/JJ accuracy/NN with/IN a/DT 3x/NN smaller/JJR computation/NN effort/NN ./.
+We/PRP achieve/VBP a/DT very/RB high/JJ per/IN -/HYPH pixel/NN accuracy/NN of/IN 99.1/CD percent/NN ./.
+Even/RB for/IN scarcely/RB occurring/VBG ,/, but/CC particularly/RB interesting/JJ classes/NNS ,/, such/JJ as/IN cars/NNS ,/, 75/CD percent/NN of/IN the/DT pixels/NNS are/VBP labeled/VBN correctly/RB with/IN errors/NNS occurring/VBG only/RB around/IN the/DT border/NN of/IN the/DT objects/NNS ./.
+This/DT high/JJ accuracy/NN was/VBD obtained/VBN with/IN a/DT training/NN set/NN of/IN only/RB 30/CD labeled/VBN images/NNS ,/, paving/VBG the/DT way/NN for/IN fast/JJ adaptation/NN to/IN various/JJ application/NN scenarios/NNS ./.

@@ -1,0 +1,5 @@
+Clustering/NN is/VBZ central/JJ to/IN many/JJ data/NNS -/HYPH driven/VBN application/NN domains/NNS and/CC has/VBZ been/VBN studied/VBN extensively/RB in/IN terms/NNS of/IN distance/NN functions/NNS and/CC grouping/NN algorithms/NNS ./.
+Relatively/RB little/JJ work/NN has/VBZ focused/VBN on/IN learning/VBG representations/NNS for/IN clustering/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP Deep/JJ Embedded/VBN Clustering/NN (/-LRB- DEC/NNP )/-RRB- ,/, a/DT method/NN that/WDT simultaneously/RB learns/VBZ feature/NN representations/NNS and/CC cluster/NN assignments/NNS using/VBG deep/JJ neural/JJ networks/NNS ./.
+DEC/NNP learns/VBZ a/DT mapping/NN from/IN the/DT data/NNS space/NN to/IN a/DT lower/JJR -/HYPH dimensional/JJ feature/NN space/NN in/IN which/WDT it/PRP iteratively/RB optimizes/VBZ a/DT clustering/NN objective/NN ./.
+Our/PRP$ experimental/JJ evaluations/NNS on/IN image/NN and/CC text/NN corpora/NNS show/VBP significant/JJ improvement/NN over/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

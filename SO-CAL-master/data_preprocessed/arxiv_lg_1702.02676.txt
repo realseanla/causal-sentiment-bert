@@ -1,0 +1,11 @@
+In/IN recent/JJ years/NNS ,/, machine/NN learning/NN techniques/NNS based/VBN on/IN neural/JJ networks/NNS for/IN mobile/JJ computing/NN become/VBN increasingly/RB popular/JJ ./.
+Classical/JJ multi-layer/JJ neural/JJ networks/NNS require/VBP matrix/NN multiplications/NNS at/IN each/DT stage/NN ./.
+Multiplication/NN operation/NN is/VBZ not/RB an/DT energy/NN efficient/JJ operation/NN and/CC consequently/RB it/PRP drains/VBZ the/DT battery/NN of/IN the/DT mobile/JJ device/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ energy/NN efficient/JJ neural/JJ network/NN with/IN the/DT universal/JJ approximation/NN property/NN over/IN space/NN of/IN Lebesgue/NNP integrable/JJ functions/NNS ./.
+This/DT network/NN ,/, called/VBN ,/, additive/JJ neural/JJ network/NN ,/, is/VBZ very/RB suitable/JJ for/IN mobile/JJ computing/NN ./.
+The/DT neural/JJ structure/NN is/VBZ based/VBN on/IN a/DT novel/NN vector/NN product/NN definition/NN ,/, called/VBN ef/NN -/HYPH operator/NN ,/, that/WDT permits/VBZ a/DT multiplier/JJR -/HYPH free/JJ implementation/NN ./.
+In/IN ef/NN -/HYPH operation/NN ,/, the/DT "/`` product/NN "/'' of/IN two/CD real/JJ numbers/NNS is/VBZ defined/VBN as/IN the/DT sum/NN of/IN their/PRP$ absolute/JJ values/NNS ,/, with/IN the/DT sign/NN determined/VBN by/IN the/DT sign/NN of/IN the/DT product/NN of/IN the/DT numbers/NNS ./.
+This/DT "/`` product/NN "/'' is/VBZ used/VBN to/TO construct/VB a/DT vector/NN product/NN in/IN $/$ R/NN ^/SYM N$/NN ./.
+The/DT vector/NN product/NN induces/VBZ the/DT $/$ l_1/CD $/$ norm/NN ./.
+The/DT proposed/VBN additive/JJ neural/JJ network/NN successfully/RB solves/VBZ the/DT XOR/NNP problem/NN ./.
+The/DT experiments/NNS on/IN MNIST/NN dataset/NN show/VBP that/IN the/DT classification/NN performances/NNS of/IN the/DT proposed/VBN additive/JJ neural/JJ networks/NNS are/VBP very/RB similar/JJ to/IN the/DT corresponding/VBG multi-layer/JJ perceptron/NN and/CC convolutional/JJ neural/JJ networks/NNS (/-LRB- LeNet/NNP )/-RRB- ./.

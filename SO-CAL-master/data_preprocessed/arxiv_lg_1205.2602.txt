@@ -1,0 +1,7 @@
+A/DT quantile/JJ binary/JJ classifier/NN uses/VBZ the/DT rule/NN :/: Classify/VB x/NN as/IN 1/CD if/IN P/NN (/-LRB- Y/NN =/SYM 1/CD |/HYPH X/NN =/SYM x/SYM )/-RRB- &gt;/SYM =/SYM t/NN ,/, and/CC as/IN -1/NN otherwise/RB ,/, for/IN a/DT fixed/VBN quantile/NN parameter/NN t/NN {/-LRB- [/-LRB- 0/CD ,/, 1/CD ]/-RRB- ./.
+It/PRP has/VBZ been/VBN shown/VBN that/IN Support/NN Vector/NNP Machines/NNPS (/-LRB- SVMs/NNS )/-RRB- in/IN the/DT limit/NN are/VBP quantile/JJ classifiers/NNS with/IN t/NN =/SYM 1/2/CD ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN by/IN using/VBG asymmetric/JJ cost/NN of/IN misclassification/NN SVMs/NNS can/MD be/VB appropriately/RB extended/VBN to/TO recover/VB ,/, in/IN the/DT limit/NN ,/, the/DT quantile/JJ binary/JJ classifier/NN for/IN any/DT t/NN ./.
+We/PRP then/RB present/VBP a/DT principled/JJ algorithm/NN to/TO solve/VB the/DT extended/JJ SVM/NN classifier/NN for/IN all/DT values/NNS of/IN t/NN simultaneously/RB ./.
+This/DT has/VBZ two/CD implications/NNS :/: First/RB ,/, one/PRP can/MD recover/VB the/DT entire/JJ conditional/JJ distribution/NN P/NN (/-LRB- Y/NN =/SYM 1/CD |/HYPH X/NN =/SYM x/SYM )/-RRB- =/SYM t/NN for/IN t/NN {/-LRB- [/-LRB- 0/CD ,/, 1/CD ]/-RRB- ./.
+Second/RB ,/, we/PRP can/MD build/VB a/DT risk/NN -/HYPH agnostic/JJ SVM/NNP classifier/NN where/WRB the/DT cost/NN of/IN misclassification/NN need/VBP not/RB be/VB known/VBN apriori/FW ./.
+Preliminary/JJ numerical/JJ experiments/NNS show/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN algorithm/NN ./.

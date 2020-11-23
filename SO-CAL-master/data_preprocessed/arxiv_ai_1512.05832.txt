@@ -1,0 +1,12 @@
+An/DT important/JJ use/NN of/IN machine/NN learning/NN is/VBZ to/TO learn/VB what/WP people/NNS value/NN ./.
+What/WDT posts/NNS or/CC photos/NNS should/MD a/DT user/NN be/VB shown/VBN ?/.
+Which/WDT jobs/NNS or/CC activities/NNS would/MD a/DT person/NN find/VB rewarding/JJ ?/.
+In/IN each/DT case/NN ,/, observations/NNS of/IN people/NNS 's/POS past/JJ choices/NNS can/MD inform/VB our/PRP$ inferences/NNS about/IN their/PRP$ likes/NNS and/CC preferences/NNS ./.
+If/IN we/PRP assume/VBP that/IN choices/NNS are/VBP approximately/RB optimal/JJ according/VBG to/IN some/DT utility/NN function/NN ,/, we/PRP can/MD treat/VB preference/NN inference/NN as/IN Bayesian/JJ inverse/JJ planning/NN ./.
+That/DT is/VBZ ,/, given/VBN a/DT prior/JJ on/IN utility/NN functions/NNS and/CC some/DT observed/VBN choices/NNS ,/, we/PRP invert/VBP an/DT optimal/JJ decision/NN -/HYPH making/VBG process/NN to/IN infer/VB a/DT posterior/JJ distribution/NN on/IN utility/NN functions/NNS ./.
+However/RB ,/, people/NNS often/RB deviate/VBP from/IN approximate/JJ optimality/NN ./.
+They/PRP have/VBP false/JJ beliefs/NNS ,/, their/PRP$ planning/NN is/VBZ sub-optimal/JJ ,/, and/CC their/PRP$ choices/NNS may/MD be/VB temporally/RB inconsistent/JJ due/IN to/IN hyperbolic/JJ discounting/NN and/CC other/JJ biases/NNS ./.
+We/PRP demonstrate/VBP how/WRB to/TO incorporate/VB these/DT deviations/NNS into/IN algorithms/NNS for/IN preference/NN inference/NN by/IN constructing/VBG generative/NN models/NNS of/IN planning/VBG for/IN agents/NNS who/WP are/VBP subject/JJ to/IN false/JJ beliefs/NNS and/CC time/NN inconsistency/NN ./.
+We/PRP explore/VBP the/DT inferences/NNS these/DT models/NNS make/VBP about/RB preferences/NNS ,/, beliefs/NNS ,/, and/CC biases/NNS ./.
+We/PRP present/VBP a/DT behavioral/JJ experiment/NN in/IN which/WDT human/JJ subjects/NNS perform/VBP preference/NN inference/NN given/VBN the/DT same/JJ observations/NNS of/IN choices/NNS as/IN our/PRP$ model/NN ./.
+Results/NNS show/VBP that/IN human/JJ subjects/NNS (/-LRB- like/IN our/PRP$ model/NN )/-RRB- explain/VBP choices/NNS in/IN terms/NNS of/IN systematic/JJ deviations/NNS from/IN optimal/JJ behavior/NN and/CC suggest/VBP that/IN they/PRP take/VBP such/JJ deviations/NNS into/IN account/NN when/WRB inferring/VBG preferences/NNS ./.

@@ -1,0 +1,3 @@
+Matrix/NN operations/NNS such/JJ as/IN matrix/NN inversion/NN ,/, eigenvalue/NN decomposition/NN ,/, singular/JJ value/NN decomposition/NN are/VBP ubiquitous/JJ in/IN real/JJ -/HYPH world/NN applications/NNS ./.
+Unfortunately/RB ,/, many/JJ of/IN these/DT matrix/NN operations/NNS so/IN time/NN and/CC memory/NN expensive/JJ that/IN they/PRP are/VBP prohibitive/JJ when/WRB the/DT scale/NN of/IN data/NNS is/VBZ large/JJ ./.
+In/IN real/JJ -/HYPH world/NN applications/NNS ,/, since/IN the/DT data/NNS themselves/PRP are/VBP noisy/JJ ,/, machine/NN -/HYPH precision/NN matrix/NN operations/NNS are/VBP not/RB necessary/JJ at/IN all/RB ,/, and/CC one/PRP can/MD sacrifice/VB a/DT reasonable/JJ amount/NN of/IN accuracy/NN for/IN computational/JJ efficiency/NN ./.

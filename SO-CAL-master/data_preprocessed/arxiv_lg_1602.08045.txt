@@ -1,0 +1,7 @@
+Various/JJ algorithms/NNS for/IN text/NN -/HYPH independent/JJ speaker/NN recognition/NN have/VBP been/VBN developed/VBN through/IN the/DT decades/NNS ,/, aiming/VBG to/TO improve/VB both/DT accuracy/NN and/CC efficiency/NN ./.
+This/DT paper/NN presents/VBZ a/DT novel/JJ PCA/NN //HYPH LDA/NN -/HYPH based/VBN approach/NN that/WDT is/VBZ faster/JJR than/IN traditional/JJ statistical/JJ model/NN -/HYPH based/VBN methods/NNS and/CC achieves/VBZ competitive/JJ results/NNS ./.
+First/RB ,/, the/DT performance/NN based/VBN on/IN only/RB PCA/NNP and/CC only/RB LDA/NNP is/VBZ measured/VBN ;/: then/RB a/DT mixed/JJ model/NN ,/, taking/VBG advantages/NNS of/IN both/DT methods/NNS ,/, is/VBZ introduced/VBN ./.
+A/DT subset/NN of/IN the/DT TIMIT/NN corpus/NN composed/VBN of/IN 200/CD male/JJ speakers/NNS ,/, is/VBZ used/VBN for/IN enrollment/NN ,/, validation/NN and/CC testing/NN ./.
+The/DT best/JJS results/NNS achieve/VBP 100/CD percent/NN ;/: 96/CD percent/NN and/CC 95/CD percent/NN classification/NN rate/NN at/IN population/NN level/NN 50/CD ;/: 100/CD and/CC 200/CD ,/, using/VBG 39/CD -/HYPH dimensional/JJ MFCC/NN features/VBZ with/IN delta/NN and/CC double/JJ delta/NN ./.
+These/DT results/NNS are/VBP based/VBN on/IN 12/CD -/HYPH second/JJ text/NN -/HYPH independent/JJ speech/NN for/IN training/NN and/CC 4/CD -/HYPH second/JJ data/NNS for/IN test/NN ./.
+These/DT are/VBP comparable/JJ to/IN the/DT conventional/JJ MFCC/NN -/HYPH GMM/NN methods/NNS ,/, but/CC require/VBP significantly/RB less/JJR time/NN to/TO train/VB and/CC operate/VB ./.

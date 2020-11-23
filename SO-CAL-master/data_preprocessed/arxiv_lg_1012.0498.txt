@@ -1,0 +1,6 @@
+Recommendation/NN systems/NNS are/VBP emerging/VBG as/IN an/DT important/JJ business/NN application/NN with/IN significant/JJ economic/JJ impact/NN ./.
+Currently/RB popular/JJ systems/NNS include/VBP Amazon/NNP 's/POS book/NN recommendations/NNS ,/, Netflix/NNP 's/POS movie/NN recommendations/NNS ,/, and/CC Pandora/NNP 's/POS music/NN recommendations/NNS ./.
+In/IN this/DT paper/NN we/PRP address/VBP the/DT problem/NN of/IN estimating/VBG probabilities/NNS associated/VBN with/IN recommendation/NN system/NN data/NNS using/VBG non-parametric/JJ kernel/NN smoothing/NN ./.
+In/IN our/PRP$ estimation/NN we/PRP interpret/VBP missing/VBG items/NNS as/IN randomly/RB censored/VBN observations/NNS and/CC obtain/VB efficient/JJ computation/NN schemes/NNS using/VBG combinatorial/JJ properties/NNS of/IN generating/VBG functions/NNS ./.
+We/PRP demonstrate/VBP our/PRP$ approach/NN with/IN several/JJ case/NN studies/NNS involving/VBG real/JJ world/NN movie/NN recommendation/NN data/NNS ./.
+The/DT results/NNS are/VBP comparable/JJ with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN techniques/NNS while/IN also/RB providing/VBG probabilistic/JJ preference/NN estimates/NNS outside/IN the/DT scope/NN of/IN traditional/JJ recommender/NN systems/NNS ./.

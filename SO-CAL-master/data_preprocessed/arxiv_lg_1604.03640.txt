@@ -1,0 +1,5 @@
+We/PRP discuss/VBP relations/NNS between/IN Residual/JJ Networks/NNS (/-LRB- ResNet/NNP )/-RRB- ,/, Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- RNNs/NNS )/-RRB- and/CC the/DT primate/NN visual/JJ cortex/NN ./.
+We/PRP begin/VBP with/IN the/DT observation/NN that/IN a/DT shallow/JJ RNN/NN is/VBZ exactly/RB equivalent/JJ to/IN a/DT very/RB deep/JJ ResNet/NNP with/IN weight/NN sharing/NN among/IN the/DT layers/NNS ./.
+A/DT direct/JJ implementation/NN of/IN such/PDT a/DT RNN/NN ,/, although/IN having/VBG orders/NNS of/IN magnitude/NN fewer/JJR parameters/NNS ,/, leads/VBZ to/IN a/DT performance/NN similar/JJ to/IN the/DT corresponding/VBG ResNet/NNP ./.
+We/PRP propose/VBP 1/CD )/-RRB- a/DT generalization/NN of/IN both/DT RNN/NN and/CC ResNet/NNP architectures/NNS and/CC 2/CD )/-RRB- the/DT conjecture/NN that/IN a/DT class/NN of/IN moderately/RB deep/JJ RNNs/NNS is/VBZ a/DT biologically/RB -/HYPH plausible/JJ model/NN of/IN the/DT ventral/JJ stream/NN in/IN visual/JJ cortex/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN the/DT architectures/NNS by/IN testing/VBG them/PRP on/IN the/DT CIFAR/NN -/HYPH 10/CD dataset/NN ./.

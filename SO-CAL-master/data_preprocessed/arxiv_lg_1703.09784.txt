@@ -1,0 +1,9 @@
+This/DT paper/NN investigates/VBZ a/DT novel/JJ task/NN of/IN generating/VBG texture/NN images/NNS from/IN perceptual/JJ descriptions/NNS ./.
+Previous/JJ work/NN on/IN texture/NN generation/NN focused/VBD on/IN either/CC synthesis/NN from/IN examples/NNS or/CC generation/NN from/IN procedural/JJ models/NNS ./.
+Generating/NNP textures/NNS from/IN perceptual/JJ attributes/NNS have/VBP not/RB been/VBN well/RB studied/VBN yet/RB ./.
+Meanwhile/RB ,/, perceptual/JJ attributes/NNS ,/, such/JJ as/IN directionality/NN ,/, regularity/NN and/CC roughness/NN are/VBP important/JJ factors/NNS for/IN human/JJ observers/NNS to/TO describe/VB a/DT texture/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT joint/JJ deep/JJ network/NN model/NN that/WDT combines/VBZ adversarial/JJ training/NN and/CC perceptual/JJ feature/NN regression/NN for/IN texture/NN generation/NN ,/, while/IN only/RB random/JJ noise/NN and/CC user/NN -/HYPH defined/VBN perceptual/JJ attributes/NNS are/VBP required/VBN as/IN input/NN ./.
+In/IN this/DT model/NN ,/, a/DT preliminary/JJ trained/VBN convolutional/JJ neural/JJ network/NN is/VBZ essentially/RB integrated/VBN with/IN the/DT adversarial/JJ framework/NN ,/, which/WDT can/MD drive/VB the/DT generated/VBN textures/NNS to/TO possess/VB given/VBN perceptual/JJ attributes/NNS ./.
+An/DT important/JJ aspect/NN of/IN the/DT proposed/VBN model/NN is/VBZ that/IN ,/, if/IN we/PRP change/VBP one/CD of/IN the/DT input/NN perceptual/JJ features/NNS ,/, the/DT corresponding/VBG appearance/NN of/IN the/DT generated/VBN textures/NNS will/MD also/RB be/VB changed/VBN ./.
+We/PRP design/VBP several/JJ experiments/NNS to/TO validate/VB the/DT effectiveness/NN of/IN the/DT proposed/JJ method/NN ./.
+The/DT results/NNS show/VBP that/IN the/DT proposed/JJ method/NN can/MD produce/VB high/JJ quality/NN texture/NN images/NNS with/IN desired/VBN perceptual/JJ properties/NNS ./.

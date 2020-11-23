@@ -1,0 +1,5 @@
+Recent/JJ work/NN on/IN language/NN modelling/NN has/VBZ shifted/VBN focus/NN from/IN count/NN -/HYPH based/VBN models/NNS to/IN neural/JJ models/NNS ./.
+In/IN these/DT works/NNS ,/, the/DT words/NNS in/IN each/DT sentence/NN are/VBP always/RB considered/VBN in/IN a/DT left/JJ -/HYPH to/TO -/HYPH right/JJ order/NN ./.
+In/IN this/DT paper/NN we/PRP show/VBP how/WRB we/PRP can/MD improve/VB the/DT performance/NN of/IN the/DT recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- language/NN model/NN by/IN incorporating/VBG the/DT syntactic/JJ dependencies/NNS of/IN a/DT sentence/NN ,/, which/WDT have/VBP the/DT effect/NN of/IN bringing/VBG relevant/JJ contexts/NNS closer/RBR to/IN the/DT word/NN being/VBG predicted/VBN ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN on/IN the/DT Microsoft/NNP Research/NNP Sentence/NNP Completion/NNP Challenge/NNP and/CC show/VB that/IN the/DT dependency/NN RNN/NN proposed/VBN improves/VBZ over/IN the/DT RNN/NN by/IN about/RB 10/CD points/NNS in/IN accuracy/NN ./.
+Furthermore/RB ,/, we/PRP achieve/VBP results/NNS comparable/JJ with/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS on/IN this/DT task/NN ./.

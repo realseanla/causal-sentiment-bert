@@ -1,0 +1,7 @@
+Sparsity-inducing penalties are useful tools to design multiclass support vector machines (SVMs).
+In this paper, we propose a convex optimization approach for efficiently and exactly solving the multiclass SVM learning problem involving a sparse regularization and the multiclass hinge loss formulated by Crammer and Singer.
+We provide two algorithms: the first one dealing with the hinge loss as a penalty term, and the other one addressing the case when the hinge loss is enforced through a constraint.
+The related convex optimization problems can be efficiently solved thanks to the flexibility offered by recent primal-dual proximal algorithms and epigraphical splitting techniques.
+Experiments carried out on several datasets demonstrate the interest of considering the exact expression of the hinge loss rather than a smooth approximation.
+The efficiency of the proposed algorithms w.r.t.
+several state-of-the-art methods is also assessed through comparisons of execution times.

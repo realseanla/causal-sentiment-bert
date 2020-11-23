@@ -1,0 +1,7 @@
+We study the problem of inferring the type of a networked device in a home network by leveraging low level traffic activity indicators seen at commodity home gateways.
+We analyze a dataset of detailed device network activity obtained from 240 subscriber homes of a large European ISP and extract a number of traffic and spatial fingerprints for individual devices.
+We develop a two level taxonomy to describe devices onto which we map individual devices using a number of heuristics.
+We leverage the heuristically derived labels to train classifiers that distinguish device classes based on the traffic and spatial fingerprints of a device.
+Our results show an accuracy level up to 91 percent for the coarse level category and up to 84 percent for the fine grained category.
+By incorporating information from other sources (e.g., MAC OUI), we are able to further improve accuracy to above 97 percent and 92 percent, respectively.
+Finally, we also extract a set of simple and human-readable rules that concisely capture the behaviour of these distinct device categories.

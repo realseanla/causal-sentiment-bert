@@ -1,0 +1,6 @@
+This/DT paper/NN demonstrates/VBZ a/DT data/NN -/HYPH driven/VBN control/NN approach/NN for/IN demand/NN response/NN in/IN real/JJ -/HYPH life/NN residential/JJ buildings/NNS ./.
+The/DT objective/NN is/VBZ to/TO optimally/RB schedule/VB the/DT heating/NN cycles/NNS of/IN the/DT Domestic/JJ Hot/NNP Water/NNP (/-LRB- DHW/NNP )/-RRB- buffer/NN to/TO maximize/VB the/DT self/NN -/HYPH consumption/NN of/IN the/DT local/JJ photovoltaic/JJ (/-LRB- PV/NN )/-RRB- production/NN ./.
+A/DT model/NN -/HYPH based/VBN reinforcement/NN learning/VBG technique/NN is/VBZ used/VBN to/TO tackle/VB the/DT underlying/VBG sequential/JJ decision/NN -/HYPH making/VBG problem/NN ./.
+The/DT proposed/VBN algorithm/NN learns/VBZ the/DT stochastic/JJ occupant/NN behavior/NN ,/, predicts/VBZ the/DT PV/NN production/NN and/CC takes/VBZ into/IN account/NN the/DT dynamics/NNS of/IN the/DT system/NN ./.
+A/DT real/JJ -/HYPH life/NN experiment/NN with/IN six/CD residential/JJ buildings/NNS is/VBZ performed/VBN using/VBG this/DT algorithm/NN ./.
+The/DT results/NNS show/VBP that/IN the/DT self/NN -/HYPH consumption/NN of/IN the/DT PV/NN production/NN is/VBZ significantly/RB increased/VBN ,/, compared/VBN to/IN the/DT default/NN thermostat/NN control/NN ./.

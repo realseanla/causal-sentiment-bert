@@ -1,0 +1,6 @@
+This article presents an agent architecture for controlling an autonomous agent in stochastic environments.
+The architecture combines the partially observable Markov decision process (POMDP) model with the belief-desire-intention (BDI) framework.
+The Hybrid POMDP-BDI agent architecture takes the best features from the two approaches, that is, the online generation of reward-maximizing courses of action from POMDP theory, and sophisticated multiple goal management from BDI theory.
+We introduce the advances made since the introduction of the basic architecture, including (i) the ability to pursue multiple goals simultaneously and (ii) a plan library for storing pre-written plans and for storing recently generated plans for future reuse.
+A version of the architecture without the plan library is implemented and is evaluated using simulations.
+The results of the simulation experiments indicate that the approach is feasible.

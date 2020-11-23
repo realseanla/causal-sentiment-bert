@@ -1,0 +1,15 @@
+In/IN the/DT wake/NN of/IN the/DT vast/JJ population/NN of/IN smart/JJ device/NN users/NNS worldwide/RB ,/, mobile/JJ health/NN (/-LRB- mHealth/NN )/-RRB- technologies/NNS are/VBP hopeful/JJ to/TO generate/VB positive/JJ and/CC wide/JJ influence/NN on/IN people/NNS 's/POS health/NN ./.
+They/PRP are/VBP able/JJ to/TO provide/VB flexible/JJ ,/, affordable/JJ and/CC portable/JJ health/NN guides/NNS to/IN device/NN users/NNS ./.
+Current/JJ online/JJ decision/NN -/HYPH making/VBG methods/NNS for/IN mHealth/NNP assume/VBP that/IN the/DT users/NNS are/VBP completely/RB heterogeneous/JJ ./.
+They/PRP share/VBP no/DT information/NN among/IN users/NNS and/CC learn/VB a/DT separate/JJ policy/NN for/IN each/DT user/NN ./.
+However/RB ,/, data/NNS for/IN each/DT user/NN is/VBZ very/RB limited/JJ in/IN size/NN to/TO support/VB the/DT separate/JJ online/JJ learning/NN ,/, leading/VBG to/IN unstable/JJ policies/NNS that/WDT contain/VBP lots/NNS of/IN variances/NNS ./.
+Besides/RB ,/, we/PRP find/VBP the/DT truth/NN that/WDT a/DT user/NN may/MD be/VB similar/JJ with/IN some/DT ,/, but/CC not/RB all/DT ,/, users/NNS ,/, and/CC connected/VBN users/NNS tend/VBP to/TO have/VB similar/JJ behaviors/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT network/NN cohesion/NN constrained/VBN (/-LRB- actor/NN -/HYPH critic/NN )/-RRB- Reinforcement/NN Learning/NN (/-LRB- RL/NN )/-RRB- method/NN for/IN mHealth/NNP ./.
+The/DT goal/NN is/VBZ to/TO explore/VB how/WRB to/TO share/VB information/NN among/IN similar/JJ users/NNS to/TO better/RBR convert/VB the/DT limited/JJ user/NN information/NN into/IN sharper/JJR learned/VBN policies/NNS ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ online/JJ actor/NN -/HYPH critic/NN RL/NNP for/IN mHealth/NNP and/CC first/JJ network/NN cohesion/NN constrained/VBN (/-LRB- actor/NN -/HYPH critic/NN )/-RRB- RL/NN method/NN in/IN all/DT applications/NNS ./.
+The/DT network/NN cohesion/NN is/VBZ important/JJ to/TO derive/VB effective/JJ policies/NNS ./.
+We/PRP come/VBP up/RP with/IN a/DT novel/JJ method/NN to/TO learn/VB the/DT network/NN by/IN using/VBG the/DT warm/JJ start/NN trajectory/NN ,/, which/WDT directly/RB reflects/VBZ the/DT users/NNS '/POS property/NN ./.
+The/DT optimization/NN of/IN our/PRP$ model/NN is/VBZ difficult/JJ and/CC very/RB different/JJ from/IN the/DT general/JJ supervised/JJ learning/NN due/IN to/IN the/DT indirect/JJ observation/NN of/IN values/NNS ./.
+As/IN a/DT contribution/NN ,/, we/PRP propose/VBP two/CD algorithms/NNS for/IN the/DT proposed/VBN online/JJ RLs/NNS ./.
+Apart/RB from/IN mHealth/NNP ,/, the/DT proposed/VBN methods/NNS can/MD be/VB easily/RB applied/VBN or/CC adapted/VBN to/IN other/JJ health/NN -/HYPH related/VBN tasks/NNS ./.
+Extensive/JJ experiment/NN results/NNS on/IN the/DT HeartSteps/NNP dataset/NN demonstrates/VBZ that/IN in/IN a/DT variety/NN of/IN parameter/NN settings/NNS ,/, the/DT proposed/VBN two/CD methods/NNS obtain/VBP obvious/JJ improvements/NNS over/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

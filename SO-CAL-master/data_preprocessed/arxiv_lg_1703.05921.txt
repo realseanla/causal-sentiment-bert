@@ -1,0 +1,7 @@
+Obtaining/VBG models/NNS that/WDT capture/VBP imaging/NN markers/NNS relevant/JJ for/IN disease/NN progression/NN and/CC treatment/NN monitoring/NN is/VBZ challenging/JJ ./.
+Models/NNS are/VBP typically/RB based/VBN on/IN large/JJ amounts/NNS of/IN data/NNS with/IN annotated/VBN examples/NNS of/IN known/VBN markers/NNS aiming/VBG at/IN automating/VBG detection/NN ./.
+High/JJ annotation/NN effort/NN and/CC the/DT limitation/NN to/IN a/DT vocabulary/NN of/IN known/VBN markers/NNS limit/VBP the/DT power/NN of/IN such/JJ approaches/NNS ./.
+Here/RB ,/, we/PRP perform/VBP unsupervised/JJ learning/NN to/TO identify/VB anomalies/NNS in/IN imaging/NN data/NNS as/IN candidates/NNS for/IN markers/NNS ./.
+We/PRP propose/VBP AnoGAN/NNP ,/, a/DT deep/JJ convolutional/JJ generative/JJ adversarial/JJ network/NN to/TO learn/VB a/DT manifold/NN of/IN normal/JJ anatomical/JJ variability/NN ,/, accompanying/VBG a/DT novel/JJ anomaly/NN scoring/VBG scheme/NN based/VBN on/IN the/DT mapping/NN from/IN image/NN space/NN to/IN a/DT latent/JJ space/NN ./.
+Applied/NNP to/IN new/JJ data/NNS ,/, the/DT model/NN labels/NNS anomalies/NNS ,/, and/CC scores/NNS image/NN patches/NNS indicating/VBG their/PRP$ fit/NN into/IN the/DT learned/VBN distribution/NN ./.
+Results/NNS on/IN optical/JJ coherence/NN tomography/NN images/NNS of/IN the/DT retina/NN demonstrate/VBP that/IN the/DT approach/NN correctly/RB identifies/VBZ anomalous/JJ images/NNS ,/, such/JJ as/IN images/NNS containing/VBG retinal/JJ fluid/NN or/CC hyperreflective/JJ foci/NNS ./.

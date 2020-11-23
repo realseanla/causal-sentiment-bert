@@ -1,0 +1,7 @@
+Maximum/JJ likelihood/NN estimators/NNS are/VBP often/RB of/IN limited/JJ practical/JJ use/NN due/IN to/IN the/DT intensive/JJ computation/NN they/PRP require/VBP ./.
+We/PRP propose/VBP a/DT family/NN of/IN alternative/JJ estimators/NNS that/WDT maximize/VBP a/DT stochastic/JJ variation/NN of/IN the/DT composite/JJ likelihood/NN function/NN ./.
+Each/DT of/IN the/DT estimators/NNS resolve/VB the/DT computation/NN -/HYPH accuracy/NN tradeoff/NN differently/RB ,/, and/CC taken/VBN together/RB they/PRP span/VBP a/DT continuous/JJ spectrum/NN of/IN computation/NN -/HYPH accuracy/NN tradeoff/NN resolutions/NNS ./.
+We/PRP prove/VBP the/DT consistency/NN of/IN the/DT estimators/NNS ,/, provide/VB formulas/NNS for/IN their/PRP$ asymptotic/JJ variance/NN ,/, statistical/JJ robustness/NN ,/, and/CC computational/JJ complexity/NN ./.
+We/PRP discuss/VBP experimental/JJ results/NNS in/IN the/DT context/NN of/IN Boltzmann/NNP machines/NNS and/CC conditional/JJ random/JJ fields/NNS ./.
+The/DT theoretical/JJ and/CC experimental/JJ studies/NNS demonstrate/VBP the/DT effectiveness/NN of/IN the/DT estimators/NNS when/WRB the/DT computational/JJ resources/NNS are/VBP insufficient/JJ ./.
+They/PRP also/RB demonstrate/VBP that/IN in/IN some/DT cases/NNS reduced/VBN computational/JJ complexity/NN is/VBZ associated/VBN with/IN robustness/NN thereby/RB increasing/VBG statistical/JJ accuracy/NN ./.

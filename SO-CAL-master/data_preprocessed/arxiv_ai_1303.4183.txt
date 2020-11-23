@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ capabilities/NNS of/IN using/VBG genetic/JJ algorithms/NNS to/TO find/VB approximations/NNS of/IN function/NN extrema/NN ,/, which/WDT can/MD not/RB be/VB found/VBN using/VBG analytic/JJ ways/NNS ./.
+To/TO enhance/VB effectiveness/NN of/IN calculations/NNS ,/, algorithm/NN has/VBZ been/VBN parallelized/VBN using/VBG OpenMP/NN library/NN ./.
+We/PRP gained/VBD much/JJ increase/NN in/IN speed/NN on/IN platforms/NNS using/VBG multithreaded/JJ processors/NNS with/IN shared/VBN memory/NN free/JJ access/NN ./.
+During/IN analysis/NN we/PRP used/VBD different/JJ modifications/NNS of/IN genetic/JJ operator/NN ,/, using/VBG them/PRP we/PRP obtained/VBD varied/JJ evolution/NN process/NN of/IN potential/JJ solutions/NNS ./.
+Results/NNS allow/VBP to/TO choose/VB best/JJS methods/NNS among/IN many/JJ applied/VBN in/IN genetic/JJ algorithms/NNS and/CC observation/NN of/IN acceleration/NN on/IN Yorkfield/NNP ,/, Bloomfield/NNP ,/, Westmere/NNP -/HYPH EX/NNP and/CC most/RBS recent/JJ Sandy/NNP Bridge/NNP cores/NNS ./.

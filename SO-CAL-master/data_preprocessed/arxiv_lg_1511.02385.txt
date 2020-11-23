@@ -1,0 +1,5 @@
+We/PRP propose/VBP an/DT effective/JJ technique/NN to/IN solving/VBG review/NN -/HYPH level/NN sentiment/NN classification/NN problem/NN by/IN using/VBG sentence/NN -/HYPH level/NN polarity/NN correction/NN ./.
+Our/PRP$ polarity/NN correction/NN technique/NN takes/VBZ into/IN account/NN the/DT consistency/NN of/IN the/DT polarities/NNS (/-LRB- positive/JJ and/CC negative/JJ )/-RRB- of/IN sentences/NNS within/IN each/DT product/NN review/NN before/IN performing/VBG the/DT actual/JJ machine/NN learning/VBG task/NN ./.
+While/IN sentences/NNS with/IN inconsistent/JJ polarities/NNS are/VBP removed/VBN ,/, sentences/NNS with/IN consistent/JJ polarities/NNS are/VBP used/VBN to/TO learn/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN classifiers/NNS ./.
+The/DT technique/NN achieved/VBD better/JJR results/NNS on/IN different/JJ types/NNS of/IN products/NNS reviews/NNS and/CC outperforms/VBZ baseline/NN models/NNS without/IN the/DT correction/NN technique/NN ./.
+Experimental/JJ results/NNS show/VBP an/DT average/NN of/IN 82/CD percent/NN F/NN -/HYPH measure/NN on/IN four/CD different/JJ product/NN review/NN domains/NNS ./.

@@ -1,0 +1,6 @@
+Discovering/VBG the/DT set/NN of/IN closed/JJ frequent/JJ patterns/NNS is/VBZ one/CD of/IN the/DT fundamental/JJ problems/NNS in/IN Data/NNP Mining/NNP ./.
+Recent/JJ Constraint/NN Programming/NN (/-LRB- CP/NN )/-RRB- approaches/VBZ for/IN declarative/JJ itemset/NN mining/NN have/VBP proven/VBN their/PRP$ usefulness/NN and/CC flexibility/NN ./.
+But/CC the/DT wide/JJ use/NN of/IN reified/JJ constraints/NNS in/IN current/JJ CP/NN approaches/VBZ raises/VBZ many/JJ difficulties/NNS to/TO cope/VB with/IN high/JJ dimensional/JJ datasets/NNS ./.
+This/DT paper/NN proposes/VBZ CLOSED/VBN PATTERN/NN global/JJ constraint/NN which/WDT does/VBZ not/RB require/VB any/DT reified/JJ constraints/NNS nor/CC any/DT extra/JJ variables/NNS to/TO encode/VB efficiently/RB the/DT Closed/VBN Frequent/JJ Pattern/NN Mining/NN (/-LRB- CFPM/NNP )/-RRB- constraint/NN ./.
+CLOSED/VBN -/HYPH PATTERN/NN captures/VBZ the/DT particular/JJ semantics/NNS of/IN the/DT CFPM/NNP problem/NN in/IN order/NN to/TO ensure/VB a/DT polynomial/JJ pruning/NN algorithm/NN ensuring/VBG domain/NN consistency/NN ./.
+The/DT computational/JJ properties/NNS of/IN our/PRP$ constraint/NN are/VBP analyzed/VBN and/CC their/PRP$ practical/JJ effectiveness/NN is/VBZ experimentally/RB evaluated/VBN ./.

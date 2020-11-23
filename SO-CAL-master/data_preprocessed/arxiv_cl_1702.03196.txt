@@ -1,0 +1,7 @@
+Universal/NNP Dependencies/NNPS (/-LRB- UD/NNP )/-RRB- provides/VBZ a/DT cross-linguistically/RB uniform/JJ syntactic/JJ representation/NN ,/, with/IN the/DT aim/NN of/IN advancing/VBG multilingual/JJ applications/NNS of/IN parsing/VBG and/CC natural/JJ language/NN understanding/NN ./.
+Reddy/NNP et/FW al./FW (/-LRB- 2016/CD )/-RRB- recently/RB developed/VBD a/DT semantic/JJ interface/NN for/IN (/-LRB- English/NNP )/-RRB- Stanford/NNP Dependencies/NNPS ,/, based/VBN on/IN the/DT lambda/NN calculus/NN ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP UDepLambda/NNP ,/, a/DT similar/JJ semantic/JJ interface/NN for/IN UD/NNP ,/, which/WDT allows/VBZ mapping/VBG natural/JJ language/NN to/IN logical/JJ forms/NNS in/IN an/DT almost/RB language/NN -/HYPH independent/JJ framework/NN ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN on/IN semantic/JJ parsing/VBG for/IN the/DT task/NN of/IN question/NN answering/VBG against/IN Freebase/NNP ./.
+To/TO facilitate/VB multilingual/JJ evaluation/NN ,/, we/PRP provide/VBP German/JJ and/CC Spanish/JJ translations/NNS of/IN the/DT WebQuestions/NNPS and/CC GraphQuestions/NNPS datasets/NNS ./.
+Results/NNS show/VBP that/IN UDepLambda/NNP outperforms/VBZ strong/JJ baselines/NNS across/IN languages/NNS and/CC datasets/NNS ./.
+For/IN English/NNP ,/, it/PRP achieves/VBZ the/DT strongest/JJS result/NN to/IN date/NN on/IN GraphQuestions/NNP ,/, with/IN competitive/JJ results/NNS on/IN WebQuestions/NNPS ./.

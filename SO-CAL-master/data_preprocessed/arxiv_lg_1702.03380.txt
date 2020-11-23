@@ -1,0 +1,5 @@
+In/IN this/DT work/NN ,/, we/PRP propose/VBP to/IN train/NN a/DT deep/JJ neural/JJ network/NN by/IN distributed/VBN optimization/NN over/IN a/DT graph/NN ./.
+Two/CD nonlinear/JJ functions/NNS are/VBP considered/VBN :/: the/DT rectified/VBN linear/JJ unit/NN (/-LRB- ReLU/NN )/-RRB- and/CC a/DT linear/JJ unit/NN with/IN both/CC lower/JJR and/CC upper/JJ cutoffs/NNS (/-LRB- DCutLU/NNP )/-RRB- ./.
+The/DT problem/NN reformulation/NN over/IN a/DT graph/NN is/VBZ realized/VBN by/IN explicitly/RB representing/VBG ReLU/NN or/CC DCutLU/NN using/VBG a/DT set/NN of/IN slack/NN variables/NNS ./.
+We/PRP then/RB apply/VB the/DT alternating/VBG direction/NN method/NN of/IN multipliers/NNS (/-LRB- ADMM/NN )/-RRB- to/TO update/VB the/DT weights/NNS of/IN the/DT network/NN layerwise/NN by/IN solving/VBG subproblems/NNS of/IN the/DT reformulated/VBN problem/NN ./.
+Empirical/JJ results/NNS suggest/VBP that/IN by/IN proper/JJ parameter/NN selection/NN ,/, the/DT ADMM/NNP -/HYPH based/VBN method/NN converges/VBZ considerably/RB faster/JJR than/IN gradient/NN descent/NN method/NN ./.

@@ -1,0 +1,7 @@
+Feature/NN selection/NN with/IN specific/JJ multivariate/JJ performance/NN measures/NNS is/VBZ the/DT key/NN to/IN the/DT success/NN of/IN many/JJ applications/NNS such/JJ as/IN information/NN retrieval/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT feature/NN selection/NN method/NN for/IN multivariate/JJ performance/NN measures/NNS ./.
+The/DT proposed/JJ method/NN forms/VBZ an/DT optimization/NN problem/NN with/IN exponential/JJ size/NN of/IN both/DT feature/NN groups/NNS and/CC label/NN configurations/NNS for/IN a/DT given/VBN dataset/NN ./.
+To/TO address/VB this/DT problem/NN ,/, a/DT two/CD -/HYPH layer/NN cutting/NN plane/NN algorithm/NN is/VBZ proposed/VBN ./.
+The/DT outer/JJ layer/NN performs/VBZ group/NN feature/NN generation/NN ;/: while/IN the/DT inner/JJ layer/NN learns/VBZ the/DT label/NN configuration/NN for/IN multivariate/JJ performance/NN measures/NNS ./.
+Comprehensive/JJ experiments/NNS on/IN large/JJ -/HYPH scale/NN and/CC high/JJ -/HYPH dimensional/JJ real/JJ world/NN datasets/NNS show/VBP that/IN the/DT proposed/JJ method/NN can/MD significantly/RB outperform/VB $/$ l_1/CD $/$ -/HYPH SVM/NN and/CC SVM/NN -/HYPH RFE/NN when/WRB choosing/VBG a/DT small/JJ subset/NN of/IN features/NNS ,/, and/CC achieve/VB significantly/RB improved/VBN performances/NNS over/IN SVM$/NNP ^/SYM {/-LRB- perf/NN }/-RRB- $/$ in/IN terms/NNS of/IN $/$ F_1/CD $/$ -/HYPH score/NN ./.
+It/PRP also/RB learns/VBZ a/DT sparse/JJ yet/CC effective/JJ decision/NN rule/NN for/IN multivariate/JJ performance/NN measures/NNS ./.

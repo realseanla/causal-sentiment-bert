@@ -1,0 +1,5 @@
+In this work, we propose to train a deep neural network by distributed optimization over a graph.
+Two nonlinear functions are considered: the rectified linear unit (ReLU) and a linear unit with both lower and upper cutoffs (DCutLU).
+The problem reformulation over a graph is realized by explicitly representing ReLU or DCutLU using a set of slack variables.
+We then apply the alternating direction method of multipliers (ADMM) to update the weights of the network layerwise by solving subproblems of the reformulated problem.
+Empirical results suggest that by proper parameter selection, the ADMM- based method converges considerably faster than gradient descent method.

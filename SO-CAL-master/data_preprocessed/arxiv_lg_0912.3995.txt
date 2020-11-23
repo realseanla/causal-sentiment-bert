@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN optimizing/VBG an/DT unknown/JJ ,/, noisy/JJ function/NN that/WDT is/VBZ expensive/JJ to/TO evaluate/VB ./.
+We/PRP cast/VBD this/DT problem/NN as/IN a/DT multiarmed/JJ bandit/NN problem/NN where/WRB the/DT payoff/NN function/NN is/VBZ sampled/VBN from/IN a/DT Gaussian/JJ Process/NN ./.
+We/PRP resolve/VBP an/DT important/JJ open/JJ problem/NN on/IN deriving/VBG regret/NN bounds/NNS for/IN this/DT setting/NN ./.
+In/IN particular/JJ ,/, we/PRP analyze/VBP an/DT upper/JJ confidence/NN algorithm/NN and/CC bound/VBD its/PRP$ cumulative/JJ regret/NN in/IN terms/NNS of/IN the/DT maximal/JJ information/NN gain/NN due/IN to/IN sampling/NN ,/, thus/RB connecting/VBG Gaussian/JJ Process/NN bandits/NNS and/CC optimal/JJ experimental/JJ design/NN ./.
+Moreover/RB ,/, we/PRP bound/VBD the/DT maximal/JJ information/NN gain/NN by/IN exploiting/VBG known/VBN spectral/JJ properties/NNS of/IN popular/JJ classes/NNS of/IN kernels/NNS and/CC obtain/VB sub-linear/JJ regret/NN bounds/NNS for/IN our/PRP$ algorithm/NN ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/IN ,/, perhaps/RB surprisingly/RB ,/, the/DT regret/NN bounds/NNS for/IN the/DT squared/JJ exponential/JJ kernel/NN depend/VBP only/RB very/RB weakly/RB on/IN the/DT dimensionality/NN of/IN the/DT problem/NN ./.

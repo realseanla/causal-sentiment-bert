@@ -1,0 +1,6 @@
+Traditional/JJ language/NN models/NNS treat/VBP language/NN as/IN a/DT finite/JJ state/NN automaton/NN on/IN a/DT probability/NN space/NN over/IN words/NNS ./.
+This/DT is/VBZ a/DT very/RB strong/JJ assumption/NN when/WRB modeling/VBG something/NN inherently/RB complex/JJ such/JJ as/IN language/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP challenge/VBP this/DT by/IN showing/VBG how/WRB the/DT linear/JJ chain/NN assumption/NN inherent/JJ in/IN previous/JJ work/NN can/MD be/VB translated/VBN into/IN a/DT sequential/JJ composition/NN tree/NN ./.
+We/PRP then/RB propose/VB a/DT new/JJ model/NN that/WDT marginalizes/VBZ over/RB all/DT possible/JJ composition/NN trees/NNS thereby/RB removing/VBG any/DT underlying/JJ structural/JJ assumptions/NNS ./.
+As/IN the/DT partition/NN function/NN of/IN this/DT new/JJ model/NN is/VBZ intractable/JJ ,/, we/PRP use/VBP a/DT recently/RB proposed/VBN sentence/NN level/NN evaluation/NN metric/JJ Contrastive/JJ Entropy/NN to/TO evaluate/VB our/PRP$ model/NN ./.
+Given/VBN this/DT new/JJ evaluation/NN metric/JJ ,/, we/PRP report/VBP more/JJR than/IN 100/CD percent/NN improvement/NN across/IN distortion/NN levels/NNS over/IN current/JJ state/NN of/IN the/DT art/NN recurrent/JJ neural/JJ network/NN based/VBN language/NN models/NNS ./.

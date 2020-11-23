@@ -1,0 +1,4 @@
+We propose a new method for learning word representations using hierarchical regularization in sparse coding inspired by the linguistic study of word meanings.
+We apply an efficient online and distributed learning method.
+Experiments on various benchmark tasks---word similarity ranking, analogies, sentence completion, and sentiment analysis---demonstrate that the method outperforms or is competitive with state-of-the-art neural network representations.
+Our word representations are available at \url{

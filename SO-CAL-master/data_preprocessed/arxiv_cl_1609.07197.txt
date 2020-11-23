@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT new/JJ evaluation/NN for/IN automatic/JJ solvers/NNS for/IN algebra/NN word/NN problems/NNS ,/, which/WDT can/MD identify/VB reasoning/NN mistakes/NNS that/WDT existing/VBG evaluations/NNS overlook/VBP ./.
+Our/PRP$ proposal/NN is/VBZ to/TO use/VB derivations/NNS for/IN evaluations/NNS ,/, which/WDT reflect/VBP the/DT reasoning/NN process/NN of/IN the/DT solver/NN by/IN explaining/VBG how/WRB the/DT equation/NN system/NN was/VBD constructed/VBN ./.
+We/PRP accomplish/VBP this/DT by/IN developing/VBG an/DT algorithm/NN for/IN checking/VBG the/DT equivalence/NN between/IN two/CD derivations/NNS ,/, and/CC showing/VBG how/WRB derivation/NN annotations/NNS can/MD be/VB semi-automatically/RB added/VBN to/IN existing/VBG datasets/NNS ./.
+To/TO make/VB our/PRP$ experiments/NNS more/RBR comprehensive/JJ ,/, we/PRP also/RB annotated/VBD DRAW/NNP -/HYPH 1K/NNP ,/, a/DT new/JJ dataset/NN of/IN 1000/CD general/JJ algebra/NN word/NN problems/NNS ./.
+In/IN total/JJ ,/, our/PRP$ experiments/NNS span/VBP over/IN 2300/CD algebra/NN word/NN problems/NNS ./.
+We/PRP found/VBD that/IN the/DT annotated/JJ derivation/NN enable/VBP a/DT superior/JJ evaluation/NN of/IN automatic/JJ solvers/NNS than/IN previously/RB used/VBN metrics/NNS ./.

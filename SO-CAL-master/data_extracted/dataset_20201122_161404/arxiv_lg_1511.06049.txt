@@ -1,0 +1,9 @@
+Self-paced learning (SPL) has been attracting increasing attention in machine learning and computer vision.
+Albeit empirically substantiated to be effective, the investigation on its theoretical insight is still a blank.
+It is even unknown that what objective a general SPL regime converges to.
+To this issue, this study attempts to initially provide some new insights under this "heuristic" learning scheme.
+Specifically, we prove that the solving strategy on SPL exactly accords with a majorization minimization algorithm, a well known technique in optimization and machine learning, implemented on a latent objective.
+A more interesting finding is that, the loss function contained in this latent objective has a similar configuration with non-convex regularized penalty, an attractive topic in statistics and machine learning.
+In particular, we show that the previous hard and linear self-paced regularizers are equivalent to the capped norm and minimax concave plus penalties, respectively, both being widely investigated in statistics.
+Such connections between SPL and previous known researches enhance new insightful comprehension on SPL, like convergence and parameter setting rationality.
+The correctness of the proposed theory is substantiated by experimental results on synthetic and UCI data sets.

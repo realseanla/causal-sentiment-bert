@@ -1,0 +1,11 @@
+Many/JJ real/JJ -/HYPH world/NN machine/NN learning/NN applications/NNS involve/VBP several/JJ learning/VBG tasks/NNS which/WDT are/VBP inter-related/JJ ./.
+For/IN example/NN ,/, in/IN healthcare/NN domain/NN ,/, we/PRP need/VBP to/TO learn/VB a/DT predictive/JJ model/NN of/IN a/DT certain/JJ disease/NN for/IN many/JJ hospitals/NNS ./.
+The/DT models/NNS for/IN each/DT hospital/NN may/MD be/VB different/JJ because/IN of/IN the/DT inherent/JJ differences/NNS in/IN the/DT distributions/NNS of/IN the/DT patient/NN populations/NNS ./.
+However/RB ,/, the/DT models/NNS are/VBP also/RB closely/RB related/JJ because/IN of/IN the/DT nature/NN of/IN the/DT learning/NN tasks/NNS modeling/VBG the/DT same/JJ disease/NN ./.
+By/IN simultaneously/RB learning/VBG all/PDT the/DT tasks/NNS ,/, multi-task/VB learning/NN (/-LRB- MTL/NN )/-RRB- paradigm/NN performs/VBZ inductive/JJ knowledge/NN transfer/NN among/IN tasks/NNS to/TO improve/VB the/DT generalization/NN performance/NN ./.
+When/WRB datasets/NNS for/IN the/DT learning/NN tasks/NNS are/VBP stored/VBN at/IN different/JJ locations/NNS ,/, it/PRP may/MD not/RB always/RB be/VB feasible/JJ to/TO transfer/VB the/DT data/NNS to/TO provide/VB a/DT data/NN -/HYPH centralized/VBN computing/NN environment/NN due/IN to/IN various/JJ practical/JJ issues/NNS such/JJ as/IN high/JJ data/NNS volume/NN and/CC privacy/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT principled/JJ MTL/NN framework/NN for/IN distributed/VBN and/CC asynchronous/JJ optimization/NN to/TO address/VB the/DT aforementioned/JJ challenges/NNS ./.
+In/IN our/PRP$ framework/NN ,/, gradient/NN update/NN does/VBZ not/RB wait/VB for/IN collecting/VBG the/DT gradient/NN information/NN from/IN all/PDT the/DT tasks/NNS ./.
+Therefore/RB ,/, the/DT proposed/JJ method/NN is/VBZ very/RB efficient/JJ when/WRB the/DT communication/NN delay/NN is/VBZ too/RB high/JJ for/IN some/DT task/NN nodes/NNS ./.
+We/PRP show/VBP that/IN many/JJ regularized/VBN MTL/NN formulations/NNS can/MD benefit/VB from/IN this/DT framework/NN ,/, including/VBG the/DT low/JJ -/HYPH rank/NN MTL/NN for/IN shared/VBN subspace/NN learning/NN ./.
+Empirical/JJ studies/NNS on/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH world/NN datasets/NNS demonstrate/VBP the/DT efficiency/NN and/CC effectiveness/NN of/IN the/DT proposed/VBN framework/NN ./.

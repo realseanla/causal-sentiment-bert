@@ -1,0 +1,9 @@
+Prominent/JJ applications/NNS of/IN sentiment/NN analysis/NN are/VBP countless/JJ ,/, including/VBG areas/NNS such/JJ as/IN marketing/NN ,/, customer/NN service/NN and/CC communication/NN ./.
+The/DT conventional/JJ bag/NN -/HYPH of/IN -/HYPH words/NNS approach/NN for/IN measuring/VBG sentiment/NN merely/RB counts/VBZ term/NN frequencies/NNS ;/: however/RB ,/, it/PRP neglects/VBZ the/DT position/NN of/IN the/DT terms/NNS within/IN the/DT discourse/NN ./.
+As/IN a/DT remedy/NN ,/, we/PRP thus/RB develop/VBP a/DT discourse/NN -/HYPH aware/JJ method/NN that/WDT builds/VBZ upon/IN the/DT discourse/NN structure/NN of/IN documents/NNS ./.
+For/IN this/DT purpose/NN ,/, we/PRP utilize/VBP rhetorical/JJ structure/NN theory/NN to/IN label/NN (/-LRB- sub/NN -/HYPH )/-RRB- clauses/NNS according/VBG to/IN their/PRP$ hierarchical/JJ relationships/NNS and/CC then/RB assign/VB polarity/NN scores/NNS to/IN individual/JJ leaves/NNS ./.
+To/TO learn/VB from/IN the/DT resulting/VBG rhetoric/NN structure/NN ,/, we/PRP propose/VBP a/DT tensor/NN -/HYPH based/VBN ,/, tree/NN -/HYPH structured/VBN deep/JJ neural/JJ network/NN (/-LRB- named/VBN RST/NN -/HYPH LSTM/NN )/-RRB- in/IN order/NN to/TO process/VB the/DT complete/JJ discourse/NN tree/NN ./.
+The/DT underlying/JJ attention/NN mechanism/NN infers/VBZ the/DT salient/JJ passages/NNS of/IN narrative/NN materials/NNS ./.
+In/IN addition/NN ,/, we/PRP suggest/VBP two/CD algorithms/NNS for/IN data/NNS augmentation/NN (/-LRB- node/NN reordering/NN and/CC artificial/JJ leaf/NN insertion/NN )/-RRB- that/WDT increase/VBP our/PRP$ training/NN set/NN and/CC reduce/VB overfitting/NN ./.
+Our/PRP$ benchmarks/NNS demonstrate/VBP the/DT superior/JJ performance/NN of/IN our/PRP$ approach/NN ./.
+Ultimately/RB ,/, this/DT work/NN advances/VBZ the/DT status/NN quo/NN in/IN natural/JJ language/NN processing/NN by/IN developing/VBG algorithms/NNS that/WDT incorporate/VBP semantic/JJ information/NN ./.

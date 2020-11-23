@@ -1,0 +1,8 @@
+Spoofing/VBG detection/NN for/IN automatic/JJ speaker/NN verification/NN (/-LRB- ASV/NN )/-RRB- ,/, which/WDT is/VBZ to/TO discriminate/VB between/IN live/JJ speech/NN and/CC attacks/NNS ,/, has/VBZ received/VBN increasing/VBG attentions/NNS recently/RB ./.
+However/RB ,/, all/PDT the/DT previous/JJ studies/NNS have/VBP been/VBN done/VBN on/IN the/DT clean/JJ data/NNS without/IN significant/JJ additive/JJ noise/NN ./.
+To/TO simulate/VB the/DT real/JJ -/HYPH life/NN scenarios/NNS ,/, we/PRP perform/VBP a/DT preliminary/JJ investigation/NN of/IN spoofing/NN detection/NN under/IN additive/JJ noisy/JJ conditions/NNS ,/, and/CC also/RB describe/VB an/DT initial/JJ database/NN for/IN this/DT task/NN ./.
+The/DT noisy/JJ database/NN is/VBZ based/VBN on/IN the/DT ASVspoof/NN challenge/NN 2015/CD database/NN and/CC generated/VBN by/IN artificially/RB adding/VBG background/NN noises/NNS at/IN different/JJ signal/NN -/HYPH to/IN -/HYPH noise/NN ratios/NNS (/-LRB- SNRs/NNS )/-RRB- ./.
+Five/CD different/JJ additive/JJ noises/NNS are/VBP included/VBN ./.
+Our/PRP$ preliminary/JJ results/NNS show/VBP that/IN using/VBG the/DT model/NN trained/VBN from/IN clean/JJ data/NNS ,/, the/DT system/NN performance/NN degrades/VBZ significantly/RB in/IN noisy/JJ conditions/NNS ./.
+Phase/NN -/HYPH based/VBN feature/NN is/VBZ more/JJR noise/NN robust/JJ than/IN magnitude/NN -/HYPH based/VBN features/NNS ./.
+And/CC the/DT systems/NNS perform/VBP significantly/RB differ/VB under/IN different/JJ noise/NN scenarios/NNS ./.

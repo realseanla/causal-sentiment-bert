@@ -1,0 +1,6 @@
+The/DT problem/NN of/IN learning/VBG the/DT structure/NN of/IN Bayesian/JJ networks/NNS from/IN complete/JJ discrete/JJ data/NNS with/IN a/DT limit/NN on/IN parent/NN set/VBN size/NN is/VBZ considered/VBN ./.
+Learning/NN is/VBZ cast/VBN explicitly/RB as/IN an/DT optimisation/NN problem/NN where/WRB the/DT goal/NN is/VBZ to/TO find/VB a/DT BN/NN structure/NN which/WDT maximises/VBZ log/NN marginal/JJ likelihood/NN (/-LRB- BDe/NN score/NN )/-RRB- ./.
+Integer/NN programming/NN ,/, specifically/RB the/DT SCIP/NN framework/NN ,/, is/VBZ used/VBN to/TO solve/VB this/DT optimisation/NN problem/NN ./.
+Acyclicity/NN constraints/NNS are/VBP added/VBN to/IN the/DT integer/NN program/NN (/-LRB- IP/NN )/-RRB- during/IN solving/VBG in/IN the/DT form/NN of/IN cutting/VBG planes/NNS ./.
+Finding/VBG good/JJ cutting/NN planes/NNS is/VBZ the/DT key/NN to/IN the/DT success/NN of/IN the/DT approach/NN -/, the/DT search/NN for/IN such/JJ cutting/NN planes/NNS is/VBZ effected/VBN using/VBG a/DT sub-IP/NN ./.
+Results/NNS show/VBP that/IN this/DT is/VBZ a/DT particularly/RB fast/JJ method/NN for/IN exact/JJ BN/NN learning/NN ./.

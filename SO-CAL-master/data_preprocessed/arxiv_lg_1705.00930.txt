@@ -1,0 +1,13 @@
+Impressive/JJ image/NN captioning/NN results/NNS are/VBP achieved/VBN in/IN domains/NNS with/IN plenty/NN of/IN training/NN image/NN and/CC sentence/NN pairs/NNS (/-LRB- e.g./FW ,/, MSCOCO/NN )/-RRB- ./.
+However/RB ,/, transferring/VBG to/IN a/DT target/NN domain/NN with/IN significant/JJ domain/NN shifts/NNS but/CC no/DT paired/JJ training/NN data/NNS (/-LRB- referred/VBN to/IN as/IN cross-domain/JJ image/NN captioning/NN )/-RRB- remains/VBZ largely/RB unexplored/JJ ./.
+We/PRP propose/VBP a/DT novel/JJ adversarial/JJ training/NN procedure/NN to/IN leverage/NN unpaired/JJ data/NNS in/IN the/DT target/NN domain/NN ./.
+Two/CD critic/NN networks/NNS are/VBP introduced/VBN to/TO guide/VB the/DT captioner/NN ,/, namely/RB domain/NN critic/NN and/CC multi-modal/JJ critic/NN ./.
+The/DT domain/NN critic/NN assesses/VBZ whether/IN the/DT generated/VBN sentences/NNS are/VBP indistinguishable/JJ from/IN sentences/NNS in/IN the/DT target/NN domain/NN ./.
+The/DT multi-modal/JJ critic/NN assesses/VBZ whether/IN an/DT image/NN and/CC its/PRP$ generated/VBN sentence/NN are/VBP a/DT valid/JJ pair/NN ./.
+During/IN training/NN ,/, the/DT critics/NNS and/CC captioner/NN act/NN as/IN adversaries/NNS --/: captioner/NN aims/VBZ to/TO generate/VB indistinguishable/JJ sentences/NNS ,/, whereas/IN critics/NNS aim/VBP at/IN distinguishing/VBG them/PRP ./.
+The/DT assessment/NN improves/VBZ the/DT captioner/NN through/IN policy/NN gradient/NN updates/NNS ./.
+During/IN inference/NN ,/, we/PRP further/RB propose/VB a/DT novel/JJ critic/NN -/HYPH based/VBN planning/NN method/NN to/TO select/VB high/JJ -/HYPH quality/NN sentences/NNS without/IN additional/JJ supervision/NN (/-LRB- e.g./FW ,/, tags/NNS )/-RRB- ./.
+To/TO evaluate/VB ,/, we/PRP use/VBP MSCOCO/NNP as/IN the/DT source/NN domain/NN and/CC four/CD other/JJ datasets/NNS (/-LRB- CUB/NN -200-2011/NN ,/, Oxford/NNP -/HYPH 102/CD ,/, TGIF/NNP ,/, and/CC Flickr30k/NN )/-RRB- as/IN the/DT target/NN domains/NNS ./.
+Our/PRP$ method/NN consistently/RB performs/VBZ well/RB on/IN all/DT datasets/NNS ./.
+In/IN particular/JJ ,/, on/IN CUB/NNP -200-2011/NN ,/, we/PRP achieve/VBP 21.8/CD percent/NN CIDEr/NN -/HYPH D/NN improvement/NN after/IN adaptation/NN ./.
+Utilizing/VBG critics/NNS during/IN inference/NN further/RB gives/VBZ another/DT 4.5/CD percent/NN boost/NN ./.

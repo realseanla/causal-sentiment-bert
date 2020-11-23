@@ -1,0 +1,7 @@
+This/DT research/NN introduces/VBZ a/DT new/JJ constraint/NN domain/NN for/IN reasoning/NN about/IN data/NNS with/IN uncertainty/NN ./.
+It/PRP extends/VBZ convex/JJ modeling/NN with/IN the/DT notion/NN of/IN p/NN -/HYPH box/NN to/TO gain/VB additional/JJ quantifiable/JJ information/NN on/IN the/DT data/NNS whereabouts/NN ./.
+Unlike/IN existing/VBG approaches/NNS ,/, the/DT p/NN -/HYPH box/NN envelops/VBZ an/DT unknown/JJ probability/NN instead/RB of/IN approximating/VBG its/PRP$ representation/NN ./.
+The/DT p/NN -/HYPH box/NN bounds/NNS are/VBP uniform/JJ cumulative/JJ distribution/NN functions/NNS (/-LRB- cdf/NN )/-RRB- in/IN order/NN to/TO employ/VB linear/JJ computations/NNS in/IN the/DT probabilistic/JJ domain/NN ./.
+The/DT reasoning/NN by/IN means/NNS of/IN p/NN -/HYPH box/NN cdf/NN -/HYPH intervals/NNS is/VBZ an/DT interval/NN computation/NN which/WDT is/VBZ exerted/VBN on/IN the/DT real/JJ domain/NN then/RB it/PRP is/VBZ projected/VBN onto/IN the/DT cdf/NN domain/NN ./.
+This/DT operation/NN conveys/VBZ additional/JJ knowledge/NN represented/VBN by/IN the/DT obtained/VBN probabilistic/JJ bounds/NNS ./.
+Empirical/JJ evaluation/NN shows/VBZ that/IN ,/, with/IN minimal/JJ overhead/NN ,/, the/DT output/NN solution/NN set/VBN realizes/VBZ a/DT full/JJ enclosure/NN of/IN the/DT data/NNS along/IN with/IN tighter/JJR bounds/NNS on/IN its/PRP$ probabilistic/JJ distributions/NNS ./.

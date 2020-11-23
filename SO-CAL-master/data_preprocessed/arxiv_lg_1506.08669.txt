@@ -1,0 +1,5 @@
+We/PRP develop/VBP a/DT new/JJ active/JJ learning/NN algorithm/NN for/IN the/DT streaming/NN setting/VBG satisfying/VBG three/CD important/JJ properties/NNS :/: 1/LS )/-RRB- It/PRP provably/RB works/VBZ for/IN any/DT classifier/NN representation/NN and/CC classification/NN problem/NN including/VBG those/DT with/IN severe/JJ noise/NN ./.
+2/LS )/-RRB- It/PRP is/VBZ efficiently/RB implementable/JJ with/IN an/DT ERM/NNP oracle/NN ./.
+3/LS )/-RRB- It/PRP is/VBZ more/RBR aggressive/JJ than/IN all/DT previous/JJ approaches/NNS satisfying/VBG 1/CD and/CC 2/CD ./.
+To/TO do/VB this/DT we/PRP create/VBP an/DT algorithm/NN based/VBN on/IN a/DT newly/RB defined/VBN optimization/NN problem/NN and/CC analyze/VB it/PRP ./.
+We/PRP also/RB conduct/VBP the/DT first/JJ experimental/JJ analysis/NN of/IN all/DT efficient/JJ agnostic/JJ active/JJ learning/NN algorithms/NNS ,/, discovering/VBG that/IN this/DT one/NN is/VBZ typically/RB better/JJR across/IN a/DT wide/JJ variety/NN of/IN datasets/NNS and/CC label/NN complexities/NNS ./.

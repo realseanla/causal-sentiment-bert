@@ -1,0 +1,5 @@
+We propose an effective technique to solving review-level sentiment classification problem by using sentence-level polarity correction.
+Our polarity correction technique takes into account the consistency of the polarities (positive and negative) of sentences within each product review before performing the actual machine learning task.
+While sentences with inconsistent polarities are removed, sentences with consistent polarities are used to learn state-of-the-art classifiers.
+The technique achieved better results on different types of products reviews and outperforms baseline models without the correction technique.
+Experimental results show an average of 82 percent F-measure on four different product review domains.

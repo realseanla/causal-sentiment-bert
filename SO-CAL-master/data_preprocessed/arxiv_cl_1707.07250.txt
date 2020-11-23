@@ -1,0 +1,5 @@
+Multimodal/JJ sentiment/NN analysis/NN is/VBZ an/DT increasingly/RB popular/JJ research/NN area/NN ,/, which/WDT extends/VBZ the/DT conventional/JJ language/NN -/HYPH based/VBN definition/NN of/IN sentiment/NN analysis/NN to/IN a/DT multimodal/JJ setup/NN where/WRB other/JJ relevant/JJ modalities/NNS accompany/VBP language/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP pose/VBP the/DT problem/NN of/IN multimodal/JJ sentiment/NN analysis/NN as/IN modeling/NN intra-modality/NN and/CC inter-modality/NN dynamics/NNS ./.
+We/PRP introduce/VBP a/DT novel/JJ model/NN ,/, termed/VBN Tensor/NNP Fusion/NNP Network/NNP ,/, which/WDT learns/VBZ both/CC such/JJ dynamics/NNS end/NN -/HYPH to/IN -/HYPH end/NN ./.
+The/DT proposed/VBN approach/NN is/VBZ tailored/VBN for/IN the/DT volatile/JJ nature/NN of/IN spoken/VBN language/NN in/IN online/JJ videos/NNS as/RB well/RB as/IN accompanying/VBG gestures/NNS and/CC voice/NN ./.
+In/IN the/DT experiments/NNS ,/, our/PRP$ model/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS for/IN both/DT multimodal/JJ and/CC unimodal/JJ sentiment/NN analysis/NN ./.

@@ -1,0 +1,8 @@
+Hierarchical/JJ Reinforcement/NN Learning/NN has/VBZ been/VBN previously/RB shown/VBN to/TO speed/VB up/RP the/DT convergence/NN rate/NN of/IN RL/NNP planning/VBG algorithms/NNS as/RB well/RB as/IN mitigate/VB feature/NN -/HYPH based/VBN model/NN misspecification/NN (/-LRB- Mankowitz/NNP et/NNP ./.
+al./FW 2016a/FW ,/, b/NN ,/, Bacon/NNP 2015/CD )/-RRB- ./.
+To/TO do/VB so/RB ,/, it/PRP utilizes/VBZ hierarchical/JJ abstractions/NNS ,/, also/RB known/VBN as/IN skills/NNS --/: a/DT type/NN of/IN temporally/RB extended/VBN action/NN (/-LRB- Sutton/NNP et/NNP ./.
+al./FW 1999/CD )/-RRB- to/TO plan/VB at/IN a/DT higher/JJR level/NN ,/, abstracting/VBG away/RB from/IN the/DT lower/JJR -/HYPH level/NN details/NNS ./.
+We/PRP incorporate/VBP risk/NN sensitivity/NN ,/, also/RB referred/VBD to/IN as/IN Situational/JJ Awareness/NN (/-LRB- SA/NNP )/-RRB- ,/, into/IN hierarchical/JJ RL/NN for/IN the/DT first/JJ time/NN by/IN defining/VBG and/CC learning/VBG risk/NN aware/JJ skills/NNS in/IN a/DT Probabilistic/JJ Goal/NN Semi-Markov/NNP Decision/NN Process/NN (/-LRB- PG/NN -/HYPH SMDP/NN )/-RRB- ./.
+This/DT is/VBZ achieved/VBN using/VBG our/PRP$ novel/JJ Situational/JJ Awareness/NN by/IN Risk/NN -/HYPH Conscious/JJ Skills/NNS (/-LRB- SARiCoS/NNP )/-RRB- algorithm/NN which/WDT comes/VBZ with/IN a/DT theoretical/JJ convergence/NN guarantee/NN ./.
+We/PRP show/VBP in/IN a/DT RoboCup/NNP soccer/NN domain/NN that/WDT the/DT learned/VBN risk/NN aware/JJ skills/NNS exhibit/VBP complex/JJ human/JJ behaviors/NNS such/JJ as/IN `/`` time/NN -/HYPH wasting/VBG '/'' in/IN a/DT soccer/NN game/NN ./.
+In/IN addition/NN ,/, the/DT learned/VBN risk/NN aware/JJ skills/NNS are/VBP able/JJ to/TO mitigate/VB reward/NN -/HYPH based/VBN model/NN misspecification/NN ./.

@@ -1,0 +1,12 @@
+The/DT ubiquity/NN of/IN sequences/NNS in/IN many/JJ domains/NNS enhances/VBZ significant/JJ recent/JJ interest/NN in/IN sequence/NN learning/NN ,/, for/IN which/WDT a/DT basic/JJ problem/NN is/VBZ how/WRB to/TO measure/VB the/DT distance/NN between/IN sequences/NNS ./.
+Dynamic/JJ time/NN warping/NN (/-LRB- DTW/NN )/-RRB- aligns/VBZ two/CD sequences/NNS by/IN nonlinear/JJ local/JJ warping/NN and/CC returns/VBZ a/DT distance/NN value/NN ./.
+DTW/NN shows/VBZ superior/JJ ability/NN in/IN many/JJ applications/NNS ,/, e.g./FW video/NN ,/, image/NN ,/, etc/FW ./.
+However/RB ,/, in/IN DTW/NNP ,/, two/CD points/NNS are/VBP paired/VBN essentially/RB based/VBN on/IN point/NN -/HYPH to/IN -/HYPH point/NN Euclidean/JJ distance/NN (/-LRB- ED/NN )/-RRB- without/IN considering/VBG the/DT autocorrelation/NN of/IN sequences/NNS ./.
+Thus/RB ,/, points/NNS with/IN different/JJ semantic/JJ meanings/NNS ,/, e.g./FW peaks/NNS and/CC valleys/NNS ,/, may/MD be/VB matched/VBN providing/VBG their/PRP$ coordinate/NN values/NNS are/VBP similar/JJ ./.
+As/IN a/DT result/NN ,/, DTW/NN is/VBZ sensitive/JJ to/IN noise/NN and/CC poorly/RB interpretable/JJ ./.
+This/DT paper/NN proposes/VBZ an/DT efficient/JJ and/CC flexible/JJ sequence/NN alignment/NN algorithm/NN ,/, dynamic/JJ state/NN warping/NN (/-LRB- DSW/NNP )/-RRB- ./.
+DSW/NNP converts/VBZ each/DT time/NN point/NN into/IN a/DT latent/JJ state/NN ,/, which/WDT endows/VBZ point-wise/JJ autocorrelation/NN information/NN ./.
+Alignment/NN is/VBZ performed/VBN by/IN using/VBG the/DT state/NN sequences/NNS ./.
+Thus/RB DSW/NNP is/VBZ able/JJ to/TO yield/VB alignment/NN that/WDT is/VBZ semantically/RB more/RBR interpretable/JJ than/IN that/DT of/IN DTW/NNP ./.
+Using/VBG one/CD nearest/JJS neighbor/NN classifier/NN ,/, DSW/NN shows/VBZ significant/JJ improvement/NN on/IN classification/NN accuracy/NN in/IN comparison/NN to/IN ED/NN (/-LRB- 70/85/CD wins/NNS )/-RRB- and/CC DTW/NN (/-LRB- 74/85/CD wins/NNS )/-RRB- ./.
+We/PRP also/RB empirically/RB demonstrate/VBP that/IN DSW/NNP is/VBZ more/RBR robust/JJ and/CC scales/VBZ better/JJR to/IN long/JJ sequences/NNS than/IN ED/NN and/CC DTW/NN ./.

@@ -1,0 +1,8 @@
+Learning/VBG from/IN demonstrations/NNS has/VBZ gained/VBN increasing/VBG interest/NN in/IN the/DT recent/JJ past/NN ,/, enabling/VBG an/DT agent/NN to/TO learn/VB how/WRB to/TO make/VB decisions/NNS by/IN observing/VBG an/DT experienced/JJ teacher/NN ./.
+While/IN many/JJ approaches/NNS have/VBP been/VBN proposed/VBN to/TO solve/VB this/DT problem/NN ,/, there/EX is/VBZ only/RB little/JJ work/NN that/WDT focuses/VBZ on/IN reasoning/NN about/IN the/DT observed/VBN behavior/NN ./.
+We/PRP assume/VBP that/IN ,/, in/IN many/JJ practical/JJ problems/NNS ,/, an/DT agent/NN makes/VBZ its/PRP$ decision/NN based/VBN on/IN latent/JJ features/NNS ,/, indicating/VBG a/DT certain/JJ action/NN ./.
+Therefore/RB ,/, we/PRP propose/VBP a/DT generative/JJ model/NN for/IN the/DT states/NNS and/CC actions/NNS ./.
+Inference/NN reveals/VBZ the/DT number/NN of/IN features/NNS ,/, the/DT features/NNS ,/, and/CC the/DT policies/NNS ,/, allowing/VBG us/PRP to/TO learn/VB and/CC to/TO analyze/VB the/DT underlying/JJ structure/NN of/IN the/DT observed/VBN behavior/NN ./.
+Further/RB ,/, our/PRP$ approach/NN enables/VBZ prediction/NN of/IN actions/NNS for/IN new/JJ states/NNS ./.
+Simulations/NNS are/VBP used/VBN to/TO assess/VB the/DT performance/NN of/IN the/DT algorithm/NN based/VBN upon/IN this/DT model/NN ./.
+Moreover/RB ,/, the/DT problem/NN of/IN learning/VBG a/DT driver/NN 's/POS behavior/NN is/VBZ investigated/VBN ,/, demonstrating/VBG the/DT performance/NN of/IN the/DT proposed/VBN model/NN in/IN a/DT real/JJ -/HYPH world/NN scenario/NN ./.

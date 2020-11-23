@@ -1,0 +1,7 @@
+Restricted/VBN Boltzmann/JJ machines/NNS (/-LRB- RBM/NNP )/-RRB- and/CC its/PRP$ variants/NNS have/VBP become/VBN hot/JJ research/NN topics/NNS recently/RB ,/, and/CC widely/RB applied/VBN to/IN many/JJ classification/NN problems/NNS ,/, such/JJ as/IN character/NN recognition/NN and/CC document/NN categorization/NN ./.
+Often/RB ,/, classification/NN RBM/NNP ignores/VBZ the/DT interclass/NN relationship/NN or/CC prior/JJ knowledge/NN of/IN sharing/VBG information/NN among/IN classes/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP are/VBP interested/JJ in/IN RBM/NNP with/IN the/DT hierarchical/JJ prior/JJ over/IN classes/NNS ./.
+We/PRP assume/VBP parameters/NNS for/IN nearby/JJ nodes/NNS are/VBP correlated/VBN in/IN the/DT hierarchical/JJ tree/NN ,/, and/CC further/RB the/DT parameters/NNS at/IN each/DT node/NN of/IN the/DT tree/NN be/VB orthogonal/JJ to/IN those/DT at/IN its/PRP$ ancestors/NNS ./.
+We/PRP propose/VBP a/DT hierarchical/JJ correlated/VBN RBM/NNP for/IN classification/NN problem/NN ,/, which/WDT generalizes/VBZ the/DT classification/NN RBM/NNP with/IN sharing/VBG information/NN among/IN different/JJ classes/NNS ./.
+In/IN order/NN to/TO reduce/VB the/DT redundancy/NN between/IN node/NN parameters/NNS in/IN the/DT hierarchy/NN ,/, we/PRP also/RB introduce/VBP orthogonal/JJ restrictions/NNS to/IN our/PRP$ objective/JJ function/NN ./.
+We/PRP test/VBP our/PRP$ method/NN on/IN challenge/NN datasets/NNS ,/, and/CC show/VBP promising/JJ results/NNS compared/VBN to/IN competitive/JJ baselines/NNS ./.

@@ -1,0 +1,7 @@
+We/PRP present/VBP a/DT novel/JJ approach/NN to/IN deformable/JJ object/NN manipulation/NN that/WDT does/VBZ not/RB rely/VB on/IN highly/RB -/HYPH accurate/JJ modeling/NN ./.
+The/DT key/JJ contribution/NN of/IN this/DT paper/NN is/VBZ to/TO formulate/VB the/DT task/NN as/IN a/DT Multi-Armed/JJ Bandit/NN problem/NN ,/, with/IN each/DT arm/NN representing/VBG a/DT model/NN of/IN the/DT deformable/JJ object/NN ./.
+To/TO "/`` pull/VB "/'' an/DT arm/NN and/CC evaluate/VB its/PRP$ utility/NN ,/, we/PRP use/VBP the/DT arm/NN 's/POS model/NN to/TO generate/VB a/DT velocity/NN command/NN for/IN the/DT gripper/NN (/-LRB- s/AFX )/-RRB- holding/VBG the/DT object/NN and/CC execute/VB it/PRP ./.
+As/IN the/DT task/NN proceeds/NNS and/CC the/DT object/NN deforms/VBZ ,/, the/DT utility/NN of/IN each/DT model/NN can/MD change/VB ./.
+Our/PRP$ framework/NN estimates/VBZ these/DT changes/NNS and/CC balances/NNS exploration/NN of/IN the/DT model/NN set/VBN with/IN exploitation/NN of/IN high/JJ -/HYPH utility/NN models/NNS ./.
+We/PRP also/RB propose/VBP an/DT approach/NN based/VBN on/IN Kalman/NNP Filtering/NNP for/IN Non-stationary/JJ Multi-armed/JJ Normal/JJ Bandits/NNPS (/-LRB- KF/NN -/HYPH MANB/NN )/-RRB- to/IN leverage/NN the/DT coupling/NN between/IN models/NNS to/TO learn/VB more/JJR from/IN each/DT arm/NN pull/VBP ./.
+We/PRP demonstrate/VBP that/IN our/PRP$ method/NN outperforms/VBZ previous/JJ methods/NNS on/IN synthetic/JJ trials/NNS ,/, and/CC performs/VBZ competitively/RB on/IN several/JJ manipulation/NN tasks/NNS in/IN simulation/NN ./.

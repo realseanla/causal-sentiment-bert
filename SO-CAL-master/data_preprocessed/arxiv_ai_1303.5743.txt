@@ -1,0 +1,10 @@
+During/IN interactions/NNS with/IN human/JJ consultants/NNS ,/, people/NNS are/VBP used/VBN to/IN providing/VBG partial/JJ and/CC //HYPH or/CC inaccurate/JJ information/NN ,/, and/CC still/RB be/VB understood/VBN and/CC assisted/VBN ./.
+We/PRP attempt/VBP to/TO emulate/VB this/DT capability/NN of/IN human/JJ consultants/NNS ;/: in/IN computer/NN consultation/NN systems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT mechanism/NN for/IN handling/VBG uncertainty/NN in/IN plan/NN recognition/NN during/IN task/NN -/HYPH oriented/VBN consultations/NNS ./.
+The/DT uncertainty/NN arises/VBZ while/IN choosing/VBG an/DT appropriate/JJ interpretation/NN of/IN a/DT user?s/JJ statements/NNS among/IN many/JJ possible/JJ interpretations/NNS ./.
+Our/PRP$ mechanism/NN handles/VBZ this/DT uncertainty/NN by/IN using/VBG probability/NN theory/NN to/TO assess/VB the/DT probabilities/NNS of/IN the/DT interpretations/NNS ,/, and/CC complements/VBZ this/DT assessment/NN by/IN taking/VBG into/IN account/NN the/DT information/NN content/NN of/IN the/DT interpretations/NNS ./.
+The/DT information/NN content/NN of/IN an/DT interpretation/NN is/VBZ a/DT measure/NN of/IN how/WRB well/RB defined/VBN an/DT interpretation/NN is/VBZ in/IN terms/NNS of/IN the/DT actions/NNS to/TO be/VB performed/VBN on/IN the/DT basis/NN of/IN the/DT interpretation/NN ./.
+This/DT measure/NN is/VBZ used/VBN to/TO guide/VB the/DT inference/NN process/NN towards/IN interpretations/NNS with/IN a/DT higher/JJR information/NN content/NN ./.
+The/DT information/NN content/NN for/IN an/DT interpretation/NN depends/VBZ on/IN the/DT specificity/NN and/CC the/DT strength/NN of/IN the/DT inferences/NNS in/IN it/PRP ,/, where/WRB the/DT strength/NN of/IN an/DT inference/NN depends/VBZ on/IN the/DT reliability/NN of/IN the/DT information/NN on/IN which/WDT the/DT inference/NN is/VBZ based/VBN ./.
+Our/PRP$ mechanism/NN has/VBZ been/VBN developed/VBN for/IN use/NN in/IN task/NN -/HYPH oriented/VBN consultation/NN systems/NNS ./.
+The/DT domain/NN that/WDT we/PRP have/VBP chosen/VBN for/IN exploration/NN is/VBZ that/IN of/IN a/DT travel/NN agency/NN ./.

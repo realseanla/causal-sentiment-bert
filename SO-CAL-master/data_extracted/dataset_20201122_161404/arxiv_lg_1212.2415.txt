@@ -1,0 +1,4 @@
+Face recognition systems must be robust to the variation of various factors such as facial expression, illumination, head pose and aging.
+Especially, the robustness against illumination variation is one of the most important problems to be solved for the practical use of face recognition systems.
+Gabor wavelet is widely used in face detection and recognition because it gives the possibility to simulate the function of human visual system.
+In this paper, we propose a method for extracting Gabor wavelet features which is stable under the variation of local illumination and show experiment results demonstrating its effectiveness.

@@ -1,0 +1,3 @@
+We/PRP suggest/VBP a/DT compositional/JJ vector/NN representation/NN of/IN parse/VB trees/NNS that/WDT relies/VBZ on/IN a/DT recursive/JJ combination/NN of/IN recurrent/JJ -/HYPH neural/JJ network/NN encoders/NNS ./.
+To/TO demonstrate/VB its/PRP$ effectiveness/NN ,/, we/PRP use/VBP the/DT representation/NN as/IN the/DT backbone/NN of/IN a/DT greedy/JJ ,/, bottom/JJ -/HYPH up/JJ dependency/NN parser/NN ,/, achieving/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN accuracies/NNS for/IN English/NNP and/CC Chinese/NNP ,/, without/IN relying/VBG on/IN external/JJ word/NN embeddings/NNS ./.
+The/DT parser/NN 's/POS implementation/NN is/VBZ available/JJ for/IN download/NN at/IN the/DT first/JJ author/NN 's/POS webpage/NN ./.

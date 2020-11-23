@@ -1,0 +1,9 @@
+It/PRP is/VBZ common/JJ to/TO view/VB programs/NNS as/IN a/DT combination/NN of/IN logic/NN and/CC control/NN :/: the/DT logic/NN part/NN defines/VBZ what/WP the/DT program/NN must/MD do/VB ,/, the/DT control/NN part/NN --/: how/WRB to/TO do/VB it/PRP ./.
+The/DT Logic/NNP Programming/NNP paradigm/NN was/VBD developed/VBN with/IN the/DT intention/NN of/IN separating/VBG the/DT logic/NN from/IN the/DT control/NN ./.
+Recently/RB ,/, extensive/JJ research/NN has/VBZ been/VBN conducted/VBN on/IN automatic/JJ generation/NN of/IN control/NN for/IN logic/NN programs/NNS ./.
+Only/RB a/DT few/JJ of/IN these/DT works/NNS considered/VBD the/DT issue/NN of/IN automatic/JJ generation/NN of/IN control/NN for/IN improving/VBG the/DT efficiency/NN of/IN logic/NN programs/NNS ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT novel/JJ algorithm/NN for/IN automatic/JJ finding/NN of/IN lowest/JJS -/HYPH cost/NN subgoal/JJ orderings/NNS ./.
+The/DT algorithm/NN works/VBZ using/VBG the/DT divide/NN -/HYPH and/CC -/HYPH conquer/VB strategy/NN ./.
+The/DT given/VBN set/NN of/IN subgoals/NNS is/VBZ partitioned/VBN into/IN smaller/JJR sets/NNS ,/, based/VBN on/IN co-occurrence/NN of/IN free/JJ variables/NNS ./.
+The/DT subsets/NNS are/VBP ordered/VBN recursively/RB and/CC merged/VBD ,/, yielding/VBG a/DT provably/RB optimal/JJ order/NN ./.
+We/PRP experimentally/RB demonstrate/VBP the/DT utility/NN of/IN the/DT algorithm/NN by/IN testing/VBG it/PRP in/IN several/JJ domains/NNS ,/, and/CC discuss/VB the/DT possibilities/NNS of/IN its/PRP$ cooperation/NN with/IN other/JJ existing/VBG methods/NNS ./.

@@ -1,0 +1,10 @@
+IBM models are very popular word alignment models in Machine Translation.
+They play critical roles in the systems of this field.
+These models follow Maximum Likelihood principle to estimate their parameters.
+However, in many case, the models will be too fit the training data that may result in wrong word alignments on testing data.
+Smoothing is a popular solution to the overfitting problem when the causes are rare events.
+While this technique is very common in Language Model which is another problem in Machine Translation, there is still lack of studies for the problem of word alignment.
+reported a study on a simple method of additive smoothing, in which the amount to add is learnt from annotated data.
+This basic technique gives a significant improvement over the unsmoothed version.
+With such a good motivation, in this paper, we propose a more general framework by varying the amount to add rather than adding only a constant amount as the original additive smoothing.
+In term of learning method, we also experience a method to learn the parameter of smoothing from unannotated data with a deep analysis and comparision between different learning methods.

@@ -1,0 +1,4 @@
+As/IN alignment/NN links/NNS are/VBP not/RB given/VBN between/IN English/NNP sentences/NNS and/CC Abstract/NNP Meaning/VBG Representation/NN (/-LRB- AMR/NNP )/-RRB- graphs/NNS in/IN the/DT AMR/NNP annotation/NN ,/, automatic/JJ alignment/NN becomes/VBZ indispensable/JJ for/IN training/VBG an/DT AMR/NNP parser/NN ./.
+Previous/JJ studies/NNS formalize/VB it/PRP as/IN a/DT string/NN -/HYPH to/IN -/HYPH string/NN problem/NN ,/, and/CC solve/VB it/PRP in/IN an/DT unsupervised/JJ way/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP formalize/VBP it/PRP as/IN a/DT syntax/NN -/HYPH based/VBN alignment/NN problem/NN ,/, and/CC solve/VB it/PRP in/IN a/DT supervised/JJ manner/NN based/VBN on/IN the/DT syntax/NN trees/NNS ./.
+Experiments/NNS verify/VBP the/DT effectiveness/NN of/IN the/DT proposed/JJ method/NN ./.

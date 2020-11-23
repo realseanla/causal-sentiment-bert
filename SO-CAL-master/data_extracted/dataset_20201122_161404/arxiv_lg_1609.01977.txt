@@ -1,0 +1,11 @@
+Recently, Stochastic Neighbor Embedding (SNE) methods have widely been applied in data visualization.
+These methods minimize the divergence between the pairwise similarities of high- and low-dimensional data.
+Despite their popularity, the current SNE methods experience the "crowding problem" when the data include highly imbalanced similarities.
+This implies that the data points with higher total similarity tend to get crowded around the display center.
+To solve this problem, we normalize the similarity matrix to be doubly stochastic such that all the data points have equal total similarities.
+A fast normalization method is proposed.
+Furthermore, we show empirically and theoretically that the doubly stochasticity constraint often leads to approximately spherical embeddings.
+This suggests replacing a flat space with spheres as the embedding space.
+The spherical embedding eliminates the discrepancy between the center and the periphery in visualization and thus resolves the "crowding problem".
+We compared the proposed method with the state-of-the-art SNE method on three real-world datasets.
+The results indicate that our method is more favorable in terms of visualization quality.

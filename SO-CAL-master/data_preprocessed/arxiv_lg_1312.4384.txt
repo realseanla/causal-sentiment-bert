@@ -1,0 +1,8 @@
+We/PRP attack/VBP the/DT problem/NN of/IN learning/VBG concepts/NNS automatically/RB from/IN noisy/JJ web/NN image/NN search/NN results/NNS ./.
+Going/VBG beyond/IN low/JJ level/NN attributes/NNS ,/, such/JJ as/IN colour/NN and/CC texture/NN ,/, we/PRP explore/VBP weakly/RB -/HYPH labelled/VBN datasets/NNS for/IN the/DT learning/NN of/IN higher/JJR level/NN concepts/NNS ,/, such/JJ as/IN scene/NN categories/NNS ./.
+The/DT idea/NN is/VBZ based/VBN on/IN discovering/VBG common/JJ characteristics/NNS shared/VBN among/IN subsets/NNS of/IN images/NNS by/IN posing/VBG a/DT method/NN that/WDT is/VBZ able/JJ to/TO organise/VB the/DT data/NNS while/IN eliminating/VBG irrelevant/JJ instances/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ clustering/NN and/CC outlier/NN detection/NN method/NN ,/, namely/RB Rectifying/VBG Self/NNP Organizing/NNP Maps/NNPS (/-LRB- RSOM/NNP )/-RRB- ./.
+Given/VBN an/DT image/NN collection/NN returned/VBD for/IN a/DT concept/NN query/NN ,/, RSOM/NN provides/VBZ clusters/NNS pruned/VBN from/IN outliers/NNS ./.
+Each/DT cluster/NN is/VBZ used/VBN to/TO train/VB a/DT model/NN representing/VBG a/DT different/JJ characteristics/NNS of/IN the/DT concept/NN ./.
+The/DT proposed/JJ method/NN outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN studies/NNS on/IN the/DT task/NN of/IN learning/VBG low/JJ -/HYPH level/NN concepts/NNS ,/, and/CC it/PRP is/VBZ competitive/JJ in/IN learning/VBG higher/JJR level/NN concepts/NNS as/RB well/RB ./.
+It/PRP is/VBZ capable/JJ to/TO work/VB at/IN large/JJ scale/NN with/IN no/DT supervision/NN through/IN exploiting/VBG the/DT available/JJ sources/NNS ./.

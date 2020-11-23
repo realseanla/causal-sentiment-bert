@@ -1,0 +1,5 @@
+We/PRP present/VBP an/DT image/NN -/HYPH conditional/JJ image/NN generation/NN model/NN ./.
+The/DT model/NN transfers/VBZ an/DT input/NN domain/NN to/IN a/DT target/NN domain/NN in/IN semantic/JJ level/NN ,/, and/CC generates/VBZ the/DT target/NN image/NN in/IN pixel/NN level/NN ./.
+To/TO generate/VB realistic/JJ target/NN images/NNS ,/, we/PRP employ/VBP the/DT real/JJ //HYPH fake/JJ -/HYPH discriminator/NN in/IN Generative/NNP Adversarial/NNP Nets/NNPS ,/, but/CC also/RB introduce/VB a/DT novel/JJ domain/NN -/HYPH discriminator/NN to/TO make/VB the/DT generated/VBN image/NN relevant/JJ to/IN the/DT input/NN image/NN ./.
+We/PRP verify/VBP our/PRP$ model/NN through/IN a/DT challenging/JJ task/NN of/IN generating/VBG a/DT piece/NN of/IN clothing/NN from/IN an/DT input/NN image/NN of/IN a/DT dressed/JJ person/NN ./.
+We/PRP present/VBP a/DT high/JJ quality/NN clothing/NN dataset/NN containing/VBG the/DT two/CD domains/NNS ,/, and/CC succeed/VB in/IN demonstrating/VBG decent/JJ results/NNS ./.

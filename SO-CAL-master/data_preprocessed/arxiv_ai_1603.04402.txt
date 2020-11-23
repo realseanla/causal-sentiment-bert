@@ -1,0 +1,8 @@
+Very/RB large/JJ commonsense/JJ knowledge/NN bases/NNS (/-LRB- KBs/NNS )/-RRB- often/RB have/VBP thousands/NNS to/IN millions/NNS of/IN axioms/NNS ,/, of/IN which/WDT relatively/RB few/JJ are/VBP relevant/JJ for/IN answering/VBG any/DT given/VBN query/NN ./.
+A/DT large/JJ number/NN of/IN irrelevant/JJ axioms/NNS can/MD easily/RB overwhelm/VB resolution/NN -/HYPH based/VBN theorem/NN provers/NNS ./.
+Therefore/RB ,/, methods/NNS that/WDT help/VBP the/DT reasoner/NN identify/VB useful/JJ inference/NN paths/NNS form/VBP an/DT essential/JJ part/NN of/IN large/JJ -/HYPH scale/NN reasoning/NN systems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP two/CD ordering/VBG heuristics/NNS for/IN optimization/NN of/IN reasoning/NN in/IN such/JJ systems/NNS ./.
+First/RB ,/, we/PRP discuss/VBP how/WRB decision/NN trees/NNS can/MD be/VB used/VBN to/TO select/VB inference/NN steps/NNS that/WDT are/VBP more/RBR likely/JJ to/TO succeed/VB ./.
+Second/RB ,/, we/PRP identify/VBP a/DT small/JJ set/NN of/IN problem/NN instance/NN features/NNS that/WDT suffice/VBP to/TO guide/VB searches/NNS away/RB from/IN intractable/JJ regions/NNS of/IN the/DT search/NN space/NN ./.
+We/PRP show/VBP the/DT efficacy/NN of/IN these/DT techniques/NNS via/IN experiments/NNS on/IN thousands/NNS of/IN queries/NNS from/IN the/DT Cyc/NNP KB/NNP ./.
+Results/NNS show/VBP that/IN these/DT methods/NNS lead/VBP to/IN an/DT order/NN of/IN magnitude/NN reduction/NN in/IN inference/NN time/NN ./.

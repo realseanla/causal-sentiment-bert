@@ -1,0 +1,9 @@
+Implementing/VBG an/DT accurate/JJ and/CC fast/JJ activation/NN function/NN with/IN low/JJ cost/NN is/VBZ a/DT crucial/JJ aspect/NN to/IN the/DT implementation/NN of/IN Deep/JJ Neural/JJ Networks/NNS (/-LRB- DNNs/NNS )/-RRB- on/IN FPGAs/NNS ./.
+We/PRP propose/VBP a/DT high/JJ -/HYPH accuracy/NN approximation/NN approach/NN for/IN the/DT hyperbolic/JJ tangent/NN activation/NN function/NN of/IN artificial/JJ neurons/NNS in/IN DNNs/NNS ./.
+It/PRP is/VBZ based/VBN on/IN the/DT Discrete/NNP Cosine/NNP Transform/VB Interpolation/NNP Filter/NNP (/-LRB- DCTIF/NNP )/-RRB- ./.
+The/DT proposed/VBN architecture/NN combines/VBZ simple/JJ arithmetic/NN operations/NNS on/IN stored/VBN samples/NNS of/IN the/DT hyperbolic/JJ tangent/NN function/NN and/CC on/IN input/NN data/NNS ./.
+The/DT proposed/VBN DCTIF/NNP implementation/NN achieves/VBZ two/CD orders/NNS of/IN magnitude/NN greater/JJR precision/NN than/IN previous/JJ work/NN while/IN using/VBG the/DT same/JJ or/CC fewer/JJR computational/JJ resources/NNS ./.
+Various/JJ combinations/NNS of/IN DCTIF/NNP parameters/NNS can/MD be/VB chosen/VBN to/IN tradeoff/NN the/DT accuracy/NN and/CC complexity/NN of/IN the/DT hyperbolic/JJ tangent/NN function/NN ./.
+In/IN one/CD case/NN ,/, the/DT proposed/VBN architecture/NN approximates/VBZ the/DT hyperbolic/JJ tangent/NN activation/NN function/NN with/IN 10E/NN -/HYPH 5/CD maximum/JJ error/NN while/IN requiring/VBG only/RB 1.52/CD Kbits/NNS memory/NN and/CC 57/CD LUTs/NNS of/IN a/DT Virtex/NN -/HYPH 7/CD FPGA/NNP ./.
+We/PRP also/RB discuss/VBP how/WRB the/DT activation/NN function/NN accuracy/NN affects/VBZ the/DT performance/NN of/IN DNNs/NNS in/IN terms/NNS of/IN their/PRP$ training/NN and/CC testing/NN accuracies/NNS ./.
+We/PRP show/VBP that/IN a/DT high/JJ accuracy/NN approximation/NN can/MD be/VB necessary/JJ in/IN order/NN to/TO maintain/VB the/DT same/JJ DNN/NN training/NN and/CC testing/NN performances/NNS realized/VBN by/IN the/DT exact/JJ function/NN ./.

@@ -1,0 +1,4 @@
+The advent of the Big Data hype and the consistent recollection of event logs and real-time data from sensors, monitoring software and machine configuration has generated a huge amount of time-varying data in about every sector of the industry.
+Rule-based processing of such data has ceased to be relevant in many scenarios where anomaly detection and pattern mining have to be entirely accomplished by the machine.
+Since the early 2000s, the de-facto standard for representing time series has been the Symbolic Aggregate approXimation (SAX).In this document, we present a few algorithms using this representation for anomaly detection and motif discovery, also known as pattern mining, in such data.
+We propose a benchmark of anomaly detection algorithms using data from Cloud monitoring software.

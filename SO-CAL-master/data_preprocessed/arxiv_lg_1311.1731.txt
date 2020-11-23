@@ -1,0 +1,6 @@
+Non-parametric/JJ approaches/NNS for/IN analyzing/VBG network/NN data/NNS based/VBN on/IN exchangeable/JJ graph/NN models/NNS (/-LRB- ExGM/NN )/-RRB- have/VBP recently/RB gained/VBN interest/NN ./.
+The/DT key/JJ object/NN that/WDT defines/VBZ an/DT ExGM/NN is/VBZ often/RB referred/VBN to/IN as/IN a/DT graphon/NN ./.
+This/DT non-parametric/JJ perspective/NN on/IN network/NN modeling/NN poses/VBZ challenging/JJ questions/NNS on/IN how/WRB to/TO make/VB inference/NN on/IN the/DT graphon/NN underlying/VBG observed/VBN network/NN data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT computationally/RB efficient/JJ procedure/NN to/TO estimate/VB a/DT graphon/NN from/IN a/DT set/NN of/IN observed/VBN networks/NNS generated/VBN from/IN it/PRP ./.
+This/DT procedure/NN is/VBZ based/VBN on/IN a/DT stochastic/JJ blockmodel/NN approximation/NN (/-LRB- SBA/NNP )/-RRB- of/IN the/DT graphon/NN ./.
+We/PRP show/VBP that/IN ,/, by/IN approximating/VBG the/DT graphon/NN with/IN a/DT stochastic/JJ block/NN model/NN ,/, the/DT graphon/NN can/MD be/VB consistently/RB estimated/VBN ,/, that/DT is/VBZ ,/, the/DT estimation/NN error/NN vanishes/VBZ as/IN the/DT size/NN of/IN the/DT graph/NN approaches/VBZ infinity/NN ./.

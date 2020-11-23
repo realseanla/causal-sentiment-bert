@@ -1,0 +1,9 @@
+Much/JJ of/IN scientific/JJ progress/NN stems/VBZ from/IN previously/RB published/VBN findings/NNS ,/, but/CC searching/VBG through/IN the/DT vast/JJ sea/NN of/IN scientific/JJ publications/NNS is/VBZ difficult/JJ ./.
+We/PRP often/RB rely/VBP on/IN metrics/NNS of/IN scholarly/JJ authority/NN to/TO find/VB the/DT prominent/JJ authors/NNS but/CC these/DT authority/NN indices/NNS do/VBP not/RB differentiate/VB authority/NN based/VBN on/IN research/NN topics/NNS ./.
+We/PRP present/VBP Latent/JJ Topical/JJ -/HYPH Authority/NN Indexing/NN (/-LRB- LTAI/NN )/-RRB- for/IN jointly/RB modeling/VBG the/DT topics/NNS ,/, citations/NNS ,/, and/CC topical/JJ authority/NN in/IN a/DT corpus/NN of/IN academic/JJ papers/NNS ./.
+Compared/VBN to/IN previous/JJ models/NNS ,/, LTAI/NN differs/VBZ in/IN two/CD main/JJ aspects/NNS ./.
+First/RB ,/, it/PRP explicitly/RB models/NNS the/DT generative/JJ process/NN of/IN the/DT citations/NNS ,/, rather/RB than/IN treating/VBG the/DT citations/NNS as/IN given/VBN ./.
+Second/RB ,/, it/PRP models/NNS each/DT author/NN 's/POS influence/NN on/IN citations/NNS of/IN a/DT paper/NN based/VBN on/IN the/DT topics/NNS of/IN the/DT cited/VBN papers/NNS ,/, as/RB well/RB as/IN the/DT citing/VBG papers/NNS ./.
+We/PRP fit/VBP LTAI/NN to/IN four/CD academic/JJ corpora/NNS :/: CORA/NNP ,/, Arxiv/NNP Physics/NNP ,/, PNAS/NNP ,/, and/CC Citeseer/NNP ./.
+We/PRP compare/VBP the/DT performance/NN of/IN LTAI/NN against/IN various/JJ baselines/NNS ,/, starting/VBG with/IN the/DT latent/JJ Dirichlet/NNP allocation/NN ,/, to/IN the/DT more/RBR advanced/JJ models/NNS including/VBG author/NN -/HYPH link/NN topic/NN model/NN and/CC dynamic/JJ author/NN citation/NN topic/NN model/NN ./.
+The/DT results/NNS show/VBP that/IN LTAI/NNP achieves/VBZ improved/VBN accuracy/NN over/IN other/JJ similar/JJ models/NNS when/WRB predicting/VBG words/NNS ,/, citations/NNS and/CC authors/NNS of/IN publications/NNS ./.

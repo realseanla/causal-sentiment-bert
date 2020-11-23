@@ -1,0 +1,5 @@
+In machine learning it is common to interpret each data point as a vector in Euclidean space.
+However the data may actually be functional i.e.\ each data point is a function of some variable such as time and the function is discretely sampled.
+The naive treatment of functional data as traditional multivariate data can lead to poor performance since the algorithms are ignoring the correlation in the curvature of each function.
+In this paper we propose a method to analyse subspace structure of the functional data by using the state of the art Low-Rank Representation (LRR).
+Experimental evaluation on synthetic and real data reveals that this method massively outperforms conventional LRR in tasks concerning functional data.

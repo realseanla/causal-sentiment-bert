@@ -1,0 +1,10 @@
+The/DT recently/RB established/VBN RPCA/NN method/NN provides/VBZ us/PRP a/DT convenient/JJ way/NN to/TO restore/VB low/JJ -/HYPH rank/NN matrices/NNS from/IN grossly/RB corrupted/VBN observations/NNS ./.
+While/IN elegant/JJ in/IN theory/NN and/CC powerful/JJ in/IN reality/NN ,/, RPCA/NN may/MD be/VB not/RB an/DT ultimate/JJ solution/NN to/IN the/DT low/JJ -/HYPH rank/NN matrix/NN recovery/NN problem/NN ./.
+Indeed/RB ,/, its/PRP$ performance/NN may/MD not/RB be/VB perfect/JJ even/RB when/WRB data/NNS are/VBP strictly/RB low/JJ -/HYPH rank/NN ./.
+This/DT is/VBZ because/IN conventional/JJ RPCA/NN ignores/VBZ the/DT clustering/NN structures/NNS of/IN the/DT data/NNS which/WDT are/VBP ubiquitous/JJ in/IN modern/JJ applications/NNS ./.
+As/IN the/DT number/NN of/IN cluster/NN grows/VBZ ,/, the/DT coherence/NN of/IN data/NNS keeps/VBZ increasing/VBG ,/, and/CC accordingly/RB ,/, the/DT recovery/NN performance/NN of/IN RPCA/NNP degrades/VBZ ./.
+We/PRP show/VBP that/IN the/DT challenges/NNS raised/VBN by/IN coherent/JJ data/NNS (/-LRB- i.e./FW ,/, the/DT data/NNS with/IN high/JJ coherence/NN )/-RRB- could/MD be/VB alleviated/VBN by/IN Low/JJ -/HYPH Rank/NN Representation/NN (/-LRB- LRR/NN )/-RRB- ,/, provided/VBD that/IN the/DT dictionary/NN in/RB LRR/NNP is/VBZ configured/VBN appropriately/RB ./.
+More/RBR precisely/RB ,/, we/PRP mathematically/RB prove/VBP that/IN if/IN the/DT dictionary/NN itself/PRP is/VBZ low/JJ -/HYPH rank/NN then/RB LRR/NNP is/VBZ immune/JJ to/IN the/DT coherence/NN parameter/NN which/WDT increases/VBZ with/IN the/DT underlying/VBG cluster/NN number/NN ./.
+This/DT provides/VBZ an/DT elementary/JJ principle/NN for/IN dealing/VBG with/IN coherent/JJ data/NNS ./.
+Subsequently/RB ,/, we/PRP devise/VBP a/DT practical/JJ algorithm/NN to/TO obtain/VB proper/JJ dictionaries/NNS in/IN unsupervised/JJ environments/NNS ./.
+Our/PRP$ extensive/JJ experiments/NNS on/IN randomly/RB generated/VBN matrices/NNS verify/VBP our/PRP$ claims/NNS ./.

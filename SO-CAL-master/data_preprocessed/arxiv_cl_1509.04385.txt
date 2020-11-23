@@ -1,0 +1,8 @@
+Named/VBN Entity/NN Recognition/NN and/CC Classification/NN (/-LRB- NERC/NN )/-RRB- is/VBZ a/DT process/NN of/IN identification/NN of/IN proper/JJ nouns/NNS in/IN the/DT text/NN and/CC classification/NN of/IN those/DT nouns/NNS into/IN certain/JJ predefined/JJ categories/NNS like/IN person/NN name/NN ,/, location/NN ,/, organization/NN ,/, date/NN ,/, and/CC time/NN etc/FW ./.
+NERC/NNP in/IN Kannada/NNP is/VBZ an/DT essential/JJ and/CC challenging/JJ task/NN ./.
+The/DT aim/NN of/IN this/DT work/NN is/VBZ to/TO develop/VB a/DT novel/JJ model/NN for/IN NERC/NNP ,/, based/VBN on/IN Multinomial/JJ Na/NN \/SYM "/`` ive/VB Bayes/NNP (/-LRB- MNB/NNP )/-RRB- Classifier/NNP ./.
+The/DT Methodology/NN adopted/VBN in/IN this/DT paper/NN is/VBZ based/VBN on/IN feature/NN extraction/NN of/IN training/NN corpus/NN ,/, by/IN using/VBG term/NN frequency/NN ,/, inverse/JJ document/NN frequency/NN and/CC fitting/VBG them/PRP to/IN a/DT tf/NN -/HYPH idf/NN -/HYPH vectorizer/NN ./.
+The/DT paper/NN discusses/VBZ the/DT various/JJ issues/NNS in/IN developing/VBG the/DT proposed/VBN model/NN ./.
+The/DT details/NNS of/IN implementation/NN and/CC performance/NN evaluation/NN are/VBP discussed/VBN ./.
+The/DT experiments/NNS are/VBP conducted/VBN on/IN a/DT training/NN corpus/NN of/IN size/NN 95,170/CD tokens/NNS and/CC test/NN corpus/NN of/IN 5,000/CD tokens/NNS ./.
+It/PRP is/VBZ observed/VBN that/IN the/DT model/NN works/VBZ with/IN Precision/NNP ,/, Recall/NNP and/CC F1/NN -/HYPH measure/NN of/IN 83/CD percent/NN ,/, 79/CD percent/NN and/CC 81/CD percent/NN respectively/RB ./.

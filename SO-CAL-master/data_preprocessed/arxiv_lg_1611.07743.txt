@@ -1,0 +1,7 @@
+When/WRB humans/NNS learn/VBP a/DT new/JJ concept/NN ,/, they/PRP might/MD ignore/VB examples/NNS that/IN they/PRP can/MD not/RB make/VB sense/NN of/IN at/IN first/RB ,/, and/CC only/RB later/RB focus/VB on/IN such/JJ examples/NNS ,/, when/WRB they/PRP are/VBP more/RBR useful/JJ for/IN learning/NN ./.
+We/PRP propose/VBP incorporating/VBG this/DT idea/NN of/IN tunable/JJ sensitivity/NN for/IN hard/JJ examples/NNS in/IN neural/JJ network/NN learning/NN ,/, using/VBG a/DT new/JJ generalization/NN of/IN the/DT cross-entropy/JJ gradient/NN step/NN ,/, which/WDT can/MD be/VB used/VBN in/IN place/NN of/IN the/DT gradient/NN in/IN any/DT gradient/NN -/HYPH based/VBN training/NN method/NN ./.
+The/DT generalized/VBN gradient/NN is/VBZ parameterized/VBN by/IN a/DT value/NN that/WDT controls/VBZ the/DT sensitivity/NN of/IN the/DT training/NN process/NN to/IN harder/JJR training/NN examples/NNS ./.
+We/PRP tested/VBD our/PRP$ method/NN on/IN several/JJ benchmark/NN datasets/NNS ./.
+We/PRP propose/VBP ,/, and/CC corroborate/VB in/IN our/PRP$ experiments/NNS ,/, that/IN the/DT optimal/JJ level/NN of/IN sensitivity/NN to/IN hard/JJ example/NN is/VBZ positively/RB correlated/VBN with/IN the/DT depth/NN of/IN the/DT network/NN ./.
+Moreover/RB ,/, the/DT test/NN prediction/NN error/NN obtained/VBN by/IN our/PRP$ method/NN is/VBZ generally/RB lower/JJR than/IN that/DT of/IN the/DT vanilla/NN cross-entropy/JJ gradient/NN learner/NN ./.
+We/PRP therefore/RB conclude/VBP that/IN tunable/JJ sensitivity/NN can/MD be/VB helpful/JJ for/IN neural/JJ network/NN learning/NN ./.

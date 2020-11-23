@@ -1,0 +1,5 @@
+We/PRP introduce/VBP a/DT neural/JJ semantic/JJ parser/NN which/WDT is/VBZ interpretable/JJ and/CC scalable/JJ ./.
+Our/PRP$ model/NN converts/VBZ natural/JJ language/NN utterances/NNS to/IN intermediate/JJ ,/, domain/NN -/HYPH general/JJ natural/JJ language/NN representations/NNS in/IN the/DT form/NN of/IN predicate/NN -/HYPH argument/NN structures/NNS ,/, which/WDT are/VBP induced/VBN with/IN a/DT transition/NN system/NN and/CC subsequently/RB mapped/VBN to/TO target/VB domains/NNS ./.
+The/DT semantic/JJ parser/NN is/VBZ trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN using/VBG annotated/VBN logical/JJ forms/NNS or/CC their/PRP$ denotations/NNS ./.
+We/PRP obtain/VBP competitive/JJ results/NNS on/IN various/JJ datasets/NNS ./.
+The/DT induced/VBN predicate/NN -/HYPH argument/NN structures/NNS shed/VBP light/NN on/IN the/DT types/NNS of/IN representations/NNS useful/JJ for/IN semantic/JJ parsing/VBG and/CC how/WRB these/DT are/VBP different/JJ from/IN linguistically/RB motivated/JJ ones/NNS ./.

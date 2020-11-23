@@ -1,0 +1,7 @@
+Continuous/JJ word/NN representations/NNS ,/, trained/VBN on/IN large/JJ unlabeled/JJ corpora/NNS are/VBP useful/JJ for/IN many/JJ natural/JJ language/NN processing/NN tasks/NNS ./.
+Many/JJ popular/JJ models/NNS to/TO learn/VB such/JJ representations/NNS ignore/VBP the/DT morphology/NN of/IN words/NNS ,/, by/IN assigning/VBG a/DT distinct/JJ vector/NN to/IN each/DT word/NN ./.
+This/DT is/VBZ a/DT limitation/NN ,/, especially/RB for/IN morphologically/RB rich/JJ languages/NNS with/IN large/JJ vocabularies/NNS and/CC many/JJ rare/JJ words/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ approach/NN based/VBN on/IN the/DT skip/VB -/HYPH gram/NN model/NN ,/, where/WRB each/DT word/NN is/VBZ represented/VBN as/IN a/DT bag/NN of/IN character/NN n/NN -/HYPH grams/NNS ./.
+A/DT vector/NN representation/NN is/VBZ associated/VBN to/IN each/DT character/NN n/NN -/HYPH gram/NN ,/, words/NNS being/VBG represented/VBN as/IN the/DT sum/NN of/IN these/DT representations/NNS ./.
+Our/PRP$ method/NN is/VBZ fast/RB ,/, allowing/VBG to/TO train/VB models/NNS on/IN large/JJ corpus/NN quickly/RB ./.
+We/PRP evaluate/VBP the/DT obtained/VBN word/NN representations/NNS on/IN five/CD different/JJ languages/NNS ,/, on/IN word/NN similarity/NN and/CC analogy/NN tasks/NNS ./.

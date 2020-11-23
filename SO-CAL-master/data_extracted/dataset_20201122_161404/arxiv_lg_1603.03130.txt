@@ -1,0 +1,4 @@
+In PU learning, a binary classifier is trained only from positive (P) and unlabeled (U) data without negative (N) data.
+Although N data is missing, it sometimes outperforms PN learning (i.e., supervised learning) in experiments.
+In this paper, we theoretically compare PU (and the opposite NU) learning against PN learning, and prove that, one of PU and NU learning given infinite U data will almost always improve on PN learning.
+Our theoretical finding is also validated experimentally.

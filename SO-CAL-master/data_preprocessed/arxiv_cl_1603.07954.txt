@@ -1,0 +1,6 @@
+In/IN traditional/JJ formulations/NNS ,/, information/NN extraction/NN systems/NNS operate/VBP on/IN a/DT fixed/VBN collection/NN of/IN documents/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP explore/VBP the/DT task/NN of/IN acquiring/VBG and/CC incorporating/VBG external/JJ evidence/NN to/TO improve/VB extraction/NN accuracy/NN ./.
+This/DT process/NN entails/VBZ query/NN reformulation/NN for/IN search/NN ,/, extraction/NN from/IN new/JJ sources/NNS and/CC reconciliation/NN of/IN extracted/VBN values/NNS ,/, which/WDT are/VBP repeated/VBN until/IN sufficient/JJ evidence/NN is/VBZ collected/VBN ./.
+We/PRP approach/VBP the/DT problem/NN using/VBG a/DT reinforcement/NN learning/VBG framework/NN where/WRB our/PRP$ model/NN learns/VBZ to/TO select/VB optimal/JJ actions/NNS based/VBN on/IN contextual/JJ information/NN ./.
+We/PRP employ/VBP a/DT deep/JJ Q/NN -/HYPH network/NN ,/, trained/VBN to/TO optimize/VB a/DT reward/NN function/NN that/WDT reflects/VBZ extraction/NN accuracy/NN while/IN penalizing/VBG extra/JJ effort/NN ./.
+Our/PRP$ experiments/NNS on/IN a/DT publicly/RB available/JJ database/NN of/IN shooting/VBG incidents/NNS demonstrate/VBP that/IN our/PRP$ system/NN outperforms/VBZ traditional/JJ extractors/NNS by/IN 7.2/CD percent/NN on/IN average/JJ ./.

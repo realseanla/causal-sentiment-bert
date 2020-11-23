@@ -1,0 +1,7 @@
+Creating/VBG any/DT aesthetically/RB pleasing/JJ piece/NN of/IN art/NN ,/, like/IN music/NN ,/, has/VBZ been/VBN a/DT long/JJ time/NN dream/NN for/IN artificial/JJ intelligence/NN research/NN ./.
+Based/VBN on/IN recent/JJ success/NN of/IN long/JJ -/HYPH short/JJ term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- on/IN sequence/NN learning/NN ,/, we/PRP put/VBD forward/RB a/DT novel/JJ system/NN to/TO reflect/VB the/DT thinking/NN pattern/NN of/IN a/DT musician/NN ./.
+For/IN data/NNS representation/NN ,/, we/PRP propose/VBP a/DT note/NN -/HYPH level/NN encoding/NN method/NN ,/, which/WDT enables/VBZ our/PRP$ model/NN to/IN simulate/VB how/WRB human/JJ composes/VBZ and/CC polishes/VBZ music/NN phrases/NNS ./.
+To/TO avoid/VB failure/NN against/IN music/NN theory/NN ,/, we/PRP invent/VBP a/DT novel/JJ method/NN ,/, grammar/NN argumented/JJ (/-LRB- GA/NN )/-RRB- method/NN ./.
+It/PRP can/MD teach/VB machine/NN basic/JJ composing/VBG principles/NNS ./.
+In/IN this/DT method/NN ,/, we/PRP propose/VBP three/CD rules/NNS as/IN argumented/JJ grammars/NNS and/CC three/CD metrics/NNS for/IN evaluation/NN of/IN machine/NN -/HYPH made/VBN music/NN ./.
+Results/NNS show/VBP that/IN comparing/VBG to/IN basic/JJ LSTM/NNP ,/, grammar/NN argumented/VBN model/NN 's/POS compositions/NNS have/VBP higher/JJR contents/NNS of/IN diatonic/JJ scale/NN notes/NNS ,/, short/JJ pitch/NN intervals/NNS ,/, and/CC chords/NNS ./.

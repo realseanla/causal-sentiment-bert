@@ -1,0 +1,4 @@
+We present and analyze an adaptive margin-based algorithm that actively learns the optimal linear separator for multi-dimensional data.
+The algorithm has the capacity of adapting to unknown level of label noise in the underlying distribution, making it suitable for model selection under the active learning setting.
+Compared to other alternative agnostic active learning algorithms, our proposed method is much simpler and achieves the optimal convergence rate in query budget T and data dimension d, if logarithm factors are ignored.
+Furthermore, our algorithm can handle classification loss functions other than the 0-1 loss, such as hinge and logistic loss, and hence is computationally feasible.

@@ -1,0 +1,4 @@
+Word2vec/NN ,/, as/IN an/DT efficient/JJ tool/NN for/IN learning/NN vector/NN representation/NN of/IN words/NNS has/VBZ shown/VBN its/PRP$ effectiveness/NN in/IN many/JJ natural/JJ language/NN processing/NN tasks/NNS ./.
+Mikolov/NNP et/FW al./FW issued/VBD Skip/VB -/HYPH Gram/NNP and/CC Negative/JJ Sampling/NN model/NN for/IN developing/VBG this/DT toolbox/NN ./.
+Perozzi/NNP et/FW al./FW introduced/VBD the/DT Skip/VB -/HYPH Gram/NNP model/NN into/IN the/DT study/NN of/IN social/JJ network/NN for/IN the/DT first/JJ time/NN ,/, and/CC designed/VBD an/DT algorithm/NN named/VBN DeepWalk/NNP for/IN learning/VBG node/NN embedding/NN on/IN a/DT graph/NN ./.
+We/PRP prove/VBP that/IN the/DT DeepWalk/NNP algorithm/NN is/VBZ actually/RB factoring/NN a/DT matrix/NN M/NN where/WRB each/DT entry/NN M/NN _/NFP {/-LRB- ij/NN }/-RRB- is/VBZ logarithm/NN of/IN the/DT average/JJ probability/NN that/WDT node/NN i/PRP randomly/RB walks/VBZ to/IN node/NN j/NN in/IN fix/NN steps/NNS ./.

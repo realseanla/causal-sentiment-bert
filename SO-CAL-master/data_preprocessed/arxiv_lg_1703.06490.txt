@@ -1,0 +1,7 @@
+Access/NNP to/IN electronic/JJ health/NN records/NNS (/-LRB- EHR/NN )/-RRB- data/NNS has/VBZ motivated/VBN computational/JJ advances/NNS in/IN medical/JJ research/NN ./.
+However/RB ,/, various/JJ concerns/NNS ,/, particularly/RB over/IN privacy/NN ,/, can/MD limit/VB access/NN to/IN and/CC collaborative/JJ use/NN of/IN EHR/NNP data/NNS ./.
+Sharing/VBG synthetic/JJ EHR/NN data/NNS could/MD mitigate/VB risk/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ approach/NN ,/, medical/JJ Generative/NNP Adversarial/NNP Network/NNP (/-LRB- medGAN/NNP )/-RRB- ,/, to/TO generate/VB realistic/JJ synthetic/JJ EHRs/NNS ./.
+Based/VBN on/IN an/DT input/NN EHR/NN dataset/NN ,/, medGAN/NN can/MD generate/VB high/JJ -/HYPH dimensional/JJ discrete/JJ variables/NNS (/-LRB- e.g./FW ,/, binary/JJ and/CC count/VB features/NNS )/-RRB- via/IN a/DT combination/NN of/IN an/DT autoencoder/NN and/CC generative/JJ adversarial/JJ networks/NNS ./.
+We/PRP also/RB propose/VBP minibatch/NN averaging/NN to/TO efficiently/RB avoid/VB mode/NN collapse/NN ,/, and/CC increase/VB the/DT learning/NN efficiency/NN with/IN batch/NN normalization/NN and/CC shortcut/NN connections/NNS ./.
+To/TO demonstrate/VB feasibility/NN ,/, we/PRP showed/VBD that/IN medGAN/NN generates/VBZ synthetic/JJ EHR/NN datasets/NNS that/WDT achieve/VBP comparable/JJ performance/NN to/IN real/JJ data/NNS on/IN many/JJ experiments/NNS including/VBG distribution/NN statistics/NNS ,/, predictive/JJ modeling/NN tasks/NNS and/CC medical/JJ expert/NN review/NN ./.

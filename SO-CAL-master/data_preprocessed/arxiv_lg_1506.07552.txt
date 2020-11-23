@@ -1,0 +1,9 @@
+Stochastic/JJ algorithms/NNS are/VBP efficient/JJ approaches/NNS to/IN solving/VBG machine/NN learning/NN and/CC optimization/NN problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT general/JJ framework/NN called/VBN Splash/NNP for/IN parallelizing/VBG stochastic/JJ algorithms/NNS on/IN multi-node/JJ distributed/VBN systems/NNS ./.
+Splash/NN consists/VBZ of/IN a/DT programming/NN interface/NN and/CC an/DT execution/NN engine/NN ./.
+Using/VBG the/DT programming/NN interface/NN ,/, the/DT user/NN develops/VBZ sequential/JJ stochastic/JJ algorithms/NNS without/IN concerning/VBG any/DT detail/NN about/IN distributed/VBN computing/NN ./.
+The/DT algorithm/NN is/VBZ then/RB automatically/RB parallelized/VBN by/IN a/DT communication/NN -/HYPH efficient/JJ execution/NN engine/NN ./.
+We/PRP provide/VBP theoretical/JJ justifications/NNS on/IN the/DT optimal/JJ rate/NN of/IN convergence/NN for/IN parallelizing/VBG stochastic/JJ gradient/NN descent/NN ./.
+The/DT real/JJ -/HYPH data/NN experiments/NNS with/IN stochastic/JJ gradient/NN descent/NN ,/, collapsed/VBD Gibbs/NNP sampling/NN ,/, stochastic/JJ variational/JJ inference/NN and/CC stochastic/JJ collaborative/JJ filtering/NN verify/VBP that/IN Splash/NN yields/NNS order/NN -/HYPH of/IN -/HYPH magnitude/NN speedup/NN over/IN single/JJ -/HYPH thread/NN stochastic/JJ algorithms/NNS and/CC over/IN parallelized/JJ batch/NN algorithms/NNS ./.
+Besides/IN its/PRP$ efficiency/NN ,/, Splash/NN provides/VBZ a/DT rich/JJ collection/NN of/RB interfaces/VBZ for/IN algorithm/NN implementation/NN ./.
+It/PRP is/VBZ built/VBN on/IN Apache/NNP Spark/NNP and/CC is/VBZ closely/RB integrated/VBN with/IN the/DT Spark/NN ecosystem/NN ./.

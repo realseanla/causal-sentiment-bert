@@ -1,0 +1,4 @@
+We/PRP have/VBP developed/VBN and/CC trained/VBN a/DT convolutional/JJ neural/JJ network/NN to/TO automatically/RB and/CC simultaneously/RB segment/NN optic/JJ disc/NN ,/, fovea/NN and/CC blood/NN vessels/NNS ./.
+Fundus/NNP images/NNS were/VBD normalised/VBN before/IN segmentation/NN was/VBD performed/VBN to/TO enforce/VB consistency/NN in/IN background/NN lighting/NN and/CC contrast/NN ./.
+For/IN every/DT effective/JJ point/NN in/IN the/DT fundus/NN image/NN ,/, our/PRP$ algorithm/NN extracted/VBD three/CD channels/NNS of/IN input/NN from/IN the/DT neighbourhood/NN of/IN the/DT point/NN and/CC forward/VB the/DT response/NN across/IN the/DT 7/CD layer/NN network/NN ./.
+In/IN average/JJ ,/, our/PRP$ segmentation/NN achieved/VBD an/DT accuracy/NN of/IN 92.68/CD percent/NN on/IN the/DT testing/NN set/VBN from/IN Drive/NNP database/NN ./.

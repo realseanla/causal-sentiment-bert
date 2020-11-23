@@ -1,0 +1,8 @@
+Many/JJ deep/JJ Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNN/NNP )/-RRB- make/VBP incorrect/JJ predictions/NNS on/IN adversarial/JJ samples/NNS obtained/VBN by/IN imperceptible/JJ perturbations/NNS of/IN clean/JJ samples/NNS ./.
+We/PRP hypothesize/VBP that/IN this/DT is/VBZ caused/VBN by/IN a/DT failure/NN to/TO suppress/VB unusual/JJ signals/NNS within/IN network/NN layers/NNS ./.
+As/IN remedy/NN we/PRP propose/VBP the/DT use/NN of/IN Symmetric/JJ Activation/NN Functions/NNS (/-LRB- SAF/NN )/-RRB- in/IN non-linear/JJ signal/NN transducer/NN units/NNS ./.
+These/DT units/NNS suppress/VBP signals/NNS of/IN exceptional/JJ magnitude/NN ./.
+We/PRP prove/VBP that/IN SAF/NNP networks/NNS can/MD perform/VB classification/NN tasks/NNS to/IN arbitrary/JJ precision/NN in/IN a/DT simplified/JJ situation/NN ./.
+In/IN practice/NN ,/, rather/RB than/IN use/VB SAFs/NNS alone/RB ,/, we/PRP add/VBP them/PRP into/IN CNNs/NNPS to/TO improve/VB their/PRP$ robustness/NN ./.
+The/DT modified/VBN CNNs/NNS can/MD be/VB easily/RB trained/VBN using/VBG popular/JJ strategies/NNS with/IN the/DT moderate/JJ training/NN load/NN ./.
+Our/PRP$ experiments/NNS on/IN MNIST/NN and/CC CIFAR/NN -/HYPH 10/CD show/NN that/IN the/DT modified/VBN CNNs/NNS perform/VBP similarly/RB to/IN plain/JJ ones/NNS on/IN clean/JJ samples/NNS ,/, and/CC are/VBP remarkably/RB more/RBR robust/JJ against/IN adversarial/JJ and/CC nonsense/JJ samples/NNS ./.

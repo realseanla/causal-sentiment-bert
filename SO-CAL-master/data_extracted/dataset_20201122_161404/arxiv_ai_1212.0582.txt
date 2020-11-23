@@ -1,0 +1,5 @@
+Probabilistic programming is related to a compositional approach to stochastic modeling by switching from discrete to continuous time dynamics.
+In continuous time, an operator-algebra semantics is available in which processes proceeding in parallel (and possibly interacting) have summed time-evolution operators.
+From this foundation, algorithms for simulation, inference and model reduction may be systematically derived.
+The useful consequences are potentially far-reaching in computational science, machine learning and beyond.
+Hybrid compositional stochastic modeling/probabilistic programming approaches may also be possible.

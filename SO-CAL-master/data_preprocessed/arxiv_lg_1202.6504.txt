@@ -1,0 +1,7 @@
+This/DT paper/NN presents/VBZ a/DT kernel/NN -/HYPH based/VBN discriminative/JJ learning/NN framework/NN on/IN probability/NN measures/NNS ./.
+Rather/RB than/IN relying/VBG on/IN large/JJ collections/NNS of/IN vectorial/JJ training/NN examples/NNS ,/, our/PRP$ framework/NN learns/VBZ using/VBG a/DT collection/NN of/IN probability/NN distributions/NNS that/WDT have/VBP been/VBN constructed/VBN to/IN meaningfully/RB represent/VBP training/NN data/NNS ./.
+By/IN representing/VBG these/DT probability/NN distributions/NNS as/IN mean/JJ embeddings/NNS in/IN the/DT reproducing/VBG kernel/NN Hilbert/NNP space/NN (/-LRB- RKHS/NN )/-RRB- ,/, we/PRP are/VBP able/JJ to/TO apply/VB many/JJ standard/JJ kernel/NN -/HYPH based/VBN learning/NN techniques/NNS in/IN straightforward/JJ fashion/NN ./.
+To/TO accomplish/VB this/DT ,/, we/PRP construct/VBP a/DT generalization/NN of/IN the/DT support/NN vector/NN machine/NN (/-LRB- SVM/NN )/-RRB- called/VBD a/DT support/NN measure/NN machine/NN (/-LRB- SMM/NNP )/-RRB- ./.
+Our/PRP$ analyses/NNS of/IN SMMs/NNS provides/VBZ several/JJ insights/NNS into/IN their/PRP$ relationship/NN to/IN traditional/JJ SVMs/NNS ./.
+Based/VBN on/IN such/JJ insights/NNS ,/, we/PRP propose/VBP a/DT flexible/JJ SVM/NN (/-LRB- Flex/VB -/HYPH SVM/NNP )/-RRB- that/WDT places/VBZ different/JJ kernel/NN functions/NNS on/IN each/DT training/NN example/NN ./.
+Experimental/JJ results/NNS on/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH world/NN data/NNS demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ proposed/VBN framework/NN ./.

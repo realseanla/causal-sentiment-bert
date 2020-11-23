@@ -1,0 +1,7 @@
+Natural/JJ language/NN generation/NN (/-LRB- NLG/NN )/-RRB- is/VBZ a/DT critical/JJ component/NN of/IN spoken/VBN dialogue/NN and/CC it/PRP has/VBZ a/DT significant/JJ impact/NN both/DT on/IN usability/NN and/CC perceived/VBN quality/NN ./.
+Most/JJS NLG/NN systems/NNS in/IN common/JJ use/NN employ/VB rules/NNS and/CC heuristics/NNS and/CC tend/VBP to/TO generate/VB rigid/JJ and/CC stylised/JJ responses/NNS without/IN the/DT natural/JJ variation/NN of/IN human/JJ language/NN ./.
+They/PRP are/VBP also/RB not/RB easily/RB scaled/VBN to/IN systems/NNS covering/VBG multiple/JJ domains/NNS and/CC languages/NNS ./.
+This/DT paper/NN presents/VBZ a/DT statistical/JJ language/NN generator/NN based/VBN on/IN a/DT semantically/RB controlled/VBN Long/JJ Short/JJ -/HYPH term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- structure/NN ./.
+The/DT LSTM/NNP generator/NN can/MD learn/VB from/IN unaligned/JJ data/NNS by/IN jointly/RB optimising/VBG sentence/NN planning/NN and/CC surface/NN realisation/NN using/VBG a/DT simple/JJ cross/NN entropy/NN training/NN criterion/NN ,/, and/CC language/NN variation/NN can/MD be/VB easily/RB achieved/VBN by/IN sampling/NN from/IN output/NN candidates/NNS ./.
+An/DT objective/JJ evaluation/NN in/IN two/CD differing/VBG test/NN domains/NNS showed/VBD improved/VBN performance/NN compared/VBN to/IN previous/JJ methods/NNS with/IN fewer/JJR heuristics/NNS ./.
+Human/JJ judges/NNS scored/VBD the/DT LSTM/NN system/NN higher/JJR on/IN informativeness/NN and/CC naturalness/NN and/CC overall/JJ preferred/VBN it/PRP to/IN the/DT other/JJ systems/NNS ./.

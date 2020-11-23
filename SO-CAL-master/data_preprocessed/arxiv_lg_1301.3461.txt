@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN we/PRP present/VBP a/DT new/JJ type/NN of/IN latent/NN topic/NN model/NN ,/, which/WDT exploits/VBZ supervision/NN to/TO produce/VB a/DT factorized/JJ representation/NN of/IN the/DT observed/VBN data/NNS ./.
+The/DT structured/JJ parameterization/NN separately/RB encodes/VBZ variance/NN that/WDT is/VBZ shared/VBN between/IN classes/NNS from/IN variance/NN that/WDT is/VBZ private/JJ to/IN each/DT class/NN by/IN the/DT introduction/NN of/IN a/DT new/JJ prior/JJ ./.
+The/DT approach/NN allows/VBZ for/IN a/DT more/RBR efficient/JJ inference/NN and/CC provides/VBZ an/DT intuitive/JJ interpretation/NN of/IN the/DT data/NNS in/IN terms/NNS of/IN an/DT informative/JJ signal/NN together/RB with/IN structured/JJ noise/NN ./.
+The/DT factorized/JJ representation/NN is/VBZ shown/VBN to/TO enhance/VB inference/NN performance/NN for/IN both/DT image/NN and/CC text/NN classification/NN ./.

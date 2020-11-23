@@ -1,0 +1,10 @@
+Several/JJ machine/NN learning/NN tasks/NNS require/VBP to/TO represent/VB the/DT data/NNS using/VBG only/RB a/DT sparse/JJ set/NN of/IN interest/NN points/NNS ./.
+An/DT ideal/JJ detector/NN is/VBZ able/JJ to/TO find/VB the/DT corresponding/VBG interest/NN points/NNS even/RB if/IN the/DT data/NNS undergo/VBP a/DT transformation/NN typical/JJ for/IN a/DT given/VBN domain/NN ./.
+Since/IN the/DT task/NN is/VBZ of/IN high/JJ practical/JJ interest/NN in/IN computer/NN vision/NN ,/, many/JJ hand/NN -/HYPH crafted/VBN solutions/NNS were/VBD proposed/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP ask/VBP a/DT fundamental/JJ question/NN :/: can/MD we/PRP learn/VB such/JJ detectors/NNS from/IN scratch/NN ?/.
+Since/IN it/PRP is/VBZ often/RB unclear/JJ ,/, what/WDT points/NNS are/VBP "/`` interesting/JJ "/'' ,/, human/JJ labelling/NN can/MD not/RB be/VB used/VBN to/TO find/VB a/DT truly/RB unbiased/JJ solution/NN ./.
+Therefore/RB ,/, the/DT task/NN requires/VBZ an/DT unsupervised/JJ formulation/NN ./.
+We/PRP are/VBP the/DT first/JJ to/TO propose/VB such/PDT a/DT formulation/NN :/: training/VBG a/DT neural/JJ network/NN to/TO rank/VB points/NNS in/IN a/DT transformation/NN -/HYPH invariant/JJ manner/NN ./.
+Interest/NN points/NNS are/VBP then/RB extracted/VBN from/IN the/DT top/NN //HYPH bottom/NN quantiles/NNS of/IN this/DT ranking/NN ./.
+We/PRP validate/VBP our/PRP$ approach/NN on/IN two/CD tasks/NNS :/: standard/JJ RGB/NNP image/NN interest/NN point/NN detection/NN and/CC challenging/JJ cross-modal/JJ interest/NN point/NN detection/NN between/IN RGB/NNP and/CC depth/NN images/NNS ./.
+We/PRP quantitatively/RB show/VBP that/IN our/PRP$ unsupervised/JJ method/NN performs/VBZ better/JJR or/CC on/IN -/HYPH par/NN with/IN baselines/NNS ./.

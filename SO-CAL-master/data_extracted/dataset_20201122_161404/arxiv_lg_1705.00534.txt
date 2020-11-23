@@ -1,0 +1,4 @@
+This paper proposes a new residual convolutional neural network (CNN) architecture for single image depth estimation.
+Compared with existing deep CNN based methods, our method achieves much better results with fewer training examples and model parameters.
+The advantages of our method come from the usage of dilated convolution, skip connection architecture and soft-weight-sum inference.
+Experimental evaluation on the NYU Depth V2 dataset shows that our method outperforms other state-of-the-art methods by a margin.

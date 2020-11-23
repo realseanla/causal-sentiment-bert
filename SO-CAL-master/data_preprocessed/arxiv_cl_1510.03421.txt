@@ -1,0 +1,9 @@
+In/IN this/DT work/NN ,/, we/PRP analyze/VBP the/DT utility/NN of/IN two/CD dimensional/JJ document/NN maps/VBZ for/IN exploratory/JJ analysis/NN of/IN Polish/JJ case/NN law/NN ./.
+We/PRP start/VBP by/IN comparing/VBG two/CD methods/NNS of/IN generating/VBG such/JJ visualizations/NNS ./.
+First/RB is/VBZ based/VBN on/IN linear/JJ principal/JJ component/NN analysis/NN (/-LRB- PCA/NN )/-RRB- ./.
+Second/JJ makes/VBZ use/NN of/IN the/DT modern/JJ nonlinear/JJ t/NN -/HYPH Distributed/VBN Stochastic/NNP Neighbor/NNP Embedding/NNP method/NN (/-LRB- t/NN -/HYPH SNE/NN )/-RRB- ./.
+We/PRP apply/VBP both/DT PCA/NN and/CC t/NN -/HYPH SNE/NN to/IN a/DT corpus/NN of/IN judgments/NNS from/IN different/JJ courts/NNS in/IN Poland/NNP ./.
+It/PRP emerges/VBZ that/IN t/NN -/HYPH SNE/NN provides/VBZ better/JJR ,/, more/RBR interpretable/JJ results/NNS than/IN PCA/NN ./.
+As/IN a/DT next/JJ test/NN ,/, we/PRP apply/VBP t/NN -/HYPH SNE/NN to/IN randomly/RB selected/VBN sample/NN of/IN common/JJ court/NN judgments/NNS corresponding/VBG to/IN different/JJ keywords/NNS ./.
+We/PRP show/VBP that/IN t/NN -/HYPH SNE/NN ,/, in/IN this/DT case/NN ,/, reveals/VBZ hidden/VBN topical/JJ structure/NN of/IN the/DT documents/NNS related/VBN to/IN keyword/NN ,/, ,/, pension/NN "/'' ./.
+In/IN conclusion/NN ,/, we/PRP find/VBP that/IN the/DT t/NN -/HYPH SNE/NN method/NN could/MD be/VB a/DT promising/JJ tool/NN to/TO facilitate/VB the/DT exploitative/JJ analysis/NN of/IN legal/JJ texts/NNS ,/, e.g./FW ,/, by/IN complementing/VBG search/NN or/CC browse/VB functionality/NN in/IN legal/JJ databases/NNS ./.

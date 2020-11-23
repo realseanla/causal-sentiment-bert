@@ -1,0 +1,11 @@
+An/DT efficient/JJ speech/NN to/IN text/NN converter/NN for/IN mobile/JJ application/NN is/VBZ presented/VBN in/IN this/DT work/NN ./.
+The/DT prime/JJ motive/NN is/VBZ to/TO formulate/VB a/DT system/NN which/WDT would/MD give/VB optimum/JJ performance/NN in/IN terms/NNS of/IN complexity/NN ,/, accuracy/NN ,/, delay/NN and/CC memory/NN requirements/NNS for/IN mobile/JJ environment/NN ./.
+The/DT speech/NN to/IN text/NN converter/NN consists/VBZ of/IN two/CD stages/NNS namely/RB front/JJ -/HYPH end/NN analysis/NN and/CC pattern/NN recognition/NN ./.
+The/DT front/JJ end/NN analysis/NN involves/VBZ preprocessing/NN and/CC feature/NN extraction/NN ./.
+The/DT traditional/JJ voice/NN activity/NN detection/NN algorithms/NNS which/WDT track/VBP only/RB energy/NN can/MD not/RB successfully/RB identify/VB potential/JJ speech/NN from/IN input/NN because/IN the/DT unwanted/JJ part/NN of/IN the/DT speech/NN also/RB has/VBZ some/DT energy/NN and/CC appears/VBZ to/TO be/VB speech/NN ./.
+In/IN the/DT proposed/VBN system/NN ,/, VAD/NN that/WDT calculates/VBZ energy/NN of/IN high/JJ frequency/NN part/NN separately/RB as/IN zero/CD crossing/NN rate/NN to/TO differentiate/VB noise/NN from/IN speech/NN is/VBZ used/VBN ./.
+Mel/NNP Frequency/NN Cepstral/NNP Coefficient/NNP (/-LRB- MFCC/NNP )/-RRB- is/VBZ used/VBN as/IN feature/NN extraction/NN method/NN and/CC Generalized/VBN Regression/NN Neural/JJ Network/NN is/VBZ used/VBN as/IN recognizer/NN ./.
+MFCC/NNP provides/VBZ low/JJ word/NN error/NN rate/NN and/CC better/JJR feature/NN extraction/NN ./.
+Neural/JJ Network/NN improves/VBZ the/DT accuracy/NN ./.
+Thus/RB a/DT small/JJ database/NN containing/VBG all/DT possible/JJ syllable/NN pronunciation/NN of/IN the/DT user/NN is/VBZ sufficient/JJ to/TO give/VB recognition/NN accuracy/NN closer/RBR to/IN 100/CD percent/NN ./.
+Thus/RB the/DT proposed/VBN technique/NN entertains/VBZ realization/NN of/IN real/JJ time/NN speaker/NN independent/JJ applications/NNS like/IN mobile/JJ phones/NNS ,/, PDAs/NNS etc/FW ./.

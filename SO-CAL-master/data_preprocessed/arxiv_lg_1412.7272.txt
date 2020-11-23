@@ -1,0 +1,10 @@
+The/DT goal/NN of/IN a/DT generative/JJ model/NN is/VBZ to/TO capture/VB the/DT distribution/NN underlying/VBG the/DT data/NNS ,/, typically/RB through/IN latent/JJ variables/NNS ./.
+After/IN training/NN ,/, these/DT variables/NNS are/VBP often/RB used/VBN as/IN a/DT new/JJ representation/NN ,/, more/RBR effective/JJ than/IN the/DT original/JJ features/NNS in/IN a/DT variety/NN of/IN learning/VBG tasks/NNS ./.
+However/RB ,/, the/DT representations/NNS constructed/VBN by/IN contemporary/JJ generative/JJ models/NNS are/VBP usually/RB point-wise/JJ deterministic/JJ mappings/NNS from/IN the/DT original/JJ feature/NN space/NN ./.
+Thus/RB ,/, even/RB with/IN representations/NNS robust/JJ to/IN class/NN -/HYPH specific/JJ transformations/NNS ,/, statistically/RB driven/VBN models/NNS trained/VBN on/IN them/PRP would/MD not/RB be/VB able/JJ to/TO generalize/VB when/WRB the/DT labeled/VBN data/NNS is/VBZ scarce/JJ ./.
+Inspired/VBN by/IN the/DT stochasticity/NN of/IN the/DT synaptic/JJ connections/NNS in/IN the/DT brain/NN ,/, we/PRP introduce/VBP Energy/NNP -/HYPH based/VBN Stochastic/JJ Ensembles/NNS ./.
+These/DT ensembles/NNS can/MD learn/VB non-deterministic/JJ representations/NNS ,/, i.e./FW ,/, mappings/NNS from/IN the/DT feature/NN space/NN to/IN a/DT family/NN of/IN distributions/NNS in/IN the/DT latent/JJ space/NN ./.
+These/DT mappings/NNS are/VBP encoded/VBN in/IN a/DT distribution/NN over/IN a/DT (/-LRB- possibly/RB infinite/JJ )/-RRB- collection/NN of/IN models/NNS ./.
+By/IN conditionally/RB sampling/VBG models/NNS from/IN the/DT ensemble/NN ,/, we/PRP obtain/VBP multiple/JJ representations/NNS for/IN every/DT input/NN example/NN and/CC effectively/RB augment/VB the/DT data/NNS ./.
+We/PRP propose/VBP an/DT algorithm/NN similar/JJ to/IN contrastive/JJ divergence/NN for/IN training/NN restricted/VBN Boltzmann/NNP stochastic/JJ ensembles/NNS ./.
+Finally/RB ,/, we/PRP demonstrate/VBP the/DT concept/NN of/IN the/DT stochastic/JJ representations/NNS on/IN a/DT synthetic/JJ dataset/NN as/RB well/RB as/IN test/NN them/PRP in/IN the/DT one/CD -/HYPH shot/NN learning/NN scenario/NN on/IN MNIST/NNP ./.

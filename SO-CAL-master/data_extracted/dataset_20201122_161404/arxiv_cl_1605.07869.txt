@@ -1,0 +1,6 @@
+Models of neural machine translation are often from a discriminative family of encoder-decoders that learn a conditional distribution of a target sentence given a source sentence.
+In this paper, we propose a variational model to learn this conditional distribution for neural machine translation: a variational encoder-decoder model that can be trained end-to-end.
+Different from the vanilla encoder-decoder model that generates target translations from hidden representations of source sentences alone, the variational model introduces a continuous latent variable to explicitly model underlying semantics of source sentences and to guide the generation of target translations.
+In order to perform an efficient posterior inference, we build a neural posterior approximator that is conditioned only on the source side.
+Additionally, we employ a reparameterization technique to estimate the variational lower bound so as to enable standard stochastic gradient optimization and large-scale training for the variational model.
+Experiments on NIST Chinese-English translation tasks show that the proposed variational neural machine translation achieves significant improvements over both state-of-the-art statistical and neural machine translation baselines.

@@ -1,0 +1,6 @@
+Reordering/NN is/VBZ a/DT challenge/NN to/IN machine/NN translation/NN (/-LRB- MT/NN )/-RRB- systems/NNS ./.
+In/IN MT/NN ,/, the/DT widely/RB used/VBN approach/NN is/VBZ to/TO apply/VB word/NN based/VBN language/NN model/NN (/-LRB- LM/NN )/-RRB- which/WDT considers/VBZ the/DT constituent/JJ units/NNS of/IN a/DT sentence/NN as/IN words/NNS ./.
+In/IN speech/NN recognition/NN (/-LRB- SR/NN )/-RRB- ,/, some/DT phrase/NN based/VBN LM/NN have/VBP been/VBN proposed/VBN ./.
+However/RB ,/, those/DT LMs/NNS are/VBP not/RB necessarily/RB suitable/JJ or/CC optimal/JJ for/IN reordering/NN ./.
+We/PRP propose/VBP two/CD phrase/NN based/VBN LMs/NNS which/WDT considers/VBZ the/DT constituent/JJ units/NNS of/IN a/DT sentence/NN as/IN phrases/NNS ./.
+Experiments/NNS show/VBP that/IN our/PRP$ phrase/NN based/VBN LMs/NNPS outperform/VBP the/DT word/NN based/VBN LM/NN with/IN the/DT respect/NN of/IN perplexity/NN and/CC n/NN -/HYPH best/JJS list/NN re-ranking/NN ./.

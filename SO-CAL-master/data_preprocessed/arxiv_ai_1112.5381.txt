@@ -1,0 +1,5 @@
+We/PRP consider/VBP the/DT task/NN of/IN performing/VBG probabilistic/JJ inference/NN with/IN probabilistic/JJ logical/JJ models/NNS ./.
+Many/JJ algorithms/NNS for/IN approximate/JJ inference/NN with/IN such/JJ models/NNS are/VBP based/VBN on/IN sampling/NN ./.
+From/IN a/DT logic/NN programming/NN perspective/NN ,/, sampling/NN boils/VBZ down/RP to/IN repeatedly/RB calling/VBG the/DT same/JJ queries/NNS on/IN a/DT knowledge/NN base/NN composed/VBN of/IN a/DT static/NN part/NN and/CC a/DT dynamic/JJ part/NN ./.
+The/DT larger/JJR the/DT static/NN part/NN ,/, the/DT more/JJR redundancy/NN there/EX is/VBZ in/IN these/DT repeated/VBN calls/NNS ./.
+This/DT is/VBZ problematic/JJ since/IN inefficient/JJ sampling/NN yields/NNS poor/JJ approximations/NNS ./.

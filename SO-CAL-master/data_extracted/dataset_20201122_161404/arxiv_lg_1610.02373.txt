@@ -1,0 +1,11 @@
+Increasing the scalability of machine learning to handle big volume of data is a challenging task.
+The scale up approach has some limitations.
+In this paper, we proposed a scale out approach for CNN-ELM based on MapReduce on classifier level.
+Map process is the CNN-ELM training for certain partition of data.
+It involves many CNN-ELM models that can be trained asynchronously.
+Reduce process is the averaging of all CNN-ELM weights as final training result.
+This approach can save a lot of training time than single CNN-ELM models trained alone.
+This approach also increased the scalability of machine learning by combining scale out and scale up approaches.
+We verified our method in extended MNIST data set and not-MNIST data set experiment.
+However, it has some drawbacks by additional iteration learning parameters that need to be carefully taken and training data distribution that need to be carefully selected.
+Further researches to use more complex image data set are required.

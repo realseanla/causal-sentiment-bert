@@ -1,0 +1,6 @@
+Views/NNS are/VBP a/DT standard/JJ abstraction/NN in/IN constraint/NN programming/NN :/: They/PRP make/VBP it/PRP possible/JJ to/TO implement/VB a/DT single/JJ version/NN of/IN each/DT constraint/NN ,/, while/IN avoiding/VBG to/TO create/VB new/JJ variables/NNS and/CC constraints/NNS that/WDT would/MD slow/VB down/RP propagation/NN ./.
+Traditional/JJ constraint/NN -/HYPH programming/NN systems/NNS provide/VBP the/DT concept/NN of/IN {/-LRB- \/SYM em/PRP variable/JJ views/NNS }/-RRB- which/WDT implement/VBP a/DT view/NN of/IN the/DT type/NN $/$ y/NN =/SYM f/NN (/-LRB- x/NN )/-RRB- $/$ by/IN delegating/VBG all/DT (/-LRB- domain/NN and/CC constraint/NN )/-RRB- operations/NNS on/IN variable/JJ $/$ y/WRB $/$ to/IN variable/JJ $/$ x/SYM $/$ ./.
+This/DT paper/NN proposes/VBZ the/DT alternative/JJ concept/NN of/IN {/-LRB- \/NFP em/PRP domain/NN views/NNS }/-RRB- which/WDT only/RB delegate/VBP domain/NN operations/NNS ./.
+Domain/NN views/NNS preserve/VB the/DT benefits/NNS of/IN variable/JJ views/NNS but/CC simplify/VBP the/DT implementation/NN of/IN value/NN -/HYPH based/VBN propagation/NN ./.
+Domain/NN views/NNS also/RB support/VBP non-injective/JJ views/NNS compositionally/RB ,/, expanding/VBG the/DT scope/NN of/IN views/NNS significantly/RB ./.
+Experimental/JJ results/NNS demonstrate/VBP the/DT practical/JJ benefits/NNS of/IN domain/NN views/NNS ./.

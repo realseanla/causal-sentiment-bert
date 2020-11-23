@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT soft/JJ attention/NN based/VBN model/NN for/IN the/DT task/NN of/IN action/NN recognition/NN in/IN videos/NNS ./.
+We/PRP use/VBP multi-layered/JJ Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- RNNs/NNS )/-RRB- with/IN Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- units/NNS which/WDT are/VBP deep/JJ both/CC spatially/RB and/CC temporally/RB ./.
+Our/PRP$ model/NN learns/VBZ to/TO focus/VB selectively/RB on/IN parts/NNS of/IN the/DT video/NN frames/NNS and/CC classifies/VBZ videos/NNS after/IN taking/VBG a/DT few/JJ glimpses/NNS ./.
+The/DT model/NN essentially/RB learns/VBZ which/WDT parts/NNS in/IN the/DT frames/NNS are/VBP relevant/JJ for/IN the/DT task/NN at/IN hand/NN and/CC attaches/VBZ higher/JJR importance/NN to/IN them/PRP ./.
+We/PRP evaluate/VBP the/DT model/NN on/IN UCF/NNP -/HYPH 11/CD (/-LRB- YouTube/NNP Action/NNP )/-RRB- ,/, HMDB/NN -/HYPH 51/CD and/CC Hollywood2/NN datasets/NNS and/CC analyze/VB how/WRB the/DT model/NN focuses/VBZ its/PRP$ attention/NN depending/VBG on/IN the/DT scene/NN and/CC the/DT action/NN being/VBG performed/VBN ./.

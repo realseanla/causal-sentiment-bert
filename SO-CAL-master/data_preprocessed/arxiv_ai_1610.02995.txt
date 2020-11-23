@@ -1,0 +1,6 @@
+In/IN classical/JJ machine/NN learning/NN ,/, regression/NN is/VBZ treated/VBN as/IN a/DT black/JJ box/NN process/NN of/IN identifying/VBG a/DT suitable/JJ function/NN from/IN a/DT hypothesis/NN set/NN without/IN attempting/VBG to/TO gain/VB insight/NN into/IN the/DT mechanism/NN connecting/VBG inputs/NNS and/CC outputs/NNS ./.
+In/IN the/DT natural/JJ sciences/NNS ,/, however/RB ,/, finding/VBG an/DT interpretable/JJ function/NN for/IN a/DT phenomenon/NN is/VBZ the/DT prime/JJ goal/NN as/IN it/PRP allows/VBZ to/TO understand/VB and/CC generalize/VB results/NNS ./.
+This/DT paper/NN proposes/VBZ a/DT novel/JJ type/NN of/IN function/NN learning/NN network/NN ,/, called/VBN equation/NN learner/NN (/-LRB- EQL/NN )/-RRB- ,/, that/WDT can/MD learn/VB analytical/JJ expressions/NNS and/CC is/VBZ able/JJ to/TO extrapolate/VB to/IN unseen/JJ domains/NNS ./.
+It/PRP is/VBZ implemented/VBN as/IN an/DT end/NN -/HYPH to/IN -/HYPH end/NN differentiable/JJ feed/NN -/HYPH forward/JJ network/NN and/CC allows/VBZ for/IN efficient/JJ gradient/NN based/VBN training/NN ./.
+Due/IN to/IN sparsity/NN regularization/NN concise/JJ interpretable/JJ expressions/NNS can/MD be/VB obtained/VBN ./.
+Often/RB the/DT true/JJ underlying/JJ source/NN expression/NN is/VBZ identified/VBN ./.

@@ -1,0 +1,6 @@
+To/TO recognize/VB an/DT object/NN in/IN an/DT image/NN ,/, the/DT user/NN must/MD apply/VB a/DT combination/NN of/IN operators/NNS ,/, where/WRB each/DT operator/NN has/VBZ a/DT set/NN of/IN parameters/NNS ./.
+These/DT parameters/NNS must/MD be/VB well/RB adjusted/VBN in/IN order/NN to/TO reach/VB good/JJ results/NNS ./.
+Usually/RB ,/, this/DT adjustment/NN is/VBZ made/VBN manually/RB by/IN the/DT user/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT new/JJ method/NN to/TO automate/VB the/DT process/NN of/IN parameter/NN adjustment/NN for/IN an/DT object/NN recognition/NN task/NN ./.
+Our/PRP$ method/NN is/VBZ based/VBN on/IN reinforcement/NN learning/NN ,/, we/PRP use/VBP two/CD types/NNS of/IN agents/NNS :/: User/NN Agent/NNP that/WDT gives/VBZ the/DT necessary/JJ information/NN and/CC Parameter/NN Agent/NNP that/WDT adjusts/VBZ the/DT parameters/NNS of/IN each/DT operator/NN ./.
+Due/IN to/IN the/DT nature/NN of/IN reinforcement/NN learning/VBG the/DT results/NNS do/VBP not/RB depend/VB only/RB on/IN the/DT system/NN characteristics/NNS but/CC also/RB on/IN the/DT user/NN favorite/JJ choices/NNS ./.

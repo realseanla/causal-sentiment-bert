@@ -1,0 +1,9 @@
+Neural/JJ networks/NNS are/VBP both/DT computationally/RB intensive/JJ and/CC memory/NN intensive/JJ ,/, making/VBG them/PRP difficult/JJ to/TO deploy/VB on/IN embedded/VBN systems/NNS ./.
+Also/RB ,/, conventional/JJ networks/NNS fix/VBP the/DT architecture/NN before/IN training/NN starts/NNS ;/: as/IN a/DT result/NN ,/, training/NN can/MD not/RB improve/VB the/DT architecture/NN ./.
+To/TO address/VB these/DT limitations/NNS ,/, we/PRP describe/VBP a/DT method/NN to/TO reduce/VB the/DT storage/NN and/CC computation/NN required/VBN by/IN neural/JJ networks/NNS by/IN an/DT order/NN of/IN magnitude/NN without/IN affecting/VBG their/PRP$ accuracy/NN ,/, by/IN learning/VBG only/RB the/DT important/JJ connections/NNS ./.
+Our/PRP$ method/NN prunes/VBZ redundant/JJ connections/NNS using/VBG a/DT three/CD -/HYPH step/NN method/NN ./.
+First/RB ,/, we/PRP train/VBP the/DT network/NN to/TO learn/VB which/WDT connections/NNS are/VBP important/JJ ./.
+Next/RB ,/, we/PRP prune/VBP the/DT unimportant/JJ connections/NNS ./.
+Finally/RB ,/, we/PRP retrain/VBP the/DT network/NN to/IN fine/JJ tune/NN the/DT weights/NNS of/IN the/DT remaining/VBG connections/NNS ./.
+On/IN the/DT ImageNet/NNP dataset/NN ,/, our/PRP$ method/NN reduced/VBD the/DT number/NN of/IN parameters/NNS of/IN AlexNet/NNP by/IN a/DT factor/NN of/IN 9x/NN ,/, from/IN 61/CD million/CD to/IN 6.7/CD million/CD ,/, without/IN incurring/VBG accuracy/NN loss/NN ./.
+Similar/JJ experiments/NNS with/IN VGG16/NN found/VBD that/IN the/DT network/NN as/IN a/DT whole/NN can/MD be/VB reduced/VBN 6.8/CD x/SYM just/RB by/IN pruning/NN the/DT fully/RB -/HYPH connected/VBN layers/NNS ,/, again/RB with/IN no/DT loss/NN of/IN accuracy/NN ./.

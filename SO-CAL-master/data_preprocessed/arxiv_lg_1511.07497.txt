@@ -1,0 +1,10 @@
+Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNNs/NNS )/-RRB- have/VBP recently/RB emerged/VBN as/IN the/DT dominant/JJ model/NN in/IN computer/NN vision/NN ./.
+If/IN provided/VBN with/IN enough/JJ training/NN data/NNS ,/, they/PRP predict/VBP almost/RB any/DT visual/JJ quantity/NN ./.
+In/IN a/DT discrete/JJ setting/NN ,/, such/JJ as/IN classification/NN ,/, CNNs/NNS are/VBP not/RB only/RB able/JJ to/TO predict/VB a/DT label/NN but/CC often/RB predict/VBP a/DT confidence/NN in/IN the/DT form/NN of/IN a/DT probability/NN distribution/NN over/IN the/DT output/NN space/NN ./.
+In/IN continuous/JJ regression/NN tasks/NNS ,/, such/PDT a/DT probability/NN estimate/NN is/VBZ often/RB lacking/VBG ./.
+We/PRP present/VBP a/DT regression/NN framework/NN which/WDT models/NNS the/DT output/NN distribution/NN of/IN neural/JJ networks/NNS ./.
+This/DT output/NN distribution/NN allows/VBZ us/PRP to/TO infer/VB the/DT most/RBS likely/JJ labeling/NN following/VBG a/DT set/NN of/IN physical/JJ or/CC modeling/NN constraints/NNS ./.
+These/DT constraints/NNS capture/VBP the/DT intricate/JJ interplay/NN between/IN different/JJ input/NN and/CC output/NN variables/NNS ,/, and/CC complement/VB the/DT output/NN of/IN a/DT CNN/NNP ./.
+However/RB ,/, they/PRP may/MD not/RB hold/VB everywhere/RB ./.
+Our/PRP$ setup/NN further/RB allows/VBZ to/TO learn/VB a/DT confidence/NN with/IN which/WDT a/DT constraint/NN holds/VBZ ,/, in/IN the/DT form/NN of/IN a/DT distribution/NN of/IN the/DT constrain/VB satisfaction/NN ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN on/IN the/DT problem/NN of/IN intrinsic/JJ image/NN decomposition/NN ,/, and/CC show/VBP that/IN constrained/VBN structured/JJ regression/NN significantly/RB increases/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ./.

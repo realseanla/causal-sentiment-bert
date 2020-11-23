@@ -1,0 +1,7 @@
+We/PRP consider/VBP the/DT problem/NN of/IN fully/RB unsupervised/JJ learning/NN of/IN grammatical/JJ (/-LRB- part/NN -/HYPH of/IN -/HYPH speech/NN )/-RRB- categories/NNS from/IN unlabeled/JJ text/NN ./.
+The/DT standard/JJ maximum/NN -/HYPH likelihood/NN hidden/VBN Markov/NNP model/NN for/IN this/DT task/NN performs/VBZ poorly/RB ,/, because/IN of/IN its/PRP$ weak/JJ inductive/JJ bias/NN and/CC large/JJ model/NN capacity/NN ./.
+We/PRP address/VBP this/DT problem/NN by/IN refining/VBG the/DT model/NN and/CC modifying/VBG the/DT learning/NN objective/NN to/TO control/VB its/PRP$ capacity/NN via/IN para/NN -/HYPH metric/JJ and/CC non-parametric/JJ constraints/NNS ./.
+Our/PRP$ approach/NN enforces/VBZ word/NN -/HYPH category/NN association/NN sparsity/NN ,/, adds/VBZ morphological/JJ and/CC orthographic/JJ features/NNS ,/, and/CC eliminates/VBZ hard/JJ -/HYPH to/IN -/HYPH estimate/NN parameters/NNS for/IN rare/JJ words/NNS ./.
+We/PRP develop/VBP an/DT efficient/JJ learning/NN algorithm/NN that/WDT is/VBZ not/RB much/RB more/JJR computationally/RB intensive/JJ than/IN standard/JJ training/NN ./.
+We/PRP also/RB provide/VBP an/DT open/JJ -/HYPH source/NN implementation/NN of/IN the/DT algorithm/NN ./.
+Our/PRP$ experiments/NNS on/IN five/CD diverse/JJ languages/NNS (/-LRB- Bulgarian/JJ ,/, Danish/JJ ,/, English/NNP ,/, Portuguese/NNP ,/, Spanish/NNP )/-RRB- achieve/VBP significant/JJ improvements/NNS compared/VBN with/IN previous/JJ methods/NNS for/IN the/DT same/JJ task/NN ./.

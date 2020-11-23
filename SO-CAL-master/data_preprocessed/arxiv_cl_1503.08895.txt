@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP introduce/VBP a/DT variant/NN of/IN Memory/NN Networks/NNS that/WDT needs/VBZ significantly/RB less/JJR supervision/NN to/TO perform/VB question/NN and/CC answering/VBG tasks/NNS ./.
+The/DT original/JJ model/NN requires/VBZ that/IN the/DT sentences/NNS supporting/VBG the/DT answer/NN be/VB explicitly/RB indicated/VBN during/IN training/NN ./.
+In/IN contrast/NN ,/, our/PRP$ approach/NN only/RB requires/VBZ the/DT answer/NN to/IN the/DT question/NN during/IN training/NN ./.
+We/PRP apply/VBP the/DT model/NN to/IN the/DT synthetic/JJ bAbI/NN tasks/NNS ,/, showing/VBG that/IN our/PRP$ approach/NN is/VBZ competitive/JJ with/IN the/DT supervised/JJ approach/NN ,/, particularly/RB when/WRB trained/VBN on/IN a/DT sufficiently/RB large/JJ amount/NN of/IN data/NNS ./.
+Furthermore/RB ,/, it/PRP decisively/RB beats/VBZ other/JJ weakly/RB supervised/JJ approaches/NNS based/VBN on/IN LSTMs/NNPS ./.
+The/DT approach/NN is/VBZ quite/RB general/JJ and/CC can/MD potentially/RB be/VB applied/VBN to/IN many/JJ other/JJ tasks/NNS that/WDT require/VBP capturing/VBG long/RB -/HYPH term/NN dependencies/NNS ./.

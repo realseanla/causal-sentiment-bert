@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN global/JJ transmit/VB power/NN minimization/NN in/IN a/DT self/NN -/HYPH congiguring/VBG network/NN where/WRB radio/NN devices/NNS are/VBP subject/JJ to/TO operate/VB at/IN a/DT minimum/JJ signal/NN to/IN interference/NN plus/CC noise/NN ratio/NN (/-LRB- SINR/NNP )/-RRB- level/NN ./.
+We/PRP model/VBP the/DT network/NN as/IN a/DT parallel/JJ Gaussian/JJ interference/NN channel/NN and/CC we/PRP introduce/VBP a/DT fully/RB decentralized/VBN algorithm/NN (/-LRB- based/VBN on/IN trial/NN and/CC error/NN )/-RRB- able/JJ to/TO statistically/RB achieve/VB a/DT congiguration/NN where/WRB the/DT performance/NN demands/NNS are/VBP met/VBN ./.
+Contrary/JJ to/IN existing/VBG solutions/NNS ,/, our/PRP$ algorithm/NN requires/VBZ only/RB local/JJ information/NN and/CC can/MD learn/VB stable/JJ and/CC efficient/JJ working/NN points/NNS by/IN using/VBG only/RB one/CD bit/NN feedback/NN ./.
+We/PRP model/VBP the/DT network/NN under/IN two/CD different/JJ game/NN theoretical/JJ frameworks/NNS :/: normal/JJ form/NN and/CC satisfaction/NN form/NN ./.
+We/PRP show/VBP that/IN the/DT converging/VBG points/NNS correspond/VBP to/IN equilibrium/NN points/NNS ,/, namely/RB Nash/NNP and/CC satisfaction/NN equilibrium/NN ./.
+Similarly/RB ,/, we/PRP provide/VBP sufficient/JJ conditions/NNS for/IN the/DT algorithm/NN to/TO converge/VB in/IN both/DT formulations/NNS ./.
+Moreover/RB ,/, we/PRP provide/VBP analytical/JJ results/NNS to/TO estimate/VB the/DT algorithm/NN 's/POS performance/NN ,/, as/IN a/DT function/NN of/IN the/DT network/NN parameters/NNS ./.
+Finally/RB ,/, numerical/JJ results/NNS are/VBP provided/VBN to/TO validate/VB our/PRP$ theoretical/JJ conclusions/NNS ./.
+Keywords/NNS :/: Learning/NN ,/, power/NN control/NN ,/, trial/NN and/CC error/NN ,/, Nash/NNP equilibrium/NN ,/, spectrum/NN sharing/NN ./.

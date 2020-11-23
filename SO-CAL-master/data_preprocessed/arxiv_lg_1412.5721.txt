@@ -1,0 +1,5 @@
+This/DT paper/NN shows/VBZ that/IN one/PRP can/MD be/VB competitive/JJ with/IN with/IN the/DT k/NN -/HYPH means/NN objective/NN while/IN operating/VBG online/RB ./.
+In/IN this/DT model/NN ,/, the/DT algorithm/NN receives/VBZ vectors/NNS v1/NN ,/, .../NFP ,/, vn/NN one/CD by/IN one/CD in/IN arbitrary/JJ order/NN ./.
+For/IN each/DT vector/NN vi/NNP the/DT algorithm/NN outputs/NNS a/DT cluster/NN identifier/NN before/IN receiving/VBG vi/NNP 1/CD ./.
+Our/PRP$ online/JJ algorithm/NN generates/VBZ ~/SYM O/NN (/-LRB- k/NN )/-RRB- clusters/NNS whose/WP$ k/NN -/HYPH means/NN cost/NN is/VBZ ~/SYM O/NN (/-LRB- W/NNP */SYM )/-RRB- where/WRB W/NNP */NFP is/VBZ the/DT optimal/JJ k/NN -/HYPH means/NN cost/NN using/VBG k/NN clusters/NNS and/CC ~/SYM O/UH suppresses/VBZ poly/NN logarithmic/JJ factors/NNS ./.
+We/PRP also/RB show/VBP that/IN ,/, experimentally/RB ,/, it/PRP is/VBZ not/RB much/RB worse/JJR than/IN k/CD -/HYPH means/NN while/IN operating/VBG in/IN a/DT strictly/RB more/RBR constrained/JJ computational/JJ model/NN ./.

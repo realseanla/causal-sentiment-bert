@@ -1,0 +1,6 @@
+Obtaining/VBG a/DT survival/NN strategy/NN (/-LRB- policy/NN )/-RRB- is/VBZ one/CD of/IN the/DT fundamental/JJ problems/NNS of/IN biological/JJ agents/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP generalize/VBP the/DT formulation/NN of/IN previous/JJ research/NN related/VBN to/IN the/DT survival/NN of/IN an/DT agent/NN and/CC we/PRP formulate/VBP the/DT survival/NN problem/NN as/IN a/DT maximization/NN of/IN the/DT multi-step/JJ survival/NN probability/NN in/IN future/JJ time/NN steps/NNS ./.
+We/PRP introduce/VBP a/DT method/NN for/IN converting/VBG the/DT maximization/NN of/IN multi-step/JJ survival/NN probability/NN into/IN a/DT classical/JJ reinforcement/NN learning/VBG problem/NN ./.
+Using/VBG this/DT conversion/NN ,/, the/DT reward/NN function/NN (/-LRB- negative/JJ temporal/JJ cost/NN function/NN )/-RRB- is/VBZ expressed/VBN as/IN the/DT log/NN of/IN the/DT temporal/JJ survival/NN probability/NN ./.
+And/CC we/PRP show/VBP that/IN the/DT objective/JJ function/NN of/IN the/DT reinforcement/NN learning/VBG in/IN this/DT sense/NN is/VBZ proportional/JJ to/IN the/DT variational/JJ lower/JJR bound/VBN of/IN the/DT original/JJ problem/NN ./.
+Finally/RB ,/, We/PRP empirically/RB demonstrate/VBP that/IN the/DT agent/NN learns/VBZ survival/NN behavior/NN by/IN using/VBG the/DT reward/NN function/NN introduced/VBN in/IN this/DT paper/NN ./.

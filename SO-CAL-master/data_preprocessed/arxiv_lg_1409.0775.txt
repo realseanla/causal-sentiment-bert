@@ -1,0 +1,12 @@
+Adverse/JJ drug/NN reaction/NN (/-LRB- ADR/NN )/-RRB- is/VBZ widely/RB concerned/JJ for/IN public/JJ health/NN issue/NN ./.
+ADRs/NNS are/VBP one/CD of/IN most/JJS common/JJ causes/NNS to/TO withdraw/VB some/DT drugs/NNS from/IN market/NN ./.
+Prescription/NN event/NN monitoring/NN (/-LRB- PEM/NN )/-RRB- is/VBZ an/DT important/JJ approach/NN to/TO detect/VB the/DT adverse/JJ drug/NN reactions/NNS ./.
+The/DT main/JJ problem/NN to/TO deal/VB with/IN this/DT method/NN is/VBZ how/WRB to/TO automatically/RB extract/VB the/DT medical/JJ events/NNS or/CC side/NN effects/NNS from/IN high/JJ -/HYPH throughput/NN medical/JJ events/NNS ,/, which/WDT are/VBP collected/VBN from/IN day/NN to/IN day/NN clinical/JJ practice/NN ./.
+In/IN this/DT study/NN we/PRP propose/VBP a/DT novel/JJ concept/NN of/IN feature/NN matrix/NN to/TO detect/VB the/DT ADRs/NNS ./.
+Feature/NN matrix/NN ,/, which/WDT is/VBZ extracted/VBN from/IN big/JJ medical/JJ data/NNS from/IN The/DT Health/NNP Improvement/NNP Network/NNP (/-LRB- THIN/NNP )/-RRB- database/NN ,/, is/VBZ created/VBN to/TO characterize/VB the/DT medical/JJ events/NNS for/IN the/DT patients/NNS who/WP take/VBP drugs/NNS ./.
+Feature/NN matrix/NN builds/VBZ the/DT foundation/NN for/IN the/DT irregular/JJ and/CC big/JJ medical/JJ data/NNS ./.
+Then/RB feature/NN selection/NN methods/NNS are/VBP performed/VBN on/IN feature/NN matrix/NN to/TO detect/VB the/DT significant/JJ features/NNS ./.
+Finally/RB the/DT ADRs/NNS can/MD be/VB located/VBN based/VBN on/IN the/DT significant/JJ features/NNS ./.
+The/DT experiments/NNS are/VBP carried/VBN out/RP on/IN three/CD drugs/NNS :/: Atorvastatin/NN ,/, Alendronate/NNP ,/, and/CC Metoclopramide/NNP ./.
+Major/JJ side/NN effects/NNS for/IN each/DT drug/NN are/VBP detected/VBN and/CC better/JJR performance/NN is/VBZ achieved/VBN compared/VBN to/IN other/JJ computerized/JJ methods/NNS ./.
+The/DT detected/VBN ADRs/NNS are/VBP based/VBN on/IN computerized/JJ methods/NNS ,/, further/JJ investigation/NN is/VBZ needed/VBN ./.

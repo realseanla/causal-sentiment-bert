@@ -1,0 +1,4 @@
+Deep neural networks (DNN) have been successfully applied for music classification tasks including music tagging.
+In this paper, we investigate the effect of audio preprocessing on music tagging with neural networks.
+We perform comprehensive experiments involving audio preprocessing using different time-frequency representations, logarithmic magnitude compression, frequency weighting and scaling.
+We show that many commonly used input preprocessing techniques are redundant except magnitude compression.

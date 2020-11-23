@@ -1,0 +1,5 @@
+Independent/JJ Component/NN Analysis/NN (/-LRB- ICA/NN )/-RRB- is/VBZ the/DT problem/NN of/IN learning/VBG a/DT square/JJ matrix/NN $/$ A$/$ ,/, given/VBN samples/NNS of/IN $/$ X/CD =/SYM AS$/NN ,/, where/WRB $/$ S$/CD is/VBZ a/DT random/JJ vector/NN with/IN independent/JJ coordinates/NNS ./.
+Most/JJS existing/VBG algorithms/NNS are/VBP provably/RB efficient/JJ only/RB when/WRB each/DT $/$ S_i/CD $/$ has/VBZ finite/JJ and/CC moderately/RB valued/VBN fourth/JJ moment/NN ./.
+However/RB ,/, there/EX are/VBP practical/JJ applications/NNS where/WRB this/DT assumption/NN need/MD not/RB be/VB true/JJ ,/, such/JJ as/IN speech/NN and/CC finance/NN ./.
+Algorithms/NNS have/VBP been/VBN proposed/VBN for/IN heavy/JJ -/HYPH tailed/VBN ICA/NN ,/, but/CC they/PRP are/VBP not/RB practical/JJ ,/, using/VBG random/JJ walks/NNS and/CC the/DT full/JJ power/NN of/IN the/DT ellipsoid/JJ algorithm/NN multiple/JJ times/NNS ./.
+The/DT main/JJ contributions/NNS of/IN this/DT paper/NN are/VBP :/:

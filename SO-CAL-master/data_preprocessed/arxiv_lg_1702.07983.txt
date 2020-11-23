@@ -1,0 +1,6 @@
+Despite/IN the/DT successes/NNS in/IN capturing/VBG continuous/JJ distributions/NNS ,/, the/DT application/NN of/IN generative/JJ adversarial/JJ networks/NNS (/-LRB- GANs/NNS )/-RRB- to/IN discrete/JJ settings/NNS ,/, like/IN natural/JJ language/NN tasks/NNS ,/, is/VBZ rather/RB restricted/VBN ./.
+The/DT fundamental/JJ reason/NN is/VBZ the/DT difficulty/NN of/IN back/RB -/HYPH propagation/NN through/IN discrete/JJ random/JJ variables/NNS combined/VBN with/IN the/DT inherent/JJ instability/NN of/IN the/DT GAN/NNP training/NN objective/NN ./.
+To/TO address/VB these/DT problems/NNS ,/, we/PRP propose/VBP Maximum/NNP -/HYPH Likelihood/NNP Augmented/NNP Discrete/NNP Generative/NNP Adversarial/NNP Networks/NNP ./.
+Instead/RB of/IN directly/RB optimizing/VBG the/DT GAN/NNP objective/NN ,/, we/PRP derive/VBP a/DT novel/NN and/CC low/JJ -/HYPH variance/NN objective/NN using/VBG the/DT discriminator/NN 's/POS output/NN that/WDT follows/VBZ corresponds/VBZ to/IN the/DT log/NN -/HYPH likelihood/NN ./.
+Compared/VBN with/IN the/DT original/JJ ,/, the/DT new/JJ objective/NN is/VBZ proved/VBN to/TO be/VB consistent/JJ in/IN theory/NN and/CC beneficial/JJ in/IN practice/NN ./.
+The/DT experimental/JJ results/NNS on/IN various/JJ discrete/JJ datasets/NNS demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN approach/NN ./.

@@ -1,0 +1,16 @@
+There/EX is/VBZ a/DT new/JJ generation/NN of/IN emoticons/NNS ,/, called/VBN emojis/NN ,/, increasingly/RB used/VBN in/IN mobile/JJ communications/NNS and/CC social/JJ media/NNS ./.
+In/IN the/DT last/JJ two/CD years/NNS ,/, over/IN ten/CD billion/CD of/IN emojis/NNS were/VBD used/VBN on/IN Twitter/NNP ./.
+Emojis/NNP are/VBP Unicode/NNP graphic/JJ symbols/NNS ,/, used/VBN as/IN a/DT shorthand/NN to/TO express/VB concepts/NNS and/CC ideas/NNS ./.
+In/IN contrast/NN to/IN a/DT small/JJ number/NN of/IN well/RB -/HYPH known/VBN emoticons/NNS which/WDT carry/VBP clear/JJ emotional/JJ contents/NNS ,/, there/EX are/VBP hundreds/NNS of/IN emojis/NN ./.
+But/CC what/WP is/VBZ their/PRP$ emotional/JJ contents/NNS ?/.
+We/PRP provide/VBP the/DT first/JJ emoji/NN sentiment/NN lexicon/NN ,/, called/VBN Emoji/NNP Sentiment/NN Ranking/NN ,/, and/CC draw/VB a/DT sentiment/NN map/NN of/IN the/DT 751/CD most/RBS frequently/RB used/VBN emojis/NN ./.
+The/DT sentiment/NN of/IN emojis/NN is/VBZ computed/VBN from/IN the/DT sentiment/NN of/IN tweets/NNS in/IN which/WDT they/PRP occur/VBP ./.
+We/PRP have/VBP engaged/VBN 83/CD human/JJ annotators/NNS to/IN label/NN over/IN 1.6/CD million/CD tweets/NNS in/IN 13/CD European/JJ languages/NNS by/IN the/DT sentiment/NN polarity/NN (/-LRB- negative/JJ ,/, neutral/JJ ,/, or/CC positive/JJ )/-RRB- ./.
+About/RB 4/CD \/SYM percent/NN of/IN the/DT annotated/VBN tweets/NNS contain/VBP emojis/NN ./.
+The/DT sentiment/NN analysis/NN of/IN emojis/NN yields/VBZ several/JJ interesting/JJ conclusions/NNS ./.
+It/PRP turns/VBZ out/RP that/IN most/JJS of/IN the/DT emojis/NN are/VBP positive/JJ ,/, especially/RB the/DT most/RBS popular/JJ ones/NNS ./.
+The/DT sentiment/NN distribution/NN of/IN the/DT tweets/NNS with/IN and/CC without/IN emojis/NN is/VBZ significantly/RB different/JJ ./.
+The/DT inter-annotator/NN agreement/NN on/IN the/DT tweets/NNS with/IN emojis/NN is/VBZ higher/JJR ./.
+Emojis/NNP tend/VBP to/TO occur/VB at/IN the/DT end/NN of/IN the/DT tweets/NNS ,/, and/CC their/PRP$ sentiment/NN polarity/NN increases/VBZ with/IN the/DT distance/NN ./.
+We/PRP observe/VBP no/DT significant/JJ differences/NNS in/IN emoji/NN rankings/NNS between/IN the/DT 13/CD languages/NNS ,/, and/CC propose/VB our/PRP$ Emoji/NNP Sentiment/NN Ranking/NN as/IN a/DT European/JJ language/NN -/HYPH independent/JJ resource/NN for/IN automated/VBN sentiment/NN analysis/NN ./.
+Finally/RB ,/, the/DT paper/NN provides/VBZ a/DT formalization/NN of/IN sentiment/NN and/CC novel/JJ visualization/NN in/IN the/DT form/NN of/IN a/DT sentiment/NN bar/NN ./.

@@ -1,0 +1,9 @@
+Reinforcement/NN Learning/NN (/-LRB- RL/NN )/-RRB- aims/VBZ to/TO learn/VB an/DT optimal/JJ policy/NN for/IN a/DT Markov/NNP Decision/NN Process/NN (/-LRB- MDP/NN )/-RRB- ./.
+For/IN complex/NN ,/, high/JJ -/HYPH dimensional/JJ MDPs/NNS ,/, it/PRP may/MD only/RB be/VB feasible/JJ to/TO represent/VB the/DT policy/NN with/IN function/NN approximation/NN ./.
+If/IN the/DT policy/NN representation/NN used/VBN can/MD not/RB represent/VB good/JJ policies/NNS ,/, the/DT problem/NN is/VBZ misspecified/VBN and/CC the/DT learned/VBN policy/NN may/MD be/VB far/RB from/IN optimal/JJ ./.
+We/PRP introduce/VBP IHOMP/NNP as/IN an/DT approach/NN for/IN solving/VBG misspecified/VBN problems/NNS ./.
+IHOMP/NNP iteratively/RB refines/VBZ a/DT set/NN of/IN specialized/JJ policies/NNS based/VBN on/IN a/DT limited/JJ representation/NN ./.
+We/PRP refer/VBP to/IN these/DT policies/NNS as/IN policy/NN threads/NNS ./.
+At/IN the/DT same/JJ time/NN ,/, IHOMP/NN stitches/NNS these/DT policy/NN threads/NNS together/RB in/IN a/DT hierarchical/JJ fashion/NN to/TO solve/VB a/DT problem/NN that/WDT was/VBD otherwise/RB misspecified/VBN ./.
+We/PRP prove/VBP that/IN IHOMP/NNP enjoys/VBZ theoretical/JJ convergence/NN guarantees/NNS and/CC extend/VB IHOMP/NN to/TO exploit/VB Option/NN Interruption/NN (/-LRB- OI/NN )/-RRB- enabling/VBG it/PRP to/TO learn/VB where/WRB policy/NN threads/NNS can/MD be/VB reused/VBN ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN IHOMP/NNP can/MD find/VB near/IN -/HYPH optimal/JJ solutions/NNS to/IN otherwise/RB misspecified/VBN problems/NNS and/CC that/IN OI/NN can/MD further/RB improve/VB the/DT solutions/NNS ./.

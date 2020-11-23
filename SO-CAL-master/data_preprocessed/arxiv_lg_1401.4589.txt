@@ -1,0 +1,14 @@
+miRNA/NN and/CC gene/NN expression/NN profiles/NNS have/VBP been/VBN proved/VBN useful/JJ for/IN classifying/VBG cancer/NN samples/NNS ./.
+Efficient/JJ classifiers/NNS have/VBP been/VBN recently/RB sought/VBN and/CC developed/VBN ./.
+A/DT number/NN of/IN attempts/NNS to/TO classify/VB cancer/NN samples/NNS using/VBG miRNA/NN //HYPH gene/NN expression/NN profiles/NNS are/VBP known/VBN in/IN literature/NN ./.
+However/RB ,/, the/DT use/NN of/IN semi-supervised/VBN learning/NN models/NNS have/VBP been/VBN used/VBN recently/RB in/IN bioinformatics/NN ,/, to/TO exploit/VB the/DT huge/JJ corpuses/NNS of/IN publicly/RB available/JJ sets/NNS ./.
+Using/VBG both/DT labeled/VBN and/CC unlabeled/JJ sets/NNS to/TO train/VB sample/NN classifiers/NNS ,/, have/VBP not/RB been/VBN previously/RB considered/VBN when/WRB gene/NN and/CC miRNA/NN expression/NN sets/NNS are/VBP used/VBN ./.
+Moreover/RB ,/, there/EX is/VBZ a/DT motivation/NN to/TO integrate/VB both/DT miRNA/NN and/CC gene/NN expression/NN for/IN a/DT semi-supervised/JJ cancer/NN classification/NN as/IN that/DT provides/VBZ more/JJR information/NN on/IN the/DT characteristics/NNS of/IN cancer/NN samples/NNS ./.
+In/IN this/DT paper/NN ,/, two/CD semi-supervised/JJ machine/NN learning/VBG approaches/NNS ,/, namely/RB self/NN -/HYPH learning/NN and/CC co-training/NN ,/, are/VBP adapted/VBN to/TO enhance/VB the/DT quality/NN of/IN cancer/NN sample/NN classification/NN ./.
+These/DT approaches/NNS exploit/VBP the/DT huge/JJ public/JJ corpuses/NNS to/TO enrich/VB the/DT training/NN data/NNS ./.
+In/IN self/NN -/HYPH learning/NN ,/, miRNA/NN and/CC gene/NN based/VBN classifiers/NNS are/VBP enhanced/VBN independently/RB ./.
+While/IN in/IN co-training/NN ,/, both/CC miRNA/NN and/CC gene/NN expression/NN profiles/NNS are/VBP used/VBN simultaneously/RB to/TO provide/VB different/JJ views/NNS of/IN cancer/NN samples/NNS ./.
+To/IN our/PRP$ knowledge/NN ,/, it/PRP is/VBZ the/DT first/JJ attempt/NN to/TO apply/VB these/DT learning/VBG approaches/NNS to/IN cancer/NN classification/NN ./.
+The/DT approaches/NNS were/VBD evaluated/VBN using/VBG breast/NN cancer/NN ,/, hepatocellular/JJ carcinoma/NN (/-LRB- HCC/NNP )/-RRB- and/CC lung/NN cancer/NN expression/NN sets/NNS ./.
+Results/NNS show/VBP up/RP to/IN 20/CD percent/NN improvement/NN in/IN F1/NN -/HYPH measure/NN over/IN Random/NNP Forests/NNS and/CC SVM/NN classifiers/NNS ./.
+Co-Training/NNP also/RB outperforms/VBZ Low/JJ Density/NN Separation/NN (/-LRB- LDS/NN )/-RRB- approach/NN by/IN around/RB 25/CD percent/NN improvement/NN in/IN F1/NN -/HYPH measure/NN in/IN breast/NN cancer/NN ./.

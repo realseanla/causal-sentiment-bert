@@ -1,0 +1,6 @@
+Learning/VBG based/VBN hashing/VBG plays/VBZ a/DT pivotal/JJ role/NN in/IN large/JJ -/HYPH scale/NN visual/JJ search/NN ./.
+However/RB ,/, most/JJS existing/VBG hashing/VBG algorithms/NNS tend/VBP to/TO learn/VB shallow/JJ models/NNS that/WDT do/VBP not/RB seek/VB representative/JJ binary/JJ codes/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ hashing/VBG approach/NN based/VBN on/IN unsupervised/JJ deep/JJ learning/NN to/TO hierarchically/RB transform/VB features/NNS into/IN hash/NN codes/NNS ./.
+Within/IN the/DT heterogeneous/JJ deep/JJ hashing/VBG framework/NN ,/, the/DT autoencoder/NN layers/NNS with/IN specific/JJ constraints/NNS are/VBP considered/VBN to/TO model/VB the/DT nonlinear/JJ mapping/NN between/IN features/NNS and/CC binary/JJ codes/NNS ./.
+Then/RB ,/, a/DT Restricted/VBN Boltzmann/NNP Machine/NNP (/-LRB- RBM/NNP )/-RRB- layer/NN with/IN constraints/NNS is/VBZ utilized/VBN to/TO reduce/VB the/DT dimension/NN in/IN the/DT hamming/VBG space/NN ./.
+Extensive/JJ experiments/NNS on/IN the/DT problem/NN of/IN visual/JJ search/NN demonstrate/VBP the/DT competitiveness/NN of/IN our/PRP$ proposed/VBN approach/NN compared/VBN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ./.

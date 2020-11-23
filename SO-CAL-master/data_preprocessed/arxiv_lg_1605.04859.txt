@@ -1,0 +1,6 @@
+Deep/JJ neural/JJ networks/NNS are/VBP typically/RB represented/VBN by/IN a/DT much/RB larger/JJR number/NN of/IN parameters/NNS than/IN shallow/JJ models/NNS ,/, making/VBG them/PRP prohibitive/JJ for/IN small/JJ footprint/NN devices/NNS ./.
+Recent/JJ research/NN shows/VBZ that/IN there/EX is/VBZ considerable/JJ redundancy/NN in/IN the/DT parameter/NN space/NN of/IN deep/JJ neural/JJ networks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT method/NN to/TO compress/VB deep/JJ neural/JJ networks/NNS by/IN using/VBG the/DT Fisher/NNP Information/NNP metric/JJ ,/, which/WDT we/PRP estimate/VBP through/IN a/DT stochastic/JJ optimization/NN method/NN that/WDT keeps/VBZ track/NN of/IN second/JJ -/HYPH order/NN information/NN in/IN the/DT network/NN ./.
+We/PRP first/RB remove/VB unimportant/JJ parameters/NNS and/CC then/RB use/VB non-uniform/JJ fixed/JJ point/NN quantization/NN to/TO assign/VB more/JJR bits/NNS to/IN parameters/NNS with/IN higher/JJR Fisher/NNP Information/NNP estimates/VBZ ./.
+We/PRP evaluate/VBP our/PRP$ method/NN on/IN a/DT classification/NN task/NN with/IN a/DT convolutional/JJ neural/JJ network/NN trained/VBN on/IN the/DT MNIST/NN data/NNS set/VBN ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ method/NN outperforms/VBZ existing/VBG methods/NNS for/IN both/DT network/NN pruning/NN and/CC quantization/NN ./.

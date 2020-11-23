@@ -1,0 +1,8 @@
+Constraint/NN programming/NN can/MD definitely/RB be/VB seen/VBN as/IN a/DT model/NN -/HYPH driven/VBN paradigm/NN ./.
+The/DT users/NNS write/VBP programs/NNS for/IN modeling/NN problems/NNS ./.
+These/DT programs/NNS are/VBP mapped/VBN to/IN executable/JJ models/NNS to/TO calculate/VB the/DT solutions/NNS ./.
+This/DT paper/NN focuses/VBZ on/IN efficient/JJ model/NN management/NN (/-LRB- definition/NN and/CC transformation/NN )/-RRB- ./.
+From/IN this/DT point/NN of/IN view/NN ,/, we/PRP propose/VBP to/IN revisit/VB the/DT design/NN of/IN constraint/NN -/HYPH programming/NN systems/NNS ./.
+A/DT model/NN -/HYPH driven/VBN architecture/NN is/VBZ introduced/VBN to/TO map/VB solving/VBG -/HYPH independent/JJ constraint/NN models/NNS to/IN solving/VBG -/HYPH dependent/JJ decision/NN models/NNS ./.
+Several/JJ important/JJ questions/NNS are/VBP examined/VBN ,/, such/JJ as/IN the/DT need/NN for/IN a/DT visual/JJ highlevel/NN modeling/NN language/NN ,/, and/CC the/DT quality/NN of/IN metamodeling/NN techniques/NNS to/TO implement/VB the/DT transformations/NNS ./.
+A/DT main/JJ result/NN is/VBZ the/DT s/NN -/HYPH COMMA/NN platform/NN that/WDT efficiently/RB implements/VBZ the/DT chain/NN from/IN modeling/VBG to/IN solving/VBG constraint/NN problems/NNS

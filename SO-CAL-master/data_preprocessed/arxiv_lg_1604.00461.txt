@@ -1,0 +1,6 @@
+Modern/JJ NLP/NN models/NNS rely/VBP heavily/RB on/IN engineered/VBN features/NNS ,/, which/WDT often/RB combine/VBP word/NN and/CC contextual/JJ information/NN into/IN complex/JJ lexical/JJ features/NNS ./.
+Such/JJ combination/NN results/NNS in/IN large/JJ numbers/NNS of/IN features/NNS ,/, which/WDT can/MD lead/VB to/IN over-fitting/NN ./.
+We/PRP present/VBP a/DT new/JJ model/NN that/WDT represents/VBZ complex/JJ lexical/JJ features/NNS ---/, comprised/VBN of/IN parts/NNS for/IN words/NNS ,/, contextual/JJ information/NN and/CC labels/NNS ---/, in/IN a/DT tensor/NN that/WDT captures/VBZ conjunction/NN information/NN among/IN these/DT parts/NNS ./.
+We/PRP apply/VBP low/JJ -/HYPH rank/NN tensor/NN approximations/NNS to/IN the/DT corresponding/VBG parameter/NN tensors/NNS to/TO reduce/VB the/DT parameter/NN space/NN and/CC improve/VB prediction/NN speed/NN ./.
+Furthermore/RB ,/, we/PRP investigate/VBP two/CD methods/NNS for/IN handling/VBG features/NNS that/WDT include/VBP $/$ n/NN $/$ -/HYPH grams/NNS of/IN mixed/VBN lengths/NNS ./.
+Our/PRP$ model/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN tasks/NNS in/IN relation/NN extraction/NN ,/, PP/NN -/HYPH attachment/NN ,/, and/CC preposition/NN disambiguation/NN ./.

@@ -1,0 +1,5 @@
+Poker is a family of card games that includes many variations.
+We hypothesize that most poker games can be solved as a pattern matching problem, and propose creating a strong poker playing system based on a unified poker representation.
+Our poker player learns through iterative self-play, and improves its understanding of the game by training on the results of its previous actions without sophisticated domain knowledge.
+We evaluate our system on three poker games: single player video poker, two-player Limit Texas Hold'em, and finally two-player 2-7 triple draw poker.
+We show that our model can quickly learn patterns in these very different poker games while it improves from zero knowledge to a competitive player against human experts.

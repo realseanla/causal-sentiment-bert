@@ -1,0 +1,8 @@
+There/EX has/VBZ been/VBN a/DT long/JJ history/NN of/IN using/VBG fuzzy/JJ language/NN equivalence/NN to/TO compare/VB the/DT behavior/NN of/IN fuzzy/JJ systems/NNS ,/, but/CC the/DT comparison/NN at/IN this/DT level/NN is/VBZ too/RB coarse/JJ ./.
+Recently/RB ,/, a/DT finer/JJR behavioral/JJ measure/NN ,/, bisimulation/NN ,/, has/VBZ been/VBN introduced/VBN to/IN fuzzy/JJ finite/NN automata/NN ./.
+However/RB ,/, the/DT results/NNS obtained/VBN are/VBP applicable/JJ only/RB to/IN finite/JJ -/HYPH state/NN systems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP bisimulation/NN for/IN general/JJ fuzzy/JJ systems/NNS which/WDT may/MD be/VB infinite/JJ -/HYPH state/NN or/CC infinite/JJ -/HYPH event/NN ,/, by/IN modeling/VBG them/PRP as/IN fuzzy/JJ transition/NN systems/NNS ./.
+To/TO help/VB understand/VB and/CC check/VB bisimulation/NN ,/, we/PRP characterize/VBP it/PRP in/IN three/CD ways/NNS by/IN enumerating/VBG whole/JJ transitions/NNS ,/, comparing/VBG individual/JJ transitions/NNS ,/, and/CC using/VBG a/DT monotonic/JJ function/NN ./.
+In/IN addition/NN ,/, we/PRP address/VBP composition/NN operations/NNS ,/, subsystems/NNS ,/, quotients/NNS ,/, and/CC homomorphisms/NNS of/IN fuzzy/JJ transition/NN systems/NNS and/CC discuss/VB their/PRP$ properties/NNS connected/VBN with/IN bisimulation/NN ./.
+The/DT results/NNS presented/VBN here/RB are/VBP useful/JJ for/IN comparing/VBG the/DT behavior/NN of/IN general/JJ fuzzy/JJ systems/NNS ./.
+In/IN particular/JJ ,/, this/DT makes/VBZ it/PRP possible/JJ to/TO relate/VB an/DT infinite/JJ fuzzy/JJ system/NN to/IN a/DT finite/JJ one/CD ,/, which/WDT is/VBZ easier/JJR to/TO analyze/VB ,/, with/IN the/DT same/JJ behavior/NN ./.

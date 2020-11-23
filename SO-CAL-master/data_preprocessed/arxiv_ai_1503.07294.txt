@@ -1,0 +1,7 @@
+The/DT paper/NN describes/VBZ a/DT novel/JJ approach/NN to/IN categorize/VB users/NNS '/POS reviews/NNS according/VBG to/IN the/DT three/CD Quality/NN in/IN Use/NNP (/-LRB- QU/NNP )/-RRB- indicators/NNS defined/VBN in/IN ISO/NNP :/: effectiveness/NN ,/, efficiency/NN and/CC freedom/NN from/IN risk/NN ./.
+With/IN the/DT tremendous/JJ amount/NN of/IN reviews/NNS published/VBN each/DT day/NN ,/, there/EX is/VBZ a/DT need/NN to/TO automatically/RB summarize/VB user/NN reviews/NNS to/TO inform/VB us/PRP if/IN any/DT of/IN the/DT software/NN able/JJ to/TO meet/VB requirement/NN of/IN a/DT company/NN according/VBG to/IN the/DT quality/NN requirements/NNS ./.
+We/PRP implemented/VBD the/DT method/NN of/IN Latent/JJ Semantic/JJ Analysis/NN (/-LRB- LSA/NN )/-RRB- and/CC its/PRP$ subspace/NN to/TO predict/VB QU/NNP indicators/NNS ./.
+We/PRP build/VBP a/DT reduced/VBN dimensionality/NN universal/JJ semantic/JJ space/NN from/IN Information/NNP System/NNP journals/NNS and/CC Amazon/NNP reviews/NNS ./.
+Next/RB ,/, we/PRP projected/VBD set/NN of/IN indicators/NNS '/POS measurement/NN scales/NNS into/IN the/DT universal/JJ semantic/JJ space/NN and/CC represent/VB them/PRP as/IN subspace/NN ./.
+In/IN the/DT subspace/NN ,/, we/PRP can/MD map/VB similar/JJ measurement/NN scales/NNS to/IN the/DT unseen/JJ reviews/NNS and/CC predict/VB the/DT QU/NNP indicators/NNS ./.
+Our/PRP$ preliminary/JJ study/NN able/JJ to/TO obtain/VB the/DT average/NN of/IN F/NN -/HYPH measure/NN ,/, 0.3627/CD ./.

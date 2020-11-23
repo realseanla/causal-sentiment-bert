@@ -1,0 +1,9 @@
+Penetration/NN Testing/NN is/VBZ a/DT methodology/NN for/IN assessing/VBG network/NN security/NN ,/, by/IN generating/VBG and/CC executing/VBG possible/JJ attacks/NNS ./.
+Doing/VBG so/RB automatically/RB allows/VBZ for/IN regular/JJ and/CC systematic/JJ testing/NN without/IN a/DT prohibitive/JJ amount/NN of/IN human/JJ labor/NN ./.
+A/DT key/JJ question/NN then/RB is/VBZ how/WRB to/TO generate/VB the/DT attacks/NNS ./.
+This/DT is/VBZ naturally/RB formulated/VBN as/IN a/DT planning/NN problem/NN ./.
+Previous/JJ work/NN (/-LRB- Lucangeli/NNP et/FW al./FW 2010/CD )/-RRB- used/VBN classical/JJ planning/NN and/CC hence/RB ignores/VBZ all/PDT the/DT incomplete/JJ knowledge/NN that/WDT characterizes/VBZ hacking/NN ./.
+More/RBR recent/JJ work/NN (/-LRB- Sarraute/NNP et/FW al./FW 2011/CD )/-RRB- makes/VBZ strong/JJ independence/NN assumptions/NNS for/IN the/DT sake/NN of/IN scaling/NN ,/, and/CC lacks/VBZ a/DT clear/JJ formal/JJ concept/NN of/IN what/WP the/DT attack/NN planning/NN problem/NN actually/RB is/VBZ ./.
+Herein/RB ,/, we/PRP model/VBP that/DT problem/NN in/IN terms/NNS of/IN partially/RB observable/JJ Markov/NNP decision/NN processes/NNS (/-LRB- POMDP/NN )/-RRB- ./.
+This/DT grounds/NNS penetration/NN testing/NN in/IN a/DT well/RB -/HYPH researched/VBN formalism/NN ,/, highlighting/VBG important/JJ aspects/NNS of/IN this/DT problem/NN 's/POS nature/NN ./.
+POMDPs/NNS allow/VBP to/TO model/VB information/NN gathering/NN as/IN an/DT integral/JJ part/NN of/IN the/DT problem/NN ,/, thus/RB providing/VBG for/IN the/DT first/JJ time/NN a/DT means/VBZ to/TO intelligently/RB mix/VB scanning/VBG actions/NNS with/IN actual/JJ exploits/NNS ./.

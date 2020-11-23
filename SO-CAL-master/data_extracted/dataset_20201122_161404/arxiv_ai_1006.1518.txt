@@ -1,0 +1,7 @@
+The Dendritic Cell Algorithm (DCA) is an immune-inspired algorithm, developed for the purpose of anomaly detection.
+The algorithm performs multi-sensor data fusion and correlation which results in a 'context aware' detection system.
+Previous applications of the DCA have included the detection of potentially malicious port scanning activity, where it has produced high rates of true positives and low rates of false positives.
+In this work we aim to compare the performance of the DCA and of a Self-Organizing Map (SOM) when applied to the detection of SYN port scans, through experimental analysis.
+A SOM is an ideal candidate for comparison as it shares similarities with the DCA in terms of the data fusion method employed.
+It is shown that the results of the two systems are comparable, and both produce false positives for the same processes.
+This shows that the DCA can produce anomaly detection results to the same standard as an established technique.

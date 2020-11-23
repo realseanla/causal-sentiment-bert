@@ -1,0 +1,6 @@
+The/DT Nystr/NNP \/SYM "/`` om/NN method/NN has/VBZ long/RB been/VBN popular/JJ for/IN scaling/VBG up/RP kernel/NN methods/NNS ./.
+However/RB ,/, successful/JJ use/NN of/IN Nystr/NNP \/SYM "/`` om/NN depends/VBZ crucially/RB on/IN the/DT selected/VBN landmarks/NNS ./.
+We/PRP consider/VBP landmark/NN selection/NN by/IN using/VBG a/DT Determinantal/JJ Point/NN Process/NN (/-LRB- DPP/NNP )/-RRB- to/IN tractably/RB select/VB a/DT diverse/JJ subset/NN from/IN the/DT columns/NNS of/IN an/DT input/NN kernel/NN matrix/NN ./.
+We/PRP prove/VBP that/IN the/DT landmarks/NNS selected/VBN using/VBG DPP/NNP sampling/NN enjoy/VB guaranteed/VBN error/NN bounds/NNS ;/: subsequently/RB ,/, we/PRP illustrate/VBP impact/NN of/IN DPP/NNP -/HYPH sampled/VBN landmarks/NNS on/IN kernel/NN ridge/NN regression/NN ./.
+Moreover/RB ,/, we/PRP show/VBP how/WRB to/TO efficiently/RB sample/VB from/IN a/DT DPP/NNP in/IN linear/JJ time/NN using/VBG a/DT fast/JJ mixing/NN (/-LRB- under/IN certain/JJ constraints/NNS )/-RRB- Markov/NNP chain/NN ,/, which/WDT makes/VBZ the/DT overall/JJ procedure/NN practical/JJ ./.
+Empirical/JJ results/NNS support/VBP our/PRP$ theoretical/JJ analysis/NN :/: DPP/NNP -/HYPH based/VBN landmark/NN selection/NN shows/VBZ performance/NN superior/JJ to/IN existing/VBG approaches/NNS ./.

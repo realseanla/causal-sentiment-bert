@@ -1,0 +1,7 @@
+Batch/NN normalization/NN (/-LRB- BN/NN )/-RRB- is/VBZ very/RB effective/JJ in/IN accelerating/VBG the/DT convergence/NN of/IN a/DT neural/JJ network/NN training/NN phase/NN that/WDT it/PRP has/VBZ become/VBN a/DT common/JJ practice/NN ./.
+We/PRP propose/VBP a/DT generalization/NN of/IN BN/NNP ,/, the/DT diminishing/VBG batch/NN normalization/NN (/-LRB- DBN/NN )/-RRB- algorithm/NN ./.
+We/PRP provide/VBP an/DT analysis/NN of/IN the/DT convergence/NN of/IN the/DT DBN/NNP algorithm/NN that/WDT converges/VBZ to/IN a/DT stationary/JJ point/NN with/IN respect/NN to/IN trainable/JJ parameters/NNS ./.
+We/PRP analyze/VBP a/DT two/CD layer/NN model/NN with/IN linear/JJ activation/NN ./.
+The/DT main/JJ challenge/NN of/IN the/DT analysis/NN is/VBZ the/DT fact/NN that/IN some/DT parameters/NNS are/VBP updated/VBN by/IN gradient/NN while/IN others/NNS are/VBP not/RB ./.
+In/IN the/DT numerical/JJ experiments/NNS ,/, we/PRP use/VBP models/NNS with/IN more/JJR layers/NNS and/CC ReLU/NN activation/NN ./.
+We/PRP observe/VBP that/IN DBN/NNP outperforms/VBZ the/DT original/JJ BN/NNP algorithm/NN on/IN MNIST/NNP ,/, NI/NNP and/CC CIFAR/NNP -/HYPH 10/CD datasets/NNS with/IN reasonable/JJ complex/JJ FNN/NNP and/CC CNN/NNP models/NNS ./.

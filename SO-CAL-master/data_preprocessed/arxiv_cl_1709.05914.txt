@@ -1,0 +1,6 @@
+Cross-lingual/JJ representation/NN learning/NN is/VBZ an/DT important/JJ step/NN in/IN making/VBG NLP/NN scale/NN to/IN all/PDT the/DT world/NN 's/POS languages/NNS ./.
+Recent/JJ work/NN on/IN bilingual/JJ lexicon/NN induction/NN suggests/VBZ that/IN it/PRP is/VBZ possible/JJ to/TO learn/VB cross-lingual/JJ representations/NNS of/IN words/NNS based/VBN on/IN similarities/NNS between/IN images/NNS associated/VBN with/IN these/DT words/NNS ./.
+However/RB ,/, that/DT work/NN focused/VBD on/IN the/DT translation/NN of/IN selected/VBN nouns/NNS only/RB ./.
+In/IN our/PRP$ work/NN ,/, we/PRP investigate/VBP whether/IN the/DT meaning/NN of/IN other/JJ parts/NNS -/HYPH of/IN -/HYPH speech/NN ,/, in/IN particular/JJ adjectives/NNS and/CC verbs/NNS ,/, can/MD be/VB learned/VBN in/IN the/DT same/JJ way/NN ./.
+We/PRP also/RB experiment/VBP with/IN combining/VBG the/DT representations/NNS learned/VBD from/IN visual/JJ data/NNS with/IN embeddings/NNS learned/VBN from/IN textual/JJ data/NNS ./.
+Our/PRP$ experiments/NNS across/IN five/CD language/NN pairs/NNS indicate/VBP that/IN previous/JJ work/NN does/VBZ not/RB scale/VB to/IN the/DT problem/NN of/IN learning/VBG cross-lingual/JJ representations/NNS beyond/IN simple/JJ nouns/NNS ./.

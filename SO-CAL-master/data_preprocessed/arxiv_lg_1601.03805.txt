@@ -1,0 +1,11 @@
+Traditional/JJ neural/JJ networks/NNS assume/VBP vectorial/JJ inputs/NNS as/IN the/DT network/NN is/VBZ arranged/VBN as/IN layers/NNS of/IN single/JJ line/NN of/IN computing/VBG units/NNS called/VBN neurons/NNS ./.
+This/DT special/JJ structure/NN requires/VBZ the/DT non-vectorial/JJ inputs/NNS such/JJ as/IN matrices/NNS to/TO be/VB converted/VBN into/IN vectors/NNS ./.
+This/DT process/NN can/MD be/VB problematic/JJ ./.
+Firstly/RB ,/, the/DT spatial/JJ information/NN among/IN elements/NNS of/IN the/DT data/NNS may/MD be/VB lost/VBN during/IN vectorisation/NN ./.
+Secondly/RB ,/, the/DT solution/NN space/NN becomes/VBZ very/RB large/JJ which/WDT demands/VBZ very/RB special/JJ treatments/NNS to/IN the/DT network/NN parameters/NNS and/CC high/JJ computational/JJ cost/NN ./.
+To/TO address/VB these/DT issues/NNS ,/, we/PRP propose/VBP matrix/NN neural/JJ networks/NNS (/-LRB- MatNet/NNP )/-RRB- ,/, which/WDT takes/VBZ matrices/NNS directly/RB as/IN inputs/NNS ./.
+Each/DT neuron/NN senses/NNS summarised/VBN information/NN through/IN bilinear/JJ mapping/NN from/IN lower/JJR layer/NN units/NNS in/IN exactly/RB the/DT same/JJ way/NN as/IN the/DT classic/JJ feed/NN forward/RB neural/JJ networks/NNS ./.
+Under/IN this/DT structure/NN ,/, back/RB prorogation/NN and/CC gradient/NN descent/NN combination/NN can/MD be/VB utilised/VBN to/TO obtain/VB network/NN parameters/NNS efficiently/RB ./.
+Furthermore/RB ,/, it/PRP can/MD be/VB conveniently/RB extended/VBN for/IN multimodal/JJ inputs/NNS ./.
+We/PRP apply/VBP MatNet/NNP to/TO MNIST/VB handwritten/JJ digits/NNS classification/NN and/CC image/NN super/JJ resolution/NN tasks/NNS to/TO show/VB its/PRP$ effectiveness/NN ./.
+Without/IN too/RB much/JJ tweaking/NN MatNet/NNP achieves/VBZ comparable/JJ performance/NN as/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS in/IN both/DT tasks/NNS with/IN considerably/RB reduced/VBN complexity/NN ./.

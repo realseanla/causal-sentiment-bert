@@ -1,0 +1,6 @@
+Current/JJ distributed/VBN representations/NNS of/IN words/NNS show/VBP little/JJ resemblance/NN to/IN theories/NNS of/IN lexical/JJ semantics/NNS ./.
+The/DT former/JJ are/VBP dense/JJ and/CC uninterpretable/JJ ,/, the/DT latter/JJ largely/RB based/VBN on/IN familiar/JJ ,/, discrete/JJ classes/NNS (/-LRB- e.g./FW ,/, supersenses/NN )/-RRB- and/CC relations/NNS (/-LRB- e.g./FW ,/, synonymy/NN and/CC hypernymy/NN )/-RRB- ./.
+We/PRP propose/VBP methods/NNS that/WDT transform/VBP word/NN vectors/NNS into/IN sparse/JJ (/-LRB- and/CC optionally/RB binary/JJ )/-RRB- vectors/NNS ./.
+The/DT resulting/VBG representations/NNS are/VBP more/RBR similar/JJ to/IN the/DT interpretable/JJ features/NNS typically/RB used/VBN in/IN NLP/NN ,/, though/IN they/PRP are/VBP discovered/VBN automatically/RB from/IN raw/JJ corpora/NN ./.
+Because/IN the/DT vectors/NNS are/VBP highly/RB sparse/JJ ,/, they/PRP are/VBP computationally/RB easy/JJ to/TO work/VB with/IN ./.
+Most/RBS importantly/RB ,/, we/PRP find/VBP that/IN they/PRP outperform/VBP the/DT original/JJ vectors/NNS on/IN benchmark/NN tasks/NNS ./.

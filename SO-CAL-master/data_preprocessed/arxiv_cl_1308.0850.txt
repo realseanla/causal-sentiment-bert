@@ -1,0 +1,4 @@
+This/DT paper/NN shows/VBZ how/WRB Long/JJ Short/JJ -/HYPH term/NN Memory/NN recurrent/JJ neural/JJ networks/NNS can/MD be/VB used/VBN to/TO generate/VB complex/JJ sequences/NNS with/IN long/JJ -/HYPH range/NN structure/NN ,/, simply/RB by/IN predicting/VBG one/CD data/NN point/NN at/IN a/DT time/NN ./.
+The/DT approach/NN is/VBZ demonstrated/VBN for/IN text/NN (/-LRB- where/WRB the/DT data/NNS are/VBP discrete/JJ )/-RRB- and/CC online/JJ handwriting/NN (/-LRB- where/WRB the/DT data/NNS are/VBP real/JJ -/HYPH valued/VBN )/-RRB- ./.
+It/PRP is/VBZ then/RB extended/VBN to/IN handwriting/NN synthesis/NN by/IN allowing/VBG the/DT network/NN to/TO condition/VB its/PRP$ predictions/NNS on/IN a/DT text/NN sequence/NN ./.
+The/DT resulting/VBG system/NN is/VBZ able/JJ to/TO generate/VB highly/RB realistic/JJ cursive/JJ handwriting/NN in/IN a/DT wide/JJ variety/NN of/IN styles/NNS ./.

@@ -1,0 +1,8 @@
+The/DT Stable/JJ Marriage/NN Problem/NN (/-LRB- SMP/NN )/-RRB- is/VBZ a/DT well/RB -/HYPH known/VBN matching/NN problem/NN first/RB introduced/VBN and/CC solved/VBN by/IN Gale/NNP and/CC Shapley/NNP (/-LRB- 1962/CD )/-RRB- ./.
+Several/JJ variants/NNS and/CC extensions/NNS to/IN this/DT problem/NN have/VBP since/RB been/VBN investigated/VBN to/TO cover/VB a/DT wider/JJR set/NN of/IN applications/NNS ./.
+Each/DT time/NN a/DT new/JJ variant/NN is/VBZ considered/VBN ,/, however/RB ,/, a/DT new/JJ algorithm/NN needs/VBZ to/TO be/VB developed/VBN and/CC implemented/VBN ./.
+As/IN an/DT alternative/NN ,/, in/IN this/DT paper/NN we/PRP propose/VBP an/DT encoding/NN of/IN the/DT SMP/NN using/VBG Answer/NN Set/VBN Programming/NN (/-LRB- ASP/NN )/-RRB- ./.
+Our/PRP$ encoding/NN can/MD easily/RB be/VB extended/VBN and/CC adapted/VBN to/IN the/DT needs/NNS of/IN specific/JJ applications/NNS ./.
+As/IN an/DT illustration/NN we/PRP show/VBP how/WRB stable/JJ matchings/NNS can/MD be/VB found/VBN when/WRB individuals/NNS may/MD designate/VB unacceptable/JJ partners/NNS and/CC ties/NNS between/IN preferences/NNS are/VBP allowed/VBN ./.
+Subsequently/RB ,/, we/PRP show/VBP how/WRB our/PRP$ ASP/NN based/VBN encoding/VBG naturally/RB allows/VBZ us/PRP to/TO select/VB specific/JJ stable/JJ matchings/NNS which/WDT are/VBP optimal/JJ according/VBG to/IN a/DT given/VBN criterion/NN ./.
+Each/DT time/NN ,/, we/PRP can/MD rely/VB on/IN generic/JJ and/CC efficient/JJ off/IN -/HYPH the/DT -/HYPH shelf/NN answer/NN set/VBD solvers/NNS to/TO find/VB (/-LRB- optimal/JJ )/-RRB- stable/JJ matchings/NNS ./.

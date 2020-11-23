@@ -1,0 +1,7 @@
+Graph/NN Signal/NNP Processing/NNP generalizes/VBZ classical/JJ signal/NN processing/NN to/TO signal/VB or/CC data/NNS indexed/VBN by/IN the/DT vertices/NNS of/IN a/DT weighted/JJ graph/NN ./.
+So/RB far/RB ,/, the/DT research/NN efforts/NNS have/VBP been/VBN focused/VBN on/IN static/JJ graph/NN signals/NNS ./.
+However/RB numerous/JJ applications/NNS involve/VBP graph/NN signals/NNS evolving/VBG in/IN time/NN ,/, such/JJ as/IN spreading/VBG or/CC propagation/NN of/IN waves/NNS on/IN a/DT network/NN ./.
+The/DT analysis/NN of/IN this/DT type/NN of/IN data/NNS requires/VBZ a/DT new/JJ set/NN of/IN methods/NNS that/WDT fully/RB takes/VBZ into/IN account/NN the/DT time/NN and/CC graph/NN dimensions/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ class/NN of/IN wavelet/NN frames/NNS named/VBN Dynamic/JJ Graph/NN Wavelets/NNS ,/, whose/WP$ time/NN -/HYPH vertex/NN evolution/NN follows/VBZ a/DT dynamic/JJ process/NN ./.
+We/PRP demonstrate/VBP that/IN this/DT set/NN of/IN functions/NNS can/MD be/VB combined/VBN with/IN sparsity/NN based/VBN approaches/NNS such/JJ as/IN compressive/JJ sensing/VBG to/TO reveal/VB information/NN on/IN the/DT dynamic/JJ processes/NNS occurring/VBG on/IN a/DT graph/NN ./.
+Experiments/NNS on/IN real/JJ seismological/JJ data/NNS show/VBP the/DT efficiency/NN of/IN the/DT technique/NN ,/, allowing/VBG to/TO estimate/VB the/DT epicenter/NN of/IN earthquake/NN events/NNS recorded/VBN by/IN a/DT seismic/JJ network/NN ./.

@@ -1,0 +1,10 @@
+Usage/NN of/IN online/JJ textual/JJ media/NNS is/VBZ steadily/RB increasing/VBG ./.
+Daily/NNP ,/, more/JJR and/CC more/JJR news/NN stories/NNS ,/, blog/NN posts/NNS and/CC scientific/JJ articles/NNS are/VBP added/VBN to/IN the/DT online/JJ volumes/NNS ./.
+These/DT are/VBP all/DT freely/RB accessible/JJ and/CC have/VBP been/VBN employed/VBN extensively/RB in/IN multiple/JJ research/NN areas/NNS ,/, e.g./FW automatic/JJ text/NN summarization/NN ,/, information/NN retrieval/NN ,/, information/NN extraction/NN ,/, etc/FW ./.
+Meanwhile/RB ,/, online/JJ debate/NN forums/NNS have/VBP recently/RB become/VBN popular/JJ ,/, but/CC have/VBP remained/VBN largely/RB unexplored/JJ ./.
+For/IN this/DT reason/NN ,/, there/EX are/VBP no/DT sufficient/JJ resources/NNS of/IN annotated/JJ debate/NN data/NNS available/JJ for/IN conducting/VBG research/NN in/IN this/DT genre/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP collected/VBD and/CC annotated/VBD debate/NN data/NNS for/IN an/DT automatic/JJ summarization/NN task/NN ./.
+Similar/JJ to/IN extractive/JJ gold/NN standard/JJ summary/NN generation/NN our/PRP$ data/NN contains/VBZ sentences/NNS worthy/JJ to/TO include/VB into/IN a/DT summary/NN ./.
+Five/CD human/JJ annotators/NNS performed/VBD this/DT task/NN ./.
+Inter-annotator/NN agreement/NN ,/, based/VBN on/IN semantic/JJ similarity/NN ,/, is/VBZ 36/CD percent/NN for/IN Cohen/NNP 's/POS kappa/NN and/CC 48/CD percent/NN for/IN Krippendorff/NNP 's/POS alpha/NN ./.
+Moreover/RB ,/, we/PRP also/RB implement/VB an/DT extractive/JJ summarization/NN system/NN for/IN online/JJ debates/NNS and/CC discuss/VB prominent/JJ features/NNS for/IN the/DT task/NN of/IN summarizing/VBG online/JJ debate/NN data/NNS automatically/RB ./.

@@ -1,0 +1,11 @@
+Problems/NNS such/JJ as/IN predicting/VBG an/DT optical/JJ flow/NN field/NN (/-LRB- Y/NN )/-RRB- for/IN an/DT image/NN (/-LRB- X/NN )/-RRB- are/VBP ambiguous/JJ :/: many/JJ very/RB distinct/JJ solutions/NNS are/VBP good/JJ ./.
+Representing/VBG this/DT ambiguity/NN requires/VBZ building/VBG a/DT conditional/JJ model/NN P/NN (/-LRB- Y/NN |/HYPH X/NN )/-RRB- of/IN the/DT prediction/NN ,/, conditioned/VBN on/IN the/DT image/NN ./.
+It/PRP is/VBZ hard/JJ because/IN training/NN data/NNS usually/RB does/VBZ not/RB contain/VB many/JJ different/JJ flow/NN fields/NNS for/IN the/DT same/JJ image/NN ./.
+As/IN a/DT result/NN ,/, we/PRP need/VBP different/JJ images/NNS to/TO share/VB data/NNS to/TO produce/VB good/JJ models/NNS ./.
+We/PRP demonstrate/VBP an/DT improved/JJ method/NN for/IN building/VBG conditional/JJ models/NNS ,/, the/DT Co-Embedding/NNP Deep/NNP Variational/NNP Auto/NNP Encoder/NNP ./.
+Our/PRP$ CDVAE/NN exploits/NNS multiple/JJ encoding/VBG and/CC decoding/VBG layers/NNS for/IN both/DT X/NN and/CC Y/NN ./.
+These/DT are/VBP tied/VBN during/IN training/NN to/TO produce/VB a/DT model/NN of/IN the/DT joint/JJ distribution/NN P/NN (/-LRB- X/NN ,/, Y/NN )/-RRB- ,/, which/WDT provides/VBZ the/DT necessary/JJ smoothing/NN ./.
+Our/PRP$ tying/JJ procedure/NN is/VBZ designed/VBN to/TO yield/VB a/DT conditional/JJ model/NN easy/JJ at/IN test/NN time/NN ./.
+We/PRP demonstrate/VBP our/PRP$ model/NN on/IN three/CD example/NN tasks/NNS using/VBG real/JJ data/NNS :/: image/NN saturation/NN adjustment/NN ,/, image/NN relighting/NN ,/, and/CC motion/NN prediction/NN ./.
+We/PRP describe/VBP quantitative/JJ evaluation/NN metrics/NNS to/TO evaluate/VB ambiguous/JJ generation/NN results/NNS ./.
+Our/PRP$ results/NNS quantitatively/RB and/CC qualitatively/RB advance/VB the/DT state/NN of/IN the/DT art/NN ./.

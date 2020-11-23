@@ -1,0 +1,8 @@
+Sequential/JJ pattern/NN mining/NN (/-LRB- SPM/NN )/-RRB- under/IN gap/NN constraint/NN is/VBZ a/DT challenging/JJ task/NN ./.
+Many/JJ efficient/JJ specialized/JJ methods/NNS have/VBP been/VBN developed/VBN but/CC they/PRP are/VBP all/DT suffering/VBG from/IN a/DT lack/NN of/IN genericity/NN ./.
+The/DT Constraint/NN Programming/NN (/-LRB- CP/NN )/-RRB- approaches/NNS are/VBP not/RB so/RB effective/JJ because/IN of/IN the/DT size/NN of/IN their/PRP$ encodings/NNS ./.
+In/IN [/-LRB- 7/CD ]/-RRB- ,/, we/PRP have/VBP proposed/VBN the/DT global/JJ constraint/NN Prefix/NN -/HYPH Projection/NN for/IN SPM/NN which/WDT remedies/NNS to/IN this/DT drawback/NN ./.
+However/RB ,/, this/DT global/JJ constraint/NN can/MD not/RB be/VB directly/RB extended/VBN to/TO support/VB gap/NN constraint/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP the/DT global/JJ constraint/NN GAP/NNP -/HYPH SEQ/NNP enabling/VBG to/TO handle/VB SPM/NN with/IN or/CC without/IN gap/NN constraint/NN ./.
+GAP/NNP -/HYPH SEQ/NNP relies/VBZ on/IN the/DT principle/NN of/IN right/JJ pattern/NN extensions/NNS ./.
+Experiments/NNS show/VBP that/IN our/PRP$ approach/NN clearly/RB outperforms/VBZ both/CC CP/NN approaches/NNS and/CC the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN cSpade/NN method/NN on/IN large/JJ datasets/NNS ./.

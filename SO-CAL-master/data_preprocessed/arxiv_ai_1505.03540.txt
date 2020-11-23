@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT fully/RB automatic/JJ brain/NN tumor/NN segmentation/NN method/NN based/VBN on/IN Deep/JJ Neural/JJ Networks/NNS (/-LRB- DNNs/NNS )/-RRB- ./.
+The/DT proposed/VBN networks/NNS are/VBP tailored/VBN to/IN glioblastomas/NNS (/-LRB- both/CC low/JJ and/CC high/JJ grade/NN )/-RRB- pictured/VBN in/IN MR/NN images/NNS ./.
+By/IN their/PRP$ very/RB nature/NN ,/, these/DT tumors/NNS can/MD appear/VB anywhere/RB in/IN the/DT brain/NN and/CC have/VBP almost/RB any/DT kind/NN of/IN shape/NN ,/, size/NN ,/, and/CC contrast/NN ./.
+These/DT reasons/NNS motivate/VBP our/PRP$ exploration/NN of/IN a/DT machine/NN learning/NN solution/NN that/WDT exploits/VBZ a/DT flexible/JJ ,/, high/JJ capacity/NN DNN/NN while/IN being/VBG extremely/RB efficient/JJ ./.
+Here/RB ,/, we/PRP give/VBP a/DT description/NN of/IN different/JJ model/NN choices/NNS that/WDT we/PRP 've/VBP found/VBN to/TO be/VB necessary/JJ for/IN obtaining/VBG competitive/JJ performance/NN ./.
+We/PRP explore/VBP in/IN particular/JJ different/JJ architectures/NNS based/VBN on/IN Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNN/NNP )/-RRB- ,/, i.e./FW DNNs/NNS specifically/RB adapted/VBD to/IN image/NN data/NNS ./.

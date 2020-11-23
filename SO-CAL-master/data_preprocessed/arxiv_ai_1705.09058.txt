@@ -1,0 +1,8 @@
+With/IN applications/NNS to/IN many/JJ disciplines/NNS ,/, the/DT traveling/VBG salesman/NN problem/NN (/-LRB- TSP/NN )/-RRB- is/VBZ a/DT classical/JJ computer/NN science/NN optimization/NN problem/NN with/IN applications/NNS to/IN industrial/JJ engineering/NN ,/, theoretical/JJ computer/NN science/NN ,/, bioinformatics/NN ,/, and/CC several/JJ other/JJ disciplines/NNS ./.
+In/IN recent/JJ years/NNS ,/, there/EX have/VBP been/VBN a/DT plethora/NN of/IN novel/JJ approaches/NNS for/IN approximate/JJ solutions/NNS ranging/VBG from/IN simplistic/JJ greedy/JJ to/IN cooperative/JJ distributed/VBN algorithms/NNS derived/VBN from/IN artificial/JJ intelligence/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP perform/VBP an/DT evaluation/NN and/CC analysis/NN of/IN cornerstone/NN algorithms/NNS for/IN the/DT Euclidean/NNP TSP/NNP ./.
+We/PRP evaluate/VBP greedy/JJ ,/, 2/CD -/SYM opt/VBP ,/, and/CC genetic/JJ algorithms/NNS ./.
+We/PRP use/VBP several/JJ datasets/NNS as/IN input/NN for/IN the/DT algorithms/NNS including/VBG a/DT small/JJ dataset/NN ,/, a/DT mediumsized/JJ dataset/NN representing/VBG cities/NNS in/IN the/DT United/NNP States/NNP ,/, and/CC a/DT synthetic/JJ dataset/NN consisting/VBG of/IN 200/CD cities/NNS to/TO test/VB algorithm/NN scalability/NN ./.
+We/PRP discover/VBP that/IN the/DT greedy/JJ and/CC 2/CD -/HYPH opt/VBP algorithms/NNS efficiently/RB calculate/VBP solutions/NNS for/IN smaller/JJR datasets/NNS ./.
+Genetic/JJ algorithm/NN has/VBZ the/DT best/JJS performance/NN for/IN optimality/NN for/IN medium/NN to/IN large/JJ datasets/NNS ,/, but/CC generally/RB have/VBP longer/JJR runtime/NN ./.
+Our/PRP$ implementations/NNS is/VBZ public/JJ available/JJ ./.

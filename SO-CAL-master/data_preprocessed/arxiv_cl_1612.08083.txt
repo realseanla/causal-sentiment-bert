@@ -1,0 +1,6 @@
+The/DT pre-dominant/JJ approach/NN to/IN language/NN modeling/NN to/IN date/NN is/VBZ based/VBN on/IN recurrent/JJ neural/JJ networks/NNS ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT convolutional/JJ approach/NN to/IN language/NN modeling/NN ./.
+We/PRP introduce/VBP a/DT novel/JJ gating/NN mechanism/NN that/WDT eases/VBZ gradient/NN propagation/NN and/CC which/WDT performs/VBZ better/JJR than/IN the/DT LSTM/NN -/HYPH style/NN gating/NN of/IN (/-LRB- Oord/NNP et/FW al/FW ,/, 2016/CD )/-RRB- despite/IN being/VBG simpler/JJR ./.
+We/PRP achieve/VBP a/DT new/JJ state/NN of/IN the/DT art/NN on/IN WikiText/NNP -/HYPH 103/CD as/RB well/RB as/IN a/DT new/JJ best/JJS single/JJ -/HYPH GPU/NN result/NN on/IN the/DT Google/NNP Billion/CD Word/NNP benchmark/NN ./.
+In/IN settings/NNS where/WRB latency/NN is/VBZ important/JJ ,/, our/PRP$ model/NN achieves/VBZ an/DT order/NN of/IN magnitude/NN speed/NN -/HYPH up/NN compared/VBN to/IN a/DT recurrent/JJ baseline/NN since/IN computation/NN can/MD be/VB parallelized/VBN over/IN time/NN ./.
+To/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ time/NN a/DT non-recurrent/JJ approach/NN outperforms/VBZ strong/JJ recurrent/JJ models/NNS on/IN these/DT tasks/NNS ./.

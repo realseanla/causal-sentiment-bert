@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT Generalized/VBN Dantzig/NNP Selector/NNP (/-LRB- GDS/NNP )/-RRB- for/IN linear/JJ models/NNS ,/, in/IN which/WDT any/DT norm/NN encoding/VBG the/DT parameter/NN structure/NN can/MD be/VB leveraged/VBN for/IN estimation/NN ./.
+We/PRP investigate/VBP both/DT computational/JJ and/CC statistical/JJ aspects/NNS of/IN the/DT GDS/NNP ./.
+Based/VBN on/IN conjugate/JJ proximal/JJ operator/NN ,/, a/DT flexible/JJ inexact/JJ ADMM/NN framework/NN is/VBZ designed/VBN for/IN solving/VBG GDS/NNP ,/, and/CC non-asymptotic/JJ high/JJ -/HYPH probability/NN bounds/NNS are/VBP established/VBN on/IN the/DT estimation/NN error/NN ,/, which/WDT rely/VBP on/IN Gaussian/JJ width/NN of/IN unit/NN norm/NN ball/NN and/CC suitable/JJ set/NN encompassing/VBG estimation/NN error/NN ./.
+Further/RB ,/, we/PRP consider/VBP a/DT non-trivial/JJ example/NN of/IN the/DT GDS/NN using/VBG $/$ k/CD $/$ -/HYPH support/NN norm/NN ./.
+We/PRP derive/VBP an/DT efficient/JJ method/NN to/TO compute/VB the/DT proximal/JJ operator/NN for/IN $/$ k/CD $/$ -/HYPH support/NN norm/NN since/IN existing/VBG methods/NNS are/VBP inapplicable/JJ in/IN this/DT setting/NN ./.
+For/IN statistical/JJ analysis/NN ,/, we/PRP provide/VBP upper/JJ bounds/NNS for/IN the/DT Gaussian/JJ widths/NNS needed/VBN in/IN the/DT GDS/NNP analysis/NN ,/, yielding/VBG the/DT first/JJ statistical/JJ recovery/NN guarantee/NN for/IN estimation/NN with/IN the/DT $/$ k/CD $/$ -/HYPH support/NN norm/NN ./.
+The/DT experimental/JJ results/NNS confirm/VBP our/PRP$ theoretical/JJ analysis/NN ./.

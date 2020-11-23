@@ -1,0 +1,7 @@
+Retrieval/NNP tasks/NNS typically/RB require/VBP a/DT ranking/NN of/IN items/NNS given/VBN a/DT query/NN ./.
+Collaborative/JJ filtering/NN tasks/NNS ,/, on/IN the/DT other/JJ hand/NN ,/, learn/VB to/TO model/VB user/NN 's/POS preferences/NNS over/IN items/NNS ./.
+In/IN this/DT paper/NN we/PRP study/VBP the/DT joint/JJ problem/NN of/IN recommending/VBG items/NNS to/IN a/DT user/NN with/IN respect/NN to/IN a/DT given/VBN query/NN ,/, which/WDT is/VBZ a/DT surprisingly/RB common/JJ task/NN ./.
+This/DT setup/NN differs/VBZ from/IN the/DT standard/JJ collaborative/JJ filtering/NN one/CD in/IN that/DT we/PRP are/VBP given/VBN a/DT query/NN x/NN user/NN x/SYM item/NN tensor/NN for/IN training/NN instead/RB of/IN the/DT more/RBR traditional/JJ user/NN x/NN item/NN matrix/NN ./.
+Compared/VBN to/IN document/NN retrieval/NN we/PRP do/VBP have/VB a/DT query/NN ,/, but/CC we/PRP may/MD or/CC may/MD not/RB have/VB content/NN features/NNS (/-LRB- we/PRP will/MD consider/VB both/DT cases/NNS )/-RRB- and/CC we/PRP can/MD also/RB take/VB account/NN of/IN the/DT user/NN 's/POS profile/NN ./.
+We/PRP introduce/VBP a/DT factorized/JJ model/NN for/IN this/DT new/JJ task/NN that/WDT optimizes/VBZ the/DT top/NN -/HYPH ranked/VBN items/NNS returned/VBD for/IN the/DT given/VBN query/NN and/CC user/NN ./.
+We/PRP report/VBP empirical/JJ results/NNS where/WRB it/PRP outperforms/VBZ several/JJ baselines/NNS ./.

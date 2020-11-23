@@ -1,0 +1,5 @@
+We/PRP propose/VBP multi-way/JJ ,/, multilingual/JJ neural/JJ machine/NN translation/NN ./.
+The/DT proposed/VBN approach/NN enables/VBZ a/DT single/JJ neural/JJ translation/NN model/NN to/TO translate/VB between/IN multiple/JJ languages/NNS ,/, with/IN a/DT number/NN of/IN parameters/NNS that/WDT grows/VBZ only/RB linearly/RB with/IN the/DT number/NN of/IN languages/NNS ./.
+This/DT is/VBZ made/VBN possible/JJ by/IN having/VBG a/DT single/JJ attention/NN mechanism/NN that/WDT is/VBZ shared/VBN across/IN all/DT language/NN pairs/NNS ./.
+We/PRP train/VBP the/DT proposed/VBN multi-way/NN ,/, multilingual/JJ model/NN on/IN ten/CD language/NN pairs/NNS from/IN WMT/NNP '15/CD simultaneously/RB and/CC observe/VBP clear/JJ performance/NN improvements/NNS over/IN models/NNS trained/VBN on/IN only/RB one/CD language/NN pair/NN ./.
+In/IN particular/JJ ,/, we/PRP observe/VBP that/IN the/DT proposed/VBN model/NN significantly/RB improves/VBZ the/DT translation/NN quality/NN of/IN low/JJ -/HYPH resource/NN language/NN pairs/NNS ./.

@@ -1,0 +1,9 @@
+Top/JJ -/: $/$ N$/CD recommender/NN systems/NNS have/VBP been/VBN extensively/RB studied/VBN ./.
+However/RB ,/, the/DT sparsity/NN of/IN user/NN -/HYPH item/NN activities/NNS has/VBZ not/RB been/VBN well/RB resolved/VBN ./.
+While/IN many/JJ hybrid/NN systems/NNS were/VBD proposed/VBN to/TO address/VB the/DT cold/JJ -/HYPH start/NN problem/NN ,/, the/DT profile/NN information/NN has/VBZ not/RB been/VBN sufficiently/RB leveraged/VBN ./.
+Furthermore/RB ,/, the/DT heterogeneity/NN of/IN profiles/NNS between/IN users/NNS and/CC items/NNS intensifies/VBZ the/DT challenge/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT content/NN -/HYPH based/VBN top/JJ -/: $/$ N$/CD recommender/NN system/NN by/IN learning/VBG the/DT global/JJ term/NN weights/NNS in/IN profiles/NNS ./.
+To/TO achieve/VB this/DT ,/, we/PRP bring/VBP in/RP PathSim/NNP ,/, which/WDT could/MD well/RB measures/VBZ the/DT node/NN similarity/NN with/IN heterogeneous/JJ relations/NNS (/-LRB- between/IN users/NNS and/CC items/NNS )/-RRB- ./.
+Starting/VBG from/IN the/DT original/JJ TF/NNP -/HYPH IDF/NNP value/NN ,/, the/DT global/JJ term/NN weights/NNS gradually/RB converge/VBP ,/, and/CC eventually/RB reflect/VBP both/DT profile/NN and/CC activity/NN information/NN ./.
+To/TO facilitate/VB training/NN ,/, the/DT derivative/NN is/VBZ reformulated/VBN into/IN matrix/NN form/NN ,/, which/WDT could/MD easily/RB be/VB paralleled/VBN ./.
+We/PRP conduct/VBP extensive/JJ experiments/NNS ,/, which/WDT demonstrate/VBP the/DT superiority/NN of/IN the/DT proposed/JJ method/NN ./.

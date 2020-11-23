@@ -1,0 +1,11 @@
+From/IN the/DT advent/NN of/IN the/DT application/NN of/IN satellite/NN imagery/NN to/IN land/NN cover/NN mapping/NN ,/, one/CD of/IN the/DT growing/VBG areas/NNS of/IN research/NN interest/NN has/VBZ been/VBN in/IN the/DT area/NN of/IN image/NN classification/NN ./.
+Image/NN classifiers/NNS are/VBP algorithms/NNS used/VBN to/TO extract/VB land/NN cover/NN information/NN from/IN satellite/NN imagery/NN ./.
+Most/JJS of/IN the/DT initial/JJ research/NN has/VBZ focussed/VBN on/IN the/DT development/NN and/CC application/NN of/IN algorithms/NNS to/TO better/RBR existing/VBG and/CC emerging/VBG classifiers/NNS ./.
+In/IN this/DT paper/NN ,/, a/DT paradigm/NN shift/NN is/VBZ proposed/VBN whereby/WRB a/DT committee/NN of/IN classifiers/NNS is/VBZ used/VBN to/TO determine/VB the/DT final/JJ classification/NN output/NN ./.
+Two/CD of/IN the/DT key/JJ components/NNS of/IN an/DT ensemble/NN system/NN are/VBP that/IN there/EX should/MD be/VB diversity/NN among/IN the/DT classifiers/NNS and/CC that/IN there/EX should/MD be/VB a/DT mechanism/NN through/IN which/WDT the/DT results/NNS are/VBP combined/VBN ./.
+In/IN this/DT paper/NN ,/, the/DT members/NNS of/IN the/DT ensemble/NN system/NN include/VBP :/: Linear/NNP SVM/NNP ,/, Gaussian/NNP SVM/NNP and/CC Quadratic/JJ SVM/NN ./.
+The/DT final/JJ output/NN was/VBD determined/VBN through/IN a/DT simple/JJ majority/NN vote/NN of/IN the/DT individual/JJ classifiers/NNS ./.
+From/IN the/DT results/NNS obtained/VBD it/PRP was/VBD observed/VBN that/IN the/DT final/JJ derived/VBN map/NN generated/VBN by/IN an/DT ensemble/NN system/NN can/MD potentially/RB improve/VB on/IN the/DT results/NNS derived/VBN from/IN the/DT individual/JJ classifiers/NNS making/VBG up/RP the/DT ensemble/NN system/NN ./.
+The/DT ensemble/NN system/NN classification/NN accuracy/NN was/VBD ,/, in/IN this/DT case/NN ,/, better/JJR than/IN the/DT linear/JJ and/CC quadratic/JJ SVM/NN result/NN ./.
+It/PRP was/VBD however/RB less/JJR than/IN that/DT of/IN the/DT RBF/NNP SVM/NNP ./.
+Areas/NNS for/IN further/JJ research/NN could/MD focus/VB on/IN improving/VBG the/DT diversity/NN of/IN the/DT ensemble/NN system/NN used/VBN in/IN this/DT research/NN ./.

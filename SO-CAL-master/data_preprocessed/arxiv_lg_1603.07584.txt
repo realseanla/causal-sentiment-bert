@@ -1,0 +1,5 @@
+We/PRP cast/VBD the/DT problem/NN of/IN source/NN localization/NN on/IN graphs/NNS as/IN the/DT simultaneous/JJ problem/NN of/IN sparse/JJ recovery/NN and/CC diffusion/NN ker/NN -/HYPH nel/NN learning/NN ./.
+An/DT l1/NN regularization/NN term/NN enforces/VBZ the/DT sparsity/NN constraint/NN while/IN we/PRP recover/VBP the/DT sources/NNS of/IN diffusion/NN from/IN a/DT single/JJ snapshot/NN of/IN the/DT diffusion/NN process/NN ./.
+The/DT diffusion/NN ker/NN -/HYPH nel/NN is/VBZ estimated/VBN by/IN assuming/VBG the/DT process/NN to/TO be/VB as/IN generic/JJ as/IN the/DT standard/JJ heat/NN diffusion/NN ./.
+We/PRP show/VBP with/IN synthetic/JJ data/NNS that/WDT we/PRP can/MD concomitantly/RB learn/VB the/DT diffusion/NN kernel/NN and/CC the/DT sources/NNS ,/, given/VBN an/DT estimated/VBN initialization/NN ./.
+We/PRP validate/VBP our/PRP$ model/NN with/IN cholera/NN mortality/NN and/CC atmospheric/JJ tracer/NN diffusion/NN data/NNS ,/, showing/VBG also/RB that/IN the/DT accuracy/NN of/IN the/DT solution/NN depends/VBZ on/IN the/DT construction/NN of/IN the/DT graph/NN from/IN the/DT data/NNS points/NNS ./.

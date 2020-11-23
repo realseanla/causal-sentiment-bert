@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN the/DT question/NN of/IN the/DT extent/NN to/IN which/WDT online/JJ learning/NN can/MD benefit/VB from/IN distributed/VBN computing/NN ./.
+We/PRP focus/VBP on/IN the/DT setting/NN in/IN which/WDT $/$ N$/CD agents/NNS online/RB -/: learn/VB cooperatively/RB ,/, where/WRB each/DT agent/NN only/RB has/VBZ access/NN to/IN its/PRP$ own/JJ data/NNS ./.
+We/PRP propose/VBP a/DT generic/JJ data/NN -/HYPH distributed/VBN online/JJ learning/NN meta/NN -/HYPH algorithm/NN ./.
+We/PRP then/RB introduce/VB the/DT Distributed/VBN Weighted/NNP Majority/NNP and/CC Distributed/VBN Online/NNP Mirror/NNP Descent/NNP algorithms/NNS ,/, as/IN special/JJ cases/NNS ./.
+We/PRP show/VBP ,/, using/VBG both/CC theoretical/JJ analysis/NN and/CC experiments/NNS ,/, that/IN compared/VBN to/IN a/DT single/JJ agent/NN :/: given/VBN the/DT same/JJ computation/NN time/NN ,/, these/DT distributed/VBN algorithms/NNS achieve/VBP smaller/JJR generalization/NN errors/NNS ;/: and/CC given/VBN the/DT same/JJ generalization/NN errors/NNS ,/, they/PRP can/MD be/VB $/$ N$/CD times/NNS faster/JJR ./.

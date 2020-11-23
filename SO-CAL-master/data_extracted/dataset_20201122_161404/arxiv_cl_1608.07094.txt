@@ -1,0 +1,5 @@
+In this paper, we introduce a new measure called Term_Class relevance to compute the relevancy of a term in classifying a document into a particular class.
+The proposed measure estimates the degree of relevance of a given term, in placing an unlabeled document to be a member of a known class, as a product of Class_Term weight and Class_Term density; where the Class_Term weight is the ratio of the number of documents of the class containing the term to the total number of documents containing the term and the Class_Term density is the relative density of occurrence of the term in the class to the total occurrence of the term in the entire population.
+Unlike the other existing term weighting schemes such as TF-IDF and its variants, the proposed relevance measure takes into account the degree of relative participation of the term across all documents of the class to the entire population.
+To demonstrate the significance of the proposed measure experimentation has been conducted on the 20 Newsgroups dataset.
+Further, the superiority of the novel measure is brought out through a comparative analysis.

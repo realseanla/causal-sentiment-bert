@@ -1,0 +1,5 @@
+For/IN most/JJS reinforcement/NN learning/VBG approaches/NNS ,/, the/DT learning/NN is/VBZ performed/VBN by/IN maximizing/VBG an/DT accumulative/JJ reward/NN that/WDT is/VBZ expectedly/RB and/CC manually/RB defined/VBN for/IN specific/JJ tasks/NNS ./.
+However/RB ,/, in/IN real/JJ world/NN ,/, rewards/NNS are/VBP emergent/JJ phenomena/NNS from/IN the/DT complex/JJ interactions/NNS between/IN agents/NNS and/CC environments/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT implicit/JJ generic/JJ reward/NN model/NN for/IN reinforcement/NN learning/NN ./.
+Unlike/IN those/DT rewards/NNS that/WDT are/VBP manually/RB defined/VBN for/IN specific/JJ tasks/NNS ,/, such/JJ implicit/JJ reward/NN is/VBZ task/NN independent/JJ ./.
+It/PRP only/RB comes/VBZ from/IN the/DT deviation/NN from/IN the/DT agents/NNS '/POS previous/JJ experiences/NNS ./.

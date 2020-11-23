@@ -1,0 +1,7 @@
+Deep Learning is increasingly used in several machine learning tasks as Deep Neural Networks (DNNs) frequently outperform other techniques.
+Yet, previous work showed that, once deployed, DNNs are vulnerable to integrity attacks.
+Indeed, adversaries can control DNN outputs and for instance force them to misclassify inputs by adding a carefully crafted and undistinguishable perturbation.
+However, these attacks assumed knowledge of the targeted DNN's architecture and parameters.
+In this paper however, we release these assumptions and introduce an attack conducted under the more realistic, yet more complex, threat model of an oracle: adversaries are only capable of accessing DNN label predictions for chosen inputs.
+We evaluate our attack in real-world settings by successfully forcing an oracle served by MetaMind, an online API for DNN classifiers, to misclassify inputs at a 84.24 percent rate.
+We also perform an evaluation to fine-tune our attack strategy and maximize the oracle's misclassification rate for adversarial samples.

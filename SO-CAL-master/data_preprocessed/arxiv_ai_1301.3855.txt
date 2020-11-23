@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, we/PRP use/VBP evidence/NN -/HYPH specific/JJ value/NN abstraction/NN for/IN speeding/VBG Bayesian/JJ networks/NNS inference/NN ./.
+This/DT is/VBZ done/VBN by/IN grouping/NN variable/JJ values/NNS and/CC treating/VBG the/DT combined/VBN values/NNS as/IN a/DT single/JJ entity/NN ./.
+As/IN we/PRP show/VBP ,/, such/JJ abstractions/NNS can/MD exploit/VB regularities/NNS in/IN conditional/JJ probability/NN distributions/NNS and/CC also/RB the/DT specific/JJ values/NNS of/IN observed/VBN variables/NNS ./.
+To/TO formally/RB justify/VB value/NN abstraction/NN ,/, we/PRP define/VBP the/DT notion/NN of/IN safe/JJ value/NN abstraction/NN and/CC devise/VB inference/NN algorithms/NNS that/WDT use/VBP it/PRP to/TO reduce/VB the/DT cost/NN of/IN inference/NN ./.
+Our/PRP$ procedure/NN is/VBZ particularly/RB useful/JJ for/IN learning/VBG complex/JJ networks/NNS with/IN many/JJ hidden/JJ variables/NNS ./.
+In/IN such/JJ cases/NNS ,/, repeated/VBN likelihood/NN computations/NNS are/VBP required/VBN for/IN EM/NNP or/CC other/JJ parameter/NN optimization/NN techniques/NNS ./.
+Since/IN these/DT computations/NNS are/VBP repeated/VBN with/IN respect/NN to/IN the/DT same/JJ evidence/NN set/NN ,/, our/PRP$ methods/NNS can/MD provide/VB significant/JJ speedup/NN to/IN the/DT learning/NN procedure/NN ./.
+We/PRP demonstrate/VBP the/DT algorithm/NN on/IN genetic/JJ linkage/NN problems/NNS where/WRB the/DT use/NN of/IN value/NN abstraction/NN sometimes/RB differentiates/VBZ between/IN a/DT feasible/JJ and/CC non-feasible/JJ solution/NN ./.

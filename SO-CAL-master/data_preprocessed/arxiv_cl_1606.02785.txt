@@ -1,0 +1,5 @@
+We/PRP study/VBP the/DT problem/NN of/IN generating/VBG abstractive/JJ summaries/NNS for/IN opinionated/VBN text/NN ./.
+We/PRP propose/VBP an/DT attention/NN -/HYPH based/VBN neural/JJ network/NN model/NN that/WDT is/VBZ able/JJ to/TO absorb/VB information/NN from/IN multiple/JJ text/NN units/NNS to/TO construct/VB informative/JJ ,/, concise/JJ ,/, and/CC fluent/JJ summaries/NNS ./.
+An/DT importance/NN -/HYPH based/VBN sampling/NN method/NN is/VBZ designed/VBN to/TO allow/VB the/DT encoder/NN to/TO integrate/VB information/NN from/IN an/DT important/JJ subset/NN of/IN input/NN ./.
+Automatic/JJ evaluation/NN indicates/VBZ that/IN our/PRP$ system/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN abstractive/JJ and/CC extractive/JJ summarization/NN systems/NNS on/IN two/CD newly/RB collected/VBN datasets/NNS of/IN movie/NN reviews/NNS and/CC arguments/NNS ./.
+Our/PRP$ system/NN summaries/NNS are/VBP also/RB rated/VBN as/IN more/JJR informative/JJ and/CC grammatical/JJ in/IN human/JJ evaluation/NN ./.

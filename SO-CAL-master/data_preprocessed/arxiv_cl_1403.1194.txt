@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, I/PRP propose/VBP a/DT novel/JJ word/NN sense/NN disambiguation/NN method/NN based/VBN on/IN the/DT global/JJ co-occurrence/NN information/NN using/VBG NMF/NN ./.
+When/WRB I/PRP calculate/VBP the/DT dependency/NN relation/NN matrix/NN ,/, the/DT existing/VBG method/NN tends/VBZ to/TO produce/VB very/RB sparse/JJ co-occurrence/NN matrix/NN from/IN a/DT small/JJ training/NN set/NN ./.
+Therefore/RB ,/, the/DT NMF/NN algorithm/NN sometimes/RB does/VBZ not/RB converge/VB to/IN desired/VBN solutions/NNS ./.
+To/TO obtain/VB a/DT large/JJ number/NN of/IN co-occurrence/NN relations/NNS ,/, I/PRP propose/VBP to/TO use/VB co-occurrence/NN frequencies/NNS of/IN dependency/NN relations/NNS between/IN word/NN features/NNS in/IN the/DT whole/JJ training/NN set/NN ./.
+This/DT enables/VBZ us/PRP to/TO solve/VB data/NNS sparseness/NN problem/NN and/CC induce/VB more/JJR effective/JJ latent/NN features/NNS ./.
+To/TO evaluate/VB the/DT efficiency/NN of/IN the/DT method/NN of/IN word/NN sense/NN disambiguation/NN ,/, I/PRP make/VBP some/DT experiments/NNS to/TO compare/VB with/IN the/DT result/NN of/IN the/DT two/CD baseline/NN methods/NNS ./.
+The/DT results/NNS of/IN the/DT experiments/NNS show/VBP this/DT method/NN is/VBZ effective/JJ for/IN word/NN sense/NN disambiguation/NN in/IN comparison/NN with/IN the/DT all/DT baseline/NN methods/NNS ./.
+Moreover/RB ,/, the/DT proposed/JJ method/NN is/VBZ effective/JJ for/IN obtaining/VBG a/DT stable/JJ effect/NN by/IN analyzing/VBG the/DT global/JJ co-occurrence/NN information/NN ./.

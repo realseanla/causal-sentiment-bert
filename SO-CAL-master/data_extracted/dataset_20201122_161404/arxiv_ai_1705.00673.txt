@@ -1,0 +1,5 @@
+We propose a software architecture designed to ease the implementation of dialogue systems.
+The Modular Architecture for Conversational Agents (MACA) uses a plug-n-play style that allows quick prototyping, thereby facilitating the development of new techniques and the reproduction of previous work.
+The architecture separates the domain of the conversation from the agent's dialogue strategy, and as such can be easily extended to multiple domains.
+MACA provides tools to host dialogue agents on Amazon Mechanical Turk (mTurk) for data collection and allows processing of other sources of training data.
+The current version of the framework already incorporates several domains and existing dialogue strategies from the recent literature.

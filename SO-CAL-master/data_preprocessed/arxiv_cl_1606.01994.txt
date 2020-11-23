@@ -1,0 +1,8 @@
+How/WRB can/MD we/PRP enable/VB computers/NNS to/IN automatically/RB answer/VB questions/NNS like/IN "/`` Who/WP created/VBD the/DT character/NN Harry/NNP Potter/NNP "/'' ?/.
+Carefully/RB built/VBN knowledge/NN bases/NNS provide/VBP rich/JJ sources/NNS of/IN facts/NNS ./.
+However/RB ,/, it/PRP remains/VBZ a/DT challenge/NN to/TO answer/VB factoid/JJ questions/NNS raised/VBN in/IN natural/JJ language/NN due/IN to/IN numerous/JJ expressions/NNS of/IN one/CD question/NN ./.
+In/IN particular/JJ ,/, we/PRP focus/VBP on/IN the/DT most/RBS common/JJ questions/NNS ---/, ones/NNS that/WDT can/MD be/VB answered/VBN with/IN a/DT single/JJ fact/NN in/IN the/DT knowledge/NN base/NN ./.
+We/PRP propose/VBP CFO/NNP ,/, a/DT Conditional/JJ Focused/VBN neural/JJ -/HYPH network/NN -/HYPH based/VBN approach/NN to/IN answering/VBG factoid/NN questions/NNS with/IN knowledge/NN bases/NNS ./.
+Our/PRP$ approach/NN first/RB zooms/VBZ in/IN a/DT question/NN to/TO find/VB more/JJR probable/JJ candidate/NN subject/NN mentions/VBZ ,/, and/CC infers/VBZ the/DT final/JJ answers/NNS with/IN a/DT unified/JJ conditional/JJ probabilistic/JJ framework/NN ./.
+Powered/VBN by/IN deep/JJ recurrent/JJ neural/JJ networks/NNS and/CC neural/JJ embeddings/NNS ,/, our/PRP$ proposed/VBN CFO/NNP achieves/VBZ an/DT accuracy/NN of/IN 75.7/CD percent/NN on/IN a/DT dataset/NN of/IN 108k/NN questions/NNS -/, the/DT largest/JJS public/JJ one/NN to/IN date/NN ./.
+It/PRP outperforms/VBZ the/DT current/JJ state/NN of/IN the/DT art/NN by/IN an/DT absolute/JJ margin/NN of/IN 11.8/CD percent/NN ./.

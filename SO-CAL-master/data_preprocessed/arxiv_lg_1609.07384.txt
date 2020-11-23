@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP describe/VBP approaches/NNS for/IN discovering/VBG acoustic/JJ concepts/NNS and/CC relations/NNS in/IN text/NN ./.
+The/DT first/JJ major/JJ goal/NN is/VBZ to/TO be/VB able/JJ to/TO identify/VB text/NN phrases/NNS which/WDT contain/VBP a/DT notion/NN of/IN audibility/NN and/CC can/MD be/VB termed/VBN as/IN a/DT sound/NN or/CC an/DT acoustic/JJ concept/NN ./.
+We/PRP also/RB propose/VBP a/DT method/NN to/TO define/VB an/DT acoustic/JJ scene/NN through/IN a/DT set/NN of/IN sound/JJ concepts/NNS ./.
+We/PRP use/VBP pattern/NN matching/NN and/CC parts/NNS of/IN speech/NN tags/NNS to/TO generate/VB sound/JJ concepts/NNS from/IN large/JJ scale/NN text/NN corpora/NNS ./.
+We/PRP use/VBP dependency/NN parsing/VBG and/CC LSTM/NNP recurrent/JJ neural/JJ network/NN to/TO predict/VB a/DT set/NN of/IN sound/JJ concepts/NNS for/IN a/DT given/VBN acoustic/JJ scene/NN ./.
+These/DT methods/NNS are/VBP not/RB only/RB helpful/JJ in/IN creating/VBG an/DT acoustic/JJ knowledge/NN base/NN but/CC also/RB directly/RB help/VB in/IN acoustic/JJ event/NN and/CC scene/NN detection/NN research/NN in/IN a/DT variety/NN of/IN ways/NNS ./.

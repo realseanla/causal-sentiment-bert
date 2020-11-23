@@ -1,0 +1,11 @@
+Until/IN today/NN there/RB has/VBZ been/VBN no/DT systematic/JJ comparison/NN of/IN how/WRB far/RB document/NN classification/NN can/MD be/VB conducted/VBN using/VBG just/RB the/DT titles/NNS of/IN the/DT documents/NNS ./.
+However/RB ,/, methods/NNS using/VBG only/RB the/DT titles/NNS are/VBP very/RB important/JJ since/IN automated/VBN processing/NN of/IN titles/NNS has/VBZ no/DT legal/JJ barriers/NNS ./.
+Copyright/NN laws/NNS often/RB hinder/VBP automated/VBN document/NN classification/NN on/IN full/JJ -/HYPH text/NN and/CC even/RB abstracts/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP compare/VBP established/VBN methods/NNS like/IN Bayes/NNP ,/, Rocchio/NNP ,/, kNN/NNP ,/, SVM/NNP ,/, and/CC logistic/JJ regression/NN as/RB well/RB as/IN recent/JJ methods/NNS like/IN Learning/VBG to/IN Rank/NNP and/CC neural/JJ networks/NNS to/IN the/DT multi-label/JJ document/NN classification/NN problem/NN ./.
+We/PRP demonstrate/VBP that/IN classifications/NNS solely/RB using/VBG the/DT documents/NNS '/POS titles/NNS can/MD be/VB very/RB good/JJ and/CC very/RB close/RB to/IN the/DT classification/NN results/NNS using/VBG full/JJ -/HYPH text/NN ./.
+We/PRP use/VBP two/CD established/VBN news/NN corpora/NN and/CC two/CD scientific/JJ document/NN collections/NNS ./.
+The/DT experiments/NNS are/VBP large/JJ -/HYPH scale/NN in/IN terms/NNS of/IN documents/NNS per/IN corpus/NN (/-LRB- up/RP to/IN 100,000/CD )/-RRB- as/RB well/RB as/IN number/NN of/IN labels/NNS (/-LRB- up/RP to/IN 10,000/CD )/-RRB- ./.
+The/DT best/JJS method/NN on/IN title/NN data/NNS is/VBZ a/DT modern/JJ variant/NN of/IN neural/JJ networks/NNS ./.
+For/IN three/CD datasets/NNS ,/, the/DT difference/NN to/IN full/JJ -/HYPH text/NN is/VBZ very/RB small/JJ ./.
+For/IN one/CD dataset/NN ,/, a/DT stacking/VBG of/IN logistic/JJ regression/NN and/CC decision/NN trees/NNS performs/VBZ slightly/RB better/JJR than/IN neural/JJ networks/NNS ./.
+Furthermore/RB ,/, we/PRP observe/VBP that/IN the/DT best/JJS methods/NNS on/IN titles/NNS are/VBP even/RB better/JJR than/IN several/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS on/IN full/JJ -/HYPH text/NN ./.

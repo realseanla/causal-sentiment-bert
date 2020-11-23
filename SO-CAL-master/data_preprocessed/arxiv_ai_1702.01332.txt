@@ -1,0 +1,10 @@
+Optimization/NN of/IN Mixed/VBN -/HYPH Integer/NN Non-Linear/JJ Programming/NN (/-LRB- MINLP/NN )/-RRB- supports/VBZ important/JJ decisions/NNS in/IN applications/NNS such/JJ as/IN Chemical/NN Process/NN Engineering/NNP ./.
+But/CC current/JJ solvers/NNS have/VBP limited/VBN ability/NN for/IN deductive/JJ reasoning/NN or/CC the/DT use/NN of/IN domain/NN -/HYPH specific/JJ theories/NNS ,/, and/CC the/DT management/NN of/IN integrality/NN constraints/NNS does/VBZ not/RB yet/RB exploit/VB automated/VBN reasoning/NN tools/NNS such/JJ as/IN SMT/NN solvers/NNS ./.
+This/DT seems/VBZ to/TO limit/VB both/DT scalability/NN and/CC reach/NN of/IN such/JJ tools/NNS in/IN practice/NN ./.
+We/PRP therefore/RB present/VBP a/DT tool/NN ,/, ManyOpt/NNP ,/, for/IN MINLP/NNP optimization/NN that/WDT enables/VBZ experimentation/NN with/IN reduction/NN techniques/NNS which/WDT transform/VBP a/DT MINLP/NN problem/NN to/IN feasibility/NN checking/VBG realized/VBN by/IN an/DT SMT/NN solver/NN ./.
+ManyOpt/NNP is/VBZ similar/JJ to/IN the/DT SAT/NN solver/VBZ ManySAT/NNP in/IN that/IN it/PRP runs/VBZ a/DT specified/VBN number/NN of/IN such/JJ reduction/NN techniques/NNS in/IN parallel/JJ to/TO get/VB the/DT strongest/JJS result/NN on/IN a/DT given/VBN MINLP/NN problem/NN ./.
+The/DT tool/NN is/VBZ implemented/VBN in/IN layers/NNS ,/, which/WDT we/PRP may/MD see/VB as/IN features/NNS and/CC where/WRB reduction/NN techniques/NNS are/VBP feature/NN vectors/NNS ./.
+Some/DT of/IN these/DT features/NNS are/VBP inspired/VBN by/IN known/VBN MINLP/NN techniques/NNS whereas/IN others/NNS are/VBP novel/JJ and/CC specific/JJ to/IN SMT/NNP ./.
+Our/PRP$ experimental/JJ results/NNS on/IN standard/JJ benchmarks/NNS demonstrate/VBP the/DT benefits/NNS of/IN this/DT approach/NN ./.
+The/DT tool/NN supports/VBZ a/DT variety/NN of/IN SMT/NN solvers/NNS and/CC is/VBZ easily/RB extensible/JJ with/IN new/JJ features/NNS ,/, courtesy/NN of/IN its/PRP$ layered/JJ structure/NN ./.
+For/IN example/NN ,/, logical/JJ formulas/NNS for/IN deductive/JJ reasoning/NN are/VBP easily/RB added/VBN to/IN constrain/VB further/RB the/DT optimization/NN of/IN a/DT MINLP/NN problem/NN of/IN interest/NN ./.

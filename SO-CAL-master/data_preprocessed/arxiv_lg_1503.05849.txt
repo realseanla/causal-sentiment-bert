@@ -1,0 +1,5 @@
+In/IN the/DT process/NN of/IN recording/NN ,/, storage/NN and/CC transmission/NN of/IN time/NN -/HYPH domain/NN audio/NN signals/NNS ,/, errors/NNS may/MD be/VB introduced/VBN that/WDT are/VBP difficult/JJ to/TO correct/VB in/IN an/DT unsupervised/JJ way/NN ./.
+Here/RB ,/, we/PRP train/VBP a/DT convolutional/JJ deep/JJ neural/JJ network/NN to/TO re-synthesize/VB input/NN time/NN -/HYPH domain/NN speech/NN signals/NNS at/IN its/PRP$ output/NN layer/NN ./.
+We/PRP then/RB use/VB this/DT abstract/JJ transformation/NN ,/, which/WDT we/PRP call/VBP a/DT deep/RB transform/VBP (/-LRB- DT/NNP )/-RRB- ,/, to/TO perform/VB probabilistic/JJ re-synthesis/NN on/IN further/JJ speech/NN (/-LRB- of/IN the/DT same/JJ speaker/NN )/-RRB- which/WDT has/VBZ been/VBN degraded/VBN ./.
+Using/VBG the/DT convolutive/JJ DT/NN ,/, we/PRP demonstrate/VBP the/DT recovery/NN of/IN speech/NN audio/NN that/WDT has/VBZ been/VBN subject/JJ to/IN extreme/JJ degradation/NN ./.
+This/DT approach/NN may/MD be/VB useful/JJ for/IN correction/NN of/IN errors/NNS in/IN communications/NNS devices/NNS ./.

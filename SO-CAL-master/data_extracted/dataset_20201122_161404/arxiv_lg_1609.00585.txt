@@ -1,0 +1,6 @@
+With the rise of big data sets, the popularity of kernel methods declined and neural networks took over again.
+The main problem with kernel methods is that the kernel matrix grows quadratically with the number of data points.
+Most attempts to scale up kernel methods solve this problem by discarding data points or basis functions of some approximation of the kernel map.
+Here we present a simple yet effective alternative for scaling up kernel methods that takes into account the entire data set via doubly stochastic optimization of the emprical kernel map.
+The algorithm is straightforward to implement, in particular in parallel execution settings; it leverages the full power and versatility of classical kernel functions without the need to explicitly formulate a kernel map approximation.
+We provide empirical evidence that the algorithm works on large data sets.

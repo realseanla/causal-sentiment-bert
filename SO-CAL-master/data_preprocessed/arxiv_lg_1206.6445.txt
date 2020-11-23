@@ -1,0 +1,8 @@
+Visual/JJ perception/NN is/VBZ a/DT challenging/JJ problem/NN in/IN part/NN due/IN to/IN illumination/NN variations/NNS ./.
+A/DT possible/JJ solution/NN is/VBZ to/TO first/RB estimate/VB an/DT illumination/NN invariant/JJ representation/NN before/IN using/VBG it/PRP for/IN recognition/NN ./.
+The/DT object/NN albedo/NN and/CC surface/NN normals/NNS are/VBP examples/NNS of/IN such/JJ representations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT multilayer/JJ generative/JJ model/NN where/WRB the/DT latent/JJ variables/NNS include/VBP the/DT albedo/NN ,/, surface/NN normals/NNS ,/, and/CC the/DT light/JJ source/NN ./.
+Combining/VBG Deep/JJ Belief/NN Nets/NNS with/IN the/DT Lambertian/NNP reflectance/NN assumption/NN ,/, our/PRP$ model/NN can/MD learn/VB good/JJ priors/NNS over/IN the/DT albedo/NN from/IN 2D/NN images/NNS ./.
+Illumination/NN variations/NNS can/MD be/VB explained/VBN by/IN changing/VBG only/RB the/DT lighting/NN latent/JJ variable/NN in/IN our/PRP$ model/NN ./.
+By/IN transferring/VBG learned/VBN knowledge/NN from/IN similar/JJ objects/NNS ,/, albedo/NN and/CC surface/NN normals/NNS estimation/NN from/IN a/DT single/JJ image/NN is/VBZ possible/JJ in/IN our/PRP$ model/NN ./.
+Experiments/NNS demonstrate/VBP that/IN our/PRP$ model/NN is/VBZ able/JJ to/TO generalize/VB as/RB well/RB as/IN improve/VB over/IN standard/JJ baselines/NNS in/IN one/CD -/HYPH shot/NN face/NN recognition/NN ./.

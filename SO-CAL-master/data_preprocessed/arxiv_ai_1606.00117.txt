@@ -1,0 +1,9 @@
+Kidney/NN exchange/NN is/VBZ a/DT barter/NN market/NN where/WRB patients/NNS trade/VBP willing/JJ but/CC medically/RB incompatible/JJ donors/NNS ./.
+These/DT trades/NNS occur/VBP via/IN cycles/NNS ,/, where/WRB each/DT patient/NN -/HYPH donor/NN pair/NN both/CC gives/VBZ and/CC receives/VBZ a/DT kidney/NN ,/, and/CC via/IN chains/NNS ,/, which/WDT begin/VBP with/IN an/DT altruistic/JJ donor/NN who/WP does/VBZ not/RB require/VB a/DT kidney/NN in/IN return/NN ./.
+For/IN logistical/JJ reasons/NNS ,/, the/DT maximum/JJ length/NN of/IN a/DT cycle/NN is/VBZ typically/RB limited/VBN to/IN a/DT small/JJ constant/JJ ,/, while/IN chains/NNS can/MD be/VB much/RB longer/RBR ./.
+Given/VBN a/DT compatibility/NN graph/NN of/IN patient/NN -/HYPH donor/NN pairs/NNS ,/, altruists/NNS ,/, and/CC feasible/JJ potential/JJ transplants/NNS between/IN them/PRP ,/, finding/VBG even/RB a/DT maximum/JJ -/HYPH cardinality/NN set/NN of/IN vertex/NN -/HYPH disjoint/NN cycles/NNS and/CC chains/NNS is/VBZ NP/NNP -/HYPH hard/JJ ./.
+There/EX has/VBZ been/VBN much/JJ work/NN on/IN developing/VBG provably/RB optimal/JJ solvers/NNS that/WDT are/VBP efficient/JJ in/IN practice/NN ./.
+One/CD of/IN the/DT leading/VBG techniques/NNS has/VBZ been/VBN branch/NN and/CC price/NN ,/, where/WRB column/NN generation/NN is/VBZ used/VBN to/TO incrementally/RB bring/VB cycles/NNS and/CC chains/NNS into/IN the/DT optimization/NN model/NN on/IN an/DT as/IN -/HYPH needed/VBN basis/NN ./.
+In/IN particular/JJ ,/, only/RB positive/JJ -/HYPH price/NN columns/NNS need/VBP to/TO be/VB brought/VBN into/IN the/DT model/NN ./.
+We/PRP prove/VBP that/IN finding/VBG a/DT positive/JJ -/HYPH price/NN chain/NN is/VBZ NP/NNP -/HYPH complete/JJ ./.
+This/DT shows/VBZ incorrectness/NN of/IN two/CD leading/VBG branch/NN -/HYPH and/CC -/HYPH price/NN solvers/NNS that/WDT suggested/VBD polynomial/JJ -/HYPH time/NN chain/NN pricing/NN algorithms/NNS ./.

@@ -1,0 +1,5 @@
+Real/JJ world/NN data/NNS differs/VBZ radically/RB from/IN the/DT benchmark/NN corpora/NN we/PRP use/VBP in/IN natural/JJ language/NN processing/NN (/-LRB- NLP/NN )/-RRB- ./.
+As/RB soon/RB as/IN we/PRP apply/VBP our/PRP$ technologies/NNS to/IN the/DT real/JJ world/NN ,/, performance/NN drops/VBZ ./.
+The/DT reason/NN for/IN this/DT problem/NN is/VBZ obvious/JJ :/: NLP/NN models/NNS are/VBP trained/VBN on/IN samples/NNS from/IN a/DT limited/JJ set/NN of/IN canonical/JJ varieties/NNS that/WDT are/VBP considered/VBN standard/JJ ,/, most/RBS prominently/RB English/JJ newswire/NN ./.
+However/RB ,/, there/EX are/VBP many/JJ dimensions/NNS ,/, e.g./FW ,/, socio/GW -/HYPH demographics/NNS ,/, language/NN ,/, genre/NN ,/, sentence/NN type/NN ,/, etc./FW on/IN which/WDT texts/NNS can/MD differ/VB from/IN the/DT standard/NN ./.
+The/DT solution/NN is/VBZ not/RB obvious/JJ :/: we/PRP can/MD not/RB control/VB for/IN all/DT factors/NNS ,/, and/CC it/PRP is/VBZ not/RB clear/JJ how/WRB to/TO best/JJS go/VB beyond/IN the/DT current/JJ practice/NN of/IN training/NN on/IN homogeneous/JJ data/NNS from/IN a/DT single/JJ domain/NN and/CC language/NN ./.

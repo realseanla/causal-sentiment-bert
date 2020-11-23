@@ -1,0 +1,3 @@
+This paper presents a microkernel architecture for constraint programming organized around a number of small number of core functionalities and minimal interfaces.
+The architecture contrasts with the monolithic nature of many implementations.
+Experimental results indicate that the software engineering benefits are not incompatible with runtime efficiency.

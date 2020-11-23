@@ -1,0 +1,7 @@
+This/DT paper/NN presents/VBZ a/DT concept/NN of/IN a/DT novel/JJ method/NN for/IN adjusting/VBG hyper/JJ -/HYPH parameters/NNS in/IN Deep/NNP Learning/NNP (/-LRB- DL/NN )/-RRB- algorithms/NNS ./.
+An/DT external/JJ agent/NN -/HYPH observer/NN monitors/NNS a/DT performance/NN of/IN a/DT selected/VBN Deep/NNP Learning/NNP algorithm/NN ./.
+The/DT observer/NN learns/VBZ to/TO model/VB the/DT DL/NN algorithm/NN using/VBG a/DT series/NN of/IN random/JJ experiments/NNS ./.
+Consequently/RB ,/, it/PRP may/MD be/VB used/VBN for/IN predicting/VBG a/DT response/NN of/IN the/DT DL/NN algorithm/NN in/IN terms/NNS of/IN a/DT selected/VBN quality/NN measurement/NN to/IN a/DT set/NN of/IN hyper/JJ -/HYPH parameters/NNS ./.
+This/DT allows/VBZ to/TO construct/VB an/DT ensemble/NN composed/VBN of/IN a/DT series/NN of/IN evaluators/NNS which/WDT constitute/VBP an/DT observer/NN -/HYPH assisted/VBN architecture/NN ./.
+The/DT architecture/NN may/MD be/VB used/VBN to/TO gradually/RB iterate/VB towards/IN to/IN the/DT best/JJS achievable/JJ quality/NN score/NN in/IN tiny/JJ steps/NNS governed/VBN by/IN a/DT unit/NN of/IN progress/NN ./.
+The/DT algorithm/NN is/VBZ stopped/VBN when/WRB the/DT maximum/JJ number/NN of/IN steps/NNS is/VBZ reached/VBN or/CC no/DT further/JJ progress/NN is/VBZ made/VBN ./.

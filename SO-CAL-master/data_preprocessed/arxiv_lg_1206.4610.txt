@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN we/PRP present/VBP a/DT fully/RB Bayesian/JJ latent/JJ variable/JJ model/NN which/WDT exploits/VBZ conditional/JJ nonlinear/JJ (/-LRB- in/IN )/-RRB- -/HYPH dependence/NN structures/NNS to/TO learn/VB an/DT efficient/JJ latent/NN representation/NN ./.
+The/DT latent/JJ space/NN is/VBZ factorized/VBN to/TO represent/VB shared/VBN and/CC private/JJ information/NN from/IN multiple/JJ views/NNS of/IN the/DT data/NNS ./.
+In/IN contrast/NN to/IN previous/JJ approaches/NNS ,/, we/PRP introduce/VBP a/DT relaxation/NN to/IN the/DT discrete/JJ segmentation/NN and/CC allow/VB for/IN a/DT "/`` softly/RB "/'' shared/VBD latent/JJ space/NN ./.
+Further/RB ,/, Bayesian/JJ techniques/NNS allow/VBP us/PRP to/TO automatically/RB estimate/VB the/DT dimensionality/NN of/IN the/DT latent/JJ spaces/NNS ./.
+The/DT model/NN is/VBZ capable/JJ of/IN capturing/VBG structure/NN underlying/VBG extremely/RB high/JJ dimensional/JJ spaces/NNS ./.
+This/DT is/VBZ illustrated/VBN by/IN modelling/VBG unprocessed/JJ images/NNS with/IN tenths/NNS of/IN thousands/NNS of/IN pixels/NNS ./.
+This/DT also/RB allows/VBZ us/PRP to/TO directly/RB generate/VB novel/JJ images/NNS from/IN the/DT trained/VBN model/NN by/IN sampling/NN from/IN the/DT discovered/VBN latent/NN spaces/NNS ./.
+We/PRP also/RB demonstrate/VBP the/DT model/NN by/IN prediction/NN of/IN human/JJ pose/NN in/IN an/DT ambiguous/JJ setting/NN ./.
+Our/PRP$ Bayesian/JJ framework/NN allows/VBZ us/PRP to/TO perform/VB disambiguation/NN in/IN a/DT principled/JJ manner/NN by/IN including/VBG latent/JJ space/NN priors/NNS which/WDT incorporate/VBP the/DT dynamic/JJ nature/NN of/IN the/DT data/NNS ./.

@@ -1,0 +1,12 @@
+We/PRP consider/VBP two/CD settings/NNS of/IN online/JJ learning/NN to/IN rank/NN where/WRB feedback/NN is/VBZ restricted/VBN to/IN top/JJ ranked/VBD items/NNS ./.
+The/DT problem/NN is/VBZ cast/VBN as/IN an/DT online/JJ game/NN between/IN a/DT learner/NN and/CC sequence/NN of/IN users/NNS ,/, over/IN $/$ T$/CD rounds/NNS ./.
+In/IN both/DT settings/NNS ,/, the/DT learners/NNS objective/NN is/VBZ to/TO present/VB ranked/VBN list/NN of/IN items/NNS to/IN the/DT users/NNS ./.
+The/DT learner/NN 's/POS performance/NN is/VBZ judged/VBN on/IN the/DT entire/JJ ranked/VBN list/NN and/CC true/JJ relevances/NNS of/IN the/DT items/NNS ./.
+However/RB ,/, the/DT learner/NN receives/VBZ highly/RB restricted/JJ feedback/NN at/IN end/NN of/IN each/DT round/NN ,/, in/IN form/NN of/IN relevances/NNS of/IN only/RB the/DT top/JJ $/$ k/CD $/$ ranked/VBD items/NNS ,/, where/WRB $/$ k/CD \/SYM ll/MD m/VB $/$ ./.
+The/DT first/JJ setting/NN is/VBZ \/SYM emph/NN {/-LRB- non-contextual/JJ }/-RRB- ,/, where/WRB the/DT list/NN of/IN items/NNS to/TO be/VB ranked/VBN is/VBZ fixed/VBN ./.
+The/DT second/JJ setting/NN is/VBZ \/SYM emph/NN {/-LRB- contextual/JJ }/-RRB- ,/, where/WRB lists/NNS of/IN items/NNS vary/VBP ,/, in/IN form/NN of/IN traditional/JJ query/NN -/HYPH document/NN lists/NNS ./.
+No/DT stochastic/JJ assumption/NN is/VBZ made/VBN on/IN the/DT generation/NN process/NN of/IN relevances/NNS of/IN items/NNS and/CC contexts/NNS ./.
+We/PRP provide/VBP efficient/JJ ranking/VBG strategies/NNS for/IN both/CC the/DT settings/NNS ./.
+The/DT strategies/NNS achieve/VBP $/$ O/UH (/-LRB- T/NN ^/SYM {/-LRB- 2/3/CD }/-RRB- )/-RRB- $/$ regret/NN ,/, where/WRB regret/NN is/VBZ based/VBN on/IN popular/JJ ranking/NN measures/NNS in/IN first/JJ setting/NN and/CC ranking/VBG surrogates/NNS in/IN second/JJ setting/NN ./.
+We/PRP also/RB provide/VBP impossibility/NN results/NNS for/IN certain/JJ ranking/VBG measures/NNS and/CC a/DT certain/JJ class/NN of/IN surrogates/NNS ,/, when/WRB feedback/NN is/VBZ restricted/VBN to/IN the/DT top/JJ ranked/VBN item/NN ,/, i.e./FW $/$ k/CD =/SYM 1/CD $/$ ./.
+We/PRP empirically/RB demonstrate/VBP the/DT performance/NN of/IN our/PRP$ algorithms/NNS on/IN simulated/JJ and/CC real/JJ world/NN datasets/NNS ./.

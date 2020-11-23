@@ -1,0 +1,8 @@
+Traditional/JJ anomaly/NN detection/NN on/IN social/JJ media/NNS mostly/RB focuses/VBZ on/IN individual/JJ point/NN anomalies/NNS while/IN anomalous/JJ phenomena/NNS usually/RB occur/VBP in/IN groups/NNS ./.
+Therefore/RB it/PRP is/VBZ valuable/JJ to/TO study/VB the/DT collective/JJ behavior/NN of/IN individuals/NNS and/CC detect/VB group/NN anomalies/NNS ./.
+Existing/VBG group/NN anomaly/NN detection/NN approaches/VBZ rely/VBP on/IN the/DT assumption/NN that/IN the/DT groups/NNS are/VBP known/VBN ,/, which/WDT can/MD hardly/RB be/VB true/JJ in/IN real/JJ world/NN social/JJ media/NN applications/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP take/VBP a/DT generative/JJ approach/NN by/IN proposing/VBG a/DT hierarchical/JJ Bayes/NNP model/NN :/: Group/NNP Latent/NNP Anomaly/NNP Detection/NNP (/-LRB- GLAD/JJ )/-RRB- model/NN ./.
+GLAD/JJ takes/VBZ both/CC pair-wise/JJ and/CC point-wise/JJ data/NNS as/IN input/NN ,/, automatically/RB infers/VBZ the/DT groups/NNS and/CC detects/VBZ group/NN anomalies/NNS simultaneously/RB ./.
+To/TO account/VB for/IN the/DT dynamic/JJ properties/NNS of/IN the/DT social/JJ media/NN data/NNS ,/, we/PRP further/RB generalize/VB GLAD/JJ to/IN its/PRP$ dynamic/JJ extension/NN d/NN -/HYPH GLAD/JJ ./.
+We/PRP conduct/VBP extensive/JJ experiments/NNS to/TO evaluate/VB our/PRP$ models/NNS on/IN both/DT synthetic/JJ and/CC real/JJ world/NN datasets/NNS ./.
+The/DT empirical/JJ results/NNS demonstrate/VBP that/IN our/PRP$ approach/NN is/VBZ effective/JJ and/CC robust/JJ in/IN discovering/VBG latent/JJ groups/NNS and/CC detecting/VBG group/NN anomalies/NNS ./.

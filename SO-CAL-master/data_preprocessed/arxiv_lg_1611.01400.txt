@@ -1,0 +1,9 @@
+Finding/VBG related/VBN published/VBN articles/NNS is/VBZ an/DT important/JJ task/NN in/IN any/DT science/NN ,/, but/CC with/IN the/DT explosion/NN of/IN new/JJ work/NN in/IN the/DT biomedical/JJ domain/NN it/PRP has/VBZ become/VBN especially/RB challenging/JJ ./.
+Most/JJS existing/VBG methodologies/NNS use/VB text/NN similarity/NN metrics/NNS to/TO identify/VB whether/IN two/CD articles/NNS are/VBP related/VBN or/CC not/RB ./.
+However/RB biomedical/JJ knowledge/NN discovery/NN is/VBZ hypothesis/NN -/HYPH driven/VBN ./.
+The/DT most/RBS related/JJ articles/NNS may/MD not/RB be/VB ones/NNS with/IN the/DT highest/JJS text/NN similarities/NNS ./.
+In/IN this/DT study/NN ,/, we/PRP first/RB develop/VB an/DT innovative/JJ crowd/NN -/HYPH sourcing/VBG approach/NN to/TO build/VB an/DT expert/NN -/HYPH annotated/VBN document/NN -/HYPH ranking/VBG corpus/NN ./.
+Using/VBG this/DT corpus/NN as/IN the/DT gold/NN standard/NN ,/, we/PRP then/RB evaluate/VB the/DT approaches/NNS of/IN using/VBG text/NN similarity/NN to/IN rank/NN the/DT relatedness/NN of/IN articles/NNS ./.
+Finally/RB ,/, we/PRP develop/VBP and/CC evaluate/VBP a/DT new/JJ supervised/JJ model/NN to/TO automatically/RB rank/VB related/JJ scientific/JJ articles/NNS ./.
+Our/PRP$ results/NNS show/VBP that/IN authors/NNS '/POS ranking/VBG differ/VBP significantly/RB from/IN rankings/NNS by/IN text/NN -/HYPH similarity/NN -/HYPH based/VBN models/NNS ./.
+By/IN training/VBG a/DT learning/NN -/HYPH to/IN -/HYPH rank/NN model/NN on/IN a/DT subset/NN of/IN the/DT annotated/VBN corpus/NN ,/, we/PRP found/VBD the/DT best/JJS supervised/JJ learning/NN -/HYPH to/IN -/HYPH rank/NN model/NN (/-LRB- SVM/NN -/HYPH Rank/NN )/-RRB- significantly/RB surpassed/VBD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN baseline/NN systems/NNS ./.

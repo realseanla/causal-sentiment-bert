@@ -1,0 +1,4 @@
+We propose a simple two-step approach for speeding up convolution layers within large convolutional neural networks based on tensor decomposition and discriminative fine-tuning.
+Given a layer, we use non-linear least squares to compute a low-rank CP-decomposition of the 4D convolution kernel tensor into a sum of a small number of rank-one tensors.
+At the second step, this decomposition is used to replace the original convolutional layer with a sequence of four convolutional layers with small kernels.
+After such replacement, the entire network is fine-tuned on the training data using standard backpropagation process.

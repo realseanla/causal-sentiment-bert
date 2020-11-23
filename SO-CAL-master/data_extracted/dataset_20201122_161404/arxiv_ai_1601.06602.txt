@@ -1,0 +1,7 @@
+We present a novel algorithm for anomaly detection on very large datasets and data streams.
+The method, named EXPected Similarity Estimation (EXPoSE), is kernel-based and able to efficiently compute the similarity between new data points and the distribution of regular data.
+The estimator is formulated as an inner product with a reproducing kernel Hilbert space embedding and makes no assumption about the type or shape of the underlying data distribution.
+We show that offline (batch) learning with EXPoSE can be done in linear time and online (incremental) learning takes constant time per instance and model update.
+Furthermore, EXPoSE can make predictions in constant time, while it requires only constant memory.
+In addition we propose different methodologies for concept drift adaptation on evolving data streams.
+On several real datasets we demonstrate that our approach can compete with state of the art algorithms for anomaly detection while being significant faster than techniques with the same discriminant power.

@@ -1,0 +1,11 @@
+In/IN distributed/VBN classification/NN ,/, each/DT learner/NN observes/VBZ its/PRP$ environment/NN and/CC deduces/VBZ a/DT classifier/NN ./.
+As/IN a/DT learner/NN has/VBZ only/RB a/DT local/JJ view/NN of/IN its/PRP$ environment/NN ,/, classifiers/NNS can/MD be/VB exchanged/VBN among/IN the/DT learners/NNS and/CC integrated/VBN ,/, or/CC merged/VBD ,/, to/TO improve/VB accuracy/NN ./.
+However/RB ,/, the/DT operation/NN of/IN merging/VBG is/VBZ not/RB defined/VBN for/IN most/JJS classifiers/NNS ./.
+Furthermore/RB ,/, the/DT classifiers/NNS that/WDT have/VBP to/TO be/VB merged/VBN may/MD be/VB of/IN different/JJ types/NNS in/IN settings/NNS such/JJ as/IN ad/FW -/HYPH hoc/FW networks/NNS in/IN which/WDT several/JJ generations/NNS of/IN sensors/NNS may/MD be/VB creating/VBG classifiers/NNS ./.
+We/PRP introduce/VBP decision/NN spaces/NNS as/IN a/DT framework/NN for/IN merging/VBG possibly/RB different/JJ classifiers/NNS ./.
+We/PRP formally/RB study/VB the/DT merging/VBG operation/NN as/IN an/DT algebra/NN ,/, and/CC prove/VB that/IN it/PRP satisfies/VBZ a/DT desirable/JJ set/NN of/IN properties/NNS ./.
+The/DT impact/NN of/IN time/NN is/VBZ discussed/VBN for/IN the/DT two/CD main/JJ data/NNS mining/NN settings/NNS ./.
+Firstly/RB ,/, decision/NN spaces/NNS can/MD naturally/RB be/VB used/VBN with/IN non-stationary/JJ distributions/NNS ,/, such/JJ as/IN the/DT data/NNS collected/VBN by/IN sensor/NN networks/NNS ,/, as/IN the/DT impact/NN of/IN a/DT model/NN decays/VBZ over/IN time/NN ./.
+Secondly/RB ,/, we/PRP introduce/VBP an/DT approach/NN for/IN stationary/JJ distributions/NNS ,/, such/JJ as/IN homogeneous/JJ databases/NNS partitioned/VBN over/IN different/JJ learners/NNS ,/, which/WDT ensures/VBZ that/IN all/DT models/NNS have/VBP the/DT same/JJ impact/NN ./.
+We/PRP also/RB present/VBP a/DT method/NN that/WDT uses/VBZ storage/NN flexibly/RB to/TO achieve/VB different/JJ types/NNS of/IN decay/NN for/IN non-stationary/JJ distributions/NNS ./.
+Finally/RB ,/, we/PRP show/VBP that/IN the/DT algebraic/JJ approach/NN developed/VBN for/IN merging/VBG can/MD also/RB be/VB used/VBN to/TO analyze/VB the/DT behaviour/NN of/IN other/JJ operators/NNS ./.

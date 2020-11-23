@@ -1,0 +1,12 @@
+Text/VB classification/NN is/VBZ a/DT widely/RB studied/VBN problem/NN ,/, and/CC it/PRP can/MD be/VB considered/VBN solved/VBN for/IN some/DT domains/NNS and/CC under/IN certain/JJ circumstances/NNS ./.
+There/EX are/VBP scenarios/NNS ,/, however/RB ,/, that/WDT have/VBP received/VBN little/JJ or/CC no/DT attention/NN at/IN all/RB ,/, despite/IN its/PRP$ relevance/NN and/CC applicability/NN ./.
+One/CD of/IN such/JJ scenarios/NNS is/VBZ early/JJ text/NN classification/NN ,/, where/WRB one/PRP needs/VBZ to/TO know/VB the/DT category/NN of/IN a/DT document/NN by/IN using/VBG partial/JJ information/NN only/RB ./.
+A/DT document/NN is/VBZ processed/VBN as/IN a/DT sequence/NN of/IN terms/NNS ,/, and/CC the/DT goal/NN is/VBZ to/TO devise/VB a/DT method/NN that/WDT can/MD make/VB predictions/NNS as/IN fast/JJ as/IN possible/JJ ./.
+The/DT importance/NN of/IN this/DT variant/NN of/IN the/DT text/NN classification/NN problem/NN is/VBZ evident/JJ in/IN domains/NNS like/IN sexual/JJ predator/NN detection/NN ,/, where/WRB one/CD wants/VBZ to/TO identify/VB an/DT offender/NN as/IN early/JJ as/IN possible/JJ ./.
+This/DT paper/NN analyzes/VBZ the/DT suitability/NN of/IN the/DT standard/JJ naive/JJ Bayes/NNP classifier/NN for/IN approaching/VBG this/DT problem/NN ./.
+Specifically/RB ,/, we/PRP assess/VBP its/PRP$ performance/NN when/WRB classifying/VBG documents/NNS after/IN seeing/VBG an/DT increasingly/RB number/NN of/IN terms/NNS ./.
+A/DT simple/JJ modification/NN to/IN the/DT standard/JJ naive/JJ Bayes/NNP implementation/NN allows/VBZ us/PRP to/TO make/VB predictions/NNS with/IN partial/JJ information/NN ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN naive/JJ Bayes/NNP has/VBZ not/RB been/VBN used/VBN for/IN this/DT purpose/NN before/IN ./.
+Throughout/IN an/DT extensive/JJ experimental/JJ evaluation/NN we/PRP show/VBP the/DT effectiveness/NN of/IN the/DT classifier/NN for/IN early/JJ text/NN classification/NN ./.
+What/WP is/VBZ more/JJR ,/, we/PRP show/VBP that/IN this/DT simple/JJ solution/NN is/VBZ very/RB competitive/JJ when/WRB compared/VBN with/IN state/NN of/IN the/DT art/NN methodologies/NNS that/WDT are/VBP more/RBR elaborated/VBN ./.
+We/PRP foresee/VBP our/PRP$ work/NN will/MD pave/VB the/DT way/NN for/IN the/DT development/NN of/IN more/JJR effective/JJ early/JJ text/NN classification/NN techniques/NNS based/VBN in/IN the/DT naive/JJ Bayes/NNP formulation/NN ./.

@@ -1,0 +1,2 @@
+For a pure Horn Boolean function on $n$ variables, we show that unless P=NP, it is not possible to approximate in polynomial time (in $n$) the minimum numbers of clauses and literals to within factors of $2^{O(\log^{1-o(1)} n)}$ even when the inputs are restricted to 3-CNFs with $O(n^{1+\varepsilon})$ clauses, for some small $\varepsilon&gt;0$.
+Furthermore, we show that unless the Exponential Time Hypothesis is false, it is not possible to obtain constant factor approximations for these problems even having sub-exponential time (in $n$) available.

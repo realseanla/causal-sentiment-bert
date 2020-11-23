@@ -1,0 +1,7 @@
+We/PRP present/VBP exact/JJ algorithms/NNS for/IN identifying/VBG deterministic/JJ -/HYPH actions/NNS effects/NNS and/CC preconditions/NNS in/IN dynamic/JJ partially/RB observable/JJ domains/NNS ./.
+They/PRP apply/VBP when/WRB one/NN does/VBZ not/RB know/VB the/DT action/NN model/NN (/-LRB- the/DT way/NN actions/NNS affect/VBP the/DT world/NN )/-RRB- of/IN a/DT domain/NN and/CC must/MD learn/VB it/PRP from/IN partial/JJ observations/NNS over/IN time/NN ./.
+Such/JJ scenarios/NNS are/VBP common/JJ in/IN real/JJ world/NN applications/NNS ./.
+They/PRP are/VBP challenging/VBG for/IN AI/NN tasks/NNS because/IN traditional/JJ domain/NN structures/NNS that/WDT underly/RB tractability/NN (/-LRB- e.g./FW ,/, conditional/JJ independence/NN )/-RRB- fail/VBP there/RB (/-LRB- e.g./FW ,/, world/NN features/VBZ become/VBN correlated/JJ )/-RRB- ./.
+Our/PRP$ work/NN departs/VBZ from/IN traditional/JJ assumptions/NNS about/IN partial/JJ observations/NNS and/CC action/NN models/NNS ./.
+In/IN particular/JJ ,/, it/PRP focuses/VBZ on/IN problems/NNS in/IN which/WDT actions/NNS are/VBP deterministic/JJ of/IN simple/JJ logical/JJ structure/NN and/CC observation/NN models/NNS have/VBP all/DT features/NNS observed/VBN with/IN some/DT frequency/NN ./.
+We/PRP yield/VBP tractable/JJ algorithms/NNS for/IN the/DT modified/VBN problem/NN for/IN such/JJ domains/NNS ./.

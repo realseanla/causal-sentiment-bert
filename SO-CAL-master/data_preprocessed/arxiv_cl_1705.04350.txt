@@ -1,0 +1,5 @@
+Multimodal/NNP machine/NN translation/NN is/VBZ the/DT task/NN of/IN translating/VBG sentences/NNS in/IN a/DT visual/JJ context/NN ./.
+We/PRP decompose/VBP this/DT problem/NN into/IN two/CD sub-tasks/NNS :/: learning/NN to/TO translate/VB and/CC learning/VBG visually/RB grounded/VBN representations/NNS ./.
+In/IN a/DT multitask/JJ learning/NN framework/NN ,/, translations/NNS are/VBP learned/VBN in/IN an/DT attention/NN -/HYPH based/VBN encoder/NN -/HYPH decoder/NN ,/, and/CC grounded/VBN representations/NNS are/VBP learned/VBN through/IN image/NN representation/NN prediction/NN ./.
+Our/PRP$ approach/NN improves/VBZ translation/NN performance/NN compared/VBN to/IN the/DT state/NN of/IN the/DT art/NN on/IN the/DT Multi30K/NN dataset/NN ./.
+Furthermore/RB ,/, it/PRP is/VBZ equally/RB effective/JJ if/IN we/PRP train/VBP the/DT image/NN prediction/NN task/NN on/IN the/DT external/JJ MS/NN COCO/NN dataset/NN ,/, and/CC we/PRP find/VBP improvements/NNS if/IN we/PRP train/VBP the/DT translation/NN model/NN on/IN the/DT external/JJ News/NNP Commentary/NNP parallel/VB text/NN ./.

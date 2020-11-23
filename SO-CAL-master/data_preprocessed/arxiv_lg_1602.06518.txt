@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP consider/VBP the/DT problem/NN of/IN multi-task/VB learning/NN ,/, in/IN which/WDT a/DT learner/NN is/VBZ given/VBN a/DT collection/NN of/IN prediction/NN tasks/NNS that/WDT need/VBP to/TO be/VB solved/VBN ./.
+In/IN contrast/NN to/IN previous/JJ work/NN ,/, we/PRP give/VBP up/RP on/IN the/DT assumption/NN that/IN labeled/VBN training/NN data/NNS is/VBZ available/JJ for/IN all/DT tasks/NNS ./.
+Instead/RB ,/, we/PRP propose/VBP an/DT active/JJ task/NN selection/NN framework/NN ,/, where/WRB based/VBN only/RB on/IN the/DT unlabeled/JJ data/NNS ,/, the/DT learner/NN can/MD choose/VB a/DT ,/, typically/RB small/JJ ,/, subset/NN of/IN tasks/NNS for/IN which/WDT he/PRP gets/VBZ some/DT labeled/VBN examples/NNS ./.
+For/IN the/DT remaining/VBG tasks/NNS ,/, which/WDT have/VBP no/DT available/JJ annotation/NN ,/, solutions/NNS are/VBP found/VBN by/IN transferring/VBG information/NN from/IN the/DT selected/VBN tasks/NNS ./.
+We/PRP analyze/VBP two/CD transfer/NN strategies/NNS and/CC develop/VB generalization/NN bounds/NNS for/IN each/DT of/IN them/PRP ./.
+Based/VBN on/IN this/DT theoretical/JJ analysis/NN we/PRP propose/VBP two/CD algorithms/NNS for/IN making/VBG the/DT choice/NN of/IN labeled/VBN tasks/NNS in/IN a/DT principled/JJ way/NN and/CC show/VBP their/PRP$ effectiveness/NN on/IN synthetic/JJ and/CC real/JJ data/NNS ./.

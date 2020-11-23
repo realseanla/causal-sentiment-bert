@@ -1,0 +1,6 @@
+The design and analysis of communication systems typically rely on the development of mathematical models that describe the underlying communication channel, which dictates the relationship between the transmitted and the received signals.
+However, in some systems, such as molecular communication systems where chemical signals are used for transfer of information, it is not possible to accurately model this relationship.
+In these scenarios, because of the lack of mathematical channel models, a completely new approach to design and analysis is required.
+In this work, we focus on one important aspect of communication systems, the detection algorithms, and demonstrate that by borrowing tools from deep learning, it is possible to train detectors that perform well, without any knowledge of the underlying channel models.
+We evaluate these algorithms using experimental data that is collected by a chemical communication platform, where the channel model is unknown and difficult to model analytically.
+We show that deep learning algorithms perform significantly better than a simple detector that was used in previous works, which also did not assume any knowledge of the channel.

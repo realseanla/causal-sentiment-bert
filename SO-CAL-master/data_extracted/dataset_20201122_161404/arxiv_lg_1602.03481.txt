@@ -1,0 +1,6 @@
+Crowdsourcing systems provide scalable and cost-effective human-powered solutions at marginal cost, for classification tasks where humans are significantly better than the machines.
+Although traditional approaches in aggregating crowdsourced labels have relied on the Dawid-Skene model, this fails to capture how some tasks are inherently more difficult than the others.
+Several generalizations have been proposed, but inference becomes intractable and typical solutions resort to heuristics.
+To bridge this gap, we study a recently proposed generalize Dawid-Skene model, and propose a linear-time algorithm based on spectral methods.
+We show near-optimality of the proposed approach, by providing an upper bound on the error and comparing it to a fundamental limit.
+We provide numerical experiments on synthetic data matching our analyses, and also on real datasets demonstrating that the spectral method significantly improves over simple majority voting and is comparable to other methods.

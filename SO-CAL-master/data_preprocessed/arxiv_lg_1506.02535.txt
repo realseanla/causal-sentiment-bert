@@ -1,0 +1,4 @@
+We/PRP first/RB present/VBP a/DT general/JJ risk/NN bound/VBN for/IN ensembles/NNS that/WDT depends/VBZ on/IN the/DT Lp/NN norm/NN of/IN the/DT weighted/JJ combination/NN of/IN voters/NNS which/WDT can/MD be/VB selected/VBN from/IN a/DT continuous/JJ set/NN ./.
+We/PRP then/RB propose/VB a/DT boosting/VBG method/NN ,/, called/VBN QuadBoost/NNP ,/, which/WDT is/VBZ strongly/RB supported/VBN by/IN the/DT general/JJ risk/NN bound/VBN and/CC has/VBZ very/RB simple/JJ rules/NNS for/IN assigning/VBG the/DT voters/NNS '/POS weights/NNS ./.
+Moreover/RB ,/, QuadBoost/NN exhibits/VBZ a/DT rate/NN of/IN decrease/NN of/IN its/PRP$ empirical/JJ error/NN which/WDT is/VBZ slightly/RB faster/JJR than/IN the/DT one/CD achieved/VBN by/IN AdaBoost/NNP ./.
+The/DT experimental/JJ results/NNS confirm/VBP the/DT expectation/NN of/IN the/DT theory/NN that/IN QuadBoost/NNP is/VBZ a/DT very/RB efficient/JJ method/NN for/IN learning/VBG ensembles/NNS ./.

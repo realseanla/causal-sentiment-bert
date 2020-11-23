@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT document/NN compression/NN system/NN that/WDT uses/VBZ a/DT hierarchical/JJ noisy/JJ -/HYPH channel/NN model/NN of/IN text/NN production/NN ./.
+Our/PRP$ compression/NN system/NN first/JJ automatically/RB derives/VBZ the/DT syntactic/JJ structure/NN of/IN each/DT sentence/NN and/CC the/DT overall/JJ discourse/NN structure/NN of/IN the/DT text/NN given/VBN as/IN input/NN ./.
+The/DT system/NN then/RB uses/VBZ a/DT statistical/JJ hierarchical/JJ model/NN of/IN text/NN production/NN in/IN order/NN to/TO drop/VB non-important/JJ syntactic/JJ and/CC discourse/NN constituents/NNS so/RB as/IN to/TO generate/VB coherent/JJ ,/, grammatical/JJ document/NN compressions/NNS of/IN arbitrary/JJ length/NN ./.
+The/DT system/NN outperforms/VBZ both/CC a/DT baseline/NN and/CC a/DT sentence/NN -/HYPH based/VBN compression/NN system/NN that/WDT operates/VBZ by/IN simplifying/VBG sequentially/RB all/DT sentences/NNS in/IN a/DT text/NN ./.
+Our/PRP$ results/NNS support/VBP the/DT claim/NN that/IN discourse/NN knowledge/NN plays/VBZ an/DT important/JJ role/NN in/IN document/NN summarization/NN ./.

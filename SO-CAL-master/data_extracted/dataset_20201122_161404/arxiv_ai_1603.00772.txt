@@ -1,0 +1,6 @@
+Large scale classification of data organized as a hierarchy of classes has received significant attention in the literature.
+Top-Down (TD) Hierarchical Classification (HC), which exploits the hierarchical structure during the learning process is an effective method for dealing with problems at scale due to its computational benefits.
+However, its accuracy suffers due to error propagation i.e., prediction errors made at higher levels in the hierarchy cannot be corrected at lower levels.
+One of the main reasons behind errors at the higher levels is the presence of inconsistent nodes and links that are introduced due to the arbitrary process of creating these hierarchies by domain experts.
+In this paper, we propose two efficient data driven filter based approaches for hierarchical structure modification: (i) Flattening (local and global) approach that identifies and removes inconsistent nodes present within the hierarchy and (ii) Rewiring approach modifies parent-child relationships to improve the classification performance of learned models.
+Our extensive empirical evaluation of the proposed approaches on several image and text datasets shows improved performance over competing approaches.

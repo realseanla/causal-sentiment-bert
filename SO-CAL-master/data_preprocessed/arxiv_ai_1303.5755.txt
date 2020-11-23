@@ -1,0 +1,6 @@
+In/IN mechanical/JJ design/NN ,/, there/EX is/VBZ often/RB unavoidable/JJ uncertainty/NN in/IN estimates/NNS of/IN design/NN performance/NN ./.
+Evaluation/NN of/IN design/NN alternatives/NNS requires/VBZ consideration/NN of/IN the/DT impact/NN of/IN this/DT uncertainty/NN ./.
+Expert/NNP heuristics/NNS embody/VBP assumptions/NNS regarding/VBG the/DT designer/NN 's/POS attitude/NN towards/IN risk/NN and/CC uncertainty/NN that/WDT might/MD be/VB reasonable/JJ in/IN most/JJS cases/NNS but/CC inaccurate/JJ in/IN others/NNS ./.
+We/PRP present/VBP a/DT technique/NN to/TO allow/VB designers/NNS to/TO incorporate/VB their/PRP$ own/JJ unique/JJ attitude/NN towards/IN uncertainty/NN as/IN opposed/VBN to/IN those/DT assumed/VBN by/IN the/DT domain/NN expert/NN 's/POS rules/NNS ./.
+The/DT general/JJ approach/NN is/VBZ to/TO eliminate/VB aspects/NNS of/IN heuristic/NN rules/NNS which/WDT directly/RB or/CC indirectly/RB include/VBP assumptions/NNS regarding/VBG the/DT user/NN 's/POS attitude/NN towards/IN risk/NN ,/, and/CC replace/VB them/PRP with/IN explicit/JJ ,/, user/NN -/HYPH specified/VBN probabilistic/JJ multi/JJ attribute/NN utility/NN and/CC probability/NN distribution/NN functions/NNS ./.
+We/PRP illustrate/VBP the/DT method/NN in/IN a/DT system/NN for/IN material/NN selection/NN for/IN automobile/NN bumpers/NNS ./.

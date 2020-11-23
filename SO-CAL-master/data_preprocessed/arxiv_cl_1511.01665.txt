@@ -1,0 +1,6 @@
+In/IN this/DT article/NN ,/, how/WRB word/NN embeddings/NNS can/MD be/VB used/VBN as/IN features/NNS in/IN Chinese/JJ sentiment/NN classification/NN is/VBZ presented/VBN ./.
+Firstly/RB ,/, a/DT Chinese/JJ opinion/NN corpus/NN is/VBZ built/VBN with/IN a/DT million/CD comments/NNS from/IN hotel/NN review/NN websites/NNS ./.
+Then/RB the/DT word/NN embeddings/NNS which/WDT represent/VBP each/DT comment/NN are/VBP used/VBN as/IN input/NN in/IN different/JJ machine/NN learning/NN methods/NNS for/IN sentiment/NN classification/NN ,/, including/VBG SVM/NN ,/, Logistic/JJ Regression/NN ,/, Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- and/CC ensemble/NN methods/NNS ./.
+These/DT methods/NNS get/VBP better/JJR performance/NN compared/VBN with/IN N/NN -/HYPH gram/NN models/NNS using/VBG Naive/NNP Bayes/NNP (/-LRB- NB/NNP )/-RRB- and/CC Maximum/NNP Entropy/NNP (/-LRB- ME/NNP )/-RRB- ./.
+Finally/RB ,/, a/DT combination/NN of/IN machine/NN learning/NN methods/NNS is/VBZ proposed/VBN which/WDT presents/VBZ an/DT outstanding/JJ performance/NN in/IN precision/NN ,/, recall/NN and/CC F1/NN score/NN ./.
+After/IN selecting/VBG the/DT most/RBS useful/JJ methods/NNS to/TO construct/VB the/DT combinational/JJ model/NN and/CC testing/NN over/IN the/DT corpus/NN ,/, the/DT final/JJ F1/NN score/NN is/VBZ 0.920/CD ./.

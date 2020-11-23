@@ -1,0 +1,9 @@
+Recent/JJ language/NN models/NNS ,/, especially/RB those/DT based/VBN on/IN recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- ,/, make/VBP it/PRP possible/JJ to/TO generate/VB natural/JJ language/NN from/IN a/DT learned/VBN probability/NN ./.
+Language/NNP generation/NN has/VBZ wide/JJ applications/NNS including/VBG machine/NN translation/NN ,/, summarization/NN ,/, question/NN answering/NN ,/, conversation/NN systems/NNS ,/, etc/FW ./.
+Existing/VBG methods/NNS typically/RB learn/VBP a/DT joint/JJ probability/NN of/IN words/NNS conditioned/VBN on/IN additional/JJ information/NN ,/, which/WDT is/VBZ (/-LRB- either/CC statically/RB or/CC dynamically/RB )/-RRB- fed/VBN to/IN RNN/NNP 's/POS hidden/JJ layer/NN ./.
+In/IN many/JJ applications/NNS ,/, we/PRP are/VBP likely/JJ to/TO impose/VB hard/JJ constraints/NNS on/IN the/DT generated/VBN texts/NNS ,/, i.e./FW ,/, a/DT particular/JJ word/NN must/MD appear/VB in/IN the/DT sentence/NN ./.
+Unfortunately/RB ,/, existing/VBG methods/NNS could/MD not/RB solve/VB this/DT problem/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT backbone/NN language/NN model/NN (/-LRB- backbone/NN LM/NN )/-RRB- for/IN constrained/JJ language/NN generation/NN ./.
+Provided/VBN a/DT specific/JJ word/NN ,/, our/PRP$ model/NN generates/VBZ previous/JJ words/NNS and/CC future/JJ words/NNS simultaneously/RB ./.
+In/IN this/DT way/NN ,/, the/DT given/VBN word/NN could/MD appear/VB at/IN any/DT position/NN in/IN the/DT sentence/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN the/DT generated/VBN texts/NNS are/VBP coherent/JJ and/CC fluent/JJ ./.

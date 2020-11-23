@@ -1,0 +1,6 @@
+Deep learning has led to remarkable advances when applied to problems where the data distribution does not change over the course of learning.
+In stark contrast, biological neural networks continually adapt to changing domains, and solve a diversity of tasks simultaneously.
+Furthermore, synapses in biological neurons are not simply real-valued scalars, but possess complex molecular machinery enabling non-trivial learning dynamics.
+In this study, we take a first step toward bringing this biological complexity into artificial neural networks.
+We introduce a model of intelligent synapses that accumulate task relevant information over time, and exploit this information to efficiently consolidate memories of old tasks to protect them from being overwritten as new tasks are learned.
+We apply our framework to learning sequences of related classification problems, and show that it dramatically reduces catastrophic forgetting while maintaining computational efficiency.

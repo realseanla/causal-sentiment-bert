@@ -1,0 +1,7 @@
+Machine/NN learning/NN is/VBZ used/VBN in/IN a/DT number/NN of/IN security/NN related/VBN applications/NNS such/JJ as/IN biometric/JJ user/NN authentication/NN ,/, speaker/NN identification/NN etc/FW ./.
+A/DT type/NN of/IN causative/JJ integrity/NN attack/NN against/IN machine/NN learning/NN called/VBN Poisoning/NNP attack/NN works/VBZ by/IN injecting/VBG specially/RB crafted/VBN data/NNS points/NNS in/IN the/DT training/NN data/NNS so/RB as/IN to/TO increase/VB the/DT false/JJ positive/JJ rate/NN of/IN the/DT classifier/NN ./.
+In/IN the/DT context/NN of/IN the/DT biometric/JJ authentication/NN ,/, this/DT means/VBZ that/IN more/JJR intruders/NNS will/MD be/VB classified/VBN as/IN valid/JJ user/NN ,/, and/CC in/IN case/NN of/IN speaker/NN identification/NN system/NN ,/, user/NN A/NN will/MD be/VB classified/VBN user/NN B/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP examine/VBP poisoning/NN attack/NN against/IN SVM/NNP and/CC introduce/VB -/HYPH Curie/NNP -/HYPH a/DT method/NN to/TO protect/VB the/DT SVM/NNP classifier/NN from/IN the/DT poisoning/NN attack/NN ./.
+The/DT basic/JJ idea/NN of/IN our/PRP$ method/NN is/VBZ to/TO identify/VB the/DT poisoned/VBN data/NNS points/NNS injected/VBN by/IN the/DT adversary/NN and/CC filter/VB them/PRP out/RP ./.
+Our/PRP$ method/NN is/VBZ light/JJ weight/NN and/CC can/MD be/VB easily/RB integrated/VBN into/IN existing/VBG systems/NNS ./.
+Experimental/JJ results/NNS shows/VBZ that/IN it/PRP works/VBZ very/RB well/RB in/IN filtering/VBG out/RP the/DT poisoned/VBN data/NNS ./.

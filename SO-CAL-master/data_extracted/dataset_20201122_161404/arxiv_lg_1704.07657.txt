@@ -1,0 +1,6 @@
+Various modifications of decision trees have been extensively used during the past years due to their high efficiency and interpretability.
+Selection of relevant features for spitting the tree nodes is a key property of their architecture, at the same time being their major shortcoming: the recursive nodes partitioning leads to geometric reduction of data quantity in the leaf nodes, which causes an excessive model complexity and data overfitting.
+In this paper, we present a novel architecture - a Decision Stream, - aimed to overcome this problem.
+Instead of building an acyclic tree structure during the training process, we propose merging nodes from different branches based on their similarity that is estimated with two-sample test statistics.
+To evaluate the proposed solution, we test it on several common machine learning problems~--- credit scoring, twitter sentiment analysis, aircraft flight control, MNIST and CIFAR image classification, synthetic data classification and regression.
+Our experimental results reveal that the proposed approach significantly outperforms the standard decision tree method on both regression and classification tasks, yielding a prediction error decrease up to 35 percent.

@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP our/PRP$ first/JJ attempts/NNS in/IN building/VBG a/DT multilingual/JJ Neural/JJ Machine/NN Translation/NN framework/NN under/IN a/DT unified/JJ approach/NN ./.
+We/PRP are/VBP then/RB able/JJ to/TO employ/VB attention/NN -/HYPH based/VBN NMT/NNP for/IN many/JJ -/HYPH to/IN -/HYPH many/JJ multilingual/JJ translation/NN tasks/NNS ./.
+Our/PRP$ approach/NN does/VBZ not/RB require/VB any/DT special/JJ treatment/NN on/IN the/DT network/NN architecture/NN and/CC it/PRP allows/VBZ us/PRP to/TO learn/VB minimal/JJ number/NN of/IN free/JJ parameters/NNS in/IN a/DT standard/JJ way/NN of/IN training/NN ./.
+Our/PRP$ approach/NN has/VBZ shown/VBN its/PRP$ effectiveness/NN in/IN an/DT under/IN -/HYPH resourced/VBN translation/NN scenario/NN with/IN considerable/JJ improvements/NNS up/IN to/IN 2.6/CD BLEU/NN points/NNS ./.
+In/IN addition/NN ,/, the/DT approach/NN has/VBZ achieved/VBN interesting/JJ and/CC promising/JJ results/NNS when/WRB applied/VBN in/IN the/DT translation/NN task/NN that/IN there/EX is/VBZ no/DT direct/JJ parallel/JJ corpus/NN between/IN source/NN and/CC target/NN languages/NNS ./.

@@ -1,0 +1,7 @@
+Despite tremendous progress in computer vision, there has not been an attempt for machine learning on very large-scale medical image databases.
+We present an interleaved text/image deep learning system to extract and mine the semantic interactions of radiology images and reports from a national research hospital's Picture Archiving and Communication System.
+With natural language processing, we mine a collection of representative ~216K two-dimensional key images selected by clinicians for diagnostic reference, and match the images with their descriptions in an automated manner.
+Our system interleaves between unsupervised learning and supervised learning on document- and sentence-level text collections, to generate semantic labels and to predict them given an image.
+Given an image of a patient scan, semantic topics in radiology levels are predicted, and associated key-words are generated.
+Also, a number of frequent disease types are detected as present or absent, to provide more specific interpretation of a patient scan.
+This shows the potential of large-scale learning and prediction in electronic patient records available in most modern clinical institutions.

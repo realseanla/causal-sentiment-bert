@@ -1,0 +1,9 @@
+Whether/IN teaching/NN in/IN a/DT classroom/NN or/CC a/DT Massive/JJ Online/NNP Open/NNP Course/NNP it/PRP is/VBZ crucial/JJ to/TO present/VB the/DT material/NN in/IN a/DT way/NN that/WDT benefits/VBZ the/DT audience/NN as/IN a/DT whole/JJ ./.
+We/PRP identify/VBP two/CD important/JJ tasks/NNS to/TO solve/VB towards/IN this/DT objective/NN ,/, 1/CD group/NN students/NNS so/IN that/IN they/PRP can/MD maximally/RB benefit/VB from/IN peer/NN interaction/NN and/CC 2/CD find/VB an/DT optimal/JJ schedule/NN of/IN the/DT educational/JJ material/NN for/IN each/DT group/NN ./.
+Thus/RB ,/, in/IN this/DT paper/NN ,/, we/PRP solve/VBP the/DT problem/NN of/IN team/NN formation/NN and/CC content/NN scheduling/NN for/IN education/NN ./.
+Given/VBN a/DT time/NN frame/NN d/NN ,/, a/DT set/NN of/IN students/NNS S/NN with/IN their/PRP$ required/VBN need/NN to/TO learn/VB different/JJ activities/NNS T/NN and/CC given/VBN k/NN as/IN the/DT number/NN of/IN desired/VBN groups/NNS ,/, we/PRP study/VBP the/DT problem/NN of/IN finding/VBG k/CD group/NN of/IN students/NNS ./.
+The/DT goal/NN is/VBZ to/TO teach/VB students/NNS within/IN time/NN frame/NN d/NN such/JJ that/IN their/PRP$ potential/NN for/IN learning/NN is/VBZ maximized/VBN and/CC find/VB the/DT best/JJS schedule/NN for/IN each/DT group/NN ./.
+We/PRP show/VBP this/DT problem/NN to/TO be/VB NP/NNP -/HYPH hard/JJ and/CC develop/VB a/DT polynomial/JJ algorithm/NN for/IN it/PRP ./.
+We/PRP show/VBP our/PRP$ algorithm/NN to/TO be/VB effective/JJ both/CC on/IN synthetic/JJ as/RB well/RB as/IN a/DT real/JJ data/NNS set/VBN ./.
+For/IN our/PRP$ experiments/NNS ,/, we/PRP use/VBP real/JJ data/NNS on/IN students/NNS '/POS grades/NNS in/IN a/DT Computer/NNP Science/NNP department/NN ./.
+As/IN part/NN of/IN our/PRP$ contribution/NN ,/, we/PRP release/VBP a/DT semi-synthetic/JJ dataset/NN that/WDT mimics/VBZ the/DT properties/NNS of/IN the/DT real/JJ data/NNS ./.

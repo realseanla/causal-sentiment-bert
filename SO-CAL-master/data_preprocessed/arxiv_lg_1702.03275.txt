@@ -1,0 +1,6 @@
+Batch/NN Normalization/NN is/VBZ quite/RB effective/JJ at/IN accelerating/VBG and/CC improving/VBG the/DT training/NN of/IN deep/JJ models/NNS ./.
+However/RB ,/, its/PRP$ effectiveness/NN diminishes/VBZ when/WRB the/DT training/NN minibatches/NNS are/VBP small/JJ ,/, or/CC do/VBP not/RB consist/VB of/IN independent/JJ samples/NNS ./.
+We/PRP hypothesize/VBP that/IN this/DT is/VBZ due/JJ to/IN the/DT dependence/NN of/IN model/NN layer/NN inputs/NNS on/IN all/PDT the/DT examples/NNS in/IN the/DT minibatch/NN ,/, and/CC different/JJ activations/NNS being/VBG produced/VBN between/IN training/NN and/CC inference/NN ./.
+We/PRP propose/VBP Batch/NN Renormalization/NN ,/, a/DT simple/JJ and/CC effective/JJ extension/NN to/TO ensure/VB that/IN the/DT training/NN and/CC inference/NN models/NNS generate/VBP the/DT same/JJ outputs/NNS that/WDT depend/VBP on/IN individual/JJ examples/NNS rather/RB than/IN the/DT entire/JJ minibatch/NN ./.
+Models/NNS trained/VBN with/IN Batch/NN Renormalization/NN perform/VB substantially/RB better/JJR than/IN batchnorm/NN when/WRB training/VBG with/IN small/JJ or/CC non-i.i.d./JJ minibatches/NNS ./.
+At/IN the/DT same/JJ time/NN ,/, Batch/NN Renormalization/NN retains/VBZ the/DT benefits/NNS of/IN batchnorm/NN such/JJ as/IN insensitivity/NN to/IN initialization/NN and/CC training/NN efficiency/NN ./.

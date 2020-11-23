@@ -1,0 +1,10 @@
+Clustering/NN is/VBZ an/DT essential/JJ problem/NN in/IN machine/NN learning/NN and/CC data/NNS mining/NN ./.
+One/CD vital/JJ factor/NN that/WDT impacts/VBZ clustering/NN performance/NN is/VBZ how/WRB to/TO learn/VB or/CC design/VB the/DT data/NNS representation/NN (/-LRB- or/CC features/NNS )/-RRB- ./.
+Fortunately/RB ,/, recent/JJ advances/NNS in/IN deep/JJ learning/NN can/MD learn/VB unsupervised/JJ features/NNS effectively/RB ,/, and/CC have/VBP yielded/VBN state/NN of/IN the/DT art/NN performance/NN in/IN many/JJ classification/NN problems/NNS ,/, such/JJ as/IN character/NN recognition/NN ,/, object/NN recognition/NN and/CC document/NN categorization/NN ./.
+However/RB ,/, little/JJ attention/NN has/VBZ been/VBN paid/VBN to/IN the/DT potential/NN of/IN deep/JJ learning/NN for/IN unsupervised/JJ clustering/NN problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT deep/JJ belief/NN network/NN with/IN nonparametric/JJ clustering/NN ./.
+As/IN an/DT unsupervised/JJ method/NN ,/, our/PRP$ model/NN first/RB leverages/VBZ the/DT advantages/NNS of/IN deep/JJ learning/NN for/IN feature/NN representation/NN and/CC dimension/NN reduction/NN ./.
+Then/RB ,/, it/PRP performs/VBZ nonparametric/JJ clustering/NN under/IN a/DT maximum/JJ margin/NN framework/NN --/: a/DT discriminative/JJ clustering/NN model/NN and/CC can/MD be/VB trained/VBN online/JJ efficiently/RB in/IN the/DT code/NN space/NN ./.
+Lastly/RB model/NN parameters/NNS are/VBP refined/VBN in/IN the/DT deep/JJ belief/NN network/NN ./.
+Thus/RB ,/, this/DT model/NN can/MD learn/VB features/NNS for/IN clustering/NN and/CC infer/VBP model/NN complexity/NN in/IN an/DT unified/JJ framework/NN ./.
+The/DT experimental/JJ results/NNS show/VBP the/DT advantage/NN of/IN our/PRP$ approach/NN over/IN competitive/JJ baselines/NNS ./.

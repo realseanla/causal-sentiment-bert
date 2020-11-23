@@ -1,0 +1,7 @@
+Using/VBG current/JJ reinforcement/NN learning/VBG methods/NNS ,/, it/PRP has/VBZ recently/RB become/VBN possible/JJ to/TO learn/VB to/TO play/VB unknown/JJ 3D/NN games/NNS from/IN raw/JJ pixels/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP study/VBP the/DT challenges/NNS that/WDT arise/VBP in/IN such/JJ complex/JJ environments/NNS ,/, and/CC summarize/VB current/JJ methods/NNS to/TO approach/VB these/DT ./.
+We/PRP choose/VBP a/DT task/NN within/IN the/DT Doom/NNP game/NN ,/, that/WDT has/VBZ not/RB been/VBN approached/VBN yet/RB ./.
+The/DT goal/NN for/IN the/DT agent/NN is/VBZ to/TO fight/VB enemies/NNS in/IN a/DT 3D/JJ world/NN consisting/VBG of/IN five/CD rooms/NNS ./.
+We/PRP train/VBP the/DT DQN/NNP and/CC LSTM/NNP -/HYPH A3C/NNP algorithms/NNS on/IN this/DT task/NN ./.
+Results/NNS show/VBP that/IN both/DT algorithms/NNS learn/VBP sensible/JJ policies/NNS ,/, but/CC fail/VBP to/TO achieve/VB high/JJ scores/NNS given/VBN the/DT amount/NN of/IN training/NN ./.
+We/PRP provide/VBP insights/NNS into/IN the/DT learned/VBN behavior/NN ,/, which/WDT can/MD serve/VB as/IN a/DT valuable/JJ starting/NN point/NN for/IN further/JJ research/NN in/IN the/DT Doom/NNP domain/NN ./.

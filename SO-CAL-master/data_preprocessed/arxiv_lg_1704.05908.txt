@@ -1,0 +1,5 @@
+Knowledge/NN bases/NNS are/VBP important/JJ resources/NNS for/IN a/DT variety/NN of/IN natural/JJ language/NN processing/NN tasks/NNS but/CC suffer/VB from/IN incompleteness/NN ./.
+We/PRP propose/VBP a/DT novel/JJ embedding/NN model/NN ,/, \/SYM emph/NN {/-LRB- ITransF/NN }/-RRB- ,/, to/TO perform/VB knowledge/NN base/NN completion/NN ./.
+Equipped/VBN with/IN a/DT sparse/JJ attention/NN mechanism/NN ,/, ITransF/NNP discovers/VBZ hidden/JJ concepts/NNS of/IN relations/NNS and/CC transfer/NN statistical/JJ strength/NN through/IN the/DT sharing/NN of/IN concepts/NNS ./.
+Moreover/RB ,/, the/DT learned/VBN associations/NNS between/IN relations/NNS and/CC concepts/NNS ,/, which/WDT are/VBP represented/VBN by/IN sparse/JJ attention/NN vectors/NNS ,/, can/MD be/VB interpreted/VBN easily/RB ./.
+We/PRP evaluate/VBP ITransF/NN on/IN two/CD benchmark/NN datasets/NNS ---/, WN18/NN and/CC FB15k/NN for/IN knowledge/NN base/NN completion/NN and/CC obtains/VBZ improvements/NNS on/IN both/CC the/DT mean/JJ rank/NN and/CC Hits@10/NN metrics/NNS ,/, over/IN all/DT baselines/NNS that/WDT do/VBP not/RB use/VB additional/JJ information/NN ./.

@@ -1,0 +1,7 @@
+We/PRP present/VBP a/DT novel/JJ approach/NN to/IN the/DT formulation/NN and/CC the/DT resolution/NN of/IN sparse/JJ Linear/NNP Discriminant/NNP Analysis/NNP (/-LRB- LDA/NNP )/-RRB- ./.
+Our/PRP$ proposal/NN ,/, is/VBZ based/VBN on/IN penalized/VBN Optimal/JJ Scoring/NN ./.
+It/PRP has/VBZ an/DT exact/JJ equivalence/NN with/IN penalized/VBN LDA/NNP ,/, contrary/JJ to/IN the/DT multi-class/JJ approaches/NNS based/VBN on/IN the/DT regression/NN of/IN class/NN indicator/NN that/WDT have/VBP been/VBN proposed/VBN so/RB far/RB ./.
+Sparsity/NN is/VBZ obtained/VBN thanks/NNS to/IN a/DT group/NN -/HYPH Lasso/NNP penalty/NN that/WDT selects/VBZ the/DT same/JJ features/NNS in/IN all/DT discriminant/JJ directions/NNS ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN this/DT approach/NN generates/VBZ extremely/RB parsimonious/JJ models/NNS without/IN compromising/VBG prediction/NN performances/NNS ./.
+Besides/IN prediction/NN ,/, the/DT resulting/VBG sparse/JJ discriminant/JJ directions/NNS are/VBP also/RB amenable/JJ to/IN low/JJ -/HYPH dimensional/JJ representations/NNS of/IN data/NNS ./.
+Our/PRP$ algorithm/NN is/VBZ highly/RB efficient/JJ for/IN medium/NN to/IN large/JJ number/NN of/IN variables/NNS ,/, and/CC is/VBZ thus/RB particularly/RB well/RB suited/JJ to/IN the/DT analysis/NN of/IN gene/NN expression/NN data/NNS ./.

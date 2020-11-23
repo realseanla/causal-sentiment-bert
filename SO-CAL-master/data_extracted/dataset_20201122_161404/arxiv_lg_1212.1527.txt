@@ -1,0 +1,3 @@
+We give an algorithm for learning a mixture of unstructured distributions.
+This problem arises in various unsupervised learning scenarios, for example in learning topic models from a corpus of documents spanning several topics.
+We show how to learn the constituents (the topic distributions and the mixture weights) of a mixture of $k$ (constant) arbitrary distributions over a large discrete domain $[n]={1,2,...,n}$, using $O(n\polylog n)$ samples.

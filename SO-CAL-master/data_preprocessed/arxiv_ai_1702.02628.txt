@@ -1,0 +1,9 @@
+In/IN a/DT smart/JJ city/NN ,/, real/JJ -/HYPH time/NN traffic/NN sensors/NNS may/MD be/VB deployed/VBN for/IN various/JJ applications/NNS ,/, such/JJ as/IN route/NN planning/NN ./.
+Unfortunately/RB ,/, sensors/NNS are/VBP prone/JJ to/IN failures/NNS ,/, which/WDT result/VBP in/IN erroneous/JJ traffic/NN data/NNS ./.
+Erroneous/JJ data/NNS can/MD adversely/RB affect/VB applications/NNS such/JJ as/IN route/NN planning/NN ,/, and/CC can/MD cause/VB increased/JJ travel/NN time/NN and/CC environmental/JJ impact/NN ./.
+To/TO minimize/VB the/DT impact/NN of/IN sensor/NN failures/NNS ,/, we/PRP must/MD detect/VB them/PRP promptly/RB and/CC with/IN high/JJ accuracy/NN ./.
+However/RB ,/, typical/JJ detection/NN algorithms/NNS may/MD lead/VB to/IN a/DT large/JJ number/NN of/IN false/JJ positives/NNS (/-LRB- i.e./FW ,/, false/JJ alarms/NNS )/-RRB- and/CC false/JJ negatives/NNS (/-LRB- i.e./FW ,/, missed/VBD detections/NNS )/-RRB- ,/, which/WDT can/MD result/VB in/IN suboptimal/JJ route/NN planning/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP devise/VBP an/DT effective/JJ detector/NN for/IN identifying/VBG faulty/JJ traffic/NN sensors/NNS using/VBG a/DT prediction/NN model/NN based/VBN on/IN Gaussian/JJ Processes/NNS ./.
+Further/RB ,/, we/PRP present/VBP an/DT approach/NN for/IN computing/VBG the/DT optimal/JJ parameters/NNS of/IN the/DT detector/NN which/WDT minimize/VBP losses/NNS due/IN to/IN false/JJ -/HYPH positive/JJ and/CC false/JJ -/HYPH negative/JJ errors/NNS ./.
+We/PRP also/RB characterize/VBP critical/JJ sensors/NNS ,/, whose/WP$ failure/NN can/MD have/VB high/JJ impact/NN on/IN the/DT route/NN planning/NN application/NN ./.
+Finally/RB ,/, we/PRP implement/VBP our/PRP$ method/NN and/CC evaluate/VB it/PRP numerically/RB using/VBG a/DT real/JJ -/HYPH world/NN dataset/NN and/CC the/DT route/NN planning/NN platform/NN OpenTripPlanner/NNP ./.

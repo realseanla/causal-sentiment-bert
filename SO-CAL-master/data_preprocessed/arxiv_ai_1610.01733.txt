@@ -1,0 +1,12 @@
+Exploration/NN in/IN an/DT unknown/JJ environment/NN is/VBZ the/DT core/NN functionality/NN for/IN mobile/JJ robots/NNS ./.
+Learning/NN -/HYPH based/VBN exploration/NN methods/NNS ,/, including/VBG convolutional/JJ neural/JJ networks/NNS ,/, provide/VB excellent/JJ strategies/NNS without/IN human/JJ -/HYPH designed/VBN logic/NN for/IN the/DT feature/NN extraction/NN ./.
+But/CC the/DT conventional/JJ supervised/JJ learning/NN algorithms/NNS cost/VBP lots/NNS of/IN efforts/NNS on/IN the/DT labeling/NN work/NN of/IN datasets/NNS inevitably/RB ./.
+Scenes/NNS not/RB included/VBN in/IN the/DT training/NN set/NN are/VBP mostly/RB unrecognized/JJ either/RB ./.
+We/PRP propose/VBP a/DT deep/JJ reinforcement/NN learning/NN method/NN for/IN the/DT exploration/NN of/IN mobile/JJ robots/NNS in/IN an/DT indoor/JJ environment/NN with/IN the/DT depth/NN information/NN from/IN an/DT RGB/NN -/HYPH D/NN sensor/NN only/RB ./.
+Based/VBN on/IN the/DT Deep/JJ Q/NN -/HYPH Network/NN framework/NN ,/, the/DT raw/JJ depth/NN image/NN is/VBZ taken/VBN as/IN the/DT only/JJ input/NN to/TO estimate/VB the/DT Q/NN values/NNS corresponding/VBG to/IN all/DT moving/VBG commands/NNS ./.
+The/DT training/NN of/IN the/DT network/NN weights/NNS is/VBZ end/NN -/HYPH to/IN -/HYPH end/NN ./.
+In/IN arbitrarily/RB constructed/VBN simulation/NN environments/NNS ,/, we/PRP show/VBP that/IN the/DT robot/NN can/MD be/VB quickly/RB adapted/VBN to/IN unfamiliar/JJ scenes/NNS without/IN any/DT man/NN -/HYPH made/VBN labeling/NN ./.
+Besides/RB ,/, through/IN analysis/NN of/IN receptive/JJ fields/NNS of/IN feature/NN representations/NNS ,/, deep/JJ reinforcement/NN learning/VBG motivates/VBZ the/DT convolutional/JJ networks/NNS to/TO estimate/VB the/DT traversability/NN of/IN the/DT scenes/NNS ./.
+The/DT test/NN results/NNS are/VBP compared/VBN with/IN the/DT exploration/NN strategies/NNS separately/RB based/VBN on/IN deep/JJ learning/NN or/CC reinforcement/NN learning/NN ./.
+Even/RB trained/VBN only/RB in/IN the/DT simulated/JJ environment/NN ,/, experimental/JJ results/NNS in/IN real/JJ -/HYPH world/NN environment/NN demonstrate/VBP that/IN the/DT cognitive/JJ ability/NN of/IN robot/NN controller/NN is/VBZ dramatically/RB improved/VBN compared/VBN with/IN the/DT supervised/JJ method/NN ./.
+We/PRP believe/VBP it/PRP is/VBZ the/DT first/JJ time/NN that/WDT raw/JJ sensor/NN information/NN is/VBZ used/VBN to/TO build/VB cognitive/JJ exploration/NN strategy/NN for/IN mobile/JJ robots/NNS through/IN end/NN -/HYPH to/IN -/HYPH end/NN deep/JJ reinforcement/NN learning/NN ./.

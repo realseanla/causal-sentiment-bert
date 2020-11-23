@@ -1,0 +1,7 @@
+There/EX have/VBP been/VBN multiple/JJ attempts/NNS to/TO resolve/VB the/DT various/JJ formation/NN matching/VBG problem/NN in/IN information/NN retrieval/NN ./.
+Stemming/VBG is/VBZ a/DT common/JJ strategy/NN to/IN this/DT end/NN ./.
+Among/IN many/JJ approaches/NNS for/IN stemming/VBG ,/, statistical/JJ stemming/VBG has/VBZ shown/VBN to/TO be/VB effective/JJ in/IN a/DT few/JJ number/NN of/IN languages/NNS ,/, particularly/RB those/DT highly/RB inflected/JJ ones/NNS ./.
+Common/JJ statistical/JJ approaches/NNS heavily/RB relies/VBZ on/IN string/NN similarity/NN in/IN terms/NNS of/IN prefix/NN and/CC suffix/NN matching/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT method/NN that/WDT is/VBZ able/JJ to/TO find/VB any/DT popular/JJ affix/NN in/IN any/DT position/NN of/IN a/DT word/NN ;/: specifically/RB finding/VBG infixes/NNS is/VBZ a/DT required/VBN task/NN in/IN Persian/NNP ,/, Arabic/NNP ,/, and/CC Malay/JJ particularly/RB in/IN irregular/JJ formations/NNS and/CC is/VBZ a/DT future/NN challenge/NN in/IN informal/JJ texts/NNS ./.
+The/DT proposed/JJ method/NN aims/VBZ at/IN finding/VBG a/DT number/NN of/IN transformation/NN rules/NNS for/IN expanding/VBG a/DT word/NN with/IN its/PRP$ inflectional/JJ //HYPH derivation/NN formations/NNS ./.
+Our/PRP$ experimental/JJ results/NNS on/IN CLEF/NNP 2008/CD and/CC CLEF/NN 2009/CD English/NNP -/HYPH Persian/NNP CLIR/NNP tasks/NNS indicate/VBP that/IN the/DT proposed/JJ method/NN significantly/RB outperforms/VBZ all/PDT the/DT baselines/NNS in/IN terms/NNS of/IN MAP/NN ./.

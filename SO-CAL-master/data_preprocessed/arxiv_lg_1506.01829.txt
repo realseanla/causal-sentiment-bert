@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN multi-label/JJ classification/NN ./.
+We/PRP consider/VBP linear/JJ classifiers/NNS and/CC propose/VB to/TO learn/VB a/DT prior/JJ over/IN the/DT space/NN of/IN labels/NNS to/TO directly/RB leverage/VB the/DT performance/NN of/IN such/JJ methods/NNS ./.
+This/DT prior/JJ takes/VBZ the/DT form/NN of/IN a/DT quadratic/JJ function/NN of/IN the/DT labels/NNS and/CC permits/NNS to/TO encode/VB both/DT attractive/JJ and/CC repulsive/JJ relations/NNS between/IN labels/NNS ./.
+We/PRP cast/VBD this/DT problem/NN as/IN a/DT structured/JJ prediction/NN one/CD aiming/VBG at/IN optimizing/VBG either/CC the/DT accuracies/NNS of/IN the/DT predictors/NNS or/CC the/DT F/NN 1/CD -/HYPH score/NN ./.
+This/DT leads/VBZ to/IN an/DT optimization/NN problem/NN closely/RB related/VBN to/IN the/DT max/NN -/HYPH cut/NN problem/NN ,/, which/WDT naturally/RB leads/VBZ to/IN semidefinite/NN and/CC spectral/JJ relaxations/NNS ./.
+We/PRP show/VBP on/IN standard/JJ datasets/NNS how/WRB such/PDT a/DT general/JJ prior/JJ can/MD improve/VB the/DT performances/NNS of/IN multi-label/JJ techniques/NNS ./.

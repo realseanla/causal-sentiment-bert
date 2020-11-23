@@ -1,0 +1,8 @@
+Dance/NNP Dance/NNP Revolution/NNP (/-LRB- DDR/NNP )/-RRB- is/VBZ a/DT popular/JJ rhythm/NN -/HYPH based/VBN video/NN game/NN ./.
+Players/NNS perform/VBP steps/NNS on/IN a/DT dance/NN platform/NN in/IN synchronization/NN with/IN music/NN as/IN directed/VBN by/IN on/IN -/HYPH screen/NN step/NN charts/NNS ./.
+While/IN many/JJ step/NN charts/NNS are/VBP available/JJ in/IN standardized/JJ packs/NNS ,/, users/NNS may/MD grow/VB tired/JJ of/IN existing/VBG charts/NNS ,/, or/CC wish/VBP to/TO dance/VB to/IN a/DT song/NN for/IN which/WDT no/DT chart/NN exists/VBZ ./.
+We/PRP introduce/VBP the/DT task/NN of/IN learning/NN to/IN choreograph/NN ./.
+Given/VBN a/DT raw/JJ audio/JJ track/NN ,/, the/DT goal/NN is/VBZ to/TO produce/VB a/DT new/JJ step/NN chart/NN ./.
+This/DT task/NN decomposes/VBZ naturally/RB into/IN two/CD subtasks/NNS :/: deciding/VBG when/WRB to/TO place/VB steps/NNS and/CC deciding/VBG which/WDT steps/VBZ to/TO select/VB ./.
+For/IN the/DT step/NN placement/NN task/NN ,/, we/PRP combine/VBP recurrent/JJ and/CC convolutional/JJ neural/JJ networks/NNS to/TO ingest/VB spectrograms/NNS of/IN low/JJ -/HYPH level/NN audio/NN features/VBZ to/TO predict/VB steps/NNS ,/, conditioned/VBN on/IN chart/NN difficulty/NN ./.
+For/IN step/NN selection/NN ,/, we/PRP present/VBP a/DT conditional/JJ LSTM/NN generative/JJ model/NN that/WDT substantially/RB outperforms/VBZ n/NN -/HYPH gram/NN and/CC fixed/VBN -/HYPH window/NN approaches/NNS ./.

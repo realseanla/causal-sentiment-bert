@@ -1,0 +1,2 @@
+We solve principle component regression (PCR) by providing an efficient algorithm to project any vector onto the subspace formed by the top principle components of a matrix.
+Our algorithm does not require any explicit construction of the top principle components, and therefore is suitable for large-scale PCR instances.

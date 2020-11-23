@@ -1,0 +1,8 @@
+Recently/RB ,/, word/NN representation/NN has/VBZ been/VBN increasingly/RB focused/VBN on/IN for/IN its/PRP$ excellent/JJ properties/NNS in/IN representing/VBG the/DT word/NN semantics/NNS ./.
+Previous/JJ works/NNS mainly/RB suffer/VBP from/IN the/DT problem/NN of/IN polysemy/NN phenomenon/NN ./.
+To/TO address/VB this/DT problem/NN ,/, most/JJS of/IN previous/JJ models/NNS represent/VBP words/NNS as/IN multiple/JJ distributed/VBN vectors/NNS ./.
+However/RB ,/, it/PRP can/MD not/RB reflect/VB the/DT rich/JJ relations/NNS between/IN words/NNS by/IN representing/VBG words/NNS as/IN points/NNS in/IN the/DT embedded/VBN space/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP the/DT Gaussian/NNP mixture/NN skip/VB -/HYPH gram/NN (/-LRB- GMSG/NNP )/-RRB- model/NN to/TO learn/VB the/DT Gaussian/JJ mixture/NN embeddings/NNS for/IN words/NNS based/VBN on/IN skip/VB -/HYPH gram/NN framework/NN ./.
+Each/DT word/NN can/MD be/VB regarded/VBN as/IN a/DT gaussian/JJ mixture/NN distribution/NN in/IN the/DT embedded/VBN space/NN ,/, and/CC each/DT gaussian/JJ component/NN represents/VBZ a/DT word/NN sense/NN ./.
+Since/IN the/DT number/NN of/IN senses/NNS varies/VBZ from/IN word/NN to/IN word/NN ,/, we/PRP further/RB propose/VB the/DT Dynamic/JJ GMSG/NN (/-LRB- D/NN -/HYPH GMSG/NN )/-RRB- model/NN by/IN adaptively/RB increasing/VBG the/DT sense/NN number/NN of/IN words/NNS during/IN training/NN ./.
+Experiments/NNS on/IN four/CD benchmarks/NNS show/VBP the/DT effectiveness/NN of/IN our/PRP$ proposed/VBN model/NN ./.

@@ -1,0 +1,11 @@
+The/DT multi-agent/JJ path/NN -/HYPH finding/NN (/-LRB- MAPF/NN )/-RRB- problem/NN has/VBZ recently/RB received/VBN a/DT lot/NN of/IN attention/NN ./.
+However/RB ,/, it/PRP does/VBZ not/RB capture/VB important/JJ characteristics/NNS of/IN many/JJ real/JJ -/HYPH world/NN domains/NNS ,/, such/JJ as/IN automated/VBN warehouses/NNS ,/, where/WRB agents/NNS are/VBP constantly/RB engaged/VBN with/IN new/JJ tasks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP therefore/RB study/VBP a/DT lifelong/JJ version/NN of/IN the/DT MAPF/NNP problem/NN ,/, called/VBD the/DT multi-agent/JJ pickup/NN and/CC delivery/NN (/-LRB- MAPD/NN )/-RRB- problem/NN ./.
+In/IN the/DT MAPD/NNP problem/NN ,/, agents/NNS have/VBP to/TO attend/VB to/IN a/DT stream/NN of/IN delivery/NN tasks/NNS in/IN an/DT online/JJ setting/NN ./.
+One/CD agent/NN has/VBZ to/TO be/VB assigned/VBN to/IN each/DT delivery/NN task/NN ./.
+This/DT agent/NN has/VBZ to/TO first/RB move/VB to/IN a/DT given/VBN pickup/NN location/NN and/CC then/RB to/IN a/DT given/VBN delivery/NN location/NN while/IN avoiding/VBG collisions/NNS with/IN other/JJ agents/NNS ./.
+We/PRP present/VBP two/CD decoupled/VBN MAPD/NNP algorithms/NNS ,/, Token/NNP Passing/VBG (/-LRB- TP/NNP )/-RRB- and/CC Token/NNP Passing/VBG with/IN Task/NNP Swaps/NNP (/-LRB- TPTS/NNP )/-RRB- ./.
+Theoretically/RB ,/, we/PRP show/VBP that/IN they/PRP solve/VBP all/RB well/RB -/HYPH formed/VBN MAPD/NN instances/NNS ,/, a/DT realistic/JJ subclass/NN of/IN MAPD/NNP instances/NNS ./.
+Experimentally/RB ,/, we/PRP compare/VBP them/PRP against/IN a/DT centralized/JJ strawman/NN MAPD/NNP algorithm/NN without/IN this/DT guarantee/NN in/IN a/DT simulated/JJ warehouse/NN system/NN ./.
+TP/NNP can/MD easily/RB be/VB extended/VBN to/IN a/DT fully/RB distributed/VBN MAPD/NNP algorithm/NN and/CC is/VBZ the/DT best/JJS choice/NN when/WRB real/JJ -/HYPH time/NN computation/NN is/VBZ of/IN primary/JJ concern/NN since/IN it/PRP remains/VBZ efficient/JJ for/IN MAPD/NN instances/NNS with/IN hundreds/NNS of/IN agents/NNS and/CC tasks/NNS ./.
+TPTS/NNP requires/VBZ limited/JJ communication/NN among/IN agents/NNS and/CC balances/NNS well/RB between/IN TP/NNP and/CC the/DT centralized/JJ MAPD/NN algorithm/NN ./.

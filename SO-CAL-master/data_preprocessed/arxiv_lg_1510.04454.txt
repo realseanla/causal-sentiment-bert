@@ -1,0 +1,4 @@
+The/DT online/JJ Markov/NNP decision/NN process/NN (/-LRB- MDP/NN )/-RRB- is/VBZ a/DT generalization/NN of/IN the/DT classical/JJ Markov/NNP decision/NN process/NN that/WDT incorporates/VBZ changing/VBG reward/NN functions/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP practical/JJ online/JJ MDP/NN algorithms/NNS with/IN policy/NN iteration/NN and/CC theoretically/RB establish/VB a/DT sublinear/NN regret/NN bound/VBN ./.
+A/DT notable/JJ advantage/NN of/IN the/DT proposed/VBN algorithm/NN is/VBZ that/IN it/PRP can/MD be/VB easily/RB combined/VBN with/IN function/NN approximation/NN ,/, and/CC thus/RB large/JJ and/CC possibly/RB continuous/JJ state/NN spaces/NNS can/MD be/VB efficiently/RB handled/VBN ./.
+Through/IN experiments/NNS ,/, we/PRP demonstrate/VBP the/DT usefulness/NN of/IN the/DT proposed/VBN algorithm/NN ./.

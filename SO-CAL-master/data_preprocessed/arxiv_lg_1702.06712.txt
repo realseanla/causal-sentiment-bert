@@ -1,0 +1,5 @@
+Shapelets/NNS are/VBP discriminative/JJ time/NN series/NN subsequences/NNS that/WDT allow/VBP generation/NN of/IN interpretable/JJ classification/NN models/NNS ,/, which/WDT provide/VBP faster/JJR and/CC generally/RB better/JJR classification/NN than/IN the/DT nearest/JJS neighbor/NN approach/NN ./.
+However/RB ,/, the/DT shapelet/NN discovery/NN process/NN requires/VBZ the/DT evaluation/NN of/IN all/DT possible/JJ subsequences/NNS of/IN all/DT time/NN series/NN in/IN the/DT training/NN set/NN ,/, making/VBG it/PRP extremely/RB computation/JJ intensive/JJ ./.
+Consequently/RB ,/, shapelet/NN discovery/NN for/IN large/JJ time/NN series/NN datasets/NNS quickly/RB becomes/VBZ intractable/JJ ./.
+A/DT number/NN of/IN improvements/NNS have/VBP been/VBN proposed/VBN to/TO reduce/VB the/DT training/NN time/NN ./.
+These/DT techniques/NNS use/VBP approximation/NN or/CC discretization/NN and/CC often/RB lead/VBP to/IN reduced/VBN classification/NN accuracy/NN compared/VBN to/IN the/DT exact/JJ method/NN ./.

@@ -1,0 +1,8 @@
+Clinicians are expected to have up-to-date and broad knowledge of disease treatment options for a patient.
+Online health knowledge resources contain a wealth of information.
+However, because of the time investment needed to disseminate and rank pertinent information, there is a need to summarize the information in a more concise format.
+Our aim of the study is to provide clinicians with a concise overview of popular treatments for a given disease using information automatically computed from Medline abstracts.
+We analyzed the treatments of two disorders - Atrial Fibrillation and Congestive Heart Failure.
+We calculated the precision, recall, and f-scores of our two ranking methods to measure the accuracy of the results.
+For Atrial Fibrillation disorder, maximum f-score for the New Treatments weighing method is 0.611, which occurs at 60 treatments.
+For Congestive Heart Failure disorder, maximum f-score for the New Treatments weighing method is 0.503, which occurs at 80 treatments.

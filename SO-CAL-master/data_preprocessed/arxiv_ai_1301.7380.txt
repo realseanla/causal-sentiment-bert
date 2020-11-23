@@ -1,0 +1,5 @@
+Most/JJS algorithms/NNS for/IN solving/VBG POMDPs/NNP iteratively/RB improve/VB a/DT value/NN function/NN that/WDT implicitly/RB represents/VBZ a/DT policy/NN and/CC are/VBP said/VBN to/IN search/NN in/IN value/NN function/NN space/NN ./.
+This/DT paper/NN presents/VBZ an/DT approach/NN to/IN solving/VBG POMDPs/NNS that/WDT represents/VBZ a/DT policy/NN explicitly/RB as/IN a/DT finite/NN -/HYPH state/NN controller/NN and/CC iteratively/NN improves/VBZ the/DT controller/NN by/IN search/NN in/IN policy/NN space/NN ./.
+Two/CD related/JJ algorithms/NNS illustrate/VBP this/DT approach/NN ./.
+The/DT first/JJ is/VBZ a/DT policy/NN iteration/NN algorithm/NN that/WDT can/MD outperform/VB value/NN iteration/NN in/IN solving/VBG infinitehorizon/NN POMDPs/NNS ./.
+It/PRP provides/VBZ the/DT foundation/NN for/IN a/DT new/JJ heuristic/NN search/NN algorithm/NN that/WDT promises/VBZ further/JJ speedup/NN by/IN focusing/VBG computational/JJ effort/NN on/IN regions/NNS of/IN the/DT problem/NN space/NN that/WDT are/VBP reachable/JJ ,/, or/CC likely/JJ to/TO be/VB reached/VBN ,/, from/IN a/DT start/NN state/NN ./.

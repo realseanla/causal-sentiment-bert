@@ -1,0 +1,6 @@
+First/RB -/HYPH order/VB knowledge/NN compilation/NN techniques/NNS have/VBP proven/VBN efficient/JJ for/IN lifted/VBN inference/NN ./.
+They/PRP compile/VBP a/DT relational/JJ probability/NN model/NN into/IN a/DT target/NN circuit/NN on/IN which/WDT many/JJ inference/NN queries/NNS can/MD be/VB answered/VBN efficiently/RB ./.
+Early/RB methods/NNS used/VBN data/NNS structures/NNS as/IN their/PRP$ target/NN circuit/NN ./.
+In/IN our/PRP$ KR/NN -/HYPH 2016/CD paper/NN ,/, we/PRP showed/VBD that/IN compiling/VBG to/IN a/DT low/JJ -/HYPH level/NN program/NN instead/RB of/IN a/DT data/NN structure/NN offers/VBZ orders/NNS of/IN magnitude/NN speedup/NN ,/, resulting/VBG in/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN lifted/VBN inference/NN technique/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP conduct/VBP experiments/NNS to/TO address/VB two/CD questions/NNS regarding/VBG our/PRP$ KR/NN -/HYPH 2016/CD results/NNS :/: 1/CD -/HYPH does/VBZ the/DT speedup/NN come/VBN from/IN more/RBR efficient/JJ compilation/NN or/CC more/RBR efficient/JJ reasoning/NN with/IN the/DT target/NN circuit/NN ?/.
+,/, and/CC 2/CD -/SYM why/WRB are/VBP low/JJ -/HYPH level/NN programs/NNS more/RBR efficient/JJ target/NN circuits/NNS than/IN data/NNS structures/NNS ?/.

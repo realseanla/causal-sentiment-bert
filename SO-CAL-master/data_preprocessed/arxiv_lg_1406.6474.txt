@@ -1,0 +1,6 @@
+Submodular/JJ functions/NNS describe/VBP a/DT variety/NN of/IN discrete/JJ problems/NNS in/IN machine/NN learning/NN ,/, signal/NN processing/NN ,/, and/CC computer/NN vision/NN ./.
+However/RB ,/, minimizing/VBG submodular/JJ functions/NNS poses/VBZ a/DT number/NN of/IN algorithmic/JJ challenges/NNS ./.
+Recent/JJ work/NN introduced/VBD an/DT easy/JJ -/HYPH to/IN -/HYPH use/NN ,/, parallelizable/JJ algorithm/NN for/IN minimizing/VBG submodular/JJ functions/NNS that/WDT decompose/VBP as/IN the/DT sum/NN of/IN "/`` simple/JJ "/'' submodular/JJ functions/NNS ./.
+Empirically/RB ,/, this/DT algorithm/NN performs/VBZ extremely/RB well/RB ,/, but/CC no/DT theoretical/JJ analysis/NN was/VBD given/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN the/DT algorithm/NN converges/VBZ linearly/RB ,/, and/CC we/PRP provide/VBP upper/JJ and/CC lower/JJR bounds/NNS on/IN the/DT rate/NN of/IN convergence/NN ./.
+Our/PRP$ proof/NN relies/VBZ on/IN the/DT geometry/NN of/IN submodular/JJ polyhedra/NN and/CC draws/VBZ on/IN results/NNS from/IN spectral/JJ graph/NN theory/NN ./.

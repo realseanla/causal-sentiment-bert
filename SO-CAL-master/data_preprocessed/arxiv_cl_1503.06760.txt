@@ -1,0 +1,4 @@
+Unsupervised/JJ word/NN embeddings/NNS have/VBP been/VBN shown/VBN to/TO be/VB valuable/JJ as/IN features/NNS in/IN supervised/JJ learning/NN problems/NNS ;/: however/RB ,/, their/PRP$ role/NN in/IN unsupervised/JJ problems/NNS has/VBZ been/VBN less/JJR thoroughly/RB explored/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN embeddings/NNS can/MD likewise/RB add/VB value/NN to/IN the/DT problem/NN of/IN unsupervised/JJ POS/NN induction/NN ./.
+In/IN two/CD representative/JJ models/NNS of/IN POS/NN induction/NN ,/, we/PRP replace/VBP multinomial/JJ distributions/NNS over/IN the/DT vocabulary/NN with/IN multivariate/JJ Gaussian/JJ distributions/NNS over/IN word/NN embeddings/NNS and/CC observe/VBP consistent/JJ improvements/NNS in/IN eight/CD languages/NNS ./.
+We/PRP also/RB analyze/VB the/DT effect/NN of/IN various/JJ choices/NNS while/IN inducing/VBG word/NN embeddings/NNS on/IN "/`` downstream/JJ "/'' POS/NN induction/NN results/NNS ./.

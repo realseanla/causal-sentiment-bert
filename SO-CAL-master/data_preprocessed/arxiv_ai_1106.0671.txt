@@ -1,0 +1,8 @@
+Enforcing/VBG local/JJ consistencies/NNS is/VBZ one/CD of/IN the/DT main/JJ features/NNS of/IN constraint/NN reasoning/NN ./.
+Which/WDT level/NN of/IN local/JJ consistency/NN should/MD be/VB used/VBN when/WRB searching/VBG for/IN solutions/NNS in/IN a/DT constraint/NN network/NN is/VBZ a/DT basic/JJ question/NN ./.
+Arc/NNP consistency/NN and/CC partial/JJ forms/NNS of/IN arc/NN consistency/NN have/VBP been/VBN widely/RB studied/VBN ,/, and/CC have/VBP been/VBN known/VBN for/IN sometime/RB through/IN the/DT forward/JJ checking/NN or/CC the/DT MAC/NNP search/NN algorithms/NNS ./.
+Until/IN recently/RB ,/, stronger/JJR forms/NNS of/IN local/JJ consistency/NN remained/VBD limited/JJ to/IN those/DT that/WDT change/VBP the/DT structure/NN of/IN the/DT constraint/NN graph/NN ,/, and/CC thus/RB ,/, could/MD not/RB be/VB used/VBN in/IN practice/NN ,/, especially/RB on/IN large/JJ networks/NNS ./.
+This/DT paper/NN focuses/VBZ on/IN the/DT local/JJ consistencies/NNS that/WDT are/VBP stronger/JJR than/IN arc/NN consistency/NN ,/, without/IN changing/VBG the/DT structure/NN of/IN the/DT network/NN ,/, i.e./FW ,/, only/RB removing/VBG inconsistent/JJ values/NNS from/IN the/DT domains/NNS ./.
+In/IN the/DT last/JJ five/CD years/NNS ,/, several/JJ such/JJ local/JJ consistencies/NNS have/VBP been/VBN proposed/VBN by/IN us/PRP or/CC by/IN others/NNS ./.
+We/PRP make/VBP an/DT overview/NN of/IN all/DT of/IN them/PRP ,/, and/CC highlight/VB some/DT relations/NNS between/IN them/PRP ./.
+We/PRP compare/VBP them/PRP both/DT theoretically/RB and/CC experimentally/RB ,/, considering/VBG their/PRP$ pruning/NN efficiency/NN and/CC the/DT time/NN required/VBN to/TO enforce/VB them/PRP ./.

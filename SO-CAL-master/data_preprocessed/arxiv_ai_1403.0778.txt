@@ -1,0 +1,7 @@
+This/DT paper/NN proposes/VBZ a/DT new/JJ mechanism/NN for/IN pruning/NN a/DT search/NN game/NN -/HYPH tree/NN in/IN computer/NN chess/NN ./.
+The/DT algorithm/NN stores/NNS and/CC then/RB reuses/VBZ chains/NNS or/CC sequences/NNS of/IN moves/NNS ,/, built/VBN up/RP from/IN previous/JJ searches/NNS ./.
+These/DT move/VBP sequences/NNS have/VBP a/DT built/VBN -/HYPH in/RP forward/JJ -/HYPH pruning/NN mechanism/NN that/WDT can/MD radically/RB reduce/VB the/DT search/NN space/NN ./.
+A/DT typical/JJ search/NN process/NN might/MD retrieve/VB a/DT move/NN from/IN a/DT Transposition/NNP Table/NN ,/, where/WRB the/DT decision/NN of/IN what/WP move/VBP to/TO retrieve/VB would/MD be/VB based/VBN on/IN the/DT position/NN itself/PRP ./.
+This/DT algorithm/NN stores/NNS move/VBP sequences/NNS based/VBN on/IN what/WP previous/JJ sequences/NNS were/VBD better/JJR ,/, or/CC caused/VBN cutoffs/NNS ./.
+This/DT is/VBZ therefore/RB position/NN independent/JJ and/CC so/RB it/PRP could/MD also/RB be/VB useful/JJ in/IN games/NNS with/IN imperfect/JJ information/NN or/CC uncertainty/NN ,/, where/WRB the/DT whole/JJ situation/NN is/VBZ not/RB known/VBN at/IN any/DT one/CD time/NN ./.
+Over/IN a/DT small/JJ set/NN of/IN tests/NNS ,/, the/DT algorithm/NN was/VBD shown/VBN to/TO clearly/RB out/RB -/HYPH perform/VB Transposition/NN Tables/NNS ,/, both/CC in/IN terms/NNS of/IN search/NN reduction/NN and/CC game/NN -/HYPH play/NN results/NNS ./.

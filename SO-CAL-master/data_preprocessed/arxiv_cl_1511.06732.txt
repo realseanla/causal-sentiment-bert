@@ -1,0 +1,6 @@
+Many/JJ natural/JJ language/NN processing/NN applications/NNS use/VBP language/NN models/NNS to/TO generate/VB text/NN ./.
+These/DT models/NNS are/VBP typically/RB trained/VBN to/TO predict/VB the/DT next/JJ word/NN in/IN a/DT sequence/NN ,/, given/VBN the/DT previous/JJ words/NNS and/CC some/DT context/NN such/JJ as/IN an/DT image/NN ./.
+However/RB ,/, at/IN test/NN time/NN the/DT model/NN is/VBZ expected/VBN to/TO generate/VB the/DT entire/JJ sequence/NN from/IN scratch/NN ./.
+This/DT discrepancy/NN makes/VBZ generation/NN brittle/JJ ,/, as/IN errors/NNS may/MD accumulate/VB along/IN the/DT way/NN ./.
+We/PRP address/VBP this/DT issue/NN by/IN proposing/VBG a/DT novel/JJ sequence/NN level/NN training/NN algorithm/NN that/WDT directly/RB optimizes/VBZ the/DT BLEU/NN score/NN :/: a/DT popular/JJ metric/JJ to/TO compare/VB a/DT sequence/NN to/IN a/DT reference/NN ./.
+On/IN three/CD different/JJ tasks/NNS ,/, our/PRP$ approach/NN outperforms/VBZ several/JJ strong/JJ baselines/NNS for/IN greedy/JJ generation/NN ,/, and/CC it/PRP matches/VBZ their/PRP$ performance/NN with/IN beam/NN search/NN ,/, while/IN being/VBG several/JJ times/NNS faster/RBR ./.

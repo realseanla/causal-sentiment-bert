@@ -1,0 +1,5 @@
+This/DT paper/NN explains/VBZ the/DT DYCOS/NN -/HYPH Algorithm/NN as/IN it/PRP was/VBD introduced/VBN in/IN by/IN Aggarwal/NNP and/CC Li/NNP in/IN 2011/CD ./.
+It/PRP operates/VBZ on/IN graphs/NNS whichs/NNS nodes/NNS are/VBP partially/RB labeled/VBN and/CC automatically/RB adds/VBZ missing/VBG labels/NNS to/IN nodes/NNS ./.
+To/TO do/VB so/RB ,/, the/DT DYCOS/NNP algorithm/NN makes/VBZ use/NN of/IN the/DT structure/NN of/IN the/DT graph/NN as/RB well/RB as/IN content/NN which/WDT is/VBZ assigned/VBN to/IN the/DT node/NN ./.
+Aggarwal/NNP and/CC Li/NNP measured/VBD in/IN an/DT experimental/JJ analysis/NN that/WDT DYCOS/NNP adds/VBZ the/DT missing/VBG labels/NNS to/IN a/DT Graph/NN with/IN 19396/CD nodes/NNS of/IN which/WDT 14814/CD are/VBP labeled/VBN and/CC another/DT Graph/NN with/IN 806635/CD nodes/NNS of/IN which/WDT 18999/CD are/VBP labeld/VBN on/IN one/CD core/NN of/IN an/DT Intel/NNP Xeon/NNP 2.5/CD GHz/NN CPU/NN with/IN 32/CD G/NN RAM/NN within/IN less/JJR than/IN a/DT minute/NN ./.
+Additionally/RB ,/, extensions/NNS of/IN the/DT DYCOS/NNP algorithm/NN are/VBP proposed/VBN ./.

@@ -1,0 +1,9 @@
+Microarrays/NNS are/VBP made/VBN it/PRP possible/JJ to/TO simultaneously/RB monitor/VB the/DT expression/NN profiles/NNS of/IN thousands/NNS of/IN genes/NNS under/IN various/JJ experimental/JJ conditions/NNS ./.
+Identification/NN of/IN co-expressed/VBN genes/NNS and/CC coherent/JJ patterns/NNS is/VBZ the/DT central/JJ goal/NN in/IN microarray/NN or/CC gene/NN expression/NN data/NNS analysis/NN and/CC is/VBZ an/DT important/JJ task/NN in/IN bioinformatics/NN research/NN ./.
+Feature/NN selection/NN is/VBZ a/DT process/NN to/TO select/VB features/NNS which/WDT are/VBP more/RBR informative/JJ ./.
+It/PRP is/VBZ one/CD of/IN the/DT important/JJ steps/NNS in/IN knowledge/NN discovery/NN ./.
+The/DT problem/NN is/VBZ that/IN not/RB all/DT features/NNS are/VBP important/JJ ./.
+Some/DT of/IN the/DT features/NNS may/MD be/VB redundant/JJ ,/, and/CC others/NNS may/MD be/VB irrelevant/JJ and/CC noisy/JJ ./.
+In/IN this/DT work/VB the/DT unsupervised/JJ Gene/NN selection/NN method/NN and/CC Enhanced/VBN Center/NNP Initialization/NNP Algorithm/NNP (/-LRB- ECIA/NNP )/-RRB- with/IN K/NNP -/HYPH Means/NNP algorithms/NNS have/VBP been/VBN applied/VBN for/IN clustering/NN of/IN Gene/NN Expression/NN Data/NNS ./.
+This/DT proposed/VBN clustering/NN algorithm/NN overcomes/VBZ the/DT drawbacks/NNS in/IN terms/NNS of/IN specifying/VBG the/DT optimal/JJ number/NN of/IN clusters/NNS and/CC initialization/NN of/IN good/JJ cluster/NN centroids/NNS ./.
+Gene/NN Expression/NN Data/NNS show/VBP that/DT could/MD identify/VB compact/JJ clusters/NNS with/IN performs/VBZ well/RB in/IN terms/NNS of/IN the/DT Silhouette/NN Coefficients/NNS cluster/VBP measure/NN ./.

@@ -1,0 +1,12 @@
+The/DT current/JJ mainstream/NN approach/NN to/IN train/NN natural/JJ language/NN systems/NNS is/VBZ to/TO expose/VB them/PRP to/IN large/JJ amounts/NNS of/IN text/NN ./.
+This/DT passive/JJ learning/NN is/VBZ problematic/JJ if/IN we/PRP are/VBP interested/JJ in/IN developing/VBG interactive/JJ machines/NNS ,/, such/JJ as/IN conversational/JJ agents/NNS ./.
+We/PRP propose/VBP a/DT framework/NN for/IN language/NN learning/NN that/WDT relies/VBZ on/IN multi-agent/JJ communication/NN ./.
+We/PRP study/VBP this/DT learning/NN in/IN the/DT context/NN of/IN referential/JJ games/NNS ./.
+In/IN these/DT games/NNS ,/, a/DT sender/NN and/CC a/DT receiver/NN see/VB a/DT pair/NN of/IN images/NNS ./.
+The/DT sender/NN is/VBZ told/VBN one/CD of/IN them/PRP is/VBZ the/DT target/NN and/CC is/VBZ allowed/VBN to/TO send/VB a/DT message/NN from/IN a/DT fixed/VBN ,/, arbitrary/JJ vocabulary/NN to/IN the/DT receiver/NN ./.
+The/DT receiver/NN must/MD rely/VB on/IN this/DT message/NN to/TO identify/VB the/DT target/NN ./.
+Thus/RB ,/, the/DT agents/NNS develop/VBP their/PRP$ own/JJ language/NN interactively/RB out/IN of/IN the/DT need/NN to/TO communicate/VB ./.
+We/PRP show/VBP that/IN two/CD networks/NNS with/IN simple/JJ configurations/NNS are/VBP able/JJ to/TO learn/VB to/TO coordinate/VB in/IN the/DT referential/JJ game/NN ./.
+We/PRP further/RB explore/VB how/WRB to/TO make/VB changes/NNS to/IN the/DT game/NN environment/NN to/TO cause/VB the/DT "/`` word/NN meanings/NNS "/'' induced/VBN in/IN the/DT game/NN to/TO better/RB reflect/VB intuitive/JJ semantic/JJ properties/NNS of/IN the/DT images/NNS ./.
+In/IN addition/NN ,/, we/PRP present/VBP a/DT simple/JJ strategy/NN for/IN grounding/VBG the/DT agents/NNS '/POS code/NN into/IN natural/JJ language/NN ./.
+Both/DT of/IN these/DT are/VBP necessary/JJ steps/NNS towards/IN developing/VBG machines/NNS that/WDT are/VBP able/JJ to/TO communicate/VB with/IN humans/NNS productively/RB ./.

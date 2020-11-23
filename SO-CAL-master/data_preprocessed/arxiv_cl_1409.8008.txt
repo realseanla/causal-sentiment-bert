@@ -1,0 +1,8 @@
+This/DT paper/NN describes/VBZ performance/NN of/IN CRF/NNP based/VBN systems/NNS for/IN Named/VBN Entity/NN Recognition/NN (/-LRB- NER/NN )/-RRB- in/IN Indian/JJ language/NN as/IN a/DT part/NN of/IN ICON/NN 2013/CD shared/VBD task/NN ./.
+In/IN this/DT task/NN we/PRP have/VBP considered/VBN a/DT set/NN of/IN language/NN independent/JJ features/NNS for/IN all/PDT the/DT languages/NNS ./.
+Only/RB for/IN English/NNP a/DT language/NN specific/JJ feature/NN ,/, i.e./FW capitalization/NN ,/, has/VBZ been/VBN added/VBN ./.
+Next/RB the/DT use/NN of/IN gazetteer/NN is/VBZ explored/VBN for/IN Bengali/NNP ,/, Hindi/NNP and/CC English/NNP ./.
+The/DT gazetteers/NNS are/VBP built/VBN from/IN Wikipedia/NNP and/CC other/JJ sources/NNS ./.
+Test/NN results/NNS show/VBP that/IN the/DT system/NN achieves/VBZ the/DT highest/JJS F/NN measure/NN of/IN 88/CD percent/NN for/IN English/NNP and/CC the/DT lowest/JJS F/NN measure/NN of/IN 69/CD percent/NN for/IN both/DT Tamil/NNP and/CC Telugu/NNP ./.
+Note/VB that/IN for/IN the/DT least/JJS performing/VBG two/CD languages/NNS no/DT gazetteer/NN was/VBD used/VBN ./.
+NER/NN in/IN Bengali/NNP and/CC Hindi/NNP finds/VBZ accuracy/NN (/-LRB- F/NN measure/NN )/-RRB- of/IN 87/CD percent/NN and/CC 79/CD percent/NN ,/, respectively/RB ./.

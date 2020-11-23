@@ -1,0 +1,8 @@
+The concept of "task" is at the core of artificial intelligence (AI) --- the raison d'\^etre of AI systems.
+Tasks are used in system evaluation, pedagogy and decision making (through task decomposition and subtask selection).
+Other fields have strong theories of tasks in their domain that allows them to thoroughly evaluate their designs by methodical manipulation of well understood parameters of known importance; this allows an aeronautics engineer, for instance, to systematically assess the effects of wind speed on an airplane's stability.
+No framework exists that allows the kind of methodical manipulation found in other disciplines: Results on the few tasks in current use (c.f.
+board games, question-answering) cannot be easily compared, however similar or different.
+A task theory would address this by providing the appropriate formalization and classification of tasks, environments, and their parameters, enabling more rigorous ways of measuring, comparing, and evaluating intelligent behavior.
+Furthermore, analysis and (de)construction of tasks can help teachers devise appropriate challenges for learning systems, and help AI systems make more informed decisions about what (sub)tasks to pursue.
+Here we discuss the main elements of this argument and propose what such a theory might look like for physical tasks.

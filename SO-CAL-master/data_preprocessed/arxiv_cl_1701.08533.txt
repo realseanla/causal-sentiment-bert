@@ -1,0 +1,4 @@
+We/PRP experiment/VBP graph/NN -/HYPH based/VBN Semi-Supervised/NNP Learning/NNP (/-LRB- SSL/NN )/-RRB- of/IN Conditional/JJ Random/NNP Fields/NNPS (/-LRB- CRF/NNP )/-RRB- for/IN the/DT application/NN of/IN Spoken/NNP Language/NNP Understanding/VBG (/-LRB- SLU/NNP )/-RRB- on/IN unaligned/JJ data/NNS ./.
+The/DT aligned/VBN labels/NNS for/IN examples/NNS are/VBP obtained/VBN using/VBG IBM/NNP Model/NNP ./.
+We/PRP adapt/VBP a/DT baseline/NN semi-supervised/VBN CRF/NNP by/IN defining/VBG new/JJ feature/NN set/NN and/CC altering/VBG the/DT label/NN propagation/NN algorithm/NN ./.
+Our/PRP$ results/NNS demonstrate/VBP that/IN our/PRP$ proposed/VBN approach/NN significantly/RB improves/VBZ the/DT performance/NN of/IN the/DT supervised/JJ model/NN by/IN utilizing/VBG the/DT knowledge/NN gained/VBD from/IN the/DT graph/NN ./.

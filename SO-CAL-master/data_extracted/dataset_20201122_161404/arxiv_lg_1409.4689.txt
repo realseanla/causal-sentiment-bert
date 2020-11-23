@@ -1,0 +1,5 @@
+Sparse Filtering is a popular feature learning algorithm for image classification pipelines.
+In this paper, we connect the performance of Sparse Filtering in image classification pipelines to spectral properties of the corresponding feature matrices.
+This connection provides new insights into Sparse Filtering; in particular, it suggests stopping Sparse Filtering early.
+We therefore introduce the Optimal Roundness Criterion (ORC), a novel stopping criterion for Sparse Filtering.
+We show that this stopping criterion is related with pre-processing procedures such as Statistical Whitening and that it can make image classification with Sparse Filtering considerably faster and more accurate.

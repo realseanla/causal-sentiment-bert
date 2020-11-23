@@ -1,0 +1,7 @@
+Multiple/JJ instance/NN learning/NN (/-LRB- MIL/NN )/-RRB- can/MD reduce/VB the/DT need/NN for/IN costly/JJ annotation/NN in/IN tasks/NNS such/JJ as/IN semantic/JJ segmentation/NN by/IN weakening/VBG the/DT required/VBN degree/NN of/IN supervision/NN ./.
+We/PRP propose/VBP a/DT novel/JJ MIL/NN formulation/NN of/IN multi-class/JJ semantic/JJ segmentation/NN learning/NN by/IN a/DT fully/RB convolutional/JJ network/NN ./.
+In/IN this/DT setting/NN ,/, we/PRP seek/VBP to/TO learn/VB a/DT semantic/JJ segmentation/NN model/NN from/IN just/RB weak/JJ image/NN -/HYPH level/NN labels/NNS ./.
+The/DT model/NN is/VBZ trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN to/TO jointly/RB optimize/VB the/DT representation/NN while/IN disambiguating/VBG the/DT pixel/NN -/HYPH image/NN label/NN assignment/NN ./.
+Fully/RB convolutional/JJ training/NN accepts/VBZ inputs/NNS of/IN any/DT size/NN ,/, eliminating/VBG the/DT need/NN for/IN object/NN proposals/NNS based/VBN pre-processing/VBG ,/, and/CC offers/VBZ a/DT pixelwise/NN loss/NN map/NN for/IN selecting/VBG latent/NN instances/NNS ./.
+Our/PRP$ multi-class/JJ MIL/NN loss/NN exploits/VBZ the/DT further/JJ supervision/NN given/VBN by/IN images/NNS with/IN multiple/JJ labels/NNS ./.
+We/PRP evaluate/VBP this/DT approach/NN through/IN preliminary/JJ experiments/NNS on/IN the/DT PASCAL/NNP VOC/NNP 2011/CD segmentation/NN data/NNS ./.

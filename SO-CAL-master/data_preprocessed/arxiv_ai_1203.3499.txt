@@ -1,0 +1,4 @@
+The/DT paper/NN introduces/VBZ k/CD -/HYPH bounded/VBN MAP/NN inference/NN ,/, a/DT parameterization/NN of/IN MAP/NN inference/NN in/IN Markov/NNP logic/NN networks/NNS ./.
+k/CD -/HYPH Bounded/VBN MAP/NN states/NNS are/VBP MAP/NN states/NNS with/IN at/IN most/RBS k/CD active/JJ ground/NN atoms/NNS of/IN hidden/JJ (/-LRB- non-evidence/NN )/-RRB- predicates/NNS ./.
+We/PRP present/VBP a/DT novel/JJ delayed/VBN column/NN generation/NN algorithm/NN and/CC provide/VB empirical/JJ evidence/NN that/IN the/DT algorithm/NN efficiently/RB computes/VBZ k/CD -/HYPH bounded/VBN MAP/NN states/NNS for/IN meaningful/JJ real/JJ -/HYPH world/NN graph/NN matching/NN problems/NNS ./.
+The/DT underlying/JJ idea/NN is/VBZ that/IN ,/, instead/RB of/IN solving/VBG one/CD large/JJ optimization/NN problem/NN ,/, it/PRP is/VBZ often/RB more/RBR efficient/JJ to/TO tackle/VB several/JJ small/JJ ones/NNS ./.

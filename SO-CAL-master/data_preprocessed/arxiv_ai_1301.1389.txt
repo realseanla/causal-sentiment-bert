@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN we/PRP present/VBP an/DT Action/NNP Language/NNP -/: Answer/VB Set/VBN Programming/NN based/VBN approach/NN to/IN solving/VBG planning/NN and/CC scheduling/NN problems/NNS in/IN hybrid/NN domains/NNS -/, domains/NNS that/WDT exhibit/VBP both/DT discrete/JJ and/CC continuous/JJ behavior/NN ./.
+We/PRP use/VBP action/NN language/NN H/NN to/TO represent/VB the/DT domain/NN and/CC then/RB translate/VB the/DT resulting/VBG theory/NN into/IN an/DT A-Prolog/NN program/NN ./.
+In/IN this/DT way/NN ,/, we/PRP reduce/VBP the/DT problem/NN of/IN finding/VBG solutions/NNS to/IN planning/NN and/CC scheduling/NN problems/NNS to/IN computing/VBG answer/NN sets/NNS of/IN A-Prolog/NN programs/NNS ./.
+We/PRP cite/VBP a/DT planning/NN and/CC scheduling/NN example/NN from/IN the/DT literature/NN and/CC show/VB how/WRB to/TO model/VB it/PRP in/IN H/NN ./.
+We/PRP show/VBP how/WRB to/TO translate/VB the/DT resulting/VBG H/NN theory/NN into/IN an/DT equivalent/JJ A-Prolog/NN program/NN ./.
+We/PRP compute/VBP the/DT answer/NN sets/NNS of/IN the/DT resulting/VBG program/NN using/VBG a/DT hybrid/NN solver/NN called/VBN EZCSP/NNP which/WDT loosely/RB integrates/VBZ a/DT constraint/NN solver/NN with/IN an/DT answer/NN set/VBN solver/NN ./.
+The/DT solver/NN allows/VBZ us/PRP reason/NN about/IN constraints/NNS over/IN reals/NNS and/CC compute/VB solutions/NNS to/IN complex/JJ planning/NN and/CC scheduling/NN problems/NNS ./.
+Results/NNS have/VBP shown/VBN that/IN our/PRP$ approach/NN can/MD be/VB applied/VBN to/IN any/DT planning/NN and/CC scheduling/NN problem/NN in/IN hybrid/NN domains/NNS ./.

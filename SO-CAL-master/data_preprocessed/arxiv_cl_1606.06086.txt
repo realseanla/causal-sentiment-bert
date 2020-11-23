@@ -1,0 +1,6 @@
+Word/NN embedding/NN ,/, specially/RB with/IN its/PRP$ recent/JJ developments/NNS ,/, promises/VBZ a/DT quantification/NN of/IN the/DT similarity/NN between/IN terms/NNS ./.
+However/RB ,/, it/PRP is/VBZ not/RB clear/JJ to/IN which/WDT extent/NN this/DT similarity/NN value/NN can/MD be/VB genuinely/RB meaningful/JJ and/CC useful/JJ for/IN subsequent/JJ tasks/NNS ./.
+We/PRP explore/VBP how/WRB the/DT similarity/NN score/NN obtained/VBN from/IN the/DT models/NNS is/VBZ really/RB indicative/JJ of/IN term/NN relatedness/NN ./.
+We/PRP first/RB observe/VBP and/CC quantify/VBP the/DT uncertainty/NN factor/NN of/IN the/DT word/NN embedding/NN models/NNS regarding/VBG to/IN the/DT similarity/NN value/NN ./.
+Based/VBN on/IN this/DT factor/NN ,/, we/PRP introduce/VBP a/DT general/JJ threshold/NN on/IN various/JJ dimensions/NNS which/WDT effectively/RB filters/VBZ the/DT highly/RB related/JJ terms/NNS ./.
+Our/PRP$ evaluation/NN on/IN four/CD information/NN retrieval/NN collections/NNS supports/VBZ the/DT effectiveness/NN of/IN our/PRP$ approach/NN as/IN the/DT results/NNS of/IN the/DT introduced/VBN threshold/NN are/VBP significantly/RB better/JJR than/IN the/DT baseline/NN while/IN being/VBG equal/JJ to/IN or/CC statistically/RB indistinguishable/JJ from/IN the/DT optimal/JJ results/NNS ./.

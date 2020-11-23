@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT system/NN for/IN recognising/VBG human/JJ activity/NN given/VBN a/DT symbolic/JJ representation/NN of/IN video/NN content/NN ./.
+The/DT input/NN of/IN our/PRP$ system/NN is/VBZ a/DT set/NN of/IN time/NN -/HYPH stamped/VBN short/JJ -/HYPH term/NN activities/NNS (/-LRB- STA/NN )/-RRB- detected/VBN on/IN video/NN frames/NNS ./.
+The/DT output/NN is/VBZ a/DT set/NN of/IN recognised/VBN long/RB -/HYPH term/NN activities/NNS (/-LRB- LTA/NN )/-RRB- ,/, which/WDT are/VBP pre-defined/JJ temporal/JJ combinations/NNS of/IN STA/NNP ./.
+The/DT constraints/NNS on/IN the/DT STA/NN that/WDT ,/, if/IN satisfied/JJ ,/, lead/VB to/IN the/DT recognition/NN of/IN a/DT LTA/NNP ,/, have/VBP been/VBN expressed/VBN using/VBG a/DT dialect/NN of/IN the/DT Event/NNP Calculus/NNP ./.
+In/IN order/NN to/TO handle/VB the/DT uncertainty/NN that/WDT naturally/RB occurs/VBZ in/IN human/JJ activity/NN recognition/NN ,/, we/PRP adapted/VBD this/DT dialect/NN to/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN probabilistic/JJ logic/NN programming/NN framework/NN ./.
+We/PRP present/VBP a/DT detailed/JJ evaluation/NN and/CC comparison/NN of/IN the/DT crisp/JJ and/CC probabilistic/JJ approaches/NNS through/IN experimentation/NN on/IN a/DT benchmark/NN dataset/NN of/IN human/JJ surveillance/NN videos/NNS ./.

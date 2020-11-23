@@ -1,0 +1,7 @@
+The/DT Dendritic/JJ Cell/NN Algorithm/NN is/VBZ an/DT immune/JJ -/HYPH inspired/JJ algorithm/NN orig/NN -/HYPH inally/RB based/VBN on/IN the/DT function/NN of/IN natural/JJ dendritic/JJ cells/NNS ./.
+The/DT original/JJ instantiation/NN of/IN the/DT algorithm/NN is/VBZ a/DT highly/RB stochastic/JJ algorithm/NN ./.
+While/IN the/DT performance/NN of/IN the/DT algorithm/NN is/VBZ good/JJ when/WRB applied/VBN to/IN large/JJ real/JJ -/HYPH time/NN datasets/NNS ,/, it/PRP is/VBZ difficult/JJ to/TO anal/JJ -/HYPH yse/NN due/IN to/IN the/DT number/NN of/IN random/JJ -/HYPH based/JJ elements/NNS ./.
+In/IN this/DT paper/NN a/DT deterministic/JJ version/NN of/IN the/DT algorithm/NN is/VBZ proposed/VBN ,/, implemented/VBN and/CC tested/VBN using/VBG a/DT port/NN scan/NN dataset/NN to/TO provide/VB a/DT controllable/JJ system/NN ./.
+This/DT version/NN consists/VBZ of/IN a/DT controllable/JJ amount/NN of/IN parameters/NNS ,/, which/WDT are/VBP experimented/VBN with/IN in/IN this/DT paper/NN ./.
+In/IN addition/NN the/DT effects/NNS are/VBP examined/VBN of/IN the/DT use/NN of/IN time/NN windows/NNS and/CC variation/NN on/IN the/DT number/NN of/IN cells/NNS ,/, both/DT which/WDT are/VBP shown/VBN to/TO influence/VB the/DT algorithm/NN ./.
+Finally/RB a/DT novel/JJ metric/JJ for/IN the/DT assessment/NN of/IN the/DT algorithms/NNS output/NN is/VBZ introduced/VBN and/CC proves/VBZ to/TO be/VB a/DT more/RBR sensitive/JJ metric/JJ than/IN the/DT metric/JJ used/VBN with/IN the/DT original/JJ Dendritic/JJ Cell/NN Algorithm/NN ./.

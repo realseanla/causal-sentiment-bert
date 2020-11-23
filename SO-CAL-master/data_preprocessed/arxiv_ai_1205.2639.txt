@@ -1,0 +1,9 @@
+Efficiently/RB finding/VBG the/DT maximum/NN a/DT posteriori/NN (/-LRB- MAP/NN )/-RRB- configuration/NN of/IN a/DT graphical/JJ model/NN is/VBZ an/DT important/JJ problem/NN which/WDT is/VBZ often/RB implemented/VBN using/VBG message/NN passing/VBG algorithms/NNS ./.
+The/DT optimality/NN of/IN such/JJ algorithms/NNS is/VBZ only/RB well/RB established/VBN for/IN singly/RB -/HYPH connected/VBN graphs/NNS and/CC other/JJ limited/JJ settings/NNS ./.
+This/DT article/NN extends/VBZ the/DT set/NN of/IN graphs/NNS where/WRB MAP/NN estimation/NN is/VBZ in/IN P/NN and/CC where/WRB message/NN passing/VBG recovers/VBZ the/DT exact/JJ solution/NN to/TO so/RB -/HYPH called/VBN perfect/JJ graphs/NNS ./.
+This/DT result/NN leverages/VBZ recent/JJ progress/NN in/IN defining/VBG perfect/JJ graphs/NNS (/-LRB- the/DT strong/JJ perfect/JJ graph/NN theorem/NN )/-RRB- ,/, linear/JJ programming/NN relaxations/NNS of/IN MAP/NN estimation/NN and/CC recent/JJ convergent/JJ message/NN passing/VBG schemes/NNS ./.
+The/DT article/NN converts/VBZ graphical/JJ models/NNS into/IN nand/NN Markov/NNP random/JJ fields/NNS which/WDT are/VBP straightforward/JJ to/TO relax/VB into/IN linear/JJ programs/NNS ./.
+Therein/RB ,/, integrality/NN can/MD be/VB established/VBN in/IN general/JJ by/IN testing/VBG for/IN graph/NN perfection/NN ./.
+This/DT perfection/NN test/NN is/VBZ performed/VBN efficiently/RB using/VBG a/DT polynomial/JJ time/NN algorithm/NN ./.
+Alternatively/RB ,/, known/VBN decomposition/NN tools/NNS from/IN perfect/JJ graph/NN theory/NN may/MD be/VB used/VBN to/TO prove/VB perfection/NN for/IN certain/JJ families/NNS of/IN graphs/NNS ./.
+Thus/RB ,/, a/DT general/JJ graph/NN framework/NN is/VBZ provided/VBN for/IN determining/VBG when/WRB MAP/NN estimation/NN in/IN any/DT graphical/JJ model/NN is/VBZ in/IN P/NN ,/, has/VBZ an/DT integral/JJ linear/JJ programming/NN relaxation/NN and/CC is/VBZ exactly/RB recoverable/JJ by/IN message/NN passing/NN ./.

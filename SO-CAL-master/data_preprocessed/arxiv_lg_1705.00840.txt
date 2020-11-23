@@ -1,0 +1,5 @@
+Incomplete/JJ data/NNS are/VBP often/RB represented/VBN as/IN vectors/NNS with/IN filled/VBN missing/JJ attributes/NNS joined/VBD with/IN flag/NN vectors/NNS indicating/VBG missing/JJ components/NNS ./.
+In/IN this/DT paper/NN we/PRP generalize/VBP this/DT approach/NN and/CC represent/VBP incomplete/JJ data/NNS as/IN pointed/JJ affine/JJ subspaces/NNS ./.
+This/DT allows/VBZ to/TO perform/VB various/JJ affine/JJ transformations/NNS of/IN data/NNS ,/, as/IN whitening/VBG or/CC dimensionality/NN reduction/NN ./.
+We/PRP embed/VBP such/JJ generalized/VBN missing/VBG data/NNS into/IN a/DT vector/NN space/NN by/IN mapping/VBG pointed/JJ affine/JJ subspace/NN (/-LRB- generalized/VBN missing/VBG data/NNS point/NN )/-RRB- to/IN a/DT vector/NN containing/VBG imputed/JJ values/NNS joined/VBD with/IN a/DT corresponding/VBG projection/NN matrix/NN ./.
+Such/PDT an/DT operation/NN preserves/VBZ the/DT scalar/JJ product/NN of/IN the/DT embedding/NN defined/VBN for/IN flag/NN vectors/NNS and/CC allows/VBZ to/TO input/VB transformed/VBN incomplete/JJ data/NNS to/IN typical/JJ classification/NN methods/NNS ./.

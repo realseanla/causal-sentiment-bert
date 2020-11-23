@@ -1,0 +1,7 @@
+The/DT goal/NN of/IN imitation/NN learning/NN is/VBZ to/TO match/VB example/NN expert/NN behavior/NN ,/, without/IN access/NN to/IN a/DT reinforcement/NN signal/NN ./.
+Expert/NNP demonstrations/NNS provided/VBN by/IN humans/NNS ,/, however/RB ,/, often/RB show/VBP significant/JJ variability/NN due/IN to/IN latent/JJ factors/NNS that/WDT are/VBP not/RB explicitly/RB modeled/VBN ./.
+We/PRP introduce/VBP an/DT extension/NN to/IN the/DT Generative/NNP Adversarial/NNP Imitation/NNP Learning/NNP method/NN that/WDT can/MD infer/VB the/DT latent/JJ structure/NN of/IN human/JJ decision/NN -/HYPH making/VBG in/IN an/DT unsupervised/JJ way/NN ./.
+Our/PRP$ method/NN can/MD not/RB only/RB imitate/VBP complex/JJ behaviors/NNS ,/, but/CC also/RB learn/VBP interpretable/JJ and/CC meaningful/JJ representations/NNS ./.
+We/PRP demonstrate/VBP that/IN the/DT approach/NN is/VBZ applicable/JJ to/IN high/JJ -/HYPH dimensional/JJ environments/NNS including/VBG raw/JJ visual/JJ inputs/NNS ./.
+In/IN the/DT highway/NN driving/VBG domain/NN ,/, we/PRP show/VBP that/IN a/DT model/NN learned/VBN from/IN demonstrations/NNS is/VBZ able/JJ to/TO both/DT produce/VBP different/JJ styles/NNS of/IN human/JJ -/HYPH like/JJ driving/NN behaviors/NNS and/CC accurately/RB anticipate/VBP human/JJ actions/NNS ./.
+Our/PRP$ method/NN surpasses/VBZ various/JJ baselines/NNS in/IN terms/NNS of/IN performance/NN and/CC functionality/NN ./.

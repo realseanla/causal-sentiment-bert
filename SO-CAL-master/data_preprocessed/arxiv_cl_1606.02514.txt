@@ -1,0 +1,7 @@
+We/PRP present/VBP DefExt/NNP ,/, an/DT easy/JJ to/TO use/VB semi/NN supervised/JJ Definition/NN Extraction/NN Tool/NNP ./.
+DefExt/NNP is/VBZ designed/VBN to/TO extract/VB from/IN a/DT target/NN corpus/NN those/DT textual/JJ fragments/NNS where/WRB a/DT term/NN is/VBZ explicitly/RB mentioned/VBN together/RB with/IN its/PRP$ core/NN features/NNS ,/, i.e./FW its/PRP$ definition/NN ./.
+It/PRP works/VBZ on/IN the/DT back/NN of/IN a/DT Conditional/JJ Random/NNP Fields/NNPS based/VBN sequential/JJ labeling/NN algorithm/NN and/CC a/DT bootstrapping/NN approach/NN ./.
+Bootstrapping/NNP enables/VBZ the/DT model/NN to/TO gradually/RB become/VB more/RBR aware/JJ of/IN the/DT idiosyncrasies/NNS of/IN the/DT target/NN corpus/NN ./.
+In/IN this/DT paper/NN we/PRP describe/VBP the/DT main/JJ components/NNS of/IN the/DT toolkit/NN as/RB well/RB as/IN experimental/JJ results/NNS stemming/VBG from/IN both/DT automatic/JJ and/CC manual/JJ evaluation/NN ./.
+We/PRP release/VBP DefExt/NNP as/IN open/JJ source/NN along/IN with/IN the/DT necessary/JJ files/NNS to/TO run/VB it/PRP in/IN any/DT Unix/NNP machine/NN ./.
+We/PRP also/RB provide/VBP access/NN to/IN training/NN and/CC test/NN data/NNS for/IN immediate/JJ use/NN ./.

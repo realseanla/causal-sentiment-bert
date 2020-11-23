@@ -1,0 +1,7 @@
+To/TO improve/VB user/NN satisfaction/NN ,/, mobile/JJ app/NN developers/NNS are/VBP interested/JJ in/IN relevant/JJ user/NN opinions/NNS such/JJ as/IN complaints/NNS or/CC suggestions/NNS ./.
+An/DT important/JJ source/NN for/IN such/JJ opinions/NNS is/VBZ user/NN reviews/NNS on/IN online/JJ app/NN markets/NNS ./.
+However/RB ,/, manual/JJ review/NN analysis/NN for/IN useful/JJ opinions/NNS is/VBZ often/RB challenging/JJ due/IN to/IN the/DT large/JJ amount/NN and/CC the/DT noisy/JJ -/HYPH nature/NN of/IN user/NN reviews/NNS ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP propose/VBP M.A.R.K/NNP ,/, a/DT keyword/NN -/HYPH based/VBN framework/NN for/IN semiautomated/JJ review/NN analysis/NN ./.
+The/DT key/JJ task/NN of/IN M.A.R.K/NNP is/VBZ to/TO analyze/VB reviews/NNS for/IN keywords/NNS of/IN potential/JJ interest/NN which/WDT developers/NNS can/MD use/VB to/TO search/VB for/IN useful/JJ opinions/NNS ./.
+We/PRP have/VBP developed/VBN several/JJ techniques/NNS for/IN that/DT task/NN including/VBG :/: 1/LS )/-RRB- keyword/NN extracting/VBG with/IN customized/VBN regularization/NN algorithms/NNS ;/: 2/LS )/-RRB- keyword/NN grouping/NN with/IN distributed/VBN representation/NN ;/: and/CC 3/LS )/-RRB- keyword/NN ranking/VBG with/IN ratings/NNS and/CC frequencies/NNS analysis/NN ./.
+Our/PRP$ empirical/JJ evaluation/NN and/CC case/NN studies/NNS show/VBP that/IN M.A.R.K/NNP can/MD identify/VB keywords/NNS of/IN high/JJ interest/NN and/CC provide/VB developers/NNS with/IN useful/JJ user/NN opinions/NNS ./.

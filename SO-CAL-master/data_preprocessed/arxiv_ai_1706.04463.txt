@@ -1,0 +1,9 @@
+Mapping/VBG in/IN the/DT GPS/NN -/HYPH denied/VBN environment/NN is/VBZ an/DT important/JJ and/CC challenging/JJ task/NN in/IN the/DT field/NN of/IN robotics/NNS ./.
+In/IN the/DT large/JJ environment/NN ,/, mapping/NN can/MD be/VB significantly/RB accelerated/VBN by/IN multiple/JJ robots/NNS exploring/VBG different/JJ parts/NNS of/IN the/DT environment/NN ./.
+Accordingly/RB ,/, a/DT key/JJ problem/NN is/VBZ how/WRB to/TO integrate/VB these/DT local/JJ maps/NNS built/VBN by/IN different/JJ robots/NNS into/IN a/DT single/JJ global/JJ map/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT approach/NN for/IN simultaneous/JJ merging/NN of/IN multiple/JJ grid/NN maps/NNS by/IN the/DT robust/JJ motion/NN averaging/NN ./.
+The/DT main/JJ idea/NN of/IN this/DT approach/NN is/VBZ to/TO recover/VB all/DT global/JJ motions/NNS for/IN map/NN merging/VBG from/IN a/DT set/NN of/IN relative/JJ motions/NNS ./.
+Therefore/RB ,/, it/PRP firstly/RB adopts/VBZ the/DT pair-wise/JJ map/NN merging/VBG method/NN to/TO estimate/VB relative/JJ motions/NNS for/IN grid/NN map/NN pairs/NNS ./.
+To/TO obtain/VB as/IN many/JJ reliable/JJ relative/JJ motions/NNS as/IN possible/JJ ,/, a/DT graph/NN -/HYPH based/VBN sampling/NN scheme/NN is/VBZ utilized/VBN to/TO efficiently/RB remove/VB unreliable/JJ relative/JJ motions/NNS obtained/VBN from/IN the/DT pair-wise/JJ map/NN merging/VBG ./.
+Subsequently/RB ,/, the/DT accurate/JJ global/JJ motions/NNS can/MD be/VB recovered/VBN from/IN the/DT set/NN of/IN reliable/JJ relative/JJ motions/NNS by/IN the/DT motion/NN averaging/NN ./.
+Experimental/JJ results/NNS carried/VBN on/IN real/JJ robot/NN data/NN sets/NNS demonstrate/VBP that/IN proposed/VBN approach/NN can/MD achieve/VB simultaneous/JJ merging/NN of/IN multiple/JJ grid/NN maps/VBZ with/IN good/JJ performances/NNS ./.

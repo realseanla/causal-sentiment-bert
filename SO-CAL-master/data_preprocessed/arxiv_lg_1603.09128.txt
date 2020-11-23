@@ -1,0 +1,4 @@
+We/PRP present/VBP an/DT approach/NN to/IN learning/VBG multi-sense/JJ word/NN embeddings/NNS relying/VBG both/CC on/IN monolingual/JJ and/CC bilingual/JJ information/NN ./.
+Our/PRP$ model/NN consists/VBZ of/IN an/DT encoder/NN ,/, which/WDT uses/VBZ monolingual/JJ and/CC bilingual/JJ context/NN (/-LRB- i.e./FW a/DT parallel/JJ sentence/NN )/-RRB- to/TO choose/VB a/DT sense/NN for/IN a/DT given/VBN word/NN ,/, and/CC a/DT decoder/NN which/WDT predicts/VBZ context/NN words/NNS based/VBN on/IN the/DT chosen/VBN sense/NN ./.
+The/DT two/CD components/NNS are/VBP estimated/VBN jointly/RB ./.
+We/PRP observe/VBP that/IN the/DT word/NN representations/NNS induced/VBN from/IN bilingual/JJ data/NNS outperform/VBP the/DT monolingual/JJ counterparts/NNS across/IN a/DT range/NN of/IN evaluation/NN tasks/NNS ,/, even/RB though/IN crosslingual/JJ information/NN is/VBZ not/RB available/JJ at/IN test/NN time/NN ./.

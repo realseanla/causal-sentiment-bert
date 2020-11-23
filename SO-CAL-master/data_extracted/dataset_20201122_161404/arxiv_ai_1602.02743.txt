@@ -1,0 +1,3 @@
+We introduce a problem set-up we call the Iterated Matching Pennies (IMP) game and show that it is a powerful framework for the study of three problems: adversarial learnability, conventional (i.e., non-adversarial) learnability and approximability.
+Using it, we are able to derive the following theorems.
+(1) It is possible to learn by example all of $\Sigma^0_1 \cup \Pi^0_1$ as well as some supersets; (2) in adversarial learning (which we describe as a pursuit-evasion game), the pursuer has a winning strategy (in other words, $\Sigma^0_1$ can be learned adversarially, but $\Pi^0_1$ not); (3) some languages in $\Pi^0_1$ cannot be approximated by any language in $\Sigma^0_1$.

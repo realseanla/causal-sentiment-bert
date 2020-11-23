@@ -1,0 +1,7 @@
+In/IN many/JJ real/JJ tasks/NNS the/DT features/NNS are/VBP evolving/VBG ,/, with/IN some/DT features/NNS being/VBG vanished/VBN and/CC some/DT other/JJ features/NNS augmented/VBN ./.
+For/IN example/NN ,/, in/IN environment/NN monitoring/VBG some/DT sensors/NNS expired/VBD whereas/IN some/DT new/JJ ones/NNS deployed/VBN ;/: in/IN mobile/JJ game/NN recommendation/NN some/DT games/NNS dropped/VBD whereas/IN some/DT new/JJ ones/NNS added/VBD ./.
+Learning/VBG with/IN such/JJ incremental/JJ and/CC decremental/JJ features/NNS is/VBZ crucial/JJ but/CC rarely/RB studied/VBN ,/, particularly/RB when/WRB the/DT data/NNS coming/VBG like/IN a/DT stream/NN and/CC thus/RB it/PRP is/VBZ infeasible/JJ to/TO keep/VB the/DT whole/JJ data/NNS for/IN optimization/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP this/DT challenging/JJ problem/NN and/CC present/VB the/DT OPID/NNP approach/NN ./.
+Our/PRP$ approach/NN attempts/VBZ to/TO compress/VB important/JJ information/NN of/IN vanished/VBN features/NNS into/IN functions/NNS of/IN survived/VBD features/NNS ,/, and/CC then/RB expand/VB to/TO include/VB the/DT augmented/VBN features/NNS ./.
+It/PRP is/VBZ the/DT one/CD -/HYPH pass/NN learning/NN approach/NN ,/, which/WDT only/RB needs/VBZ to/TO scan/VB each/DT instance/NN once/RB and/CC does/VBZ not/RB need/VB to/TO store/VB the/DT whole/JJ data/NNS ,/, and/CC thus/RB satisfy/VB the/DT evolving/VBG streaming/NN data/NNS nature/NN ./.
+The/DT effectiveness/NN of/IN our/PRP$ approach/NN is/VBZ validated/VBN theoretically/RB and/CC empirically/RB ./.

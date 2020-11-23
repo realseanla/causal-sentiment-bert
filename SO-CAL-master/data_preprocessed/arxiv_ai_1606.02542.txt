@@ -1,0 +1,5 @@
+In/IN this/DT document/NN ,/, we/PRP introduce/VBP a/DT new/JJ dataset/NN designed/VBN for/IN training/VBG machine/NN learning/NN models/NNS of/IN symbolic/JJ music/NN data/NNS ./.
+Five/CD datasets/NNS are/VBP provided/VBN ,/, one/CD of/IN which/WDT is/VBZ from/IN a/DT newly/RB collected/VBN corpus/NN of/IN 20K/NN midi/NN files/NNS ./.
+We/PRP describe/VBP our/PRP$ preprocessing/VBG and/CC cleaning/VBG pipeline/NN ,/, which/WDT includes/VBZ the/DT exclusion/NN of/IN a/DT number/NN of/IN files/NNS based/VBN on/IN scores/NNS from/IN a/DT previously/RB developed/VBN probabilistic/JJ machine/NN learning/NN model/NN ./.
+We/PRP also/RB define/VBP training/NN ,/, testing/NN and/CC validation/NN splits/VBZ for/IN the/DT new/JJ dataset/NN ,/, based/VBN on/IN a/DT clustering/NN scheme/NN which/WDT we/PRP also/RB describe/VBP ./.
+Some/DT simple/JJ histograms/NNS are/VBP included/VBN ./.

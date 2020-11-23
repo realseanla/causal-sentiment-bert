@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, an/DT improved/JJ multimodal/JJ optimization/NN (/-LRB- MMO/NN )/-RRB- algorithm/NN ,/, called/VBN LSEPSO/NNP ,/, has/VBZ been/VBN proposed/VBN ./.
+LSEPSO/NN combined/VBN Electrostatic/NNP Particle/NN Swarm/NNP Optimization/NN (/-LRB- EPSO/NN )/-RRB- algorithm/NN and/CC a/DT local/JJ search/NN method/NN and/CC then/RB made/VBD some/DT modification/NN on/IN them/PRP ./.
+It/PRP has/VBZ been/VBN shown/VBN to/TO improve/VB global/JJ and/CC local/JJ optima/NN finding/VBG ability/NN of/IN the/DT algorithm/NN ./.
+This/DT algorithm/NN useda/NN modified/VBN local/JJ search/NN to/TO improve/VB particle/NN 's/POS personal/JJ best/JJS ,/, which/WDT used/VBD n/NN -/HYPH nearest/JJS -/HYPH neighbour/NN instead/RB of/IN nearest/JJS -/HYPH neighbour/NN ./.
+Then/RB ,/, by/IN creating/VBG n/NN new/JJ points/NNS among/IN each/DT particle/NN and/CC n/NN nearest/JJS particles/NNS ,/, it/PRP tried/VBD to/TO find/VB a/DT point/NN which/WDT could/MD be/VB the/DT alternative/NN of/IN particle/NN 's/POS personal/JJ best/JJS ./.
+This/DT method/NN prevented/VBD particle/NN 's/POS attenuation/NN and/CC following/VBG a/DT specific/JJ particle/NN by/IN its/PRP$ neighbours/NNS ./.
+The/DT performed/VBN tests/NNS on/IN a/DT number/NN of/IN benchmark/NN functions/VBZ clearly/RB demonstrated/VBN that/IN the/DT improved/VBN algorithm/NN is/VBZ able/JJ to/TO solve/VB MMO/NN problems/NNS and/CC outperform/VBP other/JJ tested/VBN algorithms/NNS in/IN this/DT article/NN ./.

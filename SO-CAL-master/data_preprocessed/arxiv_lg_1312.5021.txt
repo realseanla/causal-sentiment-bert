@@ -1,0 +1,4 @@
+Bootstrapping/NNP is/VBZ a/DT useful/JJ technique/NN for/IN estimating/VBG the/DT uncertainty/NN of/IN a/DT predictor/NN ,/, for/IN example/NN ,/, confidence/NN intervals/NNS for/IN prediction/NN ./.
+It/PRP is/VBZ typically/RB used/VBN on/IN small/JJ to/IN moderate/JJ sized/JJ datasets/NNS ,/, due/IN to/IN its/PRP$ high/JJ computation/NN cost/NN ./.
+This/DT work/NN describes/VBZ a/DT highly/RB scalable/JJ online/JJ bootstrapping/NN strategy/NN ,/, implemented/VBN inside/IN Vowpal/NNP Wabbit/NNP ,/, that/DT is/VBZ several/JJ times/NNS faster/JJR than/IN traditional/JJ strategies/NNS ./.
+Our/PRP$ experiments/NNS indicate/VBP that/IN ,/, in/IN addition/NN to/IN providing/VBG a/DT black/JJ box/NN -/HYPH like/JJ method/NN for/IN estimating/VBG uncertainty/NN ,/, our/PRP$ implementation/NN of/IN online/JJ bootstrapping/NN may/MD also/RB help/VB to/TO train/VB models/NNS with/IN better/JJR prediction/NN performance/NN due/IN to/IN model/NN averaging/NN ./.

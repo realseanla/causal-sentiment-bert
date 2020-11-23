@@ -1,0 +1,9 @@
+The/DT syntactic/JJ topic/NN model/NN (/-LRB- STM/NN )/-RRB- is/VBZ a/DT Bayesian/JJ nonparametric/JJ model/NN of/IN language/NN that/WDT discovers/VBZ latent/JJ distributions/NNS of/IN words/NNS (/-LRB- topics/NNS )/-RRB- that/WDT are/VBP both/DT semantically/RB and/CC syntactically/RB coherent/JJ ./.
+The/DT STM/NN models/NNS dependency/NN parsed/VBD corpora/NNS where/WRB sentences/NNS are/VBP grouped/VBN into/IN documents/NNS ./.
+It/PRP assumes/VBZ that/IN each/DT word/NN is/VBZ drawn/VBN from/IN a/DT latent/NN topic/NN chosen/VBN by/IN combining/VBG document/NN -/HYPH level/NN features/NNS and/CC the/DT local/JJ syntactic/JJ context/NN ./.
+Each/DT document/NN has/VBZ a/DT distribution/NN over/IN latent/JJ topics/NNS ,/, as/IN in/IN topic/NN models/NNS ,/, which/WDT provides/VBZ the/DT semantic/JJ consistency/NN ./.
+Each/DT element/NN in/IN the/DT dependency/NN parse/VB tree/NN also/RB has/VBZ a/DT distribution/NN over/IN the/DT topics/NNS of/IN its/PRP$ children/NNS ,/, as/IN in/IN latent/NN -/HYPH state/NN syntax/NN models/NNS ,/, which/WDT provides/VBZ the/DT syntactic/JJ consistency/NN ./.
+These/DT distributions/NNS are/VBP convolved/VBN so/IN that/IN the/DT topic/NN of/IN each/DT word/NN is/VBZ likely/JJ under/IN both/CC its/PRP$ document/NN and/CC syntactic/JJ context/NN ./.
+We/PRP derive/VBP a/DT fast/JJ posterior/JJ inference/NN algorithm/NN based/VBN on/IN variational/JJ methods/NNS ./.
+We/PRP report/VBP qualitative/JJ and/CC quantitative/JJ studies/NNS on/IN both/DT synthetic/JJ data/NNS and/CC hand/NN -/HYPH parsed/VBN documents/NNS ./.
+We/PRP show/VBP that/IN the/DT STM/NNP is/VBZ a/DT more/RBR predictive/JJ model/NN of/IN language/NN than/IN current/JJ models/NNS based/VBN only/RB on/IN syntax/NN or/CC only/RB on/IN topics/NNS ./.

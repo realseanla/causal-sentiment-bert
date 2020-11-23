@@ -1,0 +1,3 @@
+Sketching has emerged as a powerful technique for speeding up problems in numerical linear algebra, such as regression.
+In the overconstrained regression problem, one is given an $n \times d$ matrix $A$, with $n \gg d$, as well as an $n \times 1$ vector $b$, and one wants to find a vector $\hat{x}$ so as to minimize the residual error $\|Ax-b\|_2$.
+Using the sketch and solve paradigm, one first computes $S \cdot A$ and $S \cdot b$ for a randomly chosen matrix $S$, then outputs $x' = (SA)^{\dagger} Sb$ so as to minimize $\|SAx' - Sb\|_2$.

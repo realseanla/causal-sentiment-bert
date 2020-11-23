@@ -1,0 +1,6 @@
+The Minimum Vertex Cover (MinVC) problem is a well-known NP-hard problem.
+Recently there has been great interest in solving this problem on real-world massive graphs.
+For such graphs, local search is a promising approach to finding optimal or near-optimal solutions.
+In this paper we propose a local search algorithm that exploits reduction rules and data structures to solve the MinVC problem in such graphs.
+Experimental results on a wide range of real-word massive graphs show that our algorithm finds better covers than state-of-the-art local search algorithms for MinVC.
+Also we present interesting results about the complexities of some well-known heuristics.

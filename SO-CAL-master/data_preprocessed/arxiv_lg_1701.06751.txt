@@ -1,0 +1,7 @@
+Collective/JJ classification/NN of/IN vertices/NNS is/VBZ a/DT task/NN of/IN assigning/VBG categories/NNS to/IN each/DT vertex/NN in/IN a/DT graph/NN based/VBN on/IN both/DT vertex/NN attributes/NNS and/CC link/NN structure/NN ./.
+Nevertheless/RB ,/, some/DT existing/VBG approaches/NNS do/VBP not/RB use/VB the/DT features/NNS of/IN neighbouring/VBG vertices/NNS properly/RB ,/, due/IN to/IN the/DT noise/NN introduced/VBN by/IN these/DT features/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT graph/NN -/HYPH based/VBN recursive/JJ neural/JJ network/NN framework/NN for/IN collective/JJ vertex/NN classification/NN ./.
+In/IN this/DT framework/NN ,/, we/PRP generate/VBP hidden/VBN representations/NNS from/IN both/DT attributes/NNS of/IN vertices/NNS and/CC representations/NNS of/IN neighbouring/VBG vertices/NNS via/IN recursive/JJ neural/JJ networks/NNS ./.
+Under/IN this/DT framework/NN ,/, we/PRP explore/VBP two/CD types/NNS of/IN recursive/JJ neural/JJ units/NNS ,/, naive/JJ recursive/JJ neural/JJ unit/NN and/CC long/JJ short/JJ -/HYPH term/NN memory/NN unit/NN ./.
+We/PRP have/VBP conducted/VBN experiments/NNS on/IN four/CD real/JJ -/HYPH world/NN network/NN datasets/NNS ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN our/PRP$ frame/NN -/HYPH work/NN with/IN long/JJ short/JJ -/HYPH term/NN memory/NN model/NN achieves/VBZ better/JJR results/NNS and/CC outperforms/VBZ several/JJ competitive/JJ baseline/NN methods/NNS ./.

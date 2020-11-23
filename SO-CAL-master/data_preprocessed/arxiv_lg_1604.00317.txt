@@ -1,0 +1,5 @@
+In/IN this/DT study/NN we/PRP address/VBP the/DT problem/NN of/IN training/VBG a/DT neuralnetwork/NN for/IN language/NN identification/NN using/VBG both/CC labeled/VBN and/CC unlabeled/JJ speech/NN samples/NNS in/IN the/DT form/NN of/IN i/NN -/HYPH vectors/NNS ./.
+We/PRP propose/VBP a/DT neural/JJ network/NN architecture/NN that/WDT can/MD also/RB handle/VB out/RB -/HYPH of/IN -/HYPH set/VBN languages/NNS ./.
+We/PRP utilize/VBP a/DT modified/VBN version/NN of/IN the/DT recently/RB proposed/VBN Ladder/NNP Network/NNP semisupervised/VBD training/NN procedure/NN that/WDT optimizes/VBZ the/DT reconstruction/NN costs/NNS of/IN a/DT stack/NN of/IN denoising/VBG autoencoders/NNS ./.
+We/PRP show/VBP that/IN this/DT approach/NN can/MD be/VB successfully/RB applied/VBN to/IN the/DT case/NN where/WRB the/DT training/NN dataset/NN is/VBZ composed/VBN of/IN both/DT labeled/VBN and/CC unlabeled/JJ acoustic/JJ data/NNS ./.
+The/DT results/NNS show/VBP enhanced/VBN language/NN identification/NN on/IN the/DT NIST/NNP 2015/CD language/NN identification/NN dataset/NN ./.

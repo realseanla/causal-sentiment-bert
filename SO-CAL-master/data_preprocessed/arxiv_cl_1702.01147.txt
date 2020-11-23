@@ -1,0 +1,7 @@
+Neural/JJ machine/NN translation/NN (/-LRB- NMT/NN )/-RRB- models/NNS are/VBP able/JJ to/TO partially/RB learn/VB syntactic/JJ information/NN from/IN sequential/JJ lexical/JJ information/NN ./.
+Still/RB ,/, some/DT complex/JJ syntactic/JJ phenomena/NNS such/JJ as/IN prepositional/JJ phrase/NN attachment/NN are/VBP poorly/RB modeled/VBN ./.
+This/DT work/NN aims/VBZ to/TO answer/VB two/CD questions/NNS :/: 1/LS )/-RRB- Does/VBZ explicitly/RB modeling/VBG source/NN or/CC target/NN language/NN syntax/NN help/NN NMT/NN ?/.
+2/LS )/-RRB- Is/VBZ tight/JJ integration/NN of/IN words/NNS and/CC syntax/NN better/JJR than/IN multitask/JJ training/NN ?/.
+We/PRP introduce/VBP syntactic/JJ information/NN in/IN the/DT form/NN of/IN CCG/NN supertags/NNS either/CC in/IN the/DT source/NN as/IN an/DT extra/JJ feature/NN in/IN the/DT embedding/NN ,/, or/CC in/IN the/DT target/NN ,/, by/IN interleaving/VBG the/DT target/NN supertags/NNS with/IN the/DT word/NN sequence/NN ./.
+Our/PRP$ results/NNS on/IN WMT/NNP data/NNS show/VBP that/IN explicitly/RB modeling/VBG syntax/NN improves/VBZ machine/NN translation/NN quality/NN for/IN English/NNP -/HYPH German/NNP ,/, a/DT high/JJ -/HYPH resource/NN pair/NN ,/, and/CC for/IN English/NNP -/HYPH Romanian/NNP ,/, a/DT low/JJ -/HYPH resource/NN pair/NN and/CC also/RB several/JJ syntactic/JJ phenomena/NNS including/VBG prepositional/JJ phrase/NN attachment/NN ./.
+Furthermore/RB ,/, a/DT tight/JJ coupling/NN of/IN words/NNS and/CC syntax/NN improves/VBZ translation/NN quality/NN more/JJR than/IN multitask/JJ training/NN ./.

@@ -1,0 +1,7 @@
+A/DT standard/JJ approach/NN to/IN Collaborative/JJ Filtering/NN (/-LRB- CF/NN )/-RRB- ,/, i.e./FW prediction/NN of/IN user/NN ratings/NNS on/IN items/NNS ,/, relies/VBZ on/IN Matrix/NNP Factorization/NN techniques/NNS ./.
+Representations/NNS for/IN both/DT users/NNS and/CC items/NNS are/VBP computed/VBN from/IN the/DT observed/VBN ratings/NNS and/CC used/VBN for/IN prediction/NN ./.
+Unfortunatly/RB ,/, these/DT transductive/JJ approaches/NNS can/MD not/RB handle/VB the/DT case/NN of/IN new/JJ users/NNS arriving/VBG in/IN the/DT system/NN ,/, with/IN no/DT known/JJ rating/NN ,/, a/DT problem/NN known/VBN as/IN user/NN cold/NN -/HYPH start/NN ./.
+A/DT common/JJ approach/NN in/IN this/DT context/NN is/VBZ to/TO ask/VB these/DT incoming/JJ users/NNS for/IN a/DT few/JJ initialization/NN ratings/NNS ./.
+This/DT paper/NN presents/VBZ a/DT model/NN to/TO tackle/VB this/DT twofold/JJ problem/NN of/IN (/-LRB- i/LS )/-RRB- finding/VBG good/JJ questions/NNS to/TO ask/VB ,/, (/-LRB- ii/LS )/-RRB- building/NN efficient/JJ representations/NNS from/IN this/DT small/JJ amount/NN of/IN information/NN ./.
+The/DT model/NN can/MD also/RB be/VB used/VBN in/IN a/DT more/RBR standard/JJ (/-LRB- warm/JJ )/-RRB- context/NN ./.
+Our/PRP$ approach/NN is/VBZ evaluated/VBN on/IN the/DT classical/JJ CF/NN problem/NN and/CC on/IN the/DT cold/JJ -/HYPH start/NN problem/NN on/IN four/CD different/JJ datasets/NNS showing/VBG its/PRP$ ability/NN to/TO improve/VB baseline/NN performance/NN in/IN both/DT cases/NNS ./.

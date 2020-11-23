@@ -1,0 +1,6 @@
+Gaussian/JJ state/NN space/NN models/NNS have/VBP been/VBN used/VBN for/IN decades/NNS as/IN generative/JJ models/NNS of/IN sequential/JJ data/NNS ./.
+They/PRP admit/VBP an/DT intuitive/JJ probabilistic/JJ interpretation/NN ,/, have/VBP a/DT simple/JJ functional/JJ form/NN ,/, and/CC enjoy/VB widespread/JJ adoption/NN ./.
+We/PRP introduce/VBP a/DT unified/VBN algorithm/NN to/TO efficiently/RB learn/VB a/DT broad/JJ class/NN of/IN linear/JJ and/CC non-linear/JJ state/NN space/NN models/NNS ,/, including/VBG variants/NNS where/WRB the/DT emission/NN and/CC transition/NN distributions/NNS are/VBP modeled/VBN by/IN deep/JJ neural/JJ networks/NNS ./.
+Our/PRP$ learning/NN algorithm/NN simultaneously/RB learns/VBZ a/DT compiled/VBN inference/NN network/NN and/CC the/DT generative/JJ model/NN ,/, leveraging/VBG a/DT structured/JJ variational/JJ approximation/NN parameterized/VBN by/IN recurrent/JJ neural/JJ networks/NNS to/TO mimic/VB the/DT posterior/JJ distribution/NN ./.
+We/PRP apply/VBP the/DT learning/NN algorithm/NN to/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH world/NN datasets/NNS ,/, demonstrating/VBG its/PRP$ scalability/NN and/CC versatility/NN ./.
+We/PRP find/VBP that/IN using/VBG the/DT structured/JJ approximation/NN to/IN the/DT posterior/JJ results/NNS in/IN models/NNS with/IN significantly/RB higher/JJR held/VBN -/HYPH out/RP likelihood/NN ./.

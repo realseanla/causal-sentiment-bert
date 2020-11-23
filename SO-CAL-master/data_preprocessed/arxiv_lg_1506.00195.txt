@@ -1,0 +1,7 @@
+Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- RNNs/NNS )/-RRB- have/VBP become/VBN increasingly/RB popular/JJ for/IN the/DT task/NN of/IN language/NN understanding/NN ./.
+In/IN this/DT task/NN ,/, a/DT semantic/JJ tagger/NN is/VBZ deployed/VBN to/TO associate/VB a/DT semantic/JJ label/NN to/IN each/DT word/NN in/IN an/DT input/NN sequence/NN ./.
+The/DT success/NN of/IN RNN/NNP may/MD be/VB attributed/VBN to/IN its/PRP$ ability/NN to/TO memorize/VB long/RB -/HYPH term/NN dependence/NN that/WDT relates/VBZ the/DT current/JJ -/HYPH time/NN semantic/JJ label/NN prediction/NN to/IN the/DT observations/NNS many/JJ time/NN instances/NNS away/RB ./.
+However/RB ,/, the/DT memory/NN capacity/NN of/IN simple/JJ RNNs/NNS is/VBZ limited/JJ because/IN of/IN the/DT gradient/NN vanishing/VBG and/CC exploding/VBG problem/NN ./.
+We/PRP propose/VBP to/TO use/VB an/DT external/JJ memory/NN to/TO improve/VB memorization/NN capability/NN of/IN RNNs/NNS ./.
+We/PRP conducted/VBD experiments/NNS on/IN the/DT ATIS/NN dataset/NN ,/, and/CC observed/VBD that/IN the/DT proposed/VBN model/NN was/VBD able/JJ to/TO achieve/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ./.
+We/PRP compare/VBP our/PRP$ proposed/VBN model/NN with/IN alternative/JJ models/NNS and/CC report/NN analysis/NN results/VBZ that/IN may/MD provide/VB insights/NNS for/IN future/JJ research/NN ./.

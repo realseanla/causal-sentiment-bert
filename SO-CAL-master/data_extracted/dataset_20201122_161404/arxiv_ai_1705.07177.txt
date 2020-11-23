@@ -1,0 +1,4 @@
+Planning actions using learned and differentiable forward models of the world is a general approach which has a number of desirable properties, including improved sample complexity over model-free RL methods, reuse of learned models across different tasks, and the ability to perform efficient gradient-based optimization in continuous action spaces.
+However, this approach does not apply straightforwardly when the action space is discrete, which may have limited its adoption.
+In this work, we introduce two discrete planning tasks inspired by existing question-answering datasets and show that it is in fact possible to effectively perform planning via backprop in discrete action spaces using two simple yet principled modifications.
+Our experiments show that this approach can significantly outperform model-free RL based methods and supervised imitation learners.

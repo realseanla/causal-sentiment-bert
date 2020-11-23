@@ -1,0 +1,10 @@
+This/DT project/NN explores/VBZ the/DT nature/NN of/IN language/NN acquisition/NN in/IN computers/NNS ,/, guided/VBN by/IN techniques/NNS similar/JJ to/IN those/DT used/VBN in/IN children/NNS ./.
+While/IN existing/VBG natural/JJ language/NN processing/NN methods/NNS are/VBP limited/VBN in/IN scope/NN and/CC understanding/NN ,/, our/PRP$ system/NN aims/VBZ to/TO gain/VB an/DT understanding/NN of/IN language/NN from/IN first/JJ principles/NNS and/CC hence/RB minimal/JJ initial/JJ input/NN ./.
+The/DT first/JJ portion/NN of/IN our/PRP$ system/NN was/VBD implemented/VBN in/IN Java/NNP and/CC is/VBZ focused/VBN on/IN understanding/VBG the/DT morphology/NN of/IN language/NN using/VBG bigrams/NNS ./.
+We/PRP use/VBP frequency/NN distributions/NNS and/CC differences/NNS between/IN them/PRP to/TO define/VB and/CC distinguish/VB languages/NNS ./.
+English/NNP and/CC French/NNP texts/NNS were/VBD analyzed/VBN to/TO determine/VB a/DT difference/NN threshold/NN of/IN 55/CD before/IN the/DT texts/NNS are/VBP considered/VBN to/TO be/VB in/IN different/JJ languages/NNS ,/, and/CC this/DT threshold/NN was/VBD verified/VBN using/VBG Spanish/JJ texts/NNS ./.
+The/DT second/JJ portion/NN of/IN our/PRP$ system/NN focuses/VBZ on/IN gaining/VBG an/DT understanding/NN of/IN the/DT syntax/NN of/IN a/DT language/NN using/VBG a/DT recursive/JJ method/NN ./.
+The/DT program/NN uses/VBZ one/CD of/IN two/CD possible/JJ methods/NNS to/TO analyze/VB given/VBN sentences/NNS based/VBN on/IN either/CC sentence/NN patterns/NNS or/CC surrounding/VBG words/NNS ./.
+Both/DT methods/NNS have/VBP been/VBN implemented/VBN in/IN C/NN ./.
+The/DT program/NN is/VBZ able/JJ to/TO understand/VB the/DT structure/NN of/IN simple/JJ sentences/NNS and/CC learn/VB new/JJ words/NNS ./.
+In/IN addition/NN ,/, we/PRP have/VBP provided/VBN some/DT suggestions/NNS regarding/VBG future/JJ work/NN and/CC potential/JJ extensions/NNS of/IN the/DT existing/VBG program/NN ./.

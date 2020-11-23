@@ -1,0 +1,9 @@
+Binary/JJ decisions/NNS are/VBP very/RB common/JJ in/IN artificial/JJ intelligence/NN ./.
+Applying/VBG a/DT threshold/NN on/IN the/DT continuous/JJ score/NN gives/VBZ the/DT human/JJ decider/NN the/DT power/NN to/TO control/VB the/DT operating/NN point/NN to/IN separate/VB the/DT two/CD classes/NNS ./.
+The/DT classifier/NN ,/, s/POS discriminating/JJ power/NN is/VBZ measured/VBN along/IN the/DT continuous/JJ range/NN of/IN the/DT score/NN by/IN the/DT Area/NNP Under/IN the/DT ROC/NNP curve/NN (/-LRB- AUC_ROC/NN )/-RRB- in/IN most/JJS application/NN fields/NNS ./.
+Only/RB finances/NNS uses/VBZ the/DT poor/JJ single/JJ point/NN metric/JJ maximum/NN Kolmogorov/NNP -/HYPH Smirnov/NNP (/-LRB- KS/NNP )/-RRB- distance/NN ./.
+This/DT paper/NN proposes/VBZ the/DT Area/NNP Under/IN the/DT KS/NNP curve/NN (/-LRB- AUC_KS/NN )/-RRB- for/IN performance/NN assessment/NN and/CC proves/VBZ AUC_ROC/NN =/SYM 0.5/CD AUC_KS/NN ,/, as/IN a/DT simpler/JJR way/NN to/TO calculate/VB the/DT AUC_ROC/NN ./.
+That/DT is/VBZ even/RB more/RBR important/JJ for/IN ROC/NNP averaging/NN in/IN ensembles/NNS of/IN classifiers/NNS or/CC n/NN fold/VBP cross-validation/NN ./.
+The/DT proof/NN is/VBZ geometrically/RB inspired/VBN on/IN rotating/VBG all/DT KS/NNP curve/NN to/TO make/VB it/PRP lie/VB on/IN the/DT top/NN of/IN the/DT ROC/NNP chance/NN diagonal/JJ ./.
+On/IN the/DT practical/JJ side/NN ,/, the/DT independent/JJ variable/NN on/IN the/DT abscissa/NN on/IN the/DT KS/NNP curve/NN simplifies/VBZ the/DT calculation/NN of/IN the/DT AUC_ROC/NN ./.
+On/IN the/DT theoretical/JJ side/NN ,/, this/DT research/NN gives/VBZ insights/NNS on/IN probabilistic/JJ interpretations/NNS of/IN classifiers/NNS assessment/NN and/CC integrates/VBZ the/DT existing/VBG body/NN of/IN knowledge/NN of/IN the/DT information/NN theoretical/JJ ROC/NNP approach/NN with/IN the/DT proposed/VBN statistical/JJ approach/NN based/VBN on/IN the/DT thoroughly/RB known/VBN KS/NNP distribution/NN ./.

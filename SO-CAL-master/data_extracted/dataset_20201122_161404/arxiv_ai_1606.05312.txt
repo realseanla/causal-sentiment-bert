@@ -1,0 +1,6 @@
+Transfer in reinforcement learning refers to the notion that generalization should occur not only within a task but also across tasks.
+Our focus is on transfer where the reward functions vary across tasks while the environment's dynamics remain the same.
+The method we propose rests on two key ideas: "successor features," a value function representation that decouples the dynamics of the environment from the rewards, and "generalized policy improvement," a generalization of dynamic programming's policy improvement step that considers a set of policies rather than a single one.
+Put together, the two ideas lead to an approach that integrates seamlessly within the reinforcement learning framework and allows transfer to take place between tasks without any restriction.
+The proposed method also provides performance guarantees for the transferred policy even before any learning has taken place.
+We derive two theorems that set our approach in firm theoretical ground and present experiments that show that it successfully promotes transfer in practice.

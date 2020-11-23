@@ -1,0 +1,6 @@
+Many/JJ machine/NN learning/NN problems/NNS such/JJ as/IN speech/NN recognition/NN ,/, gesture/NN recognition/NN ,/, and/CC handwriting/NN recognition/NN are/VBP concerned/VBN with/IN simultaneous/JJ segmentation/NN and/CC labeling/NN of/IN sequence/NN data/NNS ./.
+Latent/JJ -/HYPH dynamic/JJ conditional/JJ random/JJ field/NN (/-LRB- LDCRF/NN )/-RRB- is/VBZ a/DT well/RB -/HYPH known/VBN discriminative/JJ method/NN that/WDT has/VBZ been/VBN successfully/RB used/VBN for/IN this/DT task/NN ./.
+However/RB ,/, LDCRF/NN can/MD only/RB be/VB trained/VBN with/IN pre-segmented/JJ data/NNS sequences/NNS in/IN which/WDT the/DT label/NN of/IN each/DT frame/NN is/VBZ available/JJ ./.
+In/IN the/DT realm/NN of/IN neural/JJ networks/NNS ,/, the/DT invention/NN of/IN Connectionist/NN Temporal/JJ Classification/NN (/-LRB- CTC/NN )/-RRB- made/VBD it/PRP possible/JJ to/TO train/VB Recurrent/JJ Neural/JJ Networks/NNS on/IN unsegmented/JJ sequences/NNS with/IN great/JJ success/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP use/VBP CTC/NN to/TO train/VB LDCRF/NN model/NN on/IN unsegmented/JJ sequences/NNS ./.
+Experimental/JJ results/NNS on/IN gesture/NN recognition/NN tasks/NNS show/VBP that/IN our/PRP$ proposed/JJ method/NN can/MD outperform/VB LDCRF/NNP ,/, Hidden/NNP Markov/NNP Models/NNPS ,/, and/CC Conditional/JJ Random/NNP Fields/NNPS ./.

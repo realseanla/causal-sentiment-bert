@@ -1,0 +1,7 @@
+Global/JJ variational/JJ approximation/NN methods/NNS in/IN graphical/JJ models/NNS allow/VBP efficient/JJ approximate/JJ inference/NN of/IN complex/JJ posterior/JJ distributions/NNS by/IN using/VBG a/DT simpler/JJR model/NN ./.
+The/DT choice/NN of/IN the/DT approximating/NN model/NN determines/VBZ a/DT tradeoff/NN between/IN the/DT complexity/NN of/IN the/DT approximation/NN procedure/NN and/CC the/DT quality/NN of/IN the/DT approximation/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP variational/JJ approximations/NNS based/VBN on/IN two/CD classes/NNS of/IN models/NNS that/WDT are/VBP richer/JJR than/IN standard/JJ Bayesian/JJ networks/NNS ,/, Markov/NNP networks/NNS or/CC mixture/NN models/NNS ./.
+As/IN such/JJ ,/, these/DT classes/NNS allow/VBP to/TO find/VB better/JJR tradeoffs/NNS in/IN the/DT spectrum/NN of/IN approximations/NNS ./.
+The/DT first/JJ class/NN of/IN models/NNS are/VBP chain/NN graphs/NNS ,/, which/WDT capture/VBP distributions/NNS that/WDT are/VBP partially/RB directed/VBN ./.
+The/DT second/JJ class/NN of/IN models/NNS are/VBP directed/VBN graphs/NNS (/-LRB- Bayesian/JJ networks/NNS )/-RRB- with/IN additional/JJ latent/JJ variables/NNS ./.
+Both/DT classes/NNS allow/VBP representation/NN of/IN multi-variable/JJ dependencies/NNS that/WDT can/MD not/RB be/VB easily/RB represented/VBN within/IN a/DT Bayesian/JJ network/NN ./.

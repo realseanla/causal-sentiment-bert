@@ -1,0 +1,9 @@
+Large/JJ unweighted/JJ directed/VBN graphs/NNS are/VBP commonly/RB used/VBN to/TO capture/VB relations/NNS between/IN entities/NNS ./.
+A/DT fundamental/JJ problem/NN in/IN the/DT analysis/NN of/IN such/JJ networks/NNS is/VBZ to/TO properly/RB define/VB the/DT similarity/NN or/CC dissimilarity/NN between/IN any/DT two/CD vertices/NNS ./.
+Despite/IN the/DT significance/NN of/IN this/DT problem/NN ,/, statistical/JJ characterization/NN of/IN the/DT proposed/VBN metrics/NNS has/VBZ been/VBN limited/VBN ./.
+We/PRP introduce/VBP and/CC develop/VBP a/DT class/NN of/IN techniques/NNS for/IN analyzing/VBG random/JJ walks/NNS on/IN graphs/NNS using/VBG stochastic/JJ calculus/NN ./.
+Using/VBG these/DT techniques/NNS we/PRP generalize/VBP results/NNS on/IN the/DT degeneracy/NN of/IN hitting/VBG times/NNS and/CC analyze/VB a/DT metric/JJ based/VBN on/IN the/DT Laplace/NNP transformed/VBN hitting/VBG time/NN (/-LRB- LTHT/NN )/-RRB- ./.
+The/DT metric/JJ serves/VBZ as/IN a/DT natural/JJ ,/, provably/RB well/RB -/HYPH behaved/VBN alternative/NN to/IN the/DT expected/VBN hitting/VBG time/NN ./.
+We/PRP establish/VBP a/DT general/JJ correspondence/NN between/IN hitting/VBG times/NNS of/IN the/DT Brownian/JJ motion/NN and/CC analogous/JJ hitting/VBG times/NNS on/IN the/DT graph/NN ./.
+We/PRP show/VBP that/IN the/DT LTHT/NNP is/VBZ consistent/JJ with/IN respect/NN to/IN the/DT underlying/VBG metric/NN of/IN a/DT geometric/JJ graph/NN ,/, preserves/VBZ clustering/NN tendency/NN ,/, and/CC remains/VBZ robust/JJ against/IN random/JJ addition/NN of/IN non-geometric/JJ edges/NNS ./.
+Tests/NNS on/IN simulated/JJ and/CC real/JJ -/HYPH world/NN data/NNS show/VBP that/IN the/DT LTHT/NNP matches/VBZ theoretical/JJ predictions/NNS and/CC outperforms/VBZ alternatives/NNS ./.

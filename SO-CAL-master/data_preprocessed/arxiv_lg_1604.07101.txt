@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT Double/JJ Thompson/NNP Sampling/NNP (/-LRB- D/NNP -/HYPH TS/NNP )/-RRB- algorithm/NN for/IN dueling/VBG bandit/NN problems/NNS ./.
+As/IN indicated/VBN by/IN its/PRP$ name/NN ,/, D/NN -/HYPH TS/NN selects/VBZ both/CC the/DT first/JJ and/CC the/DT second/JJ candidates/NNS according/VBG to/IN Thompson/NNP Sampling/NNP ./.
+Specifically/RB ,/, D/NN -/HYPH TS/NN maintains/VBZ a/DT posterior/JJ distribution/NN for/IN the/DT preference/NN matrix/NN ,/, and/CC chooses/VBZ the/DT pair/NN of/IN arms/NNS for/IN comparison/NN by/IN sampling/NN twice/RB from/IN the/DT posterior/JJ distribution/NN ./.
+This/DT simple/JJ algorithm/NN applies/VBZ to/IN general/JJ Copeland/NNP dueling/VBG bandits/NNS ,/, including/VBG Condorcet/NNP dueling/VBG bandits/NNS as/IN its/PRP$ special/JJ case/NN ./.
+For/IN general/JJ Copeland/NNP dueling/VBG bandits/NNS ,/, we/PRP show/VBP that/IN D/NN -/HYPH TS/NN achieves/VBZ $/$ O/UH (/-LRB- K/NNP ^/SYM 2/CD \/SYM log/NN T/NN )/-RRB- $/$ regret/NN ./.
+For/IN Condorcet/NNP dueling/VBG bandits/NNS ,/, we/PRP further/RB simplify/VBP the/DT D/NN -/HYPH TS/NN algorithm/NN and/CC show/VBP that/IN the/DT simplified/VBN D/NN -/HYPH TS/NN algorithm/NN achieves/VBZ $/$ O/UH (/-LRB- K/NN \/SYM log/NN T/NN K/NN ^/SYM 2/CD \/SYM log/NN \/SYM log/NN T/NN )/-RRB- $/$ regret/NN ./.
+Simulation/NNP results/VBZ based/VBN on/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH world/NN data/NNS demonstrate/VBP the/DT efficiency/NN of/IN the/DT proposed/VBN D/NN -/HYPH TS/NN algorithm/NN ./.

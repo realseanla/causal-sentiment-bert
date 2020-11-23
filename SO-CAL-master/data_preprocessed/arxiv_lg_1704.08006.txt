@@ -1,0 +1,10 @@
+Deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- play/VBP a/DT key/JJ role/NN in/IN many/JJ applications/NNS ./.
+Current/JJ studies/NNS focus/VBP on/IN crafting/VBG adversarial/JJ samples/NNS against/IN DNN/NNP -/HYPH based/VBN image/NN classifiers/NNS by/IN introducing/VBG some/DT imperceptible/JJ perturbations/NNS to/IN the/DT input/NN ./.
+However/RB ,/, DNNs/NNS for/IN natural/JJ language/NN processing/NN have/VBP not/RB got/VBN the/DT attention/NN they/PRP deserve/VBP ./.
+In/IN fact/NN ,/, the/DT existing/VBG perturbation/NN algorithms/NNS for/IN images/NNS can/MD not/RB be/VB directly/RB applied/VBN to/IN text/NN ./.
+This/DT paper/NN presents/VBZ a/DT simple/JJ but/CC effective/JJ method/NN to/TO attack/VB DNN/NNP -/HYPH based/VBN text/NN classifiers/NNS ./.
+Three/CD perturbation/NN strategies/NNS ,/, namely/RB insertion/NN ,/, modification/NN ,/, and/CC removal/NN ,/, are/VBP designed/VBN to/TO generate/VB an/DT adversarial/JJ sample/NN for/IN a/DT given/VBN text/NN ./.
+By/IN computing/VBG the/DT cost/NN gradients/NNS ,/, what/WP should/MD be/VB inserted/VBN ,/, modified/VBN or/CC removed/VBN ,/, where/WRB to/TO insert/VB and/CC how/WRB to/TO modify/VB are/VBP determined/JJ effectively/RB ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN the/DT adversarial/JJ samples/NNS generated/VBN by/IN our/PRP$ method/NN can/MD successfully/RB fool/VB a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN model/NN to/IN misclassify/VB them/PRP as/IN any/DT desirable/JJ classes/NNS without/IN compromising/VBG their/PRP$ utilities/NNS ./.
+At/IN the/DT same/JJ time/NN ,/, the/DT introduced/VBN perturbations/NNS are/VBP difficult/JJ to/TO be/VB perceived/VBN ./.
+Our/PRP$ study/NN demonstrates/VBZ that/IN DNN/NNP -/HYPH based/VBN text/NN classifiers/NNS are/VBP also/RB prone/JJ to/IN the/DT adversarial/JJ sample/NN attack/NN ./.

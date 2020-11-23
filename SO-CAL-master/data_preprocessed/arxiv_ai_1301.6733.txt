@@ -1,0 +1,7 @@
+In/IN previous/JJ work/NN ,/, we/PRP pointed/VBD out/RP the/DT limitations/NNS of/IN standard/JJ Bayesian/JJ networks/NNS as/IN a/DT modeling/NN framework/NN for/IN large/JJ ,/, complex/JJ domains/NNS ./.
+We/PRP proposed/VBD a/DT new/JJ ,/, richly/RB structured/VBN modeling/NN language/NN ,/, {/-LRB- em/PRP Object/NN -/HYPH oriented/VBN Bayesian/JJ Netorks/NNS }/-RRB- ,/, that/IN we/PRP argued/VBD would/MD be/VB able/JJ to/TO deal/VB with/IN such/JJ domains/NNS ./.
+However/RB ,/, it/PRP turns/VBZ out/RP that/IN OOBNs/NNS are/VBP not/RB expressive/JJ enough/JJ to/TO model/VB many/JJ interesting/JJ aspects/NNS of/IN complex/JJ domains/NNS :/: the/DT existence/NN of/IN specific/JJ named/VBN objects/NNS ,/, arbitrary/JJ relations/NNS between/IN objects/NNS ,/, and/CC uncertainty/NN over/IN domain/NN structure/NN ./.
+These/DT aspects/NNS are/VBP crucial/JJ in/IN real/JJ -/HYPH world/NN domains/NNS such/JJ as/IN battlefield/NN awareness/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP SPOOK/NNP ,/, an/DT implemented/VBN system/NN that/WDT addresses/VBZ these/DT limitations/NNS ./.
+SPOOK/NNP implements/VBZ a/DT more/RBR expressive/JJ language/NN that/WDT allows/VBZ it/PRP to/TO represent/VB the/DT battlespace/NN domain/NN naturally/RB and/CC compactly/RB ./.
+We/PRP present/VBP a/DT new/JJ inference/NN algorithm/NN that/WDT utilizes/VBZ the/DT model/NN structure/NN in/IN a/DT fundamental/JJ way/NN ,/, and/CC show/VBP empirically/RB that/IN it/PRP achieves/VBZ orders/NNS of/IN magnitude/NN speedup/NN over/IN existing/VBG approaches/NNS ./.

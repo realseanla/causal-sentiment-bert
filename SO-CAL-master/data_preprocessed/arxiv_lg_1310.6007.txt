@@ -1,0 +1,4 @@
+We/PRP propose/VBP an/DT efficient/JJ optimization/NN algorithm/NN for/IN selecting/VBG a/DT subset/NN of/IN training/NN data/NNS to/TO induce/VB sparsity/NN for/IN Gaussian/JJ process/NN regression/NN ./.
+The/DT algorithm/NN estimates/VBZ an/DT inducing/VBG set/NN and/CC the/DT hyperparameters/NNS using/VBG a/DT single/JJ objective/NN ,/, either/CC the/DT marginal/JJ likelihood/NN or/CC a/DT variational/JJ free/JJ energy/NN ./.
+The/DT space/NN and/CC time/NN complexity/NN are/VBP linear/JJ in/IN training/NN set/VBN size/NN ,/, and/CC the/DT algorithm/NN can/MD be/VB applied/VBN to/IN large/JJ regression/NN problems/NNS on/IN discrete/JJ or/CC continuous/JJ domains/NNS ./.
+Empirical/JJ evaluation/NN shows/VBZ state/NN -/HYPH of/IN -/HYPH art/NN performance/NN in/IN discrete/JJ cases/NNS and/CC competitive/JJ results/NNS in/IN the/DT continuous/JJ case/NN ./.

@@ -1,0 +1,10 @@
+Relational/JJ Continuous/JJ Models/NNS (/-LRB- RCMs/NNS )/-RRB- represent/VBP joint/JJ probability/NN densities/NNS over/IN attributes/NNS of/IN objects/NNS ,/, when/WRB the/DT attributes/NNS have/VBP continuous/JJ domains/NNS ./.
+With/IN relational/JJ representations/NNS ,/, they/PRP can/MD model/VB joint/JJ probability/NN distributions/NNS over/IN large/JJ numbers/NNS of/IN variables/NNS compactly/RB in/IN a/DT natural/JJ way/NN ./.
+This/DT paper/NN presents/VBZ a/DT new/JJ exact/JJ lifted/VBN inference/NN algorithm/NN for/IN RCMs/NNS ,/, thus/RB it/PRP scales/VBZ up/RP to/IN large/JJ models/NNS of/IN real/JJ world/NN applications/NNS ./.
+The/DT algorithm/NN applies/VBZ to/IN Relational/JJ Pairwise/JJ Models/NNS which/WDT are/VBP (/-LRB- relational/JJ )/-RRB- products/NNS of/IN potentials/NNS of/IN arity/NN 2/CD ./.
+Our/PRP$ algorithm/NN is/VBZ unique/JJ in/IN two/CD ways/NNS ./.
+First/RB ,/, it/PRP substantially/RB improves/VBZ the/DT efficiency/NN of/IN lifted/VBN inference/NN with/IN variables/NNS of/IN continuous/JJ domains/NNS ./.
+When/WRB a/DT relational/JJ model/NN has/VBZ Gaussian/JJ potentials/NNS ,/, it/PRP takes/VBZ only/RB linear/JJ -/HYPH time/NN compared/VBN to/IN cubic/JJ time/NN of/IN previous/JJ methods/NNS ./.
+Second/RB ,/, it/PRP is/VBZ the/DT first/JJ exact/JJ inference/NN algorithm/NN which/WDT handles/VBZ RCMs/NNS in/IN a/DT lifted/VBN way/NN ./.
+The/DT algorithm/NN is/VBZ illustrated/VBN over/IN an/DT example/NN from/IN econometrics/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ algorithm/NN outperforms/VBZ both/CC a/DT groundlevel/NN inference/NN algorithm/NN and/CC an/DT algorithm/NN built/VBN with/IN previously/RB -/HYPH known/VBN lifted/VBN methods/NNS ./.

@@ -1,0 +1,6 @@
+In/IN recent/JJ years/NNS ,/, supervised/VBD learning/VBG with/IN convolutional/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- has/VBZ seen/VBN huge/JJ adoption/NN in/IN computer/NN vision/NN applications/NNS ./.
+Comparatively/RB ,/, unsupervised/JJ learning/NN with/IN CNNs/NNS has/VBZ received/VBN less/JJR attention/NN ./.
+In/IN this/DT work/NN we/PRP hope/VBP to/TO help/VB bridge/VB the/DT gap/NN between/IN the/DT success/NN of/IN CNNs/NNS for/IN supervised/JJ learning/NN and/CC unsupervised/JJ learning/NN ./.
+We/PRP introduce/VBP a/DT class/NN of/IN CNNs/NNS called/VBN deep/JJ convolutional/JJ generative/JJ adversarial/JJ networks/NNS (/-LRB- DCGANs/NNP )/-RRB- ,/, that/WDT have/VBP certain/JJ architectural/JJ constraints/NNS ,/, and/CC demonstrate/VBP that/IN they/PRP are/VBP a/DT strong/JJ candidate/NN for/IN unsupervised/JJ learning/NN ./.
+Training/VBG on/IN various/JJ image/NN datasets/NNS ,/, we/PRP show/VBP convincing/JJ evidence/NN that/IN our/PRP$ deep/JJ convolutional/JJ adversarial/JJ pair/NN learns/VBZ a/DT hierarchy/NN of/IN representations/NNS from/IN object/NN parts/NNS to/IN scenes/NNS in/IN both/CC the/DT generator/NN and/CC discriminator/NN ./.
+Additionally/RB ,/, we/PRP use/VBP the/DT learned/VBN features/NNS for/IN novel/JJ tasks/NNS -/HYPH demonstrating/VBG their/PRP$ applicability/NN as/IN general/JJ image/NN representations/NNS ./.

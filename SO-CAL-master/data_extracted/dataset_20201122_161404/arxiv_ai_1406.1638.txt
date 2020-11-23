@@ -1,0 +1,5 @@
+We propose an approach to generate geometric theorems from electronic images of diagrams automatically.
+The approach makes use of techniques of Hough transform to recognize geometric objects and their labels and of numeric verification to mine basic geometric relations.
+Candidate propositions are generated from the retrieved information by using six strategies and geometric theorems are obtained from the candidates via algebraic computation.
+Experiments with a preliminary implementation illustrate the effectiveness and efficiency of the proposed approach for generating nontrivial theorems from images of diagrams.
+This work demonstrates the feasibility of automated discovery of profound geometric knowledge from simple image data and has potential applications in geometric knowledge management and education.

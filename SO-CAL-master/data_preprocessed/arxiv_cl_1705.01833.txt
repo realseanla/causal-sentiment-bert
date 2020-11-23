@@ -1,0 +1,7 @@
+This/DT article/NN describes/VBZ a/DT software/NN module/NN called/VBN Akshara/NNP to/TO Prosodeme/NNP (/-LRB- A2P/NN )/-RRB- converter/NN in/IN Hindi/NNP ./.
+It/PRP converts/VBZ an/DT input/NN grapheme/NN into/IN prosedeme/NN (/-LRB- sequence/NN of/IN phonemes/NNS with/IN the/DT specification/NN of/IN syllable/NN boundaries/NNS and/CC prosodic/JJ labels/NNS )/-RRB- ./.
+The/DT software/NN is/VBZ based/VBN on/IN two/CD proposed/VBN finite/JJ state/NN machines/NNS \/SYM textemdash/NN one/CD for/IN the/DT syllabification/NN and/CC another/DT for/IN the/DT syllable/NN labeling/NN ./.
+In/IN addition/NN to/IN that/DT ,/, it/PRP also/RB uses/VBZ a/DT set/NN of/IN nonlinear/JJ phonological/JJ rules/NNS proposed/VBN for/IN foot/NN formation/NN in/IN Hindi/NNP ,/, which/WDT encompass/VBP solutions/NNS to/IN schwa/NN -/HYPH deletion/NN in/IN simple/JJ ,/, compound/NN ,/, derived/VBN and/CC inflected/VBN words/NNS ./.
+The/DT nonlinear/JJ phonological/JJ rules/NNS are/VBP based/VBN on/IN metrical/JJ phonology/NN with/IN the/DT provision/NN of/IN recursive/JJ foot/NN structure/NN ./.
+A/DT software/NN module/NN is/VBZ implemented/VBN in/IN Python/NNP ./.
+The/DT testing/NN of/IN the/DT software/NN for/IN syllabification/NN ,/, syllable/NN labeling/NN ,/, schwa/NN deletion/NN and/CC prosodic/JJ labeling/NN yield/VBP an/DT accuracy/NN of/IN more/JJR than/IN 99/CD percent/NN on/IN a/DT lexicon/NN of/IN size/NN 28664/CD words/NNS ./.

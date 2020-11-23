@@ -1,0 +1,7 @@
+Optimization/NN by/IN stochastic/JJ gradient/NN descent/NN is/VBZ an/DT important/JJ component/NN of/IN many/JJ large/JJ -/HYPH scale/NN machine/NN learning/NN algorithms/NNS ./.
+A/DT wide/JJ variety/NN of/IN such/JJ optimization/NN algorithms/NNS have/VBP been/VBN devised/VBN ;/: however/RB ,/, it/PRP is/VBZ unclear/JJ whether/IN these/DT algorithms/NNS are/VBP robust/JJ and/CC widely/RB applicable/JJ across/IN many/JJ different/JJ optimization/NN landscapes/NNS ./.
+In/IN this/DT paper/NN we/PRP develop/VBP a/DT collection/NN of/IN unit/NN tests/NNS for/IN stochastic/JJ optimization/NN ./.
+Each/DT unit/NN test/NN rapidly/RB evaluates/VBZ an/DT optimization/NN algorithm/NN on/IN a/DT small/JJ -/HYPH scale/NN ,/, isolated/VBN ,/, and/CC well/RB -/HYPH understood/VBN difficulty/NN ,/, rather/RB than/IN in/IN real/JJ -/HYPH world/NN scenarios/NNS where/WRB many/JJ such/JJ issues/NNS are/VBP entangled/VBN ./.
+Passing/VBG these/DT unit/NN tests/VBZ is/VBZ not/RB sufficient/JJ ,/, but/CC absolutely/RB necessary/JJ for/IN any/DT algorithms/NNS with/IN claims/NNS to/TO generality/NN or/CC robustness/NN ./.
+We/PRP give/VBP initial/JJ quantitative/JJ and/CC qualitative/JJ results/NNS on/IN a/DT dozen/NN established/VBN algorithms/NNS ./.
+The/DT testing/NN framework/NN is/VBZ open/JJ -/HYPH source/NN ,/, extensible/JJ ,/, and/CC easy/JJ to/TO apply/VB to/IN new/JJ algorithms/NNS ./.

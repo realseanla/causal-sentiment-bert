@@ -1,0 +1,5 @@
+We/PRP introduce/VBP a/DT model/NN -/HYPH free/JJ algorithm/NN for/IN learning/VBG in/IN Markov/NNP decision/NN processes/NNS with/IN parameterized/JJ actions/NNS -/HYPH discrete/JJ actions/NNS with/IN continuous/JJ parameters/NNS ./.
+At/IN each/DT step/NN the/DT agent/NN must/MD select/VB both/DT which/WDT action/NN to/TO use/VB and/CC which/WDT parameters/NNS to/TO use/VB with/IN this/DT action/NN ./.
+This/DT models/NNS domains/NNS where/WRB there/EX are/VBP distinct/JJ actions/NNS which/WDT can/MD be/VB adjusted/VBN to/IN a/DT particular/JJ state/NN ./.
+We/PRP introduce/VBP the/DT Q/NN -/HYPH PAMDP/NN algorithm/NN for/IN learning/VBG in/IN these/DT domains/NNS ./.
+We/PRP show/VBP that/IN Q/NN -/HYPH PAMDP/NN converges/VBZ to/IN a/DT local/JJ optima/NN ,/, and/CC compare/VB different/JJ approaches/NNS in/IN a/DT robot/NN soccer/NN goal/NN -/HYPH scoring/VBG domain/NN and/CC a/DT platformer/NN domain/NN ./.

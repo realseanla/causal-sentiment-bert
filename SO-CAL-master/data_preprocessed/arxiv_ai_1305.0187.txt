@@ -1,0 +1,12 @@
+Web/NN service/NN composition/NN is/VBZ the/DT process/NN of/IN synthesizing/VBG a/DT new/JJ composite/JJ service/NN using/VBG a/DT set/NN of/IN available/JJ Web/NN services/NNS in/IN order/NN to/TO satisfy/VB a/DT client/NN request/NN that/WDT can/MD not/RB be/VB treated/VBN by/IN any/DT available/JJ Web/NN services/NNS ./.
+The/DT Web/NN services/NNS space/NN is/VBZ a/DT dynamic/JJ environment/NN characterized/VBN by/IN a/DT huge/JJ number/NN of/IN elements/NNS ./.
+Furthermore/RB ,/, many/JJ Web/NN services/NNS are/VBP offering/VBG similar/JJ functionalities/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT model/NN for/IN Web/NN service/NN composition/NN designed/VBN to/TO address/VB the/DT scale/NN effect/NN and/CC the/DT redundancy/NN issue/NN ./.
+The/DT Web/NN services/NNS space/NN is/VBZ represented/VBN by/IN a/DT two/CD -/HYPH layered/JJ network/NN architecture/NN ./.
+A/DT concrete/JJ similarity/NN network/NN layer/NN organizes/VBZ the/DT Web/NN services/NNS operations/NNS into/IN communities/NNS of/IN functionally/RB similar/JJ operations/NNS ./.
+An/DT abstract/JJ interaction/NN network/NN layer/NN represents/VBZ the/DT composition/NN relationships/NNS between/IN the/DT sets/NNS of/IN communities/NNS ./.
+Composition/NN synthesis/NN is/VBZ performed/VBN by/IN a/DT two/CD -/HYPH phased/VBN graph/NN search/NN algorithm/NN ./.
+First/RB ,/, the/DT interaction/NN network/NN is/VBZ mined/VBN in/IN order/NN to/TO discover/VB abstract/JJ solutions/NNS to/IN the/DT request/NN goal/NN ./.
+Then/RB ,/, the/DT abstract/JJ compositions/NNS are/VBP instantiated/VBN with/IN concrete/JJ operations/NNS selected/VBN from/IN the/DT similarity/NN network/NN ./.
+This/DT strategy/NN allows/VBZ an/DT efficient/JJ exploration/NN of/IN the/DT Web/NN services/NNS space/NN ./.
+Furthermore/RB ,/, operations/NNS grouped/VBN in/IN a/DT community/NN can/MD be/VB easily/RB substituted/VBN if/IN necessary/JJ during/IN the/DT composition/NN 's/POS synthesis/NN 's/POS process/NN ./.

@@ -1,0 +1,8 @@
+We/PRP introduce/VBP the/DT DROW/NNP detector/NN ,/, a/DT deep/JJ learning/NN based/VBN detector/NN for/IN 2D/NN range/NN data/NNS ./.
+Laser/NN scanners/NNS are/VBP lighting/VBG invariant/JJ ,/, provide/VB accurate/JJ range/NN data/NNS ,/, and/CC typically/RB cover/VBP a/DT large/JJ field/NN of/IN view/NN ,/, making/VBG them/PRP interesting/JJ sensors/NNS for/IN robotics/NNS applications/NNS ./.
+So/RB far/RB ,/, research/NN on/IN detection/NN in/IN laser/NN range/NN data/NNS has/VBZ been/VBN dominated/VBN by/IN handcrafted/VBN features/NNS and/CC boosted/VBD classifiers/NNS ,/, potentially/RB losing/VBG performance/NN due/IN to/IN suboptimal/JJ design/NN choices/NNS ./.
+We/PRP propose/VBP a/DT Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- based/VBN detector/NN for/IN this/DT task/NN ./.
+We/PRP show/VBP how/WRB to/TO effectively/RB apply/VB CNNs/NNS for/IN detection/NN in/IN 2D/NN range/NN data/NNS ,/, and/CC propose/VB a/DT depth/NN preprocessing/VBG step/NN and/CC voting/NN scheme/NN that/WDT significantly/RB improve/VBP CNN/NNP performance/NN ./.
+We/PRP demonstrate/VBP our/PRP$ approach/NN on/IN wheelchairs/NNS and/CC walkers/NNS ,/, obtaining/VBG state/NN of/IN the/DT art/NN detection/NN results/NNS ./.
+Apart/RB from/IN the/DT training/NN data/NNS ,/, none/NN of/IN our/PRP$ design/NN choices/NNS limits/VBZ the/DT detector/NN to/IN these/DT two/CD classes/NNS ,/, though/RB ./.
+We/PRP provide/VBP a/DT ROS/NN node/NN for/IN our/PRP$ detector/NN and/CC release/VB our/PRP$ dataset/NN containing/VBG 464k/CD laser/NN scans/NNS ,/, out/IN of/IN which/WDT 24k/NN were/VBD annotated/VBN for/IN training/NN ./.

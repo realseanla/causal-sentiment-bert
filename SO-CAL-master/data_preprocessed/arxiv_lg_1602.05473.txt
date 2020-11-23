@@ -1,0 +1,6 @@
+Deep/JJ generative/NN models/NNS parameterized/VBN by/IN neural/JJ networks/NNS have/VBP recently/RB achieved/VBN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN in/IN unsupervised/JJ and/CC semi-supervised/JJ learning/NN ./.
+We/PRP extend/VBP deep/JJ generative/NN models/NNS with/IN auxiliary/JJ variables/NNS which/WDT improves/VBZ the/DT variational/JJ approximation/NN ./.
+The/DT auxiliary/JJ variables/NNS leave/VBP the/DT generative/JJ model/NN unchanged/JJ but/CC make/VB the/DT variational/JJ distribution/NN more/RBR expressive/JJ ./.
+Inspired/VBN by/IN the/DT structure/NN of/IN the/DT auxiliary/JJ variable/NN we/PRP also/RB propose/VBP a/DT model/NN with/IN two/CD stochastic/JJ layers/NNS and/CC skip/VB connections/NNS ./.
+Our/PRP$ findings/NNS suggest/VBP that/IN more/JJR expressive/JJ and/CC properly/RB specified/VBN deep/JJ generative/NN models/NNS converge/VBP faster/RBR with/IN better/JJR results/NNS ./.
+We/PRP show/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN within/IN semi-supervised/VBN learning/NN on/IN MNIST/NNP (/-LRB- 0.96/CD percent/NN )/-RRB- ,/, SVHN/NN (/-LRB- 16.61/CD percent/NN )/-RRB- and/CC NORB/NNP (/-LRB- 9.40/CD percent/NN )/-RRB- datasets/NNS ./.

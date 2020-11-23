@@ -1,0 +1,4 @@
+Machine learning is increasingly prevalent in stock market trading.
+Though neural networks have seen success in computer vision and natural language processing, they have not been as useful in stock market trading.
+To demonstrate the applicability of a neural network in stock trading, we made a single-layer neural network that recommends buying or selling shares of a stock by comparing the highest high of 10 consecutive days with that of the next 10 days, a process repeated for the stock's year-long historical data.
+A chi-squared analysis found that the neural network can accurately and appropriately decide whether to buy or sell shares for a given stock, showing that a neural network can make simple decisions about the stock market.

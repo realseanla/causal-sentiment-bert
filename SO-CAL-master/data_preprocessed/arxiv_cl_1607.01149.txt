@@ -1,0 +1,6 @@
+Discriminative/JJ translation/NN models/NNS utilizing/VBG source/NN context/NN have/VBP been/VBN shown/VBN to/TO help/VB statistical/JJ machine/NN translation/NN performance/NN ./.
+We/PRP propose/VBP a/DT novel/JJ extension/NN of/IN this/DT work/NN using/VBG target/NN context/NN information/NN ./.
+Surprisingly/RB ,/, we/PRP show/VBP that/IN this/DT model/NN can/MD be/VB efficiently/RB integrated/VBN directly/RB in/IN the/DT decoding/NN process/NN ./.
+Our/PRP$ approach/NN scales/VBZ to/IN large/JJ training/NN data/NNS sizes/NNS and/CC results/NNS in/IN consistent/JJ improvements/NNS in/IN translation/NN quality/NN on/IN four/CD language/NN pairs/NNS ./.
+We/PRP also/RB provide/VBP an/DT analysis/NN comparing/VBG the/DT strengths/NNS of/IN the/DT baseline/NN source/NN -/HYPH context/NN model/NN with/IN our/PRP$ extended/VBN source/NN -/HYPH context/NN and/CC target/NN -/HYPH context/NN model/NN and/CC we/PRP show/VBP that/IN our/PRP$ extension/NN allows/VBZ us/PRP to/TO better/RBR capture/VB morphological/JJ coherence/NN ./.
+Our/PRP$ work/NN is/VBZ freely/RB available/JJ as/IN part/NN of/IN Moses/NNP ./.

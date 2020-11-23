@@ -1,0 +1,7 @@
+Training/VBG recurrent/JJ neural/JJ networks/NNS to/TO model/VB long/JJ term/NN dependencies/NNS is/VBZ difficult/JJ ./.
+Hence/RB ,/, we/PRP propose/VBP to/TO use/VB external/JJ linguistic/JJ knowledge/NN as/IN an/DT explicit/JJ signal/NN to/TO inform/VB the/DT model/NN which/WDT memories/NNS it/PRP should/MD utilize/VB ./.
+Specifically/RB ,/, external/JJ knowledge/NN is/VBZ used/VBN to/TO augment/VB a/DT sequence/NN with/IN typed/VBN edges/NNS between/IN arbitrarily/RB distant/JJ elements/NNS ,/, and/CC the/DT resulting/VBG graph/NN is/VBZ decomposed/VBN into/IN directed/VBN acyclic/JJ subgraphs/NNS ./.
+We/PRP introduce/VBP a/DT model/NN that/WDT encodes/VBZ such/JJ graphs/NNS as/IN explicit/JJ memory/NN in/IN recurrent/JJ neural/JJ networks/NNS ,/, and/CC use/VB it/PRP to/IN model/NN coreference/NN relations/NNS in/IN text/NN ./.
+We/PRP apply/VBP our/PRP$ model/NN to/IN several/JJ text/NN comprehension/NN tasks/NNS and/CC achieve/VB new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN all/DT considered/VBN benchmarks/NNS ,/, including/VBG CNN/NNP ,/, bAbi/NNP ,/, and/CC LAMBADA/NNP ./.
+On/IN the/DT bAbi/NNP QA/NNP tasks/NNS ,/, our/PRP$ model/NN solves/VBZ 15/CD out/IN of/IN the/DT 20/CD tasks/NNS with/IN only/RB 1000/CD training/NN examples/NNS per/IN task/NN ./.
+Analysis/NN of/IN the/DT learned/VBN representations/NNS further/RB demonstrates/VBZ the/DT ability/NN of/IN our/PRP$ model/NN to/TO encode/VB fine/JJ -/HYPH grained/JJ entity/NN information/NN across/IN a/DT document/NN ./.

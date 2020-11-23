@@ -1,0 +1,6 @@
+Bayesian/JJ knowledge/NN bases/NNS (/-LRB- BKBs/NNS )/-RRB- are/VBP a/DT generalization/NN of/IN Bayes/NNP networks/NNS and/CC weighted/JJ proof/NN graphs/NNS (/-LRB- WAODAGs/NNS )/-RRB- ,/, that/WDT allow/VBP cycles/NNS in/IN the/DT causal/JJ graph/NN ./.
+Reasoning/NN in/IN BKBs/NNS requires/VBZ finding/VBG the/DT most/RBS probable/JJ inferences/NNS consistent/JJ with/IN the/DT evidence/NN ./.
+The/DT cost/NN -/HYPH sharing/NN heuristic/NN for/IN finding/VBG least/RBS -/HYPH cost/NN explanations/NNS in/IN WAODAGs/NNP was/VBD presented/VBN and/CC shown/VBN to/TO be/VB effective/JJ by/IN Charniak/NNP and/CC Husain/NNP ./.
+However/RB ,/, the/DT cycles/NNS in/IN BKBs/NNS would/MD make/VB the/DT definition/NN of/IN cost/NN -/HYPH sharing/VBG cyclic/JJ as/RB well/RB ,/, if/IN applied/VBN directly/RB to/IN BKBs/NNS ./.
+By/IN treating/VBG the/DT defining/VBG equations/NNS of/IN cost/NN -/HYPH sharing/NN as/IN a/DT system/NN of/IN equations/NNS ,/, one/PRP can/MD properly/RB define/VB an/DT admissible/JJ cost/NN -/HYPH sharing/NN heuristic/NN for/IN BKBs/NNS ./.
+Empirical/JJ evaluation/NN shows/VBZ that/IN cost/NN -/HYPH sharing/NN improves/VBZ performance/NN significantly/RB when/WRB applied/VBN to/IN BKBs/NNS ./.

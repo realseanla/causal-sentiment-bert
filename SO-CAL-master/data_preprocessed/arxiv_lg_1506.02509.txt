@@ -1,0 +1,8 @@
+Deep/JJ learning/NN with/IN a/DT convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- has/VBZ been/VBN proved/VBN to/TO be/VB very/RB effective/JJ in/IN feature/NN extraction/NN and/CC representation/NN of/IN images/NNS ./.
+For/IN image/NN classification/NN problems/NNS ,/, this/DT work/NN aim/NN at/IN finding/NN which/WDT classifier/NN is/VBZ more/RBR competitive/JJ based/VBN on/IN high/JJ -/HYPH level/NN deep/JJ features/NNS of/IN images/NNS ./.
+In/IN this/DT report/NN ,/, we/PRP have/VBP discussed/VBN the/DT nearest/JJS neighbor/NN ,/, support/NN vector/NN machines/NNS and/CC extreme/JJ learning/NN machines/NNS for/IN image/NN classification/NN under/IN deep/JJ convolutional/JJ activation/NN feature/NN representation/NN ./.
+Specifically/RB ,/, we/PRP adopt/VBP the/DT benchmark/NN object/NN recognition/NN dataset/NN from/IN multiple/JJ sources/NNS with/IN domain/NN bias/NN for/IN evaluating/VBG different/JJ classifiers/NNS ./.
+The/DT deep/JJ features/NNS of/IN the/DT object/NN dataset/NN are/VBP obtained/VBN by/IN a/DT well/RB -/HYPH trained/VBN CNN/NNP with/IN five/CD convolutional/JJ layers/NNS and/CC three/CD fully/RB -/HYPH connected/VBN layers/NNS on/IN the/DT challenging/JJ ImageNet/NNP ./.
+Experiments/NNS demonstrate/VBP that/IN the/DT ELMs/NNPS outperform/VBP SVMs/NNS in/IN cross-domain/JJ recognition/NN tasks/NNS ./.
+In/IN particular/JJ ,/, state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS are/VBP obtained/VBN by/IN kernel/NN ELM/NN which/WDT outperforms/VBZ SVMs/NNS with/IN about/RB 4/CD percent/NN of/IN the/DT average/JJ accuracy/NN ./.
+The/DT features/NNS and/CC codes/NNS are/VBP available/JJ in/IN

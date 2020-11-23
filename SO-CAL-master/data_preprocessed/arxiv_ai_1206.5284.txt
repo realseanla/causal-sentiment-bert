@@ -1,0 +1,7 @@
+Preferences/NNS play/VBP an/DT important/JJ role/NN in/IN our/PRP$ everyday/JJ lives/NNS ./.
+CP/NN -/HYPH networks/NNS ,/, or/CC CP/NN -/HYPH nets/NNS in/IN short/JJ ,/, are/VBP graphical/JJ models/NNS for/IN representing/VBG conditional/JJ qualitative/JJ preferences/NNS under/IN ceteris/NN paribus/NN (/-LRB- "/`` all/RB else/RB being/VBG equal/JJ "/'' )/-RRB- assumptions/NNS ./.
+Despite/IN their/PRP$ intuitive/JJ nature/NN and/CC rich/JJ representation/NN ,/, dominance/NN testing/NN with/IN CP/NN -/HYPH nets/NNS is/VBZ computationally/RB complex/JJ ,/, even/RB when/WRB the/DT CP/NN -/HYPH nets/NNS are/VBP restricted/VBN to/IN binary/JJ -/HYPH valued/VBN preferences/NNS ./.
+Tractable/JJ algorithms/NNS exist/VBP for/IN binary/JJ CP/NN -/HYPH nets/NNS ,/, but/CC these/DT algorithms/NNS are/VBP incomplete/JJ for/IN multi-valued/JJ CPnets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP identify/VBP a/DT class/NN of/IN multivalued/VBN CP/NN -/HYPH nets/NNS ,/, which/WDT we/PRP call/VBP more/RBR -/HYPH or-less/JJ CPnets/NNS ,/, that/WDT have/VBP the/DT same/JJ computational/JJ complexity/NN as/IN binary/JJ CP/NN -/HYPH nets/NNS ./.
+More/RBR -/HYPH or-less/JJ CP/NN -/HYPH nets/NNS exploit/VBP the/DT monotonicity/NN of/IN the/DT attribute/NN values/NNS and/CC use/VB intervals/NNS to/IN aggregate/NN values/NNS that/WDT induce/VBP similar/JJ preferences/NNS ./.
+We/PRP then/RB present/VBP a/DT search/NN control/NN rule/NN for/IN dominance/NN testing/NN that/WDT effectively/RB prunes/VBZ the/DT search/NN space/NN while/IN preserving/VBG completeness/NN ./.

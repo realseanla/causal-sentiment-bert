@@ -1,0 +1,7 @@
+Typography/NNP is/VBZ a/DT ubiquitous/JJ art/NN form/NN that/WDT affects/VBZ our/PRP$ understanding/NN ,/, perception/NN ,/, and/CC trust/NN in/IN what/WP we/PRP read/VBP ./.
+Thousands/NNS of/IN different/JJ font/NN -/HYPH faces/NNS have/VBP been/VBN created/VBN with/IN enormous/JJ variations/NNS in/IN the/DT characters/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP learn/VBP the/DT style/NN of/IN a/DT font/NN by/IN analyzing/VBG a/DT small/JJ subset/NN of/IN only/RB four/CD letters/NNS ./.
+From/IN these/DT four/CD letters/NNS ,/, we/PRP learn/VBP two/CD tasks/NNS ./.
+The/DT first/JJ is/VBZ a/DT discrimination/NN task/NN :/: given/VBN the/DT four/CD letters/NNS and/CC a/DT new/JJ candidate/NN letter/NN ,/, does/VBZ the/DT new/JJ letter/NN belong/VBP to/IN the/DT same/JJ font/NN ?/.
+Second/RB ,/, given/VBN the/DT four/CD basis/NN letters/NNS ,/, can/MD we/PRP generate/VB all/DT of/IN the/DT other/JJ letters/NNS with/IN the/DT same/JJ characteristics/NNS as/IN those/DT in/IN the/DT basis/NN set/VBN ?/.
+We/PRP use/VBP deep/JJ neural/JJ networks/NNS to/TO address/VB both/DT tasks/NNS ,/, quantitatively/RB and/CC qualitatively/RB measure/VB the/DT results/NNS in/IN a/DT variety/NN of/IN novel/JJ manners/NNS ,/, and/CC present/VB a/DT thorough/JJ investigation/NN of/IN the/DT weaknesses/NNS and/CC strengths/NNS of/IN the/DT approach/NN ./.

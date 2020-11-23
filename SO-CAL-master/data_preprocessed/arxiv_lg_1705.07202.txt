@@ -1,0 +1,8 @@
+Variational/JJ auto/NN -/HYPH encoder/NN (/-LRB- VAE/NN )/-RRB- is/VBZ a/DT powerful/JJ unsupervised/JJ learning/NN framework/NN for/IN image/NN generation/NN ./.
+One/CD drawback/NN of/IN VAE/NNP is/VBZ that/IN it/PRP generates/VBZ blurry/JJ images/NNS due/IN to/IN its/PRP$ Gaussianity/NNP assumption/NN and/CC thus/RB L2/NN loss/NN ./.
+To/TO allow/VB the/DT generation/NN of/IN high/JJ quality/NN images/NNS by/IN VAE/NNP ,/, we/PRP increase/VBP the/DT capacity/NN of/IN decoder/NN network/NN by/IN employing/VBG residual/JJ blocks/NNS and/CC skip/VB connections/NNS ,/, which/WDT also/RB enable/VBP efficient/JJ optimization/NN ./.
+To/TO overcome/VB the/DT limitation/NN of/IN L2/NN loss/NN ,/, we/PRP propose/VBP to/TO generate/VB images/NNS in/IN a/DT multi-stage/JJ manner/NN from/IN coarse/JJ to/IN fine/JJ ./.
+In/IN the/DT simplest/JJS case/NN ,/, the/DT proposed/VBN multi-stage/JJ VAE/NNP divides/VBZ the/DT decoder/NN into/IN two/CD components/NNS in/IN which/WDT the/DT second/JJ component/NN generates/VBZ refined/JJ images/NNS based/VBN on/IN the/DT course/NN images/NNS generated/VBN by/IN the/DT first/JJ component/NN ./.
+Since/IN the/DT second/JJ component/NN is/VBZ independent/JJ of/IN the/DT VAE/NNP model/NN ,/, it/PRP can/MD employ/VB other/JJ loss/NN functions/VBZ beyond/IN the/DT L2/NN loss/NN and/CC different/JJ model/NN architectures/NNS ./.
+The/DT proposed/VBN framework/NN can/MD be/VB easily/RB generalized/VBN to/TO contain/VB more/JJR than/IN two/CD components/NNS ./.
+Experiment/NN results/NNS on/IN the/DT MNIST/NN and/CC CelebA/NN datasets/NNS demonstrate/VBP that/IN the/DT proposed/VBN multi-stage/JJ VAE/NNP can/MD generate/VB sharper/JJR images/NNS as/IN compared/VBN to/IN those/DT from/IN the/DT original/JJ VAE/NNP ./.

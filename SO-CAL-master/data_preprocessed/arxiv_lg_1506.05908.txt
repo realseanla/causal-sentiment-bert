@@ -1,0 +1,7 @@
+Knowledge/NN tracing/VBG ---/, where/WRB a/DT machine/NN models/NNS the/DT knowledge/NN of/IN a/DT student/NN as/IN they/PRP interact/VBP with/IN coursework/NN ---/, is/VBZ a/DT well/RB established/VBN problem/NN in/IN computer/NN supported/VBD education/NN ./.
+Though/IN effectively/RB modeling/VBG student/NN knowledge/NN would/MD have/VB high/JJ educational/JJ impact/NN ,/, the/DT task/NN has/VBZ many/JJ inherent/JJ challenges/NNS ./.
+In/IN this/DT paper/NN we/PRP explore/VBP the/DT utility/NN of/IN using/VBG Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- RNNs/NNS )/-RRB- to/TO model/VB student/NN learning/NN ./.
+The/DT RNN/NN family/NN of/IN models/NNS have/VBP important/JJ advantages/NNS over/IN previous/JJ methods/NNS in/IN that/IN they/PRP do/VBP not/RB require/VB the/DT explicit/JJ encoding/NN of/IN human/JJ domain/NN knowledge/NN ,/, and/CC can/MD capture/VB more/RBR complex/JJ representations/NNS of/IN student/NN knowledge/NN ./.
+Using/VBG neural/JJ networks/NNS results/VBZ in/IN substantial/JJ improvements/NNS in/IN prediction/NN performance/NN on/IN a/DT range/NN of/IN knowledge/NN tracing/VBG datasets/NNS ./.
+Moreover/RB the/DT learned/VBN model/NN can/MD be/VB used/VBN for/IN intelligent/JJ curriculum/NN design/NN and/CC allows/VBZ straightforward/JJ interpretation/NN and/CC discovery/NN of/IN structure/NN in/IN student/NN tasks/NNS ./.
+These/DT results/NNS suggest/VBP a/DT promising/JJ new/JJ line/NN of/IN research/NN for/IN knowledge/NN tracing/NN and/CC an/DT exemplary/JJ application/NN task/NN for/IN RNNs/NNS ./.

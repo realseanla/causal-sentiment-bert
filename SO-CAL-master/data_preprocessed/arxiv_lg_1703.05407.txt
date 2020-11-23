@@ -1,0 +1,6 @@
+We/PRP describe/VBP a/DT simple/JJ scheme/NN that/WDT allows/VBZ an/DT agent/NN to/TO explore/VB its/PRP$ environment/NN in/IN an/DT unsupervised/JJ manner/NN ./.
+Our/PRP$ scheme/NN pits/NNS two/CD versions/NNS of/IN the/DT same/JJ agent/NN ,/, Alice/NNP and/CC Bob/NNP ,/, against/IN one/CD another/DT ./.
+Alice/NNP proposes/VBZ a/DT task/NN for/IN Bob/NNP to/TO complete/VB ;/: and/CC then/RB Bob/NNP attempts/VBZ to/TO complete/VB the/DT task/NN ./.
+In/IN this/DT work/NN we/PRP will/MD focus/VB on/IN (/-LRB- nearly/RB )/-RRB- reversible/JJ environments/NNS ,/, or/CC environments/NNS that/WDT can/MD be/VB reset/VBN ,/, and/CC Alice/NNP will/MD "/`` propose/VB "/'' the/DT task/NN by/IN running/VBG a/DT set/NN of/IN actions/NNS and/CC then/RB Bob/NNP must/MD partially/RB undo/VB ,/, or/CC repeat/VB them/PRP ,/, respectively/RB ./.
+Via/NNP an/DT appropriate/JJ reward/NN structure/NN ,/, Alice/NNP and/CC Bob/NNP automatically/RB generate/VB a/DT curriculum/NN of/IN exploration/NN ,/, enabling/VBG unsupervised/JJ training/NN of/IN the/DT agent/NN ./.
+When/WRB deployed/VBN on/IN an/DT RL/NN task/NN within/IN the/DT environment/NN ,/, this/DT unsupervised/JJ training/NN reduces/VBZ the/DT number/NN of/IN episodes/NNS needed/VBN to/TO learn/VB ./.

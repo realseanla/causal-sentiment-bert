@@ -1,0 +1,6 @@
+Deep/JJ neural/JJ networks/NNS (/-LRB- DNN/NN )/-RRB- have/VBP been/VBN successfully/RB applied/VBN for/IN music/NN classification/NN including/VBG music/NN tagging/NN ./.
+However/RB ,/, there/EX are/VBP several/JJ open/JJ questions/NNS regarding/VBG generalisation/NN and/CC best/JJS practices/NNS in/IN the/DT choice/NN of/IN network/NN architectures/NNS ,/, hyper/JJ -/HYPH parameters/NNS and/CC input/NN representations/NNS ./.
+In/IN this/DT article/NN ,/, we/PRP investigate/VBP specific/JJ aspects/NNS of/IN neural/JJ networks/NNS to/TO deepen/VB our/PRP$ understanding/NN of/IN their/PRP$ properties/NNS ./.
+We/PRP analyse/VBP and/CC (/-LRB- re/IN -/HYPH )/-RRB- validate/VBP a/DT large/JJ music/NN tagging/VBG dataset/NN to/TO investigate/VB the/DT reliability/NN of/IN training/NN and/CC evaluation/NN ./.
+We/PRP perform/VBP comprehensive/JJ experiments/NNS involving/VBG audio/JJ preprocessing/NN using/VBG different/JJ time/NN -/HYPH frequency/NN representations/NNS ,/, logarithmic/JJ magnitude/NN compression/NN ,/, frequency/NN weighting/NN and/CC scaling/NN ./.
+Using/VBG a/DT trained/VBN network/NN ,/, we/PRP compute/VBP label/NN vector/NN similarities/NNS which/WDT is/VBZ compared/VBN to/IN groundtruth/JJ similarity/NN ./.

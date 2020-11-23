@@ -1,0 +1,4 @@
+A/DT statistical/JJ predictor/NN that/WDT is/VBZ deployed/VBN in/IN a/DT live/JJ production/NN system/NN may/MD perturb/VB the/DT features/NNS it/PRP uses/VBZ to/TO make/VB predictions/NNS ./.
+Such/PDT a/DT feedback/NN loop/NN can/MD occur/VB ,/, for/IN example/NN ,/, when/WRB a/DT model/NN that/WDT predicts/VBZ a/DT certain/JJ type/NN of/IN behavior/NN ends/VBZ up/RP causing/VBG the/DT behavior/NN it/PRP predicts/VBZ ,/, thus/RB creating/VBG a/DT self/NN -/HYPH fulfilling/VBG prophecy/NN ./.
+This/DT paper/NN analyzes/VBZ statistical/JJ feedback/NN detection/NN as/IN a/DT causal/JJ inference/NN problem/NN ,/, and/CC proposes/VBZ a/DT local/JJ randomization/NN scheme/NN that/WDT can/MD be/VB used/VBN to/TO detect/VB feedback/NN in/IN real/JJ -/HYPH world/NN problems/NNS ./.
+We/PRP apply/VBP our/PRP$ method/NN to/IN a/DT predictive/JJ model/NN currently/RB in/IN use/NN at/IN an/DT internet/NN company/NN ./.

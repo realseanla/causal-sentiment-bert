@@ -1,0 +1,5 @@
+Stochastic/JJ Constraint/NN Programming/NN (/-LRB- SCP/NN )/-RRB- is/VBZ an/DT extension/NN of/IN Constraint/NNP Programming/NNP (/-LRB- CP/NN )/-RRB- used/VBN for/IN modelling/NN and/CC solving/VBG problems/NNS involving/VBG constraints/NNS and/CC uncertainty/NN ./.
+SCP/NNP inherits/VBZ excellent/JJ modelling/NN abilities/NNS and/CC filtering/VBG algorithms/NNS from/IN CP/NN ,/, but/CC so/RB far/RB it/PRP has/VBZ not/RB been/VBN applied/VBN to/IN large/JJ problems/NNS ./.
+Reinforcement/NN Learning/NN (/-LRB- RL/NN )/-RRB- extends/VBZ Dynamic/JJ Programming/NN to/IN large/JJ stochastic/JJ problems/NNS ,/, but/CC is/VBZ problem/NN -/HYPH specific/JJ and/CC has/VBZ no/DT generic/JJ solvers/NNS ./.
+We/PRP propose/VBP a/DT hybrid/NN combining/VBG the/DT scalability/NN of/IN RL/NN with/IN the/DT modelling/NN and/CC constraint/NN filtering/NN methods/NNS of/IN CP/NN ./.
+We/PRP implement/VBP a/DT prototype/NN in/IN a/DT CP/NN system/NN and/CC demonstrate/VBP its/PRP$ usefulness/NN on/IN SCP/NN problems/NNS ./.

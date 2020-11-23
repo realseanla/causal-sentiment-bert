@@ -1,0 +1,4 @@
+Detecting/VBG hypernymy/NN relations/NNS is/VBZ a/DT key/JJ task/NN in/IN NLP/NNP ,/, which/WDT is/VBZ addressed/VBN in/IN the/DT literature/NN using/VBG two/CD complementary/JJ approaches/NNS ./.
+Distributional/JJ methods/NNS ,/, whose/WP$ supervised/JJ variants/NNS are/VBP the/DT current/JJ best/JJS performers/NNS ,/, and/CC path/NN -/HYPH based/VBN methods/NNS who/WP receive/VBP less/JJR research/NN attention/NN ./.
+We/PRP suggest/VBP an/DT improved/JJ path/NN -/HYPH based/VBN algorithm/NN ,/, in/IN which/WDT the/DT dependency/NN paths/NNS are/VBP encoded/VBN using/VBG a/DT recurrent/JJ neural/JJ network/NN ,/, and/CC achieve/VB results/NNS comparable/JJ to/IN distributional/JJ methods/NNS ./.
+We/PRP then/RB extend/VBP the/DT approach/NN to/TO integrate/VB both/DT path/NN -/HYPH based/VBN and/CC distributional/JJ signals/NNS ,/, significantly/RB improving/VBG the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN this/DT task/NN ./.

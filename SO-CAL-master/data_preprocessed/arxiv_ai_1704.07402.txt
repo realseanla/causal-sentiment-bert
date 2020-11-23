@@ -1,0 +1,9 @@
+This/DT manuscript/NN introduces/VBZ the/DT problem/NN of/IN prominent/JJ object/NN detection/NN and/CC recognition/NN ./.
+The/DT problem/NN deals/NNS with/IN finding/VBG the/DT most/RBS important/JJ region/NN of/IN interest/NN ,/, segmenting/VBG the/DT relevant/JJ item/NN //HYPH object/NN in/IN that/DT area/NN ,/, and/CC assigning/VBG it/PRP an/DT object/NN class/NN label/NN ./.
+In/IN other/JJ words/NNS ,/, we/PRP are/VBP solving/VBG the/DT three/CD problems/NNS of/IN saliency/NN modeling/NN ,/, saliency/NN detection/NN ,/, and/CC object/NN recognition/NN under/IN one/CD umbrella/NN ./.
+The/DT motivation/NN behind/IN such/PDT a/DT problem/NN formulation/NN is/VBZ 1/CD )/-RRB- the/DT benefits/NNS to/IN the/DT knowledge/NN representation/NN -/HYPH based/VBN vision/NN pipelines/NNS ,/, and/CC 2/LS )/-RRB- the/DT potential/JJ improvements/NNS in/IN emulating/VBG bio-inspired/JJ vision/NN systems/NNS by/IN solving/VBG these/DT three/CD problems/NNS together/RB ./.
+We/PRP propose/VBP a/DT method/NN as/IN a/DT baseline/NN for/IN further/JJ research/NN ./.
+The/DT proposed/VBN model/NN predicts/VBZ the/DT most/RBS important/JJ area/NN in/IN the/DT image/NN ,/, segments/NNS the/DT associated/JJ objects/NNS ,/, and/CC labels/VBZ them/PRP ./.
+The/DT proposed/VBN problem/NN and/CC method/NN are/VBP evaluated/VBN against/IN human/JJ fixations/NNS ,/, annotated/VBN segmentation/NN masks/NNS ,/, and/CC object/NN class/NN categories/NNS ./.
+We/PRP define/VBP a/DT chance/NN level/NN for/IN each/DT of/IN the/DT evaluation/NN criterion/NN to/TO compare/VB the/DT proposed/VBN algorithm/NN with/IN ./.
+Despite/IN the/DT good/JJ performance/NN of/IN the/DT proposed/VBN baseline/NN ,/, the/DT overall/JJ evaluations/NNS indicate/VBP that/IN the/DT problem/NN of/IN prominent/JJ object/NN detection/NN and/CC recognition/NN is/VBZ a/DT challenging/JJ task/NN that/WDT is/VBZ still/RB worth/JJ investigating/VBG further/RB ./.

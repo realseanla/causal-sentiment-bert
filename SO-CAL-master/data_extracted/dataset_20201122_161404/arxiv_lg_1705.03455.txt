@@ -1,0 +1,6 @@
+Conversational Language Understanding (CLU) is a key component of goal oriented dialogue systems that would parse user ut- terances into semantic frame representa- tions.
+Traditionally CLU does not utilize the dialogue history beyond the previous system turn and contextual ambiguities are resolved by the downstream components.
+In this paper, we explore novel approaches for modeling dialogue context in a re- current neural network (RNN) based lan- guage understanding system.
+We propose the Hierarchical Dialogue Encoder Net- work, that allows encoding context from the dialogue history in chronological or- der.
+We compare the performance of our proposed architecture with two context models, one that uses just the previous turn context and another that encodes dialogue context in a memory network, but loses the order of utterances in the dialogue his- tory.
+Experiments with a multi-domain di- alogue dataset demonstrate that the pro- posed architecture results in reduced se- mantic frame error rates.

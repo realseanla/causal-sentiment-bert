@@ -1,0 +1,6 @@
+We/PRP propose/VBP two/CD novel/JJ zero/CD -/HYPH shot/NN learning/NN methods/NNS for/IN semantic/JJ utterance/NN classification/NN (/-LRB- SUC/NN )/-RRB- using/VBG deep/JJ learning/NN ./.
+Both/DT approaches/NNS rely/VBP on/IN learning/VBG deep/JJ semantic/JJ embeddings/NNS from/IN a/DT large/JJ amount/NN of/IN Query/NNP Click/VB Log/NN data/NNS obtained/VBN from/IN a/DT search/NN engine/NN ./.
+Traditional/JJ semantic/JJ utterance/NN classification/NN systems/NNS require/VBP large/JJ amounts/NNS of/IN labelled/VBN data/NNS ,/, whereas/IN our/PRP$ proposed/VBN methods/NNS make/VBP use/NN of/IN the/DT structure/NN of/IN the/DT task/NN to/TO allow/VB classification/NN without/IN labeled/VBN data/NNS ./.
+We/PRP also/RB develop/VBP a/DT zero/CD -/HYPH shot/NN semantic/JJ clustering/NN algorithm/NN for/IN extracting/VBG discriminative/JJ features/NNS for/IN supervised/JJ semantic/JJ utterance/NN classification/NN systems/NNS ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN the/DT zero/CD -/HYPH shot/NN semantic/JJ learning/NN algorithm/NN on/IN the/DT SUC/NNP dataset/NN collected/VBN by/IN ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN extracting/VBG features/NNS using/VBG zero/CD -/HYPH shot/NN semantic/JJ clustering/NN for/IN a/DT linear/JJ SVM/NN reaches/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN result/NN on/IN that/DT dataset/NN ./.

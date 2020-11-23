@@ -1,0 +1,8 @@
+Pathfinding/NN is/VBZ a/DT very/RB popular/JJ area/NN in/IN computer/NN game/NN development/NN ./.
+While/IN two/CD -/HYPH dimensional/JJ (/-LRB- 2D/NN )/-RRB- pathfinding/NN is/VBZ widely/RB applied/VBN in/IN most/JJS of/IN the/DT popular/JJ game/NN engines/NNS ,/, little/JJ implementation/NN of/IN real/JJ three/CD -/HYPH dimensional/JJ (/-LRB- 3D/NN )/-RRB- pathfinding/NN can/MD be/VB found/VBN ./.
+This/DT research/NN presents/VBZ a/DT dynamic/JJ search/NN space/NN optimization/NN algorithm/NN which/WDT can/MD be/VB applied/VBN to/IN tessellate/NN 3D/NN search/NN space/NN unevenly/RB ,/, significantly/RB reducing/VBG the/DT total/JJ number/NN of/IN resulting/VBG nodes/NNS ./.
+The/DT algorithm/NN can/MD be/VB used/VBN with/IN popular/JJ pathfinding/NN algorithms/NNS in/IN 3D/JJ game/NN engines/NNS ./.
+Furthermore/RB ,/, a/DT simplified/JJ standalone/JJ 3D/NN pathfinding/NN algorithm/NN is/VBZ proposed/VBN in/IN this/DT paper/NN ./.
+The/DT proposed/VBN algorithm/NN relies/VBZ on/IN ray/NN -/HYPH casting/NN or/CC line/NN vision/NN to/TO generate/VB a/DT feasible/JJ path/NN during/IN runtime/NN without/IN requiring/VBG division/NN of/IN the/DT search/NN space/NN into/IN a/DT 3D/NN grid/NN ./.
+Both/DT of/IN the/DT proposed/VBN algorithms/NNS are/VBP simulated/VBN on/IN Unreal/JJ Engine/NN to/TO show/VB innerworkings/NNS and/CC resultant/JJ path/NN comparison/NN with/IN A/DT */NFP ./.
+The/DT advantages/NNS and/CC shortcomings/NNS of/IN the/DT proposed/VBN algorithms/NNS are/VBP also/RB discussed/VBN along/IN with/IN future/JJ directions/NNS ./.

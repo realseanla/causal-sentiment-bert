@@ -1,0 +1,8 @@
+Real/JJ life/NN data/NNS often/RB includes/VBZ information/NN from/IN different/JJ channels/NNS ./.
+For/IN example/NN ,/, in/IN computer/NN vision/NN ,/, we/PRP can/MD describe/VB an/DT image/NN using/VBG different/JJ image/NN features/NNS ,/, such/JJ as/IN pixel/NN intensity/NN ,/, color/NN ,/, HOG/NN ,/, GIST/NN feature/NN ,/, SIFT/NN features/NNS ,/, etc./FW ./.
+These/DT different/JJ aspects/NNS of/IN the/DT same/JJ objects/NNS are/VBP often/RB called/VBN multi-view/NN (/-LRB- or/CC multi-modal/JJ )/-RRB- data/NNS ./.
+Low/JJ -/HYPH rank/NN regression/NN model/NN has/VBZ been/VBN proved/VBN to/TO be/VB an/DT effective/JJ learning/NN mechanism/NN by/IN exploring/VBG the/DT low/JJ -/HYPH rank/NN structure/NN of/IN real/JJ life/NN data/NNS ./.
+But/CC previous/JJ low/JJ -/HYPH rank/NN regression/NN model/NN only/RB works/VBZ on/IN single/JJ view/NN data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT multi-view/JJ low/JJ -/HYPH rank/NN regression/NN model/NN by/IN imposing/VBG low/JJ -/HYPH rank/NN constraints/NNS on/IN multi-view/JJ regression/NN model/NN ./.
+Most/RBS importantly/RB ,/, we/PRP provide/VBP a/DT closed/JJ -/HYPH form/NN solution/NN to/IN the/DT multi-view/JJ low/JJ -/HYPH rank/NN regression/NN model/NN ./.
+Extensive/JJ experiments/NNS on/IN 4/CD multi-view/JJ datasets/NNS show/VBP that/IN the/DT multi-view/JJ low/JJ -/HYPH rank/NN regression/NN model/NN outperforms/VBZ single/JJ -/HYPH view/NN regression/NN model/NN and/CC reveals/VBZ that/IN multi-view/JJ low/JJ -/HYPH rank/NN structure/NN is/VBZ very/RB helpful/JJ ./.

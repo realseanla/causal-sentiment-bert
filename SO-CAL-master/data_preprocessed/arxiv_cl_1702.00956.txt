@@ -1,0 +1,7 @@
+Korea/NNP University/NNP Intelligent/NNP Signal/NNP Processing/NNP Lab/NNP ./.
+(/-LRB- KU/NNP -/HYPH ISPL/NNP )/-RRB- developed/VBD speaker/NN recognition/NN system/NN for/IN SRE16/NN fixed/VBN training/NN condition/NN ./.
+Data/NNS for/IN evaluation/NN trials/NNS are/VBP collected/VBN from/IN outside/IN North/NNP America/NNP ,/, spoken/VBN in/IN Tagalog/NNP and/CC Cantonese/NNP while/IN training/VBG data/NNS only/RB is/VBZ spoken/VBN English/NNP ./.
+Thus/RB ,/, main/JJ issue/NN for/IN SRE16/NN is/VBZ compensating/VBG the/DT discrepancy/NN between/IN different/JJ languages/NNS ./.
+As/IN development/NN dataset/NN which/WDT is/VBZ spoken/VBN in/IN Cebuano/NNP and/CC Mandarin/NNP ,/, we/PRP could/MD prepare/VB the/DT evaluation/NN trials/NNS through/IN preliminary/JJ experiments/NNS to/TO compensate/VB the/DT language/NN mismatched/VBN condition/NN ./.
+Our/PRP$ team/NN developed/VBD 4/CD different/JJ approaches/NNS to/TO extract/VB i/PRP -/HYPH vectors/NNS and/CC applied/VBD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN techniques/NNS as/IN backend/NN ./.
+To/TO compensate/VB language/NN mismatch/NN ,/, we/PRP investigated/VBD and/CC endeavored/VBD unique/JJ method/NN such/JJ as/IN unsupervised/JJ language/NN clustering/NN ,/, inter/AFX language/NN variability/NN compensation/NN and/CC gender/NN //HYPH language/NN dependent/JJ score/NN normalization/NN ./.

@@ -1,0 +1,5 @@
+Efficient/JJ exploration/NN in/IN complex/JJ environments/NNS remains/VBZ a/DT major/JJ challenge/NN for/IN reinforcement/NN learning/NN ./.
+We/PRP propose/VBP bootstrapped/VBN DQN/NNP ,/, a/DT simple/JJ algorithm/NN that/WDT explores/VBZ in/IN a/DT computationally/RB and/CC statistically/RB efficient/JJ manner/NN through/IN use/NN of/IN randomized/JJ value/NN functions/NNS ./.
+Unlike/IN dithering/VBG strategies/NNS such/JJ as/IN epsilon/NN -/HYPH greedy/JJ exploration/NN ,/, bootstrapped/VBN DQN/NNP carries/VBZ out/RP temporally/RB -/HYPH extended/VBN (/-LRB- or/CC deep/JJ )/-RRB- exploration/NN ;/: this/DT can/MD lead/VB to/IN exponentially/RB faster/RBR learning/VBG ./.
+We/PRP demonstrate/VBP these/DT benefits/NNS in/IN complex/JJ stochastic/JJ MDPs/NNS and/CC in/IN the/DT large/JJ -/HYPH scale/NN Arcade/NNP Learning/NNP Environment/NNP ./.
+Bootstrapped/VBN DQN/NNP substantially/RB improves/VBZ learning/NN times/NNS and/CC performance/NN across/IN most/JJS Atari/NNP games/NNS ./.

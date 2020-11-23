@@ -1,0 +1,7 @@
+We/PRP resolve/VBP an/DT open/JJ question/NN from/IN (/-LRB- Christiano/NNP ,/, 2014b/CD )/-RRB- posed/VBN in/IN COLT/NN '14/CD regarding/VBG the/DT optimal/JJ dependency/NN of/IN the/DT regret/NN achievable/JJ for/IN online/JJ local/JJ learning/NN on/IN the/DT size/NN of/IN the/DT label/NN set/NN ./.
+In/IN this/DT framework/NN the/DT algorithm/NN is/VBZ shown/VBN a/DT pair/NN of/IN items/NNS at/IN each/DT step/NN ,/, chosen/VBN from/IN a/DT set/NN of/IN $/$ n/NN $/$ items/NNS ./.
+The/DT learner/NN then/RB predicts/VBZ a/DT label/NN for/IN each/DT item/NN ,/, from/IN a/DT label/NN set/NN of/IN size/NN $/$ L$/CD and/CC receives/VBZ a/DT real/JJ valued/VBN payoff/NN ./.
+This/DT is/VBZ a/DT natural/JJ framework/NN which/WDT captures/VBZ many/JJ interesting/JJ scenarios/NNS such/JJ as/IN collaborative/JJ filtering/NN ,/, online/JJ gambling/NN ,/, and/CC online/JJ max/NN cut/NN among/IN others/NNS ./.
+(/-LRB- Christiano/NNP ,/, 2014a/CD )/-RRB- designed/VBN an/DT efficient/JJ online/JJ learning/NN algorithm/NN for/IN this/DT problem/NN achieving/VBG a/DT regret/NN of/IN $/$ O/UH (/-LRB- \/SYM sqrt/NN {/-LRB- nL/NN ^/SYM 3T/NN }/-RRB- )/-RRB- $/$ ,/, where/WRB $/$ T$/CD is/VBZ the/DT number/NN of/IN rounds/NNS ./.
+Information/NN theoretically/RB ,/, one/PRP can/MD achieve/VB a/DT regret/NN of/IN $/$ O/UH (/-LRB- \/SYM sqrt/NN {/-LRB- n/NN \/SYM log/NN L/NN T/NN }/-RRB- )/-RRB- $/$ ./.
+One/CD of/IN the/DT main/JJ open/JJ questions/NNS left/VBN in/IN this/DT framework/NN concerns/NNS closing/VBG the/DT above/JJ gap/NN ./.

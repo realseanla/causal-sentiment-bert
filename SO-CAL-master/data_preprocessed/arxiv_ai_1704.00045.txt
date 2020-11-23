@@ -1,0 +1,15 @@
+Ontology/NNP alignment/NN is/VBZ widely/RB used/VBN to/TO find/VB the/DT correspondences/NNS between/IN different/JJ ontologies/NNS in/IN diverse/JJ fields/NNS ./.
+After/IN discovering/VBG the/DT alignment/NN by/IN methods/NNS ,/, several/JJ performance/NN scores/NNS are/VBP available/JJ to/TO evaluate/VB them/PRP ./.
+The/DT scores/NNS require/VBP the/DT produced/VBN alignment/NN by/IN a/DT method/NN and/CC the/DT reference/NN alignment/NN containing/VBG the/DT underlying/VBG actual/JJ correspondences/NNS of/IN the/DT given/VBN ontologies/NNS ./.
+The/DT current/JJ trend/NN in/IN alignment/NN evaluation/NN is/VBZ to/TO put/VB forward/RB a/DT new/JJ score/NN and/CC to/TO compare/VB various/JJ alignments/NNS by/IN juxtaposing/VBG their/PRP$ performance/NN scores/NNS ./.
+However/RB ,/, it/PRP is/VBZ substantially/RB provocative/JJ to/TO select/VB one/CD performance/NN score/NN among/IN others/NNS for/IN comparison/NN ./.
+On/IN top/NN of/IN that/DT ,/, claiming/VBG if/IN one/CD method/NN has/VBZ a/DT better/JJR performance/NN than/IN one/CD another/DT can/MD not/RB be/VB substantiated/VBN by/IN solely/RB comparing/VBG the/DT scores/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP the/DT statistical/JJ procedures/NNS which/WDT enable/VBP us/PRP to/TO theoretically/RB favor/VB one/CD method/NN over/IN one/CD another/DT ./.
+The/DT McNemar/NNP test/NN is/VBZ considered/VBN as/IN a/DT reliable/JJ and/CC suitable/JJ means/NNS for/IN comparing/VBG two/CD ontology/NN alignment/NN methods/NNS over/IN one/CD matching/VBG task/NN ./.
+The/DT test/NN applies/VBZ to/IN a/DT 2/CD x/SYM 2/CD contingency/NN table/NN which/WDT can/MD be/VB constructed/VBN in/IN two/CD different/JJ ways/NNS based/VBN on/IN the/DT alignments/NNS ,/, each/DT of/IN which/WDT has/VBZ their/PRP$ own/JJ merits/NNS //, pitfalls/NNS ./.
+The/DT ways/NNS of/IN the/DT contingency/NN table/NN construction/NN and/CC various/JJ apposite/JJ statistics/NNS from/IN the/DT McNemar/NNP test/NN are/VBP elaborated/VBN in/IN minute/NN detail/NN ./.
+In/IN the/DT case/NN of/IN having/VBG more/JJR than/IN two/CD alignment/NN methods/NNS for/IN comparison/NN ,/, the/DT family-wise/JJ error/NN rate/NN is/VBZ expected/VBN to/TO happen/VB ./.
+Thus/RB ,/, the/DT ways/NNS of/IN preventing/VBG such/PDT an/DT error/NN are/VBP also/RB discussed/VBN ./.
+A/DT directed/JJ graph/NN visualizes/VBZ the/DT outcome/NN of/IN the/DT McNemar/NNP test/NN in/IN the/DT presence/NN of/IN multiple/JJ alignment/NN methods/NNS ./.
+From/IN this/DT graph/NN ,/, it/PRP is/VBZ readily/RB understood/VBN if/IN one/CD method/NN is/VBZ better/JJR than/IN one/CD another/DT or/CC if/IN their/PRP$ differences/NNS are/VBP imperceptible/JJ ./.
+Our/PRP$ investigation/NN on/IN the/DT methods/NNS participated/VBD in/IN the/DT anatomy/NN track/NN of/IN OAEI/NNP 2016/CD demonstrates/VBZ that/IN AML/NNP and/CC CroMatcher/NNP are/VBP the/DT top/JJ two/CD methods/NNS and/CC DKP/NN -/HYPH AOM/NN and/CC Alin/NNP are/VBP the/DT bottom/JJ two/CD ones/NNS ./.

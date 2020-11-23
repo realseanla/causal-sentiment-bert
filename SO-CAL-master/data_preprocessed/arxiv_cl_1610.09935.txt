@@ -1,0 +1,10 @@
+We/PRP address/VBP the/DT novel/JJ problem/NN of/IN automatically/RB generating/VBG quiz/NN -/HYPH style/NN knowledge/NN questions/NNS from/IN a/DT knowledge/NN graph/NN such/JJ as/IN DBpedia/NNP ./.
+Questions/NNS of/IN this/DT kind/NN have/VBP ample/JJ applications/NNS ,/, for/IN instance/NN ,/, to/TO educate/VB users/NNS about/RB or/CC to/TO evaluate/VB their/PRP$ knowledge/NN in/IN a/DT specific/JJ domain/NN ./.
+To/TO solve/VB the/DT problem/NN ,/, we/PRP propose/VBP an/DT end/NN -/HYPH to/IN -/HYPH end/NN approach/NN ./.
+The/DT approach/NN first/JJ selects/VBZ a/DT named/VBN entity/NN from/IN the/DT knowledge/NN graph/NN as/IN an/DT answer/NN ./.
+It/PRP then/RB generates/VBZ a/DT structured/JJ triple/JJ -/HYPH pattern/NN query/NN ,/, which/WDT yields/VBZ the/DT answer/NN as/IN its/PRP$ sole/JJ result/NN ./.
+If/IN a/DT multiple/JJ -/HYPH choice/NN question/NN is/VBZ desired/VBN ,/, the/DT approach/NN selects/VBZ alternative/JJ answer/NN options/NNS ./.
+Finally/RB ,/, our/PRP$ approach/NN uses/VBZ a/DT template/NN -/HYPH based/VBN method/NN to/TO verbalize/VB the/DT structured/JJ query/NN and/CC yield/VB a/DT natural/JJ language/NN question/NN ./.
+A/DT key/JJ challenge/NN is/VBZ estimating/VBG how/WRB difficult/JJ the/DT generated/VBN question/NN is/VBZ to/IN human/JJ users/NNS ./.
+To/TO do/VB this/DT ,/, we/PRP make/VBP use/NN of/IN historical/JJ data/NNS from/IN the/DT Jeopardy!/NN quiz/NN show/NN and/CC a/DT semantically/RB annotated/VBN Web/NN -/HYPH scale/NN document/NN collection/NN ,/, engineer/NN suitable/JJ features/NNS ,/, and/CC train/VB a/DT logistic/JJ regression/NN classifier/NN to/TO predict/VB question/NN difficulty/NN ./.
+Experiments/NNS demonstrate/VBP the/DT viability/NN of/IN our/PRP$ overall/JJ approach/NN ./.

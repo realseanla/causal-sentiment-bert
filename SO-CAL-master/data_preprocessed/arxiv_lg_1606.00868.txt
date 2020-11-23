@@ -1,0 +1,5 @@
+Quantification/NN is/VBZ the/DT machine/NN learning/VBG task/NN of/IN estimating/VBG test/NN -/HYPH data/NNS class/NN proportions/NNS that/WDT are/VBP not/RB necessarily/RB similar/JJ to/IN those/DT in/IN training/NN ./.
+Apart/RB from/IN its/PRP$ intrinsic/JJ value/NN as/IN an/DT aggregate/JJ statistic/NN ,/, quantification/NN output/NN can/MD also/RB be/VB used/VBN to/TO optimize/VB classifier/NN probabilities/NNS ,/, thereby/RB increasing/VBG classification/NN accuracy/NN ./.
+We/PRP unify/VBP major/JJ quantification/NN approaches/NNS under/IN a/DT constrained/VBN multi-variate/JJ regression/NN framework/NN ,/, and/CC use/VB mathematical/JJ programming/NN to/TO estimate/VB class/NN proportions/NNS for/IN different/JJ loss/NN functions/NNS ./.
+With/IN this/DT modeling/NN approach/NN ,/, we/PRP extend/VBP existing/VBG binary/JJ -/HYPH only/JJ quantification/NN approaches/VBZ to/TO multi-class/VB settings/NNS as/RB well/RB ./.
+We/PRP empirically/RB verify/VBP our/PRP$ unified/JJ framework/NN by/IN experimenting/VBG with/IN several/JJ multi-class/JJ datasets/NNS including/VBG the/DT Stanford/NNP Sentiment/NN Treebank/NNP and/CC CIFAR/NNP -/HYPH 10/CD ./.

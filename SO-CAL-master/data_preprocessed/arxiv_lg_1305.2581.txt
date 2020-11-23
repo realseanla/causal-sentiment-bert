@@ -1,0 +1,4 @@
+Stochastic/JJ dual/JJ coordinate/NN ascent/NN (/-LRB- SDCA/NN )/-RRB- is/VBZ an/DT effective/JJ technique/NN for/IN solving/VBG regularized/VBN loss/NN minimization/NN problems/NNS in/IN machine/NN learning/NN ./.
+This/DT paper/NN considers/VBZ an/DT extension/NN of/IN SDCA/NNP under/IN the/DT mini-batch/NN setting/VBG that/DT is/VBZ often/RB used/VBN in/IN practice/NN ./.
+Our/PRP$ main/JJ contribution/NN is/VBZ to/TO introduce/VB an/DT accelerated/VBN mini-batch/NN version/NN of/IN SDCA/NNP and/CC prove/VB a/DT fast/JJ convergence/NN rate/NN for/IN this/DT method/NN ./.
+We/PRP discuss/VBP an/DT implementation/NN of/IN our/PRP$ method/NN over/IN a/DT parallel/JJ computing/NN system/NN ,/, and/CC compare/VB the/DT results/NNS to/IN both/CC the/DT vanilla/NN stochastic/JJ dual/JJ coordinate/NN ascent/NN and/CC to/IN the/DT accelerated/VBN deterministic/JJ gradient/NN descent/NN method/NN of/IN ./.

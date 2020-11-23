@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, a/DT progressive/JJ learning/NN algorithm/NN for/IN multi-label/JJ classification/NN to/TO learn/VB new/JJ labels/NNS while/IN retaining/VBG the/DT knowledge/NN of/IN previous/JJ labels/NNS is/VBZ designed/VBN ./.
+New/JJ output/NN neurons/NNS corresponding/VBG to/IN new/JJ labels/NNS are/VBP added/VBN and/CC the/DT neural/JJ network/NN connections/NNS and/CC parameters/NNS are/VBP automatically/RB restructured/VBN as/IN if/IN the/DT label/NN has/VBZ been/VBN introduced/VBN from/IN the/DT beginning/NN ./.
+This/DT work/NN is/VBZ the/DT first/JJ of/IN the/DT kind/NN in/RB multi-label/JJ classifier/NN for/IN class/NN -/HYPH incremental/JJ learning/NN ./.
+It/PRP is/VBZ useful/JJ for/IN real/JJ -/HYPH world/NN applications/NNS such/JJ as/IN robotics/NNS where/WRB streaming/NN data/NNS are/VBP available/JJ and/CC the/DT number/NN of/IN labels/NNS is/VBZ often/RB unknown/JJ ./.
+Based/VBN on/IN the/DT Extreme/NNP Learning/NNP Machine/NNP framework/NN ,/, a/DT novel/JJ universal/JJ classifier/NN with/IN plug/NN and/CC play/VB capabilities/NNS for/IN progressive/JJ multi-label/NN classification/NN is/VBZ developed/VBN ./.
+Experimental/JJ results/NNS on/IN various/JJ benchmark/NN synthetic/JJ and/CC real/JJ datasets/NNS validate/VBP the/DT efficiency/NN and/CC effectiveness/NN of/IN our/PRP$ proposed/VBN algorithm/NN ./.

@@ -1,0 +1,4 @@
+The paper deals with word sense induction from lexical co-occurrence graphs.
+We construct such graphs on large Russian corpora and then apply this data to cluster the results of Mail.ru search according to meanings of the query.
+We compare different methods of performing such clustering and different source corpora.
+Models of applying distributional semantics to big linguistic data are described.

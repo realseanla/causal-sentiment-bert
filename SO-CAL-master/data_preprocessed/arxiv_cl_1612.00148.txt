@@ -1,0 +1,6 @@
+Content/NN on/IN the/DT Internet/NN is/VBZ heterogeneous/JJ and/CC arises/VBZ from/IN various/JJ domains/NNS like/IN News/NNP ,/, Entertainment/NNP ,/, Finance/NNP and/CC Technology/NNP ./.
+Understanding/VBG such/JJ content/NN requires/VBZ identifying/VBG named/VBN entities/NNS (/-LRB- persons/NNS ,/, places/NNS and/CC organizations/NNS )/-RRB- as/IN one/CD of/IN the/DT key/JJ steps/NNS ./.
+Traditionally/RB Named/VBN Entity/NNP Recognition/NNP (/-LRB- NER/NN )/-RRB- systems/NNS have/VBP been/VBN built/VBN using/VBG available/JJ annotated/VBN datasets/NNS (/-LRB- like/IN CoNLL/NNP ,/, MUC/NNP )/-RRB- and/CC demonstrate/VBP excellent/JJ performance/NN ./.
+However/RB ,/, these/DT models/NNS fail/VBP to/TO generalize/VB onto/IN other/JJ domains/NNS like/IN Sports/NNPS and/CC Finance/NNP where/WRB conventions/NNS and/CC language/NN use/NN can/MD differ/VB significantly/RB ./.
+Furthermore/RB ,/, several/JJ domains/NNS do/VBP not/RB have/VB large/JJ amounts/NNS of/IN annotated/VBN labeled/VBN data/NNS for/IN training/NN robust/JJ Named/VBN Entity/NN Recognition/NN models/NNS ./.
+A/DT key/JJ step/NN towards/IN this/DT challenge/NN is/VBZ to/TO adapt/VB models/NNS learned/VBN on/IN domains/NNS where/WRB large/JJ amounts/NNS of/IN annotated/JJ training/NN data/NNS are/VBP available/JJ to/IN domains/NNS with/IN scarce/JJ annotated/JJ data/NNS ./.

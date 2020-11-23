@@ -1,0 +1,8 @@
+Existing/VBG deep/JJ convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- architectures/NNS are/VBP trained/VBN as/IN N/NN -/HYPH way/NN classifiers/NNS to/TO distinguish/VB between/IN N/NN output/NN classes/NNS ./.
+This/DT work/NN builds/VBZ on/IN the/DT intuition/NN that/WDT not/RB all/DT classes/NNS are/VBP equally/RB difficult/JJ to/TO distinguish/VB from/IN a/DT true/JJ class/NN label/NN ./.
+Towards/IN this/DT end/NN ,/, we/PRP introduce/VBP hierarchical/JJ branching/NN CNNs/NNS ,/, named/VBN as/IN Hierarchical/JJ Deep/JJ CNN/NNP (/-LRB- HD/NN -/HYPH CNN/NN )/-RRB- ,/, wherein/WRB classes/NNS that/WDT can/MD be/VB easily/RB distinguished/VBN are/VBP classified/VBN in/IN the/DT higher/JJR layer/NN coarse/JJ category/NN CNN/NNP ,/, while/IN the/DT most/RBS difficult/JJ classifications/NNS are/VBP done/VBN on/IN lower/JJR layer/NN fine/JJ category/NN CNN/NNP ./.
+We/PRP propose/VBP utilizing/VBG a/DT multinomial/JJ logistic/JJ loss/NN and/CC a/DT novel/JJ temporal/JJ sparsity/NN penalty/NN for/IN HD/NN -/HYPH CNN/NN training/NN ./.
+Together/RB they/PRP ensure/VB each/DT branching/NN component/NN deals/NNS with/IN a/DT subset/NN of/IN categories/NNS confusing/VBG to/IN each/DT other/JJ ./.
+This/DT new/JJ network/NN architecture/NN adopts/VBZ coarse/JJ -/HYPH to/IN -/HYPH fine/JJ classification/NN strategy/NN and/CC module/NN design/NN principle/NN ./.
+The/DT proposed/VBN model/NN achieves/VBZ superior/JJ performance/NN over/IN standard/JJ models/NNS ./.
+We/PRP demonstrate/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN CIFAR100/NN benchmark/NN ./.

@@ -1,0 +1,6 @@
+We propose a new evaluation for automatic solvers for algebra word problems, which can identify reasoning mistakes that existing evaluations overlook.
+Our proposal is to use derivations for evaluations, which reflect the reasoning process of the solver by explaining how the equation system was constructed.
+We accomplish this by developing an algorithm for checking the equivalence between two derivations, and showing how derivation annotations can be semi-automatically added to existing datasets.
+To make our experiments more comprehensive, we also annotated DRAW-1K , a new dataset of 1000 general algebra word problems.
+In total, our experiments span over 2300 algebra word problems.
+We found that the annotated derivation enable a superior evaluation of automatic solvers than previously used metrics.

@@ -1,0 +1,6 @@
+Sequence/NN -/HYPH to/IN -/HYPH sequence/NN models/NNS have/VBP shown/VBN success/NN in/IN end/NN -/HYPH to/IN -/HYPH end/NN speech/NN recognition/NN ./.
+However/RB these/DT models/NNS have/VBP only/RB used/VBN shallow/JJ acoustic/JJ encoder/NN networks/NNS ./.
+In/IN our/PRP$ work/NN ,/, we/PRP successively/RB train/VBP very/RB deep/JJ convolutional/JJ networks/NNS to/TO add/VB more/JJR expressive/JJ power/NN and/CC better/JJR generalization/NN for/IN end/NN -/HYPH to/IN -/HYPH end/NN ASR/NN models/NNS ./.
+We/PRP apply/VBP network/NN -/HYPH in/IN -/HYPH network/NN principles/NNS ,/, batch/NN normalization/NN ,/, residual/JJ connections/NNS and/CC convolutional/JJ LSTMs/NNS to/TO build/VB very/RB deep/JJ recurrent/JJ and/CC convolutional/JJ structures/NNS ./.
+Our/PRP$ models/NNS exploit/VBP the/DT spectral/JJ structure/NN in/IN the/DT feature/NN space/NN and/CC add/VB computational/JJ depth/NN without/IN overfitting/VBG issues/NNS ./.
+We/PRP experiment/VBP with/IN the/DT WSJ/NNP ASR/NN task/NN and/CC achieve/VB 10.5/CD \/SYM percent/NN word/NN error/NN rate/NN without/IN any/DT dictionary/NN or/CC language/NN using/VBG a/DT 15/CD layer/NN deep/JJ network/NN ./.

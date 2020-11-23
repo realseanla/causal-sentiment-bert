@@ -1,0 +1,11 @@
+Recently/RB ,/, Stochastic/NNP Neighbor/NNP Embedding/NNP (/-LRB- SNE/NNP )/-RRB- methods/NNS have/VBP widely/RB been/VBN applied/VBN in/IN data/NNS visualization/NN ./.
+These/DT methods/NNS minimize/VB the/DT divergence/NN between/IN the/DT pairwise/JJ similarities/NNS of/IN high/JJ -/HYPH and/CC low/JJ -/HYPH dimensional/JJ data/NNS ./.
+Despite/IN their/PRP$ popularity/NN ,/, the/DT current/JJ SNE/NN methods/NNS experience/VBP the/DT "/`` crowding/VBG problem/NN "/'' when/WRB the/DT data/NNS include/VBP highly/RB imbalanced/JJ similarities/NNS ./.
+This/DT implies/VBZ that/IN the/DT data/NNS points/VBZ with/IN higher/JJR total/JJ similarity/NN tend/VBP to/TO get/VB crowded/VBN around/IN the/DT display/NN center/NN ./.
+To/TO solve/VB this/DT problem/NN ,/, we/PRP normalize/VBP the/DT similarity/NN matrix/NN to/TO be/VB doubly/RB stochastic/JJ such/JJ that/IN all/PDT the/DT data/NNS points/NNS have/VBP equal/JJ total/JJ similarities/NNS ./.
+A/DT fast/JJ normalization/NN method/NN is/VBZ proposed/VBN ./.
+Furthermore/RB ,/, we/PRP show/VBP empirically/RB and/CC theoretically/RB that/IN the/DT doubly/RB stochasticity/JJ constraint/NN often/RB leads/VBZ to/IN approximately/RB spherical/JJ embeddings/NNS ./.
+This/DT suggests/VBZ replacing/VBG a/DT flat/JJ space/NN with/IN spheres/NNS as/IN the/DT embedding/NN space/NN ./.
+The/DT spherical/JJ embedding/NN eliminates/VBZ the/DT discrepancy/NN between/IN the/DT center/NN and/CC the/DT periphery/NN in/IN visualization/NN and/CC thus/RB resolves/VBZ the/DT "/`` crowding/VBG problem/NN "/'' ./.
+We/PRP compared/VBD the/DT proposed/JJ method/NN with/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN SNE/NN method/NN on/IN three/CD real/JJ -/HYPH world/NN datasets/NNS ./.
+The/DT results/NNS indicate/VBP that/IN our/PRP$ method/NN is/VBZ more/RBR favorable/JJ in/IN terms/NNS of/IN visualization/NN quality/NN ./.

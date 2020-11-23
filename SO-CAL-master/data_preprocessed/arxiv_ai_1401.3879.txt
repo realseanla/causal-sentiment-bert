@@ -1,0 +1,10 @@
+In/IN many/JJ combinatorial/JJ problems/NNS one/CD may/MD need/VB to/TO model/VB the/DT diversity/NN or/CC similarity/NN of/IN assignments/NNS in/IN a/DT solution/NN ./.
+For/IN example/NN ,/, one/CD may/MD wish/VB to/TO maximise/VB or/CC minimise/VB the/DT number/NN of/IN distinct/JJ values/NNS in/IN a/DT solution/NN ./.
+To/TO formulate/VB problems/NNS of/IN this/DT type/NN ,/, we/PRP can/MD use/VB soft/JJ variants/NNS of/IN the/DT well/RB known/VBN AllDifferent/NNP and/CC AllEqual/NNP constraints/NNS ./.
+We/PRP present/VBP a/DT taxonomy/NN of/IN six/CD soft/JJ global/JJ constraints/NNS ,/, generated/VBN by/IN combining/VBG the/DT two/CD latter/JJ ones/NNS and/CC the/DT two/CD standard/JJ cost/NN functions/NNS ,/, which/WDT are/VBP either/RB maximised/VBN or/CC minimised/VBN ./.
+We/PRP characterise/VBP the/DT complexity/NN of/IN achieving/VBG arc/NN and/CC bounds/NNS consistency/NN on/IN these/DT constraints/NNS ,/, resolving/VBG those/DT cases/NNS for/IN which/WDT NP/NN -/HYPH hardness/NN was/VBD neither/CC proven/JJ nor/CC disproven/JJ ./.
+In/IN particular/JJ ,/, we/PRP explore/VBP in/IN depth/NN the/DT constraint/NN ensuring/VBG that/IN at/IN least/RBS k/CD pairs/NNS of/IN variables/NNS have/VBP a/DT common/JJ value/NN ./.
+We/PRP show/VBP that/IN achieving/VBG arc/NN consistency/NN is/VBZ NP/NNP -/HYPH hard/JJ ,/, however/RB achieving/VBG bounds/NNS consistency/NN can/MD be/VB done/VBN in/IN polynomial/JJ time/NN through/IN dynamic/JJ programming/NN ./.
+Moreover/RB ,/, we/PRP show/VBP that/IN the/DT maximum/JJ number/NN of/IN pairs/NNS of/IN equal/JJ variables/NNS can/MD be/VB approximated/VBN by/IN a/DT factor/NN 1/2/CD with/IN a/DT linear/JJ time/NN greedy/JJ algorithm/NN ./.
+Finally/RB ,/, we/PRP provide/VBP a/DT fixed/VBN parameter/NN tractable/JJ algorithm/NN with/IN respect/NN to/IN the/DT number/NN of/IN values/NNS appearing/VBG in/IN more/JJR than/IN two/CD distinct/JJ domains/NNS ./.
+Interestingly/RB ,/, this/DT taxonomy/NN shows/VBZ that/IN enforcing/VBG equality/NN is/VBZ harder/JJR than/IN enforcing/VBG difference/NN ./.

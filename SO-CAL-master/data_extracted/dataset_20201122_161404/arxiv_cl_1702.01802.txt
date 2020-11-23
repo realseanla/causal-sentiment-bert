@@ -1,0 +1,7 @@
+Knowledge distillation describes a method for training a student network to perform better by learning from a stronger teacher network.
+In this work, we run experiments with different kinds of teacher net- works to enhance the translation performance of a student Neural Machine Translation (NMT) network.
+We demonstrate techniques based on an ensemble and a best BLEU teacher network.
+We also show how to benefit from a teacher network that has the same architecture and dimensions of the student network.
+Further- more, we introduce a data filtering technique based on the dissimilarity between the forward translation (obtained during knowledge distillation) of a given source sentence and its target reference.
+We use TER to measure dissimilarity.
+Finally, we show that an ensemble teacher model can significantly reduce the student model size while still getting performance improvements compared to the baseline student network.

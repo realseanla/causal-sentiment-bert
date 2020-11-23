@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT method/NN combining/VBG relational/JJ -/HYPH logic/NN representations/NNS with/IN deep/JJ neural/JJ network/NN learning/NN ./.
+Domain/NN -/HYPH specific/JJ knowledge/NN is/VBZ described/VBN through/IN relational/JJ rules/NNS which/WDT may/MD be/VB handcrafted/VBN or/CC learned/VBN ./.
+The/DT relational/JJ rule/NN -/HYPH set/NN serves/VBZ as/IN a/DT template/NN for/IN unfolding/VBG possibly/RB deep/JJ neural/JJ networks/NNS whose/WP$ structures/NNS also/RB reflect/VBP the/DT structure/NN of/IN given/VBN training/NN or/CC testing/NN examples/NNS ./.
+Different/JJ networks/NNS corresponding/VBG to/IN different/JJ examples/NNS share/VBP their/PRP$ weights/NNS ,/, which/WDT co-evolve/VBP during/IN training/NN by/IN stochastic/JJ gradient/NN descend/VBP algorithm/NN ./.
+Notable/JJ relational/JJ concepts/NNS can/MD be/VB discovered/VBN by/IN interpreting/VBG shared/VBN hidden/JJ layer/NN weights/NNS corresponding/VBG to/IN the/DT rules/NNS ./.
+Experiments/NNS on/IN 78/CD relational/JJ learning/NN benchmarks/NNS demonstrate/VBP the/DT favorable/JJ performance/NN of/IN the/DT method/NN ./.

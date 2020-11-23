@@ -1,0 +1,9 @@
+Classification/NN performance/NN is/VBZ often/RB not/RB uniform/JJ over/IN the/DT data/NNS ./.
+Some/DT areas/NNS in/IN the/DT input/NN space/NN are/VBP easier/JJR to/TO classify/VB than/IN others/NNS ./.
+Features/NNS that/WDT hold/VBP information/NN about/IN the/DT "/`` difficulty/NN "/'' of/IN the/DT data/NNS may/MD be/VB non-discriminative/JJ and/CC are/VBP therefore/RB disregarded/VBN in/IN the/DT classification/NN process/NN ./.
+We/PRP propose/VBP a/DT meta/NN -/HYPH learning/NN approach/NN where/WRB performance/NN may/MD be/VB improved/VBN by/IN post-processing/JJ ./.
+This/DT improvement/NN is/VBZ done/VBN by/IN establishing/VBG a/DT dynamic/JJ threshold/NN on/IN the/DT base/NN -/HYPH classifier/NN results/NNS ./.
+Since/IN the/DT base/NN -/HYPH classifier/NN is/VBZ treated/VBN as/IN a/DT "/`` black/JJ box/NN "/'' the/DT method/NN presented/VBD can/MD be/VB used/VBN on/IN any/DT state/NN of/IN the/DT art/NN classifier/NN in/IN order/NN to/TO try/VB an/DT improve/VB its/PRP$ performance/NN ./.
+We/PRP focus/VBP our/PRP$ attention/NN on/IN how/WRB to/TO better/RBR control/VB the/DT true/JJ -/HYPH positive/JJ //HYPH false/JJ -/HYPH positive/JJ trade/NN -/HYPH off/RB known/VBN as/IN the/DT ROC/NNP curve/NN ./.
+We/PRP propose/VBP an/DT algorithm/NN for/IN the/DT derivation/NN of/IN optimal/JJ thresholds/NNS by/IN redistributing/VBG the/DT error/NN depending/VBG on/IN features/NNS that/WDT hold/VBP information/NN about/IN difficulty/NN ./.
+We/PRP demonstrate/VBP the/DT resulting/VBG benefit/NN on/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH life/NN data/NNS ./.

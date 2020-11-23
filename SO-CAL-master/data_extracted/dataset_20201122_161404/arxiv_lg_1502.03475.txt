@@ -1,0 +1,6 @@
+This paper investigates stochastic and adversarial combinatorial multi-armed bandit problems.
+In the stochastic setting, we first derive problem-specific regret lower bounds, and analyze how these bounds scale with the dimension of the decision space.
+We then propose COMBUCB, algorithms that efficiently exploit the combinatorial structure of the problem, and derive finite-time upper bound on their regrets.
+These bounds improve over regret upper bounds of existing algorithms, and we show numerically thatCOMBUCB significantly outperforms any other algorithm.
+In the adversarial setting, we propose two simple algorithms, namely COMBEXP-1 and COMBEXP-2 for semi-bandit and bandit feedback, respectively.
+Their regrets have similar scaling as state-of-the-art algorithms, in spite of the simplicity of their implementation.

@@ -1,0 +1,5 @@
+A/DT number/NN of/IN problems/NNS can/MD be/VB formulated/VBN as/IN prediction/NN on/IN graph/NN -/HYPH structured/VBN data/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP generalize/VBP the/DT convolution/NN operator/NN from/IN regular/JJ grids/NNS to/IN arbitrary/JJ graphs/NNS while/IN avoiding/VBG the/DT spectral/JJ domain/NN ,/, which/WDT allows/VBZ us/PRP to/TO handle/VB graphs/NNS of/IN varying/VBG size/NN and/CC connectivity/NN ./.
+To/TO move/VB beyond/IN a/DT simple/JJ diffusion/NN ,/, filter/NN weights/NNS are/VBP conditioned/VBN on/IN the/DT specific/JJ edge/NN labels/NNS in/IN the/DT neighborhood/NN of/IN a/DT vertex/NN ./.
+Together/RB with/IN the/DT proper/JJ choice/NN of/IN graph/NN coarsening/NN ,/, we/PRP explore/VBP constructing/VBG deep/JJ neural/JJ networks/NNS for/IN graph/NN classification/NN ./.
+In/IN particular/JJ ,/, we/PRP demonstrate/VBP the/DT generality/NN of/IN our/PRP$ formulation/NN in/IN point/NN cloud/NN classification/NN ,/, where/WRB we/PRP set/VBD the/DT new/JJ state/NN of/IN the/DT art/NN ,/, and/CC on/IN a/DT graph/NN classification/NN dataset/NN ,/, where/WRB we/PRP outperform/VBP other/JJ deep/JJ learning/NN approaches/NNS ./.

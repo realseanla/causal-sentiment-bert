@@ -1,0 +1,4 @@
+We/PRP consider/VBP the/DT partial/JJ observability/NN model/NN for/IN multi-armed/JJ bandits/NNS ,/, introduced/VBN by/IN Mannor/NNP and/CC Shamir/NNP ./.
+Our/PRP$ main/JJ result/NN is/VBZ a/DT characterization/NN of/IN regret/NN in/IN the/DT directed/VBN observability/NN model/NN in/IN terms/NNS of/IN the/DT dominating/VBG and/CC independence/NN numbers/NNS of/IN the/DT observability/NN graph/NN ./.
+We/PRP also/RB show/VBP that/IN in/IN the/DT undirected/JJ case/NN ,/, the/DT learner/NN can/MD achieve/VB optimal/JJ regret/NN without/IN even/RB accessing/VBG the/DT observability/NN graph/NN before/IN selecting/VBG an/DT action/NN ./.
+Both/DT results/NNS are/VBP shown/VBN using/VBG variants/NNS of/IN the/DT Exp3/NN algorithm/NN operating/VBG on/IN the/DT observability/NN graph/NN in/IN a/DT time/NN -/HYPH efficient/JJ manner/NN ./.

@@ -1,0 +1,16 @@
+In/IN many/JJ recommendation/NN applications/NNS such/JJ as/IN news/NN recommendation/NN ,/, the/DT items/NNS that/WDT can/MD be/VB rec/NN -/HYPH ommended/VBN come/VBN and/CC go/VB at/IN a/DT very/RB fast/JJ pace/NN ./.
+This/DT is/VBZ a/DT challenge/NN for/IN recommender/NN systems/NNS (/-LRB- RS/NN )/-RRB- to/TO face/VB this/DT setting/NN ./.
+Online/NN learning/NN algorithms/NNS seem/VBP to/TO be/VB the/DT most/RBS straight/JJ forward/JJ solution/NN ./.
+The/DT contextual/JJ bandit/NN framework/NN was/VBD introduced/VBN for/IN that/DT very/RB purpose/NN ./.
+In/IN general/JJ the/DT evaluation/NN of/IN a/DT RS/NN is/VBZ a/DT critical/JJ issue/NN ./.
+Live/VB evaluation/NN is/VBZ of/IN -/HYPH ten/CD avoided/VBD due/IN to/IN the/DT potential/JJ loss/NN of/IN revenue/NN ,/, hence/RB the/DT need/NN for/IN offline/RB evaluation/NN methods/NNS ./.
+Two/CD options/NNS are/VBP available/JJ ./.
+Model/NN based/VBN meth/NN -/HYPH ods/NNS are/VBP biased/VBN by/IN nature/NN and/CC are/VBP thus/RB difficult/JJ to/TO trust/VB when/WRB used/VBN alone/RB ./.
+Data/NNS driven/VBN methods/NNS are/VBP therefore/RB what/WP we/PRP consider/VBP here/RB ./.
+Evaluat/NNP -/HYPH ing/VBG online/JJ learning/NN algorithms/NNS with/IN past/JJ data/NNS is/VBZ not/RB simple/JJ but/CC some/DT methods/NNS exist/VBP in/IN the/DT litera/NN -/HYPH ture/NN ./.
+Nonetheless/RB their/PRP$ accuracy/NN is/VBZ not/RB satisfac/JJ -/HYPH tory/JJ mainly/RB due/IN to/IN their/PRP$ mechanism/NN of/IN data/NNS re/IN -/HYPH jection/NN that/WDT only/RB allow/VBP the/DT exploitation/NN of/IN a/DT small/JJ fraction/NN of/IN the/DT data/NNS ./.
+We/PRP precisely/RB address/VB this/DT issue/NN in/IN this/DT paper/NN ./.
+After/IN highlighting/VBG the/DT limita/NN -/HYPH tions/NNS of/IN the/DT previous/JJ methods/NNS ,/, we/PRP present/VBP a/DT new/JJ method/NN ,/, based/VBN on/IN bootstrapping/NN techniques/NNS ./.
+This/DT new/JJ method/NN comes/VBZ with/IN two/CD important/JJ improve/VB -/HYPH ments/NNS :/: it/PRP is/VBZ much/RB more/RBR accurate/JJ and/CC it/PRP provides/VBZ a/DT measure/NN of/IN quality/NN of/IN its/PRP$ estimation/NN ./.
+The/DT latter/JJ is/VBZ a/DT highly/RB desirable/JJ property/NN in/IN order/NN to/TO minimize/VB the/DT risks/NNS entailed/VBN by/IN putting/VBG online/RB a/DT RS/NN for/IN the/DT first/JJ time/NN ./.
+We/PRP provide/VBP both/DT theoretical/JJ and/CC ex/NN -/HYPH perimental/JJ proofs/NNS of/IN its/PRP$ superiority/NN compared/VBN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ,/, as/RB well/RB as/IN an/DT analysis/NN of/IN the/DT convergence/NN of/IN the/DT measure/NN of/IN quality/NN ./.

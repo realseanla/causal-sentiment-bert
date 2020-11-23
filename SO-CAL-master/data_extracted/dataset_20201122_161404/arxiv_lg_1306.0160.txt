@@ -1,0 +1,4 @@
+Phase retrieval problems involve solving linear equations, but with missing sign (or phase, for complex numbers) information.
+Over the last two decades, a popular generic empirical approach to the many variants of this problem has been one of alternating minimization; i.e.
+alternating between estimating the missing phase information, and the candidate solution.
+In this paper, we show that a simple alternating minimization algorithm geometrically converges to the solution of one such problem -- finding a vector $x$ from $y,A$, where $y = |A^T x|$ and $|z|$ denotes a vector of element-wise magnitudes of $z$ -- under the assumption that $A$ is Gaussian.

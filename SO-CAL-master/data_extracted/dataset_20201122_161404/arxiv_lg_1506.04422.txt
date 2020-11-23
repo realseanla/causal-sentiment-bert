@@ -1,0 +1,6 @@
+This work builds upon previous efforts in online incremental learning, namely the Incremental Gaussian Mixture Network (IGMN).
+The IGMN is capable of learning from data streams in a single-pass by improving its model after analyzing each data point and discarding it thereafter.
+Nevertheless, it suffers from the scalability point-of-view, due to its asymptotic time complexity of $\operatorname{O}\bigl(NKD^3\bigr)$ for $N$ data points, $K$ Gaussian components and $D$ dimensions, rendering it inadequate for high-dimensional data.
+In this paper, we manage to reduce this complexity to $\operatorname{O}\bigl(NKD^2\bigr)$ by deriving formulas for working directly with precision matrices instead of covariance matrices.
+The final result is a much faster and scalable algorithm which can be applied to high dimensional tasks.
+This is confirmed by applying the modified algorithm to high-dimensional classification datasets.

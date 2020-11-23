@@ -1,0 +1,6 @@
+In/IN recent/JJ years/NNS ,/, interest/NN in/IN recommender/NN research/NN has/VBZ shifted/VBN from/IN explicit/JJ feedback/NN towards/IN implicit/JJ feedback/NN data/NNS ./.
+A/DT diversity/NN of/IN complex/JJ models/NNS has/VBZ been/VBN proposed/VBN for/IN a/DT wide/JJ variety/NN of/IN applications/NNS ./.
+Despite/IN this/DT ,/, learning/VBG from/IN implicit/JJ feedback/NN is/VBZ still/RB computationally/RB challenging/JJ ./.
+So/RB far/RB ,/, most/JJS work/NN relies/VBZ on/IN stochastic/JJ gradient/NN descent/NN (/-LRB- SGD/NNP )/-RRB- solvers/NNS which/WDT are/VBP easy/JJ to/TO derive/VB ,/, but/CC in/IN practice/NN challenging/VBG to/TO apply/VB ,/, especially/RB for/IN tasks/NNS with/IN many/JJ items/NNS ./.
+For/IN the/DT simple/JJ matrix/NN factorization/NN model/NN ,/, an/DT efficient/JJ coordinate/NN descent/NN (/-LRB- CD/NN )/-RRB- solver/NN has/VBZ been/VBN previously/RB proposed/VBN ./.
+However/RB ,/, efficient/JJ CD/NN approaches/NNS have/VBP not/RB been/VBN derived/VBN for/IN more/RBR complex/JJ models/NNS ./.

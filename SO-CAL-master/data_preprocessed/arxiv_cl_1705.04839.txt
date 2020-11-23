@@ -1,0 +1,9 @@
+Empathy/NNP ,/, as/IN defined/VBN in/IN behavioral/JJ sciences/NNS ,/, expresses/VBZ the/DT ability/NN of/IN human/JJ beings/NNS to/TO recognize/VB ,/, understand/VB and/CC react/VB to/IN emotions/NNS ,/, attitudes/NNS and/CC beliefs/NNS of/IN others/NNS ./.
+The/DT lack/NN of/IN an/DT operational/JJ definition/NN of/IN empathy/NN makes/VBZ it/PRP difficult/JJ to/TO measure/VB it/PRP ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP two/CD related/JJ problems/NNS in/IN automatic/JJ affective/JJ behavior/NN analysis/NN :/: the/DT design/NN of/IN the/DT annotation/NN protocol/NN and/CC the/DT automatic/JJ recognition/NN of/IN empathy/NN from/IN spoken/VBN conversations/NNS ./.
+We/PRP propose/VBP and/CC evaluate/VBP an/DT annotation/NN scheme/NN for/IN empathy/NN inspired/VBN by/IN the/DT modal/JJ model/NN of/IN emotions/NNS ./.
+The/DT annotation/NN scheme/NN was/VBD evaluated/VBN on/IN a/DT corpus/NN of/IN real/JJ -/HYPH life/NN ,/, dyadic/JJ spoken/VBN conversations/NNS ./.
+In/IN the/DT context/NN of/IN behavioral/JJ analysis/NN ,/, we/PRP designed/VBD an/DT automatic/JJ segmentation/NN and/CC classification/NN system/NN for/IN empathy/NN ./.
+Given/VBN the/DT different/JJ speech/NN and/CC language/NN levels/NNS of/IN representation/NN where/WRB empathy/NN may/MD be/VB communicated/VBN ,/, we/PRP investigated/VBD features/NNS derived/VBN from/IN the/DT lexical/JJ and/CC acoustic/JJ spaces/NNS ./.
+The/DT feature/NN development/NN process/NN was/VBD designed/VBN to/TO support/VB both/CC the/DT fusion/NN and/CC automatic/JJ selection/NN of/IN relevant/JJ features/NNS from/IN high/JJ dimensional/JJ space/NN ./.
+The/DT automatic/JJ classification/NN system/NN was/VBD evaluated/VBN on/IN call/NN center/NN conversations/NNS where/WRB it/PRP showed/VBD significantly/RB better/JJR performance/NN than/IN the/DT baseline/NN ./.

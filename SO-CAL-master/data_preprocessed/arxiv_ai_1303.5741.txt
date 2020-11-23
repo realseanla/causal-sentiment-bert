@@ -1,0 +1,30 @@
+Given/VBN a/DT universe/NN of/IN discourse/NN X-a/NN domain/NN of/IN possible/JJ outcomes/NNS -/: an/DT experiment/NN may/MD consist/VB of/IN selecting/VBG one/CD of/IN its/PRP$ elements/NNS ,/, subject/NN to/IN the/DT operation/NN of/IN chance/NN ,/, or/CC of/IN observing/VBG the/DT elements/NNS ,/, subject/NN to/IN imprecision/NN ./.
+A/FW priori/FW uncertainty/NN about/IN the/DT actual/JJ result/NN of/IN the/DT experiment/NN may/MD be/VB quantified/VBN ,/, representing/VBG either/CC the/DT likelihood/NN of/IN the/DT choice/NN of/IN :/: r_X/NN or/CC the/DT degree/NN to/TO which/WDT any/DT such/JJ X/NN would/MD be/VB suitable/JJ as/IN a/DT description/NN of/IN the/DT outcome/NN ./.
+The/DT former/JJ case/NN corresponds/VBZ to/IN a/DT probability/NN distribution/NN ,/, while/IN the/DT latter/JJ gives/VBZ a/DT possibility/NN assignment/NN on/IN X/NN ./.
+The/DT study/NN of/IN such/JJ assignments/NNS and/CC their/PRP$ properties/NNS falls/VBZ within/IN the/DT purview/NN of/IN possibility/NN theory/NN [/-LRB- DP88/NN ,/, Y80/NN ,/, Z783/NN ./.
+It/PRP ,/, like/IN probability/NN theory/NN ,/, assigns/VBZ values/NNS between/IN 0/CD and/CC 1/CD to/TO express/VB likelihoods/NNS of/IN outcomes/NNS ./.
+Here/RB ,/, however/RB ,/, the/DT similarity/NN ends/VBZ ./.
+Possibility/NN theory/NN uses/VBZ the/DT maximum/NN and/CC minimum/JJ functions/NNS to/TO combine/VB uncertainties/NNS ,/, whereas/IN probability/NN theory/NN uses/VBZ the/DT plus/NN and/CC times/NNS operations/NNS ./.
+This/DT leads/VBZ to/IN very/RB dissimilar/JJ theories/NNS in/IN terms/NNS of/IN analytical/JJ framework/NN ,/, even/RB though/IN they/PRP share/VBP several/JJ semantic/JJ concepts/NNS ./.
+One/CD of/IN the/DT shared/VBN concepts/NNS consists/VBZ of/IN expressing/VBG quantitatively/RB the/DT uncertainty/NN associated/VBN with/IN a/DT given/VBN distribution/NN ./.
+In/IN probability/NN theory/NN its/PRP$ value/NN corresponds/VBZ to/IN the/DT gain/NN of/IN information/NN that/WDT would/MD result/VB from/IN conducting/VBG an/DT experiment/NN and/CC ascertaining/VBG an/DT actual/JJ result/NN ./.
+This/DT gain/NN of/IN information/NN can/MD equally/RB well/RB be/VB viewed/VBN as/IN a/DT decrease/NN in/IN uncertainty/NN about/IN the/DT outcome/NN of/IN an/DT experiment/NN ./.
+In/IN this/DT case/NN the/DT standard/JJ measure/NN of/IN information/NN ,/, and/CC thus/RB uncertainty/NN ,/, is/VBZ Shannon/NNP entropy/NN [/-LRB- AD75/NN ,/, G77/NN ]/-RRB- ./.
+It/PRP enjoys/VBZ several/JJ advantages/NNS -/, it/PRP is/VBZ characterized/VBN uniquely/RB by/IN a/DT few/JJ ,/, very/RB natural/JJ properties/NNS ,/, and/CC it/PRP can/MD be/VB conveniently/RB used/VBN in/IN decision/NN processes/NNS ./.
+This/DT application/NN is/VBZ based/VBN on/IN the/DT principle/NN of/IN maximum/JJ entropy/NN ;/: it/PRP has/VBZ become/VBN a/DT popular/JJ method/NN of/IN relating/VBG decisions/NNS to/IN uncertainty/NN ./.
+This/DT paper/NN demonstrates/VBZ that/IN an/DT equally/RB integrated/JJ theory/NN can/MD be/VB built/VBN on/IN the/DT foundation/NN of/IN possibility/NN theory/NN ./.
+We/PRP first/RB show/VBP how/WRB to/TO define/VB measures/NNS of/IN in/IN formation/NN and/CC uncertainty/NN for/IN possibility/NN assignments/NNS ./.
+Next/RB we/PRP construct/VB an/DT information/NN -/HYPH based/VBN metric/JJ on/IN the/DT space/NN of/IN all/DT possibility/NN distributions/NNS defined/VBN on/IN a/DT given/VBN domain/NN ./.
+It/PRP allows/VBZ us/PRP to/TO capture/VB the/DT notion/NN of/IN proximity/NN in/IN information/NN content/NN among/IN the/DT distributions/NNS ./.
+Lastly/RB ,/, we/PRP show/VBP that/IN all/PDT the/DT above/JJ constructions/NNS can/MD be/VB carried/VBN out/RP for/IN continuous/JJ distributions/NNS -/HYPH possibility/NN assignments/NNS on/IN arbitrary/JJ measurable/JJ domains/NNS ./.
+We/PRP consider/VBP this/DT step/NN very/RB significant/JJ -/HYPH finite/JJ domains/NNS of/IN discourse/NN are/VBP but/CC approximations/NNS of/IN the/DT real/JJ -/HYPH life/NN infinite/JJ domains/NNS ./.
+If/IN possibility/NN theory/NN is/VBZ to/TO represent/VB real/JJ world/NN situations/NNS ,/, it/PRP must/MD handle/VB continuous/JJ distributions/NNS both/CC directly/RB and/CC through/IN finite/JJ approximations/NNS ./.
+In/IN the/DT last/JJ section/NN we/PRP discuss/VBP a/DT principle/NN of/IN maximum/JJ uncertainty/NN for/IN possibility/NN distributions/NNS ./.
+We/PRP show/VBP how/WRB such/PDT a/DT principle/NN could/MD be/VB formalized/VBN as/IN an/DT inference/NN rule/NN ./.
+We/PRP also/RB suggest/VBP it/PRP could/MD be/VB derived/VBN as/IN a/DT consequence/NN of/IN simple/JJ assumptions/NNS about/IN combining/VBG information/NN ./.
+We/PRP would/MD like/VB to/TO mention/VB that/DT possibility/NN assignments/NNS can/MD be/VB viewed/VBN as/IN fuzzy/JJ sets/NNS and/CC that/IN every/DT fuzzy/JJ set/NN gives/VBZ rise/NN to/IN an/DT assignment/NN of/IN possibilities/NNS ./.
+This/DT correspondence/NN has/VBZ far/RB reaching/VBG consequences/NNS in/IN logic/NN and/CC in/IN control/NN theory/NN ./.
+Our/PRP$ treatment/NN here/RB is/VBZ independent/JJ of/IN any/DT special/JJ interpretation/NN ;/: in/IN particular/JJ we/PRP speak/VBP of/IN possibility/NN distributions/NNS and/CC possibility/NN measures/NNS ,/, defining/VBG them/PRP as/IN measurable/JJ mappings/NNS into/IN the/DT interval/NN [/-LRB- 0/CD ,/, 1/CD ]/-RRB- ./.
+Our/PRP$ presentation/NN is/VBZ intended/VBN as/IN a/DT self/NN -/HYPH contained/VBN ,/, albeit/IN terse/JJ summary/NN ./.
+Topics/NNS discussed/VBN were/VBD selected/VBN with/IN care/NN ,/, to/TO demonstrate/VB both/CC the/DT completeness/NN and/CC a/DT certain/JJ elegance/NN of/IN the/DT theory/NN ./.
+Proofs/NNS are/VBP not/RB included/VBN ;/: we/PRP only/RB offer/VBP illustrative/JJ examples/NNS ./.

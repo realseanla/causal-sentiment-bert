@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP new/JJ methods/NNS to/TO learn/VB Chinese/JJ word/NN representations/NNS ./.
+Chinese/JJ characters/NNS are/VBP composed/VBN of/IN graphical/JJ components/NNS ,/, which/WDT carry/VBP rich/JJ semantics/NNS ./.
+It/PRP is/VBZ common/JJ for/IN a/DT Chinese/JJ learner/NN to/IN comprehend/VB the/DT meaning/NN of/IN a/DT word/NN from/IN these/DT graphical/JJ components/NNS ./.
+As/IN a/DT result/NN ,/, we/PRP propose/VBP models/NNS that/WDT enhance/VBP word/NN representations/NNS by/IN character/NN glyphs/NNS ./.
+The/DT character/NN glyph/NN features/NNS are/VBP directly/RB learned/VBN from/IN the/DT bitmaps/NNS of/IN characters/NNS by/IN convolutional/JJ auto/NN -/HYPH encoder/NN (/-LRB- convAE/NN )/-RRB- ,/, and/CC the/DT glyph/NN features/VBZ improve/VB Chinese/JJ word/NN representations/NNS which/WDT are/VBP already/RB enhanced/VBN by/IN character/NN embeddings/NNS ./.
+Another/DT contribution/NN in/IN this/DT paper/NN is/VBZ that/IN we/PRP created/VBD several/JJ evaluation/NN datasets/NNS in/IN traditional/JJ Chinese/JJ and/CC made/VBD them/PRP public/JJ ./.

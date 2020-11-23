@@ -1,0 +1,6 @@
+Bayesian/JJ learning/NN of/IN belief/NN networks/NNS (/-LRB- BLN/NN )/-RRB- is/VBZ a/DT method/NN for/IN automatically/RB constructing/VBG belief/NN networks/NNS (/-LRB- BNs/NNS )/-RRB- from/IN data/NNS using/VBG search/NN and/CC Bayesian/JJ scoring/NN techniques/NNS ./.
+K2/NN is/VBZ a/DT particular/JJ instantiation/NN of/IN the/DT method/NN that/WDT implements/VBZ a/DT greedy/JJ search/NN strategy/NN ./.
+To/TO evaluate/VB the/DT accuracy/NN of/IN K2/NN ,/, we/PRP randomly/RB generated/VBD a/DT number/NN of/IN BNs/NNS and/CC for/IN each/DT of/IN those/DT we/PRP simulated/VBD data/NNS sets/NNS ./.
+K2/NN was/VBD then/RB used/VBN to/TO induce/VB the/DT generating/VBG BNs/NNS from/IN the/DT simulated/JJ data/NNS ./.
+We/PRP examine/VBP the/DT performance/NN of/IN the/DT program/NN ,/, and/CC the/DT factors/NNS that/WDT influence/VBP it/PRP ./.
+We/PRP also/RB present/VBP a/DT simple/JJ BN/NN model/NN ,/, developed/VBN from/IN our/PRP$ results/NNS ,/, which/WDT predicts/VBZ the/DT accuracy/NN of/IN K2/NN ,/, when/WRB given/VBN various/JJ characteristics/NNS of/IN the/DT data/NNS set/NN ./.

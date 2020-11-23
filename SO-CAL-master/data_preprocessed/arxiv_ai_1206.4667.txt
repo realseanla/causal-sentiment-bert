@@ -1,0 +1,5 @@
+Precision/NNP -/HYPH recall/NN (/-LRB- PR/NN )/-RRB- curves/NNS and/CC the/DT areas/NNS under/IN them/PRP are/VBP widely/RB used/VBN to/TO summarize/VB machine/NN learning/NN results/NNS ,/, especially/RB for/IN data/NN sets/NNS exhibiting/VBG class/NN skew/VB ./.
+They/PRP are/VBP often/RB used/VBN analogously/RB to/IN ROC/NN curves/NNS and/CC the/DT area/NN under/IN ROC/NN curves/NNS ./.
+It/PRP is/VBZ known/VBN that/IN PR/NN curves/NNS vary/VBP as/IN class/NN skew/NN changes/NNS ./.
+What/WP was/VBD not/RB recognized/VBN before/IN this/DT paper/NN is/VBZ that/IN there/EX is/VBZ a/DT region/NN of/IN PR/NN space/NN that/WDT is/VBZ completely/RB unachievable/JJ ,/, and/CC the/DT size/NN of/IN this/DT region/NN depends/VBZ only/RB on/IN the/DT skew/NN ./.
+This/DT paper/NN precisely/RB characterizes/VBZ the/DT size/NN of/IN that/DT region/NN and/CC discusses/VBZ its/PRP$ implications/NNS for/IN empirical/JJ evaluation/NN methodology/NN in/IN machine/NN learning/NN ./.

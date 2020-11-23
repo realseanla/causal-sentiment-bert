@@ -1,0 +1,5 @@
+Approximate/JJ dynamic/JJ programming/NN is/VBZ a/DT popular/JJ method/NN for/IN solving/VBG large/JJ Markov/NNP decision/NN processes/NNS ./.
+This/DT paper/NN describes/VBZ a/DT new/JJ class/NN of/IN approximate/JJ dynamic/JJ programming/NN (/-LRB- ADP/NN )/-RRB- methods/NNS -/, distributionally/RB robust/JJ ADP/NN -/: that/IN address/NN the/DT curse/NN of/IN dimensionality/NN by/IN minimizing/VBG a/DT pessimistic/JJ bound/VBN on/IN the/DT policy/NN loss/NN ./.
+This/DT approach/NN turns/VBZ ADP/NN into/IN an/DT optimization/NN problem/NN ,/, for/IN which/WDT we/PRP derive/VBP new/JJ mathematical/JJ program/NN formulations/NNS and/CC analyze/VB its/PRP$ properties/NNS ./.
+DRADP/NN improves/VBZ on/IN the/DT theoretical/JJ guarantees/NNS of/IN existing/VBG ADP/NN methods/NNS -/, it/PRP guarantees/VBZ convergence/NN and/CC L1/NN norm/NN based/VBN error/NN bounds/NNS ./.
+The/DT empirical/JJ evaluation/NN of/IN DRADP/NN shows/VBZ that/IN the/DT theoretical/JJ guarantees/NNS translate/VB well/RB into/IN good/JJ performance/NN on/IN benchmark/NN problems/NNS ./.

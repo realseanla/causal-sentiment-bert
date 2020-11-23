@@ -1,0 +1,10 @@
+There is an explosion of data, documents, and other content, and people require tools to analyze and interpret these, tools to turn the content into information and knowledge.
+Topic modeling have been developed to solve these problems.
+Topic models such as LDA [Blei et.
+al.
+2003] allow salient patterns in data to be extracted automatically.
+When analyzing texts, these patterns are called topics.
+Among numerous extensions of LDA, few of them can reliably analyze multiple groups of documents and extract topic similarities.
+Recently, the introduction of differential topic modeling (SPDP) [Chen et.
+al.
+2012] performs uniformly better than many topic models in a discriminative setting.

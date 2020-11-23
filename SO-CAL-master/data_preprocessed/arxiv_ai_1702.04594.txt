@@ -1,0 +1,6 @@
+The/DT Minimum/NNP Weight/NNP Dominating/NNP Set/NNP (/-LRB- MWDS/NNP )/-RRB- problem/NN is/VBZ an/DT important/JJ generalization/NN of/IN the/DT Minimum/NNP Dominating/NNP Set/NNP (/-LRB- MDS/NNP )/-RRB- problem/NN with/IN extensive/JJ applications/NNS ./.
+This/DT paper/NN proposes/VBZ a/DT new/JJ local/JJ search/NN algorithm/NN for/IN the/DT MWDS/NNP problem/NN ,/, which/WDT is/VBZ based/VBN on/IN two/CD new/JJ ideas/NNS ./.
+The/DT first/JJ idea/NN is/VBZ a/DT heuristic/NN called/VBD two/CD -/HYPH level/NN configuration/NN checking/VBG (/-LRB- CC2/NN )/-RRB- ,/, which/WDT is/VBZ a/DT new/JJ variant/NN of/IN a/DT recent/JJ powerful/JJ configuration/NN checking/VBG strategy/NN (/-LRB- CC/NN )/-RRB- for/IN effectively/RB avoiding/VBG the/DT recent/JJ search/NN paths/NNS ./.
+The/DT second/JJ idea/NN is/VBZ a/DT novel/JJ scoring/NN function/NN based/VBN on/IN the/DT frequency/NN of/IN being/VBG uncovered/VBN of/IN vertices/NNS ./.
+Our/PRP$ algorithm/NN is/VBZ called/VBN CC2FS/NN ,/, according/VBG to/IN the/DT names/NNS of/IN the/DT two/CD ideas/NNS ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN ,/, CC2FS/NN performs/VBZ much/RB better/JJR than/IN some/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithms/NNS in/IN terms/NNS of/IN solution/NN quality/NN on/IN a/DT broad/JJ range/NN of/IN MWDS/NNP benchmarks/NNS ./.

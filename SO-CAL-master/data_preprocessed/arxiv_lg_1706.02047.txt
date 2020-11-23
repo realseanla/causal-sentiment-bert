@@ -1,0 +1,4 @@
+This/DT paper/NN studies/NNS the/DT detection/NN of/IN bird/NN calls/NNS in/IN audio/JJ segments/NNS using/VBG stacked/VBN convolutional/JJ and/CC recurrent/JJ neural/JJ networks/NNS ./.
+Data/NNS augmentation/NN by/IN blocks/NNS mixing/VBG and/CC domain/NN adaptation/NN using/VBG a/DT novel/JJ method/NN of/IN test/NN mixing/NN are/VBP proposed/VBN and/CC evaluated/VBN in/IN regard/NN to/IN making/VBG the/DT method/NN robust/JJ to/IN unseen/JJ data/NNS ./.
+The/DT contributions/NNS of/IN two/CD kinds/NNS of/IN acoustic/JJ features/NNS (/-LRB- dominant/JJ frequency/NN and/CC log/NN mel/NN -/HYPH band/NN energy/NN )/-RRB- and/CC their/PRP$ combinations/NNS are/VBP studied/VBN in/IN the/DT context/NN of/IN bird/NN audio/NN detection/NN ./.
+Our/PRP$ best/JJS achieved/VBN AUC/NNP measure/NN on/IN five/CD cross-validations/NNS of/IN the/DT development/NN data/NNS is/VBZ 95.5/CD percent/NN and/CC 88.1/CD percent/NN on/IN the/DT unseen/JJ evaluation/NN data/NNS ./.

@@ -1,0 +1,3 @@
+In this paper we present some results obtained with a troupe of low-cost robots designed to cooperatively explore and adquire the map of unknown structured orthogonal environments.
+In order to improve the covering of the explored zone, the robots show different behaviours and cooperate by transferring each other the perceived environment when they meet.
+The returning robots deliver to a host computer their partial maps and the host incrementally generates the map of the environment by means of apossibility/ necessity grid.

@@ -1,0 +1,6 @@
+Many/JJ NLP/NN tasks/NNS including/VBG machine/NN comprehension/NN ,/, answer/NN selection/NN and/CC text/NN entailment/NN require/VBP the/DT comparison/NN between/IN sequences/NNS ./.
+Matching/VBG the/DT important/JJ units/NNS between/IN sequences/NNS is/VBZ a/DT key/NN to/TO solve/VB these/DT problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT general/JJ "/`` compare/VB -/HYPH aggregate/NN "/'' framework/NN that/WDT performs/VBZ word/NN -/HYPH level/NN matching/NN followed/VBN by/IN aggregation/NN using/VBG Convolutional/NNP Neural/JJ Networks/NNS ./.
+We/PRP particularly/RB focus/VBP on/IN the/DT different/JJ comparison/NN functions/NNS we/PRP can/MD use/VB to/TO match/VB two/CD vectors/NNS ./.
+We/PRP use/VBP four/CD different/JJ datasets/NNS to/TO evaluate/VB the/DT model/NN ./.
+We/PRP find/VBP that/IN some/DT simple/JJ comparison/NN functions/NNS based/VBN on/IN element-wise/JJ operations/NNS can/MD work/VB better/JJR than/IN standard/JJ neural/JJ network/NN and/CC neural/JJ tensor/NN network/NN ./.

@@ -1,0 +1,3 @@
+Identifying relationships between items is a key task of an online recommender system, in order to help users discover items that are functionally complementary or visually compatible.
+In domains like clothing recommendation, this task is particularly challenging since a successful system should be capable of handling a large corpus of items, a huge amount of relationships among them, as well as the high-dimensional and semantically complicated features involved.
+Furthermore, the human notion of "compatibility" that we need to capture goes beyond mere similarity: For two items to be compatible---whether jeans and a t-shirt, or a laptop and a charger---they should be similar in some ways, but systematically different in others.

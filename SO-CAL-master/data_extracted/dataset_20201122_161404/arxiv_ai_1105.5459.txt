@@ -1,0 +1,4 @@
+A previously developed quantum search algorithm for solving 1-SAT problems in a single step is generalized to apply to a range of highly constrained k-SAT problems.
+We identify a bound on the number of clauses in satisfiability problems for which the generalized algorithm can find a solution in a constant number of steps as the number of variables increases.
+This performance contrasts with the linear growth in the number of steps required by the best classical algorithms, and the exponential number required by classical and quantum methods that ignore the problem structure.
+In some cases, the algorithm can also guarantee that insoluble problems in fact have no solutions, unlike previously proposed quantum search algorithms.

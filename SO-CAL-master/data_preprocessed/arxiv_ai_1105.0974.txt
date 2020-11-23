@@ -1,0 +1,4 @@
+This/DT paper/NN describes/VBZ a/DT graph/NN clustering/NN algorithm/NN that/WDT aims/VBZ to/TO minimize/VB the/DT normalized/VBN cut/NN criterion/NN and/CC has/VBZ a/DT model/NN order/NN selection/NN procedure/NN ./.
+The/DT performance/NN of/IN the/DT proposed/VBN algorithm/NN is/VBZ comparable/JJ to/IN spectral/JJ approaches/NNS in/IN terms/NNS of/IN minimizing/VBG normalized/VBN cut/NN ./.
+However/RB ,/, unlike/IN spectral/JJ approaches/NNS ,/, the/DT proposed/VBN algorithm/NN scales/NNS to/IN graphs/NNS with/IN millions/NNS of/IN nodes/NNS and/CC edges/NNS ./.
+The/DT algorithm/NN consists/VBZ of/IN three/CD components/NNS that/WDT are/VBP processed/VBN sequentially/RB :/: a/DT greedy/JJ agglomerative/JJ hierarchical/JJ clustering/NN procedure/NN ,/, model/NN order/NN selection/NN ,/, and/CC a/DT local/JJ refinement/NN ./.

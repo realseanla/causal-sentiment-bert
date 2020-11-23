@@ -1,0 +1,6 @@
+Cloze/NNP -/HYPH style/NN queries/NNS are/VBP representative/JJ problems/NNS in/IN reading/NN comprehension/NN ./.
+Over/IN the/DT past/JJ few/JJ months/NNS ,/, we/PRP have/VBP seen/VBN much/JJ progress/NN that/WDT utilizing/VBG neural/JJ network/NN approach/NN to/TO solve/VB Cloze/NNP -/HYPH style/NN questions/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP present/VBP a/DT novel/JJ model/NN for/IN Cloze/NNP -/HYPH style/NN reading/NN comprehension/NN tasks/NNS ,/, called/VBN attention/NN -/HYPH over-attention/JJ reader/NN ./.
+Our/PRP$ model/NN aims/VBZ to/TO place/VB another/DT attention/NN mechanism/NN over/IN the/DT document/NN -/HYPH level/NN attention/NN ,/, and/CC induces/VBZ "/`` attended/VBN attention/NN "/'' for/IN final/JJ predictions/NNS ./.
+Unlike/IN the/DT previous/JJ works/NNS ,/, our/PRP$ neural/JJ network/NN model/NN requires/VBZ less/RBR pre-defined/JJ hyper/JJ -/HYPH parameters/NNS and/CC uses/VBZ an/DT elegant/JJ architecture/NN for/IN modeling/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN the/DT proposed/VBN attention/NN -/HYPH over-attention/NN model/NN significantly/RB outperforms/VBZ various/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN systems/NNS by/IN a/DT large/JJ margin/NN in/IN public/JJ datasets/NNS ,/, such/JJ as/IN CNN/NNP and/CC Children/NNP 's/POS Book/NNP Test/NNP datasets/NNS ./.

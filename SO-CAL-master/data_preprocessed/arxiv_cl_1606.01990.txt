@@ -1,0 +1,7 @@
+Inferring/VBG implicit/JJ discourse/NN relations/NNS in/IN natural/JJ language/NN text/NN is/VBZ the/DT most/RBS difficult/JJ subtask/NN in/IN discourse/NN parsing/VBG ./.
+Surface/NN features/NNS achieve/VBP good/JJ performance/NN ,/, but/CC they/PRP are/VBP not/RB readily/RB applicable/JJ to/IN other/JJ languages/NNS without/IN semantic/JJ lexicons/NNS ./.
+Previous/JJ neural/JJ models/NNS require/VBP parses/VBZ ,/, surface/NN features/NNS ,/, or/CC a/DT small/JJ label/NN set/VBN to/TO work/VB well/RB ./.
+Here/RB ,/, we/PRP propose/VBP neural/JJ network/NN models/NNS that/WDT are/VBP based/VBN on/IN feedforward/NN and/CC long/JJ -/HYPH short/JJ term/NN memory/NN architecture/NN without/IN any/DT surface/NN features/NNS ./.
+To/IN our/PRP$ surprise/NN ,/, our/PRP$ best/JJS configured/VBN feedforward/JJ architecture/NN outperforms/VBZ LSTM/NNP -/HYPH based/VBN model/NN in/IN most/JJS cases/NNS despite/IN thorough/JJ tuning/NN ./.
+Under/IN various/JJ fine/JJ -/HYPH grained/JJ label/NN sets/NNS and/CC a/DT cross-linguistic/JJ setting/NN ,/, our/PRP$ feedforward/NN models/NNS perform/VBP consistently/RB better/RB or/CC at/RB least/RBS just/RB as/RB well/RB as/IN systems/NNS that/WDT require/VBP hand/NN -/HYPH crafted/VBN surface/NN features/NNS ./.
+Our/PRP$ models/NNS present/VBP the/DT first/JJ neural/JJ Chinese/JJ discourse/NN parser/NN in/IN the/DT style/NN of/IN Chinese/JJ Discourse/NN Treebank/NNP ,/, showing/VBG that/IN our/PRP$ results/NNS hold/VBP cross-linguistically/RB ./.

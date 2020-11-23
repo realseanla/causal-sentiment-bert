@@ -1,0 +1,7 @@
+When/WRB a/DT planner/NN must/MD decide/VB whether/IN it/PRP has/VBZ enough/JJ evidence/NN to/TO make/VB a/DT decision/NN based/VBN on/IN probability/NN ,/, it/PRP faces/VBZ the/DT sample/NN size/NN problem/NN ./.
+Current/JJ planners/NNS using/VBG probabilities/NNS need/VBP not/RB deal/VB with/IN this/DT problem/NN because/IN they/PRP do/VBP not/RB generate/VB their/PRP$ probabilities/NNS from/IN observations/NNS ./.
+This/DT paper/NN presents/VBZ an/DT event/NN based/VBN language/NN in/IN which/WDT the/DT planner/NN 's/POS probabilities/NNS are/VBP calculated/VBN from/IN the/DT binomial/JJ random/JJ variable/JJ generated/VBN by/IN the/DT observed/VBN ratio/NN of/IN one/CD type/NN of/IN event/NN to/IN another/DT ./.
+Such/JJ probabilities/NNS are/VBP subject/JJ to/IN error/NN ,/, so/IN the/DT planner/NN must/MD introspect/VB about/IN their/PRP$ validity/NN ./.
+Inferences/NNS about/IN the/DT probability/NN of/IN these/DT events/NNS can/MD be/VB made/VBN using/VBG statistics/NNS ./.
+Inferences/NNS about/IN the/DT validity/NN of/IN the/DT approximations/NNS can/MD be/VB made/VBN using/VBG interval/NN estimation/NN ./.
+Interval/JJ estimation/NN allows/VBZ the/DT planner/NN to/TO avoid/VB making/VBG choices/NNS that/WDT are/VBP only/RB weakly/RB supported/VBN by/IN the/DT planner/NN 's/POS evidence/NN ./.

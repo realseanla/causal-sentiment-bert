@@ -1,0 +1,5 @@
+We/PRP are/VBP interested/JJ in/IN exploring/VBG the/DT possibility/NN and/CC benefits/NNS of/IN structure/NN learning/NN for/IN deep/JJ models/NNS ./.
+As/IN the/DT first/JJ step/NN ,/, this/DT paper/NN investigates/VBZ the/DT matter/NN for/IN Restricted/VBN Boltzmann/NNP Machines/NNPS (/-LRB- RBMs/NNS )/-RRB- ./.
+We/PRP conduct/VBP the/DT study/NN with/IN Replicated/VBN Softmax/NNP ,/, a/DT variant/NN of/IN RBMs/NNS for/IN unsupervised/JJ text/NN analysis/NN ./.
+We/PRP present/VBP a/DT method/NN for/IN learning/VBG what/WP we/PRP call/VBP Sparse/JJ Boltzmann/NNP Machines/NNPS ,/, where/WRB each/DT hidden/JJ unit/NN is/VBZ connected/VBN to/IN a/DT subset/NN of/IN the/DT visible/JJ units/NNS instead/RB of/IN all/DT of/IN them/PRP ./.
+Empirical/JJ results/NNS show/VBP that/IN the/DT method/NN yields/VBZ models/NNS with/IN significantly/RB improved/VBN model/NN fit/NN and/CC interpretability/NN as/IN compared/VBN with/IN RBMs/NNS where/WRB each/DT hidden/JJ unit/NN is/VBZ connected/VBN to/IN all/DT visible/JJ units/NNS ./.

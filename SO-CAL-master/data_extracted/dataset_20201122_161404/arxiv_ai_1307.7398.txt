@@ -1,0 +1,5 @@
+Knowledge representation and reasoning capacities are vital to cognitive robotics because they provide higher level cognitive functions for reasoning about actions, environments, goals, perception, etc.
+Although Answer Set Programming (ASP) is well suited for modelling such functions, there was so far no seamless way to use ASP in a robotic environment.
+We address this shortcoming and show how a recently developed reactive ASP system can be harnessed to provide appropriate reasoning capacities within a robotic system.
+To be more precise, we furnish a package integrating the reactive ASP solver oClingo with the popular open-source robotic middleware ROS.
+The resulting system, ROSoClingo, provides a generic way by which an ASP program can be used to control the behaviour of a robot and to respond to the results of the robot's actions.

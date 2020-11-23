@@ -1,0 +1,11 @@
+Named/VBN entity/NN recognition/NN (/-LRB- NER/NN )/-RRB- is/VBZ a/DT popular/JJ domain/NN of/IN natural/JJ language/NN processing/NN ./.
+For/IN this/DT reason/NN ,/, many/JJ tools/NNS exist/VBP to/TO perform/VB this/DT task/NN ./.
+Amongst/IN other/JJ points/NNS ,/, they/PRP differ/VBP in/IN the/DT processing/NN method/NN they/PRP rely/VBP upon/IN ,/, the/DT entity/NN types/NNS they/PRP can/MD detect/VB ,/, the/DT nature/NN of/IN the/DT text/NN they/PRP can/MD handle/VB ,/, and/CC their/PRP$ input/NN //HYPH output/NN formats/NNS ./.
+This/DT makes/VBZ it/PRP difficult/JJ for/IN a/DT user/NN to/TO select/VB an/DT appropriate/JJ NER/NN tool/NN for/IN a/DT specific/JJ situation/NN ./.
+In/IN this/DT article/NN ,/, we/PRP try/VBP to/TO answer/VB this/DT question/NN in/IN the/DT context/NN of/IN biographic/JJ texts/NNS ./.
+For/IN this/DT matter/NN ,/, we/PRP first/RB constitute/VBP a/DT new/JJ corpus/NN by/IN annotating/VBG Wikipedia/NNP articles/NNS ./.
+We/PRP then/RB select/VB publicly/RB available/JJ ,/, well/RB known/JJ and/CC free/JJ for/IN research/NN NER/NN tools/NNS for/IN comparison/NN :/: Stanford/NNP NER/NN ,/, Illinois/NNP NET/NN ,/, OpenCalais/NNP NER/NN WS/NN and/CC Alias/NNP -/HYPH i/NNP LingPipe/NNP ./.
+We/PRP apply/VBP them/PRP to/IN our/PRP$ corpus/NN ,/, assess/VB their/PRP$ performances/NNS and/CC compare/VB them/PRP ./.
+When/WRB considering/VBG overall/JJ performances/NNS ,/, a/DT clear/JJ hierarchy/NN emerges/VBZ :/: Stanford/NNP has/VBZ the/DT best/JJS results/NNS ,/, followed/VBN by/IN LingPipe/NNP ,/, Illionois/NNP and/CC OpenCalais/NNP ./.
+However/RB ,/, a/DT more/RBR detailed/JJ evaluation/NN performed/VBN relatively/RB to/IN entity/NN types/NNS and/CC article/NN categories/NNS highlights/VBZ the/DT fact/NN their/PRP$ performances/NNS are/VBP diversely/RB influenced/VBN by/IN those/DT factors/NNS ./.
+This/DT complementarity/NN opens/VBZ an/DT interesting/JJ perspective/NN regarding/VBG the/DT combination/NN of/IN these/DT individual/JJ tools/NNS in/IN order/NN to/TO improve/VB performance/NN ./.

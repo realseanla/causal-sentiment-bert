@@ -1,0 +1,6 @@
+Multi-class/NN classification/NN is/VBZ one/CD of/IN the/DT most/RBS important/JJ tasks/NNS in/IN machine/NN learning/NN ./.
+In/IN this/DT paper/NN we/PRP consider/VBP two/CD online/JJ multi-class/NN classification/NN problems/NNS :/: classification/NN by/IN a/DT linear/JJ model/NN and/CC by/IN a/DT kernelized/VBN model/NN ./.
+The/DT quality/NN of/IN predictions/NNS is/VBZ measured/VBN by/IN the/DT Brier/NNP loss/NN function/NN ./.
+We/PRP suggest/VBP two/CD computationally/RB efficient/JJ algorithms/NNS to/TO work/VB with/IN these/DT problems/NNS and/CC prove/VB theoretical/JJ guarantees/NNS on/IN their/PRP$ losses/NNS ./.
+We/PRP kernelize/VBP one/CD of/IN the/DT algorithms/NNS and/CC prove/VB theoretical/JJ guarantees/NNS on/IN its/PRP$ loss/NN ./.
+We/PRP perform/VBP experiments/NNS and/CC compare/VB our/PRP$ algorithms/NNS with/IN logistic/JJ regression/NN ./.

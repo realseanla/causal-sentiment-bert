@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT suite/NN of/IN algorithms/NNS for/IN Dimension/NNP Independent/NNP Similarity/NNP Computation/NNP (/-LRB- DISCO/NNP )/-RRB- to/IN compute/VB all/DT pairwise/JJ similarities/NNS between/IN very/RB high/JJ dimensional/JJ sparse/JJ vectors/NNS ./.
+All/DT of/IN our/PRP$ results/NNS are/VBP provably/RB independent/JJ of/IN dimension/NN ,/, meaning/VBG apart/RB from/IN the/DT initial/JJ cost/NN of/IN trivially/RB reading/VBG in/IN the/DT data/NNS ,/, all/DT subsequent/JJ operations/NNS are/VBP independent/JJ of/IN the/DT dimension/NN ,/, thus/RB the/DT dimension/NN can/MD be/VB very/RB large/JJ ./.
+We/PRP study/VBP Cosine/NNP ,/, Dice/NNP ,/, Overlap/NNP ,/, Conditional/JJ ,/, and/CC the/DT Jaccard/NNP similarity/NN measures/NNS ./.
+For/IN Jaccard/NNP similiarity/NN we/PRP include/VBP an/DT improved/VBN version/NN of/IN MinHash/NNP ./.
+Our/PRP$ results/NNS are/VBP geared/VBN toward/IN the/DT MapReduce/NNP framework/NN ./.
+We/PRP empirically/RB validate/VBP our/PRP$ theorems/NNS at/IN large/JJ scale/NN using/VBG data/NNS from/IN the/DT social/JJ networking/NN site/NN Twitter/NNP ./.

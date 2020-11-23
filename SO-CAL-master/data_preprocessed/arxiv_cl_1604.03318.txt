@@ -1,0 +1,10 @@
+The/DT holy/JJ Quran/NNP is/VBZ the/DT holy/JJ book/NN of/IN the/DT Muslims/NNPS ./.
+It/PRP contains/VBZ information/NN about/IN many/JJ domains/NNS ./.
+Often/RB people/NNS search/VB for/IN particular/JJ concepts/NNS of/IN holy/JJ Quran/NNP based/VBN on/IN the/DT relations/NNS among/IN concepts/NNS ./.
+An/DT ontological/JJ modeling/NN of/IN holy/JJ Quran/NNP can/MD be/VB useful/JJ in/IN such/PDT a/DT scenario/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP have/VBP modeled/VBN nature/NN related/VBN concepts/NNS of/IN holy/JJ Quran/NNP using/VBG OWL/NN (/-LRB- Web/NN Ontology/NNP Language/NNP )/-RRB- //, RDF/NNP (/-LRB- Resource/NN Description/NN Framework/NNP )/-RRB- ./.
+Our/PRP$ methodology/NN involves/VBZ identifying/VBG nature/NN related/VBN concepts/NNS mentioned/VBN in/IN holy/JJ Quran/NNP and/CC identifying/VBG relations/NNS among/IN those/DT concepts/NNS ./.
+These/DT concepts/NNS and/CC relations/NNS are/VBP represented/VBN as/IN classes/NNS //, instances/NNS and/CC properties/NNS of/IN an/DT OWL/NN ontology/NN ./.
+Later/RB ,/, in/IN the/DT result/NN section/NN it/PRP is/VBZ shown/VBN that/IN ,/, using/VBG the/DT Ontological/JJ model/NN ,/, SPARQL/NN queries/NNS can/MD retrieve/VB verses/NNS and/CC concepts/NNS of/IN interest/NN ./.
+Thus/RB ,/, this/DT modeling/NN helps/VBZ semantic/JJ search/NN and/CC query/NN on/IN the/DT holy/JJ Quran/NNP ./.
+In/IN this/DT work/NN ,/, we/PRP have/VBP used/VBN English/NNP translation/NN of/IN the/DT holy/JJ Quran/NNP by/IN Sahih/NNP International/NNP ,/, Protege/NNP OWL/NNP Editor/NNP and/CC for/IN querying/VBG we/PRP have/VBP used/VBN SPARQL/NNP ./.

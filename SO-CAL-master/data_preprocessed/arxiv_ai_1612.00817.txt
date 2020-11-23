@@ -1,0 +1,8 @@
+We/PRP study/VBP machine/NN learning/NN formulations/NNS of/IN inductive/JJ program/NN synthesis/NN ;/: that/DT is/VBZ ,/, given/VBN input/NN -/HYPH output/NN examples/NNS ,/, synthesize/VBP source/NN code/NN that/WDT maps/VBZ inputs/NNS to/IN corresponding/VBG outputs/NNS ./.
+Our/PRP$ key/JJ contribution/NN is/VBZ TerpreT/NN ,/, a/DT domain/NN -/HYPH specific/JJ language/NN for/IN expressing/VBG program/NN synthesis/NN problems/NNS ./.
+A/DT TerpreT/NN model/NN is/VBZ composed/VBN of/IN a/DT specification/NN of/IN a/DT program/NN representation/NN and/CC an/DT interpreter/NN that/WDT describes/VBZ how/WRB programs/NNS map/VBP inputs/NNS to/IN outputs/NNS ./.
+The/DT inference/NN task/NN is/VBZ to/TO observe/VB a/DT set/NN of/IN input/NN -/HYPH output/NN examples/NNS and/CC infer/VBP the/DT underlying/VBG program/NN ./.
+From/IN a/DT TerpreT/NN model/NN we/PRP automatically/RB perform/VB inference/NN using/VBG four/CD different/JJ back/RB -/HYPH ends/NNS :/: gradient/NN descent/NN (/-LRB- thus/RB each/DT TerpreT/NN model/NN can/MD be/VB seen/VBN as/IN defining/VBG a/DT differentiable/JJ interpreter/NN )/-RRB- ,/, linear/JJ program/NN (/-LRB- LP/NN )/-RRB- relaxations/NNS for/IN graphical/JJ models/NNS ,/, discrete/JJ satisfiability/NN solving/VBG ,/, and/CC the/DT Sketch/VB program/NN synthesis/NN system/NN ./.
+TerpreT/NN has/VBZ two/CD main/JJ benefits/NNS ./.
+First/RB ,/, it/PRP enables/VBZ rapid/JJ exploration/NN of/IN a/DT range/NN of/IN domains/NNS ,/, program/NN representations/NNS ,/, and/CC interpreter/NN models/NNS ./.
+Second/RB ,/, it/PRP separates/VBZ the/DT model/NN specification/NN from/IN the/DT inference/NN algorithm/NN ,/, allowing/VBG proper/JJ comparisons/NNS between/IN different/JJ approaches/NNS to/IN inference/NN ./.

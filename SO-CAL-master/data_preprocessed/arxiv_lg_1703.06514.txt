@@ -1,0 +1,9 @@
+We/PRP propose/VBP a/DT new/JJ method/NN for/IN training/NN iterative/JJ collective/JJ classifiers/NNS for/IN labeling/NN nodes/NNS in/IN network/NN data/NNS ./.
+The/DT iterative/JJ classification/NN algorithm/NN (/-LRB- ICA/NN )/-RRB- is/VBZ a/DT canonical/JJ method/NN for/IN incorporating/VBG relational/JJ information/NN into/IN classification/NN ./.
+Yet/RB ,/, existing/VBG methods/NNS for/IN training/NN ICA/NN models/NNS rely/VBP on/IN the/DT assumption/NN that/IN relational/JJ features/NNS reflect/VBP the/DT true/JJ labels/NNS of/IN the/DT nodes/NNS ./.
+This/DT unrealistic/JJ assumption/NN introduces/VBZ a/DT bias/NN that/WDT is/VBZ inconsistent/JJ with/IN the/DT actual/JJ prediction/NN algorithm/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP recurrent/JJ collective/JJ classification/NN (/-LRB- RCC/NN )/-RRB- ,/, a/DT variant/NN of/IN ICA/NNP analogous/JJ to/IN recurrent/JJ neural/JJ network/NN prediction/NN ./.
+RCC/NNP accommodates/VBZ any/DT differentiable/JJ local/JJ classifier/NN and/CC relational/JJ feature/NN functions/NNS ./.
+We/PRP provide/VBP gradient/NN -/HYPH based/VBN strategies/NNS for/IN optimizing/VBG over/RP model/NN parameters/NNS to/IN more/RBR directly/RB minimize/VB the/DT loss/NN function/NN ./.
+In/IN our/PRP$ experiments/NNS ,/, this/DT direct/JJ loss/NN minimization/NN translates/VBZ to/IN improved/VBN accuracy/NN and/CC robustness/NN on/IN real/JJ network/NN data/NNS ./.
+We/PRP demonstrate/VBP the/DT robustness/NN of/IN RCC/NNP in/IN settings/NNS where/WRB local/JJ classification/NN is/VBZ very/RB noisy/JJ ,/, settings/NNS that/WDT are/VBP particularly/RB challenging/VBG for/IN ICA/NNP ./.

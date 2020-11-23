@@ -1,0 +1,5 @@
+Multimodal machine translation is the task of translating sentences in a visual context.
+We decompose this problem into two sub-tasks: learning to translate and learning visually grounded representations.
+In a multitask learning framework, translations are learned in an attention-based encoder-decoder, and grounded representations are learned through image representation prediction.
+Our approach improves translation performance compared to the state of the art on the Multi30K dataset.
+Furthermore, it is equally effective if we train the image prediction task on the external MS COCO dataset, and we find improvements if we train the translation model on the external News Commentary parallel text.

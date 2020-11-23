@@ -1,0 +1,4 @@
+We/PRP establish/VBP optimal/JJ bounds/NNS on/IN the/DT number/NN of/IN nested/VBN propagation/NN steps/NNS in/IN $/$ k/CD $/$ -/HYPH consistency/NN tests/NNS ./.
+It/PRP is/VBZ known/VBN that/IN local/JJ consistency/NN algorithms/NNS such/JJ as/IN arc/NN -/HYPH ,/, path/NN -/HYPH and/CC $/$ k/CD $/$ -/HYPH consistency/NN are/VBP not/RB efficiently/RB parallelizable/JJ ./.
+Their/PRP$ inherent/JJ sequential/JJ nature/NN is/VBZ caused/VBN by/IN long/JJ chains/NNS of/IN nested/VBN propagation/NN steps/NNS ,/, which/WDT can/MD not/RB be/VB executed/VBN in/IN parallel/NN ./.
+This/DT motivates/VBZ the/DT question/NN "/`` What/WP is/VBZ the/DT minimum/JJ number/NN of/IN nested/VBN propagation/NN steps/NNS that/WDT have/VBP to/TO be/VB performed/VBN by/IN $/$ k/CD $/$ -/HYPH consistency/NN algorithms/NNS on/IN (/-LRB- binary/NN )/-RRB- constraint/NN networks/NNS with/IN $/$ n/NN $/$ variables/NNS and/CC domain/NN size/NN $/$ d/LS $/$ ?/. "/''

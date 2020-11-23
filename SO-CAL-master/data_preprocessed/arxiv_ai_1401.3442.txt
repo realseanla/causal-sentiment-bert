@@ -1,0 +1,10 @@
+A/DT new/JJ search/NN algorithm/NN for/IN solving/VBG distributed/VBN constraint/NN optimization/NN problems/NNS (/-LRB- DisCOPs/NNS )/-RRB- is/VBZ presented/VBN ./.
+Agents/NNS assign/VBP variables/NNS sequentially/RB and/CC compute/VB bounds/NNS on/IN partial/JJ assignments/NNS asynchronously/RB ./.
+The/DT asynchronous/JJ bounds/NNS computation/NN is/VBZ based/VBN on/IN the/DT propagation/NN of/IN partial/JJ assignments/NNS ./.
+The/DT asynchronous/JJ forward/RB -/HYPH bounding/VBG algorithm/NN (/-LRB- AFB/NN )/-RRB- is/VBZ a/DT distributed/VBN optimization/NN search/NN algorithm/NN that/WDT keeps/VBZ one/CD consistent/JJ partial/JJ assignment/NN at/IN all/DT times/NNS ./.
+The/DT algorithm/NN is/VBZ described/VBN in/IN detail/NN and/CC its/PRP$ correctness/NN proven/VBN ./.
+Experimental/JJ evaluation/NN shows/VBZ that/IN AFB/NNP outperforms/VBZ synchronous/JJ branch/NN and/CC bound/VBN by/IN many/JJ orders/NNS of/IN magnitude/NN ,/, and/CC produces/VBZ a/DT phase/NN transition/NN as/IN the/DT tightness/NN of/IN the/DT problem/NN increases/VBZ ./.
+This/DT is/VBZ an/DT analogous/JJ effect/NN to/IN the/DT phase/NN transition/NN that/WDT has/VBZ been/VBN observed/VBN when/WRB local/JJ consistency/NN maintenance/NN is/VBZ applied/VBN to/IN MaxCSPs/NNS ./.
+The/DT AFB/NNP algorithm/NN is/VBZ further/JJ enhanced/VBN by/IN the/DT addition/NN of/IN a/DT backjumping/NN mechanism/NN ,/, resulting/VBG in/IN the/DT AFB/NNP -/HYPH BJ/NNP algorithm/NN ./.
+Distributed/VBN backjumping/NN is/VBZ based/VBN on/IN accumulated/VBN information/NN on/IN bounds/NNS of/IN all/DT values/NNS and/CC on/IN processing/VBG concurrently/RB a/DT queue/NN of/IN candidate/NN goals/NNS for/IN the/DT next/JJ move/NN back/RB ./.
+The/DT AFB/NNP -/HYPH BJ/NNP algorithm/NN is/VBZ compared/VBN experimentally/RB to/IN other/JJ DisCOP/NN algorithms/NNS (/-LRB- ADOPT/VB ,/, DPOP/NNP ,/, OptAPO/NN )/-RRB- and/CC is/VBZ shown/VBN to/TO be/VB a/DT very/RB efficient/JJ algorithm/NN for/IN DisCOPs/NNS ./.

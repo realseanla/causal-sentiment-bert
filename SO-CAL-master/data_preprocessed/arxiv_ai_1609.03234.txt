@@ -1,0 +1,6 @@
+Counterfactual/JJ Regret/NN Minimization/NN (/-LRB- CFR/NNP )/-RRB- is/VBZ the/DT most/RBS popular/JJ iterative/JJ algorithm/NN for/IN solving/VBG zero/CD -/HYPH sum/NN imperfect/JJ -/HYPH information/NN games/NNS ./.
+Regret/NN -/HYPH Based/VBN Pruning/NN (/-LRB- RBP/NN )/-RRB- is/VBZ an/DT improvement/NN that/WDT allows/VBZ poorly/RB -/HYPH performing/VBG actions/NNS to/TO be/VB temporarily/RB pruned/VBN ,/, thus/RB speeding/VBG up/RP CFR/NNP ./.
+We/PRP introduce/VBP Total/JJ RBP/NN ,/, a/DT new/JJ form/NN of/IN RBP/NNP that/WDT reduces/VBZ the/DT space/NN requirements/NNS of/IN CFR/NNP as/IN actions/NNS are/VBP pruned/VBN ./.
+We/PRP prove/VBP that/IN in/IN zero/CD -/HYPH sum/NN games/NNS it/PRP asymptotically/RB prunes/VBZ any/DT action/NN that/WDT is/VBZ not/RB part/NN of/IN a/DT best/JJS response/NN to/IN some/DT Nash/NNP equilibrium/NN ./.
+This/DT leads/VBZ to/IN provably/RB faster/RBR convergence/NN and/CC lower/JJR space/NN requirements/NNS ./.
+Experiments/NNS show/VBP that/IN Total/JJ RBP/NN results/NNS in/IN an/DT order/NN of/IN magnitude/NN reduction/NN in/IN space/NN ,/, and/CC the/DT reduction/NN factor/NN increases/VBZ with/IN game/NN size/NN ./.

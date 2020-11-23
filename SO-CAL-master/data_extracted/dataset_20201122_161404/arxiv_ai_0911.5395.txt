@@ -1,0 +1,8 @@
+In Pawlak's rough set theory, each rough set is approximated by a pair of lower and upper approximations.
+To measure numerically the roughness of an approximation, Pawlak introduced a quantitative measure of roughness by using the ratio of the cardinalities of the lower and upper approximations.
+Although the roughness measure is effective, it has the drawback of not being strictly monotonic with respect to the standard ordering on partitions.
+Recently, some improvements have been made by taking into account the granularity of partitions.
+In this paper, we approach the roughness measure in an axiomatic way.
+After axiomatically defining roughness measure and partition measure, we provide a unified construction of roughness measure, called generalized Pawlak roughness measure, and then explore the properties of this measure.
+We show that the improved roughness measures in the literature are special instances of our generalized Pawlak roughness measure and introduce three more generalized Pawlak roughness measures as well.
+The advantage of our axiomatic approach is that some properties of a roughness measure follow immediately as soon as the measure satisfies the relevant axiomatic definition.

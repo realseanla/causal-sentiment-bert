@@ -1,0 +1,8 @@
+We/PRP consider/VBP the/DT minimization/NN of/IN non-convex/JJ functions/NNS that/WDT typically/RB arise/VBP in/IN machine/NN learning/NN ./.
+Specifically/RB ,/, we/PRP focus/VBP our/PRP$ attention/NN on/IN a/DT variant/NN of/IN trust/NN region/NN methods/NNS known/VBN as/IN cubic/JJ regularization/NN ./.
+This/DT approach/NN is/VBZ particularly/RB attractive/JJ because/IN it/PRP escapes/VBZ strict/JJ saddle/NN points/NNS and/CC it/PRP provides/VBZ stronger/JJR convergence/NN guarantees/NNS than/IN first/JJ -/HYPH and/CC second/JJ -/HYPH order/NN as/RB well/RB as/IN classical/JJ trust/NN region/NN methods/NNS ./.
+However/RB ,/, it/PRP suffers/VBZ from/IN a/DT high/JJ computational/JJ complexity/NN that/WDT makes/VBZ it/PRP impractical/JJ for/IN large/JJ -/HYPH scale/NN learning/NN ./.
+Here/RB ,/, we/PRP propose/VBP a/DT novel/JJ method/NN that/WDT uses/VBZ sub-sampling/VBG to/TO lower/VB this/DT computational/JJ cost/NN ./.
+By/IN the/DT use/NN of/IN concentration/NN inequalities/NNS we/PRP provide/VBP a/DT sampling/NN scheme/NN that/WDT gives/VBZ sufficiently/RB accurate/JJ gradient/NN and/CC Hessian/JJ approximations/NNS to/TO retain/VB the/DT strong/JJ global/JJ and/CC local/JJ convergence/NN guarantees/NNS of/IN cubically/RB regularized/VBN methods/NNS ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN this/DT is/VBZ the/DT first/JJ work/NN that/WDT gives/VBZ global/JJ convergence/NN guarantees/NNS for/IN a/DT sub-sampled/JJ variant/NN of/IN cubic/JJ regularization/NN on/IN non-convex/JJ functions/NNS ./.
+Furthermore/RB ,/, we/PRP provide/VBP experimental/JJ results/NNS supporting/VBG our/PRP$ theory/NN ./.

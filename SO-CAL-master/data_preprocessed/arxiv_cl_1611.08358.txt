@@ -1,0 +1,11 @@
+Spelling/NN errors/NNS are/VBP introduced/VBN in/IN text/NN either/CC during/IN typing/NN ,/, or/CC when/WRB the/DT user/NN does/VBZ not/RB know/VB the/DT correct/JJ phoneme/NN or/CC grapheme/NN ./.
+If/IN a/DT language/NN contains/VBZ complex/JJ words/NNS like/IN sandhi/NNS where/WRB two/CD or/CC more/JJR morphemes/NNS join/VBP based/VBN on/IN some/DT rules/NNS ,/, spell/VB checking/VBG becomes/VBZ very/RB tedious/JJ ./.
+In/IN such/JJ situations/NNS ,/, having/VBG a/DT spell/NN checker/NN with/IN sandhi/JJ splitter/NN which/WDT alerts/NNS the/DT user/NN by/IN flagging/VBG the/DT errors/NNS and/CC providing/VBG suggestions/NNS is/VBZ very/RB useful/JJ ./.
+A/DT novel/JJ algorithm/NN of/IN sandhi/NN splitting/NN is/VBZ proposed/VBN in/IN this/DT paper/NN ./.
+The/DT sandhi/JJ splitter/NN can/MD split/VB about/IN 7000/CD most/RBS common/JJ sandhi/JJ words/NNS in/IN Kannada/NNP language/NN used/VBN as/IN test/NN samples/NNS ./.
+The/DT sandhi/JJ splitter/NN was/VBD integrated/VBN with/IN a/DT Kannada/NNP spell/NN checker/NN and/CC a/DT mechanism/NN for/IN generating/VBG suggestions/NNS was/VBD added/VBN ./.
+A/DT comprehensive/JJ ,/, platform/NN independent/JJ ,/, standalone/JJ spell/NN checker/NN with/IN sandhi/JJ splitter/NN application/NN software/NN was/VBD thus/RB developed/VBN and/CC tested/VBN extensively/RB for/IN its/PRP$ efficiency/NN and/CC correctness/NN ./.
+A/DT comparative/JJ analysis/NN of/IN this/DT spell/NN checker/NN with/IN sandhi/JJ splitter/NN was/VBD made/VBN and/CC results/NNS concluded/VBD that/IN the/DT Kannada/NNP spell/NN checker/NN with/IN sandhi/JJ splitter/NN has/VBZ an/DT improved/VBN performance/NN ./.
+It/PRP is/VBZ twice/RB as/RB fast/RB ,/, 200/CD times/NNS more/JJR space/NN efficient/JJ ,/, and/CC it/PRP is/VBZ 90/CD percent/NN accurate/JJ in/IN case/NN of/IN complex/JJ nouns/NNS and/CC 50/CD percent/NN accurate/JJ for/IN complex/JJ verbs/NNS ./.
+Such/PDT a/DT spell/NN checker/NN with/IN sandhi/JJ splitter/NN will/MD be/VB of/IN foremost/JJ significance/NN in/IN machine/NN translation/NN systems/NNS ,/, voice/NN processing/NN ,/, etc/FW ./.
+This/DT is/VBZ the/DT first/JJ sandhi/JJ splitter/NN in/IN Kannada/NNP and/CC the/DT advantage/NN of/IN the/DT novel/JJ algorithm/NN is/VBZ that/IN ,/, it/PRP can/MD be/VB extended/VBN to/IN all/DT Indian/JJ languages/NNS ./.

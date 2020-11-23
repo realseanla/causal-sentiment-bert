@@ -1,0 +1,5 @@
+Techniques for plan recognition under uncertainty require a stochastic model of the plan-generation process.
+We introduce Probabilistic State-Dependent Grammars (PSDGs) to represent an agent's plan-generation process.
+The PSDG language model extends probabilistic context-free grammars (PCFGs) by allowing production probabilities to depend on an explicit model of the planning agent's internal and external state.
+Given a PSDG description of the plan-generation process, we can then use inference algorithms that exploit the particular independence properties of the PSDG language to efficiently answer plan-recognition queries.
+The combination of the PSDG language model and inference algorithms extends the range of plan-recognition domains for which practical probabilistic inference is possible, as illustrated by applications in traffic monitoring and air combat.

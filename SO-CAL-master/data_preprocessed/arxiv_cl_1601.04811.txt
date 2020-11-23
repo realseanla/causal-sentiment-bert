@@ -1,0 +1,4 @@
+However/RB ,/, attentional/JJ NMT/NN ignores/VBZ past/JJ alignment/NN information/NN ,/, which/WDT leads/VBZ to/IN over-translation/NN and/CC under/IN -/HYPH translation/NN problems/NNS ./.
+In/IN response/NN to/IN this/DT problem/NN ,/, we/PRP maintain/VBP a/DT coverage/NN vector/NN to/TO keep/VB track/NN of/IN the/DT attention/NN history/NN ./.
+The/DT coverage/NN vector/NN is/VBZ fed/VBN to/IN the/DT attention/NN model/NN to/TO help/VB adjust/VB the/DT future/JJ attention/NN ,/, which/WDT guides/VBZ NMT/NN to/TO pay/VB more/JJR attention/NN to/IN the/DT untranslated/JJ source/NN words/NNS ./.
+Experiments/NNS show/VBP that/IN coverage/NN -/HYPH based/VBN NMT/NNP significantly/RB improves/VBZ both/DT alignment/NN and/CC translation/NN quality/NN over/IN NMT/NN without/IN coverage/NN ./.

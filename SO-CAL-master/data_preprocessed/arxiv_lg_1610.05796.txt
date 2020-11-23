@@ -1,0 +1,6 @@
+This/DT paper/NN proposes/VBZ a/DT client/NN -/HYPH server/NN decision/NN tree/NN learning/NN method/NN for/IN outsourced/VBN private/JJ data/NNS ./.
+The/DT privacy/NN model/NN is/VBZ anatomization/NN //HYPH fragmentation/NN :/: the/DT server/NN sees/VBZ data/NNS values/NNS ,/, but/CC the/DT link/NN between/IN sensitive/JJ and/CC identifying/VBG information/NN is/VBZ encrypted/VBN with/IN a/DT key/JJ known/VBN only/RB to/IN clients/NNS ./.
+Clients/NNS have/VBP limited/VBN processing/NN and/CC storage/NN capability/NN ./.
+Both/DT sensitive/JJ and/CC identifying/VBG information/NN thus/RB are/VBP stored/VBN on/IN the/DT server/NN ./.
+The/DT approach/NN presented/VBD also/RB retains/VBZ most/JJS processing/NN at/IN the/DT server/NN ,/, and/CC client/NN -/HYPH side/NN processing/NN is/VBZ amortized/VBN over/IN predictions/NNS made/VBN by/IN the/DT clients/NNS ./.
+Experiments/NNS on/IN various/JJ datasets/NNS show/VBP that/IN the/DT method/NN produces/VBZ decision/NN trees/NNS approaching/VBG the/DT accuracy/NN of/IN a/DT non-private/JJ decision/NN tree/NN ,/, while/IN substantially/RB reducing/VBG the/DT client/NN 's/POS computing/NN resource/NN requirements/NNS ./.

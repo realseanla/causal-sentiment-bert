@@ -1,0 +1,12 @@
+How/WRB do/VBP you/PRP learn/VB to/TO navigate/VB an/DT Unmanned/JJ Aerial/JJ Vehicle/NN (/-LRB- UAV/NNP )/-RRB- and/CC avoid/VB obstacles/NNS ?/.
+One/CD approach/NN is/VBZ to/TO use/VB a/DT small/JJ dataset/NN collected/VBN by/IN human/JJ experts/NNS :/: however/RB ,/, high/JJ capacity/NN learning/VBG algorithms/NNS tend/VBP to/TO overfit/VB when/WRB trained/VBN with/IN little/JJ data/NNS ./.
+An/DT alternative/NN is/VBZ to/TO use/VB simulation/NN ./.
+But/CC the/DT gap/NN between/IN simulation/NN and/CC real/JJ world/NN remains/VBZ large/JJ especially/RB for/IN perception/NN problems/NNS ./.
+The/DT reason/NN most/RBS research/NN avoids/VBZ using/VBG large/JJ -/HYPH scale/NN real/JJ data/NNS is/VBZ the/DT fear/NN of/IN crashes/NNS !/.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/IN bite/VB the/DT bullet/NN and/CC collect/VB a/DT dataset/NN of/IN crashes/NNS itself/PRP !/.
+We/PRP build/VBP a/DT drone/VB whose/WP$ sole/JJ purpose/NN is/VBZ to/TO crash/VB into/IN objects/NNS :/: it/PRP samples/VBZ naive/JJ trajectories/NNS and/CC crashes/NNS into/IN random/JJ objects/NNS ./.
+We/PRP crash/VBP our/PRP$ drone/VB 11,500/CD times/NNS to/TO create/VB one/CD of/IN the/DT biggest/JJS UAV/NNP crash/NN dataset/NN ./.
+This/DT dataset/NN captures/VBZ the/DT different/JJ ways/NNS in/IN which/WDT a/DT UAV/NNP can/MD crash/VB ./.
+We/PRP use/VBP all/PDT this/DT negative/JJ flying/NN data/NNS in/IN conjunction/NN with/IN positive/JJ data/NNS sampled/VBN from/IN the/DT same/JJ trajectories/NNS to/TO learn/VB a/DT simple/JJ yet/CC powerful/JJ policy/NN for/IN UAV/NNP navigation/NN ./.
+We/PRP show/VBP that/IN this/DT simple/JJ self/NN -/HYPH supervised/JJ model/NN is/VBZ quite/RB effective/JJ in/IN navigating/VBG the/DT UAV/NNP even/RB in/IN extremely/RB cluttered/JJ environments/NNS with/IN dynamic/JJ obstacles/NNS including/VBG humans/NNS ./.
+For/IN supplementary/JJ video/NN see/VB :/:

@@ -1,0 +1,5 @@
+The Random Mutation Hill-Climbing algorithm is a direct search technique mostly used in discrete domains.
+It repeats the process of randomly selecting a neighbour of a best-so-far solution and accepts the neighbour if it is better than or equal to it.
+In this work, we propose to use a novel method to select the neighbour solution using a set of independent multi- armed bandit-style selection units which results in a bandit-based Random Mutation Hill-Climbing algorithm.
+The new algorithm significantly outperforms Random Mutation Hill-Climbing in both OneMax (in noise-free and noisy cases) and Royal Road problems (in the noise-free case).
+The algorithm shows particular promise for discrete optimisation problems where each fitness evaluation is expensive.

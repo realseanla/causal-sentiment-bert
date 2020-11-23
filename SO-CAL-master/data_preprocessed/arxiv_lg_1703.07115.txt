@@ -1,0 +1,8 @@
+Deep/JJ learning/NN has/VBZ shown/VBN promising/JJ results/NNS in/IN many/JJ machine/NN learning/NN applications/NNS ./.
+The/DT hierarchical/JJ feature/NN representation/NN built/VBN by/IN deep/JJ networks/NNS enable/VBP compact/JJ and/CC precise/JJ encoding/NN of/IN the/DT data/NNS ./.
+A/DT kernel/NN analysis/NN of/IN the/DT trained/VBN deep/JJ networks/NNS demonstrated/VBD that/IN with/IN deeper/JJR layers/NNS ,/, more/JJR simple/JJ and/CC more/RBR accurate/JJ data/NNS representations/NNS are/VBP obtained/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT approach/NN for/IN layer-wise/JJ training/NN of/IN a/DT deep/JJ network/NN for/IN the/DT supervised/JJ classification/NN task/NN ./.
+A/DT transformation/NN matrix/NN of/IN each/DT layer/NN is/VBZ obtained/VBN by/IN solving/VBG an/DT optimization/NN aimed/VBN at/IN a/DT better/JJR representation/NN where/WRB a/DT subsequent/JJ layer/NN builds/VBZ its/PRP$ representation/NN on/IN the/DT top/NN of/IN the/DT features/NNS produced/VBN by/IN a/DT previous/JJ layer/NN ./.
+We/PRP compared/VBD the/DT performance/NN of/IN our/PRP$ approach/NN with/IN a/DT DNN/NN trained/VBN using/VBG back/RB -/HYPH propagation/NN which/WDT has/VBZ same/JJ architecture/NN as/IN ours/PRP ./.
+Experimental/JJ results/NNS on/IN the/DT real/JJ image/NN datasets/NNS demonstrate/VBP efficacy/NN of/IN our/PRP$ approach/NN ./.
+We/PRP also/RB performed/VBD kernel/NN analysis/NN of/IN layer/NN representations/NNS to/TO validate/VB the/DT claim/NN of/IN better/JJR feature/NN encoding/VBG ./.

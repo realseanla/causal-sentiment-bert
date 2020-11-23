@@ -1,0 +1,10 @@
+One/CD of/IN the/DT central/JJ themes/NNS in/IN Sum/NNP -/HYPH Product/NNP networks/NNS (/-LRB- SPNs/NNS )/-RRB- is/VBZ the/DT interpretation/NN of/IN sum/NN nodes/NNS as/IN marginalized/VBN latent/JJ variables/NNS (/-LRB- LVs/NNS )/-RRB- ./.
+This/DT interpretation/NN yields/VBZ an/DT increased/VBN syntactic/JJ or/CC semantic/JJ structure/NN ,/, allows/VBZ the/DT application/NN of/IN the/DT EM/NNP algorithm/NN and/CC to/TO efficiently/RB perform/VB MPE/NNP inference/NN ./.
+In/IN literature/NN ,/, the/DT LV/NNP interpretation/NN was/VBD justified/VBN by/IN explicitly/RB introducing/VBG the/DT indicator/NN variables/NNS corresponding/VBG to/IN the/DT LVs/NNS '/POS states/NNS ./.
+However/RB ,/, as/IN pointed/VBN out/RP in/IN this/DT paper/NN ,/, this/DT approach/NN is/VBZ in/IN conflict/NN with/IN the/DT completeness/NN condition/NN in/IN SPNs/NNS and/CC does/VBZ not/RB fully/RB specify/VB the/DT probabilistic/JJ model/NN ./.
+We/PRP propose/VBP a/DT remedy/NN for/IN this/DT problem/NN by/IN modifying/VBG the/DT original/JJ approach/NN for/IN introducing/VBG the/DT LVs/NNS ,/, which/WDT we/PRP call/VBP SPN/NNP augmentation/NN ./.
+We/PRP discuss/VBP conditional/JJ independencies/NNS in/IN augmented/VBN SPNs/NNS ,/, formally/RB establish/VB the/DT probabilistic/JJ interpretation/NN of/IN the/DT sum/NN -/HYPH weights/NNS and/CC give/VB an/DT interpretation/NN of/IN augmented/VBN SPNs/NNS as/IN Bayesian/JJ networks/NNS ./.
+Based/VBN on/IN these/DT results/NNS ,/, we/PRP find/VBP a/DT sound/NN derivation/NN of/IN the/DT EM/NNP algorithm/NN for/IN SPNs/NNS ,/, which/WDT was/VBD presented/VBN mistaken/JJ in/IN literature/NN ./.
+Furthermore/RB ,/, the/DT Viterbi/NNP -/HYPH style/NN algorithm/NN for/IN MPE/NNP proposed/VBN in/IN literature/NN was/VBD never/RB proven/VBN to/TO be/VB correct/JJ ./.
+We/PRP show/VBP that/IN this/DT is/VBZ indeed/RB a/DT correct/JJ algorithm/NN ,/, when/WRB applied/VBN to/IN augmented/VBN SPNs/NNS ./.
+Our/PRP$ theoretical/JJ results/NNS are/VBP confirmed/VBN in/IN experiments/NNS on/IN synthetic/JJ data/NNS and/CC 103/CD real/JJ -/HYPH world/NN datasets/NNS ./.

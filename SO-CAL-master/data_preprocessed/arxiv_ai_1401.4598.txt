@@ -1,0 +1,9 @@
+Planning/NN as/IN satisfiability/NN is/VBZ a/DT principal/JJ approach/NN to/IN planning/VBG with/IN many/JJ eminent/JJ advantages/NNS ./.
+The/DT existing/VBG planning/NN as/IN satisfiability/NN techniques/NNS usually/RB use/VBP encodings/NNS compiled/VBN from/IN STRIPS/NNS ./.
+We/PRP introduce/VBP a/DT novel/JJ SAT/NN encoding/VBG scheme/NN (/-LRB- SASE/NNP )/-RRB- based/VBN on/IN the/DT SAS/NNP formalism/NN ./.
+The/DT new/JJ scheme/NN exploits/VBZ the/DT structural/JJ information/NN in/IN SAS/NNP ,/, resulting/VBG in/IN an/DT encoding/VBG that/DT is/VBZ both/CC more/JJR compact/JJ and/CC efficient/JJ for/IN planning/NN ./.
+We/PRP prove/VBP the/DT correctness/NN of/IN the/DT new/JJ encoding/NN by/IN establishing/VBG an/DT isomorphism/NN between/IN the/DT solution/NN plans/NNS of/IN SASE/NNP and/CC that/DT of/IN STRIPS/NNS based/VBN encodings/NNS ./.
+We/PRP further/RB analyze/VB the/DT transition/NN variables/NNS newly/RB introduced/VBN in/IN SASE/NNP to/TO explain/VB why/WRB it/PRP accommodates/VBZ modern/JJ SAT/VBD solving/VBG algorithms/NNS and/CC improves/VBZ performance/NN ./.
+We/PRP give/VBP empirical/JJ statistical/JJ results/NNS to/TO support/VB our/PRP$ analysis/NN ./.
+We/PRP also/RB develop/VBP a/DT number/NN of/IN techniques/NNS to/TO further/RB reduce/VB the/DT encoding/VBG size/NN of/IN SASE/NNP ,/, and/CC conduct/VB experimental/JJ studies/NNS to/TO show/VB the/DT strength/NN of/IN each/DT individual/JJ technique/NN ./.
+Finally/RB ,/, we/PRP report/VBP extensive/JJ experimental/JJ results/NNS to/TO demonstrate/VB significant/JJ improvements/NNS of/IN SASE/NNP over/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN STRIPS/NNS based/VBN encoding/VBG schemes/NNS in/IN terms/NNS of/IN both/DT time/NN and/CC memory/NN efficiency/NN ./.

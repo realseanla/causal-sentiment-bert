@@ -1,0 +1,11 @@
+Belief/NN merging/NN is/VBZ an/DT important/JJ but/CC difficult/JJ problem/NN in/IN Artificial/NNP Intelligence/NNP ,/, especially/RB when/WRB sources/NNS of/IN information/NN are/VBP pervaded/VBN with/IN uncertainty/NN ./.
+Many/JJ merging/VBG operators/NNS have/VBP been/VBN proposed/VBN to/TO deal/VB with/IN this/DT problem/NN in/IN possibilistic/JJ logic/NN ,/, a/DT weighted/JJ logic/NN which/WDT is/VBZ powerful/JJ for/IN handling/VBG inconsistency/NN and/CC deal/NN -/HYPH ing/VBG with/IN uncertainty/NN ./.
+They/PRP often/RB result/VBP in/IN a/DT possibilistic/JJ knowledge/NN base/NN which/WDT is/VBZ a/DT set/NN of/IN weighted/JJ formulas/NNS ./.
+Although/IN possibilistic/JJ logic/NN is/VBZ inconsistency/NN tolerant/JJ ,/, it/PRP suers/VBZ from/IN the/DT well/NN -/HYPH known/VBN "/`` drowning/VBG effect/NN "/'' ./.
+Therefore/RB ,/, we/PRP may/MD still/RB want/VB to/TO obtain/VB a/DT consistent/JJ possi/NN -/HYPH bilistic/JJ knowledge/NN base/NN as/IN the/DT result/NN of/IN merg/NN -/HYPH ing/VBG ./.
+In/IN such/PDT a/DT case/NN ,/, we/PRP argue/VBP that/IN it/PRP is/VBZ not/RB always/RB necessary/JJ to/TO keep/VB weighted/JJ informa/NN -/HYPH tion/NN after/IN merging/VBG ./.
+In/IN this/DT paper/NN ,/, we/PRP define/VBP a/DT merging/VBG operator/NN that/WDT maps/VBZ a/DT set/NN of/IN pos/NN -/HYPH sibilistic/JJ knowledge/NN bases/NNS and/CC a/DT formula/NN rep/NN -/HYPH resenting/VBG the/DT integrity/NN constraints/NNS to/IN a/DT clas/NN -/HYPH sical/JJ knowledge/NN base/NN by/IN using/VBG lexicographic/JJ ordering/NN ./.
+We/PRP show/VBP that/IN it/PRP satisfies/VBZ nine/CD pos/NN -/HYPH tulates/NNS that/WDT generalize/VBP basic/JJ postulates/NNS for/IN propositional/JJ merging/NN given/VBN in/IN [/-LRB- 11/CD ]/-RRB- ./.
+These/DT postulates/NNS capture/VBP the/DT principle/NN of/IN minimal/JJ change/NN in/IN some/DT sense/NN ./.
+We/PRP then/RB provide/VBP an/DT algorithm/NN for/IN generating/VBG the/DT resulting/VBG knowl/NN -/HYPH edge/NN base/NN of/IN our/PRP$ merging/VBG operator/NN ./.
+Finally/RB ,/, we/PRP discuss/VBP the/DT compatibility/NN of/IN our/PRP$ merging/VBG operator/NN with/IN propositional/JJ merging/NN and/CC es/NN -/HYPH tablish/NN the/DT advantage/NN of/IN our/PRP$ merging/VBG opera/NN -/HYPH tor/NN over/IN existing/VBG semantic/JJ merging/NN operators/NNS in/IN the/DT propositional/JJ case/NN ./.

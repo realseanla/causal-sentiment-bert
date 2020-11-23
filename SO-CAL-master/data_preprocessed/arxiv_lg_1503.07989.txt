@@ -1,0 +1,10 @@
+We/PRP propose/VBP a/DT Bayesian/JJ approach/NN to/TO learn/VB discriminative/JJ dictionaries/NNS for/IN sparse/JJ representation/NN of/IN data/NNS ./.
+The/DT proposed/VBN approach/NN infers/VBZ probability/NN distributions/NNS over/IN the/DT atoms/NNS of/IN a/DT discriminative/JJ dictionary/NN using/VBG a/DT Beta/NN Process/NN ./.
+It/PRP also/RB computes/VBZ sets/NNS of/IN Bernoulli/NNP distributions/NNS that/WDT associate/VBP class/NN labels/NNS to/IN the/DT learned/VBN dictionary/NN atoms/NNS ./.
+This/DT association/NN signifies/VBZ the/DT selection/NN probabilities/NNS of/IN the/DT dictionary/JJ atoms/NNS in/IN the/DT expansion/NN of/IN class/NN -/HYPH specific/JJ data/NNS ./.
+Furthermore/RB ,/, the/DT non-parametric/JJ character/NN of/IN the/DT proposed/VBN approach/NN allows/VBZ it/PRP to/IN infer/VB the/DT correct/JJ size/NN of/IN the/DT dictionary/NN ./.
+We/PRP exploit/VBP the/DT aforementioned/JJ Bernoulli/NNP distributions/NNS in/IN separately/RB learning/VBG a/DT linear/JJ classifier/NN ./.
+The/DT classifier/NN uses/VBZ the/DT same/JJ hierarchical/JJ Bayesian/JJ model/NN as/IN the/DT dictionary/NN ,/, which/WDT we/PRP present/VBP along/IN the/DT analytical/JJ inference/NN solution/NN for/IN Gibbs/NNP sampling/NN ./.
+For/IN classification/NN ,/, a/DT test/NN instance/NN is/VBZ first/JJ sparsely/RB encoded/VBN over/IN the/DT learned/VBN dictionary/NN and/CC the/DT codes/NNS are/VBP fed/VBN to/IN the/DT classifier/NN ./.
+We/PRP performed/VBD experiments/NNS for/IN face/NN and/CC action/NN recognition/NN ;/: and/CC object/NN and/CC scene/NN -/HYPH category/NN classification/NN using/VBG five/CD public/JJ datasets/NNS and/CC compared/VBN the/DT results/NNS with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN discriminative/JJ sparse/JJ representation/NN approaches/NNS ./.
+Experiments/NNS show/VBP that/IN the/DT proposed/VBN Bayesian/JJ approach/NN consistently/RB outperforms/VBZ the/DT existing/VBG approaches/NNS ./.

@@ -1,0 +1,9 @@
+In/IN pattern/NN mining/NN ,/, the/DT main/JJ challenge/NN is/VBZ the/DT exponential/JJ explosion/NN of/IN the/DT set/NN of/IN patterns/NNS ./.
+Typically/RB ,/, to/TO solve/VB this/DT problem/NN ,/, a/DT constraint/NN for/IN pattern/NN selection/NN is/VBZ introduced/VBN ./.
+One/CD of/IN the/DT first/JJ constraints/NNS proposed/VBN in/IN pattern/NN mining/NN is/VBZ support/NN (/-LRB- frequency/NN )/-RRB- of/IN a/DT pattern/NN in/IN a/DT dataset/NN ./.
+Frequency/NN is/VBZ an/DT anti-monotonic/JJ function/NN ,/, i.e./FW ,/, given/VBN an/DT infrequent/JJ pattern/NN ,/, all/DT its/PRP$ superpatterns/NNS are/VBP not/RB frequent/JJ ./.
+However/RB ,/, many/JJ other/JJ constraints/NNS for/IN pattern/NN selection/NN are/VBP neither/CC monotonic/JJ nor/CC anti-monotonic/JJ ,/, which/WDT makes/VBZ it/PRP difficult/JJ to/TO generate/VB patterns/NNS satisfying/VBG these/DT constraints/NNS ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP the/DT notion/NN of/IN "/`` generalized/VBN monotonicity/NN "/'' and/CC Sofia/NNP algorithm/NN that/WDT allow/VBP generating/VBG best/JJS patterns/NNS in/IN polynomial/JJ time/NN for/IN some/DT nonmonotonic/JJ constraints/NNS modulo/JJ constraint/NN computation/NN and/CC pattern/NN extension/NN operations/NNS ./.
+In/IN particular/JJ ,/, this/DT algorithm/NN is/VBZ polynomial/JJ for/IN data/NNS on/IN itemsets/NNS and/CC interval/NN tuples/NNS ./.
+In/IN this/DT paper/NN we/PRP consider/VBP stability/NN and/CC delta/NN -/HYPH measure/NN which/WDT are/VBP nonmonotonic/JJ constraints/NNS and/CC apply/VB them/PRP to/IN interval/NN tuple/NN datasets/NNS ./.
+In/IN the/DT experiments/NNS ,/, we/PRP compute/VBP best/JJS interval/NN tuple/NN patterns/NNS w.r.t./VBP these/DT measures/NNS and/CC show/VB the/DT advantage/NN of/IN our/PRP$ approach/NN over/IN postfiltering/VBG approaches/NNS ./.

@@ -1,0 +1,7 @@
+Audio/NNP event/NN detection/NN in/IN the/DT era/NN of/IN Big/NNP Data/NNP has/VBZ the/DT constraint/NN of/IN lacking/VBG annotations/NNS to/TO train/VB robust/JJ models/NNS that/WDT match/VBP the/DT scale/NN of/IN class/NN diversity/NN ./.
+This/DT is/VBZ mainly/RB due/IN to/IN the/DT expensive/JJ and/CC time/NN -/HYPH consuming/VBG process/NN of/IN manually/RB annotating/VBG sound/JJ events/NNS in/IN isolation/NN or/CC as/IN segments/NNS within/IN audio/JJ recordings/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT approach/NN for/IN semi-supervised/JJ self/NN -/HYPH training/NN of/IN audio/JJ event/NN detectors/NNS using/VBG unlabeled/JJ web/NN data/NNS ./.
+We/PRP started/VBD with/IN a/DT small/JJ annotated/JJ dataset/NN and/CC trained/VBN sound/JJ events/NNS detectors/NNS ./.
+Then/RB ,/, we/PRP crawl/VBP and/CC collect/VBP thousands/NNS of/IN web/NN videos/NNS and/CC extract/VB their/PRP$ soundtrack/NN ./.
+The/DT segmented/JJ soundtracks/NNS are/VBP run/VBN by/IN the/DT detectors/NNS and/CC different/JJ selection/NN techniques/NNS were/VBD used/VBN to/TO determine/VB whether/IN a/DT segment/NN should/MD be/VB used/VBN for/IN self/NN -/HYPH training/VBG the/DT detectors/NNS ./.
+The/DT original/JJ detectors/NNS were/VBD compared/VBN to/IN the/DT self/NN -/HYPH trained/VBN detectors/NNS and/CC the/DT results/NNS showed/VBD a/DT performance/NN improvement/NN by/IN the/DT latter/JJ when/WRB evaluated/VBN on/IN the/DT annotated/JJ test/NN set/NN ./.

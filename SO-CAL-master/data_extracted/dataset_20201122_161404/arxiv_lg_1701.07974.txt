@@ -1,0 +1,7 @@
+Standard error backpropagation is used in almost all modern deep network training.
+However, it typically suffers from proliferation of saddle points in high-dimensional parameter space.
+Therefore, it is highly desirable to design an efficient algorithm to escape from these saddle points and reach a good parameter region of better generalization capabilities, especially based on rough insights about the landscape of the error surface.
+Here, we propose a simple extension of the backpropagation, namely reinforced backpropagation, which simply adds previous first-order gradients in a stochastic manner with a probability that increases with learning time.
+Extensive numerical simulations on a toy deep learning model verify its excellent performance.
+The reinforced backpropagation can significantly improve test performance of the deep network training, especially when the data are scarce.
+The performance is even better than that of state-of-the-art stochastic optimization algorithm called Adam, with an extra advantage of less computer memory required.

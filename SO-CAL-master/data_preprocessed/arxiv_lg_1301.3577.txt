@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT simple/JJ new/JJ regularizer/NN for/IN auto/NN -/HYPH encoders/NNS whose/WP$ hidden/JJ -/HYPH unit/NN activation/NN functions/VBZ contain/VBP at/IN least/RBS one/CD zero/CD -/HYPH gradient/NN (/-LRB- saturated/VBN )/-RRB- region/NN ./.
+This/DT regularizer/NN explicitly/RB encourages/VBZ activations/NNS in/IN the/DT saturated/VBN region/NN (/-LRB- s/AFX )/-RRB- of/IN the/DT corresponding/VBG activation/NN function/NN ./.
+We/PRP call/VBP these/DT Saturating/VBG Auto/NN -/HYPH Encoders/NNS (/-LRB- SATAE/NNP )/-RRB- ./.
+We/PRP show/VBP that/IN the/DT saturation/NN regularizer/NN explicitly/RB limits/VBZ the/DT SATAE/NNP 's/POS ability/NN to/TO reconstruct/VB inputs/NNS which/WDT are/VBP not/RB near/IN the/DT data/NNS manifold/NN ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN a/DT wide/JJ variety/NN of/IN features/NNS can/MD be/VB learned/VBN when/WRB different/JJ activation/NN functions/NNS are/VBP used/VBN ./.
+Finally/RB ,/, connections/NNS are/VBP established/VBN with/IN the/DT Contractive/JJ and/CC Sparse/JJ Auto/NN -/HYPH Encoders/NNS ./.

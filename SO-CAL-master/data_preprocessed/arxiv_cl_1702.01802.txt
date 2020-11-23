@@ -1,0 +1,7 @@
+Knowledge/NN distillation/NN describes/VBZ a/DT method/NN for/IN training/VBG a/DT student/NN network/NN to/TO perform/VB better/JJR by/IN learning/VBG from/IN a/DT stronger/JJR teacher/NN network/NN ./.
+In/IN this/DT work/NN ,/, we/PRP run/VBP experiments/NNS with/IN different/JJ kinds/NNS of/IN teacher/NN net/NN -/HYPH works/NNS to/TO enhance/VB the/DT translation/NN performance/NN of/IN a/DT student/NN Neural/JJ Machine/NN Translation/NN (/-LRB- NMT/NN )/-RRB- network/NN ./.
+We/PRP demonstrate/VBP techniques/NNS based/VBN on/IN an/DT ensemble/NN and/CC a/DT best/JJS BLEU/NN teacher/NN network/NN ./.
+We/PRP also/RB show/VBP how/WRB to/TO benefit/VB from/IN a/DT teacher/NN network/NN that/WDT has/VBZ the/DT same/JJ architecture/NN and/CC dimensions/NNS of/IN the/DT student/NN network/NN ./.
+Further/RB -/HYPH more/JJR ,/, we/PRP introduce/VBP a/DT data/NN filtering/NN technique/NN based/VBN on/IN the/DT dissimilarity/NN between/IN the/DT forward/JJ translation/NN (/-LRB- obtained/VBN during/IN knowledge/NN distillation/NN )/-RRB- of/IN a/DT given/VBN source/NN sentence/NN and/CC its/PRP$ target/NN reference/NN ./.
+We/PRP use/VBP TER/NNP to/TO measure/VB dissimilarity/NN ./.
+Finally/RB ,/, we/PRP show/VBP that/IN an/DT ensemble/NN teacher/NN model/NN can/MD significantly/RB reduce/VB the/DT student/NN model/NN size/NN while/IN still/RB getting/VBG performance/NN improvements/NNS compared/VBN to/IN the/DT baseline/NN student/NN network/NN ./.

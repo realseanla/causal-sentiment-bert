@@ -1,0 +1,7 @@
+Word/NNP embeddings/NNS improve/VBP generalization/NN over/IN lexical/JJ features/NNS by/IN placing/VBG each/DT word/NN in/IN a/DT lower/JJR -/HYPH dimensional/JJ space/NN ,/, using/VBG distributional/JJ information/NN obtained/VBN from/IN unlabeled/JJ data/NNS ./.
+However/RB ,/, the/DT effectiveness/NN of/IN word/NN embeddings/NNS for/IN downstream/JJ NLP/NN tasks/NNS is/VBZ limited/VBN by/IN out/RB -/HYPH of/IN -/HYPH vocabulary/NN (/-LRB- OOV/NN )/-RRB- words/NNS ,/, for/IN which/WDT embeddings/NNS do/VBP not/RB exist/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP MIMICK/NNP ,/, an/DT approach/NN to/IN generating/VBG OOV/NNP word/NN embeddings/NNS compositionally/RB ,/, by/IN learning/VBG a/DT function/NN from/IN spellings/NNS to/IN distributional/JJ embeddings/NNS ./.
+Unlike/IN prior/JJ work/NN ,/, MIMICK/NNP does/VBZ not/RB require/VB re-training/NN on/IN the/DT original/JJ word/NN embedding/NN corpus/NN ;/: instead/RB ,/, learning/NN is/VBZ performed/VBN at/IN the/DT type/NN level/NN ./.
+Intrinsic/JJ and/CC extrinsic/JJ evaluations/NNS demonstrate/VBP the/DT power/NN of/IN this/DT simple/JJ approach/NN ./.
+On/IN 23/CD languages/NNS ,/, MIMICK/NNP improves/VBZ performance/NN over/IN a/DT word/NN -/HYPH based/VBN baseline/NN for/IN tagging/VBG part/NN -/HYPH of/IN -/HYPH speech/NN and/CC morphosyntactic/JJ attributes/NNS ./.
+It/PRP is/VBZ competitive/JJ with/IN (/-LRB- and/CC complementary/JJ to/TO )/-RRB- a/DT supervised/JJ character/NN -/HYPH based/VBN model/NN in/IN low/JJ -/HYPH resource/NN settings/NNS ./.

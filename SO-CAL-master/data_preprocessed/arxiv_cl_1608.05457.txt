@@ -1,0 +1,7 @@
+We/PRP have/VBP constructed/VBN a/DT new/JJ "/`` Who/WP -/HYPH did/VBD -/HYPH What/WP "/`` dataset/NN of/IN over/IN 200,000/CD fill/NN -/HYPH in/IN -/HYPH the/DT -/HYPH gap/NN (/-LRB- cloze/NN )/-RRB- multiple/JJ choice/NN reading/NN comprehension/NN problems/NNS constructed/VBN from/IN the/DT LDC/NNP English/NNP Gigaword/NNP newswire/NN corpus/NN ./.
+The/DT WDW/NNP dataset/NN has/VBZ a/DT variety/NN of/IN novel/JJ features/NNS ./.
+First/RB ,/, in/IN contrast/NN with/IN the/DT CNN/NNP and/CC Daily/NNP Mail/NNP datasets/NNS (/-LRB- Hermann/NNP et/FW al./FW ,/, 2015/CD )/-RRB- we/PRP avoid/VBP using/VBG article/NN summaries/NNS for/IN question/NN formation/NN ./.
+Instead/RB ,/, each/DT problem/NN is/VBZ formed/VBN from/IN two/CD independent/JJ articles/NNS ---/, an/DT article/NN given/VBN as/IN the/DT passage/NN to/TO be/VB read/VBN and/CC a/DT separate/JJ article/NN on/IN the/DT same/JJ events/NNS used/VBN to/TO form/VB the/DT question/NN ./.
+Second/RB ,/, we/PRP avoid/VBP anonymization/NN ---/, each/DT choice/NN is/VBZ a/DT person/NN named/VBN entity/NN ./.
+Third/JJ ,/, the/DT problems/NNS have/VBP been/VBN filtered/VBN to/TO remove/VB a/DT fraction/NN that/WDT are/VBP easily/RB solved/VBN by/IN simple/JJ baselines/NNS ,/, while/IN remaining/VBG 84/CD percent/NN solvable/JJ by/IN humans/NNS ./.
+We/PRP report/VBP performance/NN benchmarks/NNS of/IN standard/JJ systems/NNS and/CC propose/VB the/DT WDW/NNP dataset/NN as/IN a/DT challenge/NN task/NN for/IN the/DT community/NN ./.

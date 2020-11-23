@@ -1,0 +1,6 @@
+Data/NNS noising/JJ is/VBZ an/DT effective/JJ technique/NN for/IN regularizing/VBG neural/JJ network/NN models/NNS ./.
+While/IN noising/JJ is/VBZ widely/RB adopted/VBN in/IN application/NN domains/NNS such/JJ as/IN vision/NN and/CC speech/NN ,/, commonly/RB used/VBN noising/JJ primitives/NNS have/VBP not/RB been/VBN developed/VBN for/IN discrete/JJ sequence/NN -/HYPH level/NN settings/NNS such/JJ as/IN language/NN modeling/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP derive/VBP a/DT connection/NN between/IN input/NN noising/JJ in/IN neural/JJ network/NN language/NN models/NNS and/CC smoothing/VBG in/IN $/$ n/NN $/$ -/HYPH gram/NN models/NNS ./.
+Using/VBG this/DT connection/NN ,/, we/PRP draw/VBP upon/IN ideas/NNS from/IN smoothing/VBG to/TO develop/VB effective/JJ noising/JJ schemes/NNS ./.
+We/PRP demonstrate/VBP performance/NN gains/NNS when/WRB applying/VBG the/DT proposed/VBN schemes/NNS to/IN language/NN modeling/NN and/CC machine/NN translation/NN ./.
+Finally/RB ,/, we/PRP provide/VBP empirical/JJ analysis/NN validating/VBG the/DT relationship/NN between/IN noising/JJ and/CC smoothing/NN ./.

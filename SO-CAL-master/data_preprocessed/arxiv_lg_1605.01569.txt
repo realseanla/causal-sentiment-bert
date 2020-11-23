@@ -1,0 +1,12 @@
+Human/JJ motion/NN plays/VBZ an/DT important/JJ role/NN in/IN many/JJ fields/NNS ./.
+Large/JJ databases/NNS exist/VBP that/IN store/NN and/CC make/VB available/JJ recordings/NNS of/IN human/JJ motions/NNS ./.
+However/RB ,/, annotating/VBG each/DT motion/NN with/IN multiple/JJ labels/NNS is/VBZ a/DT cumbersome/JJ and/CC error/NN -/HYPH prone/JJ process/NN ./.
+This/DT bachelor/NN 's/POS thesis/NN presents/VBZ different/JJ approaches/NNS to/TO solve/VB the/DT multi-label/JJ classification/NN problem/NN using/VBG Hidden/VBN Markov/NNP Models/NNPS (/-LRB- HMMs/NNS )/-RRB- ./.
+First/RB ,/, different/JJ features/NNS that/WDT can/MD be/VB directly/RB obtained/VBN from/IN the/DT raw/JJ data/NNS are/VBP introduced/VBN ./.
+Next/RB ,/, additional/JJ features/NNS are/VBP derived/VBN to/TO improve/VB classification/NN performance/NN ./.
+These/DT features/NNS are/VBP then/RB used/VBN to/TO perform/VB the/DT multi-label/JJ classification/NN using/VBG two/CD different/JJ approaches/NNS ./.
+The/DT first/JJ approach/NN simply/RB transforms/VBZ the/DT multi-label/JJ problem/NN into/IN a/DT multi-class/JJ problem/NN ./.
+The/DT second/JJ ,/, novel/JJ approach/NN solves/VBZ the/DT same/JJ problem/NN without/IN the/DT need/NN to/TO construct/VB a/DT transformation/NN by/IN predicting/VBG the/DT labels/NNS directly/RB from/IN the/DT likelihood/NN scores/NNS ./.
+The/DT second/JJ approach/NN scales/NNS linearly/RB with/IN the/DT number/NN of/IN labels/NNS whereas/IN the/DT first/JJ approach/NN is/VBZ subject/JJ to/IN combinatorial/JJ explosion/NN ./.
+All/DT aspects/NNS of/IN the/DT classification/NN process/NN are/VBP evaluated/VBN on/IN a/DT data/NN set/NN that/WDT consists/VBZ of/IN 454/CD motions/NNS ./.
+System/NNP 1/CD achieves/VBZ an/DT accuracy/NN of/IN 98.02/CD percent/NN and/CC system/NN 2/CD an/DT accuracy/NN of/IN 93.39/CD percent/NN on/IN the/DT test/NN set/NN ./.

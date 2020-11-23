@@ -1,0 +1,3 @@
+We improve "learning to search" approaches to structured prediction in two ways.
+First, we show that the search space can be defined by an arbitrary imperative program, reducing the number of lines of code required to develop new structured prediction tasks by orders of magnitude.
+Second, we make structured prediction orders of magnitude faster through various algorithmic improvements.

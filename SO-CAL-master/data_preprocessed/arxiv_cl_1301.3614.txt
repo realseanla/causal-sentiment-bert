@@ -1,0 +1,5 @@
+A/DT neural/JJ probabilistic/JJ language/NN model/NN (/-LRB- NPLM/NN )/-RRB- provide/VBP an/DT idea/NN to/TO achieve/VB the/DT better/JJR perplexity/NN than/IN n/NN -/HYPH gram/NN language/NN model/NN and/CC their/PRP$ smoothed/VBN language/NN models/NNS ./.
+This/DT paper/NN investigates/VBZ application/NN area/NN in/IN bilingual/JJ NLP/NN ,/, specifically/RB Statistical/JJ Machine/NN Translation/NN (/-LRB- SMT/NN )/-RRB- ./.
+We/PRP focus/VBP on/IN the/DT perspectives/NNS that/WDT NPLM/NNP has/VBZ potential/JJ to/TO open/VB the/DT possibility/NN to/TO complement/VB potentially/RB `/`` huge/JJ '/'' monolingual/JJ resources/NNS into/IN the/DT `/`` resource/NN -/HYPH constraint/NN '/'' bilingual/JJ resources/NNS ./.
+In/IN order/NN to/TO facilitate/VB the/DT application/NN to/IN various/JJ tasks/NNS ,/, we/PRP propose/VBP the/DT joint/JJ space/NN model/NN of/IN ngram/NN -/HYPH HMM/NN language/NN model/NN ./.
+We/PRP show/VBP two/CD experiments/NNS in/IN SMT/NNP :/: system/NN combination/NN and/CC word/NN alignment/NN ./.

@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT deep/JJ hierarchical/JJ recurrent/JJ neural/JJ network/NN for/IN sequence/NN tagging/NN ./.
+Given/VBN a/DT sequence/NN of/IN words/NNS ,/, our/PRP$ model/NN employs/VBZ deep/RB gated/VBN recurrent/JJ units/NNS on/IN both/DT character/NN and/CC word/NN levels/NNS to/TO encode/VB morphology/NN and/CC context/NN information/NN ,/, and/CC applies/VBZ a/DT conditional/JJ random/JJ field/NN layer/NN to/TO predict/VB the/DT tags/NNS ./.
+Our/PRP$ model/NN is/VBZ task/NN independent/JJ ,/, language/NN independent/JJ ,/, and/CC feature/NN engineering/NN free/JJ ./.
+We/PRP further/RB extend/VBP our/PRP$ model/NN to/TO multi-task/VB and/CC cross-lingual/JJ joint/JJ training/NN by/IN sharing/VBG the/DT architecture/NN and/CC parameters/NNS ./.
+Our/PRP$ model/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS in/IN multiple/JJ languages/NNS on/IN several/JJ benchmark/NN tasks/NNS including/VBG POS/NN tagging/NN ,/, chunking/VBG ,/, and/CC NER/NN ./.
+We/PRP also/RB demonstrate/VBP that/IN multi-task/VB and/CC cross-lingual/JJ joint/JJ training/NN can/MD improve/VB the/DT performance/NN in/IN various/JJ cases/NNS ./.

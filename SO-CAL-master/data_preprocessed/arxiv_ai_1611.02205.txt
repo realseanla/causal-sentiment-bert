@@ -1,0 +1,10 @@
+Mastering/VBG a/DT video/NN game/NN requires/VBZ skill/NN ,/, tactics/NNS and/CC strategy/NN ./.
+While/IN these/DT attributes/NNS may/MD be/VB acquired/VBN naturally/RB by/IN human/JJ players/NNS ,/, teaching/VBG them/PRP to/IN a/DT computer/NN program/NN is/VBZ a/DT far/RB more/RBR challenging/JJ task/NN ./.
+In/IN recent/JJ years/NNS ,/, extensive/JJ research/NN was/VBD carried/VBN out/RP in/IN the/DT field/NN of/IN reinforcement/NN learning/NN and/CC numerous/JJ algorithms/NNS were/VBD introduced/VBN ,/, aiming/VBG to/TO learn/VB how/WRB to/TO perform/VB human/JJ tasks/NNS such/JJ as/IN playing/VBG video/NN games/NNS ./.
+As/IN a/DT results/NNS ,/, the/DT Arcade/NNP Learning/NNP Environment/NNP (/-LRB- ALE/NN )/-RRB- has/VBZ become/VBN a/DT commonly/RB used/VBN benchmark/NN environment/NN allowing/VBG algorithms/NNS to/TO train/VB on/IN various/JJ Atari/NNP 2600/CD games/NNS ./.
+Most/JJS Atari/NNP games/NNS no/RB longer/RBR pose/VBP a/DT challenge/NN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithms/NNS ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP a/DT new/JJ learning/NN environment/NN ,/, the/DT Retro/NNP Learning/NNP Environment/NNP ---/, RLE/NNP ,/, based/VBN on/IN the/DT Super/NNP Nintendo/NNP Entertainment/NNP System/NNP (/-LRB- SNES/NNP )/-RRB- ./.
+The/DT environment/NN is/VBZ expandable/JJ ,/, allowing/VBG for/IN more/JJR video/NN games/NNS and/CC consoles/VBZ to/TO be/VB easily/RB added/VBN to/IN the/DT environment/NN ,/, while/IN maintaining/VBG the/DT same/JJ interface/NN as/IN ALE/NN ./.
+Moreover/RB ,/, RLE/NN is/VBZ compatible/JJ with/IN Python/NN and/CC Torch/NNP ./.
+SNES/NNP games/NNS pose/VBP a/DT significant/JJ challenge/NN to/IN current/JJ algorithms/NNS due/IN to/IN their/PRP$ higher/JJR level/NN of/IN complexity/NN and/CC versatility/NN ./.
+To/TO overcome/VB these/DT challenges/NNS ,/, we/PRP introduce/VBP a/DT novel/JJ training/NN method/NN based/VBN on/IN training/VBG two/CD agents/NNS against/IN each/DT other/JJ ./.

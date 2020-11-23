@@ -1,0 +1,10 @@
+Graphical/JJ Markov/NNP models/NNS determined/VBN by/IN acyclic/JJ digraphs/NNS (/-LRB- ADGs/NNS )/-RRB- ,/, also/RB called/VBN directed/VBN acyclic/JJ graphs/NNS (/-LRB- DAGs/NNS )/-RRB- ,/, are/VBP widely/RB studied/VBN in/IN statistics/NNS ,/, computer/NN science/NN (/-LRB- as/IN Bayesian/JJ networks/NNS )/-RRB- ,/, operations/NNS research/NN (/-LRB- as/IN influence/NN diagrams/NNS )/-RRB- ,/, and/CC many/JJ related/JJ fields/NNS ./.
+Because/IN different/JJ ADGs/NNS may/MD determine/VB the/DT same/JJ Markov/NNP equivalence/NN class/NN ,/, it/PRP long/RB has/VBZ been/VBN of/IN interest/NN to/TO determine/VB the/DT efficiency/NN gained/VBD in/IN model/NN specification/NN and/CC search/NN by/IN working/VBG directly/RB with/IN Markov/NNP equivalence/NN classes/NNS of/IN ADGs/NNS rather/RB than/IN with/IN ADGs/NNS themselves/PRP ./.
+A/DT computer/NN program/NN was/VBD written/VBN to/IN enumerate/VB the/DT equivalence/NN classes/NNS of/IN ADG/NN models/NNS as/IN specified/VBN by/IN Pearl/NNP &amp;/CC Verma/NNP 's/POS equivalence/NN criterion/NN ./.
+The/DT program/NN counted/VBN equivalence/NN classes/NNS for/IN models/NNS up/IN to/IN and/CC including/VBG 10/CD vertices/NNS ./.
+The/DT ratio/NN of/IN number/NN of/IN classes/NNS to/TO ADGs/NNS appears/VBZ to/TO approach/VB an/DT asymptote/NN of/IN about/RB 0.267/CD ./.
+Classes/NNS were/VBD analyzed/VBN according/VBG to/IN number/NN of/IN edges/NNS and/CC class/NN size/NN ./.
+By/IN edges/NNS ,/, the/DT distribution/NN of/IN number/NN of/IN classes/NNS approaches/VBZ a/DT Gaussian/JJ shape/NN ./.
+By/IN class/NN size/NN ,/, classes/NNS of/IN size/NN 1/CD are/VBP most/RBS common/JJ ,/, with/IN the/DT proportions/NNS for/IN larger/JJR sizes/NNS initially/RB decreasing/VBG but/CC then/RB following/VBG a/DT more/RBR irregular/JJ pattern/NN ./.
+The/DT maximum/JJ number/NN of/IN classes/NNS generated/VBN by/IN any/DT undirected/JJ graph/NN was/VBD found/VBN to/TO increase/VB approximately/RB factorially/RB ./.
+The/DT program/NN also/RB includes/VBZ a/DT new/JJ variation/NN of/IN orderly/JJ algorithm/NN for/IN generating/VBG undirected/JJ graphs/NNS ./.

@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ neural/JJ approach/NN for/IN paraphrase/NN generation/NN ./.
+Conventional/JJ para/NN -/HYPH phrase/NN generation/NN methods/NNS either/CC leverage/NN hand/NN -/HYPH written/VBN rules/NNS and/CC thesauri/NN -/HYPH based/VBN alignments/NNS ,/, or/CC use/VB statistical/JJ machine/NN learning/VBG principles/NNS ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, this/DT work/NN is/VBZ the/DT first/JJ to/TO explore/VB deep/JJ learning/NN models/NNS for/IN paraphrase/NN generation/NN ./.
+Our/PRP$ primary/JJ contribution/NN is/VBZ a/DT stacked/VBN residual/JJ LSTM/NN network/NN ,/, where/WRB we/PRP add/VBP residual/JJ connections/NNS between/IN LSTM/NNP layers/NNS ./.
+This/DT allows/VBZ for/IN efficient/JJ training/NN of/IN deep/JJ LSTMs/NNPS ./.
+We/PRP evaluate/VBP our/PRP$ model/NN and/CC other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN deep/JJ learning/NN models/NNS on/IN three/CD different/JJ datasets/NNS :/: PPDB/NNP ,/, WikiAnswers/NNP and/CC MSCOCO/NNP ./.
+Evaluation/NN results/NNS demonstrate/VBP that/IN our/PRP$ model/NN outperforms/VBZ sequence/NN to/IN sequence/NN ,/, attention/NN -/HYPH based/VBN and/CC bi/NN -/HYPH directional/JJ LSTM/NN models/NNS on/IN BLEU/NNP ,/, METEOR/NNP ,/, TER/NNP and/CC an/DT embedding/NN -/HYPH based/VBN sentence/NN similarity/NN metric/JJ ./.

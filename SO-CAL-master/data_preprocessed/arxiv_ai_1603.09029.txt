@@ -1,0 +1,7 @@
+We/PRP study/VBP the/DT worst/JJS -/HYPH case/NN adaptive/JJ optimization/NN problem/NN with/IN budget/NN constraint/NN ./.
+Unlike/IN previous/JJ works/NNS ,/, we/PRP consider/VBP the/DT general/JJ setting/NN where/WRB the/DT cost/NN is/VBZ a/DT set/NN function/NN on/IN sets/NNS of/IN decisions/NNS ./.
+For/IN this/DT setting/NN ,/, we/PRP investigate/VBP the/DT near/JJ -/HYPH optimality/NN of/IN greedy/JJ policies/NNS when/WRB the/DT utility/NN function/NN satisfies/VBZ a/DT novel/JJ property/NN called/VBN pointwise/NN cost/NN -/HYPH sensitive/JJ submodularity/NN ./.
+This/DT property/NN is/VBZ an/DT extension/NN of/IN cost/NN -/HYPH sensitive/JJ submodularity/NN ,/, which/WDT in/IN turn/NN is/VBZ a/DT generalization/NN of/IN submodularity/NN to/IN general/JJ cost/NN functions/NNS ./.
+We/PRP prove/VBP that/IN two/CD simple/JJ greedy/JJ policies/NNS for/IN the/DT problem/NN are/VBP not/RB near/JJ -/HYPH optimal/JJ but/CC the/DT best/JJS between/IN them/PRP is/VBZ near/JJ -/HYPH optimal/JJ ./.
+With/IN this/DT result/NN ,/, we/PRP propose/VBP a/DT combined/VBN policy/NN that/WDT is/VBZ near/JJ -/HYPH optimal/JJ with/IN respect/NN to/IN the/DT optimal/JJ worst/JJS -/HYPH case/NN policy/NN that/WDT uses/VBZ half/NN of/IN the/DT budget/NN ./.
+We/PRP discuss/VBP applications/NNS of/IN our/PRP$ theoretical/JJ results/NNS and/CC also/RB report/VBP experimental/JJ results/NNS comparing/VBG the/DT greedy/JJ policies/NNS on/IN the/DT active/JJ learning/NN problem/NN ./.

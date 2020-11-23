@@ -1,0 +1,10 @@
+We/PRP study/VBP motion/NN planning/NN problems/NNS where/WRB agents/NNS move/VBP inside/RB environments/NNS that/WDT are/VBP not/RB fully/RB observable/JJ and/CC subject/JJ to/IN uncertainties/NNS ./.
+The/DT goal/NN is/VBZ to/TO compute/VB a/DT strategy/NN for/IN an/DT agent/NN that/WDT is/VBZ guaranteed/VBN to/TO satisfy/VB certain/JJ safety/NN and/CC performance/NN specifications/NNS ./.
+Such/JJ problems/NNS are/VBP naturally/RB modelled/VBN by/IN partially/RB observable/JJ Markov/NNP decision/NN processes/NNS (/-LRB- POMDPs/NNS )/-RRB- ./.
+Because/IN of/IN the/DT potentially/RB huge/JJ or/CC even/RB infinite/JJ belief/NN space/NN of/IN POMDPs/NNS ,/, verification/NN and/CC strategy/NN synthesis/NN is/VBZ in/IN general/JJ computationally/RB intractable/JJ ./.
+We/PRP tackle/VBP this/DT difficulty/NN by/IN exploiting/VBG typical/JJ structural/JJ properties/NNS of/IN such/JJ scenarios/NNS ;/: for/IN instance/NN ,/, we/PRP assume/VBP that/IN agents/NNS have/VBP the/DT ability/NN to/TO observe/VB their/PRP$ own/JJ positions/NNS inside/IN an/DT environment/NN ./.
+Ambiguity/NN in/IN the/DT state/NN of/IN the/DT environment/NN is/VBZ abstracted/VBN into/IN non-deterministic/JJ choices/NNS over/IN the/DT possible/JJ states/NNS of/IN the/DT environment/NN ./.
+Technically/RB ,/, this/DT abstraction/NN transforms/VBZ POMDPs/NNS into/IN probabilistic/JJ two/CD -/HYPH player/NN games/NNS (/-LRB- PGs/NNS )/-RRB- ./.
+For/IN these/DT PGs/NNS ,/, efficient/JJ verification/NN tools/NNS are/VBP able/JJ to/TO determine/VB strategies/NNS that/WDT approximate/VBP certain/JJ measures/NNS on/IN the/DT POMDP/NN ./.
+If/IN an/DT approximation/NN is/VBZ too/RB coarse/JJ to/TO provide/VB guarantees/NNS ,/, an/DT abstraction/NN refinement/NN scheme/NN further/RB resolves/VBZ the/DT belief/NN space/NN of/IN the/DT POMDP/NN ./.
+We/PRP demonstrate/VBP that/IN our/PRP$ method/NN improves/VBZ the/DT state/NN of/IN the/DT art/NN by/IN orders/NNS of/IN magnitude/NN compared/VBN to/IN a/DT direct/JJ solution/NN of/IN the/DT POMDP/NN ./.

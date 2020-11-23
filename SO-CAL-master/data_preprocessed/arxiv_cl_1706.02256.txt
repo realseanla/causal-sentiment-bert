@@ -1,0 +1,10 @@
+Resolving/VBG abstract/JJ anaphora/NN is/VBZ an/DT important/JJ ,/, but/CC difficult/JJ task/NN for/IN text/NN understanding/NN ./.
+With/IN recent/JJ advances/NNS in/IN representation/NN learning/VBG this/DT task/NN becomes/VBZ a/DT tangible/JJ aim/NN ./.
+A/DT central/JJ property/NN of/IN abstract/JJ anaphora/NN is/VBZ that/IN it/PRP establishes/VBZ a/DT relation/NN between/IN the/DT anaphor/NN embedded/VBN in/IN the/DT anaphoric/JJ sentence/NN and/CC its/PRP$ (/-LRB- typically/RB non-nominal/JJ )/-RRB- antecedent/NN ./.
+We/PRP propose/VBP an/DT LSTM/NN -/HYPH based/VBN mention/NN -/HYPH ranking/VBG model/NN that/WDT learns/VBZ how/WRB abstract/JJ anaphors/NNS relate/VBP to/IN their/PRP$ antecedents/NNS with/IN a/DT Siamese/JJ Net/NN ./.
+We/PRP overcome/VBP the/DT lack/NN of/IN training/NN data/NNS by/IN generating/VBG artificial/JJ anaphoric/JJ sentence/NN -/HYPH antecedent/NN pairs/NNS ./.
+Our/PRP$ model/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN shell/NN noun/NN resolution/NN ./.
+We/PRP also/RB report/VBP first/JJ benchmark/NN results/NNS on/IN an/DT abstract/JJ anaphora/NN subset/NN of/IN the/DT ARRAU/NNP corpus/NN ./.
+This/DT corpus/NN presents/VBZ a/DT greater/JJR challenge/NN due/IN to/IN a/DT greater/JJR range/NN of/IN confounders/NNS ./.
+Our/PRP$ model/NN is/VBZ able/JJ to/TO select/VB syntactically/RB plausible/JJ candidates/NNS and/CC -/HYPH if/IN disregarding/VBG syntax/NN -/HYPH discriminates/VBZ candidates/NNS using/VBG deeper/JJR features/NNS ./.
+Deeper/JJR inspection/NN shows/VBZ that/IN the/DT model/NN is/VBZ able/JJ to/TO learn/VB a/DT relation/NN between/IN the/DT anaphor/NN in/IN the/DT anaphoric/JJ sentence/NN and/CC its/PRP$ antecedent/NN ./.

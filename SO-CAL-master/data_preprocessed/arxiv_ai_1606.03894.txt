@@ -1,0 +1,5 @@
+This/DT work/NN introduces/VBZ a/DT probabilistic/JJ -/HYPH based/VBN model/NN for/IN binary/JJ CSP/NNP that/WDT provides/VBZ a/DT fine/JJ grained/JJ analysis/NN of/IN its/PRP$ internal/JJ structure/NN ./.
+Assuming/VBG that/IN a/DT domain/NN modification/NN could/MD occur/VB in/IN the/DT CSP/NNP ,/, it/PRP shows/VBZ how/WRB to/TO express/VB ,/, in/IN a/DT predictive/JJ way/NN ,/, the/DT probability/NN that/IN a/DT domain/NN value/NN becomes/VBZ inconsistent/JJ ,/, then/RB it/PRP express/VB the/DT expectation/NN of/IN the/DT number/NN of/IN arc/NN -/HYPH inconsistent/JJ values/NNS in/IN each/DT domain/NN of/IN the/DT constraint/NN network/NN ./.
+Thus/RB ,/, it/PRP express/VBP the/DT expectation/NN of/IN the/DT number/NN of/IN arc/NN -/HYPH inconsistent/JJ values/NNS for/IN the/DT whole/JJ constraint/NN network/NN ./.
+Next/RB ,/, it/PRP provides/VBZ bounds/NNS for/IN each/DT of/IN these/DT three/CD probabilistic/JJ indicators/NNS ./.
+Finally/RB ,/, a/DT polytime/NN algorithm/NN ,/, which/WDT propagates/VBZ the/DT probabilistic/JJ information/NN ,/, is/VBZ presented/VBN ./.

@@ -1,0 +1,7 @@
+The/DT purported/VBN "/`` black/JJ box/NN "/'' '/`` nature/NN of/IN neural/JJ networks/NNS is/VBZ a/DT barrier/NN to/IN adoption/NN in/IN applications/NNS where/WRB interpretability/NN is/VBZ essential/JJ ./.
+Here/RB we/PRP present/VBP DeepLIFT/NNP (/-LRB- Deep/NNP Learning/NNP Important/JJ FeaTures/NNS )/-RRB- ,/, a/DT method/NN for/IN decomposing/VBG the/DT output/NN prediction/NN of/IN a/DT neural/JJ network/NN on/IN a/DT specific/JJ input/NN by/IN backpropagating/VBG the/DT contributions/NNS of/IN all/DT neurons/NNS in/IN the/DT network/NN to/IN every/DT feature/NN of/IN the/DT input/NN ./.
+DeepLIFT/NNP compares/VBZ the/DT activation/NN of/IN each/DT neuron/NN to/IN its/PRP$ '/`` reference/NN activation/NN '/'' and/CC assigns/VBZ contribution/NN scores/NNS according/VBG to/IN the/DT difference/NN ./.
+By/IN optionally/RB giving/VBG separate/JJ consideration/NN to/IN positive/JJ and/CC negative/JJ contributions/NNS ,/, DeepLIFT/NNP can/MD also/RB reveal/VB dependencies/NNS which/WDT are/VBP missed/VBN by/IN other/JJ approaches/NNS ./.
+Scores/NNS can/MD be/VB computed/VBN efficiently/RB in/IN a/DT single/JJ backward/JJ pass/NN ./.
+We/PRP apply/VBP DeepLIFT/NN to/IN models/NNS trained/VBN on/IN MNIST/NNP and/CC simulated/VBN genomic/JJ data/NNS ,/, and/CC show/VBP significant/JJ advantages/NNS over/IN gradient/NN -/HYPH based/VBN methods/NNS ./.
+A/DT detailed/JJ video/NN tutorial/NN on/IN the/DT method/NN is/VBZ at/IN

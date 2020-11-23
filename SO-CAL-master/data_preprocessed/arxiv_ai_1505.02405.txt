@@ -1,0 +1,8 @@
+Most/JJS recent/JJ MaxSAT/NNP algorithms/NNS rely/VBP on/IN a/DT succession/NN of/IN calls/NNS to/IN a/DT SAT/NN solver/NN in/IN order/NN to/TO find/VB an/DT optimal/JJ solution/NN ./.
+In/IN particular/JJ ,/, several/JJ algorithms/NNS take/VBP advantage/NN of/IN the/DT ability/NN of/IN SAT/VBD solvers/NNS to/TO identify/VB unsatisfiable/JJ subformulas/NNS ./.
+Usually/RB ,/, these/DT MaxSAT/NNP algorithms/NNS perform/VBP better/JJR when/WRB small/JJ unsatisfiable/JJ subformulas/NNS are/VBP found/VBN early/RB ./.
+However/RB ,/, this/DT is/VBZ not/RB the/DT case/NN in/IN many/JJ problem/NN instances/NNS ,/, since/IN the/DT whole/JJ formula/NN is/VBZ given/VBN to/IN the/DT SAT/NN solver/NN in/IN each/DT call/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/IN partition/NN the/DT MaxSAT/NNP formula/NN using/VBG a/DT resolution/NN -/HYPH based/VBN graph/NN representation/NN ./.
+Partitions/NNS are/VBP then/RB iteratively/RB joined/VBN by/IN using/VBG a/DT proximity/NN measure/NN extracted/VBN from/IN the/DT graph/NN representation/NN of/IN the/DT formula/NN ./.
+The/DT algorithm/NN ends/VBZ when/WRB only/RB one/CD partition/NN remains/VBZ and/CC the/DT optimal/JJ solution/NN is/VBZ found/VBN ./.
+Experimental/JJ results/NNS show/VBP that/IN this/DT new/JJ approach/NN further/RB enhances/VBZ a/DT state/NN of/IN the/DT art/NN MaxSAT/NN solver/NN to/IN optimally/RB solve/VB a/DT larger/JJR set/NN of/IN industrial/JJ problem/NN instances/NNS ./.

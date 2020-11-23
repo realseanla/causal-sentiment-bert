@@ -1,0 +1,8 @@
+Implicit discourse relation recognition is a crucial component for automatic discourse-level analysis and nature language understanding.
+Previous studies exploit discriminative models that are built on either powerful manual features or deep discourse representations.
+In this paper, instead, we explore generative models and propose a variational neural discourse relation recognizer.
+We refer to this model as VIRILE.
+VIRILE establishes a directed probabilistic model with a latent continuous variable that generates both a discourse and the relation between the two arguments of the discourse.
+In order to perform efficient inference and learning, we introduce a neural discourse relation model to approximate the posterior of the latent variable, and employ this approximated posterior to optimize a reparameterized variational lower bound.
+This allows VIRILE to be trained with standard stochastic gradient methods.
+Experiments on the benchmark data set show that VIRILE can achieve competitive results against state-of-the-art baselines.

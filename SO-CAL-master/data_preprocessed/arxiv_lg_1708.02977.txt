@@ -1,0 +1,4 @@
+We/PRP address/VBP the/DT problem/NN of/IN end/NN -/HYPH to/IN -/HYPH end/NN visual/JJ storytelling/NN ./.
+Given/VBN a/DT photo/NN album/NN ,/, our/PRP$ model/NN first/RB selects/VBZ the/DT most/RBS representative/JJ (/-LRB- summary/NN )/-RRB- photos/NNS ,/, and/CC then/RB composes/VBZ a/DT natural/JJ language/NN story/NN for/IN the/DT album/NN ./.
+For/IN this/DT task/NN ,/, we/PRP make/VBP use/NN of/IN the/DT Visual/JJ Storytelling/NN dataset/NN and/CC a/DT model/NN composed/VBN of/IN three/CD hierarchically/RB -/HYPH attentive/JJ Recurrent/JJ Neural/JJ Nets/NNS (/-LRB- RNNs/NNS )/-RRB- to/IN :/: encode/VBP the/DT album/NN photos/NNS ,/, select/VB representative/NN (/-LRB- summary/NN )/-RRB- photos/NNS ,/, and/CC compose/VB the/DT story/NN ./.
+Automatic/NNP and/CC human/JJ evaluations/NNS show/VBP our/PRP$ model/NN achieves/VBZ better/JJR performance/NN on/IN selection/NN ,/, generation/NN ,/, and/CC retrieval/NN than/IN baselines/NNS ./.

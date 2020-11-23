@@ -1,0 +1,3 @@
+This paper aims to explore the effect of prior disambiguation on neural network- based compositional models, with the hope that better semantic representations for text compounds can be produced.
+We disambiguate the input word vectors before they are fed into a compositional deep net.
+A series of evaluations shows the positive effect of prior disambiguation for such deep models.

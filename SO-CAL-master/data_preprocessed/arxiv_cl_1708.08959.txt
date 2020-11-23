@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT simple/JJ LSTM/NN -/HYPH based/VBN transition/NN -/HYPH based/VBN dependency/NN parser/NN ./.
+Our/PRP$ model/NN is/VBZ composed/VBN of/IN a/DT single/JJ LSTM/NN hidden/VBN layer/NN replacing/VBG the/DT hidden/JJ layer/NN in/IN the/DT usual/JJ feed/NN -/HYPH forward/JJ network/NN architecture/NN ./.
+We/PRP also/RB propose/VBP a/DT new/JJ initialization/NN method/NN that/WDT uses/VBZ the/DT pre-trained/JJ weights/NNS from/IN a/DT feed/NN -/HYPH forward/JJ neural/JJ network/NN to/TO initialize/VB our/PRP$ LSTM/NN -/HYPH based/VBN model/NN ./.
+We/PRP also/RB show/VBP that/IN using/VBG dropout/NN on/IN the/DT input/NN layer/NN has/VBZ a/DT positive/JJ effect/NN on/IN performance/NN ./.
+Our/PRP$ final/JJ parser/NN achieves/VBZ a/DT 93.06/CD percent/NN unlabeled/JJ and/CC 91.01/CD percent/NN labeled/VBN attachment/NN score/NN on/IN the/DT Penn/NNP Treebank/NNP ./.
+We/PRP additionally/RB replace/VB LSTMs/NNS with/IN GRUs/NNS and/CC Elman/NNP units/NNS in/IN our/PRP$ model/NN and/CC explore/VB the/DT effectiveness/NN of/IN our/PRP$ initialization/NN method/NN on/IN individual/JJ gates/NNS constituting/VBG all/DT three/CD types/NNS of/IN RNN/NN units/NNS ./.

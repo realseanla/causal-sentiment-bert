@@ -1,0 +1,5 @@
+We/PRP propose/VBP minimum/JJ regret/NN search/NN (/-LRB- MRS/NNP )/-RRB- ,/, a/DT novel/JJ acquisition/NN function/NN for/IN Bayesian/JJ optimization/NN ./.
+MRS/NN bears/VBZ similarities/NNS with/IN information/NN -/HYPH theoretic/JJ approaches/NNS such/JJ as/IN entropy/NN search/NN (/-LRB- ES/NN )/-RRB- ./.
+However/RB ,/, while/IN ES/NN aims/VBZ in/IN each/DT query/NN at/IN maximizing/VBG the/DT information/NN gain/NN with/IN respect/NN to/IN the/DT global/JJ maximum/NN ,/, MRS/NNP aims/VBZ at/IN minimizing/VBG the/DT expected/VBN immediate/JJ regret/NN of/IN its/PRP$ ultimate/JJ recommendation/NN for/IN the/DT optimum/JJ ./.
+While/IN empirically/RB ES/NN and/CC MRS/NNP perform/VBP similar/JJ in/IN most/JJS of/IN the/DT cases/NNS ,/, MRS/NNP produces/VBZ fewer/JJR outliers/NNS with/IN high/JJ regret/NN than/IN ES/NN ./.
+We/PRP provide/VBP empirical/JJ results/NNS both/CC for/IN a/DT synthetic/JJ single/JJ -/HYPH task/NN optimization/NN problem/NN as/RB well/RB as/IN for/IN a/DT simulated/JJ multi-task/VB robotic/JJ control/NN problem/NN ./.

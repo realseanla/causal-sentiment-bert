@@ -1,0 +1,5 @@
+To/TO achieve/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN challenges/NNS in/IN vision/NN ,/, Convolutional/JJ Neural/JJ Networks/NNS learn/VBP stationary/JJ filters/NNS that/WDT take/VBP advantage/NN of/IN the/DT underlying/VBG image/NN structure/NN ./.
+Our/PRP$ purpose/NN is/VBZ to/TO propose/VB an/DT efficient/JJ layer/NN formulation/NN that/WDT extends/VBZ this/DT property/NN to/IN any/DT domain/NN described/VBN by/IN a/DT graph/NN ./.
+Namely/RB ,/, we/PRP use/VBP the/DT support/NN of/IN its/PRP$ adjacency/NN matrix/NN to/TO design/VB learnable/JJ weight/NN sharing/NN filters/NNS able/JJ to/TO exploit/VB the/DT underlying/JJ structure/NN of/IN signals/NNS ./.
+The/DT proposed/VBN formulation/NN makes/VBZ it/PRP possible/JJ to/TO learn/VB the/DT weights/NNS of/IN the/DT filter/NN as/RB well/RB as/IN a/DT scheme/NN that/WDT controls/VBZ how/WRB they/PRP are/VBP shared/VBN across/IN the/DT graph/NN ./.
+We/PRP perform/VBP validation/NN experiments/NNS with/IN image/NN datasets/NNS and/CC show/VBP that/IN these/DT filters/NNS offer/VBP performances/NNS comparable/JJ with/IN convolutional/JJ ones/NNS ./.

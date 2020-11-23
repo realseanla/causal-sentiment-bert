@@ -1,0 +1,7 @@
+Process mining techniques focus on extracting insight in processes from event logs.
+Process mining has the potential to provide valuable insights in (un)healthy habits and to contribute to ambient assisted living solutions when applied on data from smart home environments.
+However, events recorded in smart home environments are on the level of sensor triggers, at which process discovery algorithms produce overgeneralizing process models that allow for too much behavior and that are difficult to interpret for human experts.
+We show that abstracting the events to a higher-level interpretation can enable discovery of more precise and more comprehensible models.
+We present a framework for the extraction of features that can be used for abstraction with supervised learning methods that is based on the XES IEEE standard for event logs.
+This framework can automatically abstract sensor-level events to their interpretation at the human activity level, after training it on training data for which both the sensor and human activity events are known.
+We demonstrate our abstraction framework on three real-life smart home event logs and show that the process models that can be discovered after abstraction are more precise indeed.

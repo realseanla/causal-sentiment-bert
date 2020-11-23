@@ -1,0 +1,5 @@
+Distinguishing/VBG between/IN antonyms/NNS and/CC synonyms/NNS is/VBZ a/DT key/JJ task/NN to/TO achieve/VB high/JJ performance/NN in/IN NLP/NN systems/NNS ./.
+While/IN they/PRP are/VBP notoriously/RB difficult/JJ to/TO distinguish/VB by/IN distributional/JJ co-occurrence/NN models/NNS ,/, pattern/NN -/HYPH based/VBN methods/NNS have/VBP proven/VBN effective/JJ to/TO differentiate/VB between/IN the/DT relations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ neural/JJ network/NN model/NN AntSynNET/NN that/WDT exploits/VBZ lexico/NN -/HYPH syntactic/JJ patterns/NNS from/IN syntactic/JJ parse/VB trees/NNS ./.
+In/IN addition/NN to/IN the/DT lexical/JJ and/CC syntactic/JJ information/NN ,/, we/PRP successfully/RB integrate/VBP the/DT distance/NN between/IN the/DT related/JJ words/NNS along/IN the/DT syntactic/JJ path/NN as/IN a/DT new/JJ pattern/NN feature/NN ./.
+The/DT results/NNS from/IN classification/NN experiments/NNS show/VBP that/IN AntSynNET/NN improves/VBZ the/DT performance/NN over/IN prior/JJ pattern/NN -/HYPH based/VBN methods/NNS ./.

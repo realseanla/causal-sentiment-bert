@@ -1,0 +1,5 @@
+Given/VBN a/DT hypothesis/NN space/NN ,/, the/DT large/JJ volume/NN principle/NN by/IN Vladimir/NNP Vapnik/NNP prioritizes/VBZ equivalence/NN classes/NNS according/VBG to/IN their/PRP$ volume/NN in/IN the/DT hypothesis/NN space/NN ./.
+The/DT volume/NN approximation/NN has/VBZ hitherto/RB been/VBN successfully/RB applied/VBN to/IN binary/JJ learning/NN problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP extend/VBP it/PRP naturally/RB to/IN a/DT more/RBR general/JJ definition/NN which/WDT can/MD be/VB applied/VBN to/IN several/JJ transductive/JJ problem/NN settings/NNS ,/, such/JJ as/IN multi-class/NN ,/, multi-label/NN and/CC serendipitous/JJ learning/NN ./.
+Even/RB though/IN the/DT resultant/JJ learning/NN method/NN involves/VBZ a/DT non-convex/JJ optimization/NN problem/NN ,/, the/DT globally/RB optimal/JJ solution/NN is/VBZ almost/RB surely/RB unique/JJ and/CC can/MD be/VB obtained/VBN in/IN O/NN (/-LRB- n/NN ^/SYM 3/CD )/-RRB- time/NN ./.
+We/PRP theoretically/RB provide/VBP stability/NN and/CC error/NN analyses/NNS for/IN the/DT proposed/JJ method/NN ,/, and/CC then/RB experimentally/RB show/VB that/IN it/PRP is/VBZ promising/VBG ./.

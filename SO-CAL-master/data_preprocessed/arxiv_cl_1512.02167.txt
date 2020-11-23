@@ -1,0 +1,5 @@
+We/PRP describe/VBP a/DT very/RB simple/JJ bag/NN -/HYPH of/IN -/HYPH words/NNS baseline/NN for/IN visual/JJ question/NN answering/VBG ./.
+This/DT baseline/NN concatenates/VBZ the/DT word/NN features/VBZ from/IN the/DT question/NN and/CC CNN/NNP features/NNS from/IN the/DT image/NN to/TO predict/VB the/DT answer/NN ./.
+When/WRB evaluated/VBN on/IN the/DT challenging/JJ VQA/NN dataset/NN [/-LRB- 2/CD ]/-RRB- ,/, it/PRP shows/VBZ comparable/JJ performance/NN to/IN many/JJ recent/JJ approaches/NNS using/VBG recurrent/JJ neural/JJ networks/NNS ./.
+To/TO explore/VB the/DT strength/NN and/CC weakness/NN of/IN the/DT trained/VBN model/NN ,/, we/PRP also/RB provide/VBP an/DT interactive/JJ web/NN demo/NN and/CC open/JJ -/HYPH source/NN code/NN ./.
+./.

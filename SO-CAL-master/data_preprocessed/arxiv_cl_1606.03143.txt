@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP explore/VBP the/DT problem/NN of/IN document/NN summarization/NN in/IN Persian/JJ language/NN from/IN two/CD distinct/JJ angles/NNS ./.
+In/IN our/PRP$ first/JJ approach/NN ,/, we/PRP modify/VBP a/DT popular/JJ and/CC widely/RB cited/VBD Persian/JJ document/NN summarization/NN framework/NN to/TO see/VB how/WRB it/PRP works/VBZ on/IN a/DT realistic/JJ corpus/NN of/IN news/NN articles/NNS ./.
+Human/JJ evaluation/NN on/IN generated/VBN summaries/NNS shows/VBZ that/IN graph/NN -/HYPH based/VBN methods/NNS perform/VB better/JJR than/IN the/DT modified/VBN systems/NNS ./.
+We/PRP carry/VBP this/DT intuition/NN forward/RB in/IN our/PRP$ second/JJ approach/NN ,/, and/CC probe/NN deeper/JJR into/IN the/DT nature/NN of/IN graph/NN -/HYPH based/VBN systems/NNS by/IN designing/VBG several/JJ summarizers/NNS based/VBN on/IN centrality/NN measures/NNS ./.
+Ad/FW hoc/FW evaluation/NN using/VBG ROUGE/NN score/NN on/IN these/DT summarizers/NNS suggests/VBZ that/IN there/EX is/VBZ a/DT small/JJ class/NN of/IN centrality/NN measures/NNS that/WDT perform/VBP better/JJR than/IN three/CD strong/JJ unsupervised/JJ baselines/NNS ./.

@@ -1,0 +1,6 @@
+The specification of aMarkov decision process (MDP) can be difficult.
+Reward function specification is especially problematic; in practice, it is often cognitively complex and time-consuming for users to precisely specify rewards.
+This work casts the problem of specifying rewards as one of preference elicitation and aims to minimize the degree of precision with which a reward function must be specified while still allowing optimal or near-optimal policies to be produced.
+We first discuss how robust policies can be computed for MDPs given only partial reward information using the minimax regret criterion.
+We then demonstrate how regret can be reduced by efficiently eliciting reward information using bound queries, using regret-reduction as a means for choosing suitable queries.
+Empirical results demonstrate that regret-based reward elicitation offers an effective way to produce near-optimal policies without resorting to the precise specification of the entire reward function.

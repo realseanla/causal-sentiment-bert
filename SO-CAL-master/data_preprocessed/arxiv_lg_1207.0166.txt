@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT novel/JJ multilabel/NN //HYPH ranking/NN algorithm/NN working/VBG in/IN partial/JJ information/NN settings/NNS ./.
+The/DT algorithm/NN is/VBZ based/VBN on/IN 2nd/JJ -/HYPH order/NN descent/NN methods/NNS ,/, and/CC relies/VBZ on/IN upper/JJ -/HYPH confidence/NN bounds/NNS to/TO trade/VB -/HYPH off/RP exploration/NN and/CC exploitation/NN ./.
+We/PRP analyze/VBP this/DT algorithm/NN in/IN a/DT partial/JJ adversarial/JJ setting/NN ,/, where/WRB covariates/NNS can/MD be/VB adversarial/JJ ,/, but/CC multilabel/NN probabilities/NNS are/VBP ruled/VBN by/IN (/-LRB- generalized/VBN )/-RRB- linear/JJ models/NNS ./.
+We/PRP show/VBP O/NN (/-LRB- T/NN ^/SYM {/-LRB- 1/2/CD }/-RRB- log/NN T/NN )/-RRB- regret/NN bounds/NNS ,/, which/WDT improve/VBP in/IN several/JJ ways/NNS on/IN the/DT existing/VBG results/NNS ./.
+We/PRP test/VBP the/DT effectiveness/NN of/IN our/PRP$ upper/JJ -/HYPH confidence/NN scheme/NN by/IN contrasting/VBG against/IN full/JJ -/HYPH information/NN baselines/NNS on/IN real/JJ -/HYPH world/NN multilabel/NN datasets/NNS ,/, often/RB obtaining/VBG comparable/JJ performance/NN ./.

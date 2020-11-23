@@ -1,0 +1,8 @@
+This/DT paper/NN addresses/NNS learning/VBG in/IN repeated/VBN stochastic/JJ games/NNS (/-LRB- RSGs/NNS )/-RRB- played/VBN against/IN unknown/JJ associates/NNS ./.
+Learning/VBG in/IN RSGs/NNS is/VBZ extremely/RB challenging/JJ due/IN to/IN their/PRP$ inherently/RB large/JJ strategy/NN spaces/NNS ./.
+Furthermore/RB ,/, these/DT games/NNS typically/RB have/VBP multiple/JJ (/-LRB- often/RB infinite/JJ )/-RRB- equilibria/NNS ,/, making/VBG attempts/NNS to/TO solve/VB them/PRP via/IN equilibrium/NN analysis/NN and/CC rationality/NN assumptions/NNS wholly/RB insufficient/JJ ./.
+As/IN such/JJ ,/, previous/JJ learning/NN algorithms/NNS for/IN RSGs/NNS either/CC learn/VBP very/RB slowly/RB or/CC make/VB extremely/RB limiting/VBG assumptions/NNS about/IN the/DT game/NN structure/NN or/CC associates/NNS '/POS behaviors/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP and/CC evaluate/VBP the/DT notion/NN of/IN game/NN abstraction/NN by/IN experts/NNS (/-LRB- Gabe/NNP )/-RRB- for/IN two/CD -/HYPH player/NN general/JJ -/HYPH sum/NN RSGs/NNS ./.
+Gabe/NNP reduces/VBZ an/DT RSG/NN to/IN a/DT multi-armed/JJ bandit/NN problem/NN ,/, which/WDT can/MD then/RB be/VB solved/VBN using/VBG an/DT expert/NN algorithm/NN ./.
+Gabe/NNP maintains/VBZ many/JJ aspects/NNS of/IN the/DT original/JJ game/NN ,/, including/VBG security/NN and/CC Pareto/NN optimal/JJ Nash/NNP equilibria/NNS ./.
+We/PRP demonstrate/VBP that/IN Gabe/NNP substantially/RB outperforms/VBZ existing/VBG algorithms/NNS in/IN many/JJ scenarios/NNS ./.

@@ -1,0 +1,8 @@
+Technical/JJ documents/NNS contain/VBP a/DT fair/JJ amount/NN of/IN unnatural/JJ language/NN ,/, such/JJ as/IN tables/NNS ,/, formulas/NNS ,/, pseudo-codes/NNS ,/, etc/FW ./.
+Unnatural/JJ language/NN can/MD be/VB an/DT important/JJ factor/NN of/IN confusing/JJ existing/VBG NLP/NN tools/NNS ./.
+This/DT paper/NN presents/VBZ an/DT effective/JJ method/NN of/IN distinguishing/VBG unnatural/JJ language/NN from/IN natural/JJ language/NN ,/, and/CC evaluates/VBZ the/DT impact/NN of/IN unnatural/JJ language/NN detection/NN on/IN NLP/NN tasks/NNS such/JJ as/IN document/NN clustering/NN ./.
+We/PRP view/VBP this/DT problem/NN as/IN an/DT information/NN extraction/NN task/NN and/CC build/VB a/DT multiclass/NN classification/NN model/NN identifying/VBG unnatural/JJ language/NN components/NNS into/IN four/CD categories/NNS ./.
+First/RB ,/, we/PRP create/VBP a/DT new/JJ annotated/JJ corpus/NN by/IN collecting/VBG slides/NNS and/CC papers/NNS in/IN various/JJ formats/NNS ,/, PPT/NN ,/, PDF/NN ,/, and/CC HTML/NN ,/, where/WRB unnatural/JJ language/NN components/NNS are/VBP annotated/VBN into/IN four/CD categories/NNS ./.
+We/PRP then/RB explore/VB features/NNS available/JJ from/IN plain/JJ text/NN to/TO build/VB a/DT statistical/JJ model/NN that/WDT can/MD handle/VB any/DT format/NN as/RB long/RB as/IN it/PRP is/VBZ converted/VBN into/IN plain/JJ text/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN removing/VBG unnatural/JJ language/NN components/NNS gives/VBZ an/DT absolute/JJ improvement/NN in/IN document/NN clustering/NN up/IN to/IN 15/CD percent/NN ./.
+Our/PRP$ corpus/NN and/CC tool/NN are/VBP publicly/RB available/JJ ./.

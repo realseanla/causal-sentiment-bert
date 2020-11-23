@@ -1,0 +1,4 @@
+The/DT task/NN of/IN AMR/NNP -/HYPH to/IN -/HYPH text/NN generation/NN is/VBZ to/TO generate/VB grammatical/JJ text/NN that/WDT sustains/VBZ the/DT semantic/JJ meaning/NN for/IN a/DT given/VBN AMR/NNP graph/NN ./.
+We/PRP at/IN -/HYPH tack/NN the/DT task/NN by/IN first/JJ partitioning/VBG the/DT AMR/NNP graph/NN into/IN smaller/JJR fragments/NNS ,/, and/CC then/RB generating/VBG the/DT translation/NN for/IN each/DT fragment/NN ,/, before/IN finally/RB deciding/VBG the/DT order/NN by/IN solving/VBG an/DT asymmetric/JJ generalized/VBN traveling/VBG salesman/NN problem/NN (/-LRB- AGTSP/NN )/-RRB- ./.
+A/DT Maximum/NNP Entropy/NNP classifier/NN is/VBZ trained/VBN to/TO estimate/VB the/DT traveling/VBG costs/NNS ,/, and/CC a/DT TSP/NN solver/NN is/VBZ used/VBN to/TO find/VB the/DT optimized/VBN solution/NN ./.
+The/DT final/JJ model/NN reports/VBZ a/DT BLEU/NN score/NN of/IN 22.44/CD on/IN the/DT SemEval/NNP -/HYPH 2016/CD Task8/NN dataset/NN ./.

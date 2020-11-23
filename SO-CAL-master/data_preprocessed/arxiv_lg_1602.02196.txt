@@ -1,0 +1,6 @@
+We/PRP present/VBP efficient/JJ algorithms/NNS for/IN the/DT problem/NN of/IN contextual/JJ bandits/NNS with/IN i.i.d./NN covariates/NNS ,/, an/DT arbitrary/JJ sequence/NN of/IN rewards/NNS ,/, and/CC an/DT arbitrary/JJ class/NN of/IN policies/NNS ./.
+Our/PRP$ algorithm/NN BISTRO/NNP requires/VBZ d/NN calls/NNS to/IN the/DT empirical/JJ risk/NN minimization/NN (/-LRB- ERM/NN )/-RRB- oracle/NN per/IN round/NN ,/, where/WRB d/NN is/VBZ the/DT number/NN of/IN actions/NNS ./.
+The/DT method/NN uses/VBZ unlabeled/JJ data/NNS to/TO make/VB the/DT problem/NN computationally/RB simple/JJ ./.
+When/WRB the/DT ERM/NNP problem/NN itself/PRP is/VBZ computationally/RB hard/JJ ,/, we/PRP extend/VBP the/DT approach/NN by/IN employing/VBG multiplicative/JJ approximation/NN algorithms/NNS for/IN the/DT ERM/NNP ./.
+The/DT integrality/NN gap/NN of/IN the/DT relaxation/NN only/RB enters/VBZ in/IN the/DT regret/NN bound/VBN rather/RB than/IN the/DT benchmark/NN ./.
+Finally/RB ,/, we/PRP show/VBP that/IN the/DT adversarial/JJ version/NN of/IN the/DT contextual/JJ bandit/NN problem/NN is/VBZ learnable/JJ (/-LRB- and/CC efficient/JJ )/-RRB- whenever/WRB the/DT full/JJ -/HYPH information/NN supervised/VBD online/JJ learning/NN problem/NN has/VBZ a/DT non-trivial/JJ regret/NN guarantee/NN (/-LRB- and/CC efficient/JJ )/-RRB- ./.

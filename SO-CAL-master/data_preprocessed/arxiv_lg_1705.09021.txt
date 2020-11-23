@@ -1,0 +1,7 @@
+Pouring/VBG is/VBZ a/DT simple/JJ task/NN people/NNS perform/VBP daily/RB ./.
+It/PRP is/VBZ the/DT second/JJ most/RBS frequently/RB executed/VBN motion/NN in/IN cooking/VBG scenarios/NNS ,/, after/IN pick/NN -/HYPH and/CC -/HYPH place/NN ./.
+We/PRP present/VBP a/DT pouring/VBG trajectory/NN generation/NN approach/NN ,/, which/WDT uses/VBZ force/NN feedback/NN from/IN the/DT cup/NN to/TO determine/VB the/DT future/JJ velocity/NN of/IN pouring/VBG ./.
+The/DT approach/NN uses/VBZ recurrent/JJ neural/JJ networks/NNS as/IN its/PRP$ building/NN blocks/NNS ./.
+We/PRP collected/VBD the/DT pouring/VBG demonstrations/NNS which/WDT we/PRP used/VBD for/IN training/NN ./.
+To/TO test/VB our/PRP$ approach/NN in/IN simulation/NN ,/, we/PRP also/RB created/VBD and/CC trained/VBD a/DT force/NN estimation/NN system/NN ./.
+The/DT simulated/JJ experiments/NNS show/VBP that/IN the/DT system/NN is/VBZ able/JJ to/TO generalize/VB to/IN single/JJ unseen/JJ element/NN of/IN the/DT pouring/VBG characteristics/NNS ./.

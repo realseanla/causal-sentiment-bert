@@ -1,0 +1,6 @@
+Most/JJS state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN systems/NNS today/NN produce/VBP morphological/JJ analysis/NN based/VBN only/RB on/IN orthographic/JJ patterns/NNS ./.
+In/IN contrast/NN ,/, we/PRP propose/VBP a/DT model/NN for/IN unsupervised/JJ morphological/JJ analysis/NN that/WDT integrates/VBZ orthographic/JJ and/CC semantic/JJ views/NNS of/IN words/NNS ./.
+We/PRP model/VBP word/NN formation/NN in/IN terms/NNS of/IN morphological/JJ chains/NNS ,/, from/IN base/NN words/NNS to/IN the/DT observed/VBN words/NNS ,/, breaking/VBG the/DT chains/NNS into/IN parent/NN -/HYPH child/NN relations/NNS ./.
+We/PRP use/VBP log/NN -/HYPH linear/JJ models/NNS with/IN morpheme/NN and/CC word/NN -/HYPH level/NN features/NNS to/TO predict/VB possible/JJ parents/NNS ,/, including/VBG their/PRP$ modifications/NNS ,/, for/IN each/DT word/NN ./.
+The/DT limited/JJ set/NN of/IN candidate/NN parents/NNS for/IN each/DT word/NN render/VB contrastive/JJ estimation/NN feasible/JJ ./.
+Our/PRP$ model/NN consistently/RB matches/VBZ or/CC outperforms/VBZ five/CD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN systems/NNS on/IN Arabic/NNP ,/, English/NNP and/CC Turkish/JJ ./.

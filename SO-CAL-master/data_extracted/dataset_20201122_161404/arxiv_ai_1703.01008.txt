@@ -1,0 +1,3 @@
+This paper presents an end-to-end learning framework for task-completion neural dialogue systems, which leverages supervised and reinforcement learning with various deep-learning models.
+The system is able to interface with a structured database, and interact with users for assisting them to access information and complete tasks such as booking movie tickets.
+Our experiments in a movie-ticket booking domain show the proposed system outperforms a modular-based dialogue system and is more robust to noise produced by other components in the system.

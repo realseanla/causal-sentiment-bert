@@ -1,0 +1,5 @@
+A/DT classic/JJ tension/NN exists/VBZ between/IN exact/JJ inference/NN in/IN a/DT simple/JJ model/NN and/CC approximate/JJ inference/NN in/IN a/DT complex/JJ model/NN ./.
+The/DT latter/JJ offers/NNS expressivity/NN and/CC thus/RB accuracy/NN ,/, but/CC the/DT former/JJ provides/VBZ coverage/NN of/IN the/DT space/NN ,/, an/DT important/JJ property/NN for/IN confidence/NN estimation/NN and/CC learning/NN with/IN indirect/JJ supervision/NN ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP a/DT new/JJ approach/NN ,/, reified/VBN context/NN models/NNS ,/, to/TO reconcile/VB this/DT tension/NN ./.
+Specifically/RB ,/, we/PRP let/VBD the/DT amount/NN of/IN context/NN (/-LRB- the/DT arity/NN of/IN the/DT factors/NNS in/IN a/DT graphical/JJ model/NN )/-RRB- be/VB chosen/VBN "/`` at/RB run/VB -/HYPH time/NN "/'' by/IN reifying/VBG it/PRP ---/: that/DT is/VBZ ,/, letting/VBG this/DT choice/NN itself/PRP be/VB a/DT random/JJ variable/JJ inside/IN the/DT model/NN ./.
+Empirically/RB ,/, we/PRP show/VBP that/IN our/PRP$ approach/NN obtains/VBZ expressivity/NN and/CC coverage/NN on/IN three/CD natural/JJ language/NN tasks/NNS ./.

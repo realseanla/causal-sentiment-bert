@@ -1,0 +1,13 @@
+We/PRP present/VBP a/DT novel/JJ adaptive/JJ random/JJ subspace/NN learning/VBG algorithm/NN (/-LRB- RSSL/NN )/-RRB- for/IN prediction/NN purpose/NN ./.
+This/DT new/JJ framework/NN is/VBZ flexible/JJ where/WRB it/PRP can/MD be/VB adapted/VBN with/IN any/DT learning/NN technique/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP tested/VBD the/DT algorithm/NN for/IN regression/NN and/CC classification/NN problems/NNS ./.
+In/IN addition/NN ,/, we/PRP provide/VBP a/DT variety/NN of/IN weighting/NN schemes/NNS to/TO increase/VB the/DT robustness/NN of/IN the/DT developed/VBN algorithm/NN ./.
+These/DT different/JJ wighting/NN flavors/NNS were/VBD evaluated/VBN on/IN simulated/VBN as/RB well/RB as/IN on/IN real/JJ -/HYPH world/NN data/NN sets/NNS considering/VBG the/DT cases/NNS where/WRB the/DT ratio/NN between/IN features/NNS (/-LRB- attributes/NNS )/-RRB- and/CC instances/NNS (/-LRB- samples/NNS )/-RRB- is/VBZ large/JJ and/CC vice/RB versa/RB ./.
+The/DT framework/NN of/IN the/DT new/JJ algorithm/NN consists/VBZ of/IN many/JJ stages/NNS :/: first/RB ,/, calculate/VB the/DT weights/NNS of/IN all/DT features/NNS on/IN the/DT data/NNS set/VBN using/VBG the/DT correlation/NN coefficient/NN and/CC F/NN -/HYPH statistic/NN statistical/JJ measurements/NNS ./.
+Second/RB ,/, randomly/RB draw/VB n/NN samples/NNS with/IN replacement/NN from/IN the/DT data/NNS set/NN ./.
+Third/RB ,/, perform/VB regular/JJ bootstrap/NN sampling/NN (/-LRB- bagging/NN )/-RRB- ./.
+Fourth/RB ,/, draw/VB without/IN replacement/NN the/DT indices/NNS of/IN the/DT chosen/VBN variables/NNS ./.
+The/DT decision/NN was/VBD taken/VBN based/VBN on/IN the/DT heuristic/NN subspacing/NN scheme/NN ./.
+Fifth/NNP ,/, call/NN base/NN learners/NNS and/CC build/VB the/DT model/NN ./.
+Sixth/NNP ,/, use/VB the/DT model/NN for/IN prediction/NN purpose/NN on/IN test/NN set/NN of/IN the/DT data/NNS ./.
+The/DT results/NNS show/VBP the/DT advancement/NN of/IN the/DT adaptive/JJ RSSL/NN algorithm/NN in/IN most/JJS of/IN the/DT cases/NNS compared/VBN with/IN the/DT synonym/NN (/-LRB- conventional/JJ )/-RRB- machine/NN learning/NN algorithms/NNS ./.

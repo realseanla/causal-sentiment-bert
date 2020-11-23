@@ -1,0 +1,5 @@
+The/DT IDP/NNP knowledge/NN base/NN system/NN currently/RB uses/VBZ MiniSAT/NN (/-LRB- ID/NN )/-RRB- as/IN its/PRP$ backend/JJ Constraint/NN Programming/NN (/-LRB- CP/NN )/-RRB- solver/NN ./.
+A/DT few/JJ similar/JJ systems/NNS have/VBP used/VBN a/DT Mixed/JJ Integer/NN Programming/NN (/-LRB- MIP/NN )/-RRB- solver/NN as/IN backend/NN ./.
+However/RB ,/, so/RB far/RB little/JJ is/VBZ known/VBN about/IN when/WRB the/DT MIP/NN solver/NN is/VBZ preferable/JJ ./.
+This/DT paper/NN explores/VBZ this/DT question/NN ./.
+It/PRP describes/VBZ the/DT use/NN of/IN CPLEX/NNP as/IN a/DT backend/NN for/IN IDP/NNP and/CC reports/VBZ on/IN experiments/NNS comparing/VBG both/CC backends/NNS ./.

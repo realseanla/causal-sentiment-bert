@@ -1,0 +1,10 @@
+Binary/JJ relation/NN extraction/NN methods/NNS have/VBP been/VBN widely/RB studied/VBN in/IN recent/JJ years/NNS ./.
+However/RB ,/, few/JJ methods/NNS have/VBP been/VBN developed/VBN for/IN higher/JJR n/NN -/HYPH ary/NN relation/NN extraction/NN ./.
+One/CD limiting/VBG factor/NN is/VBZ the/DT effort/NN required/VBN to/TO generate/VB training/NN data/NNS ./.
+For/IN binary/JJ relations/NNS ,/, one/CD only/RB has/VBZ to/TO provide/VB a/DT few/JJ dozen/NN pairs/NNS of/IN entities/NNS per/IN relation/NN ,/, as/IN training/NN data/NNS ./.
+For/IN ternary/JJ relations/NNS (/-LRB- n/NN =/SYM 3/CD )/-RRB- ,/, each/DT training/NN instance/NN is/VBZ a/DT triplet/NN of/IN entities/NNS ,/, placing/VBG a/DT greater/JJR cognitive/JJ load/NN on/IN people/NNS ./.
+For/IN example/NN ,/, many/JJ people/NNS know/VBP that/IN Google/NNP acquired/VBD Youtube/NNP but/CC not/RB the/DT dollar/NN amount/NN or/CC the/DT date/NN of/IN the/DT acquisition/NN and/CC many/JJ people/NNS know/VBP that/IN Hillary/NNP Clinton/NNP is/VBZ married/VBN to/IN Bill/NNP Clinton/NNP by/IN not/RB the/DT location/NN or/CC date/NN of/IN their/PRP$ wedding/NN ./.
+This/DT makes/VBZ higher/JJR n/NN -/HYPH nary/PDT training/VBG data/NNS generation/NN a/DT time/NN consuming/VBG exercise/NN in/IN searching/VBG the/DT Web/NN ./.
+We/PRP present/VBP a/DT resource/NN for/IN training/NN ternary/JJ relation/NN extractors/NNS ./.
+This/DT was/VBD generated/VBN using/VBG a/DT minimally/RB supervised/VBN yet/RB effective/JJ approach/NN ./.
+We/PRP present/VBP statistics/NNS on/IN the/DT size/NN and/CC the/DT quality/NN of/IN the/DT dataset/NN ./.

@@ -1,0 +1,7 @@
+This/DT paper/NN addresses/VBZ the/DT task/NN of/IN set/VBN prediction/NN using/VBG deep/JJ learning/NN ./.
+This/DT is/VBZ important/JJ because/IN the/DT output/NN of/IN many/JJ computer/NN vision/NN tasks/NNS ,/, including/VBG image/NN tagging/NN and/CC object/NN detection/NN ,/, are/VBP naturally/RB expressed/VBN as/IN sets/NNS of/IN entities/NNS rather/RB than/IN vectors/NNS ./.
+As/IN opposed/VBN to/IN a/DT vector/NN ,/, the/DT size/NN of/IN a/DT set/NN is/VBZ not/RB fixed/VBN in/IN advance/NN ,/, and/CC it/PRP is/VBZ invariant/JJ to/IN the/DT ordering/NN of/IN entities/NNS within/IN it/PRP ./.
+We/PRP define/VBP a/DT likelihood/NN for/IN a/DT set/JJ distribution/NN and/CC learn/VB its/PRP$ parameters/NNS using/VBG a/DT deep/JJ neural/JJ network/NN ./.
+We/PRP also/RB derive/VBP a/DT loss/NN for/IN predicting/VBG a/DT discrete/JJ distribution/NN corresponding/VBG to/TO set/VB cardinality/NN ./.
+Set/VBN prediction/NN is/VBZ demonstrated/VBN on/IN the/DT problems/NNS of/IN multi-class/JJ image/NN classification/NN and/CC pedestrian/NN detection/NN ./.
+Our/PRP$ approach/NN yields/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS in/IN both/DT cases/NNS on/IN standard/JJ datasets/NNS ./.

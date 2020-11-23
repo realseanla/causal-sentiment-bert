@@ -1,0 +1,8 @@
+Generative Adversarial Net has shown its great ability in generating samples.
+The inverse mapping of generator also contains a great value.
+Some works have been developed to construct the inverse function of generator.
+However, the existing ways of training the inverse model of GANs have many shortcomings.
+In this paper, we propose a new approach of training the inverse model of generator by regarding a pre-trained generator as the decoder part of an autoencoder network.
+This model does not directly minimize the difference between original input and inverse output, but try to minimize the difference between the generated data by using original input and inverse output.
+This strategy overcome the difficulty in training a inverse model of a non one-to-one function.
+And the inverse mapping we learned can be directly used in image searching and processing.

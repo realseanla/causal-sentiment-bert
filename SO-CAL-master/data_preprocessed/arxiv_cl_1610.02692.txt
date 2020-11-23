@@ -1,0 +1,7 @@
+This/DT thesis/NN report/NN studies/NNS methods/NNS to/TO solve/VB Visual/JJ Question/NN -/HYPH Answering/VBG (/-LRB- VQA/NN )/-RRB- tasks/NNS with/IN a/DT Deep/JJ Learning/NN framework/NN ./.
+As/IN a/DT preliminary/JJ step/NN ,/, we/PRP explore/VBP Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- networks/NNS used/VBN in/IN Natural/NNP Language/NNP Processing/NNP (/-LRB- NLP/NNP )/-RRB- to/TO tackle/VB Question/NN -/HYPH Answering/VBG (/-LRB- text/NN based/VBN )/-RRB- ./.
+We/PRP then/RB modify/VB the/DT previous/JJ model/NN to/TO accept/VB an/DT image/NN as/IN an/DT input/NN in/IN addition/NN to/IN the/DT question/NN ./.
+For/IN this/DT purpose/NN ,/, we/PRP explore/VBP the/DT VGG/NN -/HYPH 16/CD and/CC K/CD -/HYPH CNN/NNP convolutional/JJ neural/JJ networks/NNS to/TO extract/VB visual/JJ features/NNS from/IN the/DT image/NN ./.
+These/DT are/VBP merged/VBN with/IN the/DT word/NN embedding/NN or/CC with/IN a/DT sentence/NN embedding/NN of/IN the/DT question/NN to/TO predict/VB the/DT answer/NN ./.
+This/DT work/NN was/VBD successfully/RB submitted/VBN to/IN the/DT Visual/JJ Question/NN Answering/VBG Challenge/NN 2016/CD ,/, where/WRB it/PRP achieved/VBD a/DT 53,62/CD percent/NN of/IN accuracy/NN in/IN the/DT test/NN dataset/NN ./.
+The/DT developed/VBN software/NN has/VBZ followed/VBN the/DT best/JJS programming/NN practices/NNS and/CC Python/NN code/NN style/NN ,/, providing/VBG a/DT consistent/JJ baseline/NN in/IN Keras/NNP for/IN different/JJ configurations/NNS ./.

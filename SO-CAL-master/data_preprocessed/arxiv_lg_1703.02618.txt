@@ -1,0 +1,5 @@
+Graph/NN -/HYPH based/VBN semi-supervised/JJ learning/NN (/-LRB- SSL/NN )/-RRB- algorithms/NNS predict/VBP labels/NNS for/IN all/DT nodes/NNS based/VBN on/IN provided/VBN labels/NNS of/IN a/DT small/JJ set/NN of/IN seed/NN nodes/NNS ./.
+Classic/NNP methods/NNS capture/VBP the/DT graph/NN structure/NN through/IN some/DT underlying/VBG diffusion/NN process/NN that/WDT propagates/VBZ through/IN the/DT graph/NN edges/NNS ./.
+Spectral/JJ diffusion/NN ,/, which/WDT includes/VBZ personalized/VBN page/NN rank/NN and/CC label/NN propagation/NN ,/, propagates/VBZ through/IN random/JJ walks/NNS ./.
+Social/NNP diffusion/NN propagates/VBZ through/IN shortest/JJS paths/NNS ./.
+A/DT common/JJ ground/NN to/IN these/DT diffusions/NNS is/VBZ their/PRP$ {/-LRB- \/SYM em/PRP linearity/NN }/-RRB- ,/, which/WDT does/VBZ not/RB distinguish/VB between/IN contributions/NNS of/IN few/JJ "/`` strong/JJ "/'' relations/NNS and/CC many/JJ "/'' weak/JJ "/`` relations/NNS ./.

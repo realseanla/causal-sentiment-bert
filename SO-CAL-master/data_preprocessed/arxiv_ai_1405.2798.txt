@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ two/CD -/HYPH stage/NN metric/JJ learning/NN algorithm/NN ./.
+We/PRP first/RB map/VB each/DT learning/NN instance/NN to/IN a/DT probability/NN distribution/NN by/IN computing/VBG its/PRP$ similarities/NNS to/IN a/DT set/NN of/IN fixed/VBN anchor/NN points/NNS ./.
+Then/RB ,/, we/PRP define/VBP the/DT distance/NN in/IN the/DT input/NN data/NNS space/NN as/IN the/DT Fisher/NNP information/NN distance/NN on/IN the/DT associated/VBN statistical/JJ manifold/NN ./.
+This/DT induces/VBZ in/IN the/DT input/NN data/NNS space/NN a/DT new/JJ family/NN of/IN distance/NN metric/JJ with/IN unique/JJ properties/NNS ./.
+Unlike/IN kernelized/VBN metric/JJ learning/NN ,/, we/PRP do/VBP not/RB require/VB the/DT similarity/NN measure/NN to/TO be/VB positive/JJ semi-definite/NN ./.
+Moreover/RB ,/, it/PRP can/MD also/RB be/VB interpreted/VBN as/IN a/DT local/JJ metric/JJ learning/NN algorithm/NN with/IN well/RB defined/VBN distance/NN approximation/NN ./.
+We/PRP evaluate/VBP its/PRP$ performance/NN on/IN a/DT number/NN of/IN datasets/NNS ./.
+It/PRP outperforms/VBZ significantly/RB other/JJ metric/JJ learning/NN methods/NNS and/CC SVM/NN ./.

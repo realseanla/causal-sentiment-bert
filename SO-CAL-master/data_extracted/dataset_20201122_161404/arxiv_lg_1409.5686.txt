@@ -1,0 +1,8 @@
+The traditional prototype based clustering methods, such as the well-known fuzzy c-mean (FCM) algorithm, usually need sufficient data to find a good clustering partition.
+If the available data is limited or scarce, most of the existing prototype based clustering algorithms will no longer be effective.
+While the data for the current clustering task may be scarce, there is usually some useful knowledge available in the related scenes/domains.
+In this study, the concept of transfer learning is applied to prototype based fuzzy clustering (PFC).
+Specifically, the idea of leveraging knowledge from the source domain is exploited to develop a set of transfer prototype based fuzzy clustering (TPFC) algorithms.
+Three prototype based fuzzy clustering algorithms, namely, FCM, fuzzy k-plane clustering (FKPC) and fuzzy subspace clustering (FSC), have been chosen to incorporate with knowledge leveraging mechanism to develop the corresponding transfer clustering algorithms.
+Novel objective functions are proposed to integrate the knowledge of source domain with the data of target domain for clustering in the target domain.
+The proposed algorithms have been validated on different synthetic and real-world datasets and the results demonstrate their effectiveness when compared with both the original prototype based fuzzy clustering algorithms and the related clustering algorithms like multi-task clustering and co-clustering.

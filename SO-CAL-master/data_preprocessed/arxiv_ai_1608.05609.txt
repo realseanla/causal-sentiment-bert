@@ -1,0 +1,4 @@
+PC/NN (/-LRB- ID/NN )/-RRB- extends/VBZ propositional/JJ logic/NN with/IN inductive/JJ definitions/NNS :/: rule/NN sets/NNS under/IN the/DT well/NN -/HYPH founded/VBN semantics/NNS ./.
+Recently/RB ,/, a/DT notion/NN of/IN relevance/NN was/VBD introduced/VBN for/IN this/DT language/NN ./.
+This/DT notion/NN determines/VBZ the/DT set/NN of/IN undecided/JJ literals/NNS that/WDT can/MD still/RB influence/VB the/DT satisfiability/NN of/IN a/DT PC/NN (/-LRB- ID/NN )/-RRB- formula/NN in/IN a/DT given/VBN partial/JJ assignment/NN ./.
+The/DT idea/NN is/VBZ that/IN the/DT PC/NN (/-LRB- ID/NN )/-RRB- solver/NN can/MD make/VB decisions/NNS only/RB on/IN relevant/JJ literals/NNS without/IN losing/VBG soundness/NN and/CC thus/RB safely/RB ignore/VB irrelevant/JJ literals/NNS ./.

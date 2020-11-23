@@ -1,0 +1,7 @@
+The/DT facility/NN location/NN problem/NN is/VBZ widely/RB used/VBN for/IN summarizing/VBG large/JJ datasets/NNS and/CC has/VBZ additional/JJ applications/NNS in/IN sensor/NN placement/NN ,/, image/NN retrieval/NN ,/, and/CC clustering/NN ./.
+One/CD difficulty/NN of/IN this/DT problem/NN is/VBZ that/IN submodular/JJ optimization/NN algorithms/NNS require/VBP the/DT calculation/NN of/IN pairwise/JJ benefits/NNS for/IN all/DT items/NNS in/IN the/DT dataset/NN ./.
+This/DT is/VBZ infeasible/JJ for/IN large/JJ problems/NNS ,/, so/IN recent/JJ work/NN proposed/VBN to/TO only/RB calculate/VB nearest/JJS neighbor/NN benefits/NNS ./.
+One/CD limitation/NN is/VBZ that/IN several/JJ strong/JJ assumptions/NNS were/VBD invoked/VBN to/TO obtain/VB provable/JJ approximation/NN guarantees/NNS ./.
+In/IN this/DT paper/NN we/PRP establish/VBP that/IN these/DT extra/JJ assumptions/NNS are/VBP not/RB necessary/JJ ---/, solving/VBG the/DT sparsified/JJ problem/NN will/MD be/VB almost/RB optimal/JJ under/IN the/DT standard/JJ assumptions/NNS of/IN the/DT problem/NN ./.
+We/PRP then/RB analyze/VB a/DT different/JJ method/NN of/IN sparsification/NN that/WDT is/VBZ a/DT better/JJR model/NN for/IN methods/NNS such/JJ as/IN Locality/NNP Sensitive/NNP Hashing/VBG to/TO accelerate/VB the/DT nearest/JJS neighbor/NN computations/NNS and/CC extend/VB the/DT use/NN of/IN the/DT problem/NN to/IN a/DT broader/JJR family/NN of/IN similarities/NNS ./.
+We/PRP validate/VBP our/PRP$ approach/NN by/IN demonstrating/VBG that/IN it/PRP rapidly/RB generates/VBZ interpretable/JJ summaries/NNS ./.

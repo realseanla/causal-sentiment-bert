@@ -1,0 +1,8 @@
+Conventional/JJ deep/JJ neural/JJ networks/NNS (/-LRB- DNN/NN )/-RRB- for/IN speech/NN acoustic/JJ modeling/NN rely/VBP on/IN Gaussian/JJ mixture/NN models/NNS (/-LRB- GMM/NNP )/-RRB- and/CC hidden/VBN Markov/NNP model/NN (/-LRB- HMM/NN )/-RRB- to/TO obtain/VB binary/JJ class/NN labels/NNS as/IN the/DT targets/NNS for/IN DNN/NN training/NN ./.
+Subword/NNP classes/NNS in/IN speech/NN recognition/NN systems/NNS correspond/VBP to/IN context/NN -/HYPH dependent/JJ tied/VBN states/NNS or/CC senones/NNS ./.
+The/DT present/JJ work/NN addresses/NNS some/DT limitations/NNS of/IN GMM/NNP -/HYPH HMM/NNP senone/NN alignments/NNS for/IN DNN/NN training/NN ./.
+We/PRP hypothesize/VBP that/IN the/DT senone/NN probabilities/NNS obtained/VBN from/IN a/DT DNN/NN trained/VBN with/IN binary/JJ labels/NNS can/MD provide/VB more/RBR accurate/JJ targets/NNS to/TO learn/VB better/JJR acoustic/JJ models/NNS ./.
+However/RB ,/, DNN/NNP outputs/NNS bear/VBP inaccuracies/NNS which/WDT are/VBP exhibited/VBN as/IN high/JJ dimensional/JJ unstructured/JJ noise/NN ,/, whereas/IN the/DT informative/JJ components/NNS are/VBP structured/VBN and/CC low/JJ -/HYPH dimensional/JJ ./.
+We/PRP exploit/VBP principle/JJ component/NN analysis/NN (/-LRB- PCA/NN )/-RRB- and/CC sparse/JJ coding/NN to/TO characterize/VB the/DT senone/NN subspaces/NNS ./.
+Enhanced/VBN probabilities/NNS obtained/VBN from/IN low/JJ -/HYPH rank/NN and/CC sparse/JJ reconstructions/NNS are/VBP used/VBN as/IN soft/JJ -/HYPH targets/NNS for/IN DNN/NNP acoustic/JJ modeling/NN ,/, that/DT also/RB enables/VBZ training/NN with/IN untranscribed/JJ data/NNS ./.
+Experiments/NNS conducted/VBN on/IN AMI/NNP corpus/NN shows/VBZ 4.6/CD percent/NN relative/JJ reduction/NN in/IN word/NN error/NN rate/NN ./.

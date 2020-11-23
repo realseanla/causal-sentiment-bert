@@ -1,0 +1,8 @@
+Semi/NNP supervised/VBD learning/NN methods/NNS have/VBP gained/VBN importance/NN in/IN today/NN 's/POS world/NN because/IN of/IN large/JJ expenses/NNS and/CC time/NN involved/VBN in/IN labeling/VBG the/DT unlabeled/JJ data/NNS by/IN human/JJ experts/NNS ./.
+The/DT proposed/VBN hybrid/NN approach/NN uses/VBZ SVM/NN and/CC Label/NN Propagation/NN to/IN label/NN the/DT unlabeled/JJ data/NNS ./.
+In/IN the/DT process/NN ,/, at/IN each/DT step/NN SVM/NN is/VBZ trained/VBN to/TO minimize/VB the/DT error/NN and/CC thus/RB improve/VB the/DT prediction/NN quality/NN ./.
+Experiments/NNS are/VBP conducted/VBN by/IN using/VBG SVM/NNP and/CC logistic/JJ regression/NN (/-LRB- Logreg/NNP )/-RRB- ./.
+Results/NNS prove/VBP that/IN SVM/NNP performs/VBZ tremendously/RB better/JJR than/IN Logreg/NNP ./.
+The/DT approach/NN is/VBZ tested/VBN using/VBG 12/CD datasets/NNS of/IN different/JJ sizes/NNS ranging/VBG from/IN the/DT order/NN of/IN 1000s/NNS to/IN the/DT order/NN of/IN 10000s/NNS ./.
+Results/NNS show/VBP that/IN the/DT proposed/VBN approach/NN outperforms/VBZ Label/NN Propagation/NN by/IN a/DT large/JJ margin/NN with/IN F/NN -/HYPH measure/NN of/IN almost/RB twice/RB on/IN average/JJ ./.
+The/DT parallel/JJ version/NN of/IN the/DT proposed/VBN approach/NN is/VBZ also/RB designed/VBN and/CC implemented/VBN ,/, the/DT analysis/NN shows/VBZ that/IN the/DT training/NN time/NN decreases/VBZ significantly/RB when/WRB parallel/JJ version/NN is/VBZ used/VBN ./.

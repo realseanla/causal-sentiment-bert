@@ -1,0 +1,8 @@
+We/PRP present/VBP CloudScan/NNP ;/: an/DT invoice/NN analysis/NN system/NN that/WDT requires/VBZ zero/CD configuration/NN or/CC upfront/JJ annotation/NN ./.
+In/IN contrast/NN to/IN previous/JJ work/NN ,/, CloudScan/NNP does/VBZ not/RB rely/VB on/IN templates/NNS of/IN invoice/NN layout/NN ,/, instead/RB it/PRP learns/VBZ a/DT single/JJ global/JJ model/NN of/IN invoices/NNS that/WDT naturally/RB generalizes/VBZ to/IN unseen/JJ invoice/NN layouts/NNS ./.
+The/DT model/NN is/VBZ trained/VBN using/VBG data/NNS automatically/RB extracted/VBN from/IN end/NN -/HYPH user/NN provided/VBN feedback/NN ./.
+This/DT automatic/JJ training/NN data/NNS extraction/NN removes/VBZ the/DT requirement/NN for/IN users/NNS to/IN annotate/VB the/DT data/NNS precisely/RB ./.
+We/PRP describe/VBP a/DT recurrent/JJ neural/JJ network/NN model/NN that/WDT can/MD capture/VB long/JJ range/NN context/NN and/CC compare/VB it/PRP to/IN a/DT baseline/NN logistic/JJ regression/NN model/NN corresponding/VBG to/IN the/DT current/JJ CloudScan/NN production/NN system/NN ./.
+We/PRP train/VBP and/CC evaluate/VBP the/DT system/NN on/IN 8/CD important/JJ fields/NNS using/VBG a/DT dataset/NN of/IN 326,471/CD invoices/NNS ./.
+The/DT recurrent/JJ neural/JJ network/NN and/CC baseline/NN model/NN achieve/VB 0.891/CD and/CC 0.887/CD average/JJ F1/NN scores/NNS respectively/RB on/IN seen/VBN invoice/NN layouts/NNS ./.
+For/IN the/DT harder/JJR task/NN of/IN unseen/JJ invoice/NN layouts/NNS ,/, the/DT recurrent/JJ neural/JJ network/NN model/NN outperforms/VBZ the/DT baseline/NN with/IN 0.840/CD average/JJ F1/NN compared/VBN to/IN 0.788/CD ./.

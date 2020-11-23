@@ -1,0 +1,6 @@
+We introduce a new agnostic clustering method: minimax correlation clustering.
+Given a graph whose edges are labeled with $+$ or $-$, we wish to partition the graph into clusters while trying to avoid errors: $+$ edges between clusters or $-$ edges within clusters.
+Unlike classical correlation clustering, which seeks to minimize the total number of errors, minimax clustering instead seeks to minimize the number of errors at the worst vertex, that is, at the vertex with the greatest number of incident errors.
+This minimax objective function may be seen as a way to enforce individual-level quality of partition constraints for vertices in a graph.
+We study this problem on complete graphs and complete bipartite graphs, proving that the problem is NP-hard on these graph classes and giving polynomial-time constant-factor approximation algorithms.
+The approximation algorithms rely on LP relaxation and rounding procedures.

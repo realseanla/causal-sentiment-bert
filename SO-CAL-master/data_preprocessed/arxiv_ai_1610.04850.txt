@@ -1,0 +1,8 @@
+Cold/JJ start/NN problem/NN in/IN Collaborative/JJ Filtering/NN can/MD be/VB solved/VBN by/IN asking/VBG new/JJ users/NNS to/IN rate/NN a/DT small/JJ seed/NN set/NN of/IN representative/JJ items/NNS or/CC by/IN asking/VBG representative/JJ users/NNS to/IN rate/NN a/DT new/JJ item/NN ./.
+The/DT question/NN is/VBZ how/WRB to/TO build/VB a/DT seed/NN set/NN that/WDT can/MD give/VB enough/JJ preference/NN information/NN for/IN making/VBG good/JJ recommendations/NNS ./.
+One/CD of/IN the/DT most/RBS successful/JJ approaches/NNS ,/, called/VBN Representative/NNP Based/VBN Matrix/NNP Factorization/NNP ,/, is/VBZ based/VBN on/IN Maxvol/NNP algorithm/NN ./.
+Unfortunately/RB ,/, this/DT approach/NN has/VBZ one/CD important/JJ limitation/NN ---/, a/DT seed/NN set/NN of/IN a/DT particular/JJ size/NN requires/VBZ a/DT rating/NN matrix/NN factorization/NN of/IN fixed/VBN rank/NN that/WDT should/MD coincide/VB with/IN that/DT size/NN ./.
+This/DT is/VBZ not/RB necessarily/RB optimal/JJ in/IN the/DT general/JJ case/NN ./.
+In/IN the/DT current/JJ paper/NN ,/, we/PRP introduce/VBP a/DT fast/JJ algorithm/NN for/IN an/DT analytical/JJ generalization/NN of/IN this/DT approach/NN that/WDT we/PRP call/VBP Rectangular/JJ Maxvol/NNP ./.
+It/PRP allows/VBZ the/DT rank/NN of/IN factorization/NN to/TO be/VB lower/JJR than/IN the/DT required/VBN size/NN of/IN the/DT seed/NN set/NN ./.
+Moreover/RB ,/, the/DT paper/NN includes/VBZ the/DT theoretical/JJ analysis/NN of/IN the/DT method/NN 's/POS error/NN ,/, the/DT complexity/NN analysis/NN of/IN the/DT existing/VBG methods/NNS and/CC the/DT comparison/NN to/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS ./.

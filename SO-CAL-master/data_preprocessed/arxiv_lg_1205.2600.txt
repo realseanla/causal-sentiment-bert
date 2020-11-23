@@ -1,0 +1,13 @@
+Despite/IN the/DT widespread/JJ use/NN of/IN Clustering/NN ,/, there/EX is/VBZ distressingly/RB little/JJ general/JJ theory/NN of/IN clustering/NN available/JJ ./.
+Questions/NNS like/IN "/`` What/WP distinguishes/VBZ a/DT clustering/NN of/IN data/NNS from/IN other/JJ data/NNS partitioning/NN ?/. "/''
+,/, "/`` Are/VBP there/EX any/DT principles/NNS governing/VBG all/DT clustering/NN paradigms/NNS ?/. "/''
+,/, "/`` How/WRB should/MD a/DT user/NN choose/VB an/DT appropriate/JJ clustering/NN algorithm/NN for/IN a/DT particular/JJ task/NN ?/. "/''
+,/, etc./FW are/VBP almost/RB completely/RB unanswered/JJ by/IN the/DT existing/VBG body/NN of/IN clustering/NN literature/NN ./.
+We/PRP consider/VBP an/DT axiomatic/JJ approach/NN to/IN the/DT theory/NN of/IN Clustering/NN ./.
+We/PRP adopt/VBP the/DT framework/NN of/IN Kleinberg/NNP ,/, [/-LRB- Kle03/NN ]/-RRB- ./.
+By/IN relaxing/VBG one/CD of/IN Kleinberg/NNP 's/POS clustering/NN axioms/NNS ,/, we/PRP sidestep/VBP his/PRP$ impossibility/NN result/NN and/CC arrive/VBP at/IN a/DT consistent/JJ set/NN of/IN axioms/NNS ./.
+We/PRP suggest/VBP to/TO extend/VB these/DT axioms/NNS ,/, aiming/VBG to/TO provide/VB an/DT axiomatic/JJ taxonomy/NN of/IN clustering/NN paradigms/NNS ./.
+Such/PDT a/DT taxonomy/NN should/MD provide/VB users/NNS some/DT guidance/NN concerning/VBG the/DT choice/NN of/IN the/DT appropriate/JJ clustering/NN paradigm/NN for/IN a/DT given/VBN task/NN ./.
+The/DT main/JJ result/NN of/IN this/DT paper/NN is/VBZ a/DT set/NN of/IN abstract/JJ properties/NNS that/WDT characterize/VBP the/DT Single/JJ -/HYPH Linkage/NN clustering/NN function/NN ./.
+This/DT characterization/NN result/NN provides/VBZ new/JJ insight/NN into/IN the/DT properties/NNS of/IN desired/VBN data/NNS groupings/NNS that/WDT make/VBP Single/JJ -/HYPH Linkage/NN the/DT appropriate/JJ choice/NN ./.
+We/PRP conclude/VBP by/IN considering/VBG a/DT taxonomy/NN of/IN clustering/NN functions/NNS based/VBN on/IN abstract/JJ properties/NNS that/WDT each/DT satisfies/VBZ ./.

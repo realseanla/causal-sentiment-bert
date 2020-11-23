@@ -1,0 +1,9 @@
+We/PRP investigate/VBP an/DT experiential/JJ learning/NN paradigm/NN for/IN acquiring/VBG an/DT internal/JJ model/NN of/IN intuitive/JJ physics/NN ./.
+Our/PRP$ model/NN is/VBZ evaluated/VBN on/IN a/DT real/JJ -/HYPH world/NN robotic/JJ manipulation/NN task/NN that/WDT requires/VBZ displacing/NN objects/NNS to/TO target/VB locations/NNS by/IN poking/VBG ./.
+The/DT robot/NN gathered/VBD over/IN 400/CD hours/NNS of/IN experience/NN by/IN executing/VBG more/JJR than/IN 50K/NN pokes/NNS on/IN different/JJ objects/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ approach/NN based/VBN on/IN deep/JJ neural/JJ networks/NNS for/IN modeling/VBG the/DT dynamics/NNS of/IN robot/NN 's/POS interactions/NNS directly/RB from/IN images/NNS ,/, by/IN jointly/RB estimating/VBG forward/RB and/CC inverse/JJ models/NNS of/IN dynamics/NNS ./.
+The/DT inverse/JJ model/NN objective/NN provides/VBZ supervision/NN to/TO construct/VB informative/JJ visual/JJ features/NNS ,/, which/WDT the/DT forward/JJ model/NN can/MD then/RB predict/VB and/CC in/IN turn/NN regularize/VBP the/DT feature/NN space/NN for/IN the/DT inverse/JJ model/NN ./.
+The/DT interplay/NN between/IN these/DT two/CD objectives/NNS creates/VBZ useful/JJ ,/, accurate/JJ models/NNS that/WDT can/MD then/RB be/VB used/VBN for/IN multi-step/JJ decision/NN making/NN ./.
+This/DT formulation/NN has/VBZ the/DT additional/JJ benefit/NN that/IN it/PRP is/VBZ possible/JJ to/TO learn/VB forward/RB models/NNS in/IN an/DT abstract/JJ feature/NN space/NN and/CC thus/RB alleviate/VB the/DT need/NN of/IN predicting/VBG pixels/NNS ./.
+Our/PRP$ experiments/NNS show/VBP that/IN this/DT joint/JJ modeling/NN approach/NN outperforms/VBZ alternative/JJ methods/NNS ./.
+We/PRP also/RB demonstrate/VBP that/IN active/JJ data/NNS collection/NN using/VBG the/DT learned/VBN model/NN further/JJ improves/VBZ performance/NN ./.

@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT novel/JJ Bayesian/JJ approach/NN to/TO solve/VB stochastic/JJ optimization/NN problems/NNS that/WDT involve/VBP finding/VBG extrema/NN of/IN noisy/JJ ,/, nonlinear/JJ functions/NNS ./.
+Previous/JJ work/NN has/VBZ focused/VBN on/IN representing/VBG possible/JJ functions/NNS explicitly/RB ,/, which/WDT leads/VBZ to/IN a/DT two/CD -/HYPH step/NN procedure/NN of/IN first/RB ,/, doing/VBG inference/NN over/IN the/DT function/NN space/NN and/CC second/RB ,/, finding/VBG the/DT extrema/NN of/IN these/DT functions/NNS ./.
+Here/RB we/PRP skip/VB the/DT representation/NN step/NN and/CC directly/RB model/NN the/DT distribution/NN over/IN extrema/NN ./.
+To/IN this/DT end/NN ,/, we/PRP devise/VBP a/DT non-parametric/JJ conjugate/NN prior/JJ where/WRB the/DT natural/JJ parameter/NN corresponds/VBZ to/IN a/DT given/VBN kernel/NN function/NN and/CC the/DT sufficient/JJ statistic/NN is/VBZ composed/VBN of/IN the/DT observed/VBN function/NN values/NNS ./.
+The/DT resulting/VBG posterior/JJ distribution/NN directly/RB captures/VBZ the/DT uncertainty/NN over/IN the/DT maximum/NN of/IN the/DT unknown/JJ function/NN ./.

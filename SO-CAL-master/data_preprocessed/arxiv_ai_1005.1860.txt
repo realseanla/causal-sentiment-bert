@@ -1,0 +1,7 @@
+Approximate/JJ dynamic/JJ programming/NN has/VBZ been/VBN used/VBN successfully/RB in/IN a/DT large/JJ variety/NN of/IN domains/NNS ,/, but/CC it/PRP relies/VBZ on/IN a/DT small/JJ set/NN of/IN provided/VBN approximation/NN features/VBZ to/TO calculate/VB solutions/NNS reliably/RB ./.
+Large/JJ and/CC rich/JJ sets/NNS of/IN features/NNS can/MD cause/VB existing/VBG algorithms/NNS to/TO overfit/VB because/IN of/IN a/DT limited/JJ number/NN of/IN samples/NNS ./.
+We/PRP address/VBP this/DT shortcoming/NN using/VBG $/$ L_1/CD $/$ regularization/CD in/IN approximate/JJ linear/JJ programming/NN ./.
+Because/IN the/DT proposed/JJ method/NN can/MD automatically/RB select/VB the/DT appropriate/JJ richness/NN of/IN features/NNS ,/, its/PRP$ performance/NN does/VBZ not/RB degrade/VB with/IN an/DT increasing/VBG number/NN of/IN features/NNS ./.
+These/DT results/NNS rely/VBP on/IN new/JJ and/CC stronger/JJR sampling/NN bounds/NNS for/IN regularized/VBN approximate/JJ linear/JJ programs/NNS ./.
+We/PRP also/RB propose/VBP a/DT computationally/RB efficient/JJ homotopy/NN method/NN ./.
+The/DT empirical/JJ evaluation/NN of/IN the/DT approach/NN shows/VBZ that/IN the/DT proposed/JJ method/NN performs/VBZ well/RB on/IN simple/JJ MDPs/NNS and/CC standard/JJ benchmark/NN problems/NNS ./.

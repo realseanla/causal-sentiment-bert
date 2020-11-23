@@ -1,0 +1,5 @@
+With the purpose of modeling, specifying and reasoning in an integrated fashion with procedural and declarative aspects (both commonly present in cases or scenarios), the paper introduces Logic Programming Petri Nets (LPPN), an extension to the Petri Net notation providing an interface to logic programming constructs.
+Two semantics are presented.
+First, a hybrid operational semantics that separates the process component, treated with Petri nets, from the constraint/terminological component, treated with Answer Set Programming (ASP).
+Second, a denotational semantics maps the notation to ASP fully, via Event Calculus.
+These two alternative specifications enable a preliminary evaluation in terms of reasoning efficiency.

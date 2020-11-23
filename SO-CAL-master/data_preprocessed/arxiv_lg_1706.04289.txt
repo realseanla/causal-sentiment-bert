@@ -1,0 +1,5 @@
+Relational/JJ data/NNS are/VBP usually/RB highly/RB incomplete/JJ in/IN practice/NN ,/, which/WDT inspires/VBZ us/PRP to/TO leverage/VB side/NN information/NN to/TO improve/VB the/DT performance/NN of/IN community/NN detection/NN and/CC link/NN prediction/NN ./.
+This/DT paper/NN presents/VBZ a/DT Bayesian/JJ probabilistic/JJ approach/NN that/WDT incorporates/VBZ various/JJ kinds/NNS of/IN node/NN attributes/NNS encoded/VBN in/IN binary/JJ form/NN in/IN relational/JJ models/NNS with/IN Poisson/NNP likelihood/NN ./.
+Our/PRP$ method/NN works/VBZ flexibly/RB with/IN both/DT directed/VBN and/CC undirected/JJ relational/JJ networks/NNS ./.
+The/DT inference/NN can/MD be/VB done/VBN by/IN efficient/JJ Gibbs/NNP sampling/NN which/WDT leverages/VBZ sparsity/NN of/IN both/DT networks/NNS and/CC node/NN attributes/NNS ./.
+Extensive/JJ experiments/NNS show/VBP that/IN our/PRP$ models/NNS achieve/VBP the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN link/NN prediction/NN results/NNS ,/, especially/RB with/IN highly/RB incomplete/JJ relational/JJ data/NNS ./.

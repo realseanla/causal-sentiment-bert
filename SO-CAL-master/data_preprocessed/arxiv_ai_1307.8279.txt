@@ -1,0 +1,6 @@
+Many/JJ real/JJ -/HYPH world/NN phenomena/NN can/MD be/VB modelled/VBN as/IN dynamic/JJ optimization/NN problems/NNS ./.
+In/IN such/JJ cases/NNS ,/, the/DT environment/NN problem/NN changes/VBZ dynamically/RB and/CC therefore/RB ,/, conventional/JJ methods/NNS are/VBP not/RB capable/JJ of/IN dealing/VBG with/IN such/JJ problems/NNS ./.
+In/IN this/DT paper/NN ,/, a/DT novel/JJ multi-swarm/JJ cellular/JJ particle/NN swarm/NN optimization/NN algorithm/NN is/VBZ proposed/VBN by/IN clustering/NN and/CC local/JJ search/NN ./.
+In/IN the/DT proposed/VBN algorithm/NN ,/, the/DT search/NN space/NN is/VBZ partitioned/VBN into/IN cells/NNS ,/, while/IN the/DT particles/NNS identify/VBP changes/NNS in/IN the/DT search/NN space/NN and/CC form/NN clusters/NNS to/TO create/VB sub-swarms/NNS ./.
+Then/RB a/DT local/JJ search/NN is/VBZ applied/VBN to/TO improve/VB the/DT solutions/NNS in/IN the/DT each/DT cell/NN ./.
+Simulation/NNP results/VBZ for/IN static/NN standard/JJ benchmarks/NNS and/CC dynamic/JJ environments/NNS show/VBP superiority/NN of/IN the/DT proposed/JJ method/NN over/IN other/JJ alternative/JJ approaches/NNS ./.

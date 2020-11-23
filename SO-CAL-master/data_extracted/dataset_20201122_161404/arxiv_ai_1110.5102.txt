@@ -1,0 +1,4 @@
+Scene understanding includes many related sub-tasks, such as scene categorization, depth estimation, object detection, etc.
+Each of these sub-tasks is often notoriously hard, and state-of-the-art classifiers already exist for many of them.
+These classifiers operate on the same raw image and provide correlated outputs.
+It is desirable to have an algorithm that can capture such correlation without requiring any changes to the inner workings of any classifier.

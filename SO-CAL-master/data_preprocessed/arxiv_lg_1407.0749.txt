@@ -1,0 +1,4 @@
+Inference/NN in/IN general/JJ Ising/NN models/NNS is/VBZ difficult/JJ ,/, due/JJ to/IN high/JJ treewidth/NN making/VBG tree/NN -/HYPH based/VBN algorithms/NNS intractable/JJ ./.
+Moreover/RB ,/, when/WRB interactions/NNS are/VBP strong/JJ ,/, Gibbs/NNP sampling/NN may/MD take/VB exponential/JJ time/NN to/TO converge/VB to/IN the/DT stationary/JJ distribution/NN ./.
+We/PRP present/VBP an/DT algorithm/NN to/TO project/VB Ising/NNP model/NN parameters/NNS onto/IN a/DT parameter/NN set/NN that/WDT is/VBZ guaranteed/VBN to/TO be/VB fast/JJ mixing/NN ,/, under/IN several/JJ divergences/NNS ./.
+We/PRP find/VBP that/IN Gibbs/NNP sampling/NN using/VBG the/DT projected/VBN parameters/NNS is/VBZ more/RBR accurate/JJ than/IN with/IN the/DT original/JJ parameters/NNS when/WRB interaction/NN strengths/NNS are/VBP strong/JJ and/CC when/WRB limited/JJ time/NN is/VBZ available/JJ for/IN sampling/NN ./.

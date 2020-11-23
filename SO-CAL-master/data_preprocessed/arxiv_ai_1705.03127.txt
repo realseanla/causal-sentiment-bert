@@ -1,0 +1,8 @@
+Word/NNP and/CC phrase/NN tables/NNS are/VBP key/JJ inputs/NNS to/IN machine/NN translations/NNS ,/, but/CC costly/JJ to/TO produce/VB ./.
+New/NNP unsupervised/JJ learning/NN methods/NNS represent/VBP words/NNS and/CC phrases/NNS in/IN a/DT high/JJ -/HYPH dimensional/JJ vector/NN space/NN ,/, and/CC these/DT monolingual/JJ embeddings/NNS have/VBP been/VBN shown/VBN to/TO encode/VB syntactic/JJ and/CC semantic/JJ relationships/NNS between/IN language/NN elements/NNS ./.
+The/DT information/NN captured/VBN by/IN these/DT embeddings/NNS can/MD be/VB exploited/VBN for/IN bilingual/JJ translation/NN by/IN learning/VBG a/DT transformation/NN matrix/NN that/WDT allows/VBZ to/TO match/VB relative/JJ positions/NNS across/IN two/CD monolingual/JJ vector/NN spaces/NNS ./.
+This/DT method/NN aims/VBZ to/TO identify/VB high/JJ -/HYPH quality/NN candidates/NNS for/IN word/NN and/CC phrase/NN translation/NN more/RBR cost/NN -/HYPH effectively/RB from/IN unlabeled/JJ data/NNS ./.
+This/DT paper/NN expands/VBZ the/DT scope/NN of/IN previous/JJ attempts/NNS of/IN bilingual/JJ translation/NN to/IN four/CD languages/NNS (/-LRB- English/NNP ,/, German/NNP ,/, Spanish/NNP ,/, and/CC French/JJ )/-RRB- ./.
+It/PRP shows/VBZ how/WRB to/TO process/VB the/DT source/NN data/NNS ,/, train/VB a/DT neural/JJ network/NN to/TO learn/VB the/DT high/JJ -/HYPH dimensional/JJ embeddings/NNS for/IN individual/JJ languages/NNS and/CC expands/VBZ the/DT framework/NN for/IN testing/VBG their/PRP$ quality/NN beyond/IN the/DT English/NNP language/NN ./.
+./.
+Furthermore/RB ,/, it/PRP shows/VBZ how/WRB to/TO learn/VB bilingual/JJ transformation/NN matrices/NNS and/CC obtain/VB candidates/NNS for/IN word/NN and/CC phrase/NN translation/NN ,/, and/CC assess/VB their/PRP$ quality/NN ./.

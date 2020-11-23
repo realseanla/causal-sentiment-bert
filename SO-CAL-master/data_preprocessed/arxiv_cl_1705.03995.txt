@@ -1,0 +1,7 @@
+Distant/JJ supervision/NN significantly/RB reduces/VBZ human/JJ efforts/NNS in/IN building/NN training/NN data/NNS for/IN many/JJ classification/NN tasks/NNS ./.
+While/IN promising/JJ ,/, this/DT technique/NN often/RB introduces/VBZ noise/NN to/IN the/DT generated/VBN training/NN data/NNS ,/, which/WDT can/MD severely/RB affect/VB the/DT model/NN performance/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP take/VBP a/DT deep/JJ look/NN at/IN the/DT application/NN of/IN distant/JJ supervision/NN in/IN relation/NN extraction/NN ./.
+We/PRP show/VBP that/IN the/DT dynamic/JJ transition/NN matrix/NN can/MD effectively/RB characterize/VB the/DT noise/NN in/IN the/DT training/NN data/NNS built/VBN by/IN distant/JJ supervision/NN ./.
+The/DT transition/NN matrix/NN can/MD be/VB effectively/RB trained/VBN using/VBG a/DT novel/JJ curriculum/NN learning/NN based/VBN method/NN without/IN any/DT direct/JJ supervision/NN about/IN the/DT noise/NN ./.
+We/PRP thoroughly/RB evaluate/VB our/PRP$ approach/NN under/IN a/DT wide/JJ range/NN of/IN extraction/NN scenarios/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ approach/NN consistently/RB improves/VBZ the/DT extraction/NN results/NNS and/CC outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN various/JJ evaluation/NN scenarios/NNS ./.

@@ -1,0 +1,5 @@
+People/NNS speak/VBP at/IN different/JJ levels/NNS of/IN specificity/NN in/IN different/JJ situations/NNS ./.
+Depending/VBG on/IN their/PRP$ knowledge/NN ,/, interlocutors/NNS ,/, mood/NN ,/, etc./FW }/-RRB- A/DT conversational/JJ agent/NN should/MD have/VB this/DT ability/NN and/CC know/VB when/WRB to/TO be/VB specific/JJ and/CC when/WRB to/TO be/VB general/JJ ./.
+We/PRP propose/VBP an/DT approach/NN that/WDT gives/VBZ a/DT neural/JJ network/NN --/: based/VBN conversational/JJ agent/NN this/DT ability/NN ./.
+Our/PRP$ approach/NN involves/VBZ alternating/VBG between/IN \/SYM emph/NN {/-LRB- data/NN distillation/NN }/-RRB- and/CC model/NN training/NN :/: removing/VBG training/NN examples/NNS that/WDT are/VBP closest/JJS to/IN the/DT responses/NNS most/RBS commonly/RB produced/VBN by/IN the/DT model/NN trained/VBN from/IN the/DT last/JJ round/NN and/CC then/RB retrain/VB the/DT model/NN on/IN the/DT remaining/VBG dataset/NN ./.
+Dialogue/NN generation/NN models/NNS trained/VBN with/IN different/JJ degrees/NNS of/IN data/NNS distillation/NN manifest/VBP different/JJ levels/NNS of/IN specificity/NN ./.

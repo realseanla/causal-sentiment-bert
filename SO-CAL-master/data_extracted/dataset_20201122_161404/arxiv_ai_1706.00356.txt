@@ -1,0 +1,5 @@
+The growing adoption of IT-systems for modeling and executing (business) processes or services has thrust the scientific investigation towards techniques and tools which support more complex forms of process analysis.
+Many of them, such as conformance checking, process alignment, mining and enhancement, rely on complete observation of past (tracked and logged) executions.
+In many real cases, however, the lack of human or IT-support on all the steps of process execution, as well as information hiding and abstraction of model and data, result in incomplete log information of both data and activities.
+This paper tackles the issue of automatically repairing traces with missing information by notably considering not only activities but also data manipulated by them.
+Our technique recasts such a problem in a reachability problem and provides an encoding in an action language which allows to virtually use any state-of-the-art planning to return solutions.

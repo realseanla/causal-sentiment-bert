@@ -1,0 +1,7 @@
+During/IN natural/JJ or/CC man/NN -/HYPH made/VBN disasters/NNS ,/, humanitarian/JJ response/NN organizations/NNS look/VBP for/IN useful/JJ information/NN to/TO support/VB their/PRP$ decision/NN -/HYPH making/VBG processes/NNS ./.
+Social/JJ media/NNS platforms/NNS such/JJ as/IN Twitter/NNP have/VBP been/VBN considered/VBN as/IN a/DT vital/JJ source/NN of/IN useful/JJ information/NN for/IN disaster/NN response/NN and/CC management/NN ./.
+Despite/IN advances/NNS in/IN natural/JJ language/NN processing/NN techniques/NNS ,/, processing/VBG short/JJ and/CC informal/JJ Twitter/NNP messages/NNS is/VBZ a/DT challenging/JJ task/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO use/VB Deep/JJ Neural/JJ Network/NN (/-LRB- DNN/NN )/-RRB- to/TO address/VB two/CD types/NNS of/IN information/NN needs/NNS of/IN response/NN organizations/NNS :/: 1/LS )/-RRB- identifying/VBG informative/JJ tweets/NNS and/CC 2/CD )/-RRB- classifying/VBG them/PRP into/IN topical/JJ classes/NNS ./.
+DNNs/NNS use/VBP distributed/VBN representation/NN of/IN words/NNS and/CC learn/VB the/DT representation/NN as/RB well/RB as/IN higher/JJR level/NN features/NNS automatically/RB for/IN the/DT classification/NN task/NN ./.
+We/PRP propose/VBP a/DT new/JJ online/JJ algorithm/NN based/VBN on/IN stochastic/JJ gradient/NN descent/NN to/TO train/VB DNNs/NNS in/IN an/DT online/JJ fashion/NN during/IN disaster/NN situations/NNS ./.
+We/PRP test/VBP our/PRP$ models/NNS using/VBG a/DT crisis/NN -/HYPH related/VBN real/JJ -/HYPH world/NN Twitter/NNP dataset/NN ./.

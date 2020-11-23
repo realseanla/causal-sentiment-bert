@@ -1,0 +1,4 @@
+Scene/NN understanding/NN includes/VBZ many/JJ related/JJ sub-tasks/NNS ,/, such/JJ as/IN scene/NN categorization/NN ,/, depth/NN estimation/NN ,/, object/NN detection/NN ,/, etc/FW ./.
+Each/DT of/IN these/DT sub-tasks/NNS is/VBZ often/RB notoriously/RB hard/RB ,/, and/CC state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN classifiers/NNS already/RB exist/VBP for/IN many/JJ of/IN them/PRP ./.
+These/DT classifiers/NNS operate/VBP on/IN the/DT same/JJ raw/JJ image/NN and/CC provide/VB correlated/VBN outputs/NNS ./.
+It/PRP is/VBZ desirable/JJ to/TO have/VB an/DT algorithm/NN that/WDT can/MD capture/VB such/JJ correlation/NN without/IN requiring/VBG any/DT changes/NNS to/IN the/DT inner/JJ workings/NNS of/IN any/DT classifier/NN ./.

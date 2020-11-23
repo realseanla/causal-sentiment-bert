@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, a/DT progressive/JJ learning/NN technique/NN for/IN multi-class/NN classification/NN is/VBZ proposed/VBN ./.
+This/DT newly/RB developed/VBN learning/NN technique/NN is/VBZ independent/JJ of/IN the/DT number/NN of/IN class/NN constraints/NNS and/CC it/PRP can/MD learn/VB new/JJ classes/NNS while/IN still/RB retaining/VBG the/DT knowledge/NN of/IN previous/JJ classes/NNS ./.
+Whenever/WRB a/DT new/JJ class/NN (/-LRB- non-native/JJ to/IN the/DT knowledge/NN learnt/VBD thus/RB far/RB )/-RRB- is/VBZ encountered/VBN ,/, the/DT neural/JJ network/NN structure/NN gets/VBZ remodeled/VBN automatically/RB by/IN facilitating/VBG new/JJ neurons/NNS and/CC interconnections/NNS ,/, and/CC the/DT parameters/NNS are/VBP calculated/VBN in/IN such/PDT a/DT way/NN that/IN it/PRP retains/VBZ the/DT knowledge/NN learnt/VBD thus/RB far/RB ./.
+This/DT technique/NN is/VBZ suitable/JJ for/IN real/JJ -/HYPH world/NN applications/NNS where/WRB the/DT number/NN of/IN classes/NNS is/VBZ often/RB unknown/JJ and/CC online/JJ learning/NN from/IN real/JJ -/HYPH time/NN data/NNS is/VBZ required/VBN ./.
+The/DT consistency/NN and/CC the/DT complexity/NN of/IN the/DT progressive/JJ learning/NN technique/NN are/VBP analyzed/VBN ./.
+Several/JJ standard/JJ datasets/NNS are/VBP used/VBN to/TO evaluate/VB the/DT performance/NN of/IN the/DT developed/VBN technique/NN ./.
+A/DT comparative/JJ study/NN shows/VBZ that/IN the/DT developed/VBN technique/NN is/VBZ superior/JJ ./.

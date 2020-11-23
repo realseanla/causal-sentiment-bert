@@ -1,0 +1,5 @@
+Matrix/NN completion/NN is/VBZ a/DT basic/JJ machine/NN learning/NN problem/NN that/WDT has/VBZ wide/JJ applications/NNS ,/, especially/RB in/IN collaborative/JJ filtering/NN and/CC recommender/NN systems/NNS ./.
+Simple/JJ non-convex/JJ optimization/NN algorithms/NNS are/VBP popular/JJ and/CC effective/JJ in/IN practice/NN ./.
+Despite/IN recent/JJ progress/NN in/IN proving/VBG various/JJ non-convex/JJ algorithms/NNS converge/VBP from/IN a/DT good/JJ initial/JJ point/NN ,/, it/PRP remains/VBZ unclear/JJ why/WRB random/JJ or/CC arbitrary/JJ initialization/NN suffices/VBZ in/IN practice/NN ./.
+We/PRP prove/VBP that/IN the/DT commonly/RB used/VBN non-convex/JJ objective/JJ function/NN for/IN matrix/NN completion/NN has/VBZ no/DT spurious/JJ local/JJ minima/NN --/: all/DT local/JJ minima/NN must/MD also/RB be/VB global/JJ ./.
+Therefore/RB ,/, many/JJ popular/JJ optimization/NN algorithms/NNS such/JJ as/IN (/-LRB- stochastic/JJ )/-RRB- gradient/NN descent/NN can/MD provably/RB solve/VB matrix/NN completion/NN with/IN \/SYM textit/FW {/-LRB- arbitrary/JJ }/-RRB- initialization/NN in/IN polynomial/JJ time/NN ./.

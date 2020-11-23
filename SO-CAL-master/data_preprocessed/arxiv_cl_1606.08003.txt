@@ -1,0 +1,5 @@
+Vector/NNP space/NN models/NNS have/VBP become/VBN popular/JJ in/IN distributional/JJ semantics/NNS ,/, despite/IN the/DT challenges/NNS they/PRP face/VBP in/IN capturing/VBG various/JJ semantic/JJ phenomena/NN ./.
+We/PRP propose/VBP a/DT novel/JJ probabilistic/JJ framework/NN which/WDT draws/VBZ on/IN both/DT formal/JJ semantics/NNS and/CC recent/JJ advances/NNS in/IN machine/NN learning/NN ./.
+In/IN particular/JJ ,/, we/PRP separate/VBP predicates/NNS from/IN the/DT entities/NNS they/PRP refer/VBP to/IN ,/, allowing/VBG us/PRP to/TO perform/VB Bayesian/JJ inference/NN based/VBN on/IN logical/JJ forms/NNS ./.
+We/PRP describe/VBP an/DT implementation/NN of/IN this/DT framework/NN using/VBG a/DT combination/NN of/IN Restricted/VBN Boltzmann/NNP Machines/NNPS and/CC feedforward/JJ neural/JJ networks/NNS ./.
+Finally/RB ,/, we/PRP demonstrate/VBP the/DT feasibility/NN of/IN this/DT approach/NN by/IN training/VBG it/PRP on/IN a/DT parsed/JJ corpus/NN and/CC evaluating/VBG it/PRP on/IN established/VBN similarity/NN datasets/NNS ./.

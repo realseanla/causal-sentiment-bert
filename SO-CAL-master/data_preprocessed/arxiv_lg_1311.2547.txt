@@ -1,0 +1,4 @@
+We/PRP consider/VBP a/DT regression/NN (/-LRB- discriminative/JJ learning/NN )/-RRB- problem/NN ,/, whereby/WRB the/DT regression/NN function/NN is/VBZ a/DT convex/NN combination/NN of/IN $/$ k/CD $/$ linear/JJ classifiers/NNS ./.
+Existing/VBG approaches/NNS are/VBP based/VBN on/IN the/DT EM/NNP algorithm/NN ,/, or/CC similar/JJ techniques/NNS ,/, without/IN provable/JJ guarantees/NNS ./.
+We/PRP develop/VBP a/DT simple/JJ method/NN based/VBN on/IN spectral/JJ techniques/NNS and/CC a/DT `/`` mirroring/NN '/'' trick/NN ,/, that/IN discovers/VBZ the/DT subspace/NN spanned/VBN by/IN the/DT classifiers/NNS '/POS parameter/NN vectors/NNS ./.
+Under/IN a/DT probabilistic/JJ assumption/NN on/IN the/DT feature/NN vector/NN distribution/NN ,/, we/PRP prove/VBP that/IN this/DT approach/NN has/VBZ nearly/RB optimal/JJ statistical/JJ efficiency/NN ./.

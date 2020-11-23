@@ -1,0 +1,9 @@
+Object/NN recognition/NN and/CC localization/NN are/VBP important/JJ tasks/NNS in/IN computer/NN vision/NN ./.
+The/DT focus/NN of/IN this/DT work/NN is/VBZ the/DT incorporation/NN of/IN contextual/JJ information/NN in/IN order/NN to/TO improve/VB object/NN recognition/NN and/CC localization/NN ./.
+For/IN instance/NN ,/, it/PRP is/VBZ natural/JJ to/TO expect/VB not/RB to/TO see/VB an/DT elephant/NN to/TO appear/VB in/IN the/DT middle/NN of/IN an/DT ocean/NN ./.
+We/PRP consider/VBP a/DT simple/JJ approach/NN to/IN encapsulate/VB such/JJ common/JJ sense/NN knowledge/NN using/VBG co-occurrence/NN statistics/NNS from/IN web/NN documents/NNS ./.
+By/IN merely/RB counting/VBG the/DT number/NN of/IN times/NNS nouns/NNS (/-LRB- such/JJ as/IN elephants/NNS ,/, sharks/NNS ,/, oceans/NNS ,/, etc./FW )/-RRB- co-occur/NN in/IN web/NN documents/NNS ,/, we/PRP obtain/VBP a/DT good/JJ estimate/NN of/IN expected/VBN co-occurrences/NNS in/IN visual/JJ data/NNS ./.
+We/PRP then/RB cast/VBD the/DT problem/NN of/IN combining/VBG textual/JJ co-occurrence/NN statistics/NNS with/IN the/DT predictions/NNS of/IN image/NN -/HYPH based/VBN classifiers/NNS as/IN an/DT optimization/NN problem/NN ./.
+The/DT resulting/VBG optimization/NN problem/NN serves/VBZ as/IN a/DT surrogate/NN for/IN our/PRP$ inference/NN procedure/NN ./.
+Albeit/IN the/DT simplicity/NN of/IN the/DT resulting/VBG optimization/NN problem/NN ,/, it/PRP is/VBZ effective/JJ in/IN improving/VBG both/DT recognition/NN and/CC localization/NN accuracy/NN ./.
+Concretely/RB ,/, we/PRP observe/VBP significant/JJ improvements/NNS in/IN recognition/NN and/CC localization/NN rates/NNS for/IN both/DT ImageNet/NNP Detection/NNP 2012/CD and/CC Sun/NNP 2012/CD datasets/NNS ./.

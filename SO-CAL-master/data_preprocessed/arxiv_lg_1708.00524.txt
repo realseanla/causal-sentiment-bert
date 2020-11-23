@@ -1,0 +1,5 @@
+NLP/NN tasks/NNS are/VBP often/RB limited/VBN by/IN scarcity/NN of/IN manually/RB annotated/VBN data/NNS ./.
+In/IN social/JJ media/NNS sentiment/NN analysis/NN and/CC related/JJ tasks/NNS ,/, researchers/NNS have/VBP therefore/RB used/VBN binarized/VBN emoticons/NNS and/CC specific/JJ hashtags/NNS as/IN forms/NNS of/IN distant/JJ supervision/NN ./.
+Our/PRP$ paper/NN shows/VBZ that/IN by/IN extending/VBG the/DT distant/JJ supervision/NN to/IN a/DT more/RBR diverse/JJ set/NN of/IN noisy/JJ labels/NNS ,/, the/DT models/NNS can/MD learn/VB richer/JJR representations/NNS ./.
+Through/IN emoji/NN prediction/NN on/IN a/DT dataset/NN of/IN 1246/CD million/CD tweets/NNS containing/VBG one/CD of/IN 64/CD common/JJ emojis/NN we/PRP obtain/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN 8/CD benchmark/NN datasets/NNS within/IN sentiment/NN ,/, emotion/NN and/CC sarcasm/NN detection/NN using/VBG a/DT single/JJ pretrained/JJ model/NN ./.
+Our/PRP$ analyses/NNS confirm/VBP that/IN the/DT diversity/NN of/IN our/PRP$ emotional/JJ labels/NNS yield/VBP a/DT performance/NN improvement/NN over/IN previous/JJ distant/JJ supervision/NN approaches/NNS ./.

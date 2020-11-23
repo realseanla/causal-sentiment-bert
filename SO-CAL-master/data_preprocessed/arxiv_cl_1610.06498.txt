@@ -1,0 +1,11 @@
+The/DT authorship/NN attribution/NN is/VBZ a/DT problem/NN of/IN considerable/JJ practical/JJ and/CC technical/JJ interest/NN ./.
+Several/JJ methods/NNS have/VBP been/VBN designed/VBN to/TO infer/VB the/DT authorship/NN of/IN disputed/VBN documents/NNS in/IN multiple/JJ contexts/NNS ./.
+While/IN traditional/JJ statistical/JJ methods/NNS based/VBN solely/RB on/IN word/NN counts/NNS and/CC related/JJ measurements/NNS have/VBP provided/VBN a/DT simple/JJ ,/, yet/CC effective/JJ solution/NN in/IN particular/JJ cases/NNS ;/: they/PRP are/VBP prone/JJ to/IN manipulation/NN ./.
+Recently/RB ,/, texts/NNS have/VBP been/VBN successfully/RB modeled/VBN as/IN networks/NNS ,/, where/WRB words/NNS are/VBP represented/VBN by/IN nodes/NNS linked/VBN according/VBG to/IN textual/JJ similarity/NN measurements/NNS ./.
+Such/JJ models/NNS are/VBP useful/JJ to/TO identify/VB informative/JJ topological/JJ patterns/NNS for/IN the/DT authorship/NN recognition/NN task/NN ./.
+However/RB ,/, there/EX is/VBZ no/DT consensus/NN on/IN which/WDT measurements/NNS should/MD be/VB used/VBN ./.
+Thus/RB ,/, we/PRP proposed/VBD a/DT novel/JJ method/NN to/TO characterize/VB text/NN networks/NNS ,/, by/IN considering/VBG both/DT topological/JJ and/CC dynamical/JJ aspects/NNS of/IN networks/NNS ./.
+Using/VBG concepts/NNS and/CC methods/NNS from/IN cellular/JJ automata/NN theory/NN ,/, we/PRP devised/VBD a/DT strategy/NN to/TO grasp/VB informative/JJ spatio/JJ -/HYPH temporal/JJ patterns/NNS from/IN this/DT model/NN ./.
+Our/PRP$ experiments/NNS revealed/VBD an/DT outperformance/NN over/IN traditional/JJ analysis/NN relying/VBG only/RB on/IN topological/JJ measurements/NNS ./.
+Remarkably/RB ,/, we/PRP have/VBP found/VBN a/DT dependence/NN of/IN pre-processing/JJ steps/NNS (/-LRB- such/JJ as/IN the/DT lemmatization/NN )/-RRB- on/IN the/DT obtained/VBN results/NNS ,/, a/DT feature/NN that/WDT has/VBZ mostly/RB been/VBN disregarded/VBN in/IN related/JJ works/NNS ./.
+The/DT optimized/VBN results/NNS obtained/VBN here/RB pave/VBP the/DT way/NN for/IN a/DT better/JJR characterization/NN of/IN textual/JJ networks/NNS ./.

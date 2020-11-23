@@ -1,0 +1,5 @@
+We/PRP give/VBP a/DT novel/JJ formal/JJ theoretical/JJ framework/NN for/IN unsupervised/JJ learning/NN with/IN two/CD distinctive/JJ characteristics/NNS ./.
+First/RB ,/, it/PRP does/VBZ not/RB assume/VB any/DT generative/JJ model/NN and/CC based/VBN on/IN a/DT worst/RBS -/HYPH case/NN performance/NN metric/JJ ./.
+Second/RB ,/, it/PRP is/VBZ comparative/JJ ,/, namely/RB performance/NN is/VBZ measured/VBN with/IN respect/NN to/IN a/DT given/VBN hypothesis/NN class/NN ./.
+This/DT allows/VBZ to/TO avoid/VB known/VBN computational/JJ hardness/NN results/NNS and/CC improper/JJ algorithms/NNS based/VBN on/IN convex/NN relaxations/NNS ./.
+We/PRP show/VBP how/WRB several/JJ families/NNS of/IN unsupervised/JJ learning/NN models/NNS ,/, which/WDT were/VBD previously/RB only/RB analyzed/VBN under/IN probabilistic/JJ assumptions/NNS and/CC are/VBP otherwise/RB provably/RB intractable/JJ ,/, can/MD be/VB efficiently/RB learned/VBN in/IN our/PRP$ framework/NN by/IN convex/NN optimization/NN ./.

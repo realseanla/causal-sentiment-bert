@@ -1,0 +1,7 @@
+Situation/NNP calculus/NN has/VBZ been/VBN widely/RB applied/VBN in/IN Artificial/NNP Intelligence/NNP related/JJ fields/NNS ./.
+This/DT formalism/NN is/VBZ considered/VBN as/IN a/DT dialect/NN of/IN logic/NN programming/NN language/NN and/CC mostly/RB used/VBN in/IN dynamic/JJ domain/NN modeling/NN ./.
+However/RB ,/, type/NN systems/NNS are/VBP hardly/RB deployed/VBN in/IN situation/NN calculus/NN in/IN the/DT literature/NN ./.
+To/TO achieve/VB a/DT correct/JJ and/CC sound/JJ typed/VBN program/NN written/VBN in/IN situation/NN calculus/NN ,/, adding/VBG typing/VBG elements/NNS into/IN the/DT current/JJ situation/NN calculus/NN will/MD be/VB quite/RB helpful/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO add/VB more/JJR typing/NN mechanisms/NNS to/IN the/DT current/JJ version/NN of/IN situation/NN calculus/NN ,/, especially/RB for/IN three/CD basic/JJ elements/NNS in/IN situation/NN calculus/NN :/: situations/NNS ,/, actions/NNS and/CC objects/NNS ,/, and/CC then/RB perform/VB rigid/JJ type/NN checking/VBG for/IN existing/VBG situation/NN calculus/NN programs/NNS to/TO find/VB out/RP the/DT well/RB -/HYPH typed/VBN and/CC ill/RB -/HYPH typed/VBN ones/NNS ./.
+In/IN this/DT way/NN ,/, type/NN correctness/NN and/CC soundness/NN in/IN situation/NN calculus/NN programs/NNS can/MD be/VB guaranteed/VBN by/IN type/NN checking/VBG based/VBN on/IN our/PRP$ type/NN system/NN ./.
+This/DT modified/VBN version/NN of/IN a/DT lightweight/JJ situation/NN calculus/NN is/VBZ proved/VBN to/TO be/VB a/DT robust/JJ and/CC well/RB -/HYPH typed/VBN system/NN ./.

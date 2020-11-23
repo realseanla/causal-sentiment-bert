@@ -1,0 +1,8 @@
+Probabilistic/JJ logic/NN programs/NNS are/VBP logic/NN programs/NNS in/IN which/WDT some/DT of/IN the/DT facts/NNS are/VBP annotated/VBN with/IN probabilities/NNS ./.
+Several/JJ classical/JJ probabilistic/JJ inference/NN tasks/NNS (/-LRB- such/JJ as/IN MAP/NN and/CC computing/NN marginals/NNS )/-RRB- have/VBP not/RB yet/RB received/VBN a/DT lot/NN of/IN attention/NN for/IN this/DT formalism/NN ./.
+The/DT contribution/NN of/IN this/DT paper/NN is/VBZ that/IN we/PRP develop/VBP efficient/JJ inference/NN algorithms/NNS for/IN these/DT tasks/NNS ./.
+This/DT is/VBZ based/VBN on/IN a/DT conversion/NN of/IN the/DT probabilistic/JJ logic/NN program/NN and/CC the/DT query/NN and/CC evidence/NN to/IN a/DT weighted/JJ CNF/NN formula/NN ./.
+This/DT allows/VBZ us/PRP to/TO reduce/VB the/DT inference/NN tasks/NNS to/TO well/RB -/HYPH studied/VBN tasks/NNS such/JJ as/IN weighted/JJ model/NN counting/VBG ./.
+To/TO solve/VB such/JJ tasks/NNS ,/, we/PRP employ/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.
+We/PRP consider/VBP multiple/JJ methods/NNS for/IN the/DT conversion/NN of/IN the/DT programs/NNS as/RB well/RB as/IN for/IN inference/NN on/IN the/DT weighted/JJ CNF/NN ./.
+The/DT resulting/VBG approach/NN is/VBZ evaluated/VBN experimentally/RB and/CC shown/VBN to/TO improve/VB upon/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN probabilistic/JJ logic/NN programming/NN ./.

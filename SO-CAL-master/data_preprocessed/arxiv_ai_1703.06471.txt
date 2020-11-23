@@ -1,0 +1,6 @@
+Deliberating/VBG on/IN large/JJ or/CC continuous/JJ state/NN spaces/NNS have/VBP been/VBN long/JJ standing/VBG challenges/NNS in/IN reinforcement/NN learning/NN ./.
+Temporal/JJ Abstraction/NN have/VBP somewhat/RB made/VBN this/DT possible/JJ ,/, but/CC efficiently/RB planing/VBG using/VBG temporal/JJ abstraction/NN still/RB remains/VBZ an/DT issue/NN ./.
+Moreover/RB using/VBG spatial/JJ abstractions/NNS to/TO learn/VB policies/NNS for/IN various/JJ situations/NNS at/IN once/RB while/IN using/VBG temporal/JJ abstraction/NN models/NNS is/VBZ an/DT open/JJ problem/NN ./.
+We/PRP propose/VBP here/RB an/DT efficient/JJ algorithm/NN which/WDT is/VBZ convergent/JJ under/IN linear/JJ function/NN approximation/NN while/IN planning/VBG using/VBG temporally/RB abstract/JJ actions/NNS ./.
+We/PRP show/VBP how/WRB this/DT algorithm/NN can/MD be/VB used/VBN along/IN with/IN randomly/RB generated/VBN option/NN models/NNS over/IN multiple/JJ time/NN scales/NNS to/TO plan/VB agents/NNS which/WDT need/VBP to/TO act/VB real/JJ time/NN ./.
+Using/VBG these/DT randomly/RB generated/VBN option/NN models/NNS over/IN multiple/JJ time/NN scales/NNS are/VBP shown/VBN to/TO reduce/VB number/NN of/IN decision/NN epochs/NNS required/VBN to/TO solve/VB the/DT given/VBN task/NN ,/, hence/RB effectively/RB reducing/VBG the/DT time/NN needed/VBN for/IN deliberation/NN ./.

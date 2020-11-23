@@ -1,0 +1,5 @@
+This paper proposes a universal method, Boost Picking, to train supervised classification models mainly by un-labeled data.
+Boost Picking only adopts two weak classifiers to estimate and correct the error.
+It is theoretically proved that Boost Picking could train a supervised model mainly by un-labeled data as effectively as the same model trained by 100 percent labeled data, only if recalls of the two weak classifiers are all greater than zero and the sum of precisions is greater than one.
+Based on Boost Picking, we present "Test along with Training (TawT)" to improve the generalization of supervised models.
+Both Boost Picking and TawT are successfully tested in varied little data sets.

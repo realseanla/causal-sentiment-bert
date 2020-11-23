@@ -1,0 +1,4 @@
+This/DT paper/NN is/VBZ an/DT empirical/JJ study/NN of/IN the/DT distributed/VBN deep/JJ learning/NN for/IN a/DT question/NN answering/VBG subtask/NN :/: answer/NN selection/NN ./.
+Comparison/NN studies/NNS of/IN SGD/NNP ,/, MSGD/NNP ,/, DOWNPOUR/NNP and/CC EASGD/NNP //HYPH EAMSGD/NNP algorithms/NNS have/VBP been/VBN presented/VBN ./.
+Experimental/JJ results/NNS show/VBP that/IN the/DT message/NN passing/NN interface/NN based/VBN distributed/VBN framework/NN can/MD accelerate/VB the/DT convergence/NN speed/NN at/IN a/DT sublinear/NN scale/NN ./.
+This/DT paper/NN demonstrates/VBZ the/DT importance/NN of/IN distributed/VBN training/NN :/: with/IN 120/CD workers/NNS ,/, an/DT 83x/NN speedup/NN is/VBZ achievable/JJ and/CC running/JJ time/NN is/VBZ decreased/VBN from/IN 107.9/CD hours/NNS to/IN 1.3/CD hours/NNS ,/, which/WDT will/MD benefit/VB the/DT productivity/NN significantly/RB ./.

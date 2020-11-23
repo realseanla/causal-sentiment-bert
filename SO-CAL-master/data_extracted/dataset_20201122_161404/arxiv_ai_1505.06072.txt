@@ -1,0 +1,8 @@
+We define two algorithms for propagating information in classification problems with pairwise relationships.
+The algorithms involve contraction maps and are related to non-linear diffusion and random walks on graphs.
+The approach is also related to message passing and mean field methods.
+The algorithms we describe are guaranteed to converge on graphs with arbitrary topology.
+Moreover they always converge to a unique fixed point, independent of initialization.
+We prove that the fixed points of the algorithms under consideration define lower-bounds on the energy function and the max-marginals of a Markov random field.
+Our theoretical results also illustrate a relationship between message passing algorithms and value iteration for an infinite horizon Markov decision process.
+We illustrate the practical feasibility of our algorithms with preliminary experiments in image restoration and stereo depth estimation.

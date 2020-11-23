@@ -1,0 +1,6 @@
+Graph/NN -/HYPH based/VBN semi-supervised/JJ learning/NN has/VBZ proven/VBN to/TO be/VB an/DT effective/JJ approach/NN for/IN query/NN -/HYPH focused/VBN multi-document/JJ summarization/NN ./.
+The/DT problem/NN of/IN previous/JJ semi-supervised/JJ learning/NN is/VBZ that/IN sentences/NNS are/VBP ranked/VBN without/IN considering/VBG the/DT higher/JJR level/NN information/NN beyond/IN sentence/NN level/NN ./.
+Researches/NNS on/IN general/JJ summarization/NN illustrated/VBD that/IN the/DT addition/NN of/IN topic/NN level/NN can/MD effectively/RB improve/VB the/DT summary/NN quality/NN ./.
+Inspired/VBN by/IN previous/JJ researches/NNS ,/, we/PRP propose/VBP a/DT two/CD -/HYPH layer/NN (/-LRB- i.e./FW sentence/NN layer/NN and/CC topic/NN layer/NN )/-RRB- graph/NN -/HYPH based/VBN semi-supervised/JJ learning/NN approach/NN ./.
+At/IN the/DT same/JJ time/NN ,/, we/PRP propose/VBP a/DT novel/JJ topic/NN model/NN which/WDT makes/VBZ full/JJ use/NN of/IN the/DT dependence/NN between/IN sentences/NNS and/CC words/NNS ./.
+Experimental/JJ results/NNS on/IN DUC/NNP and/CC TAC/NN data/NN sets/NNS demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ proposed/VBN approach/NN ./.

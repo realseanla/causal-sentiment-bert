@@ -1,0 +1,6 @@
+This/DT paper/NN presents/VBZ a/DT Directed/NNP Controller/NNP Synthesis/NN (/-LRB- DCS/NN )/-RRB- technique/NN for/IN discrete/JJ event/NN systems/NNS ./.
+The/DT DCS/NN method/NN explores/VBZ the/DT solution/NN space/NN for/IN reactive/JJ controllers/NNS guided/VBN by/IN a/DT domain/NN -/HYPH independent/JJ heuristic/NN ./.
+The/DT heuristic/NN is/VBZ derived/VBN from/IN an/DT efficient/JJ abstraction/NN of/IN the/DT environment/NN based/VBN on/IN the/DT componentized/JJ way/NN in/IN which/WDT complex/JJ environments/NNS are/VBP described/VBN ./.
+Then/RB by/IN building/VBG the/DT composition/NN of/IN the/DT components/NNS on/IN -/HYPH the/DT -/HYPH fly/NN DCS/NN obtains/VBZ a/DT solution/NN by/IN exploring/VBG a/DT reduced/VBN portion/NN of/IN the/DT state/NN space/NN ./.
+This/DT work/NN focuses/VBZ on/IN untimed/JJ discrete/JJ event/NN systems/NNS with/IN safety/NN and/CC co-safety/NN (/-LRB- i.e./FW reachability/NN )/-RRB- goals/NNS ./.
+An/DT evaluation/NN for/IN the/DT technique/NN is/VBZ presented/VBN comparing/VBG it/PRP to/IN other/JJ well/RB -/HYPH known/VBN approaches/NNS to/IN controller/NN synthesis/NN (/-LRB- based/VBN on/IN symbolic/JJ representation/NN and/CC compositional/JJ analyses/NNS )/-RRB- ./.

@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT supervised/JJ learning/NN to/IN rank/NN algorithm/NN that/WDT effectively/RB orders/NNS images/NNS by/IN exploiting/VBG the/DT structure/NN in/IN image/NN sequences/NNS ./.
+Most/RBS often/RB in/IN the/DT supervised/JJ learning/NN to/IN rank/NN literature/NN ,/, ranking/VBG is/VBZ approached/VBN either/CC by/IN analyzing/VBG pairs/NNS of/IN images/NNS or/CC by/IN optimizing/VBG a/DT list-wise/JJ surrogate/JJ loss/NN function/NN on/IN full/JJ sequences/NNS ./.
+In/IN this/DT work/NN we/PRP propose/VBP MidRank/NNP ,/, which/WDT learns/VBZ from/IN moderately/RB sized/JJ sub-sequences/NNS instead/RB ./.
+These/DT sub-sequences/NNS contain/VBP useful/JJ structural/JJ ranking/VBG information/NN that/WDT leads/VBZ to/IN better/JJR learnability/NN during/IN training/NN and/CC better/JJR generalization/NN during/IN testing/NN ./.
+By/IN exploiting/VBG sub-sequences/NNS ,/, the/DT proposed/VBN MidRank/NNP improves/VBZ ranking/VBG accuracy/NN considerably/RB on/IN an/DT extensive/JJ array/NN of/IN image/NN ranking/NN applications/NNS and/CC datasets/NNS ./.

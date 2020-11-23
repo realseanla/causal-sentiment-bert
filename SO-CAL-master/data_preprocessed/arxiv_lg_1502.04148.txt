@@ -1,0 +1,4 @@
+Independent/JJ Component/NN Analysis/NN (/-LRB- ICA/NN )/-RRB- is/VBZ a/DT popular/JJ model/NN for/IN blind/JJ signal/NN separation/NN ./.
+The/DT ICA/NN model/NN assumes/VBZ that/IN a/DT number/NN of/IN independent/JJ source/NN signals/NNS are/VBP linearly/RB mixed/VBN to/TO form/VB the/DT observed/VBN signal/NN ./.
+Traditional/JJ ICA/NN algorithms/NNS typically/RB aim/VBP to/TO recover/VB the/DT mixing/VBG matrix/NN ,/, the/DT inverse/NN of/IN which/WDT can/MD be/VB applied/VBN to/IN data/NNS in/IN order/NN to/TO recover/VB the/DT latent/JJ independent/JJ signals/NNS ./.
+However/RB ,/, in/IN the/DT presence/NN of/IN noise/NN ,/, this/DT demixing/NN process/NN is/VBZ non-optimal/JJ for/IN signal/NN recovery/NN as/IN measured/VBN by/IN signal/NN -/HYPH to/IN -/HYPH interference/NN -/HYPH plus/NN -/HYPH noise/NN ratio/NN (/-LRB- SINR/NNP )/-RRB- ,/, even/RB if/IN the/DT mixing/VBG matrix/NN is/VBZ recovered/VBN exactly/RB ./.

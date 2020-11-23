@@ -1,0 +1,4 @@
+The development of a deep (stacked) convolutional auto-encoder in the Caffe deep learning framework is presented in this paper.
+We describe simple principles which we used to create this model in Caffe.
+The proposed model of convolutional auto-encoder does not have pooling/unpooling layers yet.
+The results of our experimental research show comparable accuracy of dimensionality reduction in comparison with a classic auto-encoder on the example of MNIST dataset.

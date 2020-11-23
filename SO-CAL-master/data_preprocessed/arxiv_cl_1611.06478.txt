@@ -1,0 +1,8 @@
+Neural/JJ network/NN based/VBN models/NNS are/VBP a/DT very/RB powerful/JJ tool/NN for/IN creating/VBG word/NN embeddings/NNS ,/, the/DT objective/NN of/IN these/DT models/NNS is/VBZ to/TO group/NN similar/JJ words/NNS together/RB ./.
+These/DT embeddings/NNS have/VBP been/VBN used/VBN as/IN features/NNS to/TO improve/VB results/NNS in/IN various/JJ applications/NNS such/JJ as/IN document/NN classification/NN ,/, named/VBN entity/NN recognition/NN ,/, etc/FW ./.
+Neural/JJ language/NN models/NNS are/VBP able/JJ to/TO learn/VB word/NN representations/NNS which/WDT have/VBP been/VBN used/VBN to/TO capture/VB semantic/JJ shifts/NNS across/IN time/NN and/CC geography/NN ./.
+The/DT objective/NN of/IN this/DT paper/NN is/VBZ to/TO first/RB identify/VB and/CC then/RB visualize/VB how/WRB words/NNS change/VBP meaning/VBG in/IN different/JJ text/NN corpus/NN ./.
+We/PRP will/MD train/VB a/DT neural/JJ language/NN model/NN on/IN texts/NNS from/IN a/DT diverse/JJ set/NN of/IN disciplines/NNS philosophy/NN ,/, religion/NN ,/, fiction/NN etc/FW ./.
+Each/DT text/NN will/MD alter/VB the/DT embeddings/NNS of/IN the/DT words/NNS to/TO represent/VB the/DT meaning/NN of/IN the/DT word/NN inside/IN that/DT text/NN ./.
+We/PRP will/MD present/VB a/DT computational/JJ technique/NN to/TO detect/VB words/NNS that/WDT exhibit/VBP significant/JJ linguistic/JJ shift/NN in/IN meaning/NN and/CC usage/NN ./.
+We/PRP then/RB use/VBP enhanced/VBN scatterplots/NNS and/CC storyline/NN visualization/NN to/TO visualize/VB the/DT linguistic/JJ shift/NN ./.

@@ -1,0 +1,4 @@
+For many types of integrated circuits, accepting larger failure rates in computations can be used to improve energy efficiency.
+We study the performance of faulty implementations of certain deep neural networks based on pessimistic and optimistic models of the effect of hardware faults.
+After identifying the impact of hyperparameters such as the number of layers on robustness, we study the ability of the network to compensate for computational failures through an increase of the network size.
+We show that some networks can achieve equivalent performance under faulty implementations, and quantify the required increase in computational complexity.

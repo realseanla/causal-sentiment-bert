@@ -1,0 +1,6 @@
+The/DT progress/NN in/IN imaging/NN techniques/NNS have/VBP allowed/VBN the/DT study/NN of/IN various/JJ aspect/NN of/IN cellular/JJ mechanisms/NNS ./.
+To/TO isolate/VB individual/JJ cells/NNS in/IN live/JJ imaging/NN data/NNS ,/, we/PRP introduce/VBP an/DT elegant/JJ image/NN segmentation/NN framework/NN that/WDT effectively/RB extracts/NNS cell/NN boundaries/NNS ,/, even/RB in/IN the/DT presence/NN of/IN poor/JJ edge/NN details/NNS ./.
+Our/PRP$ approach/NN works/VBZ in/IN two/CD stages/NNS ./.
+First/RB ,/, we/PRP estimate/VBP pixel/NN interior/NN //HYPH border/NN //HYPH exterior/NN class/NN probabilities/NNS using/VBG random/JJ ferns/NNS ./.
+Then/RB ,/, we/PRP use/VBP an/DT energy/NN minimization/NN framework/NN to/TO compute/VB boundaries/NNS whose/WP$ localization/NN is/VBZ compliant/JJ with/IN the/DT pixel/NN class/NN probabilities/NNS ./.
+We/PRP validate/VBP our/PRP$ approach/NN on/IN a/DT manually/RB annotated/VBN dataset/NN ./.

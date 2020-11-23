@@ -1,0 +1,5 @@
+Factorization/NN machines/NNS (/-LRB- FMs/NNS )/-RRB- are/VBP a/DT supervised/JJ learning/NN approach/NN that/WDT can/MD use/VB second/JJ -/HYPH order/NN feature/NN combinations/NNS even/RB when/WRB the/DT data/NNS is/VBZ very/RB high/JJ -/HYPH dimensional/JJ ./.
+Unfortunately/RB ,/, despite/IN increasing/VBG interest/NN in/IN FMs/NNS ,/, there/RB exists/VBZ to/IN date/NN no/DT efficient/JJ training/NN algorithm/NN for/IN higher/JJR -/HYPH order/NN FMs/NNS (/-LRB- HOFMs/NNS )/-RRB- ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT first/JJ generic/JJ yet/CC efficient/JJ algorithms/NNS for/IN training/NN arbitrary/JJ -/HYPH order/NN HOFMs/NNS ./.
+We/PRP also/RB present/VBP new/JJ variants/NNS of/IN HOFMs/NNS with/IN shared/VBN parameters/NNS ,/, which/WDT greatly/RB reduce/VBP model/NN size/NN and/CC prediction/NN times/NNS while/IN maintaining/VBG similar/JJ accuracy/NN ./.
+We/PRP demonstrate/VBP the/DT proposed/VBN approaches/NNS on/IN four/CD different/JJ link/NN prediction/NN tasks/NNS ./.

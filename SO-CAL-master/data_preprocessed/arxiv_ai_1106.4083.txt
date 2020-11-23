@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP explore/VBP a/DT symmetry/NN -/HYPH based/VBN search/NN space/NN reduction/NN technique/NN which/WDT can/MD speed/VB up/RP optimal/JJ pathfinding/NN on/IN undirected/JJ uniform/NN -/HYPH cost/NN grid/NN maps/NNS by/IN up/RB to/IN 38/CD times/NNS ./.
+Our/PRP$ technique/NN decomposes/VBZ grid/NN maps/NNS into/IN a/DT set/NN of/IN empty/JJ rectangles/NNS ,/, removing/VBG from/IN each/DT rectangle/NN all/DT interior/JJ nodes/NNS and/CC possibly/RB some/DT from/IN along/IN the/DT perimeter/NN ./.
+We/PRP then/RB add/VB a/DT series/NN of/IN macro-edges/NNS between/IN selected/VBN pairs/NNS of/IN remaining/VBG perimeter/NN nodes/NNS to/TO facilitate/VB provably/RB optimal/JJ traversal/NN through/IN each/DT rectangle/NN ./.
+We/PRP also/RB develop/VBP a/DT novel/JJ online/JJ pruning/NN technique/NN to/TO further/RB speed/VB up/RP search/NN ./.
+Our/PRP$ algorithm/NN is/VBZ fast/RB ,/, memory/NN efficient/JJ and/CC retains/VBZ the/DT same/JJ optimality/NN and/CC completeness/NN guarantees/NNS as/IN searching/VBG on/IN an/DT unmodified/JJ grid/NN map/NN ./.

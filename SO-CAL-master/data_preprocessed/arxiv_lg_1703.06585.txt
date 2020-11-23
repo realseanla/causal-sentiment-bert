@@ -1,0 +1,3 @@
+We/PRP introduce/VBP the/DT first/JJ goal/NN -/HYPH driven/VBN training/NN for/IN visual/JJ question/NN answering/NN and/CC dialog/NN agents/NNS ./.
+Specifically/RB ,/, we/PRP pose/VBP a/DT cooperative/JJ '/`` image/NN guessing/VBG '/`` game/NN between/IN two/CD agents/NNS --/: Qbot/NN and/CC Abot/NN --/: who/WP communicate/VBP in/IN natural/JJ language/NN dialog/NN so/IN that/IN Qbot/NNP can/MD select/VB an/DT unseen/JJ image/NN from/IN a/DT lineup/NN of/IN images/NNS ./.
+We/PRP use/VBP deep/JJ reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- to/TO learn/VB the/DT policies/NNS of/IN these/DT agents/NNS end/NN -/HYPH to/IN -/HYPH end/NN --/: from/IN pixels/NNS to/IN multi-agent/JJ multi-round/JJ dialog/NN to/IN game/NN reward/NN ./.

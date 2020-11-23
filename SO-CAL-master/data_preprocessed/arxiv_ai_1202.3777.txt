@@ -1,0 +1,8 @@
+Compiling/VBG Bayesian/JJ networks/NNS (/-LRB- BNs/NNS )/-RRB- to/IN junction/NN trees/NNS and/CC performing/VBG belief/NN propagation/NN over/IN them/PRP is/VBZ among/IN the/DT most/RBS prominent/JJ approaches/NNS to/IN computing/VBG posteriors/NNS in/IN BNs/NNS ./.
+However/RB ,/, belief/NN propagation/NN over/IN junction/NN tree/NN is/VBZ known/VBN to/TO be/VB computationally/RB intensive/JJ in/IN the/DT general/JJ case/NN ./.
+Its/PRP$ complexity/NN may/MD increase/VB dramatically/RB with/IN the/DT connectivity/NN and/CC state/NN space/NN cardinality/NN of/IN Bayesian/JJ network/NN nodes/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP this/DT computational/JJ challenge/NN using/VBG GPU/NNP parallelization/NN ./.
+We/PRP develop/VBP data/NNS structures/NNS and/CC algorithms/NNS that/WDT extend/VBP existing/VBG junction/NN tree/NN techniques/NNS ,/, and/CC specifically/RB develop/VB a/DT novel/JJ approach/NN to/IN computing/VBG each/DT belief/NN propagation/NN message/NN in/IN parallel/NN ./.
+We/PRP implement/VBP our/PRP$ approach/NN on/IN an/DT NVIDIA/NNP GPU/NNP and/CC test/VB it/PRP using/VBG BNs/NNS from/IN several/JJ applications/NNS ./.
+Experimentally/RB ,/, we/PRP study/VBP how/WRB junction/NN tree/NN parameters/NNS affect/VBP parallelization/NN opportunities/NNS and/CC hence/RB the/DT performance/NN of/IN our/PRP$ algorithm/NN ./.
+We/PRP achieve/VBP speedups/NNS ranging/VBG from/IN 0.68/CD to/IN 9.18/CD for/IN the/DT BNs/NNPS studied/VBD ./.

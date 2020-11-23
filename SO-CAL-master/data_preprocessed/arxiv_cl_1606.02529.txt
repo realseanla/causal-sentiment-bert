@@ -1,0 +1,7 @@
+Coordination/NN is/VBZ an/DT important/JJ and/CC common/JJ syntactic/JJ construction/NN which/WDT is/VBZ not/RB handled/VBN well/RB by/IN state/NN of/IN the/DT art/NN parsers/NNS ./.
+Coordinations/NNS in/IN the/DT Penn/NNP Treebank/NNP are/VBP missing/VBG internal/JJ structure/NN in/IN many/JJ cases/NNS ,/, do/VBP not/RB include/VB explicit/JJ marking/NN of/IN the/DT conjuncts/NNS and/CC contain/VBP various/JJ errors/NNS and/CC inconsistencies/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP initiated/VBD manual/JJ annotation/NN process/NN for/IN solving/VBG these/DT issues/NNS ./.
+We/PRP identify/VBP the/DT different/JJ elements/NNS in/IN a/DT coordination/NN phrase/NN and/CC label/NN each/DT element/NN with/IN its/PRP$ function/NN ./.
+We/PRP add/VBP phrase/NN boundaries/NNS when/WRB these/DT are/VBP missing/VBG ,/, unify/VB inconsistencies/NNS ,/, and/CC fix/NN errors/NNS ./.
+The/DT outcome/NN is/VBZ an/DT extension/NN of/IN the/DT PTB/NNP that/WDT includes/VBZ consistent/JJ and/CC detailed/JJ structures/NNS for/IN coordinations/NNS ./.
+We/PRP make/VBP the/DT coordination/NN annotation/NN publicly/RB available/JJ ,/, in/IN hope/NN that/IN they/PRP will/MD facilitate/VB further/JJ research/NN into/IN coordination/NN disambiguation/NN ./.

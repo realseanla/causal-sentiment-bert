@@ -1,0 +1,7 @@
+Human/JJ vision/NN greatly/RB benefits/VBZ from/IN the/DT information/NN about/IN sizes/NNS of/IN objects/NNS ./.
+The/DT role/NN of/IN size/NN in/IN several/JJ visual/JJ reasoning/NN tasks/NNS has/VBZ been/VBN thoroughly/RB explored/VBN in/IN human/JJ perception/NN and/CC cognition/NN ./.
+However/RB ,/, the/DT impact/NN of/IN the/DT information/NN about/IN sizes/NNS of/IN objects/NNS is/VBZ yet/RB to/TO be/VB determined/VBN in/IN AI/NN ./.
+We/PRP postulate/VBP that/IN this/DT is/VBZ mainly/RB attributed/VBN to/IN the/DT lack/NN of/IN a/DT comprehensive/JJ repository/NN of/IN size/NN information/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT method/NN to/TO automatically/RB infer/VB object/NN sizes/NNS ,/, leveraging/VBG visual/JJ and/CC textual/JJ information/NN from/IN web/NN ./.
+By/IN maximizing/VBG the/DT joint/JJ likelihood/NN of/IN textual/JJ and/CC visual/JJ observations/NNS ,/, our/PRP$ method/NN learns/VBZ reliable/JJ relative/JJ size/NN estimates/NNS ,/, with/IN no/DT explicit/JJ human/JJ supervision/NN ./.
+We/PRP introduce/VBP the/DT relative/JJ size/NN dataset/NN and/CC show/VBP that/IN our/PRP$ method/NN outperforms/VBZ competitive/JJ textual/JJ and/CC visual/JJ baselines/NNS in/IN reasoning/NN about/IN size/NN comparisons/NNS ./.

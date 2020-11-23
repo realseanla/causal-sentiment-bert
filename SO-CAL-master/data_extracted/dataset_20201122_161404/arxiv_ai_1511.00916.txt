@@ -1,0 +1,6 @@
+Programmers may be hesitant to use declarative systems, because of the associated learning curve.
+In this paper, we present an API that integrates the IDP Knowledge Base system into the Python programming language.
+IDP is a state-of-the-art logical system, which uses SAT, SMT, Logic Programming and Answer Set Programming technology.
+Python is currently one of the most widely used (teaching) languages for programming.
+The first goal of our API is to allow a Python programmer to use the declarative power of IDP, without needing to learn any new syntax or semantics.
+The second goal is allow IDP to be added to/removed from an existing code base with minimal changes.

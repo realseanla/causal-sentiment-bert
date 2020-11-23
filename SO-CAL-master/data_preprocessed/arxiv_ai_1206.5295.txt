@@ -1,0 +1,5 @@
+Memory/NN -/HYPH Bounded/VBN Dynamic/JJ Programming/NN (/-LRB- MBDP/NN )/-RRB- has/VBZ proved/VBN extremely/RB effective/JJ in/IN solving/VBG decentralized/VBN POMDPs/NNS with/IN large/JJ horizons/NNS ./.
+We/PRP generalize/VBP the/DT algorithm/NN and/CC improve/VB its/PRP$ scalability/NN by/IN reducing/VBG the/DT complexity/NN with/IN respect/NN to/IN the/DT number/NN of/IN observations/NNS from/IN exponential/JJ to/IN polynomial/JJ ./.
+We/PRP derive/VBP error/NN bounds/NNS on/IN solution/NN quality/NN with/IN respect/NN to/IN this/DT new/JJ approximation/NN and/CC analyze/VB the/DT convergence/NN behavior/NN ./.
+To/TO evaluate/VB the/DT effectiveness/NN of/IN the/DT improvements/NNS ,/, we/PRP introduce/VBP a/DT new/JJ ,/, larger/JJR benchmark/NN problem/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN despite/IN the/DT high/JJ complexity/NN of/IN decentralized/VBN POMDPs/NNS ,/, scalable/JJ solution/NN techniques/NNS such/JJ as/IN MBDP/NNP perform/VB surprisingly/RB well/RB ./.

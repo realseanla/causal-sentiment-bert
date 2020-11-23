@@ -1,0 +1,5 @@
+Sequence/NN labeling/NN architectures/NNS use/VBP word/NN embeddings/NNS for/IN capturing/VBG similarity/NN ,/, but/CC suffer/VB when/WRB handling/VBG previously/RB unseen/JJ or/CC rare/JJ words/NNS ./.
+We/PRP investigate/VBP character/NN -/HYPH level/NN extensions/NNS to/IN such/JJ models/NNS and/CC propose/VB a/DT novel/JJ architecture/NN for/IN combining/VBG alternative/JJ word/NN representations/NNS ./.
+By/IN using/VBG an/DT attention/NN mechanism/NN ,/, the/DT model/NN is/VBZ able/JJ to/TO dynamically/RB decide/VB how/WRB much/JJ information/NN to/TO use/VB from/IN a/DT word/NN -/HYPH or/CC character/NN -/HYPH level/NN component/NN ./.
+We/PRP evaluated/VBD different/JJ architectures/NNS on/IN a/DT range/NN of/IN sequence/NN labeling/NN datasets/NNS ,/, and/CC character/NN -/HYPH level/NN extensions/NNS were/VBD found/VBN to/TO improve/VB performance/NN on/IN every/DT benchmark/NN ./.
+In/IN addition/NN ,/, the/DT proposed/VBN attention/NN -/HYPH based/VBN architecture/NN delivered/VBD the/DT best/JJS results/NNS even/RB with/IN a/DT smaller/JJR number/NN of/IN trainable/JJ parameters/NNS ./.

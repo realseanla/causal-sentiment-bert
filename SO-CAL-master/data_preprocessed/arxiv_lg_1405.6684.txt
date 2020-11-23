@@ -1,0 +1,9 @@
+Random/NNP Forest/NNP (/-LRB- RF/NNP )/-RRB- is/VBZ a/DT powerful/JJ ensemble/NN method/NN for/IN classification/NN and/CC regression/NN tasks/NNS ./.
+It/PRP consists/VBZ of/IN decision/NN trees/NNS set/VBN ./.
+Although/IN ,/, a/DT single/JJ tree/NN is/VBZ well/RB interpretable/JJ for/IN human/JJ ,/, the/DT ensemble/NN of/IN trees/NNS is/VBZ a/DT black/JJ -/HYPH box/NN model/NN ./.
+The/DT popular/JJ technique/NN to/TO look/VB inside/IN the/DT RF/NN model/NN is/VBZ to/TO visualize/VB a/DT RF/NN proximity/NN matrix/NN obtained/VBN on/IN data/NNS samples/NNS with/IN Multidimensional/NNP Scaling/NNP (/-LRB- MDS/NNP )/-RRB- method/NN ./.
+Herein/RB ,/, we/PRP present/VBP a/DT novel/JJ method/NN based/VBN on/IN Self/NNP -/HYPH Organising/NNP Maps/NNPS (/-LRB- SOM/NNP )/-RRB- for/IN revealing/VBG intrinsic/JJ relationships/NNS in/IN data/NNS that/WDT lay/VBP inside/IN the/DT RF/NNP used/VBD for/IN classification/NN tasks/NNS ./.
+We/PRP propose/VBP an/DT algorithm/NN to/TO learn/VB the/DT SOM/NN with/IN the/DT proximity/NN matrix/NN obtained/VBN from/IN the/DT RF/NN ./.
+The/DT visualization/NN of/IN RF/NNP proximity/NN matrix/NN with/IN MDS/NN and/CC SOM/NN is/VBZ compared/VBN ./.
+What/WP is/VBZ more/JJR ,/, the/DT SOM/NNP learned/VBD with/IN the/DT RF/NNP proximity/NN matrix/NN has/VBZ better/JJR classification/NN accuracy/NN in/IN comparison/NN to/IN SOM/NNP learned/VBD with/IN Euclidean/JJ distance/NN ./.
+Presented/VBN approach/NN enables/VBZ better/JJR understanding/NN of/IN the/DT RF/NN and/CC additionally/RB improves/VBZ accuracy/NN of/IN the/DT SOM/NNP ./.

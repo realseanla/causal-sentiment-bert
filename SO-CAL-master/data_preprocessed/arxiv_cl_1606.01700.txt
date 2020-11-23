@@ -1,0 +1,7 @@
+We/PRP introduce/VBP a/DT recurrent/JJ neural/JJ network/NN language/NN model/NN (/-LRB- RNN/NN -/HYPH LM/NN )/-RRB- with/IN long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- units/NNS that/WDT utilizes/VBZ both/CC character/NN -/HYPH level/NN and/CC word/NN -/HYPH level/NN inputs/NNS ./.
+Our/PRP$ model/NN has/VBZ a/DT gate/NN that/WDT adaptively/RB finds/VBZ the/DT optimal/JJ mixture/NN of/IN the/DT character/NN -/HYPH level/NN and/CC word/NN -/HYPH level/NN inputs/NNS ./.
+The/DT gate/NN creates/VBZ the/DT final/JJ vector/NN representation/NN of/IN a/DT word/NN by/IN combining/VBG two/CD distinct/JJ representations/NNS of/IN the/DT word/NN ./.
+The/DT character/NN -/HYPH level/NN inputs/NNS are/VBP converted/VBN into/IN vector/NN representations/NNS of/IN words/NNS using/VBG a/DT bidirectional/JJ LSTM/NN ./.
+The/DT word/NN -/HYPH level/NN inputs/NNS are/VBP projected/VBN into/IN another/DT high/JJ -/HYPH dimensional/JJ space/NN by/IN a/DT word/NN lookup/NN table/NN ./.
+The/DT final/JJ vector/NN representations/NNS of/IN words/NNS are/VBP used/VBN in/IN the/DT LSTM/NNP language/NN model/NN which/WDT predicts/VBZ the/DT next/JJ word/NN given/VBN all/PDT the/DT preceding/VBG words/NNS ./.
+Our/PRP$ model/NN with/IN the/DT gating/NN mechanism/NN effectively/RB utilizes/VBZ the/DT character/NN -/HYPH level/NN inputs/NNS for/IN rare/JJ and/CC out/RB -/HYPH of/IN -/HYPH vocabulary/NN words/NNS and/CC outperforms/VBZ word/NN -/HYPH level/NN language/NN models/NNS on/IN several/JJ English/NNP corpora/NN ./.

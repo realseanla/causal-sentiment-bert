@@ -1,0 +1,6 @@
+Hawkes Processes capture self- and mutual-excitation between events when the arrival of one event makes future ones more likely to happen in time-series data.
+Identification of the temporal covariance kernel can reveal the underlying structure to better predict future events.
+In this paper, we present a new framework to represent time-series events with a composition of self-triggering kernels of Hawkes Processes.
+That is, the input time-series events are decomposed into multiple Hawkes Processes with heterogeneous kernels.
+Our automatic decomposition procedure is composed of three main steps: (1) discretized kernel estimation through frequency domain inversion equation associated with the covariance density, (2) greedy kernel decomposition through four base kernels and their combinations (addition and multiplication), and (3) automated report generation.
+We demonstrate that the new automatic decomposition procedure performs better to predict future events than the existing framework in real-world data.

@@ -1,0 +1,10 @@
+Opinion/NN mining/NN aims/VBZ at/IN extracting/VBG useful/JJ subjective/JJ information/NN from/IN reliable/JJ amounts/NNS of/IN text/NN ./.
+Opinion/NN mining/NN holder/NN recognition/NN is/VBZ a/DT task/NN that/WDT has/VBZ not/RB been/VBN considered/VBN yet/RB in/IN Arabic/NNP Language/NNP ./.
+This/DT task/NN essentially/RB requires/VBZ deep/JJ understanding/NN of/IN clauses/NNS structures/NNS ./.
+Unfortunately/RB ,/, the/DT lack/NN of/IN a/DT robust/JJ ,/, publicly/RB available/JJ ,/, Arabic/JJ parser/NN further/RB complicates/VBZ the/DT research/NN ./.
+This/DT paper/NN presents/VBZ a/DT leading/VBG research/NN for/IN the/DT opinion/NN holder/NN extraction/NN in/IN Arabic/JJ news/NN independent/JJ from/IN any/DT lexical/JJ parsers/NNS ./.
+We/PRP investigate/VBP constructing/VBG a/DT comprehensive/JJ feature/NN set/VBN to/TO compensate/VB the/DT lack/NN of/IN parsing/VBG structural/JJ outcomes/NNS ./.
+The/DT proposed/VBN feature/NN set/NN is/VBZ tuned/VBN from/IN English/NNP previous/JJ works/NNS coupled/VBN with/IN our/PRP$ proposed/VBN semantic/JJ field/NN and/CC named/VBN entities/NNS features/NNS ./.
+Our/PRP$ feature/NN analysis/NN is/VBZ based/VBN on/IN Conditional/JJ Random/NNP Fields/NNPS (/-LRB- CRF/NNP )/-RRB- and/CC semi-supervised/VBN pattern/NN recognition/NN techniques/NNS ./.
+Different/JJ research/NN models/NNS are/VBP evaluated/VBN via/IN cross-validation/NN experiments/NNS achieving/VBG 54.03/CD F/NN -/HYPH measure/NN ./.
+We/PRP publicly/RB release/VBP our/PRP$ own/JJ research/NN outcome/NN corpus/NN and/CC lexicon/NN for/IN opinion/NN mining/NN community/NN to/TO encourage/VB further/JJ research/NN ./.

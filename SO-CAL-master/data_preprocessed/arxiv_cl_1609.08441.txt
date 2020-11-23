@@ -1,0 +1,4 @@
+PLDA/NNP is/VBZ a/DT popular/JJ normalization/NN approach/NN for/IN the/DT i/NN -/HYPH vector/NN model/NN ,/, and/CC it/PRP has/VBZ delivered/VBN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN in/IN speaker/NN verification/NN ./.
+However/RB ,/, PLDA/NN training/NN requires/VBZ a/DT large/JJ amount/NN of/IN labelled/VBN development/NN data/NNS ,/, which/WDT is/VBZ highly/RB expensive/JJ in/IN most/JJS cases/NNS ./.
+We/PRP present/VBP a/DT cheap/JJ PLDA/NN training/NN approach/NN ,/, which/WDT assumes/VBZ that/IN speakers/NNS in/IN the/DT same/JJ session/NN can/MD be/VB easily/RB separated/VBN ,/, and/CC speakers/NNS in/IN different/JJ sessions/NNS are/VBP simply/RB different/JJ ./.
+This/DT results/VBZ in/IN `/`` weak/JJ labels/NNS '/'' which/WDT are/VBP not/RB fully/RB accurate/JJ but/CC cheap/JJ ,/, leading/VBG to/IN a/DT weak/JJ PLDA/NN training/NN ./.

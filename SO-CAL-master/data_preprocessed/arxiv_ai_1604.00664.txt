@@ -1,0 +1,10 @@
+Bicycle/NN -/HYPH sharing/VBG systems/NNS ,/, which/WDT can/MD provide/VB shared/VBN bike/NN usage/NN services/NNS for/IN the/DT public/NN ,/, have/VBP been/VBN launched/VBN in/IN many/JJ big/JJ cities/NNS ./.
+In/IN bicycle/NN -/HYPH sharing/VBG systems/NNS ,/, people/NNS can/MD borrow/VB and/CC return/VB bikes/NNS at/IN any/DT stations/NNS in/IN the/DT service/NN region/NN very/RB conveniently/RB ./.
+Therefore/RB ,/, bicycle/NN -/HYPH sharing/VBG systems/NNS are/VBP normally/RB used/VBN as/IN a/DT short/JJ -/HYPH distance/NN trip/NN supplement/NN for/IN private/JJ vehicles/NNS as/RB well/RB as/IN regular/JJ public/JJ transportation/NN ./.
+Meanwhile/RB ,/, for/IN stations/NNS located/VBN at/IN different/JJ places/NNS in/IN the/DT service/NN region/NN ,/, the/DT bike/NN usages/NNS can/MD be/VB quite/RB skewed/JJ and/CC imbalanced/JJ ./.
+Some/DT stations/NNS have/VBP too/RB many/JJ incoming/JJ bikes/NNS and/CC get/VB jammed/VBN without/IN enough/JJ docks/NNS for/IN upcoming/JJ bikes/NNS ,/, while/IN some/DT other/JJ stations/NNS get/VBP empty/JJ quickly/RB and/CC lack/VBP enough/JJ bikes/NNS for/IN people/NNS to/TO check/VB out/RP ./.
+Therefore/RB ,/, inferring/VBG the/DT potential/JJ destinations/NNS and/CC arriving/VBG time/NN of/IN each/DT individual/JJ trip/NN beforehand/RB can/MD effectively/RB help/VB the/DT service/NN providers/NNS schedule/NN manual/JJ bike/NN re-dispatch/NN in/IN advance/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP will/MD study/VB the/DT individual/JJ trip/NN prediction/NN problem/NN for/IN bicycle/NN -/HYPH sharing/VBG systems/NNS ./.
+To/TO address/VB the/DT problem/NN ,/, we/PRP study/VBP a/DT real/JJ -/HYPH world/NN bicycle/NN -/HYPH sharing/NN system/NN and/CC analyze/VB individuals/NNS '/POS bike/NN usage/NN behaviors/NNS first/RB ./.
+Based/VBN on/IN the/DT analysis/NN results/NNS ,/, a/DT new/JJ trip/NN destination/NN prediction/NN and/CC trip/NN duration/NN inference/NN model/NN will/MD be/VB introduced/VBN ./.
+Experiments/NNS conducted/VBN on/IN a/DT real/JJ -/HYPH world/NN bicycle/NN -/HYPH sharing/NN system/NN demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN model/NN ./.

@@ -1,0 +1,6 @@
+This/DT paper/NN addresses/VBZ the/DT pattern/NN classification/NN problem/NN arising/VBG when/WRB available/JJ target/NN data/NNS include/VBP some/DT uncertainty/NN information/NN ./.
+Target/NN data/NNS considered/VBN here/RB is/VBZ either/CC qualitative/JJ (/-LRB- a/DT class/NN label/NN )/-RRB- or/CC quantitative/JJ (/-LRB- an/DT estimation/NN of/IN the/DT posterior/JJ probability/NN )/-RRB- ./.
+Our/PRP$ main/JJ contribution/NN is/VBZ a/DT SVM/NN inspired/VBD formulation/NN of/IN this/DT problem/NN allowing/VBG to/TO take/VB into/IN account/NN class/NN label/NN through/IN a/DT hinge/NN loss/NN as/RB well/RB as/IN probability/NN estimates/NNS using/VBG epsilon/NN -/HYPH insensitive/JJ cost/NN function/NN together/RB with/IN a/DT minimum/JJ norm/NN (/-LRB- maximum/JJ margin/NN )/-RRB- objective/NN ./.
+This/DT formulation/NN shows/VBZ a/DT dual/JJ form/NN leading/VBG to/IN a/DT quadratic/JJ problem/NN and/CC allows/VBZ the/DT use/NN of/IN a/DT representer/NN theorem/NN and/CC associated/VBN kernel/NN ./.
+The/DT solution/NN provided/VBN can/MD be/VB used/VBN for/IN both/DT decision/NN and/CC posterior/JJ probability/NN estimation/NN ./.
+Based/VBN on/IN empirical/JJ evidence/NN our/PRP$ method/NN outperforms/VBZ regular/JJ SVM/NN in/IN terms/NNS of/IN probability/NN predictions/NNS and/CC classification/NN performances/NNS ./.

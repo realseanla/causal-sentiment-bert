@@ -1,0 +1,7 @@
+In/IN the/DT big/JJ data/NNS era/NN ,/, both/DT of/IN the/DT sample/NN size/NN and/CC dimension/NN could/MD be/VB huge/JJ at/IN the/DT same/JJ time/NN ./.
+Asynchronous/JJ parallel/JJ technology/NN was/VBD recently/RB proposed/VBN to/TO handle/VB the/DT big/JJ data/NNS ./.
+Specifically/RB ,/, asynchronous/JJ stochastic/JJ gradient/NN descent/NN algorithms/NNS were/VBD recently/RB proposed/VBN to/TO scale/VB the/DT sample/NN size/NN ,/, and/CC asynchronous/JJ stochastic/JJ coordinate/NN descent/NN algorithms/NNS were/VBD proposed/VBN to/TO scale/VB the/DT dimension/NN ./.
+However/RB ,/, a/DT few/JJ existing/VBG asynchronous/JJ parallel/JJ algorithms/NNS can/MD scale/VB well/RB in/IN sample/NN size/NN and/CC dimension/NN simultaneously/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN a/DT composite/JJ objective/NN function/NN consists/VBZ of/IN a/DT smooth/JJ convex/NN function/NN f/NN and/CC a/DT separable/JJ convex/NN function/NN g/NN ./.
+We/PRP propose/VBP an/DT asynchronous/JJ doubly/RB stochastic/JJ proximal/JJ optimization/NN algorithm/NN with/IN variance/NN reduction/NN (/-LRB- AsyDSPOVR/NN )/-RRB- to/TO scale/VB well/RB with/IN the/DT sample/NN size/NN and/CC dimension/NN simultaneously/RB ./.
+We/PRP prove/VBP that/IN AsyDSPOVR/NN achieves/VBZ a/DT linear/JJ convergence/NN rate/NN when/WRB the/DT function/NN f/NN is/VBZ with/IN the/DT optimal/JJ strong/JJ convexity/NN property/NN ,/, and/CC a/DT sublinear/JJ rate/NN when/WRB f/NN is/VBZ with/IN the/DT general/JJ convexity/NN ./.

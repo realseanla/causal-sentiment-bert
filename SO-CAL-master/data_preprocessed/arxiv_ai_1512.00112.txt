@@ -1,0 +1,6 @@
+Characterizing/VBG relationships/NNS between/IN people/NNS is/VBZ fundamental/JJ for/IN the/DT understanding/NN of/IN narratives/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN inferring/VBG the/DT polarity/NN of/IN relationships/NNS between/IN people/NNS in/IN narrative/NN summaries/NNS ./.
+We/PRP formulate/VBP the/DT problem/NN as/IN a/DT joint/JJ structured/JJ prediction/NN for/IN each/DT narrative/NN ,/, and/CC present/VB a/DT model/NN that/WDT combines/VBZ evidence/NN from/IN linguistic/JJ and/CC semantic/JJ features/NNS ,/, as/RB well/RB as/IN features/NNS based/VBN on/IN the/DT structure/NN of/IN the/DT social/JJ community/NN in/IN the/DT text/NN ./.
+We/PRP also/RB provide/VBP a/DT clustering/NN -/HYPH based/VBN approach/NN that/WDT can/MD exploit/VB regularities/NNS in/IN narrative/NN types/NNS ./.
+e.g./RB ,/, learn/VB an/DT affinity/NN for/IN love/NN -/HYPH triangles/NNS in/IN romantic/JJ stories/NNS ./.
+On/IN a/DT dataset/NN of/IN movie/NN summaries/NNS from/IN Wikipedia/NNP ,/, our/PRP$ structured/JJ models/NNS provide/VBP more/JJR than/IN a/DT 30/CD percent/NN error/NN -/HYPH reduction/NN over/IN a/DT competitive/JJ baseline/NN that/WDT considers/VBZ pairs/NNS of/IN characters/NNS in/IN isolation/NN ./.

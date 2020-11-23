@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT novel/JJ value/NN function/NN approximation/NN technique/NN for/IN Markov/NNP decision/NN processes/NNS ./.
+We/PRP consider/VBP the/DT problem/NN of/IN compactly/RB representing/VBG the/DT state/NN -/HYPH action/NN value/NN function/NN using/VBG a/DT low/JJ -/HYPH rank/NN and/CC sparse/JJ matrix/NN model/NN ./.
+The/DT problem/NN is/VBZ to/TO decompose/VB a/DT matrix/NN that/WDT encodes/VBZ the/DT true/JJ value/NN function/NN into/IN low/JJ -/HYPH rank/NN and/CC sparse/JJ components/NNS ,/, and/CC we/PRP achieve/VBP this/DT using/VBG Robust/JJ Principal/NN Component/NN Analysis/NN (/-LRB- PCA/NN )/-RRB- ./.
+Under/IN minimal/JJ assumptions/NNS ,/, this/DT Robust/JJ PCA/NN problem/NN can/MD be/VB solved/VBN exactly/RB via/IN the/DT Principal/NN Component/NN Pursuit/NN convex/NN optimization/NN problem/NN ./.
+We/PRP experiment/VBP the/DT procedure/NN on/IN several/JJ examples/NNS and/CC demonstrate/VBP that/IN our/PRP$ method/NN yields/NNS approximations/NNS essentially/RB identical/JJ to/IN the/DT true/JJ function/NN ./.

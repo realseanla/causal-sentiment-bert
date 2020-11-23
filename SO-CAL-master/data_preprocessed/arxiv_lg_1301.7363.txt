@@ -1,0 +1,11 @@
+Collaborative/JJ filtering/NN or/CC recommender/NN systems/NNS use/VBP a/DT database/NN about/IN user/NN preferences/NNS to/TO predict/VB additional/JJ topics/NNS or/CC products/NNS a/DT new/JJ user/NN might/MD like/VB ./.
+In/IN this/DT paper/NN we/PRP describe/VBP several/JJ algorithms/NNS designed/VBN for/IN this/DT task/NN ,/, including/VBG techniques/NNS based/VBN on/IN correlation/NN coefficients/NNS ,/, vector/NN -/HYPH based/VBN similarity/NN calculations/NNS ,/, and/CC statistical/JJ Bayesian/JJ methods/NNS ./.
+We/PRP compare/VBP the/DT predictive/JJ accuracy/NN of/IN the/DT various/JJ methods/NNS in/IN a/DT set/NN of/IN representative/JJ problem/NN domains/NNS ./.
+We/PRP use/VBP two/CD basic/JJ classes/NNS of/IN evaluation/NN metrics/NNS ./.
+The/DT first/JJ characterizes/VBZ accuracy/NN over/IN a/DT set/NN of/IN individual/JJ predictions/NNS in/IN terms/NNS of/IN average/JJ absolute/JJ deviation/NN ./.
+The/DT second/JJ estimates/VBZ the/DT utility/NN of/IN a/DT ranked/VBN list/NN of/IN suggested/VBN items/NNS ./.
+This/DT metric/JJ uses/VBZ an/DT estimate/NN of/IN the/DT probability/NN that/IN a/DT user/NN will/MD see/VB a/DT recommendation/NN in/IN an/DT ordered/VBN list/NN ./.
+Experiments/NNS were/VBD run/VBN for/IN datasets/NNS associated/VBN with/IN 3/CD application/NN areas/NNS ,/, 4/CD experimental/JJ protocols/NNS ,/, and/CC the/DT 2/CD evaluation/NN metrics/NNS for/IN the/DT various/JJ algorithms/NNS ./.
+Results/NNS indicate/VBP that/IN for/IN a/DT wide/JJ range/NN of/IN conditions/NNS ,/, Bayesian/JJ networks/NNS with/IN decision/NN trees/NNS at/IN each/DT node/NN and/CC correlation/NN methods/NNS outperform/VBP Bayesian/JJ -/HYPH clustering/NN and/CC vector/NN -/HYPH similarity/NN methods/NNS ./.
+Between/IN correlation/NN and/CC Bayesian/JJ networks/NNS ,/, the/DT preferred/JJ method/NN depends/VBZ on/IN the/DT nature/NN of/IN the/DT dataset/NN ,/, nature/NN of/IN the/DT application/NN (/-LRB- ranked/VBN versus/IN one/CD -/HYPH by/IN -/HYPH one/CD presentation/NN )/-RRB- ,/, and/CC the/DT availability/NN of/IN votes/NNS with/IN which/WDT to/TO make/VB predictions/NNS ./.
+Other/JJ considerations/NNS include/VBP the/DT size/NN of/IN database/NN ,/, speed/NN of/IN predictions/NNS ,/, and/CC learning/NN time/NN ./.

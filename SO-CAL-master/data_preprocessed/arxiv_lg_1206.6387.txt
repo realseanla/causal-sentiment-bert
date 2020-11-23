@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN we/PRP propose/VBP an/DT algorithm/NN that/WDT builds/VBZ sparse/JJ decision/NN DAGs/NNS (/-LRB- directed/VBN acyclic/JJ graphs/NNS )/-RRB- from/IN a/DT list/NN of/IN base/NN classifiers/NNS provided/VBN by/IN an/DT external/JJ learning/NN method/NN such/JJ as/IN AdaBoost/NNP ./.
+The/DT basic/JJ idea/NN is/VBZ to/TO cast/VB the/DT DAG/NN design/NN task/NN as/IN a/DT Markov/NNP decision/NN process/NN ./.
+Each/DT instance/NN can/MD decide/VB to/TO use/VB or/CC to/TO skip/VB each/DT base/NN classifier/NN ,/, based/VBN on/IN the/DT current/JJ state/NN of/IN the/DT classifier/NN being/VBG built/VBN ./.
+The/DT result/NN is/VBZ a/DT sparse/JJ decision/NN DAG/NN where/WRB the/DT base/NN classifiers/NNS are/VBP selected/VBN in/IN a/DT data/NN -/HYPH dependent/JJ way/NN ./.
+The/DT method/NN has/VBZ a/DT single/JJ hyperparameter/NN with/IN a/DT clear/JJ semantics/NNS of/IN controlling/VBG the/DT accuracy/NN //HYPH speed/NN trade/NN -/HYPH off/NN ./.
+The/DT algorithm/NN is/VBZ competitive/JJ with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN cascade/NN detectors/NNS on/IN three/CD object/NN -/HYPH detection/NN benchmarks/NNS ,/, and/CC it/PRP clearly/RB outperforms/VBZ them/PRP when/WRB there/EX is/VBZ a/DT small/JJ number/NN of/IN base/NN classifiers/NNS ./.
+Unlike/IN cascades/NNS ,/, it/PRP is/VBZ also/RB readily/RB applicable/JJ for/IN multi-class/NN classification/NN ./.
+Using/VBG the/DT multi-class/NN setup/NN ,/, we/PRP show/VBP on/IN a/DT benchmark/NN web/NN page/NN ranking/VBG data/NNS set/VBN that/IN we/PRP can/MD significantly/RB improve/VB the/DT decision/NN speed/NN without/IN harming/VBG the/DT performance/NN of/IN the/DT ranker/NN ./.

@@ -1,0 +1,6 @@
+We/PRP describe/VBP a/DT neural/JJ network/NN model/NN that/WDT jointly/RB learns/VBZ distributed/VBN representations/NNS of/IN texts/NNS and/CC knowledge/NN base/NN (/-LRB- KB/NN )/-RRB- entities/NNS ./.
+Given/VBN a/DT text/NN in/IN the/DT KB/NNP ,/, we/PRP train/VBP our/PRP$ proposed/VBN model/NN to/TO predict/VB entities/NNS that/WDT are/VBP relevant/JJ to/IN the/DT text/NN ./.
+Our/PRP$ model/NN is/VBZ designed/VBN to/TO be/VB generic/JJ with/IN the/DT ability/NN to/TO address/VB various/JJ NLP/NN tasks/NNS with/IN ease/NN ./.
+We/PRP train/VBP the/DT model/NN using/VBG a/DT large/JJ corpus/NN of/IN texts/NNS and/CC their/PRP$ entity/NN annotations/NNS extracted/VBN from/IN Wikipedia/NNP ./.
+We/PRP evaluated/VBD the/DT model/NN on/IN three/CD important/JJ NLP/NN tasks/NNS (/-LRB- i.e./FW ,/, sentence/NN textual/JJ similarity/NN ,/, entity/NN linking/VBG ,/, and/CC factoid/JJ question/NN answering/NN )/-RRB- involving/VBG both/DT unsupervised/JJ and/CC supervised/JJ settings/NNS ./.
+As/IN a/DT result/NN ,/, we/PRP achieved/VBD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN all/DT three/CD of/IN these/DT tasks/NNS ./.

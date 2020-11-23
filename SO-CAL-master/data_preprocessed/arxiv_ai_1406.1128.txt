@@ -1,0 +1,7 @@
+This/DT paper/NN introduces/VBZ a/DT self/NN -/HYPH organizing/VBG traffic/NN signal/NN system/NN for/IN an/DT urban/JJ road/NN network/NN ./.
+The/DT key/JJ elements/NNS of/IN this/DT system/NN are/VBP agents/NNS that/WDT control/VBP traffic/NN signals/NNS at/IN intersections/NNS ./.
+Each/DT agent/NN uses/VBZ an/DT interval/NN microscopic/JJ traffic/NN model/NN to/TO predict/VB effects/NNS of/IN its/PRP$ possible/JJ control/NN actions/NNS in/IN a/DT short/JJ time/NN horizon/NN ./.
+The/DT executed/VBN control/NN action/NN is/VBZ selected/VBN on/IN the/DT basis/NN of/IN predicted/VBN delay/NN intervals/NNS ./.
+Since/IN the/DT prediction/NN results/NNS are/VBP represented/VBN by/IN intervals/NNS ,/, the/DT agents/NNS can/MD recognize/VB and/CC suspend/VB those/DT control/NN actions/NNS ,/, whose/WP$ positive/JJ effect/NN on/IN the/DT performance/NN of/IN traffic/NN control/NN is/VBZ uncertain/JJ ./.
+Evaluation/NN of/IN the/DT proposed/VBN traffic/NN control/NN system/NN was/VBD performed/VBN in/IN a/DT simulation/NN environment/NN ./.
+The/DT simulation/NN experiments/NNS have/VBP shown/VBN that/IN the/DT proposed/VBN approach/NN results/VBZ in/IN an/DT improved/VBN performance/NN ,/, particularly/RB for/IN non-uniform/JJ traffic/NN streams/NNS ./.

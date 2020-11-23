@@ -1,0 +1,10 @@
+How/WRB detailed/JJ should/MD we/PRP make/VB the/DT goals/NNS we/PRP prescribe/VBP to/IN AI/NN agents/NNS acting/VBG on/IN our/PRP$ behalf/NN in/IN complex/JJ environments/NNS ?/.
+Detailed/JJ and/CC low/JJ -/HYPH level/NN specification/NN of/IN goals/NNS can/MD be/VB tedious/JJ and/CC expensive/JJ to/TO create/VB ,/, and/CC abstract/JJ and/CC high/JJ -/HYPH level/NN goals/NNS could/MD lead/VB to/IN negative/JJ surprises/NNS as/IN the/DT agent/NN may/MD find/VB behaviors/NNS that/WDT we/PRP would/MD not/RB want/VB it/PRP to/TO do/VB ,/, i.e./FW ,/, lead/VB to/IN unsafe/JJ AI/NN ./.
+One/CD approach/NN to/IN addressing/VBG this/DT dilemma/NN is/VBZ for/IN the/DT agent/NN to/TO infer/VB human/JJ goals/NNS by/IN observing/VBG human/JJ behavior/NN ./.
+This/DT is/VBZ the/DT Inverse/JJ Reinforcement/NN Learning/NN (/-LRB- IRL/NN )/-RRB- problem/NN ./.
+However/RB ,/, IRL/NN is/VBZ generally/RB ill/RB -/HYPH posed/VBN for/IN there/EX are/VBP typically/RB many/JJ reward/NN functions/NNS for/IN which/WDT the/DT observed/VBN behavior/NN is/VBZ optimal/JJ ./.
+While/IN the/DT use/NN of/IN heuristics/NNS to/TO select/VB from/IN among/IN the/DT set/NN of/IN feasible/JJ reward/NN functions/NNS has/VBZ led/VBN to/IN successful/JJ applications/NNS of/IN IRL/NN to/IN learning/VBG from/IN demonstration/NN ,/, such/JJ heuristics/NNS do/VBP not/RB address/VB AI/NN safety/NN ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP a/DT novel/JJ repeated/VBN IRL/NN problem/NN that/WDT captures/VBZ an/DT aspect/NN of/IN AI/NN safety/NN as/IN follows/VBZ ./.
+The/DT agent/NN has/VBZ to/TO act/VB on/IN behalf/NN of/IN a/DT human/JJ in/IN a/DT sequence/NN of/IN tasks/NNS and/CC wishes/NNS to/TO minimize/VB the/DT number/NN of/IN tasks/NNS that/IN it/PRP surprises/VBZ the/DT human/JJ ./.
+Each/DT time/NN the/DT human/NN is/VBZ surprised/VBN the/DT agent/NN is/VBZ provided/VBN a/DT demonstration/NN of/IN the/DT desired/VBN behavior/NN by/IN the/DT human/JJ ./.
+We/PRP formalize/VBP this/DT problem/NN ,/, including/VBG how/WRB the/DT sequence/NN of/IN tasks/NNS is/VBZ chosen/VBN ,/, in/IN a/DT few/JJ different/JJ ways/NNS and/CC provide/VB some/DT foundational/JJ results/NNS ./.

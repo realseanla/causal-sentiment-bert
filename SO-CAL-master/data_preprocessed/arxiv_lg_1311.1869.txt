@@ -1,0 +1,6 @@
+We/PRP provide/VBP several/JJ applications/NNS of/IN Optimistic/JJ Mirror/NNP Descent/NNP ,/, an/DT online/JJ learning/NN algorithm/NN based/VBN on/IN the/DT idea/NN of/IN predictable/JJ sequences/NNS ./.
+First/RB ,/, we/PRP recover/VBP the/DT Mirror/NNP Prox/NNP algorithm/NN for/IN offline/RB optimization/NN ,/, prove/VB an/DT extension/NN to/IN Holder/NN -/HYPH smooth/JJ functions/NNS ,/, and/CC apply/VB the/DT results/NNS to/IN saddle/NN -/HYPH point/NN type/NN problems/NNS ./.
+Next/RB ,/, we/PRP prove/VBP that/IN a/DT version/NN of/IN Optimistic/JJ Mirror/NNP Descent/NNP (/-LRB- which/WDT has/VBZ a/DT close/JJ relation/NN to/IN the/DT Exponential/NNP Weights/NNPS algorithm/NN )/-RRB- can/MD be/VB used/VBN by/IN two/CD strongly/RB -/HYPH uncoupled/JJ players/NNS in/IN a/DT finite/JJ zero/CD -/HYPH sum/NN matrix/NN game/NN to/TO converge/VB to/IN the/DT minimax/NN equilibrium/NN at/IN the/DT rate/NN of/IN O/NN (/-LRB- (/-LRB- log/NN T/NN )/-RRB- //HYPH T/NN )/-RRB- ./.
+This/DT addresses/VBZ a/DT question/NN of/IN Daskalakis/NNP et/FW al/FW 2011/CD ./.
+Further/RB ,/, we/PRP consider/VBP a/DT partial/JJ information/NN version/NN of/IN the/DT problem/NN ./.
+We/PRP then/RB apply/VB the/DT results/NNS to/IN convex/NN programming/NN and/CC exhibit/VBP a/DT simple/JJ algorithm/NN for/IN the/DT approximate/JJ Max/NNP Flow/NNP problem/NN ./.

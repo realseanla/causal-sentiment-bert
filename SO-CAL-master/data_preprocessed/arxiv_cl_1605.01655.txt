@@ -1,0 +1,9 @@
+We/PRP can/MD often/RB detect/VB from/IN a/DT person/NN 's/POS utterances/NNS whether/IN he/PRP //, she/PRP is/VBZ in/IN favor/NN of/IN or/CC against/IN a/DT given/VBN target/NN entity/NN --/: their/PRP$ stance/NN towards/IN the/DT target/NN ./.
+However/RB ,/, a/DT person/NN may/MD express/VB the/DT same/JJ stance/NN towards/IN a/DT target/NN by/IN using/VBG negative/JJ or/CC positive/JJ language/NN ./.
+Here/RB for/IN the/DT first/JJ time/NN we/PRP present/VBP a/DT dataset/NN of/IN tweet/NN --/: target/NN pairs/NNS annotated/VBN for/IN both/DT stance/NN and/CC sentiment/NN ./.
+The/DT targets/NNS may/MD or/CC may/MD not/RB be/VB referred/VBN to/IN in/IN the/DT tweets/NNS ,/, and/CC they/PRP may/MD or/CC may/MD not/RB be/VB the/DT target/NN of/IN opinion/NN in/IN the/DT tweets/NNS ./.
+Partitions/NNS of/IN this/DT dataset/NN were/VBD used/VBN as/IN training/NN and/CC test/NN sets/NNS in/IN a/DT SemEval/NN -/HYPH 2016/CD shared/VBD task/NN competition/NN ./.
+We/PRP propose/VBP a/DT simple/JJ stance/NN detection/NN system/NN that/WDT outperforms/VBZ submissions/NNS from/IN all/DT 19/CD teams/NNS that/WDT participated/VBD in/IN the/DT shared/VBN task/NN ./.
+Additionally/RB ,/, access/NN to/IN both/DT stance/NN and/CC sentiment/NN annotations/NNS allows/VBZ us/PRP to/TO explore/VB several/JJ research/NN questions/NNS ./.
+We/PRP show/VBP that/IN while/IN knowing/VBG the/DT sentiment/NN expressed/VBN by/IN a/DT tweet/NN is/VBZ beneficial/JJ for/IN stance/NN classification/NN ,/, it/PRP alone/RB is/VBZ not/RB sufficient/JJ ./.
+Finally/RB ,/, we/PRP use/VBP additional/JJ unlabeled/JJ data/NNS through/IN distant/JJ supervision/NN techniques/NNS and/CC word/NN embeddings/NNS to/TO further/RB improve/VB stance/NN classification/NN ./.

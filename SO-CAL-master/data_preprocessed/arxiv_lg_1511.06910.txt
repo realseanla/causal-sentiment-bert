@@ -1,0 +1,12 @@
+A/DT huge/JJ amount/NN of/IN medical/JJ data/NNS is/VBZ generated/VBN every/DT day/NN ,/, which/WDT presents/VBZ a/DT challenge/NN in/IN analysing/VBG these/DT data/NNS ./.
+The/DT obvious/JJ solution/NN to/IN this/DT challenge/NN is/VBZ to/TO reduce/VB the/DT amount/NN of/IN data/NNS without/IN information/NN loss/NN ./.
+Dimension/NN reduction/NN is/VBZ considered/VBN the/DT most/RBS popular/JJ approach/NN for/IN reducing/VBG data/NNS size/NN and/CC also/RB to/TO reduce/VB noise/NN and/CC redundancies/NNS in/IN data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP the/DT effect/NN of/IN feature/NN selection/NN in/IN improving/VBG the/DT prediction/NN of/IN patient/JJ deterioration/NN in/IN ICUs/NNS ./.
+We/PRP consider/VBP lab/NN tests/NNS as/IN features/NNS ./.
+Thus/RB ,/, choosing/VBG a/DT subset/NN of/IN features/NNS would/MD mean/VB choosing/VBG the/DT most/RBS important/JJ lab/NN tests/NNS to/TO perform/VB ./.
+If/IN the/DT number/NN of/IN tests/NNS can/MD be/VB reduced/VBN by/IN identifying/VBG the/DT most/RBS important/JJ tests/NNS ,/, then/RB we/PRP could/MD also/RB identify/VB the/DT redundant/JJ tests/NNS ./.
+By/IN omitting/VBG the/DT redundant/JJ tests/NNS ,/, observation/NN time/NN could/MD be/VB reduced/VBN and/CC early/JJ treatment/NN could/MD be/VB provided/VBN to/TO avoid/VB the/DT risk/NN ./.
+Additionally/RB ,/, unnecessary/JJ monetary/JJ cost/NN would/MD be/VB avoided/VBN ./.
+Our/PRP$ approach/NN uses/VBZ state/NN -/HYPH ofthe/NN -/HYPH art/NN feature/NN selection/NN for/IN predicting/VBG ICU/NN patient/NN deterioration/NN using/VBG the/DT medical/JJ lab/NN results/NNS ./.
+We/PRP apply/VBP our/PRP$ technique/NN on/IN the/DT publicly/RB available/JJ MIMIC/VB -/HYPH II/CD database/NN and/CC show/VB the/DT effectiveness/NN of/IN the/DT feature/NN selection/NN ./.
+We/PRP also/RB provide/VBP a/DT detailed/JJ analysis/NN of/IN the/DT best/JJS features/NNS identified/VBN by/IN our/PRP$ approach/NN ./.

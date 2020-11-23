@@ -1,0 +1,6 @@
+Locally/RB adapted/VBN parameterizations/NNS of/IN a/DT model/NN (/-LRB- such/JJ as/IN locally/RB weighted/JJ regression/NN )/-RRB- are/VBP expressive/JJ but/CC often/RB suffer/VBP from/IN high/JJ variance/NN ./.
+We/PRP describe/VBP an/DT approach/NN for/IN reducing/VBG the/DT variance/NN ,/, based/VBN on/IN the/DT idea/NN of/IN estimating/VBG simultaneously/RB a/DT transformed/VBN space/NN for/IN the/DT model/NN ,/, as/RB well/RB as/IN locally/RB adapted/VBN parameterizations/NNS in/IN this/DT new/JJ space/NN ./.
+We/PRP present/VBP a/DT new/JJ problem/NN formulation/NN that/WDT captures/VBZ this/DT idea/NN and/CC illustrate/VBP it/PRP in/IN the/DT important/JJ context/NN of/IN time/NN varying/VBG models/NNS ./.
+We/PRP develop/VBP an/DT algorithm/NN for/IN learning/VBG a/DT set/NN of/IN bases/NNS for/IN approximating/VBG a/DT time/NN varying/VBG sparse/JJ network/NN ;/: each/DT learned/VBN basis/NN constitutes/VBZ an/DT archetypal/JJ sparse/JJ network/NN structure/NN ./.
+We/PRP also/RB provide/VBP an/DT extension/NN for/IN learning/VBG task/NN -/HYPH driven/VBN bases/NNS ./.
+We/PRP present/VBP empirical/JJ results/NNS on/IN synthetic/JJ data/NNS sets/NNS ,/, as/RB well/RB as/IN on/IN a/DT BCI/NNP EEG/NN classification/NN task/NN ./.

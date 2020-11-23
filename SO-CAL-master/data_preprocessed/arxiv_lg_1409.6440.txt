@@ -1,0 +1,7 @@
+A/DT fast/JJ Non-linear/JJ and/CC non-iterative/JJ learning/NN and/CC classification/NN algorithm/NN is/VBZ synthesized/VBN and/CC validated/VBN ./.
+This/DT algorithm/NN named/VBN the/DT "/`` Reverse/NNP Ripple/NNP Effect/NNP (/-LRB- R.R.E/NNP )/-RRB- "/'' ,/, achieves/VBZ 100/CD percent/NN learning/NN accuracy/NN but/CC is/VBZ computationally/RB expensive/JJ upon/IN classification/NN ./.
+The/DT R.R.E/NNP is/VBZ a/DT (/-LRB- deterministic/JJ )/-RRB- algorithm/NN that/WDT super/RB imposes/VBZ Gaussian/JJ weighted/JJ functions/NNS on/IN training/NN points/NNS ./.
+In/IN this/DT work/NN ,/, the/DT R.R.E/NNP algorithm/NN is/VBZ compared/VBN against/IN known/VBN learning/NN and/CC classification/NN techniques/NNS //, algorithms/NNS such/JJ as/IN :/: the/DT Perceptron/NNP Criterion/NNP algorithm/NN ,/, Linear/NNP Support/NNP Vector/NNP machines/NNS ,/, the/DT Linear/NNP Fisher/NNP Discriminant/NNP and/CC a/DT simple/JJ Neural/JJ Network/NN ./.
+The/DT classification/NN accuracy/NN of/IN the/DT R.R.E/NNP algorithm/NN is/VBZ evaluated/VBN using/VBG simulations/NNS conducted/VBN in/IN MATLAB/NNP ./.
+The/DT R.R.E/NN algorithm/NN 's/POS behaviour/NN is/VBZ analyzed/VBN under/IN linearly/RB and/CC non-linearly/RB separable/JJ data/NNS sets/NNS ./.
+For/IN the/DT comparison/NN with/IN the/DT Neural/JJ Network/NN ,/, the/DT classical/JJ XOR/NN problem/NN is/VBZ considered/VBN ./.

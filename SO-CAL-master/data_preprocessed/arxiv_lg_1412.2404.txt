@@ -1,0 +1,6 @@
+Modeling/VBG data/NNS as/IN being/VBG sampled/VBN from/IN a/DT union/NN of/IN independent/JJ subspaces/NNS has/VBZ been/VBN widely/RB applied/VBN to/IN a/DT number/NN of/IN real/JJ world/NN applications/NNS ./.
+However/RB ,/, dimensionality/NN reduction/NN approaches/VBZ that/IN theoretically/RB preserve/VB this/DT independence/NN assumption/NN have/VBP not/RB been/VBN well/RB studied/VBN ./.
+Our/PRP$ key/JJ contribution/NN is/VBZ to/TO show/VB that/IN $/$ 2K/CD $/$ projection/NN vectors/NNS are/VBP sufficient/JJ for/IN the/DT independence/NN preservation/NN of/IN any/DT $/$ K$/CD class/NN data/NNS sampled/VBN from/IN a/DT union/NN of/IN independent/JJ subspaces/NNS ./.
+It/PRP is/VBZ this/DT non-trivial/JJ observation/NN that/IN we/PRP use/VBP for/IN designing/VBG our/PRP$ dimensionality/NN reduction/NN technique/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ dimensionality/NN reduction/NN algorithm/NN that/WDT theoretically/RB preserves/VBZ this/DT structure/NN for/IN a/DT given/VBN dataset/NN ./.
+We/PRP support/VBP our/PRP$ theoretical/JJ analysis/NN with/IN empirical/JJ results/NNS on/IN both/DT synthetic/JJ and/CC real/JJ world/NN data/NNS achieving/VBG \/SYM textit/FW {/-LRB- state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN }/-RRB- results/VBZ compared/VBN to/IN popular/JJ dimensionality/NN reduction/NN techniques/NNS ./.

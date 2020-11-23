@@ -1,0 +1,7 @@
+In/IN machine/NN learning/NN ,/, there/EX is/VBZ a/DT fundamental/JJ trade/NN -/HYPH off/NN between/IN ease/NN of/IN optimization/NN and/CC expressive/JJ power/NN ./.
+Neural/JJ Networks/NNS ,/, in/IN particular/JJ ,/, have/VBP enormous/JJ expressive/JJ power/NN and/CC yet/RB are/VBP notoriously/RB challenging/VBG to/TO train/VB ./.
+The/DT nature/NN of/IN that/DT optimization/NN challenge/NN changes/NNS over/IN the/DT course/NN of/IN learning/NN ./.
+Traditionally/RB in/IN deep/JJ learning/NN ,/, one/CD makes/VBZ a/DT static/NN trade/NN -/HYPH off/NN between/IN the/DT needs/NNS of/IN early/JJ and/CC late/JJ optimization/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP a/DT novel/JJ framework/NN ,/, GradNets/NNP ,/, for/IN dynamically/RB adapting/VBG architectures/NNS during/IN training/NN to/TO get/VB the/DT benefits/NNS of/IN both/DT ./.
+For/IN example/NN ,/, we/PRP can/MD gradually/RB transition/VB from/IN linear/JJ to/IN non-linear/JJ networks/NNS ,/, deterministic/JJ to/IN stochastic/JJ computation/NN ,/, shallow/JJ to/IN deep/JJ architectures/NNS ,/, or/CC even/RB simple/JJ downsampling/VBG to/IN fully/RB differentiable/JJ attention/NN mechanisms/NNS ./.
+Benefits/NNS include/VBP increased/VBN accuracy/NN ,/, easier/JJR convergence/NN with/IN more/JJR complex/JJ architectures/NNS ,/, solutions/NNS to/TO test/VB -/: time/NN execution/NN of/IN batch/NN normalization/NN ,/, and/CC the/DT ability/NN to/TO train/VB networks/NNS of/IN up/RB to/IN 200/CD layers/NNS ./.

@@ -1,0 +1,9 @@
+A/DT commonly/RB used/VBN learning/NN rule/NN is/VBZ to/TO approximately/RB minimize/VB the/DT \/NN emph/NN {/-LRB- average/NN }/-RRB- loss/NN over/IN the/DT training/NN set/NN ./.
+Other/JJ learning/NN algorithms/NNS ,/, such/JJ as/IN AdaBoost/NNP and/CC hard/JJ -/HYPH SVM/NN ,/, aim/NN at/IN minimizing/VBG the/DT \/NN emph/NN {/-LRB- maximal/JJ }/-RRB- loss/NN over/IN the/DT training/NN set/NN ./.
+The/DT average/JJ loss/NN is/VBZ more/RBR popular/JJ ,/, particularly/RB in/IN deep/JJ learning/NN ,/, due/IN to/IN three/CD main/JJ reasons/NNS ./.
+First/RB ,/, it/PRP can/MD be/VB conveniently/RB minimized/VBN using/VBG online/JJ algorithms/NNS ,/, that/IN process/NN few/JJ examples/NNS at/IN each/DT iteration/NN ./.
+Second/RB ,/, it/PRP is/VBZ often/RB argued/VBN that/IN there/EX is/VBZ no/DT sense/NN to/TO minimize/VB the/DT loss/NN on/IN the/DT training/NN set/VBN too/RB much/RB ,/, as/IN it/PRP will/MD not/RB be/VB reflected/VBN in/IN the/DT generalization/NN loss/NN ./.
+Last/JJ ,/, the/DT maximal/JJ loss/NN is/VBZ not/RB robust/JJ to/IN outliers/NNS ./.
+In/IN this/DT paper/NN we/PRP describe/VBP and/CC analyze/VBP an/DT algorithm/NN that/WDT can/MD convert/VB any/DT online/JJ algorithm/NN to/IN a/DT minimizer/NN of/IN the/DT maximal/JJ loss/NN ./.
+We/PRP prove/VBP that/IN in/IN some/DT situations/NNS better/JJR accuracy/NN on/IN the/DT training/NN set/NN is/VBZ crucial/JJ to/TO obtain/VB good/JJ performance/NN on/IN unseen/JJ examples/NNS ./.
+Last/JJ ,/, we/PRP propose/VBP robust/JJ versions/NNS of/IN the/DT approach/NN that/WDT can/MD handle/VB outliers/NNS ./.

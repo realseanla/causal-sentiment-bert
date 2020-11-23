@@ -1,0 +1,7 @@
+We/PRP describe/VBP a/DT method/NN to/TO produce/VB a/DT network/NN where/WRB current/JJ methods/NNS such/JJ as/IN DeepFool/NNP have/VBP great/JJ difficulty/NN producing/VBG adversarial/JJ samples/NNS ./.
+Our/PRP$ construction/NN suggests/VBZ some/DT insights/NNS into/IN how/WRB deep/JJ networks/NNS work/VBP ./.
+We/PRP provide/VBP a/DT reasonable/JJ analyses/NNS that/WDT our/PRP$ construction/NN is/VBZ difficult/JJ to/TO defeat/VB ,/, and/CC show/VBP experimentally/RB that/IN our/PRP$ method/NN is/VBZ hard/JJ to/TO defeat/VB using/VBG several/JJ standard/JJ networks/NNS and/CC datasets/NNS ./.
+We/PRP use/VBP our/PRP$ method/NN to/TO produce/VB a/DT system/NN that/WDT can/MD reliably/RB detect/VB whether/IN an/DT image/NN is/VBZ a/DT picture/NN of/IN a/DT real/JJ scene/NN or/CC not/RB ./.
+Our/PRP$ system/NN applies/VBZ to/IN images/NNS captured/VBN with/IN depth/NN maps/NNS (/-LRB- RGBD/NN images/NNS )/-RRB- and/CC checks/NNS if/IN a/DT pair/NN of/IN image/NN and/CC depth/NN map/NN is/VBZ consistent/JJ ./.
+It/PRP relies/VBZ on/IN the/DT relative/JJ difficulty/NN of/IN producing/VBG naturalistic/JJ depth/NN maps/VBZ for/IN images/NNS in/IN post/NN processing/NN ./.
+We/PRP demonstrate/VBP that/IN our/PRP$ system/NN is/VBZ robust/JJ to/IN adversarial/JJ examples/NNS built/VBN from/IN currently/RB known/VBN attacking/VBG approaches/NNS ./.

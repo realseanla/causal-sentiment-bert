@@ -1,0 +1,6 @@
+There/EX is/VBZ plenty/NN of/IN theoretical/JJ and/CC empirical/JJ evidence/NN that/IN depth/NN of/IN neural/JJ networks/NNS is/VBZ a/DT crucial/JJ ingredient/NN for/IN their/PRP$ success/NN ./.
+However/RB ,/, network/NN training/NN becomes/VBZ more/RBR difficult/JJ with/IN increasing/VBG depth/NN and/CC training/NN of/IN very/RB deep/JJ networks/NNS remains/VBZ an/DT open/JJ problem/NN ./.
+In/IN this/DT extended/JJ abstract/NN ,/, we/PRP introduce/VBP a/DT new/JJ architecture/NN designed/VBN to/TO ease/VB gradient/NN -/HYPH based/VBN training/NN of/IN very/RB deep/JJ networks/NNS ./.
+We/PRP refer/VBP to/IN networks/NNS with/IN this/DT architecture/NN as/IN highway/NN networks/NNS ,/, since/IN they/PRP allow/VBP unimpeded/JJ information/NN flow/NN across/IN several/JJ layers/NNS on/IN "/`` information/NN highways/NNS "/'' ./.
+The/DT architecture/NN is/VBZ characterized/VBN by/IN the/DT use/NN of/IN gating/NN units/NNS which/WDT learn/VBP to/TO regulate/VB the/DT flow/NN of/IN information/NN through/IN a/DT network/NN ./.
+Highway/NN networks/NNS with/IN hundreds/NNS of/IN layers/NNS can/MD be/VB trained/VBN directly/RB using/VBG stochastic/JJ gradient/NN descent/NN and/CC with/IN a/DT variety/NN of/IN activation/NN functions/NNS ,/, opening/VBG up/RP the/DT possibility/NN of/IN studying/VBG extremely/RB deep/JJ and/CC efficient/JJ architectures/NNS ./.

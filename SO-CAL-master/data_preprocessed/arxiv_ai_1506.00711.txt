@@ -1,0 +1,9 @@
+Can/MD we/PRP develop/VB a/DT computer/NN algorithm/NN that/WDT assesses/VBZ the/DT creativity/NN of/IN a/DT painting/NN given/VBN its/PRP$ context/NN within/IN art/NN history/NN ?/.
+This/DT paper/NN proposes/VBZ a/DT novel/JJ computational/JJ framework/NN for/IN assessing/VBG the/DT creativity/NN of/IN creative/JJ products/NNS ,/, such/JJ as/IN paintings/NNS ,/, sculptures/NNS ,/, poetry/NN ,/, etc/FW ./.
+We/PRP use/VBP the/DT most/RBS common/JJ definition/NN of/IN creativity/NN ,/, which/WDT emphasizes/VBZ the/DT originality/NN of/IN the/DT product/NN and/CC its/PRP$ influential/JJ value/NN ./.
+The/DT proposed/VBN computational/JJ framework/NN is/VBZ based/VBN on/IN constructing/VBG a/DT network/NN between/IN creative/JJ products/NNS and/CC using/VBG this/DT network/NN to/TO infer/VB about/IN the/DT originality/NN and/CC influence/NN of/IN its/PRP$ nodes/NNS ./.
+Through/IN a/DT series/NN of/IN transformations/NNS ,/, we/PRP construct/VBP a/DT Creativity/NNP Implication/NNP Network/NNP ./.
+We/PRP show/VBP that/IN inference/NN about/IN creativity/NN in/IN this/DT network/NN reduces/VBZ to/IN a/DT variant/NN of/IN network/NN centrality/NN problems/NNS which/WDT can/MD be/VB solved/VBN efficiently/RB ./.
+We/PRP apply/VBP the/DT proposed/VBN framework/NN to/IN the/DT task/NN of/IN quantifying/VBG creativity/NN of/IN paintings/NNS (/-LRB- and/CC sculptures/NNS )/-RRB- ./.
+We/PRP experimented/VBD on/IN two/CD datasets/NNS with/IN over/IN 62K/NN paintings/NNS to/TO illustrate/VB the/DT behavior/NN of/IN the/DT proposed/VBN framework/NN ./.
+We/PRP also/RB propose/VBP a/DT methodology/NN for/IN quantitatively/RB validating/VBG the/DT results/NNS of/IN the/DT proposed/VBN algorithm/NN ,/, which/WDT we/PRP call/VBP the/DT "/`` time/NN machine/NN experiment/NN "/'' ./.

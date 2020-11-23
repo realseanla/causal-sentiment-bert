@@ -1,0 +1,11 @@
+Sleep stages pattern provides important clues in diagnosing the presence of sleep disorder.
+By analyzing sleep stages pattern and extracting its features from EEG, EOG, and EMG signals, we can classify sleep stages.
+This study presents a novel classification model for predicting sleep stages with a high accuracy.
+The main idea is to combine the generative capability of Deep Belief Network (DBN) with a discriminative ability and sequence pattern recognizing capability of Long Short-term Memory (LSTM).
+We use DBN that is treated as an automatic higher level features generator.
+The input to DBN is 28 "handcrafted" features as used in previous sleep stages studies.
+We compared our method with other techniques which combined DBN with Hidden Markov Model (HMM).In this study, we exploit the sequence or time series characteristics of sleep dataset.
+To the best of our knowledge, most of the present sleep analysis from polysomnogram relies only on single instanced label (nonsequence) for classification.
+In this study, we used two datasets: an open data set that is treated as a benchmark; the other dataset is our sleep stages dataset (available for download) to verify the results further.
+Our experiments showed that the combination of DBN with LSTM gives better overall accuracy 98.75\ percent (Fscore=0.9875) for benchmark dataset and 98.94\ percent (Fscore=0.9894) for MKG dataset.
+This result is better than the state of the art of sleep stages classification that was 91.31\ percent.

@@ -1,0 +1,6 @@
+We/PRP classify/VBP digits/NNS of/IN real/JJ -/HYPH world/NN house/NN numbers/NNS using/VBG convolutional/JJ neural/JJ networks/NNS (/-LRB- ConvNets/NNP )/-RRB- ./.
+ConvNets/NNS are/VBP hierarchical/JJ feature/NN learning/VBG neural/JJ networks/NNS whose/WP$ structure/NN is/VBZ biologically/RB inspired/VBN ./.
+Unlike/IN many/JJ popular/JJ vision/NN approaches/VBZ that/DT are/VBP hand/NN -/HYPH designed/VBN ,/, ConvNets/NNPS can/MD automatically/RB learn/VB a/DT unique/JJ set/NN of/IN features/NNS optimized/VBN for/IN a/DT given/VBN task/NN ./.
+We/PRP augmented/VBD the/DT traditional/JJ ConvNet/NNP architecture/NN by/IN learning/VBG multi-stage/JJ features/NNS and/CC by/IN using/VBG Lp/NNP pooling/VBG and/CC establish/VB a/DT new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN of/IN 94.85/CD percent/NN accuracy/NN on/IN the/DT SVHN/NNP dataset/NN (/-LRB- 45.2/CD percent/NN error/NN improvement/NN )/-RRB- ./.
+Furthermore/RB ,/, we/PRP analyze/VBP the/DT benefits/NNS of/IN different/JJ pooling/VBG methods/NNS and/CC multi-stage/JJ features/NNS in/IN ConvNets/NNP ./.
+The/DT source/NN code/NN and/CC a/DT tutorial/NN are/VBP available/JJ at/IN eblearn.sf.net/ADD ./.

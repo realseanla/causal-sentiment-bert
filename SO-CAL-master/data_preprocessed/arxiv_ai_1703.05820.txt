@@ -1,0 +1,5 @@
+The/DT policy/NN gradients/NNS of/IN the/DT expected/VBN return/NN objective/NN can/MD react/VB slowly/RB to/IN rare/JJ rewards/NNS ./.
+Yet/RB ,/, in/IN some/DT cases/NNS agents/NNS may/MD wish/VB to/TO emphasize/VB the/DT low/JJ or/CC high/JJ returns/NNS regardless/RB of/IN their/PRP$ probability/NN ./.
+Borrowing/NN from/IN the/DT economics/NNS and/CC control/NN literature/NN ,/, we/PRP review/VBP the/DT risk/NN -/HYPH sensitive/JJ value/NN function/NN that/WDT arises/VBZ from/IN an/DT exponential/JJ utility/NN and/CC illustrate/VB its/PRP$ effects/NNS on/IN an/DT example/NN ./.
+This/DT risk/NN -/HYPH sensitive/JJ value/NN function/NN is/VBZ not/RB always/RB applicable/JJ to/IN reinforcement/NN learning/NN problems/NNS ,/, so/RB we/PRP introduce/VBP the/DT particle/NN value/NN function/NN defined/VBN by/IN a/DT particle/NN filter/NN over/IN the/DT distributions/NNS of/IN an/DT agent/NN 's/POS experience/NN ,/, which/WDT bounds/VBZ the/DT risk/NN -/HYPH sensitive/JJ one/NN ./.
+We/PRP illustrate/VBP the/DT benefit/NN of/IN the/DT policy/NN gradients/NNS of/IN this/DT objective/NN in/IN Cliffworld/NNP ./.

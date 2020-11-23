@@ -1,0 +1,5 @@
+This/DT paper/NN discusses/VBZ a/DT method/NN for/IN implementing/VBG a/DT probabilistic/JJ inference/NN system/NN based/VBN on/IN an/DT extended/JJ relational/JJ data/NNS model/NN ./.
+This/DT model/NN provides/VBZ a/DT unified/JJ approach/NN for/IN a/DT variety/NN of/IN applications/NNS such/JJ as/IN dynamic/JJ programming/NN ,/, solving/VBG sparse/JJ linear/JJ equations/NNS ,/, and/CC constraint/NN propagation/NN ./.
+In/IN this/DT framework/NN ,/, the/DT probability/NN model/NN is/VBZ represented/VBN as/IN a/DT generalized/VBN relational/JJ database/NN ./.
+Subsequent/JJ probabilistic/JJ requests/NNS can/MD be/VB processed/VBN as/IN standard/JJ relational/JJ queries/NNS ./.
+Conventional/JJ database/NN management/NN systems/NNS can/MD be/VB easily/RB adopted/VBN for/IN implementing/VBG such/PDT an/DT approximate/JJ reasoning/NN system/NN ./.

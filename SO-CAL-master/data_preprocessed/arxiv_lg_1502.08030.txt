@@ -1,0 +1,8 @@
+Author/NN name/NN ambiguity/NN decreases/VBZ the/DT quality/NN and/CC reliability/NN of/IN information/NN retrieved/VBN from/IN digital/JJ libraries/NNS ./.
+Existing/VBG methods/NNS have/VBP tried/VBN to/TO solve/VB this/DT problem/NN by/IN predefining/VBG a/DT feature/NN set/VBN based/VBN on/IN expert/NN 's/POS knowledge/NN for/IN a/DT specific/JJ dataset/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ approach/NN which/WDT uses/VBZ deep/JJ neural/JJ network/NN to/TO learn/VB features/NNS automatically/RB from/IN data/NNS ./.
+Additionally/RB ,/, we/PRP propose/VBP the/DT general/JJ system/NN architecture/NN for/IN author/NN name/NN disambiguation/NN on/IN any/DT dataset/NN ./.
+In/IN this/DT research/NN ,/, we/PRP evaluate/VBP the/DT proposed/JJ method/NN on/IN a/DT dataset/NN containing/VBG Vietnamese/JJ author/NN names/NNS ./.
+The/DT results/NNS show/VBP that/IN this/DT method/NN significantly/RB outperforms/VBZ other/JJ methods/NNS that/WDT use/VBP predefined/JJ feature/NN set/NN ./.
+The/DT proposed/JJ method/NN achieves/VBZ 99.31/CD percent/NN in/IN terms/NNS of/IN accuracy/NN ./.
+Prediction/NN error/NN rate/NN decreases/NNS from/IN 1.83/CD percent/NN to/IN 0.69/CD percent/NN ,/, i.e./FW ,/, it/PRP decreases/VBZ by/IN 1.14/CD percent/NN ,/, or/CC 62.3/CD percent/NN relatively/RB compared/VBN with/IN other/JJ methods/NNS that/WDT use/VBP predefined/JJ feature/NN set/NN (/-LRB- Table/NN 3/CD )/-RRB- ./.

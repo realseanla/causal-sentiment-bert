@@ -1,0 +1,7 @@
+Rational/JJ agents/NNS are/VBP usually/RB built/VBN to/TO maximize/VB rewards/NNS ./.
+However/RB ,/, AGI/NNP agents/NNS can/MD find/VB undesirable/JJ ways/NNS of/IN maximizing/VBG any/DT prior/JJ reward/NN function/NN ./.
+Therefore/RB value/NN learning/NN is/VBZ crucial/JJ for/IN safe/JJ AGI/NN ./.
+We/PRP assume/VBP that/IN generalized/VBN states/NNS of/IN the/DT world/NN are/VBP valuable/JJ -/: not/RB rewards/NNS themselves/PRP ,/, and/CC propose/VB an/DT extension/NN of/IN AIXI/NNP ,/, in/IN which/WDT rewards/NNS are/VBP used/VBN only/RB to/IN bootstrap/NN hierarchical/JJ value/NN learning/NN ./.
+The/DT modified/VBN AIXI/NNP agent/NN is/VBZ considered/VBN in/IN the/DT multi-agent/JJ environment/NN ,/, where/WRB other/JJ agents/NNS can/MD be/VB either/CC humans/NNS or/CC other/JJ "/`` mature/JJ "/'' agents/NNS ,/, which/WDT values/VBZ should/MD be/VB revealed/VBN and/CC adopted/VBN by/IN the/DT "/`` infant/NN "/'' AGI/NNP agent/NN ./.
+General/NNP framework/NN for/IN designing/VBG such/JJ empathic/JJ agent/NN with/IN ethical/JJ bias/NN is/VBZ proposed/VBN also/RB as/IN an/DT extension/NN of/IN the/DT universal/JJ intelligence/NN model/NN ./.
+Moreover/RB ,/, we/PRP perform/VBP experiments/NNS in/IN the/DT simple/JJ Markov/NNP environment/NN ,/, which/WDT demonstrate/VBP feasibility/NN of/IN our/PRP$ approach/NN to/IN value/NN learning/NN in/IN safe/JJ AGI/NN ./.

@@ -1,0 +1,6 @@
+The/DT introduction/NN of/IN loopy/JJ belief/NN propagation/NN (/-LRB- LBP/NN )/-RRB- revitalized/VBD the/DT application/NN of/IN graphical/JJ models/NNS in/IN many/JJ domains/NNS ./.
+Many/JJ recent/JJ works/NNS present/JJ improvements/NNS on/IN the/DT basic/JJ LBP/NN algorithm/NN in/IN an/DT attempt/NN to/TO overcome/VB convergence/NN and/CC local/JJ optima/NN problems/NNS ./.
+Notable/JJ among/IN these/DT are/VBP convexified/VBN free/JJ energy/NN approximations/NNS that/WDT lead/VBP to/IN inference/NN procedures/NNS with/IN provable/JJ convergence/NN and/CC quality/NN properties/NNS ./.
+However/RB ,/, empirically/RB LBP/NNP still/RB outperforms/VBZ most/JJS of/IN its/PRP$ convex/NN variants/NNS in/IN a/DT variety/NN of/IN settings/NNS ,/, as/IN we/PRP also/RB demonstrate/VBP here/RB ./.
+Motivated/VBN by/IN this/DT fact/NN we/PRP seek/VBP convexified/VBN free/JJ energies/NNS that/WDT directly/RB approximate/VBP the/DT Bethe/NNP free/JJ energy/NN ./.
+We/PRP show/VBP that/IN the/DT proposed/VBN approximations/NNS compare/VBP favorably/RB with/IN state/NN -/HYPH of/IN -/HYPH the/DT art/NN convex/NN free/JJ energy/NN approximations/NNS ./.

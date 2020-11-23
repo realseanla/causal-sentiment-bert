@@ -1,0 +1,13 @@
+The/DT Minimum/NNP Vertex/NNP Cover/NNP (/-LRB- MVC/NNP )/-RRB- problem/NN is/VBZ a/DT prominent/JJ NP/NNP -/HYPH hard/JJ combinatorial/JJ optimization/NN problem/NN of/IN great/JJ importance/NN in/IN both/CC theory/NN and/CC application/NN ./.
+Local/JJ search/NN has/VBZ proved/VBN successful/JJ for/IN this/DT problem/NN ./.
+However/RB ,/, there/EX are/VBP two/CD main/JJ drawbacks/NNS in/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN MVC/NNP local/JJ search/NN algorithms/NNS ./.
+First/RB ,/, they/PRP select/VBP a/DT pair/NN of/IN vertices/NNS to/TO exchange/VB simultaneously/RB ,/, which/WDT is/VBZ time/NN -/HYPH consuming/VBG ./.
+Secondly/RB ,/, although/IN using/VBG edge/NN weighting/NN techniques/NNS to/TO diversify/VB the/DT search/NN ,/, these/DT algorithms/NNS lack/VBP mechanisms/NNS for/IN decreasing/VBG the/DT weights/NNS ./.
+To/TO address/VB these/DT issues/NNS ,/, we/PRP propose/VBP two/CD new/JJ strategies/NNS :/: two/CD -/HYPH stage/NN exchange/NN and/CC edge/NN weighting/NN with/IN forgetting/VBG ./.
+The/DT two/CD -/HYPH stage/NN exchange/NN strategy/NN selects/VBZ two/CD vertices/NNS to/TO exchange/VB separately/RB and/CC performs/VBZ the/DT exchange/NN in/IN two/CD stages/NNS ./.
+The/DT strategy/NN of/IN edge/NN weighting/NN with/IN forgetting/VBG not/RB only/RB increases/VBZ weights/NNS of/IN uncovered/VBN edges/NNS ,/, but/CC also/RB decreases/VBZ some/DT weights/NNS for/IN each/DT edge/NN periodically/RB ./.
+These/DT two/CD strategies/NNS are/VBP used/VBN in/IN designing/VBG a/DT new/JJ MVC/NNP local/JJ search/NN algorithm/NN ,/, which/WDT is/VBZ referred/VBN to/IN as/IN NuMVC/NNP ./.
+We/PRP conduct/VBP extensive/JJ experimental/JJ studies/NNS on/IN the/DT standard/JJ benchmarks/NNS ,/, namely/RB DIMACS/NN and/CC BHOSLIB/NN ./.
+The/DT experiment/NN comparing/VBG NuMVC/NN with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN heuristic/NN algorithms/NNS show/VBP that/IN NuMVC/NNP is/VBZ at/IN least/JJS competitive/JJ with/IN the/DT nearest/JJS competitor/NN namely/RB PLS/NNP on/IN the/DT DIMACS/NN benchmark/NN ,/, and/CC clearly/RB dominates/VBZ all/DT competitors/NNS on/IN the/DT BHOSLIB/NNP benchmark/NN ./.
+Also/RB ,/, experimental/JJ results/NNS indicate/VBP that/IN NuMVC/NNP finds/VBZ an/DT optimal/JJ solution/NN much/JJ faster/JJR than/IN the/DT current/JJ best/JJS exact/JJ algorithm/NN for/IN Maximum/NNP Clique/NNP on/IN random/JJ instances/NNS as/RB well/RB as/IN some/DT structured/JJ ones/NNS ./.
+Moreover/RB ,/, we/PRP study/VBP the/DT effectiveness/NN of/IN the/DT two/CD strategies/NNS and/CC the/DT run/NN -/HYPH time/NN behaviour/NN through/IN experimental/JJ analysis/NN ./.

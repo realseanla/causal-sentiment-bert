@@ -1,0 +1,7 @@
+Neural/JJ networks/NNS have/VBP proven/VBN effective/JJ at/IN solving/VBG difficult/JJ problems/NNS but/CC designing/VBG their/PRP$ architectures/NNS can/MD be/VB challenging/JJ ,/, even/RB for/IN image/NN classification/NN problems/NNS alone/RB ./.
+Evolutionary/JJ algorithms/NNS provide/VBP a/DT technique/NN to/TO discover/VB such/JJ networks/NNS automatically/RB ./.
+Despite/IN significant/JJ computational/JJ requirements/NNS ,/, we/PRP show/VBP that/IN evolving/VBG models/NNS that/WDT rival/VBP large/JJ ,/, hand/NN -/HYPH designed/VBN architectures/NNS is/VBZ possible/JJ today/NN ./.
+We/PRP employ/VBP simple/JJ evolutionary/JJ techniques/NNS at/IN unprecedented/JJ scales/NNS to/TO discover/VB models/NNS for/IN the/DT CIFAR/NN -/HYPH 10/CD and/CC CIFAR/NN -/HYPH 100/CD datasets/NNS ,/, starting/VBG from/IN trivial/JJ initial/JJ conditions/NNS ./.
+To/TO do/VB this/DT ,/, we/PRP use/VBP novel/JJ and/CC intuitive/JJ mutation/NN operators/NNS that/WDT navigate/VBP large/JJ search/NN spaces/NNS ./.
+We/PRP stress/VBP that/IN no/DT human/JJ participation/NN is/VBZ required/VBN once/RB evolution/NN starts/VBZ and/CC that/IN the/DT output/NN is/VBZ a/DT fully/RB -/HYPH trained/VBN model/NN ./.
+Throughout/IN this/DT work/NN ,/, we/PRP place/VBP special/JJ emphasis/NN on/IN the/DT repeatability/NN of/IN results/NNS ,/, the/DT variability/NN in/IN the/DT outcomes/NNS and/CC the/DT computational/JJ requirements/NNS ./.

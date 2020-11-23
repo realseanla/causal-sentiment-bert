@@ -1,0 +1,5 @@
+Personalization/NN is/VBZ important/JJ for/IN search/NN engines/NNS to/TO improve/VB user/NN experience/NN ./.
+Most/JJS of/IN the/DT existing/VBG work/NN do/VBP pure/JJ feature/NN engineering/NN and/CC extract/VB a/DT lot/NN of/IN session/NN -/HYPH style/NN features/NNS and/CC then/RB train/VB a/DT ranking/VBG model/NN ./.
+Here/RB we/PRP proposed/VBD a/DT novel/JJ way/NN to/TO model/VB both/DT long/JJ term/NN and/CC short/JJ term/NN user/NN behavior/NN using/VBG Multi-armed/JJ bandit/NN algorithm/NN ./.
+Our/PRP$ algorithm/NN can/MD generalize/VB session/NN information/NN across/IN users/NNS well/RB ,/, and/CC as/IN an/DT Explore/VB -/HYPH Exploit/VB style/NN algorithm/NN ,/, it/PRP can/MD generalize/VB to/IN new/JJ urls/NNS and/CC new/JJ users/NNS well/RB ./.
+Experiments/NNS show/VBP that/IN our/PRP$ algorithm/NN can/MD improve/VB performance/NN over/IN the/DT default/NN ranking/VBG and/CC outperforms/VBZ several/JJ popular/JJ Multi-armed/JJ bandit/NN algorithms/NNS ./.

@@ -1,0 +1,5 @@
+Phonemic/JJ segmentation/NN of/IN speech/NN is/VBZ a/DT critical/JJ step/NN of/IN speech/NN recognition/NN systems/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ unsupervised/JJ algorithm/NN based/VBN on/IN sequence/NN prediction/NN models/NNS such/JJ as/IN Markov/NNP chains/NNS and/CC recurrent/JJ neural/JJ network/NN ./.
+Our/PRP$ approach/NN consists/VBZ in/IN analyzing/VBG the/DT error/NN profile/NN of/IN a/DT model/NN trained/VBN to/TO predict/VB speech/NN features/NNS frame/NN -/HYPH by/IN -/HYPH frame/NN ./.
+Specifically/RB ,/, we/PRP try/VBP to/TO learn/VB the/DT dynamics/NNS of/IN speech/NN in/IN the/DT MFCC/NNP space/NN and/CC hypothesize/VBP boundaries/NNS from/IN local/JJ maxima/NNS in/IN the/DT prediction/NN error/NN ./.
+We/PRP evaluate/VBP our/PRP$ system/NN on/IN the/DT TIMIT/NNP dataset/NN ,/, with/IN improvements/NNS over/IN similar/JJ methods/NNS ./.

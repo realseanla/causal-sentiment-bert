@@ -1,0 +1,9 @@
+Topic/NN modeling/NN of/IN textual/JJ corpora/NN is/VBZ an/DT important/JJ and/CC challenging/JJ problem/NN ./.
+In/IN most/JJS previous/JJ work/NN ,/, the/DT "/`` bag/NN -/HYPH of/IN -/HYPH words/NNS "/'' assumption/NN is/VBZ usually/RB made/VBN which/WDT ignores/VBZ the/DT ordering/NN of/IN words/NNS ./.
+This/DT assumption/NN simplifies/VBZ the/DT computation/NN ,/, but/CC it/PRP unrealistically/RB loses/VBZ the/DT ordering/VBG information/NN and/CC the/DT semantic/JJ of/IN words/NNS in/IN the/DT context/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT Gaussian/JJ Mixture/NN Neural/JJ Topic/NN Model/NN (/-LRB- GMNTM/NNP )/-RRB- which/WDT incorporates/VBZ both/CC the/DT ordering/NN of/IN words/NNS and/CC the/DT semantic/JJ meaning/NN of/IN sentences/NNS into/IN topic/NN modeling/NN ./.
+Specifically/RB ,/, we/PRP represent/VBP each/DT topic/NN as/IN a/DT cluster/NN of/IN multi-dimensional/JJ vectors/NNS and/CC embed/VB the/DT corpus/NN into/IN a/DT collection/NN of/IN vectors/NNS generated/VBN by/IN the/DT Gaussian/NNP mixture/NN model/NN ./.
+Each/DT word/NN is/VBZ affected/VBN not/RB only/RB by/IN its/PRP$ topic/NN ,/, but/CC also/RB by/IN the/DT embedding/NN vector/NN of/IN its/PRP$ surrounding/VBG words/NNS and/CC the/DT context/NN ./.
+The/DT Gaussian/JJ mixture/NN components/NNS and/CC the/DT topic/NN of/IN documents/NNS ,/, sentences/NNS and/CC words/NNS can/MD be/VB learnt/VBN jointly/RB ./.
+Extensive/JJ experiments/NNS show/VBP that/IN our/PRP$ model/NN can/MD learn/VB better/JJR topics/NNS and/CC more/RBR accurate/JJ word/NN distributions/NNS for/IN each/DT topic/NN ./.
+Quantitatively/RB ,/, comparing/VBG to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN topic/NN modeling/NN approaches/NNS ,/, GMNTM/NNP obtains/VBZ significantly/RB better/JJR performance/NN in/IN terms/NNS of/IN perplexity/NN ,/, retrieval/NN accuracy/NN and/CC classification/NN accuracy/NN ./.

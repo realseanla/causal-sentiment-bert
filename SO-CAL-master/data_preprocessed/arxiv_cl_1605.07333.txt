@@ -1,0 +1,6 @@
+This/DT paper/NN investigates/VBZ two/CD different/JJ neural/JJ architectures/NNS for/IN the/DT task/NN of/IN relation/NN classification/NN :/: convolutional/JJ neural/JJ networks/NNS and/CC recurrent/JJ neural/JJ networks/NNS ./.
+For/IN both/DT models/NNS ,/, we/PRP demonstrate/VBP the/DT effect/NN of/IN different/JJ architectural/JJ choices/NNS ./.
+We/PRP present/VBP a/DT new/JJ context/NN representation/NN for/IN convolutional/JJ neural/JJ networks/NNS for/IN relation/NN classification/NN (/-LRB- extended/VBN middle/JJ context/NN )/-RRB- ./.
+Furthermore/RB ,/, we/PRP propose/VBP connectionist/JJ bi-directional/JJ recurrent/JJ neural/JJ networks/NNS and/CC introduce/VB ranking/JJ loss/NN for/IN their/PRP$ optimization/NN ./.
+Finally/RB ,/, we/PRP show/VBP that/IN combining/VBG convolutional/JJ and/CC recurrent/JJ neural/JJ networks/NNS using/VBG a/DT simple/JJ voting/NN scheme/NN is/VBZ accurate/JJ enough/RB to/TO improve/VB results/NNS ./.
+Our/PRP$ neural/JJ models/NNS achieve/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN the/DT SemEval/NNP 2010/CD relation/NN classification/NN task/NN ./.

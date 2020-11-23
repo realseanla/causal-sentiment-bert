@@ -1,0 +1,7 @@
+In this work, we propose an abductive framework for biosignal interpretation, based on the concept of Temporal Abstraction Patterns.
+A temporal abstraction pattern defines an abstraction relation between an observation hypothesis and a set of observations constituting its evidence support.
+New observations are generated abductively from any subset of the evidence of a pattern, building an abstraction hierarchy of observations in which higher levels contain those observations with greater interpretative value of the physiological processes underlying a given signal.
+Non-monotonic reasoning techniques have been applied to this model in order to find the best interpretation of a set of initial observations, permitting even to correct these observations by removing, adding or modifying them in order to make them consistent with the available domain knowledge.
+Some preliminary experiments have been conducted to apply this framework to a well known and bounded problem: the QRS detection on ECG signals.
+The objective is not to provide a new better QRS detector, but to test the validity of an abductive paradigm.
+These experiments show that a knowledge base comprising just a few very simple rhythm abstraction patterns can enhance the results of a state of the art algorithm by significantly improving its detection F1-score, besides proving the ability of the abductive framework to correct both sensitivity and specificity failures.

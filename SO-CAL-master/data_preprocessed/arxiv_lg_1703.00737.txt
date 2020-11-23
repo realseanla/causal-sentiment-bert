@@ -1,0 +1,8 @@
+The/DT steadily/RB growing/VBG use/NN of/IN license/NN -/HYPH free/JJ frequency/NN bands/NNS requires/VBZ reliable/JJ coexistence/NN management/NN for/IN deterministic/JJ medium/JJ utilization/NN ./.
+For/IN interference/NN mitigation/NN ,/, proper/JJ wireless/JJ interference/NN identification/NN (/-LRB- WII/NN )/-RRB- is/VBZ essential/JJ ./.
+In/IN this/DT work/NN we/PRP propose/VBP the/DT first/JJ WII/NN approach/NN based/VBN upon/IN deep/JJ convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- ./.
+The/DT CNN/NNP naively/RB learns/VBZ its/PRP$ features/NNS through/IN self/NN -/HYPH optimization/NN during/IN an/DT extensive/JJ data/NN -/HYPH driven/VBN GPU/NNP -/HYPH based/VBN training/NN process/NN ./.
+We/PRP propose/VBP a/DT CNN/NNP example/NN which/WDT is/VBZ based/VBN upon/IN sensing/VBG snapshots/NNS with/IN a/DT limited/JJ duration/NN of/IN 12.8/CD {/-LRB- \/SYM mu/NNS }/-RRB- s/POS and/CC an/DT acquisition/NN bandwidth/NN of/IN 10/CD MHz/NN ./.
+The/DT CNN/NNP differs/VBZ between/IN 15/CD classes/NNS ./.
+They/PRP represent/VBP packet/NN transmissions/NNS of/IN IEEE/NNP 802.11/CD b/SYM //HYPH g/NN ,/, IEEE/NNP 802.15.4/CD and/CC IEEE/NNP 802.15.1/CD with/IN overlapping/VBG frequency/NN channels/NNS within/IN the/DT 2.4/CD GHz/NN ISM/NN band/NN ./.
+We/PRP show/VBP that/IN the/DT CNN/NNP outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN WII/NN approaches/NNS and/CC has/VBZ a/DT classification/NN accuracy/NN greater/JJR than/IN 95/CD percent/NN for/IN signal/NN -/HYPH to/IN -/HYPH noise/NN ratio/NN of/IN at/RB least/RBS -5/CD dB/NN ./.

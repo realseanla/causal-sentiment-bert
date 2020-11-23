@@ -1,0 +1,6 @@
+For/IN extended/VBN periods/NNS of/IN time/NN ,/, sequence/NN generation/NN models/NNS rely/VBP on/IN beam/NN search/NN algorithm/NN to/TO generate/VB output/NN sequence/NN ./.
+However/RB ,/, the/DT correctness/NN of/IN beam/NN search/NN degrades/VBZ when/WRB the/DT a/DT model/NN is/VBZ over-confident/JJ about/IN a/DT suboptimal/JJ prediction/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO perform/VB minimum/JJ Bayes/NNP -/HYPH risk/NN (/-LRB- MBR/NN )/-RRB- decoding/NN for/IN some/DT extra/JJ steps/NNS at/IN a/DT later/JJ stage/NN ./.
+In/IN order/NN to/TO speed/VB up/RP MBR/NNP decoding/NN ,/, we/PRP compute/VBP the/DT Bayes/NNP risks/NNS on/IN GPU/NNP in/IN batch/NN mode/NN ./.
+In/IN our/PRP$ experiments/NNS ,/, we/PRP found/VBD that/IN MBR/NNP reranking/NN works/VBZ with/IN a/DT large/JJ beam/NN size/NN ./.
+Later/RBR -/HYPH stage/NN MBR/NNP decoding/NN is/VBZ shown/VBN to/TO outperform/VB simple/JJ MBR/NNP reranking/VBG in/IN machine/NN translation/NN tasks/NNS ./.

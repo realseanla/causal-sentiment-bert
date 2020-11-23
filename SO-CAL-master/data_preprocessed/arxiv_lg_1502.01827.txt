@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT hierarchical/JJ maximum/NN -/HYPH margin/NN clustering/NN method/NN for/IN unsupervised/JJ data/NNS analysis/NN ./.
+Our/PRP$ method/NN extends/VBZ beyond/IN flat/JJ maximum/NN -/HYPH margin/NN clustering/NN ,/, and/CC performs/VBZ clustering/NN recursively/RB in/IN a/DT top/JJ -/HYPH down/JJ manner/NN ./.
+We/PRP propose/VBP an/DT effective/JJ greedy/JJ splitting/NN criteria/NNS for/IN selecting/VBG which/WDT cluster/VBP to/IN split/NN next/RB ,/, and/CC employ/VB regularizers/NNS that/WDT enforce/VBP feature/NN sharing/NN //HYPH competition/NN for/IN capturing/VBG data/NNS semantics/NNS ./.
+Experimental/JJ results/NNS obtained/VBN on/IN four/CD standard/JJ datasets/NNS show/VBP that/IN our/PRP$ method/NN outperforms/VBZ flat/JJ and/CC hierarchical/JJ clustering/NN baselines/NNS ,/, while/IN forming/VBG clean/JJ and/CC semantically/RB meaningful/JJ cluster/NN hierarchies/NNS ./.

@@ -1,0 +1,5 @@
+Consider/VB the/DT situation/NN where/WRB some/DT evidence/NN e/NN has/VBZ been/VBN entered/VBN to/IN a/DT Bayesian/JJ network/NN ./.
+When/WRB performing/VBG conflict/NN analysis/NN ,/, sensitivity/NN analysis/NN ,/, or/CC when/WRB answering/VBG questions/NNS like/IN "/`` What/WP if/IN the/DT finding/NN on/IN X/NN had/VBD been/VBN y/NN instead/RB of/IN x/NN ?/. "/''
+you/PRP need/VBP probabilities/NNS P/NN (/-LRB- e/NN '/'' |/NFP h/LS )/-RRB- ,/, where/WRB e/NN '/'' is/VBZ a/DT subset/NN of/IN e/NN ,/, and/CC h/NN is/VBZ a/DT configuration/NN of/IN a/DT (/-LRB- possibly/RB empty/JJ )/-RRB- set/NN of/IN variables/NNS ./.
+Cautious/JJ propagation/NN is/VBZ a/DT modification/NN of/IN HUGIN/NNP propagation/NN into/IN a/DT Shafer/NNP -/HYPH Shenoy/NNP -/HYPH like/JJ architecture/NN ./.
+It/PRP is/VBZ less/RBR efficient/JJ than/IN HUGIN/NNP propagation/NN ;/: however/RB ,/, it/PRP provides/VBZ easy/JJ access/NN to/IN P/NN (/-LRB- e/NN '/'' |/NFP h/LS )/-RRB- for/IN a/DT great/JJ deal/NN of/IN relevant/JJ subsets/NNS e/NN '/'' ./.

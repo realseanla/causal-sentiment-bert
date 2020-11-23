@@ -1,0 +1,7 @@
+Can/MD we/PRP train/VB a/DT system/NN that/WDT ,/, on/IN any/DT new/JJ input/NN ,/, either/CC says/VBZ "/`` do/VB n't/RB know/VB "/'' or/CC makes/VBZ a/DT prediction/NN that/WDT is/VBZ guaranteed/VBN to/TO be/VB correct/JJ ?/.
+We/PRP answer/VBP the/DT question/NN in/IN the/DT affirmative/JJ provided/VBN our/PRP$ model/NN family/NN is/VBZ well/RB -/HYPH specified/VBN ./.
+Specifically/RB ,/, we/PRP introduce/VBP the/DT unanimity/NN principle/NN :/: only/RB predict/VB when/WRB all/DT models/NNS consistent/JJ with/IN the/DT training/NN data/NNS predict/VBP the/DT same/JJ output/NN ./.
+We/PRP operationalize/VBP this/DT principle/NN for/IN semantic/JJ parsing/VBG ,/, the/DT task/NN of/IN mapping/VBG utterances/NNS to/IN logical/JJ forms/NNS ./.
+We/PRP develop/VBP a/DT simple/JJ ,/, efficient/JJ method/NN that/WDT reasons/VBZ over/IN the/DT infinite/JJ set/NN of/IN all/DT consistent/JJ models/NNS by/IN only/RB checking/VBG two/CD of/IN the/DT models/NNS ./.
+We/PRP prove/VBP that/IN our/PRP$ method/NN obtains/VBZ 100/CD percent/NN precision/NN even/RB with/IN a/DT modest/JJ amount/NN of/IN training/NN data/NNS from/IN a/DT possibly/RB adversarial/JJ distribution/NN ./.
+Empirically/RB ,/, we/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN on/IN the/DT standard/JJ GeoQuery/NNP dataset/NN ./.

@@ -1,0 +1,5 @@
+This/DT paper/NN describes/VBZ the/DT system/NN deployed/VBN by/IN the/DT CLaC/NN -/HYPH EDLK/NN team/NN to/IN the/DT "/`` SemEval/NNP 2016/CD ,/, Complex/NNP Word/NNP Identification/NNP task/NN "/'' ./.
+The/DT goal/NN of/IN the/DT task/NN is/VBZ to/TO identify/VB if/IN a/DT given/VBN word/NN in/IN a/DT given/VBN context/NN is/VBZ "/`` simple/JJ "/'' or/CC "/`` complex/JJ "/'' ./.
+Our/PRP$ system/NN relies/VBZ on/IN linguistic/JJ features/NNS and/CC cognitive/JJ complexity/NN ./.
+We/PRP used/VBD several/JJ supervised/JJ models/NNS ,/, however/RB the/DT Random/NNP Forest/NNP model/NN outperformed/VBD the/DT others/NNS ./.
+Overall/RB our/PRP$ best/JJS configuration/NN achieved/VBD a/DT G/NN -/HYPH score/NN of/IN 68.8/CD percent/NN in/IN the/DT task/NN ,/, ranking/VBG our/PRP$ system/NN 21/CD out/IN of/IN 45/CD ./.

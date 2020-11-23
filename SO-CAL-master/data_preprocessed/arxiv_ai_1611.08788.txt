@@ -1,0 +1,5 @@
+Autonomous/NNP driving/NNP is/VBZ one/CD of/IN the/DT most/RBS recent/JJ topics/NNS of/IN interest/NN which/WDT is/VBZ aimed/VBN at/IN replicating/VBG human/JJ driving/NN behavior/NN keeping/VBG in/IN mind/NN the/DT safety/NN issues/NNS ./.
+We/PRP approach/VBP the/DT problem/NN of/IN learning/VBG synthetic/JJ driving/NN using/VBG generative/JJ neural/JJ networks/NNS ./.
+The/DT main/JJ idea/NN is/VBZ to/TO make/VB a/DT controller/NN trainer/NN network/NN using/VBG images/NNS plus/CC key/JJ press/NN data/NNS to/TO mimic/VB human/JJ learning/NN ./.
+We/PRP used/VBD the/DT architecture/NN of/IN a/DT stable/JJ GAN/NNP to/TO make/VB predictions/NNS between/IN driving/VBG scenes/NNS using/VBG key/JJ presses/NNS ./.
+We/PRP train/VBP our/PRP$ model/NN on/IN one/CD video/NN game/NN (/-LRB- Road/NNP Rash/NNP )/-RRB- and/CC tested/VBD the/DT accuracy/NN and/CC compared/VBN it/PRP by/IN running/VBG the/DT model/NN on/IN other/JJ maps/NNS in/IN Road/NNP Rash/NNP to/TO determine/VB the/DT extent/NN of/IN learning/NN ./.

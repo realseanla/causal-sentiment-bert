@@ -1,0 +1,7 @@
+Deep/JJ latent/JJ variable/JJ models/NNS have/VBP been/VBN shown/VBN to/TO facilitate/VB the/DT response/NN generation/NN for/IN open/JJ -/HYPH domain/NN dialog/NN systems/NNS ./.
+However/RB ,/, these/DT latent/JJ variables/NNS are/VBP highly/RB randomized/JJ ,/, leading/VBG to/IN uncontrollable/JJ generated/VBN responses/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT framework/NN allowing/VBG conditional/JJ response/NN generation/NN based/VBN on/IN specific/JJ attributes/NNS ./.
+These/DT attributes/NNS can/MD be/VB either/CC manually/RB assigned/VBN or/CC automatically/RB detected/VBN ./.
+Moreover/RB ,/, the/DT dialog/NN states/VBZ for/IN both/DT speakers/NNS are/VBP modeled/VBN separately/RB in/IN order/NN to/TO reflect/VB personal/JJ features/NNS ./.
+We/PRP validate/VBP this/DT framework/NN on/IN two/CD different/JJ scenarios/NNS ,/, where/WRB the/DT attribute/NN refers/VBZ to/IN genericness/NN and/CC sentiment/NN states/NNS respectively/RB ./.
+The/DT experiment/NN result/NN testified/VBD the/DT potential/NN of/IN our/PRP$ model/NN ,/, where/WRB meaningful/JJ responses/NNS can/MD be/VB generated/VBN in/IN accordance/NN with/IN the/DT specified/VBN attributes/NNS ./.

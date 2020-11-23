@@ -1,0 +1,6 @@
+Word/NNP embeddings/NNS allow/VBP natural/JJ language/NN processing/NN systems/NNS to/TO share/VB statistical/JJ information/NN across/IN related/JJ words/NNS ./.
+These/DT embeddings/NNS are/VBP typically/RB based/VBN on/IN distributional/JJ statistics/NNS ,/, making/VBG it/PRP difficult/JJ for/IN them/PRP to/TO generalize/VB to/IN rare/JJ or/CC unseen/JJ words/NNS ./.
+We/PRP propose/VBP to/TO improve/VB word/NN embeddings/NNS by/IN incorporating/VBG morphological/JJ information/NN ,/, capturing/VBG shared/VBN sub-word/JJ features/NNS ./.
+Unlike/IN previous/JJ work/NN that/WDT constructs/VBZ word/NN embeddings/NNS directly/RB from/IN morphemes/NNS ,/, we/PRP combine/VBP morphological/JJ and/CC distributional/JJ information/NN in/IN a/DT unified/JJ probabilistic/JJ framework/NN ,/, in/IN which/WDT the/DT word/NN embedding/NN is/VBZ a/DT latent/JJ variable/NN ./.
+The/DT morphological/JJ information/NN provides/VBZ a/DT prior/JJ distribution/NN on/IN the/DT latent/JJ word/NN embeddings/NNS ,/, which/WDT in/IN turn/NN condition/NN a/DT likelihood/NN function/NN over/IN an/DT observed/VBN corpus/NN ./.
+This/DT approach/NN yields/VBZ improvements/NNS on/IN intrinsic/JJ word/NN similarity/NN evaluations/NNS ,/, and/CC also/RB in/IN the/DT downstream/JJ task/NN of/IN part/NN -/HYPH of/IN -/HYPH speech/NN tagging/NN ./.

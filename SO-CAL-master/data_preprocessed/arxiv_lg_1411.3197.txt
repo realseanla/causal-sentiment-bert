@@ -1,0 +1,7 @@
+All/DT multi-component/JJ product/NN manufacturing/NN companies/NNS face/VBP the/DT problem/NN of/IN warranty/NN cost/NN estimation/NN ./.
+Failure/NN rate/NN analysis/NN of/IN components/NNS plays/VBZ a/DT key/JJ role/NN in/IN this/DT problem/NN ./.
+Data/NNS source/NN used/VBN for/IN failure/NN rate/NN analysis/NN has/VBZ traditionally/RB been/VBN past/JJ failure/NN data/NNS of/IN components/NNS ./.
+However/RB ,/, failure/NN rate/NN analysis/NN can/MD be/VB improved/VBN by/IN means/NNS of/IN fusion/NN of/IN additional/JJ information/NN ,/, such/JJ as/IN symptoms/NNS observed/VBN during/IN after/IN -/HYPH sale/NN service/NN of/IN the/DT product/NN ,/, geographical/JJ information/NN (/-LRB- hilly/JJ or/CC plains/NNS areas/NNS )/-RRB- ,/, and/CC information/NN from/IN tele/NN -/HYPH diagnostic/JJ analytics/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT approach/NN ,/, which/WDT learns/VBZ dependency/NN between/IN part/NN -/HYPH failures/NNS and/CC symptoms/NNS gleaned/VBN from/IN such/JJ diverse/JJ sources/NNS of/IN information/NN ,/, to/TO predict/VB expected/VBN number/NN of/IN failures/NNS with/IN better/JJR accuracy/NN ./.
+We/PRP also/RB indicate/VBP how/WRB the/DT optimum/JJ warranty/NN period/NN can/MD be/VB computed/VBN ./.
+We/PRP demonstrate/VBP ,/, through/IN empirical/JJ results/NNS ,/, that/IN our/PRP$ method/NN can/MD improve/VB the/DT warranty/NN cost/NN estimates/NNS significantly/RB ./.

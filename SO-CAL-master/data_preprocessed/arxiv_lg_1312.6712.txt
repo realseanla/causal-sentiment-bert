@@ -1,0 +1,7 @@
+Time/NNP -/HYPH series/NN classification/NN is/VBZ an/DT important/JJ domain/NN of/IN machine/NN learning/NN and/CC a/DT plethora/NN of/IN methods/NNS have/VBP been/VBN developed/VBN for/IN the/DT task/NN ./.
+In/IN comparison/NN to/IN existing/VBG approaches/NNS ,/, this/DT study/NN presents/VBZ a/DT novel/JJ method/NN which/WDT decomposes/VBZ a/DT time/NN -/HYPH series/NN dataset/NN into/IN latent/JJ patterns/NNS and/CC membership/NN weights/NNS of/IN local/JJ segments/NNS to/IN those/DT patterns/NNS ./.
+The/DT process/NN is/VBZ formalized/VBN as/IN a/DT constrained/VBN objective/NN function/NN and/CC a/DT tailored/VBN stochastic/JJ coordinate/NN descent/NN optimization/NN is/VBZ applied/VBN ./.
+The/DT time/NN -/HYPH series/NN are/VBP projected/VBN to/IN a/DT new/JJ feature/NN representation/NN consisting/VBG of/IN the/DT sums/NNS of/IN the/DT membership/NN weights/NNS ,/, which/WDT captures/VBZ frequencies/NNS of/IN local/JJ patterns/NNS ./.
+Features/NNS from/IN various/JJ sliding/VBG window/NN sizes/NNS are/VBP concatenated/VBN in/IN order/NN to/TO encapsulate/VB the/DT interaction/NN of/IN patterns/NNS from/IN different/JJ sizes/NNS ./.
+Finally/RB ,/, a/DT large/JJ -/HYPH scale/NN experimental/JJ comparison/NN against/IN 6/CD state/NN of/IN the/DT art/NN baselines/NNS and/CC 43/CD real/JJ life/NN datasets/NNS is/VBZ conducted/VBN ./.
+The/DT proposed/JJ method/NN outperforms/VBZ all/PDT the/DT baselines/NNS with/IN statistically/RB significant/JJ margins/NNS in/IN terms/NNS of/IN prediction/NN accuracy/NN ./.

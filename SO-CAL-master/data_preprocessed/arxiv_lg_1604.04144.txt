@@ -1,0 +1,9 @@
+Visual/JJ representation/NN is/VBZ crucial/JJ for/IN a/DT visual/JJ tracking/NN method/NN 's/POS performances/NNS ./.
+Conventionally/RB ,/, visual/JJ representations/NNS adopted/VBN in/IN visual/JJ tracking/NN rely/VBP on/IN hand/NN -/HYPH crafted/VBN computer/NN vision/NN descriptors/NNS ./.
+These/DT descriptors/NNS were/VBD developed/VBN generically/RB without/IN considering/VBG tracking/VBG -/HYPH specific/JJ information/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO learn/VB complex/JJ -/HYPH valued/VBN invariant/JJ representations/NNS from/IN tracked/VBN sequential/JJ image/NN patches/NNS ,/, via/IN strong/JJ temporal/JJ slowness/NN constraint/NN and/CC stacked/VBN convolutional/JJ autoencoders/NNS ./.
+The/DT deep/JJ slow/JJ local/JJ representations/NNS are/VBP learned/VBN offline/RB on/IN unlabeled/JJ data/NNS and/CC transferred/VBN to/IN the/DT observational/JJ model/NN of/IN our/PRP$ proposed/VBN tracker/NN ./.
+The/DT proposed/VBN observational/JJ model/NN retains/VBZ old/JJ training/NN samples/NNS to/TO alleviate/VB drift/NN ,/, and/CC collect/VB negative/JJ samples/NNS which/WDT are/VBP coherent/JJ with/IN target/NN 's/POS motion/NN pattern/NN for/IN better/JJR discriminative/JJ tracking/NN ./.
+With/IN the/DT learned/VBN representation/NN and/CC online/JJ training/NN samples/NNS ,/, a/DT logistic/JJ regression/NN classifier/NN is/VBZ adopted/VBN to/TO distinguish/VB target/NN from/IN background/NN ,/, and/CC retrained/VBN online/JJ to/TO adapt/VB to/IN appearance/NN changes/NNS ./.
+Subsequently/RB ,/, the/DT observational/JJ model/NN is/VBZ integrated/VBN into/IN a/DT particle/NN filter/NN framework/NN to/IN peform/NN visual/JJ tracking/NN ./.
+Experimental/JJ results/NNS on/IN various/JJ challenging/JJ benchmark/NN sequences/NNS demonstrate/VBP that/IN the/DT proposed/VBN tracker/NN performs/VBZ favourably/RB against/IN several/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN trackers/NNS ./.

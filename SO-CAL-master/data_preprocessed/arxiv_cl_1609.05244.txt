@@ -1,0 +1,12 @@
+Multimodal/JJ sentiment/NN analysis/NN is/VBZ drawing/VBG an/DT increasing/VBG amount/NN of/IN attention/NN these/DT days/NNS ./.
+It/PRP enables/VBZ mining/NN of/IN opinions/NNS in/IN video/NN reviews/NNS and/CC surveys/NNS which/WDT are/VBP now/RB available/JJ aplenty/RB on/IN online/JJ platforms/NNS like/IN YouTube/NNP ./.
+However/RB ,/, the/DT limited/JJ number/NN of/IN high/JJ -/HYPH quality/NN multimodal/JJ sentiment/NN data/NNS samples/NNS may/MD introduce/VB the/DT problem/NN of/IN the/DT sentiment/NN being/VBG dependent/JJ on/IN the/DT individual/NN specific/JJ features/NNS in/IN the/DT dataset/NN ./.
+This/DT results/VBZ in/IN a/DT lack/NN of/IN generalizability/NN of/IN the/DT trained/VBN models/NNS for/IN classification/NN on/IN larger/JJR online/JJ platforms/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP first/RB examine/VBP the/DT data/NNS and/CC verify/VB the/DT existence/NN of/IN this/DT dependence/NN problem/NN ./.
+Then/RB we/PRP propose/VBP a/DT Select/JJ -/HYPH Additive/JJ Learning/NN (/-LRB- SAL/NNP )/-RRB- procedure/NN that/WDT improves/VBZ the/DT generalizability/NN of/IN trained/VBN discriminative/JJ neural/JJ networks/NNS ./.
+SAL/NNP is/VBZ a/DT two/CD -/HYPH phase/NN learning/NN method/NN ./.
+In/IN Selection/NN phase/NN ,/, it/PRP selects/VBZ the/DT confounding/VBG learned/VBN representation/NN ./.
+In/IN Addition/NN phase/NN ,/, it/PRP forces/VBZ the/DT classifier/NN to/TO discard/VB confounded/VBD representations/NNS by/IN adding/VBG Gaussian/JJ noise/NN ./.
+In/IN our/PRP$ experiments/NNS ,/, we/PRP show/VBP how/WRB SAL/NNP improves/VBZ the/DT generalizability/NN of/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS ./.
+We/PRP increase/VBP prediction/NN accuracy/NN significantly/RB in/IN all/DT three/CD modalities/NNS (/-LRB- text/NN ,/, audio/NN ,/, video/NN )/-RRB- ,/, as/RB well/RB as/IN in/IN their/PRP$ fusion/NN ./.
+We/PRP show/VBP how/WRB SAL/NNP ,/, even/RB when/WRB trained/VBN on/IN one/CD dataset/NN ,/, achieves/VBZ good/JJ accuracy/NN across/IN test/NN datasets/NNS ./.

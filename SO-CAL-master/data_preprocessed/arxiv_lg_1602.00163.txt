@@ -1,0 +1,13 @@
+In/IN Multiple/JJ Instance/NNP Learning/NNP (/-LRB- MIL/NNP )/-RRB- problem/NN for/IN sequence/NN data/NNS ,/, the/DT learning/NN data/NNS consist/VBP of/IN a/DT set/NN of/IN bags/NNS where/WRB each/DT bag/NN contains/VBZ a/DT set/NN of/IN instances/NNS //, sequences/NNS ./.
+In/IN many/JJ real/JJ world/NN applications/NNS such/JJ as/IN bioinformatics/NN ,/, web/NN mining/NN ,/, and/CC text/NN mining/NN ,/, comparing/VBG a/DT random/JJ couple/NN of/IN sequences/NNS makes/VBZ no/DT sense/NN ./.
+In/IN fact/NN ,/, each/DT instance/NN of/IN each/DT bag/NN may/MD have/VB structural/JJ and/CC //HYPH or/CC temporal/JJ relation/NN with/IN other/JJ instances/NNS in/IN other/JJ bags/NNS ./.
+Thus/RB ,/, the/DT classification/NN task/NN should/MD take/VB into/IN account/NN the/DT relation/NN between/IN semantically/RB related/VBN instances/NNS across/IN bags/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP two/CD novel/JJ MIL/NN approaches/VBZ for/IN sequence/NN data/NNS classification/NN :/: (/-LRB- 1/LS )/-RRB- ABClass/NN and/CC (/-LRB- 2/LS )/-RRB- ABSim/NN ./.
+In/IN ABClass/NN ,/, each/DT sequence/NN is/VBZ represented/VBN by/IN one/CD vector/NN of/IN attributes/NNS ./.
+For/IN each/DT sequence/NN of/IN the/DT unknown/JJ bag/NN ,/, a/DT discriminative/JJ classifier/NN is/VBZ applied/VBN in/IN order/NN to/TO compute/VB a/DT partial/JJ classification/NN result/NN ./.
+Then/RB ,/, an/DT aggregation/NN method/NN is/VBZ applied/VBN to/IN these/DT partial/JJ results/NNS in/IN order/NN to/TO generate/VB the/DT final/JJ result/NN ./.
+In/IN ABSim/NNP ,/, we/PRP use/VBP a/DT similarity/NN measure/NN between/IN each/DT sequence/NN of/IN the/DT unknown/JJ bag/NN and/CC the/DT corresponding/VBG sequences/NNS in/IN the/DT learning/NN bags/NNS ./.
+An/DT unknown/JJ bag/NN is/VBZ labeled/VBN with/IN the/DT bag/NN that/WDT presents/VBZ more/JJR similar/JJ sequences/NNS ./.
+We/PRP applied/VBD both/DT approaches/NNS to/IN the/DT problem/NN of/IN bacterial/JJ Ionizing/NNP Radiation/NNP Resistance/NNP (/-LRB- IRR/NNP )/-RRB- prediction/NN ./.
+We/PRP evaluated/VBD and/CC discussed/VBD the/DT proposed/VBN approaches/NNS on/RB well/RB known/JJ Ionizing/NNP Radiation/NNP Resistance/NN Bacteria/NNS (/-LRB- IRRB/NN )/-RRB- and/CC Ionizing/NNP Radiation/NNP Sensitive/JJ Bacteria/NNS (/-LRB- IRSB/NN )/-RRB- represented/VBN by/IN primary/JJ structure/NN of/IN basal/JJ DNA/NN repair/NN proteins/NN ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN both/DT ABClass/NNP and/CC ABSim/NNP approaches/NNS are/VBP efficient/JJ ./.

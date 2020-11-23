@@ -1,0 +1,4 @@
+In this paper we present architectures based on deep neural nets for gesture recognition in videos, which are invariant to local scaling.
+We amalgamate autoencoder and predictor architectures using an adaptive weighting scheme coping with a reduced size labeled dataset, while enriching our models from enormous unlabeled sets.
+We further improve robustness to lighting conditions by introducing a new adaptive filer based on temporal local scale normalization.
+We provide superior results over known methods, including recent reported approaches based on neural nets.

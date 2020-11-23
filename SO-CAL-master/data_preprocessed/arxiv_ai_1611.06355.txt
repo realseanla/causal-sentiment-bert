@@ -1,0 +1,6 @@
+Generative/JJ Adversarial/JJ Networks/NNS (/-LRB- GANs/NNS )/-RRB- have/VBP recently/RB demonstrated/VBN to/IN successfully/RB approximate/JJ complex/JJ data/NNS distributions/NNS ./.
+A/DT relevant/JJ extension/NN of/IN this/DT model/NN is/VBZ conditional/JJ GANs/NNS (/-LRB- cGANs/NNS )/-RRB- ,/, where/WRB the/DT introduction/NN of/IN external/JJ information/NN allows/VBZ to/TO determine/VB specific/JJ representations/NNS of/IN the/DT generated/VBN images/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP evaluate/VBP encoders/NNS to/IN inverse/JJ the/DT mapping/NN of/IN a/DT cGAN/NN ,/, i.e./FW ,/, mapping/VBG a/DT real/JJ image/NN into/IN a/DT latent/JJ space/NN and/CC a/DT conditional/JJ representation/NN ./.
+This/DT allows/VBZ ,/, for/IN example/NN ,/, to/TO reconstruct/VB and/CC modify/VB real/JJ images/NNS of/IN faces/NNS conditioning/VBG on/IN arbitrary/JJ attributes/NNS ./.
+Additionally/RB ,/, we/PRP evaluate/VBP the/DT design/NN of/IN cGANs/NNS ./.
+The/DT combination/NN of/IN an/DT encoder/NN with/IN a/DT cGAN/NN ,/, which/WDT we/PRP call/VBP Invertible/NNP cGAN/NNP (/-LRB- IcGAN/NNP )/-RRB- ,/, enables/VBZ to/IN re-generate/JJ real/JJ images/NNS with/IN deterministic/JJ complex/JJ modifications/NNS ./.

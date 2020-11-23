@@ -1,0 +1,9 @@
+Multi/NNP Expression/NN Programming/NN (/-LRB- MEP/NNP )/-RRB- is/VBZ an/DT evolutionary/JJ technique/NN that/WDT may/MD be/VB used/VBN for/IN solving/VBG computationally/RB difficult/JJ problems/NNS ./.
+MEP/NNP uses/VBZ a/DT linear/JJ solution/NN representation/NN ./.
+Each/DT MEP/NNP individual/NN is/VBZ a/DT string/NN encoding/VBG complex/JJ expressions/NNS (/-LRB- computer/NN programs/NNS )/-RRB- ./.
+A/DT MEP/NNP individual/NN may/MD encode/VB multiple/JJ solutions/NNS of/IN the/DT current/JJ problem/NN ./.
+In/IN this/DT paper/NN MEP/NNP is/VBZ used/VBN for/IN evolving/VBG a/DT Traveling/VBG Salesman/NN Problem/NN (/-LRB- TSP/NN )/-RRB- heuristic/NN for/IN graphs/NNS satisfying/VBG triangle/NN inequality/NN ./.
+Evolved/VBN MEP/NNP heuristic/NN is/VBZ compared/VBN with/IN Nearest/NNP Neighbor/NNP Heuristic/NNP (/-LRB- NN/NNP )/-RRB- and/CC Minimum/NNP Spanning/VBG Tree/NNP Heuristic/NNP (/-LRB- MST/NNP )/-RRB- on/IN some/DT difficult/JJ problems/NNS in/IN TSPLIB/NNP ./.
+For/IN most/JJS of/IN the/DT considered/VBN problems/NNS the/DT evolved/VBN MEP/NNP heuristic/NN outperforms/VBZ NN/NNP and/CC MST/NNP ./.
+The/DT obtained/VBN algorithm/NN was/VBD tested/VBN against/IN some/DT problems/NNS in/IN TSPLIB/NNP ./.
+The/DT results/NNS emphasizes/VBZ that/IN evolved/VBD MEP/NNP heuristic/NN is/VBZ a/DT powerful/JJ tool/NN for/IN solving/VBG difficult/JJ TSP/NN instances/NNS ./.

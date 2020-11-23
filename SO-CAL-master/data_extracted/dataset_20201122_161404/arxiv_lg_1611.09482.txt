@@ -1,0 +1,5 @@
+This paper presents an efficient implementation of the Wavenet generation process called Fast Wavenet.
+Compared to a naive implementation that has complexity O(2^L) (L denotes the number of layers in the network), our proposed approach removes redundant convolution operations by caching previous calculations, thereby reducing the complexity to O(L) time.
+Timing experiments show significant advantages of our fast implementation over a naive one.
+While this method is presented for Wavenet, the same scheme can be applied anytime one wants to perform autoregressive generation or online prediction using a model with dilated convolution layers.
+The code for our method is publicly available.

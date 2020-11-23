@@ -1,0 +1,7 @@
+Recently/RB Le/NNP &amp;/CC Mikolov/NNP described/VBD two/CD log/NN -/SYM linear/JJ models/NNS ,/, called/VBN Paragraph/NN Vector/NNP ,/, that/DT can/MD be/VB used/VBN to/TO learn/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN distributed/VBN representations/NNS of/IN documents/NNS ./.
+Inspired/VBN by/IN this/DT work/NN we/PRP present/VBP Binary/JJ Paragraph/NN Vectors/NNS ,/, simple/JJ neural/JJ networks/NNS that/WDT learn/VBP short/JJ binary/JJ codes/NNS for/IN fast/JJ information/NN retrieval/NN ./.
+We/PRP show/VBP that/IN binary/JJ paragraph/NN vectors/NNS outperform/VBP autoencoder/NN -/HYPH based/VBN binary/JJ codes/NNS ,/, despite/IN using/VBG fewer/JJR bits/NNS ./.
+We/PRP also/RB evaluate/VBP their/PRP$ precision/NN in/IN transfer/NN learning/NN settings/NNS ,/, where/WRB binary/JJ codes/NNS are/VBP inferred/VBN for/IN documents/NNS unrelated/JJ to/IN the/DT training/NN corpus/NN ./.
+Results/NNS from/IN these/DT experiments/NNS indicate/VBP that/IN Binary/JJ Paragraph/NN Vectors/NNS can/MD capture/VB semantics/NNS relevant/JJ for/IN various/JJ domain/NN -/HYPH specific/JJ documents/NNS ./.
+Finally/RB ,/, we/PRP present/VBP a/DT model/NN that/WDT simultaneously/RB learns/VBZ short/JJ binary/JJ codes/NNS and/CC longer/JJR ,/, real/JJ -/HYPH valued/VBN representations/NNS ./.
+This/DT model/NN can/MD be/VB used/VBN to/TO rapidly/RB retrieve/VB a/DT short/JJ list/NN of/IN highly/RB relevant/JJ documents/NNS from/IN a/DT large/JJ document/NN collection/NN ./.

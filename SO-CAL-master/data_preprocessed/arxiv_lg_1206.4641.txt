@@ -1,0 +1,8 @@
+In/IN recent/JJ years/NNS ,/, total/JJ variation/NN (/-LRB- TV/NN )/-RRB- and/CC Euler/NNP 's/POS elastica/NNP (/-LRB- EE/NN )/-RRB- have/VBP been/VBN successfully/RB applied/VBN to/IN image/NN processing/NN tasks/NNS such/JJ as/IN denoising/NN and/CC inpainting/NN ./.
+This/DT paper/NN investigates/VBZ how/WRB to/TO extend/VB TV/NN and/CC EE/NN to/IN the/DT supervised/JJ learning/NN settings/NNS on/IN high/JJ dimensional/JJ data/NNS ./.
+The/DT supervised/JJ learning/NN problem/NN can/MD be/VB formulated/VBN as/IN an/DT energy/NN functional/JJ minimization/NN under/IN Tikhonov/NNP regularization/NN scheme/NN ,/, where/WRB the/DT energy/NN is/VBZ composed/VBN of/IN a/DT squared/JJ loss/NN and/CC a/DT total/JJ variation/NN smoothing/NN (/-LRB- or/CC Euler/NNP 's/POS elastica/NNP smoothing/NN )/-RRB- ./.
+Its/PRP$ solution/NN via/IN variational/JJ principles/NNS leads/VBZ to/IN an/DT Euler/NNP -/HYPH Lagrange/NNP PDE/NN ./.
+However/RB ,/, the/DT PDE/NN is/VBZ always/RB high/JJ -/HYPH dimensional/JJ and/CC can/MD not/RB be/VB directly/RB solved/VBN by/IN common/JJ methods/NNS ./.
+Instead/RB ,/, radial/JJ basis/NN functions/NNS are/VBP utilized/VBN to/TO approximate/VB the/DT target/NN function/NN ,/, reducing/VBG the/DT problem/NN to/IN finding/VBG the/DT linear/JJ coefficients/NNS of/IN basis/NN functions/NNS ./.
+We/PRP apply/VBP the/DT proposed/VBN methods/NNS to/IN supervised/JJ learning/NN tasks/NNS (/-LRB- including/VBG binary/JJ classification/NN ,/, multi-class/NN classification/NN ,/, and/CC regression/NN )/-RRB- on/IN benchmark/NN data/NNS sets/NNS ./.
+Extensive/JJ experiments/NNS have/VBP demonstrated/VBN promising/JJ results/NNS of/IN the/DT proposed/VBN methods/NNS ./.

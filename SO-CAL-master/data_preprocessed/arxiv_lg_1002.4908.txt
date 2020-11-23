@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT new/JJ online/JJ convex/NN optimization/NN algorithm/NN that/WDT adaptively/RB chooses/VBZ its/PRP$ regularization/NN function/NN based/VBN on/IN the/DT loss/NN functions/VBZ observed/VBN so/RB far/RB ./.
+This/DT is/VBZ in/IN contrast/NN to/IN previous/JJ algorithms/NNS that/WDT use/VBP a/DT fixed/VBN regularization/NN function/NN such/JJ as/IN L2/NN -/HYPH squared/VBN ,/, and/CC modify/VB it/PRP only/RB via/IN a/DT single/JJ time/NN -/HYPH dependent/JJ parameter/NN ./.
+Our/PRP$ algorithm/NN 's/POS regret/NN bounds/NNS are/VBP worst/RBS -/HYPH case/NN optimal/JJ ,/, and/CC for/IN certain/JJ realistic/JJ classes/NNS of/IN loss/NN functions/NNS they/PRP are/VBP much/RB better/JJR than/IN existing/VBG bounds/NNS ./.
+These/DT bounds/NNS are/VBP problem/NN -/HYPH dependent/JJ ,/, which/WDT means/VBZ they/PRP can/MD exploit/VB the/DT structure/NN of/IN the/DT actual/JJ problem/NN instance/NN ./.
+Critically/RB ,/, however/RB ,/, our/PRP$ algorithm/NN does/VBZ not/RB need/VB to/TO know/VB this/DT structure/NN in/IN advance/NN ./.
+Rather/RB ,/, we/PRP prove/VBP competitive/JJ guarantees/NNS that/WDT show/VBP the/DT algorithm/NN provides/VBZ a/DT bound/VBN within/IN a/DT constant/JJ factor/NN of/IN the/DT best/JJS possible/JJ bound/JJ (/-LRB- of/IN a/DT certain/JJ functional/JJ form/NN )/-RRB- in/IN hindsight/NN ./.

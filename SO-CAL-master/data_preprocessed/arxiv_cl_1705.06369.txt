@@ -1,0 +1,8 @@
+Distributed/VBN representations/NNS of/IN sentences/NNS have/VBP been/VBN developed/VBN recently/RB to/TO represent/VB their/PRP$ meaning/NN as/IN real/JJ -/HYPH valued/VBN vectors/NNS ./.
+However/RB ,/, it/PRP is/VBZ not/RB clear/JJ how/WRB much/JJ information/NN such/JJ representations/NNS retain/VBP about/IN the/DT polarity/NN of/IN sentences/NNS ./.
+To/TO study/VB this/DT question/NN ,/, we/PRP decode/VBP sentiment/NN from/IN sentence/NN representations/NNS learned/VBD with/IN different/JJ architectures/NNS (/-LRB- sensitive/JJ to/IN the/DT order/NN of/IN words/NNS ,/, the/DT order/NN of/IN sentences/NNS ,/, or/CC none/NN )/-RRB- in/IN 9/CD typologically/RB diverse/JJ languages/NNS ./.
+Sentiment/NN results/NNS from/IN the/DT (/-LRB- recursive/JJ )/-RRB- composition/NN of/IN lexical/JJ items/NNS and/CC grammatical/JJ strategies/NNS such/JJ as/IN negation/NN and/CC concession/NN ./.
+The/DT results/NNS are/VBP manifold/JJ :/: we/PRP show/VBP that/IN there/EX is/VBZ no/DT '/`` one/CD -/HYPH size/NN -/HYPH fits/VBZ -/HYPH all/DT '/`` representation/NN architecture/NN outperforming/VBG the/DT others/NNS across/IN the/DT board/NN ./.
+Rather/RB ,/, the/DT top/JJ -/HYPH ranking/NN architectures/NNS depend/VBP on/IN the/DT language/NN at/IN hand/NN ./.
+Moreover/RB ,/, we/PRP find/VBP that/IN in/IN several/JJ cases/NNS the/DT additive/JJ composition/NN model/NN based/VBN on/IN skip/VB -/HYPH gram/NN word/NN vectors/NNS may/MD surpass/VB state/NN -/HYPH of/IN -/HYPH art/NN architectures/NNS such/JJ as/IN bi-directional/JJ LSTMs/NNS ./.
+Finally/RB ,/, we/PRP provide/VBP a/DT possible/JJ explanation/NN of/IN the/DT observed/VBN variation/NN based/VBN on/IN the/DT type/NN of/IN negative/JJ constructions/NNS in/IN each/DT language/NN ./.

@@ -1,0 +1,5 @@
+We/PRP study/VBP unsupervised/JJ learning/NN by/IN developing/VBG introspective/JJ generative/JJ modeling/NN (/-LRB- IGM/NN )/-RRB- that/WDT attains/VBZ a/DT generator/NN using/VBG progressively/RB learned/VBN deep/JJ convolutional/JJ neural/JJ networks/NNS ./.
+The/DT generator/NN is/VBZ itself/PRP a/DT discriminator/NN ,/, capable/JJ of/IN introspection/NN :/: being/VBG able/JJ to/TO self/NN -/HYPH evaluate/VB the/DT difference/NN between/IN its/PRP$ generated/VBN samples/NNS and/CC the/DT given/VBN training/NN data/NNS ./.
+When/WRB followed/VBN by/IN repeated/VBN discriminative/JJ learning/NN ,/, desirable/JJ properties/NNS of/IN modern/JJ discriminative/JJ classifiers/NNS are/VBP directly/RB inherited/VBN by/IN the/DT generator/NN ./.
+IGM/NNP learns/VBZ a/DT cascade/NN of/IN CNN/NNP classifiers/NNS using/VBG a/DT synthesis/NN -/HYPH by/IN -/HYPH classification/NN algorithm/NN ./.
+In/IN the/DT experiments/NNS ,/, we/PRP observe/VBP encouraging/JJ results/NNS on/IN a/DT number/NN of/IN applications/NNS including/VBG texture/NN modeling/NN ,/, artistic/JJ style/NN transferring/VBG ,/, face/NN modeling/NN ,/, and/CC semi-supervised/VBN learning/NN ./.

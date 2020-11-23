@@ -1,0 +1,5 @@
+We/PRP introduce/VBP a/DT new/JJ structure/NN for/IN memory/NN neural/JJ networks/NNS ,/, called/VBN feedforward/JJ sequential/JJ memory/NN networks/NNS (/-LRB- FSMN/NNP )/-RRB- ,/, which/WDT can/MD learn/VB long/JJ -/HYPH term/NN dependency/NN without/IN using/VBG recurrent/JJ feedback/NN ./.
+The/DT proposed/VBN FSMN/NNP is/VBZ a/DT standard/JJ feedforward/JJ neural/JJ networks/NNS equipped/VBN with/IN learnable/JJ sequential/JJ memory/NN blocks/NNS in/IN the/DT hidden/JJ layers/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP have/VBP applied/VBN FSMN/NNP to/TO several/JJ language/NN modeling/NN (/-LRB- LM/NN )/-RRB- tasks/NNS ./.
+Experimental/JJ results/NNS have/VBP shown/VBN that/IN the/DT memory/NN blocks/VBZ in/IN FSMN/NNP can/MD learn/VB effective/JJ representations/NNS of/IN long/JJ history/NN ./.
+Experiments/NNS have/VBP shown/VBN that/IN FSMN/NNP based/VBN language/NN models/NNS can/MD significantly/RB outperform/VB not/RB only/RB feedforward/JJ neural/JJ network/NN (/-LRB- FNN/NNP )/-RRB- based/VBN LMs/NNPS but/CC also/RB the/DT popular/JJ recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- LMs/NNS ./.

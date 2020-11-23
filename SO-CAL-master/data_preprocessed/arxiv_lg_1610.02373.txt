@@ -1,0 +1,11 @@
+Increasing/VBG the/DT scalability/NN of/IN machine/NN learning/NN to/TO handle/VB big/JJ volume/NN of/IN data/NNS is/VBZ a/DT challenging/JJ task/NN ./.
+The/DT scale/NN up/RP approach/NN has/VBZ some/DT limitations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP proposed/VBD a/DT scale/NN out/RP approach/NN for/IN CNN/NNP -/HYPH ELM/NNP based/VBN on/IN MapReduce/NNP on/IN classifier/NN level/NN ./.
+Map/NN process/NN is/VBZ the/DT CNN/NNP -/HYPH ELM/NNP training/NN for/IN certain/JJ partition/NN of/IN data/NNS ./.
+It/PRP involves/VBZ many/JJ CNN/NNP -/HYPH ELM/NNP models/NNS that/WDT can/MD be/VB trained/VBN asynchronously/RB ./.
+Reduce/VB process/NN is/VBZ the/DT averaging/NN of/IN all/DT CNN/NNP -/HYPH ELM/NNP weights/NNS as/IN final/JJ training/NN result/NN ./.
+This/DT approach/NN can/MD save/VB a/DT lot/NN of/IN training/NN time/NN than/IN single/JJ CNN/NNP -/HYPH ELM/NNP models/NNS trained/VBN alone/RB ./.
+This/DT approach/NN also/RB increased/VBD the/DT scalability/NN of/IN machine/NN learning/NN by/IN combining/VBG scale/NN out/RP and/CC scale/VB up/RP approaches/NNS ./.
+We/PRP verified/VBD our/PRP$ method/NN in/IN extended/JJ MNIST/NN data/NNS set/VBN and/CC not/RB -/HYPH MNIST/JJ data/NNS set/VBN experiment/NN ./.
+However/RB ,/, it/PRP has/VBZ some/DT drawbacks/NNS by/IN additional/JJ iteration/NN learning/VBG parameters/NNS that/WDT need/VBP to/TO be/VB carefully/RB taken/VBN and/CC training/NN data/NNS distribution/NN that/WDT need/VBP to/TO be/VB carefully/RB selected/VBN ./.
+Further/JJ researches/NNS to/TO use/VB more/RBR complex/JJ image/NN data/NNS set/VBN are/VBP required/VBN ./.

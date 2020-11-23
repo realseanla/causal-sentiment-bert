@@ -1,0 +1,8 @@
+Generative/JJ Adversarial/JJ Net/NN has/VBZ shown/VBN its/PRP$ great/JJ ability/NN in/IN generating/VBG samples/NNS ./.
+The/DT inverse/JJ mapping/NN of/IN generator/NN also/RB contains/VBZ a/DT great/JJ value/NN ./.
+Some/DT works/NNS have/VBP been/VBN developed/VBN to/TO construct/VB the/DT inverse/JJ function/NN of/IN generator/NN ./.
+However/RB ,/, the/DT existing/VBG ways/NNS of/IN training/VBG the/DT inverse/JJ model/NN of/IN GANs/NNS have/VBP many/JJ shortcomings/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ approach/NN of/IN training/VBG the/DT inverse/JJ model/NN of/IN generator/NN by/IN regarding/VBG a/DT pre-trained/JJ generator/NN as/IN the/DT decoder/JJR part/NN of/IN an/DT autoencoder/NN network/NN ./.
+This/DT model/NN does/VBZ not/RB directly/RB minimize/VB the/DT difference/NN between/IN original/JJ input/NN and/CC inverse/JJ output/NN ,/, but/CC try/VB to/TO minimize/VB the/DT difference/NN between/IN the/DT generated/VBN data/NNS by/IN using/VBG original/JJ input/NN and/CC inverse/JJ output/NN ./.
+This/DT strategy/NN overcome/VB the/DT difficulty/NN in/IN training/VBG a/DT inverse/JJ model/NN of/IN a/DT non/FW one/CD -/HYPH to/IN -/HYPH one/CD function/NN ./.
+And/CC the/DT inverse/JJ mapping/NN we/PRP learned/VBD can/MD be/VB directly/RB used/VBN in/IN image/NN searching/NN and/CC processing/NN ./.

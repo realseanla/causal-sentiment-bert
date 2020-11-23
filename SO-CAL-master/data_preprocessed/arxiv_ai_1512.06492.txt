@@ -1,0 +1,6 @@
+This/DT paper/NN summarizes/VBZ the/DT recent/JJ progress/NN we/PRP have/VBP made/VBN for/IN the/DT computer/NN vision/NN technologies/NNS in/IN physical/JJ therapy/NN with/IN the/DT accessible/JJ and/CC affordable/JJ devices/NNS ./.
+We/PRP first/RB introduce/VB the/DT remote/JJ health/NN coaching/NN system/NN we/PRP build/VBP with/IN Microsoft/NNP Kinect/NNP ./.
+Since/IN the/DT motion/NN data/NNS captured/VBN by/IN Kinect/NNP is/VBZ noisy/JJ ,/, we/PRP investigate/VBP the/DT data/NNS accuracy/NN of/IN Kinect/NNP with/IN respect/NN to/IN the/DT high/JJ accuracy/NN motion/NN capture/NN system/NN ./.
+We/PRP also/RB propose/VBP an/DT outlier/NN data/NNS removal/NN algorithm/NN based/VBN on/IN the/DT data/NNS distribution/NN ./.
+In/IN order/NN to/TO generate/VB the/DT kinematic/JJ parameter/NN from/IN the/DT noisy/JJ data/NNS captured/VBN by/IN Kinect/NNP ,/, we/PRP propose/VBP a/DT kinematic/JJ filtering/NN algorithm/NN based/VBN on/IN Unscented/JJ Kalman/NNP Filter/NNP and/CC the/DT kinematic/JJ model/NN of/IN human/JJ skeleton/NN ./.
+The/DT proposed/VBN algorithm/NN can/MD obtain/VB smooth/JJ kinematic/JJ parameter/NN with/IN reduced/VBN noise/NN compared/VBN to/IN the/DT kinematic/JJ parameter/NN generated/VBN from/IN the/DT raw/JJ motion/NN data/NNS from/IN Kinect/NNP ./.

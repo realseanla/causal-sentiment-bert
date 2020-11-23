@@ -1,0 +1,7 @@
+In/IN many/JJ real/JJ world/NN elections/NNS ,/, agents/NNS are/VBP not/RB required/VBN to/TO rank/VB all/DT candidates/NNS ./.
+We/PRP study/VBP three/CD of/IN the/DT most/RBS common/JJ methods/NNS used/VBN to/TO modify/VB voting/NN rules/NNS to/TO deal/VB with/IN such/JJ partial/JJ votes/NNS ./.
+These/DT methods/NNS modify/VBP scoring/VBG rules/NNS (/-LRB- like/IN the/DT Borda/NNP count/NN )/-RRB- ,/, elimination/NN style/NN rules/NNS (/-LRB- like/IN single/JJ transferable/JJ vote/NN )/-RRB- and/CC rules/NNS based/VBN on/IN the/DT tournament/NN graph/NN (/-LRB- like/IN Copeland/NNP )/-RRB- respectively/RB ./.
+We/PRP argue/VBP that/IN with/IN an/DT elimination/NN style/NN voting/NN rule/NN like/IN single/JJ transferable/JJ vote/NN ,/, partial/JJ voting/NN does/VBZ not/RB change/VB the/DT situations/NNS where/WRB strategic/JJ voting/NN is/VBZ possible/JJ ./.
+However/RB ,/, with/IN scoring/NN rules/NNS and/CC rules/NNS based/VBN on/IN the/DT tournament/NN graph/NN ,/, partial/JJ voting/NN can/MD increase/VB the/DT situations/NNS where/WRB strategic/JJ voting/NN is/VBZ possible/JJ ./.
+As/IN a/DT consequence/NN ,/, the/DT computational/JJ complexity/NN of/IN computing/VBG a/DT strategic/JJ vote/NN can/MD change/VB ./.
+For/IN example/NN ,/, with/IN Borda/NNP count/NN ,/, the/DT complexity/NN of/IN computing/VBG a/DT strategic/JJ vote/NN can/MD decrease/VB or/CC stay/VB the/DT same/JJ depending/VBG on/IN how/WRB we/PRP score/VBP partial/JJ votes/NNS ./.

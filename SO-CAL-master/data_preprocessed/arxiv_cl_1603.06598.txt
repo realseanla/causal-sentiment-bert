@@ -1,0 +1,6 @@
+Traditional/JJ syntax/NN models/NNS typically/RB leverage/VBP part/NN -/HYPH of/IN -/HYPH speech/NN (/-LRB- POS/NN )/-RRB- information/NN by/IN constructing/VBG features/NNS from/IN hand/NN -/HYPH tuned/VBN templates/NNS ./.
+We/PRP demonstrate/VBP that/IN a/DT better/JJR approach/NN is/VBZ to/TO utilize/VB POS/NN tags/NNS as/IN a/DT regularizer/NN of/IN learned/VBN representations/NNS ./.
+We/PRP propose/VBP a/DT simple/JJ method/NN for/IN learning/VBG a/DT stacked/VBN pipeline/NN of/IN models/NNS which/WDT we/PRP call/VBP "/`` stack/NN -/HYPH propagation/NN "/'' ./.
+We/PRP apply/VBP this/DT to/TO dependency/NN parsing/VBG and/CC tagging/VBG ,/, where/WRB we/PRP use/VBP the/DT hidden/JJ layer/NN of/IN the/DT tagger/NN network/NN as/IN a/DT representation/NN of/IN the/DT input/NN tokens/NNS for/IN the/DT parser/NN ./.
+At/IN test/NN time/NN ,/, our/PRP$ parser/NN does/VBZ not/RB require/VB predicted/VBN POS/NN tags/NNS ./.
+On/IN 19/CD languages/NNS from/IN the/DT Universal/NNP Dependencies/NNPS ,/, our/PRP$ method/NN is/VBZ 1.3/CD percent/NN (/-LRB- absolute/JJ )/-RRB- more/RBR accurate/JJ than/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN graph/NN -/HYPH based/VBN approach/NN and/CC 2.7/CD percent/NN more/RBR accurate/JJ than/IN the/DT most/RBS comparable/JJ greedy/JJ model/NN ./.

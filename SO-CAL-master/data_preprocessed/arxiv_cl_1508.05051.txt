@@ -1,0 +1,7 @@
+Neural/JJ networks/NNS have/VBP been/VBN shown/VBN to/TO improve/VB performance/NN across/IN a/DT range/NN of/IN natural/JJ -/HYPH language/NN tasks/NNS ./.
+However/RB ,/, designing/VBG and/CC training/VBG them/PRP can/MD be/VB complicated/VBN ./.
+Frequently/RB ,/, researchers/NNS resort/VBP to/IN repeated/VBN experimentation/NN to/TO pick/VB optimal/JJ settings/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT issue/NN of/IN choosing/VBG the/DT correct/JJ number/NN of/IN units/NNS in/IN hidden/JJ layers/NNS ./.
+We/PRP introduce/VBP a/DT method/NN for/IN automatically/RB adjusting/VBG network/NN size/NN by/IN pruning/NN out/IN hidden/VBN units/NNS through/IN $/$ \/CD ell/CD _/NFP {/-LRB- \/SYM infty/JJ ,1/NN }/-RRB- $/$ and/CC $/$ \/CD ell/CD _/NFP {/-LRB- 2,1/CD }/-RRB- $/$ regularization/CD ./.
+We/PRP apply/VBP this/DT method/NN to/IN language/NN modeling/NN and/CC demonstrate/VBP its/PRP$ ability/NN to/TO correctly/RB choose/VB the/DT number/NN of/IN hidden/VBN units/NNS while/IN maintaining/VBG perplexity/NN ./.
+We/PRP also/RB include/VBP these/DT models/NNS in/IN a/DT machine/NN translation/NN decoder/NN and/CC show/VBP that/IN these/DT smaller/JJR neural/JJ models/NNS maintain/VBP the/DT significant/JJ improvements/NNS of/IN their/PRP$ unpruned/JJ versions/NNS ./.

@@ -1,0 +1,6 @@
+The/DT talent/NN scheduling/NN problem/NN is/VBZ a/DT simplified/JJ version/NN of/IN the/DT real/JJ -/HYPH world/NN film/NN shooting/NN problem/NN ,/, which/WDT aims/VBZ to/TO determine/VB a/DT shooting/NN sequence/NN so/RB as/IN to/TO minimize/VB the/DT total/JJ cost/NN of/IN the/DT actors/NNS involved/VBN ./.
+In/IN this/DT article/NN ,/, we/PRP first/RB formulate/VB the/DT problem/NN as/IN an/DT integer/NN linear/JJ programming/NN model/NN ./.
+Next/RB ,/, we/PRP devise/VBP a/DT branch/NN -/HYPH and/CC -/HYPH bound/VBN algorithm/NN to/TO solve/VB the/DT problem/NN ./.
+The/DT branch/NN -/HYPH and/CC -/HYPH bound/VBN algorithm/NN is/VBZ enhanced/VBN by/IN several/JJ accelerating/VBG techniques/NNS ,/, including/VBG preprocessing/NN ,/, dominance/NN rules/NNS and/CC caching/VBG search/NN states/NNS ./.
+Extensive/JJ experiments/NNS over/IN two/CD sets/NNS of/IN benchmark/NN instances/NNS suggest/VBP that/IN our/PRP$ algorithm/NN is/VBZ superior/JJ to/IN the/DT current/JJ best/JJS exact/JJ algorithm/NN ./.
+Finally/RB ,/, the/DT impacts/NNS of/IN different/JJ parameter/NN settings/NNS are/VBP disclosed/VBN by/IN some/DT additional/JJ experiments/NNS ./.

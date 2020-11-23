@@ -1,0 +1,5 @@
+High/JJ -/HYPH content/NN screening/NN uses/VBZ large/JJ collections/NNS of/IN unlabeled/JJ cell/NN image/NN data/NNS to/IN reason/NN about/IN genetics/NN or/CC cell/NN biology/NN ./.
+Two/CD important/JJ tasks/NNS are/VBP to/TO identify/VB those/DT cells/NNS which/WDT bear/VBP interesting/JJ phenotypes/NNS ,/, and/CC to/TO identify/VB sub-populations/NNS enriched/VBN for/IN these/DT phenotypes/NNS ./.
+This/DT exploratory/JJ data/NNS analysis/NN usually/RB involves/VBZ dimensionality/NN reduction/NN followed/VBN by/IN clustering/NN ,/, in/IN the/DT hope/NN that/IN clusters/NNS represent/VBP a/DT phenotype/NN ./.
+We/PRP propose/VBP the/DT use/NN of/IN stacked/VBN de-noising/JJ auto/NN -/HYPH encoders/NNS to/TO perform/VB dimensionality/NN reduction/NN for/IN high/JJ -/HYPH content/NN screening/NN ./.
+We/PRP demonstrate/VBP the/DT superior/JJ performance/NN of/IN our/PRP$ approach/NN over/IN PCA/NNP ,/, Local/JJ Linear/NNP Embedding/NNP ,/, Kernel/NNP PCA/NNP and/CC Isomap/NNP ./.

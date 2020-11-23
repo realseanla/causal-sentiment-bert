@@ -1,0 +1,9 @@
+Spectral/JJ clustering/NN is/VBZ a/DT fundamental/JJ technique/NN in/IN the/DT field/NN of/IN data/NNS mining/NN and/CC information/NN processing/NN ./.
+Most/JJS existing/VBG spectral/JJ clustering/NN algorithms/NNS integrate/VBP dimensionality/NN reduction/NN into/IN the/DT clustering/NN process/NN assisted/VBN by/IN manifold/JJ learning/NN in/IN the/DT original/JJ space/NN ./.
+However/RB ,/, the/DT manifold/NN in/IN reduced/VBN -/HYPH dimensional/JJ subspace/NN is/VBZ likely/JJ to/TO exhibit/VB altered/VBN properties/NNS in/IN contrast/NN with/IN the/DT original/JJ space/NN ./.
+Thus/RB ,/, applying/VBG manifold/JJ information/NN obtained/VBN from/IN the/DT original/JJ space/NN to/IN the/DT clustering/NN process/NN in/IN a/DT low/JJ -/HYPH dimensional/JJ subspace/NN is/VBZ prone/JJ to/IN inferior/JJ performance/NN ./.
+Aiming/VBG to/TO address/VB this/DT issue/NN ,/, we/PRP propose/VBP a/DT novel/JJ convex/NN algorithm/NN that/IN mines/NNS the/DT manifold/JJ structure/NN in/IN the/DT low/JJ -/HYPH dimensional/JJ subspace/NN ./.
+In/IN addition/NN ,/, our/PRP$ unified/JJ learning/NN process/NN makes/VBZ the/DT manifold/JJ learning/NN particularly/RB tailored/VBN for/IN the/DT clustering/NN ./.
+Compared/VBN with/IN other/JJ related/JJ methods/NNS ,/, the/DT proposed/VBN algorithm/NN results/NNS in/IN more/JJR structured/JJ clustering/NN result/NN ./.
+To/TO validate/VB the/DT efficacy/NN of/IN the/DT proposed/VBN algorithm/NN ,/, we/PRP perform/VBP extensive/JJ experiments/NNS on/IN several/JJ benchmark/NN datasets/NNS in/IN comparison/NN with/IN some/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN clustering/NN approaches/NNS ./.
+The/DT experimental/JJ results/NNS demonstrate/VBP that/IN the/DT proposed/VBN algorithm/NN has/VBZ quite/RB promising/JJ clustering/NN performance/NN ./.

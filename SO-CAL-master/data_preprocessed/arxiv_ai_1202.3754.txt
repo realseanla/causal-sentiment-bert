@@ -1,0 +1,7 @@
+Markov/NNP decision/NN processes/NNS (/-LRB- MDPs/NNS )/-RRB- are/VBP widely/RB used/VBN in/IN modeling/NN decision/NN making/VBG problems/NNS in/IN stochastic/JJ environments/NNS ./.
+However/RB ,/, precise/JJ specification/NN of/IN the/DT reward/NN functions/VBZ in/IN MDPs/NNS is/VBZ often/RB very/RB difficult/JJ ./.
+Recent/JJ approaches/NNS have/VBP focused/VBN on/IN computing/VBG an/DT optimal/JJ policy/NN based/VBN on/IN the/DT minimax/NN regret/NN criterion/NN for/IN obtaining/VBG a/DT robust/JJ policy/NN under/IN uncertainty/NN in/IN the/DT reward/NN function/NN ./.
+One/CD of/IN the/DT core/NN tasks/NNS in/IN computing/VBG the/DT minimax/NN regret/NN policy/NN is/VBZ to/TO obtain/VB the/DT set/NN of/IN all/DT policies/NNS that/WDT can/MD be/VB optimal/JJ for/IN some/DT candidate/NN reward/NN function/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT efficient/JJ algorithm/NN that/WDT exploits/VBZ the/DT geometric/JJ properties/NNS of/IN the/DT reward/NN function/NN associated/VBN with/IN the/DT policies/NNS ./.
+We/PRP also/RB present/VBP an/DT approximate/JJ version/NN of/IN the/DT method/NN for/IN further/JJ speed/NN up/RP ./.
+We/PRP experimentally/RB demonstrate/VBP that/IN our/PRP$ algorithm/NN improves/VBZ the/DT performance/NN by/IN orders/NNS of/IN magnitude/NN ./.

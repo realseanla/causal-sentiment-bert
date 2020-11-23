@@ -1,0 +1,7 @@
+The/DT goal/NN of/IN compressed/JJ sensing/VBG is/VBZ to/TO estimate/VB a/DT vector/NN from/IN an/DT underdetermined/JJ system/NN of/IN noisy/JJ linear/JJ measurements/NNS ,/, by/IN making/VBG use/NN of/IN prior/JJ knowledge/NN on/IN the/DT structure/NN of/IN vectors/NNS in/IN the/DT relevant/JJ domain/NN ./.
+For/IN almost/RB all/DT results/NNS in/IN this/DT literature/NN ,/, the/DT structure/NN is/VBZ represented/VBN by/IN sparsity/NN in/IN a/DT well/RB -/HYPH chosen/VBN basis/NN ./.
+We/PRP show/VBP how/WRB to/TO achieve/VB guarantees/NNS similar/JJ to/IN standard/JJ compressed/VBN sensing/VBG but/CC without/IN employing/VBG sparsity/NN at/IN all/DT ./.
+Instead/RB ,/, we/PRP suppose/VBP that/IN vectors/NNS lie/VBP near/IN the/DT range/NN of/IN a/DT generative/JJ model/NN $/$ G/NN :/: \/SYM mathbb/NN {/-LRB- R/NN }/-RRB- ^/SYM k/CD \/NN to/IN \/SYM mathbb/NN {/-LRB- R/NN }/-RRB- ^/SYM n/NN $/$ ./.
+Our/PRP$ main/JJ theorem/NN is/VBZ that/IN ,/, if/IN $/$ G$/CD is/VBZ $/$ L$/CD -/HYPH Lipschitz/NNP ,/, then/RB roughly/RB $/$ O/UH (/-LRB- k/CD \/SYM log/NN L/NN )/-RRB- $/$ random/JJ Gaussian/JJ measurements/NNS suffice/VBP for/IN an/DT $/$ \/CD ell_2/CD //SYM \/SYM ell_2/SYM $/$ recovery/NN guarantee/NN ./.
+We/PRP demonstrate/VBP our/PRP$ results/NNS using/VBG generative/NN models/NNS from/IN published/VBN variational/JJ autoencoder/NN and/CC generative/JJ adversarial/JJ networks/NNS ./.
+Our/PRP$ method/NN can/MD use/VB $/$ 5/CD $/$ -/: $/$ 10/CD $/$ x/SYM fewer/JJR measurements/NNS than/IN Lasso/NNP for/IN the/DT same/JJ accuracy/NN ./.

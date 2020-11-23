@@ -1,0 +1,8 @@
+Deep/JJ neural/JJ networks/NNS trained/VBN on/IN large/JJ supervised/JJ datasets/NNS have/VBP led/VBN to/IN impressive/JJ results/NNS in/IN recent/JJ years/NNS ./.
+However/RB ,/, since/RB well/RB -/HYPH annotated/VBN datasets/NNS can/MD be/VB prohibitively/RB expensive/JJ and/CC time/NN -/HYPH consuming/VBG to/TO collect/VB ,/, recent/JJ work/NN has/VBZ explored/VBN the/DT use/NN of/IN larger/JJR but/CC noisy/JJ datasets/NNS that/WDT can/MD be/VB more/RBR easily/RB obtained/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP the/DT behavior/NN of/IN deep/JJ neural/JJ networks/NNS on/IN training/NN sets/NNS with/IN massively/RB noisy/JJ labels/NNS ./.
+We/PRP show/VBP that/IN successful/JJ learning/NN is/VBZ possible/JJ even/RB with/IN an/DT essentially/RB arbitrary/JJ amount/NN of/IN noise/NN ./.
+For/IN example/NN ,/, on/IN MNIST/NN we/PRP find/VBP that/IN accuracy/NN of/IN above/IN 90/CD percent/NN is/VBZ still/RB attainable/JJ even/RB when/WRB the/DT dataset/NN has/VBZ been/VBN diluted/VBN with/IN 100/CD noisy/JJ examples/NNS for/IN each/DT clean/JJ example/NN ./.
+Such/JJ behavior/NN holds/VBZ across/IN multiple/JJ patterns/NNS of/IN label/NN noise/NN ,/, even/RB when/WRB noisy/JJ labels/NNS are/VBP biased/JJ towards/IN confusing/VBG classes/NNS ./.
+Further/RB ,/, we/PRP show/VBP how/WRB the/DT required/VBN dataset/NN size/NN for/IN successful/JJ training/NN increases/NNS with/IN higher/JJR label/NN noise/NN ./.
+Finally/RB ,/, we/PRP present/VBP simple/JJ actionable/JJ techniques/NNS for/IN improving/VBG learning/NN in/IN the/DT regime/NN of/IN high/JJ label/NN noise/NN ./.

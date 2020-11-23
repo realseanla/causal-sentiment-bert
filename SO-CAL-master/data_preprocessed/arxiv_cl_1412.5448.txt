@@ -1,0 +1,7 @@
+We/PRP propose/VBP to/TO augment/VB rating/NN based/VBN recommender/NN systems/NNS by/IN providing/VBG the/DT user/NN with/IN additional/JJ information/NN which/WDT might/MD help/VB him/PRP in/IN his/PRP$ choice/NN or/CC in/IN the/DT understanding/NN of/IN the/DT recommendation/NN ./.
+We/PRP consider/VBP here/RB as/IN a/DT new/JJ task/NN ,/, the/DT generation/NN of/IN personalized/VBN reviews/NNS associated/VBN to/IN items/NNS ./.
+We/PRP use/VBP an/DT extractive/JJ summary/NN formulation/NN for/IN generating/VBG these/DT reviews/NNS ./.
+We/PRP also/RB show/VBP that/IN the/DT two/CD information/NN sources/NNS ,/, ratings/NNS and/CC items/NNS could/MD be/VB used/VBN both/DT for/IN estimating/VBG ratings/NNS and/CC for/IN generating/VBG summaries/NNS ,/, leading/VBG to/IN improved/VBN performance/NN for/IN each/DT system/NN compared/VBN to/IN the/DT use/NN of/IN a/DT single/JJ source/NN ./.
+Besides/IN these/DT two/CD contributions/NNS ,/, we/PRP show/VBP how/WRB a/DT personalized/VBN polarity/NN classifier/NN can/MD integrate/VB the/DT rating/NN and/CC textual/JJ aspects/NNS ./.
+Overall/RB ,/, the/DT proposed/VBN system/NN offers/VBZ the/DT user/NN three/CD personalized/VBN hints/NNS for/IN a/DT recommendation/NN :/: rating/NN ,/, text/NN and/CC polarity/NN ./.
+We/PRP evaluate/VBP these/DT three/CD components/NNS on/IN two/CD datasets/NNS using/VBG appropriate/JJ measures/NNS for/IN each/DT task/NN ./.

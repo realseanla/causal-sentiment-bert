@@ -1,0 +1,3 @@
+We consider the classical question of predicting binary sequences and study the {\em optimal} algorithms for obtaining the best possible regret and payoff functions for this problem.
+The question turns out to be also equivalent to the problem of optimal trade-offs between the regrets of two experts in an "experts problem", studied before by .
+While, say, a regret of $\Theta(\sqrt{T})$ is known, we argue that it important to ask what is the provably optimal algorithm for this problem --- both because it leads to natural algorithms, as well as because regret is in fact often comparable in magnitude to the final payoffs and hence is a non-negligible term.

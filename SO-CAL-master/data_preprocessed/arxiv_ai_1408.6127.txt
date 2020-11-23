@@ -1,0 +1,10 @@
+Operating/VBG vehicles/NNS in/IN adversarial/JJ environments/NNS between/IN a/DT recurring/VBG origin/NN -/HYPH destination/NN pair/NN requires/VBZ new/JJ planning/NN techniques/NNS ./.
+A/DT two/CD players/NNS zero/CD -/HYPH sum/NN game/NN is/VBZ introduced/VBN ./.
+The/DT goal/NN of/IN the/DT first/JJ player/NN is/VBZ to/TO minimize/VB the/DT expected/VBN casualties/NNS undergone/VBN by/IN a/DT convoy/NN ./.
+The/DT goal/NN of/IN the/DT second/JJ player/NN is/VBZ to/TO maximize/VB this/DT damage/NN ./.
+The/DT outcome/NN of/IN the/DT game/NN is/VBZ obtained/VBN via/IN a/DT linear/JJ program/NN that/WDT solves/VBZ the/DT corresponding/VBG minmax/NN optimization/NN problem/NN over/IN this/DT outcome/NN ./.
+Different/JJ environment/NN models/NNS are/VBP defined/VBN in/IN order/NN to/TO compute/VB routing/NN strategies/NNS over/IN unstructured/JJ environments/NNS ./.
+To/TO compare/VB these/DT methods/NNS for/IN increasingly/RB accurate/JJ representations/NNS of/IN the/DT environment/NN ,/, a/DT grid/NN -/HYPH based/VBN model/NN is/VBZ chosen/VBN to/TO represent/VB the/DT environment/NN and/CC the/DT existence/NN of/IN a/DT sufficient/JJ network/NN size/NN is/VBZ highlighted/VBN ./.
+A/DT global/JJ framework/NN for/IN the/DT generation/NN of/IN realistic/JJ routing/NN strategies/NNS between/IN any/DT two/CD points/NNS is/VBZ described/VBN ./.
+This/DT framework/NN requires/VBZ a/DT good/JJ assessment/NN of/IN the/DT potential/JJ casualties/NNS at/IN any/DT location/NN ,/, therefore/RB the/DT most/RBS important/JJ parameters/NNS are/VBP identified/VBN ./.
+Finally/RB the/DT framework/NN is/VBZ tested/VBN on/IN real/JJ world/NN environments/NNS ./.

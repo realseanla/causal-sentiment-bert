@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT novel/JJ technique/NN for/IN learning/VBG semantic/JJ representations/NNS ,/, which/WDT extends/VBZ the/DT distributional/JJ hypothesis/NN to/IN multilingual/JJ data/NNS and/CC joint/JJ -/HYPH space/NN embeddings/NNS ./.
+Our/PRP$ models/NNS leverage/NN parallel/JJ data/NNS and/CC learn/VB to/TO strongly/RB align/VB the/DT embeddings/NNS of/IN semantically/RB equivalent/JJ sentences/NNS ,/, while/IN maintaining/VBG sufficient/JJ distance/NN between/IN those/DT of/IN dissimilar/JJ sentences/NNS ./.
+The/DT models/NNS do/VBP not/RB rely/VB on/IN word/NN alignments/NNS or/CC any/DT syntactic/JJ information/NN and/CC are/VBP successfully/RB applied/VBN to/IN a/DT number/NN of/IN diverse/JJ languages/NNS ./.
+We/PRP extend/VBP our/PRP$ approach/NN to/TO learn/VB semantic/JJ representations/NNS at/IN the/DT document/NN level/NN ,/, too/RB ./.
+We/PRP evaluate/VBP these/DT models/NNS on/IN two/CD cross-lingual/JJ document/NN classification/NN tasks/NNS ,/, outperforming/VBG the/DT prior/JJ state/NN of/IN the/DT art/NN ./.
+Through/IN qualitative/JJ analysis/NN and/CC the/DT study/NN of/IN pivoting/VBG effects/NNS we/PRP demonstrate/VBP that/IN our/PRP$ representations/NNS are/VBP semantically/RB plausible/JJ and/CC can/MD capture/VB semantic/JJ relationships/NNS across/IN languages/NNS without/IN parallel/JJ data/NNS ./.

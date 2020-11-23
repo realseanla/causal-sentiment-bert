@@ -1,0 +1,9 @@
+Part/NN -/HYPH based/VBN representations/NNS have/VBP been/VBN shown/VBN to/TO be/VB very/RB useful/JJ for/IN image/NN classification/NN ./.
+Learning/VBG part/NN -/HYPH based/VBN models/NNS is/VBZ often/RB viewed/VBN as/IN a/DT two/CD -/HYPH stage/NN problem/NN ./.
+First/RB ,/, a/DT collection/NN of/IN informative/JJ parts/NNS is/VBZ discovered/VBN ,/, using/VBG heuristics/NNS that/WDT promote/VBP part/NN distinctiveness/NN and/CC diversity/NN ,/, and/CC then/RB classifiers/NNS are/VBP trained/VBN on/IN the/DT vector/NN of/IN part/NN responses/NNS ./.
+In/IN this/DT paper/NN we/PRP unify/VBP the/DT two/CD stages/NNS and/CC learn/VB the/DT image/NN classifiers/NNS and/CC a/DT set/NN of/IN shared/VBN parts/NNS jointly/RB ./.
+We/PRP generate/VBP an/DT initial/JJ pool/NN of/IN parts/NNS by/IN randomly/RB sampling/VBG part/NN candidates/NNS and/CC selecting/VBG a/DT good/JJ subset/NN using/VBG L1/NN //HYPH L2/NN regularization/NN ./.
+All/DT steps/NNS are/VBP driven/VBN "/`` directly/RB "/'' by/IN the/DT same/JJ objective/JJ namely/RB the/DT classification/NN loss/NN on/IN a/DT training/NN set/NN ./.
+This/DT lets/VBZ us/PRP do/VB away/RB with/IN engineered/VBN heuristics/NNS ./.
+We/PRP also/RB introduce/VBP the/DT notion/NN of/IN "/`` negative/JJ parts/NNS "/'' ,/, intended/VBN as/IN parts/NNS that/WDT are/VBP negatively/RB correlated/VBN with/IN one/CD or/CC more/JJR classes/NNS ./.
+Negative/JJ parts/NNS are/VBP complementary/JJ to/IN the/DT parts/NNS discovered/VBN by/IN other/JJ methods/NNS ,/, which/WDT look/VBP only/RB for/IN positive/JJ correlations/NNS ./.

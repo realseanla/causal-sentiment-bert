@@ -1,0 +1,10 @@
+In/IN this/DT paper/NN ,/, a/DT supervised/JJ learning/NN technique/NN for/IN extracting/VBG keyphrases/NNS of/IN Arabic/JJ documents/NNS is/VBZ presented/VBN ./.
+The/DT extractor/NN is/VBZ supplied/VBN with/IN linguistic/JJ knowledge/NN to/TO enhance/VB its/PRP$ efficiency/NN instead/RB of/IN relying/VBG only/RB on/IN statistical/JJ information/NN such/JJ as/IN term/NN frequency/NN and/CC distance/NN ./.
+During/IN analysis/NN ,/, an/DT annotated/JJ Arabic/JJ corpus/NN is/VBZ used/VBN to/TO extract/VB the/DT required/VBN lexical/JJ features/NNS of/IN the/DT document/NN words/NNS ./.
+The/DT knowledge/NN also/RB includes/VBZ syntactic/JJ rules/NNS based/VBN on/IN part/NN of/IN speech/NN tags/NNS and/CC allowed/VBD word/NN sequences/NNS to/TO extract/VB the/DT candidate/NN keyphrases/NNS ./.
+In/IN this/DT work/NN ,/, the/DT abstract/JJ form/NN of/IN Arabic/JJ words/NNS is/VBZ used/VBN instead/RB of/IN its/PRP$ stem/NN form/NN to/TO represent/VB the/DT candidate/NN terms/NNS ./.
+The/DT Abstract/NNP form/NN hides/VBZ most/JJS of/IN the/DT inflections/NNS found/VBN in/IN Arabic/JJ words/NNS ./.
+The/DT paper/NN introduces/VBZ new/JJ features/NNS of/IN keyphrases/NNS based/VBN on/IN linguistic/JJ knowledge/NN ,/, to/TO capture/VB titles/NNS and/CC subtitles/NNS of/IN a/DT document/NN ./.
+A/DT simple/JJ ANOVA/NN test/NN is/VBZ used/VBN to/TO evaluate/VB the/DT validity/NN of/IN selected/VBN features/NNS ./.
+Then/RB ,/, the/DT learning/NN model/NN is/VBZ built/VBN using/VBG the/DT LDA/NNP -/HYPH Linear/NNP Discriminant/NNP Analysis/NNP -/HYPH and/CC training/NN documents/NNS ./.
+Although/IN ,/, the/DT presented/VBN system/NN is/VBZ trained/VBN using/VBG documents/NNS in/IN the/DT IT/NN domain/NN ,/, experiments/NNS carried/VBD out/RP show/NN that/IN it/PRP has/VBZ a/DT significantly/RB better/JJR performance/NN than/IN the/DT existing/VBG Arabic/NNP extractor/NN systems/NNS ,/, where/WRB precision/NN and/CC recall/NN values/NNS reach/VBP double/RB their/PRP$ corresponding/VBG values/NNS in/IN the/DT other/JJ systems/NNS especially/RB for/IN lengthy/JJ and/CC non-scientific/JJ articles/NNS ./.

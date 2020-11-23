@@ -1,0 +1,7 @@
+This/DT paper/NN addresses/VBZ the/DT problem/NN of/IN detecting/VBG coherent/JJ motions/NNS in/IN crowd/NN scenes/NNS and/CC presents/VBZ its/PRP$ two/CD applications/NNS in/IN crowd/NN scene/NN understanding/NN :/: semantic/JJ region/NN detection/NN and/CC recurrent/JJ activity/NN mining/NN ./.
+It/PRP processes/VBZ input/NN motion/NN fields/NNS (/-LRB- e.g./FW ,/, optical/JJ flow/NN fields/NNS )/-RRB- and/CC produces/VBZ a/DT coherent/JJ motion/NN filed/VBN ,/, named/VBN as/IN thermal/JJ energy/NN field/NN ./.
+The/DT thermal/JJ energy/NN field/NN is/VBZ able/JJ to/TO capture/VB both/DT motion/NN correlation/NN among/IN particles/NNS and/CC the/DT motion/NN trends/NNS of/IN individual/JJ particles/NNS which/WDT are/VBP helpful/JJ to/TO discover/VB coherency/NN among/IN them/PRP ./.
+We/PRP further/RB introduce/VB a/DT two/CD -/HYPH step/NN clustering/NN process/NN to/TO construct/VB stable/JJ semantic/JJ regions/NNS from/IN the/DT extracted/VBN time/NN -/HYPH varying/VBG coherent/JJ motions/NNS ./.
+These/DT semantic/JJ regions/NNS can/MD be/VB used/VBN to/TO recognize/VB pre-defined/JJ activities/NNS in/IN crowd/NN scenes/NNS ./.
+Finally/RB ,/, we/PRP introduce/VBP a/DT cluster/NN -/HYPH and/CC -/HYPH merge/VB process/NN which/WDT automatically/RB discovers/VBZ recurrent/JJ activities/NNS in/IN crowd/NN scenes/NNS by/IN clustering/NN and/CC merging/VBG the/DT extracted/VBN coherent/JJ motions/NNS ./.
+Experiments/NNS on/IN various/JJ videos/NNS demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN ./.

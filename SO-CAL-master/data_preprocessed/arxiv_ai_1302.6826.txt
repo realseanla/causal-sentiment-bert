@@ -1,0 +1,7 @@
+We/PRP explore/VBP the/DT issue/NN of/IN refining/VBG an/DT existent/JJ Bayesian/JJ network/NN structure/NN using/VBG new/JJ data/NNS which/WDT might/MD mention/VB only/RB a/DT subset/NN of/IN the/DT variables/NNS ./.
+Most/JJS previous/JJ works/NNS have/VBP only/RB considered/VBN the/DT refinement/NN of/IN the/DT network/NN 's/POS conditional/JJ probability/NN parameters/NNS ,/, and/CC have/VBP not/RB addressed/VBN the/DT issue/NN of/IN refining/VBG the/DT network/NN 's/POS structure/NN ./.
+We/PRP develop/VBP a/DT new/JJ approach/NN for/IN refining/VBG the/DT network/NN 's/POS structure/NN ./.
+Our/PRP$ approach/NN is/VBZ based/VBN on/IN the/DT Minimal/JJ Description/NN Length/NN (/-LRB- MDL/NN )/-RRB- principle/NN ,/, and/CC it/PRP employs/VBZ an/DT adapted/VBN version/NN of/IN a/DT Bayesian/JJ network/NN learning/VBG algorithm/NN developed/VBN in/IN our/PRP$ previous/JJ work/NN ./.
+One/CD of/IN the/DT adaptations/NNS required/VBN is/VBZ to/TO modify/VB the/DT previous/JJ algorithm/NN to/TO account/VB for/IN the/DT structure/NN of/IN the/DT existent/JJ network/NN ./.
+The/DT learning/NN algorithm/NN generates/VBZ a/DT partial/JJ network/NN structure/NN which/WDT can/MD then/RB be/VB used/VBN to/TO improve/VB the/DT existent/JJ network/NN ./.
+We/PRP also/RB present/JJ experimental/JJ evidence/NN demonstrating/VBG the/DT effectiveness/NN of/IN our/PRP$ approach/NN ./.

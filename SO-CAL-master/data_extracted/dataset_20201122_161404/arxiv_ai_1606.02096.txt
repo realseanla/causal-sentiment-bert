@@ -1,0 +1,4 @@
+We introduce a novel playlist generation algorithm that focuses on the quality of transitions using a recurrent neural network (RNN).
+The proposed model assumes that optimal transitions between tracks can be modelled and predicted by internal transitions within music tracks.
+We introduce modelling sequences of high-level music descriptors using RNNs and discuss an experiment involving different similarity functions, where the sequences are provided by a musical structural analysis algorithm.
+Qualitative observations show that the proposed approach can effectively model transitions of music tracks in playlists.

@@ -1,0 +1,9 @@
+Vanishing (and exploding) gradients effect is a common problem for recurrent neural networks with nonlinear activation functions which use backpropagation method for calculation of derivatives.
+Deep feedforward neural networks with many hidden layers also suffer from this effect.
+In this paper we propose a novel universal technique that makes the norm of the gradient stay in the suitable range.
+We construct a way to estimate a contribution of each training example to the norm of the long-term components of the target function s gradient.
+Using this subroutine we can construct mini-batches for the stochastic gradient descent (SGD) training that leads to high performance and accuracy of the trained network even for very complex tasks.
+We provide a straightforward mathematical estimation of minibatch s impact on for the gradient norm and prove its correctness theoretically.
+To check our framework experimentally we use some special synthetic benchmarks for testing RNNs on ability to capture long-term dependencies.
+Our network can detect links between events in the (temporal) sequence at the range approx.
+100 and longer.

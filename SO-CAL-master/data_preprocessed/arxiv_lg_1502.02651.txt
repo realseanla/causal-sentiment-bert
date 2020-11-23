@@ -1,0 +1,8 @@
+We/PRP study/VBP online/RB boosting/VBG ,/, the/DT task/NN of/IN converting/VBG any/DT weak/JJ online/JJ learner/NN into/IN a/DT strong/JJ online/JJ learner/NN ./.
+Based/VBN on/IN a/DT novel/NN and/CC natural/JJ definition/NN of/IN weak/JJ online/JJ learnability/NN ,/, we/PRP develop/VBP two/CD online/JJ boosting/VBG algorithms/NNS ./.
+The/DT first/JJ algorithm/NN is/VBZ an/DT online/JJ version/NN of/IN boost/NN -/HYPH by/IN -/HYPH majority/NN ./.
+By/IN proving/VBG a/DT matching/NN lower/JJR bound/JJ ,/, we/PRP show/VBP that/IN this/DT algorithm/NN is/VBZ essentially/RB optimal/JJ in/IN terms/NNS of/IN the/DT number/NN of/IN weak/JJ learners/NNS and/CC the/DT sample/NN complexity/NN needed/VBN to/TO achieve/VB a/DT specified/VBN accuracy/NN ./.
+This/DT optimal/JJ algorithm/NN is/VBZ not/RB adaptive/JJ however/RB ./.
+Using/VBG tools/NNS from/IN online/JJ loss/NN minimization/NN ,/, we/PRP derive/VBP an/DT adaptive/JJ online/JJ boosting/VBG algorithm/NN that/WDT is/VBZ also/RB parameter/NN -/HYPH free/JJ ,/, but/CC not/RB optimal/JJ ./.
+Both/DT algorithms/NNS work/VBP with/IN base/NN learners/NNS that/WDT can/MD handle/VB example/NN importance/NN weights/NNS directly/RB ,/, as/RB well/RB as/IN by/IN rejection/NN sampling/NN examples/NNS with/IN probability/NN defined/VBN by/IN the/DT booster/NN ./.
+Results/NNS are/VBP complemented/VBN with/IN an/DT extensive/JJ experimental/JJ study/NN ./.

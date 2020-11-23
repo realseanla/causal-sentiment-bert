@@ -1,0 +1,5 @@
+We/PRP study/VBP a/DT symmetric/JJ collaborative/JJ dialogue/NN setting/NN in/IN which/WDT two/CD agents/NNS ,/, each/DT with/IN private/JJ knowledge/NN ,/, must/MD strategically/RB communicate/VB to/TO achieve/VB a/DT common/JJ goal/NN ./.
+The/DT open/JJ -/HYPH ended/JJ dialogue/NN state/NN in/IN this/DT setting/NN poses/VBZ new/JJ challenges/NNS for/IN existing/VBG dialogue/NN systems/NNS ./.
+We/PRP collected/VBD a/DT dataset/NN of/IN 11K/NN human/JJ -/HYPH human/JJ dialogues/NNS ,/, which/WDT exhibits/VBZ interesting/JJ lexical/JJ ,/, semantic/JJ ,/, and/CC strategic/JJ elements/NNS ./.
+To/TO model/VB both/DT structured/JJ knowledge/NN and/CC unstructured/JJ language/NN ,/, we/PRP propose/VBP a/DT neural/JJ model/NN with/IN dynamic/JJ knowledge/NN graph/NN embeddings/NNS that/WDT evolve/VBP as/IN the/DT dialogue/NN progresses/VBZ ./.
+Automatic/NNP and/CC human/JJ evaluations/NNS show/VBP that/IN our/PRP$ model/NN is/VBZ both/CC more/JJR effective/JJ at/IN achieving/VBG the/DT goal/NN and/CC more/JJR human/JJ -/HYPH like/JJ than/IN baseline/NN neural/JJ and/CC rule/NN -/HYPH based/VBN models/NNS ./.

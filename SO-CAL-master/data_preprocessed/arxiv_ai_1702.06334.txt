@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT novel/JJ algorithm/NN that/WDT synthesizes/VBZ imperative/JJ programs/NNS for/IN introductory/JJ programming/NN courses/NNS ./.
+Given/VBN a/DT set/NN of/IN input/NN -/HYPH output/NN examples/NNS and/CC a/DT partial/JJ program/NN ,/, our/PRP$ algorithm/NN generates/VBZ a/DT complete/JJ program/NN that/WDT is/VBZ consistent/JJ with/IN every/DT example/NN ./.
+Our/PRP$ key/JJ idea/NN is/VBZ to/TO combine/VB enumerative/JJ program/NN synthesis/NN and/CC static/NN analysis/NN ,/, which/WDT aggressively/RB prunes/VBZ out/RP a/DT large/JJ search/NN space/NN while/IN guaranteeing/VBG to/TO find/VB ,/, if/IN any/DT ,/, a/DT correct/JJ solution/NN ./.
+We/PRP have/VBP implemented/VBN our/PRP$ algorithm/NN in/IN a/DT tool/NN ,/, called/VBN SIMPL/NNP ,/, and/CC evaluated/VBD it/PRP on/IN 30/CD problems/NNS used/VBN in/IN introductory/JJ programming/NN courses/NNS ./.
+The/DT results/NNS show/VBP that/IN SIMPL/NNP is/VBZ able/JJ to/TO solve/VB the/DT benchmark/NN problems/NNS in/IN 6.6/CD seconds/NNS on/IN average/JJ ./.

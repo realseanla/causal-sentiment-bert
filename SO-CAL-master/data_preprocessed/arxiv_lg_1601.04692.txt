@@ -1,0 +1,9 @@
+This/DT is/VBZ a/DT survey/NN of/IN the/DT method/NN of/IN graph/NN cuts/NNS and/CC its/PRP$ applications/NNS to/IN graph/NN clustering/NN of/IN weighted/JJ unsigned/JJ and/CC signed/VBD graphs/NNS ./.
+I/PRP provide/VBP a/DT fairly/RB thorough/JJ treatment/NN of/IN the/DT method/NN of/IN normalized/VBN graph/NN cuts/NNS ,/, a/DT deeply/RB original/JJ method/NN due/IN to/IN Shi/NNP and/CC Malik/NNP ,/, including/VBG complete/JJ proofs/NNS ./.
+The/DT main/JJ thrust/NN of/IN this/DT paper/NN is/VBZ the/DT method/NN of/IN normalized/VBN cuts/NNS ./.
+I/PRP give/VBP a/DT detailed/JJ account/NN for/IN K/NN =/SYM 2/CD clusters/NNS ,/, and/CC also/RB for/IN K/NN &gt;/SYM 2/CD clusters/NNS ,/, based/VBN on/IN the/DT work/NN of/IN Yu/NNP and/CC Shi/NNP ./.
+I/PRP also/RB show/VBP how/WRB both/DT graph/NN drawing/NN and/CC normalized/VBN cut/NN K/NN -/HYPH clustering/NN can/MD be/VB easily/RB generalized/VBN to/TO handle/VB signed/VBN graphs/NNS ,/, which/WDT are/VBP weighted/JJ graphs/NNS in/IN which/WDT the/DT weight/NN matrix/NN W/NN may/MD have/VB negative/JJ coefficients/NNS ./.
+Intuitively/RB ,/, negative/JJ coefficients/NNS indicate/VBP distance/NN or/CC dissimilarity/NN ./.
+The/DT solution/NN is/VBZ to/TO replace/VB the/DT degree/NN matrix/NN by/IN the/DT matrix/NN in/IN which/WDT absolute/JJ values/NNS of/IN the/DT weights/NNS are/VBP used/VBN ,/, and/CC to/TO replace/VB the/DT Laplacian/NNP by/IN the/DT Laplacian/NNP with/IN the/DT new/JJ degree/NN matrix/NN of/IN absolute/JJ values/NNS ./.
+As/RB far/RB as/IN I/PRP know/VBP ,/, the/DT generalization/NN of/IN K/NN -/HYPH way/NN normalized/VBN clustering/NN to/IN signed/VBN graphs/NNS is/VBZ new/JJ ./.
+Finally/RB ,/, I/PRP show/VBP how/WRB the/DT method/NN of/IN ratio/NN cuts/NNS ,/, in/IN which/WDT a/DT cut/NN is/VBZ normalized/VBN by/IN the/DT size/NN of/IN the/DT cluster/NN rather/RB than/IN its/PRP$ volume/NN ,/, is/VBZ just/RB a/DT special/JJ case/NN of/IN normalized/VBN cuts/NNS ./.

@@ -1,0 +1,6 @@
+The/DT mirror/NN descent/NN algorithm/NN (/-LRB- MDA/NN )/-RRB- generalizes/VBZ gradient/NN descent/NN by/IN using/VBG a/DT Bregman/NNP di/NNP -/HYPH vergence/NNP to/TO replace/VB squared/JJ Euclidean/JJ distance/NN as/IN a/DT proximal/JJ function/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP simi/NN -/HYPH larly/JJ generalize/VB the/DT alternating/VBG direction/NN method/NN of/IN multipliers/NNS (/-LRB- ADMM/NNP )/-RRB- to/IN Bregman/NNP ADMM/NNP (/-LRB- BADMM/NNP )/-RRB- ,/, which/WDT uses/VBZ Bregman/NNP divergences/NNS as/IN proximal/JJ functions/NNS in/IN updates/NNS ./.
+BADMM/NNP allows/VBZ the/DT use/NN of/IN different/JJ Bregman/NNP divergences/NNS for/IN different/JJ variable/JJ updates/NNS and/CC involves/VBZ alternating/VBG MDA/NNP -/HYPH style/NN updates/NNS ,/, including/VBG alternating/VBG additive/JJ and/CC alternating/VBG multiplicative/JJ updates/NNS as/IN special/JJ cases/NNS ./.
+BADMM/NNP provides/VBZ a/DT unified/JJ framework/NN for/IN ADMM/NNP and/CC its/PRP$ variants/NNS ,/, including/VBG generalized/VBN ADMM/NNP and/CC inexact/JJ ADMM/NN ./.
+We/PRP establish/VBP the/DT global/JJ convergence/NN for/IN BADMM/NNP ./.
+We/PRP present/VBP promising/VBG preliminary/JJ empirical/JJ results/NNS for/IN BADMM/NNP applied/VBD to/IN opti/JJ -/HYPH mization/NN over/IN doubly/RB stochastic/JJ matrices/NNS ./.

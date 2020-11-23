@@ -1,0 +1,11 @@
+In/IN this/DT paper/NN we/PRP present/VBP refinement/NN modal/JJ logic/NN ./.
+A/DT refinement/NN is/VBZ like/IN a/DT bisimulation/NN ,/, except/IN that/IN from/IN the/DT three/CD relational/JJ requirements/NNS only/RB '/`` atoms/NNS '/'' and/CC '/`` back/RB '/'' need/NN to/TO be/VB satisfied/JJ ./.
+Our/PRP$ logic/NN contains/VBZ a/DT new/JJ operator/NN '/'' forall/NN '/'' in/IN additional/JJ to/IN the/DT standard/JJ modalities/NNS '/POS Box/NNP '/'' for/IN each/DT agent/NN ./.
+The/DT operator/NN '/'' forall/NN '/'' acts/VBZ as/IN a/DT quantifier/NN over/IN the/DT set/NN of/IN all/DT refinements/NNS of/IN a/DT given/VBN model/NN ./.
+We/PRP call/VBP it/PRP the/DT refinement/NN operator/NN ./.
+As/IN a/DT variation/NN on/IN a/DT bisimulation/NN quantifier/NN ,/, it/PRP can/MD be/VB seen/VBN as/IN a/DT refinement/NN quantifier/NN over/IN a/DT variable/JJ not/RB occurring/VBG in/IN the/DT formula/NN bound/VBN by/IN the/DT operator/NN ./.
+The/DT logic/NN combines/VBZ the/DT simplicity/NN of/IN multi-agent/JJ modal/JJ logic/NN with/IN some/DT powers/NNS of/IN monadic/JJ second/JJ order/NN quantification/NN ./.
+We/PRP present/VBP a/DT sound/NN and/CC complete/JJ axiomatization/NN of/IN multiagent/JJ refinement/NN modal/JJ logic/NN ./.
+We/PRP also/RB present/VBP an/DT extension/NN of/IN the/DT logic/NN to/IN the/DT modal/JJ mu/NN -/HYPH calculus/NN ,/, and/CC an/DT axiomatization/NN for/IN the/DT single/JJ -/HYPH agent/NN version/NN of/IN this/DT logic/NN ./.
+Examples/NNS and/CC applications/NNS are/VBP also/RB discussed/VBN :/: to/IN software/NN verification/NN and/CC design/NN (/-LRB- the/DT set/NN of/IN agents/NNS can/MD also/RB be/VB seen/VBN as/IN a/DT set/NN of/IN actions/NNS )/-RRB- ,/, and/CC to/IN dynamic/JJ epistemic/JJ logic/NN ./.
+We/PRP further/RB give/VBP detailed/JJ results/NNS on/IN the/DT complexity/NN of/IN satisfiability/NN ,/, and/CC on/IN succinctness/NN ./.

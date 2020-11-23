@@ -1,0 +1,5 @@
+While deep learning parsing approaches have proven very successful at finding the structure of sentences, most neural dependency parsers use neural networks only for feature extraction, and then use those features in traditional parsing algorithms.
+In contrast, this paper builds off recent work using general-purpose neural network components, training an attention mechanism over an LSTM to attend to the head of the phrase.
+We get state-of-the-art results for standard dependency parsing benchmarks, achieving 95.44 percent UAS and 93.76 percent LAS on the PTB dataset, 0.8 percent and 1.0 percent improvement, respectively, over Andor et al.
+(2016).
+In addition to proposing a new parsing architecture using dimensionality reduction and biaffine interactions, we examine simple hyperparameter choices that had a profound influence on the model's performance, such as reducing the value of beta2 in the Adam optimization algorithm.

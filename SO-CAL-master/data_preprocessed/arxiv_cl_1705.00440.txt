@@ -1,0 +1,4 @@
+The/DT quality/NN of/IN a/DT Neural/JJ Machine/NN Translation/NN system/NN depends/VBZ substantially/RB on/IN the/DT availability/NN of/IN sizable/JJ parallel/JJ corpora/NNS ./.
+For/IN low/JJ -/HYPH resource/NN language/NN pairs/NNS this/DT is/VBZ not/RB the/DT case/NN ,/, resulting/VBG in/IN poor/JJ translation/NN quality/NN ./.
+Inspired/VBN by/IN work/NN in/IN computer/NN vision/NN ,/, we/PRP propose/VBP a/DT novel/JJ data/NNS augmentation/NN approach/NN that/WDT targets/VBZ low/JJ -/HYPH frequency/NN words/NNS by/IN generating/VBG new/JJ sentence/NN pairs/NNS containing/VBG rare/JJ words/NNS in/IN new/JJ ,/, synthetically/RB created/VBN contexts/NNS ./.
+Experimental/JJ results/NNS on/IN simulated/JJ low/JJ -/HYPH resource/NN settings/NNS show/VBP that/IN our/PRP$ method/NN improves/VBZ translation/NN quality/NN by/IN up/RB to/IN 2.9/CD BLEU/NN points/NNS over/IN the/DT baseline/NN and/CC up/IN to/IN 3.2/CD BLEU/NN over/IN back/RB -/HYPH translation/NN ./.

@@ -1,0 +1,6 @@
+This/DT paper/NN deals/NNS with/IN the/DT representation/NN and/CC solution/NN of/IN asymmetric/JJ Bayesian/JJ decision/NN problems/NNS ./.
+We/PRP present/VBP a/DT formal/JJ framework/NN ,/, termed/VBN asymmetric/JJ influence/NN diagrams/NNS ,/, that/DT is/VBZ based/VBN on/IN the/DT influence/NN diagram/NN and/CC allows/VBZ an/DT efficient/JJ representation/NN of/IN asymmetric/JJ decision/NN problems/NNS ./.
+As/IN opposed/VBN to/IN existing/VBG frameworks/NNS ,/, the/DT asymmetric/JJ influece/NN diagram/NN primarily/RB encodes/VBZ asymmetry/NN at/IN the/DT qualitative/JJ level/NN and/CC it/PRP can/MD therefore/RB be/VB read/VBN directly/RB from/IN the/DT model/NN ./.
+We/PRP give/VBP an/DT algorithm/NN for/IN solving/VBG asymmetric/JJ influence/NN diagrams/NNS ./.
+The/DT algorithm/NN initially/RB decomposes/VBZ the/DT asymmetric/JJ decision/NN problem/NN into/IN a/DT structure/NN of/IN symmetric/JJ subproblems/NNS organized/VBN as/IN a/DT tree/NN ./.
+A/DT solution/NN to/IN the/DT decision/NN problem/NN can/MD then/RB be/VB found/VBN by/IN propagating/VBG from/IN the/DT leaves/NNS toward/IN the/DT root/NN using/VBG existing/VBG evaluation/NN methods/NNS to/TO solve/VB the/DT sub-problems/NNS ./.

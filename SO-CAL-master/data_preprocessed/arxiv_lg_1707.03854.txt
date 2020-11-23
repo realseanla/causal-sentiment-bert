@@ -1,0 +1,8 @@
+Given/VBN samples/NNS from/IN a/DT distribution/NN ,/, how/WRB many/JJ new/JJ elements/NNS should/MD we/PRP expect/VB to/TO find/VB if/IN we/PRP continue/VBP sampling/VBG this/DT distribution/NN ?/.
+This/DT is/VBZ an/DT important/JJ and/CC actively/RB studied/VBN problem/NN ,/, with/IN many/JJ applications/NNS ranging/VBG from/IN unseen/JJ species/NNS estimation/NN to/IN genomics/NNS ./.
+We/PRP generalize/VBP this/DT extrapolation/NN and/CC related/VBN unseen/JJ estimation/NN problems/NNS to/IN the/DT multiple/JJ population/NN setting/NN ,/, where/WRB population/NN $/NN j/NN $/$ has/VBZ an/DT unknown/JJ distribution/NN $/$ D_j/CD $/$ from/IN which/WDT we/PRP observe/VBP $/$ n_j/CD $/$ samples/NNS ./.
+We/PRP derive/VBP an/DT optimal/JJ estimator/NN for/IN the/DT total/JJ number/NN of/IN elements/NNS we/PRP expect/VBP to/TO find/VB among/IN new/JJ samples/NNS across/IN the/DT populations/NNS ./.
+Surprisingly/RB ,/, we/PRP prove/VBP that/IN our/PRP$ estimator/NN 's/POS accuracy/NN is/VBZ independent/JJ of/IN the/DT number/NN of/IN populations/NNS ./.
+We/PRP also/RB develop/VBP an/DT efficient/JJ optimization/NN algorithm/NN to/TO solve/VB the/DT more/RBR general/JJ problem/NN of/IN estimating/VBG multi-population/JJ frequency/NN distributions/NNS ./.
+We/PRP validate/VBP our/PRP$ methods/NNS and/CC theory/NN through/IN extensive/JJ experiments/NNS ./.
+Finally/RB ,/, on/IN a/DT real/JJ dataset/NN of/IN human/JJ genomes/NNS across/IN multiple/JJ ancestries/NNS ,/, we/PRP demonstrate/VBP how/WRB our/PRP$ approach/NN for/IN unseen/JJ estimation/NN can/MD enable/VB cohort/NN designs/NNS that/WDT can/MD discover/VB interesting/JJ mutations/NNS with/IN greater/JJR efficiency/NN ./.

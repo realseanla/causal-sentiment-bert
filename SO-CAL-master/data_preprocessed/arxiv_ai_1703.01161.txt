@@ -1,0 +1,8 @@
+We/PRP introduce/VBP FeUdal/NNP Networks/NNP (/-LRB- FuNs/NNS )/-RRB- :/: a/DT novel/JJ architecture/NN for/IN hierarchical/JJ reinforcement/NN learning/NN ./.
+Our/PRP$ approach/NN is/VBZ inspired/VBN by/IN the/DT feudal/JJ reinforcement/NN learning/VBG proposal/NN of/IN Dayan/NNP and/CC Hinton/NNP ,/, and/CC gains/NNS power/NN and/CC efficacy/NN by/IN decoupling/VBG end/NN -/HYPH to/IN -/HYPH end/NN learning/NN across/IN multiple/JJ levels/NNS --/: allowing/VBG it/PRP to/IN utilise/VB different/JJ resolutions/NNS of/IN time/NN ./.
+Our/PRP$ framework/NN employs/VBZ a/DT Manager/NN module/NN and/CC a/DT Worker/NN module/NN ./.
+The/DT Manager/NNP operates/VBZ at/IN a/DT lower/JJR temporal/JJ resolution/NN and/CC sets/NNS abstract/JJ goals/NNS which/WDT are/VBP conveyed/VBN to/IN and/CC enacted/VBN by/IN the/DT Worker/NN ./.
+The/DT Worker/NN generates/VBZ primitive/JJ actions/NNS at/IN every/DT tick/NN of/IN the/DT environment/NN ./.
+The/DT decoupled/VBN structure/NN of/IN FuN/NNP conveys/VBZ several/JJ benefits/NNS --/: in/IN addition/NN to/IN facilitating/VBG very/RB long/RB timescale/JJ credit/NN assignment/NN it/PRP also/RB encourages/VBZ the/DT emergence/NN of/IN sub-policies/NNS associated/VBN with/IN different/JJ goals/NNS set/VBN by/IN the/DT Manager/NN ./.
+These/DT properties/NNS allow/VBP FuN/NNP to/TO dramatically/RB outperform/VB a/DT strong/JJ baseline/NN agent/NN on/IN tasks/NNS that/WDT involve/VBP long/JJ -/HYPH term/NN credit/NN assignment/NN or/CC memorisation/NN ./.
+We/PRP demonstrate/VBP the/DT performance/NN of/IN our/PRP$ proposed/VBN system/NN on/IN a/DT range/NN of/IN tasks/NNS from/IN the/DT ATARI/NNP suite/NN and/CC also/RB from/IN a/DT 3D/NN DeepMind/NNP Lab/NNP environment/NN ./.

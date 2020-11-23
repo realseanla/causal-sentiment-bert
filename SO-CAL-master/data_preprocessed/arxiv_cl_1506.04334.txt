@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT simple/JJ ,/, scalable/JJ ,/, fully/RB generative/JJ model/NN for/IN transition/NN -/HYPH based/VBN dependency/NN parsing/VBG with/IN high/JJ accuracy/NN ./.
+The/DT model/NN ,/, parameterized/VBN by/IN Hierarchical/NNP Pitman/NNP -/HYPH Yor/NNP Processes/NNS ,/, overcomes/VBZ the/DT limitations/NNS of/IN previous/JJ generative/JJ models/NNS by/IN allowing/VBG fast/JJ and/CC accurate/JJ inference/NN ./.
+We/PRP propose/VBP an/DT efficient/JJ decoding/NN algorithm/NN based/VBN on/IN particle/NN filtering/NN that/WDT can/MD adapt/VB the/DT beam/NN size/NN to/IN the/DT uncertainty/NN in/IN the/DT model/NN while/IN jointly/RB predicting/VBG POS/NN tags/NNS and/CC parse/VB trees/NNS ./.
+The/DT UAS/NNS of/IN the/DT parser/NN is/VBZ on/IN par/NN with/IN that/DT of/IN a/DT greedy/JJ discriminative/JJ baseline/NN ./.
+As/IN a/DT language/NN model/NN ,/, it/PRP obtains/VBZ better/JJR perplexity/NN than/IN a/DT n/NN -/HYPH gram/NN model/NN by/IN performing/VBG semi-supervised/VBN learning/NN over/IN a/DT large/JJ unlabelled/JJ corpus/NN ./.
+We/PRP show/VBP that/IN the/DT model/NN is/VBZ able/JJ to/TO generate/VB locally/RB and/CC syntactically/RB coherent/JJ sentences/NNS ,/, opening/VBG the/DT door/NN to/TO further/RBR applications/NNS in/IN language/NN generation/NN ./.

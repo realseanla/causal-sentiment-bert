@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT novel/JJ approach/NN to/IN automatically/RB produce/VB multiple/JJ colorized/JJ versions/NNS of/IN a/DT grayscale/JJ image/NN ./.
+Our/PRP$ method/NN results/VBZ from/IN the/DT observation/NN that/IN the/DT task/NN of/IN automated/VBN colorization/NN is/VBZ relatively/RB easy/JJ given/VBN a/DT low/JJ -/HYPH resolution/NN version/NN of/IN the/DT color/NN image/NN ./.
+We/PRP first/RB train/VB a/DT conditional/JJ PixelCNN/NN to/TO generate/VB a/DT low/JJ resolution/NN color/NN for/IN a/DT given/VBN grayscale/NN image/NN ./.
+Then/RB ,/, given/VBN the/DT generated/VBN low/JJ -/HYPH resolution/NN color/NN image/NN and/CC the/DT original/JJ grayscale/NN image/NN as/IN inputs/NNS ,/, we/PRP train/VBP a/DT second/JJ CNN/NNP to/TO generate/VB a/DT high/JJ -/HYPH resolution/NN colorization/NN of/IN an/DT image/NN ./.
+We/PRP demonstrate/VBP that/IN our/PRP$ approach/NN produces/VBZ more/JJR diverse/JJ and/CC plausible/JJ colorizations/NNS than/IN existing/VBG methods/NNS ,/, as/IN judged/VBN by/IN human/JJ raters/NNS in/IN a/DT "/`` Visual/JJ Turing/NN Test/NN "/'' ./.

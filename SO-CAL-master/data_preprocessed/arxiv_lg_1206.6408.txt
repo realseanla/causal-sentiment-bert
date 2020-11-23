@@ -1,0 +1,5 @@
+We/PRP present/VBP algorithms/NNS for/IN nonparametric/JJ regression/NN in/IN settings/NNS where/WRB the/DT data/NNS are/VBP obtained/VBN sequentially/RB ./.
+While/IN traditional/JJ estimators/NNS select/VB bandwidths/NNS that/WDT depend/VBP upon/IN the/DT sample/NN size/NN ,/, for/IN sequential/JJ data/NNS the/DT effective/JJ sample/NN size/NN is/VBZ dynamically/RB changing/VBG ./.
+We/PRP propose/VBP a/DT linear/JJ time/NN algorithm/NN that/WDT adjusts/VBZ the/DT bandwidth/NN for/IN each/DT new/JJ data/NNS point/NN ,/, and/CC show/VBP that/IN the/DT estimator/NN achieves/VBZ the/DT optimal/JJ minimax/NN rate/NN of/IN convergence/NN ./.
+We/PRP also/RB propose/VBP the/DT use/NN of/IN online/JJ expert/NN mixing/VBG algorithms/NNS to/TO adapt/VB to/IN unknown/JJ smoothness/NN of/IN the/DT regression/NN function/NN ./.
+We/PRP provide/VBP simulations/NNS that/WDT confirm/VBP the/DT theoretical/JJ results/NNS ,/, and/CC demonstrate/VBP the/DT effectiveness/NN of/IN the/DT methods/NNS ./.

@@ -1,0 +1,5 @@
+Many sequential processing tasks require complex nonlinear transition functions from one step to the next.
+However, recurrent neural networks with such 'deep' transition functions remain difficult to train, even when using Long Short-Term Memory networks.
+We introduce a novel theoretical analysis of recurrent networks based on Ger\v{s}gorin's circle theorem that illuminates several modeling and optimization issues and improves our understanding of the LSTM cell.
+Based on this analysis we propose Recurrent Highway Networks (RHN), which are long not only in time but also in space, generalizing LSTMs to larger step-to-step depths.
+Experiments indicate that the proposed architecture results in complex but efficient models, beating previous models for character prediction on the Hutter Prize dataset with less than half of the parameters.

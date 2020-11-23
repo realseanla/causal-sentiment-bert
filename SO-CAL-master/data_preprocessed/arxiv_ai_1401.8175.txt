@@ -1,0 +1,11 @@
+We/PRP study/VBP a/DT probability/NN distribution/NN d/NN on/IN the/DT truth/NN assignments/NNS to/IN a/DT uniform/JJ binary/JJ AND/CC -/HYPH OR/CC tree/NN ./.
+Liu/NNP and/CC Tanaka/NNP [/-LRB- 2007/CD ,/, Inform/VB ./.
+Process/NN ./.
+Lett/NNP ./. ]/-RRB-
+showed/VBD the/DT following/VBG :/: If/IN d/NN achieves/VBZ the/DT equilibrium/NN among/IN independent/JJ distributions/NNS (/-LRB- ID/NN )/-RRB- then/RB d/NN is/VBZ an/DT independent/JJ identical/JJ distribution/NN (/-LRB- IID/NN )/-RRB- ./.
+We/PRP show/VBP a/DT stronger/JJR form/NN of/IN the/DT above/JJ result/NN ./.
+Given/VBN a/DT real/JJ number/NN r/VBP such/JJ that/IN 0/CD &lt;/SYM r/NN &lt;/SYM 1/CD ,/, we/PRP consider/VBP a/DT constraint/NN that/IN the/DT probability/NN of/IN the/DT root/NN node/NN having/VBG the/DT value/NN 0/CD is/VBZ r/NN ./.
+Our/PRP$ main/JJ result/NN is/VBZ the/DT following/VBG :/: When/WRB we/PRP restrict/VBP ourselves/PRP to/IN IDs/NNS satisfying/VBG this/DT constraint/NN ,/, the/DT above/JJ result/NN of/IN Liu/NNP and/CC Tanaka/NNP still/RB holds/VBZ ./.
+The/DT proof/NN employs/VBZ clever/JJ tricks/NNS of/IN induction/NN ./.
+In/IN particular/JJ ,/, we/PRP show/VBP two/CD fundamental/JJ relationships/NNS between/IN expected/VBN cost/NN and/CC probability/NN in/IN an/DT IID/NN on/IN an/DT OR/NNP -/HYPH AND/CC tree/NN :/: (/-LRB- 1/LS )/-RRB- The/DT ratio/NN of/IN the/DT cost/NN and/CC the/DT probability/NN (/-LRB- of/IN the/DT root/NN having/VBG the/DT value/NN 0/CD )/-RRB- is/VBZ a/DT decreasing/VBG function/NN of/IN the/DT probability/NN x/NN of/IN the/DT leaf/NN ./.
+(/-LRB- 2/LS )/-RRB- The/DT ratio/NN of/IN derivative/NN of/IN the/DT cost/NN and/CC the/DT derivative/NN of/IN the/DT probability/NN is/VBZ decreasing/VBG function/NN of/IN x/NN ,/, too/RB ./.

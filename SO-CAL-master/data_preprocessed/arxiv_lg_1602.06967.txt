@@ -1,0 +1,6 @@
+Probabilistic/JJ Linear/NNP Discriminant/NNP Analysis/NNP (/-LRB- PLDA/NNP )/-RRB- has/VBZ become/VBN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN method/NN for/IN modeling/VBG $/$ i/CD $/$ -/HYPH vector/NN space/NN in/IN speaker/NN recognition/NN task/NN ./.
+However/RB the/DT performance/NN degradation/NN is/VBZ observed/VBN if/IN enrollment/NN data/NNS size/NN differs/VBZ from/IN one/CD speaker/NN to/IN another/DT ./.
+This/DT paper/NN presents/VBZ a/DT solution/NN to/IN such/JJ problem/NN by/IN introducing/VBG new/JJ PLDA/NNP scoring/VBG normalization/NN technique/NN ./.
+Normalization/NN parameters/NNS are/VBP derived/VBN in/IN a/DT blind/JJ way/NN ,/, so/IN that/IN ,/, unlike/IN traditional/JJ \/SYM textit/FW {/-LRB- ZT/NNP -/HYPH norm/NN }/-RRB- ,/, no/DT extra/JJ development/NN data/NNS is/VBZ required/VBN ./.
+Moreover/RB ,/, proposed/VBN method/NN has/VBZ shown/VBN to/TO be/VB optimal/JJ in/IN terms/NNS of/IN detection/NN cost/NN function/NN ./.
+The/DT experiments/NNS conducted/VBN on/IN NIST/NNP SRE/NNP 2014/CD database/NN demonstrate/VBP an/DT improved/VBN accuracy/NN in/IN a/DT mixed/JJ enrollment/NN number/NN condition/NN ./.

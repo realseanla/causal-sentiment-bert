@@ -1,0 +1,6 @@
+TD/NN (/-LRB- 0/CD )/-RRB- is/VBZ one/CD of/IN the/DT most/RBS commonly/RB used/VBN algorithms/NNS in/IN reinforcement/NN learning/NN ./.
+Despite/IN this/DT ,/, there/EX is/VBZ no/DT existing/VBG finite/NN sample/NN analysis/NN for/IN TD/NN (/-LRB- 0/CD )/-RRB- with/IN function/NN approximation/NN ,/, even/RB for/IN the/DT linear/JJ case/NN ./.
+Our/PRP$ work/NN is/VBZ the/DT first/JJ to/TO provide/VB such/PDT a/DT result/NN ./.
+Works/NNS that/WDT managed/VBD to/TO obtain/VB concentration/NN bounds/NNS for/IN online/JJ Temporal/JJ Difference/NN (/-LRB- TD/NN )/-RRB- methods/NNS analyzed/VBN modified/VBN versions/NNS of/IN them/PRP ,/, carefully/RB crafted/VBN for/IN the/DT analyses/NNS to/TO hold/VB ./.
+These/DT modifications/NNS include/VBP projections/NNS and/CC step/NN -/HYPH sizes/NNS dependent/JJ on/IN unknown/JJ problem/NN parameters/NNS ./.
+Our/PRP$ analysis/NN obviates/VBZ these/DT artificial/JJ alterations/NNS by/IN exploiting/VBG strong/JJ properties/NNS of/IN TD/NN (/-LRB- 0/CD )/-RRB- and/CC tailor/NN -/HYPH made/VBN stochastic/JJ approximation/NN tools/NNS ./.

@@ -1,0 +1,11 @@
+The/DT expectation/NN and/CC the/DT mean/NN of/IN partitions/NNS generated/VBN by/IN a/DT cluster/NN ensemble/NN are/VBP not/RB unique/JJ in/IN general/JJ ./.
+This/DT issue/NN poses/VBZ challenges/NNS in/IN statistical/JJ inference/NN and/CC cluster/NN stability/NN ./.
+In/IN this/DT contribution/NN ,/, we/PRP state/VBP sufficient/JJ conditions/NNS for/IN uniqueness/NN of/IN expectation/NN and/CC mean/VB ./.
+The/DT proposed/VBN conditions/NNS show/VBP that/IN a/DT unique/JJ mean/NN is/VBZ neither/CC exceptional/JJ nor/CC generic/JJ ./.
+To/TO cope/VB with/IN this/DT issue/NN ,/, we/PRP introduce/VBP homogeneity/NN as/IN a/DT measure/NN of/IN how/WRB likely/JJ is/VBZ a/DT unique/JJ mean/NN for/IN a/DT sample/NN of/IN partitions/NNS ./.
+We/PRP show/VBP that/IN homogeneity/NN is/VBZ related/VBN to/IN cluster/NN stability/NN ./.
+This/DT result/NN points/VBZ to/IN a/DT possible/JJ conflict/NN between/IN cluster/NN stability/NN and/CC diversity/NN in/IN consensus/NN clustering/NN ./.
+To/TO assess/VB homogeneity/NN in/IN a/DT practical/JJ setting/NN ,/, we/PRP propose/VBP an/DT efficient/JJ way/NN to/IN compute/VB a/DT lower/JJR bound/VBN of/IN homogeneity/NN ./.
+Empirical/JJ results/NNS using/VBG the/DT k/NN -/HYPH means/NN algorithm/NN suggest/VBP that/IN uniqueness/NN of/IN the/DT mean/JJ partition/NN is/VBZ not/RB exceptional/JJ for/IN real/JJ -/HYPH world/NN data/NNS ./.
+Moreover/RB ,/, for/IN samples/NNS of/IN high/JJ homogeneity/NN ,/, uniqueness/NN can/MD be/VB enforced/VBN by/IN increasing/VBG the/DT number/NN of/IN data/NNS points/NNS or/CC by/IN removing/VBG outlier/NN partitions/NNS ./.
+In/IN a/DT broader/JJR context/NN ,/, this/DT contribution/NN can/MD be/VB placed/VBN as/IN a/DT further/JJ step/NN towards/IN a/DT statistical/JJ theory/NN of/IN partitions/NNS ./.

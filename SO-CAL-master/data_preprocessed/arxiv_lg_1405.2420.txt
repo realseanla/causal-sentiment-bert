@@ -1,0 +1,9 @@
+The/DT fundamental/JJ theorem/NN of/IN statistical/JJ learning/NN states/NNS that/WDT for/IN binary/JJ classification/NN problems/NNS ,/, any/DT Empirical/JJ Risk/NN Minimization/NN (/-LRB- ERM/NN )/-RRB- learning/NN rule/NN has/VBZ close/RB to/IN optimal/JJ sample/NN complexity/NN ./.
+In/IN this/DT paper/NN we/PRP seek/VBP for/IN a/DT generic/JJ optimal/JJ learner/NN for/IN multiclass/NN prediction/NN ./.
+We/PRP start/VBP by/IN proving/VBG a/DT surprising/JJ result/NN :/: a/DT generic/JJ optimal/JJ multiclass/NN learner/NN must/MD be/VB improper/JJ ,/, namely/RB ,/, it/PRP must/MD have/VB the/DT ability/NN to/TO output/NN hypotheses/NNS which/WDT do/VBP not/RB belong/VB to/IN the/DT hypothesis/NN class/NN ,/, even/RB though/IN it/PRP knows/VBZ that/IN all/PDT the/DT labels/NNS are/VBP generated/VBN by/IN some/DT hypothesis/NN from/IN the/DT class/NN ./.
+In/IN particular/JJ ,/, no/DT ERM/NNP learner/NN is/VBZ optimal/JJ ./.
+This/DT brings/VBZ back/RP the/DT fundmamental/JJ question/NN of/IN "/`` how/WRB to/TO learn/VB "/`` ?/.
+We/PRP give/VBP a/DT complete/JJ answer/NN to/IN this/DT question/NN by/IN giving/VBG a/DT new/JJ analysis/NN of/IN the/DT one/CD -/HYPH inclusion/NN multiclass/NN learner/NN of/IN Rubinstein/NNP et/FW al/FW (/-LRB- 2006/CD )/-RRB- showing/VBG that/IN its/PRP$ sample/NN complexity/NN is/VBZ essentially/RB optimal/JJ ./.
+Then/RB ,/, we/PRP turn/VBP to/TO study/VB the/DT popular/JJ hypothesis/NN class/NN of/IN generalized/VBN linear/JJ classifiers/NNS ./.
+We/PRP derive/VBP optimal/JJ learners/NNS that/WDT ,/, unlike/IN the/DT one/CD -/HYPH inclusion/NN algorithm/NN ,/, are/VBP computationally/RB efficient/JJ ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN the/DT sample/NN complexity/NN of/IN these/DT learners/NNS is/VBZ better/JJR than/IN the/DT sample/NN complexity/NN of/IN the/DT ERM/NNP rule/NN ,/, thus/RB settling/VBG in/IN negative/JJ an/DT open/JJ question/NN due/IN to/IN Collins/NNP (/-LRB- 2005/CD )/-RRB- ./.

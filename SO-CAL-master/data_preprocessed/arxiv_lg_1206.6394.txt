@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT non-parametric/JJ link/NN prediction/NN algorithm/NN for/IN a/DT sequence/NN of/IN graph/NN snapshots/NNS over/IN time/NN ./.
+The/DT model/NN predicts/VBZ links/NNS based/VBN on/IN the/DT features/NNS of/IN its/PRP$ endpoints/NNS ,/, as/RB well/RB as/IN those/DT of/IN the/DT local/JJ neighborhood/NN around/IN the/DT endpoints/NNS ./.
+This/DT allows/VBZ for/IN different/JJ types/NNS of/IN neighborhoods/NNS in/IN a/DT graph/NN ,/, each/DT with/IN its/PRP$ own/JJ dynamics/NNS (/-LRB- e.g/NN ,/, growing/VBG or/CC shrinking/VBG communities/NNS )/-RRB- ./.
+We/PRP prove/VBP the/DT consistency/NN of/IN our/PRP$ estimator/NN ,/, and/CC give/VB a/DT fast/JJ implementation/NN based/VBN on/IN locality/NN -/HYPH sensitive/JJ hashing/VBG ./.
+Experiments/NNS with/IN simulated/VBN as/RB well/RB as/IN five/CD real/JJ -/HYPH world/NN dynamic/JJ graphs/NNS show/VBP that/IN we/PRP outperform/VBP the/DT state/NN of/IN the/DT art/NN ,/, especially/RB when/WRB sharp/JJ fluctuations/NNS or/CC non-linearities/NNS are/VBP present/JJ ./.

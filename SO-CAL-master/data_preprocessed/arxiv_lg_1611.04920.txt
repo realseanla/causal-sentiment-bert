@@ -1,0 +1,9 @@
+Gaussian/JJ graphical/JJ models/NNS (/-LRB- GGMs/NNS )/-RRB- are/VBP widely/RB used/VBN for/IN statistical/JJ modeling/NN ,/, because/IN of/IN ease/NN of/IN inference/NN and/CC the/DT ubiquitous/JJ use/NN of/IN the/DT normal/JJ distribution/NN in/IN practical/JJ approximations/NNS ./.
+However/RB ,/, they/PRP are/VBP also/RB known/VBN for/IN their/PRP$ limited/JJ modeling/NN abilities/NNS ,/, due/IN to/IN the/DT Gaussian/NNP assumption/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT novel/JJ variant/NN of/IN GGMs/NNS ,/, which/WDT relaxes/VBZ the/DT Gaussian/JJ restriction/NN and/CC yet/RB admits/VBZ efficient/JJ inference/NN ./.
+Specifically/RB ,/, we/PRP impose/VBP a/DT bipartite/JJ structure/NN on/IN the/DT GGM/NN and/CC govern/VBP the/DT hidden/JJ variables/NNS by/IN truncated/VBN normal/JJ distributions/NNS ./.
+The/DT nonlinearity/NN of/IN the/DT model/NN is/VBZ revealed/VBN by/IN its/PRP$ connection/NN to/IN rectified/VBN linear/JJ unit/NN (/-LRB- ReLU/NN )/-RRB- neural/JJ networks/NNS ./.
+Meanwhile/RB ,/, thanks/NNS to/IN the/DT bipartite/JJ structure/NN and/CC appealing/VBG properties/NNS of/IN truncated/VBN normals/NNS ,/, we/PRP are/VBP able/JJ to/TO train/VB the/DT models/NNS efficiently/RB using/VBG contrastive/JJ divergence/NN ./.
+We/PRP consider/VBP three/CD output/NN constructs/NNS ,/, accounting/VBG for/IN real/JJ -/HYPH valued/VBN ,/, binary/JJ and/CC count/VB data/NNS ./.
+We/PRP further/RB extend/VBP the/DT model/NN to/IN deep/JJ structures/NNS and/CC show/VBP that/IN deep/JJ models/NNS can/MD be/VB used/VBN for/IN unsupervised/JJ pre-training/NN of/IN rectifier/NN neural/JJ networks/NNS ./.
+Extensive/JJ experimental/JJ results/NNS are/VBP provided/VBN to/TO validate/VB the/DT proposed/VBN models/NNS and/CC demonstrate/VBP their/PRP$ superiority/NN over/IN competing/VBG models/NNS ./.

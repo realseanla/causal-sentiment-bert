@@ -1,0 +1,5 @@
+Word/NNP embeddings/NNS resulting/VBG from/IN neural/JJ language/NN models/NNS have/VBP been/VBN shown/VBN to/TO be/VB successful/JJ for/IN a/DT large/JJ variety/NN of/IN NLP/NN tasks/NNS ./.
+However/RB ,/, such/JJ architecture/NN might/MD be/VB difficult/JJ to/TO train/VB and/CC time/NN -/HYPH consuming/VBG ./.
+Instead/RB ,/, we/PRP propose/VBP to/IN drastically/RB simplify/VB the/DT word/NN embeddings/NNS computation/NN through/IN a/DT Hellinger/NNP PCA/NNP of/IN the/DT word/NN co-occurence/NN matrix/NN ./.
+We/PRP compare/VBP those/DT new/JJ word/NN embeddings/NNS with/IN some/DT well/RB -/HYPH known/VBN embeddings/NNS on/IN NER/NN and/CC movie/NN review/NN tasks/NNS and/CC show/VBP that/IN we/PRP can/MD reach/VB similar/JJ or/CC even/RB better/JJR performance/NN ./.
+Although/IN deep/JJ learning/NN is/VBZ not/RB really/RB necessary/JJ for/IN generating/VBG good/JJ word/NN embeddings/NNS ,/, we/PRP show/VBP that/IN it/PRP can/MD provide/VB an/DT easy/JJ way/NN to/TO adapt/VB embeddings/NNS to/IN specific/JJ tasks/NNS ./.

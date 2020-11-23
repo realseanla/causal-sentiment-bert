@@ -1,0 +1,4 @@
+We/PRP analyze/VBP the/DT learning/NN properties/NNS of/IN the/DT stochastic/JJ gradient/NN method/NN when/WRB multiple/JJ passes/NNS over/IN the/DT data/NNS and/CC mini-batches/NNS are/VBP allowed/VBN ./.
+In/IN particular/JJ ,/, we/PRP consider/VBP the/DT square/JJ loss/NN and/CC show/VBP that/IN for/IN a/DT universal/JJ step/NN -/HYPH size/NN choice/NN ,/, the/DT number/NN of/IN passes/NNS acts/VBZ as/IN a/DT regularization/NN parameter/NN ,/, and/CC optimal/JJ finite/JJ sample/NN bounds/NNS can/MD be/VB achieved/VBN by/IN early/JJ -/HYPH stopping/NN ./.
+Moreover/RB ,/, we/PRP show/VBP that/IN larger/JJR step/NN -/HYPH sizes/NNS are/VBP allowed/VBN when/WRB considering/VBG mini-batches/NNS ./.
+Our/PRP$ analysis/NN is/VBZ based/VBN on/IN a/DT unifying/JJ approach/NN ,/, encompassing/VBG both/DT batch/NN and/CC stochastic/JJ gradient/NN methods/NNS as/IN special/JJ cases/NNS ./.

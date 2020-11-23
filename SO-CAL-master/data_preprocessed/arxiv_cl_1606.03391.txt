@@ -1,0 +1,9 @@
+This/DT work/NN focuses/VBZ on/IN answering/VBG single/JJ -/HYPH relation/NN factoid/NN questions/NNS over/IN Freebase/NN ./.
+Each/DT question/NN can/MD acquire/VB the/DT answer/NN from/IN a/DT single/JJ fact/NN of/IN form/NN (/-LRB- subject/NN ,/, predicate/NN ,/, object/NN )/-RRB- in/IN Freebase/NN ./.
+This/DT task/NN ,/, simple/JJ question/NN answering/VBG (/-LRB- SimpleQA/NN )/-RRB- ,/, can/MD be/VB addressed/VBN via/IN a/DT two/CD -/HYPH step/NN pipeline/NN :/: entity/NN linking/VBG and/CC fact/NN selection/NN ./.
+In/IN fact/NN selection/NN ,/, we/PRP match/VBP the/DT subject/JJ entity/NN in/IN fact/NN with/IN the/DT entity/NN mention/NN in/IN question/NN by/IN a/DT character/NN -/HYPH level/NN convolutional/JJ neural/JJ network/NN (/-LRB- char/NN -/HYPH CNN/NN )/-RRB- ,/, and/CC match/VB the/DT predicate/NN in/IN fact/NN with/IN the/DT question/NN by/IN a/DT word/NN -/HYPH level/NN CNN/NNP (/-LRB- word/NN -/HYPH CNN/NN )/-RRB- ./.
+This/DT work/NN makes/VBZ two/CD main/JJ contributions/NNS ./.
+(/-LRB- i/LS )/-RRB- A/DT simple/JJ and/CC effective/JJ entity/NN linker/NN over/IN Freebase/NN is/VBZ proposed/VBN ./.
+Our/PRP$ entity/NN linker/NN outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN entity/NN linker/NN of/IN SimpleQA/NNP task/NN ./.
+(/-LRB- ii/LS )/-RRB- A/DT novel/JJ attentive/JJ maxpooling/NN is/VBZ stacked/VBN over/IN word/NN -/HYPH CNN/NN ,/, so/IN that/IN the/DT predicate/NN representation/NN can/MD be/VB matched/VBN with/IN the/DT predicate/NN -/HYPH focused/VBN question/NN representation/NN more/RBR effectively/RB ./.
+Experiments/NNS show/VBP that/IN our/PRP$ system/NN sets/VBZ new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN this/DT task/NN ./.

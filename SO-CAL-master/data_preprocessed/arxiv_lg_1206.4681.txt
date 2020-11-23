@@ -1,0 +1,6 @@
+MAP/NN inference/NN for/IN general/JJ energy/NN functions/NNS remains/VBZ a/DT challenging/JJ problem/NN ./.
+While/IN most/JJS efforts/NNS are/VBP channeled/VBN towards/IN improving/VBG the/DT linear/JJ programming/NN (/-LRB- LP/NN )/-RRB- based/VBN relaxation/NN ,/, this/DT work/NN is/VBZ motivated/VBN by/IN the/DT quadratic/JJ programming/NN (/-LRB- QP/NN )/-RRB- relaxation/NN ./.
+We/PRP propose/VBP a/DT novel/JJ MAP/NN relaxation/NN that/WDT penalizes/VBZ the/DT Kullback/NNP -/HYPH Leibler/NNP divergence/NN between/IN the/DT LP/NN pairwise/JJ auxiliary/JJ variables/NNS ,/, and/CC QP/NN equivalent/JJ terms/NNS given/VBN by/IN the/DT product/NN of/IN the/DT unaries/NNS ./.
+We/PRP develop/VBP two/CD efficient/JJ algorithms/NNS based/VBN on/IN variants/NNS of/IN this/DT relaxation/NN ./.
+The/DT algorithms/NNS minimize/VB the/DT non-convex/JJ objective/NN using/VBG belief/NN propagation/NN and/CC dual/JJ decomposition/NN as/IN building/NN blocks/NNS ./.
+Experiments/NNS on/IN synthetic/JJ and/CC real/JJ -/HYPH world/NN data/NNS show/VBP that/IN the/DT solutions/NNS returned/VBN by/IN our/PRP$ algorithms/NNS substantially/RB improve/VB over/IN the/DT LP/NN relaxation/NN ./.

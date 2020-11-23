@@ -1,0 +1,8 @@
+We/PRP discuss/VBP the/DT problem/NN in/IN which/WDT an/DT autonomous/JJ vehicle/NN must/MD classify/VB an/DT object/NN based/VBN on/IN multiple/JJ views/NNS ./.
+We/PRP focus/VBP on/IN the/DT active/JJ classification/NN setting/NN ,/, where/WRB the/DT vehicle/NN controls/NNS which/WDT views/VBZ to/TO select/VB to/TO best/JJS perform/VB the/DT classification/NN ./.
+The/DT problem/NN is/VBZ formulated/VBN as/IN an/DT extension/NN to/IN Bayesian/JJ active/JJ learning/NN ,/, and/CC we/PRP show/VBP connections/NNS to/IN recent/JJ theoretical/JJ guarantees/NNS in/IN this/DT area/NN ./.
+We/PRP formally/RB analyze/VB the/DT benefit/NN of/IN acting/VBG adaptively/RB as/IN new/JJ information/NN becomes/VBZ available/JJ ./.
+The/DT analysis/NN leads/VBZ to/IN a/DT probabilistic/JJ algorithm/NN for/IN determining/VBG the/DT best/JJS views/NNS to/TO observe/VB based/VBN on/IN information/NN theoretic/JJ costs/NNS ./.
+We/PRP validate/VBP our/PRP$ approach/NN in/IN two/CD ways/NNS ,/, both/CC related/VBN to/IN underwater/JJ inspection/NN :/: 3D/NN polyhedra/NN recognition/NN in/IN synthetic/JJ depth/NN maps/NNS and/CC ship/NN hull/NN inspection/NN with/IN imaging/NN sonar/NN ./.
+These/DT tasks/NNS encompass/VBP both/CC the/DT planning/NN and/CC recognition/NN aspects/NNS of/IN the/DT active/JJ classification/NN problem/NN ./.
+The/DT results/NNS demonstrate/VBP that/IN actively/RB planning/VBG for/IN informative/JJ views/NNS can/MD reduce/VB the/DT number/NN of/IN necessary/JJ views/NNS by/IN up/RB to/IN 80/CD percent/NN when/WRB compared/VBN to/IN passive/JJ methods/NNS ./.

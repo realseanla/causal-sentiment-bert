@@ -1,0 +1,5 @@
+We/PRP explore/VBP the/DT connection/NN between/IN dimensionality/NN and/CC communication/NN cost/NN in/IN distributed/VBN learning/NN problems/NNS ./.
+Specifically/RB we/PRP study/VBP the/DT problem/NN of/IN estimating/VBG the/DT mean/NN \/SYM vectheta/NN of/IN an/DT unknown/JJ d/NN dimensional/JJ normal/JJ distribution/NN in/IN the/DT distributed/VBN setting/NN ./.
+In/IN this/DT problem/NN ,/, the/DT samples/NNS from/IN the/DT unknown/JJ distribution/NN are/VBP distributed/VBN among/IN m/NNS different/JJ machines/NNS ./.
+The/DT goal/NN is/VBZ to/TO estimate/VB the/DT mean/NN \/SYM vectheta/NN at/IN the/DT optimal/JJ minimax/NN rate/NN while/IN communicating/VBG as/IN few/JJ bits/NNS as/IN possible/JJ ./.
+We/PRP show/VBP that/IN in/IN this/DT simple/JJ setting/NN ,/, the/DT communication/NN cost/NN scales/NNS linearly/RB in/IN the/DT number/NN of/IN dimensions/NNS i.e./FW one/CD needs/VBZ to/TO deal/VB with/IN different/JJ dimensions/NNS individually/RB ./.

@@ -1,0 +1,6 @@
+A/DT central/JJ unsolved/JJ problem/NN in/IN machine/NN learning/NN involves/VBZ modeling/NN complex/JJ data/NN -/HYPH sets/NNS using/VBG highly/RB flexible/JJ families/NNS of/IN probability/NN distributions/NNS in/IN which/WDT learning/NN ,/, sampling/NN ,/, inference/NN ,/, and/CC evaluation/NN are/VBP still/RB analytically/RB or/CC computationally/RB tractable/JJ ./.
+Previous/JJ approaches/NNS to/IN this/DT problem/NN are/VBP subject/JJ to/IN tradeoffs/NNS between/IN flexibility/NN and/CC tractability/NN ./.
+We/PRP develop/VBP a/DT promising/JJ approach/NN that/WDT simultaneously/RB achieves/VBZ both/DT ./.
+The/DT essential/JJ idea/NN ,/, inspired/VBN by/IN non-equilibrium/JJ statistical/JJ physics/NN ,/, is/VBZ to/TO systematically/RB and/CC slowly/RB destroy/VB structure/NN in/IN a/DT data/NN distribution/NN through/IN an/DT iterative/JJ forward/JJ diffusion/NN process/NN ./.
+We/PRP then/RB learn/VBP a/DT reverse/JJ diffusion/NN process/NN that/WDT restores/VBZ structure/NN in/IN data/NNS ,/, yielding/VBG a/DT highly/RB flexible/JJ and/CC tractable/JJ generative/JJ model/NN of/IN the/DT data/NNS ./.
+This/DT approach/NN allows/VBZ us/PRP to/TO rapidly/RB learn/VB ,/, sample/NN from/IN ,/, and/CC evaluate/VB probabilities/NNS in/IN deep/JJ generative/NN models/NNS with/IN thousands/NNS of/IN layers/NNS or/CC time/NN steps/NNS ./.

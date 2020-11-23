@@ -1,0 +1,5 @@
+Calibration/NN is/VBZ a/DT basic/JJ property/NN for/IN prediction/NN systems/NNS ,/, and/CC algorithms/NNS for/IN achieving/VBG it/PRP are/VBP well/RB -/HYPH studied/VBN in/IN both/CC statistics/NNS and/CC machine/NN learning/NN ./.
+In/IN many/JJ applications/NNS ,/, however/RB ,/, the/DT predictions/NNS are/VBP used/VBN to/TO make/VB decisions/NNS that/WDT select/VBP which/WDT observations/NNS are/VBP made/VBN ./.
+This/DT makes/VBZ calibration/NN difficult/JJ ,/, as/IN adjusting/VBG predictions/NNS to/TO achieve/VB calibration/NN changes/NNS future/JJ data/NNS ./.
+We/PRP focus/VBP on/IN click/NN -/HYPH through/IN -/HYPH rate/NN (/-LRB- CTR/NN )/-RRB- prediction/NN for/IN search/NN ad/NN auctions/NNS ./.
+Here/RB ,/, CTR/NNP predictions/NNS are/VBP used/VBN by/IN an/DT auction/NN that/WDT determines/VBZ which/WDT ads/NNS are/VBP shown/VBN ,/, and/CC we/PRP want/VBP to/TO maximize/VB the/DT value/NN generated/VBN by/IN the/DT auction/NN ./.

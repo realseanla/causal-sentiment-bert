@@ -1,0 +1,7 @@
+Online/NN learning/NN aims/VBZ to/TO perform/VB nearly/RB as/RB well/RB as/IN the/DT best/JJS hypothesis/NN in/IN hindsight/NN ./.
+For/IN some/DT hypothesis/NN classes/NNS ,/, though/RB ,/, even/RB finding/VBG the/DT best/JJS hypothesis/NN offline/RB is/VBZ challenging/JJ ./.
+In/IN such/JJ offline/RB cases/NNS ,/, local/JJ search/NN techniques/NNS are/VBP often/RB employed/VBN and/CC only/RB local/JJ optimality/NN guaranteed/VBN ./.
+For/IN online/JJ decision/NN -/HYPH making/VBG with/IN such/JJ hypothesis/NN classes/NNS ,/, we/PRP introduce/VBP local/JJ regret/NN ,/, a/DT generalization/NN of/IN regret/NN that/WDT aims/VBZ to/TO perform/VB nearly/RB as/RB well/RB as/IN only/RB nearby/JJ hypotheses/NNS ./.
+We/PRP then/RB present/VBP a/DT general/JJ algorithm/NN to/TO minimize/VB local/JJ regret/NN with/IN arbitrary/JJ locality/NN graphs/NNS ./.
+We/PRP also/RB show/VBP how/WRB the/DT graph/NN structure/NN can/MD be/VB exploited/VBN to/IN drastically/RB speed/NN learning/NN ./.
+These/DT algorithms/NNS are/VBP then/RB demonstrated/VBN on/IN a/DT diverse/JJ set/NN of/IN online/JJ problems/NNS :/: online/JJ disjunct/JJ learning/NN ,/, online/JJ Max/NNP -/HYPH SAT/NNP ,/, and/CC online/JJ decision/NN tree/NN learning/NN ./.

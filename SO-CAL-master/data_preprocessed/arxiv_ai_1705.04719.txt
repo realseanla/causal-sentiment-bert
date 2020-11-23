@@ -1,0 +1,4 @@
+We/PRP propose/VBP a/DT new/JJ mechanism/NN for/IN integration/NN of/IN OWL/NN ontologies/NNS using/VBG semantic/JJ import/NN relations/NNS ./.
+In/IN contrast/NN to/IN the/DT standard/JJ OWL/NN importing/VBG ,/, we/PRP do/VBP not/RB require/VB all/DT axioms/NNS of/IN the/DT imported/VBN ontologies/NNS to/TO be/VB taken/VBN into/IN account/NN for/IN reasoning/NN tasks/NNS ,/, but/CC only/RB their/PRP$ logical/JJ implications/NNS over/IN a/DT chosen/VBN signature/NN ./.
+This/DT property/NN comes/VBZ natural/JJ in/IN many/JJ ontology/NN integration/NN scenarios/NNS ,/, especially/RB when/WRB the/DT number/NN of/IN ontologies/NNS is/VBZ large/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP the/DT complexity/NN of/IN reasoning/NN over/IN ontologies/NNS with/IN semantic/JJ import/NN relations/NNS and/CC establish/VB a/DT range/NN of/IN tight/JJ complexity/NN bounds/NNS for/IN various/JJ fragments/NNS of/IN OWL/NN ./.

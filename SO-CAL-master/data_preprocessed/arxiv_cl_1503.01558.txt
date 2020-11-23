@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT novel/JJ method/NN for/IN aligning/VBG a/DT sequence/NN of/IN instructions/NNS to/IN a/DT video/NN of/IN someone/NN carrying/VBG out/RP a/DT task/NN ./.
+In/IN particular/JJ ,/, we/PRP focus/VBP on/IN the/DT cooking/NN domain/NN ,/, where/WRB the/DT instructions/NNS correspond/VBP to/IN the/DT recipe/NN ./.
+Our/PRP$ technique/NN relies/VBZ on/IN an/DT HMM/NN to/IN align/VB the/DT recipe/NN steps/NNS to/IN the/DT (/-LRB- automatically/RB generated/VBN )/-RRB- speech/NN transcript/NN ./.
+We/PRP then/RB refine/VB this/DT alignment/NN using/VBG a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN visual/JJ food/NN detector/NN ,/, based/VBN on/IN a/DT deep/JJ convolutional/JJ neural/JJ network/NN ./.
+We/PRP show/VBP that/IN our/PRP$ technique/NN outperforms/VBZ simpler/JJR techniques/NNS based/VBN on/IN keyword/NN spotting/NN ./.
+It/PRP also/RB enables/VBZ interesting/JJ applications/NNS ,/, such/JJ as/IN automatically/RB illustrating/VBG recipes/NNS with/IN keyframes/NNS ,/, and/CC searching/VBG within/IN a/DT video/NN for/IN events/NNS of/IN interest/NN ./.

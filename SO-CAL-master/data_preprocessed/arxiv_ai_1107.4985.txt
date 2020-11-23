@@ -1,0 +1,6 @@
+High/JJ dimensional/JJ time/NN series/NN are/VBP endemic/JJ in/IN applications/NNS of/IN machine/NN learning/VBG such/JJ as/IN robotics/NNS (/-LRB- sensor/NN data/NNS )/-RRB- ,/, computational/JJ biology/NN (/-LRB- gene/NN expression/NN data/NNS )/-RRB- ,/, vision/NN (/-LRB- video/NN sequences/NNS )/-RRB- and/CC graphics/NNS (/-LRB- motion/NN capture/NN data/NNS )/-RRB- ./.
+Practical/JJ nonlinear/JJ probabilistic/JJ approaches/NNS to/IN this/DT data/NNS are/VBP required/VBN ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP the/DT variational/JJ Gaussian/JJ process/NN dynamical/JJ system/NN ./.
+Our/PRP$ work/NN builds/VBZ on/IN recent/JJ variational/JJ approximations/NNS for/IN Gaussian/JJ process/NN latent/JJ variable/JJ models/NNS to/TO allow/VB for/IN nonlinear/JJ dimensionality/NN reduction/NN simultaneously/RB with/IN learning/VBG a/DT dynamical/JJ prior/JJ in/IN the/DT latent/JJ space/NN ./.
+The/DT approach/NN also/RB allows/VBZ for/IN the/DT appropriate/JJ dimensionality/NN of/IN the/DT latent/JJ space/NN to/TO be/VB automatically/RB determined/VBN ./.
+We/PRP demonstrate/VBP the/DT model/NN on/IN a/DT human/JJ motion/NN capture/NN data/NNS set/VBN and/CC a/DT series/NN of/IN high/JJ resolution/NN video/NN sequences/NNS ./.

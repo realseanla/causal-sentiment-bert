@@ -1,0 +1,5 @@
+Temporal/JJ abstraction/NN is/VBZ key/JJ to/IN scaling/VBG up/RP learning/NN and/CC planning/NN in/IN reinforcement/NN learning/NN ./.
+While/IN planning/VBG with/IN temporally/RB extended/VBN actions/NNS is/VBZ well/RB understood/VBN ,/, creating/VBG such/JJ abstractions/NNS autonomously/RB from/IN data/NNS has/VBZ remained/VBN challenging/JJ ./.
+We/PRP tackle/VBP this/DT problem/NN in/IN the/DT framework/NN of/IN options/NNS [/-LRB- Sutton/NNP ,/, Precup/NNP &amp;/CC Singh/NNP ,/, 1999/CD ;/: Precup/NNP ,/, 2000/CD ]/-RRB- ./.
+We/PRP derive/VBP policy/NN gradient/NN theorems/NNS for/IN options/NNS and/CC propose/VB a/DT new/JJ option/NN -/HYPH critic/NN architecture/NN capable/JJ of/IN learning/VBG both/CC the/DT internal/JJ policies/NNS and/CC the/DT termination/NN conditions/NNS of/IN options/NNS ,/, in/IN tandem/NN with/IN the/DT policy/NN over/IN options/NNS ,/, and/CC without/IN the/DT need/NN to/TO provide/VB any/DT additional/JJ rewards/NNS or/CC subgoals/NNS ./.
+Experimental/JJ results/NNS in/IN both/DT discrete/JJ and/CC continuous/JJ environments/NNS showcase/VB the/DT flexibility/NN and/CC efficiency/NN of/IN the/DT framework/NN ./.

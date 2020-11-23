@@ -1,0 +1,7 @@
+This/DT work/NN presents/VBZ novel/JJ algorithms/NNS for/IN learning/VBG Bayesian/JJ network/NN structures/NNS with/IN bounded/VBN treewidth/NN ./.
+Both/DT exact/JJ and/CC approximate/JJ methods/NNS are/VBP developed/VBN ./.
+The/DT exact/JJ method/NN combines/VBZ mixed/JJ -/HYPH integer/NN linear/JJ programming/NN formulations/NNS for/IN structure/NN learning/NN and/CC treewidth/NN computation/NN ./.
+The/DT approximate/JJ method/NN consists/VBZ in/IN uniformly/RB sampling/VBG $/$ k/CD $/$ -/HYPH trees/NNS (/-LRB- maximal/JJ graphs/NNS of/IN treewidth/JJ $/$ k/CD $/$ )/-RRB- ,/, and/CC subsequently/RB selecting/VBG ,/, exactly/RB or/CC approximately/RB ,/, the/DT best/JJS structure/NN whose/WP$ moral/JJ graph/NN is/VBZ a/DT subgraph/NN of/IN that/DT $/$ k/CD $/$ -/HYPH tree/NN ./.
+Some/DT properties/NNS of/IN these/DT methods/NNS are/VBP discussed/VBN and/CC proven/VBN ./.
+The/DT approaches/NNS are/VBP empirically/RB compared/VBN to/IN each/DT other/JJ and/CC to/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN method/NN for/IN learning/VBG bounded/VBD treewidth/JJ structures/NNS on/IN a/DT collection/NN of/IN public/JJ data/NN sets/NNS with/IN up/RB to/IN 100/CD variables/NNS ./.
+The/DT experiments/NNS show/VBP that/IN our/PRP$ exact/JJ algorithm/NN outperforms/VBZ the/DT state/NN of/IN the/DT art/NN ,/, and/CC that/IN the/DT approximate/JJ approach/NN is/VBZ fairly/RB accurate/JJ ./.

@@ -1,0 +1,7 @@
+Speech/NNP acts/NNS are/VBP a/DT way/NN to/TO conceptualize/VB speech/NN as/IN action/NN ./.
+This/DT holds/VBZ true/JJ for/IN communication/NN on/IN any/DT platform/NN ,/, including/VBG social/JJ media/NNS platforms/NNS such/JJ as/IN Twitter/NNP ./.
+In/IN this/DT paper/NN ,/, we/PRP explored/VBD speech/NN act/NN recognition/NN on/IN Twitter/NNP by/IN treating/VBG it/PRP as/IN a/DT multi-class/NN classification/NN problem/NN ./.
+We/PRP created/VBD a/DT taxonomy/NN of/IN six/CD speech/NN acts/VBZ for/IN Twitter/NNP and/CC proposed/VBD a/DT set/NN of/IN semantic/JJ and/CC syntactic/JJ features/NNS ./.
+We/PRP trained/VBD and/CC tested/VBD a/DT logistic/JJ regression/NN classifier/NN using/VBG a/DT data/NN set/NN of/IN manually/RB labelled/VBN tweets/NNS ./.
+Our/PRP$ method/NN achieved/VBD a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN with/IN an/DT average/JJ F1/NN score/NN of/IN more/JJR than/IN $/$ 0.70/CD $/$ ./.
+We/PRP also/RB explored/VBD classifiers/NNS with/IN three/CD different/JJ granularities/NNS (/-LRB- Twitter/NNP -/HYPH wide/JJ ,/, type/NN -/HYPH specific/JJ and/CC topic/NN -/HYPH specific/JJ )/-RRB- in/IN order/NN to/TO find/VB the/DT right/JJ balance/NN between/IN generalization/NN and/CC overfitting/VBG for/IN our/PRP$ task/NN ./.

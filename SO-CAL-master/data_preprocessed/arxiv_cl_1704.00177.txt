@@ -1,0 +1,11 @@
+Citation/NN sentiment/NN analysis/NN is/VBZ an/DT important/JJ task/NN in/IN scientific/JJ paper/NN analysis/NN ./.
+Existing/VBG machine/NN learning/NN techniques/NNS for/IN citation/NN sentiment/NN analysis/NN are/VBP focusing/VBG on/IN labor/NN -/HYPH intensive/JJ feature/NN engineering/NN ,/, which/WDT requires/VBZ large/JJ annotated/JJ corpus/NN ./.
+As/IN an/DT automatic/JJ feature/NN extraction/NN tool/NN ,/, word2vec/NN has/VBZ been/VBN successfully/RB applied/VBN to/IN sentiment/NN analysis/NN of/IN short/JJ texts/NNS ./.
+In/IN this/DT work/NN ,/, I/PRP conducted/VBD empirical/JJ research/NN with/IN the/DT question/NN :/: how/WRB well/RB does/VBZ word2vec/NN work/NN on/IN the/DT sentiment/NN analysis/NN of/IN citations/NNS ?/.
+The/DT proposed/JJ method/NN constructed/VBN sentence/NN vectors/NNS (/-LRB- sent2vec/NN )/-RRB- by/IN averaging/VBG the/DT word/NN embeddings/NNS ,/, which/WDT were/VBD learned/VBN from/IN Anthology/NN Collections/NNS (/-LRB- ACL/NN -/HYPH Embeddings/NNS )/-RRB- ./.
+I/PRP also/RB investigated/VBD polarity/NN -/HYPH specific/JJ word/NN embeddings/NNS (/-LRB- PS/NNP -/HYPH Embeddings/NNP )/-RRB- for/IN classifying/VBG positive/JJ and/CC negative/JJ citations/NNS ./.
+The/DT sentence/NN vectors/NNS formed/VBD a/DT feature/NN space/NN ,/, to/TO which/WDT the/DT examined/VBN citation/NN sentence/NN was/VBD mapped/VBN to/IN ./.
+Those/DT features/NNS were/VBD input/NN into/IN classifiers/NNS (/-LRB- support/NN vector/NN machines/NNS )/-RRB- for/IN supervised/JJ classification/NN ./.
+Using/VBG 10/CD -/HYPH cross-validation/NN scheme/NN ,/, evaluation/NN was/VBD conducted/VBN on/IN a/DT set/NN of/IN annotated/VBN citations/NNS ./.
+The/DT results/NNS showed/VBD that/IN word/NN embeddings/NNS are/VBP effective/JJ on/IN classifying/VBG positive/JJ and/CC negative/JJ citations/NNS ./.
+However/RB ,/, hand/NN -/HYPH crafted/VBN features/NNS performed/VBN better/RBR for/IN the/DT overall/JJ classification/NN ./.

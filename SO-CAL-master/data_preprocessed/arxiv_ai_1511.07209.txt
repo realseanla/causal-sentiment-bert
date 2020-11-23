@@ -1,0 +1,10 @@
+We/PRP introduce/VBP the/DT concept/NN of/IN continuous/JJ transportation/NN task/NN to/IN the/DT context/NN of/IN multi-agent/JJ systems/NNS ./.
+A/DT continuous/JJ transportation/NN task/NN is/VBZ one/CD in/IN which/WDT a/DT multi-agent/JJ team/NN visits/VBZ a/DT number/NN of/IN fixed/VBN locations/NNS ,/, picks/VBZ up/RP objects/NNS ,/, and/CC delivers/VBZ them/PRP to/IN a/DT final/JJ destination/NN ./.
+The/DT goal/NN is/VBZ to/TO maximize/VB the/DT rate/NN of/IN transportation/NN while/IN the/DT objects/NNS are/VBP replenished/VBN over/IN time/NN ./.
+Examples/NNS of/IN problems/NNS that/WDT need/VBP continuous/JJ transportation/NN are/VBP foraging/VBG ,/, area/NN sweeping/JJ ,/, and/CC first/JJ //HYPH last/JJ mile/NN problem/NN ./.
+Previous/JJ approaches/VBZ typically/RB neglect/NN the/DT interference/NN and/CC are/VBP highly/RB dependent/JJ on/IN communications/NNS among/IN agents/NNS ./.
+Some/DT also/RB incorporate/VB an/DT additional/JJ reconnaissance/NN agent/NN to/TO gather/VB information/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT hybrid/NN of/IN centralized/JJ and/CC distributed/VBN approaches/NNS that/WDT minimize/VB the/DT interference/NN and/CC communications/NNS in/IN the/DT multi-agent/JJ team/NN without/IN the/DT need/NN for/IN a/DT reconnaissance/NN agent/NN ./.
+We/PRP contribute/VBP two/CD partitioning/NN -/HYPH transportation/NN algorithms/NNS inspired/VBN by/IN existing/VBG algorithms/NNS ,/, and/CC contribute/VB one/CD novel/JJ online/JJ partitioning/NN -/HYPH transportation/NN algorithm/NN with/IN information/NN gathering/NN in/IN the/DT multi-agent/JJ team/NN ./.
+Our/PRP$ algorithms/NNS have/VBP been/VBN implemented/VBN and/CC tested/VBN extensively/RB in/IN the/DT simulation/NN ./.
+The/DT results/NNS presented/VBN in/IN this/DT paper/NN demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ algorithms/NNS that/WDT outperform/VBP the/DT existing/VBG algorithms/NNS ,/, even/RB without/IN any/DT communications/NNS between/IN the/DT agents/NNS and/CC without/IN the/DT presence/NN of/IN a/DT reconnaissance/NN agent/NN ./.

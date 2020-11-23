@@ -1,0 +1,7 @@
+Electromagnetismlike Optimization (EMO) is a global optimization algorithm, particularly well suited to solve problems featuring nonlinear and multimodal cost functions.
+EMO employs searcher agents that emulate a population of charged particles which interact to each other according to electromagnetisms laws of attraction and repulsion.
+However, EMO usually requires a large number of iterations for a local search procedure; any reduction or cancelling over such number, critically perturb other issues such as convergence, exploration, population diversity and accuracy.
+This paper presents an enhanced EMO algorithm called OBEMO, which employs the Opposition-Based Learning (OBL) approach to accelerate the global convergence speed.
+OBL is a machine intelligence strategy which considers the current candidate solution and its opposite value at the same time, achieving a faster exploration of the search space.
+The proposed OBEMO method significantly reduces the required computational effort yet avoiding any detriment to the good search capabilities of the original EMO algorithm.
+Experiments are conducted over a comprehensive set of benchmark functions, showing that OBEMO obtains promising performance for most of the discussed test problems.

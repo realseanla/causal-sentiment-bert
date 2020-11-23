@@ -1,0 +1,7 @@
+Recent results have shown that the MCTS algorithm (a new, adaptive, randomized optimization algorithm) is effective in a remarkably diverse set of applications in Artificial Intelligence, Operations Research, and High Energy Physics.
+MCTS can find good solutions without domain dependent heuristics, using the UCT formula to balance exploitation and exploration.
+It has been suggested that the optimum in the exploitation- exploration balance differs for different search tree sizes: small search trees needs more exploitation; large search trees need more exploration.
+Small search trees occur in variations of MCTS, such as parallel and ensemble approaches.
+This paper investigates the possibility of improving the performance of Ensemble UCT by increasing the level of exploitation.
+As the search trees becomes smaller we achieve an improved performance.
+The results are important for improving the performance of large scale parallelism of MCTS.

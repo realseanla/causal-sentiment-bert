@@ -1,0 +1,8 @@
+Stochastic/JJ gradient/NN algorithms/NNS (/-LRB- SGA/NN )/-RRB- are/VBP increasingly/RB popular/JJ in/IN machine/NN learning/NN applications/NNS and/CC have/VBP become/VBN "/`` the/DT algorithm/NN "/'' for/IN extremely/RB large/JJ scale/NN problems/NNS ./.
+Although/IN there/EX are/VBP some/DT convergence/NN results/NNS ,/, little/JJ is/VBZ known/VBN about/IN their/PRP$ dynamics/NNS ./.
+In/IN this/DT paper/NN ,/, We/PRP propose/VBP the/DT method/NN of/IN stochastic/JJ modified/VBN equations/NNS (/-LRB- SME/NN )/-RRB- to/TO analyze/VB the/DT dynamics/NNS of/IN the/DT SGA/NNP ./.
+Using/VBG this/DT technique/NN ,/, we/PRP can/MD give/VB precise/JJ characterizations/NNS for/IN both/CC the/DT initial/JJ convergence/NN speed/NN and/CC the/DT eventual/JJ oscillations/NNS ,/, at/IN least/RBS in/IN some/DT special/JJ cases/NNS ./.
+Furthermore/RB ,/, the/DT SME/NNP formalism/NN allows/VBZ us/PRP to/TO characterize/VB various/JJ speed/NN -/HYPH up/NN techniques/NNS ,/, such/JJ as/IN introducing/VBG momentum/NN ,/, adjusting/VBG the/DT learning/NN rate/NN and/CC the/DT mini-batch/JJ sizes/NNS ./.
+Previously/RB ,/, these/DT techniques/NNS relied/VBD mostly/RB on/IN heuristics/NNS ./.
+Besides/IN introducing/VBG simple/JJ examples/NNS to/TO illustrate/VB the/DT SME/NN formalism/NN ,/, we/PRP also/RB apply/VBP the/DT framework/NN to/TO improve/VB the/DT relaxed/JJ randomized/VBD Kaczmarz/NNP method/NN for/IN solving/VBG linear/JJ equations/NNS ./.
+The/DT SME/NN framework/NN is/VBZ a/DT precise/JJ and/CC unifying/JJ approach/NN to/IN understanding/NN and/CC improving/VBG the/DT SGA/NNP ,/, and/CC has/VBZ the/DT potential/JJ to/TO be/VB applied/VBN to/IN many/JJ more/JJR stochastic/JJ algorithms/NNS ./.

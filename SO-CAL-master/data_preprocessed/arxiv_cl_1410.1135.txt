@@ -1,0 +1,8 @@
+This/DT paper/NN proposes/VBZ a/DT methodology/NN to/TO prepare/VB corpora/NNS in/IN Arabic/JJ language/NN from/IN online/JJ social/JJ network/NN (/-LRB- OSN/NN )/-RRB- and/CC review/NN site/NN for/IN Sentiment/NN Analysis/NN (/-LRB- SA/NNP )/-RRB- task/NN ./.
+The/DT paper/NN also/RB proposes/VBZ a/DT methodology/NN for/IN generating/VBG a/DT stopword/NN list/NN from/IN the/DT prepared/JJ corpora/NN ./.
+The/DT aim/NN of/IN the/DT paper/NN is/VBZ to/TO investigate/VB the/DT effect/NN of/IN removing/VBG stopwords/NNS on/IN the/DT SA/NNP task/NN ./.
+The/DT problem/NN is/VBZ that/IN the/DT stopwords/NNS lists/NNS generated/VBN before/IN were/VBD on/IN Modern/NNP Standard/NNP Arabic/NNP (/-LRB- MSA/NNP )/-RRB- which/WDT is/VBZ not/RB the/DT common/JJ language/NN used/VBN in/IN OSN/NNP ./.
+We/PRP have/VBP generated/VBN a/DT stopword/NN list/NN of/IN Egyptian/JJ dialect/NN and/CC a/DT corpus/NN -/HYPH based/VBN list/NN to/TO be/VB used/VBN with/IN the/DT OSN/NNP corpora/NNS ./.
+We/PRP compare/VBP the/DT efficiency/NN of/IN text/NN classification/NN when/WRB using/VBG the/DT generated/VBN lists/NNS along/IN with/IN previously/RB generated/VBN lists/NNS of/IN MSA/NNP and/CC combining/VBG the/DT Egyptian/JJ dialect/NN list/NN with/IN the/DT MSA/NNP list/NN ./.
+The/DT text/NN classification/NN was/VBD performed/VBN using/VBG Na/NN \/SYM "/`` ive/VB Bayes/NNS and/CC Decision/NN Tree/NN classifiers/NNS and/CC two/CD feature/NN selection/NN approaches/NNS ,/, unigrams/NNS and/CC bigram/NN ./.
+The/DT experiments/NNS show/VBP that/IN the/DT general/JJ lists/NNS containing/VBG the/DT Egyptian/JJ dialects/NNS words/NNS give/VBP better/JJR performance/NN than/IN using/VBG lists/NNS of/IN MSA/NNP stopwords/NNS only/RB ./.

@@ -1,0 +1,5 @@
+Deep/JJ neural/JJ networks/NNS have/VBP been/VBN successfully/RB applied/VBN in/IN applications/NNS with/IN a/DT large/JJ amount/NN of/IN labeled/VBN data/NNS ./.
+However/RB ,/, there/EX are/VBP major/JJ drawbacks/NNS of/IN the/DT neural/JJ networks/NNS that/WDT are/VBP related/VBN to/IN rapid/JJ generalization/NN with/IN small/JJ data/NNS and/CC continual/JJ learning/NN of/IN new/JJ concepts/NNS without/IN forgetting/VBG ./.
+We/PRP present/VBP a/DT novel/JJ meta/NN learning/NN method/NN ,/, Meta/NNP Networks/NNP (/-LRB- MetaNet/NNP )/-RRB- ,/, that/WDT acquires/VBZ a/DT meta/NN -/HYPH level/NN knowledge/NN across/IN tasks/NNS and/CC shifts/VBZ its/PRP$ inductive/JJ bias/NN via/IN fast/JJ parameterization/NN for/IN the/DT rapid/JJ generalization/NN ./.
+When/WRB tested/VBN on/IN the/DT standard/JJ one/CD -/HYPH shot/NN learning/NN benchmarks/NNS ,/, our/PRP$ MetaNet/NNP models/NNS achieved/VBD near/IN human/JJ -/HYPH level/NN accuracy/NN ./.
+We/PRP demonstrated/VBD several/JJ appealing/JJ properties/NNS of/IN MetaNet/NNP relating/VBG to/IN generalization/NN and/CC continual/JJ learning/NN ./.

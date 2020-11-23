@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT selective/JJ encoding/VBG model/NN to/TO extend/VB the/DT sequence/NN -/HYPH to/IN -/HYPH sequence/NN framework/NN for/IN abstractive/JJ sentence/NN summarization/NN ./.
+It/PRP consists/VBZ of/IN a/DT sentence/NN encoder/NN ,/, a/DT selective/JJ gate/NN network/NN ,/, and/CC an/DT attention/NN equipped/VBN decoder/NN ./.
+The/DT sentence/NN encoder/NN and/CC decoder/NN are/VBP built/VBN with/IN recurrent/JJ neural/JJ networks/NNS ./.
+The/DT selective/JJ gate/NN network/NN constructs/NNS a/DT second/JJ level/NN sentence/NN representation/NN by/IN controlling/VBG the/DT information/NN flow/NN from/IN encoder/NN to/IN decoder/NN ./.
+The/DT second/JJ level/NN representation/NN is/VBZ tailored/VBN for/IN sentence/NN summarization/NN task/NN ,/, which/WDT leads/VBZ to/IN better/JJR performance/NN ./.
+We/PRP evaluate/VBP our/PRP$ model/NN on/IN the/DT English/NNP Gigaword/NNP ,/, DUC/NNP 2004/CD and/CC MSR/NNP abstractive/JJ sentence/NN summarization/NN datasets/NNS ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN the/DT proposed/VBN selective/JJ encoding/VBG model/NN outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN baseline/NN models/NNS ./.

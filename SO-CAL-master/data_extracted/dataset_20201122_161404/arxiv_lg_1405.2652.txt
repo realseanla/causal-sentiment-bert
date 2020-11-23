@@ -1,0 +1,4 @@
+We consider a reinforcement learning setting introduced in (Maillard et al., NIPS 2011) where the learner does not have explicit access to the states of the underlying Markov decision process (MDP).
+Instead, the agent only has several models that map histories of past interactions to states.
+Here we improve over known regret bounds in this setting and more importantly generalize to the case where the models given to the learner do not contain a true model giving an MDP representation but only approximations of it.
+We also give improved error bounds for state aggregation.

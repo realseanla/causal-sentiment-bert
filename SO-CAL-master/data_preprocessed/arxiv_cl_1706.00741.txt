@@ -1,0 +1,5 @@
+This/DT paper/NN demonstrates/VBZ the/DT potential/NN of/IN convolutional/JJ neural/JJ networks/NNS (/-LRB- CNN/NNP )/-RRB- for/IN detecting/VBG and/CC classifying/VBG prosodic/JJ events/NNS on/IN words/NNS ,/, specifically/RB pitch/NN accents/NNS and/CC phrase/NN boundary/NN tones/NNS ,/, from/IN frame/NN -/HYPH based/VBN acoustic/JJ features/NNS ./.
+Typical/JJ approaches/NNS use/VBP not/RB only/RB feature/VBP representations/NNS of/IN the/DT word/NN in/IN question/NN but/CC also/RB its/PRP$ surrounding/VBG context/NN ./.
+We/PRP show/VBP that/IN adding/VBG position/NN features/NNS indicating/VBG the/DT current/JJ word/NN benefits/VBZ the/DT CNN/NNP ./.
+In/IN addition/NN ,/, this/DT paper/NN discusses/VBZ the/DT generalization/NN from/IN a/DT speaker/NN -/HYPH dependent/JJ modelling/NN approach/NN to/IN a/DT speaker/NN -/HYPH independent/JJ setup/NN ./.
+The/DT proposed/JJ method/NN is/VBZ simple/JJ and/CC efficient/JJ and/CC yields/VBZ strong/JJ results/NNS not/RB only/RB in/IN speaker/NN -/HYPH dependent/JJ but/CC also/RB speaker/NN -/HYPH independent/JJ cases/NNS ./.

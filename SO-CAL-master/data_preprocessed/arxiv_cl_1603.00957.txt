@@ -1,0 +1,5 @@
+Existing/VBG knowledge/NN -/HYPH based/VBN question/NN answering/VBG systems/NNS often/RB rely/VBP on/IN small/JJ annotated/JJ training/NN data/NNS ./.
+While/IN shallow/JJ methods/NNS like/IN information/NN extraction/NN techniques/NNS are/VBP robust/JJ to/IN data/NNS scarcity/NN ,/, they/PRP are/VBP less/RBR expressive/JJ than/IN deep/JJ understanding/NN methods/NNS ,/, thereby/RB failing/VBG at/IN answering/VBG questions/NNS involving/VBG multiple/JJ constraints/NNS ./.
+Here/RB we/PRP alleviate/VBP this/DT problem/NN by/IN empowering/VBG a/DT relation/NN extraction/NN method/NN with/IN additional/JJ evidence/NN from/IN Wikipedia/NNP ./.
+We/PRP first/RB present/VBP a/DT novel/JJ neural/JJ network/NN based/VBN relation/NN extractor/NN to/TO retrieve/VB the/DT candidate/NN answers/NNS from/IN Freebase/NNP ,/, and/CC then/RB develop/VB a/DT refinement/NN model/NN to/TO validate/VB answers/NNS using/VBG Wikipedia/NNP ./.
+We/PRP achieve/VBP 53.3/CD F1/NN on/IN WebQuestions/NNP ,/, a/DT substantial/JJ improvement/NN over/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ./.

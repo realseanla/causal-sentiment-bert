@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT simple/JJ approach/NN for/IN automatically/RB extracting/VBG the/DT number/NN of/IN subjects/NNS involved/VBN in/IN randomised/VBN controlled/VBN trials/NNS (/-LRB- RCT/NN )/-RRB- ./.
+Our/PRP$ approach/NN first/RB applies/VBZ a/DT set/NN of/IN rule/NN -/HYPH based/VBN techniques/NNS to/TO extract/VB candidate/NN study/NN sizes/VBZ from/IN the/DT abstracts/NNS of/IN the/DT articles/NNS ./.
+Supervised/VBN classification/NN is/VBZ then/RB performed/VBN over/IN the/DT candidates/NNS with/IN support/NN vector/NN machines/NNS ,/, using/VBG a/DT small/JJ set/NN of/IN lexical/JJ ,/, structural/JJ ,/, and/CC contextual/JJ features/NNS ./.
+With/IN only/RB a/DT small/JJ annotated/JJ training/NN set/NN of/IN 201/CD RCTs/NNS ,/, we/PRP obtained/VBD an/DT accuracy/NN of/IN 88/CD \/SYM percent/NN ./.
+We/PRP believe/VBP that/IN this/DT system/NN will/MD aid/VB complex/JJ medical/JJ text/NN processing/NN tasks/NNS such/JJ as/IN summarisation/NN and/CC question/NN answering/NN ./.

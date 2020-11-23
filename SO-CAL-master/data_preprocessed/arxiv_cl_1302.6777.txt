@@ -1,0 +1,10 @@
+Probabilistic/JJ approaches/NNS to/IN part/NN -/HYPH of/IN -/HYPH speech/NN tagging/NN rely/VBP primarily/RB on/IN whole/JJ -/HYPH word/NN statistics/NNS about/IN word/NN //HYPH tag/NN combinations/NNS as/RB well/RB as/IN contextual/JJ information/NN ./.
+But/CC experience/NN shows/VBZ about/IN 4/CD per/NN cent/NN of/IN tokens/NNS encountered/VBN in/IN test/NN sets/NNS are/VBP unknown/JJ even/RB when/WRB the/DT training/NN set/NN is/VBZ as/IN large/JJ as/IN a/DT million/CD words/NNS ./.
+Unseen/JJ words/NNS are/VBP tagged/VBN using/VBG secondary/JJ strategies/NNS that/WDT exploit/VBP word/NN features/NNS such/JJ as/IN endings/NNS ,/, capitalizations/NNS and/CC punctuation/NN marks/NNS ./.
+In/IN this/DT work/NN ,/, word/NN -/HYPH ending/VBG statistics/NNS are/VBP primary/JJ and/CC whole/JJ -/HYPH word/NN statistics/NNS are/VBP secondary/JJ ./.
+First/RB ,/, a/DT tagger/NN was/VBD trained/VBN and/CC tested/VBN on/IN word/NN endings/NNS only/RB ./.
+Subsequent/JJ experiments/NNS added/VBD back/RB whole/JJ -/HYPH word/NN statistics/NNS for/IN the/DT words/NNS occurring/VBG most/RBS frequently/RB in/IN the/DT training/NN set/NN ./.
+As/IN grew/VBD larger/JJR ,/, performance/NN was/VBD expected/VBN to/TO improve/VB ,/, in/IN the/DT limit/NN performing/VBG the/DT same/JJ as/IN word/NN -/HYPH based/VBN taggers/NNS ./.
+Surprisingly/RB ,/, the/DT ending/NN -/HYPH based/VBN tagger/NN initially/RB performed/VBD nearly/RB as/RB well/RB as/IN the/DT word/NN -/HYPH based/VBN tagger/NN ;/: in/IN the/DT best/JJS case/NN ,/, its/PRP$ performance/NN significantly/RB exceeded/VBD that/DT of/IN the/DT word/NN -/HYPH based/VBN tagger/NN ./.
+Lastly/RB ,/, and/CC unexpectedly/RB ,/, an/DT effect/NN of/IN negative/JJ returns/NNS was/VBD observed/VBN -/: as/IN grew/VBD larger/JJR ,/, performance/NN generally/RB improved/VBN and/CC then/RB declined/VBD ./.
+By/IN varying/VBG factors/NNS such/JJ as/IN ending/VBG length/NN and/CC tag/NN -/HYPH list/NN strategy/NN ,/, we/PRP achieved/VBD a/DT success/NN rate/NN of/IN 97.5/CD percent/NN ./.

@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT general/JJ method/NN for/IN deriving/VBG collapsed/VBD variational/JJ inference/NN algo/NN -/HYPH rithms/NNS for/IN probabilistic/JJ models/NNS in/IN the/DT conjugate/JJ exponential/JJ family/NN ./.
+Our/PRP$ method/NN unifies/VBZ many/JJ existing/VBG approaches/NNS to/IN collapsed/VBN variational/JJ inference/NN ./.
+Our/PRP$ collapsed/VBN variational/JJ inference/NN leads/VBZ to/IN a/DT new/JJ lower/JJR bound/VBN on/IN the/DT marginal/JJ likelihood/NN ./.
+We/PRP exploit/VBP the/DT information/NN geometry/NN of/IN the/DT bound/VBN to/TO derive/VB much/JJ faster/JJR optimization/NN methods/NNS based/VBN on/IN conjugate/JJ gradients/NNS for/IN these/DT models/NNS ./.
+Our/PRP$ approach/NN is/VBZ very/RB general/JJ and/CC is/VBZ easily/RB applied/VBN to/IN any/DT model/NN where/WRB the/DT mean/JJ field/NN update/NN equations/NNS have/VBP been/VBN derived/VBN ./.
+Empirically/RB we/PRP show/VBP significant/JJ speed/NN -/HYPH ups/NNS for/IN probabilistic/JJ models/NNS optimized/VBN using/VBG our/PRP$ bound/VBN ./.

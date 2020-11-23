@@ -1,0 +1,8 @@
+Arabic/JJ morphology/NN encapsulates/VBZ many/JJ valuable/JJ features/NNS such/JJ as/IN word/NN root/NN ./.
+Arabic/JJ roots/NNS are/VBP being/VBG utilized/VBN for/IN many/JJ tasks/NNS ;/: the/DT process/NN of/IN extracting/VBG a/DT word/NN root/NN is/VBZ referred/VBN to/IN as/IN stemming/VBG ./.
+Stemming/VBG is/VBZ an/DT essential/JJ part/NN of/IN most/JJS Natural/JJ Language/NNP Processing/NNP tasks/NNS ,/, especially/RB for/IN derivative/JJ languages/NNS such/JJ as/IN Arabic/NNP ./.
+However/RB ,/, stemming/VBG is/VBZ faced/VBN with/IN the/DT problem/NN of/IN ambiguity/NN ,/, where/WRB two/CD or/CC more/JJR roots/NNS could/MD be/VB extracted/VBN from/IN the/DT same/JJ word/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, distributional/JJ semantics/NNS is/VBZ a/DT powerful/JJ co-occurrence/NN model/NN ./.
+It/PRP captures/VBZ the/DT meaning/NN of/IN a/DT word/NN based/VBN on/IN its/PRP$ context/NN ./.
+In/IN this/DT paper/NN ,/, a/DT distributional/JJ semantics/NNS model/NN utilizing/VBG Smoothed/VBN Pointwise/NNP Mutual/NNP Information/NNP (/-LRB- SPMI/NNP )/-RRB- is/VBZ constructed/VBN to/TO investigate/VB its/PRP$ effectiveness/NN on/IN the/DT stemming/VBG analysis/NN task/NN ./.
+It/PRP showed/VBD an/DT accuracy/NN of/IN 81.5/CD percent/NN ,/, with/IN a/DT at/RB least/RBS 9.4/CD percent/NN improvement/NN over/IN other/JJ stemmers/NNS ./.

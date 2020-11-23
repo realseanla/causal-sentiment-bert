@@ -1,0 +1,6 @@
+We/PRP introduce/VBP the/DT nonparametric/JJ metadata/NN dependent/JJ relational/JJ (/-LRB- NMDR/NN )/-RRB- model/NN ,/, a/DT Bayesian/JJ nonparametric/JJ stochastic/JJ block/NN model/NN for/IN network/NN data/NNS ./.
+The/DT NMDR/NN allows/VBZ the/DT entities/NNS associated/VBN with/IN each/DT node/NN to/TO have/VB mixed/VBN membership/NN in/IN an/DT unbounded/JJ collection/NN of/IN latent/JJ communities/NNS ./.
+Learned/VBN regression/NN models/NNS allow/VBP these/DT memberships/NNS to/TO depend/VB on/IN ,/, and/CC be/VB predicted/VBN from/IN ,/, arbitrary/JJ node/NN metadata/NN ./.
+We/PRP develop/VBP efficient/JJ MCMC/NNP algorithms/NNS for/IN learning/VBG NMDR/NN models/NNS from/IN partially/RB observed/VBN node/NN relationships/NNS ./.
+Retrospective/JJ MCMC/NN methods/NNS allow/VBP our/PRP$ sampler/NN to/TO work/VB directly/RB with/IN the/DT infinite/JJ stick/NN -/HYPH breaking/VBG representation/NN of/IN the/DT NMDR/NNP ,/, avoiding/VBG the/DT need/NN for/IN finite/JJ truncations/NNS ./.
+Our/PRP$ results/NNS demonstrate/VBP recovery/NN of/IN useful/JJ latent/JJ communities/NNS from/IN real/JJ -/HYPH world/NN social/JJ and/CC ecological/JJ networks/NNS ,/, and/CC the/DT usefulness/NN of/IN metadata/NN in/IN link/NN prediction/NN tasks/NNS ./.

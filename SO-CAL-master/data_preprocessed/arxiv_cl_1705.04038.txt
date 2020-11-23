@@ -1,0 +1,9 @@
+Semantic/JJ role/NN labelling/NN (/-LRB- SRL/NN )/-RRB- is/VBZ a/DT task/NN in/IN natural/JJ language/NN processing/NN which/WDT detects/VBZ and/CC classifies/VBZ the/DT semantic/JJ arguments/NNS associated/VBN with/IN the/DT predicates/NNS of/IN a/DT sentence/NN ./.
+It/PRP is/VBZ an/DT important/JJ step/NN towards/IN understanding/VBG the/DT meaning/NN of/IN a/DT natural/JJ language/NN ./.
+There/RB exists/VBZ SRL/NN systems/NNS for/IN well/RB -/HYPH studied/VBN languages/NNS like/IN English/NNP ,/, Chinese/JJ or/CC Japanese/JJ but/CC there/EX is/VBZ not/RB any/DT such/JJ system/NN for/IN the/DT Vietnamese/JJ language/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT first/JJ SRL/NN system/NN for/IN Vietnamese/JJ with/IN encouraging/VBG accuracy/NN ./.
+We/PRP first/RB demonstrate/VBP that/IN a/DT simple/JJ application/NN of/IN SRL/NN techniques/NNS developed/VBN for/IN English/NNP could/MD not/RB give/VB a/DT good/JJ accuracy/NN for/IN Vietnamese/JJ ./.
+We/PRP then/RB introduce/VB a/DT new/JJ algorithm/NN for/IN extracting/VBG candidate/NN syntactic/JJ constituents/NNS ,/, which/WDT is/VBZ much/RB more/RBR accurate/JJ than/IN the/DT common/JJ node/NN -/HYPH mapping/NN algorithm/NN usually/RB used/VBN in/IN the/DT identification/NN step/NN ./.
+Finally/RB ,/, in/IN the/DT classification/NN step/NN ,/, in/IN addition/NN to/IN the/DT common/JJ linguistic/JJ features/NNS ,/, we/PRP propose/VBP novel/JJ and/CC useful/JJ features/NNS for/IN use/NN in/IN SRL/NN ./.
+Our/PRP$ SRL/NN system/NN achieves/VBZ an/DT $/$ F_1/CD $/$ score/NN of/IN 73.53/CD \/SYM percent/NN on/IN the/DT Vietnamese/JJ PropBank/NNP corpus/NN ./.
+This/DT system/NN ,/, including/VBG software/NN and/CC corpus/NN ,/, is/VBZ available/JJ as/IN an/DT open/JJ source/NN project/NN and/CC we/PRP believe/VBP that/IN it/PRP is/VBZ a/DT good/JJ baseline/NN for/IN the/DT development/NN of/IN future/JJ Vietnamese/JJ SRL/NN systems/NNS ./.

@@ -1,0 +1,9 @@
+This/DT study/NN presents/VBZ a/DT divide/NN -/HYPH and/CC -/HYPH conquer/VB (/-LRB- DC/NNP )/-RRB- approach/NN based/VBN on/IN feature/NN space/NN decomposition/NN for/IN classification/NN ./.
+When/WRB large/JJ -/HYPH scale/NN datasets/NNS are/VBP present/JJ ,/, typical/JJ approaches/NNS usually/RB employed/VBN truncated/VBN kernel/NN methods/NNS on/IN the/DT feature/NN space/NN or/CC DC/NNP approaches/VBZ on/IN the/DT sample/NN space/NN ./.
+However/RB ,/, this/DT did/VBD not/RB guarantee/VB separability/NN between/IN classes/NNS ,/, owing/VBG to/IN overfitting/VBG ./.
+To/TO overcome/VB such/JJ problems/NNS ,/, this/DT work/NN proposes/VBZ a/DT novel/JJ DC/NNP approach/NN on/IN feature/NN spaces/NNS consisting/VBG of/IN three/CD steps/NNS ./.
+Firstly/RB ,/, we/PRP divide/VBP the/DT feature/NN space/NN into/IN several/JJ subspaces/NNS using/VBG the/DT decomposition/NN method/NN proposed/VBN in/IN this/DT paper/NN ./.
+Subsequently/RB ,/, these/DT feature/VBP subspaces/NNS are/VBP sent/VBN into/IN individual/JJ local/JJ classifiers/NNS for/IN training/NN ./.
+Finally/RB ,/, the/DT outcomes/NNS of/IN local/JJ classifiers/NNS are/VBP fused/VBN together/RB to/TO generate/VB the/DT final/JJ classification/NN results/NNS ./.
+Experiments/NNS on/IN large/JJ -/HYPH scale/NN datasets/NNS are/VBP carried/VBN out/RP for/IN performance/NN evaluation/NN ./.
+The/DT results/NNS show/VBP that/IN the/DT error/NN rates/NNS of/IN the/DT proposed/VBN DC/NN method/NN decreased/VBD comparing/VBG with/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN fast/JJ SVM/NN solvers/NNS ,/, e.g./FW ,/, reducing/VBG error/NN rates/NNS by/IN 10.53/CD percent/NN and/CC 7.53/CD percent/NN on/IN RCV1/NN and/CC covtype/NN datasets/NNS respectively/RB ./.

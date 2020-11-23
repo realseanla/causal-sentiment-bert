@@ -1,0 +1,10 @@
+We/PRP study/VBP decision/NN making/VBG in/IN environments/NNS where/WRB the/DT reward/NN is/VBZ only/RB partially/RB observed/VBN ,/, but/CC can/MD be/VB modeled/VBN as/IN a/DT function/NN of/IN an/DT action/NN and/CC an/DT observed/VBN context/NN ./.
+This/DT setting/NN ,/, known/VBN as/IN contextual/JJ bandits/NNS ,/, encompasses/VBZ a/DT wide/JJ variety/NN of/IN applications/NNS including/VBG health/NN -/HYPH care/NN policy/NN and/CC Internet/NN advertising/NN ./.
+A/DT central/JJ task/NN is/VBZ evaluation/NN of/IN a/DT new/JJ policy/NN given/VBN historic/JJ data/NNS consisting/VBG of/IN contexts/NNS ,/, actions/NNS and/CC received/VBD rewards/NNS ./.
+The/DT key/JJ challenge/NN is/VBZ that/IN the/DT past/JJ data/NNS typically/RB does/VBZ not/RB faithfully/RB represent/VBP proportions/NNS of/IN actions/NNS taken/VBN by/IN a/DT new/JJ policy/NN ./.
+Previous/JJ approaches/NNS rely/VBP either/RB on/IN models/NNS of/IN rewards/NNS or/CC models/NNS of/IN the/DT past/JJ policy/NN ./.
+The/DT former/JJ are/VBP plagued/VBN by/IN a/DT large/JJ bias/NN whereas/IN the/DT latter/JJ have/VBP a/DT large/JJ variance/NN ./.
+We/PRP leverage/VBP the/DT strength/NN and/CC overcome/VB the/DT weaknesses/NNS of/IN the/DT two/CD approaches/NNS by/IN adapting/VBG doubly/RB robust/JJ estimation/NN techniques/NNS to/IN the/DT problems/NNS of/IN policy/NN evaluation/NN and/CC optimization/NN ./.
+We/PRP prove/VBP that/IN this/DT approach/NN yields/VBZ unbiased/JJ (/-LRB- and/CC often/RB lower/JJR variance/NN )/-RRB- value/NN estimates/VBZ when/WRB we/PRP have/VBP either/CC a/DT good/JJ model/NN of/IN rewards/NNS or/CC a/DT good/JJ model/NN of/IN past/JJ policy/NN ./.
+Extensive/JJ empirical/JJ comparison/NN demonstrate/VBP that/IN the/DT doubly/RB robust/JJ technique/NN uniformly/RB improves/VBZ existing/VBG techniques/NNS ,/, achieving/VBG both/CC lower/JJR variance/NN in/IN value/NN estimation/NN and/CC better/JJR policies/NNS ./.
+As/IN such/JJ ,/, we/PRP expect/VBP the/DT doubly/RB robust/JJ approach/NN to/TO become/VB common/JJ practice/NN ./.

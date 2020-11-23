@@ -1,0 +1,9 @@
+We/PRP present/VBP a/DT multilingual/JJ Named/VBN Entity/NN Recognition/NN approach/NN based/VBN on/IN a/DT robust/JJ and/CC general/JJ set/NN of/IN features/NNS across/IN languages/NNS and/CC datasets/NNS ./.
+Our/PRP$ system/NN combines/VBZ shallow/JJ local/JJ information/NN with/IN clustering/NN semi-supervised/VBN features/NNS induced/VBN on/IN large/JJ amounts/NNS of/IN unlabeled/JJ text/NN ./.
+Understanding/VBG via/IN empirical/JJ experimentation/NN how/WRB to/TO effectively/RB combine/VB various/JJ types/NNS of/IN clustering/NN features/NNS allows/VBZ us/PRP to/TO seamlessly/RB export/VB our/PRP$ system/NN to/IN other/JJ datasets/NNS and/CC languages/NNS ./.
+The/DT result/NN is/VBZ a/DT simple/JJ but/CC highly/RB competitive/JJ system/NN which/WDT obtains/VBZ state/NN of/IN the/DT art/NN results/NNS across/IN five/CD languages/NNS and/CC twelve/CD datasets/NNS ./.
+The/DT results/NNS are/VBP reported/VBN on/IN standard/JJ shared/VBN task/NN evaluation/NN data/NNS such/JJ as/IN CoNLL/NN for/IN English/NNP ,/, Spanish/NNP and/CC Dutch/NNP ./.
+Furthermore/RB ,/, and/CC despite/IN the/DT lack/NN of/IN linguistically/RB motivated/JJ features/NNS ,/, we/PRP also/RB report/VBP best/JJS results/NNS for/IN languages/NNS such/JJ as/IN Basque/JJ and/CC German/JJ ./.
+In/IN addition/NN ,/, we/PRP demonstrate/VBP that/IN our/PRP$ method/NN also/RB obtains/VBZ very/RB competitive/JJ results/NNS even/RB when/WRB the/DT amount/NN of/IN supervised/JJ data/NNS is/VBZ cut/VBN by/IN half/NN ,/, alleviating/VBG the/DT dependency/NN on/IN manually/RB annotated/VBN data/NNS ./.
+Finally/RB ,/, the/DT results/NNS show/VBP that/IN our/PRP$ emphasis/NN on/IN clustering/NN features/NNS is/VBZ crucial/JJ to/TO develop/VB robust/JJ out/IN -/HYPH of/IN -/HYPH domain/NN models/NNS ./.
+The/DT system/NN and/CC models/NNS are/VBP freely/RB available/JJ to/TO facilitate/VB its/PRP$ use/NN and/CC guarantee/VB the/DT reproducibility/NN of/IN results/NNS ./.

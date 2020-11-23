@@ -1,0 +1,6 @@
+We/PRP propose/VBP to/TO directly/RB map/VB raw/JJ visual/JJ observations/NNS and/CC text/NN input/NN to/IN actions/NNS for/IN instruction/NN execution/NN ./.
+While/IN existing/VBG approaches/NNS assume/VBP access/NN to/IN structured/JJ environment/NN representations/NNS or/CC use/VB a/DT pipeline/NN of/IN separately/RB trained/VBN models/NNS ,/, we/PRP learn/VBP a/DT single/JJ model/NN to/TO jointly/RB reason/VB about/RB linguistic/JJ and/CC visual/JJ input/NN ./.
+We/PRP use/VBP reinforcement/NN learning/VBG in/IN a/DT contextual/JJ bandit/NN setting/VBG to/TO train/VB a/DT neural/JJ network/NN agent/NN ./.
+To/TO guide/VB the/DT agent/NN 's/POS exploration/NN ,/, we/PRP use/VBP reward/NN shaping/VBG with/IN different/JJ forms/NNS of/IN supervision/NN ./.
+Our/PRP$ approach/NN does/VBZ not/RB require/VB intermediate/JJ representations/NNS ,/, planning/VBG procedures/NNS ,/, or/CC training/VBG different/JJ models/NNS ./.
+We/PRP evaluate/VBP in/IN a/DT simulated/JJ environment/NN ,/, and/CC show/VBP significant/JJ improvements/NNS over/IN supervised/JJ learning/NN and/CC common/JJ reinforcement/NN learning/VBG variants/NNS ./.

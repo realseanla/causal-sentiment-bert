@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT Inter-Battery/NNP Topic/NNP Model/NNP (/-LRB- IBTM/NNP )/-RRB- ./.
+Our/PRP$ approach/NN extends/VBZ traditional/JJ topic/NN models/NNS by/IN learning/VBG a/DT factorized/JJ latent/JJ variable/JJ representation/NN ./.
+The/DT structured/JJ representation/NN leads/VBZ to/IN a/DT model/NN that/WDT marries/VBZ benefits/NNS traditionally/RB associated/VBN with/IN a/DT discriminative/JJ approach/NN ,/, such/JJ as/IN feature/NN selection/NN ,/, with/IN those/DT of/IN a/DT generative/JJ model/NN ,/, such/JJ as/IN principled/JJ regularization/NN and/CC ability/NN to/TO handle/VB missing/VBG data/NNS ./.
+The/DT factorization/NN is/VBZ provided/VBN by/IN representing/VBG data/NNS in/IN terms/NNS of/IN aligned/VBN pairs/NNS of/IN observations/NNS as/IN different/JJ views/NNS ./.
+This/DT provides/VBZ means/NNS for/IN selecting/VBG a/DT representation/NN that/WDT separately/RB models/NNS topics/NNS that/WDT exist/VBP in/IN both/DT views/NNS from/IN the/DT topics/NNS that/WDT are/VBP unique/JJ to/IN a/DT single/JJ view/NN ./.
+This/DT structured/JJ consolidation/NN allows/VBZ for/IN efficient/JJ and/CC robust/JJ inference/NN and/CC provides/VBZ a/DT compact/JJ and/CC efficient/JJ representation/NN ./.
+Learning/NN is/VBZ performed/VBN in/IN a/DT Bayesian/JJ fashion/NN by/IN maximizing/VBG a/DT rigorous/JJ bound/VBN on/IN the/DT log/NN -/HYPH likelihood/NN ./.
+Firstly/RB ,/, we/PRP illustrate/VBP the/DT benefits/NNS of/IN the/DT model/NN on/IN a/DT synthetic/JJ dataset/NN ,/, ./.
+The/DT model/NN is/VBZ then/RB evaluated/VBN in/IN both/CC uni/JJ -/HYPH and/CC multi-modality/NN settings/NNS on/IN two/CD different/JJ classification/NN tasks/NNS with/IN off/RB -/HYPH the/DT -/HYPH shelf/NN convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- features/NNS which/WDT generate/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS with/IN extremely/RB compact/JJ representations/NNS ./.

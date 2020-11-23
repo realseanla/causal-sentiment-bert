@@ -1,0 +1,10 @@
+Deep/JJ learning/NN thrives/VBZ with/IN large/JJ neural/JJ networks/NNS and/CC large/JJ datasets/NNS ./.
+However/RB ,/, larger/JJR networks/NNS and/CC larger/JJR datasets/NNS result/VBP in/IN longer/JJR training/NN times/NNS that/WDT impede/VBP research/NN and/CC development/NN progress/NN ./.
+Distributed/VBN synchronous/JJ SGD/NNP offers/VBZ a/DT potential/JJ solution/NN to/IN this/DT problem/NN by/IN dividing/VBG SGD/NNP minibatches/NNS over/IN a/DT pool/NN of/IN parallel/JJ workers/NNS ./.
+Yet/RB to/TO make/VB this/DT scheme/NN efficient/JJ ,/, the/DT per/IN -/HYPH worker/NN workload/NN must/MD be/VB large/JJ ,/, which/WDT implies/VBZ nontrivial/JJ growth/NN in/IN the/DT SGD/NNP minibatch/NN size/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP empirically/RB show/VBP that/IN on/IN the/DT ImageNet/NNP dataset/NN large/JJ minibatches/NNS cause/VBP optimization/NN difficulties/NNS ,/, but/CC when/WRB these/DT are/VBP addressed/VBN the/DT trained/VBN networks/NNS exhibit/VBP good/JJ generalization/NN ./.
+Specifically/RB ,/, we/PRP show/VBP no/DT loss/NN of/IN accuracy/NN when/WRB training/VBG with/IN large/JJ minibatch/NN sizes/VBZ up/RP to/IN 8192/CD images/NNS ./.
+To/TO achieve/VB this/DT result/NN ,/, we/PRP adopt/VBP a/DT linear/JJ scaling/NN rule/NN for/IN adjusting/VBG learning/NN rates/NNS as/IN a/DT function/NN of/IN minibatch/NN size/NN and/CC develop/VB a/DT new/JJ warmup/NN scheme/NN that/WDT overcomes/VBZ optimization/NN challenges/NNS early/RB in/IN training/NN ./.
+With/IN these/DT simple/JJ techniques/NNS ,/, our/PRP$ Caffe2/NN -/HYPH based/VBN system/NN trains/NNS ResNet/NNP -/HYPH 50/CD with/IN a/DT minibatch/NN size/NN of/IN 8192/CD on/IN 256/CD GPUs/NNS in/IN one/CD hour/NN ,/, while/IN matching/VBG small/JJ minibatch/NN accuracy/NN ./.
+Using/VBG commodity/NN hardware/NN ,/, our/PRP$ implementation/NN achieves/VBZ ~/SYM 90/CD percent/NN scaling/NN efficiency/NN when/WRB moving/VBG from/IN 8/CD to/IN 256/CD GPUs/NNS ./.
+This/DT system/NN enables/VBZ us/PRP to/TO train/VB visual/JJ recognition/NN models/NNS on/IN internet/NN -/HYPH scale/NN data/NNS with/IN high/JJ efficiency/NN ./.

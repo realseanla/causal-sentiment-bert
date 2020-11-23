@@ -1,0 +1,7 @@
+Because/IN reinforcement/NN learning/NN suffers/VBZ from/IN a/DT lack/NN of/IN scalability/NN ,/, online/JJ value/NN (/-LRB- and/CC Q/NN -/HYPH )/-RRB- function/NN approximation/NN has/VBZ received/VBN increasing/VBG interest/NN this/DT last/JJ decade/NN ./.
+This/DT contribution/NN introduces/VBZ a/DT novel/JJ approximation/NN scheme/NN ,/, namely/RB the/DT Kalman/NNP Temporal/JJ Differences/NNS (/-LRB- KTD/NN )/-RRB- framework/NN ,/, that/IN exhibits/VBZ the/DT following/VBG features/NNS :/: sample/NN -/HYPH efficiency/NN ,/, non-linear/JJ approximation/NN ,/, non-stationarity/JJ handling/NN and/CC uncertainty/NN management/NN ./.
+A/DT first/JJ KTD/NN -/HYPH based/VBN algorithm/NN is/VBZ provided/VBN for/IN deterministic/JJ Markov/NNP Decision/NN Processes/NNS (/-LRB- MDP/NN )/-RRB- which/WDT produces/VBZ biased/JJ estimates/NNS in/IN the/DT case/NN of/IN stochastic/JJ transitions/NNS ./.
+Than/IN the/DT eXtended/JJ KTD/NN framework/NN (/-LRB- XKTD/NN )/-RRB- ,/, solving/VBG stochastic/JJ MDP/NN ,/, is/VBZ described/VBN ./.
+Convergence/NN is/VBZ analyzed/VBN for/IN special/JJ cases/NNS for/IN both/DT deterministic/JJ and/CC stochastic/JJ transitions/NNS ./.
+Related/JJ algorithms/NNS are/VBP experimented/VBN on/IN classical/JJ benchmarks/NNS ./.
+They/PRP compare/VBP favorably/RB to/IN the/DT state/NN of/IN the/DT art/NN while/IN exhibiting/VBG the/DT announced/VBN features/NNS ./.

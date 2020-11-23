@@ -1,0 +1,8 @@
+State/NN of/IN the/DT art/NN speech/NN recognition/NN systems/NNS use/VBP data/NNS -/HYPH intensive/JJ context/NN -/HYPH dependent/JJ phonemes/NNS as/IN acoustic/JJ units/NNS ./.
+However/RB ,/, these/DT approaches/NNS do/VBP not/RB translate/VB well/RB to/IN low/JJ resourced/VBN languages/NNS where/WRB large/JJ amounts/NNS of/IN training/NN data/NNS is/VBZ not/RB available/JJ ./.
+For/IN such/JJ languages/NNS ,/, automatic/JJ discovery/NN of/IN acoustic/JJ units/NNS is/VBZ critical/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP demonstrate/VBP the/DT application/NN of/IN nonparametric/JJ Bayesian/JJ models/NNS to/IN acoustic/JJ unit/NN discovery/NN ./.
+We/PRP show/VBP that/IN the/DT discovered/VBN units/NNS are/VBP correlated/VBN with/IN phonemes/NNS and/CC therefore/RB are/VBP linguistically/RB meaningful/JJ ./.
+We/PRP also/RB present/VBP a/DT spoken/JJ term/NN detection/NN (/-LRB- STD/NN )/-RRB- by/IN example/NN query/NN algorithm/NN based/VBN on/IN these/DT automatically/RB learned/VBN units/NNS ./.
+We/PRP show/VBP that/IN our/PRP$ proposed/VBN system/NN produces/VBZ a/DT P/NN @N/NN of/IN 61.2/CD percent/NN and/CC an/DT EER/NN of/IN 13.95/CD percent/NN on/IN the/DT TIMIT/NNP dataset/NN ./.
+The/DT improvement/NN in/IN the/DT EER/NNP is/VBZ 5/CD percent/NN while/IN P/NN @N/NN is/VBZ only/RB slightly/RB lower/JJR than/IN the/DT best/JJS reported/VBN system/NN in/IN the/DT literature/NN ./.

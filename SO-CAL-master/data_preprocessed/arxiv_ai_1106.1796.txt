@@ -1,0 +1,9 @@
+This/DT paper/NN discusses/VBZ a/DT system/NN that/WDT accelerates/VBZ reinforcement/NN learning/NN by/IN using/VBG transfer/NN from/IN related/JJ tasks/NNS ./.
+Without/IN such/JJ transfer/NN ,/, even/RB if/IN two/CD tasks/NNS are/VBP very/RB similar/JJ at/IN some/DT abstract/JJ level/NN ,/, an/DT extensive/JJ re-learning/NN effort/NN is/VBZ required/VBN ./.
+The/DT system/NN achieves/VBZ much/RB of/IN its/PRP$ power/NN by/IN transferring/VBG parts/NNS of/IN previously/RB learned/VBN solutions/NNS rather/RB than/IN a/DT single/JJ complete/JJ solution/NN ./.
+The/DT system/NN exploits/NNS strong/JJ features/NNS in/IN the/DT multi-dimensional/JJ function/NN produced/VBN by/IN reinforcement/NN learning/VBG in/IN solving/VBG a/DT particular/JJ task/NN ./.
+These/DT features/NNS are/VBP stable/JJ and/CC easy/JJ to/TO recognize/VB early/RB in/IN the/DT learning/NN process/NN ./.
+They/PRP generate/VBP a/DT partitioning/NN of/IN the/DT state/NN space/NN and/CC thus/RB the/DT function/NN ./.
+The/DT partition/NN is/VBZ represented/VBN as/IN a/DT graph/NN ./.
+This/DT is/VBZ used/VBN to/TO index/NN and/CC compose/VB functions/NNS stored/VBN in/IN a/DT case/NN base/NN to/TO form/VB a/DT close/JJ approximation/NN to/IN the/DT solution/NN of/IN the/DT new/JJ task/NN ./.
+Experiments/NNS demonstrate/VBP that/IN function/NN composition/NN often/RB produces/VBZ more/JJR than/IN an/DT order/NN of/IN magnitude/NN increase/NN in/IN learning/NN rate/NN compared/VBN to/IN a/DT basic/JJ reinforcement/NN learning/VBG algorithm/NN ./.

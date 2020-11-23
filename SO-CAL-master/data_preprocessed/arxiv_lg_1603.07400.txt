@@ -1,0 +1,11 @@
+General/JJ purpose/NN computing/VBG systems/NNS are/VBP used/VBN for/IN a/DT large/JJ variety/NN of/IN applications/NNS ./.
+Extensive/JJ supports/NNS for/IN flexibility/NN in/IN these/DT systems/NNS limit/VBP their/PRP$ energy/NN efficiencies/NNS ./.
+Given/VBN that/DT big/JJ data/NN applications/NNS are/VBP among/IN the/DT main/JJ emerging/VBG workloads/NNS for/IN computing/VBG systems/NNS ,/, specialized/VBN architectures/NNS for/IN big/JJ data/NNS processing/NN are/VBP needed/VBN to/TO enable/VB low/JJ power/NN and/CC high/JJ throughput/NN execution/NN ./.
+Several/JJ big/JJ data/NNS applications/NNS are/VBP particularly/RB focused/VBN on/IN classification/NN and/CC clustering/NN tasks/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT multicore/NN heterogeneous/JJ architecture/NN for/IN big/JJ data/NNS processing/NN ./.
+This/DT system/NN has/VBZ the/DT capability/NN to/TO process/VB key/JJ machine/NN learning/VBG algorithms/NNS such/JJ as/IN deep/JJ neural/JJ network/NN ,/, autoencoder/NN ,/, and/CC k/CD -/HYPH means/NN clustering/NN ./.
+Memristor/NNP crossbars/NNS are/VBP utilized/VBN to/TO provide/VB low/JJ power/NN high/JJ throughput/NN execution/NN of/IN neural/JJ networks/NNS ./.
+The/DT system/NN has/VBZ both/DT training/NN and/CC recognition/NN (/-LRB- evaluation/NN of/IN new/JJ input/NN )/-RRB- capabilities/NNS ./.
+The/DT proposed/VBN system/NN could/MD be/VB used/VBN for/IN classification/NN ,/, unsupervised/JJ clustering/NN ,/, dimensionality/NN reduction/NN ,/, feature/NN extraction/NN ,/, and/CC anomaly/RB detection/NN applications/NNS ./.
+The/DT system/NN level/NN area/NN and/CC power/NN benefits/NNS of/IN the/DT specialized/JJ architecture/NN is/VBZ compared/VBN with/IN the/DT NVIDIA/NNP Telsa/NNP K20/NNP GPGPU/NNP ./.
+Our/PRP$ experimental/JJ evaluations/NNS show/VBP that/IN the/DT proposed/VBN architecture/NN can/MD provide/VB four/CD to/IN six/CD orders/NNS of/IN magnitude/NN more/RBR energy/NN efficiency/NN over/IN GPGPUs/NNS for/IN big/JJ data/NNS processing/NN ./.

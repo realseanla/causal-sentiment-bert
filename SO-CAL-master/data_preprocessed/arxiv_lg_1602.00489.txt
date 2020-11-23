@@ -1,0 +1,8 @@
+The/DT increasing/VBG popularity/NN of/IN HTTP/NN adaptive/JJ video/NN streaming/NN services/NNS has/VBZ dramatically/RB increased/VBN bandwidth/NN requirements/NNS on/IN operator/NN networks/NNS ,/, which/WDT attempt/VBP to/TO shape/VB their/PRP$ traffic/NN through/IN Deep/NNP Packet/NNP Inspection/NNP (/-LRB- DPI/NNP )/-RRB- ./.
+However/RB ,/, Google/NNP and/CC certain/JJ content/NN providers/NNS have/VBP started/VBN to/TO encrypt/VB their/PRP$ video/NN services/NNS ./.
+As/IN a/DT result/NN ,/, operators/NNS often/RB encounter/VBP difficulties/NNS in/IN shaping/VBG their/PRP$ encrypted/VBN video/NN traffic/NN via/IN DPI/NNP ./.
+This/DT highlights/VBZ the/DT need/NN for/IN new/JJ traffic/NN classification/NN methods/NNS for/IN encrypted/VBN HTTP/NN adaptive/JJ video/NN streaming/NN to/TO enable/VB smart/JJ traffic/NN shaping/NN ./.
+These/DT new/JJ methods/NNS will/MD have/VB to/TO effectively/RB estimate/VB the/DT quality/NN representation/NN layer/NN and/CC playout/NN buffer/NN ./.
+We/PRP present/VBP a/DT new/JJ method/NN and/CC show/NN for/IN the/DT first/JJ time/NN that/WDT video/NN quality/NN representation/NN classification/NN for/IN (/-LRB- YouTube/NNP )/-RRB- encrypted/VBN HTTP/NN adaptive/JJ streaming/NN is/VBZ possible/JJ ./.
+We/PRP analyze/VBP the/DT performance/NN of/IN this/DT classification/NN method/NN with/IN Safari/NNP over/IN HTTPS/NNP ./.
+Based/VBN on/IN a/DT large/JJ number/NN of/IN offline/RB and/CC online/RB traffic/NN classification/NN experiments/NNS ,/, we/PRP demonstrate/VBP that/IN it/PRP can/MD independently/RB classify/VB ,/, in/IN real/JJ time/NN ,/, every/DT video/NN segment/NN into/IN one/CD of/IN the/DT quality/NN representation/NN layers/NNS with/IN 97.18/CD percent/NN average/JJ accuracy/NN ./.

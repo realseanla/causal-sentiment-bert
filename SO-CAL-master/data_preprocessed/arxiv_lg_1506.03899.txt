@@ -1,0 +1,11 @@
+Place/VB classification/NN is/VBZ a/DT fundamental/JJ ability/NN that/WDT a/DT robot/NN should/MD possess/VB to/TO carry/VB out/RP effective/JJ human/JJ -/HYPH robot/NN interactions/NNS ./.
+It/PRP is/VBZ a/DT nontrivial/JJ classification/NN problem/NN which/WDT has/VBZ attracted/VBN many/JJ research/NN ./.
+In/IN recent/JJ years/NNS ,/, there/EX is/VBZ a/DT high/JJ exploitation/NN of/IN Artificial/NNP Intelligent/NNP algorithms/NNS in/IN robotics/NNS applications/NNS ./.
+Inspired/VBN by/IN the/DT recent/JJ successes/NNS of/IN deep/JJ learning/NN methods/NNS ,/, we/PRP propose/VBP an/DT end/NN -/HYPH to/IN -/HYPH end/NN learning/NN approach/NN for/IN the/DT place/NN classification/NN problem/NN ./.
+With/IN the/DT deep/JJ architectures/NNS ,/, this/DT methodology/NN automatically/RB discovers/VBZ features/NNS and/CC contributes/VBZ in/IN general/JJ to/IN higher/JJR classification/NN accuracies/NNS ./.
+The/DT pipeline/NN of/IN our/PRP$ approach/NN is/VBZ composed/VBN of/IN three/CD parts/NNS ./.
+Firstly/RB ,/, we/PRP construct/VBP multiple/JJ layers/NNS of/IN laser/NN range/NN data/NNS to/TO represent/VB the/DT environment/NN information/NN in/IN different/JJ levels/NNS of/IN granularity/NN ./.
+Secondly/RB ,/, each/DT layer/NN of/IN data/NNS is/VBZ fed/VBN into/IN a/DT deep/JJ neural/JJ network/NN model/NN for/IN classification/NN ,/, where/WRB a/DT graph/NN regularization/NN is/VBZ imposed/VBN to/IN the/DT deep/JJ architecture/NN for/IN keeping/VBG local/JJ consistency/NN between/IN adjacent/JJ samples/NNS ./.
+Finally/RB ,/, the/DT predicted/VBN labels/NNS obtained/VBN from/IN all/PDT the/DT layers/NNS are/VBP fused/VBN based/VBN on/IN confidence/NN trees/NNS to/TO maximize/VB the/DT overall/JJ confidence/NN ./.
+Experimental/JJ results/NNS validate/VBP the/DT effective/JJ -/HYPH ness/NN of/IN our/PRP$ end/NN -/HYPH to/IN -/HYPH end/NN place/NN classification/NN framework/NN in/IN which/WDT both/CC the/DT multi-layer/JJ structure/NN and/CC the/DT graph/NN regularization/NN promote/VB the/DT classification/NN performance/NN ./.
+Furthermore/RB ,/, results/NNS show/VBP that/IN the/DT features/NNS automatically/RB learned/VBD from/IN the/DT raw/JJ input/NN range/NN data/NNS can/MD achieve/VB competitive/JJ results/NNS to/IN the/DT features/NNS constructed/VBN based/VBN on/IN statistical/JJ and/CC geometrical/JJ information/NN ./.

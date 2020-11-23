@@ -1,0 +1,6 @@
+Sound and vision are the primary modalities that influence how we perceive the world around us.
+Thus, it is crucial to incorporate information from these modalities into language to help machines interact better with humans.
+While existing works have explored incorporating visual cues into language embeddings, the task of learning word representations that respect auditory grounding remains under-explored.
+In this work, we propose a new embedding scheme, sound-word2vec that learns language embeddings by grounding them in sound -- for example, two seemingly unrelated concepts, leaves and paper are closer in our embedding space as they produce similar rustling sounds.
+We demonstrate that the proposed embeddings perform better than language-only word representations, on two purely textual tasks that require reasoning about aural cues -- sound retrieval and foley-sound discovery.
+Finally, we analyze nearest neighbors to highlight the unique dependencies captured by sound-w2v as compared to language-only embeddings.

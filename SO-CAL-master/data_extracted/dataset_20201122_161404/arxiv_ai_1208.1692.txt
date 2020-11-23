@@ -1,0 +1,4 @@
+Inferring probabilistic networks from data is a notoriously difficult task.
+Under various goodness-of-fit measures, finding an optimal network is NP-hard, even if restricted to polytrees of bounded in-degree.
+Polynomial-time algorithms are known only for rare special cases, perhaps most notably for branchings, that is, polytrees in which the in-degree of every node is at most one.
+Here, we study the complexity of finding an optimal polytree that can be turned into a branching by deleting some number of arcs or nodes, treated as a parameter.

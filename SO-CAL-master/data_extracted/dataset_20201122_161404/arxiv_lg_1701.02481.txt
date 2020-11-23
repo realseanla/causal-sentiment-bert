@@ -1,0 +1,9 @@
+In this paper, we implicitly incorporate morpheme information into word embedding.
+Based on the strategy we utilize the morpheme information, three models are proposed.
+To test the performances of our models, we conduct the word similarity and syntactic analogy.
+The results demonstrate the effectiveness of our methods.
+Our models beat the comparative baselines on both tasks to a great extent.
+On the golden standard Wordsim-353 and RG-65, our models approximately outperform CBOW for 5 and 7 percent, respectively.
+In addition, 7 percent advantage is also achieved by our models on syntactic analysis.
+According to parameter analysis, our models can increase the semantic information in the corpus and our performances on the smallest corpus are similar to the performance of CBOW on the corpus which is five times ours.
+This property of our methods may have some positive effects on NLP researches about the corpus-limited languages.

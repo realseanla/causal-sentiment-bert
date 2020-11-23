@@ -1,0 +1,6 @@
+We/PRP present/VBP DAPIP/NNP ,/, a/DT Programming/NN -/HYPH By/IN -/HYPH Example/NN system/NN that/WDT learns/VBZ to/IN program/NN with/IN APIs/NNS to/TO perform/VB data/NNS transformation/NN tasks/NNS ./.
+We/PRP design/VBP a/DT domain/NN -/HYPH specific/JJ language/NN (/-LRB- DSL/NN )/-RRB- that/WDT allows/VBZ for/IN arbitrary/JJ concatenations/NNS of/IN API/NN outputs/NNS and/CC constant/JJ strings/NNS ./.
+The/DT DSL/NN consists/VBZ of/IN three/CD family/NN of/IN APIs/NNS :/: regular/JJ expression/NN -/HYPH based/VBN APIs/NNS ,/, lookup/NN APIs/NNS ,/, and/CC transformation/NN APIs/NNS ./.
+We/PRP then/RB present/VBP a/DT novel/JJ neural/JJ synthesis/NN algorithm/NN to/TO search/VB for/IN programs/NNS in/IN the/DT DSL/NN that/WDT are/VBP consistent/JJ with/IN a/DT given/VBN set/NN of/IN examples/NNS ./.
+The/DT search/NN algorithm/NN uses/VBZ recently/RB introduced/VBN neural/JJ architectures/NNS to/TO encode/VB input/NN -/HYPH output/NN examples/NNS and/CC to/TO model/VB the/DT program/NN search/NN in/IN the/DT DSL/NN ./.
+We/PRP show/VBP that/IN synthesis/NN algorithm/NN outperforms/VBZ baseline/NN methods/NNS for/IN synthesizing/VBG programs/NNS on/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH world/NN benchmarks/NNS ./.

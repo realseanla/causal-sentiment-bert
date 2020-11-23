@@ -1,0 +1,4 @@
+Word/NNP embeddings/NNS provide/VBP point/NN representations/NNS of/IN words/NNS containing/VBG useful/JJ semantic/JJ information/NN ./.
+We/PRP introduce/VBP multimodal/JJ word/NN distributions/NNS formed/VBN from/IN Gaussian/JJ mixtures/NNS ,/, for/IN multiple/JJ word/NN meanings/NNS ,/, entailment/NN ,/, and/CC rich/JJ uncertainty/NN information/NN ./.
+To/TO learn/VB these/DT distributions/NNS ,/, we/PRP propose/VBP an/DT energy/NN -/HYPH based/VBN max/NN -/HYPH margin/NN objective/NN ./.
+We/PRP show/VBP that/IN the/DT resulting/VBG approach/NN captures/VBZ uniquely/RB expressive/JJ semantic/JJ information/NN ,/, and/CC outperforms/VBZ alternatives/NNS ,/, such/JJ as/IN word2vec/NN skip/VB -/HYPH grams/NNS ,/, and/CC Gaussian/NNP embeddings/NNS ,/, on/IN benchmark/NN datasets/NNS such/JJ as/IN word/NN similarity/NN and/CC entailment/NN ./.

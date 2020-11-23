@@ -1,0 +1,4 @@
+In this paper, we describe a case study in a big metropolis, in which from data collected by digital sensors, we tried to understand mobility patterns of persons using buses and how this can generate knowledge to suggest interventions that are applied incrementally into the transportation network in use.
+We have first estimated an Origin-Destination matrix of buses users from datasets about the ticket validation and GPS positioning of buses.
+Then we represent the supply of buses with their routes through bus stops as a complex network, which allowed us to understand the bottlenecks of the current scenario and, in particular, applying community discovery techniques, to identify clusters that the service supply infrastructure has.
+Finally, from the superimposing of the flow of people represented in the OriginDestination matrix in the supply network, we exemplify how micro-interventions can be prospected by means of an example of the introduction of express routes.

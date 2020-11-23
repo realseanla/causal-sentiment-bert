@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN we/PRP address/VBP the/DT problem/NN of/IN robot/NN movement/NN adaptation/NN under/IN various/JJ environmental/JJ constraints/NNS interactively/RB ./.
+Motion/NN primitives/NNS are/VBP generally/RB adopted/VBN to/TO generate/VB target/NN motion/NN from/IN demonstrations/NNS ./.
+However/RB ,/, their/PRP$ generalization/NN capability/NN is/VBZ weak/JJ while/IN facing/VBG novel/JJ environments/NNS ./.
+Additionally/RB ,/, traditional/JJ motion/NN generation/NN methods/NNS do/VBP not/RB consider/VB the/DT versatile/JJ constraints/NNS from/IN various/JJ users/NNS ,/, tasks/NNS ,/, and/CC environments/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT co-active/JJ learning/NN framework/NN for/IN learning/VBG to/TO adapt/VB robot/NN end/NN -/HYPH effector/NN 's/POS movement/NN for/IN manipulation/NN tasks/NNS ./.
+It/PRP is/VBZ designed/VBN to/TO adapt/VB the/DT original/JJ imitation/NN trajectories/NNS ,/, which/WDT are/VBP learned/VBN from/IN demonstrations/NNS ,/, to/IN novel/JJ situations/NNS with/IN various/JJ constraints/NNS ./.
+The/DT framework/NN also/RB considers/VBZ user/NN 's/POS feedback/NN towards/IN the/DT adapted/VBN trajectories/NNS ,/, and/CC it/PRP learns/VBZ to/TO adapt/VB movement/NN through/IN human/JJ -/HYPH in/IN -/HYPH the/DT -/HYPH loop/NN interactions/NNS ./.
+The/DT implemented/VBN system/NN generalizes/VBZ trained/VBN motion/NN primitives/NNS to/IN various/JJ situations/NNS with/IN different/JJ constraints/NNS considering/VBG user/NN preferences/NNS ./.
+Experiments/NNS on/IN a/DT humanoid/JJ platform/NN validate/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN ./.

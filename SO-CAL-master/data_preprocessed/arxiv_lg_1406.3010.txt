@@ -1,0 +1,7 @@
+The/DT human/JJ visual/JJ system/NN is/VBZ able/JJ to/TO recognize/VB objects/NNS despite/IN transformations/NNS that/WDT can/MD drastically/RB alter/VB their/PRP$ appearance/NN ./.
+To/IN this/DT end/NN ,/, much/JJ effort/NN has/VBZ been/VBN devoted/VBN to/IN the/DT invariance/NN properties/NNS of/IN recognition/NN systems/NNS ./.
+Invariance/NNP can/MD be/VB engineered/VBN (/-LRB- e.g./FW convolutional/JJ nets/NNS )/-RRB- ,/, or/CC learned/VBN from/IN data/NNS explicitly/RB (/-LRB- e.g./FW temporal/JJ coherence/NN )/-RRB- or/CC implicitly/RB (/-LRB- e.g./FW by/IN data/NNS augmentation/NN )/-RRB- ./.
+One/CD idea/NN that/WDT has/VBZ not/RB ,/, to/IN date/NN ,/, been/VBN explored/VBN is/VBZ the/DT integration/NN of/IN latent/JJ variables/NNS which/WDT permit/VBP a/DT search/NN over/IN a/DT learned/VBN space/NN of/IN transformations/NNS ./.
+Motivated/VBN by/IN evidence/NN that/IN people/NNS mentally/RB simulate/VBP transformations/NNS in/IN space/NN while/IN comparing/VBG examples/NNS ,/, so/RB -/HYPH called/VBN "/`` mental/JJ rotation/NN "/'' ,/, we/PRP propose/VBP a/DT transforming/VBG distance/NN ./.
+Here/RB ,/, a/DT trained/VBN relational/JJ model/NN actively/RB transforms/VBZ pairs/NNS of/IN examples/NNS so/IN that/IN they/PRP are/VBP maximally/RB similar/JJ in/IN some/DT feature/NN space/NN yet/CC respect/NN the/DT learned/VBN transformational/JJ constraints/NNS ./.
+We/PRP apply/VBP our/PRP$ method/NN to/IN nearest/JJS -/HYPH neighbour/NN problems/NNS on/IN the/DT Toronto/NNP Face/NNP Database/NNP and/CC NORB/NNP ./.

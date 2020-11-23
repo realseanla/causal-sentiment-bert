@@ -1,0 +1,6 @@
+We/PRP present/VBP discriminative/JJ Gaifman/NNP models/NNS ,/, a/DT novel/JJ family/NN of/IN relational/JJ machine/NN learning/NN models/NNS ./.
+Gaifman/NNP models/NNS learn/VBP feature/NN representations/NNS bottom/NN up/RP from/IN representations/NNS of/IN locally/RB connected/VBN and/CC bounded/VBN -/HYPH size/NN regions/NNS of/IN knowledge/NN bases/NNS (/-LRB- KBs/NNS )/-RRB- ./.
+Considering/VBG local/JJ and/CC bounded/VBN -/HYPH size/NN neighborhoods/NNS of/IN knowledge/NN bases/NNS renders/VBZ logical/JJ inference/NN and/CC learning/NN tractable/JJ ,/, mitigates/VBZ the/DT problem/NN of/IN overfitting/VBG ,/, and/CC facilitates/VBZ weight/NN sharing/NN ./.
+Gaifman/NNP models/NNS sample/NN neighborhoods/NNS of/IN knowledge/NN bases/NNS so/RB as/IN to/TO make/VB the/DT learned/VBN relational/JJ models/NNS more/RBR robust/JJ to/IN missing/VBG objects/NNS and/CC relations/NNS which/WDT is/VBZ a/DT common/JJ situation/NN in/IN open/JJ -/HYPH world/NN KBs/NN ./.
+We/PRP present/VBP the/DT core/NN ideas/NNS of/IN Gaifman/NNP models/NNS and/CC apply/VB them/PRP to/IN large/JJ -/HYPH scale/NN relational/JJ learning/NN problems/NNS ./.
+We/PRP also/RB discuss/VBP the/DT ways/NNS in/IN which/WDT Gaifman/NNP models/NNS relate/VBP to/IN some/DT existing/VBG relational/JJ machine/NN learning/VBG approaches/NNS ./.

@@ -1,0 +1,5 @@
+An hybrid of a hidden Markov model (HMM) and a deep neural network (DNN) is considered.
+End-to-end training using gradient descent is suggested, similarly to the training of connectionist temporal classification (CTC).
+We use a maximum a-posteriori (MAP) criterion with a simple language model in the training stage, and a standard HMM decoder without approximations.
+Recognition results are presented using speech databases.
+Our method compares favorably to CTC in terms of performance, robustness and quality of alignments.

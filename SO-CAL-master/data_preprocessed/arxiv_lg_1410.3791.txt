@@ -1,0 +1,6 @@
+The/DT increasing/VBG diversity/NN of/IN languages/NNS used/VBN on/IN the/DT web/NN introduces/VBZ a/DT new/JJ level/NN of/IN complexity/NN to/IN Information/NNP Retrieval/NNP (/-LRB- IR/NN )/-RRB- systems/NNS ./.
+We/PRP can/MD no/RB longer/RB assume/VB that/IN textual/JJ content/NN is/VBZ written/VBN in/IN one/CD language/NN or/CC even/RB the/DT same/JJ language/NN family/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP demonstrate/VBP how/WRB to/TO build/VB massive/JJ multilingual/JJ annotators/NNS with/IN minimal/JJ human/JJ expertise/NN and/CC intervention/NN ./.
+We/PRP describe/VBP a/DT system/NN that/WDT builds/VBZ Named/VBN Entity/NNP Recognition/NNP (/-LRB- NER/NN )/-RRB- annotators/NNS for/IN 40/CD major/JJ languages/NNS using/VBG Wikipedia/NNP and/CC Freebase/NNP ./.
+Our/PRP$ approach/NN does/VBZ not/RB require/VB NER/NN human/JJ annotated/JJ datasets/NNS or/CC language/NN specific/JJ resources/NNS like/IN treebanks/NNS ,/, parallel/JJ corpora/NNS ,/, and/CC orthographic/JJ rules/NNS ./.
+The/DT novelty/NN of/IN approach/NN lies/VBZ therein/RB -/HYPH using/VBG only/RB language/NN agnostic/JJ techniques/NNS ,/, while/IN achieving/VBG competitive/JJ performance/NN ./.

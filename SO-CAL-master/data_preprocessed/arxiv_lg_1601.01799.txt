@@ -1,0 +1,9 @@
+Time/NNP series/NN classification/NN is/VBZ an/DT application/NN of/IN particular/JJ interest/NN with/IN the/DT increase/NN of/IN data/NNS to/TO monitor/VB ./.
+Classical/JJ techniques/NNS for/IN time/NN series/NN classification/NN rely/VBP on/IN point/NN -/HYPH to/IN -/HYPH point/NN distances/NNS ./.
+Recently/RB ,/, Bag/NN -/HYPH of/IN -/HYPH Words/NNS approaches/NNS have/VBP been/VBN used/VBN in/IN this/DT context/NN ./.
+Words/NNS are/VBP quantized/VBN versions/NNS of/IN simple/JJ features/NNS extracted/VBN from/IN sliding/VBG windows/NNS ./.
+The/DT SIFT/NNP framework/NN has/VBZ proved/VBN efficient/JJ for/IN image/NN classification/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP design/VBP a/DT time/NN series/NN classification/NN scheme/NN that/WDT builds/VBZ on/IN the/DT SIFT/NNP framework/NN adapted/VBD to/IN time/NN series/NN to/TO feed/VB a/DT Bag/NN -/HYPH of/IN -/HYPH Words/NNS ./.
+We/PRP then/RB refine/VBP our/PRP$ method/NN by/IN studying/VBG the/DT impact/NN of/IN normalized/VBN Bag/NN -/HYPH of/IN -/HYPH Words/NNS ,/, as/RB well/RB as/IN densely/RB extract/NN point/NN descriptors/NNS ./.
+Proposed/VBN adjustements/NNS achieve/VB better/JJR performance/NN ./.
+The/DT evaluation/NN shows/VBZ that/IN our/PRP$ method/NN outperforms/VBZ classical/JJ techniques/NNS in/IN terms/NNS of/IN classification/NN ./.

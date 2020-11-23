@@ -1,0 +1,5 @@
+Unsupervised/JJ neural/JJ networks/NNS ,/, such/JJ as/IN restricted/VBN Boltzmann/NNP machines/NNS (/-LRB- RBMs/NNS )/-RRB- and/CC deep/JJ belief/NN networks/NNS (/-LRB- DBNs/NNS )/-RRB- ,/, are/VBP powerful/JJ tools/NNS for/IN feature/NN selection/NN and/CC pattern/NN recognition/NN tasks/NNS ./.
+We/PRP demonstrate/VBP that/IN overfitting/NN occurs/VBZ in/IN such/JJ models/NNS just/RB as/IN in/IN deep/JJ feedforward/NN neural/JJ networks/NNS ,/, and/CC discuss/VB possible/JJ regularization/NN methods/NNS to/TO reduce/VB overfitting/NN ./.
+We/PRP consider/VBP weight/NN decay/NN ,/, model/NN averaging/VBG methods/NNS ,/, and/CC backward/JJ elimination/NN ,/, and/CC propose/VB revised/VBN model/NN averaging/VBG methods/NNS to/TO improve/VB their/PRP$ efficiency/NN ./.
+We/PRP also/RB discuss/VBP the/DT asymptotic/JJ convergence/NN properties/NNS of/IN these/DT methods/NNS ./.
+Finally/RB ,/, we/PRP compare/VBP the/DT performance/NN of/IN these/DT methods/NNS using/VBG likelihood/NN and/CC classification/NN error/NN rates/NNS on/IN various/JJ pattern/NN recognition/NN data/NN sets/NNS ./.

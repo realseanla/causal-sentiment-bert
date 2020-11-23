@@ -1,0 +1,12 @@
+The/DT development/NN of/IN summarization/NN research/NN has/VBZ been/VBN significantly/RB hampered/VBN by/IN the/DT costly/JJ acquisition/NN of/IN reference/NN summaries/NNS ./.
+This/DT paper/NN proposes/VBZ an/DT effective/JJ way/NN to/TO automatically/RB collect/VB large/JJ scales/NNS of/IN news/NN -/HYPH related/VBN multi-document/JJ summaries/NNS with/IN reference/NN to/IN social/JJ media/NN 's/POS reactions/NNS ./.
+We/PRP utilize/VBP two/CD types/NNS of/IN social/JJ labels/NNS in/IN tweets/NNS ,/, i.e./FW ,/, hashtags/NNS and/CC hyper/JJ -/HYPH links/NNS ./.
+Hashtags/NNS are/VBP used/VBN to/TO cluster/VB documents/NNS into/IN different/JJ topic/NN sets/NNS ./.
+Also/RB ,/, a/DT tweet/NN with/IN a/DT hyper/JJ -/HYPH link/NN often/RB highlights/VBZ certain/JJ key/JJ points/NNS of/IN the/DT corresponding/VBG document/NN ./.
+We/PRP synthesize/VBP a/DT linked/VBN document/NN cluster/NN to/TO form/VB a/DT reference/NN summary/NN which/WDT can/MD cover/VB most/RBS key/JJ points/NNS ./.
+To/IN this/DT aim/NN ,/, we/PRP adopt/VBP the/DT ROUGE/NN metrics/NNS to/TO measure/VB the/DT coverage/NN ratio/NN ,/, and/CC develop/VB an/DT Integer/NNP Linear/NNP Programming/NN solution/NN to/TO discover/VB the/DT sentence/NN set/NN reaching/VBG the/DT upper/JJ bound/VBN of/IN ROUGE/NN ./.
+Since/IN we/PRP allow/VBP summary/NN sentences/NNS to/TO be/VB selected/VBN from/IN both/DT documents/NNS and/CC high/JJ -/HYPH quality/NN tweets/NNS ,/, the/DT generated/VBN reference/NN summaries/NNS could/MD be/VB abstractive/JJ ./.
+Both/DT informativeness/NN and/CC readability/NN of/IN the/DT collected/VBN summaries/NNS are/VBP verified/VBN by/IN manual/JJ judgment/NN ./.
+In/IN addition/NN ,/, we/PRP train/VBP a/DT Support/NN Vector/NNP Regression/NNP summarizer/NN on/IN DUC/NNP generic/JJ multi-document/JJ summarization/NN benchmarks/NNS ./.
+With/IN the/DT collected/VBN data/NNS as/IN extra/JJ training/NN resource/NN ,/, the/DT performance/NN of/IN the/DT summarizer/NN improves/VBZ a/DT lot/NN on/IN all/PDT the/DT test/NN sets/NNS ./.
+We/PRP release/VBP this/DT dataset/NN for/IN further/JJ research/NN ./.

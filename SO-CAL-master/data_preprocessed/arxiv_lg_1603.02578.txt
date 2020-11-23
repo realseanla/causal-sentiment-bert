@@ -1,0 +1,3 @@
+We/PRP introduce/VBP a/DT batched/JJ lazy/JJ algorithm/NN for/IN supervised/JJ classification/NN using/VBG decision/NN trees/NNS ./.
+It/PRP avoids/VBZ unnecessary/JJ visits/NNS to/IN irrelevant/JJ nodes/NNS when/WRB it/PRP is/VBZ used/VBN to/TO make/VB predictions/NNS with/IN either/CC eagerly/RB or/CC lazily/RB trained/VBN decision/NN trees/NNS ./.
+A/DT set/NN of/IN experiments/NNS demonstrate/VBP that/IN the/DT proposed/VBN algorithm/NN can/MD outperform/VB both/CC the/DT conventional/JJ and/CC lazy/JJ decision/NN tree/NN algorithms/NNS in/IN terms/NNS of/IN computation/NN time/NN as/RB well/RB as/IN memory/NN consumption/NN ,/, without/IN compromising/VBG accuracy/NN ./.

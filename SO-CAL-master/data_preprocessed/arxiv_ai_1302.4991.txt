@@ -1,0 +1,8 @@
+Recent/JJ developments/NNS show/VBP that/IN Multiply/NNP Sectioned/VBN Bayesian/JJ Networks/NNS (/-LRB- MSBNs/NNS )/-RRB- can/MD be/VB used/VBN for/IN diagnosis/NN of/IN natural/JJ systems/NNS as/RB well/RB as/IN for/IN model/NN -/HYPH based/VBN diagnosis/NN of/IN artificial/JJ systems/NNS ./.
+They/PRP can/MD be/VB applied/VBN to/IN single/JJ -/HYPH agent/NN oriented/VBN reasoning/NN systems/NNS as/RB well/RB as/IN multi-agent/JJ distributed/VBN probabilistic/JJ reasoning/NN systems/NNS ./.
+Belief/NN propagation/NN between/IN a/DT pair/NN of/IN subnets/NNS plays/VBZ a/DT central/JJ role/NN in/IN maintenance/NN of/IN global/JJ consistency/NN in/IN a/DT MSBN/NNP ./.
+This/DT paper/NN studies/NNS the/DT operation/NN UpdateBelief/NN ,/, presented/VBN originally/RB with/IN MSBNs/NNS ,/, for/IN inter-subnet/JJ propagation/NN ./.
+We/PRP analyze/VBP how/WRB the/DT operation/NN achieves/VBZ its/PRP$ intended/VBN functionality/NN ,/, which/WDT provides/VBZ hints/NNS as/IN for/IN how/WRB its/PRP$ efficiency/NN can/MD be/VB improved/VBN ./.
+We/PRP then/RB define/VBP two/CD new/JJ versions/NNS of/IN UpdateBelief/NNP that/WDT reduce/VBP the/DT computation/NN time/NN for/IN inter-subnet/JJ propagation/NN ./.
+One/CD of/IN them/PRP is/VBZ optimal/JJ in/IN the/DT sense/NN that/IN the/DT minimum/JJ amount/NN of/IN computation/NN for/IN coordinating/VBG multi-linkage/JJ belief/NN propagation/NN is/VBZ required/VBN ./.
+The/DT optimization/NN problem/NN is/VBZ solved/VBN through/IN the/DT solution/NN of/IN a/DT graph/NN -/HYPH theoretic/JJ problem/NN :/: the/DT minimum/JJ weight/NN open/JJ tour/NN in/IN a/DT tree/NN ./.

@@ -1,0 +1,5 @@
+Valuation based systems verifying an idempotent property are studied.
+A partial order is defined between the valuations giving them a lattice structure.
+Then, two different strategies are introduced to represent valuations: as infimum of the most informative valuations or as supremum of the least informative ones.
+It is studied how to carry out computations with both representations in an efficient way.
+The particular cases of finite sets and convex polytopes are considered.

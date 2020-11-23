@@ -1,0 +1,12 @@
+In this work, we define cost-free learning (CFL) formally in comparison with cost-sensitive learning (CSL).
+The main difference between them is that a CFL approach seeks optimal classification results without requiring any cost information, even in the class imbalance problem.
+In fact, several CFL approaches exist in the related studies, such as sampling and some criteria-based pproaches.
+However, to our best knowledge, none of the existing CFL and CSL approaches are able to process the abstaining classifications properly when no information is given about errors and rejects.
+Based on information theory, we propose a novel CFL which seeks to maximize normalized mutual information of the targets and the decision outputs of classifiers.
+Using the strategy, we can deal with binary/multi-class classifications with/without abstaining.
+Significant features are observed from the new strategy.
+While the degree of class imbalance is changing, the proposed strategy is able to balance the errors and rejects accordingly and automatically.
+Another advantage of the strategy is its ability of deriving optimal rejection thresholds for abstaining classifications and the "equivalent" costs in binary classifications.
+The connection between rejection thresholds and ROC curve is explored.
+Empirical investigation is made on several benchmark data sets in comparison with other existing approaches.
+The classification results demonstrate a promising perspective of the strategy in machine learning.

@@ -1,0 +1,3 @@
+This paper examines the problem of constructing belief networks to evaluate plans produced by an knowledge-based planner.
+Techniques are presented for handling various types of complicating plan features.
+These include plans with context-dependent consequences, indirect consequences, actions with preconditions that must be true during the execution of an action, contingencies, multiple levels of abstraction multiple execution agents with partially-ordered and temporally overlapping actions, and plans which reference specific times and time durations.

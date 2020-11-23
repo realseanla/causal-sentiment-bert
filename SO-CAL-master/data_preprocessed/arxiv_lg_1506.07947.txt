@@ -1,0 +1,7 @@
+In/IN applications/NNS such/JJ as/IN recommendation/NN systems/NNS and/CC revenue/NN management/NN ,/, it/PRP is/VBZ important/JJ to/TO predict/VB preferences/NNS on/IN items/NNS that/WDT have/VBP not/RB been/VBN seen/VBN by/IN a/DT user/NN or/CC predict/VB outcomes/NNS of/IN comparisons/NNS among/IN those/DT that/WDT have/VBP never/RB been/VBN compared/VBN ./.
+A/DT popular/JJ discrete/JJ choice/NN model/NN of/IN multinomial/JJ logit/NN model/NN captures/VBZ the/DT structure/NN of/IN the/DT hidden/JJ preferences/NNS with/IN a/DT low/JJ -/HYPH rank/NN matrix/NN ./.
+In/IN order/NN to/TO predict/VB the/DT preferences/NNS ,/, we/PRP want/VBP to/TO learn/VB the/DT underlying/VBG model/NN from/IN noisy/JJ observations/NNS of/IN the/DT low/JJ -/HYPH rank/NN matrix/NN ,/, collected/VBN as/IN revealed/VBN preferences/NNS in/IN various/JJ forms/NNS of/IN ordinal/JJ data/NNS ./.
+A/DT natural/JJ approach/NN to/TO learn/VB such/PDT a/DT model/NN is/VBZ to/TO solve/VB a/DT convex/NN relaxation/NN of/IN nuclear/JJ norm/NN minimization/NN ./.
+We/PRP present/VBP the/DT convex/NN relaxation/NN approach/NN in/IN two/CD contexts/NNS of/IN interest/NN :/: collaborative/JJ ranking/NN and/CC bundled/VBN choice/NN modeling/NN ./.
+In/IN both/DT cases/NNS ,/, we/PRP show/VBP that/IN the/DT convex/NN relaxation/NN is/VBZ minimax/JJ optimal/JJ ./.
+We/PRP prove/VBP an/DT upper/JJ bound/VBN on/IN the/DT resulting/VBG error/NN with/IN finite/NN samples/NNS ,/, and/CC provide/VB a/DT matching/JJ information/NN -/HYPH theoretic/JJ lower/JJR bound/JJ ./.

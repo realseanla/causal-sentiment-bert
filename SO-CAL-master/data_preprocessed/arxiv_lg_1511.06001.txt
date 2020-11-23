@@ -1,0 +1,7 @@
+Surface/NN electromyography/NN is/VBZ a/DT valid/JJ tool/NN to/TO gather/VB muscular/JJ contraction/NN signals/NNS from/IN intact/JJ and/CC amputated/VBN subjects/NNS ./.
+Electromyographic/JJ signals/NNS can/MD be/VB used/VBN to/TO control/VB prosthetic/JJ devices/NNS in/IN a/DT noninvasive/JJ way/NN distinguishing/VBG the/DT movements/NNS performed/VBN by/IN the/DT particular/JJ EMG/NNP electrodes/NNS activity/NN ./.
+According/VBG to/IN the/DT literature/NN ,/, several/JJ algorithms/NNS have/VBP been/VBN used/VBN to/TO control/VB prosthetic/JJ hands/NNS through/IN s/NN -/HYPH EMG/NN signals/NNS ./.
+The/DT main/JJ issue/NN is/VBZ to/TO correctly/RB classify/VB the/DT signals/NNS acquired/VBN as/IN the/DT movement/NN actually/RB performed/VBN ./.
+This/DT work/NN presents/VBZ a/DT study/NN on/IN the/DT Support/NN Vector/NNP Machine/NNP 's/POS performance/NN in/IN a/DT short/JJ -/HYPH time/NN period/NN ,/, gained/VBN using/VBG two/CD different/JJ feature/NN representation/NN (/-LRB- Mean/NNP Absolute/NNP Value/NN and/CC Waveform/NN Length/NN )/-RRB- of/IN the/DT sEMG/NN signals/NNS ./.
+In/IN particular/JJ ,/, we/PRP paid/VBD close/JJ attention/NN to/IN the/DT repeatability/NN problem/NN ,/, that/DT is/VBZ the/DT capability/NN to/TO achieve/VB a/DT stable/JJ and/CC satisfactory/JJ level/NN of/IN accuracy/NN in/IN repeated/VBN experiments/NNS ./.
+Results/NNS on/IN a/DT limited/JJ setting/NN are/VBP encouraging/VBG ,/, as/IN they/PRP show/VBP an/DT average/JJ accuracy/NN above/IN 73/CD percent/NN even/RB in/IN the/DT worst/JJS case/NN scenario/NN ./.

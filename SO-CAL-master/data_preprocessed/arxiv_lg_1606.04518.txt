@@ -1,0 +1,10 @@
+Observational/JJ studies/NNS are/VBP based/VBN on/IN accurate/JJ assessment/NN of/IN human/JJ state/NN ./.
+A/DT behavior/NN recognition/NN system/NN that/WDT models/NNS interlocutors/NNS '/POS state/NN in/IN real/JJ -/HYPH time/NN can/MD significantly/RB aid/VB the/DT mental/JJ health/NN domain/NN ./.
+However/RB ,/, behavior/NN recognition/NN from/IN speech/NN remains/VBZ a/DT challenging/JJ task/NN since/IN it/PRP is/VBZ difficult/JJ to/TO find/VB generalizable/JJ and/CC representative/JJ features/NNS because/IN of/IN noisy/JJ and/CC high/JJ -/HYPH dimensional/JJ data/NNS ,/, especially/RB when/WRB data/NNS is/VBZ limited/VBN and/CC annotated/VBN coarsely/RB and/CC subjectively/RB ./.
+Deep/JJ Neural/JJ Networks/NNS (/-LRB- DNN/NN )/-RRB- have/VBP shown/VBN promise/NN in/IN a/DT wide/JJ range/NN of/IN machine/NN learning/NN tasks/NNS ,/, but/CC for/IN Behavioral/JJ Signal/NNP Processing/NNP (/-LRB- BSP/NN )/-RRB- tasks/NNS their/PRP$ application/NN has/VBZ been/VBN constrained/VBN due/IN to/IN limited/JJ quantity/NN of/IN data/NNS ./.
+We/PRP propose/VBP a/DT Sparsely/RB -/HYPH Connected/VBN and/CC Disjointly/RB -/HYPH Trained/VBN DNN/NN (/-LRB- SD/NN -/HYPH DNN/NN )/-RRB- framework/NN to/TO deal/VB with/IN limited/JJ data/NNS ./.
+First/RB ,/, we/PRP break/VBP the/DT acoustic/JJ feature/NN set/VBN into/IN subsets/NNS and/CC train/NN multiple/JJ distinct/JJ classifiers/NNS ./.
+Then/RB ,/, the/DT hidden/JJ layers/NNS of/IN these/DT classifiers/NNS become/VBP parts/NNS of/IN a/DT deeper/JJR network/NN that/WDT integrates/VBZ all/DT feature/NN streams/NNS ./.
+The/DT overall/JJ system/NN allows/VBZ for/IN full/JJ connectivity/NN while/IN limiting/VBG the/DT number/NN of/IN parameters/NNS trained/VBN at/IN any/DT time/NN and/CC allows/VBZ convergence/NN possible/JJ with/IN even/RB limited/VBN data/NNS ./.
+We/PRP present/VBP results/NNS on/IN multiple/JJ behavior/NN codes/NNS in/IN the/DT couples/NNS '/POS therapy/NN domain/NN and/CC demonstrate/VBP the/DT benefits/NNS in/IN behavior/NN classification/NN accuracy/NN ./.
+We/PRP also/RB show/VBP the/DT viability/NN of/IN this/DT system/NN towards/IN live/JJ behavior/NN annotations/NNS ./.

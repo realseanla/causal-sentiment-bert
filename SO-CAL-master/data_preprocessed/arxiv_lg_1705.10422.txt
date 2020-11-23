@@ -1,0 +1,8 @@
+Sensor/NN fusion/NN is/VBZ indispensable/JJ to/TO improve/VB accuracy/NN and/CC robustness/NN in/IN an/DT autonomous/JJ navigation/NN setting/NN ./.
+However/RB ,/, in/IN the/DT space/NN of/IN end/NN -/HYPH to/IN -/HYPH end/NN sensorimotor/NN control/NN ,/, this/DT multimodal/JJ outlook/NN has/VBZ received/VBN limited/JJ attention/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT novel/JJ stochastic/JJ regularization/NN technique/NN ,/, called/VBN Sensor/NNP Dropout/NNP ,/, to/IN robustify/JJ multimodal/JJ sensor/NN policy/NN learning/NN outcomes/NNS ./.
+We/PRP also/RB introduce/VBP an/DT auxiliary/JJ loss/NN on/IN policy/NN network/NN along/IN with/IN the/DT standard/JJ DRL/NN loss/NN that/WDT help/VBP reduce/VB the/DT action/NN variations/NNS of/IN the/DT multimodal/JJ sensor/NN policy/NN ./.
+Through/IN empirical/JJ testing/NN we/PRP demonstrate/VBP that/IN our/PRP$ proposed/VBN policy/NN can/MD 1/LS )/-RRB- operate/VB with/IN minimal/JJ performance/NN drop/NN in/IN noisy/JJ environments/NNS ,/, 2/CD )/-RRB- remain/VBP functional/JJ even/RB in/IN the/DT face/NN of/IN a/DT sensor/NN subset/NN failure/NN ./.
+Finally/RB ,/, through/IN the/DT visualization/NN of/IN gradients/NNS ,/, we/PRP show/VBP that/IN the/DT learned/VBN policies/NNS are/VBP conditioned/VBN on/IN the/DT same/JJ latent/JJ input/NN distribution/NN despite/IN having/VBG multiple/JJ sensory/JJ observations/NNS spaces/NNS -/: a/DT hallmark/NN of/IN true/JJ sensor/NN -/HYPH fusion/NN ./.
+This/DT efficacy/NN of/IN a/DT multimodal/JJ policy/NN is/VBZ shown/VBN through/IN simulations/NNS on/IN TORCS/NN ,/, a/DT popular/JJ open/JJ -/HYPH source/NN racing/NN car/NN game/NN ./.
+A/DT demo/NN video/NN can/MD be/VB seen/VBN here/RB :/:

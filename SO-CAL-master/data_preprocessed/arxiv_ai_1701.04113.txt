@@ -1,0 +1,6 @@
+The/DT combinatorial/JJ explosion/NN that/WDT plagues/NNS planning/VBG and/CC reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- algorithms/NNS can/MD be/VB moderated/VBN using/VBG state/NN abstraction/NN ./.
+Prohibitively/RB large/JJ task/NN representations/NNS can/MD be/VB condensed/VBN such/JJ that/IN essential/JJ information/NN is/VBZ preserved/VBN ,/, and/CC consequently/RB ,/, solutions/NNS are/VBP tractably/RB computable/JJ ./.
+However/RB ,/, exact/JJ abstractions/NNS ,/, which/WDT treat/VBP only/RB fully/RB -/HYPH identical/JJ situations/NNS as/IN equivalent/JJ ,/, fail/VBP to/TO present/VB opportunities/NNS for/IN abstraction/NN in/IN environments/NNS where/WRB no/DT two/CD situations/NNS are/VBP exactly/RB alike/RB ./.
+In/IN this/DT work/NN ,/, we/PRP investigate/VBP approximate/JJ state/NN abstractions/NNS ,/, which/WDT treat/VBP nearly/RB -/HYPH identical/JJ situations/NNS as/IN equivalent/JJ ./.
+We/PRP present/VBP theoretical/JJ guarantees/NNS of/IN the/DT quality/NN of/IN behaviors/NNS derived/VBN from/IN four/CD types/NNS of/IN approximate/JJ abstractions/NNS ./.
+Additionally/RB ,/, we/PRP empirically/RB demonstrate/VBP that/IN approximate/JJ abstractions/NNS lead/VBP to/IN reduction/NN in/IN task/NN complexity/NN and/CC bounded/VBD loss/NN of/IN optimality/NN of/IN behavior/NN in/IN a/DT variety/NN of/IN environments/NNS ./.

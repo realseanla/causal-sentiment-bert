@@ -1,0 +1,5 @@
+In this paper we present a novel genetic algorithm (GA) solution to a simple yet challenging commercial puzzle game known as the Zen Puzzle Garden (ZPG).
+We describe the game in detail, before presenting a suitable encoding scheme and fitness function for candidate solutions.
+We then compare the performance of the genetic algorithm with that of the A* algorithm.
+Our results show that the GA is competitive with informed search in terms of solution quality, and significantly out-performs it in terms of computational resource requirements.
+We conclude with a brief discussion of the implications of our findings for game solving and other "real world" problems.

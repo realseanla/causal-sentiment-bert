@@ -1,0 +1,8 @@
+We/PRP present/VBP a/DT method/NN for/IN extracting/VBG depth/NN information/NN from/IN a/DT rectified/VBN image/NN pair/NN ./.
+Our/PRP$ approach/NN focuses/VBZ on/IN the/DT first/JJ stage/NN of/IN many/JJ stereo/NN algorithms/NNS :/: the/DT matching/VBG cost/NN computation/NN ./.
+We/PRP approach/VBP the/DT problem/NN by/IN learning/VBG a/DT similarity/NN measure/NN on/IN small/JJ image/NN patches/NNS using/VBG a/DT convolutional/JJ neural/JJ network/NN ./.
+Training/NN is/VBZ carried/VBN out/RP in/IN a/DT supervised/JJ manner/NN by/IN constructing/VBG a/DT binary/JJ classification/NN data/NNS set/VBN with/IN examples/NNS of/IN similar/JJ and/CC dissimilar/JJ pairs/NNS of/IN patches/NNS ./.
+We/PRP examine/VBP two/CD network/NN architectures/NNS for/IN this/DT task/NN :/: one/CD tuned/VBN for/IN speed/NN ,/, the/DT other/JJ for/IN accuracy/NN ./.
+The/DT output/NN of/IN the/DT convolutional/JJ neural/JJ network/NN is/VBZ used/VBN to/TO initialize/VB the/DT stereo/NN matching/VBG cost/NN ./.
+A/DT series/NN of/IN post-processing/JJ steps/NNS follow/VBP :/: cross-based/JJ cost/NN aggregation/NN ,/, semiglobal/JJ matching/NN ,/, a/DT left/JJ -/HYPH right/JJ consistency/NN check/NN ,/, subpixel/NN enhancement/NN ,/, a/DT median/JJ filter/NN ,/, and/CC a/DT bilateral/JJ filter/NN ./.
+We/PRP evaluate/VBP our/PRP$ method/NN on/IN the/DT KITTI/NNP 2012/CD ,/, KITTI/NNP 2015/CD ,/, and/CC Middlebury/NNP stereo/NN data/NN sets/NNS and/CC show/VBP that/IN it/PRP outperforms/VBZ other/JJ approaches/NNS on/IN all/DT three/CD data/NNS sets/NNS ./.

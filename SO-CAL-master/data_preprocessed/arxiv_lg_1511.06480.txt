@@ -1,0 +1,6 @@
+Binary/JJ embeddings/NNS provide/VBP efficient/JJ and/CC powerful/JJ ways/NNS to/TO perform/VB operations/NNS on/IN large/JJ scale/NN data/NNS ./.
+However/RB binary/JJ embedding/NN typically/RB requires/VBZ long/JJ codes/NNS in/IN order/NN to/TO preserve/VB the/DT discriminative/JJ power/NN of/IN the/DT input/NN space/NN ./.
+Thus/RB binary/JJ coding/NN methods/NNS traditionally/RB suffer/VBP from/IN high/JJ computation/NN and/CC storage/NN costs/NNS in/IN such/PDT a/DT scenario/NN ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP propose/VBP Circulant/NNP Binary/NNP Embedding/NNP (/-LRB- CBE/NNP )/-RRB- which/WDT generates/VBZ binary/JJ codes/NNS by/IN projecting/VBG the/DT data/NNS with/IN a/DT circulant/NN matrix/NN ./.
+The/DT circulant/JJ structure/NN allows/VBZ us/PRP to/TO use/VB Fast/JJ Fourier/NNP Transform/NNP algorithms/NNS to/TO speed/VB up/RP the/DT computation/NN ./.
+For/IN obtaining/VBG $/$ k/CD $/$ -/HYPH bit/NN binary/JJ codes/NNS from/IN $/$ d/LS $/$ -/HYPH dimensional/JJ data/NNS ,/, this/DT improves/VBZ the/DT time/NN complexity/NN from/IN $/$ O/UH (/-LRB- dk/NN )/-RRB- $/$ to/IN $/$ O/UH (/-LRB- d/NN \/SYM log/NN {/-LRB- d/NN }/-RRB- )/-RRB- $/$ ,/, and/CC the/DT space/NN complexity/NN from/IN $/$ O/UH (/-LRB- dk/NN )/-RRB- $/$ to/IN $/$ O/UH (/-LRB- d/NN )/-RRB- $/$ ./.

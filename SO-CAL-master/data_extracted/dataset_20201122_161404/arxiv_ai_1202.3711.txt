@@ -1,0 +1,4 @@
+We present a novel approach to constraint-based causal discovery, that takes the form of straightforward logical inference, applied to a list of simple, logical statements about causal relations that are derived directly from observed (in)dependencies.
+It is both sound and complete, in the sense that all invariant features of the corresponding partial ancestral graph (PAG) are identified, even in the presence of latent variables and selection bias.
+The approach shows that every identifiable causal relation corresponds to one of just two fundamental forms.
+More importantly, as the basic building blocks of the method do not rely on the detailed (graphical) structure of the corresponding PAG, it opens up a range of new opportunities, including more robust inference, detailed accountability, and application to large models.

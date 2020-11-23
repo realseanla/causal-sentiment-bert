@@ -1,0 +1,7 @@
+Psycholinguistic/JJ properties/NNS of/IN words/NNS have/VBP been/VBN used/VBN in/IN various/JJ approaches/NNS to/IN Natural/NNP Language/NNP Processing/NNP tasks/NNS ,/, such/JJ as/IN text/NN simplification/NN and/CC readability/NN assessment/NN ./.
+Most/JJS of/IN these/DT properties/NNS are/VBP subjective/JJ ,/, involving/VBG costly/JJ and/CC time/NN -/HYPH consuming/VBG surveys/NNS to/TO be/VB gathered/VBN ./.
+Recent/JJ approaches/NNS use/VBP the/DT limited/JJ datasets/NNS of/IN psycholinguistic/JJ properties/NNS to/TO extend/VB them/PRP automatically/RB to/IN large/JJ lexicons/NNS ./.
+However/RB ,/, some/DT of/IN the/DT resources/NNS used/VBN by/IN such/JJ approaches/NNS are/VBP not/RB available/JJ to/IN most/JJS languages/NNS ./.
+This/DT study/NN presents/VBZ a/DT method/NN to/TO infer/VB psycholinguistic/JJ properties/NNS for/IN Brazilian/JJ Portuguese/JJ (/-LRB- BP/NN )/-RRB- using/VBG regressors/NNS built/VBN with/IN a/DT light/NN set/NN of/IN features/NNS usually/RB available/JJ for/IN less/JJR resourced/VBN languages/NNS :/: word/NN length/NN ,/, frequency/NN lists/NNS ,/, lexical/JJ databases/NNS composed/VBN of/IN school/NN dictionaries/NNS and/CC word/NN embedding/NN models/NNS ./.
+The/DT correlations/NNS between/IN the/DT properties/NNS inferred/VBN are/VBP close/JJ to/IN those/DT obtained/VBN by/IN related/JJ works/NNS ./.
+The/DT resulting/VBG resource/NN contains/VBZ 26,874/CD words/NNS in/IN BP/NN annotated/VBN with/IN concreteness/NN ,/, age/NN of/IN acquisition/NN ,/, imageability/NN and/CC subjective/JJ frequency/NN ./.

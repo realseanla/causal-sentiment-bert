@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP propose/VBP the/DT application/NN of/IN feature/NN hashing/VBG to/TO create/VB word/NN embeddings/NNS for/IN natural/JJ language/NN processing/NN ./.
+Feature/NN hashing/VBG has/VBZ been/VBN used/VBN successfully/RB to/TO create/VB document/NN vectors/NNS in/IN related/JJ tasks/NNS like/IN document/NN classification/NN ./.
+In/IN this/DT work/NN we/PRP show/VBP that/IN feature/NN hashing/VBG can/MD be/VB applied/VBN to/TO obtain/VB word/NN embeddings/NNS in/IN linear/JJ time/NN with/IN the/DT size/NN of/IN the/DT data/NNS ./.
+The/DT results/NNS show/VBP that/IN this/DT algorithm/NN ,/, that/DT does/VBZ not/RB need/VB training/NN ,/, is/VBZ able/JJ to/TO capture/VB the/DT semantic/JJ meaning/NN of/IN words/NNS ./.
+We/PRP compare/VBP the/DT results/NNS against/IN GloVe/NN showing/VBG that/IN they/PRP are/VBP similar/JJ ./.
+As/RB far/RB as/IN we/PRP know/VBP this/DT is/VBZ the/DT first/JJ application/NN of/IN feature/NN hashing/VBG to/IN the/DT word/NN embeddings/NNS problem/NN and/CC the/DT results/NNS indicate/VBP this/DT is/VBZ a/DT scalable/JJ technique/NN with/IN practical/JJ results/NNS for/IN NLP/NN applications/NNS ./.

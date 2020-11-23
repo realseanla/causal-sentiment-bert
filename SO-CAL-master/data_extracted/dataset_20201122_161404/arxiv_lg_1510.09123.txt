@@ -1,0 +1,6 @@
+We consider smoothed versions of geometric range spaces, so an element of the ground set (e.g.
+a point) can be contained in a range with a non-binary value in $[0,1]$.
+Similar notions have been considered for kernels; we extend them to more general types of ranges.
+We then consider approximations of these range spaces through $\varepsilon $-nets and $\varepsilon $-samples (aka $\varepsilon$-approximations).
+We characterize when size bounds for $\varepsilon $-samples on kernels can be extended to these more general smoothed range spaces.
+We also describe new generalizations for $\varepsilon $-nets to these range spaces and show when results from binary range spaces can carry over to these smoothed ones.

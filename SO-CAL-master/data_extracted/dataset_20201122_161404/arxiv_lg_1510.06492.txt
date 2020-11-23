@@ -1,0 +1,6 @@
+We consider the problem of classifying graphs using graph kernels.
+We define a new graph kernel, called the generalized shortest path kernel, based on the number and length of shortest paths between nodes.
+For our example classification problem, we consider the task of classifying random graphs from two well-known families, by the number of clusters they contain.
+We verify empirically that the generalized shortest path kernel outperforms the original shortest path kernel on a number of datasets.
+We give a theoretical analysis for explaining our experimental results.
+In particular, we estimate distributions of the expected feature vectors for the shortest path kernel and the generalized shortest path kernel, and we show some evidence explaining why our graph kernel outperforms the shortest path kernel for our graph classification problem.

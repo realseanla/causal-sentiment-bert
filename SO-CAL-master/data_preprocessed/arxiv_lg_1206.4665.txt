@@ -1,0 +1,8 @@
+Variational/JJ methods/NNS are/VBP widely/RB used/VBN for/IN approximate/JJ posterior/JJ inference/NN ./.
+However/RB ,/, their/PRP$ use/NN is/VBZ typically/RB limited/VBN to/IN families/NNS of/IN distributions/NNS that/WDT enjoy/VBP particular/JJ conjugacy/NN properties/NNS ./.
+To/TO circumvent/VB this/DT limitation/NN ,/, we/PRP propose/VBP a/DT family/NN of/IN variational/JJ approximations/NNS inspired/VBN by/IN nonparametric/JJ kernel/NN density/NN estimation/NN ./.
+The/DT locations/NNS of/IN these/DT kernels/NNS and/CC their/PRP$ bandwidth/NN are/VBP treated/VBN as/IN variational/JJ parameters/NNS and/CC optimized/VBN to/TO improve/VB an/DT approximate/JJ lower/JJR bound/VBN on/IN the/DT marginal/JJ likelihood/NN of/IN the/DT data/NNS ./.
+Using/VBG multiple/JJ kernels/NNS allows/VBZ the/DT approximation/NN to/TO capture/VB multiple/JJ modes/NNS of/IN the/DT posterior/JJ ,/, unlike/IN most/JJS other/JJ variational/JJ approximations/NNS ./.
+We/PRP demonstrate/VBP the/DT efficacy/NN of/IN the/DT nonparametric/JJ approximation/NN with/IN a/DT hierarchical/JJ logistic/JJ regression/NN model/NN and/CC a/DT nonlinear/JJ matrix/NN factorization/NN model/NN ./.
+We/PRP obtain/VBP predictive/JJ performance/NN as/IN good/JJ as/IN or/CC better/JJR than/IN more/JJR specialized/JJ variational/JJ methods/NNS and/CC sample/NN -/HYPH based/VBN approximations/NNS ./.
+The/DT method/NN is/VBZ easy/JJ to/TO apply/VB to/IN more/JJR general/JJ graphical/NN models/NNS for/IN which/WDT standard/JJ variational/JJ methods/NNS are/VBP difficult/JJ to/TO derive/VB ./.

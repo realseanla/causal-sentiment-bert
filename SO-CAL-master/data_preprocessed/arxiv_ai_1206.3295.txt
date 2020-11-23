@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP introduce/VBP Refractor/NNP Importance/NNP Sampling/NNP (/-LRB- RIS/NNP )/-RRB- ,/, an/DT improvement/NN to/TO reduce/VB error/NN variance/NN in/IN Bayesian/JJ network/NN importance/NN sampling/NN propagation/NN under/IN evidential/JJ reasoning/NN ./.
+We/PRP prove/VBP the/DT existence/NN of/IN a/DT collection/NN of/IN importance/NN functions/NNS that/WDT are/VBP close/JJ to/IN the/DT optimal/JJ importance/NN function/NN under/IN evidential/JJ reasoning/NN ./.
+Based/VBN on/IN this/DT theoretic/JJ result/NN we/PRP derive/VBP the/DT RIS/NNP algorithm/NN ./.
+RIS/NN approaches/VBZ the/DT optimal/JJ importance/NN function/NN by/IN applying/VBG localized/VBN arc/NN changes/NNS to/TO minimize/VB the/DT divergence/NN between/IN the/DT evidence/NN -/HYPH adjusted/VBN importance/NN function/NN and/CC the/DT optimal/JJ importance/NN function/NN ./.
+The/DT validity/NN and/CC performance/NN of/IN RIS/NNP is/VBZ empirically/RB tested/VBN with/IN a/DT large/JJ setof/NN synthetic/JJ Bayesian/JJ networks/NNS and/CC two/CD real/JJ -/HYPH world/NN networks/NNS ./.

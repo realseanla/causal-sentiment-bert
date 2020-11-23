@@ -1,0 +1,6 @@
+We present the discriminative recurrent sparse auto-encoder model, which consists of an encoder whose hidden layer is recurrent, and two linear decoders, one to reconstruct the input, and one to predict the output.
+The hidden layer is composed of rectified linear units (ReLU) and is subject to a sparsity penalty.
+The network is first trained in unsupervised mode to reconstruct the input, and subsequently trained discriminatively to also produce the desired output.
+The recurrent network is time-unfolded with a given number of iterations, and trained using back-propagation through time.
+In its time-unfolded form, the network can be seen as a very deep multi-layer network in which the weights are shared between the hidden layers.
+The depth allows the system to exhibit all the power of deep network while substantially reducing the number of trainable parameters.

@@ -1,0 +1,9 @@
+Plagiarism/NNP is/VBZ one/CD of/IN the/DT growing/VBG issues/NNS in/IN academia/NN and/CC is/VBZ always/RB a/DT concern/NN in/IN Universities/NNS and/CC other/JJ academic/JJ institutions/NNS ./.
+The/DT situation/NN is/VBZ becoming/VBG even/RB worse/JJR with/IN the/DT availability/NN of/IN ample/JJ resources/NNS on/IN the/DT web/NN ./.
+This/DT paper/NN focuses/VBZ on/IN creating/VBG an/DT effective/JJ and/CC fast/JJ tool/NN for/IN plagiarism/NN detection/NN for/IN text/NN based/VBN electronic/JJ assignments/NNS ./.
+Our/PRP$ plagiarism/NN detection/NN tool/NN named/VBN AntiPlag/NNP is/VBZ developed/VBN using/VBG the/DT tri-gram/NN sequence/NN matching/VBG technique/NN ./.
+Three/CD sets/NNS of/IN text/NN based/VBN assignments/NNS were/VBD tested/VBN by/IN AntiPlag/NNP and/CC the/DT results/NNS were/VBD compared/VBN against/IN an/DT existing/VBG commercial/JJ plagiarism/NN detection/NN tool/NN ./.
+AntiPlag/NNP showed/VBD better/JJR results/NNS in/IN terms/NNS of/IN false/JJ positives/NNS compared/VBN to/IN the/DT commercial/JJ tool/NN due/IN to/IN the/DT pre-processing/JJ steps/NNS performed/VBN in/IN AntiPlag/NNP ./.
+In/IN addition/NN ,/, to/TO improve/VB the/DT detection/NN latency/NN ,/, AntiPlag/NNP applies/VBZ a/DT data/NN clustering/NN technique/NN making/VBG it/PRP four/CD times/NNS faster/JJR than/IN the/DT commercial/JJ tool/NN considered/VBN ./.
+AntiPlag/NNP could/MD be/VB used/VBN to/TO isolate/VB plagiarized/VBN text/NN based/VBN assignments/NNS from/IN non-plagiarised/JJ assignments/NNS easily/RB ./.
+Therefore/RB ,/, we/PRP present/VBP AntiPlag/NNP ,/, a/DT fast/JJ and/CC effective/JJ tool/NN for/IN plagiarism/NN detection/NN on/IN text/NN based/VBN electronic/JJ assignments/NNS ./.

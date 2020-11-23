@@ -1,0 +1,4 @@
+This/DT paper/NN addresses/VBZ the/DT task/NN of/IN AMR/NNP -/HYPH to/IN -/HYPH text/NN generation/NN by/IN leveraging/VBG synchronous/JJ node/NN replacement/NN grammar/NN ./.
+During/IN training/NN ,/, graph/NN -/HYPH to/IN -/HYPH string/NN rules/NNS are/VBP learned/VBN using/VBG a/DT heuristic/NN extraction/NN algorithm/NN ./.
+At/IN test/NN time/NN ,/, a/DT graph/NN transducer/NN is/VBZ applied/VBN to/TO collapse/VB input/NN AMRs/NNS and/CC generate/VBP output/NN sentences/NNS ./.
+Evaluated/VBN on/IN SemEval/NNP -/HYPH 2016/CD Task/NNP 8/CD ,/, our/PRP$ method/NN gives/VBZ a/DT BLEU/NN score/NN of/IN 25.62/CD ,/, which/WDT is/VBZ the/DT best/JJS reported/VBN so/RB far/RB ./.

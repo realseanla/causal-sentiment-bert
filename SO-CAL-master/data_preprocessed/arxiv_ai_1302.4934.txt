@@ -1,0 +1,5 @@
+We/PRP can/MD perform/VB inference/NN in/IN Bayesian/JJ belief/NN networks/NNS by/IN enumerating/VBG instantiations/NNS with/IN high/JJ probability/NN thus/RB approximating/VBG the/DT marginals/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT method/NN for/IN determining/VBG the/DT fraction/NN of/IN instantiations/NNS that/WDT has/VBZ to/TO be/VB considered/VBN such/JJ that/IN the/DT absolute/JJ error/NN in/IN the/DT marginals/NNS does/VBZ not/RB exceed/VB a/DT predefined/JJ value/NN ./.
+The/DT method/NN is/VBZ based/VBN on/IN extreme/JJ value/NN theory/NN ./.
+Essentially/RB ,/, the/DT proposed/JJ method/NN uses/VBZ the/DT reversed/VBN generalized/VBN Pareto/NNP distribution/NN to/IN model/NN probabilities/NNS of/IN instantiations/NNS below/IN a/DT given/VBN threshold/NN ./.
+Based/VBN on/IN this/DT distribution/NN ,/, an/DT estimate/NN of/IN the/DT maximal/JJ absolute/JJ error/NN if/IN instantiations/NNS with/IN probability/NN smaller/JJR than/IN u/PRP are/VBP disregarded/VBN can/MD be/VB made/VBN ./.

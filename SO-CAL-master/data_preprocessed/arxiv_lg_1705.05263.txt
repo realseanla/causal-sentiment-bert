@@ -1,0 +1,4 @@
+We/PRP train/VBP a/DT generator/NN by/IN maximum/JJ likelihood/NN and/CC we/PRP also/RB train/VBP the/DT same/JJ generator/NN architecture/NN by/IN Wasserstein/NNP GAN/NNP ./.
+We/PRP then/RB compare/VBP the/DT generated/VBN samples/NNS ,/, exact/JJ log/NN -/HYPH probability/NN densities/NNS and/CC approximate/JJ Wasserstein/NNP distances/NNS ./.
+We/PRP show/VBP that/IN an/DT independent/JJ critic/NN trained/VBN to/TO approximate/VB Wasserstein/NNP distance/NN between/IN the/DT validation/NN set/NN and/CC the/DT generator/NN distribution/NN helps/VBZ detect/VB overfitting/NN ./.
+Finally/RB ,/, we/PRP use/VBP ideas/NNS from/IN the/DT one/CD -/HYPH shot/NN learning/NN literature/NN to/TO develop/VB a/DT novel/JJ fast/JJ learning/NN critic/NN ./.

@@ -1,0 +1,11 @@
+Rapid/NNP crisis/NN response/NN requires/VBZ real/JJ -/HYPH time/NN analysis/NN of/IN messages/NNS ./.
+After/IN a/DT disaster/NN happens/VBZ ,/, volunteers/VBZ attempt/NN to/TO classify/VB tweets/NNS to/TO determine/VB needs/NNS ,/, e.g./FW ,/, supplies/NNS ,/, infrastructure/NN damage/NN ,/, etc/FW ./.
+Given/VBN labeled/VBN data/NNS ,/, supervised/VBD machine/NN learning/NN can/MD help/VB classify/VB these/DT messages/NNS ./.
+Scarcity/NN of/IN labeled/VBN data/NNS causes/VBZ poor/JJ performance/NN in/IN machine/NN training/NN ./.
+Can/MD we/PRP reuse/VB old/JJ tweets/NNS to/TO train/VB classifiers/NNS ?/.
+How/WRB can/MD we/PRP choose/VB labeled/VBN tweets/NNS for/IN training/NN ?/.
+Specifically/RB ,/, we/PRP study/VBP the/DT usefulness/NN of/IN labeled/VBN data/NNS of/IN past/JJ events/NNS ./.
+Do/VB labeled/VBN tweets/NNS in/IN different/JJ language/NN help/NN ?/.
+We/PRP observe/VBP the/DT performance/NN of/IN our/PRP$ classifiers/NNS trained/VBN using/VBG different/JJ combinations/NNS of/IN training/NN sets/NNS obtained/VBN from/IN past/JJ disasters/NNS ./.
+We/PRP perform/VBP extensive/JJ experimentation/NN on/IN real/JJ crisis/NN datasets/NNS and/CC show/VBP that/IN the/DT past/JJ labels/NNS are/VBP useful/JJ when/WRB both/DT source/NN and/CC target/NN events/NNS are/VBP of/IN the/DT same/JJ type/NN (/-LRB- e.g./FW both/CC earthquakes/NNS )/-RRB- ./.
+For/IN similar/JJ languages/NNS (/-LRB- e.g./FW ,/, Italian/JJ and/CC Spanish/JJ )/-RRB- ,/, cross-language/JJ domain/NN adaptation/NN was/VBD useful/JJ ,/, however/RB ,/, when/WRB for/IN different/JJ languages/NNS (/-LRB- e.g./FW ,/, Italian/JJ and/CC English/JJ )/-RRB- ,/, the/DT performance/NN decreased/VBD ./.

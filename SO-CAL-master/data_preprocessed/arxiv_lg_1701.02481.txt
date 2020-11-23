@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP implicitly/RB incorporate/VB morpheme/NN information/NN into/IN word/NN embedding/NN ./.
+Based/VBN on/IN the/DT strategy/NN we/PRP utilize/VBP the/DT morpheme/NN information/NN ,/, three/CD models/NNS are/VBP proposed/VBN ./.
+To/TO test/VB the/DT performances/NNS of/IN our/PRP$ models/NNS ,/, we/PRP conduct/VBP the/DT word/NN similarity/NN and/CC syntactic/JJ analogy/NN ./.
+The/DT results/NNS demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ methods/NNS ./.
+Our/PRP$ models/NNS beat/VBD the/DT comparative/JJ baselines/NNS on/IN both/DT tasks/NNS to/IN a/DT great/JJ extent/NN ./.
+On/IN the/DT golden/JJ standard/NN Wordsim/NNP -/HYPH 353/CD and/CC RG/NN -/HYPH 65/CD ,/, our/PRP$ models/NNS approximately/RB outperform/VBP CBOW/NNP for/IN 5/CD and/CC 7/CD percent/NN ,/, respectively/RB ./.
+In/IN addition/NN ,/, 7/CD percent/NN advantage/NN is/VBZ also/RB achieved/VBN by/IN our/PRP$ models/NNS on/IN syntactic/JJ analysis/NN ./.
+According/VBG to/IN parameter/NN analysis/NN ,/, our/PRP$ models/NNS can/MD increase/VB the/DT semantic/JJ information/NN in/IN the/DT corpus/NN and/CC our/PRP$ performances/NNS on/IN the/DT smallest/JJS corpus/NN are/VBP similar/JJ to/IN the/DT performance/NN of/IN CBOW/NNP on/IN the/DT corpus/NN which/WDT is/VBZ five/CD times/NNS ours/PRP ./.
+This/DT property/NN of/IN our/PRP$ methods/NNS may/MD have/VB some/DT positive/JJ effects/NNS on/IN NLP/NN researches/VBZ about/IN the/DT corpus/NN -/HYPH limited/VBN languages/NNS ./.

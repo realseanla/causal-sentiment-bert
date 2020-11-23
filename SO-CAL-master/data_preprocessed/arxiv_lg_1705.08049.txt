@@ -1,0 +1,10 @@
+This/DT paper/NN highlights/VBZ the/DT significance/NN of/IN including/VBG memory/NN structures/NNS in/IN neural/JJ networks/NNS when/WRB the/DT latter/JJ are/VBP used/VBN to/TO learn/VB perception/NN -/HYPH action/NN loops/NNS for/IN autonomous/JJ robot/NN navigation/NN ./.
+Traditional/JJ navigation/NN approaches/NNS rely/VBP on/IN global/JJ maps/NNS of/IN the/DT environment/NN to/TO overcome/VB cul/NN -/HYPH de-sacs/NNS and/CC plan/NN feasible/JJ motions/NNS ./.
+Yet/RB ,/, maintaining/VBG an/DT accurate/JJ global/JJ map/NN may/MD be/VB challenging/VBG in/IN real/JJ -/HYPH world/NN settings/NNS ./.
+A/DT possible/JJ way/NN to/TO mitigate/VB this/DT limitation/NN is/VBZ to/TO use/VB learning/NN techniques/NNS that/WDT forgo/VBP hand/NN -/HYPH engineered/VBN map/NN representations/NNS and/CC infer/VBP appropriate/JJ control/NN responses/NNS directly/RB from/IN sensed/VBN information/NN ./.
+An/DT important/JJ but/CC unexplored/JJ aspect/NN of/IN such/JJ approaches/NNS is/VBZ the/DT effect/NN of/IN memory/NN on/IN their/PRP$ performance/NN ./.
+This/DT work/NN is/VBZ a/DT first/JJ thorough/JJ study/NN of/IN memory/NN structures/NNS for/IN deep/JJ -/HYPH neural/JJ -/HYPH network/NN -/HYPH based/VBN robot/NN navigation/NN ,/, and/CC offers/VBZ novel/JJ tools/NNS to/TO train/VB such/JJ networks/NNS from/IN supervision/NN and/CC quantify/VB their/PRP$ ability/NN to/TO generalize/VB to/IN unseen/JJ scenarios/NNS ./.
+We/PRP analyze/VBP the/DT separation/NN and/CC generalization/NN abilities/NNS of/IN feedforward/NN ,/, long/JJ short/JJ -/HYPH term/NN memory/NN ,/, and/CC differentiable/JJ neural/JJ computer/NN networks/NNS ./.
+We/PRP introduce/VBP a/DT new/JJ method/NN to/TO evaluate/VB the/DT generalization/NN ability/NN by/IN estimating/VBG the/DT VC/NNP -/HYPH dimension/NN of/IN networks/NNS with/IN a/DT final/JJ linear/JJ readout/NN layer/NN ./.
+We/PRP validate/VBP that/IN the/DT VC/NNP estimates/NNS are/VBP good/JJ predictors/NNS of/IN actual/JJ test/NN performance/NN ./.
+The/DT reported/JJ method/NN can/MD be/VB applied/VBN to/IN deep/JJ learning/NN problems/NNS beyond/IN robotics/NNS ./.

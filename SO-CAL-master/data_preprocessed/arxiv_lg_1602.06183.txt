@@ -1,0 +1,4 @@
+Multilayer/JJ networks/NNS have/VBP seen/VBN a/DT resurgence/NN under/IN the/DT umbrella/NN of/IN deep/JJ learning/NN ./.
+Current/JJ deep/JJ learning/NN algorithms/NNS train/VBP the/DT layers/NNS of/IN the/DT network/NN sequentially/RB ,/, improving/VBG algorithmic/JJ performance/NN as/RB well/RB as/IN providing/VBG some/DT regularization/NN ./.
+We/PRP present/VBP a/DT new/JJ training/NN algorithm/NN for/IN deep/JJ networks/NNS which/WDT trains/NNS \/SYM emph/NN {/-LRB- each/DT node/NN in/IN the/DT network/NN }/-RRB- sequentially/RB ./.
+Our/PRP$ algorithm/NN is/VBZ orders/NNS of/IN magnitude/NN faster/RBR ,/, creates/VBZ more/RBR interpretable/JJ internal/JJ representations/NNS at/IN the/DT node/NN level/NN ,/, while/IN not/RB sacrificing/VBG on/IN the/DT ultimate/JJ out/NN -/HYPH of/IN -/HYPH sample/NN performance/NN ./.

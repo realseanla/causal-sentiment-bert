@@ -1,0 +1,7 @@
+Recently/RB ,/, resources/NNS and/CC tasks/NNS were/VBD proposed/VBN to/TO go/VB beyond/IN state/NN tracking/NN in/IN dialogue/NN systems/NNS ./.
+An/DT example/NN is/VBZ the/DT frame/NN tracking/VBG task/NN ,/, which/WDT requires/VBZ recording/VBG multiple/JJ frames/NNS ,/, one/CD for/IN each/DT user/NN goal/NN set/VBN during/IN the/DT dialogue/NN ./.
+This/DT allows/VBZ a/DT user/NN ,/, for/IN instance/NN ,/, to/TO compare/VB items/NNS corresponding/VBG to/IN different/JJ goals/NNS ./.
+This/DT paper/NN proposes/VBZ a/DT model/NN which/WDT takes/VBZ as/RB input/VB the/DT list/NN of/IN frames/NNS created/VBN so/RB far/RB during/IN the/DT dialogue/NN ,/, the/DT current/JJ user/NN utterance/NN as/RB well/RB as/IN the/DT dialogue/NN acts/VBZ ,/, slot/NN types/NNS ,/, and/CC slot/NN values/NNS associated/VBN with/IN this/DT utterance/NN ./.
+The/DT model/NN then/IN outputs/NNS the/DT frame/NN being/VBG referenced/VBN by/IN each/DT triple/JJ of/IN dialogue/NN act/NN ,/, slot/NN type/NN ,/, and/CC slot/NN value/NN ./.
+We/PRP show/VBP that/IN on/IN the/DT recently/RB published/VBN Frames/NNS dataset/NN ,/, this/DT model/NN significantly/RB outperforms/VBZ a/DT previously/RB proposed/VBN rule/NN -/HYPH based/VBN baseline/NN ./.
+In/IN addition/NN ,/, we/PRP propose/VBP an/DT extensive/JJ analysis/NN of/IN the/DT frame/NN tracking/VBG task/NN by/IN dividing/VBG it/PRP into/IN sub-tasks/NNS and/CC assessing/VBG their/PRP$ difficulty/NN with/IN respect/NN to/IN our/PRP$ model/NN ./.

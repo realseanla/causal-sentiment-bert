@@ -1,0 +1,11 @@
+In/IN this/DT paper/NN we/PRP introduce/VBP reactive/JJ multi-context/JJ systems/NNS (/-LRB- rMCSs/NNS )/-RRB- ,/, a/DT framework/NN for/IN reactive/JJ reasoning/NN in/IN the/DT presence/NN of/IN heterogeneous/JJ knowledge/NN sources/NNS ./.
+In/IN particular/JJ ,/, we/PRP show/VBP how/WRB to/TO integrate/VB data/NN streams/NNS into/IN multi-context/JJ systems/NNS (/-LRB- MCSs/NNS )/-RRB- and/CC how/WRB to/TO model/VB the/DT dynamics/NNS of/IN the/DT systems/NNS ,/, based/VBN on/IN two/CD types/NNS of/IN bridge/NN rules/NNS ./.
+We/PRP illustrate/VBP how/WRB several/JJ typical/JJ problems/NNS arising/VBG in/IN the/DT context/NN of/IN stream/NN reasoning/NN can/MD be/VB handled/VBN using/VBG our/PRP$ framework/NN ./.
+Reasoning/NN based/VBN on/IN multiple/JJ knowledge/NN sources/NNS that/WDT need/VBP to/TO be/VB integrated/VBN faces/VBZ the/DT problem/NN of/IN potential/JJ inconsistencies/NNS ./.
+We/PRP discuss/VBP various/JJ methods/NNS for/IN handling/VBG inconsistencies/NNS ,/, with/IN a/DT special/JJ focus/NN on/IN non-existence/NN of/IN equilibria/NNS ./.
+In/IN particular/JJ ,/, we/PRP show/VBP how/WRB methods/NNS developed/VBD for/IN managed/VBN MCSs/NNS can/MD be/VB generalized/VBN to/IN rMCSs/NNS ./.
+We/PRP also/RB study/VB the/DT issue/NN of/IN nondeterminism/NN in/IN rMCSs/NNS ./.
+One/CD way/NN of/IN avoiding/VBG nondeterminism/NN is/VBZ by/IN applying/VBG an/DT alternative/NN ,/, skeptical/JJ semantics/NNS ./.
+We/PRP show/VBP how/WRB such/PDT a/DT semantics/NNS ,/, called/VBN well/RB -/HYPH founded/VBN semantics/NNS ,/, can/MD be/VB defined/VBN for/IN rMCSs/NNS ,/, and/CC what/WP the/DT effect/NN of/IN using/VBG this/DT semantics/NNS instead/RB of/IN the/DT original/JJ one/NN is/VBZ ./.
+We/PRP investigate/VBP the/DT complexity/NN of/IN various/JJ reasoning/NN problems/NNS related/VBN to/IN rMCSs/NNS ./.
+Finally/RB ,/, we/PRP discuss/VBP related/JJ work/NN ,/, with/IN a/DT special/JJ focus/NN on/IN two/CD of/IN the/DT most/RBS relevant/JJ approaches/NNS w.r.t./VBP stream/NN reasoning/NN ,/, namely/RB LARS/NNP and/CC STARQL/NNP ./.

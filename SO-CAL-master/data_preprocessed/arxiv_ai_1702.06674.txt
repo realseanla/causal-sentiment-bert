@@ -1,0 +1,7 @@
+Colorization/NN of/IN grayscale/JJ images/NNS has/VBZ been/VBN a/DT hot/JJ topic/NN in/IN computer/NN vision/NN ./.
+Previous/JJ research/NN mainly/RB focuses/VBZ on/IN producing/VBG a/DT colored/VBN image/NN to/TO match/VB the/DT original/JJ one/NN ./.
+However/RB ,/, since/IN many/JJ colors/NNS share/VBP the/DT same/JJ gray/JJ value/NN ,/, an/DT input/NN grayscale/NN image/NN could/MD be/VB diversely/RB colored/VBN while/IN maintaining/VBG its/PRP$ reality/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP design/VBP a/DT novel/JJ solution/NN for/IN unsupervised/JJ diverse/JJ colorization/NN ./.
+Specifically/RB ,/, we/PRP leverage/VBP conditional/JJ generative/JJ adversarial/JJ networks/NNS to/TO model/VB the/DT distribution/NN of/IN real/JJ -/HYPH world/NN item/NN colors/NNS ,/, in/IN which/WDT we/PRP develop/VBP a/DT fully/RB convolutional/JJ generator/NN with/IN multi-layer/JJ noise/NN to/TO enhance/VB diversity/NN ,/, with/IN multi-layer/JJ condition/NN concatenation/NN to/TO maintain/VB reality/NN ,/, and/CC with/IN stride/NN 1/CD to/TO keep/VB spatial/JJ information/NN ./.
+With/IN such/PDT a/DT novel/JJ network/NN architecture/NN ,/, the/DT model/NN yields/VBZ highly/RB competitive/JJ performance/NN on/IN the/DT open/JJ LSUN/NN bedroom/NN dataset/NN ./.
+The/DT Turing/NNP test/NN of/IN 80/CD humans/NNS further/JJ indicates/VBZ our/PRP$ generated/VBN color/NN schemes/NNS are/VBP highly/RB convincible/JJ ./.

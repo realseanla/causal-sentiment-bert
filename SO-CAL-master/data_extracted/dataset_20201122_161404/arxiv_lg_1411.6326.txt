@@ -1,0 +1,5 @@
+Cameras provide a rich source of information while being passive, cheap and lightweight for small and medium Unmanned Aerial Vehicles (UAVs).
+In this work we present the first implementation of receding horizon control, which is widely used in ground vehicles, with monocular vision as the only sensing mode for autonomous UAV flight in dense clutter.
+We make it feasible on UAVs via a number of contributions: novel coupling of perception and control via relevant and diverse, multiple interpretations of the scene around the robot, leveraging recent advances in machine learning to showcase anytime budgeted cost-sensitive feature selection, and fast non-linear regression for monocular depth prediction.
+We empirically demonstrate the efficacy of our novel pipeline via real world experiments of more than 2 kms through dense trees with a quadrotor built from off-the-shelf parts.
+Moreover our pipeline is designed to combine information from other modalities like stereo and lidar as well if available.

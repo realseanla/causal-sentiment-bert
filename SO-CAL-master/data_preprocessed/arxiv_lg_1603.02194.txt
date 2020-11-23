@@ -1,0 +1,9 @@
+Manifold/NN learning/NN methods/NNS are/VBP useful/JJ for/IN high/JJ dimensional/JJ data/NNS analysis/NN ./.
+Many/JJ of/IN the/DT existing/VBG methods/NNS produce/VBP a/DT low/JJ dimensional/JJ representation/NN that/WDT attempts/VBZ to/TO describe/VB the/DT intrinsic/JJ geometric/JJ structure/NN of/IN the/DT original/JJ data/NNS ./.
+Typically/RB ,/, this/DT process/NN is/VBZ computationally/RB expensive/JJ and/CC the/DT produced/VBN embedding/NN is/VBZ limited/VBN to/IN the/DT training/NN data/NNS ./.
+In/IN many/JJ real/JJ life/NN scenarios/NNS ,/, the/DT ability/NN to/TO produce/VB embedding/NN of/IN unseen/JJ samples/NNS is/VBZ essential/JJ ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT Bayesian/JJ non-parametric/JJ approach/NN for/IN out/RB -/HYPH of/IN -/HYPH sample/NN extension/NN ./.
+The/DT method/NN is/VBZ based/VBN on/IN Gaussian/JJ Process/NN Regression/NN and/CC independent/JJ of/IN the/DT manifold/JJ learning/NN algorithm/NN ./.
+Additionally/RB ,/, the/DT method/NN naturally/RB provides/VBZ a/DT measure/NN for/IN the/DT degree/NN of/IN abnormality/NN for/IN a/DT newly/RB arrived/VBN data/NNS point/VBP that/DT did/VBD not/RB participate/VB in/IN the/DT training/NN process/NN ./.
+We/PRP derive/VBP the/DT mathematical/JJ connection/NN between/IN the/DT proposed/JJ method/NN and/CC the/DT Nystrom/NNP extension/NN and/CC show/VBP that/IN the/DT latter/JJ is/VBZ a/DT special/JJ case/NN of/IN the/DT former/JJ ./.
+We/PRP present/VBP extensive/JJ experimental/JJ results/NNS that/WDT demonstrate/VBP the/DT performance/NN of/IN the/DT proposed/JJ method/NN and/CC compare/VB it/PRP to/IN other/JJ existing/VBG out/RB -/HYPH of/IN -/HYPH sample/NN extension/NN methods/NNS ./.

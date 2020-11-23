@@ -1,0 +1,6 @@
+In/IN the/DT paradigm/NN of/IN multi-task/VB learning/NN ,/, mul/NN -/HYPH tiple/NN related/JJ prediction/NN tasks/NNS are/VBP learned/VBN jointly/RB ,/, sharing/VBG information/NN across/IN the/DT tasks/NNS ./.
+We/PRP propose/VBP a/DT framework/NN for/IN multi-task/VB learn/VB -/HYPH ing/VBG that/IN enables/VBZ one/CD to/IN selectively/RB share/VB the/DT information/NN across/IN the/DT tasks/NNS ./.
+We/PRP assume/VBP that/IN each/DT task/NN parameter/NN vector/NN is/VBZ a/DT linear/JJ combi/NN -/HYPH nation/NN of/IN a/DT finite/JJ number/NN of/IN underlying/VBG basis/NN tasks/NNS ./.
+The/DT coefficients/NNS of/IN the/DT linear/JJ combina/NN -/HYPH tion/NN are/VBP sparse/JJ in/IN nature/NN and/CC the/DT overlap/NN in/IN the/DT sparsity/NN patterns/NNS of/IN two/CD tasks/NNS controls/VBZ the/DT amount/NN of/IN sharing/VBG across/IN these/DT ./.
+Our/PRP$ model/NN is/VBZ based/VBN on/IN on/IN the/DT assumption/NN that/IN task/NN pa/NN -/HYPH rameters/NNS within/IN a/DT group/NN lie/NN in/IN a/DT low/JJ dimen/NN -/HYPH sional/JJ subspace/NN but/CC allows/VBZ the/DT tasks/NNS in/IN differ/VB -/HYPH ent/NN groups/NNS to/TO overlap/VB with/IN each/DT other/JJ in/IN one/CD or/CC more/JJR bases/NNS ./.
+Experimental/JJ results/NNS on/IN four/CD datasets/NNS show/VBP that/IN our/PRP$ approach/NN outperforms/VBZ competing/VBG methods/NNS ./.

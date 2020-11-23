@@ -1,0 +1,5 @@
+A novel global energy model for multi-class semantic image segmentation is proposed that admits very efficient exact inference and derivative calculations for learning.
+Inference in this model is equivalent to MAP inference in a particular kind of vector-valued Gaussian Markov random field, and ultimately reduces to solving a linear system of linear PDEs known as a reaction-diffusion system.
+Solving this system can be achieved in time scaling near-linearly in the number of image pixels by reducing it to sequential FFTs, after a linear change of basis.
+The efficiency and differentiability of the model make it especially well-suited for integration with convolutional neural networks, even allowing it to be used in interior, feature-generating layers and stacked multiple times.
+Experimental results are shown demonstrating that the model can be employed profitably in conjunction with different convolutional net architectures, and that doing so compares favorably to joint training of a fully-connected CRF with a convolutional net.

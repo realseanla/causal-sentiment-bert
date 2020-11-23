@@ -1,0 +1,5 @@
+This paper discusses a method for implementing a probabilistic inference system based on an extended relational data model.
+This model provides a unified approach for a variety of applications such as dynamic programming, solving sparse linear equations, and constraint propagation.
+In this framework, the probability model is represented as a generalized relational database.
+Subsequent probabilistic requests can be processed as standard relational queries.
+Conventional database management systems can be easily adopted for implementing such an approximate reasoning system.

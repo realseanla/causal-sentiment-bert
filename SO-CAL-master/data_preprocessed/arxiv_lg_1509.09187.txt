@@ -1,0 +1,6 @@
+An/DT orthogonal/JJ Haar/NNP scattering/VBG transform/VBP is/VBZ a/DT deep/JJ network/NN ,/, computed/VBN with/IN a/DT hierarchy/NN of/IN additions/NNS ,/, subtractions/NNS and/CC absolute/JJ values/NNS ,/, over/IN pairs/NNS of/IN coefficients/NNS ./.
+It/PRP provides/VBZ a/DT simple/JJ mathematical/JJ model/NN for/IN unsupervised/JJ deep/JJ network/NN learning/NN ./.
+It/PRP implements/VBZ non-linear/JJ contractions/NNS ,/, which/WDT are/VBP optimized/VBN for/IN classification/NN ,/, with/IN an/DT unsupervised/JJ pair/NN matching/VBG algorithm/NN ,/, of/IN polynomial/JJ complexity/NN ./.
+A/DT structured/JJ Haar/NNP scattering/VBG over/IN graph/NN data/NNS computes/VBZ permutation/NN invariant/JJ representations/NNS of/IN groups/NNS of/IN connected/JJ points/NNS in/IN the/DT graph/NN ./.
+If/IN the/DT graph/NN connectivity/NN is/VBZ unknown/JJ ,/, unsupervised/JJ Haar/NNP pair/NN learning/NN can/MD provide/VB a/DT consistent/JJ estimation/NN of/IN connected/JJ dyadic/JJ groups/NNS of/IN points/NNS ./.
+Classification/NN results/NNS are/VBP given/VBN on/IN image/NN data/NNS bases/NNS ,/, defined/VBN on/IN regular/JJ grids/NNS or/CC graphs/NNS ,/, with/IN a/DT connectivity/NN which/WDT may/MD be/VB known/VBN or/CC unknown/JJ ./.

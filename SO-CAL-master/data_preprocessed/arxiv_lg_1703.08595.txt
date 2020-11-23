@@ -1,0 +1,7 @@
+Large/JJ -/HYPH scale/NN deep/JJ neural/JJ networks/NNS (/-LRB- DNN/NN )/-RRB- have/VBP been/VBN successfully/RB used/VBN in/IN a/DT number/NN of/IN tasks/NNS from/IN image/NN recognition/NN to/IN natural/JJ language/NN processing/NN ./.
+They/PRP are/VBP trained/VBN using/VBG large/JJ training/NN sets/NNS on/IN large/JJ models/NNS ,/, making/VBG them/PRP computationally/RB and/CC memory/NN intensive/JJ ./.
+As/IN such/JJ ,/, there/EX is/VBZ much/JJ interest/NN in/IN research/NN development/NN for/IN faster/JJR training/NN and/CC test/NN time/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT unique/JJ approach/NN using/VBG lower/JJR precision/NN weights/NNS for/IN more/RBR efficient/JJ and/CC faster/RBR training/NN phase/NN ./.
+We/PRP separate/VBP imagery/NN into/IN different/JJ frequency/NN bands/NNS (/-LRB- e.g./FW with/IN different/JJ information/NN content/NN )/-RRB- such/JJ that/IN the/DT neural/JJ net/NN can/MD better/RBR learn/VB using/VBG less/JJR bits/NNS ./.
+We/PRP present/VBP this/DT approach/NN as/IN a/DT complement/NN existing/VBG methods/NNS such/JJ as/IN pruning/NN network/NN connections/NNS and/CC encoding/VBG learning/NN weights/NNS ./.
+We/PRP show/VBP results/NNS where/WRB this/DT approach/NN supports/VBZ more/RBR stable/JJ learning/NN with/IN 2/CD -/HYPH 4X/NN reduction/NN in/IN precision/NN with/IN 17X/NN reduction/NN in/IN DNN/NN parameters/NNS ./.

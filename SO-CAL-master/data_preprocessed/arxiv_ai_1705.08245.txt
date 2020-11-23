@@ -1,0 +1,5 @@
+Applying/VBG deep/JJ reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- on/IN real/JJ systems/NNS suffers/VBZ from/IN slow/JJ data/NNS sampling/NN ./.
+We/PRP propose/VBP an/DT enhanced/VBN generative/NN adversarial/JJ network/NN (/-LRB- EGAN/NNP )/-RRB- to/IN initialize/VB an/DT RL/NNP agent/NN in/IN order/NN to/TO achieve/VB faster/RBR learning/VBG ./.
+The/DT EGAN/NNP utilizes/VBZ the/DT relation/NN between/IN states/NNS and/CC actions/NNS to/TO enhance/VB the/DT quality/NN of/IN data/NNS samples/NNS generated/VBN by/IN a/DT GAN/NNP ./.
+Pre-training/VBG the/DT agent/NN with/IN the/DT EGAN/NNP shows/VBZ a/DT steeper/JJR learning/NN curve/NN with/IN a/DT 20/CD percent/NN improvement/NN of/IN training/NN time/NN in/IN the/DT beginning/NN of/IN learning/NN ,/, compared/VBN to/IN no/DT pre-training/NN ,/, and/CC an/DT improvement/NN compared/VBN to/IN training/NN with/IN GAN/NNP by/IN about/RB 5/CD percent/NN with/IN smaller/JJR variations/NNS ./.
+For/IN real/JJ time/NN systems/NNS with/IN sparse/JJ and/CC slow/JJ data/NNS sampling/VBG the/DT EGAN/NNP could/MD be/VB used/VBN to/TO speed/VB up/RP the/DT early/JJ phases/NNS of/IN the/DT training/NN process/NN ./.

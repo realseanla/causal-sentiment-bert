@@ -1,0 +1,5 @@
+We/PRP show/VBP that/IN the/DT task/NN of/IN question/NN answering/NN (/-LRB- QA/NN )/-RRB- can/MD significantly/RB benefit/VB from/IN the/DT transfer/NN learning/NN of/IN models/NNS trained/VBN on/IN a/DT different/JJ large/JJ ,/, fine/JJ -/HYPH grained/JJ QA/NN dataset/NN ./.
+We/PRP achieve/VBP the/DT state/NN of/IN the/DT art/NN in/IN two/CD well/RB -/HYPH studied/VBN QA/NN datasets/NNS ,/, WikiQA/NN and/CC SemEval/NN -/HYPH 2016/CD (/-LRB- Task/NNP 3A/NN )/-RRB- ,/, through/IN a/DT basic/JJ transfer/NN learning/VBG technique/NN from/IN SQuAD/NN ./.
+For/IN WikiQA/NNP ,/, our/PRP$ model/NN outperforms/VBZ the/DT previous/JJ best/JJS model/NN by/IN more/JJR than/IN 8/CD percent/NN ./.
+We/PRP demonstrate/VBP that/IN finer/JJR supervision/NN provides/VBZ better/JJR guidance/NN for/IN learning/VBG lexical/JJ and/CC syntactic/JJ information/NN than/IN coarser/JJR supervision/NN ,/, through/IN quantitative/JJ results/NNS and/CC visual/JJ analysis/NN ./.
+We/PRP also/RB show/VBP that/IN a/DT similar/JJ transfer/NN learning/VBG procedure/NN achieves/VBZ the/DT state/NN of/IN the/DT art/NN on/IN an/DT entailment/NN task/NN ./.

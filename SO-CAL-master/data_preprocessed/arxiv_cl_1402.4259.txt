@@ -1,0 +1,7 @@
+We/PRP are/VBP proposing/VBG a/DT tool/NN able/JJ to/TO gather/VB information/NN on/IN social/JJ networks/NNS from/IN narrative/NN texts/NNS ./.
+Its/PRP$ name/NN is/VBZ CHAPLIN/NNP ,/, CHAracters/NNS and/CC PLaces/NNS Interaction/NNP Network/NNP ,/, implemented/VBN in/IN VB.NET/NNP ./.
+Characters/NNS and/CC places/NNS of/IN the/DT narrative/NN works/NNS are/VBP extracted/VBN in/IN a/DT list/NN of/IN raw/JJ words/NNS ./.
+Aided/VBN by/IN the/DT interface/NN ,/, the/DT user/NN selects/VBZ names/NNS out/IN of/IN them/PRP ./.
+After/IN this/DT choice/NN ,/, the/DT tool/NN allows/VBZ the/DT user/NN to/TO enter/VB some/DT parameters/NNS ,/, and/CC ,/, according/VBG to/IN them/PRP ,/, creates/VBZ a/DT network/NN where/WRB the/DT nodes/NNS are/VBP the/DT characters/NNS and/CC places/NNS ,/, and/CC the/DT edges/NNS their/PRP$ interactions/NNS ./.
+Edges/NNS are/VBP labelled/VBN by/IN performances/NNS ./.
+The/DT output/NN is/VBZ a/DT GV/NNP file/NN ,/, written/VBN in/IN the/DT DOT/NNP graph/NN scripting/NN language/NN ,/, which/WDT is/VBZ rendered/VBN by/IN means/NNS of/IN the/DT free/JJ open/JJ source/NN software/NN Graphviz/NNP ./.

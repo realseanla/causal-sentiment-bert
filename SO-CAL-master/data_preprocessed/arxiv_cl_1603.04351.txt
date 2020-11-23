@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT simple/JJ and/CC effective/JJ scheme/NN for/IN dependency/NN parsing/VBG which/WDT is/VBZ based/VBN on/IN bidirectional/JJ -/HYPH LSTMs/NNS (/-LRB- BiLSTMs/NNS )/-RRB- ./.
+Each/DT sentence/NN token/NN is/VBZ associated/VBN with/IN a/DT BiLSTM/NN vector/NN representing/VBG the/DT token/NN in/IN its/PRP$ sentential/JJ context/NN ,/, and/CC feature/NN vectors/NNS are/VBP constructed/VBN by/IN concatenating/VBG a/DT few/JJ BiLSTM/NN vectors/NNS ./.
+The/DT BiLSTM/NNP is/VBZ trained/VBN jointly/RB with/IN the/DT parser/NN objective/NN ,/, resulting/VBG in/IN very/RB effective/JJ feature/NN extractors/NNS for/IN parsing/VBG ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN the/DT approach/NN by/IN applying/VBG it/PRP to/IN a/DT greedy/JJ transition/NN based/VBN parser/NN as/RB well/RB as/IN to/IN a/DT globally/RB optimized/VBN graph/NN -/HYPH based/VBN parser/NN ./.
+The/DT resulting/VBG parsers/NNS have/VBP very/RB simple/JJ architectures/NNS ,/, and/CC match/NN or/CC surpass/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN accuracies/NNS on/IN English/NNP and/CC Chinese/NNP ./.

@@ -1,0 +1,11 @@
+Power/NNP grids/NNS are/VBP critical/JJ infrastructure/NN assets/NNS that/WDT face/VBP non-technical/JJ losses/NNS (/-LRB- NTL/NN )/-RRB- such/JJ as/IN electricity/NN theft/NN or/CC faulty/JJ meters/NNS ./.
+NTL/NNP may/MD range/VB up/RP to/IN 40/CD percent/NN of/IN the/DT total/JJ electricity/NN distributed/VBN in/IN emerging/VBG countries/NNS ./.
+Industrial/NNP NTL/NNP detection/NN systems/NNS are/VBP still/RB largely/RB based/VBN on/IN expert/JJ knowledge/NN when/WRB deciding/VBG whether/IN to/TO carry/VB out/RP costly/JJ on/IN -/HYPH site/NN inspections/NNS of/IN customers/NNS ./.
+Electricity/NN providers/NNS are/VBP reluctant/JJ to/TO move/VB to/IN large/JJ -/HYPH scale/NN deployments/NNS of/IN automated/VBN systems/NNS that/WDT learn/VBP NTL/NNP profiles/NNS from/IN data/NNS due/IN to/IN the/DT latter/NN 's/POS propensity/NN to/TO suggest/VB a/DT large/JJ number/NN of/IN unnecessary/JJ inspections/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ system/NN that/WDT combines/VBZ automated/VBN statistical/JJ decision/NN making/VBG with/IN expert/JJ knowledge/NN ./.
+First/RB ,/, we/PRP propose/VBP a/DT machine/NN learning/NN framework/NN that/WDT classifies/VBZ customers/NNS into/IN NTL/NNP or/CC non-NTL/JJ using/VBG a/DT variety/NN of/IN features/NNS derived/VBN from/IN the/DT customers/NNS '/POS consumption/NN data/NNS ./.
+The/DT methodology/NN used/VBN is/VBZ specifically/RB tailored/VBN to/IN the/DT level/NN of/IN noise/NN in/IN the/DT data/NNS ./.
+Second/RB ,/, in/IN order/NN to/TO allow/VB human/JJ experts/NNS to/TO feed/VB their/PRP$ knowledge/NN in/IN the/DT decision/NN loop/NN ,/, we/PRP propose/VBP a/DT method/NN for/IN visualizing/VBG prediction/NN results/NNS at/IN various/JJ granularity/NN levels/NNS in/IN a/DT spatial/JJ hologram/NN ./.
+Our/PRP$ approach/NN allows/VBZ domain/NN experts/NNS to/TO put/VB the/DT classification/NN results/VBZ into/IN the/DT context/NN of/IN the/DT data/NNS and/CC to/TO incorporate/VB their/PRP$ knowledge/NN for/IN making/VBG the/DT final/JJ decisions/NNS of/IN which/WDT customers/NNS to/TO inspect/VB ./.
+This/DT work/NN has/VBZ resulted/VBN in/IN appreciable/JJ results/NNS on/IN a/DT real/JJ -/HYPH world/NN data/NNS set/NN of/IN 3.6/CD M/NN customers/NNS ./.
+Our/PRP$ system/NN is/VBZ being/VBG deployed/VBN in/IN a/DT commercial/JJ NTL/NNP detection/NN software/NN ./.

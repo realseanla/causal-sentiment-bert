@@ -1,0 +1,6 @@
+Refinement/NN is/VBZ a/DT powerful/JJ mechanism/NN for/IN mastering/VBG the/DT complexities/NNS that/WDT arise/VBP when/WRB formally/RB modelling/VBG systems/NNS ./.
+Refinement/NN also/RB brings/VBZ with/IN it/PRP additional/JJ proof/JJ obligations/NNS --/: requiring/VBG a/DT developer/NN to/TO discover/VB properties/NNS relating/VBG to/IN their/PRP$ design/NN decisions/NNS ./.
+With/IN the/DT goal/NN of/IN reducing/VBG this/DT burden/NN ,/, we/PRP have/VBP investigated/VBN how/WRB a/DT general/JJ purpose/NN theory/NN formation/NN tool/NN ,/, HR/NN ,/, can/MD be/VB used/VBN to/TO automate/VB the/DT discovery/NN of/IN such/JJ properties/NNS within/IN the/DT context/NN of/IN Event/NN -/HYPH B/NN ./.
+Here/RB we/PRP develop/VBP a/DT heuristic/NN approach/NN to/IN the/DT automatic/JJ discovery/NN of/IN invariants/NNS and/CC report/NN upon/IN a/DT series/NN of/IN experiments/NNS that/IN we/PRP undertook/VBD in/IN order/NN to/TO evaluate/VB our/PRP$ approach/NN ./.
+The/DT set/NN of/IN heuristics/NNS developed/VBN provides/VBZ systematic/JJ guidance/NN in/IN tailoring/VBG HR/NN for/IN a/DT given/VBN Event/NN -/HYPH B/NN development/NN ./.
+These/DT heuristics/NNS are/VBP based/VBN upon/IN proof/NN -/HYPH failure/NN analysis/NN ,/, and/CC have/VBP given/VBN rise/NN to/IN some/DT promising/JJ results/NNS ./.

@@ -1,0 +1,7 @@
+A number of attempts have been made to improve accuracy and/or scalability of the PC (Peter and Clark) algorithm, some well known (Buhlmann, et al., 2010; Kalisch and Buhlmann, 2007; 2008; Zhang, 2012, to give some examples).
+We add here one more tool to the toolbox: the simple observation that if one is forced to choose between a variety of possible conditioning sets for a pair of variables, one should choose the one with the highest p-value.
+One can use the CPC (Conservative PC, Ramsey et al., 2012) algorithm as a guide to possible sepsets for a pair of variables.
+However, whereas CPC uses a voting rule to classify colliders versus noncolliders, our proposed algorithm, PC-Max, picks the conditioning set with the highest p-value, so that there are no ambiguities.
+We combine this with two other optimizations: (a) avoiding bidirected edges in the orientation of colliders, and (b) parallelization.
+For (b) we borrow ideas from the PC-Stable algorithm (Colombo and Maathuis, 2014).
+The result is an algorithm that scales quite well both in terms of accuracy and time, with no risk of bidirected edges.

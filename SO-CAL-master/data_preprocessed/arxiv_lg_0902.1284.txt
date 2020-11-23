@@ -1,0 +1,5 @@
+We/PRP consider/VBP multi-label/JJ prediction/NN problems/NNS with/IN large/JJ output/NN spaces/NNS under/IN the/DT assumption/NN of/IN output/NN sparsity/NN --/: that/IN the/DT target/NN vectors/NNS have/VBP small/JJ support/NN ./.
+We/PRP develop/VBP a/DT general/JJ theory/NN for/IN a/DT variant/NN of/IN the/DT popular/JJ ECOC/NN (/-LRB- error/NN correcting/VBG output/NN code/NN )/-RRB- scheme/NN ,/, based/VBN on/IN ideas/NNS from/IN compressed/JJ sensing/VBG for/IN exploiting/VBG this/DT sparsity/NN ./.
+The/DT method/NN can/MD be/VB regarded/VBN as/IN a/DT simple/JJ reduction/NN from/IN multi-label/JJ regression/NN problems/NNS to/IN binary/JJ regression/NN problems/NNS ./.
+It/PRP is/VBZ shown/VBN that/IN the/DT number/NN of/IN subproblems/NNS need/VBP only/RB be/VB logarithmic/JJ in/IN the/DT total/JJ number/NN of/IN label/NN values/NNS ,/, making/VBG this/DT approach/NN radically/RB more/RBR efficient/JJ than/IN others/NNS ./.
+We/PRP also/RB state/VBP and/CC prove/VBP performance/NN guarantees/NNS for/IN this/DT method/NN ,/, and/CC test/VB it/PRP empirically/RB ./.

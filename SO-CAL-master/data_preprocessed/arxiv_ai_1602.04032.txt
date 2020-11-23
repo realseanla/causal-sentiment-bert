@@ -1,0 +1,10 @@
+We/PRP study/VBP a/DT problem/NN of/IN allocating/VBG divisible/JJ jobs/NNS ,/, arriving/VBG online/RB ,/, to/IN workers/NNS in/IN a/DT crowdsourcing/VBG setting/NN which/WDT involves/VBZ learning/VBG two/CD parameters/NNS of/IN strategically/RB behaving/VBG workers/NNS ./.
+Each/DT job/NN is/VBZ split/VBN into/IN a/DT certain/JJ number/NN of/IN tasks/NNS that/WDT are/VBP then/RB allocated/VBN to/IN workers/NNS ./.
+Each/DT arriving/VBG job/NN has/VBZ to/TO be/VB completed/VBN within/IN a/DT deadline/NN and/CC each/DT task/NN has/VBZ to/TO be/VB completed/VBN satisfying/VBG an/DT upper/JJ bound/VBN on/IN probability/NN of/IN failure/NN ./.
+The/DT job/NN population/NN is/VBZ homogeneous/JJ while/IN the/DT workers/NNS are/VBP heterogeneous/JJ in/IN terms/NNS of/IN costs/NNS ,/, completion/NN times/NNS ,/, and/CC times/NNS to/IN failure/NN ./.
+The/DT job/NN completion/NN time/NN and/CC time/NN to/TO failure/NN of/IN each/DT worker/NN are/VBP stochastic/JJ with/IN fixed/VBN but/CC unknown/JJ means/NNS ./.
+The/DT requester/NN is/VBZ faced/VBN with/IN the/DT challenge/NN of/IN learning/VBG two/CD separate/JJ parameters/NNS of/IN each/DT (/-LRB- strategically/RB behaving/VBG )/-RRB- worker/NN simultaneously/RB ,/, namely/RB ,/, the/DT mean/JJ job/NN completion/NN time/NN and/CC the/DT mean/JJ time/NN to/IN failure/NN ./.
+The/DT time/NN to/TO failure/NN of/IN a/DT worker/NN depends/VBZ on/IN the/DT duration/NN of/IN the/DT task/NN handled/VBN by/IN the/DT worker/NN ./.
+Assuming/VBG non-strategic/JJ workers/NNS to/TO start/VB with/IN ,/, we/PRP solve/VBP this/DT biparameter/NN learning/NN problem/NN by/IN applying/VBG the/DT Robust/JJ UCB/NNP algorithm/NN ./.
+Then/RB ,/, we/PRP non-trivially/RB extend/VBP this/DT algorithm/NN to/IN the/DT setting/NN where/WRB the/DT workers/NNS are/VBP strategic/JJ about/IN their/PRP$ costs/NNS ./.
+Our/PRP$ proposed/VBN mechanism/NN is/VBZ dominant/JJ strategy/NN incentive/NN compatible/JJ and/CC ex-post/JJ individually/RB rational/JJ with/IN asymptotically/RB optimal/JJ regret/NN performance/NN ./.

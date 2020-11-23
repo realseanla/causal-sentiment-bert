@@ -1,0 +1,9 @@
+The ability to reason with natural language is a fundamental prerequisite for many NLP tasks such as information extraction, machine translation and question answering.
+To quantify this ability, systems are commonly tested whether they can recognize textual entailment, i.e., whether one sentence can be inferred from another one.
+However, in most NLP applications only single source sentences instead of sentence pairs are available.
+Hence, we propose a new task that measures how well a model can generate an entailed sentence from a source sentence.
+We take entailment-pairs of the Stanford Natural Language Inference corpus and train an LSTM with attention.
+On a manually annotated test set we found that 82 percent of generated sentences are correct, an improvement of 10.3 percent over an LSTM baseline.
+A qualitative analysis shows that this model is not only capable of shortening input sentences, but also inferring new statements via paraphrasing and phrase entailment.
+We then apply this model recursively to input-output pairs, thereby generating natural language inference chains that can be used to automatically construct an entailment graph from source sentences.
+Finally, by swapping source and target sentences we can also train a model that given an input sentence invents additional information to generate a new sentence.

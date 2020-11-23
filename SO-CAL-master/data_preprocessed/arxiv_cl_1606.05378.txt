@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT task/NN of/IN learning/VBG a/DT context/NN -/HYPH dependent/JJ mapping/NN from/IN utterances/NNS to/IN denotations/NNS ./.
+With/IN only/RB denotations/NNS at/IN training/NN time/NN ,/, we/PRP must/MD search/VB over/IN a/DT combinatorially/RB large/JJ space/NN of/IN logical/JJ forms/NNS ,/, which/WDT is/VBZ even/RB larger/JJR with/IN context/NN -/HYPH dependent/JJ utterances/NNS ./.
+To/TO cope/VB with/IN this/DT challenge/NN ,/, we/PRP perform/VBP successive/JJ projections/NNS of/IN the/DT full/JJ model/NN onto/IN simpler/JJR models/NNS that/WDT operate/VBP over/IN equivalence/NN classes/NNS of/IN logical/JJ forms/NNS ./.
+Though/IN less/JJR expressive/JJ ,/, we/PRP find/VBP that/IN these/DT simpler/JJR models/NNS are/VBP much/JJ faster/JJR and/CC can/MD be/VB surprisingly/RB effective/JJ ./.
+Moreover/RB ,/, they/PRP can/MD be/VB used/VBN to/IN bootstrap/NN the/DT full/JJ model/NN ./.
+Finally/RB ,/, we/PRP collected/VBD three/CD new/JJ context/NN -/HYPH dependent/JJ semantic/JJ parsing/VBG datasets/NNS ,/, and/CC develop/VB a/DT new/JJ left/JJ -/HYPH to/TO -/HYPH right/JJ parser/NN ./.

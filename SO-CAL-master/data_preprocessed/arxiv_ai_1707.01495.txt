@@ -1,0 +1,3 @@
+Dealing/VBG with/IN sparse/JJ rewards/NNS is/VBZ one/CD of/IN the/DT biggest/JJS challenges/NNS in/IN Reinforcement/NN Learning/NN (/-LRB- RL/NN )/-RRB- ./.
+We/PRP present/VBP a/DT novel/JJ technique/NN called/VBN Hindsight/NNP Experience/NNP Replay/NNP which/WDT allows/VBZ sample/NN -/HYPH efficient/JJ learning/NN from/IN rewards/NNS which/WDT are/VBP sparse/JJ and/CC binary/JJ and/CC therefore/RB avoid/VB the/DT need/NN for/IN complicated/JJ reward/NN engineering/NN ./.
+It/PRP can/MD be/VB combined/VBN with/IN an/DT arbitrary/JJ off/NN -/HYPH policy/NN RL/NN algorithm/NN and/CC may/MD be/VB seen/VBN as/IN a/DT form/NN of/IN implicit/JJ curriculum/NN ./.

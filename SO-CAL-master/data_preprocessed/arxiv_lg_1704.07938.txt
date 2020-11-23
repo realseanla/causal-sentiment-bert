@@ -1,0 +1,4 @@
+In/IN this/DT study/NN ,/, we/PRP introduce/VBP an/DT ensemble/NN -/HYPH based/VBN approach/NN for/IN online/JJ machine/NN learning/NN ./.
+The/DT ensemble/NN of/IN base/NN classifiers/NNS in/IN our/PRP$ approach/NN is/VBZ obtained/VBN by/IN learning/VBG Naive/NNP Bayes/NNP classifiers/NNS on/IN different/JJ training/NN sets/NNS which/WDT are/VBP generated/VBN by/IN projecting/VBG the/DT original/JJ training/NN set/VBN to/TO lower/VB dimensional/JJ space/NN ./.
+We/PRP propose/VBP a/DT mechanism/NN to/TO learn/VB sequences/NNS of/IN data/NNS using/VBG data/NNS chunks/NNS paradigm/NN ./.
+The/DT experiments/NNS conducted/VBN on/IN a/DT number/NN of/IN UCI/NNP datasets/NNS and/CC one/CD synthetic/JJ dataset/NN demonstrate/VBP that/IN the/DT proposed/VBN approach/NN performs/VBZ significantly/RB better/JJR than/IN some/DT well/RB -/HYPH known/VBN online/JJ learning/NN algorithms/NNS ./.

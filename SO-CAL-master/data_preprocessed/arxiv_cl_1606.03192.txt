@@ -1,0 +1,6 @@
+PSDVec/NNP is/VBZ a/DT Python/NN //HYPH Perl/NN toolbox/NN that/WDT learns/VBZ word/NN embeddings/NNS ,/, i.e./FW the/DT mapping/NN of/IN words/NNS in/IN a/DT natural/JJ language/NN to/IN continuous/JJ vectors/NNS which/WDT encode/VBP the/DT semantic/JJ //HYPH syntactic/JJ regularities/NNS between/IN the/DT words/NNS ./.
+PSDVec/NNP implements/VBZ a/DT word/NN embedding/NN learning/NN method/NN based/VBN on/IN a/DT weighted/JJ low/JJ -/HYPH rank/NN positive/JJ semidefinite/NN approximation/NN ./.
+To/TO scale/VB up/RP the/DT learning/NN process/NN ,/, we/PRP implement/VBP a/DT blockwise/JJ online/JJ learning/NN algorithm/NN to/TO learn/VB the/DT embeddings/NNS incrementally/RB ./.
+This/DT strategy/NN greatly/RB reduces/VBZ the/DT learning/NN time/NN of/IN word/NN embeddings/NNS on/IN a/DT large/JJ vocabulary/NN ,/, and/CC can/MD learn/VB the/DT embeddings/NNS of/IN new/JJ words/NNS without/IN re-learning/VBG the/DT whole/JJ vocabulary/NN ./.
+On/IN 9/CD word/NN similarity/NN //HYPH analogy/NN benchmark/NN sets/NNS and/CC 2/CD Natural/NNP Language/NNP Processing/NNP (/-LRB- NLP/NNP )/-RRB- tasks/NNS ,/, PSDVec/NNP produces/VBZ embeddings/NNS that/WDT has/VBZ the/DT best/JJS average/JJ performance/NN among/IN popular/JJ word/NN embedding/NN tools/NNS ./.
+PSDVec/NNP provides/VBZ a/DT new/JJ option/NN for/IN NLP/NN practitioners/NNS ./.

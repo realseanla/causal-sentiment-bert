@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT novel/JJ method/NN for/IN approximate/JJ inference/NN in/IN Bayesian/JJ networks/NNS (/-LRB- BNs/NNS )/-RRB- ./.
+The/DT idea/NN is/VBZ to/TO sample/VB data/NNS from/IN a/DT BN/NNP ,/, learn/VB a/DT latent/JJ tree/NN model/NN (/-LRB- LTM/NN )/-RRB- from/IN the/DT data/NNS offline/RB ,/, and/CC when/WRB online/RB ,/, make/VB inference/NN with/IN the/DT LTM/NNP instead/RB of/IN the/DT original/JJ BN/NNP ./.
+Because/IN LTMs/NNS are/VBP tree/NN -/HYPH structured/VBN ,/, inference/NN takes/VBZ linear/JJ time/NN ./.
+In/IN the/DT meantime/NN ,/, they/PRP can/MD represent/VB complex/JJ relationship/NN among/IN leaf/NN nodes/NNS and/CC hence/RB the/DT approximation/NN accuracy/NN is/VBZ often/RB good/JJ ./.
+Empirical/JJ evidence/NN shows/VBZ that/IN our/PRP$ method/NN can/MD achieve/VB good/JJ approximation/NN accuracy/NN at/IN low/JJ online/JJ computational/JJ cost/NN ./.

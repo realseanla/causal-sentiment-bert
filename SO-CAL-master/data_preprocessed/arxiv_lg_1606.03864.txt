@@ -1,0 +1,8 @@
+Many/JJ important/JJ NLP/NN problems/NNS can/MD be/VB posed/VBN as/IN dual/JJ -/HYPH sequence/NN or/CC sequence/NN -/HYPH to/IN -/HYPH sequence/NN modeling/NN tasks/NNS ./.
+Recent/JJ advances/NNS in/IN building/NN end/NN -/HYPH to/IN -/HYPH end/NN neural/JJ architectures/NNS have/VBP been/VBN highly/RB successful/JJ in/IN solving/VBG such/JJ tasks/NNS ./.
+In/IN this/DT work/NN we/PRP propose/VBP a/DT new/JJ architecture/NN for/IN dual/JJ -/HYPH sequence/NN modeling/NN that/WDT is/VBZ based/VBN on/IN associative/JJ memory/NN ./.
+We/PRP derive/VBP AM/NN -/HYPH RNNs/NNS ,/, a/DT recurrent/JJ associative/JJ memory/NN (/-LRB- AM/NN )/-RRB- which/WDT augments/VBZ generic/JJ recurrent/JJ neural/JJ networks/NNS (/-LRB- RNN/NN )/-RRB- ./.
+This/DT architecture/NN is/VBZ extended/VBN to/IN the/DT Dual/JJ AM/NN -/HYPH RNN/NN which/WDT operates/VBZ on/IN two/CD AMs/NNPS at/IN once/RB ./.
+Our/PRP$ models/NNS achieve/VBP very/RB competitive/JJ results/NNS on/IN textual/JJ entailment/NN ./.
+A/DT qualitative/JJ analysis/NN demonstrates/VBZ that/IN long/JJ range/NN dependencies/NNS between/IN source/NN and/CC target/NN -/HYPH sequence/NN can/MD be/VB bridged/VBN effectively/RB using/VBG Dual/JJ AM/NN -/HYPH RNNs/NNS ./.
+However/RB ,/, an/DT initial/JJ experiment/NN on/IN auto/NN -/HYPH encoding/VBG reveals/VBZ that/IN these/DT benefits/NNS are/VBP not/RB exploited/VBN by/IN the/DT system/NN when/WRB learning/VBG to/TO solve/VB sequence/NN -/HYPH to/IN -/HYPH sequence/NN tasks/NNS which/WDT indicates/VBZ that/IN additional/JJ supervision/NN or/CC regularization/NN is/VBZ needed/VBN ./.

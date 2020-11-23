@@ -1,0 +1,2 @@
+Current approaches to the engineering of space software such as satellite control systems are based around the development of feedback controllers using packages such as MatLab's Simulink toolbox.
+These provide powerful tools for engineering real time systems that adapt to changes in the environment but are limited when the controller itself needs to be adapted.

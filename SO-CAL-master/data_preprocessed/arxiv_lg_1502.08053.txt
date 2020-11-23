@@ -1,0 +1,5 @@
+This/DT paper/NN introduces/VBZ AdaSDCA/NN :/: an/DT adaptive/JJ variant/NN of/IN stochastic/JJ dual/JJ coordinate/NN ascent/NN (/-LRB- SDCA/NN )/-RRB- for/IN solving/VBG the/DT regularized/VBN empirical/JJ risk/NN minimization/NN problems/NNS ./.
+Our/PRP$ modification/NN consists/VBZ in/IN allowing/VBG the/DT method/NN adaptively/RB change/VB the/DT probability/NN distribution/NN over/IN the/DT dual/JJ variables/NNS throughout/IN the/DT iterative/JJ process/NN ./.
+AdaSDCA/NNP achieves/VBZ provably/RB better/JJR complexity/NN bound/VBN than/IN SDCA/NN with/IN the/DT best/JJS fixed/VBN probability/NN distribution/NN ,/, known/VBN as/IN importance/NN sampling/NN ./.
+However/RB ,/, it/PRP is/VBZ of/IN a/DT theoretical/JJ character/NN as/IN it/PRP is/VBZ expensive/JJ to/TO implement/VB ./.
+We/PRP also/RB propose/VBP AdaSDCA/NNP :/: a/DT practical/JJ variant/NN which/WDT in/IN our/PRP$ experiments/NNS outperforms/VBZ existing/VBG non-adaptive/JJ methods/NNS ./.

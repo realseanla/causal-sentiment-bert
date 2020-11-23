@@ -1,0 +1,5 @@
+Recommendation/NN systems/NNS often/RB rely/VBP on/IN point-wise/JJ loss/NN metrics/NNS such/JJ as/IN the/DT mean/JJ squared/JJ error/NN ./.
+However/RB ,/, in/IN real/JJ recommendation/NN settings/NNS only/RB few/JJ items/NNS are/VBP presented/VBN to/IN a/DT user/NN ./.
+This/DT observation/NN has/VBZ recently/RB encouraged/VBN the/DT use/NN of/IN rank/NN -/HYPH based/VBN metrics/NNS ./.
+LambdaMART/NNP is/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithm/NN in/IN learning/NN to/IN rank/NN which/WDT relies/VBZ on/IN such/PDT a/DT metric/JJ ./.
+Despite/IN its/PRP$ success/NN it/PRP does/VBZ not/RB have/VB a/DT principled/JJ regularization/NN mechanism/NN relying/VBG in/IN empirical/JJ approaches/NNS to/TO control/VB model/NN complexity/NN leaving/VBG it/PRP thus/RB prone/JJ to/IN overfitting/VBG ./.

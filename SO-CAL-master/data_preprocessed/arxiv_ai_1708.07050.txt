@@ -1,0 +1,8 @@
+The/DT goal/NN of/IN continuous/JJ emotion/NN recognition/NN is/VBZ to/TO assign/VB an/DT emotion/NN value/NN to/IN every/DT frame/NN in/IN a/DT sequence/NN of/IN acoustic/JJ features/NNS ./.
+We/PRP show/VBP that/IN incorporating/VBG long/RB -/HYPH term/NN temporal/JJ dependencies/NNS is/VBZ critical/JJ for/IN continuous/JJ emotion/NN recognition/NN tasks/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP first/RB investigate/VB architectures/NNS that/WDT use/VBP dilated/VBN convolutions/NNS ./.
+We/PRP show/VBP that/IN even/RB though/IN such/JJ architectures/NNS outperform/VBP previously/RB reported/VBN systems/NNS ,/, the/DT output/NN signals/NNS produced/VBN from/IN such/JJ architectures/NNS undergo/VBP erratic/JJ changes/NNS between/IN consecutive/JJ time/NN steps/NNS ./.
+This/DT is/VBZ inconsistent/JJ with/IN the/DT slow/JJ moving/VBG ground/NN -/HYPH truth/NN emotion/NN labels/NNS that/WDT are/VBP obtained/VBN from/IN human/JJ annotators/NNS ./.
+To/TO deal/VB with/IN this/DT problem/NN ,/, we/PRP model/VBP a/DT downsampled/JJ version/NN of/IN the/DT input/NN signal/NN and/CC then/RB generate/VBP the/DT output/NN signal/NN through/IN upsampling/VBG ./.
+Not/RB only/RB does/VBZ the/DT resulting/VBG downsampling/NN //HYPH upsampling/NN network/NN achieve/VB good/JJ performance/NN ,/, it/PRP also/RB generates/VBZ smooth/JJ output/NN trajectories/NNS ./.
+Our/PRP$ method/NN yields/VBZ the/DT best/JJS known/VBN audio/JJ -/HYPH only/JJ performance/NN on/IN the/DT RECOLA/NN dataset/NN ./.

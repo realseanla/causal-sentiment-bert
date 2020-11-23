@@ -1,0 +1,7 @@
+Automatic/NNP Speech/NNP Recognition/NNP involves/VBZ mainly/RB two/CD steps/NNS ;/: feature/NN extraction/NN and/CC classification/NN ./.
+Mel/NNP Frequency/NN Cepstral/NNP Coefficient/NNP is/VBZ used/VBN as/IN one/CD of/IN the/DT prominent/JJ feature/NN extraction/NN techniques/NNS in/IN ASR/NNP ./.
+Usually/RB ,/, the/DT set/NN of/IN all/DT 12/CD MFCC/NN coefficients/NNS is/VBZ used/VBN as/IN the/DT feature/NN vector/NN in/IN the/DT classification/NN step/NN ./.
+But/CC the/DT question/NN is/VBZ whether/IN the/DT same/JJ or/CC improved/JJ classification/NN accuracy/NN can/MD be/VB achieved/VBN by/IN using/VBG a/DT subset/NN of/IN 12/CD MFCC/NN as/IN feature/NN vector/NN ./.
+In/IN this/DT paper/NN ,/, Fisher/NNP 's/POS ratio/NN technique/NN is/VBZ used/VBN for/IN selecting/VBG a/DT subset/NN of/IN 12/CD MFCC/NN coefficients/NNS that/WDT contribute/VBP more/RBR in/IN discriminating/VBG a/DT pattern/NN ./.
+The/DT selected/VBN coefficients/NNS are/VBP used/VBN in/IN classification/NN with/IN Hidden/VBN Markov/NNP Model/NNP algorithm/NN ./.
+The/DT classification/NN accuracies/NNS that/WDT we/PRP get/VBP by/IN using/VBG 12/CD coefficients/NNS and/CC by/IN using/VBG the/DT selected/VBN coefficients/NNS are/VBP compared/VBN ./.

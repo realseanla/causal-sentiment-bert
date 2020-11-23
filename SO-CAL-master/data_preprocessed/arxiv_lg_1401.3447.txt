@@ -1,0 +1,10 @@
+Machine/NN learning/NN techniques/NNS are/VBP gaining/VBG prevalence/NN in/IN the/DT production/NN of/IN a/DT wide/JJ range/NN of/IN classifiers/NNS for/IN complex/JJ real/JJ -/HYPH world/NN applications/NNS with/IN nonuniform/JJ testing/NN and/CC misclassification/NN costs/NNS ./.
+The/DT increasing/VBG complexity/NN of/IN these/DT applications/NNS poses/VBZ a/DT real/JJ challenge/NN to/IN resource/NN management/NN during/IN learning/NN and/CC classification/NN ./.
+In/IN this/DT work/NN we/PRP introduce/VBP ACT/NN (/-LRB- anytime/NN cost/NN -/HYPH sensitive/JJ tree/NN learner/NN )/-RRB- ,/, a/DT novel/JJ framework/NN for/IN operating/VBG in/IN such/JJ complex/JJ environments/NNS ./.
+ACT/NN is/VBZ an/DT anytime/NN algorithm/NN that/WDT allows/VBZ learning/NN time/NN to/TO be/VB increased/VBN in/IN return/NN for/IN lower/JJR classification/NN costs/NNS ./.
+It/PRP builds/VBZ a/DT tree/NN top/NN -/HYPH down/NN and/CC exploits/NNS additional/JJ time/NN resources/NNS to/TO obtain/VB better/JJR estimations/NNS for/IN the/DT utility/NN of/IN the/DT different/JJ candidate/NN splits/VBZ ./.
+Using/VBG sampling/NN techniques/NNS ,/, ACT/NN approximates/VBZ the/DT cost/NN of/IN the/DT subtree/NN under/IN each/DT candidate/NN split/NN and/CC favors/VBZ the/DT one/CD with/IN a/DT minimal/JJ cost/NN ./.
+As/IN a/DT stochastic/JJ algorithm/NN ,/, ACT/NN is/VBZ expected/VBN to/TO be/VB able/JJ to/TO escape/VB local/JJ minima/NN ,/, into/IN which/WDT greedy/JJ methods/NNS may/MD be/VB trapped/VBN ./.
+Experiments/NNS with/IN a/DT variety/NN of/IN datasets/NNS were/VBD conducted/VBN to/TO compare/VB ACT/NN to/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN cost/NN -/HYPH sensitive/JJ tree/NN learners/NNS ./.
+The/DT results/NNS show/VBP that/IN for/IN the/DT majority/NN of/IN domains/NNS ACT/NN produces/VBZ significantly/RB less/RBR costly/JJ trees/NNS ./.
+ACT/NN also/RB exhibits/VBZ good/JJ anytime/RB behavior/NN with/IN diminishing/VBG returns/NNS ./.

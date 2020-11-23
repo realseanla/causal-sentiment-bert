@@ -1,0 +1,11 @@
+Issue/NN Tracking/NNP Systems/NNPS (/-LRB- ITS/NNP )/-RRB- such/JJ as/IN Bugzilla/NNP can/MD be/VB viewed/VBN as/IN Process/NN Aware/NNP Information/NNP Systems/NNPS (/-LRB- PAIS/NN )/-RRB- generating/VBG event/NN -/HYPH logs/NNS during/IN the/DT life/NN -/HYPH cycle/NN of/IN a/DT bug/NN report/NN ./.
+Process/NN Mining/NN consists/VBZ of/IN mining/NN event/NN logs/NNS generated/VBN from/IN PAIS/NN for/IN process/NN model/NN discovery/NN ,/, conformance/NN and/CC enhancement/NN ./.
+We/PRP apply/VBP process/NN map/NN discovery/NN techniques/NNS to/IN mine/NN event/NN trace/NN data/NNS generated/VBN from/IN ITS/NNP of/IN open/JJ source/NN Firefox/NNP browser/NN project/NN to/TO generate/VB and/CC study/VB process/NN models/NNS ./.
+Bug/NN life/NN -/HYPH cycle/NN consists/VBZ of/IN diversity/NN and/CC variance/NN ./.
+Therefore/RB ,/, the/DT process/NN models/NNS generated/VBN from/IN the/DT event/NN -/HYPH logs/NNS are/VBP spaghetti/NN -/HYPH like/JJ with/IN large/JJ number/NN of/IN edges/NNS ,/, inter-connections/NNS and/CC nodes/NNS ./.
+Such/JJ models/NNS are/VBP complex/JJ to/TO analyse/VB and/CC difficult/JJ to/TO comprehend/VB by/IN a/DT process/NN analyst/NN ./.
+We/PRP improve/VBP the/DT Goodness/NN (/-LRB- fitness/NN and/CC structural/JJ complexity/NN )/-RRB- of/IN the/DT process/NN models/NNS by/IN splitting/VBG the/DT event/NN -/HYPH log/NN into/IN homogeneous/JJ subsets/NNS by/IN clustering/VBG structurally/RB similar/JJ traces/NNS ./.
+We/PRP adapt/VBP the/DT K/NN -/HYPH Medoid/JJ clustering/NN algorithm/NN with/IN two/CD different/JJ distance/NN metrics/NNS :/: Longest/NNP Common/NNP Subsequence/NNP (/-LRB- LCS/NN )/-RRB- and/CC Dynamic/JJ Time/NN Warping/NN (/-LRB- DTW/NN )/-RRB- ./.
+We/PRP evaluate/VBP the/DT goodness/NN of/IN the/DT process/NN models/NNS generated/VBN from/IN the/DT clusters/NNS using/VBG complexity/NN and/CC fitness/NN metrics/NNS ./.
+We/PRP study/VBP back/RB -/HYPH forth/RB \/NN &amp;/CC self/NN -/HYPH loops/NNS ,/, bug/NN reopening/VBG ,/, and/CC bottleneck/NN in/IN the/DT clusters/NNS obtained/VBN and/CC show/VB that/IN clustering/NN enables/VBZ better/JJR analysis/NN ./.
+We/PRP also/RB propose/VBP an/DT algorithm/NN to/IN automate/VB the/DT clustering/NN process/NN -/: the/DT algorithm/NN takes/VBZ as/RB input/VB the/DT event/NN log/NN and/CC returns/VBZ the/DT best/JJS cluster/NN set/NN ./.

@@ -1,0 +1,8 @@
+Word/NNP embeddings/NNS are/VBP now/RB ubiquitous/JJ forms/NNS of/IN word/NN representation/NN in/IN natural/JJ language/NN processing/NN ./.
+There/EX have/VBP been/VBN applications/NNS of/IN word/NN embeddings/NNS for/IN monolingual/JJ word/NN sense/NN disambiguation/NN (/-LRB- WSD/NN )/-RRB- in/IN English/NNP ,/, but/CC few/JJ comparisons/NNS have/VBP been/VBN done/VBN ./.
+This/DT paper/NN attempts/VBZ to/TO bridge/VB that/DT gap/NN by/IN examining/VBG popular/JJ embeddings/NNS for/IN the/DT task/NN of/IN monolingual/JJ English/JJ WSD/NN ./.
+Our/PRP$ simplified/JJ method/NN leads/VBZ to/IN comparable/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN without/IN expensive/JJ retraining/VBG ./.
+Cross-Lingual/JJ WSD/NN -/, where/WRB the/DT word/NN senses/NNS of/IN a/DT word/NN in/IN a/DT source/NN language/NN e/NN come/VBN from/IN a/DT separate/JJ target/NN translation/NN language/NN f/NN -/HYPH can/MD also/RB assist/VB in/IN language/NN learning/NN ;/: for/IN example/NN ,/, when/WRB providing/VBG translations/NNS of/IN target/NN vocabulary/NN for/IN learners/NNS ./.
+Thus/RB we/PRP have/VBP also/RB applied/VBN word/NN embeddings/NNS to/IN the/DT novel/JJ task/NN of/IN cross-lingual/JJ WSD/NN for/IN Chinese/JJ and/CC provide/VB a/DT public/JJ dataset/NN for/IN further/JJ benchmarking/NN ./.
+We/PRP have/VBP also/RB experimented/VBN with/IN using/VBG word/NN embeddings/NNS for/IN LSTM/NNP networks/NNS and/CC found/VBD surprisingly/RB that/IN a/DT basic/JJ LSTM/NNP network/NN does/VBZ not/RB work/VB well/RB ./.
+We/PRP discuss/VBP the/DT ramifications/NNS of/IN this/DT outcome/NN ./.

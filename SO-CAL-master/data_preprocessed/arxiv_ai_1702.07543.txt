@@ -1,0 +1,9 @@
+Representation/NN learning/NN of/IN knowledge/NN graphs/NNS encodes/VBZ entities/NNS and/CC relation/NN types/NNS into/IN a/DT continuous/JJ low/JJ -/HYPH dimensional/JJ vector/NN space/NN ,/, learns/VBZ embeddings/NNS of/IN entities/NNS and/CC relation/NN types/NNS ./.
+Most/JJS existing/VBG methods/NNS only/RB concentrate/VBP on/IN knowledge/NN triples/NNS ,/, ignoring/VBG logic/NN rules/NNS which/WDT contain/VBP rich/JJ background/NN knowledge/NN ./.
+Although/IN there/EX has/VBZ been/VBN some/DT work/NN aiming/VBG at/IN leveraging/VBG both/DT knowledge/NN triples/NNS and/CC logic/NN rules/NNS ,/, they/PRP ignore/VBP the/DT transitivity/NN and/CC antisymmetry/NN of/IN logic/NN rules/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ approach/NN to/TO learn/VB knowledge/NN representations/NNS with/IN entities/NNS and/CC ordered/VBD relations/NNS in/IN knowledges/NNS and/CC logic/NN rules/NNS ./.
+The/DT key/JJ idea/NN is/VBZ to/TO integrate/VB knowledge/NN triples/NNS and/CC logic/NN rules/NNS ,/, and/CC approximately/RB order/VB the/DT relation/NN types/NNS in/IN logic/NN rules/NNS to/TO utilize/VB the/DT transitivity/NN and/CC antisymmetry/NN of/IN logic/NN rules/NNS ./.
+All/DT entries/NNS of/IN the/DT embeddings/NNS of/IN relation/NN types/NNS are/VBP constrained/VBN to/TO be/VB non-negative/JJ ./.
+We/PRP translate/VB the/DT general/JJ constrained/VBN optimization/NN problem/NN into/IN an/DT unconstrained/JJ optimization/NN problem/NN to/TO solve/VB the/DT non-negative/JJ matrix/NN factorization/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ model/NN significantly/RB outperforms/VBZ other/JJ baselines/NNS on/IN knowledge/NN graph/NN completion/NN task/NN ./.
+It/PRP indicates/VBZ that/IN our/PRP$ model/NN is/VBZ capable/JJ of/IN capturing/VBG the/DT transitivity/NN and/CC antisymmetry/JJ information/NN ,/, which/WDT is/VBZ significant/JJ when/WRB learning/VBG embeddings/NNS of/IN knowledge/NN graphs/NNS ./.

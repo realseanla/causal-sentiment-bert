@@ -1,0 +1,4 @@
+Community Question Answering (cQA) forums have become a popular medium for soliciting direct answers to specific questions of users from experts or other experienced users on a given topic.
+However, for a given question, users sometimes have to sift through a large number of low-quality or irrelevant answers to find out the answer which satisfies their information need.
+To alleviate this, the problem of Answer Quality Prediction (AQP) aims to predict the quality of an answer posted in response to a forum question.
+Current AQP systems either learn models using - a) various hand-crafted features (HCF) or b) use deep learning (DL) techniques which automatically learn the required feature representations.

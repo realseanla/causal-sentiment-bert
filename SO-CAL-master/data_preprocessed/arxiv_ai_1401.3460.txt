@@ -1,0 +1,12 @@
+Coordination/NN of/IN distributed/VBN agents/NNS is/VBZ required/VBN for/IN problems/NNS arising/VBG in/IN many/JJ areas/NNS ,/, including/VBG multi-robot/JJ systems/NNS ,/, networking/NN and/CC e-commerce/NN ./.
+As/IN a/DT formal/JJ framework/NN for/IN such/JJ problems/NNS ,/, we/PRP use/VBP the/DT decentralized/VBN partially/RB observable/JJ Markov/NNP decision/NN process/NN (/-LRB- DEC/NNP -/HYPH POMDP/NNP )/-RRB- ./.
+Though/IN much/JJ work/NN has/VBZ been/VBN done/VBN on/IN optimal/JJ dynamic/JJ programming/NN algorithms/NNS for/IN the/DT single/JJ -/HYPH agent/NN version/NN of/IN the/DT problem/NN ,/, optimal/JJ algorithms/NNS for/IN the/DT multiagent/JJ case/NN have/VBP been/VBN elusive/JJ ./.
+The/DT main/JJ contribution/NN of/IN this/DT paper/NN is/VBZ an/DT optimal/JJ policy/NN iteration/NN algorithm/NN for/IN solving/VBG DEC/NNP -/HYPH POMDPs/NNPS ./.
+The/DT algorithm/NN uses/VBZ stochastic/JJ finite/NN -/HYPH state/NN controllers/NNS to/TO represent/VB policies/NNS ./.
+The/DT solution/NN can/MD include/VB a/DT correlation/NN device/NN ,/, which/WDT allows/VBZ agents/NNS to/TO correlate/VB their/PRP$ actions/NNS without/IN communicating/VBG ./.
+This/DT approach/NN alternates/VBZ between/IN expanding/VBG the/DT controller/NN and/CC performing/VBG value/NN -/HYPH preserving/VBG transformations/NNS ,/, which/WDT modify/VBP the/DT controller/NN without/IN sacrificing/VBG value/NN ./.
+We/PRP present/VBP two/CD efficient/JJ value/NN -/HYPH preserving/VBG transformations/NNS :/: one/CD can/MD reduce/VB the/DT size/NN of/IN the/DT controller/NN and/CC the/DT other/JJ can/MD improve/VB its/PRP$ value/NN while/IN keeping/VBG the/DT size/NN fixed/VBN ./.
+Empirical/JJ results/NNS demonstrate/VBP the/DT usefulness/NN of/IN value/NN -/HYPH preserving/VBG transformations/NNS in/IN increasing/VBG value/NN while/IN keeping/VBG controller/NN size/NN to/IN a/DT minimum/NN ./.
+To/TO broaden/VB the/DT applicability/NN of/IN the/DT approach/NN ,/, we/PRP also/RB present/VBP a/DT heuristic/NN version/NN of/IN the/DT policy/NN iteration/NN algorithm/NN ,/, which/WDT sacrifices/VBZ convergence/NN to/IN optimality/NN ./.
+This/DT algorithm/NN further/RB reduces/VBZ the/DT size/NN of/IN the/DT controllers/NNS at/IN each/DT step/NN by/IN assuming/VBG that/IN probability/NN distributions/NNS over/IN the/DT other/JJ agents/NNS actions/NNS are/VBP known/VBN ./.
+While/IN this/DT assumption/NN may/MD not/RB hold/VB in/RP general/JJ ,/, it/PRP helps/VBZ produce/VB higher/JJR quality/NN solutions/NNS in/IN our/PRP$ test/NN problems/NNS ./.

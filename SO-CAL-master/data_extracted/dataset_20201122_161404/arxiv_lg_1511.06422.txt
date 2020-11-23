@@ -1,0 +1,6 @@
+Layer-sequential unit-variance (LSUV) initialization - a simple strategy for weight initialization for deep net learning - is proposed.
+The strategy proceeds from the first to the final layer, normalizing the variance of the output of each layer to be equal to one.
+We show that with the strategy, learning of very deep nets via standard stochastic gradient descent is at least as fast as the complex schemes proposed specifically for very deep nets such as FitNets (Romero et al.
+(2015)) and Highway (Srivastava et al.
+(2015)).
+Performance that is state-of-the-art, or very close to it, is achieved on the MNIST, CIFAR, ImageNet datasets.

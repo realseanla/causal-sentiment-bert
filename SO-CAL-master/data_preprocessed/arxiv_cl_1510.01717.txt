@@ -1,0 +1,11 @@
+Language/NNP segmentation/NN consists/VBZ in/IN finding/VBG the/DT boundaries/NNS where/WRB one/CD language/NN ends/NNS and/CC another/DT language/NN begins/VBZ in/IN a/DT text/NN written/VBN in/IN more/JJR than/IN one/CD language/NN ./.
+This/DT is/VBZ important/JJ for/IN all/DT natural/JJ language/NN processing/NN tasks/NNS ./.
+The/DT problem/NN can/MD be/VB solved/VBN by/IN training/VBG language/NN models/NNS on/IN language/NN data/NNS ./.
+However/RB ,/, in/IN the/DT case/NN of/IN low/JJ -/HYPH or/CC no/DT -/HYPH resource/NN languages/NNS ,/, this/DT is/VBZ problematic/JJ ./.
+I/PRP therefore/RB investigate/VBP whether/IN unsupervised/JJ methods/NNS perform/VBP better/JJR than/IN supervised/JJ methods/NNS when/WRB it/PRP is/VBZ difficult/JJ or/CC impossible/JJ to/TO train/VB supervised/JJ approaches/NNS ./.
+A/DT special/JJ focus/NN is/VBZ given/VBN to/IN difficult/JJ texts/NNS ,/, i.e./FW texts/NNS that/WDT are/VBP rather/RB short/JJ (/-LRB- one/CD sentence/NN )/-RRB- ,/, containing/VBG abbreviations/NNS ,/, low/JJ -/HYPH resource/NN languages/NNS and/CC non-standard/JJ language/NN ./.
+I/PRP compare/VBP three/CD approaches/NNS :/: supervised/JJ n/NN -/HYPH gram/NN language/NN models/NNS ,/, unsupervised/JJ clustering/NN and/CC weakly/RB supervised/VBD n/NN -/HYPH gram/NN language/NN model/NN induction/NN ./.
+I/PRP devised/VBD the/DT weakly/RB supervised/JJ approach/NN in/IN order/NN to/TO deal/VB with/IN difficult/JJ text/NN specifically/RB ./.
+In/IN order/NN to/TO test/VB the/DT approach/NN ,/, I/PRP compiled/VBD a/DT small/JJ corpus/NN of/IN different/JJ text/NN types/NNS ,/, ranging/VBG from/IN one/CD -/HYPH sentence/NN texts/NNS to/IN texts/NNS of/IN about/RB 300/CD words/NNS ./.
+The/DT weakly/RB supervised/JJ language/NN model/NN induction/NN approach/NN works/VBZ well/RB on/IN short/JJ and/CC difficult/JJ texts/NNS ,/, outperforming/VBG the/DT clustering/NN algorithm/NN and/CC reaching/VBG scores/NNS in/IN the/DT vicinity/NN of/IN the/DT supervised/JJ approach/NN ./.
+The/DT results/NNS look/VBP promising/JJ ,/, but/CC there/EX is/VBZ room/NN for/IN improvement/NN and/CC a/DT more/RBR thorough/JJ investigation/NN should/MD be/VB undertaken/VBN ./.

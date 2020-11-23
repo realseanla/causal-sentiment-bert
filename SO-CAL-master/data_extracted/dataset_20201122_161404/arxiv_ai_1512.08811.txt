@@ -1,0 +1,6 @@
+In this paper we propose an extension to the Fuzzy Cognitive Maps (FCMs) that aims at aggregating a number of reasoning tasks into a one parallel run.
+The described approach consists in replacing real-valued activation levels of concepts (and further influence weights) by random variables.
+Such extension, followed by the implemented software tool, allows for determining ranges reached by concept activation levels, sensitivity analysis as well as statistical analysis of multiple reasoning results.
+We replace multiplication and addition operators appearing in the FCM state equation by appropriate convolutions applicable for discrete random variables.
+To make the model computationally feasible, it is further augmented with aggregation operations for discrete random variables.
+We discuss four implemented aggregators, as well as we report results of preliminary tests.

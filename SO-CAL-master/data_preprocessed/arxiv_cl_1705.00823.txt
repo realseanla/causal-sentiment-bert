@@ -1,0 +1,6 @@
+In/IN recent/JJ years/NNS ,/, automatic/JJ generation/NN of/IN image/NN descriptions/NNS (/-LRB- captions/NNS )/-RRB- ,/, that/WDT is/VBZ ,/, image/NN captioning/NN ,/, has/VBZ attracted/VBN a/DT great/JJ deal/NN of/IN attention/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP particularly/RB consider/VBP generating/VBG Japanese/JJ captions/NNS for/IN images/NNS ./.
+Since/IN most/JJS available/JJ caption/NN datasets/NNS have/VBP been/VBN constructed/VBN for/IN English/NNP language/NN ,/, there/EX are/VBP few/JJ datasets/NNS for/IN Japanese/JJ ./.
+To/TO tackle/VB this/DT problem/NN ,/, we/PRP construct/VBP a/DT large/JJ -/HYPH scale/NN Japanese/JJ image/NN caption/NN dataset/NN based/VBN on/IN images/NNS from/IN MS/NNP -/HYPH COCO/NNP ,/, which/WDT is/VBZ called/VBN STAIR/NNP Captions/NNS ./.
+STAIR/NN Captions/NNS consists/VBZ of/IN 820,310/CD Japanese/JJ captions/NNS for/IN 164,062/CD images/NNS ./.
+In/IN the/DT experiment/NN ,/, we/PRP show/VBP that/IN a/DT neural/JJ network/NN trained/VBN using/VBG STAIR/NN Captions/NNS can/MD generate/VB more/JJR natural/JJ and/CC better/RBR Japanese/JJ captions/NNS ,/, compared/VBN to/IN those/DT generated/VBN using/VBG English/NNP -/HYPH Japanese/NNP machine/NN translation/NN after/IN generating/VBG English/NNP captions/NNS ./.

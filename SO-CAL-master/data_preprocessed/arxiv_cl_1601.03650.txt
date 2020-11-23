@@ -1,0 +1,10 @@
+IBM/NNP models/NNS are/VBP very/RB popular/JJ word/NN alignment/NN models/NNS in/IN Machine/NN Translation/NN ./.
+They/PRP play/VBP critical/JJ roles/NNS in/IN the/DT systems/NNS of/IN this/DT field/NN ./.
+These/DT models/NNS follow/VBP Maximum/NNP Likelihood/NNP principle/NN to/TO estimate/VB their/PRP$ parameters/NNS ./.
+However/RB ,/, in/IN many/JJ case/NN ,/, the/DT models/NNS will/MD be/VB too/RB fit/VB the/DT training/NN data/NNS that/WDT may/MD result/VB in/IN wrong/JJ word/NN alignments/NNS on/IN testing/NN data/NNS ./.
+Smoothing/NN is/VBZ a/DT popular/JJ solution/NN to/IN the/DT overfitting/VBG problem/NN when/WRB the/DT causes/NNS are/VBP rare/JJ events/NNS ./.
+While/IN this/DT technique/NN is/VBZ very/RB common/JJ in/IN Language/NNP Model/NNP which/WDT is/VBZ another/DT problem/NN in/IN Machine/NN Translation/NN ,/, there/EX is/VBZ still/RB lack/NN of/IN studies/NNS for/IN the/DT problem/NN of/IN word/NN alignment/NN ./.
+reported/VBD a/DT study/NN on/IN a/DT simple/JJ method/NN of/IN additive/JJ smoothing/NN ,/, in/IN which/WDT the/DT amount/NN to/TO add/VB is/VBZ learnt/VBN from/IN annotated/VBN data/NNS ./.
+This/DT basic/JJ technique/NN gives/VBZ a/DT significant/JJ improvement/NN over/IN the/DT unsmoothed/JJ version/NN ./.
+With/IN such/PDT a/DT good/JJ motivation/NN ,/, in/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT more/RBR general/JJ framework/NN by/IN varying/VBG the/DT amount/NN to/TO add/VB rather/RB than/IN adding/VBG only/RB a/DT constant/JJ amount/NN as/IN the/DT original/JJ additive/JJ smoothing/NN ./.
+In/IN term/NN of/IN learning/NN method/NN ,/, we/PRP also/RB experience/VBP a/DT method/NN to/TO learn/VB the/DT parameter/NN of/IN smoothing/VBG from/IN unannotated/JJ data/NNS with/IN a/DT deep/JJ analysis/NN and/CC comparision/NN between/IN different/JJ learning/NN methods/NNS ./.

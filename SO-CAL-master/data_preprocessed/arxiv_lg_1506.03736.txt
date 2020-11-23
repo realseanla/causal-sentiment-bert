@@ -1,0 +1,7 @@
+High/JJ dimensional/JJ regression/NN benefits/NNS from/IN sparsity/NN promoting/VBG regularizations/NNS ./.
+Screening/NN rules/NNS leverage/VBP the/DT known/VBN sparsity/NN of/IN the/DT solution/NN by/IN ignoring/VBG some/DT variables/NNS in/IN the/DT optimization/NN ,/, hence/RB speeding/VBG up/RP solvers/NNS ./.
+When/WRB the/DT procedure/NN is/VBZ proven/VBN not/RB to/TO discard/VB features/NNS wrongly/RB the/DT rules/NNS are/VBP said/VBN to/TO be/VB \/SYM emph/NN {/-LRB- safe/JJ }/-RRB- ./.
+In/IN this/DT paper/NN we/PRP derive/VBP new/JJ safe/JJ rules/NNS for/IN generalized/VBN linear/JJ models/NNS regularized/VBN with/IN $/$ \/CD ell_1/CD $/$ and/CC $/$ \/CD ell_1/CD //SYM \/SYM ell_2/SYM $/$ norms/NNS ./.
+The/DT rules/NNS are/VBP based/VBN on/IN duality/NN gap/NN computations/NNS and/CC spherical/JJ safe/JJ regions/NNS whose/WP$ diameters/NNS converge/VBP to/IN zero/CD ./.
+This/DT allows/VBZ to/TO discard/VB safely/RB more/JJR variables/NNS ,/, in/IN particular/JJ for/IN low/JJ regularization/NN parameters/NNS ./.
+The/DT GAP/NNP Safe/NNP rule/NN can/MD cope/VB with/IN any/DT iterative/JJ solver/NN and/CC we/PRP illustrate/VBP its/PRP$ performance/NN on/IN coordinate/JJ descent/NN for/IN multi-task/VB Lasso/NNP ,/, binary/JJ and/CC multinomial/JJ logistic/JJ regression/NN ,/, demonstrating/VBG significant/JJ speed/NN ups/NNS on/IN all/DT tested/VBN datasets/NNS with/IN respect/NN to/IN previous/JJ safe/JJ rules/NNS ./.

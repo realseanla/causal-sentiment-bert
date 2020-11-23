@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ the/DT University/NNP of/IN Cambridge/NNP submission/NN to/IN WMT16/NN ./.
+Motivated/VBN by/IN the/DT complementary/JJ nature/NN of/IN syntactical/JJ machine/NN translation/NN and/CC neural/JJ machine/NN translation/NN (/-LRB- NMT/NN )/-RRB- ,/, we/PRP exploit/VBP the/DT synergies/NNS of/IN Hiero/NNP and/CC NMT/NNP in/IN different/JJ combination/NN schemes/NNS ./.
+Starting/VBG out/RP with/IN a/DT simple/JJ neural/JJ lattice/NN rescoring/VBG approach/NN ,/, we/PRP show/VBP that/IN the/DT Hiero/NNP lattices/NNS are/VBP often/RB too/RB narrow/JJ for/IN NMT/NN ensembles/NNS ./.
+Therefore/RB ,/, instead/RB of/IN a/DT hard/JJ restriction/NN of/IN the/DT NMT/NN search/NN space/NN to/IN the/DT lattice/NN ,/, we/PRP propose/VBP to/IN loosely/RB couple/NN NMT/NN and/CC Hiero/NNP by/IN composition/NN with/IN a/DT modified/VBN version/NN of/IN the/DT edit/NN distance/NN transducer/NN ./.
+The/DT loose/JJ combination/NN outperforms/VBZ lattice/NN rescoring/NN ,/, especially/RB when/WRB using/VBG multiple/JJ NMT/NN systems/NNS in/IN an/DT ensemble/NN ./.

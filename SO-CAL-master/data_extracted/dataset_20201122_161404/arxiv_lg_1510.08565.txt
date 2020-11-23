@@ -1,0 +1,9 @@
+In a conversation or a dialogue process, attention and intention play intrinsic roles.
+This paper proposes a neural network based approach that models the attention and intention processes.
+It essentially consists of three recurrent networks.
+The encoder network is a word-level model representing source side sentences.
+The intention network is a recurrent network that models the dynamics of the intention process.
+The decoder network is a recurrent network produces responses to the input from the source side.
+It is a language model that is dependent on the intention and has an attention mechanism to attend to particular source side words, when predicting a symbol in the response.
+The model is trained end-to-end without labeling data.
+Experiments show that this model generates natural responses to user inputs.

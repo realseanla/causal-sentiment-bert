@@ -1,0 +1,7 @@
+This research introduces a new constraint domain for reasoning about data with uncertainty.
+It extends convex modeling with the notion of p-box to gain additional quantifiable information on the data whereabouts.
+Unlike existing approaches, the p-box envelops an unknown probability instead of approximating its representation.
+The p-box bounds are uniform cumulative distribution functions (cdf) in order to employ linear computations in the probabilistic domain.
+The reasoning by means of p-box cdf-intervals is an interval computation which is exerted on the real domain then it is projected onto the cdf domain.
+This operation conveys additional knowledge represented by the obtained probabilistic bounds.
+Empirical evaluation shows that, with minimal overhead, the output solution set realizes a full enclosure of the data along with tighter bounds on its probabilistic distributions.

@@ -1,0 +1,5 @@
+Currently, deep neural networks are the state of the art on problems such as speech recognition and computer vision.
+In this extended abstract, we show that shallow feed-forward networks can learn the complex functions previously learned by deep nets and achieve accuracies previously only achievable with deep models.
+Moreover, the shallow neural nets can learn these deep functions using a total number of parameters similar to the original deep model.
+We evaluate our method on TIMIT phoneme recognition task and are able to train shallow fully-connected nets that perform similarly to complex, well-engineered, deep convolutional architectures.
+Our success in training shallow neural nets to mimic deeper models suggests that there probably exist better algorithms for training shallow feed-forward nets than those currently available.

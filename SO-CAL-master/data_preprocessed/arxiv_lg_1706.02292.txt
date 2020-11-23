@@ -1,0 +1,5 @@
+This/DT paper/NN studies/NNS the/DT emotion/NN recognition/NN from/IN musical/JJ tracks/NNS in/IN the/DT 2/CD -/HYPH dimensional/JJ valence/NN -/HYPH arousal/NN (/-LRB- V/NN -/HYPH A/NN )/-RRB- emotional/JJ space/NN ./.
+We/PRP propose/VBP a/DT method/NN based/VBN on/IN convolutional/JJ (/-LRB- CNN/NNP )/-RRB- and/CC recurrent/JJ neural/JJ networks/NNS (/-LRB- RNN/NN )/-RRB- ,/, having/VBG significantly/RB fewer/JJR parameters/NNS compared/VBN with/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN method/NN for/IN the/DT same/JJ task/NN ./.
+We/PRP utilize/VBP one/CD CNN/NNP layer/NN followed/VBN by/IN two/CD branches/NNS of/IN RNNs/NNS trained/VBN separately/RB for/IN arousal/NN and/CC valence/NN ./.
+The/DT method/NN was/VBD evaluated/VBN using/VBG the/DT '/`` MediaEval2015/NN emotion/NN in/IN music/NN '/'' dataset/NN ./.
+We/PRP achieved/VBD an/DT RMSE/NN of/IN 0.202/CD for/IN arousal/NN and/CC 0.268/CD for/IN valence/NN ,/, which/WDT is/VBZ the/DT best/JJS result/NN reported/VBD on/IN this/DT dataset/NN ./.

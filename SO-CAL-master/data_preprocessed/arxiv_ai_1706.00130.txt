@@ -1,0 +1,7 @@
+Robots/NNP will/MD eventually/RB be/VB part/NN of/IN every/DT household/NN ./.
+It/PRP is/VBZ thus/RB critical/JJ to/TO enable/VB algorithms/NNS to/TO learn/VB from/IN and/CC be/VB guided/VBN by/IN non-expert/NN users/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP bring/VBP a/DT human/JJ in/IN the/DT loop/NN ,/, and/CC enable/VB a/DT human/JJ teacher/NN to/TO give/VB feedback/NN to/IN a/DT learning/NN agent/NN in/IN the/DT form/NN of/IN natural/JJ language/NN ./.
+We/PRP argue/VBP that/IN a/DT descriptive/JJ sentence/NN can/MD provide/VB a/DT much/RB stronger/JJR learning/NN signal/NN than/IN a/DT numeric/JJ reward/NN in/IN that/IN it/PRP can/MD easily/RB point/VB to/IN where/WRB the/DT mistakes/NNS are/VBP and/CC how/WRB to/TO correct/VB them/PRP ./.
+We/PRP focus/VBP on/IN the/DT problem/NN of/IN image/NN captioning/NN in/IN which/WDT the/DT quality/NN of/IN the/DT output/NN can/MD easily/RB be/VB judged/VBN by/IN non-experts/NNS ./.
+We/PRP propose/VBP a/DT hierarchical/JJ phrase/NN -/HYPH based/VBN captioning/NN model/NN trained/VBN with/IN policy/NN gradients/NNS ,/, and/CC design/VB a/DT feedback/NN network/NN that/WDT provides/VBZ reward/NN to/IN the/DT learner/NN by/IN conditioning/VBG on/IN the/DT human/JJ -/HYPH provided/VBN feedback/NN ./.
+We/PRP show/VBP that/IN by/IN exploiting/VBG descriptive/JJ feedback/NN our/PRP$ model/NN learns/VBZ to/TO perform/VB better/JJR than/IN when/WRB given/VBN independently/RB written/VBN human/NN captions/NNS ./.

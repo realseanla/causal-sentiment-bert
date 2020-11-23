@@ -1,0 +1,7 @@
+An/DT important/JJ way/NN to/TO make/VB large/JJ training/NN sets/NNS is/VBZ to/TO gather/VB noisy/JJ labels/NNS from/IN crowds/NNS of/IN non/FW experts/NNS ./.
+We/PRP propose/VBP a/DT method/NN to/IN aggregate/JJ noisy/JJ labels/NNS collected/VBN from/IN a/DT crowd/NN of/IN workers/NNS or/CC annotators/NNS ./.
+Eliciting/VBG labels/NNS is/VBZ important/JJ in/IN tasks/NNS such/JJ as/IN judging/VBG web/NN search/NN quality/NN and/CC rating/NN products/NNS ./.
+Our/PRP$ method/NN assumes/VBZ that/IN labels/NNS are/VBP generated/VBN by/IN a/DT probability/NN distribution/NN over/IN items/NNS and/CC labels/NNS ./.
+We/PRP formulate/VBP the/DT method/NN by/IN drawing/VBG parallels/NNS between/IN Gaussian/NNP Mixture/NNP Models/NNPS (/-LRB- GMMs/NNS )/-RRB- and/CC Restricted/VBN Boltzmann/NNP Machines/NNPS (/-LRB- RBMs/NNS )/-RRB- and/CC show/VBP that/IN the/DT problem/NN of/IN vote/NN aggregation/NN can/MD be/VB viewed/VBN as/IN one/CD of/IN clustering/NN ./.
+We/PRP use/VBP K/NN -/HYPH RBMs/NNS to/TO perform/VB clustering/NN ./.
+We/PRP finally/RB show/VBP some/DT empirical/JJ evaluations/NNS over/IN real/JJ datasets/NNS ./.

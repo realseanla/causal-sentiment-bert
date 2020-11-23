@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT novel/JJ information/NN -/HYPH theoretic/JJ approach/NN for/IN Bayesian/JJ optimization/NN called/VBN Predictive/NNP Entropy/NNP Search/NNP (/-LRB- PES/NNP )/-RRB- ./.
+At/IN each/DT iteration/NN ,/, PES/NNP selects/VBZ the/DT next/JJ evaluation/NN point/NN that/WDT maximizes/VBZ the/DT expected/JJ information/NN gained/VBN with/IN respect/NN to/IN the/DT global/JJ maximum/NN ./.
+PES/NNP codifies/VBZ this/DT intractable/JJ acquisition/NN function/NN in/IN terms/NNS of/IN the/DT expected/VBN reduction/NN in/IN the/DT differential/JJ entropy/NN of/IN the/DT predictive/JJ distribution/NN ./.
+This/DT reformulation/NN allows/VBZ PES/NNP to/TO obtain/VB approximations/NNS that/WDT are/VBP both/RB more/RBR accurate/JJ and/CC efficient/JJ than/IN other/JJ alternatives/NNS such/JJ as/IN Entropy/NNP Search/NNP (/-LRB- ES/NN )/-RRB- ./.
+Furthermore/RB ,/, PES/NNP can/MD easily/RB perform/VB a/DT fully/RB Bayesian/JJ treatment/NN of/IN the/DT model/NN hyperparameters/NNS while/IN ES/NN can/MD not/RB ./.
+We/PRP evaluate/VBP PES/NNP in/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH world/NN applications/NNS ,/, including/VBG optimization/NN problems/NNS in/IN machine/NN learning/NN ,/, finance/NN ,/, biotechnology/NN ,/, and/CC robotics/NNS ./.
+We/PRP show/VBP that/IN the/DT increased/VBN accuracy/NN of/IN PES/NN leads/VBZ to/IN significant/JJ gains/NNS in/IN optimization/NN performance/NN ./.

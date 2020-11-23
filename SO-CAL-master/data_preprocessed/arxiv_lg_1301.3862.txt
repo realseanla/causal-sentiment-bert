@@ -1,0 +1,5 @@
+We/PRP describe/VBP a/DT graphical/JJ model/NN for/IN probabilistic/JJ relationships/NNS ---/, an/DT alternative/NN to/IN the/DT Bayesian/JJ network/NN ---/, called/VBD a/DT dependency/NN network/NN ./.
+The/DT graph/NN of/IN a/DT dependency/NN network/NN ,/, unlike/IN a/DT Bayesian/JJ network/NN ,/, is/VBZ potentially/RB cyclic/JJ ./.
+The/DT probability/NN component/NN of/IN a/DT dependency/NN network/NN ,/, like/IN a/DT Bayesian/JJ network/NN ,/, is/VBZ a/DT set/NN of/IN conditional/JJ distributions/NNS ,/, one/CD for/IN each/DT node/NN given/VBN its/PRP$ parents/NNS ./.
+We/PRP identify/VBP several/JJ basic/JJ properties/NNS of/IN this/DT representation/NN and/CC describe/VB a/DT computationally/RB efficient/JJ procedure/NN for/IN learning/VBG the/DT graph/NN and/CC probability/NN components/NNS from/IN data/NNS ./.
+We/PRP describe/VBP the/DT application/NN of/IN this/DT representation/NN to/IN probabilistic/JJ inference/NN ,/, collaborative/JJ filtering/NN (/-LRB- the/DT task/NN of/IN predicting/VBG preferences/NNS )/-RRB- ,/, and/CC the/DT visualization/NN of/IN acausal/JJ predictive/JJ relationships/NNS ./.

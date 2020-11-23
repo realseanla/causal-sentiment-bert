@@ -1,0 +1,5 @@
+The/DT EM/NNP -/HYPH algorithm/NN is/VBZ a/DT general/JJ procedure/NN to/TO get/VB maximum/JJ likelihood/NN estimates/NNS if/IN part/NN of/IN the/DT observations/NNS on/IN the/DT variables/NNS of/IN a/DT network/NN are/VBP missing/VBG ./.
+In/IN this/DT paper/NN a/DT stochastic/JJ version/NN of/IN the/DT algorithm/NN is/VBZ adapted/VBN to/IN probabilistic/JJ neural/JJ networks/NNS describing/VBG the/DT associative/JJ dependency/NN of/IN variables/NNS ./.
+These/DT networks/NNS have/VBP a/DT probability/NN distribution/NN ,/, which/WDT is/VBZ a/DT special/JJ case/NN of/IN the/DT distribution/NN generated/VBN by/IN probabilistic/JJ inference/NN networks/NNS ./.
+Hence/RB both/DT types/NNS of/IN networks/NNS can/MD be/VB combined/VBN allowing/VBG to/TO integrate/VB probabilistic/JJ rules/NNS as/RB well/RB as/IN unspecified/JJ associations/NNS in/IN a/DT sound/JJ way/NN ./.
+The/DT resulting/VBG network/NN may/MD have/VB a/DT number/NN of/IN interesting/JJ features/NNS including/VBG cycles/NNS of/IN probabilistic/JJ rules/NNS ,/, hidden/VBN '/'' unobservable/JJ '/'' variables/NNS ,/, and/CC uncertain/JJ and/CC contradictory/JJ evidence/NN ./.

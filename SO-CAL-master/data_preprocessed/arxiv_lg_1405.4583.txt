@@ -1,0 +1,7 @@
+Many/JJ recent/JJ advances/NNS in/IN computer/NN vision/NN have/VBP demonstrated/VBN the/DT impressive/JJ power/NN of/IN dense/JJ and/CC nonsubmodular/JJ energy/NN functions/NNS in/IN solving/VBG visual/JJ labeling/NN problems/NNS ./.
+However/RB ,/, minimizing/VBG such/JJ energies/NNS is/VBZ challenging/JJ ./.
+None/NN of/IN existing/VBG techniques/NNS (/-LRB- such/JJ as/IN s/AFX -/HYPH t/NN graph/NN cut/NN ,/, QPBO/NNP ,/, BP/NNP and/CC TRW/NNP -/HYPH S/NNP )/-RRB- can/MD individually/RB do/VB this/DT well/UH ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT efficient/JJ method/NN ,/, namely/RB ESSP/NNP ,/, to/TO optimize/VB binary/JJ MRFs/NNS with/IN arbitrary/JJ pairwise/JJ potentials/NNS ,/, which/WDT could/MD be/VB nonsubmodular/JJ and/CC with/IN dense/JJ connectivity/NN ./.
+We/PRP also/RB provide/VBP a/DT comparative/JJ study/NN of/IN our/PRP$ approach/NN and/CC several/JJ recent/JJ promising/JJ methods/NNS ./.
+From/IN our/PRP$ study/NN ,/, we/PRP make/VBP some/DT reasonable/JJ recommendations/NNS of/IN combining/VBG existing/VBG methods/NNS that/WDT perform/VBP the/DT best/JJS in/IN different/JJ situations/NNS for/IN this/DT challenging/JJ problem/NN ./.
+Experimental/JJ results/NNS validate/VBP that/IN for/IN dense/JJ and/CC nonsubmodular/JJ energy/NN functions/NNS ,/, the/DT proposed/VBN approach/NN can/MD usually/RB obtain/VB lower/JJR energies/NNS than/IN the/DT best/JJS combination/NN of/IN other/JJ techniques/NNS using/VBG comparably/RB reasonable/JJ time/NN ./.

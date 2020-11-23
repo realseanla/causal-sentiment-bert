@@ -1,0 +1,5 @@
+The/DT paper/NN presents/VBZ an/DT approach/NN to/IN verification/NN of/IN a/DT multi-agent/JJ data/NNS analysis/NN algorithm/NN ./.
+We/PRP base/VBP correct/JJ simulation/NN of/IN the/DT multi-agent/JJ system/NN by/IN a/DT finite/JJ integer/NN model/NN ./.
+For/IN verification/NN we/PRP use/VBP model/NN checking/VBG tool/NN SPIN/NN ./.
+Protocols/NNS of/IN agents/NNS are/VBP written/VBN in/IN Promela/NNP language/NN and/CC properties/NNS of/IN the/DT multi-agent/JJ data/NNS analysis/NN system/NN are/VBP expressed/VBN in/IN logic/NN LTL/NN ./.
+We/PRP run/VBP several/JJ experiments/NNS with/IN SPIN/NN and/CC the/DT model/NN ./.

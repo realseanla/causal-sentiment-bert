@@ -1,0 +1,5 @@
+Labeled/VBN sequence/NN transduction/NN is/VBZ a/DT task/NN of/IN transforming/VBG one/CD sequence/NN into/IN another/DT sequence/NN that/WDT satisfies/VBZ desiderata/NNS specified/VBN by/IN a/DT set/NN of/IN labels/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP multi-space/JJ variational/JJ encoder/NN -/HYPH decoders/NNS ,/, a/DT new/JJ model/NN for/IN labeled/VBN sequence/NN transduction/NN with/IN semi-supervised/VBN learning/NN ./.
+The/DT generative/JJ model/NN can/MD use/VB neural/JJ networks/NNS to/TO handle/VB both/DT discrete/JJ and/CC continuous/JJ latent/NN variables/NNS to/TO exploit/VB various/JJ features/NNS of/IN data/NNS ./.
+Experiments/NNS show/VBP that/IN our/PRP$ model/NN provides/VBZ not/RB only/RB a/DT powerful/JJ supervised/JJ framework/NN but/CC also/RB can/MD effectively/RB take/VB advantage/NN of/IN the/DT unlabeled/JJ data/NNS ./.
+On/IN the/DT SIGMORPHON/NNP morphological/JJ inflection/NN benchmark/NN ,/, our/PRP$ model/NN outperforms/VBZ single/JJ -/HYPH model/NN state/NN -/HYPH of/IN -/HYPH art/NN results/NNS by/IN a/DT large/JJ margin/NN for/IN the/DT majority/NN of/IN languages/NNS ./.

@@ -1,0 +1,4 @@
+We/PRP show/VBP how/WRB to/TO find/VB a/DT small/JJ loop/NN curser/NN in/IN a/DT Bayesian/JJ network/NN ./.
+Finding/VBG such/PDT a/DT loop/NN cutset/NN is/VBZ the/DT first/JJ step/NN in/IN the/DT method/NN of/IN conditioning/NN for/IN inference/NN ./.
+Our/PRP$ algorithm/NN for/IN finding/VBG a/DT loop/NN cutset/NN ,/, called/VBN MGA/NNP ,/, finds/VBZ a/DT loop/NN cutset/NN which/WDT is/VBZ guaranteed/VBN in/IN the/DT worst/JJS case/NN to/TO contain/VB less/JJR than/IN twice/PDT the/DT number/NN of/IN variables/NNS contained/VBN in/IN a/DT minimum/JJ loop/NN cutset/NN ./.
+We/PRP test/VBP MGA/NNP on/IN randomly/RB generated/VBN graphs/NNS and/CC find/VB that/IN the/DT average/JJ ratio/NN between/IN the/DT number/NN of/IN instances/NNS associated/VBN with/IN the/DT algorithms/NNS '/POS output/NN and/CC the/DT number/NN of/IN instances/NNS associated/VBN with/IN a/DT minimum/JJ solution/NN is/VBZ 1.22/CD ./.

@@ -1,0 +1,6 @@
+A modern operating room (OR) provides a plethora of advanced medical devices.
+In order to better facilitate the information offered by them, they need to automatically react to the intra-operative context.
+To this end, the progress of the surgical workflow must be detected and interpreted, so that the current status can be given in machine-readable form.
+In this work, Random Forests (RF) and Hidden Markov Models (HMM) are compared and combined to detect the surgical workflow phase of a laparoscopic cholecystectomy.
+Various combinations of data were tested, from using only raw sensor data to filtered and augmented datasets.
+Achieved accuracies ranged from 64 percent to 72 percent for the RF approach, and from 80 percent to 82 percent for the combination of RF and HMM.

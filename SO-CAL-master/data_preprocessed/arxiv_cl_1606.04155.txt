@@ -1,0 +1,9 @@
+Prediction/NN without/IN justification/NN has/VBZ limited/VBN applicability/NN ./.
+As/IN a/DT remedy/NN ,/, we/PRP learn/VBP to/TO extract/VB pieces/NNS of/IN input/NN text/NN as/IN justifications/NNS --/: rationales/NNS --/: that/WDT are/VBP tailored/VBN to/TO be/VB short/JJ and/CC coherent/JJ ,/, yet/CC sufficient/JJ for/IN making/VBG the/DT same/JJ prediction/NN ./.
+Our/PRP$ approach/NN combines/VBZ two/CD modular/JJ components/NNS ,/, generator/NN and/CC encoder/NN ,/, which/WDT are/VBP trained/VBN to/TO operate/VB well/RB together/RB ./.
+The/DT generator/NN specifies/VBZ a/DT distribution/NN over/IN text/NN fragments/NNS as/IN candidate/NN rationales/NNS and/CC these/DT are/VBP passed/VBN through/IN the/DT encoder/NN for/IN prediction/NN ./.
+Rationales/NNS are/VBP never/RB given/VBN during/IN training/NN ./.
+Instead/RB ,/, the/DT model/NN is/VBZ regularized/VBN by/IN desiderata/NNS for/IN rationales/NNS ./.
+We/PRP evaluate/VBP the/DT approach/NN on/IN multi-aspect/JJ sentiment/NN analysis/NN against/IN manually/RB annotated/VBN test/NN cases/NNS ./.
+Our/PRP$ approach/NN outperforms/VBZ attention/NN -/HYPH based/VBN baseline/NN by/IN a/DT significant/JJ margin/NN ./.
+We/PRP also/RB successfully/RB illustrate/VB the/DT method/NN on/IN the/DT question/NN retrieval/NN task/NN ./.

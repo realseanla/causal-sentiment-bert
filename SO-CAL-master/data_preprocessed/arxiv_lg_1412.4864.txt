@@ -1,0 +1,8 @@
+We/PRP formalize/VBP the/DT notion/NN of/IN a/DT pseudo-ensemble/NN ,/, a/DT (/-LRB- possibly/RB infinite/JJ )/-RRB- collection/NN of/IN child/NN models/NNS spawned/VBN from/IN a/DT parent/NN model/NN by/IN perturbing/VBG it/PRP according/VBG to/IN some/DT noise/NN process/NN ./.
+E.g./FW ,/, dropout/NN (/-LRB- Hinton/NNP et/NNP ./.
+al/NNP ,/, 2012/CD )/-RRB- in/IN a/DT deep/JJ neural/JJ network/NN trains/NNS a/DT pseudo-ensemble/NN of/IN child/NN subnetworks/NNS generated/VBN by/IN randomly/RB masking/VBG nodes/NNS in/IN the/DT parent/NN network/NN ./.
+We/PRP present/VBP a/DT novel/JJ regularizer/NN based/VBN on/IN making/VBG the/DT behavior/NN of/IN a/DT pseudo-ensemble/NN robust/JJ with/IN respect/NN to/IN the/DT noise/NN process/NN generating/VBG it/PRP ./.
+In/IN the/DT fully/RB -/HYPH supervised/JJ setting/NN ,/, our/PRP$ regularizer/NN matches/VBZ the/DT performance/NN of/IN dropout/NN ./.
+But/CC ,/, unlike/IN dropout/NN ,/, our/PRP$ regularizer/NN naturally/RB extends/VBZ to/IN the/DT semi-supervised/JJ setting/NN ,/, where/WRB it/PRP produces/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ./.
+We/PRP provide/VBP a/DT case/NN study/NN in/IN which/WDT we/PRP transform/VBP the/DT Recursive/JJ Neural/JJ Tensor/NNP Network/NNP of/IN (/-LRB- Socher/NNP et/NNP ./.
+al/NNP ,/, 2013/CD )/-RRB- into/IN a/DT pseudo-ensemble/NN ,/, which/WDT significantly/RB improves/VBZ its/PRP$ performance/NN on/IN a/DT real/JJ -/HYPH world/NN sentiment/NN analysis/NN benchmark/NN ./.

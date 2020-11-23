@@ -1,0 +1,7 @@
+The practicality of a video surveillance system is adversely limited by the amount of queries that can be placed on human resources and their vigilance in response.
+To transcend this limitation, a major effort under way is to include software that (fully or at least semi) automatically mines video footage, reducing the burden imposed to the system.
+Herein, we propose a semi-supervised incremental learning framework for evolving visual streams in order to develop a robust and flexible track classification system.
+Our proposed method learns from consecutive batches by updating an ensemble in each time.
+It tries to strike a balance between performance of the system and amount of data which needs to be labelled.
+As no restriction is considered, the system can address many practical problems in an evolving multi-camera scenario, such as concept drift, class evolution and various length of video streams which have not been addressed before.
+Experiments were performed on synthetic as well as real-world visual data in non-stationary environments, showing high accuracy with fairly little human collaboration.

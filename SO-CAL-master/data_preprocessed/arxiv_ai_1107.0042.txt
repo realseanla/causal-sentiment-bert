@@ -1,0 +1,5 @@
+Value/NNP iteration/NN is/VBZ a/DT popular/JJ algorithm/NN for/IN finding/VBG near/IN optimal/JJ policies/NNS for/IN POMDPs/NNS ./.
+It/PRP is/VBZ inefficient/JJ due/IN to/IN the/DT need/NN to/TO account/VB for/IN the/DT entire/JJ belief/NN space/NN ,/, which/WDT necessitates/VBZ the/DT solution/NN of/IN large/JJ numbers/NNS of/IN linear/JJ programs/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP value/NN iteration/NN restricted/VBN to/IN belief/NN subsets/NNS ./.
+We/PRP show/VBP that/IN ,/, together/RB with/IN properly/RB chosen/VBN belief/NN subsets/NNS ,/, restricted/VBN value/NN iteration/NN yields/NNS near/IN -/HYPH optimal/JJ policies/NNS and/CC we/PRP give/VBP a/DT condition/NN for/IN determining/VBG whether/IN a/DT given/VBN belief/NN subset/NN would/MD bring/VB about/RB savings/NNS in/IN space/NN and/CC time/NN ./.
+We/PRP also/RB apply/VBP restricted/JJ value/NN iteration/NN to/IN two/CD interesting/JJ classes/NNS of/IN POMDPs/NNS ,/, namely/RB informative/JJ POMDPs/NNS and/CC near/IN -/HYPH discernible/JJ POMDPs/NNS ./.

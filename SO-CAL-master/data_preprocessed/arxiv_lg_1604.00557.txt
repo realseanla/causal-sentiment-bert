@@ -1,0 +1,7 @@
+Recent/JJ years/NNS have/VBP seen/VBN an/DT increasing/VBG interest/NN in/IN the/DT design/NN of/IN AQM/NN (/-LRB- Active/JJ Queue/NNP Management/NNP )/-RRB- controllers/NNS ./.
+The/DT purpose/NN of/IN these/DT controllers/NNS is/VBZ to/TO manage/VB the/DT network/NN congestion/NN under/IN varying/VBG loads/NNS ,/, link/NN delays/NNS and/CC bandwidth/NN ./.
+In/IN this/DT paper/NN ,/, a/DT new/JJ AQM/NNP controller/NN is/VBZ proposed/VBN which/WDT is/VBZ trained/VBN by/IN using/VBG the/DT SVM/NN (/-LRB- Support/NN Vector/NNP Machine/NNP )/-RRB- with/IN the/DT RBF/NN (/-LRB- Radial/JJ Basis/NN Function/NN )/-RRB- kernal/NN ./.
+The/DT proposed/JJ controller/NN is/VBZ called/VBN the/DT support/NN vector/NN based/VBN AQM/NNP (/-LRB- SAM/NN )/-RRB- controller/NN ./.
+The/DT performance/NN of/IN the/DT proposed/VBN controller/NN has/VBZ been/VBN compared/VBN with/IN three/CD conventional/JJ AQM/NN controllers/NNS ,/, namely/RB the/DT Random/NNP Early/NNP Detection/NNP ,/, Blue/NNP and/CC Proportional/NNP Plus/NNP Integral/NNP Controller/NNP ./.
+The/DT preliminary/JJ simulation/NN studies/NNS show/VBP that/IN the/DT performance/NN of/IN the/DT proposed/VBN controller/NN is/VBZ comparable/JJ to/IN the/DT conventional/JJ controllers/NNS ./.
+However/RB ,/, the/DT proposed/VBN controller/NN is/VBZ more/RBR efficient/JJ in/IN controlling/VBG the/DT queue/NN size/NN than/IN the/DT conventional/JJ controllers/NNS ./.

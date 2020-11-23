@@ -1,0 +1,5 @@
+Convolutional neural network (CNN) is a neural network that can make use of the internal structure of data such as the 2D structure of image data.
+This paper studies CNN on text categorization to exploit the 1D structure (namely, word order) of text data for accurate prediction.
+We directly apply CNN to high-dimensional text data, instead of low-dimensional word vectors as is often done.
+Two types of CNN are studied: a straightforward adaptation of CNN from image to text, and a simple but new variation which employs bag-of-word conversion in the convolution layer.
+The experiments demonstrate the effectiveness of our approach in comparison with state-of-the-art methods, as well as previous CNN models for text, which are more complex and expensive to train.

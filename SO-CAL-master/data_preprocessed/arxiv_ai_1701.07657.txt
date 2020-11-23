@@ -1,0 +1,5 @@
+With/IN the/DT purpose/NN of/IN modeling/NN ,/, specifying/VBG and/CC reasoning/NN in/IN an/DT integrated/JJ fashion/NN with/IN procedural/JJ and/CC declarative/JJ aspects/NNS (/-LRB- both/CC commonly/RB present/JJ in/IN cases/NNS or/CC scenarios/NNS )/-RRB- ,/, the/DT paper/NN introduces/VBZ Logic/NNP Programming/NNP Petri/NNP Nets/NNPS (/-LRB- LPPN/NNP )/-RRB- ,/, an/DT extension/NN to/IN the/DT Petri/NNP Net/NNP notation/NN providing/VBG an/DT interface/NN to/IN logic/NN programming/NN constructs/NNS ./.
+Two/CD semantics/NNS are/VBP presented/VBN ./.
+First/RB ,/, a/DT hybrid/NN operational/JJ semantics/NNS that/WDT separates/VBZ the/DT process/NN component/NN ,/, treated/VBN with/IN Petri/NNP nets/NNS ,/, from/IN the/DT constraint/NN //HYPH terminological/JJ component/NN ,/, treated/VBN with/IN Answer/NN Set/VBN Programming/NN (/-LRB- ASP/NN )/-RRB- ./.
+Second/RB ,/, a/DT denotational/JJ semantics/NNS maps/VBZ the/DT notation/NN to/IN ASP/NN fully/RB ,/, via/IN Event/NNP Calculus/NNP ./.
+These/DT two/CD alternative/JJ specifications/NNS enable/VBP a/DT preliminary/JJ evaluation/NN in/IN terms/NNS of/IN reasoning/NN efficiency/NN ./.

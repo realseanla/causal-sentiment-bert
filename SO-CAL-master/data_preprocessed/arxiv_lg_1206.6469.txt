@@ -1,0 +1,6 @@
+We/PRP consider/VBP analysis/NN of/IN relational/JJ data/NNS (/-LRB- a/DT matrix/NN )/-RRB- ,/, in/IN which/WDT the/DT rows/NNS correspond/VBP to/IN subjects/NNS (/-LRB- e.g./FW ,/, people/NNS )/-RRB- and/CC the/DT columns/NNS correspond/VBP to/IN attributes/NNS ./.
+The/DT elements/NNS of/IN the/DT matrix/NN may/MD be/VB a/DT mix/NN of/IN real/JJ and/CC categorical/JJ ./.
+Each/DT subject/NN and/CC attribute/NN is/VBZ characterized/VBN by/IN a/DT latent/JJ binary/JJ feature/NN vector/NN ,/, and/CC an/DT inferred/VBN matrix/NN maps/VBZ each/DT row/NN -/HYPH column/NN pair/NN of/IN binary/JJ feature/NN vectors/NNS to/IN an/DT observed/VBN matrix/NN element/NN ./.
+The/DT latent/JJ binary/JJ features/NNS of/IN the/DT rows/NNS are/VBP modeled/VBN via/IN a/DT multivariate/JJ Gaussian/JJ distribution/NN with/IN low/JJ -/HYPH rank/NN covariance/NN matrix/NN ,/, and/CC the/DT Gaussian/JJ random/JJ variables/NNS are/VBP mapped/VBN to/IN latent/JJ binary/JJ features/NNS via/IN a/DT probit/NN link/NN ./.
+The/DT same/JJ type/NN construction/NN is/VBZ applied/VBN jointly/RB to/IN the/DT columns/NNS ./.
+The/DT model/NN infers/VBZ latent/JJ ,/, low/JJ -/HYPH dimensional/JJ binary/JJ features/NNS associated/VBN with/IN each/DT row/NN and/CC each/DT column/NN ,/, as/RB well/RB correlation/NN structure/NN between/IN all/DT rows/NNS and/CC between/IN all/DT columns/NNS ./.

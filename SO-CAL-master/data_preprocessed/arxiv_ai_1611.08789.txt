@@ -1,0 +1,7 @@
+Handwriting/NN is/VBZ a/DT skill/NN learned/VBN by/IN humans/NNS from/IN a/DT very/RB early/JJ age/NN ./.
+The/DT ability/NN to/TO develop/VB one/PRP 's/POS own/JJ unique/JJ handwriting/NN as/RB well/RB as/IN mimic/VB another/DT person/NN 's/POS handwriting/NN is/VBZ a/DT task/NN learned/VBN by/IN the/DT brain/NN with/IN practice/NN ./.
+This/DT paper/NN deals/NNS with/IN this/DT very/RB problem/NN where/WRB an/DT intelligent/JJ system/NN tries/VBZ to/TO learn/VB the/DT handwriting/NN of/IN an/DT entity/NN using/VBG Generative/NNP Adversarial/NNP Networks/NNP (/-LRB- GANs/NNS )/-RRB- ./.
+We/PRP propose/VBP a/DT modified/VBN architecture/NN of/IN DCGAN/NNP (/-LRB- Radford/NNP ,/, Metz/NNP ,/, and/CC Chintala/NNP 2015/CD )/-RRB- to/TO achieve/VB this/DT ./.
+We/PRP also/RB discuss/VBP about/IN applying/VBG reinforcement/NN learning/VBG techniques/NNS to/TO achieve/VB faster/RBR learning/VBG ./.
+Our/PRP$ algorithm/NN hopes/VBZ to/TO give/VB new/JJ insights/NNS in/IN this/DT area/NN and/CC its/PRP$ uses/NNS include/VBP identification/NN of/IN forged/VBN documents/NNS ,/, signature/NN verification/NN ,/, computer/NN generated/VBN art/NN ,/, digitization/NN of/IN documents/NNS among/IN others/NNS ./.
+Our/PRP$ early/JJ implementation/NN of/IN the/DT algorithm/NN illustrates/VBZ a/DT good/JJ performance/NN with/IN MNIST/NN datasets/NNS ./.

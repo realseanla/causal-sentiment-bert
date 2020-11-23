@@ -1,0 +1,9 @@
+Automatic/JJ essay/NN scoring/NN (/-LRB- AES/NNP )/-RRB- refers/VBZ to/IN the/DT process/NN of/IN scoring/VBG free/JJ text/NN responses/NNS to/IN given/VBN prompts/VBZ ,/, considering/VBG human/JJ grader/NN scores/NNS as/IN the/DT gold/NN standard/NN ./.
+Writing/VBG such/JJ essays/NNS is/VBZ an/DT essential/JJ component/NN of/IN many/JJ language/NN and/CC aptitude/NN exams/NNS ./.
+Hence/RB ,/, AES/NNP became/VBD an/DT active/JJ and/CC established/JJ area/NN of/IN research/NN ,/, and/CC there/EX are/VBP many/JJ proprietary/JJ systems/NNS used/VBN in/IN real/JJ life/NN applications/NNS today/NN ./.
+However/RB ,/, not/RB much/RB is/VBZ known/VBN about/IN which/WDT specific/JJ linguistic/JJ features/NNS are/VBP useful/JJ for/IN prediction/NN and/CC how/WRB much/JJ of/IN this/DT is/VBZ consistent/JJ across/IN datasets/NNS ./.
+This/DT article/NN addresses/VBZ that/IN by/IN exploring/VBG the/DT role/NN of/IN various/JJ linguistic/JJ features/NNS in/IN automatic/JJ essay/NN scoring/NN using/VBG two/CD publicly/RB available/JJ datasets/NNS of/IN non-native/JJ English/NNP essays/NNS written/VBN in/IN test/NN taking/VBG scenarios/NNS ./.
+The/DT linguistic/JJ properties/NNS are/VBP modeled/VBN by/IN encoding/VBG lexical/JJ ,/, syntactic/JJ ,/, discourse/NN and/CC error/NN types/NNS of/IN learner/NN language/NN in/IN the/DT feature/NN set/NN ./.
+Predictive/JJ models/NNS are/VBP then/RB developed/VBN using/VBG these/DT features/NNS on/IN both/DT datasets/NNS and/CC the/DT most/RBS predictive/JJ features/NNS are/VBP compared/VBN ./.
+While/IN the/DT results/NNS show/VBP that/IN the/DT feature/NN set/NN used/VBD results/NNS in/IN good/JJ predictive/JJ models/NNS with/IN both/DT datasets/NNS ,/, the/DT question/NN "/`` what/WP are/VBP the/DT most/RBS predictive/JJ features/NNS ?/. "/''
+has/VBZ a/DT different/JJ answer/NN for/IN each/DT dataset/NN ./.

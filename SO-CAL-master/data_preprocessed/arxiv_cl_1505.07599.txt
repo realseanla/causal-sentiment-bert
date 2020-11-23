@@ -1,0 +1,5 @@
+Word/NNP segmentation/NN and/CC Part/NN -/HYPH of/IN -/HYPH Speech/NNP (/-LRB- POS/NN )/-RRB- tagging/NN are/VBP two/CD fundamental/JJ tasks/NNS for/IN Chinese/JJ language/NN processing/NN ./.
+In/IN recent/JJ years/NNS ,/, word/NN segmentation/NN and/CC POS/NN tagging/VBG have/VBP undergone/VBN great/JJ development/NN ./.
+The/DT popular/JJ method/NN is/VBZ to/TO regard/VB these/DT two/CD tasks/NNS as/IN sequence/NN labeling/NN problem/NN ,/, which/WDT can/MD be/VB handled/VBN with/IN supervised/JJ learning/NN algorithms/NNS such/JJ as/IN Conditional/JJ Random/NNP Fields/NNPS (/-LRB- CRF/NNP )/-RRB- ./.
+However/RB ,/, the/DT performances/NNS of/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN systems/NNS are/VBP still/RB relatively/RB low/JJ for/IN the/DT informal/JJ texts/NNS ,/, such/JJ as/IN micro-blogs/NNS ,/, forums/NNS ./.
+In/IN this/DT shared/VBN task/NN ,/, we/PRP wish/VBP to/TO investigate/VB the/DT performances/NNS of/IN Chinese/JJ word/NN segmentation/NN and/CC POS/NN tagging/VBG for/IN the/DT micro-blog/NN texts/NNS ./.

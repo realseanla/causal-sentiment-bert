@@ -1,0 +1,7 @@
+Deep/JJ Neural/JJ Networks/NNS (/-LRB- DNN/NN )/-RRB- have/VBP been/VBN successful/JJ in/IN en/FW -/HYPH hancing/FW noisy/JJ speech/NN signals/NNS ./.
+Enhancement/NN is/VBZ achieved/VBN by/IN learning/VBG a/DT nonlinear/JJ mapping/NN function/NN from/IN the/DT features/NNS of/IN the/DT corrupted/VBN speech/NN signal/NN to/IN that/DT of/IN the/DT reference/NN clean/JJ speech/NN signal/NN ./.
+The/DT quality/NN of/IN predicted/VBN features/NNS can/MD be/VB improved/VBN by/IN providing/VBG additional/JJ side/NN channel/NN information/NN that/WDT is/VBZ robust/JJ to/IN noise/NN ,/, such/JJ as/IN visual/JJ cues/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT novel/JJ deep/JJ learning/NN model/NN inspired/VBN by/IN insights/NNS from/IN human/JJ audio/JJ visual/JJ perception/NN ./.
+In/IN the/DT proposed/VBN unified/VBN hybrid/JJ architecture/NN ,/, features/VBZ from/IN a/DT Convolution/NN Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- that/WDT processes/VBZ the/DT visual/JJ cues/NNS and/CC features/NNS from/IN a/DT fully/RB connected/VBN DNN/NNP that/WDT processes/VBZ the/DT audio/JJ signal/NN are/VBP integrated/VBN using/VBG a/DT Bidirectional/JJ Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- BiLSTM/NN )/-RRB- network/NN ./.
+The/DT parameters/NNS of/IN the/DT hybrid/NN model/NN are/VBP jointly/RB learned/VBN using/VBG backpropagation/NN ./.
+We/PRP compare/VBP the/DT quality/NN of/IN enhanced/VBN speech/NN from/IN the/DT hybrid/NN models/NNS with/IN those/DT from/IN traditional/JJ DNN/NN and/CC BiLSTM/NN models/NNS ./.

@@ -1,0 +1,4 @@
+We/PRP introduce/VBP a/DT framework/NN for/IN filtering/VBG features/NNS that/WDT employs/VBZ the/DT Hilbert/NNP -/HYPH Schmidt/NNP Independence/NNP Criterion/NNP (/-LRB- HSIC/NNP )/-RRB- as/IN a/DT measure/NN of/IN dependence/NN between/IN the/DT features/NNS and/CC the/DT labels/NNS ./.
+The/DT key/JJ idea/NN is/VBZ that/IN good/JJ features/NNS should/MD maximise/VB such/JJ dependence/NN ./.
+Feature/NN selection/NN for/IN various/JJ supervised/JJ learning/NN problems/NNS (/-LRB- including/VBG classification/NN and/CC regression/NN )/-RRB- is/VBZ unified/VBN under/IN this/DT framework/NN ,/, and/CC the/DT solutions/NNS can/MD be/VB approximated/VBN using/VBG a/DT backward/JJ -/HYPH elimination/NN algorithm/NN ./.
+We/PRP demonstrate/VBP the/DT usefulness/NN of/IN our/PRP$ method/NN on/IN both/DT artificial/JJ and/CC real/JJ world/NN datasets/NNS ./.

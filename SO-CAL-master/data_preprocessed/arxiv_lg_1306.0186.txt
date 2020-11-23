@@ -1,0 +1,5 @@
+We/PRP introduce/VBP RNADE/NNP ,/, a/DT new/JJ model/NN for/IN joint/JJ density/NN estimation/NN of/IN real/JJ -/HYPH valued/VBN vectors/NNS ./.
+Our/PRP$ model/NN calculates/VBZ the/DT density/NN of/IN a/DT datapoint/NN as/IN the/DT product/NN of/IN one/CD -/HYPH dimensional/JJ conditionals/NNS modeled/VBN using/VBG mixture/NN density/NN networks/NNS with/IN shared/VBN parameters/NNS ./.
+RNADE/NNP learns/VBZ a/DT distributed/VBN representation/NN of/IN the/DT data/NNS ,/, while/IN having/VBG a/DT tractable/JJ expression/NN for/IN the/DT calculation/NN of/IN densities/NNS ./.
+A/DT tractable/JJ likelihood/NN allows/VBZ direct/JJ comparison/NN with/IN other/JJ methods/NNS and/CC training/NN by/IN standard/JJ gradient/NN -/HYPH based/VBN optimizers/NNS ./.
+We/PRP compare/VBP the/DT performance/NN of/IN RNADE/NN on/IN several/JJ datasets/NNS of/IN heterogeneous/JJ and/CC perceptual/JJ data/NNS ,/, finding/VBG it/PRP outperforms/VBZ mixture/NN models/NNS in/IN all/DT but/IN one/CD case/NN ./.

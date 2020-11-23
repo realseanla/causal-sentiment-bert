@@ -1,0 +1,12 @@
+Relation/NN classification/NN is/VBZ associated/VBN with/IN many/JJ potential/JJ applications/NNS in/IN the/DT artificial/JJ intelligence/NN area/NN ./.
+Recent/JJ approaches/NNS usually/RB leverage/VBP neural/JJ networks/NNS based/VBN on/IN structure/NN features/NNS such/JJ as/IN syntactic/JJ or/CC dependency/NN features/NNS to/TO solve/VB this/DT problem/NN ./.
+However/RB ,/, high/JJ -/HYPH cost/NN structure/NN features/NNS make/VBP such/JJ approaches/NNS inconvenient/JJ to/TO be/VB directly/RB used/VBN ./.
+In/IN addition/NN ,/, structure/NN features/NNS are/VBP probably/RB domain/NN -/HYPH dependent/JJ ./.
+Therefore/RB ,/, this/DT paper/NN proposes/VBZ a/DT bi-directional/JJ long/JJ -/HYPH short/JJ -/HYPH term/NN -/HYPH memory/NN recurrent/JJ -/HYPH neural/JJ -/HYPH network/NN (/-LRB- Bi-LSTM-RNN/NN )/-RRB- model/NN based/VBN on/IN low/JJ -/HYPH cost/NN sequence/NN features/VBZ to/TO address/VB relation/NN classification/NN ./.
+This/DT model/NN divides/VBZ a/DT sentence/NN or/CC text/NN segment/NN into/IN five/CD parts/NNS ,/, namely/RB two/CD target/NN entities/NNS and/CC their/PRP$ three/CD contexts/NNS ./.
+It/PRP learns/VBZ the/DT representations/NNS of/IN entities/NNS and/CC their/PRP$ contexts/NNS ,/, and/CC uses/VBZ them/PRP to/TO classify/VB relations/NNS ./.
+We/PRP evaluate/VBP our/PRP$ model/NN on/IN two/CD standard/JJ benchmark/NN datasets/NNS in/IN different/JJ domains/NNS ,/, namely/RB SemEval/NNP -/HYPH 2010/CD Task/NNP 8/NNP and/CC BioNLP/NNP -/HYPH ST/NNP 2016/CD Task/NNP BB3/NNP ./.
+In/IN the/DT former/JJ dataset/NN ,/, our/PRP$ model/NN achieves/VBZ comparable/JJ performance/NN compared/VBN with/IN other/JJ models/NNS using/VBG sequence/NN features/NNS ./.
+In/IN the/DT latter/JJ dataset/NN ,/, our/PRP$ model/NN obtains/VBZ the/DT third/JJ best/JJS results/NNS compared/VBN with/IN other/JJ models/NNS in/IN the/DT official/JJ evaluation/NN ./.
+Moreover/RB ,/, we/PRP find/VBP that/IN the/DT context/NN between/IN two/CD target/NN entities/NNS plays/VBZ the/DT most/RBS important/JJ role/NN in/IN relation/NN classification/NN ./.
+Furthermore/RB ,/, statistic/NN experiments/NNS show/VBP that/IN the/DT context/NN between/IN two/CD target/NN entities/NNS can/MD be/VB used/VBN as/IN an/DT approximate/JJ replacement/NN of/IN the/DT shortest/JJS dependency/NN path/NN when/WRB dependency/NN parsing/VBG is/VBZ not/RB used/VBN ./.

@@ -1,0 +1,9 @@
+Deep/JJ Residual/JJ Networks/NNS have/VBP reached/VBN the/DT state/NN of/IN the/DT art/NN in/IN many/JJ image/NN processing/NN tasks/NNS such/JJ image/NN classification/NN ./.
+However/RB ,/, the/DT cost/NN for/IN a/DT gain/NN in/IN accuracy/NN in/IN terms/NNS of/IN depth/NN and/CC memory/NN is/VBZ prohibitive/JJ as/IN it/PRP requires/VBZ a/DT higher/JJR number/NN of/IN residual/JJ blocks/NNS ,/, up/IN to/IN double/PDT the/DT initial/JJ value/NN ./.
+To/TO tackle/VB this/DT problem/NN ,/, we/PRP propose/VBP in/IN this/DT paper/NN a/DT way/NN to/TO reduce/VB the/DT redundant/JJ information/NN of/IN the/DT networks/NNS ./.
+We/PRP share/VBP the/DT weights/NNS of/IN convolutional/JJ layers/NNS between/IN residual/JJ blocks/NNS operating/VBG at/IN the/DT same/JJ spatial/JJ scale/NN ./.
+The/DT signal/NN flows/VBZ multiple/JJ times/NNS in/IN the/DT same/JJ convolutional/JJ layer/NN ./.
+The/DT resulting/VBG architecture/NN ,/, called/VBN ShaResNet/NNP ,/, contains/VBZ block/NN specific/JJ layers/NNS and/CC shared/VBD layers/NNS ./.
+These/DT ShaResNet/NNP are/VBP trained/VBN exactly/RB in/IN the/DT same/JJ fashion/NN as/IN the/DT commonly/RB used/VBN residual/JJ networks/NNS ./.
+We/PRP show/VBP ,/, on/IN the/DT one/CD hand/NN ,/, that/IN they/PRP are/VBP almost/RB as/IN efficient/JJ as/IN their/PRP$ sequential/JJ counterparts/NNS while/IN involving/VBG less/JJR parameters/NNS ,/, and/CC on/IN the/DT other/JJ hand/NN that/WDT they/PRP are/VBP more/RBR efficient/JJ than/IN a/DT residual/JJ network/NN with/IN the/DT same/JJ number/NN of/IN parameters/NNS ./.
+For/IN example/NN ,/, a/DT 152/CD -/HYPH layer/NN -/HYPH deep/JJ residual/JJ network/NN can/MD be/VB reduced/VBN to/IN 106/CD convolutional/JJ layers/NNS ,/, i.e./FW a/DT parameter/NN gain/NN of/IN 39/CD \/SYM percent/NN ,/, while/IN loosing/VBG less/JJR than/IN 0.2/CD \/SYM percent/NN accuracy/NN on/IN ImageNet/NNP ./.

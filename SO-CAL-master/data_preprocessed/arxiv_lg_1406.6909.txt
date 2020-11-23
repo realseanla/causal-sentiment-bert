@@ -1,0 +1,6 @@
+Current/JJ methods/NNS for/IN training/NN convolutional/JJ neural/JJ networks/NNS depend/VBP on/IN large/JJ amounts/NNS of/IN labeled/VBN samples/NNS for/IN supervised/JJ training/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP an/DT approach/NN for/IN training/VBG a/DT convolutional/JJ neural/JJ network/NN using/VBG only/RB unlabeled/JJ data/NNS ./.
+We/PRP train/VBP the/DT network/NN to/TO discriminate/VB between/IN a/DT set/NN of/IN surrogate/JJ classes/NNS ./.
+Each/DT surrogate/JJ class/NN is/VBZ formed/VBN by/IN applying/VBG a/DT variety/NN of/IN transformations/NNS to/IN a/DT randomly/RB sampled/VBN '/'' seed/NN '/'' image/NN patch/NN ./.
+We/PRP find/VBP that/IN this/DT simple/JJ feature/NN learning/VBG algorithm/NN is/VBZ surprisingly/RB successful/JJ when/WRB applied/VBN to/IN visual/JJ object/NN recognition/NN ./.
+The/DT feature/NN representation/NN learned/VBN by/IN our/PRP$ algorithm/NN achieves/VBZ classification/NN results/NNS matching/VBG or/CC outperforming/VBG the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN for/IN unsupervised/JJ learning/NN on/IN several/JJ popular/JJ datasets/NNS (/-LRB- STL/NNP -/HYPH 10/CD ,/, CIFAR/NN -/HYPH 10/CD ,/, Caltech/NNP -/HYPH 101/CD )/-RRB- ./.

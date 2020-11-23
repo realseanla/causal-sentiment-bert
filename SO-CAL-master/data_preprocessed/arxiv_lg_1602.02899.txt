@@ -1,0 +1,9 @@
+Especially/RB in/IN the/DT Big/NNP Data/NNP era/NN ,/, the/DT usage/NN of/IN different/JJ classification/NN methods/NNS is/VBZ increasing/VBG day/NN by/IN day/NN ./.
+The/DT success/NN of/IN these/DT classification/NN methods/NNS depends/VBZ on/IN the/DT effectiveness/NN of/IN learning/NN methods/NNS ./.
+Extreme/NNP learning/VBG machine/NN (/-LRB- ELM/NN )/-RRB- classification/NN algorithm/NN is/VBZ a/DT relatively/RB new/JJ learning/NN method/NN built/VBN on/IN feed/NN -/HYPH forward/JJ neural/JJ -/HYPH network/NN ./.
+ELM/NN classification/NN algorithm/NN is/VBZ a/DT simple/JJ and/CC fast/JJ method/NN that/WDT can/MD create/VB a/DT model/NN from/IN high/JJ -/HYPH dimensional/JJ data/NNS sets/NNS ./.
+Traditional/JJ ELM/NN learning/VBG algorithm/NN implicitly/RB assumes/VBZ complete/JJ access/NN to/IN whole/JJ data/NNS set/VBN ./.
+This/DT is/VBZ a/DT major/JJ privacy/NN concern/NN in/IN most/JJS of/IN cases/NNS ./.
+Sharing/VBG of/IN private/JJ data/NNS (/-LRB- i.e./FW medical/JJ records/NNS )/-RRB- is/VBZ prevented/VBN because/IN of/IN security/NN concerns/NNS ./.
+In/IN this/DT research/NN ,/, we/PRP propose/VBP an/DT efficient/JJ and/CC secure/JJ privacy/NN -/HYPH preserving/VBG learning/NN algorithm/NN for/IN ELM/NN classification/NN over/IN data/NNS that/WDT is/VBZ vertically/RB partitioned/VBN among/IN several/JJ parties/NNS ./.
+The/DT new/JJ learning/NN method/NN preserves/VBZ the/DT privacy/NN on/IN numerical/JJ attributes/NNS ,/, builds/VBZ a/DT classification/NN model/NN without/IN sharing/VBG private/JJ data/NNS without/IN disclosing/VBG the/DT data/NNS of/IN each/DT party/NN to/IN others/NNS ./.

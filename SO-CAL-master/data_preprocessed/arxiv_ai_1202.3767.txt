@@ -1,0 +1,8 @@
+We/PRP present/VBP a/DT distributed/VBN anytime/NN algorithm/NN for/IN performing/VBG MAP/NN inference/NN in/IN graphical/JJ models/NNS ./.
+The/DT problem/NN is/VBZ formulated/VBN as/IN a/DT linear/JJ programming/NN relaxation/NN over/IN the/DT edges/NNS of/IN a/DT graph/NN ./.
+The/DT resulting/VBG program/NN has/VBZ a/DT constraint/NN structure/NN that/WDT allows/VBZ application/NN of/IN the/DT Dantzig/NNP -/HYPH Wolfe/NNP decomposition/NN principle/NN ./.
+Subprograms/NNS are/VBP defined/VBN over/IN individual/JJ edges/NNS and/CC can/MD be/VB computed/VBN in/IN a/DT distributed/VBN manner/NN ./.
+This/DT accommodates/VBZ solutions/NNS to/TO graphs/NNS whose/WP$ state/NN space/NN does/VBZ not/RB fit/VB in/IN memory/NN ./.
+The/DT decomposition/NN master/NN program/NN is/VBZ guaranteed/VBN to/IN compute/VB the/DT optimal/JJ solution/NN in/IN a/DT finite/JJ number/NN of/IN iterations/NNS ,/, while/IN the/DT solution/NN converges/VBZ monotonically/RB with/IN each/DT iteration/NN ./.
+Formulating/VBG the/DT MAP/NN inference/NN problem/NN as/IN a/DT linear/JJ program/NN allows/VBZ additional/JJ (/-LRB- global/JJ )/-RRB- constraints/NNS to/TO be/VB defined/VBN ;/: something/NN not/RB possible/JJ with/IN message/NN passing/VBG algorithms/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ algorithm/NN 's/POS solution/NN quality/NN outperforms/VBZ most/RBS current/JJ algorithms/NNS and/CC it/PRP scales/VBZ well/RB to/IN large/JJ problems/NNS ./.

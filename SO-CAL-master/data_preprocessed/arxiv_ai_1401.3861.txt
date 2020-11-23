@@ -1,0 +1,7 @@
+To/IN harness/NN modern/JJ multicore/NN processors/NNS ,/, it/PRP is/VBZ imperative/JJ to/TO develop/VB parallel/JJ versions/NNS of/IN fundamental/JJ algorithms/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP compare/VBP different/JJ approaches/NNS to/IN parallel/JJ best/RBS -/HYPH first/JJ search/NN in/IN a/DT shared/VBN -/HYPH memory/NN setting/NN ./.
+We/PRP present/VBP a/DT new/JJ method/NN ,/, PBNF/NN ,/, that/DT uses/VBZ abstraction/NN to/TO partition/VB the/DT state/NN space/NN and/CC to/TO detect/VB duplicate/JJ states/NNS without/IN requiring/VBG frequent/JJ locking/NN ./.
+PBNF/NNP allows/VBZ speculative/JJ expansions/NNS when/WRB necessary/JJ to/TO keep/VB threads/NNS busy/JJ ./.
+We/PRP identify/VBP and/CC fix/VBP potential/JJ livelock/NN conditions/NNS in/IN our/PRP$ approach/NN ,/, proving/VBG its/PRP$ correctness/NN using/VBG temporal/JJ logic/NN ./.
+Our/PRP$ approach/NN is/VBZ general/JJ ,/, allowing/VBG it/PRP to/TO extend/VB easily/RB to/IN suboptimal/JJ and/CC anytime/NN heuristic/NN search/NN ./.
+In/IN an/DT empirical/JJ comparison/NN on/IN STRIPS/NNP planning/NN ,/, grid/NN pathfinding/NN ,/, and/CC sliding/VBG tile/NN puzzle/NN problems/NNS using/VBG 8/CD -/HYPH core/NN machines/NNS ,/, we/PRP show/VBP that/IN A/DT */NFP ,/, weighted/VBN A/DT */NFP and/CC Anytime/NN weighted/VBN A/DT */NFP implemented/VBN using/VBG PBNF/NN yield/NN faster/RBR search/NN than/IN improved/VBN versions/NNS of/IN previous/JJ parallel/JJ search/NN proposals/NNS ./.

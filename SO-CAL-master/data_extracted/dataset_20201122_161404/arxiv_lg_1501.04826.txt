@@ -1,0 +1,5 @@
+We study a natural variant of the implicational fragment of propositional logic.
+Its formulas are pairs of conjunctions of positive literals, related together by an implicational-like connective; the semantics of this sort of implication is defined in terms of a threshold on a conditional probability of the consequent, given the antecedent: we are dealing with what the data analysis community calls confidence of partial implications or association rules.
+Existing studies of redundancy among these partial implications have characterized so far only entailment from one premise and entailment from two premises.
+Here, we provide an alternative view of this entailment in terms of linear programming duality.
+This view allows us to characterize exactly the cases of entailment from arbitrary numbers of premises, to obtain decision algorithms of better complexity, and to prove that the confidence threshold is, actually, intrinsic to each set of premises and antecedent of the conclusion.

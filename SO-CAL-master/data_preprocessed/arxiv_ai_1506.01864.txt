@@ -1,0 +1,7 @@
+Square/NNP grids/NNS are/VBP commonly/RB used/VBN in/IN robotics/NNS and/CC game/NN development/NN to/IN model/NN an/DT agent/NN 's/POS environment/NN ,/, and/CC well/RB known/VBN in/IN Artificial/NNP Intelligence/NNP heuristic/NN search/NN algorithms/NNS (/-LRB- A/DT */SYM ,/, JPS/NNP ,/, Theta/NNP */NFP etc./FW )/-RRB- are/VBP utilized/VBN for/IN grid/NN path/NN planning/NN ./.
+A/DT lot/NN of/IN research/NN in/IN this/DT area/NN has/VBZ been/VBN focused/VBN so/RB far/RB on/IN finding/VBG the/DT shortest/JJS paths/NNS while/IN in/IN many/JJ applications/NNS producing/VBG smooth/JJ paths/NNS is/VBZ preferable/JJ ./.
+In/IN our/PRP$ work/NN ,/, we/PRP study/VBP the/DT problem/NN of/IN generating/VBG smooth/JJ grid/NN paths/NNS and/CC concentrate/VB on/IN angle/NN constrained/VBN path/NN planning/NN ./.
+We/PRP put/VBD angle/NN constrained/VBN path/NN planning/NN problem/NN formally/RB and/CC present/VB a/DT new/JJ algorithm/NN of/IN solving/VBG it/PRP -/HYPH LIAN/NN ./.
+We/PRP examine/VBP LIAN/NNP both/CC theoretically/RB and/CC empirically/RB ./.
+On/IN the/DT theoretical/JJ side/NN ,/, we/PRP prove/VBP that/IN LIAN/NNP is/VBZ sound/JJ and/CC complete/JJ (/-LRB- under/RB well/RB -/HYPH defined/VBN restrictions/NNS )/-RRB- ./.
+On/IN the/DT experimental/JJ side/NN ,/, we/PRP show/VBP that/IN LIAN/NNP significantly/RB outperforms/VBZ competitors/NNS in/IN ability/NN to/TO find/VB solutions/NNS under/IN tough/JJ resource/NN constraints/NNS and/CC in/IN computational/JJ efficiency/NN ./.

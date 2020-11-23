@@ -1,0 +1,5 @@
+We/PRP propose/VBP an/DT heterogeneous/JJ multi-task/VB learning/VBG framework/NN for/IN human/JJ pose/NN estimation/NN from/IN monocular/JJ image/NN with/IN deep/JJ convolutional/JJ neural/JJ network/NN ./.
+In/IN particular/JJ ,/, we/PRP simultaneously/RB learn/VBP a/DT pose/NN -/HYPH joint/NN regressor/NN and/CC a/DT sliding/VBG -/HYPH window/NN body/NN -/HYPH part/NN detector/NN in/IN a/DT deep/JJ network/NN architecture/NN ./.
+We/PRP show/VBP that/IN including/VBG the/DT body/NN -/HYPH part/NN detection/NN task/NN helps/VBZ to/TO regularize/VB the/DT network/NN ,/, directing/VBG it/PRP to/TO converge/VB to/IN a/DT good/JJ solution/NN ./.
+We/PRP report/VBP competitive/JJ and/CC state/NN -/HYPH of/IN -/HYPH art/NN results/NNS on/IN several/JJ data/NNS sets/NNS ./.
+We/PRP also/RB empirically/RB show/VB that/IN the/DT learned/VBN neurons/NNS in/IN the/DT middle/JJ layer/NN of/IN our/PRP$ network/NN are/VBP tuned/VBN to/IN localized/VBN body/NN parts/NNS ./.

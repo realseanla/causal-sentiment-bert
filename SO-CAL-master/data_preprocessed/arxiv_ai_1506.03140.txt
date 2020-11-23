@@ -1,0 +1,8 @@
+How/WRB can/MD we/PRP deploy/VB a/DT high/JJ -/HYPH accuracy/NN system/NN starting/VBG with/IN zero/CD training/NN examples/NNS ?/.
+We/PRP consider/VBP an/DT "/`` on/IN -/HYPH the/DT -/HYPH job/NN "/'' setting/NN ,/, where/WRB as/IN inputs/NNS arrive/VBP ,/, we/PRP use/VBP crowdsourcing/VBG to/TO resolve/VB uncertainty/NN where/WRB needed/VBN and/CC output/NN our/PRP$ prediction/NN when/WRB confident/JJ ./.
+As/IN the/DT model/NN improves/VBZ over/IN time/NN ,/, the/DT reliance/NN on/IN crowdsourcing/VBG queries/NNS decreases/VBZ ./.
+We/PRP cast/VBD our/PRP$ setting/NN as/IN a/DT stochastic/JJ game/NN based/VBN on/IN Bayesian/JJ decision/NN theory/NN ,/, which/WDT allows/VBZ us/PRP to/TO balance/VB latency/NN ,/, cost/NN ,/, and/CC accuracy/NN objectives/NNS in/IN a/DT principled/JJ way/NN ./.
+Computing/NNP the/DT optimal/JJ policy/NN is/VBZ intractable/JJ ,/, so/RB we/PRP develop/VBP an/DT approximation/NN based/VBN on/IN Monte/NNP Carlo/NNP Tree/NNP Search/NNP ./.
+We/PRP tested/VBD our/PRP$ approach/NN across/IN three/CD datasets/NNS ---/: named/VBN -/HYPH entity/NN recognition/NN ,/, sentiment/NN classification/NN ,/, and/CC image/NN classification/NN ./.
+On/IN the/DT NER/NN task/NN we/PRP obtained/VBD a/DT 6/CD --/: 7/CD fold/NN reduction/NN in/IN cost/NN compared/VBN to/IN full/JJ human/JJ annotation/NN ./.
+We/PRP also/RB achieve/VBP a/DT 17/CD percent/NN F$/NN _/NFP 1/CD $/$ improvement/NN over/IN having/VBG a/DT single/JJ human/JJ label/NN the/DT whole/JJ set/NN ,/, and/CC a/DT 28/CD percent/NN F$/NN _/NFP 1/CD $/$ improvement/NN over/IN online/JJ learning/NN ./.

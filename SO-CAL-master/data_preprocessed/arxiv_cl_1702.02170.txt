@@ -1,0 +1,5 @@
+Maybe/RB the/DT single/JJ most/RBS important/JJ goal/NN of/IN representation/NN learning/NN is/VBZ making/VBG subsequent/JJ learning/NN faster/RBR ./.
+Surprisingly/RB ,/, this/DT fact/NN is/VBZ not/RB well/RB reflected/VBN in/IN the/DT way/NN embeddings/NNS are/VBP evaluated/VBN ./.
+In/IN addition/NN ,/, recent/JJ practice/NN in/IN word/NN embeddings/NNS points/VBZ towards/IN importance/NN of/IN learning/VBG specialized/JJ representations/NNS ./.
+We/PRP argue/VBP that/IN focus/NN of/IN word/NN representation/NN evaluation/NN should/MD reflect/VB those/DT trends/NNS and/CC shift/VB towards/IN evaluating/VBG what/WP useful/JJ information/NN is/VBZ easily/RB accessible/JJ ./.
+Specifically/RB ,/, we/PRP propose/VBP that/IN evaluation/NN should/MD focus/VB on/IN data/NNS efficiency/NN and/CC simple/JJ supervised/JJ tasks/NNS ,/, where/WRB the/DT amount/NN of/IN available/JJ data/NNS is/VBZ varied/JJ and/CC scores/NNS of/IN a/DT supervised/JJ model/NN are/VBP reported/VBN for/IN each/DT subset/NN (/-LRB- as/IN commonly/RB done/VBN in/IN transfer/NN learning/NN )/-RRB- ./.

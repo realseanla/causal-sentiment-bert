@@ -1,0 +1,8 @@
+The/DT success/NN of/IN kernel/NN methods/NNS has/VBZ initiated/VBN the/DT design/NN of/IN novel/JJ positive/JJ semidefinite/JJ functions/NNS ,/, in/IN particular/JJ for/IN structured/JJ data/NNS ./.
+A/DT leading/VBG design/NN paradigm/NN for/IN this/DT is/VBZ the/DT convolution/NN kernel/NN ,/, which/WDT decomposes/VBZ structured/JJ objects/NNS into/IN their/PRP$ parts/NNS and/CC sums/NNS over/IN all/DT pairs/NNS of/IN parts/NNS ./.
+Assignment/NN kernels/NNS ,/, in/IN contrast/NN ,/, are/VBP obtained/VBN from/IN an/DT optimal/JJ bijection/NN between/IN parts/NNS ,/, which/WDT can/MD provide/VB a/DT more/JJR valid/JJ notion/NN of/IN similarity/NN ./.
+In/IN general/JJ however/RB ,/, optimal/JJ assignments/NNS yield/VBP indefinite/JJ functions/NNS ,/, which/WDT complicates/VBZ their/PRP$ use/NN in/IN kernel/NN methods/NNS ./.
+We/PRP characterize/VBP a/DT class/NN of/IN base/NN kernels/NNS used/VBN to/TO compare/VB parts/NNS that/WDT guarantees/VBZ positive/JJ semidefinite/JJ optimal/JJ assignment/NN kernels/NNS ./.
+These/DT base/NN kernels/NNS give/VBP rise/NN to/IN hierarchies/NNS from/IN which/WDT the/DT optimal/JJ assignment/NN kernels/NNS are/VBP computed/VBN in/IN linear/JJ time/NN by/IN histogram/NN intersection/NN ./.
+We/PRP apply/VBP these/DT results/NNS by/IN developing/VBG the/DT Weisfeiler/NNP -/HYPH Lehman/NNP optimal/JJ assignment/NN kernel/NN for/IN graphs/NNS ./.
+It/PRP provides/VBZ high/JJ classification/NN accuracy/NN on/IN widely/RB -/HYPH used/VBN benchmark/NN data/NNS sets/VBZ improving/VBG over/IN the/DT original/JJ Weisfeiler/NNP -/HYPH Lehman/NNP kernel/NN ./.

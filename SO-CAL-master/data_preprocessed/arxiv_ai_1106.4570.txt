@@ -1,0 +1,11 @@
+Much/JJ work/NN in/IN AI/NN deals/NNS with/IN the/DT selection/NN of/IN proper/JJ actions/NNS in/IN a/DT given/VBN (/-LRB- known/VBN or/CC unknown/JJ )/-RRB- environment/NN ./.
+However/RB ,/, the/DT way/NN to/TO select/VB a/DT proper/JJ action/NN when/WRB facing/VBG other/JJ agents/NNS is/VBZ quite/RB unclear/JJ ./.
+Most/JJS work/NN in/IN AI/NN adopts/VBZ classical/JJ game/NN -/HYPH theoretic/JJ equilibrium/NN analysis/NN to/TO predict/VB agent/NN behavior/NN in/IN such/JJ settings/NNS ./.
+This/DT approach/NN however/RB does/VBZ not/RB provide/VB us/PRP with/IN any/DT guarantee/NN for/IN the/DT agent/NN ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP competitive/JJ safety/NN analysis/NN ./.
+This/DT approach/NN bridges/NNS the/DT gap/NN between/IN the/DT desired/VBN normative/JJ AI/NN approach/NN ,/, where/WRB a/DT strategy/NN should/MD be/VB selected/VBN in/IN order/NN to/TO guarantee/VB a/DT desired/VBN payoff/NN ,/, and/CC equilibrium/NN analysis/NN ./.
+We/PRP show/VBP that/IN a/DT safety/NN level/NN strategy/NN is/VBZ able/JJ to/TO guarantee/VB the/DT value/NN obtained/VBN in/IN a/DT Nash/NNP equilibrium/NN ,/, in/IN several/JJ classical/JJ computer/NN science/NN settings/NNS ./.
+Then/RB ,/, we/PRP discuss/VBP the/DT concept/NN of/IN competitive/JJ safety/NN strategies/NNS ,/, and/CC illustrate/VB its/PRP$ use/NN in/IN a/DT decentralized/JJ load/NN balancing/VBG setting/NN ,/, typical/JJ to/IN network/NN problems/NNS ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/IN when/WRB we/PRP have/VBP many/JJ agents/NNS ,/, it/PRP is/VBZ possible/JJ to/TO guarantee/VB an/DT expected/VBN payoff/NN which/WDT is/VBZ a/DT factor/NN of/IN 8/9/CD of/IN the/DT payoff/NN obtained/VBN in/IN a/DT Nash/NNP equilibrium/NN ./.
+Our/PRP$ discussion/NN of/IN competitive/JJ safety/NN analysis/NN for/IN decentralized/VBN load/NN balancing/NN is/VBZ further/RB developed/VBN to/TO deal/VB with/IN many/JJ communication/NN links/NNS and/CC arbitrary/JJ speeds/NNS ./.
+Finally/RB ,/, we/PRP discuss/VBP the/DT extension/NN of/IN the/DT above/JJ concepts/NNS to/IN Bayesian/JJ games/NNS ,/, and/CC illustrate/VBP their/PRP$ use/NN in/IN a/DT basic/JJ auctions/NNS setup/NN ./.

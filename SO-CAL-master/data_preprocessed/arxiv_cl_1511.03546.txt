@@ -1,0 +1,10 @@
+Much/JJ of/IN information/NN sits/VBZ in/IN an/DT unprecedented/JJ amount/NN of/IN text/NN data/NNS ./.
+Managing/VBG allocation/NN of/IN these/DT large/JJ scale/NN text/NN data/NNS is/VBZ an/DT important/JJ problem/NN for/IN many/JJ areas/NNS ./.
+Topic/NN modeling/NN performs/VBZ well/RB in/IN this/DT problem/NN ./.
+The/DT traditional/JJ generative/JJ models/NNS (/-LRB- PLSA/NNP ,/, LDA/NNP )/-RRB- are/VBP the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS in/IN topic/NN modeling/NN and/CC most/RBS recent/JJ research/NN on/IN topic/NN generation/NN has/VBZ been/VBN focusing/VBG on/IN improving/VBG or/CC extending/VBG these/DT models/NNS ./.
+However/RB ,/, results/NNS of/IN traditional/JJ generative/JJ models/NNS are/VBP sensitive/JJ to/IN the/DT number/NN of/IN topics/NNS K/NNP ,/, which/WDT must/MD be/VB specified/VBN manually/RB ./.
+The/DT problem/NN of/IN generating/VBG topics/NNS from/IN corpus/NN resembles/VBZ community/NN detection/NN in/IN networks/NNS ./.
+Many/JJ effective/JJ algorithms/NNS can/MD automatically/RB detect/VB communities/NNS from/IN networks/NNS without/IN a/DT manually/RB specified/VBN number/NN of/IN the/DT communities/NNS ./.
+Inspired/VBN by/IN these/DT algorithms/NNS ,/, in/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ method/NN named/VBN Hierarchical/NNP Latent/NNP Semantic/NNP Mapping/NNP (/-LRB- HLSM/NNP )/-RRB- ,/, which/WDT automatically/RB generates/VBZ topics/NNS from/IN corpus/NN ./.
+HLSM/NNP calculates/VBZ the/DT association/NN between/IN each/DT pair/NN of/IN words/NNS in/IN the/DT latent/NN topic/NN space/NN ,/, then/RB constructs/VBZ a/DT unipartite/JJ network/NN of/IN words/NNS with/IN this/DT association/NN and/CC hierarchically/RB generates/VBZ topics/NNS from/IN this/DT network/NN ./.
+We/PRP apply/VBP HLSM/NN to/IN several/JJ document/NN collections/NNS and/CC the/DT experimental/JJ comparisons/NNS against/IN several/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS demonstrate/VBP the/DT promising/JJ performance/NN ./.

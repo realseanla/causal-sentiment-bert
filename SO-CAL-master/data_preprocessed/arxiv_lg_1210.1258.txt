@@ -1,0 +1,9 @@
+Discovering/VBG the/DT latent/JJ structure/NN from/IN many/JJ observed/VBN variables/NNS is/VBZ an/DT important/JJ yet/CC challenging/JJ learning/NN task/NN ./.
+Existing/VBG approaches/NNS for/IN discovering/VBG latent/JJ structures/NNS often/RB require/VBP the/DT unknown/JJ number/NN of/IN hidden/JJ states/NNS as/IN an/DT input/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT quartet/NN based/VBN approach/NN which/WDT is/VBZ \/SYM emph/NN {/-LRB- agnostic/JJ }/-RRB- to/IN this/DT number/NN ./.
+The/DT key/JJ contribution/NN is/VBZ a/DT novel/JJ rank/NN characterization/NN of/IN the/DT tensor/NN associated/VBN with/IN the/DT marginal/JJ distribution/NN of/IN a/DT quartet/NN ./.
+This/DT characterization/NN allows/VBZ us/PRP to/TO design/VB a/DT \/NN emph/NN {/-LRB- nuclear/JJ norm/NN }/-RRB- based/VBN test/NN for/IN resolving/VBG quartet/NN relations/NNS ./.
+We/PRP then/RB use/VBP the/DT quartet/NN test/NN as/IN a/DT subroutine/NN in/IN a/DT divide/NN -/HYPH and/CC -/HYPH conquer/VB algorithm/NN for/IN recovering/VBG the/DT latent/JJ tree/NN structure/NN ./.
+Under/IN mild/JJ conditions/NNS ,/, the/DT algorithm/NN is/VBZ consistent/JJ and/CC its/PRP$ error/NN probability/NN decays/VBZ exponentially/RB with/IN increasing/VBG sample/NN size/NN ./.
+We/PRP demonstrate/VBP that/IN the/DT proposed/VBN approach/NN compares/VBZ favorably/RB to/IN alternatives/NNS ./.
+In/IN a/DT real/JJ world/NN stock/NN dataset/NN ,/, it/PRP also/RB discovers/VBZ meaningful/JJ groupings/NNS of/IN variables/NNS ,/, and/CC produces/VBZ a/DT model/NN that/WDT fits/VBZ the/DT data/NNS better/JJR ./.

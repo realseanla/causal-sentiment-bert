@@ -1,0 +1,4 @@
+This paper deals with classifying ambiguities for Multimodal Languages.
+It evolves the classifications and the methods of the literature on ambiguities for Natural Language and Visual Language, empirically defining an original classification of ambiguities for multimodal interaction using a linguistic perspective.
+This classification distinguishes between Semantic and Syntactic multimodal ambiguities and their subclasses, which are intercepted using a rule-based method implemented in a software module.
+The experimental results have achieved an accuracy of the obtained classification compared to the expected one, which are defined by the human judgment, of 94.6 percent for the semantic ambiguities classes, and 92.1 percent for the syntactic ambiguities classes.

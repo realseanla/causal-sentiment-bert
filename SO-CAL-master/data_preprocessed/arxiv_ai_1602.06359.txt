@@ -1,0 +1,7 @@
+Matching/VBG two/CD texts/NNS is/VBZ a/DT fundamental/JJ problem/NN in/IN many/JJ natural/JJ language/NN processing/NN tasks/NNS ./.
+An/DT effective/JJ way/NN is/VBZ to/TO extract/VB meaningful/JJ matching/NN patterns/NNS from/IN words/NNS ,/, phrases/NNS ,/, and/CC sentences/NNS to/TO produce/VB the/DT matching/JJ score/NN ./.
+Inspired/VBN by/IN the/DT success/NN of/IN convolutional/JJ neural/JJ network/NN in/IN image/NN recognition/NN ,/, where/WRB neurons/NNS can/MD capture/VB many/JJ complicated/JJ patterns/NNS based/VBN on/IN the/DT extracted/VBN elementary/JJ visual/JJ patterns/NNS such/JJ as/IN oriented/VBN edges/NNS and/CC corners/NNS ,/, we/PRP propose/VBP to/IN model/NN text/NN matching/NN as/IN the/DT problem/NN of/IN image/NN recognition/NN ./.
+Firstly/RB ,/, a/DT matching/NN matrix/NN whose/WP$ entries/NNS represent/VBP the/DT similarities/NNS between/IN words/NNS is/VBZ constructed/VBN and/CC viewed/VBN as/IN an/DT image/NN ./.
+Then/RB a/DT convolutional/JJ neural/JJ network/NN is/VBZ utilized/VBN to/TO capture/VB rich/JJ matching/NN patterns/NNS in/IN a/DT layer/NN -/HYPH by/IN -/HYPH layer/NN way/NN ./.
+We/PRP show/VBP that/IN by/IN resembling/VBG the/DT compositional/JJ hierarchies/NNS of/IN patterns/NNS in/IN image/NN recognition/NN ,/, our/PRP$ model/NN can/MD successfully/RB identify/VB salient/JJ signals/NNS such/JJ as/IN n/NN -/HYPH gram/NN and/CC n/NN -/HYPH term/NN matchings/NNS ./.
+Experimental/JJ results/NNS demonstrate/VBP its/PRP$ superiority/NN against/IN the/DT baselines/NNS ./.

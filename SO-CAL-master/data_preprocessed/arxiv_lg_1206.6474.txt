@@ -1,0 +1,6 @@
+The/DT paper/NN introduces/VBZ a/DT penalized/VBN matrix/NN estimation/NN procedure/NN aiming/VBG at/IN solutions/NNS which/WDT are/VBP sparse/JJ and/CC low/JJ -/HYPH rank/NN at/IN the/DT same/JJ time/NN ./.
+Such/JJ structures/NNS arise/VBP in/IN the/DT context/NN of/IN social/JJ networks/NNS or/CC protein/NN interactions/NNS where/WRB underlying/VBG graphs/NNS have/VBP adjacency/NN matrices/NNS which/WDT are/VBP block/NN -/HYPH diagonal/JJ in/IN the/DT appropriate/JJ basis/NN ./.
+We/PRP introduce/VBP a/DT convex/NN mixed/JJ penalty/NN which/WDT involves/VBZ $/$ \/CD ell_1/CD $/$ -/HYPH norm/NN and/CC trace/NN norm/NN simultaneously/RB ./.
+We/PRP obtain/VBP an/DT oracle/NN inequality/NN which/WDT indicates/VBZ how/WRB the/DT two/CD effects/NNS interact/VBP according/VBG to/IN the/DT nature/NN of/IN the/DT target/NN matrix/NN ./.
+We/PRP bound/VBD generalization/NN error/NN in/IN the/DT link/NN prediction/NN problem/NN ./.
+We/PRP also/RB develop/VBP proximal/JJ descent/NN strategies/NNS to/TO solve/VB the/DT optimization/NN problem/NN efficiently/RB and/CC evaluate/VB performance/NN on/IN synthetic/JJ and/CC real/JJ data/NNS sets/NNS ./.

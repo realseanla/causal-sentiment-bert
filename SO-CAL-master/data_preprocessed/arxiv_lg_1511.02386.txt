@@ -1,0 +1,8 @@
+Black/JJ box/NN inference/NN allows/VBZ researchers/NNS to/IN easily/RB prototype/NN and/CC evaluate/VB an/DT array/NN of/IN models/NNS ./.
+Recent/JJ advances/NNS in/IN variational/JJ inference/NN allow/VBP such/JJ algorithms/NNS to/TO scale/VB to/IN high/JJ dimensions/NNS ./.
+However/RB ,/, a/DT central/JJ question/NN remains/VBZ :/: How/WRB to/TO specify/VB an/DT expressive/JJ variational/JJ distribution/NN which/WDT maintains/VBZ efficient/JJ computation/NN ?/.
+To/TO address/VB this/DT ,/, we/PRP develop/VBP hierarchical/JJ variational/JJ models/NNS ./.
+In/IN a/DT hierarchical/JJ variational/JJ model/NN ,/, the/DT variational/JJ approximation/NN is/VBZ augmented/VBN with/IN a/DT prior/JJ on/IN its/PRP$ parameters/NNS ,/, such/JJ that/IN the/DT latent/JJ variables/NNS are/VBP conditionally/RB independent/JJ given/VBN this/DT shared/VBD structure/NN ./.
+This/DT preserves/VBZ the/DT computational/JJ efficiency/NN of/IN the/DT original/JJ approximation/NN ,/, while/IN admitting/VBG hierarchically/RB complex/JJ distributions/NNS for/IN both/DT discrete/JJ and/CC continuous/JJ latent/NN variables/NNS ./.
+We/PRP study/VBP hierarchical/JJ variational/JJ models/NNS on/IN a/DT variety/NN of/IN deep/JJ discrete/JJ latent/JJ variable/JJ models/NNS ./.
+Hierarchical/JJ variational/JJ models/NNS generalize/VBP other/JJ expressive/JJ variational/JJ distributions/NNS and/CC maintains/VBZ higher/JJR fidelity/NN to/IN the/DT posterior/JJ ./.

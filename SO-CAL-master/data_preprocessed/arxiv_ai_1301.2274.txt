@@ -1,0 +1,9 @@
+In/IN previous/JJ work/NN cite/VB {/-LRB- Ha98/NN :/: Towards/IN }/-RRB- we/PRP presented/VBD a/DT case/NN -/HYPH based/VBN approach/NN to/IN eliciting/VBG and/CC reasoning/NN with/IN preferences/NNS ./.
+A/DT key/JJ issue/NN in/IN this/DT approach/NN is/VBZ the/DT definition/NN of/IN similarity/NN between/IN user/NN preferences/NNS ./.
+We/PRP introduced/VBD the/DT probabilistic/JJ distance/NN as/IN a/DT measure/NN of/IN similarity/NN on/IN user/NN preferences/NNS ,/, and/CC provided/VBD an/DT algorithm/NN to/IN compute/VB the/DT distance/NN between/IN two/CD partially/RB specified/VBN {/-LRB- em/PRP value/NN }/-RRB- functions/VBZ ./.
+This/DT is/VBZ for/IN the/DT case/NN of/IN decision/NN making/VBG under/IN {/-LRB- em/PRP certainty/NN }/-RRB- ./.
+In/IN this/DT paper/NN we/PRP address/VBP the/DT more/JJR challenging/JJ issue/NN of/IN computing/VBG the/DT probabilistic/JJ distance/NN in/IN the/DT case/NN of/IN decision/NN making/VBG under/IN {/-LRB- em/PRP uncertainty/NN }/-RRB- ./.
+We/PRP provide/VBP an/DT algorithm/NN to/IN compute/VB the/DT probabilistic/JJ distance/NN between/IN two/CD partially/RB specified/VBN {/-LRB- em/PRP utility/NN }/-RRB- functions/VBZ ./.
+We/PRP demonstrate/VBP the/DT use/NN of/IN this/DT algorithm/NN with/IN a/DT medical/JJ data/NNS set/NN of/IN partially/RB specified/VBN patient/NN preferences/NNS ,/, where/WRB none/NN of/IN the/DT other/JJ existing/VBG distancemeasures/NNS appear/VBP definable/JJ ./.
+Using/VBG this/DT data/NN set/NN ,/, we/PRP also/RB demonstrate/VBP that/IN the/DT case/NN -/HYPH based/VBN approach/NN to/IN preference/NN elicitation/NN isapplicable/NN in/IN domains/NNS with/IN uncertainty/NN ./.
+Finally/RB ,/, we/PRP provide/VBP a/DT comprehensive/JJ analytical/JJ comparison/NN of/IN the/DT probabilistic/JJ distance/NN with/IN some/DT existing/VBG distance/NN measures/NNS on/IN preferences/NNS ./.

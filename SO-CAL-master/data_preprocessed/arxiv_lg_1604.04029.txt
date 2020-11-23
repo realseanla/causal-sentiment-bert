@@ -1,0 +1,12 @@
+With/IN the/DT advance/NN of/IN technology/NN ,/, entities/NNS can/MD be/VB observed/VBN in/IN multiple/JJ views/NNS ./.
+Multiple/JJ views/NNS containing/VBG different/JJ types/NNS of/IN features/NNS can/MD be/VB used/VBN for/IN clustering/NN ./.
+Although/IN multi-view/JJ clustering/NN has/VBZ been/VBN successfully/RB applied/VBN in/IN many/JJ applications/NNS ,/, the/DT previous/JJ methods/NNS usually/RB assume/VBP the/DT complete/JJ instance/NN mapping/NN between/IN different/JJ views/NNS ./.
+In/IN many/JJ real/JJ -/HYPH world/NN applications/NNS ,/, information/NN can/MD be/VB gathered/VBN from/IN multiple/JJ sources/NNS ,/, while/IN each/DT source/NN can/MD contain/VB multiple/JJ views/NNS ,/, which/WDT are/VBP more/RBR cohesive/JJ for/IN learning/NN ./.
+The/DT views/NNS under/IN the/DT same/JJ source/NN are/VBP usually/RB fully/RB mapped/VBN ,/, but/CC they/PRP can/MD be/VB very/RB heterogeneous/JJ ./.
+Moreover/RB ,/, the/DT mappings/NNS between/IN different/JJ sources/NNS are/VBP usually/RB incomplete/JJ and/CC partially/RB observed/VBN ,/, which/WDT makes/VBZ it/PRP more/RBR difficult/JJ to/TO integrate/VB all/PDT the/DT views/NNS across/IN different/JJ sources/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP MMC/NN (/-LRB- Multi-source/JJ Multi-view/NN Clustering/NN )/-RRB- ,/, which/WDT is/VBZ a/DT framework/NN based/VBN on/IN collective/JJ spectral/JJ clustering/NN with/IN a/DT discrepancy/NN penalty/NN across/IN sources/NNS ,/, to/TO tackle/VB these/DT challenges/NNS ./.
+MMC/NN has/VBZ several/JJ advantages/NNS compared/VBN with/IN other/JJ existing/VBG methods/NNS ./.
+First/RB ,/, MMC/NN can/MD deal/VB with/IN incomplete/JJ mapping/NN between/IN sources/NNS ./.
+Second/RB ,/, it/PRP considers/VBZ the/DT disagreements/NNS between/IN sources/NNS while/IN treating/VBG views/NNS in/IN the/DT same/JJ source/NN as/IN a/DT cohesive/JJ set/NN ./.
+Third/JJ ,/, MMC/NN also/RB tries/VBZ to/TO infer/VB the/DT instance/NN similarities/NNS across/IN sources/NNS to/TO enhance/VB the/DT clustering/NN performance/NN ./.
+Extensive/JJ experiments/NNS conducted/VBN on/IN real/JJ -/HYPH world/NN data/NNS demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN approach/NN ./.

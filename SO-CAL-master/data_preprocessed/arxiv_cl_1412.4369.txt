@@ -1,0 +1,3 @@
+We/PRP investigate/VBP the/DT hypothesis/NN that/IN word/NN representations/NNS ought/MD to/TO incorporate/VB both/DT distributional/JJ and/CC relational/JJ semantics/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP employ/VBP the/DT Alternating/NNP Direction/NNP Method/NNP of/IN Multipliers/NNPS (/-LRB- ADMM/NNP )/-RRB- ,/, which/WDT flexibly/RB optimizes/VBZ a/DT distributional/JJ objective/NN on/IN raw/JJ text/NN and/CC a/DT relational/JJ objective/NN on/IN WordNet/NNP ./.
+Preliminary/JJ results/NNS on/IN knowledge/NN base/NN completion/NN ,/, analogy/NN tests/NNS ,/, and/CC parsing/VBG show/NN that/WDT word/NN representations/NNS trained/VBN on/IN both/DT objectives/NNS can/MD give/VB improvements/NNS in/IN some/DT cases/NNS ./.

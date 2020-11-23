@@ -1,0 +1,10 @@
+A/DT considerable/JJ amount/NN of/IN machine/NN learning/NN algorithms/NNS take/VBP matrices/NNS as/IN their/PRP$ inputs/NNS ./.
+As/IN such/JJ ,/, they/PRP can/MD not/RB directly/RB analyze/VB time/NN series/NN data/NNS due/IN to/IN its/PRP$ temporal/JJ nature/NN ,/, usually/RB unequal/JJ lengths/NNS ,/, and/CC complex/JJ properties/NNS ./.
+This/DT is/VBZ a/DT great/JJ pity/NN since/IN many/JJ of/IN these/DT algorithms/NNS are/VBP effective/JJ ,/, robust/JJ ,/, efficient/JJ ,/, and/CC easy/JJ to/TO use/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP bridge/VBP this/DT gap/NN by/IN proposing/VBG an/DT efficient/JJ representation/NN learning/VBG framework/NN that/WDT is/VBZ able/JJ to/TO convert/VB a/DT set/NN of/IN time/NN series/NN with/IN equal/JJ or/CC unequal/JJ lengths/NNS to/IN a/DT matrix/NN format/NN ./.
+In/IN particular/JJ ,/, we/PRP guarantee/VBP that/IN the/DT pairwise/JJ similarities/NNS between/IN time/NN series/NN are/VBP well/RB preserved/VBN after/IN the/DT transformation/NN ./.
+Therefore/RB ,/, the/DT learned/VBN feature/NN representation/NN is/VBZ particularly/RB suitable/JJ to/IN the/DT class/NN of/IN learning/NN problems/NNS that/WDT are/VBP sensitive/JJ to/IN data/NNS similarities/NNS ./.
+Given/VBN a/DT set/NN of/IN $/$ n/NN $/$ time/NN series/NN ,/, we/PRP first/RB construct/VB an/DT $/$ n/NN \/NN times/NNS n/NN $/$ partially/RB observed/VBN similarity/NN matrix/NN by/IN randomly/RB sampling/VBG $/$ O/UH (/-LRB- n/NN \/SYM log/NN n/NN )/-RRB- $/$ pairs/NNS of/IN time/NN series/NN and/CC computing/VBG their/PRP$ pairwise/JJ similarities/NNS ./.
+We/PRP then/RB propose/VB an/DT extremely/RB efficient/JJ algorithm/NN that/WDT solves/VBZ a/DT highly/RB non-convex/JJ and/CC NP/NNP -/HYPH hard/JJ problem/NN to/TO learn/VB new/JJ features/NNS based/VBN on/IN the/DT partially/RB observed/VBN similarity/NN matrix/NN ./.
+We/PRP use/VBP the/DT learned/VBN features/NNS to/TO conduct/VB experiments/NNS on/IN both/DT data/NNS classification/NN and/CC clustering/NN tasks/NNS ./.
+Our/PRP$ extensive/JJ experimental/JJ results/NNS demonstrate/VBP that/IN the/DT proposed/VBN framework/NN is/VBZ both/DT effective/JJ and/CC efficient/JJ ./.

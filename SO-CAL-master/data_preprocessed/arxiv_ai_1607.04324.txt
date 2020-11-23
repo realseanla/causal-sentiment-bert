@@ -1,0 +1,6 @@
+Combinatorial/JJ optimization/NN problems/NNS are/VBP typically/RB NP/NNP -/HYPH hard/JJ ,/, and/CC thus/RB very/RB challenging/JJ to/TO solve/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT random/JJ key/JJ cuckoo/NN search/NN (/-LRB- RKCS/NN )/-RRB- algorithm/NN for/IN solving/VBG the/DT famous/JJ Travelling/VBG Salesman/NN Problem/NN (/-LRB- TSP/NN )/-RRB- ./.
+We/PRP used/VBD a/DT simplified/JJ random/JJ -/HYPH key/JJ encoding/VBG scheme/NN to/TO pass/VB from/IN a/DT continuous/JJ space/NN (/-LRB- real/JJ numbers/NNS )/-RRB- to/IN a/DT combinatorial/JJ space/NN ./.
+We/PRP also/RB consider/VBP the/DT displacement/NN of/IN a/DT solution/NN in/IN both/CC spaces/NNS using/VBG Levy/NN flights/NNS ./.
+The/DT performance/NN of/IN the/DT proposed/VBN RKCS/NN is/VBZ tested/VBN against/IN a/DT set/NN of/IN benchmarks/NNS of/IN symmetric/JJ TSP/NN from/IN the/DT well/NN -/HYPH known/VBN TSPLIB/NNP library/NN ./.
+The/DT results/NNS of/IN the/DT tests/NNS show/VBP that/IN RKCS/NN is/VBZ superior/JJ to/IN some/DT other/JJ metaheuristic/JJ algorithms/NNS ./.

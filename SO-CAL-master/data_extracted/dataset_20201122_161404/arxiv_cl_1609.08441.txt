@@ -1,0 +1,4 @@
+PLDA is a popular normalization approach for the i-vector model, and it has delivered state-of-the-art performance in speaker verification.
+However, PLDA training requires a large amount of labelled development data, which is highly expensive in most cases.
+We present a cheap PLDA training approach, which assumes that speakers in the same session can be easily separated, and speakers in different sessions are simply different.
+This results in `weak labels' which are not fully accurate but cheap, leading to a weak PLDA training.

@@ -1,0 +1,6 @@
+The/DT ways/NNS in/IN which/WDT an/DT agent/NN 's/POS actions/NNS affect/VBP the/DT world/NN can/MD often/RB be/VB modeled/VBN compactly/RB using/VBG a/DT set/NN of/IN relational/JJ probabilistic/JJ planning/NN rules/NNS ./.
+This/DT paper/NN addresses/VBZ the/DT problem/NN of/IN learning/VBG such/JJ rule/NN sets/NNS for/IN multiple/JJ related/JJ tasks/NNS ./.
+We/PRP take/VBP a/DT hierarchical/JJ Bayesian/JJ approach/NN ,/, in/IN which/WDT the/DT system/NN learns/VBZ a/DT prior/JJ distribution/NN over/IN rule/NN sets/NNS ./.
+We/PRP present/VBP a/DT class/NN of/IN prior/JJ distributions/NNS parameterized/VBN by/IN a/DT rule/NN set/VBN prototype/NN that/WDT is/VBZ stochastically/RB modified/VBN to/TO produce/VB a/DT task/NN -/HYPH specific/JJ rule/NN set/NN ./.
+We/PRP also/RB describe/VBP a/DT coordinate/NN ascent/NN algorithm/NN that/WDT iteratively/RB optimizes/VBZ the/DT task/NN -/HYPH specific/JJ rule/NN sets/NNS and/CC the/DT prior/JJ distribution/NN ./.
+Experiments/NNS using/VBG this/DT algorithm/NN show/NN that/WDT transferring/VBG information/NN from/IN related/JJ tasks/NNS significantly/RB reduces/VBZ the/DT amount/NN of/IN training/NN data/NNS required/VBN to/TO predict/VB action/NN effects/NNS in/IN blocks/NNS -/HYPH world/NN domains/NNS ./.

@@ -1,0 +1,7 @@
+We/PRP prove/VBP that/IN it/PRP is/VBZ NP/NNP -/HYPH hard/JJ for/IN a/DT coalition/NN of/IN two/CD manipulators/NNS to/IN compute/VB how/WRB to/TO manipulate/VB the/DT Borda/NNP voting/NN rule/NN ./.
+This/DT resolves/VBZ one/CD of/IN the/DT last/JJ open/JJ problems/NNS in/IN the/DT computational/JJ complexity/NN of/IN manipulating/VBG common/JJ voting/NN rules/NNS ./.
+Because/IN of/IN this/DT NP/NN -/HYPH hardness/NN ,/, we/PRP treat/VBP computing/VBG a/DT manipulation/NN as/IN an/DT approximation/NN problem/NN where/WRB we/PRP try/VBP to/TO minimize/VB the/DT number/NN of/IN manipulators/NNS ./.
+Based/VBN on/IN ideas/NNS from/IN bin/NN packing/NN and/CC multiprocessor/NN scheduling/NN ,/, we/PRP propose/VBP two/CD new/JJ approximation/NN methods/NNS to/TO compute/VB manipulations/NNS of/IN the/DT Borda/NNP rule/NN ./.
+Experiments/NNS show/VBP that/IN these/DT methods/NNS significantly/RB outperform/VBP the/DT previous/JJ best/RBS known/VBN percentexisting/VBG approximation/NN method/NN ./.
+We/PRP are/VBP able/JJ to/TO find/VB optimal/JJ manipulations/NNS in/IN almost/RB all/PDT the/DT randomly/RB generated/VBN elections/NNS tested/VBN ./.
+Our/PRP$ results/NNS suggest/VBP that/IN ,/, whilst/IN computing/VBG a/DT manipulation/NN of/IN the/DT Borda/NNP rule/NN by/IN a/DT coalition/NN is/VBZ NP/NNP -/HYPH hard/JJ ,/, computational/JJ complexity/NN may/MD provide/VB only/RB a/DT weak/JJ barrier/NN against/IN manipulation/NN in/IN practice/NN ./.

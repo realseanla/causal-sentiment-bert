@@ -1,0 +1,7 @@
+Energy-based models are popular in machine learning due to the elegance of their formulation and their relationship to statistical physics.
+Among these, the Restricted Boltzmann Machine (RBM) has been the prototype for some recent advancements in the unsupervised training of deep neural networks.
+However, the contrastive divergence training algorithm, so often used for such models, has a number of drawbacks and ineligancies both in theory and in practice.
+Here, we investigate the performance of Minimum Probability Flow learning for training RBMs.
+This approach reconceptualizes the nature of the dynamics defined over a model, rather than thinking about Gibbs sampling, and derives a simple, tractable, and elegant objective function using a Taylor expansion, allowing one to learn the parameters of any distribution over visible states.
+In the paper, we expound the Minimum Probability Flow learning algorithm under various dynamics.
+We empirically analyze its performance on these dynamics and demonstrate that MPF algorithms outperform CD on various RBM configurations.

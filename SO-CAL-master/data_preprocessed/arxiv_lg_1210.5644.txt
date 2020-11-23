@@ -1,0 +1,6 @@
+Most/JJS state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN techniques/NNS for/IN multi-class/JJ image/NN segmentation/NN and/CC labeling/NN use/NN conditional/JJ random/JJ fields/NNS defined/VBN over/IN pixels/NNS or/CC image/NN regions/NNS ./.
+While/IN region/NN -/HYPH level/NN models/NNS often/RB feature/VBP dense/JJ pairwise/JJ connectivity/NN ,/, pixel/NN -/HYPH level/NN models/NNS are/VBP considerably/RB larger/JJR and/CC have/VBP only/RB permitted/VBN sparse/JJ graph/NN structures/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP fully/RB connected/VBN CRF/NNP models/NNS defined/VBN on/IN the/DT complete/JJ set/NN of/IN pixels/NNS in/IN an/DT image/NN ./.
+The/DT resulting/VBG graphs/NNS have/VBP billions/NNS of/IN edges/NNS ,/, making/VBG traditional/JJ inference/NN algorithms/NNS impractical/JJ ./.
+Our/PRP$ main/JJ contribution/NN is/VBZ a/DT highly/RB efficient/JJ approximate/JJ inference/NN algorithm/NN for/IN fully/RB connected/VBN CRF/NNP models/NNS in/IN which/WDT the/DT pairwise/JJ edge/NN potentials/NNS are/VBP defined/VBN by/IN a/DT linear/JJ combination/NN of/IN Gaussian/NNP kernels/NNS ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN dense/JJ connectivity/NN at/IN the/DT pixel/NN level/NN substantially/RB improves/VBZ segmentation/NN and/CC labeling/NN accuracy/NN ./.

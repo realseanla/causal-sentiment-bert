@@ -1,0 +1,4 @@
+Inferring/VBG probabilistic/JJ networks/NNS from/IN data/NNS is/VBZ a/DT notoriously/RB difficult/JJ task/NN ./.
+Under/IN various/JJ goodness/NN -/HYPH of/IN -/HYPH fit/NN measures/NNS ,/, finding/VBG an/DT optimal/JJ network/NN is/VBZ NP/NNP -/HYPH hard/JJ ,/, even/RB if/IN restricted/VBN to/IN polytrees/NNS of/IN bounded/VBN in/IN -/HYPH degree/NN ./.
+Polynomial/JJ -/HYPH time/NN algorithms/NNS are/VBP known/VBN only/RB for/IN rare/JJ special/JJ cases/NNS ,/, perhaps/RB most/RBS notably/RB for/IN branchings/NNS ,/, that/DT is/VBZ ,/, polytrees/NNS in/IN which/WDT the/DT in/IN -/HYPH degree/NN of/IN every/DT node/NN is/VBZ at/IN most/RBS one/CD ./.
+Here/RB ,/, we/PRP study/VBP the/DT complexity/NN of/IN finding/VBG an/DT optimal/JJ polytree/NN that/WDT can/MD be/VB turned/VBN into/IN a/DT branching/NN by/IN deleting/VBG some/DT number/NN of/IN arcs/NNS or/CC nodes/NNS ,/, treated/VBN as/IN a/DT parameter/NN ./.

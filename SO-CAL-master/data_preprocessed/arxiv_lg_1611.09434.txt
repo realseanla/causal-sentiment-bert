@@ -1,0 +1,9 @@
+The/DT computational/JJ mechanisms/NNS by/IN which/WDT nonlinear/JJ recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- achieve/VBP their/PRP$ goals/NNS remains/VBZ an/DT open/JJ question/NN ./.
+There/EX exist/VBP many/JJ problem/NN domains/NNS where/WRB intelligibility/NN of/IN the/DT network/NN model/NN is/VBZ crucial/JJ for/IN deployment/NN ./.
+Here/RB we/PRP introduce/VBP a/DT recurrent/JJ architecture/NN composed/VBN of/IN input/NN -/HYPH switched/VBN affine/JJ transformations/NNS ,/, in/IN other/JJ words/NNS an/DT RNN/NN without/IN any/DT nonlinearity/NN and/CC with/IN one/CD set/NN of/IN weights/NNS per/IN input/NN ./.
+We/PRP show/VBP that/IN this/DT architecture/NN achieves/VBZ near/IN identical/JJ performance/NN to/IN traditional/JJ architectures/NNS on/IN language/NN modeling/NN of/IN Wikipedia/NNP text/NN ,/, for/IN the/DT same/JJ number/NN of/IN model/NN parameters/NNS ./.
+It/PRP can/MD obtain/VB this/DT performance/NN with/IN the/DT potential/NN for/IN computational/JJ speedup/NN compared/VBN to/IN existing/VBG methods/NNS ,/, by/IN precomputing/VBG the/DT composed/VBN affine/JJ transformations/NNS corresponding/VBG to/IN longer/JJR input/NN sequences/NNS ./.
+As/IN our/PRP$ architecture/NN is/VBZ affine/JJ ,/, we/PRP are/VBP able/JJ to/TO understand/VB the/DT mechanisms/NNS by/IN which/WDT it/PRP functions/VBZ using/VBG linear/JJ methods/NNS ./.
+For/IN example/NN ,/, we/PRP show/VBP how/WRB the/DT network/NN linearly/RB combines/VBZ contributions/NNS from/IN the/DT past/NN to/TO make/VB predictions/NNS at/IN the/DT current/JJ time/NN step/NN ./.
+We/PRP show/VBP how/WRB representations/NNS for/IN words/NNS can/MD be/VB combined/VBN in/IN order/NN to/TO understand/VB how/WRB context/NN is/VBZ transferred/VBN across/IN word/NN boundaries/NNS ./.
+Finally/RB ,/, we/PRP demonstrate/VBP how/WRB the/DT system/NN can/MD be/VB executed/VBN and/CC analyzed/VBN in/IN arbitrary/JJ bases/NNS to/TO aid/VB understanding/NN ./.

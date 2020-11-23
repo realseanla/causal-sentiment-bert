@@ -1,0 +1,5 @@
+We/PRP investigate/VBP a/DT family/NN of/IN poisoning/NN attacks/NNS against/IN Support/NN Vector/NNP Machines/NNPS (/-LRB- SVM/NNP )/-RRB- ./.
+Such/JJ attacks/NNS inject/VBP specially/RB crafted/VBN training/NN data/NNS that/WDT increases/VBZ the/DT SVM/NNP 's/POS test/NN error/NN ./.
+Central/NNP to/IN the/DT motivation/NN for/IN these/DT attacks/NNS is/VBZ the/DT fact/NN that/IN most/JJS learning/NN algorithms/NNS assume/VBP that/IN their/PRP$ training/NN data/NNS comes/VBZ from/IN a/DT natural/JJ or/CC well/RB -/HYPH behaved/VBN distribution/NN ./.
+However/RB ,/, this/DT assumption/NN does/VBZ not/RB generally/RB hold/VB in/IN security/NN -/HYPH sensitive/JJ settings/NNS ./.
+As/IN we/PRP demonstrate/VBP ,/, an/DT intelligent/JJ adversary/NN can/MD ,/, to/IN some/DT extent/NN ,/, predict/VB the/DT change/NN of/IN the/DT SVM/NNP 's/POS decision/NN function/NN due/IN to/IN malicious/JJ input/NN and/CC use/VB this/DT ability/NN to/TO construct/VB malicious/JJ data/NNS ./.

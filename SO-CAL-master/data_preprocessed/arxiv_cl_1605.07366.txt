@@ -1,0 +1,7 @@
+Natural/NNP Language/NNP Generation/NNP systems/NNS typically/RB have/VBP two/CD parts/NNS -/HYPH strategic/JJ (/-LRB- '/`` what/WP to/TO say/VB '/'' )/-RRB- and/CC tactical/JJ (/-LRB- '/`` how/WRB to/TO say/VB '/'' )/-RRB- ./.
+We/PRP present/VBP our/PRP$ experiments/NNS in/IN building/VBG an/DT unsupervised/JJ corpus/NN -/HYPH driven/VBN template/NN based/VBN tactical/JJ NLG/NN system/NN ./.
+We/PRP consider/VBP templates/NNS as/IN a/DT sequence/NN of/IN words/NNS containing/VBG gaps/NNS ./.
+Our/PRP$ idea/NN is/VBZ based/VBN on/IN the/DT observation/NN that/IN templates/NNS are/VBP grammatical/JJ locally/RB (/-LRB- within/IN their/PRP$ textual/JJ span/NN )/-RRB- ./.
+We/PRP posit/VBP the/DT construction/NN of/IN a/DT sentence/NN as/IN a/DT highly/RB restricted/JJ sequence/NN of/IN such/JJ templates/NNS ./.
+This/DT work/NN is/VBZ an/DT attempt/NN to/TO explore/VB the/DT resulting/VBG search/NN space/NN using/VBG Genetic/JJ Algorithms/NNS to/TO arrive/VB at/IN acceptable/JJ solutions/NNS ./.
+We/PRP present/VBP a/DT baseline/NN implementation/NN of/IN this/DT approach/NN which/WDT outputs/NNS gapped/VBD text/NN ./.

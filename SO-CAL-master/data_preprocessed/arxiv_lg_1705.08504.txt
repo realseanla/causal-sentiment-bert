@@ -1,0 +1,7 @@
+Interpretability/NN has/VBZ become/VBN an/DT important/JJ issue/NN as/IN machine/NN learning/NN is/VBZ increasingly/RB used/VBN to/TO inform/VB consequential/JJ decisions/NNS ./.
+We/PRP propose/VBP an/DT approach/NN for/IN interpreting/VBG a/DT blackbox/NN model/NN by/IN extracting/VBG a/DT decision/NN tree/NN that/WDT approximates/VBZ the/DT model/NN ./.
+Our/PRP$ model/NN extraction/NN algorithm/NN avoids/VBZ overfitting/VBG by/IN leveraging/VBG blackbox/NN model/NN access/NN to/IN actively/RB sample/JJ new/JJ training/NN points/NNS ./.
+We/PRP prove/VBP that/IN as/IN the/DT number/NN of/IN samples/NNS goes/VBZ to/IN infinity/NN ,/, the/DT decision/NN tree/NN learned/VBN using/VBG our/PRP$ algorithm/NN converges/VBZ to/IN the/DT exact/JJ greedy/JJ decision/NN tree/NN ./.
+In/IN our/PRP$ evaluation/NN ,/, we/PRP use/VBP our/PRP$ algorithm/NN to/TO interpret/VB random/JJ forests/NNS and/CC neural/JJ nets/NNS trained/VBN on/IN several/JJ datasets/NNS from/IN the/DT UCI/NNP Machine/NNP Learning/NNP Repository/NNP ,/, as/RB well/RB as/IN control/NN policies/NNS learned/VBD for/IN three/CD classical/JJ reinforcement/NN learning/VBG problems/NNS ./.
+We/PRP show/VBP that/IN our/PRP$ algorithm/NN improves/VBZ over/IN a/DT baseline/NN based/VBN on/IN CART/NN on/IN every/DT problem/NN instance/NN ./.
+Furthermore/RB ,/, we/PRP show/VBP how/WRB an/DT interpretation/NN generated/VBN by/IN our/PRP$ approach/NN can/MD be/VB used/VBN to/TO understand/VB and/CC debug/VB these/DT models/NNS ./.

@@ -1,0 +1,5 @@
+Combining/VBG deep/JJ neural/JJ networks/NNS with/IN structured/JJ logic/NN rules/NNS is/VBZ desirable/JJ to/IN harness/NN flexibility/NN and/CC reduce/VB unpredictability/NN of/IN the/DT neural/JJ models/NNS ./.
+We/PRP propose/VBP a/DT general/JJ framework/NN capable/JJ of/IN enhancing/VBG various/JJ types/NNS of/IN neural/JJ networks/NNS (/-LRB- e.g./FW ,/, CNNs/NNPS and/CC RNNs/NNPS )/-RRB- with/IN declarative/JJ first/JJ -/HYPH order/NN logic/NN rules/NNS ./.
+Specifically/RB ,/, we/PRP develop/VBP an/DT iterative/JJ distillation/NN method/NN that/WDT transfers/VBZ the/DT structured/JJ information/NN of/IN logic/NN rules/NNS into/IN the/DT weights/NNS of/IN neural/JJ networks/NNS ./.
+We/PRP deploy/VBP the/DT framework/NN on/IN a/DT CNN/NNP for/IN sentiment/NN analysis/NN ,/, and/CC an/DT RNN/NN for/IN named/VBN entity/NN recognition/NN ./.
+With/IN a/DT few/JJ highly/RB intuitive/JJ rules/NNS ,/, we/PRP obtain/VBP substantial/JJ improvements/NNS and/CC achieve/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN or/CC comparable/JJ results/NNS to/IN previous/JJ best/RBS -/HYPH performing/VBG systems/NNS ./.

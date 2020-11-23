@@ -1,0 +1,4 @@
+In/IN recent/JJ years/NNS there/RB is/VBZ a/DT growing/VBG interest/NN in/IN using/VBG deep/JJ representations/NNS for/IN reinforcement/NN learning/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT methodology/NN and/CC tools/NNS to/TO analyze/VB Deep/JJ Q/NN -/HYPH networks/NNS (/-LRB- DQNs/NNS )/-RRB- in/IN a/DT non-blind/JJ matter/NN ./.
+Using/VBG our/PRP$ tools/NNS we/PRP reveal/VBP that/IN the/DT features/NNS learned/VBN by/IN DQNs/NNS aggregate/JJ the/DT state/NN space/NN in/IN a/DT hierarchical/JJ fashion/NN ,/, explaining/VBG its/PRP$ success/NN ./.
+Moreover/RB we/PRP are/VBP able/JJ to/TO understand/VB and/CC describe/VB the/DT policies/NNS learned/VBN by/IN DQNs/NNS for/IN three/CD different/JJ Atari2600/NN games/NNS and/CC suggest/VBP ways/NNS to/TO interpret/VB ,/, debug/VB and/CC optimize/VB of/IN deep/JJ neural/JJ networks/NNS in/IN Reinforcement/NN Learning/NN ./.

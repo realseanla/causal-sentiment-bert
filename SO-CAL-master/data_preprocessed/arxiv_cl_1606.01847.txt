@@ -1,0 +1,9 @@
+Modeling/VBG textual/JJ or/CC visual/JJ information/NN with/IN vector/NN representations/NNS trained/VBN from/IN large/JJ language/NN or/CC visual/JJ datasets/NNS has/VBZ been/VBN successfully/RB explored/VBN in/IN recent/JJ years/NNS ./.
+However/RB ,/, tasks/NNS such/JJ as/IN visual/JJ question/NN answering/VBG require/VBP combining/VBG these/DT vector/NN representations/NNS with/IN each/DT other/JJ ./.
+Approaches/NNS to/TO multimodal/VB pooling/VBG include/VBP element-wise/JJ multiplication/NN or/CC addition/NN ,/, as/RB well/RB as/IN concatenation/NN of/IN the/DT visual/JJ and/CC textual/JJ representations/NNS ./.
+We/PRP hypothesize/VBP that/IN these/DT methods/NNS are/VBP not/RB as/IN expressive/JJ as/IN an/DT outer/JJ product/NN of/IN the/DT visual/JJ and/CC textual/JJ vectors/NNS ./.
+As/IN the/DT outer/JJ product/NN is/VBZ typically/RB infeasible/JJ due/IN to/IN its/PRP$ high/JJ dimensionality/NN ,/, we/PRP instead/RB propose/VBP utilizing/VBG Multimodal/NNP Compact/NNP Bilinear/NNP pooling/VBG (/-LRB- MCB/NNP )/-RRB- to/TO efficiently/RB and/CC expressively/RB combine/VB multimodal/JJ features/NNS ./.
+We/PRP extensively/RB evaluate/VBP MCB/NNP on/IN the/DT visual/JJ question/NN answering/VBG and/CC grounding/VBG tasks/NNS ./.
+We/PRP consistently/RB show/VBP the/DT benefit/NN of/IN MCB/NNP over/IN ablations/NNS without/IN MCB/NNP ./.
+For/IN visual/JJ question/NN answering/VBG ,/, we/PRP present/VBP an/DT architecture/NN which/WDT uses/VBZ MCB/NNP twice/RB ,/, once/RB for/IN predicting/VBG attention/NN over/IN spatial/JJ features/NNS and/CC again/RB to/TO combine/VB the/DT attended/VBN representation/NN with/IN the/DT question/NN representation/NN ./.
+This/DT model/NN outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN the/DT Visual7W/NN dataset/NN and/CC the/DT VQA/NN challenge/NN ./.

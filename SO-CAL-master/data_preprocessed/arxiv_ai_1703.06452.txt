@@ -1,0 +1,9 @@
+A/DT semantic/JJ segmentation/NN algorithm/NN must/MD assign/VB a/DT label/NN to/IN every/DT pixel/NN in/IN an/DT image/NN ./.
+Recently/RB ,/, semantic/JJ segmentation/NN of/IN RGB/NNP imagery/NN has/VBZ advanced/VBN significantly/RB due/IN to/IN deep/JJ learning/NN ./.
+Because/IN creating/VBG datasets/NNS for/IN semantic/JJ segmentation/NN is/VBZ laborious/JJ ,/, these/DT datasets/NNS tend/VBP to/TO be/VB significantly/RB smaller/JJR than/IN object/NN recognition/NN datasets/NNS ./.
+This/DT makes/VBZ it/PRP difficult/JJ to/TO directly/RB train/VB a/DT deep/JJ neural/JJ network/NN for/IN semantic/JJ segmentation/NN ,/, because/IN it/PRP will/MD be/VB prone/JJ to/IN overfitting/VBG ./.
+To/TO cope/VB with/IN this/DT ,/, deep/JJ learning/NN models/NNS typically/RB use/VBP convolutional/JJ neural/JJ networks/NNS pre-trained/VBN on/IN large/JJ -/HYPH scale/NN image/NN classification/NN datasets/NNS ,/, which/WDT are/VBP then/RB fine/RB -/HYPH tuned/VBN for/IN semantic/JJ segmentation/NN ./.
+For/IN non-RGB/JJ imagery/NN ,/, this/DT is/VBZ currently/RB not/RB possible/JJ because/IN large/JJ -/HYPH scale/NN labeled/VBN non-RGB/JJ datasets/NNS do/VBP not/RB exist/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP developed/VBD two/CD deep/JJ neural/JJ networks/NNS for/IN semantic/JJ segmentation/NN of/IN multispectral/JJ remote/JJ sensing/VBG imagery/NN ./.
+Prior/RB to/IN training/NN on/IN the/DT target/NN dataset/NN ,/, we/PRP initialize/VBP the/DT networks/NNS with/IN large/JJ amounts/NNS of/IN synthetic/JJ multispectral/JJ imagery/NN ./.
+We/PRP show/VBP that/IN this/DT significantly/RB improves/VBZ results/NNS on/IN real/JJ -/HYPH world/NN remote/JJ sensing/VBG imagery/NN ,/, and/CC we/PRP establish/VBP a/DT new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN result/NN on/IN the/DT challenging/JJ Hamlin/NNP Beach/NNP State/NNP Park/NNP Dataset/NN ./.

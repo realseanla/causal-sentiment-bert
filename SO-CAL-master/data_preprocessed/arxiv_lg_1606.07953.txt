@@ -1,0 +1,4 @@
+Sequence/NN labeling/NN for/IN extraction/NN of/IN medical/JJ events/NNS and/CC their/PRP$ attributes/NNS from/IN unstructured/JJ text/NN in/IN Electronic/NNP Health/NNP Record/NNP (/-LRB- EHR/NNP )/-RRB- notes/VBZ is/VBZ a/DT key/JJ step/NN towards/IN semantic/JJ understanding/NN of/IN EHRs/NNS ./.
+It/PRP has/VBZ important/JJ applications/NNS in/IN health/NN informatics/NNS including/VBG pharmacovigilance/NN and/CC drug/NN surveillance/NN ./.
+The/DT state/NN of/IN the/DT art/NN supervised/VBD machine/NN learning/NN models/NNS in/IN this/DT domain/NN are/VBP based/VBN on/IN Conditional/JJ Random/NNP Fields/NNPS (/-LRB- CRFs/NNS )/-RRB- with/IN features/NNS calculated/VBN from/IN fixed/VBN context/NN windows/NNS ./.
+In/IN this/DT application/NN ,/, we/PRP explored/VBD various/JJ recurrent/JJ neural/JJ network/NN frameworks/NNS and/CC show/VBP that/IN they/PRP significantly/RB outperformed/VBD the/DT CRF/NNP models/NNS ./.

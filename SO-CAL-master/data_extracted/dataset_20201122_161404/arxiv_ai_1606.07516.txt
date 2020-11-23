@@ -1,0 +1,4 @@
+Gossip protocols aim at arriving, by means of point-to-point or group communications, at a situation in which all the agents know each other's secrets.
+We consider distributed gossip protocols which are expressed by means of epistemic logic.
+We provide an operational semantics of such protocols and set up an appropriate framework to argue about their correctness.
+Then we analyze specific protocols for complete graphs and for directed rings.

@@ -1,0 +1,6 @@
+To/TO answer/VB the/DT question/NN in/IN machine/NN comprehension/NN (/-LRB- MC/NNP )/-RRB- task/NN ,/, the/DT models/NNS need/VBP to/TO establish/VB the/DT interaction/NN between/IN the/DT question/NN and/CC the/DT context/NN ./.
+To/TO tackle/VB the/DT problem/NN that/IN the/DT single/JJ -/HYPH pass/NN model/NN can/MD not/RB reflect/VB on/RP and/CC correct/VB its/PRP$ answer/NN ,/, we/PRP present/VBP Ruminating/VBG Reader/NN ./.
+Ruminating/VBG Reader/NN adds/VBZ a/DT second/JJ pass/NN of/IN attention/NN and/CC a/DT novel/JJ information/NN fusion/NN component/NN to/IN the/DT Bi-Directional/JJ Attention/NN Flow/NNP model/NN (/-LRB- BiDAF/NN )/-RRB- ./.
+We/PRP propose/VBP novel/JJ layer/NN structures/NNS that/WDT construct/VBP an/DT query/NN -/HYPH aware/JJ context/NN vector/NN representation/NN and/CC fuse/NN encoding/VBG representation/NN with/IN intermediate/JJ representation/NN on/IN top/NN of/IN BiDAF/NN model/NN ./.
+We/PRP show/VBP that/IN a/DT multi-hop/JJ attention/NN mechanism/NN can/MD be/VB applied/VBN to/IN a/DT bi-directional/JJ attention/NN structure/NN ./.
+In/IN experiments/NNS on/IN SQuAD/NN ,/, we/PRP find/VBP that/IN the/DT Reader/NN outperforms/VBZ the/DT BiDAF/NN baseline/NN by/IN a/DT substantial/JJ margin/NN ,/, and/CC matches/NNS or/CC surpasses/VBZ the/DT performance/NN of/IN all/DT other/JJ published/VBN systems/NNS ./.

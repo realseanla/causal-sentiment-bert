@@ -1,0 +1,4 @@
+This/DT paper/NN describes/VBZ maxDNN/NNP ,/, a/DT computationally/RB efficient/JJ convolution/NN kernel/NN for/IN deep/JJ learning/NN with/IN the/DT NVIDIA/NNP Maxwell/NNP GPU/NNP ./.
+maxDNN/NNP reaches/VBZ 96.3/CD \/SYM percent/NN computational/JJ efficiency/NN on/IN typical/JJ deep/JJ learning/NN network/NN architectures/NNS using/VBG a/DT single/JJ kernel/NN ./.
+The/DT design/NN combines/VBZ ideas/NNS from/IN cuda/NN -/HYPH convnet2/NN with/IN the/DT Maxas/NNP SGEMM/NNP assembly/NN code/NN ./.
+We/PRP only/RB address/VBP forward/RB propagation/NN (/-LRB- FPROP/NN )/-RRB- operation/NN of/IN the/DT network/NN ,/, but/CC we/PRP believe/VBP that/IN the/DT same/JJ techniques/NNS used/VBN here/RB will/MD be/VB effective/JJ for/IN backward/JJ propagation/NN (/-LRB- BPROP/NN )/-RRB- as/RB well/RB ./.

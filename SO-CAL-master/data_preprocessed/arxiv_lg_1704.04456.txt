@@ -1,0 +1,6 @@
+This/DT paper/NN proposes/VBZ a/DT new/JJ data/NN -/HYPH driven/VBN approach/NN for/IN modeling/VBG detailed/JJ splashes/NNS for/IN liquid/JJ simulations/NNS with/IN neural/JJ networks/NNS ./.
+Our/PRP$ model/NN learns/VBZ to/TO generate/VB small/JJ -/HYPH scale/NN splash/NN detail/NN for/IN fluid/NN -/HYPH implicit/JJ -/HYPH particle/NN methods/NNS using/VBG training/NN data/NNS acquired/VBN from/IN physically/RB accurate/JJ ,/, high/JJ -/HYPH resolution/NN simulations/NNS ./.
+We/PRP use/VBP neural/JJ networks/NNS to/TO model/VB the/DT regression/NN of/IN splash/NN formation/NN using/VBG a/DT classifier/NN together/RB with/IN a/DT velocity/NN modification/NN term/NN ./.
+More/RBR specifically/RB ,/, we/PRP employ/VBP a/DT heteroscedastic/JJ model/NN for/IN the/DT velocity/NN updates/NNS ./.
+Our/PRP$ simulation/NN results/VBZ demonstrate/VBP that/IN our/PRP$ model/NN significantly/RB improves/VBZ visual/JJ fidelity/NN with/IN a/DT large/JJ amount/NN of/IN realistic/JJ droplet/NN formation/NN and/CC yields/NNS splash/VBP detail/NN much/RB more/RBR efficiently/RB than/IN finer/JJR discretizations/NNS ./.
+We/PRP show/VBP this/DT for/IN two/CD different/JJ spatial/JJ scales/NNS and/CC simulation/NN setups/NNS ./.

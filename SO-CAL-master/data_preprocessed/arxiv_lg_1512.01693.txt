@@ -1,0 +1,5 @@
+A/DT deep/JJ learning/NN approach/NN to/IN reinforcement/NN learning/VBG led/VBN to/IN a/DT general/JJ learner/NN able/JJ to/TO train/VB on/IN visual/JJ input/NN to/TO play/VB a/DT variety/NN of/IN arcade/NN games/NNS at/IN the/DT human/JJ and/CC superhuman/JJ levels/NNS ./.
+Its/PRP$ creators/NNS at/IN the/DT Google/NNP DeepMind/NNP 's/POS team/NN called/VBD the/DT approach/NN :/: Deep/JJ Q/NN -/HYPH Network/NN (/-LRB- DQN/NN )/-RRB- ./.
+We/PRP present/VBP an/DT extension/NN of/IN DQN/NNP by/IN "/`` soft/JJ "/'' and/CC "/`` hard/JJ "/'' attention/NN mechanisms/NNS ./.
+Tests/NNS of/IN the/DT proposed/VBN Deep/JJ Attention/NN Recurrent/JJ Q/NN -/HYPH Network/NN (/-LRB- DARQN/NN )/-RRB- algorithm/NN on/IN multiple/JJ Atari/NNP 2600/CD games/NNS show/VBP level/NN of/IN performance/NN superior/JJ to/IN that/DT of/IN DQN/NNP ./.
+Moreover/RB ,/, built/VBN -/HYPH in/RP attention/NN mechanisms/NNS allow/VBP a/DT direct/JJ online/JJ monitoring/NN of/IN the/DT training/NN process/NN by/IN highlighting/VBG the/DT regions/NNS of/IN the/DT game/NN screen/NN the/DT agent/NN is/VBZ focusing/VBG on/IN when/WRB making/VBG decisions/NNS ./.

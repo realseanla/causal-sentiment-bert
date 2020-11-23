@@ -1,0 +1,9 @@
+As/IN a/DT firm/NN varies/VBZ the/DT price/NN of/IN a/DT product/NN ,/, consumers/NNS exhibit/VBP reference/NN effects/NNS ,/, making/VBG purchase/NN decisions/NNS based/VBN not/RB only/RB on/IN the/DT prevailing/VBG price/NN but/CC also/RB the/DT product/NN 's/POS price/NN history/NN ./.
+We/PRP consider/VBP the/DT problem/NN of/IN learning/VBG such/JJ behavioral/JJ patterns/NNS as/IN a/DT monopolist/NN releases/NNS ,/, markets/NNS ,/, and/CC prices/NNS products/NNS ./.
+This/DT context/NN calls/VBZ for/IN pricing/NN decisions/NNS that/WDT intelligently/RB trade/VBP off/RP between/IN maximizing/VBG revenue/NN generated/VBN by/IN a/DT current/JJ product/NN and/CC probing/VBG to/TO gain/VB information/NN for/IN future/JJ benefit/NN ./.
+Due/IN to/IN dependence/NN on/IN price/NN history/NN ,/, realized/VBN demand/NN can/MD reflect/VB delayed/VBN consequences/NNS of/IN earlier/JJR pricing/NN decisions/NNS ./.
+As/IN such/JJ ,/, inference/NN entails/VBZ attribution/NN of/IN outcomes/NNS to/IN prior/JJ decisions/NNS and/CC effective/JJ exploration/NN requires/VBZ planning/NN price/NN sequences/NNS that/WDT yield/VBP informative/JJ future/JJ outcomes/NNS ./.
+Despite/IN the/DT considerable/JJ complexity/NN of/IN this/DT problem/NN ,/, we/PRP offer/VBP a/DT tractable/JJ systematic/JJ approach/NN ./.
+In/IN particular/JJ ,/, we/PRP frame/VBP the/DT problem/NN as/IN one/CD of/IN reinforcement/NN learning/NN and/CC leverage/NN Thompson/NNP sampling/NN ./.
+We/PRP also/RB establish/VBP a/DT regret/NN bound/VBD that/IN provides/VBZ graceful/JJ guarantees/NNS on/IN how/WRB performance/NN improves/VBZ as/IN data/NNS is/VBZ gathered/VBN and/CC how/WRB this/DT depends/VBZ on/IN the/DT complexity/NN of/IN the/DT demand/NN model/NN ./.
+We/PRP illustrate/VBP merits/NNS of/IN the/DT approach/NN through/IN simulations/NNS ./.

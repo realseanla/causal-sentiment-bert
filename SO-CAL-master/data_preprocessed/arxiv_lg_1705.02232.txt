@@ -1,0 +1,7 @@
+Gaussian/JJ mixture/NN model/NN is/VBZ very/RB useful/JJ in/IN many/JJ practical/JJ problems/NNS ./.
+Nevertheless/RB ,/, it/PRP can/MD not/RB be/VB directly/RB generalized/VBN to/IN non/AFX Euclidean/JJ spaces/NNS ./.
+To/TO overcome/VB this/DT problem/NN we/PRP present/VBP a/DT spherical/JJ Gaussian/JJ -/HYPH based/VBN clustering/NN approach/NN for/IN partitioning/NN data/NNS sets/VBZ with/IN respect/NN to/IN arbitrary/JJ dissimilarity/NN measure/NN ./.
+The/DT proposed/JJ method/NN is/VBZ a/DT combination/NN of/IN spherical/JJ Cross-Entropy/JJ Clustering/NN with/IN a/DT generalized/VBN Wards/NNS approach/NN ./.
+The/DT algorithm/NN finds/VBZ the/DT optimal/JJ number/NN of/IN clusters/NNS by/IN automatically/RB removing/VBG groups/NNS which/WDT carry/VBP no/DT information/NN ./.
+Moreover/RB ,/, it/PRP is/VBZ scale/NN invariant/JJ and/CC allows/VBZ for/IN forming/VBG of/IN spherically/RB -/HYPH shaped/VBN clusters/NNS of/IN arbitrary/JJ sizes/NNS ./.
+In/IN order/NN to/TO graphically/RB represent/VB and/CC interpret/VB the/DT results/NNS the/DT notion/NN of/IN Voronoi/NNP diagram/NN was/VBD generalized/VBN to/IN non/AFX Euclidean/JJ spaces/NNS and/CC applied/VBD for/IN introduced/VBN clustering/NN method/NN ./.

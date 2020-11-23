@@ -1,0 +1,4 @@
+The/DT Frank/NNP -/HYPH Wolfe/NNP method/NN (/-LRB- a.k.a./RB conditional/JJ gradient/NN algorithm/NN )/-RRB- for/IN smooth/JJ optimization/NN has/VBZ regained/VBN much/JJ interest/NN in/IN recent/JJ years/NNS in/IN the/DT context/NN of/IN large/JJ scale/NN optimization/NN and/CC machine/NN learning/NN ./.
+A/DT key/JJ advantage/NN of/IN the/DT method/NN is/VBZ that/IN it/PRP avoids/VBZ projections/NNS -/: the/DT computational/JJ bottleneck/NN in/IN many/JJ applications/NNS -/HYPH replacing/VBG it/PRP by/IN a/DT linear/JJ optimization/NN step/NN ./.
+Despite/IN this/DT advantage/NN ,/, the/DT convergence/NN rates/NNS of/IN the/DT FW/NNP method/NN fall/NN behind/IN standard/JJ gradient/NN methods/NNS for/IN most/JJS settings/NNS of/IN interest/NN ./.
+It/PRP is/VBZ an/DT active/JJ line/NN of/IN research/NN to/TO derive/VB faster/RBR FW/NNP algorithms/NNS for/IN various/JJ settings/NNS of/IN convex/NN optimization/NN ./.

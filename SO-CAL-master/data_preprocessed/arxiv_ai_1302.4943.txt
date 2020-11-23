@@ -1,0 +1,7 @@
+Although/IN the/DT usefulness/NN of/IN belief/NN networks/NNS for/IN reasoning/NN under/IN uncertainty/NN is/VBZ widely/RB accepted/VBN ,/, obtaining/VBG numerical/JJ probabilities/NNS that/WDT they/PRP require/VBP is/VBZ still/RB perceived/VBN a/DT major/JJ obstacle/NN ./.
+Often/RB not/RB enough/JJ statistical/JJ data/NN is/VBZ available/JJ to/TO allow/VB for/IN reliable/JJ probability/NN estimation/NN ./.
+Available/JJ information/NN may/MD not/RB be/VB directly/RB amenable/JJ for/IN encoding/VBG in/IN the/DT network/NN ./.
+Finally/RB ,/, domain/NN experts/NNS may/MD be/VB reluctant/JJ to/TO provide/VB numerical/JJ probabilities/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT method/NN for/IN elicitation/NN of/IN probabilities/NNS from/IN a/DT domain/NN expert/NN that/WDT is/VBZ non-invasive/JJ and/CC accommodates/VBZ whatever/WDT probabilistic/JJ information/NN the/DT expert/NN is/VBZ willing/JJ to/TO state/VB ./.
+We/PRP express/VBP all/DT available/JJ information/NN ,/, whether/IN qualitative/JJ or/CC quantitative/JJ in/IN nature/NN ,/, in/IN a/DT canonical/JJ form/NN consisting/VBG of/IN (/-LRB- in/IN )/-RRB- equalities/NNS expressing/VBG constraints/NNS on/IN the/DT hyperspace/NN of/IN possible/JJ joint/JJ probability/NN distributions/NNS ./.
+We/PRP then/RB use/VB this/DT canonical/JJ form/NN to/TO derive/VB second/JJ -/HYPH order/NN probability/NN distributions/NNS over/IN the/DT desired/VBN probabilities/NNS ./.

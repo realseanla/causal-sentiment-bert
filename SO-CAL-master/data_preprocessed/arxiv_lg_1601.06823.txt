@@ -1,0 +1,8 @@
+The/DT recurrent/JJ neural/JJ networks/NNS (/-LRB- RNN/NN )/-RRB- can/MD be/VB used/VBN to/TO solve/VB the/DT sequence/NN to/IN sequence/NN problem/NN ,/, where/WRB both/PDT the/DT input/NN and/CC the/DT output/NN have/VBP sequential/JJ structures/NNS ./.
+Usually/RB there/EX are/VBP some/DT implicit/JJ relations/NNS between/IN the/DT structures/NNS ./.
+However/RB ,/, it/PRP is/VBZ hard/JJ for/IN the/DT common/JJ RNN/NN model/NN to/TO fully/RB explore/VB the/DT relations/NNS between/IN the/DT sequences/NNS ./.
+In/IN this/DT survey/NN ,/, we/PRP introduce/VBP some/DT attention/NN based/VBN RNN/NNP models/NNS which/WDT can/MD focus/VB on/IN different/JJ parts/NNS of/IN the/DT input/NN for/IN each/DT output/NN item/NN ,/, in/IN order/NN to/TO explore/VB and/CC take/VB advantage/NN of/IN the/DT implicit/JJ relations/NNS between/IN the/DT input/NN and/CC the/DT output/NN items/NNS ./.
+The/DT different/JJ attention/NN mechanisms/NNS are/VBP described/VBN in/IN detail/NN ./.
+We/PRP then/RB introduce/VB some/DT applications/NNS in/IN computer/NN vision/NN which/WDT apply/VBP the/DT attention/NN based/VBN RNN/NNP models/NNS ./.
+The/DT superiority/NN of/IN the/DT attention/NN based/VBN RNN/NNP model/NN is/VBZ shown/VBN by/IN the/DT experimental/JJ results/NNS ./.
+At/IN last/RB some/DT future/JJ research/NN directions/NNS are/VBP given/VBN ./.

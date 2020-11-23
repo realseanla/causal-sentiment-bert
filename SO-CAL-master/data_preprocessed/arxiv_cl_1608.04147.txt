@@ -1,0 +1,6 @@
+Semantic/JJ error/NN detection/NN and/CC correction/NN is/VBZ an/DT important/JJ task/NN for/IN applications/NNS such/JJ as/IN fact/NN checking/NN ,/, speech/NN -/HYPH to/IN -/HYPH text/NN or/CC grammatical/JJ error/NN correction/NN ./.
+Current/JJ approaches/NNS generally/RB focus/VBP on/IN relatively/RB shallow/JJ semantics/NNS and/CC do/VBP not/RB account/VB for/IN numeric/JJ quantities/NNS ./.
+Our/PRP$ approach/NN uses/VBZ language/NN models/NNS grounded/VBN in/IN numbers/NNS within/IN the/DT text/NN ./.
+Such/JJ groundings/NNS are/VBP easily/RB achieved/VBN for/IN recurrent/JJ neural/JJ language/NN model/NN architectures/NNS ,/, which/WDT can/MD be/VB further/RB conditioned/VBN on/IN incomplete/JJ background/NN knowledge/NN bases/NNS ./.
+Our/PRP$ evaluation/NN on/IN clinical/JJ reports/NNS shows/VBZ that/IN numerical/JJ grounding/NN improves/VBZ perplexity/NN by/IN 33/CD percent/NN and/CC F1/NN for/IN semantic/JJ error/NN correction/NN by/IN 5/CD points/NNS when/WRB compared/VBN to/IN ungrounded/JJ approaches/NNS ./.
+Conditioning/VBG on/IN a/DT knowledge/NN base/NN yields/NNS further/JJ improvements/NNS ./.

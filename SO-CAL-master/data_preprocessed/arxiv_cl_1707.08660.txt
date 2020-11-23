@@ -1,0 +1,6 @@
+This/DT paper/NN deals/NNS with/IN using/VBG word/NN embedding/NN models/NNS to/TO trace/VB the/DT temporal/JJ dynamics/NNS of/IN semantic/JJ relations/NNS between/IN pairs/NNS of/IN words/NNS ./.
+The/DT set/NN -/HYPH up/NN is/VBZ similar/JJ to/IN the/DT well/NN -/HYPH known/VBN analogies/NNS task/NN ,/, but/CC expanded/VBN with/IN a/DT time/NN dimension/NN ./.
+To/IN this/DT end/NN ,/, we/PRP apply/VBP incremental/JJ updating/NN of/IN the/DT models/NNS with/IN new/JJ training/NN texts/NNS ,/, including/VBG incremental/JJ vocabulary/NN expansion/NN ,/, coupled/VBN with/IN learned/VBN transformation/NN matrices/NNS that/WDT let/VBP us/PRP map/NN between/IN members/NNS of/IN the/DT relation/NN ./.
+The/DT proposed/VBN approach/NN is/VBZ evaluated/VBN on/IN the/DT task/NN of/IN predicting/VBG insurgent/JJ armed/JJ groups/NNS based/VBN on/IN geographical/JJ locations/NNS ./.
+The/DT gold/NN standard/JJ data/NNS for/IN the/DT time/NN span/NN 1994/CD --/: 2010/CD is/VBZ extracted/VBN from/IN the/DT UCDP/NNP Armed/JJ Conflicts/NNS dataset/NN ./.
+The/DT results/NNS show/VBP that/IN the/DT method/NN is/VBZ feasible/JJ and/CC outperforms/VBZ the/DT baselines/NNS ,/, but/CC also/RB that/DT important/JJ work/NN still/RB remains/VBZ to/TO be/VB done/VBN ./.

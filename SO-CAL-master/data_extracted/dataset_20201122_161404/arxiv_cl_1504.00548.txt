@@ -1,0 +1,7 @@
+Distributional models that learn rich semantic word representations are a success story of recent NLP research.
+However, developing models that learn useful representations of phrases and sentences has proved far harder.
+We propose using the definitions found in everyday dictionaries as a means of bridging this gap between lexical and phrasal semantics.
+We train a recurrent neural network (RNN) to map dictionary definitions (phrases) to (lexical) representations of the words those definitions define.
+We present two applications of this architecture: a reverse dictionary, for returning the name of a concept given a definition or description, and a general-knowledge (crossword) question answerer.
+On both tasks, the RNN trained on definitions from a handful of freely-available lexical resources performs comparably or better than existing commercial systems that rely on major task-specific engineering and far greater memory footprints.
+This strong performance highlights the general effectiveness of both neural language models and definition-based training for training machines to understand phrases and sentences.

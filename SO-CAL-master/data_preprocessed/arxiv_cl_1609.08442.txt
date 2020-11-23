@@ -1,0 +1,3 @@
+This/DT paper/NN presents/VBZ a/DT unified/JJ model/NN to/TO perform/VB language/NN and/CC speaker/NN recognition/NN simultaneously/RB and/CC altogether/RB ./.
+The/DT model/NN is/VBZ based/VBN on/IN a/DT multi-task/VB recurrent/JJ neural/JJ network/NN where/WRB the/DT output/NN of/IN one/CD task/NN is/VBZ fed/VBN as/IN the/DT input/NN of/IN the/DT other/JJ ,/, leading/VBG to/IN a/DT collaborative/JJ learning/NN framework/NN that/WDT can/MD improve/VB both/DT language/NN and/CC speaker/NN recognition/NN by/IN borrowing/VBG information/NN from/IN each/DT other/JJ ./.
+Our/PRP$ experiments/NNS demonstrated/VBD that/IN the/DT multi-task/VB model/NN outperforms/VBZ the/DT task/NN -/HYPH specific/JJ models/NNS on/IN both/DT tasks/NNS ./.

@@ -1,0 +1,4 @@
+We consider the task of KBP slot filling -- extracting relation information from newswire documents for knowledge base construction.
+We present our pipeline, which employs Relational Dependency Networks (RDNs) to learn linguistic patterns for relation extraction.
+Additionally, we demonstrate how several components such as weak supervision, word2vec features, joint learning and the use of human advice, can be incorporated in this relational framework.
+We evaluate the different components in the benchmark KBP 2015 task and show that RDNs effectively model a diverse set of features and perform competitively with current state-of-the-art relation extraction.

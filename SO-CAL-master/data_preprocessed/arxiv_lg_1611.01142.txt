@@ -1,0 +1,7 @@
+Ensuring/VBG transportation/NN systems/NNS are/VBP efficient/JJ is/VBZ a/DT priority/NN for/IN modern/JJ society/NN ./.
+Technological/NNP advances/NNS have/VBP made/VBN it/PRP possible/JJ for/IN transportation/NN systems/NNS to/TO collect/VB large/JJ volumes/NNS of/IN varied/JJ data/NNS on/IN an/DT unprecedented/JJ scale/NN ./.
+We/PRP propose/VBP a/DT traffic/NN signal/NN control/NN system/NN which/WDT takes/VBZ advantage/NN of/IN this/DT new/JJ ,/, high/JJ quality/NN data/NNS ,/, with/IN minimal/JJ abstraction/NN compared/VBN to/IN other/JJ proposed/VBN systems/NNS ./.
+We/PRP apply/VBP modern/JJ deep/JJ reinforcement/NN learning/VBG methods/NNS to/TO build/VB a/DT truly/RB adaptive/JJ traffic/NN signal/NN control/NN agent/NN in/IN the/DT traffic/NN microsimulator/NN SUMO/NN ./.
+We/PRP propose/VBP a/DT new/JJ state/NN space/NN ,/, the/DT discrete/JJ traffic/NN state/NN encoding/VBG ,/, which/WDT is/VBZ information/NN dense/JJ ./.
+The/DT discrete/JJ traffic/NN state/NN encoding/VBG is/VBZ used/VBN as/IN input/NN to/IN a/DT deep/JJ convolutional/JJ neural/JJ network/NN ,/, trained/VBN using/VBG Q/NN -/HYPH learning/NN with/IN experience/NN replay/NN ./.
+Our/PRP$ agent/NN was/VBD compared/VBN against/IN a/DT one/CD hidden/VBN layer/NN neural/JJ network/NN traffic/NN signal/NN control/NN agent/NN and/CC reduces/VBZ average/JJ cumulative/JJ delay/NN by/IN 82/CD percent/NN ,/, average/JJ queue/NN length/NN by/IN 66/CD percent/NN and/CC average/JJ travel/NN time/NN by/IN 20/CD percent/NN ./.

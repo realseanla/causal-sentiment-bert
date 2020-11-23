@@ -1,0 +1,11 @@
+Online/JJ reviews/NNS have/VBP increasingly/RB become/VBN a/DT very/RB important/JJ resource/NN for/IN consumers/NNS when/WRB making/VBG purchases/NNS ./.
+Though/IN it/PRP is/VBZ becoming/VBG more/RBR and/CC more/RBR difficult/JJ for/IN people/NNS to/TO make/VB well/RB -/HYPH informed/VBN buying/NN decisions/NNS without/IN being/VBG deceived/VBN by/IN fake/JJ reviews/NNS ./.
+Prior/JJ works/NNS on/IN the/DT opinion/NN spam/NN problem/NN mostly/RB considered/VBN classifying/VBG fake/JJ reviews/NNS using/VBG behavioral/JJ user/NN patterns/NNS ./.
+They/PRP focused/VBD on/IN prolific/JJ users/NNS who/WP write/VBP more/JJR than/IN a/DT couple/NN of/IN reviews/NNS ,/, discarding/VBG one/CD -/HYPH time/NN reviewers/NNS ./.
+The/DT number/NN of/IN singleton/NN reviewers/NNS however/RB is/VBZ expected/VBN to/TO be/VB high/JJ for/IN many/JJ review/NN websites/NNS ./.
+While/IN behavioral/JJ patterns/NNS are/VBP effective/JJ when/WRB dealing/VBG with/IN elite/JJ users/NNS ,/, for/IN one/CD -/HYPH time/NN reviewers/NNS ,/, the/DT review/NN text/NN needs/VBZ to/TO be/VB exploited/VBN ./.
+In/IN this/DT paper/NN we/PRP tackle/VBP the/DT problem/NN of/IN detecting/VBG fake/JJ reviews/NNS written/VBN by/IN the/DT same/JJ person/NN using/VBG multiple/JJ names/NNS ,/, posting/VBG each/DT review/NN under/IN a/DT different/JJ name/NN ./.
+We/PRP propose/VBP two/CD methods/NNS to/TO detect/VB similar/JJ reviews/NNS and/CC show/VB the/DT results/NNS generally/RB outperform/VBP the/DT vectorial/JJ similarity/NN measures/NNS used/VBN in/IN prior/JJ works/NNS ./.
+The/DT first/JJ method/NN extends/VBZ the/DT semantic/JJ similarity/NN between/IN words/NNS to/IN the/DT reviews/NN level/NN ./.
+The/DT second/JJ method/NN is/VBZ based/VBN on/IN topic/NN modeling/NN and/CC exploits/VBZ the/DT similarity/NN of/IN the/DT reviews/NNS topic/NN distributions/NNS using/VBG two/CD models/NNS :/: bag/NN -/HYPH of/IN -/HYPH words/NNS and/CC bag/NN -/HYPH of/IN -/HYPH opinion/NN -/HYPH phrases/NNS ./.
+The/DT experiments/NNS were/VBD conducted/VBN on/IN reviews/NNS from/IN three/CD different/JJ datasets/NNS :/: Yelp/NNP (/-LRB- 57K/NN reviews/NNS )/-RRB- ,/, Trustpilot/NN (/-LRB- 9K/NN reviews/NNS )/-RRB- and/CC Ott/NN dataset/NN (/-LRB- 800/CD reviews/NNS )/-RRB- ./.

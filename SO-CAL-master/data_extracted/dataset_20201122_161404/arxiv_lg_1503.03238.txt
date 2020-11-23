@@ -1,0 +1,7 @@
+Time-series classification is an important problem for the data mining community due to the wide range of application domains involving time-series data.
+A recent paradigm, called shapelets, represents patterns that are highly predictive for the target variable.
+Shapelets are discovered by measuring the prediction accuracy of a set of potential (shapelet) candidates.
+The candidates typically consist of all the segments of a dataset, therefore, the discovery of shapelets is computationally expensive.
+This paper proposes a novel method that avoids measuring the prediction accuracy of similar candidates in Euclidean distance space, through an online clustering pruning technique.
+In addition, our algorithm incorporates a supervised shapelet selection that filters out only those candidates that improve classification accuracy.
+Empirical evidence on 45 datasets from the UCR collection demonstrate that our method is 3-4 orders of magnitudes faster than the fastest existing shapelet-discovery method, while providing better prediction accuracy.

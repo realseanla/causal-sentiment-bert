@@ -1,0 +1,6 @@
+A/DT scheme/NN is/VBZ derived/VBN for/IN learning/VBG connectivity/NN in/IN spiking/VBG neural/JJ networks/NNS ./.
+The/DT scheme/NN learns/VBZ instantaneous/JJ firing/NN rates/NNS that/WDT are/VBP conditional/JJ on/IN the/DT activity/NN in/IN other/JJ parts/NNS of/IN the/DT network/NN ./.
+The/DT scheme/NN is/VBZ independent/JJ of/IN the/DT choice/NN of/IN neuron/NN dynamics/NNS or/CC activation/NN function/NN ,/, and/CC network/NN architecture/NN ./.
+It/PRP involves/VBZ two/CD simple/JJ ,/, online/RB ,/, local/JJ learning/NN rules/NNS that/WDT are/VBP applied/VBN only/RB in/IN response/NN to/IN occurrences/NNS of/IN spike/NN events/NNS ./.
+This/DT scheme/NN provides/VBZ a/DT direct/JJ method/NN for/IN transferring/VBG ideas/NNS between/IN the/DT fields/NNS of/IN deep/JJ learning/NN and/CC computational/JJ neuroscience/NN ./.
+This/DT learning/NN scheme/NN is/VBZ demonstrated/VBN using/VBG a/DT layered/JJ feedforward/NN spiking/VBG neural/JJ network/NN trained/VBN self/NN -/HYPH supervised/VBN on/IN a/DT prediction/NN and/CC classification/NN task/NN for/IN moving/VBG MNIST/JJ images/NNS collected/VBN using/VBG a/DT Dynamic/JJ Vision/NN Sensor/NN ./.

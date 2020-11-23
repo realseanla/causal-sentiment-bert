@@ -1,0 +1,7 @@
+We/PRP present/VBP a/DT concrete/JJ design/NN for/IN Solomonoff/NNP 's/POS incremental/JJ machine/NN learning/NN system/NN suitable/JJ for/IN desktop/NN computers/NNS ./.
+We/PRP use/VBP R5RS/NNP Scheme/NNP and/CC its/PRP$ standard/JJ library/NN with/IN a/DT few/JJ omissions/NNS as/IN the/DT reference/NN machine/NN ./.
+We/PRP introduce/VBP a/DT Levin/NNP Search/NN variant/NN based/VBN on/IN a/DT stochastic/JJ Context/NNP Free/NNP Grammar/NNP together/RB with/IN new/JJ update/NN algorithms/NNS that/WDT use/VBP the/DT same/JJ grammar/NN as/IN a/DT guiding/VBG probability/NN distribution/NN for/IN incremental/JJ machine/NN learning/NN ./.
+The/DT updates/NNS include/VBP adjusting/VBG production/NN probabilities/NNS ,/, re-using/VBG previous/JJ solutions/NNS ,/, learning/VBG programming/NN idioms/NNS and/CC discovery/NN of/IN frequent/JJ subprograms/NNS ./.
+The/DT issues/NNS of/IN extending/VBG the/DT a/FW priori/FW probability/NN distribution/NN and/CC bootstrapping/NN are/VBP discussed/VBN ./.
+We/PRP have/VBP implemented/VBN a/DT good/JJ portion/NN of/IN the/DT proposed/VBN algorithms/NNS ./.
+Experiments/NNS with/IN toy/NN problems/NNS show/VBP that/IN the/DT update/NN algorithms/NNS work/VBP as/IN expected/VBN ./.

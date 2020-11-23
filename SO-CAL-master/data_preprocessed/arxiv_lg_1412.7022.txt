@@ -1,0 +1,5 @@
+Inverse/JJ problems/NNS ,/, such/JJ as/IN denoising/NN and/CC source/NN separation/NN ,/, are/VBP of/IN great/JJ interest/NN in/IN audio/NN and/CC image/NN processing/NN ./.
+The/DT classical/JJ model/NN -/HYPH based/VBN approach/NN uses/VBZ problem/NN domain/NN knowledge/NN to/TO define/VB an/DT appropriate/JJ objective/JJ function/NN requiring/VBG in/IN general/JJ an/DT iterative/JJ inference/NN algorithm/NN ./.
+In/IN the/DT case/NN of/IN monoaural/JJ speech/NN separation/NN ,/, we/PRP require/VBP robust/JJ signal/NN models/NNS that/WDT integrate/VBP information/NN across/IN long/JJ temporal/JJ contexts/NNS while/IN removing/VBG uninformative/JJ variability/NN ./.
+This/DT is/VBZ achieved/VBN with/IN a/DT pyramid/NN of/IN wavelet/NN scattering/VBG operators/NNS ,/, which/WDT generalizes/VBZ Constant/JJ Q/NN Transforms/VBZ (/-LRB- CQT/NN )/-RRB- with/IN extra/JJ layers/NNS of/IN convolution/NN and/CC complex/JJ modulus/NN ./.
+Learning/VBG Non-Negative/JJ Matrix/NNP Factorizations/NNPS at/IN different/JJ resolutions/NNS improves/VBZ source/NN separation/NN results/VBZ over/IN fixed/VBN -/HYPH resolution/NN methods/NNS ./.

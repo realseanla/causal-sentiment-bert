@@ -1,0 +1,8 @@
+The convolutional neural network (ConvNet or CNN) is a powerful discriminative learning machine.
+In this paper, we show that a generative random field model that we call generative ConvNet can be derived from the discriminative ConvNet.
+The probability distribution of the generative ConvNet model is in the form of exponential tilting of a reference distribution.
+Assuming re-lu non-linearity and Gaussian white noise reference distribution, we show that the generative ConvNet model contains a representational structure with multiple layers of binary activation variables.
+The model is non-Gaussian, or more precisely, piecewise Gaussian, where each piece is determined by an instantiation of the binary activation variables that reconstruct the mean of the Gaussian piece.
+The Langevin dynamics for synthesis is driven by the reconstruction error, and the corresponding gradient descent dynamics converges to a local energy minimum that is auto-encoding.
+As for learning, we show that the contrastive divergence learning tends to reconstruct the observed images.
+Finally, we show that the maximum likelihood learning algorithm can generate realistic natural images.

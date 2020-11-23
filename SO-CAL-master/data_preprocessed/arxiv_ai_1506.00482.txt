@@ -1,0 +1,5 @@
+This/DT work/NN is/VBZ concerned/VBN with/IN regular/JJ languages/NNS defined/VBN over/IN large/JJ alphabets/NNS ,/, either/CC infinite/JJ or/CC just/RB too/RB large/JJ to/TO be/VB expressed/VBN enumeratively/RB ./.
+We/PRP define/VBP a/DT generic/JJ model/NN where/WRB transitions/NNS are/VBP labeled/VBN by/IN elements/NNS of/IN a/DT finite/JJ partition/NN of/IN the/DT alphabet/NN ./.
+We/PRP then/RB extend/VBP Angluin/NNP 's/POS L/NN */NFP algorithm/NN for/IN learning/VBG regular/JJ languages/NNS from/IN examples/NNS for/IN such/JJ automata/NN ./.
+We/PRP have/VBP implemented/VBN this/DT algorithm/NN and/CC we/PRP demonstrate/VBP its/PRP$ behavior/NN where/WRB the/DT alphabet/NN is/VBZ a/DT subset/NN of/IN the/DT natural/JJ or/CC real/JJ numbers/NNS ./.
+We/PRP sketch/VBP the/DT extension/NN of/IN the/DT algorithm/NN to/IN a/DT class/NN of/IN languages/NNS over/IN partially/RB ordered/VBN alphabets/NNS ./.

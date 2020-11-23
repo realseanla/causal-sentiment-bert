@@ -1,0 +1,7 @@
+For classification problems, twin support vector machine (TSVM) with nonparallel hyperplanes has been shown to be more powerful than support vector machine (SVM).
+However, it is time consuming and insufficient memory to deal with large scale problems due to calculating the inverse of matrices.
+In this paper, we propose an efficient stochastic gradient twin support vector machine (SGTSVM) based on stochastic gradient descent algorithm (SGD).
+As far as now, it is the first time that SGD is applied to TSVM though there have been some variants where SGD was applied to SVM (SGSVM).
+Compared with SGSVM, our SGTSVM is more stable, and its convergence is also proved.
+In addition, its simple nonlinear version is also presented.
+Experimental results on several benchmark and large scale datasets have shown that the performance of our SGTSVM is comparable to the current classifiers with a very fast learning speed.

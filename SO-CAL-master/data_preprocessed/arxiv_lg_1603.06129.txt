@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT method/NN for/IN automatically/RB generating/VBG repair/NN feedback/NN for/IN syntax/NN errors/NNS for/IN introductory/JJ programming/NN problems/NNS ./.
+Syntax/NN errors/NNS constitute/VBP one/CD of/IN the/DT largest/JJS classes/NNS of/IN errors/NNS (/-LRB- 34/CD percent/NN )/-RRB- in/IN our/PRP$ dataset/NN of/IN student/NN submissions/NNS obtained/VBN from/IN a/DT MOOC/NN course/NN on/IN edX/NN ./.
+The/DT previous/JJ techniques/NNS for/IN generating/VBG automated/VBN feed/NN -/HYPH back/NN on/IN programming/NN assignments/NNS have/VBP focused/VBN on/IN functional/JJ correctness/NN and/CC style/NN considerations/NNS of/IN student/NN programs/NNS ./.
+These/DT techniques/NNS analyze/VBP the/DT program/NN AST/NNP of/IN the/DT program/NN and/CC then/RB perform/VB some/DT dynamic/JJ and/CC symbolic/JJ analyses/NNS to/TO compute/VB repair/NN feedback/NN ./.
+Unfortunately/RB ,/, it/PRP is/VBZ not/RB possible/JJ to/TO generate/VB ASTs/NNS for/IN student/NN pro-/VBP grams/NNS with/IN syntax/NN errors/NNS and/CC therefore/RB the/DT previous/JJ feedback/NN techniques/NNS are/VBP not/RB applicable/JJ in/IN repairing/VBG syntax/NN errors/NNS ./.

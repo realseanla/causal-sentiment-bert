@@ -1,0 +1,10 @@
+In/IN this/DT paper/NN ,/, we/PRP developed/VBD the/DT system/NN for/IN recognizing/VBG the/DT orchid/NN species/NNS by/IN using/VBG the/DT images/NNS of/IN flower/NN ./.
+We/PRP used/VBD MSRM/NNP (/-LRB- Maximal/JJ Similarity/NN based/VBN on/IN Region/NN Merging/NN )/-RRB- method/NN for/IN segmenting/VBG the/DT flower/NN object/NN from/IN the/DT background/NN and/CC extracting/VBG the/DT shape/NN feature/NN such/JJ as/IN the/DT distance/NN from/IN the/DT edge/NN to/IN the/DT centroid/JJ point/NN of/IN the/DT flower/NN ,/, aspect/NN ratio/NN ,/, roundness/NN ,/, moment/NN invariant/JJ ,/, fractal/JJ dimension/NN and/CC also/RB extract/NN color/NN feature/NN ./.
+We/PRP used/VBD HSV/NNP color/NN feature/NN with/IN ignoring/VBG the/DT V/NN value/NN ./.
+To/TO retrieve/VB the/DT image/NN ,/, we/PRP used/VBD Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- method/NN ./.
+Orchid/NN is/VBZ a/DT unique/JJ flower/NN ./.
+It/PRP has/VBZ a/DT part/NN of/IN flower/NN called/VBN lip/NN (/-LRB- labellum/NN )/-RRB- that/WDT distinguishes/VBZ it/PRP from/IN other/JJ flowers/NNS even/RB from/IN other/JJ types/NNS of/IN orchids/NNS ./.
+Thus/RB ,/, in/IN this/DT paper/NN ,/, we/PRP proposed/VBD to/TO do/VB feature/NN extraction/NN not/RB only/RB on/IN flower/NN region/NN but/CC also/RB on/IN lip/NN (/-LRB- labellum/NN )/-RRB- region/NN ./.
+The/DT result/NN shows/VBZ that/IN our/PRP$ proposed/JJ method/NN can/MD increase/VB the/DT accuracy/NN value/NN of/IN content/NN based/VBN flower/NN image/NN retrieval/NN for/IN orchid/NN species/NNS up/IN to/IN $/$ \/CD pm/NN $/$ 14/CD percent/NN ./.
+The/DT most/RBS dominant/JJ feature/NN is/VBZ Centroid/NNP Contour/NNP Distance/NNP ,/, Moment/NNP Invariant/NNP and/CC HSV/NNP Color/NNP ./.
+The/DT system/NN accuracy/NN is/VBZ 85,33/CD percent/NN in/IN validation/NN phase/NN and/CC 79,33/CD percent/NN in/IN testing/NN phase/NN ./.

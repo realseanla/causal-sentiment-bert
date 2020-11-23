@@ -1,0 +1,8 @@
+Compared/VBN with/IN automatic/JJ speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- ,/, the/DT human/JJ auditory/JJ system/NN is/VBZ more/RBR adept/JJ at/IN handling/VBG noise/NN -/HYPH adverse/JJ situations/NNS ,/, including/VBG environmental/JJ noise/NN and/CC channel/NN distortion/NN ./.
+To/TO mimic/VB this/DT adeptness/NN ,/, auditory/JJ models/NNS have/VBP been/VBN widely/RB incorporated/VBN in/IN ASR/NNP systems/NNS to/TO improve/VB their/PRP$ robustness/NN ./.
+This/DT paper/NN proposes/VBZ a/DT novel/JJ auditory/JJ model/NN which/WDT incorporates/VBZ psychoacoustics/NNS and/CC otoacoustic/JJ emissions/NNS (/-LRB- OAEs/NNS )/-RRB- into/IN ASR/NNP ./.
+In/IN particular/JJ ,/, we/PRP successfully/RB implement/VB the/DT frequency/NN -/HYPH dependent/JJ property/NN of/IN psychoacoustic/JJ models/NNS and/CC effectively/RB improve/VB resulting/VBG system/NN performance/NN ./.
+We/PRP also/RB present/VBP a/DT novel/NN double/RB -/HYPH transform/VB spectrum/NN -/HYPH analysis/NN technique/NN ,/, which/WDT can/MD qualitatively/RB predict/VB ASR/NNP performance/NN for/IN different/JJ noise/NN types/NNS ./.
+Detailed/JJ theoretical/JJ analysis/NN is/VBZ provided/VBN to/TO show/VB the/DT effectiveness/NN of/IN the/DT proposed/VBN algorithm/NN ./.
+Experiments/NNS are/VBP carried/VBN out/RP on/IN the/DT AURORA2/NN database/NN and/CC show/VBP that/IN the/DT word/NN recognition/NN rate/NN using/VBG our/PRP$ proposed/VBN feature/NN extraction/NN method/NN is/VBZ significantly/RB increased/VBN over/IN the/DT baseline/NN ./.
+Given/VBN models/NNS trained/VBN with/IN clean/JJ speech/NN ,/, our/PRP$ proposed/JJ method/NN achieves/VBZ up/RP to/IN 85.39/CD percent/NN word/NN recognition/NN accuracy/NN on/IN noisy/JJ data/NNS ./.

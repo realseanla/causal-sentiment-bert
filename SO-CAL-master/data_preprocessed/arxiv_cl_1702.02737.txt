@@ -1,0 +1,12 @@
+In/IN this/DT work/NN ,/, we/PRP present/VBP an/DT approach/NN for/IN mining/NN user/NN preferences/NNS and/CC recommendation/NN based/VBN on/IN reviews/NNS ./.
+There/EX have/VBP been/VBN various/JJ studies/NNS worked/VBD on/IN recommendation/NN problem/NN ./.
+However/RB ,/, most/JJS of/IN the/DT studies/NNS beyond/IN one/CD aspect/NN user/NN generated/VBN -/HYPH content/NN such/JJ as/IN user/NN ratings/NNS ,/, user/NN feedback/NN and/CC so/RB on/IN to/IN state/NN user/NN preferences/NNS ./.
+There/EX is/VBZ a/DT prob/NN -/HYPH lem/NN in/IN one/CD aspect/NN mining/NN is/VBZ lacking/VBG for/IN stating/VBG user/NN preferences/NNS ./.
+As/IN a/DT demonstration/NN ,/, in/IN collaborative/JJ filter/NN recommendation/NN ,/, we/PRP try/VBP to/TO figure/VB out/RP the/DT preference/NN trend/NN of/IN crowded/JJ users/NNS ,/, then/RB use/VB that/DT trend/NN to/TO predict/VB current/JJ user/NN preference/NN ./.
+Therefore/RB ,/, there/EX is/VBZ a/DT gap/NN between/IN real/JJ user/NN preferences/NNS and/CC the/DT trend/NN of/IN the/DT crowded/JJ people/NNS ./.
+Additionally/RB ,/, user/NN preferences/NNS can/MD be/VB addressed/VBN from/IN mining/NN user/NN reviews/NNS since/IN user/NN often/RB comment/VBP about/IN various/JJ aspects/NNS of/IN products/NNS ./.
+To/TO solve/VB this/DT problem/NN ,/, we/PRP mainly/RB focus/VBP on/IN mining/NN product/NN aspects/NNS and/CC user/NN aspects/NNS inside/IN user/NN reviews/NNS to/TO directly/RB state/VB user/NN preferences/NNS ./.
+We/PRP also/RB take/VBP into/IN account/NN Social/NNP Network/NNP Analysis/NNP for/IN cold/JJ -/HYPH start/NN item/NN problem/NN ./.
+With/IN cold/JJ -/HYPH start/NN user/NN problem/NN ,/, collaborative/JJ filter/NN algorithm/NN is/VBZ employed/VBN in/IN our/PRP$ work/NN ./.
+The/DT framework/NN is/VBZ general/JJ enough/RB to/TO be/VB applied/VBN to/IN different/JJ recommendation/NN domains/NNS ./.
+Theoretically/RB ,/, our/PRP$ method/NN would/MD achieve/VB a/DT significant/JJ enhancement/NN ./.

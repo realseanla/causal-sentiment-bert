@@ -1,0 +1,7 @@
+The/DT null/JJ linear/JJ discriminant/JJ analysis/NN method/NN is/VBZ a/DT competitive/JJ approach/NN for/IN dimensionality/NN reduction/NN ./.
+The/DT implementation/NN of/IN this/DT method/NN ,/, however/RB ,/, is/VBZ computationally/RB expensive/JJ ./.
+Recently/RB ,/, a/DT fast/JJ implementation/NN of/IN null/JJ linear/JJ discriminant/JJ analysis/NN method/NN using/VBG random/JJ matrix/NN multiplication/NN with/IN scatter/NN matrices/NNS was/VBD proposed/VBN ./.
+However/RB ,/, if/IN the/DT random/JJ matrix/NN is/VBZ chosen/VBN arbitrarily/RB ,/, the/DT orientation/NN matrix/NN may/MD be/VB rank/NN deficient/JJ ,/, and/CC some/DT useful/JJ discriminant/JJ information/NN will/MD be/VB lost/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP how/WRB to/TO choose/VB the/DT random/JJ matrix/NN properly/RB ,/, such/JJ that/IN the/DT two/CD criteria/NNS of/IN the/DT null/JJ LDA/NN method/NN are/VBP satisfied/JJ theoretically/RB ./.
+We/PRP give/VBP a/DT necessary/JJ and/CC sufficient/JJ condition/NN to/TO guarantee/VB full/JJ column/NN rank/NN of/IN the/DT orientation/NN matrix/NN ./.
+Moreover/RB ,/, the/DT geometric/JJ characterization/NN of/IN the/DT condition/NN is/VBZ also/RB described/VBN ./.

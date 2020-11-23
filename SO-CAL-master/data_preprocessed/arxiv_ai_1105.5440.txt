@@ -1,0 +1,7 @@
+We/PRP present/VBP a/DT new/JJ approach/NN to/IN path/NN planning/NN ,/, called/VBD the/DT "/`` Ariadne/NNP 's/POS clew/NN algorithm/NN "/'' ./.
+It/PRP is/VBZ designed/VBN to/TO find/VB paths/NNS in/IN high/JJ -/HYPH dimensional/JJ continuous/JJ spaces/NNS and/CC applies/VBZ to/IN robots/NNS with/IN many/JJ degrees/NNS of/IN freedom/NN in/IN static/NN ,/, as/RB well/RB as/IN dynamic/JJ environments/NNS -/HYPH ones/NNS where/WRB obstacles/NNS may/MD move/VB ./.
+The/DT Ariadne/NNP 's/POS clew/NN algorithm/NN comprises/VBZ two/CD sub-algorithms/NNS ,/, called/VBN Search/NN and/CC Explore/VB ,/, applied/VBN in/IN an/DT interleaved/VBN manner/NN ./.
+Explore/VB builds/VBZ a/DT representation/NN of/IN the/DT accessible/JJ space/NN while/IN Search/NN looks/VBZ for/IN the/DT target/NN ./.
+Both/DT are/VBP posed/VBN as/IN optimization/NN problems/NNS ./.
+We/PRP describe/VBP a/DT real/JJ implementation/NN of/IN the/DT algorithm/NN to/TO plan/VB paths/NNS for/IN a/DT six/CD degrees/NNS of/IN freedom/NN arm/NN in/IN a/DT dynamic/JJ environment/NN where/WRB another/DT six/CD degrees/NNS of/IN freedom/NN arm/NN is/VBZ used/VBN as/IN a/DT moving/VBG obstacle/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN a/DT path/NN is/VBZ found/VBN in/IN about/IN one/CD second/RB without/IN any/DT pre-processing/NN ./.

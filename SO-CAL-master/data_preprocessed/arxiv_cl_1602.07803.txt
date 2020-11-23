@@ -1,0 +1,6 @@
+Word/NNP completion/NN and/CC word/NN prediction/NN are/VBP two/CD important/JJ phenomena/NNS in/IN typing/VBG that/DT benefit/NN users/NNS who/WP type/VBP using/VBG keyboard/NN or/CC other/JJ similar/JJ devices/NNS ./.
+They/PRP can/MD have/VB profound/JJ impact/NN on/IN the/DT typing/NN of/IN disable/VB people/NNS ./.
+Our/PRP$ work/NN is/VBZ based/VBN on/IN word/NN prediction/NN on/IN Bangla/NNP sentence/NN by/IN using/VBG stochastic/JJ ,/, i.e./FW N/NN -/HYPH gram/NN language/NN model/NN such/JJ as/IN unigram/NN ,/, bigram/NN ,/, trigram/NN ,/, deleted/VBN Interpolation/NNP and/CC backoff/NN models/NNS for/IN auto/NN completing/VBG a/DT sentence/NN by/IN predicting/VBG a/DT correct/JJ word/NN in/IN a/DT sentence/NN which/WDT saves/VBZ time/NN and/CC keystrokes/NNS of/IN typing/VBG and/CC also/RB reduces/VBZ misspelling/NN ./.
+We/PRP use/VBP large/JJ data/NNS corpus/NN of/IN Bangla/NNP language/NN of/IN different/JJ word/NN types/NNS to/TO predict/VB correct/JJ word/NN with/IN the/DT accuracy/NN as/RB much/RB as/IN possible/JJ ./.
+We/PRP have/VBP found/VBN promising/JJ results/NNS ./.
+We/PRP hope/VBP that/IN our/PRP$ work/NN will/MD impact/VB on/IN the/DT baseline/NN for/IN automated/VBN Bangla/NN typing/NN ./.

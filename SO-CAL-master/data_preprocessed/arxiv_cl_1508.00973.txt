@@ -1,0 +1,7 @@
+Hierarchical/JJ latent/JJ tree/NN analysis/NN (/-LRB- HLTA/NN )/-RRB- is/VBZ recently/RB proposed/VBN as/IN a/DT new/JJ method/NN for/IN topic/NN detection/NN ./.
+It/PRP differs/VBZ fundamentally/RB from/IN the/DT LDA/NN -/HYPH based/VBN methods/NNS in/IN terms/NNS of/IN topic/NN definition/NN ,/, topic/NN -/HYPH document/NN relationship/NN ,/, and/CC learning/NN method/NN ./.
+It/PRP has/VBZ been/VBN shown/VBN to/TO discover/VB significantly/RB more/JJR coherent/JJ topics/NNS and/CC better/JJR topic/NN hierarchies/NNS ./.
+However/RB ,/, HLTA/NNP relies/VBZ on/IN the/DT Expectation/NN -/HYPH Maximization/NN (/-LRB- EM/NN )/-RRB- algorithm/NN for/IN parameter/NN estimation/NN and/CC hence/RB is/VBZ not/RB efficient/JJ enough/RB to/TO deal/VB with/IN large/JJ datasets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT method/NN to/TO drastically/RB speed/VB up/RP HLTA/NN using/VBG a/DT technique/NN inspired/VBN by/IN recent/JJ advances/NNS in/IN the/DT moments/NNS method/NN ./.
+Empirical/JJ experiments/NNS show/VBP that/IN our/PRP$ method/NN greatly/RB improves/VBZ the/DT efficiency/NN of/IN HLTA/NNP ./.
+It/PRP is/VBZ as/IN efficient/JJ as/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN LDA/NN -/HYPH based/VBN method/NN for/IN hierarchical/JJ topic/NN detection/NN and/CC finds/VBZ substantially/RB better/JJR topics/NNS and/CC topic/NN hierarchies/NNS ./.

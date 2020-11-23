@@ -1,0 +1,8 @@
+Semantic/JJ parsing/VBG has/VBZ emerged/VBN as/IN a/DT significant/JJ and/CC powerful/JJ paradigm/NN for/IN natural/JJ language/NN interface/NN and/CC question/NN answering/VBG systems/NNS ./.
+Traditional/JJ methods/NNS of/IN building/VBG a/DT semantic/JJ parser/NN rely/VBP on/IN high/JJ -/HYPH quality/NN lexicons/NNS ,/, hand/NN -/HYPH crafted/VBN grammars/NNS and/CC linguistic/JJ features/NNS which/WDT are/VBP limited/VBN by/IN applied/VBN domain/NN or/CC representation/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT general/JJ approach/NN to/TO learn/VB from/IN denotations/NNS based/VBN on/IN Seq2Seq/NN model/NN augmented/VBN with/IN attention/NN mechanism/NN ./.
+We/PRP encode/VBP input/NN sequence/NN into/IN vectors/NNS and/CC use/VB dynamic/JJ programming/NN to/TO infer/VB candidate/NN logical/JJ forms/NNS ./.
+We/PRP utilize/VBP the/DT fact/NN that/IN similar/JJ utterances/NNS should/MD have/VB similar/JJ logical/JJ forms/NNS to/TO help/VB reduce/VB the/DT searching/VBG space/NN ./.
+Under/IN our/PRP$ learning/NN policy/NN ,/, the/DT Seq2Seq/NN model/NN can/MD learn/VB mappings/NNS gradually/RB with/IN noises/NNS ./.
+Curriculum/NN learning/NN is/VBZ adopted/VBN to/TO make/VB the/DT learning/NN smoother/JJR ./.
+We/PRP test/VBP our/PRP$ method/NN on/IN the/DT arithmetic/NN domain/NN which/WDT shows/VBZ our/PRP$ model/NN can/MD successfully/RB infer/VB the/DT correct/JJ logical/JJ forms/NNS and/CC learn/VB the/DT word/NN meanings/NNS ,/, compositionality/NN and/CC operation/NN orders/NNS simultaneously/RB ./.

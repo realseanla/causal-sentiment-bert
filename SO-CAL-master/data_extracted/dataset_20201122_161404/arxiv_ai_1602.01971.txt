@@ -1,0 +1,7 @@
+Usually, routing models in pedestrian dynamics assume that agents have fulfilled and global knowledge about the building's structure.
+However, they neglect the fact that pedestrians possess no or only parts of information about their position relative to final exits and possible routes leading to them.
+To get a more realistic description we introduce the systematics of gathering and using spatial knowledge.
+A new wayfinding model for pedestrian dynamics is proposed.
+The model defines for every pedestrian an individual knowledge representation implying inaccuracies and uncertainties.
+In addition, knowledge-driven search strategies are introduced.
+The presented concept is tested on a fictive example scenario.

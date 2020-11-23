@@ -1,0 +1,7 @@
+Anomaly detection is an important task in many real world applications such as fraud detection, suspicious activity detection, health care monitoring etc.
+In this paper, we tackle this problem from supervised learning perspective in online learning setting.
+We maximize well known \emph{Gmean} metric for class-imbalance learning in online learning framework.
+Specifically, we show that maximizing \emph{Gmean} is equivalent to minimizing a convex surrogate loss function and based on that we propose novel online learning algorithm for anomaly detection.
+We then show, by extensive experiments, that the performance of the proposed algorithm with respect to $sum$ metric is as good as a recently proposed Cost-Sensitive Online Classification(CSOC) algorithm for class-imbalance learning over various benchmarked data sets while keeping running time close to the perception algorithm.
+Our another conclusion is that other competitive online algorithms do not perform consistently over data sets of varying size.
+This shows the potential applicability of our proposed approach.

@@ -1,0 +1,6 @@
+This/DT work/NN presents/VBZ a/DT new/JJ algorithm/NN for/IN training/NN recurrent/JJ neural/JJ networks/NNS (/-LRB- although/IN ideas/NNS are/VBP applicable/JJ to/IN feedforward/NN networks/NNS as/RB well/RB )/-RRB- ./.
+The/DT algorithm/NN is/VBZ derived/VBN from/IN a/DT theory/NN in/IN nonconvex/JJ optimization/NN related/VBN to/IN the/DT diffusion/NN equation/NN ./.
+The/DT contributions/NNS made/VBN in/IN this/DT work/NN are/VBP two/CD fold/RB ./.
+First/RB ,/, we/PRP show/VBP how/WRB some/DT seemingly/RB disconnected/JJ mechanisms/NNS used/VBN in/IN deep/JJ learning/NN such/JJ as/IN smart/JJ initialization/NN ,/, annealed/VBN learning/NN rate/NN ,/, layerwise/NN pretraining/NN ,/, and/CC noise/NN injection/NN (/-LRB- as/RB done/VBN in/IN dropout/NN and/CC SGD/NN )/-RRB- arise/VBP naturally/RB and/CC automatically/RB from/IN this/DT framework/NN ,/, without/IN manually/RB crafting/VBG them/PRP into/IN the/DT algorithms/NNS ./.
+Second/RB ,/, we/PRP present/VBP some/DT preliminary/JJ results/NNS on/IN comparing/VBG the/DT proposed/JJ method/NN against/IN SGD/NNP ./.
+It/PRP turns/VBZ out/RP that/IN the/DT new/JJ algorithm/NN can/MD achieve/VB similar/JJ level/NN of/IN generalization/NN accuracy/NN of/IN SGD/NNP in/IN much/JJ fewer/JJR number/NN of/IN epochs/NNS ./.

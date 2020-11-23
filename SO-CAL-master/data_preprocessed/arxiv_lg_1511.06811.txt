@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT self/NN -/HYPH supervised/JJ framework/NN that/WDT learns/VBZ to/IN group/NN visual/JJ entities/NNS based/VBN on/IN their/PRP$ rate/NN of/IN co-occurrence/NN in/IN space/NN and/CC time/NN ./.
+To/TO model/VB statistical/JJ dependencies/NNS between/IN the/DT entities/NNS ,/, we/PRP set/VBD up/RP a/DT simple/JJ binary/JJ classification/NN problem/NN in/IN which/WDT the/DT goal/NN is/VBZ to/TO predict/VB if/IN two/CD visual/JJ primitives/NNS occur/VBP in/IN the/DT same/JJ spatial/JJ or/CC temporal/JJ context/NN ./.
+We/PRP apply/VBP this/DT framework/NN to/IN three/CD domains/NNS :/: learning/VBG patch/NN affinities/NNS from/IN spatial/JJ adjacency/NN in/IN images/NNS ,/, learning/VBG frame/NN affinities/NNS from/IN temporal/JJ adjacency/NN in/IN videos/NNS ,/, and/CC learning/VBG photo/NN affinities/NNS from/IN geospatial/JJ proximity/NN in/IN image/NN collections/NNS ./.
+We/PRP demonstrate/VBP that/IN in/IN each/DT case/NN the/DT learned/VBN affinities/NNS uncover/VBP meaningful/JJ semantic/JJ groupings/NNS ./.
+From/IN patch/NN affinities/NNS we/PRP generate/VBP object/NN proposals/NNS that/WDT are/VBP competitive/JJ with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN supervised/VBD methods/NNS ./.
+From/IN frame/NN affinities/NNS we/PRP generate/VBP movie/NN scene/NN segmentations/NNS that/WDT correlate/VBP well/RB with/IN DVD/NN chapter/NN structure/NN ./.
+Finally/RB ,/, from/IN geospatial/JJ affinities/NNS we/PRP learn/VBP groups/NNS that/WDT relate/VBP well/RB to/IN semantic/JJ place/NN categories/NNS ./.

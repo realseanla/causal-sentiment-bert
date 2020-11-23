@@ -1,0 +1,7 @@
+This study suggests a new prediction model for chaotic time series inspired by the brain emotional learning of mammals.
+We describe the structure and function of this model, which is referred to as BELPM (Brain Emotional Learning-Based Prediction Model).
+Structurally, the model mimics the connection between the regions of the limbic system, and functionally it uses weighted k nearest neighbors to imitate the roles of those regions.
+The learning algorithm of BELPM is defined using steepest descent (SD) and the least square estimator (LSE).
+Two benchmark chaotic time series, Lorenz and Henon, have been used to evaluate the performance of BELPM.
+The obtained results have been compared with those of other prediction methods.
+The results show that BELPM has the capability to achieve a reasonable accuracy for long-term prediction of chaotic time series, using a limited amount of training data and a reasonably low computational time.

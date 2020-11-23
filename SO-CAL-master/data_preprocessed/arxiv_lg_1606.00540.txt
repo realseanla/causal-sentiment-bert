@@ -1,0 +1,6 @@
+Pretraining/NN is/VBZ widely/RB used/VBN in/IN deep/JJ neutral/JJ network/NN and/CC one/CD of/IN the/DT most/RBS famous/JJ pretraining/NN models/NNS is/VBZ Deep/JJ Belief/NNP Network/NNP (/-LRB- DBN/NNP )/-RRB- ./.
+The/DT optimization/NN formulas/NNS are/VBP different/JJ during/IN the/DT pretraining/NN process/NN for/IN different/JJ pretraining/NN models/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP pretrained/VBD deep/JJ neutral/JJ network/NN by/IN different/JJ pretraining/NN models/NNS and/CC hence/RB investigated/VBD the/DT difference/NN between/IN DBN/NNP and/CC Stacked/NNP Denoising/NNP Autoencoder/NNP (/-LRB- SDA/NNP )/-RRB- when/WRB used/VBN as/IN pretraining/NN model/NN ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN DBN/NNP get/VBP a/DT better/JJR initial/JJ model/NN ./.
+However/RB the/DT model/NN converges/VBZ to/IN a/DT relatively/RB worse/JJR model/NN after/IN the/DT finetuning/NN process/NN ./.
+Yet/RB after/IN pretrained/VBN by/IN SDA/NNP for/IN the/DT second/JJ time/NN the/DT model/NN converges/VBZ to/IN a/DT better/JJR model/NN if/IN finetuned/VBN ./.

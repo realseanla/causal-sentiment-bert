@@ -1,0 +1,16 @@
+Today/NN all/DT kind/NN of/IN information/NN is/VBZ getting/VBG digitized/VBN and/CC along/RB with/IN all/PDT this/DT digitization/NN ,/, the/DT huge/JJ archive/NN of/IN various/JJ kinds/NNS of/IN documents/NNS is/VBZ being/VBG digitized/VBN too/RB ./.
+We/PRP know/VBP that/IN ,/, Optical/NNP Character/NNP Recognition/NNP is/VBZ the/DT method/NN through/IN which/WDT ,/, newspapers/NNS and/CC other/JJ paper/NN documents/NNS convert/VBP into/IN digital/JJ resources/NNS ./.
+But/CC ,/, it/PRP is/VBZ a/DT fact/NN that/IN this/DT method/NN works/VBZ on/IN texts/NNS only/RB ./.
+As/IN a/DT result/NN ,/, if/IN we/PRP try/VBP to/TO process/VB any/DT document/NN which/WDT contains/VBZ non-textual/JJ zones/NNS ,/, then/RB we/PRP will/MD get/VB garbage/NN texts/NNS as/IN output/NN ./.
+That/DT is/VBZ why/WRB ;/: in/IN order/NN to/TO digitize/VB documents/NNS properly/RB they/PRP should/MD be/VB prepossessed/VBN carefully/RB ./.
+And/CC while/IN preprocessing/VBG ,/, segmenting/VBG document/NN in/IN different/JJ regions/NNS according/VBG to/IN the/DT category/NN properly/RB is/VBZ most/RBS important/JJ ./.
+But/CC ,/, the/DT Optical/NNP Character/NNP Recognition/NNP processes/VBZ available/JJ for/IN Bangla/NNP language/NN have/VBP no/DT such/JJ algorithm/NN that/WDT can/MD categorize/VB a/DT newspaper/NN //HYPH book/NN page/NN fully/RB ./.
+So/RB we/PRP worked/VBD to/TO decompose/VB a/DT document/NN into/IN its/PRP$ several/JJ parts/NNS like/IN headlines/NNS ,/, sub/NN headlines/NNS ,/, columns/NNS ,/, images/NNS etc/FW ./.
+And/CC if/IN the/DT input/NN is/VBZ skewed/VBN and/CC rotated/VBN ,/, then/RB the/DT input/NN was/VBD also/RB deskewed/JJ and/CC de-rotated/JJ ./.
+To/TO decompose/VB any/DT Bangla/NNP document/NN we/PRP found/VBD out/RP the/DT edges/NNS of/IN the/DT input/NN image/NN ./.
+Then/RB we/PRP find/VBP out/RP the/DT horizontal/JJ and/CC vertical/JJ area/NN of/IN every/DT pixel/NN where/WRB it/PRP lies/VBZ in/IN ./.
+Later/RB on/IN the/DT input/NN image/NN was/VBD cut/VBN according/VBG to/IN these/DT areas/NNS ./.
+Then/RB we/PRP pick/VBP each/DT and/CC every/DT sub/NN image/NN and/CC found/VBD out/RP their/PRP$ height/NN -/HYPH width/NN ratio/NN ,/, line/NN height/NN ./.
+Then/RB according/VBG to/IN these/DT values/NNS the/DT sub/NN images/NNS were/VBD categorized/VBN ./.
+To/TO deskew/VB the/DT image/NN we/PRP found/VBD out/RP the/DT skew/NN angle/NN and/CC de/IN skewed/VBN the/DT image/NN according/VBG to/IN this/DT angle/NN ./.
+To/TO de-rotate/VB the/DT image/NN we/PRP used/VBD the/DT line/NN height/NN ,/, matra/NN line/NN ,/, pixel/NN ratio/NN of/IN matra/NN line/NN ./.

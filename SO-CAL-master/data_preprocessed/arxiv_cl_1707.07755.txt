@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT transition/NN -/HYPH based/VBN AMR/NNP parser/NN that/WDT directly/RB generates/VBZ AMR/NNP parses/VBZ from/IN plain/JJ text/NN ./.
+We/PRP use/VBP Stack/NNP -/HYPH LSTMs/NNPS to/TO represent/VB our/PRP$ parser/NN state/NN and/CC make/VB decisions/NNS greedily/RB ./.
+In/IN our/PRP$ experiments/NNS ,/, we/PRP show/VBP that/IN our/PRP$ parser/NN achieves/VBZ very/RB competitive/JJ scores/NNS on/IN English/NNP using/VBG only/RB AMR/NNP training/NN data/NNS ./.
+Adding/VBG additional/JJ information/NN ,/, such/JJ as/IN POS/NN tags/NNS and/CC dependency/NN trees/NNS ,/, improves/VBZ the/DT results/NNS further/RB ./.

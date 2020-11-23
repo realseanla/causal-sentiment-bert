@@ -1,0 +1,4 @@
+We/PRP study/VBP upper/JJ and/CC lower/JJR bounds/NNS on/IN the/DT sample/NN -/HYPH complexity/NN of/IN learning/NN near/IN -/HYPH optimal/JJ behaviour/NN in/IN finite/NN -/HYPH state/NN discounted/VBN Markov/NNP Decision/NN Processes/NNS (/-LRB- MDPs/NNS )/-RRB- ./.
+For/IN the/DT upper/JJ bound/VBN we/PRP make/VBP the/DT assumption/NN that/IN each/DT action/NN leads/VBZ to/IN at/IN most/RBS two/CD possible/JJ next/JJ -/HYPH states/NNS and/CC prove/VB a/DT new/JJ bound/VBN for/IN a/DT UCRL/NN -/HYPH style/NN algorithm/NN on/IN the/DT number/NN of/IN time/NN -/HYPH steps/NNS when/WRB it/PRP is/VBZ not/RB Probably/RB Approximately/RB Correct/JJ (/-LRB- PAC/NN )/-RRB- ./.
+The/DT new/JJ lower/JJR bound/VBN strengthens/VBZ previous/JJ work/NN by/IN being/VBG both/RB more/RBR general/JJ (/-LRB- it/PRP applies/VBZ to/IN all/DT policies/NNS )/-RRB- and/CC tighter/JJR ./.
+The/DT upper/JJ and/CC lower/JJR bounds/NNS match/VBP up/RP to/IN logarithmic/JJ factors/NNS ./.

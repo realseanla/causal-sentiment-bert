@@ -1,0 +1,8 @@
+Rank/NN aggregation/NN systems/NNS collect/VBP ordinal/JJ preferences/NNS from/IN individuals/NNS to/TO produce/VB a/DT global/JJ ranking/NN that/WDT represents/VBZ the/DT social/JJ preference/NN ./.
+Rank/NN -/HYPH breaking/NN is/VBZ a/DT common/JJ practice/NN to/TO reduce/VB the/DT computational/JJ complexity/NN of/IN learning/VBG the/DT global/JJ ranking/NN ./.
+The/DT individual/JJ preferences/NNS are/VBP broken/VBN into/IN pairwise/JJ comparisons/NNS and/CC applied/VBD to/IN efficient/JJ algorithms/NNS tailored/VBN for/IN independent/JJ paired/VBN comparisons/NNS ./.
+However/RB ,/, due/IN to/IN the/DT ignored/VBN dependencies/NNS in/IN the/DT data/NNS ,/, naive/JJ rank/NN -/HYPH breaking/VBG approaches/NNS can/MD result/VB in/IN inconsistent/JJ estimates/NNS ./.
+The/DT key/JJ idea/NN to/TO produce/VB accurate/JJ and/CC unbiased/JJ estimates/NNS is/VBZ to/TO treat/VB the/DT pairwise/JJ comparisons/NNS unequally/RB ,/, depending/VBG on/IN the/DT topology/NN of/IN the/DT collected/VBN data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP provide/VBP the/DT optimal/JJ rank/NN -/HYPH breaking/VBG estimator/NN ,/, which/WDT not/RB only/RB achieves/VBZ consistency/NN but/CC also/RB achieves/VBZ the/DT best/JJS error/NN bound/VBN ./.
+This/DT allows/VBZ us/PRP to/TO characterize/VB the/DT fundamental/JJ tradeoff/NN between/IN accuracy/NN and/CC complexity/NN ./.
+Further/RB ,/, the/DT analysis/NN identifies/VBZ how/WRB the/DT accuracy/NN depends/VBZ on/IN the/DT spectral/JJ gap/NN of/IN a/DT corresponding/VBG comparison/NN graph/NN ./.

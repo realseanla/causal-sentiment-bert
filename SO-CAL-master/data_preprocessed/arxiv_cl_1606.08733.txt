@@ -1,0 +1,6 @@
+This/DT paper/NN discusses/VBZ models/NNS for/IN dialogue/NN state/NN tracking/NN using/VBG recurrent/JJ neural/JJ networks/NNS (/-LRB- RNN/NN )/-RRB- ./.
+We/PRP present/VBP experiments/NNS on/IN the/DT standard/JJ dialogue/NN state/NN tracking/NN (/-LRB- DST/NN )/-RRB- dataset/NN ,/, DSTC2/NN [/-LRB- 6/CD ]/-RRB- ./.
+On/IN the/DT one/CD hand/NN ,/, RNN/NN models/NNS became/VBD state/NN of/IN the/DT art/NN in/IN DST/NNP ,/, on/IN the/DT other/JJ hand/NN ,/, most/JJS state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS are/VBP only/RB turn/VB -/HYPH based/VBN and/CC require/VBP dataset/NN -/HYPH specific/JJ preprocessing/NN (/-LRB- e.g./FW DSTC2/NN -/HYPH specific/JJ )/-RRB- in/IN order/NN to/TO achieve/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ./.
+We/PRP implemented/VBD two/CD architectures/NNS which/WDT can/MD be/VB used/VBN in/IN incremental/JJ settings/NNS and/CC require/VBP almost/RB no/DT preprocessing/NN ./.
+We/PRP compare/VBP their/PRP$ performance/NN to/IN the/DT benchmarks/NNS on/IN DSTC2/NN and/CC discuss/VB their/PRP$ properties/NNS ./.
+With/IN only/RB trivial/JJ preprocessing/NN ,/, the/DT performance/NN of/IN our/PRP$ models/NNS is/VBZ close/JJ to/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ./.

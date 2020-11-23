@@ -1,0 +1,7 @@
+In most computer vision and image analysis problems, it is necessary to define a similarity measure between two or more different objects or images.
+Template matching is a classic and fundamental method used to score similarities between objects using certain mathematical algorithms.
+In this paper, we reviewed the basic concept of matching, as well as advances in template matching and applications such as invariant features or novel applications in medical image analysis.
+Additionally, deformable models and templates originating from classic template matching were discussed.
+These models have broad applications in image registration, and they are a fundamental aspect of novel machine vision or deep learning algorithms, such as convolutional neural networks (CNN), which perform shift and scale invariant functions followed by classification.
+In general, although template matching methods have restrictions which limit their application, they are recommended for use with other object recognition methods as pre- or post-processing steps.
+Combining a template matching technique such as normalized cross-correlation or dice coefficient with a robust decision-making algorithm yields a significant improvement in the accuracy rate for object detection and recognition.

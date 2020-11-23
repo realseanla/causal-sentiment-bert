@@ -1,0 +1,3 @@
+PDDL+ planning has its semantics rooted in hybrid automata (HA) and recent work has shown that it can be modeled as a network of HAs.
+Addressing the complexity of nonlinear PDDL+ planning as HAs requires both space and time efficient reasoning.
+Unfortunately, existing solvers either do not address nonlinear dynamics or do not natively support networks of automata.

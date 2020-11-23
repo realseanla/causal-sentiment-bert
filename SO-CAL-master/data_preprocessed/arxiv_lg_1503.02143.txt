@@ -1,0 +1,11 @@
+Polynomial/JJ kernel/NN regression/NN is/VBZ one/CD of/IN the/DT standard/JJ and/CC state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN learning/NN strategies/NNS ./.
+However/RB ,/, as/RB is/VBZ well/RB known/VBN ,/, the/DT choices/NNS of/IN the/DT degree/NN of/IN polynomial/JJ kernel/NN and/CC the/DT regularization/NN parameter/NN are/VBP still/RB open/JJ in/IN the/DT realm/NN of/IN model/NN selection/NN ./.
+The/DT first/JJ aim/NN of/IN this/DT paper/NN is/VBZ to/TO develop/VB a/DT strategy/NN to/TO select/VB these/DT parameters/NNS ./.
+On/IN one/CD hand/NN ,/, based/VBN on/IN the/DT worst/JJS -/HYPH case/NN learning/NN rate/NN analysis/NN ,/, we/PRP show/VBP that/IN the/DT regularization/NN term/NN in/IN polynomial/JJ kernel/NN regression/NN is/VBZ not/RB necessary/JJ ./.
+In/IN other/JJ words/NNS ,/, the/DT regularization/NN parameter/NN can/MD decrease/VB arbitrarily/RB fast/RB when/WRB the/DT degree/NN of/IN the/DT polynomial/JJ kernel/NN is/VBZ suitable/JJ tuned/VBN ./.
+On/IN the/DT other/JJ hand/NN ,/, taking/VBG account/NN of/IN the/DT implementation/NN of/IN the/DT algorithm/NN ,/, the/DT regularization/NN term/NN is/VBZ required/VBN ./.
+Summarily/RB ,/, the/DT effect/NN of/IN the/DT regularization/NN term/NN in/IN polynomial/JJ kernel/NN regression/NN is/VBZ only/RB to/TO circumvent/VB the/DT "/`` ill/JJ -/HYPH condition/NN "/'' of/IN the/DT kernel/NN matrix/NN ./.
+Based/VBN on/IN this/DT ,/, the/DT second/JJ purpose/NN of/IN this/DT paper/NN is/VBZ to/TO propose/VB a/DT new/JJ model/NN selection/NN strategy/NN ,/, and/CC then/RB design/VB an/DT efficient/JJ learning/NN algorithm/NN ./.
+Both/DT theoretical/JJ and/CC experimental/JJ analysis/NN show/VBP that/IN the/DT new/JJ strategy/NN outperforms/VBZ the/DT previous/JJ one/NN ./.
+Theoretically/RB ,/, we/PRP prove/VBP that/IN the/DT new/JJ learning/NN strategy/NN is/VBZ almost/RB optimal/JJ if/IN the/DT regression/NN function/NN is/VBZ smooth/JJ ./.
+Experimentally/RB ,/, it/PRP is/VBZ shown/VBN that/IN the/DT new/JJ strategy/NN can/MD significantly/RB reduce/VB the/DT computational/JJ burden/NN without/IN loss/NN of/IN generalization/NN capability/NN ./.

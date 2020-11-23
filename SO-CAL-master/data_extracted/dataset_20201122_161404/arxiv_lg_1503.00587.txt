@@ -1,0 +1,9 @@
+Mobile advertising is a billion pound industry that is rapidly expanding.
+The success of an advert is measured based on how users interact with it.
+In this paper we investigate whether the application of unsupervised learning and association rule mining could be used to enable personalised targeting of mobile adverts with the aim of increasing the interaction rate.
+Over May and June 2014 we recorded advert interactions such as tapping the advert or watching the whole advert video along with the set of apps a user has installed at the time of the interaction.
+Based on the apps that the users have installed we applied k-means clustering to profile the users into one of ten classes.
+Due to the large number of apps considered we implemented dimension reduction to reduced the app feature space by mapping the apps to their iTunes category and clustered users based on the percentage of their apps that correspond to each iTunes app category.
+The clustering was externally validated by investigating differences between the way the ten profiles interact with the various adverts genres (lifestyle, finance and entertainment adverts).
+In addition association rule mining was performed to find whether the time of the day that the advert is served and the number of apps a user has installed makes certain profiles more likely to interact with the advert genres.
+The results showed there were clear differences in the way the profiles interact with the different advert genres and the results of this paper suggest that mobile advert targeting would improve the frequency that users interact with an advert.

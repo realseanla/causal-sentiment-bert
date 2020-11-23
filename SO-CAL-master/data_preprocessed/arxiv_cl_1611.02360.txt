@@ -1,0 +1,8 @@
+Crossword/NN puzzles/NNS are/VBP popular/JJ word/NN games/NNS that/WDT require/VBP not/RB only/RB a/DT large/JJ vocabulary/NN ,/, but/CC also/RB a/DT broad/JJ knowledge/NN of/IN topics/NNS ./.
+Answering/VBG each/DT clue/NN is/VBZ a/DT natural/JJ language/NN task/NN on/IN its/PRP$ own/JJ as/IN many/JJ clues/NNS contain/VBP nuances/NNS ,/, puns/NNS ,/, or/CC counter-intuitive/JJ word/NN definitions/NNS ./.
+Additionally/RB ,/, it/PRP can/MD be/VB extremely/RB difficult/JJ to/TO ascertain/VB definitive/JJ answers/NNS without/IN the/DT constraints/NNS of/IN the/DT crossword/NN grid/NN itself/PRP ./.
+This/DT task/NN is/VBZ challenging/VBG for/IN both/DT humans/NNS and/CC computers/NNS ./.
+We/PRP describe/VBP here/RB a/DT new/JJ crossword/NN solving/VBG system/NN ,/, Cruciform/NNP ./.
+We/PRP employ/VBP a/DT group/NN of/IN natural/JJ language/NN components/NNS ,/, each/DT of/IN which/WDT returns/VBZ a/DT list/NN of/IN candidate/NN words/NNS with/IN scores/NNS when/WRB given/VBN a/DT clue/NN ./.
+These/DT lists/NNS are/VBP used/VBN in/IN conjunction/NN with/IN the/DT fill/NN intersections/NNS in/IN the/DT puzzle/NN grid/NN to/TO formulate/VB a/DT constraint/NN satisfaction/NN problem/NN ,/, in/IN a/DT manner/NN similar/JJ to/IN the/DT one/CD used/VBN in/IN the/DT Dr./NNP Fill/VB system/NN ./.
+We/PRP describe/VBP the/DT results/NNS of/IN several/JJ of/IN our/PRP$ experiments/NNS with/IN the/DT system/NN ./.

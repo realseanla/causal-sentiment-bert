@@ -1,0 +1,5 @@
+We/PRP introduce/VBP a/DT new/JJ algorithm/NN to/TO learn/VB the/DT potentials/NNS of/IN a/DT large/JJ class/NN of/IN Markov/NNP Random/NNP Fields/NNPS (/-LRB- MRFs/NNS )/-RRB- with/IN exact/JJ and/CC efficient/JJ inference/NN ./.
+If/IN every/DT node/NN in/IN the/DT MRF/NNP has/VBZ a/DT bounded/VBN number/NN of/IN neighbors/NNS ,/, the/DT proposed/VBN algorithm/NN has/VBZ linear/JJ complexity/NN in/IN the/DT number/NN of/IN nodes/NNS in/IN the/DT MRF/NNP ./.
+For/IN example/NN ,/, for/IN a/DT fully/RB observed/VBN square/JJ lattice/NN MRF/NN ,/, parameter/NN estimation/NN using/VBG the/DT junction/NN tree/NN inference/NN engine/NN has/VBZ exponential/JJ complexity/NN ,/, but/CC our/PRP$ algorithm/NN only/RB has/VBZ linear/JJ complexity/NN ./.
+Moreover/RB ,/, the/DT algorithm/NN is/VBZ naturally/RB parallel/JJ and/CC hence/RB applicable/JJ to/IN large/JJ scale/NN data/NNS modeling/NN ./.
+The/DT algorithm/NN applies/VBZ to/IN many/JJ practical/JJ MRFs/NNS of/IN great/JJ interest/NN ,/, including/VBG 2D/NN and/CC 3D/NN lattices/NNS ,/, chimera/NN models/NNS ,/, and/CC skip/VB -/HYPH chain/NN conditional/JJ random/JJ fields/NNS ./.

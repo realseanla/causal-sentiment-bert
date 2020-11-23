@@ -1,0 +1,6 @@
+We/PRP describe/VBP and/CC evaluate/VBP the/DT algorithmic/JJ techniques/NNS that/WDT are/VBP used/VBN in/IN the/DT FF/NNP planning/NN system/NN ./.
+Like/IN the/DT HSP/NNP system/NN ,/, FF/NNP relies/VBZ on/IN forward/JJ state/NN space/NN search/NN ,/, using/VBG a/DT heuristic/NN that/WDT estimates/VBZ goal/NN distances/NNS by/IN ignoring/VBG delete/JJ lists/NNS ./.
+Unlike/IN HSP/NNP 's/POS heuristic/NN ,/, our/PRP$ method/NN does/VBZ not/RB assume/VB facts/NNS to/TO be/VB independent/JJ ./.
+We/PRP introduce/VBP a/DT novel/JJ search/NN strategy/NN that/WDT combines/VBZ hill/NN -/HYPH climbing/VBG with/IN systematic/JJ search/NN ,/, and/CC we/PRP show/VBP how/WRB other/JJ powerful/JJ heuristic/NN information/NN can/MD be/VB extracted/VBN and/CC used/VBN to/TO prune/VB the/DT search/NN space/NN ./.
+FF/NNP was/VBD the/DT most/RBS successful/JJ automatic/JJ planner/NN at/IN the/DT recent/JJ AIPS/NNP -/HYPH 2000/CD planning/NN competition/NN ./.
+We/PRP review/VBP the/DT results/NNS of/IN the/DT competition/NN ,/, give/VB data/NNS for/IN other/JJ benchmark/NN domains/NNS ,/, and/CC investigate/VB the/DT reasons/NNS for/IN the/DT runtime/NN performance/NN of/IN FF/NN compared/VBN to/IN HSP/NNP ./.

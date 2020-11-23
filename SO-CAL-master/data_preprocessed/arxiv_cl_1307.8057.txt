@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP establish/VBP Fog/NNP Index/NNP (/-LRB- FI/NNP )/-RRB- as/IN a/DT text/NN filter/NN to/TO locate/VB the/DT sentences/NNS in/IN texts/NNS that/WDT contain/VBP connected/JJ biomedical/JJ concepts/NNS of/IN interest/NN ./.
+To/TO do/VB so/RB ,/, we/PRP have/VBP used/VBN 24/CD random/JJ papers/NNS each/DT containing/VBG four/CD pairs/NNS of/IN connected/JJ concepts/NNS ./.
+For/IN each/DT pair/NN ,/, we/PRP categorize/VBP sentences/NNS based/VBN on/IN whether/IN they/PRP contain/VBP both/CC ,/, any/DT or/CC none/NN of/IN the/DT concepts/NNS ./.
+We/PRP then/RB use/VBP FI/NNP to/TO measure/VB difficulty/NN of/IN the/DT sentences/NNS of/IN each/DT category/NN and/CC find/VB that/IN sentences/NNS containing/VBG both/DT of/IN the/DT concepts/NNS have/VBP low/JJ readability/NN ./.
+We/PRP rank/VBP sentences/NNS of/IN a/DT text/NN according/VBG to/IN their/PRP$ FI/NN and/CC select/VB 30/CD percent/NN of/IN the/DT most/RBS difficult/JJ sentences/NNS ./.
+We/PRP use/VBP an/DT association/NN matrix/NN to/TO track/VB the/DT most/RBS frequent/JJ pairs/NNS of/IN concepts/NNS in/IN them/PRP ./.
+This/DT matrix/NN reports/VBZ that/IN the/DT first/JJ filter/NN produces/VBZ some/DT pairs/NNS that/WDT hold/VBP almost/RB no/DT connections/NNS ./.
+To/TO remove/VB these/DT unwanted/JJ pairs/NNS ,/, we/PRP use/VBP the/DT Equally/RB Weighted/VBN Harmonic/NNP Mean/NNP of/IN their/PRP$ Positive/JJ Predictive/JJ Value/NN (/-LRB- PPV/NN )/-RRB- and/CC Sensitivity/NN as/IN a/DT second/JJ filter/NN ./.
+Experimental/JJ results/NNS demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ method/NN ./.

@@ -1,0 +1,4 @@
+Many theoretical results in the machine learning domain stand only for functions that are Lipschitz continuous.
+Lipschitz continuity is a strong form of continuity that linearly bounds the variations of a function.
+In this paper, we derive tight Lipschitz constants for two families of metrics: Mahalanobis distances and bounded-space bilinear forms.
+To our knowledge, this is the first time the Mahalanobis distance is formally proved to be Lipschitz continuous and that such tight Lipschitz constants are derived.

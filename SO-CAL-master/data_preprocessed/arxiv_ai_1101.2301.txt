@@ -1,0 +1,8 @@
+Software/NNP testing/NN is/VBZ an/DT expensive/JJ process/NN ,/, which/WDT is/VBZ vital/JJ in/IN the/DT industry/NN ./.
+Construction/NN of/IN the/DT test/NN -/HYPH data/NNS in/IN software/NN testing/NN requires/VBZ the/DT major/JJ cost/NN and/CC to/TO decide/VB which/WDT method/NN to/TO use/VB in/IN order/NN to/TO generate/VB the/DT test/NN data/NNS is/VBZ important/JJ ./.
+This/DT paper/NN discusses/VBZ the/DT efficiency/NN of/IN search/NN -/HYPH based/VBN algorithms/NNS (/-LRB- preferably/RB genetic/JJ algorithm/NN )/-RRB- versus/CC random/JJ testing/NN ,/, in/IN soft/JJ -/HYPH ware/NN test/NN -/HYPH data/NNS generation/NN ./.
+This/DT study/NN differs/VBZ from/IN all/DT previous/JJ studies/NNS due/IN to/IN sample/NN programs/NNS (/-LRB- SUTs/NNS )/-RRB- which/WDT are/VBP used/VBN ./.
+Since/IN we/PRP want/VBP to/TO in/IN -/HYPH crease/NN the/DT complexity/NN of/IN SUTs/NNS gradually/RB ,/, and/CC the/DT program/NN generation/NN is/VBZ automatic/JJ as/RB well/RB ,/, Grammatical/JJ Evolution/NN is/VBZ used/VBN to/TO guide/VB the/DT program/NN generation/NN ./.
+SUTs/NNS are/VBP generated/VBN according/VBG to/IN the/DT grammar/NN we/PRP provide/VBP ,/, with/IN different/JJ levels/NNS of/IN complexity/NN ./.
+SUTs/NNS will/MD first/RB undergo/VB genetic/JJ al/NNP -/HYPH gorithm/NNP and/CC then/RB random/JJ testing/NN ./.
+Based/VBN on/IN the/DT test/NN results/NNS ,/, this/DT paper/NN recommends/VBZ one/CD method/NN to/TO use/VB for/IN automation/NN of/IN software/NN testing/NN ./.

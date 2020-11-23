@@ -1,0 +1,9 @@
+This/DT paper/NN describes/VBZ the/DT solution/NN of/IN Bazinga/NNP Team/NNP for/IN Tmall/NNP Recommendation/NNP Prize/NNP 2014/CD ./.
+With/IN real/JJ -/HYPH world/NN user/NN action/NN data/NNS provided/VBN by/IN Tmall/NNP ,/, one/CD of/IN the/DT largest/JJS B2C/NN online/RB retail/JJ platforms/NNS in/IN China/NNP ,/, this/DT competition/NN requires/VBZ to/TO predict/VB future/JJ user/NN purchases/NNS on/IN Tmall/NNP website/NN ./.
+Predictions/NNS are/VBP judged/VBN on/IN F1Score/NN ,/, which/WDT considers/VBZ both/DT precision/NN and/CC recall/NN for/IN fair/JJ evaluation/NN ./.
+The/DT data/NNS set/VBN provided/VBN by/IN Tmall/NN contains/VBZ more/JJR than/IN half/CD billion/CD action/NN records/NNS from/IN over/IN ten/CD million/CD distinct/JJ users/NNS ./.
+Such/JJ massive/JJ data/NNS volume/NN poses/VBZ a/DT big/JJ challenge/NN ,/, and/CC drives/NNS competitors/NNS to/TO write/VB every/DT single/JJ program/NN in/IN MapReduce/NNP fashion/NN and/CC run/VB it/PRP on/IN distributed/VBN cluster/NN ./.
+We/PRP model/VBP the/DT purchase/NN prediction/NN problem/NN as/IN standard/JJ machine/NN learning/NN problem/NN ,/, and/CC mainly/RB employ/VBP regression/NN and/CC classification/NN methods/NNS as/IN single/JJ models/NNS ./.
+Individual/JJ models/NNS are/VBP then/RB aggregated/VBN in/IN a/DT two/CD -/HYPH stage/NN approach/NN ,/, using/VBG linear/JJ regression/NN for/IN blending/VBG ,/, and/CC finally/RB a/DT linear/JJ ensemble/NN of/IN blended/JJ models/NNS ./.
+The/DT competition/NN is/VBZ approaching/VBG the/DT end/NN but/CC still/RB in/IN running/VBG during/IN writing/VBG this/DT paper/NN ./.
+In/IN the/DT end/NN ,/, our/PRP$ team/NN achieves/VBZ F1Score/NN 6.11/CD and/CC ranks/VBZ 7th/JJ (/-LRB- out/IN of/IN 7,276/CD teams/NNS in/IN total/JJ )/-RRB- ./.

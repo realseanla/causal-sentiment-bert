@@ -1,0 +1,7 @@
+Modeling/VBG document/NN structure/NN is/VBZ of/IN great/JJ importance/NN for/IN discourse/NN analysis/NN and/CC related/VBN applications/NNS ./.
+The/DT goal/NN of/IN this/DT research/NN is/VBZ to/TO capture/VB the/DT document/NN intent/JJ structure/NN by/IN modeling/VBG documents/NNS as/IN a/DT mixture/NN of/IN topic/NN words/NNS and/CC rhetorical/JJ words/NNS ./.
+While/IN the/DT topics/NNS are/VBP relatively/RB unchanged/JJ through/IN one/CD document/NN ,/, the/DT rhetorical/JJ functions/NNS of/IN sentences/NNS usually/RB change/VBP following/VBG certain/JJ orders/NNS in/IN discourse/NN ./.
+We/PRP propose/VBP GMM/NNP -/HYPH LDA/NNP ,/, a/DT topic/NN modeling/NN based/VBN Bayesian/JJ unsupervised/JJ model/NN ,/, to/TO analyze/VB the/DT document/NN intent/JJ structure/NN cooperated/VBD with/IN order/NN information/NN ./.
+Our/PRP$ model/NN is/VBZ flexible/JJ that/WDT has/VBZ the/DT ability/NN to/TO combine/VB the/DT annotations/NNS and/CC do/VBP supervised/VBN learning/NN ./.
+Additionally/RB ,/, entropic/JJ regularization/NN can/MD be/VB introduced/VBN to/TO model/VB the/DT significant/JJ divergence/NN between/IN topics/NNS and/CC intents/NNS ./.
+We/PRP perform/VBP experiments/NNS in/IN both/DT unsupervised/JJ and/CC supervised/JJ settings/NNS ,/, results/NNS show/VBP the/DT superiority/NN of/IN our/PRP$ model/NN over/IN several/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN baselines/NNS ./.

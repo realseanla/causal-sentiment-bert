@@ -1,0 +1,5 @@
+Monitoring/NN the/DT number/NN of/IN insect/NN pests/NNS is/VBZ a/DT crucial/JJ component/NN in/IN pheromone/NN -/HYPH based/VBN pest/NN management/NN systems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT automatic/JJ detection/NN pipeline/NN based/VBN on/IN deep/JJ learning/NN for/IN identifying/VBG and/CC counting/VBG pests/NNS in/IN images/NNS taken/VBN inside/RB field/NN traps/NNS ./.
+Applied/NNP to/IN a/DT commercial/JJ codling/VBG moth/NN dataset/NN ,/, our/PRP$ method/NN shows/VBZ promising/JJ performance/NN both/DT qualitatively/RB and/CC quantitatively/RB ./.
+Compared/VBN to/IN previous/JJ attempts/NNS at/IN pest/NN detection/NN ,/, our/PRP$ approach/NN uses/VBZ no/DT pest/NN -/HYPH specific/JJ engineering/NN which/WDT enables/VBZ it/PRP to/TO adapt/VB to/IN other/JJ species/NNS and/CC environments/NNS with/IN minimal/JJ human/JJ effort/NN ./.
+It/PRP is/VBZ amenable/JJ to/IN implementation/NN on/IN parallel/JJ hardware/NN and/CC therefore/RB capable/JJ of/IN deployment/NN in/IN settings/NNS where/WRB real/JJ -/HYPH time/NN performance/NN is/VBZ required/VBN ./.

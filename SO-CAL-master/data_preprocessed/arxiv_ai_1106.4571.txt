@@ -1,0 +1,11 @@
+This/DT paper/NN focuses/VBZ on/IN a/DT system/NN ,/, WOLFIE/NNP (/-LRB- WOrd/NN Learning/NN From/IN Interpreted/VBN Examples/NNS )/-RRB- ,/, that/WDT acquires/VBZ a/DT semantic/JJ lexicon/NN from/IN a/DT corpus/NN of/IN sentences/NNS paired/VBN with/IN semantic/JJ representations/NNS ./.
+The/DT lexicon/NN learned/VBD consists/VBZ of/IN phrases/NNS paired/VBN with/IN meaning/VBG representations/NNS ./.
+WOLFIE/NNP is/VBZ part/NN of/IN an/DT integrated/JJ system/NN that/WDT learns/VBZ to/TO transform/VB sentences/NNS into/IN representations/NNS such/JJ as/IN logical/JJ database/NN queries/NNS ./.
+Experimental/JJ results/NNS are/VBP presented/VBN demonstrating/VBG WOLFIE/NNP 's/POS ability/NN to/TO learn/VB useful/JJ lexicons/NNS for/IN a/DT database/NN interface/NN in/IN four/CD different/JJ natural/JJ languages/NNS ./.
+The/DT usefulness/NN of/IN the/DT lexicons/NNS learned/VBN by/IN WOLFIE/NNP are/VBP compared/VBN to/IN those/DT acquired/VBN by/IN a/DT similar/JJ system/NN ,/, with/IN results/NNS favorable/JJ to/IN WOLFIE/NNP ./.
+A/DT second/JJ set/NN of/IN experiments/NNS demonstrates/VBZ WOLFIE/NNP 's/POS ability/NN to/TO scale/VB to/IN larger/JJR and/CC more/RBR difficult/JJ ,/, albeit/IN artificially/RB generated/VBN ,/, corpora/NNS ./.
+In/IN natural/JJ language/NN acquisition/NN ,/, it/PRP is/VBZ difficult/JJ to/TO gather/VB the/DT annotated/VBN data/NNS needed/VBN for/IN supervised/JJ learning/NN ;/: however/RB ,/, unannotated/JJ data/NNS is/VBZ fairly/RB plentiful/JJ ./.
+Active/JJ learning/NN methods/NNS attempt/VBP to/TO select/VB for/IN annotation/NN and/CC training/NN only/RB the/DT most/RBS informative/JJ examples/NNS ,/, and/CC therefore/RB are/VBP potentially/RB very/RB useful/JJ in/IN natural/JJ language/NN applications/NNS ./.
+However/RB ,/, most/JJS results/NNS to/IN date/NN for/IN active/JJ learning/NN have/VBP only/RB considered/VBN standard/JJ classification/NN tasks/NNS ./.
+To/TO reduce/VB annotation/NN effort/NN while/IN maintaining/VBG accuracy/NN ,/, we/PRP apply/VBP active/JJ learning/NN to/IN semantic/JJ lexicons/NNS ./.
+We/PRP show/VBP that/IN active/JJ learning/NN can/MD significantly/RB reduce/VB the/DT number/NN of/IN annotated/VBN examples/NNS required/VBN to/TO achieve/VB a/DT given/VBN level/NN of/IN performance/NN ./.

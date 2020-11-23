@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT hybrid/NN algorithm/NN for/IN optimizing/VBG a/DT convex/NN ,/, smooth/JJ function/NN over/IN the/DT cone/NN of/IN positive/JJ semidefinite/JJ matrices/NNS ./.
+Our/PRP$ algorithm/NN converges/VBZ to/IN the/DT global/JJ optimal/JJ solution/NN and/CC can/MD be/VB used/VBN to/TO solve/VB general/JJ large/JJ -/HYPH scale/NN semidefinite/NN programs/NNS and/CC hence/RB can/MD be/VB readily/RB applied/VBN to/IN a/DT variety/NN of/IN machine/NN learning/NN problems/NNS ./.
+We/PRP show/VBP experimental/JJ results/NNS on/IN three/CD machine/NN learning/NN problems/NNS (/-LRB- matrix/NN completion/NN ,/, metric/JJ learning/NN ,/, and/CC sparse/JJ PCA/NN )/-RRB- ./.
+Our/PRP$ approach/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithms/NNS ./.

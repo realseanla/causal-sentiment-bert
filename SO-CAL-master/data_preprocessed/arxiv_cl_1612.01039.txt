@@ -1,0 +1,9 @@
+Product/NN reviews/NNS contain/VBP a/DT lot/NN of/IN useful/JJ information/NN about/IN product/NN features/NNS and/CC customer/NN opinions/NNS ./.
+One/CD important/JJ product/NN feature/NN is/VBZ the/DT complementary/JJ entity/NN (/-LRB- products/NNS )/-RRB- that/WDT may/MD potentially/RB work/VB together/RB with/IN the/DT reviewed/VBN product/NN ./.
+Knowing/VBG complementary/JJ entities/NNS of/IN the/DT reviewed/VBN product/NN is/VBZ very/RB important/JJ because/IN customers/NNS want/VBP to/TO buy/VB compatible/JJ products/NNS and/CC avoid/VB incompatible/JJ ones/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN Complementary/JJ Entity/NN Recognition/NN (/-LRB- CER/NN )/-RRB- ./.
+Since/IN no/DT existing/JJ method/NN can/MD solve/VB this/DT problem/NN ,/, we/PRP first/RB propose/VB a/DT novel/JJ unsupervised/JJ method/NN to/TO utilize/VB syntactic/JJ dependency/NN paths/NNS to/TO recognize/VB complementary/JJ entities/NNS ./.
+Then/RB we/PRP expand/VBP category/NN -/HYPH level/NN domain/NN knowledge/NN about/IN complementary/JJ entities/NNS using/VBG only/RB a/DT few/JJ general/JJ seed/NN verbs/NNS on/IN a/DT large/JJ amount/NN of/IN unlabeled/JJ reviews/NNS ./.
+The/DT domain/NN knowledge/NN helps/VBZ the/DT unsupervised/JJ method/NN to/TO adapt/VB to/IN different/JJ products/NNS and/CC greatly/RB improves/VBZ the/DT precision/NN of/IN the/DT CER/NN task/NN ./.
+The/DT advantage/NN of/IN the/DT proposed/JJ method/NN is/VBZ that/IN it/PRP does/VBZ not/RB require/VB any/DT labeled/VBN data/NNS for/IN training/NN ./.
+We/PRP conducted/VBD experiments/NNS on/IN 7/CD popular/JJ products/NNS with/IN about/RB 1200/CD reviews/NNS in/IN total/JJ to/TO demonstrate/VB that/IN the/DT proposed/VBN approach/NN is/VBZ effective/JJ ./.

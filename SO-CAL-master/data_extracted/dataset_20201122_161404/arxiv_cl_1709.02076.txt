@@ -1,0 +1,3 @@
+Most musical programming languages are developed purely for coding virtual instruments or algorithmic compositions.
+Although there has been some work in the domain of musical query languages for music information retrieval, there has been little attempt to unify the principles of musical programming and query languages with cognitive and natural language processing models that would facilitate the activity of composition by conversation.
+We present a prototype framework, called MusECI, that merges these domains, permitting score-level algorithmic composition in a text editor while also supporting connectivity to existing natural language processing frameworks.

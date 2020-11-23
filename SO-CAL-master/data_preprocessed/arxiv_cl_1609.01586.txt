@@ -1,0 +1,8 @@
+Rare/JJ diseases/NNS are/VBP very/RB difficult/JJ to/TO identify/VB among/IN large/JJ number/NN of/IN other/JJ possible/JJ diagnoses/NNS ./.
+Better/JJ availability/NN of/IN patient/JJ data/NNS and/CC improvement/NN in/IN machine/NN learning/NN algorithms/NNS empower/VB us/PRP to/TO tackle/VB this/DT problem/NN computationally/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP target/VBP one/CD such/JJ rare/JJ disease/NN -/HYPH cardiac/JJ amyloidosis/NN ./.
+We/PRP aim/VBP to/IN automate/VB the/DT process/NN of/IN identifying/VBG potential/JJ cardiac/JJ amyloidosis/NN patients/NNS with/IN the/DT help/NN of/IN machine/NN learning/NN algorithms/NNS and/CC also/RB learn/VBP most/RBS predictive/JJ factors/NNS ./.
+With/IN the/DT help/NN of/IN experienced/JJ cardiologists/NNS ,/, we/PRP prepared/VBD a/DT gold/NN standard/NN with/IN 73/CD positive/JJ (/-LRB- cardiac/JJ amyloidosis/NN )/-RRB- and/CC 197/CD negative/JJ instances/NNS ./.
+We/PRP achieved/VBD high/JJ average/JJ cross-validation/NN F1/NN score/NN of/IN 0.98/CD using/VBG an/DT ensemble/NN machine/NN learning/NN classifier/NN ./.
+Some/DT of/IN the/DT predictive/JJ variables/NNS were/VBD :/: Age/NN and/CC Diagnosis/NN of/IN cardiac/JJ arrest/NN ,/, chest/NN pain/NN ,/, congestive/JJ heart/NN failure/NN ,/, hypertension/NN ,/, prim/JJ open/JJ angle/NN glaucoma/NN ,/, and/CC shoulder/NN arthritis/NN ./.
+Further/JJ studies/NNS are/VBP needed/VBN to/TO validate/VB the/DT accuracy/NN of/IN the/DT system/NN across/IN an/DT entire/JJ health/NN system/NN and/CC its/PRP$ generalizability/NN for/IN other/JJ diseases/NNS ./.

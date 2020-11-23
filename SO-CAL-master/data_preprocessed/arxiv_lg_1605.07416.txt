@@ -1,0 +1,6 @@
+We/PRP provide/VBP new/JJ lower/JJR bounds/NNS on/IN the/DT regret/NN that/WDT must/MD be/VB suffered/VBN by/IN adversarial/JJ bandit/NN algorithms/NNS ./.
+The/DT new/JJ results/NNS show/VBP that/IN recent/JJ upper/JJ bounds/NNS that/IN either/CC (/-LRB- a/LS )/-RRB- hold/VB with/IN high/JJ -/HYPH probability/NN or/CC (/-LRB- b/LS )/-RRB- depend/VB on/IN the/DT total/JJ lossof/NN the/DT best/JJS arm/NN or/CC (/-LRB- c/LS )/-RRB- depend/VB on/IN the/DT quadratic/JJ variation/NN of/IN the/DT losses/NNS ,/, are/VBP close/JJ to/IN tight/JJ ./.
+Besides/IN this/DT we/PRP prove/VBP two/CD impossibility/NN results/NNS ./.
+First/RB ,/, the/DT existence/NN of/IN a/DT single/JJ arm/NN that/WDT is/VBZ optimal/JJ in/IN every/DT round/NN can/MD not/RB improve/VB the/DT regret/NN in/IN the/DT worst/JJS case/NN ./.
+Second/RB ,/, the/DT regret/NN can/MD not/RB scale/VB with/IN the/DT effective/JJ range/NN of/IN the/DT losses/NNS ./.
+In/IN contrast/NN ,/, both/CC results/NNS are/VBP possible/JJ in/IN the/DT full/JJ -/HYPH information/NN setting/NN ./.

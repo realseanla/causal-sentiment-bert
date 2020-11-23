@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/NN multi-task/VB learning/NN (/-LRB- MTL/NN )/-RRB- framework/NN ,/, called/VBN Self/NNP -/HYPH Paced/NNP Multi-Task/NNP Learning/NNP (/-LRB- SPMTL/NNP )/-RRB- ./.
+Different/JJ from/IN previous/JJ works/NNS treating/VBG all/DT tasks/NNS and/CC instances/NNS equally/RB when/WRB training/NN ,/, SPMTL/NNP attempts/VBZ to/TO jointly/RB learn/VB the/DT tasks/NNS by/IN taking/VBG into/IN consideration/NN the/DT complexities/NNS of/IN both/DT tasks/NNS and/CC instances/NNS ./.
+This/DT is/VBZ inspired/VBN by/IN the/DT cognitive/JJ process/NN of/IN human/JJ brain/NN that/WDT often/RB learns/VBZ from/IN the/DT easy/JJ to/IN the/DT hard/JJ ./.
+We/PRP construct/VBP a/DT compact/JJ SPMTL/NN formulation/NN by/IN proposing/VBG a/DT new/JJ task/NN -/HYPH oriented/VBN regularizer/NN that/WDT can/MD jointly/RB prioritize/VB the/DT tasks/NNS and/CC the/DT instances/NNS ./.
+Thus/RB it/PRP can/MD be/VB interpreted/VBN as/IN a/DT self/NN -/HYPH paced/VBN learner/NN for/IN MTL/NN ./.
+A/DT simple/JJ yet/CC effective/JJ algorithm/NN is/VBZ designed/VBN for/IN optimizing/VBG the/DT proposed/VBN objective/NN function/NN ./.
+An/DT error/NN bound/VBN for/IN a/DT simplified/JJ formulation/NN is/VBZ also/RB analyzed/VBN theoretically/RB ./.
+Experimental/JJ results/NNS on/IN toy/NN and/CC real/JJ -/HYPH world/NN datasets/NNS demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN approach/NN ,/, compared/VBN to/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

@@ -1,0 +1,10 @@
+In/IN this/DT paper/NN ,/, we/PRP extend/VBP a/DT symbolic/JJ association/NN framework/NN to/IN being/VBG able/JJ to/TO handle/VB missing/VBG elements/NNS in/IN multimodal/JJ sequences/NNS ./.
+The/DT general/JJ scope/NN of/IN the/DT work/NN is/VBZ the/DT symbolic/JJ associations/NNS of/IN object/NN -/HYPH word/NN mappings/NNS as/IN it/PRP happens/VBZ in/IN language/NN development/NN on/IN infants/NNS ./.
+This/DT scenario/NN has/VBZ been/VBN long/RB interested/VBN by/IN Artificial/NNP Intelligence/NNP ,/, Psychology/NN and/CC Neuroscience/NN ./.
+In/IN this/DT work/NN ,/, we/PRP extend/VBP a/DT recent/JJ approach/NN for/IN multimodal/JJ sequences/NNS (/-LRB- visual/JJ and/CC audio/JJ )/-RRB- to/TO also/RB cope/VB with/IN missing/JJ elements/NNS in/IN one/CD or/CC both/DT modalities/NNS ./.
+Our/PRP$ approach/NN uses/VBZ two/CD parallel/JJ Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- networks/NNS with/IN a/DT learning/NN rule/NN based/VBN on/IN EM/NNP -/HYPH algorithm/NN ./.
+It/PRP aligns/VBZ both/DT LSTM/NNP outputs/NNS via/IN Dynamic/JJ Time/NN Warping/NN (/-LRB- DTW/NN )/-RRB- ./.
+We/PRP propose/VBP to/TO include/VB an/DT extra/JJ step/NN for/IN the/DT combination/NN with/IN max/NN and/CC mean/VB operations/NNS for/IN handling/VBG missing/JJ elements/NNS in/IN the/DT sequences/NNS ./.
+The/DT intuition/NN behind/RB is/VBZ that/IN the/DT combination/NN acts/VBZ as/IN a/DT condition/NN selector/NN for/IN choosing/VBG the/DT best/JJS representation/NN from/IN both/DT LSTMs/NNS ./.
+We/PRP evaluated/VBD the/DT proposed/VBN extension/NN in/IN three/CD different/JJ scenarios/NNS :/: audio/JJ sequences/NNS with/IN missing/JJ elements/NNS ,/, visual/JJ sequences/NNS with/IN missing/JJ elements/NNS ,/, and/CC sequences/NNS with/IN missing/JJ elements/NNS in/IN both/DT modalities/NNS ./.
+The/DT performance/NN of/IN our/PRP$ extension/NN reaches/VBZ better/JJR results/NNS than/IN the/DT original/JJ model/NN and/CC similar/JJ results/NNS to/IN a/DT unique/JJ LSTM/NN trained/VBN in/IN one/CD modality/NN ,/, i.e./FW ,/, where/WRB the/DT learning/NN problem/NN is/VBZ less/RBR difficult/JJ ./.

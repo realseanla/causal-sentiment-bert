@@ -1,0 +1,4 @@
+This paper applies a deep convolutional/highway MLP framework to classify genomic sequences on the transcription factor binding site task.
+To make the model understandable, we propose an optimization driven strategy to extract "motifs", or symbolic patterns which visualize the positive class learned by the network.
+We show that our system, Deep Motif (DeMo), extracts motifs that are similar to, and in some cases outperform the current well known motifs.
+In addition, we find that a deeper model consisting of multiple convolutional and highway layers can outperform a single convolutional and fully connected layer in the previous state-of-the-art.

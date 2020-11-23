@@ -1,0 +1,4 @@
+In/IN this/DT work/NN we/PRP introduce/VBP a/DT new/JJ optimisation/NN method/NN called/VBN SAGA/NNP in/IN the/DT spirit/NN of/IN SAG/NNP ,/, SDCA/NNP ,/, MISO/NNP and/CC SVRG/NNP ,/, a/DT set/NN of/IN recently/RB proposed/VBN incremental/JJ gradient/NN algorithms/NNS with/IN fast/JJ linear/JJ convergence/NN rates/NNS ./.
+SAGA/NN improves/VBZ on/IN the/DT theory/NN behind/IN SAG/NNP and/CC SVRG/NNP ,/, with/IN better/JJR theoretical/JJ convergence/NN rates/NNS ,/, and/CC has/VBZ support/NN for/IN composite/JJ objectives/NNS where/WRB a/DT proximal/JJ operator/NN is/VBZ used/VBN on/IN the/DT regulariser/NN ./.
+Unlike/IN SDCA/NN ,/, SAGA/NN supports/VBZ non-strongly/JJ convex/NN problems/NNS directly/RB ,/, and/CC is/VBZ adaptive/JJ to/IN any/DT inherent/JJ strong/JJ convexity/NN of/IN the/DT problem/NN ./.
+We/PRP give/VBP experimental/JJ results/NNS showing/VBG the/DT effectiveness/NN of/IN our/PRP$ method/NN ./.

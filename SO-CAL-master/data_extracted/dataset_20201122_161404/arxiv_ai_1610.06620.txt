@@ -1,0 +1,6 @@
+Answering open-ended questions is an essential capability for any intelligent agent.
+One of the most interesting recent open-ended question answering challenges is Visual Question Answering (VQA) which attempts to evaluate a system's visual understanding through its answers to natural language questions about images.
+There exist many approaches to VQA, the majority of which do not exhibit deeper semantic understanding of the candidate answers they produce.
+We study the importance of generating plausible answers to a given question by introducing the novel task of `Answer Proposal': for a given open-ended question, a system should generate a ranked list of candidate answers informed by the semantics of the question.
+We experiment with various models including a neural generative model as well as a semantic graph matching one.
+We provide both intrinsic and extrinsic evaluations for the task of Answer Proposal, showing that our best model learns to propose plausible answers with a high recall and performs competitively with some other solutions to VQA.

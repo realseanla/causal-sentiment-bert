@@ -1,0 +1,6 @@
+Reasoning on large and complex real-world models is a computationally difficult task, yet one that is required for effective use of many AI applications.
+A plethora of inference algorithms have been developed that work well on specific models or only on parts of general models.
+Consequently, a system that can intelligently apply these inference algorithms to different parts of a model for fast reasoning is highly desirable.
+We introduce a new framework called structured factored inference (SFI) that provides the foundation for such a system.
+Using models encoded in a probabilistic programming language, SFI provides a sound means to decompose a model into sub-models, apply an inference algorithm to each sub-model, and combine the resulting information to answer a query.
+Our results show that SFI is nearly as accurate as exact inference yet retains the benefits of approximate inference methods.

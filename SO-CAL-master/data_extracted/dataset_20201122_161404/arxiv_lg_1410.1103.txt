@@ -1,0 +1,8 @@
+We consider a setting where a system learns to rank a fixed set of m items.
+The goal is produce a good ranking for users with diverse interests who interact with the system for T rounds in an online fashion.
+We consider a novel top-1 feedback model for this problem: at the end of each round, the relevance score for only the top ranked object is revealed to the system.
+However, the performance of the system is judged on the entire ranked list.
+We provide a comprehensive set of results regarding learnability under this challenging setting.
+For popular ranking measures such as PairwiseLoss and DCG, we prove that the minimax regret is of order T^{2/3}.
+Moreover, the minimax regret is achievable using an efficient algorithmic strategy that only spends O(m log m) time per round.
+The same algorithmic strategy achieves O(T^{2/3}) regret for Precision@k. Surprisingly, we show that for normalized versions of these ranking measures, namely AUC, NDCG and MAP, no online ranking algorithm can have sub-linear regret.

@@ -1,0 +1,8 @@
+We/PRP study/VBP the/DT segmental/JJ recurrent/JJ neural/JJ network/NN for/IN end/NN -/HYPH to/IN -/HYPH end/NN acoustic/JJ modelling/NN ./.
+This/DT model/NN connects/VBZ the/DT segmental/JJ conditional/JJ random/JJ field/NN (/-LRB- CRF/NNP )/-RRB- with/IN a/DT recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- used/VBN for/IN feature/NN extraction/NN ./.
+Compared/VBN to/IN most/JJS previous/JJ CRF/NNP -/HYPH based/VBN acoustic/JJ models/NNS ,/, it/PRP does/VBZ not/RB rely/VB on/IN an/DT external/JJ system/NN to/TO provide/VB features/NNS or/CC segmentation/NN boundaries/NNS ./.
+Instead/RB ,/, this/DT model/NN marginalises/VBZ out/RP all/PDT the/DT possible/JJ segmentations/NNS ,/, and/CC features/NNS are/VBP extracted/VBN from/IN the/DT RNN/NN trained/VBN together/RB with/IN the/DT segmental/JJ CRF/NNP ./.
+In/IN essence/NN ,/, this/DT model/NN is/VBZ self/NN -/HYPH contained/VBN and/CC can/MD be/VB trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP discuss/VBP practical/JJ training/NN and/CC decoding/NN issues/NNS as/RB well/RB as/IN the/DT method/NN to/TO speed/VB up/RP the/DT training/NN in/IN the/DT context/NN of/IN speech/NN recognition/NN ./.
+We/PRP performed/VBD experiments/NNS on/IN the/DT TIMIT/NNP dataset/NN ./.
+We/PRP achieved/VBD 17.3/CD phone/NN error/NN rate/NN (/-LRB- PER/NN )/-RRB- from/IN the/DT first/JJ -/HYPH pass/NN decoding/NN ---/, the/DT best/JJS reported/VBN result/NN using/VBG CRFs/NNS ,/, despite/IN the/DT fact/NN that/IN we/PRP only/RB used/VBD a/DT zeroth/NN -/HYPH order/NN CRF/NNP and/CC without/IN using/VBG any/DT language/NN model/NN ./.

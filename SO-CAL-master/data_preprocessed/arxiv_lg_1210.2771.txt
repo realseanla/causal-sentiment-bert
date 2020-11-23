@@ -1,0 +1,7 @@
+Recently/RB ,/, machine/NN learning/NN algorithms/NNS have/VBP successfully/RB entered/VBN large/JJ -/HYPH scale/NN real/JJ -/HYPH world/NN industrial/JJ applications/NNS (/-LRB- e.g./FW search/NN engines/NNS and/CC email/NN spam/NN filters/NNS )/-RRB- ./.
+Here/RB ,/, the/DT CPU/NN cost/NN during/IN test/NN time/NN must/MD be/VB budgeted/VBN and/CC accounted/VBN for/IN ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT challenge/NN of/IN balancing/VBG the/DT test/NN -/HYPH time/NN cost/NN and/CC the/DT classifier/NN accuracy/NN in/IN a/DT principled/JJ fashion/NN ./.
+The/DT test/NN -/HYPH time/NN cost/NN of/IN a/DT classifier/NN is/VBZ often/RB dominated/VBN by/IN the/DT computation/NN required/VBN for/IN feature/NN extraction/NN -/HYPH which/WDT can/MD vary/VB drastically/RB across/IN eatures/NNS ./.
+We/PRP decrease/VBP this/DT extraction/NN time/NN by/IN constructing/VBG a/DT tree/NN of/IN classifiers/NNS ,/, through/IN which/WDT test/NN inputs/NNS traverse/VBP along/IN individual/JJ paths/NNS ./.
+Each/DT path/NN extracts/NNS different/JJ features/NNS and/CC is/VBZ optimized/VBN for/IN a/DT specific/JJ sub-partition/NN of/IN the/DT input/NN space/NN ./.
+By/IN only/RB computing/VBG features/NNS for/IN inputs/NNS that/WDT benefit/VBP from/IN them/PRP the/DT most/RBS ,/, our/PRP$ cost/NN sensitive/JJ tree/NN of/IN classifiers/NNS can/MD match/VB the/DT high/JJ accuracies/NNS of/IN the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN at/IN a/DT small/JJ fraction/NN of/IN the/DT computational/JJ cost/NN ./.

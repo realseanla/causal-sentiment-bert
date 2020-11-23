@@ -1,0 +1,6 @@
+The/DT novel/JJ Unbiased/JJ Online/NN Recurrent/JJ Optimization/NN (/-LRB- UORO/NN )/-RRB- algorithm/NN allows/VBZ for/IN online/JJ learning/NN of/IN general/JJ recurrent/JJ computational/JJ graphs/NNS such/JJ as/IN recurrent/JJ network/NN models/NNS ./.
+It/PRP works/VBZ in/IN a/DT streaming/NN fashion/NN and/CC avoids/VBZ backtracking/VBG through/IN past/JJ activations/NNS and/CC inputs/NNS ./.
+UORO/NNP is/VBZ a/DT modification/NN of/IN NoBackTrack/NNP that/WDT bypasses/VBZ the/DT need/NN for/IN model/NN sparsity/NN and/CC makes/VBZ implementation/NN easy/JJ in/IN current/JJ deep/JJ learning/NN frameworks/NNS ,/, even/RB for/IN complex/JJ models/NNS ./.
+Computationally/RB ,/, UORO/NNP is/VBZ as/IN costly/JJ as/IN Truncated/JJ Backpropagation/NN Through/IN Time/NN (/-LRB- TBPTT/NN )/-RRB- ./.
+Contrary/JJ to/IN TBPTT/NN ,/, UORO/NNP is/VBZ guaranteed/VBN to/TO provide/VB unbiased/JJ gradient/NN estimates/NNS ,/, and/CC does/VBZ not/RB favor/VB short/JJ -/HYPH term/NN dependencies/NNS ./.
+The/DT downside/NN is/VBZ added/VBN noise/NN ,/, requiring/VBG smaller/JJR learning/NN rates/NNS ./.

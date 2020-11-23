@@ -1,0 +1,6 @@
+The use of microblogging platforms such as Twitter during crises has become widespread.
+More importantly, information disseminated by affected people contains useful information like reports of missing and found people, requests for urgent needs etc.
+For rapid crisis response, humanitarian organizations look for situational awareness information to understand and assess the severity of the crisis.
+In this paper, we present a novel framework (i) to generate abstractive summaries useful for situational awareness, and (ii) to capture sub-topics and present a short informative summary for each of these topics.
+A summary is generated using a two stage framework that first extracts a set of important tweets from the whole set of information through an Integer-linear programming (ILP) based optimization technique and then follows a word graph and concept event based abstractive summarization technique to produce the final summary.
+High accuracies obtained for all the tasks show the effectiveness of the proposed framework.

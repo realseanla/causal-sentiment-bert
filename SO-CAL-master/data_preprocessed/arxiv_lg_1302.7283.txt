@@ -1,0 +1,9 @@
+We/PRP propose/VBP a/DT new/JJ method/NN to/TO enforce/VB priors/NNS on/IN the/DT solution/NN of/IN the/DT nonnegative/JJ matrix/NN factorization/NN (/-LRB- NMF/NN )/-RRB- ./.
+The/DT proposed/VBN algorithm/NN can/MD be/VB used/VBN for/IN denoising/NN or/CC single/JJ -/HYPH channel/NN source/NN separation/NN (/-LRB- SCSS/NNP )/-RRB- applications/NNS ./.
+The/DT NMF/NN solution/NN is/VBZ guided/VBN to/TO follow/VB the/DT Minimum/NNP Mean/NNP Square/NNP Error/NNP (/-LRB- MMSE/NNP )/-RRB- estimates/VBZ under/IN Gaussian/NNP mixture/NN prior/JJ models/NNS (/-LRB- GMM/NNP )/-RRB- for/IN the/DT source/NN signal/NN ./.
+In/IN SCSS/NNP applications/NNS ,/, the/DT spectra/NN of/IN the/DT observed/VBN mixed/JJ signal/NN are/VBP decomposed/VBN as/IN a/DT weighted/JJ linear/JJ combination/NN of/IN trained/VBN basis/NN vectors/NNS for/IN each/DT source/NN using/VBG NMF/NN ./.
+In/IN this/DT work/NN ,/, the/DT NMF/NN decomposition/NN weight/NN matrices/NNS are/VBP treated/VBN as/IN a/DT distorted/VBN image/NN by/IN a/DT distortion/NN operator/NN ,/, which/WDT is/VBZ learned/VBN directly/RB from/IN the/DT observed/VBN signals/NNS ./.
+The/DT MMSE/NNP estimate/NN of/IN the/DT weights/NNS matrix/NN under/IN GMM/NNP prior/JJ and/CC log/NN -/HYPH normal/JJ distribution/NN for/IN the/DT distortion/NN is/VBZ then/RB found/VBN to/TO improve/VB the/DT NMF/NN decomposition/NN results/NNS ./.
+The/DT MMSE/NNP estimate/NN is/VBZ embedded/VBN within/IN the/DT optimization/NN objective/NN to/TO form/VB a/DT novel/JJ regularized/VBN NMF/NN cost/NN function/NN ./.
+The/DT corresponding/VBG update/NN rules/NNS for/IN the/DT new/JJ objectives/NNS are/VBP derived/VBN in/IN this/DT paper/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN ,/, the/DT proposed/VBN regularized/VBN NMF/NN algorithm/NN improves/VBZ the/DT source/NN separation/NN performance/NN compared/VBN with/IN using/VBG NMF/NN without/IN prior/JJ or/CC with/IN other/JJ prior/JJ models/NNS ./.

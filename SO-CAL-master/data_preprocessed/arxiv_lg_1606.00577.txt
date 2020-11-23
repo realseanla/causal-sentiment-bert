@@ -1,0 +1,11 @@
+A/DT popular/JJ approach/NN to/IN topic/NN modeling/NN involves/VBZ extracting/VBG co-occurring/VBG n/NN -/HYPH grams/NNS of/IN a/DT corpus/NN into/IN semantic/JJ themes/NNS ./.
+The/DT set/NN of/IN n/NN -/HYPH grams/NNS in/IN a/DT theme/NN represents/VBZ an/DT underlying/VBG topic/NN ,/, but/CC most/JJS topic/NN modeling/NN approaches/NNS are/VBP not/RB able/JJ to/TO label/VB these/DT sets/NNS of/IN words/NNS with/IN a/DT single/JJ n/NN -/HYPH gram/NN ./.
+Such/JJ labels/NNS are/VBP useful/JJ for/IN topic/NN identification/NN in/IN summarization/NN systems/NNS ./.
+This/DT paper/NN introduces/VBZ a/DT novel/JJ approach/NN to/IN labeling/VBG a/DT group/NN of/IN n/NN -/HYPH grams/NNS comprising/VBG an/DT individual/JJ topic/NN ./.
+The/DT approach/NN taken/VBN is/VBZ to/TO complement/VB the/DT existing/VBG topic/NN distributions/NNS over/IN words/NNS with/IN a/DT known/JJ distribution/NN based/VBN on/IN a/DT predefined/JJ set/NN of/IN topics/NNS ./.
+This/DT is/VBZ done/VBN by/IN integrating/VBG existing/VBG labeled/VBN knowledge/NN sources/NNS representing/VBG known/JJ potential/JJ topics/NNS into/IN the/DT probabilistic/JJ topic/NN model/NN ./.
+These/DT knowledge/NN sources/NNS are/VBP translated/VBN into/IN a/DT distribution/NN and/CC used/VBN to/TO set/VB the/DT hyperparameters/NNS of/IN the/DT Dirichlet/NNP generated/VBD distribution/NN over/IN words/NNS ./.
+In/IN the/DT inference/NN these/DT modified/VBN distributions/NNS guide/VB the/DT convergence/NN of/IN the/DT latent/JJ topics/NNS to/TO conform/VB with/IN the/DT complementary/JJ distributions/NNS ./.
+This/DT approach/NN ensures/VBZ that/IN the/DT topic/NN inference/NN process/NN is/VBZ consistent/JJ with/IN existing/VBG knowledge/NN ./.
+The/DT label/NN assignment/NN from/IN the/DT complementary/JJ knowledge/NN sources/NNS are/VBP then/RB transferred/VBN to/IN the/DT latent/JJ topics/NNS of/IN the/DT corpus/NN ./.
+The/DT results/NNS show/VBP both/CC accurate/JJ label/NN assignment/NN to/IN topics/NNS as/RB well/RB as/IN improved/VBN topic/NN generation/NN than/IN those/DT obtained/VBN using/VBG various/JJ labeling/NN approaches/NNS of/IN Latent/JJ Dirichlet/NN allocation/NN (/-LRB- LDA/NN )/-RRB- when/WRB compared/VBN by/IN pointwise/NN mutual/JJ information/NN (/-LRB- PMI/NN )/-RRB- assessment/NN ./.

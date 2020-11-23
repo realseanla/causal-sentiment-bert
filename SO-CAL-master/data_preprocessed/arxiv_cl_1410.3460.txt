@@ -1,0 +1,8 @@
+With/IN the/DT acceptance/NN of/IN Western/JJ culture/NN and/CC science/NN ,/, Traditional/JJ Chinese/JJ Medicine/NN (/-LRB- TCM/NN )/-RRB- has/VBZ become/VBN a/DT controversial/JJ issue/NN in/IN China/NNP ./.
+So/RB ,/, it/PRP 's/VBZ important/JJ to/TO study/VB the/DT public/NN 's/POS sentiment/NN and/CC opinion/NN on/IN TCM/NN ./.
+The/DT rapid/JJ development/NN of/IN online/JJ social/JJ network/NN ,/, such/JJ as/IN twitter/NN ,/, make/VB it/PRP convenient/JJ and/CC efficient/JJ to/IN sample/NN hundreds/NNS of/IN millions/NNS of/IN people/NNS for/IN the/DT aforementioned/JJ sentiment/NN study/NN ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, the/DT present/JJ work/NN is/VBZ the/DT first/JJ attempt/NN that/WDT applies/VBZ sentiment/NN analysis/NN to/IN the/DT domain/NN of/IN TCM/NN on/IN Sina/NNP Weibo/NNP (/-LRB- a/DT twitter/NN -/HYPH like/JJ microblogging/NN service/NN in/IN China/NNP )/-RRB- ./.
+In/IN our/PRP$ work/NN ,/, firstly/RB we/PRP collect/VBP tweets/NNS topic/NN about/IN TCM/NNP from/IN Sina/NNP Weibo/NNP ,/, and/CC label/VB the/DT tweets/NNS as/IN supporting/VBG TCM/NN and/CC opposing/VBG TCM/NNP automatically/RB based/VBN on/IN user/NN tag/NN ./.
+Then/RB ,/, a/DT support/NN vector/NN machine/NN classifier/NN has/VBZ been/VBN built/VBN to/TO predict/VB the/DT sentiment/NN of/IN TCM/NN tweets/NNS without/IN labels/NNS ./.
+Finally/RB ,/, we/PRP present/VBP a/DT method/NN to/TO adjust/VB the/DT classifier/NN result/NN ./.
+The/DT performance/NN of/IN F/NN -/HYPH measure/NN attained/VBN with/IN our/PRP$ method/NN is/VBZ 97/CD percent/NN ./.

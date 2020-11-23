@@ -1,0 +1,7 @@
+It/PRP has/VBZ been/VBN shown/VBN that/IN a/DT class/NN of/IN probabilistic/JJ domain/NN models/NNS can/MD not/RB be/VB learned/VBN correctly/RB by/IN several/JJ existing/VBG algorithms/NNS which/WDT employ/VBP a/DT single/JJ -/HYPH link/NN look/NN ahead/RB search/VB ./.
+When/WRB a/DT multi-link/JJ look/NN ahead/RB search/NN is/VBZ used/VBN ,/, the/DT computational/JJ complexity/NN of/IN the/DT learning/NN algorithm/NN increases/NNS ./.
+We/PRP study/VBP how/WRB to/TO use/VB parallelism/NN to/TO tackle/VB the/DT increased/VBN complexity/NN in/IN learning/VBG such/JJ models/NNS and/CC to/TO speed/VB up/RP learning/VBG in/IN large/JJ domains/NNS ./.
+An/DT algorithm/NN is/VBZ proposed/VBN to/IN decompose/VB the/DT learning/NN task/NN for/IN parallel/JJ processing/NN ./.
+A/DT further/JJ task/NN decomposition/NN is/VBZ used/VBN to/TO balance/VB load/NN among/IN processors/NNS and/CC to/TO increase/VB the/DT speed/NN -/HYPH up/NN and/CC efficiency/NN ./.
+For/IN learning/VBG from/IN very/RB large/JJ datasets/NNS ,/, we/PRP present/VBP a/DT regrouping/NN of/IN the/DT available/JJ processors/NNS such/JJ that/IN slow/JJ data/NNS access/NN through/IN file/NN can/MD be/VB replaced/VBN by/IN fast/JJ memory/NN access/NN ./.
+Our/PRP$ implementation/NN in/IN a/DT parallel/JJ computer/NN demonstrates/VBZ the/DT effectiveness/NN of/IN the/DT algorithm/NN ./.

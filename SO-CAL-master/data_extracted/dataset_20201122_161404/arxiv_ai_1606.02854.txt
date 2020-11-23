@@ -1,0 +1,4 @@
+This report describes our participation in the cDiscount 2015 challenge where the goal was to classify product items in a predefined taxonomy of products.
+Our best submission yielded an accuracy score of 64.20\ percent in the private part of the leaderboard and we were ranked 10th out of 175 participating teams.
+We followed a text classification approach employing mainly linear models.
+The final solution was a weighted voting system which combined a variety of trained models.

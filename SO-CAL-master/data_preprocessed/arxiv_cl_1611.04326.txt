@@ -1,0 +1,8 @@
+Topic/NN Models/NNS have/VBP been/VBN reported/VBN to/TO be/VB beneficial/JJ for/IN aspect/NN -/HYPH based/VBN sentiment/NN analysis/NN ./.
+This/DT paper/NN reports/VBZ a/DT simple/JJ topic/NN model/NN for/IN sarcasm/NN detection/NN ,/, a/DT first/RB ,/, to/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ./.
+Designed/VBN on/IN the/DT basis/NN of/IN the/DT intuition/NN that/WDT sarcastic/JJ tweets/NNS are/VBP likely/JJ to/TO have/VB a/DT mixture/NN of/IN words/NNS of/IN both/DT sentiments/NNS as/IN against/IN tweets/NNS with/IN literal/JJ sentiment/NN (/-LRB- either/CC positive/JJ or/CC negative/JJ )/-RRB- ,/, our/PRP$ hierarchical/JJ topic/NN model/NN discovers/VBZ sarcasm/NN -/HYPH prevalent/JJ topics/NNS and/CC topic/NN -/HYPH level/NN sentiment/NN ./.
+Using/VBG a/DT dataset/NN of/IN tweets/NNS labeled/VBN using/VBG hashtags/NNS ,/, the/DT model/NN estimates/VBZ topic/NN -/HYPH level/NN ,/, and/CC sentiment/NN -/HYPH level/NN distributions/NNS ./.
+Our/PRP$ evaluation/NN shows/VBZ that/IN topics/NNS such/JJ as/IN `/`` work/NN '/'' ,/, `/`` gun/NN laws/NNS '/'' ,/, `/`` weather/NN '/'' are/VBP sarcasm/NN -/HYPH prevalent/JJ topics/NNS ./.
+Our/PRP$ model/NN is/VBZ also/RB able/JJ to/TO discover/VB the/DT mixture/NN of/IN sentiment/NN -/HYPH bearing/VBG words/NNS that/WDT exist/VBP in/IN a/DT text/NN of/IN a/DT given/JJ sentiment/NN -/HYPH related/VBN label/NN ./.
+Finally/RB ,/, we/PRP apply/VBP our/PRP$ model/NN to/TO predict/VB sarcasm/NN in/IN tweets/NNS ./.
+We/PRP outperform/VBP two/CD prior/JJ work/NN based/VBN on/IN statistical/JJ classifiers/NNS with/IN specific/JJ features/NNS ,/, by/IN around/RB 25/CD \/SYM percent/NN ./.

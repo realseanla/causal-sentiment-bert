@@ -1,0 +1,7 @@
+The rigorous theoretical analyses of algorithms for exact 3-satisfiability (X3SAT) have been proposed in the literature.
+As we know, previous algorithms for solving X3SAT have been analyzed only regarding the number of variables as the parameter.
+However, the time complexity for solving X3SAT instances depends not only on the number of variables, but also on the number of clauses.
+Therefore, it is significant to exploit the time complexity from the other point of view, i.e.
+the number of clauses.
+In this paper, we present algorithms for solving X3SAT with rigorous complexity analyses using the number of clauses as the parameter.
+By analyzing the algorithms, we obtain the new worst-case upper bounds O(1.15855m), where m is the number of clauses.

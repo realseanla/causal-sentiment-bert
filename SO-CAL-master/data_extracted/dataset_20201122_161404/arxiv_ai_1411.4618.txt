@@ -1,0 +1,4 @@
+We explore the idea of using a "possibilistic graphical model" as the basis for a world model that drives a dialog system.
+As a first step we have developed a system that uses text-based dialog to derive a model of the user's family relations.
+The system leverages its world model to infer relational triples, to learn to recover from upstream coreference resolution errors and ambiguities, and to learn context-dependent paraphrase models.
+We also explore some theoretical aspects of the underlying graphical model.

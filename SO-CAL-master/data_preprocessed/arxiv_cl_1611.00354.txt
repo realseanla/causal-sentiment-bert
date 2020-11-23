@@ -1,0 +1,5 @@
+A/DT common/JJ and/CC effective/JJ way/NN to/TO train/VB translation/NN systems/NNS between/IN related/JJ languages/NNS is/VBZ to/TO consider/VB sub-word/JJ level/NN basic/JJ units/NNS ./.
+However/RB ,/, this/DT increases/VBZ the/DT length/NN of/IN the/DT sentences/NNS resulting/VBG in/IN increased/VBN decoding/NN time/NN ./.
+The/DT increase/NN in/IN length/NN is/VBZ also/RB impacted/VBN by/IN the/DT specific/JJ choice/NN of/IN data/NNS format/NN for/IN representing/VBG the/DT sentences/NNS as/IN subwords/NNS ./.
+In/IN a/DT phrase/NN -/HYPH based/VBN SMT/NNP framework/NN ,/, we/PRP investigate/VBP different/JJ choices/NNS of/IN decoder/NN parameters/NNS as/RB well/RB as/IN data/NNS format/NN and/CC their/PRP$ impact/NN on/IN decoding/NN time/NN and/CC translation/NN accuracy/NN ./.
+We/PRP suggest/VBP best/JJS options/NNS for/IN these/DT settings/NNS that/WDT significantly/RB improve/VBP decoding/NN time/NN with/IN little/JJ impact/NN on/IN the/DT translation/NN accuracy/NN ./.

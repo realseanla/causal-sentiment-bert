@@ -1,0 +1,9 @@
+We/PRP propose/VBP a/DT model/NN to/TO learn/VB visually/RB grounded/VBN word/NN embeddings/NNS (/-LRB- vis/FW -/HYPH w2v/FW )/-RRB- to/TO capture/VB visual/JJ notions/NNS of/IN semantic/JJ relatedness/NN ./.
+While/IN word/NN embeddings/NNS trained/VBN using/VBG text/NN have/VBP been/VBN extremely/RB successful/JJ ,/, they/PRP can/MD not/RB uncover/VB notions/NNS of/IN semantic/JJ relatedness/NN implicit/JJ in/IN our/PRP$ visual/JJ world/NN ./.
+For/IN instance/NN ,/, visual/JJ grounding/NN can/MD help/VB us/PRP realize/VB that/IN concepts/NNS like/IN eating/VBG and/CC staring/VBG at/IN are/VBP related/VBN ,/, since/IN when/WRB people/NNS are/VBP eating/VBG something/NN ,/, they/PRP also/RB tend/VBP to/TO stare/VB at/IN the/DT food/NN ./.
+Grounding/VBG a/DT rich/JJ variety/NN of/IN relations/NNS like/IN eating/VBG and/CC stare/VB at/IN in/IN vision/NN is/VBZ a/DT challenging/JJ task/NN ,/, despite/IN recent/JJ progress/NN in/IN vision/NN ./.
+We/PRP realize/VBP the/DT visual/JJ grounding/NN for/IN words/NNS depends/VBZ on/IN the/DT semantics/NNS of/IN our/PRP$ visual/JJ world/NN ,/, and/CC not/RB the/DT literal/JJ pixels/NNS ./.
+We/PRP thus/RB use/VBP abstract/JJ scenes/NNS created/VBN from/IN clipart/NN to/TO provide/VB the/DT visual/JJ grounding/NN ./.
+We/PRP find/VBP that/IN the/DT embeddings/NNS we/PRP learn/VBP capture/NN fine/JJ -/HYPH grained/JJ visually/RB grounded/VBN notions/NNS of/IN semantic/JJ relatedness/NN ./.
+We/PRP show/VBP improvements/NNS over/IN text/NN only/RB word/NN embeddings/NNS (/-LRB- word2vec/NN )/-RRB- on/IN three/CD tasks/NNS :/: common/JJ -/HYPH sense/NN assertion/NN classification/NN ,/, visual/JJ paraphrasing/NN and/CC text/NN -/HYPH based/VBN image/NN retrieval/NN ./.
+Our/PRP$ code/NN and/CC datasets/NNS will/MD be/VB available/JJ online/RB ./.

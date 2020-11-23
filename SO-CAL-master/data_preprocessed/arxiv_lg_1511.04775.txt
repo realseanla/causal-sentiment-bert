@@ -1,0 +1,7 @@
+We/PRP introduce/VBP normalized/VBN nonnegative/JJ models/NNS (/-LRB- NNM/NN )/-RRB- for/IN explorative/JJ data/NNS analysis/NN ./.
+NNMs/NNS are/VBP partial/JJ convexifications/NNS of/IN models/NNS from/IN probability/NN theory/NN ./.
+We/PRP demonstrate/VBP their/PRP$ value/NN at/IN the/DT example/NN of/IN item/NN recommendation/NN ./.
+We/PRP show/VBP that/IN NNM/NNP -/HYPH based/VBN recommender/NN systems/NNS satisfy/VBP three/CD criteria/NNS that/WDT all/DT recommender/NN systems/NNS should/MD ideally/RB satisfy/VB :/: high/JJ predictive/JJ power/NN ,/, computational/JJ tractability/NN ,/, and/CC expressive/JJ representations/NNS of/IN users/NNS and/CC items/NNS ./.
+Expressive/JJ user/NN and/CC item/NN representations/NNS are/VBP important/JJ in/IN practice/NN to/IN succinctly/RB summarize/VB the/DT pool/NN of/IN customers/NNS and/CC the/DT pool/NN of/IN items/NNS ./.
+In/IN NNMs/NNS ,/, user/NN representations/NNS are/VBP expressive/JJ because/IN each/DT user/NN 's/POS preference/NN can/MD be/VB regarded/VBN as/IN normalized/VBN mixture/NN of/IN preferences/NNS of/IN stereotypical/JJ users/NNS ./.
+The/DT interpretability/NN of/IN item/NN and/CC user/NN representations/NNS allow/VBP us/PRP to/TO arrange/VB properties/NNS of/IN items/NNS (/-LRB- e.g./FW ,/, genres/NNS of/IN movies/NNS or/CC topics/NNS of/IN documents/NNS )/-RRB- or/CC users/NNS (/-LRB- e.g./FW ,/, personality/NN traits/NNS )/-RRB- hierarchically/RB ./.

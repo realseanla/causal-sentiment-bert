@@ -1,0 +1,9 @@
+Lifted inference has been proposed for various probabilistic logical frameworks in order to compute the probability of queries in a time that is polynomial in the size of the domains of the logical variables rather than exponential.
+Even if various authors have underlined its importance for probabilistic logic programming (PLP), lifted inference has been applied up to now only to relational languages outside of logic programming.
+In this paper we adapt Generalized Counting First Order Variable Elimination (GC-FOVE) to the problem of computing the probability of queries to probabilistic logic programs under the distribution semantics.
+In particular, we extend the Prolog Factor Language (PFL) to include two new types of factors that are needed for representing ProbLog programs.
+These factors take into account the existing causal independence relationships among some of the random variables and are managed by the extension to variable elimination proposed by Zhang and Poole for dealing with convergent variables and heterogeneous factors.
+Two new operators are added to GC-FOVE for treating heterogeneous factors.
+The resulting algorithm, called LP^2 for Lifted Probabilistic Logic Programming, has been implemented by modifying the PFL implementation of GC-FOVE and tested on three benchmarks for lifted inference.
+The comparison with PITA and ProbLog2 shows the potential of the approach.
+Note: To appear in Theory and Practice of Logic Programming (TPLP).

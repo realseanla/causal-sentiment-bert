@@ -1,0 +1,7 @@
+Drug/NN -/HYPH drug/NN interaction/NN (/-LRB- DDI/NNP )/-RRB- is/VBZ a/DT vital/JJ information/NN when/WRB physicians/NNS and/CC pharmacists/NNS prepare/VBP for/IN the/DT combined/VBN use/NN of/IN two/CD or/CC more/JJR drugs/NNS ./.
+Thus/RB ,/, several/JJ DDI/NNP databases/NNS are/VBP constructed/VBN to/TO avoid/VB mistakenly/RB medicine/NN administering/VBG ./.
+In/IN recent/JJ years/NNS ,/, automatically/RB extracting/VBG DDIs/NNS from/IN biomedical/JJ text/NN has/VBZ drawn/VBN researchers/NNS '/POS attention/NN ./.
+However/RB ,/, the/DT existing/VBG work/NN need/VBP either/CC complex/JJ feature/NN engineering/NN or/CC NLP/NN tools/NNS ,/, both/DT of/IN which/WDT are/VBP insufficient/JJ for/IN sentence/NN comprehension/NN ./.
+Inspired/VBN by/IN the/DT deep/JJ learning/NN approaches/NNS in/IN natural/JJ language/NN processing/NN ,/, we/PRP propose/VBP a/DT recurrent/JJ neural/JJ network/NN model/NN with/IN multiple/JJ attention/NN layers/NNS for/IN DDI/NNP classification/NN ./.
+We/PRP evaluate/VBP our/PRP$ model/NN on/IN 2013/CD SemEval/NNP DDIExtraction/NNP dataset/NN ./.
+The/DT experiments/NNS show/VBP that/IN our/PRP$ model/NN classifies/VBZ most/JJS of/IN the/DT drug/NN pairs/NNS into/IN correct/JJ DDI/NNP categories/NNS ,/, which/WDT outperforms/VBZ the/DT existing/VBG NLP/NN or/CC deep/JJ learning/NN method/NN ./.

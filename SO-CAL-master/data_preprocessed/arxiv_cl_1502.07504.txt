@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT problems/NNS of/IN Arabic/NNP Text/VBP Classification/NN and/CC stemming/VBG using/VBG Transducers/NNS and/CC Rational/JJ Kernels/NNS ./.
+We/PRP introduce/VBP a/DT new/JJ stemming/VBG technique/NN based/VBN on/IN the/DT use/NN of/IN Arabic/JJ patterns/NNS (/-LRB- Pattern/NNP Based/NNP Stemmer/NNP )/-RRB- ./.
+Patterns/NNS are/VBP modelled/VBN using/VBG transducers/NNS and/CC stemming/VBG is/VBZ done/VBN without/IN depending/VBG on/IN any/DT dictionary/NN ./.
+Using/VBG transducers/NNS for/IN stemming/VBG ,/, documents/NNS are/VBP transformed/VBN into/IN finite/JJ state/NN transducers/NNS ./.
+This/DT document/NN representation/NN allows/VBZ us/PRP to/TO use/VB and/CC explore/VB rational/JJ kernels/NNS as/IN a/DT framework/NN for/IN Arabic/NNP Text/VBP Classification/NN ./.
+Stemming/VBG experiments/NNS are/VBP conducted/VBN on/IN three/CD word/NN collections/NNS and/CC classification/NN experiments/NNS are/VBP done/VBN on/IN the/DT Saudi/NNP Press/NNP Agency/NNP dataset/NN ./.
+Results/NNS show/VBP that/IN our/PRP$ approach/NN ,/, when/WRB compared/VBN with/IN other/JJ approaches/NNS ,/, is/VBZ promising/VBG specially/RB in/IN terms/NNS of/IN Accuracy/NNP ,/, Recall/NNP and/CC F1/NN ./.

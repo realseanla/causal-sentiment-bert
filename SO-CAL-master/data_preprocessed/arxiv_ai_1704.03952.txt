@@ -1,0 +1,8 @@
+Reinforcement/NN learning/NN is/VBZ considered/VBN as/IN a/DT promising/JJ direction/NN for/IN driving/VBG policy/NN learning/NN ./.
+However/RB ,/, training/VBG autonomous/JJ driving/VBG vehicle/NN with/IN reinforcement/NN learning/VBG in/IN real/JJ environment/NN involves/VBZ non-affordable/JJ trial/NN -/HYPH and/CC -/HYPH error/NN ./.
+It/PRP is/VBZ more/RBR desirable/JJ to/IN first/JJ train/NN in/IN a/DT virtual/JJ environment/NN and/CC then/RB transfer/VB to/IN the/DT real/JJ environment/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ realistic/JJ translation/NN network/NN to/TO make/VB model/NN trained/VBN in/IN virtual/JJ environment/NN be/VB workable/JJ in/IN real/JJ world/NN ./.
+The/DT proposed/VBN network/NN can/MD convert/VB non-realistic/JJ virtual/JJ image/NN input/NN into/IN a/DT realistic/JJ one/NN with/IN similar/JJ scene/NN structure/NN ./.
+Given/VBN realistic/JJ frames/NNS as/IN input/NN ,/, driving/VBG policy/NN trained/VBN by/IN reinforcement/NN learning/NN can/MD nicely/RB adapt/VB to/IN real/JJ world/NN driving/VBG ./.
+Experiments/NNS show/VBP that/IN our/PRP$ proposed/VBN virtual/JJ to/IN real/JJ (/-LRB- VR/NN )/-RRB- reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- works/VBZ pretty/RB well/RB ./.
+To/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ successful/JJ case/NN of/IN driving/VBG policy/NN trained/VBN by/IN reinforcement/NN learning/VBG that/DT can/MD adapt/VB to/IN real/JJ world/NN driving/VBG data/NNS ./.

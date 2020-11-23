@@ -1,0 +1,7 @@
+Two/CD popular/JJ approaches/NNS for/IN distributed/VBN training/NN of/IN SVMs/NNS on/IN big/JJ data/NNS are/VBP parameter/NN averaging/NN and/CC ADMM/NN ./.
+Parameter/NN averaging/NN is/VBZ efficient/JJ but/CC suffers/VBZ from/IN loss/NN of/IN accuracy/NN with/IN increase/NN in/IN number/NN of/IN partitions/NNS ,/, while/IN ADMM/NNP in/IN the/DT feature/NN space/NN is/VBZ accurate/JJ but/CC suffers/VBZ from/IN slow/JJ convergence/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP report/VBP a/DT hybrid/NN approach/NN called/VBD weighted/JJ parameter/NN averaging/NN (/-LRB- WPA/NN )/-RRB- ,/, which/WDT optimizes/VBZ the/DT regularized/VBN hinge/NN loss/NN with/IN respect/NN to/IN weights/NNS on/IN parameters/NNS ./.
+The/DT problem/NN is/VBZ shown/VBN to/TO be/VB same/JJ as/IN solving/VBG SVM/NNP in/IN a/DT projected/VBN space/NN ./.
+We/PRP also/RB demonstrate/VBP an/DT $/$ O/UH (/-LRB- \/SYM frac/NN {/-LRB- 1/CD }/-RRB- {/-LRB- N/NN }/-RRB- )/-RRB- $/$ stability/NN bound/VBN on/IN final/JJ hypothesis/NN given/VBN by/IN WPA/NNP ,/, using/VBG novel/NN proof/NN techniques/NNS ./.
+Experimental/JJ results/NNS on/IN a/DT variety/NN of/IN toy/NN and/CC real/JJ world/NN datasets/NNS show/VBP that/IN our/PRP$ approach/NN is/VBZ significantly/RB more/RBR accurate/JJ than/IN parameter/NN averaging/NN for/IN high/JJ number/NN of/IN partitions/NNS ./.
+It/PRP is/VBZ also/RB seen/VBN the/DT proposed/JJ method/NN enjoys/VBZ much/JJ faster/JJR convergence/NN compared/VBN to/IN ADMM/NNP in/IN features/NNS space/NN ./.

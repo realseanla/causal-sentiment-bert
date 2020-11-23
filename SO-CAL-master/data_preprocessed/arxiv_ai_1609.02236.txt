@@ -1,0 +1,7 @@
+Probabilistic/JJ modeling/NN is/VBZ one/CD of/IN the/DT foundations/NNS of/IN modern/JJ machine/NN learning/NN and/CC artificial/JJ intelligence/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ type/NN of/IN probabilistic/JJ models/NNS named/VBN latent/JJ dependency/NN forest/NN models/NNS (/-LRB- LDFMs/NNS )/-RRB- ./.
+A/DT LDFM/NN models/NNS the/DT dependencies/NNS between/IN random/JJ variables/NNS with/IN a/DT forest/NN structure/NN that/WDT can/MD change/VB dynamically/RB based/VBN on/IN the/DT variable/JJ values/NNS ./.
+It/PRP is/VBZ therefore/RB capable/JJ of/IN modeling/VBG context/NN -/HYPH specific/JJ independence/NN ./.
+We/PRP parameterize/VBP a/DT LDFM/NN using/VBG a/DT first/JJ -/HYPH order/NN non-projective/JJ dependency/NN grammar/NN ./.
+Learning/VBG LDFMs/NNS from/IN data/NNS can/MD be/VB formulated/VBN purely/RB as/IN a/DT parameter/NN learning/NN problem/NN ,/, and/CC hence/RB the/DT difficult/JJ problem/NN of/IN model/NN structure/NN learning/NN is/VBZ circumvented/VBN ./.
+Our/PRP$ experimental/JJ results/NNS show/VBP that/IN LDFMs/NNPS are/VBP competitive/JJ with/IN existing/VBG probabilistic/JJ models/NNS ./.

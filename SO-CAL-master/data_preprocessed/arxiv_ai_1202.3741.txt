@@ -1,0 +1,5 @@
+We/PRP present/VBP theoretical/JJ results/NNS in/IN terms/NNS of/IN lower/JJR and/CC upper/JJ bounds/NNS on/IN the/DT query/NN complexity/NN of/IN noisy/JJ search/NN with/IN comparative/JJ feedback/NN ./.
+In/IN this/DT search/NN model/NN ,/, the/DT noise/NN in/IN the/DT feedback/NN depends/VBZ on/IN the/DT distance/NN between/IN query/NN points/NNS and/CC the/DT search/NN target/NN ./.
+Consequently/RB ,/, the/DT error/NN probability/NN in/IN the/DT feedback/NN is/VBZ not/RB fixed/VBN but/CC varies/VBZ for/IN the/DT queries/NNS posed/VBN by/IN the/DT search/NN algorithm/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN a/DT target/NN out/IN of/IN n/NN items/NNS can/MD be/VB found/VBN in/IN O/NN (/-LRB- log/NN n/NN )/-RRB- queries/NNS ./.
+We/PRP also/RB show/VBP the/DT surprising/JJ result/NN that/IN for/IN k/CD possible/JJ answers/NNS per/IN query/NN ,/, the/DT speedup/NN is/VBZ not/RB log/VB k/CD (/-LRB- as/IN for/IN k/CD -/HYPH ary/JJ search/NN )/-RRB- but/CC only/JJ log/NN log/NN k/NN in/IN some/DT cases/NNS ./.

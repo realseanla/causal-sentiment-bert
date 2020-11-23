@@ -1,0 +1,7 @@
+We study the expressivity of deep neural networks with random weights.
+We provide several results, both theoretical and experimental, precisely characterizing their functional properties in terms of the depth and width of the network.
+In doing so, we illustrate inherent connections between the length of a latent trajectory, local neuron transitions, and network activation patterns.
+The latter, a notion defined in this paper, is further studied using properties of hyperplane arrangements, which also help precisely characterize the effect of the neural network on the input space.
+We further show dualities between changes to the latent state and changes to the network weights, and between the number of achievable activation patterns and the number of achievable labellings over input data.
+We see that the depth of the network affects all of these quantities exponentially, while the width appears at most as a base.
+These results also suggest that the remaining depth of a neural network is an important determinant of expressivity, supported by experiments on MNIST and CIFAR-10.

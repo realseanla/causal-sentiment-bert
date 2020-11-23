@@ -1,0 +1,6 @@
+Functional/JJ Distributional/JJ Semantics/NNS is/VBZ a/DT framework/NN that/WDT aims/VBZ to/TO learn/VB ,/, from/IN text/NN ,/, semantic/JJ representations/NNS which/WDT can/MD be/VB interpreted/VBN in/IN terms/NNS of/IN truth/NN ./.
+Here/RB we/PRP make/VBP two/CD contributions/NNS to/IN this/DT framework/NN ./.
+The/DT first/JJ is/VBZ to/TO show/VB how/WRB a/DT type/NN of/IN logical/JJ inference/NN can/MD be/VB performed/VBN by/IN evaluating/VBG conditional/JJ probabilities/NNS ./.
+The/DT second/JJ is/VBZ to/TO make/VB these/DT calculations/NNS tractable/JJ by/IN means/NNS of/IN a/DT variational/JJ approximation/NN ./.
+This/DT approximation/NN also/RB enables/VBZ faster/RBR convergence/NN during/IN training/NN ,/, allowing/VBG us/PRP to/TO close/VB the/DT gap/NN with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN vector/NN space/NN models/NNS when/WRB evaluating/VBG on/IN semantic/JJ similarity/NN ./.
+We/PRP demonstrate/VBP promising/JJ performance/NN on/IN two/CD tasks/NNS ./.

@@ -1,0 +1,7 @@
+Reinforcement/NN learning/NN tasks/NNS are/VBP typically/RB specified/VBN as/IN Markov/NNP decision/NN processes/NNS ./.
+This/DT formalism/NN has/VBZ been/VBN highly/RB successful/JJ ,/, though/IN specifications/NNS often/RB couple/VBP the/DT dynamics/NNS of/IN the/DT environment/NN and/CC the/DT learning/NN objective/NN ./.
+This/DT lack/NN of/IN modularity/NN can/MD complicate/VB generalization/NN of/IN the/DT task/NN specification/NN ,/, as/RB well/RB as/IN obfuscate/VBP connections/NNS between/IN different/JJ task/NN settings/NNS ,/, such/JJ as/IN episodic/JJ and/CC continuing/VBG ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP the/DT RL/NN task/NN formalism/NN ,/, that/WDT provides/VBZ a/DT unification/NN through/IN simple/JJ constructs/NNS including/VBG a/DT generalization/NN to/IN transition/NN -/HYPH based/VBN discounting/NN ./.
+Through/IN a/DT series/NN of/IN examples/NNS ,/, we/PRP demonstrate/VBP the/DT generality/NN and/CC utility/NN of/IN this/DT formalism/NN ./.
+Finally/RB ,/, we/PRP extend/VBP standard/JJ learning/VBG constructs/NNS ,/, including/VBG Bellman/NNP operators/NNS ,/, and/CC extend/VB some/DT seminal/JJ theoretical/JJ results/NNS ,/, including/VBG approximation/NN errors/NNS bounds/NNS ./.
+Overall/RB ,/, we/PRP provide/VBP a/DT well/RB -/HYPH understood/VBN and/CC sound/VB formalism/NN on/IN which/WDT to/TO build/VB theoretical/JJ results/NNS and/CC simplify/VB algorithm/NN use/NN and/CC development/NN ./.

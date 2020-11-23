@@ -1,0 +1,4 @@
+We/PRP introduce/VBP a/DT method/NN for/IN transliteration/NN generation/NN that/WDT can/MD produce/VB transliterations/NNS in/IN every/DT language/NN ./.
+Where/WRB previous/JJ results/NNS are/VBP only/RB as/IN multilingual/JJ as/IN Wikipedia/NNP ,/, we/PRP show/VBP how/WRB to/TO use/VB training/NN data/NNS from/IN Wikipedia/NNP as/IN surrogate/JJ training/NN for/IN any/DT language/NN ./.
+Thus/RB ,/, the/DT problem/NN becomes/VBZ one/CD of/IN ranking/VBG Wikipedia/NNP languages/NNS in/IN order/NN of/IN suitability/NN with/IN respect/NN to/IN a/DT target/NN language/NN ./.
+We/PRP introduce/VBP several/JJ task/NN -/HYPH specific/JJ methods/NNS for/IN ranking/VBG languages/NNS ,/, and/CC show/VBP that/IN our/PRP$ approach/NN is/VBZ comparable/JJ to/IN the/DT oracle/NN ceiling/NN ,/, and/CC even/RB outperforms/VBZ it/PRP in/IN some/DT cases/NNS ./.

@@ -1,0 +1,8 @@
+We/PRP present/VBP a/DT novel/JJ diffusion/NN scheme/NN for/IN online/JJ kernel/NN -/HYPH based/VBN learning/NN over/IN networks/NNS ./.
+So/RB far/RB ,/, a/DT major/JJ drawback/NN of/IN any/DT online/JJ learning/NN algorithm/NN ,/, operating/VBG in/IN a/DT reproducing/VBG kernel/NN Hilbert/NNP space/NN (/-LRB- RKHS/NN )/-RRB- ,/, is/VBZ the/DT need/NN for/IN updating/VBG a/DT growing/VBG number/NN of/IN parameters/NNS as/IN time/NN iterations/NNS evolve/VBP ./.
+Besides/IN complexity/NN ,/, this/DT leads/VBZ to/IN an/DT increased/VBN need/NN of/IN communication/NN resources/NNS ,/, in/IN a/DT distributed/VBN setting/NN ./.
+In/IN contrast/NN ,/, the/DT proposed/JJ method/NN approximates/VBZ the/DT solution/NN as/IN a/DT fixed/VBN -/HYPH size/NN vector/NN (/-LRB- of/IN larger/JJR dimension/NN than/IN the/DT input/NN space/NN )/-RRB- using/VBG Random/NNP Fourier/NNP Features/NNS ./.
+This/DT paves/VBZ the/DT way/NN to/TO use/VB standard/JJ linear/JJ combine/VB -/HYPH then/RB -/HYPH adapt/VB techniques/NNS ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ time/NN that/WDT a/DT complete/JJ protocol/NN for/IN distributed/VBN online/JJ learning/NN in/IN RKHS/NNP is/VBZ presented/VBN ./.
+Conditions/NNS for/IN asymptotic/JJ convergence/NN and/CC boundness/NN of/IN the/DT networkwise/NN regret/NN are/VBP also/RB provided/VBN ./.
+The/DT simulated/JJ tests/NNS illustrate/VBP the/DT performance/NN of/IN the/DT proposed/VBN scheme/NN ./.

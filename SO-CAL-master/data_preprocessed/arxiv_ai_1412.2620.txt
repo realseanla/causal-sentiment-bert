@@ -1,0 +1,8 @@
+The/DT transcription/NN of/IN handwritten/JJ text/NN on/IN images/NNS is/VBZ one/CD task/NN in/IN machine/NN learning/NN and/CC one/CD solution/NN to/TO solve/VB it/PRP is/VBZ using/VBG multi-dimensional/JJ recurrent/JJ neural/JJ networks/NNS (/-LRB- MDRNN/NNP )/-RRB- with/IN connectionist/NN temporal/JJ classification/NN (/-LRB- CTC/NN )/-RRB- ./.
+The/DT RNNs/NNS can/MD contain/VB special/JJ units/NNS ,/, the/DT long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- cells/NNS ./.
+They/PRP are/VBP able/JJ to/TO learn/VB long/JJ term/NN dependencies/NNS but/CC they/PRP get/VBP unstable/JJ when/WRB the/DT dimension/NN is/VBZ chosen/VBN greater/JJR than/IN one/CD ./.
+We/PRP defined/VBD some/DT useful/JJ and/CC necessary/JJ properties/NNS for/IN the/DT one/CD -/HYPH dimensional/JJ LSTM/NN cell/NN and/CC extend/VB them/PRP in/IN the/DT multi-dimensional/JJ case/NN ./.
+Thereby/RB we/PRP introduce/VBP several/JJ new/JJ cells/NNS with/IN better/JJR stability/NN ./.
+We/PRP present/VBP a/DT method/NN to/TO design/VB cells/NNS using/VBG the/DT theory/NN of/IN linear/JJ shift/NN invariant/JJ systems/NNS ./.
+The/DT new/JJ cells/NNS are/VBP compared/VBN to/IN the/DT LSTM/NNP cell/NN on/IN the/DT IFN/NNP //HYPH ENIT/NNP and/CC Rimes/NNP database/NN ,/, where/WRB we/PRP can/MD improve/VB the/DT recognition/NN rate/NN compared/VBN to/IN the/DT LSTM/NNP cell/NN ./.
+So/RB each/DT application/NN where/WRB the/DT LSTM/NN cells/NNS in/IN MDRNNs/NNS are/VBP used/VBN could/MD be/VB improved/VBN by/IN substituting/VBG them/PRP by/IN the/DT new/JJ developed/JJ cells/NNS ./.

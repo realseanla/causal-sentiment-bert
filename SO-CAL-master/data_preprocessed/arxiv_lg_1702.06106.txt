@@ -1,0 +1,5 @@
+In/IN information/NN retrieval/NN ,/, learning/VBG to/IN rank/NN constructs/NNS a/DT machine/NN -/HYPH based/VBN ranking/VBG model/NN which/WDT given/VBN a/DT query/NN ,/, sorts/VBZ the/DT search/NN results/NNS by/IN their/PRP$ degree/NN of/IN relevance/NN or/CC importance/NN to/IN the/DT query/NN ./.
+Neural/JJ networks/NNS have/VBP been/VBN successfully/RB applied/VBN to/IN this/DT problem/NN ,/, and/CC in/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT attention/NN -/HYPH based/VBN deep/JJ neural/JJ network/NN which/WDT better/JJR incorporates/VBZ different/JJ embeddings/NNS of/IN the/DT queries/NNS and/CC search/VB results/NNS with/IN an/DT attention/NN -/HYPH based/VBN mechanism/NN ./.
+This/DT model/NN also/RB applies/VBZ a/DT decoder/NN mechanism/NN to/TO learn/VB the/DT ranks/NNS of/IN the/DT search/NN results/VBZ in/IN a/DT listwise/JJ fashion/NN ./.
+The/DT embeddings/NNS are/VBP trained/VBN with/IN convolutional/JJ neural/JJ networks/NNS or/CC the/DT word2vec/NN model/NN ./.
+We/PRP demonstrate/VBP the/DT performance/NN of/IN this/DT model/NN with/IN image/NN retrieval/NN and/CC text/NN querying/NN data/NN sets/NNS ./.

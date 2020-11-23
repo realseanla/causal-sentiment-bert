@@ -1,0 +1,9 @@
+Music/NN auto/NN -/HYPH tagging/NN is/VBZ often/RB handled/VBN in/IN a/DT similar/JJ manner/NN to/IN image/NN classification/NN by/IN regarding/VBG the/DT 2D/NN audio/NN spectrogram/NN as/IN image/NN data/NNS ./.
+However/RB ,/, music/NN auto/NN -/HYPH tagging/NN is/VBZ distinguished/VBN from/IN image/NN classification/NN in/IN that/IN the/DT tags/NNS are/VBP highly/RB diverse/JJ and/CC have/VBP different/JJ levels/NNS of/IN abstractions/NNS ./.
+Considering/VBG this/DT issue/NN ,/, we/PRP propose/VBP a/DT convolutional/JJ neural/JJ networks/NNS (/-LRB- CNN/NNP )/-RRB- -/HYPH based/VBN architecture/NN that/WDT embraces/VBZ multi-level/JJ and/CC multi-scaled/JJ features/NNS ./.
+The/DT architecture/NN is/VBZ trained/VBN in/IN three/CD steps/NNS ./.
+First/RB ,/, we/PRP conduct/VBP supervised/JJ feature/NN learning/NN to/TO capture/VB local/JJ audio/NN features/NNS using/VBG a/DT set/NN of/IN CNNs/NNS with/IN different/JJ input/NN sizes/NNS ./.
+Second/RB ,/, we/PRP extract/VBP audio/JJ features/NNS from/IN each/DT layer/NN of/IN the/DT pre-trained/JJ convolutional/JJ networks/NNS separately/RB and/CC aggregate/JJ them/PRP altogether/RB given/VBN a/DT long/JJ audio/NN clip/NN ./.
+Finally/RB ,/, we/PRP put/VBD them/PRP into/IN fully/RB -/HYPH connected/VBN networks/NNS and/CC make/VB final/JJ predictions/NNS of/IN the/DT tags/NNS ./.
+Our/PRP$ experiments/NNS show/VBP that/IN using/VBG the/DT combination/NN of/IN multi-level/JJ and/CC multi-scale/JJ features/NNS is/VBZ highly/RB effective/JJ in/IN music/NN auto/NN -/HYPH tagging/NN and/CC the/DT proposed/JJ method/NN outperforms/VBZ previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH arts/NNS on/IN the/DT Magnatagatune/NNP dataset/NN and/CC the/DT million/CD song/NN dataset/NN ./.
+We/PRP further/RB show/VBP that/IN the/DT proposed/VBN architecture/NN is/VBZ useful/JJ in/IN transfer/NN learning/NN ./.

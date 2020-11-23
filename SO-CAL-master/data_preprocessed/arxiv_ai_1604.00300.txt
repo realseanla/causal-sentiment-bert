@@ -1,0 +1,6 @@
+Traditional/JJ pattern/NN mining/NN algorithms/NNS generally/RB suffer/VBP from/IN a/DT lack/NN of/IN flexibility/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT SAT/NN formulation/NN of/IN the/DT problem/NN to/TO successfully/RB mine/PRP frequent/JJ flexible/JJ sequences/NNS occurring/VBG in/IN transactional/JJ datasets/NNS ./.
+Our/PRP$ SAT/NN -/HYPH based/VBN approach/NN can/MD easily/RB be/VB extended/VBN with/IN extra/JJ constraints/NNS to/TO address/VB a/DT broad/JJ range/NN of/IN pattern/NN mining/NN applications/NNS ./.
+To/TO demonstrate/VB this/DT claim/NN ,/, we/PRP formulate/VBP and/CC add/VBP several/JJ constraints/NNS ,/, such/JJ as/IN gap/NN and/CC span/NN constraints/NNS ,/, to/IN our/PRP$ model/NN in/IN order/NN to/TO extract/VB more/RBR specific/JJ patterns/NNS ./.
+We/PRP also/RB use/VBP interactive/JJ solving/VBG to/TO perform/VB important/JJ derived/VBN tasks/NNS ,/, such/JJ as/IN closed/JJ pattern/NN mining/NN or/CC maximal/JJ pattern/NN mining/NN ./.
+Finally/RB ,/, we/PRP prove/VBP the/DT practical/JJ feasibility/NN of/IN our/PRP$ SAT/NN model/NN by/IN running/VBG experiments/NNS on/IN two/CD real/JJ datasets/NNS ./.

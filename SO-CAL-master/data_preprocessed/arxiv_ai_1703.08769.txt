@@ -1,0 +1,5 @@
+Recognizing/VBG arbitrary/JJ objects/NNS in/IN the/DT wild/JJ has/VBZ been/VBN a/DT challenging/JJ problem/NN due/IN to/IN the/DT limitations/NNS of/IN existing/VBG classification/NN models/NNS and/CC datasets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ task/NN that/WDT aims/VBZ at/IN parsing/VBG scene/NN with/IN a/DT large/JJ and/CC open/JJ vocabulary/NN ,/, and/CC several/JJ evaluation/NN metrics/NNS are/VBP explored/VBN for/IN this/DT problem/NN ./.
+Our/PRP$ proposed/VBN approach/NN to/IN this/DT problem/NN is/VBZ a/DT joint/JJ image/NN pixel/NN and/CC word/NN concept/NN embeddings/NNS framework/NN ,/, where/WRB word/NN concepts/NNS are/VBP connected/VBN by/IN semantic/JJ relations/NNS ./.
+We/PRP validate/VBP the/DT open/JJ vocabulary/NN prediction/NN ability/NN of/IN our/PRP$ framework/NN on/IN ADE20K/NN dataset/NN which/WDT covers/VBZ a/DT wide/JJ variety/NN of/IN scenes/NNS and/CC objects/NNS ./.
+We/PRP further/RB explore/VB the/DT trained/VBN joint/JJ embedding/NN space/NN to/TO show/VB its/PRP$ interpretability/NN ./.

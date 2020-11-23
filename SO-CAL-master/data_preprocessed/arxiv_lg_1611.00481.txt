@@ -1,0 +1,14 @@
+In/IN the/DT era/NN of/IN big/JJ data/NNS ,/, it/PRP is/VBZ common/JJ to/TO have/VB data/NNS with/IN multiple/JJ modalities/NNS or/CC coming/VBG from/IN multiple/JJ sources/NNS ,/, known/VBN as/IN "/`` multi-view/JJ data/NNS "/'' ./.
+Multi-view/JJ clustering/NN provides/VBZ a/DT natural/JJ way/NN to/TO generate/VB clusters/NNS from/IN such/JJ data/NNS ./.
+Since/IN different/JJ views/NNS share/VBP some/DT consistency/NN and/CC complementary/JJ information/NN ,/, previous/JJ works/NNS on/IN multi-view/JJ clustering/NN mainly/RB focus/VBP on/IN how/WRB to/TO combine/VB various/JJ numbers/NNS of/IN views/NNS to/TO improve/VB clustering/NN performance/NN ./.
+However/RB ,/, in/IN reality/NN ,/, each/DT view/NN may/MD be/VB incomplete/JJ ,/, i.e./FW ,/, instances/NNS missing/VBG in/IN the/DT view/NN ./.
+Furthermore/RB ,/, the/DT size/NN of/IN data/NNS could/MD be/VB extremely/RB huge/JJ ./.
+It/PRP is/VBZ unrealistic/JJ to/TO apply/VB multi-view/NN clustering/NN in/IN large/JJ real/JJ -/HYPH world/NN applications/NNS without/IN considering/VBG the/DT incompleteness/NN of/IN views/NNS and/CC the/DT memory/NN requirement/NN ./.
+None/NN of/IN previous/JJ works/NNS have/VBP addressed/VBN all/PDT these/DT challenges/NNS simultaneously/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT online/JJ multi-view/NN clustering/NN algorithm/NN ,/, OMVC/NNP ,/, which/WDT deals/VBZ with/IN large/JJ -/HYPH scale/NN incomplete/JJ views/NNS ./.
+We/PRP model/VBP the/DT multi-view/JJ clustering/NN problem/NN as/IN a/DT joint/JJ weighted/JJ nonnegative/JJ matrix/NN factorization/NN problem/NN and/CC process/NN the/DT multi-view/JJ data/NNS chunk/NN by/IN chunk/NN to/TO reduce/VB the/DT memory/NN requirement/NN ./.
+OMVC/NNP learns/VBZ the/DT latent/JJ feature/NN matrices/NNS for/IN all/PDT the/DT views/NNS and/CC pushes/VBZ them/PRP towards/IN a/DT consensus/NN ./.
+We/PRP further/RBR increase/VB the/DT robustness/NN of/IN the/DT learned/VBN latent/NN feature/NN matrices/NNS in/IN OMVC/NNP via/IN lasso/NNP regularization/NN ./.
+To/TO minimize/VB the/DT influence/NN of/IN incompleteness/NN ,/, dynamic/JJ weight/NN setting/NN is/VBZ introduced/VBN to/TO give/VB lower/JJR weights/NNS to/IN the/DT incoming/JJ missing/JJ instances/NNS in/IN different/JJ views/NNS ./.
+More/RBR importantly/RB ,/, to/TO reduce/VB the/DT computational/JJ time/NN ,/, we/PRP incorporate/VBP a/DT faster/RBR projected/VBN gradient/NN descent/NN by/IN utilizing/VBG the/DT Hessian/JJ matrices/NNS in/IN OMVC/NNP ./.
+Extensive/JJ experiments/NNS conducted/VBN on/IN four/CD real/JJ data/NNS demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN OMVC/NN method/NN ./.

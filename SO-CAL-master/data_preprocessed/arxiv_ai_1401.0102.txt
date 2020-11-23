@@ -1,0 +1,10 @@
+We/PRP propose/VBP a/DT protocol/NN for/IN intrusion/NN detection/NN in/IN distributed/VBN systems/NNS based/VBN on/IN a/DT relatively/RB recent/JJ theory/NN in/IN immunology/NN called/VBN danger/NN theory/NN ./.
+Based/VBN on/IN danger/NN theory/NN ,/, immune/JJ response/NN in/IN natural/JJ systems/NNS is/VBZ a/DT result/NN of/IN sensing/VBG corruption/NN as/RB well/RB as/IN sensing/VBG unknown/JJ substances/NNS ./.
+In/IN contrast/NN ,/, traditional/JJ self/NN -/HYPH nonself/NN discrimination/NN theory/NN states/VBZ that/IN immune/JJ response/NN is/VBZ only/RB initiated/VBN by/IN sensing/VBG nonself/NN (/-LRB- unknown/JJ )/-RRB- patterns/NNS ./.
+Danger/NNP theory/NN solves/VBZ many/JJ problems/NNS that/WDT could/MD only/RB be/VB partially/RB explained/VBN by/IN the/DT traditional/JJ model/NN ./.
+Although/IN the/DT traditional/JJ model/NN is/VBZ simpler/JJR ,/, such/JJ problems/NNS result/VBP in/IN high/JJ false/JJ positive/JJ rates/NNS in/IN immune/JJ -/HYPH inspired/JJ intrusion/NN detection/NN systems/NNS ./.
+We/PRP believe/VBP using/VBG danger/NN theory/NN in/IN a/DT multi-agent/JJ environment/NN that/WDT computationally/RB emulates/VBZ the/DT behavior/NN of/IN natural/JJ immune/JJ systems/NNS is/VBZ effective/JJ in/IN reducing/VBG false/JJ positive/JJ rates/NNS ./.
+We/PRP first/RB describe/VB a/DT simplified/JJ scenario/NN of/IN immune/JJ response/NN in/IN natural/JJ systems/NNS based/VBN on/IN danger/NN theory/NN and/CC then/RB ,/, convert/VB it/PRP to/IN a/DT computational/JJ model/NN as/IN a/DT network/NN protocol/NN ./.
+In/IN our/PRP$ protocol/NN ,/, we/PRP define/VBP several/JJ immune/JJ signals/NNS and/CC model/NN cell/NN signaling/NN via/IN message/NN passing/NN between/IN agents/NNS that/WDT emulate/VBP cells/NNS ./.
+Most/JJS messages/NNS include/VBP application/NN -/HYPH specific/JJ patterns/NNS that/WDT must/MD be/VB meaningfully/RB extracted/VBN from/IN various/JJ system/NN properties/NNS ./.
+We/PRP finally/RB provide/VBP a/DT few/JJ rules/NNS of/IN thumb/NN to/TO simplify/VB the/DT task/NN of/IN pattern/NN extraction/NN in/IN most/JJS distributed/VBN systems/NNS ./.

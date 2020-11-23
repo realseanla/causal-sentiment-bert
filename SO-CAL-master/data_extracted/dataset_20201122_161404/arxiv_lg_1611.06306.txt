@@ -1,0 +1,5 @@
+A novel data representation method of convolutional neural net- work (CNN) is proposed in this paper to represent data of different modalities.
+We learn a CNN model for the data of each modality to map the data of differ- ent modalities to a common space, and regularize the new representations in the common space by a cross-model relevance matrix.
+We further impose that the class label of data points can also be predicted from the CNN representa- tions in the common space.
+The learning problem is modeled as a minimiza- tion problem, which is solved by an augmented Lagrange method (ALM) with updating rules of Alternating direction method of multipliers (ADMM).
+The experiments over benchmark of sequence data of multiple modalities show its advantage.

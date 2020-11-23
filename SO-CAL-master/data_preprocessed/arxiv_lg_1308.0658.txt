@@ -1,0 +1,12 @@
+With/IN the/DT proliferation/NN of/IN its/PRP$ applications/NNS in/IN various/JJ industries/NNS ,/, sentiment/NN analysis/NN by/IN using/VBG publicly/RB available/JJ web/NN data/NNS has/VBZ become/VBN an/DT active/JJ research/NN area/NN in/IN text/NN classification/NN during/IN these/DT years/NNS ./.
+It/PRP is/VBZ argued/VBN by/IN researchers/NNS that/WDT semi-supervised/VBD learning/NN is/VBZ an/DT effective/JJ approach/NN to/IN this/DT problem/NN since/IN it/PRP is/VBZ capable/JJ to/TO mitigate/VB the/DT manual/JJ labeling/NN effort/NN which/WDT is/VBZ usually/RB expensive/JJ and/CC time/NN -/HYPH consuming/VBG ./.
+However/RB ,/, there/EX was/VBD a/DT long/JJ -/HYPH term/NN debate/NN on/IN the/DT effectiveness/NN of/IN unlabeled/JJ data/NNS in/IN text/NN classification/NN ./.
+This/DT was/VBD partially/RB caused/VBN by/IN the/DT fact/NN that/IN many/JJ assumptions/NNS in/IN theoretic/JJ analysis/NN often/RB do/VBP not/RB hold/VB in/RP practice/NN ./.
+We/PRP argue/VBP that/IN this/DT problem/NN may/MD be/VB further/RB understood/VBN by/IN adding/VBG an/DT additional/JJ dimension/NN in/IN the/DT experiment/NN ./.
+This/DT allows/VBZ us/PRP to/TO address/VB this/DT problem/NN in/IN the/DT perspective/NN of/IN bias/NN and/CC variance/NN in/IN a/DT broader/JJR view/NN ./.
+We/PRP show/VBP that/IN the/DT well/NN -/HYPH known/VBN performance/NN degradation/NN issue/NN caused/VBN by/IN unlabeled/JJ data/NNS can/MD be/VB reproduced/VBN as/IN a/DT subset/NN of/IN the/DT whole/JJ scenario/NN ./.
+We/PRP argue/VBP that/IN if/IN the/DT bias/NN -/HYPH variance/NN trade/NN -/HYPH off/NN is/VBZ to/TO be/VB better/RBR balanced/VBN by/IN a/DT more/RBR effective/JJ feature/NN selection/NN method/NN unlabeled/JJ data/NNS is/VBZ very/RB likely/JJ to/TO boost/VB the/DT classification/NN performance/NN ./.
+We/PRP then/RB propose/VB a/DT feature/NN selection/NN framework/NN in/IN which/WDT labeled/VBN and/CC unlabeled/JJ training/NN samples/NNS are/VBP both/RB considered/VBN ./.
+We/PRP discuss/VBP its/PRP$ potential/NN in/IN achieving/VBG such/PDT a/DT balance/NN ./.
+Besides/RB ,/, the/DT application/NN in/IN financial/JJ sentiment/NN analysis/NN is/VBZ chosen/VBN because/IN it/PRP not/RB only/RB exemplifies/VBZ an/DT important/JJ application/NN ,/, the/DT data/NNS possesses/VBZ better/JJR illustrative/JJ power/NN as/RB well/RB ./.
+The/DT implications/NNS of/IN this/DT study/NN in/IN text/NN classification/NN and/CC financial/JJ sentiment/NN analysis/NN are/VBP both/DT discussed/VBN ./.

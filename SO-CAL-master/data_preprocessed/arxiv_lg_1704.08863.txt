@@ -1,0 +1,6 @@
+A/DT proper/JJ initialization/NN of/IN the/DT weights/NNS in/IN a/DT neural/JJ network/NN is/VBZ critical/JJ to/IN its/PRP$ convergence/NN ./.
+Current/JJ insights/NNS into/IN weight/NN initialization/NN come/VB primarily/RB from/IN linear/JJ activation/NN functions/NNS ./.
+In/IN this/DT paper/NN ,/, I/PRP develop/VBP a/DT theory/NN for/IN weight/NN initializations/NNS with/IN non-linear/JJ activations/NNS ./.
+First/RB ,/, I/PRP derive/VBP a/DT general/JJ weight/NN initialization/NN strategy/NN for/IN any/DT neural/JJ network/NN using/VBG activation/NN functions/NNS differentiable/VBP at/IN 0/CD ./.
+Next/RB ,/, I/PRP derive/VBP the/DT weight/NN initialization/NN strategy/NN for/IN the/DT Rectified/VBN Linear/NNP Unit/NNP (/-LRB- RELU/NNP )/-RRB- ,/, and/CC provide/VB theoretical/JJ insights/NNS into/IN why/WRB the/DT Xavier/NNP initialization/NN is/VBZ a/DT poor/JJ choice/NN with/IN RELU/NN activations/NNS ./.
+My/PRP$ analysis/NN provides/VBZ a/DT clear/JJ demonstration/NN of/IN the/DT role/NN of/IN non-linearities/NNS in/IN determining/VBG the/DT proper/JJ weight/NN initializations/NNS ./.

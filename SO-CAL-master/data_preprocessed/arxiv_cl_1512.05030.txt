@@ -1,0 +1,5 @@
+Morpho/NNP -/HYPH syntactic/JJ lexicons/NNS provide/VBP information/NN about/IN the/DT morphological/JJ and/CC syntactic/JJ roles/NNS of/IN words/NNS in/IN a/DT language/NN ./.
+Such/JJ lexicons/NNS are/VBP not/RB available/JJ for/IN all/DT languages/NNS and/CC even/RB when/WRB available/JJ ,/, their/PRP$ coverage/NN can/MD be/VB limited/VBN ./.
+We/PRP present/VBP a/DT graph/NN -/HYPH based/VBN semi-supervised/JJ learning/NN method/NN that/WDT uses/VBZ the/DT morphological/JJ ,/, syntactic/JJ and/CC semantic/JJ relations/NNS between/IN words/NNS to/TO automatically/RB construct/VB wide/JJ coverage/NN lexicons/NNS from/IN small/JJ seed/NN sets/NNS ./.
+Our/PRP$ method/NN is/VBZ language/NN -/HYPH independent/JJ ,/, and/CC we/PRP show/VBP that/IN we/PRP can/MD expand/VB a/DT 1000/CD word/NN seed/NN lexicon/NN to/IN more/JJR than/IN 100/CD times/NNS its/PRP$ size/NN with/IN high/JJ quality/NN for/IN 11/CD languages/NNS ./.
+In/IN addition/NN ,/, the/DT automatically/RB created/VBN lexicons/NNS provide/VBP features/NNS that/WDT improve/VBP performance/NN in/IN two/CD downstream/JJ tasks/NNS :/: morphological/JJ tagging/NN and/CC dependency/NN parsing/VBG ./.

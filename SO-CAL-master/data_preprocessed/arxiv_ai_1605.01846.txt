@@ -1,0 +1,9 @@
+The/DT knowledge/NN base/NN paradigm/NN aims/VBZ to/TO express/VB domain/NN knowledge/NN in/IN a/DT rich/JJ formal/JJ language/NN ,/, and/CC to/TO use/VB this/DT domain/NN knowledge/NN as/IN a/DT knowledge/NN base/NN to/TO solve/VB various/JJ problems/NNS and/CC tasks/NNS that/WDT arise/VBP in/IN the/DT domain/NN by/IN applying/VBG multiple/JJ forms/NNS of/IN inference/NN ./.
+As/IN such/JJ ,/, the/DT paradigm/NN applies/VBZ a/DT strict/JJ separation/NN of/IN concerns/NNS between/IN information/NN and/CC problem/NN solving/VBG ./.
+In/IN this/DT paper/NN ,/, we/PRP analyze/VBP the/DT principles/NNS and/CC feasibility/NN of/IN the/DT knowledge/NN base/NN paradigm/NN in/IN the/DT context/NN of/IN an/DT important/JJ class/NN of/IN applications/NNS :/: interactive/JJ configuration/NN problems/NNS ./.
+In/IN interactive/JJ configuration/NN problems/NNS ,/, a/DT configuration/NN of/IN interrelated/JJ objects/NNS under/IN constraints/NNS is/VBZ searched/VBN ,/, where/WRB the/DT system/NN assists/VBZ the/DT user/NN in/IN reaching/VBG an/DT intended/VBN configuration/NN ./.
+It/PRP is/VBZ widely/RB recognized/VBN in/IN industry/NN that/WDT good/JJ software/NN solutions/NNS for/IN these/DT problems/NNS are/VBP very/RB difficult/JJ to/TO develop/VB ./.
+We/PRP investigate/VBP such/JJ problems/NNS from/IN the/DT perspective/NN of/IN the/DT KB/NNP paradigm/NN ./.
+We/PRP show/VBP that/IN multiple/JJ functionalities/NNS in/IN this/DT domain/NN can/MD be/VB achieved/VBN by/IN applying/VBG different/JJ forms/NNS of/IN logical/JJ inferences/NNS on/IN a/DT formal/JJ specification/NN of/IN the/DT configuration/NN domain/NN ./.
+We/PRP report/VBP on/IN a/DT proof/NN of/IN concept/NN of/IN this/DT approach/NN in/IN a/DT real/JJ -/HYPH life/NN application/NN with/IN a/DT banking/NN company/NN ./.
+To/TO appear/VB in/IN Theory/NN and/CC Practice/NN of/IN Logic/NNP Programming/NNP (/-LRB- TPLP/NN )/-RRB- ./.

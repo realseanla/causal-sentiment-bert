@@ -1,0 +1,6 @@
+Neural/JJ network/NN based/VBN approaches/NNS for/IN sentence/NN relation/NN modeling/NN automatically/RB generate/VBP hidden/VBN matching/VBG features/NNS from/IN raw/JJ sentence/NN pairs/NNS ./.
+However/RB ,/, the/DT quality/NN of/IN matching/VBG feature/NN representation/NN may/MD not/RB be/VB satisfied/VBN due/IN to/IN complex/JJ semantic/JJ relations/NNS such/JJ as/IN entailment/NN or/CC contradiction/NN ./.
+To/TO address/VB this/DT challenge/NN ,/, we/PRP propose/VBP a/DT new/JJ deep/JJ neural/JJ network/NN architecture/NN that/WDT jointly/RB leverage/VBP pre-trained/JJ word/NN embedding/NN and/CC auxiliary/JJ character/NN embedding/NN to/TO learn/VB sentence/NN meanings/NNS ./.
+The/DT two/CD kinds/NNS of/IN word/NN sequence/NN representations/NNS as/IN inputs/NNS into/IN multi-layer/JJ bidirectional/JJ LSTM/NN to/TO learn/VB enhanced/VBN sentence/NN representation/NN ./.
+After/IN that/DT ,/, we/PRP construct/VBP matching/VBG features/NNS followed/VBN by/IN another/DT temporal/JJ CNN/NNP to/TO learn/VB high/JJ -/HYPH level/NN hidden/VBN matching/VBG feature/NN representations/NNS ./.
+Experimental/JJ results/NNS demonstrate/VBP that/IN our/PRP$ approach/NN consistently/RB outperforms/VBZ the/DT existing/VBG methods/NNS on/IN standard/JJ evaluation/NN datasets/NNS ./.

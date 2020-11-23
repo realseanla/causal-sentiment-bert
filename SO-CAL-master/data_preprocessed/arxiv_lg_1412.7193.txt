@@ -1,0 +1,6 @@
+This/DT paper/NN proposes/VBZ a/DT novel/JJ framework/NN for/IN unsupervised/JJ audio/JJ source/NN separation/NN using/VBG a/DT deep/JJ autoencoder/NN ./.
+The/DT characteristics/NNS of/IN unknown/JJ source/NN signals/NNS mixed/VBN in/IN the/DT mixed/JJ input/NN is/VBZ automatically/RB by/IN properly/RB configured/VBN autoencoders/NNS implemented/VBN by/IN a/DT network/NN with/IN many/JJ layers/NNS ,/, and/CC separated/VBN by/IN clustering/VBG the/DT coefficient/NN vectors/NNS in/IN the/DT code/NN layer/NN ./.
+By/IN investigating/VBG the/DT weight/NN vectors/NNS to/IN the/DT final/JJ target/NN ,/, representation/NN layer/NN ,/, the/DT primitive/JJ components/NNS of/IN the/DT audio/JJ signals/NNS in/IN the/DT frequency/NN domain/NN are/VBP observed/VBN ./.
+By/IN clustering/VBG the/DT activation/NN coefficients/NNS in/IN the/DT code/NN layer/NN ,/, the/DT previously/RB unknown/JJ source/NN signals/NNS are/VBP segregated/VBN ./.
+The/DT original/JJ source/NN sounds/NNS are/VBP then/RB separated/VBN and/CC reconstructed/VBN by/IN using/VBG code/NN vectors/NNS which/WDT belong/VBP to/IN different/JJ clusters/NNS ./.
+The/DT restored/VBN sounds/NNS are/VBP not/RB perfect/JJ but/CC yield/VBP promising/JJ results/NNS for/IN the/DT possibility/NN in/IN the/DT success/NN of/IN many/JJ practical/JJ applications/NNS ./.

@@ -1,0 +1,5 @@
+We present a distributed vector representation based on a simplification of the BEAGLE system, designed in the context of the Sigma cognitive architecture.
+Our method does not require gradient-based training of neural networks, matrix decompositions as with LSA, or convolutions as with BEAGLE.
+All that is involved is a sum of random vectors and their pointwise products.
+Despite the simplicity of this technique, it gives state-of-the-art results on analogy problems, in most cases better than Word2Vec.
+To explain this success, we interpret it as a dimension reduction via random projection.

@@ -1,0 +1,8 @@
+It was shown before that the NP-hard problem of deterministic finite automata (DFA) identification can be effectively translated to Boolean satisfiability (SAT).
+Modern SAT-solvers can tackle hard DFA identification instances efficiently.
+We present a technique to reduce the problem search space by enforcing an enumeration of DFA states in depth-first search (DFS) or breadth-first search (BFS) order.
+We propose symmetry breaking predicates, which can be added to Boolean formulae representing various DFA identification problems.
+We show how to apply this technique to DFA identification from both noiseless and noisy data.
+Also we propose a method to identify all automata of the desired size.
+The proposed approach outperforms the current state-of-the-art DFASAT method for DFA identification from noiseless data.
+A big advantage of the proposed approach is that it allows to determine exactly the existence or non-existence of a solution of the noisy DFA identification problem unlike metaheuristic approaches such as genetic algorithms.

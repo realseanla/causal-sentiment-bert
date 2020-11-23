@@ -1,0 +1,6 @@
+Generating a novel textual description of an image is an interesting problem that connects computer vision and natural language processing.
+In this paper, we present a simple model that is able to generate sentences given a sample image.
+Our model learns to embed image representations (generated from a previously trained Convolutional Neural Network) into a multimodal space that is common to the images and the phrases that are used to described them.
+The system is able to infer phrases from a given image sample.
+Based on the sentence descriptions, we propose a simple language model that is able to produce relevant descriptions for a given test image using the feature representation and the phrases inferred.
+We achieve promising first results on the recently released COCO dataset.

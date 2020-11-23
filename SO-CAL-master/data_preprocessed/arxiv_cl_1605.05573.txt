@@ -1,0 +1,6 @@
+Recently/RB ,/, there/EX is/VBZ rising/VBG interest/NN in/IN modelling/VBG the/DT interactions/NNS of/IN two/CD sentences/NNS with/IN deep/JJ neural/JJ networks/NNS ./.
+However/RB ,/, most/JJS of/IN the/DT existing/VBG methods/NNS encode/VBP two/CD sequences/NNS with/IN separate/JJ encoders/NNS ,/, in/IN which/WDT a/DT sentence/NN is/VBZ encoded/VBN with/IN little/JJ or/CC no/DT information/NN from/IN the/DT other/JJ sentence/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT deep/JJ architecture/NN to/TO model/VB the/DT strong/JJ interaction/NN of/IN sentence/NN pair/NN with/IN two/CD coupled/VBN -/HYPH LSTMs/NNS ./.
+Specifically/RB ,/, we/PRP introduce/VBP two/CD coupled/VBN ways/NNS to/TO model/VB the/DT interdependences/NNS of/IN two/CD LSTMs/NNPS ,/, coupling/VBG the/DT local/JJ contextualized/VBN interactions/NNS of/IN two/CD sentences/NNS ./.
+We/PRP then/RB aggregate/JJ these/DT interactions/NNS and/CC use/VB a/DT dynamic/JJ pooling/VBG to/IN select/VB the/DT most/RBS informative/JJ features/NNS ./.
+Experiments/NNS on/IN two/CD very/RB large/JJ datasets/NNS demonstrate/VBP the/DT efficacy/NN of/IN our/PRP$ proposed/VBN architecture/NN and/CC its/PRP$ superiority/NN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

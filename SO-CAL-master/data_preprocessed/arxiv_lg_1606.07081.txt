@@ -1,0 +1,10 @@
+The/DT goal/NN of/IN ordinal/JJ embedding/NN is/VBZ to/TO represent/VB items/NNS as/IN points/NNS in/IN a/DT low/JJ -/HYPH dimensional/JJ Euclidean/JJ space/NN given/VBN a/DT set/NN of/IN constraints/NNS in/IN the/DT form/NN of/IN distance/NN comparisons/NNS like/IN "/`` item/NN $/$ i/CD $/$ is/VBZ closer/JJR to/IN item/NN $/NN j/NN $/$ than/IN item/NN $/$ k/CD $/$ "/'' ./.
+Ordinal/JJ constraints/NNS like/IN this/DT often/RB come/VBN from/IN human/JJ judgments/NNS ./.
+To/TO account/VB for/IN errors/NNS and/CC variation/NN in/IN judgments/NNS ,/, we/PRP consider/VBP the/DT noisy/JJ situation/NN in/IN which/WDT the/DT given/VBN constraints/NNS are/VBP independently/RB corrupted/VBN by/IN reversing/VBG the/DT correct/JJ constraint/NN with/IN some/DT probability/NN ./.
+This/DT paper/NN makes/VBZ several/JJ new/JJ contributions/NNS to/IN this/DT problem/NN ./.
+First/RB ,/, we/PRP derive/VBP prediction/NN error/NN bounds/NNS for/IN ordinal/JJ embedding/NN with/IN noise/NN by/IN exploiting/VBG the/DT fact/NN that/IN the/DT rank/NN of/IN a/DT distance/NN matrix/NN of/IN points/NNS in/IN $/$ \/CD mathbb/NN {/-LRB- R/NN }/-RRB- ^/SYM d/NN $/$ is/VBZ at/IN most/RBS $/$ d/LS 2/CD $/$ ./.
+These/DT bounds/NNS characterize/VBP how/WRB well/RB a/DT learned/VBN embedding/NN predicts/VBZ new/JJ comparative/JJ judgments/NNS ./.
+Second/RB ,/, we/PRP investigate/VBP the/DT special/JJ case/NN of/IN a/DT known/VBN noise/NN model/NN and/CC study/VB the/DT Maximum/NNP Likelihood/NNP estimator/NN ./.
+Third/JJ ,/, knowledge/NN of/IN the/DT noise/NN model/NN enables/VBZ us/PRP to/TO relate/VB prediction/NN errors/NNS to/IN embedding/VBG accuracy/NN ./.
+This/DT relationship/NN is/VBZ highly/RB non-trivial/JJ since/IN we/PRP show/VBP that/IN the/DT linear/JJ map/NN corresponding/VBG to/IN distance/NN comparisons/NNS is/VBZ non-invertible/JJ ,/, but/CC there/EX exists/VBZ a/DT nonlinear/JJ map/NN that/WDT is/VBZ invertible/JJ ./.
+Fourth/RB ,/, two/CD new/JJ algorithms/NNS for/IN ordinal/JJ embedding/NN are/VBP proposed/VBN and/CC evaluated/VBN in/IN experiments/NNS ./.

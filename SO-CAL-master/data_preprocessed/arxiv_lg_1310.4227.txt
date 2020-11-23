@@ -1,0 +1,7 @@
+The/DT maximum/JJ a-posteriori/NN (/-LRB- MAP/NN )/-RRB- perturbation/NN framework/NN has/VBZ emerged/VBN as/IN a/DT useful/JJ approach/NN for/IN inference/NN and/CC learning/NN in/IN high/JJ dimensional/JJ complex/NN models/NNS ./.
+By/IN maximizing/VBG a/DT randomly/RB perturbed/VBN potential/JJ function/NN ,/, MAP/NN perturbations/NNS generate/VBP unbiased/JJ samples/NNS from/IN the/DT Gibbs/NNP distribution/NN ./.
+Unfortunately/RB ,/, the/DT computational/JJ cost/NN of/IN generating/VBG so/RB many/JJ high/JJ -/HYPH dimensional/JJ random/JJ variables/NNS can/MD be/VB prohibitive/JJ ./.
+More/RBR efficient/JJ algorithms/NNS use/VBP sequential/JJ sampling/NN strategies/NNS based/VBN on/IN the/DT expected/VBN value/NN of/IN low/JJ dimensional/JJ MAP/NN perturbations/NNS ./.
+This/DT paper/NN develops/VBZ new/JJ measure/NN concentration/NN inequalities/NNS that/WDT bound/VBD the/DT number/NN of/IN samples/NNS needed/VBN to/TO estimate/VB such/JJ expected/VBN values/NNS ./.
+Applying/VBG the/DT general/JJ result/NN to/IN MAP/NN perturbations/NNS can/MD yield/VB a/DT more/RBR efficient/JJ algorithm/NN to/TO approximate/VB sampling/NN from/IN the/DT Gibbs/NNP distribution/NN ./.
+The/DT measure/NN concentration/NN result/NN is/VBZ of/IN general/JJ interest/NN and/CC may/MD be/VB applicable/JJ to/IN other/JJ areas/NNS involving/VBG expected/VBN estimations/NNS ./.

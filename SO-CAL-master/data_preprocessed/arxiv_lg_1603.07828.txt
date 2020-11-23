@@ -1,0 +1,10 @@
+This/DT study/NN presents/VBZ an/DT efficient/JJ approach/NN for/IN incomplete/JJ data/NNS classification/NN ,/, where/WRB the/DT entries/NNS of/IN samples/NNS are/VBP missing/VBG or/CC masked/VBN due/JJ to/IN privacy/NN preservation/NN ./.
+To/TO deal/VB with/IN these/DT incomplete/JJ data/NNS ,/, a/DT new/JJ kernel/NN function/NN with/IN asymmetric/JJ intrinsic/JJ mappings/NNS is/VBZ proposed/VBN in/IN this/DT study/NN ./.
+Such/PDT a/DT new/JJ kernel/NN uses/VBZ three/CD -/HYPH side/NN similarities/NNS for/IN kernel/NN matrix/NN formation/NN ./.
+The/DT similarity/NN between/IN a/DT test/NN instance/NN and/CC a/DT training/NN sample/NN relies/VBZ on/IN not/RB only/RB their/PRP$ distance/NN but/CC also/RB the/DT relation/NN between/IN this/DT test/NN sample/NN and/CC the/DT centroid/NN of/IN the/DT class/NN ,/, where/WRB the/DT training/NN sample/NN belongs/VBZ ./.
+This/DT reduces/VBZ biased/JJ estimation/NN compared/VBN with/IN typical/JJ methods/NNS when/WRB only/RB one/CD training/NN sample/NN is/VBZ used/VBN for/IN kernel/NN matrix/NN formation/NN ./.
+Furthermore/RB ,/, the/DT proposed/VBN kernel/NN is/VBZ capable/JJ of/IN performing/VBG data/NNS imputation/NN by/IN using/VBG class/NN -/HYPH dependent/JJ averages/NNS ./.
+This/DT enhances/VBZ Fisher/NNP Discriminant/NNP Ratios/NNP and/CC data/NNS discriminability/NN ./.
+Experiments/NNS on/IN two/CD databases/NNS were/VBD carried/VBN out/RP for/IN evaluating/VBG the/DT proposed/JJ method/NN ./.
+The/DT result/NN indicated/VBD that/IN the/DT accuracy/NN of/IN the/DT proposed/JJ method/NN was/VBD higher/JJR than/IN that/DT of/IN the/DT baseline/NN ./.
+These/DT findings/NNS thereby/RB demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN idea/NN ./.

@@ -1,0 +1,5 @@
+A BN2O network is a two level belief net in which the parent interactions are modeled using the noisy-or interaction model.
+In this paper we discuss application of the SPI local expression language to efficient inference in large BN2O networks.
+In particular, we show that there is significant structure, which can be exploited to improve over the Quickscore result.
+We further describe how symbolic techniques can provide information which can significantly reduce the computation required for computing all cause posterior marginals.
+Finally, we present a novel approximation technique with preliminary experimental results.

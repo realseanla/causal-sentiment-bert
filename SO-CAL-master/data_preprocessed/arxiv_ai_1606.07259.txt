@@ -1,0 +1,11 @@
+Process/NN mining/NN techniques/NNS aim/VBP to/TO extract/VB insights/NNS in/IN processes/NNS from/IN event/NN logs/NNS ./.
+One/CD of/IN the/DT challenges/NNS in/IN process/NN mining/NN is/VBZ identifying/VBG interesting/JJ and/CC meaningful/JJ event/NN labels/NNS that/WDT contribute/VBP to/IN a/DT better/JJR understanding/NN of/IN the/DT process/NN ./.
+Our/PRP$ application/NN area/NN is/VBZ mining/VBG data/NNS from/IN smart/JJ homes/NNS for/IN elderly/JJ ,/, where/WRB the/DT ultimate/JJ goal/NN is/VBZ to/TO signal/VB deviations/NNS from/IN usual/JJ behavior/NN and/CC provide/VB timely/JJ recommendations/NNS in/IN order/NN to/TO extend/VB the/DT period/NN of/IN independent/JJ living/NN ./.
+Extracting/VBG individual/JJ process/NN models/NNS showing/VBG user/NN behavior/NN is/VBZ an/DT important/JJ instrument/NN in/IN achieving/VBG this/DT goal/NN ./.
+However/RB ,/, the/DT interpretation/NN of/IN sensor/NN data/NNS at/IN an/DT appropriate/JJ abstraction/NN level/NN is/VBZ not/RB straightforward/JJ ./.
+For/IN example/NN ,/, a/DT motion/NN sensor/NN in/IN a/DT bedroom/NN can/MD be/VB triggered/VBN by/IN tossing/VBG and/CC turning/VBG in/IN bed/NN or/CC by/IN getting/VBG up/RP ./.
+We/PRP try/VBP to/TO derive/VB the/DT actual/JJ activity/NN depending/VBG on/IN the/DT context/NN (/-LRB- time/NN ,/, previous/JJ events/NNS ,/, etc./FW )/-RRB- ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP the/DT notion/NN of/IN label/NN refinements/NNS ,/, which/WDT links/VBZ more/JJR abstract/JJ event/NN descriptions/NNS with/IN their/PRP$ more/JJR refined/JJ counterparts/NNS ./.
+We/PRP present/VBP a/DT statistical/JJ evaluation/NN method/NN to/TO determine/VB the/DT usefulness/NN of/IN a/DT label/NN refinement/NN for/IN a/DT given/VBN event/NN log/NN from/IN a/DT process/NN perspective/NN ./.
+Based/VBN on/IN data/NNS from/IN smart/JJ homes/NNS ,/, we/PRP show/VBP how/WRB our/PRP$ statistical/JJ evaluation/NN method/NN for/IN label/NN refinements/NNS can/MD be/VB used/VBN in/IN practice/NN ./.
+Our/PRP$ method/NN was/VBD able/JJ to/TO select/VB two/CD label/NN refinements/NNS out/IN of/IN a/DT set/NN of/IN candidate/NN label/NN refinements/NNS that/IN both/DT had/VBD a/DT positive/JJ effect/NN on/IN model/NN precision/NN ./.

@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN learning/VBG a/DT causal/JJ graph/NN over/IN a/DT set/NN of/IN variables/NNS with/IN interventions/NNS ./.
+We/PRP study/VBP the/DT cost/NN -/HYPH optimal/JJ causal/JJ graph/NN learning/NN problem/NN :/: For/IN a/DT given/VBN skeleton/NN (/-LRB- undirected/JJ version/NN of/IN the/DT causal/JJ graph/NN )/-RRB- ,/, design/NN the/DT set/NN of/IN interventions/NNS with/IN minimum/JJ total/JJ cost/NN ,/, that/DT can/MD uniquely/RB identify/VB any/DT causal/JJ graph/NN with/IN the/DT given/VBN skeleton/NN ./.
+We/PRP show/VBP that/IN this/DT problem/NN is/VBZ solvable/JJ in/IN polynomial/JJ time/NN ./.
+Later/RB ,/, we/PRP consider/VBP the/DT case/NN when/WRB the/DT number/NN of/IN interventions/NNS is/VBZ limited/VBN ./.
+For/IN this/DT case/NN ,/, we/PRP provide/VBP polynomial/JJ time/NN algorithms/NNS when/WRB the/DT skeleton/NN is/VBZ a/DT tree/NN or/CC a/DT clique/NN tree/NN ./.
+For/IN a/DT general/JJ chordal/JJ skeleton/NN ,/, we/PRP develop/VBP an/DT efficient/JJ greedy/JJ algorithm/NN ,/, which/WDT can/MD be/VB improved/VBN when/WRB the/DT causal/JJ graph/NN skeleton/NN is/VBZ an/DT interval/NN graph/NN ./.

@@ -1,0 +1,5 @@
+This/DT paper/NN shows/VBZ that/IN simply/RB prescribing/VBG "/`` none/NN of/IN the/DT above/JJ "/`` labels/NNS to/IN unlabeled/JJ data/NNS has/VBZ a/DT beneficial/JJ regularization/NN effect/NN to/IN supervised/JJ learning/NN ./.
+We/PRP call/VBP it/PRP universum/JJ prescription/NN by/IN the/DT fact/NN that/IN the/DT prescribed/VBN labels/NNS can/MD not/RB be/VB one/CD of/IN the/DT supervised/JJ labels/NNS ./.
+In/IN spite/NN of/IN its/PRP$ simplicity/NN ,/, universum/NN prescription/NN obtained/VBN competitive/JJ results/NNS in/IN training/NN deep/JJ convolutional/JJ networks/NNS for/IN CIFAR/NN -/HYPH 10/CD ,/, CIFAR/NN -/HYPH 100/CD and/CC STL/NNP -/HYPH 10/CD datasets/NNS ./.
+A/DT qualitative/JJ justification/NN of/IN these/DT approaches/NNS using/VBG Rademacher/NNP complexity/NN is/VBZ presented/VBN ./.
+The/DT effect/NN of/IN a/DT regularization/NN parameter/NN --/: probability/NN of/IN sampling/NN from/IN unlabeled/JJ data/NNS --/: is/VBZ also/RB studied/VBN empirically/RB ./.

@@ -1,0 +1,8 @@
+Analyzing/VBG videos/NNS of/IN human/JJ actions/NNS involves/VBZ understanding/VBG the/DT temporal/JJ relationships/NNS among/IN video/NN frames/NNS ./.
+CNNs/NNS are/VBP the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS for/IN action/NN recognition/NN in/IN videos/NNS ./.
+However/RB ,/, the/DT CNN/NNP architectures/NNS currently/RB being/VBG used/VBN have/VBP difficulty/NN in/IN capturing/VBG these/DT relationships/NNS ./.
+State/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN action/NN recognition/NN approaches/VBZ rely/VBP on/IN traditional/JJ local/JJ optical/JJ flow/NN estimation/NN methods/NNS to/TO pre-compute/VB the/DT motion/NN information/NN for/IN CNNs/NNS ./.
+Such/PDT a/DT two/CD -/HYPH stage/NN approach/NN is/VBZ computationally/RB expensive/JJ ,/, storage/NN demanding/VBG ,/, and/CC not/RB end/VB -/HYPH to/IN -/HYPH end/NN trainable/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ CNN/NNP architecture/NN that/WDT implicitly/RB captures/VBZ motion/NN information/NN ./.
+Our/PRP$ method/NN is/VBZ 10x/CD faster/JJR than/IN a/DT two/CD -/HYPH stage/NN approach/NN ,/, does/VBZ not/RB need/VB to/TO cache/NN flow/VB information/NN ,/, and/CC is/VBZ end/NN -/HYPH to/IN -/HYPH end/NN trainable/JJ ./.
+Experimental/JJ results/NNS on/IN UCF101/NN and/CC HMDB51/NN show/VBP that/IN it/PRP achieves/VBZ competitive/JJ accuracy/NN with/IN the/DT two/CD -/HYPH stage/NN approaches/NNS ./.

@@ -1,0 +1,6 @@
+In/IN many/JJ machine/NN learning/NN applications/NNS ,/, labeled/VBN data/NNS is/VBZ scarce/JJ and/CC obtaining/VBG more/JJR labels/NNS is/VBZ expensive/JJ ./.
+We/PRP introduce/VBP a/DT new/JJ approach/NN to/IN supervising/VBG neural/JJ networks/NNS by/IN specifying/VBG constraints/NNS that/WDT should/MD hold/VB over/RP the/DT output/NN space/NN ,/, rather/RB than/IN direct/JJ examples/NNS of/IN input/NN -/HYPH output/NN pairs/NNS ./.
+These/DT constraints/NNS are/VBP derived/VBN from/IN prior/JJ domain/NN knowledge/NN ,/, e.g./FW ,/, from/IN known/JJ laws/NNS of/IN physics/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN this/DT approach/NN on/IN real/JJ world/NN and/CC simulated/VBN computer/NN vision/NN tasks/NNS ./.
+We/PRP are/VBP able/JJ to/TO train/VB a/DT convolutional/JJ neural/JJ network/NN to/TO detect/VB and/CC track/VB objects/NNS without/IN any/DT labeled/VBN examples/NNS ./.
+Our/PRP$ approach/NN can/MD significantly/RB reduce/VB the/DT need/NN for/IN labeled/VBN training/NN data/NNS ,/, but/CC introduces/VBZ new/JJ challenges/NNS for/IN encoding/VBG prior/JJ knowledge/NN into/IN appropriate/JJ loss/NN functions/NNS ./.

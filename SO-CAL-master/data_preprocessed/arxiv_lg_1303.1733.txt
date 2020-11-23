@@ -1,0 +1,10 @@
+We/PRP propose/VBP a/DT modular/JJ framework/NN for/IN multi-relational/JJ learning/NN via/IN tensor/NN decomposition/NN ./.
+In/IN our/PRP$ learning/NN setting/NN ,/, the/DT training/NN data/NN contains/VBZ multiple/JJ types/NNS of/IN relationships/NNS among/IN a/DT set/NN of/IN objects/NNS ,/, which/WDT we/PRP represent/VBP by/IN a/DT sparse/JJ three/CD -/HYPH mode/NN tensor/NN ./.
+The/DT goal/NN is/VBZ to/TO predict/VB the/DT values/NNS of/IN the/DT missing/VBG entries/NNS ./.
+To/TO do/VB so/RB ,/, we/PRP model/VBP each/DT relationship/NN as/IN a/DT function/NN of/IN a/DT linear/JJ combination/NN of/IN latent/JJ factors/NNS ./.
+We/PRP learn/VBP this/DT latent/JJ representation/NN by/IN computing/VBG a/DT low/JJ -/HYPH rank/NN tensor/NN decomposition/NN ,/, using/VBG quasi-Newton/NNP optimization/NN of/IN a/DT weighted/JJ objective/NN function/NN ./.
+Sparsity/NN in/IN the/DT observed/VBN data/NNS is/VBZ captured/VBN by/IN the/DT weighted/JJ objective/NN ,/, leading/VBG to/IN improved/VBN accuracy/NN when/WRB training/VBG data/NNS is/VBZ limited/VBN ./.
+Exploiting/VBG sparsity/NN also/RB improves/VBZ efficiency/NN ,/, potentially/RB up/RB to/IN an/DT order/NN of/IN magnitude/NN over/IN unweighted/JJ approaches/NNS ./.
+In/IN addition/NN ,/, our/PRP$ framework/NN accommodates/VBZ arbitrary/JJ combinations/NNS of/IN smooth/JJ ,/, task/NN -/HYPH specific/JJ loss/NN functions/NNS ,/, making/VBG it/PRP better/RBR suited/JJ for/IN learning/VBG different/JJ types/NNS of/IN relations/NNS ./.
+For/IN the/DT typical/JJ cases/NNS of/IN real/JJ -/HYPH valued/VBN functions/NNS and/CC binary/JJ relations/NNS ,/, we/PRP propose/VBP several/JJ loss/NN functions/NNS and/CC derive/VBP the/DT associated/VBN parameter/NN gradients/NNS ./.
+We/PRP evaluate/VBP our/PRP$ method/NN on/IN synthetic/JJ and/CC real/JJ data/NNS ,/, showing/VBG significant/JJ improvements/NNS in/IN both/DT accuracy/NN and/CC scalability/NN over/IN related/JJ factorization/NN techniques/NNS ./.

@@ -1,0 +1,5 @@
+The/DT ability/NN to/TO accurately/RB perceive/VB whether/IN a/DT speaker/NN is/VBZ asking/VBG a/DT question/NN or/CC is/VBZ making/VBG a/DT statement/NN is/VBZ crucial/JJ for/IN any/DT successful/JJ interaction/NN ./.
+However/RB ,/, learning/VBG and/CC classifying/VBG tonal/JJ patterns/NNS has/VBZ been/VBN a/DT challenging/JJ task/NN for/IN automatic/JJ speech/NN recognition/NN and/CC for/IN models/NNS of/IN tonal/JJ representation/NN ,/, as/IN tonal/JJ contours/NNS are/VBP characterized/VBN by/IN significant/JJ variation/NN ./.
+This/DT paper/NN provides/VBZ a/DT classification/NN model/NN of/IN Cypriot/JJ Greek/JJ questions/NNS and/CC statements/NNS ./.
+We/PRP evaluate/VBP two/CD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN network/NN architectures/NNS :/: a/DT Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- network/NN and/CC a/DT convolutional/JJ network/NN (/-LRB- ConvNet/NNP )/-RRB- ./.
+The/DT ConvNet/NNP outperforms/VBZ the/DT LSTM/NNP in/IN the/DT classification/NN task/NN and/CC exhibited/VBD an/DT excellent/JJ performance/NN with/IN 95/CD percent/NN classification/NN accuracy/NN ./.

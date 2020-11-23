@@ -1,0 +1,5 @@
+We/PRP introduce/VBP the/DT Binary/NNP Matrix/NNP Guessing/NNP Problem/NNP and/CC provide/VB two/CD algorithms/NNS to/TO solve/VB this/DT problem/NN ./.
+The/DT first/JJ algorithm/NN we/PRP introduce/VBP is/VBZ Elementwise/NNP Probing/VBG Algorithm/NN (/-LRB- EPA/NNP )/-RRB- which/WDT is/VBZ very/RB fast/RB under/IN a/DT score/NN which/WDT utilizes/VBZ Frobenius/NNP Distance/NNP ./.
+The/DT second/JJ algorithm/NN is/VBZ Additive/JJ Reinforcement/NN Learning/VBG Algorithm/NN which/WDT combines/VBZ ideas/NNS from/IN perceptron/NN algorithm/NN and/CC reinforcement/NN learning/VBG algorithm/NN ./.
+This/DT algorithm/NN is/VBZ significantly/RB slower/JJR compared/VBN to/IN first/JJ one/CD ,/, but/CC less/RBR restrictive/JJ and/CC generalizes/VBZ better/JJR ./.
+We/PRP compare/VBP computational/JJ performance/NN of/IN both/DT algorithms/NNS and/CC provide/VB numerical/JJ results/NNS ./.

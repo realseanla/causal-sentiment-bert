@@ -1,0 +1,8 @@
+Answering/VBG conjunctive/JJ queries/NNS (/-LRB- CQs/NNS )/-RRB- over/IN a/DT set/NN of/IN facts/NNS extended/VBN with/IN existential/JJ rules/NNS is/VBZ a/DT prominent/JJ problem/NN in/IN knowledge/NN representation/NN and/CC databases/NNS ./.
+This/DT problem/NN can/MD be/VB solved/VBN using/VBG the/DT chase/NN algorithm/NN ,/, which/WDT extends/VBZ the/DT given/VBN set/NN of/IN facts/NNS with/IN fresh/JJ facts/NNS in/IN order/NN to/TO satisfy/VB the/DT rules/NNS ./.
+If/IN the/DT chase/NN terminates/VBZ ,/, then/RB CQs/NNS can/MD be/VB evaluated/VBN directly/RB in/IN the/DT resulting/VBG set/NN of/IN facts/NNS ./.
+The/DT chase/NN ,/, however/RB ,/, does/VBZ not/RB terminate/VB necessarily/RB ,/, and/CC checking/VBG whether/IN the/DT chase/NN terminates/VBZ on/IN a/DT given/VBN set/NN of/IN rules/NNS and/CC facts/NNS is/VBZ undecidable/JJ ./.
+Numerous/JJ acyclicity/NN notions/NNS were/VBD proposed/VBN as/IN sufficient/JJ conditions/NNS for/IN chase/NN termination/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP two/CD new/JJ acyclicity/NN notions/NNS called/VBN model/NN -/HYPH faithful/JJ acyclicity/NN (/-LRB- MFA/NN )/-RRB- and/CC model/NN -/HYPH summarising/VBG acyclicity/NN (/-LRB- MSA/NNP )/-RRB- ./.
+Furthermore/RB ,/, we/PRP investigate/VBP the/DT landscape/NN of/IN the/DT known/VBN acyclicity/NN notions/NNS and/CC establish/VB a/DT complete/JJ taxonomy/NN of/IN all/DT notions/NNS known/VBN to/IN us/PRP ./.
+Finally/RB ,/, we/PRP show/VBP that/IN MFA/NNP and/CC MSA/NNP generalise/VB most/JJS of/IN these/DT notions/NNS ./.

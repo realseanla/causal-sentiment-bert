@@ -1,0 +1,4 @@
+Conversational agents ("bots") are beginning to be widely used in conversational interfaces.
+To design a system that is capable of emulating human-like interactions, a conversational layer that can serve as a fabric for chat-like interaction with the agent is needed.
+In this paper, we introduce a model that employs Information Retrieval by utilizing convolutional deep structured semantic neural network-based features in the ranker to present human-like responses in ongoing conversation with a user.
+In conversations, accounting for context is critical to the retrieval model; we show that our context-sensitive approach using a Convolutional Deep Structured Semantic Model (cDSSM) with character trigrams significantly outperforms several conventional baselines in terms of the relevance of responses retrieved.

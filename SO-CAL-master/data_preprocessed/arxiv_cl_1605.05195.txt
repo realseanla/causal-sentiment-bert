@@ -1,0 +1,10 @@
+The/DT rise/NN in/IN popularity/NN and/CC ubiquity/NN of/IN Twitter/NNP has/VBZ made/VBN sentiment/NN analysis/NN of/IN tweets/NNS an/DT important/JJ and/CC well/RB -/HYPH covered/VBN area/NN of/IN research/NN ./.
+However/RB ,/, the/DT 140/CD character/NN limit/NN imposed/VBN on/IN tweets/NNS makes/VBZ it/PRP hard/JJ to/TO use/VB standard/JJ linguistic/JJ methods/NNS for/IN sentiment/NN classification/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, what/WDT tweets/NNS lack/VBP in/IN structure/NN they/PRP make/VBP up/RP with/IN sheer/JJ volume/NN and/CC rich/JJ metadata/NN ./.
+This/DT metadata/NN includes/VBZ geolocation/NN ,/, temporal/JJ and/CC author/NN information/NN ./.
+We/PRP hypothesize/VBP that/IN sentiment/NN is/VBZ dependent/JJ on/IN all/PDT these/DT contextual/JJ factors/NNS ./.
+Different/JJ locations/NNS ,/, times/NNS and/CC authors/NNS have/VBP different/JJ emotional/JJ valences/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP explored/VBD this/DT hypothesis/NN by/IN utilizing/VBG distant/JJ supervision/NN to/TO collect/VB millions/NNS of/IN labelled/VBN tweets/NNS from/IN different/JJ locations/NNS ,/, times/NNS and/CC authors/NNS ./.
+We/PRP used/VBD this/DT data/NNS to/TO analyse/VB the/DT variation/NN of/IN tweet/NN sentiments/NNS across/IN different/JJ authors/NNS ,/, times/NNS and/CC locations/NNS ./.
+Once/IN we/PRP explored/VBD and/CC understood/VBD the/DT relationship/NN between/IN these/DT variables/NNS and/CC sentiment/NN ,/, we/PRP used/VBD a/DT Bayesian/JJ approach/NN to/TO combine/VB these/DT variables/NNS with/IN more/JJR standard/JJ linguistic/JJ features/NNS such/JJ as/IN n/NN -/HYPH grams/NNS to/TO create/VB a/DT Twitter/NNP sentiment/NN classifier/NN ./.
+This/DT combined/VBN classifier/NN outperforms/VBZ the/DT purely/RB linguistic/JJ classifier/NN ,/, showing/VBG that/IN integrating/VBG the/DT rich/JJ contextual/JJ information/NN available/JJ on/IN Twitter/NNP into/IN sentiment/NN classification/NN is/VBZ a/DT promising/JJ direction/NN of/IN research/NN ./.

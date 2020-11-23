@@ -1,0 +1,6 @@
+In/IN various/JJ applications/NNS involving/VBG hidden/JJ Markov/NNP models/NNS (/-LRB- HMMs/NNS )/-RRB- ,/, some/DT of/IN the/DT hidden/JJ states/NNS are/VBP aliased/VBN ,/, having/VBG identical/JJ output/NN distributions/NNS ./.
+The/DT minimality/NN ,/, identifiability/NN and/CC learnability/NN of/IN such/JJ aliased/JJ HMMs/NNS have/VBP been/VBN long/JJ standing/NN problems/NNS ,/, with/IN only/RB partial/JJ solutions/NNS provided/VBN thus/RB far/RB ./.
+In/IN this/DT paper/NN we/PRP focus/VBP on/IN parametric/JJ -/HYPH output/NN HMMs/NNS ,/, whose/WP$ output/NN distributions/NNS come/VBP from/IN a/DT parametric/JJ family/NN ,/, and/CC that/DT have/VBP exactly/RB two/CD aliased/JJ states/NNS ./.
+For/IN this/DT class/NN ,/, we/PRP present/VBP a/DT complete/JJ characterization/NN of/IN their/PRP$ minimality/NN and/CC identifiability/NN ./.
+Furthermore/RB ,/, for/IN a/DT large/JJ family/NN of/IN parametric/JJ output/NN distributions/NNS ,/, we/PRP derive/VBP computationally/RB efficient/JJ and/CC statistically/RB consistent/JJ algorithms/NNS to/TO detect/VB the/DT presence/NN of/IN aliasing/NN and/CC learn/VB the/DT aliased/JJ HMM/NN transition/NN and/CC emission/NN parameters/NNS ./.
+We/PRP illustrate/VBP our/PRP$ theoretical/JJ analysis/NN by/IN several/JJ simulations/NNS ./.

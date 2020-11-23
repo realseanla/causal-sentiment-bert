@@ -1,0 +1,7 @@
+Deep/JJ neural/JJ networks/NNS with/IN millions/NNS of/IN parameters/NNS are/VBP at/IN the/DT heart/NN of/IN many/JJ state/NN of/IN the/DT art/NN machine/NN learning/NN models/NNS today/NN ./.
+However/RB ,/, recent/JJ works/NNS have/VBP shown/VBN that/IN models/NNS with/IN much/RB smaller/JJR number/NN of/IN parameters/NNS can/MD also/RB perform/VB just/RB as/RB well/RB ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP the/DT problem/NN of/IN architecture/NN -/HYPH learning/NN ,/, i.e/FW ;/: learning/VBG the/DT architecture/NN of/IN a/DT neural/JJ network/NN along/IN with/IN weights/NNS ./.
+We/PRP introduce/VBP a/DT new/JJ trainable/JJ parameter/NN called/VBN tri-state/JJ ReLU/NN ,/, which/WDT helps/VBZ in/IN eliminating/VBG unnecessary/JJ neurons/NNS ./.
+We/PRP also/RB propose/VBP a/DT smooth/JJ regularizer/NN which/WDT encourages/VBZ the/DT total/JJ number/NN of/IN neurons/NNS after/IN elimination/NN to/TO be/VB small/JJ ./.
+The/DT resulting/VBG objective/NN is/VBZ differentiable/JJ and/CC simple/JJ to/IN optimize/NN ./.
+We/PRP experimentally/RB validate/VBP our/PRP$ method/NN on/IN both/DT small/JJ and/CC large/JJ networks/NNS ,/, and/CC show/VBP that/IN it/PRP can/MD learn/VB models/NNS with/IN a/DT considerably/RB small/JJ number/NN of/IN parameters/NNS without/IN affecting/VBG prediction/NN accuracy/NN ./.

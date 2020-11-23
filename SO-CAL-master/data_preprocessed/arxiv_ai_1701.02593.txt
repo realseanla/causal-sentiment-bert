@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT simple/JJ and/CC accurate/JJ neural/JJ model/NN for/IN dependency/NN -/HYPH based/VBN semantic/JJ role/NN labeling/NN ./.
+Our/PRP$ model/NN predicts/VBZ predicate/NN -/HYPH argument/NN dependencies/NNS relying/VBG on/IN states/NNS of/IN a/DT bidirectional/JJ LSTM/NNP encoder/NN ./.
+The/DT semantic/JJ role/NN labeler/NN achieves/VBZ respectable/JJ performance/NN on/IN English/NNP even/RB without/IN any/DT kind/NN of/IN syntactic/JJ information/NN and/CC only/RB using/VBG local/JJ inference/NN ./.
+However/RB ,/, when/WRB automatically/RB predicted/VBN part/NN -/HYPH of/IN -/HYPH speech/NN tags/NNS are/VBP provided/VBN as/IN input/NN ,/, it/PRP substantially/RB outperforms/VBZ all/DT previous/JJ local/JJ models/NNS and/CC approaches/VBZ the/DT best/JJS reported/VBN results/NNS on/IN the/DT CoNLL/NN -/HYPH 2009/CD dataset/NN ./.
+Syntactic/JJ parsers/NNS are/VBP unreliable/JJ on/IN out/IN -/HYPH of/IN -/HYPH domain/NN data/NNS ,/, so/RB standard/JJ (/-LRB- i.e./FW syntactically/RB -/HYPH informed/VBN )/-RRB- SRL/NN models/NNS are/VBP hindered/VBN when/WRB tested/VBN in/IN this/DT setting/NN ./.
+Our/PRP$ syntax/NN -/HYPH agnostic/JJ model/NN appears/VBZ more/RBR robust/JJ ,/, resulting/VBG in/IN the/DT best/JJS reported/VBN results/NNS on/IN the/DT standard/NN out/IN -/HYPH of/IN -/HYPH domain/NN test/NN set/NN ./.

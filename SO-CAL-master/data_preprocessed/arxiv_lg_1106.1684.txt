@@ -1,0 +1,8 @@
+The/DT main/JJ principle/NN of/IN stacked/VBN generalization/NN (/-LRB- or/CC Stacking/VBG )/-RRB- is/VBZ using/VBG a/DT second/JJ -/HYPH level/NN generalizer/NN to/TO combine/VB the/DT outputs/NNS of/IN base/NN classifiers/NNS in/IN an/DT ensemble/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP different/JJ combination/NN types/NNS under/IN the/DT stacking/VBG framework/NN ;/: namely/RB weighted/JJ sum/NN (/-LRB- WS/NN )/-RRB- ,/, class/NN -/HYPH dependent/JJ weighted/JJ sum/NN (/-LRB- CWS/NN )/-RRB- and/CC linear/JJ stacked/VBN generalization/NN (/-LRB- LSG/NN )/-RRB- ./.
+For/IN learning/VBG the/DT weights/NNS ,/, we/PRP propose/VBP using/VBG regularized/VBN empirical/JJ risk/NN minimization/NN with/IN the/DT hinge/NN loss/NN ./.
+In/IN addition/NN ,/, we/PRP propose/VBP using/VBG group/NN sparsity/NN for/IN regularization/NN to/TO facilitate/VB classifier/NN selection/NN ./.
+We/PRP performed/VBD experiments/NNS using/VBG two/CD different/JJ ensemble/NN setups/NNS with/IN differing/VBG diversities/NNS on/IN 8/CD real/JJ -/HYPH world/NN datasets/NNS ./.
+Results/NNS show/VBP the/DT power/NN of/IN regularized/VBN learning/NN with/IN the/DT hinge/NN loss/NN function/NN ./.
+Using/VBG sparse/JJ regularization/NN ,/, we/PRP are/VBP able/JJ to/TO reduce/VB the/DT number/NN of/IN selected/VBN classifiers/NNS of/IN the/DT diverse/JJ ensemble/NN without/IN sacrificing/VBG accuracy/NN ./.
+With/IN the/DT non-diverse/JJ ensembles/NNS ,/, we/PRP even/RB gain/VB accuracy/NN on/IN average/JJ by/IN using/VBG sparse/JJ regularization/NN ./.

@@ -1,0 +1,8 @@
+Deep/JJ Reinforcement/NN Learning/VBG methods/NNS have/VBP achieved/VBN state/NN of/IN the/DT art/NN performance/NN in/IN learning/VBG control/NN policies/NNS for/IN the/DT games/NNS in/IN the/DT Atari/NNP 2600/CD domain/NN ./.
+One/CD of/IN the/DT important/JJ parameters/NNS in/IN the/DT Arcade/NNP Learning/NNP Environment/NNP (/-LRB- ALE/NN )/-RRB- is/VBZ the/DT frame/NN skip/VB rate/NN ./.
+It/PRP decides/VBZ the/DT granularity/NN at/IN which/WDT agents/NNS can/MD control/VB game/NN play/NN ./.
+A/DT frame/NN skip/VB value/NN of/IN $/$ k/CD $/$ allows/VBZ the/DT agent/NN to/TO repeat/VB a/DT selected/VBN action/NN $/$ k/CD $/$ number/NN of/IN times/NNS ./.
+The/DT current/JJ state/NN of/IN the/DT art/NN architectures/NNS like/IN Deep/NNP Q/NNP -/HYPH Network/NNP (/-LRB- DQN/NNP )/-RRB- and/CC Dueling/VBG Network/NNP Architectures/NNPS (/-LRB- DuDQN/NNP )/-RRB- consist/VBP of/IN a/DT framework/NN with/IN a/DT static/NN frame/NN skip/VB rate/NN ,/, where/WRB the/DT action/NN output/NN from/IN the/DT network/NN is/VBZ repeated/VBN for/IN a/DT fixed/VBN number/NN of/IN frames/NNS regardless/RB of/IN the/DT current/JJ state/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ architecture/NN ,/, Dynamic/JJ Frame/NNP skip/VB Deep/NNP Q/NNP -/HYPH Network/NNP (/-LRB- DFDQN/NNP )/-RRB- which/WDT makes/VBZ the/DT frame/NN skip/VB rate/NN a/DT dynamic/JJ learnable/JJ parameter/NN ./.
+This/DT allows/VBZ us/PRP to/TO choose/VB the/DT number/NN of/IN times/NNS an/DT action/NN is/VBZ to/TO be/VB repeated/VBN based/VBN on/IN the/DT current/JJ state/NN ./.
+We/PRP show/VBP empirically/RB that/IN such/PDT a/DT setting/NN improves/VBZ the/DT performance/NN on/IN relatively/RB harder/JJR games/NNS like/IN Seaquest/NNP ./.

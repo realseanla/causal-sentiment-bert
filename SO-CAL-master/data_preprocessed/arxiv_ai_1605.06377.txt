@@ -1,0 +1,10 @@
+After/IN data/NNS selection/NN ,/, pre-processing/NN ,/, transformation/NN ,/, and/CC feature/NN extraction/NN ,/, knowledge/NN extraction/NN is/VBZ not/RB the/DT final/JJ step/NN in/IN a/DT data/NN mining/NN process/NN ./.
+It/PRP is/VBZ then/RB necessary/JJ to/TO understand/VB this/DT knowledge/NN in/IN order/NN to/TO apply/VB it/PRP efficiently/RB and/CC effectively/RB ./.
+Up/IN to/IN now/RB ,/, there/EX is/VBZ a/DT lack/NN of/IN appropriate/JJ techniques/NNS that/WDT support/VBP this/DT significant/JJ step/NN ./.
+This/DT is/VBZ partly/RB due/JJ to/IN the/DT fact/NN that/IN the/DT assessment/NN of/IN knowledge/NN is/VBZ often/RB highly/RB subjective/JJ ,/, e.g./FW ,/, regarding/VBG aspects/NNS such/JJ as/IN novelty/NN or/CC usefulness/NN ./.
+These/DT aspects/NNS depend/VBP on/IN the/DT specific/JJ knowledge/NN and/CC requirements/NNS of/IN the/DT data/NNS miner/NN ./.
+There/EX are/VBP ,/, however/RB ,/, a/DT number/NN of/IN aspects/NNS that/WDT are/VBP objective/JJ and/CC for/IN which/WDT it/PRP is/VBZ possible/JJ to/TO provide/VB appropriate/JJ measures/NNS ./.
+In/IN this/DT article/NN we/PRP focus/VBP on/IN classification/NN problems/NNS and/CC use/VB probabilistic/JJ generative/JJ classifiers/NNS based/VBN on/IN mixture/NN density/NN models/NNS that/WDT are/VBP quite/RB common/JJ in/IN data/NNS mining/NN applications/NNS ./.
+We/PRP define/VBP objective/JJ measures/NNS to/TO assess/VB the/DT informativeness/NN ,/, uniqueness/NN ,/, importance/NN ,/, discrimination/NN ,/, representativity/NN ,/, uncertainty/NN ,/, and/CC distinguishability/NN of/IN rules/NNS contained/VBN in/IN these/DT classifiers/NNS numerically/RB ./.
+These/DT measures/NNS not/RB only/RB support/VB a/DT data/NN miner/NN in/IN evaluating/VBG results/NNS of/IN a/DT data/NN mining/NN process/NN based/VBN on/IN such/JJ classifiers/NNS ./.
+As/IN we/PRP will/MD see/VB in/IN illustrative/JJ case/NN studies/NNS ,/, they/PRP may/MD also/RB be/VB used/VBN to/TO improve/VB the/DT data/NNS mining/NN process/NN itself/PRP or/CC to/TO support/VB the/DT later/JJ application/NN of/IN the/DT extracted/VBN knowledge/NN ./.

@@ -1,0 +1,5 @@
+This/DT paper/NN proposes/VBZ a/DT text/NN summarization/NN approach/NN for/IN factual/JJ reports/NNS using/VBG a/DT deep/JJ learning/NN model/NN ./.
+This/DT approach/NN consists/VBZ of/IN three/CD phases/NNS :/: feature/NN extraction/NN ,/, feature/NN enhancement/NN ,/, and/CC summary/NN generation/NN ,/, which/WDT work/VBP together/RB to/TO assimilate/VB core/JJ information/NN and/CC generate/VBP a/DT coherent/JJ ,/, understandable/JJ summary/NN ./.
+We/PRP are/VBP exploring/VBG various/JJ features/NNS to/TO improve/VB the/DT set/NN of/IN sentences/NNS selected/VBN for/IN the/DT summary/NN ,/, and/CC are/VBP using/VBG a/DT Restricted/VBN Boltzmann/NNP Machine/NNP to/TO enhance/VB and/CC abstract/JJ those/DT features/NNS to/TO improve/VB resultant/JJ accuracy/NN without/IN losing/VBG any/DT important/JJ information/NN ./.
+The/DT sentences/NNS are/VBP scored/VBN based/VBN on/IN those/DT enhanced/VBN features/NNS and/CC an/DT extractive/JJ summary/NN is/VBZ constructed/VBN ./.
+Experimentation/NNP carried/VBD out/RP on/IN several/JJ articles/NNS demonstrates/VBZ the/DT effectiveness/NN of/IN the/DT proposed/VBN approach/NN ./.

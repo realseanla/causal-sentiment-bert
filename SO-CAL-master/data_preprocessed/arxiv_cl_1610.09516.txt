@@ -1,0 +1,9 @@
+Most/JJS street/NN gang/NN members/NNS use/VBP Twitter/NNP to/TO intimidate/VB others/NNS ,/, to/TO present/VB outrageous/JJ images/NNS and/CC statements/NNS to/IN the/DT world/NN ,/, and/CC to/TO share/VB recent/JJ illegal/JJ activities/NNS ./.
+Their/PRP$ tweets/NNS may/MD thus/RB be/VB useful/JJ to/IN law/NN enforcement/NN agencies/NNS to/TO discover/VB clues/NNS about/IN recent/JJ crimes/NNS or/CC to/TO anticipate/VB ones/NNS that/WDT may/MD occur/VB ./.
+Finding/VBG these/DT posts/NNS ,/, however/RB ,/, requires/VBZ a/DT method/NN to/TO discover/VB gang/NN member/NN Twitter/NNP profiles/NNS ./.
+This/DT is/VBZ a/DT challenging/JJ task/NN since/IN gang/NN members/NNS represent/VBP a/DT very/RB small/JJ population/NN of/IN the/DT 320/CD million/CD Twitter/NNP users/NNS ./.
+This/DT paper/NN studies/NNS the/DT problem/NN of/IN automatically/RB finding/VBG gang/NN members/NNS on/IN Twitter/NNP ./.
+It/PRP outlines/VBZ a/DT process/NN to/TO curate/VB one/CD of/IN the/DT largest/JJS sets/NNS of/IN verifiable/JJ gang/NN member/NN profiles/NNS that/WDT have/VBP ever/RB been/VBN studied/VBN ./.
+A/DT review/NN of/IN these/DT profiles/NNS establishes/VBZ differences/NNS in/IN the/DT language/NN ,/, images/NNS ,/, YouTube/NNP links/NNS ,/, and/CC emojis/NN gang/NN members/NNS use/VBP compared/VBN to/IN the/DT rest/NN of/IN the/DT Twitter/NNP population/NN ./.
+Features/NNS from/IN this/DT review/NN are/VBP used/VBN to/TO train/VB a/DT series/NN of/IN supervised/JJ classifiers/NNS ./.
+Our/PRP$ classifier/NN achieves/VBZ a/DT promising/JJ F1/NN score/NN with/IN a/DT low/JJ false/JJ positive/JJ rate/NN ./.

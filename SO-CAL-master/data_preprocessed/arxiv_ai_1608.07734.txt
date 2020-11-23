@@ -1,0 +1,7 @@
+We/PRP present/VBP new/JJ algorithms/NNS for/IN learning/VBG Bayesian/JJ networks/NNS from/IN data/NNS with/IN missing/VBG values/NNS without/IN the/DT assumption/NN that/IN data/NNS are/VBP missing/VBG at/IN random/JJ (/-LRB- MAR/NN )/-RRB- ./.
+An/DT exact/JJ Bayesian/JJ network/NN learning/VBG algorithm/NN is/VBZ obtained/VBN by/IN recasting/VBG the/DT problem/NN into/IN a/DT standard/JJ Bayesian/JJ network/NN learning/NN problem/NN without/IN missing/VBG data/NNS ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ exact/JJ algorithm/NN for/IN this/DT problem/NN ./.
+As/IN expected/VBN ,/, the/DT exact/JJ algorithm/NN does/VBZ not/RB scale/VB to/IN large/JJ domains/NNS ./.
+We/PRP build/VBP on/IN the/DT exact/JJ method/NN to/TO create/VB a/DT new/JJ approximate/JJ algorithm/NN using/VBG a/DT hill/NN -/HYPH climbing/VBG technique/NN ./.
+This/DT algorithm/NN scales/NNS to/IN large/JJ domains/NNS so/RB long/RB as/IN a/DT suitable/JJ standard/JJ structure/NN learning/NN method/NN for/IN complete/JJ data/NNS is/VBZ available/JJ ./.
+We/PRP perform/VBP a/DT wide/JJ range/NN of/IN experiments/NNS to/TO demonstrate/VB the/DT benefits/NNS of/IN learning/VBG Bayesian/JJ networks/NNS without/IN assuming/VBG MAR/NNP ./.

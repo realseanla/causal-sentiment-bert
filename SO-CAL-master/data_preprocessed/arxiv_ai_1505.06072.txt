@@ -1,0 +1,8 @@
+We/PRP define/VBP two/CD algorithms/NNS for/IN propagating/VBG information/NN in/IN classification/NN problems/NNS with/IN pairwise/JJ relationships/NNS ./.
+The/DT algorithms/NNS involve/VBP contraction/NN maps/NNS and/CC are/VBP related/VBN to/IN non-linear/JJ diffusion/NN and/CC random/JJ walks/NNS on/IN graphs/NNS ./.
+The/DT approach/NN is/VBZ also/RB related/VBN to/IN message/NN passing/NN and/CC mean/VB field/NN methods/NNS ./.
+The/DT algorithms/NNS we/PRP describe/VBP are/VBP guaranteed/VBN to/TO converge/VB on/IN graphs/NNS with/IN arbitrary/JJ topology/NN ./.
+Moreover/RB they/PRP always/RB converge/VBP to/IN a/DT unique/JJ fixed/VBN point/NN ,/, independent/JJ of/IN initialization/NN ./.
+We/PRP prove/VBP that/IN the/DT fixed/VBN points/NNS of/IN the/DT algorithms/NNS under/IN consideration/NN define/VBP lower/JJR -/HYPH bounds/NNS on/IN the/DT energy/NN function/NN and/CC the/DT max/NN -/HYPH marginals/NNS of/IN a/DT Markov/NNP random/JJ field/NN ./.
+Our/PRP$ theoretical/JJ results/NNS also/RB illustrate/VBP a/DT relationship/NN between/IN message/NN passing/VBG algorithms/NNS and/CC value/NN iteration/NN for/IN an/DT infinite/JJ horizon/NN Markov/NNP decision/NN process/NN ./.
+We/PRP illustrate/VBP the/DT practical/JJ feasibility/NN of/IN our/PRP$ algorithms/NNS with/IN preliminary/JJ experiments/NNS in/IN image/NN restoration/NN and/CC stereo/NN depth/NN estimation/NN ./.

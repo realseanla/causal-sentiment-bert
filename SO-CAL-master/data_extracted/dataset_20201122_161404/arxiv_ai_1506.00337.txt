@@ -1,0 +1,7 @@
+Qualitative calculi play a central role in representing and reasoning about qualitative spatial and temporal knowledge.
+This paper studies distributive subalgebras of qualitative calculi, which are subalgebras in which (weak) composition distributives over nonempty intersections.
+It has been proven for RCC5 and RCC8 that path consistent constraint network over a distributive subalgebra is always minimal and globally consistent (in the sense of strong $n$-consistency) in a qualitative sense.
+The well-known subclass of convex interval relations provides one such an example of distributive subalgebras.
+This paper first gives a characterisation of distributive subalgebras, which states that the intersection of a set of $n\geq 3$ relations in the subalgebra is nonempty if and only if the intersection of every two of these relations is nonempty.
+We further compute and generate all maximal distributive subalgebras for Point Algebra, Interval Algebra, RCC5 and RCC8, Cardinal Relation Algebra, and Rectangle Algebra.
+Lastly, we establish two nice properties which will play an important role in efficient reasoning with constraint networks involving a large number of variables.

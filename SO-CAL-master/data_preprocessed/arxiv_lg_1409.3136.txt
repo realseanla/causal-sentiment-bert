@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO learn/VB a/DT Mahalanobis/NNP distance/NN to/TO perform/VB alignment/NN of/IN multivariate/JJ time/NN series/NN ./.
+The/DT learning/NN examples/NNS for/IN this/DT task/NN are/VBP time/NN series/NN for/IN which/WDT the/DT true/JJ alignment/NN is/VBZ known/VBN ./.
+We/PRP cast/VBD the/DT alignment/NN problem/NN as/IN a/DT structured/JJ prediction/NN task/NN ,/, and/CC propose/VB realistic/JJ losses/NNS between/IN alignments/NNS for/IN which/WDT the/DT optimization/NN is/VBZ tractable/JJ ./.
+We/PRP provide/VBP experiments/NNS on/IN real/JJ data/NNS in/IN the/DT audio/NN to/IN audio/JJ context/NN ,/, where/WRB we/PRP show/VBP that/IN the/DT learning/NN of/IN a/DT similarity/NN measure/NN leads/VBZ to/IN improvements/NNS in/IN the/DT performance/NN of/IN the/DT alignment/NN task/NN ./.
+We/PRP also/RB propose/VBP to/TO use/VB this/DT metric/JJ learning/NN framework/NN to/TO perform/VB feature/NN selection/NN and/CC ,/, from/IN basic/JJ audio/JJ features/NNS ,/, build/VB a/DT combination/NN of/IN these/DT with/IN better/JJR performance/NN for/IN the/DT alignment/NN ./.

@@ -1,0 +1,8 @@
+In this paper, we propose an OCR (optical character recognition)-based localization system called OCRAPOSE II, which is applicable in a number of indoor scenarios including office buildings, parkings, airports, grocery stores, etc.
+In these scenarios, characters (i.e.
+texts or numbers) can be used as suitable distinctive landmarks for localization.
+The proposed system takes advantage of OCR to read these characters in the query still images and provides a rough location estimate using a floor plan.
+Then, it finds depth and angle-of-view of the query using the information provided by the OCR engine in order to refine the location estimate.
+We derive novel formulas for the query angle-of-view and depth estimation using image line segments and the OCR box information.
+We demonstrate the applicability and effectiveness of the proposed system through experiments in indoor scenarios.
+It is shown that our system demonstrates better performance compared to the state-of-the-art benchmarks in terms of location recognition rate and average localization error specially under sparse database condition.

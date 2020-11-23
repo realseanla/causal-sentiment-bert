@@ -1,0 +1,10 @@
+Many/JJ real/JJ world/NN problems/NNS can/MD be/VB expressed/VBN as/IN optimisation/NN problems/NNS ./.
+Solving/VBG this/DT kind/NN of/IN problems/NNS means/VBZ to/TO find/VB ,/, among/IN all/DT possible/JJ solutions/NNS ,/, the/DT one/NN that/WDT maximises/VBZ an/DT evaluation/NN function/NN ./.
+One/CD approach/NN to/TO solve/VB this/DT kind/NN of/IN problem/NN is/VBZ to/TO use/VB an/DT informed/VBN search/NN strategy/NN ./.
+The/DT principle/NN of/IN this/DT kind/NN of/IN strategy/NN is/VBZ to/TO use/VB problem/NN -/HYPH specific/JJ knowledge/NN beyond/IN the/DT definition/NN of/IN the/DT problem/NN itself/PRP to/TO find/VB solutions/NNS more/RBR efficiently/RB than/IN with/IN an/DT uninformed/JJ strategy/NN ./.
+This/DT kind/NN of/IN strategy/NN demands/NNS to/TO define/VB problem/NN -/HYPH specific/JJ knowledge/NN (/-LRB- heuristics/NNS )/-RRB- ./.
+The/DT efficiency/NN and/CC the/DT effectiveness/NN of/IN systems/NNS based/VBN on/IN it/PRP directly/RB depend/VBP on/IN the/DT used/VBN knowledge/NN quality/NN ./.
+Unfortunately/RB ,/, acquiring/VBG and/CC maintaining/VBG such/JJ knowledge/NN can/MD be/VB fastidious/JJ ./.
+The/DT objective/NN of/IN the/DT work/NN presented/VBN in/IN this/DT paper/NN is/VBZ to/TO propose/VB an/DT automatic/JJ knowledge/NN revision/NN approach/NN for/IN systems/NNS based/VBN on/IN an/DT informed/JJ tree/NN search/NN strategy/NN ./.
+Our/PRP$ approach/NN consists/VBZ in/IN analysing/VBG the/DT system/NN execution/NN logs/NNS and/CC revising/VBG knowledge/NN based/VBN on/IN these/DT logs/NNS by/IN modelling/VBG the/DT revision/NN problem/NN as/IN a/DT knowledge/NN space/NN exploration/NN problem/NN ./.
+We/PRP present/VBP an/DT experiment/NN we/PRP carried/VBD out/RP in/IN an/DT application/NN domain/NN where/WRB informed/VBN search/NN strategies/NNS are/VBP often/RB used/VBN :/: cartographic/JJ generalisation/NN ./.

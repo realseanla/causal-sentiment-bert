@@ -1,0 +1,8 @@
+New/JJ proof/NN assistant/NN developments/NNS often/RB involve/VBP concepts/NNS similar/JJ to/IN already/RB formalized/VBN ones/NNS ./.
+When/WRB proving/VBG their/PRP$ properties/NNS ,/, a/DT human/NN can/MD often/RB take/VB inspiration/NN from/IN the/DT existing/VBG formalized/VBN proofs/NNS available/JJ in/IN other/JJ provers/NNS or/CC libraries/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP and/CC evaluate/VBP a/DT number/NN of/IN methods/NNS ,/, which/WDT strengthen/VBP proof/JJ automation/NN by/IN learning/VBG from/IN proof/JJ libraries/NNS of/IN different/JJ provers/NNS ./.
+Certain/JJ conjectures/VBZ can/MD be/VB proved/VBN directly/RB from/IN the/DT dependencies/NNS induced/VBN by/IN similar/JJ proofs/NNS in/IN the/DT other/JJ library/NN ./.
+Even/RB if/IN exact/JJ correspondences/NNS are/VBP not/RB found/VBN ,/, learning/NN -/HYPH reasoning/NN systems/NNS can/MD make/VB use/NN of/IN the/DT association/NN between/IN proved/VBN theorems/NNS and/CC their/PRP$ characteristics/NNS to/TO predict/VB the/DT relevant/JJ premises/NNS ./.
+Such/JJ external/JJ help/NN can/MD be/VB further/JJ combined/VBN with/IN internal/JJ advice/NN ./.
+We/PRP evaluate/VBP the/DT proposed/VBN knowledge/NN -/HYPH sharing/NN methods/NNS by/IN reproving/VBG the/DT HOL/NNP Light/NNP and/CC HOL4/NN standard/JJ libraries/NNS ./.
+The/DT learning/NN -/HYPH reasoning/NN system/NN HOL/NNP (/-LRB- y/NNP )/-RRB- Hammer/NNP ,/, whose/WP$ single/JJ best/JJS strategy/NN could/MD automatically/RB find/VB proofs/NNS for/IN 30/CD percent/NN of/IN the/DT HOL/NNP Light/NNP problems/NNS ,/, can/MD prove/VB 40/CD percent/NN with/IN the/DT knowledge/NN from/IN HOL4/NN ./.

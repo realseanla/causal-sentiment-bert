@@ -1,0 +1,2 @@
+We present and empirically evaluate an efficient algorithm that learns to predict using an ensemble of binary classifiers.
+It uses the structure of the ensemble predictions on unlabeled data to yield classification performance gains without making assumptions on the predictions or their origin, and does this as scalably as linear learning.

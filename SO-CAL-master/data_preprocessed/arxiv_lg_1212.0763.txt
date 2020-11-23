@@ -1,0 +1,3 @@
+It/PRP is/VBZ today/NN accepted/VBD that/IN matrix/NN factorization/NN models/NNS allow/VBP a/DT high/JJ quality/NN of/IN rating/NN prediction/NN in/IN recommender/NN systems/NNS ./.
+However/RB ,/, a/DT major/JJ drawback/NN of/IN matrix/NN factorization/NN is/VBZ its/PRP$ static/JJ nature/NN that/WDT results/VBZ in/IN a/DT progressive/JJ declining/VBG of/IN the/DT accuracy/NN of/IN the/DT predictions/NNS after/IN each/DT factorization/NN ./.
+This/DT is/VBZ due/JJ to/IN the/DT fact/NN that/IN the/DT new/JJ obtained/VBN ratings/NNS are/VBP not/RB taken/VBN into/IN account/NN until/IN a/DT new/JJ factorization/NN is/VBZ computed/VBN ,/, which/WDT can/MD not/RB be/VB done/VBN very/RB often/RB because/IN of/IN the/DT high/JJ cost/NN of/IN matrix/NN factorization/NN ./.

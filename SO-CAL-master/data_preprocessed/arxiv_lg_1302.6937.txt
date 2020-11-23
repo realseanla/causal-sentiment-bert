@@ -1,0 +1,6 @@
+In/IN many/JJ online/JJ learning/NN scenarios/NNS the/DT loss/NN functions/NNS are/VBP not/RB memoryless/JJ ,/, but/CC rather/RB depend/VB on/IN history/NN ./.
+Our/PRP$ first/JJ contribution/NN is/VBZ a/DT complete/JJ characterization/NN of/IN sufficient/JJ and/CC necessary/JJ conditions/NNS for/IN learning/VBG with/IN memory/NN ,/, accompanied/VBN with/IN a/DT novel/JJ algorithm/NN for/IN this/DT framework/NN that/WDT attains/VBZ the/DT optimal/JJ O/NN (/-LRB- \/SYM sqrt/NN {/-LRB- T/NN }/-RRB- )/-RRB- -/HYPH regret/NN ./.
+This/DT improves/VBZ previous/JJ online/JJ learning/NN algorithms/NNS that/WDT guaranteed/VBD O/NN (/-LRB- T/NN ^/SYM {/-LRB- 2/3/CD }/-RRB- )/-RRB- regret/NN and/CC required/VBD more/RBR stringent/JJ conditions/NNS ./.
+As/IN an/DT application/NN of/IN the/DT new/JJ technique/NN ,/, we/PRP address/VBP the/DT classical/JJ problem/NN in/IN finance/NN of/IN constructing/VBG mean/JJ reverting/VBG portfolios/NNS ./.
+We/PRP design/VBP an/DT efficient/JJ online/JJ learning/NN algorithm/NN for/IN this/DT problem/NN ,/, and/CC provide/VB guarantees/NNS for/IN its/PRP$ performance/NN ./.
+We/PRP complement/VBP our/PRP$ theoretical/JJ findings/NNS with/IN an/DT empirical/JJ study/NN that/WDT verifies/VBZ our/PRP$ theoretical/JJ results/NNS on/IN financial/JJ data/NNS ./.

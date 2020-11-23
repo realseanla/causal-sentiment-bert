@@ -1,0 +1,10 @@
+In/IN many/JJ security/NN and/CC healthcare/NN systems/NNS a/DT sequence/NN of/IN features/NNS //, sensors/NNS //, tests/NNS are/VBP used/VBN for/IN detection/NN and/CC diagnosis/NN ./.
+Each/DT test/NN outputs/NNS a/DT prediction/NN of/IN the/DT latent/JJ state/NN ,/, and/CC carries/VBZ with/IN it/PRP inherent/JJ costs/NNS ./.
+Our/PRP$ objective/NN is/VBZ to/TO {/-LRB- \/SYM it/PRP learn/VB }/-RRB- strategies/NNS for/IN selecting/VBG tests/NNS to/TO optimize/VB accuracy/NN \/SYM &amp;/CC costs/NNS ./.
+Unfortunately/RB it/PRP is/VBZ often/RB impossible/JJ to/TO acquire/VB in/IN -/HYPH situ/NN ground/NN truth/NN annotations/NNS and/CC we/PRP are/VBP left/VBN with/IN the/DT problem/NN of/IN unsupervised/JJ sensor/NN selection/NN (/-LRB- USS/NNP )/-RRB- ./.
+We/PRP pose/VBP USS/NNP as/IN a/DT version/NN of/IN stochastic/JJ partial/JJ monitoring/NN problem/NN with/IN an/DT {/-LRB- \/SYM it/PRP unusual/JJ }/-RRB- reward/NN structure/NN (/-LRB- even/RB noisy/JJ annotations/NNS are/VBP unavailable/JJ )/-RRB- ./.
+Unsurprisingly/RB no/DT learner/NN can/MD achieve/VB sublinear/NN regret/NN without/IN further/JJ assumptions/NNS ./.
+To/IN this/DT end/NN we/PRP propose/VBP the/DT notion/NN of/IN weak/JJ -/HYPH dominance/NN ./.
+This/DT is/VBZ a/DT condition/NN on/IN the/DT joint/JJ probability/NN distribution/NN of/IN test/NN outputs/NNS and/CC latent/JJ state/NN and/CC says/VBZ that/IN whenever/WRB a/DT test/NN is/VBZ accurate/JJ on/IN an/DT example/NN ,/, a/DT later/JJ test/NN in/IN the/DT sequence/NN is/VBZ likely/JJ to/TO be/VB accurate/JJ as/RB well/RB ./.
+We/PRP empirically/RB verify/VBP that/IN weak/JJ dominance/NN holds/VBZ on/IN real/JJ datasets/NNS and/CC prove/VB that/IN it/PRP is/VBZ a/DT maximal/JJ condition/NN for/IN achieving/VBG sublinear/NN regret/NN ./.
+We/PRP reduce/VBP USS/NNP to/IN a/DT special/JJ case/NN of/IN multi-armed/JJ bandit/NN problem/NN with/IN side/NN information/NN and/CC develop/VB polynomial/JJ time/NN algorithms/NNS that/WDT achieve/VBP sublinear/NN regret/NN ./.

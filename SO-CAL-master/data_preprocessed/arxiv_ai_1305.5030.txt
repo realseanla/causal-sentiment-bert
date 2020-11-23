@@ -1,0 +1,6 @@
+The/DT obvious/JJ way/NN to/TO use/VB several/JJ admissible/JJ heuristics/NNS in/IN A/DT */NFP is/VBZ to/TO take/VB their/PRP$ maximum/NN ./.
+In/IN this/DT paper/NN we/PRP aim/VBP to/TO reduce/VB the/DT time/NN spent/VBN on/IN computing/VBG heuristics/NNS ./.
+We/PRP discuss/VBP Lazy/NNP A/NNP */SYM ,/, a/DT variant/NN of/IN A/DT */SYM where/WRB heuristics/NNS are/VBP evaluated/VBN lazily/RB :/: only/RB when/WRB they/PRP are/VBP essential/JJ to/IN a/DT decision/NN to/TO be/VB made/VBN in/IN the/DT A/NN */NFP search/NN process/NN ./.
+We/PRP present/VBP a/DT new/JJ rational/JJ meta/NN -/HYPH reasoning/NN based/VBN scheme/NN ,/, rational/JJ lazy/JJ A/NN */NFP ,/, which/WDT decides/VBZ whether/IN to/TO compute/VB the/DT more/RBR expensive/JJ heuristics/NNS at/IN all/RB ,/, based/VBN on/IN a/DT myopic/JJ value/NN of/IN information/NN estimate/NN ./.
+Both/DT methods/NNS are/VBP examined/VBN theoretically/RB ./.
+Empirical/JJ evaluation/NN on/IN several/JJ domains/NNS supports/VBZ the/DT theoretical/JJ results/NNS ,/, and/CC shows/VBZ that/IN lazy/JJ A/NN */NFP and/CC rational/JJ lazy/JJ A/NN */NFP are/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN heuristic/NN combination/NN methods/NNS ./.

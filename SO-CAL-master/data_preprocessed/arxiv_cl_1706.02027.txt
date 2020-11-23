@@ -1,0 +1,9 @@
+We/PRP study/VBP the/DT problem/NN of/IN joint/JJ question/NN answering/VBG (/-LRB- QA/NNP )/-RRB- and/CC question/NN generation/NN (/-LRB- QG/NN )/-RRB- in/IN this/DT paper/NN ./.
+Our/PRP$ intuition/NN is/VBZ that/IN QA/NNP and/CC QG/NNP have/VBP intrinsic/JJ connections/NNS and/CC these/DT two/CD tasks/NNS could/MD improve/VB each/DT other/JJ ./.
+On/IN one/CD side/NN ,/, the/DT QA/NNP model/NN judges/NNS whether/IN the/DT generated/VBN question/NN of/IN a/DT QG/NN model/NN is/VBZ relevant/JJ to/IN the/DT answer/NN ./.
+On/IN the/DT other/JJ side/NN ,/, the/DT QG/NNP model/NN provides/VBZ the/DT probability/NN of/IN generating/VBG a/DT question/NN given/VBN the/DT answer/NN ,/, which/WDT is/VBZ a/DT useful/JJ evidence/NN that/IN in/IN turn/NN facilitates/VBZ QA/NNP ./.
+In/IN this/DT paper/NN we/PRP regard/VBP QA/NNP and/CC QG/NNP as/IN dual/JJ tasks/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ training/NN framework/NN that/WDT trains/VBZ the/DT models/NNS of/IN QA/NNP and/CC QG/NNP simultaneously/RB ,/, and/CC explicitly/RB leverages/VBZ their/PRP$ probabilistic/JJ correlation/NN to/TO guide/VB the/DT training/NN process/NN ./.
+We/PRP implement/VBP a/DT QG/NN model/NN based/VBN on/IN sequence/NN -/HYPH to/IN -/HYPH sequence/NN learning/NN ,/, and/CC a/DT QA/NN model/NN based/VBN on/IN recurrent/JJ neural/JJ network/NN ./.
+All/PDT the/DT parameters/NNS involved/VBN in/IN these/DT two/CD tasks/NNS are/VBP jointly/RB learned/VBN with/IN back/RB propagation/NN ./.
+Experimental/JJ results/NNS on/IN two/CD datasets/NNS show/VBP that/IN our/PRP$ approach/NN improves/VBZ both/CC QA/NNP and/CC QG/NNP tasks/NNS ./.

@@ -1,0 +1,6 @@
+Many/JJ modern/JJ computer/NN vision/NN and/CC machine/NN learning/NN applications/NNS rely/VBP on/IN solving/VBG difficult/JJ optimization/NN problems/NNS that/WDT involve/VBP non-differentiable/JJ objective/JJ functions/NNS and/CC constraints/NNS ./.
+The/DT alternating/VBG direction/NN method/NN of/IN multipliers/NNS (/-LRB- ADMM/NN )/-RRB- is/VBZ a/DT widely/RB used/VBN approach/NN to/TO solve/VB such/JJ problems/NNS ./.
+Relaxed/JJ ADMM/NN is/VBZ a/DT generalization/NN of/IN ADMM/NNP that/WDT often/RB achieves/VBZ better/JJR performance/NN ,/, but/CC its/PRP$ efficiency/NN depends/VBZ strongly/RB on/IN algorithm/NN parameters/NNS that/WDT must/MD be/VB chosen/VBN by/IN an/DT expert/NN user/NN ./.
+We/PRP propose/VBP an/DT adaptive/JJ method/NN that/WDT automatically/RB tunes/VBZ the/DT key/JJ algorithm/NN parameters/NNS to/TO achieve/VB optimal/JJ performance/NN without/IN user/NN oversight/NN ./.
+Inspired/VBN by/IN recent/JJ work/NN on/IN adaptivity/NN ,/, the/DT proposed/VBN adaptive/JJ relaxed/JJ ADMM/NN (/-LRB- ARADMM/NNP )/-RRB- is/VBZ derived/VBN by/IN assuming/VBG a/DT Barzilai/NNP -/HYPH Borwein/NNP style/NN linear/JJ gradient/NN ./.
+A/DT detailed/JJ convergence/NN analysis/NN of/IN ARADMM/NNP is/VBZ provided/VBN ,/, and/CC numerical/JJ results/NNS on/IN several/JJ applications/NNS demonstrate/VBP fast/JJ practical/JJ convergence/NN ./.

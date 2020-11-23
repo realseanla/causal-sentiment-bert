@@ -1,0 +1,6 @@
+Learning/VBG over/IN multi-view/JJ data/NNS is/VBZ a/DT challenging/JJ problem/NN with/IN strong/JJ practical/JJ applications/NNS ./.
+Most/JJS related/JJ studies/NNS focus/VBP on/IN the/DT classification/NN point/NN of/IN view/NN and/CC assume/VB that/IN all/PDT the/DT views/NNS are/VBP available/JJ at/IN any/DT time/NN ./.
+We/PRP consider/VBP an/DT extension/NN of/IN this/DT framework/NN in/IN two/CD directions/NNS ./.
+First/RB ,/, based/VBN on/IN the/DT BiGAN/NNP model/NN ,/, the/DT Multi-view/NNP BiGAN/NNP (/-LRB- MV/NNP -/HYPH BiGAN/NNP )/-RRB- is/VBZ able/JJ to/TO perform/VB density/NN estimation/NN from/IN multi-view/JJ inputs/NNS ./.
+Second/RB ,/, it/PRP can/MD deal/VB with/IN missing/JJ views/NNS and/CC is/VBZ able/JJ to/TO update/VB its/PRP$ prediction/NN when/WRB additional/JJ views/NNS are/VBP provided/VBN ./.
+We/PRP illustrate/VBP these/DT properties/NNS on/IN a/DT set/NN of/IN experiments/NNS over/IN different/JJ datasets/NNS ./.

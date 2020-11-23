@@ -1,0 +1,5 @@
+Recent/JJ advances/NNS of/IN gradient/NN temporal/JJ -/HYPH difference/NN methods/NNS allow/VBP to/TO learn/VB off/IN -/HYPH policy/NN multiple/JJ value/NN functions/VBZ in/IN parallel/JJ with/IN -/HYPH out/RP sacrificing/VBG convergence/NN guarantees/NNS or/CC computational/JJ efficiency/NN ./.
+This/DT opens/VBZ up/RP new/JJ possibilities/NNS for/IN sound/NN ensemble/NN techniques/NNS in/IN reinforcement/NN learning/NN ./.
+In/IN this/DT work/NN we/PRP propose/VBP learning/VBG an/DT ensemble/NN of/IN policies/NNS related/VBN through/IN potential/JJ -/HYPH based/VBN shaping/NN rewards/NNS ./.
+The/DT ensemble/NN induces/VBZ a/DT combination/NN policy/NN by/IN using/VBG a/DT voting/NN mechanism/NN on/IN its/PRP$ components/NNS ./.
+Learning/VBG happens/VBZ in/IN real/JJ time/NN ,/, and/CC we/PRP empirically/RB show/VBP the/DT combination/NN policy/NN to/TO outperform/VB the/DT individual/JJ policies/NNS of/IN the/DT ensemble/NN ./.

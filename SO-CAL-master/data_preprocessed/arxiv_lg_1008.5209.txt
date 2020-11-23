@@ -1,0 +1,7 @@
+We/PRP consider/VBP a/DT class/NN of/IN learning/NN problems/NNS that/WDT involve/VBP a/DT structured/JJ sparsity/NN -/HYPH inducing/VBG norm/NN defined/VBN as/IN the/DT sum/NN of/IN $/$ \/CD ell/CD _/NFP \/SYM infty/JJ $/$ -/HYPH norms/NNS over/IN groups/NNS of/IN variables/NNS ./.
+Whereas/IN a/DT lot/NN of/IN effort/NN has/VBZ been/VBN put/VBN in/IN developing/VBG fast/JJ optimization/NN methods/NNS when/WRB the/DT groups/NNS are/VBP disjoint/NN or/CC embedded/VBN in/IN a/DT specific/JJ hierarchical/JJ structure/NN ,/, we/PRP address/VBP here/RB the/DT case/NN of/IN general/JJ overlapping/VBG groups/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP show/VBP that/IN the/DT corresponding/VBG optimization/NN problem/NN is/VBZ related/VBN to/IN network/NN flow/NN optimization/NN ./.
+More/RBR precisely/RB ,/, the/DT proximal/JJ problem/NN associated/VBN with/IN the/DT norm/NN we/PRP consider/VBP is/VBZ dual/JJ to/IN a/DT quadratic/JJ min/NN -/HYPH cost/NN flow/NN problem/NN ./.
+We/PRP propose/VBP an/DT efficient/JJ procedure/NN which/WDT computes/VBZ its/PRP$ solution/NN exactly/RB in/IN polynomial/JJ time/NN ./.
+Our/PRP$ algorithm/NN scales/VBZ up/RP to/IN millions/NNS of/IN variables/NNS ,/, and/CC opens/VBZ up/RP a/DT whole/JJ new/JJ range/NN of/IN applications/NNS for/IN structured/JJ sparse/JJ models/NNS ./.
+We/PRP present/VBP several/JJ experiments/NNS on/IN image/NN and/CC video/NN data/NNS ,/, demonstrating/VBG the/DT applicability/NN and/CC scalability/NN of/IN our/PRP$ approach/NN for/IN various/JJ problems/NNS ./.

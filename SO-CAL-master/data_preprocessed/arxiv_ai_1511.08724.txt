@@ -1,0 +1,14 @@
+Reinforcement/NN learning/NN is/VBZ a/DT formal/JJ framework/NN for/IN modeling/VBG agents/NNS that/WDT learn/VBP to/TO solve/VB tasks/NNS ./.
+For/IN example/NN ,/, one/CD important/JJ task/NN for/IN animals/NNS is/VBZ to/TO navigate/VB in/IN an/DT environment/NN to/TO find/VB food/NN or/CC to/TO return/VB to/IN their/PRP$ nest/NN ./.
+In/IN such/JJ tasks/NNS ,/, the/DT agent/NN has/VBZ to/TO learn/VB a/DT path/NN through/IN the/DT environment/NN from/IN start/NN states/NNS to/IN goal/NN states/NNS ,/, by/IN visiting/VBG a/DT sequence/NN of/IN intermediate/JJ states/NNS ./.
+The/DT agent/NN receives/VBZ reward/NN on/IN a/DT goal/NN state/NN ./.
+Concretely/RB ,/, we/PRP need/VBP to/TO learn/VB a/DT policy/NN that/WDT maps/VBZ each/DT encountered/VBN state/NN to/IN an/DT immediate/JJ action/NN that/WDT leads/VBZ to/IN a/DT next/JJ state/NN ,/, eventually/RB leading/VBG to/IN a/DT goal/NN state/NN ./.
+We/PRP say/VBP that/IN a/DT learning/NN process/NN has/VBZ converged/VBN if/IN eventually/RB the/DT policy/NN will/MD no/RB longer/RB change/VB ,/, i.e./FW ,/, the/DT policy/NN stabilizes/VBZ ./.
+The/DT intuition/NN of/IN paths/NNS and/CC navigation/NN policies/NNS can/MD be/VB applied/VBN generally/RB ./.
+Indeed/RB ,/, in/IN this/DT article/NN ,/, we/PRP study/VBP navigation/NN tasks/NNS formalized/VBN as/IN a/DT graph/NN structure/NN that/WDT ,/, for/IN each/DT application/NN of/IN an/DT action/NN to/IN a/DT state/NN ,/, describes/VBZ the/DT possible/JJ successor/NN states/NNS that/WDT could/MD result/VB from/IN that/DT application/NN ./.
+In/IN contrast/NN to/IN standard/JJ reinforcement/NN learning/NN ,/, we/PRP essentially/RB simplify/VBP numeric/JJ reward/NN signals/NNS to/IN boolean/JJ flags/NNS on/IN the/DT transitions/NNS in/IN the/DT graph/NN ./.
+The/DT resulting/VBG framework/NN enables/VBZ a/DT clear/JJ theoretical/JJ study/NN of/IN how/WRB properties/NNS of/IN the/DT graph/NN structure/NN can/MD cause/VB convergence/NN of/IN the/DT learning/NN process/NN ./.
+In/IN particular/JJ ,/, we/PRP formally/RB study/VB a/DT learning/NN process/NN that/WDT detects/VBZ revisits/VBZ to/IN states/NNS in/IN the/DT graph/NN ,/, i.e./FW ,/, we/PRP detect/VBP cycles/NNS ,/, and/CC the/DT process/NN keeps/VBZ adjusting/VBG the/DT policy/NN until/IN no/DT more/JJR cycles/NNS are/VBP made/VBN ./.
+So/RB ,/, eventually/RB ,/, the/DT agent/NN goes/VBZ straight/RB to/TO reward/VB from/IN each/DT start/NN state/NN ./.
+We/PRP identify/VBP reducibility/NN of/IN the/DT task/NN graph/NN as/IN a/DT sufficient/JJ condition/NN for/IN this/DT learning/NN process/NN to/TO converge/VB ./.
+We/PRP also/RB syntactically/RB characterize/VB the/DT form/NN of/IN the/DT final/JJ policy/NN ,/, which/WDT can/MD be/VB used/VBN to/TO detect/VB convergence/NN in/IN a/DT simulation/NN ./.

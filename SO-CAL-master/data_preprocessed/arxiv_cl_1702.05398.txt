@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT deep/JJ learning/NN model/NN for/IN identifying/VBG structure/NN within/IN experiment/NN narratives/NNS in/IN scientific/JJ literature/NN ./.
+We/PRP take/VBP a/DT sequence/NN labeling/NN approach/NN to/IN this/DT problem/NN ,/, and/CC label/NN clauses/NNS within/IN experiment/NN narratives/NNS to/TO identify/VB the/DT different/JJ parts/NNS of/IN the/DT experiment/NN ./.
+Our/PRP$ dataset/NN consists/VBZ of/IN paragraphs/NNS taken/VBN from/IN open/JJ access/NN PubMed/NNP papers/NNS labeled/VBN with/IN rhetorical/JJ information/NN as/IN a/DT result/NN of/IN our/PRP$ pilot/NN annotation/NN ./.
+Our/PRP$ model/NN is/VBZ a/DT Recurrent/JJ Neural/JJ Network/NN (/-LRB- RNN/NN )/-RRB- with/IN Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- cells/NNS that/WDT labels/VBZ clauses/NNS ./.
+The/DT clause/NN representations/NNS are/VBP computed/VBN by/IN combining/VBG word/NN representations/NNS using/VBG a/DT novel/JJ attention/NN mechanism/NN that/WDT involves/VBZ a/DT separate/JJ RNN/NN ./.
+We/PRP compare/VBP this/DT model/NN against/IN LSTMs/NNS where/WRB the/DT input/NN layer/NN has/VBZ simple/JJ or/CC no/DT attention/NN and/CC a/DT feature/NN rich/JJ CRF/NNP model/NN ./.
+Furthermore/RB ,/, we/PRP describe/VBP how/WRB our/PRP$ work/NN could/MD be/VB useful/JJ for/IN information/NN extraction/NN from/IN scientific/JJ literature/NN ./.

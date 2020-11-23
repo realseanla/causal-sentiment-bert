@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT supervised/JJ machine/NN learning/NN approach/NN for/IN boosting/VBG existing/VBG signal/NN and/CC image/NN recovery/NN methods/NNS and/CC demonstrate/VBP its/PRP$ efficacy/NN on/IN example/NN of/IN image/NN reconstruction/NN in/IN computed/VBN tomography/NN ./.
+Our/PRP$ technique/NN is/VBZ based/VBN on/IN a/DT local/JJ nonlinear/JJ fusion/NN of/IN several/JJ image/NN estimates/NNS ,/, all/DT obtained/VBN by/IN applying/VBG a/DT chosen/VBN reconstruction/NN algorithm/NN with/IN different/JJ values/NNS of/IN its/PRP$ control/NN parameters/NNS ./.
+Usually/RB such/JJ output/NN images/NNS have/VBP different/JJ bias/NN //HYPH variance/NN trade/NN -/HYPH off/NN ./.
+The/DT fusion/NN of/IN the/DT images/NNS is/VBZ performed/VBN by/IN feed/NN -/HYPH forward/JJ neural/JJ network/NN trained/VBN on/IN a/DT set/NN of/IN known/VBN examples/NNS ./.
+Numerical/NNP experiments/NNS show/VBP an/DT improvement/NN in/IN reconstruction/NN quality/NN relatively/RB to/IN existing/VBG direct/JJ and/CC iterative/JJ reconstruction/NN methods/NNS ./.

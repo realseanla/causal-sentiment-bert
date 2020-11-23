@@ -1,0 +1,10 @@
+Nogood/JJ learning/NN is/VBZ a/DT powerful/JJ approach/NN to/IN reducing/VBG search/NN in/IN Constraint/NNP Programming/NNP (/-LRB- CP/NN )/-RRB- solvers/NNS ./.
+The/DT current/JJ state/NN of/IN the/DT art/NN ,/, called/VBN Lazy/NNP Clause/NN Generation/NN (/-LRB- LCG/NN )/-RRB- ,/, uses/VBZ resolution/NN to/TO derive/VB nogoods/NNS expressing/VBG the/DT reasons/NNS for/IN each/DT search/NN failure/NN ./.
+Such/JJ nogoods/NNS can/MD prune/VB other/JJ parts/NNS of/IN the/DT search/NN tree/NN ,/, producing/VBG exponential/JJ speedups/NNS on/IN a/DT wide/JJ variety/NN of/IN problems/NNS ./.
+Nogood/NNP learning/VBG solvers/NNS can/MD be/VB seen/VBN as/IN resolution/NN proof/NN systems/NNS ./.
+The/DT stronger/JJR the/DT proof/NN system/NN ,/, the/DT faster/RBR it/PRP can/MD solve/VB a/DT CP/NN problem/NN ./.
+It/PRP has/VBZ recently/RB been/VBN shown/VBN that/IN the/DT proof/NN system/NN used/VBN in/IN LCG/NN is/VBZ at/IN least/JJS as/IN strong/JJ as/IN general/JJ resolution/NN ./.
+However/RB ,/, stronger/JJR proof/NN systems/NNS such/JJ as/IN \/SYM emph/NN {/-LRB- extended/JJ resolution/NN }/-RRB- exist/VBP ./.
+Extended/VBN resolution/NN allows/VBZ for/IN literals/NNS expressing/VBG arbitrary/JJ logical/JJ concepts/NNS over/IN existing/VBG variables/NNS to/TO be/VB introduced/VBN and/CC can/MD allow/VB exponentially/RB smaller/JJR proofs/NNS than/IN general/JJ resolution/NN ./.
+The/DT primary/JJ problem/NN in/IN using/VBG extended/JJ resolution/NN is/VBZ to/TO figure/VB out/RP exactly/RB which/WDT literals/NNS are/VBP useful/JJ to/TO introduce/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN we/PRP can/MD use/VB the/DT structural/JJ information/NN contained/VBN in/IN a/DT CP/NN model/NN in/IN order/NN to/TO introduce/VB useful/JJ literals/NNS ,/, and/CC that/IN this/DT can/MD translate/VB into/IN significant/JJ speedups/NNS on/IN a/DT range/NN of/IN problems/NNS ./.

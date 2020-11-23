@@ -1,0 +1,9 @@
+We/PRP publicly/RB release/VBP a/DT new/JJ large/JJ -/HYPH scale/NN dataset/NN ,/, called/VBN SearchQA/NNP ,/, for/IN machine/NN comprehension/NN ,/, or/CC question/NN -/HYPH answering/VBG ./.
+Unlike/IN recently/RB released/VBN datasets/NNS ,/, such/JJ as/IN DeepMind/NNP CNN/NNP //HYPH DailyMail/NNP and/CC SQuAD/NNP ,/, the/DT proposed/VBN SearchQA/NNP was/VBD constructed/VBN to/TO reflect/VB a/DT full/JJ pipeline/NN of/IN general/JJ question/NN -/HYPH answering/VBG ./.
+That/DT is/VBZ ,/, we/PRP start/VBP not/RB from/IN an/DT existing/VBG article/NN and/CC generate/VBP a/DT question/NN -/HYPH answer/NN pair/NN ,/, but/CC start/VB from/IN an/DT existing/VBG question/NN -/HYPH answer/NN pair/NN ,/, crawled/VBN from/IN J/NN !/.
+Archive/NN ,/, and/CC augment/VB it/PRP with/IN text/NN snippets/NNS retrieved/VBN by/IN Google/NNP ./.
+Following/VBG this/DT approach/NN ,/, we/PRP built/VBD SearchQA/NNP ,/, which/WDT consists/VBZ of/IN more/JJR than/IN 140k/CD question/NN -/HYPH answer/NN pairs/NNS with/IN each/DT pair/NN having/VBG 49.6/CD snippets/NNS on/IN average/JJ ./.
+Each/DT question/NN -/HYPH answer/NN -/HYPH context/NN tuple/NN of/IN the/DT SearchQA/NNP comes/VBZ with/IN additional/JJ meta/NN -/HYPH data/NNS such/JJ as/IN the/DT snippet/NN 's/POS URL/NN ,/, which/WDT we/PRP believe/VBP will/MD be/VB valuable/JJ resources/NNS for/IN future/JJ research/NN ./.
+We/PRP conduct/VBP human/JJ evaluation/NN as/RB well/RB as/IN test/NN two/CD baseline/NN methods/NNS ,/, one/CD simple/JJ word/NN selection/NN and/CC the/DT other/JJ deep/JJ learning/NN based/VBN ,/, on/IN the/DT SearchQA/NNP ./.
+We/PRP show/VBP that/IN there/EX is/VBZ a/DT meaningful/JJ gap/NN between/IN the/DT human/JJ and/CC machine/NN performances/NNS ./.
+This/DT suggests/VBZ that/IN the/DT proposed/VBN dataset/NN could/MD well/RB serve/VB as/IN a/DT benchmark/NN for/IN question/NN -/HYPH answering/VBG ./.

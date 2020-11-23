@@ -1,0 +1,6 @@
+This/DT paper/NN proposes/VBZ a/DT method/NN to/TO estimate/VB the/DT total/JJ time/NN required/VBN to/TO solve/VB SAT/NN in/IN distributed/VBN environments/NNS via/IN partitioning/VBG approach/NN ./.
+It/PRP is/VBZ based/VBN on/IN the/DT observation/NN that/IN for/IN some/DT simple/JJ forms/NNS of/IN problem/NN partitioning/VBG one/PRP can/MD use/VB the/DT Monte/NNP Carlo/NNP approach/NN to/TO estimate/VB the/DT time/NN required/VBN to/TO solve/VB an/DT original/JJ problem/NN ./.
+The/DT method/NN proposed/VBN is/VBZ based/VBN on/IN an/DT algorithm/NN for/IN searching/VBG for/IN partitioning/VBG with/IN an/DT optimal/JJ solving/NN time/NN estimation/NN ./.
+We/PRP applied/VBD this/DT method/NN to/TO estimate/VB the/DT time/NN required/VBN to/TO perform/VB logical/JJ cryptanalysis/NN of/IN the/DT widely/RB known/VBN stream/NN ciphers/NNS A5/NN //SYM 1/CD and/CC Bivium/NNP ./.
+The/DT paper/NN also/RB describes/VBZ a/DT volunteer/NN computing/NN project/NN SAT@home/NN aimed/VBN at/IN solving/VBG hard/JJ combinatorial/JJ problems/NNS reduced/VBN to/IN SAT/NNP ./.
+In/IN this/DT project/NN during/IN several/JJ months/NNS there/EX were/VBD solved/VBN 10/CD problems/NNS of/IN logical/JJ cryptanalysis/NN of/IN the/DT A5/NN //HYPH 1/CD cipher/NN thatcould/NN not/RB be/VB solved/VBN using/VBG known/JJ rainbow/NN tables/NNS ./.

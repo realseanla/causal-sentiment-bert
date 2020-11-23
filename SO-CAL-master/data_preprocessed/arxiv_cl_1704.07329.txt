@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT trie/NN -/HYPH structured/VBN Bayesian/JJ model/NN for/IN unsupervised/JJ morphological/JJ segmentation/NN ./.
+We/PRP adopt/VBP prior/JJ information/NN from/IN different/JJ sources/NNS in/IN the/DT model/NN ./.
+We/PRP use/VBP neural/JJ word/NN embeddings/NNS to/TO discover/VB words/NNS that/WDT are/VBP morphologically/RB derived/VBN from/IN each/DT other/JJ and/CC thereby/RB that/DT are/VBP semantically/RB similar/JJ ./.
+We/PRP use/VBP letter/NN successor/NN variety/NN counts/NNS obtained/VBN from/IN tries/NNS that/WDT are/VBP built/VBN by/IN neural/JJ word/NN embeddings/NNS ./.
+Our/PRP$ results/NNS show/VBP that/IN using/VBG different/JJ information/NN sources/NNS such/JJ as/IN neural/JJ word/NN embeddings/NNS and/CC letter/NN successor/NN variety/NN as/IN prior/JJ information/NN improves/VBZ morphological/JJ segmentation/NN in/IN a/DT Bayesian/JJ model/NN ./.
+Our/PRP$ model/NN outperforms/VBZ other/JJ unsupervised/JJ morphological/JJ segmentation/NN models/NNS on/IN Turkish/JJ and/CC gives/VBZ promising/JJ results/NNS on/IN English/NNP and/CC German/NNP for/IN scarce/JJ resources/NNS ./.

@@ -1,0 +1,7 @@
+TurboTax AnswerXchange is a social Q&amp;A system supporting users working on federal and state tax returns.
+Using 2015 data, we demonstrate that content popularity (or number of views per AnswerXchange question) can be predicted with reasonable accuracy based on attributes of the question alone.
+We also employ probabilistic topic analysis and uplift modeling to identify question features with the highest impact on popularity.
+We demonstrate that content popularity is driven by behavioral attributes of AnswerXchange users and depends on complex interactions between search ranking algorithms, psycholinguistic factors and question writing style.
+Our findings provide a rationale for employing popularity predictions to guide the users into formulating better questions and editing the existing ones.
+For example, starting question title with a question word or adding details to the question increase number of views per question.
+Similar approach can be applied to promoting AnswerXchange content indexed by Google to drive organic traffic to TurboTax.

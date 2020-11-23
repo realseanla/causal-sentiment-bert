@@ -1,0 +1,3 @@
+We propose a novel method for speeding up stochastic optimization algorithms via sketching methods, which recently became a powerful tool for accelerating algorithms for numerical linear algebra.
+We revisit the method of conditioning for accelerating first-order methods and suggest the use of sketching methods for constructing a cheap conditioner that attains a significant speedup with respect to the Stochastic Gradient Descent (SGD) algorithm.
+While our theoretical guarantees assume convexity, we discuss the applicability of our method to deep neural networks, and experimentally demonstrate its merits.

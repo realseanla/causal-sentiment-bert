@@ -1,0 +1,4 @@
+We/PRP are/VBP proposing/VBG an/DT extension/NN of/IN the/DT recursive/JJ neural/JJ network/NN that/WDT makes/VBZ use/NN of/IN a/DT variant/NN of/IN the/DT long/JJ short/JJ -/HYPH term/NN memory/NN architecture/NN ./.
+The/DT extension/NN allows/VBZ information/NN low/JJ in/IN parse/VB trees/NNS to/TO be/VB stored/VBN in/IN a/DT memory/NN register/NN (/-LRB- the/DT `/`` memory/NN cell/NN '/'' )/-RRB- and/CC used/VBN much/JJ later/RB higher/JJR up/RP in/IN the/DT parse/VB tree/NN ./.
+This/DT provides/VBZ a/DT solution/NN to/IN the/DT vanishing/VBG gradient/NN problem/NN and/CC allows/VBZ the/DT network/NN to/TO capture/VB long/JJ range/NN dependencies/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ composition/NN outperformed/VBD the/DT traditional/JJ neural/JJ -/HYPH network/NN composition/NN on/IN the/DT Stanford/NNP Sentiment/NN Treebank/NNP ./.

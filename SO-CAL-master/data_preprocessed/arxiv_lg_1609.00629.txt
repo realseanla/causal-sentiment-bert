@@ -1,0 +1,8 @@
+We/PRP present/VBP SEBOOST/NNP ,/, a/DT technique/NN for/IN boosting/VBG the/DT performance/NN of/IN existing/VBG stochastic/JJ optimization/NN methods/NNS ./.
+SEBOOST/NNP applies/VBZ a/DT secondary/JJ optimization/NN process/NN in/IN the/DT subspace/NN spanned/VBN by/IN the/DT last/JJ steps/NNS and/CC descent/NN directions/NNS ./.
+The/DT method/NN was/VBD inspired/VBN by/IN the/DT SESOP/NN optimization/NN method/NN for/IN large/JJ -/HYPH scale/NN problems/NNS ,/, and/CC has/VBZ been/VBN adapted/VBN for/IN the/DT stochastic/JJ learning/NN framework/NN ./.
+It/PRP can/MD be/VB applied/VBN on/IN top/NN of/IN any/DT existing/VBG optimization/NN method/NN with/IN no/DT need/NN to/TO tweak/VB the/DT internal/JJ algorithm/NN ./.
+We/PRP show/VBP that/IN the/DT method/NN is/VBZ able/JJ to/TO boost/VB the/DT performance/NN of/IN different/JJ algorithms/NNS ,/, and/CC make/VB them/PRP more/RBR robust/JJ to/IN changes/NNS in/IN their/PRP$ hyper/JJ -/HYPH parameters/NNS ./.
+As/IN the/DT boosting/VBG steps/NNS of/IN SEBOOST/NN are/VBP applied/VBN between/IN large/JJ sets/NNS of/IN descent/NN steps/NNS ,/, the/DT additional/JJ subspace/NN optimization/NN hardly/RB increases/VBZ the/DT overall/JJ computational/JJ burden/NN ./.
+We/PRP introduce/VBP two/CD hyper/JJ -/HYPH parameters/NNS that/WDT control/VBP the/DT balance/NN between/IN the/DT baseline/NN method/NN and/CC the/DT secondary/JJ optimization/NN process/NN ./.
+The/DT method/NN was/VBD evaluated/VBN on/IN several/JJ deep/JJ learning/NN tasks/NNS ,/, demonstrating/VBG promising/JJ results/NNS ./.

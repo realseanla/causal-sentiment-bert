@@ -1,0 +1,5 @@
+Training generative adversarial networks is unstable in high-dimensions when the true data distribution lies on a lower-dimensional manifold.
+The discriminator is then easily able to separate nearly all generated samples leaving the generator without meaningful gradients.
+We propose training a single generator simultaneously against an array of discriminators, each of which looks at a different random low-dimensional projection of the data.
+We show that individual discriminators then provide stable gradients to the generator, and that the generator learns to produce samples consistent with the full data distribution to satisfy all discriminators.
+We demonstrate the practical utility of this approach experimentally, and show that it is able to produce image samples with higher quality than traditional training with a single discriminator.

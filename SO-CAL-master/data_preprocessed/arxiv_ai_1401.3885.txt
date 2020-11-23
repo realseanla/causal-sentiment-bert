@@ -1,0 +1,11 @@
+Current/JJ evaluation/NN functions/NNS for/IN heuristic/NN planning/NN are/VBP expensive/JJ to/TO compute/VB ./.
+In/IN numerous/JJ planning/NN problems/NNS these/DT functions/NNS provide/VBP good/JJ guidance/NN to/IN the/DT solution/NN ,/, so/RB they/PRP are/VBP worth/JJ the/DT expense/NN ./.
+However/RB ,/, when/WRB evaluation/NN functions/NNS are/VBP misguiding/VBG or/CC when/WRB planning/VBG problems/NNS are/VBP large/JJ enough/RB ,/, lots/NNS of/IN node/NN evaluations/NNS must/MD be/VB computed/VBN ,/, which/WDT severely/RB limits/VBZ the/DT scalability/NN of/IN heuristic/NN planners/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ solution/NN for/IN reducing/VBG node/NN evaluations/NNS in/IN heuristic/NN planning/NN based/VBN on/IN machine/NN learning/NN ./.
+Particularly/RB ,/, we/PRP define/VBP the/DT task/NN of/IN learning/VBG search/NN control/NN for/IN heuristic/NN planning/NN as/IN a/DT relational/JJ classification/NN task/NN ,/, and/CC we/PRP use/VBP an/DT off/RB -/HYPH the/DT -/HYPH shelf/NN relational/JJ classification/NN tool/NN to/TO address/VB this/DT learning/NN task/NN ./.
+Our/PRP$ relational/JJ classification/NN task/NN captures/VBZ the/DT preferred/JJ action/NN to/TO select/VB in/IN the/DT different/JJ planning/NN contexts/NNS of/IN a/DT specific/JJ planning/NN domain/NN ./.
+These/DT planning/NN contexts/NNS are/VBP defined/VBN by/IN the/DT set/NN of/IN helpful/JJ actions/NNS of/IN the/DT current/JJ state/NN ,/, the/DT goals/NNS remaining/VBG to/TO be/VB achieved/VBN ,/, and/CC the/DT static/NN predicates/NNS of/IN the/DT planning/NN task/NN ./.
+This/DT paper/NN shows/VBZ two/CD methods/NNS for/IN guiding/VBG the/DT search/NN of/IN a/DT heuristic/NN planner/NN with/IN the/DT learned/VBN classifiers/NNS ./.
+The/DT first/JJ one/CD consists/VBZ of/IN using/VBG the/DT resulting/VBG classifier/NN as/IN an/DT action/NN policy/NN ./.
+The/DT second/JJ one/NN consists/VBZ of/IN applying/VBG the/DT classifier/NN to/TO generate/VB lookahead/NN states/NNS within/IN a/DT Best/NNP First/NNP Search/NNP algorithm/NN ./.
+Experiments/NNS over/IN a/DT variety/NN of/IN domains/NNS reveal/VBP that/IN our/PRP$ heuristic/NN planner/NN using/VBG the/DT learned/VBN classifiers/NNS solves/VBZ larger/JJR problems/NNS than/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN planners/NNS ./.

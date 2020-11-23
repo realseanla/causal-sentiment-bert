@@ -1,0 +1,7 @@
+This/DT paper/NN describes/VBZ a/DT new/JJ approach/NN allowing/VBG the/DT generation/NN of/IN a/DT simplified/JJ Biped/NNP gait/NN ./.
+This/DT approach/NN combines/VBZ a/DT classical/JJ dynamic/JJ modeling/NN with/IN an/DT inverse/JJ kinematics/NNS '/POS solver/NN based/VBN on/IN particle/NN swarm/NN optimization/NN ,/, PSO/NNP ./.
+First/RB ,/, an/DT inverted/VBN pendulum/NN ,/, IP/RB ,/, is/VBZ used/VBN to/TO obtain/VB a/DT simplified/JJ dynamic/JJ model/NN of/IN the/DT robot/NN and/CC to/TO compute/VB the/DT target/NN position/NN of/IN a/DT key/JJ point/NN in/IN biped/NN locomotion/NN ,/, the/DT Centre/NN Of/IN Mass/NNP ,/, COM/NNP ./.
+The/DT proposed/VBN algorithm/NN ,/, called/VBN IK/NNP -/HYPH PSO/NNP ,/, Inverse/NNP Kinematics/NNP PSO/NNP ,/, returns/NNS and/CC inverse/JJ kinematics/NNS solution/NN corresponding/VBG to/IN that/DT COM/NN respecting/VBG the/DT joints/NNS constraints/NNS ./.
+In/IN This/DT paper/NN the/DT inertia/NN weight/NN PSO/NN variant/NN is/VBZ used/VBN to/TO generate/VB a/DT possible/JJ solution/NN according/VBG to/IN the/DT stability/NN based/VBN fitness/NN function/NN and/CC a/DT set/NN of/IN joints/NNS motions/NNS constraints/NNS ./.
+The/DT method/NN is/VBZ applied/VBN with/IN success/NN to/IN a/DT leg/NN motion/NN generation/NN ./.
+Since/IN based/VBN on/IN a/DT pre-calculated/JJ COM/NN ,/, that/IN satisfied/JJ the/DT biped/NN stability/NN ,/, the/DT proposal/NN allowed/VBN also/RB to/TO plan/VB a/DT walk/NN with/IN application/NN on/IN a/DT small/JJ size/NN biped/NN robot/NN ./.

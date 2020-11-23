@@ -1,0 +1,7 @@
+The/DT number/NN of/IN word/NN forms/NNS in/IN agglutinative/JJ languages/NNS is/VBZ theoretically/RB infinite/JJ and/CC this/DT variety/NN in/IN word/NN forms/NNS introduces/VBZ sparsity/NN in/IN many/JJ natural/JJ language/NN processing/NN tasks/NNS ./.
+Part/NN -/HYPH of/IN -/HYPH speech/NN tagging/NN (/-LRB- PoS/NN tagging/NN )/-RRB- is/VBZ one/CD of/IN these/DT tasks/NNS that/WDT often/RB suffers/VBZ from/IN sparsity/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT unsupervised/JJ Bayesian/JJ model/NN using/VBG Hidden/VBN Markov/NNP Models/NNPS (/-LRB- HMMs/NNS )/-RRB- for/IN joint/JJ PoS/NN tagging/NN and/CC stemming/VBG for/IN agglutinative/JJ languages/NNS ./.
+We/PRP use/VBP stemming/VBG to/TO reduce/VB sparsity/NN in/IN PoS/NN tagging/NN ./.
+Two/CD tasks/NNS are/VBP jointly/RB performed/VBN to/TO provide/VB a/DT mutual/JJ benefit/NN in/IN both/CC tasks/NNS ./.
+Our/PRP$ results/NNS show/VBP that/IN joint/JJ POS/NN tagging/VBG and/CC stemming/VBG improves/VBZ PoS/NN tagging/VBG scores/NNS ./.
+We/PRP present/VBP results/NNS for/IN Turkish/JJ and/CC Finnish/JJ as/IN agglutinative/JJ languages/NNS and/CC English/NNP as/IN a/DT morphologically/RB poor/JJ language/NN ./.

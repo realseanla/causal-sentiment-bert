@@ -1,0 +1,7 @@
+Metric/NNP learning/VBG aims/NNS to/TO embed/VB one/CD metric/JJ space/NN into/IN another/DT to/TO benefit/VB tasks/NNS like/IN classification/NN and/CC clustering/NN ./.
+Although/IN a/DT greatly/RB distorted/VBN metric/JJ space/NN has/VBZ a/DT high/JJ degree/NN of/IN freedom/NN to/TO fit/VB training/NN data/NNS ,/, it/PRP is/VBZ prone/JJ to/IN overfitting/VBG and/CC numerical/JJ inaccuracy/NN ./.
+This/DT paper/NN presents/VBZ {/-LRB- \/SYM it/PRP bounded/VBD -/HYPH distortion/NN metric/JJ learning/NN }/-RRB- (/-LRB- BDML/NN )/-RRB- ,/, a/DT new/JJ metric/JJ learning/NN framework/NN which/WDT amounts/VBZ to/IN finding/VBG an/DT optimal/JJ Mahalanobis/NNP metric/JJ space/NN with/IN a/DT bounded/VBN -/HYPH distortion/NN constraint/NN ./.
+An/DT efficient/JJ solver/NN based/VBN on/IN the/DT multiplicative/JJ weights/NNS update/NN method/NN is/VBZ proposed/VBN ./.
+Moreover/RB ,/, we/PRP generalize/VBP BDML/NNP to/TO pseudo-metric/JJ learning/NN and/CC devise/VB the/DT semidefinite/NN relaxation/NN and/CC a/DT randomized/JJ algorithm/NN to/IN approximately/RB solve/VB it/PRP ./.
+We/PRP further/RB provide/VBP theoretical/JJ analysis/NN to/TO show/VB that/IN distortion/NN is/VBZ a/DT key/JJ ingredient/NN for/IN stability/NN and/CC generalization/NN ability/NN of/IN our/PRP$ BDML/NN algorithm/NN ./.
+Extensive/JJ experiments/NNS on/IN several/JJ benchmark/NN datasets/NNS yield/VBP promising/JJ results/NNS ./.

@@ -1,0 +1,9 @@
+When/WRB writing/VBG a/DT constraint/NN program/NN ,/, we/PRP have/VBP to/TO choose/VB which/WDT variables/NNS should/MD be/VB the/DT decision/NN variables/NNS ,/, and/CC how/WRB to/TO represent/VB the/DT constraints/NNS on/IN these/DT variables/NNS ./.
+In/IN many/JJ cases/NNS ,/, there/EX is/VBZ considerable/JJ choice/NN for/IN the/DT decision/NN variables/NNS ./.
+Consider/VB ,/, for/IN example/NN ,/, permutation/NN problems/NNS in/IN which/WDT we/PRP have/VBP as/RB many/JJ values/NNS as/IN variables/NNS ,/, and/CC each/DT variable/JJ takes/VBZ an/DT unique/JJ value/NN ./.
+In/IN such/JJ problems/NNS ,/, we/PRP can/MD choose/VB between/IN a/DT primal/JJ and/CC a/DT dual/JJ viewpoint/NN ./.
+In/IN the/DT dual/JJ viewpoint/NN ,/, each/DT dual/JJ variable/NN represents/VBZ one/CD of/IN the/DT primal/JJ values/NNS ,/, whilst/IN each/DT dual/JJ value/NN represents/VBZ one/CD of/IN the/DT primal/JJ variables/NNS ./.
+Alternatively/RB ,/, by/IN means/NNS of/IN channelling/VBG constraints/NNS to/TO link/VB the/DT primal/JJ and/CC dual/JJ variables/NNS ,/, we/PRP can/MD have/VB a/DT combined/VBN model/NN with/IN both/CC sets/NNS of/IN variables/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP perform/VBP an/DT extensive/JJ theoretical/JJ and/CC empirical/JJ study/NN of/IN such/JJ primal/JJ ,/, dual/JJ and/CC combined/JJ models/NNS for/IN two/CD classes/NNS of/IN problems/NNS :/: permutation/NN problems/NNS and/CC injection/NN problems/NNS ./.
+Our/PRP$ results/NNS show/VBP that/IN it/PRP often/RB be/VB advantageous/JJ to/TO use/VB multiple/JJ viewpoints/NNS ,/, and/CC to/TO have/VB constraints/NNS which/WDT channel/VBP between/IN them/PRP to/TO maintain/VB consistency/NN ./.
+They/PRP also/RB illustrate/VBP a/DT general/JJ methodology/NN for/IN comparing/VBG different/JJ constraint/NN models/NNS ./.

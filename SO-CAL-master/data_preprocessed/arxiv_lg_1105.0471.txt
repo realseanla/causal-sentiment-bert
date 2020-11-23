@@ -1,0 +1,9 @@
+We/PRP consider/VBP a/DT suboptimal/JJ solution/NN path/NN algorithm/NN for/IN the/DT Support/NN Vector/NNP Machine/NNP ./.
+The/DT solution/NN path/NN algorithm/NN is/VBZ an/DT effective/JJ tool/NN for/IN solving/VBG a/DT sequence/NN of/IN a/DT parametrized/JJ optimization/NN problems/NNS in/IN machine/NN learning/NN ./.
+The/DT path/NN of/IN the/DT solutions/NNS provided/VBN by/IN this/DT algorithm/NN are/VBP very/RB accurate/JJ and/CC they/PRP satisfy/VBP the/DT optimality/NN conditions/NNS more/RBR strictly/RB than/IN other/JJ SVM/NNP optimization/NN algorithms/NNS ./.
+In/IN many/JJ machine/NN learning/VBG application/NN ,/, however/RB ,/, this/DT strict/JJ optimality/NN is/VBZ often/RB unnecessary/JJ ,/, and/CC it/PRP adversely/RB affects/VBZ the/DT computational/JJ efficiency/NN ./.
+Our/PRP$ algorithm/NN can/MD generate/VB the/DT path/NN of/IN suboptimal/JJ solutions/NNS within/IN an/DT arbitrary/JJ user/NN -/HYPH specified/VBN tolerance/NN level/NN ./.
+It/PRP allows/VBZ us/PRP to/TO control/VB the/DT trade/NN -/HYPH off/NN between/IN the/DT accuracy/NN of/IN the/DT solution/NN and/CC the/DT computational/JJ cost/NN ./.
+Moreover/RB ,/, We/PRP also/RB show/VBP that/IN our/PRP$ suboptimal/JJ solutions/NNS can/MD be/VB interpreted/VBN as/IN the/DT solution/NN of/IN a/DT \/SYM emph/NN {/-LRB- perturbed/VBD optimization/NN problem/NN }/-RRB- from/IN the/DT original/JJ one/NN ./.
+We/PRP provide/VBP some/DT theoretical/JJ analyses/NNS of/IN our/PRP$ algorithm/NN based/VBN on/IN this/DT novel/JJ interpretation/NN ./.
+The/DT experimental/JJ results/NNS also/RB demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ algorithm/NN ./.

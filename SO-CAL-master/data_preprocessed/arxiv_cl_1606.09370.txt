@@ -1,0 +1,9 @@
+In/IN recent/JJ years/NNS extracting/VBG relevant/JJ information/NN from/IN biomedical/JJ and/CC clinical/JJ texts/NNS such/JJ as/IN research/NN articles/NNS ,/, discharge/NN summaries/NNS ,/, or/CC electronic/JJ health/NN records/NNS have/VBP been/VBN a/DT subject/NN of/IN many/JJ research/NN efforts/NNS and/CC shared/VBD challenges/NNS ./.
+Relation/NN extraction/NN is/VBZ the/DT process/NN of/IN detecting/VBG and/CC classifying/VBG the/DT semantic/JJ relation/NN among/IN entities/NNS in/IN a/DT given/VBN piece/NN of/IN texts/NNS ./.
+Existing/VBG models/NNS for/IN this/DT task/NN in/IN biomedical/JJ domain/NN use/NN either/CC manually/RB engineered/VBN features/NNS or/CC kernel/NN methods/NNS to/TO create/VB feature/NN vector/NN ./.
+These/DT features/NNS are/VBP then/RB fed/VBN to/IN classifier/NN for/IN the/DT prediction/NN of/IN the/DT correct/JJ class/NN ./.
+It/PRP turns/VBZ out/RP that/IN the/DT results/NNS of/IN these/DT methods/NNS are/VBP highly/RB dependent/JJ on/IN quality/NN of/IN user/NN designed/VBN features/NNS and/CC also/RB suffer/VB from/IN curse/NN of/IN dimensionality/NN ./.
+In/IN this/DT work/NN we/PRP focus/VBP on/IN extracting/VBG relations/NNS from/IN clinical/JJ discharge/NN summaries/NNS ./.
+Our/PRP$ main/JJ objective/NN is/VBZ to/TO exploit/VB the/DT power/NN of/IN convolution/NN neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- to/TO learn/VB features/NNS automatically/RB and/CC thus/RB reduce/VB the/DT dependency/NN on/IN manual/JJ feature/NN engineering/NN ./.
+We/PRP evaluate/VBP performance/NN of/IN the/DT proposed/VBN model/NN on/IN i2b2/NN -/HYPH 2010/CD clinical/JJ relation/NN extraction/NN challenge/NN dataset/NN ./.
+Our/PRP$ results/NNS indicate/VBP that/IN convolution/NN neural/JJ network/NN can/MD be/VB a/DT good/JJ model/NN for/IN relation/NN exaction/NN in/IN clinical/JJ text/NN without/IN being/VBG dependent/JJ on/IN expert/NN 's/POS knowledge/NN on/IN defining/VBG quality/NN features/NNS ./.

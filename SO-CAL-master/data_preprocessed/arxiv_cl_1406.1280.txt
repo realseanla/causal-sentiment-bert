@@ -1,0 +1,11 @@
+Development/NN of/IN a/DT proper/JJ names/NNS pronunciation/NN lexicon/NN is/VBZ usually/RB a/DT manual/JJ effort/NN which/WDT can/MD not/RB be/VB avoided/VBN ./.
+Grapheme/NNP to/IN phoneme/NN (/-LRB- G2P/NN )/-RRB- conversion/NN modules/NNS ,/, in/IN literature/NN ,/, are/VBP usually/RB rule/VB based/VBN and/CC work/VB best/JJS for/IN non-proper/JJ names/NNS in/IN a/DT particular/JJ language/NN ./.
+Proper/JJ names/NNS are/VBP foreign/JJ to/IN a/DT G2P/NN module/NN ./.
+We/PRP follow/VBP an/DT optimization/NN approach/NN to/TO enable/VB automatic/JJ construction/NN of/IN proper/JJ names/NNS pronunciation/NN lexicon/NN ./.
+The/DT idea/NN is/VBZ to/TO construct/VB a/DT small/JJ orthogonal/JJ set/NN of/IN words/NNS (/-LRB- basis/NN )/-RRB- which/WDT can/MD span/VB the/DT set/NN of/IN names/NNS in/IN a/DT given/VBN database/NN ./.
+We/PRP propose/VBP two/CD algorithms/NNS for/IN the/DT construction/NN of/IN this/DT basis/NN ./.
+The/DT transcription/NN lexicon/NN of/IN all/PDT the/DT proper/JJ names/NNS in/IN a/DT database/NN can/MD be/VB produced/VBN by/IN the/DT manual/JJ transcription/NN of/IN only/RB the/DT small/JJ set/NN of/IN basis/NN words/NNS ./.
+We/PRP first/RB construct/VB a/DT cost/NN function/NN and/CC show/VBP that/IN the/DT minimization/NN of/IN the/DT cost/NN function/NN results/VBZ in/IN a/DT basis/NN ./.
+We/PRP derive/VBP conditions/NNS for/IN convergence/NN of/IN this/DT cost/NN function/NN and/CC validate/VB them/PRP experimentally/RB on/IN a/DT very/RB large/JJ proper/JJ name/NN database/NN ./.
+Experiments/NNS show/VBP the/DT transcription/NN can/MD be/VB achieved/VBN by/IN transcribing/VBG a/DT set/NN of/IN small/JJ number/NN of/IN basis/NN words/NNS ./.
+The/DT algorithms/NNS proposed/VBN are/VBP generic/JJ and/CC independent/JJ of/IN language/NN ;/: however/RB performance/NN is/VBZ better/JJR if/IN the/DT proper/JJ names/NNS have/VBP same/JJ origin/NN ,/, namely/RB ,/, same/JJ language/NN or/CC geographical/JJ region/NN ./.

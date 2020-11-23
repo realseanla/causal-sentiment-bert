@@ -1,0 +1,9 @@
+As/IN most/JJS database/NN users/NNS can/MD not/RB precisely/RB express/VB their/PRP$ information/NN needs/VBZ ,/, it/PRP is/VBZ challenging/VBG for/IN database/NN querying/NN and/CC exploration/NN interfaces/VBZ to/TO understand/VB them/PRP ./.
+We/PRP propose/VBP a/DT novel/JJ formal/JJ framework/NN for/IN representing/VBG and/CC understanding/VBG information/NN needs/NNS in/IN database/NN querying/NN and/CC exploration/NN ./.
+Our/PRP$ framework/NN considers/VBZ querying/VBG as/IN a/DT collaboration/NN between/IN the/DT user/NN and/CC the/DT database/NN system/NN to/TO establish/VB a/DT mutual/JJ language/NN for/IN representing/VBG information/NN needs/NNS ./.
+We/PRP formalize/VBP this/DT collaboration/NN as/IN a/DT signaling/NN game/NN ,/, where/WRB each/DT mutual/JJ language/NN is/VBZ an/DT equilibrium/NN for/IN the/DT game/NN ./.
+A/DT query/NN interface/NN is/VBZ more/RBR effective/JJ if/IN it/PRP establishes/VBZ a/DT less/RBR ambiguous/JJ mutual/JJ language/NN faster/RBR ./.
+We/PRP discuss/VBP some/DT equilibria/NNS ,/, strategies/NNS ,/, and/CC the/DT convergence/NN in/IN this/DT game/NN ./.
+In/IN particular/JJ ,/, we/PRP propose/VBP a/DT reinforcement/NN learning/VBG mechanism/NN and/CC analyze/VB it/PRP within/IN our/PRP$ framework/NN ./.
+We/PRP prove/VBP that/IN this/DT adaptation/NN mechanism/NN for/IN the/DT query/NN interface/NN improves/VBZ the/DT effectiveness/NN of/IN answering/VBG queries/NNS stochastically/RB speaking/VBG ,/, and/CC converges/VBZ almost/RB surely/RB ./.
+Most/RBS importantly/RB ,/, we/PRP show/VBP that/IN the/DT proposed/VBN learning/NN rule/NN is/VBZ robust/JJ to/IN the/DT choice/NN of/IN the/DT metric/JJ //HYPH reward/NN by/IN the/DT database/NN ./.

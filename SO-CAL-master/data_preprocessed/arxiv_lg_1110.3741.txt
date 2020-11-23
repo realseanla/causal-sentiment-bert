@@ -1,0 +1,4 @@
+We/PRP consider/VBP the/DT problem/NN of/IN identifying/VBG patterns/NNS in/IN a/DT data/NN set/NN that/WDT exhibit/VBP anomalous/JJ behavior/NN ,/, often/RB referred/VBN to/IN as/IN anomaly/NN detection/NN ./.
+In/IN most/JJS anomaly/NN detection/NN algorithms/NNS ,/, the/DT dissimilarity/NN between/IN data/NNS samples/NNS is/VBZ calculated/VBN by/IN a/DT single/JJ criterion/NN ./.
+When/WRB dissimilarities/NNS are/VBP calculated/VBN by/IN multiple/JJ criteria/NNS ,/, one/PRP might/MD perform/VB anomaly/RB detection/NN using/VBG a/DT linear/JJ combination/NN of/IN the/DT multiple/JJ dissimilarities/NNS ./.
+If/IN the/DT importance/NN of/IN the/DT different/JJ criteria/NNS are/VBP not/RB known/VBN in/IN advance/NN ,/, the/DT algorithm/NN may/MD need/VB to/TO be/VB executed/VBN multiple/JJ times/NNS with/IN different/JJ choices/NNS of/IN weights/NNS in/IN the/DT linear/JJ combination/NN ,/, perhaps/RB selected/VBN by/IN grid/NN search/NN ./.

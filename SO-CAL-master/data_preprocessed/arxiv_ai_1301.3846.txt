@@ -1,0 +1,5 @@
+Algorithms/NNS for/IN exact/JJ and/CC approximate/JJ inference/NN in/IN stochastic/JJ logic/NN programs/NNS (/-LRB- SLPs/NNS )/-RRB- are/VBP presented/VBN ,/, based/VBN respectively/RB ,/, on/IN variable/JJ elimination/NN and/CC importance/NN sampling/NN ./.
+We/PRP then/RB show/VBP how/WRB SLPs/NNS can/MD be/VB used/VBN to/TO represent/VB prior/JJ distributions/NNS for/IN machine/NN learning/NN ,/, using/VBG (/-LRB- i/LS )/-RRB- logic/NN programs/NNS and/CC (/-LRB- ii/LS )/-RRB- Bayes/NNP net/JJ structures/NNS as/IN examples/NNS ./.
+Drawing/VBG on/IN existing/VBG work/NN in/IN statistics/NNS ,/, we/PRP apply/VBP the/DT Metropolis/NNP -/HYPH Hasting/NNP algorithm/NN to/TO construct/VB a/DT Markov/NNP chain/NN which/WDT samples/NNS from/IN the/DT posterior/JJ distribution/NN ./.
+A/DT Prolog/NNP implementation/NN for/IN this/DT is/VBZ described/VBN ./.
+We/PRP also/RB discuss/VBP the/DT possibility/NN of/IN constructing/VBG explicit/JJ representations/NNS of/IN the/DT posterior/JJ ./.

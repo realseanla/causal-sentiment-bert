@@ -1,0 +1,5 @@
+We propose an online spatiotemporal articulation model estimation framework that estimates both articulated structure as well as a temporal prediction model solely using passive observations.
+The resulting model can predict future mo- tions of an articulated object with high confidence because of the spatial and temporal structure.
+We demonstrate the effectiveness of the predictive model by incorporating it within a standard simultaneous localization and mapping (SLAM) pipeline for mapping and robot localization in previously unexplored dynamic environments.
+Our method is able to localize the robot and map a dynamic scene by explaining the observed motion in the world.
+We demonstrate the effectiveness of the proposed framework for both simulated and real-world dynamic environments.

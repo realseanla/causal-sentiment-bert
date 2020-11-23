@@ -1,0 +1,10 @@
+Tensors/NNS offer/VBP a/DT natural/JJ representation/NN for/IN many/JJ kinds/NNS of/IN data/NNS frequently/RB encountered/VBN in/IN machine/NN learning/NN ./.
+Images/NNS ,/, for/IN example/NN ,/, are/VBP naturally/RB represented/VBN as/IN third/JJ order/NN tensors/NNS ,/, where/WRB the/DT modes/NNS correspond/VBP to/IN height/NN ,/, width/NN ,/, and/CC channels/NNS ./.
+Tensor/NNP methods/NNS are/VBP noted/VBN for/IN their/PRP$ ability/NN to/TO discover/VB multi-dimensional/JJ dependencies/NNS ,/, and/CC tensor/NN decompositions/NNS in/IN particular/JJ ,/, have/VBP been/VBN used/VBN to/TO produce/VB compact/JJ low/JJ -/HYPH rank/NN approximations/NNS of/IN data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP explore/VBP the/DT use/NN of/IN tensor/NN contractions/NNS as/IN neural/JJ network/NN layers/NNS and/CC investigate/VB several/JJ ways/NNS to/TO apply/VB them/PRP to/IN activation/NN tensors/NNS ./.
+Specifically/RB ,/, we/PRP propose/VBP the/DT Tensor/NNP Contraction/NNP Layer/NNP (/-LRB- TCL/NNP )/-RRB- ,/, the/DT first/JJ attempt/NN to/TO incorporate/VB tensor/NN contractions/NNS as/IN end/NN -/HYPH to/IN -/HYPH end/NN trainable/JJ neural/JJ network/NN layers/NNS ./.
+Applied/NNP to/IN existing/VBG networks/NNS ,/, TCLs/NNS reduce/VBP the/DT dimensionality/NN of/IN the/DT activation/NN tensors/NNS and/CC thus/RB the/DT number/NN of/IN model/NN parameters/NNS ./.
+We/PRP evaluate/VBP the/DT TCL/NNP on/IN the/DT task/NN of/IN image/NN recognition/NN ,/, augmenting/VBG two/CD popular/JJ networks/NNS (/-LRB- AlexNet/NNP ,/, VGG/NNP )/-RRB- ./.
+The/DT resulting/VBG models/NNS are/VBP trainable/JJ end/NN -/HYPH to/IN -/HYPH end/NN ./.
+Applying/VBG the/DT TCL/NNP to/IN the/DT task/NN of/IN image/NN recognition/NN ,/, using/VBG the/DT CIFAR100/NN and/CC ImageNet/NNP datasets/NNS ,/, we/PRP evaluate/VBP the/DT effect/NN of/IN parameter/NN reduction/NN via/IN tensor/NN contraction/NN on/IN performance/NN ./.
+We/PRP demonstrate/VBP significant/JJ model/NN compression/NN without/IN significant/JJ impact/NN on/IN the/DT accuracy/NN and/CC ,/, in/IN some/DT cases/NNS ,/, improved/VBN performance/NN ./.

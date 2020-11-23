@@ -1,0 +1,7 @@
+Learning/VBG vector/NN representation/NN for/IN words/NNS is/VBZ an/DT important/JJ research/NN field/NN which/WDT may/MD benefit/VB many/JJ natural/JJ language/NN processing/NN tasks/NNS ./.
+Two/CD limitations/NNS exist/VBP in/IN nearly/RB all/DT available/JJ models/NNS ,/, which/WDT are/VBP the/DT bias/NN caused/VBN by/IN the/DT context/NN definition/NN and/CC the/DT lack/NN of/IN knowledge/NN utilization/NN ./.
+They/PRP are/VBP difficult/JJ to/TO tackle/VB because/IN these/DT algorithms/NNS are/VBP essentially/RB unsupervised/JJ learning/NN approaches/NNS ./.
+Inspired/VBN by/IN deep/JJ learning/NN ,/, the/DT authors/NNS propose/VBP a/DT supervised/JJ framework/NN for/IN learning/NN vector/NN representation/NN of/IN words/NNS to/TO provide/VB additional/JJ supervised/JJ fine/JJ tuning/NN after/IN unsupervised/JJ learning/NN ./.
+The/DT framework/NN is/VBZ knowledge/NN rich/JJ approacher/NN and/CC compatible/JJ with/IN any/DT numerical/JJ vectors/NNS word/NN representation/NN ./.
+The/DT authors/NNS perform/VBP both/DT intrinsic/JJ evaluation/NN like/IN attributional/JJ and/CC relational/JJ similarity/NN prediction/NN and/CC extrinsic/JJ evaluations/NNS like/IN the/DT sentence/NN completion/NN and/CC sentiment/NN analysis/NN ./.
+Experiments/NNS results/NNS on/IN 6/CD embeddings/NNS and/CC 4/CD tasks/NNS with/IN 10/CD datasets/NNS show/VBP that/IN the/DT proposed/VBN fine/JJ tuning/NN framework/NN may/MD significantly/RB improve/VB the/DT quality/NN of/IN the/DT vector/NN representation/NN of/IN words/NNS ./.

@@ -1,0 +1,5 @@
+In this paper, a new method for PPI (proteinprotein interaction) prediction is proposed.
+In PPI prediction, a reliable and sufficient number of training samples is not available, but a large number of unlabeled samples is in hand.
+In the proposed method, the denoising auto encoders are employed for learning robust features.
+The obtained robust features are used in order to train a classifier with a better performance.
+The experimental results demonstrate the capabilities of the proposed method.

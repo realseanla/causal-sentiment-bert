@@ -1,0 +1,7 @@
+This/DT paper/NN proposes/VBZ a/DT method/NN to/TO find/VB the/DT actual/JJ state/NN of/IN a/DT complex/JJ dynamic/JJ system/NN from/IN information/NN coming/VBG from/IN the/DT sensors/NNS on/IN the/DT system/NN himself/PRP ,/, or/CC on/IN its/PRP$ environment/NN ./.
+The/DT nominal/JJ evolution/NN of/IN the/DT system/NN is/VBZ a/FW priori/FW known/VBN and/CC can/MD be/VB modeled/VBN (/-LRB- by/IN an/DT expert/NN ,/, for/IN example/NN )/-RRB- ,/, by/IN different/JJ methods/NNS ./.
+In/IN this/DT paper/NN ,/, the/DT Petri/NNP nets/NNS have/VBP been/VBN chosen/VBN ./.
+Contrary/JJ to/IN the/DT usual/JJ use/NN of/IN the/DT Petri/NNP nets/NNS ,/, the/DT initial/JJ state/NN of/IN the/DT system/NN is/VBZ unknown/JJ ./.
+So/RB a/DT degree/NN of/IN belief/NN is/VBZ bound/VBN to/IN each/DT places/NNS ,/, or/CC set/NN of/IN places/NNS ./.
+The/DT theory/NN used/VBN to/TO model/VB this/DT uncertainty/NN is/VBZ the/DT Dempster/NNP -/HYPH Shafer/NNP 's/POS one/CD which/WDT is/VBZ well/RB adapted/VBN to/IN this/DT type/NN of/IN problems/NNS ./.
+From/IN the/DT given/VBN Petri/NNP net/JJ characterizing/VBG the/DT nominal/JJ evolution/NN of/IN the/DT dynamic/JJ system/NN ,/, and/CC from/IN the/DT observation/NN inputs/NNS ,/, the/DT proposed/JJ method/NN allows/VBZ to/TO determine/VB according/VBG to/IN the/DT reliability/NN of/IN the/DT model/NN and/CC the/DT inputs/NNS ,/, the/DT state/NN of/IN the/DT system/NN at/IN any/DT time/NN ./.

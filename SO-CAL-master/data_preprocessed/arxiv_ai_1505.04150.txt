@@ -1,0 +1,11 @@
+This/DT paper/NN extends/VBZ the/DT reinforcement/NN learning/VBG ideas/NNS into/IN the/DT multi-agents/NNS system/NN ,/, which/WDT is/VBZ far/RB more/RBR complicated/JJ than/IN the/DT previously/RB studied/VBN single/JJ -/HYPH agent/NN system/NN ./.
+We/PRP studied/VBD two/CD different/JJ multi-agents/NNS systems/NNS ./.
+One/CD is/VBZ the/DT fully/RB -/HYPH connected/VBN neural/JJ network/NN consists/VBZ of/IN multiple/JJ single/JJ neurons/NNS ./.
+Another/DT one/NN is/VBZ the/DT simplified/VBN mechanical/JJ arm/NN system/NN which/WDT is/VBZ controlled/VBN by/IN multiple/JJ neurons/NNS ./.
+We/PRP suppose/VBP that/IN each/DT neuron/NN is/VBZ like/IN an/DT agent/NN and/CC it/PRP can/MD do/VB Gibbs/NNP sampling/NN of/IN the/DT posterior/JJ probability/NN of/IN stimulus/NN features/NNS ./.
+The/DT policy/NN is/VBZ optimized/VBN in/IN a/DT way/NN that/IN the/DT cumulative/JJ global/JJ rewards/NNS are/VBP maximized/VBN ./.
+The/DT algorithm/NN for/IN the/DT second/JJ system/NN is/VBZ based/VBN on/IN the/DT same/JJ idea/NN but/CC we/PRP incorporate/VBP the/DT physics/NN model/NN into/IN the/DT constraints/NNS ./.
+The/DT simulation/NN results/NNS show/VBP that/IN for/IN the/DT first/JJ system/NN our/PRP$ algorithm/NN converges/VBZ well/RB ./.
+For/IN the/DT second/JJ system/NN it/PRP does/VBZ not/RB converge/VB well/RB in/IN a/DT reasonable/JJ simulation/NN time/NN length/NN ./.
+In/IN summary/NN ,/, we/PRP took/VBD the/DT initial/JJ endeavor/NN to/TO study/VB the/DT reinforcement/NN learning/VBG for/IN multi-agents/NNS system/NN ./.
+The/DT computational/JJ complexity/NN is/VBZ always/RB an/DT issue/NN and/CC significant/JJ amount/NN of/IN works/NNS have/VBP to/TO be/VB done/VBN in/IN order/NN to/TO better/RBR understand/VB the/DT problem/NN ./.

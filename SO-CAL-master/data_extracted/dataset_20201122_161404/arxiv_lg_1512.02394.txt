@@ -1,0 +1,5 @@
+In many problems in machine learning and operations research, we need to optimize a function whose input is a random variable or a probability density function, i.e.
+to solve optimization problems in an infinite dimensional space.
+On the other hand, online learning has the advantage of dealing with streaming examples, and better model a changing environ- ment.
+In this paper, we extend the celebrated online gradient descent algorithm to Hilbert spaces (function spaces), and analyze the convergence guarantee of the algorithm.
+Finally, we demonstrate that our algorithms can be useful in several important problems.

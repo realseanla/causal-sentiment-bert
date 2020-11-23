@@ -1,0 +1,9 @@
+Feature/NN subspace/NN selection/NN is/VBZ an/DT important/JJ part/NN in/IN speech/NN emotion/NN recognition/NN ./.
+Most/JJS of/IN the/DT studies/NNS are/VBP devoted/VBN to/IN finding/VBG a/DT feature/NN subspace/NN for/IN representing/VBG all/DT emotions/NNS ./.
+However/RB ,/, some/DT studies/NNS have/VBP indicated/VBN that/IN the/DT features/NNS associated/VBN with/IN different/JJ emotions/NNS are/VBP not/RB exactly/RB the/DT same/JJ ./.
+Hence/RB ,/, traditional/JJ methods/NNS may/MD fail/VB to/TO distinguish/VB some/DT of/IN the/DT emotions/NNS with/IN just/RB one/CD global/JJ feature/NN subspace/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT new/JJ divide/NN and/CC conquer/VB idea/NN to/TO solve/VB the/DT problem/NN ./.
+First/RB ,/, the/DT feature/NN subspaces/NNS are/VBP constructed/VBN for/IN all/PDT the/DT combinations/NNS of/IN every/DT two/CD different/JJ emotions/NNS (/-LRB- emotion/NN -/HYPH pair/NN )/-RRB- ./.
+Bi-classifiers/NNS are/VBP then/RB trained/VBN on/IN these/DT feature/NN subspaces/NNS respectively/RB ./.
+The/DT final/JJ emotion/NN recognition/NN result/NN is/VBZ derived/VBN by/IN the/DT voting/NN and/CC competition/NN method/NN ./.
+Experimental/JJ results/NNS demonstrate/VBP that/IN the/DT proposed/JJ method/NN can/MD get/VB better/JJR results/NNS than/IN the/DT traditional/JJ multi-classification/NN method/NN ./.

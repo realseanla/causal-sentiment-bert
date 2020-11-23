@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT unsupervised/JJ learning/NN problem/NN of/IN assigning/VBG labels/NNS to/IN unlabeled/JJ data/NNS ./.
+A/DT naive/JJ approach/NN is/VBZ to/TO use/VB clustering/NN methods/NNS ,/, but/CC this/DT works/VBZ well/RB only/RB when/WRB data/NNS is/VBZ properly/RB clustered/VBN and/CC each/DT cluster/NN corresponds/VBZ to/IN an/DT underlying/JJ class/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP first/RB show/VBP that/IN this/DT unsupervised/JJ labeling/NN problem/NN in/IN balanced/JJ binary/JJ cases/NNS can/MD be/VB solved/VBN if/IN two/CD unlabeled/JJ datasets/NNS having/VBG different/JJ class/NN balances/NNS are/VBP available/JJ ./.
+More/RBR specifically/RB ,/, estimation/NN of/IN the/DT sign/NN of/IN the/DT difference/NN between/IN probability/NN densities/NNS of/IN two/CD unlabeled/JJ datasets/NNS gives/VBZ the/DT solution/NN ./.
+We/PRP then/RB introduce/VB a/DT new/JJ method/NN to/TO directly/RB estimate/VB the/DT sign/NN of/IN the/DT density/NN difference/NN without/IN density/NN estimation/NN ./.
+Finally/RB ,/, we/PRP demonstrate/VBP the/DT usefulness/NN of/IN the/DT proposed/JJ method/NN against/IN several/JJ clustering/NN methods/NNS on/IN various/JJ toy/NN problems/NNS and/CC real/JJ -/HYPH world/NN datasets/NNS ./.

@@ -1,0 +1,6 @@
+In/IN deterministic/JJ optimization/NN ,/, line/NN searches/NNS are/VBP a/DT standard/JJ tool/NN ensuring/VBG stability/NN and/CC efficiency/NN ./.
+Where/WRB only/RB stochastic/JJ gradients/NNS are/VBP available/JJ ,/, no/DT direct/JJ equivalent/NN has/VBZ so/RB far/RB been/VBN formulated/VBN ,/, because/IN uncertain/JJ gradients/NNS do/VBP not/RB allow/VB for/IN a/DT strict/JJ sequence/NN of/IN decisions/NNS collapsing/VBG the/DT search/NN space/NN ./.
+We/PRP construct/VBP a/DT probabilistic/JJ line/NN search/NN by/IN combining/VBG the/DT structure/NN of/IN existing/VBG deterministic/JJ methods/NNS with/IN notions/NNS from/IN Bayesian/JJ optimization/NN ./.
+Our/PRP$ method/NN retains/VBZ a/DT Gaussian/JJ process/NN surrogate/NN of/IN the/DT univariate/JJ optimization/NN objective/NN ,/, and/CC uses/VBZ a/DT probabilistic/JJ belief/NN over/IN the/DT Wolfe/NNP conditions/NNS to/TO monitor/VB the/DT descent/NN ./.
+The/DT algorithm/NN has/VBZ very/RB low/JJ computational/JJ cost/NN ,/, and/CC no/DT user/NN -/HYPH controlled/VBN parameters/NNS ./.
+Experiments/NNS show/VBP that/IN it/PRP effectively/RB removes/VBZ the/DT need/NN to/TO define/VB a/DT learning/NN rate/NN for/IN stochastic/JJ gradient/NN descent/NN ./.

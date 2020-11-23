@@ -1,0 +1,7 @@
+Many/JJ studies/NNS on/IN the/DT cost/NN -/HYPH sensitive/JJ learning/NN assumed/VBD that/IN a/DT unique/JJ cost/NN matrix/NN is/VBZ known/VBN for/IN a/DT problem/NN ./.
+However/RB ,/, this/DT assumption/NN may/MD not/RB hold/VB for/IN many/JJ real/JJ -/HYPH world/NN problems/NNS ./.
+For/IN example/NN ,/, a/DT classifier/NN might/MD need/VB to/TO be/VB applied/VBN in/IN several/JJ circumstances/NNS ,/, each/DT of/IN which/WDT associates/VBZ with/IN a/DT different/JJ cost/NN matrix/NN ./.
+Or/CC ,/, different/JJ human/JJ experts/NNS have/VBP different/JJ opinions/NNS about/IN the/DT costs/NNS for/IN a/DT given/VBN problem/NN ./.
+Motivated/VBN by/IN these/DT facts/NNS ,/, this/DT study/NN aims/VBZ to/TO seek/VB the/DT minimax/NN classifier/NN over/IN multiple/JJ cost/NN matrices/NNS ./.
+In/IN summary/NN ,/, we/PRP theoretically/RB proved/VBD that/IN ,/, no/RB matter/RB how/WRB many/JJ cost/NN matrices/NNS are/VBP involved/VBN ,/, the/DT minimax/NN problem/NN can/MD be/VB tackled/VBN by/IN solving/VBG a/DT number/NN of/IN standard/JJ cost/NN -/HYPH sensitive/JJ problems/NNS and/CC sub-problems/NNS that/WDT involve/VBP only/RB two/CD cost/NN matrices/NNS ./.
+As/IN a/DT result/NN ,/, a/DT general/JJ framework/NN for/IN achieving/VBG minimax/NN classifier/NN over/IN multiple/JJ cost/NN matrices/NNS is/VBZ suggested/VBN and/CC justified/VBN by/IN preliminary/JJ empirical/JJ studies/NNS ./.

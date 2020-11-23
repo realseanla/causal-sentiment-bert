@@ -1,0 +1,5 @@
+We/PRP propose/VBP an/DT active/JJ question/NN answering/VBG agent/NN that/WDT learns/VBZ to/IN reformulate/VB questions/NNS and/CC combine/VB evidence/NN to/TO improve/VB question/NN answering/NN ./.
+The/DT agent/NN sits/VBZ between/IN the/DT user/NN and/CC a/DT black/JJ box/NN question/NN -/HYPH answering/VBG system/NN and/CC learns/VBZ to/TO optimally/RB probe/VB the/DT system/NN with/IN natural/JJ language/NN reformulations/NNS of/IN the/DT initial/JJ question/NN and/CC to/IN aggregate/NN the/DT evidence/NN to/TO return/VB the/DT best/JJS possible/JJ answer/NN ./.
+The/DT system/NN is/VBZ trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN to/TO maximize/VB answer/NN quality/NN using/VBG policy/NN gradient/NN ./.
+We/PRP evaluate/VBP on/IN SearchQA/NNP ,/, a/DT dataset/NN of/IN complex/JJ questions/NNS extracted/VBN from/IN Jeopardy!/NNP ./.
+Our/PRP$ agent/NN improves/VBZ F1/NN by/IN 11/CD percent/NN over/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN base/NN model/NN that/WDT uses/VBZ the/DT original/JJ question/NN //HYPH answer/NN pairs/NNS ./.

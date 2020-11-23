@@ -1,0 +1,6 @@
+We/PRP investigate/VBP the/DT computational/JJ complexity/NN of/IN testing/NN dominance/NN and/CC consistency/NN in/IN CP/NN -/HYPH nets/NNS ./.
+Previously/RB ,/, the/DT complexity/NN of/IN dominance/NN has/VBZ been/VBN determined/VBN for/IN restricted/JJ classes/NNS in/IN which/WDT the/DT dependency/NN graph/NN of/IN the/DT CP/NN -/HYPH net/NN is/VBZ acyclic/JJ ./.
+However/RB ,/, there/EX are/VBP preferences/NNS of/IN interest/NN that/WDT define/VBP cyclic/JJ dependency/NN graphs/NNS ;/: these/DT are/VBP modeled/VBN with/IN general/JJ CP/NN -/HYPH nets/NNS ./.
+In/IN our/PRP$ main/JJ results/NNS ,/, we/PRP show/VBP here/RB that/IN both/DT dominance/NN and/CC consistency/NN for/IN general/JJ CP/NN -/HYPH nets/NNS are/VBP PSPACE/NNP -/HYPH complete/JJ ./.
+We/PRP then/RB consider/VBP the/DT concept/NN of/IN strong/JJ dominance/NN ,/, dominance/NN equivalence/NN and/CC dominance/NN incomparability/NN ,/, and/CC several/JJ notions/NNS of/IN optimality/NN ,/, and/CC identify/VB the/DT complexity/NN of/IN the/DT corresponding/VBG decision/NN problems/NNS ./.
+The/DT reductions/NNS used/VBN in/IN the/DT proofs/NNS are/VBP from/IN STRIPS/NNP planning/NN ,/, and/CC thus/RB reinforce/VB the/DT earlier/RBR established/VBN connections/NNS between/IN both/DT areas/NNS ./.

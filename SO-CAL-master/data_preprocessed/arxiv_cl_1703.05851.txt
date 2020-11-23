@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO use/VB a/DT set/NN of/IN simple/JJ ,/, uniform/JJ in/IN architecture/NN LSTM/NN -/HYPH based/VBN models/NNS to/TO recover/VB different/JJ kinds/NNS of/IN temporal/JJ relations/NNS from/IN text/NN ./.
+Using/VBG the/DT shortest/JJS dependency/NN path/NN between/IN entities/NNS as/IN input/NN ,/, the/DT same/JJ architecture/NN is/VBZ used/VBN to/TO extract/VB intra-sentence/NN ,/, cross-sentence/NN ,/, and/CC document/NN creation/NN time/NN relations/NNS ./.
+A/DT "/`` double/JJ -/HYPH checking/NN "/'' technique/NN reverses/VBZ entity/NN pairs/NNS in/IN classification/NN ,/, boosting/VBG the/DT recall/NN of/IN positive/JJ cases/NNS and/CC reducing/VBG misclassifications/NNS between/IN opposite/JJ classes/NNS ./.
+An/DT efficient/JJ pruning/NN algorithm/NN resolves/VBZ conflicts/NNS globally/RB ./.
+Evaluated/VBN on/IN QA/NNP -/HYPH TempEval/NNP (/-LRB- SemEval2015/NNP Task/NNP 5/CD )/-RRB- ,/, our/PRP$ proposed/VBN technique/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS by/IN a/DT large/JJ margin/NN ./.

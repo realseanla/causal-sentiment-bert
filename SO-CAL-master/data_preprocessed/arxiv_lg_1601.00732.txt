@@ -1,0 +1,5 @@
+In/IN machine/NN learning/VBG it/PRP is/VBZ common/JJ to/TO interpret/VB each/DT data/NN point/NN as/IN a/DT vector/NN in/IN Euclidean/NNP space/NN ./.
+However/RB the/DT data/NNS may/MD actually/RB be/VB functional/JJ i.e./FW \/SYM each/DT data/NN point/NN is/VBZ a/DT function/NN of/IN some/DT variable/JJ such/JJ as/IN time/NN and/CC the/DT function/NN is/VBZ discretely/RB sampled/VBN ./.
+The/DT naive/JJ treatment/NN of/IN functional/JJ data/NNS as/IN traditional/JJ multivariate/JJ data/NNS can/MD lead/VB to/IN poor/JJ performance/NN since/IN the/DT algorithms/NNS are/VBP ignoring/VBG the/DT correlation/NN in/IN the/DT curvature/NN of/IN each/DT function/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT method/NN to/TO analyse/VB subspace/NN structure/NN of/IN the/DT functional/JJ data/NNS by/IN using/VBG the/DT state/NN of/IN the/DT art/NN Low/JJ -/HYPH Rank/NN Representation/NN (/-LRB- LRR/NN )/-RRB- ./.
+Experimental/JJ evaluation/NN on/IN synthetic/JJ and/CC real/JJ data/NNS reveals/VBZ that/IN this/DT method/NN massively/RB outperforms/VBZ conventional/JJ LRR/NN in/IN tasks/NNS concerning/VBG functional/JJ data/NNS ./.

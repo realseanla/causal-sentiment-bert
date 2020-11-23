@@ -1,0 +1,5 @@
+This/DT paper/NN introduces/VBZ a/DT machine/NN learning/NN based/VBN system/NN for/IN controlling/VBG a/DT robotic/JJ manipulator/NN with/IN visual/JJ perception/NN only/RB ./.
+The/DT capability/NN to/TO autonomously/RB learn/VB robot/NN controllers/NNS solely/RB from/IN raw/JJ -/HYPH pixel/NN images/NNS and/CC without/IN any/DT prior/JJ knowledge/NN of/IN configuration/NN is/VBZ shown/VBN for/IN the/DT first/JJ time/NN ./.
+We/PRP build/VBP upon/IN the/DT success/NN of/IN recent/JJ deep/JJ reinforcement/NN learning/NN and/CC develop/VB a/DT system/NN for/IN learning/VBG target/NN reaching/VBG with/IN a/DT three/CD -/HYPH joint/NN robot/NN manipulator/NN using/VBG external/JJ visual/JJ observation/NN ./.
+A/DT Deep/JJ Q/NNP Network/NNP (/-LRB- DQN/NNP )/-RRB- was/VBD demonstrated/VBN to/TO perform/VB target/NN reaching/VBG after/IN training/NN in/IN simulation/NN ./.
+Transferring/VBG the/DT network/NN to/IN real/JJ hardware/NN and/CC real/JJ observation/NN in/IN a/DT naive/JJ approach/NN failed/VBD ,/, but/CC experiments/NNS show/VBP that/IN the/DT network/NN works/VBZ when/WRB replacing/VBG camera/NN images/NNS with/IN synthetic/JJ images/NNS ./.

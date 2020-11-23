@@ -1,0 +1,5 @@
+For most reinforcement learning approaches, the learning is performed by maximizing an accumulative reward that is expectedly and manually defined for specific tasks.
+However, in real world, rewards are emergent phenomena from the complex interactions between agents and environments.
+In this paper, we propose an implicit generic reward model for reinforcement learning.
+Unlike those rewards that are manually defined for specific tasks, such implicit reward is task independent.
+It only comes from the deviation from the agents' previous experiences.

@@ -1,0 +1,10 @@
+Stochastic Gradient Descent (SGD) is a workhorse in machine learning, yet it is also known to be slow relative to steepest descent.
+The variance in the stochastic update directions only allows for sublinear or (with iterate averaging) linear convergence rates.
+Recently, variance reduction techniques such as SVRG and SAGA have been proposed to overcome this weakness.
+With asymptotically vanishing variance, a constant step size can be maintained, resulting in geometric convergence rates.
+However, these methods are either based on occasional computations of full gradients at pivot points (SVRG), or on keeping per data point corrections in memory (SAGA).
+This has the disadvantage that one cannot employ these methods in a streaming setting and that speed-ups relative to SGD may need a certain number of epochs in order to materialize.
+This paper investigates a new class of algorithms that can exploit neighborhood structure in the training data to share and re-use information about past stochastic gradients across data points.
+While not meant to be offering advantages in an asymptotic setting, there are significant benefits in the transient optimization phase, in particular in a streaming or single-epoch setting.
+We investigate this family of algorithms in a thorough analysis and show supporting experimental results.
+As a side-product we provide a simple and unified proof technique for a broad class of variance reduction algorithms.

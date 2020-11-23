@@ -1,0 +1,7 @@
+Even/RB though/IN the/DT problem/NN of/IN blind/JJ deblurring/NN is/VBZ a/DT long/JJ studied/VBN vision/NN task/NN ,/, the/DT outcomes/NNS of/IN generic/JJ methods/NNS are/VBP not/RB effective/JJ in/IN real/JJ world/NN blurred/JJ images/NNS ./.
+Exploiting/VBG domain/NN knowledge/NN for/IN specific/JJ object/NN deblurring/NN ,/, e.g./FW text/NN or/CC faces/NNS ,/, has/VBZ attracted/VBN recently/RB an/DT increasing/VBG amount/NN of/IN attention/NN ./.
+Faces/NNS are/VBP among/IN the/DT most/RBS well/RB studied/VBN objects/NNS in/IN computer/NN vision/NN and/CC despite/IN the/DT significant/JJ progress/NN made/VBN ,/, the/DT deblurring/NN of/IN faces/NNS does/VBZ not/RB yield/VB yet/RB satisfying/JJ results/NNS in/IN an/DT arbitrary/JJ image/NN ./.
+We/PRP study/VBP the/DT problem/NN of/IN face/NN deblurring/NN by/IN inserting/VBG weak/JJ supervision/NN in/IN the/DT form/NN of/IN alignment/NN in/IN a/DT deep/JJ network/NN ./.
+We/PRP introduce/VBP an/DT efficient/JJ framework/NN ,/, used/VBN to/TO generate/VB a/DT dataset/NN of/IN over/IN two/CD million/CD frames/NNS ./.
+The/DT dataset/NN ,/, which/WDT we/PRP call/VBP 2MF2/NN ,/, was/VBD used/VBN during/IN the/DT network/NN 's/POS training/NN process/NN ./.
+We/PRP conduct/VBP experiments/NNS with/IN real/JJ world/NN blurred/JJ facial/JJ images/NNS and/CC report/NN that/IN our/PRP$ method/NN returns/VBZ a/DT result/NN close/NN to/IN the/DT sharp/JJ natural/JJ latent/NN image/NN ./.

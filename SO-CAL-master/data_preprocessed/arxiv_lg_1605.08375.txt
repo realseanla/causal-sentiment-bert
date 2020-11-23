@@ -1,0 +1,4 @@
+We/PRP study/VBP the/DT generalization/NN properties/NNS of/IN stochastic/JJ gradient/NN methods/NNS for/IN learning/VBG with/IN convex/NN loss/NN functions/NNS and/CC linearly/RB parameterized/JJ functions/NNS ./.
+We/PRP show/VBP that/IN ,/, in/IN the/DT absence/NN of/IN penalizations/NNS or/CC constraints/NNS ,/, the/DT stability/NN and/CC approximation/NN properties/NNS of/IN the/DT algorithm/NN can/MD be/VB controlled/VBN by/IN tuning/NN either/CC the/DT step/NN -/HYPH size/NN or/CC the/DT number/NN of/IN passes/NNS over/IN the/DT data/NNS ./.
+In/IN this/DT view/NN ,/, these/DT parameters/NNS can/MD be/VB seen/VBN to/TO control/VB a/DT form/NN of/IN implicit/JJ regularization/NN ./.
+Numerical/NNP results/VBZ complement/NN the/DT theoretical/JJ findings/NNS ./.

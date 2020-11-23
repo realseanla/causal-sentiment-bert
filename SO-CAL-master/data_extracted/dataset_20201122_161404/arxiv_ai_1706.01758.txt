@@ -1,0 +1,4 @@
+In this paper, we explore SPPIM-based text classification method, and the experiment reveals that the SPPIM method is equal to or even superior than SGNS method in text classification task on three international and standard text datasets, namely 20newsgroups, Reuters52 and WebKB.
+Comparing to SGNS, although SPPMI provides a better solution, it is not necessarily better than SGNS in text classification tasks.
+Based on our analysis, SGNS takes into the consideration of weight calculation during decomposition process, so it has better performance than SPPIM in some standard datasets.
+Inspired by this, we propose a WL-SPPIM semantic model based on SPPIM model, and experiment shows that WL-SPPIM approach has better classification and higher scalability in the text classification task compared with LDA, SGNS and SPPIM approaches.

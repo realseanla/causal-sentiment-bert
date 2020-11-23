@@ -1,0 +1,14 @@
+Bike/NNP sharing/VBG systems/NNS '/POS popularity/NN has/VBZ consistently/RB been/VBN rising/VBG during/IN the/DT past/JJ years/NNS ./.
+Managing/VBG and/CC maintaining/VBG these/DT emerging/VBG systems/NNS are/VBP indispensable/JJ parts/NNS of/IN these/DT systems/NNS ./.
+Visualizing/VBG the/DT current/JJ operations/NNS can/MD assist/VB in/IN getting/VBG a/DT better/JJR grasp/NN on/IN the/DT performance/NN of/IN the/DT system/NN ./.
+In/IN this/DT paper/NN ,/, a/DT data/NN mining/NN approach/NN is/VBZ used/VBN to/TO identify/VB and/CC visualize/VB some/DT important/JJ factors/NNS related/VBN to/IN bike/NN -/HYPH share/NN operations/NNS and/CC management/NN ./.
+To/TO consolidate/VB the/DT data/NNS ,/, we/PRP cluster/VBP stations/NNS that/WDT have/VBP a/DT similar/JJ pickup/NN and/CC drop/VB -/HYPH off/RP profiles/NNS during/IN weekdays/NNS and/CC weekends/NNS ./.
+We/PRP provide/VBP the/DT temporal/JJ profile/NN of/IN the/DT center/NN of/IN each/DT cluster/NN which/WDT can/MD be/VB used/VBN as/IN a/DT simple/JJ and/CC practical/JJ approach/NN for/IN approximating/VBG the/DT number/NN of/IN pickups/NNS and/CC drop/VB -/HYPH offs/NNS of/IN the/DT stations/NNS ./.
+We/PRP also/RB define/VBP two/CD indices/NNS based/VBN on/IN stations/NNS '/POS shortages/NNS and/CC surpluses/NNS that/WDT reflect/VBP the/DT degree/NN of/IN balancing/VBG aid/NN a/DT station/NN needs/VBZ ./.
+These/DT indices/NNS can/MD help/VB stakeholders/NNS improve/VB the/DT quality/NN of/IN the/DT bike/NN -/HYPH share/NN user/NN experience/NN in/IN at/IN -/HYPH least/JJS two/CD ways/NNS ./.
+It/PRP can/MD act/VB as/IN a/DT complement/NN to/IN balancing/VBG optimization/NN efforts/NNS ,/, and/CC it/PRP can/MD identify/VB stations/NNS that/WDT need/VBP expansion/NN ./.
+We/PRP mine/VBP the/DT District/NNP of/IN Columbia/NNP 's/POS regional/JJ bike/NN -/HYPH share/NN data/NNS and/CC discuss/VB the/DT findings/NNS of/IN this/DT data/NN set/NN ./.
+We/PRP examine/VBP the/DT bike/NN -/HYPH share/NN system/NN during/IN different/JJ quarters/NNS of/IN the/DT year/NN and/CC during/IN both/DT peak/NN and/CC non-peak/JJ hours/NNS ./.
+Findings/NNS reflect/VBP that/DT on/IN weekdays/NNS most/JJS of/IN the/DT pickups/NNS and/CC drop/VB -/HYPH offs/NNS happen/VBP during/IN the/DT morning/NN and/CC evening/NN peaks/NNS whereas/IN on/IN weekends/NNS pickups/NNS and/CC drop/VB -/HYPH offs/NNS are/VBP spread/VBN out/RP throughout/IN the/DT day/NN ./.
+We/PRP also/RB show/VBP that/IN throughout/IN the/DT day/NN ,/, more/JJR than/IN 40/CD percent/NN of/IN the/DT stations/NNS are/VBP relatively/RB self/NN -/HYPH balanced/VBN ./.
+Not/RB worrying/VBG about/IN these/DT stations/NNS during/IN ordinary/JJ days/NNS can/MD allow/VB the/DT balancing/NN efforts/NNS to/TO focus/VB on/IN a/DT fewer/JJR stations/NNS and/CC therefore/RB potentially/RB improve/VB the/DT efficiency/NN of/IN the/DT balancing/NN optimization/NN models/NNS ./.

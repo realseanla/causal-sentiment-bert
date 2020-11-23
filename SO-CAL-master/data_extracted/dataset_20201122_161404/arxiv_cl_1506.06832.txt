@@ -1,0 +1,7 @@
+Recognizing emotion from speech has become one the active research themes in speech processing and in applications based on human-computer interaction.
+This paper conducts an experimental study on recognizing emotions from human speech.
+The emotions considered for the experiments include neutral, anger, joy and sadness.
+The distinuishability of emotional features in speech were studied first followed by emotion classification performed on a custom dataset.
+The classification was performed for different classifiers.
+One of the main feature attribute considered in the prepared dataset was the peak-to-peak distance obtained from the graphical representation of the speech signals.
+After performing the classification tests on a dataset formed from 30 different subjects, it was found that for getting better accuracy, one should consider the data collected from one person rather than considering the data from a group of people.

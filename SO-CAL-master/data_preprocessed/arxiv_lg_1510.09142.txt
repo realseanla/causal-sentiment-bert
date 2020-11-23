@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT unified/VBN framework/NN for/IN learning/VBG continuous/JJ control/NN policies/NNS using/VBG backpropagation/NN ./.
+It/PRP supports/VBZ stochastic/JJ control/NN by/IN treating/VBG stochasticity/NN in/IN the/DT Bellman/NNP equation/NN as/IN a/DT deterministic/JJ function/NN of/IN exogenous/JJ noise/NN ./.
+The/DT product/NN is/VBZ a/DT spectrum/NN of/IN general/JJ policy/NN gradient/NN algorithms/NNS that/WDT range/VBP from/IN model/NN -/HYPH free/JJ methods/NNS with/IN value/NN functions/VBZ to/TO model/VB -/HYPH based/VBN methods/NNS without/IN value/NN functions/NNS ./.
+We/PRP use/VBP learned/VBN models/NNS but/CC only/RB require/VBP observations/NNS from/IN the/DT environment/NN in/IN -/HYPH stead/NN of/IN observations/NNS from/IN model/NN -/HYPH predicted/VBN trajectories/NNS ,/, minimizing/VBG the/DT impact/NN of/IN compounded/VBN model/NN errors/NNS ./.
+We/PRP apply/VBP these/DT algorithms/NNS first/RB to/IN a/DT toy/NN stochastic/JJ control/NN problem/NN and/CC then/RB to/IN several/JJ physics/NN -/HYPH based/VBN control/NN problems/NNS in/IN simulation/NN ./.
+One/CD of/IN these/DT variants/NNS ,/, SVG/NNP (/-LRB- 1/CD )/-RRB- ,/, shows/VBZ the/DT effectiveness/NN of/IN learning/NN models/NNS ,/, value/NN functions/NNS ,/, and/CC policies/NNS simultaneously/RB in/IN continuous/JJ domains/NNS ./.

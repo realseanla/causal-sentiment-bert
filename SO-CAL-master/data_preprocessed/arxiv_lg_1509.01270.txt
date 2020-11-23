@@ -1,0 +1,10 @@
+One/CD of/IN the/DT challenging/JJ problems/NNS in/IN biology/NN is/VBZ to/TO classify/VB plants/NNS based/VBN on/IN their/PRP$ reaction/NN on/IN genetic/JJ mutation/NN ./.
+Arabidopsis/NNP Thaliana/NNP is/VBZ a/DT plant/NN that/WDT is/VBZ so/RB interesting/JJ ,/, because/IN its/PRP$ genetic/JJ structure/NN has/VBZ some/DT similarities/NNS with/IN that/DT of/IN human/JJ beings/NNS ./.
+Biologists/NNS classify/VBP the/DT type/NN of/IN this/DT plant/NN to/IN mutated/VBN and/CC not/RB mutated/VBN (/-LRB- wild/JJ )/-RRB- types/NNS ./.
+Phenotypic/JJ analysis/NN of/IN these/DT types/NNS is/VBZ a/DT time/NN -/HYPH consuming/VBG and/CC costly/JJ effort/NN by/IN individuals/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT modified/VBN feature/NN extraction/NN step/NN by/IN using/VBG velocity/NN and/CC acceleration/NN of/IN root/NN growth/NN ./.
+In/IN the/DT second/JJ step/NN ,/, for/IN plant/NN classification/NN ,/, we/PRP employed/VBD different/JJ Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- kernels/NNS and/CC two/CD hybrid/NN systems/NNS of/IN neural/JJ networks/NNS ./.
+Gated/VBN Negative/JJ Correlation/NN Learning/NN (/-LRB- GNCL/NN )/-RRB- and/CC Mixture/NN of/IN Negatively/RB Correlated/VBN Experts/NNS (/-LRB- MNCE/NNP )/-RRB- are/VBP two/CD ensemble/NN methods/NNS based/VBN on/IN complementary/JJ feature/NN of/IN classical/JJ classifiers/NNS ;/: Mixture/NN of/IN Expert/NNP (/-LRB- ME/NNP )/-RRB- and/CC Negative/JJ Correlation/NN Learning/NN (/-LRB- NCL/NN )/-RRB- ./.
+The/DT hybrid/NN systems/NNS conserve/VBP of/IN advantages/NNS and/CC decrease/VB the/DT effects/NNS of/IN disadvantages/NNS of/IN NCL/NNP and/CC ME/NNP ./.
+Our/PRP$ Experimental/JJ shows/NNS that/WDT MNCE/NNP and/CC GNCL/NNP improve/VB the/DT efficiency/NN of/IN classical/JJ classifiers/NNS ,/, however/RB ,/, some/DT SVM/NNP kernels/NNS function/NN has/VBZ better/JJR performance/NN than/IN classifiers/NNS based/VBN on/IN neural/JJ network/NN ensemble/NN method/NN ./.
+Moreover/RB ,/, kernels/NNS consume/VBP less/JJR time/NN to/TO obtain/VB a/DT classification/NN rate/NN ./.

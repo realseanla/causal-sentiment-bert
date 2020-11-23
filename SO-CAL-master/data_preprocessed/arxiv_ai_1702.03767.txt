@@ -1,0 +1,12 @@
+Non-technical/JJ losses/NNS (/-LRB- NTL/NN )/-RRB- occur/VBP during/IN the/DT distribution/NN of/IN electricity/NN in/IN power/NN grids/NNS and/CC include/VBP ,/, but/CC are/VBP not/RB limited/VBN to/IN ,/, electricity/NN theft/NN and/CC faulty/JJ meters/NNS ./.
+In/IN emerging/VBG countries/NNS ,/, they/PRP may/MD range/VB up/RP to/IN 40/CD percent/NN of/IN the/DT total/JJ electricity/NN distributed/VBN ./.
+In/IN order/NN to/TO detect/VB NTLs/NNS ,/, machine/NN learning/NN methods/NNS are/VBP used/VBN that/DT learn/VBP irregular/JJ consumption/NN patterns/NNS from/IN customer/NN data/NNS and/CC inspection/NN results/NNS ./.
+The/DT Big/NNP Data/NNP paradigm/NN followed/VBD in/IN modern/JJ machine/NN learning/NN reflects/VBZ the/DT desire/NN of/IN deriving/VBG better/JJR conclusions/NNS from/IN simply/RB analyzing/VBG more/JJR data/NNS ,/, without/IN the/DT necessity/NN of/IN looking/VBG at/IN theory/NN and/CC models/NNS ./.
+However/RB ,/, the/DT sample/NN of/IN inspected/VBN customers/NNS may/MD be/VB biased/VBN ,/, i.e./FW it/PRP does/VBZ not/RB represent/VB the/DT population/NN of/IN all/DT customers/NNS ./.
+As/IN a/DT consequence/NN ,/, machine/NN learning/NN models/NNS trained/VBN on/IN these/DT inspection/NN results/NNS are/VBP biased/VBN as/RB well/RB and/CC therefore/RB lead/VBP to/IN unreliable/JJ predictions/NNS of/IN whether/IN customers/NNS cause/VBP NTL/NNP or/CC not/RB ./.
+In/IN machine/NN learning/NN ,/, this/DT issue/NN is/VBZ called/VBN covariate/NN shift/NN and/CC has/VBZ not/RB been/VBN addressed/VBN in/IN the/DT literature/NN on/IN NTL/NNP detection/NN yet/RB ./.
+In/IN this/DT work/NN ,/, we/PRP present/VBP a/DT novel/JJ framework/NN for/IN quantifying/VBG and/CC visualizing/VBG covariate/NN shift/NN ./.
+We/PRP apply/VBP it/PRP to/IN a/DT commercial/JJ data/NNS set/VBN from/IN Brazil/NNP that/WDT consists/VBZ of/IN 3.6/CD M/NN customers/NNS and/CC 820K/NN inspection/NN results/NNS ./.
+We/PRP show/VBP that/IN some/DT features/NNS have/VBP a/DT stronger/JJR covariate/NN shift/NN than/IN others/NNS ,/, making/VBG predictions/NNS less/RBR reliable/JJ ./.
+In/IN particular/JJ ,/, previous/JJ inspections/NNS were/VBD focused/VBN on/IN certain/JJ neighborhoods/NNS or/CC customer/NN classes/NNS and/CC that/IN they/PRP were/VBD not/RB sufficiently/RB spread/VBN among/IN the/DT population/NN of/IN customers/NNS ./.
+This/DT framework/NN is/VBZ about/RB to/TO be/VB deployed/VBN in/IN a/DT commercial/JJ product/NN for/IN NTL/NNP detection/NN ./.

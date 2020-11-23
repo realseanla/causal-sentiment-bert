@@ -1,0 +1,5 @@
+This/DT paper/NN aims/VBZ to/TO compare/VB different/JJ regularization/NN strategies/NNS to/TO address/VB a/DT common/JJ phenomenon/NN ,/, severe/JJ overfitting/NN ,/, in/IN embedding/NN -/HYPH based/VBN neural/JJ networks/NNS for/IN NLP/NN ./.
+We/PRP chose/VBD two/CD widely/RB studied/VBN neural/JJ models/NNS and/CC tasks/NNS as/IN our/PRP$ testbed/NN ./.
+We/PRP tried/VBD several/JJ frequently/RB applied/VBN or/CC newly/RB proposed/VBN regularization/NN strategies/NNS ,/, including/VBG penalizing/VBG weights/NNS (/-LRB- embeddings/NNS excluded/VBN )/-RRB- ,/, penalizing/VBG embeddings/NNS ,/, re-embedding/VBG words/NNS ,/, and/CC dropout/NN ./.
+We/PRP also/RB emphasized/VBD on/IN incremental/JJ hyperparameter/NN tuning/NN ,/, and/CC combining/VBG different/JJ regularizations/NNS ./.
+The/DT results/NNS provide/VBP a/DT picture/NN on/IN tuning/NN hyperparameters/NNS for/IN neural/JJ NLP/NN models/NNS ./.

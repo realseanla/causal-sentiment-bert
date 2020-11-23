@@ -1,0 +1,4 @@
+Conjunctive/JJ database/NN queries/NNS have/VBP been/VBN extended/VBN with/IN a/DT mechanism/NN for/IN object/NN creation/NN to/TO capture/VB important/JJ applications/NNS such/JJ as/IN data/NNS exchange/NN ,/, data/NN integration/NN ,/, and/CC ontology/NN -/HYPH based/VBN data/NNS access/NN ./.
+Object/NN creation/NN generates/VBZ new/JJ object/NN identifiers/NNS in/IN the/DT result/NN ,/, that/WDT do/VBP not/RB belong/VB to/IN the/DT set/NN of/IN constants/NNS in/IN the/DT source/NN database/NN ./.
+The/DT new/JJ object/NN identifiers/NNS can/MD be/VB also/RB seen/VBN as/IN Skolem/NNP terms/NNS ./.
+Hence/RB ,/, object/NN -/HYPH creating/VBG conjunctive/JJ queries/NNS can/MD also/RB be/VB regarded/VBN as/IN restricted/JJ second/JJ -/HYPH order/NN tuple/NN -/HYPH generating/VBG dependencies/NNS (/-LRB- SO/RB tgds/JJ )/-RRB- ,/, considered/VBN in/IN the/DT data/NNS exchange/NN literature/NN ./.

@@ -1,0 +1,8 @@
+Smoothed/VBN analysis/NN is/VBZ a/DT framework/NN for/IN analyzing/VBG the/DT complexity/NN of/IN an/DT algorithm/NN ,/, acting/VBG as/IN a/DT bridge/NN between/IN average/JJ and/CC worst/JJS -/HYPH case/NN behaviour/NN ./.
+For/IN example/NN ,/, Quicksort/NNP and/CC the/DT Simplex/NNP algorithm/NN are/VBP widely/RB used/VBN in/IN practical/JJ applications/NNS ,/, despite/IN their/PRP$ heavy/JJ worst/JJS -/HYPH case/NN complexity/NN ./.
+Smoothed/VBN complexity/NN aims/VBZ to/TO better/RBR characterize/VB such/JJ algorithms/NNS ./.
+Existing/VBG theoretical/JJ bounds/NNS for/IN the/DT smoothed/VBN complexity/NN of/IN sorting/VBG algorithms/NNS are/VBP still/RB quite/RB weak/JJ ./.
+Furthermore/RB ,/, empirically/RB computing/VBG the/DT smoothed/VBN complexity/NN via/IN its/PRP$ original/JJ definition/NN is/VBZ computationally/RB infeasible/JJ ,/, even/RB for/IN modest/JJ input/NN sizes/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN accurately/RB predicting/VBG the/DT smoothed/VBN complexity/NN of/IN sorting/VBG algorithms/NNS ,/, using/VBG machine/NN learning/NN techniques/NNS ./.
+We/PRP propose/VBP two/CD regression/NN models/NNS that/WDT take/VBP into/IN account/NN various/JJ properties/NNS of/IN sorting/VBG algorithms/NNS and/CC some/DT of/IN the/DT known/VBN theoretical/JJ results/NNS in/IN smoothed/VBN analysis/NN to/TO improve/VB prediction/NN quality/NN ./.
+We/PRP show/VBP experimental/JJ results/NNS for/IN predicting/VBG the/DT smoothed/VBN complexity/NN of/IN Quicksort/NNP ,/, Mergesort/NNP ,/, and/CC optimized/VBN Bubblesort/NNP for/IN large/JJ input/NN sizes/NNS ,/, therefore/RB filling/VBG the/DT gap/NN between/IN known/JJ theoretical/JJ and/CC empirical/JJ results/NNS ./.

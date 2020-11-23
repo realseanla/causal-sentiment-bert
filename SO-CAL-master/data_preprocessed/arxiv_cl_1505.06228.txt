@@ -1,0 +1,8 @@
+The/DT development/NN of/IN methods/NNS to/TO deal/VB with/IN the/DT informative/JJ contents/NNS of/IN the/DT text/NN units/NNS in/IN the/DT matching/NN process/NN is/VBZ a/DT major/JJ challenge/NN in/IN automatic/JJ summary/NN evaluation/NN systems/NNS that/WDT use/VBP fixed/VBN n/NN -/HYPH gram/NN matching/NN ./.
+The/DT limitation/NN causes/VBZ inaccurate/JJ matching/NN between/IN units/NNS in/IN a/DT peer/NN and/CC reference/NN summaries/NNS ./.
+The/DT present/JJ study/NN introduces/VBZ a/DT new/JJ Keyphrase/NN based/VBN Summary/NNP Evaluator/NNP KpEval/NNP for/IN evaluating/VBG automatic/JJ summaries/NNS ./.
+The/DT KpEval/NNP relies/VBZ on/IN the/DT keyphrases/NNS since/IN they/PRP convey/VBP the/DT most/RBS important/JJ concepts/NNS of/IN a/DT text/NN ./.
+In/IN the/DT evaluation/NN process/NN ,/, the/DT keyphrases/NNS are/VBP used/VBN in/IN their/PRP$ lemma/NN form/NN as/IN the/DT matching/NN text/NN unit/NN ./.
+The/DT system/NN was/VBD applied/VBN to/TO evaluate/VB different/JJ summaries/NNS of/IN Arabic/JJ multi-document/JJ data/NNS set/VBN presented/VBN at/IN TAC2011/NN ./.
+The/DT results/NNS showed/VBD that/IN the/DT new/JJ evaluation/NN technique/NN correlates/VBZ well/RB with/IN the/DT known/VBN evaluation/NN systems/NNS :/: Rouge1/NN ,/, Rouge2/NN ,/, RougeSU4/NN ,/, and/CC AutoSummENG/NN MeMoG/NN ./.
+KpEval/NNP has/VBZ the/DT strongest/JJS correlation/NN with/IN AutoSummENG/NNP MeMoG/NNP ,/, Pearson/NNP and/CC spearman/NNP correlation/NN coefficient/NN measures/NNS are/VBP 0.8840/CD ,/, 0.9667/CD respectively/RB ./.

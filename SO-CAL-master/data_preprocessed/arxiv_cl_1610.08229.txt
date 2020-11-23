@@ -1,0 +1,6 @@
+This/DT paper/NN have/VBP two/CD parts/NNS ./.
+In/IN the/DT first/JJ part/NN we/PRP discuss/VBP word/NN embeddings/NNS ./.
+We/PRP discuss/VBP the/DT need/NN for/IN them/PRP ,/, some/DT of/IN the/DT methods/NNS to/TO create/VB them/PRP ,/, and/CC some/DT of/IN their/PRP$ interesting/JJ properties/NNS ./.
+We/PRP also/RB compare/VBP them/PRP to/IN image/NN embeddings/NNS and/CC see/VB how/WRB word/NN embedding/NN and/CC image/NN embedding/NN can/MD be/VB combined/VBN to/TO perform/VB different/JJ tasks/NNS ./.
+In/IN the/DT second/JJ part/NN we/PRP implement/VBP a/DT convolutional/JJ neural/JJ network/NN trained/VBN on/IN top/NN of/IN pre-trained/JJ word/NN vectors/NNS ./.
+The/DT network/NN is/VBZ used/VBN for/IN several/JJ sentence/NN -/HYPH level/NN classification/NN tasks/NNS ,/, and/CC achieves/VBZ state/NN -/HYPH of/IN -/HYPH art/NN (/-LRB- or/CC comparable/JJ )/-RRB- results/NNS ,/, demonstrating/VBG the/DT great/JJ power/NN of/IN pre-trainted/JJ word/NN embeddings/NNS over/IN random/JJ ones/NNS ./.

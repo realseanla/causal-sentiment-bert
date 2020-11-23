@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT extension/NN of/IN our/PRP$ Mining/NN for/IN SAT/NNP framework/NN to/IN Constraint/NN satisfaction/NN Problem/NNP (/-LRB- CSP/NNP )/-RRB- ./.
+We/PRP consider/VBP n/NN -/HYPH ary/NN extensional/JJ constraints/NNS (/-LRB- table/NN constraints/NNS )/-RRB- ./.
+Our/PRP$ approach/NN aims/VBZ to/TO reduce/VB the/DT size/NN of/IN the/DT CSP/NNP by/IN exploiting/VBG the/DT structure/NN of/IN the/DT constraints/NNS graph/NN and/CC of/IN its/PRP$ associated/JJ microstructure/NN ./.
+More/RBR precisely/RB ,/, we/PRP apply/VBP itemset/NN mining/NN techniques/NNS to/TO search/VB for/IN closed/JJ frequent/JJ itemsets/NNS on/IN these/DT two/CD representation/NN ./.
+Using/VBG Tseitin/NN extension/NN ,/, we/PRP rewrite/VBP the/DT whole/JJ CSP/NNP to/IN another/DT compressed/VBN CSP/NNP equivalent/JJ with/IN respect/NN to/IN satisfiability/NN ./.
+Our/PRP$ approach/NN contrast/NN with/IN previous/JJ proposed/VBN approach/NN by/IN Katsirelos/NNP and/CC Walsh/NNP ,/, as/IN we/PRP do/VBP not/RB change/VB the/DT structure/NN of/IN the/DT constraints/NNS ./.

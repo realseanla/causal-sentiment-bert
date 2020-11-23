@@ -1,0 +1,6 @@
+In many real-world applications, data are represented by matrices or high-order tensors.
+Despite the promising performance, the existing two-dimensional discriminant analysis algorithms employ a single projection model to exploit the discriminant information for projection, making the model less flexible.
+In this paper, we propose a novel Compound Rank-k Projection (CRP) algorithm for bilinear analysis.
+CRP deals with matrices directly without transforming them into vectors, and it therefore preserves the correlations within the matrix and decreases the computation complexity.
+Different from the existing two dimensional discriminant analysis algorithms, objective function values of CRP increase monotonically.In addition, CRP utilizes multiple rank-k projection models to enable a larger search space in which the optimal solution can be found.
+In this way, the discriminant ability is enhanced.

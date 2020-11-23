@@ -1,0 +1,8 @@
+The/DT paper/NN presents/VBZ a/DT new/JJ copula/NN based/VBN method/NN for/IN measuring/VBG dependence/NN between/IN random/JJ variables/NNS ./.
+Our/PRP$ approach/NN extends/VBZ the/DT Maximum/NNP Mean/NNP Discrepancy/NN to/IN the/DT copula/NN of/IN the/DT joint/JJ distribution/NN ./.
+We/PRP prove/VBP that/IN this/DT approach/NN has/VBZ several/JJ advantageous/JJ properties/NNS ./.
+Similarly/RB to/IN Shannon/NNP mutual/JJ information/NN ,/, the/DT proposed/VBN dependence/NN measure/NN is/VBZ invariant/JJ to/IN any/DT strictly/RB increasing/VBG transformation/NN of/IN the/DT marginal/JJ variables/NNS ./.
+This/DT is/VBZ important/JJ in/IN many/JJ applications/NNS ,/, for/IN example/NN in/IN feature/NN selection/NN ./.
+The/DT estimator/NN is/VBZ consistent/JJ ,/, robust/JJ to/IN outliers/NNS ,/, and/CC uses/VBZ rank/NN statistics/NNS only/RB ./.
+We/PRP derive/VBP upper/JJ bounds/NNS on/IN the/DT convergence/NN rate/NN and/CC propose/VB independence/NN tests/NNS too/RB ./.
+We/PRP illustrate/VBP the/DT theoretical/JJ contributions/NNS through/IN a/DT series/NN of/IN experiments/NNS in/IN feature/NN selection/NN and/CC low/JJ -/HYPH dimensional/JJ embedding/NN of/IN distributions/NNS ./.

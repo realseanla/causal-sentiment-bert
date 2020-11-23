@@ -1,0 +1,5 @@
+Machine/NN Translation/NN Quality/NN Estimation/NN is/VBZ a/DT notoriously/RB difficult/JJ task/NN ,/, which/WDT lessens/VBZ its/PRP$ usefulness/NN in/IN real/JJ -/HYPH world/NN translation/NN environments/NNS ./.
+Such/JJ scenarios/NNS can/MD be/VB improved/VBN if/IN quality/NN predictions/NNS are/VBP accompanied/VBN by/IN a/DT measure/NN of/IN uncertainty/NN ./.
+However/RB ,/, models/NNS in/IN this/DT task/NN are/VBP traditionally/RB evaluated/VBN only/RB in/IN terms/NNS of/IN point/NN estimate/NN metrics/NNS ,/, which/WDT do/VBP not/RB take/VB prediction/NN uncertainty/NN into/IN account/NN ./.
+We/PRP investigate/VBP probabilistic/JJ methods/NNS for/IN Quality/NNP Estimation/NNP that/WDT can/MD provide/VB well/RB -/HYPH calibrated/VBN uncertainty/NN estimates/NNS and/CC evaluate/VB them/PRP in/IN terms/NNS of/IN their/PRP$ full/JJ posterior/JJ predictive/JJ distributions/NNS ./.
+We/PRP also/RB show/VBP how/WRB this/DT posterior/JJ information/NN can/MD be/VB useful/JJ in/IN an/DT asymmetric/JJ risk/NN scenario/NN ,/, which/WDT aims/VBZ to/TO capture/VB typical/JJ situations/NNS in/IN translation/NN workflows/NNS ./.

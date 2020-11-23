@@ -1,0 +1,3 @@
+The way experts manage uncertainty usually changes depending on the task they are performing.
+This fact has lead us to consider the problem of communicating modules (task implementations) in a large and structured knowledge based system when modules have different uncertainty calculi.
+In this paper, the analysis of the communication problem is made assuming that (i) each uncertainty calculus is an inference mechanism defining an entailment relation, and therefore the communication is considered to be inference-preserving, and (ii) we restrict ourselves to the case which the different uncertainty calculi are given by a class of truth functional Multiple-valued Logics.

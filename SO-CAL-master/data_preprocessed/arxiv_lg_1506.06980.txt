@@ -1,0 +1,6 @@
+Machine/NN learning/NN relies/VBZ on/IN the/DT assumption/NN that/IN unseen/JJ test/NN instances/NNS of/IN a/DT classification/NN problem/NN follow/VBP the/DT same/JJ distribution/NN as/IN observed/VBN training/NN data/NNS ./.
+However/RB ,/, this/DT principle/NN can/MD break/VB down/RP when/WRB machine/NN learning/NN is/VBZ used/VBN to/TO make/VB important/JJ decisions/NNS about/IN the/DT welfare/NN (/-LRB- employment/NN ,/, education/NN ,/, health/NN )/-RRB- of/IN strategic/JJ individuals/NNS ./.
+Knowing/VBG information/NN about/IN the/DT classifier/NN ,/, such/JJ individuals/NNS may/MD manipulate/VB their/PRP$ attributes/NNS in/IN order/NN to/TO obtain/VB a/DT better/JJR classification/NN outcome/NN ./.
+As/IN a/DT result/NN of/IN this/DT behavior/NN ---/, often/RB referred/VBN to/IN as/IN gaming/NN ---/, the/DT performance/NN of/IN the/DT classifier/NN may/MD deteriorate/VB sharply/RB ./.
+Indeed/RB ,/, gaming/NN is/VBZ a/DT well/RB -/HYPH known/VBN obstacle/NN for/IN using/VBG machine/NN learning/NN methods/NNS in/IN practice/NN ;/: in/IN financial/JJ policy/NN -/HYPH making/NN ,/, the/DT problem/NN is/VBZ widely/RB known/VBN as/IN Goodhart/NNP 's/POS law/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP formalize/VBP the/DT problem/NN ,/, and/CC pursue/VB algorithms/NNS for/IN learning/VBG classifiers/NNS that/WDT are/VBP robust/JJ to/IN gaming/NN ./.

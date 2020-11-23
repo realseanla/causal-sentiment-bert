@@ -1,0 +1,7 @@
+Directly/RB reading/VBG documents/NNS and/CC being/VBG able/JJ to/TO answer/VB questions/NNS from/IN them/PRP is/VBZ a/DT key/JJ problem/NN ./.
+To/TO avoid/VB its/PRP$ inherent/JJ difficulty/NN ,/, question/NN answering/NN (/-LRB- QA/NN )/-RRB- has/VBZ been/VBN directed/VBN towards/IN using/VBG Knowledge/NN Bases/NNS (/-LRB- KBs/NNS )/-RRB- instead/RB ,/, which/WDT has/VBZ proven/VBN effective/JJ ./.
+Unfortunately/RB KBs/NNS suffer/VBP from/IN often/RB being/VBG too/RB restrictive/JJ ,/, as/IN the/DT schema/NN can/MD not/RB support/VB certain/JJ types/NNS of/IN answers/NNS ,/, and/CC too/RB sparse/JJ ,/, e.g./FW Wikipedia/NNP contains/VBZ much/RB more/JJR information/NN than/IN Freebase/NN ./.
+In/IN this/DT work/NN we/PRP introduce/VBP a/DT new/JJ method/NN ,/, Key/NNP -/HYPH Value/NNP Memory/NNP Networks/NNP ,/, that/WDT makes/VBZ reading/VBG documents/NNS more/RBR viable/JJ by/IN utilizing/VBG different/JJ encodings/NNS in/IN the/DT addressing/VBG and/CC output/NN stages/NNS of/IN the/DT memory/NN read/VBD operation/NN ./.
+To/TO compare/VB using/VBG KBs/NNS ,/, information/NN extraction/NN or/CC Wikipedia/NNP documents/NNS directly/RB in/IN a/DT single/JJ framework/NN we/PRP construct/VBP an/DT analysis/NN tool/NN ,/, MovieQA/NN ,/, a/DT QA/NNP dataset/NN in/IN the/DT domain/NN of/IN movies/NNS ./.
+Our/PRP$ method/NN closes/VBZ the/DT gap/NN between/IN all/DT three/CD settings/NNS ./.
+It/PRP also/RB achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN the/DT existing/VBG WikiQA/NNP benchmark/NN ./.

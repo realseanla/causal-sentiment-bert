@@ -1,0 +1,8 @@
+DiffSharp/NNP is/VBZ an/DT algorithmic/JJ differentiation/NN or/CC automatic/JJ differentiation/NN (/-LRB- AD/NN )/-RRB- library/NN for/IN the/DT ./.
+NET/NN ecosystem/NN ,/, which/WDT is/VBZ targeted/VBN by/IN the/DT C#/NN and/CC F#/NN languages/NNS ,/, among/IN others/NNS ./.
+The/DT library/NN has/VBZ been/VBN designed/VBN with/IN machine/NN learning/NN applications/NNS in/IN mind/NN ,/, allowing/VBG very/RB succinct/JJ implementations/NNS of/IN models/NNS and/CC optimization/NN routines/NNS ./.
+DiffSharp/NNP is/VBZ implemented/VBN in/IN F#/NN and/CC exposes/VBZ forward/RB and/CC reverse/VB AD/NN operators/NNS as/IN general/JJ nestable/NN higher/RBR -/HYPH order/NN functions/NNS ,/, usable/JJ by/IN any/DT ./.
+NET/NN language/NN ./.
+It/PRP provides/VBZ high/JJ -/HYPH performance/NN linear/JJ algebra/NN primitives/NNS ---/, scalars/NNS ,/, vectors/NNS ,/, and/CC matrices/NNS ,/, with/IN a/DT generalization/NN to/IN tensors/NNS underway/JJ ---/: that/WDT are/VBP fully/RB supported/VBN by/IN all/PDT the/DT AD/NN operators/NNS ,/, and/CC which/WDT use/VBP a/DT BLAS/NN //HYPH LAPACK/NN backend/NN via/IN the/DT highly/RB optimized/VBN OpenBLAS/NNP library/NN ./.
+DiffSharp/NNP currently/RB uses/VBZ operator/NN overloading/NN ,/, but/CC we/PRP are/VBP developing/VBG a/DT transformation/NN -/HYPH based/VBN version/NN of/IN the/DT library/NN using/VBG F#/NNP 's/POS "/`` code/NN quotation/NN "/'' metaprogramming/NN facility/NN ./.
+Work/VB on/IN a/DT CUDA/NN -/HYPH based/VBN GPU/NNP backend/NN is/VBZ also/RB underway/JJ ./.

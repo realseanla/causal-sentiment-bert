@@ -1,0 +1,8 @@
+The/DT success/NN of/IN deep/JJ learning/NN often/RB derives/VBZ from/IN well/RB -/HYPH chosen/VBN operational/JJ building/NN blocks/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP revise/VBP the/DT temporal/JJ convolution/NN operation/NN in/IN CNNs/NNS to/TO better/RBR adapt/VB it/PRP to/IN text/NN processing/NN ./.
+Instead/RB of/IN concatenating/VBG word/NN representations/NNS ,/, we/PRP appeal/VBP to/IN tensor/NNP algebra/NNP and/CC use/VB low/JJ -/HYPH rank/NN n/NN -/HYPH gram/NN tensors/NNS to/TO directly/RB exploit/VB interactions/NNS between/IN words/NNS already/RB at/IN the/DT convolution/NN stage/NN ./.
+Moreover/RB ,/, we/PRP extend/VBP the/DT n/NN -/HYPH gram/NN convolution/NN to/IN non-consecutive/JJ words/NNS to/TO recognize/VB patterns/NNS with/IN intervening/VBG words/NNS ./.
+Through/IN a/DT combination/NN of/IN low/JJ -/HYPH rank/NN tensors/NNS ,/, and/CC pattern/NN weighting/NN ,/, we/PRP can/MD efficiently/RB evaluate/VB the/DT resulting/VBG convolution/NN operation/NN via/IN dynamic/JJ programming/NN ./.
+We/PRP test/VBP the/DT resulting/VBG architecture/NN on/IN standard/JJ sentiment/NN classification/NN and/CC news/NN categorization/NN tasks/NNS ./.
+Our/PRP$ model/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN both/CC in/IN terms/NNS of/IN accuracy/NN and/CC training/NN speed/NN ./.
+For/IN instance/NN ,/, we/PRP obtain/VBP 51.4/CD percent/NN accuracy/NN on/IN the/DT fine/JJ -/HYPH grained/JJ sentiment/NN classification/NN task/NN ./.

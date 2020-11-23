@@ -1,0 +1,10 @@
+The/DT computation/NN and/CC storage/NN requirements/NNS for/IN Deep/JJ Neural/JJ Networks/NNS (/-LRB- DNNs/NNS )/-RRB- are/VBP usually/RB high/JJ ./.
+This/DT issue/NN limit/VB their/PRP$ deployability/NN on/IN ubiquitous/JJ computing/NN devices/NNS such/JJ as/IN smart/JJ phones/NNS or/CC wearables/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP ternary/JJ neural/JJ networks/NNS (/-LRB- TNNs/NNS )/-RRB- in/IN order/NN to/TO make/VB deep/JJ learning/VBG more/JJR resource/NN -/HYPH efficient/JJ ./.
+We/PRP train/VBP these/DT TNNs/NNS using/VBG a/DT teacher/NN -/HYPH student/NN approach/NN ./.
+Using/VBG only/RB ternary/JJ weights/NNS and/CC ternary/JJ neurons/NNS ,/, with/IN a/DT step/NN activation/NN function/NN of/IN two/CD -/HYPH thresholds/NNS ,/, the/DT student/NN ternary/JJ network/NN learns/VBZ to/TO mimic/VB the/DT behaviour/NN of/IN its/PRP$ teacher/NN network/NN ./.
+We/PRP propose/VBP a/DT novel/NN ,/, layer-wise/RB greedy/JJ methodology/NN for/IN training/NN TNNs/NNS ./.
+During/IN training/NN ,/, a/DT ternary/JJ neural/JJ network/NN inherently/RB prunes/VBZ the/DT smaller/JJR weights/NNS by/IN setting/VBG them/PRP to/IN zero/CD ./.
+This/DT makes/VBZ them/PRP even/RB more/RBR compact/JJ thus/RB more/JJR resource/NN -/HYPH friendly/JJ ./.
+We/PRP devise/VBP a/DT purpose/NN -/HYPH built/VBN hardware/NN design/NN for/IN TNNs/NNS and/CC implement/VB it/PRP on/IN FPGA/NNP ./.
+The/DT benchmark/NN results/VBZ with/IN our/PRP$ purpose/NN -/HYPH built/VBN hardware/NN running/VBG TNNs/NNS reveal/VBP that/IN ,/, with/IN only/RB 1.24/CD microjoules/NNS per/IN image/NN ,/, we/PRP can/MD achieve/VB 97.76/CD percent/NN accuracy/NN with/IN 5.37/CD microsecond/NN latency/NN and/CC with/IN a/DT rate/NN of/IN 255K/NN images/NNS per/IN second/NN on/IN MNIST/NNP ./.

@@ -1,0 +1,8 @@
+Functional/JJ neuroimaging/NN can/MD measure/VB the/DT brain?s/NNS response/NN to/IN an/DT external/JJ stimulus/NN ./.
+It/PRP is/VBZ used/VBN to/TO perform/VB brain/NN mapping/NN :/: identifying/VBG from/IN these/DT observations/NNS the/DT brain/NN regions/NNS involved/VBN ./.
+This/DT problem/NN can/MD be/VB cast/VBN into/IN a/DT linear/JJ supervised/JJ learning/NN task/NN where/WRB the/DT neuroimaging/NN data/NNS are/VBP used/VBN as/IN predictors/NNS for/IN the/DT stimulus/NN ./.
+Brain/NN mapping/NN is/VBZ then/RB seen/VBN as/IN a/DT support/NN recovery/NN problem/NN ./.
+On/IN functional/JJ MRI/NN (/-LRB- fMRI/NN )/-RRB- data/NNS ,/, this/DT problem/NN is/VBZ particularly/RB challenging/JJ as/IN i/PRP )/-RRB- the/DT number/NN of/IN samples/NNS is/VBZ small/JJ due/IN to/IN limited/JJ acquisition/NN time/NN and/CC ii/LS )/-RRB- the/DT variables/NNS are/VBP strongly/RB correlated/VBN ./.
+We/PRP propose/VBP to/TO overcome/VB these/DT difficulties/NNS using/VBG sparse/JJ regression/NN models/NNS over/IN new/JJ variables/NNS obtained/VBN by/IN clustering/NN of/IN the/DT original/JJ variables/NNS ./.
+The/DT use/NN of/IN randomization/NN techniques/NNS ,/, e.g./FW bootstrap/NN samples/NNS ,/, and/CC clustering/NN of/IN the/DT variables/NNS improves/VBZ the/DT recovery/NN properties/NNS of/IN sparse/JJ methods/NNS ./.
+We/PRP demonstrate/VBP the/DT benefit/NN of/IN our/PRP$ approach/NN on/IN an/DT extensive/JJ simulation/NN study/NN as/RB well/RB as/IN two/CD fMRI/NN datasets/NNS ./.

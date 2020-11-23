@@ -1,0 +1,5 @@
+Numerous/JJ important/JJ problems/NNS can/MD be/VB framed/VBN as/IN learning/VBG from/IN graph/NN data/NNS ./.
+We/PRP propose/VBP a/DT framework/NN for/IN learning/VBG convolutional/JJ neural/JJ networks/NNS for/IN arbitrary/JJ graphs/NNS ./.
+These/DT graphs/NNS may/MD be/VB undirected/JJ ,/, directed/VBN ,/, and/CC with/IN both/DT discrete/JJ and/CC continuous/JJ node/NN and/CC edge/NN attributes/NNS ./.
+Analogous/JJ to/IN image/NN -/HYPH based/VBN convolutional/JJ networks/NNS that/WDT operate/VBP on/IN locally/RB connected/VBN regions/NNS of/IN the/DT input/NN ,/, we/PRP present/VBP a/DT general/JJ approach/NN to/IN extracting/VBG locallyconnected/VBN regions/NNS from/IN graphs/NNS ./.
+Using/VBG established/VBN benchmark/NN data/NNS sets/NNS ,/, we/PRP demonstrate/VBP that/IN the/DT learned/VBN feature/NN representations/NNS are/VBP competitive/JJ with/IN state/NN of/IN the/DT art/NN graph/NN kernels/NNS and/CC that/IN their/PRP$ computation/NN is/VBZ highly/RB efficient/JJ ./.

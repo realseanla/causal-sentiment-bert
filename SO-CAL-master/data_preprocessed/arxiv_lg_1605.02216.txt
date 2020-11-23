@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT problem/NN of/IN how/WRB to/TO distribute/VB the/DT training/NN of/IN large/JJ -/HYPH scale/NN deep/JJ learning/NN models/NNS in/IN the/DT parallel/JJ computing/NN environment/NN ./.
+We/PRP propose/VBP a/DT new/JJ distributed/VBN stochastic/JJ optimization/NN method/NN called/VBN Elastic/NNP Averaging/VBG SGD/NNP (/-LRB- EASGD/NNP )/-RRB- ./.
+We/PRP analyze/VBP the/DT convergence/NN rate/NN of/IN the/DT EASGD/NN method/NN in/IN the/DT synchronous/JJ scenario/NN and/CC compare/VB its/PRP$ stability/NN condition/NN with/IN the/DT existing/VBG ADMM/NN method/NN in/IN the/DT round/NN -/HYPH robin/NN scheme/NN ./.
+An/DT asynchronous/JJ and/CC momentum/NN variant/NN of/IN the/DT EASGD/NN method/NN is/VBZ applied/VBN to/TO train/VB deep/JJ convolutional/JJ neural/JJ networks/NNS for/IN image/NN classification/NN on/IN the/DT CIFAR/NNP and/CC ImageNet/NNP datasets/NNS ./.
+Our/PRP$ approach/NN accelerates/VBZ the/DT training/NN and/CC furthermore/RB achieves/VBZ better/JJR test/NN accuracy/NN ./.
+It/PRP also/RB requires/VBZ a/DT much/RB smaller/JJR amount/NN of/IN communication/NN than/IN other/JJ common/JJ baseline/NN approaches/NNS such/JJ as/IN the/DT DOWNPOUR/NN method/NN ./.

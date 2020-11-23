@@ -1,0 +1,4 @@
+For/IN a/DT finite/JJ state/NN automaton/NN ,/, a/DT synchronizing/NN sequence/NN is/VBZ an/DT input/NN sequence/NN that/WDT takes/VBZ all/PDT the/DT states/NNS to/IN the/DT same/JJ state/NN ./.
+Checking/VBG the/DT existence/NN of/IN a/DT synchronizing/NN sequence/NN and/CC finding/VBG a/DT synchronizing/NN sequence/NN ,/, if/IN one/CD exists/VBZ ,/, can/MD be/VB performed/VBN in/IN polynomial/JJ time/NN ./.
+However/RB ,/, the/DT problem/NN of/IN finding/VBG a/DT shortest/JJS synchronizing/NN sequence/NN is/VBZ known/VBN to/TO be/VB NP/NNP -/HYPH hard/JJ ./.
+In/IN this/DT work/NN ,/, the/DT usefulness/NN of/IN Answer/NN Set/VBN Programming/NN to/TO solve/VB this/DT optimization/NN problem/NN is/VBZ investigated/VBN ,/, in/IN comparison/NN with/IN brute/JJ -/HYPH force/NN algorithms/NNS and/CC SAT/NN -/HYPH based/VBN approaches/NNS ./.

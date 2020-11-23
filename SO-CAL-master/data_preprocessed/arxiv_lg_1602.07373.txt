@@ -1,0 +1,8 @@
+Recently/RB ,/, the/DT deep/JJ neural/JJ network/NN (/-LRB- derived/VBN from/IN the/DT artificial/JJ neural/JJ network/NN )/-RRB- has/VBZ attracted/VBN many/JJ researchers/NNS '/POS attention/NN by/IN its/PRP$ outstanding/JJ performance/NN ./.
+However/RB ,/, since/IN this/DT network/NN requires/VBZ high/JJ -/HYPH performance/NN GPUs/NNS and/CC large/JJ storage/NN ,/, it/PRP is/VBZ very/RB hard/JJ to/TO use/VB it/PRP on/IN individual/JJ devices/NNS ./.
+In/IN order/NN to/TO improve/VB the/DT deep/JJ neural/JJ network/NN ,/, many/JJ trials/NNS have/VBP been/VBN made/VBN by/IN refining/VBG the/DT network/NN structure/NN or/CC training/NN strategy/NN ./.
+Unlike/IN those/DT trials/NNS ,/, in/IN this/DT paper/NN ,/, we/PRP focused/VBD on/IN the/DT basic/JJ propagation/NN function/NN of/IN the/DT artificial/JJ neural/JJ network/NN and/CC proposed/VBD the/DT binarized/VBN deep/JJ neural/JJ network/NN ./.
+This/DT network/NN is/VBZ a/DT pure/JJ binary/JJ system/NN ,/, in/IN which/WDT all/PDT the/DT values/NNS and/CC calculations/NNS are/VBP binarized/VBN ./.
+As/IN a/DT result/NN ,/, our/PRP$ network/NN can/MD save/VB a/DT lot/NN of/IN computational/JJ resource/NN and/CC storage/NN ./.
+Therefore/RB ,/, it/PRP is/VBZ possible/JJ to/TO use/VB it/PRP on/IN various/JJ devices/NNS ./.
+Moreover/RB ,/, the/DT experimental/JJ results/NNS proved/VBD the/DT feasibility/NN of/IN the/DT proposed/VBN network/NN ./.

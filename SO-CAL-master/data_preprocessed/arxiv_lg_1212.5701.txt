@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT novel/NN per/IN -/HYPH dimension/NN learning/NN rate/NN method/NN for/IN gradient/NN descent/NN called/VBN ADADELTA/NNP ./.
+The/DT method/NN dynamically/RB adapts/VBZ over/IN time/NN using/VBG only/RB first/JJ order/NN information/NN and/CC has/VBZ minimal/JJ computational/JJ overhead/NN beyond/IN vanilla/NN stochastic/JJ gradient/NN descent/NN ./.
+The/DT method/NN requires/VBZ no/DT manual/JJ tuning/NN of/IN a/DT learning/NN rate/NN and/CC appears/VBZ robust/JJ to/IN noisy/JJ gradient/NN information/NN ,/, different/JJ model/NN architecture/NN choices/NNS ,/, various/JJ data/NNS modalities/NNS and/CC selection/NN of/IN hyperparameters/NNS ./.
+We/PRP show/VBP promising/JJ results/NNS compared/VBN to/IN other/JJ methods/NNS on/IN the/DT MNIST/NNP digit/NN classification/NN task/NN using/VBG a/DT single/JJ machine/NN and/CC on/IN a/DT large/JJ scale/NN voice/NN dataset/NN in/IN a/DT distributed/VBN cluster/NN environment/NN ./.

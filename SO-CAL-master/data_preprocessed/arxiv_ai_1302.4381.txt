@@ -1,0 +1,9 @@
+Bayesian/JJ networks/NNS leverage/NN conditional/JJ independence/NN to/IN compactly/RB encode/VBP joint/JJ probability/NN distributions/NNS ./.
+Many/JJ learning/NN algorithms/NNS exploit/VBP the/DT constraints/NNS implied/VBN by/IN observed/VBN conditional/JJ independencies/NNS to/TO learn/VB the/DT structure/NN of/IN Bayesian/JJ networks/NNS ./.
+The/DT rules/NNS of/IN d/NN -/HYPH separation/NN provide/VBP a/DT theoretical/JJ and/CC algorithmic/JJ framework/NN for/IN deriving/VBG conditional/JJ independence/NN facts/NNS from/IN model/NN structure/NN ./.
+However/RB ,/, this/DT theory/NN only/RB applies/VBZ to/IN Bayesian/JJ networks/NNS ./.
+Many/JJ real/JJ -/HYPH world/NN systems/NNS ,/, such/JJ as/IN social/JJ or/CC economic/JJ systems/NNS ,/, are/VBP characterized/VBN by/IN interacting/VBG heterogeneous/JJ entities/NNS and/CC probabilistic/JJ dependencies/NNS that/WDT cross/VBP the/DT boundaries/NNS of/IN entities/NNS ./.
+Consequently/RB ,/, researchers/NNS have/VBP developed/VBN extensions/NNS to/IN Bayesian/JJ networks/NNS that/WDT can/MD represent/VB these/DT relational/JJ dependencies/NNS ./.
+We/PRP show/VBP that/IN the/DT theory/NN of/IN d/NN -/HYPH separation/NN inaccurately/RB infers/VBZ conditional/JJ independence/NN when/WRB applied/VBN directly/RB to/IN the/DT structure/NN of/IN probabilistic/JJ models/NNS of/IN relational/JJ data/NNS ./.
+We/PRP introduce/VBP relational/JJ d/NN -/HYPH separation/NN ,/, a/DT theory/NN for/IN deriving/VBG conditional/JJ independence/NN facts/NNS from/IN relational/JJ models/NNS ./.
+We/PRP provide/VBP a/DT new/JJ representation/NN ,/, the/DT abstract/JJ ground/NN graph/NN ,/, that/IN enables/VBZ a/DT sound/NN ,/, complete/JJ ,/, and/CC computationally/RB efficient/JJ method/NN for/IN answering/VBG d/NN -/HYPH separation/NN queries/NNS about/IN relational/JJ models/NNS ,/, and/CC we/PRP present/VBP empirical/JJ results/NNS that/WDT demonstrate/VBP effectiveness/NN ./.

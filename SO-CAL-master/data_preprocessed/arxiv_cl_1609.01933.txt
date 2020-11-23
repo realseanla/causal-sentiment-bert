@@ -1,0 +1,6 @@
+Sentiment/NN analysis/NN of/IN reviews/NNS is/VBZ a/DT popular/JJ task/NN in/IN natural/JJ language/NN processing/NN ./.
+In/IN this/DT work/NN ,/, the/DT goal/NN is/VBZ to/TO predict/VB the/DT score/NN of/IN food/NN reviews/NNS on/IN a/DT scale/NN of/IN 1/CD to/IN 5/CD with/IN two/CD recurrent/JJ neural/JJ networks/NNS that/WDT are/VBP carefully/RB tuned/VBN ./.
+As/IN for/IN baseline/NN ,/, we/PRP train/VBP a/DT simple/JJ RNN/NN for/IN classification/NN ./.
+Then/RB we/PRP extend/VBP the/DT baseline/NN to/IN GRU/NNP ./.
+In/IN addition/NN ,/, we/PRP present/VBP two/CD different/JJ methods/NNS to/TO deal/VB with/IN highly/RB skewed/JJ data/NNS ,/, which/WDT is/VBZ a/DT common/JJ problem/NN for/IN reviews/NNS ./.
+Models/NNS are/VBP evaluated/VBN using/VBG accuracies/NNS ./.

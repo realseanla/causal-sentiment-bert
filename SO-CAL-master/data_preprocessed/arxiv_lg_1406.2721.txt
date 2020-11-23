@@ -1,0 +1,7 @@
+Gaussian/JJ graphical/JJ models/NNS (/-LRB- GGM/NN )/-RRB- have/VBP been/VBN widely/RB used/VBN in/IN many/JJ high/JJ -/HYPH dimensional/JJ applications/NNS ranging/VBG from/IN biological/JJ and/CC financial/JJ data/NNS to/IN recommender/NN systems/NNS ./.
+Sparsity/NN in/IN GGM/NN plays/VBZ a/DT central/JJ role/NN both/CC statistically/RB and/CC computationally/RB ./.
+Unfortunately/RB ,/, real/JJ -/HYPH world/NN data/NNS often/RB does/VBZ not/RB fit/VB well/RB to/IN sparse/JJ graphical/JJ models/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN a/DT family/NN of/IN latent/JJ variable/JJ Gaussian/JJ graphical/JJ models/NNS (/-LRB- LVGGM/NNP )/-RRB- ,/, where/WRB the/DT model/NN is/VBZ conditionally/RB sparse/JJ given/VBN latent/NN variables/NNS ,/, but/CC marginally/RB non-sparse/JJ ./.
+In/IN LVGGM/NNP ,/, the/DT inverse/JJ covariance/NN matrix/NN has/VBZ a/DT low/JJ -/HYPH rank/NN plus/CC sparse/JJ structure/NN ,/, and/CC can/MD be/VB learned/VBN in/IN a/DT regularized/VBN maximum/JJ likelihood/NN framework/NN ./.
+We/PRP derive/VBP novel/JJ parameter/NN estimation/NN error/NN bounds/NNS for/IN LVGGM/NNP under/IN mild/JJ conditions/NNS in/IN the/DT high/JJ -/HYPH dimensional/JJ setting/NN ./.
+These/DT results/NNS complement/VBP the/DT existing/VBG theory/NN on/IN the/DT structural/JJ learning/NN ,/, and/CC open/VB up/RP new/JJ possibilities/NNS of/IN using/VBG LVGGM/NNP for/IN statistical/JJ inference/NN ./.

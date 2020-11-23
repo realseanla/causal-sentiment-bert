@@ -1,0 +1,8 @@
+Transfer/NN and/CC multi-task/VB learning/NN have/VBP traditionally/RB focused/VBN on/IN either/CC a/DT single/JJ source/NN -/HYPH target/NN pair/NN or/CC very/RB few/JJ ,/, similar/JJ tasks/NNS ./.
+Ideally/RB ,/, the/DT linguistic/JJ levels/NNS of/IN morphology/NN ,/, syntax/NN and/CC semantics/NNS would/MD benefit/VB each/DT other/JJ by/IN being/VBG trained/VBN in/IN a/DT single/JJ model/NN ./.
+We/PRP introduce/VBP such/PDT a/DT joint/NN many/JJ -/HYPH task/NN model/NN together/RB with/IN a/DT strategy/NN for/IN successively/RB growing/VBG its/PRP$ depth/NN to/TO solve/VB increasingly/RB complex/JJ tasks/NNS ./.
+All/DT layers/NNS include/VBP shortcut/NN connections/NNS to/IN both/DT word/NN representations/NNS and/CC lower/JJR -/HYPH level/NN task/NN predictions/NNS ./.
+We/PRP use/VBP a/DT simple/JJ regularization/NN term/NN to/TO allow/VB for/IN optimizing/VBG all/DT model/NN weights/NNS to/TO improve/VB one/CD task/NN 's/POS loss/NN without/IN exhibiting/VBG catastrophic/JJ interference/NN of/IN the/DT other/JJ tasks/NNS ./.
+Our/PRP$ single/JJ end/NN -/HYPH to/IN -/HYPH end/NN trainable/JJ model/NN obtains/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN chunking/VBG ,/, dependency/NN parsing/VBG ,/, semantic/JJ relatedness/NN and/CC textual/JJ entailment/NN ./.
+It/PRP also/RB performs/VBZ competitively/RB on/IN POS/NN tagging/NN ./.
+Our/PRP$ dependency/NN parsing/VBG layer/NN relies/VBZ only/RB on/IN a/DT single/JJ feed/NN -/HYPH forward/JJ pass/NN and/CC does/VBZ not/RB require/VB a/DT beam/NN search/NN ./.

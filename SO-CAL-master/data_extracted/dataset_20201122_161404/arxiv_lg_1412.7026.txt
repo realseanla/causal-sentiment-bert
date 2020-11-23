@@ -1,0 +1,8 @@
+Random Indexing is a simple implementation of Random Projections with a wide range of applications.
+It can solve a variety of problems with good accuracy without introducing much complexity.
+Here we use it for identifying the language of text samples.
+We present a novel method of generating language representation vectors using letter blocks.
+Further, we show that the method is easily implemented and requires little computational power and space.
+Experiments on a number of model parameters illustrate certain properties about high dimensional sparse vector representations of data.
+Proof of statistically relevant language vectors are shown through the extremely high success of various language recognition tasks.
+On a difficult data set of 21,000 short sentences from 21 different languages, our model performs a language recognition task and achieves 97.8 percent accuracy, comparable to state-of-the-art methods.

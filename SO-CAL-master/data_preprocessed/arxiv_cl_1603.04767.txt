@@ -1,0 +1,5 @@
+Named/VBN Entity/NNP Disambiguation/NNP (/-LRB- NED/NNP )/-RRB- is/VBZ the/DT task/NN of/IN linking/VBG a/DT named/VBN -/HYPH entity/NN mention/NN to/IN an/DT instance/NN in/IN a/DT knowledge/NN -/HYPH base/NN ,/, typically/RB Wikipedia/NNP ./.
+This/DT task/NN is/VBZ closely/RB related/VBN to/IN word/NN -/HYPH sense/NN disambiguation/NN (/-LRB- WSD/NN )/-RRB- ,/, where/WRB the/DT supervised/JJ word/NN -/HYPH expert/NN approach/NN has/VBZ prevailed/VBN ./.
+In/IN this/DT work/NN we/PRP present/VBP the/DT results/NNS of/IN the/DT word/NN -/HYPH expert/NN approach/NN to/IN NED/NNP ,/, where/WRB one/CD classifier/NN is/VBZ built/VBN for/IN each/DT target/NN entity/NN mention/NN string/NN ./.
+The/DT resources/NNS necessary/JJ to/TO build/VB the/DT system/NN ,/, a/DT dictionary/NN and/CC a/DT set/NN of/IN training/NN instances/NNS ,/, have/VBP been/VBN automatically/RB derived/VBN from/IN Wikipedia/NNP ./.
+We/PRP provide/VBP empirical/JJ evidence/NN of/IN the/DT value/NN of/IN this/DT approach/NN ,/, as/RB well/RB as/IN a/DT study/NN of/IN the/DT differences/NNS between/IN WSD/NNP and/CC NED/NNP ,/, including/VBG ambiguity/NN and/CC synonymy/NN statistics/NNS ./.

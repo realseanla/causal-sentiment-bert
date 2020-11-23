@@ -1,0 +1,5 @@
+Prosody/NNP affects/VBZ the/DT naturalness/NN and/CC intelligibility/NN of/IN speech/NN ./.
+However/RB ,/, automatic/JJ prosody/NN prediction/NN from/IN text/NN for/IN Chinese/JJ speech/NN synthesis/NN is/VBZ still/RB a/DT great/JJ challenge/NN and/CC the/DT traditional/JJ conditional/JJ random/JJ fields/NNS (/-LRB- CRF/NNP )/-RRB- based/VBN method/NN always/RB heavily/RB relies/VBZ on/IN feature/NN engineering/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO use/VB neural/JJ networks/NNS to/TO predict/VB prosodic/JJ boundary/NN labels/NNS directly/RB from/IN Chinese/JJ characters/NNS without/IN any/DT feature/NN engineering/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN stacking/VBG feed/NN -/HYPH forward/NN and/CC bidirectional/JJ long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- BLSTM/NN )/-RRB- recurrent/JJ network/NN layers/NNS achieves/VBZ superior/JJ performance/NN over/IN the/DT CRF/NNP -/HYPH based/VBN method/NN ./.
+The/DT embedding/NN features/VBZ learned/VBN from/IN raw/JJ text/NN further/RBR enhance/VB the/DT performance/NN ./.

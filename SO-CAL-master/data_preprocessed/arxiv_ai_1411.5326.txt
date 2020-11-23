@@ -1,0 +1,7 @@
+This/DT paper/NN describes/VBZ a/DT new/JJ information/NN -/HYPH theoretic/JJ policy/NN evaluation/NN technique/NN for/IN reinforcement/NN learning/NN ./.
+This/DT technique/NN converts/VBZ any/DT compression/NN or/CC density/NN model/NN into/IN a/DT corresponding/VBG estimate/NN of/IN value/NN ./.
+Under/IN appropriate/JJ stationarity/NN and/CC ergodicity/NN conditions/NNS ,/, we/PRP show/VBP that/IN the/DT use/NN of/IN a/DT sufficiently/RB powerful/JJ model/NN gives/VBZ rise/NN to/IN a/DT consistent/JJ value/NN function/NN estimator/NN ./.
+We/PRP also/RB study/VB the/DT behavior/NN of/IN this/DT technique/NN when/WRB applied/VBN to/IN various/JJ Atari/NNP 2600/CD video/NN games/NNS ,/, where/WRB the/DT use/NN of/IN suboptimal/JJ modeling/NN techniques/NNS is/VBZ unavoidable/JJ ./.
+We/PRP consider/VBP three/CD fundamentally/RB different/JJ models/NNS ,/, all/DT too/RB limited/JJ to/IN perfectly/RB model/NN the/DT dynamics/NNS of/IN the/DT system/NN ./.
+Remarkably/RB ,/, we/PRP find/VBP that/IN our/PRP$ technique/NN provides/VBZ sufficiently/RB accurate/JJ value/NN estimates/VBZ for/IN effective/JJ on/IN -/HYPH policy/NN control/NN ./.
+We/PRP conclude/VBP with/IN a/DT suggestive/JJ study/NN highlighting/VBG the/DT potential/NN of/IN our/PRP$ technique/NN to/TO scale/VB to/IN large/JJ problems/NNS ./.

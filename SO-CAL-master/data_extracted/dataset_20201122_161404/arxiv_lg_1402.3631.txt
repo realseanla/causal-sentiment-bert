@@ -1,0 +1,3 @@
+In this paper, we initiate the systematic study of solving linear programs under differential privacy.
+The first step is simply to define the problem: to this end, we introduce several natural classes of private linear programs that capture different ways sensitive data can be incorporated into a linear program.
+For each class of linear programs we give an efficient, differentially private solver based on the multiplicative weights framework, or we give an impossibility result.

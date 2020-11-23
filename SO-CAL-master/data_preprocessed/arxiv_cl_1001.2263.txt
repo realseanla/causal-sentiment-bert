@@ -1,0 +1,9 @@
+In/IN recent/JJ decades/NNS ,/, Speech/NNP interactive/JJ systems/NNS gained/VBD increasing/VBG importance/NN ./.
+To/TO develop/VB Dictation/NN System/NN like/IN Dragon/NNP for/IN Indian/JJ languages/NNS it/PRP is/VBZ most/RBS important/JJ to/TO adapt/VB the/DT system/NN to/IN a/DT speaker/NN with/IN minimum/JJ training/NN ./.
+In/IN this/DT paper/NN we/PRP focus/VBP on/IN the/DT importance/NN of/IN creating/VBG speech/NN database/NN at/IN syllable/NN units/NNS and/CC identifying/VBG minimum/JJ text/NN to/TO be/VB considered/VBN while/IN training/VBG any/DT speech/NN recognition/NN system/NN ./.
+There/EX are/VBP systems/NNS developed/VBN for/IN continuous/JJ speech/NN recognition/NN in/IN English/NNP and/CC in/IN few/JJ Indian/JJ languages/NNS like/IN Hindi/NNP and/CC Tamil/NNP ./.
+This/DT paper/NN gives/VBZ the/DT statistical/JJ details/NNS of/IN syllables/NNS in/IN Telugu/NNP and/CC its/PRP$ use/NN in/IN minimizing/VBG the/DT search/NN space/NN during/IN recognition/NN of/IN speech/NN ./.
+The/DT minimum/JJ words/NNS that/WDT cover/VBP maximum/JJ syllables/NNS are/VBP identified/VBN ./.
+This/DT words/NNS list/NN can/MD be/VB used/VBN for/IN preparing/VBG a/DT small/JJ text/NN which/WDT can/MD be/VB used/VBN for/IN collecting/VBG speech/NN sample/NN while/IN training/VBG the/DT dictation/NN system/NN ./.
+The/DT results/NNS are/VBP plotted/VBN for/IN frequency/NN of/IN syllables/NNS and/CC the/DT number/NN of/IN syllables/NNS in/IN each/DT word/NN ./.
+This/DT approach/NN is/VBZ applied/VBN on/IN the/DT CIIL/NNP Mysore/NNP text/NN corpus/NN which/WDT is/VBZ of/IN 3/CD million/CD words/NNS ./.

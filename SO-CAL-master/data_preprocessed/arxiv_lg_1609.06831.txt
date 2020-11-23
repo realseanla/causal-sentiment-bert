@@ -1,0 +1,7 @@
+We/PRP propose/VBP an/DT extension/NN to/IN Hawkes/NNP processes/NNS by/IN treating/VBG the/DT levels/NNS of/IN self/NN -/HYPH excitation/NN as/IN a/DT stochastic/JJ differential/JJ equation/NN ./.
+Our/PRP$ new/JJ point/NN process/NN allows/VBZ better/JJR approximation/NN in/IN application/NN domains/NNS where/WRB events/NNS and/CC intensities/NNS accelerate/VB each/DT other/JJ with/IN correlated/VBN levels/NNS of/IN contagion/NN ./.
+We/PRP generalize/VBP a/DT recent/JJ algorithm/NN for/IN simulating/VBG draws/VBZ from/IN Hawkes/NNP processes/NNS whose/WP$ levels/NNS of/IN excitation/NN are/VBP stochastic/JJ processes/NNS ,/, and/CC propose/VB a/DT hybrid/NN Markov/NNP chain/NN Monte/NNP Carlo/NNP approach/NN for/IN model/NN fitting/NN ./.
+Our/PRP$ sampling/NN procedure/NN scales/NNS linearly/RB with/IN the/DT number/NN of/IN required/JJ events/NNS and/CC does/VBZ not/RB require/VB stationarity/NN of/IN the/DT point/NN process/NN ./.
+A/DT modular/JJ inference/NN procedure/NN consisting/VBG of/IN a/DT combination/NN between/IN Gibbs/NNP and/CC Metropolis/NNP Hastings/NNP steps/NNS is/VBZ put/VBN forward/RB ./.
+We/PRP recover/VBP expectation/NN maximization/NN as/IN a/DT special/JJ case/NN ./.
+Our/PRP$ general/JJ approach/NN is/VBZ illustrated/VBN for/IN contagion/NN following/VBG geometric/JJ Brownian/NN motion/NN and/CC exponential/JJ Langevin/NNP dynamics/NNS ./.

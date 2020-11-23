@@ -1,0 +1,7 @@
+The/DT Kaldi/NNP toolkit/NN is/VBZ becoming/VBG popular/JJ for/IN constructing/VBG automated/VBN speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- systems/NNS ./.
+Meanwhile/RB ,/, in/IN recent/JJ years/NNS ,/, deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- have/VBP shown/VBN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN various/JJ ASR/NNP tasks/NNS ./.
+This/DT document/NN describes/VBZ our/PRP$ open/JJ -/HYPH source/NN recipes/NNS to/TO implement/VB fully/RB -/HYPH fledged/JJ DNN/NN acoustic/JJ modeling/NN using/VBG Kaldi/NNP and/CC PDNN/NNP ./.
+PDNN/NN is/VBZ a/DT lightweight/JJ deep/JJ learning/NN toolkit/NN developed/VBN under/IN the/DT Theano/NNP environment/NN ./.
+Using/VBG these/DT recipes/NNS ,/, we/PRP can/MD build/VB up/RP multiple/JJ systems/NNS including/VBG DNN/NNP hybrid/NN systems/NNS ,/, convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- systems/NNS and/CC bottleneck/NN feature/NN systems/NNS ./.
+These/DT recipes/NNS are/VBP directly/RB based/VBN on/IN the/DT Kaldi/NNP Switchboard/NN 110/CD -/HYPH hour/NN setup/NN ./.
+However/RB ,/, adapting/VBG them/PRP to/IN new/JJ datasets/NNS is/VBZ easy/JJ to/TO achieve/VB ./.

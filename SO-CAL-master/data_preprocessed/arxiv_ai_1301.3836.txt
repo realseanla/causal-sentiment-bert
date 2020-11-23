@@ -1,0 +1,6 @@
+Planning/VBG for/IN distributed/VBN agents/NNS with/IN partial/JJ state/NN information/NN is/VBZ considered/VBN from/IN a/DT decision/NN -/HYPH theoretic/JJ perspective/NN ./.
+We/PRP describe/VBP generalizations/NNS of/IN both/CC the/DT MDP/NN and/CC POMDP/NN models/NNS that/WDT allow/VBP for/IN decentralized/VBN control/NN ./.
+For/IN even/RB a/DT small/JJ number/NN of/IN agents/NNS ,/, the/DT finite/NN -/HYPH horizon/NN problems/NNS corresponding/VBG to/IN both/DT of/IN our/PRP$ models/NNS are/VBP complete/JJ for/IN nondeterministic/JJ exponential/JJ time/NN ./.
+These/DT complexity/NN results/VBZ illustrate/VBP a/DT fundamental/JJ difference/NN between/IN centralized/JJ and/CC decentralized/JJ control/NN of/IN Markov/NNP processes/NNS ./.
+In/IN contrast/NN to/IN the/DT MDP/NNP and/CC POMDP/NN problems/NNS ,/, the/DT problems/NNS we/PRP consider/VBP provably/RB do/VB not/RB admit/VB polynomial/JJ -/HYPH time/NN algorithms/NNS and/CC most/RBS likely/JJ require/VBP doubly/RB exponential/JJ time/NN to/TO solve/VB in/IN the/DT worst/JJS case/NN ./.
+We/PRP have/VBP thus/RB provided/VBN mathematical/JJ evidence/NN corresponding/VBG to/IN the/DT intuition/NN that/WDT decentralized/VBD planning/NN problems/NNS can/MD not/RB easily/RB be/VB reduced/VBN to/IN centralized/JJ problems/NNS and/CC solved/VBN exactly/RB using/VBG established/VBN techniques/NNS ./.

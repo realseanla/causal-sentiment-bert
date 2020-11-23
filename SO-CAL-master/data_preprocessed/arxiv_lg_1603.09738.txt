@@ -1,0 +1,7 @@
+Uplift/NNP modeling/NN is/VBZ a/DT machine/NN learning/VBG technique/NN that/WDT aims/VBZ to/TO model/VB treatment/NN effects/NNS heterogeneity/NN ./.
+It/PRP has/VBZ been/VBN used/VBN in/IN business/NN and/CC health/NN sectors/NNS to/TO predict/VB the/DT effect/NN of/IN a/DT specific/JJ action/NN on/IN a/DT given/VBN individual/NN ./.
+Despite/IN its/PRP$ advantages/NNS ,/, uplift/NN models/NNS show/VBP high/JJ sensitivity/NN to/IN noise/NN and/CC disturbance/NN ,/, which/WDT leads/VBZ to/IN unreliable/JJ results/NNS ./.
+In/IN this/DT paper/NN we/PRP show/VBP different/JJ approaches/NNS to/TO address/VB the/DT problem/NN of/IN uplift/NN modeling/NN ,/, we/PRP demonstrate/VBP how/WRB disturbance/NN in/IN data/NNS can/MD affect/VB uplift/JJ measurement/NN ./.
+We/PRP propose/VBP a/DT new/JJ approach/NN ,/, we/PRP call/VBP it/PRP Pessimistic/JJ Uplift/NNP Modeling/VBG ,/, that/IN minimizes/VBZ disturbance/NN effects/NNS ./.
+We/PRP compared/VBD our/PRP$ approach/NN with/IN the/DT existing/VBG uplift/NN methods/NNS ,/, on/IN simulated/JJ and/CC real/JJ data/NN -/HYPH sets/NNS ./.
+The/DT experiments/NNS show/VBP that/IN our/PRP$ approach/NN outperforms/VBZ the/DT existing/VBG approaches/NNS ,/, especially/RB in/IN the/DT case/NN of/IN high/JJ noise/NN data/NNS environment/NN ./.

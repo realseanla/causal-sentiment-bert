@@ -1,0 +1,4 @@
+In this paper we propose a graph-community detection approach to identify cross-document relationships at the topic segment level.
+Given a set of related documents, we automatically find these relationships by clustering segments with similar content (topics).
+In this context, we study how different weighting mechanisms influence the discovery of word communities that relate to the different topics found in the documents.
+Finally, we test different mapping functions to assign topic segments to word communities, determining which topic segments are considered equivalent.

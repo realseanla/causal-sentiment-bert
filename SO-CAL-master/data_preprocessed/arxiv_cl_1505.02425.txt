@@ -1,0 +1,6 @@
+In/IN recent/JJ years/NNS ,/, There/EX has/VBZ been/VBN a/DT variety/NN of/IN research/NN on/IN discourse/NN parsing/VBG ,/, particularly/RB RST/NN discourse/NN parsing/VBG ./.
+Most/JJS of/IN the/DT recent/JJ work/NN on/IN RST/NNP parsing/VBG has/VBZ focused/VBN on/IN implementing/VBG new/JJ types/NNS of/IN features/NNS or/CC learning/VBG algorithms/NNS in/IN order/NN to/TO improve/VB accuracy/NN ,/, with/IN relatively/RB little/JJ focus/NN on/IN efficiency/NN ,/, robustness/NN ,/, or/CC practical/JJ use/NN ./.
+Also/RB ,/, most/JJS implementations/NNS are/VBP not/RB widely/RB available/JJ ./.
+Here/RB ,/, we/PRP describe/VBP an/DT RST/NN segmentation/NN and/CC parsing/VBG system/NN that/WDT adapts/VBZ models/NNS and/CC feature/NN sets/NNS from/IN various/JJ previous/JJ work/NN ,/, as/IN described/VBN below/RB ./.
+Its/PRP$ accuracy/NN is/VBZ near/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ,/, and/CC it/PRP was/VBD developed/VBN to/TO be/VB fast/RB ,/, robust/JJ ,/, and/CC practical/JJ ./.
+For/IN example/NN ,/, it/PRP can/MD process/VB short/JJ documents/NNS such/JJ as/IN news/NN articles/NNS or/CC essays/NNS in/IN less/JJR than/IN a/DT second/JJ ./.

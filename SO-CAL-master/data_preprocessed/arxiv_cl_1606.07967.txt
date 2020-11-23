@@ -1,0 +1,8 @@
+Training/VBG statistical/JJ dialog/NN models/NNS in/IN spoken/VBN dialog/NN systems/NNS (/-LRB- SDS/NN )/-RRB- requires/VBZ large/JJ amounts/NNS of/IN annotated/VBN data/NNS ./.
+The/DT lack/NN of/IN scalable/JJ methods/NNS for/IN data/NNS mining/NN and/CC annotation/NN poses/VBZ a/DT significant/JJ hurdle/NN for/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN statistical/JJ dialog/NN managers/NNS ./.
+This/DT paper/NN presents/VBZ an/DT approach/NN that/WDT directly/RB leverage/VBP billions/NNS of/IN web/NN search/NN and/CC browse/VB sessions/NNS to/TO overcome/VB this/DT hurdle/NN ./.
+The/DT key/JJ insight/NN is/VBZ that/IN task/NN completion/NN through/IN web/NN search/NN and/CC browse/VB sessions/NNS is/VBZ (/-LRB- a/DT )/-RRB- predictable/JJ and/CC (/-LRB- b/LS )/-RRB- generalizes/VBZ to/IN spoken/VBN dialog/NN task/NN completion/NN ./.
+The/DT new/JJ method/NN automatically/RB mines/NNS behavioral/JJ search/NN and/CC browse/VB patterns/NNS from/IN web/NN logs/NNS and/CC translates/VBZ them/PRP into/IN spoken/VBN dialog/NN models/NNS ./.
+We/PRP experiment/VBP with/IN naturally/RB occurring/VBG spoken/VBN dialogs/NNS and/CC large/JJ scale/NN web/NN logs/NNS ./.
+Our/PRP$ session/NN -/HYPH based/VBN models/NNS outperform/VBP the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN method/NN for/IN entity/NN extraction/NN task/NN in/IN SDS/NN ./.
+We/PRP also/RB achieve/VB better/JJR performance/NN for/IN both/DT entity/NN and/CC relation/NN extraction/NN on/IN web/NN search/NN queries/NNS when/WRB compared/VBN with/IN nontrivial/JJ baselines/NNS ./.

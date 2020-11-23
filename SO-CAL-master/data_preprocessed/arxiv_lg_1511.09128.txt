@@ -1,0 +1,10 @@
+This/DT paper/NN considers/VBZ Aspect/NN -/HYPH based/VBN Opinion/NNP Summarization/NNP (/-LRB- AOS/NNP )/-RRB- of/IN reviews/NNS on/IN particular/JJ products/NNS ./.
+To/TO enable/VB real/JJ applications/NNS ,/, an/DT AOS/NN system/NN needs/VBZ to/TO address/VB two/CD core/NN subtasks/NNS ,/, aspect/NN extraction/NN and/CC sentiment/NN classification/NN ./.
+Most/JJS existing/VBG approaches/NNS to/IN aspect/NN extraction/NN ,/, which/WDT use/VBP linguistic/JJ analysis/NN or/CC topic/NN modeling/NN ,/, are/VBP general/JJ across/IN different/JJ products/NNS but/CC not/RB precise/JJ enough/RB or/CC suitable/JJ for/IN particular/JJ products/NNS ./.
+Instead/RB we/PRP take/VBP a/DT less/RBR general/JJ but/CC more/RBR precise/JJ scheme/NN ,/, directly/RB mapping/VBG each/DT review/NN sentence/NN into/IN pre-defined/JJ aspects/NNS ./.
+To/TO tackle/VB aspect/NN mapping/NN and/CC sentiment/NN classification/NN ,/, we/PRP propose/VBP two/CD Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- based/VBN methods/NNS ,/, cascaded/VBN CNN/NNP and/CC multitask/VB CNN/NNP ./.
+Cascaded/VBN CNN/NNP contains/VBZ two/CD levels/NNS of/IN convolutional/JJ networks/NNS ./.
+Multiple/JJ CNNs/NNS at/IN level/NN 1/CD deal/NN with/IN aspect/NN mapping/NN task/NN ,/, and/CC a/DT single/JJ CNN/NNP at/IN level/NN 2/CD deals/NNS with/IN sentiment/NN classification/NN ./.
+Multitask/NNP CNN/NNP also/RB contains/VBZ multiple/JJ aspect/NN CNNs/NNS and/CC a/DT sentiment/NN CNN/NNP ,/, but/CC different/JJ networks/NNS share/VBP the/DT same/JJ word/NN embeddings/NNS ./.
+Experimental/JJ results/NNS indicate/VBP that/IN both/DT cascaded/JJ and/CC multitask/JJ CNNs/NNS outperform/VBP SVM/NN -/HYPH based/VBN methods/NNS by/IN large/JJ margins/NNS ./.
+Multitask/NNP CNN/NNP generally/RB performs/VBZ better/JJR than/IN cascaded/VBN CNN/NNP ./.

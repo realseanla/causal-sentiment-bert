@@ -1,0 +1,7 @@
+Most/JJS current/JJ planners/NNS assume/VBP complete/JJ domain/NN models/NNS and/CC focus/VB on/IN generating/VBG correct/JJ plans/NNS ./.
+Unfortunately/RB ,/, domain/NN modeling/NN is/VBZ a/DT laborious/JJ and/CC error/NN -/HYPH prone/JJ task/NN ./.
+While/IN domain/NN experts/NNS can/MD not/RB guarantee/VB completeness/NN ,/, often/RB they/PRP are/VBP able/JJ to/TO circumscribe/VB the/DT incompleteness/NN of/IN the/DT model/NN by/IN providing/VBG annotations/NNS as/IN to/IN which/WDT parts/NNS of/IN the/DT domain/NN model/NN may/MD be/VB incomplete/JJ ./.
+In/IN such/JJ cases/NNS ,/, the/DT goal/NN should/MD be/VB to/TO generate/VB plans/NNS that/WDT are/VBP robust/JJ with/IN respect/NN to/IN any/DT known/JJ incompleteness/NN of/IN the/DT domain/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP first/RB introduce/VB annotations/NNS expressing/VBG the/DT knowledge/NN of/IN the/DT domain/NN incompleteness/NN ,/, and/CC formalize/VB the/DT notion/NN of/IN plan/NN robustness/NN with/IN respect/NN to/IN an/DT incomplete/JJ domain/NN model/NN ./.
+We/PRP then/RB propose/VB an/DT approach/NN to/IN compiling/VBG the/DT problem/NN of/IN finding/VBG robust/JJ plans/NNS to/IN the/DT conformant/JJ probabilistic/JJ planning/NN problem/NN ./.
+We/PRP present/VBP experimental/JJ results/NNS with/IN Probabilistic/JJ -/HYPH FF/NN ,/, a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN planner/NN ,/, showing/VBG the/DT promise/NN of/IN our/PRP$ approach/NN ./.

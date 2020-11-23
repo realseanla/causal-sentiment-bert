@@ -1,0 +1,11 @@
+Due/IN to/IN dynamic/JJ network/NN conditions/NNS ,/, routing/NN is/VBZ the/DT most/RBS critical/JJ part/NN in/IN WMNs/NNS and/CC needs/VBZ to/TO be/VB optimised/VBN ./.
+The/DT routing/NN strategies/NNS developed/VBN for/IN WMNs/NNS must/MD be/VB efficient/JJ to/TO make/VB it/PRP an/DT operationally/RB self/NN configurable/JJ network/NN ./.
+Thus/RB we/PRP need/VBP to/TO resort/VB to/IN near/IN shortest/JJS path/NN evaluation/NN ./.
+This/DT lays/VBZ down/IN the/DT requirement/NN of/IN some/DT soft/JJ computing/NN approaches/NNS such/JJ that/IN a/DT near/JJ shortest/JJS path/NN is/VBZ available/JJ in/IN an/DT affordable/JJ computing/NN time/NN ./.
+This/DT paper/NN proposes/VBZ a/DT Fuzzy/JJ Logic/NN based/VBN integrated/VBN cost/NN measure/NN in/IN terms/NNS of/IN delay/NN ,/, throughput/NN and/CC jitter/NN ./.
+Based/VBN upon/IN this/DT distance/NN (/-LRB- cost/NN )/-RRB- between/IN two/CD adjacent/JJ nodes/NNS we/PRP evaluate/VBP minimal/JJ shortest/JJS path/NN that/WDT updates/NNS routing/VBG tables/NNS ./.
+We/PRP apply/VBP two/CD recent/JJ soft/JJ computing/NN approaches/VBZ namely/RB Big/JJ Bang/NNP Big/NNP Crunch/NNP (/-LRB- BB/NNP -/HYPH BC/NNP )/-RRB- and/CC Biogeography/NNP Based/NNP Optimization/NN (/-LRB- BBO/NN )/-RRB- approaches/VBZ to/TO enumerate/VB shortest/JJS or/CC near/IN short/JJ paths/NNS ./.
+BB/NNP -/HYPH BC/NNP theory/NN is/VBZ related/VBN with/IN the/DT evolution/NN of/IN the/DT universe/NN whereas/IN BBO/NN is/VBZ inspired/VBN by/IN dynamical/JJ equilibrium/NN in/IN the/DT number/NN of/IN species/NNS on/IN an/DT island/NN ./.
+Both/CC the/DT algorithms/NNS have/VBP low/JJ computational/JJ time/NN and/CC high/JJ convergence/NN speed/NN ./.
+Simulation/NNP results/NNS show/VBP that/IN the/DT proposed/VBN routing/NN algorithms/NNS find/VBP the/DT optimal/JJ shortest/JJS path/NN taking/VBG into/IN account/NN three/CD most/RBS important/JJ parameters/NNS of/IN network/NN dynamics/NNS ./.
+It/PRP has/VBZ been/VBN further/RB observed/VBN that/IN for/IN the/DT shortest/JJS path/NN problem/NN BB/NNP -/HYPH BC/NNP outperforms/VBZ BBO/NN in/IN terms/NNS of/IN speed/NN and/CC percent/NN error/NN between/IN the/DT evaluated/VBN minimal/JJ path/NN and/CC the/DT actual/JJ shortest/JJS path/NN ./.

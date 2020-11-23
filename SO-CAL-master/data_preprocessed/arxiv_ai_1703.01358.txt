@@ -1,0 +1,7 @@
+In/IN recent/JJ years/NNS ,/, work/NN has/VBZ been/VBN done/VBN to/TO develop/VB the/DT theory/NN of/IN General/JJ Reinforcement/NN Learning/NN (/-LRB- GRL/NN )/-RRB- ./.
+However/RB ,/, there/EX are/VBP few/JJ examples/NNS demonstrating/VBG these/DT results/NNS in/IN a/DT concrete/JJ way/NN ./.
+In/IN particular/JJ ,/, there/EX are/VBP no/DT examples/NNS demonstrating/VBG the/DT known/VBN results/NNS regarding/VBG gener/NN -/HYPH alised/VBN discounting/NN ./.
+We/PRP have/VBP added/VBN to/IN the/DT GRL/NN simulation/NN platform/NN AIXIjs/VBZ the/DT functionality/NN to/TO assign/VB an/DT agent/NN arbitrary/JJ discount/NN functions/NNS ,/, and/CC an/DT environment/NN which/WDT can/MD be/VB used/VBN to/TO determine/VB the/DT effect/NN of/IN discounting/VBG on/IN an/DT agent/NN 's/POS policy/NN ./.
+Using/VBG this/DT ,/, we/PRP investigate/VBP how/WRB geometric/JJ ,/, hyperbolic/JJ and/CC power/NN discounting/VBG affect/VB an/DT informed/JJ agent/NN in/IN a/DT simple/JJ MDP/NN ./.
+We/PRP experimentally/RB reproduce/VB a/DT number/NN of/IN theoretical/JJ results/NNS ,/, and/CC discuss/VB some/DT related/JJ subtleties/NNS ./.
+It/PRP was/VBD found/VBN that/IN the/DT agent/NN 's/POS behaviour/NN followed/VBD what/WP is/VBZ expected/VBN theoretically/RB ,/, assuming/VBG appropriate/JJ parameters/NNS were/VBD chosen/VBN for/IN the/DT Monte/NNP -/HYPH Carlo/NNP Tree/NNP Search/NNP (/-LRB- MCTS/NNP )/-RRB- planning/VBG algorithm/NN ./.

@@ -1,0 +1,6 @@
+Recurrent/JJ Neural/JJ Networks/NNS can/MD be/VB trained/VBN to/TO produce/VB sequences/NNS of/IN tokens/NNS given/VBN some/DT input/NN ,/, as/IN exemplified/VBN by/IN recent/JJ results/NNS in/IN machine/NN translation/NN and/CC image/NN captioning/NN ./.
+The/DT current/JJ approach/NN to/IN training/VBG them/PRP consists/VBZ in/IN maximizing/VBG the/DT likelihood/NN of/IN each/DT token/NN in/IN the/DT sequence/NN given/VBN the/DT current/JJ (/-LRB- recurrent/JJ )/-RRB- state/NN and/CC the/DT previous/JJ token/NN ./.
+At/IN inference/NN ,/, the/DT unknown/JJ previous/JJ token/NN is/VBZ then/RB replaced/VBN by/IN a/DT token/JJ generated/VBN by/IN the/DT model/NN itself/PRP ./.
+This/DT discrepancy/NN between/IN training/NN and/CC inference/NN can/MD yield/VB errors/NNS that/WDT can/MD accumulate/VB quickly/RB along/IN the/DT generated/VBN sequence/NN ./.
+We/PRP propose/VBP a/DT curriculum/NN learning/NN strategy/NN to/IN gently/RB change/VB the/DT training/NN process/NN from/IN a/DT fully/RB guided/VBN scheme/NN using/VBG the/DT true/JJ previous/JJ token/NN ,/, towards/IN a/DT less/JJR guided/VBN scheme/NN which/WDT mostly/RB uses/VBZ the/DT generated/VBN token/NN instead/RB ./.
+Experiments/NNS on/IN several/JJ sequence/NN prediction/NN tasks/NNS show/VBP that/IN this/DT approach/NN yields/VBZ significant/JJ improvements/NNS ./.

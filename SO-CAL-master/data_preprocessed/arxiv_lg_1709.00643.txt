@@ -1,0 +1,11 @@
+We/PRP present/VBP an/DT approach/NN to/IN accelerating/VBG a/DT wide/JJ variety/NN of/IN image/NN processing/NN operators/NNS ./.
+Our/PRP$ approach/NN uses/VBZ a/DT fully/RB -/HYPH convolutional/JJ network/NN that/WDT is/VBZ trained/VBN on/IN input/NN -/HYPH output/NN pairs/NNS that/WDT demonstrate/VBP the/DT operator/NN 's/POS action/NN ./.
+After/IN training/NN ,/, the/DT original/JJ operator/NN need/MD not/RB be/VB run/VBN at/IN all/DT ./.
+The/DT trained/VBN network/NN operates/VBZ at/IN full/JJ resolution/NN and/CC runs/VBZ in/IN constant/JJ time/NN ./.
+We/PRP investigate/VBP the/DT effect/NN of/IN network/NN architecture/NN on/IN approximation/NN accuracy/NN ,/, runtime/NN ,/, and/CC memory/NN footprint/NN ,/, and/CC identify/VB a/DT specific/JJ architecture/NN that/WDT balances/VBZ these/DT considerations/NNS ./.
+We/PRP evaluate/VBP the/DT presented/VBN approach/NN on/IN ten/CD advanced/VBN image/NN processing/NN operators/NNS ,/, including/VBG multiple/JJ variational/JJ models/NNS ,/, multiscale/JJ tone/NN and/CC detail/NN manipulation/NN ,/, photographic/JJ style/NN transfer/NN ,/, nonlocal/JJ dehazing/NN ,/, and/CC nonphotorealistic/JJ stylization/NN ./.
+All/DT operators/NNS are/VBP approximated/VBN by/IN the/DT same/JJ model/NN ./.
+Experiments/NNS demonstrate/VBP that/IN the/DT presented/VBN approach/NN is/VBZ significantly/RB more/RBR accurate/JJ than/IN prior/JJ approximation/NN schemes/NNS ./.
+It/PRP increases/VBZ approximation/NN accuracy/NN as/IN measured/VBN by/IN PSNR/NNP across/IN the/DT evaluated/VBN operators/NNS by/IN 8.5/CD dB/NN on/IN the/DT MIT/NNP -/HYPH Adobe/NNP dataset/NN (/-LRB- from/IN 27.5/CD to/IN 36/CD dB/NN )/-RRB- and/CC reduces/VBZ DSSIM/NNP by/IN a/DT multiplicative/JJ factor/NN of/IN 3/CD compared/VBN to/IN the/DT most/RBS accurate/JJ prior/JJ approximation/NN scheme/NN ,/, while/IN being/VBG the/DT fastest/JJS ./.
+We/PRP show/VBP that/IN our/PRP$ models/NNS generalize/VB across/IN datasets/NNS and/CC across/IN resolutions/NNS ,/, and/CC investigate/VB a/DT number/NN of/IN extensions/NNS of/IN the/DT presented/VBN approach/NN ./.
+The/DT results/NNS are/VBP shown/VBN in/IN the/DT supplementary/JJ video/NN at/IN

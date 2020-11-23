@@ -1,0 +1,8 @@
+Stochastic/JJ gradient/NN descent/NN ~/SYM (/-LRB- SGD/NNP )/-RRB- and/CC its/PRP$ variants/NNS have/VBP attracted/VBN much/JJ attention/NN in/IN machine/NN learning/NN due/IN to/IN their/PRP$ efficiency/NN and/CC effectiveness/NN for/IN optimization/NN ./.
+To/TO handle/VB large/JJ -/HYPH scale/NN problems/NNS ,/, researchers/NNS have/VBP recently/RB proposed/VBN several/JJ lock/NN -/HYPH free/JJ strategy/NN based/VBN parallel/JJ SGD/NNP ~/SYM (/-LRB- LF/NN -/HYPH PSGD/NN )/-RRB- methods/NNS for/IN multi-core/JJ systems/NNS ./.
+However/RB ,/, existing/VBG works/NNS have/VBP only/RB proved/VBN the/DT convergence/NN of/IN these/DT LF/NN -/HYPH PSGD/NN methods/NNS for/IN convex/NN problems/NNS ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, no/DT work/NN has/VBZ proved/VBN the/DT convergence/NN of/IN the/DT LF/NN -/HYPH PSGD/NN methods/NNS for/IN non-convex/JJ problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP provide/VBP the/DT theoretical/JJ proof/NN about/IN the/DT convergence/NN of/IN two/CD representative/JJ LF/NN -/HYPH PSGD/NN methods/NNS ,/, Hogwild/NNP !/.
+and/CC AsySVRG/NN ,/, for/IN non-convex/JJ problems/NNS ./.
+Empirical/JJ results/NNS also/RB show/VBP that/IN both/DT Hogwild/NNP !/.
+and/CC AsySVRG/NN are/VBP convergent/JJ on/IN non-convex/JJ problems/NNS ,/, which/WDT successfully/RB verifies/VBZ our/PRP$ theoretical/JJ results/NNS ./.

@@ -1,0 +1,10 @@
+Machine/NN learning/NN is/VBZ a/DT thriving/JJ part/NN of/IN computer/NN science/NN ./.
+There/EX are/VBP many/JJ efficient/JJ approaches/NNS to/IN machine/NN learning/NN that/WDT do/VBP not/RB provide/VB strong/JJ theoretical/JJ guarantees/NNS ,/, and/CC a/DT beautiful/JJ general/JJ learning/NN theory/NN ./.
+Unfortunately/RB ,/, machine/NN learning/NN approaches/VBZ that/DT give/VB strong/JJ theoretical/JJ guarantees/NNS have/VBP not/RB been/VBN efficient/JJ enough/RB to/TO be/VB applicable/JJ ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP a/DT logical/JJ approach/NN to/IN machine/NN learning/NN ./.
+Models/NNS are/VBP represented/VBN by/IN tuples/NNS of/IN logical/JJ formulas/NNS and/CC inputs/NNS and/CC outputs/NNS are/VBP logical/JJ structures/NNS ./.
+We/PRP present/VBP our/PRP$ framework/NN together/RB with/IN several/JJ applications/NNS where/WRB we/PRP evaluate/VBP it/PRP using/VBG SAT/NNP and/CC SMT/NNP solvers/NNS ./.
+We/PRP argue/VBP that/IN this/DT approach/NN to/IN machine/NN learning/NN is/VBZ particularly/RB suited/VBN to/IN bridge/NN the/DT gap/NN between/IN efficiency/NN and/CC theoretical/JJ soundness/NN ./.
+We/PRP exploit/VBP results/NNS from/IN descriptive/JJ complexity/NN theory/NN to/TO prove/VB strong/JJ theoretical/JJ guarantees/NNS for/IN our/PRP$ approach/NN ./.
+To/TO show/VB its/PRP$ applicability/NN ,/, we/PRP present/VBP experimental/JJ results/NNS including/VBG learning/NN complexity/NN -/HYPH theoretic/JJ reductions/NNS rules/NNS for/IN board/NN games/NNS ./.
+We/PRP also/RB explain/VBP how/WRB neural/JJ networks/NNS fit/VBP into/IN our/PRP$ framework/NN ,/, although/IN the/DT current/JJ implementation/NN does/VBZ not/RB scale/VB to/TO provide/VB guarantees/NNS for/IN real/JJ -/HYPH world/NN neural/JJ networks/NNS ./.

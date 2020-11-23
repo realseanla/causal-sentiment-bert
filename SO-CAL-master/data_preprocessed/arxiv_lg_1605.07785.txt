@@ -1,0 +1,9 @@
+In/IN many/JJ real/JJ -/HYPH world/NN applications/NNS data/NNS exhibits/VBZ non-stationarity/JJ ,/, i.e./FW ,/, its/PRP$ distribution/NN changes/VBZ over/IN time/NN ./.
+One/CD approach/NN to/IN handling/VBG non-stationarity/NN is/VBZ to/TO remove/VB or/CC minimize/VB it/PRP before/IN attempting/VBG to/TO analyze/VB the/DT data/NNS ./.
+In/IN the/DT context/NN of/IN brain/NN computer/NN interface/NN (/-LRB- BCI/NNP )/-RRB- data/NNS analysis/NN this/DT may/MD be/VB done/VBN by/IN means/NNS of/IN stationary/JJ subspace/NN analysis/NN (/-LRB- SSA/NNP )/-RRB- ./.
+The/DT classic/JJ SSA/NN method/NN finds/VBZ a/DT matrix/NN that/WDT projects/VBZ the/DT data/NNS onto/IN a/DT stationary/JJ subspace/NN by/IN optimizing/VBG a/DT cost/NN function/NN based/VBN on/IN a/DT matrix/NN divergence/NN ./.
+In/IN this/DT work/NN we/PRP present/VBP an/DT alternative/JJ method/NN for/IN SSA/NNP based/VBN on/IN a/DT symmetrized/VBN version/NN of/IN this/DT matrix/NN divergence/NN ./.
+We/PRP show/VBP that/IN this/DT frames/NNS the/DT problem/NN in/IN terms/NNS of/IN distances/NNS between/IN symmetric/JJ positive/JJ definite/JJ (/-LRB- SPD/NN )/-RRB- matrices/NNS ,/, suggesting/VBG a/DT geometric/JJ interpretation/NN of/IN the/DT problem/NN ./.
+Stemming/VBG from/IN this/DT geometric/JJ viewpoint/NN ,/, we/PRP introduce/VBP and/CC analyze/VBP a/DT method/NN which/WDT utilizes/VBZ the/DT geometry/NN of/IN the/DT SPD/NNP matrix/NN manifold/NN and/CC the/DT invariance/NN properties/NNS of/IN its/PRP$ metrics/NNS ./.
+Most/RBS notably/RB we/PRP show/VBP that/IN these/DT invariances/NNS alleviate/VBP the/DT need/NN to/TO whiten/VB the/DT input/NN matrices/NNS ,/, a/DT common/JJ step/NN in/IN many/JJ SSA/NNP methods/NNS which/WDT often/RB introduces/VBZ errors/NNS ./.
+We/PRP demonstrate/VBP the/DT usefulness/NN of/IN our/PRP$ technique/NN in/IN experiments/NNS on/IN both/DT synthesized/VBN and/CC real/JJ -/HYPH world/NN data/NNS ./.

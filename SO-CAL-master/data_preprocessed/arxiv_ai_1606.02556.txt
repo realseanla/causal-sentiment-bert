@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT new/JJ type/NN of/IN probabilistic/JJ model/NN which/WDT we/PRP call/VBP DISsimilarity/NN COefficient/NN Networks/NNS (/-LRB- DISCO/NNP Nets/NNPS )/-RRB- ./.
+DISCO/NN Nets/NNS allow/VBP us/PRP to/TO efficiently/RB sample/VB from/IN a/DT posterior/JJ distribution/NN parametrised/VBN by/IN a/DT neural/JJ network/NN ./.
+During/IN training/NN ,/, DISCO/NNP Nets/NNPS are/VBP learned/VBN by/IN minimising/VBG the/DT dissimilarity/NN coefficient/NN between/IN the/DT true/JJ distribution/NN and/CC the/DT estimated/VBN distribution/NN ./.
+This/DT allows/VBZ us/PRP to/TO tailor/VB the/DT training/NN to/IN the/DT loss/NN related/VBN to/IN the/DT task/NN at/IN hand/NN ./.
+We/PRP empirically/RB show/VBP that/IN (/-LRB- i/LS )/-RRB- by/IN modeling/VBG uncertainty/NN on/IN the/DT output/NN value/NN ,/, DISCO/NN Nets/NNS outperform/VBP equivalent/JJ non-probabilistic/JJ predictive/JJ networks/NNS and/CC (/-LRB- ii/LS )/-RRB- DISCO/NN Nets/NNS accurately/RB model/VBP the/DT uncertainty/NN of/IN the/DT output/NN ,/, outperforming/VBG existing/VBG probabilistic/JJ models/NNS based/VBN on/IN deep/JJ neural/JJ networks/NNS ./.

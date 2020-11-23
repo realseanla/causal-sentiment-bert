@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP study/VBP the/DT application/NN of/IN GIST/NN SVM/NN in/IN disease/NN prediction/NN (/-LRB- detection/NN of/IN cancer/NN )/-RRB- ./.
+Pattern/NN classification/NN problems/NNS can/MD be/VB effectively/RB solved/VBN by/IN Support/NN vector/NN machines/NNS ./.
+Here/RB we/PRP propose/VBP a/DT classifier/NN which/WDT can/MD differentiate/VB patients/NNS having/VBG benign/JJ and/CC malignant/JJ cancer/NN cells/NNS ./.
+To/TO improve/VB the/DT accuracy/NN of/IN classification/NN ,/, we/PRP propose/VBP to/TO determine/VB the/DT optimal/JJ size/NN of/IN the/DT training/NN set/NN and/CC perform/VB feature/NN selection/NN ./.
+To/TO find/VB the/DT optimal/JJ size/NN of/IN the/DT training/NN set/NN ,/, different/JJ sizes/NNS of/IN training/NN sets/NNS are/VBP experimented/VBN and/CC the/DT one/NN with/IN highest/JJS classification/NN rate/NN is/VBZ selected/VBN ./.
+The/DT optimal/JJ features/NNS are/VBP selected/VBN through/IN their/PRP$ F/NN -/HYPH Scores/NNS ./.

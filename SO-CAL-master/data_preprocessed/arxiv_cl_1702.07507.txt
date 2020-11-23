@@ -1,0 +1,4 @@
+Only/RB a/DT year/NN ago/IN ,/, all/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN coreference/NN resolvers/NNS were/VBD using/VBG an/DT extensive/JJ amount/NN of/IN surface/NN features/NNS ./.
+Recently/RB ,/, there/EX was/VBD a/DT paradigm/NN shift/NN towards/IN using/VBG word/NN embeddings/NNS and/CC deep/JJ neural/JJ networks/NNS ,/, where/WRB the/DT use/NN of/IN surface/NN features/NNS is/VBZ very/RB limited/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN a/DT simple/JJ SVM/NN model/NN with/IN surface/NN features/NNS outperforms/VBZ more/RBR complex/JJ neural/JJ models/NNS for/IN detecting/VBG anaphoric/NN mentions/VBZ ./.
+Our/PRP$ analysis/NN suggests/VBZ that/IN using/VBG generalized/VBN representations/NNS and/CC surface/NN features/NNS have/VBP different/JJ strength/NN that/WDT should/MD be/VB both/DT taken/VBN into/IN account/NN for/IN improving/VBG coreference/NN resolution/NN ./.

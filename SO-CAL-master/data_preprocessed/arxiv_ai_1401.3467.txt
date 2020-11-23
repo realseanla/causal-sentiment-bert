@@ -1,0 +1,6 @@
+Recently/RB ,/, considerable/JJ focus/NN has/VBZ been/VBN given/VBN to/IN the/DT problem/NN of/IN determining/VBG the/DT boundary/NN between/IN tractable/JJ and/CC intractable/JJ planning/NN problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP the/DT complexity/NN of/IN planning/NN in/IN the/DT class/NN C_n/NN of/IN planning/NN problems/NNS ,/, characterized/VBN by/IN unary/JJ operators/NNS and/CC directed/VBN path/NN causal/JJ graphs/NNS ./.
+Although/IN this/DT is/VBZ one/CD of/IN the/DT simplest/JJS forms/NNS of/IN causal/JJ graphs/NNS a/DT planning/NN problem/NN can/MD have/VB ,/, we/PRP show/VBP that/IN planning/NN is/VBZ intractable/JJ for/IN C_n/NN (/-LRB- unless/IN P/NN =/SYM NP/NN )/-RRB- ,/, even/RB if/IN the/DT domains/NNS of/IN state/NN variables/NNS have/VBP bounded/VBN size/NN ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/DT plan/NN existence/NN for/IN C_n/NNP ^/SYM k/CD is/VBZ NP/NNP -/HYPH hard/JJ for/IN k/CD &gt;/SYM =/SYM 5/CD by/IN reduction/NN from/IN CNFSAT/NNP ./.
+Here/RB ,/, k/CD denotes/VBZ the/DT upper/JJ bound/VBN on/IN the/DT size/NN of/IN the/DT state/NN variable/JJ domains/NNS ./.
+Our/PRP$ result/NN reduces/VBZ the/DT complexity/NN gap/NN for/IN the/DT class/NN C_n/NN ^/SYM k/CD to/IN cases/NNS k/CD =/SYM 3/CD and/CC k/CD =/SYM 4/CD only/RB ,/, since/IN C_n/NNP ^/SYM 2/CD is/VBZ known/VBN to/TO be/VB tractable/JJ ./.

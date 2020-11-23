@@ -1,0 +1,7 @@
+Nowadays/RB ,/, geographic/JJ information/NN related/VBN to/IN Twitter/NNP is/VBZ crucially/RB important/JJ for/IN fine/JJ -/HYPH grained/JJ applications/NNS ./.
+However/RB ,/, the/DT amount/NN of/IN geographic/JJ information/NN avail/NN -/HYPH able/JJ on/IN Twitter/NNP is/VBZ low/JJ ,/, which/WDT makes/VBZ the/DT pursuit/NN of/IN many/JJ applications/NNS challenging/JJ ./.
+Under/IN such/JJ circumstances/NNS ,/, estimating/VBG the/DT location/NN of/IN a/DT tweet/NN is/VBZ an/DT important/JJ goal/NN of/IN the/DT study/NN ./.
+Unlike/IN most/JJS previous/JJ studies/NNS that/WDT estimate/VBP the/DT pre-defined/JJ district/NN as/IN the/DT classification/NN task/NN ,/, this/DT study/NN employs/VBZ a/DT probability/NN distribution/NN to/TO represent/VB richer/JJR information/NN of/IN the/DT tweet/NN ,/, not/RB only/RB the/DT location/NN but/CC also/RB its/PRP$ ambiguity/NN ./.
+To/TO realize/VB this/DT modeling/NN ,/, we/PRP propose/VBP the/DT convolutional/JJ mixture/NN density/NN network/NN (/-LRB- CMDN/NN )/-RRB- ,/, which/WDT uses/VBZ text/NN data/NNS to/TO estimate/VB the/DT mixture/NN model/NN parameters/NNS ./.
+Experimentally/RB obtained/VBN results/NNS reveal/VBP that/IN CMDN/NNP achieved/VBD the/DT highest/JJS prediction/NN performance/NN among/IN the/DT method/NN for/IN predicting/VBG the/DT exact/JJ coordinates/NNS ./.
+It/PRP also/RB provides/VBZ a/DT quantitative/JJ representation/NN of/IN the/DT location/NN ambiguity/NN for/IN each/DT tweet/NN that/WDT properly/RB works/VBZ for/IN extracting/VBG the/DT reliable/JJ location/NN estimations/NNS ./.

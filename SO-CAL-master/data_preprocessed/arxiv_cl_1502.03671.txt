@@ -1,0 +1,7 @@
+Generating/NNP a/DT novel/JJ textual/JJ description/NN of/IN an/DT image/NN is/VBZ an/DT interesting/JJ problem/NN that/WDT connects/VBZ computer/NN vision/NN and/CC natural/JJ language/NN processing/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT simple/JJ model/NN that/WDT is/VBZ able/JJ to/TO generate/VB descriptive/JJ sentences/NNS given/VBN a/DT sample/NN image/NN ./.
+This/DT model/NN has/VBZ a/DT strong/JJ focus/NN on/IN the/DT syntax/NN of/IN the/DT descriptions/NNS ./.
+We/PRP train/VBP a/DT purely/RB bilinear/JJ model/NN that/WDT learns/VBZ a/DT metric/JJ between/IN an/DT image/NN representation/NN (/-LRB- generated/VBN from/IN a/DT previously/RB trained/VBN Convolutional/JJ Neural/JJ Network/NN )/-RRB- and/CC phrases/NNS that/WDT are/VBP used/VBN to/IN described/VBN them/PRP ./.
+The/DT system/NN is/VBZ then/RB able/JJ to/TO infer/VB phrases/NNS from/IN a/DT given/VBN image/NN sample/NN ./.
+Based/VBN on/IN caption/NN syntax/NN statistics/NNS ,/, we/PRP propose/VBP a/DT simple/JJ language/NN model/NN that/WDT can/MD produce/VB relevant/JJ descriptions/NNS for/IN a/DT given/VBN test/NN image/NN using/VBG the/DT phrases/NNS inferred/VBN ./.
+Our/PRP$ approach/NN ,/, which/WDT is/VBZ considerably/RB simpler/JJR than/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS ,/, achieves/VBZ comparable/JJ results/NNS in/IN two/CD popular/JJ datasets/NNS for/IN the/DT task/NN :/: Flickr30k/NN and/CC the/DT recently/RB proposed/VBN Microsoft/NNP COCO/NNP ./.

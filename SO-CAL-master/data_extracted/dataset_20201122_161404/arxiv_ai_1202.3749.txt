@@ -1,0 +1,8 @@
+To deal with the prohibitive complexity of calculating policies in Decentralized MDPs, researchers have proposed models that exploit structured agent interactions.
+Settings where most agent actions are independent except for few actions that affect the transitions and/or rewards of other agents can be modeled using Event-Driven Interactions with Complex Rewards (EDI-CR).
+Finding the optimal joint policy can be formulated as an optimization problem.
+However, existing formulations are too verbose and/or lack optimality guarantees.
+We propose a compact Mixed Integer Linear Program formulation of EDI-CR instances.
+The key insight is that most action sequences of a group of agents have the same effect on a given agent.
+This allows us to treat these sequences similarly and use fewer variables.
+Experiments show that our formulation is more compact and leads to faster solution times and better solutions than existing formulations.

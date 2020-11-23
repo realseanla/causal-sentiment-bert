@@ -1,0 +1,6 @@
+Policy/NN gradient/NN methods/NNS have/VBP been/VBN successfully/RB applied/VBN to/IN many/JJ complex/JJ reinforcement/NN learning/VBG problems/NNS ./.
+However/RB ,/, policy/NN gradient/NN methods/NNS suffer/VBP from/IN high/JJ variance/NN ,/, slow/JJ convergence/NN ,/, and/CC inefficient/JJ exploration/NN ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP a/DT maximum/JJ entropy/NN policy/NN optimization/NN framework/NN which/WDT explicitly/RB encourages/VBZ parameter/NN exploration/NN ,/, and/CC show/VBP that/IN this/DT framework/NN can/MD be/VB reduced/VBN to/IN a/DT Bayesian/JJ inference/NN problem/NN ./.
+We/PRP then/RB propose/VB a/DT novel/JJ Stein/NNP variational/JJ policy/NN gradient/NN method/NN (/-LRB- SVPG/NN )/-RRB- which/WDT combines/VBZ existing/VBG policy/NN gradient/NN methods/NNS and/CC a/DT repulsive/JJ functional/JJ to/TO generate/VB a/DT set/NN of/IN diverse/JJ but/CC well/RB -/HYPH behaved/VBN policies/NNS ./.
+SVPG/NNP is/VBZ robust/JJ to/IN initialization/NN and/CC can/MD easily/RB be/VB implemented/VBN in/IN a/DT parallel/JJ manner/NN ./.
+On/IN continuous/JJ control/NN problems/NNS ,/, we/PRP find/VBP that/IN implementing/VBG SVPG/NNP on/IN top/NN of/IN REINFORCE/NN and/CC advantage/NN actor/NN -/HYPH critic/NN algorithms/NNS improves/VBZ both/CC average/JJ return/NN and/CC data/NNS efficiency/NN ./.

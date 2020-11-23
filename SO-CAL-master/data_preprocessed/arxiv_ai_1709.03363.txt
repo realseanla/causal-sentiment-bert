@@ -1,0 +1,8 @@
+We/PRP describe/VBP a/DT novel/JJ approach/NN to/IN monitoring/VBG high/JJ level/NN behaviors/NNS using/VBG concepts/NNS from/IN AI/NN planning/NN ./.
+Our/PRP$ goal/NN is/VBZ to/TO understand/VB what/WP a/DT program/NN is/VBZ doing/VBG based/VBN on/IN its/PRP$ system/NN call/NN trace/NN ./.
+This/DT ability/NN is/VBZ particularly/RB important/JJ for/IN detecting/VBG malware/NN ./.
+We/PRP approach/VBP this/DT problem/NN by/IN building/VBG an/DT abstract/JJ model/NN of/IN the/DT operating/NN system/NN using/VBG the/DT STRIPS/NNPS planning/VBG language/NN ,/, casting/VBG system/NN calls/VBZ as/IN planning/NN operators/NNS ./.
+Given/VBN a/DT system/NN call/NN trace/NN ,/, we/PRP simulate/VBP the/DT corresponding/VBG operators/NNS on/IN our/PRP$ model/NN and/CC by/IN observing/VBG the/DT properties/NNS of/IN the/DT state/NN reached/VBD ,/, we/PRP learn/VBP about/IN the/DT nature/NN of/IN the/DT original/JJ program/NN and/CC its/PRP$ behavior/NN ./.
+Thus/RB ,/, unlike/IN most/JJS statistical/JJ detection/NN methods/NNS that/WDT focus/VBP on/IN syntactic/JJ features/NNS ,/, our/PRP$ approach/NN is/VBZ semantic/JJ in/IN nature/NN ./.
+Therefore/RB ,/, it/PRP is/VBZ more/RBR robust/JJ against/IN obfuscation/NN techniques/NNS used/VBN by/IN malware/NN that/WDT change/VBP the/DT outward/JJ appearance/NN of/IN the/DT trace/NN but/CC not/RB its/PRP$ effect/NN ./.
+We/PRP demonstrate/VBP the/DT efficacy/NN of/IN our/PRP$ approach/NN by/IN evaluating/VBG it/PRP on/IN actual/JJ system/NN call/NN traces/NNS ./.

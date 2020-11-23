@@ -1,0 +1,6 @@
+Training/VBG deep/JJ neural/JJ networks/NNS is/VBZ a/DT highly/RB nontrivial/JJ task/NN ,/, involving/VBG carefully/RB selecting/VBG appropriate/JJ training/NN algorithms/NNS ,/, scheduling/NN step/NN sizes/NNS and/CC tuning/VB other/JJ hyperparameters/NNS ./.
+Trying/VBG different/JJ combinations/NNS can/MD be/VB quite/RB labor/NN -/HYPH intensive/JJ and/CC time/NN consuming/VBG ./.
+Recently/RB ,/, researchers/NNS have/VBP tried/VBN to/TO use/VB deep/JJ learning/NN algorithms/NNS to/TO exploit/VB the/DT landscape/NN of/IN the/DT loss/NN function/NN of/IN the/DT training/NN problem/NN of/IN interest/NN ,/, and/CC learn/VB how/WRB to/TO optimize/VB over/IN it/PRP in/IN an/DT automatic/JJ way/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ learning/NN -/HYPH to/IN -/HYPH learn/VB model/NN and/CC some/DT useful/JJ and/CC practical/JJ tricks/NNS ./.
+Our/PRP$ optimizer/NN outperforms/VBZ generic/JJ ,/, hand/NN -/HYPH crafted/VBN optimization/NN algorithms/NNS and/CC state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN learning/NN -/HYPH to/IN -/HYPH learn/VB optimizers/NNS by/IN DeepMind/NNP in/IN many/JJ tasks/NNS ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ algorithms/NNS on/IN a/DT number/NN of/IN tasks/NNS ,/, including/VBG deep/JJ MLPs/NNS ,/, CNNs/NNS ,/, and/CC simple/JJ LSTMs/NNS ./.

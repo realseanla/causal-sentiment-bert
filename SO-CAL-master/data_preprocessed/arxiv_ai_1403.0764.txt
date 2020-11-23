@@ -1,0 +1,8 @@
+This/DT paper/NN describes/VBZ a/DT process/NN for/IN clustering/VBG concepts/NNS into/IN chains/NNS from/IN data/NNS presented/VBN randomly/RB to/IN an/DT evaluating/VBG system/NN ./.
+There/EX are/VBP a/DT number/NN of/IN rules/NNS or/CC guidelines/NNS that/WDT help/VBP the/DT system/NN to/TO determine/VB more/RBR accurately/RB what/WP concepts/NNS belong/VBP to/IN a/DT particular/JJ chain/NN and/CC what/WP ones/NNS do/VBP not/RB ,/, but/CC it/PRP should/MD be/VB possible/JJ to/TO write/VB these/DT in/IN a/DT generic/JJ way/NN ./.
+This/DT mechanism/NN also/RB uses/VBZ a/DT flat/JJ structure/NN without/IN any/DT hierarchical/JJ path/NN information/NN ,/, where/WRB the/DT link/NN between/IN two/CD concepts/NNS is/VBZ made/VBN at/IN the/DT level/NN of/IN the/DT concept/NN itself/PRP ./.
+It/PRP does/VBZ not/RB require/VB related/JJ metadata/NN ,/, but/CC instead/RB ,/, a/DT simple/JJ counting/NN mechanism/NN is/VBZ used/VBN ./.
+Key/JJ to/IN this/DT is/VBZ a/DT count/NN for/IN both/CC the/DT concept/NN itself/PRP and/CC also/RB the/DT group/NN or/CC chain/NN that/WDT it/PRP belongs/VBZ to/IN ./.
+To/TO test/VB the/DT possible/JJ success/NN of/IN the/DT mechanism/NN ,/, concept/NN chain/NN parts/NNS taken/VBN randomly/RB from/IN a/DT larger/JJR ontology/NN were/VBD presented/VBN to/IN the/DT system/NN ,/, but/CC only/RB at/IN a/DT depth/NN of/IN 2/CD concepts/NNS each/DT time/NN ./.
+That/DT is/VBZ -/HYPH root/NN concept/NN plus/CC a/DT concept/NN that/IN it/PRP is/VBZ linked/VBN to/IN ./.
+The/DT results/NNS show/VBP that/IN this/DT can/MD still/RB lead/VB to/IN very/RB variable/JJ structures/NNS being/VBG formed/VBN and/CC can/MD also/RB accommodate/VB some/DT level/NN of/IN randomness/NN ./.

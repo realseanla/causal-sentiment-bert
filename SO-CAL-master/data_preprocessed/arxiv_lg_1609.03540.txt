@@ -1,0 +1,7 @@
+Causal/JJ inference/NN from/IN observational/JJ data/NNS is/VBZ a/DT subject/NN of/IN active/JJ research/NN and/CC development/NN in/IN statistics/NNS and/CC computer/NN science/NN ./.
+Many/JJ toolkits/NNS have/VBP been/VBN developed/VBN for/IN this/DT purpose/NN that/WDT depends/VBZ on/IN statistical/JJ software/NN ./.
+However/RB ,/, these/DT toolkits/NNS do/VBP not/RB scale/VB to/IN large/JJ datasets/NNS ./.
+In/IN this/DT paper/NN we/PRP describe/VBP a/DT suite/NN of/IN techniques/NNS for/IN expressing/VBG causal/JJ inference/NN tasks/NNS from/IN observational/JJ data/NNS in/IN SQL/NN ./.
+This/DT suite/NN supports/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS for/IN causal/JJ inference/NN and/CC run/VB at/IN scale/NN within/IN a/DT database/NN engine/NN ./.
+In/IN addition/NN ,/, we/PRP introduce/VBP several/JJ optimization/NN techniques/NNS that/WDT significantly/RB speedup/NN causal/JJ inference/NN ,/, both/CC in/IN the/DT online/NN and/CC offline/RB setting/VBG ./.
+We/PRP evaluate/VBP the/DT quality/NN and/CC performance/NN of/IN our/PRP$ techniques/NNS by/IN experiments/NNS of/IN real/JJ datasets/NNS ./.

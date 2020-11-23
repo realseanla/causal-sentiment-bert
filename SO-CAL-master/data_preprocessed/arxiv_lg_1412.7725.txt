@@ -1,0 +1,13 @@
+Photo/NN retouching/NN enables/VBZ photographers/NNS to/TO invoke/VB dramatic/JJ visual/JJ impressions/NNS by/IN artistically/RB enhancing/VBG their/PRP$ photos/NNS through/IN stylistic/JJ color/NN and/CC tone/NN adjustments/NNS ./.
+However/RB ,/, it/PRP is/VBZ also/RB a/DT time/NN -/HYPH consuming/VBG and/CC challenging/VBG task/NN that/WDT requires/VBZ advanced/JJ skills/NNS beyond/IN the/DT abilities/NNS of/IN casual/JJ photographers/NNS ./.
+Using/VBG an/DT automated/VBN algorithm/NN is/VBZ an/DT appealing/JJ alternative/NN to/IN manual/JJ work/NN but/CC such/PDT an/DT algorithm/NN faces/VBZ many/JJ hurdles/NNS ./.
+Many/JJ photographic/JJ styles/NNS rely/VBP on/IN subtle/JJ adjustments/NNS that/WDT depend/VBP on/IN the/DT image/NN content/NN and/CC even/RB its/PRP$ semantics/NNS ./.
+Further/RB ,/, these/DT adjustments/NNS are/VBP often/RB spatially/RB varying/VBG ./.
+Because/IN of/IN these/DT characteristics/NNS ,/, existing/VBG automatic/JJ algorithms/NNS are/VBP still/RB limited/JJ and/CC cover/VBP only/RB a/DT subset/NN of/IN these/DT challenges/NNS ./.
+Recently/RB ,/, deep/JJ machine/NN learning/NN has/VBZ shown/VBN unique/JJ abilities/NNS to/TO address/VB hard/JJ problems/NNS that/WDT resisted/VBD machine/NN algorithms/NNS for/IN long/JJ ./.
+This/DT motivated/VBD us/PRP to/TO explore/VB the/DT use/NN of/IN deep/JJ learning/NN in/IN the/DT context/NN of/IN photo/NN editing/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP explain/VBP how/WRB to/TO formulate/VB the/DT automatic/JJ photo/NN adjustment/NN problem/NN in/IN a/DT way/NN suitable/JJ for/IN this/DT approach/NN ./.
+We/PRP also/RB introduce/VBP an/DT image/NN descriptor/NN that/WDT accounts/VBZ for/IN the/DT local/JJ semantics/NNS of/IN an/DT image/NN ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN our/PRP$ deep/JJ learning/NN formulation/NN applied/VBN using/VBG these/DT descriptors/NNS successfully/RB capture/VBP sophisticated/JJ photographic/JJ styles/NNS ./.
+In/IN particular/JJ and/CC unlike/IN previous/JJ techniques/NNS ,/, it/PRP can/MD model/VB local/JJ adjustments/NNS that/WDT depend/VBP on/IN the/DT image/NN semantics/NNS ./.
+We/PRP show/VBP on/IN several/JJ examples/NNS that/IN this/DT yields/NNS results/VBZ that/IN are/VBP qualitatively/RB and/CC quantitatively/RB better/JJR than/IN previous/JJ work/NN ./.

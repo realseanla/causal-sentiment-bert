@@ -1,0 +1,4 @@
+This/DT paper/NN presents/VBZ a/DT new/JJ contextual/JJ bandit/NN algorithm/NN ,/, NeuralBandit/NN ,/, which/WDT does/VBZ not/RB need/VB hypothesis/NN on/IN stationarity/NN of/IN contexts/NNS and/CC rewards/NNS ./.
+Several/JJ neural/JJ networks/NNS are/VBP trained/VBN to/TO modelize/VB the/DT value/NN of/IN rewards/NNS knowing/VBG the/DT context/NN ./.
+Two/CD variants/NNS ,/, based/VBN on/IN multi-experts/NNS approach/NN ,/, are/VBP proposed/VBN to/TO choose/VB online/RB the/DT parameters/NNS of/IN multi-layer/JJ perceptrons/NNS ./.
+The/DT proposed/VBN algorithms/NNS are/VBP successfully/RB tested/VBN on/IN a/DT large/JJ dataset/NN with/IN and/CC without/IN stationarity/NN of/IN rewards/NNS ./.

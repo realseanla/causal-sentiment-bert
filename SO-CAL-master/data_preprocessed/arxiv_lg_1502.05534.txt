@@ -1,0 +1,11 @@
+Diagnosis/NN of/IN liver/NN infection/NN at/IN preliminary/JJ stage/NN is/VBZ important/JJ for/IN better/JJR treatment/NN ./.
+In/IN todays/NNS scenario/NN devices/NNS like/IN sensors/NNS are/VBP used/VBN for/IN detection/NN of/IN infections/NNS ./.
+Accurate/JJ classification/NN techniques/NNS are/VBP required/VBN for/IN automatic/JJ identification/NN of/IN disease/NN samples/NNS ./.
+In/IN this/DT context/NN ,/, this/DT study/NN utilizes/VBZ data/NNS mining/NN approaches/VBZ for/IN classification/NN of/IN liver/NN patients/NNS from/IN healthy/JJ individuals/NNS ./.
+Four/CD algorithms/NNS (/-LRB- Naive/NNP Bayes/NNP ,/, Bagging/NNP ,/, Random/NNP forest/NN and/CC SVM/NN )/-RRB- were/VBD implemented/VBN for/IN classification/NN using/VBG R/NN platform/NN ./.
+Further/RB to/TO improve/VB the/DT accuracy/NN of/IN classification/NN a/DT hybrid/NN NeuroSVM/NN model/NN was/VBD developed/VBN using/VBG SVM/NN and/CC feed/NN -/HYPH forward/JJ artificial/JJ neural/JJ network/NN (/-LRB- ANN/NNP )/-RRB- ./.
+The/DT hybrid/NN model/NN was/VBD tested/VBN for/IN its/PRP$ performance/NN using/VBG statistical/JJ parameters/NNS like/IN root/NN mean/VBP square/JJ error/NN (/-LRB- RMSE/NN )/-RRB- and/CC mean/VB absolute/JJ percentage/NN error/NN (/-LRB- MAPE/NN )/-RRB- ./.
+The/DT model/NN resulted/VBD in/IN a/DT prediction/NN accuracy/NN of/IN 98.83/CD percent/NN ./.
+The/DT results/NNS suggested/VBD that/IN development/NN of/IN hybrid/JJ model/NN improved/VBD the/DT accuracy/NN of/IN prediction/NN ./.
+To/TO serve/VB the/DT medicinal/JJ community/NN for/IN prediction/NN of/IN liver/NN disease/NN among/IN patients/NNS ,/, a/DT graphical/JJ user/NN interface/NN (/-LRB- GUI/NNP )/-RRB- has/VBZ been/VBN developed/VBN using/VBG R/NN ./.
+The/DT GUI/NNP is/VBZ deployed/VBN as/IN a/DT package/NN in/IN local/JJ repository/NN of/IN R/NN platform/NN for/IN users/NNS to/TO perform/VB prediction/NN ./.

@@ -1,0 +1,8 @@
+We/PRP introduce/VBP techniques/NNS for/IN rapidly/RB transferring/VBG the/DT information/NN stored/VBN in/IN one/CD neural/JJ net/NN into/IN another/DT neural/JJ net/NN ./.
+The/DT main/JJ purpose/NN is/VBZ to/TO accelerate/VB the/DT training/NN of/IN a/DT significantly/RB larger/JJR neural/JJ net/NN ./.
+During/IN real/JJ -/HYPH world/NN workflows/NN ,/, one/CD often/RB trains/NNS very/RB many/JJ different/JJ neural/JJ networks/NNS during/IN the/DT experimentation/NN and/CC design/NN process/NN ./.
+This/DT is/VBZ a/DT wasteful/JJ process/NN in/IN which/WDT each/DT new/JJ model/NN is/VBZ trained/VBN from/IN scratch/NN ./.
+Our/PRP$ Net2Net/NN technique/NN accelerates/VBZ the/DT experimentation/NN process/NN by/IN instantaneously/RB transferring/VBG the/DT knowledge/NN from/IN a/DT previous/JJ network/NN to/IN each/DT new/JJ deeper/JJR or/CC wider/JJR network/NN ./.
+Our/PRP$ techniques/NNS are/VBP based/VBN on/IN the/DT concept/NN of/IN function/NN -/HYPH preserving/VBG transformations/NNS between/IN neural/JJ network/NN specifications/NNS ./.
+This/DT differs/VBZ from/IN previous/JJ approaches/NNS to/TO to/TO pre-training/VB that/DT altered/VBN the/DT function/NN represented/VBN by/IN a/DT neural/JJ net/NN when/WRB adding/VBG layers/NNS to/IN it/PRP ./.
+Using/VBG our/PRP$ knowledge/NN transfer/NN mechanism/NN to/TO add/VB depth/NN to/IN Inception/NN modules/NNS ,/, we/PRP demonstrate/VBP a/DT new/JJ state/NN of/IN the/DT art/NN accuracy/NN rating/NN on/IN the/DT ImageNet/NNP dataset/NN ./.

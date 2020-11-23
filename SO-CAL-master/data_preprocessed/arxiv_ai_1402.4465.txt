@@ -1,0 +1,8 @@
+Recent/JJ work/NN introduced/VBD the/DT cube/NN -/HYPH and/CC -/HYPH conquer/VB technique/NN to/TO solve/VB hard/JJ SAT/NN instances/NNS ./.
+It/PRP partitions/VBZ the/DT search/NN space/NN into/IN cubes/NNS using/VBG a/DT lookahead/NN solver/NN ./.
+Each/DT cube/NN is/VBZ tackled/VBN by/IN a/DT conflict/NN -/HYPH driven/VBN clause/NN learning/NN (/-LRB- CDCL/NN )/-RRB- solver/NN ./.
+Crucial/JJ for/IN strong/JJ performance/NN is/VBZ the/DT cutoff/NN heuristic/NN that/WDT decides/VBZ when/WRB to/TO switch/VB from/IN lookahead/NN to/IN CDCL/NNP ./.
+Yet/RB ,/, this/DT offline/RB heuristic/NN is/VBZ far/RB from/IN ideal/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ hybrid/NN solver/NN that/WDT applies/VBZ the/DT cube/NN and/CC conquer/VB steps/NNS simultaneously/RB ./.
+A/DT lookahead/NN and/CC a/DT CDCL/NN solver/NN work/NN together/RB on/IN each/DT cube/NN ,/, while/IN communication/NN is/VBZ restricted/VBN to/IN synchronization/NN ./.
+Our/PRP$ concurrent/JJ cube/NN -/HYPH and/CC -/HYPH conquer/VB solver/NN can/MD solve/VB many/JJ instances/NNS faster/RBR than/IN pure/JJ lookahead/NN ,/, pure/JJ CDCL/NNP and/CC offline/RB cube/NN -/HYPH and/CC -/HYPH conquer/VB ,/, and/CC can/MD abort/VB early/RB in/IN favor/NN of/IN a/DT pure/JJ CDCL/NN search/NN if/IN an/DT instance/NN is/VBZ not/RB suitable/JJ for/IN cube/NN -/HYPH and/CC -/HYPH conquer/VB techniques/NNS ./.

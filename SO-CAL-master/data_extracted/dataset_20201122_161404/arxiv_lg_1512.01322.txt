@@ -1,0 +1,5 @@
+Recurrent neural networks have shown excellent performance in many applications, however they require increased complexity in hardware or software based implementations.
+The hardware complexity can be much lowered by minimizing the word-length of weights and signals.
+This work analyzes the fixed-point performance of recurrent neural networks using a retrain based quantization method.
+The quantization sensitivity of each layer in RNNs is studied, and the overall fixed-point optimization results minimizing the capacity of weights while not sacrificing the performance are presented.
+A language model and a phoneme recognition examples are used.

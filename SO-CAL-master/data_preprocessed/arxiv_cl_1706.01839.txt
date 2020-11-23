@@ -1,0 +1,7 @@
+Increasingly/RB ,/, cognitive/JJ scientists/NNS have/VBP demonstrated/VBN interest/NN in/IN applying/VBG tools/NNS from/IN deep/JJ learning/NN ./.
+One/CD use/NN for/IN deep/JJ learning/NN is/VBZ in/IN language/NN acquisition/NN where/WRB it/PRP is/VBZ useful/JJ to/TO know/VB if/IN a/DT linguistic/JJ phenomenon/NN can/MD be/VB learned/VBN through/IN domain/NN -/HYPH general/JJ means/NNS ./.
+To/TO assess/VB whether/IN unsupervised/JJ deep/JJ learning/NN is/VBZ appropriate/JJ ,/, we/PRP first/RB pose/VBP a/DT smaller/JJR question/NN :/: Can/MD unsupervised/JJ neural/JJ networks/NNS apply/VBP linguistic/JJ rules/NNS productively/RB ,/, using/VBG them/PRP in/IN novel/JJ situations/NNS ?/.
+We/PRP draw/VBP from/IN the/DT literature/NN on/IN determiner/NN //HYPH noun/NN productivity/NN by/IN training/VBG an/DT unsupervised/JJ ,/, autoencoder/JJ network/NN measuring/VBG its/PRP$ ability/NN to/TO combine/VB nouns/NNS with/IN determiners/NNS ./.
+Our/PRP$ simple/JJ autoencoder/NN creates/VBZ combinations/NNS it/PRP has/VBZ not/RB previously/RB encountered/VBN and/CC produces/VBZ a/DT degree/NN of/IN overlap/NN matching/VBG adults/NNS ./.
+While/IN this/DT preliminary/JJ work/NN does/VBZ not/RB provide/VB conclusive/JJ evidence/NN for/IN productivity/NN ,/, it/PRP warrants/VBZ further/JJ investigation/NN with/IN more/JJR complex/JJ models/NNS ./.
+Further/RB ,/, this/DT work/NN helps/VBZ lay/VB the/DT foundations/NNS for/IN future/JJ collaboration/NN between/IN the/DT deep/JJ learning/NN and/CC cognitive/JJ science/NN communities/NNS ./.

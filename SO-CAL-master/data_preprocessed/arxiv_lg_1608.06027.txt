@@ -1,0 +1,6 @@
+Recurrent/JJ neural/JJ nets/NNS are/VBP widely/RB used/VBN for/IN predicting/VBG temporal/JJ data/NNS ./.
+Their/PRP$ inherent/JJ deep/JJ feedforward/NN structure/NN allows/VBZ learning/VBG complex/JJ sequential/JJ patterns/NNS ./.
+It/PRP is/VBZ believed/VBN that/IN top/JJ -/HYPH down/JJ feedback/NN might/MD be/VB an/DT important/JJ missing/JJ ingredient/NN which/WDT in/IN theory/NN could/MD help/VB disambiguate/VB similar/JJ patterns/NNS depending/VBG on/IN broader/JJR context/NN ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP surprisal/JJ -/HYPH driven/VBN recurrent/JJ networks/NNS ,/, which/WDT take/VBP into/IN account/NN past/IN error/NN information/NN when/WRB making/VBG new/JJ predictions/NNS ./.
+This/DT is/VBZ achieved/VBN by/IN continuously/RB monitoring/VBG the/DT discrepancy/NN between/IN most/JJS recent/JJ predictions/NNS and/CC the/DT actual/JJ observations/NNS ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN it/PRP outperforms/VBZ other/JJ stochastic/JJ and/CC fully/RB deterministic/JJ approaches/NNS on/IN enwik8/NN character/NN level/NN prediction/NN task/NN achieving/VBG 1.39/CD BPC/NNP ./.

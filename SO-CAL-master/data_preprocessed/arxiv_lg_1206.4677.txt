@@ -1,0 +1,5 @@
+In/IN real/JJ -/HYPH world/NN classification/NN problems/NNS ,/, the/DT class/NN balance/NN in/IN the/DT training/NN dataset/NN does/VBZ not/RB necessarily/RB reflect/VB that/DT of/IN the/DT test/NN dataset/NN ,/, which/WDT can/MD cause/VB significant/JJ estimation/NN bias/NN ./.
+If/IN the/DT class/NN ratio/NN of/IN the/DT test/NN dataset/NN is/VBZ known/VBN ,/, instance/NN re-weighting/NN or/CC resampling/NN allows/VBZ systematical/JJ bias/NN correction/NN ./.
+However/RB ,/, learning/VBG the/DT class/NN ratio/NN of/IN the/DT test/NN dataset/NN is/VBZ challenging/JJ when/WRB no/DT labeled/VBN data/NNS is/VBZ available/JJ from/IN the/DT test/NN domain/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO estimate/VB the/DT class/NN ratio/NN in/IN the/DT test/NN dataset/NN by/IN matching/VBG probability/NN distributions/NNS of/IN training/NN and/CC test/NN input/NN data/NNS ./.
+We/PRP demonstrate/VBP the/DT utility/NN of/IN the/DT proposed/VBN approach/NN through/IN experiments/NNS ./.

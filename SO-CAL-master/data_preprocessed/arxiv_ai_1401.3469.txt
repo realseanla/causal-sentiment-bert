@@ -1,0 +1,7 @@
+Symmetries/NNS in/IN discrete/JJ constraint/NN satisfaction/NN problems/NNS have/VBP been/VBN explored/VBN and/CC exploited/VBN in/IN the/DT last/JJ years/NNS ,/, but/CC symmetries/NNS in/IN continuous/JJ constraint/NN problems/NNS have/VBP not/RB received/VBN the/DT same/JJ attention/NN ./.
+Here/RB we/PRP focus/VBP on/IN permutations/NNS of/IN the/DT variables/NNS consisting/VBG of/IN one/CD single/JJ cycle/NN ./.
+We/PRP propose/VBP a/DT procedure/NN that/WDT takes/VBZ advantage/NN of/IN these/DT symmetries/NNS by/IN interacting/VBG with/IN a/DT continuous/JJ constraint/NN solver/NN without/IN interfering/VBG with/IN it/PRP ./.
+A/DT key/JJ concept/NN in/IN this/DT procedure/NN are/VBP the/DT classes/NNS of/IN symmetric/JJ boxes/NNS formed/VBN by/IN bisecting/VBG a/DT n/NN -/HYPH dimensional/JJ cube/NN at/IN the/DT same/JJ point/NN in/IN all/DT dimensions/NNS at/IN the/DT same/JJ time/NN ./.
+We/PRP analyze/VBP these/DT classes/NNS and/CC quantify/VB them/PRP as/IN a/DT function/NN of/IN the/DT cube/NN dimensionality/NN ./.
+Moreover/RB ,/, we/PRP propose/VBP a/DT simple/JJ algorithm/NN to/TO generate/VB the/DT representatives/NNS of/IN all/PDT these/DT classes/NNS for/IN any/DT number/NN of/IN variables/NNS at/IN very/RB high/JJ rates/NNS ./.
+A/DT problem/NN example/NN from/IN the/DT chemical/NN and/CC #/NN 64257/CD ;/: eld/NN and/CC the/DT cyclic/JJ n/NN -/HYPH roots/NNS problem/NN are/VBP used/VBN to/TO show/VB the/DT performance/NN of/IN the/DT approach/NN in/IN practice/NN ./.

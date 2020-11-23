@@ -1,0 +1,3 @@
+The problem of learning a minimal consistent model from a set of labeled sequences of symbols is addressed from a satisfiability modulo theories perspective.
+We present two encodings for deterministic finite automata and extend one of these for Moore and Mealy machines.
+Our experimental results show that these encodings improve upon the state-of-the-art, and are useful in practice for learning small models.

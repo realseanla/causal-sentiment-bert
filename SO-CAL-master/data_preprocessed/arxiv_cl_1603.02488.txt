@@ -1,0 +1,8 @@
+The/DT goal/NN of/IN this/DT research/NN is/VBZ to/TO extract/VB a/DT large/JJ list/NN or/CC table/NN from/IN named/VBN entities/NNS and/CC relations/NNS in/IN a/DT specific/JJ domain/NN ./.
+A/DT small/JJ set/NN of/IN a/DT handful/NN of/IN instance/NN relations/NNS is/VBZ required/VBN as/IN input/NN from/IN the/DT user/NN ./.
+The/DT system/NN exploits/NNS summaries/NNS from/IN Google/NNP search/NN engine/NN as/IN a/DT source/NN text/NN ./.
+These/DT instances/NNS are/VBP used/VBN to/TO extract/VB patterns/NNS ./.
+The/DT output/NN is/VBZ a/DT set/NN of/IN new/JJ entities/NNS and/CC their/PRP$ relations/NNS ./.
+The/DT results/NNS from/IN four/CD experiments/NNS show/VBP that/IN precision/NN and/CC recall/NN varies/VBZ according/VBG to/IN relation/NN type/NN ./.
+Precision/NNP ranges/VBZ from/IN 0.61/CD to/IN 0.75/CD while/IN recall/NN ranges/VBZ from/IN 0.71/CD to/IN 0.83/CD ./.
+The/DT best/JJS result/NN is/VBZ obtained/VBN for/IN (/-LRB- player/NN ,/, club/NN )/-RRB- relationship/NN ,/, 0.72/CD and/CC 0.83/CD for/IN precision/NN and/CC recall/NN respectively/RB ./.

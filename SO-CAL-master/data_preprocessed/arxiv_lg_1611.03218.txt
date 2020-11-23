@@ -1,0 +1,7 @@
+Learning/VBG your/PRP$ first/JJ language/NN is/VBZ an/DT incredible/JJ feat/NN and/CC not/RB easily/RB duplicated/VBN ./.
+Doing/VBG this/DT using/VBG nothing/NN but/IN a/DT few/JJ pictureless/JJ books/NNS ,/, a/DT corpus/NN ,/, would/MD likely/RB be/VB impossible/JJ even/RB for/IN humans/NNS ./.
+As/IN an/DT alternative/NN we/PRP propose/VBP to/TO use/VB situated/VBN interactions/NNS between/IN agents/NNS as/IN a/DT driving/VBG force/NN for/IN communication/NN ,/, and/CC the/DT framework/NN of/IN Deep/NNP Recurrent/NNP Q/NNP -/HYPH Networks/NNP (/-LRB- DRQN/NNP )/-RRB- for/IN learning/VBG a/DT common/JJ language/NN grounded/VBN in/IN the/DT provided/VBN environment/NN ./.
+We/PRP task/NN the/DT agents/NNS with/IN interactive/JJ image/NN search/NN in/IN the/DT form/NN of/IN the/DT game/NN Guess/VB Who/WP ?/.
+./.
+The/DT images/NNS from/IN the/DT game/NN provide/VB a/DT non/FW trivial/JJ environment/NN for/IN the/DT agents/NNS to/TO discuss/VB and/CC a/DT natural/JJ grounding/NN for/IN the/DT concepts/NNS they/PRP decide/VBP to/TO encode/VB in/IN their/PRP$ communication/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN it/PRP is/VBZ possible/JJ to/TO learn/VB this/DT task/NN using/VBG DRQN/NNP and/CC even/RB more/RBR importantly/RB that/IN the/DT words/NNS the/DT agents/NNS use/VBP correspond/VBP to/IN physical/JJ attributes/NNS present/JJ in/IN the/DT images/NNS that/WDT make/VBP up/RP the/DT agents/NNS environment/NN ./.

@@ -1,0 +1,10 @@
+The/DT ignoring/VBG delete/JJ lists/NNS relaxation/NN is/VBZ of/IN paramount/JJ importance/NN for/IN both/DT satisficing/NN and/CC optimal/JJ planning/NN ./.
+In/IN earlier/JJR work/NN ,/, it/PRP was/VBD observed/VBN that/IN the/DT optimal/JJ relaxation/NN heuristic/NN h/NN has/VBZ amazing/JJ qualities/NNS in/IN many/JJ classical/JJ planning/NN benchmarks/NNS ,/, in/IN particular/JJ pertaining/VBG to/IN the/DT complete/JJ absence/NN of/IN local/JJ minima/NN ./.
+The/DT proofs/NNS of/IN this/DT are/VBP hand/NN -/HYPH made/VBN ,/, raising/VBG the/DT question/NN whether/IN such/JJ proofs/NNS can/MD be/VB lead/JJ automatically/RB by/IN domain/NN analysis/NN techniques/NNS ./.
+In/IN contrast/NN to/IN earlier/JJR disappointing/JJ results/NNS --/: the/DT analysis/NN method/NN has/VBZ exponential/JJ runtime/NN and/CC succeeds/VBZ only/RB in/IN two/CD extremely/RB simple/JJ benchmark/NN domains/NNS --/: we/PRP herein/RB answer/VB this/DT question/NN in/IN the/DT affirmative/JJ ./.
+We/PRP establish/VBP connections/NNS between/IN causal/JJ graph/NN structure/NN and/CC h/NN topology/NN ./.
+This/DT results/VBZ in/IN low/JJ -/HYPH order/NN polynomial/JJ time/NN analysis/NN methods/NNS ,/, implemented/VBN in/IN a/DT tool/NN we/PRP call/VBP TorchLight/NNP ./.
+Of/IN the/DT 12/CD domains/NNS where/WRB the/DT absence/NN of/IN local/JJ minima/NN has/VBZ been/VBN proved/VBN ,/, TorchLight/NNP gives/VBZ strong/JJ success/NN guarantees/NNS in/IN 8/CD domains/NNS ./.
+Empirically/RB ,/, its/PRP$ analysis/NN exhibits/VBZ strong/JJ performance/NN in/IN a/DT further/RBR 2/CD of/IN these/DT domains/NNS ,/, plus/CC in/IN 4/CD more/JJR domains/NNS where/WRB local/JJ minima/NN may/MD exist/VB but/CC are/VBP rare/JJ ./.
+In/IN this/DT way/NN ,/, TorchLight/NNP can/MD distinguish/VB easy/JJ domains/NNS from/IN hard/JJ ones/NNS ./.
+By/IN summarizing/VBG structural/JJ reasons/NNS for/IN analysis/NN failure/NN ,/, TorchLight/NNP also/RB provides/VBZ diagnostic/JJ output/NN indicating/VBG domain/NN aspects/NNS that/WDT may/MD cause/VB local/JJ minima/NN ./.

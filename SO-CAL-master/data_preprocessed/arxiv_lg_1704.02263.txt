@@ -1,0 +1,5 @@
+This/DT paper/NN describes/VBZ our/PRP$ multi-view/JJ ensemble/NN approach/NN to/IN SemEval/NNP -/HYPH 2017/NNP Task/NNP 4/CD on/IN Sentiment/NN Analysis/NN in/IN Twitter/NNP ,/, specifically/RB ,/, the/DT Message/NN Polarity/NN Classification/NN subtask/NN for/IN English/NNP (/-LRB- subtask/NN A/NN )/-RRB- ./.
+Our/PRP$ system/NN is/VBZ a/DT voting/NN ensemble/NN ,/, where/WRB each/DT base/NN classifier/NN is/VBZ trained/VBN in/IN a/DT different/JJ feature/NN space/NN ./.
+The/DT first/JJ space/NN is/VBZ a/DT bag/NN -/HYPH of/IN -/HYPH words/NNS model/NN and/CC has/VBZ a/DT Linear/NNP SVM/NNP as/IN base/NN classifier/NN ./.
+The/DT second/JJ and/CC third/JJ spaces/NNS are/VBP two/CD different/JJ strategies/NNS of/IN combining/VBG word/NN embeddings/NNS to/TO represent/VB sentences/NNS and/CC use/VB a/DT Linear/NNP SVM/NNP and/CC a/DT Logistic/JJ Regressor/NNP as/IN base/NN classifiers/NNS ./.
+The/DT proposed/VBN system/NN was/VBD ranked/VBN 18th/JJ out/IN of/IN 38/CD systems/NNS considering/VBG F1/NN score/NN and/CC 20th/JJ considering/VBG recall/NN ./.

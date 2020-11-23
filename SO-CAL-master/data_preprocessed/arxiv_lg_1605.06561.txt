@@ -1,0 +1,8 @@
+Newton/NNP 's/POS method/NN is/VBZ a/DT fundamental/JJ technique/NN in/IN optimization/NN with/IN quadratic/JJ convergence/NN within/IN a/DT neighborhood/NN around/IN the/DT optimum/JJ ./.
+However/RB reaching/VBG this/DT neighborhood/NN is/VBZ often/RB slow/JJ and/CC dominates/VBZ the/DT computational/JJ costs/NNS ./.
+We/PRP exploit/VBP two/CD properties/NNS specific/JJ to/IN empirical/JJ risk/NN minimization/NN problems/NNS to/TO accelerate/VB Newton/NNP 's/POS method/NN ,/, namely/RB ,/, subsampling/VBG training/NN data/NNS and/CC increasing/VBG strong/JJ convexity/NN through/IN regularization/NN ./.
+We/PRP propose/VBP a/DT novel/JJ continuation/NN method/NN ,/, where/WRB we/PRP define/VBP a/DT family/NN of/IN objectives/NNS over/IN increasing/VBG sample/NN sizes/NNS and/CC with/IN decreasing/VBG regularization/NN strength/NN ./.
+Solutions/NNS on/IN this/DT path/NN are/VBP tracked/VBN such/JJ that/IN the/DT minimizer/NN of/IN the/DT previous/JJ objective/NN is/VBZ guaranteed/VBN to/TO be/VB within/IN the/DT quadratic/JJ convergence/NN region/NN of/IN the/DT next/JJ objective/NN to/TO be/VB optimized/VBN ./.
+Thereby/RB every/DT Newton/NNP iteration/NN is/VBZ guaranteed/VBN to/TO achieve/VB super-linear/JJ contractions/NNS with/IN regard/NN to/IN the/DT chosen/VBN objective/NN ,/, which/WDT becomes/VBZ a/DT moving/VBG target/NN ./.
+We/PRP provide/VBP a/DT theoretical/JJ analysis/NN that/WDT motivates/VBZ our/PRP$ algorithm/NN ,/, called/VBN DynaNewton/NNP ,/, and/CC characterizes/VBZ its/PRP$ speed/NN of/IN convergence/NN ./.
+Experiments/NNS on/IN a/DT wide/JJ range/NN of/IN data/NNS sets/NNS and/CC problems/NNS consistently/RB confirm/VBP the/DT predicted/VBN computational/JJ savings/NNS ./.

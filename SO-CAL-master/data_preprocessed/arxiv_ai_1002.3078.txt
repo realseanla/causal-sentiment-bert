@@ -1,0 +1,5 @@
+Transforming/NN constraint/NN models/NNS is/VBZ an/DT important/JJ task/NN in/IN re/IN -/HYPH cent/NN constraint/NN programming/NN systems/NNS ./.
+User/NN -/HYPH understandable/JJ models/NNS are/VBP defined/VBN during/IN the/DT modeling/NN phase/NN but/CC rewriting/VBG or/CC tuning/VBG them/PRP is/VBZ manda/FW -/HYPH tory/FW to/TO get/VB solving/VBG -/HYPH efficient/JJ models/NNS ./.
+We/PRP propose/VBP a/DT new/JJ architecture/NN al/NNP -/HYPH lowing/VBG to/TO define/VB bridges/NNS between/IN any/DT (/-LRB- modeling/NN or/CC solver/NN )/-RRB- languages/NNS and/CC to/TO implement/VB model/NN optimizations/NNS ./.
+This/DT architecture/NN follows/VBZ a/DT model/NN -/HYPH driven/VBN approach/NN where/WRB the/DT constraint/NN modeling/NN process/NN is/VBZ seen/VBN as/IN a/DT set/NN of/IN model/NN transformations/NNS ./.
+Among/IN others/NNS ,/, an/DT interesting/JJ feature/NN is/VBZ the/DT def/RB -/HYPH inition/NN of/IN transformations/NNS as/IN concept/NN -/HYPH oriented/VBN rules/NNS ,/, i.e./FW based/VBN on/IN types/NNS of/IN model/NN elements/NNS where/WRB the/DT types/NNS are/VBP organized/VBN into/IN a/DT hierarchy/NN called/VBD a/DT metamodel/NN ./.

@@ -1,0 +1,6 @@
+Convolutional/JJ neural/JJ networks/NNS excel/VBP in/IN image/NN recognition/NN tasks/NNS ,/, but/CC this/DT comes/VBZ at/IN the/DT cost/NN of/IN high/JJ computational/JJ and/CC memory/NN complexity/NN ./.
+To/TO tackle/VB this/DT problem/NN ,/, [/-LRB- 1/CD ]/-RRB- developed/VBD a/DT tensor/NN factorization/NN framework/NN to/IN compress/VB fully/RB -/HYPH connected/VBN layers/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN compressing/VBG convolutional/JJ layers/NNS ./.
+We/PRP show/VBP that/IN while/IN the/DT direct/JJ application/NN of/IN the/DT tensor/NN framework/NN [/-LRB- 1/CD ]/-RRB- to/IN the/DT 4/CD -/HYPH dimensional/JJ kernel/NN of/IN convolution/NN does/VBZ compress/VB the/DT layer/NN ,/, we/PRP can/MD do/VB better/JJR ./.
+We/PRP reshape/VBP the/DT convolutional/JJ kernel/NN into/IN a/DT tensor/NN of/IN higher/JJR order/NN and/CC factorize/VBP it/PRP ./.
+We/PRP combine/VBP the/DT proposed/VBN approach/NN with/IN the/DT previous/JJ work/NN to/TO compress/VB both/DT convolutional/JJ and/CC fully/RB -/HYPH connected/VBN layers/NNS of/IN a/DT network/NN and/CC achieve/VB 80x/CD network/NN compression/NN rate/NN with/IN 1.1/CD percent/NN accuracy/NN drop/NN on/IN the/DT CIFAR/NN -/HYPH 10/CD dataset/NN ./.

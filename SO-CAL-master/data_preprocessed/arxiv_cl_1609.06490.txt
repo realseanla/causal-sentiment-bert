@@ -1,0 +1,6 @@
+Neural/JJ machine/NN translation/NN (/-LRB- NMT/NN )/-RRB- becomes/VBZ a/DT new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN and/CC achieves/VBZ promising/JJ translation/NN results/NNS using/VBG a/DT simple/JJ encoder/NN -/HYPH decoder/NN neural/JJ network/NN ./.
+This/DT neural/JJ network/NN is/VBZ trained/VBN once/RB on/IN the/DT parallel/JJ corpus/NN and/CC the/DT fixed/VBN network/NN is/VBZ used/VBN to/TO translate/VB all/PDT the/DT test/NN sentences/NNS ./.
+We/PRP argue/VBP that/IN the/DT general/JJ fixed/VBN network/NN can/MD not/RB best/JJS fit/VB the/DT specific/JJ test/NN sentences/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP the/DT dynamic/JJ NMT/NN which/WDT learns/VBZ a/DT general/JJ network/NN as/IN usual/JJ ,/, and/CC then/RB fine/JJ -/HYPH tunes/NNS the/DT network/NN for/IN each/DT test/NN sentence/NN ./.
+The/DT fine/JJ -/HYPH tune/NN work/NN is/VBZ done/VBN on/IN a/DT small/JJ set/NN of/IN the/DT bilingual/JJ training/NN data/NNS that/WDT is/VBZ obtained/VBN through/IN similarity/NN search/NN according/VBG to/IN the/DT test/NN sentence/NN ./.
+Extensive/JJ experiments/NNS demonstrate/VBP that/IN this/DT method/NN can/MD significantly/RB improve/VB the/DT translation/NN performance/NN ,/, especially/RB when/WRB highly/RB similar/JJ sentences/NNS are/VBP available/JJ ./.

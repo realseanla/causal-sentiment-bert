@@ -1,0 +1,4 @@
+We propose the split-diffuse (SD) algorithm that takes the output of an existing dimension reduction algorithm, and distributes the data points uniformly across the visualization space.
+The result, called the topic grids, is a set of grids on various topics which are generated from the free-form text content of any domain of interest.
+The topic grids efficiently utilizes the visualization space to provide visual summaries for massive data.
+Topical analysis, comparison and interaction can be performed on the topic grids in a more perceivable way.

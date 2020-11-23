@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN we/PRP present/VBP a/DT model/NN that/WDT leverages/VBZ a/DT bidirectional/JJ long/JJ short/JJ -/HYPH term/NN memory/NN network/NN to/TO learn/VB word/NN sense/NN disambiguation/NN directly/RB from/IN data/NNS ./.
+The/DT approach/NN is/VBZ end/NN -/HYPH to/IN -/HYPH end/NN trainable/JJ and/CC makes/VBZ effective/JJ use/NN of/IN word/NN order/NN ./.
+Further/RB ,/, to/TO improve/VB the/DT robustness/NN of/IN the/DT model/NN we/PRP introduce/VBP dropword/NN ,/, a/DT regularization/NN technique/NN that/WDT randomly/RB removes/VBZ words/NNS from/IN the/DT text/NN ./.
+The/DT model/NN is/VBZ evaluated/VBN on/IN two/CD standard/JJ datasets/NNS and/CC achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN both/DT datasets/NNS ,/, using/VBG identical/JJ hyperparameter/NN settings/NNS ./.

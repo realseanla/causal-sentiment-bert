@@ -1,0 +1,16 @@
+This/DT paper/NN presents/VBZ a/DT tumor/NN detection/NN algorithm/NN from/IN mammogram/NN ./.
+The/DT proposed/VBN system/NN focuses/VBZ on/IN the/DT solution/NN of/IN two/CD problems/NNS ./.
+One/CD is/VBZ how/WRB to/TO detect/VB tumors/NNS as/IN suspicious/JJ regions/NNS with/IN a/DT very/RB weak/JJ contrast/NN to/IN their/PRP$ background/NN and/CC another/DT is/VBZ how/WRB to/TO extract/VB features/NNS which/WDT categorize/VBP tumors/NNS ./.
+The/DT tumor/NN detection/NN method/NN follows/VBZ the/DT scheme/NN of/IN (/-LRB- a/DT )/-RRB- mammogram/NN enhancement/NN ./.
+(/-LRB- b/LS )/-RRB- The/DT segmentation/NN of/IN the/DT tumor/NN area/NN ./.
+(/-LRB- c/LS )/-RRB- The/DT extraction/NN of/IN features/NNS from/IN the/DT segmented/JJ tumor/NN area/NN ./.
+(/-LRB- d/LS )/-RRB- The/DT use/NN of/IN SVM/NNP classifier/NN ./.
+The/DT enhancement/NN can/MD be/VB defined/VBN as/IN conversion/NN of/IN the/DT image/NN quality/NN to/IN a/DT better/JJR and/CC more/JJR understandable/JJ level/NN ./.
+The/DT mammogram/NN enhancement/NN procedure/NN includes/VBZ filtering/NN ,/, top/JJ hat/NN operation/NN ,/, DWT/NN ./.
+Then/RB the/DT contrast/NN stretching/VBG is/VBZ used/VBN to/TO increase/VB the/DT contrast/NN of/IN the/DT image/NN ./.
+The/DT segmentation/NN of/IN mammogram/NN images/NNS has/VBZ been/VBN playing/VBG an/DT important/JJ role/NN to/TO improve/VB the/DT detection/NN and/CC diagnosis/NN of/IN breast/NN cancer/NN ./.
+The/DT most/RBS common/JJ segmentation/NN method/NN used/VBN is/VBZ thresholding/VBG ./.
+The/DT features/NNS are/VBP extracted/VBN from/IN the/DT segmented/JJ breast/NN area/NN ./.
+Next/JJ stage/NN include/VBP ,/, which/WDT classifies/VBZ the/DT regions/NNS using/VBG the/DT SVM/NNP classifier/NN ./.
+The/DT method/NN was/VBD tested/VBN on/IN 75/CD mammographic/JJ images/NNS ,/, from/IN the/DT mini-MIAS/JJ database/NN ./.
+The/DT methodology/NN achieved/VBD a/DT sensitivity/NN of/IN 88.75/CD percent/NN ./.

@@ -1,0 +1,8 @@
+The/DT problem/NN of/IN stereoscopic/JJ image/NN quality/NN assessment/NN ,/, which/WDT finds/VBZ applications/NNS in/IN 3D/JJ visual/JJ content/NN delivery/NN such/JJ as/IN 3DTV/NN ,/, is/VBZ investigated/VBN in/IN this/DT work/NN ./.
+Specifically/RB ,/, we/PRP propose/VBP a/DT new/JJ ParaBoost/NN (/-LRB- parallel/NN -/HYPH boosting/VBG )/-RRB- stereoscopic/JJ image/NN quality/NN assessment/NN (/-LRB- PBSIQA/NN )/-RRB- system/NN ./.
+The/DT system/NN consists/VBZ of/IN two/CD stages/NNS ./.
+In/IN the/DT first/JJ stage/NN ,/, various/JJ distortions/NNS are/VBP classified/VBN into/IN a/DT few/JJ types/NNS ,/, and/CC individual/JJ quality/NN scorers/NNS targeting/VBG at/IN a/DT specific/JJ distortion/NN type/NN are/VBP developed/VBN ./.
+These/DT scorers/NNS offer/VBP complementary/JJ performance/NN in/IN face/NN of/IN a/DT database/NN consisting/VBG of/IN heterogeneous/JJ distortion/NN types/NNS ./.
+In/IN the/DT second/JJ stage/NN ,/, scores/NNS from/IN multiple/JJ quality/NN scorers/NNS are/VBP fused/VBN to/TO achieve/VB the/DT best/JJS overall/JJ performance/NN ,/, where/WRB the/DT fuser/NN is/VBZ designed/VBN based/VBN on/IN the/DT parallel/JJ boosting/VBG idea/NN borrowed/VBN from/IN machine/NN learning/NN ./.
+Extensive/JJ experimental/JJ results/NNS are/VBP conducted/VBN to/TO compare/VB the/DT performance/NN of/IN the/DT proposed/VBN PBSIQA/NN system/NN with/IN those/DT of/IN existing/VBG stereo/NN image/NN quality/NN assessment/NN (/-LRB- SIQA/NNP )/-RRB- metrics/NNS ./.
+The/DT developed/JJ quality/NN metric/NN can/MD serve/VB as/IN an/DT objective/JJ function/NN to/TO optimize/VB the/DT performance/NN of/IN a/DT 3D/NN content/NN delivery/NN system/NN ./.

@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT memory/NN -/HYPH bounded/VBN optimization/NN approach/NN for/IN solving/VBG infinite/JJ -/HYPH horizon/NN decentralized/VBN POMDPs/NNS ./.
+Policies/NNS for/IN each/DT agent/NN are/VBP represented/VBN by/IN stochastic/JJ finite/JJ state/NN controllers/NNS ./.
+We/PRP formulate/VBP the/DT problem/NN of/IN optimizing/VBG these/DT policies/NNS as/IN a/DT nonlinear/JJ program/NN ,/, leveraging/VBG powerful/JJ existing/VBG nonlinear/JJ optimization/NN techniques/NNS for/IN solving/VBG the/DT problem/NN ./.
+While/IN existing/VBG solvers/NNS only/RB guarantee/VBP locally/RB optimal/JJ solutions/NNS ,/, we/PRP show/VBP that/IN our/PRP$ formulation/NN produces/VBZ higher/JJR quality/NN controllers/NNS than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approach/NN ./.
+We/PRP also/RB incorporate/VB a/DT shared/VBN source/NN of/IN randomness/NN in/IN the/DT form/NN of/IN a/DT correlation/NN device/NN to/TO further/RB increase/VB solution/NN quality/NN with/IN only/RB a/DT limited/JJ increase/NN in/IN space/NN and/CC time/NN ./.
+Our/PRP$ experimental/JJ results/NNS show/VBP that/IN nonlinear/JJ optimization/NN can/MD be/VB used/VBN to/TO provide/VB high/JJ quality/NN ,/, concise/JJ solutions/NNS to/IN decentralized/VBN decision/NN problems/NNS under/IN uncertainty/NN ./.

@@ -1,0 +1,5 @@
+As Bayesian networks are applied to larger and more complex problem domains, search for flexible modeling and more efficient inference methods is an ongoing effort.
+Multiply sectioned Bayesian networks (MSBNs) extend the HUGIN inference for Bayesian networks into a coherent framework for flexible modeling and distributed inference.Lazy propagation extends the Shafer-Shenoy and HUGIN inference methods with reduced space complexity.
+We apply the Shafer-Shenoy and lazy propagation to inference in MSBNs.
+The combination of the MSBN framework and lazy propagation provides a better framework for modeling and inference in very large domains.
+It retains the modeling flexibility of MSBNs and reduces the runtime space complexity, allowing exact inference in much larger domains given the same computational resources.

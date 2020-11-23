@@ -1,0 +1,5 @@
+We/PRP define/VBP a/DT novel/JJ family/NN of/IN algorithms/NNS for/IN the/DT adversarial/JJ multi-armed/JJ bandit/NN problem/NN ,/, and/CC provide/VB a/DT simple/JJ analysis/NN technique/NN based/VBN on/IN convex/NN smoothing/NN ./.
+We/PRP prove/VBP two/CD main/JJ results/NNS ./.
+First/RB ,/, we/PRP show/VBP that/IN regularization/NN via/IN the/DT \/SYM emph/NN {/-LRB- Tsallis/NNP entropy/NN }/-RRB- ,/, which/WDT includes/VBZ EXP3/NN as/IN a/DT special/JJ case/NN ,/, achieves/VBZ the/DT $/$ \/SYM Theta/NNP (/-LRB- \/SYM sqrt/NN {/-LRB- TN/NNP }/-RRB- )/-RRB- $/$ minimax/CD regret/NN ./.
+Second/RB ,/, we/PRP show/VBP that/IN a/DT wide/JJ class/NN of/IN perturbation/NN methods/NNS achieve/VBP a/DT near/JJ -/HYPH optimal/JJ regret/NN as/IN low/JJ as/IN $/$ O/UH (/-LRB- \/SYM sqrt/NN {/-LRB- TN/NNP \/SYM log/NN N/NN }/-RRB- )/-RRB- $/$ if/IN the/DT perturbation/NN distribution/NN has/VBZ a/DT bounded/VBN hazard/NN rate/NN ./.
+For/IN example/NN ,/, the/DT Gumbel/NNP ,/, Weibull/NNP ,/, Frechet/NNP ,/, Pareto/NNP ,/, and/CC Gamma/NNP distributions/NNS all/DT satisfy/VBP this/DT key/JJ property/NN ./.

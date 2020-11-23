@@ -1,0 +1,8 @@
+The/DT Moore/NNP -/HYPH Lewis/NNP method/NN of/IN "/`` intelligent/JJ selection/NN of/IN language/NN model/NN training/NN data/NNS "/'' is/VBZ very/RB effective/JJ ,/, cheap/JJ ,/, efficient/JJ .../: and/CC also/RB has/VBZ structural/JJ problems/NNS ./.
+(/-LRB- 1/LS )/-RRB- The/DT method/NN defines/VBZ relevance/NN by/IN playing/VBG language/NN models/NNS trained/VBN on/IN the/DT in/IN -/HYPH domain/NN and/CC the/DT out/NN -/HYPH of/IN -/HYPH domain/NN (/-LRB- or/CC data/NNS pool/NN )/-RRB- corpora/NN against/IN each/DT other/JJ ./.
+This/DT powerful/JJ idea/NN --/: which/WDT we/PRP set/VBD out/RP to/TO preserve/VB --/: treats/VBZ the/DT two/CD corpora/NNS as/IN the/DT opposing/VBG ends/NNS of/IN a/DT single/JJ spectrum/NN ./.
+This/DT lack/NN of/IN nuance/NN does/VBZ not/RB allow/VB for/IN the/DT two/CD corpora/NNS to/TO be/VB very/RB similar/JJ ./.
+In/IN the/DT extreme/JJ case/NN where/WRB the/DT come/VBN from/IN the/DT same/JJ distribution/NN ,/, all/DT of/IN the/DT sentences/NNS have/VBP a/DT Moore/NNP -/HYPH Lewis/NNP score/NN of/IN zero/CD ,/, so/RB there/RB is/VBZ no/DT resulting/VBG ranking/NN ./.
+(/-LRB- 2/LS )/-RRB- The/DT selected/VBN sentences/NNS are/VBP not/RB guaranteed/VBN to/TO be/VB able/JJ to/TO model/VB the/DT in/IN -/HYPH domain/NN data/NNS ,/, nor/CC to/TO even/RB cover/VB the/DT in/IN -/HYPH domain/NN data/NNS ./.
+They/PRP are/VBP simply/RB well/RB -/HYPH liked/VBN by/IN the/DT in/IN -/HYPH domain/NN model/NN ;/: this/DT is/VBZ necessary/JJ ,/, but/CC not/RB sufficient/JJ ./.
+(/-LRB- 3/LS )/-RRB- There/EX is/VBZ no/DT way/NN to/TO tell/VB what/WP is/VBZ the/DT optimal/JJ number/NN of/IN sentences/NNS to/TO select/VB ,/, short/JJ of/IN picking/VBG various/JJ thresholds/NNS and/CC building/VBG the/DT systems/NNS ./.

@@ -1,0 +1,8 @@
+Adequate/JJ representation/NN of/IN natural/JJ language/NN semantics/NNS requires/VBZ access/NN to/IN vast/JJ amounts/NNS of/IN common/JJ sense/NN and/CC domain/NN -/HYPH specific/JJ world/NN knowledge/NN ./.
+Prior/JJ work/NN in/IN the/DT field/NN was/VBD based/VBN on/IN purely/RB statistical/JJ techniques/NNS that/WDT did/VBD not/RB make/VB use/NN of/IN background/NN knowledge/NN ,/, on/IN limited/JJ lexicographic/JJ knowledge/NN bases/NNS such/JJ as/IN WordNet/NNP ,/, or/CC on/IN huge/JJ manual/JJ efforts/NNS such/JJ as/IN the/DT CYC/NNP project/NN ./.
+Here/RB we/PRP propose/VBP a/DT novel/JJ method/NN ,/, called/VBN Explicit/NNP Semantic/NNP Analysis/NN (/-LRB- ESA/NN )/-RRB- ,/, for/IN fine/JJ -/HYPH grained/JJ semantic/JJ interpretation/NN of/IN unrestricted/JJ natural/JJ language/NN texts/NNS ./.
+Our/PRP$ method/NN represents/VBZ meaning/VBG in/IN a/DT high/JJ -/HYPH dimensional/JJ space/NN of/IN concepts/NNS derived/VBN from/IN Wikipedia/NNP ,/, the/DT largest/JJS encyclopedia/NN in/IN existence/NN ./.
+We/PRP explicitly/RB represent/VBP the/DT meaning/NN of/IN any/DT text/NN in/IN terms/NNS of/IN Wikipedia/NNP -/HYPH based/VBN concepts/NNS ./.
+We/PRP evaluate/VBP the/DT effectiveness/NN of/IN our/PRP$ method/NN on/IN text/NN categorization/NN and/CC on/IN computing/VBG the/DT degree/NN of/IN semantic/JJ relatedness/NN between/IN fragments/NNS of/IN natural/JJ language/NN text/NN ./.
+Using/VBG ESA/NN results/NNS in/IN significant/JJ improvements/NNS over/IN the/DT previous/JJ state/NN of/IN the/DT art/NN in/IN both/CC tasks/NNS ./.
+Importantly/RB ,/, due/IN to/IN the/DT use/NN of/IN natural/JJ concepts/NNS ,/, the/DT ESA/NN model/NN is/VBZ easy/JJ to/TO explain/VB to/IN human/JJ users/NNS ./.

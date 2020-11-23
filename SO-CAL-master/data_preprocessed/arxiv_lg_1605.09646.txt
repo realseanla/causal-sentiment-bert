@@ -1,0 +1,8 @@
+The/DT restricted/JJ isometry/NN property/NN (/-LRB- RIP/UH )/-RRB- for/IN design/NN matrices/NNS gives/VBZ guarantees/NNS for/IN optimal/JJ recovery/NN in/IN sparse/JJ linear/JJ models/NNS ./.
+It/PRP is/VBZ of/IN high/JJ interest/NN in/IN compressed/JJ sensing/VBG and/CC statistical/JJ learning/NN ./.
+This/DT property/NN is/VBZ particularly/RB important/JJ for/IN computationally/RB efficient/JJ recovery/NN methods/NNS ./.
+As/IN a/DT consequence/NN ,/, even/RB though/IN it/PRP is/VBZ in/IN general/JJ NP/NNP -/HYPH hard/JJ to/TO check/VB that/IN RIP/UH holds/VBZ ,/, there/EX have/VBP been/VBN substantial/JJ efforts/NNS to/TO find/VB tractable/JJ proxies/NNS for/IN it/PRP ./.
+These/DT would/MD allow/VB the/DT construction/NN of/IN RIP/UH matrices/NNS and/CC the/DT polynomial/JJ -/HYPH time/NN verification/NN of/IN RIP/UH given/VBN an/DT arbitrary/JJ matrix/NN ./.
+We/PRP consider/VBP the/DT framework/NN of/IN average/JJ -/HYPH case/NN certifiers/NNS ,/, that/WDT never/RB wrongly/RB declare/VB that/IN a/DT matrix/NN is/VBZ RIP/UH ,/, while/IN being/VBG often/RB correct/JJ for/IN random/JJ instances/NNS ./.
+While/IN there/EX are/VBP such/JJ functions/NNS which/WDT are/VBP tractable/JJ in/IN a/DT suboptimal/JJ parameter/NN regime/NN ,/, we/PRP show/VBP that/IN this/DT is/VBZ a/DT computationally/RB hard/JJ task/NN in/IN any/DT better/JJR regime/NN ./.
+Our/PRP$ results/NNS are/VBP based/VBN on/IN a/DT new/JJ ,/, weaker/JJR assumption/NN on/IN the/DT problem/NN of/IN detecting/VBG dense/JJ subgraphs/NNS ./.

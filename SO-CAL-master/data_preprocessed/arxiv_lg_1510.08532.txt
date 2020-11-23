@@ -1,0 +1,8 @@
+The/DT singular/JJ value/NN decomposition/NN (/-LRB- SVD/NN )/-RRB- is/VBZ not/RB only/RB a/DT classical/JJ theory/NN in/IN matrix/NN computation/NN and/CC analysis/NN ,/, but/CC also/RB is/VBZ a/DT powerful/JJ tool/NN in/IN machine/NN learning/NN and/CC modern/JJ data/NNS analysis/NN ./.
+In/IN this/DT tutorial/NN we/PRP first/RB study/VB the/DT basic/JJ notion/NN of/IN SVD/NNP and/CC then/RB show/VB the/DT central/JJ role/NN of/IN SVD/NNP in/IN matrices/NNS ./.
+Using/VBG majorization/NN theory/NN ,/, we/PRP consider/VBP variational/JJ principles/NNS of/IN singular/JJ values/NNS and/CC eigenvalues/NNS ./.
+Built/VBN on/IN SVD/NNP and/CC a/DT theory/NN of/IN symmetric/JJ gauge/NN functions/NNS ,/, we/PRP discuss/VBP unitarily/RB invariant/JJ norms/NNS ,/, which/WDT are/VBP then/RB used/VBN to/TO formulate/VB general/JJ results/NNS for/IN matrix/NN low/JJ rank/NN approximation/NN ./.
+We/PRP study/VBP the/DT subdifferentials/NNS of/IN unitarily/RB invariant/JJ norms/NNS ./.
+These/DT results/NNS would/MD be/VB potentially/RB useful/JJ in/IN many/JJ machine/NN learning/NN problems/NNS such/JJ as/IN matrix/NN completion/NN and/CC matrix/NN data/NNS classification/NN ./.
+Finally/RB ,/, we/PRP discuss/VBP matrix/NN low/JJ rank/NN approximation/NN and/CC its/PRP$ recent/JJ developments/NNS such/JJ as/IN randomized/JJ SVD/NNP ,/, approximate/JJ matrix/NN multiplication/NN ,/, CUR/NN decomposition/NN ,/, and/CC Nystrom/NNP approximation/NN ./.
+Randomized/JJ algorithms/NNS are/VBP important/JJ approaches/NNS to/IN large/JJ scale/NN SVD/NN as/RB well/RB as/IN fast/JJ matrix/NN computations/NNS ./.

@@ -1,0 +1,3 @@
+This/DT paper/NN presents/VBZ a/DT powerful/JJ genetic/JJ algorithm/NN (/-LRB- GA/NN )/-RRB- to/TO solve/VB the/DT traveling/VBG salesman/NN problem/NN (/-LRB- TSP/NN )/-RRB- ./.
+To/TO construct/VB a/DT powerful/JJ GA/NN ,/, I/PRP use/VBP edge/NN swapping/VBG (/-LRB- ES/NN )/-RRB- with/IN a/DT local/JJ search/NN procedure/NN to/TO determine/VB good/JJ combinations/NNS of/IN building/NN blocks/NNS of/IN parent/NN solutions/NNS for/IN generating/VBG even/RB better/JJR offspring/NN solutions/NNS ./.
+Experimental/JJ results/NNS on/RB well/RB studied/VBN TSP/NN benchmarks/NNS demonstrate/VBP that/IN the/DT proposed/VBN GA/NN is/VBZ competitive/JJ in/IN finding/VBG very/RB high/JJ quality/NN solutions/NNS on/IN instances/NNS with/IN up/RB to/IN 16,862/CD cities/NNS ./.

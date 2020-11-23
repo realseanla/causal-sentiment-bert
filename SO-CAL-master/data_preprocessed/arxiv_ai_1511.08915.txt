@@ -1,0 +1,4 @@
+The/DT evaluation/NN of/IN Datalog/NNP rules/NNS over/IN large/JJ Knowledge/NN Graphs/NNS (/-LRB- KGs/NNS )/-RRB- is/VBZ essential/JJ for/IN many/JJ applications/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ method/NN of/IN materializing/VBG Datalog/NNP inferences/NNS ,/, which/WDT combines/VBZ a/DT column/NN -/HYPH based/VBN memory/NN layout/NN with/IN novel/JJ optimization/NN methods/NNS that/WDT avoid/VBP redundant/JJ inferences/NNS at/IN runtime/NN ./.
+The/DT pro-active/JJ caching/NN of/IN certain/JJ subqueries/NNS further/RB increases/VBZ efficiency/NN ./.
+Our/PRP$ empirical/JJ evaluation/NN shows/VBZ that/IN this/DT approach/NN can/MD often/RB match/VB or/CC even/RB surpass/VB the/DT performance/NN of/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN systems/NNS ,/, especially/RB under/IN restricted/VBN resources/NNS ./.

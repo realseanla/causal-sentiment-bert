@@ -1,0 +1,9 @@
+Researchers/NNS often/RB summarize/VBP their/PRP$ work/NN in/IN the/DT form/NN of/IN posters/NNS ./.
+Posters/NNS provide/VBP a/DT coherent/JJ and/CC efficient/JJ way/NN to/TO convey/VB core/NN ideas/NNS from/IN scientific/JJ papers/NNS ./.
+Generating/NNP a/DT good/JJ scientific/JJ poster/NN ,/, however/RB ,/, is/VBZ a/DT complex/JJ and/CC time/NN consuming/VBG cognitive/JJ task/NN ,/, since/IN such/JJ posters/NNS need/VBP to/TO be/VB readable/JJ ,/, informative/JJ ,/, and/CC visually/RB aesthetic/JJ ./.
+In/IN this/DT paper/NN ,/, for/IN the/DT first/JJ time/NN ,/, we/PRP study/VBP the/DT challenging/JJ problem/NN of/IN learning/NN to/TO generate/VB posters/NNS from/IN scientific/JJ papers/NNS ./.
+To/IN this/DT end/NN ,/, a/DT data/NN -/HYPH driven/VBN framework/NN ,/, that/IN utilizes/VBZ graphical/JJ models/NNS ,/, is/VBZ proposed/VBN ./.
+Specifically/RB ,/, given/VBN content/NN to/TO display/VB ,/, the/DT key/JJ elements/NNS of/IN a/DT good/JJ poster/NN ,/, including/VBG panel/NN layout/NN and/CC attributes/NNS of/IN each/DT panel/NN ,/, are/VBP learned/VBN and/CC inferred/VBN from/IN data/NNS ./.
+Then/RB ,/, given/VBN inferred/VBN layout/NN and/CC attributes/NNS ,/, composition/NN of/IN graphical/JJ elements/NNS within/IN each/DT panel/NN is/VBZ synthesized/VBN ./.
+To/TO learn/VB and/CC validate/VB our/PRP$ model/NN ,/, we/PRP collect/VBP and/CC make/VBP public/JJ a/DT Poster/NN -/HYPH Paper/NN dataset/NN ,/, which/WDT consists/VBZ of/IN scientific/JJ papers/NNS and/CC corresponding/VBG posters/NNS with/IN exhaustively/RB labelled/VBN panels/NNS and/CC attributes/NNS ./.
+Qualitative/JJ and/CC quantitative/JJ results/NNS indicate/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN ./.

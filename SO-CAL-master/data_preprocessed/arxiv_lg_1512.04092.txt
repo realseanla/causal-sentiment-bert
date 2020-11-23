@@ -1,0 +1,6 @@
+The/DT goal/NN of/IN our/PRP$ project/NN is/VBZ to/TO develop/VB an/DT accurate/JJ tagger/NN for/IN questions/NNS posted/VBN on/IN Stack/NNP Exchange/NNP ./.
+Our/PRP$ problem/NN is/VBZ an/DT instance/NN of/IN the/DT more/RBR general/JJ problem/NN of/IN developing/VBG accurate/JJ classifiers/NNS for/IN large/JJ scale/NN text/NN datasets/NNS ./.
+We/PRP are/VBP tackling/VBG the/DT multilabel/NN classification/NN problem/NN where/WRB each/DT item/NN (/-LRB- in/IN this/DT case/NN ,/, question/NN )/-RRB- can/MD belong/VB to/IN multiple/JJ classes/NNS (/-LRB- in/IN this/DT case/NN ,/, tags/NNS )/-RRB- ./.
+We/PRP are/VBP predicting/VBG the/DT tags/NNS (/-LRB- or/CC keywords/NNS )/-RRB- for/IN a/DT particular/JJ Stack/NNP Exchange/NNP post/NN given/VBN only/RB the/DT question/NN text/NN and/CC the/DT title/NN of/IN the/DT post/NN ./.
+In/IN the/DT process/NN ,/, we/PRP compare/VBP the/DT performance/NN of/IN Support/NN Vector/NNP Classification/NN (/-LRB- SVC/NN )/-RRB- for/IN different/JJ kernel/NN functions/NNS ,/, loss/NN function/NN ,/, etc/FW ./.
+We/PRP found/VBD linear/JJ SVC/NN with/IN Crammer/NNP Singer/NNP technique/NN produces/VBZ best/JJS results/NNS ./.

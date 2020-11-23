@@ -1,0 +1,5 @@
+Temporal/JJ common/JJ sense/NN has/VBZ applications/NNS in/IN AI/NN tasks/NNS such/JJ as/IN QA/NNP ,/, multi-document/JJ summarization/NN ,/, and/CC human/JJ -/HYPH AI/NN communication/NN ./.
+We/PRP propose/VBP the/DT task/NN of/IN sequencing/NN --/: given/VBN a/DT jumbled/JJ set/NN of/IN aligned/VBN image/NN -/HYPH caption/NN pairs/NNS that/WDT belong/VBP to/IN a/DT story/NN ,/, the/DT task/NN is/VBZ to/TO sort/VB them/PRP such/JJ that/IN the/DT output/NN sequence/NN forms/VBZ a/DT coherent/JJ story/NN ./.
+We/PRP present/VBP multiple/JJ approaches/NNS ,/, via/IN unary/JJ (/-LRB- position/NN )/-RRB- and/CC pairwise/JJ (/-LRB- order/NN )/-RRB- predictions/NNS ,/, and/CC their/PRP$ ensemble/NN -/HYPH based/VBN combinations/NNS ,/, achieving/VBG strong/JJ results/NNS on/IN this/DT task/NN ./.
+As/IN features/NNS ,/, we/PRP use/VBP both/DT text/NN -/HYPH based/VBN and/CC image/NN -/HYPH based/VBN features/NNS ,/, which/WDT depict/VBP complementary/JJ improvements/NNS ./.
+Using/VBG qualitative/JJ examples/NNS ,/, we/PRP demonstrate/VBP that/IN our/PRP$ models/NNS have/VBP learnt/VBN interesting/JJ aspects/NNS of/IN temporal/JJ common/JJ sense/NN ./.

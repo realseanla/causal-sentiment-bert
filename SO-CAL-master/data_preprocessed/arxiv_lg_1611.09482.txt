@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ an/DT efficient/JJ implementation/NN of/IN the/DT Wavenet/NNP generation/NN process/NN called/VBN Fast/JJ Wavenet/NNP ./.
+Compared/VBN to/IN a/DT naive/JJ implementation/NN that/WDT has/VBZ complexity/NN O/NN (/-LRB- 2/CD ^/SYM L/NN )/-RRB- (/-LRB- L/NN denotes/VBZ the/DT number/NN of/IN layers/NNS in/IN the/DT network/NN )/-RRB- ,/, our/PRP$ proposed/VBN approach/NN removes/VBZ redundant/JJ convolution/NN operations/NNS by/IN caching/VBG previous/JJ calculations/NNS ,/, thereby/RB reducing/VBG the/DT complexity/NN to/IN O/NN (/-LRB- L/NN )/-RRB- time/NN ./.
+Timing/NN experiments/NNS show/VBP significant/JJ advantages/NNS of/IN our/PRP$ fast/JJ implementation/NN over/IN a/DT naive/JJ one/NN ./.
+While/IN this/DT method/NN is/VBZ presented/VBN for/IN Wavenet/NNP ,/, the/DT same/JJ scheme/NN can/MD be/VB applied/VBN anytime/RB one/CD wants/VBZ to/TO perform/VB autoregressive/JJ generation/NN or/CC online/JJ prediction/NN using/VBG a/DT model/NN with/IN dilated/VBN convolution/NN layers/NNS ./.
+The/DT code/NN for/IN our/PRP$ method/NN is/VBZ publicly/RB available/JJ ./.

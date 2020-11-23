@@ -1,0 +1,6 @@
+Graphs/NNS are/VBP a/DT useful/JJ abstraction/NN of/IN image/NN content/NN ./.
+Not/RB only/RB can/MD graphs/NNS represent/VB details/NNS about/IN individual/JJ objects/NNS in/IN a/DT scene/NN but/CC they/PRP can/MD capture/VB the/DT interactions/NNS between/IN pairs/NNS of/IN objects/NNS ./.
+We/PRP present/VBP a/DT method/NN for/IN training/VBG a/DT convolutional/JJ neural/JJ network/NN such/JJ that/IN it/PRP takes/VBZ in/RP an/DT input/NN image/NN and/CC produces/VBZ a/DT full/JJ graph/NN ./.
+This/DT is/VBZ done/VBN end/NN -/HYPH to/IN -/HYPH end/NN in/IN a/DT single/JJ stage/NN with/IN the/DT use/NN of/IN associative/JJ embeddings/NNS ./.
+The/DT network/NN learns/VBZ to/IN simultaneously/RB identify/VB all/DT of/IN the/DT elements/NNS that/WDT make/VBP up/RP a/DT graph/NN and/CC piece/NN them/PRP together/RB ./.
+We/PRP benchmark/NN on/IN the/DT Visual/JJ Genome/NN dataset/NN ,/, and/CC report/VB a/DT Recall@50/NN of/IN 9.7/CD percent/NN compared/VBN to/IN the/DT prior/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN at/IN 3.4/CD percent/NN ,/, a/DT nearly/RB threefold/JJ improvement/NN on/IN the/DT challenging/JJ task/NN of/IN scene/NN graph/NN generation/NN ./.

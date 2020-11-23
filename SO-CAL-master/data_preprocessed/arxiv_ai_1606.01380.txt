@@ -1,0 +1,7 @@
+Real/JJ -/HYPH world/NN multi-agent/NN planning/NN problems/NNS can/MD not/RB be/VB solved/VBN using/VBG decision/NN -/HYPH theoretic/JJ planning/NN methods/NNS due/IN to/IN the/DT exponential/JJ complexity/NN ./.
+We/PRP approximate/VBP firefighting/NN in/IN rescue/NN simulation/NN as/IN a/DT spatially/RB distributed/VBN task/NN and/CC model/NN with/IN multi-agent/JJ Markov/NNP decision/NN process/NN ./.
+We/PRP use/VBP recent/JJ approximation/NN methods/NNS for/IN spatial/JJ task/NN problems/NNS to/TO reduce/VB the/DT model/NN complexity/NN ./.
+Our/PRP$ approximations/NNS are/VBP single/JJ -/HYPH agent/NN ,/, static/NN task/NN ,/, shortest/JJS path/NN pruning/NN ,/, dynamic/JJ planning/NN horizon/NN ,/, and/CC task/NN clustering/NN ./.
+We/PRP create/VBP scenarios/NNS from/IN RoboCup/NNP Rescue/NNP Simulation/NNP maps/VBZ and/CC evaluate/VB our/PRP$ methods/NNS on/IN these/DT graph/NN worlds/NNS ./.
+The/DT results/NNS show/VBP that/IN our/PRP$ approach/NN is/VBZ faster/RBR and/CC better/RBR than/IN comparable/JJ methods/NNS and/CC has/VBZ negligible/JJ performance/NN loss/NN compared/VBN to/IN the/DT optimal/JJ policy/NN ./.
+We/PRP also/RB show/VBP that/IN our/PRP$ method/NN has/VBZ a/DT similar/JJ performance/NN as/IN DCOP/NNP methods/NNS on/IN example/NN RCRS/NN scenarios/NNS ./.

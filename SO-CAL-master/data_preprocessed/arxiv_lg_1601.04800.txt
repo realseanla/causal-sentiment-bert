@@ -1,0 +1,6 @@
+Top/JJ -/HYPH N/NN recommender/NN systems/NNS have/VBP been/VBN investigated/VBN widely/RB both/CC in/IN industry/NN and/CC academia/NN ./.
+However/RB ,/, the/DT recommendation/NN quality/NN is/VBZ far/RB from/IN satisfactory/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT simple/JJ yet/CC promising/JJ algorithm/NN ./.
+We/PRP fill/VBP the/DT user/NN -/HYPH item/NN matrix/NN based/VBN on/IN a/DT low/JJ -/HYPH rank/NN assumption/NN and/CC simultaneously/RB keep/VB the/DT original/JJ information/NN ./.
+To/TO do/VB that/DT ,/, a/DT nonconvex/JJ rank/NN relaxation/NN rather/RB than/IN the/DT nuclear/JJ norm/NN is/VBZ adopted/VBN to/TO provide/VB a/DT better/JJR rank/NN approximation/NN and/CC an/DT efficient/JJ optimization/NN strategy/NN is/VBZ designed/VBN ./.
+A/DT comprehensive/JJ set/NN of/IN experiments/NNS on/IN real/JJ datasets/NNS demonstrates/VBZ that/IN our/PRP$ method/NN pushes/VBZ the/DT accuracy/NN of/IN Top/JJ -/HYPH N/NN recommendation/NN to/IN a/DT new/JJ level/NN ./.

@@ -1,0 +1,6 @@
+Emotional content is a key element in user-generated videos.
+However, it is difficult to understand emotions conveyed in such videos due to the complex and unstructured nature of user-generated content and the sparsity of video frames that express emotion.
+In this paper, for the first time, we study the problem of transferring knowledge from heterogeneous external sources, including image and textual data, to facilitate three related tasks in video emotion understanding: emotion recognition, emotion attribution and emotion-oriented summarization.
+Specifically, our framework (1) learns a video encoding from an auxiliary emotional image dataset in order to improve supervised video emotion recognition, and (2) transfers knowledge from an auxiliary textual corpus for zero-shot \pl{recognition} of emotion classes unseen during training.
+The proposed technique for knowledge transfer facilitates novel applications of emotion attribution and emotion-oriented summarization.
+A comprehensive set of experiments on multiple datasets demonstrate the effectiveness of our framework.

@@ -1,0 +1,9 @@
+Neural machine translation (NMT) aims at solving machine translation (MT) problems with purely neural networks and exhibits promising results in recent years.
+However, most of the existing NMT models are of shallow topology and there is still a performance gap between the single NMT model and the best conventional MT system.
+In this work, we introduce a new type of linear connections, named fast-forward connections, based on deep Long Short-Term Memory (LSTM) network, together with the interleaved bi-directional way for stacking them.
+Fast-forward connections play an essential role to propagate the gradients in building the deep topology of depth 16.
+On WMT'14 English- to-French task, we achieved BLEU=37.7 with single attention model, which outperforms the corresponding single shallow model by 6.2 BLEU points.
+It is the first time that a single NMT model achieves state-of-the-art performance and outperforms the best conventional model by 0.7 BLEU points.
+Even without considering attention mechanism, we can still achieve BLEU=36.3.
+After the special handling for unknown words and the model ensemble, we obtained the best score on this task with BLEU=40.4.
+Our models are also verified on the more difficult WMT'14 English-to-German task.

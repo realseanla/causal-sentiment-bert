@@ -1,0 +1,7 @@
+We/PRP show/VBP how/WRB to/TO train/VB the/DT fast/JJ dependency/NN parser/NN of/IN Smith/NNP and/CC Eisner/NNP (/-LRB- 2008/CD )/-RRB- for/IN improved/VBN accuracy/NN ./.
+This/DT parser/NN can/MD consider/VB higher/JJR -/HYPH order/NN interactions/NNS among/IN edges/NNS while/IN retaining/VBG O/NN (/-LRB- n/NN ^/SYM 3/CD )/-RRB- runtime/NN ./.
+It/PRP outputs/NNS the/DT parse/VB with/IN maximum/NN expected/VBN recall/NN --/: but/CC for/IN speed/NN ,/, this/DT expectation/NN is/VBZ taken/VBN under/IN a/DT posterior/JJ distribution/NN that/WDT is/VBZ constructed/VBN only/RB approximately/RB ,/, using/VBG loopy/JJ belief/NN propagation/NN through/IN structured/VBN factors/NNS ./.
+We/PRP show/VBP how/WRB to/TO adjust/VB the/DT model/NN parameters/NNS to/TO compensate/VB for/IN the/DT errors/NNS introduced/VBN by/IN this/DT approximation/NN ,/, by/IN following/VBG the/DT gradient/NN of/IN the/DT actual/JJ loss/NN on/IN training/NN data/NNS ./.
+We/PRP find/VBP this/DT gradient/NN by/IN back/RB -/HYPH propagation/NN ./.
+That/DT is/VBZ ,/, we/PRP treat/VBP the/DT entire/JJ parser/NN (/-LRB- approximations/NNS and/CC all/RB )/-RRB- as/IN a/DT differentiable/JJ circuit/NN ,/, as/IN Stoyanov/NNP et/FW al./FW (/-LRB- 2011/CD )/-RRB- and/CC Domke/NNP (/-LRB- 2010/CD )/-RRB- did/VBD for/IN loopy/JJ CRFs/NNS ./.
+The/DT resulting/VBG trained/VBN parser/NN obtains/VBZ higher/JJR accuracy/NN with/IN fewer/JJR iterations/NNS of/IN belief/NN propagation/NN than/IN one/CD trained/VBN by/IN conditional/JJ log/NN -/HYPH likelihood/NN ./.

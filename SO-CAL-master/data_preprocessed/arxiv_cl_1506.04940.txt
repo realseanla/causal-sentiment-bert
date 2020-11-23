@@ -1,0 +1,5 @@
+Low/JJ -/HYPH frequency/NN words/NNS place/VBP a/DT major/JJ challenge/NN for/IN automatic/JJ speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- ./.
+The/DT probabilities/NNS of/IN these/DT words/NNS ,/, which/WDT are/VBP often/RB important/JJ name/NN entities/NNS ,/, are/VBP generally/RB under/IN -/HYPH estimated/VBN by/IN the/DT language/NN model/NN (/-LRB- LM/NN )/-RRB- due/IN to/IN their/PRP$ limited/JJ occurrences/NNS in/IN the/DT training/NN data/NNS ./.
+Recently/RB ,/, we/PRP proposed/VBD a/DT word/NN -/HYPH pair/NN approach/NN to/TO deal/VB with/IN the/DT problem/NN ,/, which/WDT borrows/VBZ information/NN of/IN frequent/JJ words/NNS to/TO enhance/VB the/DT probabilities/NNS of/IN low/JJ -/HYPH frequency/NN words/NNS ./.
+This/DT paper/NN presents/VBZ an/DT extension/NN to/IN the/DT word/NN -/HYPH pair/NN method/NN by/IN involving/VBG multiple/JJ `/`` predicting/VBG words/NNS '/POS to/TO produce/VB better/JJR estimation/NN for/IN low/JJ -/HYPH frequency/NN words/NNS ./.
+We/PRP also/RB employ/VBP this/DT approach/NN to/TO deal/VB with/IN out/RB -/HYPH of/IN -/HYPH language/NN words/NNS in/IN the/DT task/NN of/IN multi-lingual/JJ speech/NN recognition/NN ./.

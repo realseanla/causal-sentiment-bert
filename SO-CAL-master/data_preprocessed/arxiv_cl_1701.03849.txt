@@ -1,0 +1,7 @@
+This/DT paper/NN is/VBZ focused/VBN on/IN automatic/JJ multi-label/JJ document/NN classification/NN of/IN Czech/NNP text/NN documents/NNS ./.
+The/DT current/JJ approaches/NNS usually/RB use/VBP some/DT pre-processing/NN which/WDT can/MD have/VB negative/JJ impact/NN (/-LRB- loss/NN of/IN information/NN ,/, additional/JJ implementation/NN work/NN ,/, etc/FW )/-RRB- ./.
+Therefore/RB ,/, we/PRP would/MD like/VB to/TO omit/VB it/PRP and/CC use/VB deep/JJ neural/JJ networks/NNS that/WDT learn/VBP from/IN simple/JJ features/NNS ./.
+This/DT choice/NN was/VBD motivated/VBN by/IN their/PRP$ successful/JJ usage/NN in/IN many/JJ other/JJ machine/NN learning/VBG fields/NNS ./.
+Two/CD different/JJ networks/NNS are/VBP compared/VBN :/: the/DT first/JJ one/CD is/VBZ a/DT standard/JJ multi-layer/JJ perceptron/NN ,/, while/IN the/DT second/JJ one/NN is/VBZ a/DT popular/JJ convolutional/JJ network/NN ./.
+The/DT experiments/NNS on/IN a/DT Czech/JJ newspaper/NN corpus/NN show/VBP that/IN both/DT networks/NNS significantly/RB outperform/VBP baseline/NN method/NN which/WDT uses/VBZ a/DT rich/JJ set/NN of/IN features/NNS with/IN maximum/JJ entropy/NN classifier/NN ./.
+We/PRP have/VBP also/RB shown/VBN that/IN convolutional/JJ network/NN gives/VBZ the/DT best/JJS results/NNS ./.

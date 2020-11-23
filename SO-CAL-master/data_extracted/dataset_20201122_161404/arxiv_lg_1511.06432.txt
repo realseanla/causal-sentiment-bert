@@ -1,0 +1,5 @@
+We propose an approach to learn spatio-temporal features in videos from intermediate visual representations we call "percepts" using Gated-Recurrent-Unit Recurrent Networks (GRUs).Our method relies on percepts that are extracted from all level of a deep convolutional network trained on the large ImageNet dataset.
+While high-level percepts contain highly discriminative information, they tend to have a low-spatial resolution.
+Low-level percepts, on the other hand, preserve a higher spatial resolution from which we can model finer motion patterns.
+Using low-level percepts can leads to high-dimensionality video representations.
+To mitigate this effect and control the model number of parameters, we introduce a variant of the GRU model that leverages the convolution operations to enforce sparse connectivity of the model units and share parameters across the input spatial locations.

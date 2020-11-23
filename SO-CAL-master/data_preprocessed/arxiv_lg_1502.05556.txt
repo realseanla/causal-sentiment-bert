@@ -1,0 +1,6 @@
+From/IN sporting/NN events/NNS to/IN sociological/JJ surveys/NNS ,/, ranking/VBG from/IN pairwise/JJ comparisons/NNS is/VBZ a/DT tool/NN of/IN choice/NN for/IN many/JJ applications/NNS ./.
+When/WRB certain/JJ pairs/NNS of/IN items/NNS are/VBP difficult/JJ to/TO compare/VB ,/, outcomes/NNS can/MD be/VB noisy/JJ ,/, and/CC it/PRP is/VBZ necessary/JJ to/TO develop/VB robust/JJ strategies/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP show/VBP how/WRB a/DT simple/JJ active/JJ sampling/NN scheme/NN that/WDT uses/VBZ a/DT standard/JJ black/JJ box/NN sorting/VBG algorithm/NN enables/VBZ the/DT efficient/JJ recovery/NN of/IN the/DT ranking/NN ,/, achieving/VBG low/JJ error/NN with/IN sparse/JJ samples/NNS ./.
+Both/CC in/IN theory/NN and/CC practice/NN ,/, this/DT active/JJ strategy/NN performs/VBZ systematically/RB better/JJR than/IN selecting/VBG comparisons/NNS at/IN random/JJ ./.
+As/IN a/DT detour/NN ,/, we/PRP show/VBP a/DT link/NN between/IN Rank/NNP Centrality/NNP ,/, a/DT recently/RB proposed/VBN algorithm/NN for/IN rank/NN aggregation/NN ,/, and/CC the/DT ML/NNP estimator/NN for/IN the/DT Bradley/NNP -/HYPH Terry/NNP model/NN ./.
+This/DT enables/VBZ us/PRP to/TO develop/VB a/DT new/JJ ,/, provably/RB convergent/JJ iterative/JJ algorithm/NN for/IN computing/VBG the/DT ML/NNP estimate/NN ./.

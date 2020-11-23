@@ -1,0 +1,12 @@
+We/PRP present/VBP ReAct/VB !/.
+,/, an/DT interactive/JJ tool/NN for/IN high/JJ -/HYPH level/NN reasoning/NN for/IN cognitive/JJ robotic/JJ applications/NNS ./.
+ReAct/VB !/.
+enables/VBZ robotic/JJ researchers/NNS to/TO describe/VB robots/NNS '/POS actions/NNS and/CC change/NN in/IN dynamic/JJ domains/NNS ,/, without/IN having/VBG to/TO know/VB about/IN the/DT syntactic/JJ and/CC semantic/JJ details/NNS of/IN the/DT underlying/VBG formalism/NN in/IN advance/NN ,/, and/CC solve/VB planning/NN problems/NNS using/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN automated/VBN reasoners/NNS ,/, without/IN having/VBG to/TO learn/VB about/IN their/PRP$ input/NN //HYPH output/NN language/NN or/CC usage/NN ./.
+In/IN particular/JJ ,/, ReAct/VB !/.
+can/MD be/VB used/VBN to/TO represent/VB sophisticated/JJ dynamic/JJ domains/NNS that/WDT feature/VBP concurrency/NN ,/, indirect/JJ effects/NNS of/IN actions/NNS ,/, and/CC state/NN //HYPH transition/NN constraints/NNS ./.
+It/PRP allows/VBZ for/IN embedding/VBG externally/RB defined/VBN calculations/NNS (/-LRB- e.g./FW ,/, checking/VBG for/IN collision/NN -/HYPH free/JJ continuous/JJ trajectories/NNS )/-RRB- into/IN representations/NNS of/IN hybrid/NN domains/NNS that/WDT require/VBP a/DT tight/JJ integration/NN of/IN (/-LRB- discrete/JJ )/-RRB- high/JJ -/HYPH level/NN reasoning/NN with/IN (/-LRB- continuous/JJ )/-RRB- geometric/JJ reasoning/NN ./.
+ReAct/VB !/.
+also/RB enables/VBZ users/NNS to/TO solve/VB planning/NN problems/NNS that/WDT involve/VBP complex/JJ goals/NNS ./.
+Such/JJ variety/NN of/IN utilities/NNS are/VBP useful/JJ for/IN robotic/JJ researchers/NNS to/TO work/VB on/IN interesting/JJ and/CC challenging/JJ domains/NNS ,/, ranging/VBG from/IN service/NN robotics/NNS to/IN cognitive/JJ factories/NNS ./.
+ReAct/VB !/.
+provides/VBZ sample/NN formalizations/NNS of/IN some/DT action/NN domains/NNS (/-LRB- e.g./FW ,/, multi-agent/JJ path/NN planning/NN ,/, Tower/NNP of/IN Hanoi/NNP )/-RRB- ,/, as/RB well/RB as/IN dynamic/JJ simulations/NNS of/IN plans/NNS computed/VBN by/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN automated/VBN reasoner/NN (/-LRB- e.g./FW ,/, a/DT SAT/NN solver/NN or/CC an/DT ASP/NN solver/NN )/-RRB- ./.

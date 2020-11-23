@@ -1,0 +1,11 @@
+Boolean/JJ satisfiability/NN (/-LRB- SAT/NN )/-RRB- has/VBZ an/DT extensive/JJ application/NN domain/NN in/IN computer/NN science/NN ,/, especially/RB in/IN electronic/JJ design/NN automation/NN applications/NNS ./.
+Circuit/NN synthesis/NN ,/, optimization/NN ,/, and/CC verification/NN problems/NNS can/MD be/VB solved/VBN by/IN transforming/VBG original/JJ problems/NNS to/IN SAT/NN problems/NNS ./.
+However/RB ,/, the/DT SAT/NNP problem/NN is/VBZ known/VBN as/IN NP/NNP -/HYPH complete/JJ ,/, which/WDT means/VBZ there/EX is/VBZ no/DT efficient/JJ method/NN to/TO solve/VB it/PRP ./.
+Therefore/RB ,/, an/DT efficient/JJ SAT/NN solver/NN to/TO enhance/VB the/DT performance/NN is/VBZ always/RB desired/VBN ./.
+We/PRP propose/VBP a/DT hardware/NN acceleration/NN method/NN for/IN SAT/NN problems/NNS ./.
+By/IN surveying/VBG the/DT properties/NNS of/IN SAT/NN problems/NNS and/CC the/DT decoding/NN of/IN low/JJ -/HYPH density/NN parity/NN -/HYPH check/NN (/-LRB- LDPC/NN )/-RRB- codes/NNS ,/, a/DT special/JJ class/NN of/IN error/NN -/HYPH correcting/VBG codes/NNS ,/, we/PRP discover/VBP that/IN both/DT of/IN them/PRP are/VBP constraint/NN satisfaction/NN problems/NNS ./.
+The/DT belief/NN propagation/NN algorithm/NN has/VBZ been/VBN successfully/RB applied/VBN to/IN the/DT decoding/NN of/IN LDPC/NNP ,/, and/CC the/DT corresponding/VBG decoder/NN hardware/NN designs/NNS are/VBP extensively/RB studied/VBN ./.
+Therefore/RB ,/, we/PRP proposed/VBD a/DT belief/NN propagation/NN based/VBN algorithm/NN to/TO solve/VB SAT/NN problems/NNS ./.
+With/IN this/DT algorithm/NN ,/, the/DT SAT/NN solver/NN can/MD be/VB accelerated/VBN by/IN hardware/NN ./.
+A/DT software/NN simulator/NN is/VBZ implemented/VBN to/TO verify/VB the/DT proposed/VBN algorithm/NN and/CC the/DT performance/NN improvement/NN is/VBZ estimated/VBN ./.
+Our/PRP$ experiment/NN results/NNS show/VBP that/IN time/NN complexity/NN does/VBZ not/RB increase/VB with/IN the/DT size/NN of/IN SAT/NN problems/NNS and/CC the/DT proposed/JJ method/NN can/MD achieve/VB at/IN least/RBS 30x/CD speedup/NN compared/VBN to/IN MiniSat/NNP ./.

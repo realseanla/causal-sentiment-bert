@@ -1,0 +1,6 @@
+There/EX is/VBZ growing/VBG interest/NN in/IN representing/VBG image/NN data/NNS and/CC feature/NN descriptors/NNS using/VBG compact/JJ binary/JJ codes/NNS for/IN fast/RB near/IN neighbor/NN search/NN ./.
+Although/IN binary/JJ codes/NNS are/VBP motivated/VBN by/IN their/PRP$ use/NN as/IN direct/JJ indices/NNS (/-LRB- addresses/NNS )/-RRB- into/IN a/DT hash/NN table/NN ,/, codes/NNS longer/JJR than/IN 32/CD bits/NNS are/VBP not/RB being/VBG used/VBN as/IN such/JJ ,/, as/IN it/PRP was/VBD thought/VBN to/TO be/VB ineffective/JJ ./.
+We/PRP introduce/VBP a/DT rigorous/JJ way/NN to/TO build/VB multiple/JJ hash/NN tables/NNS on/IN binary/JJ code/NN substrings/NNS that/WDT enables/VBZ exact/JJ k/CD -/HYPH nearest/JJS neighbor/NN search/NN in/IN Hamming/VBG space/NN ./.
+The/DT approach/NN is/VBZ straightforward/JJ to/TO implement/VB and/CC storage/NN efficient/JJ ./.
+Theoretical/JJ analysis/NN shows/VBZ that/IN the/DT algorithm/NN exhibits/VBZ sub-linear/JJ run/NN -/HYPH time/NN behavior/NN for/IN uniformly/RB distributed/VBN codes/NNS ./.
+Empirical/JJ results/NNS show/VBP dramatic/JJ speed/NN -/HYPH ups/NNS over/IN a/DT linear/JJ scan/NN baseline/NN for/IN datasets/NNS of/IN up/RB to/IN one/CD billion/CD codes/NNS of/IN 64/CD ,/, 128/CD ,/, or/CC 256/CD bits/NNS ./.

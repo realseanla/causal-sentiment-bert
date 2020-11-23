@@ -1,0 +1,8 @@
+What/WP are/VBP the/DT limits/NNS of/IN automated/VBN Twitter/NNP sentiment/NN classification/NN ?/.
+We/PRP analyze/VBP a/DT large/JJ set/NN of/IN manually/RB labeled/VBN tweets/NNS in/IN different/JJ languages/NNS ,/, use/VB them/PRP as/IN training/NN data/NNS ,/, and/CC construct/VB automated/VBN classification/NN models/NNS ./.
+It/PRP turns/VBZ out/RP that/IN the/DT quality/NN of/IN classification/NN models/NNS depends/VBZ much/RB more/JJR on/IN the/DT quality/NN and/CC size/NN of/IN training/NN data/NNS than/IN on/IN the/DT type/NN of/IN the/DT model/NN trained/VBN ./.
+Experimental/JJ results/NNS indicate/VBP that/IN there/EX is/VBZ no/DT statistically/RB significant/JJ difference/NN between/IN the/DT performance/NN of/IN the/DT top/JJ classification/NN models/NNS ./.
+We/PRP quantify/VBP the/DT quality/NN of/IN training/NN data/NNS by/IN applying/VBG various/JJ annotator/NN agreement/NN measures/NNS ,/, and/CC identify/VB the/DT weakest/JJS points/NNS of/IN different/JJ datasets/NNS ./.
+We/PRP show/VBP that/IN the/DT model/NN performance/NN approaches/VBZ the/DT inter-annotator/NN agreement/NN when/WRB the/DT size/NN of/IN the/DT training/NN set/NN is/VBZ sufficiently/RB large/JJ ./.
+However/RB ,/, it/PRP is/VBZ crucial/JJ to/TO regularly/RB monitor/VB the/DT self/NN -/HYPH and/CC inter-annotator/NN agreements/NNS since/IN this/DT improves/VBZ the/DT training/NN datasets/NNS and/CC consequently/RB the/DT model/NN performance/NN ./.
+Finally/RB ,/, we/PRP show/VBP that/IN there/EX is/VBZ strong/JJ evidence/NN that/IN humans/NNS perceive/VBP the/DT sentiment/NN classes/NNS (/-LRB- negative/JJ ,/, neutral/JJ ,/, and/CC positive/JJ )/-RRB- as/IN ordered/VBN ./.

@@ -1,0 +1,7 @@
+People/NNS can/MD recognize/VB scenes/NNS across/IN many/JJ different/JJ modalities/NNS beyond/IN natural/JJ images/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP how/WRB to/TO learn/VB cross-modal/JJ scene/NN representations/NNS that/WDT transfer/VBP across/IN modalities/NNS ./.
+To/TO study/VB this/DT problem/NN ,/, we/PRP introduce/VBP a/DT new/JJ cross-modal/JJ scene/NN dataset/NN ./.
+While/IN convolutional/JJ neural/JJ networks/NNS can/MD categorize/VB scenes/NNS well/RB ,/, they/PRP also/RB learn/VBP an/DT intermediate/JJ representation/NN not/RB aligned/VBN across/IN modalities/NNS ,/, which/WDT is/VBZ undesirable/JJ for/IN cross-modal/JJ transfer/NN applications/NNS ./.
+We/PRP present/VBP methods/NNS to/TO regularize/VB cross-modal/JJ convolutional/JJ neural/JJ networks/NNS so/IN that/IN they/PRP have/VBP a/DT shared/VBN representation/NN that/WDT is/VBZ agnostic/JJ of/IN the/DT modality/NN ./.
+Our/PRP$ experiments/NNS suggest/VBP that/IN our/PRP$ scene/NN representation/NN can/MD help/VB transfer/VB representations/NNS across/IN modalities/NNS for/IN retrieval/NN ./.
+Moreover/RB ,/, our/PRP$ visualizations/NNS suggest/VBP that/IN units/NNS emerge/VBP in/IN the/DT shared/VBN representation/NN that/WDT tend/VBP to/TO activate/VB on/IN consistent/JJ concepts/NNS independently/RB of/IN the/DT modality/NN ./.

@@ -1,0 +1,7 @@
+Recommender/NN systems/NNS are/VBP emerging/VBG technologies/NNS that/WDT nowadays/RB can/MD be/VB found/VBN in/IN many/JJ applications/NNS such/JJ as/IN Amazon/NNP ,/, Netflix/NNP ,/, and/CC so/RB on/RB ./.
+These/DT systems/NNS help/VBP users/NNS find/VB relevant/JJ information/NN ,/, recommendations/NNS ,/, and/CC their/PRP$ preferred/VBN items/NNS ./.
+Matrix/NNP Factorization/NNP is/VBZ a/DT popular/JJ method/NN in/IN Recommendation/NNP Systems/NNPS showing/VBG promising/JJ results/NNS in/IN accuracy/NN and/CC complexity/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP an/DT extension/NN of/IN matrix/NN factorization/NN that/WDT uses/VBZ the/DT clustering/NN paradigm/NN to/IN cluster/NN similar/JJ users/NNS and/CC items/NNS in/IN several/JJ communities/NNS ./.
+We/PRP then/RB establish/VB their/PRP$ effects/NNS on/IN the/DT prediction/NN model/NN then/RB ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, our/PRP$ proposed/VBN model/NN outperforms/VBZ all/DT other/JJ published/VBN recommender/NN methods/NNS in/IN accuracy/NN and/CC complexity/NN ./.
+For/IN instance/NN ,/, our/PRP$ proposed/JJ method/NN 's/POS accuracy/NN is/VBZ 0.8122/CD on/IN the/DT Netflix/NNP dataset/NN which/WDT is/VBZ better/JJR than/IN the/DT Netflix/NNP prize/NN winner/NN 's/POS accuracy/NN of/IN 0.8567/CD ./.

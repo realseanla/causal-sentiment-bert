@@ -1,0 +1,5 @@
+We/PRP introduce/VBP a/DT scalable/JJ algorithm/NN ,/, MUCCA/NNP ,/, for/IN multiclass/NN node/NN classification/NN in/IN weighted/JJ graphs/NNS ./.
+Unlike/IN previously/RB proposed/VBN methods/NNS for/IN the/DT same/JJ task/NN ,/, MUCCA/NNP works/VBZ in/IN time/NN linear/JJ in/IN the/DT number/NN of/IN nodes/NNS ./.
+Our/PRP$ approach/NN is/VBZ based/VBN on/IN a/DT game/NN -/HYPH theoretic/JJ formulation/NN of/IN the/DT problem/NN in/IN which/WDT the/DT test/NN labels/NNS are/VBP expressed/VBN as/IN a/DT Nash/NNP Equilibrium/NN of/IN a/DT certain/JJ game/NN ./.
+However/RB ,/, in/IN order/NN to/TO achieve/VB scalability/NN ,/, we/PRP find/VBP the/DT equilibrium/NN on/IN a/DT spanning/VBG tree/NN of/IN the/DT original/JJ graph/NN ./.
+Experiments/NNS on/IN real/JJ -/HYPH world/NN data/NNS reveal/VBP that/IN MUCCA/NNP is/VBZ much/JJ faster/JJR than/IN its/PRP$ competitors/NNS while/IN achieving/VBG a/DT similar/JJ predictive/JJ performance/NN ./.

@@ -1,0 +1,11 @@
+This/DT paper/NN introduces/VBZ AntNet/NNP ,/, a/DT novel/JJ approach/NN to/IN the/DT adaptive/JJ learning/NN of/IN routing/VBG tables/NNS in/IN communications/NNS networks/NNS ./.
+AntNet/NNP is/VBZ a/DT distributed/VBN ,/, mobile/JJ agents/NNS based/VBN Monte/NNP Carlo/NNP system/NN that/WDT was/VBD inspired/VBN by/IN recent/JJ work/NN on/IN the/DT ant/NN colony/NN metaphor/NN for/IN solving/VBG optimization/NN problems/NNS ./.
+AntNet/NNP 's/POS agents/NNS concurrently/RB explore/VB the/DT network/NN and/CC exchange/NN collected/VBN information/NN ./.
+The/DT communication/NN among/IN the/DT agents/NNS is/VBZ indirect/JJ and/CC asynchronous/JJ ,/, mediated/VBN by/IN the/DT network/NN itself/PRP ./.
+This/DT form/NN of/IN communication/NN is/VBZ typical/JJ of/IN social/JJ insects/NNS and/CC is/VBZ called/VBN stigmergy/NN ./.
+We/PRP compare/VBP our/PRP$ algorithm/NN with/IN six/CD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN routing/NN algorithms/NNS coming/VBG from/IN the/DT telecommunications/NNS and/CC machine/NN learning/NN fields/NNS ./.
+The/DT algorithms/NNS '/POS performance/NN is/VBZ evaluated/VBN over/IN a/DT set/NN of/IN realistic/JJ testbeds/NNS ./.
+We/PRP run/VBP many/JJ experiments/NNS over/IN real/JJ and/CC artificial/JJ IP/NN datagram/NN networks/NNS with/IN increasing/VBG number/NN of/IN nodes/NNS and/CC under/IN several/JJ paradigmatic/JJ spatial/JJ and/CC temporal/JJ traffic/NN distributions/NNS ./.
+Results/NNS are/VBP very/RB encouraging/JJ ./.
+AntNet/NNP showed/VBD superior/JJ performance/NN under/IN all/PDT the/DT experimental/JJ conditions/NNS with/IN respect/NN to/IN its/PRP$ competitors/NNS ./.
+We/PRP analyze/VBP the/DT main/JJ characteristics/NNS of/IN the/DT algorithm/NN and/CC try/VB to/TO explain/VB the/DT reasons/NNS for/IN its/PRP$ superiority/NN ./.

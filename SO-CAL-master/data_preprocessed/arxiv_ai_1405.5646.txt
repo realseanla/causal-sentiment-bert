@@ -1,0 +1,6 @@
+The/DT minimum/JJ common/JJ string/NN partition/NN problem/NN is/VBZ an/DT NP/NNP -/HYPH hard/JJ combinatorial/JJ optimization/NN problem/NN with/IN applications/NNS in/IN computational/JJ biology/NN ./.
+In/IN this/DT work/NN we/PRP propose/VBP the/DT first/JJ integer/NN linear/JJ programming/NN model/NN for/IN solving/VBG this/DT problem/NN ./.
+Moreover/RB ,/, on/IN the/DT basis/NN of/IN the/DT integer/NN linear/JJ programming/NN model/NN we/PRP develop/VBP a/DT deterministic/JJ 2/CD -/HYPH phase/NN heuristic/NN which/WDT is/VBZ applicable/JJ to/IN larger/JJR problem/NN instances/NNS ./.
+The/DT results/NNS show/VBP that/IN provenly/RB optimal/JJ solutions/NNS can/MD be/VB obtained/VBN for/IN problem/NN instances/NNS of/IN small/JJ and/CC medium/JJ size/NN from/IN the/DT literature/NN by/IN solving/VBG the/DT proposed/VBN integer/NN linear/JJ programming/NN model/NN with/IN CPLEX/NNP ./.
+Furthermore/RB ,/, new/JJ best/RBS -/HYPH known/VBN solutions/NNS are/VBP obtained/VBN for/IN all/DT considered/VBN problem/NN instances/NNS from/IN the/DT literature/NN ./.
+Concerning/VBG the/DT heuristic/NN ,/, we/PRP were/VBD able/JJ to/TO show/VB that/IN it/PRP outperforms/VBZ heuristic/NN competitors/NNS from/IN the/DT related/JJ literature/NN ./.

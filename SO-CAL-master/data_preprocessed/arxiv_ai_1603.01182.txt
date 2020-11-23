@@ -1,0 +1,14 @@
+The/DT emergence/NN of/IN collective/JJ dynamics/NNS in/IN neural/JJ networks/NNS is/VBZ a/DT mechanism/NN of/IN the/DT animal/NN and/CC human/JJ brain/NN for/IN information/NN processing/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP a/DT computational/JJ technique/NN of/IN distributed/VBN processing/NN elements/NNS ,/, which/WDT are/VBP called/VBN particles/NNS ./.
+We/PRP observe/VBP the/DT collective/JJ dynamics/NNS of/IN particles/NNS in/IN a/DT complex/JJ network/NN for/IN transductive/JJ inference/NN on/IN semi-supervised/VBN learning/NN problems/NNS ./.
+Three/CD actions/NNS govern/VBP the/DT particles/NNS '/POS dynamics/NNS :/: walking/VBG ,/, absorption/NN ,/, and/CC generation/NN ./.
+Labeled/VBN vertices/NNS generate/VBP new/JJ particles/NNS that/WDT compete/VBP against/IN rival/JJ particles/NNS for/IN edge/NN domination/NN ./.
+Active/JJ particles/NNS randomly/RB walk/VBP in/IN the/DT network/NN until/IN they/PRP are/VBP absorbed/VBN by/IN either/CC a/DT rival/JJ vertex/NN or/CC an/DT edge/NN currently/RB dominated/VBN by/IN rival/JJ particles/NNS ./.
+The/DT result/NN from/IN the/DT model/NN simulation/NN consists/VBZ of/IN sets/NNS of/IN edges/NNS sorted/VBN by/IN the/DT label/NN dominance/NN ./.
+Each/DT set/NN tends/VBZ to/TO form/VB a/DT connected/JJ subnetwork/NN to/TO represent/VB a/DT data/NN class/NN ./.
+Although/IN the/DT intrinsic/JJ dynamics/NNS of/IN the/DT model/NN is/VBZ a/DT stochastic/JJ one/CD ,/, we/PRP prove/VBP there/RB exists/VBZ a/DT deterministic/JJ version/NN with/IN largely/RB reduced/VBN computational/JJ complexity/NN ;/: specifically/RB ,/, with/IN subquadratic/JJ growth/NN ./.
+Furthermore/RB ,/, the/DT edge/NN domination/NN process/NN corresponds/VBZ to/IN an/DT unfolding/VBG map/NN ./.
+Intuitively/RB ,/, edges/NNS "/'' stretch/NN "/'' and/CC "/`` shrink/VB "/'' according/VBG to/IN edge/NN dynamics/NNS ./.
+Consequently/RB ,/, such/JJ effect/NN summarizes/VBZ the/DT relevant/JJ relationships/NNS between/IN vertices/NNS and/CC uncovered/VBN data/NNS classes/NNS ./.
+The/DT proposed/VBN model/NN captures/VBZ important/JJ details/NNS of/IN connectivity/NN patterns/NNS over/IN the/DT edge/NN dynamics/NNS evolution/NN ,/, which/WDT contrasts/VBZ with/IN previous/JJ approaches/NNS focused/VBD on/IN vertex/NNP dynamics/NNS ./.
+Computer/NN simulations/NNS reveal/VBP that/IN our/PRP$ model/NN can/MD identify/VB nonlinear/JJ features/NNS in/IN both/DT real/JJ and/CC artificial/JJ data/NNS ,/, including/VBG boundaries/NNS between/IN distinct/JJ classes/NNS and/CC the/DT overlapping/VBG structure/NN of/IN data/NNS ./.

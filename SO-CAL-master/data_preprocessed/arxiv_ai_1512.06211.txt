@@ -1,0 +1,8 @@
+Emerging/VBG ontology/NN authoring/NN methods/NNS to/TO add/VB knowledge/NN to/IN an/DT ontology/NN focus/NN on/IN ameliorating/VBG the/DT validation/NN bottleneck/NN ./.
+The/DT verification/NN of/IN the/DT newly/RB added/VBN axiom/NN is/VBZ still/RB one/CD of/IN trying/VBG and/CC seeing/VBG what/WP the/DT reasoner/NN says/VBZ ,/, because/IN a/DT systematic/JJ testbed/NN for/IN ontology/NN authoring/NN is/VBZ missing/VBG ./.
+We/PRP sought/VBD to/TO address/VB this/DT by/IN introducing/VBG the/DT approach/NN of/IN test/NN -/HYPH driven/VBN development/NN for/IN ontology/NN authoring/NN ./.
+We/PRP specify/VBP 36/CD generic/JJ tests/NNS ,/, as/IN TBox/NN queries/NNS and/CC TBox/NN axioms/NNS tested/VBN through/IN individuals/NNS ,/, and/CC structure/NN their/PRP$ inner/JJ workings/NNS in/IN an/DT `/`` open/JJ box/NN '/'' -/HYPH way/NN ,/, which/WDT cover/VBP the/DT OWL/NN 2/CD DL/NN language/NN features/NNS ./.
+This/DT is/VBZ implemented/VBN as/IN a/DT Protege/NN plugin/NN so/IN that/IN one/PRP can/MD perform/VB a/DT TDD/NN test/NN as/IN a/DT black/JJ box/NN test/NN ./.
+We/PRP evaluated/VBD the/DT two/CD test/NN approaches/NNS on/IN their/PRP$ performance/NN ./.
+The/DT TBox/NN queries/NNS were/VBD faster/RBR ,/, and/CC that/IN effect/NN is/VBZ more/RBR pronounced/JJ the/DT larger/JJR the/DT ontology/NN is/VBZ ./.
+We/PRP provide/VBP a/DT general/JJ sequence/NN of/IN a/DT TDD/NN process/NN for/IN ontology/NN engineering/NN as/IN a/DT foundation/NN for/IN a/DT TDD/NN methodology/NN ./.

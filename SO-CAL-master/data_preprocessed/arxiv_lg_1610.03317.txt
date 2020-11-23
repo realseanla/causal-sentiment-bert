@@ -1,0 +1,7 @@
+Maximum/JJ Inner/JJ Product/NN Search/NN (/-LRB- MIPS/NNP )/-RRB- is/VBZ an/DT important/JJ task/NN in/IN many/JJ machine/NN learning/NN applications/NNS such/JJ as/IN the/DT prediction/NN phase/NN of/IN a/DT low/JJ -/HYPH rank/NN matrix/NN factorization/NN model/NN for/IN a/DT recommender/NN system/NN ./.
+There/EX have/VBP been/VBN some/DT works/NNS on/IN how/WRB to/TO perform/VB MIPS/NNP in/IN sub-linear/JJ time/NN recently/RB ./.
+However/RB ,/, most/JJS of/IN them/PRP do/VBP not/RB have/VB the/DT flexibility/NN to/TO control/VB the/DT trade/NN -/HYPH off/NN between/IN search/NN efficient/JJ and/CC search/VB quality/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP the/DT MIPS/NNP problem/NN with/IN a/DT computational/JJ budget/NN ./.
+By/IN carefully/RB studying/VBG the/DT problem/NN structure/NN of/IN MIPS/NNP ,/, we/PRP develop/VBP a/DT novel/JJ Greedy/NNP -/HYPH MIPS/NNP algorithm/NN ,/, which/WDT can/MD handle/VB budgeted/VBN MIPS/NNP by/IN design/NN ./.
+While/IN simple/JJ and/CC intuitive/JJ ,/, Greedy/JJ -/HYPH MIPS/NNP yields/VBZ surprisingly/RB superior/JJ performance/NN compared/VBN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS ./.
+As/IN a/DT specific/JJ example/NN ,/, on/IN a/DT candidate/NN set/NN containing/VBG half/PDT a/DT million/CD vectors/NNS of/IN dimension/NN 200/CD ,/, Greedy/NNP -/HYPH MIPS/NNP runs/VBZ 200x/CD faster/JJR than/IN the/DT naive/JJ approach/NN while/IN yielding/VBG search/NN results/NNS with/IN the/DT top/JJ -/HYPH 5/CD precision/NN greater/JJR than/IN 75/CD \/SYM percent/NN ./.

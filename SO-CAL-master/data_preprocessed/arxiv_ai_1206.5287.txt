@@ -1,0 +1,8 @@
+Relational/JJ Markov/NNP Decision/NN Processes/NNS are/VBP a/DT useful/JJ abstraction/NN for/IN complex/JJ reinforcement/NN learning/VBG problems/NNS and/CC stochastic/JJ planning/NN problems/NNS ./.
+Recent/JJ work/NN developed/VBD representation/NN schemes/NNS and/CC algorithms/NNS for/IN planning/VBG in/IN such/JJ problems/NNS using/VBG the/DT value/NN iteration/NN algorithm/NN ./.
+However/RB ,/, exact/JJ versions/NNS of/IN more/RBR complex/JJ algorithms/NNS ,/, including/VBG policy/NN iteration/NN ,/, have/VBP not/RB been/VBN developed/VBN or/CC analyzed/VBN ./.
+The/DT paper/NN investigates/VBZ this/DT potential/JJ and/CC makes/VBZ several/JJ contributions/NNS ./.
+First/RB we/PRP observe/VBP two/CD anomalies/NNS for/IN relational/JJ representations/NNS showing/VBG that/IN the/DT value/NN of/IN some/DT policies/NNS is/VBZ not/RB well/RB defined/VBN or/CC can/MD not/RB be/VB calculated/VBN for/IN restricted/JJ representation/NN schemes/NNS used/VBN in/IN the/DT literature/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, we/PRP develop/VBP a/DT variant/NN of/IN policy/NN iteration/NN that/WDT can/MD get/VB around/IN these/DT anomalies/NNS ./.
+The/DT algorithm/NN includes/VBZ an/DT aspect/NN of/IN policy/NN improvement/NN in/IN the/DT process/NN of/IN policy/NN evaluation/NN and/CC thus/RB differs/VBZ from/IN the/DT original/JJ algorithm/NN ./.
+We/PRP show/VBP that/IN despite/IN this/DT difference/NN the/DT algorithm/NN converges/VBZ to/IN the/DT optimal/JJ policy/NN ./.

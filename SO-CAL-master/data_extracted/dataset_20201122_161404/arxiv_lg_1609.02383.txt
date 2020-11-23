@@ -1,0 +1,7 @@
+Online Convex Optimization plays a key role in large scale machine learning.
+Early approaches to this problem were conservative, in which the main focus was protection against the worst case scenario.
+But recently several algorithms have been developed for tightening the regret bounds in easy data instances such as sparsity, predictable sequences, and curved losses.
+In this work we unify some of these existing techniques to obtain new update rules for the cases when these easy instances occur together.
+First we analyse an adaptive and optimistic update rule which achieves tighter regret bound when the loss sequence is sparse and predictable.
+Then we explain an update rule that dynamically adapts to the curvature of the loss function and utilizes the predictable nature of the loss sequence as well.
+Finally we extend these results to composite losses.

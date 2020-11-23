@@ -1,0 +1,5 @@
+Model/NN -/HYPH based/VBN Bayesian/JJ Reinforcement/NN Learning/NN (/-LRB- BRL/NN )/-RRB- allows/VBZ a/DT found/VBN formalization/NN of/IN the/DT problem/NN of/IN acting/VBG optimally/RB while/IN facing/VBG an/DT unknown/JJ environment/NN ,/, i.e./FW ,/, avoiding/VBG the/DT exploration/NN -/HYPH exploitation/NN dilemma/NN ./.
+However/RB ,/, algorithms/NNS explicitly/RB addressing/VBG BRL/NN suffer/VB from/IN such/PDT a/DT combinatorial/JJ explosion/NN that/WDT a/DT large/JJ body/NN of/IN work/NN relies/VBZ on/IN heuristic/NN algorithms/NNS ./.
+This/DT paper/NN introduces/VBZ BOLT/NN ,/, a/DT simple/JJ and/CC (/-LRB- almost/RB )/-RRB- deterministic/JJ heuristic/NN algorithm/NN for/IN BRL/NN which/WDT is/VBZ optimistic/JJ about/IN the/DT transition/NN function/NN ./.
+We/PRP analyze/VBP BOLT/NNP 's/POS sample/NN complexity/NN ,/, and/CC show/VBP that/IN under/IN certain/JJ parameters/NNS ,/, the/DT algorithm/NN is/VBZ near/JJ -/HYPH optimal/JJ in/IN the/DT Bayesian/JJ sense/NN with/IN high/JJ probability/NN ./.
+Then/RB ,/, experimental/JJ results/NNS highlight/VBP the/DT key/JJ differences/NNS of/IN this/DT method/NN compared/VBN to/IN previous/JJ work/NN ./.

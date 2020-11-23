@@ -1,0 +1,6 @@
+This/DT paper/NN describes/VBZ our/PRP$ approach/NN for/IN the/DT Detecting/VBG Stance/NN in/IN Tweets/NNP task/NN (/-LRB- SemEval/NN -/HYPH 2016/CD Task/NNP 6/CD )/-RRB- ./.
+We/PRP utilized/VBD recent/JJ advances/NNS in/IN short/JJ text/NN categorization/NN using/VBG deep/JJ learning/NN to/TO create/VB word/NN -/HYPH level/NN and/CC character/NN -/HYPH level/NN models/NNS ./.
+The/DT choice/NN between/IN word/NN -/HYPH level/NN and/CC character/NN -/HYPH level/NN models/NNS in/IN each/DT particular/JJ case/NN was/VBD informed/VBN through/IN validation/NN performance/NN ./.
+Our/PRP$ final/JJ system/NN is/VBZ a/DT combination/NN of/IN classifiers/NNS using/VBG word/NN -/HYPH level/NN or/CC character/NN -/HYPH level/NN models/NNS ./.
+We/PRP also/RB employed/VBD novel/JJ data/NNS augmentation/NN techniques/NNS to/TO expand/VB and/CC diversify/VB our/PRP$ training/NN dataset/NN ,/, thus/RB making/VBG our/PRP$ system/NN more/RBR robust/JJ ./.
+Our/PRP$ system/NN achieved/VBD a/DT macro-average/NN precision/NN ,/, recall/NN and/CC F1/NN -/HYPH scores/NNS of/IN 0.67/CD ,/, 0.61/CD and/CC 0.635/CD respectively/RB ./.

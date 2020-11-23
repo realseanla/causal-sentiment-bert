@@ -1,0 +1,5 @@
+This/DT paper/NN introduces/VBZ a/DT general/JJ multi-class/NN approach/NN to/IN weakly/RB supervised/JJ classification/NN ./.
+Inferring/VBG the/DT labels/NNS and/CC learning/VBG the/DT parameters/NNS of/IN the/DT model/NN is/VBZ usually/RB done/VBN jointly/RB through/IN a/DT block/NN -/HYPH coordinate/NN descent/NN algorithm/NN such/JJ as/IN expectation/NN -/HYPH maximization/NN (/-LRB- EM/NN )/-RRB- ,/, which/WDT may/MD lead/VB to/IN local/JJ minima/NN ./.
+To/TO avoid/VB this/DT problem/NN ,/, we/PRP propose/VBP a/DT cost/NN function/NN based/VBN on/IN a/DT convex/NN relaxation/NN of/IN the/DT soft/JJ -/HYPH max/NN loss/NN ./.
+We/PRP then/RB propose/VB an/DT algorithm/NN specifically/RB designed/VBN to/TO efficiently/RB solve/VB the/DT corresponding/VBG semidefinite/JJ program/NN (/-LRB- SDP/NN )/-RRB- ./.
+Empirically/RB ,/, our/PRP$ method/NN compares/VBZ favorably/RB to/IN standard/JJ ones/NNS on/IN different/JJ datasets/NNS for/IN multiple/JJ instance/NN learning/NN and/CC semi-supervised/VBN learning/NN as/RB well/RB as/IN on/IN clustering/NN tasks/NNS ./.

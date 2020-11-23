@@ -1,0 +1,7 @@
+While/IN machine/NN learning/NN is/VBZ currently/RB very/RB successful/JJ in/IN several/JJ application/NN domains/NNS ,/, we/PRP are/VBP still/RB very/RB far/RB from/IN a/DT real/JJ Artificial/NNP Intelligence/NNP ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP basic/JJ sequence/NN prediction/NN problems/NNS that/WDT are/VBP beyond/IN the/DT scope/NN of/IN what/WP is/VBZ learnable/JJ with/IN popular/JJ methods/NNS such/JJ as/IN recurrent/JJ networks/NNS ./.
+We/PRP show/VBP that/IN simple/JJ algorithms/NNS can/MD be/VB learnt/VBN from/IN sequential/JJ data/NNS with/IN a/DT recurrent/JJ network/NN associated/VBN with/IN trainable/JJ stacks/NNS ./.
+We/PRP focus/VBP our/PRP$ study/NN on/IN algorithmically/RB generated/VBN sequences/NNS such/JJ as/IN $/$ a/DT ^/SYM n/NN b/SYM ^/SYM {/-LRB- n/NN }/-RRB- $/$ ,/, that/DT can/MD only/RB be/VB learnt/VBN by/IN models/NNS which/WDT have/VBP the/DT capacity/NN to/TO count/VB ./.
+Our/PRP$ study/NN highlights/NNS certain/JJ topics/NNS in/IN machine/NN learning/NN that/WDT deserve/VBP more/JJR attention/NN ,/, such/JJ as/IN addressing/VBG the/DT shortcomings/NNS of/IN purely/RB gradient/NN based/VBN training/NN of/IN non-convex/JJ models/NNS ./.
+We/PRP achieve/VBP progress/NN in/IN this/DT direction/NN by/IN incorporating/VBG search/NN based/VBN strategy/NN ./.
+Once/IN trained/VBN ,/, we/PRP show/VBP that/IN our/PRP$ method/NN is/VBZ able/JJ generalize/VB to/IN sequences/NNS up/IN to/IN an/DT arbitrary/JJ size/NN ./.

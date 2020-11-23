@@ -1,0 +1,7 @@
+The/DT study/NN focused/VBD on/IN the/DT machine/NN learning/NN analysis/NN approaches/VBZ to/TO identify/VB the/DT adulteration/NN of/IN 9/CD kinds/NNS of/IN edible/JJ oil/NN qualitatively/RB and/CC answered/VBD the/DT following/VBG three/CD questions/NNS :/: Is/VBZ the/DT oil/NN sample/NN adulterant/NN ?/.
+How/WRB does/VBZ it/PRP constitute/VB ?/.
+What/WP is/VBZ the/DT main/JJ ingredient/NN of/IN the/DT adulteration/NN oil/NN ?/.
+After/IN extracting/VBG the/DT high/JJ -/HYPH performance/NN liquid/NN chromatography/NN (/-LRB- HPLC/NN )/-RRB- data/NNS on/IN triglyceride/NN from/IN 370/CD oil/NN samples/NNS ,/, we/PRP applied/VBD the/DT adaptive/JJ boosting/VBG with/IN multi-class/NN Hamming/NN loss/NN (/-LRB- AdaBoost.MH/NN )/-RRB- to/TO distinguish/VB the/DT oil/NN adulteration/NN in/IN contrast/NN with/IN the/DT support/NN vector/NN machine/NN (/-LRB- SVM/NN )/-RRB- ./.
+Further/RB ,/, we/PRP regarded/VBD the/DT adulterant/JJ oil/NN and/CC the/DT pure/JJ oil/NN samples/NNS as/IN ones/NNS with/IN multiple/JJ labels/NNS and/CC with/IN only/RB one/CD label/NN ,/, respectively/RB ./.
+Then/RB multi-label/JJ AdaBoost.MH/NN and/CC multi-label/JJ learning/NN vector/NN quantization/NN (/-LRB- ML/NN -/HYPH LVQ/NN )/-RRB- model/NN were/VBD built/VBN to/TO determine/VB the/DT ingredients/NNS and/CC their/PRP$ relative/JJ ratio/NN in/IN the/DT adulteration/NN oil/NN ./.
+The/DT experimental/JJ results/NNS on/IN six/CD measures/NNS show/VBP that/IN ML/NNP -/HYPH LVQ/NNP achieves/VBZ better/JJR performance/NN than/IN multi-label/JJ AdaBoost.MH/NN ./.

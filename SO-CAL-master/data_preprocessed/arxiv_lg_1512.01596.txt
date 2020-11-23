@@ -1,0 +1,4 @@
+The/DT development/NN of/IN a/DT deep/JJ (/-LRB- stacked/VBN )/-RRB- convolutional/JJ auto/NN -/HYPH encoder/NN in/IN the/DT Caffe/NNP deep/JJ learning/NN framework/NN is/VBZ presented/VBN in/IN this/DT paper/NN ./.
+We/PRP describe/VBP simple/JJ principles/NNS which/WDT we/PRP used/VBD to/TO create/VB this/DT model/NN in/IN Caffe/NNP ./.
+The/DT proposed/VBN model/NN of/IN convolutional/JJ auto/NN -/HYPH encoder/NN does/VBZ not/RB have/VB pooling/VBG //, unpooling/JJ layers/NNS yet/RB ./.
+The/DT results/NNS of/IN our/PRP$ experimental/JJ research/NN show/VBP comparable/JJ accuracy/NN of/IN dimensionality/NN reduction/NN in/IN comparison/NN with/IN a/DT classic/JJ auto/NN -/HYPH encoder/NN on/IN the/DT example/NN of/IN MNIST/NN dataset/NN ./.

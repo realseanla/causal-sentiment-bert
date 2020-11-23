@@ -1,0 +1,5 @@
+We describe and analyze a new algorithm for agnostically learning kernel-based halfspaces with respect to the \emph{zero-one} loss function.
+Unlike most previous formulations which rely on surrogate convex loss functions (e.g.
+hinge-loss in SVM and log-loss in logistic regression), we provide finite time/sample guarantees with respect to the more natural zero-one loss function.
+The proposed algorithm can learn kernel-based halfspaces in worst-case time $\poly(\exp(L\log(L/\epsilon)))$, for $\emph{any}$ distribution, where $L$ is a Lipschitz constant (which can be thought of as the reciprocal of the margin), and the learned classifier is worse than the optimal halfspace by at most $\epsilon$.
+We also prove a hardness result, showing that under a certain cryptographic assumption, no algorithm can learn kernel-based halfspaces in time polynomial in $L$.

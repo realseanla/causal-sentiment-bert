@@ -1,0 +1,6 @@
+Previous research has shown that information can be extracted from encrypted multimedia streams.
+This includes video titles classification of non HTTP adaptive streams (non-HAS).
+This paper presents an algorithm for \emph{encrypted HTTP adaptive video streaming title classification}.
+We evaluated our algorithm on a new YouTube popular videos dataset that was collected from the internet under real-world network conditions.
+We provide the dataset and the crawler for future research.
+Our algorithm's classification accuracy is 98\ percent.

@@ -1,0 +1,3 @@
+Consider/VB a/DT multihop/NN wireless/JJ network/NN serving/VBG multiple/JJ flows/NNS in/IN which/WDT wireless/JJ link/NN interference/NN constraints/NNS are/VBP described/VBN by/IN a/DT link/NN interference/NN graph/NN ./.
+For/IN such/PDT a/DT network/NN ,/, we/PRP design/VBP routing/NN -/HYPH scheduling/NN policies/NNS that/WDT maximize/VBP the/DT end/NN -/HYPH to/IN -/HYPH end/NN timely/JJ throughput/NN of/IN the/DT network/NN ./.
+Timely/JJ throughput/NN of/IN a/DT flow/NN $/$ f/LS $/$ is/VBZ defined/VBN as/IN the/DT average/JJ rate/NN at/IN which/WDT packets/NNS of/IN flow/NN $/$ f/LS $/$ reach/VB their/PRP$ destination/NN node/NN $/$ d_f/CD $/$ within/IN their/PRP$ deadline/NN ./.

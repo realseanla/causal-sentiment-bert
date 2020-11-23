@@ -1,0 +1,3 @@
+The presence of latent variables can greatly complicate inferences about causal relations between measured variables from statistical data.
+In many cases, the presence of latent variables makes it impossible to determine for two measured variables A and B, whether A causes B, B causes A, or there is some common cause.
+In this paper I present several theorems that state conditions under which it is possible to reliably infer the causal relation between two measured variables, regardless of whether latent variables are acting or not.

@@ -1,0 +1,8 @@
+Minimum/JJ vertex/NN cover/NN problem/NN is/VBZ an/DT NP/NNP -/HYPH Hard/NNP problem/NN with/IN the/DT aim/NN of/IN finding/VBG minimum/JJ number/NN of/IN vertices/NNS to/TO cover/VB graph/NN ./.
+In/IN this/DT paper/NN ,/, a/DT learning/NN automaton/NN based/VBN algorithm/NN is/VBZ proposed/VBN to/TO find/VB minimum/JJ vertex/NN cover/NN in/IN graph/NN ./.
+In/IN the/DT proposed/VBN algorithm/NN ,/, each/DT vertex/NN of/IN graph/NN is/VBZ equipped/VBN with/IN a/DT learning/NN automaton/NN that/WDT has/VBZ two/CD actions/NNS in/IN the/DT candidate/NN or/CC non-candidate/NN of/IN the/DT corresponding/VBG vertex/NN cover/NN set/NN ./.
+Due/IN to/IN characteristics/NNS of/IN learning/VBG automata/NN ,/, this/DT algorithm/NN significantly/RB reduces/VBZ the/DT number/NN of/IN covering/VBG vertices/NNS of/IN graph/NN ./.
+The/DT proposed/VBN algorithm/NN based/VBN on/IN learning/VBG automata/NN iteratively/RB minimize/VB the/DT candidate/NN vertex/NN cover/NN through/IN the/DT update/NN its/PRP$ action/NN probability/NN ./.
+As/IN the/DT proposed/VBN algorithm/NN proceeds/NNS ,/, a/DT candidate/NN solution/NN nears/VBZ to/IN optimal/JJ solution/NN of/IN the/DT minimum/JJ vertex/NN cover/NN problem/NN ./.
+In/IN order/NN to/TO evaluate/VB the/DT proposed/VBN algorithm/NN ,/, several/JJ experiments/NNS conducted/VBN on/IN DIMACS/NN dataset/NN which/WDT compared/VBD to/IN conventional/JJ methods/NNS ./.
+Experimental/JJ results/NNS show/VBP the/DT major/JJ superiority/NN of/IN the/DT proposed/VBN algorithm/NN over/IN the/DT other/JJ methods/NNS ./.

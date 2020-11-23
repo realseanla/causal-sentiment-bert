@@ -1,0 +1,6 @@
+We develop a framework for rendering photographic images, taking into account display limitations, so as to optimize perceptual similarity between the rendered image and the original scene.
+We formulate this as a constrained optimization problem, in which we minimize a measure of perceptual dissimilarity, the Normalized Laplacian Pyramid Distance (NLPD), which mimics the early stage transformations of the human visual system.
+When rendering images acquired with higher dynamic range than that of the display, we find that the optimized solution boosts the contrast of low-contrast features without introducing significant artifacts, yielding results of comparable visual quality to current state-of-the art methods with no manual intervention or parameter settings.
+We also examine a variety of other display constraints, including limitations on minimum luminance (black point), mean luminance (as a proxy for energy consumption), and quantized luminance levels (halftoning).
+Finally, we show that the method may be used to enhance details and contrast of images degraded by optical scattering (e.g.
+fog).

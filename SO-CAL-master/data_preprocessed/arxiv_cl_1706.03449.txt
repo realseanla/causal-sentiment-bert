@@ -1,0 +1,10 @@
+The/DT rapid/JJ growth/NN of/IN scientific/JJ literature/NN has/VBZ made/VBN it/PRP difficult/JJ for/IN the/DT researchers/NNS to/TO quickly/RB learn/VB about/IN the/DT developments/NNS in/IN their/PRP$ respective/JJ fields/NNS ./.
+Scientific/JJ document/NN summarization/NN addresses/NNS this/DT challenge/NN by/IN providing/VBG summaries/NNS of/IN the/DT important/JJ contributions/NNS of/IN scientific/JJ papers/NNS ./.
+We/PRP present/VBP a/DT framework/NN for/IN scientific/JJ summarization/NN which/WDT takes/VBZ advantage/NN of/IN the/DT citations/NNS and/CC the/DT scientific/JJ discourse/NN structure/NN ./.
+Citation/NN texts/NNS often/RB lack/VBP the/DT evidence/NN and/CC context/NN to/TO support/VB the/DT content/NN of/IN the/DT cited/VBN paper/NN and/CC are/VBP even/RB sometimes/RB inaccurate/JJ ./.
+We/PRP first/RB address/VB the/DT problem/NN of/IN inaccuracy/NN of/IN the/DT citation/NN texts/NNS by/IN finding/VBG the/DT relevant/JJ context/NN from/IN the/DT cited/VBN paper/NN ./.
+We/PRP propose/VBP three/CD approaches/NNS for/IN contextualizing/VBG citations/NNS which/WDT are/VBP based/VBN on/IN query/NN reformulation/NN ,/, word/NN embeddings/NNS ,/, and/CC supervised/VBD learning/NN ./.
+We/PRP then/RB train/VB a/DT model/NN to/TO identify/VB the/DT discourse/NN facets/NNS for/IN each/DT citation/NN ./.
+We/PRP finally/RB propose/VBP a/DT method/NN for/IN summarizing/VBG scientific/JJ papers/NNS by/IN leveraging/VBG the/DT faceted/JJ citations/NNS and/CC their/PRP$ corresponding/VBG contexts/NNS ./.
+We/PRP evaluate/VBP our/PRP$ proposed/JJ method/NN on/IN two/CD scientific/JJ summarization/NN datasets/NNS in/IN the/DT biomedical/JJ and/CC computational/JJ linguistics/NN domains/NNS ./.
+Extensive/JJ evaluation/NN results/NNS show/VBP that/IN our/PRP$ methods/NNS can/MD improve/VB over/IN the/DT state/NN of/IN the/DT art/NN by/IN large/JJ margins/NNS ./.

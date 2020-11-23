@@ -1,0 +1,5 @@
+In this work, we cast text summarization as a sequence-to-sequence problem and apply the attentional encoder-decoder RNN that has been shown to be successful for Machine Translation (Bahdanau et al.
+(2014)).
+Our experiments show that the proposed architecture significantly outperforms the state-of-the art model of Rush et al.
+(2015) on the Gigaword dataset without any additional tuning.
+We also propose additional extensions to the standard architecture, which we show contribute to further improvement in performance.

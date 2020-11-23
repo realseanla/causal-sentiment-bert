@@ -1,0 +1,4 @@
+In this work we study variance in the results of neural network training on a wide variety of configurations in automatic speech recognition.
+Although this variance itself is well known, this is, to the best of our knowledge, the first paper that performs an extensive empirical study on its effects in speech recognition.
+We view training as sampling from a distribution and show that these distributions can have a substantial variance.
+These results show the urgent need to rethink the way in which results in the literature are reported and interpreted.

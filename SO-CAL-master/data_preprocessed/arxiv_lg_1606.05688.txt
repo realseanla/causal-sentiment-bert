@@ -1,0 +1,13 @@
+Sliding/VBG window/NN convolutional/JJ networks/NNS (/-LRB- ConvNets/NNP )/-RRB- have/VBP become/VBN a/DT popular/JJ approach/NN to/IN computer/NN vision/NN problems/NNS such/JJ as/IN image/NN segmentation/NN ,/, and/CC object/NN detection/NN and/CC localization/NN ./.
+Here/RB we/PRP consider/VBP the/DT problem/NN of/IN inference/NN ,/, the/DT application/NN of/IN a/DT previously/RB trained/VBN ConvNet/NNP ,/, with/IN emphasis/NN on/IN 3D/JJ images/NNS ./.
+Our/PRP$ goal/NN is/VBZ to/TO maximize/VB throughput/NN ,/, defined/VBN as/IN average/JJ number/NN of/IN output/NN voxels/NNS computed/VBN per/IN unit/NN time/NN ./.
+Other/JJ things/NNS being/VBG equal/JJ ,/, processing/VBG a/DT larger/JJR image/NN tends/VBZ to/TO increase/VB throughput/NN ,/, because/IN fractionally/RB less/JJR computation/NN is/VBZ wasted/VBN on/IN the/DT borders/NNS of/IN the/DT image/NN ./.
+It/PRP follows/VBZ that/IN an/DT apparently/RB slower/JJR algorithm/NN may/MD end/VB up/RP having/VBG higher/JJR throughput/NN if/IN it/PRP can/MD process/VB a/DT larger/JJR image/NN within/IN the/DT constraint/NN of/IN the/DT available/JJ RAM/NN ./.
+We/PRP introduce/VBP novel/JJ CPU/NN and/CC GPU/NNP primitives/NNS for/IN convolutional/JJ and/CC pooling/VBG layers/NNS ,/, which/WDT are/VBP designed/VBN to/TO minimize/VB memory/NN overhead/NN ./.
+The/DT primitives/NNS include/VBP convolution/NN based/VBN on/IN highly/RB efficient/JJ pruned/VBN FFTs/NNS ./.
+Our/PRP$ theoretical/JJ analyses/NNS and/CC empirical/JJ tests/NNS reveal/VBP a/DT number/NN of/IN interesting/JJ findings/NNS ./.
+For/IN some/DT ConvNet/NNP architectures/NNS ,/, cuDNN/NN is/VBZ outperformed/VBN by/IN our/PRP$ FFT/NN -/HYPH based/VBN GPU/NNP primitives/NNS ,/, and/CC these/DT in/IN turn/NN can/MD be/VB outperformed/VBN by/IN our/PRP$ CPU/NN primitives/NNS ./.
+The/DT CPU/NN manages/VBZ to/TO achieve/VB higher/JJR throughput/NN because/IN of/IN its/PRP$ fast/JJ access/NN to/IN more/JJR RAM/NN ./.
+A/DT novel/JJ primitive/JJ in/IN which/WDT the/DT GPU/NNP accesses/VBZ host/NN RAM/NN can/MD significantly/RB increase/VB GPU/NNP throughput/NN ./.
+Finally/RB ,/, a/DT CPU/NN -/HYPH GPU/NN algorithm/NN achieves/VBZ the/DT greatest/JJS throughput/NN of/IN all/DT ,/, 10x/NN or/CC more/JJR than/IN other/JJ publicly/RB available/JJ implementations/NNS of/IN sliding/VBG window/NN 3D/NN ConvNets/NNS ./.
+All/DT of/IN our/PRP$ code/NN has/VBZ been/VBN made/VBN available/JJ as/RB open/JJ source/NN project/NN ./.

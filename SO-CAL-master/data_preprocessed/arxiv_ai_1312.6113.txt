@@ -1,0 +1,6 @@
+Encoding/VBG finite/JJ linear/JJ CSPs/NNS as/IN Boolean/JJ formulas/NNS and/CC solving/VBG them/PRP by/IN using/VBG modern/JJ SAT/VBD solvers/NNS has/VBZ proven/VBN to/TO be/VB highly/RB effective/JJ ,/, as/IN exemplified/VBN by/IN the/DT award/NN -/HYPH winning/VBG sugar/NN system/NN ./.
+We/PRP here/RB develop/VBP an/DT alternative/JJ approach/NN based/VBN on/IN ASP/NN ./.
+This/DT allows/VBZ us/PRP to/TO use/VB first/JJ -/HYPH order/NN encodings/NNS providing/VBG us/PRP with/IN a/DT high/JJ degree/NN of/IN flexibility/NN for/IN easy/JJ experimentation/NN with/IN different/JJ implementations/NNS ./.
+The/DT resulting/VBG system/NN aspartame/NNP re-uses/VBZ parts/NNS of/IN sugar/NN for/IN parsing/VBG and/CC normalizing/VBG CSPs/NNS ./.
+The/DT obtained/VBN set/NN of/IN facts/NNS is/VBZ then/RB combined/VBN with/IN an/DT ASP/NN encoding/VBG that/DT can/MD be/VB grounded/VBN and/CC solved/VBN by/IN off/RB -/HYPH the/DT -/HYPH shelf/NN ASP/NN systems/NNS ./.
+We/PRP establish/VBP the/DT competitiveness/NN of/IN our/PRP$ approach/NN by/IN empirically/RB contrasting/VBG aspartame/NN and/CC sugar/NN ./.

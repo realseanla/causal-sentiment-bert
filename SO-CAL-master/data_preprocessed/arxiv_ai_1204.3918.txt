@@ -1,0 +1,5 @@
+Successive/JJ elimination/NN of/IN candidates/NNS is/VBZ often/RB a/DT route/NN to/IN making/VBG manipulation/NN intractable/JJ to/TO compute/VB ./.
+We/PRP prove/VBP that/IN eliminating/VBG candidates/NNS does/VBZ not/RB necessarily/RB increase/VB the/DT computational/JJ complexity/NN of/IN manipulation/NN ./.
+However/RB ,/, for/IN many/JJ voting/NN rules/NNS used/VBN in/IN practice/NN ,/, the/DT computational/JJ complexity/NN increases/NNS ./.
+For/IN example/NN ,/, it/PRP is/VBZ already/RB known/VBN that/IN it/PRP is/VBZ NP/NNP -/HYPH hard/JJ to/TO compute/VB how/WRB a/DT single/JJ voter/NN can/MD manipulate/VB the/DT result/NN of/IN single/JJ transferable/JJ voting/NN (/-LRB- the/DT elimination/NN version/NN of/IN plurality/NN voting/NN )/-RRB- ./.
+We/PRP show/VBP here/RB that/IN it/PRP is/VBZ NP/NNP -/HYPH hard/JJ to/TO compute/VB how/WRB a/DT single/JJ voter/NN can/MD manipulate/VB the/DT result/NN of/IN the/DT elimination/NN version/NN of/IN veto/NN voting/NN ,/, of/IN the/DT closely/RB related/JJ Coombs/NNP '/POS rule/NN ,/, and/CC of/IN the/DT elimination/NN versions/NNS of/IN a/DT general/JJ class/NN of/IN scoring/VBG rules/NNS ./.

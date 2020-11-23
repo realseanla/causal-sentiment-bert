@@ -1,0 +1,5 @@
+We/PRP introduce/VBP an/DT agreement/NN -/HYPH based/VBN approach/NN to/IN learning/VBG parallel/JJ lexicons/NNS and/CC phrases/NNS from/IN non-parallel/JJ corpora/NNS ./.
+The/DT basic/JJ idea/NN is/VBZ to/TO encourage/VB two/CD asymmetric/JJ latent/NN -/HYPH variable/JJ translation/NN models/NNS (/-LRB- i.e./FW ,/, source/NN -/HYPH to/IN -/HYPH target/NN and/CC target/NN -/HYPH to/IN -/HYPH source/NN )/-RRB- to/TO agree/VB on/IN identifying/VBG latent/NN phrase/NN and/CC word/NN alignments/NNS ./.
+The/DT agreement/NN is/VBZ defined/VBN at/IN both/DT word/NN and/CC phrase/NN levels/NNS ./.
+We/PRP develop/VBP a/DT Viterbi/NNP EM/NNP algorithm/NN for/IN jointly/RB training/VBG the/DT two/CD unidirectional/JJ models/NNS efficiently/RB ./.
+Experiments/NNS on/IN the/DT Chinese/JJ -/HYPH English/JJ dataset/NN show/NN that/WDT agreement/NN -/HYPH based/VBN learning/NN significantly/RB improves/VBZ both/DT alignment/NN and/CC translation/NN performance/NN ./.

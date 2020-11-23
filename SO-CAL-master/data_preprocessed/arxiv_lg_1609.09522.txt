@@ -1,0 +1,4 @@
+Recently/RB ,/, the/DT problem/NN of/IN local/JJ minima/NN in/IN very/RB high/JJ dimensional/JJ non-convex/JJ optimization/NN has/VBZ been/VBN challenged/VBN and/CC the/DT problem/NN of/IN saddle/NN points/NNS has/VBZ been/VBN introduced/VBN ./.
+This/DT paper/NN introduces/VBZ a/DT dynamic/JJ type/NN of/IN normalization/NN that/WDT forces/VBZ the/DT system/NN to/TO escape/VB saddle/NN points/NNS ./.
+Unlike/IN other/JJ saddle/NN point/NN escaping/VBG algorithms/NNS ,/, second/JJ order/NN information/NN is/VBZ not/RB utilized/VBN ,/, and/CC the/DT system/NN can/MD be/VB trained/VBN with/IN an/DT arbitrary/JJ gradient/NN descent/NN learner/NN ./.
+The/DT system/NN drastically/RB improves/VBZ learning/NN in/IN a/DT range/NN of/IN deep/JJ neural/JJ networks/NNS on/IN various/JJ data/NNS -/HYPH sets/NNS in/IN comparison/NN to/IN non-CPN/JJ neural/JJ networks/NNS ./.

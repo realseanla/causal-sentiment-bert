@@ -1,0 +1,9 @@
+In/IN today/NN 's/POS world/NN ,/, we/PRP follow/VBP news/NN which/WDT is/VBZ distributed/VBN globally/RB ./.
+Significant/JJ events/NNS are/VBP reported/VBN by/IN different/JJ sources/NNS and/CC in/IN different/JJ languages/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN tracking/NN of/IN events/NNS in/IN a/DT large/JJ multilingual/JJ stream/NN ./.
+Within/IN a/DT recently/RB developed/VBN system/NN Event/NNP Registry/NNP we/PRP examine/VBP two/CD aspects/NNS of/IN this/DT problem/NN :/: how/WRB to/TO compare/VB articles/NNS in/IN different/JJ languages/NNS and/CC how/WRB to/TO link/VB collections/NNS of/IN articles/NNS in/IN different/JJ languages/NNS which/WDT refer/VBP to/IN the/DT same/JJ event/NN ./.
+Taking/VBG a/DT multilingual/JJ stream/NN and/CC clusters/NNS of/IN articles/NNS from/IN each/DT language/NN ,/, we/PRP compare/VBP different/JJ cross-lingual/JJ document/NN similarity/NN measures/NNS based/VBN on/IN Wikipedia/NNP ./.
+This/DT allows/VBZ us/PRP to/TO compute/VB the/DT similarity/NN of/IN any/DT two/CD articles/NNS regardless/RB of/IN language/NN ./.
+Building/NN on/IN previous/JJ work/NN ,/, we/PRP show/VBP there/EX are/VBP methods/NNS which/WDT scale/VBP well/RB and/CC can/MD compute/VB a/DT meaningful/JJ similarity/NN between/IN articles/NNS from/IN languages/NNS with/IN little/JJ or/CC no/DT direct/JJ overlap/NN in/IN the/DT training/NN data/NNS ./.
+Using/VBG this/DT capability/NN ,/, we/PRP then/RB propose/VB an/DT approach/NN to/IN link/NN clusters/NNS of/IN articles/NNS across/IN languages/NNS which/WDT represent/VBP the/DT same/JJ event/NN ./.
+We/PRP provide/VBP an/DT extensive/JJ evaluation/NN of/IN the/DT system/NN as/IN a/DT whole/JJ ,/, as/RB well/RB as/IN an/DT evaluation/NN of/IN the/DT quality/NN and/CC robustness/NN of/IN the/DT similarity/NN measure/NN and/CC the/DT linking/VBG algorithm/NN ./.

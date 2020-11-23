@@ -1,0 +1,5 @@
+Signal/NNP Sequence/NN Labeling/NN consists/VBZ in/IN predicting/VBG a/DT sequence/NN of/IN labels/NNS given/VBN an/DT observed/VBN sequence/NN of/IN samples/NNS ./.
+A/DT naive/JJ way/NN is/VBZ to/TO filter/VB the/DT signal/NN in/IN order/NN to/TO reduce/VB the/DT noise/NN and/CC to/TO apply/VB a/DT classification/NN algorithm/NN on/IN the/DT filtered/VBN samples/NNS ./.
+We/PRP propose/VBP in/IN this/DT paper/NN to/TO jointly/RB learn/VB the/DT filter/NN with/IN the/DT classifier/NN leading/VBG to/IN a/DT large/JJ margin/NN filtering/VBG for/IN classification/NN ./.
+This/DT method/NN allows/VBZ to/TO learn/VB the/DT optimal/JJ cutoff/NN frequency/NN and/CC phase/NN of/IN the/DT filter/NN that/WDT may/MD be/VB different/JJ from/IN zero/CD ./.
+Two/CD methods/NNS are/VBP proposed/VBN and/CC tested/VBN on/IN a/DT toy/NN dataset/NN and/CC on/IN a/DT real/JJ life/NN BCI/NNP dataset/NN from/IN BCI/NNP Competition/NNP III/NNP ./.

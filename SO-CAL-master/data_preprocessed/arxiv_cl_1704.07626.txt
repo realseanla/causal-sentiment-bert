@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT novel/NN ,/, semi-supervised/VBN approach/NN towards/IN domain/NN taxonomy/NN induction/NN from/IN an/DT input/NN vocabulary/NN of/IN seed/NN terms/NNS ./.
+Unlike/IN most/JJS previous/JJ approaches/NNS ,/, which/WDT typically/RB extract/VBP direct/JJ hypernym/NN edges/NNS for/IN terms/NNS ,/, our/PRP$ approach/NN utilizes/VBZ a/DT novel/JJ probabilistic/JJ framework/NN to/TO extract/VB hypernym/NN subsequences/NNS ./.
+Taxonomy/NN induction/NN from/IN extracted/VBN subsequences/NNS is/VBZ cast/VBN as/IN an/DT instance/NN of/IN the/DT minimum/NN -/HYPH cost/NN flow/NN problem/NN on/IN a/DT carefully/RB designed/VBN directed/VBN graph/NN ./.
+Through/IN experiments/NNS ,/, we/PRP demonstrate/VBP that/IN our/PRP$ approach/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN taxonomy/NN induction/NN approaches/VBZ across/IN four/CD languages/NNS ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN our/PRP$ approach/NN is/VBZ robust/JJ to/IN the/DT presence/NN of/IN noise/NN in/IN the/DT input/NN vocabulary/NN ./.

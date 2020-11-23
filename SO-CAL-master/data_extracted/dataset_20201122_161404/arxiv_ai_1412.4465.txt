@@ -1,0 +1,6 @@
+With the technology development, the need of analyze and extraction of useful information is increasing.
+Bayesian networks contain knowledge from data and experts that could be used for decision making processes But they are not easily understandable thus the rule extraction methods have been used but they have high computation costs.
+To overcome this problem we extract rules from Bayesian network using genetic algorithm.
+Then we generate the graphical chain by mutually matching the extracted rules and Bayesian network.
+This graphical chain could shows the sequence of events that lead to the target which could help the decision making process.
+The experimental results on small networks show that the proposed method has comparable results with brute force method which has a significantly higher computation cost.

@@ -1,0 +1,8 @@
+Learning/VBG -/HYPH assisted/VBN automated/VBN reasoning/NN has/VBZ recently/RB gained/VBN popularity/NN among/IN the/DT users/NNS of/IN Isabelle/NNP //HYPH HOL/NNP ,/, HOL/NNP Light/NNP ,/, and/CC Mizar/NNP ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT add/NN -/HYPH on/IN to/IN the/DT HOL4/NN proof/NN assistant/NN and/CC an/DT adaptation/NN of/IN the/DT HOLyHammer/NN system/NN that/WDT provides/VBZ machine/NN learning/NN -/HYPH based/VBN premise/NN selection/NN and/CC automated/VBN reasoning/NN also/RB for/IN HOL4/NN ./.
+We/PRP efficiently/RB record/VB the/DT HOL4/NN dependencies/NNS and/CC extract/NN features/NNS from/IN the/DT theorem/NN statements/NNS ,/, which/WDT form/VBP a/DT basis/NN for/IN premise/NN selection/NN ./.
+HOLyHammer/NNP transforms/VBZ the/DT HOL4/NN statements/NNS in/IN the/DT various/JJ TPTP/NN -/HYPH ATP/NN proof/NN formats/NNS ,/, which/WDT are/VBP then/RB processed/VBN by/IN the/DT ATPs/NNS ./.
+We/PRP discuss/VBP the/DT different/JJ evaluation/NN settings/NNS :/: ATPs/NNS ,/, accessible/JJ lemmas/NN ,/, and/CC premise/NN numbers/NNS ./.
+We/PRP measure/VBP the/DT performance/NN of/IN HOLyHammer/NNP on/IN the/DT HOL4/NN standard/JJ library/NN ./.
+The/DT results/NNS are/VBP combined/VBN accordingly/RB and/CC compared/VBN with/IN the/DT HOL/NNP Light/NN experiments/NNS ,/, showing/VBG a/DT comparably/RB high/JJ quality/NN of/IN predictions/NNS ./.
+The/DT system/NN directly/RB benefits/VBZ HOL4/NN users/NNS by/IN automatically/RB finding/VBG proofs/NNS dependencies/NNS that/WDT can/MD be/VB reconstructed/VBN by/IN Metis/NNP ./.

@@ -1,0 +1,7 @@
+Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- RNNs/NNS )/-RRB- continue/VBP to/TO show/VB outstanding/JJ performance/NN in/IN sequence/NN modeling/NN tasks/NNS ./.
+However/RB ,/, training/VBG RNNs/NNS on/IN long/JJ sequences/NNS often/RB face/VBP challenges/NNS like/IN slow/JJ inference/NN ,/, vanishing/VBG gradients/NNS and/CC difficulty/NN in/IN capturing/VBG long/JJ term/NN dependencies/NNS ./.
+In/IN backpropagation/NN through/IN time/NN settings/NNS ,/, these/DT issues/NNS are/VBP tightly/RB coupled/VBN with/IN the/DT large/JJ ,/, sequential/JJ computational/JJ graph/NN resulting/VBG from/IN unfolding/VBG the/DT RNN/NN in/IN time/NN ./.
+We/PRP introduce/VBP the/DT Skip/VB RNN/NN model/NN which/WDT extends/VBZ existing/VBG RNN/NN models/NNS by/IN learning/VBG to/TO skip/VB state/NN updates/NNS and/CC shortens/VBZ the/DT effective/JJ size/NN of/IN the/DT computational/JJ graph/NN ./.
+This/DT model/NN can/MD also/RB be/VB encouraged/VBN to/TO perform/VB fewer/JJR state/NN updates/NNS through/IN a/DT budget/NN constraint/NN ./.
+We/PRP evaluate/VBP the/DT proposed/VBN model/NN on/IN various/JJ tasks/NNS and/CC show/VB how/WRB it/PRP can/MD reduce/VB the/DT number/NN of/IN required/VBN RNN/NN updates/NNS while/IN preserving/VBG ,/, and/CC sometimes/RB even/RB improving/VBG ,/, the/DT performance/NN of/IN the/DT baseline/NN RNN/NN models/NNS ./.
+Source/NN code/NN is/VBZ publicly/RB available/JJ at/IN

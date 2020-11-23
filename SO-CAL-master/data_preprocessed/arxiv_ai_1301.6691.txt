@@ -1,0 +1,8 @@
+Hybrid/NN Probabilistic/NNP Programs/NNP (/-LRB- HPPs/NNS )/-RRB- are/VBP logic/NN programs/NNS that/WDT allow/VBP the/DT programmer/NN to/TO explicitly/RB encode/VB his/PRP$ knowledge/NN of/IN the/DT dependencies/NNS between/IN events/NNS being/VBG described/VBN in/IN the/DT program/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP classify/VBP HPPs/NNS into/IN three/CD classes/NNS called/VBN HPP_1/NN ,/, HPP_2/NN and/CC HPP_r/NN ,/, r/NN &gt;/SYM =/SYM 3/CD ./.
+For/IN these/DT classes/NNS ,/, we/PRP provide/VBP three/CD types/NNS of/IN results/NNS for/IN HPPs/NNS ./.
+First/RB ,/, we/PRP develop/VBP algorithms/NNS to/IN compute/VB the/DT set/NN of/IN all/DT ground/NN consequences/NNS of/IN an/DT HPP/NN ./.
+Then/RB we/PRP provide/VBP algorithms/NNS and/CC complexity/NN results/NNS for/IN the/DT problems/NNS of/IN entailment/NN (/-LRB- "/`` Given/VBN an/DT HPP/NN P/NN and/CC a/DT query/NN Q/NN as/IN input/NN ,/, is/VBZ Q/NNP a/DT logical/JJ consequence/NN of/IN P/NN ?/. "/'' )/-RRB-
+and/CC consistency/NN (/-LRB- "/`` Given/VBN an/DT HPP/NN P/NN as/IN input/NN ,/, is/VBZ P/NN consistent/JJ ?/. "/'' )/-RRB-
+./.
+Our/PRP$ results/NNS provide/VBP a/DT fine/JJ characterization/NN of/IN when/WRB polynomial/JJ algorithms/NNS exist/VBP for/IN the/DT above/JJ problems/NNS ,/, and/CC when/WRB these/DT problems/NNS become/VBP intractable/JJ ./.

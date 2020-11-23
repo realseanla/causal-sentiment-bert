@@ -1,0 +1,8 @@
+We/PRP consider/VBP two/CD graph/NN models/NNS of/IN semantic/JJ change/NN ./.
+The/DT first/JJ is/VBZ a/DT time/NN -/HYPH series/NN model/NN that/WDT relates/VBZ embedding/NN vectors/NNS from/IN one/CD time/NN period/NN to/IN embedding/NN vectors/NNS of/IN previous/JJ time/NN periods/NNS ./.
+In/IN the/DT second/JJ ,/, we/PRP construct/VBP one/CD graph/NN for/IN each/DT word/NN :/: nodes/NNS in/IN this/DT graph/NN correspond/VBP to/IN time/NN points/NNS and/CC edge/NN weights/NNS to/IN the/DT similarity/NN of/IN the/DT word/NN 's/POS meaning/NN across/IN two/CD time/NN points/NNS ./.
+We/PRP apply/VBP our/PRP$ two/CD models/NNS to/IN corpora/NN across/IN three/CD different/JJ languages/NNS ./.
+We/PRP find/VBP that/IN semantic/JJ change/NN is/VBZ linear/JJ in/IN two/CD senses/NNS ./.
+Firstly/RB ,/, today/NN 's/POS embedding/NN vectors/NNS (/-LRB- =/SYM meaning/NN )/-RRB- of/IN words/NNS can/MD be/VB derived/VBN as/IN linear/JJ combinations/NNS of/IN embedding/NN vectors/NNS of/IN their/PRP$ neighbors/NNS in/IN previous/JJ time/NN periods/NNS ./.
+Secondly/RB ,/, self/NN -/HYPH similarity/NN of/IN words/NNS decays/VBZ linearly/RB in/IN time/NN ./.
+We/PRP consider/VBP both/DT findings/NNS as/IN new/JJ laws/NNS //, hypotheses/NNS of/IN semantic/JJ change/NN ./.

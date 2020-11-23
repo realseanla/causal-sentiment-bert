@@ -1,0 +1,9 @@
+Deep/JJ reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- has/VBZ achieved/VBN several/JJ high/JJ profile/NN successes/NNS in/IN difficult/JJ control/NN problems/NNS ./.
+However/RB ,/, these/DT algorithms/NNS typically/RB require/VBP a/DT huge/JJ amount/NN of/IN data/NNS before/IN they/PRP reach/VBP reasonable/JJ performance/NN ./.
+In/IN fact/NN ,/, their/PRP$ performance/NN during/IN learning/NN can/MD be/VB extremely/RB poor/JJ ./.
+This/DT may/MD be/VB acceptable/JJ for/IN a/DT simulator/NN ,/, but/CC it/PRP severely/RB limits/VBZ the/DT applicability/NN of/IN deep/JJ RL/NN to/IN many/JJ real/JJ -/HYPH world/NN tasks/NNS ,/, where/WRB the/DT agent/NN must/MD learn/VB in/IN the/DT real/JJ environment/NN ./.
+In/IN this/DT paper/NN we/PRP study/VBP a/DT setting/NN where/WRB the/DT agent/NN may/MD access/VB data/NNS from/IN previous/JJ control/NN of/IN the/DT system/NN ./.
+We/PRP present/VBP an/DT algorithm/NN ,/, Deep/NNP Q/NNP -/HYPH learning/VBG from/IN Demonstrations/NNS (/-LRB- DQfD/NN )/-RRB- ,/, that/WDT leverages/VBZ this/DT data/NN to/IN massively/RB accelerate/VB the/DT learning/NN process/NN even/RB from/IN relatively/RB small/JJ amounts/NNS of/IN demonstration/NN data/NNS ./.
+DQfD/NN works/NNS by/IN combining/VBG temporal/JJ difference/NN updates/NNS with/IN large/JJ -/HYPH margin/NN classification/NN of/IN the/DT demonstrator/NN 's/POS actions/NNS ./.
+We/PRP show/VBP that/IN DQfD/NNP has/VBZ better/JJR initial/JJ performance/NN than/IN Deep/NNP Q/NNP -/HYPH Networks/NNP (/-LRB- DQN/NNP )/-RRB- on/IN 40/CD of/IN 42/CD Atari/NNP games/NNS and/CC it/PRP receives/VBZ more/JJR average/JJ rewards/NNS than/IN DQN/NN on/IN 27/CD of/IN 42/CD Atari/NNP games/NNS ./.
+We/PRP also/RB demonstrate/VBP that/IN DQfD/NNP learns/VBZ faster/JJR than/IN DQN/NNP even/RB when/WRB given/VBN poor/JJ demonstration/NN data/NNS ./.

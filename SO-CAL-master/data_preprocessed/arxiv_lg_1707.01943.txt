@@ -1,0 +1,5 @@
+We/PRP interpret/VBP the/DT predictions/NNS of/IN any/DT black/JJ -/HYPH box/NN structured/VBN input/NN -/HYPH structured/VBN output/NN model/NN around/IN a/DT specific/JJ input/NN -/HYPH output/NN pair/NN ./.
+Our/PRP$ method/NN returns/VBZ an/DT "/`` explanation/NN "/'' '/`` consisting/VBG of/IN groups/NNS of/IN input/NN -/HYPH output/NN tokens/NNS that/WDT are/VBP causally/RB related/VBN ./.
+Our/PRP$ method/NN infers/VBZ these/DT dependencies/NNS by/IN querying/VBG the/DT model/NN with/IN perturbed/VBN inputs/NNS ,/, generating/VBG a/DT graph/NN over/IN tokens/NNS from/IN the/DT responses/NNS ,/, and/CC solving/VBG a/DT partitioning/NN problem/NN to/TO select/VB the/DT most/RBS relevant/JJ components/NNS ./.
+We/PRP focus/VBP the/DT general/JJ approach/NN on/IN sequence/NN -/HYPH to/IN -/HYPH sequence/NN problems/NNS ,/, adopting/VBG a/DT variational/JJ autoencoder/NN to/TO yield/VB meaningful/JJ input/NN perturbations/NNS ./.
+We/PRP test/VBP our/PRP$ method/NN across/IN several/JJ NLP/NN sequence/NN generation/NN tasks/NNS ./.

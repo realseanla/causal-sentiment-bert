@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN we/PRP explore/VBP how/WRB machine/NN learning/NN techniques/NNS can/MD be/VB applied/VBN to/IN the/DT discovery/NN of/IN efficient/JJ mathematical/JJ identities/NNS ./.
+We/PRP introduce/VBP an/DT attribute/NN grammar/NN framework/NN for/IN representing/VBG symbolic/JJ expressions/NNS ./.
+Given/VBN a/DT set/NN of/IN grammar/NN rules/NNS we/PRP build/VBP trees/NNS that/WDT combine/VBP different/JJ rules/NNS ,/, looking/VBG for/IN branches/NNS which/WDT yield/VBP compositions/NNS that/WDT are/VBP analytically/RB equivalent/JJ to/IN a/DT target/NN expression/NN ,/, but/CC of/IN lower/JJR computational/JJ complexity/NN ./.
+However/RB ,/, as/IN the/DT size/NN of/IN the/DT trees/NNS grows/VBZ exponentially/RB with/IN the/DT complexity/NN of/IN the/DT target/NN expression/NN ,/, brute/JJ force/NN search/NN is/VBZ impractical/JJ for/IN all/DT but/IN the/DT simplest/JJS of/IN expressions/NNS ./.
+Consequently/RB ,/, we/PRP introduce/VBP two/CD novel/JJ learning/VBG approaches/NNS that/WDT are/VBP able/JJ to/TO learn/VB from/IN simpler/JJR expressions/NNS to/TO guide/VB the/DT tree/NN search/NN ./.
+The/DT first/JJ of/IN these/DT is/VBZ a/DT simple/JJ n/NN -/HYPH gram/NN model/NN ,/, the/DT other/JJ being/VBG a/DT recursive/JJ neural/JJ -/HYPH network/NN ./.
+We/PRP show/VBP how/WRB these/DT approaches/NNS enable/VBP us/PRP to/TO derive/VB complex/JJ identities/NNS ,/, beyond/IN reach/NN of/IN brute/JJ -/HYPH force/NN search/NN ,/, or/CC human/JJ derivation/NN ./.

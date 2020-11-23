@@ -1,0 +1,6 @@
+Predicting the next activity of a running process is an important aspect of process management.
+Recently, artificial neural networks, so called deep-learning approaches, have been proposed to address this challenge.
+This demo paper describes a software application that applies the Tensorflow deep-learning framework to process prediction.
+The software application reads industry-standard XES files for training and presents the user with an easy-to-use graphical user interface for both training and prediction.
+The system provides several improvements over earlier work.
+This demo paper focuses on the software implementation and describes the architecture and user interface.

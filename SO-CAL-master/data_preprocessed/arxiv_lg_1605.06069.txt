@@ -1,0 +1,5 @@
+Sequential/JJ data/NNS often/RB possesses/VBZ a/DT hierarchical/JJ structure/NN with/IN complex/JJ dependencies/NNS between/IN subsequences/NNS ,/, such/JJ as/IN found/VBN between/IN the/DT utterances/NNS in/IN a/DT dialogue/NN ./.
+In/IN an/DT effort/NN to/TO model/VB this/DT kind/NN of/IN generative/JJ process/NN ,/, we/PRP propose/VBP a/DT neural/JJ network/NN -/HYPH based/VBN generative/JJ architecture/NN ,/, with/IN latent/JJ stochastic/JJ variables/NNS that/WDT span/VBP a/DT variable/JJ number/NN of/IN time/NN steps/NNS ./.
+We/PRP apply/VBP the/DT proposed/VBN model/NN to/IN the/DT task/NN of/IN dialogue/NN response/NN generation/NN and/CC compare/VB it/PRP with/IN recent/JJ neural/JJ network/NN architectures/NNS ./.
+We/PRP evaluate/VBP the/DT model/NN performance/NN through/IN automatic/JJ evaluation/NN metrics/NNS and/CC by/IN carrying/VBG out/RP a/DT human/JJ evaluation/NN ./.
+The/DT experiments/NNS demonstrate/VBP that/IN our/PRP$ model/NN improves/VBZ upon/IN recently/RB proposed/VBN models/NNS and/CC that/IN the/DT latent/JJ variables/NNS facilitate/VBP the/DT generation/NN of/IN long/JJ outputs/NNS and/CC maintain/VB the/DT context/NN ./.

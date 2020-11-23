@@ -1,0 +1,9 @@
+We/PRP propose/VBP a/DT higher/JJR -/HYPH level/NN associative/JJ memory/NN for/IN learning/VBG adversarial/JJ networks/NNS ./.
+Generative/JJ adversarial/JJ network/NN (/-LRB- GAN/NN )/-RRB- framework/NN has/VBZ a/DT discriminator/NN and/CC a/DT generator/NN network/NN ./.
+The/DT generator/NN (/-LRB- G/NN )/-RRB- maps/VBZ white/JJ noise/NN (/-LRB- z/NN )/-RRB- to/IN data/NNS samples/NNS while/IN the/DT discriminator/NN (/-LRB- D/NN )/-RRB- maps/VBZ data/NNS samples/NNS to/IN a/DT single/JJ scalar/NN ./.
+To/TO do/VB so/RB ,/, G/NNP learns/VBZ how/WRB to/TO map/VB from/IN high/JJ -/HYPH level/NN representation/NN space/NN to/IN data/NNS space/NN ,/, and/CC D/NNP learns/VBZ to/TO do/VB the/DT opposite/NN ./.
+We/PRP argue/VBP that/IN higher/JJR -/HYPH level/NN representation/NN spaces/NNS need/VBP not/RB necessarily/RB follow/VB a/DT uniform/JJ probability/NN distribution/NN ./.
+In/IN this/DT work/NN ,/, we/PRP use/VBP Restricted/VBN Boltzmann/NNP Machines/NNPS (/-LRB- RBMs/NNS )/-RRB- as/IN a/DT higher/JJR -/HYPH level/NN associative/JJ memory/NN and/CC learn/VB the/DT probability/NN distribution/NN for/IN the/DT high/JJ -/HYPH level/NN features/NNS generated/VBN by/IN D/NN ./.
+The/DT associative/JJ memory/NN samples/NNS its/PRP$ underlying/VBG probability/NN distribution/NN and/CC G/NN learns/VBZ how/WRB to/TO map/VB these/DT samples/NNS to/IN data/NNS space/NN ./.
+The/DT proposed/VBN associative/JJ adversarial/JJ networks/NNS (/-LRB- AANs/NNS )/-RRB- are/VBP generative/JJ models/NNS in/IN the/DT higher/JJR -/HYPH levels/NNS of/IN the/DT learning/NN ,/, and/CC use/VB adversarial/JJ non-stochastic/JJ models/NNS D/NN and/CC G/NN for/IN learning/VBG the/DT mapping/NN between/IN data/NNS and/CC higher/JJR -/HYPH level/NN representation/NN spaces/NNS ./.
+Experiments/NNS show/VBP the/DT potential/NN of/IN the/DT proposed/VBN networks/NNS ./.

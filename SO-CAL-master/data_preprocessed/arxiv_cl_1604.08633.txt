@@ -1,0 +1,4 @@
+Recent/JJ work/NN on/IN word/NN ordering/NN has/VBZ argued/VBN that/IN syntactic/JJ structure/NN is/VBZ important/JJ ,/, or/CC even/RB required/VBN ,/, for/IN effectively/RB recovering/VBG the/DT order/NN of/IN a/DT sentence/NN ./.
+We/PRP find/VBP that/IN ,/, in/IN fact/NN ,/, an/DT n/NN -/HYPH gram/NN language/NN model/NN with/IN a/DT simple/JJ heuristic/NN gives/VBZ strong/JJ results/NNS on/IN this/DT task/NN ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN a/DT long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- language/NN model/NN is/VBZ comparatively/RB effective/JJ at/IN recovering/VBG order/NN ,/, with/IN our/PRP$ basic/JJ model/NN outperforming/VBG a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN syntactic/JJ model/NN by/IN 11.5/CD BLEU/NN points/NNS ./.
+Additional/JJ data/NNS and/CC larger/JJR beams/NNS yield/VBP further/JJ gains/NNS ,/, at/IN the/DT expense/NN of/IN training/NN and/CC search/NN time/NN ./.

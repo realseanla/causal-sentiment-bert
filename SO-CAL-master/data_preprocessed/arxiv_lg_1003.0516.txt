@@ -1,0 +1,6 @@
+A/DT key/JJ issue/NN in/IN statistics/NNS and/CC machine/NN learning/NN is/VBZ to/TO automatically/RB select/VB the/DT "/`` right/JJ "/'' model/NN complexity/NN ,/, e.g./FW ,/, the/DT number/NN of/IN neighbors/NNS to/TO be/VB averaged/VBN over/RB in/IN k/CD nearest/JJS neighbor/NN (/-LRB- kNN/NN )/-RRB- regression/NN or/CC the/DT polynomial/JJ degree/NN in/IN regression/NN with/IN polynomials/NNS ./.
+We/PRP suggest/VBP a/DT novel/JJ principle/NN -/, the/DT Loss/NN Rank/NNP Principle/NNP (/-LRB- LoRP/NN )/-RRB- -/HYPH for/IN model/NN selection/NN in/IN regression/NN and/CC classification/NN ./.
+It/PRP is/VBZ based/VBN on/IN the/DT loss/NN rank/NN ,/, which/WDT counts/VBZ how/WRB many/JJ other/JJ (/-LRB- fictitious/JJ )/-RRB- data/NNS would/MD be/VB fitted/VBN better/JJR ./.
+LoRP/NNP selects/VBZ the/DT model/NN that/WDT has/VBZ minimal/JJ loss/NN rank/NN ./.
+Unlike/IN most/JJS penalized/VBN maximum/JJ likelihood/NN variants/NNS (/-LRB- AIC/NNP ,/, BIC/NN ,/, MDL/NN )/-RRB- ,/, LoRP/NN depends/VBZ only/RB on/IN the/DT regression/NN functions/NNS and/CC the/DT loss/NN function/NN ./.
+It/PRP works/VBZ without/IN a/DT stochastic/JJ noise/NN model/NN ,/, and/CC is/VBZ directly/RB applicable/JJ to/IN any/DT non-parametric/JJ regressor/NN ,/, like/IN kNN/NNP ./.

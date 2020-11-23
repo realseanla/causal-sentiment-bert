@@ -1,0 +1,10 @@
+Efficiency/NN of/IN single/JJ -/HYPH objective/JJ optimization/NN can/MD be/VB improved/VBN by/IN introducing/VBG some/DT auxiliary/JJ objectives/NNS ./.
+Ideally/RB ,/, auxiliary/JJ objectives/NNS should/MD be/VB helpful/JJ ./.
+However/RB ,/, in/IN practice/NN ,/, objectives/NNS may/MD be/VB efficient/JJ on/IN some/DT optimization/NN stages/NNS but/CC obstructive/NN on/IN others/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT modification/NN of/IN the/DT EA/NNP RL/NN method/NN which/WDT dynamically/RB selects/VBZ optimized/VBN objectives/NNS using/VBG reinforcement/NN learning/NN ./.
+The/DT proposed/VBN modification/NN prevents/VBZ from/IN losing/VBG the/DT best/JJS found/VBN solution/NN ./.
+We/PRP analysed/VBD the/DT proposed/VBN modification/NN and/CC compared/VBN it/PRP with/IN the/DT EA/NNP RL/NN method/NN and/CC Random/NNP Local/NNP Search/VB on/IN XdivK/NN ,/, Generalized/VBN OneMax/NNP and/CC LeadingOnes/NNP problems/NNS ./.
+The/DT proposed/VBN modification/NN outperforms/VBZ the/DT EA/NNP RL/NN method/NN on/IN all/DT problem/NN instances/NNS ./.
+It/PRP also/RB outperforms/VBZ the/DT single/JJ objective/NN approach/NN on/IN the/DT most/RBS problem/NN instances/NNS ./.
+We/PRP also/RB provide/VBP detailed/JJ analysis/NN of/IN how/WRB different/JJ components/NNS of/IN the/DT considered/VBN algorithms/NNS influence/VBP efficiency/NN of/IN optimization/NN ./.
+In/IN addition/NN ,/, we/PRP present/VBP theoretical/JJ analysis/NN of/IN the/DT proposed/VBN modification/NN on/IN the/DT XdivK/NN problem/NN ./.

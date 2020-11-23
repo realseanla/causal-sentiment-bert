@@ -1,0 +1,8 @@
+Keyphrase/NN annotation/NN is/VBZ the/DT task/NN of/IN identifying/VBG textual/JJ units/NNS that/WDT represent/VBP the/DT main/JJ content/NN of/IN a/DT document/NN ./.
+Keyphrase/NN annotation/NN is/VBZ either/CC carried/VBN out/RP by/IN extracting/VBG the/DT most/RBS important/JJ phrases/NNS from/IN a/DT document/NN ,/, keyphrase/NN extraction/NN ,/, or/CC by/IN assigning/VBG entries/NNS from/IN a/DT controlled/VBN domain/NN -/HYPH specific/JJ vocabulary/NN ,/, keyphrase/NN assignment/NN ./.
+Assignment/NN methods/NNS are/VBP generally/RB more/RBR reliable/JJ ./.
+They/PRP provide/VBP better/JJR -/HYPH formed/VBN keyphrases/NNS ,/, as/RB well/RB as/IN keyphrases/NNS that/WDT do/VBP not/RB occur/VB in/IN the/DT document/NN ./.
+But/CC they/PRP are/VBP often/RB silent/JJ on/IN the/DT contrary/NN of/IN extraction/NN methods/NNS that/WDT do/VBP not/RB depend/VB on/IN manually/RB built/VBN resources/NNS ./.
+This/DT paper/NN proposes/VBZ a/DT new/JJ method/NN to/TO perform/VB both/DT keyphrase/NN extraction/NN and/CC keyphrase/NN assignment/NN in/IN an/DT integrated/VBN and/CC mutual/JJ reinforcing/VBG manner/NN ./.
+Experiments/NNS have/VBP been/VBN carried/VBN out/RP on/IN datasets/NNS covering/VBG different/JJ domains/NNS of/IN humanities/NNS and/CC social/JJ sciences/NNS ./.
+They/PRP show/VBP statistically/RB significant/JJ improvements/NNS compared/VBN to/IN both/DT keyphrase/NN extraction/NN and/CC keyphrase/NN assignment/NN state/NN -/HYPH of/IN -/HYPH the/DT art/NN methods/NNS ./.

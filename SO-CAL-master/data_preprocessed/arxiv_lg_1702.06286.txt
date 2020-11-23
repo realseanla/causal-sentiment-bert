@@ -1,0 +1,6 @@
+Sound/JJ events/NNS often/RB occur/VBP in/IN unstructured/JJ environments/NNS where/WRB they/PRP exhibit/VBP wide/JJ variations/NNS in/IN their/PRP$ frequency/NN content/NN and/CC temporal/JJ structure/NN ./.
+Convolutional/JJ neural/JJ networks/NNS (/-LRB- CNN/NNP )/-RRB- are/VBP able/JJ to/TO extract/VB higher/JJR level/NN features/NNS that/WDT are/VBP invariant/JJ to/IN local/JJ spectral/JJ and/CC temporal/JJ variations/NNS ./.
+Recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- are/VBP powerful/JJ in/IN learning/VBG the/DT longer/JJR term/NN temporal/JJ context/NN in/IN the/DT audio/JJ signals/NNS ./.
+CNNs/NNS and/CC RNNs/NNS as/IN classifiers/NNS have/VBP recently/RB shown/VBN improved/VBN performances/NNS over/IN established/VBN methods/NNS in/IN various/JJ sound/NN recognition/NN tasks/NNS ./.
+We/PRP combine/VBP these/DT two/CD approaches/NNS in/IN a/DT Convolutional/NNP Recurrent/JJ Neural/JJ Network/NN (/-LRB- CRNN/NNP )/-RRB- and/CC apply/VB it/PRP on/IN a/DT polyphonic/JJ sound/NN event/NN detection/NN task/NN ./.
+We/PRP compare/VBP the/DT performance/NN of/IN the/DT proposed/VBN CRNN/NN method/NN with/IN CNN/NNP ,/, RNN/NNP ,/, and/CC other/JJ established/VBN methods/NNS ,/, and/CC observe/VB a/DT considerable/JJ improvement/NN for/IN four/CD different/JJ datasets/NNS consisting/VBG of/IN everyday/JJ sound/JJ events/NNS ./.

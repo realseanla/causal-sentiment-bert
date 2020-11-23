@@ -1,0 +1,5 @@
+Most work in the area of statistical relational learning (SRL) is focussed on discrete data, even though a few approaches for hybrid SRL models have been proposed that combine numerical and discrete variables.
+In this paper we distinguish numerical random variables for which a probability distribution is defined by the model from numerical input variables that are only used for conditioning the distribution of discrete response variables.
+We show how numerical input relations can very easily be used in the Relational Bayesian Network framework, and that existing inference and learning methods need only minor adjustments to be applied in this generalized setting.
+The resulting framework provides natural relational extensions of classical probabilistic models for categorical data.
+We demonstrate the usefulness of RBN models with numeric input relations by several examples.

@@ -1,0 +1,10 @@
+Decentralized/JJ control/NN of/IN cooperative/JJ systems/NNS captures/VBZ the/DT operation/NN of/IN a/DT group/NN of/IN decision/NN makers/NNS that/WDT share/VBP a/DT single/JJ global/JJ objective/NN ./.
+The/DT difficulty/NN in/IN solving/VBG optimally/RB such/JJ problems/NNS arises/VBZ when/WRB the/DT agents/NNS lack/VBP full/JJ observability/NN of/IN the/DT global/JJ state/NN of/IN the/DT system/NN when/WRB they/PRP operate/VBP ./.
+The/DT general/JJ problem/NN has/VBZ been/VBN shown/VBN to/TO be/VB NEXP/NN -/HYPH complete/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP identify/VBP classes/NNS of/IN decentralized/VBN control/NN problems/NNS whose/WP$ complexity/NN ranges/VBZ between/IN NEXP/NN and/CC P/NN ./.
+In/IN particular/JJ ,/, we/PRP study/VBP problems/NNS characterized/VBN by/IN independent/JJ transitions/NNS ,/, independent/JJ observations/NNS ,/, and/CC goal/NN -/HYPH oriented/VBN objective/NN functions/NNS ./.
+Two/CD algorithms/NNS are/VBP shown/VBN to/TO solve/VB optimally/RB useful/JJ classes/NNS of/IN goal/NN -/HYPH oriented/VBN decentralized/JJ processes/NNS in/IN polynomial/JJ time/NN ./.
+This/DT paper/NN also/RB studies/VBZ information/NN sharing/NN among/IN the/DT decision/NN -/HYPH makers/NNS ,/, which/WDT can/MD improve/VB their/PRP$ performance/NN ./.
+We/PRP distinguish/VBP between/IN three/CD ways/NNS in/IN which/WDT agents/NNS can/MD exchange/VB information/NN :/: indirect/JJ communication/NN ,/, direct/JJ communication/NN and/CC sharing/VBG state/NN features/NNS that/WDT are/VBP not/RB controlled/VBN by/IN the/DT agents/NNS ./.
+Our/PRP$ analysis/NN shows/VBZ that/IN for/IN every/DT class/NN of/IN problems/NNS we/PRP consider/VBP ,/, introducing/VBG direct/JJ or/CC indirect/JJ communication/NN does/VBZ not/RB change/VB the/DT worst/JJS -/HYPH case/NN complexity/NN ./.
+The/DT results/NNS provide/VBP a/DT better/JJR understanding/NN of/IN the/DT complexity/NN of/IN decentralized/VBN control/NN problems/NNS that/WDT arise/VBP in/IN practice/NN and/CC facilitate/VB the/DT development/NN of/IN planning/VBG algorithms/NNS for/IN these/DT problems/NNS ./.

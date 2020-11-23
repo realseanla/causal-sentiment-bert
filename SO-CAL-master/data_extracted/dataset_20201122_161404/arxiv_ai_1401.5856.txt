@@ -1,0 +1,3 @@
+A model of story generation recently proposed by Riedl and Young casts it as planning, with the additional condition that story characters behave intentionally.
+This means that characters have perceivable motivation for the actions they take.
+I show that this condition can be compiled away (in more ways than one) to produce a classical planning problem that can be solved by an off-the-shelf classical planner, more efficiently than by Riedl and Youngs specialised planner.

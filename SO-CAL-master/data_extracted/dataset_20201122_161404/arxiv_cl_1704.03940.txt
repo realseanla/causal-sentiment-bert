@@ -1,0 +1,6 @@
+In order to adopt deep learning for ad-hoc information retrieval, it is essential to establish suitable representations of query-document pairs and to design neural architectures that are able to digest such representations.
+In particular, they ought to capture all relevant information required to assess the relevance of a document for a given user query, including term overlap as well as positional information such as proximity and term dependencies.
+While previous work has successfully captured unigram term matches, none has successfully used position-dependent information on a standard benchmark test collection.
+In this work, we address this gap by encoding the relevance matching in terms of similarity matrices and using a deep model to digest such matrices.
+We present a novel model architecture consisting of convolutional layers to capture term dependencies and proximity among query term occurrences, followed by a recurrent layer to capture relevance over different query terms.
+Extensive experiments on TREC Web Track data confirm that the proposed model with similarity matrix representations yields improved search results.

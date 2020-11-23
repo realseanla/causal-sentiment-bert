@@ -1,0 +1,6 @@
+The/DT development/NN of/IN fast/JJ and/CC accurate/JJ image/NN reconstruction/NN algorithms/NNS is/VBZ a/DT central/JJ aspect/NN of/IN computed/VBN tomography/NN ./.
+In/IN this/DT paper/NN we/PRP investigate/VBP this/DT issue/NN for/IN the/DT sparse/JJ data/NNS problem/NN of/IN photoacoustic/JJ tomography/NN (/-LRB- PAT/NNP )/-RRB- ./.
+We/PRP develop/VBP direct/JJ and/CC highly/RB efficient/JJ reconstruction/NN algorithms/NNS based/VBN on/IN deep/JJ -/HYPH learning/NN ./.
+In/IN this/DT approach/NN image/NN reconstruction/NN is/VBZ performed/VBN with/IN a/DT deep/JJ convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- ,/, whose/WP$ weights/NNS are/VBP adjusted/VBN prior/RB to/IN the/DT actual/JJ image/NN reconstruction/NN based/VBN on/IN a/DT set/NN of/IN training/NN data/NNS ./.
+Our/PRP$ results/NNS demonstrate/VBP that/IN the/DT proposed/VBN deep/JJ learning/NN approach/NN reconstructs/VBZ images/NNS with/IN a/DT quality/NN komparable/NN to/IN state/NN of/IN the/DT art/NN iterative/JJ approaches/NNS from/IN sparse/JJ data/NNS ./.
+At/IN the/DT same/JJ time/NN ,/, the/DT numerically/RB complexity/NN of/IN our/PRP$ approach/NN is/VBZ much/RB smaller/JJR and/CC the/DT image/NN reconstruction/NN is/VBZ performed/VBN in/IN a/DT fraction/NN of/IN the/DT time/NN required/VBN by/IN iterative/JJ methods/NNS ./.

@@ -1,0 +1,17 @@
+Multi-agent/JJ path/NN planning/NN is/VBZ a/DT challenging/JJ problem/NN with/IN numerous/JJ real/JJ -/HYPH life/NN applications/NNS ./.
+Running/VBG a/DT centralized/VBN search/NN such/JJ as/IN A/DT */NFP in/IN the/DT combined/VBN state/NN space/NN of/IN all/DT units/NNS is/VBZ complete/JJ and/CC cost/NN -/HYPH optimal/JJ ,/, but/CC scales/NNS poorly/RB ,/, as/IN the/DT state/NN space/NN size/NN is/VBZ exponential/JJ in/IN the/DT number/NN of/IN mobile/JJ units/NNS ./.
+Traditional/JJ decentralized/JJ approaches/NNS ,/, such/JJ as/IN FAR/RB and/CC WHCA/NNP */NFP ,/, are/VBP faster/RBR and/CC more/RBR scalable/JJ ,/, being/VBG based/VBN on/IN problem/NN decomposition/NN ./.
+However/RB ,/, such/JJ methods/NNS are/VBP incomplete/JJ and/CC provide/VBP no/DT guarantees/NNS with/IN respect/NN to/IN the/DT running/NN time/NN or/CC the/DT solution/NN quality/NN ./.
+They/PRP are/VBP not/RB necessarily/RB able/JJ to/TO tell/VB in/IN a/DT reasonable/JJ time/NN whether/IN they/PRP would/MD succeed/VB in/IN finding/VBG a/DT solution/NN to/IN a/DT given/VBN instance/NN ./.
+We/PRP introduce/VBP MAPP/NNP ,/, a/DT tractable/JJ algorithm/NN for/IN multi-agent/JJ path/NN planning/NN on/IN undirected/JJ graphs/NNS ./.
+We/PRP present/VBP a/DT basic/JJ version/NN and/CC several/JJ extensions/NNS ./.
+They/PRP have/VBP low/JJ -/HYPH polynomial/JJ worst/JJS -/HYPH case/NN upper/JJ bounds/NNS for/IN the/DT running/NN time/NN ,/, the/DT memory/NN requirements/NNS ,/, and/CC the/DT length/NN of/IN solutions/NNS ./.
+Even/RB though/RB all/DT algorithmic/JJ versions/NNS are/VBP incomplete/JJ in/IN the/DT general/JJ case/NN ,/, each/DT provides/VBZ formal/JJ guarantees/NNS on/IN problems/NNS it/PRP can/MD solve/VB ./.
+For/IN each/DT version/NN ,/, we/PRP discuss/VBP the/DT algorithms/NNS completeness/NN with/IN respect/NN to/IN clearly/RB defined/VBN subclasses/NNS of/IN instances/NNS ./.
+Experiments/NNS were/VBD run/VBN on/IN realistic/JJ game/NN grid/NN maps/NNS ./.
+MAPP/NN solved/VBD 99.86/CD percent/NN of/IN all/DT mobile/JJ units/NNS ,/, which/WDT is/VBZ 18/CD --/: 22/CD percent/NN better/JJR than/IN the/DT percentage/NN of/IN FAR/RB and/CC WHCA/NNP */NFP ./.
+MAPP/NNP marked/VBD 98.82/CD percent/NN of/IN all/DT units/NNS as/IN provably/RB solvable/JJ during/IN the/DT first/JJ stage/NN of/IN plan/NN computation/NN ./.
+Parts/NNS of/IN MAPPs/NNS computation/NN can/MD be/VB re-used/VBN across/IN instances/NNS on/IN the/DT same/JJ map/NN ./.
+Speed-wise/RB ,/, MAPP/NNP is/VBZ competitive/JJ or/CC significantly/RB faster/JJR than/IN WHCA/NNP */NFP ,/, depending/VBG on/IN whether/IN MAPP/NNP performs/VBZ all/DT computations/NNS from/IN scratch/NN ./.
+When/WRB data/NNS that/WDT MAPP/NNP can/MD re-use/VB are/VBP preprocessed/JJ offline/RB and/CC readily/RB available/JJ ,/, MAPP/NN is/VBZ slower/JJR than/IN the/DT very/RB fast/JJ FAR/RB algorithm/NN by/IN a/DT factor/NN of/IN 2.18/CD on/IN average/JJ ./.
+MAPPs/NNS solutions/NNS are/VBP on/IN average/JJ 20/CD percent/NN longer/JJR than/IN FARs/NNS solutions/NNS and/CC 7/CD --/: 31/CD percent/NN longer/JJR than/IN WHCA/NNP */NFP s/POS solutions/NNS ./.

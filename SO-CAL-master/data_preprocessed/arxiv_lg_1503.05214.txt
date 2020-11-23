@@ -1,0 +1,11 @@
+Web/NN sites/NNS ,/, social/JJ networks/NNS ,/, sensors/NNS ,/, and/CC scientific/JJ experiments/NNS currently/RB generate/VBP massive/JJ amounts/NNS of/IN data/NNS ./.
+Owners/NNS of/IN this/DT data/NNS strive/VBP to/TO obtain/VB insights/NNS from/IN it/PRP ,/, often/RB by/IN applying/VBG machine/NN learning/NN algorithms/NNS ./.
+Many/JJ machine/NN learning/VBG algorithms/NNS ,/, however/RB ,/, do/VBP not/RB scale/VB well/RB to/TO cope/VB with/IN the/DT ever/RB increasing/VBG volumes/NNS of/IN data/NNS ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP identify/VBP several/JJ optimizations/NNS that/WDT are/VBP crucial/JJ for/IN scaling/VBG various/JJ machine/NN learning/VBG algorithms/NNS in/IN distributed/VBN settings/NNS ./.
+We/PRP apply/VBP these/DT optimizations/NNS to/IN the/DT popular/JJ Principal/NN Component/NN Analysis/NN (/-LRB- PCA/NN )/-RRB- algorithm/NN ./.
+PCA/NNP is/VBZ an/DT important/JJ tool/NN in/IN many/JJ areas/NNS including/VBG image/NN processing/NN ,/, data/NNS visualization/NN ,/, information/NN retrieval/NN ,/, and/CC dimensionality/NN reduction/NN ./.
+We/PRP refer/VBP to/IN the/DT proposed/VBN optimized/VBN PCA/NNP algorithm/NN as/IN scalable/JJ PCA/NN ,/, or/CC sPCA/NN ./.
+sPCA/NN achieves/VBZ scalability/NN via/IN employing/VBG efficient/JJ large/JJ matrix/NN operations/NNS ,/, effectively/RB leveraging/VBG matrix/NN sparsity/NN ,/, and/CC minimizing/VBG intermediate/JJ data/NNS ./.
+We/PRP implement/VBP sPCA/NN on/IN the/DT widely/RB -/HYPH used/VBN MapReduce/NNP platform/NN and/CC on/IN the/DT memory/NN -/HYPH based/VBN Spark/NNP platform/NN ./.
+We/PRP compare/VBP sPCA/NN against/IN the/DT closest/JJS PCA/NN implementations/NNS ,/, which/WDT are/VBP the/DT ones/NNS in/IN Mahout/NN //HYPH MapReduce/NN and/CC MLlib/NN //HYPH Spark/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN sPCA/NN outperforms/VBZ both/CC Mahout/NNP -/HYPH PCA/NNP and/CC MLlib/NNP -/HYPH PCA/NNP by/IN wide/JJ margins/NNS in/IN terms/NNS of/IN accuracy/NN ,/, running/VBG time/NN ,/, and/CC volume/NN of/IN intermediate/JJ data/NNS generated/VBN during/IN the/DT computation/NN ./.

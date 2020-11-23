@@ -1,0 +1,7 @@
+Argument/NN component/NN detection/NN (/-LRB- ACD/NN )/-RRB- is/VBZ an/DT important/JJ sub-task/NN in/IN argumentation/NN mining/NN ./.
+ACD/NN aims/VBZ at/IN detecting/VBG and/CC classifying/VBG different/JJ argument/NN components/NNS in/IN natural/JJ language/NN texts/NNS ./.
+Historical/JJ annotations/NNS (/-LRB- HAs/NNS )/-RRB- are/VBP important/JJ features/NNS the/DT human/JJ annotators/NNS consider/VBP when/WRB they/PRP manually/RB perform/VBP the/DT ACD/NN task/NN ./.
+However/RB ,/, HAs/NNS are/VBP largely/RB ignored/VBN by/IN existing/VBG automatic/JJ ACD/NN techniques/NNS ./.
+Reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- has/VBZ proven/VBN to/TO be/VB an/DT effective/JJ method/NN for/IN using/VBG HAs/NNS in/IN some/DT natural/JJ language/NN processing/NN tasks/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT RL/NN -/HYPH based/VBN ACD/NN technique/NN ,/, and/CC evaluate/VB its/PRP$ performance/NN on/IN two/CD well/RB -/HYPH annotated/VBN corpora/NNS ./.
+Results/NNS suggest/VBP that/IN ,/, in/IN terms/NNS of/IN classification/NN accuracy/NN ,/, HAs/NNS -/HYPH augmented/VBN RL/NN outperforms/VBZ plain/JJ RL/NN by/IN at/IN most/RBS 17.85/CD percent/NN ,/, and/CC outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN supervised/VBD learning/VBG algorithm/NN by/IN at/IN most/RBS 11.94/CD percent/NN ./.

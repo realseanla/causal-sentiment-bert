@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT tool/NN ,/, simplify/VB -/HYPH defun/NN ,/, that/DT transforms/VBZ the/DT definition/NN of/IN a/DT given/VBN function/NN into/IN a/DT simplified/JJ definition/NN of/IN a/DT new/JJ function/NN ,/, providing/VBG a/DT proof/NN checked/VBN by/IN ACL2/NN that/IN the/DT old/JJ and/CC new/JJ functions/NNS are/VBP equivalent/JJ ./.
+When/WRB appropriate/JJ it/PRP also/RB generates/VBZ termination/NN and/CC guard/NN proofs/NNS for/IN the/DT new/JJ function/NN ./.
+We/PRP explain/VBP how/WRB the/DT tool/NN is/VBZ engineered/VBN so/IN that/IN these/DT proofs/NNS will/MD succeed/VB ./.
+Examples/NNS illustrate/VBP its/PRP$ utility/NN ,/, in/IN particular/JJ for/IN program/NN transformation/NN in/IN synthesis/NN and/CC verification/NN ./.

@@ -1,0 +1,12 @@
+Having accurate, detailed, and up-to-date information about wildlife location and behavior across broad geographic areas would revolutionize our ability to study, conserve, and manage species and ecosystems.
+Currently such data are mostly gathered manually at great expense, and thus are sparsely and infrequently collected.
+Here we investigate the ability to automatically, accurately, and inexpensively collect such data from motion sensor cameras.
+These camera traps enable pictures of wildlife to be collected inexpensively, unobtrusively, and at high-volume.
+However, identifying the animals, animal attributes, and behaviors in these pictures remains an expensive, time-consuming, manual task often performed by researchers, hired technicians, or crowdsourced teams of human volunteers.
+In this paper, we demonstrate that such data can be automatically extracted by deep neural networks (aka deep learning), which is a cutting-edge type of artificial intelligence.
+In particular, we use the existing human-labeled images from the Snapshot Serengeti dataset to train deep convolutional neural networks for identifying 48 species in 3.2 million images taken from Tanzania's Serengeti National Park.
+We train neural networks that automatically identify animals with over 92 percent accuracy.
+More importantly, we can choose to have our system classify only the images it is highly confident about, allowing valuable human time to be focused only on challenging images.
+In this case, our automatic animal identification system saves approximately ~8.3 years (at 40 hours per week) of human labeling effort (i.e.
+over 17,000 hours) while operating on a 3.2-million-image dataset at the same 96 percent accuracy level of crowdsourced teams of human volunteers.
+Those efficiency gains immediately highlight the importance of using deep neural networks to automate data extraction from camera trap images.

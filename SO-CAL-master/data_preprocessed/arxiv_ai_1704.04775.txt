@@ -1,0 +1,8 @@
+The/DT weighted/JJ Maximum/NNP Satisfiability/NNP problem/NN (/-LRB- weighted/JJ MAX/NN -/HYPH SAT/NN )/-RRB- is/VBZ a/DT NP/NNP -/HYPH hard/JJ problem/NN with/IN numerous/JJ applications/NNS arising/VBG in/IN artificial/JJ intelligence/NN ./.
+As/IN an/DT efficient/JJ tool/NN for/IN heuristic/NN design/NN ,/, the/DT backbone/NN has/VBZ been/VBN applied/VBN to/IN heuristics/NNS design/NN for/IN many/JJ NP/NNP -/HYPH hard/JJ problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP investigated/VBD the/DT computational/JJ complexity/NN for/IN retrieving/VBG the/DT backbone/NN in/IN weighted/JJ MAX/NN -/HYPH SAT/NN and/CC developed/VBD a/DT new/JJ algorithm/NN for/IN solving/VBG this/DT problem/NN ./.
+We/PRP showed/VBD that/IN it/PRP is/VBZ intractable/JJ to/TO retrieve/VB the/DT full/JJ backbone/NN under/IN the/DT assumption/NN that/IN ./.
+Moreover/RB ,/, it/PRP is/VBZ intractable/JJ to/TO retrieve/VB a/DT fixed/VBN fraction/NN of/IN the/DT backbone/NN as/RB well/RB ./.
+And/CC then/RB we/PRP presented/VBD a/DT backbone/NN guided/VBN local/JJ search/NN (/-LRB- BGLS/NN )/-RRB- with/IN Walksat/NNP operator/NN for/IN weighted/JJ MAX/NN -/HYPH SAT/NN ./.
+BGLS/NN consists/VBZ of/IN two/CD phases/NNS :/: the/DT first/JJ phase/NN samples/NNS the/DT backbone/NN information/NN from/IN local/JJ optima/NN and/CC the/DT backbone/NN phase/NN conducts/VBZ local/JJ search/NN under/IN the/DT guideline/NN of/IN backbone/NN ./.
+Extensive/JJ experimental/JJ results/NNS on/IN the/DT benchmark/NN showed/VBD that/IN BGLS/NNP outperforms/VBZ the/DT existing/VBG heuristics/NNS in/IN both/DT solution/NN quality/NN and/CC runtime/NN ./.

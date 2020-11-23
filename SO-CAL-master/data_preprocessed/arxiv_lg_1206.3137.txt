@@ -1,0 +1,6 @@
+This/DT paper/NN explores/VBZ unsupervised/JJ learning/NN of/IN parsing/VBG models/NNS along/IN two/CD directions/NNS ./.
+First/RB ,/, which/WDT models/NNS are/VBP identifiable/JJ from/IN infinite/JJ data/NNS ?/.
+We/PRP use/VBP a/DT general/JJ technique/NN for/IN numerically/RB checking/VBG identifiability/NN based/VBN on/IN the/DT rank/NN of/IN a/DT Jacobian/JJ matrix/NN ,/, and/CC apply/VB it/PRP to/IN several/JJ standard/JJ constituency/NN and/CC dependency/NN parsing/VBG models/NNS ./.
+Second/RB ,/, for/IN identifiable/JJ models/NNS ,/, how/WRB do/VBP we/PRP estimate/VBP the/DT parameters/NNS efficiently/RB ?/.
+EM/NNP suffers/VBZ from/IN local/JJ optima/NN ,/, while/IN recent/JJ work/NN using/VBG spectral/JJ methods/NNS can/MD not/RB be/VB directly/RB applied/VBN since/IN the/DT topology/NN of/IN the/DT parse/VB tree/NN varies/VBZ across/IN sentences/NNS ./.
+We/PRP develop/VBP a/DT strategy/NN ,/, unmixing/NN ,/, which/WDT deals/VBZ with/IN this/DT additional/JJ complexity/NN for/IN restricted/JJ classes/NNS of/IN parsing/VBG models/NNS ./.

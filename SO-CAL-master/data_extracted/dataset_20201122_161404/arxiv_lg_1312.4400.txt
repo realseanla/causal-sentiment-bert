@@ -1,0 +1,7 @@
+We propose a novel network structure called "Network In Network" (NIN) to enhance the model discriminability for local receptive fields.
+The conventional convolutional layer uses linear filters followed by a nonlinear activation function to scan the input.
+Instead, we build micro neural networks with more complex structures to handle the variance of the local receptive fields.
+We instantiate the micro neural network with a nonlinear multiple layer structure which is a potent function approximator.
+The feature maps are obtained by sliding the micro networks over the input in a similar manner of CNN and then fed into the next layer.
+The deep NIN is thus implemented as stacking of multiple sliding micro neural networks.
+We demonstrated state-of-the-art classification performances with NIN on CIFAR-10/100, SVHN and MINST datasets.

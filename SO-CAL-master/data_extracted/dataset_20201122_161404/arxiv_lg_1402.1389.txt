@@ -1,0 +1,3 @@
+The recently developed Bayesian Gaussian process latent variable model (GPLVM) is a powerful generative model for discovering low dimensional embeddings in linear time complexity.
+However, modern datasets are so large that even linear-time models find them difficult to cope with.
+We introduce a novel re-parametrisation of variational inference for the GPLVM and sparse GP model that allows for an efficient distributed inference algorithm.

@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT parametric/JJ form/NN of/IN pooling/VBG ,/, based/VBN on/IN a/DT Gaussian/NNP ,/, which/WDT can/MD be/VB optimized/VBN alongside/IN the/DT features/NNS in/IN a/DT single/JJ global/JJ objective/NN function/NN ./.
+By/IN contrast/NN ,/, existing/VBG pooling/VBG schemes/NNS are/VBP based/VBN on/IN heuristics/NNS (/-LRB- e.g./FW local/JJ maximum/NN )/-RRB- and/CC have/VBP no/DT clear/JJ link/NN to/IN the/DT cost/NN function/NN of/IN the/DT model/NN ./.
+Furthermore/RB ,/, the/DT variables/NNS of/IN the/DT Gaussian/NNP explicitly/RB store/NN location/NN information/NN ,/, distinct/JJ from/IN the/DT appearance/NN captured/VBN by/IN the/DT features/NNS ,/, thus/RB providing/VBG a/DT what/WP //, where/WRB decomposition/NN of/IN the/DT input/NN signal/NN ./.
+Although/IN the/DT differentiable/NN pooling/VBG scheme/NN can/MD be/VB incorporated/VBN in/IN a/DT wide/JJ range/NN of/IN hierarchical/JJ models/NNS ,/, we/PRP demonstrate/VBP it/PRP in/IN the/DT context/NN of/IN a/DT Deconvolutional/NNP Network/NNP model/NN (/-LRB- Zeiler/NNP et/FW al/FW ./.
+ICCV/NNP 2011/CD )/-RRB- ./.
+We/PRP also/RB explore/VB a/DT number/NN of/IN secondary/JJ issues/NNS within/IN this/DT model/NN and/CC present/JJ detailed/JJ experiments/NNS on/IN MNIST/NNP digits/NNS ./.

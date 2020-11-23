@@ -1,0 +1,6 @@
+In this paper, we propose the use of spatial and harmonic features in combination with long short term memory (LSTM) recurrent neural network (RNN) for automatic sound event detection (SED) task.
+Real life sound recordings typically have many overlapping sound events, making it hard to recognize with just mono channel audio.
+Human listeners have been successfully recognizing the mixture of overlapping sound events using pitch cues and exploiting the stereo (multichannel) audio signal available at their ears to spatially localize these events.
+Traditionally SED systems have only been using mono channel audio, motivated by the human listener we propose to extend them to use multichannel audio.
+The proposed SED system is compared against the state of the art mono channel method on the development subset of TUT sound events detection 2016 database.
+The usage of spatial and harmonic features are shown to improve the performance of SED.

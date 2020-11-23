@@ -1,0 +1,7 @@
+In/IN reinforcement/NN learning/NN ,/, we/PRP often/RB define/VBP goals/NNS by/IN specifying/VBG rewards/NNS within/IN desirable/JJ states/NNS ./.
+One/CD problem/NN with/IN this/DT approach/NN is/VBZ that/IN we/PRP typically/RB need/VBP to/TO redefine/VB the/DT rewards/NNS each/DT time/NN the/DT goal/NN changes/NNS ,/, which/WDT often/RB requires/VBZ some/DT understanding/NN of/IN the/DT solution/NN in/IN the/DT agents/NNS environment/NN ./.
+When/WRB humans/NNS are/VBP learning/VBG to/TO complete/VB tasks/NNS ,/, we/PRP regularly/RB utilize/VBP alternative/JJ sources/NNS that/WDT guide/VBP our/PRP$ understanding/NN of/IN the/DT problem/NN ./.
+Such/JJ task/NN representations/NNS allow/VBP one/CD to/TO specify/VB goals/NNS on/IN their/PRP$ own/JJ terms/NNS ,/, thus/RB providing/VBG specifications/NNS that/WDT can/MD be/VB appropriately/RB interpreted/VBN across/IN various/JJ environments/NNS ./.
+This/DT motivates/VBZ our/PRP$ own/JJ work/NN ,/, in/IN which/WDT we/PRP represent/VBP goals/NNS in/IN environments/NNS that/WDT are/VBP different/JJ from/IN the/DT agents/NNS ./.
+We/PRP introduce/VBP Cross-Domain/NNP Perceptual/NNP Reward/NN (/-LRB- CDPR/NNP )/-RRB- functions/VBZ ,/, learned/VBD rewards/NNS that/WDT represent/VBP the/DT visual/JJ similarity/NN between/IN an/DT agents/NNS state/NN and/CC a/DT cross-domain/JJ goal/NN image/NN ./.
+We/PRP report/VBP results/NNS for/IN learning/VBG the/DT CDPRs/NNS with/IN a/DT deep/JJ neural/JJ network/NN and/CC using/VBG them/PRP to/TO solve/VB two/CD tasks/NNS with/IN deep/JJ reinforcement/NN learning/NN ./.

@@ -1,0 +1,9 @@
+Debate/NN summarization/NN is/VBZ one/CD of/IN the/DT novel/NN and/CC challenging/JJ research/NN areas/NNS in/IN automatic/JJ text/NN summarization/NN which/WDT has/VBZ been/VBN largely/RB unexplored/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP a/DT debate/NN summarization/NN pipeline/NN to/TO summarize/VB key/JJ topics/NNS which/WDT are/VBP discussed/VBN or/CC argued/VBN in/IN the/DT two/CD opposing/VBG sides/NNS of/IN online/JJ debates/NNS ./.
+We/PRP view/VBP that/IN the/DT generation/NN of/IN debate/NN summaries/NNS can/MD be/VB achieved/VBN by/IN clustering/NN ,/, cluster/NN labeling/NN ,/, and/CC visualization/NN ./.
+In/IN our/PRP$ work/NN ,/, we/PRP investigate/VBP two/CD different/JJ clustering/NN approaches/VBZ for/IN the/DT generation/NN of/IN the/DT summaries/NNS ./.
+In/IN the/DT first/JJ approach/NN ,/, we/PRP generate/VBP the/DT summaries/NNS by/IN applying/VBG purely/RB term/NN -/HYPH based/VBN clustering/NN and/CC cluster/NN labeling/NN ./.
+The/DT second/JJ approach/NN makes/VBZ use/NN of/IN X-means/NNS for/IN clustering/NN and/CC Mutual/JJ Information/NN for/IN labeling/VBG the/DT clusters/NNS ./.
+Both/DT approaches/NNS are/VBP driven/VBN by/IN ontologies/NNS ./.
+We/PRP visualize/VBP the/DT results/NNS using/VBG bar/NN charts/NNS ./.
+We/PRP think/VBP that/IN our/PRP$ results/NNS are/VBP a/DT smooth/JJ entry/NN for/IN users/NNS aiming/VBG to/TO receive/VB the/DT first/JJ impression/NN about/IN what/WP is/VBZ discussed/VBN within/IN a/DT debate/NN topic/NN containing/VBG waste/NN number/NN of/IN argumentations/NNS ./.

@@ -1,0 +1,9 @@
+Generative/JJ models/NNS are/VBP widely/RB used/VBN for/IN unsupervised/JJ learning/NN with/IN various/JJ applications/NNS ,/, including/VBG data/NNS compression/NN and/CC signal/NN restoration/NN ./.
+Training/NN methods/NNS for/IN such/JJ systems/NNS focus/VBP on/IN the/DT generality/NN of/IN the/DT network/NN given/VBN limited/JJ amount/NN of/IN training/NN data/NNS ./.
+A/DT less/RBR researched/VBN type/NN of/IN techniques/NNS concerns/NNS generation/NN of/IN only/RB a/DT single/JJ type/NN of/IN input/NN ./.
+This/DT is/VBZ useful/JJ for/IN applications/NNS such/JJ as/IN constraint/NN handling/NN ,/, noise/NN reduction/NN and/CC anomaly/NN detection/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT technique/NN to/TO limit/VB the/DT generative/JJ capability/NN of/IN the/DT network/NN using/VBG negative/JJ learning/NN ./.
+The/DT proposed/JJ method/NN searches/VBZ the/DT solution/NN in/IN the/DT gradient/NN direction/NN for/IN the/DT desired/VBN input/NN and/CC in/IN the/DT opposite/JJ direction/NN for/IN the/DT undesired/JJ input/NN ./.
+One/CD of/IN the/DT application/NN can/MD be/VB anomaly/RB detection/NN where/WRB the/DT undesired/JJ inputs/NNS are/VBP the/DT anomalous/JJ data/NNS ./.
+In/IN the/DT results/NNS section/NN we/PRP demonstrate/VBP the/DT features/NNS of/IN the/DT algorithm/NN using/VBG MNIST/NN handwritten/JJ digit/NN dataset/NN and/CC latter/JJ apply/VB the/DT technique/NN to/IN a/DT real/JJ -/HYPH world/NN obstacle/NN detection/NN problem/NN ./.
+The/DT results/NNS clearly/RB show/VBP that/IN the/DT proposed/VBN learning/NN technique/NN can/MD significantly/RB improve/VB the/DT performance/NN for/IN anomaly/NN detection/NN ./.

@@ -1,0 +1,12 @@
+Least/JJS Squares/NNS Twin/JJ Support/NN Vector/NNP Machine/NNP (/-LRB- LSTSVM/NNP )/-RRB- is/VBZ an/DT extremely/RB efficient/JJ and/CC fast/JJ version/NN of/IN SVM/NNP algorithm/NN for/IN binary/JJ classification/NN ./.
+LSTSVM/NNP combines/VBZ the/DT idea/NN of/IN Least/JJS Squares/NNS SVM/NNP and/CC Twin/NNP SVM/NNP in/IN which/WDT two/CD non-parallel/JJ hyperplanes/NNS are/VBP found/VBN by/IN solving/VBG two/CD systems/NNS of/IN linear/JJ equations/NNS ./.
+Although/IN ,/, the/DT algorithm/NN is/VBZ very/RB fast/JJ and/CC efficient/JJ in/IN many/JJ classification/NN tasks/NNS ,/, it/PRP is/VBZ unable/JJ to/TO cope/VB with/IN two/CD features/NNS of/IN real/JJ -/HYPH world/NN problems/NNS ./.
+First/RB ,/, in/IN many/JJ real/JJ -/HYPH world/NN classification/NN problems/NNS ,/, it/PRP is/VBZ almost/RB impossible/JJ to/TO assign/VB data/NNS points/NNS to/IN a/DT single/JJ class/NN ./.
+Second/RB ,/, data/NNS points/NNS in/IN real/JJ -/HYPH world/NN problems/NNS may/MD have/VB different/JJ importance/NN ./.
+In/IN this/DT study/NN ,/, we/PRP propose/VBP a/DT novel/JJ version/NN of/IN LSTSVM/NNP based/VBN on/IN fuzzy/JJ concepts/NNS to/TO deal/VB with/IN these/DT two/CD characteristics/NNS of/IN real/JJ -/HYPH world/NN data/NNS ./.
+The/DT algorithm/NN is/VBZ called/VBN Fuzzy/JJ LSTSVM/NN (/-LRB- FLSTSVM/NNP )/-RRB- which/WDT provides/VBZ more/JJR flexibility/NN than/IN binary/JJ classification/NN of/IN LSTSVM/NNP ./.
+Two/CD models/NNS are/VBP proposed/VBN for/IN the/DT algorithm/NN ./.
+In/IN the/DT first/JJ model/NN ,/, a/DT fuzzy/JJ membership/NN value/NN is/VBZ assigned/VBN to/IN each/DT data/NN point/NN and/CC the/DT hyperplanes/NNS are/VBP optimized/VBN based/VBN on/IN these/DT fuzzy/JJ samples/NNS ./.
+In/IN the/DT second/JJ model/NN we/PRP construct/VBP fuzzy/JJ hyperplanes/NNS to/TO classify/VB data/NNS ./.
+Finally/RB ,/, we/PRP apply/VBP our/PRP$ proposed/VBN FLSTSVM/NN to/IN an/DT artificial/JJ as/RB well/RB as/IN three/CD real/JJ -/HYPH world/NN datasets/NNS ./.
+Results/NNS demonstrate/VBP that/IN FLSTSVM/NNP obtains/VBZ better/JJR performance/NN than/IN SVM/NNP and/CC LSTSVM/NNP ./.

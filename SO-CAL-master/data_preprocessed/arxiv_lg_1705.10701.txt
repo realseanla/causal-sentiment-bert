@@ -1,0 +1,10 @@
+This/DT paper/NN proposes/VBZ a/DT new/JJ approach/NN to/IN a/DT novel/JJ value/NN network/NN architecture/NN for/IN the/DT game/NN Go/VB ,/, called/VBD a/DT multi-labelled/JJ (/-LRB- ML/NNP )/-RRB- value/NN network/NN ./.
+In/IN the/DT ML/NNP value/NN network/NN ,/, different/JJ values/NNS (/-LRB- win/NN rates/NNS )/-RRB- are/VBP trained/VBN simultaneously/RB for/IN different/JJ settings/NNS of/IN komi/NNP ,/, a/DT compensation/NN given/VBN to/TO balance/VB the/DT initiative/NN of/IN playing/VBG first/RB ./.
+The/DT ML/NNP value/NN network/NN has/VBZ three/CD advantages/NNS ,/, (/-LRB- a/LS )/-RRB- it/PRP outputs/NNS values/NNS for/IN different/JJ komi/NNS ,/, (/-LRB- b/LS )/-RRB- it/PRP supports/VBZ dynamic/JJ komi/NNS ,/, and/CC (/-LRB- c/LS )/-RRB- it/PRP lowers/VBZ the/DT mean/JJ squared/JJ error/NN (/-LRB- MSE/NN )/-RRB- ./.
+This/DT paper/NN also/RB proposes/VBZ a/DT new/JJ dynamic/JJ komi/NN method/NN to/TO improve/VB game/NN -/HYPH playing/VBG strength/NN ./.
+This/DT paper/NN also/RB performs/VBZ experiments/NNS to/TO demonstrate/VB the/DT merits/NNS of/IN the/DT architecture/NN ./.
+First/RB ,/, the/DT MSE/NNP of/IN the/DT ML/NNP value/NN network/NN is/VBZ generally/RB lower/JJR than/IN the/DT value/NN network/NN alone/RB ./.
+Second/RB ,/, the/DT program/NN based/VBN on/IN the/DT ML/NNP value/NN network/NN wins/VBZ by/IN a/DT rate/NN of/IN 67.6/CD percent/NN against/IN the/DT program/NN based/VBN on/IN the/DT value/NN network/NN alone/RB ./.
+Third/JJ ,/, the/DT program/NN with/IN the/DT proposed/VBN dynamic/JJ komi/NN method/NN significantly/RB improves/VBZ the/DT playing/NN strength/NN over/IN the/DT baseline/NN that/WDT does/VBZ not/RB use/VB dynamic/JJ komi/NNS ,/, especially/RB for/IN handicap/NN games/NNS ./.
+To/IN our/PRP$ knowledge/NN ,/, up/IN to/IN date/NN ,/, no/DT handicap/NN games/NNS have/VBP been/VBN played/VBN openly/RB by/IN programs/NNS using/VBG value/NN networks/NNS ./.
+This/DT paper/NN provides/VBZ these/DT programs/NNS with/IN a/DT useful/JJ approach/NN to/IN playing/VBG handicap/NN games/NNS ./.

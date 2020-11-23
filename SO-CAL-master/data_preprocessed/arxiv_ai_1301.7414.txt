@@ -1,0 +1,8 @@
+AThe/JJ paper/NN gives/VBZ a/DT few/JJ arguments/NNS in/IN favour/NN of/IN the/DT use/NN of/IN chain/NN graphs/NNS for/IN description/NN of/IN probabilistic/JJ conditional/JJ independence/NN structures/NNS ./.
+Every/DT Bayesian/JJ network/NN model/NN can/MD be/VB equivalently/RB introduced/VBN by/IN means/NNS of/IN a/DT factorization/NN formula/NN with/IN respect/NN to/IN a/DT chain/NN graph/NN which/WDT is/VBZ Markov/NNP equivalent/JJ to/IN the/DT Bayesian/JJ network/NN ./.
+A/DT graphical/JJ characterization/NN of/IN such/JJ graphs/NNS is/VBZ given/VBN ./.
+The/DT class/NN of/IN equivalent/JJ graphs/NNS can/MD be/VB represented/VBN by/IN a/DT distinguished/JJ graph/NN which/WDT is/VBZ called/VBN the/DT largest/JJS chain/NN graph/NN ./.
+The/DT factorization/NN formula/NN with/IN respect/NN to/IN the/DT largest/JJS chain/NN graph/NN is/VBZ a/DT basis/NN of/IN a/DT proposal/NN of/IN how/WRB to/TO represent/VB the/DT corresponding/VBG (/-LRB- discrete/JJ )/-RRB- probability/NN distribution/NN in/IN a/DT computer/NN (/-LRB- i.e./FW parametrize/FW it/PRP )/-RRB- ./.
+This/DT way/NN does/VBZ not/RB depend/VB on/IN the/DT choice/NN of/IN a/DT particular/JJ Bayesian/JJ network/NN from/IN the/DT class/NN of/IN equivalent/JJ networks/NNS and/CC seems/VBZ to/TO be/VB the/DT most/RBS efficient/JJ way/NN from/IN the/DT point/NN of/IN view/NN of/IN memory/NN demands/NNS ./.
+A/DT separation/NN criterion/NN for/IN reading/VBG independency/NN statements/NNS from/IN a/DT chain/NN graph/NN is/VBZ formulated/VBN in/IN a/DT simpler/JJR way/NN ./.
+It/PRP resembles/VBZ the/DT well/NN -/HYPH known/VBN d/NN -/HYPH separation/NN criterion/NN for/IN Bayesian/JJ networks/NNS and/CC can/MD be/VB implemented/VBN locally/RB ./.

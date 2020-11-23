@@ -1,0 +1,14 @@
+This/DT paper/NN presents/VBZ an/DT ontology/NN -/HYPH based/VBN approach/NN for/IN the/DT design/NN of/IN a/DT collaborative/JJ business/NN process/NN model/NN (/-LRB- CBP/NNP )/-RRB- ./.
+This/DT CBP/NNP is/VBZ considered/VBN as/IN a/DT specification/NN of/IN needs/NNS in/IN order/NN to/TO build/VB a/DT collaboration/NN information/NN system/NN (/-LRB- CIS/NN )/-RRB- for/IN a/DT network/NN of/IN organisations/NNS ./.
+The/DT study/NN is/VBZ a/DT part/NN of/IN a/DT model/NN driven/VBN engineering/NN approach/NN of/IN the/DT CIS/NN in/IN a/DT specific/JJ enterprise/NN interoperability/NN framework/NN that/WDT will/MD be/VB summarised/VBN ./.
+An/DT adaptation/NN of/IN the/DT Business/NN Process/NN Modeling/VBG Notation/NN (/-LRB- BPMN/NN )/-RRB- is/VBZ used/VBN to/TO represent/VB the/DT CBP/NNP model/NN ./.
+We/PRP develop/VBP a/DT knowledge/NN -/HYPH based/VBN system/NN (/-LRB- KbS/NN )/-RRB- which/WDT is/VBZ composed/VBN of/IN three/CD main/JJ parts/NNS :/: knowledge/NN gathering/NN ,/, knowledge/NN representation/NN and/CC reasoning/NN ,/, and/CC collaborative/JJ business/NN process/NN modelling/NN ./.
+The/DT first/JJ part/NN starts/VBZ from/IN a/DT high/JJ abstraction/NN level/NN where/WRB knowledge/NN from/IN business/NN partners/NNS is/VBZ captured/VBN ./.
+A/DT collaboration/NN ontology/NN is/VBZ defined/VBN in/IN order/NN to/TO provide/VB a/DT structure/NN to/TO store/VB and/CC use/VB the/DT knowledge/NN captured/VBN ./.
+In/IN parallel/JJ ,/, we/PRP try/VBP to/TO reuse/VB generic/JJ existing/JJ knowledge/NN about/IN business/NN processes/NNS from/IN the/DT MIT/NN Process/NN Handbook/NN repository/NN ./.
+This/DT results/VBZ in/IN a/DT collaboration/NN process/NN ontology/NN that/WDT is/VBZ also/RB described/VBN ./.
+A/DT set/NN of/IN rules/NNS is/VBZ defined/VBN in/IN order/NN to/TO extract/VB knowledge/NN about/IN fragments/NNS of/IN the/DT CBP/NNP model/NN from/IN the/DT two/CD previous/JJ ontologies/NNS ./.
+These/DT fragments/NNS are/VBP finally/RB assembled/VBN in/IN the/DT third/JJ part/NN of/IN the/DT KbS/NNP ./.
+A/DT prototype/NN of/IN the/DT KbS/NNP has/VBZ been/VBN developed/VBN in/IN order/NN to/TO implement/VB and/CC support/VB this/DT approach/NN ./.
+The/DT prototype/NN is/VBZ a/DT computer/NN -/HYPH aided/VBN design/NN tool/NN of/IN the/DT CBP/NNP ./.
+In/IN this/DT paper/NN ,/, we/PRP will/MD present/VB the/DT theoretical/JJ aspects/NNS of/IN each/DT part/NN of/IN this/DT KbS/NNP as/RB well/RB as/IN the/DT tools/NNS that/WDT we/PRP developed/VBD and/CC used/VBD in/IN order/NN to/TO support/VB its/PRP$ functionalities/NNS ./.

@@ -1,0 +1,6 @@
+Multimodal/JJ registration/NN is/VBZ a/DT challenging/JJ problem/NN in/IN medical/JJ imaging/NN due/IN the/DT high/JJ variability/NN of/IN tissue/NN appearance/NN under/IN different/JJ imaging/NN modalities/NNS ./.
+The/DT crucial/JJ component/NN here/RB is/VBZ the/DT choice/NN of/IN the/DT right/JJ similarity/NN measure/NN ./.
+We/PRP make/VBP a/DT step/NN towards/IN a/DT general/JJ learning/NN -/HYPH based/VBN solution/NN that/WDT can/MD be/VB adapted/VBN to/IN specific/JJ situations/NNS and/CC present/VB a/DT metric/JJ based/VBN on/IN a/DT convolutional/JJ neural/JJ network/NN ./.
+Our/PRP$ network/NN can/MD be/VB trained/VBN from/IN scratch/NN even/RB from/IN a/DT few/JJ aligned/VBN image/NN pairs/NNS ./.
+The/DT metric/JJ is/VBZ validated/VBN on/IN intersubject/NN deformable/JJ registration/NN on/IN a/DT dataset/NN different/JJ from/IN the/DT one/CD used/VBN for/IN training/NN ,/, demonstrating/VBG good/JJ generalization/NN ./.
+In/IN this/DT task/NN ,/, we/PRP outperform/VBP mutual/JJ information/NN by/IN a/DT significant/JJ margin/NN ./.

@@ -1,0 +1,7 @@
+Evolution has resulted in highly developed abilities in many natural intelligences to quickly and accurately predict mechanical phenomena.
+Humans have successfully developed laws of physics to abstract and model such mechanical phenomena.
+In the context of artificial intelligence, a recent line of work has focused on estimating physical parameters based on sensory data and use them in physical simulators to make long-term predictions.
+In contrast, we investigate the effectiveness of a single neural network for end-to-end long-term prediction of mechanical phenomena.
+Based on extensive evaluation, we demonstrate that such networks can outperform alternate approaches having even access to ground-truth physical simulators, especially when some physical parameters are unobserved or not known a-priori.
+Further, our network outputs a distribution of outcomes to capture the inherent uncertainty in the data.
+Our approach demonstrates for the first time the possibility of making actionable long-term predictions from sensor data without requiring to explicitly model the underlying physical laws.

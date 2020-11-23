@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP the/DT decision/NN -/HYPH theoretic/JJ framework/NN for/IN online/JJ learning/NN (/-LRB- DTOL/NN )/-RRB- proposed/VBN by/IN Freund/NNP and/CC Schapire/NNP ./.
+Previous/JJ algorithms/NNS for/IN learning/VBG in/IN this/DT framework/NN have/VBP a/DT tunable/JJ learning/NN rate/NN parameter/NN ./.
+Tuning/VBG the/DT learning/NN rate/NN requires/VBZ prior/JJ knowledge/NN about/IN the/DT sequence/NN and/CC severely/RB limits/VBZ the/DT practicality/NN of/IN the/DT algorithm/NN ./.
+While/IN much/JJ progress/NN has/VBZ been/VBN made/VBN in/IN the/DT past/JJ decade/NN for/IN adaptively/RB tuning/VBG the/DT learning/NN rate/NN ,/, all/DT of/IN these/DT methods/NNS still/RB ultimately/RB rely/VB on/IN some/DT prior/JJ information/NN ./.
+We/PRP propose/VBP a/DT completely/RB parameter/NN -/HYPH free/JJ algorithm/NN for/IN learning/VBG in/IN this/DT framework/NN ./.
+We/PRP show/VBP theoretically/RB that/IN our/PRP$ algorithm/NN has/VBZ a/DT regret/NN bound/VBN similar/JJ to/IN the/DT best/JJS bounds/NNS achieved/VBN by/IN previous/JJ algorithms/NNS with/IN optimally/RB -/HYPH tuned/VBN learning/NN rates/NNS ./.
+We/PRP also/RB present/VBP a/DT few/JJ experiments/NNS comparing/VBG the/DT performance/NN of/IN the/DT algorithm/NN with/IN that/DT of/IN other/JJ algorithms/NNS for/IN various/JJ tunings/NNS ./.

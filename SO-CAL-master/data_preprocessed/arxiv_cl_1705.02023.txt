@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ Senti17/NN system/NN which/WDT uses/VBZ ten/CD convolutional/JJ neural/JJ networks/NNS (/-LRB- ConvNet/NNP )/-RRB- to/TO assign/VB a/DT sentiment/NN label/NN to/IN a/DT tweet/NN ./.
+The/DT network/NN consists/VBZ of/IN a/DT convolutional/JJ layer/NN followed/VBN by/IN a/DT fully/RB -/HYPH connected/VBN layer/NN and/CC a/DT Softmax/NNP on/IN top/NN ./.
+Ten/CD instances/NNS of/IN this/DT network/NN are/VBP initialized/VBN with/IN the/DT same/JJ word/NN embeddings/NNS as/IN inputs/NNS but/CC with/IN different/JJ initializations/NNS for/IN the/DT network/NN weights/NNS ./.
+We/PRP combine/VBP the/DT results/NNS of/IN all/DT instances/NNS by/IN selecting/VBG the/DT sentiment/NN label/NN given/VBN by/IN the/DT majority/NN of/IN the/DT ten/CD voters/NNS ./.
+This/DT system/NN is/VBZ ranked/VBN fourth/RB in/IN SemEval/NNP -/HYPH 2017/CD Task4/NN over/IN 38/CD systems/NNS with/IN 67.4/CD percent/NN

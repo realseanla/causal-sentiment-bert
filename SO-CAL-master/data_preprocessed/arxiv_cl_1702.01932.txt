@@ -1,0 +1,6 @@
+Neural/JJ network/NN models/NNS are/VBP capable/JJ of/IN generating/VBG extremely/RB natural/JJ sounding/VBG conversational/JJ interactions/NNS ./.
+Nevertheless/RB ,/, these/DT models/NNS have/VBP yet/RB to/TO demonstrate/VB that/IN they/PRP can/MD incorporate/VB content/NN in/IN the/DT form/NN of/IN factual/JJ information/NN or/CC entity/NN -/HYPH grounded/VBN opinion/NN that/WDT would/MD enable/VB them/PRP to/TO serve/VB in/IN more/JJR task/NN -/HYPH oriented/VBN conversational/JJ applications/NNS ./.
+This/DT paper/NN presents/VBZ a/DT novel/NN ,/, fully/RB data/NN -/HYPH driven/VBN ,/, and/CC knowledge/NN -/HYPH grounded/VBN neural/JJ conversation/NN model/NN aimed/VBN at/IN producing/VBG more/JJR contentful/JJ responses/NNS without/IN slot/NN filling/NN ./.
+We/PRP generalize/VBP the/DT widely/RB -/HYPH used/VBN Seq2Seq/NN approach/NN by/IN conditioning/VBG responses/NNS on/IN both/DT conversation/NN history/NN and/CC external/JJ "/'' facts/NNS "/'' ,/, allowing/VBG the/DT model/NN to/TO be/VB versatile/JJ and/CC applicable/JJ in/IN an/DT open/JJ -/HYPH domain/NN setting/NN ./.
+Our/PRP$ approach/NN yields/VBZ significant/JJ improvements/NNS over/IN a/DT competitive/JJ Seq2Seq/NN baseline/NN ./.
+Human/JJ judges/NNS found/VBD that/IN our/PRP$ outputs/NNS are/VBP significantly/RB more/RBR informative/JJ ./.

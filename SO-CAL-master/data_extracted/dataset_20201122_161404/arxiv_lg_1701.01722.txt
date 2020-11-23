@@ -1,0 +1,3 @@
+Matrix multiplicative weight update (MMWU) is an extremely powerful algorithmic tool for computer science and related fields.
+However, it comes with a slow running time due to the matrix exponential and eigendecomposition computations.
+For this reason, many researchers studied the followed-the-perturbed-leader (FTPL) framework which is faster, but a factor $\sqrt{d}$ worse than the optimal regret of MMWU for dimension-$d$ matrices.

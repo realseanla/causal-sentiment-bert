@@ -1,0 +1,6 @@
+Motivated/VBN by/IN applications/NNS in/IN computational/JJ advertising/NN and/CC systems/NNS biology/NN ,/, we/PRP consider/VBP the/DT problem/NN of/IN identifying/VBG the/DT best/JJS out/IN of/IN several/JJ possible/JJ soft/JJ interventions/NNS at/IN a/DT source/NN node/NN $/$ V$/CD in/IN a/DT causal/JJ DAG/NN ,/, to/TO maximize/VB the/DT expected/VBN value/NN of/IN a/DT target/NN node/NN $/$ Y$/CD (/-LRB- downstream/RB of/IN $/$ V$/CD )/-RRB- ./.
+There/EX is/VBZ a/DT fixed/VBN total/JJ budget/NN for/IN sampling/NN under/IN various/JJ interventions/NNS ./.
+Also/RB ,/, there/EX are/VBP cost/NN constraints/NNS on/IN different/JJ types/NNS of/IN interventions/NNS ./.
+We/PRP pose/VBP this/DT as/IN a/DT best/JJS arm/NN identification/NN problem/NN with/IN $/$ K$/CD arms/NNS ,/, where/WRB each/DT arm/NN is/VBZ a/DT soft/JJ intervention/NN at/IN $/$ V$/CD ./.
+The/DT key/JJ difference/NN from/IN the/DT classical/JJ setting/NN is/VBZ that/IN there/EX is/VBZ information/NN leakage/NN among/IN the/DT arms/NNS ./.
+Each/DT soft/JJ intervention/NN is/VBZ a/DT distinct/JJ known/JJ conditional/JJ probability/NN distribution/NN between/IN $/$ V$/CD and/CC its/PRP$ parents/NNS $/$ pa/CD (/-LRB- V/NN )/-RRB- $/$ ./.

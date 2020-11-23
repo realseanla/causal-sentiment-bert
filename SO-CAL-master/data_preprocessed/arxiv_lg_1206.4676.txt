@@ -1,0 +1,8 @@
+Clustering/NN analysis/NN by/IN nonnegative/JJ low/JJ -/HYPH rank/NN approximations/NNS has/VBZ achieved/VBN remarkable/JJ progress/NN in/IN the/DT past/JJ decade/NN ./.
+However/RB ,/, most/JJS approximation/NN approaches/NNS in/IN this/DT direction/NN are/VBP still/RB restricted/VBN to/IN matrix/NN factorization/NN ./.
+We/PRP propose/VBP a/DT new/JJ low/JJ -/HYPH rank/NN learning/NN method/NN to/TO improve/VB the/DT clustering/NN performance/NN ,/, which/WDT is/VBZ beyond/IN matrix/NN factorization/NN ./.
+The/DT approximation/NN is/VBZ based/VBN on/IN a/DT two/CD -/HYPH step/NN bipartite/JJ random/JJ walk/NN through/IN virtual/JJ cluster/NN nodes/NNS ,/, where/WRB the/DT approximation/NN is/VBZ formed/VBN by/IN only/JJ cluster/NN assigning/VBG probabilities/NNS ./.
+Minimizing/VBG the/DT approximation/NN error/NN measured/VBN by/IN Kullback/NNP -/HYPH Leibler/NNP divergence/NN is/VBZ equivalent/JJ to/IN maximizing/VBG the/DT likelihood/NN of/IN a/DT discriminative/JJ model/NN ,/, which/WDT endows/VBZ our/PRP$ method/NN with/IN a/DT solid/JJ probabilistic/JJ interpretation/NN ./.
+The/DT optimization/NN is/VBZ implemented/VBN by/IN a/DT relaxed/JJ Majorization/NN -/HYPH Minimization/NN algorithm/NN that/WDT is/VBZ advantageous/JJ in/IN finding/VBG good/JJ local/JJ minima/NN ./.
+Furthermore/RB ,/, we/PRP point/VBP out/RP that/IN the/DT regularized/VBN algorithm/NN with/IN Dirichlet/NNP prior/RB only/RB serves/VBZ as/IN initialization/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN the/DT new/JJ method/NN has/VBZ strong/JJ performance/NN in/IN clustering/NN purity/NN for/IN various/JJ datasets/NNS ,/, especially/RB for/IN large/JJ -/HYPH scale/NN manifold/JJ data/NNS ./.

@@ -1,0 +1,3 @@
+We/PRP use/VBP autoencoders/NNS to/TO create/VB low/JJ -/HYPH dimensional/JJ embeddings/NNS of/IN underlying/VBG patient/JJ phenotypes/NNS that/WDT we/PRP hypothesize/VBP are/VBP a/DT governing/VBG factor/NN in/IN determining/VBG how/WRB different/JJ patients/NNS will/MD react/VB to/IN different/JJ interventions/NNS ./.
+We/PRP compare/VBP the/DT performance/NN of/IN autoencoders/NNS that/WDT take/VBP fixed/VBN length/NN sequences/NNS of/IN concatenated/VBN timesteps/NNS as/IN input/NN with/IN a/DT recurrent/JJ sequence/NN -/HYPH to/IN -/HYPH sequence/NN autoencoder/NN ./.
+We/PRP evaluate/VBP our/PRP$ methods/NNS on/IN around/IN 35,500/CD patients/NNS from/IN the/DT latest/JJS MIMIC/NNP III/CD dataset/NN from/IN Beth/NNP Israel/NNP Deaconess/NNP Hospital/NNP ./.

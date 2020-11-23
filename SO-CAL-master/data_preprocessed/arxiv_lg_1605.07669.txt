@@ -1,0 +1,7 @@
+The/DT ability/NN to/TO compute/VB an/DT accurate/JJ reward/NN function/NN is/VBZ essential/JJ for/IN optimising/VBG a/DT dialogue/NN policy/NN via/IN reinforcement/NN learning/NN ./.
+In/IN real/JJ -/HYPH world/NN applications/NNS ,/, using/VBG explicit/JJ user/NN feedback/NN as/IN the/DT reward/NN signal/NN is/VBZ often/RB unreliable/JJ and/CC costly/JJ to/TO collect/VB ./.
+This/DT problem/NN can/MD be/VB mitigated/VBN if/IN the/DT user/NN 's/POS intent/NN is/VBZ known/VBN in/IN advance/NN or/CC data/NN is/VBZ available/JJ to/TO pre-train/VB a/DT task/NN success/NN predictor/NN off/IN -/HYPH line/NN ./.
+In/IN practice/NN neither/DT of/IN these/DT apply/VBP for/IN most/JJS real/JJ world/NN applications/NNS ./.
+Here/RB we/PRP propose/VBP an/DT on/IN -/HYPH line/NN learning/NN framework/NN whereby/WRB the/DT dialogue/NN policy/NN is/VBZ jointly/RB trained/VBN alongside/IN the/DT reward/NN model/NN via/IN active/JJ learning/NN with/IN a/DT Gaussian/JJ process/NN model/NN ./.
+This/DT Gaussian/JJ process/NN operates/VBZ on/IN a/DT continuous/JJ space/NN dialogue/NN representation/NN generated/VBN in/IN an/DT unsupervised/JJ fashion/NN using/VBG a/DT recurrent/JJ neural/JJ network/NN encoder/NN -/HYPH decoder/NN ./.
+The/DT experimental/JJ results/NNS demonstrate/VBP that/IN the/DT proposed/VBN framework/NN is/VBZ able/JJ to/TO significantly/RB reduce/VB data/NNS annotation/NN costs/NNS and/CC mitigate/VB noisy/JJ user/NN feedback/NN in/IN dialogue/NN policy/NN learning/NN ./.

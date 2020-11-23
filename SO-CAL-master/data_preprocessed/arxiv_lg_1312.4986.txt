@@ -1,0 +1,10 @@
+Not/RB all/DT instances/NNS in/IN a/DT data/NN set/NN are/VBP equally/RB beneficial/JJ for/IN inferring/VBG a/DT model/NN of/IN the/DT data/NNS ./.
+Some/DT instances/NNS (/-LRB- such/JJ as/IN outliers/NNS )/-RRB- are/VBP detrimental/JJ to/IN inferring/VBG a/DT model/NN of/IN the/DT data/NNS ./.
+Several/JJ machine/NN learning/NN techniques/NNS treat/VBP instances/NNS in/IN a/DT data/NN set/NN differently/RB during/IN training/NN such/JJ as/IN curriculum/NN learning/NN ,/, filtering/NN ,/, and/CC boosting/VBG ./.
+However/RB ,/, an/DT automated/JJ method/NN for/IN determining/VBG how/WRB beneficial/JJ an/DT instance/NN is/VBZ for/IN inferring/VBG a/DT model/NN of/IN the/DT data/NNS does/VBZ not/RB exist/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT automated/JJ method/NN that/WDT orders/VBZ the/DT instances/NNS in/IN a/DT data/NNS set/VBN by/IN complexity/NN based/VBN on/IN the/DT their/PRP$ likelihood/NN of/IN being/VBG misclassified/VBN (/-LRB- instance/NN hardness/NN )/-RRB- ./.
+The/DT underlying/VBG assumption/NN of/IN this/DT method/NN is/VBZ that/IN instances/NNS with/IN a/DT high/JJ likelihood/NN of/IN being/VBG misclassified/VBN represent/VBP more/RBR complex/JJ concepts/NNS in/IN a/DT data/NN set/NN ./.
+Ordering/VBG the/DT instances/NNS in/IN a/DT data/NN set/NN allows/VBZ a/DT learning/NN algorithm/NN to/TO focus/VB on/IN the/DT most/RBS beneficial/JJ instances/NNS and/CC ignore/VB the/DT detrimental/JJ ones/NNS ./.
+We/PRP compare/VBP ordering/VBG the/DT instances/NNS in/IN a/DT data/NN set/NN in/IN curriculum/NN learning/NN ,/, filtering/NN and/CC boosting/VBG ./.
+We/PRP find/VBP that/IN ordering/VBG the/DT instances/NNS significantly/RB increases/VBZ classification/NN accuracy/NN and/CC that/IN filtering/NN has/VBZ the/DT largest/JJS impact/NN on/IN classification/NN accuracy/NN ./.
+On/IN a/DT set/NN of/IN 52/CD data/NNS sets/NNS ,/, ordering/VBG the/DT instances/NNS increases/VBZ the/DT average/JJ accuracy/NN from/IN 81/CD percent/NN to/IN 84/CD percent/NN ./.

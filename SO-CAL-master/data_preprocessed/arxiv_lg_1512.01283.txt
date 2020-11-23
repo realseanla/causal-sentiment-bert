@@ -1,0 +1,5 @@
+The/DT music/NN industry/NN is/VBZ a/DT $/$ 130/CD billion/CD industry/NN ./.
+Predicting/NNP whether/IN a/DT song/NN catches/VBZ the/DT pulse/NN of/IN the/DT audience/NN impacts/NNS the/DT industry/NN ./.
+In/IN this/DT paper/NN we/PRP analyze/VBP language/NN inside/IN the/DT lyrics/NNS of/IN the/DT songs/NNS using/VBG several/JJ computational/JJ linguistic/JJ algorithms/NNS and/CC predict/VBP whether/IN a/DT song/NN would/MD make/VB to/IN the/DT top/NN or/CC bottom/NN of/IN the/DT billboard/NN rankings/NNS based/VBN on/IN the/DT language/NN features/NNS ./.
+We/PRP trained/VBD and/CC tested/VBD an/DT SVM/NN classifier/NN with/IN a/DT radial/JJ kernel/NN function/NN on/IN the/DT linguistic/JJ features/NNS ./.
+Results/NNS indicate/VBP that/IN we/PRP can/MD classify/VB whether/IN a/DT song/NN belongs/VBZ to/IN top/JJ and/CC bottom/NN of/IN the/DT billboard/NN charts/NNS with/IN a/DT precision/NN of/IN 0.76/CD ./.

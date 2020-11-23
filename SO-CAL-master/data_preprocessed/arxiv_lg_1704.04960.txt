@@ -1,0 +1,7 @@
+Adversarial/JJ attack/NN has/VBZ cast/VBN a/DT shadow/NN on/IN the/DT massive/JJ success/NN of/IN deep/JJ neural/JJ networks/NNS ./.
+Despite/IN being/VBG almost/RB visually/RB identical/JJ to/IN the/DT clean/JJ data/NNS ,/, the/DT adversarial/JJ images/NNS can/MD fool/VB deep/JJ neural/JJ networks/NNS into/IN wrong/JJ predictions/NNS with/IN very/RB high/JJ confidence/NN ./.
+In/IN this/DT paper/NN ,/, however/RB ,/, we/PRP show/VBP that/IN we/PRP can/MD build/VB a/DT simple/JJ binary/JJ classifier/NN separating/VBG the/DT adversarial/JJ apart/RB from/IN the/DT clean/JJ data/NNS with/IN accuracy/NN over/IN 99/CD percent/NN ./.
+We/PRP also/RB empirically/RB show/VB that/IN the/DT binary/JJ classifier/NN is/VBZ robust/JJ to/IN a/DT second/JJ -/HYPH round/JJ adversarial/JJ attack/NN ./.
+In/IN other/JJ words/NNS ,/, it/PRP is/VBZ difficult/JJ to/TO disguise/VB adversarial/JJ samples/NNS to/TO bypass/VB the/DT binary/JJ classifier/NN ./.
+Further/RB more/RBR ,/, we/PRP empirically/RB investigate/VB the/DT generalization/NN limitation/NN which/WDT lingers/VBZ on/IN all/DT current/JJ defensive/JJ methods/NNS ,/, including/VBG the/DT binary/JJ classifier/NN approach/NN ./.
+And/CC we/PRP hypothesize/VBP that/IN this/DT is/VBZ the/DT result/NN of/IN intrinsic/JJ property/NN of/IN adversarial/JJ crafting/VBG algorithms/NNS ./.

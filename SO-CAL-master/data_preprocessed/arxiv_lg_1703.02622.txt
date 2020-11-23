@@ -1,0 +1,4 @@
+We/PRP propose/VBP an/DT online/JJ convex/NN optimization/NN algorithm/NN (/-LRB- RescaledExp/NNP )/-RRB- that/WDT achieves/VBZ optimal/JJ regret/NN in/IN the/DT unconstrained/JJ setting/NN without/IN prior/JJ knowledge/NN of/IN any/DT bounds/NNS on/IN the/DT loss/NN functions/VBZ ./.
+We/PRP prove/VBP a/DT lower/JJR bound/JJ showing/VBG an/DT exponential/JJ separation/NN between/IN the/DT regret/NN of/IN existing/VBG algorithms/NNS that/WDT require/VBP a/DT known/VBN bound/VBN on/IN the/DT loss/NN functions/NNS and/CC any/DT algorithm/NN that/WDT does/VBZ not/RB require/VB such/JJ knowledge/NN ./.
+RescaledExp/NNP matches/VBZ this/DT lower/JJR bound/JJ asymptotically/RB in/IN the/DT number/NN of/IN iterations/NNS ./.
+RescaledExp/NNP is/VBZ naturally/RB hyperparameter/NN -/HYPH free/JJ and/CC we/PRP demonstrate/VBP empirically/RB that/IN it/PRP matches/VBZ prior/JJ optimization/NN algorithms/NNS that/WDT require/VBP hyperparameter/NN optimization/NN ./.

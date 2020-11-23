@@ -1,0 +1,5 @@
+This/DT article/NN exposes/VBZ the/DT failure/NN of/IN some/DT big/JJ neural/JJ networks/NNS to/IN leverage/NN added/VBD capacity/NN to/TO reduce/VB underfitting/NN ./.
+Past/JJ research/NN suggest/VBP diminishing/VBG returns/NNS when/WRB increasing/VBG the/DT size/NN of/IN neural/JJ networks/NNS ./.
+Our/PRP$ experiments/NNS on/IN ImageNet/NNP LSVRC/NNP -/HYPH 2010/CD show/NN that/IN this/DT may/MD be/VB due/JJ to/IN the/DT fact/NN that/IN bigger/JJR networks/NNS underfit/VBD the/DT training/NN objective/NN ,/, sometimes/RB performing/VBG worse/JJR on/IN the/DT training/NN set/NN than/IN smaller/JJR networks/NNS ./.
+This/DT suggests/VBZ that/IN the/DT optimization/NN method/NN -/HYPH first/JJ order/NN gradient/NN descent/NN -/HYPH fails/VBZ at/IN this/DT regime/NN ./.
+Directly/RB attacking/VBG this/DT problem/NN ,/, either/CC through/IN the/DT optimization/NN method/NN or/CC the/DT choices/NNS of/IN parametrization/NN ,/, may/MD allow/VB to/TO improve/VB the/DT generalization/NN error/NN on/IN large/JJ datasets/NNS ,/, for/IN which/WDT a/DT large/JJ capacity/NN is/VBZ required/VBN ./.

@@ -1,0 +1,10 @@
+This/DT paper/NN introduces/VBZ a/DT named/VBN entity/NN recognition/NN approach/NN in/IN textual/JJ corpus/NN ./.
+This/DT Named/VBN Entity/NN (/-LRB- NE/NNP )/-RRB- can/MD be/VB a/DT named/VBN :/: location/NN ,/, person/NN ,/, organization/NN ,/, date/NN ,/, time/NN ,/, etc./FW ,/, characterized/VBN by/IN instances/NNS ./.
+A/DT NE/NNP is/VBZ found/VBN in/IN texts/NNS accompanied/VBN by/IN contexts/NNS :/: words/NNS that/WDT are/VBP left/VBN or/CC right/NN of/IN the/DT NE/NNP ./.
+The/DT work/NN mainly/RB aims/VBZ at/IN identifying/VBG contexts/NNS inducing/VBG the/DT NE/NNP 's/POS nature/NN ./.
+As/IN such/JJ ,/, The/DT occurrence/NN of/IN the/DT word/NN "/`` President/NNP "/'' in/IN a/DT text/NN ,/, means/VBZ that/IN this/DT word/NN or/CC context/NN may/MD be/VB followed/VBN by/IN the/DT name/NN of/IN a/DT president/NN as/IN President/NNP "/'' Obama/NNP "/'' ./.
+Likewise/RB ,/, a/DT word/NN preceded/VBN by/IN the/DT string/NN "/`` footballer/NN "/'' induces/VBZ that/IN this/DT is/VBZ the/DT name/NN of/IN a/DT footballer/NN ./.
+NE/NNP recognition/NN may/MD be/VB viewed/VBN as/IN a/DT classification/NN method/NN ,/, where/WRB every/DT word/NN is/VBZ assigned/VBN to/IN a/DT NE/NNP class/NN ,/, regarding/VBG the/DT context/NN ./.
+The/DT aim/NN of/IN this/DT study/NN is/VBZ then/RB to/TO identify/VB and/CC classify/VB the/DT contexts/NNS that/WDT are/VBP most/RBS relevant/JJ to/TO recognize/VB a/DT NE/NNP ,/, those/DT which/WDT are/VBP frequently/RB found/VBN with/IN the/DT NE/NNP ./.
+A/DT learning/NN approach/NN using/VBG training/NN corpus/NN :/: web/NN documents/NNS ,/, constructed/VBN from/IN learning/VBG examples/NNS is/VBZ then/RB suggested/VBN ./.
+Frequency/NN representations/NNS and/CC modified/VBN tf/NN -/HYPH idf/NN representations/NNS are/VBP used/VBN to/TO calculate/VB the/DT context/NN weights/NNS associated/VBN to/IN context/NN frequency/NN ,/, learning/VBG example/NN frequency/NN ,/, and/CC document/NN frequency/NN in/IN the/DT corpus/NN ./.

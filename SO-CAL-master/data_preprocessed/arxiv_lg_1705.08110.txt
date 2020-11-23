@@ -1,0 +1,6 @@
+This/DT paper/NN unifies/VBZ two/CD lines/NNS of/IN work/NN on/IN multi-armed/JJ bandits/NNS ,/, Bandits/NNPS with/IN Knapsacks/NNP (/-LRB- BwK/NNP )/-RRB- and/CC semi-bandits/NNS ./.
+The/DT former/JJ concerns/NNS scenarios/NNS with/IN limited/JJ "/`` resources/NNS "/'' consumed/VBN by/IN the/DT algorithm/NN ,/, e.g./FW ,/, limited/JJ inventory/NN in/IN a/DT dynamic/JJ pricing/NN problem/NN ./.
+The/DT latter/JJ has/VBZ a/DT huge/JJ number/NN of/IN actions/NNS ,/, but/CC there/EX is/VBZ combinatorial/JJ structure/NN and/CC additional/JJ feedback/NN which/WDT makes/VBZ the/DT problem/NN tractable/JJ ./.
+Both/DT lines/NNS of/IN work/NN has/VBZ received/VBN considerable/JJ recent/JJ attention/NN ,/, and/CC are/VBP supported/VBN by/IN numerous/JJ application/NN examples/NNS ./.
+We/PRP define/VBP a/DT common/JJ generalization/NN ,/, and/CC design/VB a/DT general/JJ algorithm/NN for/IN this/DT model/NN ./.
+Our/PRP$ regret/NN rates/NNS are/VBP comparable/JJ with/IN those/DT for/IN BwK/NN and/CC semi-bandits/NNS in/IN general/JJ ,/, and/CC essentially/RB optimal/JJ for/IN important/JJ special/JJ cases/NNS ./.

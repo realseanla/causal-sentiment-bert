@@ -1,0 +1,10 @@
+Using/VBG deep/JJ learning/NN for/IN different/JJ machine/NN learning/NN tasks/NNS such/JJ as/IN image/NN classification/NN and/CC word/NN embedding/NN has/VBZ recently/RB gained/VBN many/JJ attentions/NNS ./.
+Its/PRP$ appealing/JJ performance/NN reported/VBD across/IN specific/JJ Natural/NNP Language/NNP Processing/NNP (/-LRB- NLP/NNP )/-RRB- tasks/NNS in/IN comparison/NN with/IN other/JJ approaches/NNS is/VBZ the/DT reason/NN for/IN its/PRP$ popularity/NN ./.
+Word/NN embedding/NN is/VBZ the/DT task/NN of/IN mapping/VBG words/NNS or/CC phrases/NNS to/IN a/DT low/JJ dimensional/JJ numerical/JJ vector/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP use/VBP deep/JJ learning/NN to/TO embed/VB Wikipedia/NNP Concepts/NNS and/CC Entities/NNS ./.
+The/DT English/NNP version/NN of/IN Wikipedia/NNP contains/VBZ more/JJR than/IN five/CD million/CD pages/NNS ,/, which/WDT suggest/VBP its/PRP$ capability/NN to/TO cover/VB many/JJ English/JJ Entities/NNS ,/, Phrases/NNS ,/, and/CC Concepts/NNS ./.
+Each/DT Wikipedia/NNP page/NN is/VBZ considered/VBN as/IN a/DT concept/NN ./.
+Some/DT concepts/NNS correspond/VBP to/IN entities/NNS ,/, such/JJ as/IN a/DT person/NN 's/POS name/NN ,/, an/DT organization/NN or/CC a/DT place/NN ./.
+Contrary/JJ to/IN word/NN embedding/NN ,/, Wikipedia/NNP Concepts/NNPS Embedding/NNP is/VBZ not/RB ambiguous/JJ ,/, so/RB there/RB are/VBP different/JJ vectors/NNS for/IN concepts/NNS with/IN similar/JJ surface/NN form/NN but/CC different/JJ mentions/VBZ ./.
+We/PRP proposed/VBD several/JJ approaches/NNS and/CC evaluated/VBD their/PRP$ performance/NN based/VBN on/IN Concept/NNP Analogy/NNP and/CC Concept/NNP Similarity/NNP tasks/NNS ./.
+The/DT results/NNS show/VBP that/IN proposed/VBN approaches/NNS have/VBP the/DT performance/NN comparable/JJ and/CC in/IN some/DT cases/NNS even/RB higher/JJR than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

@@ -1,0 +1,5 @@
+We/PRP investigate/VBP the/DT problem/NN of/IN sentence/NN -/HYPH level/NN supporting/VBG argument/NN detection/NN from/IN relevant/JJ documents/NNS for/IN user/NN -/HYPH specified/VBN claims/NNS ./.
+A/DT dataset/NN containing/VBG claims/NNS and/CC associated/VBN citation/NN articles/NNS is/VBZ collected/VBN from/IN online/JJ debate/NN website/NN idebate.org/ADD ./.
+We/PRP then/RB manually/RB label/NN sentence/NN -/HYPH level/NN supporting/VBG arguments/NNS from/IN the/DT documents/NNS along/IN with/IN their/PRP$ types/NNS as/IN study/NN ,/, factual/JJ ,/, opinion/NN ,/, or/CC reasoning/NN ./.
+We/PRP further/RB characterize/VB arguments/NNS of/IN different/JJ types/NNS ,/, and/CC explore/VB whether/IN leveraging/VBG type/NN information/NN can/MD facilitate/VB the/DT supporting/VBG arguments/NNS detection/NN task/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN LambdaMART/NNP (/-LRB- Burges/NNP ,/, 2010/CD )/-RRB- ranker/NN that/WDT uses/VBZ features/NNS informed/VBN by/IN argument/NN types/NNS yields/VBZ better/JJR performance/NN than/IN the/DT same/JJ ranker/NN trained/VBN without/IN type/NN information/NN ./.

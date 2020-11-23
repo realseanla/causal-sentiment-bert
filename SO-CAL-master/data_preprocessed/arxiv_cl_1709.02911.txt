@@ -1,0 +1,7 @@
+In/IN many/JJ modern/JJ day/NN systems/NNS such/JJ as/IN information/NN extraction/NN and/CC knowledge/NN management/NN agents/NNS ,/, ontologies/NNS play/VBP a/DT vital/JJ role/NN in/IN maintaining/VBG the/DT concept/NN hierarchies/NNS of/IN the/DT selected/VBN domain/NN ./.
+However/RB ,/, ontology/JJ population/NN has/VBZ become/VBN a/DT problematic/JJ process/NN due/IN to/IN its/PRP$ nature/NN of/IN heavy/JJ coupling/NN with/IN manual/JJ human/JJ intervention/NN ./.
+With/IN the/DT use/NN of/IN word/NN embeddings/NNS in/IN the/DT field/NN of/IN natural/JJ language/NN processing/NN ,/, it/PRP became/VBD a/DT popular/JJ topic/NN due/IN to/IN its/PRP$ ability/NN to/TO cope/VB up/RP with/IN semantic/JJ sensitivity/NN ./.
+Hence/RB ,/, in/IN this/DT study/NN ,/, we/PRP propose/VBP a/DT novel/JJ way/NN of/IN semi-supervised/VBN ontology/NN population/NN through/IN word/NN embeddings/NNS as/IN the/DT basis/NN ./.
+We/PRP built/VBD several/JJ models/NNS including/VBG traditional/JJ benchmark/NN models/NNS and/CC new/JJ types/NNS of/IN models/NNS which/WDT are/VBP based/VBN on/IN word/NN embeddings/NNS ./.
+Finally/RB ,/, we/PRP ensemble/NN them/PRP together/RB to/TO come/VB up/RP with/IN a/DT synergistic/JJ model/NN with/IN better/JJR accuracy/NN ./.
+We/PRP demonstrate/VBP that/IN our/PRP$ ensemble/NN model/NN can/MD outperform/VB the/DT individual/JJ models/NNS ./.

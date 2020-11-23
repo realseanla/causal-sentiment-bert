@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT efficient/JJ semidefinite/NN programming/NN (/-LRB- SDP/NN )/-RRB- approach/NN to/IN worst/JJS -/HYPH case/NN linear/JJ discriminant/JJ analysis/NN (/-LRB- WLDA/NN )/-RRB- ./.
+Compared/VBN with/IN the/DT traditional/JJ LDA/NN ,/, WLDA/NNP considers/VBZ the/DT dimensionality/NN reduction/NN problem/NN from/IN the/DT worst/JJS -/HYPH case/NN viewpoint/NN ,/, which/WDT is/VBZ in/IN general/JJ more/RBR robust/JJ for/IN classification/NN ./.
+However/RB ,/, the/DT original/JJ problem/NN of/IN WLDA/NNP is/VBZ non-convex/JJ and/CC difficult/JJ to/TO optimize/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP reformulate/VBP the/DT optimization/NN problem/NN of/IN WLDA/NNP into/IN a/DT sequence/NN of/IN semidefinite/JJ feasibility/NN problems/NNS ./.
+To/TO efficiently/RB solve/VB the/DT semidefinite/JJ feasibility/NN problems/NNS ,/, we/PRP design/VBP a/DT new/JJ scalable/JJ optimization/NN method/NN with/IN quasi-Newton/JJ methods/NNS and/CC eigen/NN -/HYPH decomposition/NN being/VBG the/DT core/NN components/NNS ./.
+The/DT proposed/JJ method/NN is/VBZ orders/NNS of/IN magnitude/NN faster/RBR than/IN standard/JJ interior/JJ -/HYPH point/NN based/VBN SDP/NN solvers/NNS ./.

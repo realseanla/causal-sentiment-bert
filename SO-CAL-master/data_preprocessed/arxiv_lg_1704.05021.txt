@@ -1,0 +1,6 @@
+We/PRP make/VBP distributed/VBN stochastic/JJ gradient/NN descent/NN faster/RBR by/IN exchanging/VBG 99/CD percent/NN sparse/JJ updates/NNS instead/RB of/IN dense/JJ updates/NNS ./.
+In/IN data/NN -/HYPH parallel/JJ training/NN ,/, nodes/NNS pull/VBP updated/VBN values/NNS of/IN the/DT parameters/NNS from/IN a/DT sharded/JJ server/NN ,/, compute/VB gradients/NNS ,/, push/VB their/PRP$ gradients/NNS to/IN the/DT server/NN ,/, and/CC repeat/NN ./.
+These/DT push/NN and/CC pull/VB updates/NNS strain/VB the/DT network/NN ./.
+However/RB ,/, most/JJS updates/NNS are/VBP near/IN zero/CD ,/, so/RB we/PRP map/VBP the/DT 99/CD percent/NN smallest/JJS updates/NNS (/-LRB- by/IN absolute/JJ value/NN )/-RRB- to/IN zero/CD then/RB exchange/NN sparse/JJ matrices/NNS ./.
+Even/RB simple/JJ coordinate/NN and/CC value/NN encoding/VBG achieves/VBZ 50x/NN reduction/NN in/IN bandwidth/NN ./.
+Our/PRP$ experiment/NN with/IN a/DT neural/JJ machine/NN translation/NN on/IN 4/CD GPUs/NNS achieved/VBD a/DT 22/CD percent/NN speed/NN boost/NN without/IN impacting/VBG BLEU/NNP score/NN ./.

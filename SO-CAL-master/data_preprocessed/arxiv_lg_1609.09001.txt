@@ -1,0 +1,9 @@
+Model/NN predictive/JJ control/NN (/-LRB- MPC/NN )/-RRB- is/VBZ a/DT popular/JJ control/NN method/NN that/WDT has/VBZ proved/VBN effective/JJ for/IN robotics/NNS ,/, among/IN other/JJ fields/NNS ./.
+MPC/NNP performs/VBZ re-planning/VBG at/IN every/DT time/NN step/NN ./.
+Re-planning/NN is/VBZ done/VBN with/IN a/DT limited/JJ horizon/NN per/IN computational/JJ and/CC real/JJ -/HYPH time/NN constraints/NNS and/CC often/RB also/RB for/IN robustness/NN to/IN potential/JJ model/NN errors/NNS ./.
+However/RB ,/, the/DT limited/JJ horizon/NN leads/VBZ to/IN suboptimal/JJ performance/NN ./.
+In/IN this/DT work/NN ,/, we/PRP consider/VBP the/DT iterative/JJ learning/NN setting/NN ,/, where/WRB the/DT same/JJ task/NN can/MD be/VB repeated/VBN several/JJ times/NNS ,/, and/CC propose/VB a/DT policy/NN improvement/NN scheme/NN for/IN MPC/NNP ./.
+The/DT main/JJ idea/NN is/VBZ that/IN between/IN executions/NNS we/PRP can/MD ,/, offline/RB ,/, run/VB MPC/NNP with/IN a/DT longer/JJR horizon/NN ,/, resulting/VBG in/IN a/DT hindsight/NN plan/NN ./.
+To/TO bring/VB the/DT next/JJ real/JJ -/HYPH world/NN execution/NN closer/RBR to/IN the/DT hindsight/NN plan/NN ,/, our/PRP$ approach/NN learns/VBZ to/IN re-shape/VB the/DT original/JJ cost/NN function/NN with/IN the/DT goal/NN of/IN satisfying/VBG the/DT following/VBG property/NN :/: short/JJ horizon/NN planning/NN (/-LRB- as/IN realistic/JJ during/IN real/JJ executions/NNS )/-RRB- with/IN respect/NN to/IN the/DT shaped/VBN cost/NN should/MD result/VB in/IN mimicking/VBG the/DT hindsight/NN plan/NN ./.
+This/DT effectively/RB consolidates/VBZ long/JJ -/HYPH term/NN reasoning/NN into/IN the/DT short/JJ -/HYPH horizon/NN planning/NN ./.
+We/PRP empirically/RB evaluate/VB our/PRP$ approach/NN in/IN contact/NN -/HYPH rich/JJ manipulation/NN tasks/NNS both/CC in/IN simulated/JJ and/CC real/JJ environments/NNS ,/, such/JJ as/IN peg/NN insertion/NN by/IN a/DT real/JJ PR2/NN robot/NN ./.

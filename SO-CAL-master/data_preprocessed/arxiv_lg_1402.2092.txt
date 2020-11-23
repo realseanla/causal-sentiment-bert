@@ -1,0 +1,8 @@
+How/WRB should/MD we/PRP present/VB training/NN examples/NNS to/IN learners/NNS to/TO teach/VB them/PRP classification/NN rules/NNS ?/.
+This/DT is/VBZ a/DT natural/JJ problem/NN when/WRB training/VBG workers/NNS for/IN crowdsourcing/VBG labeling/NN tasks/NNS ,/, and/CC is/VBZ also/RB motivated/VBN by/IN challenges/NNS in/IN data/NN -/HYPH driven/VBN online/JJ education/NN ./.
+We/PRP propose/VBP a/DT natural/JJ stochastic/JJ model/NN of/IN the/DT learners/NNS ,/, modeling/VBG them/PRP as/IN randomly/RB switching/VBG among/IN hypotheses/NNS based/VBN on/IN observed/VBN feedback/NN ./.
+We/PRP then/RB develop/VBP STRICT/NNP ,/, an/DT efficient/JJ algorithm/NN for/IN selecting/VBG examples/NNS to/TO teach/VB to/IN workers/NNS ./.
+Our/PRP$ solution/NN greedily/RB maximizes/VBZ a/DT submodular/JJ surrogate/JJ objective/NN function/NN in/IN order/NN to/TO select/VB examples/NNS to/TO show/VB to/IN the/DT learners/NNS ./.
+We/PRP prove/VBP that/IN our/PRP$ strategy/NN is/VBZ competitive/JJ with/IN the/DT optimal/JJ teaching/NN policy/NN ./.
+Moreover/RB ,/, for/IN the/DT special/JJ case/NN of/IN linear/JJ separators/NNS ,/, we/PRP prove/VBP that/IN an/DT exponential/JJ reduction/NN in/IN error/NN probability/NN can/MD be/VB achieved/VBN ./.
+Our/PRP$ experiments/NNS on/IN simulated/JJ workers/NNS as/RB well/RB as/IN three/CD real/JJ image/NN annotation/NN tasks/NNS on/IN Amazon/NNP Mechanical/NNP Turk/NNP show/VBP the/DT effectiveness/NN of/IN our/PRP$ teaching/NN algorithm/NN ./.

@@ -1,0 +1,7 @@
+We/PRP describe/VBP and/CC analyze/VBP a/DT simple/JJ random/JJ feature/NN scheme/NN (/-LRB- RFS/NN )/-RRB- from/IN prescribed/JJ compositional/JJ kernels/NNS ./.
+The/DT compositional/JJ kernels/NNS we/PRP use/VBP are/VBP inspired/VBN by/IN the/DT structure/NN of/IN convolutional/JJ neural/JJ networks/NNS and/CC kernels/NNS ./.
+The/DT resulting/VBG scheme/NN yields/NNS sparse/JJ and/CC efficiently/RB computable/JJ features/NNS ./.
+Each/DT random/JJ feature/NN can/MD be/VB represented/VBN as/IN an/DT algebraic/JJ expression/NN over/IN a/DT small/JJ number/NN of/IN (/-LRB- random/JJ )/-RRB- paths/NNS in/IN a/DT composition/NN tree/NN ./.
+Thus/RB ,/, compositional/JJ random/JJ features/NNS can/MD be/VB stored/VBN compactly/RB ./.
+The/DT discrete/JJ nature/NN of/IN the/DT generation/NN process/NN enables/VBZ de-duplication/NN of/IN repeated/VBN features/NNS ,/, further/RB compacting/VBG the/DT representation/NN and/CC increasing/VBG the/DT diversity/NN of/IN the/DT embeddings/NNS ./.
+Our/PRP$ approach/NN complements/VBZ and/CC can/MD be/VB combined/VBN with/IN previous/JJ random/JJ feature/NN schemes/NNS ./.

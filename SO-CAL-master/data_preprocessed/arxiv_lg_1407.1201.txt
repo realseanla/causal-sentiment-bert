@@ -1,0 +1,8 @@
+Self/NNP -/HYPH Organising/NNP Maps/NNPS (/-LRB- SOM/NNP )/-RRB- are/VBP Artificial/NNP Neural/JJ Networks/NNS used/VBN in/IN Pattern/NNP Recognition/NNP tasks/NNS ./.
+Their/PRP$ major/JJ advantage/NN over/IN other/JJ architectures/NNS is/VBZ human/JJ readability/NN of/IN a/DT model/NN ./.
+However/RB ,/, they/PRP often/RB gain/VBP poorer/JJR accuracy/NN ./.
+Mostly/RB used/VBN metric/JJ in/IN SOM/NNP is/VBZ the/DT Euclidean/JJ distance/NN ,/, which/WDT is/VBZ not/RB the/DT best/JJS approach/NN to/IN some/DT problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP an/DT impact/NN of/IN the/DT metric/JJ change/NN on/IN the/DT SOM/NNP 's/POS performance/NN in/IN classification/NN problems/NNS ./.
+In/IN order/NN to/TO change/VB the/DT metric/NN of/IN the/DT SOM/NNP we/PRP applied/VBD a/DT distance/NN metric/JJ learning/NN method/NN ,/, so/RB -/HYPH called/VBN '/`` Large/JJ Margin/NN Nearest/JJS Neighbour/NN '/'' ./.
+It/PRP computes/VBZ the/DT Mahalanobis/NNP matrix/NN ,/, which/WDT assures/VBZ small/JJ distance/NN between/IN nearest/JJS neighbour/NN points/NNS from/IN the/DT same/JJ class/NN and/CC separation/NN of/IN points/NNS belonging/VBG to/IN different/JJ classes/NNS by/IN large/JJ margin/NN ./.
+Results/NNS are/VBP presented/VBN on/IN several/JJ real/JJ data/NNS sets/NNS ,/, containing/VBG for/IN example/NN recognition/NN of/IN written/VBN digits/NNS ,/, spoken/VBN letters/NNS or/CC faces/NNS ./.

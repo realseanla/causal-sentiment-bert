@@ -1,0 +1,4 @@
+Binary/JJ Knapsack/NNP Problem/NNP (/-LRB- BKP/NNP )/-RRB- is/VBZ to/TO select/VB a/DT subset/NN of/IN an/DT element/NN (/-LRB- item/NN )/-RRB- set/VBN with/IN the/DT highest/JJS value/NN while/IN keeping/VBG the/DT total/JJ weight/NN within/IN the/DT capacity/NN of/IN the/DT knapsack/NN ./.
+This/DT paper/NN presents/VBZ an/DT integer/NN programming/NN model/NN for/IN a/DT variation/NN of/IN BKP/NNP where/WRB the/DT value/NN of/IN each/DT element/NN may/MD depend/VB on/IN selecting/VBG or/CC ignoring/VBG other/JJ elements/NNS ./.
+Strengths/NNS of/IN such/JJ Value/NN -/HYPH Related/JJ Dependencies/NNS are/VBP assumed/VBN to/TO be/VB imprecise/JJ and/CC hard/JJ to/TO specify/VB ./.
+To/TO capture/VB this/DT imprecision/NN ,/, we/PRP have/VBP proposed/VBN modeling/VBG value/NN -/HYPH related/VBN dependencies/NNS using/VBG fuzzy/JJ graphs/NNS and/CC their/PRP$ algebraic/JJ structure/NN ./.

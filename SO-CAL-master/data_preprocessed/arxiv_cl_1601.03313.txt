@@ -1,0 +1,8 @@
+In/IN this/DT report/NN we/PRP present/VBP a/DT system/NN that/WDT can/MD generate/VB political/JJ speeches/NNS for/IN a/DT desired/VBN political/JJ party/NN ./.
+Furthermore/RB ,/, the/DT system/NN allows/VBZ to/TO specify/VB whether/IN a/DT speech/NN should/MD hold/VB a/DT supportive/JJ or/CC opposing/JJ opinion/NN ./.
+The/DT system/NN relies/VBZ on/IN a/DT combination/NN of/IN several/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN NLP/NN methods/NNS which/WDT are/VBP discussed/VBN in/IN this/DT report/NN ./.
+These/DT include/VBP n/NN -/HYPH grams/NNS ,/, Justeson/NNP &amp;/CC Katz/NNP POS/NNP tag/NN filter/NN ,/, recurrent/JJ neural/JJ networks/NNS ,/, and/CC latent/JJ Dirichlet/NNP allocation/NN ./.
+Sequences/NNS of/IN words/NNS are/VBP generated/VBN based/VBN on/IN probabilities/NNS obtained/VBN from/IN two/CD underlying/VBG models/NNS :/: A/DT language/NN model/NN takes/VBZ care/NN of/IN the/DT grammatical/JJ correctness/NN while/IN a/DT topic/NN model/NN aims/VBZ for/IN textual/JJ consistency/NN ./.
+Both/DT models/NNS were/VBD trained/VBN on/IN the/DT Convote/NNP dataset/NN which/WDT contains/VBZ transcripts/NNS from/IN US/NNP congressional/JJ floor/NN debates/NNS ./.
+Furthermore/RB ,/, we/PRP present/VBP a/DT manual/NN and/CC an/DT automated/VBN approach/NN to/TO evaluate/VB the/DT quality/NN of/IN generated/VBN speeches/NNS ./.
+In/IN an/DT experimental/JJ evaluation/NN generated/VBN speeches/NNS have/VBP shown/VBN very/RB high/JJ quality/NN in/IN terms/NNS of/IN grammatical/JJ correctness/NN and/CC sentence/NN transitions/NNS ./.

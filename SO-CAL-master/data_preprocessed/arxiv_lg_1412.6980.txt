@@ -1,0 +1,9 @@
+We/PRP introduce/VBP Adam/NNP ,/, an/DT algorithm/NN for/IN first/JJ -/HYPH order/NN gradient/NN -/HYPH based/VBN optimization/NN of/IN stochastic/JJ objective/JJ functions/NNS ./.
+The/DT method/NN is/VBZ straightforward/JJ to/TO implement/VB and/CC is/VBZ based/VBN an/DT adaptive/JJ estimates/NNS of/IN lower/JJR -/HYPH order/NN moments/NNS of/IN the/DT gradients/NNS ./.
+The/DT method/NN is/VBZ computationally/RB efficient/JJ ,/, has/VBZ little/JJ memory/NN requirements/NNS and/CC is/VBZ well/RB suited/JJ for/IN problems/NNS that/WDT are/VBP large/JJ in/IN terms/NNS of/IN data/NNS and/CC //HYPH or/CC parameters/NNS ./.
+The/DT method/NN is/VBZ also/RB ap/RB -/HYPH propriate/VB for/IN non-stationary/JJ objectives/NNS and/CC problems/NNS with/IN very/RB noisy/JJ and/CC //HYPH or/CC sparse/JJ gradients/NNS ./.
+The/DT method/NN exhibits/VBZ invariance/NN to/IN diagonal/JJ rescaling/NN of/IN the/DT gradients/NNS by/IN adapting/VBG to/IN the/DT geometry/NN of/IN the/DT objective/JJ function/NN ./.
+The/DT hyper/JJ -/HYPH parameters/NNS have/VBP intuitive/JJ interpretations/NNS and/CC typically/RB require/VBP little/JJ tuning/NN ./.
+Some/DT connections/NNS to/IN related/JJ algorithms/NNS ,/, on/IN which/WDT Adam/NNP was/VBD inspired/VBN ,/, are/VBP discussed/VBN ./.
+We/PRP also/RB analyze/VB the/DT theoretical/JJ convergence/NN properties/NNS of/IN the/DT algorithm/NN and/CC provide/VB a/DT regret/NN bound/VBN on/IN the/DT convergence/NN rate/NN that/WDT is/VBZ comparable/JJ to/IN the/DT best/RBS known/VBN results/NNS under/IN the/DT online/JJ convex/NN optimization/NN framework/NN ./.
+We/PRP demonstrate/VBP that/IN Adam/NNP works/VBZ well/RB in/IN practice/NN when/WRB experimentally/RB compared/VBN to/IN other/JJ stochastic/JJ optimization/NN methods/NNS ./.

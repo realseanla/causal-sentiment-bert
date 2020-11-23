@@ -1,0 +1,4 @@
+We/PRP consider/VBP a/DT reinforcement/NN learning/VBG setting/VBG introduced/VBN in/IN (/-LRB- Maillard/NNP et/FW al./FW ,/, NIPS/NN 2011/CD )/-RRB- where/WRB the/DT learner/NN does/VBZ not/RB have/VB explicit/JJ access/NN to/IN the/DT states/NNS of/IN the/DT underlying/VBG Markov/NNP decision/NN process/NN (/-LRB- MDP/NN )/-RRB- ./.
+Instead/RB ,/, the/DT agent/NN only/RB has/VBZ several/JJ models/NNS that/WDT map/VBP histories/NNS of/IN past/JJ interactions/NNS to/IN states/NNS ./.
+Here/RB we/PRP improve/VBP over/IN known/VBN regret/NN bounds/NNS in/IN this/DT setting/NN and/CC more/RBR importantly/RB generalize/VB to/IN the/DT case/NN where/WRB the/DT models/NNS given/VBN to/IN the/DT learner/NN do/VBP not/RB contain/VB a/DT true/JJ model/NN giving/VBG an/DT MDP/NN representation/NN but/CC only/RB approximations/NNS of/IN it/PRP ./.
+We/PRP also/RB give/VBP improved/VBN error/NN bounds/NNS for/IN state/NN aggregation/NN ./.

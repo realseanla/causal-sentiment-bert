@@ -1,0 +1,9 @@
+Social/JJ media/NNS users/NNS often/RB make/VBP explicit/JJ predictions/NNS about/IN upcoming/JJ events/NNS ./.
+Such/JJ statements/NNS vary/VBP in/IN the/DT degree/NN of/IN certainty/NN the/DT author/NN expresses/VBZ toward/IN the/DT outcome/NN :/: "/`` Leonardo/NNP DiCaprio/NNP will/MD win/VB Best/JJS Actor/NN "/`` vs./FW "/'' Leonardo/NNP DiCaprio/NNP may/MD win/VB "/'' or/CC "/`` No/DT way/NN Leonardo/NNP wins/VBZ !/. "/''
+./.
+Can/MD popular/JJ beliefs/NNS on/IN social/JJ media/NNS predict/VBP who/WP will/MD win/VB ?/.
+To/TO answer/VB this/DT question/NN ,/, we/PRP build/VBP a/DT corpus/NN of/IN tweets/NNS annotated/VBN for/IN veridicality/NN on/IN which/WDT we/PRP train/VBP a/DT log/NN -/HYPH linear/JJ classifier/NN that/WDT detects/VBZ positive/JJ veridicality/NN with/IN high/JJ precision/NN ./.
+We/PRP then/RB forecast/VBD uncertain/JJ outcomes/NNS using/VBG the/DT wisdom/NN of/IN crowds/NNS ,/, by/IN aggregating/VBG users/NNS '/POS explicit/JJ predictions/NNS ./.
+Our/PRP$ method/NN for/IN forecasting/NN winners/NNS is/VBZ fully/RB automated/VBN ,/, relying/VBG only/RB on/IN a/DT set/NN of/IN contenders/NNS as/IN input/NN ./.
+It/PRP requires/VBZ no/DT training/NN data/NNS of/IN past/JJ outcomes/NNS and/CC outperforms/VBZ sentiment/NN and/CC tweet/NN volume/NN baselines/NNS on/IN a/DT broad/JJ range/NN of/IN contest/NN prediction/NN tasks/NNS ./.
+We/PRP further/RB demonstrate/VBP how/WRB our/PRP$ approach/NN can/MD be/VB used/VBN to/TO measure/VB the/DT reliability/NN of/IN individual/JJ accounts/NNS '/POS predictions/NNS and/CC retrospectively/RB identify/VB surprise/NN outcomes/NNS ./.

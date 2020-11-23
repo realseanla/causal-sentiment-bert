@@ -1,0 +1,5 @@
+The IDP knowledge base system currently uses MiniSAT(ID) as its backend Constraint Programming (CP) solver.
+A few similar systems have used a Mixed Integer Programming (MIP) solver as backend.
+However, so far little is known about when the MIP solver is preferable.
+This paper explores this question.
+It describes the use of CPLEX as a backend for IDP and reports on experiments comparing both backends.

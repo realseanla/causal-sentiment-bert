@@ -1,0 +1,6 @@
+The/DT margin/NN of/IN victory/NN is/VBZ easy/JJ to/TO compute/VB for/IN many/JJ election/NN schemes/NNS but/CC difficult/JJ for/IN Instant/NNP Runoff/NNP Voting/NNP (/-LRB- IRV/NNP )/-RRB- ./.
+This/DT is/VBZ important/JJ because/IN arguments/NNS about/IN the/DT correctness/NN of/IN an/DT election/NN outcome/NN usually/RB rely/VBP on/IN the/DT size/NN of/IN the/DT electoral/JJ margin/NN ./.
+For/IN example/NN ,/, risk/NN -/HYPH limiting/VBG audits/NN require/VBP a/DT knowledge/NN of/IN the/DT margin/NN of/IN victory/NN in/IN order/NN to/TO determine/VB how/WRB much/JJ auditing/NN is/VBZ necessary/JJ ./.
+This/DT paper/NN presents/VBZ a/DT practical/JJ branch/NN -/HYPH and/CC -/HYPH bound/VBN algorithm/NN for/IN exact/JJ IRV/NN margin/NN computation/NN that/WDT substantially/RB improves/VBZ on/IN the/DT current/JJ best/RBS -/HYPH known/VBN approach/NN ./.
+Although/IN exponential/JJ in/IN the/DT worst/JJS case/NN ,/, our/PRP$ algorithm/NN runs/VBZ efficiently/RB in/IN practice/NN on/IN all/PDT the/DT real/JJ examples/NNS we/PRP could/MD find/VB ./.
+We/PRP can/MD efficiently/RB discover/VB exact/JJ margins/NNS on/IN election/NN instances/NNS that/WDT can/MD not/RB be/VB solved/VBN by/IN the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ./.

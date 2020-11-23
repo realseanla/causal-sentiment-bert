@@ -1,0 +1,6 @@
+An/DT efficient/JJ algorithm/NN for/IN recurrent/JJ neural/JJ network/NN training/NN is/VBZ presented/VBN ./.
+The/DT approach/NN increases/VBZ the/DT training/NN speed/NN for/IN tasks/NNS where/WRB a/DT length/NN of/IN the/DT input/NN sequence/NN may/MD vary/VB significantly/RB ./.
+The/DT proposed/VBN approach/NN is/VBZ based/VBN on/IN the/DT optimal/JJ batch/NN bucketing/NN by/IN input/NN sequence/NN length/NN and/CC data/NNS parallelization/NN on/IN multiple/JJ graphical/JJ processing/NN units/NNS ./.
+The/DT baseline/NN training/NN performance/NN without/IN sequence/NN bucketing/NN is/VBZ compared/VBN with/IN the/DT proposed/VBN solution/NN for/IN a/DT different/JJ number/NN of/IN buckets/NNS ./.
+An/DT example/NN is/VBZ given/VBN for/IN the/DT online/JJ handwriting/NN recognition/NN task/NN using/VBG an/DT LSTM/NNP recurrent/JJ neural/JJ network/NN ./.
+The/DT evaluation/NN is/VBZ performed/VBN in/IN terms/NNS of/IN the/DT wall/NN clock/NN time/NN ,/, number/NN of/IN epochs/NNS ,/, and/CC validation/NN loss/NN value/NN ./.

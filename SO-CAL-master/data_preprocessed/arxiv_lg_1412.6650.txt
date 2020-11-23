@@ -1,0 +1,6 @@
+It/PRP is/VBZ today/NN acknowledged/VBD that/IN neural/JJ network/NN language/NN models/NNS outperform/VBP back/RB -/HYPH off/RB language/NN models/NNS in/IN applications/NNS like/IN speech/NN recognition/NN or/CC statistical/JJ machine/NN translation/NN ./.
+However/RB ,/, training/VBG these/DT models/NNS on/IN large/JJ amounts/NNS of/IN data/NNS can/MD take/VB several/JJ days/NNS ./.
+We/PRP present/VBP efficient/JJ techniques/NNS to/TO adapt/VB a/DT neural/JJ network/NN language/NN model/NN to/IN new/JJ data/NNS ./.
+Instead/RB of/IN training/VBG a/DT completely/RB new/JJ model/NN or/CC rely/VBP on/IN mixture/NN approaches/NNS ,/, we/PRP propose/VBP two/CD new/JJ methods/NNS :/: continued/JJ training/NN on/IN resampled/JJ data/NNS or/CC insertion/NN of/IN adaptation/NN layers/NNS ./.
+We/PRP present/VBP experimental/JJ results/NNS in/IN an/DT CAT/NN en/FW -/HYPH vironment/FW where/WRB the/DT post-edits/NNS of/IN professional/JJ translators/NNS are/VBP used/VBN to/TO improve/VB an/DT SMT/NN system/NN ./.
+Both/DT methods/NNS are/VBP very/RB fast/RB and/CC achieve/VB significant/JJ improvements/NNS without/IN over-fitting/VBG the/DT small/JJ adaptation/NN data/NNS ./.

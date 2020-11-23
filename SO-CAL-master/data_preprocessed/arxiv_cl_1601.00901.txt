@@ -1,0 +1,8 @@
+Semantic/JJ parsing/VBG methods/NNS are/VBP used/VBN for/IN capturing/NN and/CC representing/VBG semantic/JJ meaning/NN of/IN text/NN ./.
+Meaning/VBG representation/NN capturing/VBG all/PDT the/DT concepts/NNS in/IN the/DT text/NN may/MD not/RB always/RB be/VB available/JJ or/CC may/MD not/RB be/VB sufficiently/RB complete/JJ ./.
+Ontologies/NNS provide/VBP a/DT structured/JJ and/CC reasoning/NN -/HYPH capable/JJ way/NN to/TO model/VB the/DT content/NN of/IN a/DT collection/NN of/IN texts/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP present/VBP a/DT novel/JJ approach/NN to/IN joint/JJ learning/NN of/IN ontology/NN and/CC semantic/JJ parser/NN from/IN text/NN ./.
+The/DT method/NN is/VBZ based/VBN on/IN semi-automatic/JJ induction/NN of/IN a/DT context/NN -/HYPH free/JJ grammar/NN from/IN semantically/RB annotated/VBN text/NN ./.
+The/DT grammar/NN parses/VBZ the/DT text/NN into/IN semantic/JJ trees/NNS ./.
+Both/CC ,/, the/DT grammar/NN and/CC the/DT semantic/JJ trees/NNS are/VBP used/VBN to/TO learn/VB the/DT ontology/NN on/IN several/JJ levels/NNS --/: classes/NNS ,/, instances/NNS ,/, taxonomic/JJ and/CC non-taxonomic/JJ relations/NNS ./.
+The/DT approach/NN was/VBD evaluated/VBN on/IN the/DT first/JJ sentences/NNS of/IN Wikipedia/NNP pages/NNS describing/VBG people/NNS ./.

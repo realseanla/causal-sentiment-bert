@@ -1,0 +1,5 @@
+Vulnerability/NN of/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN deep/JJ neural/JJ networks/NNS to/IN adversarial/JJ attacks/NNS has/VBZ been/VBN attracting/VBG a/DT lot/NN of/IN attention/NN recently/RB ./.
+In/IN this/DT work/NN we/PRP propose/VBP a/DT new/JJ algorithm/NN for/IN constructing/VBG universal/JJ adversarial/JJ perturbations/NNS ./.
+Our/PRP$ approach/NN is/VBZ based/VBN on/IN computing/VBG the/DT so/RB called/VBN $/$ (/-LRB- p/NN ,/, q/NN )/-RRB- $/$ -/HYPH singular/JJ vectors/NNS of/IN the/DT Jacobian/JJ matrices/NNS of/IN hidden/JJ layers/NNS of/IN a/DT network/NN ./.
+Resulting/VBG perturbations/NNS present/JJ interesting/JJ visual/JJ patterns/NNS and/CC by/IN using/VBG a/DT batch/NN of/IN just/RB $/$ 64/CD $/$ images/NNS we/PRP can/MD construct/VB adversarial/JJ perturbations/NNS with/IN relatively/RB high/JJ fooling/NN rate/NN ./.
+We/PRP also/RB investigate/VB a/DT correlation/NN between/IN the/DT singular/JJ values/NNS of/IN the/DT Jacobian/JJ matrices/NNS and/CC the/DT fooling/NN rate/NN of/IN a/DT corresponding/VBG singular/JJ vector/NN ./.

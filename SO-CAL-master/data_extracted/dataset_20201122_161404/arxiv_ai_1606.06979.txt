@@ -1,0 +1,9 @@
+This paper contributes a preliminary report on the advantages and disadvantages of incorporating simultaneous human control and feedback signals in the training of a reinforcement learning robotic agent.
+While robotic human-machine interfaces have become increasingly complex in both form and function, control remains challenging for users.
+This has resulted in an increasing gap between user control approaches and the number of robotic motors which can be controlled.
+One way to address this gap is to shift some autonomy to the robot.
+Semi-autonomous actions of the robotic agent can then be shaped by human feedback, simplifying user control.
+Most prior work on agent shaping by humans has incorporated training with feedback, or has included indirect control signals.
+By contrast, in this paper we explore how a human can provide concurrent feedback signals and real-time myoelectric control signals to train a robot's actor-critic reinforcement learning control system.
+Using both a physical and a simulated robotic system, we compare training performance on a simple movement task when reward is derived from the environment, when reward is provided by the human, and combinations of these two approaches.
+Our results indicate that some benefit can be gained with the inclusion of human generated feedback.

@@ -1,0 +1,7 @@
+Sentence/NN simplification/NN reduces/VBZ semantic/JJ complexity/NN to/TO benefit/VB people/NNS with/IN language/NN impairments/NNS ./.
+Previous/JJ simplification/NN studies/NNS on/IN the/DT sentence/NN level/NN and/CC word/NN level/NN have/VBP achieved/VBN promising/JJ results/NNS but/CC also/RB meet/VBP great/JJ challenges/NNS ./.
+For/IN sentence/NN -/HYPH level/NN studies/NNS ,/, sentences/NNS after/IN simplification/NN are/VBP fluent/JJ but/CC sometimes/RB are/VBP not/RB really/RB simplified/JJ ./.
+For/IN word/NN -/HYPH level/NN studies/NNS ,/, words/NNS are/VBP simplified/VBN but/CC also/RB have/VBP potential/JJ grammar/NN errors/NNS due/IN to/IN different/JJ usages/NNS of/IN words/NNS before/RB and/CC after/IN simplification/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT two/CD -/HYPH step/NN simplification/NN framework/NN by/IN combining/VBG both/CC the/DT word/NN -/HYPH level/NN and/CC the/DT sentence/NN -/HYPH level/NN simplifications/NNS ,/, making/VBG use/NN of/IN their/PRP$ corresponding/VBG advantages/NNS ./.
+Based/VBN on/IN the/DT two/CD -/HYPH step/NN framework/NN ,/, we/PRP implement/VBP a/DT novel/JJ constrained/JJ neural/JJ generation/NN model/NN to/TO simplify/VB sentences/NNS given/VBN simplified/JJ words/NNS ./.
+The/DT final/JJ results/NNS on/IN Wikipedia/NNP and/CC Simple/JJ Wikipedia/NNP aligned/VBN datasets/NNS indicate/VBP that/IN our/PRP$ method/NN yields/VBZ better/JJR performance/NN than/IN various/JJ baselines/NNS ./.

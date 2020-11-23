@@ -1,0 +1,10 @@
+Although many anti-theft technologies are implemented, auto-theft is still increasing.
+Also, security vulnerabilities of cars can be used for auto-theft by neutralizing anti-theft system.
+This keyless auto-theft attack will be increased as cars adopt computerized electronic devices more.
+To detect auto-theft efficiently, we propose the driver verification method that analyzes driving patterns using measurements from the sensor in the vehicle.
+In our model, we add mechanical features of automotive parts that are excluded in previous works, but can be differentiated by drivers' driving behaviors.
+We design the model that uses significant features through feature selection to reduce the time cost of feature processing and improve the detection performance.
+Further, we enrich the feature set by deriving statistical features such as mean, median, and standard deviation.
+This minimizes the effect of fluctuation of feature values per driver and finally generates the reliable model.
+We also analyze the effect of the size of sliding window on performance to detect the time point when the detection becomes reliable and to inform owners the theft event as soon as possible.
+We apply our model with real driving and show the contribution of our work to the literature of driver identification.

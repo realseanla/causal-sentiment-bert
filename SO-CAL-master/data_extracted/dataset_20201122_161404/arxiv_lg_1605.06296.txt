@@ -1,0 +1,6 @@
+In most practical problems of classifier learning, the training data suffers from the label noise.
+Hence, it is important to understand how robust is a learning algorithm to such label noise.
+Experimentally, Decision trees have been found to be more robust against label noise than SVM and logistic regression.
+This paper presents some theoretical results to show that decision tree algorithms are robust to symmetric label noise under the assumption of large sample size.
+We also present some sample complexity results for this robustness.
+Through extensive simulations we illustrate this robustness.

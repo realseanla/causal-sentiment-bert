@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT multigrid/JJ extension/NN of/IN convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- ./.
+Rather/RB than/IN manipulating/VBG representations/NNS living/VBG on/IN a/DT single/JJ spatial/JJ grid/NN ,/, our/PRP$ network/NN layers/NNS operate/VBP across/IN scale/NN space/NN ,/, on/IN a/DT pyramid/NN of/IN tensors/NNS ./.
+They/PRP consume/VBP multigrid/JJ inputs/NNS and/CC produce/VBP multigrid/JJ outputs/NNS ;/: convolutional/JJ filters/NNS themselves/PRP have/VBP both/DT within/IN -/HYPH scale/NN and/CC cross-scale/JJ extent/NN ./.
+This/DT aspect/NN is/VBZ distinct/JJ from/IN simple/JJ multiscale/JJ designs/NNS ,/, which/WDT only/RB process/VBP the/DT input/NN at/IN different/JJ scales/NNS ./.
+Viewed/VBN in/IN terms/NNS of/IN information/NN flow/NN ,/, a/DT multigrid/JJ network/NN passes/VBZ messages/NNS across/IN a/DT spatial/JJ pyramid/NN ./.
+As/IN a/DT consequence/NN ,/, receptive/JJ field/NN size/NN grows/VBZ exponentially/RB with/IN depth/NN ,/, facilitating/VBG rapid/JJ integration/NN of/IN context/NN ./.
+Most/JJS critically/RB ,/, multigrid/JJ structure/NN enables/VBZ networks/NNS to/TO learn/VB internal/JJ attention/NN and/CC dynamic/JJ routing/NN mechanisms/NNS ,/, and/CC use/VB them/PRP to/TO accomplish/VB tasks/NNS on/IN which/WDT modern/JJ CNNs/NNS fail/VBP ./.

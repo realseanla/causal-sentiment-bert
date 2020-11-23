@@ -1,0 +1,8 @@
+We/PRP address/VBP an/DT important/JJ problem/NN in/IN sequence/NN -/HYPH to/IN -/HYPH sequence/NN (/-LRB- Seq2Seq/NN )/-RRB- learning/VBG referred/VBN to/IN as/IN copying/NN ,/, in/IN which/WDT certain/JJ segments/NNS in/IN the/DT input/NN sequence/NN are/VBP selectively/RB replicated/VBN in/IN the/DT output/NN sequence/NN ./.
+A/DT similar/JJ phenomenon/NN is/VBZ observable/JJ in/IN human/JJ language/NN communication/NN ./.
+For/IN example/NN ,/, humans/NNS tend/VBP to/TO repeat/VB entity/NN names/NNS or/CC even/RB long/JJ phrases/NNS in/IN conversation/NN ./.
+The/DT challenge/NN with/IN regard/NN to/IN copying/NN in/IN Seq2Seq/NN is/VBZ that/IN new/JJ machinery/NN is/VBZ needed/VBN to/TO decide/VB when/WRB to/TO perform/VB the/DT operation/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP incorporate/VBP copying/VBG into/IN neural/JJ network/NN -/HYPH based/VBN Seq2Seq/NN learning/NN and/CC propose/VB a/DT new/JJ model/NN called/VBN CopyNet/NNP with/IN encoder/NN -/HYPH decoder/NN structure/NN ./.
+CopyNet/NNP can/MD nicely/RB integrate/VB the/DT regular/JJ way/NN of/IN word/NN generation/NN in/IN the/DT decoder/NN with/IN the/DT new/JJ copying/NN mechanism/NN which/WDT can/MD choose/VB sub-sequences/NNS in/IN the/DT input/NN sequence/NN and/CC put/VB them/PRP at/IN proper/JJ places/NNS in/IN the/DT output/NN sequence/NN ./.
+Our/PRP$ empirical/JJ study/NN on/IN both/DT synthetic/JJ data/NN sets/NNS and/CC real/JJ world/NN data/NN sets/NNS demonstrates/VBZ the/DT efficacy/NN of/IN CopyNet/NNP ./.
+For/IN example/NN ,/, CopyNet/NNP can/MD outperform/VB regular/JJ RNN/NN -/HYPH based/VBN model/NN with/IN remarkable/JJ margins/NNS on/IN text/NN summarization/NN tasks/NNS ./.

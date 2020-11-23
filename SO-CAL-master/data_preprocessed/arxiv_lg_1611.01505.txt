@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT simple/JJ and/CC efficient/JJ method/NN for/IN improving/VBG stochastic/JJ gradient/NN descent/NN methods/NNS by/IN using/VBG feedback/NN from/IN the/DT objective/JJ function/NN ./.
+The/DT method/NN tracks/VBZ the/DT relative/JJ changes/NNS in/IN the/DT objective/JJ function/NN with/IN a/DT running/VBG average/NN ,/, and/CC uses/VBZ it/PRP to/IN adaptively/RB tune/VB the/DT learning/NN rate/NN in/IN stochastic/JJ gradient/NN descent/NN ./.
+We/PRP specifically/RB apply/VBP this/DT idea/NN to/TO modify/VB Adam/NNP ,/, a/DT popular/JJ algorithm/NN for/IN training/NN deep/JJ neural/JJ networks/NNS ./.
+We/PRP conduct/VBP experiments/NNS to/TO compare/VB the/DT resulting/VBG algorithm/NN ,/, which/WDT we/PRP call/VBP Eve/NNP ,/, with/IN state/NN of/IN the/DT art/NN methods/NNS used/VBN for/IN training/NN deep/JJ learning/NN models/NNS ./.
+We/PRP train/VBP CNNs/NNS for/IN image/NN classification/NN ,/, and/CC RNNs/NNS for/IN language/NN modeling/NN and/CC question/NN answering/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN Eve/NNP outperforms/VBZ all/DT other/JJ algorithms/NNS on/IN these/DT benchmark/NN tasks/NNS ./.
+We/PRP also/RB analyze/VB the/DT behavior/NN of/IN the/DT feedback/NN mechanism/NN during/IN the/DT training/NN process/NN ./.

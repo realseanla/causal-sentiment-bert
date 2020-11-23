@@ -1,0 +1,3 @@
+In event-driven programming frameworks, such as Android, the client and the framework interact using callins (framework methods that the client invokes) and callbacks (client methods that the framework invokes).
+The protocols for interacting with these frameworks can often be described by finite-state machines we dub *asynchronous typestates*.
+Asynchronous typestates are akin to classical typestates, with the key difference that their outputs (callbacks) are produced asynchronously.

@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT first/JJ experiments/NNS using/VBG neural/JJ network/NN models/NNS for/IN the/DT task/NN of/IN error/NN detection/NN in/IN learner/NN writing/NN ./.
+We/PRP perform/VBP a/DT systematic/JJ comparison/NN of/IN alternative/JJ compositional/JJ architectures/NNS and/CC propose/VB a/DT framework/NN for/IN error/NN detection/NN based/VBN on/IN bidirectional/JJ LSTMs/NNS ./.
+Experiments/NNS on/IN the/DT CoNLL/NN -/HYPH 14/CD shared/VBD task/NN dataset/NN show/VBP the/DT model/NN is/VBZ able/JJ to/TO outperform/VB other/JJ participants/NNS on/IN detecting/VBG errors/NNS in/IN learner/NN writing/NN ./.
+Finally/RB ,/, the/DT model/NN is/VBZ integrated/VBN with/IN a/DT publicly/RB deployed/VBN self/NN -/HYPH assessment/NN system/NN ,/, leading/VBG to/IN performance/NN comparable/JJ to/IN human/JJ annotators/NNS ./.

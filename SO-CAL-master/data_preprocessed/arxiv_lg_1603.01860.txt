@@ -1,0 +1,5 @@
+We/PRP consider/VBP the/DT generalization/NN ability/NN of/IN algorithms/NNS for/IN learning/VBG to/IN rank/NN at/IN a/DT query/NN level/NN ,/, a/DT problem/NN also/RB called/VBD subset/NN ranking/NN ./.
+Existing/VBG generalization/NN error/NN bounds/NNS necessarily/RB degrade/VB as/IN the/DT size/NN of/IN the/DT document/NN list/NN associated/VBN with/IN a/DT query/NN increases/NNS ./.
+We/PRP show/VBP that/IN such/PDT a/DT degradation/NN is/VBZ not/RB intrinsic/JJ to/IN the/DT problem/NN ./.
+For/IN several/JJ loss/NN functions/NNS ,/, including/VBG the/DT cross-entropy/JJ loss/NN used/VBN in/IN the/DT well/RB known/VBN ListNet/NNP method/NN ,/, there/EX is/VBZ \/SYM emph/NN {/-LRB- no/DT }/-RRB- degradation/NN in/IN generalization/NN ability/NN as/IN document/NN lists/NNS become/VBP longer/RBR ./.
+We/PRP also/RB provide/VBP novel/JJ generalization/NN error/NN bounds/NNS under/IN $/$ \/CD ell_1/CD $/$ regularization/CD and/CC faster/JJR convergence/NN rates/NNS if/IN the/DT loss/NN function/NN is/VBZ smooth/JJ ./.

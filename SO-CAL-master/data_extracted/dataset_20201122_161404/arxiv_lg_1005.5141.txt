@@ -1,0 +1,5 @@
+This paper proposes some extensions to the work on kernels dedicated to string alignment (biological sequence alignment) based on the summing up of scores obtained by local alignments with gaps.
+The extensions we propose allow to construct, from classical time warp distances, what we called summative time warp kernels that are positive definite if some simple sufficient conditions are satisfied.
+Furthermore, from the same formalism, we derive a time warp inner product that extend the usual euclidean inner product, providing the capability to handle discrete sequences or time series of variable lengths in an Hilbert space.
+The classification experiment we conducted, using either first near neighbor classifier or Support Vector Machine classifier leads to conclude that the positive definite elastic kernels we propose outperform the distance substituting kernels for the classical elastic distances we tested.
+In a similar way, the kernel based on the distance induced by the time warp inner product outperforms significantly on the considered task the kernel based on the euclidean distance.

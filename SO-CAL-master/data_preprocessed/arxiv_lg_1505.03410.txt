@@ -1,0 +1,7 @@
+Screening/NN rules/NNS allow/VBP to/TO early/RB discard/VB irrelevant/JJ variables/NNS from/IN the/DT optimization/NN in/IN Lasso/NNP problems/NNS ,/, or/CC its/PRP$ derivatives/NNS ,/, making/VBG solvers/NNS faster/RBR ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP new/JJ versions/NNS of/IN the/DT so/RB -/HYPH called/VBN $/$ \/SYM textit/FW {/-LRB- safe/JJ rules/NNS }/-RRB- $/$ for/IN the/DT Lasso/NNP ./.
+Based/VBN on/IN duality/NN gap/NN considerations/NNS ,/, our/PRP$ new/JJ rules/NNS create/VBP safe/JJ test/NN regions/NNS whose/WP$ diameters/NNS converge/VBP to/IN zero/CD ,/, provided/VBD that/IN one/CD relies/VBZ on/IN a/DT converging/VBG solver/NN ./.
+This/DT property/NN helps/VBZ screening/VBG out/RP more/JJR variables/NNS ,/, for/IN a/DT wider/JJR range/NN of/IN regularization/NN parameter/NN values/NNS ./.
+In/IN addition/NN to/IN faster/RBR convergence/NN ,/, we/PRP prove/VBP that/IN we/PRP correctly/RB identify/VB the/DT active/JJ sets/NNS (/-LRB- supports/NNS )/-RRB- of/IN the/DT solutions/NNS in/IN finite/JJ time/NN ./.
+While/IN our/PRP$ proposed/VBN strategy/NN can/MD cope/VB with/IN any/DT solver/NN ,/, its/PRP$ performance/NN is/VBZ demonstrated/VBN using/VBG a/DT coordinate/JJ descent/NN algorithm/NN particularly/RB adapted/VBD to/IN machine/NN learning/NN use/NN cases/NNS ./.
+Significant/JJ computing/NN time/NN reductions/NNS are/VBP obtained/VBN with/IN respect/NN to/IN previous/JJ safe/JJ rules/NNS ./.

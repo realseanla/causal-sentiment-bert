@@ -1,0 +1,6 @@
+This/DT work/NN concerns/NNS learning/VBG probabilistic/JJ models/NNS for/IN ranking/VBG data/NNS in/IN a/DT heterogeneous/JJ population/NN ./.
+The/DT specific/JJ problem/NN we/PRP study/VBP is/VBZ learning/VBG the/DT parameters/NNS of/IN a/DT Mallows/NNP Mixture/NNP Model/NNP ./.
+Despite/IN being/VBG widely/RB studied/VBN ,/, current/JJ heuristics/NNS for/IN this/DT problem/NN do/VBP not/RB have/VB theoretical/JJ guarantees/NNS and/CC can/MD get/VB stuck/VBN in/RB bad/JJ local/JJ optima/NN ./.
+We/PRP present/VBP the/DT first/JJ polynomial/JJ time/NN algorithm/NN which/WDT provably/RB learns/VBZ the/DT parameters/NNS of/IN a/DT mixture/NN of/IN two/CD Mallows/NNPS models/NNS ./.
+A/DT key/JJ component/NN of/IN our/PRP$ algorithm/NN is/VBZ a/DT novel/JJ use/NN of/IN tensor/NN decomposition/NN techniques/NNS to/TO learn/VB the/DT top/JJ -/HYPH k/NN prefix/NN in/IN both/CC the/DT rankings/NNS ./.
+Before/IN this/DT work/NN ,/, even/RB the/DT question/NN of/IN identifiability/NN in/IN the/DT case/NN of/IN a/DT mixture/NN of/IN two/CD Mallows/NNPS models/NNS was/VBD unresolved/JJ ./.

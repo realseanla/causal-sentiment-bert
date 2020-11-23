@@ -1,0 +1,5 @@
+Semi-supervised learning becomes one of the most significant problems nowadays since the size of datasets is increasing tremendously while labeled data is limited.
+We propose a new semi-supervised learning method for sequence classification tasks.
+Our work is based on both deep generative model for semi-supervised learning  and variational auto-encoder for sequence modeling .
+We found the introduction of Sc-LSTM is critical to the success in our method.
+We have obtained some preliminary experimental results on IMDB sentiment classification dataset, showing that the proposed model improves the classification accuracy comparing to pure supervised classifier.

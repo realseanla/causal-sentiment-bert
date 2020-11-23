@@ -1,0 +1,11 @@
+Deep/JJ learning/NN has/VBZ made/VBN significant/JJ breakthroughs/NNS in/IN various/JJ fields/NNS of/IN artificial/JJ intelligence/NN ./.
+Advantages/NNS of/IN deep/JJ learning/NN include/VBP the/DT ability/NN to/TO capture/VB highly/RB complicated/JJ features/NNS ,/, weak/JJ involvement/NN of/IN human/JJ engineering/NN ,/, etc/FW ./.
+However/RB ,/, it/PRP is/VBZ still/RB virtually/RB impossible/JJ to/TO use/VB deep/JJ learning/NN to/TO analyze/VB programs/NNS since/IN deep/JJ architectures/NNS can/MD not/RB be/VB trained/VBN effectively/RB with/IN pure/JJ back/RB propagation/NN ./.
+In/IN this/DT pioneering/JJ paper/NN ,/, we/PRP propose/VBP the/DT "/`` coding/VBG criterion/NN "/'' to/TO build/VB program/NN vector/NN representations/NNS ,/, which/WDT are/VBP the/DT premise/NN of/IN deep/JJ learning/NN for/IN program/NN analysis/NN ./.
+Our/PRP$ representation/NN learning/VBG approach/NN directly/RB makes/VBZ deep/JJ learning/VBG a/DT reality/NN in/IN this/DT new/JJ field/NN ./.
+We/PRP evaluate/VBP the/DT learned/VBN vector/NN representations/NNS both/CC qualitatively/RB and/CC quantitatively/RB ./.
+We/PRP conclude/VBP ,/, based/VBN on/IN the/DT experiments/NNS ,/, the/DT coding/VBG criterion/NN is/VBZ successful/JJ in/IN building/VBG program/NN representations/NNS ./.
+To/TO evaluate/VB whether/IN deep/JJ learning/NN is/VBZ beneficial/JJ for/IN program/NN analysis/NN ,/, we/PRP feed/VBP the/DT representations/NNS to/IN deep/JJ neural/JJ networks/NNS ,/, and/CC achieve/VB higher/JJR accuracy/NN in/IN the/DT program/NN classification/NN task/NN than/IN "/`` shallow/JJ "/'' methods/NNS ,/, such/JJ as/IN logistic/JJ regression/NN and/CC the/DT support/NN vector/NN machine/NN ./.
+This/DT result/NN confirms/VBZ the/DT feasibility/NN of/IN deep/JJ learning/NN to/TO analyze/VB programs/NNS ./.
+It/PRP also/RB gives/VBZ primary/JJ evidence/NN of/IN its/PRP$ success/NN in/IN this/DT new/JJ field/NN ./.
+We/PRP believe/VBP deep/JJ learning/NN will/MD become/VB an/DT outstanding/JJ technique/NN for/IN program/NN analysis/NN in/IN the/DT near/JJ future/NN ./.

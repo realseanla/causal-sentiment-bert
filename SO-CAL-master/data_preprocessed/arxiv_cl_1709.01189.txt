@@ -1,0 +1,7 @@
+Satirical/JJ news/NN is/VBZ considered/VBN to/TO be/VB entertainment/NN ,/, but/CC it/PRP is/VBZ potentially/RB deceptive/JJ and/CC harmful/JJ ./.
+Despite/IN the/DT embedded/VBN genre/NN in/IN the/DT article/NN ,/, not/RB everyone/NN can/MD recognize/VB the/DT satirical/JJ cues/NNS and/CC therefore/RB believe/VBP the/DT news/NN as/IN true/JJ news/NN ./.
+We/PRP observe/VBP that/IN satirical/JJ cues/NNS are/VBP often/RB reflected/VBN in/IN certain/JJ paragraphs/NNS rather/RB than/IN the/DT whole/JJ document/NN ./.
+Existing/VBG works/NNS only/RB consider/VBP document/NN -/HYPH level/NN features/NNS to/TO detect/VB the/DT satire/NN ,/, which/WDT could/MD be/VB limited/VBN ./.
+We/PRP consider/VBP paragraph/NN -/HYPH level/NN linguistic/JJ features/NNS to/TO unveil/VB the/DT satire/NN by/IN incorporating/VBG neural/JJ network/NN and/CC attention/NN mechanism/NN ./.
+We/PRP investigate/VBP the/DT difference/NN between/IN paragraph/NN -/HYPH level/NN features/NNS and/CC document/NN -/HYPH level/NN features/NNS ,/, and/CC analyze/VB them/PRP on/IN a/DT large/JJ satirical/JJ news/NN dataset/NN ./.
+The/DT evaluation/NN shows/VBZ that/IN the/DT proposed/VBN model/NN detects/VBZ satirical/JJ news/NN effectively/RB and/CC reveals/VBZ what/WP features/NNS are/VBP important/JJ at/IN which/WDT level/NN ./.

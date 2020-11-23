@@ -1,0 +1,8 @@
+Most of the existing information retrieval systems are based on bag of words model and are not equipped with common world knowledge.
+Work has been done towards improving the efficiency of such systems by using intelligent algorithms to generate search queries, however, not much research has been done in the direction of incorporating human-and-society level knowledge in the queries.
+This paper is one of the first attempts where such information is incorporated into the search queries using Wikipedia semantics.
+The paper presents an essential shift from conventional token based queries to concept based queries, leading to an enhanced efficiency of information retrieval systems.
+To efficiently handle the automated query learning problem, we propose Wikipedia-based Evolutionary Semantics (Wiki-ES) framework where concept based queries are learnt using a co-evolving evolutionary procedure.
+Learning concept based queries using an intelligent evolutionary procedure yields significant improvement in performance which is shown through an extensive study using Reuters newswire documents.
+Comparison of the proposed framework is performed with other information retrieval systems.
+Concept based approach has also been implemented on other information retrieval systems to justify the effectiveness of a transition from token based queries to concept based queries.

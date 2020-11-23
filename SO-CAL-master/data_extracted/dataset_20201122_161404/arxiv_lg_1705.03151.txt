@@ -1,0 +1,6 @@
+Deep neural models, particularly the LSTM-RNN model, have shown great potential in language identification (LID).
+However, the phonetic information has been largely overlooked by most of existing neural LID methods, although this information has been used in the conventional phonetic LID systems with a great success.
+We present a phonetic temporal neural model for LID, which is an LSTM-RNN LID system but accepts phonetic features produced by a phone-discriminative DNN as the input, rather than raw acoustic features.
+This new model is a reminiscence of the old phonetic LID methods, but the phonetic knowledge here is much richer: it is at the frame level and involves compacted information of all phones.
+Our experiments conducted on the Babel database and the AP16-OLR database demonstrate that the temporal phonetic neural approach is very effective, and significantly outperforms existing acoustic neural models.
+It also outperforms the conventional i-vector approach on short utterances and in noisy conditions.

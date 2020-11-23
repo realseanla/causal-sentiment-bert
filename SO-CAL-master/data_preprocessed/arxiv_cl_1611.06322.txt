@@ -1,0 +1,7 @@
+Rumour/NNP detection/NN is/VBZ hard/JJ because/IN the/DT most/RBS accurate/JJ systems/NNS operate/VBP retrospectively/RB ,/, only/RB recognizing/VBG rumours/NNS once/IN they/PRP have/VBP collected/VBN repeated/VBN signals/NNS ./.
+By/IN then/RB the/DT rumours/NNS might/MD have/VB already/RB spread/VBN and/CC caused/VBN harm/NN ./.
+We/PRP introduce/VBP a/DT new/JJ category/NN of/IN features/NNS based/VBN on/IN novelty/NN ,/, tailored/VBN to/TO detect/VB rumours/NNS early/RB on/IN ./.
+To/TO compensate/VB for/IN the/DT absence/NN of/IN repeated/VBN signals/NNS ,/, we/PRP make/VBP use/NN of/IN news/NN wire/NN as/IN an/DT additional/JJ data/NNS source/NN ./.
+Unconfirmed/JJ (/-LRB- novel/JJ )/-RRB- information/NN with/IN respect/NN to/IN the/DT news/NN articles/NNS is/VBZ considered/VBN as/IN an/DT indication/NN of/IN rumours/NNS ./.
+Additionally/RB we/PRP introduce/VBP pseudo/JJ feedback/NN ,/, which/WDT assumes/VBZ that/IN documents/NNS that/WDT are/VBP similar/JJ to/IN previous/JJ rumours/NNS ,/, are/VBP more/RBR likely/JJ to/TO also/RB be/VB a/DT rumour/NN ./.
+Comparison/NN with/IN other/JJ real/JJ -/HYPH time/NN approaches/NNS shows/VBZ that/IN novelty/NN based/VBN features/NNS in/IN conjunction/NN with/IN pseudo/JJ feedback/NN perform/VBP significantly/RB better/JJR ,/, when/WRB detecting/VBG rumours/NNS instantly/RB after/IN their/PRP$ publication/NN ./.

@@ -1,0 +1,6 @@
+This work presents a model for the Tramp Ship Scheduling problem including berth allocation considerations, motivated by a real case of a shipping company.
+The aim is to determine the travel schedule for each vessel considering multiple docking and multiple time windows at the berths.
+This work is innovative due to the consideration of both spatial and temporal attributes during the scheduling process.
+The resulting model is formulated as a mixed-integer linear programming problem, and a heuristic method to deal with multiple vessel schedules is also presented.
+Numerical experimentation is performed to highlight the benefits of the proposed approach and the applicability of the heuristic.
+Conclusions and recommendations for further research are provided.

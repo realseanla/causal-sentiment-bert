@@ -1,0 +1,6 @@
+Keyword/NNP spotting/NN (/-LRB- KWS/NN )/-RRB- constitutes/VBZ a/DT major/JJ component/NN of/IN human/JJ -/HYPH technology/NN interfaces/VBZ ./.
+Maximizing/VBG the/DT detection/NN accuracy/NN at/IN a/DT low/JJ false/JJ alarm/NN (/-LRB- FA/NN )/-RRB- rate/NN ,/, while/IN minimizing/VBG the/DT footprint/NN size/NN ,/, latency/NN and/CC complexity/NN are/VBP the/DT goals/NNS for/IN KWS/NNP ./.
+Towards/IN achieving/VBG them/PRP ,/, we/PRP study/VBP Convolutional/NNP Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- CRNNs/NNS )/-RRB- ./.
+Inspired/VBN by/IN large/JJ -/HYPH scale/NN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN speech/NN recognition/NN systems/NNS ,/, we/PRP combine/VBP the/DT strengths/NNS of/IN convolutional/JJ layers/NNS and/CC recurrent/JJ layers/NNS to/TO exploit/VB local/JJ structure/NN and/CC long/JJ -/HYPH range/NN context/NN ./.
+We/PRP analyze/VBP the/DT effect/NN of/IN architecture/NN parameters/NNS ,/, and/CC propose/VB training/NN strategies/NNS to/TO improve/VB performance/NN ./.
+With/IN only/RB ~/SYM 230k/RB parameters/NNS ,/, our/PRP$ CRNN/NNP model/NN yields/NNS acceptably/RB low/JJ latency/NN ,/, and/CC achieves/VBZ 97.71/CD percent/NN accuracy/NN at/IN 0.5/CD FA/NN //HYPH hour/NN for/IN 5/CD dB/NN signal/NN -/HYPH to/IN -/HYPH noise/NN ratio/NN ./.

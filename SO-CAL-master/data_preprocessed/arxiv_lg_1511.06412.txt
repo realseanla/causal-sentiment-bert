@@ -1,0 +1,7 @@
+While/IN the/DT current/JJ trend/NN is/VBZ to/TO increase/VB the/DT depth/NN of/IN neural/JJ networks/NNS to/TO increase/VB their/PRP$ performance/NN ,/, the/DT size/NN of/IN their/PRP$ training/NN database/NN has/VBZ to/TO grow/VB accordingly/RB ./.
+We/PRP notice/VBP an/DT emergence/NN of/IN tremendous/JJ databases/NNS ,/, although/IN providing/VBG labels/NNS to/TO build/VB a/DT training/NN set/NN still/RB remains/VBZ a/DT very/RB expensive/JJ task/NN ./.
+We/PRP tackle/VBP the/DT problem/NN of/IN selecting/VBG the/DT samples/NNS to/TO be/VB labelled/VBN in/IN an/DT online/JJ fashion/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT active/JJ learning/NN strategy/NN based/VBN on/IN query/NN by/IN committee/NN and/CC dropout/NN technique/NN to/TO train/VB a/DT Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- ./.
+We/PRP derive/VBP a/DT commmittee/NN of/IN partial/JJ CNNs/NNS resulting/VBG from/IN batchwise/RB dropout/NN runs/VBZ on/IN the/DT initial/JJ CNN/NNP ./.
+We/PRP evaluate/VBP our/PRP$ active/JJ learning/NN strategy/NN for/IN CNN/NNP on/IN MNIST/NNP benchmark/NN ,/, showing/VBG in/IN particular/JJ that/IN selecting/VBG less/JJR than/IN 30/CD percent/NN from/IN the/DT annotated/VBN database/NN is/VBZ enough/JJ to/TO get/VB similar/JJ error/NN rate/NN as/IN using/VBG the/DT full/JJ training/NN set/VBN on/IN MNIST/NNP ./.
+We/PRP also/RB studied/VBD the/DT robustness/NN of/IN our/PRP$ method/NN against/IN adversarial/JJ examples/NNS ./.

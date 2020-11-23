@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN we/PRP present/VBP a/DT novel/JJ iterative/JJ multiphase/JJ clustering/NN technique/NN for/IN efficiently/RB clustering/VBG high/JJ dimensional/JJ data/NNS points/NNS ./.
+For/IN this/DT purpose/NN we/PRP implement/VBP clustering/VBG feature/NN (/-LRB- CF/NN )/-RRB- tree/NN on/IN a/DT real/JJ data/NNS set/VBN and/CC a/DT Gaussian/JJ density/NN distribution/NN constraint/NN on/IN the/DT resultant/JJ CF/NN tree/NN ./.
+The/DT post/NN processing/NN by/IN the/DT application/NN of/IN Gaussian/JJ density/NN distribution/NN function/NN on/IN the/DT micro-clusters/NNS leads/VBZ to/IN refinement/NN of/IN the/DT previously/RB formed/VBN clusters/NNS thus/RB improving/VBG their/PRP$ quality/NN ./.
+This/DT algorithm/NN also/RB succeeds/VBZ in/IN overcoming/VBG the/DT inherent/JJ drawbacks/NNS of/IN conventional/JJ hierarchical/JJ methods/NNS of/IN clustering/NN like/IN inability/NN to/TO undo/VB the/DT change/NN made/VBN to/IN the/DT dendogram/NN of/IN the/DT data/NNS points/NNS ./.
+Moreover/RB ,/, the/DT constraint/NN measure/NN applied/VBN in/IN the/DT algorithm/NN makes/VBZ this/DT clustering/NN technique/NN suitable/JJ for/IN need/NN driven/VBN data/NNS analysis/NN ./.
+We/PRP provide/VBP veracity/NN of/IN our/PRP$ claim/NN by/IN evaluating/VBG our/PRP$ algorithm/NN with/IN other/JJ similar/JJ clustering/NN algorithms/NNS ./.
+Introduction/NN

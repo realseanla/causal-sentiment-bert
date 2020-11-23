@@ -1,0 +1,5 @@
+We/PRP consider/VBP the/DT problem/NN of/IN sampling/NN k/CD -/HYPH bandlimited/JJ graph/NN signals/NNS ,/, \/SYM ie/FW ,/, linear/JJ combinations/NNS of/IN the/DT first/JJ k/NN graph/NN Fourier/NN modes/NNS ./.
+We/PRP know/VBP that/IN a/DT set/NN of/IN k/CD nodes/NNS embedding/VBG all/DT k/CD -/HYPH bandlimited/JJ signals/NNS always/RB exists/VBZ ,/, thereby/RB enabling/VBG their/PRP$ perfect/JJ reconstruction/NN after/IN sampling/NN ./.
+Unfortunately/RB ,/, to/TO exhibit/VB such/PDT a/DT set/NN ,/, one/PRP needs/VBZ to/TO partially/RB diagonalize/VB the/DT graph/NN Laplacian/NNP ,/, which/WDT becomes/VBZ prohibitive/JJ at/IN large/JJ scale/NN ./.
+We/PRP propose/VBP a/DT novel/JJ strategy/NN based/VBN on/IN determinantal/JJ point/NN processes/NNS that/WDT side/NN -/HYPH steps/NNS partial/JJ diagonalisation/NN and/CC enables/VBZ reconstruction/NN with/IN only/JJ O/NN (/-LRB- k/NN )/-RRB- samples/NNS ./.
+While/IN doing/VBG so/RB ,/, we/PRP exhibit/VBP a/DT new/JJ general/JJ algorithm/NN to/IN sample/NN determinantal/JJ process/NN ,/, faster/JJR than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithm/NN by/IN an/DT order/NN k./NN

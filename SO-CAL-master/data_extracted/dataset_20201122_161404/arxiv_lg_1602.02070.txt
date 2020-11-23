@@ -1,0 +1,8 @@
+Randomized algorithms reduce the complexity of low-rank recovery methods only w.r.t dimension p of a big dataset $Y \in \Re^{p \times n}$.
+However, the case of large n is cumbersome to tackle without sacrificing the recovery.
+The recently introduced Fast Robust PCA on Graphs (FRPCAG) approximates a recovery method for matrices which are low-rank on graphs constructed between their rows and columns.
+In this paper we provide a novel framework, Compressive PCA on Graphs (CPCA) for an approximate recovery of such data matrices from sampled measurements.
+We introduce a RIP condition for low-rank matrices on graphs which enables efficient sampling of the rows and columns to perform FRPCAG on the sampled matrix.
+Several efficient, parallel and parameter-free decoders are presented along with their theoretical analysis for the low-rank recovery and clustering applications of PCA.
+On a single core machine, CPCA gains a speed up of p/k over FRPCAG, where k &lt;&lt; p is the subspace dimension.
+Numerically, CPCA can efficiently cluster 70,000 MNIST digits in less than a minute and recover a low-rank matrix of size 10304 X 1000 in 15 secs, which is 6 and 100 times faster than FRPCAG and exact recovery.

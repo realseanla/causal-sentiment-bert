@@ -1,0 +1,7 @@
+Pharmaco-epidemiology (PE) is the study of uses and effects of drugs in well defined populations.
+As medico-administrative databases cover a large part of the population, they have become very interesting to carry PE studies.
+Such databases provide longitudinal care pathways in real condition containing timestamped care events, especially drug deliveries.
+Temporal pattern mining becomes a strategic choice to gain valuable insights about drug uses.
+In this paper we propose DCM, a new discriminant temporal pattern mining algorithm.
+It extracts chronicle patterns that occur more in a studied population than in a control population.
+We present results on the identification of possible associations between hospitalizations for seizure and anti-epileptic drug switches in care pathway of epileptic patients.

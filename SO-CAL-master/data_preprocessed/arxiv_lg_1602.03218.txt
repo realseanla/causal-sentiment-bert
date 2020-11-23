@@ -1,0 +1,3 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP and/CC investigate/VBP a/DT novel/JJ memory/NN architecture/NN for/IN neural/JJ networks/NNS called/VBN Hierarchical/JJ Attentive/JJ Memory/NN (/-LRB- HAM/NN )/-RRB- ./.
+It/PRP is/VBZ based/VBN on/IN a/DT binary/JJ tree/NN with/IN leaves/NNS corresponding/VBG to/IN memory/NN cells/NNS ./.
+This/DT allows/VBZ HAM/NN to/TO perform/VB memory/NN access/NN in/IN O/NN (/-LRB- log/NN n/NN )/-RRB- complexity/NN ,/, which/WDT is/VBZ a/DT significant/JJ improvement/NN over/IN the/DT standard/JJ attention/NN mechanism/NN that/WDT requires/VBZ O/NN (/-LRB- n/NN )/-RRB- operations/NNS ,/, where/WRB n/NN is/VBZ the/DT size/NN of/IN the/DT memory/NN ./.

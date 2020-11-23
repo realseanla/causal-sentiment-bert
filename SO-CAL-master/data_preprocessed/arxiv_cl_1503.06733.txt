@@ -1,0 +1,8 @@
+Dependency/NN parsers/NNS are/VBP among/IN the/DT most/RBS crucial/JJ tools/NNS in/IN natural/JJ language/NN processing/NN as/IN they/PRP have/VBP many/JJ important/JJ applications/NNS in/IN downstream/JJ tasks/NNS such/JJ as/IN information/NN retrieval/NN ,/, machine/NN translation/NN and/CC knowledge/NN acquisition/NN ./.
+We/PRP introduce/VBP the/DT Yara/NNP Parser/NNP ,/, a/DT fast/JJ and/CC accurate/JJ open/JJ -/HYPH source/NN dependency/NN parser/NN based/VBN on/IN the/DT arc/NN -/HYPH eager/JJ algorithm/NN and/CC beam/NN search/NN ./.
+It/PRP achieves/VBZ an/DT unlabeled/JJ accuracy/NN of/IN 93.32/CD on/IN the/DT standard/JJ WSJ/NNP test/NN set/NN which/WDT ranks/VBZ it/PRP among/IN the/DT top/JJ dependency/NN parsers/NNS ./.
+At/IN its/PRP$ fastest/JJS ,/, Yara/NNP can/MD parse/VB about/IN 4000/CD sentences/NNS per/IN second/NN when/WRB in/IN greedy/JJ mode/NN (/-LRB- 1/CD beam/NN )/-RRB- ./.
+When/WRB optimizing/VBG for/IN accuracy/NN (/-LRB- using/VBG 64/CD beams/NNS and/CC Brown/JJ cluster/NN features/NNS )/-RRB- ,/, Yara/NNP can/MD parse/VB 45/CD sentences/NNS per/IN second/NN ./.
+The/DT parser/NN can/MD be/VB trained/VBN on/IN any/DT syntactic/JJ dependency/NN treebank/NN and/CC different/JJ options/NNS are/VBP provided/VBN in/IN order/NN to/TO make/VB it/PRP more/RBR flexible/JJ and/CC tunable/JJ for/IN specific/JJ tasks/NNS ./.
+It/PRP is/VBZ released/VBN with/IN the/DT Apache/NNP version/NN 2.0/CD license/NN and/CC can/MD be/VB used/VBN for/IN both/DT commercial/JJ and/CC academic/JJ purposes/NNS ./.
+The/DT parser/NN can/MD be/VB found/VBN at/IN

@@ -1,0 +1,4 @@
+We/PRP provide/VBP a/DT method/NN for/IN automatically/RB detecting/VBG change/NN in/IN language/NN across/IN time/NN through/IN a/DT chronologically/RB trained/VBN neural/JJ language/NN model/NN ./.
+We/PRP train/VBP the/DT model/NN on/IN the/DT Google/NNP Books/NNPS Ngram/NNP corpus/NN to/TO obtain/VB word/NN vector/NN representations/NNS specific/JJ to/IN each/DT year/NN ,/, and/CC identify/VB words/NNS that/WDT have/VBP changed/VBN significantly/RB from/IN 1900/CD to/IN 2009/CD ./.
+The/DT model/NN identifies/VBZ words/NNS such/JJ as/IN "/`` cell/NN "/'' and/CC "/`` gay/JJ "/'' as/IN having/VBG changed/VBN during/IN that/DT time/NN period/NN ./.
+The/DT model/NN simultaneously/RB identifies/VBZ the/DT specific/JJ years/NNS during/IN which/WDT such/JJ words/NNS underwent/VBD change/NN ./.

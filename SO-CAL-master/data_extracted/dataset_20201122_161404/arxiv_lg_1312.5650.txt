@@ -1,0 +1,6 @@
+Several recent publications have proposed methods for mapping images into continuous semantic embedding spaces.
+In some cases the semantic embedding space is trained jointly with the image transformation, while in other cases the semantic embedding space is established independently by a separate task, such as a natural language processing task on a text corpus, and then the image transformation into that space is learned in a second stage.
+Proponents of these image embedding systems have stressed their advantages over the traditional n-way classification framing of image understanding, particularly in terms of the promise of zero-shot learning -- the ability to correctly annotate images of previously unseen object categories.
+Here we propose a simple method for constructing an image embedding system from any existing n-way image classification mechanism and any existing semantic embedding space which contains the n class labels in its vocabulary.
+Our method maps images into the semantic embedding space via convex combination of the class label embedding vectors, and requires no additional learning.
+We show that this simple and direct method confers many of the advantages associated with more complex image embedding schemes, and indeed outperforms state of the art methods on the ImageNet zero-shot learning task.

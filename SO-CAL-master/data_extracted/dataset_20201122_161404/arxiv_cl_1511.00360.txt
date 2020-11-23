@@ -1,0 +1,5 @@
+Prosody affects the naturalness and intelligibility of speech.
+However, automatic prosody prediction from text for Chinese speech synthesis is still a great challenge and the traditional conditional random fields (CRF) based method always heavily relies on feature engineering.
+In this paper, we propose to use neural networks to predict prosodic boundary labels directly from Chinese characters without any feature engineering.
+Experimental results show that stacking feed-forward and bidirectional long short-term memory (BLSTM) recurrent network layers achieves superior performance over the CRF-based method.
+The embedding features learned from raw text further enhance the performance.

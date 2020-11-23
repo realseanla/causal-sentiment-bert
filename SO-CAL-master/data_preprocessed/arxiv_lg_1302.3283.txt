@@ -1,0 +1,7 @@
+Structured/VBN learning/NN has/VBZ found/VBN many/JJ applications/NNS in/IN computer/NN vision/NN recently/RB ./.
+Analogues/NNS to/IN structured/JJ support/NN vector/NN machines/NNS ,/, here/RB we/PRP propose/VBP boosting/VBG algorithms/NNS for/IN predicting/VBG multivariate/JJ or/CC structured/JJ outputs/NNS ,/, which/WDT is/VBZ referred/VBN to/IN as/IN StructBoost/NNP ./.
+As/IN SVM/NNP -/HYPH Struct/NNP generalizes/VBZ SVM/NNP ,/, our/PRP$ StructBoost/NNP generalizes/VBZ standard/JJ boosting/VBG such/JJ as/IN AdaBoost/NNP ,/, or/CC LPBoost/NN to/IN structured/JJ learning/NN ./.
+AdaBoost/NNP ,/, LPBoost/NNP and/CC many/JJ other/JJ conventional/JJ boosting/VBG methods/NNS arise/VBP as/IN special/JJ cases/NNS of/IN StructBoost/NNP ./.
+The/DT resulting/VBG optimization/NN problem/NN of/IN StructBoost/NNP is/VBZ more/RBR challenging/JJ than/IN SVM/NN -/HYPH Struct/NN in/IN the/DT sense/NN that/IN the/DT problem/NN of/IN StructBoost/NNP can/MD involve/VB exponentially/RB many/JJ variables/NNS and/CC constraints/NNS ./.
+In/IN contrast/NN ,/, for/IN SVM/NNP -/HYPH Struct/NNP one/CD usually/RB has/VBZ an/DT exponential/JJ number/NN of/IN constraints/NNS and/CC a/DT cutting/NN -/HYPH plane/NN method/NN is/VBZ used/VBN ./.
+In/IN order/NN to/TO efficiently/RB solve/VB StructBoost/NNP ,/, we/PRP propose/VBP an/DT equivalent/JJ 1/CD -/HYPH slack/NN formulation/NN and/CC solve/VB it/PRP using/VBG a/DT combination/NN of/IN cutting/VBG planes/NNS and/CC column/NN generation/NN ./.

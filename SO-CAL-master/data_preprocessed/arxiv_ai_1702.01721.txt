@@ -1,0 +1,6 @@
+This/DT paper/NN describes/VBZ the/DT details/NNS of/IN Sighthound/NNP 's/POS fully/RB automated/VBN vehicle/NN make/VB ,/, model/NN and/CC color/NN recognition/NN system/NN ./.
+The/DT backbone/NN of/IN our/PRP$ system/NN is/VBZ a/DT deep/JJ convolutional/JJ neural/JJ network/NN that/WDT is/VBZ not/RB only/RB computationally/RB inexpensive/JJ ,/, but/CC also/RB provides/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN several/JJ competitive/JJ benchmarks/NNS ./.
+Additionally/RB ,/, our/PRP$ deep/JJ network/NN is/VBZ trained/VBN on/IN a/DT large/JJ dataset/NN of/IN several/JJ million/CD images/NNS which/WDT are/VBP labeled/VBN through/IN a/DT semi-automated/JJ process/NN ./.
+Finally/RB we/PRP test/VBP our/PRP$ system/NN on/IN several/JJ public/JJ datasets/NNS as/RB well/RB as/IN our/PRP$ own/JJ internal/JJ test/NN dataset/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN we/PRP outperform/VBP other/JJ methods/NNS on/IN all/DT benchmarks/NNS by/IN significant/JJ margins/NNS ./.
+Our/PRP$ model/NN is/VBZ available/JJ to/IN developers/NNS through/IN the/DT Sighthound/NNP Cloud/NNP API/NN at/IN

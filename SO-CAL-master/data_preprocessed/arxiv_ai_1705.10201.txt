@@ -1,0 +1,8 @@
+There/EX are/VBP two/CD common/JJ approaches/NNS for/IN optimizing/VBG the/DT performance/NN of/IN a/DT machine/NN :/: genetic/JJ algorithms/NNS and/CC machine/NN learning/NN ./.
+A/DT genetic/JJ algorithm/NN is/VBZ applied/VBN over/IN many/JJ generations/NNS whereas/IN machine/NN learning/NN works/VBZ by/IN applying/VBG feedback/NN until/IN the/DT system/NN meets/VBZ a/DT performance/NN threshold/NN ./.
+Though/IN these/DT are/VBP methods/NNS that/WDT typically/RB operate/VBP separately/RB ,/, we/PRP combine/VBP evolutionary/JJ adaptation/NN and/CC machine/NN learning/NN into/IN one/CD approach/NN ./.
+Our/PRP$ focus/NN is/VBZ on/IN machines/NNS that/WDT can/MD learn/VB during/IN their/PRP$ lifetime/NN ,/, but/CC instead/RB of/IN equipping/VBG them/PRP with/IN a/DT machine/NN learning/VBG algorithm/NN we/PRP aim/VBP to/TO let/VB them/PRP evolve/VB their/PRP$ ability/NN to/TO learn/VB by/IN themselves/PRP ./.
+We/PRP use/VBP evolvable/JJ networks/NNS of/IN probabilistic/JJ and/CC deterministic/JJ logic/NN gates/NNS ,/, known/VBN as/IN Markov/NNP Brains/NNS ,/, as/IN our/PRP$ computational/JJ model/NN organism/NN ./.
+The/DT ability/NN of/IN Markov/NNP Brains/NNS to/TO learn/VB is/VBZ augmented/VBN by/IN a/DT novel/JJ adaptive/JJ component/NN that/WDT can/MD change/VB its/PRP$ computational/JJ behavior/NN based/VBN on/IN feedback/NN ./.
+We/PRP show/VBP that/IN Markov/NNP Brains/NNS can/MD indeed/RB evolve/VB to/TO incorporate/VB these/DT feedback/NN gates/NNS to/TO improve/VB their/PRP$ adaptability/NN to/IN variable/JJ environments/NNS ./.
+By/IN combining/VBG these/DT two/CD methods/NNS ,/, we/PRP now/RB also/RB implemented/VBD a/DT computational/JJ model/NN that/WDT can/MD be/VB used/VBN to/TO study/VB the/DT evolution/NN of/IN learning/NN ./.

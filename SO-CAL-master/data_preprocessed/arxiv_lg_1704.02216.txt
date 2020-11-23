@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP design/VBP a/DT system/NN in/IN order/NN to/TO perform/VB the/DT real/JJ -/HYPH time/NN beat/VBD tracking/VBG for/IN an/DT audio/JJ signal/NN ./.
+We/PRP use/VBP Onset/NNP Strength/NNP Signal/NNP (/-LRB- OSS/NNP )/-RRB- to/TO detect/VB the/DT onsets/NNS and/CC estimate/VBP the/DT tempos/NNS ./.
+Then/RB ,/, we/PRP form/VBP Cumulative/JJ Beat/NN Strength/NNP Signal/NNP (/-LRB- CBSS/NNP )/-RRB- by/IN taking/VBG advantage/NN of/IN OSS/NNP and/CC estimated/VBD tempos/NNS ./.
+Next/RB ,/, we/PRP perform/VBP peak/NN detection/NN by/IN extracting/VBG the/DT periodic/JJ sequence/NN of/IN beats/NNS among/IN all/DT CBSS/NNP peaks/NNS ./.
+In/IN simulations/NNS ,/, we/PRP can/MD see/VB that/IN our/PRP$ proposed/VBN algorithm/NN ,/, Online/NN Beat/NN TrAckINg/NN (/-LRB- OBTAIN/VB )/-RRB- ,/, outperforms/VBZ state/NN -/HYPH of/IN -/HYPH art/NN results/NNS in/IN terms/NNS of/IN prediction/NN accuracy/NN while/IN maintaining/VBG comparable/JJ and/CC practical/JJ computational/JJ complexity/NN ./.
+The/DT real/JJ -/HYPH time/NN performance/NN is/VBZ tractable/JJ visually/RB as/IN illustrated/VBN in/IN the/DT simulations/NNS ./.

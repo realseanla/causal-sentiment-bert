@@ -1,0 +1,10 @@
+In/IN settings/NNS where/WRB only/RB unlabelled/JJ speech/NN data/NNS is/VBZ available/JJ ,/, speech/NN technology/NN needs/VBZ to/TO be/VB developed/VBN without/IN transcriptions/NNS ,/, pronunciation/NN dictionaries/NNS ,/, or/CC language/NN modelling/NN text/NN ./.
+A/DT similar/JJ problem/NN is/VBZ faced/VBN when/WRB modelling/VBG infant/NN language/NN acquisition/NN ./.
+In/IN these/DT cases/NNS ,/, categorical/JJ linguistic/JJ structure/NN needs/VBZ to/TO be/VB discovered/VBN directly/RB from/IN speech/NN audio/NN ./.
+We/PRP present/VBP a/DT novel/JJ unsupervised/JJ Bayesian/JJ model/NN that/WDT segments/NNS unlabelled/JJ speech/NN and/CC clusters/NNS the/DT segments/NNS into/IN hypothesized/VBN word/NN groupings/NNS ./.
+The/DT result/NN is/VBZ a/DT complete/JJ unsupervised/JJ tokenization/NN of/IN the/DT input/NN speech/NN in/IN terms/NNS of/IN discovered/VBN word/NN types/NNS ./.
+In/IN our/PRP$ approach/NN ,/, a/DT potential/JJ word/NN segment/NN (/-LRB- of/IN arbitrary/JJ length/NN )/-RRB- is/VBZ embedded/VBN in/IN a/DT fixed/VBN -/HYPH dimensional/JJ acoustic/JJ vector/NN space/NN ./.
+The/DT model/NN ,/, implemented/VBN as/IN a/DT Gibbs/NNP sampler/NN ,/, then/RB builds/VBZ a/DT whole/JJ -/HYPH word/NN acoustic/JJ model/NN in/IN this/DT space/NN while/IN jointly/RB performing/VBG segmentation/NN ./.
+We/PRP report/VBP word/NN error/NN rates/NNS in/IN a/DT small/JJ -/HYPH vocabulary/NN connected/VBN digit/NN recognition/NN task/NN by/IN mapping/VBG the/DT unsupervised/JJ decoded/VBN output/NN to/TO ground/VB truth/NN transcriptions/NNS ./.
+The/DT model/NN achieves/VBZ around/RB 20/CD percent/NN error/NN rate/NN ,/, outperforming/VBG a/DT previous/JJ HMM/NNP -/HYPH based/VBN system/NN by/IN about/RB 10/CD percent/NN absolute/JJ ./.
+Moreover/RB ,/, in/IN contrast/NN to/IN the/DT baseline/NN ,/, our/PRP$ model/NN does/VBZ not/RB require/VB a/DT pre-specified/JJ vocabulary/NN size/NN ./.

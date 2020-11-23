@@ -1,0 +1,9 @@
+Failure/NN detection/NN in/IN telecommunication/NN networks/NNS is/VBZ a/DT vital/JJ task/NN ./.
+So/RB far/RB ,/, several/JJ supervised/JJ and/CC unsupervised/JJ solutions/NNS have/VBP been/VBN provided/VBN for/IN discovering/VBG failures/NNS in/IN such/JJ networks/NNS ./.
+Among/IN them/PRP unsupervised/JJ approaches/NNS has/VBZ attracted/VBN more/JJR attention/NN since/IN no/DT label/NN data/NNS is/VBZ required/VBN ./.
+Often/RB ,/, network/NN devices/NNS are/VBP not/RB able/JJ to/TO provide/VB information/NN about/IN the/DT type/NN of/IN failure/NN ./.
+In/IN such/JJ cases/NNS the/DT type/NN of/IN failure/NN is/VBZ not/RB known/VBN in/IN advance/NN and/CC the/DT unsupervised/JJ setting/NN is/VBZ more/RBR appropriate/JJ for/IN diagnosis/NN ./.
+Among/IN unsupervised/JJ approaches/NNS ,/, Principal/NN Component/NN Analysis/NN (/-LRB- PCA/NN )/-RRB- is/VBZ a/DT well/RB -/HYPH known/VBN solution/NN which/WDT has/VBZ been/VBN widely/RB used/VBN in/IN the/DT anomaly/NN detection/NN literature/NN and/CC can/MD be/VB applied/VBN to/IN matrix/NN data/NNS (/-LRB- e.g./FW Users/NNS -/HYPH Features/NNS )/-RRB- ./.
+However/RB ,/, one/CD of/IN the/DT important/JJ properties/NNS of/IN network/NN data/NNS is/VBZ their/PRP$ temporal/JJ sequential/JJ nature/NN ./.
+So/RB considering/VBG the/DT interaction/NN of/IN dimensions/NNS over/IN a/DT third/JJ dimension/NN ,/, such/JJ as/IN time/NN ,/, may/MD provide/VB us/PRP better/JJR insights/NNS into/IN the/DT nature/NN of/IN network/NN failures/NNS ./.
+In/IN this/DT paper/NN we/PRP demonstrate/VBP the/DT power/NN of/IN three/CD -/HYPH way/NN analysis/NN to/TO detect/VB events/NNS and/CC anomalies/NNS in/IN time/NN -/HYPH evolving/VBG network/NN data/NNS ./.

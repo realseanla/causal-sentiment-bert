@@ -1,0 +1,5 @@
+We/PRP propose/VBP ways/NNS to/TO improve/VB the/DT performance/NN of/IN fully/RB connected/VBN networks/NNS ./.
+We/PRP found/VBD that/IN two/CD approaches/NNS in/IN particular/JJ have/VBP a/DT strong/JJ effect/NN on/IN performance/NN :/: linear/JJ bottleneck/NN layers/NNS and/CC unsupervised/JJ pre-training/NN using/VBG autoencoders/NNS without/IN hidden/VBN unit/NN biases/NNS ./.
+We/PRP show/VBP how/WRB both/DT approaches/NNS can/MD be/VB related/VBN to/IN improving/VBG gradient/NN flow/NN and/CC reducing/VBG sparsity/NN in/IN the/DT network/NN ./.
+We/PRP show/VBP that/IN a/DT fully/RB connected/JJ network/NN can/MD yield/VB approximately/RB 70/CD percent/NN classification/NN accuracy/NN on/IN the/DT permutation/NN -/HYPH invariant/JJ CIFAR/NN -/HYPH 10/CD task/NN ,/, which/WDT is/VBZ much/RB higher/JJR than/IN the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ./.
+By/IN adding/VBG deformations/NNS to/IN the/DT training/NN data/NNS ,/, the/DT fully/RB connected/JJ network/NN achieves/VBZ 78/CD percent/NN accuracy/NN ,/, which/WDT is/VBZ just/RB 10/CD percent/NN short/JJ of/IN a/DT decent/JJ convolutional/JJ network/NN ./.

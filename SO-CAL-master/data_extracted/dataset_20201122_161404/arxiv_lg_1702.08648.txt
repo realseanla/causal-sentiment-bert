@@ -1,0 +1,5 @@
+In this paper, we propose a novel method to enrich the representation provided to the output layer of feedforward neural networks in the form of an auto-clustering output layer (ACOL) which enables the network to naturally create sub-clusters under the provided main class la- bels.
+In addition, a novel regularization term is introduced which allows ACOL to encourage the neural network to reveal its own explicit clustering objective.
+While the underlying process of finding the subclasses is completely unsupervised, semi-supervised learning is also possible based on the provided classification objective.
+The results show that ACOL can achieve a 99.2 percent clustering accuracy for the semi-supervised case when partial class labels are presented and a 96 percent accuracy for the unsupervised clustering case.
+These findings represent a paradigm shift especially when it comes to harnessing the power of deep networks for primary and secondary clustering applications in large datasets.

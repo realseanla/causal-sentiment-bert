@@ -1,0 +1,7 @@
+Requirements/NNS traceability/NN is/VBZ an/DT essential/JJ step/NN in/IN ensuring/VBG the/DT quality/NN of/IN software/NN during/IN the/DT early/JJ stages/NNS of/IN its/PRP$ development/NN life/NN cycle/NN ./.
+Requirements/NNS tracing/VBG usually/RB consists/VBZ of/IN document/NN parsing/VBG ,/, candidate/NN link/NN generation/NN and/CC evaluation/NN and/CC traceability/NN analysis/NN ./.
+This/DT paper/NN demonstrates/VBZ the/DT applicability/NN of/IN Statistical/JJ Term/NN Extraction/NN metrics/NNS to/TO generate/VB candidate/NN links/NNS ./.
+It/PRP is/VBZ applied/VBN and/CC validated/VBN using/VBG two/CD data/NNS sets/NNS and/CC four/CD types/NNS of/IN filters/NNS two/CD for/IN each/DT data/NN set/NN ,/, 0.2/CD and/CC 0.25/CD for/IN MODIS/NNP ,/, 0/CD and/CC 0.05/CD for/IN CM1/NN ./.
+This/DT method/NN generates/VBZ requirements/NNS traceability/NN matrices/NNS between/IN textual/JJ requirements/NNS artifacts/NNS (/-LRB- such/JJ as/IN high/JJ -/HYPH level/NN requirements/NNS traced/VBN to/IN low/JJ -/HYPH level/NN requirements/NNS )/-RRB- ./.
+The/DT proposed/JJ method/NN includes/VBZ ten/CD word/NN frequency/NN metrics/NNS divided/VBN into/IN three/CD main/JJ groups/NNS for/IN calculating/VBG the/DT frequency/NN of/IN terms/NNS ./.
+The/DT results/NNS show/VBP that/IN the/DT proposed/JJ method/NN gives/VBZ better/JJR result/NN when/WRB compared/VBN with/IN the/DT traditional/JJ TF/NNP -/HYPH IDF/NNP method/NN ./.

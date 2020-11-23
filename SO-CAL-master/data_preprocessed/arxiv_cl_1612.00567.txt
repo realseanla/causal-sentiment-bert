@@ -1,0 +1,7 @@
+Transition/NN -/HYPH based/VBN models/NNS can/MD be/VB fast/JJ and/CC accurate/JJ for/IN constituent/NN parsing/VBG ./.
+Compared/VBN with/IN chart/NN -/HYPH based/VBN models/NNS ,/, they/PRP leverage/VBP richer/JJR features/NNS by/IN extracting/VBG history/NN information/NN from/IN a/DT parser/NN stack/NN ,/, which/WDT spans/VBZ over/IN non-local/JJ constituents/NNS ./.
+On/IN the/DT other/JJ hand/NN ,/, during/IN incremental/JJ parsing/VBG ,/, constituent/JJ information/NN on/IN the/DT right/JJ hand/NN side/NN of/IN the/DT current/JJ word/NN is/VBZ not/RB utilized/VBN ,/, which/WDT is/VBZ a/DT relative/JJ weakness/NN of/IN shift/NN -/HYPH reduce/VB parsing/VBG ./.
+To/TO address/VB this/DT limitation/NN ,/, we/PRP leverage/VBP a/DT fast/JJ neural/JJ model/NN to/TO extract/VB lookahead/NN features/NNS ./.
+In/IN particular/JJ ,/, we/PRP build/VBP a/DT bidirectional/JJ LSTM/NN model/NN ,/, which/WDT leverages/VBZ the/DT full/JJ sentence/NN information/NN to/TO predict/VB the/DT hierarchy/NN of/IN constituents/NNS that/WDT each/DT word/NN starts/VBZ and/CC ends/VBZ ./.
+The/DT results/NNS are/VBP then/RB passed/VBN to/IN a/DT strong/JJ transition/NN -/HYPH based/VBN constituent/JJ parser/NN as/IN lookahead/NN features/NNS ./.
+The/DT resulting/VBG parser/NN gives/VBZ 1.3/CD percent/NN absolute/JJ improvement/NN in/IN WSJ/NNP and/CC 2.3/CD percent/NN in/IN CTB/NNP compared/VBN to/IN the/DT baseline/NN ,/, given/VBN the/DT highest/JJS reported/VBN accuracies/NNS for/IN fully/RB -/HYPH supervised/VBD parsing/VBG ./.

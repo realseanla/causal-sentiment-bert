@@ -1,0 +1,6 @@
+Sample efficiency is a critical property when optimizing policy parameters for the controller of a robot.
+In this paper, we evaluate two state-of-the-art policy optimization algorithms.
+One is a recent deep reinforcement learning method based on an actor-critic algorithm, Deep Deterministic Policy Gradient (DDPG), that has been shown to perform well on various control benchmarks.
+The other one is a direct policy search method, Covariance Matrix Adaptation Evolution Strategy (CMA-ES), a black-box optimization method that is widely used for robot learning.
+The algorithms are evaluated on a continuous version of the mountain car benchmark problem, so as to compare their sample complexity.
+From a preliminary analysis, we expect DDPG to be more sample efficient than CMA-ES, which is confirmed by our experimental results.

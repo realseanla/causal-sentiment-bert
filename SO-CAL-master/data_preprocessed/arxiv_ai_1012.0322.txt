@@ -1,0 +1,8 @@
+Uncertainty/NN of/IN decisions/NNS in/IN safety/NN -/HYPH critical/JJ engineering/NN applications/NNS can/MD be/VB estimated/VBN on/IN the/DT basis/NN of/IN the/DT Bayesian/JJ Markov/NNP Chain/NNP Monte/NNP Carlo/NNP (/-LRB- MCMC/NNP )/-RRB- technique/NN of/IN averaging/VBG over/RP decision/NN models/NNS ./.
+The/DT use/NN of/IN decision/NN tree/NN (/-LRB- DT/NN )/-RRB- models/NNS assists/VBZ experts/NNS to/TO interpret/VB causal/JJ relations/NNS and/CC find/VB factors/NNS of/IN the/DT uncertainty/NN ./.
+Bayesian/JJ averaging/NN also/RB allows/VBZ experts/NNS to/TO estimate/VB the/DT uncertainty/NN accurately/RB when/WRB a/FW priori/FW information/NN on/IN the/DT favored/JJ structure/NN of/IN DTs/NNS is/VBZ available/JJ ./.
+Then/RB an/DT expert/NN can/MD select/VB a/DT single/JJ DT/NN model/NN ,/, typically/RB the/DT Maximum/NNP a/DT Posteriori/NNP model/NN ,/, for/IN interpretation/NN purposes/NNS ./.
+Unfortunately/RB ,/, a/FW priori/FW information/NN on/IN favored/JJ structure/NN of/IN DTs/NNS is/VBZ not/RB always/RB available/JJ ./.
+For/IN this/DT reason/NN ,/, we/PRP suggest/VBP a/DT new/JJ prior/JJ on/IN DTs/NNS for/IN the/DT Bayesian/JJ MCMC/NN technique/NN ./.
+We/PRP also/RB suggest/VBP a/DT new/JJ procedure/NN of/IN selecting/VBG a/DT single/JJ DT/NN and/CC describe/VB an/DT application/NN scenario/NN ./.
+In/IN our/PRP$ experiments/NNS on/IN the/DT Short/JJ -/HYPH Term/NN Conflict/NN Alert/NNP data/NNS our/PRP$ technique/NN outperforms/VBZ the/DT existing/VBG Bayesian/JJ techniques/NNS in/IN predictive/JJ accuracy/NN of/IN the/DT selected/VBN single/JJ DTs/NNS ./.

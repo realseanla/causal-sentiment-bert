@@ -1,0 +1,4 @@
+Information extraction identifies useful and relevant text in a document and converts unstructured text into a form that can be loaded into a database table.
+Named entity extraction is a main task in the process of information extraction and is a classification problem in which words are assigned to one or more semantic classes or to a default non-entity class.
+A word which can belong to one or more classes and which has a level of uncertainty in it can be best handled by a self learning Fuzzy Logic Technique.
+This paper proposes a method for detecting the presence of spatial uncertainty in the text and dealing with spatial ambiguity using named entity extraction techniques coupled with self learning fuzzy logic techniques

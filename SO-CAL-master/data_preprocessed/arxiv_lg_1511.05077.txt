@@ -1,0 +1,7 @@
+We/PRP introduce/VBP Divnet/NNP ,/, a/DT flexible/JJ technique/NN for/IN learning/VBG networks/NNS with/IN diverse/JJ neurons/NNS ./.
+Divnet/NNP models/NNS neuronal/JJ diversity/NN by/IN placing/VBG a/DT Determinantal/JJ Point/NN Process/NN (/-LRB- DPP/NNP )/-RRB- over/IN neurons/NNS in/IN a/DT given/VBN layer/NN ./.
+It/PRP uses/VBZ this/DT DPP/NNP to/TO select/VB a/DT subset/NN of/IN diverse/JJ neurons/NNS and/CC subsequently/RB fuses/VBZ the/DT redundant/JJ neurons/NNS into/IN the/DT selected/VBN ones/NNS ./.
+Compared/VBN with/IN previous/JJ approaches/NNS ,/, Divnet/NNP offers/VBZ a/DT more/RBR principled/JJ ,/, flexible/JJ technique/NN for/IN capturing/VBG neuronal/JJ diversity/NN ./.
+This/DT enables/VBZ effective/JJ auto/NN -/HYPH tuning/NN of/IN network/NN architecture/NN and/CC leads/VBZ to/IN smaller/JJR network/NN sizes/NNS without/IN hurting/VBG performance/NN ./.
+Moreover/RB ,/, through/IN its/PRP$ focus/NN on/IN diversity/NN and/CC neuron/NN fusing/NN ,/, Divnet/NNP remains/VBZ compatible/JJ with/IN other/JJ procedures/NNS that/WDT seek/VBP to/TO reduce/VB memory/NN footprints/NNS of/IN networks/NNS ./.
+We/PRP present/VBP experimental/JJ results/NNS to/IN corroborate/VB our/PRP$ claims/NNS :/: for/IN pruning/NN neural/JJ networks/NNS ,/, Divnet/NNP is/VBZ seen/VBN to/TO be/VB notably/RB superior/JJ to/IN competing/VBG approaches/NNS ./.

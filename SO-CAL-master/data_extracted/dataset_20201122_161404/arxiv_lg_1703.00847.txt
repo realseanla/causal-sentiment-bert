@@ -1,0 +1,4 @@
+In this article we present a method to reconstruct the interconnectedness of dynamically related stochastic processes, where the interactions are bi-directional and the underlying topology is a tree.
+Our approach is based on multivariate Wiener filtering which recovers spurious edges apart from the true edges in the topology reconstruction.
+The main contribution of this work is to show that all spurious links obtained using Wiener filtering can be eliminated if the underlying topology is a tree based on which we present a three stage network reconstruction procedure for trees.
+We illustrate the effectiveness of the method developed by applying it on a typical distribution system of the electric grid.

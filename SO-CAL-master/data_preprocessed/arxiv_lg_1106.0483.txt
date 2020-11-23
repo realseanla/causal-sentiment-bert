@@ -1,0 +1,8 @@
+Loopy/JJ belief/NN propagation/NN performs/VBZ approximate/JJ inference/NN on/IN graphical/JJ models/NNS with/IN loops/NNS ./.
+One/PRP might/MD hope/VB to/TO compensate/VB for/IN the/DT approximation/NN by/IN adjusting/VBG model/NN parameters/NNS ./.
+Learning/VBG algorithms/NNS for/IN this/DT purpose/NN have/VBP been/VBN explored/VBN previously/RB ,/, and/CC the/DT claim/NN has/VBZ been/VBN made/VBN that/IN every/DT set/NN of/IN locally/RB consistent/JJ marginals/NNS can/MD arise/VB from/IN belief/NN propagation/NN run/VBN on/IN a/DT graphical/JJ model/NN ./.
+On/IN the/DT contrary/NN ,/, here/RB we/PRP show/VBP that/IN many/JJ probability/NN distributions/NNS have/VBP marginals/NNS that/WDT can/MD not/RB be/VB reached/VBN by/IN belief/NN propagation/NN using/VBG any/DT set/NN of/IN model/NN parameters/NNS or/CC any/DT learning/NN algorithm/NN ./.
+We/PRP call/VBP such/JJ marginals/NNS `/`` unbelievable/JJ ./.
+'/`` This/DT problem/NN occurs/VBZ whenever/WRB the/DT Hessian/NNP of/IN the/DT Bethe/NNP free/JJ energy/NN is/VBZ not/RB positive/JJ -/HYPH definite/JJ at/IN the/DT target/NN marginals/NNS ./.
+All/DT learning/NN algorithms/NNS for/IN belief/NN propagation/NN necessarily/RB fail/VB in/IN these/DT cases/NNS ,/, producing/VBG beliefs/NNS or/CC sets/NNS of/IN beliefs/NNS that/WDT may/MD even/RB be/VB worse/JJR than/IN the/DT pre-learning/NN approximation/NN ./.
+We/PRP then/RB show/VBP that/IN averaging/VBG inaccurate/JJ beliefs/NNS ,/, each/DT obtained/VBN from/IN belief/NN propagation/NN using/VBG model/NN parameters/NNS perturbed/VBD about/IN some/DT learned/VBN mean/NN values/NNS ,/, can/MD achieve/VB the/DT unbelievable/JJ marginals/NNS ./.

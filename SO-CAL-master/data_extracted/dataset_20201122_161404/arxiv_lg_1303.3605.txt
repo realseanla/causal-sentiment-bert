@@ -1,0 +1,6 @@
+This paper is a survey work for a bigger project for designing a Visual SLAM robot to generate 3D dense map of an unknown unstructured environment.
+A lot of factors have to be considered while designing a SLAM robot.
+Sensing method of the SLAM robot should be determined by considering the kind of environment to be modeled.
+Similarly the type of environment determines the suitable feature extraction method.
+This paper goes through the sensing methods used in some recently published papers.
+The main objective of this survey is to conduct a comparative study among the current sensing methods and feature extraction algorithms and to extract out the best for our work.

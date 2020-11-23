@@ -1,0 +1,10 @@
+Path/NN planning/NN is/VBZ one/CD of/IN the/DT most/RBS vital/JJ elements/NNS of/IN mobile/JJ robotics/NNS ,/, providing/VBG the/DT agent/NN with/IN a/DT collision/NN -/HYPH free/JJ route/NN through/IN the/DT workspace/NN ./.
+The/DT global/JJ path/NN plan/NN can/MD be/VB calculated/VBN with/IN a/DT variety/NN of/IN informed/VBN search/NN algorithms/NNS ,/, most/RBS notably/RB the/DT A/NN */NFP search/NN method/NN ,/, guaranteed/VBN to/TO deliver/VB a/DT complete/JJ and/CC optimal/JJ solution/NN that/WDT minimizes/VBZ the/DT path/NN cost/NN ./.
+D/NN */NFP is/VBZ widely/RB used/VBN for/IN its/PRP$ dynamic/JJ replanning/NN capabilities/NNS ./.
+Path/NN planning/NN optimization/NN typically/RB looks/VBZ to/TO minimize/VB the/DT distance/NN traversed/VBN from/IN start/NN to/IN goal/NN ,/, but/CC many/JJ mobile/JJ robot/NN applications/NNS call/VBP for/IN additional/JJ path/NN planning/NN objectives/NNS ,/, presenting/VBG a/DT multiobjective/JJ optimization/NN (/-LRB- MOO/NN )/-RRB- problem/NN ./.
+Common/JJ search/NN algorithms/NNS ,/, e.g./FW A/DT */NFP and/CC D/NN */NFP ,/, are/VBP not/RB well/RB suited/JJ for/IN MOO/NN problems/NNS ,/, yielding/VBG suboptimal/JJ results/NNS ./.
+The/DT search/NN algorithm/NN presented/VBN in/IN this/DT paper/NN is/VBZ designed/VBN for/IN optimal/JJ MOO/NN path/NN planning/NN ./.
+The/DT algorithm/NN incorporates/VBZ Pareto/NNP optimality/NN into/IN D/NN */NFP ,/, and/CC is/VBZ thus/RB named/VBN D/NNP */SYM -/HYPH PO/NN ./.
+Non-dominated/VBN solution/NN paths/NNS are/VBP guaranteed/VBN by/IN calculating/VBG the/DT Pareto/NNP front/NN at/IN each/DT search/NN step/NN ./.
+Simulations/NNS were/VBD run/VBN to/IN model/NN a/DT planetary/JJ exploration/NN rover/NN in/IN a/DT Mars/NNP environment/NN ,/, with/IN five/CD path/NN costs/NNS ./.
+The/DT results/NNS show/VBP the/DT new/JJ ,/, Pareto/JJ optimal/JJ D/NN */SYM -/HYPH PO/NN outperforms/VBZ the/DT traditional/JJ A/NN */NFP and/CC D/NN */NFP algorithms/NNS for/IN MOO/NN path/NN planning/NN ./.

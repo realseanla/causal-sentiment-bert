@@ -1,0 +1,7 @@
+Current/JJ Chinese/JJ social/JJ media/NNS text/NN summarization/NN models/NNS are/VBP based/VBN on/IN an/DT encoder/NN -/HYPH decoder/NN framework/NN ./.
+Although/IN its/PRP$ generated/VBN summaries/NNS are/VBP similar/JJ to/IN source/NN texts/NNS literally/RB ,/, they/PRP have/VBP low/JJ semantic/JJ relevance/NN ./.
+In/IN this/DT work/NN ,/, our/PRP$ goal/NN is/VBZ to/TO improve/VB semantic/JJ relevance/NN between/IN source/NN texts/NNS and/CC summaries/NNS for/IN Chinese/JJ social/JJ media/NNS summarization/NN ./.
+We/PRP introduce/VBP a/DT Semantic/JJ Relevance/NN Based/VBN neural/JJ model/NN to/TO encourage/VB high/JJ semantic/JJ similarity/NN between/IN texts/NNS and/CC summaries/NNS ./.
+In/IN our/PRP$ model/NN ,/, the/DT source/NN text/NN is/VBZ represented/VBN by/IN a/DT gated/VBN attention/NN encoder/NN ,/, while/IN the/DT summary/NN representation/NN is/VBZ produced/VBN by/IN a/DT decoder/NN ./.
+Besides/RB ,/, the/DT similarity/NN score/NN between/IN the/DT representations/NNS is/VBZ maximized/VBN during/IN training/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN the/DT proposed/VBN model/NN outperforms/VBZ baseline/NN systems/NNS on/IN a/DT social/JJ media/NN corpus/NN ./.

@@ -1,0 +1,8 @@
+Usually/RB ,/, decision/NN tree/NN induction/NN algorithms/NNS are/VBP limited/VBN to/IN work/NN with/IN non/FW relational/JJ data/NNS ./.
+Given/VBN a/DT record/NN ,/, they/PRP do/VBP not/RB take/VB into/IN account/NN other/JJ objects/NNS attributes/VBZ even/RB though/IN they/PRP can/MD provide/VB valuable/JJ information/NN for/IN the/DT learning/NN task/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP GGQ/NN -/HYPH ID3/NN ,/, a/DT multi-relational/JJ decision/NN tree/NN learning/VBG algorithm/NN that/WDT uses/VBZ Generalized/VBN Graph/NNP Queries/NNPS (/-LRB- GGQ/NN )/-RRB- as/IN predicates/NNS in/IN the/DT decision/NN nodes/NNS ./.
+GGQs/NNS allow/VBP to/TO express/VB complex/JJ patterns/NNS (/-LRB- including/VBG cycles/NNS )/-RRB- and/CC they/PRP can/MD be/VB refined/VBN step/NN -/HYPH by/IN -/HYPH step/NN ./.
+Also/RB ,/, they/PRP can/MD evaluate/VB structures/NNS (/-LRB- not/RB only/RB single/JJ records/NNS )/-RRB- and/CC perform/VB Regular/JJ Pattern/NN Matching/VBG ./.
+GGQ/NN are/VBP built/VBN dynamically/RB (/-LRB- pattern/NN mining/NN )/-RRB- during/IN the/DT GGQ/NN -/HYPH ID3/NN tree/NN construction/NN process/NN ./.
+We/PRP will/MD show/VB how/WRB to/TO use/VB GGQ/NN -/HYPH ID3/NN to/TO perform/VB multi-relational/JJ machine/NN learning/NN keeping/VBG complexity/NN under/IN control/NN ./.
+Finally/RB ,/, some/DT real/JJ examples/NNS of/IN automatically/RB obtained/VBN classification/NN trees/NNS and/CC semantic/JJ patterns/NNS are/VBP shown/VBN ./.

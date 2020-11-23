@@ -1,0 +1,5 @@
+This/DT paper/NN describes/VBZ a/DT Naive/JJ -/HYPH Bayesian/JJ predictive/JJ model/NN for/IN 2016/CD U.S./NNP Presidential/NNP Election/NNP based/VBN on/IN Twitter/NNP data/NNS ./.
+We/PRP use/VBP 33,708/CD tweets/NNS gathered/VBN since/IN December/NNP 16/CD ,/, 2015/CD until/IN February/NNP 29/CD ,/, 2016/CD ./.
+We/PRP introduce/VBP a/DT simpler/JJR data/NNS preprocessing/VBG method/NN to/TO label/VB the/DT data/NNS and/CC train/VB the/DT model/NN ./.
+The/DT model/NN achieves/VBZ 95.8/CD percent/NN accuracy/NN on/IN 10-fold/RB cross/NN validation/NN and/CC predicts/VBZ Ted/NNP Cruz/NNP and/CC Bernie/NNP Sanders/NNP as/IN Republican/NNP and/CC Democratic/JJ nominee/NN respectively/RB ./.
+It/PRP achieves/VBZ a/DT comparable/JJ result/NN to/IN those/DT in/IN its/PRP$ competitor/NN methods/NNS ./.

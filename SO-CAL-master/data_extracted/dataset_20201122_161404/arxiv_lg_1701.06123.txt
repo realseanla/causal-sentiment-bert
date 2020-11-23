@@ -1,0 +1,5 @@
+We address a problem of optimization on product of embedded submanifolds of convolution kernels (PEMs) in convolutional neural networks (CNNs).
+First, we explore metric and curvature properties of PEMs in terms of component manifolds.
+Next, we propose a SGD method, called C-SGD, by generalizing the SGD methods employed on kernel submanifolds for optimization on product of different collections of kernel submanifolds.
+Then, we analyze convergence properties of the C-SGD considering sectional curvature properties of PEMs.
+In the theoretical results, we expound the constraints that can be used to compute adaptive step sizes of the C-SGD in order to assure the asymptotic convergence.

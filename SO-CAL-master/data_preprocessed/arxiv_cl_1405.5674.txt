@@ -1,0 +1,10 @@
+Economic/JJ issues/NNS related/VBN to/IN the/DT information/NN processing/NN techniques/NNS are/VBP very/RB important/JJ ./.
+The/DT development/NN of/IN such/JJ technologies/NNS is/VBZ a/DT major/JJ asset/NN for/IN developing/VBG countries/NNS like/IN Cambodia/NNP and/CC Laos/NNP ,/, and/CC emerging/VBG ones/NNS like/IN Vietnam/NNP ,/, Malaysia/NNP and/CC Thailand/NNP ./.
+The/DT MotAMot/NNP project/NN aims/VBZ to/TO computerize/VB an/DT under/IN -/HYPH resourced/VBN language/NN :/: Khmer/NNP ,/, spoken/VBN mainly/RB in/IN Cambodia/NNP ./.
+The/DT main/JJ goal/NN of/IN the/DT project/NN is/VBZ the/DT development/NN of/IN a/DT multilingual/JJ lexical/JJ system/NN targeted/VBN for/IN Khmer/NNP ./.
+The/DT macrostructure/NN is/VBZ a/DT pivot/NN one/CD with/IN each/DT word/NN sense/NN of/IN each/DT language/NN linked/VBN to/IN a/DT pivot/NN axi/NN ./.
+The/DT microstructure/NN comes/VBZ from/IN a/DT simplification/NN of/IN the/DT explanatory/JJ and/CC combinatory/JJ dictionary/NN ./.
+The/DT lexical/JJ system/NN has/VBZ been/VBN initialized/VBN with/IN data/NNS coming/VBG mainly/RB from/IN the/DT conversion/NN of/IN the/DT French/NNP -/HYPH Khmer/NNP bilingual/JJ dictionary/NN of/IN Denis/NNP Richer/NNP from/IN Word/NNP to/IN XML/NN format/NN ./.
+The/DT French/JJ part/NN was/VBD completed/VBN with/IN pronunciation/NN and/CC parts/NNS -/HYPH of/IN -/HYPH speech/NN coming/VBG from/IN the/DT FeM/NNP French/NNP -/HYPH english/NNP -/: Malay/JJ dictionary/NN ./.
+The/DT Khmer/NNP headwords/NNS noted/VBD in/IN IPA/NN in/IN the/DT Richer/JJR dictionary/NN were/VBD converted/VBN to/IN Khmer/NNP writing/VBG with/IN OpenFST/NN ,/, a/DT finite/JJ state/NN transducer/NN tool/NN ./.
+The/DT resulting/VBG resource/NN is/VBZ available/JJ online/RB for/IN lookup/NN ,/, editing/NN ,/, download/NN and/CC remote/JJ programming/NN via/IN a/DT REST/NN API/NN on/IN a/DT Jibiki/NNP platform/NN ./.

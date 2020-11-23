@@ -1,0 +1,7 @@
+POMDPs/NNS are/VBP standard/JJ models/NNS for/IN probabilistic/JJ planning/NN problems/NNS ,/, where/WRB an/DT agent/NN interacts/VBZ with/IN an/DT uncertain/JJ environment/NN ./.
+We/PRP study/VBP the/DT problem/NN of/IN almost/RB -/HYPH sure/JJ reachability/NN ,/, where/WRB given/VBN a/DT set/NN of/IN target/NN states/NNS ,/, the/DT question/NN is/VBZ to/TO decide/VB whether/IN there/EX is/VBZ a/DT policy/NN to/TO ensure/VB that/IN the/DT target/NN set/NN is/VBZ reached/VBN with/IN probability/NN 1/CD (/-LRB- almost/RB -/HYPH surely/RB )/-RRB- ./.
+While/IN in/IN general/JJ the/DT problem/NN is/VBZ EXPTIME/JJ -/HYPH complete/JJ ,/, in/IN many/JJ practical/JJ cases/NNS policies/NNS with/IN a/DT small/JJ amount/NN of/IN memory/NN suffice/VB ./.
+Moreover/RB ,/, the/DT existing/VBG solution/NN to/IN the/DT problem/NN is/VBZ explicit/JJ ,/, which/WDT first/RB requires/VBZ to/TO construct/VB explicitly/RB an/DT exponential/JJ reduction/NN to/IN a/DT belief/NN -/HYPH support/NN MDP/NN ./.
+In/IN this/DT work/NN ,/, we/PRP first/RB study/VB the/DT existence/NN of/IN observation/NN -/HYPH stationary/JJ strategies/NNS ,/, which/WDT is/VBZ NP/NNP -/HYPH complete/JJ ,/, and/CC then/RB small/JJ -/HYPH memory/NN strategies/NNS ./.
+We/PRP present/VBP a/DT symbolic/JJ algorithm/NN by/IN an/DT efficient/JJ encoding/VBG to/IN SAT/NNP and/CC using/VBG a/DT SAT/NN solver/NN for/IN the/DT problem/NN ./.
+We/PRP report/VBP experimental/JJ results/NNS demonstrating/VBG the/DT scalability/NN of/IN our/PRP$ symbolic/JJ (/-LRB- SAT/NN -/HYPH based/VBN )/-RRB- approach/NN ./.

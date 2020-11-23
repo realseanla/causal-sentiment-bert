@@ -1,0 +1,10 @@
+In/IN this/DT paper/NN we/PRP study/VBP the/DT problem/NN of/IN learning/VBG from/IN multiple/JJ modal/JJ data/NNS for/IN purpose/NN of/IN document/NN classification/NN ./.
+In/IN this/DT problem/NN ,/, each/DT document/NN is/VBZ composed/VBN two/CD different/JJ modals/NNS of/IN data/NNS ,/, i.e./FW ,/, an/DT image/NN and/CC a/DT text/NN ./.
+Cross-modal/JJ factor/NN analysis/NN (/-LRB- CFA/NNP )/-RRB- has/VBZ been/VBN proposed/VBN to/TO project/VB the/DT two/CD different/JJ modals/NNS of/IN data/NNS to/IN a/DT shared/VBN data/NNS space/NN ,/, so/IN that/IN the/DT classification/NN of/IN a/DT image/NN or/CC a/DT text/NN can/MD be/VB performed/VBN directly/RB in/IN this/DT space/NN ./.
+A/DT disadvantage/NN of/IN CFA/NNP is/VBZ that/IN it/PRP has/VBZ ignored/VBN the/DT supervision/NN information/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP improve/VBP CFA/NNP by/IN incorporating/VBG the/DT supervision/NN information/NN to/TO represent/VB and/CC classify/VB both/DT image/NN and/CC text/NN modals/NNS of/IN documents/NNS ./.
+We/PRP project/VBP both/DT image/NN and/CC text/NN data/NNS to/IN a/DT shared/VBN data/NNS space/NN by/IN factor/NN analysis/NN ,/, and/CC then/RB train/VB a/DT class/NN label/NN predictor/NN in/IN the/DT shared/VBN space/NN to/TO use/VB the/DT class/NN label/NN information/NN ./.
+The/DT factor/NN analysis/NN parameter/NN and/CC the/DT predictor/NN parameter/NN are/VBP learned/VBN jointly/RB by/IN solving/VBG one/CD single/JJ objective/NN function/NN ./.
+With/IN this/DT objective/JJ function/NN ,/, we/PRP minimize/VBP the/DT distance/NN between/IN the/DT projections/NNS of/IN image/NN and/CC text/NN of/IN the/DT same/JJ document/NN ,/, and/CC the/DT classification/NN error/NN of/IN the/DT projection/NN measured/VBN by/IN hinge/NN loss/NN function/NN ./.
+The/DT objective/JJ function/NN is/VBZ optimized/VBN by/IN an/DT alternate/JJ optimization/NN strategy/NN in/IN an/DT iterative/JJ algorithm/NN ./.
+Experiments/NNS in/IN two/CD different/JJ multiple/JJ modal/JJ document/NN data/NNS sets/NNS show/VBP the/DT advantage/NN of/IN the/DT proposed/VBN algorithm/NN over/IN other/JJ CFA/NNP methods/NNS ./.

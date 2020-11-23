@@ -1,0 +1,8 @@
+Many/JJ problems/NNS ,/, especially/RB those/DT with/IN a/DT composite/JJ structure/NN ,/, can/MD naturally/RB be/VB expressed/VBN in/IN higher/JJR order/NN logic/NN ./.
+From/IN a/DT KR/NN perspective/NN modeling/VBG these/DT problems/NNS in/IN an/DT intuitive/JJ way/NN is/VBZ a/DT challenging/JJ task/NN ./.
+In/IN this/DT paper/NN we/PRP study/VBP the/DT graph/NN mining/NN problem/NN as/IN an/DT example/NN of/IN a/DT higher/JJR order/NN problem/NN ./.
+In/IN short/JJ ,/, this/DT problem/NN asks/VBZ us/PRP to/TO find/VB a/DT graph/NN that/WDT frequently/RB occurs/VBZ as/IN a/DT subgraph/NN among/IN a/DT set/NN of/IN example/NN graphs/NNS ./.
+We/PRP start/VBP from/IN the/DT problem/NN 's/POS mathematical/JJ definition/NN to/TO solve/VB it/PRP in/IN three/CD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN specification/NN systems/NNS ./.
+For/IN IDP/NN and/CC ASP/NN ,/, which/WDT have/VBP no/DT native/JJ support/NN for/IN higher/JJR order/NN logic/NN ,/, we/PRP propose/VBP the/DT use/NN of/IN encoding/VBG techniques/NNS such/JJ as/IN the/DT disjoint/NN union/NN technique/NN and/CC the/DT saturation/NN technique/NN ./.
+ProB/NN benefits/NNS from/IN the/DT higher/JJR order/NN support/NN for/IN sets/NNS ./.
+We/PRP compare/VBP the/DT performance/NN of/IN the/DT three/CD approaches/NNS to/TO get/VB an/DT idea/NN of/IN the/DT overhead/NN of/IN the/DT higher/JJR order/NN support/NN ./.

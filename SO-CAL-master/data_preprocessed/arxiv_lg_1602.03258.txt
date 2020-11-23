@@ -1,0 +1,5 @@
+Clustering/NN is/VBZ a/DT powerful/JJ tool/NN in/IN data/NNS analysis/NN ,/, but/CC it/PRP is/VBZ often/RB difficult/JJ to/TO find/VB a/DT grouping/NN that/WDT aligns/VBZ with/IN a/DT user/NN 's/POS needs/NNS ./.
+To/TO address/VB this/DT ,/, several/JJ methods/NNS incorporate/VB constraints/NNS obtained/VBN from/IN users/NNS into/IN clustering/NN algorithms/NNS ,/, but/CC unfortunately/RB do/VBP not/RB apply/VB to/IN hierarchical/JJ clustering/NN ./.
+We/PRP design/VBP an/DT interactive/JJ Bayesian/JJ algorithm/NN that/WDT incorporates/VBZ user/NN interaction/NN into/IN hierarchical/JJ clustering/NN while/IN still/RB utilizing/VBG the/DT geometry/NN of/IN the/DT data/NNS by/IN sampling/VBG a/DT constrained/VBN posterior/JJ distribution/NN over/IN hierarchies/NNS ./.
+We/PRP also/RB suggest/VBP several/JJ ways/NNS to/TO intelligently/RB query/VB a/DT user/NN ./.
+The/DT algorithm/NN ,/, along/IN with/IN the/DT querying/VBG schemes/NNS ,/, shows/VBZ promising/JJ results/NNS on/IN real/JJ data/NNS ./.

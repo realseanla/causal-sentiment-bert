@@ -1,0 +1,5 @@
+Unsupervised/JJ learning/NN of/IN low/JJ -/HYPH dimensional/JJ ,/, semantic/JJ representations/NNS of/IN words/NNS and/CC entities/NNS has/VBZ recently/RB gained/VBN attention/NN ./.
+In/IN this/DT paper/NN we/PRP describe/VBP the/DT Semantic/NNP Entity/NNP Retrieval/NNP Toolkit/NNP (/-LRB- SERT/NNP )/-RRB- that/WDT provides/VBZ implementations/NNS of/IN our/PRP$ previously/RB published/VBN entity/NN representation/NN models/NNS ./.
+The/DT toolkit/NN provides/VBZ a/DT unified/JJ interface/NN to/IN different/JJ representation/NN learning/VBG algorithms/NNS ,/, fine/JJ -/HYPH grained/JJ parsing/VBG configuration/NN and/CC can/MD be/VB used/VBN transparently/RB with/IN GPUs/NNS ./.
+In/IN addition/NN ,/, users/NNS can/MD easily/RB modify/VB existing/VBG models/NNS or/CC implement/VB their/PRP$ own/JJ models/NNS in/IN the/DT framework/NN ./.
+After/IN model/NN training/NN ,/, SERT/NNP can/MD be/VB used/VBN to/TO rank/VB entities/NNS according/VBG to/IN a/DT textual/JJ query/NN and/CC extract/VB the/DT learned/VBN entity/NN //HYPH word/NN representation/NN for/IN use/NN in/IN downstream/JJ algorithms/NNS ,/, such/JJ as/IN clustering/NN or/CC recommendation/NN ./.

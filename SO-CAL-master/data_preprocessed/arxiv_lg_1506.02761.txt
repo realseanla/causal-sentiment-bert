@@ -1,0 +1,7 @@
+Embedding/VBG words/NNS in/IN a/DT vector/NN space/NN has/VBZ gained/VBN a/DT lot/NN of/IN research/NN attention/NN in/IN recent/JJ years/NNS ./.
+While/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS provide/VBP efficient/JJ computation/NN of/IN word/NN similarities/NNS via/IN a/DT low/JJ -/HYPH dimensional/JJ matrix/NN embedding/NN ,/, their/PRP$ motivation/NN is/VBZ often/RB left/VBN unclear/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP argue/VBP that/IN word/NN embedding/NN can/MD be/VB naturally/RB viewed/VBN as/IN a/DT ranking/VBG problem/NN ./.
+Then/RB ,/, based/VBN on/IN this/DT insight/NN ,/, we/PRP propose/VBP a/DT novel/JJ framework/NN WordRank/NNP that/WDT efficiently/RB estimates/VBZ word/NN representations/NNS via/IN robust/JJ ranking/NN ./.
+The/DT performance/NN of/IN WordRank/NNP is/VBZ measured/VBN in/IN word/NN similarity/NN and/CC word/NN analogy/NN benchmarks/NNS ,/, and/CC the/DT results/NNS are/VBP compared/VBN to/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN word/NN embedding/NN techniques/NNS ./.
+Our/PRP$ algorithm/NN produces/VBZ a/DT vector/NN space/NN with/IN meaningful/JJ substructure/NN ,/, as/IN evidenced/VBN by/IN its/PRP$ performance/NN of/IN 77.4/CD percent/NN accuracy/NN on/IN a/DT popular/JJ word/NN similarity/NN benchmark/NN and/CC 76/CD percent/NN on/IN the/DT Google/NNP word/NN analogy/NN benchmark/NN ./.
+WordRank/NNP performs/VBZ especially/RB well/RB on/IN small/JJ corpora/NNS ./.

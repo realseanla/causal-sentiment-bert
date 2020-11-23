@@ -1,0 +1,6 @@
+This/DT paper/NN describes/VBZ the/DT use/NN of/IN Naive/NNP Bayes/NNP to/TO address/VB the/DT task/NN of/IN assigning/VBG function/NN tags/NNS and/CC context/NN free/JJ grammar/NN (/-LRB- CFG/NNP )/-RRB- to/TO parse/VB Myanmar/NNP sentences/NNS ./.
+Part/NN of/IN the/DT challenge/NN of/IN statistical/JJ function/NN tagging/VBG for/IN Myanmar/NNP sentences/NNS comes/VBZ from/IN the/DT fact/NN that/IN Myanmar/NNP has/VBZ free/JJ -/HYPH phrase/NN -/HYPH order/NN and/CC a/DT complex/JJ morphological/JJ system/NN ./.
+Function/NN tagging/NN is/VBZ a/DT pre-processing/JJ step/NN for/IN parsing/VBG ./.
+In/IN the/DT task/NN of/IN function/NN tagging/NN ,/, we/PRP use/VBP the/DT functional/JJ annotated/JJ corpus/NN and/CC tag/NN Myanmar/NNP sentences/NNS with/IN correct/JJ segmentation/NN ,/, POS/NN (/-LRB- part/NN -/HYPH of/IN -/HYPH speech/NN )/-RRB- tagging/NN and/CC chunking/VBG information/NN ./.
+We/PRP propose/VBP Myanmar/NNP grammar/NN rules/NNS and/CC apply/VB context/NN free/JJ grammar/NN (/-LRB- CFG/NNP )/-RRB- to/TO find/VB out/RP the/DT parse/VB tree/NN of/IN function/NN tagged/VBN Myanmar/NNP sentences/NNS ./.
+Experiments/NNS show/VBP that/IN our/PRP$ analysis/NN achieves/VBZ a/DT good/JJ result/NN with/IN parsing/VBG of/IN simple/JJ sentences/NNS and/CC three/CD types/NNS of/IN complex/JJ sentences/NNS ./.

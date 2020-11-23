@@ -1,0 +1,6 @@
+Superoptimization/NN requires/VBZ the/DT estimation/NN of/IN the/DT best/JJS program/NN for/IN a/DT given/VBN computational/JJ task/NN ./.
+In/IN order/NN to/TO deal/VB with/IN large/JJ programs/NNS ,/, superoptimization/NN techniques/NNS perform/VBP a/DT stochastic/JJ search/NN ./.
+This/DT involves/VBZ proposing/VBG a/DT modification/NN of/IN the/DT current/JJ program/NN ,/, which/WDT is/VBZ accepted/VBN or/CC rejected/VBN based/VBN on/IN the/DT improvement/NN achieved/VBN ./.
+The/DT state/NN of/IN the/DT art/NN method/NN uses/VBZ uniform/JJ proposal/NN distributions/NNS ,/, which/WDT fails/VBZ to/TO exploit/VB the/DT problem/NN structure/NN to/IN the/DT fullest/JJS ./.
+To/TO alleviate/VB this/DT deficiency/NN ,/, we/PRP learn/VBP a/DT proposal/NN distribution/NN over/IN possible/JJ modifications/NNS using/VBG Reinforcement/NN Learning/NN ./.
+We/PRP provide/VBP convincing/JJ results/NNS on/IN the/DT superoptimization/NN of/IN "/`` Hacker/NNP 's/POS Delight/NNP "/'' programs/NNS ./.

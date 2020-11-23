@@ -1,0 +1,9 @@
+We/PRP propose/VBP a/DT hybrid/NN approach/NN to/IN temporal/JJ anomaly/NN detection/NN in/IN user/NN -/HYPH database/NN access/NN data/NNS --/: or/CC more/JJR generally/RB ,/, any/DT kind/NN of/IN subject/JJ -/HYPH object/NN co-occurrence/NN data/NNS ./.
+Our/PRP$ methodology/NN allows/VBZ identifying/VBG anomalies/NNS based/VBN on/IN a/DT single/JJ stationary/JJ model/NN ,/, instead/RB of/IN requiring/VBG a/DT full/JJ temporal/JJ one/NN ,/, which/WDT would/MD be/VB prohibitive/JJ in/IN our/PRP$ setting/NN ./.
+We/PRP learn/VBP our/PRP$ low/JJ -/HYPH rank/NN stationary/JJ model/NN from/IN the/DT high/JJ -/HYPH dimensional/JJ training/NN data/NNS ,/, and/CC then/RB fit/VB a/DT regression/NN model/NN for/IN predicting/VBG the/DT expected/VBN likelihood/NN score/NN of/IN normal/JJ access/NN patterns/NNS in/IN the/DT future/NN ./.
+The/DT disparity/NN between/IN the/DT predicted/VBN and/CC the/DT observed/VBN likelihood/NN scores/NNS is/VBZ used/VBN to/TO assess/VB the/DT "/`` surprise/NN "/'' ./.
+This/DT approach/NN enables/VBZ calibration/NN of/IN the/DT anomaly/NN score/NN so/RB that/IN time/NN -/HYPH varying/VBG normal/JJ behavior/NN patterns/NNS are/VBP not/RB considered/VBN anomalous/JJ ./.
+We/PRP provide/VBP a/DT detailed/JJ description/NN of/IN the/DT algorithm/NN ,/, including/VBG a/DT convergence/NN analysis/NN ,/, and/CC report/NN encouraging/VBG empirical/JJ results/NNS ./.
+One/CD of/IN the/DT datasets/NNS we/PRP tested/VBD is/VBZ new/JJ for/IN the/DT public/JJ domain/NN ./.
+It/PRP consists/VBZ of/IN two/CD months/NNS '/POS worth/NN of/IN database/NN access/NN records/NNS from/IN a/DT live/JJ system/NN ./.
+This/DT dataset/NN will/MD be/VB made/VBN publicly/RB available/JJ ,/, and/CC is/VBZ provided/VBN in/IN the/DT supplementary/JJ material/NN ./.

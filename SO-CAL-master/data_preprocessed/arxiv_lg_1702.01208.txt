@@ -1,0 +1,11 @@
+Entity/NN resolution/NN (/-LRB- ER/NN )/-RRB- is/VBZ the/DT task/NN of/IN identifying/VBG all/DT records/NNS in/IN a/DT database/NN that/WDT refer/VBP to/IN the/DT same/JJ underlying/VBG entity/NN ,/, and/CC are/VBP therefore/RB duplicates/NNS of/IN each/DT other/JJ ./.
+Due/IN to/IN inherent/JJ ambiguity/NN of/IN data/NNS representation/NN and/CC poor/JJ data/NNS quality/NN ,/, ER/NN is/VBZ a/DT challenging/JJ task/NN for/IN any/DT automated/VBN process/NN ./.
+As/IN a/DT remedy/NN ,/, human/JJ -/HYPH powered/JJ ER/NN via/IN crowdsourcing/NN has/VBZ become/VBN popular/JJ in/IN recent/JJ years/NNS ./.
+Using/VBG crowd/NN to/TO answer/VB queries/NNS is/VBZ costly/JJ and/CC time/NN consuming/VBG ./.
+Furthermore/RB ,/, crowd/NN -/HYPH answers/NNS can/MD often/RB be/VB faulty/JJ ./.
+Therefore/RB ,/, crowd/NN -/HYPH based/VBN ER/NN methods/NNS aim/VBP to/TO minimize/VB human/JJ participation/NN without/IN sacrificing/VBG the/DT quality/NN and/CC use/VB a/DT computer/NN generated/VBN similarity/NN matrix/NN actively/RB ./.
+While/IN ,/, some/DT of/IN these/DT methods/NNS perform/VBP well/RB in/IN practice/NN ,/, no/DT theoretical/JJ analysis/NN exists/VBZ for/IN them/PRP ,/, and/CC further/RB their/PRP$ worst/JJS case/NN performances/NNS do/VBP not/RB reflect/VB the/DT experimental/JJ findings/NNS ./.
+This/DT creates/VBZ a/DT disparity/NN in/IN the/DT understanding/NN of/IN the/DT popular/JJ heuristics/NNS for/IN this/DT problem/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP make/VBP the/DT first/JJ attempt/NN to/TO close/VB this/DT gap/NN ./.
+We/PRP provide/VBP a/DT thorough/JJ analysis/NN of/IN the/DT prominent/JJ heuristic/NN algorithms/NNS for/IN crowd/NN -/HYPH based/VBN ER/NN ./.
+We/PRP justify/VBP experimental/JJ observations/NNS with/IN our/PRP$ analysis/NN and/CC information/NN theoretic/JJ lower/JJR bounds/NNS ./.

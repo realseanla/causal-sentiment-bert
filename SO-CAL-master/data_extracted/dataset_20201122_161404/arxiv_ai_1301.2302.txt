@@ -1,0 +1,6 @@
+There is increasing interest within the research community in the design and use of recursive probability models.
+Although there still remains concern about computational complexity costs and the fact that computing exact solutions can be intractable for many nonrecursive models and impossible in the general case for recursive problems, several research groups are actively developing computational techniques for recursive stochastic languages.
+We have developed an extension to the traditional lambda-calculus as a framework for families of Turing complete stochastic languages.
+We have also developed a class of exact inference algorithms based on the traditional reductions of the lambda-calculus.
+We further propose that using the deBruijn notation (a lambda-calculus notation with nameless dummies) supports effective caching in such systems (caching being an essential component of efficient computation).
+Finally, our extension to the lambda-calculus offers a foundation and general theory for the construction of recursive stochastic modeling languages as well as promise for effective caching and efficient approximation algorithms for inference.

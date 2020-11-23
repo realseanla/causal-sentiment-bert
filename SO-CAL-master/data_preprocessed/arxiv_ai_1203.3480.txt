@@ -1,0 +1,8 @@
+While/IN game/NN theory/NN is/VBZ widely/RB used/VBN to/TO model/VB strategic/JJ interactions/NNS ,/, a/DT natural/JJ question/NN is/VBZ where/WRB do/VBP the/DT game/NN representations/NNS come/VBP from/IN ?/.
+One/CD answer/NN is/VBZ to/TO learn/VB the/DT representations/NNS from/IN data/NNS ./.
+If/IN one/CD wants/VBZ to/TO learn/VB both/CC the/DT payoffs/NNS and/CC the/DT players/NNS '/POS strategies/NNS ,/, a/DT naive/JJ approach/NN is/VBZ to/TO learn/VB them/PRP both/DT directly/RB from/IN the/DT data/NNS ./.
+This/DT approach/NN ignores/VBZ the/DT fact/NN the/DT players/NNS might/MD be/VB playing/VBG reasonably/RB good/JJ strategies/NNS ,/, so/RB there/RB is/VBZ a/DT connection/NN between/IN the/DT strategies/NNS and/CC the/DT data/NNS ./.
+The/DT main/JJ contribution/NN of/IN this/DT paper/NN is/VBZ to/TO make/VB this/DT connection/NN while/IN learning/NN ./.
+We/PRP formulate/VBP the/DT learning/NN problem/NN as/IN a/DT weighted/JJ constraint/NN satisfaction/NN problem/NN ,/, including/VBG constraints/NNS both/CC for/IN the/DT fit/NN of/IN the/DT payoffs/NNS and/CC strategies/NNS to/IN the/DT data/NNS and/CC the/DT fit/NN of/IN the/DT strategies/NNS to/IN the/DT payoffs/NNS ./.
+We/PRP use/VBP quantal/JJ response/NN equilibrium/NN as/IN our/PRP$ notion/NN of/IN rationality/NN for/IN quantifying/VBG the/DT latter/JJ fit/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN incorporating/VBG rationality/NN constraints/NNS can/MD improve/VB learning/NN when/WRB the/DT amount/NN of/IN data/NNS is/VBZ limited/VBN ./.

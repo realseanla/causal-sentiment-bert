@@ -1,0 +1,6 @@
+Tabling/NNP has/VBZ been/VBN used/VBN for/IN some/DT time/NN to/TO improve/VB efficiency/NN of/IN Prolog/NNP programs/NNS by/IN memorizing/VBG answered/VBD queries/NNS ./.
+The/DT same/JJ idea/NN can/MD be/VB naturally/RB used/VBN to/TO memorize/VB visited/VBN states/NNS during/IN search/NN for/IN planning/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT planner/NN developed/VBN in/IN the/DT Picat/NNP language/NN to/TO solve/VB the/DT Petrobras/NNP planning/NN problem/NN ./.
+Picat/NNP is/VBZ a/DT novel/JJ Prolog/NNP -/HYPH like/JJ language/NN that/WDT provides/VBZ pattern/NN matching/NN ,/, deterministic/JJ and/CC non-deterministic/JJ rules/NNS ,/, and/CC tabling/VBG as/IN its/PRP$ core/NN modelling/NN and/CC solving/VBG features/NNS ./.
+We/PRP demonstrate/VBP these/DT capabilities/NNS using/VBG the/DT Petrobras/NNP problem/NN ,/, where/WRB the/DT goal/NN is/VBZ to/TO plan/VB transport/NN of/IN cargo/NN items/NNS from/IN ports/NNS to/IN platforms/NNS using/VBG vessels/NNS with/IN limited/JJ capacity/NN ./.
+Monte/NNP Carlo/NNP Tree/NNP Search/NNP has/VBZ been/VBN so/RB far/RB the/DT best/JJS technique/NN to/TO tackle/VB this/DT problem/NN and/CC we/PRP will/MD show/VB that/IN by/IN using/VBG tabling/VBG we/PRP can/MD achieve/VB much/RB better/JJR runtime/NN efficiency/NN and/CC better/JJR plan/NN quality/NN ./.

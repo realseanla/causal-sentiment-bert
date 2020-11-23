@@ -1,0 +1,7 @@
+Most/JJS extractive/JJ summarization/NN methods/NNS focus/VBP on/IN the/DT main/JJ body/NN of/IN the/DT document/NN from/IN which/WDT sentences/NNS need/VBP to/TO be/VB extracted/VBN ./.
+The/DT gist/NN of/IN the/DT document/NN often/RB lies/VBZ in/IN the/DT side/NN information/NN of/IN the/DT document/NN ,/, such/JJ as/IN title/NN and/CC image/NN captions/NNS ./.
+These/DT types/NNS of/IN side/NN information/NN are/VBP often/RB available/JJ for/IN newswire/NN articles/NNS ./.
+We/PRP propose/VBP to/TO explore/VB side/NN information/NN in/IN the/DT context/NN of/IN single/JJ -/HYPH document/NN extractive/JJ summarization/NN ./.
+We/PRP develop/VBP a/DT framework/NN for/IN single/JJ -/HYPH document/NN summarization/NN composed/VBN of/IN a/DT hierarchical/JJ document/NN encoder/NN and/CC an/DT attention/NN -/HYPH based/VBN extractor/NN with/IN attention/NN over/IN side/NN information/NN ./.
+We/PRP evaluate/VBP our/PRP$ models/NNS on/IN a/DT large/JJ scale/NN news/NN dataset/NN ./.
+We/PRP show/VBP that/IN extractive/JJ summarization/NN with/IN side/NN information/NN consistently/RB outperforms/VBZ its/PRP$ counterpart/NN (/-LRB- that/DT does/VBZ not/RB use/VB any/DT side/NN information/NN )/-RRB- ,/, in/IN terms/NNS on/IN both/DT informativeness/NN and/CC fluency/NN ./.

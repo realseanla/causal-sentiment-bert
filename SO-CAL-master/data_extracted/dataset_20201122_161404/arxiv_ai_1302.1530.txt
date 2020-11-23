@@ -1,0 +1,4 @@
+This paper introduces a new algorithm for the induction if complex finite state automata from samples of behavior.
+The algorithm is based on information theoretic principles.
+The algorithm reduces the search space by many orders of magnitude over what was previously thought possible.
+We compare the algorithm with some existing induction techniques for finite state automata and show that the algorithm is much superior in both run time and quality of inductions.

@@ -1,0 +1,3 @@
+We/PRP solve/VB the/DT COLT/NN 2013/CD open/JJ problem/NN of/IN Seldin/NNP et/FW ./.
+al./FW on/IN minimizing/VBG regret/NN in/IN the/DT setting/NN of/IN advice/NN -/HYPH efficient/JJ multiarmed/JJ bandits/NNS with/IN expert/NN advice/NN ./.
+We/PRP give/VBP an/DT algorithm/NN for/IN the/DT setting/NN of/IN K/NNP arms/NNS and/CC N/NN experts/NNS out/IN of/IN which/WDT we/PRP are/VBP allowed/VBN to/TO query/VB and/CC use/VB only/RB M/NN experts/NNS '/POS advices/NNS in/IN each/DT round/NN ,/, which/WDT has/VBZ a/DT regret/NN bound/VBN of/IN 4/CD \/SYM sqrt/NN {/-LRB- \/SYM frac/NN {/-LRB- \/SYM min/NN \/SYM {/-LRB- K/NN ,/, M/NN \/SYM }/-RRB- N/NN \/SYM log/NN (/-LRB- N/NN )/-RRB- }/-RRB- {/-LRB- M/NN }/-RRB- T/NN }/-RRB- after/IN T/NN rounds/NNS ./.

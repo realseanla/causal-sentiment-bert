@@ -1,0 +1,6 @@
+Many/JJ tasks/NNS in/IN AI/NN require/VBP the/DT collaboration/NN of/IN multiple/JJ agents/NNS ./.
+Typically/RB ,/, the/DT communication/NN protocol/NN between/IN agents/NNS is/VBZ manually/RB specified/VBN and/CC not/RB altered/VBN during/IN training/NN ./.
+In/IN this/DT paper/NN we/PRP explore/VBP a/DT simple/JJ neural/JJ model/NN ,/, called/VBN CommNN/NNP ,/, that/DT uses/VBZ continuous/JJ communication/NN for/IN fully/RB cooperative/JJ tasks/NNS ./.
+The/DT model/NN consists/VBZ of/IN multiple/JJ agents/NNS and/CC the/DT communication/NN between/IN them/PRP is/VBZ learned/VBN alongside/IN their/PRP$ policy/NN ./.
+We/PRP apply/VBP this/DT model/NN to/IN a/DT diverse/JJ set/NN of/IN tasks/NNS ,/, demonstrating/VBG the/DT ability/NN of/IN the/DT agents/NNS to/TO learn/VB to/TO communicate/VB amongst/IN themselves/PRP ,/, yielding/VBG improved/VBN performance/NN over/IN non-communicative/JJ agents/NNS and/CC baselines/NNS ./.
+In/IN some/DT cases/NNS ,/, it/PRP is/VBZ possible/JJ to/TO interpret/VB the/DT language/NN devised/VBN by/IN the/DT agents/NNS ,/, revealing/VBG simple/JJ but/CC effective/JJ strategies/NNS for/IN solving/VBG the/DT task/NN at/IN hand/NN ./.

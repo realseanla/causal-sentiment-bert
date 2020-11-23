@@ -1,0 +1,6 @@
+Recently/RB low/JJ displacement/NN rank/NN (/-LRB- LDR/NN )/-RRB- matrices/NNS ,/, or/CC so/RB -/HYPH called/VBN structured/JJ matrices/NNS ,/, have/VBP been/VBN proposed/VBN to/IN compress/VB large/JJ -/HYPH scale/NN neural/JJ networks/NNS ./.
+Empirical/JJ results/NNS have/VBP shown/VBN that/IN neural/JJ networks/NNS with/IN weight/NN matrices/NNS of/IN LDR/NN matrices/NNS ,/, referred/VBN as/IN LDR/NNP neural/JJ networks/NNS ,/, can/MD achieve/VB significant/JJ reduction/NN in/IN space/NN and/CC computational/JJ complexity/NN while/IN retaining/VBG high/JJ accuracy/NN ./.
+We/PRP formally/RB study/VB LDR/NNP matrices/NNS in/IN deep/JJ learning/NN ./.
+First/RB ,/, we/PRP prove/VBP the/DT universal/JJ approximation/NN property/NN of/IN LDR/NNP neural/JJ networks/NNS with/IN a/DT mild/JJ condition/NN on/IN the/DT displacement/NN operators/NNS ./.
+We/PRP then/RB show/VBP that/IN the/DT error/NN bounds/NNS of/IN LDR/NNP neural/JJ networks/NNS are/VBP as/IN efficient/JJ as/IN general/JJ neural/JJ networks/NNS with/IN both/DT single/JJ -/HYPH layer/NN and/CC multiple/JJ -/HYPH layer/NN structure/NN ./.
+Finally/RB ,/, we/PRP propose/VBP back/RB -/HYPH propagation/NN based/VBN training/NN algorithm/NN for/IN general/JJ LDR/NNP neural/JJ networks/NNS ./.

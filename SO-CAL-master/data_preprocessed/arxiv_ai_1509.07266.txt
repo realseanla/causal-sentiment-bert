@@ -1,0 +1,7 @@
+The/DT phenomenal/JJ growth/NN in/IN the/DT healthcare/NN data/NNS has/VBZ inspired/VBN us/PRP in/IN investigating/VBG robust/JJ and/CC scalable/JJ models/NNS for/IN data/NNS mining/NN ./.
+For/IN classification/NN problems/NNS Information/NNP Gain/NNP (/-LRB- IG/NNP )/-RRB- based/VBN Decision/NN Tree/NN is/VBZ one/CD of/IN the/DT popular/JJ choices/NNS ./.
+However/RB ,/, depending/VBG upon/IN the/DT nature/NN of/IN the/DT dataset/NN ,/, IG/NNP based/VBN Decision/NN Tree/NN may/MD not/RB always/RB perform/VB well/RB as/IN it/PRP prefers/VBZ the/DT attribute/NN with/IN more/JJR number/NN of/IN distinct/JJ values/NNS as/IN the/DT splitting/NN attribute/NN ./.
+Healthcare/NNP datasets/NNS generally/RB have/VBP many/JJ attributes/NNS and/CC each/DT attribute/NN generally/RB has/VBZ many/JJ distinct/JJ values/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP have/VBP tried/VBN to/TO focus/VB on/IN this/DT characteristics/NNS of/IN the/DT datasets/NNS while/IN analysing/VBG the/DT performance/NN of/IN our/PRP$ proposed/VBN approach/NN which/WDT is/VBZ a/DT variant/NN of/IN Decision/NN Tree/NN model/NN and/CC uses/VBZ the/DT concept/NN of/IN Correlation/NN Ratio/NN (/-LRB- CR/NN )/-RRB- ./.
+Unlike/IN IG/NNP based/VBN approach/NN ,/, this/DT CR/NN based/VBN approach/NN has/VBZ no/DT biasness/NN towards/IN the/DT attribute/NN with/IN more/JJR number/NN of/IN distinct/JJ values/NNS ./.
+We/PRP have/VBP applied/VBN our/PRP$ model/NN on/IN some/DT benchmark/NN healthcare/NN datasets/NNS to/TO show/VB the/DT effectiveness/NN of/IN the/DT proposed/VBN technique/NN ./.

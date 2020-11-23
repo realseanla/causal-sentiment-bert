@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP study/VBP complexity/NN of/IN an/DT extension/NN of/IN ordered/VBN binary/JJ decision/NN diagrams/NNS (/-LRB- OBDDs/NNS )/-RRB- called/VBD $/$ c/LS $/$ -/HYPH OBDDs/NNS on/IN CNFs/NNS of/IN bounded/VBN (/-LRB- primal/JJ graph/NN )/-RRB- treewidth/NN ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/IN for/IN each/DT $/$ k/CD $/$ there/EX is/VBZ a/DT class/NN of/IN CNFs/NNS of/IN treewidth/JJ $/$ k/CD \/SYM geq/CD 3/CD $/$ for/IN which/WDT the/DT equivalent/JJ $/$ c/LS $/$ -/HYPH OBDDs/NNS are/VBP of/IN size/NN $/$ \/SYM Omega/NN (/-LRB- n/NN ^/SYM {/-LRB- k/NN //HYPH (/-LRB- 8c/NN -/HYPH 4/CD )/-RRB- }/-RRB- )/-RRB- $/$ ./.
+Moreover/RB ,/, this/DT lower/JJR bound/JJ holds/VBZ if/IN $/$ c/LS $/$ -/HYPH OBDD/NN is/VBZ non-deterministic/JJ and/CC semantic/JJ ./.
+Our/PRP$ second/JJ result/NN uses/VBZ the/DT above/RB lower/JJR bound/VBN to/TO separate/VB the/DT above/JJ model/NN from/IN sentential/JJ decision/NN diagrams/NNS (/-LRB- SDDs/NNS )/-RRB- ./.
+In/IN order/NN to/TO obtain/VB the/DT lower/JJR bound/JJ ,/, we/PRP use/VBP a/DT structural/JJ graph/NN parameter/NN called/VBN matching/VBG width/NN ./.
+Our/PRP$ third/JJ result/NN shows/VBZ that/IN matching/VBG width/NN and/CC pathwidth/NN are/VBP linearly/RB related/VBN ./.

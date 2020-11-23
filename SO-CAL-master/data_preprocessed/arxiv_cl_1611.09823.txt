@@ -1,0 +1,5 @@
+An/DT important/JJ aspect/NN of/IN developing/VBG conversational/JJ agents/NNS is/VBZ to/TO give/VB a/DT bot/NN the/DT ability/NN to/TO improve/VB through/IN communicating/VBG with/IN humans/NNS and/CC to/TO learn/VB from/IN the/DT mistakes/NNS that/WDT it/PRP makes/VBZ ./.
+Most/JJS research/NN has/VBZ focused/VBN on/IN learning/VBG from/IN fixed/JJ training/NN sets/NNS of/IN labeled/VBN data/NNS rather/RB than/IN interacting/VBG with/IN a/DT dialogue/NN partner/NN in/IN an/DT online/JJ fashion/NN ./.
+In/IN this/DT paper/NN we/PRP explore/VBP this/DT direction/NN in/IN a/DT reinforcement/NN learning/VBG setting/NN where/WRB the/DT bot/NN improves/VBZ its/PRP$ question/NN -/HYPH answering/VBG ability/NN from/IN feedback/NN a/DT teacher/NN gives/VBZ following/VBG its/PRP$ generated/VBN responses/NNS ./.
+We/PRP build/VBP a/DT simulator/NN that/WDT tests/VBZ various/JJ aspects/NNS of/IN such/JJ learning/NN in/IN a/DT synthetic/JJ environment/NN ,/, and/CC introduce/VB models/NNS that/WDT work/VBP in/IN this/DT regime/NN ./.
+Finally/RB ,/, real/JJ experiments/NNS with/IN Mechanical/JJ Turk/NNP validate/VB the/DT approach/NN ./.

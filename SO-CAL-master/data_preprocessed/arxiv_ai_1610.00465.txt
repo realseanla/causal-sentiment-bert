@@ -1,0 +1,7 @@
+Perturb/VB and/CC Combine/VB (/-LRB- P&amp;C/NN )/-RRB- group/NN of/IN methods/NNS generate/VBP multiple/JJ versions/NNS of/IN the/DT predictor/NN by/IN perturbing/VBG the/DT training/NN set/NN or/CC construction/NN and/CC then/RB combining/VBG them/PRP into/IN a/DT single/JJ predictor/NN (/-LRB- Breiman/NNP ,/, 1996b/CD )/-RRB- ./.
+The/DT motive/NN is/VBZ to/TO improve/VB the/DT accuracy/NN in/IN unstable/JJ classification/NN and/CC regression/NN methods/NNS ./.
+One/CD of/IN the/DT most/RBS well/RB known/JJ method/NN in/IN this/DT group/NN is/VBZ Bagging/NN ./.
+Arcing/NNP or/CC Adaptive/NNP Resampling/NNP and/CC Combining/VBG methods/NNS like/IN AdaBoost/NNP are/VBP smarter/JJR variants/NNS of/IN P&amp;C/NN methods/NNS ./.
+In/IN this/DT extended/JJ abstract/NN ,/, we/PRP lay/VBD the/DT groundwork/NN for/IN a/DT new/JJ family/NN of/IN methods/NNS under/IN the/DT P&amp;C/NN umbrella/NN ,/, known/VBN as/IN Evolutionary/JJ Sampling/NN (/-LRB- ES/NN )/-RRB- ./.
+We/PRP employ/VBP Evolutionary/JJ algorithms/NNS to/TO suggest/VB smarter/JJR sampling/NN in/IN both/CC the/DT feature/NN space/NN (/-LRB- sub-spaces/NNS )/-RRB- as/RB well/RB as/IN training/NN samples/NNS ./.
+We/PRP discuss/VBP multiple/JJ fitness/NN functions/VBZ to/TO assess/VB ensembles/NNS and/CC empirically/RB compare/VBP our/PRP$ performance/NN against/IN randomized/VBN sampling/NN of/IN training/NN data/NNS and/CC feature/NN sub-spaces/NNS ./.

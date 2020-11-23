@@ -1,0 +1,5 @@
+There/EX has/VBZ been/VBN relatively/RB little/JJ attention/NN to/IN incorporating/VBG linguistic/JJ prior/JJ to/IN neural/JJ machine/NN translation/NN ./.
+Much/JJ of/IN the/DT previous/JJ work/NN was/VBD further/RB constrained/VBN to/IN considering/VBG linguistic/JJ prior/JJ on/IN the/DT source/NN side/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT hybrid/NN model/NN ,/, called/VBN NMT/NNP RG/NNP ,/, that/DT learns/VBZ to/TO parse/VB and/CC translate/VB by/IN combining/VBG the/DT recurrent/JJ neural/JJ network/NN grammar/NN into/IN the/DT attention/NN -/HYPH based/VBN neural/JJ machine/NN translation/NN ./.
+Our/PRP$ approach/NN encourages/VBZ the/DT neural/JJ machine/NN translation/NN model/NN to/TO incorporate/VB linguistic/JJ prior/JJ during/IN training/NN ,/, and/CC lets/VBZ it/PRP translate/VB on/IN its/PRP$ own/JJ afterward/RB ./.
+Extensive/JJ experiments/NNS with/IN four/CD language/NN pairs/NNS show/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN NMT/NN RG/NN ./.

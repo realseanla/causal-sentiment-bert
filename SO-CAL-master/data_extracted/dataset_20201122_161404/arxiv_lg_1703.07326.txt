@@ -1,0 +1,4 @@
+Imitation learning has been commonly applied to solve different tasks in isolation.
+This usually requires either careful feature engineering, or a significant number of samples.
+This is far from what we desire: ideally, robots should be able to learn from very few demonstrations of any given task, and instantly generalize to new situations of the same task, without requiring task-specific engineering.
+In this paper, we propose a meta-learning framework for achieving such capability, which we call one-shot imitation learning.

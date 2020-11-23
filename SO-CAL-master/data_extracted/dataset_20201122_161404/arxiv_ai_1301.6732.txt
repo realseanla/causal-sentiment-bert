@@ -1,0 +1,7 @@
+Graphical models based on conditional independence support concise encodings of the subjective belief of a single agent.
+A natural question is whether the consensus belief of a group of agents can be represented with equal parsimony.
+We prove, under relatively mild assumptions, that even if everyone agrees on a common graph topology, no method of combining beliefs can maintain that structure.
+Even weaker conditions rule out local aggregation within conditional probability tables.
+On a more positive note, we show that if probabilities are combined with the logarithmic opinion pool (LogOP), then commonly held Markov independencies are maintained.
+This suggests a straightforward procedure for constructing a consensus Markov network.
+We describe an algorithm for computing the LogOP with time complexity comparable to that of exact Bayesian inference.

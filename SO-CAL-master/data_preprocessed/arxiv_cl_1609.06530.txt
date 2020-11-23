@@ -1,0 +1,6 @@
+Recent/JJ work/NN on/IN unsupervised/JJ term/NN discovery/NN (/-LRB- UTD/NN )/-RRB- aims/VBZ to/TO identify/VB and/CC cluster/VB repeated/VBN word/NN -/HYPH like/JJ units/NNS from/IN audio/JJ alone/JJ ./.
+These/DT systems/NNS are/VBP promising/VBG for/IN some/DT very/RB low/JJ -/HYPH resource/NN languages/NNS where/WRB transcribed/VBN audio/NN is/VBZ unavailable/JJ ,/, or/CC where/WRB no/DT written/VBN form/NN of/IN the/DT language/NN exists/VBZ ./.
+However/RB ,/, in/IN some/DT cases/NNS it/PRP may/MD still/RB be/VB feasible/JJ (/-LRB- e.g./FW ,/, through/IN crowdsourcing/NN )/-RRB- to/TO obtain/VB (/-LRB- possibly/RB noisy/JJ )/-RRB- text/NN translations/NNS of/IN the/DT audio/NN ./.
+If/IN so/RB ,/, this/DT information/NN could/MD be/VB used/VBN as/IN a/DT source/NN of/IN side/NN information/NN to/TO improve/VB UTD/NN ./.
+Here/RB ,/, we/PRP present/VBP a/DT simple/JJ method/NN for/IN rescoring/VBG the/DT output/NN of/IN a/DT UTD/NN system/NN using/VBG text/NN translations/NNS ,/, and/CC test/VB it/PRP on/IN a/DT corpus/NN of/IN Spanish/JJ audio/NN with/IN English/JJ translations/NNS ./.
+We/PRP show/VBP that/IN it/PRP greatly/RB improves/VBZ the/DT average/JJ precision/NN of/IN the/DT results/NNS over/IN a/DT wide/JJ range/NN of/IN system/NN configurations/NNS and/CC data/NNS preprocessing/JJ methods/NNS ./.

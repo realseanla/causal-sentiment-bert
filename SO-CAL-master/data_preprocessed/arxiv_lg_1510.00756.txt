@@ -1,0 +1,6 @@
+Gibbs/NNP sampling/NN on/IN factor/NN graphs/NNS is/VBZ a/DT widely/RB used/VBN inference/NN technique/NN ,/, which/WDT often/RB produces/VBZ good/JJ empirical/JJ results/NNS ./.
+Theoretical/JJ guarantees/NNS for/IN its/PRP$ performance/NN are/VBP weak/JJ :/: even/RB for/IN tree/NN structured/VBN graphs/NNS ,/, the/DT mixing/VBG time/NN of/IN Gibbs/NNP may/MD be/VB exponential/JJ in/IN the/DT number/NN of/IN variables/NNS ./.
+To/TO help/VB understand/VB the/DT behavior/NN of/IN Gibbs/NNP sampling/NN ,/, we/PRP introduce/VBP a/DT new/JJ (/-LRB- hyper/JJ )/-RRB- graph/NN property/NN ,/, called/VBN hierarchy/NN width/NN ./.
+We/PRP show/VBP that/IN under/IN suitable/JJ conditions/NNS on/IN the/DT weights/NNS ,/, bounded/VBD hierarchy/NN width/NN ensures/VBZ polynomial/JJ mixing/VBG time/NN ./.
+Our/PRP$ study/NN of/IN hierarchy/NN width/NN is/VBZ in/IN part/NN motivated/VBN by/IN a/DT class/NN of/IN factor/NN graph/NN templates/NNS ,/, hierarchical/JJ templates/NNS ,/, which/WDT have/VBP bounded/VBN hierarchy/NN width/NN ---/, regardless/RB of/IN the/DT data/NNS used/VBN to/TO instantiate/VB them/PRP ./.
+We/PRP demonstrate/VBP a/DT rich/JJ application/NN from/IN natural/JJ language/NN processing/NN in/IN which/WDT Gibbs/NNP sampling/NN provably/RB mixes/VBZ rapidly/RB and/CC achieves/VBZ accuracy/NN that/WDT exceeds/VBZ human/JJ volunteers/NNS ./.

@@ -1,0 +1,10 @@
+This article presents the ALOJA project and its analytics tools, which leverages machine learning to interpret Big Data benchmark performance data and tuning.
+ALOJA is part of a long-term collaboration between BSC and Microsoft to automate the characterization of cost-effectiveness on Big Data deployments, currently focusing on Hadoop.
+Hadoop presents a complex run-time environment, where costs and performance depend on a large number of configuration choices.
+The ALOJA project has created an open, vendor-neutral repository, featuring over 40,000 Hadoop job executions and their performance details.
+The repository is accompanied by a test-bed and tools to deploy and evaluate the cost-effectiveness of different hardware configurations, parameters and Cloud services.
+Despite early success within ALOJA, a comprehensive study requires automation of modeling procedures to allow an analysis of large and resource-constrained search spaces.
+The predictive analytics extension, ALOJA-ML, provides an automated system allowing knowledge discovery by modeling environments from observed executions.
+The resulting models can forecast execution behaviors, predicting execution times for new configurations and hardware choices.
+That also enables model-based anomaly detection or efficient benchmark guidance by prioritizing executions.
+In addition, the community can benefit from ALOJA data-sets and framework to improve the design and deployment of Big Data applications.

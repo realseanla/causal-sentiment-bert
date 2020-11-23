@@ -1,0 +1,7 @@
+We/PRP introduce/VBP principal/JJ differences/NNS analysis/NN (/-LRB- PDA/NN )/-RRB- for/IN analyzing/VBG differences/NNS between/IN high/JJ -/HYPH dimensional/JJ distributions/NNS ./.
+The/DT method/NN operates/VBZ by/IN finding/VBG the/DT projection/NN that/WDT maximizes/VBZ the/DT Wasserstein/NNP divergence/NN between/IN the/DT resulting/VBG univariate/JJ populations/NNS ./.
+Relying/VBG on/IN the/DT Cramer/NNP -/HYPH Wold/NNP device/NN ,/, it/PRP requires/VBZ no/DT assumptions/NNS about/IN the/DT form/NN of/IN the/DT underlying/VBG distributions/NNS ,/, nor/CC the/DT nature/NN of/IN their/PRP$ inter-class/NN differences/NNS ./.
+A/DT sparse/JJ variant/NN of/IN the/DT method/NN is/VBZ introduced/VBN to/TO identify/VB features/NNS responsible/JJ for/IN the/DT differences/NNS ./.
+We/PRP provide/VBP algorithms/NNS for/IN both/CC the/DT original/JJ minimax/NN formulation/NN as/RB well/RB as/IN its/PRP$ semidefinite/JJ relaxation/NN ./.
+In/IN addition/NN to/IN deriving/VBG some/DT convergence/NN results/NNS ,/, we/PRP illustrate/VBP how/WRB the/DT approach/NN may/MD be/VB applied/VBN to/TO identify/VB differences/NNS between/IN cell/NN populations/NNS in/IN the/DT somatosensory/JJ cortex/NN and/CC hippocampus/NN as/IN manifested/VBN by/IN single/JJ cell/NN RNA/NN -/HYPH seq/NN ./.
+Our/PRP$ broader/JJR framework/NN extends/VBZ beyond/IN the/DT specific/JJ choice/NN of/IN Wasserstein/NNP divergence/NN ./.

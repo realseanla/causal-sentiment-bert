@@ -1,0 +1,8 @@
+The/DT research/NN on/IN conditional/JJ planning/NN rejects/VBZ the/DT assumptions/NNS that/IN there/EX is/VBZ no/DT uncertainty/NN or/CC incompleteness/NN of/IN knowledge/NN with/IN respect/NN to/IN the/DT state/NN and/CC changes/NNS of/IN the/DT system/NN the/DT plans/NNS operate/VBP on/IN ./.
+Without/IN these/DT assumptions/NNS the/DT sequences/NNS of/IN operations/NNS that/WDT achieve/VBP the/DT goals/NNS depend/VBP on/IN the/DT initial/JJ state/NN and/CC the/DT outcomes/NNS of/IN nondeterministic/JJ changes/NNS in/IN the/DT system/NN ./.
+This/DT setting/NN raises/VBZ the/DT questions/NNS of/IN how/WRB to/TO represent/VB the/DT plans/NNS and/CC how/WRB to/TO perform/VB plan/NN search/NN ./.
+The/DT answers/NNS are/VBP quite/RB different/JJ from/IN those/DT in/IN the/DT simpler/JJR classical/JJ framework/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP approach/VBP conditional/JJ planning/NN from/IN a/DT new/JJ viewpoint/NN that/WDT is/VBZ motivated/VBN by/IN the/DT use/NN of/IN satisfiability/NN algorithms/NNS in/IN classical/JJ planning/NN ./.
+Translating/VBG conditional/JJ planning/NN to/TO formulae/VB in/IN the/DT propositional/JJ logic/NN is/VBZ not/RB feasible/JJ because/IN of/IN inherent/JJ computational/JJ limitations/NNS ./.
+Instead/RB ,/, we/PRP translate/VBP conditional/JJ planning/NN to/IN quantified/VBN Boolean/JJ formulae/NNS ./.
+We/PRP discuss/VBP three/CD formalizations/NNS of/IN conditional/JJ planning/NN as/IN quantified/VBN Boolean/JJ formulae/NNS ,/, and/CC present/JJ experimental/JJ results/NNS obtained/VBN with/IN a/DT theorem/NN -/HYPH prover/NN ./.

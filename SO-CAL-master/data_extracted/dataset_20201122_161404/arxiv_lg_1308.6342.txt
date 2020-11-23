@@ -1,0 +1,5 @@
+We introduce a new algorithm to learn the potentials of a large class of Markov Random Fields (MRFs) with exact and efficient inference.
+If every node in the MRF has a bounded number of neighbors, the proposed algorithm has linear complexity in the number of nodes in the MRF.
+For example, for a fully observed square lattice MRF, parameter estimation using the junction tree inference engine has exponential complexity, but our algorithm only has linear complexity.
+Moreover, the algorithm is naturally parallel and hence applicable to large scale data modeling.
+The algorithm applies to many practical MRFs of great interest, including 2D and 3D lattices, chimera models, and skip-chain conditional random fields.

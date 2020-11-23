@@ -1,0 +1,8 @@
+Various/JJ text/NN analysis/NN techniques/NNS exist/VBP ,/, which/WDT attempt/VBP to/TO uncover/VB unstructured/JJ information/NN from/IN text/NN ./.
+In/IN this/DT work/NN ,/, we/PRP explore/VBP using/VBG statistical/JJ dependence/NN measures/NNS for/IN textual/JJ classification/NN ,/, representing/VBG text/NN as/IN word/NN vectors/NNS ./.
+Student/NN satisfaction/NN scores/NNS on/IN a/DT 3/CD -/HYPH point/NN scale/NN and/CC their/PRP$ free/JJ text/NN comments/NNS written/VBN about/IN university/NN subjects/NNS are/VBP used/VBN as/IN the/DT dataset/NN ./.
+We/PRP have/VBP compared/VBN two/CD textual/JJ representations/NNS :/: a/DT frequency/NN word/NN representation/NN and/CC term/NN frequency/NN relationship/NN to/IN word/NN vectors/NNS ,/, and/CC found/VBD that/IN word/NN vectors/NNS provide/VBP a/DT greater/JJR accuracy/NN ./.
+However/RB ,/, these/DT word/NN vectors/NNS have/VBP a/DT large/JJ number/NN of/IN features/NNS which/WDT aggravates/VBZ the/DT burden/NN of/IN computational/JJ complexity/NN ./.
+Thus/RB ,/, we/PRP explored/VBD using/VBG a/DT non-linear/JJ dependency/NN measure/NN for/IN feature/NN selection/NN by/IN maximizing/VBG the/DT dependence/NN between/IN the/DT text/NN reviews/NNS and/CC corresponding/VBG scores/NNS ./.
+Our/PRP$ quantitative/JJ and/CC qualitative/JJ analysis/NN on/IN a/DT student/NN satisfaction/NN dataset/NN shows/VBZ that/IN our/PRP$ approach/NN achieves/VBZ comparable/JJ accuracy/NN to/IN the/DT full/JJ feature/NN vector/NN ,/, while/IN being/VBG an/DT order/NN of/IN magnitude/NN faster/RBR in/IN testing/NN ./.
+These/DT text/NN analysis/NN and/CC feature/NN reduction/NN techniques/NNS can/MD be/VB used/VBN for/IN other/JJ textual/JJ data/NNS applications/NNS such/JJ as/IN sentiment/NN analysis/NN ./.

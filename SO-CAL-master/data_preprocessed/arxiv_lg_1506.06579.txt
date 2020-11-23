@@ -1,0 +1,9 @@
+Recent/JJ years/NNS have/VBP produced/VBN great/JJ advances/NNS in/IN training/VBG large/JJ ,/, deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- ,/, including/VBG notable/JJ successes/NNS in/IN training/NN convolutional/JJ neural/JJ networks/NNS (/-LRB- convnets/NNS )/-RRB- to/TO recognize/VB natural/JJ images/NNS ./.
+However/RB ,/, our/PRP$ understanding/NN of/IN how/WRB these/DT models/NNS work/VBP ,/, especially/RB what/WP computations/NNS they/PRP perform/VBP at/IN intermediate/JJ layers/NNS ,/, has/VBZ lagged/VBN behind/RB ./.
+Progress/NNP in/IN the/DT field/NN will/MD be/VB further/JJ accelerated/VBN by/IN the/DT development/NN of/IN better/JJR tools/NNS for/IN visualizing/VBG and/CC interpreting/VBG neural/JJ nets/NNS ./.
+We/PRP introduce/VBP two/CD such/JJ tools/NNS here/RB ./.
+The/DT first/JJ is/VBZ a/DT tool/NN that/WDT visualizes/VBZ the/DT activations/NNS produced/VBN on/IN each/DT layer/NN of/IN a/DT trained/VBN convnet/NN as/IN it/PRP processes/VBZ an/DT image/NN or/CC video/NN (/-LRB- e.g./FW a/DT live/JJ webcam/NN stream/NN )/-RRB- ./.
+We/PRP have/VBP found/VBN that/IN looking/VBG at/IN live/JJ activations/NNS that/WDT change/VBP in/IN response/NN to/IN user/NN input/NN helps/VBZ build/VB valuable/JJ intuitions/NNS about/IN how/WRB convnets/JJ work/NN ./.
+The/DT second/JJ tool/NN enables/VBZ visualizing/VBG features/NNS at/IN each/DT layer/NN of/IN a/DT DNN/NNP via/IN regularized/VBN optimization/NN in/IN image/NN space/NN ./.
+Because/IN previous/JJ versions/NNS of/IN this/DT idea/NN produced/VBD less/RBR recognizable/JJ images/NNS ,/, here/RB we/PRP introduce/VBP several/JJ new/JJ regularization/NN methods/NNS that/WDT combine/VBP to/TO produce/VB qualitatively/RB clearer/JJR ,/, more/RBR interpretable/JJ visualizations/NNS ./.
+Both/DT tools/NNS are/VBP open/JJ source/NN and/CC work/NN on/IN a/DT pre-trained/JJ convnet/NN with/IN minimal/JJ setup/NN ./.

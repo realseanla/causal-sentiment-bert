@@ -1,0 +1,4 @@
+Learning/VBG an/DT algorithm/NN from/IN examples/NNS is/VBZ a/DT fundamental/JJ problem/NN that/WDT has/VBZ been/VBN widely/RB studied/VBN ./.
+Recently/RB it/PRP has/VBZ been/VBN addressed/VBN using/VBG neural/JJ networks/NNS ,/, in/IN particular/JJ by/IN Neural/JJ Turing/NN Machines/NNS (/-LRB- NTMs/NNS )/-RRB- ./.
+These/DT are/VBP fully/RB differentiable/JJ computers/NNS that/WDT use/VBP backpropagation/NN to/TO learn/VB their/PRP$ own/JJ programming/NN ./.
+Despite/IN their/PRP$ appeal/NN NTMs/NNS have/VBP a/DT weakness/NN that/WDT is/VBZ caused/VBN by/IN their/PRP$ sequential/JJ nature/NN :/: they/PRP can/MD not/RB be/VB parallelized/VBN and/CC are/VBP are/VBP hard/JJ to/TO train/VB due/IN to/IN their/PRP$ large/JJ depth/NN when/WRB unfolded/VBN ./.

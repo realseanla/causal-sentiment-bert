@@ -1,0 +1,5 @@
+We/PRP propose/VBP Shotgun/NNP ,/, a/DT parallel/JJ coordinate/NN descent/NN algorithm/NN for/IN minimizing/VBG L1/NN -/HYPH regularized/VBN losses/NNS ./.
+Though/IN coordinate/JJ descent/NN seems/VBZ inherently/RB sequential/JJ ,/, we/PRP prove/VBP convergence/NN bounds/NNS for/IN Shotgun/NNP which/WDT predict/VBP linear/JJ speedups/NNS ,/, up/IN to/IN a/DT problem/NN -/HYPH dependent/JJ limit/NN ./.
+We/PRP present/VBP a/DT comprehensive/JJ empirical/JJ study/NN of/IN Shotgun/NNP for/IN Lasso/NNP and/CC sparse/JJ logistic/JJ regression/NN ./.
+Our/PRP$ theoretical/JJ predictions/NNS on/IN the/DT potential/NN for/IN parallelism/NN closely/RB match/VBP behavior/NN on/IN real/JJ data/NNS ./.
+Shotgun/NN outperforms/VBZ other/JJ published/VBN solvers/NNS on/IN a/DT range/NN of/IN large/JJ problems/NNS ,/, proving/VBG to/TO be/VB one/CD of/IN the/DT most/RBS scalable/JJ algorithms/NNS for/IN L1/NN ./.

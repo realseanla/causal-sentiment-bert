@@ -1,0 +1,6 @@
+Information discounting plays an important role in the theory of belief functions and, generally, in information fusion.
+Nevertheless, neither classical uniform discounting nor contextual cannot model certain use cases, notably temporal discounting.
+In this article, new contextual discounting schemes, conservative, proportional and optimistic, are proposed.
+Some properties of these discounting operations are examined.
+Classical discounting is shown to be a special case of these schemes.
+Two motivating cases are discussed: modelling of source reliability and application to temporal discounting.

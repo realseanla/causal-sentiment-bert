@@ -1,0 +1,2 @@
+This paper presents an approach for learning to translate simple narratives, i.e., texts (sequences of sentences) describing dynamic systems, into coherent sequences of events without the need for labeled training data.
+Our approach incorporates domain knowledge in the form of preconditions and effects of events, and we show that it outperforms state-of-the-art supervised learning systems on the task of reconstructing RoboCup soccer games from their commentaries.

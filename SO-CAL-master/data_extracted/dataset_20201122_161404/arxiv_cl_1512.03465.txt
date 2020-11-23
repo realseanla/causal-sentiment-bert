@@ -1,0 +1,8 @@
+Mined Semantic Analysis (MSA) is a novel distributional semantics approach which employs data mining techniques.
+MSA embraces knowledge-driven analysis of natural languages.
+It uncovers implicit relations between concepts by mining for their associations in target encyclopedic corpora.
+MSA exploits not only target corpus content but also its knowledge graph (e.g., "See also" link graph of Wikipedia).
+Empirical results show competitive performance of MSA compared to prior state-of-the-art methods for measuring semantic relatedness on benchmark data sets.
+Additionally, we introduce the first analytical study to examine statistical significance of results reported by different semantic relatedness methods.
+Our study shows that, top performing results could be statistically equivalent though mathematically different.
+The study positions MSA as one of state-of-the-art methods for measuring semantic relatedness.

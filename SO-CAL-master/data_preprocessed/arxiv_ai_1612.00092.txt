@@ -1,0 +1,9 @@
+Sequence/NN modeling/NN with/IN neural/JJ networks/NNS has/VBZ lead/VBN to/IN powerful/JJ models/NNS of/IN symbolic/JJ music/NN data/NNS ./.
+We/PRP address/VBP the/DT problem/NN of/IN exploiting/VBG these/DT models/NNS to/TO reach/VB creative/JJ musical/JJ goals/NNS ./.
+To/IN this/DT end/NN we/PRP generalise/VBP previous/JJ work/NN ,/, which/WDT sampled/VBD Markovian/JJ sequence/NN models/NNS under/IN the/DT constraint/NN that/IN the/DT sequence/NN belong/VBP to/IN the/DT language/NN of/IN a/DT given/VBN finite/JJ state/NN machine/NN ./.
+We/PRP consider/VBP more/RBR expressive/JJ non-Markov/JJ models/NNS ,/, thereby/RB requiring/VBG approximate/JJ sampling/NN which/WDT we/PRP provide/VBP in/IN the/DT form/NN of/IN an/DT efficient/JJ sequential/JJ Monte/NNP Carlo/NNP method/NN ./.
+In/IN addition/NN we/PRP provide/VBP and/CC compare/VBP with/IN a/DT beam/NN search/NN strategy/NN for/IN conditional/JJ probability/NN maximisation/NN ./.
+Our/PRP$ algorithms/NNS are/VBP capable/JJ of/IN convincingly/RB re-harmonising/VBG famous/JJ musical/JJ works/NNS ./.
+To/TO demonstrate/VB this/DT we/PRP provide/VBP visualisations/NNS ,/, quantitative/JJ experiments/NNS ,/, a/DT human/JJ listening/NN test/NN and/CC illustrative/JJ audio/JJ examples/NNS ./.
+We/PRP find/VBP both/CC the/DT sampling/NN and/CC optimisation/NN procedures/NNS to/TO be/VB effective/JJ ,/, yet/CC complementary/JJ in/IN character/NN ./.
+For/IN the/DT case/NN of/IN highly/RB permissive/JJ constraint/NN sets/NNS ,/, we/PRP find/VBP that/IN sampling/NN is/VBZ to/TO be/VB preferred/VBN due/IN to/IN the/DT overly/RB regular/JJ nature/NN of/IN the/DT optimisation/NN based/VBN results/NNS ./.

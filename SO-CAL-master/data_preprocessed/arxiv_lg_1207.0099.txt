@@ -1,0 +1,6 @@
+We/PRP address/VBP the/DT problem/NN of/IN estimating/VBG the/DT difference/NN between/IN two/CD probability/NN densities/NNS ./.
+A/DT naive/JJ approach/NN is/VBZ a/DT two/CD -/HYPH step/NN procedure/NN of/IN first/JJ estimating/VBG two/CD densities/NNS separately/RB and/CC then/RB computing/VBG their/PRP$ difference/NN ./.
+However/RB ,/, such/PDT a/DT two/CD -/HYPH step/NN procedure/NN does/VBZ not/RB necessarily/RB work/VB well/RB because/IN the/DT first/JJ step/NN is/VBZ performed/VBN without/IN regard/NN to/IN the/DT second/JJ step/NN and/CC thus/RB a/DT small/JJ error/NN incurred/VBN in/IN the/DT first/JJ stage/NN can/MD cause/VB a/DT big/JJ error/NN in/IN the/DT second/JJ stage/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT single/JJ -/HYPH shot/NN procedure/NN for/IN directly/RB estimating/VBG the/DT density/NN difference/NN without/IN separately/RB estimating/VBG two/CD densities/NNS ./.
+We/PRP derive/VBP a/DT non-parametric/JJ finite/NN -/HYPH sample/NN error/NN bound/VBN for/IN the/DT proposed/VBN single/JJ -/HYPH shot/NN density/NN -/HYPH difference/NN estimator/NN and/CC show/VBP that/IN it/PRP achieves/VBZ the/DT optimal/JJ convergence/NN rate/NN ./.
+The/DT usefulness/NN of/IN the/DT proposed/JJ method/NN is/VBZ also/RB demonstrated/VBN experimentally/RB ./.

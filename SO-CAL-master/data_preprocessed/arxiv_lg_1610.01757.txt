@@ -1,0 +1,11 @@
+In/IN 2015/CD ,/, stroke/NN was/VBD the/DT number/NN one/CD cause/NN of/IN death/NN in/IN Indonesia/NNP ./.
+The/DT majority/NN type/NN of/IN stroke/NN is/VBZ ischemic/JJ ./.
+The/DT standard/JJ tool/NN for/IN diagnosing/VBG stroke/NN is/VBZ CT/NN -/HYPH Scan/VB ./.
+For/IN developing/VBG countries/NNS like/IN Indonesia/NNP ,/, the/DT availability/NN of/IN CT/NN -/HYPH Scan/VB is/VBZ very/RB limited/JJ and/CC still/RB relatively/RB expensive/JJ ./.
+Because/IN of/IN the/DT availability/NN ,/, another/DT device/NN that/WDT potential/JJ to/TO diagnose/VB stroke/NN in/IN Indonesia/NNP is/VBZ EEG/NN ./.
+Ischemic/JJ stroke/NN occurs/VBZ because/IN of/IN obstruction/NN that/WDT can/MD make/VB the/DT cerebral/JJ blood/NN flow/NN (/-LRB- CBF/NNP )/-RRB- on/IN a/DT person/NN with/IN stroke/NN has/VBZ become/VBN lower/JJR than/IN CBF/NNP on/IN a/DT normal/JJ person/NN (/-LRB- control/NN )/-RRB- so/IN that/IN the/DT EEG/NN signal/NN have/VBP a/DT deceleration/NN ./.
+On/IN this/DT study/NN ,/, we/PRP perform/VBP the/DT ability/NN of/IN 1D/NN Convolutional/JJ Neural/JJ Network/NN (/-LRB- 1DCNN/NN )/-RRB- to/TO construct/VB classification/NN model/NN that/WDT can/MD distinguish/VB the/DT EEG/NN and/CC EOG/NN stroke/NN data/NNS from/IN EEG/NN and/CC EOG/NN control/NN data/NNS ./.
+To/TO accelerate/VB training/NN process/NN our/PRP$ model/NN we/PRP use/VBP Batch/NN Normalization/NN ./.
+Involving/VBG 62/CD person/NN data/NN object/NN and/CC from/IN leave/NN one/CD out/IN the/DT scenario/NN with/IN five/CD times/NNS repetition/NN of/IN measurement/NN we/PRP obtain/VBP the/DT average/NN of/IN accuracy/NN 0.86/CD (/-LRB- F/NN -/HYPH Score/NN 0.861/CD )/-RRB- only/RB at/IN 200/CD epoch/NN ./.
+This/DT result/NN is/VBZ better/JJR than/IN all/DT over/IN shallow/JJ and/CC popular/JJ classifiers/NNS as/IN the/DT comparator/NN (/-LRB- the/DT best/JJS result/NN of/IN accuracy/NN 0.69/CD and/CC F/NN -/HYPH Score/NN 0.72/CD )/-RRB- ./.
+The/DT feature/NN used/VBN in/IN our/PRP$ study/NN were/VBD only/RB 24/CD handcrafted/JJ feature/NN with/IN simple/JJ feature/NN extraction/NN process/NN ./.

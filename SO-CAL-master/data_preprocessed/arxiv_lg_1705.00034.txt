@@ -1,0 +1,6 @@
+Non-cosmic/JJ ,/, non-Gaussian/JJ disturbances/NNS known/VBN as/IN "/`` glitches/NNS "/'' ,/, show/VBP up/RP in/IN gravitational/JJ -/HYPH wave/NN data/NNS of/IN the/DT Advanced/NNP Laser/NN Interferometer/NN Gravitational/JJ -/HYPH wave/NN Observatory/NN ,/, or/CC aLIGO/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT deep/JJ multi-view/NN convolutional/JJ neural/JJ network/NN to/TO classify/VB glitches/NNS automatically/RB ./.
+The/DT primary/JJ purpose/NN of/IN classifying/VBG glitches/NNS is/VBZ to/TO understand/VB their/PRP$ characteristics/NNS and/CC origin/NN ,/, which/WDT facilitates/VBZ their/PRP$ removal/NN from/IN the/DT data/NNS or/CC from/IN the/DT detector/NN entirely/RB ./.
+We/PRP visualize/VBP glitches/NNS as/IN spectrograms/NNS and/CC leverage/NN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN image/NN classification/NN techniques/NNS in/IN our/PRP$ model/NN ./.
+The/DT suggested/VBN classifier/NN is/VBZ a/DT multi-view/JJ deep/JJ neural/JJ network/NN that/WDT exploits/VBZ four/CD different/JJ views/NNS for/IN classification/NN ./.
+The/DT experimental/JJ results/NNS demonstrate/VBP that/IN the/DT proposed/VBN model/NN improves/VBZ the/DT overall/JJ accuracy/NN of/IN the/DT classification/NN compared/VBN to/IN traditional/JJ single/JJ view/NN algorithms/NNS ./.

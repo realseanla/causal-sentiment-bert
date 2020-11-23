@@ -1,0 +1,5 @@
+The/DT goal/NN of/IN this/DT paper/NN is/VBZ to/TO use/VB multi-task/VB learning/NN to/TO efficiently/RB scale/VB slot/NN filling/NN models/NNS for/IN natural/JJ language/NN understanding/NN to/TO handle/VB multiple/JJ target/NN tasks/NNS or/CC domains/NNS ./.
+The/DT key/NN to/IN scalability/NN is/VBZ reducing/VBG the/DT amount/NN of/IN training/NN data/NNS needed/VBN to/TO learn/VB a/DT model/NN for/IN a/DT new/JJ task/NN ./.
+The/DT proposed/VBN multi-task/VBP model/NN delivers/VBZ better/JJR performance/NN with/IN less/JJR data/NNS by/IN leveraging/VBG patterns/NNS that/IN it/PRP learns/VBZ from/IN the/DT other/JJ tasks/NNS ./.
+The/DT approach/NN supports/VBZ an/DT open/JJ vocabulary/NN ,/, which/WDT allows/VBZ the/DT models/NNS to/TO generalize/VB to/IN unseen/JJ words/NNS ,/, which/WDT is/VBZ particularly/RB important/JJ when/WRB very/RB little/JJ training/NN data/NNS is/VBZ used/VBN ./.
+A/DT newly/RB collected/VBN crowd/NN -/HYPH sourced/VBN data/NNS set/VBN ,/, covering/VBG four/CD different/JJ domains/NNS ,/, is/VBZ used/VBN to/TO demonstrate/VB the/DT effectiveness/NN of/IN the/DT domain/NN adaptation/NN and/CC open/JJ vocabulary/NN techniques/NNS ./.

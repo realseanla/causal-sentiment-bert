@@ -1,0 +1,9 @@
+Zero/CD -/HYPH sum/NN stochastic/JJ games/NNS are/VBP easy/JJ to/TO solve/VB as/IN they/PRP can/MD be/VB cast/VBN as/RB simple/JJ Markov/NNP decision/NN processes/NNS ./.
+This/DT is/VBZ however/RB not/RB the/DT case/NN with/IN general/JJ -/HYPH sum/NN stochastic/JJ games/NNS ./.
+A/DT fairly/RB general/JJ optimization/NN problem/NN formulation/NN is/VBZ available/JJ for/IN general/JJ -/HYPH sum/NN stochastic/JJ games/NNS by/IN Filar/NNP and/CC Vrieze/NNP [/-LRB- 2004/CD ]/-RRB- ./.
+However/RB ,/, the/DT optimization/NN problem/NN there/RB has/VBZ a/DT non-linear/JJ objective/NN and/CC non-linear/JJ constraints/NNS with/IN special/JJ structure/NN ./.
+Since/IN gradients/NNS of/IN both/CC the/DT objective/NN as/RB well/RB as/IN constraints/NNS of/IN this/DT optimization/NN problem/NN are/VBP well/RB defined/VBN ,/, gradient/NN based/VBN schemes/NNS seem/VBP to/TO be/VB a/DT natural/JJ choice/NN ./.
+We/PRP discuss/VBP a/DT gradient/NN scheme/NN tuned/VBN for/IN two/CD -/HYPH player/NN stochastic/JJ games/NNS ./.
+We/PRP show/VBP in/IN simulations/NNS that/IN this/DT scheme/NN indeed/RB converges/VBZ to/IN a/DT Nash/NNP equilibrium/NN ,/, for/IN a/DT simple/JJ terrain/NN exploration/NN problem/NN modelled/VBN as/IN a/DT general/JJ -/HYPH sum/NN stochastic/JJ game/NN ./.
+However/RB ,/, it/PRP turns/VBZ out/RP that/IN only/RB global/JJ minima/NN of/IN the/DT optimization/NN problem/NN correspond/VBP to/IN Nash/NNP equilibria/NNS of/IN the/DT underlying/VBG general/JJ -/HYPH sum/NN stochastic/JJ game/NN ,/, while/IN gradient/NN schemes/NNS only/RB guarantee/VBP convergence/NN to/IN local/JJ minima/NN ./.
+We/PRP then/RB provide/VBP important/JJ necessary/JJ conditions/NNS for/IN gradient/NN schemes/NNS to/TO converge/VB to/IN Nash/NNP equilibria/NNP in/IN general/JJ -/HYPH sum/NN stochastic/JJ games/NNS ./.

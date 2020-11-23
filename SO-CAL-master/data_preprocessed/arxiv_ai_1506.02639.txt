@@ -1,0 +1,7 @@
+We/PRP show/VBP new/JJ limits/NNS on/IN the/DT efficiency/NN of/IN using/VBG current/JJ techniques/NNS to/TO make/VB exact/JJ probabilistic/JJ inference/NN for/IN large/JJ classes/NNS of/IN natural/JJ problems/NNS ./.
+In/IN particular/JJ we/PRP show/VBP new/JJ lower/JJR bounds/NNS on/IN knowledge/NN compilation/NN to/IN SDD/NNP and/CC DNNF/NNP forms/NNS ./.
+We/PRP give/VBP strong/JJ lower/JJR bounds/NNS on/IN the/DT complexity/NN of/IN SDD/NN representations/NNS by/IN relating/VBG SDD/NNP size/NN to/IN best/JJS -/HYPH partition/NN communication/NN complexity/NN ./.
+We/PRP use/VBP this/DT relationship/NN to/TO prove/VB exponential/JJ lower/JJR bounds/NNS on/IN the/DT SDD/NNP size/NN for/IN representing/VBG a/DT large/JJ class/NN of/IN problems/NNS that/WDT occur/VBP naturally/RB as/IN queries/NNS over/IN probabilistic/JJ databases/NNS ./.
+A/DT consequence/NN is/VBZ that/IN for/IN representing/VBG unions/NNS of/IN conjunctive/JJ queries/NNS ,/, SDDs/NNS are/VBP not/RB qualitatively/RB more/RBR concise/JJ than/IN OBDDs/NNS ./.
+We/PRP also/RB derive/VBP simple/JJ examples/NNS for/IN which/WDT SDDs/NNS must/MD be/VB exponentially/RB less/RBR concise/JJ than/IN FBDDs/NNS ./.
+Finally/RB ,/, we/PRP derive/VBP exponential/JJ lower/JJR bounds/NNS on/IN the/DT sizes/NNS of/IN DNNF/NN representations/NNS using/VBG a/DT new/JJ quasipolynomial/JJ simulation/NN of/IN DNNFs/NNS by/IN nondeterministic/JJ FBDDs/NNS ./.

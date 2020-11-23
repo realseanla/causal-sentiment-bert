@@ -1,0 +1,9 @@
+We/PRP consider/VBP probabilistic/JJ inference/NN in/IN general/JJ hybrid/NN networks/NNS ,/, which/WDT include/VBP continuous/JJ and/CC discrete/JJ variables/NNS in/IN an/DT arbitrary/JJ topology/NN ./.
+We/PRP reexamine/VBP the/DT question/NN of/IN variable/JJ discretization/NN in/IN a/DT hybrid/NN network/NN aiming/VBG at/IN minimizing/VBG the/DT information/NN loss/NN induced/VBN by/IN the/DT discretization/NN ./.
+We/PRP show/VBP that/IN a/DT nonuniform/JJ partition/NN across/IN all/DT variables/NNS as/IN opposed/VBN to/IN uniform/JJ partition/NN of/IN each/DT variable/JJ separately/RB reduces/VBZ the/DT size/NN of/IN the/DT data/NNS structures/NNS needed/VBN to/TO represent/VB a/DT continuous/JJ function/NN ./.
+We/PRP also/RB provide/VBP a/DT simple/JJ but/CC efficient/JJ procedure/NN for/IN nonuniform/JJ partition/NN ./.
+To/TO represent/VB a/DT nonuniform/JJ discretization/NN in/IN the/DT computer/NN memory/NN ,/, we/PRP introduce/VBP a/DT new/JJ data/NNS structure/NN ,/, which/WDT we/PRP call/VBP a/DT Binary/NNP Split/NNP Partition/NN (/-LRB- BSP/NN )/-RRB- tree/NN ./.
+We/PRP show/VBP that/IN BSP/NN trees/NNS can/MD be/VB an/DT exponential/JJ factor/NN smaller/JJR than/IN the/DT data/NNS structures/NNS in/IN the/DT standard/JJ uniform/JJ discretization/NN in/IN multiple/JJ dimensions/NNS and/CC show/VB how/WRB the/DT BSP/NN trees/NNS can/MD be/VB used/VBN in/IN the/DT standard/JJ join/VB tree/NN algorithm/NN ./.
+We/PRP show/VBP that/IN the/DT accuracy/NN of/IN the/DT inference/NN process/NN can/MD be/VB significantly/RB improved/VBN by/IN adjusting/VBG discretization/NN with/IN evidence/NN ./.
+We/PRP construct/VBP an/DT iterative/JJ anytime/NN algorithm/NN that/WDT gradually/RB improves/VBZ the/DT quality/NN of/IN the/DT discretization/NN and/CC the/DT accuracy/NN of/IN the/DT answer/NN on/IN a/DT query/NN ./.
+We/PRP provide/VBP empirical/JJ evidence/NN that/IN the/DT algorithm/NN converges/VBZ ./.

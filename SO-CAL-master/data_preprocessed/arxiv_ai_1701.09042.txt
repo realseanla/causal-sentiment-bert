@@ -1,0 +1,9 @@
+Frequent/JJ itemset/NN mining/NN is/VBZ a/DT popular/JJ data/NNS mining/NN technique/NN ./.
+Apriori/NNP ,/, Eclat/NNP ,/, and/CC FP/NN -/HYPH Growth/NN are/VBP among/IN the/DT most/RBS common/JJ algorithms/NNS for/IN frequent/JJ itemset/NN mining/NN ./.
+Considerable/JJ research/NN has/VBZ been/VBN performed/VBN to/TO compare/VB the/DT relative/JJ performance/NN between/IN these/DT three/CD algorithms/NNS ,/, by/IN evaluating/VBG the/DT scalability/NN of/IN each/DT algorithm/NN as/IN the/DT dataset/NN size/NN increases/NNS ./.
+While/IN scalability/NN as/IN data/NNS size/NN increases/VBZ is/VBZ important/JJ ,/, previous/JJ papers/NNS have/VBP not/RB examined/VBN the/DT performance/NN impact/NN of/IN similarly/RB sized/JJ datasets/NNS that/WDT contain/VBP different/JJ itemset/JJ characteristics/NNS ./.
+This/DT paper/NN explores/VBZ the/DT effects/NNS that/WDT two/CD dataset/NN characteristics/NNS can/MD have/VB on/IN the/DT performance/NN of/IN these/DT three/CD frequent/JJ itemset/NN algorithms/NNS ./.
+To/TO perform/VB this/DT empirical/JJ analysis/NN ,/, a/DT dataset/NN generator/NN is/VBZ created/VBN to/TO measure/VB the/DT effects/NNS of/IN frequent/JJ item/NN density/NN and/CC the/DT maximum/JJ transaction/NN size/NN on/IN performance/NN ./.
+The/DT generated/VBN datasets/NNS contain/VBP the/DT same/JJ number/NN of/IN rows/NNS ./.
+This/DT provides/VBZ some/DT insight/NN into/IN dataset/NN characteristics/NNS that/WDT are/VBP conducive/JJ to/IN each/DT algorithm/NN ./.
+The/DT results/NNS of/IN this/DT paper/NN 's/POS research/NN demonstrate/VBP Eclat/NN and/CC FP/NN -/HYPH Growth/NN both/CC handle/VB increases/NNS in/IN maximum/JJ transaction/NN size/NN and/CC frequent/JJ itemset/NN density/NN considerably/RB better/JJR than/IN the/DT Apriori/NNP algorithm/NN ./.

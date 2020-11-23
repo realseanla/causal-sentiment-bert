@@ -1,0 +1,10 @@
+As/IN Wireless/NNP Sensor/NNP Networks/NNPS are/VBP penetrating/VBG into/IN the/DT industrial/JJ domain/NN ,/, many/JJ research/NN opportunities/NNS are/VBP emerging/VBG ./.
+One/CD such/JJ essential/JJ and/CC challenging/JJ application/NN is/VBZ that/IN of/IN node/NN localization/NN ./.
+A/DT feed/NN -/HYPH forward/JJ neural/JJ network/NN based/VBN methodology/NN is/VBZ adopted/VBN in/IN this/DT paper/NN ./.
+The/DT Received/VBN Signal/NNP Strength/NNP Indicator/NNP (/-LRB- RSSI/NNP )/-RRB- values/NNS of/IN the/DT anchor/NN node/NN beacons/NNS are/VBP used/VBN ./.
+The/DT number/NN of/IN anchor/NN nodes/NNS and/CC their/PRP$ configurations/NNS has/VBZ an/DT impact/NN on/IN the/DT accuracy/NN of/IN the/DT localization/NN system/NN ,/, which/WDT is/VBZ also/RB addressed/VBN in/IN this/DT paper/NN ./.
+Five/CD different/JJ training/NN algorithms/NNS are/VBP evaluated/VBN to/TO find/VB the/DT training/NN algorithm/NN that/WDT gives/VBZ the/DT best/JJS result/NN ./.
+The/DT multi-layer/JJ Perceptron/NNP (/-LRB- MLP/NNP )/-RRB- neural/JJ network/NN model/NN was/VBD trained/VBN using/VBG Matlab/NNP ./.
+In/IN order/NN to/TO evaluate/VB the/DT performance/NN of/IN the/DT proposed/JJ method/NN in/IN real/JJ time/NN ,/, the/DT model/NN obtained/VBN was/VBD then/RB implemented/VBN on/IN the/DT Arduino/NNP microcontroller/NNP ./.
+With/IN four/CD anchor/NN nodes/NNS ,/, an/DT average/JJ 2D/NN localization/NN error/NN of/IN 0.2953/CD m/NN has/VBZ been/VBN achieved/VBN with/IN a/DT 12/CD -12-2/CD neural/JJ network/NN structure/NN ./.
+The/DT proposed/JJ method/NN can/MD also/RB be/VB implemented/VBN on/IN any/DT other/JJ embedded/VBN microcontroller/NN system/NN ./.

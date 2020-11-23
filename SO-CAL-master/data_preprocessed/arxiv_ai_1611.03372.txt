@@ -1,0 +1,7 @@
+A/DT new/JJ agent/NN architecture/NN called/VBN Limited/JJ Instruction/NN Set/VBN Agent/NNP (/-LRB- LISA/NNP )/-RRB- is/VBZ introduced/VBN for/IN autonomous/JJ control/NN ./.
+The/DT new/JJ architecture/NN is/VBZ based/VBN on/IN previous/JJ implementations/NNS of/IN AgentSpeak/NNP and/CC it/PRP is/VBZ structurally/RB simpler/JJR than/IN its/PRP$ predecessors/NNS with/IN the/DT aim/NN of/IN facilitating/VBG design/NN -/HYPH time/NN and/CC run/VB -/HYPH time/NN verification/NN methods/NNS ./.
+The/DT process/NN of/IN abstracting/VBG the/DT LISA/NNP system/NN to/IN two/CD different/JJ types/NNS of/IN discrete/JJ probabilistic/JJ models/NNS (/-LRB- DTMC/NN and/CC MDP/NN )/-RRB- is/VBZ investigated/VBN and/CC illustrated/VBN ./.
+The/DT LISA/NNP system/NN provides/VBZ a/DT tool/NN for/IN complete/JJ modelling/NN of/IN the/DT agent/NN and/CC the/DT environment/NN for/IN probabilistic/JJ verification/NN ./.
+The/DT agent/NN program/NN can/MD be/VB automatically/RB compiled/VBN into/IN a/DT DTMC/NN or/CC a/DT MDP/NN model/NN for/IN verification/NN with/IN Prism/NN ./.
+The/DT automatically/RB generated/VBN Prism/NN model/NN can/MD be/VB used/VBN for/IN both/DT design/NN -/HYPH time/NN and/CC run/VB -/HYPH time/NN verification/NN ./.
+The/DT run/NN -/HYPH time/NN verification/NN is/VBZ investigated/VBN and/CC illustrated/VBN in/IN the/DT LISA/NNP system/NN as/IN an/DT internal/JJ modelling/NN mechanism/NN for/IN prediction/NN of/IN future/JJ outcomes/NNS ./.

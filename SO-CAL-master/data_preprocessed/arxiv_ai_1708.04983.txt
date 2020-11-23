@@ -1,0 +1,3 @@
+T/NN -/HYPH distributed/VBN stochastic/JJ neighbor/NN embedding/NN (/-LRB- tSNE/NN )/-RRB- is/VBZ a/DT popular/JJ and/CC prize/NN -/HYPH winning/VBG approach/NN for/IN dimensionality/NN reduction/NN and/CC visualizing/VBG high/JJ -/HYPH dimensional/JJ data/NNS ./.
+However/RB ,/, tSNE/NN is/VBZ non-parametric/JJ :/: once/RB visualization/NN is/VBZ built/VBN ,/, tSNE/NN is/VBZ not/RB designed/VBN to/TO incorporate/VB additional/JJ data/NNS into/IN existing/VBG representation/NN ./.
+It/PRP highly/RB limits/VBZ the/DT applicability/NN of/IN tSNE/NN to/IN the/DT scenarios/NNS where/WRB data/NNS are/VBP added/VBN or/CC updated/VBN over/IN time/NN (/-LRB- like/IN dashboards/NNS or/CC series/NN of/IN data/NNS snapshots/NNS )/-RRB- ./.

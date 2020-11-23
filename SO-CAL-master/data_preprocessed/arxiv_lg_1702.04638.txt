@@ -1,0 +1,8 @@
+In/IN modern/JJ machine/NN learning/NN ,/, pattern/NN recognition/NN replaces/VBZ realtime/NN semantic/JJ reasoning/NN ./.
+The/DT mapping/NN from/IN input/NN to/IN output/NN is/VBZ learned/VBN with/IN fixed/VBN semantics/NNS by/IN training/VBG outcomes/NNS deliberately/RB ./.
+This/DT is/VBZ an/DT expensive/JJ and/CC static/JJ approach/NN which/WDT depends/VBZ heavily/RB on/IN the/DT availability/NN of/IN a/DT very/RB particular/JJ kind/NN of/IN prior/JJ raining/VBG data/NNS to/TO make/VB inferences/NNS in/IN a/DT single/JJ step/NN ./.
+Conventional/JJ semantic/JJ network/NN approaches/NNS ,/, on/IN the/DT other/JJ hand/NN ,/, base/NN multi-step/JJ reasoning/NN on/IN modal/JJ logics/NNS and/CC handcrafted/VBN ontologies/NNS ,/, which/WDT are/VBP {/-LRB- \/SYM em/PRP ad/FW hoc/FW }/-RRB- ,/, expensive/JJ to/TO construct/VB ,/, and/CC fragile/JJ to/IN inconsistency/NN ./.
+Both/DT approaches/NNS may/MD be/VB enhanced/VBN by/IN a/DT hybrid/NN approach/NN ,/, which/WDT completely/RB separates/VBZ reasoning/NN from/IN pattern/NN recognition/NN ./.
+In/IN this/DT report/NN ,/, a/DT quasi-linguistic/JJ approach/NN to/IN knowledge/NN representation/NN is/VBZ discussed/VBN ,/, motivated/VBN by/IN spacetime/NN structure/NN ./.
+Tokenized/VBN patterns/NNS from/IN diverse/JJ sources/NNS are/VBP integrated/VBN to/TO build/VB a/DT lightly/RB constrained/VBN and/CC approximately/RB scale/NN -/HYPH free/JJ network/NN ./.
+This/DT is/VBZ then/RB be/VB parsed/VBN with/IN very/RB simple/JJ recursive/JJ algorithms/NNS to/TO generate/VB `/`` brainstorming/NN '/'' sets/NNS of/IN reasoned/JJ knowledge/NN ./.

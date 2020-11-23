@@ -1,0 +1,5 @@
+We present probabilistic logic programming under inheritance with overriding.
+This approach is based on new notions of entailment for reasoning with conditional constraints, which are obtained from the classical notion of logical entailment by adding the principle of inheritance with overriding.
+This is done by using recent approaches to probabilistic default reasoning with conditional constraints.
+We analyze the semantic properties of the new entailment relations.
+We also present algorithms for probabilistic logic programming under inheritance with overriding, and program transformations for an increased efficiency.

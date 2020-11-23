@@ -1,0 +1,9 @@
+Most/JJS provably/RB -/HYPH efficient/JJ learning/NN algorithms/NNS introduce/VBP optimism/NN about/IN poorly/RB -/HYPH understood/VBN states/NNS and/CC actions/NNS to/TO encourage/VB exploration/NN ./.
+We/PRP study/VBP an/DT alternative/JJ approach/NN for/IN efficient/JJ exploration/NN ,/, \/SYM emph/NN {/-LRB- posterior/JJ sampling/NN for/IN reinforcement/NN learning/VBG }/-RRB- (/-LRB- PSRL/NNP )/-RRB- ./.
+This/DT algorithm/NN proceeds/VBZ in/IN repeated/VBN episodes/NNS of/IN known/VBN duration/NN ./.
+At/IN the/DT start/NN of/IN each/DT episode/NN ,/, PSRL/NN updates/NNS a/DT prior/JJ distribution/NN over/IN Markov/NNP decision/NN processes/NNS and/CC takes/VBZ one/CD sample/NN from/IN this/DT posterior/JJ ./.
+PSRL/NNP then/RB follows/VBZ the/DT policy/NN that/WDT is/VBZ optimal/JJ for/IN this/DT sample/NN during/IN the/DT episode/NN ./.
+The/DT algorithm/NN is/VBZ conceptually/RB simple/JJ ,/, computationally/RB efficient/JJ and/CC allows/VBZ an/DT agent/NN to/TO encode/VB prior/JJ knowledge/NN in/IN a/DT natural/JJ way/NN ./.
+We/PRP establish/VBP an/DT $/$ \/SYM tilde/NN {/-LRB- O/NN }/-RRB- (/-LRB- \/SYM tau/NN S/NN \/SYM sqrt/NN {/-LRB- AT/NN }/-RRB- )/-RRB- $/$ bound/VBN on/IN the/DT expected/VBN regret/NN ,/, where/WRB $/$ T$/CD is/VBZ time/NN ,/, $/$ \/SYM tau/NN $/$ is/VBZ the/DT episode/NN length/NN and/CC $/$ S$/CD and/CC $/$ A$/$ are/VBP the/DT cardinalities/NNS of/IN the/DT state/NN and/CC action/NN spaces/NNS ./.
+This/DT bound/VBN is/VBZ one/CD of/IN the/DT first/JJ for/IN an/DT algorithm/NN not/RB based/VBN on/IN optimism/NN ,/, and/CC close/JJ to/IN the/DT state/NN of/IN the/DT art/NN for/IN any/DT reinforcement/NN learning/VBG algorithm/NN ./.
+We/PRP show/VBP through/IN simulation/NN that/WDT PSRL/NNP significantly/RB outperforms/VBZ existing/VBG algorithms/NNS with/IN similar/JJ regret/NN bounds/NNS ./.

@@ -1,0 +1,4 @@
+Backdoors and backbones of Boolean formulas are hidden structural properties that are relevant to the analysis of the hardness of instances of the SAT problem.
+The development and analysis of algorithms to find and make use of these properties is thus useful to improve the performance of modern solvers and our general understanding of SAT.
+In this work we show that, under the assumption that P$\neq$NP, there are easily-recognizable sets of Boolean formulas for which it is hard to determine whether they have a backbone.
+We also show that, under the same assumption, there are easily-recognizable families of Boolean formulas with strong backdoors that are easy to find, for which it is hard to determine whether they are satisfiable or not.

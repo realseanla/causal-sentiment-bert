@@ -1,0 +1,4 @@
+The paper presents an application of non-linear stacking ensembles for prediction of Go player attributes.
+An evolutionary algorithm is used to form a diverse ensemble of base learners, which are then aggregated by a stacking ensemble.
+This methodology allows for an efficient prediction of different attributes of Go players from sets of their games.
+These attributes can be fairly general, in this work, we used the strength and style of the players.

@@ -1,0 +1,3 @@
+Gradients have been used to quantify feature importance in machine learning models.
+Unfortunately, in nonlinear deep networks, not only individual neurons but also the whole network can saturate, and as a result an important input feature can have a tiny gradient.
+We study various networks, and observe that this phenomena is indeed widespread, across many inputs.

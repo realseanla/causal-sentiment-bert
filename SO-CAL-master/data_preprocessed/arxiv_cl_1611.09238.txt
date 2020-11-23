@@ -1,0 +1,6 @@
+Developed/VBN so/RB far/RB ,/, multi-document/JJ summarization/NN has/VBZ reached/VBN its/PRP$ bottleneck/NN due/IN to/IN the/DT lack/NN of/IN sufficient/JJ training/NN data/NNS and/CC diverse/JJ categories/NNS of/IN documents/NNS ./.
+Text/VB classification/NN just/RB makes/VBZ up/RP for/IN these/DT deficiencies/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ summarization/NN system/NN called/VBN TCSum/NNP ,/, which/WDT leverages/VBZ plentiful/JJ text/NN classification/NN data/NNS to/TO improve/VB the/DT performance/NN of/IN multi-document/JJ summarization/NN ./.
+TCSum/NN projects/NNS documents/NNS onto/IN distributed/VBN representations/NNS which/WDT act/VBP as/IN a/DT bridge/NN between/IN text/NN classification/NN and/CC summarization/NN ./.
+It/PRP also/RB utilizes/VBZ the/DT classification/NN results/VBZ to/TO produce/VB summaries/NNS of/IN different/JJ styles/NNS ./.
+Extensive/JJ experiments/NNS on/IN DUC/NNP generic/JJ multi-document/JJ summarization/NN datasets/NNS show/VBP that/IN ,/, TCSum/NNP can/MD achieve/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN without/IN using/VBG any/DT hand/NN -/HYPH crafted/VBN features/NNS and/CC has/VBZ the/DT capability/NN to/TO catch/VB the/DT variations/NNS of/IN summary/NN styles/NNS with/IN respect/NN to/IN different/JJ text/NN categories/NNS ./.

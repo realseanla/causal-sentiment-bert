@@ -1,0 +1,8 @@
+Existing/VBG works/NNS based/VBN on/IN latent/JJ factor/NN models/NNS have/VBP focused/VBN on/IN representing/VBG the/DT rating/NN matrix/NN as/IN a/DT product/NN of/IN user/NN and/CC item/NN latent/JJ factor/NN matrices/NNS ,/, both/DT being/VBG dense/JJ ./.
+Latent/JJ (/-LRB- factor/NN )/-RRB- vectors/NNS define/VBP the/DT degree/NN to/TO which/WDT a/DT trait/NN is/VBZ possessed/VBN by/IN an/DT item/NN or/CC the/DT affinity/NN of/IN user/NN towards/IN that/DT trait/NN ./.
+A/DT dense/JJ user/NN matrix/NN is/VBZ a/DT reasonable/JJ assumption/NN as/IN each/DT user/NN will/MD like/VB //HYPH dislike/VB a/DT trait/NN to/IN certain/JJ extent/NN ./.
+However/RB ,/, any/DT item/NN will/MD possess/VB only/RB a/DT few/JJ of/IN the/DT attributes/NNS and/CC never/RB all/DT ./.
+Hence/RB ,/, the/DT item/NN matrix/NN should/MD ideally/RB have/VB a/DT sparse/JJ structure/NN rather/RB than/IN a/DT dense/JJ one/NN as/IN formulated/VBN in/IN earlier/JJR works/NNS ./.
+Therefore/RB we/PRP propose/VBP to/IN factor/NN the/DT ratings/NNS matrix/NN into/IN a/DT dense/JJ user/NN matrix/NN and/CC a/DT sparse/JJ item/NN matrix/NN which/WDT leads/VBZ us/PRP to/IN the/DT Blind/NNP Compressed/VBN Sensing/VBG (/-LRB- BCS/NN )/-RRB- framework/NN ./.
+We/PRP derive/VBP an/DT efficient/JJ algorithm/NN for/IN solving/VBG the/DT BCS/NN problem/NN based/VBN on/IN Majorization/NNP Minimization/NNP (/-LRB- MM/NNP )/-RRB- technique/NN ./.
+Our/PRP$ proposed/VBN approach/NN is/VBZ able/JJ to/TO achieve/VB significantly/RB higher/JJR accuracy/NN and/CC shorter/JJR run/NN times/NNS as/IN compared/VBN to/IN existing/VBG approaches/NNS ./.

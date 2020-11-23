@@ -1,0 +1,5 @@
+As one of the fundamental tasks in text analysis, phrase mining aims at extracting quality phrases from a text corpus.
+Phrase mining is important in various tasks including automatic term recognition, document indexing, keyphrase extraction, and topic modeling.
+Most existing methods rely on complex, trained linguistic analyzers, and thus likely have unsatisfactory performance on text corpora of new domains and genres without extra but expensive adaption.
+Recently, a few data-driven methods have been developed successfully for extraction of phrases from massive domain-specific text.
+However, none of the state-of-the-art models is fully automated because they require human experts for designing rules or labeling phrases.

@@ -1,0 +1,5 @@
+We present two sampling algorithms for probabilistic confidence inference in Bayesian networks.
+These two algorithms (we call them AIS-BN-mu and AIS-BN-sigma algorithms) guarantee that estimates of posterior probabilities are with a given probability within a desired precision bound.
+Our algorithms are based on recent advances in sampling algorithms for (1) estimating the mean of bounded random variables and (2) adaptive importance sampling in Bayesian networks.
+In addition to a simple stopping rule for sampling that they provide, the AIS-BN-mu and AIS-BN-sigma algorithms are capable of guiding the learning process in the AIS-BN algorithm.
+An empirical evaluation of the proposed algorithms shows excellent performance, even for very unlikely evidence.

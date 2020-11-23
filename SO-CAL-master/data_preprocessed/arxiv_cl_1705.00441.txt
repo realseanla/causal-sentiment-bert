@@ -1,0 +1,5 @@
+Distributed/VBN word/NN representations/NNS are/VBP widely/RB used/VBN for/IN modeling/VBG words/NNS in/IN NLP/NN tasks/NNS ./.
+Most/JJS of/IN the/DT existing/VBG models/NNS generate/VBP one/CD representation/NN per/IN word/NN and/CC do/VBP not/RB consider/VB different/JJ meanings/NNS of/IN a/DT word/NN ./.
+We/PRP present/VBP two/CD approaches/NNS to/TO learn/VB multiple/JJ topic/NN -/HYPH sensitive/JJ representations/NNS per/IN word/NN by/IN using/VBG Hierarchical/JJ Dirichlet/NNP Process/NN ./.
+We/PRP observe/VBP that/IN by/IN modeling/VBG topics/NNS and/CC integrating/VBG topic/NN distributions/NNS for/IN each/DT document/NN we/PRP obtain/VBP representations/NNS that/WDT are/VBP able/JJ to/TO distinguish/VB between/IN different/JJ meanings/NNS of/IN a/DT given/VBN word/NN ./.
+Our/PRP$ models/NNS yield/VBP statistically/RB significant/JJ improvements/NNS for/IN the/DT lexical/JJ substitution/NN task/NN indicating/VBG that/IN commonly/RB used/VBN single/JJ word/NN representations/NNS ,/, even/RB when/WRB combined/VBN with/IN contextual/JJ information/NN ,/, are/VBP insufficient/JJ for/IN this/DT task/NN ./.

@@ -1,0 +1,5 @@
+The problem of spatiotemporal event visualization based on reports entails subtasks ranging from named entity recognition to relationship extraction and mapping of events.
+We present an approach to event extraction that is driven by data mining and visualization goals, particularly thematic mapping and trend analysis.
+This paper focuses on bridging the information extraction and visualization tasks and investigates topic modeling approaches.
+We develop a static, finite topic model and examine the potential benefits and feasibility of extending this to dynamic topic modeling with a large number of topics and continuous time.
+We describe an experimental test bed for event mapping that uses this end-to-end information retrieval system, and report preliminary results on a geoinformatics problem: tracking of methamphetamine lab seizure events across time and space.

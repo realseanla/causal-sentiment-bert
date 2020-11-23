@@ -1,0 +1,5 @@
+Lasso, or $\ell^1$ regularized least squares, has been explored extensively for its remarkable sparsity properties.
+It is shown in this paper that the solution to Lasso, in addition to its sparsity, has robustness properties: it is the solution to a robust optimization problem.
+This has two important consequences.
+First, robustness provides a connection of the regularizer to a physical property, namely, protection from noise.
+This allows a principled selection of the regularizer, and in particular, generalizations of Lasso that also yield convex optimization problems are obtained by considering different uncertainty sets.

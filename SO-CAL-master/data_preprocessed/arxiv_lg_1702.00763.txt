@@ -1,0 +1,3 @@
+Given/VBN a/DT non-convex/JJ function/NN $/$ f/LS (/-LRB- x/SYM )/-RRB- $/$ that/WDT is/VBZ an/DT average/NN of/IN $/$ n/NN $/$ smooth/JJ functions/NNS ,/, we/PRP design/VBP stochastic/JJ first/RB -/HYPH order/NN methods/NNS to/TO find/VB its/PRP$ approximate/JJ stationary/JJ points/NNS ./.
+The/DT performance/NN of/IN our/PRP$ new/JJ methods/NNS depend/VBP on/IN the/DT smallest/JJS (/-LRB- negative/JJ )/-RRB- eigenvalue/JJ $/$ -/HYPH \/SYM sigma/NN $/$ of/IN the/DT Hessian/JJ ./.
+This/DT parameter/NN $/$ \/CD sigma/CD $/$ captures/VBZ how/WRB strongly/RB non-convex/JJ $/NN f/NN (/-LRB- x/NN )/-RRB- $/$ is/VBZ ,/, and/CC is/VBZ analogous/JJ to/IN the/DT strong/JJ convexity/NN parameter/NN for/IN convex/NN optimization/NN ./.

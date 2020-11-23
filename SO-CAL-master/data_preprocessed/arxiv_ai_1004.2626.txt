@@ -1,0 +1,9 @@
+We/PRP study/VBP propagation/NN algorithms/NNS for/IN the/DT conjunction/NN of/IN two/CD AllDifferent/NNP constraints/NNS ./.
+Solutions/NNS of/IN an/DT AllDifferent/NNP constraint/NN can/MD be/VB seen/VBN as/IN perfect/JJ matchings/NNS on/IN the/DT variable/NN //HYPH value/NN bipartite/JJ graph/NN ./.
+Therefore/RB ,/, we/PRP investigate/VBP the/DT problem/NN of/IN finding/VBG simultaneous/JJ bipartite/JJ matchings/NNS ./.
+We/PRP present/VBP an/DT extension/NN of/IN the/DT famous/JJ Hall/NNP theorem/NN which/WDT characterizes/VBZ when/WRB simultaneous/JJ bipartite/JJ matchings/NNS exists/VBZ ./.
+Unfortunately/RB ,/, finding/VBG such/JJ matchings/NNS is/VBZ NP/NNP -/HYPH hard/JJ in/IN general/JJ ./.
+However/RB ,/, we/PRP prove/VBP a/DT surprising/JJ result/NN that/IN finding/VBG a/DT simultaneous/JJ matching/NN on/IN a/DT convex/NN bipartite/JJ graph/NN takes/VBZ just/RB polynomial/JJ time/NN ./.
+Based/VBN on/IN this/DT theoretical/JJ result/NN ,/, we/PRP provide/VBP the/DT first/JJ polynomial/JJ time/NN bound/VBN consistency/NN algorithm/NN for/IN the/DT conjunction/NN of/IN two/CD AllDifferent/NNP constraints/NNS ./.
+We/PRP identify/VBP a/DT pathological/JJ problem/NN on/IN which/WDT this/DT propagator/NN is/VBZ exponentially/RB faster/RBR compared/VBN to/IN existing/VBG propagators/NNS ./.
+Our/PRP$ experiments/NNS show/VBP that/IN this/DT new/JJ propagator/NN can/MD offer/VB significant/JJ benefits/NNS over/IN existing/VBG methods/NNS ./.

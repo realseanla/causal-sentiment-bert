@@ -1,0 +1,4 @@
+We introduce a new and increasingly relevant setting for distributed optimization in machine learning, where the data defining the optimization are unevenly distributed over an extremely large number of nodes.
+The goal is to train a high-quality centralized model.
+We refer to this setting as Federated Optimization.
+In this setting, communication efficiency is of the utmost importance and minimizing the number of rounds of communication is the principal goal.

@@ -1,0 +1,10 @@
+Since/IN Hamming/VBG distances/NNS can/MD be/VB calculated/VBN by/IN bitwise/JJ computations/NNS ,/, they/PRP can/MD be/VB calculated/VBN with/IN less/JJR computational/JJ load/NN than/IN L2/NN distances/NNS ./.
+Similarity/NN searches/NNS can/MD therefore/RB be/VB performed/VBN faster/RBR in/IN Hamming/VBG distance/NN space/NN ./.
+The/DT elements/NNS of/IN Hamming/VBG distance/NN space/NN are/VBP bit/NN strings/NNS ./.
+On/IN the/DT other/JJ hand/NN ,/, the/DT arrangement/NN of/IN hyperplanes/NNS induce/VBP the/DT transformation/NN from/IN the/DT feature/NN vectors/NNS into/IN feature/NN bit/NN strings/NNS ./.
+This/DT transformation/NN method/NN is/VBZ a/DT type/NN of/IN locality/NN -/HYPH sensitive/JJ hashing/VBG that/DT has/VBZ been/VBN attracting/VBG attention/NN as/IN a/DT way/NN of/IN performing/VBG approximate/JJ similarity/NN searches/NNS at/IN high/JJ speed/NN ./.
+Supervised/VBN learning/NN of/IN hyperplane/NN arrangements/NNS allows/VBZ us/PRP to/TO obtain/VB a/DT method/NN that/WDT transforms/VBZ them/PRP into/IN feature/NN bit/NN strings/NNS reflecting/VBG the/DT information/NN of/IN labels/NNS applied/VBN to/IN higher/JJR -/HYPH dimensional/JJ feature/NN vectors/NNS ./.
+In/IN this/DT p/NN aper/NN ,/, we/PRP propose/VBP a/DT supervised/JJ learning/NN method/NN for/IN hyperplane/NN arrangements/NNS in/IN feature/NN space/NN that/WDT uses/VBZ a/DT Markov/NNP chain/NN Monte/NNP Carlo/NNP (/-LRB- MCMC/NNP )/-RRB- method/NN ./.
+We/PRP consider/VBP the/DT probability/NN density/NN functions/NNS used/VBN during/IN learning/NN ,/, and/CC evaluate/VB their/PRP$ performance/NN ./.
+We/PRP also/RB consider/VBP the/DT sampling/NN method/NN for/IN learning/VBG data/NNS pairs/NNS needed/VBN in/IN learning/NN ,/, and/CC we/PRP evaluate/VBP its/PRP$ performance/NN ./.
+We/PRP confirm/VBP that/IN the/DT accuracy/NN of/IN this/DT learning/NN method/NN when/WRB using/VBG a/DT suitable/JJ probability/NN density/NN function/NN and/CC sampling/NN method/NN is/VBZ greater/JJR than/IN the/DT accuracy/NN of/IN existing/VBG learning/NN methods/NNS ./.

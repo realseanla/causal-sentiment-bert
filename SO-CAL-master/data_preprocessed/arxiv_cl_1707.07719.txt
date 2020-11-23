@@ -1,0 +1,3 @@
+We/PRP introduce/VBP globally/RB normalized/VBN convolutional/JJ neural/JJ networks/NNS for/IN joint/JJ entity/NN classification/NN and/CC relation/NN extraction/NN ./.
+In/IN particular/JJ ,/, we/PRP propose/VBP a/DT way/NN to/TO utilize/VB a/DT linear/JJ -/HYPH chain/NN conditional/JJ random/JJ field/NN output/NN layer/NN for/IN predicting/VBG entity/NN types/NNS and/CC relations/NNS between/IN entities/NNS at/IN the/DT same/JJ time/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN global/JJ normalization/NN outperforms/VBZ a/DT locally/RB normalized/VBN softmax/NN layer/NN on/IN a/DT benchmark/NN dataset/NN ./.

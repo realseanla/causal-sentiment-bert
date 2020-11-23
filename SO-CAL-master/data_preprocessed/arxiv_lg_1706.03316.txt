@@ -1,0 +1,7 @@
+Non-interactive/JJ Local/JJ Differential/NNP Privacy/NN (/-LRB- LDP/NNP )/-RRB- requires/VBZ data/NNS analysts/NNS to/TO collect/VB data/NNS from/IN users/NNS through/IN noisy/JJ channel/NN at/IN once/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP extend/VBP the/DT frontiers/NNS of/IN Non-interactive/JJ LDP/NNP learning/NN and/CC estimation/NN from/IN several/JJ aspects/NNS ./.
+For/IN learning/VBG with/IN smooth/JJ generalized/VBN linear/JJ losses/NNS ,/, we/PRP propose/VBP an/DT approximate/JJ stochastic/JJ gradient/NN oracle/NN estimated/VBN from/IN non-interactive/JJ LDP/NNP channel/NN ,/, using/VBG Chebyshev/NNP expansion/NN ./.
+Combined/VBN with/IN inexact/JJ gradient/NN methods/NNS ,/, we/PRP obtain/VBP an/DT efficient/JJ algorithm/NN with/IN quasi-polynomial/JJ sample/NN complexity/NN bound/VBN ./.
+For/IN the/DT high/JJ -/HYPH dimensional/JJ world/NN ,/, we/PRP discover/VBP that/IN under/IN $/$ \/CD ell_2/CD $/$ -/HYPH norm/NN assumption/NN on/IN data/NNS points/NNS ,/, high/JJ -/HYPH dimensional/JJ sparse/JJ linear/JJ regression/NN and/CC mean/VB estimation/NN can/MD be/VB achieved/VBN with/IN logarithmic/JJ dependence/NN on/IN dimension/NN ,/, using/VBG random/JJ projection/NN and/CC approximate/JJ recovery/NN ./.
+We/PRP also/RB extend/VBP our/PRP$ methods/NNS to/TO Kernel/NNP Ridge/NNP Regression/NN ./.
+Our/PRP$ work/NN is/VBZ the/DT first/JJ one/NN that/WDT makes/VBZ learning/NN and/CC estimation/NN possible/JJ for/IN a/DT broad/JJ range/NN of/IN learning/VBG tasks/NNS under/IN non-interactive/JJ LDP/NNP model/NN ./.

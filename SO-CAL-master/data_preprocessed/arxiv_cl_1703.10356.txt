@@ -1,0 +1,5 @@
+An/DT hybrid/NN of/IN a/DT hidden/JJ Markov/NNP model/NN (/-LRB- HMM/NN )/-RRB- and/CC a/DT deep/JJ neural/JJ network/NN (/-LRB- DNN/NN )/-RRB- is/VBZ considered/VBN ./.
+End/NN -/HYPH to/IN -/HYPH end/NN training/NN using/VBG gradient/NN descent/NN is/VBZ suggested/VBN ,/, similarly/RB to/IN the/DT training/NN of/IN connectionist/JJ temporal/JJ classification/NN (/-LRB- CTC/NN )/-RRB- ./.
+We/PRP use/VBP a/DT maximum/JJ a-posteriori/NN (/-LRB- MAP/NN )/-RRB- criterion/NN with/IN a/DT simple/JJ language/NN model/NN in/IN the/DT training/NN stage/NN ,/, and/CC a/DT standard/JJ HMM/NNP decoder/NN without/IN approximations/NNS ./.
+Recognition/NNP results/NNS are/VBP presented/VBN using/VBG speech/NN databases/NNS ./.
+Our/PRP$ method/NN compares/VBZ favorably/RB to/IN CTC/NN in/IN terms/NNS of/IN performance/NN ,/, robustness/NN and/CC quality/NN of/IN alignments/NNS ./.

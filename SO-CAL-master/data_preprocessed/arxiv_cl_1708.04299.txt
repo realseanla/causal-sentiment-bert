@@ -1,0 +1,6 @@
+While/IN there/EX have/VBP been/VBN significant/JJ advances/NNS in/IN detecting/VBG emotions/NNS from/IN speech/NN and/CC image/NN recognition/NN ,/, emotion/NN detection/NN on/IN text/NN is/VBZ still/RB under/IN -/HYPH explored/VBN and/CC remained/VBN as/IN an/DT active/JJ research/NN field/NN ./.
+This/DT paper/NN introduces/VBZ a/DT corpus/NN for/IN text/NN -/HYPH based/VBN emotion/NN detection/NN on/IN multiparty/JJ dialogue/NN as/RB well/RB as/IN deep/JJ neural/JJ models/NNS that/WDT outperform/VBP the/DT existing/VBG approaches/NNS for/IN document/NN classification/NN ./.
+We/PRP first/RB present/VBP a/DT new/JJ corpus/NN that/WDT provides/VBZ annotation/NN of/IN seven/CD emotions/NNS on/IN consecutive/JJ utterances/NNS in/IN dialogues/NNS extracted/VBN from/IN the/DT show/NN ,/, Friends/NNS ./.
+We/PRP then/RB suggest/VBP four/CD types/NNS of/IN sequence/NN -/HYPH based/VBN convolutional/JJ neural/JJ network/NN models/NNS with/IN attention/NN that/IN leverage/NN the/DT sequence/NN information/NN encapsulated/VBN in/IN dialogue/NN ./.
+Our/PRP$ best/JJS model/NN shows/VBZ the/DT accuracies/NNS of/IN 37.9/CD percent/NN and/CC 54/CD percent/NN for/IN fine/JJ -/HYPH and/CC coarse/JJ -/HYPH grained/JJ emotions/NNS ,/, respectively/RB ./.
+Given/VBN the/DT difficulty/NN of/IN this/DT task/NN ,/, this/DT is/VBZ promising/JJ ./.

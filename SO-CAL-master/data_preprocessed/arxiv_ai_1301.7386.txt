@@ -1,0 +1,11 @@
+For/IN many/JJ real/JJ time/NN applications/NNS ,/, it/PRP is/VBZ important/JJ to/TO validate/VB the/DT information/NN received/VBN from/IN the/DT sensors/NNS before/IN entering/VBG higher/JJR levels/NNS of/IN reasoning/NN ./.
+This/DT paper/NN presents/VBZ an/DT any/DT time/NN probabilistic/JJ algorithm/NN for/IN validating/VBG the/DT information/NN provided/VBN by/IN sensors/NNS ./.
+The/DT system/NN consists/VBZ of/IN two/CD Bayesian/JJ network/NN models/NNS ./.
+The/DT first/JJ one/CD is/VBZ a/DT model/NN of/IN the/DT dependencies/NNS between/IN sensors/NNS and/CC it/PRP is/VBZ used/VBN to/TO validate/VB each/DT sensor/NN ./.
+It/PRP provides/VBZ a/DT list/NN of/IN potentially/RB faulty/JJ sensors/NNS ./.
+To/TO isolate/VB the/DT real/JJ faults/NNS ,/, a/DT second/JJ Bayesian/JJ network/NN is/VBZ used/VBN ,/, which/WDT relates/VBZ the/DT potential/JJ faults/NNS with/IN the/DT real/JJ faults/NNS ./.
+This/DT second/JJ model/NN is/VBZ also/RB used/VBN to/TO make/VB the/DT validation/NN algorithm/NN any/DT time/NN ,/, by/IN validating/VBG first/RB the/DT sensors/NNS that/WDT provide/VBP more/JJR information/NN ./.
+To/TO select/VB the/DT next/JJ sensor/NN to/TO validate/VB ,/, and/CC measure/VB the/DT quality/NN of/IN the/DT results/NNS at/IN each/DT stage/NN ,/, an/DT entropy/NN function/NN is/VBZ used/VBN ./.
+This/DT function/NN captures/VBZ in/IN a/DT single/JJ quantity/NN both/CC the/DT certainty/NN and/CC specificity/NN measures/NNS of/IN any/DT time/NN algorithms/NNS ./.
+Together/RB ,/, both/CC models/NNS constitute/VBP a/DT mechanism/NN for/IN validating/VBG sensors/NNS in/IN an/DT any/DT time/NN fashion/NN ,/, providing/VBG at/IN each/DT step/NN the/DT probability/NN of/IN correct/JJ //HYPH faulty/JJ for/IN each/DT sensor/NN ,/, and/CC the/DT total/JJ quality/NN of/IN the/DT results/NNS ./.
+The/DT algorithm/NN has/VBZ been/VBN tested/VBN in/IN the/DT validation/NN of/IN temperature/NN sensors/NNS of/IN a/DT power/NN plant/NN ./.

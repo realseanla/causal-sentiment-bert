@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT technique/NN for/IN speeding/VBG up/RP the/DT convergence/NN of/IN value/NN iteration/NN for/IN partially/RB observable/JJ Markov/NNP decisions/NNS processes/NNS (/-LRB- POMDPs/NNS )/-RRB- ./.
+The/DT underlying/JJ idea/NN is/VBZ similar/JJ to/IN that/DT behind/IN modified/VBN policy/NN iteration/NN for/IN fully/RB observable/JJ Markov/NNP decision/NN processes/NNS (/-LRB- MDPs/NNS )/-RRB- ./.
+The/DT technique/NN can/MD be/VB easily/RB incorporated/VBN into/IN any/DT existing/VBG POMDP/NN value/NN iteration/NN algorithms/NNS ./.
+Experiments/NNS have/VBP been/VBN conducted/VBN on/IN several/JJ test/NN problems/NNS with/IN one/CD POMDP/NN value/NN iteration/NN algorithm/NN called/VBN incremental/JJ pruning/NN ./.
+We/PRP find/VBP that/IN the/DT technique/NN can/MD make/VB incremental/JJ pruning/NN run/VBD several/JJ orders/NNS of/IN magnitude/NN faster/RBR ./.

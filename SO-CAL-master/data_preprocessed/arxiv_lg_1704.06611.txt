@@ -1,0 +1,7 @@
+Empirically/RB ,/, neural/JJ networks/NNS that/WDT attempt/VBP to/TO learn/VB programs/NNS from/IN data/NNS have/VBP exhibited/VBN poor/JJ generalizability/NN ./.
+Moreover/RB ,/, it/PRP has/VBZ traditionally/RB been/VBN difficult/JJ to/TO reason/VB about/IN the/DT behavior/NN of/IN these/DT models/NNS beyond/IN a/DT certain/JJ level/NN of/IN input/NN complexity/NN ./.
+In/IN order/NN to/TO address/VB these/DT issues/NNS ,/, we/PRP propose/VBP augmenting/VBG neural/JJ architectures/NNS with/IN a/DT key/JJ abstraction/NN :/: recursion/NN ./.
+As/IN an/DT application/NN ,/, we/PRP implement/VBP recursion/NN in/IN the/DT Neural/JJ Programmer/NN -/HYPH Interpreter/NN framework/NN on/IN four/CD tasks/NNS :/: grade/NN -/HYPH school/NN addition/NN ,/, bubble/NN sort/RB ,/, topological/JJ sort/RB ,/, and/CC quicksort/NN ./.
+We/PRP demonstrate/VBP superior/JJ generalizability/NN and/CC interpretability/NN with/IN small/JJ amounts/NNS of/IN training/NN data/NNS ./.
+Recursion/NNP divides/VBZ the/DT problem/NN into/IN smaller/JJR pieces/NNS and/CC drastically/RB reduces/VBZ the/DT domain/NN of/IN each/DT neural/JJ network/NN component/NN ,/, making/VBG it/PRP tractable/JJ to/TO prove/VB guarantees/NNS about/IN the/DT overall/JJ system/NN 's/POS behavior/NN ./.
+Our/PRP$ experience/NN suggests/VBZ that/IN in/IN order/NN for/IN neural/JJ architectures/NNS to/TO robustly/RB learn/VB program/NN semantics/NNS ,/, it/PRP is/VBZ necessary/JJ to/TO incorporate/VB a/DT concept/NN like/IN recursion/NN ./.

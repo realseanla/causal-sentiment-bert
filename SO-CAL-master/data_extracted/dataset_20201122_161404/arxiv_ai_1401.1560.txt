@@ -1,0 +1,6 @@
+An accurate prediction of crude oil prices over long future horizons is challenging and of great interest to governments, enterprises, and investors.
+This paper proposes a revised hybrid model built upon empirical mode decomposition (EMD) based on the feed-forward neural network (FNN) modeling framework incorporating the slope-based method (SBM), which is capable of capturing the complex dynamic of crude oil prices.
+Three commonly used multi-step-ahead prediction strategies proposed in the literature, including iterated strategy, direct strategy, and MIMO (multiple-input multiple-output) strategy, are examined and compared, and practical considerations for the selection of a prediction strategy for multi-step-ahead forecasting relating to crude oil prices are identified.
+The weekly data from the WTI (West Texas Intermediate) crude oil spot price are used to compare the performance of the alternative models under the EMD-SBM-FNN modeling framework with selected counterparts.
+The quantitative and comprehensive assessments are performed on the basis of prediction accuracy and computational cost.
+The results obtained in this study indicate that the proposed EMD-SBM-FNN model using the MIMO strategy is the best in terms of prediction accuracy with accredited computational load.

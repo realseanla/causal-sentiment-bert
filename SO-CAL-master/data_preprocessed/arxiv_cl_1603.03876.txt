@@ -1,0 +1,8 @@
+Implicit/JJ discourse/NN relation/NN recognition/NN is/VBZ a/DT crucial/JJ component/NN for/IN automatic/JJ discourse/NN -/HYPH level/NN analysis/NN and/CC nature/NN language/NN understanding/NN ./.
+Previous/JJ studies/NNS exploit/VBP discriminative/JJ models/NNS that/WDT are/VBP built/VBN on/IN either/CC powerful/JJ manual/JJ features/NNS or/CC deep/JJ discourse/NN representations/NNS ./.
+In/IN this/DT paper/NN ,/, instead/RB ,/, we/PRP explore/VBP generative/JJ models/NNS and/CC propose/VB a/DT variational/JJ neural/JJ discourse/NN relation/NN recognizer/NN ./.
+We/PRP refer/VBP to/IN this/DT model/NN as/IN VIRILE/JJ ./.
+VIRILE/JJ establishes/VBZ a/DT directed/VBN probabilistic/JJ model/NN with/IN a/DT latent/JJ continuous/JJ variable/NN that/WDT generates/VBZ both/CC a/DT discourse/NN and/CC the/DT relation/NN between/IN the/DT two/CD arguments/NNS of/IN the/DT discourse/NN ./.
+In/IN order/NN to/TO perform/VB efficient/JJ inference/NN and/CC learning/NN ,/, we/PRP introduce/VBP a/DT neural/JJ discourse/NN relation/NN model/NN to/TO approximate/VB the/DT posterior/NN of/IN the/DT latent/JJ variable/NN ,/, and/CC employ/VB this/DT approximated/VBN posterior/JJ to/TO optimize/VB a/DT reparameterized/JJ variational/JJ lower/JJR bound/JJ ./.
+This/DT allows/VBZ VIRILE/JJ to/TO be/VB trained/VBN with/IN standard/JJ stochastic/JJ gradient/NN methods/NNS ./.
+Experiments/NNS on/IN the/DT benchmark/NN data/NNS set/VBN show/VBP that/IN VIRILE/NNP can/MD achieve/VB competitive/JJ results/NNS against/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN baselines/NNS ./.

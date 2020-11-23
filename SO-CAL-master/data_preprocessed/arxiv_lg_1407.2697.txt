@@ -1,0 +1,6 @@
+A/DT key/JJ problem/NN in/IN statistics/NNS and/CC machine/NN learning/NN is/VBZ the/DT determination/NN of/IN network/NN structure/NN from/IN data/NNS ./.
+We/PRP consider/VBP the/DT case/NN where/WRB the/DT structure/NN of/IN the/DT graph/NN to/TO be/VB reconstructed/VBN is/VBZ known/VBN to/TO be/VB scale/NN -/HYPH free/JJ ./.
+We/PRP show/VBP that/IN in/IN such/JJ cases/NNS it/PRP is/VBZ natural/JJ to/TO formulate/VB structured/JJ sparsity/NN inducing/VBG priors/NNS using/VBG submodular/JJ functions/NNS ,/, and/CC we/PRP use/VBP their/PRP$ Lov/NNP \/SYM '/'' asz/IN extension/NN to/TO obtain/VB a/DT convex/NN relaxation/NN ./.
+For/IN tractable/JJ classes/NNS such/JJ as/IN Gaussian/JJ graphical/JJ models/NNS ,/, this/DT leads/VBZ to/IN a/DT convex/NN optimization/NN problem/NN that/WDT can/MD be/VB efficiently/RB solved/VBN ./.
+We/PRP show/VBP that/IN our/PRP$ method/NN results/VBZ in/IN an/DT improvement/NN in/IN the/DT accuracy/NN of/IN reconstructed/JJ networks/NNS for/IN synthetic/JJ data/NNS ./.
+We/PRP also/RB show/VBP how/WRB our/PRP$ prior/JJ encourages/VBZ scale/NN -/HYPH free/JJ reconstructions/NNS on/IN a/DT bioinfomatics/NN dataset/NN ./.

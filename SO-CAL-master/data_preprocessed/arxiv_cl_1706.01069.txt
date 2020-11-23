@@ -1,0 +1,12 @@
+This/DT paper/NN proposes/VBZ a/DT novel/JJ framework/NN for/IN detecting/VBG redundancy/NN in/IN supervised/JJ sentence/NN categorisation/NN ./.
+Unlike/IN traditional/JJ singleton/NN neural/JJ network/NN ,/, our/PRP$ model/NN incorporates/VBZ character/NN -/HYPH aware/JJ convolutional/JJ neural/JJ network/NN (/-LRB- Char/NNP -/HYPH CNN/NNP )/-RRB- with/IN character/NN -/HYPH aware/JJ recurrent/JJ neural/JJ network/NN (/-LRB- Char/NNP -/HYPH RNN/NNP )/-RRB- to/TO form/VB a/DT convolutional/JJ recurrent/JJ neural/JJ network/NN (/-LRB- CRNN/NNP )/-RRB- ./.
+Our/PRP$ model/NN benefits/NNS from/IN Char/NNP -/HYPH CNN/NNP in/IN that/DT only/RB salient/JJ features/NNS are/VBP selected/VBN and/CC fed/VBN into/IN the/DT integrated/VBN Char/NNP -/HYPH RNN/NNP ./.
+Char/NNP -/HYPH RNN/NNP effectively/RB learns/VBZ long/JJ sequence/NN semantics/NNS via/IN sophisticated/JJ update/NN mechanism/NN ./.
+We/PRP compare/VBP our/PRP$ framework/NN against/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN text/NN classification/NN algorithms/NNS on/IN four/CD popular/JJ benchmarking/NN corpus/NN ./.
+For/IN instance/NN ,/, our/PRP$ model/NN achieves/VBZ competing/VBG precision/NN rate/NN ,/, recall/NN ratio/NN ,/, and/CC F1/NN score/NN on/IN the/DT Google/NNP -/HYPH news/NN data/NN -/HYPH set/NN ./.
+For/IN twenty/CD -/HYPH news/NN -/HYPH groups/NNS data/NNS stream/NN ,/, our/PRP$ algorithm/NN obtains/VBZ the/DT optimum/JJ on/IN precision/NN rate/NN ,/, recall/NN ratio/NN ,/, and/CC F1/NN score/NN ./.
+For/IN Brown/NNP Corpus/NNP ,/, our/PRP$ framework/NN obtains/VBZ the/DT best/JJS F1/NN score/NN and/CC almost/RB equivalent/JJ precision/NN rate/NN and/CC recall/NN ratio/NN over/IN the/DT top/JJ competitor/NN ./.
+For/IN the/DT question/NN classification/NN collection/NN ,/, CRNN/NNP produces/VBZ the/DT optimal/JJ recall/NN rate/NN and/CC F1/NN score/NN and/CC comparable/JJ precision/NN rate/NN ./.
+We/PRP also/RB analyse/VBP three/CD different/JJ RNN/NN hidden/VBN recurrent/JJ cells/NNS '/POS impact/NN on/IN performance/NN and/CC their/PRP$ runtime/NN efficiency/NN ./.
+We/PRP observe/VBP that/DT MGU/NN achieves/VBZ the/DT optimal/JJ runtime/NN and/CC comparable/JJ performance/NN against/IN GRU/NNP and/CC LSTM/NNP ./.
+For/IN TFIDF/NN based/VBN algorithms/NNS ,/, we/PRP experiment/VBP with/IN word2vec/NN ,/, GloVe/NN ,/, and/CC sent2vec/NN embeddings/NNS and/CC report/VB their/PRP$ performance/NN differences/NNS ./.

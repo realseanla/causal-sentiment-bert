@@ -1,0 +1,6 @@
+We used MetaMap and YTEX as a basis for the construc- tion of two separate systems to participate in the 2013 ShARe/CLEF eHealth Task 1[9], the recognition of clinical concepts.
+No modifications were directly made to these systems, but output concepts were filtered using stop concepts, stop concept text and UMLS semantic type.
+Con- cept boundaries were also adjusted using a small collection of rules to increase precision on the strict task.
+Overall MetaMap had better per- formance than YTEX on the strict task, primarily due to a 20 percent perfor- mance improvement in precision.
+In the relaxed task YTEX had better performance in both precision and recall giving it an overall F-Score 4.6 percent higher than MetaMap on the test data.
+Our results also indicated a 1.3 percent higher accuracy for YTEX in UMLS CUI mapping.

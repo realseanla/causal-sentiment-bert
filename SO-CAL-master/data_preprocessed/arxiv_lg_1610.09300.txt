@@ -1,0 +1,6 @@
+The/DT optimization/NN problem/NN behind/IN neural/JJ networks/NNS is/VBZ highly/RB non-convex/JJ ./.
+Training/VBG with/IN stochastic/JJ gradient/NN descent/NN and/CC variants/NNS requires/VBZ careful/JJ parameter/NN tuning/NN and/CC provides/VBZ no/DT guarantee/NN to/TO achieve/VB the/DT global/JJ optimum/JJ ./.
+In/IN contrast/NN we/PRP show/VBP under/IN quite/RB weak/JJ assumptions/NNS on/IN the/DT data/NNS that/WDT a/DT particular/JJ class/NN of/IN feedforward/JJ neural/JJ networks/NNS can/MD be/VB trained/VBN globally/RB optimal/JJ with/IN a/DT linear/JJ convergence/NN rate/NN with/IN our/PRP$ nonlinear/JJ spectral/JJ method/NN ./.
+Up/IN to/IN our/PRP$ knowledge/NN this/DT is/VBZ the/DT first/JJ practically/RB feasible/JJ method/NN which/WDT achieves/VBZ such/PDT a/DT guarantee/NN ./.
+While/IN the/DT method/NN can/MD in/IN principle/NN be/VB applied/VBN to/IN deep/JJ networks/NNS ,/, we/PRP restrict/VBP ourselves/PRP for/IN simplicity/NN in/IN this/DT paper/NN to/IN one/CD and/CC two/CD hidden/JJ layer/NN networks/NNS ./.
+Our/PRP$ experiments/NNS confirm/VBP that/IN these/DT models/NNS are/VBP rich/JJ enough/RB to/TO achieve/VB good/JJ performance/NN on/IN a/DT series/NN of/IN real/JJ -/HYPH world/NN datasets/NNS ./.

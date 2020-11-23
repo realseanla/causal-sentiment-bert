@@ -1,0 +1,13 @@
+Parkinson/NNP 's/POS disease/NN (/-LRB- PD/NN )/-RRB- is/VBZ one/CD of/IN the/DT major/JJ public/JJ health/NN problems/NNS in/IN the/DT world/NN ./.
+It/PRP is/VBZ a/DT well/RB -/HYPH known/VBN fact/NN that/IN around/IN one/CD million/CD people/NNS suffer/VBP from/IN Parkinson/NNP 's/POS disease/NN in/IN the/DT United/NNP States/NNP whereas/IN the/DT number/NN of/IN people/NNS suffering/VBG from/IN Parkinson/NNP 's/POS disease/NN worldwide/RB is/VBZ around/IN 5/CD million/CD ./.
+Thus/RB ,/, it/PRP is/VBZ important/JJ to/TO predict/VB Parkinson/NNP 's/POS disease/NN in/IN early/JJ stages/NNS so/IN that/IN early/JJ plan/NN for/IN the/DT necessary/JJ treatment/NN can/MD be/VB made/VBN ./.
+People/NNS are/VBP mostly/RB familiar/JJ with/IN the/DT motor/NN symptoms/NNS of/IN Parkinson/NNP 's/POS disease/NN ,/, however/RB ,/, an/DT increasing/VBG amount/NN of/IN research/NN is/VBZ being/VBG done/VBN to/TO predict/VB the/DT Parkinson/NNP 's/POS disease/NN from/IN non-motor/JJ symptoms/NNS that/WDT precede/VBP the/DT motor/NN ones/NNS ./.
+If/IN an/DT early/JJ and/CC reliable/JJ prediction/NN is/VBZ possible/JJ then/RB a/DT patient/NN can/MD get/VB a/DT proper/JJ treatment/NN at/IN the/DT right/JJ time/NN ./.
+Nonmotor/NN symptoms/NNS considered/VBN are/VBP Rapid/NNP Eye/NNP Movement/NNP (/-LRB- REM/NN )/-RRB- sleep/NN Behaviour/NNP Disorder/NNP (/-LRB- RBD/NNP )/-RRB- and/CC olfactory/JJ loss/NN ./.
+Developing/VBG machine/NN learning/NN models/NNS that/WDT can/MD help/VB us/PRP in/IN predicting/VBG the/DT disease/NN can/MD play/VB a/DT vital/JJ role/NN in/IN early/JJ prediction/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP extend/VBP a/DT work/NN which/WDT used/VBD the/DT non-motor/JJ features/NNS such/JJ as/IN RBD/NNP and/CC olfactory/JJ loss/NN ./.
+Along/IN with/IN this/DT the/DT extended/JJ work/NN also/RB uses/VBZ important/JJ biomarkers/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP try/VBP to/TO model/VB this/DT classifier/NN using/VBG different/JJ machine/NN learning/NN models/NNS that/WDT have/VBP not/RB been/VBN used/VBN before/IN ./.
+We/PRP developed/VBD automated/VBN diagnostic/JJ models/NNS using/VBG Multilayer/NNP Perceptron/NNP ,/, BayesNet/NNP ,/, Random/NNP Forest/NNP and/CC Boosted/VBN Logistic/JJ Regression/NN ./.
+It/PRP has/VBZ been/VBN observed/VBN that/IN Boosted/VBN Logistic/JJ Regression/NN provides/VBZ the/DT best/JJS performance/NN with/IN an/DT impressive/JJ accuracy/NN of/IN 97.159/CD percent/NN and/CC the/DT area/NN under/IN the/DT ROC/NNP curve/NN was/VBD 98.9/CD percent/NN ./.
+Thus/RB ,/, it/PRP is/VBZ concluded/VBN that/IN these/DT models/NNS can/MD be/VB used/VBN for/IN early/JJ prediction/NN of/IN Parkinson/NNP 's/POS disease/NN ./.

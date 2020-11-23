@@ -1,0 +1,8 @@
+A/DT methodology/NN for/IN the/DT development/NN of/IN a/DT fuzzy/JJ expert/NN system/NN (/-LRB- FES/NN )/-RRB- with/IN application/NN to/IN earthquake/NN prediction/NN is/VBZ presented/VBN ./.
+The/DT idea/NN is/VBZ to/TO reproduce/VB the/DT performance/NN of/IN a/DT human/JJ expert/NN in/IN earthquake/NN prediction/NN ./.
+To/TO do/VB this/DT ,/, at/IN the/DT first/JJ step/NN ,/, rules/NNS provided/VBN by/IN the/DT human/JJ expert/NN are/VBP used/VBN to/TO generate/VB a/DT fuzzy/JJ rule/NN base/NN ./.
+These/DT rules/NNS are/VBP then/RB fed/VBN into/IN an/DT inference/NN engine/NN to/TO produce/VB a/DT fuzzy/JJ inference/NN system/NN (/-LRB- FIS/NN )/-RRB- and/CC to/TO infer/VB the/DT results/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP have/VBP used/VBN a/DT Sugeno/NN type/NN fuzzy/JJ inference/NN system/NN to/TO build/VB the/DT FES/NNP ./.
+At/IN the/DT next/JJ step/NN ,/, the/DT adaptive/JJ network/NN -/HYPH based/VBN fuzzy/JJ inference/NN system/NN (/-LRB- ANFIS/NN )/-RRB- is/VBZ used/VBN to/TO refine/VB the/DT FES/NN parameters/NNS and/CC improve/VB its/PRP$ performance/NN ./.
+The/DT proposed/VBN framework/NN is/VBZ then/RB employed/VBN to/IN attain/VB the/DT performance/NN of/IN a/DT human/JJ expert/NN used/VBN to/TO predict/VB earthquakes/NNS in/IN the/DT Zagros/NNP area/NN based/VBN on/IN the/DT idea/NN of/IN coupled/VBN earthquakes/NNS ./.
+While/IN the/DT prediction/NN results/NNS are/VBP promising/VBG in/IN parts/NNS of/IN the/DT testing/NN set/NN ,/, the/DT general/JJ performance/NN indicates/VBZ that/IN prediction/NN methodology/NN based/VBN on/IN coupled/VBN earthquakes/NNS needs/VBZ more/JJR investigation/NN and/CC more/RBR complicated/JJ reasoning/NN procedure/NN to/TO yield/VB satisfactory/JJ predictions/NNS ./.

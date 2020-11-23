@@ -1,0 +1,5 @@
+We present a new perspective on graph-based methods for collaborative ranking for recommender systems.
+Unlike user-based or item-based methods that compute a weighted average of ratings given by the nearest neighbors, or low-rank approximation methods using convex optimization and the nuclear norm, we formulate matrix completion as a series of semi-supervised learning problems, and propagate the known ratings to the missing ones on the user-user or item-item graph globally.
+The semi-supervised learning problems are expressed as Laplace-Beltrami equations on a manifold, or namely, harmonic extension, and can be discretized by a point integral method.
+We show that our approach does not impose a low-rank Euclidean subspace on the data points, but instead minimizes the dimension of the underlying manifold.
+Our method, named LDM (low dimensional manifold), turns out to be particularly effective in generating rankings of items, showing decent computational efficiency and robust ranking quality compared to state-of-the-art methods.

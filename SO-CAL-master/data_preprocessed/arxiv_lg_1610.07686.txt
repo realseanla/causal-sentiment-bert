@@ -1,0 +1,5 @@
+We/PRP introduce/VBP co-occurring/VBG directions/NNS sketching/VBG ,/, a/DT deterministic/JJ algorithm/NN for/IN approximate/JJ matrix/NN product/NN (/-LRB- AMM/NNP )/-RRB- ,/, in/IN the/DT streaming/NN model/NN ./.
+We/PRP show/VBP that/IN co-occuring/NN directions/NNS achieves/VBZ a/DT better/JJR error/NN bound/VBN for/IN AMM/NNP than/IN other/JJ randomized/JJ and/CC deterministic/JJ approaches/NNS for/IN AMM/NNP ./.
+Co-occurring/VBG directions/NNS gives/VBZ a/DT $/$ 1/CD \/SYM epsilon/CD $/$ -/HYPH approximation/NN of/IN the/DT optimal/JJ low/JJ rank/NN approximation/NN of/IN a/DT matrix/NN product/NN ./.
+Empirically/RB our/PRP$ algorithm/NN outperforms/VBZ competing/VBG methods/NNS for/IN AMM/NNP ,/, for/IN a/DT small/JJ sketch/NN size/NN ./.
+We/PRP validate/VBP empirically/RB our/PRP$ theoretical/JJ findings/NNS and/CC algorithms/NNS

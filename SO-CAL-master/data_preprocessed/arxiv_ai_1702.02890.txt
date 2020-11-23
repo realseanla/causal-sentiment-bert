@@ -1,0 +1,7 @@
+Parameterized/VBN algorithms/NNS are/VBP a/DT way/NN to/TO solve/VB hard/JJ problems/NNS more/RBR efficiently/RB ,/, given/VBN that/IN a/DT specific/JJ parameter/NN of/IN the/DT input/NN is/VBZ small/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP apply/VBP this/DT idea/NN to/IN the/DT field/NN of/IN answer/NN set/VBN programming/NN (/-LRB- ASP/NN )/-RRB- ./.
+To/IN this/DT end/NN ,/, we/PRP propose/VBP two/CD kinds/NNS of/IN graph/NN representations/NNS of/IN programs/NNS to/TO exploit/VB their/PRP$ treewidth/JJ as/IN a/DT parameter/NN ./.
+Treewidth/NNP roughly/RB measures/VBZ to/TO which/WDT extent/NN the/DT internal/JJ structure/NN of/IN a/DT program/NN resembles/VBZ a/DT tree/NN ./.
+Our/PRP$ main/JJ contribution/NN is/VBZ the/DT design/NN of/IN parameterized/JJ dynamic/JJ programming/NN algorithms/NNS ,/, which/WDT run/VBP in/IN linear/JJ time/NN if/IN the/DT treewidth/JJ and/CC weights/NNS of/IN the/DT given/VBN program/NN are/VBP bounded/VBN ./.
+Compared/VBN to/IN previous/JJ work/NN ,/, our/PRP$ algorithms/NNS handle/VB the/DT full/JJ syntax/NN of/IN ASP/NN ./.
+Finally/RB ,/, we/PRP report/VBP on/IN an/DT empirical/JJ evaluation/NN that/WDT shows/VBZ good/JJ runtime/NN behaviour/NN for/IN benchmark/NN instances/NNS of/IN low/JJ treewidth/NN ,/, especially/RB for/IN counting/VBG answer/NN sets/NNS ./.

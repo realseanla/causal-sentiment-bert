@@ -1,0 +1,9 @@
+The/DT ability/NN of/IN robots/NNS to/TO estimate/VB their/PRP$ location/NN is/VBZ crucial/JJ for/IN a/DT wide/JJ variety/NN of/IN autonomous/JJ operations/NNS ./.
+In/IN settings/NNS where/WRB GPS/NNP is/VBZ unavailable/JJ ,/, range/NN -/HYPH or/CC bearing/NN -/HYPH only/JJ observations/NNS relative/JJ to/IN a/DT set/NN of/IN fixed/VBN beacons/NNS provide/VBP an/DT effective/JJ means/NNS of/IN estimating/VBG a/DT robot/NN 's/POS location/NN as/IN it/PRP navigates/VBZ ./.
+The/DT accuracy/NN of/IN such/PDT a/DT beacon/NN -/HYPH based/VBN localization/NN system/NN depends/VBZ both/DT on/IN how/WRB beacons/NNS are/VBP spatially/RB distributed/VBN in/IN the/DT environment/NN ,/, and/CC how/WRB the/DT robot/NN 's/POS location/NN is/VBZ inferred/VBN based/VBN on/IN noisy/JJ measurements/NNS of/IN range/NN or/CC bearing/NN ./.
+However/RB ,/, it/PRP is/VBZ computationally/RB challenging/JJ to/TO search/VB for/IN a/DT placement/NN and/CC an/DT inference/NN strategy/NN that/WDT ,/, together/RB ,/, are/VBP optimal/JJ ./.
+Existing/VBG methods/NNS decouple/VBP these/DT decisions/NNS ,/, forgoing/VBG optimality/NN for/IN tractability/NN ./.
+We/PRP propose/VBP a/DT new/JJ optimization/NN approach/NN to/TO jointly/RB determine/VB the/DT beacon/NN placement/NN and/CC inference/NN algorithm/NN ./.
+We/PRP model/VBP inference/NN as/IN a/DT neural/JJ network/NN and/CC incorporate/VB beacon/NN placement/NN as/IN a/DT differentiable/JJ neural/JJ layer/NN ./.
+This/DT formulation/NN allows/VBZ us/PRP to/TO optimize/VB placement/NN and/CC inference/NN by/IN jointly/RB training/VBG the/DT inference/NN network/NN and/CC beacon/NN layer/NN ./.
+We/PRP evaluate/VBP our/PRP$ method/NN on/IN different/JJ localization/NN problems/NNS and/CC demonstrate/VBP performance/NN that/WDT exceeds/VBZ hand/NN -/HYPH crafted/VBN baselines/NNS ./.

@@ -1,0 +1,6 @@
+What is happiness for reinforcement learning agents?
+We seek a formal definition satisfying a list of desiderata.
+Our proposed definition of happiness is the temporal difference error, i.e.
+the difference between the value of the obtained reward and observation and the agent's expectation of this value.
+This definition satisfies most of our desiderata and is compatible with empirical research on humans.
+We state several implications and discuss examples.

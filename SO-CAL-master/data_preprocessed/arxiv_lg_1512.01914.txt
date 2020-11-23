@@ -1,0 +1,5 @@
+Boltzmann/JJ machine/NN ,/, as/IN a/DT fundamental/JJ construction/NN block/NN of/IN deep/JJ belief/NN network/NN and/CC deep/JJ Boltzmann/NNP machines/NNS ,/, is/VBZ widely/RB used/VBN in/IN deep/JJ learning/NN community/NN and/CC great/JJ success/NN has/VBZ been/VBN achieved/VBN ./.
+However/RB ,/, theoretical/JJ understanding/NN of/IN many/JJ aspects/NNS of/IN it/PRP is/VBZ still/RB far/RB from/IN clear/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP studied/VBD the/DT Rademacher/NNP complexity/NN of/IN both/CC the/DT asymptotic/JJ restricted/JJ Boltzmann/JJ machine/NN and/CC the/DT practical/JJ implementation/NN with/IN single/JJ -/HYPH step/NN contrastive/JJ divergence/NN (/-LRB- CD/NN -/HYPH 1/CD )/-RRB- procedure/NN ./.
+Our/PRP$ results/NNS disclose/VBP the/DT fact/NN that/IN practical/JJ implementation/NN training/NN procedure/NN indeed/RB increased/VBD the/DT Rademacher/NNP complexity/NN of/IN restricted/VBN Boltzmann/NNP machines/NNS ./.
+A/DT further/JJ research/NN direction/NN might/MD be/VB the/DT investigation/NN of/IN the/DT VC/NNP dimension/NN of/IN a/DT compositional/JJ function/NN used/VBN in/IN the/DT CD/NN -/HYPH 1/CD procedure/NN ./.

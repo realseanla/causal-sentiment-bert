@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ algorithm/NN for/IN parallel/JJ Monte/NNP Carlo/NNP tree/NN search/NN (/-LRB- MCTS/NNP )/-RRB- ./.
+It/PRP is/VBZ based/VBN on/IN the/DT pipeline/NN pattern/NN and/CC allows/VBZ flexible/JJ management/NN of/IN the/DT control/NN flow/NN of/IN the/DT operations/NNS in/IN parallel/JJ MCTS/NNP ./.
+The/DT pipeline/NN pattern/NN provides/VBZ for/IN the/DT first/JJ structured/JJ parallel/JJ programming/NN approach/NN to/IN MCTS/NNP ./.
+Moreover/RB ,/, we/PRP propose/VBP a/DT new/JJ lock/NN -/HYPH free/JJ tree/NN data/NNS structure/NN for/IN parallel/JJ MCTS/NNS which/WDT removes/VBZ synchronization/NN overhead/NN ./.
+The/DT Pipeline/NNP Pattern/NNP for/IN Parallel/JJ MCTS/NN algorithm/NN (/-LRB- called/VBN 3PMCTS/NN )/-RRB- ,/, scales/NNS very/RB well/RB to/IN higher/JJR numbers/NNS of/IN cores/NNS when/WRB compared/VBN to/IN the/DT existing/VBG methods/NNS ./.

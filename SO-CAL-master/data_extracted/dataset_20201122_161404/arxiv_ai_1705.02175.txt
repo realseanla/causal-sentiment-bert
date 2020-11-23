@@ -1,0 +1,5 @@
+Logic-based event recognition systems infer occurrences of events in time using a set of event definitions in the form of first-order rules.
+The Event Calculus is a temporal logic that has been used as a basis in event recognition applications, providing among others, direct connections to machine learning, via Inductive Logic Programming (ILP).
+OLED is a recently proposed ILP system that learns event definitions in the form of Event Calculus theories, in a single pass over a data stream.
+In this work we present a version of OLED that allows for distributed, online learning.
+We evaluate our approach on a benchmark activity recognition dataset and show that we can significantly reduce training times, exchanging minimal information between processing nodes.

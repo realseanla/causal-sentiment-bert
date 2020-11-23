@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ approach/NN for/IN aggregating/VBG online/JJ reviews/NNS ,/, according/VBG to/IN the/DT opinions/NNS they/PRP express/VBP ./.
+Our/PRP$ methodology/NN is/VBZ unsupervised/JJ -/HYPH due/JJ to/IN the/DT fact/NN that/IN it/PRP does/VBZ not/RB rely/VB on/IN pre-labeled/JJ reviews/NNS -/, and/CC it/PRP is/VBZ agnostic/JJ -/HYPH since/IN it/PRP does/VBZ not/RB make/VB any/DT assumption/NN about/IN the/DT domain/NN or/CC the/DT language/NN of/IN the/DT review/NN content/NN ./.
+We/PRP measure/VBP the/DT adherence/NN of/IN a/DT review/NN content/NN to/IN the/DT domain/NN terminology/NN extracted/VBN from/IN a/DT review/NN set/NN ./.
+First/RB ,/, we/PRP demonstrate/VBP the/DT informativeness/NN of/IN the/DT adherence/NN metric/JJ with/IN respect/NN to/IN the/DT score/NN associated/VBN with/IN a/DT review/NN ./.
+Then/RB ,/, we/PRP exploit/VBP the/DT metric/JJ values/NNS to/IN group/NN reviews/NNS ,/, according/VBG to/IN the/DT opinions/NNS they/PRP express/VBP ./.
+Our/PRP$ experimental/JJ campaign/NN has/VBZ been/VBN carried/VBN out/RP on/IN two/CD large/JJ datasets/NNS collected/VBN from/IN Booking/NNP and/CC Amazon/NNP ,/, respectively/RB ./.

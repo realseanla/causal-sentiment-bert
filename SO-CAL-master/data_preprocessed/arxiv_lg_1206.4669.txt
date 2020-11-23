@@ -1,0 +1,7 @@
+Canonical/JJ Correlation/NN Analysis/NN (/-LRB- CCA/NN )/-RRB- is/VBZ a/DT classical/JJ tool/NN for/IN finding/VBG correlations/NNS among/IN the/DT components/NNS of/IN two/CD random/JJ vectors/NNS ./.
+In/IN recent/JJ years/NNS ,/, CCA/NN has/VBZ been/VBN widely/RB applied/VBN to/IN the/DT analysis/NN of/IN genomic/JJ data/NNS ,/, where/WRB it/PRP is/VBZ common/JJ for/IN researchers/NNS to/TO perform/VB multiple/JJ assays/NNS on/IN a/DT single/JJ set/NN of/IN patient/NN samples/NNS ./.
+Recent/JJ work/NN has/VBZ proposed/VBN sparse/JJ variants/NNS of/IN CCA/NN to/TO address/VB the/DT high/JJ dimensionality/NN of/IN such/JJ data/NNS ./.
+However/RB ,/, classical/JJ and/CC sparse/JJ CCA/NN are/VBP based/VBN on/IN linear/JJ models/NNS ,/, and/CC are/VBP thus/RB limited/VBN in/IN their/PRP$ ability/NN to/TO find/VB general/JJ correlations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP two/CD approaches/NNS to/IN high/JJ -/HYPH dimensional/JJ nonparametric/JJ CCA/NN ,/, building/VBG on/IN recent/JJ developments/NNS in/IN high/JJ -/HYPH dimensional/JJ nonparametric/JJ regression/NN ./.
+We/PRP present/VBP estimation/NN procedures/NNS for/IN both/DT approaches/NNS ,/, and/CC analyze/VB their/PRP$ theoretical/JJ properties/NNS in/IN the/DT high/JJ -/HYPH dimensional/JJ setting/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN these/DT procedures/NNS in/IN discovering/VBG nonlinear/JJ correlations/NNS via/IN extensive/JJ simulations/NNS ,/, as/RB well/RB as/IN through/IN experiments/NNS with/IN genomic/JJ data/NNS ./.

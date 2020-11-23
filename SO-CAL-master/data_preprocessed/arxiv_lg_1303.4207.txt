@@ -1,0 +1,8 @@
+The/DT Nystrom/NNP method/NN has/VBZ been/VBN widely/RB used/VBN to/TO compute/VB low/JJ -/HYPH rank/NN approximations/NNS to/IN positive/JJ semidefinite/JJ matrices/NNS ./.
+Much/JJ work/NN has/VBZ been/VBN done/VBN on/IN the/DT sampling/NN techniques/NNS for/IN the/DT Nystrom/NNP method/NN ,/, and/CC many/JJ were/VBD guaranteed/VBN with/IN upper/JJ error/NN bounds/NNS ./.
+However/RB ,/, the/DT lower/JJR bounds/NNS ,/, especially/RB the/DT relative/JJ error/NN bounds/NNS ,/, were/VBD largely/RB unknown/JJ ./.
+We/PRP explore/VBP in/IN this/DT paper/NN the/DT lower/JJR bounds/NNS of/IN the/DT Nystrom/NNP method/NN to/TO show/VB how/WRB bad/JJ the/DT Nystrom/NNP method/NN can/MD perform/VB ./.
+We/PRP establish/VBP both/DT additive/JJ and/CC relative/JJ error/NN lower/JJR bounds/NNS for/IN the/DT Nystrom/NNP method/NN ./.
+Interestingly/RB ,/, some/DT of/IN the/DT relative/JJ -/HYPH error/NN lower/JJR bounds/NNS we/PRP established/VBD can/MD be/VB attained/VBN by/IN some/DT algorithms/NNS ,/, which/WDT indicates/VBZ some/DT lower/JJR bounds/NNS we/PRP establish/VBP are/VBP tight/JJ ./.
+However/RB ,/, some/DT lower/JJR bounds/NNS reveal/VBP the/DT downside/NN of/IN the/DT Nystrom/NNP method/NN that/IN they/PRP are/VBP much/RB worse/JJR than/IN the/DT column/NN selection/NN problem/NN and/CC the/DT CUR/NNP problem/NN ./.
+Sadly/RB ,/, we/PRP also/RB show/VBP that/IN some/DT bounds/NNS can/MD not/RB be/VB improved/VBN by/IN the/DT ensemble/NN Nystrom/NNP method/NN ./.

@@ -1,0 +1,7 @@
+In this paper we present an OCR for Handwritten Devnagari Characters.
+Basic symbols are recognized by neural classifier.
+We have used four feature extraction techniques namely, intersection, shadow feature, chain code histogram and straight line fitting features.
+Shadow features are computed globally for character image while intersection features, chain code histogram features and line fitting features are computed by dividing the character image into different segments.
+Weighted majority voting technique is used for combining the classification decision obtained from four Multi Layer Perceptron(MLP) based classifier.
+On experimentation with a dataset of 4900 samples the overall recognition rate observed is 92.80 percent as we considered top five choices results.
+This method is compared with other recent methods for Handwritten Devnagari Character Recognition and it has been observed that this approach has better success rate than other methods.

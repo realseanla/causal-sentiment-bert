@@ -1,0 +1,7 @@
+Even/RB though/IN convolutional/JJ neural/JJ networks/NNS (/-LRB- CNN/NNP )/-RRB- has/VBZ achieved/VBN near/IN -/HYPH human/JJ performance/NN in/IN various/JJ computer/NN vision/NN tasks/NNS ,/, its/PRP$ ability/NN to/TO tolerate/VB scale/NN variations/NNS is/VBZ limited/VBN ./.
+The/DT popular/JJ practise/NN is/VBZ making/VBG the/DT model/NN bigger/JJR first/RB ,/, and/CC then/RB train/VB it/PRP with/IN data/NNS augmentation/NN using/VBG extensive/JJ scale/NN -/HYPH jittering/VBG ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT scaleinvariant/JJ convolutional/JJ neural/JJ network/NN (/-LRB- SiCNN/NN )/-RRB- ,/, a/DT modeldesigned/VBN to/TO incorporate/VB multi-scale/JJ feature/NN exaction/NN and/CC classification/NN into/IN the/DT network/NN structure/NN ./.
+SiCNN/NNP uses/VBZ a/DT multi-column/JJ architecture/NN ,/, with/IN each/DT column/NN focusing/VBG on/IN a/DT particular/JJ scale/NN ./.
+Unlike/IN previous/JJ multi-column/JJ strategies/NNS ,/, these/DT columns/NNS share/VBP the/DT same/JJ set/NN of/IN filter/NN parameters/NNS by/IN a/DT scale/NN transformation/NN among/IN them/PRP ./.
+This/DT design/NN deals/NNS with/IN scale/NN variation/NN without/IN blowing/VBG up/RP the/DT model/NN size/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN SiCNN/NNP detects/VBZ features/NNS at/IN various/JJ scales/NNS ,/, and/CC the/DT classification/NN result/NN exhibits/VBZ strong/JJ robustness/NN against/IN object/NN scale/NN variations/NNS ./.

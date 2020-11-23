@@ -1,0 +1,10 @@
+Recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- ,/, especially/RB long/RB short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- RNNs/NNS ,/, are/VBP effective/JJ network/NN for/IN sequential/JJ task/NN like/IN speech/NN recognition/NN ./.
+Deeper/JJR LSTM/NN models/NNS perform/VBP well/RB on/IN large/JJ vocabulary/NN continuous/JJ speech/NN recognition/NN ,/, because/IN of/IN their/PRP$ impressive/JJ learning/NN ability/NN ./.
+However/RB ,/, it/PRP is/VBZ more/RBR difficult/JJ to/TO train/VB a/DT deeper/JJR network/NN ./.
+We/PRP introduce/VBP a/DT training/NN framework/NN with/IN layer-wise/JJ training/NN and/CC exponential/JJ moving/VBG average/JJ methods/NNS for/IN deeper/JJR LSTM/NN models/NNS ./.
+It/PRP is/VBZ a/DT competitive/JJ framework/NN that/WDT LSTM/NNP models/NNS of/IN more/JJR than/IN 7/CD layers/NNS are/VBP successfully/RB trained/VBN on/IN Shenma/NNP voice/NN search/NN data/NNS in/IN Mandarin/NNP and/CC they/PRP outperform/VBP the/DT deep/JJ LSTM/NN models/NNS trained/VBN by/IN conventional/JJ approach/NN ./.
+Moreover/RB ,/, in/IN order/NN for/IN online/JJ streaming/NN speech/NN recognition/NN applications/NNS ,/, the/DT shallow/JJ model/NN with/IN low/JJ real/JJ time/NN factor/NN is/VBZ distilled/VBN from/IN the/DT very/RB deep/JJ model/NN ./.
+The/DT recognition/NN accuracy/NN have/VBP little/JJ loss/NN in/IN the/DT distillation/NN process/NN ./.
+Therefore/RB ,/, the/DT model/NN trained/VBN with/IN the/DT proposed/VBN training/NN framework/NN reduces/VBZ relative/JJ 14/CD \/SYM percent/NN character/NN error/NN rate/NN ,/, compared/VBN to/IN original/JJ model/NN which/WDT has/VBZ the/DT similar/JJ real/JJ -/HYPH time/NN capability/NN ./.
+Furthermore/RB ,/, the/DT novel/JJ transfer/NN learning/NN strategy/NN with/IN segmental/JJ Minimum/NNP Bayes/NNP -/HYPH Risk/NNP is/VBZ also/RB introduced/VBN in/IN the/DT framework/NN ./.
+The/DT strategy/NN makes/VBZ it/PRP possible/JJ that/IN training/NN with/IN only/RB a/DT small/JJ part/NN of/IN dataset/NN could/MD outperform/VB full/JJ dataset/NN training/NN from/IN the/DT beginning/NN ./.

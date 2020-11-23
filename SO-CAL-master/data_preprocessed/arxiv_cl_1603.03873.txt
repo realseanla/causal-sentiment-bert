@@ -1,0 +1,8 @@
+Humans/NNS comprehend/VBP the/DT meanings/NNS and/CC relations/NNS of/IN discourses/NNS heavily/RB relying/VBG on/IN their/PRP$ semantic/JJ memory/NN that/WDT encodes/VBZ general/JJ knowledge/NN about/IN concepts/NNS and/CC facts/NNS ./.
+Inspired/VBN by/IN this/DT ,/, we/PRP propose/VBP a/DT neural/JJ recognizer/NN for/IN implicit/JJ discourse/NN relation/NN analysis/NN ,/, which/WDT builds/VBZ upon/IN a/DT semantic/JJ memory/NN that/WDT stores/VBZ knowledge/NN in/IN a/DT distributed/VBN fashion/NN ./.
+We/PRP refer/VBP to/IN this/DT recognizer/NN as/IN SeMDER/NNP ./.
+Starting/VBG from/IN word/NN embeddings/NNS of/IN discourse/NN arguments/NNS ,/, SeMDER/NNP employs/VBZ a/DT shallow/JJ encoder/NN to/TO generate/VB a/DT distributed/VBN surface/NN representation/NN for/IN a/DT discourse/NN ./.
+A/DT semantic/JJ encoder/NN with/IN attention/NN to/IN the/DT semantic/JJ memory/NN matrix/NN is/VBZ further/RB established/VBN over/IN surface/NN representations/NNS ./.
+It/PRP is/VBZ able/JJ to/TO retrieve/VB a/DT deep/JJ semantic/JJ meaning/NN representation/NN for/IN the/DT discourse/NN from/IN the/DT memory/NN ./.
+Using/VBG the/DT surface/NN and/CC semantic/JJ representations/NNS as/IN input/NN ,/, SeMDER/NNP finally/RB predicts/VBZ implicit/JJ discourse/NN relations/NNS via/IN a/DT neural/JJ recognizer/NN ./.
+Experiments/NNS on/IN the/DT benchmark/NN data/NNS set/VBN show/VBP that/IN SeMDER/NNP benefits/NNS from/IN the/DT semantic/JJ memory/NN and/CC achieves/VBZ substantial/JJ improvements/NNS of/IN 2.56/CD \/SYM percent/NN on/IN average/JJ over/IN current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN baselines/NNS in/IN terms/NNS of/IN F1/NN -/HYPH score/NN ./.

@@ -1,0 +1,10 @@
+This/DT paper/NN describes/VBZ our/PRP$ submission/NN to/IN the/DT shared/VBN task/NN on/IN word/NN //HYPH phrase/NN level/NN Quality/NNP Estimation/NNP (/-LRB- QE/NNP )/-RRB- in/IN the/DT First/NNP Conference/NNP on/IN Statistical/JJ Machine/NN Translation/NN (/-LRB- WMT16/NN )/-RRB- ./.
+The/DT objective/NN of/IN the/DT shared/VBN task/NN was/VBD to/TO predict/VB if/IN the/DT given/VBN word/NN //HYPH phrase/NN is/VBZ a/DT correct/JJ //HYPH incorrect/JJ (/-LRB- OK/JJ //HYPH BAD/JJ )/-RRB- translation/NN in/IN the/DT given/VBN sentence/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ approach/NN for/IN word/NN level/NN Quality/NN Estimation/NN using/VBG Recurrent/JJ Neural/JJ Network/NNP Language/NNP Model/NNP (/-LRB- RNN/NN -/HYPH LM/NN )/-RRB- architecture/NN ./.
+RNN/NN -/HYPH LMs/NNS have/VBP been/VBN found/VBN very/RB effective/JJ in/IN different/JJ Natural/JJ Language/NNP Processing/NNP (/-LRB- NLP/NNP )/-RRB- applications/NNS ./.
+RNN/NN -/HYPH LM/NN is/VBZ mainly/RB used/VBN for/IN vector/NN space/NN language/NN modeling/NN for/IN different/JJ NLP/NN problems/NNS ./.
+For/IN this/DT task/NN ,/, we/PRP modify/VBP the/DT architecture/NN of/IN RNN/NN -/HYPH LM/NN ./.
+The/DT modified/VBN system/NN predicts/VBZ a/DT label/NN (/-LRB- OK/JJ //HYPH BAD/JJ )/-RRB- in/IN the/DT slot/NN rather/RB than/IN predicting/VBG the/DT word/NN ./.
+The/DT input/NN to/IN the/DT system/NN is/VBZ a/DT word/NN sequence/NN ,/, similar/JJ to/IN the/DT standard/JJ RNN/NN -/HYPH LM/NN ./.
+The/DT approach/NN is/VBZ language/NN independent/JJ and/CC requires/VBZ only/RB the/DT translated/VBN text/NN for/IN QE/NNP ./.
+To/TO estimate/VB the/DT phrase/NN level/NN quality/NN ,/, we/PRP use/VBP the/DT output/NN of/IN the/DT word/NN level/NN QE/NNP system/NN ./.

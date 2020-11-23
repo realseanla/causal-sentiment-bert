@@ -1,0 +1,8 @@
+The cascade model is a well-established model of user interaction with content.
+In this work, we propose cascading bandits, a learning variant of the model where the objective is to learn $K$ most attractive items out of $L$ ground items.
+We cast the problem as a stochastic combinatorial bandit with a non-linear reward function and partially observed weights of items.
+Both of these are challenging in the context of combinatorial bandits.
+We propose two computationally-efficient algorithms for our problem, CascadeUCB1 and CascadeKL-UCB, and prove gap-dependent upper bounds on their regret.
+We also derive a lower bound for cascading bandits and show that it matches the upper bound of CascadeKL-UCB up to a logarithmic factor.
+Finally, we evaluate our algorithms on synthetic problems.
+Our experiments demonstrate that the algorithms perform well and robustly even when our modeling assumptions are violated.

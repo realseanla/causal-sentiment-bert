@@ -1,0 +1,9 @@
+Deep/JJ Belief/NN Networks/NNS which/WDT are/VBP hierarchical/JJ generative/JJ models/NNS are/VBP effective/JJ tools/NNS for/IN feature/NN representation/NN and/CC extraction/NN ./.
+Furthermore/RB ,/, DBNs/NNS can/MD be/VB used/VBN in/IN numerous/JJ aspects/NNS of/IN Machine/NN Learning/VBG such/JJ as/IN image/NN denoising/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ method/NN for/IN image/NN denoising/NN which/WDT relies/VBZ on/IN the/DT DBNs/NNS '/POS ability/NN in/IN feature/NN representation/NN ./.
+This/DT work/NN is/VBZ based/VBN upon/IN learning/NN of/IN the/DT noise/NN behavior/NN ./.
+Generally/RB ,/, features/NNS which/WDT are/VBP extracted/VBN using/VBG DBNs/NNS are/VBP presented/VBN as/IN the/DT values/NNS of/IN the/DT last/JJ layer/NN nodes/NNS ./.
+We/PRP train/VBP a/DT DBN/NNP a/DT way/NN that/IN the/DT network/NN totally/RB distinguishes/VBZ between/IN nodes/NNS presenting/VBG noise/NN and/CC nodes/NNS presenting/VBG image/NN content/NN in/IN the/DT last/JJ later/RB of/IN DBN/NNP ,/, i.e./FW the/DT nodes/NNS in/IN the/DT last/JJ layer/NN of/IN trained/VBN DBN/NN are/VBP divided/VBN into/IN two/CD distinct/JJ groups/NNS of/IN nodes/NNS ./.
+After/IN detecting/VBG the/DT nodes/NNS which/WDT are/VBP presenting/VBG the/DT noise/NN ,/, we/PRP are/VBP able/JJ to/TO make/VB the/DT noise/NN nodes/NNS inactive/JJ and/CC reconstruct/VB a/DT noiseless/JJ image/NN ./.
+In/IN section/NN 4/CD we/PRP explore/VBP the/DT results/NNS of/IN applying/VBG this/DT method/NN on/IN the/DT MNIST/NNP dataset/NN of/IN handwritten/JJ digits/NNS which/WDT is/VBZ corrupted/VBN with/IN additive/JJ white/JJ Gaussian/JJ noise/NN (/-LRB- AWGN/NN )/-RRB- ./.
+A/DT reduction/NN of/IN 65.9/CD percent/NN in/IN average/JJ mean/JJ square/JJ error/NN (/-LRB- MSE/NN )/-RRB- was/VBD achieved/VBN when/WRB the/DT proposed/JJ method/NN was/VBD used/VBN for/IN the/DT reconstruction/NN of/IN the/DT noisy/JJ images/NNS ./.

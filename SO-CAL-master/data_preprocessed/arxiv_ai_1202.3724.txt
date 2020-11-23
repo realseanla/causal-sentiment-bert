@@ -1,0 +1,9 @@
+Many/JJ representation/NN schemes/NNS combining/VBG first/RB -/HYPH order/NN logic/NN and/CC probability/NN have/VBP been/VBN proposed/VBN in/IN recent/JJ years/NNS ./.
+Progress/NN in/IN unifying/JJ logical/JJ and/CC probabilistic/JJ inference/NN has/VBZ been/VBN slower/JJR ./.
+Existing/VBG methods/NNS are/VBP mainly/RB variants/NNS of/IN lifted/VBN variable/JJ elimination/NN and/CC belief/NN propagation/NN ,/, neither/DT of/IN which/WDT take/VBP logical/JJ structure/NN into/IN account/NN ./.
+We/PRP propose/VBP the/DT first/JJ method/NN that/WDT has/VBZ the/DT full/JJ power/NN of/IN both/DT graphical/JJ model/NN inference/NN and/CC first/JJ -/HYPH order/NN theorem/NN proving/VBG (/-LRB- in/IN finite/NN domains/NNS with/IN Herbrand/NN interpretations/NNS )/-RRB- ./.
+We/PRP first/RB define/VBP probabilistic/JJ theorem/NN proving/VBG ,/, their/PRP$ generalization/NN ,/, as/IN the/DT problem/NN of/IN computing/VBG the/DT probability/NN of/IN a/DT logical/JJ formula/NN given/VBN the/DT probabilities/NNS or/CC weights/NNS of/IN a/DT set/NN of/IN formulas/NNS ./.
+We/PRP then/RB show/VBP how/WRB this/DT can/MD be/VB reduced/VBN to/IN the/DT problem/NN of/IN lifted/VBN weighted/JJ model/NN counting/NN ,/, and/CC develop/VB an/DT efficient/JJ algorithm/NN for/IN the/DT latter/JJ ./.
+We/PRP prove/VBP the/DT correctness/NN of/IN this/DT algorithm/NN ,/, investigate/VB its/PRP$ properties/NNS ,/, and/CC show/VB how/WRB it/PRP generalizes/VBZ previous/JJ approaches/NNS ./.
+Experiments/NNS show/VBP that/IN it/PRP greatly/RB outperforms/VBZ lifted/VBN variable/JJ elimination/NN when/WRB logical/JJ structure/NN is/VBZ present/JJ ./.
+Finally/RB ,/, we/PRP propose/VBP an/DT algorithm/NN for/IN approximate/JJ probabilistic/JJ theorem/NN proving/VBG ,/, and/CC show/VBP that/IN it/PRP can/MD greatly/RB outperform/VB lifted/VBN belief/NN propagation/NN ./.

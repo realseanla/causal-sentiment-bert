@@ -1,0 +1,6 @@
+Emotion/NN cause/NN extraction/NN aims/VBZ to/TO identify/VB the/DT reasons/NNS behind/IN a/DT certain/JJ emotion/NN expressed/VBN in/IN text/NN ./.
+It/PRP is/VBZ a/DT much/RB more/RBR difficult/JJ task/NN compared/VBN to/IN emotion/NN classification/NN ./.
+Inspired/VBN by/IN recent/JJ advances/NNS in/IN using/VBG deep/JJ memory/NN networks/NNS for/IN question/NN answering/NN (/-LRB- QA/NN )/-RRB- ,/, we/PRP propose/VBP a/DT new/JJ approach/NN which/WDT considers/VBZ emotion/NN cause/NN identification/NN as/IN a/DT reading/NN comprehension/NN task/NN in/IN QA/NNP ./.
+Inspired/VBN by/IN convolutional/JJ neural/JJ networks/NNS ,/, we/PRP propose/VBP a/DT new/JJ mechanism/NN to/TO store/VB relevant/JJ context/NN in/IN different/JJ memory/NN slots/NNS to/IN model/NN context/NN information/NN ./.
+Our/PRP$ proposed/VBN approach/NN can/MD extract/VB both/DT word/NN level/NN sequence/NN features/NNS and/CC lexical/JJ features/NNS ./.
+Performance/NN evaluation/NN shows/VBZ that/IN our/PRP$ method/NN achieves/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN a/DT recently/RB released/VBN emotion/NN cause/NN dataset/NN ,/, outperforming/VBG a/DT number/NN of/IN competitive/JJ baselines/NNS by/IN at/IN least/RBS 3.01/CD percent/NN in/IN F/NN -/HYPH measure/NN ./.

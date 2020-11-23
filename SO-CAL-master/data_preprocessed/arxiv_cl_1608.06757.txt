@@ -1,0 +1,7 @@
+Named/VBN entity/NN recognition/NN often/RB fails/VBZ in/IN idiosyncratic/JJ domains/NNS ./.
+That/DT causes/VBZ a/DT problem/NN for/IN depending/VBG tasks/NNS ,/, such/JJ as/IN entity/NN linking/VBG and/CC relation/NN extraction/NN ./.
+We/PRP propose/VBP a/DT generic/JJ and/CC robust/JJ approach/NN for/IN high/JJ -/HYPH recall/NN named/VBN entity/NN recognition/NN ./.
+Our/PRP$ approach/NN is/VBZ easy/JJ to/TO train/VB and/CC offers/VBZ strong/JJ generalization/NN over/IN diverse/JJ domain/NN -/HYPH specific/JJ language/NN ,/, such/JJ as/IN news/NN documents/NNS (/-LRB- e.g./FW Reuters/NNP )/-RRB- or/CC biomedical/JJ text/NN (/-LRB- e.g./FW Medline/NN )/-RRB- ./.
+Our/PRP$ approach/NN is/VBZ based/VBN on/IN deep/JJ contextual/JJ sequence/NN learning/NN and/CC utilizes/VBZ stacked/VBN bidirectional/JJ LSTM/NNP networks/NNS ./.
+Our/PRP$ model/NN is/VBZ trained/VBN with/IN only/JJ few/JJ hundred/CD labeled/VBN sentences/NNS and/CC does/VBZ not/RB rely/VB on/IN further/JJ external/JJ knowledge/NN ./.
+We/PRP report/VBP from/IN our/PRP$ results/NNS F1/NN scores/NNS in/IN the/DT range/NN of/IN 84/CD -/SYM 94/CD percent/NN on/IN standard/JJ datasets/NNS ./.

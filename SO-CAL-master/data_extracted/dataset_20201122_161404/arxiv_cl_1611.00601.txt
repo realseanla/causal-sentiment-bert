@@ -1,0 +1,4 @@
+Humans have the capacity to draw common-sense inferences from natural language: various things that are likely but not certain to hold based on established discourse, and are rarely stated explicitly.
+We propose an evaluation of automated common-sense inference based on an extension of recognizing textual entailment: predicting ordinal human responses of subjective likelihood of an inference holding in a given context.
+We describe a framework for extracting common-sense knowledge for corpora, which is then used to construct a dataset for this ordinal entailment task, which we then use to train and evaluate a sequence to sequence neural network model.
+Further, we annotate subsets of previously established datasets via our ordinal annotation protocol in order to then analyze the distinctions between these and what we have constructed.

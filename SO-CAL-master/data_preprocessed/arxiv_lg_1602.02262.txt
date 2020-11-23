@@ -1,0 +1,4 @@
+Many/JJ applications/NNS require/VBP recovering/VBG a/DT ground/NN truth/NN low/JJ -/HYPH rank/NN matrix/NN from/IN noisy/JJ observations/NNS of/IN the/DT entries/NNS ./.
+In/IN practice/NN ,/, this/DT is/VBZ typically/RB formulated/VBN as/IN weighted/JJ low/JJ -/HYPH rank/NN approximation/NN problem/NN and/CC solved/VBN using/VBG non-convex/JJ optimization/NN heuristics/NNS such/JJ as/IN alternating/VBG minimization/NN ./.
+Such/JJ non-convex/JJ techniques/NNS have/VBP little/JJ guarantees/NNS ./.
+Even/RB worse/JJR ,/, weighted/JJ low/JJ -/HYPH rank/NN approximation/NN is/VBZ NP/NNP -/HYPH hard/JJ for/IN even/RB the/DT most/RBS simple/JJ case/NN when/WRB the/DT ground/NN truth/NN is/VBZ a/DT rank/NN -/HYPH 1/CD matrix/NN ./.

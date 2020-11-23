@@ -1,0 +1,4 @@
+Consider/VB a/DT weighted/JJ or/CC unweighted/JJ k/NN -/HYPH nearest/JJS neighbor/NN graph/NN that/WDT has/VBZ been/VBN built/VBN on/IN n/NN data/NNS points/VBZ drawn/VBN randomly/RB according/VBG to/IN some/DT density/NN p/NN on/IN R/NN ^/SYM d/NN ./.
+We/PRP study/VBP the/DT convergence/NN of/IN the/DT shortest/JJS path/NN distance/NN in/IN such/JJ graphs/NNS as/IN the/DT sample/NN size/NN tends/VBZ to/TO infinity/NN ./.
+We/PRP prove/VBP that/IN for/IN unweighted/JJ kNN/NN graphs/NNS ,/, this/DT distance/NN converges/VBZ to/IN an/DT unpleasant/JJ distance/NN function/NN on/IN the/DT underlying/VBG space/NN whose/WP$ properties/NNS are/VBP detrimental/JJ to/IN machine/NN learning/NN ./.
+We/PRP also/RB study/VB the/DT behavior/NN of/IN the/DT shortest/JJS path/NN distance/NN in/IN weighted/JJ kNN/NN graphs/NNS ./.

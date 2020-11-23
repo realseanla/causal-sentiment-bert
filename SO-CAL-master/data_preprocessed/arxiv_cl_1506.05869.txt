@@ -1,0 +1,10 @@
+Conversational/JJ modeling/NN is/VBZ an/DT important/JJ task/NN in/IN natural/JJ language/NN understanding/NN and/CC machine/NN intelligence/NN ./.
+Although/IN previous/JJ approaches/NNS exist/VBP ,/, they/PRP are/VBP often/RB restricted/VBN to/IN specific/JJ domains/NNS (/-LRB- e.g./FW ,/, booking/VBG an/DT airline/NN ticket/NN )/-RRB- and/CC require/VBP hand/NN -/HYPH crafted/VBN rules/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT simple/JJ approach/NN for/IN this/DT task/NN which/WDT uses/VBZ the/DT recently/RB proposed/VBN sequence/NN to/IN sequence/NN framework/NN ./.
+Our/PRP$ model/NN converses/VBZ by/IN predicting/VBG the/DT next/JJ sentence/NN given/VBN the/DT previous/JJ sentence/NN or/CC sentences/NNS in/IN a/DT conversation/NN ./.
+The/DT strength/NN of/IN our/PRP$ model/NN is/VBZ that/IN it/PRP can/MD be/VB trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN and/CC thus/RB requires/VBZ much/JJ fewer/JJR hand/NN -/HYPH crafted/VBN rules/NNS ./.
+We/PRP find/VBP that/IN this/DT straightforward/JJ model/NN can/MD generate/VB simple/JJ conversations/NNS given/VBN a/DT large/JJ conversational/JJ training/NN dataset/NN ./.
+Our/PRP$ preliminary/JJ suggest/VBP that/IN ,/, despite/IN optimizing/VBG the/DT wrong/JJ objective/NN function/NN ,/, the/DT model/NN is/VBZ able/JJ to/TO extract/VB knowledge/NN from/IN both/CC a/DT domain/NN specific/JJ dataset/NN ,/, and/CC from/IN a/DT large/JJ ,/, noisy/JJ ,/, and/CC general/JJ domain/NN dataset/NN of/IN movie/NN subtitles/NNS ./.
+On/IN a/DT domain/NN -/HYPH specific/JJ IT/NN helpdesk/NN dataset/NN ,/, the/DT model/NN can/MD find/VB a/DT solution/NN to/IN a/DT technical/JJ problem/NN via/IN conversations/NNS ./.
+On/IN a/DT noisy/JJ open/JJ -/HYPH domain/NN movie/NN transcript/NN dataset/NN ,/, the/DT model/NN can/MD perform/VB simple/JJ forms/NNS of/IN common/JJ sense/NN reasoning/NN ./.
+As/IN expected/VBN ,/, we/PRP also/RB find/VBP that/IN the/DT lack/NN of/IN consistency/NN is/VBZ a/DT common/JJ failure/NN mode/NN of/IN our/PRP$ model/NN ./.

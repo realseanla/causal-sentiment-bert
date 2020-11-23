@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT hybrid/NN constraint/NN -/HYPH based/VBN //HYPH Bayesian/JJ algorithm/NN for/IN learning/VBG causal/JJ networks/NNS in/IN the/DT presence/NN of/IN sparse/JJ data/NNS ./.
+The/DT algorithm/NN searches/VBZ the/DT space/NN of/IN equivalence/NN classes/NNS of/IN models/NNS (/-LRB- essential/JJ graphs/NNS )/-RRB- using/VBG a/DT heuristic/NN based/VBN on/IN conventional/JJ constraint/NN -/HYPH based/VBN techniques/NNS ./.
+Each/DT essential/JJ graph/NN is/VBZ then/RB converted/VBN into/IN a/DT directed/VBN acyclic/JJ graph/NN and/CC scored/VBN using/VBG a/DT Bayesian/JJ scoring/NN metric/JJ ./.
+Two/CD variants/NNS of/IN the/DT algorithm/NN are/VBP developed/VBN and/CC tested/VBN using/VBG data/NNS from/IN randomly/RB generated/VBN networks/NNS of/IN sizes/NNS from/IN 15/CD to/IN 45/CD nodes/NNS with/IN data/NNS sizes/VBZ ranging/VBG from/IN 250/CD to/IN 2000/CD records/NNS ./.
+Both/DT variations/NNS are/VBP compared/VBN to/IN ,/, and/CC found/VBD to/TO consistently/RB outperform/VB two/CD variations/NNS of/IN greedy/JJ search/NN with/IN restarts/NNS ./.

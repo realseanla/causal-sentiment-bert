@@ -1,0 +1,10 @@
+In/IN comparison/NN with/IN document/NN summarization/NN on/IN the/DT articles/NNS from/IN social/JJ media/NNS and/CC newswire/NN ,/, argumentative/JJ zoning/NN (/-LRB- AZ/NNP )/-RRB- is/VBZ an/DT important/JJ task/NN in/IN scientific/JJ paper/NN analysis/NN ./.
+Traditional/JJ methodology/NN to/TO carry/VB on/RP this/DT task/NN relies/VBZ on/IN feature/NN engineering/NN from/IN different/JJ levels/NNS ./.
+In/IN this/DT paper/NN ,/, three/CD models/NNS of/IN generating/VBG sentence/NN vectors/NNS for/IN the/DT task/NN of/IN sentence/NN classification/NN were/VBD explored/VBN and/CC compared/VBN ./.
+The/DT proposed/VBN approach/NN builds/VBZ sentence/NN representations/NNS using/VBG learned/VBN embeddings/NNS based/VBN on/IN neural/JJ network/NN ./.
+The/DT learned/VBN word/NN embeddings/NNS formed/VBD a/DT feature/NN space/NN ,/, to/TO which/WDT the/DT examined/VBN sentence/NN is/VBZ mapped/VBN to/IN ./.
+Those/DT features/NNS are/VBP input/NN into/IN the/DT classifiers/NNS for/IN supervised/JJ classification/NN ./.
+Using/VBG 10/CD -/HYPH cross-validation/NN scheme/NN ,/, evaluation/NN was/VBD conducted/VBN on/IN the/DT Argumentative/JJ -/HYPH Zoning/NN (/-LRB- AZ/NNP )/-RRB- annotated/VBN articles/NNS ./.
+The/DT results/NNS showed/VBD that/IN simply/RB averaging/VBG the/DT word/NN vectors/NNS in/IN a/DT sentence/NN works/VBZ better/JJR than/IN the/DT paragraph/NN to/IN vector/NN algorithm/NN and/CC by/IN integrating/VBG specific/JJ cuewords/NNS into/IN the/DT loss/NN function/NN of/IN the/DT neural/JJ network/NN can/MD improve/VB the/DT classification/NN performance/NN ./.
+In/IN comparison/NN with/IN the/DT hand/NN -/HYPH crafted/VBN features/NNS ,/, the/DT word2vec/NN method/NN won/VBD for/IN most/JJS of/IN the/DT categories/NNS ./.
+However/RB ,/, the/DT hand/NN -/HYPH crafted/VBN features/NNS showed/VBD their/PRP$ strength/NN on/IN classifying/VBG some/DT of/IN the/DT categories/NNS ./.

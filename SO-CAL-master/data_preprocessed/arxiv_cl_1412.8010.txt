@@ -1,0 +1,9 @@
+SentiWordNet/NNP is/VBZ an/DT important/JJ lexical/JJ resource/NN supporting/VBG sentiment/NN analysis/NN in/IN opinion/NN mining/NN applications/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ approach/NN to/TO construct/VB a/DT Vietnamese/JJ SentiWordNet/NNP (/-LRB- VSWN/NNP )/-RRB- ./.
+SentiWordNet/NNP is/VBZ typically/RB generated/VBN from/IN WordNet/NNP in/IN which/WDT each/DT synset/NN has/VBZ numerical/JJ scores/NNS to/TO indicate/VB its/PRP$ opinion/NN polarities/NNS ./.
+Many/JJ previous/JJ studies/NNS obtained/VBD these/DT scores/NNS by/IN applying/VBG a/DT machine/NN learning/NN method/NN to/TO WordNet/NNP ./.
+However/RB ,/, Vietnamese/JJ WordNet/NNP is/VBZ not/RB available/JJ unfortunately/RB by/IN the/DT time/NN of/IN this/DT paper/NN ./.
+Therefore/RB ,/, we/PRP propose/VBP a/DT method/NN to/TO construct/VB VSWN/NNP from/IN a/DT Vietnamese/JJ dictionary/NN ,/, not/RB from/IN WordNet/NNP ./.
+We/PRP show/VBP the/DT effectiveness/NN of/IN the/DT proposed/JJ method/NN by/IN generating/VBG a/DT VSWN/NN with/IN 39,561/CD synsets/NNS automatically/RB ./.
+The/DT method/NN is/VBZ experimentally/RB tested/VBN with/IN 266/CD synsets/NNS with/IN aspect/NN of/IN positivity/NN and/CC negativity/NN ./.
+It/PRP attains/VBZ a/DT competitive/JJ result/NN compared/VBN with/IN English/NNP SentiWordNet/NNP that/WDT is/VBZ 0.066/CD and/CC 0.052/CD differences/NNS for/IN positivity/NN and/CC negativity/NN sets/NNS respectively/RB ./.

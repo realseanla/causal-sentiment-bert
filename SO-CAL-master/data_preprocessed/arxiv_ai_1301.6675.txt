@@ -1,0 +1,6 @@
+Diagnosis/NN and/CC prediction/NN in/IN some/DT domains/NNS ,/, like/IN medical/JJ and/CC industrial/JJ diagnosis/NN ,/, require/VBP a/DT representation/NN that/WDT combines/VBZ uncertainty/NN management/NN and/CC temporal/JJ reasoning/NN ./.
+Based/VBN on/IN the/DT fact/NN that/IN in/IN many/JJ cases/NNS there/EX are/VBP few/JJ state/NN changes/NNS in/IN the/DT temporal/JJ range/NN of/IN interest/NN ,/, we/PRP propose/VBP a/DT novel/JJ representation/NN called/VBN Temporal/JJ Nodes/NNS Bayesian/JJ Networks/NNS (/-LRB- TNBN/NN )/-RRB- ./.
+In/IN a/DT TNBN/NN each/DT node/NN represents/VBZ an/DT event/NN or/CC state/NN change/NN of/IN a/DT variable/JJ ,/, and/CC an/DT arc/NN corresponds/VBZ to/IN a/DT causal/JJ -/HYPH temporal/JJ relationship/NN ./.
+The/DT temporal/JJ intervals/NNS can/MD differ/VB in/IN number/NN and/CC size/NN for/IN each/DT temporal/JJ node/NN ,/, so/RB this/DT allows/VBZ multiple/JJ granularity/NN ./.
+Our/PRP$ approach/NN is/VBZ contrasted/VBN with/IN a/DT dynamic/JJ Bayesian/JJ network/NN for/IN a/DT simple/JJ medical/JJ example/NN ./.
+An/DT empirical/JJ evaluation/NN is/VBZ presented/VBN for/IN a/DT more/RBR complex/JJ problem/NN ,/, a/DT subsystem/NN of/IN a/DT fossil/NN power/NN plant/NN ,/, in/IN which/WDT this/DT approach/NN is/VBZ used/VBN for/IN fault/NN diagnosis/NN and/CC prediction/NN with/IN good/JJ results/NNS ./.

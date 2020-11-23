@@ -1,0 +1,6 @@
+A/DT variety/NN of/IN large/JJ -/HYPH scale/NN machine/NN learning/NN problems/NNS can/MD be/VB cast/VBN as/IN instances/NNS of/IN constrained/VBN submodular/JJ maximization/NN ./.
+Existing/VBG approaches/NNS for/IN distributed/VBN submodular/JJ maximization/NN have/VBP a/DT critical/JJ drawback/NN :/: The/DT capacity/NN -/HYPH number/NN of/IN instances/NNS that/WDT can/MD fit/VB in/IN memory/NN -/HYPH must/MD grow/VB with/IN the/DT data/NNS set/VBN size/NN ./.
+In/IN practice/NN ,/, while/IN one/CD can/MD provision/NN many/JJ machines/NNS ,/, the/DT capacity/NN of/IN each/DT machine/NN is/VBZ limited/VBN by/IN physical/JJ constraints/NNS ./.
+We/PRP propose/VBP a/DT truly/RB scalable/JJ approach/NN for/IN distributed/VBN submodular/JJ maximization/NN under/IN fixed/VBN capacity/NN ./.
+The/DT proposed/VBN framework/NN applies/VBZ to/IN a/DT broad/JJ class/NN of/IN algorithms/NNS and/CC constraints/NNS and/CC provides/VBZ theoretical/JJ guarantees/NNS on/IN the/DT approximation/NN factor/NN for/IN any/DT available/JJ capacity/NN ./.
+We/PRP empirically/RB evaluate/VB the/DT proposed/VBN algorithm/NN on/IN a/DT variety/NN of/IN data/NNS sets/NNS and/CC demonstrate/VBP that/IN it/PRP achieves/VBZ performance/NN competitive/JJ with/IN the/DT centralized/JJ greedy/JJ solution/NN ./.

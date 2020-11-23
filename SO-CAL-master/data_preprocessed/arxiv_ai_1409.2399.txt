@@ -1,0 +1,5 @@
+An/DT important/JJ capability/NN of/IN autonomous/JJ multi-robot/JJ systems/NNS is/VBZ to/TO prevent/VB collision/NN among/IN the/DT individual/JJ robots/NNS ./.
+One/CD approach/NN to/IN this/DT problem/NN is/VBZ to/TO plan/VB conflict/NN -/HYPH free/JJ trajectories/NNS and/CC let/VB each/DT of/IN the/DT robots/NNS follow/VBP its/PRP$ pre-planned/JJ trajectory/NN ./.
+A/DT widely/RB used/VBN practical/JJ method/NN for/IN multi-robot/JJ trajectory/NN planning/NN is/VBZ prioritized/VBN planning/NN ,/, which/WDT has/VBZ been/VBN shown/VBN to/TO be/VB effective/JJ in/IN practice/NN ,/, but/CC is/VBZ in/IN general/JJ incomplete/JJ ./.
+Formal/JJ analysis/NN of/IN instances/NNS that/WDT are/VBP provably/RB solvable/JJ by/IN prioritized/VBN planning/NN is/VBZ still/RB missing/VBG ./.
+Moreover/RB ,/, prioritized/VBN planning/NN is/VBZ a/DT centralized/JJ algorithm/NN ,/, which/WDT may/MD be/VB in/IN many/JJ situations/NNS undesirable/JJ ./.

@@ -1,0 +1,5 @@
+ENIGMA/NN is/VBZ a/DT learning/NN -/HYPH based/VBN method/NN for/IN guiding/VBG given/VBN clause/NN selection/NN in/IN saturation/NN -/HYPH based/VBN theorem/NN provers/NNS ./.
+Clauses/NNS from/IN many/JJ proof/JJ searches/NNS are/VBP classified/VBN as/IN positive/JJ and/CC negative/JJ based/VBN on/IN their/PRP$ participation/NN in/IN the/DT proofs/NNS ./.
+An/DT efficient/JJ classification/NN model/NN is/VBZ trained/VBN on/IN this/DT data/NN ,/, using/VBG fast/JJ feature/NN -/HYPH based/VBN characterization/NN of/IN the/DT clauses/NNS ./.
+The/DT learned/VBN model/NN is/VBZ then/RB tightly/RB linked/VBN with/IN the/DT core/NN prover/NN and/CC used/VBN as/IN a/DT basis/NN of/IN a/DT new/JJ parameterized/JJ evaluation/NN heuristic/NN that/WDT provides/VBZ fast/RB ranking/VBG of/IN all/DT generated/VBN clauses/NNS ./.
+The/DT approach/NN is/VBZ evaluated/VBN on/IN the/DT E/NN prover/NN and/CC the/DT CASC/NNP 2016/CD AIM/NNP benchmark/NN ,/, showing/VBG a/DT large/JJ increase/NN of/IN E/NN 's/POS performance/NN ./.

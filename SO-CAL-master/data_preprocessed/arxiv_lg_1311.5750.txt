@@ -1,0 +1,6 @@
+Hard/JJ Thresholding/NN Pursuit/NN (/-LRB- HTP/NN )/-RRB- is/VBZ an/DT iterative/JJ greedy/JJ selection/NN procedure/NN for/IN finding/VBG sparse/JJ solutions/NNS of/IN underdetermined/JJ linear/JJ systems/NNS ./.
+This/DT method/NN has/VBZ been/VBN shown/VBN to/TO have/VB strong/JJ theoretical/JJ guarantee/NN and/CC impressive/JJ numerical/JJ performance/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP generalize/VBP HTP/NNP from/IN compressive/JJ sensing/VBG to/IN a/DT generic/JJ problem/NN setup/NN of/IN sparsity/NN -/HYPH constrained/VBN convex/NN optimization/NN ./.
+The/DT proposed/VBN algorithm/NN iterates/NNS between/IN a/DT standard/JJ gradient/NN descent/NN step/NN and/CC a/DT hard/JJ thresholding/NN step/NN with/IN or/CC without/IN debiasing/VBG ./.
+We/PRP prove/VBP that/IN our/PRP$ method/NN enjoys/VBZ the/DT strong/JJ guarantees/NNS analogous/JJ to/IN HTP/NNP in/IN terms/NNS of/IN rate/NN of/IN convergence/NN and/CC parameter/NN estimation/NN accuracy/NN ./.
+Numerical/NNP evidences/VBZ show/NN that/IN our/PRP$ method/NN is/VBZ superior/JJ to/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN greedy/JJ selection/NN methods/NNS in/IN sparse/JJ logistic/JJ regression/NN and/CC sparse/JJ precision/NN matrix/NN estimation/NN tasks/NNS ./.

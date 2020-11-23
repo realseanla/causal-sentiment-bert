@@ -1,0 +1,6 @@
+It/PRP has/VBZ been/VBN generally/RB believed/VBN that/IN training/NN deep/JJ neural/JJ networks/NNS is/VBZ hard/JJ with/IN saturated/VBN activation/NN functions/NNS ,/, including/VBG Sigmoid/NNP and/CC Tanh/NNP ./.
+Recent/JJ works/NNS shows/VBZ that/IN deep/JJ Tanh/NNP networks/NNS are/VBP able/JJ to/TO converge/VB with/IN careful/JJ model/NN initialization/NN while/IN deep/JJ Sigmoid/NN networks/NNS still/RB fail/VBP ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT re-scaled/VBN Sigmoid/NN function/NN which/WDT is/VBZ able/JJ to/TO maintain/VB the/DT gradient/NN in/IN a/DT stable/JJ scale/NN ./.
+In/IN addition/NN ,/, we/PRP break/VBP the/DT symmetry/NN of/IN Tanh/NNP by/IN penalizing/VBG the/DT negative/JJ part/NN ./.
+Our/PRP$ preliminary/JJ results/NNS on/IN deep/JJ convolution/NN networks/NNS shown/VBN that/IN ,/, even/RB without/IN stabilization/NN technologies/NNS such/JJ as/IN batch/NN normalization/NN and/CC sophisticated/JJ initialization/NN ,/, the/DT "/`` re-scaled/JJ Sigmoid/NN "/'' converges/VBZ to/IN local/JJ optimality/NN robustly/RB ./.
+Furthermore/RB the/DT "/`` leaky/JJ Tanh/NN "/'' is/VBZ comparable/JJ or/CC even/RB outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN non-saturated/JJ activation/NN functions/NNS such/JJ as/IN ReLU/NN and/CC leaky/JJ ReLU/NN ./.

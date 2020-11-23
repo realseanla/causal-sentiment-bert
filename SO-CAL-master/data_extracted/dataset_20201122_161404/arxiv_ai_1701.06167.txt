@@ -1,0 +1,5 @@
+We introduce the Binary Matrix Guessing Problem and provide two algorithms to solve this problem.
+The first algorithm we introduce is Elementwise Probing Algorithm (EPA) which is very fast under a score which utilizes Frobenius Distance.
+The second algorithm is Additive Reinforcement Learning Algorithm which combines ideas from perceptron algorithm and reinforcement learning algorithm.
+This algorithm is significantly slower compared to first one, but less restrictive and generalizes better.
+We compare computational performance of both algorithms and provide numerical results.

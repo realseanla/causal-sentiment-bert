@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT mathematical/JJ construction/NN for/IN the/DT restricted/VBN Boltzmann/NNP machine/NN (/-LRB- RBM/NNP )/-RRB- in/IN which/WDT the/DT hidden/JJ layer/NN size/NN is/VBZ adaptive/JJ and/CC can/MD grow/VB during/IN training/NN ./.
+This/DT is/VBZ obtained/VBN by/IN first/JJ extending/VBG the/DT RBM/NNP to/TO be/VB sensitive/JJ to/IN the/DT ordering/NN of/IN its/PRP$ hidden/JJ units/NNS ./.
+Then/RB ,/, thanks/NNS to/IN a/DT carefully/RB chosen/VBN definition/NN of/IN the/DT energy/NN function/NN ,/, we/PRP show/VBP that/IN the/DT limit/NN of/IN infinitely/RB many/JJ hidden/VBN units/NNS is/VBZ well/RB defined/VBN ./.
+As/IN in/IN a/DT regular/JJ RBM/NNP ,/, approximate/JJ maximum/JJ likelihood/NN training/NN can/MD be/VB performed/VBN ,/, resulting/VBG in/IN an/DT algorithm/NN that/WDT naturally/RB and/CC adaptively/RB adds/VBZ trained/VBN hidden/JJ units/NNS during/IN learning/NN ./.
+We/PRP empirically/RB study/VB the/DT behaviour/NN of/IN this/DT infinite/JJ RBM/NNP ,/, showing/VBG that/IN its/PRP$ performance/NN is/VBZ competitive/JJ to/IN that/DT of/IN the/DT RBM/NNP ./.

@@ -1,0 +1,8 @@
+Tensor/NNP regression/NN has/VBZ shown/VBN to/TO be/VB advantageous/JJ in/IN learning/VBG tasks/NNS with/IN multi-directional/JJ relatedness/NN ./.
+Given/VBN massive/JJ multiway/NN data/NNS ,/, traditional/JJ methods/NNS are/VBP often/RB too/RB slow/JJ to/TO operate/VB on/IN or/CC suffer/VB from/IN memory/NN bottleneck/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP subsampled/JJ tensor/NN projected/VBN gradient/NN to/TO solve/VB the/DT problem/NN ./.
+Our/PRP$ algorithm/NN is/VBZ impressively/RB simple/JJ and/CC efficient/JJ ./.
+It/PRP is/VBZ built/VBN upon/IN projected/VBN gradient/NN method/NN with/IN fast/JJ tensor/NN power/NN iterations/NNS ,/, leveraging/VBG randomized/VBN sketching/VBG for/IN further/JJ acceleration/NN ./.
+Theoretical/JJ analysis/NN shows/VBZ that/IN our/PRP$ algorithm/NN converges/VBZ to/IN the/DT correct/JJ solution/NN in/IN fixed/VBN number/NN of/IN iterations/NNS ./.
+The/DT memory/NN requirement/NN grows/VBZ linearly/RB with/IN the/DT size/NN of/IN the/DT problem/NN ./.
+We/PRP demonstrate/VBP superior/JJ empirical/JJ performance/NN on/IN both/DT multi-linear/JJ multi-task/VB learning/NN and/CC spatio/JJ -/HYPH temporal/JJ applications/NNS ./.

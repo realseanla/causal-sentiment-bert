@@ -1,0 +1,8 @@
+Despite/IN the/DT success/NN of/IN convolutional/JJ neural/JJ networks/NNS ,/, selecting/VBG the/DT optimal/JJ architecture/NN for/IN a/DT given/VBN task/NN remains/VBZ an/DT open/JJ problem/NN ./.
+Instead/RB of/IN aiming/VBG to/TO select/VB a/DT single/JJ optimal/JJ architecture/NN ,/, we/PRP propose/VBP a/DT $/$ "/`` $/$ fabric/NN $/$ "/`` $/$ that/WDT embeds/VBZ an/DT exponentially/RB large/JJ number/NN of/IN CNN/NNP architectures/NNS ./.
+The/DT fabric/NN consists/VBZ of/IN a/DT 3D/NN trellis/NN that/WDT connects/VBZ response/NN maps/NNS at/IN different/JJ layers/NNS ,/, scales/NNS ,/, and/CC channels/NNS with/IN a/DT sparse/JJ homogeneous/JJ local/JJ connectivity/NN pattern/NN ./.
+The/DT only/RB hyper/JJ -/HYPH parameters/NNS of/IN the/DT model/NN (/-LRB- nr/NN ./.
+of/IN channels/NNS and/CC layers/NNS )/-RRB- are/VBP not/RB critical/JJ for/IN performance/NN ./.
+While/IN individual/JJ CNN/NNP architectures/NNS can/MD be/VB recovered/VBN as/IN paths/NNS in/IN the/DT trellis/NN ,/, the/DT trellis/NN can/MD in/IN addition/NN ensemble/NN all/DT embedded/VBN architectures/NNS together/RB ,/, sharing/VBG their/PRP$ weights/NNS where/WRB their/PRP$ paths/NNS overlap/VBP ./.
+The/DT trellis/NN parameters/NNS can/MD be/VB learned/VBN using/VBG standard/JJ methods/NNS based/VBN on/IN back/RB -/HYPH propagation/NN ,/, at/IN a/DT cost/NN that/WDT scales/VBZ linearly/RB in/IN the/DT fabric/NN size/NN ./.
+We/PRP present/VBP benchmark/NN results/NNS competitive/JJ with/IN the/DT state/NN of/IN the/DT art/NN for/IN image/NN classification/NN on/IN MNIST/NN and/CC CIFAR10/NN ,/, and/CC for/IN semantic/JJ segmentation/NN on/IN the/DT Part/NN Labels/NNS dataset/NN ./.

@@ -1,0 +1,5 @@
+The/DT CUR/NNP matrix/NN decomposition/NN is/VBZ an/DT important/JJ extension/NN of/IN Nystr/NNP \/SYM "/`` {/-LRB- o/IN }/-RRB- m/NN approximation/NN to/IN a/DT general/JJ matrix/NN ./.
+It/PRP approximates/VBZ any/DT data/NNS matrix/NN in/IN terms/NNS of/IN a/DT small/JJ number/NN of/IN its/PRP$ columns/NNS and/CC rows/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT novel/JJ randomized/JJ CUR/NN algorithm/NN with/IN an/DT expected/VBN relative/JJ -/HYPH error/NN bound/VBN ./.
+The/DT proposed/VBN algorithm/NN has/VBZ the/DT advantages/NNS over/IN the/DT existing/VBG relative/JJ -/HYPH error/NN CUR/NN algorithms/NNS that/IN it/PRP possesses/VBZ tighter/JJR theoretical/JJ bound/VBN and/CC lower/JJR time/NN complexity/NN ,/, and/CC that/IN it/PRP can/MD avoid/VB maintaining/VBG the/DT whole/JJ data/NNS matrix/NN in/IN main/JJ memory/NN ./.
+Finally/RB ,/, experiments/NNS on/IN several/JJ real/JJ -/HYPH world/NN datasets/NNS demonstrate/VBP significant/JJ improvement/NN over/IN the/DT existing/VBG relative/JJ -/HYPH error/NN algorithms/NNS ./.

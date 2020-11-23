@@ -1,0 +1,5 @@
+Despite/IN recent/JJ advances/NNS ,/, memory/NN -/HYPH augmented/VBN deep/JJ neural/JJ networks/NNS are/VBP still/RB limited/VBN when/WRB it/PRP comes/VBZ to/IN life/NN -/HYPH long/JJ and/CC one/CD -/HYPH shot/NN learning/NN ,/, especially/RB in/IN remembering/VBG rare/JJ events/NNS ./.
+We/PRP present/VBP a/DT large/JJ -/HYPH scale/NN life/NN -/HYPH long/JJ memory/NN module/NN for/IN use/NN in/IN deep/JJ learning/NN ./.
+The/DT module/NN exploits/NNS fast/VBP nearest/IN -/HYPH neighbor/NN algorithms/NNS for/IN efficiency/NN and/CC thus/RB scales/NNS to/IN large/JJ memory/NN sizes/NNS ./.
+Except/IN for/IN the/DT nearest/JJS -/HYPH neighbor/NN query/NN ,/, the/DT module/NN is/VBZ fully/RB differentiable/JJ and/CC trained/JJ end/NN -/HYPH to/IN -/HYPH end/NN with/IN no/DT extra/JJ supervision/NN ./.
+It/PRP operates/VBZ in/IN a/DT life/NN -/HYPH long/JJ manner/NN ,/, i.e./FW ,/, without/IN the/DT need/NN to/TO reset/VB it/PRP during/IN training/NN ./.

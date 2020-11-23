@@ -1,0 +1,3 @@
+In this work we propose a simple unsupervised approach for next frame prediction in video.
+Instead of directly predicting the pixels in a frame given past frames, we predict the transformations needed for generating the next frame in a sequence, given the transformations of the past frames.
+This leads to sharper results, while using a smaller prediction model.

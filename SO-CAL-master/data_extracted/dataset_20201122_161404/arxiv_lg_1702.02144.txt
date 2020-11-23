@@ -1,0 +1,5 @@
+Parametric density estimation, for example as Gaussian distribution, is the base of the field of statistics.
+Machine learning requires inexpensive estimation of much more complex densities, and the basic approach is relatively costly maximum likelihood estimation (MLE).
+There will be discussed inexpensive density estimators, for example literally fitting polynomial to the sample, which coefficients are calculated from just averaging monomials over the sample (estimators of moments).
+Another discussed basic application is fitting distortion to some standard distribution like Gaussian.
+The estimated parameters are approaching the optimal values with error dropping like $1/\sqrt{n}$, where $n$ is the sample size.

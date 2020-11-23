@@ -1,0 +1,10 @@
+In/IN this/DT paper/NN we/PRP explore/VBP the/DT bi-directional/JJ mapping/NN between/IN images/NNS and/CC their/PRP$ sentence/NN -/HYPH based/VBN descriptions/NNS ./.
+We/PRP propose/VBP learning/VBG this/DT mapping/NN using/VBG a/DT recurrent/JJ neural/JJ network/NN ./.
+Unlike/IN previous/JJ approaches/NNS that/WDT map/VBP both/DT sentences/NNS and/CC images/NNS to/IN a/DT common/JJ embedding/NN ,/, we/PRP enable/VBP the/DT generation/NN of/IN novel/JJ sentences/NNS given/VBN an/DT image/NN ./.
+Using/VBG the/DT same/JJ model/NN ,/, we/PRP can/MD also/RB reconstruct/VB the/DT visual/JJ features/NNS associated/VBN with/IN an/DT image/NN given/VBN its/PRP$ visual/JJ description/NN ./.
+We/PRP use/VBP a/DT novel/JJ recurrent/JJ visual/JJ memory/NN that/WDT automatically/RB learns/VBZ to/TO remember/VB long/RB -/HYPH term/NN visual/JJ concepts/NNS to/TO aid/VB in/IN both/DT sentence/NN generation/NN and/CC visual/JJ feature/NN reconstruction/NN ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN on/IN several/JJ tasks/NNS ./.
+These/DT include/VBP sentence/NN generation/NN ,/, sentence/NN retrieval/NN and/CC image/NN retrieval/NN ./.
+State/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS are/VBP shown/VBN for/IN the/DT task/NN of/IN generating/VBG novel/JJ image/NN descriptions/NNS ./.
+When/WRB compared/VBN to/IN human/JJ generated/VBN captions/NNS ,/, our/PRP$ automatically/RB generated/VBN captions/NNS are/VBP preferred/VBN by/IN humans/NNS over/IN $/$ 19.8/CD \/SYM percent/NN $/$ of/IN the/DT time/NN ./.
+Results/NNS are/VBP better/JJR than/IN or/CC comparable/JJ to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN the/DT image/NN and/CC sentence/NN retrieval/NN tasks/NNS for/IN methods/NNS using/VBG similar/JJ visual/JJ features/NNS ./.

@@ -1,0 +1,6 @@
+Feature selection (FS) is a process which attempts to select more informative features.
+In some cases, too many redundant or irrelevant features may overpower main features for classification.
+Feature selection can remedy this problem and therefore improve the prediction accuracy and reduce the computational overhead of classification algorithms.
+The main aim of feature selection is to determine a minimal feature subset from a problem domain while retaining a suitably high accuracy in representing the original features.
+In this paper, Principal Component Analysis (PCA), Rough PCA, Unsupervised Quick Reduct (USQR) algorithm and Empirical Distribution Ranking (EDR) approaches are applied to discover discriminative features that will be the most adequate ones for classification.
+Efficiency of the approaches is evaluated using standard classification metrics.

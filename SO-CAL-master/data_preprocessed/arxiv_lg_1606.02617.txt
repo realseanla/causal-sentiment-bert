@@ -1,0 +1,9 @@
+The/DT k/NN Nearest/JJS Neighbors/NNS (/-LRB- kNN/NN )/-RRB- method/NN has/VBZ received/VBN much/JJ attention/NN in/IN the/DT past/JJ decades/NNS ,/, where/WRB some/DT theoretical/JJ bounds/NNS on/IN its/PRP$ performance/NN were/VBD identified/VBN and/CC where/WRB practical/JJ optimizations/NNS were/VBD proposed/VBN for/IN making/VBG it/PRP work/VB fairly/RB well/RB in/IN high/JJ dimensional/JJ spaces/NNS and/CC on/IN large/JJ datasets/NNS ./.
+From/IN countless/JJ experiments/NNS of/IN the/DT past/NN it/PRP became/VBD widely/RB accepted/VBN that/IN the/DT value/NN of/IN k/NN has/VBZ a/DT significant/JJ impact/NN on/IN the/DT performance/NN of/IN this/DT method/NN ./.
+However/RB ,/, the/DT efficient/JJ optimization/NN of/IN this/DT parameter/NN has/VBZ not/RB received/VBN so/RB much/JJ attention/NN in/IN literature/NN ./.
+Today/NN ,/, the/DT most/RBS common/JJ approach/NN is/VBZ to/IN cross-validate/NN or/CC bootstrap/NN this/DT value/NN for/IN all/DT values/NNS in/IN question/NN ./.
+This/DT approach/NN forces/NNS distances/NNS to/TO be/VB recomputed/VBN many/JJ times/NNS ,/, even/RB if/IN efficient/JJ methods/NNS are/VBP used/VBN ./.
+Hence/RB ,/, estimating/VBG the/DT optimal/JJ k/NN can/MD become/VB expensive/JJ even/RB on/IN modern/JJ systems/NNS ./.
+Frequently/RB ,/, this/DT circumstance/NN leads/VBZ to/IN a/DT sparse/JJ manual/JJ search/NN of/IN k/NN ./.
+In/IN this/DT paper/NN we/PRP want/VBP to/TO point/VB out/RP that/IN a/DT systematic/JJ and/CC thorough/JJ estimation/NN of/IN the/DT parameter/NN k/NN can/MD be/VB performed/VBN efficiently/RB ./.
+The/DT discussed/VBN approach/NN relies/VBZ on/IN large/JJ matrices/NNS ,/, but/CC we/PRP want/VBP to/TO argue/VB ,/, that/IN in/IN practice/NN a/DT higher/JJR space/NN complexity/NN is/VBZ often/RB much/RB less/JJR of/IN a/DT problem/NN than/IN repetetive/JJ distance/NN computations/NNS ./.

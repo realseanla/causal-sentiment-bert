@@ -1,0 +1,10 @@
+Conditional/JJ belief/NN networks/NNS introduce/VBP stochastic/JJ binary/JJ variables/NNS in/IN neural/JJ networks/NNS ./.
+Contrary/JJ to/IN a/DT classical/JJ neural/JJ network/NN ,/, a/DT belief/NN network/NN can/MD predict/VB more/JJR than/IN the/DT expected/VBN value/NN of/IN the/DT output/NN $/$ Y$/CD given/VBN the/DT input/NN $/$ X$/CD ./.
+It/PRP can/MD predict/VB a/DT distribution/NN of/IN outputs/NNS $/$ Y$/CD which/WDT is/VBZ useful/JJ when/WRB an/DT input/NN can/MD admit/VB multiple/JJ outputs/NNS whose/WP$ average/NN is/VBZ not/RB necessarily/RB a/DT valid/JJ answer/NN ./.
+Such/JJ networks/NNS are/VBP particularly/RB relevant/JJ to/IN inverse/JJ problem/NN such/JJ as/IN image/NN prediction/NN for/IN denoising/NN ,/, or/CC text/NN to/IN speech/NN ./.
+However/RB ,/, traditional/JJ sigmoid/NN belief/NN networks/NNS are/VBP hard/JJ to/TO train/VB and/CC are/VBP not/RB suited/VBN to/IN continuous/JJ problems/NNS ./.
+This/DT work/NN introduces/VBZ a/DT new/JJ family/NN of/IN networks/NNS called/VBN linearizing/VBG belief/NN nets/NNS or/CC LBNs/NNS ./.
+A/DT LBN/NN decomposes/VBZ into/IN a/DT deep/JJ linear/JJ network/NN where/WRB each/DT linear/JJ unit/NN can/MD be/VB turned/VBN on/RP or/CC off/RP by/IN non-deterministic/JJ binary/JJ latent/JJ units/NNS ./.
+It/PRP is/VBZ a/DT universal/JJ approximator/NN of/IN real/JJ -/HYPH valued/VBN conditional/JJ distributions/NNS and/CC can/MD be/VB trained/VBN using/VBG gradient/NN descent/NN ./.
+Moreover/RB ,/, the/DT linear/JJ pathways/NNS efficiently/RB propagate/VBP continuous/JJ information/NN and/CC they/PRP act/VBP as/IN multiplicative/JJ skip/VB -/HYPH connections/NNS that/WDT help/VBP optimization/NN by/IN removing/VBG gradient/NN diffusion/NN ./.
+This/DT yields/VBZ a/DT model/NN which/WDT trains/VBZ efficiently/RB and/CC improves/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN image/NN denoising/NN and/CC facial/JJ expression/NN generation/NN with/IN the/DT Toronto/NNP faces/VBZ dataset/NN ./.

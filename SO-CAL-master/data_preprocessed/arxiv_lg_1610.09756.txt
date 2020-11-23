@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP describe/VBP an/DT end/NN to/IN end/NN Neural/JJ Model/NN for/IN Named/VBN Entity/NN Recognition/NN NER/NN )/-RRB- which/WDT is/VBZ based/VBN on/IN Bi-Directional/JJ RNN/NN -/HYPH LSTM/NN 's/POS ./.
+Almost/RB all/DT NER/NN systems/NNS for/IN Hindi/NNP use/VBP Language/NNP Specific/NNP features/VBZ and/CC handcrafted/VBN rules/NNS with/IN gazetteers/NNS ./.
+Our/PRP$ model/NN is/VBZ language/NN independent/JJ and/CC uses/VBZ no/DT domain/NN specific/JJ features/NNS or/CC any/DT handcrafted/JJ rules/NNS ./.
+Our/PRP$ models/NNS rely/VBP on/IN semantic/JJ information/NN in/IN the/DT form/NN of/IN word/NN vectors/NNS which/WDT are/VBP learnt/VBN by/IN an/DT unsupervised/JJ learning/NN algorithm/NN on/IN an/DT unannotated/JJ corpus/NN ./.
+Our/PRP$ model/NN attained/VBD state/NN of/IN the/DT art/NN per/IN -/HYPH formance/NN in/IN both/CC English/NNP and/CC Hindi/NNP which/WDT is/VBZ a/DT morphologically/RB rich/JJ language/NN without/IN the/DT use/NN of/IN any/DT morphological/JJ analysis/NN or/CC without/IN using/VBG gazetteers/NNS of/IN any/DT sort/NN ./.

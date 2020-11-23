@@ -1,0 +1,5 @@
+Rectified Linear Units (ReLU) seem to have displaced traditional 'smooth' nonlinearities as activation-function-du-jour in many - but not all - deep neural network (DNN) applications.
+However, nobody seems to know why.
+In this article, we argue that ReLU are useful because they are ideal demodulators - this helps them perform fast abstract learning.
+However, this fast learning comes at the expense of serious nonlinear distortion products - decoy features.
+We show that Parallel Dither acts to suppress the decoy features, preventing overfitting and leaving the true features cleanly demodulated for rapid, reliable learning.

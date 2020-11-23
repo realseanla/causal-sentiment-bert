@@ -1,0 +1,11 @@
+Planning/NN problems/NNS are/VBP hard/JJ ,/, motion/NN planning/NN ,/, for/IN example/NN ,/, isPSPACE/NN -/HYPH hard/JJ ./.
+Such/JJ problems/NNS are/VBP even/RB more/RBR difficult/JJ in/IN the/DT presence/NN of/IN uncertainty/NN ./.
+Although/IN ,/, Markov/NNP Decision/NN Processes/NNS (/-LRB- MDPs/NNS )/-RRB- provide/VBP a/DT formal/JJ framework/NN for/IN such/JJ problems/NNS ,/, finding/VBG solutions/NNS to/IN high/JJ dimensional/JJ continuous/JJ MDPs/NNS is/VBZ usually/RB difficult/JJ ,/, especially/RB when/WRB the/DT actions/NNS and/CC time/NN measurements/NNS are/VBP continuous/JJ ./.
+Fortunately/RB ,/, problem/NN -/HYPH specific/JJ knowledge/NN allows/VBZ us/PRP to/TO design/VB controllers/NNS that/WDT are/VBP good/JJ locally/RB ,/, though/IN having/VBG no/DT global/JJ guarantees/NNS ./.
+We/PRP propose/VBP a/DT method/NN of/IN nonparametrically/RB combining/VBG local/JJ controllers/NNS to/TO obtain/VB globally/RB good/JJ solutions/NNS ./.
+We/PRP apply/VBP this/DT formulation/NN to/IN two/CD types/NNS of/IN problems/NNS :/: motion/NN planning/NN (/-LRB- stochastic/JJ shortest/JJS path/NN )/-RRB- and/CC discounted/VBN MDPs/NNS ./.
+For/IN motion/NN planning/NN ,/, we/PRP argue/VBP that/IN usual/JJ MDP/NN optimality/NN criterion/NN (/-LRB- expected/VBN cost/NN )/-RRB- may/MD not/RB be/VB practically/RB relevant/JJ ./.
+Wepropose/NNP an/DT alternative/NN :/: finding/VBG the/DT minimum/JJ cost/NN path/NN ,/, subject/NN to/IN the/DT constraint/NN that/IN the/DT robot/NN must/MD reach/VB the/DT goal/NN withhigh/NN probability/NN ./.
+For/IN this/DT problem/NN ,/, we/PRP prove/VBP that/IN a/DT polynomial/JJ number/NN of/IN samples/NNS is/VBZ sufficient/JJ to/TO obtain/VB a/DT high/JJ probability/NN path/NN ./.
+For/IN discounted/VBN MDPs/NNS ,/, we/PRP propose/VBP a/DT formulation/NN that/WDT explicitly/RB deals/VBZ with/IN model/NN uncertainty/NN ,/, i.e./FW ,/, the/DT problem/NN introduced/VBN when/WRB transition/NN probabilities/NNS are/VBP not/RB known/VBN exactly/RB ./.
+We/PRP formulate/VBP the/DT problem/NN as/IN a/DT robust/JJ linear/JJ program/NN which/WDT directly/RB incorporates/VBZ this/DT type/NN of/IN uncertainty/NN ./.

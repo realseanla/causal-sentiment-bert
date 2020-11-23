@@ -1,0 +1,5 @@
+The paper presents an approach to verification of a multi-agent data analysis algorithm.
+We base correct simulation of the multi-agent system by a finite integer model.
+For verification we use model checking tool SPIN.
+Protocols of agents are written in Promela language and properties of the multi-agent data analysis system are expressed in logic LTL.
+We run several experiments with SPIN and the model.

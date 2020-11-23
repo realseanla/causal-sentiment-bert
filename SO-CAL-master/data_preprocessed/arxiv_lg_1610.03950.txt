@@ -1,0 +1,7 @@
+Neural/JJ networks/NNS are/VBP among/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN techniques/NNS for/IN language/NN modeling/NN ./.
+Existing/VBG neural/JJ language/NN models/NNS typically/RB map/VBP discrete/JJ words/NNS to/IN distributed/VBN ,/, dense/JJ vector/NN representations/NNS ./.
+After/IN information/NN processing/NN of/IN the/DT preceding/VBG context/NN words/NNS by/IN hidden/JJ layers/NNS ,/, an/DT output/NN layer/NN estimates/VBZ the/DT probability/NN of/IN the/DT next/JJ word/NN ./.
+Such/JJ approaches/NNS are/VBP time/NN -/HYPH and/CC memory/NN -/HYPH intensive/JJ because/IN of/IN the/DT large/JJ numbers/NNS of/IN parameters/NNS for/IN word/NN embeddings/NNS and/CC the/DT output/NN layer/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/IN compress/VB neural/JJ language/NN models/NNS by/IN sparse/JJ word/NN representations/NNS ./.
+In/IN the/DT experiments/NNS ,/, the/DT number/NN of/IN parameters/NNS in/IN our/PRP$ model/NN increases/VBZ very/RB slowly/RB with/IN the/DT growth/NN of/IN the/DT vocabulary/NN size/NN ,/, which/WDT is/VBZ almost/RB imperceptible/JJ ./.
+Moreover/RB ,/, our/PRP$ approach/NN not/RB only/RB reduces/VBZ the/DT parameter/NN space/NN to/IN a/DT large/JJ extent/NN ,/, but/CC also/RB improves/VBZ the/DT performance/NN in/IN terms/NNS of/IN the/DT perplexity/NN measure/NN ./.

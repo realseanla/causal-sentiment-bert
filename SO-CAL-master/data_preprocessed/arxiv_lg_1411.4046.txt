@@ -1,0 +1,9 @@
+Nowadays/RB this/DT is/VBZ very/RB popular/JJ to/TO use/VB deep/JJ architectures/NNS in/IN machine/NN learning/NN ./.
+Deep/JJ Belief/NN Networks/NNS (/-LRB- DBNs/NNS )/-RRB- are/VBP deep/JJ architectures/NNS that/WDT use/VBP stack/NN of/IN Restricted/VBN Boltzmann/NNP Machines/NNPS (/-LRB- RBM/NNP )/-RRB- to/TO create/VB a/DT powerful/JJ generative/JJ model/NN using/VBG training/NN data/NNS ./.
+In/IN this/DT paper/NN we/PRP present/VBP an/DT improvement/NN in/IN a/DT common/JJ method/NN that/WDT is/VBZ usually/RB used/VBN in/IN training/NN of/IN RBMs/NNS ./.
+The/DT new/JJ method/NN uses/VBZ free/JJ energy/NN as/IN a/DT criterion/NN to/TO obtain/VB elite/JJ samples/NNS from/IN generative/JJ model/NN ./.
+We/PRP argue/VBP that/IN these/DT samples/NNS can/MD more/RBR accurately/RB compute/VB gradient/NN of/IN log/NN probability/NN of/IN training/NN data/NNS ./.
+According/VBG to/IN the/DT results/NNS ,/, an/DT error/NN rate/NN of/IN 0.99/CD percent/NN was/VBD achieved/VBN on/IN MNIST/NN test/NN set/NN ./.
+This/DT result/NN shows/VBZ that/IN the/DT proposed/JJ method/NN outperforms/VBZ the/DT method/NN presented/VBN in/IN the/DT first/JJ paper/NN introducing/VBG DBN/NNP (/-LRB- 1.25/CD percent/NN error/NN rate/NN )/-RRB- and/CC general/JJ classification/NN methods/NNS such/JJ as/IN SVM/NNP (/-LRB- 1.4/CD percent/NN error/NN rate/NN )/-RRB- and/CC KNN/NN (/-LRB- with/IN 1.6/CD percent/NN error/NN rate/NN )/-RRB- ./.
+In/IN another/DT test/NN using/VBG ISOLET/NN dataset/NN ,/, letter/NN classification/NN error/NN dropped/VBD to/IN 3.59/CD percent/NN compared/VBN to/IN 5.59/CD percent/NN error/NN rate/NN achieved/VBN in/IN those/DT papers/NNS using/VBG this/DT dataset/NN ./.
+The/DT implemented/VBN method/NN is/VBZ available/JJ online/RB at/IN "/``

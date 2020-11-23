@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT neural/JJ -/HYPH network/NN based/VBN model/NN for/IN coordination/NN boundary/NN prediction/NN ./.
+The/DT network/NN is/VBZ designed/VBN to/TO incorporate/VB two/CD signals/NNS :/: the/DT similarity/NN between/IN conjuncts/NNS and/CC the/DT observation/NN that/IN replacing/VBG the/DT whole/JJ coordination/NN phrase/NN with/IN a/DT conjunct/NN tends/VBZ to/TO produce/VB a/DT coherent/JJ sentences/NNS ./.
+The/DT modeling/NN makes/VBZ use/NN of/IN several/JJ LSTM/NNP networks/NNS ./.
+The/DT model/NN is/VBZ trained/VBN solely/RB on/IN conjunction/NN annotations/NNS in/IN a/DT Treebank/NNP ,/, without/IN using/VBG external/JJ resources/NNS ./.
+We/PRP show/VBP improvements/NNS on/IN predicting/VBG coordination/NN boundaries/NNS on/IN the/DT PTB/NN compared/VBN to/IN two/CD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN parsers/NNS ;/: as/RB well/RB as/IN improvement/NN over/IN previous/JJ coordination/NN boundary/NN prediction/NN systems/NNS on/IN the/DT Genia/NNP corpus/NN ./.

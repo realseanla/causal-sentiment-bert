@@ -1,0 +1,9 @@
+Structural/JJ correspondence/NN learning/NN (/-LRB- SCL/NN )/-RRB- is/VBZ an/DT effective/JJ method/NN for/IN cross-lingual/JJ sentiment/NN classification/NN ./.
+This/DT approach/NN uses/VBZ unlabeled/JJ documents/NNS along/IN with/IN a/DT word/NN translation/NN oracle/NN to/TO automatically/RB induce/VB task/NN specific/JJ ,/, cross-lingual/JJ correspondences/NNS ./.
+It/PRP transfers/VBZ knowledge/NN through/IN identifying/VBG important/JJ features/NNS ,/, i.e./FW ,/, pivot/NN features/NNS ./.
+For/IN simplicity/NN ,/, however/RB ,/, it/PRP assumes/VBZ that/IN the/DT word/NN translation/NN oracle/NN maps/VBZ each/DT pivot/NN feature/NN in/IN source/NN language/NN to/IN exactly/RB only/RB one/CD word/NN in/IN target/NN language/NN ./.
+This/DT one/CD -/HYPH to/IN -/HYPH one/CD mapping/NN between/IN words/NNS in/IN different/JJ languages/NNS is/VBZ too/RB strict/JJ ./.
+Also/RB the/DT context/NN is/VBZ not/RB considered/VBN at/IN all/DT ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT cross-lingual/JJ SCL/NN based/VBN on/IN distributed/VBN representation/NN of/IN words/NNS ;/: it/PRP can/MD learn/VB meaningful/JJ one/CD -/HYPH to/IN -/HYPH many/JJ mappings/NNS for/IN pivot/NN words/NNS using/VBG large/JJ amounts/NNS of/IN monolingual/JJ data/NNS and/CC a/DT small/JJ dictionary/NN ./.
+We/PRP conduct/VBP experiments/NNS on/IN NLP/NNP \/SYM &amp;/CC CC/NNP 2013/CD cross-lingual/JJ sentiment/NN analysis/NN dataset/NN ,/, employing/VBG English/NNP as/IN source/NN language/NN ,/, and/CC Chinese/JJ as/IN target/NN language/NN ./.
+Our/PRP$ method/NN does/VBZ not/RB rely/VB on/IN the/DT parallel/JJ corpora/NN and/CC the/DT experimental/JJ results/NNS show/VBP that/IN our/PRP$ approach/NN is/VBZ more/RBR competitive/JJ than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS in/IN cross-lingual/JJ sentiment/NN classification/NN ./.

@@ -1,0 +1,5 @@
+We/PRP present/VBP structured/JJ perceptron/NN training/NN for/IN neural/JJ network/NN transition/NN -/HYPH based/VBN dependency/NN parsing/VBG ./.
+We/PRP learn/VBP the/DT neural/JJ network/NN representation/NN using/VBG a/DT gold/NN corpus/NN augmented/VBN by/IN a/DT large/JJ number/NN of/IN automatically/RB parsed/VBN sentences/NNS ./.
+Given/VBN this/DT fixed/VBN network/NN representation/NN ,/, we/PRP learn/VBP a/DT final/JJ layer/NN using/VBG the/DT structured/JJ perceptron/NN with/IN beam/NN -/HYPH search/NN decoding/NN ./.
+On/IN the/DT Penn/NNP Treebank/NNP ,/, our/PRP$ parser/NN reaches/VBZ 94.26/CD percent/NN unlabeled/JJ and/CC 92.41/CD percent/NN labeled/VBN attachment/NN accuracy/NN ,/, which/WDT to/IN our/PRP$ knowledge/NN is/VBZ the/DT best/JJS accuracy/NN on/IN Stanford/NNP Dependencies/NNPS to/IN date/NN ./.
+We/PRP also/RB provide/VBP in/IN -/HYPH depth/NN ablative/JJ analysis/NN to/TO determine/VB which/WDT aspects/NNS of/IN our/PRP$ model/NN provide/VB the/DT largest/JJS gains/NNS in/IN accuracy/NN ./.

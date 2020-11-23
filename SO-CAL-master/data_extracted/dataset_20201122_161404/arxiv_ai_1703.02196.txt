@@ -1,0 +1,6 @@
+Epistemic planning can be used for decision making in multi-agent situations with distributed knowledge and capabilities.
+Recently, Dynamic Epistemic Logic (DEL) has been shown to provide a very natural and expressive framework for epistemic planning.
+We extend the DEL-based epistemic planning framework to include perspective shifts, allowing us to define new notions of sequential and conditional planning with implicit coordination.
+With these, it is possible to solve planning tasks with joint goals in a decentralized manner without the agents having to negotiate about and commit to a joint policy at plan time.
+First we define the central planning notions and sketch the implementation of a planning system built on those notions.
+Afterwards we provide some case studies in order to evaluate the planner empirically and to show that the concept is useful for multi-agent systems in practice.

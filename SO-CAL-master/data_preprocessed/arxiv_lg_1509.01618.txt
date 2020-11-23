@@ -1,0 +1,5 @@
+Determinantal/JJ Point/NN Processes/NNS (/-LRB- DPPs/NNS )/-RRB- provide/VBP probabilistic/JJ models/NNS over/IN discrete/JJ sets/NNS of/IN items/NNS that/WDT help/VBP model/NN repulsion/NN and/CC diversity/NN ./.
+Applicability/NN of/IN DPPs/NNS to/IN large/JJ sets/NNS of/IN data/NNS is/VBZ ,/, however/RB ,/, hindered/VBN by/IN the/DT expensive/JJ matrix/NN operations/NNS involved/VBN ,/, especially/RB when/WRB sampling/NN ./.
+We/PRP therefore/RB propose/VBP a/DT new/JJ efficient/JJ approximate/JJ two/CD -/HYPH stage/NN sampling/NN algorithm/NN for/IN discrete/JJ k/NN -/HYPH DPPs/NNS ./.
+As/IN opposed/VBN to/IN previous/JJ approximations/NNS ,/, our/PRP$ algorithm/NN aims/VBZ at/IN minimizing/VBG the/DT variational/JJ distance/NN to/IN the/DT original/JJ distribution/NN ./.
+Experiments/NNS indicate/VBP that/IN the/DT resulting/VBG sampling/NN algorithm/NN works/VBZ well/RB on/IN large/JJ data/NNS and/CC yields/NNS more/RBR accurate/JJ samples/NNS than/IN previous/JJ approaches/NNS ./.

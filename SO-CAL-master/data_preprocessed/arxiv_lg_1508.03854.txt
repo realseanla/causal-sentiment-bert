@@ -1,0 +1,3 @@
+We/PRP investigate/VBP an/DT extension/NN of/IN continuous/JJ online/JJ learning/NN in/IN recurrent/JJ neural/JJ network/NN language/NN models/NNS ./.
+The/DT model/NN keeps/VBZ a/DT separate/JJ vector/NN representation/NN of/IN the/DT current/JJ unit/NN of/IN text/NN being/VBG processed/VBN and/CC adaptively/RB adjusts/VBZ it/PRP after/IN each/DT prediction/NN ./.
+The/DT initial/JJ experiments/NNS give/VBP promising/JJ results/NNS ,/, indicating/VBG that/IN the/DT method/NN is/VBZ able/JJ to/TO increase/VB language/NN modelling/NN accuracy/NN ,/, while/IN also/RB decreasing/VBG the/DT parameters/NNS needed/VBN to/TO store/VB the/DT model/NN along/IN with/IN the/DT computation/NN required/VBN at/IN each/DT step/NN ./.

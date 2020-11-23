@@ -1,0 +1,8 @@
+This/DT paper/NN describes/VBZ a/DT new/JJ approach/NN for/IN computing/VBG nonnegative/JJ matrix/NN factorizations/NNS (/-LRB- NMFs/NNS )/-RRB- with/IN linear/JJ programming/NN ./.
+The/DT key/JJ idea/NN is/VBZ a/DT data/NN -/HYPH driven/VBN model/NN for/IN the/DT factorization/NN ,/, in/IN which/WDT the/DT most/RBS salient/JJ features/NNS in/IN the/DT data/NNS are/VBP used/VBN to/TO express/VB the/DT remaining/VBG features/NNS ./.
+More/RBR precisely/RB ,/, given/VBN a/DT data/NN matrix/NN X/NN ,/, the/DT algorithm/NN identifies/VBZ a/DT matrix/NN C/NN that/WDT satisfies/VBZ X/NN is/VBZ approximately/RB equal/JJ to/IN CX/NNP and/CC some/DT linear/JJ constraints/NNS ./.
+The/DT matrix/NN C/NN selects/VBZ features/NNS ,/, which/WDT are/VBP then/RB used/VBN to/TO compute/VB a/DT low/JJ -/HYPH rank/NN NMF/NN of/IN X/NN ./.
+A/DT theoretical/JJ analysis/NN demonstrates/VBZ that/IN this/DT approach/NN has/VBZ the/DT same/JJ type/NN of/IN guarantees/NNS as/IN the/DT recent/JJ NMF/NN algorithm/NN of/IN Arora/NNP et/FW al./FW (/-LRB- 2012/CD )/-RRB- ./.
+In/IN contrast/NN with/IN this/DT earlier/JJR work/NN ,/, the/DT proposed/JJ method/NN (/-LRB- 1/CD )/-RRB- has/VBZ better/JJR noise/NN tolerance/NN ,/, (/-LRB- 2/LS )/-RRB- extends/VBZ to/IN more/JJR general/JJ noise/NN models/NNS ,/, and/CC (/-LRB- 3/LS )/-RRB- leads/VBZ to/IN efficient/JJ ,/, scalable/JJ algorithms/NNS ./.
+Experiments/NNS with/IN synthetic/JJ and/CC real/JJ datasets/NNS provide/VBP evidence/NN that/IN the/DT new/JJ approach/NN is/VBZ also/RB superior/JJ in/IN practice/NN ./.
+An/DT optimized/VBN C/NN implementation/NN of/IN the/DT new/JJ algorithm/NN can/MD factor/VB a/DT multi-Gigabyte/JJ matrix/NN in/IN a/DT matter/NN of/IN minutes/NNS ./.

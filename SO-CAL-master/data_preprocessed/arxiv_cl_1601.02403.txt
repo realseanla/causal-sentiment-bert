@@ -1,0 +1,7 @@
+The/DT goal/NN of/IN argumentation/NN mining/NN ,/, an/DT evolving/VBG research/NN field/NN in/IN computational/JJ linguistics/NNS ,/, is/VBZ to/TO design/VB methods/NNS capable/JJ of/IN analyzing/VBG people/NNS 's/POS argumentation/NN ./.
+In/IN this/DT article/NN ,/, we/PRP go/VBP beyond/IN the/DT state/NN of/IN the/DT art/NN in/IN several/JJ ways/NNS ./.
+(/-LRB- i/LS )/-RRB- We/PRP deal/VBP with/IN actual/JJ Web/NN data/NNS and/CC take/VB up/RP the/DT challenges/NNS given/VBN by/IN the/DT variety/NN of/IN registers/VBZ ,/, multiple/JJ domains/NNS ,/, and/CC unrestricted/JJ noisy/JJ user/NN -/HYPH generated/VBN Web/NN discourse/NN ./.
+(/-LRB- ii/LS )/-RRB- We/PRP bridge/VBP the/DT gap/NN between/IN normative/JJ argumentation/NN theories/NNS and/CC argumentation/NN phenomena/NN encountered/VBD in/IN actual/JJ data/NNS by/IN adapting/VBG an/DT argumentation/NN model/NN tested/VBN in/IN an/DT extensive/JJ annotation/NN study/NN ./.
+(/-LRB- iii/LS )/-RRB- We/PRP create/VBP a/DT new/JJ gold/NN standard/JJ corpus/NN (/-LRB- 90k/CD tokens/NNS in/IN 340/CD documents/NNS )/-RRB- and/CC experiment/NN with/IN several/JJ machine/NN learning/NN methods/NNS to/TO identify/VB argument/NN components/NNS ./.
+We/PRP offer/VBP the/DT data/NNS ,/, source/NN codes/NNS ,/, and/CC annotation/NN guidelines/NNS to/IN the/DT community/NN under/IN free/JJ licenses/NNS ./.
+Our/PRP$ findings/NNS show/VBP that/IN argumentation/NN mining/NN in/IN user/NN -/HYPH generated/VBN Web/NN discourse/NN is/VBZ a/DT feasible/JJ but/CC challenging/JJ task/NN ./.

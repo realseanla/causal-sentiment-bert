@@ -1,0 +1,2 @@
+This paper attempts multi-label classification by extending the idea of independent binary classification models for each output label, and exploring how the inherent correlation between output labels can be used to improve predictions.
+Logistic Regression, Naive Bayes, Random Forest, and SVM models were constructed, with SVM giving the best results: an improvement of 12.9\ percent over binary models was achieved for hold out cross validation by augmenting with pairwise correlation probabilities of the labels.

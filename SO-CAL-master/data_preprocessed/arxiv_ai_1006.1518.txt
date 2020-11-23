@@ -1,0 +1,7 @@
+The/DT Dendritic/JJ Cell/NN Algorithm/NN (/-LRB- DCA/NNP )/-RRB- is/VBZ an/DT immune/JJ -/HYPH inspired/JJ algorithm/NN ,/, developed/VBN for/IN the/DT purpose/NN of/IN anomaly/NN detection/NN ./.
+The/DT algorithm/NN performs/VBZ multi-sensor/JJ data/NNS fusion/NN and/CC correlation/NN which/WDT results/VBZ in/IN a/DT '/`` context/NN aware/JJ '/'' detection/NN system/NN ./.
+Previous/JJ applications/NNS of/IN the/DT DCA/NNP have/VBP included/VBN the/DT detection/NN of/IN potentially/RB malicious/JJ port/NN scanning/NN activity/NN ,/, where/WRB it/PRP has/VBZ produced/VBN high/JJ rates/NNS of/IN true/JJ positives/NNS and/CC low/JJ rates/NNS of/IN false/JJ positives/NNS ./.
+In/IN this/DT work/NN we/PRP aim/VBP to/TO compare/VB the/DT performance/NN of/IN the/DT DCA/NNP and/CC of/IN a/DT Self/NNP -/HYPH Organizing/NNP Map/NNP (/-LRB- SOM/NNP )/-RRB- when/WRB applied/VBN to/IN the/DT detection/NN of/IN SYN/NNP port/NN scans/NNS ,/, through/IN experimental/JJ analysis/NN ./.
+A/DT SOM/NN is/VBZ an/DT ideal/JJ candidate/NN for/IN comparison/NN as/IN it/PRP shares/VBZ similarities/NNS with/IN the/DT DCA/NNP in/IN terms/NNS of/IN the/DT data/NNS fusion/NN method/NN employed/VBN ./.
+It/PRP is/VBZ shown/VBN that/IN the/DT results/NNS of/IN the/DT two/CD systems/NNS are/VBP comparable/JJ ,/, and/CC both/DT produce/VBP false/JJ positives/NNS for/IN the/DT same/JJ processes/NNS ./.
+This/DT shows/VBZ that/IN the/DT DCA/NNP can/MD produce/VB anomaly/NN detection/NN results/VBZ to/IN the/DT same/JJ standard/NN as/IN an/DT established/VBN technique/NN ./.

@@ -1,0 +1,10 @@
+Automatic/JJ speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- and/CC Text/VB to/IN speech/NN (/-LRB- TTS/NN )/-RRB- are/VBP two/CD prominent/JJ area/NN of/IN research/NN in/IN human/JJ computer/NN interaction/NN nowadays/RB ./.
+A/DT set/NN of/IN phonetically/RB rich/JJ sentences/NNS is/VBZ in/IN a/DT matter/NN of/IN importance/NN in/IN order/NN to/TO develop/VB these/DT two/CD interactive/JJ modules/NNS of/IN HCI/NNP ./.
+Essentially/RB ,/, the/DT set/NN of/IN phonetically/RB rich/JJ sentences/NNS has/VBZ to/TO cover/VB all/DT possible/JJ phone/NN units/NNS distributed/VBN uniformly/RB ./.
+Selecting/VBG such/PDT a/DT set/NN from/IN a/DT big/JJ corpus/NN with/IN maintaining/VBG phonetic/JJ characteristic/JJ based/VBN similarity/NN is/VBZ still/RB a/DT challenging/JJ problem/NN ./.
+The/DT major/JJ objective/NN of/IN this/DT paper/NN is/VBZ to/TO devise/VB a/DT criteria/NNS in/IN order/NN to/TO select/VB a/DT set/NN of/IN sentences/NNS encompassing/VBG all/DT phonetic/JJ aspects/NNS of/IN a/DT corpus/NN with/IN size/NN as/IN minimum/NN as/IN possible/JJ ./.
+First/RB ,/, this/DT paper/NN presents/VBZ a/DT statistical/JJ analysis/NN of/IN Hindi/NNP phonetics/NNS by/IN observing/VBG the/DT structural/JJ characteristics/NNS ./.
+Further/RB a/DT two/CD stage/NN algorithm/NN is/VBZ proposed/VBN to/TO extract/VB phonetically/RB rich/JJ sentences/NNS with/IN a/DT high/JJ variety/NN of/IN triphones/NNS from/IN the/DT EMILLE/NNP Hindi/NNP corpus/NN ./.
+The/DT algorithm/NN consists/VBZ of/IN a/DT distance/NN measuring/VBG criteria/NNS to/TO select/VB a/DT sentence/NN in/IN order/NN to/TO improve/VB the/DT triphone/NN distribution/NN ./.
+Moreover/RB ,/, a/DT special/JJ preprocessing/NN method/NN is/VBZ proposed/VBN to/TO score/VB each/DT triphone/NN in/IN terms/NNS of/IN inverse/JJ probability/NN in/IN order/NN to/TO fasten/VB the/DT algorithm/NN ./.
+The/DT results/NNS show/VBP that/IN the/DT approach/NN efficiently/RB build/VB uniformly/RB distributed/VBN phonetically/RB -/HYPH rich/JJ corpus/NN with/IN optimum/JJ number/NN of/IN sentences/NNS ./.

@@ -1,0 +1,4 @@
+In/IN recent/JJ years/NNS crowdsourcing/VBG has/VBZ become/VBN the/DT method/NN of/IN choice/NN for/IN gathering/VBG labeled/VBN training/NN data/NNS for/IN learning/VBG algorithms/NNS ./.
+Standard/JJ approaches/NNS to/IN crowdsourcing/VBG view/NN the/DT process/NN of/IN acquiring/VBG labeled/VBN data/NNS separately/RB from/IN the/DT process/NN of/IN learning/VBG a/DT classifier/NN from/IN the/DT gathered/VBN data/NNS ./.
+This/DT can/MD give/VB rise/NN to/IN computational/JJ and/CC statistical/JJ challenges/NNS ./.
+For/IN example/NN ,/, in/IN most/JJS cases/NNS there/EX are/VBP no/DT known/JJ computationally/RB efficient/JJ learning/NN algorithms/NNS that/WDT are/VBP robust/JJ to/IN the/DT high/JJ level/NN of/IN noise/NN that/WDT exists/VBZ in/IN crowdsourced/VBN data/NNS ,/, and/CC efforts/NNS to/TO eliminate/VB noise/NN through/IN voting/NN often/RB require/VBP a/DT large/JJ number/NN of/IN queries/NNS per/IN example/NN ./.

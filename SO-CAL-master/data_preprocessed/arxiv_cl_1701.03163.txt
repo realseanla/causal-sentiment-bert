@@ -1,0 +1,6 @@
+We/PRP propose/VBP UDP/NNP ,/, the/DT first/JJ training/NN -/HYPH free/JJ parser/NN for/IN Universal/NNP Dependencies/NNPS (/-LRB- UD/NNP )/-RRB- ./.
+Our/PRP$ algorithm/NN is/VBZ based/VBN on/IN PageRank/NNP and/CC a/DT small/JJ set/NN of/IN head/NN attachment/NN rules/NNS ./.
+It/PRP features/VBZ two/CD -/HYPH step/NN decoding/NN to/TO guarantee/VB that/DT function/NN words/NNS are/VBP attached/VBN as/IN leaf/NN nodes/NNS ./.
+The/DT parser/NN requires/VBZ no/DT training/NN ,/, and/CC it/PRP is/VBZ competitive/JJ with/IN a/DT delexicalized/JJ transfer/NN system/NN ./.
+UDP/NNP offers/VBZ a/DT linguistically/RB sound/JJ unsupervised/JJ alternative/NN to/IN cross-lingual/JJ parsing/VBG for/IN UD/NNP ,/, which/WDT can/MD be/VB used/VBN as/IN a/DT baseline/NN for/IN such/JJ systems/NNS ./.
+The/DT parser/NN has/VBZ very/RB few/JJ parameters/NNS and/CC is/VBZ distinctly/RB robust/JJ to/IN domain/NN change/NN across/IN languages/NNS ./.

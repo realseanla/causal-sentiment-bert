@@ -1,0 +1,4 @@
+For/IN many/JJ tasks/NNS and/CC data/NNS types/NNS ,/, there/EX are/VBP natural/JJ transformations/NNS to/TO which/WDT the/DT data/NNS should/MD be/VB invariant/JJ or/CC insensitive/JJ ./.
+For/IN instance/NN ,/, in/IN visual/JJ recognition/NN ,/, natural/JJ images/NNS should/MD be/VB insensitive/JJ to/IN rotation/NN and/CC translation/NN ./.
+This/DT requirement/NN and/CC its/PRP$ implications/NNS have/VBP been/VBN important/JJ in/IN many/JJ machine/NN learning/NN applications/NNS ,/, and/CC tolerance/NN for/IN image/NN transformations/NNS was/VBD primarily/RB achieved/VBN by/IN using/VBG robust/JJ feature/NN vectors/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT novel/NN and/CC computationally/RB efficient/JJ way/NN to/TO learn/VB a/DT local/JJ Mahalanobis/NNPS metric/JJ per/IN datum/NN ,/, and/CC show/VB how/WRB we/PRP can/MD learn/VB a/DT local/JJ invariant/JJ metric/JJ to/IN any/DT transformation/NN in/IN order/NN to/TO improve/VB performance/NN ./.

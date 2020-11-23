@@ -1,0 +1,10 @@
+The pervasive interstellar dust grains provide significant insights to help us understand the formation and evolution of the stars, planetary systems, and the galaxies, and could potentially lead us to the secret of the origin of life.
+One of the most effective way to analyze the dusts is via their interaction and interference on observable background light.
+The observed extinction curves and spectral features carry the information of the size and composition of dusts.
+Among the features, the broad 2175 Angstrom absorption bump is one of the most significant spectroscopic interstellar extinction feature.
+Traditionally, statistical methods are applied to detect the existence of absorption bump.
+These methods require heavy preprocessing and the co-existence of other reference features to alleviate the influence from the noises.
+In this paper, we apply deep learning techniques to detect the broad absorption bump.
+We demonstrate the key steps for training the selected models and their results.
+The success of deep learning based method inspires us to generalize a common methodology for the broader science discovery problems.
+We present our on-going work to build the DeepDis system for such kind of applications.

@@ -1,0 +1,6 @@
+A/DT modern/JJ operating/NN room/NN (/-LRB- OR/NNP )/-RRB- provides/VBZ a/DT plethora/NN of/IN advanced/JJ medical/JJ devices/NNS ./.
+In/IN order/NN to/TO better/RBR facilitate/VB the/DT information/NN offered/VBN by/IN them/PRP ,/, they/PRP need/VBP to/TO automatically/RB react/VB to/IN the/DT intra-operative/JJ context/NN ./.
+To/IN this/DT end/NN ,/, the/DT progress/NN of/IN the/DT surgical/JJ workflow/NN must/MD be/VB detected/VBN and/CC interpreted/VBN ,/, so/IN that/IN the/DT current/JJ status/NN can/MD be/VB given/VBN in/IN machine/NN -/HYPH readable/JJ form/NN ./.
+In/IN this/DT work/NN ,/, Random/NNP Forests/NNS (/-LRB- RF/NN )/-RRB- and/CC Hidden/VBN Markov/NNP Models/NNPS (/-LRB- HMM/NNP )/-RRB- are/VBP compared/VBN and/CC combined/VBN to/TO detect/VB the/DT surgical/JJ workflow/NN phase/NN of/IN a/DT laparoscopic/JJ cholecystectomy/NN ./.
+Various/JJ combinations/NNS of/IN data/NNS were/VBD tested/VBN ,/, from/IN using/VBG only/RB raw/JJ sensor/NN data/NNS to/IN filtered/VBN and/CC augmented/VBN datasets/NNS ./.
+Achieved/VBN accuracies/NNS ranged/VBD from/IN 64/CD percent/NN to/IN 72/CD percent/NN for/IN the/DT RF/NNP approach/NN ,/, and/CC from/IN 80/CD percent/NN to/IN 82/CD percent/NN for/IN the/DT combination/NN of/IN RF/NNP and/CC HMM/NNP ./.

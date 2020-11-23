@@ -1,0 +1,7 @@
+Clustering/NN evaluation/NN measures/NNS are/VBP frequently/RB used/VBN to/TO evaluate/VB the/DT performance/NN of/IN algorithms/NNS ./.
+However/RB ,/, most/JJS measures/NNS are/VBP not/RB properly/RB normalized/VBN and/CC ignore/VB some/DT information/NN in/IN the/DT inherent/JJ structure/NN of/IN clusterings/NNS ./.
+We/PRP model/VBP the/DT relation/NN between/IN two/CD clusterings/NNS as/IN a/DT bipartite/JJ graph/NN and/CC propose/VB a/DT general/JJ component/NN -/HYPH based/VBN decomposition/NN formula/NN based/VBN on/IN the/DT components/NNS of/IN the/DT graph/NN ./.
+Most/JJS existing/VBG measures/NNS are/VBP examples/NNS of/IN this/DT formula/NN ./.
+In/IN order/NN to/TO satisfy/VB consistency/NN in/IN the/DT component/NN ,/, we/PRP further/RB propose/VB a/DT split/NN -/HYPH merge/NN framework/NN for/IN comparing/VBG clusterings/NNS of/IN different/JJ data/NNS sets/NNS ./.
+Our/PRP$ framework/NN gives/VBZ measures/NNS that/WDT are/VBP conditionally/RB normalized/VBN ,/, and/CC it/PRP can/MD make/VB use/NN of/IN data/NNS point/VBP information/NN ,/, such/JJ as/IN feature/NN vectors/NNS and/CC pairwise/JJ distances/NNS ./.
+We/PRP use/VBP an/DT entropy/NN -/HYPH based/VBN instance/NN of/IN the/DT framework/NN and/CC a/DT coreference/NN resolution/NN data/NNS set/VBN to/TO demonstrate/VB empirically/RB the/DT utility/NN of/IN our/PRP$ framework/NN over/IN other/JJ measures/NNS ./.

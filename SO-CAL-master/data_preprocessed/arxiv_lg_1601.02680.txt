@@ -1,0 +1,9 @@
+The/DT Brazilian/JJ government/NN often/RB misclassifies/VBZ the/DT goods/NNS it/PRP buys/VBZ ./.
+That/DT makes/VBZ it/PRP hard/JJ to/TO audit/VB government/NN expenditures/NNS ./.
+We/PRP can/MD not/RB know/VB whether/IN the/DT price/NN paid/VBN for/IN a/DT ballpoint/NN pen/NN (/-LRB- code/NN #/NN 7510/CD )/-RRB- was/VBD reasonable/JJ if/IN the/DT pen/NN was/VBD misclassified/VBN as/IN a/DT technical/JJ drawing/NN pen/NN (/-LRB- code/NN #/NN 6675/CD )/-RRB- or/CC as/IN any/DT other/JJ good/JJ ./.
+This/DT paper/NN shows/VBZ how/WRB we/PRP can/MD use/VB machine/NN learning/NN to/TO reduce/VB misclassification/NN ./.
+I/PRP trained/VBD a/DT support/NN vector/NN machine/NN (/-LRB- SVM/NN )/-RRB- classifier/NN that/WDT takes/VBZ a/DT product/NN description/NN as/IN input/NN and/CC returns/VBZ the/DT most/RBS likely/JJ category/NN codes/NNS as/IN output/NN ./.
+I/PRP trained/VBD the/DT classifier/NN using/VBG 20/CD million/CD goods/NNS purchased/VBN by/IN the/DT Brazilian/JJ government/NN between/IN 1999-04-01/CD and/CC 2015-04-02/CD ./.
+In/IN 83.3/CD percent/NN of/IN the/DT cases/NNS the/DT correct/JJ category/NN code/NN was/VBD one/CD of/IN the/DT three/CD most/RBS likely/JJ category/NN codes/NNS identified/VBN by/IN the/DT classifier/NN ./.
+I/PRP used/VBD the/DT trained/VBN classifier/NN to/TO develop/VB a/DT web/NN app/NN that/WDT might/MD help/VB the/DT government/NN reduce/VB misclassification/NN ./.
+I/PRP open/VBP sourced/VBD the/DT code/NN on/IN GitHub/NNP ;/: anyone/NN can/MD use/VB and/CC modify/VB it/PRP ./.

@@ -1,0 +1,5 @@
+Frequent/JJ itemset/NN mining/NN is/VBZ an/DT essential/JJ part/NN of/IN data/NNS analysis/NN and/CC data/NNS mining/NN ./.
+Recent/JJ works/NNS propose/VBP interesting/JJ SAT/NN -/HYPH based/VBN encodings/NNS for/IN the/DT problem/NN of/IN discovering/VBG frequent/JJ itemsets/NNS ./.
+Our/PRP$ aim/NN in/IN this/DT work/NN is/VBZ to/TO define/VB strategies/NNS for/IN adapting/VBG SAT/NN solvers/NNS to/IN such/JJ encodings/NNS in/IN order/NN to/TO improve/VB models/NNS enumeration/NN ./.
+In/IN this/DT context/NN ,/, we/PRP deeply/RB study/VB the/DT effects/NNS of/IN restart/VBP ,/, branching/VBG heuristics/NNS and/CC clauses/NNS learning/VBG ./.
+We/PRP then/RB conduct/VB an/DT experimental/JJ evaluation/NN on/IN SAT/NN -/HYPH Based/VBN itemset/NN mining/NN instances/NNS to/TO show/VB how/WRB SAT/JJ solvers/NNS can/MD be/VB adapted/VBN to/TO obtain/VB an/DT efficient/JJ SAT/NN model/NN enumerator/NN ./.

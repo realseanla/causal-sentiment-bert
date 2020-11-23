@@ -1,0 +1,10 @@
+Image/NN captioning/NN is/VBZ a/DT challenging/JJ problem/NN owing/VBG to/IN the/DT complexity/NN in/IN understanding/VBG the/DT image/NN content/NN and/CC diverse/JJ ways/NNS of/IN describing/VBG it/PRP in/IN natural/JJ language/NN ./.
+Recent/JJ advances/NNS in/IN deep/JJ neural/JJ networks/NNS have/VBP substantially/RB improved/VBN the/DT performance/NN of/IN this/DT task/NN ./.
+Most/JJS state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS follow/VBP an/DT encoder/NN -/HYPH decoder/NN framework/NN ,/, which/WDT generates/VBZ captions/NNS using/VBG a/DT sequential/JJ recurrent/JJ prediction/NN model/NN ./.
+However/RB ,/, in/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT novel/JJ decision/NN -/HYPH making/VBG framework/NN for/IN image/NN captioning/NN ./.
+We/PRP utilize/VBP a/DT "/`` policy/NN network/NN "/'' and/CC a/DT "/`` value/NN network/NN "/'' to/TO collaboratively/RB generate/VB captions/NNS ./.
+The/DT policy/NN network/NN serves/VBZ as/IN a/DT local/JJ guidance/NN by/IN providing/VBG the/DT confidence/NN of/IN predicting/VBG the/DT next/JJ word/NN according/VBG to/IN the/DT current/JJ state/NN ./.
+Additionally/RB ,/, the/DT value/NN network/NN serves/VBZ as/IN a/DT global/JJ and/CC lookahead/NN guidance/NN by/IN evaluating/VBG all/DT possible/JJ extensions/NNS of/IN the/DT current/JJ state/NN ./.
+In/IN essence/NN ,/, it/PRP adjusts/VBZ the/DT goal/NN of/IN predicting/VBG the/DT correct/JJ words/NNS towards/IN the/DT goal/NN of/IN generating/VBG captions/NNS similar/JJ to/IN the/DT ground/NN truth/NN captions/NNS ./.
+We/PRP train/VBP both/DT networks/NNS using/VBG an/DT actor/NN -/HYPH critic/NN reinforcement/NN learning/VBG model/NN ,/, with/IN a/DT novel/JJ reward/NN defined/VBN by/IN visual/JJ -/HYPH semantic/JJ embedding/NN ./.
+Extensive/JJ experiments/NNS and/CC analyses/NNS on/IN the/DT Microsoft/NNP COCO/NNP dataset/NN show/NN that/IN the/DT proposed/VBN framework/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS across/IN different/JJ evaluation/NN metrics/NNS ./.

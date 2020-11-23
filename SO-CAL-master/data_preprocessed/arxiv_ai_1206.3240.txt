@@ -1,0 +1,5 @@
+It/PRP is/VBZ well/RB -/HYPH known/VBN that/IN inference/NN in/IN graphical/JJ models/NNS is/VBZ hard/JJ in/IN the/DT worst/JJS case/NN ,/, but/CC tractable/JJ for/IN models/NNS with/IN bounded/VBN treewidth/NN ./.
+We/PRP ask/VBP whether/IN treewidth/NN is/VBZ the/DT only/JJ structural/JJ criterion/NN of/IN the/DT underlying/JJ graph/NN that/WDT enables/VBZ tractable/JJ inference/NN ./.
+In/IN other/JJ words/NNS ,/, is/VBZ there/RB some/DT class/NN of/IN structures/NNS with/IN unbounded/JJ treewidth/NN in/IN which/WDT inference/NN is/VBZ tractable/JJ ?/.
+Subject/NN to/IN a/DT combinatorial/JJ hypothesis/NN due/IN to/IN Robertson/NNP et/FW al./FW (/-LRB- 1994/CD )/-RRB- ,/, we/PRP show/VBP that/IN low/JJ treewidth/NN is/VBZ indeed/RB the/DT only/JJ structural/JJ restriction/NN that/WDT can/MD ensure/VB tractability/NN ./.
+Thus/RB ,/, even/RB for/IN the/DT "/`` best/JJS case/NN "/'' graph/NN structure/NN ,/, there/EX is/VBZ no/DT inference/NN algorithm/NN with/IN complexity/NN polynomial/JJ in/IN the/DT treewidth/NN ./.

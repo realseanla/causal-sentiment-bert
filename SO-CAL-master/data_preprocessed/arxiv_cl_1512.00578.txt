@@ -1,0 +1,11 @@
+By/IN automatically/RB recognize/VB argument/NN component/NN ,/, essay/NN writers/NNS can/MD do/VB some/DT inspections/NNS to/IN texts/NNS that/IN they/PRP have/VBP written/VBN ./.
+It/PRP will/MD assist/VB essay/NN scoring/NN process/NN objectively/RB and/CC precisely/RB because/IN essay/NN grader/NN is/VBZ able/JJ to/TO see/VB how/WRB well/RB the/DT argument/NN components/NNS are/VBP constructed/VBN ./.
+Some/DT reseachers/NNS have/VBP tried/VBN to/TO do/VB argument/NN detection/NN and/CC classification/NN along/IN with/IN its/PRP$ implementation/NN in/IN some/DT domains/NNS ./.
+The/DT common/JJ approach/NN is/VBZ by/IN doing/VBG feature/NN extraction/NN to/IN the/DT text/NN ./.
+Generally/RB ,/, the/DT features/NNS are/VBP structural/JJ ,/, lexical/JJ ,/, syntactic/JJ ,/, indicator/NN ,/, and/CC contextual/JJ ./.
+In/IN this/DT research/NN ,/, we/PRP add/VBP new/JJ feature/NN to/IN the/DT existing/VBG features/NNS ./.
+It/PRP adopts/VBZ keywords/NNS list/NN by/IN Knott/NNP and/CC Dale/NNP (/-LRB- 1993/CD )/-RRB- ./.
+The/DT experiment/NN result/NN shows/VBZ the/DT argument/NN classification/NN achieves/VBZ 72.45/CD percent/NN accuracy/NN ./.
+Moreover/RB ,/, we/PRP still/RB get/VBP the/DT same/JJ accuracy/NN without/IN the/DT keyword/NN lists/NNS ./.
+This/DT concludes/VBZ that/IN the/DT keyword/NN lists/NNS do/VBP not/RB affect/VB significantly/RB to/IN the/DT features/NNS ./.
+All/DT features/NNS are/VBP still/RB weak/JJ to/TO classify/VB major/JJ claim/NN and/CC claim/NN ,/, so/RB we/PRP need/VBP other/JJ features/NNS which/WDT are/VBP useful/JJ to/TO differentiate/VB those/DT two/CD kind/NN of/IN argument/NN components/NNS ./.

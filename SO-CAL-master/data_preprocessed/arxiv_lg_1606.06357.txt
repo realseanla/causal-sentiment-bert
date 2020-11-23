@@ -1,0 +1,6 @@
+In/IN statistical/JJ relational/JJ learning/NN ,/, the/DT link/NN prediction/NN problem/NN is/VBZ key/JJ to/IN automatically/RB understand/VB the/DT structure/NN of/IN large/JJ knowledge/NN bases/NNS ./.
+As/IN in/IN previous/JJ studies/NNS ,/, we/PRP propose/VBP to/TO solve/VB this/DT problem/NN through/IN latent/JJ factorization/NN ./.
+However/RB ,/, here/RB we/PRP make/VBP use/NN of/IN complex/JJ valued/VBN embeddings/NNS ./.
+The/DT composition/NN of/IN complex/JJ embeddings/NNS can/MD handle/VB a/DT large/JJ variety/NN of/IN binary/JJ relations/NNS ,/, among/IN them/PRP symmetric/JJ and/CC antisymmetric/JJ relations/NNS ./.
+Compared/VBN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS such/JJ as/IN Neural/JJ Tensor/NNP Network/NNP and/CC Holographic/NNP Embeddings/NNPS ,/, our/PRP$ approach/NN based/VBN on/IN complex/JJ embeddings/NNS is/VBZ arguably/RB simpler/JJR ,/, as/IN it/PRP only/RB uses/VBZ the/DT Hermitian/NN dot/NN product/NN ,/, the/DT complex/JJ counterpart/NN of/IN the/DT standard/NN dot/NN product/NN between/IN real/JJ vectors/NNS ./.
+Our/PRP$ approach/NN is/VBZ scalable/JJ to/IN large/JJ datasets/NNS as/IN it/PRP remains/VBZ linear/JJ in/IN both/CC space/NN and/CC time/NN ,/, while/IN consistently/RB outperforming/VBG alternative/JJ approaches/NNS on/IN standard/JJ link/NN prediction/NN benchmarks/NNS ./.

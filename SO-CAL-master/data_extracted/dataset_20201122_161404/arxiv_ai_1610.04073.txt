@@ -1,0 +1,6 @@
+Knowledge base completion aims to infer new relations from existing information.
+In this paper, we propose path-augmented TransR (PTransR) model to improve the accuracy of link prediction.
+In our approach, we base PTransR model on TransR, which is the best one-hop model at present.
+Then we regularize TransR with information of relation paths.
+In our experiment, we evaluate PTransR on the task of entity prediction.
+Experimental results show that PTransR outperforms previous models.

@@ -1,0 +1,6 @@
+Distributed/VBN word/NN representations/NNS (/-LRB- word/NN embeddings/NNS )/-RRB- have/VBP recently/RB contributed/VBN to/IN competitive/JJ performance/NN in/IN language/NN modeling/NN and/CC several/JJ NLP/NN tasks/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP train/VBP word/NN embeddings/NNS for/IN more/JJR than/IN 100/CD languages/NNS using/VBG their/PRP$ corresponding/VBG Wikipedias/NNS ./.
+We/PRP quantitatively/RB demonstrate/VBP the/DT utility/NN of/IN our/PRP$ word/NN embeddings/NNS by/IN using/VBG them/PRP as/IN the/DT sole/JJ features/NNS for/IN training/VBG a/DT part/NN of/IN speech/NN tagger/NN for/IN a/DT subset/NN of/IN these/DT languages/NNS ./.
+We/PRP find/VBP their/PRP$ performance/NN to/TO be/VB competitive/JJ with/IN near/JJ state/NN -/HYPH of/IN -/HYPH art/NN methods/NNS in/IN English/NNP ,/, Danish/JJ and/CC Swedish/JJ ./.
+Moreover/RB ,/, we/PRP investigate/VBP the/DT semantic/JJ features/NNS captured/VBN by/IN these/DT embeddings/NNS through/IN the/DT proximity/NN of/IN word/NN groupings/NNS ./.
+We/PRP will/MD release/VB these/DT embeddings/NNS publicly/RB to/TO help/VB researchers/NNS in/IN the/DT development/NN and/CC enhancement/NN of/IN multilingual/JJ applications/NNS ./.

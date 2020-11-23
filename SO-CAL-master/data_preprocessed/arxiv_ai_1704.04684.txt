@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP propose/VBP the/DT creation/NN of/IN generic/JJ LSH/NN families/NNS for/IN the/DT angular/JJ distance/NN based/VBN on/IN Johnson/NNP -/HYPH Lindenstrauss/NNP projections/NNS ./.
+We/PRP show/VBP that/IN feature/NN hashing/VBG is/VBZ a/DT valid/JJ J/NN -/HYPH L/NN projection/NN and/CC propose/VB two/CD new/JJ LSH/NN families/NNS based/VBN on/IN feature/NN hashing/VBG ./.
+These/DT new/JJ LSH/NN families/NNS are/VBP tested/VBN on/IN both/DT synthetic/JJ and/CC real/JJ datasets/NNS with/IN very/RB good/JJ results/NNS and/CC a/DT considerable/JJ performance/NN improvement/NN over/IN other/JJ LSH/NN families/NNS ./.
+While/IN the/DT theoretical/JJ analysis/NN is/VBZ done/VBN for/IN the/DT angular/JJ distance/NN ,/, these/DT families/NNS can/MD also/RB be/VB used/VBN in/IN practice/NN for/IN the/DT euclidean/JJ distance/NN with/IN excellent/JJ results/NNS [/-LRB- 2/CD ]/-RRB- ./.
+Our/PRP$ tests/NNS using/VBG real/JJ datasets/NNS show/VBP that/IN the/DT proposed/VBN LSH/NN functions/NNS work/VBP well/RB for/IN the/DT euclidean/JJ distance/NN ./.

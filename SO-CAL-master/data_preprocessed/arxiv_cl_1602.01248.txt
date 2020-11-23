@@ -1,0 +1,12 @@
+Sentiment/NN analysis/NN (/-LRB- or/CC opinion/NN mining/NN )/-RRB- on/IN Twitter/NNP data/NNS has/VBZ attracted/VBN much/JJ attention/NN recently/RB ./.
+One/CD of/IN the/DT system/NN 's/POS key/JJ features/NNS ,/, is/VBZ the/DT immediacy/NN in/IN communication/NN with/IN other/JJ users/NNS in/IN an/DT easy/JJ ,/, user/NN -/HYPH friendly/JJ and/CC fast/JJ way/NN ./.
+Consequently/RB ,/, people/NNS tend/VBP to/TO express/VB their/PRP$ feelings/NNS freely/RB ,/, which/WDT makes/VBZ Twitter/NNP an/DT ideal/JJ source/NN for/IN accumulating/VBG a/DT vast/JJ amount/NN of/IN opinions/NNS towards/IN a/DT wide/JJ diversity/NN of/IN topics/NNS ./.
+This/DT amount/NN of/IN information/NN offers/VBZ huge/JJ potential/JJ and/CC can/MD be/VB harnessed/VBN to/TO receive/VB the/DT sentiment/NN tendency/NN towards/IN these/DT topics/NNS ./.
+However/RB ,/, since/IN none/NN can/MD invest/VB an/DT infinite/JJ amount/NN of/IN time/NN to/TO read/VB through/IN these/DT tweets/NNS ,/, an/DT automated/VBN decision/NN making/VBG approach/NN is/VBZ necessary/JJ ./.
+Nevertheless/RB ,/, most/JJS existing/VBG solutions/NNS are/VBP limited/VBN in/IN centralized/JJ environments/NNS only/RB ./.
+Thus/RB ,/, they/PRP can/MD only/RB process/VB at/IN most/RBS a/DT few/JJ thousand/CD tweets/NNS ./.
+Such/PDT a/DT sample/NN ,/, is/VBZ not/RB representative/JJ to/TO define/VB the/DT sentiment/NN polarity/NN towards/IN a/DT topic/NN due/IN to/IN the/DT massive/JJ number/NN of/IN tweets/NNS published/VBN daily/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP go/VBP one/CD step/NN further/RBR and/CC develop/VB a/DT novel/JJ method/NN for/IN sentiment/NN learning/NN in/IN the/DT MapReduce/NNP framework/NN ./.
+Our/PRP$ algorithm/NN exploits/VBZ the/DT hashtags/NNS and/CC emoticons/NNS inside/IN a/DT tweet/NN ,/, as/IN sentiment/NN labels/NNS ,/, and/CC proceeds/VBZ to/IN a/DT classification/NN procedure/NN of/IN diverse/JJ sentiment/NN types/NNS in/IN a/DT parallel/NN and/CC distributed/VBN manner/NN ./.
+Moreover/RB ,/, we/PRP utilize/VBP Bloom/NNP filters/NNS to/IN compact/JJ the/DT storage/NN size/NN of/IN intermediate/JJ data/NNS and/CC boost/VB the/DT performance/NN of/IN our/PRP$ algorithm/NN ./.
+Through/IN an/DT extensive/JJ experimental/JJ evaluation/NN ,/, we/PRP prove/VBP that/IN our/PRP$ solution/NN is/VBZ efficient/JJ ,/, robust/JJ and/CC scalable/JJ and/CC confirm/VB the/DT quality/NN of/IN our/PRP$ sentiment/NN identification/NN ./.

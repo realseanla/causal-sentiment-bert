@@ -1,0 +1,6 @@
+Feature/NN selection/NN refers/VBZ to/IN the/DT problem/NN of/IN selecting/VBG relevant/JJ features/NNS which/WDT produce/VBP the/DT most/RBS predictive/JJ outcome/NN ./.
+In/IN particular/JJ ,/, feature/NN selection/NN task/NN is/VBZ involved/VBN in/IN datasets/NNS containing/VBG huge/JJ number/NN of/IN features/NNS ./.
+Rough/JJ set/NN theory/NN has/VBZ been/VBN one/CD of/IN the/DT most/RBS successful/JJ methods/NNS used/VBN for/IN feature/NN selection/NN ./.
+However/RB ,/, this/DT method/NN is/VBZ still/RB not/RB able/JJ to/TO find/VB optimal/JJ subsets/NNS ./.
+This/DT paper/NN proposes/VBZ a/DT new/JJ feature/NN selection/NN method/NN based/VBN on/IN Rough/NNP set/VBD theory/NN hybrid/NN with/IN Bee/NNP Colony/NN Optimization/NN (/-LRB- BCO/NN )/-RRB- in/IN an/DT attempt/NN to/TO combat/VB this/DT ./.
+This/DT proposed/VBD work/NN is/VBZ applied/VBN in/IN the/DT medical/JJ domain/NN to/TO find/VB the/DT minimal/JJ reducts/NNS and/CC experimentally/RB compared/VBN with/IN the/DT Quick/NNP Reduct/NNP ,/, Entropy/NNP Based/NNP Reduct/NNP ,/, and/CC other/JJ hybrid/NN Rough/NNP Set/NNP methods/NNS such/JJ as/IN Genetic/JJ Algorithm/NN (/-LRB- GA/NN )/-RRB- ,/, Ant/NN Colony/NN Optimization/NN (/-LRB- ACO/NNP )/-RRB- and/CC Particle/NN Swarm/NN Optimization/NN (/-LRB- PSO/NNP )/-RRB- ./.

@@ -1,0 +1,5 @@
+An/DT order/NN -/HYPH revealing/VBG encryption/NN scheme/NN gives/VBZ a/DT public/JJ procedure/NN by/IN which/WDT two/CD ciphertexts/NNS can/MD be/VB compared/VBN to/IN reveal/VB the/DT ordering/NN of/IN their/PRP$ underlying/VBG plaintexts/NNS ./.
+We/PRP show/VBP how/WRB to/TO use/VB order/NN -/HYPH revealing/VBG encryption/NN to/TO separate/VB computationally/RB efficient/JJ PAC/NN learning/NN from/IN efficient/JJ $/$ (/-LRB- \/SYM epsilon/NN ,/, \/SYM delta/NN )/-RRB- $/$ -/HYPH differentially/RB private/JJ PAC/NN learning/NN ./.
+That/DT is/VBZ ,/, we/PRP construct/VBP a/DT concept/NN class/NN that/WDT is/VBZ efficiently/RB PAC/NN learnable/JJ ,/, but/CC for/IN which/WDT every/DT efficient/JJ learner/NN fails/VBZ to/TO be/VB differentially/RB private/JJ ./.
+This/DT answers/VBZ a/DT question/NN of/IN Kasiviswanathan/NNP et/FW al./FW (/-LRB- FOCS/NN '/'' 08/CD ,/, SIAM/NNP J./NNP Comput/NNP ./. '/''
+11/CD )/-RRB- ./.

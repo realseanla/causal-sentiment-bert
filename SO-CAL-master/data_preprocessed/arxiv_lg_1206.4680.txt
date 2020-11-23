@@ -1,0 +1,7 @@
+We/PRP study/VBP the/DT new/JJ feature/NN utility/NN prediction/NN problem/NN :/: statistically/RB testing/VBG whether/IN adding/VBG a/DT new/JJ feature/NN to/IN the/DT data/NNS representation/NN can/MD improve/VB predictive/JJ accuracy/NN on/IN a/DT supervised/JJ learning/NN task/NN ./.
+In/IN many/JJ applications/NNS ,/, identifying/VBG new/JJ informative/JJ features/NNS is/VBZ the/DT primary/JJ pathway/NN for/IN improving/VBG performance/NN ./.
+However/RB ,/, evaluating/VBG every/DT potential/JJ feature/NN by/IN re-training/VBG the/DT predictor/NN with/IN it/PRP can/MD be/VB costly/JJ ./.
+The/DT paper/NN describes/VBZ an/DT efficient/JJ ,/, learner/NN -/HYPH independent/JJ technique/NN for/IN estimating/VBG new/JJ feature/NN utility/NN without/IN re-training/VBG based/VBN on/IN the/DT current/JJ predictor/NN 's/POS outputs/NNS ./.
+The/DT method/NN is/VBZ obtained/VBN by/IN deriving/VBG a/DT connection/NN between/IN loss/NN reduction/NN potential/NN and/CC the/DT new/JJ feature/NN 's/POS correlation/NN with/IN the/DT loss/NN gradient/NN of/IN the/DT current/JJ predictor/NN ./.
+This/DT leads/VBZ to/IN a/DT simple/JJ yet/CC powerful/JJ hypothesis/NN testing/NN procedure/NN ,/, for/IN which/WDT we/PRP prove/VBP consistency/NN ./.
+Our/PRP$ theoretical/JJ analysis/NN is/VBZ accompanied/VBN by/IN empirical/JJ evaluation/NN on/IN standard/JJ benchmarks/NNS and/CC a/DT large/JJ -/HYPH scale/NN industrial/JJ dataset/NN ./.

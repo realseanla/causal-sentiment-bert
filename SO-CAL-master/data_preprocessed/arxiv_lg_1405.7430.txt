@@ -1,0 +1,4 @@
+BayesOpt/NNP is/VBZ a/DT library/NN with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN Bayesian/JJ optimization/NN methods/NNS to/TO solve/VB nonlinear/JJ optimization/NN ,/, stochastic/JJ bandits/NNS or/CC sequential/JJ experimental/JJ design/NN problems/NNS ./.
+Bayesian/JJ optimization/NN is/VBZ sample/NN efficient/JJ by/IN building/VBG a/DT posterior/JJ distribution/NN to/TO capture/VB the/DT evidence/NN and/CC prior/JJ knowledge/NN for/IN the/DT target/NN function/NN ./.
+Built/VBN in/IN standard/JJ C/NN ,/, the/DT library/NN is/VBZ extremely/RB efficient/JJ while/IN being/VBG portable/JJ and/CC flexible/JJ ./.
+It/PRP includes/VBZ a/DT common/JJ interface/NN for/IN C/NN ,/, C/NN ,/, Python/NN ,/, Matlab/NNP and/CC Octave/NNP ./.

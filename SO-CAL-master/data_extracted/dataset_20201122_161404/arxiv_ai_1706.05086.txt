@@ -1,0 +1,9 @@
+A key part of any evolutionary algorithm is fitness evaluation.
+When fitness evaluations are corrupted by noise, as happens in many real-world problems as a consequence of various types of uncertainty, a strategy is needed in order to cope with this.
+Resampling is one of the most common strategies, whereby each solution is evaluated many times in order to reduce the variance of the fitness estimates.
+When evaluating the performance of a noisy optimisation algorithm, a key consideration is the stopping condition for the algorithm.
+A frequently used stopping condition in runtime analysis, known as "First Hitting Time", is to stop the algorithm as soon as it encounters the optimal solution.
+However, this is unrealistic for real-world problems, as if the optimal solution were already known, there would be no need to search for it.
+This paper argues that the use of First Hitting Time, despite being a commonly used approach, is significantly flawed and overestimates the quality of many algorithms in real-world cases, where the optimum is not known in advance and has to be genuinely searched for.
+A better alternative is to measure the quality of the solution an algorithm returns after a fixed evaluation budget, i.e., to focus on final solution quality.
+This paper argues that focussing on final solution quality is more realistic and demonstrates cases where the results produced by each algorithm evaluation method lead to very different conclusions regarding the quality of each noisy optimisation algorithm.

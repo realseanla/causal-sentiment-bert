@@ -1,0 +1,8 @@
+Humans/NNS develop/VBP a/DT common/JJ sense/NN of/IN style/NN compatibility/NN between/IN items/NNS based/VBN on/IN their/PRP$ attributes/NNS ./.
+We/PRP seek/VBP to/TO automatically/RB answer/VB questions/NNS like/IN "/`` Does/VBZ this/DT shirt/NN go/VB well/RB with/IN that/DT pair/NN of/IN jeans/NNS ?/. "/''
+In/IN order/NN to/TO answer/VB these/DT kinds/NNS of/IN questions/NNS ,/, we/PRP attempt/VBP to/TO model/VB human/JJ sense/NN of/IN style/NN compatibility/NN in/IN this/DT paper/NN ./.
+The/DT basic/JJ assumption/NN of/IN our/PRP$ approach/NN is/VBZ that/IN most/JJS of/IN the/DT important/JJ attributes/NNS for/IN a/DT product/NN in/IN an/DT online/JJ store/NN are/VBP included/VBN in/IN its/PRP$ title/NN description/NN ./.
+Therefore/RB it/PRP is/VBZ feasible/JJ to/TO learn/VB style/NN compatibility/NN from/IN these/DT descriptions/NNS ./.
+We/PRP design/VBP a/DT Siamese/JJ Convolutional/JJ Neural/JJ Network/NN architecture/NN and/CC feed/VB it/PRP with/IN title/NN pairs/NNS of/IN items/NNS ,/, which/WDT are/VBP either/RB compatible/JJ or/CC incompatible/JJ ./.
+Those/DT pairs/NNS will/MD be/VB mapped/VBN from/IN the/DT original/JJ space/NN of/IN symbolic/JJ words/NNS into/IN some/DT embedded/VBN style/NN space/NN ./.
+Our/PRP$ approach/NN takes/VBZ only/RB words/NNS as/IN the/DT input/NN with/IN few/JJ preprocessing/JJ and/CC there/EX is/VBZ no/DT laborious/JJ and/CC expensive/JJ feature/NN engineering/NN ./.

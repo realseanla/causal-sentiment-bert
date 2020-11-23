@@ -1,0 +1,11 @@
+Canonical correlation analysis (CCA) is a fundamental technique in multi-view data analysis and representation learning.
+Several nonlinear extensions of the classical linear CCA method have been proposed, including kernel and deep neural network methods.
+These approaches restrict attention to certain families of nonlinear projections, which the user must specify (by choosing a kernel or a neural network architecture), and are computationally demanding.
+Interestingly, the theory of nonlinear CCA without any functional restrictions, has been studied in the population setting by Lancaster already in the 50's.
+However, these results, have not inspired practical algorithms.
+In this paper, we revisit Lancaster's theory, and use it to devise a practical algorithm for nonparametric CCA (NCCA).
+Specifically, we show that the most correlated nonlinear projections of two random vectors can be expressed in terms of the singular value decomposition of a certain operator associated with their joint density.
+Thus, by estimating the population density from data, NCCA reduces to solving an eigenvalue system, superficially like kernel CCA but, importantly, without having to compute the inverse of any kernel matrix.
+We also derive a partially linear CCA (PLCCA) variant in which one of the views undergoes a linear projection while the other is nonparametric.
+PLCCA turns out to have a similar form to the classical linear CCA, but with a nonparametric regression term replacing the linear regression in CCA.
+Using a kernel density estimate based on a small number of nearest neighbors, our NCCA and PLCCA algorithms are memory-efficient, often run much faster, and achieve better performance than kernel CCA and comparable performance to deep CCA.

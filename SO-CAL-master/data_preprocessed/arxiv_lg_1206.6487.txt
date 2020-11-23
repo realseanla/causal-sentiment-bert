@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT new/JJ anytime/NN algorithm/NN that/WDT achieves/VBZ near/IN -/HYPH optimal/JJ regret/NN for/IN any/DT instance/NN of/IN finite/JJ stochastic/JJ partial/JJ monitoring/NN ./.
+In/IN particular/JJ ,/, the/DT new/JJ algorithm/NN achieves/VBZ the/DT minimax/NN regret/NN ,/, within/IN logarithmic/JJ factors/NNS ,/, for/IN both/CC "/`` easy/JJ "/'' and/CC "/`` hard/JJ "/'' problems/NNS ./.
+For/IN easy/JJ problems/NNS ,/, it/PRP additionally/RB achieves/VBZ logarithmic/JJ individual/JJ regret/NN ./.
+Most/RBS importantly/RB ,/, the/DT algorithm/NN is/VBZ adaptive/JJ in/IN the/DT sense/NN that/IN if/IN the/DT opponent/NN strategy/NN is/VBZ in/IN an/DT "/`` easy/JJ region/NN "/'' of/IN the/DT strategy/NN space/NN then/RB the/DT regret/NN grows/VBZ as/IN if/IN the/DT problem/NN was/VBD easy/JJ ./.
+As/IN an/DT implication/NN ,/, we/PRP show/VBP that/IN under/IN some/DT reasonable/JJ additional/JJ assumptions/NNS ,/, the/DT algorithm/NN enjoys/VBZ an/DT O/NN (/-LRB- \/SYM sqrt/NN {/-LRB- T/NN }/-RRB- )/-RRB- regret/NN in/IN Dynamic/JJ Pricing/NN ,/, proven/VBN to/TO be/VB hard/JJ by/IN Bartok/NNP et/FW al./FW (/-LRB- 2011/CD )/-RRB- ./.

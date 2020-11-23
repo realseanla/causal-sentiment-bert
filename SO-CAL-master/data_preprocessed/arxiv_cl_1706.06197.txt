@@ -1,0 +1,8 @@
+We/PRP propose/VBP a/DT simple/JJ yet/CC effective/JJ technique/NN for/IN neural/JJ network/NN learning/NN ./.
+The/DT forward/JJ propagation/NN is/VBZ computed/VBN as/IN usual/JJ ./.
+In/IN back/RB propagation/NN ,/, only/RB a/DT small/JJ subset/NN of/IN the/DT full/JJ gradient/NN is/VBZ computed/VBN to/TO update/VB the/DT model/NN parameters/NNS ./.
+The/DT gradient/NN vectors/NNS are/VBP sparsified/VBN in/IN such/PDT a/DT way/NN that/WDT only/RB the/DT top/JJ -/HYPH $/$ k/CD $/$ elements/NNS (/-LRB- in/IN terms/NNS of/IN magnitude/NN )/-RRB- are/VBP kept/VBN ./.
+As/IN a/DT result/NN ,/, only/RB $/$ k/CD $/$ rows/NNS or/CC columns/NNS (/-LRB- depending/VBG on/IN the/DT layout/NN )/-RRB- of/IN the/DT weight/NN matrix/NN are/VBP modified/VBN ,/, leading/VBG to/IN a/DT linear/JJ reduction/NN (/-LRB- $/$ k/CD $/$ divided/VBN by/IN the/DT vector/NN dimension/NN )/-RRB- in/IN the/DT computational/JJ cost/NN ./.
+Surprisingly/RB ,/, experimental/JJ results/NNS demonstrate/VBP that/IN we/PRP can/MD update/VB only/RB 1/CD --/: 4/CD \/SYM percent/NN of/IN the/DT weights/NNS at/IN each/DT back/NN propagation/NN pass/NN ./.
+This/DT does/VBZ not/RB result/VB in/IN a/DT larger/JJR number/NN of/IN training/NN iterations/NNS ./.
+More/RBR interestingly/RB ,/, the/DT accuracy/NN of/IN the/DT resulting/VBG models/NNS is/VBZ actually/RB improved/VBN rather/RB than/IN degraded/VBN ,/, and/CC a/DT detailed/JJ analysis/NN is/VBZ given/VBN ./.

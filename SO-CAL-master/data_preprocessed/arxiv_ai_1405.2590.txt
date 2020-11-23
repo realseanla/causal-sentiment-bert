@@ -1,0 +1,8 @@
+Data/NNS originating/VBG from/IN the/DT Web/NN ,/, sensor/NN readings/NNS and/CC social/JJ media/NNS result/VBP in/IN increasingly/RB huge/JJ datasets/NNS ./.
+The/DT so/RB called/VBN Big/NNP Data/NNP comes/VBZ with/IN new/JJ scientific/JJ and/CC technological/JJ challenges/NNS while/IN creating/VBG new/JJ opportunities/NNS ,/, hence/RB the/DT increasing/VBG interest/NN in/IN academia/NN and/CC industry/NN ./.
+Traditionally/RB ,/, logic/NN programming/NN has/VBZ focused/VBN on/IN complex/JJ knowledge/NN structures/NNS //, programs/NNS ,/, so/IN the/DT question/NN arises/VBZ whether/IN and/CC how/WRB it/PRP can/MD work/VB in/IN the/DT face/NN of/IN Big/NNP Data/NNP ./.
+In/IN this/DT paper/NN ,/, we/PRP examine/VBP how/WRB the/DT well/RB -/HYPH founded/VBN semantics/NNS can/MD process/VB huge/JJ amounts/NNS of/IN data/NNS through/IN mass/NN parallelization/NN ./.
+More/RBR specifically/RB ,/, we/PRP propose/VBP and/CC evaluate/VBP a/DT parallel/JJ approach/NN using/VBG the/DT MapReduce/NNP framework/NN ./.
+Our/PRP$ experimental/JJ results/NNS indicate/VBP that/IN our/PRP$ approach/NN is/VBZ scalable/JJ and/CC that/RB well/RB -/HYPH founded/VBN semantics/NNS can/MD be/VB applied/VBN to/IN billions/NNS of/IN facts/NNS ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ work/NN that/WDT addresses/VBZ large/JJ scale/NN nonmonotonic/JJ reasoning/NN without/IN the/DT restriction/NN of/IN stratification/NN for/IN predicates/NNS of/IN arbitrary/JJ arity/NN ./.
+To/TO appear/VB in/IN Theory/NN and/CC Practice/NN of/IN Logic/NNP Programming/NNP (/-LRB- TPLP/NN )/-RRB- ./.

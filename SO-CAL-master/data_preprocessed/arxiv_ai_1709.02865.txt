@@ -1,0 +1,11 @@
+There/EX is/VBZ much/JJ interest/NN in/IN applying/VBG reinforcement/NN learning/VBG methods/NNS to/TO multi-agent/VB systems/NNS ./.
+A/DT popular/JJ way/NN to/TO do/VB so/RB is/VBZ the/DT method/NN of/IN reactive/JJ training/NN --/: ie/FW ./.
+treating/VBG other/JJ agents/NNS as/IN if/IN they/PRP are/VBP a/DT stationary/JJ part/NN of/IN the/DT learner/NN 's/POS environment/NN ./.
+Dyads/NNS of/IN such/JJ learners/NNS ,/, if/IN they/PRP converge/VBP ,/, will/MD converge/VB to/IN Nash/NNP equilibria/NNS of/IN the/DT game/NN ./.
+However/RB ,/, there/EX is/VBZ an/DT important/JJ game/NN theoretic/JJ issue/NN here/RB :/: positive/JJ -/HYPH sum/NN games/NNS can/MD have/VB multiple/JJ equilibria/NNS which/WDT differ/VBP in/IN their/PRP$ payoffs/NNS ./.
+We/PRP show/VBP that/IN even/RB in/IN simple/JJ coordination/NN games/NNS reactive/JJ reinforcement/NN learning/VBG agents/NNS will/MD often/RB coordinate/VB on/IN equilibria/NNS with/IN suboptimal/JJ payoffs/NNS for/IN both/DT agents/NNS ./.
+We/PRP also/RB show/VBP that/IN receiving/VBG utility/NN from/IN rewards/NNS other/JJ agents/NNS receive/VB -/HYPH ie/FW ./.
+having/VBG prosocial/JJ preferences/NNS -/HYPH leads/VBZ agents/NNS to/TO converging/VBG to/TO better/RBR equilibria/VB in/IN a/DT class/NN of/IN generalized/VBN Stag/NNP Hunt/NNP games/NNS ./.
+We/PRP show/VBP this/DT analytically/RB for/IN matrix/NN games/NNS and/CC experimentally/RB for/IN more/JJR complex/JJ Markov/NNP versions/NNS ./.
+Importantly/RB ,/, this/DT is/VBZ true/JJ even/RB if/IN only/RB one/CD of/IN the/DT agents/NNS has/VBZ social/JJ preferences/NNS ./.
+This/DT implies/VBZ that/IN even/RB if/IN an/DT agent/NN designer/NN only/RB controls/VBZ a/DT single/JJ agent/NN out/IN of/IN a/DT dyad/NN and/CC only/RB cares/VBZ about/IN their/PRP$ agent/NN 's/POS payoff/NN ,/, it/PRP can/MD still/RB be/VB better/JJR for/IN the/DT designer/NN to/TO make/VB the/DT agent/NN prosocial/JJ rather/RB than/IN selfish/JJ ./.

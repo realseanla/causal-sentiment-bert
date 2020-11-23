@@ -1,0 +1,8 @@
+The/DT recent/JJ progress/NN on/IN image/NN recognition/NN and/CC language/NN modeling/NN is/VBZ making/VBG automatic/JJ description/NN of/IN image/NN content/NN a/DT reality/NN ./.
+However/RB ,/, stylized/JJ ,/, non-factual/JJ aspects/NNS of/IN the/DT written/VBN description/NN are/VBP missing/VBG from/IN the/DT current/JJ systems/NNS ./.
+One/CD of/IN such/JJ styles/NNS is/VBZ descriptions/NNS with/IN emotions/NNS ,/, which/WDT is/VBZ commonplace/JJ in/IN everyday/JJ communication/NN ,/, and/CC influences/VBZ decision/NN -/HYPH making/NN and/CC interpersonal/JJ relationships/NNS ./.
+We/PRP design/VBP a/DT system/NN to/TO describe/VB an/DT image/NN with/IN emotions/NNS ,/, and/CC present/VB a/DT model/NN that/WDT automatically/RB generates/VBZ captions/NNS with/IN positive/JJ or/CC negative/JJ sentiments/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ switching/VBG recurrent/JJ neural/JJ network/NN with/IN word/NN -/HYPH level/NN regularization/NN ,/, which/WDT is/VBZ able/JJ to/TO produce/VB emotional/JJ image/NN captions/NNS using/VBG only/RB 2000/CD training/NN sentences/NNS containing/VBG sentiments/NNS ./.
+We/PRP evaluate/VBP the/DT captions/NNS with/IN different/JJ automatic/JJ and/CC crowd/NN -/HYPH sourcing/NN metrics/NNS ./.
+Our/PRP$ model/NN compares/VBZ favourably/RB in/IN common/JJ quality/NN metrics/NNS for/IN image/NN captioning/NN ./.
+In/IN 84.6/CD percent/NN of/IN cases/NNS the/DT generated/VBN positive/JJ captions/NNS were/VBD judged/VBN as/IN being/VBG at/RB least/RBS as/IN descriptive/JJ as/IN the/DT factual/JJ captions/NNS ,/, of/IN these/DT positive/JJ captions/NNS 88/CD percent/NN were/VBD confirmed/VBN by/IN the/DT crowd/NN -/HYPH sourced/VBN workers/NNS as/IN having/VBG the/DT appropriate/JJ sentiment/NN ./.

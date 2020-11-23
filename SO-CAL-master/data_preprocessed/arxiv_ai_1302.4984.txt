@@ -1,0 +1,9 @@
+Probabilistic/JJ model/NN -/HYPH based/VBN diagnosis/NN computes/VBZ the/DT posterior/JJ probabilities/NNS of/IN failure/NN of/IN components/NNS from/IN the/DT prior/JJ probabilities/NNS of/IN component/NN failure/NN and/CC observations/NNS of/IN system/NN behavior/NN ./.
+One/CD problem/NN with/IN this/DT method/NN is/VBZ that/IN such/JJ priors/NNS are/VBP almost/RB never/RB directly/RB available/JJ ./.
+One/CD of/IN the/DT reasons/NNS is/VBZ that/IN the/DT prior/JJ probability/NN estimates/NNS include/VBP an/DT implicit/JJ notion/NN of/IN a/DT time/NN interval/NN over/IN which/WDT they/PRP are/VBP specified/VBN --/: for/IN example/NN ,/, if/IN the/DT probability/NN of/IN failure/NN of/IN a/DT component/NN is/VBZ 0.05/CD ,/, is/VBZ this/DT over/IN the/DT period/NN of/IN a/DT day/NN or/CC is/VBZ this/DT over/IN a/DT week/NN ?/.
+A/DT second/JJ problem/NN facing/VBG probabilistic/JJ model/NN -/HYPH based/VBN diagnosis/NN is/VBZ the/DT modeling/NN of/IN persistence/NN ./.
+Say/VB we/PRP have/VBP an/DT observation/NN about/IN a/DT system/NN at/IN time/NN t_1/NN and/CC then/RB another/DT observation/NN at/IN a/DT later/JJ time/NN t_2/NN ./.
+To/TO compute/VB posterior/JJ probabilities/NNS that/WDT take/VBP into/IN account/NN both/CC the/DT observations/NNS ,/, we/PRP need/VBP some/DT model/NN of/IN how/WRB the/DT state/NN of/IN the/DT system/NN changes/VBZ from/IN time/NN t_1/NN to/IN t_2/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP these/DT problems/NNS using/VBG techniques/NNS from/IN Reliability/NN theory/NN ./.
+We/PRP show/VBP how/WRB to/TO compute/VB the/DT failure/NN prior/JJ of/IN a/DT component/NN from/IN an/DT empirical/JJ measure/NN of/IN its/PRP$ reliability/NN --/: the/DT Mean/NNP Time/NNP Between/IN Failure/NN (/-LRB- MTBF/NN )/-RRB- ./.
+We/PRP also/RB develop/VBP a/DT scheme/NN to/TO model/VB persistence/NN when/WRB handling/VBG multiple/JJ time/NN tagged/VBN observations/NNS ./.

@@ -1,0 +1,5 @@
+We/PRP study/VBP active/JJ learning/NN where/WRB the/DT labeler/NN can/MD not/RB only/RB return/VB incorrect/JJ labels/NNS but/CC also/RB abstain/VB from/IN labeling/NN ./.
+We/PRP consider/VBP different/JJ noise/NN and/CC abstention/NN conditions/NNS of/IN the/DT labeler/NN ./.
+We/PRP propose/VBP an/DT algorithm/NN which/WDT utilizes/VBZ abstention/NN responses/NNS ,/, and/CC analyze/VB its/PRP$ statistical/JJ consistency/NN and/CC query/NN complexity/NN under/IN fairly/RB natural/JJ assumptions/NNS on/IN the/DT noise/NN and/CC abstention/NN rate/NN of/IN the/DT labeler/NN ./.
+This/DT algorithm/NN is/VBZ adaptive/JJ in/IN a/DT sense/NN that/IN it/PRP can/MD automatically/RB request/VB less/JJR queries/NNS with/IN a/DT more/RBR informed/JJ or/CC less/RBR noisy/JJ labeler/NN ./.
+We/PRP couple/VBP our/PRP$ algorithm/NN with/IN lower/JJR bounds/NNS to/TO show/VB that/IN under/IN some/DT technical/JJ conditions/NNS ,/, it/PRP achieves/VBZ nearly/RB optimal/JJ query/NN complexity/NN ./.

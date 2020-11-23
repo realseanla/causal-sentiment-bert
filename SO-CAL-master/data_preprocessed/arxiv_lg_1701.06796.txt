@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT neural/JJ network/NN based/VBN approach/NN for/IN learning/VBG topics/NNS from/IN text/NN and/CC image/NN datasets/NNS ./.
+The/DT model/NN makes/VBZ no/DT assumptions/NNS about/IN the/DT conditional/JJ distribution/NN of/IN the/DT observed/VBN features/NNS given/VBN the/DT latent/JJ topics/NNS ./.
+This/DT allows/VBZ us/PRP to/TO perform/VB topic/NN modelling/VBG efficiently/RB using/VBG sentences/NNS of/IN documents/NNS and/CC patches/NNS of/IN images/NNS as/IN observed/VBN features/NNS ,/, rather/RB than/IN limiting/VBG ourselves/PRP to/IN words/NNS ./.
+Moreover/RB ,/, the/DT proposed/VBN approach/NN is/VBZ online/RB ,/, and/CC hence/RB can/MD be/VB used/VBN for/IN streaming/NN data/NNS ./.
+Furthermore/RB ,/, since/IN the/DT approach/NN utilizes/VBZ neural/JJ networks/NNS ,/, it/PRP can/MD be/VB implemented/VBN on/IN GPU/NNP with/IN ease/NN ,/, and/CC hence/RB it/PRP is/VBZ very/RB scalable/JJ ./.

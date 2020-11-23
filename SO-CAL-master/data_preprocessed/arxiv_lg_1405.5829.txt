@@ -1,0 +1,8 @@
+In/IN many/JJ real/JJ applications/NNS that/WDT use/VBP and/CC analyze/VBP networked/JJ data/NNS ,/, the/DT links/NNS in/IN the/DT network/NN graph/NN may/MD be/VB erroneous/JJ ,/, or/CC derived/VBN from/IN probabilistic/JJ techniques/NNS ./.
+In/IN such/JJ cases/NNS ,/, the/DT node/NN classification/NN problem/NN can/MD be/VB challenging/JJ ,/, since/IN the/DT unreliability/NN of/IN the/DT links/NNS may/MD affect/VB the/DT final/JJ results/NNS of/IN the/DT classification/NN process/NN ./.
+If/IN the/DT information/NN about/IN link/NN reliability/NN is/VBZ not/RB used/VBN explicitly/RB ,/, the/DT classification/NN accuracy/NN in/IN the/DT underlying/VBG network/NN may/MD be/VB affected/VBN adversely/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN situations/NNS that/WDT require/VBP the/DT analysis/NN of/IN the/DT uncertainty/NN that/WDT is/VBZ present/JJ in/IN the/DT graph/NN structure/NN ./.
+We/PRP study/VBP the/DT novel/JJ problem/NN of/IN node/NN classification/NN in/IN uncertain/JJ graphs/NNS ,/, by/IN treating/VBG uncertainty/NN as/IN a/DT first/JJ -/HYPH class/NN citizen/NN ./.
+We/PRP propose/VBP two/CD techniques/NNS based/VBN on/IN a/DT Bayes/NNP model/NN and/CC automatic/JJ parameter/NN selection/NN ,/, and/CC show/VBP that/IN the/DT incorporation/NN of/IN uncertainty/NN in/IN the/DT classification/NN process/NN as/IN a/DT first/JJ -/HYPH class/NN citizen/NN is/VBZ beneficial/JJ ./.
+We/PRP experimentally/RB evaluate/VB the/DT proposed/VBN approach/NN using/VBG different/JJ real/JJ data/NNS sets/NNS ,/, and/CC study/VB the/DT behavior/NN of/IN the/DT algorithms/NNS under/IN different/JJ conditions/NNS ./.
+The/DT results/NNS demonstrate/VBP the/DT effectiveness/NN and/CC efficiency/NN of/IN our/PRP$ approach/NN ./.

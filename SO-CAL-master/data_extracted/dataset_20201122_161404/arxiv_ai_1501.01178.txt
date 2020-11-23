@@ -1,0 +1,11 @@
+The goal of sequence mining is to find sequences of symbols that are included in (i.e.
+that are subsequences of) a large number of input sequences.
+Many constraints have been proposed in the literature for this type of problem, but a general framework for handling these constraints is missing.
+We investigate the use of constraint programming as general framework for this task.
+We first identify four categories of constraints that are applicable to sequence mining.
+We then propose two constraint programming formulation: the first formulation introduces a new global constraint called exists embedding that hides the complexity of the inclusion relation.
+However, this approach does not support one category of constraints.
+To support such constraints, we develop a second for- mulation that is more general but incurs more overhead.
+Both formulations can be related to the projected database technique used in specialised algorithms, and can use projected frequency to speed up the search.
+Experiments demonstrate the flexibility towards constraint-based settings and compare the approach to existing methods.
+Finally, we discuss the benefits and limitations of a CP-based approach for constrained mining.

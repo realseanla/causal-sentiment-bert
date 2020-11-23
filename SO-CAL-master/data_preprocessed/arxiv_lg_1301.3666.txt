@@ -1,0 +1,7 @@
+This/DT work/NN introduces/VBZ a/DT model/NN that/WDT can/MD recognize/VB objects/NNS in/IN images/NNS even/RB if/IN no/DT training/NN data/NNS is/VBZ available/JJ for/IN the/DT objects/NNS ./.
+The/DT only/RB necessary/JJ knowledge/NN about/IN the/DT unseen/JJ categories/NNS comes/VBZ from/IN unsupervised/JJ large/JJ text/NN corpora/NNS ./.
+In/IN our/PRP$ zero/CD -/HYPH shot/NN framework/NN distributional/JJ information/NN in/IN language/NN can/MD be/VB seen/VBN as/IN spanning/VBG a/DT semantic/JJ basis/NN for/IN understanding/VBG what/WP objects/NNS look/VBP like/IN ./.
+Most/JJS previous/JJ zero/CD -/HYPH shot/NN learning/NN models/NNS can/MD only/RB differentiate/VB between/IN unseen/JJ classes/NNS ./.
+In/IN contrast/NN ,/, our/PRP$ model/NN can/MD both/DT obtain/VB state/NN of/IN the/DT art/NN performance/NN on/IN classes/NNS that/WDT have/VBP thousands/NNS of/IN training/NN images/NNS and/CC obtain/VB reasonable/JJ performance/NN on/IN unseen/JJ classes/NNS ./.
+This/DT is/VBZ achieved/VBN by/IN first/JJ using/VBG outlier/NN detection/NN in/IN the/DT semantic/JJ space/NN and/CC then/RB two/CD separate/JJ recognition/NN models/NNS ./.
+Furthermore/RB ,/, our/PRP$ model/NN does/VBZ not/RB require/VB any/DT manually/RB defined/VBN semantic/JJ features/NNS for/IN either/CC words/NNS or/CC images/NNS ./.

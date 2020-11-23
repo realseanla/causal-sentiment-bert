@@ -1,0 +1,9 @@
+Hamiltonian/JJ Monte/NNP Carlo/NNP (/-LRB- HMC/NNP )/-RRB- sampling/NN methods/NNS provide/VBP a/DT mechanism/NN for/IN defining/VBG distant/JJ proposals/NNS with/IN high/JJ acceptance/NN probabilities/NNS in/IN a/DT Metropolis/NNP -/HYPH Hastings/NNP framework/NN ,/, enabling/VBG more/RBR efficient/JJ exploration/NN of/IN the/DT state/NN space/NN than/IN standard/JJ random/JJ -/HYPH walk/NN proposals/NNS ./.
+The/DT popularity/NN of/IN such/JJ methods/NNS has/VBZ grown/VBN significantly/RB in/IN recent/JJ years/NNS ./.
+However/RB ,/, a/DT limitation/NN of/IN HMC/NN methods/NNS is/VBZ the/DT required/VBN gradient/NN computation/NN for/IN simulation/NN of/IN the/DT Hamiltonian/JJ dynamical/JJ system/NN ---/, such/PDT a/DT computation/NN is/VBZ infeasible/JJ in/IN problems/NNS involving/VBG a/DT large/JJ sample/NN size/NN or/CC streaming/NN data/NNS ./.
+Instead/RB ,/, we/PRP must/MD rely/VB on/IN a/DT noisy/JJ gradient/NN estimate/NN computed/VBN from/IN a/DT subset/NN of/IN the/DT data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP explore/VBP the/DT properties/NNS of/IN such/PDT a/DT stochastic/JJ gradient/NN HMC/NN approach/NN ./.
+Surprisingly/RB ,/, the/DT natural/JJ implementation/NN of/IN the/DT stochastic/JJ approximation/NN can/MD be/VB arbitrarily/RB bad/JJ ./.
+To/TO address/VB this/DT problem/NN we/PRP introduce/VBP a/DT variant/NN that/WDT uses/VBZ second/RB -/HYPH order/NN Langevin/NNP dynamics/NNS with/IN a/DT friction/NN term/NN that/WDT counteracts/VBZ the/DT effects/NNS of/IN the/DT noisy/JJ gradient/NN ,/, maintaining/VBG the/DT desired/VBN target/NN distribution/NN as/IN the/DT invariant/JJ distribution/NN ./.
+Results/NNS on/IN simulated/JJ data/NNS validate/VBP our/PRP$ theory/NN ./.
+We/PRP also/RB provide/VBP an/DT application/NN of/IN our/PRP$ methods/NNS to/IN a/DT classification/NN task/NN using/VBG neural/JJ networks/NNS and/CC to/IN online/JJ Bayesian/JJ matrix/NN factorization/NN ./.

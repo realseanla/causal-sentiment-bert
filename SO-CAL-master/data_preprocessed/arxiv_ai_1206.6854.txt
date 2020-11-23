@@ -1,0 +1,6 @@
+In/IN recent/JJ years/NNS Bayesian/JJ networks/NNS (/-LRB- BNs/NNS )/-RRB- with/IN a/DT mixture/NN of/IN continuous/JJ and/CC discrete/JJ variables/NNS have/VBP received/VBN an/DT increasing/VBG level/NN of/IN attention/NN ./.
+We/PRP present/VBP an/DT architecture/NN for/IN exact/JJ belief/NN update/NN in/IN Conditional/JJ Linear/NNP Gaussian/NNP BNs/NNP (/-LRB- CLG/NNP BNs/NNPS )/-RRB- ./.
+The/DT architecture/NN is/VBZ an/DT extension/NN of/IN lazy/JJ propagation/NN using/VBG operations/NNS of/IN Lauritzen/NNP &amp;/CC Jensen/NNP [/-LRB- 6/CD ]/-RRB- and/CC Cowell/NN [/-LRB- 2/CD ]/-RRB- ./.
+By/IN decomposing/VBG clique/NN and/CC separator/NN potentials/NNS into/IN sets/NNS of/IN factors/NNS ,/, the/DT proposed/VBN architecture/NN takes/VBZ advantage/NN of/IN independence/NN and/CC irrelevance/NN properties/NNS induced/VBN by/IN the/DT structure/NN of/IN the/DT graph/NN and/CC the/DT evidence/NN ./.
+The/DT resulting/VBG benefits/NNS are/VBP illustrated/VBN by/IN examples/NNS ./.
+Results/NNS of/IN a/DT preliminary/JJ empirical/JJ performance/NN evaluation/NN indicate/VBP a/DT significant/JJ potential/NN of/IN the/DT proposed/VBN architecture/NN ./.

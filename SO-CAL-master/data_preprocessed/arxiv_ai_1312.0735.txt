@@ -1,0 +1,6 @@
+Well/RB -/HYPH designed/VBN medical/JJ decision/NN support/NN system/NN (/-LRB- DSS/NN )/-RRB- have/VBP been/VBN shown/VBN to/TO improve/VB health/NN care/NN quality/NN ./.
+However/RB ,/, before/IN they/PRP can/MD be/VB used/VBN in/IN real/JJ clinical/JJ situations/NNS ,/, these/DT systems/NNS must/MD be/VB extensively/RB tested/VBN ,/, to/TO ensure/VB that/IN they/PRP conform/VBP to/IN the/DT clinical/JJ guidelines/NNS (/-LRB- CG/NN )/-RRB- on/IN which/WDT they/PRP are/VBP based/VBN ./.
+Existing/VBG methods/NNS can/MD not/RB be/VB used/VBN for/IN the/DT systematic/JJ testing/NN of/IN all/DT possible/JJ test/NN cases/NNS ./.
+We/PRP describe/VBP here/RB a/DT new/JJ exhaustive/JJ dynamic/JJ verification/NN method/NN ./.
+In/IN this/DT method/NN ,/, the/DT DSS/NNP is/VBZ considered/VBN to/TO be/VB a/DT black/JJ box/NN ,/, and/CC the/DT Quinlan/NNP C4/NN .5/CD algorithm/NN is/VBZ used/VBN to/TO build/VB a/DT decision/NN tree/NN from/IN an/DT exhaustive/JJ set/NN of/IN DSS/NNP input/NN vectors/NNS and/CC outputs/NNS ./.
+This/DT method/NN was/VBD successfully/RB used/VBN for/IN the/DT testing/NN of/IN a/DT medical/JJ DSS/NNP relating/VBG to/IN chronic/JJ diseases/NNS :/: the/DT ASTI/NNP critiquing/VBG module/NN for/IN type/NN 2/CD diabetes/NN ./.

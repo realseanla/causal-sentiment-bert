@@ -1,0 +1,4 @@
+This paper explores new evaluation perspectives for image captioning and introduces a noun translation task that achieves comparative image caption generation performance by translating from a set of nouns to captions.
+This implies that in image captioning, all word categories other than nouns can be evoked by a powerful language model without sacrificing performance on the precision-oriented metric BLEU.
+The paper also investigates lower and upper bounds of how much individual word categories in the captions contribute to the final BLEU score.
+A large possible improvement exists for nouns, verbs, and prepositions.

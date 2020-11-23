@@ -1,0 +1,6 @@
+Solving/VBG the/DT visual/JJ symbol/NN grounding/NN problem/NN has/VBZ long/RB been/VBN a/DT goal/NN of/IN artificial/JJ intelligence/NN ./.
+The/DT field/NN appears/VBZ to/TO be/VB advancing/VBG closer/JJR to/IN this/DT goal/NN with/IN recent/JJ breakthroughs/NNS in/IN deep/JJ learning/NN for/IN natural/JJ language/NN grounding/NN in/IN static/NN images/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/IN translate/VB videos/NNS directly/RB to/IN sentences/NNS using/VBG a/DT unified/JJ deep/JJ neural/JJ network/NN with/IN both/CC convolutional/JJ and/CC recurrent/JJ structure/NN ./.
+Described/VBN video/NN datasets/NNS are/VBP scarce/JJ ,/, and/CC most/JJS existing/VBG methods/NNS have/VBP been/VBN applied/VBN to/IN toy/NN domains/NNS with/IN a/DT small/JJ vocabulary/NN of/IN possible/JJ words/NNS ./.
+By/IN transferring/VBG knowledge/NN from/IN 1.2/CD M/NN images/NNS with/IN category/NN labels/NNS and/CC 100,000/CD images/NNS with/IN captions/NNS ,/, our/PRP$ method/NN is/VBZ able/JJ to/TO create/VB sentence/NN descriptions/NNS of/IN open/JJ -/HYPH domain/NN videos/NNS with/IN large/JJ vocabularies/NNS ./.
+We/PRP compare/VBP our/PRP$ approach/NN with/IN recent/JJ work/NN using/VBG language/NN generation/NN metrics/NNS ,/, subject/NN ,/, verb/VB ,/, and/CC object/NN prediction/NN accuracy/NN ,/, and/CC a/DT human/JJ evaluation/NN ./.

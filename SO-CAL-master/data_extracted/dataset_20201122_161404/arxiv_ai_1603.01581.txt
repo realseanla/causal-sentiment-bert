@@ -1,0 +1,5 @@
+Two challenges in the theory and practice of cloud computing are: (1) smart control (allocation) of resources under exploration constraints, on time-varying systems, and (2) understanding and debugging of the performance of complex systems that involve e.g.
+virtualization.
+In this paper, we examine how these challenges can be approached using causal models.
+For challenge (1) we investigate how to infer and use causal models and selection diagrams to design and integrate experiments in a principled way, as well as to cope with partially varying systems.
+For challenge (2) we examine how to formalize performance attribution and debugging questions by counterfactual probabilities, and how to approximately answer them based on inferred (non-deterministic) graphical causal models.

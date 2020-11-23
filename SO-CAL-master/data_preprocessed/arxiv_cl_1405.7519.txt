@@ -1,0 +1,8 @@
+Opinion/NN Mining/NN and/CC Sentiment/NN Analysis/NN is/VBZ a/DT process/NN of/IN identifying/VBG opinions/NNS in/IN large/JJ unstructured/JJ //HYPH structured/JJ data/NNS and/CC then/RB analysing/VBG polarity/NN of/IN those/DT opinions/NNS ./.
+Opinion/NN mining/NN and/CC sentiment/NN analysis/NN have/VBP found/VBN vast/JJ application/NN in/IN analysing/VBG online/JJ ratings/NNS ,/, analysing/VBG product/NN based/VBN reviews/NNS ,/, e-governance/NN ,/, and/CC managing/VBG hostile/JJ content/NN over/IN the/DT internet/NN ./.
+This/DT paper/NN proposes/VBZ an/DT algorithm/NN to/TO implement/VB aspect/NN level/NN sentiment/NN analysis/NN ./.
+The/DT algorithm/NN takes/VBZ input/NN from/IN the/DT remarks/NNS submitted/VBN by/IN various/JJ teachers/NNS of/IN a/DT student/NN ./.
+An/DT aspect/NN tree/NN is/VBZ formed/VBN which/WDT has/VBZ various/JJ levels/NNS and/CC weights/NNS are/VBP assigned/VBN to/IN each/DT branch/NN to/TO identify/VB level/NN of/IN aspect/NN ./.
+Aspect/NN value/NN is/VBZ calculated/VBN by/IN the/DT algorithm/NN by/IN means/NNS of/IN the/DT proposed/VBN aspect/NN tree/NN ./.
+Dictionary/NNP based/JJ method/NN is/VBZ implemented/VBN to/TO evaluate/VB the/DT polarity/NN of/IN the/DT remark/NN ./.
+The/DT algorithm/NN returns/VBZ the/DT aspect/NN value/NN clubbed/VBN with/IN opinion/NN value/NN and/CC sentiment/NN value/NN which/WDT helps/VBZ in/IN concluding/VBG the/DT summarized/VBN value/NN of/IN remark/NN ./.

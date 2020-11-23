@@ -1,0 +1,5 @@
+MatConvNet/NNP is/VBZ an/DT implementation/NN of/IN Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNNs/NNS )/-RRB- for/IN MATLAB/NNP ./.
+The/DT toolbox/NN is/VBZ designed/VBN with/IN an/DT emphasis/NN on/IN simplicity/NN and/CC flexibility/NN ./.
+It/PRP exposes/VBZ the/DT building/NN blocks/NNS of/IN CNNs/NNS as/IN easy/JJ -/HYPH to/TO -/HYPH use/VB MATLAB/NNP functions/NNS ,/, providing/VBG routines/NNS for/IN computing/VBG linear/JJ convolutions/NNS with/IN filter/NN banks/NNS ,/, feature/VBP pooling/VBG ,/, and/CC many/JJ more/JJR ./.
+In/IN this/DT manner/NN ,/, MatConvNet/NNP allows/VBZ fast/JJ prototyping/NN of/IN new/JJ CNN/NNP architectures/NNS ;/: at/IN the/DT same/JJ time/NN ,/, it/PRP supports/VBZ efficient/JJ computation/NN on/IN CPU/NN and/CC GPU/NNP allowing/VBG to/TO train/VB complex/JJ models/NNS on/IN large/JJ datasets/NNS such/JJ as/IN ImageNet/NNP ILSVRC/NNP ./.
+This/DT document/NN provides/VBZ an/DT overview/NN of/IN CNNs/NNS and/CC how/WRB they/PRP are/VBP implemented/VBN in/IN MatConvNet/NNP and/CC gives/VBZ the/DT technical/JJ details/NNS of/IN each/DT computational/JJ block/NN in/IN the/DT toolbox/NN ./.

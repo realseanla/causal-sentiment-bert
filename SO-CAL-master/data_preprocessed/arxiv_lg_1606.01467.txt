@@ -1,0 +1,3 @@
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN by/IN feeding/VBG the/DT weights/NNS of/IN a/DT deep/JJ neural/JJ network/NN (/-LRB- DNN/NN )/-RRB- during/IN training/NN into/IN a/DT deep/JJ Q/NN -/HYPH network/NN (/-LRB- DQN/NN )/-RRB- as/IN its/PRP$ states/NNS ,/, this/DT DQN/NNP can/MD learn/VB policies/NNS to/TO accelerate/VB the/DT training/NN of/IN that/DT DNN/NN ./.
+The/DT actions/NNS of/IN the/DT DQN/NNP modify/VB different/JJ hyperparameters/NNS during/IN training/NN ./.
+Empirically/RB ,/, this/DT acceleration/NN leads/VBZ to/IN better/JJR generalization/NN performance/NN of/IN the/DT DNN/NNP ./.

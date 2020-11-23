@@ -1,0 +1,6 @@
+Gradient/NN descent/NN and/CC coordinate/VB descent/NN are/VBP well/RB understood/VBN in/IN terms/NNS of/IN their/PRP$ asymptotic/JJ behavior/NN ,/, but/CC less/RBR so/RB in/IN a/DT transient/JJ regime/NN often/RB used/VBN for/IN approximations/NNS in/IN machine/NN learning/NN ./.
+We/PRP investigate/VBP how/WRB proper/JJ initialization/NN can/MD have/VB a/DT profound/JJ effect/NN on/IN finding/VBG near/IN -/HYPH optimal/JJ solutions/NNS quickly/RB ./.
+We/PRP show/VBP that/IN a/DT certain/JJ property/NN of/IN a/DT data/NN set/NN ,/, namely/RB the/DT boundedness/NN of/IN the/DT correlations/NNS between/IN eigenfeatures/NNS and/CC the/DT response/NN variable/NN ,/, can/MD lead/VB to/IN faster/RBR initial/JJ progress/NN than/IN expected/VBN by/IN commonplace/JJ analysis/NN ./.
+Convex/NNP optimization/NN problems/NNS can/MD tacitly/RB benefit/VB from/IN that/DT ,/, but/CC this/DT automatism/NN does/VBZ not/RB apply/VB to/IN their/PRP$ dual/JJ formulation/NN ./.
+We/PRP analyze/VBP this/DT phenomenon/NN and/CC devise/VB provably/RB good/JJ initialization/NN strategies/NNS for/IN dual/JJ optimization/NN as/RB well/RB as/IN heuristics/NNS for/IN the/DT non-convex/JJ case/NN ,/, relevant/JJ for/IN deep/JJ learning/NN ./.
+We/PRP find/VBP our/PRP$ predictions/NNS and/CC methods/NNS to/TO be/VB experimentally/RB well/RB -/HYPH supported/VBN ./.

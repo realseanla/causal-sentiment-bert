@@ -1,0 +1,7 @@
+In/IN visual/JJ recognition/NN tasks/NNS ,/, supervised/VBD learning/NN shows/NNS excellent/JJ performance/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, unsupervised/JJ learning/NN exploits/NNS cheap/JJ unlabeled/JJ data/NNS and/CC can/MD help/VB to/TO solve/VB the/DT same/JJ tasks/NNS more/RBR efficiently/RB ./.
+We/PRP show/VBP that/IN the/DT recursive/JJ autoconvolutional/JJ operator/NN ,/, adopted/VBN from/IN physics/NN ,/, boosts/VBZ existing/VBG unsupervised/JJ methods/NNS to/TO learn/VB more/RBR powerful/JJ filters/NNS ./.
+We/PRP use/VBP a/DT well/RB established/VBN multilayer/JJ convolutional/JJ network/NN and/CC train/NN filters/NNS layer-wise/RB ./.
+To/TO build/VB a/DT stronger/JJR classifier/NN ,/, we/PRP design/VBP a/DT very/RB light/JJ committee/NN of/IN SVM/NN models/NNS ./.
+The/DT total/JJ number/NN of/IN trainable/JJ parameters/NNS is/VBZ also/RB greatly/RB reduced/VBN by/IN using/VBG shared/VBN filters/NNS in/IN higher/JJR layers/NNS ./.
+We/PRP evaluate/VBP our/PRP$ networks/NNS on/IN the/DT MNIST/NNP ,/, CIFAR/NNP -/HYPH 10/CD and/CC STL/NNP -/HYPH 10/CD benchmarks/NNS and/CC report/VB several/JJ state/NN of/IN the/DT art/NN results/NNS among/IN other/JJ unsupervised/JJ methods/NNS ./.

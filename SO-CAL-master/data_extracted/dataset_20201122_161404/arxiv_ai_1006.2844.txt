@@ -1,0 +1,3 @@
+We present an application of Artificial Intelligence techniques to the field of Information Security.
+The problem of remote Operating System (OS) Detection, also called OS Fingerprinting, is a crucial step of the penetration testing process, since the attacker (hacker or security professional) needs to know the OS of the target host in order to choose the exploits that he will use.
+OS Detection is accomplished by passively sniffing network packets and actively sending test packets to the target host, to study specific variations in the host responses revealing information about its operating system.

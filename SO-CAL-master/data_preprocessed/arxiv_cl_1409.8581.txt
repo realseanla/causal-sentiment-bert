@@ -1,0 +1,13 @@
+Machine/NN Translation/NN is/VBZ one/CD of/IN the/DT major/JJ oldest/JJS and/CC the/DT most/RBS active/JJ research/NN area/NN in/IN Natural/NNP Language/NNP Processing/NNP ./.
+Currently/RB ,/, Statistical/JJ Machine/NN Translation/NN (/-LRB- SMT/NN )/-RRB- dominates/VBZ the/DT Machine/NN Translation/NN research/NN ./.
+Statistical/JJ Machine/NN Translation/NN is/VBZ an/DT approach/NN to/IN Machine/NN Translation/NN which/WDT uses/VBZ models/NNS to/TO learn/VB translation/NN patterns/NNS directly/RB from/IN data/NNS ,/, and/CC generalize/VB them/PRP to/IN translate/VB a/DT new/JJ unseen/JJ text/NN ./.
+The/DT SMT/NNP approach/NN is/VBZ largely/RB language/NN independent/JJ ,/, i.e./FW the/DT models/NNS can/MD be/VB applied/VBN to/IN any/DT language/NN pair/NN ./.
+Statistical/JJ Machine/NN Translation/NN (/-LRB- SMT/NN )/-RRB- attempts/VBZ to/TO generate/VB translations/NNS using/VBG statistical/JJ methods/NNS based/VBN on/IN bilingual/JJ text/NN corpora/NNS ./.
+Where/WRB such/JJ corpora/NNS are/VBP available/JJ ,/, excellent/JJ results/NNS can/MD be/VB attained/VBN translating/VBG similar/JJ texts/NNS ,/, but/CC such/JJ corpora/NNS are/VBP still/RB not/RB available/JJ for/IN many/JJ language/NN pairs/NNS ./.
+Statistical/JJ Machine/NN Translation/NN systems/NNS ,/, in/IN general/JJ ,/, have/VBP difficulty/NN in/IN handling/VBG the/DT morphology/NN on/IN the/DT source/NN or/CC the/DT target/NN side/NN especially/RB for/IN morphologically/RB rich/JJ languages/NNS ./.
+Errors/NNS in/IN morphology/NN or/CC syntax/NN in/IN the/DT target/NN language/NN can/MD have/VB severe/JJ consequences/NNS on/IN meaning/NN of/IN the/DT sentence/NN ./.
+They/PRP change/VBP the/DT grammatical/JJ function/NN of/IN words/NNS or/CC the/DT understanding/NN of/IN the/DT sentence/NN through/IN the/DT incorrect/JJ tense/JJ information/NN in/IN verb/VB ./.
+Baseline/NN SMT/NN also/RB known/VBN as/IN Phrase/NN Based/VBN Statistical/JJ Machine/NN Translation/NN (/-LRB- PBSMT/NN )/-RRB- system/NN does/VBZ not/RB use/VB any/DT linguistic/JJ information/NN and/CC it/PRP only/RB operates/VBZ on/IN surface/NN word/NN form/NN ./.
+Recent/JJ researches/NNS shown/VBN that/IN adding/VBG linguistic/JJ information/NN helps/VBZ to/TO improve/VB the/DT accuracy/NN of/IN the/DT translation/NN with/IN less/JJR amount/NN of/IN bilingual/JJ corpora/NNS ./.
+Adding/VBG linguistic/JJ information/NN can/MD be/VB done/VBN using/VBG the/DT Factored/VBN Statistical/JJ Machine/NN Translation/NN system/NN through/IN pre-processing/JJ steps/NNS ./.
+This/DT paper/NN investigates/VBZ about/IN how/WRB English/JJ side/NN pre-processing/NN is/VBZ used/VBN to/TO improve/VB the/DT accuracy/NN of/IN English/NNP -/HYPH Tamil/NNP SMT/NNP system/NN ./.

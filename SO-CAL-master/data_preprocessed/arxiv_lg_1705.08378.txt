@@ -1,0 +1,12 @@
+Deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- play/VBP a/DT key/JJ role/NN in/IN many/JJ applications/NNS ./.
+Unsurprisingly/RB ,/, they/PRP also/RB became/VBD a/DT potential/JJ attack/NN target/NN of/IN adversaries/NNS ./.
+Some/DT studies/NNS have/VBP demonstrated/VBN DNN/NNP classifiers/NNS can/MD be/VB fooled/VBN by/IN the/DT adversarial/JJ example/NN ,/, which/WDT is/VBZ crafted/VBN via/IN introducing/VBG some/DT perturbations/NNS into/IN an/DT original/JJ sample/NN ./.
+Accordingly/RB ,/, some/DT powerful/JJ defense/NN techniques/NNS were/VBD proposed/VBN against/IN adversarial/JJ examples/NNS ./.
+However/RB ,/, existing/VBG defense/NN techniques/NNS require/VBP modifying/VBG the/DT target/NN model/NN or/CC depend/VB on/IN the/DT prior/JJ knowledge/NN of/IN attack/NN techniques/NNS to/IN different/JJ degrees/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT straightforward/JJ method/NN for/IN detecting/VBG adversarial/JJ image/NN examples/NNS ./.
+It/PRP does/VBZ n't/RB require/VB any/DT prior/JJ knowledge/NN of/IN attack/NN techniques/NNS and/CC can/MD be/VB directly/RB deployed/VBN into/IN unmodified/JJ off/IN -/HYPH the/DT -/HYPH shelf/NN DNN/NN models/NNS ./.
+Specifically/RB ,/, we/PRP consider/VBP the/DT perturbation/NN to/IN images/NNS as/IN a/DT kind/NN of/IN noise/NN and/CC introduce/VB two/CD classical/JJ image/NN processing/NN techniques/NNS ,/, scalar/JJ quantization/NN and/CC smoothing/VBG spatial/JJ filter/NN ,/, to/TO reduce/VB its/PRP$ effect/NN ./.
+The/DT image/NN two/CD -/HYPH dimensional/JJ entropy/NN is/VBZ employed/VBN as/IN a/DT metric/JJ to/TO implement/VB an/DT adaptive/JJ noise/NN reduction/NN for/IN different/JJ kinds/NNS of/IN images/NNS ./.
+As/IN a/DT result/NN ,/, the/DT adversarial/JJ example/NN can/MD be/VB effectively/RB detected/VBN by/IN comparing/VBG the/DT classification/NN results/NNS of/IN a/DT given/VBN sample/NN and/CC its/PRP$ denoised/VBN version/NN ./.
+Thousands/NNS of/IN adversarial/JJ examples/NNS against/IN some/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN DNN/NN models/NNS are/VBP used/VBN to/TO evaluate/VB the/DT proposed/JJ method/NN ,/, which/WDT are/VBP crafted/VBN with/IN different/JJ attack/NN techniques/NNS ./.
+The/DT experiment/NN shows/VBZ that/IN our/PRP$ detection/NN method/NN can/MD achieve/VB an/DT overall/JJ recall/NN of/IN 93.73/CD percent/NN and/CC an/DT overall/JJ precision/NN of/IN 95.45/CD percent/NN without/IN referring/VBG to/IN any/DT prior/JJ knowledge/NN of/IN attack/NN techniques/NNS ./.

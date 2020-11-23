@@ -1,0 +1,5 @@
+Generating/NNP natural/JJ language/NN descriptions/NNS for/IN images/NNS is/VBZ a/DT challenging/JJ task/NN ./.
+The/DT traditional/JJ way/NN is/VBZ to/TO use/VB the/DT convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- to/TO extract/VB image/NN features/NNS ,/, followed/VBN by/IN recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- to/TO generate/VB sentences/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ model/NN that/WDT added/VBD memory/NN cells/NNS to/IN gate/NN the/DT feeding/NN of/IN image/NN features/NNS to/IN the/DT deep/JJ neural/JJ network/NN ./.
+The/DT intuition/NN is/VBZ enabling/VBG our/PRP$ model/NN to/IN memorize/VB how/WRB much/JJ information/NN from/IN images/NNS should/MD be/VB fed/VBN at/IN each/DT stage/NN of/IN the/DT RNN/NN ./.
+Experiments/NNS on/IN Flickr8K/NN and/CC Flickr30K/NN datasets/NNS showed/VBD that/IN our/PRP$ model/NN outperforms/VBZ other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS with/IN higher/JJR BLEU/NN scores/NNS ./.

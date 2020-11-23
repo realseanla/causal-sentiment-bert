@@ -1,0 +1,10 @@
+In/IN traditional/JJ multiple/JJ instance/NN learning/NN (/-LRB- MIL/NN )/-RRB- ,/, both/CC positive/JJ and/CC negative/JJ bags/NNS are/VBP required/VBN to/TO learn/VB a/DT prediction/NN function/NN ./.
+However/RB ,/, a/DT high/JJ human/JJ cost/NN is/VBZ needed/VBN to/TO know/VB the/DT label/NN of/IN each/DT bag/NN ---/, positive/JJ or/CC negative/JJ ./.
+Only/RB positive/JJ bags/NNS contain/VBP our/PRP$ focus/NN (/-LRB- positive/JJ instances/NNS )/-RRB- while/IN negative/JJ bags/NNS consist/VBP of/IN noise/NN or/CC background/NN (/-LRB- negative/JJ instances/NNS )/-RRB- ./.
+So/RB we/PRP do/VBP not/RB expect/VB to/TO spend/VB too/RB much/JJ to/TO label/VB the/DT negative/JJ bags/NNS ./.
+Contrary/JJ to/IN our/PRP$ expectation/NN ,/, nearly/RB all/DT existing/VBG MIL/NN methods/NNS require/VBP enough/JJ negative/JJ bags/NNS besides/IN positive/JJ ones/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP an/DT algorithm/NN called/VBN "/`` Positive/JJ Multiple/JJ Instance/NNP "/'' (/-LRB- PMI/NNP )/-RRB- ,/, which/WDT learns/VBZ a/DT classifier/NN given/VBN only/RB a/DT set/NN of/IN positive/JJ bags/NNS ./.
+So/RB the/DT annotation/NN of/IN negative/JJ bags/NNS becomes/VBZ unnecessary/JJ in/IN our/PRP$ method/NN ./.
+PMI/NNP is/VBZ constructed/VBN based/VBN on/IN the/DT assumption/NN that/IN the/DT unknown/JJ positive/JJ instances/NNS in/IN positive/JJ bags/NNS be/VB similar/JJ each/DT other/JJ and/CC constitute/VB one/CD compact/JJ cluster/NN in/IN feature/NN space/NN and/CC the/DT negative/JJ instances/NNS locate/VBP outside/IN this/DT cluster/NN ./.
+The/DT experimental/JJ results/NNS demonstrate/VBP that/IN PMI/NNP achieves/VBZ the/DT performances/NNS close/RB to/IN or/CC a/DT little/JJ worse/JJR than/IN those/DT of/IN the/DT traditional/JJ MIL/NN algorithms/NNS on/IN benchmark/NN and/CC real/JJ data/NNS sets/NNS ./.
+However/RB ,/, the/DT number/NN of/IN training/NN bags/NNS in/IN PMI/NNP is/VBZ reduced/VBN significantly/RB compared/VBN with/IN traditional/JJ MIL/NN algorithms/NNS ./.

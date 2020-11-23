@@ -1,0 +1,4 @@
+A/DT process/NN centric/JJ view/NN of/IN robust/JJ PCA/NN (/-LRB- RPCA/NN )/-RRB- allows/VBZ its/PRP$ fast/JJ approximate/JJ implementation/NN based/VBN on/IN a/DT special/JJ form/NN o/IN a/DT deep/JJ neural/JJ network/NN with/IN weights/NNS shared/VBN across/IN all/DT layers/NNS ./.
+However/RB ,/, empirically/RB this/DT fast/JJ approximation/NN to/IN RPCA/NNP fails/VBZ to/TO find/VB representations/NNS that/WDT are/VBP parsemonious/JJ ./.
+We/PRP resolve/VBP these/DT bad/JJ local/JJ minima/NN by/IN relaxing/VBG the/DT elementwise/NN L1/NN and/CC L2/NN priors/NNS and/CC instead/RB utilize/VBP a/DT structure/NN inducing/VBG k/CD -/HYPH sparsity/NN prior/JJ ./.
+In/IN a/DT discriminative/JJ classification/NN task/NN the/DT newly/RB learned/VBN representations/NNS outperform/VBP these/DT from/IN the/DT original/JJ approximate/JJ RPCA/NN formulation/NN significantly/RB ./.

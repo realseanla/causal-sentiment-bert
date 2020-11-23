@@ -1,0 +1,5 @@
+Deep learning techniques have been paramount in the last years, mainly due to their outstanding results in a number of applications, that range from speech recognition to face-based user identification.
+Despite other techniques employed for such purposes, Deep Boltzmann Machines are among the most used ones, which are composed of layers of Restricted Boltzmann Machines (RBMs) stacked on top of each other.
+In this work, we evaluate the concept of temperature in DBMs, which play a key role in Boltzmann-related distributions, but it has never been considered in this context up to date.
+Therefore, the main contribution of this paper is to take into account this information and to evaluate its influence in DBMs considering the task of binary image reconstruction.
+We expect this work can foster future research considering the usage of different temperatures during learning in DBMs.

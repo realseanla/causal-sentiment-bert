@@ -1,0 +1,14 @@
+Modern/JJ cities/NNS experience/VBP heavy/JJ traffic/NN flows/NNS and/CC congestions/NNS regularly/RB across/IN space/NN and/CC time/NN ./.
+Monitoring/NN traffic/NN situations/NNS becomes/VBZ an/DT important/JJ challenge/NN for/IN the/DT Traffic/NNP Control/NNP and/CC Surveillance/NNP Systems/NNPS (/-LRB- TCSS/NN )/-RRB- ./.
+In/IN advanced/JJ TCSS/NN ,/, it/PRP is/VBZ helpful/JJ to/TO automatically/RB detect/VB and/CC classify/VB different/JJ traffic/NN incidents/NNS such/JJ as/IN severity/NN of/IN congestion/NN ,/, abnormal/JJ driving/VBG pattern/NN ,/, abrupt/JJ or/CC illegal/JJ stop/NN on/IN road/NN ,/, etc/FW ./.
+Although/IN most/JJS TCSS/NNS are/VBP equipped/VBN with/IN basic/JJ incident/NN detection/NN algorithms/NNS ,/, they/PRP are/VBP however/RB crude/JJ to/TO be/VB really/RB useful/JJ as/IN an/DT automated/VBN tool/NN for/IN further/JJ classification/NN ./.
+In/IN literature/NN ,/, there/EX is/VBZ a/DT lack/NN of/IN research/NN for/IN Automated/NNP Incident/NNP Classification/NN (/-LRB- AIC/NNP )/-RRB- ./.
+Therefore/RB ,/, a/DT novel/JJ AIC/NN method/NN is/VBZ proposed/VBN in/IN this/DT paper/NN to/TO tackle/VB such/JJ challenges/NNS ./.
+In/IN the/DT proposed/JJ method/NN ,/, traffic/NN signals/NNS are/VBP firstly/RB extracted/VBN from/IN captured/VBN videos/NNS and/CC converted/VBD as/IN spatial/JJ -/HYPH temporal/JJ (/-LRB- ST/NNP )/-RRB- signals/NNS ./.
+Based/VBN on/IN the/DT characteristics/NNS of/IN the/DT ST/NNP signals/NNS ,/, a/DT set/NN of/IN realistic/JJ simulation/NN data/NNS are/VBP generated/VBN to/TO construct/VB an/DT extended/JJ big/JJ traffic/NN database/NN to/TO cover/VB a/DT variety/NN of/IN traffic/NN situations/NNS ./.
+Next/RB ,/, a/DT Mean/NNP -/HYPH Shift/NNP filter/NN is/VBZ introduced/VBN to/TO suppress/VB the/DT effect/NN of/IN noise/NN and/CC extract/NN significant/JJ features/NNS from/IN the/DT ST/NNP signals/NNS ./.
+The/DT extracted/VBN features/NNS are/VBP then/RB associated/VBN with/IN various/JJ types/NNS of/IN traffic/NN data/NNS :/: one/CD normal/JJ type/NN (/-LRB- inliers/NNS )/-RRB- and/CC multiple/JJ abnormal/JJ types/NNS (/-LRB- outliers/NNS )/-RRB- ./.
+For/IN the/DT classification/NN ,/, an/DT adaptive/JJ boosting/VBG classifier/NN is/VBZ trained/VBN to/TO detect/VB outliers/NNS in/IN traffic/NN data/NNS automatically/RB ./.
+Further/RB ,/, a/DT Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- based/VBN method/NN is/VBZ adopted/VBN to/TO train/VB the/DT model/NN for/IN identifying/VBG the/DT categories/NNS of/IN outliers/NNS ./.
+In/IN short/JJ ,/, this/DT hybrid/NN approach/NN is/VBZ called/VBN an/DT Adaptive/JJ Boosting/VBG Support/NN Vector/NNP Machines/NNPS (/-LRB- AB/NNP -/HYPH SVM/NNP )/-RRB- method/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN the/DT proposed/VBN AB/NNP -/HYPH SVM/NNP method/NN achieves/VBZ a/DT satisfied/JJ result/NN with/IN more/JJR than/IN 92/CD percent/NN classification/NN accuracy/NN on/IN average/JJ ./.

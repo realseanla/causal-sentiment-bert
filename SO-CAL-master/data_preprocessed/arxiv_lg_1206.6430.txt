@@ -1,0 +1,7 @@
+Mean/NNP -/HYPH field/NN variational/JJ inference/NN is/VBZ a/DT method/NN for/IN approximate/JJ Bayesian/JJ posterior/JJ inference/NN ./.
+It/PRP approximates/VBZ a/DT full/JJ posterior/JJ distribution/NN with/IN a/DT factorized/JJ set/NN of/IN distributions/NNS by/IN maximizing/VBG a/DT lower/JJR bound/VBN on/IN the/DT marginal/JJ likelihood/NN ./.
+This/DT requires/VBZ the/DT ability/NN to/TO integrate/VB a/DT sum/NN of/IN terms/NNS in/IN the/DT log/NN joint/JJ likelihood/NN using/VBG this/DT factorized/VBN distribution/NN ./.
+Often/RB not/RB all/DT integrals/NNS are/VBP in/IN closed/JJ form/NN ,/, which/WDT is/VBZ typically/RB handled/VBN by/IN using/VBG a/DT lower/JJR bound/JJ ./.
+We/PRP present/VBP an/DT alternative/JJ algorithm/NN based/VBN on/IN stochastic/JJ optimization/NN that/WDT allows/VBZ for/IN direct/JJ optimization/NN of/IN the/DT variational/JJ lower/JJR bound/JJ ./.
+This/DT method/NN uses/VBZ control/NN variates/NNS to/TO reduce/VB the/DT variance/NN of/IN the/DT stochastic/JJ search/NN gradient/NN ,/, in/IN which/WDT existing/VBG lower/JJR bounds/NNS can/MD play/VB an/DT important/JJ role/NN ./.
+We/PRP demonstrate/VBP the/DT approach/NN on/IN two/CD non-conjugate/JJ models/NNS :/: logistic/JJ regression/NN and/CC an/DT approximation/NN to/IN the/DT HDP/NNP ./.

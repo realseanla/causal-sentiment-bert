@@ -1,0 +1,7 @@
+Computing/NNP the/DT probability/NN of/IN evidence/NN even/RB with/IN known/VBN error/NN bounds/NNS is/VBZ NP/NNP -/HYPH hard/JJ ./.
+In/IN this/DT paper/NN we/PRP address/VBP this/DT hard/JJ problem/NN by/IN settling/VBG on/IN an/DT easier/JJR problem/NN ./.
+We/PRP propose/VBP an/DT approximation/NN which/WDT provides/VBZ high/JJ confidence/NN lower/JJR bounds/NNS on/IN probability/NN of/IN evidence/NN but/CC does/VBZ not/RB have/VB any/DT guarantees/NNS in/IN terms/NNS of/IN relative/JJ or/CC absolute/JJ error/NN ./.
+Our/PRP$ proposed/VBN approximation/NN is/VBZ a/DT randomized/JJ importance/NN sampling/NN scheme/NN that/WDT uses/VBZ the/DT Markov/NNP inequality/NN ./.
+However/RB ,/, a/DT straight/JJ -/HYPH forward/JJ application/NN of/IN the/DT Markov/NNP inequality/NN may/MD lead/VB to/IN poor/JJ lower/JJR bounds/NNS ./.
+We/PRP therefore/RB propose/VBP several/JJ heuristic/NN measures/NNS to/TO improve/VB its/PRP$ performance/NN in/IN practice/NN ./.
+Empirical/JJ evaluation/NN of/IN our/PRP$ scheme/NN with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN lower/JJR bounding/VBG schemes/NNS reveals/VBZ the/DT promise/NN of/IN our/PRP$ approach/NN ./.

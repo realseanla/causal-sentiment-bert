@@ -1,0 +1,5 @@
+We/PRP study/VBP the/DT problem/NN of/IN semi-supervised/JJ question/NN answering/VBG ----/SYM utilizing/VBG unlabeled/JJ text/NN to/TO boost/VB the/DT performance/NN of/IN question/NN answering/VBG models/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ training/NN framework/NN ,/, the/DT Generative/NNP Domain/NNP -/HYPH Adaptive/NNP Nets/NNPS ./.
+In/IN this/DT framework/NN ,/, we/PRP train/VBP a/DT generative/JJ model/NN to/TO generate/VB questions/NNS based/VBN on/IN the/DT unlabeled/JJ text/NN ,/, and/CC combine/VB model/NN -/HYPH generated/VBN questions/NNS with/IN human/JJ -/HYPH generated/VBN questions/NNS for/IN training/NN question/NN answering/VBG models/NNS ./.
+We/PRP develop/VBP novel/JJ domain/NN adaptation/NN algorithms/NNS ,/, based/VBN on/IN reinforcement/NN learning/NN ,/, to/TO alleviate/VB the/DT discrepancy/NN between/IN the/DT model/NN -/HYPH generated/VBN data/NNS distribution/NN and/CC the/DT human/JJ -/HYPH generated/VBN data/NNS distribution/NN ./.
+Experiments/NNS show/VBP that/IN our/PRP$ proposed/VBN framework/NN obtains/VBZ substantial/JJ improvement/NN from/IN unlabeled/JJ text/NN ./.

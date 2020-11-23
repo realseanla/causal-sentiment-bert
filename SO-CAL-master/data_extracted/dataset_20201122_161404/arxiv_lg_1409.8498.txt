@@ -1,0 +1,8 @@
+This paper addresses learning in repeated stochastic games (RSGs) played against unknown associates.
+Learning in RSGs is extremely challenging due to their inherently large strategy spaces.
+Furthermore, these games typically have multiple (often infinite) equilibria, making attempts to solve them via equilibrium analysis and rationality assumptions wholly insufficient.
+As such, previous learning algorithms for RSGs either learn very slowly or make extremely limiting assumptions about the game structure or associates' behaviors.
+In this paper, we propose and evaluate the notion of game abstraction by experts (Gabe) for two-player general-sum RSGs.
+Gabe reduces an RSG to a multi-armed bandit problem, which can then be solved using an expert algorithm.
+Gabe maintains many aspects of the original game, including security and Pareto optimal Nash equilibria.
+We demonstrate that Gabe substantially outperforms existing algorithms in many scenarios.

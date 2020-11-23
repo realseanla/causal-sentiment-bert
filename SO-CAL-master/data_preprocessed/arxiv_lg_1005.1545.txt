@@ -1,0 +1,7 @@
+Semi-supervised/VBN learning/NN tries/VBZ to/TO improve/VB performance/NN by/IN using/VBG unlabeled/JJ data/NNS ./.
+In/IN some/DT situations/NNS ,/, however/RB ,/, its/PRP$ performance/NN may/MD become/VB inferior/JJ to/IN that/DT of/IN without/IN using/VBG unlabeled/JJ data/NNS ./.
+It/PRP is/VBZ desired/VBN to/TO have/VB safe/JJ semi-supervised/JJ methods/NNS which/WDT often/RB improve/VBP the/DT performance/NN while/IN rarely/RB degenerate/VBP the/DT performance/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN semi-supervised/JJ support/NN vector/NN machine/NN and/CC propose/VB the/DT S4VM/NN (/-LRB- Safe/NN Semi-Supervised/VBN Support/NN Vector/NNP Machine/NNP )/-RRB- approach/NN ./.
+Our/PRP$ intuition/NN is/VBZ that/IN we/PRP shall/MD use/VB only/RB the/DT unlabeled/JJ examples/NNS which/WDT are/VBP very/RB likely/JJ to/TO help/VB improve/VB the/DT performance/NN while/IN keeping/VBG the/DT unlabeled/JJ data/NNS which/WDT are/VBP with/IN high/JJ risk/NN to/TO be/VB unexploited/JJ ./.
+Experimental/JJ results/NNS on/IN a/DT broad/JJ range/NN of/IN data/NN sets/NNS over/IN 120/CD different/JJ settings/NNS show/VBP that/IN our/PRP$ proposed/VBN S4VM/NN is/VBZ highly/RB competitive/JJ with/IN TSVM/NN ./.
+More/RBR important/JJ ,/, contrasting/VBG to/IN TSVM/NNP which/WDT degenerates/VBZ performance/NN in/IN many/JJ cases/NNS when/WRB using/VBG unlabeled/JJ data/NNS ,/, our/PRP$ S4VM/NN never/RB degenerates/VBZ performance/NN ./.

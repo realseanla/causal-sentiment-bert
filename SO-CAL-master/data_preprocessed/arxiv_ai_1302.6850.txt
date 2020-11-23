@@ -1,0 +1,5 @@
+One/CD important/JJ factor/NN determining/VBG the/DT computational/JJ complexity/NN of/IN evaluating/VBG a/DT probabilistic/JJ network/NN is/VBZ the/DT cardinality/NN of/IN the/DT state/NN spaces/NNS of/IN the/DT nodes/NNS ./.
+By/IN varying/VBG the/DT granularity/NN of/IN the/DT state/NN spaces/NNS ,/, one/PRP can/MD trade/VB off/RP accuracy/NN in/IN the/DT result/NN for/IN computational/JJ efficiency/NN ./.
+We/PRP present/VBP an/DT anytime/NN procedure/NN for/IN approximate/JJ evaluation/NN of/IN probabilistic/JJ networks/NNS based/VBN on/IN this/DT idea/NN ./.
+On/IN application/NN to/IN some/DT simple/JJ networks/NNS ,/, the/DT procedure/NN exhibits/VBZ a/DT smooth/JJ improvement/NN in/IN approximation/NN quality/NN as/IN computation/NN time/NN increases/NNS ./.
+This/DT suggests/VBZ that/IN state/NN -/HYPH space/NN abstraction/NN is/VBZ one/CD more/JJR useful/JJ control/NN parameter/NN for/IN designing/VBG real/JJ -/HYPH time/NN probabilistic/JJ reasoners/NNS ./.

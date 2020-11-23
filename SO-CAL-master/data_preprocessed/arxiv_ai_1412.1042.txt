@@ -1,0 +1,5 @@
+A/DT crucial/JJ problem/NN for/IN many/JJ results/NNS and/CC tools/NNS about/IN bigraphs/NNS and/CC bigraphical/JJ reactive/JJ systems/NNS is/VBZ bigraph/JJ embedding/NN ./.
+An/DT embedding/NN is/VBZ more/RBR informative/JJ than/IN a/DT bigraph/NN matching/NN ,/, since/IN it/PRP keeps/VBZ track/NN of/IN the/DT correspondence/NN between/IN the/DT various/JJ components/NNS of/IN the/DT redex/NN (/-LRB- guest/NN )/-RRB- within/IN the/DT agent/NN (/-LRB- host/NN )/-RRB- ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT algorithm/NN for/IN computing/VBG embeddings/NNS based/VBN on/IN a/DT reduction/NN to/IN a/DT constraint/NN satisfaction/NN problem/NN ./.
+This/DT algorithm/NN ,/, that/IN we/PRP prove/VBP to/TO be/VB sound/JJ and/CC complete/JJ ,/, has/VBZ been/VBN successfully/RB implemented/VBN in/IN LibBig/NNP ,/, a/DT library/NN for/IN manipulating/VBG bigraphical/JJ reactive/JJ systems/NNS ./.
+This/DT library/NN can/MD be/VB used/VBN for/IN implementing/VBG a/DT wide/JJ range/NN of/IN tools/NNS ,/, and/CC it/PRP can/MD be/VB adapted/VBN to/IN various/JJ extensions/NNS of/IN bigraphs/NNS ./.

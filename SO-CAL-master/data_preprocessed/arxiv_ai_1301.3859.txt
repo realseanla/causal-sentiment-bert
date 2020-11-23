@@ -1,0 +1,9 @@
+Many/JJ intelligent/JJ user/NN interfaces/VBZ employ/VB application/NN and/CC user/NN models/NNS to/TO determine/VB the/DT user/NN 's/POS preferences/NNS ,/, goals/NNS and/CC likely/JJ future/JJ actions/NNS ./.
+Such/JJ models/NNS require/VBP application/NN analysis/NN ,/, adaptation/NN and/CC expansion/NN ./.
+Building/NN and/CC maintaining/VBG such/JJ models/NNS adds/VBZ a/DT substantial/JJ amount/NN of/IN time/NN and/CC labour/NN to/IN the/DT application/NN development/NN cycle/NN ./.
+We/PRP present/VBP a/DT system/NN that/WDT observes/VBZ the/DT interface/NN of/IN an/DT unmodified/JJ application/NN and/CC records/NNS users/NNS '/POS interactions/NNS with/IN the/DT application/NN ./.
+From/IN a/DT history/NN of/IN such/JJ observations/NNS we/PRP build/VBP a/DT coarse/JJ state/NN space/NN of/IN observed/VBN interface/NN states/NNS and/CC actions/NNS between/IN them/PRP ./.
+To/TO refine/VB the/DT space/NN ,/, we/PRP hypothesize/VBP sub-states/NNS based/VBN upon/IN the/DT histories/NNS that/WDT led/VBD users/NNS to/IN a/DT given/VBN state/NN ./.
+We/PRP evaluate/VBP the/DT information/NN gain/NN of/IN possible/JJ state/NN splits/NNS ,/, varying/VBG the/DT length/NN of/IN the/DT histories/NNS considered/VBN in/IN such/JJ splits/NNS ./.
+In/IN this/DT way/NN ,/, we/PRP automatically/RB produce/VBP a/DT stochastic/JJ dynamic/JJ model/NN of/IN the/DT application/NN and/CC of/IN how/WRB it/PRP is/VBZ used/VBN ./.
+To/TO evaluate/VB our/PRP$ approach/NN ,/, we/PRP present/VBP models/NNS derived/VBN from/IN real/JJ -/HYPH world/NN application/NN usage/NN data/NNS ./.

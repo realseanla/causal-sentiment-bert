@@ -1,0 +1,5 @@
+A/DT new/JJ initialization/NN method/NN for/IN hidden/JJ parameters/NNS in/IN a/DT neural/JJ network/NN is/VBZ proposed/VBN ./.
+Derived/VBN from/IN the/DT integral/JJ representation/NN of/IN the/DT neural/JJ network/NN ,/, a/DT nonparametric/JJ probability/NN distribution/NN of/IN hidden/JJ parameters/NNS is/VBZ introduced/VBN ./.
+In/IN this/DT proposal/NN ,/, hidden/VBN parameters/NNS are/VBP initialized/VBN by/IN samples/NNS drawn/VBN from/IN this/DT distribution/NN ,/, and/CC output/NN parameters/NNS are/VBP fitted/VBN by/IN ordinary/JJ linear/JJ regression/NN ./.
+Numerical/NNP experiments/NNS show/VBP that/IN backpropagation/NN with/IN proposed/VBN initialization/NN converges/VBZ faster/JJR than/IN uniformly/RB random/JJ initialization/NN ./.
+Also/RB it/PRP is/VBZ shown/VBN that/IN the/DT proposed/JJ method/NN achieves/VBZ enough/JJ accuracy/NN by/IN itself/PRP without/IN backpropagation/NN in/IN some/DT cases/NNS ./.

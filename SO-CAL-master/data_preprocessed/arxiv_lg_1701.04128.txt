@@ -1,0 +1,5 @@
+We/PRP study/VBP characteristics/NNS of/IN receptive/JJ fields/NNS of/IN units/NNS in/IN deep/JJ convolutional/JJ networks/NNS ./.
+The/DT receptive/JJ field/NN size/NN is/VBZ a/DT crucial/JJ issue/NN in/IN many/JJ visual/JJ tasks/NNS ,/, as/IN the/DT output/NN must/MD respond/VB to/IN large/JJ enough/JJ areas/NNS in/IN the/DT image/NN to/TO capture/VB information/NN about/IN large/JJ objects/NNS ./.
+We/PRP introduce/VBP the/DT notion/NN of/IN an/DT effective/JJ receptive/JJ field/NN ,/, and/CC show/VBP that/IN it/PRP both/DT has/VBZ a/DT Gaussian/JJ distribution/NN and/CC only/RB occupies/VBZ a/DT fraction/NN of/IN the/DT full/JJ theoretical/JJ receptive/JJ field/NN ./.
+We/PRP analyze/VBP the/DT effective/JJ receptive/JJ field/NN in/IN several/JJ architecture/NN designs/NNS ,/, and/CC the/DT effect/NN of/IN nonlinear/JJ activations/NNS ,/, dropout/NN ,/, sub-sampling/NN and/CC skip/VB connections/NNS on/IN it/PRP ./.
+This/DT leads/VBZ to/IN suggestions/NNS for/IN ways/NNS to/TO address/VB its/PRP$ tendency/NN to/TO be/VB too/RB small/JJ ./.

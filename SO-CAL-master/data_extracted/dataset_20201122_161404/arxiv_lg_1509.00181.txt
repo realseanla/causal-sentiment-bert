@@ -1,0 +1,9 @@
+With the rapid growth in multimedia services and the enormous offers of video contents in online social networks, users have difficulty in obtaining their interests.
+Therefore, various personalized recommendation systems have been proposed.
+However, they ignore that the accelerated proliferation of social media data has led to the big data era, which has greatly impeded the process of video recommendation.
+In addition, none of them has considered both the privacy of users' contexts (e,g,.
+social status, ages and hobbies) and video service vendors' repositories, which are extremely sensitive and of significant commercial value.
+To handle the problems, we propose a cloud-assisted differentially private video recommendation system based on distributed online learning.
+In our framework, service vendors are modeled as distributed cooperative learners, recommending videos according to user's context, while simultaneously adapting the video-selection strategy based on user-click feedback to maximize total user clicks (reward).
+Considering the sparsity and heterogeneity of big social media data, we also propose a novel \emph{geometric differentially private} model, which can greatly reduce the performance (recommendation accuracy) loss.
+Our simulation shows the proposed algorithms outperform other existing methods and keep a delicate balance between computing accuracy and privacy preserving level.

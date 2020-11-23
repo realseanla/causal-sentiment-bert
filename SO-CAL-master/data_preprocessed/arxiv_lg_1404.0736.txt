@@ -1,0 +1,5 @@
+We/PRP present/VBP techniques/NNS for/IN speeding/VBG up/RP the/DT test/NN -/HYPH time/NN evaluation/NN of/IN large/JJ convolutional/JJ networks/NNS ,/, designed/VBN for/IN object/NN recognition/NN tasks/NNS ./.
+These/DT models/NNS deliver/VBP impressive/JJ accuracy/NN but/CC each/DT image/NN evaluation/NN requires/VBZ millions/NNS of/IN floating/VBG point/NN operations/NNS ,/, making/VBG their/PRP$ deployment/NN on/IN smartphones/NNS and/CC Internet/NN -/HYPH scale/NN clusters/NNS problematic/JJ ./.
+The/DT computation/NN is/VBZ dominated/VBN by/IN the/DT convolution/NN operations/NNS in/IN the/DT lower/JJR layers/NNS of/IN the/DT model/NN ./.
+We/PRP exploit/VBP the/DT linear/JJ structure/NN present/NN within/IN the/DT convolutional/JJ filters/NNS to/TO derive/VB approximations/NNS that/WDT significantly/RB reduce/VBP the/DT required/VBN computation/NN ./.
+Using/VBG large/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS ,/, we/PRP demonstrate/VBP speedups/NNS by/IN a/DT factor/NN of/IN 2x/NN ,/, while/IN keeping/VBG the/DT accuracy/NN within/IN 1/CD percent/NN of/IN the/DT original/JJ model/NN ./.

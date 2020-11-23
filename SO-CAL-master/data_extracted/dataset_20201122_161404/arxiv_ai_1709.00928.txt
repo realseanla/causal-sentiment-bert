@@ -1,0 +1,5 @@
+Mobile applications are being used every day by more than half of the world's population to perform a great variety of tasks.
+With the increasingly widespread usage of these applications, the need arises for efficient techniques to test them.
+Many frameworks allow automating the process of application testing, however existing frameworks mainly rely on the application developer for providing testing scripts for each developed application, thus preventing reuse of these tests for similar applications.
+In this paper, we present a novel approach for the automation of testing Android applications by leveraging machine learning techniques and reusing popular test scenarios.
+We discuss and demonstrate the potential benefits of our approach in an empirical study where we show that our developed testing tool, based on the proposed approach, outperforms standard methods in realistic settings.

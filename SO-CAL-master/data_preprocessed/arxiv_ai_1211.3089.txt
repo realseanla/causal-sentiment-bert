@@ -1,0 +1,7 @@
+During/IN broadcast/NN events/NNS such/JJ as/IN the/DT Superbowl/NNP ,/, the/DT U.S./NNP Presidential/NNP and/CC Primary/JJ debates/NNS ,/, etc./FW ,/, Twitter/NNP has/VBZ become/VBN the/DT de/FW facto/FW platform/NN for/IN crowds/NNS to/TO share/VB perspectives/NNS and/CC commentaries/NNS about/IN them/PRP ./.
+Given/VBN an/DT event/NN and/CC an/DT associated/VBN large/JJ -/HYPH scale/NN collection/NN of/IN tweets/NNS ,/, there/EX are/VBP two/CD fundamental/JJ research/NN problems/NNS that/WDT have/VBP been/VBN receiving/VBG increasing/VBG attention/NN in/IN recent/JJ years/NNS ./.
+One/CD is/VBZ to/TO extract/VB the/DT topics/NNS covered/VBN by/IN the/DT event/NN and/CC the/DT tweets/NNS ;/: the/DT other/JJ is/VBZ to/IN segment/NN the/DT event/NN ./.
+So/RB far/RB these/DT problems/NNS have/VBP been/VBN viewed/VBN separately/RB and/CC studied/VBN in/IN isolation/NN ./.
+In/IN this/DT work/NN ,/, we/PRP argue/VBP that/IN these/DT problems/NNS are/VBP in/IN fact/NN inter-dependent/JJ and/CC should/MD be/VB addressed/VBN together/RB ./.
+We/PRP develop/VBP a/DT joint/JJ Bayesian/JJ model/NN that/WDT performs/VBZ topic/NN modeling/NN and/CC event/NN segmentation/NN in/IN one/CD unified/VBN framework/NN ./.
+We/PRP evaluate/VBP the/DT proposed/VBN model/NN both/CC quantitatively/RB and/CC qualitatively/RB on/IN two/CD large/JJ -/HYPH scale/NN tweet/NN datasets/NNS associated/VBN with/IN two/CD events/NNS from/IN different/JJ domains/NNS to/TO show/VB that/IN it/PRP improves/VBZ significantly/RB over/IN baseline/NN models/NNS ./.

@@ -1,0 +1,7 @@
+In/IN real/JJ -/HYPH world/NN classification/NN tasks/NNS ,/, it/PRP is/VBZ difficult/JJ to/TO collect/VB samples/NNS of/IN all/DT possible/JJ categories/NNS of/IN the/DT environment/NN in/IN the/DT training/NN stage/NN ./.
+Therefore/RB ,/, the/DT classifier/NN should/MD be/VB prepared/VBN for/IN unseen/JJ classes/NNS ./.
+When/WRB an/DT instance/NN of/IN an/DT unseen/JJ class/NN appears/VBZ in/IN the/DT prediction/NN stage/NN ,/, a/DT robust/JJ classifier/NN should/MD have/VB the/DT ability/NN to/TO tell/VB it/PRP is/VBZ unseen/JJ ,/, instead/RB of/IN classifying/VBG it/PRP to/TO be/VB any/DT known/JJ category/NN ./.
+In/IN this/DT paper/NN ,/, adopting/VBG the/DT idea/NN of/IN adversarial/JJ learning/NN ,/, we/PRP propose/VBP the/DT ASG/NNP framework/NN for/IN open/JJ -/HYPH category/NN classification/NN ./.
+ASG/NN generates/VBZ positive/JJ and/CC negative/JJ samples/NNS of/IN seen/VBN categories/NNS in/IN the/DT unsupervised/JJ manner/NN via/IN an/DT adversarial/JJ learning/NN strategy/NN ./.
+With/IN the/DT generated/VBN samples/NNS ,/, ASG/NNP then/RB learns/VBZ to/TO tell/VB seen/VBN from/IN unseen/JJ in/IN the/DT supervised/JJ manner/NN ./.
+Experiments/NNS performed/VBN on/IN several/JJ datasets/NNS show/VBP the/DT effectiveness/NN of/IN ASG/NNP ./.

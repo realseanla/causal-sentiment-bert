@@ -1,0 +1,7 @@
+One big challenge that hinders the transition of brain-computer interfaces (BCIs) from laboratory settings to real-life applications is the availability of high-performance and robust learning algorithms that can effectively handle individual differences, i.e., algorithms that can be applied to a new subject with zero or very little subject-specific calibration data.
+Transfer learning and domain adaptation have been extensively used for this purpose.
+However, most previous works focused on classification problems.
+This paper considers an important regression problem in BCI, namely, online driver drowsiness estimation from EEG signals.
+By integrating fuzzy sets with domain adaptation, we propose a novel online weighted adaptation regularization for regression (OwARR) algorithm to reduce the amount of subject-specific calibration data, and also a source domain selection (SDS) approach to save about half of the computational cost of OwARR.
+Using a simulated driving dataset with 15 subjects, we show that OwARR and OwARR-SDS can achieve significantly smaller estimation errors than several other approaches.
+We also provide comprehensive analyses on the robustness of OwARR and OwARR-SDS.

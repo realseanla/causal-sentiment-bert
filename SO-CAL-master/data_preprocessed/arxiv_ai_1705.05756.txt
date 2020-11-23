@@ -1,0 +1,9 @@
+This/DT paper/NN describes/VBZ a/DT method/NN for/IN identification/NN of/IN the/DT informative/JJ variables/NNS in/IN the/DT information/NN system/NN with/IN discrete/JJ decision/NN variables/NNS ./.
+It/PRP is/VBZ targeted/VBN specifically/RB towards/IN discovery/NN of/IN the/DT variables/NNS that/WDT are/VBP non-informative/JJ when/WRB considered/VBN alone/RB ,/, but/CC are/VBP informative/JJ when/WRB the/DT synergistic/JJ interactions/NNS between/IN multiple/JJ variables/NNS are/VBP considered/VBN ./.
+To/IN this/DT end/NN ,/, the/DT mutual/JJ entropy/NN of/IN all/DT possible/JJ k/NN -/HYPH tuples/NNS of/IN variables/NNS with/IN decision/NN variable/NN is/VBZ computed/VBN ./.
+Then/RB ,/, for/IN each/DT variable/JJ the/DT maximal/JJ information/NN gain/NN due/IN to/IN interactions/NNS with/IN other/JJ variables/NNS is/VBZ obtained/VBN ./.
+For/IN non-informative/JJ variables/NNS this/DT quantity/NN conforms/VBZ to/IN the/DT well/RB known/VBN statistical/JJ distributions/NNS ./.
+This/DT allows/VBZ for/IN discerning/JJ truly/RB informative/JJ variables/NNS from/IN non-informative/JJ ones/NNS ./.
+For/IN demonstration/NN of/IN the/DT approach/NN ,/, the/DT method/NN is/VBZ applied/VBN to/IN several/JJ synthetic/JJ datasets/NNS that/WDT involve/VBP complex/JJ multidimensional/JJ interactions/NNS between/IN variables/NNS ./.
+It/PRP is/VBZ capable/JJ of/IN identifying/VBG most/RBS important/JJ informative/JJ variables/NNS ,/, even/RB in/IN the/DT case/NN when/WRB the/DT dimensionality/NN of/IN the/DT analysis/NN is/VBZ smaller/JJR than/IN the/DT true/JJ dimensionality/NN of/IN the/DT problem/NN ./.
+What/WP is/VBZ more/JJR ,/, the/DT high/JJ sensitivity/NN of/IN the/DT algorithm/NN allows/VBZ for/IN detection/NN of/IN the/DT influence/NN of/IN nuisance/NN variables/NNS on/IN the/DT response/NN variable/NN ./.

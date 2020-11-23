@@ -1,0 +1,8 @@
+Support/NN Vector/NNP Machines/NNPS (/-LRB- SVMs/NNS )/-RRB- were/VBD primarily/RB designed/VBN for/IN 2/CD -/HYPH class/NN classification/NN ./.
+But/CC they/PRP have/VBP been/VBN extended/VBN for/IN N/NN -/HYPH class/NN classification/NN also/RB based/VBN on/IN the/DT requirement/NN of/IN multiclasses/NNS in/IN the/DT practical/JJ applications/NNS ./.
+Although/IN N/NN -/HYPH class/NN classification/NN using/VBG SVM/NN has/VBZ considerable/JJ research/NN attention/NN ,/, getting/VBG minimum/JJ number/NN of/IN classifiers/NNS at/IN the/DT time/NN of/IN training/NN and/CC testing/NN is/VBZ still/RB a/DT continuing/VBG research/NN ./.
+We/PRP propose/VBP a/DT new/JJ algorithm/NN CBTS/NNP -/HYPH SVM/NNP (/-LRB- Centroid/NNP based/VBN Binary/NNP Tree/NNP Structured/VBN SVM/NN )/-RRB- which/WDT addresses/VBZ this/DT issue/NN ./.
+In/IN this/DT we/PRP build/VBP a/DT binary/JJ tree/NN of/IN SVM/NN models/NNS based/VBN on/IN the/DT similarity/NN of/IN the/DT class/NN labels/NNS by/IN finding/VBG their/PRP$ distance/NN from/IN the/DT corresponding/VBG centroids/NNS at/IN the/DT root/NN level/NN ./.
+The/DT experimental/JJ results/NNS demonstrates/VBZ the/DT comparable/JJ accuracy/NN for/IN CBTS/NNP with/IN OVO/NNP with/IN reasonable/JJ gamma/NN and/CC cost/NN values/NNS ./.
+On/IN the/DT other/JJ hand/NN when/WRB CBTS/NNP is/VBZ compared/VBN with/IN OVA/NN ,/, it/PRP gives/VBZ the/DT better/JJR accuracy/NN with/IN reduced/VBN training/NN time/NN and/CC testing/NN time/NN ./.
+Furthermore/RB CBTS/NNP is/VBZ also/RB scalable/JJ as/IN it/PRP is/VBZ able/JJ to/TO handle/VB the/DT large/JJ data/NN sets/NNS ./.

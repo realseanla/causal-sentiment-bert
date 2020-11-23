@@ -1,0 +1,8 @@
+Academic/JJ researchers/NNS often/RB need/VBP to/TO face/VB with/IN a/DT large/JJ collection/NN of/IN research/NN papers/NNS in/IN the/DT literature/NN ./.
+This/DT problem/NN may/MD be/VB even/RB worse/JJR for/IN postgraduate/JJ students/NNS who/WP are/VBP new/JJ to/IN a/DT field/NN and/CC may/MD not/RB know/VB where/WRB to/TO start/VB ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP have/VBP developed/VBN an/DT online/JJ catalog/NN of/IN research/NN papers/NNS where/WRB the/DT papers/NNS have/VBP been/VBN automatically/RB categorized/VBN by/IN a/DT topic/NN model/NN ./.
+The/DT catalog/NN contains/VBZ 7719/CD papers/NNS from/IN the/DT proceedings/NNS of/IN two/CD artificial/JJ intelligence/NN conferences/NNS from/IN 2000/CD to/IN 2015/CD ./.
+Rather/RB than/IN the/DT commonly/RB used/VBN Latent/JJ Dirichlet/NNP Allocation/NNP ,/, we/PRP use/VBP a/DT recently/RB proposed/VBN method/NN called/VBN hierarchical/JJ latent/JJ tree/NN analysis/NN for/IN topic/NN modeling/NN ./.
+The/DT resulting/VBG topic/NN model/NN contains/VBZ a/DT hierarchy/NN of/IN topics/NNS so/IN that/IN users/NNS can/MD browse/VB the/DT topics/NNS from/IN the/DT top/JJ level/NN to/IN the/DT bottom/JJ level/NN ./.
+The/DT topic/NN model/NN contains/VBZ a/DT manageable/JJ number/NN of/IN general/JJ topics/NNS at/IN the/DT top/JJ level/NN and/CC allows/VBZ thousands/NNS of/IN fine/JJ -/HYPH grained/JJ topics/NNS at/IN the/DT bottom/JJ level/NN ./.
+It/PRP also/RB can/MD detect/VB topics/NNS that/WDT have/VBP emerged/VBN recently/RB ./.

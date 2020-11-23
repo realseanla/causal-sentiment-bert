@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT new/JJ framework/NN for/IN unsupervised/JJ learning/NN of/IN deep/JJ representations/NNS based/VBN on/IN a/DT novel/JJ hierarchical/JJ decomposition/NN of/IN information/NN ./.
+Intuitively/RB ,/, data/NNS is/VBZ passed/VBN through/IN a/DT series/NN of/IN progressively/RB fine/JJ -/HYPH grained/JJ sieves/NNS ./.
+Each/DT layer/NN of/IN the/DT sieve/NN recovers/VBZ a/DT single/JJ latent/JJ factor/NN that/WDT is/VBZ maximally/RB informative/JJ about/IN multivariate/JJ dependence/NN in/IN the/DT data/NNS ./.
+The/DT data/NNS is/VBZ transformed/VBN after/IN each/DT pass/NN so/RB that/IN the/DT remaining/VBG unexplained/JJ information/NN trickles/VBZ down/RP to/IN the/DT next/JJ layer/NN ./.
+Ultimately/RB ,/, we/PRP are/VBP left/VBN with/IN a/DT set/NN of/IN latent/JJ factors/NNS explaining/VBG all/PDT the/DT dependence/NN in/IN the/DT original/JJ data/NNS and/CC remainder/NN information/NN consisting/VBG of/IN independent/JJ noise/NN ./.
+We/PRP present/VBP a/DT practical/JJ implementation/NN of/IN this/DT framework/NN for/IN discrete/JJ variables/NNS and/CC apply/VB it/PRP to/IN a/DT variety/NN of/IN tasks/NNS including/VBG independent/JJ component/NN analysis/NN ,/, lossy/NN and/CC lossless/JJ compression/NN ,/, and/CC predicting/VBG missing/VBG values/NNS in/IN data/NNS ./.

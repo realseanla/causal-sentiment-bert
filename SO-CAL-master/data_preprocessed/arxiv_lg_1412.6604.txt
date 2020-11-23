@@ -1,0 +1,3 @@
+We/PRP propose/VBP a/DT strong/JJ baseline/NN model/NN for/IN unsupervised/JJ feature/NN learning/NN using/VBG video/NN data/NNS ./.
+By/IN learning/VBG to/TO predict/VB missing/VBG frames/NNS or/CC extrapolate/JJ future/JJ frames/NNS from/IN an/DT input/NN video/NN sequence/NN ,/, the/DT model/NN discovers/VBZ both/CC spatial/JJ and/CC temporal/JJ correlations/NNS which/WDT are/VBP useful/JJ to/TO represent/VB complex/JJ deformations/NNS and/CC motion/NN patterns/NNS ./.
+The/DT models/NNS we/PRP propose/VBP are/VBP largely/RB borrowed/VBN from/IN the/DT language/NN modeling/NN literature/NN ,/, and/CC adapted/VBD to/IN the/DT vision/NN domain/NN by/IN quantizing/VBG the/DT space/NN of/IN image/NN patches/NNS into/IN a/DT large/JJ dictionary/NN ./.

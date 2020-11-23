@@ -1,0 +1,4 @@
+We/PRP consider/VBP a/DT partially/RB observable/JJ Markov/NNP decision/NN problem/NN (/-LRB- POMDP/NN )/-RRB- that/WDT models/NNS a/DT class/NN of/IN sequencing/NN problems/NNS ./.
+Although/IN POMDPs/NNS are/VBP typically/RB intractable/JJ ,/, our/PRP$ formulation/NN admits/VBZ tractable/JJ solution/NN ./.
+Instead/RB of/IN maintaining/VBG a/DT value/NN function/NN over/IN a/DT high/JJ -/HYPH dimensional/JJ set/NN of/IN belief/NN states/NNS ,/, we/PRP reduce/VBP the/DT state/NN space/NN to/IN one/CD of/IN smaller/JJR dimension/NN ,/, in/IN which/WDT grid/NN -/HYPH based/VBN dynamic/JJ programming/NN techniques/NNS are/VBP effective/JJ ./.
+We/PRP develop/VBP an/DT error/NN bound/VBN for/IN the/DT resulting/VBG approximation/NN ,/, and/CC discuss/VB an/DT application/NN of/IN the/DT model/NN to/IN a/DT problem/NN in/IN targeted/VBN advertising/NN ./.

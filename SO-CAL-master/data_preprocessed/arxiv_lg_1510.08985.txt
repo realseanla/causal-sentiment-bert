@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP the/DT use/NN of/IN prediction/NN -/HYPH adaptation/NN -/HYPH correction/NN recurrent/JJ neural/JJ networks/NNS (/-LRB- PAC/NN -/HYPH RNNs/NN )/-RRB- for/IN low/JJ -/HYPH resource/NN speech/NN recognition/NN ./.
+A/DT PAC/NN -/HYPH RNN/NN is/VBZ comprised/VBN of/IN a/DT pair/NN of/IN neural/JJ networks/NNS in/IN which/WDT a/DT {/-LRB- \/SYM it/PRP correction/NN }/-RRB- network/NN uses/VBZ auxiliary/JJ information/NN given/VBN by/IN a/DT {/-LRB- \/SYM it/PRP prediction/NN }/-RRB- network/NN to/TO help/VB estimate/VB the/DT state/NN probability/NN ./.
+The/DT information/NN from/IN the/DT correction/NN network/NN is/VBZ also/RB used/VBN by/IN the/DT prediction/NN network/NN in/IN a/DT recurrent/JJ loop/NN ./.
+Our/PRP$ model/NN outperforms/VBZ other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN neural/JJ networks/NNS (/-LRB- DNNs/NNS ,/, LSTMs/NNPS )/-RRB- on/IN IARPA/NNP -/HYPH Babel/NNP tasks/NNS ./.
+Moreover/RB ,/, transfer/NN learning/NN from/IN a/DT language/NN that/WDT is/VBZ similar/JJ to/IN the/DT target/NN language/NN can/MD help/VB improve/VB performance/NN further/RB ./.

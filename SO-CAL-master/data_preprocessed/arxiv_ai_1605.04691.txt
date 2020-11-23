@@ -1,0 +1,6 @@
+We/PRP study/VBP a/DT framework/NN where/WRB agents/NNS have/VBP to/TO avoid/VB aversive/JJ signals/NNS ./.
+The/DT agents/NNS are/VBP given/VBN only/RB partial/JJ information/NN ,/, in/IN the/DT form/NN of/IN features/NNS that/WDT are/VBP projections/NNS of/IN task/NN states/NNS ./.
+Additionally/RB ,/, the/DT agents/NNS have/VBP to/TO cope/VB with/IN non-determinism/NN ,/, defined/VBN as/IN unpredictability/NN on/IN the/DT way/NN that/WDT actions/NNS are/VBP executed/VBN ./.
+The/DT goal/NN of/IN each/DT agent/NN is/VBZ to/TO define/VB its/PRP$ behavior/NN based/VBN on/IN feature/NN -/HYPH action/NN pairs/NNS that/WDT reliably/RB avoid/VBP aversive/JJ signals/NNS ./.
+We/PRP study/VBP a/DT learning/NN algorithm/NN ,/, called/VBN A-learning/NN ,/, that/DT exhibits/VBZ fixpoint/NN convergence/NN ,/, where/WRB the/DT belief/NN of/IN the/DT allowed/VBN feature/NN -/HYPH action/NN pairs/NNS eventually/RB becomes/VBZ fixed/JJ ./.
+A-learning/NN is/VBZ parameter/NN -/HYPH free/JJ and/CC easy/JJ to/TO implement/VB ./.

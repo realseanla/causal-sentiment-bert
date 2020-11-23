@@ -1,0 +1,4 @@
+Many/JJ applications/NNS require/VBP solving/VBG non-linear/JJ control/NN problems/NNS that/WDT are/VBP classically/RB not/RB well/RB behaved/VBN ./.
+This/DT paper/NN develops/VBZ a/DT simple/JJ and/CC efficient/JJ chattering/VBG algorithm/NN that/WDT learns/VBZ near/IN optimal/JJ decision/NN policies/NNS through/IN an/DT open/JJ -/HYPH loop/NN feedback/NN strategy/NN ./.
+The/DT optimal/JJ control/NN problem/NN reduces/VBZ to/IN a/DT series/NN of/IN linear/JJ optimization/NN programs/NNS that/WDT can/MD be/VB easily/RB solved/VBN to/TO recover/VB a/DT relaxed/JJ optimal/JJ trajectory/NN ./.
+This/DT algorithm/NN is/VBZ implemented/VBN on/IN a/DT real/JJ -/HYPH time/NN enterprise/NN scheduling/NN and/CC control/NN process/NN ./.

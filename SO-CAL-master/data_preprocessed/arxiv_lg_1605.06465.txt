@@ -1,0 +1,8 @@
+We/PRP describe/VBP Swapout/NNP ,/, a/DT new/JJ stochastic/JJ training/NN method/NN ,/, that/IN outperforms/VBZ ResNets/NNS of/IN identical/JJ network/NN structure/NN yielding/VBG impressive/JJ results/NNS on/IN CIFAR/NN -/HYPH 10/CD and/CC CIFAR/NN -/HYPH 100/CD ./.
+Swapout/NN samples/NNS from/IN a/DT rich/JJ set/NN of/IN architectures/NNS including/VBG dropout/NN ,/, stochastic/JJ depth/NN and/CC residual/JJ architectures/NNS as/IN special/JJ cases/NNS ./.
+When/WRB viewed/VBN as/IN a/DT regularization/NN method/NN swapout/NN not/RB only/RB inhibits/VBZ co-adaptation/NN of/IN units/NNS in/IN a/DT layer/NN ,/, similar/JJ to/IN dropout/NN ,/, but/CC also/RB across/IN network/NN layers/NNS ./.
+We/PRP conjecture/NN that/WDT swapout/NN achieves/VBZ strong/JJ regularization/NN by/IN implicitly/RB tying/VBG the/DT parameters/NNS across/IN layers/NNS ./.
+When/WRB viewed/VBN as/IN an/DT ensemble/NN training/NN method/NN ,/, it/PRP samples/VBZ a/DT much/JJ richer/JJR set/NN of/IN architectures/NNS than/IN existing/VBG methods/NNS such/JJ as/IN dropout/NN or/CC stochastic/JJ depth/NN ./.
+We/PRP propose/VBP a/DT parameterization/NN that/WDT reveals/VBZ connections/NNS to/TO exiting/VBG architectures/NNS and/CC suggests/VBZ a/DT much/JJ richer/JJR set/NN of/IN architectures/NNS to/TO be/VB explored/VBN ./.
+We/PRP show/VBP that/IN our/PRP$ formulation/NN suggests/VBZ an/DT efficient/JJ training/NN method/NN and/CC validate/VB our/PRP$ conclusions/NNS on/IN CIFAR/NN -/HYPH 10/CD and/CC CIFAR/NN -/HYPH 100/CD matching/VBG state/NN of/IN the/DT art/NN accuracy/NN ./.
+Remarkably/RB ,/, our/PRP$ 32/CD layer/NN wider/JJR model/NN performs/VBZ similar/JJ to/IN a/DT 1001/CD layer/NN ResNet/NNP model/NN ./.

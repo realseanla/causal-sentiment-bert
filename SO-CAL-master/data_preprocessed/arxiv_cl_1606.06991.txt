@@ -1,0 +1,6 @@
+This/DT paper/NN presents/VBZ preliminary/JJ works/NNS on/IN using/VBG Word/NNP Embedding/NNP (/-LRB- word2vec/NN )/-RRB- for/IN query/NN expansion/NN in/IN the/DT context/NN of/IN Personalized/NNP Information/NNP Retrieval/NNP ./.
+Traditionally/RB ,/, word/NN embeddings/NNS are/VBP learned/VBN on/IN a/DT general/JJ corpus/NN ,/, like/IN Wikipedia/NNP ./.
+In/IN this/DT work/NN we/PRP try/VBP to/TO personalize/VB the/DT word/NN embeddings/NNS learning/VBG ,/, by/IN achieving/VBG the/DT learning/NN on/IN the/DT user/NN 's/POS profile/NN ./.
+The/DT word/NN embeddings/NNS are/VBP then/RB in/IN the/DT same/JJ context/NN than/IN the/DT user/NN interests/NNS ./.
+Our/PRP$ proposal/NN is/VBZ evaluated/VBN on/IN the/DT CLEF/NNP Social/NNP Book/NNP Search/VB 2016/CD collection/NN ./.
+The/DT results/NNS obtained/VBN show/VBP that/IN some/DT efforts/NNS should/MD be/VB made/VBN in/IN the/DT way/NN to/TO apply/VB Word/NNP Embedding/NNP in/IN the/DT context/NN of/IN Personalized/NNP Information/NNP Retrieval/NNP ./.

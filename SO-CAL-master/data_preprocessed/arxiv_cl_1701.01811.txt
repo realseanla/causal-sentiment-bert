@@ -1,0 +1,4 @@
+We/PRP introduce/VBP a/DT tree/NN -/HYPH structured/VBN attention/NN neural/JJ network/NN for/IN sentences/NNS and/CC small/JJ phrases/NNS and/CC apply/VB it/PRP to/IN the/DT problem/NN of/IN sentiment/NN classification/NN ./.
+Our/PRP$ model/NN expands/VBZ the/DT current/JJ recursive/JJ models/NNS by/IN incorporating/VBG structural/JJ information/NN around/IN a/DT node/NN of/IN a/DT syntactic/JJ tree/NN using/VBG both/CC bottom/JJ -/HYPH up/NN and/CC top/JJ -/HYPH down/JJ information/NN propagation/NN ./.
+Also/RB ,/, the/DT model/NN utilizes/VBZ structural/JJ attention/NN to/TO identify/VB the/DT most/RBS salient/JJ representations/NNS during/IN the/DT construction/NN of/IN the/DT syntactic/JJ tree/NN ./.
+To/IN our/PRP$ knowledge/NN ,/, the/DT proposed/VBN models/NNS achieve/VBP state/NN of/IN the/DT art/NN performance/NN on/IN the/DT Stanford/NNP Sentiment/NN Treebank/NNP dataset/NN ./.

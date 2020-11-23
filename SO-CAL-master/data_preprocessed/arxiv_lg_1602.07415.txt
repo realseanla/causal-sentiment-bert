@@ -1,0 +1,5 @@
+Gibbs/NNP sampling/NN is/VBZ a/DT Markov/NNP Chain/NNP Monte/NNP Carlo/NNP technique/NN commonly/RB used/VBN for/IN estimating/VBG marginal/JJ distributions/NNS ./.
+To/TO speed/VB up/RP Gibbs/NNP sampling/NN ,/, there/EX has/VBZ recently/RB been/VBN interest/NN in/IN parallelizing/VBG it/PRP by/IN executing/VBG asynchronously/RB ./.
+While/IN empirical/JJ results/NNS suggest/VBP that/IN many/JJ models/NNS can/MD be/VB efficiently/RB sampled/VBN asynchronously/RB ,/, traditional/JJ Markov/NNP chain/NN analysis/NN does/VBZ not/RB apply/VB to/IN the/DT asynchronous/JJ case/NN ,/, and/CC thus/RB asynchronous/JJ Gibbs/NNP sampling/NN is/VBZ poorly/RB understood/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP derive/VBP a/DT better/JJR understanding/NN of/IN the/DT two/CD main/JJ challenges/NNS of/IN asynchronous/JJ Gibbs/NNP :/: sampling/NN bias/NN and/CC mixing/VBG time/NN ./.
+We/PRP show/VBP experimentally/RB that/IN our/PRP$ theoretical/JJ results/NNS match/VBP practical/JJ outcomes/NNS ./.

@@ -1,0 +1,5 @@
+Chain graphs combine directed and undirected graphs and their underlying mathematics combines properties of the two.
+This paper gives a simplified definition of chain graphs based on a hierarchical combination of Bayesian (directed) and Markov (undirected) networks.
+Examples of a chain graph are multivariate feed-forward networks, clustering with conditional interaction between variables, and forms of Bayes classifiers.
+Chain graphs are then extended using the notation of plates so that samples and data analysis problems can be represented in a graphical model as well.
+Implications for learning are discussed in the conclusion.

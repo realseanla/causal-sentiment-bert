@@ -1,0 +1,6 @@
+Programmers/NNS may/MD be/VB hesitant/JJ to/TO use/VB declarative/JJ systems/NNS ,/, because/IN of/IN the/DT associated/VBN learning/NN curve/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT API/NN that/WDT integrates/VBZ the/DT IDP/NNP Knowledge/NNP Base/NNP system/NN into/IN the/DT Python/NNP programming/NN language/NN ./.
+IDP/NNP is/VBZ a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN logical/JJ system/NN ,/, which/WDT uses/VBZ SAT/NNP ,/, SMT/NNP ,/, Logic/NNP Programming/NN and/CC Answer/NN Set/VBN Programming/NN technology/NN ./.
+Python/NN is/VBZ currently/RB one/CD of/IN the/DT most/RBS widely/RB used/VBN (/-LRB- teaching/NN )/-RRB- languages/NNS for/IN programming/NN ./.
+The/DT first/JJ goal/NN of/IN our/PRP$ API/NN is/VBZ to/TO allow/VB a/DT Python/NN programmer/NN to/TO use/VB the/DT declarative/JJ power/NN of/IN IDP/NNP ,/, without/IN needing/VBG to/TO learn/VB any/DT new/JJ syntax/NN or/CC semantics/NNS ./.
+The/DT second/JJ goal/NN is/VBZ allow/VB IDP/NNP to/TO be/VB added/VBN to/IN //HYPH removed/VBN from/IN an/DT existing/VBG code/NN base/NN with/IN minimal/JJ changes/NNS ./.

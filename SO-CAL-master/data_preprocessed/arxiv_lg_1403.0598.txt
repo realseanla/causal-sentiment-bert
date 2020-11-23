@@ -1,0 +1,13 @@
+A/DT commonly/RB used/VBN paradigm/NN for/IN representing/VBG graphs/NNS is/VBZ to/TO use/VB a/DT vector/NN that/WDT contains/VBZ normalized/VBN frequencies/NNS of/IN occurrence/NN of/IN certain/JJ motifs/NNS or/CC sub-graphs/NNS ./.
+This/DT vector/NN representation/NN can/MD be/VB used/VBN in/IN a/DT variety/NN of/IN applications/NNS ,/, such/JJ as/IN ,/, for/IN computing/VBG similarity/NN between/IN graphs/NNS ./.
+The/DT graphlet/NN kernel/NN of/IN Shervashidze/NNP et/FW al./FW [/-LRB- 32/CD ]/-RRB- uses/VBZ induced/VBN sub-graphs/NNS of/IN k/CD nodes/NNS (/-LRB- christened/VBN as/IN graphlets/NNS by/IN Przulj/NNP [/-LRB- 28/CD ]/-RRB- )/-RRB- as/IN motifs/NNS in/IN the/DT vector/NN representation/NN ,/, and/CC computes/VBZ the/DT kernel/NN via/IN a/DT dot/NN product/NN between/IN these/DT vectors/NNS ./.
+One/PRP can/MD easily/RB show/VB that/IN this/DT is/VBZ a/DT valid/JJ kernel/NN between/IN graphs/NNS ./.
+However/RB ,/, such/PDT a/DT vector/NN representation/NN suffers/VBZ from/IN a/DT few/JJ drawbacks/NNS ./.
+As/IN k/CD becomes/VBZ larger/JJR we/PRP encounter/VBP the/DT sparsity/NN problem/NN ;/: most/RBS higher/JJR order/NN graphlets/NNS will/MD not/RB occur/VB in/IN a/DT given/VBN graph/NN ./.
+This/DT leads/VBZ to/IN diagonal/JJ dominance/NN ,/, that/DT is/VBZ ,/, a/DT given/VBN graph/NN is/VBZ similar/JJ to/IN itself/PRP but/CC not/RB to/IN any/DT other/JJ graph/NN in/IN the/DT dataset/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, since/IN lower/JJR order/NN graphlets/NNS tend/VBP to/TO be/VB more/RBR numerous/JJ ,/, using/VBG lower/JJR values/NNS of/IN k/NN does/VBZ not/RB provide/VB enough/JJ discrimination/NN ability/NN ./.
+We/PRP propose/VBP a/DT smoothing/NN technique/NN to/TO tackle/VB the/DT above/JJ problems/NNS ./.
+Our/PRP$ method/NN is/VBZ based/VBN on/IN a/DT novel/JJ extension/NN of/IN Kneser/NNP -/HYPH Ney/NNP and/CC Pitman/NNP -/HYPH Yor/NNP smoothing/VBG techniques/NNS from/IN natural/JJ language/NN processing/NN to/IN graphs/NNS ./.
+We/PRP use/VBP the/DT relationships/NNS between/IN lower/JJR order/NN and/CC higher/JJR order/NN graphlets/NNS in/IN order/NN to/TO derive/VB our/PRP$ method/NN ./.
+Consequently/RB ,/, our/PRP$ smoothing/VBG algorithm/NN not/RB only/RB respects/VBZ the/DT dependency/NN between/IN sub-graphs/NNS but/CC also/RB tackles/VBZ the/DT diagonal/JJ dominance/NN problem/NN by/IN distributing/VBG the/DT probability/NN mass/NN across/IN graphlets/NNS ./.
+In/IN our/PRP$ experiments/NNS ,/, the/DT smoothed/VBN graphlet/NN kernel/NN outperforms/VBZ graph/NN kernels/NNS based/VBN on/IN raw/JJ frequency/NN counts/NNS ./.

@@ -1,0 +1,7 @@
+The/DT stochastic/JJ shortest/JJS path/NN problem/NN (/-LRB- SSP/NN )/-RRB- is/VBZ a/DT highly/RB expressive/JJ model/NN for/IN probabilistic/JJ planning/NN ./.
+The/DT computational/JJ hardness/NN of/IN SSPs/NNS has/VBZ sparked/VBN interest/NN in/IN determinization/NN -/HYPH based/VBN planners/NNS that/WDT can/MD quickly/RB solve/VB large/JJ problems/NNS ./.
+However/RB ,/, existing/VBG methods/NNS employ/VB a/DT simplistic/JJ approach/NN to/IN determinization/NN ./.
+In/IN particular/JJ ,/, they/PRP ignore/VBP the/DT possibility/NN of/IN tailoring/VBG the/DT determinization/NN to/IN the/DT specific/JJ characteristics/NNS of/IN the/DT target/NN domain/NN ./.
+In/IN this/DT work/NN we/PRP examine/VBP this/DT question/NN ,/, by/IN showing/VBG that/IN learning/VBG a/DT good/JJ determinization/NN for/IN a/DT planning/NN domain/NN can/MD be/VB done/VBN efficiently/RB and/CC can/MD improve/VB performance/NN ./.
+Moreover/RB ,/, we/PRP show/VBP how/WRB to/TO directly/RB incorporate/VB probabilistic/JJ reasoning/NN into/IN the/DT planning/NN problem/NN when/WRB a/DT good/JJ determinization/NN is/VBZ not/RB sufficient/JJ by/IN itself/PRP ./.
+Based/VBN on/IN these/DT insights/NNS ,/, we/PRP introduce/VBP a/DT planner/NN ,/, FF/NN -/HYPH LAO/NN */NFP ,/, that/IN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN probabilistic/JJ planners/NNS on/IN several/JJ well/RB -/HYPH known/VBN competition/NN benchmarks/NNS ./.

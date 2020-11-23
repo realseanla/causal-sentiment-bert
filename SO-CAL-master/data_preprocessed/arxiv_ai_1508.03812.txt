@@ -1,0 +1,9 @@
+Uncovering/VBG causal/JJ relationships/NNS in/IN data/NNS is/VBZ a/DT major/JJ objective/NN of/IN data/NNS analytics/NNS ./.
+Causal/JJ relationships/NNS are/VBP normally/RB discovered/VBN with/IN designed/VBN experiments/NNS ,/, e.g./FW randomised/VBN controlled/VBN trials/NNS ,/, which/WDT ,/, however/RB are/VBP expensive/JJ or/CC infeasible/JJ to/TO be/VB conducted/VBN in/IN many/JJ cases/NNS ./.
+Causal/JJ relationships/NNS can/MD also/RB be/VB found/VBN using/VBG some/DT well/RB designed/VBN observational/JJ studies/NNS ,/, but/CC they/PRP require/VBP domain/NN experts/NNS '/POS knowledge/NN and/CC the/DT process/NN is/VBZ normally/RB time/NN consuming/VBG ./.
+Hence/RB there/EX is/VBZ a/DT need/NN for/IN scalable/JJ and/CC automated/VBN methods/NNS for/IN causal/JJ relationship/NN exploration/NN in/IN data/NNS ./.
+Classification/NN methods/NNS are/VBP fast/JJ and/CC they/PRP could/MD be/VB practical/JJ substitutes/NNS for/IN finding/VBG causal/JJ signals/NNS in/IN data/NNS ./.
+However/RB ,/, classification/NN methods/NNS are/VBP not/RB designed/VBN for/IN causal/JJ discovery/NN and/CC a/DT classification/NN method/NN may/MD find/VB false/JJ causal/JJ signals/NNS and/CC miss/VBP the/DT true/JJ ones/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP a/DT causal/JJ decision/NN tree/NN where/WRB nodes/NNS have/VBP causal/JJ interpretations/NNS ./.
+Our/PRP$ method/NN follows/VBZ a/DT well/RB established/VBN causal/JJ inference/NN framework/NN and/CC makes/VBZ use/NN of/IN a/DT classic/JJ statistical/JJ test/NN ./.
+The/DT method/NN is/VBZ practical/JJ for/IN finding/VBG causal/JJ signals/NNS in/IN large/JJ data/NNS sets/NNS ./.

@@ -1,0 +1,7 @@
+A/DT pseudo/JJ independent/JJ (/-LRB- PI/NN )/-RRB- model/NN is/VBZ a/DT probabilistic/JJ domain/NN model/NN (/-LRB- PDM/NN )/-RRB- where/WRB proper/JJ subsets/NNS of/IN a/DT set/NN of/IN collectively/RB dependent/JJ variables/NNS display/VBP marginal/JJ independence/NN ./.
+PI/NN models/NNS can/MD not/RB be/VB learned/VBN correctly/RB by/IN many/JJ algorithms/NNS that/WDT rely/VBP on/IN a/DT single/JJ link/NN search/NN ./.
+Earlier/RBR work/VB on/IN learning/VBG PI/NN models/NNS has/VBZ suggested/VBN a/DT straightforward/JJ multi-link/JJ search/NN algorithm/NN ./.
+However/RB ,/, when/WRB a/DT domain/NN contains/VBZ recursively/RB embedded/VBN PI/NNP submodels/NNS ,/, it/PRP may/MD escape/VB the/DT detection/NN of/IN such/PDT an/DT algorithm/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT improved/VBN algorithm/NN that/WDT ensures/VBZ the/DT learning/NN of/IN all/DT embedded/VBN PI/NN submodels/NNS whose/WP$ sizes/NNS are/VBP upper/JJ bounded/VBN by/IN a/DT predetermined/VBN parameter/NN ./.
+We/PRP show/VBP that/IN this/DT improved/VBN learning/NN capability/NN only/RB increases/VBZ the/DT complexity/NN slightly/RB beyond/IN that/DT of/IN the/DT previous/JJ algorithm/NN ./.
+The/DT performance/NN of/IN the/DT new/JJ algorithm/NN is/VBZ demonstrated/VBN through/IN experiment/NN ./.

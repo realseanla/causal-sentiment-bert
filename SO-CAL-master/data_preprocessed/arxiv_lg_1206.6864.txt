@@ -1,0 +1,14 @@
+In/IN many/JJ cases/NNS it/PRP makes/VBZ sense/NN to/TO model/VB a/DT relationship/NN symmetrically/RB ,/, not/RB implying/VBG any/DT particular/JJ directionality/NN ./.
+Consider/VB the/DT classical/JJ example/NN of/IN a/DT recommendation/NN system/NN where/WRB the/DT rating/NN of/IN an/DT item/NN by/IN a/DT user/NN should/MD symmetrically/RB be/VB dependent/JJ on/IN the/DT attributes/NNS of/IN both/CC the/DT user/NN and/CC the/DT item/NN ./.
+The/DT attributes/NNS of/IN the/DT (/-LRB- known/VBN )/-RRB- relationships/NNS are/VBP also/RB relevant/JJ for/IN predicting/VBG attributes/NNS of/IN entities/NNS and/CC for/IN predicting/VBG attributes/NNS of/IN new/JJ relations/NNS ./.
+In/IN recommendation/NN systems/NNS ,/, the/DT exploitation/NN of/IN relational/JJ attributes/NNS is/VBZ often/RB referred/VBN to/IN as/IN collaborative/JJ filtering/NN ./.
+Again/RB ,/, in/IN many/JJ applications/NNS one/PRP might/MD prefer/VB to/TO model/VB the/DT collaborative/JJ effect/NN in/IN a/DT symmetrical/JJ way/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT relational/JJ model/NN ,/, which/WDT is/VBZ completely/RB symmetrical/JJ ./.
+The/DT key/JJ innovation/NN is/VBZ that/IN we/PRP introduce/VBP for/IN each/DT entity/NN (/-LRB- or/CC object/NN )/-RRB- an/DT infinite/JJ -/HYPH dimensional/JJ latent/JJ variable/NN as/IN part/NN of/IN a/DT Dirichlet/NNP process/NN (/-LRB- DP/NN )/-RRB- model/NN ./.
+We/PRP discuss/VBP inference/NN in/IN the/DT model/NN ,/, which/WDT is/VBZ based/VBN on/IN a/DT DP/NNP Gibbs/NNP sampler/NN ,/, i.e./FW ,/, the/DT Chinese/JJ restaurant/NN process/NN ./.
+We/PRP extend/VBP the/DT Chinese/JJ restaurant/NN process/NN to/TO be/VB applicable/JJ to/IN relational/JJ modeling/NN ./.
+Our/PRP$ approach/NN is/VBZ evaluated/VBN in/IN three/CD applications/NNS ./.
+One/CD is/VBZ a/DT recommendation/NN system/NN based/VBN on/IN the/DT MovieLens/NNPS data/NNS set/VBN ./.
+The/DT second/JJ application/NN concerns/VBZ the/DT prediction/NN of/IN the/DT function/NN of/IN yeast/NN genes/NNS //, proteins/NN on/IN the/DT data/NNS set/NN of/IN KDD/NNP Cup/NNP 2001/CD using/VBG a/DT multi-relational/JJ model/NN ./.
+The/DT third/JJ application/NN involves/VBZ a/DT relational/JJ medical/JJ domain/NN ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN our/PRP$ model/NN gives/VBZ significantly/RB improved/VBN estimates/NNS of/IN attributes/NNS describing/VBG relationships/NNS or/CC entities/NNS in/IN complex/JJ relational/JJ models/NNS ./.

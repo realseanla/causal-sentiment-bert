@@ -1,0 +1,7 @@
+In/IN cooperative/JJ multi-agent/JJ sequential/JJ decision/NN making/VBG under/IN uncertainty/NN ,/, agents/NNS must/MD coordinate/VB to/TO find/VB an/DT optimal/JJ joint/JJ policy/NN that/WDT maximises/VBZ joint/JJ value/NN ./.
+Typical/JJ algorithms/NNS exploit/VBP additive/JJ structure/NN in/IN the/DT value/NN function/NN ,/, but/CC in/IN the/DT fully/RB -/HYPH observable/JJ multi-agent/JJ MDP/NN setting/NN (/-LRB- MMDP/NN )/-RRB- such/JJ structure/NN is/VBZ not/RB present/JJ ./.
+We/PRP propose/VBP a/DT new/JJ optimal/JJ solver/NN for/IN transition/NN -/HYPH independent/JJ MMDPs/NNS ,/, in/IN which/WDT agents/NNS can/MD only/RB affect/VB their/PRP$ own/JJ state/NN but/CC their/PRP$ reward/NN depends/VBZ on/IN joint/JJ transitions/NNS ./.
+We/PRP represent/VBP these/DT dependencies/NNS compactly/RB in/IN conditional/JJ return/NN graphs/NNS (/-LRB- CRGs/NNS )/-RRB- ./.
+Using/VBG CRGs/NNS the/DT value/NN of/IN a/DT joint/JJ policy/NN and/CC the/DT bounds/NNS on/IN partially/RB specified/VBN joint/JJ policies/NNS can/MD be/VB efficiently/RB computed/VBN ./.
+We/PRP propose/VBP CoRe/NNP ,/, a/DT novel/JJ branch/NN -/HYPH and/CC -/HYPH bound/VBN policy/NN search/NN algorithm/NN building/NN on/IN CRGs/NNS ./.
+CoRe/VB typically/RB requires/VBZ less/JJR runtime/NN than/IN the/DT available/JJ alternatives/NNS and/CC finds/VBZ solutions/NNS to/TO problems/NNS previously/RB unsolvable/JJ ./.

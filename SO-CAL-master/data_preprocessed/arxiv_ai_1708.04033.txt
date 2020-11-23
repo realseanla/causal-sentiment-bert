@@ -1,0 +1,6 @@
+High/JJ precision/NN assembly/NN of/IN mechanical/JJ parts/NNS requires/VBZ accuracy/NN exceeding/VBG the/DT robot/NN precision/NN ./.
+Conventional/JJ part/NN mating/NN methods/NNS used/VBN in/IN the/DT current/JJ manufacturing/NN requires/VBZ tedious/JJ tuning/NN of/IN numerous/JJ parameters/NNS before/IN deployment/NN ./.
+We/PRP show/VBP how/WRB the/DT robot/NN can/MD successfully/RB perform/VB a/DT tight/JJ clearance/NN peg/NN -/HYPH in/IN -/HYPH hole/NN task/NN through/IN training/VBG a/DT recurrent/JJ neural/JJ network/NN with/IN reinforcement/NN learning/NN ./.
+In/IN addition/NN to/IN saving/VBG the/DT manual/JJ effort/NN ,/, the/DT proposed/VBN technique/NN also/RB shows/VBZ robustness/NN against/IN position/NN and/CC angle/NN errors/NNS for/IN the/DT peg/NN -/HYPH in/IN -/HYPH hole/NN task/NN ./.
+The/DT neural/JJ network/NN learns/VBZ to/TO take/VB the/DT optimal/JJ action/NN by/IN observing/VBG the/DT robot/NN sensors/NNS to/TO estimate/VB the/DT system/NN state/NN ./.
+The/DT advantages/NNS of/IN our/PRP$ proposed/JJ method/NN is/VBZ validated/VBN experimentally/RB on/IN a/DT 7/CD -/HYPH axis/NN articulated/VBN robot/NN arm/NN ./.

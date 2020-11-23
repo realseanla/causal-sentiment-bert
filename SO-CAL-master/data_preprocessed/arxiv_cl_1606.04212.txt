@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT new/JJ active/JJ learning/NN (/-LRB- AL/NNP )/-RRB- method/NN for/IN text/NN classification/NN based/VBN on/IN convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- ./.
+In/IN AL/NNP ,/, one/CD selects/VBZ the/DT instances/NNS to/TO be/VB manually/RB labeled/VBN with/IN the/DT aim/NN of/IN maximizing/VBG model/NN performance/NN with/IN minimal/JJ effort/NN ./.
+Neural/JJ models/NNS capitalize/VBP on/IN word/NN embeddings/NNS as/IN features/NNS ,/, tuning/VB these/DT to/IN the/DT task/NN at/IN hand/NN ./.
+We/PRP argue/VBP that/IN AL/NNP strategies/NNS for/IN neural/JJ text/NN classification/NN should/MD focus/VB on/IN selecting/VBG instances/NNS that/IN most/JJS affect/VBP the/DT embedding/NN space/NN (/-LRB- i.e./FW ,/, induce/VB discriminative/JJ word/NN representations/NNS )/-RRB- ./.
+This/DT is/VBZ in/IN contrast/NN to/IN traditional/JJ AL/NNP approaches/NNS (/-LRB- e.g./FW ,/, uncertainty/NN sampling/NN )/-RRB- ,/, which/WDT specify/VBP higher/JJR level/NN objectives/NNS ./.
+We/PRP propose/VBP a/DT simple/JJ approach/NN that/WDT selects/VBZ instances/NNS containing/VBG words/NNS whose/WP$ embeddings/NNS are/VBP likely/JJ to/TO be/VB updated/VBN with/IN the/DT greatest/JJS magnitude/NN ,/, thereby/RB rapidly/RB learning/VBG discriminative/JJ ,/, task/NN -/HYPH specific/JJ embeddings/NNS ./.
+Empirical/JJ results/NNS show/VBP that/IN our/PRP$ method/NN outperforms/VBZ baseline/NN AL/NNP approaches/VBZ ./.

@@ -1,0 +1,6 @@
+We/PRP design/VBP an/DT active/JJ learning/NN algorithm/NN for/IN cost/NN -/HYPH sensitive/JJ multiclass/NN classification/NN :/: problems/NNS where/WRB different/JJ errors/NNS have/VBP different/JJ costs/NNS ./.
+Our/PRP$ algorithm/NN ,/, COAL/NN ,/, makes/VBZ predictions/NNS by/IN regressing/VBG on/IN each/DT label/NN 's/POS cost/NN and/CC predicting/VBG the/DT smallest/JJS ./.
+On/IN a/DT new/JJ example/NN ,/, it/PRP uses/VBZ a/DT set/NN of/IN regressors/NNS that/WDT perform/VBP well/RB on/IN past/JJ data/NNS to/TO estimate/VB possible/JJ costs/NNS for/IN each/DT label/NN ./.
+It/PRP queries/VBZ only/RB the/DT labels/NNS that/WDT could/MD be/VB the/DT best/JJS ,/, ignoring/VBG the/DT sure/JJ losers/NNS ./.
+We/PRP prove/VBP COAL/NNP can/MD be/VB efficiently/RB implemented/VBN for/IN any/DT regression/NN family/NN that/WDT admits/VBZ squared/JJ loss/NN optimization/NN ;/: it/PRP also/RB enjoys/VBZ strong/JJ guarantees/NNS with/IN respect/NN to/IN predictive/JJ performance/NN and/CC labeling/NN effort/NN ./.
+We/PRP empirically/RB compare/VBP COAL/NN to/IN passive/JJ learning/NN ,/, showing/VBG significant/JJ improvements/NNS in/IN labeling/NN effort/NN and/CC test/NN cost/NN ./.

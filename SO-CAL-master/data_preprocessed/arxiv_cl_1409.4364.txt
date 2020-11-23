@@ -1,0 +1,6 @@
+Searching/VBG for/IN words/NNS in/IN Sanskrit/NNP E-text/NNP is/VBZ a/DT problem/NN that/WDT is/VBZ accompanied/VBN by/IN complexities/NNS introduced/VBN by/IN features/NNS of/IN Sanskrit/NNP such/JJ as/IN euphonic/JJ conjunctions/NNS or/CC sandhis/NN ./.
+A/DT word/NN could/MD occur/VB in/IN an/DT E-text/NN in/IN a/DT transformed/VBN form/NN owing/VBG to/IN the/DT operation/NN of/IN rules/NNS of/IN sandhi/NNS ./.
+Simple/JJ word/NN search/NN would/MD not/RB yield/VB these/DT transformed/VBN forms/NNS of/IN the/DT word/NN ./.
+Further/RB ,/, there/EX is/VBZ no/DT search/NN engine/NN in/IN the/DT literature/NN that/WDT can/MD comprehensively/RB search/VB for/IN words/NNS in/IN Sanskrit/NNP E-texts/NNPS taking/VBG euphonic/JJ conjunctions/NNS into/IN account/NN ./.
+This/DT work/NN presents/VBZ an/DT optimal/JJ binary/JJ representational/JJ schema/NN for/IN letters/NNS of/IN the/DT Sanskrit/NNP alphabet/NN along/IN with/IN algorithms/NNS to/TO efficiently/RB process/VB the/DT sandhi/JJ rules/NNS of/IN Sanskrit/NNP grammar/NN ./.
+The/DT work/NN further/RBR presents/VBZ an/DT algorithm/NN that/WDT uses/VBZ the/DT sandhi/JJ processing/NN algorithm/NN to/TO perform/VB a/DT comprehensive/JJ word/NN search/NN on/IN E-text/NN ./.

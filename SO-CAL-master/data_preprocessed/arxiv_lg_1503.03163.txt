@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT method/NN for/IN using/VBG synthetic/JJ data/NNS to/TO help/VB learning/VBG classifiers/NNS ./.
+Synthetic/JJ data/NNS ,/, even/RB is/VBZ generated/VBN based/VBN on/IN real/JJ data/NNS ,/, normally/RB results/NNS in/IN a/DT shift/NN from/IN the/DT distribution/NN of/IN real/JJ data/NNS in/IN feature/NN space/NN ./.
+To/TO bridge/VB the/DT gap/NN between/IN the/DT real/JJ and/CC synthetic/JJ data/NNS ,/, and/CC jointly/RB learn/VB from/IN synthetic/JJ and/CC real/JJ data/NNS ,/, this/DT paper/NN proposes/VBZ a/DT Multichannel/NNP Autoencoder/NNP (/-LRB- MCAE/NNP )/-RRB- ./.
+We/PRP show/VBP that/IN by/IN suing/VBG MCAE/NNP ,/, it/PRP is/VBZ possible/JJ to/TO learn/VB a/DT better/JJR feature/NN representation/NN for/IN classification/NN ./.
+To/TO evaluate/VB the/DT proposed/VBN approach/NN ,/, we/PRP conduct/VBP experiments/NNS on/IN two/CD types/NNS of/IN datasets/NNS ./.
+Experimental/JJ results/NNS on/IN two/CD datasets/NNS validate/VBP the/DT efficiency/NN of/IN our/PRP$ MCAE/NNP model/NN and/CC our/PRP$ methodology/NN of/IN generating/VBG synthetic/JJ data/NNS ./.

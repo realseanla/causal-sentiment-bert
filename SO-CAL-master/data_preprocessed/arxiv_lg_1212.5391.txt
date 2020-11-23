@@ -1,0 +1,10 @@
+Lung/NN cancer/NN is/VBZ the/DT deadliest/JJS type/NN of/IN cancer/NN for/IN both/DT men/NNS and/CC women/NNS ./.
+Feature/NN selection/NN plays/VBZ a/DT vital/JJ role/NN in/IN cancer/NN classification/NN ./.
+This/DT paper/NN investigates/VBZ the/DT feature/NN selection/NN process/NN in/IN Computed/VBN Tomographic/NNP (/-LRB- CT/NN )/-RRB- lung/NN cancer/NN images/NNS using/VBG soft/JJ set/NN theory/NN ./.
+We/PRP propose/VBP a/DT new/JJ soft/JJ set/NN based/VBN unsupervised/JJ feature/NN selection/NN algorithm/NN ./.
+Nineteen/CD features/NNS are/VBP extracted/VBN from/IN the/DT segmented/JJ lung/NN images/NNS using/VBG gray/JJ level/NN co-occurence/NN matrix/NN (/-LRB- GLCM/NN )/-RRB- and/CC gray/JJ level/NN different/JJ matrix/NN (/-LRB- GLDM/NN )/-RRB- ./.
+In/IN this/DT paper/NN ,/, an/DT efficient/JJ Unsupervised/JJ Soft/NNP Set/NNP based/VBN Quick/NNP Reduct/NNP (/-LRB- SSUSQR/NNP )/-RRB- algorithm/NN is/VBZ presented/VBN ./.
+This/DT method/NN is/VBZ used/VBN to/TO select/VB features/NNS from/IN the/DT data/NNS set/VBN and/CC compared/VBN with/IN existing/VBG rough/JJ set/NN based/VBN unsupervised/JJ feature/NN selection/NN methods/NNS ./.
+Then/RB K/NNP -/HYPH Means/NNP and/CC Self/NNP Organizing/NNP Map/NNP (/-LRB- SOM/NNP )/-RRB- clustering/NN algorithms/NNS are/VBP used/VBN to/TO cluster/VB the/DT data/NNS ./.
+The/DT performance/NN of/IN the/DT feature/NN selection/NN algorithms/NNS is/VBZ evaluated/VBN based/VBN on/IN performance/NN of/IN clustering/NN techniques/NNS ./.
+The/DT results/NNS show/VBP that/IN the/DT proposed/JJ method/NN effectively/RB removes/VBZ redundant/JJ features/NNS ./.

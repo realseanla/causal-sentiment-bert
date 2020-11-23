@@ -1,0 +1,8 @@
+Recently/RB ,/, sequence/NN -/HYPH to/IN -/HYPH sequence/NN model/NN by/IN using/VBG encoder/NN -/HYPH decoder/NN neural/JJ network/NN has/VBZ gained/VBN popularity/NN for/IN automatic/JJ speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- ./.
+The/DT architecture/NN commonly/RB uses/VBZ an/DT attentional/JJ mechanism/NN which/WDT allows/VBZ the/DT model/NN to/TO learn/VB alignments/NNS between/IN source/NN speech/NN sequence/NN and/CC target/NN text/NN sequence/NN ./.
+Most/JJS attentional/JJ mechanisms/NNS used/VBN today/NN is/VBZ based/VBN on/IN a/DT global/JJ attention/NN property/NN which/WDT requires/VBZ a/DT computation/NN of/IN a/DT weighted/JJ summarization/NN of/IN the/DT whole/JJ input/NN sequence/NN generated/VBN by/IN encoder/NN states/NNS ./.
+However/RB ,/, it/PRP is/VBZ computationally/RB expensive/JJ and/CC often/RB produces/VBZ misalignment/NN on/IN the/DT longer/JJR input/NN sequence/NN ./.
+Furthermore/RB ,/, it/PRP does/VBZ not/RB fit/VB with/IN monotonous/JJ or/CC left/JJ -/HYPH to/TO -/HYPH right/JJ nature/NN in/IN speech/NN recognition/NN task/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ attention/NN mechanism/NN that/WDT has/VBZ local/JJ and/CC monotonic/JJ properties/NNS ./.
+Various/JJ ways/NNS to/TO control/VB those/DT properties/NNS are/VBP also/RB explored/VBN ./.
+Experimental/JJ results/NNS demonstrate/VBP that/IN encoder/NN -/HYPH decoder/NN based/VBN ASR/NNP with/IN local/JJ monotonic/JJ attention/NN could/MD achieve/VB significant/JJ performance/NN improvements/NNS and/CC reduce/VB the/DT computational/JJ complexity/NN in/IN comparison/NN with/IN the/DT one/NN that/WDT used/VBD the/DT standard/JJ global/JJ attention/NN architecture/NN ./.

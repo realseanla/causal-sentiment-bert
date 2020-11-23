@@ -1,0 +1,9 @@
+Diagnosis/NN of/IN a/DT clinical/JJ condition/NN is/VBZ a/DT challenging/JJ task/NN ,/, which/WDT often/RB requires/VBZ significant/JJ medical/JJ investigation/NN ./.
+Previous/JJ work/NN related/VBN to/IN diagnostic/JJ inferencing/NN problems/NNS mostly/RB consider/VBP multivariate/JJ observational/JJ data/NNS (/-LRB- e.g./FW physiological/JJ signals/NNS ,/, lab/NN tests/NNS etc./FW )/-RRB- ./.
+In/IN contrast/NN ,/, we/PRP explore/VBP the/DT problem/NN using/VBG free/JJ -/HYPH text/NN medical/JJ notes/NNS recorded/VBN in/IN an/DT electronic/JJ health/NN record/NN (/-LRB- EHR/NN )/-RRB- ./.
+Complex/JJ tasks/NNS like/IN these/DT can/MD benefit/VB from/IN structured/JJ knowledge/NN bases/NNS ,/, but/CC those/DT are/VBP not/RB scalable/JJ ./.
+We/PRP instead/RB exploit/VBP raw/JJ text/NN from/IN Wikipedia/NNP as/IN a/DT knowledge/NN source/NN ./.
+Memory/NN networks/NNS have/VBP been/VBN demonstrated/VBN to/TO be/VB effective/JJ in/IN tasks/NNS which/WDT require/VBP comprehension/NN of/IN free/JJ -/HYPH form/NN text/NN ./.
+They/PRP use/VBP the/DT final/JJ iteration/NN of/IN the/DT learned/VBN representation/NN to/TO predict/VB probable/JJ classes/NNS ./.
+We/PRP introduce/VBP condensed/VBN memory/NN neural/JJ networks/NNS (/-LRB- C/NN -/HYPH MemNNs/NN )/-RRB- ,/, a/DT novel/JJ model/NN with/IN iterative/JJ condensation/NN of/IN memory/NN representations/NNS that/WDT preserves/VBZ the/DT hierarchy/NN of/IN features/NNS in/IN the/DT memory/NN ./.
+Experiments/NNS on/IN the/DT MIMIC/NNP -/HYPH III/NNP dataset/NN show/NN that/IN the/DT proposed/VBN model/NN outperforms/VBZ other/JJ variants/NNS of/IN memory/NN networks/NNS to/TO predict/VB the/DT most/RBS probable/JJ diagnoses/NNS given/VBN a/DT complex/JJ clinical/JJ scenario/NN ./.

@@ -1,0 +1,6 @@
+This/DT paper/NN presents/VBZ an/DT approach/NN combining/VBG lexico/NN -/HYPH semantic/JJ resources/NNS and/CC distributed/VBN representations/NNS of/IN words/NNS applied/VBN to/IN the/DT evaluation/NN in/IN machine/NN translation/NN (/-LRB- MT/NN )/-RRB- ./.
+This/DT study/NN is/VBZ made/VBN through/IN the/DT enrichment/NN of/IN a/DT well/RB -/HYPH known/VBN MT/NN evaluation/NN metric/NN :/: METEOR/NNP ./.
+This/DT metric/JJ enables/VBZ an/DT approximate/JJ match/NN (/-LRB- synonymy/NN or/CC morphological/JJ similarity/NN )/-RRB- between/IN an/DT automatic/JJ and/CC a/DT reference/NN translation/NN ./.
+Our/PRP$ experiments/NNS are/VBP made/VBN in/IN the/DT framework/NN of/IN the/DT Metrics/NNP task/NN of/IN WMT/NNP 2014/CD ./.
+We/PRP show/VBP that/IN distributed/VBN representations/NNS are/VBP a/DT good/JJ alternative/NN to/IN lexico/NN -/HYPH semantic/JJ resources/NNS for/IN MT/NN evaluation/NN and/CC they/PRP can/MD even/RB bring/VB interesting/JJ additional/JJ information/NN ./.
+The/DT augmented/VBN versions/NNS of/IN METEOR/NNP ,/, using/VBG vector/NN representations/NNS ,/, are/VBP made/VBN available/JJ on/IN our/PRP$ Github/NNP page/NN ./.

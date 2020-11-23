@@ -1,0 +1,7 @@
+Open/VB domain/NN Question/NN Answering/VBG (/-LRB- QA/NNP )/-RRB- systems/NNS must/MD interact/VB with/IN external/JJ knowledge/NN sources/NNS ,/, such/JJ as/IN web/NN pages/NNS ,/, to/TO find/VB relevant/JJ information/NN ./.
+Information/NN sources/NNS like/IN Wikipedia/NNP ,/, however/RB ,/, are/VBP not/RB well/RB structured/JJ and/CC difficult/JJ to/TO utilize/VB in/IN comparison/NN with/IN Knowledge/NN Bases/NNS (/-LRB- KBs/NNS )/-RRB- ./.
+In/IN this/DT work/NN we/PRP present/VBP a/DT two/CD -/HYPH step/NN approach/NN to/IN question/NN answering/VBG from/IN unstructured/JJ text/NN ,/, consisting/VBG of/IN a/DT retrieval/NN step/NN and/CC a/DT comprehension/NN step/NN ./.
+For/IN comprehension/NN ,/, we/PRP present/VBP an/DT RNN/NN based/VBN attention/NN model/NN with/IN a/DT novel/JJ mixture/NN mechanism/NN for/IN selecting/VBG answers/NNS from/IN either/CC retrieved/VBN articles/NNS or/CC a/DT fixed/VBN vocabulary/NN ./.
+For/IN retrieval/NN we/PRP introduce/VBP a/DT hand/NN -/HYPH crafted/VBN model/NN and/CC a/DT neural/JJ model/NN for/IN ranking/VBG relevant/JJ articles/NNS ./.
+We/PRP achieve/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN W/JJ IKI/NN M/NN OVIES/NN dataset/NN ,/, reducing/VBG the/DT error/NN by/IN 40/CD percent/NN ./.
+Our/PRP$ experimental/JJ results/NNS further/RB demonstrate/VBP the/DT importance/NN of/IN each/DT of/IN the/DT introduced/VBN components/NNS ./.

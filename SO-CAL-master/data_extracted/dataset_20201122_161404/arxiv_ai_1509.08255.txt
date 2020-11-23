@@ -1,0 +1,4 @@
+In the decade since Jeff Hawkins proposed Hierarchical Temporal Memory (HTM) as a model of neocortical computation, the theory and the algorithms have evolved dramatically.
+This paper presents a detailed description of HTM's Cortical Learning Algorithm (CLA), including for the first time a rigorous mathematical formulation of all aspects of the computations.
+Prediction Assisted CLA (paCLA), a refinement of the CLA is presented, which is both closer to the neuroscience and adds significantly to the computational power.
+Finally, we summarise the key functions of neocortex which are expressed in paCLA implementations.

@@ -1,0 +1,8 @@
+Arabizi/NNP is/VBZ Arabic/JJ text/NN that/WDT is/VBZ written/VBN using/VBG Latin/JJ characters/NNS ./.
+Arabizi/NNP is/VBZ used/VBN to/TO present/VB both/DT Modern/NNP Standard/NNP Arabic/NNP (/-LRB- MSA/NNP )/-RRB- or/CC Arabic/JJ dialects/NNS ./.
+It/PRP is/VBZ commonly/RB used/VBN in/IN informal/JJ settings/NNS such/JJ as/IN social/JJ networking/NN sites/NNS and/CC is/VBZ often/RB with/IN mixed/JJ with/IN English/NNP ./.
+In/IN this/DT paper/NN we/PRP address/VBP the/DT problems/NNS of/IN :/: identifying/VBG Arabizi/NNP in/IN text/NN and/CC converting/VBG it/PRP to/IN Arabic/NNP characters/NNS ./.
+We/PRP used/VBD word/NN and/CC sequence/NN -/HYPH level/NN features/NNS to/TO identify/VB Arabizi/NNP that/WDT is/VBZ mixed/VBN with/IN English/NNP ./.
+We/PRP achieved/VBD an/DT identification/NN accuracy/NN of/IN 98.5/CD percent/NN ./.
+As/IN for/IN conversion/NN ,/, we/PRP used/VBD transliteration/NN mining/NN with/IN language/NN modeling/NN to/TO generate/VB equivalent/JJ Arabic/JJ text/NN ./.
+We/PRP achieved/VBD 88.7/CD percent/NN conversion/NN accuracy/NN ,/, with/IN roughly/RB a/DT third/NN of/IN errors/NNS being/VBG spelling/NN and/CC morphological/JJ variants/NNS of/IN the/DT forms/NNS in/IN ground/NN truth/NN ./.

@@ -1,0 +1,3 @@
+Stochastic local search (SLS) algorithms have exhibited great effectiveness in finding models of random instances of the Boolean satisfiability problem (SAT).
+As one of the most widely known and used SLS algorithm,WalkSAT plays a key role in the evolutions of SLS for SAT, and also hold state-ofthe- art performance on random instances.
+This work proposes a novel implementation forWalkSAT which decreases the redundant calculations leading to a dramatically speeding up, thus dominates the latest version of WalkSAT including its advanced variants.

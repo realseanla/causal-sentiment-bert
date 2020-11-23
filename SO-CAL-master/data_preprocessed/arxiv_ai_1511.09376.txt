@@ -1,0 +1,7 @@
+Studying/VBG characters/NNS plays/VBZ a/DT vital/JJ role/NN in/IN computationally/RB representing/VBG and/CC interpreting/VBG narratives/NNS ./.
+Unlike/IN previous/JJ work/NN ,/, which/WDT has/VBZ focused/VBN on/IN inferring/VBG character/NN roles/NNS ,/, we/PRP focus/VBP on/IN the/DT problem/NN of/IN modeling/VBG their/PRP$ relationships/NNS ./.
+Rather/RB than/IN assuming/VBG a/DT fixed/VBN relationship/NN for/IN a/DT character/NN pair/NN ,/, we/PRP hypothesize/VBP that/IN relationships/NNS are/VBP dynamic/JJ and/CC temporally/RB evolve/VB with/IN the/DT progress/NN of/IN the/DT narrative/NN ,/, and/CC formulate/VB the/DT problem/NN of/IN relationship/NN modeling/NN as/IN a/DT structured/JJ prediction/NN problem/NN ./.
+We/PRP propose/VBP a/DT semi-supervised/JJ framework/NN to/TO learn/VB relationship/NN sequences/NNS from/IN fully/RB as/RB well/RB as/IN partially/RB labeled/VBN data/NNS ./.
+We/PRP present/VBP a/DT Markovian/JJ model/NN capable/JJ of/IN accumulating/VBG historical/JJ beliefs/NNS about/IN the/DT relationship/NN and/CC status/NN changes/NNS ./.
+We/PRP use/VBP a/DT set/NN of/IN rich/JJ linguistic/JJ and/CC semantically/RB motivated/JJ features/NNS that/WDT incorporate/VBP world/NN knowledge/NN to/TO investigate/VB the/DT textual/JJ content/NN of/IN narrative/NN ./.
+We/PRP empirically/RB demonstrate/VBP that/IN such/PDT a/DT framework/NN outperforms/VBZ competitive/JJ baselines/NNS ./.

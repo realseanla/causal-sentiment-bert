@@ -1,0 +1,6 @@
+Online/JJ sparse/JJ linear/JJ regression/NN is/VBZ an/DT online/JJ problem/NN where/WRB an/DT algorithm/NN repeatedly/RB chooses/VBZ a/DT subset/NN of/IN coordinates/NNS to/TO observe/VB in/IN an/DT adversarially/RB chosen/VBN feature/NN vector/NN ,/, makes/VBZ a/DT real/JJ -/HYPH valued/VBN prediction/NN ,/, receives/VBZ the/DT true/JJ label/NN ,/, and/CC incurs/VBZ the/DT squared/JJ loss/NN ./.
+The/DT goal/NN is/VBZ to/TO design/VB an/DT online/JJ learning/NN algorithm/NN with/IN sublinear/NN regret/NN to/IN the/DT best/JJS sparse/JJ linear/JJ predictor/NN in/IN hindsight/NN ./.
+Without/IN any/DT assumptions/NNS ,/, this/DT problem/NN is/VBZ known/VBN to/TO be/VB computationally/RB intractable/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP make/VBP the/DT assumption/NN that/IN data/NNS matrix/NN satisfies/VBZ restricted/JJ isometry/NN property/NN ,/, and/CC show/VBP that/IN this/DT assumption/NN leads/VBZ to/IN computationally/RB efficient/JJ algorithms/NNS with/IN sublinear/NN regret/NN for/IN two/CD variants/NNS of/IN the/DT problem/NN ./.
+In/IN the/DT first/JJ variant/NN ,/, the/DT true/JJ label/NN is/VBZ generated/VBN according/VBG to/IN a/DT sparse/JJ linear/JJ model/NN with/IN additive/JJ Gaussian/JJ noise/NN ./.
+In/IN the/DT second/JJ ,/, the/DT true/JJ label/NN is/VBZ chosen/VBN adversarially/RB ./.

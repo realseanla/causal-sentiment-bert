@@ -1,0 +1,6 @@
+This paper introduces and studies a declarative framework for updating views over indefinite databases.
+An indefinite database is a database with null values that are represented, following the standard database approach, by a single null constant.
+The paper formalizes views over such databases as indefinite deductive databases, and defines for them several classes of database repairs that realize view-update requests.
+Most notable is the class of constrained repairs.
+Constrained repairs change the database "minimally" and avoid making arbitrary commitments.
+They narrow down the space of alternative ways to fulfill the view-update request to those that are grounded, in a certain strong sense, in the database, the view and the view-update request.

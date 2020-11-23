@@ -1,0 +1,8 @@
+Since/IN its/PRP$ inception/NN ,/, the/DT modus/NN operandi/NN of/IN multi-task/VB learning/NN (/-LRB- MTL/NN )/-RRB- has/VBZ been/VBN to/TO minimize/VB the/DT task-wise/JJ mean/NN of/IN the/DT empirical/JJ risks/NNS ./.
+We/PRP introduce/VBP a/DT generalized/VBN loss/NN -/HYPH compositional/JJ paradigm/NN for/IN MTL/NN that/WDT includes/VBZ a/DT spectrum/NN of/IN formulations/NNS as/IN a/DT subfamily/NN ./.
+One/CD endpoint/NN of/IN this/DT spectrum/NN is/VBZ minimax/JJ MTL/NN :/: a/DT new/JJ MTL/NN formulation/NN that/WDT minimizes/VBZ the/DT maximum/NN of/IN the/DT tasks/NNS '/POS empirical/JJ risks/NNS ./.
+Via/NNP a/DT certain/JJ relaxation/NN of/IN minimax/NN MTL/NN ,/, we/PRP obtain/VBP a/DT continuum/NN of/IN MTL/NN formulations/NNS spanning/VBG minimax/NN MTL/NN and/CC classical/JJ MTL/NN ./.
+The/DT full/JJ paradigm/NN itself/PRP is/VBZ loss/NN -/HYPH compositional/JJ ,/, operating/VBG on/IN the/DT vector/NN of/IN empirical/JJ risks/NNS ./.
+It/PRP incorporates/VBZ minimax/NN MTL/NN ,/, its/PRP$ relaxations/NNS ,/, and/CC many/JJ new/JJ MTL/NN formulations/NNS as/IN special/JJ cases/NNS ./.
+We/PRP show/VBP theoretically/RB that/IN minimax/NN MTL/NN tends/VBZ to/TO avoid/VB worst/JJS case/NN outcomes/NNS on/IN newly/RB drawn/VBN test/NN tasks/NNS in/IN the/DT learning/NN to/TO learn/VB (/-LRB- LTL/NN )/-RRB- test/NN setting/NN ./.
+The/DT results/NNS of/IN several/JJ MTL/NN formulations/NNS on/IN synthetic/JJ and/CC real/JJ problems/NNS in/IN the/DT MTL/NN and/CC LTL/NN test/NN settings/NNS are/VBP encouraging/VBG ./.

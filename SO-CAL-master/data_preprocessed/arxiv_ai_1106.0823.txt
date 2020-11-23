@@ -1,0 +1,14 @@
+We/PRP present/VBP four/CD methods/NNS for/IN recovering/VBG the/DT epipolar/JJ geometry/NN from/IN images/NNS of/IN smooth/JJ surfaces/NNS ./.
+Existing/VBG methods/NNS for/IN recovering/VBG epipolar/JJ geometry/NN use/NN corresponding/VBG feature/NN points/NNS that/WDT can/MD not/RB be/VB found/VBN in/IN such/JJ images/NNS ./.
+The/DT first/JJ method/NN is/VBZ based/VBN on/IN finding/VBG corresponding/VBG characteristic/JJ points/NNS created/VBN by/IN illumination/NN (/-LRB- ICPM/NN -/HYPH illumination/NN characteristic/JJ points/NNS method/NN )/-RRB- ./.
+The/DT second/JJ method/NN is/VBZ based/VBN on/IN correspondent/NN tangency/NN points/NNS created/VBN by/IN tangents/NNS from/IN epipoles/NNS to/TO outline/VB of/IN smooth/JJ bodies/NNS (/-LRB- OTPM/NN -/HYPH outline/NN tangent/NN points/NNS method/NN )/-RRB- ./.
+These/DT two/CD methods/NNS are/VBP exact/JJ and/CC give/VB correct/JJ results/NNS for/IN real/JJ images/NNS ,/, because/IN positions/NNS of/IN the/DT corresponding/VBG illumination/NN characteristic/JJ points/NNS and/CC corresponding/VBG outline/NN are/VBP known/VBN with/IN small/JJ errors/NNS ./.
+But/CC the/DT second/JJ method/NN is/VBZ limited/VBN either/RB to/IN special/JJ type/NN of/IN scenes/NNS or/CC to/IN restricted/JJ camera/NN motion/NN ./.
+We/PRP also/RB consider/VBP two/CD else/JJ methods/NNS ,/, termed/VBN CCPM/NN (/-LRB- curve/NN characteristic/JJ points/NNS method/NN )/-RRB- and/CC CTPM/NN (/-LRB- curve/NN tangent/NN points/NNS method/NN )/-RRB- ,/, for/IN search/NN epipolar/JJ geometry/NN for/IN images/NNS of/IN smooth/JJ bodies/NNS based/VBN on/IN a/DT set/NN of/IN level/NN curves/NNS with/IN a/DT constant/JJ illumination/NN intensity/NN ./.
+The/DT CCPM/NN method/NN is/VBZ based/VBN on/IN search/NN correspondent/NN points/NNS on/IN isophoto/NN curves/NNS with/IN the/DT help/NN of/IN correlation/NN of/IN curvatures/NNS between/IN these/DT lines/NNS ./.
+The/DT CTPM/NN method/NN is/VBZ based/VBN on/IN property/NN of/IN the/DT tangential/JJ to/IN isophoto/NN curve/NN epipolarline/NN to/TO map/VB into/IN the/DT tangential/JJ to/IN correspondent/NN isophoto/NN curves/NNS epipolar/JJ line/NN ./.
+Unfortunately/RB these/DT two/CD methods/NNS give/VBP us/PRP only/RB finite/VBP subset/NN of/IN solution/NN ,/, which/WDT usually/RB include/VBP "/`` good/JJ "/'' solution/NN ,/, but/CC do/VBP n't/RB allow/VB us/PRP to/TO find/VB this/DT "/`` good/JJ "/'' solution/NN among/IN this/DT subset/NN ./.
+Exception/NN is/VBZ the/DT case/NN of/IN epipoles/NNS in/IN infinity/NN ./.
+The/DT main/JJ reason/NN for/IN such/JJ result/NN is/VBZ inexactness/NN of/IN constant/JJ brightness/NN assumption/NN for/IN smooth/JJ bodies/NNS ./.
+But/CC outline/NN and/CC illumination/NN characteristic/JJ points/NNS are/VBP not/RB influenced/VBN this/DT inexactness/NN ./.
+So/RB the/DT first/JJ pair/NN of/IN methods/NNS gives/VBZ exact/JJ result/NN ./.

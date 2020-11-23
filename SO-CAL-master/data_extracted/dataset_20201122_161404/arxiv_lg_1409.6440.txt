@@ -1,0 +1,7 @@
+A fast Non-linear and non-iterative learning and classification algorithm is synthesized and validated.
+This algorithm named the "Reverse Ripple Effect(R.R.E)", achieves 100 percent learning accuracy but is computationally expensive upon classification.
+The R.R.E is a (deterministic) algorithm that super imposes Gaussian weighted functions on training points.
+In this work, the R.R.E algorithm is compared against known learning and classification techniques/algorithms such as: the Perceptron Criterion algorithm, Linear Support Vector machines, the Linear Fisher Discriminant and a simple Neural Network.
+The classification accuracy of the R.R.E algorithm is evaluated using simulations conducted in MATLAB.
+The R.R.E algorithm's behaviour is analyzed under linearly and non-linearly separable data sets.
+For the comparison with the Neural Network, the classical XOR problem is considered.

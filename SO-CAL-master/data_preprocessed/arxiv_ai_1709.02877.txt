@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP :/: (/-LRB- a/LS )/-RRB- a/DT restart/VB schedule/NN for/IN an/DT adaptive/JJ simulated/JJ annealer/NN ,/, and/CC (/-LRB- b/LS )/-RRB- parallel/JJ simulated/JJ annealing/NN ,/, with/IN an/DT adaptive/JJ and/CC parameter/NN -/HYPH free/JJ annealing/NN schedule/NN ./.
+The/DT foundation/NN of/IN our/PRP$ approach/NN is/VBZ the/DT Modified/VBN Lam/NN annealing/VBG schedule/NN ,/, which/WDT adaptively/RB controls/VBZ the/DT temperature/NN parameter/NN to/TO track/VB a/DT theoretically/RB ideal/JJ rate/NN of/IN acceptance/NN of/IN neighboring/NN states/NNS ./.
+A/DT sequential/JJ implementation/NN of/IN Modified/VBN Lam/NNP simulated/JJ annealing/NN is/VBZ almost/RB parameter/NN -/HYPH free/JJ ./.
+However/RB ,/, it/PRP requires/VBZ prior/JJ knowledge/NN of/IN the/DT annealing/VBG length/NN ./.
+We/PRP eliminate/VBP this/DT parameter/NN using/VBG restarts/NNS ,/, with/IN an/DT exponentially/RB increasing/VBG schedule/NN of/IN annealing/VBG lengths/NNS ./.
+We/PRP then/RB extend/VBP this/DT restart/VB schedule/NN to/IN parallel/JJ implementation/NN ,/, executing/VBG several/JJ Modified/VBN Lam/NNP simulated/VBN annealers/NNS in/IN parallel/NN ,/, with/IN varying/VBG initial/JJ annealing/VBG lengths/NNS ,/, and/CC our/PRP$ proposed/VBN parallel/NN annealing/VBG length/NN schedule/NN ./.
+To/TO validate/VB our/PRP$ approach/NN ,/, we/PRP conduct/VBP experiments/NNS on/IN an/DT NP/NNP -/HYPH Hard/NNP scheduling/NN problem/NN with/IN sequence/NN -/HYPH dependent/JJ setup/NN constraints/NNS ./.
+We/PRP compare/VBP our/PRP$ approach/NN to/IN fixed/VBN length/NN restarts/NNS ,/, both/CC sequentially/RB and/CC in/IN parallel/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN our/PRP$ approach/NN can/MD achieve/VB substantial/JJ performance/NN gains/NNS ,/, throughout/IN the/DT course/NN of/IN the/DT run/NN ,/, demonstrating/VBG our/PRP$ approach/NN to/TO be/VB an/DT effective/JJ anytime/NN algorithm/NN ./.

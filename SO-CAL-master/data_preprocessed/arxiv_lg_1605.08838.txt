@@ -1,0 +1,5 @@
+We/PRP consider/VBP online/JJ content/JJ recommendation/NN with/IN implicit/JJ feedback/NN through/IN pairwise/JJ comparisons/NNS ./.
+We/PRP study/VBP a/DT new/JJ formulation/NN of/IN the/DT dueling/VBG bandit/NN problems/NNS in/IN which/WDT arms/NNS are/VBP dependent/JJ and/CC regret/NN occurs/VBZ when/WRB neither/CC pulled/VBN arm/NN is/VBZ optimal/JJ ./.
+We/PRP propose/VBP a/DT new/JJ algorithm/NN ,/, Comparing/VBG The/DT Best/JJS (/-LRB- CTB/NNP )/-RRB- ,/, with/IN computational/JJ requirements/NNS appropriate/JJ for/IN problems/NNS with/IN few/JJ arms/NNS ,/, and/CC a/DT variation/NN of/IN this/DT algorithm/NN whose/WP$ computation/NN scales/NNS to/IN problems/NNS with/IN many/JJ arms/NNS ./.
+We/PRP show/VBP both/CC algorithms/NNS have/VBP constant/JJ expected/VBN cumulative/JJ regret/NN ./.
+We/PRP demonstrate/VBP through/IN numerical/JJ experiments/NNS on/IN simulated/JJ and/CC real/JJ dataset/NN that/WDT these/DT algorithms/NNS improve/VBP significantly/RB over/IN existing/VBG algorithms/NNS in/IN the/DT setting/NN we/PRP study/VBP ./.

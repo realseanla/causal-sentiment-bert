@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT scalable/JJ parallel/JJ solver/NN for/IN numerical/JJ constraint/NN satisfaction/NN problems/NNS (/-LRB- NCSPs/NNS )/-RRB- ./.
+Our/PRP$ parallelization/NN scheme/NN consists/VBZ of/IN homogeneous/JJ worker/NN solvers/NNS ,/, each/DT of/IN which/WDT runs/VBZ on/IN an/DT available/JJ core/NN and/CC communicates/VBZ with/IN others/NNS via/IN the/DT global/JJ load/NN balancing/NN (/-LRB- GLB/NN )/-RRB- method/NN ./.
+The/DT parallel/JJ solver/NN is/VBZ implemented/VBN with/IN X10/NN that/WDT provides/VBZ an/DT implementation/NN of/IN GLB/NN as/IN a/DT library/NN ./.
+In/IN experiments/NNS ,/, several/JJ NCSPs/NNS from/IN the/DT literature/NN were/VBD solved/VBN and/CC attained/VBN up/RP to/IN 516-fold/JJ speedup/NN using/VBG 600/CD cores/NNS of/IN the/DT TSUBAME2/NN .5/CD supercomputer/NN ./.

@@ -1,0 +1,5 @@
+We/PRP present/VBP BayeSum/NNP (/-LRB- for/IN ``/`` Bayesian/JJ summarization/NN ''/'' )/-RRB- ,/, a/DT model/NN for/IN sentence/NN extraction/NN in/IN query/NN -/HYPH focused/VBN summarization/NN ./.
+BayeSum/NNP leverages/VBZ the/DT common/JJ case/NN in/IN which/WDT multiple/JJ documents/NNS are/VBP relevant/JJ to/IN a/DT single/JJ query/NN ./.
+Using/VBG these/DT documents/NNS as/IN reinforcement/NN for/IN query/NN terms/NNS ,/, BayeSum/NNP is/VBZ not/RB afflicted/VBN by/IN the/DT paucity/NN of/IN information/NN in/IN short/JJ queries/NNS ./.
+We/PRP show/VBP that/IN approximate/JJ inference/NN in/IN BayeSum/NNP is/VBZ possible/JJ on/IN large/JJ data/NNS sets/NNS and/CC results/NNS in/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN summarization/NN system/NN ./.
+Furthermore/RB ,/, we/PRP show/VBP how/WRB BayeSum/NNP can/MD be/VB understood/VBN as/IN a/DT justified/JJ query/NN expansion/NN technique/NN in/IN the/DT language/NN modeling/NN for/IN IR/NN framework/NN ./.

@@ -1,0 +1,4 @@
+Basically, in (one-player) war Real Time Strategy (wRTS) games a human player controls, in real time, an army consisting of a number of soldiers and her aim is to destroy the opponent's assets where the opponent is a virtual (i.e., non-human player controlled) player that usually consists of a pre-programmed decision-making script.
+These scripts have usually associated some well-known problems (e.g., predictability, non-rationality, repetitive behaviors, and sensation of artificial stupidity among others).
+This paper describes a method for the automatic generation of virtual players that adapt to the player skills; this is done by building initially a model of the player behavior in real time during the game, and further evolving the virtual player via this model in-between two games.
+The paper also shows preliminary results obtained on a one player wRTS game constructed specifically for experimentation.

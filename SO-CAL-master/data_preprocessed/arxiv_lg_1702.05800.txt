@@ -1,0 +1,5 @@
+Distributed/VBN training/NN of/IN deep/JJ learning/NN models/NNS on/IN large/JJ -/HYPH scale/NN training/NN data/NNS is/VBZ typically/RB conducted/VBN with/IN asynchronous/JJ stochastic/JJ optimization/NN to/TO maximize/VB the/DT rate/NN of/IN updates/NNS ,/, at/IN the/DT cost/NN of/IN additional/JJ noise/NN introduced/VBN from/IN asynchrony/NN ./.
+In/IN contrast/NN ,/, the/DT synchronous/JJ approach/NN is/VBZ often/RB thought/VBN to/TO be/VB impractical/JJ due/IN to/IN idle/JJ time/NN wasted/VBN on/IN waiting/VBG for/IN straggling/VBG workers/NNS ./.
+We/PRP revisit/VBP these/DT conventional/JJ beliefs/NNS in/IN this/DT paper/NN ,/, and/CC examine/VBP the/DT weaknesses/NNS of/IN both/DT approaches/NNS ./.
+We/PRP demonstrate/VBP that/IN a/DT third/JJ approach/NN ,/, synchronous/JJ optimization/NN with/IN backup/JJ workers/NNS ,/, can/MD avoid/VB asynchronous/JJ noise/NN while/IN mitigating/VBG for/IN the/DT worst/JJS stragglers/NNS ./.
+Our/PRP$ approach/NN is/VBZ empirically/RB validated/VBN and/CC shown/VBN to/TO converge/VB faster/RBR and/CC to/TO better/RBR test/VB accuracies/NNS ./.

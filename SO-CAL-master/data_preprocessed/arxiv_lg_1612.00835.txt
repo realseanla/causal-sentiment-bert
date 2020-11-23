@@ -1,0 +1,9 @@
+Recently/RB ,/, there/EX have/VBP been/VBN several/JJ promising/JJ methods/NNS to/TO generate/VB realistic/JJ imagery/NN from/IN deep/JJ convolutional/JJ networks/NNS ./.
+These/DT methods/NNS sidestep/VBP the/DT traditional/JJ computer/NN graphics/NNS rendering/VBG pipeline/NN and/CC instead/RB generate/VBP imagery/NN at/IN the/DT pixel/NN level/NN by/IN learning/VBG from/IN large/JJ collections/NNS of/IN photos/NNS (/-LRB- e.g./FW faces/NNS or/CC bedrooms/NNS )/-RRB- ./.
+However/RB ,/, these/DT methods/NNS are/VBP of/IN limited/JJ utility/NN because/IN it/PRP is/VBZ difficult/JJ for/IN a/DT user/NN to/TO control/VB what/WP the/DT network/NN produces/VBZ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT deep/JJ adversarial/JJ image/NN synthesis/NN architecture/NN that/WDT is/VBZ conditioned/VBN on/IN coarse/JJ sketches/NNS and/CC sparse/JJ color/NN strokes/NNS to/TO generate/VB realistic/JJ cars/NNS ,/, bedrooms/NNS ,/, or/CC faces/NNS ./.
+We/PRP demonstrate/VBP a/DT sketch/NN based/VBN image/NN synthesis/NN system/NN which/WDT allows/VBZ users/NNS to/TO '/`` scribble/VB '/'' over/IN the/DT sketch/NN to/TO indicate/VB preferred/JJ color/NN for/IN objects/NNS ./.
+Our/PRP$ network/NN can/MD then/RB generate/VB convincing/JJ images/NNS that/WDT satisfy/VBP both/CC the/DT color/NN and/CC the/DT sketch/NN constraints/NNS of/IN user/NN ./.
+The/DT network/NN is/VBZ feed/NN -/HYPH forward/NN which/WDT allows/VBZ users/NNS to/TO see/VB the/DT effect/NN of/IN their/PRP$ edits/NNS in/IN real/JJ time/NN ./.
+We/PRP compare/VBP to/IN recent/JJ work/NN on/IN sketch/NN to/IN image/NN synthesis/NN and/CC show/VBP that/IN our/PRP$ approach/NN can/MD generate/VB more/JJR realistic/JJ ,/, more/RBR diverse/JJ ,/, and/CC more/RBR controllable/JJ outputs/NNS ./.
+The/DT architecture/NN is/VBZ also/RB effective/JJ at/IN user/NN -/HYPH guided/VBN colorization/NN of/IN grayscale/JJ images/NNS ./.

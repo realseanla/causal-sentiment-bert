@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN learning/VBG hierarchical/JJ policies/NNS for/IN Reinforcement/NN Learning/VBG able/JJ to/TO discover/VB options/NNS ,/, an/DT option/NN corresponding/VBG to/IN a/DT sub-policy/NN over/IN a/DT set/NN of/IN primitive/JJ actions/NNS ./.
+Different/JJ models/NNS have/VBP been/VBN proposed/VBN during/IN the/DT last/JJ decade/NN that/WDT usually/RB rely/VBP on/IN a/DT predefined/JJ set/NN of/IN options/NNS ./.
+We/PRP specifically/RB address/VBP the/DT problem/NN of/IN automatically/RB discovering/VBG options/NNS in/IN decision/NN processes/NNS ./.
+We/PRP describe/VBP a/DT new/JJ RL/NN learning/VBG framework/NN called/VBN Bi-POMDP/NN ,/, and/CC a/DT new/JJ learning/NN model/NN called/VBN Budgeted/VBN Option/NN Neural/JJ Network/NN (/-LRB- BONN/NNP )/-RRB- able/JJ to/TO discover/VB options/NNS based/VBN on/IN a/DT budgeted/VBN learning/NN objective/NN ./.
+Since/IN Bi-POMDP/NN are/VBP more/RBR general/JJ than/IN POMDP/NN ,/, our/PRP$ model/NN can/MD also/RB be/VB used/VBN to/TO discover/VB options/NNS for/IN classical/JJ RL/NN tasks/NNS ./.
+The/DT BONN/NNP model/NN is/VBZ evaluated/VBN on/IN different/JJ classical/JJ RL/NN problems/NNS ,/, demonstrating/VBG both/CC quantitative/JJ and/CC qualitative/JJ interesting/JJ results/NNS ./.

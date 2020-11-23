@@ -1,0 +1,4 @@
+We/PRP describe/VBP an/DT application/NN of/IN an/DT encoder/NN -/HYPH decoder/NN recurrent/JJ neural/JJ network/NN with/IN LSTM/NN units/NNS and/CC attention/NN to/IN generating/VBG headlines/NNS from/IN the/DT text/NN of/IN news/NN articles/NNS ./.
+We/PRP find/VBP that/IN the/DT model/NN is/VBZ quite/RB effective/JJ at/IN concisely/RB paraphrasing/VBG news/NN articles/NNS ./.
+Furthermore/RB ,/, we/PRP study/VBP how/WRB the/DT neural/JJ network/NN decides/VBZ which/WDT input/NN words/NNS to/TO pay/VB attention/NN to/IN ,/, and/CC specifically/RB we/PRP identify/VBP the/DT function/NN of/IN the/DT different/JJ neurons/NNS in/IN a/DT simplified/JJ attention/NN mechanism/NN ./.
+Interestingly/RB ,/, our/PRP$ simplified/JJ attention/NN mechanism/NN performs/VBZ better/JJR that/IN the/DT more/RBR complex/JJ attention/NN mechanism/NN on/IN a/DT held/VBN out/RP set/NN of/IN articles/NNS ./.

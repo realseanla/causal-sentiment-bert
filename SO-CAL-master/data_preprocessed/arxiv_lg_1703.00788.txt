@@ -1,0 +1,6 @@
+Stochastic/JJ gradient/NN algorithms/NNS are/VBP the/DT main/JJ focus/NN of/IN large/JJ -/HYPH scale/NN optimization/NN problems/NNS and/CC led/VBD to/IN important/JJ successes/NNS in/IN the/DT recent/JJ advancement/NN of/IN the/DT deep/JJ learning/NN algorithms/NNS ./.
+The/DT convergence/NN of/IN SGD/NNP depends/VBZ on/IN the/DT careful/JJ choice/NN of/IN learning/NN rate/NN and/CC the/DT amount/NN of/IN the/DT noise/NN in/IN stochastic/JJ estimates/NNS of/IN the/DT gradients/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT adaptive/JJ learning/NN rate/NN algorithm/NN ,/, which/WDT utilizes/VBZ stochastic/JJ curvature/NN information/NN of/IN the/DT loss/NN function/NN for/IN automatically/RB tuning/VB the/DT learning/NN rates/NNS ./.
+The/DT information/NN about/IN the/DT element-wise/JJ curvature/NN of/IN the/DT loss/NN function/NN is/VBZ estimated/VBN from/IN the/DT local/JJ statistics/NNS of/IN the/DT stochastic/JJ first/JJ order/NN gradients/NNS ./.
+We/PRP further/RB propose/VB a/DT new/JJ variance/NN reduction/NN technique/NN to/TO speed/VB up/RP the/DT convergence/NN ./.
+In/IN our/PRP$ experiments/NNS with/IN deep/JJ neural/JJ networks/NNS ,/, we/PRP obtained/VBD better/JJR performance/NN compared/VBN to/IN the/DT popular/JJ stochastic/JJ gradient/NN algorithms/NNS ./.

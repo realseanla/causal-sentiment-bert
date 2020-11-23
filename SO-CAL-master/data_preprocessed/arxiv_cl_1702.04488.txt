@@ -1,0 +1,10 @@
+Recent/JJ works/NNS have/VBP been/VBN shown/VBN effective/JJ in/IN using/VBG neural/JJ networks/NNS for/IN Chinese/JJ word/NN segmentation/NN ./.
+However/RB ,/, these/DT models/NNS rely/VBP on/IN large/JJ -/HYPH scale/NN data/NNS and/CC are/VBP less/RBR effective/JJ for/IN low/JJ -/HYPH resource/NN datasets/NNS because/IN of/IN insufficient/JJ training/NN data/NNS ./.
+Thus/RB ,/, we/PRP propose/VBP a/DT transfer/NN learning/NN method/NN to/TO improve/VB low/JJ -/HYPH resource/NN word/NN segmentation/NN by/IN leveraging/VBG high/JJ -/HYPH resource/NN corpora/NNS ./.
+First/RB ,/, we/PRP train/VBP a/DT teacher/NN model/NN on/IN high/JJ -/HYPH resource/NN corpora/NNS and/CC then/RB use/VB the/DT learned/VBN knowledge/NN to/IN initialize/VB a/DT student/NN model/NN ./.
+Second/RB ,/, a/DT weighted/JJ data/NNS similarity/NN method/NN is/VBZ proposed/VBN to/TO train/VB the/DT student/NN model/NN on/IN low/JJ -/HYPH resource/NN data/NNS with/IN the/DT help/NN of/IN high/JJ -/HYPH resource/NN corpora/NNS ./.
+Finally/RB ,/, given/VBN that/IN insufficient/JJ data/NNS puts/VBZ forward/RB higher/JJR requirements/NNS for/IN feature/NN extraction/NN ,/, we/PRP propose/VBP a/DT novel/JJ neural/JJ network/NN which/WDT improves/VBZ feature/NN learning/NN ./.
+Experiment/NN results/NNS show/VBP that/IN our/PRP$ work/NN significantly/RB improves/VBZ the/DT performance/NN on/IN low/JJ -/HYPH resource/NN datasets/NNS :/: 2.3/CD percent/NN and/CC 1.5/CD percent/NN F/NN -/HYPH score/NN on/IN PKU/NNP and/CC CTB/NNP datasets/NNS ./.
+Furthermore/RB ,/, this/DT paper/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS :/: 96.1/CD percent/NN ,/, and/CC 96.2/CD percent/NN F/NN -/HYPH score/NN on/IN PKU/NNP and/CC CTB/NNP datasets/NNS ./.
+Besides/RB ,/, we/PRP explore/VBP an/DT asynchronous/JJ parallel/JJ method/NN on/IN neural/JJ word/NN segmentation/NN to/TO speed/VB up/RP training/NN ./.
+The/DT parallel/JJ method/NN accelerates/VBZ training/NN substantially/RB and/CC is/VBZ almost/RB five/CD times/NNS faster/JJR than/IN a/DT serial/JJ mode/NN ./.

@@ -1,0 +1,5 @@
+The/DT exponential/JJ explosion/NN of/IN the/DT set/NN of/IN patterns/NNS is/VBZ one/CD of/IN the/DT main/JJ challenges/NNS in/IN pattern/NN mining/NN ./.
+This/DT challenge/NN is/VBZ approached/VBN by/IN introducing/VBG a/DT constraint/NN for/IN pattern/NN selection/NN ./.
+One/CD of/IN the/DT first/JJ constraints/NNS proposed/VBN in/IN pattern/NN mining/NN is/VBZ support/NN (/-LRB- frequency/NN )/-RRB- of/IN a/DT pattern/NN in/IN a/DT dataset/NN ./.
+Frequency/NN is/VBZ an/DT anti-monotonic/JJ function/NN ,/, i.e./FW ,/, given/VBN an/DT infrequent/JJ pattern/NN ,/, all/DT its/PRP$ superpatterns/NNS are/VBP not/RB frequent/JJ ./.
+However/RB ,/, many/JJ other/JJ constraints/NNS for/IN pattern/NN selection/NN are/VBP neither/CC monotonic/JJ nor/CC anti-monotonic/JJ ,/, which/WDT makes/VBZ it/PRP difficult/JJ to/TO generate/VB patterns/NNS satisfying/VBG these/DT constraints/NNS ./.

@@ -1,0 +1,5 @@
+In the classic problem of sequence prediction, a predictor receives a sequence of values from an emitter and tries to guess the next value before it appears.
+The predictor masters the emitter if there is a point after which all of the predictor's guesses are correct.
+In this paper we consider the case in which the predictor is an automaton and the emitted values are drawn from a finite set; i.e., the emitted sequence is an infinite word.
+We examine the predictive capabilities of finite automata, pushdown automata, stack automata (a generalization of pushdown automata), and multihead finite automata.
+We relate our predicting automata to purely periodic words, ultimately periodic words, and multilinear words, describing novel prediction algorithms for mastering these sequences.

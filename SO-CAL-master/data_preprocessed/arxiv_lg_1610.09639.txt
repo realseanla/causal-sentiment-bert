@@ -1,0 +1,10 @@
+The/DT learning/NN capability/NN of/IN a/DT neural/JJ network/NN improves/VBZ with/IN increasing/VBG depth/NN at/IN higher/JJR computational/JJ costs/NNS ./.
+Wider/JJR layers/NNS with/IN dense/JJ kernel/NN connectivity/NN patterns/NNS furhter/JJR increase/NN this/DT cost/NN and/CC may/MD hinder/VB real/JJ -/HYPH time/NN inference/NN ./.
+We/PRP propose/VBP feature/NN map/NN and/CC kernel/NN level/NN pruning/NN for/IN reducing/VBG the/DT computational/JJ complexity/NN of/IN a/DT deep/JJ convolutional/JJ neural/JJ network/NN ./.
+Pruning/NN feature/NN maps/VBZ reduces/VBZ the/DT width/NN of/IN a/DT layer/NN and/CC hence/RB does/VBZ not/RB need/VB any/DT sparse/JJ representation/NN ./.
+Further/RB ,/, kernel/NN pruning/NN converts/VBZ the/DT dense/JJ connectivity/NN pattern/NN into/IN a/DT sparse/JJ one/NN ./.
+Due/IN to/IN coarse/JJ nature/NN ,/, these/DT pruning/NN granularities/NNS can/MD be/VB exploited/VBN by/IN GPUs/NNS and/CC VLSI/NNP based/VBN implementations/NNS ./.
+We/PRP propose/VBP a/DT simple/JJ and/CC generic/JJ strategy/NN to/TO choose/VB the/DT least/JJS adversarial/JJ pruning/NN masks/NNS for/IN both/DT granularities/NNS ./.
+The/DT pruned/VBN networks/NNS are/VBP retrained/VBN which/WDT compensates/VBZ the/DT loss/NN in/IN accuracy/NN ./.
+We/PRP obtain/VBP the/DT best/JJS pruning/NN ratios/NNS when/WRB we/PRP prune/VBP a/DT network/NN with/IN both/CC granularities/NNS ./.
+Experiments/NNS with/IN the/DT CIFAR/NN -/HYPH 10/CD dataset/NN show/NN that/WDT more/JJR than/IN 85/CD percent/NN sparsity/NN can/MD be/VB induced/VBN in/IN the/DT convolution/NN layers/NNS with/IN less/JJR than/IN 1/CD percent/NN increase/NN in/IN the/DT missclassification/NN rate/NN of/IN the/DT baseline/NN network/NN ./.

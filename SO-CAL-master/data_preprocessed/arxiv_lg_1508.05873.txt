@@ -1,0 +1,5 @@
+Some/DT system/NN identification/NN problems/NNS impose/VBP nonnegativity/JJ constraints/NNS on/IN the/DT parameters/NNS to/TO estimate/VB due/IN to/IN inherent/JJ physical/JJ characteristics/NNS of/IN the/DT unknown/JJ system/NN ./.
+The/DT nonnegative/JJ least/RBS -/HYPH mean/NN -/HYPH square/NN (/-LRB- NNLMS/NN )/-RRB- algorithm/NN and/CC its/PRP$ variants/NNS allow/VBP to/TO address/VB this/DT problem/NN in/IN an/DT online/JJ manner/NN ./.
+A/DT nonnegative/JJ least/JJS mean/VB fourth/JJ (/-LRB- NNLMF/NN )/-RRB- algorithm/NN has/VBZ been/VBN recently/RB proposed/VBN to/TO improve/VB the/DT performance/NN of/IN these/DT algorithms/NNS in/IN cases/NNS where/WRB the/DT measurement/NN noise/NN is/VBZ not/RB Gaussian/JJ ./.
+This/DT paper/NN provides/VBZ a/DT first/JJ theoretical/JJ analysis/NN of/IN the/DT stochastic/JJ behavior/NN of/IN the/DT NNLMF/NNP algorithm/NN for/IN stationary/JJ Gaussian/JJ inputs/NNS and/CC slow/JJ learning/NN ./.
+Simulation/NNP results/VBZ illustrate/VBP the/DT accuracy/NN of/IN the/DT proposed/VBN analysis/NN ./.

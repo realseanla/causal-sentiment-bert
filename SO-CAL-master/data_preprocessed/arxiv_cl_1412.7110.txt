@@ -1,0 +1,7 @@
+Automatic/JJ speech/NN recognition/NN systems/NNS usually/RB rely/VBP on/IN spectral/JJ -/HYPH based/VBN features/NNS ,/, such/JJ as/IN MFCC/NN of/IN PLP/NN ./.
+These/DT features/NNS are/VBP extracted/VBN based/VBN on/IN prior/JJ knowledge/NN such/JJ as/IN ,/, speech/NN perception/NN or/CC //HYPH and/CC speech/NN production/NN ./.
+Recently/RB ,/, convolutional/JJ neural/JJ networks/NNS have/VBP been/VBN shown/VBN to/TO be/VB able/JJ to/TO estimate/VB phoneme/NN conditional/JJ probabilities/NNS in/IN a/DT completely/RB data/NN -/HYPH driven/VBN manner/NN ,/, i.e./FW using/VBG directly/RB temporal/JJ raw/JJ speech/NN signal/NN as/IN input/NN ./.
+This/DT system/NN was/VBD shown/VBN to/TO yield/VB similar/JJ or/CC better/JJR performance/NN than/IN HMM/NN //HYPH ANN/NN based/VBN system/NN on/IN phoneme/NN recognition/NN task/NN and/CC on/IN large/JJ scale/NN continuous/JJ speech/NN recognition/NN task/NN ,/, using/VBG less/JJR parameters/NNS ./.
+Motivated/VBN by/IN these/DT studies/NNS ,/, we/PRP investigate/VBP the/DT use/NN of/IN simple/JJ linear/JJ classifier/NN in/IN the/DT CNN/NNP -/HYPH based/VBN framework/NN ./.
+Thus/RB ,/, the/DT network/NN learns/VBZ linearly/RB separable/JJ features/NNS from/IN raw/JJ speech/NN ./.
+We/PRP show/VBP that/IN such/JJ system/NN yields/VBZ similar/JJ or/CC better/JJR performance/NN than/IN MLP/NNP based/VBN system/NN using/VBG cepstral/NN -/HYPH based/VBN features/NNS as/IN input/NN ./.

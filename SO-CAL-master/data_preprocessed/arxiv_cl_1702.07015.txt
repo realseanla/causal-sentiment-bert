@@ -1,0 +1,7 @@
+This/DT paper/NN focuses/VBZ on/IN unsupervised/JJ modeling/NN of/IN morphological/JJ families/NNS ,/, collectively/RB comprising/VBG a/DT forest/NN over/IN the/DT language/NN vocabulary/NN ./.
+This/DT formulation/NN enables/VBZ us/PRP to/TO capture/VB edgewise/NN properties/NNS reflecting/VBG single/JJ -/HYPH step/NN morphological/JJ derivations/NNS ,/, along/IN with/IN global/JJ distributional/JJ properties/NNS of/IN the/DT entire/JJ forest/NN ./.
+These/DT global/JJ properties/NNS constrain/VBP the/DT size/NN of/IN the/DT affix/NN set/NN and/CC encourage/VB formation/NN of/IN tight/JJ morphological/JJ families/NNS ./.
+The/DT resulting/VBG objective/NN is/VBZ solved/VBN using/VBG Integer/NNP Linear/NNP Programming/NN (/-LRB- ILP/NN )/-RRB- paired/VBN with/IN contrastive/JJ estimation/NN ./.
+We/PRP train/VBP the/DT model/NN by/IN alternating/VBG between/IN optimizing/VBG the/DT local/JJ log/NN -/HYPH linear/JJ model/NN and/CC the/DT global/JJ ILP/NN objective/NN ./.
+We/PRP evaluate/VBP our/PRP$ system/NN on/IN three/CD tasks/NNS :/: root/NN detection/NN ,/, clustering/NN of/IN morphological/JJ families/NNS and/CC segmentation/NN ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN our/PRP$ model/NN yields/NNS consistent/JJ gains/NNS in/IN all/DT three/CD tasks/NNS compared/VBN with/IN the/DT best/JJS published/VBN results/NNS ./.

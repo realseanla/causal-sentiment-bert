@@ -1,0 +1,3 @@
+This/DT work/NN presents/VBZ and/CC analyzes/VBZ three/CD convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- models/NNS for/IN efficient/JJ pixelwise/NN classification/NN of/IN images/NNS ./.
+When/WRB using/VBG convolutional/JJ neural/JJ networks/NNS to/TO classify/VB single/JJ pixels/NNS in/IN patches/NNS of/IN a/DT whole/JJ image/NN ,/, a/DT lot/NN of/IN redundant/JJ computations/NNS are/VBP carried/VBN out/RP when/WRB using/VBG sliding/VBG window/NN networks/NNS ./.
+This/DT set/NN of/IN new/JJ architectures/NNS solve/VB this/DT issue/NN by/IN either/CC removing/VBG redundant/JJ computations/NNS or/CC using/VBG fully/RB convolutional/JJ architectures/NNS that/WDT inherently/RB predict/VBP many/JJ pixels/NNS at/IN once/RB ./.

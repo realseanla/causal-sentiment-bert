@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT transition/NN -/HYPH based/VBN dependency/NN parser/NN that/WDT uses/VBZ a/DT convolutional/JJ neural/JJ network/NN to/TO compose/VB word/NN representations/NNS from/IN characters/NNS ./.
+The/DT character/NN composition/NN model/NN shows/VBZ great/JJ improvement/NN over/IN the/DT word/NN -/HYPH lookup/NN model/NN ,/, especially/RB for/IN parsing/VBG agglutinative/JJ languages/NNS ./.
+These/DT improvements/NNS are/VBP even/RB better/JJR than/IN using/VBG pre-trained/JJ word/NN embeddings/NNS from/IN extra/JJ data/NNS ./.
+On/IN the/DT SPMRL/NN data/NN sets/NNS ,/, our/PRP$ system/NN outperforms/VBZ the/DT previous/JJ best/JJS greedy/JJ parser/NN (/-LRB- Ballesteros/NNP et/FW al./FW ,/, 2015/CD )/-RRB- by/IN a/DT margin/NN of/IN 3/CD percent/NN on/IN average/JJ ./.

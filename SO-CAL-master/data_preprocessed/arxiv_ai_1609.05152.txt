@@ -1,0 +1,8 @@
+Modeling/VBG polyphonic/JJ music/NN is/VBZ a/DT particularly/RB challenging/JJ task/NN because/IN of/IN the/DT intricate/JJ interplay/NN between/IN melody/NN and/CC harmony/NN ./.
+A/DT good/JJ model/NN should/MD satisfy/VB three/CD requirements/NNS :/: statistical/JJ accuracy/NN (/-LRB- capturing/VBG faithfully/RB the/DT statistics/NNS of/IN correlations/NNS at/IN various/JJ ranges/NNS ,/, horizontally/RB and/CC vertically/RB )/-RRB- ,/, flexibility/NN (/-LRB- coping/VBG with/IN arbitrary/JJ user/NN constraints/NNS )/-RRB- ,/, and/CC generalization/NN capacity/NN (/-LRB- inventing/VBG new/JJ material/NN ,/, while/IN staying/VBG in/IN the/DT style/NN of/IN the/DT training/NN corpus/NN )/-RRB- ./.
+Models/NNS proposed/VBN so/RB far/RB fail/VB on/RP at/IN least/RBS one/CD of/IN these/DT requirements/NNS ./.
+We/PRP propose/VBP a/DT statistical/JJ model/NN of/IN polyphonic/JJ music/NN ,/, based/VBN on/IN the/DT maximum/JJ entropy/NN principle/NN ./.
+This/DT model/NN is/VBZ able/JJ to/TO learn/VB and/CC reproduce/VB pairwise/JJ statistics/NNS between/IN neighboring/VBG note/NN events/NNS in/IN a/DT given/VBN corpus/NN ./.
+The/DT model/NN is/VBZ also/RB able/JJ to/TO invent/VB new/JJ chords/NNS and/CC to/TO harmonize/VB unknown/JJ melodies/NNS ./.
+We/PRP evaluate/VBP the/DT invention/NN capacity/NN of/IN the/DT model/NN by/IN assessing/VBG the/DT amount/NN of/IN cited/VBN ,/, re-discovered/VBN ,/, and/CC invented/VBD chords/NNS on/IN a/DT corpus/NN of/IN Bach/NNP chorales/NNS ./.
+We/PRP discuss/VBP how/WRB the/DT model/NN enables/VBZ the/DT user/NN to/TO specify/VB and/CC enforce/VB user/NN -/HYPH defined/VBN constraints/NNS ,/, which/WDT makes/VBZ it/PRP useful/JJ for/IN style/NN -/HYPH based/VBN ,/, interactive/JJ music/NN generation/NN ./.

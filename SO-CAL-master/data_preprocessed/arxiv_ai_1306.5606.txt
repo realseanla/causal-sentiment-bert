@@ -1,0 +1,5 @@
+In/IN recent/JJ years/NNS ,/, portfolio/NN approaches/VBZ to/IN solving/VBG SAT/NN problems/NNS and/CC CSPs/NNS have/VBP become/VBN increasingly/RB common/JJ ./.
+There/EX are/VBP also/RB a/DT number/NN of/IN different/JJ techniques/NNS for/IN converting/VBG SAT/NN problems/NNS into/IN CSPs/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP leverage/VBP advances/NNS in/IN both/DT areas/NNS and/CC present/VB a/DT novel/JJ hierarchical/JJ portfolio/NN -/HYPH based/VBN approach/NN to/IN CSP/NNP solving/VBG that/DT does/VBZ not/RB rely/VB purely/RB on/IN CSP/NNP solvers/NNS ,/, but/CC may/MD convert/VB a/DT problem/NN to/IN SAT/NNP choosing/VBG a/DT conversion/NN technique/NN and/CC the/DT accommodating/VBG SAT/NN solver/NN ./.
+Our/PRP$ experimental/JJ evaluation/NN relies/VBZ on/IN competition/NN CSP/NNP instances/NNS and/CC uses/VBZ eight/CD CSP/NNP solvers/NNS ,/, three/CD SAT/VBD encodings/NNS and/CC eighteen/CD SAT/VBD solvers/NNS ./.
+We/PRP demonstrate/VBP that/IN significant/JJ performance/NN improvements/NNS can/MD be/VB obtained/VBN by/IN considering/VBG alternative/JJ view/NN -/HYPH points/NNS of/IN a/DT combinatorial/JJ problem/NN ./.

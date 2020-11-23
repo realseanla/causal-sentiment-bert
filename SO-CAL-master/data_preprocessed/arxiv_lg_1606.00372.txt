@@ -1,0 +1,6 @@
+We/PRP investigate/VBP the/DT task/NN of/IN modeling/VBG open/JJ -/HYPH domain/NN ,/, multi-turn/JJ ,/, unstructured/JJ ,/, multi-participant/JJ ,/, conversational/JJ dialogue/NN ./.
+We/PRP specifically/RB study/VB the/DT effect/NN of/IN incorporating/VBG different/JJ elements/NNS of/IN the/DT conversation/NN ./.
+Unlike/IN previous/JJ efforts/NNS ,/, which/WDT focused/VBD on/IN modeling/VBG messages/NNS and/CC responses/NNS ,/, we/PRP extend/VBP the/DT modeling/NN to/IN long/JJ context/NN and/CC participant/NN 's/POS history/NN ./.
+Our/PRP$ system/NN does/VBZ not/RB rely/VB on/IN handwritten/JJ rules/NNS or/CC engineered/VBN features/NNS ;/: instead/RB ,/, we/PRP train/VBP deep/JJ neural/JJ networks/NNS on/IN a/DT large/JJ conversational/JJ dataset/NN ./.
+In/IN particular/JJ ,/, we/PRP exploit/VBP the/DT structure/NN of/IN Reddit/NN comments/NNS and/CC posts/NNS to/TO extract/VB 2.1/CD billion/CD messages/NNS and/CC 133/CD million/CD conversations/NNS ./.
+We/PRP evaluate/VBP our/PRP$ models/NNS on/IN the/DT task/NN of/IN predicting/VBG the/DT next/JJ response/NN in/IN a/DT conversation/NN ,/, and/CC we/PRP find/VBP that/IN modeling/VBG both/DT context/NN and/CC participants/NNS improves/VBZ prediction/NN accuracy/NN ./.

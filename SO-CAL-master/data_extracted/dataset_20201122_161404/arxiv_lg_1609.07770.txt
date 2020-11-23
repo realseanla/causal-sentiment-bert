@@ -1,0 +1,4 @@
+The challenge in engaging malware activities involves the correct identification and classification of different malware variants.
+Various malwares incorporate code obfuscation methods that alters their code signatures effectively countering antimalware detection techniques utilizing static methods and signature database.
+In this study, we utilized an approach of converting a malware binary into an image and use Random Forest to classify various malware families.
+The resulting accuracy of 0.9562 exhibits the effectivess of the method in detecting malware

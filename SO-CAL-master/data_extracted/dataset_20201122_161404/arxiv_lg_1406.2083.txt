@@ -1,0 +1,5 @@
+This paper is about two related methods for two sample testing and independence testing which have emerged over the last decade: Maximum Mean Discrepancy (MMD) for the former problem and Distance Correlation (dCor) for the latter.
+Both these methods have been suggested for high-dimensional problems, and sometimes claimed to be unaffected by increasing dimensionality of the samples.
+We will show theoretically and practically that the power of both methods (for different reasons) does actually decrease polynomially with dimension.
+We also analyze the median heuristic, which is a method for choosing tuning parameters of translation invariant kernels.
+We show that different bandwidth choices could result in the MMD decaying polynomially or even exponentially in dimension.

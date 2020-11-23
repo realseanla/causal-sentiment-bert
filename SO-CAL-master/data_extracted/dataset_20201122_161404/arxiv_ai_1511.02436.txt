@@ -1,0 +1,4 @@
+Predicting Mild Cognitive Impairment (MCI) is currently a challenge as existing diagnostic criteria rely on neuropsychological examinations.
+Automated Machine Learning (ML) models that are trained on verbal utterances of MCI patients can aid diagnosis.
+Using a combination of skip-gram features, our model learned several linguistic biomarkers to distinguish between 19 patients with MCI and 19 healthy control individuals from the DementiaBank language transcript clinical dataset.
+Results show that a model with compound of skip-grams has better AUC and could help ML prediction on small MCI data sample.

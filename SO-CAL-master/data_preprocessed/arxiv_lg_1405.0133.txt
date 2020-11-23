@@ -1,0 +1,11 @@
+Learning/VBG a/DT distance/NN function/NN or/CC metric/JJ on/IN a/DT given/VBN data/NNS manifold/NN is/VBZ of/IN great/JJ importance/NN in/IN machine/NN learning/NN and/CC pattern/NN recognition/NN ./.
+Many/JJ of/IN the/DT previous/JJ works/NNS first/RB embed/VBP the/DT manifold/NN to/IN Euclidean/NNP space/NN and/CC then/RB learn/VB the/DT distance/NN function/NN ./.
+However/RB ,/, such/PDT a/DT scheme/NN might/MD not/RB faithfully/RB preserve/VB the/DT distance/NN function/NN if/IN the/DT original/JJ manifold/NN is/VBZ not/RB Euclidean/JJ ./.
+Note/VB that/IN the/DT distance/NN function/NN on/IN a/DT manifold/NN can/MD always/RB be/VB well/RB -/HYPH defined/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO learn/VB the/DT distance/NN function/NN directly/RB on/IN the/DT manifold/NN without/IN embedding/NN ./.
+We/PRP first/RB provide/VBP a/DT theoretical/JJ characterization/NN of/IN the/DT distance/NN function/NN by/IN its/PRP$ gradient/NN field/NN ./.
+Based/VBN on/IN our/PRP$ theoretical/JJ analysis/NN ,/, we/PRP propose/VBP to/IN first/JJ learn/VB the/DT gradient/NN field/NN of/IN the/DT distance/NN function/NN and/CC then/RB learn/VB the/DT distance/NN function/NN itself/PRP ./.
+Specifically/RB ,/, we/PRP set/VBD the/DT gradient/NN field/NN of/IN a/DT local/JJ distance/NN function/NN as/IN an/DT initial/JJ vector/NN field/NN ./.
+Then/RB we/PRP transport/VBP it/PRP to/IN the/DT whole/JJ manifold/NN via/IN heat/NN flows/VBZ on/IN vector/NN fields/NNS ./.
+Finally/RB ,/, the/DT geodesic/JJ distance/NN function/NN can/MD be/VB obtained/VBN by/IN requiring/VBG its/PRP$ gradient/NN field/NN to/TO be/VB close/JJ to/IN the/DT normalized/VBN vector/NN field/NN ./.
+Experimental/JJ results/NNS on/IN both/DT synthetic/JJ and/CC real/JJ data/NNS demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ proposed/VBN algorithm/NN ./.

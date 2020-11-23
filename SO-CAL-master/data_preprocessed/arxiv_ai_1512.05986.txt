@@ -1,0 +1,5 @@
+Convolutional/JJ neural/JJ networks/NNS demonstrated/VBD outstanding/JJ empirical/JJ results/NNS in/IN computer/NN vision/NN and/CC speech/NN recognition/NN tasks/NNS where/WRB labeled/VBN training/NN data/NNS is/VBZ abundant/JJ ./.
+In/IN medical/JJ imaging/NN ,/, there/EX is/VBZ a/DT huge/JJ variety/NN of/IN possible/JJ imaging/NN modalities/NNS and/CC contrasts/NNS ,/, where/WRB annotated/VBN data/NNS is/VBZ usually/RB very/RB scarce/JJ ./.
+We/PRP present/VBP two/CD approaches/NNS to/TO deal/VB with/IN this/DT challenge/NN ./.
+A/DT network/NN pretrained/VBN in/IN a/DT different/JJ domain/NN with/IN abundant/JJ data/NNS is/VBZ used/VBN as/IN a/DT feature/NN extractor/NN ,/, while/IN a/DT subsequent/JJ classifier/NN is/VBZ trained/VBN on/IN a/DT small/JJ target/NN dataset/NN ;/: and/CC a/DT deep/JJ architecture/NN trained/VBN with/IN heavy/JJ augmentation/NN and/CC equipped/VBN with/IN sophisticated/JJ regularization/NN methods/NNS ./.
+We/PRP test/VBP the/DT approaches/NNS on/IN a/DT corpus/NN of/IN X-ray/NN images/NNS to/TO design/VB an/DT anatomy/NN detection/NN system/NN ./.

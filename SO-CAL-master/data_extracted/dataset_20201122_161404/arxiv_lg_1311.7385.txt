@@ -1,0 +1,8 @@
+The problem is to identify a probability mass function associated with a discrete set, given an infinite data sequence of elements from the set.
+If the given sequence is drawn i.i.d.
+and the probability mass function is computable and has a finite mean, then there is an algorithm to almost surely identify the target in the limit.
+If the probability mass function is incomputable, has a finite mean, and the drawing is i.i.d., then there is an algorithm which pointwise converges to the target almost surely.
+Here we use the strong law of large numbers.
+If the elements of the sequence are dependent and the sequence is typical (random) for at least one computable measure and the set is finite, then there is an algorithm to almost surely identify in the limit a computable measure for which the sequence is typical (there may be more than one such measure).
+Here we use the theory of Kolmogorov complexity.
+We give the algorithms and consider the associated predictions.

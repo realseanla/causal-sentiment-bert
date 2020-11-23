@@ -1,0 +1,9 @@
+The/DT majority/NN of/IN machine/NN learning/NN algorithms/NNS assumes/VBZ that/IN objects/NNS are/VBP represented/VBN as/IN vectors/NNS ./.
+But/CC often/RB the/DT objects/NNS we/PRP want/VBP to/TO learn/VB on/IN are/VBP more/RBR naturally/RB represented/VBN by/IN other/JJ data/NNS structures/NNS such/JJ as/IN sequences/NNS and/CC time/NN series/NN ./.
+For/IN these/DT representations/NNS many/JJ standard/JJ learning/NN algorithms/NNS are/VBP unavailable/JJ ./.
+We/PRP generalize/VBP gradient/NN -/HYPH based/VBN learning/NN algorithms/NNS to/IN time/NN series/NN under/IN dynamic/JJ time/NN warping/NN ./.
+To/IN this/DT end/NN ,/, we/PRP introduce/VBP elastic/JJ functions/NNS ,/, which/WDT extend/VBP functions/NNS on/IN time/NN series/NN to/IN matrix/NN spaces/NNS ./.
+Necessary/JJ conditions/NNS are/VBP presented/VBN under/IN which/WDT generalized/VBD gradient/NN learning/NN on/IN time/NN series/NN is/VBZ consistent/JJ ./.
+We/PRP indicate/VBP how/WRB results/VBZ carry/NN over/IN to/IN arbitrary/JJ elastic/JJ distance/NN functions/NNS and/CC to/IN sequences/NNS consisting/VBG of/IN symbolic/JJ elements/NNS ./.
+Specifically/RB ,/, four/CD linear/JJ classifiers/NNS are/VBP extended/VBN to/IN time/NN series/NN under/IN dynamic/JJ time/NN warping/NN and/CC applied/VBD to/IN benchmark/NN datasets/NNS ./.
+Results/NNS indicate/VBP that/IN generalized/VBN gradient/NN learning/NN via/IN elastic/JJ functions/NNS have/VBP the/DT potential/NN to/TO complement/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN statistical/JJ pattern/NN recognition/NN on/IN time/NN series/NN ./.

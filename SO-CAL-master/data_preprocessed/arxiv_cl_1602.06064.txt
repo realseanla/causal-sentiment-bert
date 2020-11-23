@@ -1,0 +1,4 @@
+We/PRP propose/VBP to/IN train/NN bi-directional/JJ neural/JJ network/NN language/NN model/NN (/-LRB- NNLM/NN )/-RRB- with/IN noise/NN contrastive/JJ estimation/NN (/-LRB- NCE/NN )/-RRB- ./.
+Experiments/NNS are/VBP conducted/VBN on/IN a/DT rescore/NN task/NN on/IN the/DT PTB/NNP data/NNS set/NN ./.
+It/PRP is/VBZ shown/VBN that/IN NCE/NN -/HYPH trained/VBN bi-directional/JJ NNLM/NN outperformed/VBD the/DT one/CD trained/VBN by/IN conventional/JJ maximum/JJ likelihood/NN training/NN ./.
+But/CC still/RB (/-LRB- regretfully/RB )/-RRB- ,/, it/PRP did/VBD not/RB out/RB -/HYPH perform/VB the/DT baseline/NN uni-directional/JJ NNLM/NN ./.

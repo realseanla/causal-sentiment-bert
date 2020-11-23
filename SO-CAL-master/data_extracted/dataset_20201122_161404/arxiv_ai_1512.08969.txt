@@ -1,0 +1,6 @@
+We propose a way of extracting and aggregating per-move evaluations from sets of Go game records.
+The evaluations capture different aspects of the games such as played patterns or statistic of sente/gote sequences.
+Using machine learning algorithms, the evaluations can be utilized to predict different relevant target variables.
+We apply this methodology to predict the strength and playing style of the player (e.g.
+territoriality or aggressivity) with good accuracy.
+We propose a number of possible applications including aiding in Go study, seeding real-work ranks of internet players or tuning of Go-playing programs.

@@ -1,0 +1,5 @@
+To coordinate with other agents in its environment, an agent needs models of what the other agents are trying to do.
+When communication is impossible or expensive, this information must be acquired indirectly via plan recognition.
+Typical approaches to plan recognition start with a specification of the possible plans the other agents may be following, and develop special techniques for discriminating among the possibilities.
+Perhaps more desirable would be a uniform procedure for mapping plans to general structures supporting inference based on uncertain and incomplete observations.
+In this paper, we describe a set of methods for converting plans represented in a flexible procedural language to observation models represented as probabilistic belief networks.

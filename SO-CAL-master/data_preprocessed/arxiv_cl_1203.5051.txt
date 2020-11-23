@@ -1,0 +1,8 @@
+We/PRP present/VBP CAVaT/NNP ,/, a/DT tool/NN that/WDT performs/VBZ Corpus/NNP Analysis/NNP and/CC Validation/NNP for/IN TimeML/NNP ./.
+CAVaT/NN is/VBZ an/DT open/JJ source/NN ,/, modular/JJ checking/VBG utility/NN for/IN statistical/JJ analysis/NN of/IN features/NNS specific/JJ to/IN temporally/RB -/HYPH annotated/VBN natural/JJ language/NN corpora/NNS ./.
+It/PRP provides/VBZ reporting/NN ,/, highlights/NNS salient/JJ links/NNS between/IN a/DT variety/NN of/IN general/JJ and/CC time/NN -/HYPH specific/JJ linguistic/JJ features/NNS ,/, and/CC also/RB validates/VBZ a/DT temporal/JJ annotation/NN to/TO ensure/VB that/IN it/PRP is/VBZ logically/RB consistent/JJ and/CC sufficiently/RB annotated/VBN ./.
+Uniquely/RB ,/, CAVaT/NN provides/VBZ analysis/NN specific/JJ to/IN TimeML/NN -/HYPH annotated/VBN temporal/JJ information/NN ./.
+TimeML/NN is/VBZ a/DT standard/NN for/IN annotating/VBG temporal/JJ information/NN in/IN natural/JJ language/NN text/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT reporting/VBG part/NN of/IN CAVaT/NNP ,/, and/CC then/RB its/PRP$ error/NN -/HYPH checking/VBG ability/NN ,/, including/VBG the/DT workings/NNS of/IN several/JJ novel/JJ TimeML/NN document/NN verification/NN methods/NNS ./.
+This/DT is/VBZ followed/VBN by/IN the/DT execution/NN of/IN some/DT example/NN tasks/NNS using/VBG the/DT tool/NN to/TO show/VB relations/NNS between/IN times/NNS ,/, events/NNS ,/, signals/NNS and/CC links/NNS ./.
+We/PRP also/RB demonstrate/VBP inconsistencies/NNS in/IN a/DT TimeML/NN corpus/NN (/-LRB- TimeBank/NNP )/-RRB- that/WDT have/VBP been/VBN detected/VBN with/IN CAVaT/NN ./.

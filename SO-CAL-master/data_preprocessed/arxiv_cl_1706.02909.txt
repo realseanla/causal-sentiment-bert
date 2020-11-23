@@ -1,0 +1,6 @@
+Selecting/VBG a/DT representative/NN vector/NN for/IN a/DT set/NN of/IN vectors/NNS is/VBZ a/DT very/RB common/JJ requirement/NN in/IN many/JJ algorithmic/JJ tasks/NNS ./.
+Traditionally/RB ,/, the/DT mean/NN or/CC median/NN vector/NN is/VBZ selected/VBN ./.
+Ontology/NNP classes/NNS are/VBP sets/NNS of/IN homogeneous/JJ instance/NN objects/NNS that/WDT can/MD be/VB converted/VBN to/IN a/DT vector/NN space/NN by/IN word/NN vector/NN embeddings/NNS ./.
+This/DT study/NN proposes/VBZ a/DT methodology/NN to/TO derive/VB a/DT representative/NN vector/NN for/IN ontology/NN classes/NNS whose/WP$ instances/NNS were/VBD converted/VBN to/IN the/DT vector/NN space/NN ./.
+We/PRP start/VBP by/IN deriving/VBG five/CD candidate/NN vectors/NNS which/WDT are/VBP then/RB used/VBN to/TO train/VB a/DT machine/NN learning/NN model/NN that/WDT would/MD calculate/VB a/DT representative/NN vector/NN for/IN the/DT class/NN ./.
+We/PRP show/VBP that/IN our/PRP$ methodology/NN out/IN -/HYPH performs/VBZ the/DT traditional/JJ mean/NN and/CC median/NN vector/NN representations/NNS ./.

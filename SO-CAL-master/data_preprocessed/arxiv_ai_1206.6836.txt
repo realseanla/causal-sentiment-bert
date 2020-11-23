@@ -1,0 +1,8 @@
+A/DT popular/JJ approach/NN to/IN solving/VBG large/JJ probabilistic/JJ systems/NNS relies/VBZ on/IN aggregating/VBG states/NNS based/VBN on/IN a/DT measure/NN of/IN similarity/NN ./.
+Many/JJ approaches/NNS in/IN the/DT literature/NN are/VBP heuristic/NN ./.
+A/DT number/NN of/IN recent/JJ methods/NNS rely/VBP instead/RB on/IN metrics/NNS based/VBN on/IN the/DT notion/NN of/IN bisimulation/NN ,/, or/CC behavioral/JJ equivalence/NN between/IN states/NNS (/-LRB- Givan/NNP et/FW al/FW ,/, 2001/CD ,/, 2003/CD ;/: Ferns/NNP et/FW al/FW ,/, 2004/CD )/-RRB- ./.
+An/DT integral/JJ component/NN of/IN such/JJ metrics/NNS is/VBZ the/DT Kantorovich/NNP metric/NN between/IN probability/NN distributions/NNS ./.
+However/RB ,/, while/IN this/DT metric/JJ enables/VBZ many/JJ satisfying/VBG theoretical/JJ properties/NNS ,/, it/PRP is/VBZ costly/JJ to/TO compute/VB in/IN practice/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP use/VBP techniques/NNS from/IN network/NN optimization/NN and/CC statistical/JJ sampling/NN to/TO overcome/VB this/DT problem/NN ./.
+We/PRP obtain/VBP in/IN this/DT manner/NN a/DT variety/NN of/IN distance/NN functions/NNS for/IN MDP/NN state/NN aggregation/NN ,/, which/WDT differ/VBP in/IN the/DT tradeoff/NN between/IN time/NN and/CC space/NN complexity/NN ,/, as/RB well/RB as/IN the/DT quality/NN of/IN the/DT aggregation/NN ./.
+We/PRP provide/VBP an/DT empirical/JJ evaluation/NN of/IN these/DT trade/NN -/HYPH offs/NNS ./.

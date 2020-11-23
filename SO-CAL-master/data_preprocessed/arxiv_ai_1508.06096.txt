@@ -1,0 +1,8 @@
+Constraint/NN Programming/NN (/-LRB- CP/NN )/-RRB- solvers/NNS typically/RB tackle/VBP optimization/NN problems/NNS by/IN repeatedly/RB finding/VBG solutions/NNS to/IN a/DT problem/NN while/IN placing/VBG tighter/JJR and/CC tighter/JJR bounds/NNS on/IN the/DT solution/NN cost/NN ./.
+This/DT approach/NN is/VBZ somewhat/RB naive/JJ ,/, especially/RB for/IN soft/JJ -/HYPH constraint/NN optimization/NN problems/NNS in/IN which/WDT the/DT soft/JJ constraints/NNS are/VBP mostly/RB satisfied/JJ ./.
+Unsatisfiable/JJ -/HYPH core/JJ approaches/NNS to/IN solving/VBG soft/JJ constraint/NN problems/NNS in/IN SAT/NNP (/-LRB- e.g./FW MAXSAT/NN )/-RRB- force/NN all/DT soft/JJ constraints/NNS to/TO be/VB hard/JJ initially/RB ./.
+When/WRB solving/VBG fails/VBZ they/PRP return/VBP an/DT unsatisfiable/JJ core/NN ,/, as/IN a/DT set/NN of/IN soft/JJ constraints/NNS that/WDT can/MD not/RB hold/VB simultaneously/RB ./.
+These/DT are/VBP reverted/VBN to/IN soft/JJ and/CC solving/VBG continues/VBZ ./.
+Since/IN lazy/JJ clause/NN generation/NN solvers/NNS can/MD also/RB return/VB unsatisfiable/JJ cores/NNS we/PRP can/MD adapt/VB this/DT approach/NN to/IN constraint/NN programming/NN ./.
+We/PRP adapt/VBP the/DT original/JJ MAXSAT/NNP unsatisfiable/JJ core/NN solving/VBG approach/NN to/TO be/VB usable/JJ for/IN constraint/NN programming/NN and/CC define/VB a/DT number/NN of/IN extensions/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ methods/NNS are/VBP beneficial/JJ on/IN a/DT broad/JJ class/NN of/IN CP/NN -/HYPH optimization/NN benchmarks/NNS involving/VBG soft/JJ constraints/NNS ,/, cardinality/NN or/CC preferences/NNS ./.

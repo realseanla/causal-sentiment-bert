@@ -1,0 +1,14 @@
+For/IN a/DT large/JJ multi-hop/JJ wireless/JJ network/NN ,/, nodes/NNS are/VBP preferable/JJ to/TO make/VB distributed/VBN and/CC localized/VBN link/NN -/HYPH scheduling/NN decisions/NNS with/IN only/JJ interactions/NNS among/IN a/DT small/JJ number/NN of/IN neighbors/NNS ./.
+However/RB ,/, for/IN a/DT slowly/RB decaying/VBG channel/NN and/CC densely/RB populated/VBN interferers/NNS ,/, a/DT small/JJ size/NN neighborhood/NN often/RB results/VBZ in/IN nontrivial/JJ link/NN outages/NNS and/CC is/VBZ thus/RB insufficient/JJ for/IN making/VBG optimal/JJ scheduling/NN decisions/NNS ./.
+A/DT question/NN arises/VBZ how/WRB to/TO deal/VB with/IN the/DT information/NN outside/IN a/DT neighborhood/NN in/IN distributed/VBN link/NN -/HYPH scheduling/NN ./.
+In/IN this/DT work/NN ,/, we/PRP develop/VBP joint/JJ approximation/NN of/IN information/NN and/CC distributed/VBN link/NN scheduling/NN ./.
+We/PRP first/RB apply/VB machine/NN learning/NN approaches/VBZ to/TO model/VB distributed/VBN link/NN -/HYPH scheduling/NN with/IN complete/JJ information/NN ./.
+We/PRP then/RB characterize/VBP the/DT information/NN outside/IN a/DT neighborhood/NN in/IN form/NN of/IN residual/JJ interference/NN as/IN a/DT random/JJ loss/NN variable/NN ./.
+The/DT loss/NN variable/NN is/VBZ further/JJ characterized/VBN by/IN either/CC a/DT Mean/NNP Field/NNP approximation/NN or/CC a/DT normal/JJ distribution/NN based/VBN on/IN the/DT Lyapunov/NNP central/JJ limit/NN theorem/NN ./.
+The/DT approximated/VBN information/NN outside/IN a/DT neighborhood/NN is/VBZ incorporated/VBN in/IN a/DT factor/NN graph/NN ./.
+This/DT results/VBZ in/IN joint/JJ approximation/NN and/CC distributed/VBN link/NN -/HYPH scheduling/NN in/IN an/DT iterative/JJ fashion/NN ./.
+Link/NN -/HYPH scheduling/NN decisions/NNS are/VBP first/JJ made/VBN at/IN each/DT individual/JJ node/NN based/VBN on/IN the/DT approximated/VBN loss/NN variables/NNS ./.
+Loss/NN variables/NNS are/VBP then/RB updated/VBN and/CC used/VBN for/IN next/JJ link/NN -/HYPH scheduling/NN decisions/NNS ./.
+The/DT algorithm/NN repeats/NNS between/IN these/DT two/CD phases/NNS until/IN convergence/NN ./.
+Interactive/JJ iterations/NNS among/IN these/DT variables/NNS are/VBP implemented/VBN with/IN a/DT message/NN -/HYPH passing/VBG algorithm/NN over/IN a/DT factor/NN graph/NN ./.
+Simulation/NNP results/NNS show/VBP that/IN using/VBG learned/VBN information/NN outside/IN a/DT neighborhood/NN jointly/RB with/IN distributed/VBN link/NN -/HYPH scheduling/NN reduces/VBZ the/DT outage/NN probability/NN close/NN to/IN zero/CD even/RB for/IN a/DT small/JJ neighborhood/NN ./.

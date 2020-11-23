@@ -1,0 +1,4 @@
+The/DT recently/RB developed/VBN massively/RB parallel/JJ satisfiability/NN (/-LRB- SAT/NN )/-RRB- solver/NN HordeSAT/NN was/VBD designed/VBN in/IN a/DT modular/JJ way/NN to/TO allow/VB the/DT integration/NN of/IN any/DT sequential/JJ CDCL/NN -/HYPH based/VBN SAT/NN solver/NN in/IN its/PRP$ core/NN ./.
+We/PRP integrated/VBD the/DT QCDCL/NN -/HYPH based/VBN quantified/VBN Boolean/JJ formula/NN (/-LRB- QBF/NN )/-RRB- solver/NN DepQBF/NN in/IN HordeSAT/NN to/TO obtain/VB a/DT massively/RB parallel/JJ QBF/NN solver/NN ---/, HordeQBF/NN ./.
+In/IN this/DT paper/NN we/PRP describe/VBP the/DT details/NNS of/IN this/DT integration/NN and/CC report/NN on/IN results/NNS of/IN the/DT experimental/JJ evaluation/NN of/IN HordeQBF/NNP 's/POS performance/NN ./.
+HordeQBF/NNP achieves/VBZ superlinear/JJ average/JJ and/CC median/JJ speedup/NN on/IN the/DT hard/JJ application/NN instances/NNS of/IN the/DT 2014/CD QBF/NNP Gallery/NNP ./.

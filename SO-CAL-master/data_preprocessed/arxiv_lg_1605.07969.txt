@@ -1,0 +1,7 @@
+This/DT paper/NN proposes/VBZ an/DT adaptive/JJ neural/JJ -/HYPH compilation/NN framework/NN to/TO address/VB the/DT problem/NN of/IN efficient/JJ program/NN learning/NN ./.
+Traditional/JJ code/NN optimisation/NN strategies/NNS used/VBN in/IN compilers/NNS are/VBP based/VBN on/IN applying/VBG pre-specified/JJ set/NN of/IN transformations/NNS that/WDT make/VBP the/DT code/NN faster/RBR to/TO execute/VB without/IN changing/VBG its/PRP$ semantics/NNS ./.
+In/IN contrast/NN ,/, our/PRP$ work/NN involves/VBZ adapting/VBG programs/NNS to/TO make/VB them/PRP more/RBR efficient/JJ while/IN considering/VBG correctness/NN only/RB on/IN a/DT target/NN input/NN distribution/NN ./.
+Our/PRP$ approach/NN is/VBZ inspired/VBN by/IN the/DT recent/JJ works/NNS on/IN differentiable/JJ representations/NNS of/IN programs/NNS ./.
+We/PRP show/VBP that/IN it/PRP is/VBZ possible/JJ to/TO compile/VB programs/NNS written/VBN in/IN a/DT low/JJ -/HYPH level/NN language/NN to/IN a/DT differentiable/JJ representation/NN ./.
+We/PRP also/RB show/VBP how/WRB programs/NNS in/IN this/DT representation/NN can/MD be/VB optimised/VBN to/TO make/VB them/PRP efficient/JJ on/IN a/DT target/NN distribution/NN of/IN inputs/NNS ./.
+Experimental/JJ results/NNS demonstrate/VBP that/IN our/PRP$ approach/NN enables/VBZ learning/VBG specifically/RB -/HYPH tuned/VBN algorithms/NNS for/IN given/VBN data/NNS distributions/NNS with/IN a/DT high/JJ success/NN rate/NN ./.

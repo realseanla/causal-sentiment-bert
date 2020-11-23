@@ -1,0 +1,4 @@
+We/PRP introduce/VBP a/DT copula/NN mixture/NN model/NN to/TO perform/VB dependency/NN -/HYPH seeking/VBG clustering/NN when/WRB co-occurring/VBG samples/NNS from/IN different/JJ data/NNS sources/NNS are/VBP available/JJ ./.
+The/DT model/NN takes/VBZ advantage/NN of/IN the/DT great/JJ flexibility/NN offered/VBN by/IN the/DT copulas/NNS framework/NN to/TO extend/VB mixtures/NNS of/IN Canonical/JJ Correlation/NN Analysis/NN to/IN multivariate/JJ data/NNS with/IN arbitrary/JJ continuous/JJ marginal/JJ densities/NNS ./.
+We/PRP formulate/VBP our/PRP$ model/NN as/IN a/DT non-parametric/JJ Bayesian/JJ mixture/NN ,/, while/IN providing/VBG efficient/JJ MCMC/NNP inference/NN ./.
+Experiments/NNS on/IN synthetic/JJ and/CC real/JJ data/NNS demonstrate/VBP that/IN the/DT increased/VBN flexibility/NN of/IN the/DT copula/NN mixture/NN significantly/RB improves/VBZ the/DT clustering/NN and/CC the/DT interpretability/NN of/IN the/DT results/NNS ./.

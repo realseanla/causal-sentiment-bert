@@ -1,0 +1,6 @@
+The/DT prevalent/JJ approach/NN to/IN neural/JJ machine/NN translation/NN relies/VBZ on/IN bi-directional/JJ LSTMs/NNPS to/TO encode/VB the/DT source/NN sentence/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT faster/RBR and/CC conceptually/RB simpler/JJR architecture/NN based/VBN on/IN a/DT succession/NN of/IN convolutional/JJ layers/NNS ./.
+This/DT allows/VBZ to/TO encode/VB the/DT entire/JJ source/NN sentence/NN simultaneously/RB compared/VBN to/IN recurrent/JJ networks/NNS for/IN which/WDT computation/NN is/VBZ constrained/VBN by/IN temporal/JJ dependencies/NNS ./.
+We/PRP achieve/VBP a/DT new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN WMT/NNP '16/CD English/NNP -/HYPH Romanian/NNP translation/NN and/CC outperform/VB several/JJ recently/RB published/VBN results/NNS on/IN the/DT WMT/NNP '15/CD English/NNP -/HYPH German/NNP task/NN ./.
+We/PRP also/RB achieve/VBP almost/RB the/DT same/JJ accuracy/NN as/IN a/DT very/RB deep/JJ LSTM/NN setup/NN on/IN WMT/NNP '14/CD English/NNP -/HYPH French/NNP translation/NN ./.
+Our/PRP$ convolutional/JJ encoder/NN speeds/NNS up/IN CPU/NN decoding/NN by/IN more/JJR than/IN two/CD times/NNS at/IN the/DT same/JJ or/CC higher/JJR accuracy/NN as/IN a/DT strong/JJ bi-directional/JJ LSTM/NN baseline/NN ./.

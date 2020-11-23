@@ -1,0 +1,6 @@
+Online/JJ optimization/NN has/VBZ emerged/VBN as/IN powerful/JJ tool/NN in/IN large/JJ scale/NN optimization/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP efficient/JJ online/JJ algorithms/NNS based/VBN on/IN the/DT alternating/VBG directions/NNS method/NN (/-LRB- ADM/NN )/-RRB- ./.
+We/PRP introduce/VBP a/DT new/JJ proof/NN technique/NN for/IN ADM/NNP in/IN the/DT batch/NN setting/NN ,/, which/WDT yields/VBZ the/DT O/NN (/-LRB- 1/CD //SYM T/NN )/-RRB- convergence/NN rate/NN of/IN ADM/NNP and/CC forms/VBZ the/DT basis/NN of/IN regret/NN analysis/NN in/IN the/DT online/JJ setting/NN ./.
+We/PRP consider/VBP two/CD scenarios/NNS in/IN the/DT online/JJ setting/NN ,/, based/VBN on/IN whether/IN the/DT solution/NN needs/VBZ to/TO lie/VB in/IN the/DT feasible/JJ set/NN or/CC not/RB ./.
+In/IN both/DT settings/NNS ,/, we/PRP establish/VBP regret/NN bounds/NNS for/IN both/CC the/DT objective/JJ function/NN as/RB well/RB as/IN constraint/NN violation/NN for/IN general/JJ and/CC strongly/RB convex/JJ functions/NNS ./.
+Preliminary/JJ results/NNS are/VBP presented/VBN to/TO illustrate/VB the/DT performance/NN of/IN the/DT proposed/VBN algorithms/NNS ./.

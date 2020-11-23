@@ -1,0 +1,5 @@
+Deep/JJ reinforcement/NN learning/VBG methods/NNS attain/VB super-human/JJ performance/NN in/IN a/DT wide/JJ range/NN of/IN environments/NNS ./.
+Such/JJ methods/NNS are/VBP grossly/RB inefficient/JJ ,/, often/RB taking/VBG orders/NNS of/IN magnitudes/NNS more/RBR data/NNS than/IN humans/NNS to/TO achieve/VB reasonable/JJ performance/NN ./.
+We/PRP propose/VBP Neural/JJ Episodic/JJ Control/NN :/: a/DT deep/JJ reinforcement/NN learning/VBG agent/NN that/WDT is/VBZ able/JJ to/TO rapidly/RB assimilate/VB new/JJ experiences/NNS and/CC act/VB upon/IN them/PRP ./.
+Our/PRP$ agent/NN uses/VBZ a/DT semi-tabular/JJ representation/NN of/IN the/DT value/NN function/NN :/: a/DT buffer/NN of/IN past/JJ experience/NN containing/VBG slowly/RB changing/VBG state/NN representations/NNS and/CC rapidly/RB updated/VBN estimates/NNS of/IN the/DT value/NN function/NN ./.
+We/PRP show/VBP across/IN a/DT wide/JJ range/NN of/IN environments/NNS that/WDT our/PRP$ agent/NN learns/VBZ significantly/RB faster/JJR than/IN other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ,/, general/JJ purpose/NN deep/JJ reinforcement/NN learning/VBG agents/NNS ./.

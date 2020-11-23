@@ -1,0 +1,9 @@
+We/PRP consider/VBP the/DT adaptive/JJ shortest/JJS -/HYPH path/NN routing/NN problem/NN in/IN wireless/JJ networks/NNS under/IN unknown/JJ and/CC stochastically/RB varying/VBG link/NN states/NNS ./.
+In/IN this/DT problem/NN ,/, we/PRP aim/VBP to/TO optimize/VB the/DT quality/NN of/IN communication/NN between/IN a/DT source/NN and/CC a/DT destination/NN through/IN adaptive/JJ path/NN selection/NN ./.
+Due/IN to/IN the/DT randomness/NN and/CC uncertainties/NNS in/IN the/DT network/NN dynamics/NNS ,/, the/DT quality/NN of/IN each/DT link/NN varies/VBZ over/IN time/NN according/VBG to/IN a/DT stochastic/JJ process/NN with/IN unknown/JJ distributions/NNS ./.
+After/IN a/DT path/NN is/VBZ selected/VBN for/IN communication/NN ,/, the/DT aggregated/JJ quality/NN of/IN all/DT links/NNS on/IN this/DT path/NN (/-LRB- e.g./FW ,/, total/JJ path/NN delay/NN )/-RRB- is/VBZ observed/VBN ./.
+The/DT quality/NN of/IN each/DT individual/JJ link/NN is/VBZ not/RB observable/JJ ./.
+We/PRP formulate/VBP this/DT problem/NN as/IN a/DT multi-armed/JJ bandit/NN with/IN dependent/JJ arms/NNS ./.
+We/PRP show/VBP that/IN by/IN exploiting/VBG arm/NN dependencies/NNS ,/, a/DT regret/NN polynomial/JJ with/IN network/NN size/NN can/MD be/VB achieved/VBN while/IN maintaining/VBG the/DT optimal/JJ logarithmic/JJ order/NN with/IN time/NN ./.
+This/DT is/VBZ in/IN sharp/JJ contrast/NN with/IN the/DT exponential/JJ regret/NN order/NN with/IN network/NN size/NN offered/VBN by/IN a/DT direct/JJ application/NN of/IN the/DT classic/JJ MAB/NN policies/NNS that/WDT ignore/VBP arm/NN dependencies/NNS ./.
+Furthermore/RB ,/, our/PRP$ results/NNS are/VBP obtained/VBN under/IN a/DT general/JJ model/NN of/IN link/NN -/HYPH quality/NN distributions/NNS (/-LRB- including/VBG heavy/JJ -/HYPH tailed/VBN distributions/NNS )/-RRB- and/CC find/VB applications/NNS in/IN cognitive/JJ radio/NN and/CC ad/FW hoc/FW networks/NNS with/IN unknown/JJ and/CC dynamic/JJ communication/NN environments/NNS ./.

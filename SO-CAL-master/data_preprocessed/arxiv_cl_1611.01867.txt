@@ -1,0 +1,7 @@
+Automatic/JJ translation/NN from/IN natural/JJ language/NN descriptions/NNS into/IN programs/NNS is/VBZ a/DT longstanding/JJ challenging/JJ problem/NN ./.
+In/IN this/DT work/NN ,/, we/PRP consider/VBP a/DT simple/JJ yet/RB important/JJ sub-problem/NN :/: translation/NN from/IN textual/JJ descriptions/NNS to/IN If/IN -/HYPH Then/RB programs/NNS ./.
+We/PRP devise/VBP a/DT novel/JJ neural/JJ network/NN architecture/NN for/IN this/DT task/NN which/WDT we/PRP train/VBP end/NN -/HYPH to/IN -/HYPH end/NN ./.
+Specifically/RB ,/, we/PRP introduce/VBP Latent/JJ Attention/NN ,/, which/WDT computes/VBZ multiplicative/JJ weights/NNS for/IN the/DT words/NNS in/IN the/DT description/NN in/IN a/DT two/CD -/HYPH stage/NN process/NN with/IN the/DT goal/NN of/IN better/JJR leveraging/VBG the/DT natural/JJ language/NN structures/NNS that/WDT indicate/VBP the/DT relevant/JJ parts/NNS for/IN predicting/VBG program/NN elements/NNS ./.
+Our/PRP$ architecture/NN reduces/VBZ the/DT error/NN rate/NN by/IN 28.57/CD percent/NN compared/VBN to/IN prior/JJ art/NN ./.
+We/PRP also/RB propose/VBP a/DT one/CD -/HYPH shot/NN learning/NN scenario/NN of/IN If/IN -/HYPH Then/RB program/NN synthesis/NN and/CC simulate/VB it/PRP with/IN our/PRP$ existing/VBG dataset/NN ./.
+We/PRP demonstrate/VBP a/DT variation/NN on/IN the/DT training/NN procedure/NN for/IN this/DT scenario/NN that/WDT outperforms/VBZ the/DT original/JJ procedure/NN ,/, significantly/RB closing/VBG the/DT gap/NN to/IN the/DT model/NN trained/VBN with/IN all/DT data/NNS ./.

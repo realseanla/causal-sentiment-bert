@@ -1,0 +1,8 @@
+Translated/VBN texts/NNS are/VBP distinctively/RB different/JJ from/IN original/JJ ones/NNS ,/, to/IN the/DT extent/NN that/WDT supervised/VBD text/NN classification/NN methods/NNS can/MD distinguish/VB between/IN them/PRP with/IN high/JJ accuracy/NN ./.
+These/DT differences/NNS were/VBD proven/VBN useful/JJ for/IN statistical/JJ machine/NN translation/NN ./.
+However/RB ,/, it/PRP has/VBZ been/VBN suggested/VBN that/IN the/DT accuracy/NN of/IN translation/NN detection/NN deteriorates/VBZ when/WRB the/DT classifier/NN is/VBZ evaluated/VBN outside/IN the/DT domain/NN it/PRP was/VBD trained/VBN on/IN ./.
+We/PRP show/VBP that/IN this/DT is/VBZ indeed/RB the/DT case/NN ,/, in/IN a/DT variety/NN of/IN evaluation/NN scenarios/NNS ./.
+We/PRP then/RB show/VBP that/IN unsupervised/JJ classification/NN is/VBZ highly/RB accurate/JJ on/IN this/DT task/NN ./.
+We/PRP suggest/VBP a/DT method/NN for/IN determining/VBG the/DT correct/JJ labels/NNS of/IN the/DT clustering/NN outcomes/NNS ,/, and/CC then/RB use/VB the/DT labels/NNS for/IN voting/NN ,/, improving/VBG the/DT accuracy/NN even/RB further/RBR ./.
+Moreover/RB ,/, we/PRP suggest/VBP a/DT simple/JJ method/NN for/IN clustering/NN in/IN the/DT challenging/JJ case/NN of/IN mixed/JJ -/HYPH domain/NN datasets/NNS ,/, in/IN spite/NN of/IN the/DT dominance/NN of/IN domain/NN -/HYPH related/VBN features/NNS over/IN translation/NN -/HYPH related/VBN ones/NNS ./.
+The/DT result/NN is/VBZ an/DT effective/JJ ,/, fully/RB -/HYPH unsupervised/JJ method/NN for/IN distinguishing/VBG between/IN original/JJ and/CC translated/VBN texts/NNS that/WDT can/MD be/VB applied/VBN to/IN new/JJ domains/NNS with/IN reasonable/JJ accuracy/NN ./.

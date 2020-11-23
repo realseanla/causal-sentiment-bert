@@ -1,0 +1,6 @@
+The/DT Vapnik/NNP -/HYPH Chervonenkis/NNP (/-LRB- VC/NNP )/-RRB- dimension/NN measures/VBZ the/DT complexity/NN of/IN a/DT learning/NN machine/NN ,/, and/CC a/DT low/JJ VC/NNP dimension/NN leads/VBZ to/IN good/JJ generalization/NN ./.
+The/DT recently/RB proposed/VBN Minimal/JJ Complexity/NN Machine/NN (/-LRB- MCM/NN )/-RRB- learns/VBZ a/DT hyperplane/NN classifier/NN by/IN minimizing/VBG an/DT exact/JJ bound/VBN on/IN the/DT VC/NNP dimension/NN ./.
+This/DT paper/NN extends/VBZ the/DT MCM/NN classifier/NN to/IN the/DT fuzzy/JJ domain/NN ./.
+The/DT use/NN of/IN a/DT fuzzy/JJ membership/NN is/VBZ known/VBN to/TO reduce/VB the/DT effect/NN of/IN outliers/NNS ,/, and/CC to/TO reduce/VB the/DT effect/NN of/IN noise/NN on/IN learning/NN ./.
+Experimental/JJ results/NNS show/VBP ,/, that/DT on/IN a/DT number/NN of/IN benchmark/NN datasets/NNS ,/, the/DT the/DT fuzzy/JJ MCM/NN classifier/NN outperforms/VBZ SVMs/NNS and/CC the/DT conventional/JJ MCM/NN in/IN terms/NNS of/IN generalization/NN ,/, and/CC that/IN the/DT fuzzy/JJ MCM/NN uses/VBZ fewer/JJR support/NN vectors/NNS ./.
+On/IN several/JJ benchmark/NN datasets/NNS ,/, the/DT fuzzy/JJ MCM/NN classifier/NN yields/NNS excellent/JJ test/NN set/VBN accuracies/NNS while/IN using/VBG one/CD -/HYPH tenth/NN the/DT number/NN of/IN support/NN vectors/NNS used/VBN by/IN SVMs/NNS ./.

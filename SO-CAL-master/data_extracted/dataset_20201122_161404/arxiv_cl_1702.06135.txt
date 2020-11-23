@@ -1,0 +1,3 @@
+In this paper, we propose a novel and elegant solution to "Multi-Source Neural Machine Translation" (MSNMT) which only relies on preprocessing a N-way multilingual corpus without modifying the Neural Machine Translation (NMT) architecture or training procedure.
+We simply concatenate the source sentences to form a single long multi-source input sentence while keeping the target side sentence as it is and train an NMT system using this augmented corpus.
+We evaluate our method in a low resource, general domain setting and show its effectiveness (+2 BLEU using 2 source languages and +6 BLEU using 5 source languages) along with some insights on how the NMT system leverages multilingual information in such a scenario by visualizing attention.

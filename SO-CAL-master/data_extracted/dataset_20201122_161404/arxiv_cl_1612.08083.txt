@@ -1,0 +1,6 @@
+The pre-dominant approach to language modeling to date is based on recurrent neural networks.
+In this paper we present a convolutional approach to language modeling.
+We introduce a novel gating mechanism that eases gradient propagation and which performs better than the LSTM-style gating of (Oord et al, 2016) despite being simpler.
+We achieve a new state of the art on WikiText-103 as well as a new best single-GPU result on the Google Billion Word benchmark.
+In settings where latency is important, our model achieves an order of magnitude speed-up compared to a recurrent baseline since computation can be parallelized over time.
+To our knowledge, this is the first time a non-recurrent approach outperforms strong recurrent models on these tasks.

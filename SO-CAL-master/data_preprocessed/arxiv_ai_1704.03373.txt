@@ -1,0 +1,11 @@
+This/DT paper/NN targets/NNS on/IN the/DT problem/NN of/IN set/NN to/TO set/VB recognition/NN ,/, which/WDT learns/VBZ the/DT metric/JJ between/IN two/CD image/NN sets/NNS ./.
+Images/NNS in/IN each/DT set/NN belong/VBP to/IN the/DT same/JJ identity/NN ./.
+Since/IN images/NNS in/IN a/DT set/NN can/MD be/VB complementary/JJ ,/, they/PRP hopefully/RB lead/VBP to/IN higher/JJR accuracy/NN in/IN practical/JJ applications/NNS ./.
+However/RB ,/, the/DT quality/NN of/IN each/DT sample/NN can/MD not/RB be/VB guaranteed/VBN ,/, and/CC samples/NNS with/IN poor/JJ quality/NN will/MD hurt/VB the/DT metric/JJ ./.
+In/IN this/DT paper/NN ,/, the/DT quality/NN aware/JJ network/NN (/-LRB- QAN/NN )/-RRB- is/VBZ proposed/VBN to/TO confront/VB this/DT problem/NN ,/, where/WRB the/DT quality/NN of/IN each/DT sample/NN can/MD be/VB automatically/RB learned/VBN although/IN such/JJ information/NN is/VBZ not/RB explicitly/RB provided/VBN in/IN the/DT training/NN stage/NN ./.
+The/DT network/NN has/VBZ two/CD branches/NNS ,/, where/WRB the/DT first/JJ branch/NN extracts/NNS appearance/NN feature/NN embedding/NN for/IN each/DT sample/NN and/CC the/DT other/JJ branch/NN predicts/VBZ quality/NN score/NN for/IN each/DT sample/NN ./.
+Features/NNS and/CC quality/NN scores/NNS of/IN all/DT samples/NNS in/IN a/DT set/NN are/VBP then/RB aggregated/VBN to/TO generate/VB the/DT final/JJ feature/NN embedding/NN ./.
+We/PRP show/VBP that/IN the/DT two/CD branches/NNS can/MD be/VB trained/VBN in/IN an/DT end/NN -/HYPH to/IN -/HYPH end/NN manner/NN given/VBN only/RB the/DT set/NN -/HYPH level/NN identity/NN annotation/NN ./.
+Analysis/NN on/IN gradient/NN spread/NN of/IN this/DT mechanism/NN indicates/VBZ that/IN the/DT quality/NN learned/VBN by/IN the/DT network/NN is/VBZ beneficial/JJ to/TO set/VB -/: to/IN -/HYPH set/NN recognition/NN and/CC simplifies/VBZ the/DT distribution/NN that/IN the/DT network/NN needs/VBZ to/TO fit/VB ./.
+Experiments/NNS on/IN both/DT face/NN verification/NN and/CC person/NN re-identification/NN show/NN advantages/NNS of/IN the/DT proposed/VBN QAN/NNP ./.
+The/DT source/NN code/NN and/CC network/NN structure/NN can/MD be/VB downloaded/VBN at/IN

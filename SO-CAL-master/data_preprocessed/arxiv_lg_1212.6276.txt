@@ -1,0 +1,9 @@
+In/IN the/DT last/JJ decade/NN ,/, a/DT new/JJ computational/JJ paradigm/NN was/VBD introduced/VBN in/IN the/DT field/NN of/IN Machine/NN Learning/NN ,/, under/IN the/DT name/NN of/IN Reservoir/NNP Computing/NNP (/-LRB- RC/NNP )/-RRB- ./.
+RC/NNP models/NNS are/VBP neural/JJ networks/NNS which/WDT a/DT recurrent/JJ part/NN (/-LRB- the/DT reservoir/NN )/-RRB- that/WDT does/VBZ not/RB participate/VB in/IN the/DT learning/NN process/NN ,/, and/CC the/DT rest/NN of/IN the/DT system/NN where/WRB no/DT recurrence/NN (/-LRB- no/DT neural/JJ circuit/NN )/-RRB- occurs/VBZ ./.
+This/DT approach/NN has/VBZ grown/VBN rapidly/RB due/IN to/IN its/PRP$ success/NN in/IN solving/VBG learning/NN tasks/NNS and/CC other/JJ computational/JJ applications/NNS ./.
+Some/DT success/NN was/VBD also/RB observed/VBN with/IN another/DT recently/RB proposed/VBN neural/JJ network/NN designed/VBN using/VBG Queueing/NNP Theory/NNP ,/, the/DT Random/NNP Neural/JJ Network/NN (/-LRB- RandNN/NN )/-RRB- ./.
+Both/DT approaches/NNS have/VBP good/JJ properties/NNS and/CC identified/VBN drawbacks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ RC/NNP model/NN called/VBN Echo/NNP State/NNP Queueing/NNP Network/NNP (/-LRB- ESQN/NNP )/-RRB- ,/, where/WRB we/PRP use/VBP ideas/NNS coming/VBG from/IN RandNNs/NNS for/IN the/DT design/NN of/IN the/DT reservoir/NN ./.
+ESQNs/NNS consist/VBP in/IN ESNs/NNS where/WRB the/DT reservoir/NN has/VBZ a/DT new/JJ dynamics/NNS inspired/VBN by/IN recurrent/JJ RandNNs/NNS ./.
+The/DT paper/NN positions/NNS ESQNs/NNS in/IN the/DT global/JJ Machine/NN Learning/VBG area/NN ,/, and/CC provides/VBZ examples/NNS of/IN their/PRP$ use/NN and/CC performances/NNS ./.
+We/PRP show/VBP on/IN largely/RB used/VBN benchmarks/NNS that/WDT ESQNs/NNS are/VBP very/RB accurate/JJ tools/NNS ,/, and/CC we/PRP illustrate/VBP how/WRB they/PRP compare/VBP with/IN standard/JJ ESNs/NNS ./.

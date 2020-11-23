@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT novel/JJ network/NN structure/NN called/VBN "/`` Network/NNP In/NNP Network/NNP "/'' (/-LRB- NIN/NNP )/-RRB- to/TO enhance/VB the/DT model/NN discriminability/NN for/IN local/JJ receptive/JJ fields/NNS ./.
+The/DT conventional/JJ convolutional/JJ layer/NN uses/VBZ linear/JJ filters/NNS followed/VBN by/IN a/DT nonlinear/JJ activation/NN function/NN to/TO scan/VB the/DT input/NN ./.
+Instead/RB ,/, we/PRP build/VBP micro/AFX neural/JJ networks/NNS with/IN more/JJR complex/JJ structures/NNS to/TO handle/VB the/DT variance/NN of/IN the/DT local/JJ receptive/JJ fields/NNS ./.
+We/PRP instantiate/VBP the/DT micro/JJ neural/JJ network/NN with/IN a/DT nonlinear/JJ multiple/JJ layer/NN structure/NN which/WDT is/VBZ a/DT potent/JJ function/NN approximator/NN ./.
+The/DT feature/NN maps/NNS are/VBP obtained/VBN by/IN sliding/VBG the/DT micro/JJ networks/NNS over/IN the/DT input/NN in/IN a/DT similar/JJ manner/NN of/IN CNN/NNP and/CC then/RB fed/VBN into/IN the/DT next/JJ layer/NN ./.
+The/DT deep/JJ NIN/NN is/VBZ thus/RB implemented/VBN as/IN stacking/VBG of/IN multiple/JJ sliding/VBG micro/NN neural/JJ networks/NNS ./.
+We/PRP demonstrated/VBD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN classification/NN performances/NNS with/IN NIN/NN on/IN CIFAR/NNP -/HYPH 10/100/CD ,/, SVHN/NNP and/CC MINST/NNP datasets/NNS ./.

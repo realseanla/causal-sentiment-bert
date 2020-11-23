@@ -1,0 +1,8 @@
+The/DT understanding/NN of/IN the/DT buildings/NNS operation/NN has/VBZ become/VBN a/DT challenging/JJ task/NN due/IN to/IN the/DT large/JJ amount/NN of/IN data/NNS recorded/VBN in/IN energy/NN efficient/JJ buildings/NNS ./.
+Still/RB ,/, today/NN the/DT experts/NNS use/VBP visual/JJ tools/NNS for/IN analyzing/VBG the/DT data/NNS ./.
+In/IN order/NN to/TO make/VB the/DT task/NN realistic/JJ ,/, a/DT method/NN has/VBZ been/VBN proposed/VBN in/IN this/DT paper/NN to/TO automatically/RB detect/VB the/DT different/JJ patterns/NNS in/IN buildings/NNS ./.
+The/DT K/NN Means/VBZ clustering/NN is/VBZ used/VBN to/TO automatically/RB identify/VB the/DT ON/NNP (/-LRB- operational/JJ )/-RRB- cycles/NNS of/IN the/DT chiller/NN ./.
+In/IN the/DT next/JJ step/NN the/DT ON/NNP cycles/NNS are/VBP transformed/VBN to/IN symbolic/JJ representation/NN by/IN using/VBG Symbolic/NNP Aggregate/NNP Approximation/NNP (/-LRB- SAX/NNP )/-RRB- method/NN ./.
+Then/RB the/DT SAX/NNP symbols/NNS are/VBP converted/VBN to/IN bag/NN of/IN words/NNS representation/NN for/IN hierarchical/JJ clustering/NN ./.
+Moreover/RB ,/, the/DT proposed/VBN technique/NN is/VBZ applied/VBN to/IN real/JJ life/NN data/NNS of/IN adsorption/NN chiller/NN ./.
+Additionally/RB ,/, the/DT results/NNS from/IN the/DT proposed/JJ method/NN and/CC dynamic/JJ time/NN warping/NN (/-LRB- DTW/NN )/-RRB- approach/NN are/VBP also/RB discussed/VBN and/CC compared/VBN ./.

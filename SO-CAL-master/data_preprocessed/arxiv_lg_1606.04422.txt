@@ -1,0 +1,6 @@
+We/PRP propose/VBP real/JJ logic/NN :/: a/DT uniform/JJ framework/NN for/IN integrating/VBG automatic/JJ learning/NN and/CC reasoning/NN ./.
+Real/JJ logic/NN is/VBZ defined/VBN on/IN a/DT full/JJ first/JJ -/HYPH order/NN language/NN where/WRB formulas/NNS have/VBP truth/NN -/HYPH value/NN in/IN the/DT interval/NN [/-LRB- 0,1/CD ]/-RRB- and/CC semantics/NNS defined/VBN concretely/RB on/IN the/DT domain/NN of/IN real/JJ numbers/NNS ./.
+Logical/JJ constants/NNS are/VBP interpreted/VBN as/IN (/-LRB- feature/NN )/-RRB- vectors/NNS of/IN real/JJ numbers/NNS ./.
+Real/JJ logic/NN promotes/VBZ a/DT well/RB -/HYPH founded/VBN integration/NN of/IN deductive/JJ reasoning/NN on/IN knowledge/NN -/HYPH bases/NNS with/IN efficient/JJ ,/, data/NN -/HYPH driven/VBN relational/JJ machine/NN learning/NN ./.
+We/PRP show/VBP how/WRB Real/JJ Logic/NN can/MD be/VB implemented/VBN in/IN deep/JJ Tensor/NNP Neural/JJ Networks/NNS with/IN the/DT use/NN of/IN Google/NNP 's/POS TensorFlow/NNP primitives/NNS ./.
+The/DT paper/NN concludes/VBZ with/IN experiments/NNS on/IN a/DT simple/JJ but/CC representative/JJ example/NN of/IN knowledge/NN completion/NN ./.

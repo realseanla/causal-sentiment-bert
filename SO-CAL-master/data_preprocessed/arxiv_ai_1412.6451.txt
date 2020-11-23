@@ -1,0 +1,7 @@
+Methods/NNS of/IN deep/JJ machine/NN learning/NN enable/VBP to/TO to/TO reuse/VB low/JJ -/HYPH level/NN representations/NNS efficiently/RB for/IN generating/VBG more/JJR abstract/JJ high/JJ -/HYPH level/NN representations/NNS ./.
+Originally/RB ,/, deep/JJ learning/NN has/VBZ been/VBN applied/VBN passively/RB (/-LRB- e.g./FW ,/, for/IN classification/NN purposes/NNS )/-RRB- ./.
+Recently/RB ,/, it/PRP has/VBZ been/VBN extended/VBN to/TO estimate/VB the/DT value/NN of/IN actions/NNS for/IN autonomous/JJ agents/NNS within/IN the/DT framework/NN of/IN reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- ./.
+Explicit/JJ models/NNS of/IN the/DT environment/NN can/MD be/VB learned/VBN to/TO augment/VB such/PDT a/DT value/NN function/NN ./.
+Although/IN "/`` flat/JJ "/'' connectionist/JJ methods/NNS have/VBP already/RB been/VBN used/VBN for/IN model/NN -/HYPH based/VBN RL/NNP ,/, up/RB to/IN now/RB ,/, only/RB model/NN -/HYPH free/JJ variants/NNS of/IN RL/NNP have/VBP been/VBN equipped/VBN with/IN methods/NNS from/IN deep/JJ learning/NN ./.
+We/PRP propose/VBP a/DT variant/NN of/IN deep/JJ model/NN -/HYPH based/VBN RL/NNP that/WDT enables/VBZ an/DT agent/NN to/TO learn/VB arbitrarily/RB abstract/JJ hierarchical/JJ representations/NNS of/IN its/PRP$ environment/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP research/NN on/IN how/WRB such/JJ hierarchical/JJ representations/NNS can/MD be/VB grounded/VBN in/IN sensorimotor/NN interaction/NN between/IN an/DT agent/NN and/CC its/PRP$ environment/NN ./.

@@ -1,0 +1,7 @@
+Answer/NN Set/VBN Programming/NN (/-LRB- ASP/NN )/-RRB- is/VBZ a/DT well/RB -/HYPH established/VBN formalism/NN for/IN nonmonotonic/JJ reasoning/NN ./.
+An/DT ASP/NN program/NN can/MD have/VB no/DT answer/NN set/VBN due/IN to/IN cyclic/JJ default/NN negation/NN ./.
+In/IN this/DT case/NN ,/, it/PRP is/VBZ not/RB possible/JJ to/TO draw/VB any/DT conclusion/NN ,/, even/RB if/IN this/DT is/VBZ not/RB intended/VBN ./.
+Recently/RB ,/, several/JJ paracoherent/JJ semantics/NNS have/VBP been/VBN proposed/VBN that/IN address/NN this/DT issue/NN ,/, and/CC several/JJ potential/JJ applications/NNS for/IN these/DT semantics/NNS have/VBP been/VBN identified/VBN ./.
+However/RB ,/, paracoherent/JJ semantics/NNS have/VBP essentially/RB been/VBN inapplicable/JJ in/IN practice/NN ,/, due/IN to/IN the/DT lack/NN of/IN efficient/JJ algorithms/NNS and/CC implementations/NNS ./.
+In/IN this/DT paper/NN ,/, this/DT lack/NN is/VBZ addressed/VBN ,/, and/CC several/JJ different/JJ algorithms/NNS to/TO compute/VB semi-stable/JJ and/CC semi-equilibrium/JJ models/NNS are/VBP proposed/VBN and/CC implemented/VBN into/IN an/DT answer/NN set/VBN solving/VBG framework/NN ./.
+An/DT empirical/JJ performance/NN comparison/NN among/IN the/DT new/JJ algorithms/NNS on/IN benchmarks/NNS from/IN ASP/NN competitions/NNS is/VBZ given/VBN as/RB well/RB ./.

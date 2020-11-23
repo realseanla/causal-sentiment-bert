@@ -1,0 +1,7 @@
+The/DT convergence/NN of/IN Stochastic/NNP Gradient/NNP Descent/NNP (/-LRB- SGD/NNP )/-RRB- using/VBG convex/NN loss/NN functions/NNS has/VBZ been/VBN widely/RB studied/VBN ./.
+However/RB ,/, vanilla/NN SGD/NN methods/NNS using/VBG convex/NN losses/NNS can/MD not/RB perform/VB well/RB with/IN noisy/JJ labels/NNS ,/, which/WDT adversely/RB affect/VBP the/DT update/NN of/IN the/DT primal/JJ variable/NN in/IN SGD/NNP methods/NNS ./.
+Unfortunately/RB ,/, noisy/JJ labels/NNS are/VBP ubiquitous/JJ in/IN real/JJ world/NN applications/NNS such/JJ as/IN crowdsourcing/NN ./.
+To/TO handle/VB noisy/JJ labels/NNS ,/, in/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT family/NN of/IN robust/JJ losses/NNS for/IN SGD/NNP methods/NNS ./.
+By/IN employing/VBG our/PRP$ robust/JJ losses/NNS ,/, SGD/NNP methods/NNS successfully/RB reduce/VBP negative/JJ effects/NNS caused/VBN by/IN noisy/JJ labels/NNS on/IN each/DT update/NN of/IN the/DT primal/JJ variable/NN ./.
+We/PRP not/RB only/RB reveal/VBP that/IN the/DT convergence/NN rate/NN is/VBZ O/NN (/-LRB- 1/CD //SYM T/NN )/-RRB- for/IN SGD/NNP methods/NNS using/VBG robust/JJ losses/NNS ,/, but/CC also/RB provide/VBP the/DT robustness/NN analysis/NN on/IN two/CD representative/JJ robust/JJ losses/NNS ./.
+Comprehensive/NNP experimental/JJ results/NNS on/IN six/CD real/JJ -/HYPH world/NN datasets/NNS show/VBP that/IN SGD/NNP methods/NNS using/VBG robust/JJ losses/NNS are/VBP obviously/RB more/RBR robust/JJ than/IN other/JJ baseline/NN methods/NNS in/IN most/JJS situations/NNS with/IN fast/JJ convergence/NN ./.

@@ -1,0 +1,8 @@
+The/DT goal/NN of/IN diagnosis/NN is/VBZ to/TO compute/VB good/JJ repair/NN strategies/NNS in/IN response/NN to/IN anomalous/JJ system/NN behavior/NN ./.
+In/IN a/DT decision/NN theoretic/JJ framework/NN ,/, a/DT good/JJ repair/NN strategy/NN has/VBZ low/RB expected/VBN cost/NN ./.
+In/IN a/DT general/JJ formulation/NN of/IN the/DT problem/NN ,/, the/DT computation/NN of/IN the/DT optimal/JJ (/-LRB- lowest/JJS expected/VBN cost/NN )/-RRB- repair/NN strategy/NN for/IN a/DT system/NN with/IN multiple/JJ faults/NNS is/VBZ intractable/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP an/DT interesting/JJ and/CC natural/JJ restriction/NN on/IN the/DT behavior/NN of/IN the/DT system/NN being/VBG diagnosed/VBN :/: (/-LRB- a/LS )/-RRB- the/DT system/NN exhibits/VBZ faulty/JJ behavior/NN if/IN and/CC only/RB if/IN one/CD or/CC more/JJR components/NNS is/VBZ malfunctioning/VBG ./.
+(/-LRB- b/LS )/-RRB- The/DT failures/NNS of/IN the/DT system/NN components/NNS are/VBP independent/JJ ./.
+Given/VBN this/DT restriction/NN on/IN system/NN behavior/NN ,/, we/PRP develop/VBP a/DT polynomial/JJ time/NN algorithm/NN for/IN computing/VBG the/DT optimal/JJ repair/NN strategy/NN ./.
+We/PRP then/RB go/VB on/IN to/TO introduce/VB a/DT system/NN hierarchy/NN and/CC the/DT notion/NN of/IN inspecting/VBG (/-LRB- testing/NN )/-RRB- components/NNS before/IN repair/NN ./.
+We/PRP develop/VBP a/DT linear/JJ time/NN algorithm/NN for/IN computing/VBG an/DT optimal/JJ repair/NN strategy/NN for/IN the/DT hierarchical/JJ system/NN which/WDT includes/VBZ both/DT repair/NN and/CC inspection/NN ./.

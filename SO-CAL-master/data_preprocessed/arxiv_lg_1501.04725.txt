@@ -1,0 +1,8 @@
+The/DT problem/NN of/IN inferring/VBG an/DT inductive/JJ invariant/JJ for/IN verifying/VBG program/NN safety/NN can/MD be/VB formulated/VBN in/IN terms/NNS of/IN binary/JJ classification/NN ./.
+This/DT is/VBZ a/DT standard/JJ problem/NN in/IN machine/NN learning/NN :/: given/VBN a/DT sample/NN of/IN good/JJ and/CC bad/JJ points/NNS ,/, one/CD is/VBZ asked/VBN to/TO find/VB a/DT classifier/NN that/WDT generalizes/VBZ from/IN the/DT sample/NN and/CC separates/VBZ the/DT two/CD sets/NNS ./.
+Here/RB ,/, the/DT good/JJ points/NNS are/VBP the/DT reachable/JJ states/NNS of/IN the/DT program/NN ,/, and/CC the/DT bad/JJ points/NNS are/VBP those/DT that/WDT reach/VBP a/DT safety/NN property/NN violation/NN ./.
+Thus/RB ,/, a/DT learned/VBN classifier/NN is/VBZ a/DT candidate/NN invariant/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ algorithm/NN that/WDT uses/VBZ decision/NN trees/NNS to/TO learn/VB candidate/NN invariants/NNS in/IN the/DT form/NN of/IN arbitrary/JJ Boolean/JJ combinations/NNS of/IN numerical/JJ inequalities/NNS ./.
+We/PRP have/VBP used/VBN our/PRP$ algorithm/NN to/TO verify/VB C/NN programs/NNS taken/VBN from/IN the/DT literature/NN ./.
+The/DT algorithm/NN is/VBZ able/JJ to/TO infer/VB safe/JJ invariants/NNS for/IN a/DT range/NN of/IN challenging/JJ benchmarks/NNS and/CC compares/VBZ favorably/RB to/IN other/JJ ML/NNP -/HYPH based/VBN invariant/JJ inference/NN techniques/NNS ./.
+In/IN particular/JJ ,/, it/PRP scales/VBZ well/RB to/IN large/JJ sample/NN sets/NNS ./.

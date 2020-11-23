@@ -1,0 +1,7 @@
+How/WRB can/MD we/PRP design/VB good/JJ goals/NNS for/IN arbitrarily/RB intelligent/JJ agents/NNS ?/.
+Reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- is/VBZ a/DT natural/JJ approach/NN ./.
+Unfortunately/RB ,/, RL/NNP does/VBZ not/RB work/VB well/RB for/IN generally/RB intelligent/JJ agents/NNS ,/, as/IN RL/NNP agents/NNS are/VBP incentivised/VBN to/IN shortcut/NN the/DT reward/NN sensor/NN for/IN maximum/JJ reward/NN --/: the/DT so/RB -/HYPH called/VBN wireheading/NN problem/NN ./.
+In/IN this/DT paper/NN we/PRP suggest/VBP an/DT alternative/NN to/IN RL/NNP called/VBN value/NN reinforcement/NN learning/NN (/-LRB- VRL/NN )/-RRB- ./.
+In/IN VRL/NN ,/, agents/NNS use/VBP the/DT reward/NN signal/NN to/TO learn/VB a/DT utility/NN function/NN ./.
+The/DT VRL/NN setup/NN allows/VBZ us/PRP to/TO remove/VB the/DT incentive/NN to/TO wirehead/VB by/IN placing/VBG a/DT constraint/NN on/IN the/DT agent/NN 's/POS actions/NNS ./.
+The/DT constraint/NN is/VBZ defined/VBN in/IN terms/NNS of/IN the/DT agent/NN 's/POS belief/NN distributions/NNS ,/, and/CC does/VBZ not/RB require/VB an/DT explicit/JJ specification/NN of/IN which/WDT actions/NNS constitute/VBP wireheading/NN ./.

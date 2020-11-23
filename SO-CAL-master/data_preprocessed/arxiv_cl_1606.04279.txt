@@ -1,0 +1,7 @@
+Morphologically/RB rich/JJ languages/NNS often/RB lack/VBP the/DT annotated/VBN linguistic/JJ resources/NNS required/VBN to/TO develop/VB accurate/JJ natural/JJ language/NN processing/NN tools/NNS ./.
+We/PRP propose/VBP models/NNS suitable/JJ for/IN training/NN morphological/JJ taggers/NNS with/IN rich/JJ tagsets/NNS for/IN low/JJ -/HYPH resource/NN languages/NNS without/IN using/VBG direct/JJ supervision/NN ./.
+Our/PRP$ approach/NN extends/VBZ existing/VBG approaches/NNS of/IN projecting/VBG part/NN -/HYPH of/IN -/HYPH speech/NN tags/NNS across/IN languages/NNS ,/, using/VBG bitext/NN to/TO infer/VB constraints/NNS on/IN the/DT possible/JJ tags/NNS for/IN a/DT given/VBN word/NN type/NN or/CC token/NN ./.
+We/PRP propose/VBP a/DT tagging/NN model/NN using/VBG Wsabie/NNP ,/, a/DT discriminative/JJ embedding/NN -/HYPH based/VBN model/NN with/IN rank/NN -/HYPH based/VBN learning/NN ./.
+In/IN our/PRP$ evaluation/NN on/IN 11/CD languages/NNS ,/, on/IN average/JJ this/DT model/NN performs/VBZ on/IN par/NN with/IN a/DT baseline/NN weakly/RB -/HYPH supervised/JJ HMM/NNP ,/, while/IN being/VBG more/RBR scalable/JJ ./.
+Multilingual/JJ experiments/NNS show/VBP that/IN the/DT method/NN performs/VBZ best/RB when/WRB projecting/VBG between/IN related/JJ language/NN pairs/NNS ./.
+Despite/IN the/DT inherently/RB lossy/JJ projection/NN ,/, we/PRP show/VBP that/IN the/DT morphological/JJ tags/NNS predicted/VBN by/IN our/PRP$ models/NNS improve/VB the/DT downstream/JJ performance/NN of/IN a/DT parser/NN by/IN 0.6/CD LAS/NN on/IN average/JJ ./.

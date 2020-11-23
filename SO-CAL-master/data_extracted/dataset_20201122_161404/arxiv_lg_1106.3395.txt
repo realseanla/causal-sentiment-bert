@@ -1,0 +1,7 @@
+One of the major challenges of ECoG-based Brain-Machine Interfaces is the movement prediction of a human subject.
+Several methods exist to predict an arm 2-D trajectory.
+The fourth BCI Competition gives a dataset in which the aim is to predict individual finger movements (5-D trajectory).
+The difficulty lies in the fact that there is no simple relation between ECoG signals and finger movement.
+We propose in this paper to decode finger flexions using switching models.
+This method permits to simplify the system as it is now described as an ensemble of linear models depending on an internal state.
+We show that an interesting accuracy prediction can be obtained by such a model.

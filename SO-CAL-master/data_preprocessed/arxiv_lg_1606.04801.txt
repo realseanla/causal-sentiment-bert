@@ -1,0 +1,9 @@
+To/IN what/WDT extent/NN is/VBZ the/DT success/NN of/IN deep/JJ visualization/NN due/IN to/IN the/DT training/NN ?/.
+Could/MD we/PRP do/VB deep/JJ visualization/NN using/VBG untrained/JJ ,/, random/JJ weight/NN networks/NNS ?/.
+To/TO address/VB this/DT issue/NN ,/, we/PRP explore/VBP new/JJ and/CC powerful/JJ generative/JJ models/NNS for/IN three/CD popular/JJ deep/JJ visualization/NN tasks/NNS using/VBG untrained/JJ ,/, random/JJ weight/NN convolutional/JJ neural/JJ networks/NNS ./.
+First/RB we/PRP invert/VBP representations/NNS in/IN feature/NN spaces/NNS and/CC reconstruct/VB images/NNS from/IN white/JJ noise/NN inputs/NNS ./.
+The/DT reconstruction/NN quality/NN is/VBZ statistically/RB higher/JJR than/IN that/DT of/IN the/DT same/JJ method/NN applied/VBD on/RP well/RB trained/VBN networks/NNS with/IN the/DT same/JJ architecture/NN ./.
+Next/RB we/PRP synthesize/VBP textures/NNS using/VBG scaled/VBN correlations/NNS of/IN representations/NNS in/IN multiple/JJ layers/NNS and/CC our/PRP$ results/NNS are/VBP almost/RB indistinguishable/JJ with/IN the/DT original/JJ natural/JJ texture/NN and/CC the/DT synthesized/VBN textures/NNS based/VBN on/IN the/DT trained/VBN network/NN ./.
+Third/JJ ,/, by/IN recasting/VBG the/DT content/NN of/IN an/DT image/NN in/IN the/DT style/NN of/IN various/JJ artworks/NNS ,/, we/PRP create/VBP artistic/JJ images/NNS with/IN high/JJ perceptual/JJ quality/NN ,/, highly/RB competitive/JJ to/IN the/DT prior/JJ work/NN of/IN Gatys/NNP et/FW al./FW on/IN pretrained/JJ networks/NNS ./.
+To/IN our/PRP$ knowledge/NN this/DT is/VBZ the/DT first/JJ demonstration/NN of/IN image/NN representations/NNS using/VBG untrained/JJ deep/JJ neural/JJ networks/NNS ./.
+Our/PRP$ work/NN provides/VBZ a/DT new/JJ and/CC fascinating/JJ tool/NN to/TO study/VB the/DT representation/NN of/IN deep/JJ network/NN architecture/NN and/CC sheds/VBZ light/NN on/IN new/JJ understandings/NNS on/IN deep/JJ visualization/NN ./.

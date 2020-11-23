@@ -1,0 +1,5 @@
+Artificial/NNP neural/JJ networks/NNS are/VBP powerful/JJ models/NNS ,/, which/WDT have/VBP been/VBN widely/RB applied/VBN into/IN many/JJ aspects/NNS of/IN machine/NN translation/NN ,/, such/JJ as/IN language/NN modeling/NN and/CC translation/NN modeling/NN ./.
+Though/IN notable/JJ improvements/NNS have/VBP been/VBN made/VBN in/IN these/DT areas/NNS ,/, the/DT reordering/NN problem/NN still/RB remains/VBZ a/DT challenge/NN in/IN statistical/JJ machine/NN translations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ neural/JJ reordering/NN model/NN that/WDT directly/RB models/NNS word/NN pairs/NNS and/CC alignment/NN ./.
+By/IN utilizing/VBG LSTM/NNP recurrent/JJ neural/JJ networks/NNS ,/, much/RB longer/JJR context/NN could/MD be/VB learned/VBN for/IN reordering/NN prediction/NN ./.
+Experimental/JJ results/NNS on/IN NIST/NNP OpenMT12/NNP Arabic/NNP -/HYPH English/NNP and/CC Chinese/NNP -/HYPH English/NNP 1000/CD -/HYPH best/JJS rescoring/NN task/NN show/VBP that/IN our/PRP$ LSTM/NNP neural/JJ reordering/NN feature/NN is/VBZ robust/JJ and/CC achieves/VBZ significant/JJ improvements/NNS over/IN various/JJ baseline/NN systems/NNS ./.

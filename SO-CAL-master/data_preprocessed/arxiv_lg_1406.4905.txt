@@ -1,0 +1,6 @@
+State/NN -/HYPH space/NN models/NNS have/VBP been/VBN successfully/RB used/VBN for/IN more/JJR than/IN fifty/CD years/NNS in/IN different/JJ areas/NNS of/IN science/NN and/CC engineering/NN ./.
+We/PRP present/VBP a/DT procedure/NN for/IN efficient/JJ variational/JJ Bayesian/JJ learning/NN of/IN nonlinear/JJ state/NN -/HYPH space/NN models/NNS based/VBN on/IN sparse/JJ Gaussian/JJ processes/NNS ./.
+The/DT result/NN of/IN learning/NN is/VBZ a/DT tractable/JJ posterior/JJ over/IN nonlinear/JJ dynamical/JJ systems/NNS ./.
+In/IN comparison/NN to/IN conventional/JJ parametric/JJ models/NNS ,/, we/PRP offer/VBP the/DT possibility/NN to/IN straightforwardly/RB trade/NN off/RP model/NN capacity/NN and/CC computational/JJ cost/NN whilst/IN avoiding/VBG overfitting/NN ./.
+Our/PRP$ main/JJ algorithm/NN uses/VBZ a/DT hybrid/NN inference/NN approach/NN combining/VBG variational/NNP Bayes/NNP and/CC sequential/JJ Monte/NNP Carlo/NNP ./.
+We/PRP also/RB present/JJ extensions/NNS to/IN stochastic/JJ variational/JJ inference/NN and/CC online/JJ learning/NN ./.

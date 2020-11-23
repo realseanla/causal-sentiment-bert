@@ -1,0 +1,7 @@
+Perturb and Combine (P&amp;C) group of methods generate multiple versions of the predictor by perturbing the training set or construction and then combining them into a single predictor (Breiman, 1996b).
+The motive is to improve the accuracy in unstable classification and regression methods.
+One of the most well known method in this group is Bagging.
+Arcing or Adaptive Resampling and Combining methods like AdaBoost are smarter variants of P&amp;C methods.
+In this extended abstract, we lay the groundwork for a new family of methods under the P&amp;C umbrella, known as Evolutionary Sampling (ES).
+We employ Evolutionary algorithms to suggest smarter sampling in both the feature space (sub-spaces) as well as training samples.
+We discuss multiple fitness functions to assess ensembles and empirically compare our performance against randomized sampling of training data and feature sub-spaces.

@@ -1,0 +1,5 @@
+Deciding/VBG what/WP to/IN sense/NN is/VBZ a/DT crucial/JJ task/NN ,/, made/VBN harder/RBR by/IN dependencies/NNS and/CC by/IN a/DT nonadditive/JJ utility/NN function/NN ./.
+We/PRP develop/VBP approximation/NN algorithms/NNS for/IN selecting/VBG an/DT optimal/JJ set/NN of/IN measurements/NNS ,/, under/IN a/DT dependency/NN structure/NN modeled/VBN by/IN a/DT tree/NN -/HYPH shaped/VBN Bayesian/JJ network/NN (/-LRB- BN/NN )/-RRB- ./.
+Our/PRP$ approach/NN is/VBZ a/DT generalization/NN of/IN composing/VBG anytime/RB algorithm/NN represented/VBN by/IN conditional/JJ performance/NN profiles/NNS ./.
+This/DT is/VBZ done/VBN by/IN relaxing/VBG the/DT input/NN monotonicity/NN assumption/NN ,/, and/CC extending/VBG the/DT local/JJ compilation/NN technique/NN to/IN more/JJR general/JJ classes/NNS of/IN performance/NN profiles/NNS (/-LRB- PPs/NNS )/-RRB- ./.
+We/PRP apply/VBP the/DT extended/JJ scheme/NN to/IN selecting/VBG a/DT subset/NN of/IN measurements/NNS for/IN choosing/VBG a/DT maximum/JJ expectation/NN variable/NN in/IN a/DT binary/JJ valued/VBN BN/NN ,/, and/CC for/IN minimizing/VBG the/DT worst/JJS variance/NN in/IN a/DT Gaussian/JJ BN/NN ./.

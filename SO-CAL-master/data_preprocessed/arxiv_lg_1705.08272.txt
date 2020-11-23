@@ -1,0 +1,8 @@
+Many/JJ machine/NN learning/NN tasks/NNS require/VBP finding/VBG per/IN -/HYPH part/NN correspondences/NNS between/IN objects/NNS ./.
+In/IN this/DT work/NN we/PRP focus/VBP on/IN low/JJ -/HYPH level/NN correspondences/NNS -/: a/DT highly/RB ambiguous/JJ matching/NN problem/NN ./.
+We/PRP propose/VBP to/TO use/VB a/DT hierarchical/JJ semantic/JJ representation/NN of/IN the/DT objects/NNS ,/, coming/VBG from/IN a/DT convolutional/JJ neural/JJ network/NN ,/, to/TO solve/VB this/DT ambiguity/NN ./.
+Training/VBG it/PRP for/IN low/JJ -/HYPH level/NN correspondence/NN prediction/NN directly/RB might/MD not/RB be/VB an/DT option/NN in/IN some/DT domains/NNS where/WRB the/DT ground/NN -/HYPH truth/NN correspondences/NNS are/VBP hard/JJ to/TO obtain/VB ./.
+We/PRP show/VBP how/WRB transfer/NN from/IN recognition/NN can/MD be/VB used/VBN to/TO avoid/VB such/JJ training/NN ./.
+Our/PRP$ idea/NN is/VBZ to/TO mark/VB parts/NNS as/IN "/`` matching/VBG "/'' if/IN their/PRP$ features/NNS are/VBP close/JJ to/IN each/DT other/JJ at/IN all/PDT the/DT levels/NNS of/IN convolutional/JJ feature/NN hierarchy/NN (/-LRB- neural/JJ paths/NNS )/-RRB- ./.
+Although/IN the/DT overall/JJ number/NN of/IN such/JJ paths/NNS is/VBZ exponential/JJ in/IN the/DT number/NN of/IN layers/NNS ,/, we/PRP propose/VBP a/DT polynomial/JJ algorithm/NN for/IN aggregating/VBG all/DT of/IN them/PRP in/IN a/DT single/JJ backward/JJ pass/NN ./.
+The/DT empirical/JJ validation/NN is/VBZ done/VBN on/IN the/DT task/NN of/IN stereo/NN correspondence/NN and/CC demonstrates/VBZ that/IN we/PRP achieve/VBP competitive/JJ results/NNS among/IN the/DT methods/NNS which/WDT do/VBP not/RB use/VB labeled/VBN target/NN domain/NN data/NNS ./.

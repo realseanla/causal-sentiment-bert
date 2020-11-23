@@ -1,0 +1,10 @@
+Recent works on interactive video object cutout mainly focus on designing dynamic foreground-background (FB) classifiers for segmentation propagation.
+However, the research on optimally removing errors from the FB classification is sparse, and the errors often accumulate rapidly, causing significant errors in the propagated frames.
+In this work, we take the initial steps to addressing this problem, and we call this new task \emph{segmentation rectification}.
+Our key observation is that the possibly asymmetrically distributed false positive and false negative errors were handled equally in the conventional methods.
+We, alternatively, propose to optimally remove these two types of errors.
+To this effect, we propose a novel bilayer Markov Random Field (MRF) model for this new task.
+We also adopt the well-established structured learning framework to learn the optimal model from data.
+Additionally, we propose a novel one-class structured SVM (OSSVM) which greatly speeds up the structured learning process.
+Our method naturally extends to RGB-D videos as well.
+Comprehensive experiments on both RGB and RGB-D data demonstrate that our simple and effective method significantly outperforms the segmentation propagation methods adopted in the state-of-the-art video cutout systems, and the results also suggest the potential usefulness of our method in image cutout system.

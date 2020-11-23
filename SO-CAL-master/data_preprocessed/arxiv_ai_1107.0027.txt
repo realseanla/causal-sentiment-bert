@@ -1,0 +1,8 @@
+Hierarchical/JJ latent/JJ class/NN (/-LRB- HLC/NN )/-RRB- models/NNS are/VBP tree/NN -/HYPH structured/VBN Bayesian/JJ networks/NNS where/WRB leaf/NN nodes/NNS are/VBP observed/VBN while/IN internal/JJ nodes/NNS are/VBP latent/JJ ./.
+There/EX are/VBP no/DT theoretically/RB well/RB justified/JJ model/NN selection/NN criteria/NNS for/IN HLC/NNP models/NNS in/IN particular/JJ and/CC Bayesian/JJ networks/NNS with/IN latent/JJ nodes/NNS in/IN general/JJ ./.
+Nonetheless/RB ,/, empirical/JJ studies/NNS suggest/VBP that/IN the/DT BIC/NN score/NN is/VBZ a/DT reasonable/JJ criterion/NN to/TO use/VB in/IN practice/NN for/IN learning/VBG HLC/NNP models/NNS ./.
+Empirical/JJ studies/NNS also/RB suggest/VBP that/IN sometimes/RB model/NN selection/NN can/MD be/VB improved/VBN if/IN standard/JJ model/NN dimension/NN is/VBZ replaced/VBN with/IN effective/JJ model/NN dimension/NN in/IN the/DT penalty/NN term/NN of/IN the/DT BIC/NN score/NN ./.
+Effective/JJ dimensions/NNS are/VBP difficult/JJ to/TO compute/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP prove/VBP a/DT theorem/NN that/WDT relates/VBZ the/DT effective/JJ dimension/NN of/IN an/DT HLC/NNP model/NN to/IN the/DT effective/JJ dimensions/NNS of/IN a/DT number/NN of/IN latent/JJ class/NN models/NNS ./.
+The/DT theorem/NN makes/VBZ it/PRP computationally/RB feasible/JJ to/IN compute/VB the/DT effective/JJ dimensions/NNS of/IN large/JJ HLC/NN models/NNS ./.
+The/DT theorem/NN can/MD also/RB be/VB used/VBN to/TO compute/VB the/DT effective/JJ dimensions/NNS of/IN general/JJ tree/NN models/NNS ./.

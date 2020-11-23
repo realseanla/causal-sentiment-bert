@@ -1,0 +1,4 @@
+The problem we address is the following: how can a user employ a predictive model that is held by a third party, without compromising private information.
+For example, a hospital may wish to use a cloud service to predict the readmission risk of a patient.
+However, due to regulations, the patient's medical files cannot be revealed.
+The goal is to make an inference using the model, without jeopardizing the accuracy of the prediction or the privacy of the data.

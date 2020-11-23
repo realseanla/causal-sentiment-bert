@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT multi-view/JJ network/NN for/IN text/NN classification/NN ./.
+Our/PRP$ method/NN automatically/RB creates/VBZ various/JJ views/NNS of/IN its/PRP$ input/NN text/NN ,/, each/DT taking/VBG the/DT form/NN of/IN soft/JJ attention/NN weights/NNS that/WDT distribute/VBP the/DT classifier/NN 's/POS focus/NN among/IN a/DT set/NN of/IN base/NN features/NNS ./.
+For/IN a/DT bag/NN -/HYPH of/IN -/HYPH words/NNS representation/NN ,/, each/DT view/NN focuses/VBZ on/IN a/DT different/JJ subset/NN of/IN the/DT text/NN 's/POS words/NNS ./.
+Aggregating/VBG many/JJ such/JJ views/NNS results/VBZ in/IN a/DT more/RBR discriminative/JJ and/CC robust/JJ representation/NN ./.
+Through/IN a/DT novel/JJ architecture/NN that/IN both/DT stacks/NNS and/CC concatenates/NNS views/NNS ,/, we/PRP produce/VBP a/DT network/NN that/WDT emphasizes/VBZ both/DT depth/NN and/CC width/NN ,/, allowing/VBG training/NN to/TO converge/VB quickly/RB ./.
+Using/VBG our/PRP$ multi-view/JJ architecture/NN ,/, we/PRP establish/VBP new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN accuracies/NNS on/IN two/CD benchmark/NN tasks/NNS ./.

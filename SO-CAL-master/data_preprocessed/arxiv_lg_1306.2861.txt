@@ -1,0 +1,6 @@
+State/NN -/HYPH space/NN models/NNS are/VBP successfully/RB used/VBN in/IN many/JJ areas/NNS of/IN science/NN ,/, engineering/NN and/CC economics/NNS to/TO model/VB time/NN series/NN and/CC dynamical/JJ systems/NNS ./.
+We/PRP present/VBP a/DT fully/RB Bayesian/JJ approach/NN to/IN inference/NN and/CC learning/NN in/IN nonlinear/JJ nonparametric/JJ state/NN -/HYPH space/NN models/NNS ./.
+We/PRP place/VBP a/DT Gaussian/JJ process/NN prior/RB over/IN the/DT transition/NN dynamics/NNS ,/, resulting/VBG in/IN a/DT flexible/JJ model/NN able/JJ to/TO capture/VB complex/JJ dynamical/JJ phenomena/NN ./.
+However/RB ,/, to/TO enable/VB efficient/JJ inference/NN ,/, we/PRP marginalize/VBP over/IN the/DT dynamics/NNS of/IN the/DT model/NN and/CC instead/RB infer/VB directly/RB the/DT joint/JJ smoothing/NN distribution/NN through/IN the/DT use/NN of/IN specially/RB tailored/VBN Particle/NN Markov/NNP Chain/NNP Monte/NNP Carlo/NNP samplers/NNS ./.
+Once/IN a/DT sample/NN from/IN the/DT smoothing/VBG distribution/NN is/VBZ computed/VBN ,/, the/DT state/NN transition/NN predictive/JJ distribution/NN can/MD be/VB formulated/VBN analytically/RB ./.
+We/PRP make/VBP use/NN of/IN sparse/JJ Gaussian/JJ process/NN models/NNS to/TO greatly/RB reduce/VB the/DT computational/JJ complexity/NN of/IN the/DT approach/NN ./.

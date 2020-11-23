@@ -1,0 +1,9 @@
+Natural/JJ language/NN correction/NN has/VBZ the/DT potential/JJ to/TO help/VB language/NN learners/NNS improve/VBP their/PRP$ writing/NN skills/NNS ./.
+While/IN approaches/NNS with/IN separate/JJ classifiers/NNS for/IN different/JJ error/NN types/NNS have/VBP high/JJ precision/NN ,/, they/PRP do/VBP not/RB flexibly/RB handle/VB errors/NNS such/JJ as/IN redundancy/NN or/CC non-idiomatic/JJ phrasing/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, word/NN and/CC phrase/NN -/HYPH based/VBN machine/NN translation/NN methods/NNS are/VBP not/RB designed/VBN to/TO cope/VB with/IN orthographic/JJ errors/NNS ,/, and/CC have/VBP recently/RB been/VBN outpaced/VBN by/IN neural/JJ models/NNS ./.
+Motivated/VBN by/IN these/DT issues/NNS ,/, we/PRP present/VBP a/DT neural/JJ network/NN -/HYPH based/VBN approach/NN to/IN language/NN correction/NN ./.
+The/DT core/NN component/NN of/IN our/PRP$ method/NN is/VBZ an/DT encoder/NN -/HYPH decoder/NN recurrent/JJ neural/JJ network/NN with/IN an/DT attention/NN mechanism/NN ./.
+By/IN operating/VBG at/IN the/DT character/NN level/NN ,/, the/DT network/NN avoids/VBZ the/DT problem/NN of/IN out/RB -/HYPH of/IN -/HYPH vocabulary/NN words/NNS ./.
+We/PRP illustrate/VBP the/DT flexibility/NN of/IN our/PRP$ approach/NN on/IN dataset/NN of/IN noisy/JJ ,/, user/NN -/HYPH generated/VBN text/NN collected/VBN from/IN an/DT English/NNP learner/NN forum/NN ./.
+When/WRB combined/VBN with/IN a/DT language/NN model/NN ,/, our/PRP$ method/NN achieves/VBZ a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN $/$ F/NNP _/NFP {/-LRB- 0.5/CD }/-RRB- $/$ -/HYPH score/NN on/IN the/DT CoNLL/NN 2014/CD Shared/NNP Task/NNP ./.
+We/PRP further/RB demonstrate/VBP that/IN training/VBG the/DT network/NN on/IN additional/JJ data/NNS with/IN synthesized/VBN errors/NNS can/MD improve/VB performance/NN ./.

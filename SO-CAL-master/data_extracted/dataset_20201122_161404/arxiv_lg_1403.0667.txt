@@ -1,0 +1,4 @@
+In recent years, spectral clustering has become a standard method for data analysis used in a broad range of applications.
+In this paper we propose a new class of algorithms for multiway spectral clustering based on optimization of a certain "contrast function" over a sphere.
+These algorithms are simple to implement, efficient and, unlike most of the existing algorithms for multiclass spectral clustering, are not initialization-dependent.
+Moreover, they are applicable without modification for normalized and un-normalized clustering, which are two common variants of spectral clustering.

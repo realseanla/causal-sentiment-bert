@@ -1,0 +1,8 @@
+We/PRP can/MD program/VB a/DT Real/JJ -/HYPH Time/NN (/-LRB- RT/NN )/-RRB- music/NN improvisation/NN system/NN in/IN C/NN without/IN a/DT formal/JJ semantic/JJ or/CC we/PRP can/MD model/VB it/PRP with/IN process/NN calculi/NN such/JJ as/IN the/DT Non-deterministic/JJ Timed/JJ Concurrent/JJ Constraint/NN (/-LRB- ntcc/NN )/-RRB- calculus/NN ./.
+"/`` A/DT Concurrent/JJ Constraints/NNS Factor/NN Oracle/NNP (/-LRB- FO/NNP )/-RRB- model/NN for/IN Music/NN Improvisation/NN "/'' (/-LRB- Ccfomi/NNP )/-RRB- is/VBZ an/DT improvisation/NN model/NN specified/VBN on/IN ntcc/NN ./.
+Since/IN Ccfomi/NNP improvises/VBZ non-deterministically/RB ,/, there/EX is/VBZ no/DT control/NN on/IN choices/NNS and/CC therefore/RB little/JJ control/NN over/IN the/DT sequence/NN variation/NN during/IN the/DT improvisation/NN ./.
+To/TO avoid/VB this/DT ,/, we/PRP extended/VBD Ccfomi/NNP using/VBG the/DT Probabilistic/JJ Non-deterministic/JJ Timed/JJ Concurrent/JJ Constraint/NN calculus/NN ./.
+Our/PRP$ extension/NN to/IN Ccfomi/NNP does/VBZ not/RB change/VB the/DT time/NN and/CC space/NN complexity/NN of/IN building/VBG the/DT FO/NN ,/, thus/RB making/VBG our/PRP$ extension/NN compatible/JJ with/IN RT/NN ./.
+However/RB ,/, there/EX was/VBD not/RB a/DT ntcc/JJ interpreter/NN capable/JJ of/IN RT/NN to/TO execute/VB Ccfomi/NNP ./.
+We/PRP developed/VBD Ntccrt/NNP --/: a/DT RT/NN capable/JJ interpreter/NN for/IN ntcc/NN --/: and/CC we/PRP executed/VBD Ccfomi/NNP on/IN Ntccrt/NNP ./.
+In/IN the/DT future/NN ,/, we/PRP plan/VBP to/TO extend/VB Ntccrt/NNP to/TO execute/VB our/PRP$ extension/NN to/IN Ccfomi/NNP ./.

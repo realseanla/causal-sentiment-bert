@@ -1,0 +1,11 @@
+Answer/NN Set/VBN Programming/NN (/-LRB- ASP/NN )/-RRB- is/VBZ a/DT popular/JJ framework/NN for/IN modeling/VBG combinatorial/JJ problems/NNS ./.
+However/RB ,/, ASP/NN can/MD not/RB easily/RB be/VB used/VBN for/IN reasoning/NN about/RB uncertain/JJ information/NN ./.
+Possibilistic/JJ ASP/NN (/-LRB- PASP/NN )/-RRB- is/VBZ an/DT extension/NN of/IN ASP/NN that/WDT combines/VBZ possibilistic/JJ logic/NN and/CC ASP/NN ./.
+In/IN PASP/NN a/DT weight/NN is/VBZ associated/VBN with/IN each/DT rule/NN ,/, where/WRB this/DT weight/NN is/VBZ interpreted/VBN as/IN the/DT certainty/NN with/IN which/WDT the/DT conclusion/NN can/MD be/VB established/VBN when/WRB the/DT body/NN is/VBZ known/VBN to/TO hold/VB ./.
+As/IN such/JJ ,/, it/PRP allows/VBZ us/PRP to/TO model/VB and/CC reason/VB about/RB uncertain/JJ information/NN in/IN an/DT intuitive/JJ way/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP new/JJ semantics/NNS for/IN PASP/NN ,/, in/IN which/WDT rules/NNS are/VBP interpreted/VBN as/IN constraints/NNS on/IN possibility/NN distributions/NNS ./.
+Special/JJ models/NNS of/IN these/DT constraints/NNS are/VBP then/RB identified/VBN as/IN possibilistic/JJ answer/NN sets/NNS ./.
+In/IN addition/NN ,/, since/IN ASP/NNP is/VBZ a/DT special/JJ case/NN of/IN PASP/NN in/IN which/WDT all/PDT the/DT rules/NNS are/VBP entirely/RB certain/JJ ,/, we/PRP obtain/VBP a/DT new/JJ characterization/NN of/IN ASP/NN in/IN terms/NNS of/IN constraints/NNS on/IN possibility/NN distributions/NNS ./.
+This/DT allows/VBZ us/PRP to/TO uncover/VB a/DT new/JJ form/NN of/IN disjunction/NN ,/, called/VBN weak/JJ disjunction/NN ,/, that/WDT has/VBZ not/RB been/VBN previously/RB considered/VBN in/IN the/DT literature/NN ./.
+In/IN addition/NN to/IN introducing/VBG and/CC motivating/VBG the/DT semantics/NNS of/IN weak/JJ disjunction/NN ,/, we/PRP also/RB pinpoint/VBP its/PRP$ computational/JJ complexity/NN ./.
+In/IN particular/JJ ,/, while/IN the/DT complexity/NN of/IN most/JJS reasoning/NN tasks/NNS coincides/VBZ with/IN standard/JJ disjunctive/JJ ASP/NN ,/, we/PRP find/VBP that/IN brave/JJ reasoning/NN for/IN programs/NNS with/IN weak/JJ disjunctions/NNS is/VBZ easier/JJR ./.

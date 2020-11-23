@@ -1,0 +1,7 @@
+This/DT paper/NN presents/VBZ an/DT in/IN -/HYPH depth/NN investigation/NN on/IN integrating/VBG neural/JJ language/NN models/NNS in/IN translation/NN systems/NNS ./.
+Scaling/VBG neural/JJ language/NN models/NNS is/VBZ a/DT difficult/JJ task/NN ,/, but/CC crucial/JJ for/IN real/JJ -/HYPH world/NN applications/NNS ./.
+This/DT paper/NN evaluates/VBZ the/DT impact/NN on/IN end/NN -/HYPH to/IN -/HYPH end/NN MT/NN quality/NN of/IN both/DT new/JJ and/CC existing/JJ scaling/NN techniques/NNS ./.
+We/PRP show/VBP when/WRB explicitly/RB normalising/VBG neural/JJ models/NNS is/VBZ necessary/JJ and/CC what/WP optimisation/NN tricks/NNS one/PRP should/MD use/VB in/IN such/JJ scenarios/NNS ./.
+We/PRP also/RB focus/VBP on/IN scalable/JJ training/NN algorithms/NNS and/CC investigate/VB noise/NN contrastive/JJ estimation/NN and/CC diagonal/JJ contexts/NNS as/IN sources/NNS for/IN further/JJ speed/NN improvements/NNS ./.
+We/PRP explore/VBP the/DT trade/NN -/HYPH offs/NNS between/IN neural/JJ models/NNS and/CC back/RB -/HYPH off/RB n/NN -/HYPH gram/NN models/NNS and/CC find/VB that/IN neural/JJ models/NNS make/VBP strong/JJ candidates/NNS for/IN natural/JJ language/NN applications/NNS in/IN memory/NN constrained/VBN environments/NNS ,/, yet/CC still/RB lag/NN behind/IN traditional/JJ models/NNS in/IN raw/JJ translation/NN quality/NN ./.
+We/PRP conclude/VBP with/IN a/DT set/NN of/IN recommendations/NNS one/PRP should/MD follow/VB to/TO build/VB a/DT scalable/JJ neural/JJ language/NN model/NN for/IN MT./NNP

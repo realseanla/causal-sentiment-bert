@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP planning/VBG in/IN stochastic/JJ shortest/JJS path/NN (/-LRB- SSP/NN )/-RRB- problems/NNS ,/, a/DT subclass/NN of/IN Markov/NNP Decision/NN Problems/NNS (/-LRB- MDP/NN )/-RRB- ./.
+We/PRP focus/VBP on/IN medium/NN -/HYPH size/NN problems/NNS whose/WP$ state/NN space/NN can/MD be/VB fully/RB enumerated/VBN ./.
+This/DT problem/NN has/VBZ numerous/JJ important/JJ applications/NNS ,/, such/JJ as/IN navigation/NN and/CC planning/NN under/IN uncertainty/NN ./.
+We/PRP propose/VBP a/DT new/JJ approach/NN for/IN constructing/VBG a/DT multi-level/JJ hierarchy/NN of/IN progressively/RB simpler/JJR abstractions/NNS of/IN the/DT original/JJ problem/NN ./.
+Once/IN computed/VBN ,/, the/DT hierarchy/NN can/MD be/VB used/VBN to/TO speed/VB up/RP planning/NN by/IN first/JJ finding/VBG a/DT policy/NN for/IN the/DT most/RBS abstract/JJ level/NN and/CC then/RB recursively/RB refining/VBG it/PRP into/IN a/DT solution/NN to/IN the/DT original/JJ problem/NN ./.
+This/DT approach/NN is/VBZ fully/RB automated/VBN and/CC delivers/VBZ a/DT speed/NN -/HYPH up/NN of/IN two/CD orders/NNS of/IN magnitude/NN over/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN MDP/NN solver/NN on/IN sample/NN problems/NNS while/IN returning/VBG near/RB -/HYPH optimal/JJ solutions/NNS ./.
+We/PRP also/RB prove/VBP theoretical/JJ bounds/NNS on/IN the/DT loss/NN of/IN solution/NN optimality/NN resulting/VBG from/IN the/DT use/NN of/IN abstractions/NNS ./.

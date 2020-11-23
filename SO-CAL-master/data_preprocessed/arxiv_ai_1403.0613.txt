@@ -1,0 +1,11 @@
+The/DT Region/NN Connection/NN Calculus/NN (/-LRB- RCC/NN )/-RRB- is/VBZ a/DT well/RB -/HYPH known/VBN calculus/NN for/IN representing/VBG part/NN -/HYPH whole/NN and/CC topological/JJ relations/NNS ./.
+It/PRP plays/VBZ an/DT important/JJ role/NN in/IN qualitative/JJ spatial/JJ reasoning/NN ,/, geographical/JJ information/NN science/NN ,/, and/CC ontology/NN ./.
+The/DT computational/JJ complexity/NN of/IN reasoning/NN with/IN RCC/NN has/VBZ been/VBN investigated/VBN in/IN depth/NN in/IN the/DT literature/NN ./.
+Most/JJS of/IN these/DT works/NNS focus/VBP on/IN the/DT consistency/NN of/IN RCC/NNP constraint/NN networks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP the/DT important/JJ problem/NN of/IN redundant/JJ RCC/NN constraints/NNS ./.
+For/IN a/DT set/VBN $/$ \/SYM Gamma/NNP $/$ of/IN RCC/NN constraints/NNS ,/, we/PRP say/VBP a/DT constraint/NN $/$ (/-LRB- x/SYM R/NN y/NN )/-RRB- $/$ in/IN $/$ \/SYM Gamma/NNP $/$ is/VBZ redundant/JJ if/IN it/PRP can/MD be/VB entailed/VBN by/IN the/DT rest/NN of/IN $/$ \/SYM Gamma/NNP $/$ ./.
+A/DT prime/JJ network/NN of/IN $/$ \/SYM Gamma/NNP $/$ is/VBZ a/DT subset/NN of/IN $/$ \/SYM Gamma/NNP $/$ which/WDT contains/VBZ no/DT redundant/JJ constraints/NNS but/CC has/VBZ the/DT same/JJ solution/NN set/VBN as/IN $/$ \/SYM Gamma/NNP $/$ ./.
+It/PRP is/VBZ natural/JJ to/TO ask/VB how/WRB to/TO compute/VB a/DT prime/JJ network/NN ,/, and/CC when/WRB it/PRP is/VBZ unique/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN this/DT problem/NN is/VBZ in/IN general/JJ co-NP/NN hard/RB ,/, but/CC becomes/VBZ tractable/JJ if/IN $/$ \/SYM Gamma/NNP $/$ is/VBZ over/IN a/DT tractable/JJ subclass/NN of/IN RCC/NNP ./.
+If/IN $/$ \/CD mathcal/NN {/-LRB- S/NN }/-RRB- $/$ is/VBZ a/DT tractable/JJ subclass/NN in/IN which/WDT weak/JJ composition/NN distributes/VBZ over/IN non-empty/JJ intersections/NNS ,/, then/RB we/PRP can/MD show/VB that/IN $/$ \/SYM Gamma/NNP $/$ has/VBZ a/DT unique/JJ prime/JJ network/NN ,/, which/WDT is/VBZ obtained/VBN by/IN removing/VBG all/DT redundant/JJ constraints/NNS from/IN $/$ \/SYM Gamma/NNP $/$ ./.
+As/IN a/DT byproduct/NN ,/, we/PRP identify/VBP a/DT sufficient/JJ condition/NN for/IN a/DT path/NN -/HYPH consistent/JJ network/NN being/VBG minimal/JJ ./.

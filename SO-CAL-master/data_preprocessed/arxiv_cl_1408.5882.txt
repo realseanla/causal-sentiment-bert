@@ -1,0 +1,5 @@
+We/PRP report/VBP on/IN a/DT series/NN of/IN experiments/NNS with/IN convolutional/JJ neural/JJ networks/NNS (/-LRB- CNN/NNP )/-RRB- trained/VBN on/IN top/NN of/IN pre-trained/JJ word/NN vectors/NNS for/IN sentence/NN -/HYPH level/NN classification/NN tasks/NNS ./.
+We/PRP first/RB show/VBP that/IN a/DT simple/JJ CNN/NNP with/IN little/JJ hyperparameter/NN tuning/NN and/CC static/NN vectors/NNS achieves/VBZ excellent/JJ results/NNS on/IN multiple/JJ benchmarks/NNS ./.
+Learning/VBG task/NN -/HYPH specific/JJ vectors/NNS through/IN fine/JJ -/HYPH tuning/NN offers/NNS further/JJ gains/NNS in/IN performance/NN ./.
+We/PRP additionally/RB propose/VBP a/DT simple/JJ modification/NN to/IN the/DT architecture/NN to/TO allow/VB for/IN the/DT use/NN of/IN both/DT task/NN -/HYPH specific/JJ and/CC static/JJ word/NN vectors/NNS ./.
+The/DT CNN/NNP models/NNS discussed/VBN herein/RB improve/VB upon/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN 4/CD out/IN of/IN 7/CD tasks/NNS ,/, which/WDT include/VBP sentiment/NN analysis/NN and/CC question/NN classification/NN ./.

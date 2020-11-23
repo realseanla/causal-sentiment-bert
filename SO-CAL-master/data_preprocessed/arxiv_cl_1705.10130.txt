@@ -1,0 +1,10 @@
+Products/NNS reviews/NNS are/VBP one/CD of/IN the/DT major/JJ resources/NNS to/TO determine/VB the/DT public/JJ sentiment/NN ./.
+The/DT existing/VBG literature/NN on/IN reviews/NNS sentiment/NN analysis/NN mainly/RB utilizes/VBZ supervised/JJ paradigm/NN ,/, which/WDT needs/VBZ labeled/VBN data/NNS to/TO be/VB trained/VBN on/IN and/CC suffers/VBZ from/IN domain/NN -/HYPH dependency/NN ./.
+This/DT article/NN addresses/VBZ these/DT issues/NNS by/IN describes/VBZ a/DT completely/RB automatic/JJ approach/NN for/IN sentiment/NN analysis/NN based/VBN on/IN unsupervised/JJ ensemble/NN learning/NN ./.
+The/DT method/NN consists/VBZ of/IN two/CD phases/NNS ./.
+The/DT first/JJ phase/NN is/VBZ contextual/JJ analysis/NN ,/, which/WDT has/VBZ five/CD processes/NNS ,/, namely/RB (/-LRB- 1/CD )/-RRB- data/NNS preparation/NN ;/: (/-LRB- 2/LS )/-RRB- spelling/NN correction/NN ;/: (/-LRB- 3/LS )/-RRB- intensifier/NN handling/NN ;/: (/-LRB- 4/LS )/-RRB- negation/NN handling/NN and/CC (/-LRB- 5/LS )/-RRB- contrast/NN handling/NN ./.
+The/DT second/JJ phase/NN comprises/VBZ the/DT unsupervised/JJ learning/NN approach/NN ,/, which/WDT is/VBZ an/DT ensemble/NN of/IN clustering/NN classifiers/NNS using/VBG a/DT majority/NN voting/NN mechanism/NN with/IN different/JJ weight/NN schemes/NNS ./.
+The/DT base/NN classifier/NN of/IN the/DT ensemble/NN method/NN is/VBZ a/DT modified/VBN k/NN -/HYPH means/NN algorithm/NN ./.
+The/DT base/NN classifier/NN is/VBZ modified/VBN by/IN extracting/VBG initial/JJ centroids/NNS from/IN the/DT feature/NN set/VBN via/IN using/VBG SentWordNet/NNP (/-LRB- SWN/NNP )/-RRB- ./.
+We/PRP also/RB introduce/VBP new/JJ sentiment/NN analysis/NN problems/NNS of/IN Australian/JJ airlines/NNS and/CC home/NN builders/NNS which/WDT offer/VBP potential/JJ benchmark/NN problems/NNS in/IN the/DT sentiment/NN analysis/NN field/NN ./.
+Our/PRP$ experiments/NNS on/IN datasets/NNS from/IN different/JJ domains/NNS show/VBP that/IN contextual/JJ analysis/NN and/CC the/DT ensemble/NN phases/NNS improve/VBP the/DT clustering/NN performance/NN in/IN term/NN of/IN accuracy/NN ,/, stability/NN and/CC generalization/NN ability/NN ./.

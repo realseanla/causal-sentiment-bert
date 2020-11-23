@@ -1,0 +1,6 @@
+Word2vec, as an efficient tool for learning vector representation of words has shown its effectiveness in many natural language processing tasks.
+Mikolov et al.
+issued Skip-Gram and Negative Sampling model for developing this toolbox.
+Perozzi et al.
+introduced the Skip-Gram model into the study of social network for the first time, and designed an algorithm named DeepWalk for learning node embedding on a graph.
+We prove that the DeepWalk algorithm is actually factoring a matrix M where each entry M_{ij} is logarithm of the average probability that node i randomly walks to node j in fix steps.

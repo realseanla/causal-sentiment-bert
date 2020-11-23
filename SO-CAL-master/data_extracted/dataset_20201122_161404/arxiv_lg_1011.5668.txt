@@ -1,0 +1,2 @@
+The note presents a modified proof of a loss bound for the exponentially weighted average forecaster with time-varying potential.
+The regret term of the algorithm is upper-bounded by sqrt{n ln(N)} (uniformly in n), where N is the number of experts and n is the number of steps.

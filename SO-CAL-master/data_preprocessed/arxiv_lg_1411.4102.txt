@@ -1,0 +1,8 @@
+Mean/NNP Shift/NNP today/NN ,/, is/VBZ widely/RB used/VBN for/IN mode/NN detection/NN and/CC clustering/NN ./.
+The/DT technique/NN though/RB ,/, is/VBZ challenged/VBN in/IN practice/NN due/IN to/IN assumptions/NNS of/IN isotropicity/NN and/CC homoscedasticity/NN ./.
+We/PRP present/VBP an/DT adaptive/JJ Mean/NNP Shift/NNP methodology/NN that/WDT allows/VBZ for/IN full/JJ anisotropic/JJ clustering/NN ,/, through/IN unsupervised/JJ local/JJ bandwidth/NN selection/NN ./.
+The/DT bandwidth/NN matrices/NNS evolve/VBP naturally/RB ,/, adapting/VBG locally/RB through/IN agglomeration/NN ,/, and/CC in/IN turn/NN guiding/VBG further/JJ agglomeration/NN ./.
+The/DT online/JJ methodology/NN is/VBZ practical/JJ and/CC effecive/JJ for/IN low/JJ -/HYPH dimensional/JJ feature/NN spaces/NNS ,/, preserving/VBG better/JJR detail/NN and/CC clustering/NN salience/NN ./.
+Additionally/RB ,/, conventional/JJ Mean/NNP Shift/NNP either/CC critically/RB depends/VBZ on/IN a/DT per/IN instance/NN choice/NN of/IN bandwidth/NN ,/, or/CC relies/VBZ on/IN offline/RB methods/NNS which/WDT are/VBP inflexible/JJ and/CC //HYPH or/CC again/RB data/NNS instance/NN specific/JJ ./.
+The/DT presented/VBN approach/NN ,/, due/IN to/IN its/PRP$ adaptive/JJ design/NN ,/, also/RB alleviates/VBZ this/DT issue/NN -/, with/IN a/DT default/NN form/NN performing/VBG generally/RB well/RB ./.
+The/DT methodology/NN though/RB ,/, allows/VBZ for/IN effective/JJ tuning/NN of/IN results/NNS ./.

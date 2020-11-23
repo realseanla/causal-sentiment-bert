@@ -1,0 +1,8 @@
+An/DT RDF/NNP data/NNS shape/NN is/VBZ a/DT description/NN of/IN the/DT expected/VBN contents/NNS of/IN an/DT RDF/NNP document/NN (/-LRB- aka/RB graph/NN )/-RRB- or/CC dataset/NN ./.
+A/DT major/JJ part/NN of/IN this/DT description/NN is/VBZ the/DT set/NN of/IN constraints/NNS that/IN the/DT document/NN or/CC dataset/NN is/VBZ required/VBN to/TO satisfy/VB ./.
+W3C/NN recently/RB (/-LRB- 2014/CD )/-RRB- chartered/VBD the/DT RDF/NNP Data/NNP Shapes/NNPS Working/NNP Group/NNP to/TO define/VB SHACL/NNP ,/, a/DT standard/JJ RDF/NNP data/NNS shape/NN language/NN ./.
+We/PRP refer/VBP to/IN the/DT ability/NN to/TO name/VB and/CC reference/VB shape/NN language/NN elements/NNS as/IN recursion/NN ./.
+This/DT article/NN provides/VBZ a/DT precise/JJ definition/NN of/IN the/DT meaning/NN of/IN recursion/NN as/IN used/VBN in/IN Resource/NN Shape/NN 2.0/CD ./.
+The/DT definition/NN of/IN recursion/NN presented/VBN in/IN this/DT article/NN is/VBZ largely/RB independent/JJ of/IN language/NN -/HYPH specific/JJ details/NNS ./.
+We/PRP speculate/VBP that/IN it/PRP also/RB applies/VBZ to/IN ShEx/NN and/CC to/IN all/DT three/CD of/IN the/DT current/JJ proposals/NNS for/IN SHACL/NNP ./.
+In/IN particular/JJ ,/, recursion/NN is/VBZ not/RB permitted/VBN in/IN the/DT SHACL/NN -/HYPH SPARQL/NN proposal/NN ,/, but/CC we/PRP conjecture/NN that/WDT recursion/NN could/MD be/VB added/VBN by/IN using/VBG the/DT definition/NN proposed/VBN here/RB as/IN a/DT top/JJ -/HYPH level/NN control/NN structure/NN ./.

@@ -1,0 +1,4 @@
+We/PRP analyze/VBP and/CC evaluate/VBP an/DT online/JJ gradient/NN descent/NN algorithm/NN with/IN adaptive/JJ per/IN -/HYPH coordinate/NN adjustment/NN of/IN learning/NN rates/NNS ./.
+Our/PRP$ algorithm/NN can/MD be/VB thought/VBN of/IN as/IN an/DT online/JJ version/NN of/IN batch/NN gradient/NN descent/NN with/IN a/DT diagonal/JJ preconditioner/NN ./.
+This/DT approach/NN leads/VBZ to/IN regret/NN bounds/NNS that/WDT are/VBP stronger/JJR than/IN those/DT of/IN standard/JJ online/JJ gradient/NN descent/NN for/IN general/JJ online/JJ convex/NN optimization/NN problems/NNS ./.
+Experimentally/RB ,/, we/PRP show/VBP that/IN our/PRP$ algorithm/NN is/VBZ competitive/JJ with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithms/NNS for/IN large/JJ scale/NN machine/NN learning/NN problems/NNS ./.

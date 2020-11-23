@@ -1,0 +1,13 @@
+Attribute reduction is one of the most important topics in rough set theory.
+Heuristic attribute reduction algorithms have been presented to solve the attribute reduction problem.
+It is generally known that fitness functions play a key role in developing heuristic attribute reduction algorithms.
+The monotonicity of fitness functions can guarantee the validity of heuristic attribute reduction algorithms.
+In probabilistic rough set model, distribution reducts can ensure the decision rules derived from the reducts are compatible with those derived from the original decision table.
+However, there are few studies on developing heuristic attribute reduction algorithms for finding distribution reducts.
+This is partly due to the fact that there are no monotonic fitness functions that are used to design heuristic attribute reduction algorithms in probabilistic rough set model.
+The main objective of this paper is to develop heuristic attribute reduction algorithms for finding distribution reducts in probabilistic rough set model.
+For one thing, two monotonic fitness functions are constructed, from which equivalence definitions of distribution reducts can be obtained.
+For another, two modified monotonic fitness functions are proposed to evaluate the significance of attributes more effectively.
+On this basis, two heuristic attribute reduction algorithms for finding distribution reducts are developed based on addition-deletion method and deletion method.
+In particular, the monotonicity of fitness functions guarantees the rationality of the proposed heuristic attribute reduction algorithms.
+Results of experimental analysis are included to quantify the effectiveness of the proposed fitness functions and distribution reducts.

@@ -1,0 +1,10 @@
+In/IN many/JJ applications/NNS of/IN computer/NN algebra/NN large/JJ expressions/NNS must/MD be/VB simplified/VBN to/TO make/VB repeated/VBN numerical/JJ evaluations/NNS tractable/JJ ./.
+Previous/JJ works/NNS presented/VBN heuristically/RB guided/VBN improvements/NNS ,/, e.g./FW ,/, for/IN Horner/NNP schemes/NNS ./.
+The/DT remaining/VBG expression/NN is/VBZ then/RB further/RB reduced/VBN by/IN common/JJ subexpression/NN elimination/NN ./.
+A/DT recent/JJ approach/NN successfully/RB applied/VBD a/DT relatively/RB new/JJ algorithm/NN ,/, Monte/NNP Carlo/NNP Tree/NNP Search/NNP (/-LRB- MCTS/NNP )/-RRB- with/IN UCT/NNP as/IN the/DT selection/NN criterion/NN ,/, to/TO find/VB better/JJR variable/JJ orderings/NNS ./.
+Yet/RB ,/, this/DT approach/NN is/VBZ fit/JJ for/IN further/JJ improvements/NNS since/IN it/PRP is/VBZ sensitive/JJ to/IN the/DT so/RB -/HYPH called/VBN exploration/NN -/HYPH exploitation/NN constant/JJ $/$ C_p/CD $/$ and/CC the/DT number/NN of/IN tree/NN updates/NNS $/$ N$/CD ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT new/JJ selection/NN criterion/NN called/VBN Simulated/JJ Annealing/NN UCT/NNP (/-LRB- SA/NNP -/HYPH UCT/NNP )/-RRB- that/WDT has/VBZ a/DT dynamic/JJ exploration/NN -/HYPH exploitation/NN parameter/NN ,/, which/WDT decreases/VBZ with/IN the/DT iteration/NN number/NN $/$ i/CD $/$ and/CC thus/RB reduces/VBZ the/DT importance/NN of/IN exploration/NN over/IN time/NN ./.
+First/RB ,/, we/PRP provide/VBP an/DT intuitive/JJ explanation/NN in/IN terms/NNS of/IN the/DT exploration/NN -/HYPH exploitation/NN behavior/NN of/IN the/DT algorithm/NN ./.
+Then/RB ,/, we/PRP test/VBP our/PRP$ algorithm/NN on/IN three/CD large/JJ expressions/NNS of/IN different/JJ origins/NNS ./.
+We/PRP observe/VBP that/IN SA/NNP -/HYPH UCT/NNP widens/VBZ the/DT interval/NN of/IN good/JJ initial/JJ values/NNS $/$ C_p/CD $/$ where/WRB best/JJS results/NNS are/VBP achieved/VBN ./.
+The/DT improvement/NN is/VBZ large/JJ (/-LRB- more/JJR than/IN a/DT tenfold/RB )/-RRB- and/CC facilitates/VBZ the/DT selection/NN of/IN an/DT appropriate/JJ $/$ C_p/CD $/$ ./.

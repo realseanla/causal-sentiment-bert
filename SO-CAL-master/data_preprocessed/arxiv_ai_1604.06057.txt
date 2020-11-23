@@ -1,0 +1,9 @@
+Learning/VBG goal/NN -/HYPH directed/VBN behavior/NN in/IN environments/NNS with/IN sparse/JJ feedback/NN is/VBZ a/DT major/JJ challenge/NN for/IN reinforcement/NN learning/VBG algorithms/NNS ./.
+The/DT primary/JJ difficulty/NN arises/VBZ due/IN to/IN insufficient/JJ exploration/NN ,/, resulting/VBG in/IN an/DT agent/NN being/VBG unable/JJ to/TO learn/VB robust/JJ value/NN functions/NNS ./.
+Intrinsically/RB motivated/JJ agents/NNS can/MD explore/VB new/JJ behavior/NN for/IN its/PRP$ own/JJ sake/NN rather/RB than/IN to/TO directly/RB solve/VB problems/NNS ./.
+Such/JJ intrinsic/JJ behaviors/NNS could/MD eventually/RB help/VB the/DT agent/NN solve/VB tasks/NNS posed/VBN by/IN the/DT environment/NN ./.
+We/PRP present/VBP hierarchical/JJ -/HYPH DQN/NN (/-LRB- h/NN -/HYPH DQN/NN )/-RRB- ,/, a/DT framework/NN to/TO integrate/VB hierarchical/JJ value/NN functions/NNS ,/, operating/VBG at/IN different/JJ temporal/JJ scales/NNS ,/, with/IN intrinsically/RB motivated/JJ deep/JJ reinforcement/NN learning/NN ./.
+A/DT top/JJ -/HYPH level/NN value/NN function/NN learns/VBZ a/DT policy/NN over/IN intrinsic/JJ goals/NNS ,/, and/CC a/DT lower/JJR -/HYPH level/NN function/NN learns/VBZ a/DT policy/NN over/IN atomic/JJ actions/NNS to/TO satisfy/VB the/DT given/VBN goals/NNS ./.
+h/NN -/HYPH DQN/NN allows/VBZ for/IN flexible/JJ goal/NN specifications/NNS ,/, such/JJ as/IN functions/NNS over/IN entities/NNS and/CC relations/NNS ./.
+This/DT provides/VBZ an/DT efficient/JJ space/NN for/IN exploration/NN in/IN complicated/JJ environments/NNS ./.
+We/PRP demonstrate/VBP the/DT strength/NN of/IN our/PRP$ approach/NN on/IN two/CD problems/NNS with/IN very/RB sparse/JJ ,/, delayed/VBN feedback/NN :/: (/-LRB- 1/LS )/-RRB- a/DT complex/JJ discrete/JJ MDP/NN with/IN stochastic/JJ transitions/NNS ,/, and/CC (/-LRB- 2/LS )/-RRB- the/DT classic/JJ ATARI/NNP game/NN `/`` Montezuma/NNP 's/POS Revenge/NN '/'' ./.

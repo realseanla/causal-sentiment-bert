@@ -1,0 +1,8 @@
+The paper presents a novel technique called "Structural Crossing-Over" to synthesize qualified data for training machine learning-based handwriting recognition.
+The proposed technique can provide a greater variety of patterns of training data than the existing approaches such as elastic distortion and tangent-based affine transformation.
+A couple of training characters are chosen, then they are analyzed by their similar and different structures, and finally are crossed over to generate the new characters.
+The experiments are set to compare the performances of tangent-based affine transformation and the proposed approach in terms of the variety of generated characters and percent of recognition errors.
+The standard MNIST corpus including 60,000 training characters and 10,000 test characters is employed in the experiments.
+The proposed technique uses 1,000 characters to synthesize 60,000 characters, and then uses these data to train and test the benchmark handwriting recognition system that exploits Histogram of Gradient (HOG) as features and Support Vector Machine (SVM) as recognizer.
+The experimental result yields 8.06 percent of errors.
+It significantly outperforms the tangent-based affine transformation and the original MNIST training data, which are 11.74 percent and 16.55 percent, respectively.

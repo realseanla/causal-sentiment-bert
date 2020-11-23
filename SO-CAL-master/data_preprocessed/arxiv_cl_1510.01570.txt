@@ -1,0 +1,6 @@
+This/DT work/NN describes/VBZ a/DT system/NN that/WDT performs/VBZ morphological/JJ analysis/NN and/CC generation/NN of/IN Pali/NNP words/NNS ./.
+The/DT system/NN works/VBZ with/IN regular/JJ inflectional/JJ paradigms/NNS and/CC a/DT lexical/JJ database/NN ./.
+The/DT generator/NN is/VBZ used/VBN to/TO build/VB a/DT collection/NN of/IN inflected/JJ and/CC derived/JJ words/NNS ,/, which/WDT in/IN turn/NN is/VBZ used/VBN by/IN the/DT analyzer/NN ./.
+Generating/NNP and/CC storing/VBG morphological/JJ forms/NNS along/IN with/IN the/DT corresponding/VBG morphological/JJ information/NN allows/VBZ for/IN efficient/JJ and/CC simple/JJ look/VB up/RP by/IN the/DT analyzer/NN ./.
+Indeed/RB ,/, by/IN looking/VBG up/RP a/DT word/NN and/CC extracting/VBG the/DT attached/VBN morphological/JJ information/NN ,/, the/DT analyzer/NN does/VBZ not/RB have/VB to/TO compute/VB this/DT information/NN ./.
+As/IN we/PRP must/MD ,/, however/RB ,/, assume/VB the/DT lexical/JJ database/NN to/TO be/VB incomplete/JJ ,/, the/DT system/NN can/MD also/RB work/VB without/IN the/DT dictionary/JJ component/NN ,/, using/VBG a/DT rule/NN -/HYPH based/VBN approach/NN ./.

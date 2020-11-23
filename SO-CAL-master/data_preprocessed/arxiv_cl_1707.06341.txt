@@ -1,0 +1,5 @@
+We/PRP introduce/VBP a/DT novel/JJ sub-character/NN architecture/NN that/WDT exploits/VBZ a/DT unique/JJ compositional/JJ structure/NN of/IN the/DT Korean/JJ language/NN ./.
+Our/PRP$ method/NN decomposes/VBZ each/DT character/NN into/IN a/DT small/JJ set/NN of/IN primitive/JJ phonetic/JJ units/NNS called/VBN jamo/NN letters/NNS from/IN which/WDT character/NN -/HYPH and/CC word/NN -/HYPH level/NN representations/NNS are/VBP induced/VBN ./.
+The/DT jamo/NN letters/NNS divulge/VBP syntactic/JJ and/CC semantic/JJ information/NN that/WDT is/VBZ difficult/JJ to/TO access/VB with/IN conventional/JJ character/NN -/HYPH level/NN units/NNS ./.
+They/PRP greatly/RB alleviate/VBP the/DT data/NNS sparsity/NN problem/NN ,/, reducing/VBG the/DT observation/NN space/NN to/IN 1.6/CD percent/NN of/IN the/DT original/JJ while/IN increasing/VBG accuracy/NN in/IN our/PRP$ experiments/NNS ./.
+We/PRP apply/VBP our/PRP$ architecture/NN to/IN dependency/NN parsing/VBG and/CC achieve/VB dramatic/JJ improvement/NN over/IN strong/JJ lexical/JJ baselines/NNS ./.

@@ -1,0 +1,5 @@
+Recurrent/JJ Neural/JJ Networks/NNS architectures/NNS excel/VBP at/IN processing/NN sequences/NNS by/IN modelling/VBG dependencies/NNS over/IN different/JJ timescales/NNS ./.
+The/DT recently/RB introduced/VBN Recurrent/JJ Weighted/NNP Average/NNP (/-LRB- RWA/NNP )/-RRB- unit/NN captures/VBZ long/JJ term/NN dependencies/NNS far/RB better/JJR than/IN an/DT LSTM/NN on/IN several/JJ challenging/JJ tasks/NNS ./.
+The/DT RWA/NNP achieves/VBZ this/DT by/IN applying/VBG attention/NN to/IN each/DT input/NN and/CC computing/VBG a/DT weighted/JJ average/NN over/IN the/DT full/JJ history/NN of/IN its/PRP$ computations/NNS ./.
+Unfortunately/RB ,/, the/DT RWA/NNP can/MD not/RB change/VB the/DT attention/NN it/PRP has/VBZ assigned/VBN to/IN previous/JJ timesteps/NNS ,/, and/CC so/RB struggles/VBZ with/IN carrying/VBG out/RP consecutive/JJ tasks/NNS or/CC tasks/NNS with/IN changing/VBG requirements/NNS ./.
+We/PRP present/VBP the/DT Recurrent/JJ Discounted/VBN Attention/NN (/-LRB- RDA/NN )/-RRB- unit/NN that/WDT builds/VBZ on/IN the/DT RWA/NNP by/IN additionally/RB allowing/VBG the/DT discounting/NN of/IN the/DT past/NN ./.

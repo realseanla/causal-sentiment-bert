@@ -1,0 +1,7 @@
+One of the most widely used techniques for data clustering is agglomerative clustering.
+Such algorithms have been long used across many different fields ranging from computational biology to social sciences to computer vision in part because their output is easy to interpret.
+Unfortunately, it is well known, however, that many of the classic agglomerative clustering algorithms are not robust to noise .
+In this paper we propose and analyze a new robust algorithm for bottom-up agglomerative clustering.
+We show that our algorithm can be used to cluster accurately in cases where the data satisfies a number of natural properties and where the traditional agglomerative algorithms fail.
+We also show how to adapt our algorithm to the inductive setting where our given data is only a small random sample of the entire data set.
+Experimental evaluations on synthetic and real world data sets show that our algorithm consistently achieves better performance than other hierarchical algorithms in the presence of noise.

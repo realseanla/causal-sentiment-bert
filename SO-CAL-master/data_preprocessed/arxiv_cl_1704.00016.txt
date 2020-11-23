@@ -1,0 +1,8 @@
+As/IN the/DT type/NN and/CC the/DT number/NN of/IN such/JJ venues/NNS increase/VBP ,/, automated/VBN analysis/NN of/IN sentiment/NN on/IN textual/JJ resources/NNS has/VBZ become/VBN an/DT essential/JJ data/NNS mining/NN task/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP the/DT problem/NN of/IN mining/NN opinions/NNS by/IN extracting/VBG aspects/NNS of/IN entities/NNS on/IN the/DT collection/NN of/IN informal/JJ short/JJ texts/NNS ./.
+Both/DT positive/JJ and/CC negative/JJ sentiment/NN strength/NN of/IN texts/NNS are/VBP detected/VBN ./.
+We/PRP focus/VBP on/IN a/DT non-English/JJ language/NN that/WDT has/VBZ few/JJ resources/NNS for/IN text/NN mining/NN ./.
+This/DT approach/NN would/MD help/VB enhance/VB the/DT sentiment/NN analysis/NN in/IN languages/NNS where/WRB a/DT list/NN of/IN opinionated/JJ words/NNS does/VBZ not/RB exist/VB ./.
+We/PRP propose/VBP a/DT new/JJ method/NN projects/VBZ the/DT text/NN into/IN dense/JJ and/CC low/JJ dimensional/JJ feature/NN vectors/NNS according/VBG to/IN the/DT sentiment/NN strength/NN of/IN the/DT words/NNS ./.
+We/PRP detect/VBP the/DT mixture/NN of/IN positive/JJ and/CC negative/JJ sentiments/NNS on/IN a/DT multi-variant/JJ scale/NN ./.
+Empirical/JJ evaluation/NN of/IN the/DT proposed/VBN framework/NN on/IN Turkish/JJ tweets/NNS shows/VBZ that/IN our/PRP$ approach/NN gets/VBZ good/JJ results/NNS for/IN opinion/NN mining/NN ./.

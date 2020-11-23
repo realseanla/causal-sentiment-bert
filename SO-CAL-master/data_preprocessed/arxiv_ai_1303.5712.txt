@@ -1,0 +1,10 @@
+Research/NN on/IN Symbolic/JJ Probabilistic/JJ Inference/NN (/-LRB- SPI/NN )/-RRB- [/-LRB- 2/CD ,/, 3/CD ]/-RRB- has/VBZ provided/VBN an/DT algorithm/NN for/IN resolving/VBG general/JJ queries/NNS in/IN Bayesian/JJ networks/NNS ./.
+SPI/NNP applies/VBZ the/DT concept/NN of/IN dependency/NN directed/VBN backward/JJ search/NN to/IN probabilistic/JJ inference/NN ,/, and/CC is/VBZ incremental/JJ with/IN respect/NN to/IN both/DT queries/NNS and/CC observations/NNS ./.
+Unlike/IN traditional/JJ Bayesian/JJ network/NN inferencing/NN algorithms/NNS ,/, SPI/NNP algorithm/NN is/VBZ goal/NN directed/VBN ,/, performing/VBG only/RB those/DT calculations/NNS that/WDT are/VBP required/VBN to/TO respond/VB to/IN queries/NNS ./.
+Research/NN to/IN date/NN on/IN SPI/NNP applies/VBZ to/IN Bayesian/JJ networks/NNS with/IN discrete/JJ -/HYPH valued/VBN variables/NNS and/CC does/VBZ not/RB address/VB variables/NNS with/IN continuous/JJ values/NNS ./.
+In/IN this/DT papers/NNS ,/, we/PRP extend/VBP the/DT SPI/NNP algorithm/NN to/TO handle/VB Bayesian/JJ networks/NNS made/VBN up/IN of/IN continuous/JJ variables/NNS where/WRB the/DT relationships/NNS between/IN the/DT variables/NNS are/VBP restricted/VBN to/TO be/VB ?/.
+linear/JJ gaussian/NN ?/.
+./.
+We/PRP call/VBP this/DT variation/NN of/IN the/DT SPI/NNP algorithm/NN ,/, SPI/NNP Continuous/JJ (/-LRB- SPIC/NN )/-RRB- ./.
+SPIC/NNP modifies/VBZ the/DT three/CD basic/JJ SPI/NN operations/NNS :/: multiplication/NN ,/, summation/NN ,/, and/CC substitution/NN ./.
+However/RB ,/, SPIC/NNP retains/VBZ the/DT framework/NN of/IN the/DT SPI/NNP algorithm/NN ,/, namely/RB building/VBG the/DT search/NN tree/NN and/CC recursive/JJ query/NN mechanism/NN and/CC therefore/RB retains/VBZ the/DT goal/NN -/HYPH directed/VBN and/CC incrementality/NN features/NNS of/IN SPI/NNP ./.

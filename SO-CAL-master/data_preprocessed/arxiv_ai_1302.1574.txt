@@ -1,0 +1,4 @@
+This/DT paper/NN explores/VBZ the/DT role/NN of/IN independence/NN of/IN causal/JJ influence/NN (/-LRB- ICI/NN )/-RRB- in/IN Bayesian/JJ network/NN inference/NN ./.
+ICI/NN allows/VBZ one/CD to/IN factorize/VB a/DT conditional/JJ probability/NN table/NN into/IN smaller/JJR pieces/NNS ./.
+We/PRP describe/VBP a/DT method/NN for/IN exploiting/VBG the/DT factorization/NN in/IN clique/NN tree/NN propagation/NN (/-LRB- CTP/NN )/-RRB- -/: the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN exact/JJ inference/NN algorithm/NN for/IN Bayesian/JJ networks/NNS ./.
+We/PRP also/RB present/JJ empirical/JJ results/NNS showing/VBG that/IN the/DT resulting/VBG algorithm/NN is/VBZ significantly/RB more/RBR efficient/JJ than/IN the/DT combination/NN of/IN CTP/NN and/CC previous/JJ techniques/NNS for/IN exploiting/VBG ICI/NN ./.

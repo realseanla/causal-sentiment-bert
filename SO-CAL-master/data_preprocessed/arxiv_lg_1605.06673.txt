@@ -1,0 +1,11 @@
+Transfer/NN learning/NN is/VBZ a/DT problem/NN defined/VBN over/IN two/CD domains/NNS ./.
+These/DT two/CD domains/NNS share/VBP the/DT same/JJ feature/NN space/NN and/CC class/NN label/NN space/NN ,/, but/CC have/VBP significantly/RB different/JJ distributions/NNS ./.
+One/CD domain/NN has/VBZ sufficient/JJ labels/NNS ,/, named/VBN as/IN source/NN domain/NN ,/, and/CC the/DT other/JJ domain/NN has/VBZ few/JJ labels/NNS ,/, named/VBN as/IN target/NN do/VBP -/HYPH main/JJ ./.
+The/DT problem/NN is/VBZ to/TO learn/VB a/DT effective/JJ classifier/NN for/IN the/DT target/NN domain/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ transfer/NN learning/NN method/NN for/IN this/DT problem/NN by/IN learning/VBG a/DT partially/RB shared/VBN classifier/NN for/IN the/DT target/NN domain/NN ,/, and/CC weighting/NN the/DT source/NN domain/NN data/NN points/NNS ./.
+We/PRP learn/VBP some/DT shared/VBN subspaces/NNS for/IN both/CC the/DT data/NNS points/NNS of/IN the/DT two/CD domains/NNS ,/, and/CC a/DT shared/VBN classifier/NN in/IN the/DT shared/VBN subspaces/NNS ./.
+We/PRP hope/VBP that/IN in/IN the/DT shared/VBN subspaces/NNS ,/, the/DT distributions/NNS of/IN two/CD domain/NN can/MD match/VB each/DT other/JJ well/RB ,/, and/CC to/TO match/VB the/DT distributions/NNS ,/, we/PRP weight/VBP the/DT source/NN domain/NN data/NN points/NNS with/IN different/JJ weighting/NN factors/NNS ./.
+Moreover/RB ,/, we/PRP adapt/VBP the/DT shared/VBN classifier/NN to/IN each/DT domain/NN by/IN learning/VBG different/JJ adaptation/NN functions/NNS ./.
+To/TO learn/VB the/DT subspace/NN transformation/NN matrices/NNS ,/, the/DT classifier/NN parameters/NNS ,/, and/CC the/DT adaptation/NN parameters/NNS ,/, we/PRP build/VBP a/DT objective/JJ function/NN with/IN weighted/JJ clas/NNS -/HYPH sification/NN errors/NNS ,/, parameter/NN regularization/NN ,/, local/JJ reconstruction/NN regularization/NN ,/, and/CC distribution/NN matching/NN ./.
+This/DT objective/JJ function/NN is/VBZ minimized/VBN by/IN an/DT itera/NN -/HYPH tive/JJ algorithm/NN ./.
+Experiments/NNS show/VBP its/PRP$ effectiveness/NN over/IN benchmark/NN data/NNS sets/NNS ,/, including/VBG travel/NN destination/NN review/NN data/NNS set/VBN ,/, face/NN expression/NN data/NNS set/VBN ,/, spam/NN email/NN data/NNS set/VBN ,/, etc/FW ./.

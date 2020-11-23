@@ -1,0 +1,8 @@
+Recent/JJ research/NN on/IN deep/JJ neural/JJ networks/NNS has/VBZ focused/VBN primarily/RB on/IN improving/VBG accuracy/NN ./.
+For/IN a/DT given/VBN accuracy/NN level/NN ,/, is/VBZ typically/RB possible/JJ to/TO identify/VB multiple/JJ DNN/NN architectures/NNS that/WDT achieve/VBP that/DT accuracy/NN level/NN ./.
+With/IN equivalent/JJ accuracy/NN ,/, smaller/JJR DNN/NNP architectures/NNS offer/VBP at/IN least/RBS three/CD advantages/NNS :/: (/-LRB- 1/LS )/-RRB- Smaller/JJR DNNs/NNS require/VBP less/JJR communication/NN across/IN servers/NNS during/IN distributed/VBN training/NN ./.
+(/-LRB- 2/LS )/-RRB- Smaller/JJR DNNs/NNS require/VBP less/JJR bandwidth/NN to/TO export/VB a/DT new/JJ model/NN from/IN the/DT cloud/NN to/IN an/DT autonomous/JJ car/NN ./.
+(/-LRB- 3/LS )/-RRB- Smaller/JJR DNNs/NNS are/VBP more/RBR feasible/JJ to/TO deploy/VB on/IN FPGAs/NNS and/CC other/JJ hardware/NN with/IN limited/JJ memory/NN ./.
+To/TO provide/VB all/DT of/IN these/DT advantages/NNS ,/, we/PRP propose/VBP a/DT small/JJ DNN/NNP architecture/NN called/VBN SqueezeNet/NNP ./.
+SqueezeNet/NNP achieves/VBZ AlexNet/NNP -/HYPH level/NN accuracy/NN on/IN ImageNet/NNP with/IN 50x/CD fewer/JJR parameters/NNS ./.
+Additionally/RB ,/, with/IN model/NN compression/NN techniques/NNS we/PRP are/VBP able/JJ to/TO compress/VB SqueezeNet/NNP to/IN less/JJR than/IN 1/CD MB/NN (/-LRB- 461x/CD smaller/JJR than/IN AlexNet/NNP )/-RRB- ./.

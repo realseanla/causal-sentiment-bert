@@ -1,0 +1,4 @@
+For/IN most/JJS branching/NN algorithms/NNS in/IN Boolean/JJ logic/NN "/'' branching/NN "/'' means/VBZ "/`` variable-wise/JJ branching/NN "/'' ./.
+We/PRP present/VBP the/DT apparently/RB novel/JJ technique/NN of/IN clause-wise/JJ branching/NN ,/, which/WDT is/VBZ used/VBN to/TO solve/VB the/DT ALLSAT/NNP problem/NN for/IN arbitrary/JJ Boolean/NNP functions/NNS in/IN CNF/NN format/NN ./.
+Specifically/RB ,/, it/PRP converts/VBZ a/DT CNF/NN into/IN an/DT orthogonal/JJ DNF/NN ,/, i.e./FW into/IN an/DT exclusive/JJ sum/NN of/IN products/NNS ./.
+Our/PRP$ method/NN is/VBZ enhanced/VBN by/IN two/CD ingredients/NNS :/: The/DT use/NN of/IN a/DT good/JJ SAT/NN -/HYPH solver/NN and/CC wildcards/NNS beyond/IN the/DT common/JJ do/VBP n't/RB -/HYPH care/VB symbol/NN ./.

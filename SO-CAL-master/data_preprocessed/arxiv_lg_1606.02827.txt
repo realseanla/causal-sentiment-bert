@@ -1,0 +1,7 @@
+Feature/NN selection/NN is/VBZ one/CD of/IN the/DT most/RBS fundamental/JJ problems/NNS in/IN machine/NN learning/NN ./.
+An/DT extensive/JJ body/NN of/IN work/NN on/IN information/NN -/HYPH theoretic/JJ feature/NN selection/NN exists/VBZ which/WDT is/VBZ based/VBN on/IN maximizing/VBG mutual/JJ information/NN between/IN subsets/NNS of/IN features/NNS and/CC class/NN labels/NNS ./.
+Practical/JJ methods/NNS are/VBP forced/VBN to/TO rely/VB on/IN approximations/NNS due/IN to/IN the/DT difficulty/NN of/IN estimating/VBG mutual/JJ information/NN ./.
+We/PRP demonstrate/VBP that/IN approximations/NNS made/VBN by/IN existing/VBG methods/NNS are/VBP based/VBN on/IN unrealistic/JJ assumptions/NNS ./.
+We/PRP formulate/VBP a/DT more/RBR flexible/JJ and/CC general/JJ class/NN of/IN assumptions/NNS based/VBN on/IN variational/JJ distributions/NNS and/CC use/VB them/PRP to/TO tractably/RB generate/VB lower/JJR bounds/NNS for/IN mutual/JJ information/NN ./.
+These/DT bounds/NNS define/VBP a/DT novel/JJ information/NN -/HYPH theoretic/JJ framework/NN for/IN feature/NN selection/NN ,/, which/WDT we/PRP prove/VBP to/TO be/VB optimal/JJ under/IN tree/NN graphical/JJ models/NNS with/IN proper/JJ choice/NN of/IN variational/JJ distributions/NNS ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN the/DT proposed/JJ method/NN strongly/RB outperforms/VBZ existing/VBG information/NN -/HYPH theoretic/JJ feature/NN selection/NN approaches/NNS ./.

@@ -1,0 +1,12 @@
+To/TO tackle/VB the/DT vocabulary/NN problem/NN in/IN conversational/JJ systems/NNS ,/, previous/JJ work/NN has/VBZ applied/VBN unsupervised/JJ learning/NN approaches/VBZ on/IN co-occurring/VBG speech/NN and/CC eye/NN gaze/NN during/IN interaction/NN to/IN automatically/RB acquire/VB new/JJ words/NNS ./.
+Although/IN these/DT approaches/NNS have/VBP shown/VBN promise/NN ,/, several/JJ issues/NNS related/VBN to/IN human/JJ language/NN behavior/NN and/CC human/JJ -/HYPH machine/NN conversation/NN have/VBP not/RB been/VBN addressed/VBN ./.
+First/RB ,/, psycholinguistic/JJ studies/NNS have/VBP shown/VBN certain/JJ temporal/JJ regularities/NNS between/IN human/JJ eye/NN movement/NN and/CC language/NN production/NN ./.
+While/IN these/DT regularities/NNS can/MD potentially/RB guide/VB the/DT acquisition/NN process/NN ,/, they/PRP have/VBP not/RB been/VBN incorporated/VBN in/IN the/DT previous/JJ unsupervised/JJ approaches/NNS ./.
+Second/RB ,/, conversational/JJ systems/NNS generally/RB have/VBP an/DT existing/VBG knowledge/NN base/NN about/IN the/DT domain/NN and/CC vocabulary/NN ./.
+While/IN the/DT existing/VBG knowledge/NN can/MD potentially/RB help/VB bootstrap/NN and/CC constrain/VB the/DT acquired/VBN new/JJ words/NNS ,/, it/PRP has/VBZ not/RB been/VBN incorporated/VBN in/IN the/DT previous/JJ models/NNS ./.
+Third/JJ ,/, eye/NN gaze/NN could/MD serve/VB different/JJ functions/NNS in/IN human/JJ -/HYPH machine/NN conversation/NN ./.
+Some/DT gaze/NN streams/NNS may/MD not/RB be/VB closely/RB coupled/VBN with/IN speech/NN stream/NN ,/, and/CC thus/RB are/VBP potentially/RB detrimental/JJ to/IN word/NN acquisition/NN ./.
+Automated/VBN recognition/NN of/IN closely/RB -/HYPH coupled/VBN speech/NN -/HYPH gaze/NN streams/NNS based/VBN on/IN conversation/NN context/NN is/VBZ important/JJ ./.
+To/TO address/VB these/DT issues/NNS ,/, we/PRP developed/VBD new/JJ approaches/NNS that/WDT incorporate/VBP user/NN language/NN behavior/NN ,/, domain/NN knowledge/NN ,/, and/CC conversation/NN context/NN in/IN word/NN acquisition/NN ./.
+We/PRP evaluated/VBD these/DT approaches/NNS in/IN the/DT context/NN of/IN situated/VBN dialogue/NN in/IN a/DT virtual/JJ world/NN ./.
+Our/PRP$ experimental/JJ results/NNS have/VBP shown/VBN that/IN incorporating/VBG the/DT above/JJ three/CD types/NNS of/IN contextual/JJ information/NN significantly/RB improves/VBZ word/NN acquisition/NN performance/NN ./.

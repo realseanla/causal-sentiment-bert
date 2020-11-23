@@ -1,0 +1,10 @@
+Coronary heart disease (CHD) caused by hardening of artery walls due to cholesterol known as atherosclerosis is responsible for large number of deaths world-wide.
+The disease progression is slow, asymptomatic and may lead to sudden cardiac arrest, stroke or myocardial infraction.
+Presently, imaging techniques are being employed to understand the molecular and metabolic activity of atherosclerotic plaques to estimate the risk.
+Though imaging methods are able to provide some information on plaque metabolism they lack the required resolution and sensitivity for detection.
+In this paper we consider the clinical observations and habits of individuals for predicting the risk factors of CHD.
+The identification of risk factors helps in stratifying patients for further intensive tests such as nuclear imaging or coronary angiography.
+We present a novel approach for predicting the risk factors of atherosclerosis with an in-built imputation algorithm and particle swarm optimization (PSO).
+We compare the performance of our methodology with other machine learning techniques on STULONG dataset which is based on longitudinal study of middle aged individuals lasting for twenty years.
+Our methodology powered by PSO search has identified physical inactivity as one of the risk factor for the onset of atherosclerosis in addition to other already known factors.
+The decision rules extracted by our methodology are able to predict the risk factors with an accuracy of $99.73 percent$ which is higher than the accuracies obtained by application of the state-of-the-art machine learning techniques presently being employed in the identification of atherosclerosis risk studies.

@@ -1,0 +1,4 @@
+Binary/JJ Decision/NN Diagram/NNP (/-LRB- BDD/NNP )/-RRB- based/VBN set/VBN bounds/NNS propagation/NN is/VBZ a/DT powerful/JJ approach/NN to/IN solving/VBG set/NN -/HYPH constraint/NN satisfaction/NN problems/NNS ./.
+However/RB ,/, prior/JJ BDD/NN based/VBN techniques/NNS in/IN -/HYPH cur/NN the/DT significant/JJ overhead/NN of/IN constructing/VBG and/CC manipulating/VBG graphs/NNS during/IN search/NN ./.
+We/PRP present/VBP a/DT set/NN -/HYPH constraint/NN solver/NN which/WDT combines/VBZ BDD/NN -/HYPH based/VBN set/NN -/HYPH bounds/NNS propagators/NNS with/IN the/DT learning/NN abilities/NNS of/IN a/DT modern/JJ SAT/NN solver/NN ./.
+Together/RB with/IN a/DT number/NN of/IN improvements/NNS beyond/IN the/DT basic/JJ algorithm/NN ,/, this/DT solver/NN is/VBZ highly/RB competitive/JJ with/IN existing/VBG propagation/NN based/VBN set/VBN constraint/NN solvers/NNS ./.

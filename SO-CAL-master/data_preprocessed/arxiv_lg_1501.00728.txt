@@ -1,0 +1,11 @@
+Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- is/VBZ an/DT effective/JJ model/NN for/IN many/JJ classification/NN problems/NNS ./.
+However/RB ,/, SVM/NNP needs/VBZ the/DT solution/NN of/IN a/DT quadratic/JJ program/NN which/WDT require/VBP specialized/JJ code/NN ./.
+In/IN addition/NN ,/, SVM/NNP has/VBZ many/JJ parameters/NNS ,/, which/WDT affects/VBZ the/DT performance/NN of/IN SVM/NNP classifier/NN ./.
+Recently/RB ,/, the/DT Generalized/VBN Eigenvalue/NNP Proximal/NNP SVM/NNP (/-LRB- GEPSVM/NNP )/-RRB- has/VBZ been/VBN presented/VBN to/TO solve/VB the/DT SVM/NN complexity/NN ./.
+In/IN real/JJ world/NN applications/NNS data/NNS may/MD affected/VBN by/IN error/NN or/CC noise/NN ,/, working/VBG with/IN this/DT data/NN is/VBZ a/DT challenging/JJ problem/NN ./.
+In/IN this/DT paper/NN ,/, an/DT approach/NN has/VBZ been/VBN proposed/VBN to/TO overcome/VB this/DT problem/NN ./.
+This/DT method/NN is/VBZ called/VBN DSA/NNP -/HYPH GEPSVM/NNP ./.
+The/DT main/JJ improvements/NNS are/VBP carried/VBN out/RP based/VBN on/IN the/DT following/VBG :/: 1/LS )/-RRB- a/DT novel/JJ fuzzy/JJ values/NNS in/IN the/DT linear/JJ case/NN ./.
+2/LS )/-RRB- A/DT new/JJ Kernel/NNP function/NN in/IN the/DT nonlinear/JJ case/NN ./.
+3/LS )/-RRB- Differential/NNP Search/NNP Algorithm/NNP (/-LRB- DSA/NNP )/-RRB- is/VBZ reformulated/VBN to/TO find/VB near/IN optimal/JJ values/NNS of/IN the/DT GEPSVM/NNP parameters/NNS and/CC its/PRP$ kernel/NN parameters/NNS ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN the/DT proposed/VBN approach/NN is/VBZ able/JJ to/TO find/VB the/DT suitable/JJ parameter/NN values/NNS ,/, and/CC has/VBZ higher/JJR classification/NN accuracy/NN compared/VBN with/IN some/DT other/JJ algorithms/NNS ./.

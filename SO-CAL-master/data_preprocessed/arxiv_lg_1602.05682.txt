@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN we/PRP present/VBP a/DT study/NN on/IN identification/NN of/IN audio/JJ recording/NN devices/NNS from/IN background/NN noise/NN ,/, thus/RB providing/VBG a/DT method/NN for/IN forensics/NNS and/CC copyright/NN disputes/NNS related/VBN ./.
+The/DT audio/JJ signal/NN is/VBZ the/DT sum/NN of/IN speech/NN signal/NN and/CC noise/NN signal/NN ./.
+Since/IN usually/RB ,/, it/PRP 's/VBZ the/DT speech/NN which/WDT is/VBZ regarded/VBN as/IN the/DT information/NN to/TO be/VB passed/VBN that/IN people/NNS care/VBP about/IN ,/, a/DT great/JJ amount/NN of/IN researches/NNS have/VBP been/VBN dedicated/VBN to/IN getting/VBG higher/JJR SNR/NN ./.
+So/RB there/EX are/VBP many/JJ speech/NN enhancement/NN algorithms/NNS to/TO improve/VB the/DT quality/NN of/IN the/DT speech/NN signals/NNS ,/, which/WDT is/VBZ generally/RB can/MD be/VB seen/VBN much/RB like/IN reducing/VBG the/DT noise/NN ./.
+However/RB ,/, we/PRP make/VBP the/DT underlying/VBG hypothesis/NN that/IN the/DT noise/NN can/MD be/VB regarded/VBN as/IN the/DT intrinsic/JJ fingerprint/NN traces/NNS of/IN an/DT audio/JJ recording/NN device/NN in/IN a/DT way/NN ./.
+These/DT digital/JJ traces/NNS can/MD be/VB characterized/VBN and/CC identified/VBN by/IN new/JJ machine/NN learning/NN techniques/NNS ./.
+Therefore/RB ,/, the/DT noise/NN can/MD serve/VB as/IN the/DT intrinsic/JJ features/NNS for/IN the/DT identification/NN ./.
+As/IN for/IN the/DT classifier/NN ,/, a/DT Softmax/NNP classifier/NN and/CC an/DT MLP/NNP classifier/NN are/VBP used/VBN and/CC compared/VBN ./.
+The/DT identification/NN accuracy/NN is/VBZ up/RB to/IN 93/CD \/SYM percent/NN among/IN nine/CD different/JJ devices/NNS ,/, and/CC shows/VBZ the/DT method/NN of/IN getting/VBG feature/NN vector/NN from/IN the/DT noise/NN of/IN each/DT device/NN and/CC identifying/VBG with/IN deeplearning/NN techniques/NNS is/VBZ viable/JJ ,/, and/CC well/RB -/HYPH preformed/VBN ./.

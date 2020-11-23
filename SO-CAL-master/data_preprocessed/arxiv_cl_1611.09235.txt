@@ -1,0 +1,10 @@
+Many/JJ natural/JJ language/NN generation/NN tasks/NNS ,/, such/JJ as/IN abstractive/JJ summarization/NN and/CC text/NN simplification/NN ,/, are/VBP paraphrase/NN -/HYPH orientated/VBN ./.
+In/IN these/DT tasks/NNS ,/, copying/NN and/CC rewriting/VBG are/VBP two/CD main/JJ writing/NN modes/NNS ./.
+Most/JJS previous/JJ sequence/NN -/HYPH to/IN -/HYPH sequence/NN (/-LRB- Seq2Seq/NN )/-RRB- models/NNS use/VBP a/DT single/JJ decoder/NN and/CC neglect/NN this/DT fact/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP a/DT novel/JJ Seq2Seq/NN model/NN to/IN fuse/NN a/DT copying/NN decoder/NN and/CC a/DT restricted/VBN generative/JJ decoder/NN ./.
+The/DT copying/NN decoder/NN finds/VBZ the/DT position/NN to/TO be/VB copied/VBN based/VBN on/IN a/DT typical/JJ attention/NN model/NN ./.
+The/DT generative/JJ decoder/NN produces/VBZ words/NNS limited/VBN in/IN the/DT source/NN -/HYPH specific/JJ vocabulary/NN ./.
+To/TO combine/VB the/DT two/CD decoders/NNS and/CC determine/VB the/DT final/JJ output/NN ,/, we/PRP develop/VBP a/DT predictor/NN to/TO predict/VB the/DT mode/NN of/IN copying/NN or/CC rewriting/VBG ./.
+This/DT predictor/NN can/MD be/VB guided/VBN by/IN the/DT actual/JJ writing/NN mode/NN in/IN the/DT training/NN data/NNS ./.
+We/PRP conduct/VBP extensive/JJ experiments/NNS on/IN two/CD different/JJ paraphrase/NN datasets/NNS ./.
+The/DT result/NN shows/VBZ that/IN our/PRP$ model/NN outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS in/IN terms/NNS of/IN both/DT informativeness/NN and/CC language/NN quality/NN ./.

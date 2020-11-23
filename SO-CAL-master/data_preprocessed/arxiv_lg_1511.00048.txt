@@ -1,0 +1,5 @@
+Given/VBN a/DT multi-armed/JJ bandit/NN problem/NN it/PRP may/MD be/VB desirable/JJ to/TO achieve/VB a/DT smaller/JJR -/HYPH than/IN -/HYPH usual/JJ worst/JJS -/HYPH case/NN regret/NN for/IN some/DT special/JJ actions/NNS ./.
+I/PRP show/VBP that/IN the/DT price/NN for/IN such/JJ unbalanced/JJ worst/JJS -/HYPH case/NN regret/NN guarantees/NNS is/VBZ rather/RB high/JJ ./.
+Specifically/RB ,/, if/IN an/DT algorithm/NN enjoys/VBZ a/DT worst/JJS -/HYPH case/NN regret/NN of/IN B/NN with/IN respect/NN to/IN some/DT action/NN ,/, then/RB there/RB must/MD exist/VB another/DT action/NN for/IN which/WDT the/DT worst/JJS -/HYPH case/NN regret/NN is/VBZ at/IN least/JJS {/-LRB- \/SYM Omega/NN }/-RRB- (/-LRB- nK/NN //HYPH B/NN )/-RRB- ,/, where/WRB n/NN is/VBZ the/DT horizon/NN and/CC K/VB the/DT number/NN of/IN actions/NNS ./.
+I/PRP also/RB give/VBP upper/JJ bounds/NNS in/IN both/CC the/DT stochastic/JJ and/CC adversarial/JJ settings/NNS showing/VBG that/IN this/DT result/NN can/MD not/RB be/VB improved/VBN ./.
+For/IN the/DT stochastic/JJ case/NN the/DT pareto/NN regret/NN frontier/NN is/VBZ characterised/VBN exactly/RB up/RB to/IN constant/JJ factors/NNS ./.

@@ -1,0 +1,7 @@
+Most/JJS models/NNS in/IN machine/NN learning/NN contain/VBP at/IN least/RBS one/CD hyperparameter/NN to/TO control/VB for/IN model/NN complexity/NN ./.
+Choosing/VBG an/DT appropriate/JJ set/NN of/IN hyperparameters/NNS is/VBZ both/DT crucial/JJ in/IN terms/NNS of/IN model/NN accuracy/NN and/CC computationally/RB challenging/JJ ./.
+In/IN this/DT work/NN we/PRP propose/VBP an/DT algorithm/NN for/IN the/DT optimization/NN of/IN continuous/JJ hyperparameters/NNS using/VBG inexact/JJ gradient/NN information/NN ./.
+An/DT advantage/NN of/IN this/DT method/NN is/VBZ that/IN hyperparameters/NNS can/MD be/VB updated/VBN before/IN model/NN parameters/NNS have/VBP fully/RB converged/VBN ./.
+We/PRP also/RB give/VBP sufficient/JJ conditions/NNS for/IN the/DT global/JJ convergence/NN of/IN this/DT method/NN ,/, based/VBN on/IN regularity/NN conditions/NNS of/IN the/DT involved/JJ functions/NNS and/CC summability/NN of/IN errors/NNS ./.
+Finally/RB ,/, we/PRP validate/VBP the/DT empirical/JJ performance/NN of/IN this/DT method/NN on/IN the/DT estimation/NN of/IN regularization/NN constants/NNS of/IN L2/NN -/HYPH regularized/VBN logistic/JJ regression/NN and/CC kernel/NN Ridge/NNP regression/NN ./.
+Empirical/JJ benchmarks/NNS indicate/VBP that/IN our/PRP$ approach/NN is/VBZ highly/RB competitive/JJ with/IN respect/NN to/IN state/NN of/IN the/DT art/NN methods/NNS ./.

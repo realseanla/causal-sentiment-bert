@@ -1,0 +1,6 @@
+The/DT outlier/NN detection/NN problem/NN in/IN some/DT cases/NNS is/VBZ similar/JJ to/IN the/DT classification/NN problem/NN ./.
+For/IN example/NN ,/, the/DT main/JJ concern/NN of/IN clustering/NN -/HYPH based/VBN outlier/NN detection/NN algorithms/NNS is/VBZ to/TO find/VB clusters/NNS and/CC outliers/NNS ,/, which/WDT are/VBP often/RB regarded/VBN as/IN noise/NN that/WDT should/MD be/VB removed/VBN in/IN order/NN to/TO make/VB more/JJR reliable/JJ clustering/NN ./.
+In/IN this/DT article/NN ,/, we/PRP present/VBP an/DT algorithm/NN that/WDT provides/VBZ outlier/NN detection/NN and/CC data/NN clustering/NN simultaneously/RB ./.
+The/DT algorithmimprovesthe/JJ estimation/NN of/IN centroids/NNS of/IN the/DT generative/JJ distribution/NN during/IN the/DT process/NN of/IN clustering/NN and/CC outlier/NN discovery/NN ./.
+The/DT proposed/VBN algorithm/NN consists/VBZ of/IN two/CD stages/NNS ./.
+The/DT first/JJ stage/NN consists/VBZ of/IN improved/VBN genetic/JJ k/NN -/HYPH means/NN algorithm/NN (/-LRB- IGK/NN )/-RRB- process/NN ,/, while/IN the/DT second/JJ stage/NN iteratively/RB removes/VBZ the/DT vectors/NNS which/WDT are/VBP far/RB from/IN their/PRP$ cluster/NN centroids/NNS ./.

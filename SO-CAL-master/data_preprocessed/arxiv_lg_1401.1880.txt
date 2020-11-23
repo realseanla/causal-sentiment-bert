@@ -1,0 +1,7 @@
+In/IN recent/JJ years/NNS ,/, there/EX has/VBZ been/VBN growing/VBG focus/NN on/IN the/DT study/NN of/IN automated/VBN recommender/NN systems/NNS ./.
+Music/NN recommendation/NN systems/NNS serve/VBP as/IN a/DT prominent/JJ domain/NN for/IN such/JJ works/NNS ,/, both/CC from/IN an/DT academic/JJ and/CC a/DT commercial/JJ perspective/NN ./.
+A/DT relatively/RB well/RB known/JJ fact/NN in/IN music/NN cognition/NN is/VBZ that/IN music/NN is/VBZ experienced/VBN in/IN temporal/JJ context/NN and/CC in/IN sequence/NN ./.
+In/IN this/DT work/NN we/PRP present/VBP DJ/NNP -/HYPH MC/NNP ,/, a/DT reinforcement/NN -/HYPH learning/NN based/VBN framework/NN for/IN music/NN recommendation/NN that/WDT does/VBZ not/RB recommend/VB songs/NNS individually/RB but/CC rather/RB song/NN sequences/NNS ,/, or/CC playlists/NNS ,/, based/VBN on/IN a/DT learned/VBN model/NN of/IN preferences/NNS for/IN both/DT individual/JJ songs/NNS and/CC song/NN transitions/NNS ./.
+To/TO reduce/VB exploration/NN time/NN ,/, we/PRP initialize/VBP a/DT model/NN based/VBN on/IN user/NN feedback/NN ./.
+This/DT model/NN is/VBZ subsequently/RB updated/VBN by/IN reinforcement/NN ./.
+We/PRP show/VBP our/PRP$ algorithm/NN outperforms/VBZ a/DT more/RBR naive/JJ approach/NN ,/, using/VBG both/CC real/JJ song/NN data/NNS and/CC real/JJ playlist/NN data/NNS to/TO validate/VB our/PRP$ approach/NN ./.

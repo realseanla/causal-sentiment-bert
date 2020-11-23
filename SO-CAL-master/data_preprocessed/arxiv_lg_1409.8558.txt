@@ -1,0 +1,9 @@
+Nearly/RB all/DT Statistical/JJ Parametric/NNP Speech/NNP Synthesizers/NNPS today/NN use/VBP Mel/NNP Cepstral/NNP coefficients/NNS as/IN the/DT vocal/JJ tract/NN parameterization/NN of/IN the/DT speech/NN signal/NN ./.
+Mel/NNP Cepstral/NNP coefficients/NNS were/VBD never/RB intended/VBN to/TO work/VB in/IN a/DT parametric/JJ speech/NN synthesis/NN framework/NN ,/, but/CC as/RB yet/RB ,/, there/EX has/VBZ been/VBN little/JJ success/NN in/IN creating/VBG a/DT better/JJR parameterization/NN that/WDT is/VBZ more/RBR suited/JJ to/IN synthesis/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP use/VBP deep/JJ learning/NN algorithms/NNS to/TO investigate/VB a/DT data/NN -/HYPH driven/VBN parameterization/NN technique/NN that/WDT is/VBZ designed/VBN for/IN the/DT specific/JJ requirements/NNS of/IN synthesis/NN ./.
+We/PRP create/VBP an/DT invertible/NN ,/, low/JJ -/HYPH dimensional/JJ ,/, noise/NN -/HYPH robust/JJ encoding/NN of/IN the/DT Mel/NNP Log/NNP Spectrum/NNP by/IN training/VBG a/DT tapered/JJ Stacked/VBN Denoising/NN Autoencoder/NN (/-LRB- SDA/NN )/-RRB- ./.
+This/DT SDA/NN is/VBZ then/RB unwrapped/JJ and/CC used/VBN as/IN the/DT initialization/NN for/IN a/DT Multi-Layer/NNP Perceptron/NNP (/-LRB- MLP/NNP )/-RRB- ./.
+The/DT MLP/NNP is/VBZ fine/JJ -/HYPH tuned/VBN by/IN training/VBG it/PRP to/TO reconstruct/VB the/DT input/NN at/IN the/DT output/NN layer/NN ./.
+This/DT MLP/NNP is/VBZ then/RB split/VBN down/IN the/DT middle/NN to/TO form/VB encoding/VBG and/CC decoding/VBG networks/NNS ./.
+These/DT networks/NNS produce/VBP a/DT parameterization/NN of/IN the/DT Mel/NNP Log/NNP Spectrum/NNP that/WDT is/VBZ intended/VBN to/TO better/RBR fulfill/VB the/DT requirements/NNS of/IN synthesis/NN ./.
+Results/NNS are/VBP reported/VBN for/IN experiments/NNS conducted/VBN using/VBG this/DT resulting/VBG parameterization/NN with/IN the/DT ClusterGen/NNP speech/NN synthesizer/NN ./.

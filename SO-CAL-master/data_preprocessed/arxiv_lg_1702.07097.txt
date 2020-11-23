@@ -1,0 +1,5 @@
+The/DT back/NN -/HYPH propagation/NN (/-LRB- BP/NN )/-RRB- algorithm/NN has/VBZ been/VBN considered/VBN the/DT de/FW facto/FW method/NN for/IN training/NN deep/JJ neural/JJ networks/NNS ./.
+It/PRP back/RB -/HYPH propagates/VBZ errors/NNS from/IN the/DT output/NN layer/NN to/IN the/DT hidden/JJ layers/NNS in/IN an/DT exact/JJ manner/NN using/VBG feedforward/NN weights/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT more/JJR biologically/RB plausible/JJ paradigm/NN of/IN neural/JJ architecture/NN according/VBG to/IN biological/JJ findings/NNS ./.
+Specifically/RB ,/, we/PRP propose/VBP two/CD bidirectional/JJ learning/NN algorithms/NNS with/IN two/CD sets/NNS of/IN trainable/JJ weights/NNS ./.
+Preliminary/JJ results/NNS show/VBP that/IN our/PRP$ models/NNS perform/VBP best/JJS on/IN the/DT MNIST/NNP and/CC the/DT CIFAR10/NN datasets/NNS among/IN the/DT asymmetric/JJ error/NN signal/NN passing/VBG methods/NNS ,/, and/CC their/PRP$ performance/NN is/VBZ more/RBR close/JJ to/IN that/DT of/IN BP/NN ./.

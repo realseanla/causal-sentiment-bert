@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT minmax/NN optimization/NN problem/NN introduced/VBN in/IN [/-LRB- 22/CD ]/-RRB- for/IN computing/VBG policies/NNS for/IN batch/NN mode/NN reinforcement/NN learning/VBG in/IN a/DT deterministic/JJ setting/NN ./.
+First/RB ,/, we/PRP show/VBP that/IN this/DT problem/NN is/VBZ NP/NNP -/HYPH hard/JJ ./.
+In/IN the/DT two/CD -/HYPH stage/NN case/NN ,/, we/PRP provide/VBP two/CD relaxation/NN schemes/NNS ./.
+The/DT first/JJ relaxation/NN scheme/NN works/VBZ by/IN dropping/VBG some/DT constraints/NNS in/IN order/NN to/TO obtain/VB a/DT problem/NN that/WDT is/VBZ solvable/JJ in/IN polynomial/JJ time/NN ./.
+The/DT second/JJ relaxation/NN scheme/NN ,/, based/VBN on/IN a/DT Lagrangian/JJ relaxation/NN where/WRB all/DT constraints/NNS are/VBP dualized/VBN ,/, leads/VBZ to/IN a/DT conic/JJ quadratic/JJ programming/NN problem/NN ./.
+We/PRP also/RB theoretically/RB prove/VB and/CC empirically/RB illustrate/VBP that/IN both/DT relaxation/NN schemes/NNS provide/VBP better/JJR results/NNS than/IN those/DT given/VBN in/IN [/-LRB- 22/CD ]/-RRB- ./.

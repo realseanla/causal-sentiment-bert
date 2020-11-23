@@ -1,0 +1,8 @@
+Memetic/JJ computation/NN (/-LRB- MC/NNP )/-RRB- has/VBZ emerged/VBN recently/RB as/IN a/DT new/JJ paradigm/NN of/IN efficient/JJ algorithms/NNS for/IN solving/VBG the/DT hardest/JJS optimization/NN problems/NNS ./.
+On/IN the/DT other/JJ hand/NN ,/, artificial/JJ bees/NNS colony/NN (/-LRB- ABC/NNP )/-RRB- algorithms/NNS demonstrate/VBP good/JJ performances/NNS when/WRB solving/VBG continuous/JJ and/CC combinatorial/JJ optimization/NN problems/NNS ./.
+This/DT study/NN tries/VBZ to/TO use/VB these/DT technologies/NNS under/IN the/DT same/JJ roof/NN ./.
+As/IN a/DT result/NN ,/, a/DT memetic/JJ ABC/NNP (/-LRB- MABC/NNP )/-RRB- algorithm/NN has/VBZ been/VBN developed/VBN that/WDT is/VBZ hybridized/VBN with/IN two/CD local/JJ search/NN heuristics/NNS :/: the/DT Nelder/NNP -/HYPH Mead/NNP algorithm/NN (/-LRB- NMA/NN )/-RRB- and/CC the/DT random/JJ walk/NN with/IN direction/NN exploitation/NN (/-LRB- RWDE/NN )/-RRB- ./.
+The/DT former/JJ is/VBZ attended/VBN more/RBR towards/IN exploration/NN ,/, while/IN the/DT latter/JJ more/JJR towards/IN exploitation/NN of/IN the/DT search/NN space/NN ./.
+The/DT stochastic/JJ adaptation/NN rule/NN was/VBD employed/VBN in/IN order/NN to/TO control/VB the/DT balancing/NN between/IN exploration/NN and/CC exploitation/NN ./.
+This/DT MABC/NNP algorithm/NN was/VBD applied/VBN to/IN a/DT Special/JJ suite/NN on/IN Large/JJ Scale/NN Continuous/JJ Global/JJ Optimization/NN at/IN the/DT 2012/CD IEEE/NNP Congress/NNP on/IN Evolutionary/NNP Computation/NNP ./.
+The/DT obtained/VBN results/VBZ the/DT MABC/NNP are/VBP comparable/JJ with/IN the/DT results/NNS of/IN DECC/NN -/HYPH G/NN ,/, DECC/NN -/HYPH G/NN */NFP ,/, and/CC MLCC/NNP ./.

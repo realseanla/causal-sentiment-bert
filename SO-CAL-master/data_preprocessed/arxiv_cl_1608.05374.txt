@@ -1,0 +1,9 @@
+Text/VB -/HYPH to/IN -/HYPH Speech/NNP synthesis/NN in/IN Indian/JJ languages/NNS has/VBZ a/DT seen/VBN lot/NN of/IN progress/NN over/IN the/DT decade/NN partly/RB due/IN to/IN the/DT annual/JJ Blizzard/NNP challenges/NNS ./.
+These/DT systems/NNS assume/VBP the/DT text/NN to/TO be/VB written/VBN in/IN Devanagari/NNP or/CC Dravidian/JJ scripts/NNS which/WDT are/VBP nearly/RB phonemic/JJ orthography/NN scripts/NNS ./.
+However/RB ,/, the/DT most/RBS common/JJ form/NN of/IN computer/NN interaction/NN among/IN Indians/NNPS is/VBZ ASCII/NNP written/VBN transliterated/VBN text/NN ./.
+Such/JJ text/NN is/VBZ generally/RB noisy/JJ with/IN many/JJ variations/NNS in/IN spelling/NN for/IN the/DT same/JJ word/NN ./.
+In/IN this/DT paper/NN we/PRP evaluate/VBP three/CD approaches/NNS to/TO synthesize/VB speech/NN from/IN such/JJ noisy/JJ ASCII/NN text/NN :/: a/DT naive/JJ Uni-Grapheme/NNP approach/NN ,/, a/DT Multi-Grapheme/NNP approach/NN ,/, and/CC a/DT supervised/JJ Grapheme/NN -/HYPH to/IN -/HYPH Phoneme/NN (/-LRB- G2P/NN )/-RRB- approach/NN ./.
+These/DT methods/NNS first/RB convert/VBP the/DT ASCII/NNP text/NN to/IN a/DT phonetic/JJ script/NN ,/, and/CC then/RB learn/VB a/DT Deep/JJ Neural/JJ Network/NN to/IN synthesize/VB speech/NN from/IN that/DT ./.
+We/PRP train/VBP and/CC test/VBP our/PRP$ models/NNS on/IN Blizzard/NNP Challenge/NNP datasets/NNS that/WDT were/VBD transliterated/VBN to/IN ASCII/NN using/VBG crowdsourcing/NN ./.
+Our/PRP$ experiments/NNS on/IN Hindi/NNP ,/, Tamil/NNP and/CC Telugu/NNP demonstrate/VBP that/IN our/PRP$ models/NNS generate/VBP speech/NN of/IN competetive/JJ quality/NN from/IN ASCII/NNP text/NN compared/VBN to/IN the/DT speech/NN synthesized/VBN from/IN the/DT native/JJ scripts/NNS ./.
+All/PDT the/DT accompanying/VBG transliterated/VBN datasets/NNS are/VBP released/VBN for/IN public/JJ access/NN ./.

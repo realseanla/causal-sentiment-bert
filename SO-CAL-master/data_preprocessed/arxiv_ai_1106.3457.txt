@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT purely/RB extensional/JJ semantics/NNS for/IN higher/JJR -/HYPH order/NN logic/NN programming/NN ./.
+In/IN this/DT semantics/NNS program/NN predicates/NNS denote/VBP sets/NNS of/IN ordered/VBN tuples/NNS ,/, and/CC two/CD predicates/NNS are/VBP equal/JJ iff/NN they/PRP are/VBP equal/JJ as/IN sets/NNS ./.
+Moreover/RB ,/, every/DT program/NN has/VBZ a/DT unique/JJ minimum/NN Herbrand/NN model/NN which/WDT is/VBZ the/DT greatest/JJS lower/JJR bound/VBN of/IN all/DT Herbrand/NN models/NNS of/IN the/DT program/NN and/CC the/DT least/JJS fixed/VBN -/HYPH point/NN of/IN an/DT immediate/JJ consequence/NN operator/NN ./.
+We/PRP also/RB propose/VBP an/DT SLD/NN -/HYPH resolution/NN proof/NN procedure/NN which/WDT is/VBZ proven/VBN sound/JJ and/CC complete/JJ with/IN respect/NN to/IN the/DT minimum/JJ model/NN semantics/NNS ./.
+In/IN other/JJ words/NNS ,/, we/PRP provide/VBP a/DT purely/RB extensional/JJ theoretical/JJ framework/NN for/IN higher/JJR -/HYPH order/NN logic/NN programming/NN which/WDT generalizes/VBZ the/DT familiar/JJ theory/NN of/IN classical/JJ (/-LRB- first/JJ -/HYPH order/NN )/-RRB- logic/NN programming/NN ./.

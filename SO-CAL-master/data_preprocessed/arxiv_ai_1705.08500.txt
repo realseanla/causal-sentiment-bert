@@ -1,0 +1,7 @@
+Selective/JJ classification/NN techniques/NNS (/-LRB- also/RB known/VBN as/IN reject/VBP option/NN )/-RRB- have/VBP not/RB yet/RB been/VBN considered/VBN in/IN the/DT context/NN of/IN deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- ./.
+These/DT techniques/NNS can/MD potentially/RB significantly/RB improve/VB DNNs/NNS prediction/NN performance/NN by/IN trading/NN -/HYPH off/NN coverage/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT method/NN to/TO construct/VB a/DT selective/JJ classifier/NN given/VBN a/DT trained/VBN neural/JJ network/NN ./.
+Our/PRP$ method/NN allows/VBZ a/DT user/NN to/TO set/VB a/DT desired/VBN risk/NN level/NN ./.
+At/IN test/NN time/NN ,/, the/DT classifier/NN rejects/VBZ instances/NNS as/IN needed/VBN ,/, to/TO grant/VB the/DT desired/VBN risk/NN (/-LRB- with/IN high/JJ probability/NN )/-RRB- ./.
+Empirical/JJ results/NNS over/IN CIFAR/NNP and/CC ImageNet/NNP convincingly/RB demonstrate/VBP the/DT viability/NN of/IN our/PRP$ method/NN ,/, which/WDT opens/VBZ up/RP possibilities/NNS to/TO operate/VB DNNs/NNS in/IN mission/NN -/HYPH critical/JJ applications/NNS ./.
+For/IN example/NN ,/, using/VBG our/PRP$ method/NN an/DT unprecedented/JJ 2/CD percent/NN error/NN in/IN top/JJ -/HYPH 5/CD ImageNet/NNP classification/NN can/MD be/VB guaranteed/VBN with/IN probability/NN 99.9/CD percent/NN ,/, and/CC almost/RB 60/CD percent/NN test/NN coverage/NN ./.

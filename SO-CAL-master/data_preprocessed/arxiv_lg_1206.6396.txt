@@ -1,0 +1,5 @@
+Maximizing/VBG high/JJ -/HYPH dimensional/JJ ,/, non-convex/JJ functions/NNS through/IN noisy/JJ observations/NNS is/VBZ a/DT notoriously/RB hard/JJ problem/NN ,/, but/CC one/CD that/WDT arises/VBZ in/IN many/JJ applications/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP tackle/VBP this/DT challenge/NN by/IN modeling/VBG the/DT unknown/JJ function/NN as/IN a/DT sample/NN from/IN a/DT high/JJ -/HYPH dimensional/JJ Gaussian/JJ process/NN (/-LRB- GP/NNP )/-RRB- distribution/NN ./.
+Assuming/VBG that/IN the/DT unknown/JJ function/NN only/RB depends/VBZ on/IN few/JJ relevant/JJ variables/NNS ,/, we/PRP show/VBP that/IN it/PRP is/VBZ possible/JJ to/TO perform/VB joint/JJ variable/JJ selection/NN and/CC GP/NNP optimization/NN ./.
+We/PRP provide/VBP strong/JJ performance/NN guarantees/NNS for/IN our/PRP$ algorithm/NN ,/, bounding/VBG the/DT sample/NN complexity/NN of/IN variable/JJ selection/NN ,/, and/CC as/RB well/RB as/IN providing/VBG cumulative/JJ regret/NN bounds/NNS ./.
+We/PRP further/RB provide/VBP empirical/JJ evidence/NN on/IN the/DT effectiveness/NN of/IN our/PRP$ algorithm/NN on/IN several/JJ benchmark/NN optimization/NN problems/NNS ./.

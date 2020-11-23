@@ -1,0 +1,5 @@
+In/IN translation/NN ,/, considering/VBG the/DT document/NN as/IN a/DT whole/JJ allows/VBZ certain/JJ ambiguities/NNS and/CC inconsistencies/NNS to/TO be/VB resolved/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT cross-sentence/NN context/NN -/HYPH aware/JJ approach/NN and/CC investigate/VB the/DT influence/NN of/IN historical/JJ contextual/JJ information/NN on/IN the/DT performance/NN of/IN neural/JJ machine/NN translation/NN (/-LRB- NMT/NN )/-RRB- ./.
+First/RB ,/, this/DT history/NN is/VBZ summarized/VBN in/IN a/DT hierarchical/JJ way/NN ./.
+We/PRP then/RB integrate/VB the/DT historical/JJ representation/NN into/IN NMT/NNP in/IN two/CD strategies/NNS :/: 1/LS )/-RRB- a/DT warm/JJ -/HYPH start/NN of/IN encoder/NN and/CC decoder/NN states/NNS ,/, and/CC 2/LS )/-RRB- an/DT auxiliary/JJ context/NN source/NN for/IN updating/VBG decoder/NN states/NNS ./.
+Experimental/JJ results/NNS on/IN a/DT large/JJ Chinese/JJ -/HYPH English/JJ translation/NN task/NN show/VBP that/IN our/PRP$ approach/NN significantly/RB improves/VBZ upon/IN a/DT strong/JJ attention/NN -/HYPH based/VBN NMT/NN system/NN by/IN up/RB to/IN 2.1/CD BLEU/NN points/NNS ./.

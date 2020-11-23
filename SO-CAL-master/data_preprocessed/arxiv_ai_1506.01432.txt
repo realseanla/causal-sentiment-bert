@@ -1,0 +1,6 @@
+Markov/NNP logic/NN uses/VBZ weighted/JJ formulas/NNS to/IN compactly/RB encode/VBP a/DT probability/NN distribution/NN over/IN possible/JJ worlds/NNS ./.
+Despite/IN the/DT use/NN of/IN logical/JJ formulas/NNS ,/, Markov/NNP logic/NN networks/NNS (/-LRB- MLNs/NNS )/-RRB- can/MD be/VB difficult/JJ to/TO interpret/VB ,/, due/IN to/IN the/DT often/RB counter-intuitive/JJ meaning/NN of/IN their/PRP$ weights/NNS ./.
+To/TO address/VB this/DT issue/NN ,/, we/PRP propose/VBP a/DT method/NN to/TO construct/VB a/DT possibilistic/JJ logic/NN theory/NN that/WDT exactly/RB captures/VBZ what/WP can/MD be/VB derived/VBN from/IN a/DT given/VBN MLN/NN using/VBG maximum/NN a/DT posteriori/NN (/-LRB- MAP/NN )/-RRB- inference/NN ./.
+Unfortunately/RB ,/, the/DT size/NN of/IN this/DT theory/NN is/VBZ exponential/JJ in/IN general/JJ ./.
+We/PRP therefore/RB also/RB propose/VB two/CD methods/NNS which/WDT can/MD derive/VB compact/JJ theories/NNS that/WDT still/RB capture/VBP MAP/NN inference/NN ,/, but/CC only/RB for/IN specific/JJ types/NNS of/IN evidence/NN ./.
+These/DT theories/NNS can/MD be/VB used/VBN ,/, among/IN others/NNS ,/, to/TO make/VB explicit/JJ the/DT hidden/JJ assumptions/NNS underlying/VBG an/DT MLN/NNP or/CC to/TO explain/VB the/DT predictions/NNS it/PRP makes/VBZ ./.

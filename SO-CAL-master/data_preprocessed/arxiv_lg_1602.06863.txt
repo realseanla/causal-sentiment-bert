@@ -1,0 +1,5 @@
+This/DT paper/NN proposes/VBZ an/DT efficient/JJ algorithm/NN (/-LRB- HOLRR/NN )/-RRB- to/TO handle/VB regression/NN tasks/NNS where/WRB the/DT outputs/NNS have/VBP a/DT tensor/NN structure/NN ./.
+We/PRP formulate/VBP the/DT regression/NN problem/NN as/IN the/DT minimization/NN of/IN a/DT least/JJS square/JJ criterion/NN under/IN a/DT multilinear/JJ rank/NN constraint/NN ,/, a/DT difficult/JJ non/FW convex/FW problem/NN ./.
+HOLRR/NNP computes/VBZ efficiently/RB an/DT approximate/JJ solution/NN of/IN this/DT problem/NN ,/, with/IN solid/JJ theoretical/JJ guarantees/NNS ./.
+A/DT kernel/NN extension/NN is/VBZ also/RB presented/VBN ./.
+Experiments/NNS on/IN synthetic/JJ and/CC real/JJ data/NNS show/VBP that/IN HOLRR/NNP outperforms/VBZ multivariate/JJ and/CC multilinear/JJ regression/NN methods/NNS and/CC is/VBZ considerably/RB faster/JJR than/IN existing/VBG tensor/NN methods/NNS ./.

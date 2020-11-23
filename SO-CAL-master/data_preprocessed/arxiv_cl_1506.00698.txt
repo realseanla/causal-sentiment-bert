@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT three/CD -/HYPH pronged/JJ approach/NN to/IN improving/VBG Statistical/JJ Machine/NN Translation/NN (/-LRB- SMT/NN )/-RRB- ,/, building/VBG on/IN recent/JJ success/NN in/IN the/DT application/NN of/IN neural/JJ networks/NNS to/IN SMT/NNP ./.
+First/RB ,/, we/PRP propose/VBP new/JJ features/NNS based/VBN on/IN neural/JJ networks/NNS to/TO model/VB various/JJ non-local/JJ translation/NN phenomena/NN ./.
+Second/RB ,/, we/PRP augment/VBP the/DT architecture/NN of/IN the/DT neural/JJ network/NN with/IN tensor/NN layers/NNS that/WDT capture/VBP important/JJ higher/JJR -/HYPH order/NN interaction/NN among/IN the/DT network/NN units/NNS ./.
+Third/JJ ,/, we/PRP apply/VBP multitask/NN learning/NN to/TO estimate/VB the/DT neural/JJ network/NN parameters/NNS jointly/RB ./.
+Each/DT of/IN our/PRP$ proposed/VBN methods/NNS results/VBZ in/IN significant/JJ improvements/NNS that/WDT are/VBP complementary/JJ ./.
+The/DT overall/JJ improvement/NN is/VBZ 2.7/CD and/CC 1.8/CD BLEU/NN points/NNS for/IN Arabic/JJ -/HYPH English/JJ and/CC Chinese/JJ -/HYPH English/JJ translation/NN over/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN system/NN that/WDT already/RB includes/VBZ neural/JJ network/NN features/NNS ./.

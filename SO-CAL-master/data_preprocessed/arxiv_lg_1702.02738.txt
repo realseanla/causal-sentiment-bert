@@ -1,0 +1,9 @@
+Many/JJ activities/NNS involve/VBP object/NN manipulations/NNS aiming/VBG to/TO modify/VB object/NN state/NN ./.
+Examples/NNS of/IN common/JJ state/NN changes/NNS include/VBP full/JJ //HYPH empty/JJ bottle/NN ,/, open/JJ //HYPH closed/JJ door/NN ,/, and/CC attached/VBN //HYPH detached/JJ car/NN wheel/NN ./.
+In/IN this/DT work/NN ,/, we/PRP seek/VBP to/TO automatically/RB discover/VB the/DT states/NNS of/IN objects/NNS and/CC the/DT associated/VBN manipulating/VBG actions/NNS ./.
+Given/VBN a/DT set/NN of/IN videos/NNS for/IN a/DT particular/JJ task/NN ,/, we/PRP propose/VBP a/DT joint/JJ model/NN that/WDT learns/VBZ to/TO identify/VB object/NN states/NNS and/CC to/TO localize/VB state/NN -/HYPH modifying/VBG actions/NNS ./.
+Our/PRP$ model/NN is/VBZ formulated/VBN as/IN a/DT discriminative/JJ clustering/NN cost/NN ./.
+We/PRP assume/VBP a/DT consistent/JJ temporal/JJ order/NN for/IN the/DT changes/NNS in/IN object/NN states/NNS and/CC manipulating/VBG actions/NNS ,/, and/CC learn/VB the/DT model/NN without/IN additional/JJ supervision/NN ./.
+Our/PRP$ method/NN is/VBZ validated/VBN on/IN a/DT new/JJ dataset/NN of/IN videos/NNS depicting/VBG real/JJ -/HYPH life/NN object/NN manipulations/NNS ./.
+We/PRP demonstrate/VBP the/DT successful/JJ discovery/NN of/IN seven/CD manipulating/VBG actions/NNS and/CC corresponding/VBG object/NN states/NNS ./.
+Moreover/RB ,/, we/PRP emphasize/VBP our/PRP$ joint/JJ formulation/NN and/CC show/VB the/DT improvement/NN of/IN object/NN state/NN discovery/NN by/IN action/NN recognition/NN and/CC vice/NN versa/NN ./.

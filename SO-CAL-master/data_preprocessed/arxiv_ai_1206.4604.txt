@@ -1,0 +1,9 @@
+Online/JJ sequence/NN prediction/NN is/VBZ the/DT problem/NN of/IN predicting/VBG the/DT next/JJ element/NN of/IN a/DT sequence/NN given/VBN previous/JJ elements/NNS ./.
+This/DT problem/NN has/VBZ been/VBN extensively/RB studied/VBN in/IN the/DT context/NN of/IN individual/JJ sequence/NN prediction/NN ,/, where/WRB no/DT prior/JJ assumptions/NNS are/VBP made/VBN on/IN the/DT origin/NN of/IN the/DT sequence/NN ./.
+Individual/JJ sequence/NN prediction/NN algorithms/NNS work/VBP quite/RB well/RB for/IN long/JJ sequences/NNS ,/, where/WRB the/DT algorithm/NN has/VBZ enough/JJ time/NN to/TO learn/VB the/DT temporal/JJ structure/NN of/IN the/DT sequence/NN ./.
+However/RB ,/, they/PRP might/MD give/VB poor/JJ predictions/NNS for/IN short/JJ sequences/NNS ./.
+A/DT possible/JJ remedy/NN is/VBZ to/TO rely/VB on/IN the/DT general/JJ model/NN of/IN prediction/NN with/IN expert/NN advice/NN ,/, where/WRB the/DT learner/NN has/VBZ access/NN to/IN a/DT set/NN of/IN $/$ r/VBP $/$ experts/NNS ,/, each/DT of/IN which/WDT makes/VBZ its/PRP$ own/JJ predictions/NNS on/IN the/DT sequence/NN ./.
+It/PRP is/VBZ well/RB known/VBN that/IN it/PRP is/VBZ possible/JJ to/TO predict/VB almost/RB as/RB well/RB as/IN the/DT best/JJS expert/NN if/IN the/DT sequence/NN length/NN is/VBZ order/NN of/IN $/$ \/SYM log/NN (/-LRB- r/NN )/-RRB- $/$ ./.
+But/CC ,/, without/IN firm/NN prior/JJ knowledge/NN on/IN the/DT problem/NN ,/, it/PRP is/VBZ not/RB clear/JJ how/WRB to/TO choose/VB a/DT small/JJ set/NN of/IN {/-LRB- \/SYM em/PRP good/JJ }/-RRB- experts/NNS ./.
+In/IN this/DT paper/NN we/PRP describe/VBP and/CC analyze/VBP a/DT new/JJ algorithm/NN that/WDT learns/VBZ a/DT good/JJ set/NN of/IN experts/NNS using/VBG a/DT training/NN set/NN of/IN previously/RB observed/VBN sequences/NNS ./.
+We/PRP demonstrate/VBP the/DT merits/NNS of/IN our/PRP$ approach/NN by/IN applying/VBG it/PRP on/IN the/DT task/NN of/IN click/NN prediction/NN on/IN the/DT web/NN ./.

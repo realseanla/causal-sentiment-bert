@@ -1,0 +1,5 @@
+We present our experiences using cloud computing to support data-intensive analytics on satellite imagery for commercial applications.
+Drawing from our background in high-performance computing, we draw parallels between the early days of clustered computing systems and the current state of cloud computing and its potential to disrupt the HPC market.
+Using our own virtual file system layer on top of cloud remote object storage, we demonstrate aggregate read bandwidth of 230 gigabytes per second using 512 Google Compute Engine (GCE) nodes accessing a USA multi-region standard storage bucket.
+This figure is comparable to the best HPC storage systems in existence.
+We also present several of our application results, including the identification of field boundaries in Ukraine, and the generation of a global cloud-free base layer from Landsat imagery.

@@ -1,0 +1,4 @@
+We/PRP design/VBP algorithms/NNS for/IN online/JJ linear/JJ optimization/NN that/WDT have/VBP optimal/JJ regret/NN and/CC at/IN the/DT same/JJ time/NN do/VBP not/RB need/VB to/TO know/VB any/DT upper/JJ or/CC lower/JJR bounds/NNS on/IN the/DT norm/NN of/IN the/DT loss/NN vectors/NNS ./.
+We/PRP achieve/VBP adaptiveness/NN to/IN the/DT norms/NNS of/IN the/DT loss/NN vectors/NNS by/IN scale/NN invariance/NN ,/, i.e./FW ,/, our/PRP$ algorithms/NNS make/VBP exactly/RB the/DT same/JJ decisions/NNS if/IN the/DT sequence/NN of/IN loss/NN vectors/NNS is/VBZ multiplied/VBN by/IN any/DT positive/JJ constant/JJ ./.
+One/CD of/IN our/PRP$ algorithms/NNS works/VBZ for/IN any/DT decision/NN set/NN ,/, bounded/VBD or/CC unbounded/JJ ./.
+For/IN unbounded/JJ decisions/NNS sets/NNS ,/, this/DT is/VBZ the/DT first/JJ adaptive/JJ algorithm/NN for/IN online/JJ linear/JJ optimization/NN with/IN a/DT non-vacuous/JJ regret/NN bound/VBN ./.

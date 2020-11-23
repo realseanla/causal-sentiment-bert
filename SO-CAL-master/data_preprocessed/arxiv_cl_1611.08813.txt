@@ -1,0 +1,5 @@
+Prepositions/NNS are/VBP very/RB common/JJ and/CC very/RB ambiguous/JJ ,/, and/CC understanding/VBG their/PRP$ sense/NN is/VBZ critical/JJ for/IN understanding/VBG the/DT meaning/NN of/IN the/DT sentence/NN ./.
+Supervised/VBN corpora/NN for/IN the/DT preposition/NN -/HYPH sense/NN disambiguation/NN task/NN are/VBP small/JJ ,/, suggesting/VBG a/DT semi-supervised/JJ approach/NN to/IN the/DT task/NN ./.
+We/PRP show/VBP that/IN signals/NNS from/IN unannotated/JJ multilingual/JJ data/NNS can/MD be/VB used/VBN to/TO improve/VB supervised/JJ preposition/NN -/HYPH sense/NN disambiguation/NN ./.
+Our/PRP$ approach/NN pre-trains/VBZ an/DT LSTM/NNP encoder/NN for/IN predicting/VBG the/DT translation/NN of/IN a/DT preposition/NN ,/, and/CC then/RB incorporates/VBZ the/DT pre-trained/JJ encoder/NN as/IN a/DT component/NN in/IN a/DT supervised/JJ classification/NN system/NN ,/, and/CC fine/JJ -/HYPH tunes/NNS it/PRP for/IN the/DT task/NN ./.
+The/DT multilingual/JJ signals/NNS consistently/RB improve/VBP results/NNS on/IN two/CD preposition/NN -/HYPH sense/NN datasets/NNS ./.

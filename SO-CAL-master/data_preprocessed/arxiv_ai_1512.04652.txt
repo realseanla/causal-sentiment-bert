@@ -1,0 +1,18 @@
+Background/NN :/: Lung/NN cancer/NN was/VBD known/VBN as/IN primary/JJ cancers/NNS and/CC the/DT survival/NN rate/NN of/IN cancer/NN is/VBZ about/RB 15/CD percent/NN ./.
+Early/RB detection/NN of/IN lung/NN cancer/NN is/VBZ the/DT leading/JJ factor/NN in/IN survival/NN rate/NN ./.
+All/DT symptoms/NNS (/-LRB- features/NNS )/-RRB- of/IN lung/NN cancer/NN do/VBP not/RB appear/VB until/IN the/DT cancer/NN spreads/VBZ to/IN other/JJ areas/NNS ./.
+It/PRP needs/VBZ an/DT accurate/JJ early/JJ detection/NN of/IN lung/NN cancer/NN ,/, for/IN increasing/VBG the/DT survival/NN rate/NN ./.
+For/IN accurate/JJ detection/NN ,/, it/PRP need/MD characterizes/VBZ efficient/JJ features/NNS and/CC delete/VB redundancy/NN features/NNS among/IN all/DT features/NNS ./.
+Feature/NN selection/NN is/VBZ the/DT problem/NN of/IN selecting/VBG informative/JJ features/NNS among/IN all/DT features/NNS ./.
+Materials/NNS and/CC Methods/NNS :/: Lung/NN cancer/NN database/NN consist/VB of/IN 32/CD patient/NN records/NNS with/IN 57/CD features/NNS ./.
+This/DT database/NN collected/VBN by/IN Hong/NNP and/CC Youngand/NNP indexed/VBD in/IN the/DT University/NNP of/IN California/NNP Irvine/NNP repository/NN ./.
+Experimental/JJ contents/NNS include/VBP the/DT extracted/VBN from/IN the/DT clinical/JJ data/NNS and/CC X-ray/NN data/NNS ,/, etc/FW ./.
+The/DT data/NNS described/VBD 3/CD types/NNS of/IN pathological/JJ lung/NN cancers/NNS and/CC all/DT features/NNS are/VBP taking/VBG an/DT integer/NN value/NN 0/CD -/HYPH 3/CD ./.
+In/IN our/PRP$ study/NN ,/, new/JJ method/NN is/VBZ proposed/VBN for/IN identify/VBP efficient/JJ features/NNS of/IN lung/NN cancer/NN ./.
+It/PRP is/VBZ based/VBN on/IN Hyper/NNP -/HYPH Heuristic/NNP ./.
+Results/NNS :/: We/PRP obtained/VBD an/DT accuracy/NN of/IN 80.63/CD percent/NN using/VBG reduced/VBN 11/CD feature/NN set/NN ./.
+The/DT proposed/JJ method/NN compare/VBP to/IN the/DT accuracy/NN of/IN 5/CD machine/NN learning/NN feature/NN selections/NNS ./.
+The/DT accuracy/NN of/IN these/DT 5/CD methods/NNS are/VBP 60.94/CD ,/, 57.81/CD ,/, 68.75/CD ,/, 60.94/CD and/CC 68.75/CD ./.
+Conclusions/NNS :/: The/DT proposed/JJ method/NN has/VBZ better/JJR performance/NN with/IN the/DT highest/JJS level/NN of/IN accuracy/NN ./.
+Therefore/RB ,/, the/DT proposed/VBN model/NN is/VBZ recommended/VBN for/IN identifying/VBG an/DT efficient/JJ symptom/NN of/IN Disease/NNP ./.
+These/DT finding/NN are/VBP very/RB important/JJ in/IN health/NN research/NN ,/, particularly/RB in/IN allocation/NN of/IN medical/JJ resources/NNS for/IN patients/NNS who/WP predicted/VBD as/IN high/JJ -/HYPH risks/NNS

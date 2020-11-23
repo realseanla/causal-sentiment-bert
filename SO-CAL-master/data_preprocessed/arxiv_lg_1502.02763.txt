@@ -1,0 +1,8 @@
+The/DT cascade/NN model/NN is/VBZ a/DT well/RB -/HYPH established/VBN model/NN of/IN user/NN interaction/NN with/IN content/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP cascading/VBG bandits/NNS ,/, a/DT learning/NN variant/NN of/IN the/DT model/NN where/WRB the/DT objective/NN is/VBZ to/TO learn/VB $/$ K$/CD most/RBS attractive/JJ items/NNS out/IN of/IN $/$ L$/CD ground/NN items/NNS ./.
+We/PRP cast/VBD the/DT problem/NN as/IN a/DT stochastic/JJ combinatorial/JJ bandit/NN with/IN a/DT non-linear/JJ reward/NN function/NN and/CC partially/RB observed/VBN weights/NNS of/IN items/NNS ./.
+Both/DT of/IN these/DT are/VBP challenging/VBG in/IN the/DT context/NN of/IN combinatorial/JJ bandits/NNS ./.
+We/PRP propose/VBP two/CD computationally/RB -/HYPH efficient/JJ algorithms/NNS for/IN our/PRP$ problem/NN ,/, CascadeUCB1/NN and/CC CascadeKL/NN -/HYPH UCB/NN ,/, and/CC prove/VB gap/NN -/HYPH dependent/JJ upper/JJ bounds/NNS on/IN their/PRP$ regret/NN ./.
+We/PRP also/RB derive/VBP a/DT lower/JJR bound/VBN for/IN cascading/VBG bandits/NNS and/CC show/VBP that/IN it/PRP matches/VBZ the/DT upper/JJ bound/VBN of/IN CascadeKL/NN -/HYPH UCB/NN up/IN to/IN a/DT logarithmic/JJ factor/NN ./.
+Finally/RB ,/, we/PRP evaluate/VBP our/PRP$ algorithms/NNS on/IN synthetic/JJ problems/NNS ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN the/DT algorithms/NNS perform/VBP well/RB and/CC robustly/RB even/RB when/WRB our/PRP$ modeling/NN assumptions/NNS are/VBP violated/VBN ./.

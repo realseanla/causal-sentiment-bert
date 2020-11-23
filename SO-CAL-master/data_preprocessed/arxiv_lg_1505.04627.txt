@@ -1,0 +1,7 @@
+We/PRP consider/VBP a/DT stochastic/JJ bandit/NN problem/NN with/IN infinitely/RB many/JJ arms/NNS ./.
+In/IN this/DT setting/NN ,/, the/DT learner/NN has/VBZ no/DT chance/NN of/IN trying/VBG all/PDT the/DT arms/NNS even/RB once/RB and/CC has/VBZ to/TO dedicate/VB its/PRP$ limited/JJ number/NN of/IN samples/NNS only/RB to/IN a/DT certain/JJ number/NN of/IN arms/NNS ./.
+All/DT previous/JJ algorithms/NNS for/IN this/DT setting/NN were/VBD designed/VBN for/IN minimizing/VBG the/DT cumulative/JJ regret/NN of/IN the/DT learner/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT algorithm/NN aiming/VBG at/IN minimizing/VBG the/DT simple/JJ regret/NN ./.
+As/IN in/IN the/DT cumulative/JJ regret/NN setting/NN of/IN infinitely/RB many/JJ armed/JJ bandits/NNS ,/, the/DT rate/NN of/IN the/DT simple/JJ regret/NN will/MD depend/VB on/IN a/DT parameter/NN $/$ \/SYM beta/NN $/$ characterizing/VBG the/DT distribution/NN of/IN the/DT near/JJ -/HYPH optimal/JJ arms/NNS ./.
+We/PRP prove/VBP that/IN depending/VBG on/IN $/$ \/SYM beta/NN $/$ ,/, our/PRP$ algorithm/NN is/VBZ minimax/JJ optimal/JJ either/CC up/IN to/IN a/DT multiplicative/JJ constant/JJ or/CC up/RB to/IN a/DT $/$ \/SYM log/NN (/-LRB- n/NN )/-RRB- $/$ factor/NN ./.
+We/PRP also/RB provide/VBP extensions/NNS to/IN several/JJ important/JJ cases/NNS :/: when/WRB $/$ \/SYM beta/NN $/$ is/VBZ unknown/JJ ,/, in/IN a/DT natural/JJ setting/NN where/WRB the/DT near/JJ -/HYPH optimal/JJ arms/NNS have/VBP a/DT small/JJ variance/NN ,/, and/CC in/IN the/DT case/NN of/IN unknown/JJ time/NN horizon/NN ./.

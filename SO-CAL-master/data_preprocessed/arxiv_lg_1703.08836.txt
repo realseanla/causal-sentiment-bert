@@ -1,0 +1,5 @@
+Estimating/VBG a/DT depth/NN map/NN from/IN multiple/JJ views/NNS of/IN a/DT scene/NN is/VBZ a/DT fundamental/JJ task/NN in/IN computer/NN vision/NN ./.
+As/RB soon/RB as/IN more/JJR than/IN two/CD viewpoints/NNS are/VBP available/JJ ,/, one/CD faces/VBZ the/DT very/RB basic/JJ question/NN how/WRB to/TO measure/VB similarity/NN across/IN &gt;/SYM 2/CD image/NN patches/NNS ./.
+Surprisingly/RB ,/, no/DT direct/JJ solution/NN exists/VBZ ,/, instead/RB it/PRP is/VBZ common/JJ to/TO fall/VB back/RB to/IN more/RBR or/CC less/RBR robust/JJ averaging/NN of/IN two/CD -/HYPH view/NN similarities/NNS ./.
+Encouraged/VBN by/IN the/DT success/NN of/IN machine/NN learning/NN ,/, and/CC in/IN particular/JJ convolutional/JJ neural/JJ networks/NNS ,/, we/PRP propose/VBP to/TO learn/VB a/DT matching/NN function/NN which/WDT directly/RB maps/VBZ multiple/JJ image/NN patches/NNS to/IN a/DT scalar/JJ similarity/NN score/NN ./.
+Experiments/NNS on/IN several/JJ multi-view/JJ datasets/NNS demonstrate/VBP that/IN this/DT approach/NN has/VBZ advantages/NNS over/IN methods/NNS based/VBN on/IN pairwise/JJ patch/NN similarity/NN ./.

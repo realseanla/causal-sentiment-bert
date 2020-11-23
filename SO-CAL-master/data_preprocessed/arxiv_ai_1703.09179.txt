@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT transfer/NN learning/NN approach/NN for/IN music/NN classification/NN and/CC regression/NN tasks/NNS ./.
+We/PRP propose/VBP to/TO use/VB a/DT pretrained/JJ convnet/NN feature/NN ,/, a/DT concatenated/JJ feature/NN vector/NN using/VBG activations/NNS of/IN feature/NN maps/NNS of/IN multiple/JJ layers/NNS in/IN a/DT trained/VBN convolutional/JJ network/NN ./.
+We/PRP show/VBP that/IN how/WRB this/DT convnet/NN feature/NN can/MD serve/VB as/IN a/DT general/JJ -/HYPH purpose/NN music/NN representation/NN ./.
+In/IN the/DT experiment/NN ,/, a/DT convnet/NN is/VBZ trained/VBN for/IN music/NN tagging/NN and/CC then/RB transferred/VBN for/IN many/JJ music/NN -/HYPH related/VBN classification/NN and/CC regression/NN tasks/NNS as/RB well/RB as/IN an/DT audio/JJ -/HYPH related/JJ classification/NN task/NN ./.
+In/IN experiments/NNS ,/, the/DT convnet/NN feature/NN outperforms/VBZ the/DT baseline/NN MFCC/NN feature/NN in/IN all/DT tasks/NNS and/CC many/JJ reported/VBD approaches/NNS of/IN aggregating/VBG MFCCs/NNS and/CC low/JJ -/HYPH and/CC high/JJ -/HYPH level/NN music/NN features/NNS ./.

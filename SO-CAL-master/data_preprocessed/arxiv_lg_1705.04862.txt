@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT novel/JJ framework/NN for/IN efficient/JJ parallelization/NN of/IN deep/JJ reinforcement/NN learning/VBG algorithms/NNS ,/, enabling/VBG these/DT algorithms/NNS to/TO learn/VB from/IN multiple/JJ actors/NNS on/IN a/DT single/JJ machine/NN ./.
+The/DT framework/NN is/VBZ algorithm/NN agnostic/JJ and/CC can/MD be/VB applied/VBN to/IN on/IN -/HYPH policy/NN ,/, off/IN -/HYPH policy/NN ,/, value/NN based/VBN and/CC policy/NN gradient/NN based/VBN algorithms/NNS ./.
+Given/VBN its/PRP$ inherent/JJ parallelism/NN ,/, the/DT framework/NN can/MD be/VB efficiently/RB implemented/VBN on/IN a/DT GPU/NNP ,/, allowing/VBG the/DT usage/NN of/IN powerful/JJ models/NNS while/IN significantly/RB reducing/VBG training/NN time/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ framework/NN by/IN implementing/VBG an/DT advantage/NN actor/NN -/HYPH critic/NN algorithm/NN on/IN a/DT GPU/NNP ,/, using/VBG on/IN -/HYPH policy/NN experiences/NNS and/CC employing/VBG synchronous/JJ updates/NNS ./.
+Our/PRP$ algorithm/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN the/DT Atari/NNP domain/NN after/IN only/RB a/DT few/JJ hours/NNS of/IN training/NN ./.
+Our/PRP$ framework/NN thus/RB opens/VBZ the/DT door/NN for/IN much/JJ faster/JJR experimentation/NN on/IN demanding/VBG problem/NN domains/NNS ./.
+Our/PRP$ implementation/NN is/VBZ open/JJ -/HYPH source/NN and/CC is/VBZ made/VBN public/JJ at/IN

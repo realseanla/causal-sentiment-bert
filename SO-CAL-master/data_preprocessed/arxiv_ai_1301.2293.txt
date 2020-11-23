@@ -1,0 +1,8 @@
+We/PRP consider/VBP the/DT task/NN of/IN aggregating/VBG beliefs/NNS of/IN severalexperts/NNS ./.
+We/PRP assume/VBP that/IN these/DT beliefs/NNS are/VBP represented/VBN as/IN probabilitydistributions/NNS ./.
+We/PRP argue/VBP that/IN the/DT evaluation/NN of/IN any/DT aggregationtechnique/JJ depends/VBZ on/IN the/DT semantic/JJ context/NN of/IN this/DT task/NN ./.
+We/PRP propose/VBP aframework/RB ,/, in/IN which/WDT we/PRP assume/VBP that/IN nature/NN generates/VBZ samples/NNS from/IN a/DT `/`` true/JJ '/'' distribution/NN and/CC different/JJ experts/NNS form/VBP their/PRP$ beliefs/NNS based/VBN onthe/RB subsets/NNS of/IN the/DT data/NNS they/PRP have/VBP a/DT chance/NN to/TO observe/VB ./.
+Naturally/RB ,/, theideal/JJ aggregate/JJ distribution/NN would/MD be/VB the/DT one/CD learned/VBN from/IN thecombined/VBN sample/NN sets/NNS ./.
+Such/PDT a/DT formulation/NN leads/VBZ to/IN a/DT natural/JJ way/NN tomeasure/VB the/DT accuracy/NN of/IN the/DT aggregation/NN mechanism.We/NN show/VBP that/IN the/DT well/NN -/HYPH known/VBN aggregation/NN operator/NN LinOP/NN is/VBZ ideallysuited/VBN for/IN that/DT task/NN ./.
+We/PRP propose/VBP a/DT LinOP/NN -/HYPH based/VBN learning/NN algorithm/NN ,/, inspired/VBN by/IN the/DT techniques/NNS developed/VBN for/IN Bayesian/JJ learning/NN ,/, whichaggregates/VBZ the/DT experts/NNS '/POS distributions/NNS represented/VBD as/IN Bayesiannetworks/NNP ./.
+Our/PRP$ preliminary/JJ experiments/NNS show/VBP that/IN this/DT algorithmperforms/NNS well/RB in/IN practice/NN ./.

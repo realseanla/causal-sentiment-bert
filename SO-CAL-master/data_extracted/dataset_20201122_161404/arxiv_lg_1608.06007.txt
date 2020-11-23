@@ -1,0 +1,6 @@
+We present a novel distributed probabilistic bisection algorithm using social learning with application to target localization.
+Each agent in the network first constructs a query about the target based on its local information and obtains a noisy response.
+Agents then perform a Bayesian update of their beliefs followed by a local averaging of the log beliefs.
+This two stage algorithm consisting of repeated querying and averaging runs until convergence.
+We derive bounds on the rate of convergence of the beliefs at the correct target location.
+Numerical simulations show that our method outperforms current state of the art methods.

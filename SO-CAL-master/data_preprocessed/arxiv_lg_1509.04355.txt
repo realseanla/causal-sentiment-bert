@@ -1,0 +1,8 @@
+In/IN this/DT work/NN ,/, we/PRP study/VBP distance/NN metric/JJ learning/NN (/-LRB- DML/NN )/-RRB- for/IN high/JJ dimensional/JJ data/NNS ./.
+A/DT typical/JJ approach/NN for/IN DML/NNP with/IN high/JJ dimensional/JJ data/NNS is/VBZ to/TO perform/VB the/DT dimensionality/NN reduction/NN first/RB before/IN learning/VBG the/DT distance/NN metric/JJ ./.
+The/DT main/JJ shortcoming/NN of/IN this/DT approach/NN is/VBZ that/IN it/PRP may/MD result/VB in/IN a/DT suboptimal/JJ solution/NN due/IN to/IN the/DT subspace/NN removed/VBN by/IN the/DT dimensionality/NN reduction/NN method/NN ./.
+In/IN this/DT work/NN ,/, we/PRP present/VBP a/DT dual/JJ random/JJ projection/NN frame/NN for/IN DML/NNP with/IN high/JJ dimensional/JJ data/NNS that/WDT explicitly/RB addresses/VBZ the/DT limitation/NN of/IN dimensionality/NN reduction/NN for/IN DML/NNP ./.
+The/DT key/JJ idea/NN is/VBZ to/TO first/RB project/VB all/PDT the/DT data/NNS points/VBZ into/IN a/DT low/JJ dimensional/JJ space/NN by/IN random/JJ projection/NN ,/, and/CC compute/VB the/DT dual/JJ variables/NNS using/VBG the/DT projected/VBN vectors/NNS ./.
+It/PRP then/RB reconstructs/VBZ the/DT distance/NN metric/JJ in/IN the/DT original/JJ space/NN using/VBG the/DT estimated/VBN dual/JJ variables/NNS ./.
+The/DT proposed/JJ method/NN ,/, on/IN one/CD hand/NN ,/, enjoys/VBZ the/DT light/NN computation/NN of/IN random/JJ projection/NN ,/, and/CC on/IN the/DT other/JJ hand/NN ,/, alleviates/VBZ the/DT limitation/NN of/IN most/JJS dimensionality/NN reduction/NN methods/NNS ./.
+We/PRP verify/VBP both/DT empirically/RB and/CC theoretically/RB the/DT effectiveness/NN of/IN the/DT proposed/VBN algorithm/NN for/IN high/JJ dimensional/JJ DML/NN ./.

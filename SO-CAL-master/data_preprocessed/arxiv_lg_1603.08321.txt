@@ -1,0 +1,8 @@
+This/DT paper/NN focuses/VBZ on/IN two/CD key/JJ problems/NNS for/IN audio/JJ -/HYPH visual/JJ emotion/NN recognition/NN in/IN the/DT video/NN ./.
+One/CD is/VBZ the/DT audio/NN and/CC visual/JJ streams/NNS temporal/JJ alignment/NN for/IN feature/NN level/NN fusion/NN ./.
+The/DT other/JJ one/NN is/VBZ locating/VBG and/CC re-weighting/VBG the/DT perception/NN attentions/NNS in/IN the/DT whole/JJ audio/NN -/HYPH visual/JJ stream/NN for/IN better/JJR recognition/NN ./.
+The/DT Long/JJ Short/JJ Term/NN Memory/NN Recurrent/JJ Neural/JJ Network/NN (/-LRB- LSTM/NN -/HYPH RNN/NN )/-RRB- is/VBZ employed/VBN as/IN the/DT main/JJ classification/NN architecture/NN ./.
+Firstly/RB ,/, soft/JJ attention/NN mechanism/NN aligns/VBZ the/DT audio/NN and/CC visual/JJ streams/NNS ./.
+Secondly/RB ,/, seven/CD emotion/NN embedding/NN vectors/NNS ,/, which/WDT are/VBP corresponding/VBG to/IN each/DT classification/NN emotion/NN type/NN ,/, are/VBP added/VBN to/TO locate/VB the/DT perception/NN attentions/NNS ./.
+The/DT locating/VBG and/CC re-weighting/VBG process/NN is/VBZ also/RB based/VBN on/IN the/DT soft/JJ attention/NN mechanism/NN ./.
+The/DT experiment/NN results/VBZ on/IN EmotiW2015/NN dataset/NN and/CC the/DT qualitative/JJ analysis/NN show/VBP the/DT efficiency/NN of/IN the/DT proposed/VBN two/CD techniques/NNS ./.

@@ -1,0 +1,4 @@
+We/PRP propose/VBP several/JJ simple/JJ approaches/NNS to/IN training/NN deep/JJ neural/JJ networks/NNS on/IN data/NNS with/IN noisy/JJ labels/NNS ./.
+We/PRP introduce/VBP an/DT extra/JJ noise/NN layer/NN into/IN the/DT network/NN which/WDT adapts/VBZ the/DT network/NN outputs/NNS to/TO match/VB the/DT noisy/JJ label/NN distribution/NN ./.
+The/DT parameters/NNS of/IN this/DT noise/NN layer/NN can/MD be/VB estimated/VBN as/IN part/NN of/IN the/DT training/NN process/NN and/CC involve/VBP simple/JJ modifications/NNS to/IN current/JJ training/NN infrastructures/NNS for/IN deep/JJ networks/NNS ./.
+We/PRP demonstrate/VBP the/DT approaches/NNS on/IN several/JJ datasets/NNS ,/, including/VBG large/JJ scale/NN experiments/NNS on/IN the/DT ImageNet/NNP classification/NN benchmark/NN ,/, showing/VBG how/WRB additional/JJ noisy/JJ data/NNS can/MD improve/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN recognition/NN models/NNS ./.

@@ -1,0 +1,6 @@
+So/RB far/RB different/JJ studies/NNS have/VBP tackled/VBN the/DT sentiment/NN analysis/NN in/IN several/JJ domains/NNS such/JJ as/IN restaurant/NN and/CC movie/NN reviews/NNS ./.
+But/CC ,/, this/DT problem/NN has/VBZ not/RB been/VBN studied/VBN in/IN scholarly/JJ book/NN reviews/NNS which/WDT is/VBZ different/JJ in/IN terms/NNS of/IN review/NN style/NN and/CC size/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO combine/VB different/JJ features/NNS in/IN order/NN to/TO be/VB presented/VBN to/IN a/DT supervised/JJ classifiers/NNS which/WDT extract/VBP the/DT opinion/NN target/NN expressions/NNS and/CC detect/VB their/PRP$ polarities/NNS in/IN scholarly/JJ book/NN reviews/NNS ./.
+We/PRP construct/VBP a/DT labeled/VBN corpus/NN for/IN training/NN and/CC evaluating/VBG our/PRP$ methods/NNS in/IN French/JJ book/NN reviews/NNS ./.
+We/PRP also/RB evaluate/VB them/PRP on/IN English/NNP restaurant/NN reviews/NNS in/IN order/NN to/TO measure/VB their/PRP$ robustness/NN across/IN the/DT domains/NNS and/CC languages/NNS ./.
+The/DT evaluation/NN shows/VBZ that/IN our/PRP$ methods/NNS are/VBP enough/JJ robust/JJ for/IN English/NNP restaurant/NN reviews/NNS and/CC French/JJ book/NN reviews/NNS ./.

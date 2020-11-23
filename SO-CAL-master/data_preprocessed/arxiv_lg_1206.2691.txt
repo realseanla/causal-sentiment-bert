@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT new/JJ algorithm/NN IDS/NNP for/IN incremental/JJ learning/NN of/IN deterministic/JJ finite/JJ automata/NN (/-LRB- DFA/NN )/-RRB- ./.
+This/DT algorithm/NN is/VBZ based/VBN on/IN the/DT concept/NN of/IN distinguishing/VBG sequences/NNS introduced/VBN in/IN (/-LRB- Angluin81/NN )/-RRB- ./.
+We/PRP give/VBP a/DT rigorous/JJ proof/NN that/IN two/CD versions/NNS of/IN this/DT learning/NN algorithm/NN correctly/RB learn/VB in/IN the/DT limit/NN ./.
+Finally/RB we/PRP present/VBP an/DT empirical/JJ performance/NN analysis/NN that/WDT compares/VBZ these/DT two/CD algorithms/NNS ,/, focussing/VBG on/IN learning/VBG times/NNS and/CC different/JJ types/NNS of/IN learning/VBG queries/NNS ./.
+We/PRP conclude/VBP that/IN IDS/NNP is/VBZ an/DT efficient/JJ algorithm/NN for/IN software/NN engineering/NN applications/NNS of/IN automata/NN learning/NN ,/, such/JJ as/IN testing/NN and/CC model/NN inference/NN ./.

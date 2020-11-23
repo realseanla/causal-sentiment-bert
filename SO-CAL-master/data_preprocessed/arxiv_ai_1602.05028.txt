@@ -1,0 +1,8 @@
+It/PRP was/VBD shown/VBN before/IN that/IN the/DT NP/NNP -/HYPH hard/JJ problem/NN of/IN deterministic/JJ finite/JJ automata/NN (/-LRB- DFA/NN )/-RRB- identification/NN can/MD be/VB effectively/RB translated/VBN to/IN Boolean/NNP satisfiability/NN (/-LRB- SAT/NN )/-RRB- ./.
+Modern/JJ SAT/NN -/HYPH solvers/NNS can/MD tackle/VB hard/JJ DFA/NN identification/NN instances/NNS efficiently/RB ./.
+We/PRP present/VBP a/DT technique/NN to/TO reduce/VB the/DT problem/NN search/NN space/NN by/IN enforcing/VBG an/DT enumeration/NN of/IN DFA/NNP states/VBZ in/IN depth/NN -/HYPH first/JJ search/NN (/-LRB- DFS/NN )/-RRB- or/CC breadth/NN -/HYPH first/JJ search/NN (/-LRB- BFS/NN )/-RRB- order/NN ./.
+We/PRP propose/VBP symmetry/NN breaking/VBG predicates/NNS ,/, which/WDT can/MD be/VB added/VBN to/IN Boolean/JJ formulae/NNS representing/VBG various/JJ DFA/NNP identification/NN problems/NNS ./.
+We/PRP show/VBP how/WRB to/TO apply/VB this/DT technique/NN to/IN DFA/NNP identification/NN from/IN both/DT noiseless/JJ and/CC noisy/JJ data/NNS ./.
+Also/RB we/PRP propose/VBP a/DT method/NN to/TO identify/VB all/DT automata/NN of/IN the/DT desired/VBN size/NN ./.
+The/DT proposed/VBN approach/NN outperforms/VBZ the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN DFASAT/NN method/NN for/IN DFA/NNP identification/NN from/IN noiseless/JJ data/NNS ./.
+A/DT big/JJ advantage/NN of/IN the/DT proposed/VBN approach/NN is/VBZ that/IN it/PRP allows/VBZ to/TO determine/VB exactly/RB the/DT existence/NN or/CC non-existence/NN of/IN a/DT solution/NN of/IN the/DT noisy/JJ DFA/NN identification/NN problem/NN unlike/IN metaheuristic/JJ approaches/NNS such/JJ as/IN genetic/JJ algorithms/NNS ./.

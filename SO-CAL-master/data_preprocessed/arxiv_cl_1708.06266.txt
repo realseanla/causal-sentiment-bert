@@ -1,0 +1,6 @@
+Word/NNP embeddings/NNS have/VBP been/VBN found/VBN to/TO capture/VB a/DT surprisingly/RB rich/JJ amount/NN of/IN syntactic/JJ and/CC semantic/JJ knowledge/NN ./.
+However/RB ,/, it/PRP is/VBZ not/RB yet/RB sufficiently/RB well/RB -/HYPH understood/VBN how/WRB the/DT relational/JJ knowledge/NN that/WDT is/VBZ implicitly/RB encoded/VBN in/IN word/NN embeddings/NNS can/MD be/VB extracted/VBN in/IN a/DT reliable/JJ way/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP two/CD probabilistic/JJ models/NNS to/TO address/VB this/DT issue/NN ./.
+The/DT first/JJ model/NN is/VBZ based/VBN on/IN the/DT common/JJ relations/NNS -/: as/IN -/HYPH translations/NNS view/NN ,/, but/CC is/VBZ cast/VBN in/IN a/DT probabilistic/JJ setting/NN ./.
+Our/PRP$ second/JJ model/NN is/VBZ based/VBN on/IN the/DT much/JJ weaker/JJR assumption/NN that/IN there/EX is/VBZ a/DT linear/JJ relationship/NN between/IN the/DT vector/NN representations/NNS of/IN related/JJ words/NNS ./.
+Compared/VBN to/IN existing/VBG approaches/NNS ,/, our/PRP$ models/NNS lead/VBP to/IN more/RBR accurate/JJ predictions/NNS ,/, and/CC they/PRP are/VBP more/RBR explicit/JJ about/IN what/WP can/MD and/CC can/MD not/RB be/VB extracted/VBN from/IN the/DT word/NN embedding/NN ./.

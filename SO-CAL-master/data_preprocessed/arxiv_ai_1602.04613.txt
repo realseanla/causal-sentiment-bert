@@ -1,0 +1,7 @@
+Data/NNS Warehouses/NNS are/VBP structures/NNS with/IN large/JJ amount/NN of/IN data/NNS collected/VBN from/IN heterogeneous/JJ sources/NNS to/TO be/VB used/VBN in/IN a/DT decision/NN support/NN system/NN ./.
+Data/NNS Warehouses/NNS analysis/NN identifies/VBZ hidden/JJ patterns/NNS initially/RB unexpected/JJ which/WDT analysis/NN requires/VBZ great/JJ memory/NN and/CC computation/NN cost/NN ./.
+Data/NNS reduction/NN methods/NNS were/VBD proposed/VBN to/TO make/VB this/DT analysis/NN easier/JJR ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT hybrid/NN approach/NN based/VBN on/IN Genetic/JJ Algorithms/NNS (/-LRB- GA/NN )/-RRB- as/IN Evolutionary/NNP Algorithms/NNPS and/CC the/DT Multiple/JJ Correspondence/NN Analysis/NN (/-LRB- MCA/NNP )/-RRB- as/IN Analysis/NN Factor/NN Methods/NNS to/TO conduct/VB this/DT reduction/NN ./.
+Our/PRP$ approach/NN identifies/VBZ reduced/VBN subset/NN of/IN dimensions/NNS from/IN the/DT initial/JJ subset/NN p/NN where/WRB p/NN '/'' &lt;/-LRB- p/NN where/WRB it/PRP is/VBZ proposed/VBN to/TO find/VB the/DT profile/NN fact/NN that/WDT is/VBZ the/DT closest/JJS to/TO reference/VB ./.
+GAs/NNS identify/VBP the/DT possible/JJ subsets/NNS and/CC the/DT Khi/NNP formula/NN of/IN the/DT ACM/NNP evaluates/VBZ the/DT quality/NN of/IN each/DT subset/NN ./.
+The/DT study/NN is/VBZ based/VBN on/IN a/DT distance/NN measurement/NN between/IN the/DT reference/NN and/CC n/NN facts/NNS profile/VBP extracted/VBN from/IN the/DT Warehouses/NNS ./.

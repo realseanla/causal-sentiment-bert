@@ -1,0 +1,10 @@
+Authorship/NN attribution/NN refers/VBZ to/IN the/DT task/NN of/IN automatically/RB determining/VBG the/DT author/NN based/VBN on/IN a/DT given/VBN sample/NN of/IN text/NN ./.
+It/PRP is/VBZ a/DT problem/NN with/IN a/DT long/JJ history/NN and/CC has/VBZ a/DT wide/JJ range/NN of/IN application/NN ./.
+Building/NNP author/NN profiles/NNS using/VBG language/NN models/NNS is/VBZ one/CD of/IN the/DT most/RBS successful/JJ methods/NNS to/TO automate/VB this/DT task/NN ./.
+New/JJ language/NN modeling/NN methods/NNS based/VBN on/IN neural/JJ networks/NNS alleviate/VBP the/DT curse/NN of/IN dimensionality/NN and/CC usually/RB outperform/VBP conventional/JJ N/NN -/HYPH gram/NN methods/NNS ./.
+However/RB ,/, there/EX have/VBP not/RB been/VBN much/JJ research/NN applying/VBG them/PRP to/IN authorship/NN attribution/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ setup/NN of/IN a/DT Neural/JJ Network/NNP Language/NNP Model/NNP (/-LRB- NNLM/NNP )/-RRB- and/CC apply/VB it/PRP to/IN a/DT database/NN of/IN text/NN samples/NNS from/IN different/JJ authors/NNS ./.
+We/PRP investigate/VBP how/WRB the/DT NNLM/NNP performs/VBZ on/IN a/DT task/NN with/IN moderate/JJ author/NN set/VBN size/NN and/CC relatively/RB limited/JJ training/NN and/CC test/NN data/NNS ,/, and/CC how/WRB the/DT topics/NNS of/IN the/DT text/NN samples/NNS affect/VBP the/DT accuracy/NN ./.
+NNLM/NNP achieves/VBZ nearly/RB 2.5/CD percent/NN reduction/NN in/IN perplexity/NN ,/, a/DT measurement/NN of/IN fitness/NN of/IN a/DT trained/VBN language/NN model/NN to/IN the/DT test/NN data/NNS ./.
+Given/VBN 5/CD random/JJ test/NN sentences/NNS ,/, it/PRP also/RB increases/VBZ the/DT author/NN classification/NN accuracy/NN by/IN 3.43/CD percent/NN on/IN average/JJ ,/, compared/VBN with/IN the/DT N/NN -/HYPH gram/NN methods/NNS using/VBG SRILM/NN tools/NNS ./.
+An/DT open/JJ source/NN implementation/NN of/IN our/PRP$ methodology/NN is/VBZ freely/RB available/JJ at/IN

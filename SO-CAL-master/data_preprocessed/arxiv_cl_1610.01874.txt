@@ -1,0 +1,5 @@
+Word/NNP embeddings/NNS have/VBP been/VBN demonstrated/VBN to/IN benefit/NN NLP/NN tasks/NNS impressively/RB ./.
+Yet/RB ,/, there/EX is/VBZ room/NN for/IN improvement/NN in/IN the/DT vector/NN representations/NNS ,/, because/IN current/JJ word/NN embeddings/NNS typically/RB contain/VBP unnecessary/JJ information/NN ,/, i.e./FW ,/, noise/NN ./.
+We/PRP propose/VBP two/CD novel/JJ models/NNS to/TO improve/VB word/NN embeddings/NNS by/IN unsupervised/JJ learning/NN ,/, in/IN order/NN to/TO yield/VB word/NN denoising/NN embeddings/NNS ./.
+The/DT word/NN denoising/NN embeddings/NNS are/VBP obtained/VBN by/IN strengthening/VBG salient/JJ information/NN and/CC weakening/NN noise/NN in/IN the/DT original/JJ word/NN embeddings/NNS ,/, based/VBN on/IN a/DT deep/JJ feed/NN -/HYPH forward/JJ neural/JJ network/NN filter/NN ./.
+Results/NNS from/IN benchmark/NN tasks/NNS show/VBP that/IN the/DT filtered/VBN word/NN denoising/NN embeddings/NNS outperform/VBP the/DT original/JJ word/NN embeddings/NNS ./.

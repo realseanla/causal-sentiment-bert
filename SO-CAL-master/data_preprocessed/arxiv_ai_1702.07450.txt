@@ -1,0 +1,4 @@
+As/IN artificial/JJ agents/NNS proliferate/VBP ,/, it/PRP is/VBZ becoming/VBG increasingly/RB important/JJ to/TO ensure/VB that/IN their/PRP$ interactions/NNS with/IN one/CD another/DT are/VBP well/RB -/HYPH behaved/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP formalize/VBP a/DT common/JJ -/HYPH sense/NN notion/NN of/IN when/WRB algorithms/NNS are/VBP well/RB -/HYPH behaved/VBN :/: an/DT algorithm/NN is/VBZ safe/JJ if/IN it/PRP does/VBZ no/DT harm/NN ./.
+Motivated/VBN by/IN recent/JJ progress/NN in/IN deep/JJ learning/NN ,/, we/PRP focus/VBP on/IN the/DT specific/JJ case/NN where/WRB agents/NNS update/VBP their/PRP$ actions/NNS according/VBG to/IN gradient/NN descent/NN ./.
+The/DT first/JJ result/NN is/VBZ that/IN gradient/NN descent/NN converges/VBZ to/IN a/DT Nash/NNP equilibrium/NN in/IN safe/JJ games/NNS ./.

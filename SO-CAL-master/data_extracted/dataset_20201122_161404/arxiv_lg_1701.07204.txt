@@ -1,0 +1,4 @@
+The $k$-Means clustering problem on $n$ points is NP-Hard for any dimension $d\ge 2$, however, for the 1D case there exist exact polynomial time algorithms.
+The current state of the art is a $O(kn^2)$ dynamic programming algorithm that uses $O(nk)$ space.
+We present a new algorithm improving this to $O(kn \log n)$ time and optimal $O(n)$ space.
+We generalize our algorithm to work for the absolute distance instead of squared distance and to work for any Bregman Divergence as well.

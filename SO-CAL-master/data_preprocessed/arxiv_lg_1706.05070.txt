@@ -1,0 +1,4 @@
+Let/VB $/$ F$/CD be/VB a/DT set/NN of/IN boolean/JJ functions/NNS ./.
+We/PRP present/VBP an/DT algorithm/NN for/IN learning/VBG $/$ F/NNP _/NFP \/SYM vee/NN :/: =/SYM \/SYM {/-LRB- \/SYM vee/NN _/NFP {/-LRB- f/NN \/SYM in/IN S/NN }/-RRB- f/NN \/SYM mid/JJ S/NN \/SYM subseteq/NN F/NN \/SYM }/-RRB- $/$ from/IN membership/NN queries/NNS ./.
+Our/PRP$ algorithm/NN asks/VBZ at/IN most/RBS $/$ |/NFP F/NNP |/NFP \/SYM cdot/NN OPT/NN (/-LRB- F/NN _/NFP \/SYM vee/NN )/-RRB- $/$ membership/NN queries/NNS where/WRB $/$ OPT/CD (/-LRB- F/NN _/NFP \/SYM vee/NN )/-RRB- $/$ is/VBZ the/DT minimum/JJ worst/JJS case/NN number/NN of/IN membership/NN queries/NNS for/IN learning/VBG $/$ F/NNP _/NFP \/SYM vee/FW $/$ ./.
+When/WRB $/$ F$/CD is/VBZ a/DT set/NN of/IN halfspaces/NNS over/IN a/DT constant/JJ dimension/NN space/NN or/CC a/DT set/NN of/IN variable/JJ inequalities/NNS ,/, our/PRP$ algorithm/NN runs/VBZ in/IN polynomial/JJ time/NN ./.

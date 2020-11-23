@@ -1,0 +1,8 @@
+Previous/JJ researches/NNS have/VBP shown/VBN that/IN learning/VBG multiple/JJ representations/NNS for/IN polysemous/JJ words/NNS can/MD improve/VB the/DT performance/NN of/IN word/NN embeddings/NNS on/IN many/JJ tasks/NNS ./.
+However/RB ,/, this/DT leads/VBZ to/IN another/DT problem/NN ./.
+Several/JJ vectors/NNS of/IN a/DT word/NN may/MD actually/RB point/VB to/IN the/DT same/JJ meaning/NN ,/, namely/RB pseudo/JJ multi-sense/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP the/DT concept/NN of/IN pseudo/JJ multi-sense/NN ,/, and/CC then/RB propose/VB an/DT algorithm/NN to/TO detect/VB such/JJ cases/NNS ./.
+With/IN the/DT consideration/NN of/IN the/DT detected/VBN pseudo/JJ multi-sense/NN cases/NNS ,/, we/PRP try/VBP to/TO refine/VB the/DT existing/VBG word/NN embeddings/NNS to/TO eliminate/VB the/DT influence/NN of/IN pseudo/JJ multi-sense/NN ./.
+Moreover/RB ,/, we/PRP apply/VBP our/PRP$ algorithm/NN on/IN previous/JJ released/VBN multi-sense/JJ word/NN embeddings/NNS and/CC tested/VBD it/PRP on/IN artificial/JJ word/NN similarity/NN tasks/NNS and/CC the/DT analogy/NN task/NN ./.
+The/DT result/NN of/IN the/DT experiments/NNS shows/VBZ that/IN diminishing/VBG pseudo/JJ multi-sense/NN can/MD improve/VB the/DT quality/NN of/IN word/NN representations/NNS ./.
+Thus/RB ,/, our/PRP$ method/NN is/VBZ actually/RB an/DT efficient/JJ way/NN to/TO reduce/VB linguistic/JJ complexity/NN ./.

@@ -1,0 +1,5 @@
+Teaching/NN dimension/NN is/VBZ a/DT learning/NN theoretic/JJ quantity/NN that/WDT specifies/VBZ the/DT minimum/JJ training/NN set/VBN size/NN to/TO teach/VB a/DT target/NN model/NN to/IN a/DT learner/NN ./.
+Previous/JJ studies/NNS on/IN teaching/VBG dimension/NN focused/VBD on/IN version/NN -/HYPH space/NN learners/NNS which/WDT maintain/VBP all/DT hypotheses/NNS consistent/JJ with/IN the/DT training/NN data/NNS ,/, and/CC can/MD not/RB be/VB applied/VBN to/IN modern/JJ machine/NN learners/NNS which/WDT select/VBP a/DT specific/JJ hypothesis/NN via/IN optimization/NN ./.
+This/DT paper/NN presents/VBZ the/DT first/JJ known/JJ teaching/NN dimension/NN for/IN ridge/NN regression/NN ,/, support/NN vector/NN machines/NNS ,/, and/CC logistic/JJ regression/NN ./.
+We/PRP also/RB exhibit/VBP optimal/JJ training/NN sets/NNS that/WDT match/VBP these/DT teaching/NN dimensions/NNS ./.
+Our/PRP$ approach/NN generalizes/VBZ to/IN other/JJ linear/JJ learners/NNS ./.

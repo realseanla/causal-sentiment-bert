@@ -1,0 +1,6 @@
+Features/NNS based/VBN on/IN sparse/JJ representation/NN ,/, especially/RB using/VBG synthesis/NN dictionary/NN model/NN ,/, have/VBP been/VBN heavily/RB exploited/VBN in/IN signal/NN processing/NN and/CC computer/NN vision/NN ./.
+However/RB ,/, synthesis/NN dictionary/NN learning/NN involves/VBZ NP/NNP -/HYPH hard/JJ sparse/JJ coding/NN and/CC expensive/JJ learning/NN steps/NNS ./.
+Recently/RB ,/, sparsifying/VBG transform/VB learning/NN received/VBN interest/NN for/IN its/PRP$ cheap/JJ computation/NN and/CC closed/JJ -/HYPH form/NN solution/NN ./.
+In/IN this/DT work/NN ,/, we/PRP develop/VBP a/DT methodology/NN for/IN learning/NN of/IN Flipping/VBG and/CC Rotation/NNP Invariant/NNP Sparsifying/NNP Transform/VB ,/, dubbed/VBN FRIST/NNP ,/, to/TO better/RBR represent/VB natural/JJ images/NNS that/WDT contain/VBP textures/NNS with/IN various/JJ geometrical/JJ directions/NNS ./.
+The/DT proposed/VBN alternating/VBG learning/NN algorithm/NN involves/VBZ simple/JJ closed/JJ -/HYPH form/NN solutions/NNS ./.
+Preliminary/JJ experiments/NNS show/VBP the/DT usefulness/NN of/IN adaptive/JJ sparse/JJ representation/NN by/IN FRIST/NNP for/IN image/NN compression/NN ,/, denoising/NN and/CC inpainting/VBG with/IN promising/JJ performances/NNS ./.

@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP a/DT statistical/JJ parametric/JJ speech/NN synthesis/NN approach/NN with/IN unit/NN -/HYPH level/NN acoustic/JJ representation/NN ./.
+In/IN conventional/JJ deep/JJ neural/JJ network/NN based/VBN speech/NN synthesis/NN ,/, the/DT input/NN text/NN features/NNS are/VBP repeated/VBN for/IN the/DT entire/JJ duration/NN of/IN phoneme/NN for/IN mapping/VBG text/NN and/CC speech/NN parameters/NNS ./.
+This/DT mapping/NN is/VBZ learnt/VBN at/IN the/DT frame/NN -/HYPH level/NN which/WDT is/VBZ the/DT de-facto/JJ acoustic/JJ representation/NN ./.
+However/RB much/RB of/IN this/DT computational/JJ requirement/NN can/MD be/VB drastically/RB reduced/VBN if/IN every/DT unit/NN can/MD be/VB represented/VBN with/IN a/DT fixed/VBN -/HYPH dimensional/JJ representation/NN ./.
+Using/VBG recurrent/JJ neural/JJ network/NN based/VBN auto/NN -/HYPH encoder/NN ,/, we/PRP show/VBP that/IN it/PRP is/VBZ indeed/RB possible/JJ to/TO map/VB units/NNS of/IN varying/VBG duration/NN to/IN a/DT single/JJ vector/NN ./.
+We/PRP then/RB use/VB this/DT acoustic/JJ representation/NN at/IN unit/NN -/HYPH level/NN to/IN synthesize/VB speech/NN using/VBG deep/JJ neural/JJ network/NN based/VBN statistical/JJ parametric/JJ speech/NN synthesis/NN technique/NN ./.
+Results/NNS show/VBP that/IN the/DT proposed/VBN approach/NN is/VBZ able/JJ to/TO synthesize/VB at/IN the/DT same/JJ quality/NN as/IN the/DT conventional/JJ frame/NN based/VBN approach/NN at/IN a/DT highly/RB reduced/VBN computational/JJ cost/NN ./.

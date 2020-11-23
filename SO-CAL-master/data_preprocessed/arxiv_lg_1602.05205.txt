@@ -1,0 +1,5 @@
+We/PRP propose/VBP an/DT algorithm/NN -/HYPH independent/JJ framework/NN to/TO equip/VB existing/VBG optimization/NN methods/NNS with/IN primal/JJ -/HYPH dual/JJ certificates/NNS ./.
+Such/JJ certificates/NNS and/CC corresponding/VBG rate/NN of/IN convergence/NN guarantees/NNS are/VBP important/JJ for/IN practitioners/NNS to/TO diagnose/VB progress/NN ,/, in/IN particular/JJ in/IN machine/NN learning/NN applications/NNS ./.
+We/PRP obtain/VBP new/JJ primal/JJ -/HYPH dual/JJ convergence/NN rates/NNS e.g./FW for/IN the/DT Lasso/NNP as/RB well/RB as/IN many/JJ L1/NN ,/, Elastic/NNP -/HYPH Net/NNP and/CC group/NN -/HYPH lasso/NN -/HYPH regularized/VBN problems/NNS ./.
+The/DT theory/NN applies/VBZ to/IN any/DT norm/NN -/HYPH regularized/VBN generalized/VBN linear/JJ model/NN ./.
+Our/PRP$ approach/NN provides/VBZ efficiently/RB computable/JJ duality/NN gaps/NNS which/WDT are/VBP globally/RB defined/VBN ,/, without/IN modifying/VBG the/DT original/JJ problems/NNS in/IN the/DT region/NN of/IN interest/NN ./.

@@ -1,0 +1,8 @@
+Target/NN -/HYPH dependent/JJ sentiment/NN classification/NN remains/VBZ a/DT challenge/NN :/: modeling/VBG the/DT semantic/JJ relatedness/NN of/IN a/DT target/NN with/IN its/PRP$ context/NN words/NNS in/IN a/DT sentence/NN ./.
+Different/JJ context/NN words/NNS have/VBP different/JJ influences/NNS on/IN determining/VBG the/DT sentiment/NN polarity/NN of/IN a/DT sentence/NN towards/IN the/DT target/NN ./.
+Therefore/RB ,/, it/PRP is/VBZ desirable/JJ to/TO integrate/VB the/DT connections/NNS between/IN target/NN word/NN and/CC context/NN words/NNS when/WRB building/VBG a/DT learning/NN system/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP two/CD target/NN dependent/JJ long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- models/NNS ,/, where/WRB target/NN information/NN is/VBZ automatically/RB taken/VBN into/IN account/NN ./.
+We/PRP evaluate/VBP our/PRP$ methods/NNS on/IN a/DT benchmark/NN dataset/NN from/IN Twitter/NNP ./.
+Empirical/JJ results/NNS show/VBP that/IN modeling/VBG sentence/NN representation/NN with/IN standard/JJ LSTM/NNP does/VBZ not/RB perform/VB well/RB ./.
+Incorporating/VBG target/NN information/NN into/IN LSTM/NNP can/MD significantly/RB boost/VB the/DT classification/NN accuracy/NN ./.
+The/DT target/NN -/HYPH dependent/JJ LSTM/NN models/NNS achieve/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performances/NNS without/IN using/VBG syntactic/JJ parser/NN or/CC external/JJ sentiment/NN lexicons/NNS ./.

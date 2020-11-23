@@ -1,0 +1,7 @@
+In/IN multi-label/JJ classification/NN ,/, an/DT instance/NN may/MD be/VB associated/VBN with/IN a/DT set/NN of/IN labels/NNS simultaneously/RB ./.
+Recently/RB ,/, the/DT research/NN on/IN multi-label/JJ classification/NN has/VBZ largely/RB shifted/VBN its/PRP$ focus/NN to/IN the/DT other/JJ end/NN of/IN the/DT spectrum/NN where/WRB the/DT number/NN of/IN labels/NNS is/VBZ assumed/VBN to/TO be/VB extremely/RB large/JJ ./.
+The/DT existing/JJ works/NNS focus/VBP on/IN how/WRB to/TO design/VB scalable/JJ algorithms/NNS that/WDT offer/VBP fast/JJ training/NN procedures/NNS and/CC have/VBP a/DT small/JJ memory/NN footprint/NN ./.
+However/RB they/PRP ignore/VBP and/CC even/RB compound/NN another/DT challenge/NN -/HYPH the/DT label/NN imbalance/NN problem/NN ./.
+To/TO address/VB this/DT drawback/NN ,/, we/PRP propose/VBP a/DT novel/JJ Representation/NN -/HYPH based/VBN Multi-label/NNP Learning/NNP with/IN Sampling/NNP (/-LRB- RMLS/NNP )/-RRB- approach/NN ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, we/PRP are/VBP the/DT first/JJ to/TO tackle/VB the/DT imbalance/NN problem/NN in/IN multi-label/JJ classification/NN with/IN many/JJ labels/NNS ./.
+Our/PRP$ experimentations/NNS with/IN real/JJ -/HYPH world/NN datasets/NNS demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN approach/NN ./.

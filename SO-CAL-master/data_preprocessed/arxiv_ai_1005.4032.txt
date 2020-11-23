@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN we/PRP present/VBP an/DT OCR/NN for/IN Handwritten/JJ Devnagari/NNP Characters/NNS ./.
+Basic/NNP symbols/NNS are/VBP recognized/VBN by/IN neural/JJ classifier/NN ./.
+We/PRP have/VBP used/VBN four/CD feature/NN extraction/NN techniques/NNS namely/RB ,/, intersection/NN ,/, shadow/NN feature/NN ,/, chain/NN code/NN histogram/NN and/CC straight/JJ line/NN fitting/JJ features/NNS ./.
+Shadow/NNP features/NNS are/VBP computed/VBN globally/RB for/IN character/NN image/NN while/IN intersection/NN features/NNS ,/, chain/NN code/NN histogram/NN features/NNS and/CC line/NN fitting/JJ features/NNS are/VBP computed/VBN by/IN dividing/VBG the/DT character/NN image/NN into/IN different/JJ segments/NNS ./.
+Weighted/JJ majority/NN voting/NN technique/NN is/VBZ used/VBN for/IN combining/VBG the/DT classification/NN decision/NN obtained/VBN from/IN four/CD Multi/NNP Layer/NNP Perceptron/NNP (/-LRB- MLP/NNP )/-RRB- based/VBN classifier/NN ./.
+On/IN experimentation/NN with/IN a/DT dataset/NN of/IN 4900/CD samples/NNS the/DT overall/JJ recognition/NN rate/NN observed/VBN is/VBZ 92.80/CD percent/NN as/IN we/PRP considered/VBD top/JJ five/CD choices/NNS results/VBZ ./.
+This/DT method/NN is/VBZ compared/VBN with/IN other/JJ recent/JJ methods/NNS for/IN Handwritten/JJ Devnagari/NNP Character/NNP Recognition/NNP and/CC it/PRP has/VBZ been/VBN observed/VBN that/IN this/DT approach/NN has/VBZ better/JJR success/NN rate/NN than/IN other/JJ methods/NNS ./.

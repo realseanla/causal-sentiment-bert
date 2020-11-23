@@ -1,0 +1,5 @@
+Cylindrical/JJ Algebraic/JJ Decomposition/NN (/-LRB- CAD/NN )/-RRB- is/VBZ a/DT key/JJ tool/NN in/IN computational/JJ algebraic/JJ geometry/NN ,/, particularly/RB for/IN quantifier/NN elimination/NN over/IN real/JJ -/HYPH closed/JJ fields/NNS ./.
+However/RB ,/, it/PRP can/MD be/VB expensive/JJ ,/, with/IN worst/JJS case/NN complexity/NN doubly/RB exponential/JJ in/IN the/DT size/NN of/IN the/DT input/NN ./.
+Hence/RB it/PRP is/VBZ important/JJ to/TO formulate/VB the/DT problem/NN in/IN the/DT best/JJS manner/NN for/IN the/DT CAD/NNP algorithm/NN ./.
+One/CD possibility/NN is/VBZ to/IN precondition/NN the/DT input/NN polynomials/NNS using/VBG Groebner/NN Basis/NN (/-LRB- GB/NN )/-RRB- theory/NN ./.
+Previous/JJ experiments/NNS have/VBP shown/VBN that/IN while/IN this/DT can/MD often/RB be/VB very/RB beneficial/JJ to/IN the/DT CAD/NNP algorithm/NN ,/, for/IN some/DT problems/NNS it/PRP can/MD significantly/RB worsen/VB the/DT CAD/NN performance/NN ./.

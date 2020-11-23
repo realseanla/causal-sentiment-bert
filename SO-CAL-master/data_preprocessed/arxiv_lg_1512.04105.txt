@@ -1,0 +1,6 @@
+Off/IN -/HYPH policy/NN learning/NN refers/VBZ to/IN the/DT problem/NN of/IN learning/VBG the/DT value/NN function/NN of/IN a/DT way/NN of/IN behaving/VBG ,/, or/CC policy/NN ,/, while/IN following/VBG a/DT different/JJ policy/NN ./.
+Gradient/NN -/HYPH based/VBN off/IN -/HYPH policy/NN learning/NN algorithms/NNS ,/, such/JJ as/IN GTD/NN and/CC TDC/NN //HYPH GQ/NN ,/, converge/VBP even/RB when/WRB using/VBG function/NN approximation/NN and/CC incremental/JJ updates/NNS ./.
+However/RB ,/, they/PRP have/VBP been/VBN developed/VBN for/IN the/DT case/NN of/IN a/DT fixed/JJ behavior/NN policy/NN ./.
+In/IN control/NN problems/NNS ,/, one/PRP would/MD like/VB to/TO adapt/VB the/DT behavior/NN policy/NN over/IN time/NN to/TO become/VB more/RBR greedy/JJ with/IN respect/NN to/IN the/DT existing/JJ value/NN function/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT first/JJ gradient/NN -/HYPH based/VBN learning/NN algorithms/NNS for/IN this/DT problem/NN ,/, which/WDT rely/VBP on/IN the/DT framework/NN of/IN policy/NN gradient/NN in/IN order/NN to/TO modify/VB the/DT behavior/NN policy/NN ./.
+We/PRP present/VBP derivations/NNS of/IN the/DT algorithms/NNS ,/, a/DT convergence/NN theorem/NN ,/, and/CC empirical/JJ evidence/NN showing/VBG that/IN they/PRP compare/VBP favorably/RB to/IN existing/VBG approaches/NNS ./.

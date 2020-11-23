@@ -1,0 +1,7 @@
+Probabilistic/JJ sampling/NN methods/NNS have/VBP become/VBN very/RB popular/JJ to/TO solve/VB single/JJ -/HYPH shot/NN path/NN planning/NN problems/NNS ./.
+Rapidly/RB -/HYPH exploring/VBG Random/NNP Trees/NNP (/-LRB- RRTs/NNS )/-RRB- in/IN particular/JJ have/VBP been/VBN shown/VBN to/TO be/VB very/RB efficient/JJ in/IN solving/VBG high/JJ dimensional/JJ problems/NNS ./.
+Even/RB though/IN several/JJ RRT/NNP variants/NNS have/VBP been/VBN proposed/VBN to/TO tackle/VB the/DT dynamic/JJ replanning/NN problem/NN ,/, these/DT methods/NNS only/RB perform/VBP well/RB in/IN environments/NNS with/IN infrequent/JJ changes/NNS ./.
+This/DT paper/NN addresses/VBZ the/DT dynamic/JJ path/NN planning/NN problem/NN by/IN combining/VBG simple/JJ techniques/NNS in/IN a/DT multi-stage/JJ probabilistic/JJ algorithm/NN ./.
+This/DT algorithm/NN uses/VBZ RRTs/NNS as/IN an/DT initial/JJ solution/NN ,/, informed/JJ local/JJ search/NN to/TO fix/VB unfeasible/JJ paths/NNS and/CC a/DT simple/JJ greedy/JJ optimizer/NN ./.
+The/DT algorithm/NN is/VBZ capable/JJ of/IN recognizing/VBG when/WRB the/DT local/JJ search/NN is/VBZ stuck/JJ ,/, and/CC subsequently/RB restart/VB the/DT RRT/NNP ./.
+We/PRP show/VBP that/IN this/DT combination/NN of/IN simple/JJ techniques/NNS provides/VBZ better/JJR responses/NNS to/IN a/DT highly/RB dynamic/JJ environment/NN than/IN the/DT dynamic/JJ RRT/NN variants/NNS ./.

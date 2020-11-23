@@ -1,0 +1,3 @@
+In/IN this/DT work/NN we/PRP propose/VBP a/DT simple/JJ unsupervised/JJ approach/NN for/IN next/JJ frame/NN prediction/NN in/IN video/NN ./.
+Instead/RB of/IN directly/RB predicting/VBG the/DT pixels/NNS in/IN a/DT frame/NN given/VBN past/IN frames/NNS ,/, we/PRP predict/VBP the/DT transformations/NNS needed/VBN for/IN generating/VBG the/DT next/JJ frame/NN in/IN a/DT sequence/NN ,/, given/VBN the/DT transformations/NNS of/IN the/DT past/JJ frames/NNS ./.
+This/DT leads/VBZ to/IN sharper/JJR results/NNS ,/, while/IN using/VBG a/DT smaller/JJR prediction/NN model/NN ./.

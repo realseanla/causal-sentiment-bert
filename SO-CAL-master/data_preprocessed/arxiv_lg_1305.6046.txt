@@ -1,0 +1,10 @@
+Feature/NN Selection/NN (/-LRB- FS/NN )/-RRB- has/VBZ become/VBN the/DT focus/NN of/IN much/JJ research/NN on/IN decision/NN support/NN systems/NNS areas/NNS for/IN which/WDT data/NN sets/VBZ with/IN tremendous/JJ number/NN of/IN variables/NNS are/VBP analyzed/VBN ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT new/JJ method/NN for/IN the/DT diagnosis/NN of/IN Coronary/NNP Artery/NNP Diseases/NNPS (/-LRB- CAD/NN )/-RRB- founded/VBN on/IN Genetic/JJ Algorithm/NN (/-LRB- GA/NN )/-RRB- wrapped/VBN Bayes/NNP Naive/NNP (/-LRB- BN/NNP )/-RRB- based/VBN FS/NN ./.
+Basically/RB ,/, CAD/NNP dataset/NN contains/VBZ two/CD classes/NNS defined/VBN with/IN 13/CD features/NNS ./.
+In/IN GA/NNP BN/NNP algorithm/NN ,/, GA/NN generates/VBZ in/IN each/DT iteration/NN a/DT subset/NN of/IN attributes/NNS that/WDT will/MD be/VB evaluated/VBN using/VBG the/DT BN/NNP in/IN the/DT second/JJ step/NN of/IN the/DT selection/NN procedure/NN ./.
+The/DT final/JJ set/NN of/IN attribute/NN contains/VBZ the/DT most/RBS relevant/JJ feature/NN model/NN that/WDT increases/VBZ the/DT accuracy/NN ./.
+The/DT algorithm/NN in/IN this/DT case/NN produces/VBZ 85.50/CD percent/NN classification/NN accuracy/NN in/IN the/DT diagnosis/NN of/IN CAD/NNP ./.
+Thus/RB ,/, the/DT asset/NN of/IN the/DT Algorithm/NNP is/VBZ then/RB compared/VBN with/IN the/DT use/NN of/IN Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- ,/, MultiLayer/NNP Perceptron/NNP (/-LRB- MLP/NNP )/-RRB- and/CC C4/NN .5/CD decision/NN tree/NN Algorithm/NN ./.
+The/DT result/NN of/IN classification/NN accuracy/NN for/IN those/DT algorithms/NNS are/VBP respectively/RB 83.5/CD percent/NN ,/, 83.16/CD percent/NN and/CC 80.85/CD percent/NN ./.
+Consequently/RB ,/, the/DT GA/NNP wrapped/VBD BN/NNP Algorithm/NNP is/VBZ correspondingly/RB compared/VBN with/IN other/JJ FS/NN algorithms/NNS ./.
+The/DT Obtained/VBN results/NNS have/VBP shown/VBN very/RB promising/JJ outcomes/NNS for/IN the/DT diagnosis/NN of/IN CAD/NNP ./.

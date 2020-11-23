@@ -1,0 +1,6 @@
+Automatic annotation of temporal expressions is a research challenge of great interest in the field of information extraction.
+In this report, I describe a novel rule-based architecture, built on top of a pre-existing system, which is able to normalise temporal expressions detected in English texts.
+Gold standard temporally-annotated resources are limited in size and this makes research difficult.
+The proposed system outperforms the state-of-the-art systems with respect to TempEval-2 Shared Task (value attribute) and achieves substantially better results with respect to the pre-existing system on top of which it has been developed.
+I will also introduce a new free corpus consisting of 2822 unique annotated temporal expressions.
+Both the corpus and the system are freely available on-line.

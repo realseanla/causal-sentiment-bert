@@ -1,0 +1,6 @@
+Deep/JJ neural/JJ networks/NNS with/IN lots/NNS of/IN parameters/NNS are/VBP typically/RB used/VBN for/IN large/JJ -/HYPH scale/NN computer/NN vision/NN tasks/NNS such/JJ as/IN image/NN classification/NN ./.
+This/DT is/VBZ a/DT result/NN of/IN using/VBG dense/JJ matrix/NN multiplications/NNS and/CC convolutions/NNS ./.
+However/RB ,/, sparse/JJ computations/NNS are/VBP known/VBN to/TO be/VB much/RB more/RBR efficient/JJ ./.
+In/IN this/DT work/NN ,/, we/PRP train/VBP and/CC build/VBP neural/JJ networks/NNS which/WDT implicitly/RB use/VBP sparse/JJ computations/NNS ./.
+We/PRP introduce/VBP additional/JJ gate/NN variables/NNS to/TO perform/VB parameter/NN selection/NN and/CC show/VBP that/IN this/DT is/VBZ equivalent/JJ to/IN using/VBG a/DT spike/NN -/HYPH and/CC -/HYPH slab/NN prior/JJ ./.
+We/PRP experimentally/RB validate/VBP our/PRP$ method/NN on/IN both/DT small/JJ and/CC large/JJ networks/NNS and/CC achieve/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN compression/NN results/VBZ for/IN sparse/JJ neural/JJ network/NN models/NNS ./.

@@ -1,0 +1,7 @@
+Speaker/NNP intent/JJ detection/NN and/CC semantic/JJ slot/NN filling/NN are/VBP two/CD critical/JJ tasks/NNS in/IN spoken/VBN language/NN understanding/NN (/-LRB- SLU/NN )/-RRB- for/IN dialogue/NN systems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP a/DT recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- model/NN that/WDT jointly/RB performs/VBZ intent/JJ detection/NN ,/, slot/NN filling/NN ,/, and/CC language/NN modeling/NN ./.
+The/DT neural/JJ network/NN model/NN keeps/VBZ updating/VBG the/DT intent/NN estimation/NN as/IN word/NN in/IN the/DT transcribed/VBN utterance/NN arrives/VBZ and/CC uses/VBZ it/PRP as/IN contextual/JJ features/NNS in/IN the/DT joint/JJ model/NN ./.
+Evaluation/NN of/IN the/DT language/NN model/NN and/CC online/JJ SLU/NN model/NN is/VBZ made/VBN on/IN the/DT ATIS/NNP benchmarking/NN data/NNS set/VBN ./.
+On/IN language/NN modeling/NN task/NN ,/, our/PRP$ joint/JJ model/NN achieves/VBZ 11.8/CD percent/NN relative/JJ reduction/NN on/IN perplexity/NN comparing/VBG to/IN the/DT independent/JJ training/NN language/NN model/NN ./.
+On/IN SLU/NNP tasks/NNS ,/, our/PRP$ joint/JJ model/NN outperforms/VBZ the/DT independent/JJ task/NN training/NN model/NN by/IN 22.3/CD percent/NN on/IN intent/JJ detection/NN error/NN rate/NN ,/, with/IN slight/JJ degradation/NN on/IN slot/NN filling/VBG F1/NN score/NN ./.
+The/DT joint/JJ model/NN also/RB shows/VBZ advantageous/JJ performance/NN in/IN the/DT realistic/JJ ASR/NN settings/NNS with/IN noisy/JJ speech/NN input/NN ./.

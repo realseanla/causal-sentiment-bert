@@ -1,0 +1,6 @@
+This/DT paper/NN describes/VBZ a/DT new/JJ method/NN for/IN reducing/VBG the/DT error/NN in/IN a/DT classifier/NN ./.
+It/PRP uses/VBZ a/DT weight/NN adjustment/NN update/NN ,/, but/CC includes/VBZ the/DT very/RB simple/JJ rule/NN of/IN either/CC adding/VBG or/CC subtracting/VBG the/DT adjustment/NN ,/, based/VBN on/IN whether/IN the/DT data/NNS point/NN is/VBZ currently/RB larger/JJR or/CC smaller/JJR than/IN the/DT desired/VBN value/NN ,/, and/CC on/IN a/DT point/NN -/HYPH by/IN -/HYPH point/NN basis/NN ./.
+This/DT gives/VBZ added/VBN flexibility/NN to/IN the/DT convergence/NN procedure/NN ,/, where/WRB through/IN a/DT series/NN of/IN transpositions/NNS ,/, values/NNS far/RB away/RB can/MD continue/VB towards/IN the/DT desired/VBN value/NN ,/, whereas/IN values/NNS that/WDT are/VBP originally/RB much/RB closer/JJR can/MD oscillate/VB from/IN one/CD side/NN to/IN the/DT other/JJ ./.
+Tests/NNS show/VBP that/IN the/DT method/NN can/MD successfully/RB classify/VB some/DT known/VBN datasets/NNS ./.
+It/PRP can/MD also/RB work/VB in/IN a/DT batch/NN mode/NN ,/, with/IN reduced/VBN training/NN times/NNS and/CC can/MD be/VB used/VBN as/IN part/NN of/IN a/DT neural/JJ network/NN ,/, or/CC classifiers/NNS in/IN general/JJ ./.
+There/EX are/VBP also/RB some/DT updates/NNS on/IN an/DT earlier/JJR wave/NN shape/NN paper/NN ./.

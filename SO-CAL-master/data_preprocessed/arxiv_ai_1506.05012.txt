@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, a/DT method/NN is/VBZ proposed/VBN to/TO detect/VB the/DT emotion/NN of/IN a/DT song/NN based/VBN on/IN its/PRP$ lyrical/JJ and/CC audio/JJ features/NNS ./.
+Lyrical/JJ features/NNS are/VBP generated/VBN by/IN segmentation/NN of/IN lyrics/NNS during/IN the/DT process/NN of/IN data/NNS extraction/NN ./.
+ANEW/RB and/CC WordNet/NNP knowledge/NN is/VBZ then/RB incorporated/VBN to/IN compute/VB Valence/NNP and/CC Arousal/NNP values/NNS ./.
+In/IN addition/NN to/IN this/DT ,/, linguistic/JJ association/NN rules/NNS are/VBP applied/VBN to/TO ensure/VB that/IN the/DT issue/NN of/IN ambiguity/NN is/VBZ properly/RB addressed/VBN ./.
+Audio/NNP features/NNS are/VBP used/VBN to/TO supplement/VB the/DT lyrical/JJ ones/NNS and/CC include/VBP attributes/NNS like/IN energy/NN ,/, tempo/NN ,/, and/CC danceability/NN ./.
+These/DT features/NNS are/VBP extracted/VBN from/IN The/DT Echo/NNP Nest/NNP ,/, a/DT widely/RB used/VBN music/NN intelligence/NN platform/NN ./.
+Construction/NN of/IN training/NN and/CC test/NN sets/NNS is/VBZ done/VBN on/IN the/DT basis/NN of/IN social/JJ tags/NNS extracted/VBN from/IN the/DT last.fm/NN website/NN ./.
+The/DT classification/NN is/VBZ done/VBN by/IN applying/VBG feature/NN weighting/NN and/CC stepwise/JJ threshold/NN reduction/NN on/IN the/DT k/NN -/HYPH Nearest/JJS Neighbors/NNS algorithm/NN to/TO provide/VB fuzziness/NN in/IN the/DT classification/NN ./.

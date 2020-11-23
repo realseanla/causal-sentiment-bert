@@ -1,0 +1,7 @@
+We/PRP introduce/VBP K/NN -/HYPH tree/NN in/IN an/DT information/NN retrieval/NN context/NN ./.
+It/PRP is/VBZ an/DT efficient/JJ approximation/NN of/IN the/DT k/NN -/HYPH means/NN clustering/NN algorithm/NN ./.
+Unlike/IN k/CD -/HYPH means/VBZ it/PRP forms/VBZ a/DT hierarchy/NN of/IN clusters/NNS ./.
+It/PRP has/VBZ been/VBN extended/VBN to/TO address/VB issues/NNS with/IN sparse/JJ representations/NNS ./.
+We/PRP compare/VBP performance/NN and/CC quality/NN to/IN CLUTO/NN using/VBG document/NN collections/NNS ./.
+The/DT K/NN -/HYPH tree/NN has/VBZ a/DT low/JJ time/NN complexity/NN that/WDT is/VBZ suitable/JJ for/IN large/JJ document/NN collections/NNS ./.
+This/DT tree/NN structure/NN allows/VBZ for/IN efficient/JJ disk/NN based/VBN implementations/NNS where/WRB space/NN requirements/NNS exceed/VBP that/IN of/IN main/JJ memory/NN ./.

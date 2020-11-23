@@ -1,0 +1,8 @@
+Stochastic/JJ network/NN design/NN is/VBZ a/DT general/JJ framework/NN for/IN optimizing/VBG network/NN connectivity/NN ./.
+It/PRP has/VBZ several/JJ applications/NNS in/IN computational/JJ sustainability/NN including/VBG spatial/JJ conservation/NN planning/NN ,/, pre-disaster/NN network/NN preparation/NN ,/, and/CC river/NN network/NN optimization/NN ./.
+A/DT common/JJ assumption/NN in/IN previous/JJ work/NN has/VBZ been/VBN made/VBN that/IN network/NN parameters/NNS (/-LRB- e.g./FW ,/, probability/NN of/IN species/NNS colonization/NN )/-RRB- are/VBP precisely/RB known/VBN ,/, which/WDT is/VBZ unrealistic/JJ in/IN real/JJ -/HYPH world/NN settings/NNS ./.
+We/PRP therefore/RB address/VBP the/DT robust/JJ river/NN network/NN design/NN problem/NN where/WRB the/DT goal/NN is/VBZ to/TO optimize/VB river/NN connectivity/NN for/IN fish/NN movement/NN by/IN removing/VBG barriers/NNS ./.
+We/PRP assume/VBP that/IN fish/NN passability/NN probabilities/NNS are/VBP known/VBN only/RB imprecisely/RB ,/, but/CC are/VBP within/IN some/DT interval/NN bounds/NNS ./.
+We/PRP then/RB develop/VB a/DT planning/NN approach/NN that/WDT computes/VBZ the/DT policies/NNS with/IN either/CC high/JJ robust/JJ ratio/NN or/CC low/JJ regret/NN ./.
+Empirically/RB ,/, our/PRP$ approach/NN scales/VBZ well/RB to/IN large/JJ river/NN networks/NNS ./.
+We/PRP also/RB provide/VBP insights/NNS into/IN the/DT solutions/NNS generated/VBN by/IN our/PRP$ robust/JJ approach/NN ,/, which/WDT has/VBZ significantly/RB higher/JJR robust/JJ ratio/NN than/IN the/DT baseline/NN solution/NN with/IN mean/JJ parameter/NN estimates/NNS ./.

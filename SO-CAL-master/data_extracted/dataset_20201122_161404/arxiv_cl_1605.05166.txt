@@ -1,0 +1,5 @@
+There is an ever growing number of users with accounts on multiple social media and networking sites.
+Consequently, there is increasing interest in matching user accounts and profiles across different social networks in order to create aggregate profiles of users.
+In this paper, we present models for Digital Stylometry, which is a method for matching users through stylometry inspired techniques.
+We experimented with linguistic, temporal, and combined temporal-linguistic models for matching user accounts, using standard and novel techniques.
+Using publicly available data, our best model, a combined temporal-linguistic one, was able to correctly match the accounts of 31 percent of 5,612 distinct users across Twitter and Facebook.

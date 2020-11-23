@@ -1,0 +1,7 @@
+The/DT vast/JJ majority/NN of/IN recommender/NN systems/NNS model/NN preferences/NNS as/IN static/NN or/CC slowly/RB changing/VBG due/IN to/IN observable/JJ user/NN experience/NN ./.
+However/RB ,/, spontaneous/JJ changes/NNS in/IN user/NN preferences/NNS are/VBP ubiquitous/JJ in/IN many/JJ domains/NNS like/IN media/NNS consumption/NN and/CC key/JJ factors/NNS that/WDT drive/VBP changes/NNS in/IN preferences/NNS are/VBP not/RB directly/RB observable/JJ ./.
+These/DT latent/JJ sources/NNS of/IN preference/NN change/NN pose/VBP new/JJ challenges/NNS ./.
+When/WRB systems/NNS do/VBP not/RB track/VB and/CC adapt/VB to/IN users/NNS '/POS tastes/NNS ,/, users/NNS lose/VBP confidence/NN and/CC trust/NN ,/, increasing/VBG the/DT risk/NN of/IN user/NN churn/VBP ./.
+We/PRP meet/VBP these/DT challenges/NNS by/IN developing/VBG a/DT model/NN of/IN novelty/NN preferences/NNS that/WDT learns/VBZ and/CC tracks/VBZ latent/JJ user/NN tastes/NNS ./.
+We/PRP combine/VBP three/CD innovations/NNS :/: a/DT new/JJ measure/NN of/IN item/NN similarity/NN based/VBN on/IN patterns/NNS of/IN consumption/NN co-occurrence/NN ;/: model/NN for/IN {/-LRB- \/SYM em/PRP spontaneous/JJ }/-RRB- changes/NNS in/IN preferences/NNS ;/: and/CC a/DT learning/NN agent/NN that/WDT tracks/VBZ each/DT user/NN 's/POS dynamic/JJ preferences/NNS and/CC learns/VBZ individualized/JJ policies/NNS for/IN variety/NN ./.
+The/DT resulting/VBG framework/NN adaptively/RB provides/VBZ users/NNS with/IN novelty/NN tailored/VBN to/IN their/PRP$ preferences/NNS for/IN change/NN per/FW se/FW ./.

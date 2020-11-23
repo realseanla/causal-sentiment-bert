@@ -1,0 +1,6 @@
+Frame/VB stacking/VBG is/VBZ broadly/RB applied/VBN in/IN end/NN -/HYPH to/IN -/HYPH end/NN neural/JJ network/NN training/NN like/IN connectionist/JJ temporal/JJ classification/NN (/-LRB- CTC/NN )/-RRB- ,/, and/CC it/PRP leads/VBZ to/IN more/RBR accurate/JJ models/NNS and/CC faster/JJR decoding/NN ./.
+However/RB ,/, it/PRP is/VBZ not/RB well/RB -/HYPH suited/VBN to/IN conventional/JJ neural/JJ network/NN based/VBN on/IN context/NN -/HYPH dependent/JJ state/NN acoustic/JJ model/NN ,/, if/IN the/DT decoder/NN is/VBZ unchanged/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ frame/NN retaining/VBG method/NN which/WDT is/VBZ applied/VBN in/IN decoding/NN ./.
+The/DT system/NN which/WDT combined/VBD frame/NN retaining/VBG with/IN frame/NN stacking/VBG could/MD reduces/VBZ the/DT time/NN consumption/NN of/IN both/DT training/NN and/CC decoding/NN ./.
+Long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- using/VBG it/PRP achieve/VB almost/RB linear/JJ training/NN speedup/NN and/CC reduces/VBZ relative/JJ 41/CD \/SYM percent/NN real/JJ time/NN factor/NN (/-LRB- RTF/NN )/-RRB- ./.
+At/IN the/DT same/JJ time/NN ,/, recognition/NN performance/NN is/VBZ no/DT degradation/NN or/CC improves/VBZ sightly/RB on/IN Shenma/NNP voice/NN search/NN dataset/NN in/IN Mandarin/NNP ./.

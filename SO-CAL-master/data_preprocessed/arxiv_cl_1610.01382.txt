@@ -1,0 +1,9 @@
+Besides/IN spoken/VBN words/NNS ,/, speech/NN signals/NNS also/RB carry/VBP information/NN about/IN speaker/NN gender/NN ,/, age/NN ,/, and/CC emotional/JJ state/NN which/WDT can/MD be/VB used/VBN in/IN a/DT variety/NN of/IN speech/NN analysis/NN applications/NNS ./.
+In/IN this/DT paper/NN ,/, a/DT divide/NN and/CC conquer/VB strategy/NN for/IN ensemble/NN classification/NN has/VBZ been/VBN proposed/VBN to/TO recognize/VB emotions/NNS in/IN speech/NN ./.
+Intrinsic/JJ hierarchy/NN in/IN emotions/NNS has/VBZ been/VBN utilized/VBN to/TO construct/VB an/DT emotions/NNS tree/NN ,/, which/WDT assisted/VBD in/IN breaking/VBG down/RP the/DT emotion/NN recognition/NN task/NN into/IN smaller/JJR sub/NN tasks/NNS ./.
+The/DT proposed/VBN framework/NN generates/VBZ predictions/NNS in/IN three/CD phases/NNS ./.
+Firstly/RB ,/, emotions/NNS are/VBP detected/VBN in/IN the/DT input/NN speech/NN signal/NN by/IN classifying/VBG it/PRP as/IN neutral/JJ or/CC emotional/JJ ./.
+If/IN the/DT speech/NN is/VBZ classified/VBN as/IN emotional/JJ ,/, then/RB in/IN the/DT second/JJ phase/NN ,/, it/PRP is/VBZ further/JJ classified/VBN into/IN positive/JJ and/CC negative/JJ classes/NNS ./.
+Finally/RB ,/, individual/JJ positive/JJ or/CC negative/JJ emotions/NNS are/VBP identified/VBN based/VBN on/IN the/DT outcomes/NNS of/IN the/DT previous/JJ stages/NNS ./.
+Several/JJ experiments/NNS have/VBP been/VBN performed/VBN on/IN a/DT widely/RB used/VBN benchmark/NN dataset/NN ./.
+The/DT proposed/JJ method/NN was/VBD able/JJ to/TO achieve/VB improved/VBN recognition/NN rates/NNS as/IN compared/VBN to/IN several/JJ other/JJ approaches/NNS ./.

@@ -1,0 +1,12 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT mQA/NN model/NN ,/, which/WDT is/VBZ able/JJ to/TO answer/VB questions/NNS about/IN the/DT content/NN of/IN an/DT image/NN ./.
+The/DT answer/NN can/MD be/VB a/DT sentence/NN ,/, a/DT phrase/NN or/CC a/DT single/JJ word/NN ./.
+Our/PRP$ model/NN contains/VBZ four/CD components/NNS :/: a/DT Long/JJ -/HYPH Short/JJ Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- to/TO extract/VB the/DT question/NN representation/NN ,/, a/DT Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- to/TO extract/VB the/DT visual/JJ representation/NN ,/, a/DT LSTM/NNP for/IN storing/VBG the/DT linguistic/JJ context/NN in/IN an/DT answer/NN ,/, and/CC a/DT fusing/NN component/NN to/TO combine/VB the/DT information/NN from/IN the/DT first/JJ three/CD components/NNS and/CC generate/VBP the/DT answer/NN ./.
+We/PRP construct/VBP a/DT Freestyle/NNP Multilingual/NNP Image/NNP Question/NN Answering/VBG (/-LRB- FM/NNP -/HYPH IQA/NNP )/-RRB- dataset/NN to/TO train/VB and/CC evaluate/VB our/PRP$ mQA/NN model/NN ./.
+It/PRP contains/VBZ over/IN 120,000/CD images/NNS and/CC 250,000/CD freestyle/JJ Chinese/JJ question/NN -/HYPH answer/NN pairs/NNS and/CC their/PRP$ English/JJ translations/NNS ./.
+The/DT quality/NN of/IN the/DT generated/VBN answers/NNS of/IN our/PRP$ mQA/NN model/NN on/IN this/DT dataset/NN are/VBP evaluated/VBN by/IN human/JJ judges/NNS through/IN a/DT Turing/NNP Test/NNP ./.
+Specifically/RB ,/, we/PRP mix/VBP the/DT answers/NNS provided/VBN by/IN humans/NNS and/CC our/PRP$ model/NN ./.
+The/DT human/JJ judges/NNS need/VBP to/TO distinguish/VB our/PRP$ model/NN from/IN the/DT human/JJ ./.
+They/PRP will/MD also/RB provide/VB a/DT score/NN (/-LRB- i.e./FW 0/CD ,/, 1/CD ,/, 2/CD ,/, the/DT larger/JJR the/DT better/JJR )/-RRB- indicating/VBG the/DT quality/NN of/IN the/DT answer/NN ./.
+We/PRP propose/VBP strategies/NNS to/TO monitor/VB the/DT quality/NN of/IN this/DT evaluation/NN process/NN ./.
+The/DT experiments/NNS show/VBP that/IN in/IN 64.7/CD percent/NN of/IN cases/NNS ,/, the/DT human/JJ judges/NNS can/MD not/RB distinguish/VB our/PRP$ model/NN from/IN humans/NNS ./.
+The/DT average/JJ score/NN is/VBZ 1.454/CD (/-LRB- 1.918/CD for/IN human/JJ )/-RRB- ./.

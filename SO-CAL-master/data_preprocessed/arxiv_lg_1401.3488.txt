@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT novel/JJ Bayesian/JJ topic/NN model/NN for/IN learning/VBG discourse/NN -/HYPH level/NN document/NN structure/NN ./.
+Our/PRP$ model/NN leverages/VBZ insights/NNS from/IN discourse/NN theory/NN to/TO constrain/VB latent/NN topic/NN assignments/NNS in/IN a/DT way/NN that/WDT reflects/VBZ the/DT underlying/VBG organization/NN of/IN document/NN topics/NNS ./.
+We/PRP propose/VBP a/DT global/JJ model/NN in/IN which/WDT both/DT topic/NN selection/NN and/CC ordering/NN are/VBP biased/VBN to/TO be/VB similar/JJ across/IN a/DT collection/NN of/IN related/JJ documents/NNS ./.
+We/PRP show/VBP that/IN this/DT space/NN of/IN orderings/NNS can/MD be/VB effectively/RB represented/VBN using/VBG a/DT distribution/NN over/IN permutations/NNS called/VBD the/DT Generalized/VBN Mallows/NNPS Model/NNP ./.
+We/PRP apply/VBP our/PRP$ method/NN to/TO three/CD complementary/JJ discourse/NN -/HYPH level/NN tasks/NNS :/: cross-document/JJ alignment/NN ,/, document/NN segmentation/NN ,/, and/CC information/NN ordering/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN incorporating/VBG our/PRP$ permutation/NN -/HYPH based/VBN model/NN in/IN these/DT applications/NNS yields/NNS substantial/JJ improvements/NNS in/IN performance/NN over/IN previously/RB proposed/VBN methods/NNS ./.

@@ -1,0 +1,7 @@
+Sequential/JJ LSTM/NN has/VBZ been/VBN extended/VBN to/IN model/NN tree/NN structures/NNS ,/, giving/VBG competitive/JJ results/NNS for/IN a/DT number/NN of/IN tasks/NNS ./.
+Existing/VBG methods/NNS model/NN constituent/NN trees/NNS by/IN bottom/JJ -/HYPH up/JJ combinations/NNS of/IN constituent/JJ nodes/NNS ,/, making/VBG direct/JJ use/NN of/IN input/NN word/NN information/NN only/RB for/IN leaf/NN nodes/NNS ./.
+This/DT is/VBZ different/JJ from/IN sequential/JJ LSTMs/NNPS ,/, which/WDT contain/VBP reference/NN to/IN input/NN words/NNS for/IN each/DT node/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT method/NN for/IN automatic/JJ head/NN -/HYPH lexicalization/NN for/IN tree/NN -/HYPH structure/NN LSTMs/NNS ,/, propagating/VBG head/NN words/NNS from/IN leaf/NN nodes/NNS to/IN every/DT constituent/JJ node/NN ./.
+In/IN addition/NN ,/, enabled/VBN by/IN head/NN lexicalization/NN ,/, we/PRP build/VBP a/DT tree/NN LSTM/NN in/IN the/DT top/JJ -/HYPH down/JJ direction/NN ,/, which/WDT corresponds/VBZ to/IN bidirectional/JJ sequential/JJ LSTM/NNP structurally/RB ./.
+Experiments/NNS show/VBP that/IN both/DT extensions/NNS give/VBP better/JJR representations/NNS of/IN tree/NN structures/NNS ./.
+Our/PRP$ final/JJ model/NN gives/VBZ the/DT best/JJS results/NNS on/IN the/DT Standford/NNP Sentiment/NN Treebank/NNP and/CC highly/RB competitive/JJ results/NNS on/IN the/DT TREC/NN question/NN type/NN classification/NN task/NN ./.

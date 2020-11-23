@@ -1,0 +1,6 @@
+When/WRB training/VBG deep/JJ neural/JJ networks/NNS ,/, it/PRP is/VBZ typically/RB assumed/VBN that/IN the/DT training/NN examples/NNS are/VBP uniformly/RB difficult/JJ to/TO learn/VB ./.
+Or/CC ,/, to/IN restate/VB ,/, it/PRP is/VBZ assumed/VBN that/IN the/DT training/NN error/NN will/MD be/VB uniformly/RB distributed/VBN across/IN the/DT training/NN examples/NNS ./.
+Based/VBN on/IN these/DT assumptions/NNS ,/, each/DT training/NN example/NN is/VBZ used/VBN an/DT equal/JJ number/NN of/IN times/NNS ./.
+However/RB ,/, this/DT assumption/NN may/MD not/RB be/VB valid/JJ in/IN many/JJ cases/NNS ./.
+"/`` Oddball/NNP SGD/NNP "/'' (/-LRB- novelty/NN -/HYPH driven/VBN stochastic/JJ gradient/NN descent/NN )/-RRB- was/VBD recently/RB introduced/VBN to/TO drive/VB training/NN probabilistically/RB according/VBG to/IN the/DT error/NN distribution/NN -/HYPH training/NN frequency/NN is/VBZ proportional/JJ to/IN training/NN error/NN magnitude/NN ./.
+In/IN this/DT article/NN ,/, using/VBG a/DT deep/JJ neural/JJ network/NN to/TO encode/VB a/DT video/NN ,/, we/PRP show/VBP that/IN oddball/JJ SGD/NNP can/MD be/VB used/VBN to/TO enforce/VB uniform/JJ error/NN across/IN the/DT training/NN set/NN ./.

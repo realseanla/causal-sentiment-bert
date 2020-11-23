@@ -1,0 +1,5 @@
+The/DT success/NN of/IN deep/JJ neural/JJ networks/NNS is/VBZ mostly/RB due/IN their/PRP$ ability/NN to/TO learn/VB meaningful/JJ features/NNS from/IN the/DT data/NNS ./.
+Features/NNS learned/VBD in/IN the/DT hidden/JJ layers/NNS of/IN deep/JJ neural/JJ networks/NNS trained/VBN in/IN computer/NN vision/NN tasks/NNS have/VBP been/VBN shown/VBN to/TO be/VB similar/JJ to/IN mid-level/NN vision/NN features/NNS ./.
+We/PRP leverage/VBP this/DT fact/NN in/IN this/DT work/NN and/CC propose/VB the/DT visualization/NN regularizer/NN for/IN image/NN tasks/NNS ./.
+The/DT proposed/VBN regularization/NN technique/NN enforces/VBZ smoothness/NN of/IN the/DT features/NNS learned/VBN by/IN hidden/JJ nodes/NNS and/CC turns/VBZ out/RP to/TO be/VB a/DT special/JJ case/NN of/IN Tikhonov/NNP regularization/NN ./.
+We/PRP achieve/VBP higher/JJR classification/NN accuracy/NN as/IN compared/VBN to/IN existing/VBG regularizers/NNS such/JJ as/IN the/DT L2/NN norm/NN regularizer/NN and/CC dropout/NN ,/, on/IN benchmark/NN datasets/NNS with/IN no/DT change/NN in/IN the/DT training/NN computational/JJ complexity/NN ./.

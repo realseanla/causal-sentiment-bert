@@ -1,0 +1,7 @@
+We/PRP study/VBP the/DT problem/NN of/IN learning/VBG the/DT best/JJS Bayesian/JJ network/NN structure/NN with/IN respect/NN to/IN a/DT decomposable/JJ score/NN such/JJ as/IN BDe/NN ,/, BIC/NN or/CC AIC/NNP ./.
+This/DT problem/NN is/VBZ known/VBN to/TO be/VB NP/NNP -/HYPH hard/JJ ,/, which/WDT means/VBZ that/IN solving/VBG it/PRP becomes/VBZ quickly/RB infeasible/JJ as/IN the/DT number/NN of/IN variables/NNS increases/NNS ./.
+Nevertheless/RB ,/, in/IN this/DT paper/NN we/PRP show/VBP that/IN it/PRP is/VBZ possible/JJ to/TO learn/VB the/DT best/JJS Bayesian/JJ network/NN structure/NN with/IN over/IN 30/CD variables/NNS ,/, which/WDT covers/VBZ many/JJ practically/RB interesting/JJ cases/NNS ./.
+Our/PRP$ algorithm/NN is/VBZ less/RBR complicated/JJ and/CC more/RBR efficient/JJ than/IN the/DT techniques/NNS presented/VBN earlier/RBR ./.
+It/PRP can/MD be/VB easily/RB parallelized/VBN ,/, and/CC offers/VBZ a/DT possibility/NN for/IN efficient/JJ exploration/NN of/IN the/DT best/JJS networks/NNS consistent/JJ with/IN different/JJ variable/JJ orderings/NNS ./.
+In/IN the/DT experimental/JJ part/NN of/IN the/DT paper/NN we/PRP compare/VBP the/DT performance/NN of/IN the/DT algorithm/NN to/IN the/DT previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithm/NN ./.
+Free/JJ source/NN -/HYPH code/NN and/CC an/DT online/JJ -/HYPH demo/NN can/MD be/VB found/VBN at/IN

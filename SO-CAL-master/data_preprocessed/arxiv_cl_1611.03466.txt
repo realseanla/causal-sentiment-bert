@@ -1,0 +1,6 @@
+The/DT aim/NN of/IN syntactic/JJ tracking/NN is/VBZ to/TO classify/VB spatio/JJ -/HYPH temporal/JJ patterns/NNS of/IN a/DT target/NN 's/POS motion/NN using/VBG natural/JJ language/NN processing/NN models/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP generalize/VBP earlier/JJR work/NN by/IN considering/VBG a/DT constrained/VBN stochastic/JJ context/NN free/JJ grammar/NN (/-LRB- CSCFG/NNP )/-RRB- for/IN modeling/NN patterns/NNS confined/VBN to/IN a/DT roadmap/NN ./.
+The/DT constrained/VBN grammar/NN facilitates/VBZ modeling/NN specific/JJ directions/NNS and/CC road/NN names/NNS in/IN a/DT roadmap/NN ./.
+We/PRP present/VBP a/DT novel/JJ particle/NN filtering/VBG algorithm/NN that/WDT exploits/VBZ the/DT CSCFG/NNP model/NN for/IN estimating/VBG the/DT target/NN 's/POS patterns/NNS ./.
+This/DT meta/NN -/HYPH level/NN algorithm/NN operates/VBZ in/IN conjunction/NN with/IN a/DT base/NN -/HYPH level/NN tracking/NN algorithm/NN ./.
+Extensive/JJ numerical/JJ results/NNS using/VBG simulated/VBN ground/NN moving/VBG target/NN indicator/NN (/-LRB- GMTI/NNP )/-RRB- radar/NN measurements/NNS show/VBP substantial/JJ improvement/NN in/IN target/NN tracking/NN accuracy/NN ./.

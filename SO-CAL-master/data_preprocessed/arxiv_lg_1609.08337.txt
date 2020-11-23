@@ -1,0 +1,8 @@
+Research/NN on/IN multilingual/JJ speech/NN recognition/NN remains/VBZ attractive/JJ yet/RB challenging/JJ ./.
+Recent/JJ studies/NNS focus/VBP on/IN learning/VBG shared/VBN structures/NNS under/IN the/DT multi-task/VB paradigm/NN ,/, in/IN particular/JJ a/DT feature/NN sharing/NN structure/NN ./.
+This/DT approach/NN has/VBZ been/VBN found/VBN effective/JJ to/TO improve/VB performance/NN on/IN each/DT individual/JJ language/NN ./.
+However/RB ,/, this/DT approach/NN is/VBZ only/RB useful/JJ when/WRB the/DT deployed/VBN system/NN supports/VBZ just/RB one/CD language/NN ./.
+In/IN a/DT true/JJ multilingual/JJ scenario/NN where/WRB multiple/JJ languages/NNS are/VBP allowed/VBN ,/, performance/NN will/MD be/VB significantly/RB reduced/VBN due/IN to/IN the/DT competition/NN among/IN languages/NNS in/IN the/DT decoding/NN space/NN ./.
+This/DT paper/NN presents/VBZ a/DT multi-task/VB recurrent/JJ model/NN that/WDT involves/VBZ a/DT multilingual/JJ speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- component/NN and/CC a/DT language/NN recognition/NN (/-LRB- LR/NN )/-RRB- component/NN ,/, and/CC the/DT ASR/NNP component/NN is/VBZ informed/VBN of/IN the/DT language/NN information/NN by/IN the/DT LR/NN component/NN ,/, leading/VBG to/IN a/DT language/NN -/HYPH aware/JJ recognition/NN ./.
+We/PRP tested/VBD the/DT approach/NN on/IN an/DT English/NNP -/HYPH Chinese/NNP bilingual/JJ recognition/NN task/NN ./.
+The/DT results/NNS show/VBP that/IN the/DT proposed/VBN multi-task/VBP recurrent/JJ model/NN can/MD improve/VB performance/NN of/IN multilingual/JJ recognition/NN systems/NNS ./.

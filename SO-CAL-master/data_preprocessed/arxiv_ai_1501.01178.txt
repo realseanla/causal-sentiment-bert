@@ -1,0 +1,10 @@
+The/DT goal/NN of/IN sequence/NN mining/NN is/VBZ to/TO find/VB sequences/NNS of/IN symbols/NNS that/WDT are/VBP included/VBN in/IN (/-LRB- i.e./FW that/WDT are/VBP subsequences/NNS of/IN )/-RRB- a/DT large/JJ number/NN of/IN input/NN sequences/NNS ./.
+Many/JJ constraints/NNS have/VBP been/VBN proposed/VBN in/IN the/DT literature/NN for/IN this/DT type/NN of/IN problem/NN ,/, but/CC a/DT general/JJ framework/NN for/IN handling/VBG these/DT constraints/NNS is/VBZ missing/VBG ./.
+We/PRP investigate/VBP the/DT use/NN of/IN constraint/NN programming/NN as/IN general/JJ framework/NN for/IN this/DT task/NN ./.
+We/PRP first/RB identify/VBP four/CD categories/NNS of/IN constraints/NNS that/WDT are/VBP applicable/JJ to/IN sequence/NN mining/NN ./.
+We/PRP then/RB propose/VB two/CD constraint/NN programming/NN formulation/NN :/: the/DT first/JJ formulation/NN introduces/VBZ a/DT new/JJ global/JJ constraint/NN called/VBN exists/VBZ embedding/NN that/WDT hides/VBZ the/DT complexity/NN of/IN the/DT inclusion/NN relation/NN ./.
+However/RB ,/, this/DT approach/NN does/VBZ not/RB support/VB one/CD category/NN of/IN constraints/NNS ./.
+To/TO support/VB such/JJ constraints/NNS ,/, we/PRP develop/VBP a/DT second/JJ for/IN -/HYPH mulation/NN that/WDT is/VBZ more/RBR general/JJ but/CC incurs/VBZ more/JJR overhead/NN ./.
+Both/DT formulations/NNS can/MD be/VB related/VBN to/IN the/DT projected/VBN database/NN technique/NN used/VBN in/IN specialised/VBN algorithms/NNS ,/, and/CC can/MD use/VB projected/VBN frequency/NN to/TO speed/VB up/RP the/DT search/NN ./.
+Experiments/NNS demonstrate/VBP the/DT flexibility/NN towards/IN constraint/NN -/HYPH based/VBN settings/NNS and/CC compare/VB the/DT approach/NN to/IN existing/VBG methods/NNS ./.
+Finally/RB ,/, we/PRP discuss/VBP the/DT benefits/NNS and/CC limitations/NNS of/IN a/DT CP/NN -/HYPH based/VBN approach/NN for/IN constrained/VBN mining/NN ./.

@@ -1,0 +1,5 @@
+This/DT paper/NN proposes/VBZ a/DT path/NN planning/NN strategy/NN for/IN an/DT Autonomous/NNP Ground/NNP Vehicle/NNP (/-LRB- AGV/NNP )/-RRB- navigating/VBG in/IN a/DT partially/RB known/JJ environment/NN ./.
+Global/JJ path/NN planning/NN is/VBZ performed/VBN by/IN first/JJ using/VBG a/DT spatial/JJ database/NN of/IN the/DT region/NN to/TO be/VB traversed/VBN containing/VBG selected/VBN attributes/NNS such/JJ as/IN height/NN data/NNS and/CC soil/NN information/NN from/IN a/DT suitable/JJ spatial/JJ database/NN ./.
+The/DT database/NN is/VBZ processed/VBN using/VBG a/DT biomimetic/JJ swarm/NN algorithm/NN that/WDT is/VBZ inspired/VBN by/IN the/DT nest/NN building/NN strategies/NNS followed/VBN by/IN termites/NNS ./.
+Local/JJ path/NN planning/NN is/VBZ performed/VBN online/JJ utilizing/VBG information/NN regarding/VBG contingencies/NNS that/WDT affect/VBP the/DT safe/JJ navigation/NN of/IN the/DT AGV/NNP from/IN various/JJ sensors/NNS ./.
+The/DT simulation/NN discussed/VBN has/VBZ been/VBN implemented/VBN on/IN the/DT open/JJ source/NN Player/NN -/HYPH Stage/NN -/HYPH Gazebo/NN platform/NN ./.

@@ -1,0 +1,10 @@
+Variational/JJ inference/NN is/VBZ an/DT umbrella/NN term/NN for/IN algorithms/NNS which/WDT cast/VBD Bayesian/JJ inference/NN as/IN optimization/NN ./.
+Classically/RB ,/, variational/JJ inference/NN uses/VBZ the/DT Kullback/NNP -/HYPH Leibler/NNP divergence/NN to/TO define/VB the/DT optimization/NN ./.
+Though/IN this/DT divergence/NN has/VBZ been/VBN widely/RB used/VBN ,/, the/DT resultant/JJ posterior/JJ approximation/NN can/MD suffer/VB from/IN undesirable/JJ statistical/JJ properties/NNS ./.
+To/TO address/VB this/DT ,/, we/PRP reexamine/VBP variational/JJ inference/NN from/IN its/PRP$ roots/NNS as/IN an/DT optimization/NN problem/NN ./.
+We/PRP use/VBP operators/NNS ,/, or/CC functions/NNS of/IN functions/NNS ,/, to/TO design/VB variational/JJ objectives/NNS ./.
+As/IN one/CD example/NN ,/, we/PRP design/VBP a/DT variational/JJ objective/NN with/IN a/DT Langevin/NNP -/HYPH Stein/NNP operator/NN ./.
+We/PRP develop/VBP a/DT black/JJ box/NN algorithm/NN ,/, operator/NN variational/JJ inference/NN (/-LRB- OPVI/NN )/-RRB- ,/, for/IN optimizing/VBG any/DT operator/NN objective/NN ./.
+Importantly/RB ,/, operators/NNS enable/VBP us/PRP to/TO make/VB explicit/JJ the/DT statistical/JJ and/CC computational/JJ tradeoffs/NNS for/IN variational/JJ inference/NN ./.
+We/PRP can/MD characterize/VB different/JJ properties/NNS of/IN variational/JJ objectives/NNS ,/, such/JJ as/IN objectives/NNS that/WDT admit/VBP data/NNS subsampling/VBG ---/, allowing/VBG inference/NN to/TO scale/VB to/IN massive/JJ data/NNS ---/NFP as/RB well/RB as/IN objectives/NNS that/WDT admit/VBP variational/JJ programs/NNS ---/, a/DT rich/JJ class/NN of/IN posterior/JJ approximations/NNS that/WDT does/VBZ not/RB require/VB a/DT tractable/JJ density/NN ./.
+We/PRP illustrate/VBP the/DT benefits/NNS of/IN OPVI/NN on/IN a/DT mixture/NN model/NN and/CC a/DT generative/JJ model/NN of/IN images/NNS ./.

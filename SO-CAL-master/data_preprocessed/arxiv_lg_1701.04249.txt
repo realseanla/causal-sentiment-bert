@@ -1,0 +1,4 @@
+We/PRP introduce/VBP a/DT library/NN of/IN geometric/JJ voxel/NN features/NNS for/IN CAD/NNP surface/NN recognition/NN //HYPH retrieval/NN tasks/NNS ./.
+Our/PRP$ features/NNS include/VBP local/JJ versions/NNS of/IN the/DT intrinsic/JJ volumes/NNS (/-LRB- the/DT usual/JJ 3D/NN volume/NN ,/, surface/NN area/NN ,/, integrated/VBN mean/NN and/CC Gaussian/JJ curvature/NN )/-RRB- and/CC a/DT few/JJ closely/RB related/JJ quantities/NNS ./.
+We/PRP also/RB compute/VBP Haar/NNP wavelet/NN and/CC statistical/JJ distribution/NN features/NNS by/IN aggregating/VBG raw/JJ voxel/NN features/NNS ./.
+We/PRP apply/VBP our/PRP$ features/NNS to/IN object/NN classification/NN on/IN the/DT ESB/NNP data/NNS set/NN and/CC demonstrate/VBP accurate/JJ results/NNS with/IN a/DT small/JJ number/NN of/IN shallow/JJ decision/NN trees/NNS ./.

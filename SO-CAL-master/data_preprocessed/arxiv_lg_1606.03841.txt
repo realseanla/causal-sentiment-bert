@@ -1,0 +1,8 @@
+The/DT use/NN of/IN convex/NN regularizers/NNS allow/VBP for/IN easy/JJ optimization/NN ,/, though/IN they/PRP often/RB produce/VBP biased/VBN estimation/NN and/CC inferior/JJ prediction/NN performance/NN ./.
+Recently/RB ,/, nonconvex/JJ regularizers/NNS have/VBP attracted/VBN a/DT lot/NN of/IN attention/NN and/CC outperformed/VBD convex/JJ ones/NNS ./.
+However/RB ,/, the/DT resultant/JJ optimization/NN problem/NN is/VBZ much/RB harder/JJR ./.
+In/IN this/DT paper/NN ,/, for/IN a/DT large/JJ class/NN of/IN nonconvex/JJ regularizers/NNS ,/, we/PRP propose/VBP to/TO move/VB the/DT nonconvexity/NN from/IN the/DT regularizer/NN to/IN the/DT loss/NN ./.
+The/DT nonconvex/JJ regularizer/NN is/VBZ then/RB transformed/VBN to/IN a/DT familiar/JJ convex/NN regularizer/NN ,/, while/IN the/DT resultant/JJ loss/NN function/NN can/MD still/RB be/VB guaranteed/VBN to/TO be/VB smooth/JJ ./.
+Learning/VBG with/IN the/DT convexified/JJ regularizer/NN can/MD be/VB performed/VBN by/IN existing/VBG efficient/JJ algorithms/NNS originally/RB designed/VBN for/IN convex/NN regularizers/NNS (/-LRB- such/JJ as/IN the/DT standard/JJ proximal/JJ algorithm/NN and/CC Frank/NNP -/HYPH Wolfe/NNP algorithm/NN )/-RRB- ./.
+Moreover/RB ,/, it/PRP can/MD be/VB shown/VBN that/IN critical/JJ points/NNS of/IN the/DT transformed/VBN problem/NN are/VBP also/RB critical/JJ points/NNS of/IN the/DT original/JJ problem/NN ./.
+Extensive/JJ experiments/NNS on/IN a/DT number/NN of/IN nonconvex/JJ regularization/NN problems/NNS show/VBP that/IN the/DT proposed/VBN procedure/NN is/VBZ much/JJ faster/JJR than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN nonconvex/NN solvers/NNS ./.

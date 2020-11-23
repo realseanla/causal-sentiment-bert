@@ -1,0 +1,7 @@
+Conditional/JJ Random/NNP Field/NNP (/-LRB- CRF/NNP )/-RRB- and/CC recurrent/JJ neural/JJ models/NNS have/VBP achieved/VBN success/NN in/IN structured/JJ prediction/NN ./.
+More/RBR recently/RB ,/, there/EX is/VBZ a/DT marriage/NN of/IN CRF/NNP and/CC recurrent/JJ neural/JJ models/NNS ,/, so/IN that/IN we/PRP can/MD gain/VB from/IN both/DT non-linear/JJ dense/JJ features/NNS and/CC globally/RB normalized/VBN CRF/NNP objective/NN ./.
+These/DT recurrent/JJ neural/JJ CRF/NNP models/NNS mainly/RB focus/VBP on/IN encode/VBP node/NN features/NNS in/IN CRF/NNP undirected/JJ graphs/NNS ./.
+However/RB ,/, edge/NN features/NNS prove/VBP important/JJ to/IN CRF/NNP in/IN structured/JJ prediction/NN ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP a/DT new/JJ recurrent/JJ neural/JJ CRF/NNP model/NN ,/, which/WDT learns/VBZ non-linear/JJ edge/NN features/NNS ,/, and/CC thus/RB makes/VBZ non-linear/JJ features/NNS encoded/VBN completely/RB ./.
+We/PRP compare/VBP our/PRP$ model/NN with/IN different/JJ neural/JJ models/NNS in/RB well/RB -/HYPH known/VBN structured/JJ prediction/NN tasks/NNS ./.
+Experiments/NNS show/VBP that/IN our/PRP$ model/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS in/IN NP/NNP chunking/VBG ,/, shallow/JJ parsing/VBG ,/, Chinese/JJ word/NN segmentation/NN and/CC POS/NN tagging/NN ./.

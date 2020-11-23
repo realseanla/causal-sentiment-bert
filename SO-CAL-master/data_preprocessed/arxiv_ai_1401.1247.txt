@@ -1,0 +1,7 @@
+Exchangeability/NN is/VBZ a/DT central/JJ notion/NN in/IN statistics/NNS and/CC probability/NN theory/NN ./.
+The/DT assumption/NN that/IN an/DT infinite/JJ sequence/NN of/IN data/NNS points/NNS is/VBZ exchangeable/JJ is/VBZ at/IN the/DT core/NN of/IN Bayesian/JJ statistics/NNS ./.
+However/RB ,/, finite/JJ exchangeability/NN as/IN a/DT statistical/JJ property/NN that/WDT renders/VBZ probabilistic/JJ inference/NN tractable/JJ is/VBZ less/RBR well/RB -/HYPH understood/VBN ./.
+We/PRP develop/VBP a/DT theory/NN of/IN finite/JJ exchangeability/NN and/CC its/PRP$ relation/NN to/IN tractable/JJ probabilistic/JJ inference/NN ./.
+The/DT theory/NN is/VBZ complementary/JJ to/IN that/DT of/IN independence/NN and/CC conditional/JJ independence/NN ./.
+We/PRP show/VBP that/IN tractable/JJ inference/NN in/IN probabilistic/JJ models/NNS with/IN high/JJ treewidth/NN and/CC millions/NNS of/IN variables/NNS can/MD be/VB understood/VBN using/VBG the/DT notion/NN of/IN finite/NN (/-LRB- partial/JJ )/-RRB- exchangeability/NN ./.
+We/PRP also/RB show/VBP that/IN existing/VBG lifted/VBN inference/NN algorithms/NNS implicitly/RB utilize/VBP a/DT combination/NN of/IN conditional/JJ independence/NN and/CC partial/JJ exchangeability/NN ./.

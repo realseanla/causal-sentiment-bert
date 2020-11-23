@@ -1,0 +1,4 @@
+A series of monte carlo studies were performed to compare the behavior of some alternative procedures for reasoning under uncertainty.
+The behavior of several Bayesian, linear model and default reasoning procedures were examined in the context of increasing levels of calibration error.
+The most interesting result is that Bayesian procedures tended to output more extreme posterior belief values (posterior beliefs near 0.0 or 1.0) than other techniques, but the linear models were relatively less likely to output strong support for an erroneous conclusion.
+Also, accounting for the probabilistic dependencies between evidence items was important for both Bayesian and linear updating procedures.

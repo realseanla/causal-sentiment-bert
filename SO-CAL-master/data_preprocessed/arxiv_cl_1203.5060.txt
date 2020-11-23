@@ -1,0 +1,6 @@
+We/PRP describe/VBP the/DT University/NNP of/IN Sheffield/NNP system/NN used/VBN in/IN the/DT TempEval/NNP -/HYPH 2/CD challenge/NN ,/, USFD2/NN ./.
+The/DT challenge/NN requires/VBZ the/DT automatic/JJ identification/NN of/IN temporal/JJ entities/NNS and/CC relations/NNS in/IN text/NN ./.
+USFD2/NN identifies/VBZ and/CC anchors/NNS temporal/JJ expressions/NNS ,/, and/CC also/RB attempts/VBZ two/CD of/IN the/DT four/CD temporal/JJ relation/NN assignment/NN tasks/NNS ./.
+A/DT rule/NN -/HYPH based/VBN system/NN picks/VBZ out/RP and/CC anchors/NNS temporal/JJ expressions/NNS ,/, and/CC a/DT maximum/JJ entropy/NN classifier/NN assigns/VBZ temporal/JJ link/NN labels/NNS ,/, based/VBN on/IN features/NNS that/WDT include/VBP descriptions/NNS of/IN associated/VBN temporal/JJ signal/NN words/NNS ./.
+USFD2/NN identified/VBD temporal/JJ expressions/NNS successfully/RB ,/, and/CC correctly/RB classified/VBN their/PRP$ type/NN in/IN 90/CD percent/NN of/IN cases/NNS ./.
+Determining/VBG the/DT relation/NN between/IN an/DT event/NN and/CC time/NN expression/NN in/IN the/DT same/JJ sentence/NN was/VBD performed/VBN at/IN 63/CD percent/NN accuracy/NN ,/, the/DT second/JJ highest/JJS score/NN in/IN this/DT part/NN of/IN the/DT challenge/NN ./.

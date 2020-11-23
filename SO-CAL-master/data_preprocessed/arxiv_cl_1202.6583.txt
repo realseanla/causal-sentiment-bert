@@ -1,0 +1,3 @@
+Lexical/JJ ambiguities/NNS naturally/RB arise/VBP in/IN languages/NNS ./.
+We/PRP present/VBP Lamb/NNP ,/, a/DT lexical/JJ analyzer/NN that/WDT produces/VBZ a/DT lexical/JJ analysis/NN graph/NN describing/VBG all/PDT the/DT possible/JJ sequences/NNS of/IN tokens/NNS that/WDT can/MD be/VB found/VBN within/IN the/DT input/NN string/NN ./.
+Parsers/NNS can/MD process/VB such/JJ lexical/JJ analysis/NN graphs/NNS and/CC discard/VB any/DT sequence/NN of/IN tokens/NNS that/WDT does/VBZ not/RB produce/VB a/DT valid/JJ syntactic/JJ sentence/NN ,/, therefore/RB performing/VBG ,/, together/RB with/IN Lamb/NNP ,/, a/DT context/NN -/HYPH sensitive/JJ lexical/JJ analysis/NN in/IN lexically/RB -/HYPH ambiguous/JJ language/NN specifications/NNS ./.

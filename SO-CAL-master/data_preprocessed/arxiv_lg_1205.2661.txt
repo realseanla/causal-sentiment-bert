@@ -1,0 +1,4 @@
+We/PRP provide/VBP an/DT algorithm/NN that/WDT achieves/VBZ the/DT optimal/JJ regret/NN rate/NN in/IN an/DT unknown/JJ weakly/RB communicating/VBG Markov/NNP Decision/NN Process/NN (/-LRB- MDP/NN )/-RRB- ./.
+The/DT algorithm/NN proceeds/VBZ in/IN episodes/NNS where/WRB ,/, in/IN each/DT episode/NN ,/, it/PRP picks/VBZ a/DT policy/NN using/VBG regularization/NN based/VBN on/IN the/DT span/NN of/IN the/DT optimal/JJ bias/NN vector/NN ./.
+For/IN an/DT MDP/NN with/IN S/NN states/NNS and/CC A/DT actions/NNS whose/WP$ optimal/JJ bias/NN vector/NN has/VBZ span/NN bounded/VBN by/IN H/NN ,/, we/PRP show/VBP a/DT regret/NN bound/VBN of/IN ~/SYM O/NN (/-LRB- HSpAT/NN )/-RRB- ./.
+We/PRP also/RB relate/VBP the/DT span/NN to/IN various/JJ diameter/NN -/HYPH like/JJ quantities/NNS associated/VBN with/IN the/DT MDP/NNP ,/, demonstrating/VBG how/WRB our/PRP$ results/NNS improve/VB on/IN previous/JJ regret/NN bounds/NNS ./.

@@ -1,0 +1,6 @@
+Sentence/NN extraction/NN based/VBN summarization/NN methods/NNS has/VBZ some/DT limitations/NNS as/IN it/PRP does/VBZ n't/RB go/VB into/IN the/DT semantics/NNS of/IN the/DT document/NN ./.
+Also/RB ,/, it/PRP lacks/VBZ the/DT capability/NN of/IN sentence/NN generation/NN which/WDT is/VBZ intuitive/JJ to/IN humans/NNS ./.
+Here/RB we/PRP present/VBP a/DT novel/JJ method/NN to/TO summarize/VB text/NN documents/NNS taking/VBG the/DT process/NN to/IN semantic/JJ levels/NNS with/IN the/DT use/NN of/IN WordNet/NNP and/CC other/JJ resources/NNS ,/, and/CC using/VBG a/DT technique/NN for/IN sentence/NN generation/NN ./.
+We/PRP involve/VBP semantic/JJ role/NN labeling/NN to/TO get/VB the/DT semantic/JJ representation/NN of/IN text/NN and/CC use/NN of/IN segmentation/NN to/TO form/VB clusters/NNS of/IN the/DT related/JJ pieces/NNS of/IN text/NN ./.
+Picking/VBG out/RP the/DT centroids/NNS and/CC sentence/NN generation/NN completes/VBZ the/DT task/NN ./.
+We/PRP evaluate/VBP our/PRP$ system/NN against/IN human/JJ composed/VBN summaries/NNS and/CC also/RB present/VBP an/DT evaluation/NN done/VBN by/IN humans/NNS to/TO measure/VB the/DT quality/NN attributes/NNS of/IN our/PRP$ summaries/NNS ./.

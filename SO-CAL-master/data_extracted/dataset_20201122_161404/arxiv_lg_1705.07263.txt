@@ -1,0 +1,4 @@
+Neural networks are known to be vulnerable to adversarial examples: inputs that are close to valid inputs but classified incorrectly.
+We investigate the security of ten recent proposals that are designed to detect adversarial examples.
+We show that all can be defeated, even when the adversary does not know the exact parameters of the detector.
+We conclude that adversarial examples are significantly harder to detect than previously appreciated, and we propose several guidelines for evaluating future proposed defenses.

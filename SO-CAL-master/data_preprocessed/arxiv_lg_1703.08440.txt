@@ -1,0 +1,9 @@
+The/DT Tabu/NNP Search/NNP (/-LRB- TS/NNP )/-RRB- metaheuristic/NN has/VBZ been/VBN proposed/VBN for/IN K/NNP -/HYPH Means/NNP clustering/NN as/IN an/DT alternative/NN to/IN Lloyd/NNP 's/POS algorithm/NN ,/, which/WDT for/IN all/PDT its/PRP$ ease/NN of/IN implementation/NN and/CC fast/JJ runtime/NN ,/, has/VBZ the/DT major/JJ drawback/NN of/IN being/VBG trapped/VBN at/IN local/JJ optima/NN ./.
+While/IN the/DT TS/NNP approach/NN can/MD yield/VB superior/JJ performance/NN ,/, it/PRP involves/VBZ a/DT high/JJ computational/JJ complexity/NN ./.
+Moreover/RB ,/, the/DT difficulty/NN in/IN parameter/NN selection/NN in/IN the/DT existing/VBG TS/NNP approach/NN does/VBZ not/RB make/VB it/PRP any/DT more/RBR attractive/JJ ./.
+This/DT paper/NN presents/VBZ an/DT alternative/NN ,/, low/JJ -/HYPH complexity/NN formulation/NN of/IN the/DT TS/NNP optimization/NN procedure/NN for/IN K/NNP -/HYPH Means/NNP clustering/NN ./.
+This/DT approach/NN does/VBZ not/RB require/VB many/JJ parameter/NN settings/NNS ./.
+We/PRP initially/RB constrain/VBP the/DT centers/NNS to/IN points/NNS in/IN the/DT dataset/NN ./.
+We/PRP then/RB aim/VBP at/IN evolving/VBG these/DT centers/NNS using/VBG a/DT unique/JJ neighborhood/NN structure/NN that/WDT makes/VBZ use/NN of/IN gradient/NN information/NN of/IN the/DT objective/JJ function/NN ./.
+This/DT results/VBZ in/IN an/DT efficient/JJ exploration/NN of/IN the/DT search/NN space/NN ,/, after/IN which/WDT the/DT means/NNS are/VBP refined/VBN ./.
+The/DT proposed/VBN scheme/NN is/VBZ implemented/VBN in/IN MATLAB/NNP and/CC tested/VBN on/IN four/CD real/JJ -/HYPH world/NN datasets/NNS ,/, and/CC it/PRP achieves/VBZ a/DT significant/JJ improvement/NN over/IN the/DT existing/VBG TS/NNP approach/NN in/IN terms/NNS of/IN the/DT intra/AFX cluster/VBP sum/NN of/IN squares/NNS and/CC computational/JJ time/NN ./.

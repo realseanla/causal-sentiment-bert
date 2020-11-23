@@ -1,0 +1,4 @@
+Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNNs/NNS )/-RRB- are/VBP extensively/RB used/VBN in/IN image/NN and/CC video/NN recognition/NN ,/, natural/JJ language/NN processing/NN and/CC other/JJ machine/NN learning/NN applications/NNS ./.
+The/DT success/NN of/IN CNNs/NNS in/IN these/DT areas/NNS corresponds/VBZ with/IN a/DT significant/JJ increase/NN in/IN the/DT number/NN of/IN parameters/NNS and/CC computation/NN costs/NNS ./.
+Recent/JJ approaches/NNS towards/IN reducing/VBG these/DT overheads/NNS involve/VBP pruning/NN and/CC compressing/VBG the/DT weights/NNS of/IN various/JJ layers/NNS without/IN hurting/VBG the/DT overall/JJ CNN/NNP performance/NN ./.
+However/RB ,/, using/VBG model/NN compression/NN to/TO generate/VB sparse/JJ CNNs/NNS mostly/RB reduces/VBZ parameters/NNS from/IN the/DT fully/RB connected/JJ layers/NNS and/CC may/MD not/RB significantly/RB reduce/VB the/DT final/JJ computation/NN costs/NNS ./.

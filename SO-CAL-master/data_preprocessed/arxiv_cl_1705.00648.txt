@@ -1,0 +1,9 @@
+Automatic/JJ fake/JJ news/NN detection/NN is/VBZ a/DT challenging/JJ problem/NN in/IN deception/NN detection/NN ,/, and/CC it/PRP has/VBZ tremendous/JJ real/JJ -/HYPH world/NN political/JJ and/CC social/JJ impacts/NNS ./.
+However/RB ,/, statistical/JJ approaches/NNS to/IN combating/VBG fake/JJ news/NN has/VBZ been/VBN dramatically/RB limited/VBN by/IN the/DT lack/NN of/IN labeled/VBN benchmark/NN datasets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP liar/NN :/: a/DT new/JJ ,/, publicly/RB available/JJ dataset/NN for/IN fake/JJ news/NN detection/NN ./.
+We/PRP collected/VBD a/DT decade/NN -/HYPH long/JJ ,/, 12.8/CD K/NN manually/RB labeled/VBN short/JJ statements/NNS in/IN various/JJ contexts/NNS from/IN PolitiFact.com/NNP ,/, which/WDT provides/VBZ detailed/JJ analysis/NN report/NN and/CC links/NNS to/IN source/NN documents/NNS for/IN each/DT case/NN ./.
+This/DT dataset/NN can/MD be/VB used/VBN for/IN fact/NN -/HYPH checking/VBG research/NN as/RB well/RB ./.
+Notably/RB ,/, this/DT new/JJ dataset/NN is/VBZ an/DT order/NN of/IN magnitude/NN larger/JJR than/IN previously/RB largest/JJS public/JJ fake/JJ news/NN datasets/NNS of/IN similar/JJ type/NN ./.
+Empirically/RB ,/, we/PRP investigate/VBP automatic/JJ fake/JJ news/NN detection/NN based/VBN on/IN surface/NN -/HYPH level/NN linguistic/JJ patterns/NNS ./.
+We/PRP have/VBP designed/VBN a/DT novel/NN ,/, hybrid/NN convolutional/JJ neural/JJ network/NN to/TO integrate/VB meta/NN -/HYPH data/NNS with/IN text/NN ./.
+We/PRP show/VBP that/IN this/DT hybrid/NN approach/NN can/MD improve/VB a/DT text/NN -/HYPH only/JJ deep/JJ learning/NN model/NN ./.

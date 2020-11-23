@@ -1,0 +1,6 @@
+We/PRP describe/VBP and/CC analyze/VBP a/DT simple/JJ and/CC effective/JJ algorithm/NN for/IN sequence/NN segmentation/NN applied/VBD to/IN speech/NN processing/NN tasks/NNS ./.
+We/PRP propose/VBP a/DT neural/JJ architecture/NN that/WDT is/VBZ composed/VBN of/IN two/CD modules/NNS trained/VBN jointly/RB :/: a/DT recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- module/NN and/CC a/DT structured/JJ prediction/NN model/NN ./.
+The/DT RNN/NN outputs/NNS are/VBP considered/VBN as/IN feature/NN functions/VBZ to/IN the/DT structured/JJ model/NN ./.
+The/DT overall/JJ model/NN is/VBZ trained/VBN with/IN a/DT structured/JJ loss/NN function/NN which/WDT can/MD be/VB designed/VBN to/IN the/DT given/VBN segmentation/NN task/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ method/NN by/IN applying/VBG it/PRP to/IN two/CD simple/JJ tasks/NNS commonly/RB used/VBN in/IN phonetic/JJ studies/NNS :/: word/NN segmentation/NN and/CC voice/NN onset/NN time/NN segmentation/NN ./.
+Results/NNS sug/NN -/HYPH gest/NN the/DT proposed/VBN model/NN is/VBZ superior/JJ to/IN previous/JJ methods/NNS ,/, ob/NN -/HYPH taining/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN the/DT tested/VBN datasets/NNS ./.

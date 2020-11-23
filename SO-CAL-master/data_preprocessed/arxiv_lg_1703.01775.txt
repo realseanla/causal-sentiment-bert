@@ -1,0 +1,9 @@
+In/IN this/DT work/NN ,/, we/PRP build/VBP a/DT generic/JJ architecture/NN of/IN Convolutional/JJ Neural/JJ Networks/NNS to/TO discover/VB empirical/JJ properties/NNS of/IN neural/JJ networks/NNS ./.
+Our/PRP$ first/JJ contribution/NN is/VBZ to/TO introduce/VB a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN framework/NN that/WDT depends/VBZ upon/IN few/JJ hyper/JJ parameters/NNS and/CC to/TO study/VB the/DT network/NN when/WRB we/PRP vary/VBP them/PRP ./.
+It/PRP has/VBZ no/DT max/NN pooling/VBG ,/, no/DT biases/NNS ,/, only/RB 13/CD layers/NNS ,/, is/VBZ purely/RB convolutional/JJ and/CC yields/VBZ up/RP to/IN 95.4/CD percent/NN and/CC 79.6/CD percent/NN accuracy/NN respectively/RB on/IN CIFAR10/NN and/CC CIFAR100/NN ./.
+We/PRP show/VBP that/IN the/DT nonlinearity/NN of/IN a/DT deep/JJ network/NN does/VBZ not/RB need/VB to/TO be/VB continuous/JJ ,/, non/AFX expansive/JJ or/CC point-wise/JJ ,/, to/TO achieve/VB good/JJ performance/NN ./.
+We/PRP show/VBP that/IN increasing/VBG the/DT width/NN of/IN our/PRP$ network/NN permits/VBZ being/VBG competitive/JJ with/IN very/RB deep/JJ networks/NNS ./.
+Our/PRP$ second/JJ contribution/NN is/VBZ an/DT analysis/NN of/IN the/DT contraction/NN and/CC separation/NN properties/NNS of/IN this/DT network/NN ./.
+Indeed/RB ,/, a/DT 1/CD -/HYPH nearest/JJS neighbor/NN classifier/NN applied/VBD on/IN deep/JJ features/NNS progressively/RB improves/VBZ with/IN depth/NN ,/, which/WDT indicates/VBZ that/IN the/DT representation/NN is/VBZ progressively/RB more/RBR regular/JJ ./.
+Besides/RB ,/, we/PRP defined/VBD and/CC analyzed/VBD local/JJ support/NN vectors/NNS that/WDT separate/VBP classes/NNS locally/RB ./.
+All/PDT our/PRP$ experiments/NNS are/VBP reproducible/JJ and/CC code/NN is/VBZ available/JJ online/RB ,/, based/VBN on/IN TensorFlow/NNP ./.

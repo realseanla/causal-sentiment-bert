@@ -1,0 +1,7 @@
+This/DT paper/NN explores/VBZ algorithms/NNS for/IN processing/VBG probabilistic/JJ and/CC deterministic/JJ information/NN when/WRB the/DT former/JJ is/VBZ represented/VBN as/IN a/DT belief/NN network/NN and/CC the/DT latter/JJ as/IN a/DT set/NN of/IN boolean/JJ clauses/NNS ./.
+The/DT motivating/VBG tasks/NNS are/VBP 1/CD ./.
+evaluating/VBG beliefs/NNS networks/NNS having/VBG a/DT large/JJ number/NN of/IN deterministic/JJ relationships/NNS and2/NN ./.
+evaluating/VBG probabilities/NNS of/IN complex/JJ boolean/JJ querie/NN over/IN a/DT belief/NN network/NN ./.
+We/PRP propose/VBP a/DT parameterized/JJ family/NN of/IN variable/JJ elimination/NN algorithms/NNS that/WDT exploit/VBP both/DT types/NNS of/IN information/NN ,/, and/CC that/DT allows/VBZ varying/VBG levels/NNS of/IN constraint/NN propagation/NN inferences/NNS ./.
+The/DT complexity/NN of/IN the/DT scheme/NN is/VBZ controlled/VBN by/IN the/DT induced/VBN -/HYPH width/NN of/IN the/DT graph/NN {/-LRB- em/PRP augmented/VBD }/-RRB- by/IN the/DT dependencies/NNS introduced/VBN by/IN the/DT boolean/JJ constraints/NNS ./.
+Preliminary/JJ empirical/JJ evaluation/NN demonstrate/VBP the/DT effect/NN of/IN constraint/NN propagation/NN on/IN probabilistic/JJ computation/NN ./.

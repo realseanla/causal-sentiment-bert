@@ -1,0 +1,10 @@
+The/DT number/NN of/IN documents/NNS available/JJ into/IN Internet/NN moves/NNS each/DT day/NN up/RP ./.
+For/IN this/DT reason/NN ,/, processing/VBG this/DT amount/NN of/IN information/NN effectively/RB and/CC expressibly/RB becomes/VBZ a/DT major/JJ concern/NN for/IN companies/NNS and/CC scientists/NNS ./.
+Methods/NNS that/WDT represent/VBP a/DT textual/JJ document/NN by/IN a/DT topic/NN representation/NN are/VBP widely/RB used/VBN in/IN Information/NNP Retrieval/NNP (/-LRB- IR/NN )/-RRB- to/TO process/VB big/JJ data/NNS such/JJ as/IN Wikipedia/NNP articles/NNS ./.
+One/CD of/IN the/DT main/JJ difficulty/NN in/IN using/VBG topic/NN model/NN on/IN huge/JJ data/NNS collection/NN is/VBZ related/VBN to/IN the/DT material/NN resources/NNS (/-LRB- CPU/NN time/NN and/CC memory/NN )/-RRB- required/VBN for/IN model/NN estimate/NN ./.
+To/TO deal/VB with/IN this/DT issue/NN ,/, we/PRP propose/VBP to/TO build/VB topic/NN spaces/NNS from/IN summarized/VBN documents/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT study/NN of/IN topic/NN space/NN representation/NN in/IN the/DT context/NN of/IN big/JJ data/NNS ./.
+The/DT topic/NN space/NN representation/NN behavior/NN is/VBZ analyzed/VBN on/IN different/JJ languages/NNS ./.
+Experiments/NNS show/VBP that/IN topic/NN spaces/NNS estimated/VBN from/IN text/NN summaries/NNS are/VBP as/IN relevant/JJ as/IN those/DT estimated/VBN from/IN the/DT complete/JJ documents/NNS ./.
+The/DT real/JJ advantage/NN of/IN such/PDT an/DT approach/NN is/VBZ the/DT processing/NN time/NN gain/NN :/: we/PRP showed/VBD that/IN the/DT processing/NN time/NN can/MD be/VB drastically/RB reduced/VBN using/VBG summarized/VBN documents/NNS (/-LRB- more/JJR than/IN 60/CD \/SYM percent/NN in/IN general/JJ )/-RRB- ./.
+This/DT study/NN finally/RB points/VBZ out/RP the/DT differences/NNS between/IN thematic/JJ representations/NNS of/IN documents/NNS depending/VBG on/IN the/DT targeted/VBN languages/NNS such/JJ as/IN English/NNP or/CC latin/JJ languages/NNS ./.

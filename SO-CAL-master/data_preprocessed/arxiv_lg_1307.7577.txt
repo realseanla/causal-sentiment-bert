@@ -1,0 +1,8 @@
+The/DT model/NN selected/VBN by/IN sparse/JJ learning/NN techniques/NNS usually/RB has/VBZ a/DT few/JJ non-zero/JJ entries/NNS ./.
+Safe/JJ screening/NN ---/, which/WDT eliminates/VBZ the/DT features/NNS that/WDT are/VBP guaranteed/VBN to/TO be/VB absent/JJ for/IN a/DT target/NN regularization/NN parameter/NN based/VBN on/IN an/DT existing/VBG solution/NN ---/, is/VBZ a/DT technique/NN for/IN improving/VBG the/DT computational/JJ efficiency/NN while/IN maintaining/VBG the/DT same/JJ solution/NN ./.
+In/IN this/DT note/NN ,/, we/PRP propose/VBP an/DT approach/NN called/VBD Sasvi/NNP (/-LRB- Safe/NNP screening/NN with/IN variational/JJ inequalities/NNS )/-RRB- and/CC take/VB LASSO/NN for/IN example/NN in/IN the/DT analysis/NN ./.
+Sasvi/NNP makes/VBZ use/NN of/IN the/DT variational/JJ inequalities/NNS which/WDT provide/VBP the/DT sufficient/JJ and/CC necessary/JJ optimality/NN conditions/NNS for/IN the/DT dual/JJ problem/NN ./.
+The/DT existing/VBG approaches/NNS can/MD be/VB casted/VBN as/IN relaxed/JJ versions/NNS of/IN the/DT proposed/VBN Sasvi/NNP ,/, and/CC thus/RB Sasvi/NNP provides/VBZ a/DT much/RB stronger/JJR screening/NN rule/NN ./.
+The/DT monotone/JJ properties/NNS of/IN Sasvi/NNP are/VBP studied/VBN based/VBN on/IN which/WDT a/DT sure/JJ removal/NN regularization/NN parameter/NN can/MD be/VB identified/VBN for/IN each/DT feature/NN ./.
+In/IN addition/NN ,/, the/DT proposed/VBN Sasvi/NNP is/VBZ readily/RB extended/VBN for/IN solving/VBG the/DT generalized/VBN sparse/JJ linear/JJ models/NNS ./.
+Preliminary/JJ experimental/JJ results/NNS are/VBP reported/VBN ./.

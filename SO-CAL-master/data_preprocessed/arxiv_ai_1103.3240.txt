@@ -1,0 +1,12 @@
+Constraint/NN satisfaction/NN problems/NNS (/-LRB- CSPs/NNS )/-RRB- lie/VBP at/IN the/DT heart/NN of/IN many/JJ modern/JJ industrial/JJ and/CC commercial/JJ tasks/NNS ./.
+An/DT important/JJ new/JJ collection/NN of/IN CSPs/NNS has/VBZ recently/RB been/VBN emerging/VBG that/DT differ/VBP from/IN classical/JJ problems/NNS in/IN that/IN they/PRP impose/VBP constraints/NNS on/IN the/DT class/NN of/IN algorithms/NNS that/WDT can/MD be/VB used/VBN to/TO solve/VB them/PRP ./.
+In/IN computer/NN network/NN applications/NNS ,/, these/DT constraints/NNS arise/VBP as/IN the/DT variables/NNS within/IN the/DT CSP/NNP are/VBP located/VBN at/IN physically/RB distinct/JJ devices/NNS that/WDT can/MD not/RB communicate/VB ./.
+At/IN each/DT instant/NN ,/, every/DT variable/NN only/RB knows/VBZ if/IN all/DT its/PRP$ constraints/NNS are/VBP met/VBN or/CC at/RB least/RBS one/CD is/VBZ not/RB ./.
+Consequently/RB ,/, the/DT CSP/NNP 's/POS solution/NN must/MD be/VB found/VBN using/VBG a/DT decentralized/VBN approach/NN ./.
+Existing/VBG algorithms/NNS for/IN solving/VBG CSPs/NNS are/VBP either/RB centralized/JJ or/CC distributed/VBN ,/, both/DT of/IN which/WDT violate/VBP these/DT algorithmic/JJ constraints/NNS ./.
+In/IN this/DT article/NN we/PRP present/VBP the/DT first/JJ algorithm/NN for/IN solving/VBG CSPs/NNS that/WDT fulfills/VBZ these/DT new/JJ requirements/NNS ./.
+It/PRP is/VBZ fully/RB decentralized/VBN ,/, making/VBG no/DT use/NN of/IN a/DT centralized/JJ controller/NN or/CC message/NN -/HYPH passing/VBG between/IN variables/NNS ./.
+We/PRP prove/VBP that/IN this/DT algorithm/NN converges/VBZ with/IN probability/NN one/CD to/IN a/DT satisfying/JJ assignment/NN whenever/WRB one/CD exists/VBZ ./.
+Surprisingly/RB ,/, we/PRP experimentally/RB demonstrate/VBP that/IN the/DT time/NN the/DT algorithm/NN takes/VBZ to/TO find/VB a/DT satisfying/JJ assignment/NN is/VBZ competitive/JJ with/IN both/CC WalkSat/NNP and/CC Survey/NNP Propagation/NNP ,/, two/CD popular/JJ and/CC efficient/JJ CSP/NNP solvers/NNS ./.
+That/DT is/VBZ ,/, despite/IN its/PRP$ decentralized/JJ nature/NN the/DT algorithm/NN is/VBZ remarkably/RB fast/RB ./.
+This/DT raises/VBZ new/JJ questions/NNS about/IN the/DT relationship/NN between/IN information/NN sharing/NN and/CC algorithm/NN performance/NN ./.

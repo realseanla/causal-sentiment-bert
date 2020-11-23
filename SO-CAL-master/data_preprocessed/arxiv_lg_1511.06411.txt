@@ -1,0 +1,7 @@
+Supervised/VBN training/NN of/IN deep/JJ neural/JJ nets/NNS typically/RB relies/VBZ on/IN minimizing/VBG cross-entropy/NN ./.
+However/RB ,/, in/IN many/JJ domains/NNS ,/, we/PRP are/VBP interested/JJ in/IN performing/VBG well/RB on/IN specific/JJ application/NN -/HYPH specific/JJ metrics/NNS ./.
+In/IN this/DT paper/NN we/PRP proposed/VBD a/DT direct/JJ loss/NN minimization/NN approach/NN to/IN train/NN deep/JJ neural/JJ networks/NNS ,/, taking/VBG into/IN account/NN the/DT application/NN -/HYPH specific/JJ loss/NN functions/NNS ./.
+This/DT can/MD be/VB non-trivial/JJ ,/, when/WRB these/DT functions/NNS are/VBP non-smooth/JJ and/CC non-decomposable/JJ ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN in/IN the/DT context/NN of/IN maximizing/VBG average/JJ precision/NN for/IN ranking/VBG problems/NNS ./.
+Towards/IN this/DT goal/NN ,/, we/PRP propose/VBP a/DT dynamic/JJ programming/NN algorithm/NN that/WDT can/MD efficiently/RB compute/VB the/DT weight/NN updates/NNS ./.
+Our/PRP$ approach/NN proves/VBZ superior/JJ to/IN a/DT variety/NN of/IN baselines/NNS in/IN the/DT context/NN of/IN action/NN classification/NN and/CC object/NN detection/NN ./.

@@ -1,0 +1,5 @@
+In a recent paper, we have shown that Plan Recognition over STRIPS can be formulated and solved using Classical Planning heuristics and algorithms.
+In this work, we show that this formulation subsumes the standard formulation of Plan Recognition over libraries through a compilation of libraries into STRIPS theories.
+The libraries correspond to AND/OR graphs that may be cyclic and where children of AND nodes may be partially ordered.
+These libraries include Context-Free Grammars as a special case, where the Plan Recognition problem becomes a parsing with missing tokens problem.
+Plan Recognition over the standard libraries become

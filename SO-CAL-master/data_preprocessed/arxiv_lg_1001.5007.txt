@@ -1,0 +1,10 @@
+This/DT paper/NN presents/VBZ a/DT framework/NN aimed/VBN at/IN monitoring/VBG the/DT behavior/NN of/IN aircraft/NN in/IN a/DT given/JJ airspace/NN ./.
+Nominal/JJ trajectories/NNS are/VBP determined/VBN and/CC learned/VBN using/VBG data/NNS driven/VBN methods/NNS ./.
+Standard/JJ procedures/NNS are/VBP used/VBN by/IN air/NN traffic/NN controllers/NNS (/-LRB- ATC/NN )/-RRB- to/TO guide/VB aircraft/NN ,/, ensure/VB the/DT safety/NN of/IN the/DT airspace/NN ,/, and/CC to/TO maximize/VB the/DT runway/NN occupancy/NN ./.
+Even/RB though/IN standard/JJ procedures/NNS are/VBP used/VBN by/IN ATC/NN ,/, the/DT control/NN of/IN the/DT aircraft/NN remains/VBZ with/IN the/DT pilots/NNS ,/, leading/VBG to/IN a/DT large/JJ variability/NN in/IN the/DT flight/NN patterns/NNS observed/VBN ./.
+Two/CD methods/NNS to/TO identify/VB typical/JJ operations/NNS and/CC their/PRP$ variability/NN from/IN recorded/VBN radar/NN tracks/NNS are/VBP presented/VBN ./.
+This/DT knowledge/NN base/NN is/VBZ then/RB used/VBN to/TO monitor/VB the/DT conformance/NN of/IN current/JJ operations/NNS against/IN operations/NNS previously/RB identified/VBN as/IN standard/JJ ./.
+A/DT tool/NN called/VBN AirTrajectoryMiner/NNP is/VBZ presented/VBN ,/, aiming/VBG at/IN monitoring/VBG the/DT instantaneous/JJ health/NN of/IN the/DT airspace/NN ,/, in/IN real/JJ time/NN ./.
+The/DT airspace/NN is/VBZ "/`` healthy/JJ "/'' when/WRB all/DT aircraft/NN are/VBP flying/VBG according/VBG to/IN the/DT nominal/JJ procedures/NNS ./.
+A/DT measure/NN of/IN complexity/NN is/VBZ introduced/VBN ,/, measuring/VBG the/DT conformance/NN of/IN current/JJ flight/NN to/IN nominal/JJ flight/NN patterns/NNS ./.
+When/WRB an/DT aircraft/NN does/VBZ not/RB conform/VB ,/, the/DT complexity/NN increases/VBZ as/IN more/JJR attention/NN from/IN ATC/NN is/VBZ required/VBN to/TO ensure/VB a/DT safe/JJ separation/NN between/IN aircraft/NN ./.

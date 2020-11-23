@@ -1,0 +1,8 @@
+This/DT paper/NN summarizes/VBZ the/DT work/NN done/VBN by/IN the/DT authors/NNS for/IN the/DT Zero/NNP Resource/NNP Speech/NNP Challenge/NNP organized/VBN in/IN the/DT technical/JJ program/NN of/IN Interspeech/NNP 2015/CD ./.
+The/DT goal/NN of/IN the/DT challenge/NN is/VBZ to/TO discover/VB linguistic/JJ units/NNS directly/RB from/IN unlabeled/JJ speech/NN data/NNS ./.
+The/DT Multi-layered/JJ Acoustic/JJ Tokenizer/NN (/-LRB- MAT/NN )/-RRB- proposed/VBN in/IN this/DT work/NN automatically/RB discovers/VBZ multiple/JJ sets/NNS of/IN acoustic/JJ tokens/NNS from/IN the/DT given/VBN corpus/NN ./.
+Each/DT acoustic/JJ token/NN set/NN is/VBZ specified/VBN by/IN a/DT set/NN of/IN hyperparameters/NNS that/WDT describe/VBP the/DT model/NN configuration/NN ./.
+These/DT sets/NNS of/IN acoustic/JJ tokens/NNS carry/VBP different/JJ characteristics/NNS of/IN the/DT given/VBN corpus/NN and/CC the/DT language/NN behind/IN thus/RB can/MD be/VB mutually/RB reinforced/VBN ./.
+The/DT multiple/JJ sets/NNS of/IN token/JJ labels/NNS are/VBP then/RB used/VBN as/IN the/DT targets/NNS of/IN a/DT Multi-target/NN DNN/NN (/-LRB- MDNN/NNP )/-RRB- trained/VBN on/IN low/JJ -/HYPH level/NN acoustic/JJ features/NNS ./.
+Bottleneck/NN features/VBZ extracted/VBN from/IN the/DT MDNN/NNP are/VBP used/VBN as/IN feedback/NN for/IN the/DT MAT/NN and/CC the/DT MDNN/NNP itself/PRP ./.
+We/PRP call/VBP this/DT iterative/JJ system/NN the/DT Multi-layered/JJ Acoustic/JJ Tokenizing/NN Deep/JJ Neural/JJ Network/NN (/-LRB- MAT/NN -/HYPH DNN/NN )/-RRB- which/WDT generates/VBZ high/JJ quality/NN features/NNS for/IN track/NN 1/CD of/IN the/DT challenge/NN and/CC acoustic/JJ tokens/NNS for/IN track/NN 2/CD of/IN the/DT challenge/NN ./.

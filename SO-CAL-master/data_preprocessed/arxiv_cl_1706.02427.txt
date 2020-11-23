@@ -1,0 +1,8 @@
+Understanding/VBG the/DT connections/NNS between/IN unstructured/JJ text/NN and/CC semi-structured/VBN table/NN is/VBZ an/DT important/JJ yet/CC neglected/VBN problem/NN in/IN natural/JJ language/NN processing/NN ./.
+In/IN this/DT work/NN ,/, we/PRP focus/VBP on/IN content/NN -/HYPH based/VBN table/NN retrieval/NN ./.
+Given/VBN a/DT query/NN ,/, the/DT task/NN is/VBZ to/TO find/VB the/DT most/RBS relevant/JJ table/NN from/IN a/DT collection/NN of/IN tables/NNS ./.
+Further/JJ progress/NN towards/IN improving/VBG this/DT area/NN requires/VBZ powerful/JJ models/NNS of/IN semantic/JJ matching/NN and/CC richer/JJR training/NN and/CC evaluation/NN resources/NNS ./.
+To/TO remedy/VB this/DT ,/, we/PRP present/VBP a/DT ranking/VBG based/VBN approach/NN ,/, and/CC implement/VB both/DT carefully/RB designed/VBN features/NNS and/CC neural/JJ network/NN architectures/NNS to/TO measure/VB the/DT relevance/NN between/IN a/DT query/NN and/CC the/DT content/NN of/IN a/DT table/NN ./.
+Furthermore/RB ,/, we/PRP release/VBP an/DT open/JJ -/HYPH domain/NN dataset/NN that/WDT includes/VBZ 21,113/CD web/NN queries/NNS for/IN 273,816/CD tables/NNS ./.
+We/PRP conduct/VBP comprehensive/JJ experiments/NNS on/IN both/DT real/JJ world/NN and/CC synthetic/JJ datasets/NNS ./.
+Results/NNS verify/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN and/CC present/VB the/DT challenges/NNS for/IN this/DT task/NN ./.

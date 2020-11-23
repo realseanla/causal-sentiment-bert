@@ -1,0 +1,10 @@
+Visual/JJ Question/NN Answering/VBG (/-LRB- VQA/NN )/-RRB- is/VBZ the/DT task/NN of/IN answering/VBG natural/JJ -/HYPH language/NN questions/NNS about/IN images/NNS ./.
+We/PRP introduce/VBP the/DT novel/JJ problem/NN of/IN determining/VBG the/DT relevance/NN of/IN questions/NNS to/IN images/NNS in/IN VQA/NNP ./.
+Current/JJ VQA/NN models/NNS do/VBP not/RB reason/NN about/RB whether/IN a/DT question/NN is/VBZ even/RB related/VBN to/IN the/DT given/VBN image/NN (/-LRB- e.g/FW ./.
+What/WP is/VBZ the/DT capital/NN of/IN Argentina/NNP ?/. )/-RRB-
+or/CC if/IN it/PRP requires/VBZ information/NN from/IN external/JJ resources/NNS to/TO answer/VB correctly/RB ./.
+This/DT can/MD break/VB the/DT continuity/NN of/IN a/DT dialogue/NN in/IN human/JJ -/HYPH machine/NN interaction/NN ./.
+Our/PRP$ approaches/NNS for/IN determining/VBG relevance/NN are/VBP composed/VBN of/IN two/CD stages/NNS ./.
+Given/VBN an/DT image/NN and/CC a/DT question/NN ,/, (/-LRB- 1/LS )/-RRB- we/PRP first/RB determine/VB whether/IN the/DT question/NN is/VBZ visual/JJ or/CC not/RB ,/, (/-LRB- 2/LS )/-RRB- if/IN visual/JJ ,/, we/PRP determine/VBP whether/IN the/DT question/NN is/VBZ relevant/JJ to/IN the/DT given/VBN image/NN or/CC not/RB ./.
+Our/PRP$ approaches/NNS ,/, based/VBN on/IN LSTM/NN -/HYPH RNNs/NNS ,/, VQA/NN model/NN uncertainty/NN ,/, and/CC caption/NN -/HYPH question/NN similarity/NN ,/, are/VBP able/JJ to/TO outperform/VB strong/JJ baselines/NNS on/IN both/DT relevance/NN tasks/NNS ./.
+We/PRP also/RB present/VBP human/JJ studies/NNS showing/VBG that/IN VQA/NN models/NNS augmented/VBN with/IN such/JJ question/NN relevance/NN reasoning/NN are/VBP perceived/VBN as/IN more/JJR intelligent/JJ ,/, reasonable/JJ ,/, and/CC human/JJ -/HYPH like/UH ./.

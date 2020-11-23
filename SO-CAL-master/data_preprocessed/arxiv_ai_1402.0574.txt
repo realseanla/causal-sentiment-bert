@@ -1,0 +1,6 @@
+Given/VBN a/DT current/JJ news/NN event/NN ,/, we/PRP tackle/VBP the/DT problem/NN of/IN generating/VBG plausible/JJ predictions/NNS of/IN future/JJ events/NNS it/PRP might/MD cause/VB ./.
+We/PRP present/VBP a/DT new/JJ methodology/NN for/IN modeling/NN and/CC predicting/VBG such/JJ future/JJ news/NN events/NNS using/VBG machine/NN learning/NN and/CC data/NNS mining/NN techniques/NNS ./.
+Our/PRP$ Pundit/NN algorithm/NN generalizes/VBZ examples/NNS of/IN causality/NN pairs/NNS to/TO infer/VB a/DT causality/NN predictor/NN ./.
+To/TO obtain/VB precisely/RB labeled/VBN causality/NN examples/NNS ,/, we/PRP mine/PRP 150/CD years/NNS of/IN news/NN articles/NNS and/CC apply/VB semantic/JJ natural/JJ language/NN modeling/NN techniques/NNS to/IN headlines/NNS containing/VBG certain/JJ predefined/JJ causality/NN patterns/NNS ./.
+For/IN generalization/NN ,/, the/DT model/NN uses/VBZ a/DT vast/JJ number/NN of/IN world/NN knowledge/NN ontologies/NNS ./.
+Empirical/JJ evaluation/NN on/IN real/JJ news/NN articles/NNS shows/VBZ that/IN our/PRP$ Pundit/NN algorithm/NN performs/VBZ as/RB well/RB as/IN non-expert/NN humans/NNS ./.

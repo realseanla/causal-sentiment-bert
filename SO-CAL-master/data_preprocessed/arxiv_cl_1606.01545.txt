@@ -1,0 +1,8 @@
+Discourse/NN coherence/NN is/VBZ strongly/RB associated/VBN with/IN text/NN quality/NN ,/, making/VBG it/PRP important/JJ to/IN natural/JJ language/NN generation/NN and/CC understanding/NN ./.
+Yet/CC existing/VBG models/NNS of/IN coherence/NN focus/NN on/IN individual/JJ aspects/NNS of/IN coherence/NN (/-LRB- lexical/JJ overlap/NN ,/, rhetorical/JJ structure/NN ,/, entity/NN centering/VBG )/-RRB- and/CC are/VBP trained/VBN on/IN narrow/JJ domains/NNS ./.
+We/PRP introduce/VBP algorithms/NNS that/WDT capture/VBP diverse/JJ kinds/NNS of/IN coherence/NN by/IN learning/VBG to/TO distinguish/VB coherent/JJ from/IN incoherent/JJ discourse/NN from/IN vast/JJ amounts/NNS of/IN open/JJ -/HYPH domain/NN training/NN data/NNS ./.
+We/PRP propose/VBP two/CD models/NNS ,/, one/CD discriminative/JJ and/CC one/CD generative/NN ,/, both/CC using/VBG LSTMs/NNPS as/IN the/DT backbone/NN ./.
+The/DT discriminative/JJ model/NN treats/VBZ windows/NNS of/IN sentences/NNS from/IN original/JJ human/JJ -/HYPH generated/VBN articles/NNS as/IN coherent/JJ examples/NNS and/CC windows/NNS generated/VBN by/IN randomly/RB replacing/VBG sentences/NNS as/IN incoherent/JJ examples/NNS ./.
+The/DT generative/JJ model/NN is/VBZ a/DT \/SYM sts/NNS model/NN that/WDT estimates/VBZ the/DT probability/NN of/IN generating/VBG a/DT sentence/NN given/VBN its/PRP$ contexts/NNS ./.
+Our/PRP$ models/NNS achieve/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN multiple/JJ coherence/NN evaluations/NNS ./.
+Qualitative/JJ analysis/NN suggests/VBZ that/IN our/PRP$ generative/JJ model/NN captures/VBZ many/JJ aspects/NNS of/IN coherence/NN including/VBG lexical/JJ ,/, temporal/JJ ,/, causal/JJ ,/, and/CC entity/NN -/HYPH based/VBN coherence/NN ./.

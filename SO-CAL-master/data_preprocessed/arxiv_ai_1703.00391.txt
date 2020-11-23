@@ -1,0 +1,7 @@
+An/DT increasing/VBG amount/NN of/IN information/NN is/VBZ generated/VBN from/IN the/DT rapidly/RB increasing/VBG number/NN of/IN sensor/NN networks/NNS and/CC smart/JJ devices/NNS ./.
+A/DT wide/JJ variety/NN of/IN sources/NNS generate/VBP and/CC publish/VB information/NN in/IN different/JJ formats/NNS ,/, thus/RB highlighting/VBG interoperability/NN as/IN one/CD of/IN the/DT key/JJ prerequisites/NNS for/IN the/DT success/NN of/IN Internet/NN of/IN Things/NNS (/-LRB- IoT/NN )/-RRB- ./.
+The/DT BT/NNP Hypercat/NNP Data/NNP Hub/NN provides/VBZ a/DT focal/JJ point/NN for/IN the/DT sharing/NN and/CC consumption/NN of/IN available/JJ datasets/NNS from/IN a/DT wide/JJ range/NN of/IN sources/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT semantic/JJ enrichment/NN of/IN the/DT BT/NNP Hypercat/NNP Data/NNP Hub/NNP ,/, using/VBG well/RB -/HYPH accepted/VBN Semantic/JJ Web/NN standards/NNS and/CC tools/NNS ./.
+We/PRP propose/VBP an/DT ontology/NN that/WDT captures/VBZ the/DT semantics/NNS of/IN the/DT imported/VBN data/NNS and/CC present/VB the/DT BT/NNP SPARQL/NNP Endpoint/NNP by/IN means/NNS of/IN a/DT mapping/NN between/IN SPARQL/NN and/CC SQL/NN queries/NNS ./.
+Furthermore/RB ,/, federated/JJ SPARQL/NN queries/NNS allow/VBP queries/NNS over/IN multiple/JJ hub/NN -/HYPH based/VBN and/CC external/JJ data/NNS sources/NNS ./.
+Finally/RB ,/, we/PRP provide/VBP two/CD use/VBP cases/NNS in/IN order/NN to/TO illustrate/VB the/DT advantages/NNS afforded/VBN by/IN our/PRP$ semantic/JJ approach/NN ./.

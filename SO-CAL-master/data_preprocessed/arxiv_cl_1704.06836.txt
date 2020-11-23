@@ -1,0 +1,9 @@
+Sarcasm/NN is/VBZ a/DT form/NN of/IN speech/NN in/IN which/WDT speakers/NNS say/VBP the/DT opposite/NN of/IN what/WP they/PRP truly/RB mean/VBP in/IN order/NN to/TO convey/VB a/DT strong/JJ sentiment/NN ./.
+In/IN other/JJ words/NNS ,/, "/'' Sarcasm/NN is/VBZ the/DT giant/JJ chasm/NN between/IN what/WP I/PRP say/VBP ,/, and/CC the/DT person/NN who/WP does/VBZ n't/RB get/VB it/PRP ./. "/''
+./.
+In/IN this/DT paper/NN we/PRP present/VBP the/DT novel/JJ task/NN of/IN sarcasm/NN interpretation/NN ,/, defined/VBN as/IN the/DT generation/NN of/IN a/DT non-sarcastic/JJ utterance/NN conveying/VBG the/DT same/JJ message/NN as/IN the/DT original/JJ sarcastic/JJ one/NN ./.
+We/PRP introduce/VBP a/DT novel/JJ dataset/NN of/IN 3000/CD sarcastic/JJ tweets/NNS ,/, each/DT interpreted/VBN by/IN five/CD human/JJ judges/NNS ./.
+Addressing/VBG the/DT task/NN as/IN monolingual/JJ machine/NN translation/NN (/-LRB- MT/NN )/-RRB- ,/, we/PRP experiment/VBP with/IN MT/NN algorithms/NNS and/CC evaluation/NN measures/NNS ./.
+We/PRP then/RB present/VBP SIGN/NNP :/: an/DT MT/NN based/VBN sarcasm/NN interpretation/NN algorithm/NN that/WDT targets/VBZ sentiment/NN words/NNS ,/, a/DT defining/VBG element/NN of/IN textual/JJ sarcasm/NN ./.
+We/PRP show/VBP that/IN while/IN the/DT scores/NNS of/IN n/NN -/HYPH gram/NN based/VBN automatic/JJ measures/NNS are/VBP similar/JJ for/IN all/DT interpretation/NN models/NNS ,/, SIGN/NNP 's/POS interpretations/NNS are/VBP scored/VBN higher/JJR by/IN humans/NNS for/IN adequacy/NN and/CC sentiment/NN polarity/NN ./.
+We/PRP conclude/VBP with/IN a/DT discussion/NN on/IN future/JJ research/NN directions/NNS for/IN our/PRP$ new/JJ task/NN ./.

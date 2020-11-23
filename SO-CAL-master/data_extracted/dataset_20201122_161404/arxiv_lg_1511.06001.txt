@@ -1,0 +1,7 @@
+Surface electromyography is a valid tool to gather muscular contraction signals from intact and amputated subjects.
+Electromyographic signals can be used to control prosthetic devices in a noninvasive way distinguishing the movements performed by the particular EMG electrodes activity.
+According to the literature, several algorithms have been used to control prosthetic hands through s-EMG signals.
+The main issue is to correctly classify the signals acquired as the movement actually performed.
+This work presents a study on the Support Vector Machine's performance in a short-time period, gained using two different feature representation (Mean Absolute Value and Waveform Length) of the sEMG signals.
+In particular, we paid close attention to the repeatability problem, that is the capability to achieve a stable and satisfactory level of accuracy in repeated experiments.
+Results on a limited setting are encouraging, as they show an average accuracy above 73 percent even in the worst case scenario.

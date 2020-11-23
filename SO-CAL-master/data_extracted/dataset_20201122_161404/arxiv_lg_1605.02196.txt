@@ -1,0 +1,7 @@
+A novel probabilistic perception algorithm is presented as a real-time joint solution to data association, object tracking, and object classification for an autonomous ground vehicle in all-weather conditions.
+The presented algorithm extends a Rao-Blackwellized Particle Filter originally built with a particle filter for data association and a Kalman filter for multi-object tracking (Miller et al.
+2011a) to now also include multiple model tracking for classification.
+Additionally a state-of-the-art vision detection algorithm that includes heading information for autonomous ground vehicle (AGV) applications was implemented.
+Cornell's AGV from the DARPA Urban Challenge was upgraded and used to experimentally examine if and how state-of-the-art vision algorithms can complement or replace lidar and radar sensors.
+Sensor and algorithm performance in adverse weather and lighting conditions is tested.
+Experimental evaluation demonstrates robust all-weather data association, tracking, and classification where camera, lidar, and radar sensors complement each other inside the joint probabilistic perception algorithm.

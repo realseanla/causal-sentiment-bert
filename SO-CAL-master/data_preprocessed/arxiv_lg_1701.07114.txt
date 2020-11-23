@@ -1,0 +1,11 @@
+Learning/VBG algorithms/NNS that/WDT learn/VBP linear/JJ models/NNS often/RB have/VBP high/JJ representation/NN bias/NN on/IN real/JJ -/HYPH world/NN problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN this/DT representation/NN bias/NN can/MD be/VB greatly/RB reduced/VBN by/IN discretization/NN ./.
+Discretization/NN is/VBZ a/DT common/JJ procedure/NN in/IN machine/NN learning/NN that/WDT is/VBZ used/VBN to/TO convert/VB a/DT quantitative/JJ attribute/NN into/IN a/DT qualitative/JJ one/NN ./.
+It/PRP is/VBZ often/RB motivated/VBN by/IN the/DT limitation/NN of/IN some/DT learners/NNS to/IN qualitative/JJ data/NNS ./.
+Discretization/NN loses/VBZ information/NN ,/, as/IN fewer/JJR distinctions/NNS between/IN instances/NNS are/VBP possible/JJ using/VBG discretized/VBN data/NNS relative/JJ to/IN undiscretized/JJ data/NNS ./.
+In/IN consequence/NN ,/, where/WRB discretization/NN is/VBZ not/RB essential/JJ ,/, it/PRP might/MD appear/VB desirable/JJ to/TO avoid/VB it/PRP ./.
+However/RB ,/, it/PRP has/VBZ been/VBN shown/VBN that/IN discretization/NN often/RB substantially/RB reduces/VBZ the/DT error/NN of/IN the/DT linear/JJ generative/NN Bayesian/JJ classifier/NN naive/JJ Bayes/NNS ./.
+This/DT motivates/VBZ a/DT systematic/JJ study/NN of/IN the/DT effectiveness/NN of/IN discretizing/VBG quantitative/JJ attributes/NNS for/IN other/JJ linear/JJ classifiers/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP study/VBP the/DT effect/NN of/IN discretization/NN on/IN the/DT performance/NN of/IN linear/JJ classifiers/NNS optimizing/VBG three/CD distinct/JJ discriminative/JJ objective/JJ functions/NNS ---/, logistic/JJ regression/NN (/-LRB- optimizing/VBG negative/JJ log/NN -/HYPH likelihood/NN )/-RRB- ,/, support/NN vector/NN classifiers/NNS (/-LRB- optimizing/VBG hinge/NN loss/NN )/-RRB- and/CC a/DT zero/CD -/HYPH hidden/VBN layer/NN artificial/JJ neural/JJ network/NN (/-LRB- optimizing/VBG mean/JJ -/HYPH square/JJ -/HYPH error/NN )/-RRB- ./.
+We/PRP show/VBP that/IN discretization/NN can/MD greatly/RB increase/VB the/DT accuracy/NN of/IN these/DT linear/JJ discriminative/JJ learners/NNS by/IN reducing/VBG their/PRP$ representation/NN bias/NN ,/, especially/RB on/IN big/JJ datasets/NNS ./.
+We/PRP substantiate/VBP our/PRP$ claims/NNS with/IN an/DT empirical/JJ study/NN on/IN $/$ 42/CD $/$ benchmark/NN datasets/NNS ./.

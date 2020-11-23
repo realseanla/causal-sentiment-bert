@@ -1,0 +1,6 @@
+Question answering forums are rapidly growing in size with no automated ability to refer to and reuse existing answers.
+In this paper, we develop a methodology for finding semantically related questions.
+The task is difficult since 1) key pieces of information are often buried in extraneous detail in the question body and 2) available annotations are scarce and fragmented, driven by participants.
+We design a novel combination of recurrent and convolutional models (gated convolutions) to effectively map questions to their semantic representations.
+The models are pre-trained within an encoder-decoder framework (from body to title) on the basis of the entire raw corpus, and fine-tuned discriminatively from limited annotations.
+Our evaluation demonstrates that our model yields 10\ percent gain over a standard IR baseline, and 6\ percent over standard neural network architectures (including CNNs and LSTMs) trained analogously.

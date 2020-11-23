@@ -1,0 +1,12 @@
+Video/NN games/NNS can/MD be/VB used/VBN as/IN an/DT excellent/JJ test/NN bed/NN for/IN Artificial/NNP Intelligence/NNP (/-LRB- AI/NN )/-RRB- techniques/NNS ./.
+They/PRP are/VBP challenging/JJ and/CC non-deterministic/JJ ,/, this/DT makes/VBZ it/PRP very/RB difficult/JJ to/TO write/VB strong/JJ AI/NN players/NNS ./.
+An/DT example/NN of/IN such/PDT a/DT video/NN game/NN is/VBZ Ms./NNP Pac/NNP -/HYPH Man/NNP ./.
+In/IN this/DT paper/NN we/PRP will/MD outline/VB some/DT of/IN the/DT previous/JJ techniques/NNS used/VBN to/TO build/VB AI/NN controllers/NNS for/IN Ms./NNP Pac/NNP -/HYPH Man/NNP as/RB well/RB as/IN presenting/VBG a/DT new/JJ and/CC novel/JJ solution/NN ./.
+My/PRP$ technique/NN utilises/VBZ a/DT Cellular/NNP Automaton/NNP (/-LRB- CA/NNP )/-RRB- to/TO build/VB a/DT representation/NN of/IN the/DT environment/NN at/IN each/DT time/NN step/NN of/IN the/DT game/NN ./.
+The/DT basis/NN of/IN the/DT representation/NN is/VBZ a/DT 2/CD -/HYPH D/NN grid/NN of/IN cells/NNS ./.
+Each/DT cell/NN has/VBZ a/DT state/NN and/CC a/DT set/NN of/IN rules/NNS which/WDT determine/VBP whether/IN or/CC not/RB that/DT cell/NN will/MD dominate/VB (/-LRB- i.e./FW pass/VB its/PRP$ state/NN value/NN onto/IN )/-RRB- adjacent/JJ cells/NNS at/IN each/DT update/NN ./.
+Once/IN a/DT certain/JJ number/NN of/IN update/NN iterations/NNS have/VBP been/VBN completed/VBN ,/, the/DT CA/NN represents/VBZ the/DT state/NN of/IN the/DT environment/NN in/IN the/DT game/NN ,/, the/DT goals/NNS and/CC the/DT dangers/NNS ./.
+At/IN this/DT point/NN ,/, Ms./NNP Pac/NNP -/HYPH Man/NNP will/MD decide/VB her/PRP$ next/JJ move/NN based/VBN only/RB on/IN her/PRP$ adjacent/JJ cells/NNS ,/, that/DT is/VBZ to/TO say/VB ,/, she/PRP has/VBZ no/DT knowledge/NN of/IN the/DT state/NN of/IN the/DT environment/NN as/IN a/DT whole/JJ ,/, she/PRP will/MD simply/RB follow/VB the/DT strongest/JJS path/NN ./.
+This/DT technique/NN shows/VBZ promise/NN and/CC allows/VBZ the/DT controller/NN to/TO achieve/VB high/JJ scores/NNS in/IN a/DT live/JJ game/NN ,/, the/DT behaviour/NN it/PRP exhibits/VBZ is/VBZ interesting/JJ and/CC complex/JJ ./.
+Moreover/RB ,/, this/DT behaviour/NN is/VBZ produced/VBN by/IN using/VBG very/RB simple/JJ rules/NNS which/WDT are/VBP applied/VBN many/JJ times/NNS to/IN each/DT cell/NN in/IN the/DT grid/NN ./.
+Simple/JJ local/JJ interactions/NNS with/IN complex/JJ global/JJ results/NNS are/VBP truly/RB achieved/VBN ./.

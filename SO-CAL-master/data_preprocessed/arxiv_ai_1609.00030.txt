@@ -1,0 +1,6 @@
+PDDL/NN is/VBZ an/DT extension/NN of/IN PDDL/NN that/WDT enables/VBZ modelling/NN planning/NN domains/NNS with/IN mixed/JJ discrete/JJ -/HYPH continuous/JJ dynamics/NNS ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT new/JJ approach/NN to/IN PDDL/NN planning/NN based/VBN on/IN Constraint/NN Answer/NN Set/VBN Programming/NN (/-LRB- CASP/NN )/-RRB- ,/, i.e./FW ASP/FW rules/NNS plus/CC numerical/JJ constraints/NNS ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, ours/PRP is/VBZ the/DT first/JJ attempt/NN to/TO link/VB PDDL/NN planning/NN and/CC logic/NN programming/NN ./.
+We/PRP provide/VBP an/DT encoding/NN of/IN PDDL/NN models/NNS into/IN CASP/NN problems/NNS ./.
+The/DT encoding/NN can/MD handle/VB non-linear/JJ hybrid/NN domains/NNS ,/, and/CC represents/VBZ a/DT solid/JJ basis/NN for/IN applying/VBG logic/NN programming/NN to/IN PDDL/NN planning/NN ./.
+As/IN a/DT case/NN study/NN ,/, we/PRP consider/VBP the/DT EZCSP/NNP CASP/NN solver/NN and/CC obtain/VB promising/JJ results/NNS on/IN a/DT set/NN of/IN PDDL/NN benchmark/NN problems/NNS ./.

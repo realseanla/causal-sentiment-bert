@@ -1,0 +1,7 @@
+The/DT past/JJ decade/NN has/VBZ seen/VBN substantial/JJ work/NN on/IN the/DT use/NN of/IN non-negative/JJ matrix/NN factorization/NN and/CC its/PRP$ probabilistic/JJ counterparts/NNS for/IN audio/JJ source/NN separation/NN ./.
+Although/IN able/JJ to/TO capture/VB audio/JJ spectral/JJ structure/NN well/RB ,/, these/DT models/NNS neglect/NN the/DT non-stationarity/JJ and/CC temporal/JJ dynamics/NNS that/WDT are/VBP important/JJ properties/NNS of/IN audio/NN ./.
+The/DT recently/RB proposed/VBN non-negative/JJ factorial/JJ hidden/JJ Markov/NNP model/NN (/-LRB- N/NN -/HYPH FHMM/NN )/-RRB- introduces/VBZ a/DT temporal/JJ dimension/NN and/CC improves/VBZ source/NN separation/NN performance/NN ./.
+However/RB ,/, the/DT factorial/JJ nature/NN of/IN this/DT model/NN makes/VBZ the/DT complexity/NN of/IN inference/NN exponential/JJ in/IN the/DT number/NN of/IN sound/NN sources/NNS ./.
+Here/RB ,/, we/PRP present/VBP a/DT Bayesian/JJ variant/NN of/IN the/DT N/NN -/HYPH FHMM/NN suited/JJ to/IN an/DT efficient/JJ variational/JJ inference/NN algorithm/NN ,/, whose/WP$ complexity/NN is/VBZ linear/JJ in/IN the/DT number/NN of/IN sound/NN sources/NNS ./.
+Our/PRP$ algorithm/NN performs/VBZ comparably/RB to/IN exact/JJ inference/NN in/IN the/DT original/JJ N/NN -/HYPH FHMM/NN but/CC is/VBZ significantly/RB faster/RBR ./.
+In/IN typical/JJ configurations/NNS of/IN the/DT N/NN -/HYPH FHMM/NN ,/, our/PRP$ method/NN achieves/VBZ around/IN a/DT 30x/NN increase/NN in/IN speed/NN ./.

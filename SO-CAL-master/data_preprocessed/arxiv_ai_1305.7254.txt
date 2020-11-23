@@ -1,0 +1,4 @@
+This/DT paper/NN presents/VBZ an/DT adaptation/NN of/IN the/DT harmony/NN search/NN algorithm/NN to/TO solve/VB the/DT storage/NN allocation/NN problem/NN for/IN inbound/JJ and/CC outbound/JJ containers/NNS ./.
+This/DT problem/NN is/VBZ studied/VBN considering/VBG multiple/JJ container/NN type/NN (/-LRB- regular/JJ ,/, open/JJ side/NN ,/, open/JJ top/NN ,/, tank/NN ,/, empty/JJ and/CC refrigerated/JJ )/-RRB- which/WDT lets/VBZ the/DT situation/NN more/RBR complicated/JJ ,/, as/IN various/JJ storage/NN constraints/NNS appeared/VBD ./.
+The/DT objective/NN is/VBZ to/TO find/VB an/DT optimal/JJ container/NN arrangement/NN which/WDT respects/VBZ their/PRP$ departure/NN dates/NNS ,/, and/CC minimize/VB the/DT re-handle/NN operations/NNS of/IN containers/NNS ./.
+The/DT performance/NN of/IN the/DT proposed/VBN approach/NN is/VBZ verified/VBN comparing/VBG to/IN the/DT results/NNS generated/VBN by/IN genetic/JJ algorithm/NN and/CC LIFO/NN algorithm/NN ./.

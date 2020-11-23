@@ -1,0 +1,10 @@
+Multi-label/JJ learning/NN deals/NNS with/IN the/DT classification/NN problems/NNS where/WRB each/DT instance/NN can/MD be/VB assigned/VBN with/IN multiple/JJ labels/NNS simultaneously/RB ./.
+Conventional/JJ multi-label/NN learning/VBG approaches/NNS mainly/RB focus/VBP on/IN exploiting/VBG label/NN correlations/NNS ./.
+It/PRP is/VBZ usually/RB assumed/VBN ,/, explicitly/RB or/CC implicitly/RB ,/, that/IN the/DT label/NN sets/VBZ for/IN training/NN instances/NNS are/VBP fully/RB labeled/VBN without/IN any/DT missing/JJ labels/NNS ./.
+However/RB ,/, in/IN many/JJ real/JJ -/HYPH world/NN multi-label/NN datasets/NNS ,/, the/DT label/NN assignments/NNS for/IN training/NN instances/NNS can/MD be/VB incomplete/JJ ./.
+Some/DT ground/NN -/HYPH truth/NN labels/NNS can/MD be/VB missed/VBN by/IN the/DT labeler/NN from/IN the/DT label/NN set/NN ./.
+This/DT problem/NN is/VBZ especially/RB typical/JJ when/WRB the/DT number/NN instances/NNS is/VBZ very/RB large/JJ ,/, and/CC the/DT labeling/NN cost/NN is/VBZ very/RB high/JJ ,/, which/WDT makes/VBZ it/PRP almost/RB impossible/JJ to/TO get/VB a/DT fully/RB labeled/VBN training/NN set/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP the/DT problem/NN of/IN large/JJ -/HYPH scale/NN multi-label/JJ learning/NN with/IN incomplete/JJ label/NN assignments/NNS ./.
+We/PRP propose/VBP an/DT approach/NN ,/, called/VBN MPU/NNP ,/, based/VBN upon/IN positive/JJ and/CC unlabeled/JJ stochastic/JJ gradient/NN descent/NN and/CC stacked/VBN models/NNS ./.
+Unlike/IN prior/JJ works/NNS ,/, our/PRP$ method/NN can/MD effectively/RB and/CC efficiently/RB consider/VBP missing/VBG labels/NNS and/CC label/NN correlations/NNS simultaneously/RB ,/, and/CC is/VBZ very/RB scalable/JJ ,/, that/WDT has/VBZ linear/JJ time/NN complexities/NNS over/IN the/DT size/NN of/IN the/DT data/NNS ./.
+Extensive/JJ experiments/NNS on/IN two/CD real/JJ -/HYPH world/NN multi-label/NN datasets/NNS show/VBP that/IN our/PRP$ MPU/NN model/NN consistently/RB outperform/VBP other/JJ commonly/RB -/HYPH used/VBN baselines/NNS ./.

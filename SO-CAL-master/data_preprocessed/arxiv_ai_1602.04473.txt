@@ -1,0 +1,6 @@
+With/IN the/DT growth/NN of/IN the/DT Semantic/JJ Web/NN in/IN size/NN and/CC importance/NN ,/, more/RBR and/CC more/RBR knowledge/NN is/VBZ stored/VBN in/IN machine/NN -/HYPH readable/JJ formats/NNS such/JJ as/IN the/DT Web/NN Ontology/NNP Language/NNP OWL/NN ./.
+This/DT paper/NN outlines/VBZ common/JJ approaches/NNS for/IN efficient/JJ reasoning/NN on/IN large/JJ -/HYPH scale/NN data/NNS consisting/VBG of/IN billions/NNS (/-LRB- $/$ 10/CD ^/SYM 9/CD $/$ )/-RRB- of/IN triples/NNS ./.
+Therefore/RB ,/, OWL/NN and/CC its/PRP$ sublanguages/NNS ,/, as/RB well/RB as/IN forward/RB and/CC backward/RB chaining/VBG techniques/NNS are/VBP presented/VBN ./.
+The/DT WebPIE/NNP reasoner/NN is/VBZ discussed/VBN in/IN detail/NN as/IN an/DT example/NN for/IN forward/RB chaining/VBG using/VBG MapReduce/NNP for/IN materialisation/NN ./.
+Moreover/RB ,/, the/DT QueryPIE/NNP reasoner/NN is/VBZ presented/VBN as/IN a/DT backward/JJ chaining/NN //HYPH hybrid/NN approach/NN which/WDT uses/VBZ query/NN rewriting/VBG ./.
+Furthermore/RB ,/, an/DT overview/NN on/IN other/JJ reasoners/NNS is/VBZ given/VBN such/JJ as/IN OWLIM/NNP and/CC TrOWL/NNP ./.

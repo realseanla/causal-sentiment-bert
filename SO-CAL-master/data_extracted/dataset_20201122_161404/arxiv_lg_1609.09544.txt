@@ -1,0 +1,8 @@
+We present a new method for identifying the latent categorization of items based on their rankings.
+Complimenting a recent work that uses a Dirichlet prior on preference vectors and variational inference, we show that this problem can be effectively dealt with using existing community detection algorithms, with the communities corresponding to item categories.
+In particular we convert the bipartite ranking data to a unipartite graph of item affinities, and apply community detection algorithms.
+In this context we modify an existing algorithm - namely the label propagation algorithm to a variant that uses the distance between the nodes for weighting the label propagation - to identify the categories.
+We propose and analyze a synthetic ordinal ranking model and show its relation to the recently much studied stochastic block model.
+We test our algorithms on synthetic data and compare performance with several popular community detection algorithms.
+We also test the method on real data sets of movie categorization from the Movie Lens database.
+In all of the cases our algorithm is able to identify the categories for a suitable choice of tuning parameter.

@@ -1,0 +1,9 @@
+Recently/RB ,/, bidirectional/JJ recurrent/JJ network/NN language/NN models/NNS (/-LRB- bi-RNNLMs/NNS )/-RRB- have/VBP been/VBN shown/VBN to/TO outperform/VB standard/JJ ,/, unidirectional/JJ ,/, recurrent/JJ neural/JJ network/NN language/NN models/NNS (/-LRB- uni-RNNLMs/NNS )/-RRB- on/IN a/DT range/NN of/IN speech/NN recognition/NN tasks/NNS ./.
+This/DT indicates/VBZ that/IN future/JJ word/NN context/NN information/NN beyond/IN the/DT word/NN history/NN can/MD be/VB useful/JJ ./.
+However/RB ,/, bi-RNNLMs/NNPS pose/VBP a/DT number/NN of/IN challenges/NNS as/IN they/PRP make/VBP use/NN of/IN the/DT complete/JJ previous/JJ and/CC future/JJ word/NN context/NN information/NN ./.
+This/DT impacts/NNS both/DT training/NN efficiency/NN and/CC their/PRP$ use/NN within/IN a/DT lattice/NN rescoring/VBG framework/NN ./.
+In/IN this/DT paper/NN these/DT issues/NNS are/VBP addressed/VBN by/IN proposing/VBG a/DT novel/JJ neural/JJ network/NN structure/NN ,/, succeeding/VBG word/NN RNNLMs/NNS (/-LRB- su/FW -/HYPH RNNLMs/FW )/-RRB- ./.
+Instead/RB of/IN using/VBG a/DT recurrent/JJ unit/NN to/TO capture/VB the/DT complete/JJ future/JJ word/NN contexts/NNS ,/, a/DT feedforward/NN unit/NN is/VBZ used/VBN to/TO model/VB a/DT finite/JJ number/NN of/IN succeeding/VBG ,/, future/JJ ,/, words/NNS ./.
+This/DT model/NN can/MD be/VB trained/VBN much/RB more/RBR efficiently/RB than/IN bi-RNNLMs/NNPS and/CC can/MD also/RB be/VB used/VBN for/IN lattice/NN rescoring/NN ./.
+Experimental/JJ results/NNS on/IN a/DT meeting/NN transcription/NN task/NN (/-LRB- AMI/NNP )/-RRB- show/VBP the/DT proposed/VBN model/NN consistently/RB outperformed/VBD uni-RNNLMs/NNPS and/CC yield/VB only/RB a/DT slight/JJ degradation/NN compared/VBN to/IN bi-RNNLMs/NNPS in/IN N/NNP -/HYPH best/JJS rescoring/NN ./.
+Additionally/RB ,/, performance/NN improvements/NNS can/MD be/VB obtained/VBN using/VBG lattice/NN rescoring/NN and/CC subsequent/JJ confusion/NN network/NN decoding/NN ./.

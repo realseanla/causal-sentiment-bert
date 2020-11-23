@@ -1,0 +1,5 @@
+Supervised/VBN (/-LRB- linear/JJ )/-RRB- embedding/NN models/NNS like/IN Wsabie/NNP and/CC PSI/NNP have/VBP proven/VBN successful/JJ at/IN ranking/VBG ,/, recommendation/NN and/CC annotation/NN tasks/NNS ./.
+However/RB ,/, despite/IN being/VBG scalable/JJ to/IN large/JJ datasets/NNS they/PRP do/VBP not/RB take/VB full/JJ advantage/NN of/IN the/DT extra/JJ data/NNS due/IN to/IN their/PRP$ linear/JJ nature/NN ,/, and/CC typically/RB underfit/JJ ./.
+We/PRP propose/VBP a/DT new/JJ class/NN of/IN models/NNS which/WDT aim/VBP to/TO provide/VB improved/VBN performance/NN while/IN retaining/VBG many/JJ of/IN the/DT benefits/NNS of/IN the/DT existing/VBG class/NN of/IN embedding/NN models/NNS ./.
+Our/PRP$ new/JJ approach/NN works/VBZ by/IN iteratively/RB learning/VBG a/DT linear/JJ embedding/NN model/NN where/WRB the/DT next/JJ iteration/NN 's/POS features/NNS and/CC labels/NNS are/VBP reweighted/VBN as/IN a/DT function/NN of/IN the/DT previous/JJ iteration/NN ./.
+We/PRP describe/VBP several/JJ variants/NNS of/IN the/DT family/NN ,/, and/CC give/VB some/DT initial/JJ results/NNS ./.

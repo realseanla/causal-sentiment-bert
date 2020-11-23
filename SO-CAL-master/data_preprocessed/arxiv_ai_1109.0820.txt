@@ -1,0 +1,7 @@
+Multiclass/NNP prediction/NN is/VBZ the/DT problem/NN of/IN classifying/VBG an/DT object/NN into/IN a/DT relevant/JJ target/NN class/NN ./.
+We/PRP consider/VBP the/DT problem/NN of/IN learning/VBG a/DT multiclass/NN predictor/NN that/WDT uses/VBZ only/RB few/JJ features/NNS ,/, and/CC in/IN particular/JJ ,/, the/DT number/NN of/IN used/VBN features/NNS should/MD increase/VB sub-linearly/JJ with/IN the/DT number/NN of/IN possible/JJ classes/NNS ./.
+This/DT implies/VBZ that/IN features/NNS should/MD be/VB shared/VBN by/IN several/JJ classes/NNS ./.
+We/PRP describe/VBP and/CC analyze/VBP the/DT ShareBoost/NNP algorithm/NN for/IN learning/VBG a/DT multiclass/NN predictor/NN that/WDT uses/VBZ few/JJ shared/VBN features/NNS ./.
+We/PRP prove/VBP that/IN ShareBoost/NNP efficiently/RB finds/VBZ a/DT predictor/NN that/WDT uses/VBZ few/JJ shared/VBN features/NNS (/-LRB- if/IN such/PDT a/DT predictor/NN exists/VBZ )/-RRB- and/CC that/IN it/PRP has/VBZ a/DT small/JJ generalization/NN error/NN ./.
+We/PRP also/RB describe/VBP how/WRB to/TO use/VB ShareBoost/NNP for/IN learning/VBG a/DT non-linear/JJ predictor/NN that/WDT has/VBZ a/DT fast/JJ evaluation/NN time/NN ./.
+In/IN a/DT series/NN of/IN experiments/NNS with/IN natural/JJ data/NNS sets/NNS we/PRP demonstrate/VBP the/DT benefits/NNS of/IN ShareBoost/NNP and/CC evaluate/VB its/PRP$ success/NN relatively/RB to/IN other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS ./.

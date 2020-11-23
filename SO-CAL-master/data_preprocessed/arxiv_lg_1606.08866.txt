@@ -1,0 +1,3 @@
+There/EX are/VBP many/JJ declarative/JJ frameworks/NNS that/WDT allow/VBP us/PRP to/TO implement/VB code/NN formatters/NNS relatively/RB easily/RB for/IN any/DT specific/JJ language/NN ,/, but/CC constructing/VBG them/PRP is/VBZ cumbersome/JJ ./.
+The/DT first/JJ problem/NN is/VBZ that/IN "/`` everybody/NN "/'' wants/VBZ to/TO format/VB their/PRP$ code/NN differently/RB ,/, leading/VBG to/IN either/CC many/JJ formatter/NN variants/NNS or/CC a/DT ridiculous/JJ number/NN of/IN configuration/NN options/NNS ./.
+Second/RB ,/, the/DT size/NN of/IN each/DT implementation/NN scales/NNS with/IN a/DT language/NN 's/POS grammar/NN size/NN ,/, leading/VBG to/IN hundreds/NNS of/IN rules/NNS ./.

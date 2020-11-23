@@ -1,0 +1,4 @@
+Tuning/VBG hyperparameters/NNS of/IN learning/VBG algorithms/NNS is/VBZ hard/JJ because/IN gradients/NNS are/VBP usually/RB unavailable/JJ ./.
+We/PRP compute/VBP exact/JJ gradients/NNS of/IN cross-validation/NN performance/NN with/IN respect/NN to/IN all/DT hyperparameters/NNS by/IN chaining/VBG derivatives/NNS backwards/RB through/IN the/DT entire/JJ training/NN procedure/NN ./.
+These/DT gradients/NNS allow/VBP us/PRP to/TO optimize/VB thousands/NNS of/IN hyperparameters/NNS ,/, including/VBG step/NN -/HYPH size/NN and/CC momentum/NN schedules/NNS ,/, weight/NN initialization/NN distributions/NNS ,/, richly/RB parameterized/JJ regularization/NN schemes/NNS ,/, and/CC neural/JJ network/NN architectures/NNS ./.
+We/PRP compute/VBP hyperparameter/NN gradients/NNS by/IN exactly/RB reversing/VBG the/DT dynamics/NNS of/IN stochastic/JJ gradient/NN descent/NN with/IN momentum/NN ./.

@@ -1,0 +1,12 @@
+We/PRP introduce/VBP T-LESS/NN ,/, a/DT new/JJ public/JJ dataset/NN for/IN estimating/VBG the/DT 6D/NN pose/NN ,/, i.e./FW translation/NN and/CC rotation/NN ,/, of/IN texture-less/JJ rigid/JJ objects/NNS ./.
+The/DT dataset/NN features/VBZ thirty/CD industry/NN -/HYPH relevant/JJ objects/NNS with/IN no/DT significant/JJ texture/NN and/CC no/DT discriminative/JJ color/NN or/CC reflectance/NN properties/NNS ./.
+The/DT objects/NNS exhibit/VBP symmetries/NNS and/CC mutual/JJ similarities/NNS in/IN shape/NN and/CC //HYPH or/CC size/NN ./.
+Compared/VBN to/IN other/JJ datasets/NNS ,/, a/DT unique/JJ property/NN is/VBZ that/IN some/DT of/IN the/DT objects/NNS are/VBP parts/NNS of/IN others/NNS ./.
+The/DT dataset/NN includes/VBZ training/NN and/CC test/NN images/NNS that/WDT were/VBD captured/VBN with/IN three/CD synchronized/VBD sensors/NNS ,/, specifically/RB a/DT structured/JJ -/HYPH light/NN and/CC a/DT time/NN -/HYPH of/IN -/HYPH flight/NN RGB/NN -/HYPH D/NN sensor/NN and/CC a/DT high/JJ -/HYPH resolution/NN RGB/NNP camera/NN ./.
+There/EX are/VBP approximately/RB 39K/NN training/NN and/CC 10K/NN test/NN images/NNS from/IN each/DT sensor/NN ./.
+Additionally/RB ,/, two/CD types/NNS of/IN 3D/NN models/NNS are/VBP provided/VBN for/IN each/DT object/NN ,/, i.e./FW a/DT manually/RB created/VBN CAD/NNP model/NN and/CC a/DT semi-automatically/RB reconstructed/VBD one/CD ./.
+Training/NN images/NNS depict/VBP individual/JJ objects/NNS against/IN a/DT black/JJ background/NN ./.
+Test/VB images/NNS originate/VB from/IN twenty/CD test/NN scenes/NNS having/VBG varying/VBG complexity/NN ,/, which/WDT increases/VBZ from/IN simple/JJ scenes/NNS with/IN several/JJ isolated/JJ objects/NNS to/IN very/RB challenging/JJ ones/NNS with/IN multiple/JJ instances/NNS of/IN several/JJ objects/NNS and/CC with/IN a/DT high/JJ amount/NN of/IN clutter/NN and/CC occlusion/NN ./.
+The/DT images/NNS were/VBD captured/VBN from/IN a/DT systematically/RB sampled/VBN view/NN sphere/NN around/IN the/DT object/NN //HYPH scene/NN ,/, and/CC are/VBP annotated/VBN with/IN accurate/JJ ground/NN truth/NN 6D/NN poses/NNS of/IN all/DT modeled/VBN objects/NNS ./.
+Initial/JJ evaluation/NN results/NNS indicate/VBP that/IN the/DT state/NN of/IN the/DT art/NN in/IN 6D/NN object/NN pose/VBP estimation/NN has/VBZ ample/JJ room/NN for/IN improvement/NN ,/, especially/RB in/IN difficult/JJ cases/NNS with/IN significant/JJ occlusion/NN ./.
+The/DT T-LESS/NN dataset/NN is/VBZ available/JJ online/RB at/IN cmp.felk.cvut.cz/NN //HYPH t-less/NN ./.

@@ -1,0 +1,5 @@
+In this work we present strategies for (optimal) measurement selection in model-based sequential diagnosis.
+In particular, assuming a set of leading diagnoses being given, we show how queries (sets of measurements) can be computed and optimized along two dimensions: expected number of queries and cost per query.
+By means of a suitable decoupling of two optimizations and a clever search space reduction the computations are done without any inference engine calls.
+For the full search space, we give a method requiring only a polynomial number of inferences and guaranteeing query properties existing methods cannot provide.
+Evaluation results using real-world problems indicate that the new method computes (virtually) optimal queries instantly independently of the size and complexity of the considered diagnosis problems.

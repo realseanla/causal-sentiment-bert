@@ -1,0 +1,7 @@
+We/PRP describe/VBP an/DT approach/NN for/IN unsupervised/JJ learning/NN of/IN a/DT generic/JJ ,/, distributed/VBN sentence/NN encoder/NN ./.
+Using/VBG the/DT continuity/NN of/IN text/NN from/IN books/NNS ,/, we/PRP train/VBP an/DT encoder/NN -/HYPH decoder/NN model/NN that/WDT tries/VBZ to/TO reconstruct/VB the/DT surrounding/VBG sentences/NNS of/IN an/DT encoded/VBN passage/NN ./.
+Sentences/NNS that/WDT share/VBP semantic/JJ and/CC syntactic/JJ properties/NNS are/VBP thus/RB mapped/VBN to/IN similar/JJ vector/NN representations/NNS ./.
+We/PRP next/RB introduce/VBP a/DT simple/JJ vocabulary/NN expansion/NN method/NN to/TO encode/VB words/NNS that/WDT were/VBD not/RB seen/VBN as/IN part/NN of/IN training/NN ,/, allowing/VBG us/PRP to/TO expand/VB our/PRP$ vocabulary/NN to/IN a/DT million/CD words/NNS ./.
+After/IN training/VBG our/PRP$ model/NN ,/, we/PRP extract/VBP and/CC evaluate/VBP our/PRP$ vectors/NNS with/IN linear/JJ models/NNS on/IN 8/CD tasks/NNS :/: semantic/JJ relatedness/NN ,/, paraphrase/NN detection/NN ,/, image/NN -/HYPH sentence/NN ranking/NN ,/, question/NN -/HYPH type/NN classification/NN and/CC 4/CD benchmark/NN sentiment/NN and/CC subjectivity/NN datasets/NNS ./.
+The/DT end/NN result/NN is/VBZ an/DT off/RB -/HYPH the/DT -/HYPH shelf/NN encoder/NN that/WDT can/MD produce/VB highly/RB generic/JJ sentence/NN representations/NNS that/WDT are/VBP robust/JJ and/CC perform/VB well/RB in/IN practice/NN ./.
+We/PRP will/MD make/VB our/PRP$ encoder/NN publicly/RB available/JJ ./.

@@ -1,0 +1,9 @@
+Inference/NN in/IN expressive/JJ probabilistic/JJ models/NNS is/VBZ generally/RB intractable/JJ ,/, which/WDT makes/VBZ them/PRP difficult/JJ to/TO learn/VB and/CC limits/VBZ their/PRP$ applicability/NN ./.
+Sum/NNP -/HYPH product/NN networks/NNS are/VBP a/DT class/NN of/IN deep/JJ models/NNS where/WRB ,/, surprisingly/RB ,/, inference/NN remains/VBZ tractable/JJ even/RB when/WRB an/DT arbitrary/JJ number/NN of/IN hidden/JJ layers/NNS are/VBP present/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP generalize/VBP this/DT result/NN to/IN a/DT much/RB broader/JJR set/NN of/IN learning/NN problems/NNS :/: all/PDT those/DT where/WRB inference/NN consists/VBZ of/IN summing/VBG a/DT function/NN over/IN a/DT semiring/NN ./.
+This/DT includes/VBZ satisfiability/NN ,/, constraint/NN satisfaction/NN ,/, optimization/NN ,/, integration/NN ,/, and/CC others/NNS ./.
+In/IN any/DT semiring/NN ,/, for/IN summation/NN to/TO be/VB tractable/JJ it/PRP suffices/VBZ that/IN the/DT factors/NNS of/IN every/DT product/NN have/VBP disjoint/NN scopes/NNS ./.
+This/DT unifies/VBZ and/CC extends/VBZ many/JJ previous/JJ results/NNS in/IN the/DT literature/NN ./.
+Enforcing/VBG this/DT condition/NN at/IN learning/NN time/NN thus/RB ensures/VBZ that/IN the/DT learned/VBN models/NNS are/VBP tractable/JJ ./.
+We/PRP illustrate/VBP the/DT power/NN and/CC generality/NN of/IN this/DT approach/NN by/IN applying/VBG it/PRP to/IN a/DT new/JJ type/NN of/IN structured/JJ prediction/NN problem/NN :/: learning/VBG a/DT nonconvex/NN function/NN that/WDT can/MD be/VB globally/RB optimized/VBN in/IN polynomial/JJ time/NN ./.
+We/PRP show/VBP empirically/RB that/IN this/DT greatly/RB outperforms/VBZ the/DT standard/JJ approach/NN of/IN learning/NN without/IN regard/NN to/IN the/DT cost/NN of/IN optimization/NN ./.

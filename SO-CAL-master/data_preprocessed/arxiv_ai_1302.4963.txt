@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN we/PRP extend/VBP the/DT influence/NN diagram/NN (/-LRB- ID/NN )/-RRB- representation/NN for/IN decisions/NNS under/IN uncertainty/NN ./.
+In/IN the/DT standard/JJ ID/NN ,/, arrows/NNS into/IN a/DT decision/NN node/NN are/VBP only/RB informational/JJ ;/: they/PRP do/VBP not/RB represent/VB constraints/NNS on/IN what/WP the/DT decision/NN maker/NN can/MD do/VB ./.
+We/PRP can/MD represent/VB such/JJ constraints/NNS only/RB indirectly/RB ,/, using/VBG arrows/NNS to/IN the/DT children/NNS of/IN the/DT decision/NN and/CC sometimes/RB adding/VBG more/JJR variables/NNS to/IN the/DT influence/NN diagram/NN ,/, thus/RB making/VBG the/DT ID/NN more/RBR complicated/JJ ./.
+Users/NNS of/IN influence/NN diagrams/NNS often/RB want/VBP to/TO represent/VB constraints/NNS by/IN arrows/NNS into/IN decision/NN nodes/NNS ./.
+We/PRP represent/VBP constraints/NNS on/IN decisions/NNS by/IN allowing/VBG relevance/NN arrows/NNS into/IN decision/NN nodes/NNS ./.
+We/PRP call/VBP the/DT resulting/VBG representation/NN information/NN //HYPH relevance/NN influence/NN diagrams/NNS (/-LRB- IRIDs/NNS )/-RRB- ./.
+Information/NN //HYPH relevance/NN influence/NN diagrams/NNS allow/VBP for/IN direct/JJ representation/NN and/CC specification/NN of/IN constrained/VBN decisions/NNS ./.
+We/PRP use/VBP a/DT combination/NN of/IN stochastic/JJ dynamic/JJ programming/NN and/CC Gibbs/NNP sampling/NN to/TO solve/VB IRIDs/NNS ./.
+This/DT method/NN is/VBZ especially/RB useful/JJ when/WRB exact/JJ methods/NNS for/IN solving/VBG IDs/NNS fail/VBP ./.

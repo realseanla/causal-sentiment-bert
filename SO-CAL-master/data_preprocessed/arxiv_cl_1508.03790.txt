@@ -1,0 +1,5 @@
+In/IN this/DT short/JJ note/NN ,/, we/PRP present/VBP an/DT extension/NN of/IN LSTM/NNP to/TO use/VB a/DT depth/NN gate/NN to/TO connect/VB memory/NN cells/NNS of/IN adjacent/JJ layers/NNS ./.
+Doing/VBG so/RB introduces/VBZ a/DT linear/JJ dependence/NN between/IN lower/JJR and/CC upper/JJ recurrent/JJ units/NNS ./.
+Importantly/RB ,/, the/DT linear/JJ dependence/NN is/VBZ gated/VBN through/IN a/DT gating/NN function/NN ,/, which/WDT we/PRP call/VBP forget/VB gate/NN ./.
+This/DT gate/NN is/VBZ a/DT function/NN of/IN lower/JJR layer/NN memory/NN cell/NN ,/, its/PRP$ input/NN ,/, and/CC its/PRP$ past/JJ memory/NN ./.
+We/PRP conducted/VBD experiments/NNS and/CC verified/VBD that/IN this/DT new/JJ architecture/NN of/IN LSTMs/NNPS is/VBZ able/JJ to/TO improve/VB machine/NN translation/NN and/CC language/NN modeling/NN performances/NNS ./.

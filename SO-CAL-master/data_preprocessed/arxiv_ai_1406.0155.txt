@@ -1,0 +1,9 @@
+Measuring/VBG inconsistency/NN is/VBZ viewed/VBN as/IN an/DT important/JJ issue/NN related/VBN to/IN handling/VBG inconsistencies/NNS ./.
+Good/JJ measures/NNS are/VBP supposed/VBN to/TO satisfy/VB a/DT set/NN of/IN rational/JJ properties/NNS ./.
+However/RB ,/, defining/VBG sound/JJ properties/NNS is/VBZ sometimes/RB problematic/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP emphasize/VBP one/CD such/JJ property/NN ,/, named/VBN Decomposability/NNP ,/, rarely/RB discussed/VBN in/IN the/DT literature/NN due/IN to/IN its/PRP$ modeling/NN difficulties/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP propose/VBP an/DT independent/JJ decomposition/NN which/WDT is/VBZ more/JJR intuitive/JJ than/IN existing/VBG proposals/NNS ./.
+To/TO analyze/VB inconsistency/NN in/IN a/DT more/RBR fine/JJ -/HYPH grained/JJ way/NN ,/, we/PRP introduce/VBP a/DT graph/NN representation/NN of/IN a/DT knowledge/NN base/NN and/CC various/JJ MUSdecompositions/NNS ./.
+One/CD particular/JJ MUS/NN -/HYPH decomposition/NN ,/, named/VBN distributable/JJ MUS/NN -/HYPH decomposition/NN leads/VBZ to/IN an/DT interesting/JJ partition/NN of/IN inconsistencies/NNS in/IN a/DT knowledge/NN base/NN such/JJ that/IN multiple/JJ experts/NNS can/MD check/VB inconsistencies/NNS in/IN parallel/NN ,/, which/WDT is/VBZ impossible/JJ under/IN existing/VBG measures/NNS ./.
+Such/JJ particular/JJ MUSdecomposition/NN results/NNS in/IN an/DT inconsistency/NN measure/NN that/WDT satisfies/VBZ a/DT number/NN of/IN desired/VBN properties/NNS ./.
+Moreover/RB ,/, we/PRP give/VBP an/DT upper/JJ bound/JJ complexity/NN of/IN the/DT measure/NN that/WDT can/MD be/VB computed/VBN using/VBG 0/1/CD linear/JJ programming/NN or/CC Min/NNP Cost/NN Satisfiability/NN problems/NNS ,/, and/CC conduct/VB preliminary/JJ experiments/NNS to/TO show/VB its/PRP$ feasibility/NN ./.

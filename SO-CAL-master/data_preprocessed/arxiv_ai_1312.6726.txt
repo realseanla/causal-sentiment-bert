@@ -1,0 +1,8 @@
+A/DT perfectly/RB rational/JJ decision/NN -/HYPH maker/NN chooses/VBZ the/DT best/JJS action/NN with/IN the/DT highest/JJS utility/NN gain/NN from/IN a/DT set/NN of/IN possible/JJ actions/NNS ./.
+The/DT optimality/NN principles/NNS that/WDT describe/VBP such/JJ decision/NN processes/NNS do/VBP not/RB take/VB into/IN account/NN the/DT computational/JJ costs/NNS of/IN finding/VBG the/DT optimal/JJ action/NN ./.
+Bounded/VBN rational/JJ decision/NN -/HYPH making/NN addresses/NNS this/DT problem/NN by/IN specifically/RB trading/VBG off/RP information/NN -/HYPH processing/NN costs/NNS and/CC expected/VBN utility/NN ./.
+Interestingly/RB ,/, a/DT similar/JJ trade/NN -/HYPH off/NN between/IN energy/NN and/CC entropy/NN arises/VBZ when/WRB describing/VBG changes/NNS in/IN thermodynamic/JJ systems/NNS ./.
+This/DT similarity/NN has/VBZ been/VBN recently/RB used/VBN to/TO describe/VB bounded/VBN rational/JJ agents/NNS ./.
+Crucially/RB ,/, this/DT framework/NN assumes/VBZ that/IN the/DT environment/NN does/VBZ not/RB change/VB while/IN the/DT decision/NN -/HYPH maker/NN is/VBZ computing/VBG the/DT optimal/JJ policy/NN ./.
+When/WRB this/DT requirement/NN is/VBZ not/RB fulfilled/VBN ,/, the/DT decision/NN -/HYPH maker/NN will/MD suffer/VB inefficiencies/NNS in/IN utility/NN ,/, that/WDT arise/VBP because/IN the/DT current/JJ policy/NN is/VBZ optimal/JJ for/IN an/DT environment/NN in/IN the/DT past/NN ./.
+Here/RB we/PRP borrow/VB concepts/NNS from/IN non-equilibrium/JJ thermodynamics/NNS to/TO quantify/VB these/DT inefficiencies/NNS and/CC illustrate/VBP with/IN simulations/NNS its/PRP$ relationship/NN with/IN computational/JJ resources/NNS ./.

@@ -1,0 +1,7 @@
+Network/NNP complexity/NN is/VBZ increasing/VBG ,/, making/VBG network/NN control/NN and/CC orchestration/NN a/DT challenging/JJ task/NN ./.
+The/DT proliferation/NN of/IN network/NN information/NN and/CC tools/NNS for/IN data/NNS analytics/NNS can/MD provide/VB an/DT important/JJ insight/NN into/IN resource/NN provisioning/NN and/CC optimisation/NN ./.
+The/DT network/NN knowledge/NN incorporated/VBN in/IN software/NN defined/VBN networking/NN can/MD facilitate/VB the/DT knowledge/NN driven/VBN control/NN ,/, leveraging/VBG the/DT network/NN programmability/NN ./.
+We/PRP present/VBP Seer/NNP :/: a/DT flexible/JJ ,/, highly/RB configurable/JJ data/NNS analytics/NNS platform/NN for/IN network/NN intelligence/NN based/VBN on/IN software/NN defined/VBN networking/NN and/CC big/JJ data/NNS principles/NNS ./.
+Seer/NN combines/VBZ a/DT computational/JJ engine/NN with/IN a/DT distributed/VBN messaging/NN system/NN to/TO provide/VB a/DT scalable/JJ ,/, fault/NN tolerant/JJ and/CC real/JJ -/HYPH time/NN platform/NN for/IN knowledge/NN extraction/NN ./.
+Our/PRP$ first/JJ prototype/NN uses/VBZ Apache/NNP Spark/NNP for/IN streaming/VBG analytics/NNS and/CC open/JJ network/NN operating/VBG system/NN (/-LRB- ONOS/NN )/-RRB- controller/NN to/IN program/NN a/DT network/NN in/IN real/JJ -/HYPH time/NN ./.
+The/DT first/JJ application/NN we/PRP developed/VBD aims/NNS to/TO predict/VB the/DT mobility/NN pattern/NN of/IN mobile/JJ devices/NNS inside/IN a/DT smart/JJ city/NN environment/NN ./.

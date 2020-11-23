@@ -1,0 +1,5 @@
+Lasso/NNP ,/, or/CC $/$ \/CD ell/CD ^/SYM 1/CD $/$ regularized/VBN least/JJS squares/NNS ,/, has/VBZ been/VBN explored/VBN extensively/RB for/IN its/PRP$ remarkable/JJ sparsity/NN properties/NNS ./.
+It/PRP is/VBZ shown/VBN in/IN this/DT paper/NN that/IN the/DT solution/NN to/IN Lasso/NNP ,/, in/IN addition/NN to/IN its/PRP$ sparsity/NN ,/, has/VBZ robustness/NN properties/NNS :/: it/PRP is/VBZ the/DT solution/NN to/IN a/DT robust/JJ optimization/NN problem/NN ./.
+This/DT has/VBZ two/CD important/JJ consequences/NNS ./.
+First/RB ,/, robustness/NN provides/VBZ a/DT connection/NN of/IN the/DT regularizer/NN to/IN a/DT physical/JJ property/NN ,/, namely/RB ,/, protection/NN from/IN noise/NN ./.
+This/DT allows/VBZ a/DT principled/JJ selection/NN of/IN the/DT regularizer/NN ,/, and/CC in/IN particular/JJ ,/, generalizations/NNS of/IN Lasso/NNP that/WDT also/RB yield/VBP convex/NN optimization/NN problems/NNS are/VBP obtained/VBN by/IN considering/VBG different/JJ uncertainty/NN sets/NNS ./.

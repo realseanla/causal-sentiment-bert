@@ -1,0 +1,7 @@
+In/IN neural/JJ machine/NN translation/NN (/-LRB- NMT/NN )/-RRB- ,/, generation/NN of/IN a/DT target/NN word/NN depends/VBZ on/IN both/DT source/NN and/CC target/NN contexts/NNS ./.
+We/PRP find/VBP that/IN source/NN contexts/NNS have/VBP a/DT direct/JJ impact/NN on/IN the/DT adequacy/NN of/IN a/DT translation/NN while/IN target/NN contexts/NNS on/IN the/DT fluency/NN ./.
+Intuitively/RB ,/, generation/NN of/IN a/DT content/JJ word/NN should/MD rely/VB more/RBR on/IN the/DT source/NN context/NN and/CC generation/NN of/IN a/DT functional/JJ word/NN should/MD rely/VB more/RBR on/IN the/DT target/NN context/NN ./.
+Due/IN to/IN lack/NN of/IN effective/JJ control/NN on/IN the/DT influence/NN from/IN source/NN and/CC target/NN contexts/NNS ,/, conventional/JJ NMT/NN tends/VBZ to/TO yield/VB fluent/JJ but/CC inadequate/JJ translations/NNS ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP propose/VBP to/TO use/VB context/NN gates/NNS to/IN dynamically/RB control/VB the/DT ratios/NNS at/IN which/WDT source/NN and/CC target/NN contexts/NNS contribute/VBP to/IN the/DT generation/NN of/IN target/NN words/NNS ./.
+In/IN this/DT way/NN ,/, we/PRP can/MD enhance/VB the/DT adequacy/NN of/IN NMT/NN while/IN keeping/VBG the/DT fluency/NN unchanged/JJ ./.
+Experiments/NNS show/VBP that/IN our/PRP$ approach/NN significantly/RB improves/VBZ upon/IN a/DT standard/JJ attention/NN -/HYPH based/VBN NMT/NN system/NN by/IN 2.3/CD BLEU/NN points/NNS ./.

@@ -1,0 +1,7 @@
+Word/NNP sense/NN disambiguation/NN (/-LRB- WSD/NN )/-RRB- improves/VBZ many/JJ Natural/NNP Language/NNP Processing/NNP (/-LRB- NLP/NNP )/-RRB- applications/NNS such/JJ as/IN Information/NNP Retrieval/NNP ,/, Machine/NNP Translation/NNP or/CC Lexical/NNP Simplification/NNP ./.
+WSD/NN is/VBZ the/DT ability/NN of/IN determining/VBG a/DT word/NN sense/NN among/IN different/JJ ones/NNS within/IN a/DT polysemic/JJ lexical/JJ unit/NN taking/VBG into/IN account/NN the/DT context/NN ./.
+The/DT most/RBS straightforward/JJ approach/NN uses/VBZ a/DT semantic/JJ proximity/NN measure/NN between/IN the/DT word/NN sense/NN candidates/NNS of/IN the/DT target/NN word/NN and/CC those/DT of/IN its/PRP$ context/NN ./.
+Such/PDT a/DT method/NN very/RB easily/RB entails/VBZ a/DT combinatorial/JJ explosion/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP two/CD methods/NNS based/VBN on/IN distributional/JJ analysis/NN which/WDT enable/VBP to/TO reduce/VB the/DT exponential/JJ complexity/NN without/IN losing/VBG the/DT coherence/NN ./.
+We/PRP present/VBP a/DT comparison/NN between/IN the/DT selection/NN of/IN distributional/JJ neighbors/NNS and/CC the/DT linearly/RB nearest/JJS neighbors/NNS ./.
+The/DT figures/NNS obtained/VBN show/VBP that/IN selecting/VBG distributional/JJ neighbors/NNS leads/VBZ to/IN better/JJR results/NNS ./.

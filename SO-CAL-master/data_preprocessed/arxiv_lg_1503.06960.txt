@@ -1,0 +1,5 @@
+We/PRP prove/VBP that/IN proper/JJ PAC/NN learnability/NN implies/VBZ compression/NN ./.
+Namely/RB ,/, if/IN a/DT concept/NN $/$ C/NN \/SYM subseteq/NN \/SYM Sigma/NNP ^/SYM X$/NNP is/VBZ properly/RB PAC/NN learnable/JJ with/IN $/$ d/LS $/$ samples/NNS ,/, then/RB $/$ C$/$ has/VBZ a/DT sample/NN compression/NN scheme/NN of/IN size/NN $/$ 2/CD ^/SYM {/-LRB- O/NN (/-LRB- d/NN )/-RRB- }/-RRB- $/$ ./.
+In/IN particular/JJ ,/, every/DT boolean/JJ concept/NN class/NN with/IN constant/JJ VC/NNP dimension/NN has/VBZ a/DT sample/NN compression/NN scheme/NN of/IN constant/JJ size/NN ./.
+This/DT answers/VBZ a/DT question/NN of/IN Littlestone/NNP and/CC Warmuth/NNP (/-LRB- 1986/CD )/-RRB- ./.
+The/DT proof/NN uses/VBZ an/DT approximate/JJ minimax/NN phenomenon/NN for/IN boolean/JJ matrices/NNS of/IN low/JJ VC/NNP dimension/NN ./.

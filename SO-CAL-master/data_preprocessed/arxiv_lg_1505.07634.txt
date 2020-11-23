@@ -1,0 +1,8 @@
+Convex/NNP potential/JJ minimisation/NN is/VBZ the/DT de/FW facto/FW approach/NN to/IN binary/JJ classification/NN ./.
+However/RB ,/, Long/NNP and/CC Servedio/NNP [/-LRB- 2010/CD ]/-RRB- proved/VBD that/IN under/IN symmetric/JJ label/NN noise/NN (/-LRB- SLN/NN )/-RRB- ,/, minimisation/NN of/IN any/DT convex/JJ potential/NN over/IN a/DT linear/JJ function/NN class/NN can/MD result/VB in/IN classification/NN performance/NN equivalent/NN to/IN random/JJ guessing/VBG ./.
+This/DT ostensibly/RB shows/VBZ that/IN convex/JJ losses/NNS are/VBP not/RB SLN/NN -/HYPH robust/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT convex/NN ,/, classification/NN -/HYPH calibrated/VBN loss/NN and/CC prove/VB that/IN it/PRP is/VBZ SLN/NN -/HYPH robust/JJ ./.
+The/DT loss/NN avoids/VBZ the/DT Long/NNP and/CC Servedio/NNP [/-LRB- 2010/CD ]/-RRB- result/VBP by/IN virtue/NN of/IN being/VBG negatively/RB unbounded/JJ ./.
+The/DT loss/NN is/VBZ a/DT modification/NN of/IN the/DT hinge/NN loss/NN ,/, where/WRB one/NN does/VBZ not/RB clamp/VB at/IN zero/CD ;/: hence/RB ,/, we/PRP call/VBP it/PRP the/DT unhinged/VBN loss/NN ./.
+We/PRP show/VBP that/IN the/DT optimal/JJ unhinged/VBN solution/NN is/VBZ equivalent/JJ to/IN that/DT of/IN a/DT strongly/RB regularised/VBN SVM/NNP ,/, and/CC is/VBZ the/DT limiting/VBG solution/NN for/IN any/DT convex/JJ potential/NN ;/: this/DT implies/VBZ that/IN strong/JJ l2/NN regularisation/NN makes/VBZ most/RBS standard/JJ learners/NNS SLN/NN -/HYPH robust/JJ ./.
+Experiments/NNS confirm/VBP the/DT SLN/NNP -/HYPH robustness/NN of/IN the/DT unhinged/VBN loss/NN ./.

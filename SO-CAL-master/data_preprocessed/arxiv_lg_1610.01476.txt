@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP study/VBP the/DT Temporal/JJ Difference/NN (/-LRB- TD/NN )/-RRB- learning/NN with/IN linear/JJ value/NN function/NN approximation/NN ./.
+It/PRP is/VBZ well/RB known/VBN that/IN most/JJS TD/NN learning/NN algorithms/NNS are/VBP unstable/JJ with/IN linear/JJ function/NN approximation/NN and/CC off/IN -/HYPH policy/NN learning/NN ./.
+Recent/JJ development/NN of/IN Gradient/NN TD/NN (/-LRB- GTD/NN )/-RRB- algorithms/NNS has/VBZ addressed/VBN this/DT problem/NN successfully/RB ./.
+However/RB ,/, the/DT success/NN of/IN GTD/NN algorithms/NNS requires/VBZ a/DT set/NN of/IN well/RB chosen/VBN features/NNS ,/, which/WDT are/VBP not/RB always/RB available/JJ ./.
+When/WRB the/DT number/NN of/IN features/NNS is/VBZ huge/JJ ,/, the/DT GTD/NN algorithms/NNS might/MD face/VB the/DT problem/NN of/IN overfitting/VBG and/CC being/VBG computationally/RB expensive/JJ ./.
+To/TO cope/VB with/IN this/DT difficulty/NN ,/, regularization/NN techniques/NNS ,/, in/IN particular/JJ $/$ \/CD ell_1/CD $/$ regularization/CD ,/, have/VBP attracted/VBN significant/JJ attentions/NNS in/IN developing/VBG TD/NN learning/NN algorithms/NNS ./.
+The/DT present/JJ work/NN combines/VBZ the/DT GTD/NN algorithms/NNS with/IN $/$ \/CD ell_1/CD $/$ regularization/CD ./.
+We/PRP propose/VBP a/DT family/NN of/IN $/$ \/CD ell_1/CD $/$ regularized/VBN GTD/NN algorithms/NNS ,/, which/WDT employ/VBP the/DT well/RB known/JJ soft/JJ thresholding/NN operator/NN ./.
+We/PRP investigate/VBP convergence/NN properties/NNS of/IN the/DT proposed/VBN algorithms/NNS ,/, and/CC depict/VBP their/PRP$ performance/NN with/IN several/JJ numerical/JJ experiments/NNS ./.

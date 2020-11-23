@@ -1,0 +1,8 @@
+Chinese/JJ characters/NNS have/VBP a/DT complex/NN and/CC hierarchical/JJ graphical/JJ structure/NN carrying/VBG both/CC semantic/JJ and/CC phonetic/JJ information/NN ./.
+We/PRP use/VBP this/DT structure/NN to/TO enhance/VB the/DT text/NN model/NN and/CC obtain/VB better/JJR results/NNS in/IN standard/JJ NLP/NNP operations/NNS ./.
+First/RB of/IN all/DT ,/, to/TO tackle/VB the/DT problem/NN of/IN graphical/JJ variation/NN we/PRP define/VBP allographic/JJ classes/NNS of/IN characters/NNS ./.
+Next/RB ,/, the/DT relation/NN of/IN inclusion/NN of/IN a/DT subcharacter/NN in/IN a/DT characters/NNS ,/, provides/VBZ us/PRP with/IN a/DT directed/VBN graph/NN of/IN allographic/JJ classes/NNS ./.
+We/PRP provide/VBP this/DT graph/NN with/IN two/CD weights/NNS :/: semanticity/NN (/-LRB- semantic/JJ relation/NN between/IN subcharacter/NN and/CC character/NN )/-RRB- and/CC phoneticity/NN (/-LRB- phonetic/JJ relation/NN )/-RRB- and/CC calculate/VB "/`` most/RBS semantic/JJ subcharacter/NN paths/NNS "/'' for/IN each/DT character/NN ./.
+Finally/RB ,/, adding/VBG the/DT information/NN contained/VBN in/IN these/DT paths/NNS to/IN unigrams/NNS we/PRP claim/VBP to/TO increase/VB the/DT efficiency/NN of/IN text/NN mining/NN methods/NNS ./.
+We/PRP evaluate/VBP our/PRP$ method/NN on/IN a/DT text/NN classification/NN task/NN on/IN two/CD corpora/NNS (/-LRB- Chinese/JJ and/CC Japanese/JJ )/-RRB- of/IN a/DT total/NN of/IN 18/CD million/CD characters/NNS and/CC get/VB an/DT improvement/NN of/IN 3/CD percent/NN on/IN an/DT already/RB high/JJ baseline/NN of/IN 89.6/CD percent/NN precision/NN ,/, obtained/VBN by/IN a/DT linear/JJ SVM/NN classifier/NN ./.
+Other/JJ possible/JJ applications/NNS and/CC perspectives/NNS of/IN the/DT system/NN are/VBP discussed/VBN ./.

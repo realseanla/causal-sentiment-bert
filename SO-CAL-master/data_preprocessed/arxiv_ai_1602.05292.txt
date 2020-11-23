@@ -1,0 +1,7 @@
+In/IN practice/NN ,/, training/NN language/NN models/NNS for/IN individual/JJ authors/NNS is/VBZ often/RB expensive/JJ because/IN of/IN limited/JJ data/NNS resources/NNS ./.
+In/IN such/JJ cases/NNS ,/, Neural/JJ Network/NNP Language/NNP Models/NNPS (/-LRB- NNLMs/NNS )/-RRB- ,/, generally/RB outperform/VBP the/DT traditional/JJ non-parametric/JJ N/NN -/HYPH gram/NN models/NNS ./.
+Here/RB we/PRP investigate/VB the/DT performance/NN of/IN a/DT feed/NN -/HYPH forward/JJ NNLM/NN on/IN an/DT authorship/NN attribution/NN problem/NN ,/, with/IN moderate/JJ author/NN set/VBN size/NN and/CC relatively/RB limited/JJ data/NNS ./.
+We/PRP also/RB consider/VBP how/WRB the/DT text/NN topics/NNS impact/VBP performance/NN ./.
+Compared/VBN with/IN a/DT well/RB -/HYPH constructed/VBN N/NN -/HYPH gram/NN baseline/NN method/NN with/IN Kneser/NNP -/HYPH Ney/NNP smoothing/NN ,/, the/DT proposed/JJ method/NN achieves/VBZ nearly/RB 2:5/CD percent/NN reduction/NN in/IN perplexity/NN and/CC increases/VBZ author/NN classification/NN accuracy/NN by/IN 3:43/CD percent/NN on/IN average/JJ ,/, given/VBN as/IN few/JJ as/IN 5/CD test/NN sentences/NNS ./.
+The/DT performance/NN is/VBZ very/RB competitive/JJ with/IN the/DT state/NN of/IN the/DT art/NN in/IN terms/NNS of/IN accuracy/NN and/CC demand/NN on/IN test/NN data/NNS ./.
+The/DT source/NN code/NN ,/, preprocessed/JJ datasets/NNS ,/, a/DT detailed/JJ description/NN of/IN the/DT methodology/NN and/CC results/NNS are/VBP available/JJ at/IN

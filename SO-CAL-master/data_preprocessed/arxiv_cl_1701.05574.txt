@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ mechanism/NN for/IN enriching/VBG the/DT feature/NN vector/NN ,/, for/IN the/DT task/NN of/IN sarcasm/NN detection/NN ,/, with/IN cognitive/JJ features/NNS extracted/VBN from/IN eye/NN -/HYPH movement/NN patterns/NNS of/IN human/JJ readers/NNS ./.
+Sarcasm/NN detection/NN has/VBZ been/VBN a/DT challenging/JJ research/NN problem/NN ,/, and/CC its/PRP$ importance/NN for/IN NLP/NN applications/NNS such/JJ as/IN review/NN summarization/NN ,/, dialog/NN systems/NNS and/CC sentiment/NN analysis/NN is/VBZ well/RB recognized/VBN ./.
+Sarcasm/NN can/MD often/RB be/VB traced/VBN to/IN incongruity/NN that/WDT becomes/VBZ apparent/JJ as/IN the/DT full/JJ sentence/NN unfolds/VBZ ./.
+This/DT presence/NN of/IN incongruity/NN -/HYPH implicit/JJ or/CC explicit/JJ -/HYPH affects/VBZ the/DT way/NN readers/NNS eyes/NNS move/VBP through/IN the/DT text/NN ./.
+We/PRP observe/VBP the/DT difference/NN in/IN the/DT behaviour/NN of/IN the/DT eye/NN ,/, while/IN reading/VBG sarcastic/JJ and/CC non/AFX sarcastic/JJ sentences/NNS ./.
+Motivated/VBN by/IN his/PRP$ observation/NN ,/, we/PRP augment/VBP traditional/JJ linguistic/JJ and/CC stylistic/JJ features/NNS for/IN sarcasm/NN detection/NN with/IN the/DT cognitive/JJ features/NNS obtained/VBN from/IN readers/NNS eye/NN movement/NN data/NNS ./.
+We/PRP perform/VBP statistical/JJ classification/NN using/VBG the/DT enhanced/VBN feature/NN set/VBN so/RB obtained/VBN ./.
+The/DT augmented/VBN cognitive/JJ features/NNS improve/VBP sarcasm/NN detection/NN by/IN 3.7/CD percent/NN (/-LRB- in/IN terms/NNS of/IN F/NN -/HYPH score/NN )/-RRB- ,/, over/IN the/DT performance/NN of/IN the/DT best/JJS reported/VBN system/NN ./.

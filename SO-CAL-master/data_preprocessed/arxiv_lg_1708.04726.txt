@@ -1,0 +1,13 @@
+Biometrics/NNS have/VBP a/DT long/JJ -/HYPH held/JJ hope/NN of/IN replacing/VBG passwords/NNS by/IN establishing/VBG a/DT non-repudiated/JJ identity/NN and/CC providing/VBG authentication/NN with/IN convenience/NN ./.
+Convenience/JJ drives/NNS consumers/NNS toward/IN biometrics/NNS -/HYPH based/VBN access/NN management/NN solutions/NNS ./.
+Unlike/IN passwords/NNS ,/, biometrics/NNS can/MD not/RB be/VB script/NN -/HYPH injected/VBN ;/: however/RB ,/, biometric/JJ data/NNS is/VBZ considered/VBN highly/RB sensitive/JJ due/IN to/IN its/PRP$ personal/JJ nature/NN and/CC unique/JJ association/NN with/IN users/NNS ./.
+Biometrics/NNS differ/VBP from/IN passwords/NNS in/IN that/DT compromised/VBN passwords/NNS may/MD be/VB reset/VBN ./.
+Compromised/VBN biometrics/NNS offer/VBP no/DT such/JJ relief/NN ./.
+A/DT compromised/VBN biometric/JJ offers/NNS unlimited/JJ risk/NN in/IN privacy/NN (/-LRB- anyone/NN can/MD view/VB the/DT biometric/JJ )/-RRB- and/CC authentication/NN (/-LRB- anyone/NN may/MD use/VB the/DT biometric/JJ )/-RRB- ./.
+Standards/NNPS such/JJ as/IN the/DT Biometric/NNP Open/NNP Protocol/NNP Standard/NNP (/-LRB- BOPS/NNP )/-RRB- (/-LRB- IEEE/NNP 2410/CD -/HYPH 2016/CD )/-RRB- provide/VBP a/DT detailed/JJ mechanism/NN to/TO authenticate/VB biometrics/NNS based/VBN on/IN pre-enrolled/JJ devices/NNS and/CC a/DT previous/JJ identity/NN by/IN storing/VBG the/DT biometric/JJ in/IN encrypted/VBN form/NN ./.
+This/DT paper/NN describes/VBZ a/DT biometric/JJ -/HYPH agnostic/JJ approach/NN that/WDT addresses/VBZ the/DT privacy/NN concerns/NNS of/IN biometrics/NNS through/IN the/DT implementation/NN of/IN BOPS/NNP ./.
+Specifically/RB ,/, two/CD novel/JJ concepts/NNS are/VBP introduced/VBN ./.
+First/RB ,/, a/DT biometric/JJ is/VBZ applied/VBN to/IN a/DT neural/JJ network/NN to/TO create/VB a/DT feature/NN vector/NN ./.
+This/DT neural/JJ network/NN alone/RB can/MD be/VB used/VBN for/IN one/CD -/HYPH to/IN -/HYPH one/CD matching/NN (/-LRB- authentication/NN )/-RRB- ,/, but/CC would/MD require/VB a/DT search/NN in/IN linear/JJ time/NN for/IN the/DT one/CD -/HYPH to/IN -/HYPH many/JJ case/NN (/-LRB- identity/NN lookup/NN )/-RRB- ./.
+The/DT classifying/VBG algorithm/NN described/VBN in/IN this/DT paper/NN addresses/VBZ this/DT concern/NN by/IN producing/VBG normalized/VBN floating/VBG -/HYPH point/NN values/NNS for/IN each/DT feature/NN vector/NN ./.
+This/DT allows/VBZ authentication/NN lookup/NN to/TO occur/VB in/IN up/RB to/IN polynomial/JJ time/NN ,/, allowing/VBG for/IN search/NN in/IN encrypted/VBN biometric/JJ databases/NNS with/IN speed/NN ,/, accuracy/NN and/CC privacy/NN ./.

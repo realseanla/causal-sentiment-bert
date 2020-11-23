@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP compare/VBP different/JJ types/NNS of/IN recurrent/JJ units/NNS in/IN recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- ./.
+Especially/RB ,/, we/PRP focus/VBP on/IN more/RBR sophisticated/JJ units/NNS that/WDT implement/VBP a/DT gating/NN mechanism/NN ,/, such/JJ as/IN a/DT long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- unit/NN and/CC a/DT recently/RB proposed/VBN gated/VBN recurrent/JJ unit/NN (/-LRB- GRU/NN )/-RRB- ./.
+We/PRP evaluate/VBP these/DT recurrent/JJ units/NNS on/IN the/DT tasks/NNS of/IN polyphonic/JJ music/NN modeling/NN and/CC speech/NN signal/NN modeling/NN ./.
+Our/PRP$ experiments/NNS revealed/VBD that/IN these/DT advanced/JJ recurrent/JJ units/NNS are/VBP indeed/RB better/JJR than/IN more/RBR traditional/JJ recurrent/JJ units/NNS such/JJ as/IN tanh/NN units/NNS ./.
+Also/RB ,/, we/PRP found/VBD GRU/NNP to/TO be/VB comparable/JJ to/IN LSTM/NNP ./.

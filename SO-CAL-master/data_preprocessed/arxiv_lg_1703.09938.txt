@@ -1,0 +1,9 @@
+Analyzing/VBG multivariate/JJ time/NN series/NN data/NNS is/VBZ important/JJ for/IN many/JJ applications/NNS such/JJ as/IN automated/VBN control/NN ,/, fault/NN diagnosis/NN and/CC anomaly/NN detection/NN ./.
+One/CD of/IN the/DT key/JJ challenges/NNS is/VBZ to/TO learn/VB latent/JJ features/NNS automatically/RB from/IN dynamically/RB changing/VBG multivariate/JJ input/NN ./.
+In/IN visual/JJ recognition/NN tasks/NNS ,/, convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- have/VBP been/VBN successful/JJ to/TO learn/VB generalized/VBN feature/NN extractors/NNS with/IN shared/VBN parameters/NNS over/IN the/DT spatial/JJ domain/NN ./.
+However/RB ,/, when/WRB high/JJ -/HYPH dimensional/JJ multivariate/JJ time/NN series/NN is/VBZ given/VBN ,/, designing/VBG an/DT appropriate/JJ CNN/NNP model/NN structure/NN becomes/VBZ challenging/JJ because/IN the/DT kernels/NNS may/MD need/VB to/TO be/VB extended/VBN through/IN the/DT full/JJ dimension/NN of/IN the/DT input/NN volume/NN ./.
+To/TO address/VB this/DT issue/NN ,/, we/PRP present/VBP two/CD structure/NN learning/NN algorithms/NNS for/IN deep/JJ CNN/NNP models/NNS ./.
+Our/PRP$ algorithms/NNS exploit/VBP the/DT covariance/NN structure/NN over/IN multiple/JJ time/NN series/NN to/IN partition/NN input/NN volume/NN into/IN groups/NNS ./.
+The/DT first/JJ algorithm/NN learns/VBZ the/DT group/NN CNN/NNP structures/NNS explicitly/RB by/IN clustering/VBG individual/JJ input/NN sequences/NNS ./.
+The/DT second/JJ algorithm/NN learns/VBZ the/DT group/NN CNN/NNP structures/NNS implicitly/RB from/IN the/DT error/NN backpropagation/NN ./.
+In/IN experiments/NNS with/IN two/CD real/JJ -/HYPH world/NN datasets/NNS ,/, we/PRP demonstrate/VBP that/IN our/PRP$ group/NN CNNs/NNS outperform/VBP existing/VBG CNN/NNP based/VBN regression/NN methods/NNS ./.

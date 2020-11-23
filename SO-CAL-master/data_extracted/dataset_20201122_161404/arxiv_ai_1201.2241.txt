@@ -1,0 +1,5 @@
+For many optimization problems it is possible to define a distance metric between problem variables that correlates with the likelihood and strength of interactions between the variables.
+For example, one may define a metric so that the dependencies between variables that are closer to each other with respect to the metric are expected to be stronger than the dependencies between variables that are further apart.
+The purpose of this paper is to describe a method that combines such a problem-specific distance metric with information mined from probabilistic models obtained in previous runs of estimation of distribution algorithms with the goal of solving future problem instances of similar type with increased speed, accuracy and reliability.
+While the focus of the paper is on additively decomposable problems and the hierarchical Bayesian optimization algorithm, it should be straightforward to generalize the approach to other model-directed optimization techniques and other problem classes.
+Compared to other techniques for learning from experience put forward in the past, the proposed technique is both more practical and more broadly applicable.

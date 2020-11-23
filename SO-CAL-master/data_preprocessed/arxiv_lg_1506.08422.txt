@@ -1,0 +1,6 @@
+Latent/JJ Dirichlet/NNP Allocation/NN (/-LRB- LDA/NN )/-RRB- mining/NN thematic/JJ structure/NN of/IN documents/NNS plays/VBZ an/DT important/JJ role/NN in/IN nature/NN language/NN processing/NN and/CC machine/NN learning/NN areas/NNS ./.
+However/RB ,/, the/DT probability/NN distribution/NN from/IN LDA/NNP only/RB describes/VBZ the/DT statistical/JJ relationship/NN of/IN occurrences/NNS in/IN the/DT corpus/NN and/CC usually/RB in/IN practice/NN ,/, probability/NN is/VBZ not/RB the/DT best/JJS choice/NN for/IN feature/NN representations/NNS ./.
+Recently/RB ,/, embedding/VBG methods/NNS have/VBP been/VBN proposed/VBN to/TO represent/VB words/NNS and/CC documents/NNS by/IN learning/VBG essential/JJ concepts/NNS and/CC representations/NNS ,/, such/JJ as/IN Word2Vec/NN and/CC Doc2Vec/NN ./.
+The/DT embedded/VBN representations/NNS have/VBP shown/VBN more/RBR effectiveness/NN than/IN LDA/NN -/HYPH style/NN representations/NNS in/IN many/JJ tasks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP the/DT Topic2Vec/NNP approach/NN which/WDT can/MD learn/VB topic/NN representations/NNS in/IN the/DT same/JJ semantic/JJ vector/NN space/NN with/IN words/NNS ,/, as/IN an/DT alternative/NN to/IN probability/NN ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN Topic2Vec/NNP achieves/VBZ interesting/JJ and/CC meaningful/JJ results/NNS ./.

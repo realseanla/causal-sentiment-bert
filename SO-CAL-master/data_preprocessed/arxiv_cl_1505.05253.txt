@@ -1,0 +1,7 @@
+Knowledge/NN graph/NN embedding/NN refers/VBZ to/IN projecting/VBG entities/NNS and/CC relations/NNS in/IN knowledge/NN graph/NN into/IN continuous/JJ vector/NN spaces/NNS ./.
+State/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ,/, such/JJ as/IN TransE/NN ,/, TransH/NN ,/, and/CC TransR/NN build/VBP embeddings/NNS by/IN treating/VBG relation/NN as/IN translation/NN from/IN head/NN entity/NN to/IN tail/NN entity/NN ./.
+However/RB ,/, previous/JJ models/NNS can/MD not/RB deal/VB with/IN reflexive/JJ //HYPH one/NN -/HYPH to/IN -/HYPH many/JJ //HYPH many/JJ -/HYPH to/IN -/HYPH one/NN //HYPH many/JJ -/HYPH to/IN -/HYPH many/JJ relations/NNS properly/RB ,/, or/CC lack/NN of/IN scalability/NN and/CC efficiency/NN ./.
+Thus/RB ,/, we/PRP propose/VBP a/DT novel/JJ method/NN ,/, flexible/JJ translation/NN ,/, named/VBN TransF/NN ,/, to/TO address/VB the/DT above/JJ issues/NNS ./.
+TransF/NN regards/VBZ relation/NN as/IN translation/NN between/IN head/NN entity/NN vector/NN and/CC tail/NN entity/NN vector/NN with/IN flexible/JJ magnitude/NN ./.
+To/TO evaluate/VB the/DT proposed/VBN model/NN ,/, we/PRP conduct/VBP link/NN prediction/NN and/CC triple/JJ classification/NN on/IN benchmark/NN datasets/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ method/NN remarkably/RB improve/VB the/DT performance/NN compared/VBN with/IN several/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN baselines/NNS ./.

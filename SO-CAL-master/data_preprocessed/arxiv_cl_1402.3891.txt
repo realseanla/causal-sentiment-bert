@@ -1,0 +1,6 @@
+In/IN recent/JJ years/NNS ,/, the/DT use/NN of/IN machine/NN learning/NN classifiers/NNS is/VBZ of/IN great/JJ value/NN in/IN solving/VBG a/DT variety/NN of/IN problems/NNS in/IN text/NN classification/NN ./.
+Sentiment/NN mining/NN is/VBZ a/DT kind/NN of/IN text/NN classification/NN in/IN which/WDT ,/, messages/NNS are/VBP classified/VBN according/VBG to/IN sentiment/NN orientation/NN such/JJ as/IN positive/JJ or/CC negative/JJ ./.
+This/DT paper/NN extends/VBZ the/DT idea/NN of/IN evaluating/VBG the/DT performance/NN of/IN various/JJ classifiers/NNS to/TO show/VB their/PRP$ effectiveness/NN in/IN sentiment/NN mining/NN of/IN online/JJ product/NN reviews/NNS ./.
+The/DT product/NN reviews/NNS are/VBP collected/VBN from/IN Amazon/NNP reviews/NNS ./.
+To/TO evaluate/VB the/DT performance/NN of/IN classifiers/NNS various/JJ evaluation/NN methods/NNS like/IN random/JJ sampling/NN ,/, linear/JJ sampling/NN and/CC bootstrap/NN sampling/NN are/VBP used/VBN ./.
+Our/PRP$ results/NNS shows/VBZ that/IN support/NN vector/NN machine/NN with/IN bootstrap/NN sampling/NN method/NN outperforms/VBZ others/NNS classifiers/NNS and/CC sampling/NN methods/NNS in/IN terms/NNS of/IN misclassification/NN rate/NN ./.

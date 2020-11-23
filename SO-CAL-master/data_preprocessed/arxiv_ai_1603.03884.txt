@@ -1,0 +1,5 @@
+Problem/NN solving/VBG in/IN Answer/NN Set/VBN Programming/NN consists/VBZ of/IN two/CD steps/NNS ,/, a/DT first/JJ grounding/NN phase/NN ,/, systematically/RB replacing/VBG all/DT variables/NNS by/IN terms/NNS ,/, and/CC a/DT second/JJ solving/NN phase/NN computing/VBG the/DT stable/JJ models/NNS of/IN the/DT obtained/VBN ground/NN program/NN ./.
+An/DT intricate/JJ part/NN of/IN both/DT phases/NNS is/VBZ the/DT treatment/NN of/IN aggregates/NNS ,/, which/WDT are/VBP popular/JJ language/NN constructs/NNS that/WDT allow/VBP for/IN expressing/VBG properties/NNS over/IN sets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP elaborate/VBP upon/IN the/DT treatment/NN of/IN aggregates/NNS during/IN grounding/NN in/IN Gringo/NNP series/NN 4/CD ./.
+Consequently/RB ,/, our/PRP$ approach/NN is/VBZ applicable/JJ to/IN grounding/VBG based/VBN on/IN semi-naive/JJ database/NN evaluation/NN techniques/NNS ./.
+In/IN particular/JJ ,/, we/PRP provide/VBP a/DT series/NN of/IN algorithms/NNS detailing/VBG the/DT treatment/NN of/IN recursive/JJ aggregates/NNS and/CC illustrate/VB this/DT by/IN a/DT running/VBG example/NN ./.

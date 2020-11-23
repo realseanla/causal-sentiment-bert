@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN classifying/VBG graphs/NNS using/VBG graph/NN kernels/NNS ./.
+We/PRP define/VBP a/DT new/JJ graph/NN kernel/NN ,/, called/VBD the/DT generalized/VBN shortest/JJS path/NN kernel/NN ,/, based/VBN on/IN the/DT number/NN and/CC length/NN of/IN shortest/JJS paths/NNS between/IN nodes/NNS ./.
+For/IN our/PRP$ example/NN classification/NN problem/NN ,/, we/PRP consider/VBP the/DT task/NN of/IN classifying/VBG random/JJ graphs/NNS from/IN two/CD well/RB -/HYPH known/VBN families/NNS ,/, by/IN the/DT number/NN of/IN clusters/NNS they/PRP contain/VBP ./.
+We/PRP verify/VBP empirically/RB that/IN the/DT generalized/VBN shortest/JJS path/NN kernel/NN outperforms/VBZ the/DT original/JJ shortest/JJS path/NN kernel/NN on/IN a/DT number/NN of/IN datasets/NNS ./.
+We/PRP give/VBP a/DT theoretical/JJ analysis/NN for/IN explaining/VBG our/PRP$ experimental/JJ results/NNS ./.
+In/IN particular/JJ ,/, we/PRP estimate/VBP distributions/NNS of/IN the/DT expected/VBN feature/NN vectors/NNS for/IN the/DT shortest/JJS path/NN kernel/NN and/CC the/DT generalized/VBN shortest/JJS path/NN kernel/NN ,/, and/CC we/PRP show/VBP some/DT evidence/NN explaining/VBG why/WRB our/PRP$ graph/NN kernel/NN outperforms/VBZ the/DT shortest/JJS path/NN kernel/NN for/IN our/PRP$ graph/NN classification/NN problem/NN ./.

@@ -1,0 +1,8 @@
+The expected value of information (EVI) is the most powerful measure of sensitivity to uncertainty in a decision model: it measures the potential of information to improve the decision, and hence measures the expected value of outcome.
+Standard methods for computing EVI use discrete variables and are computationally intractable for models that contain more than a few variables.
+Monte Carlo simulation provides the basis for more tractable evaluation of large predictive models with continuous and discrete variables, but so far computation of EVI in a Monte Carlo setting also has appeared impractical.
+We introduce an approximate approach based on pre-posterior analysis for estimating EVI in Monte Carlo models.
+Our method uses a linear approximation to the value function and multiple linear regression to estimate the linear model from the samples.
+The approach is efficient and practical for extremely large models.
+It allows easy estimation of EVI for perfect or partial information on individual variables or on combinations of variables.
+We illustrate its implementation within Demos (a decision modeling system), and its application to a large model for crisis transportation planning.

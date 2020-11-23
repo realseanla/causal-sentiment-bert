@@ -1,0 +1,9 @@
+Social/JJ network/NN platforms/NNS can/MD archive/NN data/NNS produced/VBN by/IN their/PRP$ users/NNS and/CC re-use/VB the/DT data/NNS to/TO serve/VB the/DT users/NNS better/JJR ./.
+One/CD of/IN the/DT services/NNS that/WDT these/DT platforms/NNS provide/VBP is/VBZ the/DT recommendation/NN service/NN ./.
+Recommendation/NN systems/NNS can/MD predict/VB the/DT future/NN preferences/NNS of/IN the/DT users/NNS using/VBG various/JJ different/JJ techniques/NNS ./.
+One/CD of/IN the/DT most/RBS popular/JJ technique/NN for/IN recommendation/NN is/VBZ matrix/NN -/HYPH factorization/NN ,/, which/WDT uses/VBZ low/JJ -/HYPH rank/NN approximation/NN of/IN input/NN data/NNS ./.
+Similarly/RB word/NN embedding/NN methods/NNS from/IN natural/JJ language/NN processing/NN literature/NN learn/VBP low/JJ -/HYPH dimensional/JJ vector/NN space/NN representation/NN of/IN input/NN elements/NNS ./.
+Noticing/VBG the/DT similarities/NNS among/IN word/NN embedding/NN and/CC matrix/NN factorization/NN techniques/NNS and/CC based/VBN on/IN the/DT previous/JJ works/NNS that/WDT apply/VBP techniques/NNS from/IN text/NN processing/NN for/IN recommendation/NN ,/, Word2Vec/NNP 's/POS skip/VB -/HYPH gram/NN technique/NN is/VBZ employed/VBN to/TO make/VB recommendations/NNS ./.
+Unlike/IN previous/JJ works/NNS that/WDT use/VBP Word2Vec/NN for/IN recommendation/NN ,/, non-textual/JJ features/NNS are/VBP used/VBN ./.
+The/DT aim/NN of/IN this/DT work/NN is/VBZ to/TO make/VB recommendation/NN on/IN next/JJ check/NN -/HYPH in/IN venues/NNS and/CC a/DT Foursquare/NNP check/VB -/HYPH in/RP dataset/NN is/VBZ used/VBN for/IN this/DT purpose/NN ./.
+The/DT results/NNS showed/VBD that/IN use/NN of/IN vector/NN space/NN representations/NNS of/IN items/NNS modelled/VBN by/IN skip/VB -/HYPH gram/NN technique/NN is/VBZ promising/VBG for/IN making/VBG recommendations/NNS ./.

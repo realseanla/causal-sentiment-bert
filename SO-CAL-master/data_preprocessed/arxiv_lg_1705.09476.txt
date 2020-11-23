@@ -1,0 +1,10 @@
+Automatically/RB learning/VBG features/NNS ,/, especially/RB robust/JJ features/NNS ,/, has/VBZ attracted/VBN much/JJ attention/NN in/IN the/DT machine/NN learning/VBG community/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ method/NN to/TO learn/VB non-linear/JJ robust/JJ features/NNS by/IN taking/VBG advantage/NN of/IN the/DT data/NNS manifold/JJ structure/NN ./.
+We/PRP first/RB follow/VB the/DT commonly/RB used/VBN trick/NN of/IN the/DT trade/NN ,/, that/DT is/VBZ learning/VBG robust/JJ features/NNS with/IN artificially/RB corrupted/VBN data/NNS ,/, which/WDT are/VBP training/VBG samples/NNS with/IN manually/RB injected/VBN noise/NN ./.
+Following/VBG the/DT idea/NN of/IN the/DT auto/NN -/HYPH encoder/NN ,/, we/PRP first/RB assume/VBP features/NNS should/MD contain/VB much/JJ information/NN to/TO well/RB reconstruct/VB the/DT input/NN from/IN its/PRP$ corrupted/JJ copies/NNS ./.
+However/RB ,/, merely/RB reconstructing/VBG clean/JJ input/NN from/IN its/PRP$ noisy/JJ copies/NNS could/MD make/VB data/NNS manifold/NN in/IN the/DT feature/NN space/NN noisy/JJ ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP propose/VBP a/DT new/JJ method/NN ,/, called/VBN Incremental/NNP Auto/NNP -/HYPH Encoders/NNP ,/, to/TO iteratively/RB denoise/VB the/DT extracted/VBN features/NNS ./.
+We/PRP assume/VBP the/DT noisy/JJ manifold/JJ structure/NN is/VBZ caused/VBN by/IN a/DT diffusion/NN process/NN ./.
+Consequently/RB ,/, we/PRP reverse/RB this/DT specific/JJ diffusion/NN process/NN to/TO further/RB contract/VB this/DT noisy/JJ manifold/NN ,/, which/WDT results/VBZ in/IN an/DT incremental/JJ optimization/NN of/IN model/NN parameters/NNS ./.
+Furthermore/RB ,/, we/PRP show/VBP these/DT learned/VBN non-linear/JJ features/NNS can/MD be/VB stacked/VBN into/IN a/DT hierarchy/NN of/IN features/NNS ./.
+Experimental/JJ results/NNS on/IN real/JJ -/HYPH world/NN datasets/NNS demonstrate/VBP the/DT proposed/JJ method/NN can/MD achieve/VB better/JJR classification/NN performances/NNS ./.

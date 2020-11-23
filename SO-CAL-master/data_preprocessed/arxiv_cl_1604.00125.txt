@@ -1,0 +1,9 @@
+Query/NN relevance/NN ranking/NN and/CC sentence/NN saliency/NN ranking/NN are/VBP the/DT two/CD main/JJ tasks/NNS in/IN extractive/JJ query/NN -/HYPH focused/VBN summarization/NN ./.
+Previous/JJ supervised/JJ summarization/NN systems/NNS often/RB perform/VBP the/DT two/CD tasks/NNS in/IN isolation/NN ./.
+However/RB ,/, since/IN reference/NN summaries/NNS are/VBP the/DT trade/NN -/HYPH off/NN between/IN relevance/NN and/CC saliency/NN ,/, using/VBG them/PRP as/IN supervision/NN ,/, neither/DT of/IN the/DT two/CD rankers/NNS could/MD be/VB trained/VBN well/RB ./.
+This/DT paper/NN proposes/VBZ a/DT novel/JJ summarization/NN system/NN called/VBN AttSum/NNP ,/, which/WDT tackles/VBZ the/DT two/CD tasks/NNS jointly/RB ./.
+It/PRP automatically/RB learns/VBZ distributed/VBN representations/NNS for/IN sentences/NNS as/RB well/RB as/IN the/DT document/NN cluster/NN ./.
+Meanwhile/RB ,/, it/PRP applies/VBZ the/DT attention/NN mechanism/NN to/IN simulate/VB the/DT attentive/JJ reading/NN of/IN human/JJ behavior/NN when/WRB a/DT query/NN is/VBZ given/VBN ./.
+Extensive/JJ experiments/NNS are/VBP conducted/VBN on/IN DUC/NNP query/NN -/HYPH focused/VBN summarization/NN benchmark/NN datasets/NNS ./.
+Without/IN using/VBG any/DT hand/NN -/HYPH crafted/VBN features/NNS ,/, AttSum/NNP achieves/VBZ competitive/JJ performance/NN ./.
+It/PRP is/VBZ also/RB observed/VBN that/IN the/DT sentences/NNS recognized/VBD to/TO focus/VB on/IN the/DT query/NN indeed/RB meet/VB the/DT query/NN need/NN ./.

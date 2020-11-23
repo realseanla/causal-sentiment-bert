@@ -1,0 +1,6 @@
+We introduce a deep scattering network, which computes invariants with iterated contractions adapted to training data.
+It defines a deep convolution network model, whose contraction properties can be analyzed mathematically.
+A cascade of wavelet transform convolutions are computed with a multirate filter bank, and adapted with permutations.
+Unsupervised learning of permutations optimize the contraction directions, by maximizing the average discriminability of training data.
+For Haar wavelets, it is solved with a polynomial complexity pairing algorithm.
+Translation and rotation invariance learning is shown with classification experiments on hand-written digits.

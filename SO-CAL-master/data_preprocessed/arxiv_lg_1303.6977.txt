@@ -1,0 +1,7 @@
+This/DT paper/NN introduces/VBZ a/DT simple/JJ ,/, general/JJ framework/NN for/IN likelihood/NN -/HYPH free/JJ Bayesian/JJ reinforcement/NN learning/NN ,/, through/IN Approximate/JJ Bayesian/JJ Computation/NN (/-LRB- ABC/NNP )/-RRB- ./.
+The/DT main/JJ advantage/NN is/VBZ that/IN we/PRP only/RB require/VBP a/DT prior/JJ distribution/NN on/IN a/DT class/NN of/IN simulators/NNS (/-LRB- generative/JJ models/NNS )/-RRB- ./.
+This/DT is/VBZ useful/JJ in/IN domains/NNS where/WRB an/DT analytical/JJ probabilistic/JJ model/NN of/IN the/DT underlying/JJ process/NN is/VBZ too/RB complex/JJ to/TO formulate/VB ,/, but/CC where/WRB detailed/JJ simulation/NN models/NNS are/VBP available/JJ ./.
+ABC/NNP -/HYPH RL/NNP allows/VBZ the/DT use/NN of/IN any/DT Bayesian/JJ reinforcement/NN learning/VBG technique/NN ,/, even/RB in/IN this/DT case/NN ./.
+In/IN addition/NN ,/, it/PRP can/MD be/VB seen/VBN as/IN an/DT extension/NN of/IN rollout/NN algorithms/NNS to/IN the/DT case/NN where/WRB we/PRP do/VBP not/RB know/VB what/WP the/DT correct/JJ model/NN to/TO draw/VB rollouts/NNS from/IN is/VBZ ./.
+We/PRP experimentally/RB demonstrate/VBP the/DT potential/NN of/IN this/DT approach/NN in/IN a/DT comparison/NN with/IN LSPI/NN ./.
+Finally/RB ,/, we/PRP introduce/VBP a/DT theorem/NN showing/VBG that/IN ABC/NNP is/VBZ a/DT sound/JJ methodology/NN in/IN principle/NN ,/, even/RB when/WRB non-sufficient/JJ statistics/NNS are/VBP used/VBN ./.

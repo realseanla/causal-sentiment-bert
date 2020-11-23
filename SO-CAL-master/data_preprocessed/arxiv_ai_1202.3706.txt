@@ -1,0 +1,8 @@
+At/IN the/DT heart/NN of/IN many/JJ scientific/JJ conferences/NNS is/VBZ the/DT problem/NN of/IN matching/VBG submitted/VBN papers/NNS to/IN suitable/JJ reviewers/NNS ./.
+Arriving/VBG at/IN a/DT good/JJ assignment/NN is/VBZ a/DT major/JJ and/CC important/JJ challenge/NN for/IN any/DT conference/NN organizer/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT framework/NN to/TO optimize/VB paper/NN -/HYPH to/IN -/HYPH reviewer/NN assignments/NNS ./.
+Our/PRP$ framework/NN uses/VBZ suitability/NN scores/NNS to/TO measure/VB pairwise/JJ affinity/NN between/IN papers/NNS and/CC reviewers/NNS ./.
+We/PRP show/VBP how/WRB learning/NN can/MD be/VB used/VBN to/TO infer/VB suitability/NN scores/NNS from/IN a/DT small/JJ set/NN of/IN provided/VBN scores/NNS ,/, thereby/RB reducing/VBG the/DT burden/NN on/IN reviewers/NNS and/CC organizers/NNS ./.
+We/PRP frame/VBP the/DT assignment/NN problem/NN as/IN an/DT integer/NN program/NN and/CC propose/VB several/JJ variations/NNS for/IN the/DT paper/NN -/HYPH to/IN -/HYPH reviewer/NN matching/NN domain/NN ./.
+We/PRP also/RB explore/VB how/WRB learning/NN and/CC matching/NN interact/VBP ./.
+Experiments/NNS on/IN two/CD conference/NN data/NN sets/NNS examine/VBP the/DT performance/NN of/IN several/JJ learning/NN methods/NNS as/RB well/RB as/IN the/DT effectiveness/NN of/IN the/DT matching/NN formulations/NNS ./.

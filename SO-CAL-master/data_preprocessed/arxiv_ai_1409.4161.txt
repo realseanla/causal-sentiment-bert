@@ -1,0 +1,10 @@
+This/DT is/VBZ the/DT first/JJ study/NN on/IN crowdsourcing/VBG Pareto/NN -/HYPH optimal/JJ object/NN finding/NN ,/, which/WDT has/VBZ applications/NNS in/IN public/JJ opinion/NN collection/NN ,/, group/NN decision/NN making/NN ,/, and/CC information/NN exploration/NN ./.
+Departing/VBG from/IN prior/JJ studies/NNS on/IN crowdsourcing/VBG skyline/NN and/CC ranking/VBG queries/NNS ,/, it/PRP considers/VBZ the/DT case/NN where/WRB objects/NNS do/VBP not/RB have/VB explicit/JJ attributes/NNS and/CC preference/NN relations/NNS on/IN objects/NNS are/VBP strict/JJ partial/JJ orders/NNS ./.
+The/DT partial/JJ orders/NNS are/VBP derived/VBN by/IN aggregating/VBG crowdsourcers/NNS '/POS responses/NNS to/IN pairwise/JJ comparison/NN questions/NNS ./.
+The/DT goal/NN is/VBZ to/TO find/VB all/DT Pareto/NN -/HYPH optimal/JJ objects/NNS by/IN the/DT fewest/JJS possible/JJ questions/NNS ./.
+It/PRP employs/VBZ an/DT iterative/JJ question/NN -/HYPH selection/NN framework/NN ./.
+Guided/VBN by/IN the/DT principle/NN of/IN eagerly/RB identifying/VBG non-Pareto/JJ optimal/JJ objects/NNS ,/, the/DT framework/NN only/RB chooses/VBZ candidate/NN questions/NNS which/WDT must/MD satisfy/VB three/CD conditions/NNS ./.
+This/DT design/NN is/VBZ both/DT sufficient/JJ and/CC efficient/JJ ,/, as/IN it/PRP is/VBZ proven/VBN to/TO find/VB a/DT short/JJ terminal/JJ question/NN sequence/NN ./.
+The/DT framework/NN is/VBZ further/RB steered/VBN by/IN two/CD ideas/NNS ---/NFP macro-ordering/NN and/CC micro-ordering/NN ./.
+By/IN different/JJ micro-ordering/JJ heuristics/NNS ,/, the/DT framework/NN is/VBZ instantiated/VBN into/IN several/JJ algorithms/NNS with/IN varying/VBG power/NN in/IN pruning/NN questions/NNS ./.
+Experiment/NN results/NNS using/VBG both/CC real/JJ crowdsourcing/VBG marketplace/NN and/CC simulations/NNS exhibited/VBD not/RB only/RB orders/NNS of/IN magnitude/NN reductions/NNS in/IN questions/NNS when/WRB compared/VBN with/IN a/DT brute/JJ -/HYPH force/NN approach/NN ,/, but/CC also/RB close/RB -/HYPH to/TO -/HYPH optimal/JJ performance/NN from/IN the/DT most/RBS efficient/JJ instantiation/NN ./.

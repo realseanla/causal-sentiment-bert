@@ -1,0 +1,5 @@
+We/PRP develop/VBP a/DT scalable/JJ and/CC extendable/JJ training/NN framework/NN that/WDT can/MD utilize/VB GPUs/NNS across/IN nodes/NNS in/IN a/DT cluster/NN and/CC accelerate/VB the/DT training/NN of/IN deep/JJ learning/NN models/NNS based/VBN on/IN data/NNS parallelism/NN ./.
+Both/DT synchronous/JJ and/CC asynchronous/JJ training/NN are/VBP implemented/VBN in/IN our/PRP$ framework/NN ,/, where/WRB parameter/NN exchange/NN among/IN GPUs/NNS is/VBZ based/VBN on/IN CUDA/NNP -/HYPH aware/JJ MPI/NNP ./.
+In/IN this/DT report/NN ,/, we/PRP analyze/VBP the/DT convergence/NN and/CC capability/NN of/IN the/DT framework/NN to/TO reduce/VB training/NN time/NN when/WRB scaling/VBG the/DT synchronous/JJ training/NN of/IN AlexNet/NNP and/CC GoogLeNet/NNP from/IN 2/CD GPUs/NNS to/TO 8/CD GPUs/NNS ./.
+In/IN addition/NN ,/, we/PRP explore/VBP novel/JJ ways/NNS to/TO reduce/VB the/DT communication/NN overhead/NN caused/VBN by/IN exchanging/VBG parameters/NNS ./.
+Finally/RB ,/, we/PRP release/VBP the/DT framework/NN as/IN open/JJ -/HYPH source/NN for/IN further/JJ research/NN on/IN distributed/VBN deep/JJ learning/NN

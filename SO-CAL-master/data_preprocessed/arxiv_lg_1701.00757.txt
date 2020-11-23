@@ -1,0 +1,6 @@
+Signed/VBN networks/NNS allow/VBP to/TO model/VB positive/JJ and/CC negative/JJ relationships/NNS ./.
+We/PRP analyze/VBP existing/VBG extensions/NNS of/IN spectral/JJ clustering/NN to/IN signed/VBN networks/NNS ./.
+It/PRP turns/VBZ out/RP that/IN existing/VBG approaches/NNS do/VBP not/RB recover/VB the/DT ground/NN truth/NN clustering/NN in/IN several/JJ situations/NNS where/WRB either/CC the/DT positive/JJ or/CC the/DT negative/JJ network/NN structures/NNS contain/VBP no/DT noise/NN ./.
+Our/PRP$ analysis/NN shows/VBZ that/IN these/DT problems/NNS arise/VBP as/IN existing/VBG approaches/NNS take/VB some/DT form/NN of/IN arithmetic/NN mean/NN of/IN the/DT Laplacians/NNPS of/IN the/DT positive/JJ and/CC negative/JJ part/NN ./.
+As/IN a/DT solution/NN we/PRP propose/VBP to/TO use/VB the/DT geometric/JJ mean/NN of/IN the/DT Laplacians/NNPS of/IN positive/JJ and/CC negative/JJ part/NN and/CC show/VBP that/IN it/PRP outperforms/VBZ the/DT existing/VBG approaches/NNS ./.
+While/IN the/DT geometric/JJ mean/NN of/IN matrices/NNS is/VBZ computationally/RB expensive/JJ ,/, we/PRP show/VBP that/IN eigenvectors/NNS of/IN the/DT geometric/JJ mean/NN can/MD be/VB computed/VBN efficiently/RB ,/, leading/VBG to/IN a/DT numerical/JJ scheme/NN for/IN sparse/JJ matrices/NNS which/WDT is/VBZ of/IN independent/JJ interest/NN ./.

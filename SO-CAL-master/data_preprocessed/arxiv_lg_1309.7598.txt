@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP describe/VBP how/WRB MAP/NN inference/NN can/MD be/VB used/VBN to/TO sample/VB efficiently/RB from/IN Gibbs/NNP distributions/NNS ./.
+Specifically/RB ,/, we/PRP provide/VBP means/NNS for/IN drawing/VBG either/CC approximate/JJ or/CC unbiased/JJ samples/NNS from/IN Gibbs/NNP '/POS distributions/NNS by/IN introducing/VBG low/JJ dimensional/JJ perturbations/NNS and/CC solving/VBG the/DT corresponding/VBG MAP/NN assignments/NNS ./.
+Our/PRP$ approach/NN also/RB leads/VBZ to/IN new/JJ ways/NNS to/TO derive/VB lower/JJR bounds/NNS on/IN partition/NN functions/NNS ./.
+We/PRP demonstrate/VBP empirically/RB that/IN our/PRP$ method/NN excels/VBZ in/IN the/DT typical/JJ "/`` high/JJ signal/NN -/HYPH high/JJ coupling/NN "/'' regime/NN ./.
+The/DT setting/NN results/VBZ in/IN ragged/JJ energy/NN landscapes/NNS that/WDT are/VBP challenging/VBG for/IN alternative/JJ approaches/NNS to/IN sampling/NN and/CC //HYPH or/CC lower/JJR bounds/NNS ./.

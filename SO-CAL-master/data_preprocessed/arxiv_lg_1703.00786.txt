@@ -1,0 +1,5 @@
+To/TO speed/VB up/RP the/DT training/NN process/NN ,/, many/JJ existing/VBG systems/NNS use/VBP parallel/JJ technology/NN for/IN online/JJ learning/NN algorithms/NNS ./.
+However/RB ,/, most/JJS research/NN mainly/RB focus/VBP on/IN stochastic/JJ gradient/NN descent/NN (/-LRB- SGD/NNP )/-RRB- instead/RB of/IN other/JJ algorithms/NNS ./.
+We/PRP propose/VBP a/DT generic/JJ online/JJ parallel/JJ learning/NN framework/NN for/IN large/JJ margin/NN models/NNS ,/, and/CC also/RB analyze/VB our/PRP$ framework/NN on/IN popular/JJ large/JJ margin/NN algorithms/NNS ,/, including/VBG MIRA/NNP and/CC Structured/NNP Perceptron/NNP ./.
+Our/PRP$ framework/NN is/VBZ lock/JJ -/HYPH free/JJ and/CC easy/JJ to/TO implement/VB on/IN existing/VBG systems/NNS ./.
+Experiments/NNS show/VBP that/IN systems/NNS with/IN our/PRP$ framework/NN can/MD gain/VB near/IN linear/JJ speed/NN up/RP by/IN increasing/VBG running/VBG threads/NNS ,/, and/CC with/IN no/DT loss/NN in/IN accuracy/NN ./.

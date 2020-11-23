@@ -1,0 +1,8 @@
+Our/PRP$ work/NN concerns/VBZ the/DT elucidation/NN of/IN the/DT cancer/NN (/-LRB- epi/NN )/-RRB- genome/NN ,/, transcriptome/NN and/CC proteome/NN to/TO better/RBR understand/VB the/DT complex/JJ interplay/NN between/IN a/DT cancer/NN cell/NN 's/POS molecular/JJ state/NN and/CC its/PRP$ response/NN to/IN anti-cancer/JJ therapy/NN ./.
+To/TO study/VB the/DT problem/NN ,/, we/PRP have/VBP previously/RB focused/VBN on/IN data/NNS warehousing/NN technologies/NNS and/CC statistical/JJ data/NN integration/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP recent/JJ work/NN on/IN extending/VBG our/PRP$ analytical/JJ capabilities/NNS using/VBG Semantic/JJ Web/NN technology/NN ./.
+A/DT key/JJ new/JJ component/NN presented/VBN here/RB is/VBZ a/DT SPARQL/NN endpoint/NN to/IN our/PRP$ existing/VBG data/NNS warehouse/NN ./.
+This/DT endpoint/NN allows/VBZ the/DT merging/NN of/IN observed/VBN quantitative/JJ data/NNS with/IN existing/VBG data/NNS from/IN semantic/JJ knowledge/NN sources/NNS such/JJ as/IN Gene/NNP Ontology/NNP (/-LRB- GO/VB )/-RRB- ./.
+We/PRP show/VBP how/WRB such/JJ variegated/VBN quantitative/JJ and/CC functional/JJ data/NNS can/MD be/VB integrated/VBN and/CC accessed/VBN in/IN a/DT universal/JJ manner/NN using/VBG Semantic/JJ Web/NN tools/NNS ./.
+We/PRP also/RB demonstrate/VBP how/WRB Description/NN Logic/NN (/-LRB- DL/NN )/-RRB- reasoning/NN can/MD be/VB used/VBN to/TO infer/VB previously/RB unstated/JJ conclusions/NNS from/IN existing/VBG knowledge/NN bases/NNS ./.
+As/IN proof/NN of/IN concept/NN ,/, we/PRP illustrate/VBP the/DT ability/NN of/IN our/PRP$ setup/NN to/TO answer/VB complex/JJ queries/NNS on/IN resistance/NN of/IN cancer/NN cells/NNS to/TO Decitabine/NNP ,/, a/DT demethylating/VBG agent/NN ./.

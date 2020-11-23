@@ -1,0 +1,6 @@
+We/PRP describe/VBP the/DT problem/NN of/IN aggregating/VBG the/DT label/NN predictions/NNS of/IN diverse/JJ classifiers/NNS using/VBG a/DT class/NN taxonomy/NN ./.
+Such/PDT a/DT taxonomy/NN may/MD not/RB have/VB been/VBN available/JJ or/CC referenced/VBN when/WRB the/DT individual/JJ classifiers/NNS were/VBD designed/VBN and/CC trained/VBN ,/, yet/CC mapping/VBG the/DT output/NN labels/NNS into/IN the/DT taxonomy/NN is/VBZ desirable/JJ to/TO integrate/VB the/DT effort/NN spent/VBN in/IN training/VBG the/DT constituent/JJ classifiers/NNS ./.
+A/DT hierarchical/JJ taxonomy/NN representing/VBG some/DT domain/NN knowledge/NN may/MD be/VB different/JJ from/IN ,/, but/CC partially/RB mappable/JJ to/IN ,/, the/DT label/NN sets/NNS of/IN the/DT individual/JJ classifiers/NNS ./.
+We/PRP present/VBP a/DT heuristic/NN approach/NN and/CC a/DT principled/JJ graphical/JJ model/NN to/IN aggregate/NN the/DT label/NN predictions/NNS by/IN grounding/VBG them/PRP into/IN the/DT available/JJ taxonomy/NN ./.
+Our/PRP$ model/NN aggregates/NNS the/DT labels/NNS using/VBG the/DT taxonomy/NN structure/NN as/IN constraints/NNS to/TO find/VB the/DT most/RBS likely/JJ hierarchically/RB consistent/JJ class/NN ./.
+We/PRP experimentally/RB validate/VBP our/PRP$ proposed/JJ method/NN on/IN image/NN and/CC text/NN classification/NN tasks/NNS ./.

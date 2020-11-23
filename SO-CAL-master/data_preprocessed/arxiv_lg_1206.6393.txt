@@ -1,0 +1,6 @@
+This/DT paper/NN re-visits/VBZ the/DT spectral/JJ method/NN for/IN learning/VBG latent/JJ variable/JJ models/NNS defined/VBN in/IN terms/NNS of/IN observable/JJ operators/NNS ./.
+We/PRP give/VBP a/DT new/JJ perspective/NN on/IN the/DT method/NN ,/, showing/VBG that/IN operators/NNS can/MD be/VB recovered/VBN by/IN minimizing/VBG a/DT loss/NN defined/VBN on/IN a/DT finite/JJ subset/NN of/IN the/DT domain/NN ./.
+A/DT non-convex/JJ optimization/NN similar/JJ to/IN the/DT spectral/JJ method/NN is/VBZ derived/VBN ./.
+We/PRP also/RB propose/VBP a/DT regularized/VBN convex/NN relaxation/NN of/IN this/DT optimization/NN ./.
+We/PRP show/VBP that/IN in/IN practice/NN the/DT availabilty/NN of/IN a/DT continuous/JJ regularization/NN parameter/NN (/-LRB- in/IN contrast/NN with/IN the/DT discrete/JJ number/NN of/IN states/NNS in/IN the/DT original/JJ method/NN )/-RRB- allows/VBZ a/DT better/JJR trade/NN -/HYPH off/NN between/IN accuracy/NN and/CC model/NN complexity/NN ./.
+We/PRP also/RB prove/VBP that/IN in/IN general/JJ ,/, a/DT randomized/JJ strategy/NN for/IN choosing/VBG the/DT local/JJ loss/NN will/MD succeed/VB with/IN high/JJ probability/NN ./.

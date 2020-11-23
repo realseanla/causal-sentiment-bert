@@ -1,0 +1,6 @@
+GPU/NN activity/NN prediction/NN is/VBZ an/DT important/JJ and/CC complex/JJ problem/NN ./.
+This/DT is/VBZ due/JJ to/IN the/DT high/JJ level/NN of/IN contention/NN among/IN thousands/NNS of/IN parallel/JJ threads/NNS ./.
+This/DT problem/NN was/VBD mostly/RB addressed/VBN using/VBG heuristics/NNS ./.
+We/PRP propose/VBP a/DT representation/NN learning/NN approach/NN to/TO address/VB this/DT problem/NN ./.
+We/PRP model/VBP any/DT performance/NN metric/JJ as/IN a/DT temporal/JJ function/NN of/IN the/DT executed/VBN instructions/NNS with/IN the/DT intuition/NN that/IN the/DT flow/NN of/IN instructions/NNS can/MD be/VB identified/VBN as/IN distinct/JJ activities/NNS of/IN the/DT code/NN ./.
+Our/PRP$ experiments/NNS show/VBP high/JJ accuracy/NN and/CC non-trivial/JJ predictive/JJ power/NN of/IN representation/NN learning/NN on/IN a/DT benchmark/NN ./.

@@ -1,0 +1,4 @@
+We/PRP study/VBP the/DT pure/JJ exploration/NN problem/NN subject/NN to/IN a/DT matroid/NN constraint/NN (/-LRB- Best/NN -/HYPH Basis/NN )/-RRB- in/IN a/DT stochastic/JJ multi-armed/JJ bandit/NN game/NN ./.
+In/IN a/DT Best/NN -/HYPH Basis/NN instance/NN ,/, we/PRP are/VBP given/VBN $/$ n/NN $/$ stochastic/JJ arms/NNS with/IN unknown/JJ reward/NN distributions/NNS ,/, as/RB well/RB as/IN a/DT matroid/JJ $/$ \/CD mathcal/NN {/-LRB- M/NN }/-RRB- $/$ over/IN the/DT arms/NNS ./.
+Let/VB the/DT weight/NN of/IN an/DT arm/NN be/VB the/DT mean/NN of/IN its/PRP$ reward/NN distribution/NN ./.
+Our/PRP$ goal/NN is/VBZ to/TO identify/VB a/DT basis/NN of/IN $/$ \/CD mathcal/NN {/-LRB- M/NN }/-RRB- $/$ with/IN the/DT maximum/JJ total/JJ weight/NN ,/, using/VBG as/IN few/JJ samples/NNS as/IN possible/JJ ./.

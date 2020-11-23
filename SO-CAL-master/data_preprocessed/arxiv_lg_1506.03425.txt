@@ -1,0 +1,9 @@
+We/PRP present/VBP a/DT new/JJ fast/JJ online/NN clustering/NN algorithm/NN that/WDT reliably/RB recovers/VBZ arbitrary/JJ -/HYPH shaped/VBN data/NNS clusters/NNS in/IN high/JJ throughout/IN data/NNS streams/NNS ./.
+Unlike/IN the/DT existing/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN online/JJ clustering/NN methods/NNS based/VBN on/IN k/CD -/HYPH means/NNS or/CC k/CD -/HYPH medoid/NN ,/, it/PRP does/VBZ not/RB make/VB any/DT restrictive/JJ generative/JJ assumptions/NNS ./.
+In/IN addition/NN ,/, in/IN contrast/NN to/IN existing/VBG nonparametric/JJ clustering/NN techniques/NNS such/JJ as/IN DBScan/NNP or/CC DenStream/NNP ,/, it/PRP gives/VBZ provable/JJ theoretical/JJ guarantees/NNS ./.
+To/TO achieve/VB fast/JJ clustering/NN ,/, we/PRP propose/VBP to/TO represent/VB each/DT cluster/NN by/IN a/DT skeleton/NN set/NN which/WDT is/VBZ updated/VBN continuously/RB as/IN new/JJ data/NNS is/VBZ seen/VBN ./.
+A/DT skeleton/NN set/NN consists/VBZ of/IN weighted/JJ samples/NNS from/IN the/DT data/NNS where/WRB weights/NNS encode/VBP local/JJ densities/NNS ./.
+The/DT size/NN of/IN each/DT skeleton/NN set/NN is/VBZ adapted/VBN according/VBG to/IN the/DT cluster/NN geometry/NN ./.
+The/DT proposed/VBN technique/NN automatically/RB detects/VBZ the/DT number/NN of/IN clusters/NNS and/CC is/VBZ robust/JJ to/IN outliers/NNS ./.
+The/DT algorithm/NN works/VBZ for/IN the/DT infinite/JJ data/NNS stream/NN where/WRB more/JJR than/IN one/CD pass/NN over/IN the/DT data/NNS is/VBZ not/RB feasible/JJ ./.
+We/PRP provide/VBP theoretical/JJ guarantees/NNS on/IN the/DT quality/NN of/IN the/DT clustering/NN and/CC also/RB demonstrate/VBP its/PRP$ advantage/NN over/IN the/DT existing/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN several/JJ datasets/NNS ./.

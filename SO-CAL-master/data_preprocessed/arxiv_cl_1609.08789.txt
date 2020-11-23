@@ -1,0 +1,6 @@
+Recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- have/VBP shown/VBN clear/JJ superiority/NN in/IN sequence/NN modeling/NN ,/, particularly/RB the/DT ones/NNS with/IN gated/VBN units/NNS ,/, such/JJ as/IN long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- and/CC gated/VBN recurrent/JJ unit/NN (/-LRB- GRU/NN )/-RRB- ./.
+However/RB ,/, the/DT dynamic/JJ properties/NNS behind/IN the/DT remarkable/JJ performance/NN remain/VBP unclear/JJ in/IN many/JJ applications/NNS ,/, e.g./FW ,/, automatic/JJ speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- ./.
+This/DT paper/NN employs/VBZ visualization/NN techniques/NNS to/TO study/VB the/DT behavior/NN of/IN LSTM/NNP and/CC GRU/NNP when/WRB performing/VBG speech/NN recognition/NN tasks/NNS ./.
+Our/PRP$ experiments/NNS show/VBP some/DT interesting/JJ patterns/NNS in/IN the/DT gated/VBN memory/NN ,/, and/CC some/DT of/IN them/PRP have/VBP inspired/VBN simple/JJ yet/RB effective/JJ modifications/NNS on/IN the/DT network/NN structure/NN ./.
+We/PRP report/VBP two/CD of/IN such/JJ modifications/NNS :/: (/-LRB- 1/LS )/-RRB- lazy/JJ cell/NN update/NN in/IN LSTM/NNP ,/, and/CC (/-LRB- 2/LS )/-RRB- shortcut/NN connections/NNS for/IN residual/JJ learning/NN ./.
+Both/DT modifications/NNS lead/VBP to/IN more/JJR comprehensible/JJ and/CC powerful/JJ networks/NNS ./.

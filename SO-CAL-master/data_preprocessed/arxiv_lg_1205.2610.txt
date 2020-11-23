@@ -1,0 +1,5 @@
+We/PRP consider/VBP MAP/NN estimators/NNS for/IN structured/JJ prediction/NN with/IN exponential/JJ family/NN models/NNS ./.
+In/IN particular/JJ ,/, we/PRP concentrate/VBP on/IN the/DT case/NN that/WDT efficient/JJ algorithms/NNS for/IN uniform/JJ sampling/NN from/IN the/DT output/NN space/NN exist/VBP ./.
+We/PRP show/VBP that/IN under/IN this/DT assumption/NN (/-LRB- i/LS )/-RRB- exact/JJ computation/NN of/IN the/DT partition/NN function/NN remains/VBZ a/DT hard/JJ problem/NN ,/, and/CC (/-LRB- ii/LS )/-RRB- the/DT partition/NN function/NN and/CC the/DT gradient/NN of/IN the/DT log/NN partition/NN function/NN can/MD be/VB approximated/VBN efficiently/RB ./.
+Our/PRP$ main/JJ result/NN is/VBZ an/DT approximation/NN scheme/NN for/IN the/DT partition/NN function/NN based/VBN on/IN Markov/NNP Chain/NNP Monte/NNP Carlo/NNP theory/NN ./.
+We/PRP also/RB show/VBP that/IN the/DT efficient/JJ uniform/NN sampling/NN assumption/NN holds/VBZ in/IN several/JJ application/NN settings/NNS that/WDT are/VBP of/IN importance/NN in/IN machine/NN learning/NN ./.

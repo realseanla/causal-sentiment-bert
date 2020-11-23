@@ -1,0 +1,6 @@
+An/DT experimental/JJ approach/NN to/IN studying/VBG the/DT properties/NNS of/IN word/NN embeddings/NNS is/VBZ proposed/VBN ./.
+Controlled/VBN experiments/NNS ,/, achieved/VBN through/IN modifications/NNS of/IN the/DT training/NN corpus/NN ,/, permit/VBP the/DT demonstration/NN of/IN direct/JJ relations/NNS between/IN word/NN properties/NNS and/CC word/NN vector/NN direction/NN and/CC length/NN ./.
+The/DT approach/NN is/VBZ demonstrated/VBN using/VBG the/DT word2vec/NN CBOW/NNP model/NN with/IN experiments/NNS that/WDT independently/RB vary/VBP word/NN frequency/NN and/CC word/NN co-occurrence/NN noise/NN ./.
+The/DT experiments/NNS reveal/VBP that/IN word/NN vector/NN length/NN depends/VBZ more/RBR or/CC less/RBR linearly/RB on/IN both/DT word/NN frequency/NN and/CC the/DT level/NN of/IN noise/NN in/IN the/DT co-occurrence/NN distribution/NN of/IN the/DT word/NN ./.
+The/DT coefficients/NNS of/IN linearity/NN depend/VBP upon/IN the/DT word/NN ./.
+The/DT special/JJ point/NN in/IN feature/NN space/NN ,/, defined/VBN by/IN the/DT (/-LRB- artificial/JJ )/-RRB- word/NN with/IN pure/JJ noise/NN in/IN its/PRP$ co-occurrence/NN distribution/NN ,/, is/VBZ found/VBN to/TO be/VB small/JJ but/CC non-zero/JJ ./.

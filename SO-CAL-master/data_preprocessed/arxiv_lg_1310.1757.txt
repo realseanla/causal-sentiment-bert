@@ -1,0 +1,7 @@
+The/DT Neural/JJ Autoregressive/JJ Distribution/NN Estimator/NN (/-LRB- NADE/NN )/-RRB- and/CC its/PRP$ real/JJ -/HYPH valued/VBN version/NN RNADE/NN are/VBP competitive/JJ density/NN models/NNS of/IN multidimensional/JJ data/NNS across/IN a/DT variety/NN of/IN domains/NNS ./.
+These/DT models/NNS use/VBP a/DT fixed/VBN ,/, arbitrary/JJ ordering/NN of/IN the/DT data/NNS dimensions/NNS ./.
+One/PRP can/MD easily/RB condition/VB on/IN variables/NNS at/IN the/DT beginning/NN of/IN the/DT ordering/NN ,/, and/CC marginalize/VB out/RP variables/NNS at/IN the/DT end/NN of/IN the/DT ordering/NN ,/, however/RB other/JJ inference/NN tasks/NNS require/VBP approximate/JJ inference/NN ./.
+In/IN this/DT work/NN we/PRP introduce/VBP an/DT efficient/JJ procedure/NN to/IN simultaneously/RB train/VB a/DT NADE/NN model/NN for/IN each/DT possible/JJ ordering/NN of/IN the/DT variables/NNS ,/, by/IN sharing/VBG parameters/NNS across/IN all/PDT these/DT models/NNS ./.
+We/PRP can/MD thus/RB use/VB the/DT most/RBS convenient/JJ model/NN for/IN each/DT inference/NN task/NN at/IN hand/NN ,/, and/CC ensembles/NNS of/IN such/JJ models/NNS with/IN different/JJ orderings/NNS are/VBP immediately/RB available/JJ ./.
+Moreover/RB ,/, unlike/IN the/DT original/JJ NADE/NN ,/, our/PRP$ training/NN procedure/NN scales/NNS to/IN deep/JJ models/NNS ./.
+Empirically/RB ,/, ensembles/NNS of/IN Deep/JJ NADE/NN models/NNS obtain/VBP state/NN of/IN the/DT art/NN density/NN estimation/NN performance/NN ./.

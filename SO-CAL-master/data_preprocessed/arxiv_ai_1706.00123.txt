@@ -1,0 +1,7 @@
+We/PRP introduce/VBP a/DT diversified/JJ top/NN -/HYPH k/NN partial/JJ MaxSAT/NN problem/NN ,/, a/DT combination/NN of/IN partial/JJ MaxSAT/NN problem/NN and/CC enumeration/NN problem/NN ./.
+Given/VBN a/DT partial/JJ MaxSAT/NN formula/NN F/NN and/CC a/DT positive/JJ integer/NN k/NN ,/, the/DT diversified/JJ top/NN -/HYPH k/NN partial/JJ MaxSAT/NN is/VBZ to/TO find/VB k/CD maximal/JJ solutions/NNS for/IN F/NN such/JJ that/IN the/DT k/NN maximal/JJ solutions/NNS satisfy/VBP the/DT maximum/JJ number/NN of/IN soft/JJ clauses/NNS of/IN F/NN ./.
+This/DT problem/NN can/MD be/VB widely/RB used/VBN in/IN many/JJ applications/NNS including/VBG community/NN detection/NN ,/, sensor/NN place/NN ,/, motif/NN discovery/NN ,/, and/CC combinatorial/JJ testing/NN ./.
+We/PRP prove/VBP the/DT problem/NN is/VBZ NP/NNP -/HYPH hard/JJ and/CC propose/VB an/DT approach/NN for/IN solving/VBG the/DT problem/NN ./.
+The/DT concrete/JJ idea/NN of/IN the/DT approach/NN is/VBZ to/TO design/VB an/DT encoding/VBG EE/NN which/WDT reduces/VBZ diversified/JJ top/JJ -/HYPH k/NN partial/JJ MaxSAT/NN problem/NN into/IN partial/JJ MaxSAT/NN problem/NN ,/, and/CC then/RB solve/VB the/DT resulting/VBG problem/NN with/IN state/NN -/HYPH of/IN -/HYPH art/NN solvers/NNS ./.
+In/IN addition/NN ,/, we/PRP present/VBP an/DT algorithm/NN MEMKC/NNP exactly/RB solving/VBG the/DT diversified/JJ top/NN -/HYPH k/NN partial/JJ MaxSAT/NN ./.
+Through/IN several/JJ experiments/NNS we/PRP show/VBP that/IN our/PRP$ approach/NN can/MD be/VB successfully/RB applied/VBN to/IN the/DT interesting/JJ problem/NN ./.

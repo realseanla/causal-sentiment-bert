@@ -1,0 +1,8 @@
+Automatic/JJ segmentation/NN of/IN the/DT liver/NN and/CC hepatic/JJ lesions/NNS is/VBZ an/DT important/JJ step/NN towards/IN deriving/VBG quantitative/JJ biomarkers/NNS for/IN accurate/JJ clinical/JJ diagnosis/NN and/CC computer/NN -/HYPH aided/VBN decision/NN support/NN systems/NNS ./.
+This/DT paper/NN presents/VBZ a/DT method/NN to/IN automatically/RB segment/NN liver/NN and/CC lesions/NNS in/IN CT/NN and/CC MRI/NN abdomen/NN images/NNS using/VBG cascaded/VBN fully/RB convolutional/JJ neural/JJ networks/NNS (/-LRB- CFCNs/NNP )/-RRB- enabling/VBG the/DT segmentation/NN of/IN a/DT large/JJ -/HYPH scale/NN medical/JJ trial/NN or/CC quantitative/JJ image/NN analysis/NN ./.
+We/PRP train/NN and/CC cascade/NN two/CD FCNs/NNS for/IN a/DT combined/VBN segmentation/NN of/IN the/DT liver/NN and/CC its/PRP$ lesions/NNS ./.
+In/IN the/DT first/JJ step/NN ,/, we/PRP train/VBP a/DT FCN/NN to/IN segment/NN the/DT liver/NN as/IN ROI/NN input/NN for/IN a/DT second/JJ FCN/NN ./.
+The/DT second/JJ FCN/NN solely/RB segments/NNS lesions/NNS within/IN the/DT predicted/VBN liver/NN ROIs/NNS of/IN step/NN 1/CD ./.
+CFCN/NNP models/NNS were/VBD trained/VBN on/IN an/DT abdominal/JJ CT/NN dataset/NN comprising/VBG 100/CD hepatic/JJ tumor/NN volumes/NNS ./.
+Validations/NNS on/IN further/JJ datasets/NNS show/VBP that/IN CFCN/NNP -/HYPH based/VBN semantic/JJ liver/NN and/CC lesion/NN segmentation/NN achieves/VBZ Dice/NN scores/NNS over/IN 94/CD percent/NN for/IN liver/NN with/IN computation/NN times/NNS below/IN 100s/NNPS per/IN volume/NN ./.
+We/PRP further/RB experimentally/RB demonstrate/VBP the/DT robustness/NN of/IN the/DT proposed/JJ method/NN on/IN an/DT 38/CD MRI/NN liver/NN tumor/NN volumes/NNS and/CC the/DT public/JJ 3DIRCAD/NN dataset/NN ./.

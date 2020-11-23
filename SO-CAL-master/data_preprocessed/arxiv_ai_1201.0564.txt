@@ -1,0 +1,7 @@
+We/PRP study/VBP propagation/NN of/IN the/DT RegularGcc/NNP global/JJ constraint/NN ./.
+This/DT ensures/VBZ that/IN each/DT row/NN of/IN a/DT matrix/NN of/IN decision/NN variables/NNS satisfies/VBZ a/DT Regular/JJ constraint/NN ,/, and/CC each/DT column/NN satisfies/VBZ a/DT Gcc/NN constraint/NN ./.
+On/IN the/DT negative/JJ side/NN ,/, we/PRP prove/VBP that/IN propagation/NN is/VBZ NP/NNP -/HYPH hard/JJ even/RB under/IN some/DT strong/JJ restrictions/NNS (/-LRB- e.g./FW just/RB 3/CD values/NNS ,/, just/RB 4/CD states/NNS in/IN the/DT automaton/NN ,/, or/CC just/RB 5/CD columns/NNS to/IN the/DT matrix/NN )/-RRB- ./.
+On/IN the/DT positive/JJ side/NN ,/, we/PRP identify/VBP two/CD cases/NNS where/WRB propagation/NN is/VBZ fixed/VBN parameter/NN tractable/JJ ./.
+In/IN addition/NN ,/, we/PRP show/VBP how/WRB to/TO improve/VB propagation/NN over/IN a/DT simple/JJ decomposition/NN into/IN separate/JJ Regular/JJ and/CC Gcc/NN constraints/NNS by/IN identifying/VBG some/DT necessary/JJ but/CC insufficient/JJ conditions/NNS for/IN a/DT solution/NN ./.
+We/PRP enforce/VBP these/DT conditions/NNS with/IN some/DT additional/JJ weighted/JJ row/NN automata/NN ./.
+Experimental/JJ results/NNS demonstrate/VBP the/DT potential/NN of/IN these/DT methods/NNS on/IN some/DT standard/JJ benchmark/NN problems/NNS ./.

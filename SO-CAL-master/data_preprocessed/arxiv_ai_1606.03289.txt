@@ -1,0 +1,9 @@
+In/IN various/JJ areas/NNS of/IN computer/NN science/NN ,/, the/DT problem/NN of/IN dealing/VBG with/IN a/DT set/NN of/IN constraints/NNS arises/VBZ ./.
+If/IN the/DT set/NN of/IN constraints/NNS is/VBZ unsatisfiable/JJ ,/, one/CD may/MD ask/VB for/IN a/DT minimal/JJ description/NN of/IN the/DT reason/NN for/IN this/DT unsatisifi/JJ -/HYPH ability/NN ./.
+Minimal/JJ unsatisifable/JJ subsets/NNS (/-LRB- MUSes/VBZ )/-RRB- and/CC maximal/JJ satisifiable/JJ subsets/NNS (/-LRB- MSSes/NNS )/-RRB- are/VBP two/CD kinds/NNS of/IN such/JJ minimal/JJ descriptions/NNS ./.
+The/DT goal/NN of/IN this/DT work/NN is/VBZ the/DT enumeration/NN of/IN MUSes/NNS and/CC MSSes/NNS for/IN a/DT given/VBN constraint/NN system/NN ./.
+As/IN such/JJ full/JJ enumeration/NN may/MD be/VB intractable/JJ in/IN general/JJ ,/, we/PRP focus/VBP on/IN building/VBG an/DT online/JJ algorithm/NN ,/, which/WDT produces/VBZ MUSes/NNS //, MSSes/NNS in/IN an/DT on/IN -/HYPH the/DT -/HYPH fly/NN manner/NN as/RB soon/RB as/IN they/PRP are/VBP discovered/VBN ./.
+The/DT problem/NN has/VBZ been/VBN studied/VBN before/IN even/RB in/IN its/PRP$ online/JJ version/NN ./.
+However/RB ,/, our/PRP$ algorithm/NN uses/VBZ a/DT novel/JJ approach/NN that/WDT is/VBZ able/JJ to/TO outperform/VB current/JJ state/NN -/HYPH of/IN -/HYPH the/DT art/NN algorithms/NNS for/IN online/JJ MUS/NN //HYPH MSS/NN enumeration/NN ./.
+Moreover/RB ,/, the/DT performance/NN of/IN our/PRP$ algorithm/NN can/MD be/VB adjusted/VBN using/VBG tunable/JJ parameters/NNS ./.
+We/PRP evaluate/VBP the/DT algorithm/NN on/IN a/DT set/NN of/IN benchmarks/NNS ./.

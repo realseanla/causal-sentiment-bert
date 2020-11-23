@@ -1,0 +1,9 @@
+Most/JJS recent/JJ work/NN focused/VBD on/IN affect/NN from/IN facial/JJ expressions/NNS ,/, and/CC not/RB as/RB much/JJ on/IN body/NN ./.
+This/DT work/NN focuses/VBZ on/IN body/NN affect/VBP analysis/NN ./.
+Affect/VB does/VBZ not/RB occur/VB in/IN isolation/NN ./.
+Humans/NNS usually/RB couple/VBP affect/VB with/IN an/DT action/NN in/IN natural/JJ interactions/NNS ;/: for/IN example/NN ,/, a/DT person/NN could/MD be/VB talking/VBG and/CC smiling/VBG ./.
+Recognizing/VBG body/NN affect/VB in/IN sequences/NNS requires/VBZ efficient/JJ algorithms/NNS to/TO capture/VB both/CC the/DT micro/JJ movements/NNS that/WDT differentiate/VBP between/IN happy/JJ and/CC sad/JJ and/CC the/DT macro/JJ variations/NNS between/IN different/JJ actions/NNS ./.
+We/PRP depart/VBP from/IN traditional/JJ approaches/NNS for/IN time/NN -/HYPH series/NN data/NNS analytics/NNS by/IN proposing/VBG a/DT multi-task/VB learning/NN model/NN that/WDT learns/VBZ a/DT shared/VBN representation/NN that/WDT is/VBZ well/RB -/HYPH suited/VBN for/IN action/NN -/HYPH affect/VB classification/NN as/RB well/RB as/IN generation/NN ./.
+For/IN this/DT paper/NN we/PRP choose/VBP Conditional/JJ Restricted/VBN Boltzmann/NNP Machines/NNPS to/TO be/VB our/PRP$ building/NN block/NN ./.
+We/PRP propose/VBP a/DT new/JJ model/NN that/WDT enhances/VBZ the/DT CRBM/NNP model/NN with/IN a/DT factored/JJ multi-task/VB component/NN to/TO become/VB Multi-Task/VB Conditional/JJ Restricted/JJ Boltzmann/NNP Machines/NNPS (/-LRB- MTCRBMs/NNPS )/-RRB- ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN on/IN two/CD publicly/RB available/JJ datasets/NNS ,/, the/DT Body/NN Affect/VB dataset/NN and/CC the/DT Tower/NNP Game/NN dataset/NN ,/, and/CC show/VBP superior/JJ classification/NN performance/NN improvement/NN over/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ,/, as/RB well/RB as/IN the/DT generative/JJ abilities/NNS of/IN our/PRP$ model/NN ./.

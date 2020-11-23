@@ -1,0 +1,3 @@
+Consider a multihop wireless network serving multiple flows in which wireless link interference constraints are described by a link interference graph.
+For such a network, we design routing-scheduling policies that maximize the end-to-end timely throughput of the network.
+Timely throughput of a flow $f$ is defined as the average rate at which packets of flow $f$ reach their destination node $d_f$ within their deadline.

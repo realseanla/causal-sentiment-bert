@@ -1,0 +1,7 @@
+The/DT segmentation/NN ,/, seen/VBN as/IN the/DT association/NN of/IN a/DT partition/NN with/IN an/DT image/NN ,/, is/VBZ a/DT difficult/JJ task/NN ./.
+It/PRP can/MD be/VB decomposed/VBN in/IN two/CD steps/NNS :/: at/IN first/RB ,/, a/DT family/NN of/IN contours/NNS associated/VBN with/IN a/DT series/NN of/IN nested/VBN partitions/NNS (/-LRB- or/CC hierarchy/NN )/-RRB- is/VBZ created/VBN and/CC organized/VBN ,/, then/RB pertinent/JJ contours/NNS are/VBP extracted/VBN ./.
+A/DT coarser/JJR partition/NN is/VBZ obtained/VBN by/IN merging/VBG adjacent/JJ regions/NNS of/IN a/DT finer/JJR partition/NN ./.
+The/DT strength/NN of/IN a/DT contour/NN is/VBZ then/RB measured/VBN by/IN the/DT level/NN of/IN the/DT hierarchy/NN for/IN which/WDT its/PRP$ two/CD adjacent/JJ regions/NNS merge/VBP ./.
+We/PRP present/VBP an/DT automatic/JJ segmentation/NN strategy/NN using/VBG a/DT wide/JJ range/NN of/IN stochastic/JJ watershed/JJ hierarchies/NNS ./.
+For/IN a/DT given/VBN set/NN of/IN homogeneous/JJ images/NNS ,/, our/PRP$ approach/NN selects/VBZ automatically/RB the/DT best/JJS hierarchy/NN and/CC cut/NN level/NN to/TO perform/VB image/NN simplification/NN given/VBN an/DT evaluation/NN score/NN ./.
+Experimental/JJ results/NNS illustrate/VBP the/DT advantages/NNS of/IN our/PRP$ approach/NN on/IN several/JJ real/JJ -/HYPH life/NN images/NNS datasets/NNS ./.

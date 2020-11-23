@@ -1,0 +1,11 @@
+The/DT ability/NN to/TO reuse/VB or/CC transfer/VB knowledge/NN from/IN one/CD task/NN to/IN another/DT in/IN lifelong/JJ learning/NN problems/NNS ,/, such/JJ as/IN Minecraft/NNP ,/, is/VBZ one/CD of/IN the/DT major/JJ challenges/NNS faced/VBN in/IN AI/NN ./.
+Reusing/VBG knowledge/NN across/IN tasks/NNS is/VBZ crucial/JJ to/IN solving/VBG tasks/NNS efficiently/RB with/IN lower/JJR sample/NN complexity/NN ./.
+We/PRP provide/VBP a/DT Reinforcement/NN Learning/VBG agent/NN with/IN the/DT ability/NN to/TO transfer/VB knowledge/NN by/IN learning/VBG reusable/JJ skills/NNS ,/, a/DT type/NN of/IN temporally/RB extended/VBN action/NN (/-LRB- also/RB know/VBP as/IN Options/NNS (/-LRB- Sutton/NNP et/NNP ./.
+al./FW 1999/CD )/-RRB- )/-RRB- ./.
+The/DT agent/NN learns/VBZ reusable/JJ skills/NNS using/VBG Deep/JJ Q/NN Networks/NNS (/-LRB- Mnih/NNP et/NNP ./.
+al./FW 2015/CD )/-RRB- to/TO solve/VB tasks/NNS in/IN Minecraft/NNP ,/, a/DT popular/JJ video/NN game/NN which/WDT is/VBZ an/DT unsolved/JJ and/CC high/JJ -/HYPH dimensional/JJ lifelong/JJ learning/NN problem/NN ./.
+These/DT reusable/JJ skills/NNS ,/, which/WDT we/PRP refer/VBP to/IN as/IN Deep/JJ Skill/NN Networks/NNS (/-LRB- DSNs/NNS )/-RRB- ,/, are/VBP then/RB incorporated/VBN into/IN our/PRP$ novel/JJ Hierarchical/JJ Deep/JJ Reinforcement/NN Learning/NNP Network/NNP (/-LRB- H/NN -/HYPH DRLN/NN )/-RRB- architecture/NN ./.
+The/DT H/NN -/HYPH DRLN/NN is/VBZ a/DT hierarchical/JJ version/NN of/IN Deep/NNP QNetworks/NNPS and/CC learns/VBZ to/TO efficiently/RB solve/VB tasks/NNS by/IN reusing/VBG knowledge/NN from/IN previously/RB learned/VBN DSNs/NNS ./.
+The/DT H/NN -/HYPH DRLN/NN exhibits/VBZ superior/JJ performance/NN and/CC lower/JJR learning/NN sample/NN complexity/NN (/-LRB- by/IN taking/VBG advantage/NN of/IN temporal/JJ extension/NN )/-RRB- compared/VBN to/IN the/DT regular/JJ Deep/JJ Q/NNP Network/NNP (/-LRB- Mnih/NNP et/NNP ./.
+al./FW 2015/CD )/-RRB- in/IN subdomains/NNS of/IN Minecraft/NNP ./.
+We/PRP also/RB show/VBP the/DT potential/NN to/TO transfer/VB knowledge/NN between/IN related/JJ Minecraft/NN tasks/NNS without/IN any/DT additional/JJ learning/NN ./.

@@ -1,0 +1,7 @@
+Feature/NN selection/NN is/VBZ a/DT problem/NN of/IN finding/NN efficient/JJ features/NNS among/IN all/DT features/NNS in/IN which/WDT the/DT final/JJ feature/NN set/NN can/MD improve/VB accuracy/NN and/CC reduce/VB complexity/NN ./.
+In/IN feature/NN selection/NN algorithms/NNS search/VBP strategies/NNS are/VBP key/JJ aspects/NNS ./.
+Since/IN feature/NN selection/NN is/VBZ an/DT NP/NNP -/HYPH Hard/NNP problem/NN ;/: therefore/RB heuristic/NN algorithms/NNS have/VBP been/VBN studied/VBN to/TO solve/VB this/DT problem/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP have/VBP proposed/VBN a/DT method/NN based/VBN on/IN memetic/JJ algorithm/NN to/TO find/VB an/DT efficient/JJ feature/NN subset/NN for/IN a/DT classification/NN problem/NN ./.
+It/PRP incorporates/VBZ a/DT filter/NN method/NN in/IN the/DT genetic/JJ algorithm/NN to/TO improve/VB classification/NN performance/NN and/CC accelerates/VBZ the/DT search/NN in/IN identifying/VBG core/NN feature/NN subsets/NNS ./.
+Particularly/RB ,/, the/DT method/NN adds/VBZ or/CC deletes/VBZ a/DT feature/NN from/IN a/DT candidate/NN feature/NN subset/NN based/VBN on/IN the/DT multivariate/JJ feature/NN information/NN ./.
+Empirical/JJ study/NN on/IN commonly/RB data/NN sets/NNS of/IN the/DT university/NN of/IN California/NNP ,/, Irvine/NNP shows/VBZ that/IN the/DT proposed/JJ method/NN outperforms/VBZ existing/VBG methods/NNS ./.

@@ -1,0 +1,8 @@
+Existing/VBG value/NN function/NN approximation/NN methods/NNS have/VBP been/VBN successfully/RB used/VBN in/IN many/JJ applications/NNS ,/, but/CC they/PRP often/RB lack/VBP useful/JJ a/FW priori/FW error/NN bounds/NNS ./.
+We/PRP propose/VBP a/DT new/JJ approximate/JJ bilinear/NN programming/NN formulation/NN of/IN value/NN function/NN approximation/NN ,/, which/WDT employs/VBZ global/JJ optimization/NN ./.
+The/DT formulation/NN provides/VBZ strong/JJ a/FW priori/FW guarantees/NNS on/IN both/DT robust/JJ and/CC expected/JJ policy/NN loss/NN by/IN minimizing/VBG specific/JJ norms/NNS of/IN the/DT Bellman/NNP residual/JJ ./.
+Solving/VBG a/DT bilinear/NN program/NN optimally/RB is/VBZ NP/NNP -/HYPH hard/JJ ,/, but/CC this/DT is/VBZ unavoidable/JJ because/IN the/DT Bellman/NNP -/HYPH residual/JJ minimization/NN itself/PRP is/VBZ NP/NNP -/HYPH hard/JJ ./.
+We/PRP describe/VBP and/CC analyze/VBP both/DT optimal/JJ and/CC approximate/JJ algorithms/NNS for/IN solving/VBG bilinear/NN programs/NNS ./.
+The/DT analysis/NN shows/VBZ that/IN this/DT algorithm/NN offers/VBZ a/DT convergent/JJ generalization/NN of/IN approximate/JJ policy/NN iteration/NN ./.
+We/PRP also/RB briefly/RB analyze/VB the/DT behavior/NN of/IN bilinear/NN programming/NN algorithms/NNS under/IN incomplete/JJ samples/NNS ./.
+Finally/RB ,/, we/PRP demonstrate/VBP that/IN the/DT proposed/VBN approach/NN can/MD consistently/RB minimize/VB the/DT Bellman/NNP residual/JJ on/IN simple/JJ benchmark/NN problems/NNS ./.

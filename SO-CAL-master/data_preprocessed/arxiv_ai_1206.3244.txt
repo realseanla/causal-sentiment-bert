@@ -1,0 +1,10 @@
+The/DT problem/NN of/IN learning/VBG discrete/JJ Bayesian/JJ networks/NNS from/IN data/NNS is/VBZ encoded/VBN as/IN a/DT weighted/JJ MAX/NN -/HYPH SAT/NN problem/NN and/CC the/DT MaxWalkSat/NNP local/JJ search/NN algorithm/NN is/VBZ used/VBN to/TO address/VB it/PRP ./.
+For/IN each/DT dataset/NN ,/, the/DT per/IN -/HYPH variable/JJ summands/NNS of/IN the/DT (/-LRB- BDeu/NNP )/-RRB- marginal/JJ likelihood/NN for/IN different/JJ choices/NNS of/IN parents/NNS (/-LRB- '/`` family/NN scores/NNS '/POS )/-RRB- are/VBP computed/VBN prior/JJ to/IN applying/VBG MaxWalkSat/NNP ./.
+Each/DT permissible/JJ choice/NN of/IN parents/NNS for/IN each/DT variable/NN is/VBZ encoded/VBN as/IN a/DT distinct/JJ propositional/JJ atom/NN and/CC the/DT associated/VBN family/NN score/NN encoded/VBN as/IN a/DT '/`` soft/JJ '/'' weighted/JJ single/JJ -/HYPH literal/JJ clause/NN ./.
+Two/CD approaches/NNS to/IN enforcing/VBG acyclicity/NN are/VBP considered/VBN :/: either/CC by/IN encoding/VBG the/DT ancestor/NN relation/NN or/CC by/IN attaching/VBG a/DT total/JJ order/NN to/TO each/DT graph/NN and/CC encoding/VBG that/DT ./.
+The/DT latter/JJ approach/NN gives/VBZ better/JJR results/NNS ./.
+Learning/VBG experiments/NNS have/VBP been/VBN conducted/VBN on/IN 21/CD synthetic/JJ datasets/NNS sampled/VBN from/IN 7/CD BNs/NNS ./.
+The/DT largest/JJS dataset/NN has/VBZ 10,000/CD datapoints/NNS and/CC 60/CD variables/NNS producing/VBG (/-LRB- for/IN the/DT '/`` ancestor/NN '/'' encoding/VBG )/-RRB- a/DT weighted/JJ CNF/NN input/NN file/NN with/IN 19,932/CD atoms/NNS and/CC 269,367/CD clauses/NNS ./.
+For/IN most/JJS datasets/NNS ,/, MaxWalkSat/NNP quickly/RB finds/VBZ BNs/NNS with/IN higher/JJR BDeu/NNP score/NN than/IN the/DT '/`` true/JJ '/'' BN/NN ./.
+The/DT effect/NN of/IN adding/VBG prior/JJ information/NN is/VBZ assessed/VBN ./.
+It/PRP is/VBZ further/JJ shown/VBN that/IN Bayesian/JJ model/NN averaging/NN can/MD be/VB effected/VBN by/IN collecting/VBG BNs/NNS generated/VBN during/IN the/DT search/NN ./.

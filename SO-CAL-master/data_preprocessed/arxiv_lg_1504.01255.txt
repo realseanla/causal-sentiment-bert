@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ a/DT theoretical/JJ analysis/NN of/IN multi-view/JJ embedding/NN --/: feature/NN embedding/NN that/WDT can/MD be/VB learned/VBN from/IN unlabeled/JJ data/NNS through/IN the/DT task/NN of/IN predicting/VBG one/CD view/NN from/IN another/DT ./.
+We/PRP prove/VBP its/PRP$ usefulness/NN in/IN supervised/JJ learning/NN under/IN certain/JJ conditions/NNS ./.
+The/DT result/NN explains/VBZ the/DT effectiveness/NN of/IN some/DT existing/VBG methods/NNS such/JJ as/IN word/NN embedding/NN ./.
+Based/VBN on/IN this/DT theory/NN ,/, we/PRP propose/VBP a/DT new/JJ semi-supervised/JJ learning/NN framework/NN that/WDT learns/VBZ a/DT multi-view/JJ embedding/NN of/IN small/JJ text/NN regions/NNS with/IN convolutional/JJ neural/JJ networks/NNS ./.
+The/DT method/NN derived/VBN from/IN this/DT framework/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS on/IN sentiment/NN classification/NN and/CC topic/NN categorization/NN ./.

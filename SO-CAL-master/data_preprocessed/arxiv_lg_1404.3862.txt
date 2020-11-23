@@ -1,0 +1,5 @@
+Conditional/JJ Value/NN at/IN Risk/NN (/-LRB- CVaR/NN )/-RRB- is/VBZ a/DT prominent/JJ risk/NN measure/NN that/WDT is/VBZ being/VBG used/VBN extensively/RB in/IN various/JJ domains/NNS such/JJ as/IN finance/NN ./.
+In/IN this/DT work/NN we/PRP present/VBP a/DT new/JJ formula/NN for/IN the/DT gradient/NN of/IN the/DT CVaR/NN in/IN the/DT form/NN of/IN a/DT conditional/JJ expectation/NN ./.
+Our/PRP$ result/NN is/VBZ similar/JJ to/IN policy/NN gradients/NNS in/IN the/DT reinforcement/NN learning/VBG literature/NN ./.
+Based/VBN on/IN this/DT formula/NN ,/, we/PRP propose/VBP novel/JJ sampling/NN -/HYPH based/VBN estimators/NNS for/IN the/DT CVaR/NNP gradient/NN ,/, and/CC a/DT corresponding/VBG gradient/NN descent/NN procedure/NN for/IN CVaR/NNS optimization/NN ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN in/IN learning/VBG a/DT risk/NN -/HYPH sensitive/JJ controller/NN for/IN the/DT game/NN of/IN Tetris/NNP ,/, and/CC propose/VB an/DT importance/NN sampling/NN procedure/NN that/WDT is/VBZ suitable/JJ for/IN such/JJ domains/NNS ./.

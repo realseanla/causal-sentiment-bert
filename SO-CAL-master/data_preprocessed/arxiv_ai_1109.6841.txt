@@ -1,0 +1,3 @@
+Suppose/VB we/PRP want/VBP to/TO build/VB a/DT system/NN that/WDT answers/VBZ a/DT natural/JJ language/NN question/NN by/IN representing/VBG its/PRP$ semantics/NNS as/IN a/DT logical/JJ form/NN and/CC computing/VBG the/DT answer/NN given/VBN a/DT structured/JJ database/NN of/IN facts/NNS ./.
+The/DT core/NN part/NN of/IN such/PDT a/DT system/NN is/VBZ the/DT semantic/JJ parser/NN that/WDT maps/VBZ questions/NNS to/IN logical/JJ forms/NNS ./.
+Semantic/JJ parsers/NNS are/VBP typically/RB trained/VBN from/IN examples/NNS of/IN questions/NNS annotated/VBN with/IN their/PRP$ target/NN logical/JJ forms/NNS ,/, but/CC this/DT type/NN of/IN annotation/NN is/VBZ expensive/JJ ./.

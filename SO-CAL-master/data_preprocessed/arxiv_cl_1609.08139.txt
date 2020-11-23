@@ -1,0 +1,6 @@
+For/IN many/JJ low/JJ -/HYPH resource/NN languages/NNS ,/, spoken/VBN language/NN resources/NNS are/VBP more/RBR likely/JJ to/TO be/VB annotated/VBN with/IN translations/NNS than/IN with/IN transcriptions/NNS ./.
+Translated/VBN speech/NN data/NNS is/VBZ potentially/RB valuable/JJ for/IN documenting/VBG endangered/VBN languages/NNS or/CC for/IN training/NN speech/NN translation/NN systems/NNS ./.
+A/DT first/JJ step/NN towards/IN making/VBG use/NN of/IN such/JJ data/NNS would/MD be/VB to/TO automatically/RB align/VB spoken/VBN words/NNS with/IN their/PRP$ translations/NNS ./.
+We/PRP present/VBP a/DT model/NN that/WDT combines/VBZ Dyer/NNP et/FW al./FW 's/POS reparameterization/NN of/IN IBM/NNP Model/NNP 2/CD (/-LRB- fast/RB -/HYPH align/VB )/-RRB- and/CC k/CD -/HYPH means/NN clustering/NN using/VBG Dynamic/JJ Time/NNP Warping/NNP as/IN a/DT distance/NN metric/JJ ./.
+The/DT two/CD components/NNS are/VBP trained/VBN jointly/RB using/VBG expectation/NN -/HYPH maximization/NN ./.
+In/IN an/DT extremely/RB low/JJ -/HYPH resource/NN scenario/NN ,/, our/PRP$ model/NN performs/VBZ significantly/RB better/JJR than/IN both/DT a/DT neural/JJ model/NN and/CC a/DT strong/JJ baseline/NN ./.

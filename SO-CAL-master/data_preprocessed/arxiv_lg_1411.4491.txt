@@ -1,0 +1,6 @@
+Domain/NN adaptation/NN aims/VBZ at/IN adapting/VBG a/DT prediction/NN function/NN trained/VBN on/IN a/DT source/NN domain/NN ,/, for/IN a/DT new/JJ different/JJ but/CC related/JJ target/NN domain/NN ./.
+Recently/RB several/JJ subspace/NN learning/NN methods/NNS have/VBP proposed/VBN adaptive/JJ solutions/NNS in/IN the/DT unsupervised/JJ case/NN ,/, where/WRB no/DT labeled/VBN data/NNS are/VBP available/JJ for/IN the/DT target/NN ./.
+Most/JJS of/IN the/DT attention/NN has/VBZ been/VBN dedicated/VBN to/IN searching/VBG a/DT new/JJ low/JJ -/HYPH dimensional/JJ domain/NN -/HYPH invariant/JJ representation/NN ,/, leaving/VBG the/DT definition/NN of/IN the/DT prediction/NN function/NN to/IN a/DT second/JJ stage/NN ./.
+Here/RB we/PRP propose/VBP to/TO learn/VB both/DT jointly/RB ./.
+Specifically/RB we/PRP learn/VBP the/DT source/NN subspace/NN that/WDT best/JJS matches/VBZ the/DT target/NN subspace/NN while/IN at/IN the/DT same/JJ time/NN minimizing/VBG a/DT regularized/VBN misclassification/NN loss/NN ./.
+We/PRP provide/VBP an/DT alternating/VBG optimization/NN technique/NN based/VBN on/IN stochastic/JJ sub-gradient/JJ descent/NN to/TO solve/VB the/DT learning/NN problem/NN and/CC we/PRP demonstrate/VBP its/PRP$ performance/NN on/IN several/JJ domain/NN adaptation/NN tasks/NNS ./.

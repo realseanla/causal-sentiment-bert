@@ -1,0 +1,4 @@
+This paper studies the detection of bird calls in audio segments using stacked convolutional and recurrent neural networks.
+Data augmentation by blocks mixing and domain adaptation using a novel method of test mixing are proposed and evaluated in regard to making the method robust to unseen data.
+The contributions of two kinds of acoustic features (dominant frequency and log mel-band energy) and their combinations are studied in the context of bird audio detection.
+Our best achieved AUC measure on five cross-validations of the development data is 95.5 percent and 88.1 percent on the unseen evaluation data.

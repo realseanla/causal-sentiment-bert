@@ -1,0 +1,11 @@
+Cross-Language/NNP Information/NNP Retrieval/NNP (/-LRB- CLIR/NNP )/-RRB- and/CC machine/NN translation/NN (/-LRB- MT/NN )/-RRB- resources/NNS ,/, such/JJ as/IN dictionaries/NNS and/CC parallel/JJ corpora/NNS ,/, are/VBP scarce/JJ and/CC hard/JJ to/TO come/VB by/IN for/IN special/JJ domains/NNS ./.
+Besides/RB ,/, these/DT resources/NNS are/VBP just/RB limited/VBN to/IN a/DT few/JJ languages/NNS ,/, such/JJ as/IN English/NNP ,/, French/NNP ,/, and/CC Spanish/JJ and/CC so/RB on/RB ./.
+So/RB ,/, obtaining/VBG comparable/JJ corpora/NNS automatically/RB for/IN such/JJ domains/NNS could/MD be/VB an/DT answer/NN to/IN this/DT problem/NN effectively/RB ./.
+Comparable/JJ corpora/NNS ,/, that/IN the/DT subcorpora/NNS are/VBP not/RB translations/NNS of/IN each/DT other/JJ ,/, can/MD be/VB easily/RB obtained/VBN from/IN web/NN ./.
+Therefore/RB ,/, building/NN and/CC using/VBG comparable/JJ corpora/NNS is/VBZ often/RB a/DT more/RBR feasible/JJ option/NN in/IN multilingual/JJ information/NN processing/NN ./.
+Comparability/NN metrics/NNS is/VBZ one/CD of/IN key/JJ issues/NNS in/IN the/DT field/NN of/IN building/NN and/CC using/VBG comparable/JJ corpus/NN ./.
+Currently/RB ,/, there/EX is/VBZ no/DT widely/RB accepted/VBN definition/NN or/CC metrics/NNS method/NN of/IN corpus/NN comparability/NN ./.
+In/IN fact/NN ,/, Different/JJ definitions/NNS or/CC metrics/NNS methods/NNS of/IN comparability/NN might/MD be/VB given/VBN to/TO suit/VB various/JJ tasks/NNS about/IN natural/JJ language/NN processing/NN ./.
+A/DT new/JJ comparability/NN ,/, namely/RB ,/, termhood/NN -/HYPH based/VBN metrics/NNS ,/, oriented/VBN to/IN the/DT task/NN of/IN bilingual/JJ terminology/NN extraction/NN ,/, is/VBZ proposed/VBN in/IN this/DT paper/NN ./.
+In/IN this/DT method/NN ,/, words/NNS are/VBP ranked/VBN by/IN termhood/NN not/RB frequency/NN ,/, and/CC then/RB the/DT cosine/NN similarities/NNS ,/, calculated/VBN based/VBN on/IN the/DT ranking/NN lists/NNS of/IN word/NN termhood/NN ,/, is/VBZ used/VBN as/IN comparability/NN ./.
+Experiments/NNS results/NNS show/VBP that/IN termhood/NN -/HYPH based/VBN metrics/NNS performs/VBZ better/JJR than/IN traditional/JJ frequency/NN -/HYPH based/VBN metrics/NNS ./.

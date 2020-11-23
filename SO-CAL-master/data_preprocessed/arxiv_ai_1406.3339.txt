@@ -1,0 +1,7 @@
+In/IN many/JJ sequential/JJ decision/NN -/HYPH making/VBG problems/NNS we/PRP may/MD want/VB to/TO manage/VB risk/NN by/IN minimizing/VBG some/DT measure/NN of/IN variability/NN in/IN costs/NNS in/IN addition/NN to/IN minimizing/VBG a/DT standard/JJ criterion/NN ./.
+Conditional/JJ value/NN -/HYPH at/NN -/HYPH risk/NN (/-LRB- CVaR/NN )/-RRB- is/VBZ a/DT relatively/RB new/JJ risk/NN measure/NN that/WDT addresses/VBZ some/DT of/IN the/DT shortcomings/NNS of/IN the/DT well/NN -/HYPH known/VBN variance/NN -/HYPH related/VBN risk/NN measures/NNS ,/, and/CC because/IN of/IN its/PRP$ computational/JJ efficiencies/NNS has/VBZ gained/VBN popularity/NN in/IN finance/NN and/CC operations/NNS research/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP the/DT mean/NN -/HYPH CVaR/NN optimization/NN problem/NN in/IN MDPs/NNS ./.
+We/PRP first/RB derive/VBP a/DT formula/NN for/IN computing/VBG the/DT gradient/NN of/IN this/DT risk/NN -/HYPH sensitive/JJ objective/NN function/NN ./.
+We/PRP then/RB devise/VBP policy/NN gradient/NN and/CC actor/NN -/HYPH critic/NN algorithms/NNS that/WDT each/DT uses/VBZ a/DT specific/JJ method/NN to/TO estimate/VB this/DT gradient/NN and/CC updates/NNS the/DT policy/NN parameters/NNS in/IN the/DT descent/NN direction/NN ./.
+We/PRP establish/VBP the/DT convergence/NN of/IN our/PRP$ algorithms/NNS to/IN locally/RB risk/NN -/HYPH sensitive/JJ optimal/JJ policies/NNS ./.
+Finally/RB ,/, we/PRP demonstrate/VBP the/DT usefulness/NN of/IN our/PRP$ algorithms/NNS in/IN an/DT optimal/JJ stopping/NN problem/NN ./.

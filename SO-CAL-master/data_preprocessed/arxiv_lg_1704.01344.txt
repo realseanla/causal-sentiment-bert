@@ -1,0 +1,10 @@
+We/PRP propose/VBP a/DT novel/JJ deep/JJ layer/NN cascade/NN (/-LRB- LC/NN )/-RRB- method/NN to/TO improve/VB the/DT accuracy/NN and/CC speed/NN of/IN semantic/JJ segmentation/NN ./.
+Unlike/IN the/DT conventional/JJ model/NN cascade/NN (/-LRB- MC/NNP )/-RRB- that/WDT is/VBZ composed/VBN of/IN multiple/JJ independent/JJ models/NNS ,/, LC/NN treats/VBZ a/DT single/JJ deep/JJ model/NN as/IN a/DT cascade/NN of/IN several/JJ sub-models/NNS ./.
+Earlier/RBR sub-models/NNS are/VBP trained/VBN to/TO handle/VB easy/JJ and/CC confident/JJ regions/NNS ,/, and/CC they/PRP progressively/RB feed/VB -/HYPH forward/RB harder/RBR regions/NNS to/IN the/DT next/JJ sub-model/NN for/IN processing/NN ./.
+Convolutions/NNS are/VBP only/RB calculated/VBN on/IN these/DT regions/NNS to/TO reduce/VB computations/NNS ./.
+The/DT proposed/JJ method/NN possesses/VBZ several/JJ advantages/NNS ./.
+First/RB ,/, LC/NN classifies/VBZ most/JJS of/IN the/DT easy/JJ regions/NNS in/IN the/DT shallow/JJ stage/NN and/CC makes/VBZ deeper/JJR stage/NN focuses/VBZ on/IN a/DT few/JJ hard/JJ regions/NNS ./.
+Such/PDT an/DT adaptive/JJ and/CC '/`` difficulty/NN -/HYPH aware/JJ '/'' learning/NN improves/VBZ segmentation/NN performance/NN ./.
+Second/RB ,/, LC/NN accelerates/VBZ both/CC training/NN and/CC testing/NN of/IN deep/JJ network/NN thanks/NNS to/IN early/JJ decisions/NNS in/IN the/DT shallow/JJ stage/NN ./.
+Third/JJ ,/, in/IN comparison/NN to/IN MC/NNP ,/, LC/NN is/VBZ an/DT end/NN -/HYPH to/IN -/HYPH end/NN trainable/JJ framework/NN ,/, allowing/VBG joint/JJ learning/NN of/IN all/DT sub-models/NNS ./.
+We/PRP evaluate/VBP our/PRP$ method/NN on/IN PASCAL/NNP VOC/NNP and/CC Cityscapes/NNP datasets/NNS ,/, achieving/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN and/CC fast/JJ speed/NN ./.

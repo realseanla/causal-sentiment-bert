@@ -1,0 +1,7 @@
+Collaborative/JJ data/NNS consist/VBP of/IN ratings/NNS relating/VBG two/CD distinct/JJ sets/NNS of/IN objects/NNS :/: users/NNS and/CC items/NNS ./.
+Much/JJ of/IN the/DT work/NN with/IN such/JJ data/NNS focuses/VBZ on/IN filtering/VBG :/: predicting/VBG unknown/JJ ratings/NNS for/IN pairs/NNS of/IN users/NNS and/CC items/NNS ./.
+In/IN this/DT paper/NN we/PRP focus/VBP on/IN the/DT problem/NN of/IN visualizing/VBG the/DT information/NN ./.
+Given/VBN all/DT of/IN the/DT ratings/NNS ,/, our/PRP$ task/NN is/VBZ to/TO embed/VB all/DT of/IN the/DT users/NNS and/CC items/NNS as/IN points/NNS in/IN the/DT same/JJ Euclidean/JJ space/NN ./.
+We/PRP would/MD like/VB to/TO place/VB users/NNS near/IN items/NNS that/IN they/PRP have/VBP rated/VBN (/-LRB- or/CC would/MD rate/NN )/-RRB- high/JJ ,/, and/CC far/RB away/RB from/IN those/DT they/PRP would/MD give/VB a/DT low/JJ rating/NN ./.
+We/PRP pose/VBP this/DT problem/NN as/IN a/DT real/JJ -/HYPH valued/VBN non-linear/JJ Bayesian/JJ network/NN and/CC employ/VB Markov/NNP chain/NN Monte/NNP Carlo/NNP and/CC expectation/NN maximization/NN to/TO find/VB an/DT embedding/NN ./.
+We/PRP present/VBP a/DT metric/JJ by/IN which/WDT to/TO judge/VB the/DT quality/NN of/IN a/DT visualization/NN and/CC compare/VB our/PRP$ results/NNS to/IN local/JJ linear/JJ embedding/NN and/CC Eigentaste/NN on/IN three/CD real/JJ -/HYPH world/NN datasets/NNS ./.

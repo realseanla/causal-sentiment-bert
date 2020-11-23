@@ -1,0 +1,6 @@
+Traditional/JJ approaches/NNS to/IN extractive/JJ summarization/NN rely/VBP heavily/RB on/IN human/JJ -/HYPH engineered/JJ features/NNS ./.
+In/IN this/DT work/NN we/PRP propose/VBP a/DT data/NN -/HYPH driven/VBN approach/NN based/VBN on/IN neural/JJ networks/NNS and/CC continuous/JJ sentence/NN features/NNS ./.
+We/PRP develop/VBP a/DT general/JJ framework/NN for/IN single/JJ -/HYPH document/NN summarization/NN composed/VBN of/IN a/DT hierarchical/JJ document/NN encoder/NN and/CC an/DT attention/NN -/HYPH based/VBN extractor/NN ./.
+This/DT architecture/NN allows/VBZ us/PRP to/TO develop/VB different/JJ classes/NNS of/IN summarization/NN models/NNS which/WDT can/MD extract/VB sentences/NNS or/CC words/NNS ./.
+We/PRP train/VBP our/PRP$ models/NNS on/IN large/JJ scale/NN corpora/NNS containing/VBG hundreds/NNS of/IN thousands/NNS of/IN document/NN -/HYPH summary/NN pairs/NNS ./.
+Experimental/JJ results/NNS on/IN two/CD summarization/NN datasets/NNS demonstrate/VBP that/IN our/PRP$ models/NNS obtain/VB results/NNS comparable/JJ to/IN the/DT state/NN of/IN the/DT art/NN without/IN any/DT access/NN to/IN linguistic/JJ annotation/NN ./.

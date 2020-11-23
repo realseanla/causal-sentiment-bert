@@ -1,0 +1,6 @@
+This extended abstract presents an overview on NP-hard optimization problems with multiple interdependent components.
+These problems occur in many real-world applications: industrial applications, engineering, and logistics.
+The fact that these problems are composed of many sub-problems that are NP-hard makes them even more challenging to solve using exact algorithms.
+This is mainly due to the high complexity of this class of algorithms and the hardness of the problems themselves.
+The main source of difficulty of these problems is the presence of internal dependencies between sub-problems.
+This aspect of interdependence of components is presented, and some outlines on solving approaches are briefly introduced from a (meta)heuristics and evolutionary computation perspective.

@@ -1,0 +1,7 @@
+While/IN wearable/JJ cameras/NNS are/VBP becoming/VBG increasingly/RB popular/JJ ,/, locating/VBG relevant/JJ information/NN in/IN large/JJ unstructured/JJ collections/NNS of/IN egocentric/JJ images/NNS is/VBZ still/RB a/DT tedious/JJ and/CC time/NN consuming/VBG processes/NNS ./.
+This/DT paper/NN addresses/VBZ the/DT problem/NN of/IN organizing/VBG egocentric/JJ photo/NN streams/NNS acquired/VBN by/IN a/DT wearable/JJ camera/NN into/IN semantically/RB meaningful/JJ segments/NNS ./.
+First/RB ,/, contextual/JJ and/CC semantic/JJ information/NN is/VBZ extracted/VBN for/IN each/DT image/NN by/IN employing/VBG a/DT Convolutional/JJ Neural/JJ Networks/NNS approach/NN ./.
+Later/RB ,/, by/IN integrating/VBG language/NN processing/NN ,/, a/DT vocabulary/NN of/IN concepts/NNS is/VBZ defined/VBN in/IN a/DT semantic/JJ space/NN ./.
+Finally/RB ,/, by/IN exploiting/VBG the/DT temporal/JJ coherence/NN in/IN photo/NN streams/NNS ,/, images/NNS which/WDT share/VBP contextual/JJ and/CC semantic/JJ attributes/NNS are/VBP grouped/VBN together/RB ./.
+The/DT resulting/VBG temporal/JJ segmentation/NN is/VBZ particularly/RB suited/VBN for/IN further/JJ analysis/NN ,/, ranging/VBG from/IN activity/NN and/CC event/NN recognition/NN to/IN semantic/JJ indexing/NN and/CC summarization/NN ./.
+Experiments/NNS over/IN egocentric/JJ sets/NNS of/IN nearly/RB 17,000/CD images/NNS ,/, show/VBP that/IN the/DT proposed/VBN approach/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

@@ -1,0 +1,6 @@
+In/IN cocktail/NN party/NN listening/VBG scenarios/NNS ,/, the/DT human/JJ brain/NN is/VBZ able/JJ to/TO separate/VB competing/VBG speech/NN signals/NNS ./.
+However/RB ,/, the/DT signal/NN processing/NN implemented/VBN by/IN the/DT brain/NN to/TO perform/VB cocktail/NN party/NN listening/NN is/VBZ not/RB well/RB understood/VBN ./.
+Here/RB ,/, we/PRP trained/VBD two/CD separate/JJ convolutive/JJ autoencoder/NN deep/JJ neural/JJ networks/NNS (/-LRB- DNN/NN )/-RRB- to/TO separate/VB monaural/JJ and/CC binaural/JJ mixtures/NNS of/IN two/CD concurrent/JJ speech/NN streams/NNS ./.
+We/PRP then/RB used/VBD these/DT DNNs/NNS as/IN convolutive/JJ deep/RB transform/VBP (/-LRB- CDT/NNP )/-RRB- devices/NNS to/TO perform/VB probabilistic/JJ re-synthesis/NN ./.
+The/DT CDTs/NNS operated/VBN directly/RB in/IN the/DT time/NN -/HYPH domain/NN ./.
+Our/PRP$ simulations/NNS demonstrate/VBP that/IN very/RB simple/JJ neural/JJ networks/NNS are/VBP capable/JJ of/IN exploiting/VBG monaural/JJ and/CC binaural/JJ information/NN available/JJ in/IN a/DT cocktail/NN party/NN listening/VBG scenario/NN ./.

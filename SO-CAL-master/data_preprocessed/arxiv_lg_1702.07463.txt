@@ -1,0 +1,7 @@
+Segmental/JJ structure/NN is/VBZ a/DT common/JJ pattern/NN in/IN many/JJ types/NNS of/IN sequences/NNS such/JJ as/IN phrases/NNS in/IN human/JJ languages/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT probabilistic/JJ model/NN for/IN sequences/NNS via/IN their/PRP$ segmentations/NNS ./.
+The/DT probability/NN of/IN a/DT segmented/JJ sequence/NN is/VBZ calculated/VBN as/IN the/DT product/NN of/IN the/DT probabilities/NNS of/IN all/DT its/PRP$ segments/NNS ,/, where/WRB each/DT segment/NN is/VBZ modeled/VBN using/VBG existing/VBG tools/NNS such/JJ as/IN recurrent/JJ neural/JJ networks/NNS ./.
+Since/IN the/DT segmentation/NN of/IN a/DT sequence/NN is/VBZ usually/RB unknown/JJ in/IN advance/NN ,/, we/PRP sum/VBP over/IN all/DT valid/JJ segmentations/NNS to/TO obtain/VB the/DT final/JJ probability/NN for/IN the/DT sequence/NN ./.
+An/DT efficient/JJ dynamic/JJ programming/NN algorithm/NN is/VBZ developed/VBN for/IN forward/RB and/CC backward/RB computations/NNS without/IN resorting/VBG to/IN any/DT approximation/NN ./.
+We/PRP demonstrate/VBP our/PRP$ approach/NN on/IN text/NN segmentation/NN and/CC speech/NN recognition/NN tasks/NNS ./.
+In/IN addition/NN to/IN quantitative/JJ results/NNS ,/, we/PRP also/RB show/VBP that/IN our/PRP$ approach/NN can/MD discover/VB meaningful/JJ segments/NNS in/IN their/PRP$ respective/JJ application/NN contexts/NNS ./.

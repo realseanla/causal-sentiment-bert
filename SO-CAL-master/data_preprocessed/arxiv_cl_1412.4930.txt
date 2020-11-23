@@ -1,0 +1,8 @@
+Recent/JJ works/NNS on/IN word/NN representations/NNS mostly/RB rely/VBP on/IN predictive/JJ models/NNS ./.
+Distributed/VBN word/NN representations/NNS (/-LRB- aka/RB word/NN embeddings/NNS )/-RRB- are/VBP trained/VBN to/TO optimally/RB predict/VB the/DT contexts/NNS in/IN which/WDT the/DT corresponding/VBG words/NNS tend/VBP to/TO appear/VB ./.
+Such/JJ models/NNS have/VBP succeeded/VBN in/IN capturing/VBG word/NN similarties/NNS as/RB well/RB as/IN semantic/JJ and/CC syntactic/JJ regularities/NNS ./.
+Instead/RB ,/, we/PRP aim/VBP at/IN reviving/VBG interest/NN in/IN a/DT model/NN based/VBN on/IN counts/NNS ./.
+We/PRP present/VBP a/DT systematic/JJ study/NN of/IN the/DT use/NN of/IN the/DT Hellinger/NNP distance/NN to/TO extract/VB semantic/JJ representations/NNS from/IN the/DT word/NN co-occurence/NN statistics/NNS of/IN large/JJ text/NN corpora/NNS ./.
+We/PRP show/VBP that/IN this/DT distance/NN gives/VBZ good/JJ performance/NN on/IN word/NN similarity/NN and/CC analogy/NN tasks/NNS ,/, with/IN a/DT proper/JJ type/NN and/CC size/NN of/IN context/NN ,/, and/CC a/DT dimensionality/NN reduction/NN based/VBN on/IN a/DT stochastic/JJ low/JJ -/HYPH rank/NN approximation/NN ./.
+Besides/IN being/VBG both/DT simple/JJ and/CC intuitive/JJ ,/, this/DT method/NN also/RB provides/VBZ an/DT encoding/VBG function/NN which/WDT can/MD be/VB used/VBN to/TO infer/VB unseen/JJ words/NNS or/CC phrases/NNS ./.
+This/DT becomes/VBZ a/DT clear/JJ advantage/NN compared/VBN to/IN predictive/JJ models/NNS which/WDT must/MD train/VB these/DT new/JJ words/NNS ./.

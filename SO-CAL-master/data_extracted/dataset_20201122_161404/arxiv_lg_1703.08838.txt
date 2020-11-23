@@ -1,0 +1,6 @@
+Considering a network with $n$ nodes, where each node initially votes for one (or more) choices out of $K$ possible choices, we present a Distributed Multi-choice Voting/Ranking (DMVR) algorithm to determine either the choice with maximum vote (the voting problem) or to rank all the choices in terms of their acquired votes (the ranking problem).
+The algorithm consolidates node votes across the network by updating the states of interacting nodes using two key operations, the union and the intersection.
+The proposed algorithm is simple, independent from network size, and easily scalable in terms of the number of choices $K$, using only $K\times 2^{K-1}$ nodal states for voting, and $K\times K!$ nodal states for ranking.
+We prove the number of states to be optimal in the ranking case, this optimality is conjectured to also apply to the voting case.
+The time complexity of the algorithm is analyzed in complete graphs.
+We show that the time complexity for both ranking and voting is $O(\log(n))$ for given vote percentages, and is inversely proportional to the minimum of the vote percentage differences among various choices.

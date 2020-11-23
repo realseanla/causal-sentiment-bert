@@ -1,0 +1,8 @@
+Recently/RB ,/, it/PRP has/VBZ become/VBN evident/JJ that/IN submodularity/NN naturally/RB captures/VBZ widely/RB occurring/VBG concepts/NNS in/IN machine/NN learning/NN ,/, signal/NN processing/NN and/CC computer/NN vision/NN ./.
+Consequently/RB ,/, there/EX is/VBZ need/NN for/IN efficient/JJ optimization/NN procedures/NNS for/IN submodular/JJ functions/NNS ,/, especially/RB for/IN minimization/NN problems/NNS ./.
+While/IN general/JJ submodular/JJ minimization/NN is/VBZ challenging/JJ ,/, we/PRP propose/VBP a/DT new/JJ method/NN that/WDT exploits/VBZ existing/VBG decomposability/NN of/IN submodular/JJ functions/NNS ./.
+In/IN contrast/NN to/IN previous/JJ approaches/NNS ,/, our/PRP$ method/NN is/VBZ neither/CC approximate/JJ ,/, nor/CC impractical/JJ ,/, nor/CC does/VBZ it/PRP need/VB any/DT cumbersome/JJ parameter/NN tuning/NN ./.
+Moreover/RB ,/, it/PRP is/VBZ easy/JJ to/TO implement/VB and/CC parallelize/VB ./.
+A/DT key/JJ component/NN of/IN our/PRP$ method/NN is/VBZ a/DT formulation/NN of/IN the/DT discrete/JJ submodular/JJ minimization/NN problem/NN as/IN a/DT continuous/JJ best/JJS approximation/NN problem/NN that/WDT is/VBZ solved/VBN through/IN a/DT sequence/NN of/IN reflections/NNS ,/, and/CC its/PRP$ solution/NN can/MD be/VB easily/RB thresholded/VBN to/TO obtain/VB an/DT optimal/JJ discrete/JJ solution/NN ./.
+This/DT method/NN solves/VBZ both/CC the/DT continuous/JJ and/CC discrete/JJ formulations/NNS of/IN the/DT problem/NN ,/, and/CC therefore/RB has/VBZ applications/NNS in/IN learning/NN ,/, inference/NN ,/, and/CC reconstruction/NN ./.
+In/IN our/PRP$ experiments/NNS ,/, we/PRP illustrate/VBP the/DT benefits/NNS of/IN our/PRP$ method/NN on/IN two/CD image/NN segmentation/NN tasks/NNS ./.

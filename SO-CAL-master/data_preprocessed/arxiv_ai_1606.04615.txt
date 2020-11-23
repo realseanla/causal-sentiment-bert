@@ -1,0 +1,5 @@
+Deep/JJ reinforcement/NN learning/NN has/VBZ been/VBN shown/VBN to/TO be/VB a/DT powerful/JJ framework/NN for/IN learning/VBG policies/NNS from/IN complex/JJ high/JJ -/HYPH dimensional/JJ sensory/JJ inputs/NNS to/IN actions/NNS in/IN complex/JJ tasks/NNS ,/, such/JJ as/IN the/DT Atari/NNP domain/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP explore/VBP output/NN representation/NN modeling/NN in/IN the/DT form/NN of/IN temporal/JJ abstraction/NN to/TO improve/VB convergence/NN and/CC reliability/NN of/IN deep/JJ reinforcement/NN learning/VBG approaches/NNS ./.
+We/PRP concentrate/VBP on/IN macro-actions/NNS ,/, and/CC evaluate/VB these/DT on/IN different/JJ Atari/NNP 2600/CD games/NNS ,/, where/WRB we/PRP show/VBP that/IN they/PRP yield/VBP significant/JJ improvements/NNS in/IN learning/VBG speed/NN ./.
+Additionally/RB ,/, we/PRP show/VBP that/IN they/PRP can/MD even/RB achieve/VB better/JJR scores/NNS than/IN DQN/NNP ./.
+We/PRP offer/VBP analysis/NN and/CC explanation/NN for/IN both/DT convergence/NN and/CC final/JJ results/NNS ,/, revealing/VBG a/DT problem/NN deep/JJ RL/NN approaches/NNS have/VBP with/IN sparse/JJ reward/NN signals/NNS ./.

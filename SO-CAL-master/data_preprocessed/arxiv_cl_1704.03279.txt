@@ -1,0 +1,9 @@
+Ensembling/NNP is/VBZ a/DT well/RB -/HYPH known/VBN technique/NN in/IN neural/JJ machine/NN translation/NN (/-LRB- NMT/NN )/-RRB- ./.
+Instead/RB of/IN a/DT single/JJ neural/JJ net/NN ,/, multiple/JJ neural/JJ nets/NNS with/IN the/DT same/JJ topology/NN are/VBP trained/VBN separately/RB ,/, and/CC the/DT decoder/NN generates/VBZ predictions/NNS by/IN averaging/VBG over/IN the/DT individual/JJ models/NNS ./.
+Ensembling/VBG often/RB improves/VBZ the/DT quality/NN of/IN the/DT generated/VBN translations/NNS drastically/RB ./.
+However/RB ,/, it/PRP is/VBZ not/RB suitable/JJ for/IN production/NN systems/NNS because/IN it/PRP is/VBZ cumbersome/JJ and/CC slow/JJ ./.
+This/DT work/NN aims/VBZ to/TO reduce/VB the/DT runtime/NN to/TO be/VB on/IN par/JJ with/IN a/DT single/JJ system/NN without/IN compromising/VBG the/DT translation/NN quality/NN ./.
+First/RB ,/, we/PRP show/VBP that/IN the/DT ensemble/NN can/MD be/VB unfolded/VBN into/IN a/DT single/JJ large/JJ neural/JJ network/NN which/WDT imitates/VBZ the/DT output/NN of/IN the/DT ensemble/NN system/NN ./.
+We/PRP show/VBP that/IN unfolding/VBG can/MD already/RB improve/VB the/DT runtime/NN in/IN practice/NN since/IN more/JJR work/NN can/MD be/VB done/VBN on/IN the/DT GPU/NNP ./.
+We/PRP proceed/VBP by/IN describing/VBG a/DT set/NN of/IN techniques/NNS to/TO shrink/VB the/DT unfolded/VBN network/NN by/IN reducing/VBG the/DT dimensionality/NN of/IN layers/NNS ./.
+On/IN Japanese/JJ -/HYPH English/JJ we/PRP report/VBP that/IN the/DT resulting/VBG network/NN has/VBZ the/DT size/NN and/CC decoding/NN speed/NN of/IN a/DT single/JJ NMT/NN network/NN but/CC performs/VBZ on/IN the/DT level/NN of/IN a/DT 3/CD -/HYPH ensemble/NN system/NN ./.

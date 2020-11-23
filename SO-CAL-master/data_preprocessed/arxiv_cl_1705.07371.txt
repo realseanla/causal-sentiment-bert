@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP reformulated/VBD the/DT spell/NN correction/NN problem/NN as/IN a/DT machine/NN translation/NN task/NN under/IN the/DT encoder/NN -/HYPH decoder/NN framework/NN ./.
+This/DT reformulation/NN enabled/VBD us/PRP to/TO use/VB a/DT single/JJ model/NN for/IN solving/VBG the/DT problem/NN that/WDT is/VBZ traditionally/RB formulated/VBN as/IN learning/VBG a/DT language/NN model/NN and/CC an/DT error/NN model/NN ./.
+This/DT model/NN employs/VBZ multi-layer/JJ recurrent/JJ neural/JJ networks/NNS as/IN an/DT encoder/NN and/CC a/DT decoder/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN this/DT model/NN using/VBG an/DT internal/JJ dataset/NN ,/, where/WRB the/DT training/NN data/NNS is/VBZ automatically/RB obtained/VBN from/IN user/NN logs/NNS ./.
+The/DT model/NN offers/VBZ competitive/JJ performance/NN as/IN compared/VBN to/IN the/DT state/NN of/IN the/DT art/NN methods/NNS but/CC does/VBZ not/RB require/VB any/DT feature/NN engineering/NN nor/CC hand/NN tuning/NN between/IN models/NNS ./.

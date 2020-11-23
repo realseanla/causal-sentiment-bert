@@ -1,0 +1,6 @@
+We/PRP present/VBP the/DT Siamese/JJ Continuous/JJ Bag/NN of/IN Words/NNS (/-LRB- Siamese/JJ CBOW/NNP )/-RRB- model/NN ,/, a/DT neural/JJ network/NN for/IN efficient/JJ estimation/NN of/IN high/JJ -/HYPH quality/NN sentence/NN embeddings/NNS ./.
+Averaging/VBG the/DT embeddings/NNS of/IN words/NNS in/IN a/DT sentence/NN has/VBZ proven/VBN to/TO be/VB a/DT surprisingly/RB successful/JJ and/CC efficient/JJ way/NN of/IN obtaining/VBG sentence/NN embeddings/NNS ./.
+However/RB ,/, word/NN embeddings/NNS trained/VBN with/IN the/DT methods/NNS currently/RB available/JJ are/VBP not/RB optimized/VBN for/IN the/DT task/NN of/IN sentence/NN representation/NN ,/, and/CC ,/, thus/RB ,/, likely/JJ to/TO be/VB suboptimal/JJ ./.
+Siamese/JJ CBOW/NNP handles/VBZ this/DT problem/NN by/IN training/VBG word/NN embeddings/NNS directly/RB for/IN the/DT purpose/NN of/IN being/VBG averaged/VBN ./.
+The/DT underlying/VBG neural/JJ network/NN learns/VBZ word/NN embeddings/NNS by/IN predicting/VBG ,/, from/IN a/DT sentence/NN representation/NN ,/, its/PRP$ surrounding/VBG sentences/NNS ./.
+We/PRP show/VBP the/DT robustness/NN of/IN the/DT Siamese/JJ CBOW/NNP model/NN by/IN evaluating/VBG it/PRP on/IN 20/CD datasets/NNS stemming/VBG from/IN a/DT wide/JJ variety/NN of/IN sources/NNS ./.

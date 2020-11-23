@@ -1,0 +1,8 @@
+Stacked/VBN denoising/NN autoencoders/NNS (/-LRB- SDAs/NNS )/-RRB- have/VBP been/VBN successfully/RB used/VBN to/TO learn/VB new/JJ representations/NNS for/IN domain/NN adaptation/NN ./.
+Recently/RB ,/, they/PRP have/VBP attained/VBN record/NN accuracy/NN on/IN standard/JJ benchmark/NN tasks/NNS of/IN sentiment/NN analysis/NN across/IN different/JJ text/NN domains/NNS ./.
+SDAs/NNS learn/VBP robust/JJ data/NNS representations/NNS by/IN reconstruction/NN ,/, recovering/VBG original/JJ features/NNS from/IN data/NNS that/WDT are/VBP artificially/RB corrupted/VBN with/IN noise/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP marginalized/VBN SDA/NNP (/-LRB- mSDA/NN )/-RRB- that/WDT addresses/VBZ two/CD crucial/JJ limitations/NNS of/IN SDAs/NNS :/: high/JJ computational/JJ cost/NN and/CC lack/NN of/IN scalability/NN to/IN high/JJ -/HYPH dimensional/JJ features/NNS ./.
+In/IN contrast/NN to/IN SDAs/NNS ,/, our/PRP$ approach/NN of/IN mSDA/NN marginalizes/VBZ noise/NN and/CC thus/RB does/VBZ not/RB require/VB stochastic/JJ gradient/NN descent/NN or/CC other/JJ optimization/NN algorithms/NNS to/TO learn/VB parameters/NNS ?/.
+in/IN fact/NN ,/, they/PRP are/VBP computed/VBN in/IN closed/JJ -/HYPH form/NN ./.
+Consequently/RB ,/, mSDA/NN ,/, which/WDT can/MD be/VB implemented/VBN in/IN only/RB 20/CD lines/NNS of/IN MATLAB/NNP ^/SYM {/-LRB- TM/NN }/-RRB- ,/, significantly/RB speeds/NNS up/IN SDAs/NNS by/IN two/CD orders/NNS of/IN magnitude/NN ./.
+Furthermore/RB ,/, the/DT representations/NNS learnt/VBN by/IN mSDA/NN are/VBP as/IN effective/JJ as/IN the/DT traditional/JJ SDAs/NNS ,/, attaining/VBG almost/RB identical/JJ accuracies/NNS in/IN benchmark/NN tasks/NNS ./.

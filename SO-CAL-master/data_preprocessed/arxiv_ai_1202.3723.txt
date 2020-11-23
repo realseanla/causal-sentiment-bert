@@ -1,0 +1,8 @@
+Inference/NN in/IN graphical/JJ models/NNS consists/VBZ of/IN repeatedly/RB multiplying/VBG and/CC summing/VBG out/RP potentials/NNS ./.
+It/PRP is/VBZ generally/RB intractable/JJ because/IN the/DT derived/VBN potentials/NNS obtained/VBN in/IN this/DT way/NN can/MD be/VB exponentially/RB large/JJ ./.
+Approximate/JJ inference/NN techniques/NNS such/JJ as/IN belief/NN propagation/NN and/CC variational/JJ methods/NNS combat/NN this/DT by/IN simplifying/VBG the/DT derived/VBN potentials/NNS ,/, typically/RB by/IN dropping/VBG variables/NNS from/IN them/PRP ./.
+We/PRP propose/VBP an/DT alternate/JJ method/NN for/IN simplifying/VBG potentials/NNS :/: quantizing/VBG their/PRP$ values/NNS ./.
+Quantization/NN causes/VBZ different/JJ states/NNS of/IN a/DT potential/NN to/TO have/VB the/DT same/JJ value/NN ,/, and/CC therefore/RB introduces/VBZ context/NN -/HYPH specific/JJ independencies/NNS that/WDT can/MD be/VB exploited/VBN to/TO represent/VB the/DT potential/NN more/RBR compactly/RB ./.
+We/PRP use/VBP algebraic/JJ decision/NN diagrams/NNS (/-LRB- ADDs/NNS )/-RRB- to/TO do/VB this/DT efficiently/RB ./.
+We/PRP apply/VBP quantization/NN and/CC ADD/NN reduction/NN to/IN variable/JJ elimination/NN and/CC junction/NN tree/NN propagation/NN ,/, yielding/VBG a/DT family/NN of/IN bounded/VBN approximate/JJ inference/NN schemes/NNS ./.
+Our/PRP$ experimental/JJ tests/NNS show/VBP that/IN our/PRP$ new/JJ schemes/NNS significantly/RB outperform/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS on/IN many/JJ benchmark/NN instances/NNS ./.

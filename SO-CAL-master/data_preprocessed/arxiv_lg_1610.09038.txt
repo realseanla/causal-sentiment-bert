@@ -1,0 +1,8 @@
+The/DT Teacher/NN Forcing/VBG algorithm/NN trains/NNS recurrent/JJ networks/NNS by/IN supplying/VBG observed/VBN sequence/NN values/NNS as/IN inputs/NNS during/IN training/NN and/CC using/VBG the/DT network/NN 's/POS own/JJ one/CD -/HYPH step/NN -/HYPH ahead/NN predictions/NNS to/TO do/VB multi-step/JJ sampling/NN ./.
+We/PRP introduce/VBP the/DT Professor/NNP Forcing/VBG algorithm/NN ,/, which/WDT uses/VBZ adversarial/JJ domain/NN adaptation/NN to/TO encourage/VB the/DT dynamics/NNS of/IN the/DT recurrent/JJ network/NN to/TO be/VB the/DT same/JJ when/WRB training/VBG the/DT network/NN and/CC when/WRB sampling/NN from/IN the/DT network/NN over/IN multiple/JJ time/NN steps/NNS ./.
+We/PRP apply/VBP Professor/NN Forcing/VBG to/IN language/NN modeling/NN ,/, vocal/JJ synthesis/NN on/IN raw/JJ waveforms/NNS ,/, handwriting/NN generation/NN ,/, and/CC image/NN generation/NN ./.
+Empirically/RB we/PRP find/VBP that/IN Professor/NNP Forcing/VBG acts/NNS as/IN a/DT regularizer/NN ,/, improving/VBG test/NN likelihood/NN on/IN character/NN level/NN Penn/NNP Treebank/NNP and/CC sequential/JJ MNIST/NN ./.
+We/PRP also/RB find/VBP that/IN the/DT model/NN qualitatively/RB improves/VBZ samples/NNS ,/, especially/RB when/WRB sampling/VBG for/IN a/DT large/JJ number/NN of/IN time/NN steps/NNS ./.
+This/DT is/VBZ supported/VBN by/IN human/JJ evaluation/NN of/IN sample/NN quality/NN ./.
+Trade/NNP -/HYPH offs/NNS between/IN Professor/NNP Forcing/VBG and/CC Scheduled/JJ Sampling/NN are/VBP discussed/VBN ./.
+We/PRP produce/VBP T/NN -/HYPH SNEs/NNS showing/VBG that/IN Professor/NNP Forcing/VBG successfully/RB makes/VBZ the/DT dynamics/NNS of/IN the/DT network/NN during/IN training/NN and/CC sampling/NN more/RBR similar/JJ ./.

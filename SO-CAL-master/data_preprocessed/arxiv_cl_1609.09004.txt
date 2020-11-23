@@ -1,0 +1,6 @@
+We/PRP report/VBP on/IN our/PRP$ system/NN for/IN the/DT shared/VBN task/NN on/IN discriminating/VBG between/IN similar/JJ languages/NNS (/-LRB- DSL/NN 2016/CD )/-RRB- ./.
+The/DT system/NN uses/VBZ only/RB byte/NN representations/NNS in/IN a/DT deep/JJ residual/JJ network/NN (/-LRB- ResNet/NNP )/-RRB- ./.
+The/DT system/NN ,/, named/VBN ResIdent/NNP ,/, is/VBZ trained/VBN only/RB on/IN the/DT data/NNS released/VBN with/IN the/DT task/NN (/-LRB- closed/JJ training/NN )/-RRB- ./.
+We/PRP obtain/VBP 84.88/CD percent/NN accuracy/NN on/IN subtask/NN A/NN ,/, 68.80/CD percent/NN accuracy/NN on/IN subtask/NN B1/NN ,/, and/CC 69.80/CD percent/NN accuracy/NN on/IN subtask/NN B2/NN ./.
+A/DT large/JJ difference/NN in/IN accuracy/NN on/IN development/NN data/NNS can/MD be/VB observed/VBN with/IN relatively/RB minor/JJ changes/NNS in/IN our/PRP$ network/NN 's/POS architecture/NN and/CC hyperparameters/NNS ./.
+We/PRP therefore/RB expect/VBP fine/JJ -/HYPH tuning/NN of/IN these/DT parameters/NNS to/TO yield/VB higher/JJR accuracies/NNS ./.

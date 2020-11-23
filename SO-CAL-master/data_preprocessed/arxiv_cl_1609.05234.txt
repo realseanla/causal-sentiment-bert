@@ -1,0 +1,11 @@
+User/NN -/HYPH machine/NN interaction/NN is/VBZ important/JJ for/IN spoken/VBN content/NN retrieval/NN ./.
+For/IN text/NN content/NN retrieval/NN ,/, the/DT user/NN can/MD easily/RB scan/VB through/IN and/CC select/VB on/IN a/DT list/NN of/IN retrieved/VBN item/NN ./.
+This/DT is/VBZ impossible/JJ for/IN spoken/VBN content/NN retrieval/NN ,/, because/IN the/DT retrieved/VBN items/NNS are/VBP difficult/JJ to/TO show/VB on/IN screen/NN ./.
+Besides/RB ,/, due/IN to/IN the/DT high/JJ degree/NN of/IN uncertainty/NN for/IN speech/NN recognition/NN ,/, the/DT retrieval/NN results/NNS can/MD be/VB very/RB noisy/JJ ./.
+One/CD way/NN to/TO counter/VB such/JJ difficulties/NNS is/VBZ through/IN user/NN -/HYPH machine/NN interaction/NN ./.
+The/DT machine/NN can/MD take/VB different/JJ actions/NNS to/TO interact/VB with/IN the/DT user/NN to/TO obtain/VB better/JJR retrieval/NN results/NNS before/IN showing/VBG to/IN the/DT user/NN ./.
+The/DT suitable/JJ actions/NNS depend/VBP on/IN the/DT retrieval/NN status/NN ,/, for/IN example/NN requesting/VBG for/IN extra/JJ information/NN from/IN the/DT user/NN ,/, returning/VBG a/DT list/NN of/IN topics/NNS for/IN user/NN to/TO select/VB ,/, etc/FW ./.
+In/IN our/PRP$ previous/JJ work/NN ,/, some/DT hand/NN -/HYPH crafted/VBN states/NNS estimated/VBN from/IN the/DT present/JJ retrieval/NN results/NNS are/VBP used/VBN to/TO determine/VB the/DT proper/JJ actions/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO use/VB Deep/JJ -/HYPH Q/NN -/HYPH Learning/VBG techniques/NNS instead/RB to/TO determine/VB the/DT machine/NN actions/NNS for/IN interactive/JJ spoken/VBN content/NN retrieval/NN ./.
+Deep/JJ -/HYPH Q/NN -/HYPH Learning/VBG bypasses/VBZ the/DT need/NN for/IN estimation/NN of/IN the/DT hand/NN -/HYPH crafted/VBN states/NNS ,/, and/CC directly/RB determine/VB the/DT best/JJS action/NN base/NN on/IN the/DT present/JJ retrieval/NN status/NN even/RB without/IN any/DT human/JJ knowledge/NN ./.
+It/PRP is/VBZ shown/VBN to/TO achieve/VB significantly/RB better/JJR performance/NN compared/VBN with/IN the/DT previous/JJ hand/NN -/HYPH crafted/VBN states/NNS ./.

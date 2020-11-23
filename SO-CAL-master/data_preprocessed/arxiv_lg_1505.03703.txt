@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ unsupervised/JJ deep/JJ learning/NN model/NN ,/, called/VBN PCA/NNP -/HYPH based/VBN Convolutional/NNP Network/NNP (/-LRB- PCN/NN )/-RRB- ./.
+The/DT architecture/NN of/IN PCN/NN is/VBZ composed/VBN of/IN several/JJ feature/NN extraction/NN stages/NNS and/CC a/DT nonlinear/JJ output/NN stage/NN ./.
+Particularly/RB ,/, each/DT feature/NN extraction/NN stage/NN includes/VBZ two/CD layers/NNS :/: a/DT convolutional/JJ layer/NN and/CC a/DT feature/NN pooling/VBG layer/NN ./.
+In/IN the/DT convolutional/JJ layer/NN ,/, the/DT filter/NN banks/NNS are/VBP simply/RB learned/VBN by/IN PCA/NNP ./.
+In/IN the/DT nonlinear/JJ output/NN stage/NN ,/, binary/JJ hashing/VBG is/VBZ applied/VBN ./.
+For/IN the/DT higher/JJR convolutional/JJ layers/NNS ,/, the/DT filter/NN banks/NNS are/VBP learned/VBN from/IN the/DT feature/NN maps/VBZ that/IN were/VBD obtained/VBN in/IN the/DT previous/JJ stage/NN ./.
+To/TO test/VB PCN/NN ,/, we/PRP conducted/VBD extensive/JJ experiments/NNS on/IN some/DT challenging/JJ tasks/NNS ,/, including/VBG handwritten/JJ digits/NNS recognition/NN ,/, face/NN recognition/NN and/CC texture/NN classification/NN ./.
+The/DT results/NNS show/VBP that/IN PCN/NN performs/VBZ competitive/JJ with/IN or/CC even/RB better/JJR than/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN deep/JJ learning/NN models/NNS ./.
+More/RBR importantly/RB ,/, since/IN there/EX is/VBZ no/DT back/RB propagation/NN for/IN supervised/JJ finetuning/NN ,/, PCN/NN is/VBZ much/RB more/RBR efficient/JJ than/IN existing/VBG deep/JJ networks/NNS ./.

@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT novel/JJ distributed/VBN probabilistic/JJ bisection/NN algorithm/NN using/VBG social/JJ learning/NN with/IN application/NN to/TO target/VB localization/NN ./.
+Each/DT agent/NN in/IN the/DT network/NN first/JJ constructs/NNS a/DT query/NN about/IN the/DT target/NN based/VBN on/IN its/PRP$ local/JJ information/NN and/CC obtains/VBZ a/DT noisy/JJ response/NN ./.
+Agents/NNS then/RB perform/VB a/DT Bayesian/JJ update/NN of/IN their/PRP$ beliefs/NNS followed/VBN by/IN a/DT local/JJ averaging/NN of/IN the/DT log/NN beliefs/NNS ./.
+This/DT two/CD stage/NN algorithm/NN consisting/VBG of/IN repeated/VBN querying/NN and/CC averaging/VBG runs/NNS until/IN convergence/NN ./.
+We/PRP derive/VBP bounds/NNS on/IN the/DT rate/NN of/IN convergence/NN of/IN the/DT beliefs/NNS at/IN the/DT correct/JJ target/NN location/NN ./.
+Numerical/NNP simulations/NNS show/VBP that/IN our/PRP$ method/NN outperforms/VBZ current/JJ state/NN of/IN the/DT art/NN methods/NNS ./.

@@ -1,0 +1,7 @@
+Motivated/VBN by/IN e-commerce/NN ,/, we/PRP study/VBP the/DT online/JJ assortment/NN optimization/NN problem/NN ./.
+The/DT seller/NN offers/VBZ an/DT assortment/NN ,/, i.e./FW a/DT subset/NN of/IN products/NNS ,/, to/IN each/DT arriving/VBG customer/NN ,/, who/WP then/RB purchases/VBZ one/CD or/CC no/DT product/NN from/IN her/PRP$ offered/VBN assortment/NN ./.
+A/DT customer/NN 's/POS purchase/NN decision/NN is/VBZ governed/VBN by/IN the/DT underlying/VBG MultiNomial/NNP Logit/NNP (/-LRB- MNL/NNP )/-RRB- choice/NN model/NN ./.
+The/DT seller/NN aims/VBZ to/TO maximize/VB the/DT total/JJ revenue/NN in/IN a/DT finite/JJ sales/NNS horizon/NN ,/, subject/NN to/IN resource/NN constraints/NNS and/CC uncertainty/NN in/IN the/DT MNL/NNP choice/NN model/NN ./.
+We/PRP first/RB propose/VB an/DT efficient/JJ online/JJ policy/NN which/WDT incurs/VBZ a/DT regret/NN $/$ \/SYM tilde/NN {/-LRB- O/NN }/-RRB- (/-LRB- T/NN ^/SYM {/-LRB- 2/3/CD }/-RRB- )/-RRB- $/$ ,/, where/WRB $/$ T$/CD is/VBZ the/DT number/NN of/IN customers/NNS in/IN the/DT sales/NNS horizon/NN ./.
+Then/RB ,/, we/PRP propose/VBP a/DT UCB/NNP policy/NN that/WDT achieves/VBZ a/DT regret/NN $/$ \/SYM tilde/NN {/-LRB- O/NN }/-RRB- (/-LRB- T/NN ^/SYM {/-LRB- 1/2/CD }/-RRB- )/-RRB- $/$ ./.
+Both/DT regret/NN bounds/NNS are/VBP sublinear/JJ in/IN the/DT number/NN of/IN assortments/NNS ./.

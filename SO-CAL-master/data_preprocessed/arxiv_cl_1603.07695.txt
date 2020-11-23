@@ -1,0 +1,7 @@
+This/DT paper/NN proposes/VBZ a/DT model/NN to/TO learn/VB word/NN embeddings/NNS with/IN weighted/JJ contexts/NNS based/VBN on/IN part/NN -/HYPH of/IN -/HYPH speech/NN (/-LRB- POS/NN )/-RRB- relevance/NN weights/NNS ./.
+POS/NN is/VBZ a/DT fundamental/JJ element/NN in/IN natural/JJ language/NN ./.
+However/RB ,/, state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN word/NN embedding/NN models/NNS fail/VBP to/TO consider/VB it/PRP ./.
+This/DT paper/NN proposes/VBZ to/TO use/VB position/NN -/HYPH dependent/JJ POS/NN relevance/NN weighting/NN matrices/NNS to/TO model/VB the/DT inherent/JJ syntactic/JJ relationship/NN among/IN words/NNS within/IN a/DT context/NN window/NN ./.
+We/PRP utilize/VBP the/DT POS/NN relevance/NN weights/NNS to/TO model/VB each/DT word/NN -/HYPH context/NN pairs/NNS during/IN the/DT word/NN embedding/NN training/NN process/NN ./.
+The/DT model/NN proposed/VBN in/IN this/DT paper/NN paper/NN jointly/RB optimizes/VBZ word/NN vectors/NNS and/CC the/DT POS/NN relevance/NN matrices/NNS ./.
+Experiments/NNS conducted/VBN on/IN popular/JJ word/NN analogy/NN and/CC word/NN similarity/NN tasks/NNS all/DT demonstrated/VBD the/DT effectiveness/NN of/IN the/DT proposed/JJ method/NN ./.

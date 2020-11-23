@@ -1,0 +1,7 @@
+General/NNP human/JJ action/NN recognition/NN requires/VBZ understanding/NN of/IN various/JJ visual/JJ cues/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT network/NN architecture/NN that/WDT computes/VBZ and/CC integrates/VBZ the/DT most/RBS important/JJ visual/JJ cues/NNS for/IN action/NN recognition/NN :/: pose/NN ,/, motion/NN ,/, and/CC the/DT raw/JJ images/NNS ./.
+For/IN the/DT integration/NN ,/, we/PRP introduce/VBP a/DT Markov/NNP chain/NN model/NN which/WDT adds/VBZ cues/NNS successively/RB ./.
+The/DT resulting/VBG approach/NN is/VBZ efficient/JJ and/CC applicable/JJ to/IN action/NN classification/NN as/RB well/RB as/IN to/IN spatial/JJ and/CC temporal/JJ action/NN localization/NN ./.
+The/DT two/CD contributions/NNS clearly/RB improve/VBP the/DT performance/NN over/IN respective/JJ baselines/NNS ./.
+The/DT overall/JJ approach/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN action/NN classification/NN performance/NN on/IN HMDB51/NN ,/, J/NN -/HYPH HMDB/NN and/CC NTU/NNP RGB/NNP D/NNP datasets/NNS ./.
+Moreover/RB ,/, it/PRP yields/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN spatio/JJ -/HYPH temporal/JJ action/NN localization/NN results/VBZ on/IN UCF101/NN and/CC J/NN -/HYPH HMDB/NN ./.

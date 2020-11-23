@@ -1,0 +1,4 @@
+Predicting/NNP Mild/JJ Cognitive/JJ Impairment/NN (/-LRB- MCI/NNP )/-RRB- is/VBZ currently/RB a/DT challenge/NN as/IN existing/VBG diagnostic/JJ criteria/NNS rely/VBP on/IN neuropsychological/JJ examinations/NNS ./.
+Automated/VBN Machine/NN Learning/NN (/-LRB- ML/NN )/-RRB- models/NNS that/WDT are/VBP trained/VBN on/IN verbal/JJ utterances/NNS of/IN MCI/NNP patients/NNS can/MD aid/VB diagnosis/NN ./.
+Using/VBG a/DT combination/NN of/IN skip/VB -/HYPH gram/NN features/NNS ,/, our/PRP$ model/NN learned/VBD several/JJ linguistic/JJ biomarkers/NNS to/TO distinguish/VB between/IN 19/CD patients/NNS with/IN MCI/NNP and/CC 19/CD healthy/JJ control/NN individuals/NNS from/IN the/DT DementiaBank/NNP language/NN transcript/NN clinical/JJ dataset/NN ./.
+Results/NNS show/VBP that/IN a/DT model/NN with/IN compound/NN of/IN skip/VB -/HYPH grams/NNS has/VBZ better/JJR AUC/NN and/CC could/MD help/VB ML/NNP prediction/NN on/IN small/JJ MCI/NNP data/NNS sample/NN ./.

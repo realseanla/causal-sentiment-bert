@@ -1,0 +1,9 @@
+Deep/JJ neural/JJ networks/NNS are/VBP capable/JJ of/IN modelling/VBG highly/RB non-linear/JJ functions/NNS by/IN capturing/VBG different/JJ levels/NNS of/IN abstraction/NN of/IN data/NNS hierarchically/RB ./.
+While/IN training/NN deep/JJ networks/NNS ,/, first/RB the/DT system/NN is/VBZ initialized/VBN near/IN a/DT good/JJ optimum/JJ by/IN greedy/JJ layer-wise/NN unsupervised/JJ pre-training/NN ./.
+However/RB ,/, with/IN burgeoning/VBG data/NNS and/CC increasing/VBG dimensions/NNS of/IN the/DT architecture/NN ,/, the/DT time/NN complexity/NN of/IN this/DT approach/NN becomes/VBZ enormous/JJ ./.
+Also/RB ,/, greedy/JJ pre-training/NN of/IN the/DT layers/NNS often/RB turns/VBZ detrimental/JJ by/IN over-training/VBG a/DT layer/NN causing/VBG it/PRP to/TO lose/VB harmony/NN with/IN the/DT rest/NN of/IN the/DT network/NN ./.
+In/IN this/DT paper/NN a/DT synchronized/VBN parallel/JJ algorithm/NN for/IN pre-training/VBG deep/JJ networks/NNS on/IN multi-core/JJ machines/NNS has/VBZ been/VBN proposed/VBN ./.
+Different/JJ layers/NNS are/VBP trained/VBN by/IN parallel/JJ threads/NNS running/VBG on/IN different/JJ cores/NNS with/IN regular/JJ synchronization/NN ./.
+Thus/RB the/DT pre-training/JJ process/NN becomes/VBZ faster/RBR and/CC chances/NNS of/IN over-training/VBG are/VBP reduced/VBN ./.
+This/DT is/VBZ experimentally/RB validated/VBN using/VBG a/DT stacked/VBN autoencoder/NN for/IN dimensionality/NN reduction/NN of/IN MNIST/NNP handwritten/JJ digit/NN database/NN ./.
+The/DT proposed/VBN algorithm/NN achieved/VBD 26/CD \/SYM percent/NN speed/NN -/HYPH up/NN compared/VBN to/IN greedy/JJ layer-wise/NN pre-training/VBG for/IN achieving/VBG the/DT same/JJ reconstruction/NN accuracy/NN substantiating/VBG its/PRP$ potential/NN as/IN an/DT alternative/NN ./.

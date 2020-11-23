@@ -1,0 +1,8 @@
+We/PRP describe/VBP an/DT application/NN of/IN belief/NN networks/NNS to/IN the/DT diagnosis/NN of/IN bottlenecks/NNS in/IN computer/NN systems/NNS ./.
+The/DT technique/NN relies/VBZ on/IN a/DT high/JJ -/HYPH level/NN functional/JJ model/NN of/IN the/DT interaction/NN between/IN application/NN workloads/NNS ,/, the/DT Windows/NNP NT/NNP operating/VBG system/NN ,/, and/CC system/NN hardware/NN ./.
+Given/VBN a/DT workload/NN description/NN ,/, the/DT model/NN predicts/VBZ the/DT values/NNS of/IN observable/JJ system/NN counters/NNS available/JJ from/IN the/DT Windows/NNP NT/NN performance/NN monitoring/NN tool/NN ./.
+Uncertainty/NN in/IN workloads/NNS ,/, predictions/NNS ,/, and/CC counter/NN values/NNS are/VBP characterized/VBN with/IN Gaussian/JJ distributions/NNS ./.
+During/IN diagnostic/JJ inference/NN ,/, we/PRP use/VBP observed/VBN performance/NN monitor/NN values/NNS to/TO find/VB the/DT most/RBS probable/JJ assignment/NN to/IN the/DT workload/NN parameters/NNS ./.
+In/IN this/DT paper/NN we/PRP provide/VBP some/DT background/NN on/IN automated/VBN bottleneck/NN detection/NN ,/, describe/VB the/DT structure/NN of/IN the/DT system/NN model/NN ,/, and/CC discuss/VB empirical/JJ procedures/NNS for/IN model/NN calibration/NN and/CC verification/NN ./.
+Part/NN of/IN the/DT calibration/NN process/NN includes/VBZ generating/VBG a/DT dataset/NN to/TO estimate/VB a/DT multivariate/JJ Gaussian/JJ error/NN model/NN ./.
+Initial/JJ results/NNS in/IN diagnosing/VBG bottlenecks/NNS are/VBP presented/VBN ./.

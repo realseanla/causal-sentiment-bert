@@ -1,0 +1,7 @@
+The/DT ability/NN to/TO accurately/RB represent/VB sentences/NNS is/VBZ central/JJ to/IN language/NN understanding/NN ./.
+We/PRP describe/VBP a/DT convolutional/JJ architecture/NN dubbed/VBN the/DT Dynamic/JJ Convolutional/JJ Neural/JJ Network/NN (/-LRB- DCNN/NNP )/-RRB- that/IN we/PRP adopt/VBP for/IN the/DT semantic/JJ modelling/NN of/IN sentences/NNS ./.
+The/DT network/NN uses/VBZ Dynamic/JJ k/CD -/HYPH Max/NNP Pooling/NNP ,/, a/DT global/JJ pooling/VBG operation/NN over/IN linear/JJ sequences/NNS ./.
+The/DT network/NN handles/VBZ input/NN sentences/NNS of/IN varying/VBG length/NN and/CC induces/VBZ a/DT feature/NN graph/NN over/IN the/DT sentence/NN that/WDT is/VBZ capable/JJ of/IN explicitly/RB capturing/VBG short/JJ and/CC long/JJ -/HYPH range/NN relations/NNS ./.
+The/DT network/NN does/VBZ not/RB rely/VB on/IN a/DT parse/VB tree/NN and/CC is/VBZ easily/RB applicable/JJ to/IN any/DT language/NN ./.
+We/PRP test/VBP the/DT DCNN/NNP in/IN four/CD experiments/NNS :/: small/JJ scale/NN binary/JJ and/CC multi-class/JJ sentiment/NN prediction/NN ,/, six/CD -/HYPH way/NN question/NN classification/NN and/CC Twitter/NNP sentiment/NN prediction/NN by/IN distant/JJ supervision/NN ./.
+The/DT network/NN achieves/VBZ excellent/JJ performance/NN in/IN the/DT first/JJ three/CD tasks/NNS and/CC a/DT greater/JJR than/IN 25/CD percent/NN error/NN reduction/NN in/IN the/DT last/JJ task/NN with/IN respect/NN to/IN the/DT strongest/JJS baseline/NN ./.

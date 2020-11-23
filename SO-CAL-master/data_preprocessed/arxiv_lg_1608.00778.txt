@@ -1,0 +1,10 @@
+Word/NNP embeddings/NNS are/VBP a/DT powerful/JJ approach/NN for/IN capturing/VBG semantic/JJ similarity/NN among/IN terms/NNS in/IN a/DT vocabulary/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP exponential/JJ family/NN embeddings/NNS ,/, a/DT class/NN of/IN methods/NNS that/WDT extends/VBZ the/DT idea/NN of/IN word/NN embeddings/NNS to/IN other/JJ types/NNS of/IN high/JJ -/HYPH dimensional/JJ data/NNS ./.
+As/IN examples/NNS ,/, we/PRP studied/VBD neural/JJ data/NNS with/IN real/JJ -/HYPH valued/VBN observations/NNS ,/, count/VB data/NNS from/IN a/DT market/NN basket/NN analysis/NN ,/, and/CC ratings/NNS data/NNS from/IN a/DT movie/NN recommendation/NN system/NN ./.
+The/DT main/JJ idea/NN is/VBZ to/TO model/VB each/DT observation/NN conditioned/VBN on/IN a/DT set/NN of/IN other/JJ observations/NNS ./.
+This/DT set/NN is/VBZ called/VBN the/DT context/NN ,/, and/CC the/DT way/NN the/DT context/NN is/VBZ defined/VBN is/VBZ a/DT modeling/NN choice/NN that/WDT depends/VBZ on/IN the/DT problem/NN ./.
+In/IN language/NN the/DT context/NN is/VBZ the/DT surrounding/VBG words/NNS ;/: in/IN neuroscience/NN the/DT context/NN is/VBZ close/JJ -/HYPH by/IN neurons/NNS ;/: in/IN market/NN basket/NN data/NNS the/DT context/NN is/VBZ other/JJ items/NNS in/IN the/DT shopping/NN cart/NN ./.
+Each/DT type/NN of/IN embedding/VBG model/NN defines/VBZ the/DT context/NN ,/, the/DT exponential/JJ family/NN of/IN conditional/JJ distributions/NNS ,/, and/CC how/WRB the/DT latent/JJ embedding/NN vectors/NNS are/VBP shared/VBN across/IN data/NNS ./.
+We/PRP infer/VBP the/DT embeddings/NNS with/IN a/DT scalable/JJ algorithm/NN based/VBN on/IN stochastic/JJ gradient/NN descent/NN ./.
+On/IN all/DT three/CD applications/NNS -/HYPH neural/JJ activity/NN of/IN zebrafish/NN ,/, users/NNS '/POS shopping/NN behavior/NN ,/, and/CC movie/NN ratings/NNS -/, we/PRP found/VBD exponential/JJ family/NN embedding/NN models/NNS to/TO be/VB more/RBR effective/JJ than/IN other/JJ types/NNS of/IN dimension/NN reduction/NN ./.
+They/PRP better/RB reconstruct/VBP held/VBN -/HYPH out/RP data/NNS and/CC find/VB interesting/JJ qualitative/JJ structure/NN ./.

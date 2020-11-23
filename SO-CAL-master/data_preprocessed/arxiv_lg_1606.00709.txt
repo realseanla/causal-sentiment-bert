@@ -1,0 +1,6 @@
+Generative/JJ neural/JJ samplers/NNS are/VBP probabilistic/JJ models/NNS that/WDT implement/VBP sampling/NN using/VBG feedforward/NN neural/JJ networks/NNS :/: they/PRP take/VBP a/DT random/JJ input/NN vector/NN and/CC produce/VB a/DT sample/NN from/IN a/DT probability/NN distribution/NN defined/VBN by/IN the/DT network/NN weights/NNS ./.
+These/DT models/NNS are/VBP expressive/JJ and/CC allow/VBP efficient/JJ computation/NN of/IN samples/NNS and/CC derivatives/NNS ,/, but/CC can/MD not/RB be/VB used/VBN for/IN computing/VBG likelihoods/NNS or/CC for/IN marginalization/NN ./.
+The/DT generative/JJ -/HYPH adversarial/JJ training/NN method/NN allows/VBZ to/TO train/VB such/JJ models/NNS through/IN the/DT use/NN of/IN an/DT auxiliary/JJ discriminative/JJ neural/JJ network/NN ./.
+We/PRP show/VBP that/IN the/DT generative/JJ -/HYPH adversarial/JJ approach/NN is/VBZ a/DT special/JJ case/NN of/IN an/DT existing/VBG more/RBR general/JJ variational/JJ divergence/NN estimation/NN approach/NN ./.
+We/PRP show/VBP that/IN any/DT f/NN -/HYPH divergence/NN can/MD be/VB used/VBN for/IN training/NN generative/JJ neural/JJ samplers/NNS ./.
+We/PRP discuss/VBP the/DT benefits/NNS of/IN various/JJ choices/NNS of/IN divergence/NN functions/NNS on/IN training/NN complexity/NN and/CC the/DT quality/NN of/IN the/DT obtained/VBN generative/NN models/NNS ./.

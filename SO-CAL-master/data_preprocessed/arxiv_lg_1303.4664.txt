@@ -1,0 +1,5 @@
+We/PRP reduce/VBP the/DT memory/NN footprint/NN of/IN popular/JJ large/JJ -/HYPH scale/NN online/JJ learning/NN methods/NNS by/IN projecting/VBG our/PRP$ weight/NN vector/NN onto/IN a/DT coarse/JJ discrete/JJ set/NN using/VBG randomized/VBN rounding/NN ./.
+Compared/VBN to/IN standard/JJ 32/CD -/HYPH bit/NN float/NN encodings/NNS ,/, this/DT reduces/VBZ RAM/NNP usage/NN by/IN more/JJR than/IN 50/CD percent/NN during/IN training/NN and/CC by/IN up/RP to/IN 95/CD percent/NN when/WRB making/VBG predictions/NNS from/IN a/DT fixed/VBN model/NN ,/, with/IN almost/RB no/DT loss/NN in/IN accuracy/NN ./.
+We/PRP also/RB show/VBP that/IN randomized/JJ counting/NN can/MD be/VB used/VBN to/TO implement/VB per/IN -/HYPH coordinate/NN learning/NN rates/NNS ,/, improving/VBG model/NN quality/NN with/IN little/JJ additional/JJ RAM/NN ./.
+We/PRP prove/VBP these/DT memory/NN -/HYPH saving/VBG methods/NNS achieve/VB regret/NN guarantees/NNS similar/JJ to/IN their/PRP$ exact/JJ variants/NNS ./.
+Empirical/JJ evaluation/NN confirms/VBZ excellent/JJ performance/NN ,/, dominating/VBG standard/JJ approaches/NNS across/IN memory/NN versus/CC accuracy/NN tradeoffs/NNS ./.

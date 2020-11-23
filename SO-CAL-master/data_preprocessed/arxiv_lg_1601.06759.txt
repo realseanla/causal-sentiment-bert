@@ -1,0 +1,8 @@
+Modeling/VBG the/DT distribution/NN of/IN natural/JJ images/NNS is/VBZ a/DT landmark/NN problem/NN in/IN unsupervised/JJ learning/NN ./.
+This/DT task/NN requires/VBZ an/DT image/NN model/NN that/WDT is/VBZ at/IN once/RB expressive/JJ ,/, tractable/JJ and/CC scalable/JJ ./.
+We/PRP present/VBP a/DT deep/JJ neural/JJ network/NN that/WDT sequentially/RB predicts/VBZ the/DT pixels/NNS in/IN an/DT image/NN along/IN the/DT two/CD spatial/JJ dimensions/NNS ./.
+Our/PRP$ method/NN models/NNS the/DT discrete/JJ probability/NN of/IN the/DT raw/JJ pixel/NN values/NNS and/CC encodes/VBZ the/DT complete/JJ set/NN of/IN dependencies/NNS in/IN the/DT image/NN ./.
+Architectural/JJ novelties/NNS include/VBP fast/JJ two/CD -/HYPH dimensional/JJ recurrent/JJ layers/NNS and/CC an/DT effective/JJ use/NN of/IN residual/JJ connections/NNS in/IN deep/JJ recurrent/JJ networks/NNS ./.
+We/PRP achieve/VBP log/NN -/HYPH likelihood/NN scores/NNS on/IN natural/JJ images/NNS that/WDT are/VBP considerably/RB better/JJR than/IN the/DT previous/JJ state/NN of/IN the/DT art/NN ./.
+Our/PRP$ main/JJ results/NNS also/RB provide/VBP benchmarks/NNS on/IN the/DT diverse/JJ ImageNet/NNP dataset/NN ./.
+Samples/NNS generated/VBN from/IN the/DT model/NN appear/VBP crisp/JJ ,/, varied/JJ and/CC globally/RB coherent/JJ ./.

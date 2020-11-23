@@ -1,0 +1,6 @@
+In/IN most/JJS practical/JJ problems/NNS of/IN classifier/NN learning/NN ,/, the/DT training/NN data/NNS suffers/VBZ from/IN the/DT label/NN noise/NN ./.
+Hence/RB ,/, it/PRP is/VBZ important/JJ to/TO understand/VB how/WRB robust/JJ is/VBZ a/DT learning/NN algorithm/NN to/IN such/JJ label/NN noise/NN ./.
+Experimentally/RB ,/, Decision/NN trees/NNS have/VBP been/VBN found/VBN to/TO be/VB more/RBR robust/JJ against/IN label/NN noise/NN than/IN SVM/NNP and/CC logistic/JJ regression/NN ./.
+This/DT paper/NN presents/VBZ some/DT theoretical/JJ results/NNS to/TO show/VB that/DT decision/NN tree/NN algorithms/NNS are/VBP robust/JJ to/IN symmetric/JJ label/NN noise/NN under/IN the/DT assumption/NN of/IN large/JJ sample/NN size/NN ./.
+We/PRP also/RB present/VBP some/DT sample/NN complexity/NN results/VBZ for/IN this/DT robustness/NN ./.
+Through/IN extensive/JJ simulations/NNS we/PRP illustrate/VBP this/DT robustness/NN ./.

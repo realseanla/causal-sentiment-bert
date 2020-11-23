@@ -1,0 +1,6 @@
+Deep/JJ neural/JJ networks/NNS have/VBP shown/VBN striking/JJ progress/NN and/CC obtained/VBN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS in/IN many/JJ AI/NN research/NN fields/NNS in/IN the/DT recent/JJ years/NNS ./.
+However/RB ,/, it/PRP is/VBZ often/RB unsatisfying/JJ to/TO not/RB know/VB why/WRB they/PRP predict/VBP what/WP they/PRP do/VBP ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN interpreting/VBG Visual/NNP Question/NN Answering/VBG (/-LRB- VQA/NN )/-RRB- models/NNS ./.
+Specifically/RB ,/, we/PRP are/VBP interested/JJ in/IN finding/VBG what/WP part/NN of/IN the/DT input/NN (/-LRB- pixels/NNS in/IN images/NNS or/CC words/NNS in/IN questions/NNS )/-RRB- the/DT VQA/NN model/NN focuses/VBZ on/IN while/IN answering/VBG the/DT question/NN ./.
+To/TO tackle/VB this/DT problem/NN ,/, we/PRP use/VBP two/CD visualization/NN techniques/NNS --/: guided/VBN backpropagation/NN and/CC occlusion/NN --/: to/TO find/VB important/JJ words/NNS in/IN the/DT question/NN and/CC important/JJ regions/NNS in/IN the/DT image/NN ./.
+We/PRP then/RB present/VBP qualitative/JJ and/CC quantitative/JJ analyses/NNS of/IN these/DT importance/NN maps/VBZ ./.

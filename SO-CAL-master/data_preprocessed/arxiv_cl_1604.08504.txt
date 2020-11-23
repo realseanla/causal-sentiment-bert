@@ -1,0 +1,6 @@
+Spammer/NNP detection/NN on/IN social/JJ network/NN is/VBZ a/DT challenging/JJ problem/NN ./.
+The/DT rigid/JJ anti-spam/JJ rules/NNS have/VBP resulted/VBN in/IN emergence/NN of/IN "/`` smart/JJ "/'' spammers/NNS ./.
+They/PRP resemble/VBP legitimate/JJ users/NNS who/WP are/VBP difficult/JJ to/TO identify/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ spammer/NN classification/NN approach/NN based/VBN on/IN Latent/JJ Dirichlet/NNP Allocation/NN (/-LRB- LDA/NN )/-RRB- ,/, a/DT topic/NN model/NN ./.
+Our/PRP$ approach/NN extracts/NNS both/CC the/DT local/JJ and/CC the/DT global/JJ information/NN of/IN topic/NN distribution/NN patterns/NNS ,/, which/WDT capture/VBP the/DT essence/NN of/IN spamming/NN ./.
+Tested/VBN on/IN one/CD benchmark/NN dataset/NN and/CC one/CD self/NN -/HYPH collected/VBN dataset/NN ,/, our/PRP$ proposed/JJ method/NN outperforms/VBZ other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS in/IN terms/NNS of/IN averaged/JJ F1/NN -/HYPH score/NN ./.

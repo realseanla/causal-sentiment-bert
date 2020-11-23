@@ -1,0 +1,8 @@
+Isometric/JJ feature/NN mapping/NN (/-LRB- Isomap/NN )/-RRB- is/VBZ a/DT promising/JJ manifold/NN learning/NN method/NN ./.
+However/RB ,/, Isomap/NNP fails/VBZ to/TO work/VB on/IN data/NNS which/WDT distribute/VBP on/IN clusters/NNS in/IN a/DT single/JJ manifold/NN or/CC manifolds/NNS ./.
+Many/JJ works/NNS have/VBP been/VBN done/VBN on/IN extending/VBG Isomap/NN to/IN multi-manifolds/NNS learning/VBG ./.
+In/IN this/DT paper/NN ,/, we/PRP first/RB proposed/VBD a/DT new/JJ multi-manifolds/NNS learning/VBG algorithm/NN (/-LRB- M/NN -/HYPH Isomap/NN )/-RRB- with/IN help/NN of/IN a/DT general/JJ procedure/NN ./.
+The/DT new/JJ algorithm/NN preserves/VBZ intra-manifold/JJ geodesics/NNS and/CC multiple/JJ inter-manifolds/NNS edges/VBZ precisely/RB ./.
+Compared/VBN with/IN previous/JJ methods/NNS ,/, this/DT algorithm/NN can/MD isometrically/RB learn/VB data/NNS distributed/VBN on/IN several/JJ manifolds/NNS ./.
+Secondly/RB ,/, the/DT original/JJ multi-cluster/NN manifold/JJ learning/NN algorithm/NN first/RB proposed/VBN in/IN and/CC called/VBN D/NN -/HYPH C/NN Isomap/NN has/VBZ been/VBN revised/VBN so/IN that/IN the/DT revised/VBN D/NN -/HYPH C/NN Isomap/NN can/MD learn/VB multi-manifolds/NNS data/NNS ./.
+Finally/RB ,/, the/DT features/NNS and/CC effectiveness/NN of/IN the/DT proposed/VBN multi-manifolds/NNS learning/VBG algorithms/NNS are/VBP demonstrated/VBN and/CC compared/VBN through/IN experiments/NNS ./.

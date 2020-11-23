@@ -1,0 +1,4 @@
+Recent/JJ approaches/NNS based/VBN on/IN artificial/JJ neural/JJ networks/NNS (/-LRB- ANNs/NNS )/-RRB- have/VBP shown/VBN promising/JJ results/NNS for/IN short/JJ -/HYPH text/NN classification/NN ./.
+However/RB ,/, many/JJ short/JJ texts/NNS occur/VBP in/IN sequences/NNS (/-LRB- e.g./FW ,/, sentences/NNS in/IN a/DT document/NN or/CC utterances/NNS in/IN a/DT dialog/NN )/-RRB- ,/, and/CC most/JJS existing/VBG ANN/NNP -/HYPH based/VBN systems/NNS do/VBP not/RB leverage/VB the/DT preceding/VBG short/JJ texts/NNS when/WRB classifying/VBG a/DT subsequent/JJ one/NN ./.
+In/IN this/DT work/NN ,/, we/PRP present/VBP a/DT model/NN based/VBN on/IN recurrent/JJ neural/JJ networks/NNS and/CC convolutional/JJ neural/JJ networks/NNS that/WDT incorporates/VBZ the/DT preceding/VBG short/JJ texts/NNS ./.
+Our/PRP$ model/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN three/CD different/JJ datasets/NNS for/IN dialog/NN act/NN prediction/NN ./.

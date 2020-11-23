@@ -1,0 +1,4 @@
+Morphological/JJ inflection/NN generation/NN is/VBZ the/DT task/NN of/IN generating/VBG the/DT inflected/JJ form/NN of/IN a/DT given/VBN lemma/NN corresponding/VBG to/IN a/DT particular/JJ linguistic/JJ transformation/NN ./.
+We/PRP model/VBP the/DT problem/NN of/IN inflection/NN generation/NN as/IN a/DT character/NN sequence/NN to/IN sequence/NN learning/NN problem/NN and/CC present/VB a/DT variant/NN of/IN the/DT neural/JJ encoder/NN -/HYPH decoder/NN model/NN for/IN solving/VBG it/PRP ./.
+Our/PRP$ model/NN is/VBZ language/NN independent/JJ and/CC can/MD be/VB trained/VBN in/IN both/CC supervised/VBD and/CC semi-supervised/VBD settings/NNS ./.
+We/PRP evaluate/VBP our/PRP$ system/NN on/IN seven/CD datasets/NNS of/IN morphologically/RB rich/JJ languages/NNS and/CC achieve/VB either/CC better/JJR or/CC comparable/JJ results/NNS to/IN existing/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS of/IN inflection/NN generation/NN ./.

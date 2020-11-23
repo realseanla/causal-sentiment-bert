@@ -1,0 +1,9 @@
+We/PRP propose/VBP a/DT query/NN -/HYPH based/VBN generative/JJ model/NN for/IN solving/VBG both/DT tasks/NNS of/IN question/NN generation/NN (/-LRB- QG/NN )/-RRB- and/CC question/VBP an/DT -/HYPH swering/NN (/-LRB- QA/NN )/-RRB- ./.
+The/DT model/NN follows/VBZ the/DT classic/JJ encoder/NN -/HYPH decoder/NN framework/NN ./.
+The/DT encoder/NN takes/VBZ a/DT passage/NN and/CC a/DT query/NN as/IN input/NN then/RB performs/VBZ query/NN understanding/NN by/IN matching/VBG the/DT query/NN with/IN the/DT passage/NN from/IN multiple/JJ per/IN -/HYPH spectives/NNS ./.
+The/DT decoder/NN is/VBZ an/DT attention/NN -/HYPH based/VBN Long/NNP Short/NNP Term/NNP Memory/NNP (/-LRB- LSTM/NNP )/-RRB- model/NN with/IN copy/NN and/CC coverage/NN mechanisms/NNS ./.
+In/IN the/DT QG/NNP task/NN ,/, a/DT question/NN is/VBZ generated/VBN from/IN the/DT system/NN given/VBN the/DT passage/NN and/CC the/DT target/NN answer/NN ,/, whereas/IN in/IN the/DT QA/NNP task/NN ,/, the/DT answer/NN is/VBZ generated/VBN given/VBN the/DT question/NN and/CC the/DT passage/NN ./.
+During/IN the/DT training/NN stage/NN ,/, we/PRP leverage/VBP a/DT policy/NN -/HYPH gradient/NN reinforcement/NN learning/VBG algorithm/NN to/TO overcome/VB exposure/NN bias/NN ,/, a/DT major/JJ prob/NN -/HYPH lem/NN resulted/VBD from/IN sequence/NN learning/NN with/IN cross-entropy/JJ loss/NN ./.
+For/IN the/DT QG/NNP task/NN ,/, our/PRP$ experiments/NNS show/VBP higher/JJR per/IN -/HYPH formances/NNS than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ./.
+When/WRB used/VBN as/IN additional/JJ training/NN data/NNS ,/, the/DT automatically/RB generated/VBN questions/NNS even/RB improve/VB the/DT performance/NN of/IN a/DT strong/JJ ex/NN -/HYPH tractive/NN QA/NN system/NN ./.
+In/IN addition/NN ,/, our/PRP$ model/NN shows/VBZ bet/NN -/HYPH ter/NN performance/NN than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN baselines/NNS of/IN the/DT generative/JJ QA/NN task/NN ./.

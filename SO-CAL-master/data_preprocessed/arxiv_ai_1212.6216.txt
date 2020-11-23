@@ -1,0 +1,9 @@
+Dribbling/VBG an/DT opponent/NN player/NN in/IN digital/JJ soccer/NN environment/NN is/VBZ an/DT important/JJ practical/JJ problem/NN in/IN motion/NN planning/NN ./.
+It/PRP has/VBZ special/JJ complexities/NNS which/WDT can/MD be/VB generalized/VBN to/IN most/RBS important/JJ problems/NNS in/IN other/JJ similar/JJ Multi/NNP Agent/NNP Systems/NNPS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT hybrid/NN computational/JJ geometry/NN and/CC evolutionary/JJ computation/NN approach/NN for/IN generating/VBG motion/NN trajectories/NNS to/TO avoid/VB a/DT mobile/JJ obstacle/NN ./.
+In/IN this/DT case/NN an/DT opponent/NN agent/NN is/VBZ not/RB only/RB an/DT obstacle/NN but/CC also/RB one/CD who/WP tries/VBZ to/TO harden/VB dribbling/VBG procedure/NN ./.
+One/CD characteristic/NN of/IN this/DT approach/NN is/VBZ reducing/VBG process/NN cost/NN of/IN online/JJ stage/NN by/IN transferring/VBG it/PRP to/TO offline/RB stage/VB which/WDT causes/VBZ increment/NN in/IN agents/NNS '/POS performance/NN ./.
+This/DT approach/NN breaks/VBZ the/DT problem/NN into/IN two/CD offline/RB and/CC online/JJ stages/NNS ./.
+During/IN offline/RB stage/VB the/DT goal/NN is/VBZ to/TO find/VB desired/VBN trajectory/NN using/VBG evolutionary/JJ computation/NN and/CC saving/VBG it/PRP as/IN a/DT trajectory/NN plan/NN ./.
+A/DT trajectory/NN plan/NN consists/VBZ of/IN nodes/NNS which/WDT approximate/VBP information/NN of/IN each/DT trajectory/NN plan/NN ./.
+In/IN online/JJ stage/NN ,/, a/DT linear/JJ interpolation/NN along/IN with/IN Delaunay/NNP triangulation/NN in/IN xy/NN -/HYPH plan/NN is/VBZ applied/VBN to/IN trajectory/NN plan/NN to/TO retrieve/VB desired/VBN action/NN ./.

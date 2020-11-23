@@ -1,0 +1,8 @@
+The/DT survey/NN propagation/NN (/-LRB- SP/NN )/-RRB- algorithm/NN has/VBZ been/VBN shown/VBN to/TO work/VB well/RB on/IN large/JJ instances/NNS of/IN the/DT random/JJ 3/CD -/HYPH SAT/NN problem/NN near/IN its/PRP$ phase/NN transition/NN ./.
+It/PRP was/VBD shown/VBN that/IN SP/NN estimates/NNS marginals/NNS over/IN covers/NNS that/WDT represent/VBP clusters/NNS of/IN solutions/NNS ./.
+The/DT SP/NN -/HYPH y/NN algorithm/NN generalizes/VBZ SP/NN to/TO work/VB on/IN the/DT maximum/JJ satisfiability/NN (/-LRB- Max/NNP -/HYPH SAT/NNP )/-RRB- problem/NN ,/, but/CC the/DT cover/NN interpretation/NN of/IN SP/NN does/VBZ not/RB generalize/VB to/IN SP/NN -/HYPH y/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP formulate/VBP the/DT relaxed/JJ survey/NN propagation/NN (/-LRB- RSP/NN )/-RRB- algorithm/NN ,/, which/WDT extends/VBZ the/DT SP/NN algorithm/NN to/TO apply/VB to/IN the/DT weighted/JJ Max/NNP -/HYPH SAT/NNP problem/NN ./.
+We/PRP show/VBP that/IN RSP/NNP has/VBZ an/DT interpretation/NN of/IN estimating/VBG marginals/NNS over/IN covers/NNS violating/VBG a/DT set/NN of/IN clauses/NNS with/IN minimal/JJ weight/NN ./.
+This/DT naturally/RB generalizes/VBZ the/DT cover/NN interpretation/NN of/IN SP/NN ./.
+Empirically/RB ,/, we/PRP show/VBP that/IN RSP/NNP outperforms/VBZ SP/NN -/HYPH y/NN and/CC other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN Max/NNP -/HYPH SAT/NNP solvers/NNS on/IN random/JJ Max/NNP -/HYPH SAT/NNP instances/NNS ./.
+RSP/NNP also/RB outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN weighted/JJ Max/NNP -/HYPH SAT/NNP solvers/NNS on/IN random/JJ weighted/JJ Max/NNP -/HYPH SAT/NNP instances/NNS ./.

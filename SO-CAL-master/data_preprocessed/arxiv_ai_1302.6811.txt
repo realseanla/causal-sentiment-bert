@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT method/NN for/IN dynamically/RB generating/VBG Bayesian/JJ networks/NNS from/IN knowledge/NN bases/NNS consisting/VBG of/IN first/JJ -/HYPH order/NN probability/NN logic/NN sentences/NNS ./.
+We/PRP present/VBP a/DT subset/NN of/IN probability/NN logic/NN sufficient/JJ for/IN representing/VBG the/DT class/NN of/IN Bayesian/JJ networks/NNS with/IN discrete/JJ -/HYPH valued/VBN nodes/NNS ./.
+We/PRP impose/VBP constraints/NNS on/IN the/DT form/NN of/IN the/DT sentences/NNS that/WDT guarantee/VBP that/IN the/DT knowledge/NN base/NN contains/VBZ all/PDT the/DT probabilistic/JJ information/NN necessary/JJ to/TO generate/VB a/DT network/NN ./.
+We/PRP define/VBP the/DT concept/NN of/IN d/NN -/HYPH separation/NN for/IN knowledge/NN bases/NNS and/CC prove/VB that/IN a/DT knowledge/NN base/NN with/IN independence/NN conditions/NNS defined/VBN by/IN d/NN -/HYPH separation/NN is/VBZ a/DT complete/JJ specification/NN of/IN a/DT probability/NN distribution/NN ./.
+We/PRP present/VBP a/DT network/NN generation/NN algorithm/NN that/WDT ,/, given/VBN an/DT inference/NN problem/NN in/IN the/DT form/NN of/IN a/DT query/NN Q/NN and/CC a/DT set/NN of/IN evidence/NN E/NN ,/, generates/VBZ a/DT network/NN to/TO compute/VB P/NN (/-LRB- Q/NN |/HYPH E/NN )/-RRB- ./.
+We/PRP prove/VBP the/DT algorithm/NN to/TO be/VB correct/JJ ./.

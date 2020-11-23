@@ -1,0 +1,15 @@
+Chemical/NNP -/HYPH chemical/JJ interaction/NN (/-LRB- CCI/NN )/-RRB- plays/VBZ a/DT key/JJ role/NN in/IN predicting/VBG candidate/NN drugs/NNS ,/, toxicity/NN ,/, therapeutic/JJ effects/NNS ,/, and/CC biological/JJ functions/NNS ./.
+CCI/NN was/VBD created/VBN from/IN text/NN mining/NN ,/, experiments/NNS ,/, similarities/NNS ,/, and/CC databases/NNS ;/: to/IN date/NN ,/, no/DT learning/NN -/HYPH based/VBN CCI/NNP prediction/NN method/NN exist/VBP ./.
+In/IN chemical/NN analyses/NNS ,/, computational/JJ approaches/NNS are/VBP required/VBN ./.
+The/DT recent/JJ remarkable/JJ growth/NN and/CC outstanding/JJ performance/NN of/IN deep/JJ learning/NN have/VBP attracted/VBN considerable/JJ esearch/NN attention/NN ./.
+However/RB ,/, even/RB in/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN drug/NN analyses/NNS ,/, deep/JJ learning/NN continues/VBZ to/TO be/VB used/VBN only/RB as/IN a/DT classifier/NN ./.
+Nevertheless/RB ,/, its/PRP$ purpose/NN includes/VBZ not/RB only/RB simple/JJ classification/NN ,/, but/CC also/RB automated/VBN feature/NN extraction/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP the/DT first/JJ end/NN -/HYPH to/IN -/HYPH end/NN learning/NN method/NN for/IN CCI/NN ,/, named/VBN DeepCCI/NNP ./.
+Hidden/JJ features/NNS are/VBP derived/VBN from/IN a/DT simplified/JJ molecular/JJ input/NN line/NN entry/NN system/NN (/-LRB- SMILES/VBZ )/-RRB- ,/, which/WDT is/VBZ a/DT string/NN notation/NN representing/VBG the/DT chemical/JJ structure/NN ,/, instead/RB of/IN learning/VBG from/IN crafted/VBN features/NNS ./.
+To/TO discover/VB hidden/JJ representations/NNS for/IN the/DT SMILES/NNP strings/NNS ,/, we/PRP use/VBP convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- ./.
+To/TO guarantee/VB the/DT commutative/JJ property/NN for/IN homogeneous/JJ interaction/NN ,/, we/PRP apply/VBP model/NN sharing/NN and/CC hidden/JJ representation/NN merging/VBG techniques/NNS ./.
+The/DT performance/NN of/IN DeepCCI/NNP was/VBD compared/VBN with/IN a/DT plain/JJ deep/JJ classifier/NN and/CC conventional/JJ machine/NN learning/NN methods/NNS ./.
+The/DT proposed/VBN DeepCCI/NN showed/VBD the/DT best/JJS performance/NN in/IN all/DT seven/CD evaluation/NN metrics/NNS used/VBN ./.
+In/IN addition/NN ,/, the/DT commutative/JJ property/NN was/VBD experimentally/RB validated/VBN ./.
+The/DT automatically/RB extracted/VBN features/NNS through/IN end/NN -/HYPH to/IN -/HYPH end/NN SMILES/VBZ learning/VBG alleviates/VBZ the/DT significant/JJ efforts/NNS required/VBN for/IN manual/JJ feature/NN engineering/NN ./.
+It/PRP is/VBZ expected/VBN to/TO improve/VB prediction/NN performance/NN ,/, in/IN drug/NN analyses/NNS ./.

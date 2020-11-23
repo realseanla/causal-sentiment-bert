@@ -1,0 +1,9 @@
+Very/RB large/JJ databases/NNS are/VBP required/VBN to/TO store/VB massive/JJ amounts/NNS of/IN data/NNS that/WDT are/VBP continuously/RB inserted/VBN and/CC queried/VBN ./.
+Analyzing/VBG huge/JJ data/NNS sets/NNS and/CC extracting/VBG valuable/JJ pattern/NN in/IN many/JJ applications/NNS are/VBP interesting/JJ for/IN researchers/NNS ./.
+We/PRP can/MD identify/VB two/CD main/JJ groups/NNS of/IN techniques/NNS for/IN huge/JJ data/NNS bases/NNS mining/NN ./.
+One/CD group/NN refers/VBZ to/IN streaming/NN data/NNS and/CC applies/VBZ mining/NN techniques/NNS whereas/IN second/JJ group/NN attempts/VBZ to/TO solve/VB this/DT problem/NN directly/RB with/IN efficient/JJ algorithms/NNS ./.
+Recently/RB many/JJ researchers/NNS have/VBP focused/VBN on/IN data/NNS stream/NN as/IN an/DT efficient/JJ strategy/NN against/IN huge/JJ data/NNS base/NN mining/NN instead/RB of/IN mining/NN on/IN entire/JJ data/NNS base/NN ./.
+The/DT main/JJ problem/NN in/IN data/NNS stream/NN mining/NN means/VBZ evolving/VBG data/NNS is/VBZ more/RBR difficult/JJ to/TO detect/VB in/IN this/DT techniques/NNS therefore/RB unsupervised/JJ methods/NNS should/MD be/VB applied/VBN ./.
+However/RB ,/, clustering/VBG techniques/NNS can/MD lead/VB us/PRP to/TO discover/VB hidden/JJ information/NN ./.
+In/IN this/DT survey/NN ,/, we/PRP try/VBP to/TO clarify/VB :/: first/RB ,/, the/DT different/JJ problem/NN definitions/NNS related/VBN to/IN data/NNS stream/NN clustering/NN in/IN general/JJ ;/: second/RB ,/, the/DT specific/JJ difficulties/NNS encountered/VBD in/IN this/DT field/NN of/IN research/NN ;/: third/JJ ,/, the/DT varying/VBG assumptions/NNS ,/, heuristics/NNS ,/, and/CC intuitions/NNS forming/VBG the/DT basis/NN of/IN different/JJ approaches/NNS ;/: and/CC how/WRB several/JJ prominent/JJ solutions/NNS tackle/VBP different/JJ problems/NNS ./.
+Index/NN Terms/NNS -/, Data/NNS Stream/NNP ,/, Clustering/NNP ,/, K/NNP -/HYPH Means/NNP ,/, Concept/NNP drift/NN

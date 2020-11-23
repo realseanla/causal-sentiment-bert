@@ -1,0 +1,6 @@
+This/DT article/NN proposes/VBZ diffusion/NN LMS/NN techniques/NNS for/IN distributed/VBN estimation/NN over/IN adaptive/JJ networks/NNS that/WDT are/VBP able/JJ to/TO exploit/VB sparsity/NN in/IN the/DT underlying/VBG system/NN model/NN ./.
+The/DT approach/NN relies/VBZ on/IN convex/NN regularization/NN ,/, common/JJ in/IN compressive/JJ sensing/VBG ,/, to/TO enhance/VB the/DT detection/NN of/IN sparsity/NN via/IN a/DT diffusive/JJ process/NN over/IN the/DT network/NN ./.
+The/DT resulting/VBG algorithms/NNS endow/VB networks/NNS with/IN learning/VBG abilities/NNS and/CC allow/VB them/PRP to/TO learn/VB the/DT sparse/JJ structure/NN from/IN the/DT incoming/JJ data/NNS in/IN real/JJ -/HYPH time/NN ,/, and/CC also/RB to/TO track/VB variations/NNS in/IN the/DT sparsity/NN of/IN the/DT model/NN ./.
+We/PRP provide/VBP convergence/NN and/CC mean/VB -/HYPH square/NN performance/NN analysis/NN of/IN the/DT proposed/JJ method/NN and/CC show/NN under/IN what/WP conditions/NNS it/PRP outperforms/VBZ the/DT unregularized/JJ diffusion/NN version/NN ./.
+We/PRP also/RB show/VBP how/WRB to/TO adaptively/RB select/VB the/DT regularization/NN parameter/NN ./.
+Simulation/NNP results/VBZ illustrate/VBP the/DT advantage/NN of/IN the/DT proposed/VBN filters/NNS for/IN sparse/JJ data/NNS recovery/NN ./.

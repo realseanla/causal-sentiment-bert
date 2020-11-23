@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT feature/NN learning/NN model/NN that/WDT learns/VBZ to/TO encode/VB relationships/NNS between/IN images/NNS ./.
+The/DT model/NN is/VBZ defined/VBN as/IN a/DT Gated/JJ Boltzmann/NNP Machine/NNP ,/, which/WDT is/VBZ constrained/VBN such/JJ that/IN hidden/VBN units/NNS that/WDT are/VBP nearby/JJ in/IN space/NN can/NN gate/NN each/DT other/JJ 's/POS connections/NNS ./.
+We/PRP show/VBP how/WRB frequency/NN //HYPH orientation/NN "/'' columns/NNS "/'' as/RB well/RB as/IN topographic/JJ filter/NN maps/VBZ follow/VB naturally/RB from/IN training/VBG the/DT model/NN on/IN image/NN pairs/NNS ./.
+The/DT model/NN also/RB helps/VBZ explain/VB why/WRB square/JJ -/HYPH pooling/VBG models/NNS yield/VBP feature/NN groups/NNS with/IN similar/JJ grouping/NN properties/NNS ./.
+Experimental/JJ results/NNS on/IN synthetic/JJ image/NN transformations/NNS show/VBP that/IN spatially/RB constrained/VBN gating/NN is/VBZ an/DT effective/JJ way/NN to/TO reduce/VB the/DT number/NN of/IN parameters/NNS and/CC thereby/RB to/IN regularize/VB a/DT transformation/NN -/HYPH learning/NN model/NN ./.

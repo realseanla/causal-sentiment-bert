@@ -1,0 +1,6 @@
+Online/JJ Newton/NNP step/NN algorithms/NNS usually/RB achieve/VBP good/JJ performance/NN with/IN less/JJR training/NN samples/NNS than/IN first/JJ order/NN methods/NNS ,/, but/CC require/VBP higher/JJR space/NN and/CC time/NN complexity/NN in/IN each/DT iteration/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP a/DT new/JJ sketching/VBG strategy/NN called/VBN regularized/VBN frequent/JJ direction/NN (/-LRB- RFD/NN )/-RRB- to/TO improve/VB the/DT performance/NN of/IN online/JJ Newton/NNP algorithms/NNS ./.
+Unlike/IN the/DT standard/JJ frequent/JJ direction/NN (/-LRB- FD/NN )/-RRB- which/WDT only/RB maintains/VBZ a/DT sketching/VBG matrix/NN ,/, the/DT RFD/NNP introduces/VBZ a/DT regularization/NN term/NN additionally/RB ./.
+The/DT regularization/NN provides/VBZ an/DT adaptive/JJ stepsize/NN for/IN update/NN ,/, which/WDT makes/VBZ the/DT algorithm/NN more/RBR stable/JJ ./.
+The/DT RFD/NNP also/RB reduces/VBZ the/DT approximation/NN error/NN of/IN FD/NNP with/IN almost/RB the/DT same/JJ cost/NN and/CC makes/VBZ the/DT online/JJ learning/NN more/RBR robust/JJ to/IN hyperparameters/NNS ./.
+Empirical/JJ studies/NNS demonstrate/VBP that/IN our/PRP$ approach/NN outperforms/VBZ sate/VB -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN second/JJ order/NN online/JJ learning/NN algorithms/NNS ./.

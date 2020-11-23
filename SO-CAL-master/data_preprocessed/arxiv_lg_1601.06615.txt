@@ -1,0 +1,8 @@
+Traditional/JJ architectures/NNS for/IN solving/VBG computer/NN vision/NN problems/NNS and/CC the/DT degree/NN of/IN success/NN they/PRP enjoyed/VBD have/VBP been/VBN heavily/RB reliant/JJ on/IN hand/NN -/HYPH crafted/VBN features/NNS ./.
+However/RB ,/, of/IN late/JJ ,/, deep/JJ learning/NN techniques/NNS have/VBP offered/VBN a/DT compelling/JJ alternative/NN --/: that/IN of/IN automatically/RB learning/VBG problem/NN -/HYPH specific/JJ features/NNS ./.
+With/IN this/DT new/JJ paradigm/NN ,/, every/DT problem/NN in/IN computer/NN vision/NN is/VBZ now/RB being/VBG re-examined/VBN from/IN a/DT deep/JJ learning/NN perspective/NN ./.
+Therefore/RB ,/, it/PRP has/VBZ become/VBN important/JJ to/TO understand/VB what/WP kind/NN of/IN deep/JJ networks/NNS are/VBP suitable/JJ for/IN a/DT given/VBN problem/NN ./.
+Although/IN general/JJ surveys/NNS of/IN this/DT fast/JJ -/HYPH moving/VBG paradigm/NN (/-LRB- i.e./FW deep/RB -/HYPH networks/NNS )/-RRB- exist/VBP ,/, a/DT survey/NN specific/JJ to/IN computer/NN vision/NN is/VBZ missing/VBG ./.
+We/PRP specifically/RB consider/VBP one/CD form/NN of/IN deep/JJ networks/NNS widely/RB used/VBN in/IN computer/NN vision/NN -/HYPH convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- ./.
+We/PRP start/VBP with/IN "/`` AlexNet/NNP "/'' as/IN our/PRP$ base/NN CNN/NNP and/CC then/RB examine/VB the/DT broad/JJ variations/NNS proposed/VBN over/IN time/NN to/TO suit/VB different/JJ applications/NNS ./.
+We/PRP hope/VBP that/IN our/PRP$ recipe/NN -/HYPH style/NN survey/NN will/MD serve/VB as/IN a/DT guide/NN ,/, particularly/RB for/IN novice/NN practitioners/NNS intending/VBG to/TO use/VB deep/JJ -/HYPH learning/NN techniques/NNS for/IN computer/NN vision/NN ./.

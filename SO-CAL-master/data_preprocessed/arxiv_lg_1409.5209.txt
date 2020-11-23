@@ -1,0 +1,4 @@
+Many/JJ typical/JJ applications/NNS of/IN object/NN detection/NN operate/VBP within/IN a/DT prescribed/JJ false/JJ -/HYPH positive/JJ range/NN ./.
+In/IN this/DT situation/NN the/DT performance/NN of/IN a/DT detector/NN should/MD be/VB assessed/VBN on/IN the/DT basis/NN of/IN the/DT area/NN under/IN the/DT ROC/NNP curve/NN over/IN that/DT range/NN ,/, rather/RB than/IN over/IN the/DT full/JJ curve/NN ,/, as/IN the/DT performance/NN outside/IN the/DT range/NN is/VBZ irrelevant/JJ ./.
+This/DT measure/NN is/VBZ labelled/VBN as/IN the/DT partial/JJ area/NN under/IN the/DT ROC/NNP curve/NN (/-LRB- pAUC/NN )/-RRB- ./.
+We/PRP propose/VBP a/DT novel/JJ ensemble/NN learning/NN method/NN which/WDT achieves/VBZ a/DT maximal/JJ detection/NN rate/NN at/IN a/DT user/NN -/HYPH defined/VBN range/NN of/IN false/JJ positive/JJ rates/NNS by/IN directly/RB optimizing/VBG the/DT partial/JJ AUC/NN using/VBG structured/JJ output/NN learning/NN ./.

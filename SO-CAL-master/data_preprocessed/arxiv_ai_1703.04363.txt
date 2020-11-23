@@ -1,0 +1,8 @@
+We/PRP approach/VBP structured/JJ output/NN prediction/NN by/IN learning/VBG a/DT deep/JJ value/NN network/NN (/-LRB- DVN/NN )/-RRB- that/WDT evaluates/VBZ different/JJ output/NN structures/NNS for/IN a/DT given/VBN input/NN ./.
+For/IN example/NN ,/, when/WRB applied/VBN to/IN image/NN segmentation/NN ,/, the/DT value/NN network/NN takes/VBZ an/DT image/NN and/CC a/DT segmentation/NN mask/NN as/IN inputs/NNS and/CC predicts/VBZ a/DT scalar/JJ score/NN evaluating/VBG the/DT mask/NN quality/NN and/CC its/PRP$ correspondence/NN with/IN the/DT image/NN ./.
+Once/IN the/DT value/NN network/NN is/VBZ optimized/VBN ,/, at/IN inference/NN ,/, it/PRP finds/VBZ output/NN structures/NNS that/WDT maximize/VBP the/DT score/NN of/IN the/DT value/NN net/JJ via/IN gradient/NN descent/NN on/IN continuous/JJ relaxations/NNS of/IN structured/JJ outputs/NNS ./.
+Thus/RB DVN/NNP takes/VBZ advantage/NN of/IN the/DT joint/JJ modeling/NN of/IN the/DT inputs/NNS and/CC outputs/NNS ./.
+Our/PRP$ framework/NN applies/VBZ to/IN a/DT wide/JJ range/NN of/IN structured/JJ output/NN prediction/NN problems/NNS ./.
+We/PRP conduct/VBP experiments/NNS on/IN multi-label/JJ classification/NN based/VBN on/IN text/NN data/NNS and/CC on/IN image/NN segmentation/NN problems/NNS ./.
+DVN/NNP outperforms/VBZ several/JJ strong/JJ baselines/NNS and/CC the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN these/DT benchmarks/NNS ./.
+In/IN addition/NN ,/, on/IN image/NN segmentation/NN ,/, the/DT proposed/VBN deep/JJ value/NN network/NN learns/VBZ complex/JJ shape/NN priors/NNS and/CC effectively/RB combines/VBZ image/NN information/NN with/IN the/DT prior/JJ to/TO obtain/VB competitive/JJ segmentation/NN results/NNS ./.

@@ -1,0 +1,12 @@
+We/PRP describe/VBP algorithms/NNS for/IN learning/VBG Bayesian/JJ networks/NNS from/IN a/DT combination/NN of/IN user/NN knowledge/NN and/CC statistical/JJ data/NNS ./.
+The/DT algorithms/NNS have/VBP two/CD components/NNS :/: a/DT scoring/VBG metric/JJ and/CC a/DT search/NN procedure/NN ./.
+The/DT scoring/NN metric/JJ takes/VBZ a/DT network/NN structure/NN ,/, statistical/JJ data/NNS ,/, and/CC a/DT user/NN 's/POS prior/JJ knowledge/NN ,/, and/CC returns/VBZ a/DT score/NN proportional/JJ to/IN the/DT posterior/JJ probability/NN of/IN the/DT network/NN structure/NN given/VBN the/DT data/NNS ./.
+The/DT search/NN procedure/NN generates/VBZ networks/NNS for/IN evaluation/NN by/IN the/DT scoring/NN metric/JJ ./.
+Our/PRP$ contributions/NNS are/VBP threefold/RB ./.
+First/RB ,/, we/PRP identify/VBP two/CD important/JJ properties/NNS of/IN metrics/NNS ,/, which/WDT we/PRP call/VBP event/NN equivalence/NN and/CC parameter/NN modularity/NN ./.
+These/DT properties/NNS have/VBP been/VBN mostly/RB ignored/VBN ,/, but/CC when/WRB combined/VBN ,/, greatly/RB simplify/VB the/DT encoding/NN of/IN a/DT user/NN 's/POS prior/JJ knowledge/NN ./.
+In/IN particular/JJ ,/, a/DT user/NN can/MD express/VB her/PRP$ knowledge/NN -/HYPH for/IN the/DT most/JJS part/NN -/HYPH as/IN a/DT single/JJ prior/JJ Bayesian/JJ network/NN for/IN the/DT domain/NN ./.
+Second/RB ,/, we/PRP describe/VBP local/JJ search/NN and/CC annealing/VBG algorithms/NNS to/TO be/VB used/VBN in/IN conjunction/NN with/IN scoring/VBG metrics/NNS ./.
+In/IN the/DT special/JJ case/NN where/WRB each/DT node/NN has/VBZ at/IN most/RBS one/CD parent/NN ,/, we/PRP show/VBP that/IN heuristic/NN search/NN can/MD be/VB replaced/VBN with/IN a/DT polynomial/JJ algorithm/NN to/TO identify/VB the/DT networks/NNS with/IN the/DT highest/JJS score/NN ./.
+Third/JJ ,/, we/PRP describe/VBP a/DT methodology/NN for/IN evaluating/VBG Bayesian/JJ -/HYPH network/NN learning/NN algorithms/NNS ./.
+We/PRP apply/VBP this/DT approach/NN to/IN a/DT comparison/NN of/IN metrics/NNS and/CC search/VB procedures/NNS ./.

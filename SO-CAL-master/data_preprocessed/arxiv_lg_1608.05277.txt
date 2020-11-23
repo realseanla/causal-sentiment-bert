@@ -1,0 +1,11 @@
+This/DT paper/NN describes/VBZ a/DT number/NN of/IN fundamental/JJ and/CC practical/JJ problems/NNS in/IN the/DT application/NN of/IN hidden/JJ -/HYPH Markov/NNP models/NNS and/CC Bayes/NNS when/WRB applied/VBN to/IN cursive/JJ -/HYPH script/NN recognition/NN ./.
+Several/JJ problems/NNS ,/, however/RB ,/, will/MD have/VB an/DT effect/NN in/IN other/JJ application/NN areas/NNS ./.
+The/DT most/RBS fundamental/JJ problem/NN is/VBZ the/DT propagation/NN of/IN error/NN in/IN the/DT product/NN of/IN probabilities/NNS ./.
+This/DT is/VBZ a/DT common/JJ and/CC pervasive/JJ problem/NN which/WDT deserves/VBZ more/JJR attention/NN ./.
+On/IN the/DT basis/NN of/IN Monte/NNP Carlo/NNP modeling/NN ,/, tables/NNS for/IN the/DT expected/VBN relative/JJ error/NN are/VBP given/VBN ./.
+It/PRP seems/VBZ that/IN it/PRP is/VBZ distributed/VBN according/VBG to/IN a/DT continuous/JJ Poisson/NNP distribution/NN over/IN log/NN probabilities/NNS ./.
+A/DT second/JJ essential/JJ problem/NN is/VBZ related/VBN to/IN the/DT appropriateness/NN of/IN the/DT Markov/NNP assumption/NN ./.
+Basic/JJ tests/NNS will/MD reveal/VB whether/IN a/DT problem/NN requires/VBZ modeling/NN of/IN the/DT stochastics/NNS of/IN seriality/NN ,/, at/IN all/DT ./.
+Examples/NNS are/VBP given/VBN of/IN lexical/JJ encodings/NNS which/WDT cover/VBP 95/CD -/HYPH 99/CD percent/NN classification/NN accuracy/NN of/IN a/DT lexicon/NN ,/, with/IN removed/VBN sequence/NN information/NN ,/, for/IN several/JJ European/JJ languages/NNS ./.
+Finally/RB ,/, a/DT summary/NN of/IN results/NNS on/IN a/DT non/FW -/HYPH Bayes/FW ,/, non-Markov/JJ method/NN in/IN handwriting/NN recognition/NN are/VBP presented/VBN ,/, with/IN very/RB acceptable/JJ results/NNS and/CC minimal/JJ modeling/NN or/CC training/NN requirements/NNS using/VBG nearest/JJS -/HYPH mean/VB classification/NN ./.
+The/DT suggestion/NN is/VBZ to/TO keep/VB considering/VBG the/DT design/NN of/IN features/NNS and/CC exploiting/VBG the/DT power/NN and/CC convenience/NN of/IN nearest/JJS -/HYPH neighbour/NN search/NN on/IN contemporary/JJ computing/NN platforms/NNS ./.

@@ -1,0 +1,5 @@
+Summarization/NN based/VBN on/IN text/NN extraction/NN is/VBZ inherently/RB limited/VBN ,/, but/CC generation/NN -/HYPH style/NN abstractive/JJ methods/NNS have/VBP proven/VBN challenging/JJ to/TO build/VB ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT fully/RB data/NN -/HYPH driven/VBN approach/NN to/IN abstractive/JJ sentence/NN summarization/NN ./.
+Our/PRP$ method/NN utilizes/VBZ a/DT local/JJ attention/NN -/HYPH based/VBN model/NN that/WDT generates/VBZ each/DT word/NN of/IN the/DT summary/NN conditioned/VBN on/IN the/DT input/NN sentence/NN ./.
+While/IN the/DT model/NN is/VBZ structurally/RB simple/JJ ,/, it/PRP can/MD easily/RB be/VB trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN and/CC scales/NNS to/IN a/DT large/JJ amount/NN of/IN training/NN data/NNS ./.
+The/DT model/NN shows/VBZ significant/JJ performance/NN gains/NNS on/IN the/DT DUC/NNP -/HYPH 2004/CD shared/VBD task/NN compared/VBN with/IN several/JJ strong/JJ baselines/NNS ./.

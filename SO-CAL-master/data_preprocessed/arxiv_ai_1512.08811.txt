@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP propose/VBP an/DT extension/NN to/IN the/DT Fuzzy/JJ Cognitive/JJ Maps/NNS (/-LRB- FCMs/NNS )/-RRB- that/WDT aims/VBZ at/IN aggregating/VBG a/DT number/NN of/IN reasoning/NN tasks/NNS into/IN a/DT one/CD parallel/JJ run/NN ./.
+The/DT described/VBN approach/NN consists/VBZ in/IN replacing/VBG real/JJ -/HYPH valued/VBN activation/NN levels/NNS of/IN concepts/NNS (/-LRB- and/CC further/JJ influence/NN weights/NNS )/-RRB- by/IN random/JJ variables/NNS ./.
+Such/JJ extension/NN ,/, followed/VBN by/IN the/DT implemented/VBN software/NN tool/NN ,/, allows/VBZ for/IN determining/VBG ranges/NNS reached/VBN by/IN concept/NN activation/NN levels/NNS ,/, sensitivity/NN analysis/NN as/RB well/RB as/IN statistical/JJ analysis/NN of/IN multiple/JJ reasoning/NN results/NNS ./.
+We/PRP replace/VBP multiplication/NN and/CC addition/NN operators/NNS appearing/VBG in/IN the/DT FCM/NN state/NN equation/NN by/IN appropriate/JJ convolutions/NNS applicable/JJ for/IN discrete/JJ random/JJ variables/NNS ./.
+To/TO make/VB the/DT model/NN computationally/RB feasible/JJ ,/, it/PRP is/VBZ further/JJ augmented/VBN with/IN aggregation/NN operations/NNS for/IN discrete/JJ random/JJ variables/NNS ./.
+We/PRP discuss/VBP four/CD implemented/VBN aggregators/NNS ,/, as/RB well/RB as/IN we/PRP report/VBP results/NNS of/IN preliminary/JJ tests/NNS ./.

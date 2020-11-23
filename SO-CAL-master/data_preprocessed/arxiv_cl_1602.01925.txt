@@ -1,0 +1,5 @@
+We/PRP introduce/VBP new/JJ methods/NNS for/IN estimating/VBG and/CC evaluating/VBG embeddings/NNS of/IN words/NNS from/IN dozens/NNS of/IN languages/NNS in/IN a/DT single/JJ shared/VBN embedding/NN space/NN ./.
+Our/PRP$ estimation/NN methods/NNS ,/, multiCluster/NN and/CC multiCCA/NN ,/, use/VB dictionaries/NNS and/CC monolingual/JJ data/NNS ;/: they/PRP do/VBP not/RB require/VB parallel/JJ data/NNS ./.
+Our/PRP$ new/JJ evaluation/NN method/NN ,/, multiQVEC/NN ,/, is/VBZ shown/VBN to/TO correlate/VB better/JJR than/IN previous/JJ ones/NNS with/IN two/CD downstream/JJ tasks/NNS (/-LRB- text/NN categorization/NN and/CC parsing/VBG )/-RRB- ./.
+On/IN this/DT evaluation/NN and/CC others/NNS ,/, our/PRP$ estimation/NN methods/NNS outperform/VBP existing/VBG ones/NNS ./.
+We/PRP also/RB describe/VBP a/DT web/NN portal/NN for/IN evaluation/NN that/WDT will/MD facilitate/VB further/JJ research/NN in/IN this/DT area/NN ,/, along/IN with/IN open/JJ -/HYPH source/NN releases/NNS of/IN all/PDT our/PRP$ methods/NNS ./.

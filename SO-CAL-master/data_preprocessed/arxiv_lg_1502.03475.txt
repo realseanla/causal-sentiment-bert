@@ -1,0 +1,6 @@
+This/DT paper/NN investigates/VBZ stochastic/JJ and/CC adversarial/JJ combinatorial/JJ multi-armed/JJ bandit/NN problems/NNS ./.
+In/IN the/DT stochastic/JJ setting/NN ,/, we/PRP first/RB derive/VBP problem/NN -/HYPH specific/JJ regret/NN lower/JJR bounds/NNS ,/, and/CC analyze/VB how/WRB these/DT bounds/NNS scale/VBP with/IN the/DT dimension/NN of/IN the/DT decision/NN space/NN ./.
+We/PRP then/RB propose/VBP COMBUCB/NNP ,/, algorithms/NNS that/WDT efficiently/RB exploit/VBP the/DT combinatorial/JJ structure/NN of/IN the/DT problem/NN ,/, and/CC derive/VBP finite/NN -/HYPH time/NN upper/JJ bound/VBN on/IN their/PRP$ regrets/NNS ./.
+These/DT bounds/NNS improve/VBP over/IN regret/NN upper/JJ bounds/NNS of/IN existing/VBG algorithms/NNS ,/, and/CC we/PRP show/VBP numerically/RB thatCOMBUCB/NNP significantly/RB outperforms/VBZ any/DT other/JJ algorithm/NN ./.
+In/IN the/DT adversarial/JJ setting/NN ,/, we/PRP propose/VBP two/CD simple/JJ algorithms/NNS ,/, namely/RB COMBEXP/NN -/HYPH 1/CD and/CC COMBEXP/NN -/HYPH 2/CD for/IN semi-bandit/NN and/CC bandit/NN feedback/NN ,/, respectively/RB ./.
+Their/PRP$ regrets/NNS have/VBP similar/JJ scaling/NN as/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithms/NNS ,/, in/IN spite/NN of/IN the/DT simplicity/NN of/IN their/PRP$ implementation/NN ./.

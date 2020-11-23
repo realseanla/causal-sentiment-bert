@@ -1,0 +1,4 @@
+This/DT paper/NN introduces/VBZ a/DT novel/JJ model/NN for/IN semantic/JJ role/NN labeling/NN that/WDT makes/VBZ use/NN of/IN neural/JJ sequence/NN modeling/NN techniques/NNS ./.
+Our/PRP$ approach/NN is/VBZ motivated/VBN by/IN the/DT observation/NN that/IN complex/JJ syntactic/JJ structures/NNS and/CC related/VBN phenomena/NNS ,/, such/JJ as/IN nested/VBN subordinations/NNS and/CC nominal/JJ predicates/NNS ,/, are/VBP not/RB handled/VBN well/RB by/IN existing/VBG models/NNS ./.
+Our/PRP$ model/NN treats/NNS such/JJ instances/NNS as/IN sub-sequences/NNS of/IN lexicalized/VBN dependency/NN paths/NNS and/CC learns/VBZ suitable/JJ embedding/NN representations/NNS ./.
+We/PRP experimentally/RB demonstrate/VBP that/IN such/JJ embeddings/NNS can/MD improve/VB results/NNS over/IN previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN semantic/JJ role/NN labelers/NNS ,/, and/CC showcase/NN qualitative/JJ improvements/NNS obtained/VBN by/IN our/PRP$ method/NN ./.

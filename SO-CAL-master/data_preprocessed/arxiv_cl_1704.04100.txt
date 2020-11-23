@@ -1,0 +1,6 @@
+Discourse/NN segmentation/NN is/VBZ a/DT crucial/JJ step/NN in/IN building/NN end/NN -/HYPH to/IN -/HYPH end/NN discourse/NN parsers/NNS ./.
+However/RB ,/, discourse/NN segmenters/NNS only/RB exist/VBP for/IN a/DT few/JJ languages/NNS and/CC domains/NNS ./.
+Typically/RB they/PRP only/RB detect/VBP intra-sentential/JJ segment/NN boundaries/NNS ,/, assuming/VBG gold/NN standard/JJ sentence/NN and/CC token/JJ segmentation/NN ,/, and/CC relying/VBG on/IN high/JJ -/HYPH quality/NN syntactic/JJ parses/VBZ and/CC rich/JJ heuristics/NNS that/WDT are/VBP not/RB generally/RB available/JJ across/IN languages/NNS and/CC domains/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP statistical/JJ discourse/NN segmenters/NNS for/IN five/CD languages/NNS and/CC three/CD domains/NNS that/WDT do/VBP not/RB rely/VB on/IN gold/NN pre-annotations/NNS ./.
+We/PRP also/RB consider/VBP the/DT problem/NN of/IN learning/VBG discourse/NN segmenters/NNS when/WRB no/DT labeled/VBN data/NNS is/VBZ available/JJ for/IN a/DT language/NN ./.
+Our/PRP$ fully/RB supervised/JJ system/NN obtains/VBZ 89.5/CD percent/NN F1/NN for/IN English/NNP newswire/NN ,/, with/IN slight/JJ drops/NNS in/IN performance/NN on/IN other/JJ domains/NNS ,/, and/CC we/PRP report/VBP supervised/JJ and/CC unsupervised/JJ (/-LRB- cross-lingual/JJ )/-RRB- results/VBZ for/IN five/CD languages/NNS in/IN total/NN ./.

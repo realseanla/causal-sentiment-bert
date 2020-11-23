@@ -1,0 +1,6 @@
+Lexical/JJ features/NNS are/VBP a/DT major/JJ source/NN of/IN information/NN in/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN coreference/NN resolvers/NNS ./.
+Lexical/JJ features/NNS implicitly/RB model/VBP some/DT of/IN the/DT linguistic/JJ phenomena/NN at/IN a/DT fine/JJ granularity/NN level/NN ./.
+They/PRP are/VBP especially/RB useful/JJ for/IN representing/VBG the/DT context/NN of/IN mentions/VBZ ./.
+In/IN this/DT paper/NN we/PRP investigate/VBP a/DT drawback/NN of/IN using/VBG many/JJ lexical/JJ features/NNS in/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN coreference/NN resolvers/NNS ./.
+We/PRP show/VBP that/IN if/IN coreference/NN resolvers/NNS mainly/RB rely/VBP on/IN lexical/JJ features/NNS ,/, they/PRP can/MD hardly/RB generalize/VB to/IN unseen/JJ domains/NNS ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN the/DT current/JJ coreference/NN resolution/NN evaluation/NN is/VBZ clearly/RB flawed/VBN by/IN only/RB evaluating/VBG on/IN a/DT specific/JJ split/NN of/IN a/DT specific/JJ dataset/NN in/IN which/WDT there/EX is/VBZ a/DT notable/JJ overlap/NN between/IN the/DT training/NN ,/, development/NN and/CC test/NN sets/NNS ./.

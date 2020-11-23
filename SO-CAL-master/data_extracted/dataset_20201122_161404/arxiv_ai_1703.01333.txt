@@ -1,0 +1,9 @@
+Community based question answering (CQA) services receive a large volume of questions today.
+It is increasingly challenging to motivate domain experts to give timely answers.
+Recently, payment-based CQA services explore new incentive models to engage real-world experts and celebrities by allowing them to set a price on their answers.
+In this paper, we perform a data-driven analysis on Fenda, a payment-based CQA service that has gained initial success with this incentive model.
+Using a large dataset of 220K paid questions (worth 1 million USD) over two months, we examine how monetary incentives affect different players in the system and their over-time engagement.
+Our study reveals several key findings: while monetary incentive enables quick answers from experts, it also drives certain users to aggressively game the systems for profits.
+In addition, this incentive model turns CQA service into a supplier-driven marketplace where users need to proactively adjust their price as needed.
+We find famous people are unwilling to lower their price, which in turn hurts their income and engagement-level over time.
+Based on our results, we discuss the implications to future payment-based CQA design.

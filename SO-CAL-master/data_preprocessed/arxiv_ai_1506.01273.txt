@@ -1,0 +1,5 @@
+We/PRP assess/VBP the/DT performance/NN of/IN generic/JJ text/NN summarization/NN algorithms/NNS applied/VBD to/IN films/NNS and/CC documentaries/NNS ,/, using/VBG the/DT well/NN -/HYPH known/VBN behavior/NN of/IN summarization/NN of/IN news/NN articles/NNS as/IN reference/NN ./.
+We/PRP use/VBP three/CD datasets/NNS :/: (/-LRB- i/LS )/-RRB- news/NN articles/NNS ,/, (/-LRB- ii/LS )/-RRB- film/NN scripts/NNS and/CC subtitles/NNS ,/, and/CC (/-LRB- iii/LS )/-RRB- documentary/NN subtitles/NNS ./.
+Standard/JJ ROUGE/NN metrics/NNS are/VBP used/VBN for/IN comparing/VBG generated/VBN summaries/NNS against/IN news/NN abstracts/NNS ,/, plot/NN summaries/NNS ,/, and/CC synopses/NNS ./.
+We/PRP show/VBP that/IN the/DT best/JJS performing/VBG algorithms/NNS are/VBP LSA/NNP ,/, for/IN news/NN articles/NNS and/CC documentaries/NNS ,/, and/CC LexRank/NNP and/CC Support/NNP Sets/NNPS ,/, for/IN films/NNS ./.
+Despite/IN the/DT different/JJ nature/NN of/IN films/NNS and/CC documentaries/NNS ,/, their/PRP$ relative/JJ behavior/NN is/VBZ in/IN accordance/NN with/IN that/DT obtained/VBN for/IN news/NN articles/NNS ./.

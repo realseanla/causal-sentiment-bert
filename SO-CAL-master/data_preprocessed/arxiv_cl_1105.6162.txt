@@ -1,0 +1,6 @@
+In/IN natural/JJ speech/NN ,/, the/DT speaker/NN does/VBZ not/RB pause/VB between/IN words/NNS ,/, yet/CC a/DT human/JJ listener/NN somehow/RB perceives/VBZ this/DT continuous/JJ stream/NN of/IN phonemes/NNS as/IN a/DT series/NN of/IN distinct/JJ words/NNS ./.
+The/DT detection/NN of/IN boundaries/NNS between/IN spoken/JJ words/NNS is/VBZ an/DT instance/NN of/IN a/DT general/JJ capability/NN of/IN the/DT human/JJ neocortex/NN to/TO remember/VB and/CC to/TO recognize/VB recurring/VBG sequences/NNS ./.
+This/DT paper/NN describes/VBZ a/DT computer/NN algorithm/NN that/WDT is/VBZ designed/VBN to/TO solve/VB the/DT problem/NN of/IN locating/VBG word/NN boundaries/NNS in/IN blocks/NNS of/IN English/NNP text/NN from/IN which/WDT the/DT spaces/NNS have/VBP been/VBN removed/VBN ./.
+This/DT problem/NN avoids/VBZ the/DT complexities/NNS of/IN processing/NN speech/NN but/CC requires/VBZ similar/JJ capabilities/NNS for/IN detecting/VBG recurring/VBG sequences/NNS ./.
+The/DT algorithm/NN that/WDT is/VBZ described/VBN in/IN this/DT paper/NN relies/VBZ entirely/RB on/IN statistical/JJ relationships/NNS between/IN letters/NNS in/IN the/DT input/NN stream/NN to/IN infer/VB the/DT locations/NNS of/IN word/NN boundaries/NNS ./.
+The/DT source/NN code/NN for/IN a/DT C/NN version/NN of/IN this/DT algorithm/NN is/VBZ presented/VBN in/IN an/DT appendix/NN ./.

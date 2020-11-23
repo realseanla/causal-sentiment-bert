@@ -1,0 +1,8 @@
+To/TO deal/VB with/IN the/DT prohibitive/JJ complexity/NN of/IN calculating/VBG policies/NNS in/IN Decentralized/JJ MDPs/NNS ,/, researchers/NNS have/VBP proposed/VBN models/NNS that/WDT exploit/VBP structured/JJ agent/NN interactions/NNS ./.
+Settings/NNS where/WRB most/JJS agent/NN actions/NNS are/VBP independent/JJ except/IN for/IN few/JJ actions/NNS that/WDT affect/VBP the/DT transitions/NNS and/CC //HYPH or/CC rewards/NNS of/IN other/JJ agents/NNS can/MD be/VB modeled/VBN using/VBG Event/NN -/HYPH Driven/VBN Interactions/NNS with/IN Complex/NN Rewards/NNS (/-LRB- EDI/NN -/HYPH CR/NN )/-RRB- ./.
+Finding/VBG the/DT optimal/JJ joint/JJ policy/NN can/MD be/VB formulated/VBN as/IN an/DT optimization/NN problem/NN ./.
+However/RB ,/, existing/VBG formulations/NNS are/VBP too/RB verbose/JJ and/CC //HYPH or/CC lack/NN optimality/NN guarantees/NNS ./.
+We/PRP propose/VBP a/DT compact/JJ Mixed/JJ Integer/NN Linear/NNP Program/NNP formulation/NN of/IN EDI/NN -/HYPH CR/NN instances/NNS ./.
+The/DT key/JJ insight/NN is/VBZ that/IN most/JJS action/NN sequences/NNS of/IN a/DT group/NN of/IN agents/NNS have/VBP the/DT same/JJ effect/NN on/IN a/DT given/VBN agent/NN ./.
+This/DT allows/VBZ us/PRP to/TO treat/VB these/DT sequences/NNS similarly/RB and/CC use/VB fewer/JJR variables/NNS ./.
+Experiments/NNS show/VBP that/IN our/PRP$ formulation/NN is/VBZ more/RBR compact/JJ and/CC leads/VBZ to/IN faster/RBR solution/NN times/NNS and/CC better/JJR solutions/NNS than/IN existing/VBG formulations/NNS ./.

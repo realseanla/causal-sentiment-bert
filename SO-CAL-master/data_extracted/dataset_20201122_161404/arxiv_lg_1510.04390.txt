@@ -1,0 +1,6 @@
+We consider the problem of outlier rejection in single subspace learning.
+Classical approaches work directly with a low-dimensional representation of the subspace.
+Our approach works with a dual representation of the subspace and hence aims to find its orthogonal complement.
+We pose this problem as an $\ell_1$-minimization problem on the sphere and show that, under certain conditions on the distribution of the data, any global minimizer of this non-convex problem gives a vector orthogonal to the subspace.
+Moreover, we show that such a vector can still be found by relaxing the non-convex problem with a sequence of linear programs.
+Experiments on synthetic and real data show that the proposed approach, which we call Dual Principal Component Pursuit (DPCP), outperforms state-of-the art methods, especially in the case of high-dimensional subspaces.

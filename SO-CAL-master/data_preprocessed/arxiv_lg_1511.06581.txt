@@ -1,0 +1,7 @@
+In/IN recent/JJ years/NNS there/RB have/VBP been/VBN many/JJ successes/NNS of/IN using/VBG deep/JJ representations/NNS in/IN reinforcement/NN learning/NN ./.
+Still/RB ,/, many/JJ of/IN these/DT applications/NNS use/VBP conventional/JJ architectures/NNS ,/, such/JJ as/IN convolutional/JJ networks/NNS ,/, LSTMs/NNPS ,/, or/CC auto/NN -/HYPH encoders/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ neural/JJ network/NN architecture/NN for/IN model/NN -/HYPH free/JJ reinforcement/NN learning/VBG inspired/VBN by/IN advantage/NN learning/NN ./.
+Our/PRP$ dueling/VBG architecture/NN represents/VBZ two/CD separate/JJ estimators/NNS :/: one/CD for/IN the/DT state/NN value/NN function/NN and/CC one/CD for/IN the/DT state/NN -/HYPH dependent/JJ action/NN advantage/NN function/NN ./.
+The/DT main/JJ benefit/NN of/IN this/DT factoring/NN is/VBZ to/TO generalize/VB learning/NN across/IN actions/NNS without/IN imposing/VBG any/DT change/NN to/IN the/DT underlying/VBG reinforcement/NN learning/VBG algorithm/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN this/DT architecture/NN leads/VBZ to/IN better/JJR policy/NN evaluation/NN in/IN the/DT presence/NN of/IN many/JJ similar/JJ -/HYPH valued/VBN actions/NNS ./.
+Moreover/RB ,/, the/DT dueling/VBG architecture/NN enables/VBZ our/PRP$ RL/NNP agent/NN to/TO outperform/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN Double/JJ DQN/NN method/NN of/IN van/NNP Hasselt/NNP et/FW al./FW (/-LRB- 2015/CD )/-RRB- in/IN 46/CD out/IN of/IN 57/CD Atari/NNP games/NNS ./.

@@ -1,0 +1,8 @@
+Networks/NNS play/VBP a/DT central/JJ role/NN in/IN modern/JJ data/NNS analysis/NN ,/, enabling/VBG us/PRP to/TO reason/VB about/RB systems/NNS by/IN studying/VBG the/DT relationships/NNS between/IN their/PRP$ parts/NNS ./.
+Most/RBS often/RB in/IN network/NN analysis/NN ,/, the/DT edges/NNS are/VBP given/VBN ./.
+However/RB ,/, in/IN many/JJ systems/NNS it/PRP is/VBZ difficult/JJ or/CC impossible/JJ to/TO measure/VB the/DT network/NN directly/RB ./.
+Examples/NNS of/IN latent/JJ networks/NNS include/VBP economic/JJ interactions/NNS linking/VBG financial/JJ instruments/NNS and/CC patterns/NNS of/IN reciprocity/NN in/IN gang/NN violence/NN ./.
+In/IN these/DT cases/NNS ,/, we/PRP are/VBP limited/VBN to/IN noisy/JJ observations/NNS of/IN events/NNS associated/VBN with/IN each/DT node/NN ./.
+To/TO enable/VB analysis/NN of/IN these/DT implicit/JJ networks/NNS ,/, we/PRP develop/VBP a/DT probabilistic/JJ model/NN that/WDT combines/VBZ mutually/RB -/HYPH exciting/JJ point/NN processes/NNS with/IN random/JJ graph/NN models/NNS ./.
+We/PRP show/VBP how/WRB the/DT Poisson/NNP superposition/NN principle/NN enables/VBZ an/DT elegant/JJ auxiliary/JJ variable/JJ formulation/NN and/CC a/DT fully/RB -/HYPH Bayesian/JJ ,/, parallel/JJ inference/NN algorithm/NN ./.
+We/PRP evaluate/VBP this/DT new/JJ model/NN empirically/RB on/IN several/JJ datasets/NNS ./.

@@ -1,0 +1,4 @@
+This/DT work/NN aims/VBZ to/TO address/VB the/DT problem/NN of/IN image/NN -/HYPH based/VBN question/NN -/HYPH answering/VBG (/-LRB- QA/NNP )/-RRB- with/IN new/JJ models/NNS and/CC datasets/NNS ./.
+In/IN our/PRP$ work/NN ,/, we/PRP propose/VBP to/TO use/VB recurrent/JJ neural/JJ networks/NNS and/CC visual/JJ semantic/JJ embeddings/NNS without/IN intermediate/JJ stages/NNS such/JJ as/IN object/NN detection/NN and/CC image/NN segmentation/NN ./.
+Our/PRP$ model/NN performs/VBZ 1.8/CD times/NNS better/JJR than/IN the/DT recently/RB published/VBN results/NNS on/IN the/DT same/JJ dataset/NN ./.
+Another/DT main/JJ contribution/NN is/VBZ an/DT automatic/JJ question/NN generation/NN algorithm/NN that/WDT converts/VBZ the/DT currently/RB available/JJ image/NN description/NN dataset/NN into/IN QA/NNP form/NN ,/, resulting/VBG in/IN a/DT 10/CD times/NNS bigger/JJR dataset/NN with/IN more/RBR evenly/RB distributed/VBN answers/NNS ./.

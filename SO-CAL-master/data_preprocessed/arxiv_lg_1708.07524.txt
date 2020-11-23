@@ -1,0 +1,12 @@
+Speech/NNP separation/NN is/VBZ the/DT task/NN of/IN separating/VBG target/NN speech/NN from/IN background/NN interference/NN ./.
+Traditionally/RB ,/, speech/NN separation/NN is/VBZ studied/VBN as/IN a/DT signal/NN processing/NN problem/NN ./.
+A/DT more/RBR recent/JJ approach/NN formulates/VBZ speech/NN separation/NN as/IN a/DT supervised/JJ learning/NN problem/NN ,/, where/WRB the/DT discriminative/JJ patterns/NNS of/IN speech/NN ,/, speakers/NNS ,/, and/CC background/NN noise/NN are/VBP learned/VBN from/IN training/NN data/NNS ./.
+Over/IN the/DT past/JJ decade/NN ,/, many/JJ supervised/VBD separation/NN algorithms/NNS have/VBP been/VBN put/VBN forward/RB ./.
+In/IN particular/JJ ,/, the/DT recent/JJ introduction/NN of/IN deep/JJ learning/NN to/IN supervised/JJ speech/NN separation/NN has/VBZ dramatically/RB accelerated/VBN progress/NN and/CC boosted/VBD separation/NN performance/NN ./.
+This/DT article/NN provides/VBZ a/DT comprehensive/JJ overview/NN of/IN the/DT research/NN on/IN deep/JJ learning/NN based/VBN supervised/JJ speech/NN separation/NN in/IN the/DT last/JJ several/JJ years/NNS ./.
+We/PRP first/RB introduce/VB the/DT background/NN of/IN speech/NN separation/NN and/CC the/DT formulation/NN of/IN supervised/JJ separation/NN ./.
+Then/RB we/PRP discuss/VBP three/CD main/JJ components/NNS of/IN supervised/JJ separation/NN :/: learning/VBG machines/NNS ,/, training/NN targets/NNS ,/, and/CC acoustic/JJ features/NNS ./.
+Much/JJ of/IN the/DT overview/NN is/VBZ on/IN separation/NN algorithms/NNS where/WRB we/PRP review/VBP monaural/JJ methods/NNS ,/, including/VBG speech/NN enhancement/NN (/-LRB- speech/NN -/HYPH nonspeech/JJ separation/NN )/-RRB- ,/, speaker/NN separation/NN (/-LRB- multi-talker/NN separation/NN )/-RRB- ,/, and/CC speech/NN dereverberation/NN ,/, as/RB well/RB as/IN multi-microphone/JJ techniques/NNS ./.
+The/DT important/JJ issue/NN of/IN generalization/NN ,/, unique/JJ to/IN supervised/JJ learning/NN ,/, is/VBZ discussed/VBN ./.
+This/DT overview/NN provides/VBZ a/DT historical/JJ perspective/NN on/IN how/WRB advances/NNS are/VBP made/VBN ./.
+In/IN addition/NN ,/, we/PRP discuss/VBP a/DT number/NN of/IN conceptual/JJ issues/NNS ,/, including/VBG what/WP constitutes/VBZ the/DT target/NN source/NN ./.

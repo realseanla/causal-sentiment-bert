@@ -1,0 +1,3 @@
+Importance/NN sampling/NN has/VBZ been/VBN successfully/RB used/VBN to/TO accelerate/VB stochastic/JJ optimization/NN in/IN many/JJ convex/NN problems/NNS ./.
+However/RB ,/, the/DT lack/NN of/IN an/DT efficient/JJ way/NN to/TO calculate/VB the/DT importance/NN still/RB hinders/VBZ its/PRP$ application/NN to/IN Deep/NNP Learning/NNP ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN the/DT loss/NN value/NN can/MD be/VB used/VBN as/IN an/DT alternative/JJ importance/NN metric/JJ ,/, and/CC propose/VB a/DT way/NN to/TO efficiently/RB approximate/VB it/PRP for/IN a/DT deep/JJ model/NN ,/, using/VBG a/DT small/JJ model/NN trained/VBN for/IN that/DT purpose/NN in/IN parallel/NN ./.

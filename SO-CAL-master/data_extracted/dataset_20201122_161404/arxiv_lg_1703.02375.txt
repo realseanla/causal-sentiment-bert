@@ -1,0 +1,9 @@
+In this paper, we address the problem of recovering arbitrary-shaped data clusters from massive datasets.
+We present DBMSTClu a new density-based non-parametric method working on a limited number of linear measurements i.e.
+a sketched version of the similarity graph $G$ between the $N$ objects to cluster.
+Unlike $k$-means, $k$-medians or $k$-medoids algorithms, it does not fail at distinguishing clusters with particular structures.
+No input parameter is needed contrarily to DBSCAN or the Spectral Clustering method.
+DBMSTClu as a graph-based technique relies on the similarity graph $G$ which costs theoretically $O(N^2)$ in memory.
+However, our algorithm follows the dynamic semi-streaming model by handling $G$ as a stream of edge weight updates and sketches it in one pass over the data into a compact structure requiring $O(\operatorname{poly} \operatorname{log} (N))$ space.
+Thanks to the property of the Minimum Spanning Tree (MST) for expressing the underlying structure of a graph, our algorithm successfully detects the right number of non-convex clusters by recovering an approximate MST from the graph sketch of $G$.
+We provide theoretical guarantees on the quality of the clustering partition and also demonstrate its advantage over the existing state-of-the-art on several datasets.

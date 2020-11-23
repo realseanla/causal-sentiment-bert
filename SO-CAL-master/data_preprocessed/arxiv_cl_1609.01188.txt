@@ -1,0 +1,7 @@
+We/PRP describe/VBP efforts/NNS towards/IN getting/VBG better/JJR resources/NNS for/IN English/NNP -/HYPH Arabic/NNP machine/NN translation/NN of/IN spoken/VBN text/NN ./.
+In/IN particular/JJ ,/, we/PRP look/VBP at/IN movie/NN subtitles/NNS as/IN a/DT unique/JJ ,/, rich/JJ resource/NN ,/, as/IN subtitles/NNS in/IN one/CD language/NN often/RB get/VBP translated/VBN into/IN other/JJ languages/NNS ./.
+Movie/NN subtitles/NNS are/VBP not/RB new/JJ as/IN a/DT resource/NN and/CC have/VBP been/VBN explored/VBN in/IN previous/JJ research/NN ;/: however/RB ,/, here/RB we/PRP create/VBP a/DT much/RB larger/JJR bi-text/NN (/-LRB- the/DT biggest/JJS to/IN date/NN )/-RRB- ,/, and/CC we/PRP further/RB generate/VBP better/JJR quality/NN alignment/NN for/IN it/PRP ./.
+Given/VBN the/DT subtitles/NNS for/IN the/DT same/JJ movie/NN in/IN different/JJ languages/NNS ,/, a/DT key/JJ problem/NN is/VBZ how/WRB to/TO align/VB them/PRP at/IN the/DT fragment/NN level/NN ./.
+Typically/RB ,/, this/DT is/VBZ done/VBN using/VBG length/NN -/HYPH based/VBN alignment/NN ,/, but/CC for/IN movie/NN subtitles/NNS ,/, there/EX is/VBZ also/RB time/NN information/NN ./.
+Here/RB we/PRP exploit/VBP this/DT information/NN to/TO develop/VB an/DT original/JJ algorithm/NN that/WDT outperforms/VBZ the/DT current/JJ best/JJS subtitle/NN alignment/NN tool/NN ,/, subalign/NN ./.
+The/DT evaluation/NN results/NNS show/VBP that/IN adding/VBG our/PRP$ bi-text/NN to/IN the/DT IWSLT/NN training/NN bi-text/NN yields/VBZ an/DT improvement/NN of/IN over/IN two/CD BLEU/NN points/NNS absolute/JJ ./.

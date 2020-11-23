@@ -1,0 +1,13 @@
+Simplifying/VBG expressions/NNS is/VBZ important/JJ to/TO make/VB numerical/JJ integration/NN of/IN large/JJ expressions/NNS from/IN High/NNP Energy/NNP Physics/NNP tractable/JJ ./.
+To/IN this/DT end/NN ,/, Horner/NNP 's/POS method/NN can/MD be/VB used/VBN ./.
+Finding/VBG suitable/JJ Horner/NNP schemes/NNS is/VBZ assumed/VBN to/TO be/VB hard/RB ,/, due/IN to/IN the/DT lack/NN of/IN local/JJ heuristics/NNS ./.
+Recently/RB ,/, MCTS/NNP was/VBD reported/VBN to/TO be/VB able/JJ to/TO find/VB near/IN optimal/JJ schemes/NNS ./.
+However/RB ,/, several/JJ parameters/NNS had/VBD to/TO be/VB fine/JJ -/HYPH tuned/VBN manually/RB ./.
+In/IN this/DT work/NN ,/, we/PRP investigate/VBP the/DT state/NN space/NN properties/NNS of/IN Horner/NNP schemes/NNS and/CC find/VB that/IN the/DT domain/NN is/VBZ relatively/RB flat/JJ and/CC contains/VBZ only/RB a/DT few/JJ local/JJ minima/NN ./.
+As/IN a/DT result/NN ,/, the/DT Horner/NNP space/NN is/VBZ appropriate/JJ to/TO be/VB explored/VBN by/IN Stochastic/NNP Local/JJ Search/NN (/-LRB- SLS/NN )/-RRB- ,/, which/WDT has/VBZ only/RB two/CD parameters/NNS :/: the/DT number/NN of/IN iterations/NNS (/-LRB- computation/NN time/NN )/-RRB- and/CC the/DT neighborhood/NN structure/NN ./.
+We/PRP found/VBD a/DT suitable/JJ neighborhood/NN structure/NN ,/, leaving/VBG only/RB the/DT allowed/VBN computation/NN time/NN as/IN a/DT parameter/NN ./.
+We/PRP performed/VBD a/DT range/NN of/IN experiments/NNS ./.
+The/DT results/NNS obtained/VBN by/IN SLS/NN are/VBP similar/JJ or/CC better/JJR than/IN those/DT obtained/VBN by/IN MCTS/NNP ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN SLS/NNP obtains/VBZ the/DT good/JJ results/NNS at/IN least/RBS 10/CD times/NNS faster/JJR ./.
+Using/VBG SLS/NN ,/, we/PRP can/MD speed/VB up/RP numerical/JJ integration/NN of/IN many/JJ real/JJ -/HYPH world/NN large/JJ expressions/NNS by/IN at/IN least/RBS a/DT factor/NN of/IN 24/CD ./.
+For/IN High/NNP Energy/NNP Physics/NNP this/DT means/VBZ that/IN numerical/JJ integrations/NNS that/WDT took/VBD weeks/NNS can/MD now/RB be/VB done/VBN in/IN hours/NNS ./.

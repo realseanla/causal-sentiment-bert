@@ -1,0 +1,10 @@
+In/IN recent/JJ years/NNS ,/, attention/NN has/VBZ been/VBN focused/VBN on/IN the/DT relationship/NN between/IN black/JJ box/NN optimization/NN and/CC reinforcement/NN learning/NN ./.
+Black/JJ box/NN optimization/NN is/VBZ a/DT framework/NN for/IN the/DT problem/NN of/IN finding/VBG the/DT input/NN that/WDT optimizes/VBZ the/DT output/NN represented/VBN by/IN an/DT unknown/JJ function/NN ./.
+Reinforcement/NN learning/NN ,/, by/IN contrast/NN ,/, is/VBZ a/DT framework/NN for/IN finding/VBG a/DT policy/NN to/TO optimize/VB the/DT expected/VBN cumulative/JJ reward/NN from/IN trial/NN and/CC error/NN ./.
+In/IN this/DT research/NN ,/, we/PRP propose/VBP a/DT reinforcement/NN learn/VB -/HYPH ing/VBG algorithm/NN based/VBN on/IN the/DT mirror/NN descent/NN method/NN ,/, which/WDT is/VBZ general/JJ optimization/NN algorithm/NN ./.
+The/DT proposed/JJ method/NN is/VBZ called/VBN Mirror/NNP Descent/NNP Search/NNP ./.
+The/DT contribution/NN of/IN this/DT research/NN is/VBZ roughly/RB twofold/JJ ./.
+First/RB ,/, an/DT extension/NN method/NN for/IN mirror/NN descent/NN can/MD be/VB applied/VBN to/IN reinforcement/NN learning/NN and/CC such/PDT a/DT method/NN is/VBZ here/RB considered/VBN ./.
+Second/RB ,/, the/DT relationship/NN between/IN existing/VBG reinforcement/NN learning/VBG algorithms/NNS is/VBZ clarified/VBN ./.
+Based/VBN on/IN these/DT ,/, we/PRP propose/VBP Mirror/NNP Descent/NNP Search/NNP and/CC derivative/JJ methods/NNS ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN learning/VBG with/IN the/DT proposed/JJ method/NN progresses/VBZ faster/RBR ./.

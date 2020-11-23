@@ -1,0 +1,8 @@
+Constraint/NN -/HYPH based/VBN causal/JJ discovery/NN from/IN limited/JJ data/NNS is/VBZ a/DT notoriously/RB difficult/JJ challenge/NN due/IN to/IN the/DT many/JJ borderline/NN independence/NN test/NN decisions/NNS ./.
+Several/JJ approaches/NNS to/TO improve/VB the/DT reliability/NN of/IN the/DT predictions/NNS by/IN exploiting/VBG redundancy/NN in/IN the/DT independence/NN information/NN have/VBP been/VBN proposed/VBN recently/RB ./.
+Though/IN promising/VBG ,/, existing/VBG approaches/NNS can/MD still/RB be/VB greatly/RB improved/VBN in/IN terms/NNS of/IN accuracy/NN and/CC scalability/NN ./.
+We/PRP present/VBP a/DT novel/JJ method/NN that/WDT reduces/VBZ the/DT combinatorial/JJ explosion/NN of/IN the/DT search/NN space/NN by/IN using/VBG a/DT more/RBR coarse/JJ -/HYPH grained/JJ representation/NN of/IN causal/JJ information/NN ,/, drastically/RB reducing/VBG computation/NN time/NN ./.
+Additionally/RB ,/, we/PRP propose/VBP a/DT method/NN to/TO score/VB causal/JJ predictions/NNS based/VBN on/IN their/PRP$ confidence/NN ./.
+Crucially/RB ,/, our/PRP$ implementation/NN also/RB allows/VBZ one/CD to/TO easily/RB combine/VB observational/JJ and/CC interventional/JJ data/NNS and/CC to/TO incorporate/VB various/JJ types/NNS of/IN available/JJ background/NN knowledge/NN ./.
+We/PRP prove/VBP soundness/NN and/CC asymptotic/JJ consistency/NN of/IN our/PRP$ method/NN and/CC demonstrate/VBP that/IN it/PRP can/MD outperform/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN synthetic/JJ data/NNS ,/, achieving/VBG a/DT speedup/NN of/IN several/JJ orders/NNS of/IN magnitude/NN ./.
+We/PRP illustrate/VBP its/PRP$ practical/JJ feasibility/NN by/IN applying/VBG it/PRP on/IN a/DT challenging/JJ protein/NN data/NNS set/VBN ./.

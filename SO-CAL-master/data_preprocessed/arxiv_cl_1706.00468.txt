@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP Function/NN Assistant/NNP ,/, a/DT lightweight/JJ Python/NN -/HYPH based/VBN toolkit/NN for/IN querying/NN and/CC exploring/VBG source/NN code/NN repositories/NNS using/VBG natural/JJ language/NN ./.
+The/DT toolkit/NN is/VBZ designed/VBN to/TO help/VB end/VB -/HYPH users/NNS of/IN a/DT target/NN API/NN quickly/RB find/VBP information/NN about/IN functions/NNS through/IN high/JJ -/HYPH level/NN natural/JJ language/NN queries/NNS and/CC descriptions/NNS ./.
+For/IN a/DT given/VBN text/NN query/NN and/CC background/NN API/NN ,/, the/DT tool/NN finds/VBZ candidate/NN functions/NNS by/IN performing/VBG a/DT translation/NN from/IN the/DT text/NN to/IN known/VBN representations/NNS in/IN the/DT API/NN using/VBG the/DT semantic/JJ parsing/VBG approach/NN of/IN Richardson/NNP and/CC Kuhn/NNP (/-LRB- 2017/CD )/-RRB- ./.
+Translations/NNS are/VBP automatically/RB learned/VBN from/IN example/NN text/NN -/HYPH code/NN pairs/NNS in/IN example/NN APIs/NNS ./.
+The/DT toolkit/NN includes/VBZ features/NNS for/IN building/VBG translation/NN pipelines/NNS and/CC query/NN engines/NNS for/IN arbitrary/JJ source/NN code/NN projects/NNS ./.
+To/TO explore/VB this/DT last/JJ feature/NN ,/, we/PRP perform/VBP new/JJ experiments/NNS on/IN 27/CD well/RB -/HYPH known/VBN Python/NN projects/NNS hosted/VBN on/IN Github/NNP ./.

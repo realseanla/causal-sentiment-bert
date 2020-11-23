@@ -1,0 +1,4 @@
+Redaction has been the most common approach to protecting text data, but synthetic data presents a potentially more reliable alternative for disclosure control.
+By producing new sample values which closely follow the original sample distribution but do not contain real values, privacy protection can be improved while utility from the data for specific purposes is maintained.
+We extend the synthetic data approach to natural language by developing a neural generative model for such data.
+We find that the synthetic models outperform simple redaction on both comparative risk and utility.

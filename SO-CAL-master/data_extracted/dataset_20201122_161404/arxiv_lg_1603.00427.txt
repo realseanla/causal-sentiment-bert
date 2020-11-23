@@ -1,0 +1,5 @@
+Nonlinear adaptive filtering allows for modeling of some additional aspects of a general system and usually relies on highly complex algorithms, such as those based on the Volterra series.
+Through the use of the Kronecker product and some basic facts of tensor algebra, we propose a simple model of nonlinearity, one that can be interpreted as a product of the outputs of K FIR linear filters, and compute its cost function together with its gradient, which allows for some analysis of the optimization problem.
+We use these results it in a stochastic gradient framework, from which we derive an LMS-like algorithm and investigate the problems of multi-modality in the mean-square error surface and the choice of adequate initial conditions.
+Its computational complexity is calculated.
+The new algorithm is tested in a system identification setup and is compared with other polynomial algorithms from the literature, presenting favorable convergence and/or computational complexity.

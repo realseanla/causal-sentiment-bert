@@ -1,0 +1,6 @@
+Probabilistic/JJ programming/NN languages/NNS and/CC modeling/VBG toolkits/NNS are/VBP two/CD modular/JJ ways/NNS to/TO build/VB and/CC reuse/VB stochastic/JJ models/NNS and/CC inference/NN procedures/NNS ./.
+Combining/VBG strengths/NNS of/IN both/CC ,/, we/PRP express/VBP models/NNS and/CC inference/NN as/IN generalized/VBN coroutines/NNS in/IN the/DT same/JJ general/JJ -/HYPH purpose/NN language/NN ./.
+We/PRP use/VBP existing/VBG facilities/NNS of/IN the/DT language/NN ,/, such/JJ as/IN rich/JJ libraries/NNS ,/, optimizing/VBG compilers/NNS ,/, and/CC types/NNS ,/, to/TO develop/VB concise/JJ ,/, declarative/JJ ,/, and/CC realistic/JJ models/NNS with/IN competitive/JJ performance/NN on/IN exact/JJ and/CC approximate/JJ inference/NN ./.
+In/IN particular/JJ ,/, a/DT wide/JJ range/NN of/IN models/NNS can/MD be/VB expressed/VBN using/VBG memoization/NN ./.
+Because/IN deterministic/JJ parts/NNS of/IN models/NNS run/VBP at/IN full/JJ speed/NN ,/, custom/NN inference/NN procedures/NNS are/VBP trivial/JJ to/TO incorporate/VB ,/, and/CC inference/NN procedures/NNS can/MD reason/VB about/RB themselves/PRP without/IN interpretive/JJ overhead/NN ./.
+Within/IN this/DT framework/NN ,/, we/PRP introduce/VBP a/DT new/JJ ,/, general/JJ algorithm/NN for/IN importance/NN sampling/NN with/IN look/NN -/HYPH ahead/NN ./.

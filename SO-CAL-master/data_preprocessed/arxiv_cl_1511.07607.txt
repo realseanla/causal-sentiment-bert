@@ -1,0 +1,11 @@
+The/DT recognition/NN of/IN human/JJ activities/NNS is/VBZ one/CD of/IN the/DT key/JJ problems/NNS in/IN video/NN understanding/NN ./.
+Action/NN recognition/NN is/VBZ challenging/VBG even/RB for/IN specific/JJ categories/NNS of/IN videos/NNS ,/, such/JJ as/IN sports/NNS ,/, that/IN contain/VBP only/RB a/DT small/JJ set/NN of/IN actions/NNS ./.
+Interestingly/RB ,/, sports/NNS videos/NNS are/VBP accompanied/VBN by/IN detailed/JJ commentaries/NNS available/JJ online/RB ,/, which/WDT could/MD be/VB used/VBN to/TO perform/VB action/NN annotation/NN in/IN a/DT weakly/RB -/HYPH supervised/JJ setting/NN ./.
+For/IN the/DT specific/JJ case/NN of/IN Cricket/NN videos/NNS ,/, we/PRP address/VBP the/DT challenge/NN of/IN temporal/JJ segmentation/NN and/CC annotation/NN of/IN ctions/NNS with/IN semantic/JJ descriptions/NNS ./.
+Our/PRP$ solution/NN consists/VBZ of/IN two/CD stages/NNS ./.
+In/IN the/DT first/JJ stage/NN ,/, the/DT video/NN is/VBZ segmented/JJ into/IN "/`` scenes/NNS "/'' ,/, by/IN utilizing/VBG the/DT scene/NN category/NN information/NN extracted/VBN from/IN text/NN -/HYPH commentary/NN ./.
+The/DT second/JJ stage/NN consists/VBZ of/IN classifying/VBG video/NN -/HYPH shots/NNS as/RB well/RB as/IN the/DT phrases/NNS in/IN the/DT textual/JJ description/NN into/IN various/JJ categories/NNS ./.
+The/DT relevant/JJ phrases/NNS are/VBP then/RB suitably/RB mapped/VBN to/IN the/DT video/NN -/HYPH shots/NNS ./.
+The/DT novel/JJ aspect/NN of/IN this/DT work/NN is/VBZ the/DT fine/JJ temporal/JJ scale/NN at/IN which/WDT semantic/JJ information/NN is/VBZ assigned/VBN to/IN the/DT video/NN ./.
+As/IN a/DT result/NN of/IN our/PRP$ approach/NN ,/, we/PRP enable/VBP retrieval/NN of/IN specific/JJ actions/NNS that/WDT last/VBP only/RB a/DT few/JJ seconds/NNS ,/, from/IN several/JJ hours/NNS of/IN video/NN ./.
+This/DT solution/NN yields/VBZ a/DT large/JJ number/NN of/IN labeled/VBN exemplars/NNS ,/, with/IN no/DT manual/JJ effort/NN ,/, that/DT could/MD be/VB used/VBN by/IN machine/NN learning/NN algorithms/NNS to/TO learn/VB complex/JJ actions/NNS ./.

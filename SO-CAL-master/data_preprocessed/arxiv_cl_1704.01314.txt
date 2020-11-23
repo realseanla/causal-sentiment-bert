@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT character/NN -/HYPH based/VBN model/NN for/IN joint/JJ segmentation/NN and/CC POS/NN tagging/VBG for/IN Chinese/JJ ./.
+The/DT bidirectional/JJ RNN/NNP -/HYPH CRF/NNP architecture/NN for/IN general/JJ sequence/NN tagging/NN is/VBZ adapted/VBN and/CC applied/VBN with/IN novel/NN vector/NN representations/NNS of/IN Chinese/JJ characters/NNS that/WDT capture/VBP rich/JJ contextual/JJ information/NN and/CC lower/JJR -/HYPH than/IN -/HYPH character/NN level/NN features/NNS ./.
+The/DT proposed/VBN model/NN is/VBZ extensively/RB evaluated/VBN and/CC compared/VBN with/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN tagger/NN respectively/RB on/IN CTB5/NN ,/, CTB9/NN and/CC UD/NNP Chinese/NNP ./.
+The/DT experimental/JJ results/NNS indicate/VBP that/IN our/PRP$ model/NN is/VBZ accurate/JJ and/CC robust/JJ across/IN datasets/NNS in/IN different/JJ sizes/NNS ,/, genres/NNS and/CC annotation/NN schemes/NNS ./.
+We/PRP obtain/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN CTB5/NN ,/, achieving/VBG 94.38/CD F1/NN -/HYPH score/NN for/IN joint/JJ segmentation/NN and/CC POS/NN tagging/NN ./.

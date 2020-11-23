@@ -1,0 +1,6 @@
+Error/NN backpropagation/NN is/VBZ an/DT extremely/RB effective/JJ algorithm/NN for/IN assigning/VBG credit/NN in/IN artificial/JJ neural/JJ networks/NNS ./.
+However/RB ,/, weight/NN updates/NNS under/IN Backprop/NNP depend/VBP on/IN lengthy/JJ recursive/JJ computations/NNS and/CC require/VBP separate/JJ output/NN and/CC error/NN messages/NNS --/: features/VBZ not/RB shared/VBN by/IN biological/JJ neurons/NNS ,/, that/WDT are/VBP perhaps/RB unnecessary/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP revisit/VBP Backprop/NNP and/CC the/DT credit/NN assignment/NN problem/NN ./.
+We/PRP first/RB decompose/VB Backprop/NNP into/IN a/DT collection/NN of/IN interacting/VBG learning/VBG algorithms/NNS ;/: provide/VB regret/NN bounds/NNS on/IN the/DT performance/NN of/IN these/DT sub-algorithms/NNS ;/: and/CC factorize/VBP Backprop/NNP 's/POS error/NN signals/NNS ./.
+Using/VBG these/DT results/NNS ,/, we/PRP derive/VBP a/DT new/JJ credit/NN assignment/NN algorithm/NN for/IN nonparametric/JJ regression/NN ,/, Kickback/NNP ,/, that/DT is/VBZ significantly/RB simpler/JJR than/IN Backprop/NNP ./.
+Finally/RB ,/, we/PRP provide/VBP a/DT sufficient/JJ condition/NN for/IN Kickback/NNP to/TO follow/VB error/NN gradients/NNS ,/, and/CC show/VBP that/IN Kickback/NNP matches/VBZ Backprop/NNP 's/POS performance/NN on/IN real/JJ -/HYPH world/NN regression/NN benchmarks/NNS ./.

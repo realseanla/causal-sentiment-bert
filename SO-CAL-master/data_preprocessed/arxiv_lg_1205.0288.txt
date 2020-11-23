@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN learning/VBG a/DT predictor/NN by/IN combining/VBG possibly/RB infinitely/RB many/JJ linear/JJ predictors/NNS whose/WP$ weights/NNS are/VBP to/TO be/VB learned/VBN ,/, too/RB ,/, an/DT instance/NN of/IN multiple/JJ kernel/NN learning/NN ./.
+To/TO control/VB overfitting/VBG a/DT group/NN p/NN -/HYPH norm/NN penalty/NN is/VBZ used/VBN to/TO penalize/VB the/DT empirical/JJ loss/NN ./.
+We/PRP consider/VBP a/DT reformulation/NN of/IN the/DT problem/NN that/WDT lets/VBZ us/PRP implement/VB a/DT randomized/JJ version/NN of/IN the/DT proximal/JJ point/NN algorithm/NN ./.
+The/DT key/JJ idea/NN of/IN the/DT new/JJ algorithm/NN is/VBZ to/TO use/VB randomized/JJ computation/NN to/TO alleviate/VB the/DT problem/NN of/IN dealing/VBG with/IN possibly/RB uncountably/RB many/JJ predictors/NNS ./.
+Finite/NNP -/HYPH time/NN performance/NN bounds/NNS are/VBP derived/VBN that/DT show/NN that/WDT under/IN mild/JJ conditions/NNS the/DT method/NN finds/VBZ the/DT optimum/JJ of/IN the/DT penalized/VBN criterion/NN in/IN an/DT efficient/JJ manner/NN ./.
+Experimental/JJ results/NNS confirm/VBP the/DT effectiveness/NN of/IN the/DT new/JJ algorithm/NN ./.

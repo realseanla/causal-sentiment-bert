@@ -1,0 +1,8 @@
+In/IN this/DT era/NN of/IN digitization/NN ,/, knowing/VBG the/DT user/NN 's/POS sociolect/NN aspects/NNS have/VBP become/VBN essential/JJ features/NNS to/TO build/VB the/DT user/NN specific/JJ recommendation/NN systems/NNS ./.
+These/DT sociolect/NN aspects/NNS could/MD be/VB found/VBN by/IN mining/VBG the/DT user/NN 's/POS language/NN sharing/NN in/IN the/DT form/NN of/IN text/NN in/IN social/JJ media/NNS and/CC reviews/NNS ./.
+This/DT paper/NN describes/VBZ about/IN the/DT experiment/NN that/WDT was/VBD performed/VBN in/IN PAN/NN Author/NN Profiling/NN 2017/CD shared/VBD task/NN ./.
+The/DT objective/NN of/IN the/DT task/NN is/VBZ to/TO find/VB the/DT sociolect/NN aspects/NNS of/IN the/DT users/NNS from/IN their/PRP$ tweets/NNS ./.
+The/DT sociolect/NN aspects/NNS considered/VBN in/IN this/DT experiment/NN are/VBP user/NN 's/POS gender/NN and/CC native/JJ language/NN information/NN ./.
+Here/RB user/NN 's/POS tweets/NNS written/VBN in/IN a/DT different/JJ language/NN from/IN their/PRP$ native/JJ language/NN are/VBP represented/VBN as/IN Document/NN -/HYPH Term/NN Matrix/NN with/IN document/NN frequency/NN as/IN the/DT constraint/NN ./.
+Further/JJ classification/NN is/VBZ done/VBN using/VBG the/DT Support/NN Vector/NNP Machine/NNP by/IN taking/VBG gender/NN and/CC native/JJ language/NN as/IN target/NN classes/NNS ./.
+This/DT experiment/NN attains/VBZ the/DT average/JJ accuracy/NN of/IN 73.42/CD percent/NN in/IN gender/NN prediction/NN and/CC 76.26/CD percent/NN in/IN the/DT native/JJ language/NN identification/NN task/NN ./.

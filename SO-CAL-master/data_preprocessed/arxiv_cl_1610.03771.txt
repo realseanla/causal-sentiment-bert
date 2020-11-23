@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP the/DT task/NN of/IN targeted/VBN aspect/NN -/HYPH based/VBN sentiment/NN analysis/NN ./.
+The/DT goal/NN is/VBZ to/TO extract/VB fine/JJ -/HYPH grained/JJ information/NN with/IN respect/NN to/IN entities/NNS mentioned/VBN in/IN user/NN comments/NNS ./.
+This/DT work/NN extends/VBZ both/DT aspect/NN -/HYPH based/VBN sentiment/NN analysis/NN that/WDT assumes/VBZ a/DT single/JJ entity/NN per/IN document/NN and/CC targeted/VBN sentiment/NN analysis/NN that/WDT assumes/VBZ a/DT single/JJ sentiment/NN towards/IN a/DT target/NN entity/NN ./.
+In/IN particular/JJ ,/, we/PRP identify/VBP the/DT sentiment/NN towards/IN each/DT aspect/NN of/IN one/CD or/CC more/JJR entities/NNS ./.
+As/IN a/DT testbed/NN for/IN this/DT task/NN ,/, we/PRP introduce/VBP the/DT SentiHood/NNP dataset/NN ,/, extracted/VBN from/IN a/DT question/NN answering/VBG (/-LRB- QA/NN )/-RRB- platform/NN where/WRB urban/JJ neighbourhoods/NNS are/VBP discussed/VBN by/IN users/NNS ./.
+In/IN this/DT context/NN units/NNS of/IN text/NN often/RB mention/VBP several/JJ aspects/NNS of/IN one/CD or/CC more/JJR neighbourhoods/NNS ./.
+This/DT is/VBZ the/DT first/JJ time/NN that/WDT a/DT generic/JJ social/JJ media/NNS platform/NN in/IN this/DT case/NN a/DT QA/NNP platform/NN ,/, is/VBZ used/VBN for/IN fine/JJ -/HYPH grained/JJ opinion/NN mining/NN ./.
+Text/VB coming/VBG from/IN QA/NNP platforms/NNS is/VBZ far/RB less/RBR constrained/JJ compared/VBN to/IN text/NN from/IN review/NN specific/JJ platforms/NNS which/WDT current/JJ datasets/NNS are/VBP based/VBN on/IN ./.
+We/PRP develop/VBP several/JJ strong/JJ baselines/NNS ,/, relying/VBG on/IN logistic/JJ regression/NN and/CC state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN recurrent/JJ neural/JJ networks/NNS ./.

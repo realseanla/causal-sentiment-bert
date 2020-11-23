@@ -1,0 +1,8 @@
+Studying/VBG the/DT function/NN of/IN proteins/NN is/VBZ important/JJ for/IN understanding/VBG the/DT molecular/JJ mechanisms/NNS of/IN life/NN ./.
+The/DT number/NN of/IN publicly/RB available/JJ protein/NN structures/NNS has/VBZ increasingly/RB become/VBN extremely/RB large/JJ ./.
+Still/RB ,/, the/DT determination/NN of/IN the/DT function/NN of/IN a/DT protein/NN structure/NN remains/VBZ a/DT difficult/JJ ,/, costly/JJ ,/, and/CC time/NN consuming/VBG task/NN ./.
+The/DT difficulties/NNS are/VBP often/RB due/JJ to/IN the/DT essential/JJ role/NN of/IN spatial/JJ and/CC topological/JJ structures/NNS in/IN the/DT determination/NN of/IN protein/NN functions/VBZ in/IN living/VBG cells/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP ProtNN/NNP ,/, a/DT novel/JJ approach/NN for/IN protein/NN function/NN prediction/NN ./.
+Given/VBN an/DT unannotated/JJ protein/NN structure/NN and/CC a/DT set/NN of/IN annotated/VBN proteins/NN ,/, ProtNN/NNP finds/VBZ the/DT nearest/JJS neighbor/NN annotated/VBN structures/NNS based/VBN on/IN protein/NN graph/NN pairwise/JJ similarities/NNS ./.
+ProtNN/NNP assigns/VBZ to/IN the/DT query/NN protein/NN the/DT function/NN with/IN the/DT highest/JJS number/NN of/IN votes/NNS across/IN the/DT set/NN of/IN $/$ k/CD $/$ nearest/JJS neighbor/NN reference/NN proteins/NN ,/, where/WRB $/$ k/CD $/$ is/VBZ a/DT user/NN defined/VBN parameter/NN ./.
+Experimental/JJ evaluation/NN demonstrates/VBZ that/IN ProtNN/NNP is/VBZ able/JJ to/TO accurately/RB classify/VB several/JJ datasets/NNS in/IN an/DT extremely/RB fast/JJ runtime/NN compared/VBN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS ./.

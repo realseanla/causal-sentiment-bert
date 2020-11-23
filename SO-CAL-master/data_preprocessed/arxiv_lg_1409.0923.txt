@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ a/DT new/JJ similarity/NN measure/NN to/TO be/VB used/VBN for/IN general/JJ tasks/NNS including/VBG supervised/JJ learning/NN ,/, which/WDT is/VBZ represented/VBN by/IN the/DT K/NN -/HYPH nearest/JJS neighbor/NN classifier/NN (/-LRB- KNN/NN )/-RRB- ./.
+The/DT proposed/VBN similarity/NN measure/NN is/VBZ invariant/JJ to/IN large/JJ differences/NNS in/IN some/DT dimensions/NNS in/IN the/DT feature/NN space/NN ./.
+The/DT proposed/VBN metric/NN is/VBZ proved/VBN mathematically/RB to/TO be/VB a/DT metric/JJ ./.
+To/TO test/VB its/PRP$ viability/NN for/IN different/JJ applications/NNS ,/, the/DT KNN/NNP used/VBD the/DT proposed/VBN metric/JJ for/IN classifying/VBG test/NN examples/NNS chosen/VBN from/IN a/DT number/NN of/IN real/JJ datasets/NNS ./.
+Compared/VBN to/IN some/DT other/JJ well/RB known/JJ metrics/NNS ,/, the/DT experimental/JJ results/NNS show/VBP that/IN the/DT proposed/VBN metric/NN is/VBZ a/DT promising/JJ distance/NN measure/NN for/IN the/DT KNN/NNP classifier/NN with/IN strong/JJ potential/NN for/IN a/DT wide/JJ range/NN of/IN applications/NNS ./.

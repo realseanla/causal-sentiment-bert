@@ -1,0 +1,5 @@
+Current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN classification/NN and/CC detection/NN algorithms/NNS rely/VBP on/IN supervised/JJ training/NN ./.
+In/IN this/DT work/NN we/PRP study/VBP unsupervised/JJ feature/NN learning/NN in/IN the/DT context/NN of/IN temporally/RB coherent/JJ video/NN data/NNS ./.
+We/PRP focus/VBP on/IN feature/NN learning/NN from/IN unlabeled/JJ video/NN data/NNS ,/, using/VBG the/DT assumption/NN that/IN adjacent/JJ video/NN frames/NNS contain/VBP semantically/RB similar/JJ information/NN ./.
+This/DT assumption/NN is/VBZ exploited/VBN to/TO train/VB a/DT convolutional/JJ pooling/VBG auto/NN -/HYPH encoder/NN regularized/VBN by/IN slowness/NN and/CC sparsity/NN ./.
+We/PRP establish/VBP a/DT connection/NN between/IN slow/JJ feature/NN learning/NN to/IN metric/JJ learning/NN and/CC show/VBP that/IN the/DT trained/VBN encoder/NN can/MD be/VB used/VBN to/TO define/VB a/DT more/RBR temporally/RB and/CC semantically/RB coherent/JJ metric/JJ ./.

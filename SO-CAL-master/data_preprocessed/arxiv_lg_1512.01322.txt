@@ -1,0 +1,5 @@
+Recurrent/JJ neural/JJ networks/NNS have/VBP shown/VBN excellent/JJ performance/NN in/IN many/JJ applications/NNS ,/, however/RB they/PRP require/VBP increased/VBN complexity/NN in/IN hardware/NN or/CC software/NN based/VBN implementations/NNS ./.
+The/DT hardware/NN complexity/NN can/MD be/VB much/JJ lowered/VBN by/IN minimizing/VBG the/DT word/NN -/HYPH length/NN of/IN weights/NNS and/CC signals/NNS ./.
+This/DT work/NN analyzes/VBZ the/DT fixed/VBN -/HYPH point/NN performance/NN of/IN recurrent/JJ neural/JJ networks/NNS using/VBG a/DT retrain/NN based/VBN quantization/NN method/NN ./.
+The/DT quantization/NN sensitivity/NN of/IN each/DT layer/NN in/IN RNNs/NNS is/VBZ studied/VBN ,/, and/CC the/DT overall/JJ fixed/VBN -/HYPH point/NN optimization/NN results/VBZ minimizing/VBG the/DT capacity/NN of/IN weights/NNS while/IN not/RB sacrificing/VBG the/DT performance/NN are/VBP presented/VBN ./.
+A/DT language/NN model/NN and/CC a/DT phoneme/NN recognition/NN examples/NNS are/VBP used/VBN ./.

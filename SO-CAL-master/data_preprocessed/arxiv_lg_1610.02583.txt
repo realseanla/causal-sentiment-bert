@@ -1,0 +1,4 @@
+We/PRP describe/VBP recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- ,/, which/WDT have/VBP attracted/VBN great/JJ attention/NN on/IN sequential/JJ tasks/NNS ,/, such/JJ as/IN handwriting/NN recognition/NN ,/, speech/NN recognition/NN and/CC image/NN to/IN text/NN ./.
+However/RB ,/, compared/VBN to/IN general/JJ feedforward/NN neural/JJ networks/NNS ,/, RNNs/NNS have/VBP feedback/NN loops/NNS ,/, which/WDT makes/VBZ it/PRP a/DT little/JJ hard/JJ to/TO understand/VB the/DT backpropagation/NN step/NN ./.
+Thus/RB ,/, we/PRP focus/VBP on/IN basics/NNS ,/, especially/RB the/DT error/NN backpropagation/NN to/TO compute/VB gradients/NNS with/IN respect/NN to/IN model/NN parameters/NNS ./.
+Further/RB ,/, we/PRP go/VBP into/IN detail/NN on/IN how/WRB error/NN backpropagation/NN algorithm/NN is/VBZ applied/VBN on/IN long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- by/IN unfolding/VBG the/DT memory/NN unit/NN ./.

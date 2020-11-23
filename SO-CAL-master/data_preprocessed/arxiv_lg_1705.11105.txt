@@ -1,0 +1,6 @@
+Traditionally/RB ,/, classifying/VBG large/JJ hierarchical/JJ labels/NNS with/IN more/JJR than/IN 10000/CD distinct/JJ traces/NNS can/MD only/RB be/VB achieved/VBN with/IN flatten/VB labels/NNS ./.
+Although/IN flatten/VB labels/NNS is/VBZ feasible/JJ ,/, it/PRP misses/VBZ the/DT hierarchical/JJ information/NN in/IN the/DT labels/NNS ./.
+Hierarchical/JJ models/NNS like/IN HSVM/NNP by/IN becomes/VBZ impossible/JJ to/TO train/VB because/IN of/IN the/DT sheer/JJ number/NN of/IN SVMs/NNS in/IN the/DT whole/JJ architecture/NN ./.
+We/PRP developed/VBD a/DT hierarchical/JJ architecture/NN based/VBN on/IN neural/JJ networks/NNS that/WDT is/VBZ simple/JJ to/TO train/VB ./.
+Also/RB ,/, we/PRP derived/VBD an/DT inference/NN algorithm/NN that/WDT can/MD efficiently/RB infer/VB the/DT MAP/NN (/-LRB- maximum/NN a/DT posteriori/NN )/-RRB- trace/NN guaranteed/VBN by/IN our/PRP$ theorems/NNS ./.
+Furthermore/RB ,/, the/DT complexity/NN of/IN the/DT model/NN is/VBZ only/RB $/$ O/UH (/-LRB- n/NN ^/SYM 2/CD )/-RRB- $/$ compared/VBN to/IN $/$ O/UH (/-LRB- n/NN ^/SYM h/NN )/-RRB- $/$ in/IN a/DT flatten/VB model/NN ,/, where/WRB $/$ h/LS $/$ is/VBZ the/DT height/NN of/IN the/DT hierarchy/NN ./.

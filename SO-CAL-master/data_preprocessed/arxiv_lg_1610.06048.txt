@@ -1,0 +1,5 @@
+This/DT paper/NN analyzes/VBZ k/CD nearest/JJS neighbor/NN classification/NN with/IN training/NN data/NNS anonymized/VBN using/VBG anatomy/NN ./.
+Anatomy/NN preserves/VBZ all/DT data/NNS values/NNS ,/, but/CC introduces/VBZ uncertainty/NN in/IN the/DT mapping/NN between/IN identifying/VBG and/CC sensitive/JJ values/NNS ./.
+We/PRP first/RB study/VB the/DT theoretical/JJ effect/NN of/IN the/DT anatomized/JJ training/NN data/NNS on/IN the/DT k/NN nearest/JJS neighbor/NN error/NN rate/NN bounds/NNS ,/, nearest/JJS neighbor/NN convergence/NN rate/NN ,/, and/CC Bayesian/JJ error/NN ./.
+We/PRP then/RB validate/VBP the/DT derived/VBN bounds/NNS empirically/RB ./.
+We/PRP show/VBP that/IN 1/CD )/-RRB- Learning/VBG from/IN anatomized/VBN data/NNS approaches/VBZ the/DT limits/NNS of/IN learning/VBG through/IN the/DT unprotected/JJ data/NNS (/-LRB- although/IN requiring/VBG larger/JJR training/NN data/NNS )/-RRB- ,/, and/CC 2/LS )/-RRB- nearest/JJS neighbor/NN using/VBG anatomized/VBN data/NNS outperforms/VBZ nearest/JJS neighbor/NN on/IN generalization/NN -/HYPH based/VBN anonymization/NN ./.

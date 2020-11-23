@@ -1,0 +1,5 @@
+Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNNs/NNS )/-RRB- has/VBZ shown/VBN a/DT great/JJ success/NN in/IN many/JJ areas/NNS including/VBG complex/JJ image/NN classification/NN tasks/NNS ./.
+However/RB ,/, they/PRP need/VBP a/DT lot/NN of/IN memory/NN and/CC computational/JJ cost/NN ,/, which/WDT hinders/VBZ them/PRP from/IN running/VBG in/IN relatively/RB low/JJ -/HYPH end/NN smart/JJ devices/NNS such/JJ as/IN smart/JJ phones/NNS ./.
+We/PRP propose/VBP a/DT CNN/NNP compression/NN method/NN based/VBN on/IN CP/NN -/HYPH decomposition/NN and/CC Tensor/NNP Power/NNP Method/NNP ./.
+We/PRP also/RB propose/VBP an/DT iterative/JJ fine/JJ tuning/NN ,/, with/IN which/WDT we/PRP fine/RB -/HYPH tune/VB the/DT whole/JJ network/NN after/IN decomposing/VBG each/DT layer/NN ,/, but/CC before/IN decomposing/VBG the/DT next/JJ layer/NN ./.
+Significant/JJ reduction/NN in/IN memory/NN and/CC computation/NN cost/NN is/VBZ achieved/VBN compared/VBN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN previous/JJ work/NN with/IN no/DT more/JJR accuracy/NN loss/NN ./.

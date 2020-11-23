@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP proposed/VBD reinforcement/NN learning/VBG algorithms/NNS with/IN the/DT generalized/VBN reward/NN function/NN ./.
+In/IN our/PRP$ proposed/JJ method/NN we/PRP use/VBP Q/NN -/HYPH learning/NN and/CC SARSA/NNP algorithms/NNS with/IN generalised/VBN reward/NN function/NN to/TO train/VB the/DT reinforcement/NN learning/VBG agent/NN ./.
+We/PRP evaluated/VBD the/DT performance/NN of/IN our/PRP$ proposed/VBN algorithms/NNS on/IN two/CD real/JJ -/HYPH time/NN strategy/NN games/NNS called/VBN BattleCity/NNP and/CC S3/NNP ./.
+There/EX are/VBP two/CD main/JJ advantages/NNS of/IN having/VBG such/PDT an/DT approach/NN as/IN compared/VBN to/IN other/JJ works/NNS in/IN RTS/NNP ./.
+(/-LRB- 1/LS )/-RRB- We/PRP can/MD ignore/VB the/DT concept/NN of/IN a/DT simulator/NN which/WDT is/VBZ often/RB game/NN specific/JJ and/CC is/VBZ usually/RB hard/JJ coded/VBN in/IN any/DT type/NN of/IN RTS/NNP games/NNS (/-LRB- 2/CD )/-RRB- our/PRP$ system/NN can/MD learn/VB from/IN interaction/NN with/IN any/DT opponents/NNS and/CC quickly/RB change/VB the/DT strategy/NN according/VBG to/IN the/DT opponents/NNS and/CC do/VBP not/RB need/VB any/DT human/JJ traces/NNS as/IN used/VBN in/IN previous/JJ works/NNS ./.
+Keywords/NNS :/: Reinforcement/NN learning/NN ,/, Machine/NN learning/NN ,/, Real/JJ time/NN strategy/NN ,/, Artificial/NNP intelligence/NN ./.

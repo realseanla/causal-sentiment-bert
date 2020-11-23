@@ -1,0 +1,8 @@
+Multitask/NNP learning/VBG algorithms/NNS are/VBP typically/RB designed/VBN assuming/VBG some/DT fixed/VBN ,/, a/FW priori/FW known/VBN latent/JJ structure/NN shared/VBN by/IN all/PDT the/DT tasks/NNS ./.
+However/RB ,/, it/PRP is/VBZ usually/RB unclear/JJ what/WDT type/NN of/IN latent/JJ task/NN structure/NN is/VBZ the/DT most/RBS appropriate/JJ for/IN a/DT given/VBN multitask/NN learning/NN problem/NN ./.
+Ideally/RB ,/, the/DT "/`` right/JJ "/'' latent/JJ task/NN structure/NN should/MD be/VB learned/VBN in/IN a/DT data/NN -/HYPH driven/VBN manner/NN ./.
+We/PRP present/VBP a/DT flexible/JJ ,/, nonparametric/JJ Bayesian/JJ model/NN that/WDT posits/VBZ a/DT mixture/NN of/IN factor/NN analyzers/NNS structure/NN on/IN the/DT tasks/NNS ./.
+The/DT nonparametric/JJ aspect/NN makes/VBZ the/DT model/NN expressive/JJ enough/JJ to/TO subsume/VB many/JJ existing/VBG models/NNS of/IN latent/JJ task/NN structures/NNS (/-LRB- e.g/NN ,/, mean/VB -/HYPH regularized/VBN tasks/NNS ,/, clustered/VBN tasks/NNS ,/, low/JJ -/HYPH rank/NN or/CC linear/JJ //HYPH non-linear/JJ subspace/NN assumption/NN on/IN tasks/NNS ,/, etc./FW )/-RRB- ./.
+Moreover/RB ,/, it/PRP can/MD also/RB learn/VB more/RBR general/JJ task/NN structures/NNS ,/, addressing/VBG the/DT shortcomings/NNS of/IN such/JJ models/NNS ./.
+We/PRP present/VBP a/DT variational/JJ inference/NN algorithm/NN for/IN our/PRP$ model/NN ./.
+Experimental/JJ results/NNS on/IN synthetic/JJ and/CC real/JJ -/HYPH world/NN datasets/NNS ,/, on/IN both/DT regression/NN and/CC classification/NN problems/NNS ,/, demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/JJ method/NN ./.

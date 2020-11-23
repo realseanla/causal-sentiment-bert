@@ -1,0 +1,9 @@
+Convolutional/JJ neural/JJ network/NN provides/VBZ an/DT end/NN -/HYPH to/IN -/HYPH end/NN solution/NN to/TO train/VB many/JJ computer/NN vision/NN tasks/NNS and/CC has/VBZ gained/VBN great/JJ successes/NNS ./.
+However/RB ,/, the/DT design/NN of/IN network/NN architectures/NNS usually/RB relies/VBZ heavily/RB on/IN expert/JJ knowledge/NN and/CC is/VBZ hand/NN -/HYPH crafted/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP provide/VBP a/DT solution/NN to/IN automatically/RB and/CC efficiently/RB design/VB high/JJ performance/NN network/NN architectures/NNS ./.
+To/TO reduce/VB the/DT search/NN space/NN of/IN network/NN design/NN ,/, we/PRP focus/VBP on/IN constructing/VBG network/NN blocks/NNS ,/, which/WDT can/MD be/VB stacked/VBN to/TO generate/VB the/DT whole/JJ network/NN ./.
+Blocks/NNS are/VBP generated/VBN through/IN an/DT agent/NN ,/, which/WDT is/VBZ trained/VBN with/IN Q/NN -/HYPH learning/NN to/TO maximize/VB the/DT expected/VBN accuracy/NN of/IN the/DT searching/VBG blocks/NNS on/IN the/DT learning/NN task/NN ./.
+Distributed/VBN asynchronous/JJ framework/NN and/CC early/JJ stop/NN strategy/NN are/VBP used/VBN to/TO accelerate/VB the/DT training/NN process/NN ./.
+Our/PRP$ experimental/JJ results/NNS demonstrate/VBP that/IN the/DT network/NN architectures/NNS designed/VBN by/IN our/PRP$ approach/NN perform/VB competitively/RB compared/VBN with/IN hand/NN -/HYPH crafted/VBN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN networks/NNS ./.
+We/PRP trained/VBD the/DT Q/NN -/HYPH learning/NN on/IN CIFAR/NN -/HYPH 100/CD ,/, and/CC evaluated/VBN on/IN CIFAR10/NN and/CC ImageNet/NNP ,/, the/DT designed/VBN block/NN structure/NN achieved/VBD 3.60/CD percent/NN error/NN on/IN CIFAR/NN -/HYPH 10/CD and/CC competitive/JJ result/NN on/IN ImageNet/NNP ./.
+The/DT Q/NN -/HYPH learning/NN process/NN can/MD be/VB efficiently/RB trained/VBN only/RB on/IN 32/CD GPUs/NNS in/IN 3/CD days/NNS ./.

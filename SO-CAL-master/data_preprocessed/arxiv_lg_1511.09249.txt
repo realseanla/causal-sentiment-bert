@@ -1,0 +1,10 @@
+This/DT paper/NN addresses/VBZ the/DT general/JJ problem/NN of/IN reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- in/IN partially/RB observable/JJ environments/NNS ./.
+In/IN 2013/CD ,/, our/PRP$ large/JJ RL/NNP recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- learned/VBN from/IN scratch/NN to/TO drive/VB simulated/JJ cars/NNS from/IN high/JJ -/HYPH dimensional/JJ video/NN input/NN ./.
+However/RB ,/, real/JJ brains/NNS are/VBP more/RBR powerful/JJ in/IN many/JJ ways/NNS ./.
+In/IN particular/JJ ,/, they/PRP learn/VBP a/DT predictive/JJ model/NN of/IN their/PRP$ initially/RB unknown/JJ environment/NN ,/, and/CC somehow/RB use/VB it/PRP for/IN abstract/JJ (/-LRB- e.g./FW ,/, hierarchical/JJ )/-RRB- planning/NN and/CC reasoning/NN ./.
+Guided/VBN by/IN algorithmic/JJ information/NN theory/NN ,/, we/PRP describe/VBP RNN/NN -/HYPH based/VBN AIs/NNS (/-LRB- RNNAIs/NNS )/-RRB- designed/VBN to/TO do/VB the/DT same/JJ ./.
+Such/PDT an/DT RNNAI/NN can/MD be/VB trained/VBN on/IN never/RB -/HYPH ending/VBG sequences/NNS of/IN tasks/NNS ,/, some/DT of/IN them/PRP provided/VBN by/IN the/DT user/NN ,/, others/NNS invented/VBN by/IN the/DT RNNAI/NN itself/PRP in/IN a/DT curious/JJ ,/, playful/JJ fashion/NN ,/, to/TO improve/VB its/PRP$ RNN/NN -/HYPH based/VBN world/NN model/NN ./.
+Unlike/IN our/PRP$ previous/JJ model/NN -/HYPH building/NN RNN/NN -/HYPH based/VBN RL/NNP machines/NNS dating/VBG back/RB to/IN 1990/CD ,/, the/DT RNNAI/NNP learns/VBZ to/TO actively/RB query/VB its/PRP$ model/NN for/IN abstract/JJ reasoning/NN and/CC planning/NN and/CC decision/NN making/NN ,/, essentially/RB "/`` learning/VBG to/TO think/VB ./. "/''
+The/DT basic/JJ ideas/NNS of/IN this/DT report/NN can/MD be/VB applied/VBN to/IN many/JJ other/JJ cases/NNS where/WRB one/CD RNN/NN -/HYPH like/JJ system/NN exploits/VBZ the/DT algorithmic/JJ information/NN content/NN of/IN another/DT ./.
+They/PRP are/VBP taken/VBN from/IN a/DT grant/NN proposal/NN submitted/VBN in/IN Fall/NN 2014/CD ,/, and/CC also/RB explain/VB concepts/NNS such/JJ as/IN "/`` mirror/NN neurons/NNS ./. "/''
+Experimental/JJ results/NNS will/MD be/VB described/VBN in/IN separate/JJ papers/NNS ./.

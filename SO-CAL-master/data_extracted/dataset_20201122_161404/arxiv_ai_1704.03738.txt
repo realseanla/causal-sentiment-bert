@@ -1,0 +1,5 @@
+This paper describes three variants of a counterexample guided inductive optimization (CEGIO) approach based on Satisfiability Modulo Theories (SMT) solvers.
+In particular, CEGIO relies on iterative executions to constrain a verification procedure, in order to perform inductive generalization, based on counterexamples extracted from SMT solvers.
+CEGIO is able to successfully optimize a wide range of functions, including non-linear and non-convex optimization problems based on SMT solvers, in which data provided by counterexamples are employed to guide the verification engine, thus reducing the optimization domain.
+The present algorithms are evaluated using a large set of benchmarks typically employed for evaluating optimization techniques.
+Experimental results show the efficiency and effectiveness of the proposed algorithms, which find the optimal solution in all evaluated benchmarks, while traditional techniques are usually trapped by local minima.

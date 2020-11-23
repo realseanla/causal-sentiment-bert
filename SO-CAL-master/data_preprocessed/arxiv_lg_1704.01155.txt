@@ -1,0 +1,9 @@
+Although/IN deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- have/VBP achieved/VBN great/JJ success/NN in/IN many/JJ computer/NN vision/NN tasks/NNS ,/, recent/JJ studies/NNS have/VBP shown/VBN they/PRP are/VBP vulnerable/JJ to/IN adversarial/JJ examples/NNS ./.
+Such/JJ examples/NNS ,/, typically/RB generated/VBN by/IN adding/VBG small/JJ but/CC purposeful/JJ distortions/NNS ,/, can/MD frequently/RB fool/VB DNN/NN models/NNS ./.
+Previous/JJ studies/NNS to/TO defend/VB against/IN adversarial/JJ examples/NNS mostly/RB focused/VBD on/IN refining/VBG the/DT DNN/NN models/NNS ./.
+They/PRP have/VBP either/CC shown/VBN limited/JJ success/NN or/CC suffer/VB from/IN the/DT expensive/JJ computation/NN ./.
+We/PRP propose/VBP a/DT new/JJ strategy/NN ,/, \/SYM emph/NN {/-LRB- feature/NN squeezing/VBG }/-RRB- ,/, that/WDT can/MD be/VB used/VBN to/TO harden/VB DNN/NNP models/NNS by/IN detecting/VBG adversarial/JJ examples/NNS ./.
+Feature/NN squeezing/VBG reduces/VBZ the/DT search/NN space/NN available/JJ to/IN an/DT adversary/NN by/IN coalescing/VBG samples/NNS that/WDT correspond/VBP to/IN many/JJ different/JJ feature/NN vectors/NNS in/IN the/DT original/JJ space/NN into/IN a/DT single/JJ sample/NN ./.
+By/IN comparing/VBG a/DT DNN/NN model/NN 's/POS prediction/NN on/IN the/DT original/JJ input/NN with/IN that/DT on/IN the/DT squeezed/VBN input/NN ,/, feature/NN squeezing/VBG detects/VBZ adversarial/JJ examples/NNS with/IN high/JJ accuracy/NN and/CC few/JJ false/JJ positives/NNS ./.
+This/DT paper/NN explores/VBZ two/CD instances/NNS of/IN feature/NN squeezing/VBG :/: reducing/VBG the/DT color/NN bit/NN depth/NN of/IN each/DT pixel/NN and/CC smoothing/NN using/VBG a/DT spatial/JJ filter/NN ./.
+These/DT strategies/NNS are/VBP straightforward/JJ ,/, inexpensive/JJ ,/, and/CC complementary/JJ to/IN defensive/JJ methods/NNS that/WDT operate/VBP on/IN the/DT underlying/VBG model/NN ,/, such/JJ as/IN adversarial/JJ training/NN ./.

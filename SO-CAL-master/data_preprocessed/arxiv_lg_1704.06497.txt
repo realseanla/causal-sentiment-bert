@@ -1,0 +1,5 @@
+Bandit/NN structured/VBN prediction/NN describes/VBZ a/DT stochastic/JJ optimization/NN framework/NN where/WRB learning/NN is/VBZ performed/VBN from/IN partial/JJ feedback/NN ./.
+This/DT feedback/NN is/VBZ received/VBN in/IN the/DT form/NN of/IN a/DT task/NN loss/NN evaluation/NN to/IN a/DT predicted/VBN output/NN structure/NN ,/, without/IN having/VBG access/NN to/IN gold/NN standard/JJ structures/NNS ./.
+We/PRP advance/VBP this/DT framework/NN by/IN lifting/VBG linear/JJ bandit/NN learning/NN to/IN neural/JJ sequence/NN -/HYPH to/IN -/HYPH sequence/NN learning/NN problems/NNS using/VBG attention/NN -/HYPH based/VBN recurrent/JJ neural/JJ networks/NNS ./.
+Furthermore/RB ,/, we/PRP show/VBP how/WRB to/TO incorporate/VB control/NN variates/NNS into/IN our/PRP$ learning/NN algorithms/NNS for/IN variance/NN reduction/NN and/CC improved/VBD generalization/NN ./.
+We/PRP present/VBP an/DT evaluation/NN on/IN a/DT neural/JJ machine/NN translation/NN task/NN that/WDT shows/VBZ improvements/NNS of/IN up/RB to/IN 5.89/CD BLEU/NN points/NNS for/IN domain/NN adaptation/NN from/IN simulated/JJ bandit/NN feedback/NN ./.

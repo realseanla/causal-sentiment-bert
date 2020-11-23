@@ -1,0 +1,8 @@
+Ambient Intelligence aims to offer personalized services and easier ways of interaction between people and systems.
+Since several users and systems may coexist in these environments, it is quite possible that entities with opposing preferences need to cooperate to reach their respective goals.
+Automated negotiation is pointed as one of the mechanisms that may provide a solution to this kind of problems.
+In this article, a multi-issue bilateral bargaining model for Ambient Intelligence domains is presented where it is assumed that agents have computational bounded resources and do not know their opponents' preferences.
+The main goal of this work is to provide negotiation models that obtain efficient agreements while maintaining the computational cost low.
+A niching genetic algorithm is used before the negotiation process to sample one's own utility function (self-sampling).
+During the negotiation process, genetic operators are applied over the opponent's and one's own offers in order to sample new offers that are interesting for both parties.
+Results show that the proposed model is capable of outperforming similarity heuristics which only sample before the negotiation process and of obtaining similar results to similarity heuristics which have access to all of the possible offers.

@@ -1,0 +1,5 @@
+When convolutional neural networks are used to tackle learning problems based on time series, e.g., audio data, raw one-dimensional data are commonly pre-processed to obtain spectrogram or mel-spectrogram coefficients, which are then used as input to the actual neural network.
+In this contribution, we investigate, both theoretically and experimentally, the influence of this pre-processing step on the network's performance and pose the question, whether replacing it by applying adaptive or learned filters directly to the raw data, can improve learning success.
+The theoretical results show that approximately reproducing mel-spectrogram coefficients by applying adaptive filters and subsequent time-averaging is in principle possible.
+On the other hand, extensive experimental work leads to the conclusion, that the invariance induced by mel-spectrogram coefficients is both desirable and hard to infer by the learning process.
+Thus, the results achieved by adaptive end-to-end learning approaches are close to but slightly worse than results achieved by state-of-the-art reference architectures using standard input coefficients derived from the spectrogram.

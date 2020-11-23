@@ -1,0 +1,7 @@
+The/DT number/NN of/IN optimization/NN techniques/NNS in/IN the/DT combinatorial/JJ domain/NN is/VBZ large/JJ and/CC diversified/JJ ./.
+Nevertheless/RB ,/, there/EX is/VBZ still/RB a/DT lack/NN of/IN real/JJ benchmarks/NNS to/TO validate/VB optimization/NN algorithms/NNS ./.
+In/IN this/DT work/NN we/PRP introduce/VBP VRPBench/NNP ,/, a/DT tool/NN to/TO create/VB instances/NNS and/CC visualize/VB solutions/NNS to/IN the/DT Vehicle/NN Routing/VBG Problem/NN (/-LRB- VRP/NN )/-RRB- in/IN a/DT planar/JJ graph/NN embedded/VBN in/IN the/DT Euclidean/NNP 2D/NN space/NN ./.
+We/PRP use/VBP VRPBench/NNP to/TO model/VB a/DT real/JJ -/HYPH world/NN mail/NN delivery/NN case/NN of/IN the/DT city/NN of/IN Artur/NNP Nogueira/NNP ./.
+Such/JJ scenarios/NNS were/VBD characterized/VBN as/IN a/DT multi-objective/JJ optimization/NN of/IN the/DT VRP/NN ./.
+We/PRP extracted/VBD a/DT weighted/JJ graph/NN from/IN a/DT digital/JJ map/NN of/IN the/DT city/NN to/TO create/VB a/DT challenging/JJ benchmark/NN for/IN the/DT VRP/NN ./.
+Each/DT instance/NN models/NNS one/CD generic/JJ day/NN of/IN mail/NN delivery/NN with/IN hundreds/NNS to/IN thousands/NNS of/IN delivery/NN points/NNS ,/, thus/RB allowing/VBG both/CC the/DT comparison/NN and/CC validation/NN of/IN optimization/NN algorithms/NNS for/IN routing/NN problems/NNS ./.

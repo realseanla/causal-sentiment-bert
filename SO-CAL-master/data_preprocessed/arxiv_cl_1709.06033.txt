@@ -1,0 +1,4 @@
+This/DT paper/NN presents/VBZ an/DT approach/NN to/IN the/DT task/NN of/IN predicting/VBG an/DT event/NN description/NN from/IN a/DT preceding/VBG sentence/NN in/IN a/DT text/NN ./.
+Our/PRP$ approach/NN explores/VBZ sequence/NN -/HYPH to/IN -/HYPH sequence/NN learning/NN using/VBG a/DT bidirectional/JJ multi-layer/JJ recurrent/JJ neural/JJ network/NN ./.
+Our/PRP$ approach/NN substantially/RB outperforms/VBZ previous/JJ work/NN in/IN terms/NNS of/IN the/DT BLEU/NNP score/NN on/IN two/CD datasets/NNS derived/VBN from/IN WikiHow/NNP and/CC DeScript/NNP respectively/RB ./.
+Since/IN the/DT BLEU/NNP score/NN is/VBZ not/RB easy/JJ to/TO interpret/VB as/IN a/DT measure/NN of/IN event/NN prediction/NN ,/, we/PRP complement/VBP our/PRP$ study/NN with/IN a/DT second/JJ evaluation/NN that/WDT exploits/VBZ the/DT rich/JJ linguistic/JJ annotation/NN of/IN gold/NN paraphrase/NN sets/NNS of/IN events/NNS ./.

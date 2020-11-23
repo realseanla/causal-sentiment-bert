@@ -1,0 +1,10 @@
+In/IN current/JJ perception/NN systems/NNS applied/VBD to/IN the/DT rebuilding/NN of/IN the/DT environment/NN for/IN intelligent/JJ vehicles/NNS ,/, the/DT part/NN reserved/VBN to/IN object/NN association/NN for/IN the/DT tracking/NN is/VBZ increasingly/RB significant/JJ ./.
+This/DT allows/VBZ firstly/RB to/TO follow/VB the/DT objects/NNS temporal/JJ evolution/NN and/CC secondly/RB to/TO increase/VB the/DT reliability/NN of/IN environment/NN perception/NN ./.
+We/PRP propose/VBP in/IN this/DT communication/NN the/DT development/NN of/IN a/DT multi-objects/JJ association/NN algorithm/NN with/IN ambiguity/NN removal/NN entering/VBG into/IN the/DT design/NN of/IN such/PDT a/DT dynamic/JJ perception/NN system/NN for/IN intelligent/JJ vehicles/NNS ./.
+This/DT algorithm/NN uses/VBZ the/DT belief/NN theory/NN and/CC data/NNS modelling/VBG with/IN fuzzy/JJ mathematics/NNS in/IN order/NN to/TO be/VB able/JJ to/TO handle/VB inaccurate/JJ as/RB well/RB as/IN uncertain/JJ information/NN due/IN to/IN imperfect/JJ sensors/NNS ./.
+These/DT theories/NNS also/RB allow/VBP the/DT fusion/NN of/IN numerical/JJ as/RB well/RB as/IN symbolic/JJ data/NNS ./.
+We/PRP develop/VBP in/IN this/DT article/NN the/DT problem/NN of/IN matching/VBG between/IN known/VBN and/CC perceived/VBN objects/NNS ./.
+This/DT makes/VBZ it/PRP possible/JJ to/TO update/VB a/DT dynamic/JJ environment/NN map/NN for/IN a/DT vehicle/NN ./.
+The/DT belief/NN theory/NN will/MD enable/VB us/PRP to/TO quantify/VB the/DT belief/NN in/IN the/DT association/NN of/IN each/DT perceived/VBN object/NN with/IN each/DT known/JJ object/NN ./.
+Conflicts/NNS can/MD appear/VB in/IN the/DT case/NN of/IN object/NN appearance/NN or/CC disappearance/NN ,/, or/CC in/IN the/DT case/NN of/IN a/DT confused/JJ situation/NN or/CC bad/JJ perception/NN ./.
+These/DT conflicts/NNS are/VBP removed/VBN or/CC solved/VBN using/VBG an/DT assignment/NN algorithm/NN ,/, giving/VBG a/DT solution/NN called/VBD the/DT "/`` best/JJS "/'' and/CC so/RB ensuring/VBG the/DT tracking/NN of/IN some/DT objects/NNS present/VBP in/IN our/PRP$ environment/NN ./.

@@ -1,0 +1,10 @@
+IT/PRP infrastructure/NN is/VBZ a/DT crucial/JJ part/NN in/IN most/JJS of/IN today/NN 's/POS business/NN operations/NNS ./.
+High/JJ availability/NN and/CC reliability/NN ,/, and/CC short/JJ response/NN times/NNS to/IN outages/NNS are/VBP essential/JJ ./.
+Thus/RB a/DT high/JJ amount/NN of/IN tool/NN support/NN and/CC automation/NN in/IN risk/NN management/NN is/VBZ desirable/JJ to/TO decrease/VB outages/NNS ./.
+We/PRP propose/VBP a/DT new/JJ approach/NN for/IN calculating/VBG the/DT root/NN cause/NN for/IN an/DT observed/VBN failure/NN in/IN an/DT IT/NN infrastructure/NN ./.
+Our/PRP$ approach/NN is/VBZ based/VBN on/IN Abduction/NN in/IN Markov/NNP Logic/NNP Networks/NNP ./.
+Abduction/NN aims/VBZ to/TO find/VB an/DT explanation/NN for/IN a/DT given/VBN observation/NN in/IN the/DT light/NN of/IN some/DT background/NN knowledge/NN ./.
+In/IN failure/NN diagnosis/NN ,/, the/DT explanation/NN corresponds/VBZ to/IN the/DT root/NN cause/NN ,/, the/DT observation/NN to/IN the/DT failure/NN of/IN a/DT component/NN ,/, and/CC the/DT background/NN knowledge/NN to/IN the/DT dependency/NN graph/NN extended/VBN by/IN potential/JJ risks/NNS ./.
+We/PRP apply/VBP a/DT method/NN to/TO extend/VB a/DT Markov/NNP Logic/NNP Network/NNP in/IN order/NN to/TO conduct/VB abductive/JJ reasoning/NN ,/, which/WDT is/VBZ not/RB naturally/RB supported/VBN in/IN this/DT formalism/NN ./.
+Our/PRP$ approach/NN exhibits/VBZ a/DT high/JJ amount/NN of/IN reusability/NN and/CC enables/VBZ users/NNS without/IN specific/JJ knowledge/NN of/IN a/DT concrete/JJ infrastructure/NN to/TO gain/VB viable/JJ insights/NNS in/IN the/DT case/NN of/IN an/DT incident/NN ./.
+We/PRP implemented/VBD the/DT method/NN in/IN a/DT tool/NN and/CC illustrate/VB its/PRP$ suitability/NN for/IN root/NN cause/NN analysis/NN by/IN applying/VBG it/PRP to/IN a/DT sample/NN scenario/NN ./.

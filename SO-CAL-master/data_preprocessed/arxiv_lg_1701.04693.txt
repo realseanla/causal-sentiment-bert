@@ -1,0 +1,8 @@
+Scene/NN understanding/NN and/CC object/NN recognition/NN is/VBZ a/DT difficult/JJ to/TO achieve/VB yet/RB crucial/JJ skill/NN for/IN robots/NNS ./.
+Recently/RB ,/, Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNN/NNP )/-RRB- ,/, have/VBP shown/VBN success/NN in/IN this/DT task/NN ./.
+However/RB ,/, there/EX is/VBZ still/RB a/DT gap/NN between/IN their/PRP$ performance/NN on/IN image/NN datasets/NNS and/CC real/JJ -/HYPH world/NN robotics/NNS scenarios/NNS ./.
+We/PRP present/VBP a/DT novel/JJ paradigm/NN for/IN incrementally/RB improving/VBG a/DT robot/NN 's/POS visual/JJ perception/NN through/IN active/JJ human/JJ interaction/NN ./.
+In/IN this/DT paradigm/NN ,/, the/DT user/NN introduces/VBZ novel/JJ objects/NNS to/IN the/DT robot/NN by/IN means/NNS of/IN pointing/VBG and/CC voice/NN commands/NNS ./.
+Given/VBN this/DT information/NN ,/, the/DT robot/NN visually/RB explores/VBZ the/DT object/NN and/CC adds/VBZ images/NNS from/IN it/PRP to/TO re-train/VB the/DT perception/NN module/NN ./.
+Our/PRP$ base/NN perception/NN module/NN is/VBZ based/VBN on/IN recent/JJ development/NN in/IN object/NN detection/NN and/CC recognition/NN using/VBG deep/JJ learning/NN ./.
+Our/PRP$ method/NN leverages/VBZ state/NN of/IN the/DT art/NN CNNs/NNS from/IN off/RB -/HYPH line/NN batch/NN learning/NN ,/, human/JJ guidance/NN ,/, robot/NN exploration/NN and/CC incremental/JJ on/IN -/HYPH line/NN learning/NN ./.

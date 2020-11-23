@@ -1,0 +1,8 @@
+We/PRP investigate/VBP crowdsourcing/VBG algorithms/NNS for/IN finding/VBG the/DT top/JJ -/HYPH quality/NN item/NN within/IN a/DT large/JJ collection/NN of/IN objects/NNS with/IN unknown/JJ intrinsic/JJ quality/NN values/NNS ./.
+This/DT is/VBZ an/DT important/JJ problem/NN with/IN many/JJ relevant/JJ applications/NNS ,/, for/IN example/NN in/IN networked/JJ recommendation/NN systems/NNS ./.
+The/DT core/NN of/IN the/DT algorithms/NNS is/VBZ that/IN objects/NNS are/VBP distributed/VBN to/IN crowd/NN workers/NNS ,/, who/WP return/VBP a/DT noisy/JJ evaluation/NN ./.
+All/DT received/VBN evaluations/NNS are/VBP then/RB combined/VBN ,/, to/TO identify/VB the/DT top/JJ -/HYPH quality/NN object/NN ./.
+We/PRP first/RB present/VBP a/DT simple/JJ probabilistic/JJ model/NN for/IN the/DT system/NN under/IN investigation/NN ./.
+Then/RB ,/, we/PRP devise/VBP and/CC study/VBP a/DT class/NN of/IN efficient/JJ adaptive/JJ algorithms/NNS to/TO assign/VB in/IN an/DT effective/JJ way/NN objects/NNS to/IN workers/NNS ./.
+We/PRP compare/VBP the/DT performance/NN of/IN several/JJ algorithms/NNS ,/, which/WDT correspond/VBP to/IN different/JJ choices/NNS of/IN the/DT design/NN parameters/NNS //, metrics/NNS ./.
+We/PRP finally/RB compare/VBP our/PRP$ approach/NN based/VBN on/IN scoring/VBG object/NN qualities/NNS against/IN traditional/JJ proposals/NNS based/VBN on/IN comparisons/NNS and/CC tournaments/NNS ./.

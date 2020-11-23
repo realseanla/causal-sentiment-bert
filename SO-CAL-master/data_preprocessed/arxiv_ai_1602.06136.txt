@@ -1,0 +1,7 @@
+The/DT advances/NNS of/IN the/DT Linked/NNP Open/NNP Data/NNP (/-LRB- LOD/NN )/-RRB- initiative/NN are/VBP giving/VBG rise/NN to/IN a/DT more/RBR structured/JJ web/NN of/IN data/NNS ./.
+Indeed/RB ,/, a/DT few/JJ datasets/NNS act/VBP as/IN hubs/NNS (/-LRB- e.g./FW ,/, DBpedia/NNP )/-RRB- connecting/VBG many/JJ other/JJ datasets/NNS ./.
+They/PRP also/RB made/VBD possible/JJ new/JJ web/NN services/NNS for/IN entity/NN detection/NN inside/IN plain/JJ text/NN (/-LRB- e.g./FW ,/, DBpedia/NNP Spotlight/NN )/-RRB- ,/, thus/RB allowing/VBG for/IN new/JJ applications/NNS that/WDT will/MD benefit/VB from/IN a/DT combination/NN of/IN the/DT web/NN of/IN documents/NNS and/CC the/DT web/NN of/IN data/NNS ./.
+To/TO ease/VB the/DT emergence/NN of/IN these/DT new/JJ use/NN -/HYPH cases/NNS ,/, we/PRP propose/VBP a/DT query/NN -/HYPH biased/VBN algorithm/NN for/IN the/DT ranking/NN of/IN entities/NNS detected/VBN inside/IN a/DT web/NN page/NN ./.
+Our/PRP$ algorithm/NN combine/VB link/NN analysis/NN with/IN dimensionality/NN reduction/NN ./.
+We/PRP use/VBP crowdsourcing/VBG for/IN building/VBG a/DT publicly/RB available/JJ and/CC reusable/JJ dataset/NN on/IN which/WDT we/PRP compare/VBP our/PRP$ algorithm/NN to/IN the/DT state/NN of/IN the/DT art/NN ./.
+Finally/RB ,/, we/PRP use/VBP this/DT algorithm/NN for/IN the/DT construction/NN of/IN semantic/JJ snippets/NNS for/IN which/WDT we/PRP evaluate/VBP the/DT usability/NN and/CC the/DT usefulness/NN with/IN a/DT crowdsourcing/NN -/HYPH based/VBN approach/NN ./.

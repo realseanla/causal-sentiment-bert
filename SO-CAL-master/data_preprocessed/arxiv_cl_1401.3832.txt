@@ -1,0 +1,11 @@
+Vast/JJ amounts/NNS of/IN text/NN on/IN the/DT Web/NN are/VBP unstructured/JJ and/CC ungrammatical/JJ ,/, such/JJ as/IN classified/JJ ads/NNS ,/, auction/NN listings/NNS ,/, forum/NN postings/NNS ,/, etc/FW ./.
+We/PRP call/VBP such/JJ text/NN "/'' posts/NNS ./. "/''
+Despite/IN their/PRP$ inconsistent/JJ structure/NN and/CC lack/NN of/IN grammar/NN ,/, posts/NNS are/VBP full/JJ of/IN useful/JJ information/NN ./.
+This/DT paper/NN presents/VBZ work/NN on/IN semi-automatically/RB building/VBG tables/NNS of/IN relational/JJ information/NN ,/, called/VBN "/`` reference/NN sets/NNS ,/, "/'' by/IN analyzing/VBG such/JJ posts/NNS directly/RB ./.
+Reference/NN sets/NNS can/MD be/VB applied/VBN to/IN a/DT number/NN of/IN tasks/NNS such/JJ as/IN ontology/NN maintenance/NN and/CC information/NN extraction/NN ./.
+Our/PRP$ reference/NN -/HYPH set/VBN construction/NN method/NN starts/VBZ with/IN just/RB a/DT small/JJ amount/NN of/IN background/NN knowledge/NN ,/, and/CC constructs/NNS tuples/NNS representing/VBG the/DT entities/NNS in/IN the/DT posts/NNS to/TO form/VB a/DT reference/NN set/NN ./.
+We/PRP also/RB describe/VBP an/DT extension/NN to/IN this/DT approach/NN for/IN the/DT special/JJ case/NN where/WRB even/RB this/DT small/JJ amount/NN of/IN background/NN knowledge/NN is/VBZ impossible/JJ to/TO discover/VB and/CC use/VB ./.
+To/TO evaluate/VB the/DT utility/NN of/IN the/DT machine/NN -/HYPH constructed/VBN reference/NN sets/NNS ,/, we/PRP compare/VBP them/PRP to/IN manually/RB constructed/VBN reference/NN sets/NNS in/IN the/DT context/NN of/IN reference/NN -/HYPH set/NN -/HYPH based/VBN information/NN extraction/NN ./.
+Our/PRP$ results/NNS show/VBP the/DT reference/NN sets/VBZ constructed/VBN by/IN our/PRP$ method/NN outperform/VBP manually/RB constructed/VBN reference/NN sets/NNS ./.
+We/PRP also/RB compare/VBP the/DT reference/NN -/HYPH set/NN -/HYPH based/VBN extraction/NN approach/NN using/VBG the/DT machine/NN -/HYPH constructed/VBN reference/NN set/NN to/IN supervised/JJ extraction/NN approaches/NNS using/VBG generic/JJ features/NNS ./.
+These/DT results/NNS demonstrate/VBP that/IN using/VBG machine/NN -/HYPH constructed/VBN reference/NN sets/NNS outperforms/VBZ the/DT supervised/JJ methods/NNS ,/, even/RB though/IN the/DT supervised/JJ methods/NNS require/VBP training/NN data/NNS ./.

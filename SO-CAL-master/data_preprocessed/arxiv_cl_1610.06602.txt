@@ -1,0 +1,5 @@
+Existing/VBG machine/NN translation/NN decoding/NN algorithms/NNS generate/VBP translations/NNS in/IN a/DT strictly/RB monotonic/JJ fashion/NN and/CC never/RB revisit/VB previous/JJ decisions/NNS ./.
+As/IN a/DT result/NN ,/, earlier/RBR mistakes/NNS can/MD not/RB be/VB corrected/VBN at/IN a/DT later/JJ stage/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT translation/NN scheme/NN that/WDT starts/VBZ from/IN an/DT initial/JJ guess/NN and/CC then/RB makes/VBZ iterative/JJ improvements/NNS that/WDT may/MD revisit/VB previous/JJ decisions/NNS ./.
+We/PRP parameterize/VBP our/PRP$ model/NN as/IN a/DT convolutional/JJ neural/JJ network/NN that/WDT predicts/VBZ discrete/JJ substitutions/NNS to/IN an/DT existing/VBG translation/NN based/VBN on/IN an/DT attention/NN mechanism/NN over/IN both/CC the/DT source/NN sentence/NN as/RB well/RB as/IN the/DT current/JJ translation/NN output/NN ./.
+By/IN making/VBG less/JJR than/IN one/CD modification/NN per/IN sentence/NN ,/, we/PRP improve/VBP the/DT output/NN of/IN a/DT phrase/NN -/HYPH based/VBN translation/NN system/NN by/IN up/RB to/IN 0.4/CD BLEU/NN on/IN WMT15/JJ German/JJ -/HYPH English/JJ translation/NN ./.

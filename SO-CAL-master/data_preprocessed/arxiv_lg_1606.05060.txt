@@ -1,0 +1,7 @@
+We/PRP propose/VBP to/IN prune/VB a/DT random/JJ forest/NN (/-LRB- RF/NN )/-RRB- for/IN resource/NN -/HYPH constrained/VBN prediction/NN ./.
+We/PRP first/RB construct/VB a/DT RF/NN and/CC then/RB prune/VB it/PRP to/TO optimize/VB expected/VBN feature/NN cost/NN &amp;/CC accuracy/NN ./.
+We/PRP pose/VBP pruning/NN RFs/NNS as/IN a/DT novel/JJ 0/CD -/HYPH 1/CD integer/NN program/NN with/IN linear/JJ constraints/NNS that/WDT encourages/VBZ feature/NN re-use/NN ./.
+We/PRP establish/VBP total/JJ unimodularity/NN of/IN the/DT constraint/NN set/VBN to/TO prove/VB that/IN the/DT corresponding/VBG LP/NN relaxation/NN solves/VBZ the/DT original/JJ integer/NN program/NN ./.
+We/PRP then/RB exploit/VBP connections/NNS to/IN combinatorial/JJ optimization/NN and/CC develop/VB an/DT efficient/JJ primal/JJ -/HYPH dual/JJ algorithm/NN ,/, scalable/JJ to/IN large/JJ datasets/NNS ./.
+In/IN contrast/NN to/IN our/PRP$ bottom/NN -/HYPH up/NN approach/NN ,/, which/WDT benefits/VBZ from/IN good/JJ RF/NN initialization/NN ,/, conventional/JJ methods/NNS are/VBP top/JJ -/HYPH down/JJ acquiring/VBG features/NNS based/VBN on/IN their/PRP$ utility/NN value/NN and/CC is/VBZ generally/RB intractable/JJ ,/, requiring/VBG heuristics/NNS ./.
+Empirically/RB ,/, our/PRP$ pruning/NN algorithm/NN outperforms/VBZ existing/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN resource/NN -/HYPH constrained/VBN algorithms/NNS ./.

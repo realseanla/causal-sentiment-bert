@@ -1,0 +1,7 @@
+Image/NN -/HYPH generating/VBG machine/NN learning/NN models/NNS are/VBP typically/RB trained/VBN with/IN loss/NN functions/NNS based/VBN on/IN distance/NN in/IN the/DT image/NN space/NN ./.
+This/DT often/RB leads/VBZ to/IN over-smoothed/JJ results/NNS ./.
+We/PRP propose/VBP a/DT class/NN of/IN loss/NN functions/NNS ,/, which/WDT we/PRP call/VBP deep/JJ perceptual/JJ similarity/NN metrics/NNS (/-LRB- DeePSiM/NNP )/-RRB- ,/, that/DT mitigate/VB this/DT problem/NN ./.
+Instead/RB of/IN computing/VBG distances/NNS in/IN the/DT image/NN space/NN ,/, we/PRP compute/VBP distances/NNS between/IN image/NN features/NNS extracted/VBN by/IN deep/JJ neural/JJ networks/NNS ./.
+This/DT metric/JJ better/JJR reflects/VBZ perceptually/RB similarity/NN of/IN images/NNS and/CC thus/RB leads/VBZ to/IN better/JJR results/NNS ./.
+We/PRP show/VBP three/CD applications/NNS :/: autoencoder/NN training/NN ,/, a/DT modification/NN of/IN a/DT variational/JJ autoencoder/NN ,/, and/CC inversion/NN of/IN deep/JJ convolutional/JJ networks/NNS ./.
+In/IN all/DT cases/NNS ,/, the/DT generated/VBN images/NNS look/VBP sharp/JJ and/CC resemble/VBP natural/JJ images/NNS ./.

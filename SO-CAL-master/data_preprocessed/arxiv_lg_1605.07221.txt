@@ -1,0 +1,3 @@
+We/PRP show/VBP that/IN there/EX are/VBP no/DT spurious/JJ local/JJ minima/NN in/IN the/DT non-convex/JJ factorized/JJ parametrization/NN of/IN low/JJ -/HYPH rank/NN matrix/NN recovery/NN from/IN incoherent/JJ linear/JJ measurements/NNS ./.
+With/IN noisy/JJ measurements/NNS we/PRP show/VBP all/DT local/JJ minima/NN are/VBP very/RB close/JJ to/IN a/DT global/JJ optimum/JJ ./.
+Together/RB with/IN a/DT curvature/NN bound/VBN at/IN saddle/NN points/NNS ,/, this/DT yields/VBZ a/DT polynomial/JJ time/NN global/JJ convergence/NN guarantee/NN for/IN stochastic/JJ gradient/NN descent/NN {/-LRB- \/SYM em/PRP from/IN random/JJ initialization/NN }/-RRB- ./.

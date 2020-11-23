@@ -1,0 +1,5 @@
+F2F/NN is/VBZ a/DT C/NN library/NN for/IN large/JJ -/HYPH scale/NN machine/NN learning/NN ./.
+It/PRP contains/VBZ a/DT CPU/NN optimized/VBN implementation/NN of/IN the/DT Fastfood/NNP algorithm/NN ,/, that/WDT allows/VBZ the/DT computation/NN of/IN approximated/VBN kernel/NN expansions/NNS in/IN loglinear/NN time/NN ./.
+The/DT algorithm/NN requires/VBZ to/IN compute/VB the/DT product/NN of/IN Walsh/NNP -/HYPH Hadamard/NNP Transform/NNP (/-LRB- WHT/NNP )/-RRB- matrices/NNS ./.
+A/DT cache/NN friendly/JJ SIMD/NN Fast/JJ Walsh/NNP -/HYPH Hadamard/NNP Transform/NNP (/-LRB- FWHT/NNP )/-RRB- that/WDT achieves/VBZ compelling/JJ speed/NN and/CC outperforms/VBZ current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS has/VBZ been/VBN developed/VBN ./.
+F2F/NN allows/VBZ to/TO obtain/VB non-linear/JJ classification/NN combining/VBG Fastfood/NNP and/CC a/DT linear/JJ classifier/NN ./.

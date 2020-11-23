@@ -1,0 +1,5 @@
+Monitoring the number of insect pests is a crucial component in pheromone-based pest management systems.
+In this paper, we propose an automatic detection pipeline based on deep learning for identifying and counting pests in images taken inside field traps.
+Applied to a commercial codling moth dataset, our method shows promising performance both qualitatively and quantitatively.
+Compared to previous attempts at pest detection, our approach uses no pest-specific engineering which enables it to adapt to other species and environments with minimal human effort.
+It is amenable to implementation on parallel hardware and therefore capable of deployment in settings where real-time performance is required.

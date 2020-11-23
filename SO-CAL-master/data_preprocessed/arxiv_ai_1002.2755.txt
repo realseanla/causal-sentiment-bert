@@ -1,0 +1,7 @@
+This/DT paper/NN proposes/VBZ a/DT multimodal/JJ biometric/JJ system/NN through/IN Gaussian/NNP Mixture/NNP Model/NNP (/-LRB- GMM/NNP )/-RRB- for/IN face/NN and/CC ear/NN biometrics/NNS with/IN belief/NN fusion/NN of/IN the/DT estimated/VBN scores/NNS characterized/VBN by/IN Gabor/NNP responses/NNS and/CC the/DT proposed/VBN fusion/NN is/VBZ accomplished/VBN by/IN Dempster/NNP -/HYPH Shafer/NNP (/-LRB- DS/NNP )/-RRB- decision/NN theory/NN ./.
+Face/VB and/CC ear/NN images/NNS are/VBP convolved/VBN with/IN Gabor/NNP wavelet/NN filters/NNS to/IN extracts/NNS spatially/RB enhanced/VBN Gabor/NNP facial/JJ features/NNS and/CC Gabor/NNP ear/NN features/NNS ./.
+Further/RB ,/, GMM/NNP is/VBZ applied/VBN to/IN the/DT high/JJ -/HYPH dimensional/JJ Gabor/NNP face/NN and/CC Gabor/NNP ear/NN responses/NNS separately/RB for/IN quantitive/JJ measurements/NNS ./.
+Expectation/NN Maximization/NN (/-LRB- EM/NN )/-RRB- algorithm/NN is/VBZ used/VBN to/TO estimate/VB density/NN parameters/NNS in/IN GMM/NNP ./.
+This/DT produces/VBZ two/CD sets/NNS of/IN feature/NN vectors/NNS which/WDT are/VBP then/RB fused/VBN using/VBG Dempster/NNP -/HYPH Shafer/NNP theory/NN ./.
+Experiments/NNS are/VBP conducted/VBN on/IN multimodal/JJ database/NN containing/VBG face/NN and/CC ear/NN images/NNS of/IN 400/CD individuals/NNS ./.
+It/PRP is/VBZ found/VBN that/IN use/NN of/IN Gabor/NNP wavelet/NN filters/NNS along/IN with/IN GMM/NNP and/CC DS/NNP theory/NN can/MD provide/VB robust/JJ and/CC efficient/JJ multimodal/JJ fusion/NN strategy/NN ./.

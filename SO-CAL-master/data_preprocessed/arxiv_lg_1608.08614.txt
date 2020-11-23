@@ -1,0 +1,8 @@
+The/DT tremendous/JJ success/NN of/IN features/NNS learnt/VBN using/VBG the/DT ImageNet/NNP classification/NN task/NN on/IN a/DT wide/JJ range/NN of/IN transfer/NN tasks/NNS begs/VBZ the/DT question/NN :/: what/WP are/VBP the/DT intrinsic/JJ properties/NNS of/IN the/DT ImageNet/NNP dataset/NN that/WDT are/VBP critical/JJ for/IN learning/VBG good/JJ ,/, general/JJ -/HYPH purpose/NN features/NNS ?/.
+This/DT work/NN provides/VBZ an/DT empirical/JJ investigation/NN of/IN various/JJ facets/NNS of/IN this/DT question/NN :/: Is/VBZ more/JJR pre-training/JJ data/NNS always/RB better/RBR ?/.
+How/WRB does/VBZ feature/NN quality/NN depend/VBP on/IN the/DT number/NN of/IN training/NN examples/NNS per/IN class/NN ?/.
+Does/VBZ adding/VBG more/JJR object/NN classes/NNS improve/VBP performance/NN ?/.
+For/IN the/DT same/JJ data/NNS budget/NN ,/, how/WRB should/MD the/DT data/NNS be/VB split/VBN into/IN classes/NNS ?/.
+Is/VBZ fine/JJ -/HYPH grained/JJ recognition/NN necessary/JJ for/IN learning/VBG good/JJ features/NNS ?/.
+Given/VBN the/DT same/JJ number/NN of/IN training/NN classes/NNS ,/, is/VBZ it/PRP better/JJR to/TO have/VB coarse/JJ classes/NNS or/CC fine/JJ -/HYPH grained/JJ classes/NNS ?/.
+Which/WDT is/VBZ better/JJR :/: more/JJR classes/NNS or/CC more/JJR examples/NNS per/IN class/NN ?/.

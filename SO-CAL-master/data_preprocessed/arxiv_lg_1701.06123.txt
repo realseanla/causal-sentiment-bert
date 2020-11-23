@@ -1,0 +1,5 @@
+We/PRP address/VBP a/DT problem/NN of/IN optimization/NN on/IN product/NN of/IN embedded/VBN submanifolds/NNS of/IN convolution/NN kernels/NNS (/-LRB- PEMs/NNS )/-RRB- in/IN convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- ./.
+First/RB ,/, we/PRP explore/VBP metric/JJ and/CC curvature/NN properties/NNS of/IN PEMs/NNS in/IN terms/NNS of/IN component/NN manifolds/NNS ./.
+Next/RB ,/, we/PRP propose/VBP a/DT SGD/NN method/NN ,/, called/VBN C/NN -/HYPH SGD/NN ,/, by/IN generalizing/VBG the/DT SGD/NNP methods/NNS employed/VBN on/IN kernel/NN submanifolds/NNS for/IN optimization/NN on/IN product/NN of/IN different/JJ collections/NNS of/IN kernel/NN submanifolds/NNS ./.
+Then/RB ,/, we/PRP analyze/VBP convergence/NN properties/NNS of/IN the/DT C/NN -/HYPH SGD/NN considering/VBG sectional/JJ curvature/NN properties/NNS of/IN PEMs/NNS ./.
+In/IN the/DT theoretical/JJ results/NNS ,/, we/PRP expound/VBP the/DT constraints/NNS that/WDT can/MD be/VB used/VBN to/TO compute/VB adaptive/JJ step/NN sizes/NNS of/IN the/DT C/NN -/HYPH SGD/NN in/IN order/NN to/TO assure/VB the/DT asymptotic/JJ convergence/NN ./.

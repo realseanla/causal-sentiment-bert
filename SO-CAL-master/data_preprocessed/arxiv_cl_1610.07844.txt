@@ -1,0 +1,5 @@
+Natural/JJ -/HYPH language/NN processing/NN of/IN historical/JJ documents/NNS is/VBZ complicated/VBN by/IN the/DT abundance/NN of/IN variant/JJ spellings/NNS and/CC lack/NN of/IN annotated/VBN data/NNS ./.
+A/DT common/JJ approach/NN is/VBZ to/TO normalize/VB the/DT spelling/NN of/IN historical/JJ words/NNS to/IN modern/JJ forms/NNS ./.
+We/PRP explore/VBP the/DT suitability/NN of/IN a/DT deep/JJ neural/JJ network/NN architecture/NN for/IN this/DT task/NN ,/, particularly/RB a/DT deep/JJ bi-LSTM/NN network/NN applied/VBD on/IN a/DT character/NN level/NN ./.
+Our/PRP$ model/NN compares/VBZ well/RB to/IN previously/RB established/VBN normalization/NN algorithms/NNS when/WRB evaluated/VBN on/IN a/DT diverse/JJ set/NN of/IN texts/NNS from/IN Early/NNP New/NNP High/JJ German/JJ ./.
+We/PRP show/VBP that/WDT multi-task/VBP learning/VBG with/IN additional/JJ normalization/NN data/NNS can/MD improve/VB our/PRP$ model/NN 's/POS performance/NN further/RB ./.

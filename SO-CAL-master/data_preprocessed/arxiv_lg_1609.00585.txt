@@ -1,0 +1,6 @@
+With/IN the/DT rise/NN of/IN big/JJ data/NNS sets/NNS ,/, the/DT popularity/NN of/IN kernel/NN methods/NNS declined/VBD and/CC neural/JJ networks/NNS took/VBD over/RP again/RB ./.
+The/DT main/JJ problem/NN with/IN kernel/NN methods/NNS is/VBZ that/IN the/DT kernel/NN matrix/NN grows/VBZ quadratically/RB with/IN the/DT number/NN of/IN data/NNS points/NNS ./.
+Most/JJS attempts/NNS to/TO scale/VB up/RP kernel/NN methods/NNS solve/VB this/DT problem/NN by/IN discarding/VBG data/NNS points/NNS or/CC basis/NN functions/NNS of/IN some/DT approximation/NN of/IN the/DT kernel/NN map/NN ./.
+Here/RB we/PRP present/VBP a/DT simple/JJ yet/CC effective/JJ alternative/NN for/IN scaling/VBG up/RP kernel/NN methods/NNS that/WDT takes/VBZ into/IN account/NN the/DT entire/JJ data/NNS set/VBN via/IN doubly/RB stochastic/JJ optimization/NN of/IN the/DT emprical/JJ kernel/NN map/NN ./.
+The/DT algorithm/NN is/VBZ straightforward/JJ to/TO implement/VB ,/, in/IN particular/JJ in/IN parallel/JJ execution/NN settings/NNS ;/: it/PRP leverages/VBZ the/DT full/JJ power/NN and/CC versatility/NN of/IN classical/JJ kernel/NN functions/NNS without/IN the/DT need/NN to/TO explicitly/RB formulate/VB a/DT kernel/NN map/NN approximation/NN ./.
+We/PRP provide/VBP empirical/JJ evidence/NN that/IN the/DT algorithm/NN works/VBZ on/IN large/JJ data/NNS sets/NNS ./.

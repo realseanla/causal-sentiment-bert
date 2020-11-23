@@ -1,0 +1,6 @@
+Experience/NN replay/NN lets/VBZ online/JJ reinforcement/NN learning/VBG agents/NNS remember/VB and/CC reuse/VB experiences/NNS from/IN the/DT past/NN ./.
+In/IN prior/JJ work/NN ,/, experience/NN transitions/NNS were/VBD uniformly/RB sampled/VBN from/IN a/DT replay/NN memory/NN ./.
+However/RB ,/, this/DT approach/NN simply/RB replays/NNS transitions/NNS at/IN the/DT same/JJ frequency/NN that/IN they/PRP were/VBD originally/RB experienced/VBN ,/, regardless/RB of/IN their/PRP$ significance/NN ./.
+In/IN this/DT paper/NN we/PRP develop/VBP a/DT framework/NN for/IN prioritizing/VBG experience/NN ,/, so/RB as/IN to/IN replay/NN important/JJ transitions/NNS more/RBR frequently/RB ,/, and/CC therefore/RB learn/VBP more/RBR efficiently/RB ./.
+We/PRP use/VBP prioritized/VBN experience/NN replay/NN in/IN the/DT Deep/NNP Q/NNP -/HYPH Network/NNP (/-LRB- DQN/NNP )/-RRB- algorithm/NN ,/, which/WDT achieved/VBD human/JJ -/HYPH level/NN performance/NN in/IN Atari/NNP games/NNS ./.
+DQN/NN with/IN prioritized/VBN experience/NN replay/NN achieves/VBZ a/DT new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ,/, outperforming/VBG DQN/NN with/IN uniform/JJ replay/NN on/IN 42/CD out/IN of/IN 57/CD games/NNS ./.

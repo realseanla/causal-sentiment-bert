@@ -1,0 +1,5 @@
+This/DT paper/NN proposes/VBZ boosting/VBG -/HYPH like/JJ deep/JJ learning/NN (/-LRB- BDL/NN )/-RRB- framework/NN for/IN pedestrian/NN detection/NN ./.
+Due/IN to/IN overtraining/VBG on/IN the/DT limited/JJ training/NN samples/NNS ,/, overfitting/NN is/VBZ a/DT major/JJ problem/NN of/IN deep/JJ learning/NN ./.
+We/PRP incorporate/VBP a/DT boosting/VBG -/HYPH like/IN technique/NN into/IN deep/JJ learning/NN to/TO weigh/VB the/DT training/NN samples/NNS ,/, and/CC thus/RB prevent/VB overtraining/NN in/IN the/DT iterative/JJ process/NN ./.
+We/PRP theoretically/RB give/VBP the/DT details/NNS of/IN derivation/NN of/IN our/PRP$ algorithm/NN ,/, and/CC report/VB the/DT experimental/JJ results/NNS on/IN open/JJ data/NNS sets/NNS showing/VBG that/IN BDL/NNP achieves/VBZ a/DT better/RBR stable/JJ performance/NN than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH arts/NNS ./.
+Our/PRP$ approach/NN achieves/VBZ 15.85/CD percent/NN and/CC 3.81/CD percent/NN reduction/NN in/IN the/DT average/NN miss/VBP rate/NN compared/VBN with/IN ACF/NN and/CC JointDeep/NNP on/IN the/DT largest/JJS Caltech/NNP benchmark/NN dataset/NN ,/, respectively/RB ./.

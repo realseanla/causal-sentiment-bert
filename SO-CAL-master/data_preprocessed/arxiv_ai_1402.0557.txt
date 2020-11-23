@@ -1,0 +1,9 @@
+We/PRP consider/VBP the/DT problem/NN of/IN finding/VBG all/DT enclosing/VBG rectangles/NNS of/IN minimum/JJ area/NN that/WDT can/MD contain/VB a/DT given/VBN set/NN of/IN rectangles/NNS without/IN overlap/NN ./.
+Our/PRP$ rectangle/NN packer/NN chooses/VBZ the/DT x-coordinates/NNPS of/IN all/PDT the/DT rectangles/NNS before/IN any/DT of/IN the/DT y/NN -/HYPH coordinates/NNS ./.
+We/PRP then/RB transform/VBP the/DT problem/NN into/IN a/DT perfect/JJ -/HYPH packing/NN problem/NN with/IN no/DT empty/JJ space/NN by/IN adding/VBG additional/JJ rectangles/NNS ./.
+To/TO determine/VB the/DT y/NN -/HYPH coordinates/NNS ,/, we/PRP branch/VBP on/IN the/DT different/JJ rectangles/NNS that/WDT can/MD be/VB placed/VBN in/IN each/DT empty/JJ position/NN ./.
+Our/PRP$ packer/NN allows/VBZ us/PRP to/TO extend/VB the/DT known/JJ solutions/NNS for/IN a/DT consecutive/JJ -/HYPH square/JJ benchmark/NN from/IN 27/CD to/IN 32/CD squares/NNS ./.
+We/PRP also/RB introduce/VBP three/CD new/JJ benchmarks/NNS ,/, avoiding/VBG properties/NNS that/WDT make/VBP a/DT benchmark/NN easy/JJ ,/, such/JJ as/IN rectangles/NNS with/IN shared/VBN dimensions/NNS ./.
+Our/PRP$ third/JJ benchmark/NN consists/VBZ of/IN rectangles/NNS of/IN increasingly/RB high/JJ precision/NN ./.
+To/TO pack/VB them/PRP efficiently/RB ,/, we/PRP limit/VBP the/DT rectangles/NNS coordinates/VBZ and/CC the/DT bounding/VBG box/NN dimensions/NNS to/IN the/DT set/NN of/IN subset/NN sums/NNS of/IN the/DT rectangles/NNS dimensions/NNS ./.
+Overall/RB ,/, our/PRP$ algorithms/NNS represent/VBP the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN for/IN this/DT problem/NN ,/, outperforming/VBG other/JJ algorithms/NNS by/IN orders/NNS of/IN magnitude/NN ,/, depending/VBG on/IN the/DT benchmark/NN ./.

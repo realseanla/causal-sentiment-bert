@@ -1,0 +1,7 @@
+Synonym extraction is an important task in natural language processing and often used as a submodule in query expansion, question answering and other applications.
+Automatic synonym extractor is highly preferred for large scale applications.
+Previous studies in synonym extraction are most limited to datasets in small scales.
+In this paper, we build a large dataset with 3.5 million synonym/non-synonym pairs to capture the challenges in real world scenarios.
+To overcome these challenges in large scale in synonym extraction, we proposed (1) a new cost function to accommodate the unbalanced learning problem, and (2) a feature learning based deep neural network to model the complicated relationships in synonym pairs.
+We compare several different approaches based on SVMs and neural networks, and find out our feature learning based neural network outperforms the methods with hand-assigned features.
+Specifically, the best performance of our model surpluses the SVM baseline with a significant 97\ percent relative improvement.

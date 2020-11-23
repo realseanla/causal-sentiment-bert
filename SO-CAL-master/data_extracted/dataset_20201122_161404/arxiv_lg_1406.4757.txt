@@ -1,0 +1,3 @@
+Data mining research into time series classification (TSC) has focussed on alternative distance measures for nearest neighbour classifiers.
+It is standard practice to use 1-NN with Euclidean or dynamic time warping (DTW) distance as a straw man for comparison.
+As part of a wider investigation into elastic distance measures for TSC~, we perform a series of experiments to test whether this standard practice is valid.

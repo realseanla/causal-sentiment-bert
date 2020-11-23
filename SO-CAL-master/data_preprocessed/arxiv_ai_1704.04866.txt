@@ -1,0 +1,11 @@
+Online/JJ reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- is/VBZ increasingly/RB popular/JJ for/IN the/DT personalized/VBN mobile/JJ health/NN (/-LRB- mHealth/NN )/-RRB- intervention/NN ./.
+It/PRP is/VBZ able/JJ to/TO personalize/VB the/DT type/NN and/CC dose/NN of/IN interventions/NNS according/VBG to/IN user/NN 's/POS ongoing/JJ statuses/NNS and/CC changing/VBG needs/NNS ./.
+However/RB ,/, at/IN the/DT beginning/NN of/IN online/JJ learning/NN ,/, there/EX are/VBP usually/RB too/RB few/JJ samples/NNS to/TO support/VB the/DT RL/NN updating/NN ,/, which/WDT leads/VBZ to/IN poor/JJ performances/NNS ./.
+A/DT delay/NN in/IN good/JJ performance/NN of/IN the/DT online/JJ learning/NN algorithms/NNS can/MD be/VB especially/RB detrimental/JJ in/IN the/DT mHealth/NNP ,/, where/WRB users/NNS tend/VBP to/TO quickly/RB disengage/VB with/IN apps/NNS ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP propose/VBP a/DT new/JJ online/JJ RL/NN methodology/NN that/WDT focuses/VBZ on/IN an/DT effective/JJ warm/JJ start/NN ./.
+The/DT main/JJ idea/NN is/VBZ to/TO make/VB full/JJ use/NN of/IN the/DT data/NNS accumulated/VBN and/CC the/DT decision/NN rule/NN achieved/VBN in/IN a/DT former/JJ study/NN ./.
+As/IN a/DT result/NN ,/, we/PRP can/MD greatly/RB enrich/VB the/DT data/NNS size/NN at/IN the/DT beginning/NN of/IN online/JJ learning/NN in/IN our/PRP$ method/NN ./.
+Such/JJ case/NN accelerates/VBZ the/DT online/JJ learning/NN process/NN for/IN new/JJ users/NNS to/TO achieve/VB good/JJ performances/NNS not/RB only/RB at/IN the/DT beginning/NN of/IN online/JJ learning/NN but/CC also/RB through/IN the/DT whole/JJ online/JJ learning/NN process/NN ./.
+Besides/RB ,/, we/PRP use/VBP the/DT decision/NN rules/NNS achieved/VBN previously/RB to/IN initialize/VB the/DT parameter/NN in/IN our/PRP$ online/JJ RL/NN model/NN for/IN new/JJ users/NNS ./.
+It/PRP provides/VBZ a/DT good/JJ initialization/NN for/IN the/DT proposed/VBN online/JJ RL/NN algorithm/NN ./.
+Experiment/NN results/NNS show/VBP that/IN promising/JJ improvements/NNS have/VBP been/VBN achieved/VBN by/IN our/PRP$ method/NN compared/VBN with/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN method/NN ./.

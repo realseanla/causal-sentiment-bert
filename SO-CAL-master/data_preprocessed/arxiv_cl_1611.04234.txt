@@ -1,0 +1,6 @@
+We/PRP focus/VBP on/IN named/VBN entity/NN recognition/NN (/-LRB- NER/NN )/-RRB- for/IN Chinese/JJ social/JJ media/NNS ./.
+With/IN massive/JJ unlabeled/JJ text/NN and/CC quite/RB limited/JJ labelled/VBN corpus/NN ,/, we/PRP propose/VBP a/DT semi-supervised/JJ learning/NN model/NN based/VBN on/IN B/NN -/HYPH LSTM/NN neural/JJ network/NN ./.
+To/TO take/VB advantage/NN of/IN traditional/JJ methods/NNS in/IN NER/NN such/JJ as/IN CRF/NNP ,/, we/PRP combine/VBP transition/NN probability/NN with/IN deep/JJ learning/NN in/IN our/PRP$ model/NN ./.
+To/TO bridge/VB the/DT gap/NN between/IN label/NN accuracy/NN and/CC F/NN -/HYPH score/NN of/IN NER/NN ,/, we/PRP construct/VBP a/DT model/NN which/WDT can/MD be/VB directly/RB trained/VBN on/IN F/NN -/HYPH score/NN ./.
+When/WRB considering/VBG the/DT instability/NN of/IN F/NN -/HYPH score/NN driven/VBN method/NN and/CC meaningful/JJ information/NN provided/VBN by/IN label/NN accuracy/NN ,/, we/PRP propose/VBP an/DT integrated/JJ method/NN to/TO train/VB on/IN both/DT F/NN -/HYPH score/NN and/CC label/NN accuracy/NN ./.
+Our/PRP$ integrated/VBN model/NN yields/NNS 7.44/CD \/SYM percent/NN improvement/NN over/IN previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN result/NN ./.

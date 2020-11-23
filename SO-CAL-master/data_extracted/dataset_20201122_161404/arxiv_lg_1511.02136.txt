@@ -1,0 +1,5 @@
+We present a new deterministic relational model derived from convolutional neural networks.
+Search-Convolutional Neural Networks (SCNNs) extend the notion of convolution to graph search to construct a rich latent representation that extracts local behavior from general graph-structured data.
+Unlike other neural network models that take graph-structured data as input, SCNNs have a parameterization that is independent of input size, a property that enables transfer learning between datasets.
+SCNNs can be applied to a wide variety of prediction tasks, including node classification, community detection, and link prediction.
+Our results indicate that SCNNs can offer considerable lift over off-the-shelf classifiers and simple multilayer perceptrons, and comparable performance to state-of-the-art probabilistic graphical models.

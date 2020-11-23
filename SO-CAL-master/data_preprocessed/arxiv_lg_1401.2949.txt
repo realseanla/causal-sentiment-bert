@@ -1,0 +1,5 @@
+Modern/JJ learning/NN classifier/NN systems/NNS typically/RB exploit/VBP a/DT niched/JJ genetic/JJ algorithm/NN to/TO facilitate/VB rule/NN discovery/NN ./.
+When/WRB used/VBN for/IN reinforcement/NN learning/NN ,/, such/JJ rules/NNS represent/VBP generalisations/NNS over/IN the/DT state/NN -/HYPH action/NN -/HYPH reward/NN space/NN ./.
+Whilst/IN encouraging/VBG maximal/JJ generality/NN ,/, the/DT niching/NN can/MD potentially/RB hinder/VB the/DT formation/NN of/IN generalisations/NNS in/IN the/DT state/NN space/NN which/WDT are/VBP symmetrical/JJ ,/, or/CC very/RB similar/JJ ,/, over/IN different/JJ actions/NNS ./.
+This/DT paper/NN introduces/VBZ the/DT use/NN of/IN rules/NNS which/WDT contain/VBP multiple/JJ actions/NNS ,/, maintaining/VBG accuracy/NN and/CC reward/NN metrics/NNS for/IN each/DT action/NN ./.
+It/PRP is/VBZ shown/VBN that/IN problem/NN symmetries/NNS can/MD be/VB exploited/VBN ,/, improving/VBG performance/NN ,/, whilst/IN not/RB degrading/JJ performance/NN when/WRB symmetries/NNS are/VBP reduced/VBN ./.

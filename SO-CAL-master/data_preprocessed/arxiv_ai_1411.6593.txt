@@ -1,0 +1,5 @@
+Recent/JJ advances/NNS in/IN metareasoning/NN for/IN search/NN has/VBZ shown/VBN its/PRP$ usefulness/NN in/IN improving/VBG numerous/JJ search/NN algorithms/NNS ./.
+This/DT paper/NN applies/VBZ rational/JJ metareasoning/NN to/IN IDA/NNP */NFP when/WRB several/JJ admissible/JJ heuristics/NNS are/VBP available/JJ ./.
+The/DT obvious/JJ basic/JJ approach/NN of/IN taking/VBG the/DT maximum/NN of/IN the/DT heuristics/NNS is/VBZ improved/VBN upon/IN by/IN lazy/JJ evaluation/NN of/IN the/DT heuristics/NNS ,/, resulting/VBG in/IN a/DT variant/NN known/VBN as/IN Lazy/NNP IDA/NNP */NFP ./.
+We/PRP introduce/VBP a/DT rational/JJ version/NN of/IN lazy/JJ IDA/NNP */NFP that/DT decides/VBZ whether/IN to/TO compute/VB the/DT more/RBR expensive/JJ heuristics/NNS or/CC to/TO bypass/VB it/PRP ,/, based/VBN on/IN a/DT myopic/JJ expected/VBN regret/NN estimate/NN ./.
+Empirical/JJ evaluation/NN in/IN several/JJ domains/NNS supports/VBZ the/DT theoretical/JJ results/NNS ,/, and/CC shows/VBZ that/IN rational/JJ lazy/JJ IDA/NNP */NFP is/VBZ a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN heuristic/NN combination/NN method/NN ./.

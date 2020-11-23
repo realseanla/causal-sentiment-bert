@@ -1,0 +1,7 @@
+A/DT graphical/JJ language/NN addresses/VBZ the/DT need/NN to/TO communicate/VB medical/JJ information/NN in/IN a/DT synthetic/JJ way/NN ./.
+Medical/JJ concepts/NNS are/VBP expressed/VBN by/IN icons/NNS conveying/VBG fast/JJ visual/JJ information/NN about/IN patients/NNS '/POS current/JJ state/NN or/CC about/IN the/DT known/VBN effects/NNS of/IN drugs/NNS ./.
+In/IN order/NN to/TO increase/VB the/DT visual/JJ language/NN 's/POS acceptance/NN and/CC usability/NN ,/, a/DT natural/JJ language/NN generation/NN interface/NN is/VBZ currently/RB developed/VBN ./.
+In/IN this/DT context/NN ,/, this/DT paper/NN describes/VBZ the/DT use/NN of/IN an/DT informatics/NN method/NN ---/: graph/NN transformation/NN ---/, to/TO prepare/VB data/NNS consisting/VBG of/IN concepts/NNS in/IN an/DT OWL/NN -/HYPH DL/NN ontology/NN for/IN use/NN in/IN a/DT natural/JJ language/NN generation/NN component/NN ./.
+The/DT OWL/NN concept/NN may/MD be/VB considered/VBN as/IN a/DT star/NN -/HYPH shaped/VBN graph/NN with/IN a/DT central/JJ node/NN ./.
+The/DT method/NN transforms/VBZ it/PRP into/IN a/DT graph/NN representing/VBG the/DT deep/JJ semantic/JJ structure/NN of/IN a/DT natural/JJ language/NN phrase/NN ./.
+This/DT work/NN may/MD be/VB of/IN future/JJ use/NN in/IN other/JJ contexts/NNS where/WRB ontology/NN concepts/NNS have/VBP to/TO be/VB mapped/VBN to/IN half/NN -/HYPH formalized/VBN natural/JJ language/NN expressions/NNS ./.

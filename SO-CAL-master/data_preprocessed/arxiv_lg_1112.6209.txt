@@ -1,0 +1,5 @@
+We/PRP consider/VBP the/DT problem/NN of/IN building/NN detectors/NNS for/IN high/JJ -/HYPH level/NN concepts/NNS using/VBG only/RB unsupervised/JJ feature/NN learning/NN ./.
+For/IN example/NN ,/, we/PRP would/MD like/VB to/TO understand/VB if/IN it/PRP is/VBZ possible/JJ to/TO learn/VB a/DT face/NN detector/NN using/VBG only/RB unlabeled/JJ images/NNS downloaded/VBN from/IN the/DT internet/NN ./.
+To/TO answer/VB this/DT question/NN ,/, we/PRP trained/VBD a/DT simple/JJ feature/NN learning/VBG algorithm/NN on/IN a/DT large/JJ dataset/NN of/IN images/NNS (/-LRB- 10/CD million/CD images/NNS ,/, each/DT image/NN is/VBZ 200x200/CD )/-RRB- ./.
+The/DT simulation/NN is/VBZ performed/VBN on/IN a/DT cluster/NN of/IN 1000/CD machines/NNS with/IN fast/JJ network/NN hardware/NN for/IN one/CD week/NN ./.
+Extensive/JJ experimental/JJ results/NNS reveal/VBP surprising/JJ evidence/NN that/IN such/JJ high/JJ -/HYPH level/NN concepts/NNS can/MD indeed/RB be/VB learned/VBN using/VBG only/RB unlabeled/JJ data/NNS and/CC a/DT simple/JJ learning/NN algorithm/NN ./.

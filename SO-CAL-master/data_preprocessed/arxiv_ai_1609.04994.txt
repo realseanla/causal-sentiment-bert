@@ -1,0 +1,4 @@
+We/PRP introduce/VBP exploration/NN potential/NN ,/, a/DT quantity/NN for/IN that/DT measures/NNS how/WRB much/RB a/DT reinforcement/NN learning/VBG agent/NN has/VBZ explored/VBN its/PRP$ environment/NN class/NN ./.
+In/IN contrast/NN to/IN information/NN gain/NN ,/, exploration/NN potential/NN takes/VBZ the/DT problem/NN 's/POS reward/NN structure/NN into/IN account/NN ./.
+This/DT leads/VBZ to/IN an/DT exploration/NN criterion/NN that/WDT is/VBZ both/DT necessary/JJ and/CC sufficient/JJ for/IN asymptotic/JJ optimality/NN (/-LRB- learning/NN to/TO act/VB optimally/RB across/IN the/DT entire/JJ environment/NN class/NN )/-RRB- ./.
+Our/PRP$ experiments/NNS in/IN multi-armed/JJ bandits/NNS use/VBP exploration/NN potential/NN to/TO illustrate/VB how/WRB different/JJ algorithms/NNS make/VBP the/DT tradeoff/NN between/IN exploration/NN and/CC exploitation/NN ./.

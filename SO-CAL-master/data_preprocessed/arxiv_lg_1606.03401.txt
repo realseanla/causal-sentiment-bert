@@ -1,0 +1,7 @@
+We/PRP propose/VBP a/DT novel/JJ approach/NN to/TO reduce/VB memory/NN consumption/NN of/IN the/DT backpropagation/NN through/IN time/NN (/-LRB- BPTT/NN )/-RRB- algorithm/NN when/WRB training/VBG recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- ./.
+Our/PRP$ approach/NN uses/VBZ dynamic/JJ programming/NN to/TO balance/VB a/DT trade/NN -/HYPH off/NN between/IN caching/NN of/IN intermediate/JJ results/NNS and/CC recomputation/NN ./.
+The/DT algorithm/NN is/VBZ capable/JJ of/IN tightly/RB fitting/VBG within/IN almost/RB any/DT user/NN -/HYPH set/VBN memory/NN budget/NN while/IN finding/VBG an/DT optimal/JJ execution/NN policy/NN minimizing/VBG the/DT computational/JJ cost/NN ./.
+Computational/JJ devices/NNS have/VBP limited/VBN memory/NN capacity/NN and/CC maximizing/VBG a/DT computational/JJ performance/NN given/VBN a/DT fixed/VBN memory/NN budget/NN is/VBZ a/DT practical/JJ use/NN -/HYPH case/NN ./.
+We/PRP provide/VBP asymptotic/JJ computational/JJ upper/JJ bounds/NNS for/IN various/JJ regimes/NNS ./.
+The/DT algorithm/NN is/VBZ particularly/RB effective/JJ for/IN long/JJ sequences/NNS ./.
+For/IN sequences/NNS of/IN length/NN 1000/CD ,/, our/PRP$ algorithm/NN saves/VBZ 95/CD \/SYM percent/NN of/IN memory/NN usage/NN while/IN using/VBG only/RB one/CD third/RB more/JJR time/NN per/IN iteration/NN than/IN the/DT standard/JJ BPTT/NN ./.

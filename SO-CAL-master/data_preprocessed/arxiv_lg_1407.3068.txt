@@ -1,0 +1,8 @@
+Traditional/JJ convolutional/JJ neural/JJ networks/NNS (/-LRB- CNN/NNP )/-RRB- are/VBP stationary/JJ and/CC feedforward/NN ./.
+They/PRP neither/CC change/VB their/PRP$ parameters/NNS during/IN evaluation/NN nor/CC use/NN feedback/NN from/IN higher/JJR to/IN lower/JJR layers/NNS ./.
+Real/JJ brains/NNS ,/, however/RB ,/, do/VBP ./.
+So/RB does/VBZ our/PRP$ Deep/JJ Attention/NN Selective/NNP Network/NNP (/-LRB- dasNet/NNP )/-RRB- architecture/NN ./.
+DasNets/NNP feedback/NN structure/NN can/MD dynamically/RB alter/VB its/PRP$ convolutional/JJ filter/NN sensitivities/NNS during/IN classification/NN ./.
+It/PRP harnesses/VBZ the/DT power/NN of/IN sequential/JJ processing/NN to/TO improve/VB classification/NN performance/NN ,/, by/IN allowing/VBG the/DT network/NN to/TO iteratively/RB focus/VB its/PRP$ internal/JJ attention/NN on/IN some/DT of/IN its/PRP$ convolutional/JJ filters/NNS ./.
+Feedback/NN is/VBZ trained/VBN through/IN direct/JJ policy/NN search/NN in/IN a/DT huge/JJ million/CD -/HYPH dimensional/JJ parameter/NN space/NN ,/, through/IN scalable/JJ natural/JJ evolution/NN strategies/NNS (/-LRB- SNES/NNP )/-RRB- ./.
+On/IN the/DT CIFAR/NN -/HYPH 10/CD and/CC CIFAR/NN -/HYPH 100/CD datasets/NNS ,/, dasNet/NN outperforms/VBZ the/DT previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN model/NN ./.

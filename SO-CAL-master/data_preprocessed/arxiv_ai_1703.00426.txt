@@ -1,0 +1,8 @@
+Large/JJ computer/NN -/HYPH understandable/JJ proofs/NNS consist/VBP of/IN millions/NNS of/IN intermediate/JJ logical/JJ steps/NNS ./.
+The/DT vast/JJ majority/NN of/IN such/JJ steps/NNS originate/VB from/IN manually/RB selected/VBN and/CC manually/RB guided/VBN heuristics/NNS applied/VBD to/IN intermediate/JJ goals/NNS ./.
+So/RB far/RB ,/, machine/NN learning/NN has/VBZ generally/RB not/RB been/VBN used/VBN to/TO filter/VB or/CC generate/VB these/DT steps/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT new/JJ dataset/NN based/VBN on/IN Higher/JJR -/HYPH Order/NN Logic/NN (/-LRB- HOL/NN )/-RRB- proofs/NNS ,/, for/IN the/DT purpose/NN of/IN developing/VBG new/JJ machine/NN learning/NN -/HYPH based/VBN theorem/NN -/HYPH proving/VBG strategies/NNS ./.
+We/PRP make/VBP this/DT dataset/NN publicly/RB available/JJ under/IN the/DT BSD/NNP license/NN ./.
+We/PRP propose/VBP various/JJ machine/NN learning/NN tasks/NNS that/WDT can/MD be/VB performed/VBN on/IN this/DT dataset/NN ,/, and/CC discuss/VB their/PRP$ significance/NN for/IN theorem/NN proving/NN ./.
+We/PRP also/RB benchmark/NN a/DT set/NN of/IN simple/JJ baseline/NN machine/NN learning/NN models/NNS suited/VBN for/IN the/DT tasks/NNS (/-LRB- including/VBG logistic/JJ regression/NN ,/, convolutional/JJ neural/JJ networks/NNS and/CC recurrent/JJ neural/JJ networks/NNS )/-RRB- ./.
+The/DT results/NNS of/IN our/PRP$ baseline/NN models/NNS show/VBP the/DT promise/NN of/IN applying/VBG machine/NN learning/NN to/IN HOL/NNP theorem/NN proving/VBG ./.

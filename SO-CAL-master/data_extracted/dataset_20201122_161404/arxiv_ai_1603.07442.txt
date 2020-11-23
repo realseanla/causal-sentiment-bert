@@ -1,0 +1,5 @@
+We present an image-conditional image generation model.
+The model transfers an input domain to a target domain in semantic level, and generates the target image in pixel level.
+To generate realistic target images, we employ the real/fake-discriminator in Generative Adversarial Nets, but also introduce a novel domain-discriminator to make the generated image relevant to the input image.
+We verify our model through a challenging task of generating a piece of clothing from an input image of a dressed person.
+We present a high quality clothing dataset containing the two domains, and succeed in demonstrating decent results.

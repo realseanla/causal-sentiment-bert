@@ -1,0 +1,10 @@
+Learning/VBG policies/NNS for/IN bipedal/JJ locomotion/NN can/MD be/VB difficult/JJ ,/, as/IN experiments/NNS are/VBP expensive/JJ and/CC simulation/NN does/VBZ not/RB usually/RB transfer/VB well/RB to/IN hardware/NN ./.
+To/TO counter/VB this/DT ,/, we/PRP need/VBP al/NNP -/HYPH gorithms/NNS that/WDT are/VBP sample/NN efficient/JJ and/CC inherently/RB safe/JJ ./.
+Bayesian/JJ Optimization/NN is/VBZ a/DT powerful/JJ sample/NN -/HYPH efficient/JJ tool/NN for/IN optimizing/VBG non-convex/JJ black/JJ -/HYPH box/NN functions/NNS ./.
+However/RB ,/, its/PRP$ performance/NN can/MD degrade/VB in/IN higher/JJR dimensions/NNS ./.
+We/PRP develop/VBP a/DT distance/NN metric/JJ for/IN bipedal/JJ locomotion/NN that/WDT enhances/VBZ the/DT sample/NN -/HYPH efficiency/NN of/IN Bayesian/JJ Optimization/NN and/CC use/VB it/PRP to/TO train/VB a/DT 16/CD dimensional/JJ neuromuscular/JJ model/NN for/IN planar/JJ walking/NN ./.
+This/DT distance/NN metric/JJ reflects/VBZ some/DT basic/JJ gait/NN features/NNS of/IN healthy/JJ walking/NN and/CC helps/VBZ us/PRP quickly/RB eliminate/VB a/DT majority/NN of/IN unstable/JJ controllers/NNS ./.
+With/IN our/PRP$ approach/NN we/PRP can/MD learn/VB policies/NNS for/IN walking/VBG in/IN less/JJR than/IN 100/CD trials/NNS for/IN a/DT range/NN of/IN challenging/JJ settings/NNS ./.
+In/IN simulation/NN ,/, we/PRP show/VBP results/NNS on/IN two/CD different/JJ costs/NNS and/CC on/IN various/JJ terrains/NNS including/VBG rough/JJ ground/NN and/CC ramps/NNS ,/, sloping/VBG upwards/RB and/CC downwards/RB ./.
+We/PRP also/RB perturb/VBP our/PRP$ models/NNS with/IN unknown/JJ inertial/JJ disturbances/NNS analogous/JJ with/IN differences/NNS between/IN simulation/NN and/CC hardware/NN ./.
+These/DT results/NNS are/VBP promising/VBG ,/, as/IN they/PRP indicate/VBP that/IN this/DT method/NN can/MD potentially/RB be/VB used/VBN to/TO learn/VB control/NN policies/NNS on/IN hardware/NN ./.

@@ -1,0 +1,5 @@
+Stochastic/JJ Gradient/NN Descent/NN (/-LRB- SGD/NNP )/-RRB- is/VBZ arguably/RB the/DT most/RBS popular/JJ of/IN the/DT machine/NN learning/NN methods/NNS applied/VBD to/IN training/NN deep/JJ neural/JJ networks/NNS (/-LRB- DNN/NN )/-RRB- today/NN ./.
+It/PRP has/VBZ recently/RB been/VBN demonstrated/VBN that/IN SGD/NNP can/MD be/VB statistically/RB biased/VBN so/IN that/IN certain/JJ elements/NNS of/IN the/DT training/NN set/NN are/VBP learned/VBN more/RBR rapidly/RB than/IN others/NNS ./.
+In/IN this/DT article/NN ,/, we/PRP place/VBP SGD/NNP into/IN a/DT feedback/NN loop/NN whereby/WRB the/DT probability/NN of/IN selection/NN is/VBZ proportional/JJ to/IN error/NN magnitude/NN ./.
+This/DT provides/VBZ a/DT novelty/NN -/HYPH driven/VBN oddball/JJ SGD/NN process/NN that/WDT learns/VBZ more/RBR rapidly/RB than/IN traditional/JJ SGD/NNP by/IN prioritising/VBG those/DT elements/NNS of/IN the/DT training/NN set/VBN with/IN the/DT largest/JJS novelty/NN (/-LRB- error/NN )/-RRB- ./.
+In/IN our/PRP$ DNN/NNP example/NN ,/, oddball/JJ SGD/NNP trains/NNS some/DT 50x/NN faster/RBR than/IN regular/JJ SGD/NNP ./.

@@ -1,0 +1,5 @@
+We/PRP address/VBP a/DT challenging/JJ fine/JJ -/HYPH grain/NN classification/NN problem/NN :/: recognizing/VBG a/DT font/NN style/NN from/IN an/DT image/NN of/IN text/NN ./.
+In/IN this/DT task/NN ,/, it/PRP is/VBZ very/RB easy/JJ to/TO generate/VB lots/NNS of/IN rendered/VBN font/NN examples/NNS but/CC very/RB hard/RB to/TO obtain/VB real/JJ -/HYPH world/NN labeled/VBN images/NNS ./.
+This/DT real/JJ -/HYPH to/TO -/HYPH synthetic/JJ domain/NN gap/NN caused/VBD poor/JJ generalization/NN to/IN new/JJ real/JJ data/NNS in/IN previous/JJ methods/NNS (/-LRB- Chen/NNP et/FW al./FW (/-LRB- 2014/CD )/-RRB- )/-RRB- ./.
+In/IN this/DT paper/NN ,/, we/PRP refer/VBP to/IN Convolutional/JJ Neural/JJ Networks/NNS ,/, and/CC use/VB an/DT adaptation/NN technique/NN based/VBN on/IN a/DT Stacked/VBN Convolutional/NNP Auto/NNP -/HYPH Encoder/NNP that/WDT exploits/VBZ unlabeled/JJ real/JJ -/HYPH world/NN images/NNS combined/VBN with/IN synthetic/JJ data/NNS ./.
+The/DT proposed/JJ method/NN achieves/VBZ an/DT accuracy/NN of/IN higher/JJR than/IN 80/CD percent/NN (/-LRB- top/NN -/HYPH 5/CD )/-RRB- on/IN a/DT real/JJ -/HYPH world/NN dataset/NN ./.

@@ -1,0 +1,9 @@
+Two/CD approaches/NNS for/IN graph/NN based/VBN semi-supervised/VBN learning/NN are/VBP proposed/VBN ./.
+The/DT firstapproach/NN is/VBZ based/VBN on/IN iteration/NN of/IN an/DT affine/JJ map/NN ./.
+A/DT key/JJ element/NN of/IN the/DT affine/JJ map/NN iteration/NN is/VBZ sparsematrix/JJ -/HYPH vector/NN multiplication/NN ,/, which/WDT has/VBZ several/JJ very/RB efficient/JJ parallel/JJ implementations/NNS ./.
+The/DT secondapproach/NN belongs/VBZ to/IN the/DT class/NN of/IN Markov/NNP Chain/NNP Monte/NNP Carlo/NNP (/-LRB- MCMC/NNP )/-RRB- algorithms/NNS ./.
+It/PRP is/VBZ based/VBN onsampling/RB of/IN nodes/NNS by/IN performing/VBG a/DT random/JJ walk/NN on/IN the/DT graph/NN ./.
+The/DT latter/JJ approach/NN is/VBZ distributedby/JJ its/PRP$ nature/NN and/CC can/MD be/VB easily/RB implemented/VBN on/IN several/JJ processors/NNS or/CC over/IN the/DT network/NN ./.
+Boththeoretical/NNP and/CC practical/JJ evaluations/NNS are/VBP provided/VBN ./.
+It/PRP is/VBZ found/VBN that/IN the/DT nodes/NNS are/VBP classified/VBN intotheir/NN class/NN with/IN very/RB small/JJ error/NN ./.
+The/DT sampling/NN algorithm/NN 's/POS ability/NN to/TO track/VB new/JJ incoming/JJ nodesand/NN to/IN classify/VB them/PRP is/VBZ also/RB demonstrated/VBN ./.

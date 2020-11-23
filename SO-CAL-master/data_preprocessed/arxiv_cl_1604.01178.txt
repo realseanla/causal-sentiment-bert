@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP convolutional/JJ neural/JJ networks/NNS for/IN learning/VBG an/DT optimal/JJ representation/NN of/IN question/NN and/CC answer/NN sentences/NNS ./.
+Their/PRP$ main/JJ aspect/NN is/VBZ the/DT use/NN of/IN relational/JJ information/NN given/VBN by/IN the/DT matches/NNS between/IN words/NNS from/IN the/DT two/CD members/NNS of/IN the/DT pair/NN ./.
+The/DT matches/NNS are/VBP encoded/VBN as/IN embeddings/NNS with/IN additional/JJ parameters/NNS (/-LRB- dimensions/NNS )/-RRB- ,/, which/WDT are/VBP tuned/VBN by/IN the/DT network/NN ./.
+These/DT allows/VBZ for/IN better/JJR capturing/NN interactions/NNS between/IN questions/NNS and/CC answers/NNS ,/, resulting/VBG in/IN a/DT significant/JJ boost/NN in/IN accuracy/NN ./.
+We/PRP test/VBP our/PRP$ models/NNS on/IN two/CD widely/RB used/VBN answer/NN sentence/NN selection/NN benchmarks/NNS ./.
+The/DT results/NNS clearly/RB show/VBP the/DT effectiveness/NN of/IN our/PRP$ relational/JJ information/NN ,/, which/WDT allows/VBZ our/PRP$ relatively/RB simple/JJ network/NN to/TO approach/VB the/DT state/NN of/IN the/DT art/NN ./.

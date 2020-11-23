@@ -1,0 +1,10 @@
+Recently/RB ,/, there/EX has/VBZ been/VBN a/DT lot/NN of/IN effort/NN to/TO represent/VB words/NNS in/IN continuous/JJ vector/NN spaces/NNS ./.
+Those/DT representations/NNS have/VBP been/VBN shown/VBN to/TO capture/VB both/DT semantic/JJ and/CC syntactic/JJ information/NN about/IN words/NNS ./.
+However/RB ,/, distributed/VBN representations/NNS of/IN phrases/NNS remain/VBP a/DT challenge/NN ./.
+We/PRP introduce/VBP a/DT novel/JJ model/NN that/WDT jointly/RB learns/VBZ word/NN vector/NN representations/NNS and/CC their/PRP$ summation/NN ./.
+Word/NNP representations/NNS are/VBP learnt/VBN using/VBG the/DT word/NN co-occurrence/NN statistical/JJ information/NN ./.
+To/TO embed/VB sequences/NNS of/IN words/NNS (/-LRB- i.e./FW phrases/NNS )/-RRB- with/IN different/JJ sizes/NNS into/IN a/DT common/JJ semantic/JJ space/NN ,/, we/PRP propose/VBP to/IN average/JJ word/NN vector/NN representations/NNS ./.
+In/IN contrast/NN with/IN previous/JJ methods/NNS which/WDT reported/VBD a/DT posteriori/RB some/DT compositionality/NN aspects/NNS by/IN simple/JJ summation/NN ,/, we/PRP simultaneously/RB train/VBP words/NNS to/TO sum/VB ,/, while/IN keeping/VBG the/DT maximum/JJ information/NN from/IN the/DT original/JJ vectors/NNS ./.
+We/PRP evaluate/VBP the/DT quality/NN of/IN the/DT word/NN representations/NNS on/IN several/JJ classical/JJ word/NN evaluation/NN tasks/NNS ,/, and/CC we/PRP introduce/VBP a/DT novel/JJ task/NN to/TO evaluate/VB the/DT quality/NN of/IN the/DT phrase/NN representations/NNS ./.
+While/IN our/PRP$ distributed/VBN representations/NNS compete/VBP with/IN other/JJ methods/NNS of/IN learning/VBG word/NN representations/NNS on/IN word/NN evaluations/NNS ,/, we/PRP show/VBP that/IN they/PRP give/VBP better/JJR performance/NN on/IN the/DT phrase/NN evaluation/NN ./.
+Such/JJ representations/NNS of/IN phrases/NNS could/MD be/VB interesting/JJ for/IN many/JJ tasks/NNS in/IN natural/JJ language/NN processing/NN ./.

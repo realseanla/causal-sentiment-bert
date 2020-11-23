@@ -1,0 +1,8 @@
+Implicit/JJ feedback/NN is/VBZ the/DT simplest/JJS form/NN of/IN user/NN feedback/NN that/WDT can/MD be/VB used/VBN for/IN item/NN recommendation/NN ./.
+It/PRP is/VBZ easy/JJ to/TO collect/VB and/CC domain/NN independent/JJ ./.
+However/RB ,/, there/EX is/VBZ a/DT lack/NN of/IN negative/JJ examples/NNS ./.
+Existing/VBG works/NNS circumvent/VB this/DT problem/NN by/IN making/VBG various/JJ assumptions/NNS regarding/VBG the/DT unconsumed/JJ items/NNS ,/, which/WDT fail/VBP to/TO hold/VB when/WRB the/DT user/NN did/VBD not/RB consume/VB an/DT item/NN because/IN she/PRP was/VBD unaware/JJ of/IN it/PRP ./.
+In/IN this/DT paper/NN we/PRP propose/VBP Conformative/JJ Filtering/NN (/-LRB- CoF/NN )/-RRB- as/IN a/DT novel/JJ method/NN for/IN addressing/VBG the/DT lack/NN of/IN negative/JJ examples/NNS in/IN implicit/JJ feedback/NN ./.
+The/DT motivation/NN is/VBZ that/IN if/IN there/EX is/VBZ a/DT large/JJ group/NN of/IN users/NNS who/WP share/VBP the/DT same/JJ taste/NN and/CC none/NN of/IN them/PRP consumed/VBD an/DT item/NN ,/, then/RB it/PRP is/VBZ highly/RB likely/JJ that/IN the/DT item/NN is/VBZ irrelevant/JJ to/IN this/DT taste/NN ./.
+We/PRP use/VBP Hierarchical/JJ Latent/JJ Tree/NN Analysis/NN (/-LRB- HLTA/NN )/-RRB- to/TO identify/VB taste/NN -/HYPH based/VBN user/NN groups/NNS ,/, and/CC make/VB recommendations/NNS for/IN a/DT user/NN based/VBN on/IN her/PRP$ memberships/NNS in/IN the/DT groups/NNS ./.
+Experiments/NNS on/IN real/JJ -/HYPH world/NN datasets/NNS from/IN different/JJ domains/NNS show/VBP that/IN CoF/NN has/VBZ superior/JJ performance/NN compared/VBN to/IN other/JJ baselines/NNS and/CC more/JJR than/IN 10/CD percent/NN improvement/NN in/IN Recall/NNP @/IN 5/CD and/CC Recall@10/NN is/VBZ observed/VBN ./.

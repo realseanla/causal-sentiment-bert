@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT Monte/NNP Carlo/NNP method/NN for/IN solving/VBG a/DT linear/JJ system/NN of/IN the/DT form/NN $/$ x/SYM =/SYM H/NN x/SYM b/SYM $/$ ./.
+A/DT sufficient/JJ condition/NN for/IN the/DT method/NN to/TO work/VB is/VBZ $/$ \/SYM |/NFP H/NN \/SYM |/HYPH &lt;/SYM 1/CD $/$ ,/, which/WDT greatly/RB limits/VBZ the/DT usability/NN of/IN this/DT method/NN ./.
+We/PRP improve/VBP this/DT condition/NN by/IN proposing/VBG a/DT new/JJ multi-way/NN Markov/NNP random/JJ walk/NN ,/, which/WDT is/VBZ a/DT generalization/NN of/IN the/DT standard/JJ Markov/NNP random/JJ walk/NN ./.
+Under/IN our/PRP$ new/JJ framework/NN we/PRP prove/VBP that/IN the/DT necessary/JJ and/CC sufficient/JJ condition/NN for/IN our/PRP$ method/NN to/TO work/VB is/VBZ the/DT spectral/JJ radius/NN $/$ \/SYM rho/NN (/-LRB- H/NN ^/SYM {/-LRB- }/-RRB- )/-RRB- &lt;/-LRB- 1/CD $/$ ,/, which/WDT is/VBZ a/DT weaker/JJR requirement/NN than/IN $/$ \/SYM |/NFP H/NN \/SYM |/HYPH &lt;/SYM 1/CD $/$ ./.
+In/IN addition/NN to/IN solving/VBG more/JJR problems/NNS ,/, our/PRP$ new/JJ method/NN can/MD work/VB faster/RBR than/IN the/DT standard/JJ algorithm/NN ./.
+In/IN numerical/JJ experiments/NNS on/IN both/DT synthetic/JJ and/CC real/JJ world/NN matrices/NNS ,/, we/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ new/JJ method/NN ./.

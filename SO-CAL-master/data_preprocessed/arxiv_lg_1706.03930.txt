@@ -1,0 +1,10 @@
+A/DT large/JJ amount/NN of/IN labeled/VBN data/NNS is/VBZ required/VBN for/IN supervised/JJ learning/NN ./.
+However/RB ,/, labeling/NN by/IN domain/NN experts/NNS is/VBZ expensive/JJ and/CC time/NN -/HYPH consuming/VBG ./.
+A/DT low/JJ cost/NN and/CC high/JJ efficiency/NN way/NN to/TO obtain/VB large/JJ training/NN datasets/NNS is/VBZ to/IN aggregate/JJ noisy/JJ labels/NNS collected/VBN from/IN non-professional/JJ crowds/NNS ./.
+Prior/JJ works/NNS have/VBP proposed/VBN confusion/NN matrices/NNS to/TO evaluate/VB the/DT reliability/NN of/IN workers/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP redefine/VBP the/DT structure/NN of/IN the/DT confusion/NN matrices/NNS and/CC propose/VB two/CD Bayesian/JJ Network/NN based/VBN methods/NNS which/WDT utilize/VBP item/NN difficulty/NN in/IN label/NN aggregation/NN ./.
+We/PRP assume/VBP that/IN labels/NNS are/VBP generated/VBN by/IN a/DT probability/NN distribution/NN over/IN confusion/NN matrices/NNS ,/, item/NN difficulties/NNS ,/, labels/NNS and/CC true/JJ labels/NNS ./.
+We/PRP use/VBP Markov/NNP chain/NN Monte/NNP Carlo/NNP method/NN to/TO generate/VB samples/NNS from/IN the/DT posterior/JJ distribution/NN of/IN model/NN parameters/NNS and/CC then/RB infer/VB the/DT results/NNS ./.
+To/TO avoid/VB bad/JJ local/JJ optima/NN ,/, we/PRP design/VBP a/DT method/NN to/TO preliminarily/RB predict/VB the/DT difficulty/NN of/IN each/DT item/NN and/CC initialize/VB the/DT model/NN parameters/NNS ./.
+We/PRP also/RB introduce/VBP how/WRB to/TO improve/VB the/DT scalability/NN of/IN our/PRP$ model/NN ./.
+Empirical/JJ results/NNS show/VBP that/IN our/PRP$ methods/NNS consistently/RB outperform/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

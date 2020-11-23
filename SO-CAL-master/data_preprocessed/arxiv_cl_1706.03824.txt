@@ -1,0 +1,7 @@
+Neural/JJ Machine/NN Translation/NN (/-LRB- NMT/NN )/-RRB- models/NNS usually/RB use/VBP large/JJ target/NN vocabulary/NN sizes/VBZ to/TO capture/VB most/JJS of/IN the/DT words/NNS in/IN the/DT target/NN language/NN ./.
+The/DT vocabulary/NN size/NN is/VBZ a/DT big/JJ factor/NN when/WRB decoding/VBG new/JJ sentences/NNS as/IN the/DT final/JJ softmax/JJ layer/NN normalizes/VBZ over/IN all/DT possible/JJ target/NN words/NNS ./.
+To/TO address/VB this/DT problem/NN ,/, it/PRP is/VBZ widely/RB common/JJ to/TO restrict/VB the/DT target/NN vocabulary/NN with/IN candidate/NN lists/NNS based/VBN on/IN the/DT source/NN sentence/NN ./.
+Usually/RB ,/, the/DT candidate/NN lists/NNS are/VBP a/DT combination/NN of/IN external/JJ word/NN -/HYPH to/IN -/HYPH word/NN aligner/NN ,/, phrase/NN table/NN entries/NNS or/CC most/RBS frequent/JJ words/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT simple/JJ and/CC yet/RB novel/JJ approach/NN to/TO learn/VB candidate/NN lists/NNS directly/RB from/IN the/DT attention/NN layer/NN during/IN NMT/NN training/NN ./.
+The/DT candidate/NN lists/NNS are/VBP highly/RB optimized/VBN for/IN the/DT current/JJ NMT/NN model/NN and/CC do/VBP not/RB need/VB any/DT external/JJ computation/NN of/IN the/DT candidate/NN pool/NN ./.
+We/PRP show/VBP significant/JJ decoding/NN speedup/NN compared/VBN with/IN using/VBG the/DT entire/JJ vocabulary/NN ,/, without/IN losing/VBG any/DT translation/NN quality/NN for/IN two/CD language/NN pairs/NNS ./.

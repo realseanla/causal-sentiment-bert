@@ -1,0 +1,5 @@
+We/PRP demonstrate/VBP that/IN there/EX is/VBZ significant/JJ redundancy/NN in/IN the/DT parameterization/NN of/IN several/JJ deep/JJ learning/NN models/NNS ./.
+Given/VBN only/RB a/DT few/JJ weight/NN values/NNS for/IN each/DT feature/NN it/PRP is/VBZ possible/JJ to/TO accurately/RB predict/VB the/DT remaining/VBG values/NNS ./.
+Moreover/RB ,/, we/PRP show/VBP that/IN not/RB only/RB can/MD the/DT parameter/NN values/NNS be/VB predicted/VBN ,/, but/CC many/JJ of/IN them/PRP need/MD not/RB be/VB learned/VBN at/IN all/DT ./.
+We/PRP train/VBP several/JJ different/JJ architectures/NNS by/IN learning/VBG only/RB a/DT small/JJ number/NN of/IN weights/NNS and/CC predicting/VBG the/DT rest/NN ./.
+In/IN the/DT best/JJS case/NN we/PRP are/VBP able/JJ to/TO predict/VB more/JJR than/IN 95/CD percent/NN of/IN the/DT weights/NNS of/IN a/DT network/NN without/IN any/DT drop/NN in/IN accuracy/NN ./.

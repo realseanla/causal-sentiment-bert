@@ -1,0 +1,9 @@
+The/DT problem/NN of/IN recommending/VBG tours/NNS to/IN travellers/NNS is/VBZ an/DT important/JJ and/CC broadly/RB studied/VBN area/NN ./.
+Suggested/VBN solutions/NNS include/VBP various/JJ approaches/NNS of/IN points/NNS -/HYPH of/IN -/HYPH interest/NN (/-LRB- POI/NN )/-RRB- recommendation/NN and/CC route/NN planning/NN ./.
+We/PRP consider/VBP the/DT task/NN of/IN recommending/VBG a/DT sequence/NN of/IN POIs/NNS ,/, that/IN simultaneously/RB uses/VBZ information/NN about/IN POIs/NNS and/CC routes/NNS ./.
+Our/PRP$ approach/NN unifies/VBZ the/DT treatment/NN of/IN various/JJ sources/NNS of/IN information/NN by/IN representing/VBG them/PRP as/IN features/NNS in/IN machine/NN learning/NN algorithms/NNS ,/, enabling/VBG us/PRP to/TO learn/VB from/IN past/JJ behaviour/NN ./.
+Information/NN about/RB POIs/NNS are/VBP used/VBN to/TO learn/VB a/DT POI/NN ranking/VBG model/NN that/WDT accounts/VBZ for/IN the/DT start/NN and/CC end/NN points/NNS of/IN tours/NNS ./.
+Data/NNS about/IN previous/JJ trajectories/NNS are/VBP used/VBN for/IN learning/VBG transition/NN patterns/NNS between/IN POIs/NNS that/WDT enable/VBP us/PRP to/TO recommend/VB probable/JJ routes/NNS ./.
+In/IN addition/NN ,/, a/DT probabilistic/JJ model/NN is/VBZ proposed/VBN to/TO combine/VB the/DT results/NNS of/IN POI/NN ranking/NN and/CC the/DT POI/NN to/IN POI/NN transitions/NNS ./.
+We/PRP propose/VBP a/DT new/JJ F$/NNP _/NFP 1/CD $/$ score/NN on/IN pairs/NNS of/IN POIs/NNS that/WDT capture/VBP the/DT order/NN of/IN visits/NNS ./.
+Empirical/JJ results/NNS show/VBP that/IN our/PRP$ approach/NN improves/VBZ on/IN recent/JJ methods/NNS ,/, and/CC demonstrate/VBP that/IN combining/VBG points/NNS and/CC routes/NNS enables/VBZ better/JJR trajectory/NN recommendations/NNS ./.

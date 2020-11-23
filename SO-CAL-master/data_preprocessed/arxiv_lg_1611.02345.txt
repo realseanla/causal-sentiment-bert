@@ -1,0 +1,7 @@
+Modern/JJ convolutional/JJ networks/NNS ,/, incorporating/VBG rectifiers/NNS and/CC max/NN -/HYPH pooling/VBG ,/, are/VBP neither/CC smooth/JJ nor/CC convex/JJ ./.
+Standard/JJ guarantees/NNS therefore/RB do/VBP not/RB apply/VB ./.
+Nevertheless/RB ,/, methods/NNS from/IN convex/NN optimization/NN such/JJ as/IN gradient/NN descent/NN and/CC Adam/NNP are/VBP widely/RB used/VBN as/IN building/NN blocks/NNS for/IN deep/JJ learning/NN algorithms/NNS ./.
+This/DT paper/NN provides/VBZ the/DT first/JJ convergence/NN guarantee/NN applicable/JJ to/IN modern/JJ convnets/NNS ./.
+The/DT guarantee/NN matches/VBZ a/DT lower/JJR bound/VBN for/IN convex/NN nonsmooth/JJ functions/NNS ./.
+The/DT key/JJ technical/JJ tool/NN is/VBZ the/DT neural/JJ Taylor/NNP approximation/NN --/: a/DT straightforward/JJ application/NN of/IN Taylor/NNP expansions/NNS to/IN neural/JJ networks/NNS --/: and/CC the/DT associated/VBN Taylor/NNP loss/NN ./.
+Experiments/NNS on/IN a/DT range/NN of/IN optimizers/NNS ,/, layers/NNS ,/, and/CC tasks/NNS provide/VBP evidence/NN that/IN the/DT analysis/NN accurately/RB captures/VBZ the/DT dynamics/NNS of/IN neural/JJ optimization/NN ./.

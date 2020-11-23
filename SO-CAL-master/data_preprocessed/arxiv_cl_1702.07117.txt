@@ -1,0 +1,7 @@
+Topic/NN models/NNS have/VBP been/VBN widely/RB used/VBN in/IN discovering/VBG latent/JJ topics/NNS which/WDT are/VBP shared/VBN across/IN documents/NNS in/IN text/NN mining/NN ./.
+Vector/NNP representations/NNS ,/, word/NN embeddings/NNS and/CC topic/NN embeddings/NNS ,/, map/NN words/NNS and/CC topics/NNS into/IN a/DT low/JJ -/HYPH dimensional/JJ and/CC dense/JJ real/JJ -/HYPH value/NN vector/NN space/NN ,/, which/WDT have/VBP obtained/VBN high/JJ performance/NN in/IN NLP/NN tasks/NNS ./.
+However/RB ,/, most/JJS of/IN the/DT existing/VBG models/NNS assume/VBP the/DT result/NN trained/VBN by/IN one/CD of/IN them/PRP are/VBP perfect/JJ correct/JJ and/CC used/VBN as/IN prior/JJ knowledge/NN for/IN improving/VBG the/DT other/JJ model/NN ./.
+Some/DT other/JJ models/NNS use/VBP the/DT information/NN trained/VBN from/IN external/JJ large/JJ corpus/NN to/TO help/VB improving/VBG smaller/JJR corpus/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP aim/VBP to/TO build/VB such/PDT an/DT algorithm/NN framework/NN that/WDT makes/VBZ topic/NN models/NNS and/CC vector/NN representations/NNS mutually/RB improve/VB each/DT other/JJ within/IN the/DT same/JJ corpus/NN ./.
+An/DT EM/NNP -/HYPH style/NN algorithm/NN framework/NN is/VBZ employed/VBN to/TO iteratively/RB optimize/VB both/DT topic/NN model/NN and/CC vector/NN representations/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ model/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH art/NN methods/NNS on/IN various/JJ NLP/NN tasks/NNS ./.

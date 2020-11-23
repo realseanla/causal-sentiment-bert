@@ -1,0 +1,6 @@
+This/DT paper/NN introduces/VBZ and/CC studies/VBZ a/DT declarative/JJ framework/NN for/IN updating/VBG views/NNS over/IN indefinite/JJ databases/NNS ./.
+An/DT indefinite/JJ database/NN is/VBZ a/DT database/NN with/IN null/JJ values/NNS that/WDT are/VBP represented/VBN ,/, following/VBG the/DT standard/JJ database/NN approach/NN ,/, by/IN a/DT single/JJ null/JJ constant/JJ ./.
+The/DT paper/NN formalizes/VBZ views/NNS over/IN such/JJ databases/NNS as/IN indefinite/JJ deductive/JJ databases/NNS ,/, and/CC defines/VBZ for/IN them/PRP several/JJ classes/NNS of/IN database/NN repairs/NNS that/WDT realize/VBP view/NN -/HYPH update/NN requests/NNS ./.
+Most/JJS notable/JJ is/VBZ the/DT class/NN of/IN constrained/VBN repairs/NNS ./.
+Constrained/VBN repairs/NNS change/VBP the/DT database/NN "/`` minimally/RB "/'' and/CC avoid/VB making/VBG arbitrary/JJ commitments/NNS ./.
+They/PRP narrow/VBP down/RP the/DT space/NN of/IN alternative/JJ ways/NNS to/TO fulfill/VB the/DT view/NN -/HYPH update/NN request/NN to/IN those/DT that/WDT are/VBP grounded/VBN ,/, in/IN a/DT certain/JJ strong/JJ sense/NN ,/, in/IN the/DT database/NN ,/, the/DT view/NN and/CC the/DT view/NN -/HYPH update/NN request/NN ./.

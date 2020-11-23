@@ -1,0 +1,8 @@
+We/PRP introduce/VBP a/DT novel/JJ algorithm/NN that/WDT computes/VBZ the/DT $/$ k/CD $/$ -/HYPH sparse/JJ principal/JJ component/NN of/IN a/DT positive/JJ semidefinite/NN matrix/NN $/$ A$/$ ./.
+Our/PRP$ algorithm/NN is/VBZ combinatorial/JJ and/CC operates/VBZ by/IN examining/VBG a/DT discrete/JJ set/NN of/IN special/JJ vectors/NNS lying/VBG in/IN a/DT low/JJ -/HYPH dimensional/JJ eigen/NN -/HYPH subspace/NN of/IN $/$ A$/$ ./.
+We/PRP obtain/VBP provable/JJ approximation/NN guarantees/NNS that/WDT depend/VBP on/IN the/DT spectral/JJ profile/NN of/IN the/DT matrix/NN :/: the/DT faster/RBR the/DT eigenvalue/JJ decay/NN ,/, the/DT better/JJR the/DT quality/NN of/IN our/PRP$ approximation/NN ./.
+For/IN example/NN ,/, if/IN the/DT eigenvalues/NNS of/IN $/$ A$/$ follow/VB a/DT power/NN -/HYPH law/NN decay/NN ,/, we/PRP obtain/VBP a/DT polynomial/JJ -/HYPH time/NN approximation/NN algorithm/NN for/IN any/DT desired/VBN accuracy/NN ./.
+We/PRP implement/VBP our/PRP$ algorithm/NN and/CC test/NN it/PRP on/IN multiple/JJ artificial/JJ and/CC real/JJ data/NNS sets/NNS ./.
+Due/IN to/IN a/DT feature/NN elimination/NN step/NN ,/, it/PRP is/VBZ possible/JJ to/TO perform/VB sparse/JJ PCA/NN on/IN data/NNS sets/VBZ consisting/VBG of/IN millions/NNS of/IN entries/NNS in/IN a/DT few/JJ minutes/NNS ./.
+Our/PRP$ experimental/JJ evaluation/NN shows/VBZ that/IN our/PRP$ scheme/NN is/VBZ nearly/RB optimal/JJ while/IN finding/VBG very/RB sparse/JJ vectors/NNS ./.
+We/PRP compare/VBP to/IN the/DT prior/JJ state/NN of/IN the/DT art/NN and/CC show/VBP that/IN our/PRP$ scheme/NN matches/VBZ or/CC outperforms/VBZ previous/JJ algorithms/NNS in/IN all/DT tested/VBN data/NN sets/NNS ./.

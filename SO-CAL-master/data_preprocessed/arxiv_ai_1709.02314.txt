@@ -1,0 +1,9 @@
+Much/JJ progress/NN has/VBZ been/VBN made/VBN towards/IN the/DT goal/NN of/IN developing/VBG ML/NNP systems/NNS that/WDT are/VBP able/JJ to/TO recognize/VB and/CC interpret/VB visual/JJ scenes/NNS ./.
+With/IN this/DT paper/NN ,/, we/PRP propose/VBP query/NN answering/VBG in/IN visual/JJ -/HYPH relational/JJ knowledge/NN graphs/NNS (/-LRB- KGs/NNS )/-RRB- as/IN a/DT novel/NN and/CC important/JJ reasoning/NN problem/NN ./.
+A/DT visual/JJ -/HYPH relational/JJ KG/NN is/VBZ a/DT KG/NN whose/WP$ entities/NNS are/VBP associated/VBN with/IN image/NN data/NNS ./.
+We/PRP introduce/VBP \/SYM textsc/NN {/-LRB- ImageGraph/NNP }/-RRB- ,/, a/DT publicly/RB available/JJ KG/NN with/IN 1330/CD relation/NN types/NNS ,/, 14,870/CD entities/NNS ,/, and/CC 829,931/CD images/NNS ./.
+Visual/JJ -/HYPH relational/JJ KGs/NNS naturally/RB lead/VBP to/IN several/JJ novel/JJ query/NN types/NNS treating/VBG images/NNS as/IN first/JJ -/HYPH class/NN citizens/NNS ./.
+We/PRP approach/VBP the/DT query/NN answering/VBG problems/NNS by/IN combining/VBG ideas/NNS from/IN the/DT areas/NNS of/IN KG/NN embedding/NN learning/NN and/CC deep/JJ learning/NN for/IN computer/NN vision/NN ./.
+The/DT resulting/VBG ML/NNP models/NNS can/MD answer/VB queries/NNS such/JJ as/IN \/SYM textit/FW {/-LRB- "/`` How/WRB are/VBP these/DT two/CD unseen/JJ images/NNS related/VBN to/IN each/DT other/JJ ?/. "/'' }/-RRB-
+We/PRP also/RB explore/VB a/DT novel/JJ zero/CD -/HYPH shot/NN learning/NN scenario/NN where/WRB an/DT image/NN of/IN an/DT entirely/RB new/JJ entity/NN is/VBZ linked/VBN to/IN entities/NNS of/IN an/DT existing/VBG visual/JJ -/HYPH relational/JJ KG/NN ./.
+An/DT extensive/JJ set/NN of/IN experiments/NNS shows/VBZ that/IN the/DT proposed/VBN deep/JJ neural/JJ networks/NNS are/VBP able/JJ to/TO answer/VB the/DT visual/JJ -/HYPH relational/JJ queries/NNS efficiently/RB and/CC accurately/RB ./.

@@ -1,0 +1,5 @@
+We consider the problem belief-state monitoring for the purposes of implementing a policy for a partially-observable Markov decision process (POMDP), specifically how one might approximate the belief state.
+Other schemes for belief-state approximation (e.g., based on minimixing a measures such as KL-diveregence between the true and estimated state) are not necessarily appropriate for POMDPs.
+Instead we propose a framework for analyzing value-directed approximation schemes, where approximation quality is determined by the expected error in utility rather than by the error in the belief state itself.
+We propose heuristic methods for finding good projection schemes for belief state estimation - exhibiting anytime characteristics - given a POMDP value fucntion.
+We also describe several algorithms for constructing bounds on the error in decision quality (expected utility) associated with acting in accordance with a given belief state approximation.

@@ -1,0 +1,8 @@
+We/PRP present/VBP a/DT novel/JJ hierarchical/JJ model/NN for/IN human/JJ activity/NN recognition/NN ./.
+In/IN contrast/NN to/IN approaches/NNS that/WDT successively/RB recognize/VBP actions/NNS and/CC activities/NNS ,/, our/PRP$ approach/NN jointly/RB models/NNS actions/NNS and/CC activities/NNS in/IN a/DT unified/JJ framework/NN ,/, and/CC their/PRP$ labels/NNS are/VBP simultaneously/RB predicted/VBN ./.
+The/DT model/NN is/VBZ embedded/VBN with/IN a/DT latent/JJ layer/NN that/WDT is/VBZ able/JJ to/TO capture/VB a/DT richer/JJR class/NN of/IN contextual/JJ information/NN in/IN both/DT state/NN -/HYPH state/NN and/CC observation/NN -/HYPH state/NN pairs/NNS ./.
+Although/IN loops/NNS are/VBP present/JJ in/IN the/DT model/NN ,/, the/DT model/NN has/VBZ an/DT overall/JJ linear/JJ -/HYPH chain/NN structure/NN ,/, where/WRB the/DT exact/JJ inference/NN is/VBZ tractable/JJ ./.
+Therefore/RB ,/, the/DT model/NN is/VBZ very/RB efficient/JJ in/IN both/CC inference/NN and/CC learning/NN ./.
+The/DT parameters/NNS of/IN the/DT graphical/JJ model/NN are/VBP learned/VBN with/IN a/DT Structured/VBN Support/NN Vector/NNP Machine/NNP (/-LRB- Structured/VBN -/HYPH SVM/NN )/-RRB- ./.
+A/DT data/NN -/HYPH driven/VBN approach/NN is/VBZ used/VBN to/TO initialize/VB the/DT latent/JJ variables/NNS ;/: therefore/RB ,/, no/DT manual/JJ labeling/NN for/IN the/DT latent/JJ states/NNS is/VBZ required/VBN ./.
+The/DT experimental/JJ results/NNS from/IN using/VBG two/CD benchmark/NN datasets/NNS show/VBP that/IN our/PRP$ model/NN outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approach/NN ,/, and/CC our/PRP$ model/NN is/VBZ computationally/RB more/RBR efficient/JJ ./.

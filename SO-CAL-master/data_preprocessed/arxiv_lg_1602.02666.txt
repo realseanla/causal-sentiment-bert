@@ -1,0 +1,9 @@
+Stochastic/JJ Gradient/NN Descent/NN (/-LRB- SGD/NNP )/-RRB- is/VBZ an/DT important/JJ algorithm/NN in/IN machine/NN learning/NN ./.
+With/IN constant/JJ learning/NN rates/NNS ,/, it/PRP is/VBZ a/DT stochastic/JJ process/NN that/WDT ,/, after/IN an/DT initial/JJ phase/NN of/IN convergence/NN ,/, generates/VBZ samples/NNS from/IN a/DT stationary/JJ distribution/NN ./.
+We/PRP show/VBP that/IN SGD/NNP with/IN constant/JJ rates/NNS can/MD be/VB effectively/RB used/VBN as/IN an/DT approximate/JJ posterior/JJ inference/NN algorithm/NN for/IN probabilistic/JJ modeling/NN ./.
+Specifically/RB ,/, we/PRP show/VBP how/WRB to/TO adjust/VB the/DT tuning/NN parameters/NNS of/IN SGD/NNP such/JJ as/IN to/TO match/VB the/DT resulting/VBG stationary/JJ distribution/NN to/IN the/DT posterior/JJ ./.
+This/DT analysis/NN rests/VBZ on/IN interpreting/VBG SGD/NNP as/IN a/DT continuous/JJ -/HYPH time/NN stochastic/JJ process/NN and/CC then/RB minimizing/VBG the/DT Kullback/NNP -/HYPH Leibler/NNP divergence/NN between/IN its/PRP$ stationary/JJ distribution/NN and/CC the/DT target/NN posterior/JJ ./.
+(/-LRB- This/DT is/VBZ in/IN the/DT spirit/NN of/IN variational/JJ inference/NN ./. )/-RRB-
+In/IN more/JJR detail/NN ,/, we/PRP model/VBP SGD/NNP as/IN a/DT multivariate/JJ Ornstein/NNP -/HYPH Uhlenbeck/NNP process/NN and/CC then/RB use/VB properties/NNS of/IN this/DT process/NN to/TO derive/VB the/DT optimal/JJ parameters/NNS ./.
+This/DT theoretical/JJ framework/NN also/RB connects/VBZ SGD/NNP to/IN modern/JJ scalable/JJ inference/NN algorithms/NNS ;/: we/PRP analyze/VBP the/DT recently/RB proposed/VBN stochastic/JJ gradient/NN Fisher/NNP scoring/VBG under/IN this/DT perspective/NN ./.
+We/PRP demonstrate/VBP that/IN SGD/NNP with/IN properly/RB chosen/VBN constant/JJ rates/NNS gives/VBZ a/DT new/JJ way/NN to/TO optimize/VB hyperparameters/NNS in/IN probabilistic/JJ models/NNS ./.

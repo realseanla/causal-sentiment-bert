@@ -1,0 +1,3 @@
+Bellemare/NNP et/FW al./FW (/-LRB- 2016/CD )/-RRB- introduced/VBD the/DT notion/NN of/IN a/DT pseudo-count/NN to/TO generalize/VB count/NN -/HYPH based/VBN exploration/NN to/IN non-tabular/JJ reinforcement/NN learning/NN ./.
+This/DT pseudo-count/NN is/VBZ derived/VBN from/IN a/DT density/NN model/NN which/WDT effectively/RB replaces/VBZ the/DT count/NN table/NN used/VBN in/IN the/DT tabular/JJ setting/NN ./.
+Using/VBG an/DT exploration/NN bonus/NN based/VBN on/IN this/DT pseudo-count/NN and/CC a/DT mixed/JJ Monte/NNP Carlo/NNP update/NN applied/VBD to/IN a/DT DQN/NNP agent/NN was/VBD sufficient/JJ to/TO achieve/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN the/DT Atari/NNP 2600/CD game/NN Montezuma/NNP 's/POS Revenge/NN ./.

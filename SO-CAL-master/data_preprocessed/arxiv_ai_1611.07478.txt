@@ -1,0 +1,8 @@
+Understanding/VBG why/WRB a/DT model/NN made/VBD a/DT certain/JJ prediction/NN is/VBZ crucial/JJ in/IN many/JJ data/NNS science/NN fields/NNS ./.
+Interpretable/JJ predictions/NNS engender/VBP appropriate/JJ trust/NN and/CC provide/VBP insight/NN into/IN how/WRB the/DT model/NN may/MD be/VB improved/VBN ./.
+However/RB ,/, with/IN large/JJ modern/JJ datasets/NNS the/DT best/JJS accuracy/NN is/VBZ often/RB achieved/VBN by/IN complex/JJ models/NNS even/RB experts/NNS struggle/VBP to/TO interpret/VB ,/, which/WDT creates/VBZ a/DT tension/NN between/IN accuracy/NN and/CC interpretability/NN ./.
+Recently/RB ,/, several/JJ methods/NNS have/VBP been/VBN proposed/VBN for/IN interpreting/VBG predictions/NNS from/IN complex/JJ models/NNS by/IN estimating/VBG the/DT importance/NN of/IN input/NN features/NNS ./.
+Here/RB ,/, we/PRP present/VBP how/WRB a/DT model/NN -/HYPH agnostic/JJ additive/JJ representation/NN of/IN the/DT importance/NN of/IN input/NN features/NNS unifies/VBZ current/JJ methods/NNS ./.
+This/DT representation/NN is/VBZ optimal/JJ ,/, in/IN the/DT sense/NN that/IN it/PRP is/VBZ the/DT only/RB set/VBN of/IN additive/JJ values/NNS that/WDT satisfies/VBZ important/JJ properties/NNS ./.
+We/PRP show/VBP how/WRB we/PRP can/MD leverage/VB these/DT properties/NNS to/TO create/VB novel/JJ visual/JJ explanations/NNS of/IN model/NN predictions/NNS ./.
+The/DT thread/NN of/IN unity/NN that/IN this/DT representation/NN weaves/VBZ through/IN the/DT literature/NN indicates/VBZ that/IN there/EX are/VBP common/JJ principles/NNS to/TO be/VB learned/VBN about/IN the/DT interpretation/NN of/IN model/NN predictions/NNS that/WDT apply/VBP in/IN many/JJ scenarios/NNS ./.

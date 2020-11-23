@@ -1,0 +1,10 @@
+Although/IN many/JJ anti-theft/JJ technologies/NNS are/VBP implemented/VBN ,/, auto/NN -/HYPH theft/NN is/VBZ still/RB increasing/VBG ./.
+Also/RB ,/, security/NN vulnerabilities/NNS of/IN cars/NNS can/MD be/VB used/VBN for/IN auto/NN -/HYPH theft/NN by/IN neutralizing/VBG anti-theft/JJ system/NN ./.
+This/DT keyless/JJ auto/NN -/HYPH theft/NN attack/NN will/MD be/VB increased/VBN as/IN cars/NNS adopt/VBP computerized/JJ electronic/JJ devices/NNS more/RBR ./.
+To/TO detect/VB auto/NN -/HYPH theft/NN efficiently/RB ,/, we/PRP propose/VBP the/DT driver/NN verification/NN method/NN that/WDT analyzes/VBZ driving/VBG patterns/NNS using/VBG measurements/NNS from/IN the/DT sensor/NN in/IN the/DT vehicle/NN ./.
+In/IN our/PRP$ model/NN ,/, we/PRP add/VBP mechanical/JJ features/NNS of/IN automotive/JJ parts/NNS that/WDT are/VBP excluded/VBN in/IN previous/JJ works/NNS ,/, but/CC can/MD be/VB differentiated/VBN by/IN drivers/NNS '/POS driving/VBG behaviors/NNS ./.
+We/PRP design/VBP the/DT model/NN that/WDT uses/VBZ significant/JJ features/NNS through/IN feature/NN selection/NN to/TO reduce/VB the/DT time/NN cost/NN of/IN feature/NN processing/NN and/CC improve/VB the/DT detection/NN performance/NN ./.
+Further/RB ,/, we/PRP enrich/VBP the/DT feature/NN set/VBN by/IN deriving/VBG statistical/JJ features/NNS such/JJ as/IN mean/NN ,/, median/NN ,/, and/CC standard/JJ deviation/NN ./.
+This/DT minimizes/VBZ the/DT effect/NN of/IN fluctuation/NN of/IN feature/NN values/NNS per/IN driver/NN and/CC finally/RB generates/VBZ the/DT reliable/JJ model/NN ./.
+We/PRP also/RB analyze/VB the/DT effect/NN of/IN the/DT size/NN of/IN sliding/VBG window/NN on/IN performance/NN to/TO detect/VB the/DT time/NN point/NN when/WRB the/DT detection/NN becomes/VBZ reliable/JJ and/CC to/TO inform/VB owners/NNS the/DT theft/NN event/NN as/RB soon/RB as/IN possible/JJ ./.
+We/PRP apply/VBP our/PRP$ model/NN with/IN real/JJ driving/NN and/CC show/VB the/DT contribution/NN of/IN our/PRP$ work/NN to/IN the/DT literature/NN of/IN driver/NN identification/NN ./.

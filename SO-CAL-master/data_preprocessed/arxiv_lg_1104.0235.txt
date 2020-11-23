@@ -1,0 +1,16 @@
+Supervised/VBN learning/NN is/VBZ all/RB about/IN the/DT ability/NN to/TO generalize/VB knowledge/NN ./.
+Specifically/RB ,/, the/DT goal/NN of/IN the/DT learning/NN is/VBZ to/TO train/VB a/DT classifier/NN using/VBG training/NN data/NNS ,/, in/IN such/PDT a/DT way/NN that/IN it/PRP will/MD be/VB capable/JJ of/IN classifying/VBG new/JJ unseen/JJ data/NNS correctly/RB ./.
+In/IN order/NN to/TO acheive/VB this/DT goal/NN ,/, it/PRP is/VBZ important/JJ to/TO carefully/RB design/VB the/DT learner/NN ,/, so/IN it/PRP will/MD not/RB overfit/VB the/DT training/NN data/NNS ./.
+The/DT later/RBR can/MD is/VBZ done/VBN usually/RB by/IN adding/VBG a/DT regularization/NN term/NN ./.
+The/DT statistical/JJ learning/NN theory/NN explains/VBZ the/DT success/NN of/IN this/DT method/NN by/IN claiming/VBG that/IN it/PRP restricts/VBZ the/DT complexity/NN of/IN the/DT learned/VBN model/NN ./.
+This/DT explanation/NN ,/, however/RB ,/, is/VBZ rather/RB abstract/JJ and/CC does/VBZ not/RB have/VB a/DT geometric/JJ intuition/NN ./.
+The/DT generalization/NN error/NN of/IN a/DT classifier/NN may/MD be/VB thought/VBN of/IN as/IN correlated/VBN with/IN its/PRP$ robustness/NN to/IN perturbations/NNS of/IN the/DT data/NNS :/: a/DT classifier/NN that/WDT copes/VBZ with/IN disturbance/NN is/VBZ expected/VBN to/TO generalize/VB well/RB ./.
+Indeed/RB ,/, Xu/NNP et/FW al./FW [/-LRB- 2009/CD ]/-RRB- have/VBP shown/VBN that/IN the/DT SVM/NNP formulation/NN is/VBZ equivalent/JJ to/IN a/DT robust/JJ optimization/NN (/-LRB- RO/NN )/-RRB- formulation/NN ,/, in/IN which/WDT an/DT adversary/NN displaces/VBZ the/DT training/NN and/CC testing/NN points/NNS within/IN a/DT ball/NN of/IN pre-determined/JJ radius/NN ./.
+In/IN this/DT work/NN we/PRP explore/VBP a/DT different/JJ kind/NN of/IN robustness/NN ,/, namely/RB changing/VBG each/DT data/NN point/NN with/IN a/DT Gaussian/JJ cloud/NN centered/VBN at/IN the/DT sample/NN ./.
+Loss/NN is/VBZ evaluated/VBN as/IN the/DT expectation/NN of/IN an/DT underlying/JJ loss/NN function/NN on/IN the/DT cloud/NN ./.
+This/DT setup/NN fits/VBZ the/DT fact/NN that/IN in/IN many/JJ applications/NNS ,/, the/DT data/NNS is/VBZ sampled/VBN along/IN with/IN noise/NN ./.
+We/PRP develop/VBP an/DT RO/NN framework/NN ,/, in/IN which/WDT the/DT adversary/NN chooses/VBZ the/DT covariance/NN of/IN the/DT noise/NN ./.
+In/IN our/PRP$ algorithm/NN named/VBN GURU/NNP ,/, the/DT tuning/NN parameter/NN is/VBZ a/DT spectral/JJ bound/VBN on/IN the/DT noise/NN ,/, thus/RB it/PRP can/MD be/VB estimated/VBN using/VBG physical/JJ or/CC applicative/JJ considerations/NNS ./.
+Our/PRP$ experiments/NNS show/VBP that/IN this/DT framework/NN performs/VBZ as/RB well/RB as/IN SVM/NNP and/CC even/RB slightly/RB better/JJR in/IN some/DT cases/NNS ./.
+Generalizations/NNS for/IN Mercer/NNP kernels/NNS and/CC for/IN the/DT multiclass/NN case/NN are/VBP presented/VBN as/RB well/RB ./.
+We/PRP also/RB show/VBP that/IN our/PRP$ framework/NN may/MD be/VB further/JJ generalized/VBN ,/, using/VBG the/DT technique/NN of/IN convex/NN perspective/NN functions/NNS ./.

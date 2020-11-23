@@ -1,0 +1,5 @@
+Most/JJS current/JJ very/RB low/JJ bit/NN rate/NN (/-LRB- VLBR/NN )/-RRB- speech/NN coding/VBG systems/NNS use/VBP hidden/JJ Markov/NNP model/NN (/-LRB- HMM/NN )/-RRB- based/VBN speech/NN recognition/NN //HYPH synthesis/NN techniques/NNS ./.
+This/DT allows/VBZ transmission/NN of/IN information/NN (/-LRB- such/JJ as/IN phonemes/NNS )/-RRB- segment/NN by/IN segment/NN that/WDT decreases/VBZ the/DT bit/NN rate/NN ./.
+However/RB ,/, the/DT encoder/NN based/VBN on/IN a/DT phoneme/NN speech/NN recognition/NN may/MD create/VB bursts/NNS of/IN segmental/JJ errors/NNS ./.
+Segmental/JJ errors/NNS are/VBP further/JJ propagated/VBN to/IN optional/JJ suprasegmental/NN (/-LRB- such/JJ as/IN syllable/NN )/-RRB- information/NN coding/NN ./.
+Together/RB with/IN the/DT errors/NNS of/IN voicing/VBG detection/NN in/IN pitch/NN parametrization/NN ,/, HMM/NN -/HYPH based/VBN speech/NN coding/NN creates/VBZ speech/NN discontinuities/NNS and/CC unnatural/JJ speech/NN sound/NN artefacts/NNS ./.

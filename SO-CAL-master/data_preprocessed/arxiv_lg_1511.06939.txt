@@ -1,0 +1,8 @@
+We/PRP apply/VBP recurrent/JJ neural/JJ networks/NNS (/-LRB- RNN/NN )/-RRB- on/IN a/DT new/JJ domain/NN ,/, namely/RB recommendation/NN system/NN ./.
+Real/JJ -/HYPH life/NN recommender/NN systems/NNS often/RB face/VBP the/DT problem/NN of/IN having/VBG to/TO base/VB recommendations/NNS only/RB on/IN short/JJ session/NN -/HYPH based/VBN data/NNS (/-LRB- e.g./FW a/DT small/JJ sportsware/NN website/NN )/-RRB- instead/RB of/IN long/JJ user/NN histories/NNS (/-LRB- as/IN in/IN the/DT case/NN of/IN Netflix/NNP )/-RRB- ./.
+In/IN this/DT situation/NN the/DT frequently/RB praised/VBN matrix/NN factorization/NN approaches/NNS are/VBP not/RB accurate/JJ ./.
+This/DT problem/NN is/VBZ usually/RB overcome/VBN in/IN practice/NN by/IN resorting/VBG to/IN item/NN -/HYPH to/IN -/HYPH item/NN recommendations/NNS ,/, i.e./FW recommending/VBG similar/JJ items/NNS ./.
+We/PRP argue/VBP that/IN by/IN modeling/VBG the/DT whole/JJ session/NN ,/, more/RBR accurate/JJ recommendations/NNS can/MD be/VB provided/VBN ./.
+We/PRP therefore/RB propose/VBP an/DT RNN/NN -/HYPH based/VBN approach/NN for/IN session/NN -/HYPH based/VBN recommendations/NNS ./.
+Our/PRP$ approach/NN also/RB considers/VBZ practical/JJ aspects/NNS of/IN the/DT task/NN and/CC introduces/VBZ several/JJ modifications/NNS to/IN classic/JJ RNNs/NNS such/JJ as/IN a/DT ranking/JJ loss/NN function/NN that/WDT make/VBP it/PRP more/RBR viable/JJ for/IN this/DT specific/JJ problem/NN ./.
+Experimental/JJ results/NNS on/IN two/CD data/NNS -/HYPH sets/NNS show/VBP marked/JJ improvements/NNS over/IN widely/RB used/VBN approaches/NNS ./.

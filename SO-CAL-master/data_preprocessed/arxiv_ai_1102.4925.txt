@@ -1,0 +1,5 @@
+The/DT rigorous/JJ theoretical/JJ analysis/NN of/IN the/DT algorithm/NN for/IN a/DT subclass/NN of/IN QSAT/NNP ,/, i.e./FW (/-LRB- 1/CD ,/, 2/CD )/-RRB- -/HYPH QSAT/NN ,/, has/VBZ been/VBN proposed/VBN in/IN the/DT literature/NN ./.
+(/-LRB- 1/CD ,/, 2/CD )/-RRB- -/HYPH QSAT/NN ,/, first/RB introduced/VBN in/IN SAT/NN '/'' 08/CD ,/, can/MD be/VB seen/VBN as/IN quantified/VBN extended/JJ 2/CD -/HYPH CNF/NN formulas/NNS ./.
+Until/IN now/RB ,/, within/IN our/PRP$ knowledge/NN ,/, there/EX exists/VBZ no/DT algorithm/NN presenting/VBG the/DT worst/JJS upper/JJ bound/VBN for/IN (/-LRB- 1/CD ,/, 2/CD )/-RRB- -/HYPH QSAT/NN ./.
+Therefore/RB in/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT exact/JJ algorithm/NN to/TO solve/VB (/-LRB- 1/CD ,/, 2/CD )/-RRB- -/HYPH QSAT/NN ./.
+By/IN analyzing/VBG the/DT algorithms/NNS ,/, we/PRP obtain/VBP a/DT worst/JJS -/HYPH case/NN upper/JJ bound/JJ O/NN (/-LRB- 1.4142/CD m/NN )/-RRB- ,/, where/WRB m/NN is/VBZ the/DT number/NN of/IN clauses/NNS ./.

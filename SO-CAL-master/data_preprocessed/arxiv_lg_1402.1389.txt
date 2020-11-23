@@ -1,0 +1,3 @@
+The/DT recently/RB developed/VBN Bayesian/JJ Gaussian/JJ process/NN latent/JJ variable/JJ model/NN (/-LRB- GPLVM/NNP )/-RRB- is/VBZ a/DT powerful/JJ generative/JJ model/NN for/IN discovering/VBG low/JJ dimensional/JJ embeddings/NNS in/IN linear/JJ time/NN complexity/NN ./.
+However/RB ,/, modern/JJ datasets/NNS are/VBP so/RB large/JJ that/IN even/RB linear/JJ -/HYPH time/NN models/NNS find/VBP them/PRP difficult/JJ to/TO cope/VB with/IN ./.
+We/PRP introduce/VBP a/DT novel/JJ re-parametrisation/NN of/IN variational/JJ inference/NN for/IN the/DT GPLVM/NNP and/CC sparse/JJ GP/NNP model/NN that/WDT allows/VBZ for/IN an/DT efficient/JJ distributed/VBN inference/NN algorithm/NN ./.

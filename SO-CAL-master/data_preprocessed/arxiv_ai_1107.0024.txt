@@ -1,0 +1,11 @@
+MAP/NN is/VBZ the/DT problem/NN of/IN finding/VBG a/DT most/RBS probable/JJ instantiation/NN of/IN a/DT set/NN of/IN variables/NNS given/VBN evidence/NN ./.
+MAP/NN has/VBZ always/RB been/VBN perceived/VBN to/TO be/VB significantly/RB harder/JJR than/IN the/DT related/JJ problems/NNS of/IN computing/VBG the/DT probability/NN of/IN a/DT variable/JJ instantiation/NN Pr/NN ,/, or/CC the/DT problem/NN of/IN computing/VBG the/DT most/RBS probable/JJ explanation/NN (/-LRB- MPE/NN )/-RRB- ./.
+This/DT paper/NN investigates/VBZ the/DT complexity/NN of/IN MAP/NN in/IN Bayesian/JJ networks/NNS ./.
+Specifically/RB ,/, we/PRP show/VBP that/IN MAP/NN is/VBZ complete/JJ for/IN NP/NNP ^/SYM PP/NN and/CC provide/VB further/JJ negative/JJ complexity/NN results/NNS for/IN algorithms/NNS based/VBN on/IN variable/JJ elimination/NN ./.
+We/PRP also/RB show/VBP that/IN MAP/NN remains/VBZ hard/JJ even/RB when/WRB MPE/NNP and/CC Pr/NNP become/VBP easy/JJ ./.
+For/IN example/NN ,/, we/PRP show/VBP that/IN MAP/NN is/VBZ NP/NNP -/HYPH complete/JJ when/WRB the/DT networks/NNS are/VBP restricted/VBN to/IN polytrees/NNS ,/, and/CC even/RB then/RB can/MD not/RB be/VB effectively/RB approximated/VBN ./.
+Given/VBN the/DT difficulty/NN of/IN computing/VBG MAP/NN exactly/RB ,/, and/CC the/DT difficulty/NN of/IN approximating/VBG MAP/NN while/IN providing/VBG useful/JJ guarantees/NNS on/IN the/DT resulting/VBG approximation/NN ,/, we/PRP investigate/VBP best/JJS effort/NN approximations/NNS ./.
+We/PRP introduce/VBP a/DT generic/JJ MAP/NN approximation/NN framework/NN ./.
+We/PRP provide/VBP two/CD instantiations/NNS of/IN the/DT framework/NN ;/: one/CD for/IN networks/NNS which/WDT are/VBP amenable/JJ to/IN exact/JJ inference/NN Pr/NNP ,/, and/CC one/CD for/IN networks/NNS for/IN which/WDT even/RB exact/RB inference/NN is/VBZ too/RB hard/JJ ./.
+This/DT allows/VBZ MAP/NN approximation/NN on/IN networks/NNS that/WDT are/VBP too/RB complex/JJ to/TO even/RB exactly/RB solve/VB the/DT easier/JJR problems/NNS ,/, Pr/NN and/CC MPE/NNP ./.
+Experimental/JJ results/NNS indicate/VBP that/IN using/VBG these/DT approximation/NN algorithms/NNS provides/VBZ much/RB better/JJR solutions/NNS than/IN standard/JJ techniques/NNS ,/, and/CC provide/VB accurate/JJ MAP/NN estimates/NNS in/IN many/JJ cases/NNS ./.

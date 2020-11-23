@@ -1,0 +1,5 @@
+We/PRP present/VBP an/DT extension/NN of/IN sparse/JJ coding/NN to/IN the/DT problems/NNS of/IN multitask/NN and/CC transfer/NN learning/NN ./.
+The/DT central/JJ assumption/NN of/IN the/DT method/NN is/VBZ that/IN the/DT tasks/NNS parameters/NNS are/VBP well/RB approximated/VBN by/IN sparse/JJ linear/JJ combinations/NNS of/IN the/DT atoms/NNS of/IN a/DT dictionary/NN on/RB a/DT high/JJ or/CC infinite/JJ dimensional/JJ space/NN ./.
+This/DT assumption/NN ,/, together/RB with/IN the/DT large/JJ quantity/NN of/IN available/JJ data/NNS in/IN the/DT multitask/NN and/CC transfer/NN learning/NN settings/NNS ,/, allows/VBZ a/DT principled/JJ choice/NN of/IN the/DT dictionary/NN ./.
+We/PRP provide/VBP bounds/NNS on/IN the/DT generalization/NN error/NN of/IN this/DT approach/NN ,/, for/IN both/DT settings/NNS ./.
+Preliminary/JJ experiments/NNS indicate/VBP the/DT advantage/NN of/IN the/DT sparse/JJ multitask/JJ coding/NN method/NN over/IN single/JJ task/NN learning/NN and/CC a/DT previous/JJ method/NN based/VBN on/IN orthogonal/JJ and/CC dense/JJ representation/NN of/IN the/DT tasks/NNS ./.

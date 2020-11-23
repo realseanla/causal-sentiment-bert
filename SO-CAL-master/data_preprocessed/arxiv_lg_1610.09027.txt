@@ -1,0 +1,10 @@
+Neural/JJ networks/NNS augmented/VBN with/IN external/JJ memory/NN have/VBP the/DT ability/NN to/TO learn/VB algorithmic/JJ solutions/NNS to/IN complex/JJ tasks/NNS ./.
+These/DT models/NNS appear/VBP promising/VBG for/IN applications/NNS such/JJ as/IN language/NN modeling/NN and/CC machine/NN translation/NN ./.
+However/RB ,/, they/PRP scale/VBP poorly/RB in/IN both/DT space/NN and/CC time/NN as/IN the/DT amount/NN of/IN memory/NN grows/VBZ ---/, limiting/VBG their/PRP$ applicability/NN to/IN real/JJ -/HYPH world/NN domains/NNS ./.
+Here/RB ,/, we/PRP present/VBP an/DT end/NN -/HYPH to/IN -/HYPH end/NN differentiable/JJ memory/NN access/NN scheme/NN ,/, which/WDT we/PRP call/VBP Sparse/NNP Access/NNP Memory/NNP (/-LRB- SAM/NN )/-RRB- ,/, that/WDT retains/VBZ the/DT representational/JJ power/NN of/IN the/DT original/JJ approaches/NNS whilst/IN training/NN efficiently/RB with/IN very/RB large/JJ memories/NNS ./.
+We/PRP show/VBP that/IN SAM/NN achieves/VBZ asymptotic/JJ lower/JJR bounds/NNS in/IN space/NN and/CC time/NN complexity/NN ,/, and/CC find/VB that/IN an/DT implementation/NN runs/VBZ $/$ 1/CD ,/, \/SYM !/.
+000/CD \/NN times/NNS $/$ faster/RBR and/CC with/IN $/$ 3/CD ,/, \/SYM !/.
+000/CD \/NN times/NNS $/$ less/RBR physical/JJ memory/NN than/IN non-sparse/JJ models/NNS ./.
+SAM/NN learns/VBZ with/IN comparable/JJ data/NNS efficiency/NN to/IN existing/VBG models/NNS on/IN a/DT range/NN of/IN synthetic/JJ tasks/NNS and/CC one/CD -/HYPH shot/NN Omniglot/NN character/NN recognition/NN ,/, and/CC can/MD scale/VB to/IN tasks/NNS requiring/VBG $/$ 100/CD ,/, \/SYM !/.
+000/CD $/$ s/POS of/IN time/NN steps/NNS and/CC memories/NNS ./.
+As/RB well/RB ,/, we/PRP show/VBP how/WRB our/PRP$ approach/NN can/MD be/VB adapted/VBN for/IN models/NNS that/WDT maintain/VBP temporal/JJ associations/NNS between/IN memories/NNS ,/, as/IN with/IN the/DT recently/RB introduced/VBN Differentiable/JJ Neural/JJ Computer/NN ./.

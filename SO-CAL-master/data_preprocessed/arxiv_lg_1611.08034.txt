@@ -1,0 +1,6 @@
+Recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- have/VBP shown/VBN promising/JJ performance/NN for/IN language/NN modeling/NN ./.
+However/RB ,/, traditional/JJ training/NN of/IN RNNs/NNS using/VBG back/RB -/HYPH propagation/NN through/IN time/NN often/RB suffers/VBZ from/IN overfitting/VBG ./.
+One/CD reason/NN for/IN this/DT is/VBZ that/IN stochastic/JJ optimization/NN (/-LRB- used/VBN for/IN large/JJ training/NN sets/NNS )/-RRB- does/VBZ not/RB provide/VB good/JJ estimates/NNS of/IN model/NN uncertainty/NN ./.
+This/DT paper/NN leverages/VBZ recent/JJ advances/NNS in/IN stochastic/JJ gradient/NN Markov/NNP Chain/NNP Monte/NNP Carlo/NNP (/-LRB- also/RB appropriate/JJ for/IN large/JJ training/NN sets/NNS )/-RRB- to/TO learn/VB weight/NN uncertainty/NN in/IN RNNs/NNS ./.
+It/PRP yields/VBZ a/DT principled/JJ Bayesian/JJ learning/NN algorithm/NN ,/, adding/VBG gradient/NN noise/NN during/IN training/NN (/-LRB- enhancing/VBG exploration/NN of/IN the/DT model/NN -/HYPH parameter/NN space/NN )/-RRB- and/CC model/NN averaging/NN when/WRB testing/NN ./.
+Extensive/JJ experiments/NNS on/IN various/JJ RNN/NN models/NNS and/CC across/IN a/DT broad/JJ range/NN of/IN applications/NNS demonstrate/VBP the/DT superiority/NN of/IN the/DT proposed/VBN approach/NN over/IN stochastic/JJ optimization/NN ./.

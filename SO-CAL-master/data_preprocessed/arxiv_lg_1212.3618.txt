@@ -1,0 +1,5 @@
+We/PRP present/VBP ML4PG/NNP ,/, a/DT machine/NN learning/VBG extension/NN for/IN Proof/NNP General/NNP ./.
+It/PRP allows/VBZ one/CD to/TO gather/VB proof/NN statistics/NNS related/VBN to/IN shapes/NNS of/IN goals/NNS ,/, sequences/NNS of/IN applied/VBN tactics/NNS ,/, and/CC proof/NN tree/NN structures/NNS from/IN the/DT libraries/NNS of/IN interactive/JJ higher/JJR -/HYPH order/NN proofs/NNS written/VBN in/IN Coq/NNP and/CC SSReflect/NNP ./.
+The/DT gathered/VBN data/NNS is/VBZ clustered/VBN using/VBG the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN machine/NN learning/VBG algorithms/NNS available/JJ in/IN Matlab/NNP and/CC Weka/NNP ./.
+ML4PG/NN provides/VBZ automated/VBN interfacing/NN between/IN Proof/NNP General/NNP and/CC Matlab/NNP //HYPH Weka/NNP ./.
+The/DT results/NNS of/IN clustering/NN are/VBP used/VBN by/IN ML4PG/NN to/TO provide/VB proof/JJ hints/NNS in/IN the/DT process/NN of/IN interactive/JJ proof/NN development/NN ./.

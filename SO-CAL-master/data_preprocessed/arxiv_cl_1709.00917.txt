@@ -1,0 +1,8 @@
+Supervised/VBN speech/NN separation/NN uses/VBZ supervised/JJ learning/NN algorithms/NNS to/TO learn/VB a/DT mapping/NN from/IN an/DT input/NN noisy/JJ signal/NN to/IN an/DT output/NN target/NN ./.
+With/IN the/DT fast/JJ development/NN of/IN deep/JJ learning/NN ,/, supervised/VBD separation/NN has/VBZ become/VBN the/DT most/RBS important/JJ direction/NN in/IN speech/NN separation/NN area/NN in/IN recent/JJ years/NNS ./.
+For/IN the/DT supervised/JJ algorithm/NN ,/, training/NN target/NN has/VBZ a/DT significant/JJ impact/NN on/IN the/DT performance/NN ./.
+Ideal/NNP ratio/NN mask/NN is/VBZ a/DT commonly/RB used/VBN training/NN target/NN ,/, which/WDT can/MD improve/VB the/DT speech/NN intelligibility/NN and/CC quality/NN of/IN the/DT separated/VBN speech/NN ./.
+However/RB ,/, it/PRP does/VBZ not/RB take/VB into/IN account/NN the/DT correlation/NN between/IN noise/NN and/CC clean/JJ speech/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP use/VBP the/DT optimal/JJ ratio/NN mask/NN as/IN the/DT training/NN target/NN of/IN the/DT deep/JJ neural/JJ network/NN (/-LRB- DNN/NN )/-RRB- for/IN speech/NN separation/NN ./.
+The/DT experiments/NNS are/VBP carried/VBN out/RP under/IN various/JJ noise/NN environments/NNS and/CC signal/NN to/IN noise/NN ratio/NN (/-LRB- SNR/NN )/-RRB- conditions/NNS ./.
+The/DT results/NNS show/VBP that/IN the/DT optimal/JJ ratio/NN mask/NN outperforms/VBZ other/JJ training/NN targets/NNS in/IN general/JJ ./.

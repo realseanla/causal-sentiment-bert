@@ -1,0 +1,12 @@
+Principal/NN component/NN analysis/NN (/-LRB- PCA/NN )/-RRB- has/VBZ been/VBN widely/RB applied/VBN to/IN dimensionality/NN reduction/NN and/CC data/NNS pre-processing/VBG for/IN different/JJ applications/NNS in/IN engineering/NN ,/, biology/NN and/CC social/JJ science/NN ./.
+Classical/JJ PCA/NN and/CC its/PRP$ variants/NNS seek/VBP for/IN linear/JJ projections/NNS of/IN the/DT original/JJ variables/NNS to/TO obtain/VB a/DT low/JJ dimensional/JJ feature/NN representation/NN with/IN maximal/JJ variance/NN ./.
+One/CD limitation/NN is/VBZ that/IN it/PRP is/VBZ very/RB difficult/JJ to/TO interpret/VB the/DT results/NNS of/IN PCA/NNP ./.
+In/IN addition/NN ,/, the/DT classical/JJ PCA/NN is/VBZ vulnerable/JJ to/IN certain/JJ noisy/JJ data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT convex/NN sparse/JJ principal/JJ component/NN analysis/NN (/-LRB- CSPCA/NNP )/-RRB- algorithm/NN and/CC apply/VB it/PRP to/IN feature/NN analysis/NN ./.
+First/RB we/PRP show/VBP that/IN PCA/NNP can/MD be/VB formulated/VBN as/IN a/DT low/JJ -/HYPH rank/NN regression/NN optimization/NN problem/NN ./.
+Based/VBN on/IN the/DT discussion/NN ,/, the/DT l/NN 2/CD ,/, 1/CD -/HYPH norm/NN minimization/NN is/VBZ incorporated/VBN into/IN the/DT objective/JJ function/NN to/TO make/VB the/DT regression/NN coefficients/NNS sparse/JJ ,/, thereby/RB robust/JJ to/IN the/DT outliers/NNS ./.
+In/IN addition/NN ,/, based/VBN on/IN the/DT sparse/JJ model/NN used/VBN in/IN CSPCA/NNP ,/, an/DT optimal/JJ weight/NN is/VBZ assigned/VBN to/IN each/DT of/IN the/DT original/JJ feature/NN ,/, which/WDT in/IN turn/NN provides/VBZ the/DT output/NN with/IN good/JJ interpretability/NN ./.
+With/IN the/DT output/NN of/IN our/PRP$ CSPCA/NNP ,/, we/PRP can/MD effectively/RB analyze/VB the/DT importance/NN of/IN each/DT feature/NN under/IN the/DT PCA/NN criteria/NNS ./.
+The/DT objective/JJ function/NN is/VBZ convex/NN ,/, and/CC we/PRP propose/VBP an/DT iterative/JJ algorithm/NN to/TO optimize/VB it/PRP ./.
+We/PRP apply/VBP the/DT CSPCA/NNP algorithm/NN to/IN feature/NN selection/NN and/CC conduct/NN extensive/JJ experiments/NNS on/IN six/CD different/JJ benchmark/NN datasets/NNS ./.
+Experimental/JJ results/NNS demonstrate/VBP that/IN the/DT proposed/VBN algorithm/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN unsupervised/JJ feature/NN selection/NN algorithms/NNS ./.

@@ -1,0 +1,7 @@
+For/IN classification/NN problems/NNS ,/, twin/JJ support/NN vector/NN machine/NN (/-LRB- TSVM/NN )/-RRB- with/IN nonparallel/JJ hyperplanes/NNS has/VBZ been/VBN shown/VBN to/TO be/VB more/RBR powerful/JJ than/IN support/NN vector/NN machine/NN (/-LRB- SVM/NN )/-RRB- ./.
+However/RB ,/, it/PRP is/VBZ time/NN consuming/VBG and/CC insufficient/JJ memory/NN to/TO deal/VB with/IN large/JJ scale/NN problems/NNS due/IN to/IN calculating/VBG the/DT inverse/NN of/IN matrices/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT efficient/JJ stochastic/JJ gradient/NN twin/JJ support/NN vector/NN machine/NN (/-LRB- SGTSVM/NN )/-RRB- based/VBN on/IN stochastic/JJ gradient/NN descent/NN algorithm/NN (/-LRB- SGD/NNP )/-RRB- ./.
+As/RB far/RB as/IN now/RB ,/, it/PRP is/VBZ the/DT first/JJ time/NN that/WDT SGD/NNP is/VBZ applied/VBN to/IN TSVM/NNP though/IN there/EX have/VBP been/VBN some/DT variants/NNS where/WRB SGD/NNP was/VBD applied/VBN to/IN SVM/NNP (/-LRB- SGSVM/NNP )/-RRB- ./.
+Compared/VBN with/IN SGSVM/NN ,/, our/PRP$ SGTSVM/NNP is/VBZ more/RBR stable/JJ ,/, and/CC its/PRP$ convergence/NN is/VBZ also/RB proved/VBN ./.
+In/IN addition/NN ,/, its/PRP$ simple/JJ nonlinear/JJ version/NN is/VBZ also/RB presented/VBN ./.
+Experimental/JJ results/NNS on/IN several/JJ benchmark/NN and/CC large/JJ scale/NN datasets/NNS have/VBP shown/VBN that/IN the/DT performance/NN of/IN our/PRP$ SGTSVM/NNP is/VBZ comparable/JJ to/IN the/DT current/JJ classifiers/NNS with/IN a/DT very/RB fast/JJ learning/NN speed/NN ./.

@@ -1,0 +1,6 @@
+Programming/NN by/IN Example/NNP (/-LRB- PBE/NNP )/-RRB- targets/NNS at/IN automatically/RB inferring/VBG a/DT computer/NN program/NN for/IN accomplishing/VBG a/DT certain/JJ task/NN from/IN sample/NN input/NN and/CC output/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT deep/JJ neural/JJ networks/NNS (/-LRB- DNN/NN )/-RRB- based/VBN PBE/NNP model/NN called/VBN Neural/JJ Programming/NN by/IN Example/NNP (/-LRB- NPBE/NNP )/-RRB- ,/, which/WDT can/MD learn/VB from/IN input/NN -/HYPH output/NN strings/NNS and/CC induce/VB programs/NNS that/WDT solve/VBP the/DT string/NN manipulation/NN problems/NNS ./.
+Our/PRP$ NPBE/NN model/NN has/VBZ four/CD neural/JJ network/NN based/VBN components/NNS :/: a/DT string/NN encoder/NN ,/, an/DT input/NN -/HYPH output/NN analyzer/NN ,/, a/DT program/NN generator/NN ,/, and/CC a/DT symbol/NN selector/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN NPBE/NNP by/IN training/VBG it/PRP end/VB -/HYPH to/IN -/HYPH end/NN to/IN solve/VB some/DT common/JJ string/NN manipulation/NN problems/NNS in/IN spreadsheet/NN systems/NNS ./.
+The/DT results/NNS show/VBP that/IN our/PRP$ model/NN can/MD induce/VB string/NN manipulation/NN programs/NNS effectively/RB ./.
+Our/PRP$ work/NN is/VBZ one/CD step/NN towards/IN teaching/NN DNN/NN to/TO generate/VB computer/NN programs/NNS ./.

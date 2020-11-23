@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT transition/NN -/HYPH based/VBN parser/NN that/WDT jointly/RB produces/VBZ syntactic/JJ and/CC semantic/JJ dependencies/NNS ./.
+It/PRP learns/VBZ a/DT representation/NN of/IN the/DT entire/JJ algorithm/NN state/NN ,/, using/VBG stack/NN long/RB short/JJ -/HYPH term/NN memories/NNS ./.
+Our/PRP$ greedy/JJ inference/NN algorithm/NN has/VBZ linear/JJ time/NN ,/, including/VBG feature/NN extraction/NN ./.
+On/IN the/DT CoNLL/NN 2008/CD --/: 9/CD English/NNP shared/VBD tasks/NNS ,/, we/PRP obtain/VBP the/DT best/JJS published/VBN parsing/VBG performance/NN among/IN models/NNS that/WDT jointly/RB learn/VBP syntax/NN and/CC semantics/NNS ./.

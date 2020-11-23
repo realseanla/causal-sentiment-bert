@@ -1,0 +1,16 @@
+Critical/JJ Infrastructures/NNS like/IN power/NN and/CC communication/NN networks/NNS are/VBP highly/RB interdependent/JJ on/IN each/DT other/JJ for/IN their/PRP$ full/JJ functionality/NN ./.
+Many/JJ significant/JJ research/NN have/VBP been/VBN pursued/VBN to/IN model/NN the/DT interdependency/NN and/CC failure/NN analysis/NN of/IN these/DT interdependent/JJ networks/NNS ./.
+However/RB ,/, most/JJS of/IN these/DT models/NNS fail/VBP to/TO capture/VB the/DT complex/JJ interdependencies/NNS that/WDT might/MD actually/RB exist/VB between/IN the/DT infrastructures/NNS ./.
+The/DT \/NN emph/NN {/-LRB- Implicative/NNP Interdependency/NNP Model/NNP }/-RRB- that/WDT utilizes/VBZ Boolean/NNP Logic/NNP to/TO capture/VB complex/JJ interdependencies/NNS was/VBD recently/RB proposed/VBN which/WDT overcome/VBD the/DT limitations/NNS of/IN the/DT existing/VBG models/NNS ./.
+A/DT number/NN of/IN problems/NNS were/VBD studies/NNS based/VBN on/IN this/DT model/NN ./.
+In/IN this/DT paper/NN we/PRP study/VBP the/DT \/NN textit/NN {/-LRB- Robustness/NN }/-RRB- problem/NN in/IN Interdependent/NNP Power/NNP and/CC Communication/NNP Network/NNP ./.
+The/DT robustness/NN is/VBZ defined/VBN with/IN respect/NN to/IN two/CD parameters/NNS $/$ K/CD \/SYM in/IN I/PRP ^/SYM {/-LRB- }/-RRB- \/SYM cup/NN \/SYM {/-LRB- 0/CD \/SYM }/-RRB- $/$ and/CC $/$ \/CD rho/CD \/SYM in/IN (/-LRB- 0,1/NN ]/-RRB- $/$ ./.
+We/PRP utilized/VBD the/DT \/NN emph/NN {/-LRB- Implicative/NNP Interdependency/NNP Model/NNP }/-RRB- model/NN to/TO capture/VB the/DT complex/JJ interdependency/NN between/IN the/DT two/CD networks/NNS ./.
+The/DT model/NN classifies/VBZ the/DT interdependency/NN relations/NNS into/IN four/CD cases/NNS ./.
+Computational/JJ complexity/NN of/IN the/DT problem/NN is/VBZ analyzed/VBN for/IN each/DT of/IN these/DT cases/NNS ./.
+A/DT polynomial/JJ time/NN algorithm/NN is/VBZ designed/VBN for/IN the/DT first/JJ case/NN that/IN outputs/NNS the/DT optimal/JJ solution/NN ./.
+All/PDT the/DT other/JJ cases/NNS are/VBP proved/VBN to/TO be/VB NP/NNP -/HYPH complete/JJ ./.
+An/DT in/IN -/HYPH approximability/NN bound/VBN is/VBZ provided/VBN for/IN the/DT third/JJ case/NN ./.
+For/IN the/DT general/JJ case/NN we/PRP formulate/VBP an/DT Integer/NNP Linear/NNP Program/NNP to/TO get/VB the/DT optimal/JJ solution/NN and/CC a/DT polynomial/JJ time/NN heuristic/NN ./.
+The/DT applicability/NN of/IN the/DT heuristic/NN is/VBZ evaluated/VBN using/VBG power/NN and/CC communication/NN network/NN data/NNS of/IN Maricopa/NNP County/NNP ,/, Arizona/NNP ./.
+The/DT experimental/JJ results/NNS showed/VBD that/IN the/DT heuristic/NN almost/RB always/RB produced/VBN near/IN optimal/JJ value/NN of/IN parameter/NN $/$ K$/CD for/IN $/$ \/SYM rho/NN &lt;/SYM 0.42/CD $/$ ./.

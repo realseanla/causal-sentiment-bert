@@ -1,0 +1,5 @@
+Recurrent Neural Networks architectures excel at processing sequences by modelling dependencies over different timescales.
+The recently introduced Recurrent Weighted Average (RWA) unit captures long term dependencies far better than an LSTM on several challenging tasks.
+The RWA achieves this by applying attention to each input and computing a weighted average over the full history of its computations.
+Unfortunately, the RWA cannot change the attention it has assigned to previous timesteps, and so struggles with carrying out consecutive tasks or tasks with changing requirements.
+We present the Recurrent Discounted Attention (RDA) unit that builds on the RWA by additionally allowing the discounting of the past.

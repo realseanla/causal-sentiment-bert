@@ -1,0 +1,8 @@
+Stochastic/JJ gradient/NN descent/NN (/-LRB- SGD/NNP )/-RRB- with/IN averaging/NN is/VBZ a/DT simple/JJ and/CC popular/JJ method/NN to/TO solve/VB stochastic/JJ optimization/NN problems/NNS which/WDT arise/VBP in/IN machine/NN learning/NN ./.
+For/IN strongly/RB convex/JJ problems/NNS ,/, its/PRP$ convergence/NN rate/NN was/VBD known/VBN to/TO be/VB at/IN most/RBS O/NN (/-LRB- \/SYM log/NN (/-LRB- T/NN )/-RRB- //HYPH T/NN )/-RRB- ./.
+However/RB ,/, recent/JJ results/NNS showed/VBD that/IN using/VBG a/DT different/JJ algorithm/NN ,/, one/PRP can/MD get/VB an/DT optimal/JJ O/NN (/-LRB- 1/CD //SYM T/NN )/-RRB- rate/NN ./.
+This/DT might/MD lead/VB one/CD to/TO believe/VB that/IN SGD/NNP is/VBZ suboptimal/JJ ,/, and/CC maybe/RB should/MD even/RB be/VB replaced/VBN as/IN a/DT method/NN of/IN choice/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP the/DT convergence/NN rate/NN of/IN SGD/NNP with/IN averaging/VBG in/IN a/DT stochastic/JJ setting/NN ./.
+We/PRP show/VBP that/IN for/IN smooth/JJ problems/NNS ,/, the/DT algorithm/NN attains/VBZ the/DT optimal/JJ O/NN (/-LRB- 1/CD //SYM T/NN )/-RRB- rate/NN ./.
+However/RB ,/, for/IN non-smooth/JJ problems/NNS ,/, the/DT convergence/NN rate/NN might/MD really/RB be/VB \/SYM Omega/NN (/-LRB- \/SYM log/NN (/-LRB- T/NN )/-RRB- //HYPH T/NN )/-RRB- ,/, and/CC this/DT is/VBZ not/RB just/RB an/DT artifact/NN of/IN the/DT analysis/NN ./.
+On/IN the/DT flip/JJ side/NN ,/, we/PRP show/VBP that/IN a/DT simple/JJ modification/NN of/IN the/DT averaging/NN step/NN suffices/VBZ to/TO recover/VB the/DT O/NN (/-LRB- 1/CD //SYM T/NN )/-RRB- step/NN ,/, and/CC no/DT significant/JJ change/NN of/IN the/DT algorithm/NN is/VBZ necessary/JJ ./.

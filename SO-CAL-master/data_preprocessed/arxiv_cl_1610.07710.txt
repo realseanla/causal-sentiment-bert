@@ -1,0 +1,8 @@
+Emoji/NNP are/VBP a/DT contemporary/JJ and/CC extremely/RB popular/JJ way/NN to/TO enhance/VB electronic/JJ communication/NN ./.
+Without/IN rigid/JJ semantics/NNS attached/VBN to/IN them/PRP ,/, emoji/NN symbols/NNS take/VBP on/IN different/JJ meanings/NNS based/VBN on/IN the/DT context/NN of/IN a/DT message/NN ./.
+Thus/RB ,/, like/IN the/DT word/NN sense/NN disambiguation/NN task/NN in/IN natural/JJ language/NN processing/NN ,/, machines/NNS also/RB need/VBP to/TO disambiguate/VB the/DT meaning/NN or/CC sense/NN of/IN an/DT emoji/NN ./.
+In/IN a/DT first/JJ step/NN toward/IN achieving/VBG this/DT goal/NN ,/, this/DT paper/NN presents/VBZ EmojiNet/NNP ,/, the/DT first/JJ machine/NN readable/JJ sense/NN inventory/NN for/IN emoji/NN ./.
+EmojiNet/NNP is/VBZ a/DT resource/NN enabling/VBG systems/NNS to/TO link/VB emoji/NN with/IN their/PRP$ context/NN -/HYPH specific/JJ meaning/NN ./.
+It/PRP is/VBZ automatically/RB constructed/VBN by/IN integrating/VBG multiple/JJ emoji/NN resources/NNS with/IN BabelNet/NNP ,/, which/WDT is/VBZ the/DT most/RBS comprehensive/JJ multilingual/JJ sense/NN inventory/NN available/JJ to/IN date/NN ./.
+The/DT paper/NN discusses/VBZ its/PRP$ construction/NN ,/, evaluates/VBZ the/DT automatic/JJ resource/NN creation/NN process/NN ,/, and/CC presents/VBZ a/DT use/NN case/NN where/WRB EmojiNet/NNP disambiguates/VBZ emoji/NN usage/NN in/IN tweets/NNS ./.
+EmojiNet/NNP is/VBZ available/JJ online/RB for/IN use/NN at/IN

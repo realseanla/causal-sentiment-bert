@@ -1,0 +1,8 @@
+Convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- with/IN convolutional/JJ and/CC pooling/VBG operations/NNS along/IN the/DT frequency/NN axis/NN have/VBP been/VBN proposed/VBN to/TO attain/VB invariance/NN to/IN frequency/NN shifts/NNS of/IN features/NNS ./.
+However/RB ,/, this/DT is/VBZ inappropriate/JJ with/IN regard/NN to/IN the/DT fact/NN that/IN acoustic/JJ features/NNS vary/VBP in/IN frequency/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP contend/VBP that/IN convolution/NN along/IN the/DT time/NN axis/NN is/VBZ more/RBR effective/JJ ./.
+We/PRP also/RB propose/VBP the/DT addition/NN of/IN an/DT intermap/NN pooling/VBG (/-LRB- IMP/NN )/-RRB- layer/NN to/IN deep/JJ CNNs/NNS ./.
+In/IN this/DT layer/NN ,/, filters/NNS in/IN each/DT group/NN extract/NN common/JJ but/CC spectrally/RB variant/JJ features/NNS ,/, then/RB the/DT layer/NN pools/NNS the/DT feature/NN maps/NNS of/IN each/DT group/NN ./.
+As/IN a/DT result/NN ,/, the/DT proposed/VBN IMP/NN CNN/NNP can/MD achieve/VB insensitivity/NN to/IN spectral/JJ variations/NNS characteristic/JJ of/IN different/JJ speakers/NNS and/CC utterances/NNS ./.
+The/DT effectiveness/NN of/IN the/DT IMP/NNP CNN/NNP architecture/NN is/VBZ demonstrated/VBN on/IN several/JJ LVCSR/NN tasks/NNS ./.
+Even/RB without/IN speaker/NN adaptation/NN techniques/NNS ,/, the/DT architecture/NN achieved/VBD a/DT WER/NN of/IN 12.7/CD percent/NN on/IN the/DT SWB/NNP part/NN of/IN the/DT Hub5/NN '/'' 2000/CD evaluation/NN test/NN set/VBN ,/, which/WDT is/VBZ competitive/JJ with/IN other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

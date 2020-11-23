@@ -1,0 +1,8 @@
+When/WRB combined/VBN properly/RB ,/, search/NN techniques/NNS can/MD reveal/VB the/DT full/JJ potential/NN of/IN sophisticated/JJ branching/NN heuristics/NNS ./.
+We/PRP demonstrate/VBP this/DT observation/NN on/IN the/DT well/NN -/HYPH known/VBN class/NN of/IN random/JJ 3/CD -/HYPH SAT/NN formulae/NNS ./.
+First/RB ,/, a/DT new/JJ branching/NN heuristic/NN is/VBZ presented/VBN ,/, which/WDT generalizes/VBZ existing/VBG work/NN on/IN this/DT class/NN ./.
+Much/RB smaller/JJR search/NN trees/NNS can/MD be/VB constructed/VBN by/IN using/VBG this/DT heuristic/NN ./.
+Second/RB ,/, we/PRP introduce/VBP a/DT variant/NN of/IN discrepancy/NN search/NN ,/, called/VBN ALDS/NNP ./.
+Theoretical/JJ and/CC practical/JJ evidence/NN support/NN that/WDT ALDS/NNP traverses/VBZ the/DT search/NN tree/NN in/IN a/DT near/JJ -/HYPH optimal/JJ order/NN when/WRB combined/VBN with/IN the/DT new/JJ heuristic/NN ./.
+Both/DT techniques/NNS ,/, search/NN and/CC heuristic/NN ,/, have/VBP been/VBN implemented/VBN in/IN the/DT look/NN -/HYPH ahead/NN solver/NN march/NN ./.
+The/DT SAT/NNP 2009/CD competition/NN results/NNS show/VBP that/IN march/NN is/VBZ by/IN far/RB the/DT strongest/JJS complete/JJ solver/NN on/IN random/JJ k/NN -/HYPH SAT/NN formulae/NNS ./.

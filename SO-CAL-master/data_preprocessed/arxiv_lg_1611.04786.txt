@@ -1,0 +1,6 @@
+We/PRP present/VBP AdversariaLib/NNP ,/, an/DT open/JJ -/HYPH source/NN python/NN library/NN for/IN the/DT security/NN evaluation/NN of/IN machine/NN learning/NN (/-LRB- ML/NN )/-RRB- against/IN carefully/RB -/HYPH targeted/VBN attacks/NNS ./.
+It/PRP supports/VBZ the/DT implementation/NN of/IN several/JJ attacks/NNS proposed/VBN thus/RB far/RB in/IN the/DT literature/NN of/IN adversarial/JJ learning/NN ,/, allows/VBZ for/IN the/DT evaluation/NN of/IN a/DT wide/JJ range/NN of/IN ML/NNP algorithms/NNS ,/, runs/VBZ on/IN multiple/JJ platforms/NNS ,/, and/CC has/VBZ multi-processing/JJ enabled/VBD ./.
+The/DT library/NN has/VBZ a/DT modular/JJ architecture/NN that/WDT makes/VBZ it/PRP easy/JJ to/TO use/VB and/CC to/TO extend/VB by/IN implementing/VBG novel/JJ attacks/NNS and/CC countermeasures/NNS ./.
+It/PRP relies/VBZ on/IN other/JJ widely/RB -/HYPH used/VBN open/JJ -/HYPH source/NN ML/NN libraries/NNS ,/, including/VBG scikit/NN -/HYPH learn/VB and/CC FANN/NNP ./.
+Classification/NN algorithms/NNS are/VBP implemented/VBN and/CC optimized/VBN in/IN C/NN //HYPH C/NN ,/, allowing/VBG for/IN a/DT fast/JJ evaluation/NN of/IN the/DT simulated/JJ attacks/NNS ./.
+The/DT package/NN is/VBZ distributed/VBN under/IN the/DT GNU/NNP General/NNP Public/NNP License/NN v3/NN ,/, and/CC it/PRP is/VBZ available/JJ for/IN download/NN at/IN

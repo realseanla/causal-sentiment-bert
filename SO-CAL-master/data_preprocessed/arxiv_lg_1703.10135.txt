@@ -1,0 +1,7 @@
+A/DT text/NN -/HYPH to/IN -/HYPH speech/NN synthesis/NN system/NN typically/RB consists/VBZ of/IN multiple/JJ stages/NNS ,/, such/JJ as/IN a/DT text/NN analysis/NN frontend/NN ,/, an/DT acoustic/JJ model/NN and/CC an/DT audio/JJ synthesis/NN module/NN ./.
+Building/VBG these/DT components/NNS often/RB requires/VBZ extensive/JJ domain/NN expertise/NN and/CC may/MD contain/VB brittle/JJ design/NN choices/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP Tacotron/NNP ,/, an/DT end/NN -/HYPH to/IN -/HYPH end/NN generative/JJ text/NN -/HYPH to/IN -/HYPH speech/NN model/NN that/WDT synthesizes/VBZ speech/NN directly/RB from/IN characters/NNS ./.
+Given/VBN &lt;/-LRB- text/NN ,/, audio/NN &gt;/SYM pairs/NNS ,/, the/DT model/NN can/MD be/VB trained/VBN completely/RB from/IN scratch/NN with/IN random/JJ initialization/NN ./.
+We/PRP present/VBP several/JJ key/JJ techniques/NNS to/TO make/VB the/DT sequence/NN -/HYPH to/IN -/HYPH sequence/NN framework/NN perform/VB well/RB for/IN this/DT challenging/JJ task/NN ./.
+Tacotron/NNP achieves/VBZ a/DT 3.82/CD subjective/JJ 5/CD -/HYPH scale/NN mean/JJ opinion/NN score/NN on/IN US/NNP English/NNP ,/, outperforming/VBG a/DT production/NN parametric/JJ system/NN in/IN terms/NNS of/IN naturalness/NN ./.
+In/IN addition/NN ,/, since/IN Tacotron/NNP generates/VBZ speech/NN at/IN the/DT frame/NN level/NN ,/, it/PRP 's/VBZ substantially/RB faster/JJR than/IN sample/NN -/HYPH level/NN autoregressive/JJ methods/NNS ./.

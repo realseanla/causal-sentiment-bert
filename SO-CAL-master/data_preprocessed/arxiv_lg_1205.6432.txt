@@ -1,0 +1,7 @@
+We/PRP theoretically/RB analyze/VB and/CC compare/VB the/DT following/VBG five/CD popular/JJ multiclass/NN classification/NN methods/NNS :/: One/CD vs./FW All/DT ,/, All/DT Pairs/NNS ,/, Tree/NNP -/HYPH based/VBN classifiers/NNS ,/, Error/NNP Correcting/VBG Output/NN Codes/NNPS (/-LRB- ECOC/NNP )/-RRB- with/IN randomly/RB generated/VBN code/NN matrices/NNS ,/, and/CC Multiclass/NNP SVM/NNP ./.
+In/IN the/DT first/JJ four/CD methods/NNS ,/, the/DT classification/NN is/VBZ based/VBN on/IN a/DT reduction/NN to/IN binary/JJ classification/NN ./.
+We/PRP consider/VBP the/DT case/NN where/WRB the/DT binary/JJ classifier/NN comes/VBZ from/IN a/DT class/NN of/IN VC/NNP dimension/NN $/$ d/LS $/$ ,/, and/CC in/IN particular/JJ from/IN the/DT class/NN of/IN halfspaces/NNS over/IN $/$ \/CD reals/NNS ^/SYM d/NN $/$ ./.
+We/PRP analyze/VBP both/CC the/DT estimation/NN error/NN and/CC the/DT approximation/NN error/NN of/IN these/DT methods/NNS ./.
+Our/PRP$ analysis/NN reveals/VBZ interesting/JJ conclusions/NNS of/IN practical/JJ relevance/NN ,/, regarding/VBG the/DT success/NN of/IN the/DT different/JJ approaches/NNS under/IN various/JJ conditions/NNS ./.
+Our/PRP$ proof/NN technique/NN employs/VBZ tools/NNS from/IN VC/NNP theory/NN to/TO analyze/VB the/DT \/NN emph/NN {/-LRB- approximation/NN error/NN }/-RRB- of/IN hypothesis/NN classes/NNS ./.
+This/DT is/VBZ in/IN sharp/JJ contrast/NN to/IN most/JJS ,/, if/IN not/RB all/DT ,/, previous/JJ uses/NNS of/IN VC/NNP theory/NN ,/, which/WDT only/RB deal/VBP with/IN estimation/NN error/NN ./.

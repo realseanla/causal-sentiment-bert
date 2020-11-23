@@ -1,0 +1,5 @@
+In this paper, we propose a new max-margin based discriminative feature learning method.
+Specifically, we aim at learning a low-dimensional feature representation, so as to maximize the global margin of the data and make the samples from the same class as close as possible.
+In order to enhance the robustness to noise, a $l_{2,1}$ norm constraint is introduced to make the transformation matrix in group sparsity.
+In addition, for multi-class classification tasks, we further intend to learn and leverage the correlation relationships among multiple class tasks for assisting in learning discriminative features.
+The experimental results demonstrate the power of the proposed method against the related state-of-the-art methods.

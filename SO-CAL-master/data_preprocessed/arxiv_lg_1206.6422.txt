@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT task/NN of/IN online/RB boosting/VBG --/: combining/VBG online/RB weak/JJ learners/NNS into/IN an/DT online/JJ strong/JJ learner/NN ./.
+While/IN batch/NN boosting/VBG has/VBZ a/DT sound/NN theoretical/JJ foundation/NN ,/, online/JJ boosting/VBG deserves/VBZ more/JJR study/NN from/IN the/DT theoretical/JJ perspective/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP carefully/RB compare/VBP the/DT differences/NNS between/IN online/NN and/CC batch/NN boosting/VBG ,/, and/CC propose/VB a/DT novel/NN and/CC reasonable/JJ assumption/NN for/IN the/DT online/JJ weak/JJ learner/NN ./.
+Based/VBN on/IN the/DT assumption/NN ,/, we/PRP design/VBP an/DT online/JJ boosting/VBG algorithm/NN with/IN a/DT strong/JJ theoretical/JJ guarantee/NN by/IN adapting/VBG from/IN the/DT offline/RB SmoothBoost/NNP algorithm/NN that/WDT matches/VBZ the/DT assumption/NN closely/RB ./.
+We/PRP further/RB tackle/VBP the/DT task/NN of/IN deciding/VBG the/DT number/NN of/IN weak/JJ learners/NNS using/VBG established/VBN theoretical/JJ results/NNS for/IN online/JJ convex/NN programming/NN and/CC predicting/VBG with/IN expert/NN advice/NN ./.
+Experiments/NNS on/IN real/JJ -/HYPH world/NN data/NN sets/NNS demonstrate/VBP that/IN the/DT proposed/VBN algorithm/NN compares/VBZ favorably/RB with/IN existing/VBG online/RB boosting/VBG algorithms/NNS ./.

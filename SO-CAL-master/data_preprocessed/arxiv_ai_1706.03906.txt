@@ -1,0 +1,6 @@
+Constrained/VBN counting/NN is/VBZ important/JJ in/IN domains/NNS ranging/VBG from/IN artificial/JJ intelligence/NN to/IN software/NN analysis/NN ./.
+There/EX are/VBP already/RB a/DT few/JJ approaches/NNS for/IN counting/VBG models/NNS over/IN various/JJ types/NNS of/IN constraints/NNS ./.
+Recently/RB ,/, hashing/VBG -/HYPH based/VBN approaches/NNS achieve/VBP both/DT theoretical/JJ guarantees/NNS and/CC scalability/NN ,/, but/CC still/RB rely/VBP on/IN solution/NN enumeration/NN ./.
+In/IN this/DT paper/NN ,/, a/DT new/JJ probabilistic/JJ polynomial/JJ time/NN approximate/JJ model/NN counter/NN is/VBZ proposed/VBN ,/, which/WDT is/VBZ also/RB a/DT hashing/VBG -/HYPH based/VBN universal/JJ framework/NN ,/, but/CC with/IN only/JJ satisfiability/NN queries/NNS ./.
+A/DT variant/NN with/IN a/DT dynamic/JJ stopping/VBG criterion/NN is/VBZ also/RB presented/VBN ./.
+Empirical/JJ evaluation/NN over/IN benchmarks/NNS on/IN propositional/JJ logic/NN formulas/NNS and/CC SMT/NN (/-LRB- BV/NN )/-RRB- formulas/NNS shows/VBZ that/IN the/DT approach/NN is/VBZ promising/VBG ./.

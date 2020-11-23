@@ -1,0 +1,8 @@
+Understanding/VBG open/JJ -/HYPH domain/NN text/NN is/VBZ one/CD of/IN the/DT primary/JJ challenges/NNS in/IN natural/JJ language/NN processing/NN (/-LRB- NLP/NN )/-RRB- ./.
+Machine/NN comprehension/NN benchmarks/NNS evaluate/VBP the/DT system/NN 's/POS ability/NN to/TO understand/VB text/NN based/VBN on/IN the/DT text/NN content/NN only/RB ./.
+In/IN this/DT work/NN ,/, we/PRP investigate/VBP machine/NN comprehension/NN on/IN MCTest/NNP ,/, a/DT question/NN answering/VBG (/-LRB- QA/NNP )/-RRB- benchmark/NN ./.
+Prior/JJ work/NN is/VBZ mainly/RB based/VBN on/IN feature/NN engineering/NN approaches/NNS ./.
+We/PRP come/VBP up/RP with/IN a/DT neural/JJ network/NN framework/NN ,/, named/VBN hierarchical/JJ attention/NN -/HYPH based/VBN convolutional/JJ neural/JJ network/NN (/-LRB- HABCNN/NN )/-RRB- ,/, to/TO address/VB this/DT task/NN without/IN any/DT manually/RB designed/VBN features/NNS ./.
+Specifically/RB ,/, we/PRP explore/VBP HABCNN/NNP for/IN this/DT task/NN by/IN two/CD routes/NNS ,/, one/CD is/VBZ through/IN traditional/JJ joint/JJ modeling/NN of/IN passage/NN ,/, question/NN and/CC answer/NN ,/, one/CD is/VBZ through/IN textual/JJ entailment/NN ./.
+HABCNN/NNP employs/VBZ an/DT attention/NN mechanism/NN to/TO detect/VB key/JJ phrases/NNS ,/, key/JJ sentences/NNS and/CC key/JJ snippets/NNS that/WDT are/VBP relevant/JJ to/IN answering/VBG the/DT question/NN ./.
+Experiments/NNS show/VBP that/IN HABCNN/NNP outperforms/VBZ prior/JJ deep/JJ learning/NN approaches/NNS by/IN a/DT big/JJ margin/NN ./.

@@ -1,0 +1,6 @@
+Bayesian/JJ matrix/NN completion/NN has/VBZ been/VBN studied/VBN based/VBN on/IN a/DT low/JJ -/HYPH rank/NN matrix/NN factorization/NN formulation/NN with/IN promising/JJ results/NNS ./.
+However/RB ,/, little/JJ work/NN has/VBZ been/VBN done/VBN on/IN Bayesian/JJ matrix/NN completion/NN based/VBN on/IN the/DT more/RBR direct/JJ spectral/JJ regularization/NN formulation/NN ./.
+We/PRP fill/VBP this/DT gap/NN by/IN presenting/VBG a/DT novel/JJ Bayesian/JJ matrix/NN completion/NN method/NN based/VBN on/IN spectral/JJ regularization/NN ./.
+In/IN order/NN to/TO circumvent/VB the/DT difficulties/NNS of/IN dealing/VBG with/IN the/DT orthonormality/NN constraints/NNS of/IN singular/JJ vectors/NNS ,/, we/PRP derive/VBP a/DT new/JJ equivalent/JJ form/NN with/IN relaxed/JJ constraints/NNS ,/, which/WDT then/RB leads/VBZ us/PRP to/TO design/VB an/DT adaptive/JJ version/NN of/IN spectral/JJ regularization/NN feasible/JJ for/IN Bayesian/JJ inference/NN ./.
+Our/PRP$ Bayesian/JJ method/NN requires/VBZ no/DT parameter/NN tuning/NN and/CC can/MD infer/VB the/DT number/NN of/IN latent/JJ factors/NNS automatically/RB ./.
+Experiments/NNS on/IN synthetic/JJ and/CC real/JJ datasets/NNS demonstrate/VBP encouraging/JJ results/NNS on/IN rank/NN recovery/NN and/CC collaborative/JJ filtering/NN ,/, with/IN notably/RB good/JJ results/NNS for/IN very/RB sparse/JJ matrices/NNS ./.

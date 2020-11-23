@@ -1,0 +1,6 @@
+People speak at different levels of specificity in different situations.
+Depending on their knowledge, interlocutors, mood, etc.}
+A conversational agent should have this ability and know when to be specific and when to be general.
+We propose an approach that gives a neural network--based conversational agent this ability.
+Our approach involves alternating between \emph{data distillation} and model training : removing training examples that are closest to the responses most commonly produced by the model trained from the last round and then retrain the model on the remaining dataset.
+Dialogue generation models trained with different degrees of data distillation manifest different levels of specificity.

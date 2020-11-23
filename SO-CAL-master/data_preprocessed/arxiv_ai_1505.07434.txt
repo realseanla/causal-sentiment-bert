@@ -1,0 +1,8 @@
+Task/NNP allocation/NN problems/NNS have/VBP traditionally/RB focused/VBN on/IN cost/NN optimization/NN ./.
+However/RB ,/, more/JJR and/CC more/JJR attention/NN is/VBZ being/VBG given/VBN to/IN cases/NNS in/IN which/WDT cost/NN should/MD not/RB always/RB be/VB the/DT sole/JJ or/CC major/JJ consideration/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP a/DT fair/JJ task/NN allocation/NN problem/NN where/WRB an/DT optimal/JJ allocation/NN not/RB only/RB has/VBZ low/JJ cost/NN but/CC more/RBR importantly/RB ,/, it/PRP is/VBZ max/NN -/HYPH lexmin/NN fair/JJ to/IN all/DT participants/NNS ./.
+To/TO tackle/VB this/DT max/NN -/HYPH lexmin/NN fair/JJ minimum/JJ cost/NN allocation/NN problem/NN ,/, we/PRP analyze/VBP and/CC solve/VB it/PRP in/IN two/CD parts/NNS ./.
+We/PRP first/RB aim/VBP to/TO determine/VB the/DT maximum/JJ number/NN of/IN jobs/NNS that/WDT can/MD be/VB feasibly/RB done/VBN and/CC the/DT fairest/JJS distribution/NN thereof/RB ./.
+Since/IN there/EX may/MD be/VB many/JJ allocations/NNS that/WDT are/VBP considered/VBN equally/RB fair/JJ ,/, we/PRP then/RB find/VBP the/DT allocation/NN with/IN the/DT minimum/JJ costs/NNS ./.
+We/PRP propose/VBP two/CD novel/JJ polynomial/JJ -/HYPH time/NN algorithms/NNS that/WDT make/VBP use/NN of/IN the/DT network/NN flow/NN structure/NN of/IN the/DT problem/NN to/TO obtain/VB the/DT optimal/JJ solution/NN ./.
+Furthermore/RB ,/, we/PRP conduct/VBP extensive/JJ experiments/NNS to/TO investigate/VB the/DT trade/NN -/HYPH off/NN between/IN cost/NN minimization/NN and/CC fairness/NN ./.

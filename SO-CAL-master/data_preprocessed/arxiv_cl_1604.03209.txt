@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT new/JJ approach/NN for/IN disfluency/NN detection/NN using/VBG a/DT Bidirectional/JJ Long/JJ -/HYPH Short/JJ Term/NN Memory/NN neural/JJ network/NN (/-LRB- BLSTM/NN )/-RRB- ./.
+In/IN addition/NN to/IN the/DT word/NN sequence/NN ,/, the/DT model/NN takes/VBZ as/RB input/JJ pattern/NN match/NN features/NNS that/WDT were/VBD developed/VBN to/TO reduce/VB sensitivity/NN to/IN vocabulary/NN size/NN in/IN training/NN ,/, which/WDT lead/VBP to/IN improved/VBN performance/NN over/IN the/DT word/NN sequence/NN alone/RB ./.
+The/DT BLSTM/NN takes/VBZ advantage/NN of/IN explicit/JJ repair/NN states/NNS in/IN addition/NN to/IN the/DT standard/JJ reparandum/NN states/NNS ./.
+The/DT final/JJ output/NN leverages/VBZ integer/NN linear/JJ programming/NN to/TO incorporate/VB constraints/NNS of/IN disfluency/NN structure/NN ./.
+In/IN experiments/NNS on/IN the/DT Switchboard/NN corpus/NN ,/, the/DT model/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN for/IN both/CC the/DT standard/JJ disfluency/NN detection/NN task/NN and/CC the/DT correction/NN detection/NN task/NN ./.
+Analysis/NN shows/VBZ that/IN the/DT model/NN has/VBZ better/JJR detection/NN of/IN non-repetition/JJ disfluencies/NNS ,/, which/WDT tend/VBP to/TO be/VB much/RB harder/JJR to/TO detect/VB ./.

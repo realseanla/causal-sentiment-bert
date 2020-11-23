@@ -1,0 +1,8 @@
+Square grids are commonly used in robotics and game development to model an agent's environment, and well known in Artificial Intelligence heuristic search algorithms (A*, JPS, Theta* etc.)
+are utilized for grid path planning.
+A lot of research in this area has been focused so far on finding the shortest paths while in many applications producing smooth paths is preferable.
+In our work, we study the problem of generating smooth grid paths and concentrate on angle constrained path planning.
+We put angle constrained path planning problem formally and present a new algorithm of solving it - LIAN.
+We examine LIAN both theoretically and empirically.
+On the theoretical side, we prove that LIAN is sound and complete (under well-defined restrictions).
+On the experimental side, we show that LIAN significantly outperforms competitors in ability to find solutions under tough resource constraints and in computational efficiency.

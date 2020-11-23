@@ -1,0 +1,6 @@
+This paper describes an architecture that combines the complementary strengths of probabilistic graphical models and declarative programming to enable robots to represent and reason with qualitative and quantitative descriptions of uncertainty and domain knowledge.
+The architecture comprises three components: a controller, a logician and an executor.
+The logician uses a coarse-resolution, qualitative model of the world and logical reasoning to plan a sequence of abstract actions for an assigned goal.
+For each abstract action to be executed, the executor uses probabilistic information at finer granularity and probabilistic algorithms to execute a sequence of concrete actions, and to report observations of the environment.
+The controller dispatches goals and relevant information to the logician and executor, collects and processes information from these components, refines the coarse-resolution description to obtain the probabilistic information at finer granularity for each abstract action, and computes the policy for executing the abstract action using probabilistic algorithms.
+The architecture is evaluated in simulation and on a mobile robot moving objects in an indoor domain, to show that it supports reasoning with violation of defaults, noisy observations and unreliable actions, in complex domains.

@@ -1,0 +1,4 @@
+Backward/JJ simulation/NN is/VBZ an/DT approximate/JJ inference/NN technique/NN for/IN Bayesian/JJ belief/NN networks/NNS ./.
+It/PRP differs/VBZ from/IN existing/VBG simulation/NN methods/NNS in/IN that/IN it/PRP starts/VBZ simulation/NN from/IN the/DT known/JJ evidence/NN and/CC works/VBZ backward/JJ (/-LRB- i.e./FW ,/, contrary/JJ to/IN the/DT direction/NN of/IN the/DT arcs/NNS )/-RRB- ./.
+The/DT technique/NN 's/POS focus/NN on/IN the/DT evidence/NN leads/VBZ to/IN improved/VBN convergence/NN in/IN situations/NNS where/WRB the/DT posterior/JJ beliefs/NNS are/VBP dominated/VBN by/IN the/DT evidence/NN rather/RB than/IN by/IN the/DT prior/JJ probabilities/NNS ./.
+Since/IN this/DT class/NN of/IN situations/NNS is/VBZ large/JJ ,/, the/DT technique/NN may/MD make/VB practical/JJ the/DT application/NN of/IN approximate/JJ inference/NN in/IN Bayesian/JJ belief/NN networks/NNS to/IN many/JJ real/JJ -/HYPH world/NN problems/NNS ./.

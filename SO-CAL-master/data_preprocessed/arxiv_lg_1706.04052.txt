@@ -1,0 +1,14 @@
+Monte/NNP Carlo/NNP tree/NN search/NN (/-LRB- MCTS/NNP )/-RRB- is/VBZ extremely/RB popular/JJ in/IN computer/NN Go/VB which/WDT determines/VBZ each/DT action/NN by/IN enormous/JJ simulations/NNS in/IN a/DT broad/JJ and/CC deep/JJ search/NN tree/NN ./.
+However/RB ,/, human/JJ experts/NNS select/VB most/JJS actions/NNS by/IN pattern/NN analysis/NN and/CC careful/JJ evaluation/NN rather/RB than/IN brute/JJ search/NN of/IN millions/NNS of/IN future/JJ nteractions/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT computer/NN Go/VB system/NN that/WDT follows/VBZ experts/NNS way/NN of/IN thinking/NN and/CC playing/NN ./.
+Our/PRP$ system/NN consists/VBZ of/IN two/CD parts/NNS ./.
+The/DT first/JJ part/NN is/VBZ a/DT novel/JJ deep/JJ alternative/NN neural/JJ network/NN (/-LRB- DANN/NN )/-RRB- used/VBN to/TO generate/VB candidates/NNS of/IN next/JJ move/NN ./.
+Compared/VBN with/IN existing/VBG deep/JJ convolutional/JJ neural/JJ network/NN (/-LRB- DCNN/NNP )/-RRB- ,/, DANN/NNP inserts/NNS recurrent/JJ layer/NN after/IN each/DT convolutional/JJ layer/NN and/CC stacks/NNS them/PRP in/IN an/DT alternative/JJ manner/NN ./.
+We/PRP show/VBP such/JJ setting/NN can/MD preserve/VB more/JJR contexts/NNS of/IN local/JJ features/NNS and/CC its/PRP$ evolutions/NNS which/WDT are/VBP beneficial/JJ for/IN move/NN prediction/NN ./.
+The/DT second/JJ part/NN is/VBZ a/DT long/JJ -/HYPH term/NN evaluation/NN (/-LRB- LTE/NN )/-RRB- module/NN used/VBN to/TO provide/VB a/DT reliable/JJ evaluation/NN of/IN candidates/NNS rather/RB than/IN a/DT single/JJ probability/NN from/IN move/NN predictor/NN ./.
+This/DT is/VBZ consistent/JJ with/IN human/JJ experts/NNS nature/NN of/IN playing/VBG since/IN they/PRP can/MD foresee/VB tens/NNS of/IN steps/NNS to/TO give/VB an/DT accurate/JJ estimation/NN of/IN candidates/NNS ./.
+In/IN our/PRP$ system/NN ,/, for/IN each/DT candidate/NN ,/, LTE/NNP calculates/VBZ a/DT cumulative/JJ reward/NN after/IN several/JJ future/JJ interactions/NNS when/WRB local/JJ variations/NNS are/VBP settled/VBN ./.
+Combining/VBG criteria/NNS from/IN the/DT two/CD parts/NNS ,/, our/PRP$ system/NN determines/VBZ the/DT optimal/JJ choice/NN of/IN next/JJ move/NN ./.
+For/IN more/JJR comprehensive/JJ experiments/NNS ,/, we/PRP introduce/VBP a/DT new/JJ professional/JJ Go/VB dataset/NN (/-LRB- PGD/NN )/-RRB- ,/, consisting/VBG of/IN 253233/CD professional/JJ records/NNS ./.
+Experiments/NNS on/IN GoGoD/NNP and/CC PGD/NNP datasets/NNS show/VBP the/DT DANN/NNP can/MD substantially/RB improve/VB performance/NN of/IN move/NN prediction/NN over/IN pure/JJ DCNN/NNP ./.
+When/WRB combining/VBG LTE/NNP ,/, our/PRP$ system/NN outperforms/VBZ most/RBS relevant/JJ approaches/NNS and/CC open/JJ engines/NNS based/VBN on/IN MCTS/NNP ./.

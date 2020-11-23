@@ -1,0 +1,6 @@
+ROUGE/NN is/VBZ a/DT widely/RB adopted/VBN ,/, automatic/JJ evaluation/NN measure/NN for/IN text/NN summarization/NN ./.
+While/IN it/PRP has/VBZ been/VBN shown/VBN to/TO correlate/VB well/RB with/IN human/JJ judgements/NNS ,/, it/PRP is/VBZ biased/JJ towards/IN surface/NN lexical/JJ similarities/NNS ./.
+This/DT makes/VBZ it/PRP unsuitable/JJ for/IN the/DT evaluation/NN of/IN abstractive/JJ summarization/NN ,/, or/CC summaries/NNS with/IN substantial/JJ paraphrasing/NN ./.
+We/PRP study/VBP the/DT effectiveness/NN of/IN word/NN embeddings/NNS to/TO overcome/VB this/DT disadvantage/NN of/IN ROUGE/NN ./.
+Specifically/RB ,/, instead/RB of/IN measuring/VBG lexical/JJ overlaps/VBZ ,/, word/NN embeddings/NNS are/VBP used/VBN to/TO compute/VB the/DT semantic/JJ similarity/NN of/IN the/DT words/NNS used/VBN in/IN summaries/NNS instead/RB ./.
+Our/PRP$ experimental/JJ results/NNS show/VBP that/IN our/PRP$ proposal/NN is/VBZ able/JJ to/TO achieve/VB better/JJR correlations/NNS with/IN human/JJ judgements/NNS when/WRB measured/VBN with/IN the/DT Spearman/NNP and/CC Kendall/NNP rank/NN coefficients/NNS ./.

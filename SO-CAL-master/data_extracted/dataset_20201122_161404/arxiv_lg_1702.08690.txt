@@ -1,0 +1,7 @@
+Deep neural networks require a large amount of labeled training data during supervised learning.
+However, collecting and labeling so much data might be infeasible in many cases.
+In this paper, we introduce a source-target selective joint fine-tuning scheme for improving the performance of deep learning tasks with insufficient training data.
+In this scheme, a target learning task with insufficient training data is carried out simultaneously with another source learning task with abundant training data.
+However, the source learning task does not use all existing training data.
+Our core idea is to identify and use a subset of training images from the original source learning task whose low-level characteristics are similar to those from the target learning task, and jointly fine-tune shared convolutional layers for both tasks.
+Specifically, we compute descriptors from linear or nonlinear filter bank responses on training images from both tasks, and use such descriptors to search for a desired subset of training samples for the source learning task.

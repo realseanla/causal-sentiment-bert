@@ -1,0 +1,10 @@
+One/CD of/IN the/DT important/JJ factors/NNS that/WDT affects/VBZ the/DT performance/NN of/IN Cross/NNP Language/NNP Information/NNP Retrieval/NNP (/-LRB- CLIR/NNP )/-RRB- is/VBZ the/DT quality/NN of/IN translations/NNS being/VBG employed/VBN in/IN CLIR/NNP ./.
+In/IN order/NN to/TO improve/VB the/DT quality/NN of/IN translations/NNS ,/, it/PRP is/VBZ important/JJ to/TO exploit/VB available/JJ resources/NNS efficiently/RB ./.
+Employing/VBG different/JJ translation/NN resources/NNS with/IN different/JJ characteristics/NNS has/VBZ many/JJ challenges/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT method/NN for/IN exploiting/VBG available/JJ translation/NN resources/NNS simultaneously/RB ./.
+This/DT method/NN employs/VBZ Learning/VBG to/IN Rank/NNP (/-LRB- LTR/NN )/-RRB- for/IN exploiting/VBG different/JJ translation/NN resources/NNS ./.
+To/TO apply/VB LTR/NN methods/NNS for/IN query/NN translation/NN ,/, we/PRP define/VBP different/JJ translation/NN relation/NN based/VBN features/NNS in/IN addition/NN to/IN context/NN based/VBN features/NNS ./.
+We/PRP use/VBP the/DT contextual/JJ information/NN contained/VBN in/IN translation/NN resources/NNS for/IN extracting/VBG context/NN based/VBN features.The/NNP proposed/VBD method/NN uses/VBZ LTR/NN to/TO construct/VB a/DT translation/NN ranking/VBG model/NN based/VBN on/IN defined/VBN features/NNS ./.
+The/DT constructed/VBN model/NN is/VBZ used/VBN for/IN ranking/VBG translation/NN candidates/NNS of/IN query/NN words/NNS ./.
+To/TO evaluate/VB the/DT proposed/JJ method/NN we/PRP do/VBP English/NNP -/HYPH Persian/NNP CLIR/NNP ,/, in/IN which/WDT we/PRP employ/VBP the/DT translation/NN ranking/VBG model/NN to/TO find/VB translations/NNS of/IN English/NNP queries/NNS and/CC employ/VB the/DT translations/NNS to/TO retrieve/VB Persian/JJ documents/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ approach/NN significantly/RB outperforms/VBZ single/JJ resource/NN based/VBN CLIR/NNP methods/NNS ./.

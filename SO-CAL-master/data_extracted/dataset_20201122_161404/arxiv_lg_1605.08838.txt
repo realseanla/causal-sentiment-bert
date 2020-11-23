@@ -1,0 +1,5 @@
+We consider online content recommendation with implicit feedback through pairwise comparisons.
+We study a new formulation of the dueling bandit problems in which arms are dependent and regret occurs when neither pulled arm is optimal.
+We propose a new algorithm, Comparing The Best (CTB), with computational requirements appropriate for problems with few arms, and a variation of this algorithm whose computation scales to problems with many arms.
+We show both algorithms have constant expected cumulative regret.
+We demonstrate through numerical experiments on simulated and real dataset that these algorithms improve significantly over existing algorithms in the setting we study.

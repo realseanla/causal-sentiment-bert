@@ -1,0 +1,5 @@
+Hyperspectral signature classification is a quantitative analysis approach for hyperspectral imagery which performs detection and classification of the constituent materials at the pixel level in the scene.
+The classification procedure can be operated directly on hyperspectral data or performed by using some features extracted from the corresponding hyperspectral signatures containing information like the signature's energy or shape.
+In this paper, we describe a technique that applies non-homogeneous hidden Markov chain (NHMC) models to hyperspectral signature classification.
+The basic idea is to use statistical models (such as NHMC) to characterize wavelet coefficients which capture the spectrum semantics (i.e., structural information) at multiple levels.
+Experimental results show that the approach based on NHMC models can outperform existing approaches relevant in classification tasks.

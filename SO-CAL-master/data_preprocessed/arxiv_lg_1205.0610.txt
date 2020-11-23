@@ -1,0 +1,9 @@
+Multiple/JJ instance/NN learning/NN (/-LRB- MIL/NN )/-RRB- has/VBZ attracted/VBN great/JJ attention/NN recently/RB in/IN machine/NN learning/NN community/NN ./.
+However/RB ,/, most/JJS MIL/NN algorithms/NNS are/VBP very/RB slow/JJ and/CC can/MD not/RB be/VB applied/VBN to/IN large/JJ datasets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT greedy/JJ strategy/NN to/TO speed/VB up/RP the/DT multiple/JJ instance/NN learning/NN process/NN ./.
+Our/PRP$ contribution/NN is/VBZ two/CD fold/VB ./.
+First/RB ,/, we/PRP propose/VBP a/DT density/NN ratio/NN model/NN ,/, and/CC show/VBP that/IN maximizing/VBG a/DT density/NN ratio/NN function/NN is/VBZ the/DT low/JJ bound/VBN of/IN the/DT DD/NNP model/NN under/IN certain/JJ conditions/NNS ./.
+Secondly/RB ,/, we/PRP make/VBP use/NN of/IN a/DT histogram/NN ratio/NN between/IN positive/JJ bags/NNS and/CC negative/JJ bags/NNS to/TO represent/VB the/DT density/NN ratio/NN function/NN and/CC find/VB codebooks/NNS separately/RB for/IN positive/JJ bags/NNS and/CC negative/JJ bags/NNS by/IN a/DT greedy/JJ strategy/NN ./.
+For/IN testing/NN ,/, we/PRP make/VBP use/NN of/IN a/DT nearest/JJS neighbor/NN strategy/NN to/IN classify/VB new/JJ bags/NNS ./.
+We/PRP test/VBP our/PRP$ method/NN on/IN both/DT small/JJ benchmark/NN datasets/NNS and/CC the/DT large/JJ TRECVID/NN MED11/NN dataset/NN ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN our/PRP$ method/NN yields/NNS comparable/JJ accuracy/NN to/IN the/DT current/JJ state/NN of/IN the/DT art/NN ,/, while/IN being/VBG up/RP to/IN at/RB least/RBS one/CD order/NN of/IN magnitude/NN faster/RBR ./.

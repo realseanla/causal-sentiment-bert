@@ -1,0 +1,6 @@
+Neural/JJ network/NN architectures/NNS with/IN memory/NN and/CC attention/NN mechanisms/NNS exhibit/VBP certain/JJ reasoning/NN capabilities/NNS required/VBN for/IN question/NN answering/NN ./.
+One/CD such/JJ architecture/NN ,/, the/DT dynamic/JJ memory/NN network/NN (/-LRB- DMN/NN )/-RRB- ,/, obtained/VBN high/JJ accuracy/NN on/IN a/DT variety/NN of/IN language/NN tasks/NNS ./.
+However/RB ,/, it/PRP was/VBD not/RB shown/VBN whether/IN the/DT architecture/NN achieves/VBZ strong/JJ results/NNS for/IN question/NN answering/NN when/WRB supporting/VBG facts/NNS are/VBP not/RB marked/VBN during/IN training/NN or/CC whether/IN it/PRP could/MD be/VB applied/VBN to/IN other/JJ modalities/NNS such/JJ as/IN images/NNS ./.
+Based/VBN on/IN an/DT analysis/NN of/IN the/DT DMN/NNP ,/, we/PRP propose/VBP several/JJ improvements/NNS to/IN its/PRP$ memory/NN and/CC input/NN modules/NNS ./.
+Together/RB with/IN these/DT changes/NNS we/PRP introduce/VBP a/DT novel/JJ input/NN module/NN for/IN images/NNS in/IN order/NN to/TO be/VB able/JJ to/TO answer/VB visual/JJ questions/NNS ./.
+Our/PRP$ new/JJ DMN/NNP model/NN improves/VBZ the/DT state/NN of/IN the/DT art/NN on/IN both/CC the/DT Visual/JJ Question/NN Answering/VBG dataset/NN and/CC the/DT \/NN babi/NN -/HYPH 10k/NN text/NN question/NN -/HYPH answering/VBG dataset/NN without/IN supporting/VBG fact/NN supervision/NN ./.

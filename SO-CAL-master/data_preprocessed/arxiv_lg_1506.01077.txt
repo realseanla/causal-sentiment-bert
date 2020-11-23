@@ -1,0 +1,7 @@
+Biclustering/NNP involves/VBZ the/DT simultaneous/JJ clustering/NN of/IN objects/NNS and/CC their/PRP$ attributes/NNS ,/, thus/RB defining/VBG local/JJ two/CD -/HYPH way/NN clustering/NN models/NNS ./.
+Recently/RB ,/, efficient/JJ algorithms/NNS were/VBD conceived/VBN to/IN enumerate/VB all/DT biclusters/NNS in/IN real/JJ -/HYPH valued/VBN datasets/NNS ./.
+In/IN this/DT case/NN ,/, the/DT solution/NN composes/VBZ a/DT complete/JJ set/NN of/IN maximal/JJ and/CC non-redundant/JJ biclusters/NNS ./.
+However/RB ,/, the/DT ability/NN to/TO enumerate/VB biclusters/NNS revealed/VBD a/DT challenging/JJ scenario/NN :/: in/IN noisy/JJ datasets/NNS ,/, each/DT true/JJ bicluster/NN may/MD become/VB highly/RB fragmented/JJ and/CC with/IN a/DT high/JJ degree/NN of/IN overlapping/VBG ./.
+It/PRP prevents/VBZ a/DT direct/JJ analysis/NN of/IN the/DT obtained/VBN results/NNS ./.
+To/TO revert/VB the/DT fragmentation/NN ,/, we/PRP propose/VBP here/RB two/CD approaches/NNS for/IN properly/RB aggregating/VBG the/DT whole/JJ set/NN of/IN enumerated/VBN biclusters/NNS :/: one/CD based/VBN on/IN single/JJ linkage/NN and/CC the/DT other/JJ directly/RB exploring/VBG the/DT rate/NN of/IN overlapping/VBG ./.
+Both/DT proposals/NNS were/VBD compared/VBN with/IN each/DT other/JJ and/CC with/IN the/DT actual/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN several/JJ experiments/NNS ,/, and/CC they/PRP not/RB only/RB significantly/RB reduced/VBN the/DT number/NN of/IN biclusters/NNS but/CC also/RB consistently/RB increased/VBD the/DT quality/NN of/IN the/DT solution/NN ./.

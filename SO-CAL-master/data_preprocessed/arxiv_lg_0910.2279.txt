@@ -1,0 +1,8 @@
+The/DT learning/NN of/IN appropriate/JJ distance/NN metrics/NNS is/VBZ a/DT critical/JJ problem/NN in/IN image/NN classification/NN and/CC retrieval/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT boosting/VBG -/HYPH based/VBN technique/NN ,/, termed/VBN \/SYM BoostMetric/NNP ,/, for/IN learning/VBG a/DT Mahalanobis/NNP distance/NN metric/JJ ./.
+One/CD of/IN the/DT primary/JJ difficulties/NNS in/IN learning/VBG such/PDT a/DT metric/JJ is/VBZ to/TO ensure/VB that/IN the/DT Mahalanobis/NNP matrix/NN remains/VBZ positive/JJ semidefinite/NN ./.
+Semidefinite/NNP programming/NN is/VBZ sometimes/RB used/VBN to/TO enforce/VB this/DT constraint/NN ,/, but/CC does/VBZ not/RB scale/VB well/RB ./.
+\/SYM BoostMetric/NNP is/VBZ instead/RB based/VBN on/IN a/DT key/JJ observation/NN that/IN any/DT positive/JJ semidefinite/NN matrix/NN can/MD be/VB decomposed/VBN into/IN a/DT linear/JJ positive/JJ combination/NN of/IN trace/NN -/HYPH one/CD rank/NN -/HYPH one/CD matrices/NNS ./.
+\/SYM BoostMetric/NNP thus/RB uses/VBZ rank/NN -/HYPH one/CD positive/JJ semidefinite/JJ matrices/NNS as/IN weak/JJ learners/NNS within/IN an/DT efficient/JJ and/CC scalable/JJ boosting/VBG -/HYPH based/VBN learning/NN process/NN ./.
+The/DT resulting/VBG method/NN is/VBZ easy/JJ to/TO implement/VB ,/, does/VBZ not/RB require/VB tuning/NN ,/, and/CC can/MD accommodate/VB various/JJ types/NNS of/IN constraints/NNS ./.
+Experiments/NNS on/IN various/JJ datasets/NNS show/VBP that/IN the/DT proposed/VBN algorithm/NN compares/VBZ favorably/RB to/IN those/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS in/IN terms/NNS of/IN classification/NN accuracy/NN and/CC running/NN time/NN ./.

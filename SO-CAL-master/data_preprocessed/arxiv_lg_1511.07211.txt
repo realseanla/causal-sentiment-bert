@@ -1,0 +1,9 @@
+We/PRP address/VBP the/DT problem/NN of/IN maximizing/VBG an/DT unknown/JJ submodular/JJ function/NN that/WDT can/MD only/RB be/VB accessed/VBN via/IN noisy/JJ evaluations/NNS ./.
+Our/PRP$ work/NN is/VBZ motivated/VBN by/IN the/DT task/NN of/IN summarizing/VBG content/NN ,/, e.g./FW ,/, image/NN collections/NNS ,/, by/IN leveraging/VBG users/NNS '/POS feedback/NN in/IN form/NN of/IN clicks/VBZ or/CC ratings/NNS ./.
+For/IN summarization/NN tasks/NNS with/IN the/DT goal/NN of/IN maximizing/VBG coverage/NN and/CC diversity/NN ,/, submodular/JJ set/NN functions/NNS are/VBP a/DT natural/JJ choice/NN ./.
+When/WRB the/DT underlying/VBG submodular/JJ function/NN is/VBZ unknown/JJ ,/, users/NNS '/POS feedback/NN can/MD provide/VB noisy/JJ evaluations/NNS of/IN the/DT function/NN that/WDT we/PRP seek/VBP to/TO maximize/VB ./.
+We/PRP provide/VBP a/DT generic/JJ algorithm/NN \/SYM submM/NN {/-LRB- }/-RRB- for/IN maximizing/VBG an/DT unknown/JJ submodular/JJ function/NN under/IN cardinality/NN constraints/NNS ./.
+This/DT algorithm/NN makes/VBZ use/NN of/IN a/DT novel/JJ exploration/NN module/NN --/: \/SYM blbox/NN {/-LRB- }/-RRB- --/: that/WDT proposes/VBZ good/JJ elements/NNS based/VBN on/IN adaptively/RB sampling/VBG noisy/JJ function/NN evaluations/NNS ./.
+\/SYM blbox/NN {/-LRB- }/-RRB- is/VBZ able/JJ to/TO accommodate/VB different/JJ kinds/NNS of/IN observation/NN models/NNS such/JJ as/IN value/NN queries/NNS and/CC pairwise/JJ comparisons/NNS ./.
+We/PRP provide/VBP PAC/NN -/HYPH style/NN guarantees/NNS on/IN the/DT quality/NN and/CC sampling/NN cost/NN of/IN the/DT solution/NN obtained/VBN by/IN \/SYM submM/NN {/-LRB- }/-RRB- ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN in/IN an/DT interactive/JJ ,/, crowdsourced/VBN image/NN collection/NN summarization/NN application/NN ./.

@@ -1,0 +1,7 @@
+The/DT classic/JJ supervised/JJ classification/NN algorithms/NNS are/VBP efficient/JJ ,/, but/CC time/NN -/HYPH consuming/VBG ,/, complicated/JJ and/CC not/RB interpretable/JJ ,/, which/WDT makes/VBZ it/PRP difficult/JJ to/TO analyze/VB their/PRP$ results/NNS that/IN limits/NNS the/DT possibility/NN to/TO improve/VB them/PRP based/VBN on/IN real/JJ observations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ and/CC a/DT simple/JJ classifier/NN to/TO predict/VB a/DT sentiment/NN label/NN of/IN a/DT short/JJ text/NN ./.
+This/DT model/NN keeps/VBZ the/DT capacity/NN of/IN human/JJ interpret/VB -/HYPH ability/NN and/CC can/MD be/VB extended/VBN to/TO integrate/VB NLP/NN techniques/NNS in/IN a/DT more/JJR interpretable/JJ way/NN ./.
+Our/PRP$ model/NN is/VBZ based/VBN on/IN a/DT correlation/NN metric/JJ which/WDT measures/VBZ the/DT degree/NN of/IN association/NN between/IN a/DT sentiment/NN label/NN and/CC a/DT word/NN ./.
+Ten/CD correlation/NN metrics/NNS are/VBP proposed/VBN and/CC evaluated/VBN intrinsically/RB ./.
+And/CC then/RB a/DT classifier/NN based/VBN on/IN each/DT metric/JJ is/VBZ proposed/VBN ,/, evaluated/VBN and/CC compared/VBN to/IN the/DT classic/JJ classification/NN algorithms/NNS which/WDT have/VBP proved/VBN their/PRP$ performance/NN in/IN many/JJ studies/NNS ./.
+Our/PRP$ model/NN outperforms/VBZ these/DT algorithms/NNS with/IN several/JJ correlation/NN metrics/NNS ./.

@@ -1,0 +1,8 @@
+Online/NN learning/NN to/IN rank/NN is/VBZ an/DT important/JJ problem/NN in/IN machine/NN learning/NN ,/, information/NN retrieval/NN ,/, recommender/NN systems/NNS ,/, and/CC display/VBP advertising/NN ./.
+Many/JJ provably/RB efficient/JJ algorithms/NNS have/VBP been/VBN developed/VBN for/IN this/DT problem/NN recently/RB ,/, under/IN specific/JJ click/NN models/NNS ./.
+A/DT click/NN model/NN is/VBZ a/DT model/NN of/IN how/WRB users/NNS click/VB on/IN a/DT list/NN of/IN documents/NNS ./.
+Though/IN these/DT results/NNS are/VBP significant/JJ ,/, the/DT proposed/VBN algorithms/NNS have/VBP limited/VBN application/NN because/IN they/PRP are/VBP designed/VBN for/IN specific/JJ click/NN models/NNS ,/, and/CC do/VBP not/RB have/VB guarantees/NNS beyond/IN them/PRP ./.
+To/TO overcome/VB this/DT challenge/NN ,/, we/PRP propose/VBP a/DT novel/JJ algorithm/NN ,/, which/WDT we/PRP call/VBP MergeRank/NNP ,/, for/IN learning/VBG to/IN rank/NN in/IN a/DT class/NN of/IN click/NN models/NNS that/WDT satisfy/VBP mild/JJ technical/JJ assumptions/NNS ./.
+This/DT class/NN encompasses/VBZ two/CD most/RBS fundamental/JJ click/NN models/NNS ,/, the/DT cascade/NN and/CC position/NN -/HYPH based/VBN models/NNS ./.
+We/PRP derive/VBP a/DT gap/NN -/HYPH dependent/JJ upper/JJ bound/VBN on/IN the/DT expected/VBN $/$ n/NN $/$ -/HYPH step/NN regret/NN of/IN MergeRank/NNP and/CC evaluate/VB it/PRP on/IN web/NN search/NN queries/NNS ./.
+We/PRP observe/VBP that/IN MergeRank/NNP performs/VBZ better/JJR than/IN ranked/VBD bandits/NNS and/CC is/VBZ more/RBR robust/JJ than/IN CascadeKL/NN -/HYPH UCB/NN ,/, an/DT existing/VBG algorithm/NN for/IN learning/VBG to/IN rank/NN in/IN the/DT cascade/NN model/NN ./.

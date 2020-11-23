@@ -1,0 +1,7 @@
+Monte/NNP Carlo/NNP sampling/NN for/IN Bayesian/JJ posterior/JJ inference/NN is/VBZ a/DT common/JJ approach/NN used/VBN in/IN machine/NN learning/NN ./.
+The/DT Markov/NNP Chain/NNP Monte/NNP Carlo/NNP procedures/NNS that/WDT are/VBP used/VBN are/VBP often/RB discrete/JJ -/HYPH time/NN analogues/NNS of/IN associated/VBN stochastic/JJ differential/JJ equations/NNS (/-LRB- SDEs/NNS )/-RRB- ./.
+These/DT SDEs/NNS are/VBP guaranteed/VBN to/TO leave/VB invariant/JJ the/DT required/VBN posterior/JJ distribution/NN ./.
+An/DT area/NN of/IN current/JJ research/NN addresses/NNS the/DT computational/JJ benefits/NNS of/IN stochastic/JJ gradient/NN methods/NNS in/IN this/DT setting/NN ./.
+Existing/VBG techniques/NNS rely/VBP on/IN estimating/VBG the/DT variance/NN or/CC covariance/NN of/IN the/DT subsampling/VBG error/NN ,/, and/CC typically/RB assume/VBP constant/JJ variance/NN ./.
+In/IN this/DT article/NN ,/, we/PRP propose/VBP a/DT covariance/NN -/HYPH controlled/VBN adaptive/JJ Langevin/NNP thermostat/NN that/WDT can/MD effectively/RB dissipate/VB parameter/NN -/HYPH dependent/JJ noise/NN while/IN maintaining/VBG a/DT desired/VBN target/NN distribution/NN ./.
+The/DT proposed/JJ method/NN achieves/VBZ a/DT substantial/JJ speedup/NN over/IN popular/JJ alternative/JJ schemes/NNS for/IN large/JJ -/HYPH scale/NN machine/NN learning/NN applications/NNS ./.

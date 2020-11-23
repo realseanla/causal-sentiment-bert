@@ -1,0 +1,6 @@
+A long-standing dream of Artificial Intelligence (AI) has pursued to enrich computer programs with commonsense knowledge enabling machines to reason about our world.
+This paper offers a new practical insight towards the automation of commonsense reasoning with first-order logic (FOL) ontologies.
+We propose a new black-box testing methodology of FOL SUMO-based ontologies by exploiting WordNet and its mapping into SUMO.
+Our proposal includes a method for the (semi-)automatic creation of a very large set of tests and a procedure for its automated evaluation by using automated theorem provers (ATPs).
+Applying our testing proposal, we are able to successfully evaluate a) the competency of several translations of SUMO into FOL and b) the performance of various automated ATPs.
+In addition, we are also able to evaluate the resulting set of tests according to different quality criteria.

@@ -1,0 +1,5 @@
+LSTMs/NNS have/VBP become/VBN a/DT basic/JJ building/NN block/NN for/IN many/JJ deep/JJ NLP/NN models/NNS ./.
+In/IN recent/JJ years/NNS ,/, many/JJ improvements/NNS and/CC variations/NNS have/VBP been/VBN proposed/VBN for/IN deep/JJ sequence/NN models/NNS in/IN general/JJ ,/, and/CC LSTMs/NNPS in/IN particular/JJ ./.
+We/PRP propose/VBP and/CC analyze/VBP a/DT series/NN of/IN architectural/JJ modifications/NNS for/IN LSTM/NNP networks/NNS resulting/VBG in/IN improved/VBN performance/NN for/IN text/NN classification/NN datasets/NNS ./.
+We/PRP observe/VBP compounding/VBG improvements/NNS on/IN traditional/JJ LSTMs/NNS using/VBG Monte/NNP Carlo/NNP test/NN -/HYPH time/NN model/NN averaging/NN ,/, deep/JJ vector/NN averaging/NN (/-LRB- DVA/NN )/-RRB- ,/, and/CC residual/JJ connections/NNS ,/, along/IN with/IN four/CD other/JJ suggested/VBD modifications/NNS ./.
+Our/PRP$ analysis/NN provides/VBZ a/DT simple/JJ ,/, reliable/JJ ,/, and/CC high/JJ quality/NN baseline/NN model/NN ./.

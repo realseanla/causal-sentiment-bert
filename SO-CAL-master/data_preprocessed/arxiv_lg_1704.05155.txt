@@ -1,0 +1,4 @@
+A/DT new/JJ method/NN for/IN learning/VBG variational/JJ autoencoders/NNS is/VBZ developed/VBN ,/, based/VBN on/IN an/DT application/NN of/IN Stein/NNP 's/POS operator/NN ./.
+The/DT framework/NN represents/VBZ the/DT encoder/NN as/IN a/DT deep/JJ nonlinear/JJ function/NN through/IN which/WDT samples/NNS from/IN a/DT simple/JJ distribution/NN are/VBP fed/VBN ./.
+One/CD need/NN not/RB make/VB parametric/JJ assumptions/NNS about/IN the/DT form/NN of/IN the/DT encoder/NN distribution/NN ,/, and/CC performance/NN is/VBZ further/JJ enhanced/VBN by/IN integrating/VBG the/DT proposed/VBN encoder/NN with/IN importance/NN sampling/NN ./.
+Example/NN results/NNS are/VBP demonstrated/VBN across/IN multiple/JJ unsupervised/JJ and/CC semi-supervised/JJ problems/NNS ,/, including/VBG semi-supervised/VBN analysis/NN of/IN the/DT ImageNet/NNP data/NNS ,/, demonstrating/VBG the/DT scalability/NN of/IN the/DT model/NN to/IN large/JJ datasets/NNS ./.

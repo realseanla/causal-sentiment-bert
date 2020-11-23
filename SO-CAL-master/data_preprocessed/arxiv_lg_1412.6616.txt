@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT distributed/VBN vector/NN representation/NN based/VBN on/IN a/DT simplification/NN of/IN the/DT BEAGLE/NN system/NN ,/, designed/VBN in/IN the/DT context/NN of/IN the/DT Sigma/NNP cognitive/JJ architecture/NN ./.
+Our/PRP$ method/NN does/VBZ not/RB require/VB gradient/NN -/HYPH based/VBN training/NN of/IN neural/JJ networks/NNS ,/, matrix/NN decompositions/NNS as/IN with/IN LSA/NNP ,/, or/CC convolutions/NNS as/IN with/IN BEAGLE/NN ./.
+All/DT that/WDT is/VBZ involved/VBN is/VBZ a/DT sum/NN of/IN random/JJ vectors/NNS and/CC their/PRP$ pointwise/JJ products/NNS ./.
+Despite/IN the/DT simplicity/NN of/IN this/DT technique/NN ,/, it/PRP gives/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN analogy/NN problems/NNS ,/, in/IN most/JJS cases/NNS better/JJR than/IN Word2Vec/NN ./.
+To/TO explain/VB this/DT success/NN ,/, we/PRP interpret/VBP it/PRP as/IN a/DT dimension/NN reduction/NN via/IN random/JJ projection/NN ./.

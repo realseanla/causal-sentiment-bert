@@ -1,0 +1,11 @@
+This/DT paper/NN presents/VBZ a/DT new/JJ approach/NN for/IN classification/NN of/IN dysfluent/NN and/CC fluent/JJ speech/NN using/VBG Mel/NNP -/: Frequency/NN Cepstral/NNP Coefficient/NNP (/-LRB- MFCC/NNP )/-RRB- ./.
+The/DT speech/NN is/VBZ fluent/JJ when/WRB person/NN 's/POS speech/NN flows/VBZ easily/RB and/CC smoothly/RB ./.
+Sounds/VBZ combine/VB into/IN syllable/NN ,/, syllables/NNS mix/VB together/RB into/IN words/NNS and/CC words/NNS link/VBP into/IN sentences/NNS with/IN little/JJ effort/NN ./.
+When/WRB someone/NN 's/VBZ speech/NN is/VBZ dysfluent/JJ ,/, it/PRP is/VBZ irregular/JJ and/CC does/VBZ not/RB flow/VB effortlessly/RB ./.
+Therefore/RB ,/, a/DT dysfluency/NN is/VBZ a/DT break/NN in/IN the/DT smooth/JJ ,/, meaningful/JJ flow/NN of/IN speech/NN ./.
+Stuttering/NN is/VBZ one/CD such/JJ disorder/NN in/IN which/WDT the/DT fluent/JJ flow/NN of/IN speech/NN is/VBZ disrupted/VBN by/IN occurrences/NNS of/IN dysfluencies/NNS such/JJ as/IN repetitions/NNS ,/, prolongations/NNS ,/, interjections/NNS and/CC so/RB on/RB ./.
+In/IN this/DT work/NN we/PRP have/VBP considered/VBN three/CD types/NNS of/IN dysfluencies/NNS such/JJ as/IN repetition/NN ,/, prolongation/NN and/CC interjection/NN to/TO characterize/VB dysfluent/JJ speech/NN ./.
+After/IN obtaining/VBG dysfluent/NN and/CC fluent/JJ speech/NN ,/, the/DT speech/NN signals/NNS are/VBP analyzed/VBN in/IN order/NN to/TO extract/VB MFCC/NN features/NNS ./.
+The/DT k/NN -/HYPH Nearest/JJS Neighbor/NN (/-LRB- k/CD -/SYM NN/NNP )/-RRB- and/CC Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- classifiers/NNS are/VBP used/VBN to/TO classify/VB the/DT speech/NN as/IN dysfluent/JJ and/CC fluent/JJ speech/NN ./.
+The/DT 80/CD percent/NN of/IN the/DT data/NNS is/VBZ used/VBN for/IN training/NN and/CC 20/CD percent/NN for/IN testing/NN ./.
+The/DT average/JJ accuracy/NN of/IN 86.67/CD percent/NN and/CC 93.34/CD percent/NN is/VBZ obtained/VBN for/IN dysfluent/JJ and/CC fluent/JJ speech/NN respectively/RB ./.

@@ -1,0 +1,8 @@
+When tasked to find fraudulent social network users, what is a practitioner to do?
+Traditional classification can lead to poor generalization and high misclassification given few and possibly biased labels.
+We tackle this problem by analyzing fraudulent behavioral patterns, featurizing users to yield strong discriminative performance, and building algorithms to handle new and multimodal fraud types.
+First, we set up honeypots, or "dummy" social network accounts on which we solicit fake followers (after careful IRB approval).
+We report the signs of such behaviors, including oddities in local network connectivity, account attributes, and similarities and differences across fraud providers.
+We discover several types of fraud behaviors, with the possibility of even more.
+We discuss how to leverage these insights in practice, build strongly performing entropy-based features, and propose OEC (Open-ended Classification), an approach for "future-proofing" existing algorithms to account for the complexities of link fraud.
+Our contributions are (a) observations: we analyze our honeypot fraudster ecosystem and give insights regarding various fraud behaviors, (b) features: we engineer features which give exceptionally strong (&gt;0.95 precision/recall) discriminative power on ground-truth data, and (c) algorithm: we motivate and discuss OEC, which reduces misclassification rate by &gt;18 percent over baselines and routes practitioner attention to samples at high-risk of misclassification.

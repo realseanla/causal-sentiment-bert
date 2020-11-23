@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN we/PRP present/VBP an/DT approach/NN for/IN estimating/VBG the/DT quality/NN of/IN machine/NN translation/NN system/NN ./.
+There/EX are/VBP various/JJ methods/NNS for/IN estimating/VBG the/DT quality/NN of/IN output/NN sentences/NNS ,/, but/CC in/IN this/DT paper/NN we/PRP focus/VBP on/IN Na/NN \/SYM "/`` ive/VB Bayes/NNP classifier/NN to/TO build/VB model/NN using/VBG features/NNS which/WDT are/VBP extracted/VBN from/IN the/DT input/NN sentences/NNS ./.
+These/DT features/NNS are/VBP used/VBN for/IN finding/VBG the/DT likelihood/NN of/IN each/DT of/IN the/DT sentences/NNS of/IN the/DT training/NN data/NNS which/WDT are/VBP then/RB further/RB used/VBN for/IN determining/VBG the/DT scores/NNS of/IN the/DT test/NN data/NNS ./.
+On/IN the/DT basis/NN of/IN these/DT scores/NNS we/PRP determine/VBP the/DT class/NN labels/NNS of/IN the/DT test/NN data/NNS ./.

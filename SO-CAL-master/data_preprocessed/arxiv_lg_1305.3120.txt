@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN ,/, we/PRP study/VBP optimization/NN methods/NNS consisting/VBG of/IN iteratively/RB minimizing/VBG surrogates/NNS of/IN an/DT objective/JJ function/NN ./.
+By/IN proposing/VBG several/JJ algorithmic/JJ variants/NNS and/CC simple/JJ convergence/NN analyses/NNS ,/, we/PRP make/VBP two/CD main/JJ contributions/NNS ./.
+First/RB ,/, we/PRP provide/VBP a/DT unified/VBN viewpoint/NN for/IN several/JJ first/JJ -/HYPH order/NN optimization/NN techniques/NNS such/JJ as/IN accelerated/VBN proximal/JJ gradient/NN ,/, block/NN coordinate/NN descent/NN ,/, or/CC Frank/NNP -/HYPH Wolfe/NNP algorithms/NNS ./.
+Second/RB ,/, we/PRP introduce/VBP a/DT new/JJ incremental/JJ scheme/NN that/WDT experimentally/RB matches/VBZ or/CC outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN solvers/NNS for/IN large/JJ -/HYPH scale/NN optimization/NN problems/NNS typically/RB arising/VBG in/IN machine/NN learning/NN ./.

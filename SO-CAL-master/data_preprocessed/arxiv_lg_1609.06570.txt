@@ -1,0 +1,6 @@
+Imbalanced/VBN -/: learn/VB is/VBZ an/DT open/JJ -/HYPH source/NN python/NN toolbox/NN aiming/VBG at/IN providing/VBG a/DT wide/JJ range/NN of/IN methods/NNS to/TO cope/VB with/IN the/DT problem/NN of/IN imbalanced/VBN dataset/NN frequently/RB encountered/VBN in/IN machine/NN learning/NN and/CC pattern/NN recognition/NN ./.
+The/DT implemented/VBN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS can/MD be/VB categorized/VBN into/IN 4/CD groups/NNS :/: (/-LRB- i/LS )/-RRB- under/IN -/HYPH sampling/NN ,/, (/-LRB- ii/LS )/-RRB- over-sampling/NN ,/, (/-LRB- iii/LS )/-RRB- combination/NN of/IN over/IN -/HYPH and/CC under/IN -/HYPH sampling/NN ,/, and/CC (/-LRB- iv/NN )/-RRB- ensemble/NN learning/NN methods/NNS ./.
+The/DT proposed/VBN toolbox/NN only/RB depends/VBZ on/IN numpy/NN ,/, scipy/NN ,/, and/CC scikit/NN -/HYPH learn/VB and/CC is/VBZ distributed/VBN under/IN MIT/NNP license/NN ./.
+Furthermore/RB ,/, it/PRP is/VBZ fully/RB compatible/JJ with/IN scikit/NN -/HYPH learn/VB and/CC is/VBZ part/NN of/IN the/DT scikit/NN -/HYPH learn/VB -/HYPH contrib/VB supported/VBN project/NN ./.
+Documentation/NN ,/, unit/NN tests/VBZ as/RB well/RB as/IN integration/NN tests/NNS are/VBP provided/VBN to/TO ease/VB usage/NN and/CC contribution/NN ./.
+The/DT toolbox/NN is/VBZ publicly/RB available/JJ in/IN GitHub/NNP :/:

@@ -1,0 +1,5 @@
+A/DT new/JJ line/NN of/IN work/NN [/-LRB- Dwork/NNP et/FW al/FW ./.
+STOC/NN 2015/CD ]/-RRB- ,/, [/-LRB- Hardt/NNP and/CC Ullman/NNP FOCS/NN 2014/CD ]/-RRB- ,/, [/-LRB- Steinke/NNP and/CC Ullman/NNP COLT/NNP 2015/CD ]/-RRB- ,/, [/-LRB- Bassily/NNP et/FW al/FW ./.
+STOC/NN 2016/CD ]/-RRB- demonstrates/VBZ how/WRB differential/JJ privacy/NN [/-LRB- Dwork/NNP et/FW al/FW ./.
+TCC/NN 2006/CD ]/-RRB- can/MD be/VB used/VBN as/IN a/DT mathematical/JJ tool/NN for/IN guaranteeing/VBG generalization/NN in/IN adaptive/JJ data/NNS analysis/NN ./.
+Specifically/RB ,/, if/IN a/DT differentially/RB private/JJ analysis/NN is/VBZ applied/VBN on/IN a/DT sample/NN S/NN of/IN i.i.d./NN examples/NNS to/TO select/VB a/DT low/JJ -/HYPH sensitivity/NN function/NN f/NN ,/, then/RB w.h.p./RB f/NN (/-LRB- S/NN )/-RRB- is/VBZ close/JJ to/IN its/PRP$ expectation/NN ,/, although/IN f/NN is/VBZ being/VBG chosen/VBN based/VBN on/IN the/DT data/NNS ./.

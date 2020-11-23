@@ -1,0 +1,7 @@
+This/DT work/NN proposes/VBZ a/DT low/JJ complexity/NN nonlinearity/NN model/NN and/CC develops/VBZ adaptive/JJ algorithms/NNS over/IN it/PRP ./.
+The/DT model/NN is/VBZ based/VBN on/IN the/DT decomposable/NN ---/, or/CC rank/NN -/HYPH one/CD ,/, in/IN tensor/NNP language/NN ---/, Volterra/NNP kernels/NNS ./.
+It/PRP may/MD also/RB be/VB described/VBN as/IN a/DT product/NN of/IN FIR/NN filters/NNS ,/, which/WDT explains/VBZ its/PRP$ low/JJ -/HYPH complexity/NN ./.
+The/DT rank/NN -/HYPH one/CD model/NN is/VBZ also/RB interesting/JJ because/IN it/PRP comes/VBZ from/IN a/DT well/RB -/HYPH posed/VBN problem/NN in/IN approximation/NN theory/NN ./.
+The/DT paper/NN uses/VBZ such/JJ model/NN in/IN an/DT estimation/NN theory/NN context/NN to/TO develop/VB an/DT exact/JJ gradient/NN -/HYPH type/NN algorithm/NN ,/, from/IN which/WDT adaptive/JJ algorithms/NNS such/JJ as/IN the/DT least/JJS mean/JJ squares/NNS (/-LRB- LMS/NN )/-RRB- filter/NN and/CC its/PRP$ data/NNS -/, reuse/VB version/NN ---/, the/DT TRUE/JJ -/HYPH LMS/NN ---/, are/VBP derived/VBN ./.
+Stability/NNP and/CC convergence/NN issues/NNS are/VBP addressed/VBN ./.
+The/DT algorithms/NNS are/VBP then/RB tested/VBN in/IN simulations/NNS ,/, which/WDT show/VBP its/PRP$ good/JJ performance/NN when/WRB compared/VBN to/IN other/JJ nonlinear/JJ processing/NN algorithms/NNS in/IN the/DT literature/NN ./.

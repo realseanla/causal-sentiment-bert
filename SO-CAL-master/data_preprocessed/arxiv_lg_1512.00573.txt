@@ -1,0 +1,6 @@
+To/TO accomplish/VB tasks/NNS in/IN human/JJ -/HYPH centric/JJ indoor/JJ environments/NNS ,/, robots/NNS need/VBP to/TO represent/VB and/CC understand/VB the/DT world/NN in/IN terms/NNS of/IN objects/NNS and/CC their/PRP$ attributes/NNS ./.
+We/PRP refer/VBP to/IN this/DT attribute/NN -/HYPH based/VBN representation/NN as/IN a/DT world/NN model/NN ,/, and/CC consider/VB how/WRB to/TO acquire/VB it/PRP via/IN noisy/JJ perception/NN and/CC maintain/VB it/PRP over/IN time/NN ,/, as/IN objects/NNS are/VBP added/VBN ,/, changed/VBN ,/, and/CC removed/VBN in/IN the/DT world/NN ./.
+Previous/JJ work/NN has/VBZ framed/VBN this/DT as/IN multiple/JJ -/HYPH target/NN tracking/NN problem/NN ,/, where/WRB objects/NNS are/VBP potentially/RB in/IN motion/NN at/IN all/DT times/NNS ./.
+Although/IN this/DT approach/NN is/VBZ general/JJ ,/, it/PRP is/VBZ computationally/RB expensive/JJ ./.
+We/PRP argue/VBP that/IN such/JJ generality/NN is/VBZ not/RB needed/VBN in/IN typical/JJ world/NN modeling/VBG tasks/NNS ,/, where/WRB objects/NNS only/RB change/VBP state/NN occasionally/RB ./.
+More/RBR efficient/JJ approaches/NNS are/VBP enabled/VBN by/IN restricting/VBG ourselves/PRP to/IN such/JJ semi-static/JJ environments/NNS ./.

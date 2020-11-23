@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT graph/NN -/HYPH community/NN detection/NN approach/NN to/TO identify/VB cross-document/JJ relationships/NNS at/IN the/DT topic/NN segment/NN level/NN ./.
+Given/VBN a/DT set/NN of/IN related/JJ documents/NNS ,/, we/PRP automatically/RB find/VB these/DT relationships/NNS by/IN clustering/VBG segments/NNS with/IN similar/JJ content/NN (/-LRB- topics/NNS )/-RRB- ./.
+In/IN this/DT context/NN ,/, we/PRP study/VBP how/WRB different/JJ weighting/NN mechanisms/NNS influence/VBP the/DT discovery/NN of/IN word/NN communities/NNS that/WDT relate/VBP to/IN the/DT different/JJ topics/NNS found/VBN in/IN the/DT documents/NNS ./.
+Finally/RB ,/, we/PRP test/VBP different/JJ mapping/NN functions/VBZ to/TO assign/VB topic/NN segments/NNS to/IN word/NN communities/NNS ,/, determining/VBG which/WDT topic/NN segments/NNS are/VBP considered/VBN equivalent/JJ ./.

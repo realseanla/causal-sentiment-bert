@@ -1,0 +1,3 @@
+Stochastic/JJ Dual/JJ Coordinate/VB Ascent/NN is/VBZ a/DT popular/JJ method/NN for/IN solving/VBG regularized/VBN loss/NN minimization/NN for/IN the/DT case/NN of/IN convex/JJ losses/NNS ./.
+We/PRP describe/VBP variants/NNS of/IN SDCA/NNP that/WDT do/VBP not/RB require/VB explicit/JJ regularization/NN and/CC do/VBP not/RB rely/VB on/IN duality/NN ./.
+We/PRP prove/VBP linear/JJ convergence/NN rates/NNS even/RB if/IN individual/JJ loss/NN functions/NNS are/VBP non-convex/JJ ,/, as/RB long/RB as/IN the/DT expected/JJ loss/NN is/VBZ strongly/RB convex/JJ ./.

@@ -1,0 +1,9 @@
+Building/VBG a/DT good/JJ generative/JJ model/NN for/IN image/NN has/VBZ long/RB been/VBN an/DT important/JJ topic/NN in/IN computer/NN vision/NN and/CC machine/NN learning/NN ./.
+Restricted/VBN Boltzmann/JJ machine/NN (/-LRB- RBM/NNP )/-RRB- is/VBZ one/CD of/IN such/JJ models/NNS that/WDT is/VBZ simple/JJ but/CC powerful/JJ ./.
+However/RB ,/, its/PRP$ restricted/JJ form/NN also/RB has/VBZ placed/VBN heavy/JJ constraints/NNS on/IN the/DT models/NNS representation/NN power/NN and/CC scalability/NN ./.
+Many/JJ extensions/NNS have/VBP been/VBN invented/VBN based/VBN on/IN RBM/NNP in/IN order/NN to/TO produce/VB deeper/JJR architectures/NNS with/IN greater/JJR power/NN ./.
+The/DT most/RBS famous/JJ ones/NNS among/IN them/PRP are/VBP deep/JJ belief/NN network/NN ,/, which/WDT stacks/NNS multiple/JJ layer-wise/JJ pretrained/JJ RBMs/NNS to/TO form/VB a/DT hybrid/NN model/NN ,/, and/CC deep/JJ Boltzmann/NNP machine/NN ,/, which/WDT allows/VBZ connections/NNS between/IN hidden/JJ units/NNS to/TO form/VB a/DT multi-layer/JJ structure/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ method/NN to/TO compose/VB RBMs/NNS to/TO form/VB a/DT multi-layer/JJ network/NN style/NN architecture/NN and/CC a/DT training/NN method/NN that/WDT trains/VBZ all/DT layers/NNS jointly/RB ./.
+We/PRP call/VBP the/DT resulted/VBN structure/NN deep/JJ restricted/JJ Boltzmann/JJ network/NN ./.
+We/PRP further/RB explore/VB the/DT combination/NN of/IN convolutional/JJ RBM/NNP with/IN the/DT normal/JJ fully/RB connected/VBN RBM/NNP ,/, which/WDT is/VBZ made/VBN trivial/JJ under/IN our/PRP$ composition/NN framework/NN ./.
+Experiments/NNS show/VBP that/IN our/PRP$ model/NN can/MD generate/VB descent/NN images/NNS and/CC outperform/VB the/DT normal/JJ RBM/NNP significantly/RB in/IN terms/NNS of/IN image/NN quality/NN and/CC feature/NN quality/NN ,/, without/IN losing/VBG much/JJ efficiency/NN for/IN training/NN ./.

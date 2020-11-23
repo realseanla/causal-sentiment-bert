@@ -1,0 +1,4 @@
+In/IN many/JJ AI/NN domains/NNS such/JJ as/IN product/NN configuration/NN ,/, a/DT user/NN should/MD interactively/RB specify/VB a/DT solution/NN that/WDT must/MD satisfy/VB a/DT set/NN of/IN constraints/NNS ./.
+In/IN such/JJ scenarios/NNS ,/, offline/RB compilation/NN of/IN feasible/JJ solutions/NNS into/IN a/DT tractable/JJ representation/NN is/VBZ an/DT important/JJ approach/NN to/IN delivering/VBG efficient/JJ backtrack/VB -/HYPH free/VB user/NN interaction/NN online/NN ./.
+In/IN particular/JJ ,/, binary/JJ decision/NN diagrams/NNS (/-LRB- BDDs/NNS )/-RRB- have/VBP been/VBN successfully/RB used/VBN as/IN a/DT compilation/NN target/NN for/IN product/NN and/CC service/NN configuration/NN ./.
+In/IN this/DT paper/NN we/PRP discuss/VBP how/WRB to/TO extend/VB BDD/NN -/HYPH based/VBN configuration/NN to/IN scenarios/NNS involving/VBG cost/NN functions/NNS which/WDT express/VBP user/NN preferences/NNS ./.

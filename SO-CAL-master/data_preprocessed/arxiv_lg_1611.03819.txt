@@ -1,0 +1,6 @@
+Non-negative/JJ matrix/NN factorization/NN is/VBZ a/DT popular/JJ tool/NN for/IN decomposing/VBG data/NNS into/IN feature/NN and/CC weight/NN matrices/NNS under/IN non-negativity/NN constraints/NNS ./.
+It/PRP enjoys/VBZ practical/JJ success/NN but/CC is/VBZ poorly/RB understood/VBN theoretically/RB ./.
+This/DT paper/NN proposes/VBZ an/DT algorithm/NN that/WDT alternates/VBZ between/IN decoding/VBG the/DT weights/NNS and/CC updating/VBG the/DT features/NNS ,/, and/CC shows/VBZ that/IN assuming/VBG a/DT generative/JJ model/NN of/IN the/DT data/NNS ,/, it/PRP provably/RB recovers/VBZ the/DT ground/NN -/HYPH truth/NN under/IN fairly/RB mild/JJ conditions/NNS ./.
+In/IN particular/JJ ,/, its/PRP$ only/JJ essential/JJ requirement/NN on/IN features/NNS is/VBZ linear/JJ independence/NN ./.
+Furthermore/RB ,/, the/DT algorithm/NN uses/VBZ ReLU/NN to/TO exploit/VB the/DT non-negativity/NN for/IN decoding/VBG the/DT weights/NNS ,/, and/CC thus/RB can/MD tolerate/VB adversarial/JJ noise/NN that/WDT can/MD potentially/RB be/VB as/IN large/JJ as/IN the/DT signal/NN ,/, and/CC can/MD tolerate/VB unbiased/JJ noise/NN much/RB larger/JJR than/IN the/DT signal/NN ./.
+The/DT analysis/NN relies/VBZ on/IN a/DT carefully/RB designed/VBN coupling/NN between/IN two/CD potential/JJ functions/NNS ,/, which/WDT we/PRP believe/VBP is/VBZ of/IN independent/JJ interest/NN ./.

@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT novel/JJ module/NN ,/, the/DT reviewer/NN module/NN ,/, to/TO improve/VB the/DT encoder/NN -/HYPH decoder/NN learning/NN framework/NN ./.
+The/DT reviewer/NN module/NN is/VBZ generic/JJ ,/, and/CC can/MD be/VB plugged/VBN into/IN an/DT existing/VBG encoder/NN -/HYPH decoder/NN model/NN ./.
+The/DT reviewer/NN module/NN performs/VBZ a/DT number/NN of/IN review/NN steps/NNS with/IN attention/NN mechanism/NN on/IN the/DT encoder/NN hidden/VBN states/NNS ,/, and/CC outputs/NNS a/DT fact/NN vector/NN after/IN each/DT review/NN step/NN ;/: the/DT fact/NN vectors/NNS are/VBP used/VBN as/IN the/DT input/NN of/IN the/DT attention/NN mechanism/NN in/IN the/DT decoder/NN ./.
+We/PRP show/VBP that/IN the/DT conventional/JJ encoder/NN -/HYPH decoders/NNS are/VBP a/DT special/JJ case/NN of/IN our/PRP$ framework/NN ./.
+Empirically/RB ,/, we/PRP show/VBP that/IN our/PRP$ framework/NN can/MD improve/VB over/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN encoder/NN -/HYPH decoder/NN systems/NNS on/IN the/DT tasks/NNS of/IN image/NN captioning/NN and/CC source/NN code/NN captioning/NN ./.

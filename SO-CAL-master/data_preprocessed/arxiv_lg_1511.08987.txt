@@ -1,0 +1,8 @@
+This/DT essay/NN investigates/VBZ the/DT question/NN of/IN how/WRB the/DT naive/JJ Bayes/NNP classifier/NN and/CC the/DT support/NN vector/NN machine/NN compare/VBP in/IN their/PRP$ ability/NN to/TO forecast/VB the/DT Stock/NNP Exchange/NNP of/IN Thailand/NNP ./.
+The/DT theory/NN behind/IN the/DT SVM/NNP and/CC the/DT naive/JJ Bayes/NNP classifier/NN is/VBZ explored/VBN ./.
+The/DT algorithms/NNS are/VBP trained/VBN using/VBG data/NNS from/IN the/DT month/NN of/IN January/NNP 2010/CD ,/, extracted/VBN from/IN the/DT MarketWatch.com/NNP website/NN ./.
+Input/NN features/NNS are/VBP selected/VBN based/VBN on/IN previous/JJ studies/NNS of/IN the/DT SET100/NNP Index/NNP ./.
+The/DT Weka/NNP 3/CD software/NN is/VBZ used/VBN to/TO create/VB models/NNS from/IN the/DT labeled/VBN training/NN data/NNS ./.
+Mean/NNP squared/VBD error/NN and/CC proportion/NN of/IN correctly/RB classified/VBN instances/NNS ,/, and/CC a/DT number/NN of/IN other/JJ error/NN measurements/NNS are/VBP the/DT used/VBN to/TO compare/VB the/DT two/CD algorithms/NNS ./.
+This/DT essay/NN shows/VBZ that/IN these/DT two/CD algorithms/NNS are/VBP currently/RB not/RB advanced/JJ enough/JJ to/TO accurately/RB model/VB the/DT stock/NN exchange/NN ./.
+Nevertheless/RB ,/, the/DT naive/JJ Bayes/NNP is/VBZ better/JJR than/IN the/DT support/NN vector/NN machine/NN at/IN predicting/VBG the/DT Stock/NNP Exchange/NNP of/IN Thailand/NNP ./.

@@ -1,0 +1,17 @@
+Convolutional/JJ neural/JJ networks/NNS (/-LRB- CNN/NNP )/-RRB- have/VBP achieved/VBN major/JJ breakthroughs/NNS in/IN recent/JJ years/NNS ./.
+Their/PRP$ performance/NN in/IN computer/NN vision/NN have/VBP matched/VBN and/CC in/IN some/DT areas/NNS even/RB surpassed/VBD human/JJ capabilities/NNS ./.
+Deep/JJ neural/JJ networks/NNS can/MD capture/VB complex/JJ non-linear/JJ features/NNS ;/: however/RB this/DT ability/NN comes/VBZ at/IN the/DT cost/NN of/IN high/JJ computational/JJ and/CC memory/NN requirements/NNS ./.
+State/NN -/HYPH of/IN -/HYPH art/NN networks/NNS require/VBP billions/NNS of/IN arithmetic/NN operations/NNS and/CC millions/NNS of/IN parameters/NNS ./.
+To/TO enable/VB embedded/VBN devices/NNS such/JJ as/IN smartphones/NNS ,/, Google/NNP glasses/NNS and/CC monitoring/NN cameras/NNS with/IN the/DT astonishing/JJ power/NN of/IN deep/JJ learning/NN ,/, dedicated/JJ hardware/NN accelerators/NNS can/MD be/VB used/VBN to/TO decrease/VB both/DT execution/NN time/NN and/CC power/NN consumption/NN ./.
+In/IN applications/NNS where/WRB fast/JJ connection/NN to/IN the/DT cloud/NN is/VBZ not/RB guaranteed/VBN or/CC where/WRB privacy/NN is/VBZ important/JJ ,/, computation/NN needs/VBZ to/TO be/VB done/VBN locally/RB ./.
+Many/JJ hardware/NN accelerators/NNS for/IN deep/JJ neural/JJ networks/NNS have/VBP been/VBN proposed/VBN recently/RB ./.
+A/DT first/JJ important/JJ step/NN of/IN accelerator/NN design/NN is/VBZ hardware/NN -/HYPH oriented/VBN approximation/NN of/IN deep/JJ networks/NNS ,/, which/WDT enables/VBZ energy/NN -/HYPH efficient/JJ inference/NN ./.
+We/PRP present/VBP Ristretto/NNP ,/, a/DT fast/JJ and/CC automated/VBN framework/NN for/IN CNN/NNP approximation/NN ./.
+Ristretto/NNP simulates/VBZ the/DT hardware/NN arithmetic/NN of/IN a/DT custom/NN hardware/NN accelerator/NN ./.
+The/DT framework/NN reduces/VBZ the/DT bit/NN -/HYPH width/NN of/IN network/NN parameters/NNS and/CC outputs/NNS of/IN resource/NN -/HYPH intense/JJ layers/NNS ,/, which/WDT reduces/VBZ the/DT chip/NN area/NN for/IN multiplication/NN units/NNS significantly/RB ./.
+Alternatively/RB ,/, Ristretto/NNP can/MD remove/VB the/DT need/NN for/IN multipliers/NNS altogether/RB ,/, resulting/VBG in/IN an/DT adder/NN -/HYPH only/JJ arithmetic/NN ./.
+The/DT tool/NN fine/JJ -/HYPH tunes/NNS trimmed/VBD networks/NNS to/TO achieve/VB high/JJ classification/NN accuracy/NN ./.
+Since/IN training/NN of/IN deep/JJ neural/JJ networks/NNS can/MD be/VB time/NN -/HYPH consuming/VBG ,/, Ristretto/NNP uses/VBZ highly/RB optimized/VBN routines/NNS which/WDT run/VBP on/IN the/DT GPU/NNP ./.
+This/DT enables/VBZ fast/JJ compression/NN of/IN any/DT given/VBN network/NN ./.
+Given/VBN a/DT maximum/JJ tolerance/NN of/IN 1/CD percent/NN ,/, Ristretto/NNP can/MD successfully/RB condense/VB CaffeNet/NNP and/CC SqueezeNet/NNP to/TO 8/CD -/HYPH bit/NN ./.
+The/DT code/NN for/IN Ristretto/NNP is/VBZ available/JJ ./.

@@ -1,0 +1,7 @@
+In/IN Recommender/NNP Systems/NNPS research/NN ,/, algorithms/NNS are/VBP often/RB characterized/VBN as/IN either/CC Collaborative/JJ Filtering/NN (/-LRB- CF/NN )/-RRB- or/CC Content/NN Based/VBN (/-LRB- CB/NN )/-RRB- ./.
+CF/NN algorithms/NNS are/VBP trained/VBN using/VBG a/DT dataset/NN of/IN user/NN explicit/JJ or/CC implicit/JJ preferences/NNS while/IN CB/NNP algorithms/NNS are/VBP typically/RB based/VBN on/IN item/NN profiles/NNS ./.
+These/DT approaches/NNS harness/NN very/RB different/JJ data/NNS sources/NNS hence/RB the/DT resulting/VBG recommended/VBN items/NNS are/VBP generally/RB also/RB very/RB different/JJ ./.
+This/DT paper/NN presents/VBZ a/DT novel/JJ model/NN that/WDT serves/VBZ as/IN a/DT bridge/NN from/IN items/NNS content/NN into/IN their/PRP$ CF/NN representations/NNS ./.
+We/PRP introduce/VBP a/DT multiple/JJ input/NN deep/JJ regression/NN model/NN to/TO predict/VB the/DT CF/NN latent/NN embedding/NN vectors/NNS of/IN items/NNS based/VBN on/IN their/PRP$ textual/JJ description/NN and/CC metadata/NN ./.
+We/PRP showcase/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN model/NN by/IN predicting/VBG the/DT CF/NN vectors/NNS of/IN movies/NNS and/CC apps/NNS based/VBN on/IN their/PRP$ textual/JJ descriptions/NNS ./.
+Finally/RB ,/, we/PRP show/VBP that/IN the/DT model/NN can/MD be/VB further/RB improved/VBN by/IN incorporating/VBG metadata/NN such/JJ as/IN the/DT movie/NN release/NN year/NN and/CC tags/NNS which/WDT contribute/VBP to/IN a/DT higher/JJR accuracy/NN ./.

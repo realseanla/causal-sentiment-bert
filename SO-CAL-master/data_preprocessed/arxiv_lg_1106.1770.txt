@@ -1,0 +1,8 @@
+This/DT paper/NN introduces/VBZ a/DT machine/NN learning/NN based/VBN collaborative/JJ multi/JJ band/NN spectrum/NN sensing/VBG policy/NN for/IN cognitive/JJ radios/NNS ./.
+The/DT proposed/VBN sensing/VBG policy/NN guides/NNS secondary/JJ users/NNS to/TO focus/VB the/DT search/NN of/IN unused/JJ radio/NN spectrum/NN to/IN those/DT frequencies/NNS that/WDT persistently/RB provide/VBP them/PRP high/JJ data/NNS rate/NN ./.
+The/DT proposed/VBN policy/NN is/VBZ based/VBN on/IN machine/NN learning/NN ,/, which/WDT makes/VBZ it/PRP adaptive/JJ with/IN the/DT temporally/RB and/CC spatially/RB varying/VBG radio/NN spectrum/NN ./.
+Furthermore/RB ,/, there/EX is/VBZ no/DT need/NN for/IN dynamic/JJ modeling/NN of/IN the/DT primary/JJ activity/NN since/IN it/PRP is/VBZ implicitly/RB learned/VBN over/IN time/NN ./.
+Energy/NNP efficiency/NN is/VBZ achieved/VBN by/IN minimizing/VBG the/DT number/NN of/IN assigned/VBN sensors/NNS per/IN each/DT subband/NN under/IN a/DT constraint/NN on/IN miss/VB detection/NN probability/NN ./.
+It/PRP is/VBZ important/JJ to/TO control/VB the/DT missed/VBN detections/NNS because/IN they/PRP cause/VBP collisions/NNS with/IN primary/JJ transmissions/NNS and/CC lead/VB to/IN retransmissions/NNS at/IN both/CC the/DT primary/JJ and/CC secondary/JJ user/NN ./.
+The/DT minimization/NN of/IN the/DT number/NN of/IN active/JJ sensors/NNS is/VBZ formulated/VBN as/IN a/DT binary/JJ integer/NN programming/NN problem/NN ./.
+Simulations/NNS show/VBP that/IN the/DT proposed/VBN machine/NN learning/NN based/VBN sensing/VBG policy/NN improves/VBZ the/DT overall/JJ throughput/NN of/IN the/DT secondary/JJ network/NN and/CC improves/VBZ the/DT energy/NN efficiency/NN while/IN controlling/VBG the/DT miss/VB detection/NN probability/NN ./.

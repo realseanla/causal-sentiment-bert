@@ -1,0 +1,9 @@
+Knowledge/NN base/NN is/VBZ the/DT way/NN to/TO store/VB structured/JJ and/CC unstructured/JJ data/NNS throughout/IN the/DT web/NN ./.
+Since/IN the/DT size/NN of/IN the/DT web/NN is/VBZ increasing/VBG rapidly/RB ,/, there/EX are/VBP huge/JJ needs/NNS to/TO structure/VB the/DT knowledge/NN in/IN a/DT fully/RB automated/VBN way/NN ./.
+However/RB fully/RB -/HYPH automated/VBN knowledge/NN -/HYPH base/NN evolution/NN on/IN the/DT Semantic/JJ Web/NN is/VBZ a/DT major/JJ challenges/NNS ,/, although/IN there/EX are/VBP many/JJ ontology/NN evolution/NN techniques/NNS available/JJ ./.
+Therefore/RB learning/VBG ontology/NN automatically/RB can/MD contribute/VB to/IN the/DT semantic/JJ web/NN society/NN significantly/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP full/JJ -/HYPH automated/VBN ontology/NN learning/NN algorithm/NN to/TO generate/VB refined/JJ knowledge/NN base/NN from/IN incomplete/JJ knowledge/NN base/NN and/CC rdf/NN -/HYPH triples/NNS ./.
+Our/PRP$ algorithm/NN is/VBZ data/NN -/HYPH driven/VBN approach/NN which/WDT is/VBZ based/VBN on/IN the/DT property/NN of/IN each/DT instance/NN ./.
+Ontology/NNP class/NN is/VBZ being/VBG elaborated/VBN by/IN generalizing/VBG frequent/JJ property/NN of/IN its/PRP$ instances/NNS ./.
+By/IN using/VBG that/DT developed/VBN class/NN information/NN ,/, each/DT instance/NN can/MD find/VB its/PRP$ most/RBS relatively/RB matching/JJ class/NN ./.
+By/IN repeating/VBG these/DT two/CD steps/NNS ,/, we/PRP achieve/VBP fully/RB -/HYPH automated/VBN ontology/NN evolution/NN from/IN incomplete/JJ basic/JJ knowledge/NN base/NN ./.

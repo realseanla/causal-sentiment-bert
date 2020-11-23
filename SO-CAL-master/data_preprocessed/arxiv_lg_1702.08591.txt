@@ -1,0 +1,9 @@
+A/DT long/JJ -/HYPH standing/NN obstacle/NN to/IN progress/NN in/IN deep/JJ learning/NN is/VBZ the/DT problem/NN of/IN vanishing/VBG and/CC exploding/VBG gradients/NNS ./.
+The/DT problem/NN has/VBZ largely/RB been/VBN overcome/VBN through/IN the/DT introduction/NN of/IN carefully/RB constructed/VBN initializations/NNS and/CC batch/NN normalization/NN ./.
+Nevertheless/RB ,/, architectures/NNS incorporating/VBG skip/VB -/HYPH connections/NNS such/JJ as/IN resnets/NNS perform/VBP much/RB better/JJR than/IN standard/JJ feedforward/JJ architectures/NNS despite/IN well/RB -/HYPH chosen/VBN initialization/NN and/CC batch/NN normalization/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP identify/VBP the/DT shattered/VBN gradients/NNS problem/NN ./.
+Specifically/RB ,/, we/PRP show/VBP that/IN the/DT correlation/NN between/IN gradients/NNS in/IN standard/JJ feedforward/JJ networks/NNS decays/VBZ exponentially/RB with/IN depth/NN resulting/VBG in/IN gradients/NNS that/WDT resemble/VBP white/JJ noise/NN ./.
+In/IN contrast/NN ,/, the/DT gradients/NNS in/IN architectures/NNS with/IN skip/VB -/HYPH connections/NNS are/VBP far/RB more/RBR resistant/JJ to/IN shattering/VBG decaying/VBG sublinearly/RB ./.
+Detailed/JJ empirical/JJ evidence/NN is/VBZ presented/VBN in/IN support/NN of/IN the/DT analysis/NN ,/, on/IN both/DT fully/RB -/HYPH connected/VBN networks/NNS and/CC convnets/NNS ./.
+Finally/RB ,/, we/PRP present/VBP a/DT new/JJ "/`` looks/VBZ linear/JJ "/`` (/-LRB- LL/NN )/-RRB- initialization/NN that/WDT prevents/VBZ shattering/VBG ./.
+Preliminary/JJ experiments/NNS show/VBP the/DT new/JJ initialization/NN allows/VBZ to/TO train/VB very/RB deep/JJ networks/NNS without/IN the/DT addition/NN of/IN skip/VB -/HYPH connections/NNS ./.

@@ -1,0 +1,6 @@
+Dependency/NN parsing/VBG is/VBZ an/DT important/JJ NLP/NN task/NN ./.
+A/DT popular/JJ approach/NN for/IN dependency/NN parsing/VBG is/VBZ structured/VBN perceptron/NN ./.
+Still/RB ,/, graph/NN -/HYPH based/VBN dependency/NN parsing/VBG has/VBZ the/DT time/NN complexity/NN of/IN $/$ O/UH (/-LRB- n/NN ^/SYM 3/CD )/-RRB- $/$ ,/, and/CC it/PRP suffers/VBZ from/IN slow/JJ training/NN ./.
+To/TO deal/VB with/IN this/DT problem/NN ,/, we/PRP propose/VBP a/DT parallel/JJ algorithm/NN called/VBN parallel/JJ perceptron/NN ./.
+The/DT parallel/JJ algorithm/NN can/MD make/VB full/JJ use/NN of/IN a/DT multi-core/JJ computer/NN which/WDT saves/VBZ a/DT lot/NN of/IN training/NN time/NN ./.
+Based/VBN on/IN experiments/NNS we/PRP observe/VBP that/IN dependency/NN parsing/VBG with/IN parallel/JJ perceptron/NN can/MD achieve/VB 8-fold/RB faster/RBR training/VBG speed/NN than/IN traditional/JJ structured/JJ perceptron/NN methods/NNS when/WRB using/VBG 10/CD threads/NNS ,/, and/CC with/IN no/DT loss/NN at/IN all/RB in/IN accuracy/NN ./.

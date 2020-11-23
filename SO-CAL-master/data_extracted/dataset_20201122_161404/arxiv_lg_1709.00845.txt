@@ -1,0 +1,5 @@
+This work presents a novel semi-supervised learning approach for data-driven modeling of asset failures when health status is only partially known in historical data.
+We combine a generative model parameterized by deep neural networks with non-linear embedding technique.
+It allows us to build prognostic models with the limited amount of health status information for the precise prediction of future asset reliability.
+The proposed method is evaluated on a publicly available dataset for remaining useful life (RUL) estimation, which shows significant improvement even when a fraction of the data with known health status is as sparse as 1 percent of the total.
+Our study suggests that the non-linear embedding based on a deep generative model can efficiently regularize a complex model with deep architectures while achieving high prediction accuracy that is far less sensitive to the availability of health status information.

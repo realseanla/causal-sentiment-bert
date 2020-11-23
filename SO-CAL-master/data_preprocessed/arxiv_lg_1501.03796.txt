@@ -1,0 +1,4 @@
+We/PRP consider/VBP a/DT situation/NN in/IN which/WDT we/PRP see/VBP samples/NNS in/IN $/$ \/CD mathbb/NN {/-LRB- R/NN }/-RRB- ^/SYM d/NN $/$ drawn/VBN i.i.d./VBN from/IN some/DT distribution/NN with/IN mean/JJ zero/CD and/CC unknown/JJ covariance/NN A/NN ./.
+We/PRP wish/VBP to/TO compute/VB the/DT top/JJ eigenvector/NN of/IN A/NN in/IN an/DT incremental/JJ fashion/NN -/, with/IN an/DT algorithm/NN that/WDT maintains/VBZ an/DT estimate/NN of/IN the/DT top/JJ eigenvector/NN in/IN O/NN (/-LRB- d/NN )/-RRB- space/NN ,/, and/CC incrementally/RB adjusts/VBZ the/DT estimate/NN with/IN each/DT new/JJ data/NNS point/VBP that/DT arrives/VBZ ./.
+Two/CD classical/JJ such/JJ schemes/NNS are/VBP due/JJ to/IN Krasulina/NNP (/-LRB- 1969/CD )/-RRB- and/CC Oja/NN (/-LRB- 1983/CD )/-RRB- ./.
+We/PRP give/VBP finite/NN -/HYPH sample/NN convergence/NN rates/NNS for/IN both/DT ./.

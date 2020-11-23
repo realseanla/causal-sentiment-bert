@@ -1,0 +1,5 @@
+We/PRP report/VBP an/DT implementation/NN of/IN a/DT clinical/JJ information/NN extraction/NN tool/NN that/WDT leverages/VBZ deep/JJ neural/JJ network/NN to/TO annotate/VB event/NN spans/NNS and/CC their/PRP$ attributes/NNS from/IN raw/JJ clinical/JJ notes/NNS and/CC pathology/NN reports/NNS ./.
+Our/PRP$ approach/NN uses/VBZ context/NN words/NNS and/CC their/PRP$ part/NN -/HYPH of/IN -/HYPH speech/NN tags/NNS and/CC shape/NN information/NN as/IN features/NNS ./.
+Then/RB we/PRP hire/VB temporal/JJ (/-LRB- 1D/NN )/-RRB- convolutional/JJ neural/JJ network/NN to/TO learn/VB hidden/JJ feature/NN representations/NNS ./.
+Finally/RB ,/, we/PRP use/VBP Multilayer/NNP Perceptron/NNP (/-LRB- MLP/NNP )/-RRB- to/TO predict/VB event/NN spans/NNS ./.
+The/DT empirical/JJ evaluation/NN demonstrates/VBZ that/IN our/PRP$ approach/NN significantly/RB outperforms/VBZ baselines/NNS ./.

@@ -1,0 +1,10 @@
+Fine/JJ -/HYPH grained/JJ entity/NN type/NN classification/NN (/-LRB- FETC/NN )/-RRB- is/VBZ the/DT task/NN of/IN classifying/VBG an/DT entity/NN mention/NN to/IN a/DT broad/JJ set/NN of/IN types/NNS ./.
+Distant/JJ supervision/NN paradigm/NN is/VBZ extensively/RB used/VBN to/TO generate/VB training/NN data/NNS for/IN this/DT task/NN ./.
+However/RB ,/, generated/VBN training/NN data/NNS assigns/VBZ same/JJ set/NN of/IN labels/NNS to/IN every/DT mention/NN of/IN an/DT entity/NN without/IN considering/VBG its/PRP$ local/JJ context/NN ./.
+Existing/VBG FETC/NN systems/NNS have/VBP two/CD major/JJ drawbacks/NNS :/: assuming/VBG training/NN data/NNS to/TO be/VB noise/NN free/JJ and/CC use/NN of/IN hand/NN crafted/VBN features/NNS ./.
+Our/PRP$ work/NN overcomes/VBZ both/CC drawbacks/NNS ./.
+We/PRP propose/VBP a/DT neural/JJ network/NN model/NN that/WDT jointly/RB learns/VBZ entity/NN mentions/VBZ and/CC their/PRP$ context/NN representation/NN to/TO eliminate/VB use/NN of/IN hand/NN crafted/VBN features/NNS ./.
+Our/PRP$ model/NN treats/VBZ training/NN data/NNS as/IN noisy/JJ and/CC uses/VBZ non-parametric/JJ variant/NN of/IN hinge/NN loss/NN function/NN ./.
+Experiments/NNS show/VBP that/IN the/DT proposed/VBN model/NN outperforms/VBZ previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS on/IN two/CD publicly/RB available/JJ datasets/NNS ,/, namely/RB FIGER/NNP (/-LRB- GOLD/NNP )/-RRB- and/CC BBN/NNP with/IN an/DT average/JJ relative/JJ improvement/NN of/IN 2.69/CD percent/NN in/IN micro-F1/NN score/NN ./.
+Knowledge/NN learnt/VBN by/IN our/PRP$ model/NN on/IN one/CD dataset/NN can/MD be/VB transferred/VBN to/IN other/JJ datasets/NNS while/IN using/VBG same/JJ model/NN or/CC other/JJ FETC/NNP systems/NNS ./.
+These/DT approaches/NNS of/IN transferring/VBG knowledge/NN further/RB improve/VB the/DT performance/NN of/IN respective/JJ models/NNS ./.

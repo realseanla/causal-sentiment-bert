@@ -1,0 +1,11 @@
+A/DT machine/NN learning/NN method/NN needs/VBZ to/TO adapt/VB to/IN over/IN time/NN changes/NNS in/IN the/DT environment/NN ./.
+Such/JJ changes/NNS are/VBP known/VBN as/IN concept/NN drift/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP concept/NN drift/NN tackling/VBG method/NN as/IN an/DT enhancement/NN of/IN Online/NNP Sequential/NNP Extreme/NNP Learning/NNP Machine/NNP (/-LRB- OS/NNP -/HYPH ELM/NNP )/-RRB- and/CC Constructive/JJ Enhancement/NN OS/NN -/HYPH ELM/NN (/-LRB- CEOS/NN -/HYPH ELM/NN )/-RRB- by/IN adding/VBG adaptive/JJ capability/NN for/IN classification/NN and/CC regression/NN problem/NN ./.
+The/DT scheme/NN is/VBZ named/VBN as/IN adaptive/JJ OS/NN -/HYPH ELM/NN (/-LRB- AOS/NN -/HYPH ELM/NN )/-RRB- ./.
+It/PRP is/VBZ a/DT single/JJ classifier/NN scheme/NN that/WDT works/VBZ well/RB to/TO handle/VB real/JJ drift/NN ,/, virtual/JJ drift/NN ,/, and/CC hybrid/JJ drift/NN ./.
+The/DT AOS/NN -/HYPH ELM/NN also/RB works/VBZ well/RB for/IN sudden/JJ drift/NN and/CC recurrent/JJ context/NN change/NN type/NN ./.
+The/DT scheme/NN is/VBZ a/DT simple/JJ unified/JJ method/NN implemented/VBN in/IN simple/JJ lines/NNS of/IN code/NN ./.
+We/PRP evaluated/VBD AOS/NN -/HYPH ELM/NN on/IN regression/NN and/CC classification/NN problem/NN by/IN using/VBG concept/NN drift/VB public/JJ data/NNS set/NN (/-LRB- SEA/NN and/CC STAGGER/NN )/-RRB- and/CC other/JJ public/JJ data/NN sets/NNS such/JJ as/IN MNIST/NNP ,/, USPS/NNP ,/, and/CC IDS/NNP ./.
+Experiments/NNS show/VBP that/IN our/PRP$ method/NN gives/VBZ higher/JJR kappa/NN value/NN compared/VBN to/IN the/DT multiclassifier/NN ELM/NN ensemble/NN ./.
+Even/RB though/IN AOS/NN -/HYPH ELM/NN in/IN practice/NN does/VBZ not/RB need/VB hidden/JJ nodes/NNS increase/VBP ,/, we/PRP address/VBP some/DT issues/NNS related/VBN to/IN the/DT increasing/VBG of/IN the/DT hidden/JJ nodes/NNS such/JJ as/IN error/NN condition/NN and/CC rank/NN values/NNS ./.
+We/PRP propose/VBP taking/VBG the/DT rank/NN of/IN the/DT pseudoinverse/JJ matrix/NN as/IN an/DT indicator/NN parameter/NN to/TO detect/VB underfitting/VBG condition/NN ./.

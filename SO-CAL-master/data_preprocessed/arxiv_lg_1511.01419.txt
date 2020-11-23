@@ -1,0 +1,6 @@
+Structured/VBN prediction/NN applications/NNS often/RB involve/VBP complex/JJ inference/NN problems/NNS that/WDT require/VBP the/DT use/NN of/IN approximate/JJ methods/NNS ./.
+Approximations/NNS based/VBN on/IN linear/JJ programming/NN (/-LRB- LP/NN )/-RRB- relaxations/NNS have/VBP proved/VBN particularly/RB successful/JJ in/IN this/DT setting/NN ,/, with/IN both/DT theoretical/JJ and/CC empirical/JJ support/NN ./.
+Despite/IN the/DT general/JJ intractability/NN of/IN inference/NN ,/, it/PRP has/VBZ been/VBN observed/VBN that/IN in/IN many/JJ real/JJ -/HYPH world/NN applications/NNS the/DT LP/NN relaxation/NN is/VBZ often/RB tight/JJ ./.
+In/IN this/DT work/NN we/PRP propose/VBP a/DT theoretical/JJ explanation/NN to/IN this/DT striking/JJ observation/NN ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/IN learning/VBG with/IN LP/NN relaxed/JJ inference/NN encourages/VBZ tightness/NN of/IN training/NN instances/NNS ./.
+We/PRP complement/VBP this/DT result/NN with/IN a/DT generalization/NN bound/VBN showing/VBG that/IN tightness/NN generalizes/VBZ from/IN train/NN to/TO test/VB data/NNS ./.

@@ -1,0 +1,5 @@
+Due to the intractable nature of exact lifted inference, research has recently focused on the discovery of accurate and efficient approximate inference algorithms in Statistical Relational Models (SRMs), such as Lifted First-Order Belief Propagation.
+FOBP simulates propositional factor graph belief propagation without constructing the ground factor graph by identifying and lifting over redundant message computations.
+In this work, we propose a generalization of FOBP called Lifted Generalized Belief Propagation, in which both the region structure and the message structure can be lifted.
+This approach allows more of the inference to be performed intra-region (in the exact inference step of BP), thereby allowing simulation of propagation on a graph structure with larger region scopes and fewer edges, while still maintaining tractability.
+We demonstrate that the resulting algorithm converges in fewer iterations to more accurate results on a variety of SRMs.

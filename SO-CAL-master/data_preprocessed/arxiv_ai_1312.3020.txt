@@ -1,0 +1,11 @@
+Many/JJ large/JJ datasets/NNS exhibit/VBP power/NN -/HYPH law/NN statistics/NNS :/: The/DT web/NN graph/NN ,/, social/JJ networks/NNS ,/, text/NN data/NNS ,/, click/VB through/IN data/NNS etc/FW ./.
+Their/PRP$ adjacency/NN graphs/NNS are/VBP termed/VBN natural/JJ graphs/NNS ,/, and/CC are/VBP known/VBN to/TO be/VB difficult/JJ to/TO partition/VB ./.
+As/IN a/DT consequence/NN most/RBS distributed/VBN algorithms/NNS on/IN these/DT graphs/NNS are/VBP communication/NN intensive/JJ ./.
+Many/JJ algorithms/NNS on/IN natural/JJ graphs/NNS involve/VBP an/DT Allreduce/NNP :/: a/DT sum/NN or/CC average/NN of/IN partitioned/VBN data/NNS which/WDT is/VBZ then/RB shared/VBN back/RB to/IN the/DT cluster/NN nodes/NNS ./.
+Examples/NNS include/VBP PageRank/NNP ,/, spectral/JJ partitioning/NN ,/, and/CC many/JJ machine/NN learning/VBG algorithms/NNS including/VBG regression/NN ,/, factor/NN (/-LRB- topic/NN )/-RRB- models/NNS ,/, and/CC clustering/NN ./.
+In/IN this/DT paper/NN we/PRP describe/VBP an/DT efficient/JJ and/CC scalable/JJ Allreduce/NNP primitive/JJ for/IN power/NN -/HYPH law/NN data/NNS ./.
+We/PRP point/VBP out/RP scaling/VBG problems/NNS with/IN existing/VBG butterfly/NN and/CC round/NN -/HYPH robin/NN networks/NNS for/IN Sparse/JJ Allreduce/NNP ,/, and/CC show/VBP that/IN a/DT hybrid/NN approach/NN improves/VBZ on/IN both/DT ./.
+Furthermore/RB ,/, we/PRP show/VBP that/IN Sparse/JJ Allreduce/NN stages/NNS should/MD be/VB nested/VBN instead/RB of/IN cascaded/VBN (/-LRB- as/IN in/IN the/DT dense/JJ case/NN )/-RRB- ./.
+And/CC that/IN the/DT optimum/JJ throughput/NN Allreduce/NNP network/NN should/MD be/VB a/DT butterfly/NN of/IN heterogeneous/JJ degree/NN where/WRB degree/NN decreases/VBZ with/IN depth/NN into/IN the/DT network/NN ./.
+Finally/RB ,/, a/DT simple/JJ replication/NN scheme/NN is/VBZ introduced/VBN to/TO deal/VB with/IN node/NN failures/NNS ./.
+We/PRP present/VBP experiments/NNS showing/VBG significant/JJ improvements/NNS over/IN existing/VBG systems/NNS such/JJ as/IN PowerGraph/NNP and/CC Hadoop/NNP ./.

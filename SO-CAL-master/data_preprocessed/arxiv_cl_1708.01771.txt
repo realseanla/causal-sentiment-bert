@@ -1,0 +1,7 @@
+In/IN the/DT encoder/NN -/HYPH decoder/NN architecture/NN for/IN neural/JJ machine/NN translation/NN (/-LRB- NMT/NN )/-RRB- ,/, the/DT hidden/JJ states/NNS of/IN the/DT recurrent/JJ structures/NNS in/IN the/DT encoder/NN and/CC decoder/NN carry/VBP the/DT crucial/JJ information/NN about/IN the/DT sentence.These/NN vectors/NNS are/VBP generated/VBN by/IN parameters/NNS which/WDT are/VBP updated/VBN by/IN back/RB -/HYPH propagation/NN of/IN translation/NN errors/NNS through/IN time/NN ./.
+We/PRP argue/VBP that/IN propagating/VBG errors/NNS through/IN the/DT end/NN -/HYPH to/IN -/HYPH end/NN recurrent/JJ structures/NNS are/VBP not/RB a/DT direct/JJ way/NN of/IN control/NN the/DT hidden/JJ vectors/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO use/VB word/NN predictions/NNS as/IN a/DT mechanism/NN for/IN direct/JJ supervision/NN ./.
+More/RBR specifically/RB ,/, we/PRP require/VBP these/DT vectors/NNS to/TO be/VB able/JJ to/TO predict/VB the/DT vocabulary/NN in/IN target/NN sentence/NN ./.
+Our/PRP$ simple/JJ mechanism/NN ensures/VBZ better/JJR representations/NNS in/IN the/DT encoder/NN and/CC decoder/NN without/IN using/VBG any/DT extra/JJ data/NNS or/CC annotation/NN ./.
+It/PRP is/VBZ also/RB helpful/JJ in/IN reducing/VBG the/DT target/NN side/NN vocabulary/NN and/CC improving/VBG the/DT decoding/NN efficiency/NN ./.
+Experiments/NNS on/IN Chinese/JJ -/HYPH English/JJ and/CC German/JJ -/HYPH English/JJ machine/NN translation/NN tasks/NNS show/VBP BLEU/NN improvements/NNS by/IN 4.53/CD and/CC 1.3/CD ,/, respectively/RB

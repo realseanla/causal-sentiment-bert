@@ -1,0 +1,4 @@
+In this paper, we introduce a lightweight dynamic epistemic logical framework for automated planning under initial uncertainty.
+We reduce plan verification and conformant planning to model checking problems of our logic.
+We show that the model checking problem of the iteration-free fragment is PSPACE-complete.
+By using two non-standard (but equivalent) semantics, we give novel model checking algorithms to the full language and the iteration-free language.

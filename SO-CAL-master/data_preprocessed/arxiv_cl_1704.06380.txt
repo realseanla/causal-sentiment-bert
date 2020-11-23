@@ -1,0 +1,5 @@
+Increased/VBN adaptability/NN of/IN RNN/NNP language/NN models/NNS leads/VBZ to/IN improved/VBN predictions/NNS that/WDT benefit/VBP many/JJ applications/NNS ./.
+However/RB ,/, current/JJ methods/NNS do/VBP not/RB take/VB full/JJ advantage/NN of/IN the/DT RNN/NN structure/NN ./.
+We/PRP show/VBP that/IN the/DT most/RBS widely/RB -/HYPH used/VBN approach/NN to/IN adaptation/NN (/-LRB- concatenating/VBG the/DT context/NN with/IN the/DT word/NN embedding/NN at/IN the/DT input/NN to/IN the/DT recurrent/JJ layer/NN )/-RRB- is/VBZ outperformed/VBN by/IN a/DT model/NN that/WDT has/VBZ some/DT low/JJ -/HYPH cost/NN improvements/NNS :/: adaptation/NN of/IN both/CC the/DT hidden/VBN and/CC output/NN layers/NNS ./.
+and/CC a/DT feature/NN hashing/VBG bias/NN term/NN to/TO capture/VB context/NN idiosyncrasies/NNS ./.
+Experiments/NNS on/IN language/NN modeling/NN and/CC classification/NN tasks/NNS using/VBG three/CD different/JJ corpora/NNS demonstrate/VBP the/DT advantages/NNS of/IN the/DT proposed/VBN techniques/NNS ./.

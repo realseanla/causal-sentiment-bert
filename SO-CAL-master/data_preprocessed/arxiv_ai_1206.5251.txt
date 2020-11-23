@@ -1,0 +1,5 @@
+We/PRP formulate/VBP in/IN this/DT paper/NN the/DT mini-bucket/NN algorithm/NN for/IN approximate/JJ inference/NN in/IN terms/NNS of/IN exact/JJ inference/NN on/IN an/DT approximate/JJ model/NN produced/VBN by/IN splitting/VBG nodes/NNS in/IN a/DT Bayesian/JJ network/NN ./.
+The/DT new/JJ formulation/NN leads/VBZ to/IN a/DT number/NN of/IN theoretical/JJ and/CC practical/JJ implications/NNS ./.
+First/RB ,/, we/PRP show/VBP that/IN branchand/NN -/HYPH bound/VBN search/NN algorithms/NNS that/WDT use/VBP minibucket/NN bounds/NNS may/MD operate/VB in/IN a/DT drastically/RB reduced/VBN search/NN space/NN ./.
+Second/RB ,/, we/PRP show/VBP that/IN the/DT proposed/VBN formulation/NN inspires/VBZ new/JJ minibucket/NN heuristics/NNS and/CC allows/VBZ us/PRP to/TO analyze/VB existing/VBG heuristics/NNS from/IN a/DT new/JJ perspective/NN ./.
+Finally/RB ,/, we/PRP show/VBP that/IN this/DT new/JJ formulation/NN allows/VBZ mini-bucket/NN approximations/NNS to/TO benefit/VB from/IN recent/JJ advances/NNS in/IN exact/JJ inference/NN ,/, allowing/VBG one/CD to/IN significantly/RB increase/VB the/DT reach/NN of/IN these/DT approximations/NNS ./.

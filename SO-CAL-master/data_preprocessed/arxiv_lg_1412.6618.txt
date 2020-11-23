@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ a/DT convolutional/JJ layer/NN that/WDT is/VBZ able/JJ to/TO process/VB sparse/JJ input/NN features/NNS ./.
+As/IN an/DT example/NN ,/, for/IN image/NN recognition/NN problems/NNS this/DT allows/VBZ an/DT efficient/JJ filtering/NN of/IN signals/NNS that/WDT do/VBP not/RB lie/VB on/IN a/DT dense/JJ grid/NN (/-LRB- like/IN pixel/NN position/NN )/-RRB- ,/, but/CC of/IN more/JJR general/JJ features/NNS (/-LRB- such/JJ as/IN color/NN values/NNS )/-RRB- ./.
+The/DT presented/VBN algorithm/NN makes/VBZ use/NN of/IN the/DT permutohedral/JJ lattice/NN data/NNS structure/NN ./.
+The/DT permutohedral/JJ lattice/NN was/VBD introduced/VBN to/TO efficiently/RB implement/VB a/DT bilateral/JJ filter/NN ,/, a/DT commonly/RB used/VBN image/NN processing/NN operation/NN ./.
+Its/PRP$ use/NN allows/VBZ for/IN a/DT generalization/NN of/IN the/DT convolution/NN type/NN found/VBN in/IN current/JJ (/-LRB- spatial/JJ )/-RRB- convolutional/JJ network/NN architectures/NNS ./.

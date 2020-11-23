@@ -1,0 +1,6 @@
+The combined approach of the Qualitative Reasoning and Probabilistic Functions for the knowledge representation is proposed.
+The method aims at represent uncertain, qualitative knowledge that is essential for the moving blocks task's execution.
+The attempt to formalize the commonsense knowledge is performed with the Situation Calculus language for reasoning and robot's beliefs representation.
+The method is implemented in the Prolog programming language and tested for a specific simulated scenario.
+In most cases the implementation enables us to solve a given task, i.e., move blocks to desired positions.
+The example of robot's reasoning and main parts of the implemented program's code are presented.

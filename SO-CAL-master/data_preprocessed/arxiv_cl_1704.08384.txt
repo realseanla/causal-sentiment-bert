@@ -1,0 +1,9 @@
+Existing/VBG question/NN answering/VBG methods/NNS infer/VBP answers/NNS either/CC from/IN a/DT knowledge/NN base/NN or/CC from/IN raw/JJ text/NN ./.
+While/IN knowledge/NN base/NN (/-LRB- KB/NN )/-RRB- methods/NNS are/VBP good/JJ at/IN answering/VBG compositional/JJ questions/NNS ,/, their/PRP$ performance/NN is/VBZ often/RB affected/VBN by/IN the/DT incompleteness/NN of/IN the/DT KB/NNP ./.
+Au/NN contraire/NN ,/, web/NN text/NN contains/VBZ millions/NNS of/IN facts/NNS that/WDT are/VBP absent/JJ in/IN the/DT KB/NNP ,/, however/RB in/IN an/DT unstructured/JJ form/NN ./.
+{/-LRB- \/SYM it/PRP Universal/NNP schema/NN }/-RRB- can/MD support/VB reasoning/NN on/IN the/DT union/NN of/IN both/DT structured/JJ KBs/NNS and/CC unstructured/JJ text/NN by/IN aligning/VBG them/PRP in/IN a/DT common/JJ embedded/VBN space/NN ./.
+In/IN this/DT paper/NN we/PRP extend/VBP universal/JJ schema/NN to/IN natural/JJ language/NN question/NN answering/VBG ,/, employing/VBG \/SYM emph/NN {/-LRB- memory/NN networks/NNS }/-RRB- to/TO attend/VB to/IN the/DT large/JJ body/NN of/IN facts/NNS in/IN the/DT combination/NN of/IN text/NN and/CC KB/NN ./.
+Our/PRP$ models/NNS can/MD be/VB trained/VBN in/IN an/DT end/NN -/HYPH to/IN -/HYPH end/NN fashion/NN on/IN question/NN -/HYPH answer/NN pairs/NNS ./.
+Evaluation/NN results/NNS on/IN \/SYM spades/NNS fill/VB -/HYPH in/IN -/HYPH the/DT -/HYPH blank/JJ question/NN answering/VBG dataset/NN show/VBP that/IN exploiting/VBG universal/JJ schema/NN for/IN question/NN answering/NN is/VBZ better/JJR than/IN using/VBG either/CC a/DT KB/NN or/CC text/NN alone/RB ./.
+This/DT model/NN also/RB outperforms/VBZ the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN by/IN 8.5/CD $/$ F_1/CD $/$ points/NNS ./.
+\/SYM footnote/NN {/-LRB- Code/NN and/CC data/NNS available/JJ in/IN \/SYM url/NN {/-LRB-

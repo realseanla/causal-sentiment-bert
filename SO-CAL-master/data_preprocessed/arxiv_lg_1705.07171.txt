@@ -1,0 +1,9 @@
+Optimization/NN plays/VBZ a/DT key/JJ role/NN in/IN machine/NN learning/NN ./.
+Recently/RB ,/, stochastic/JJ second/JJ -/HYPH order/NN methods/NNS have/VBP attracted/VBN much/JJ attention/NN due/IN to/IN their/PRP$ low/JJ computational/JJ cost/NN in/IN each/DT iteration/NN ./.
+However/RB ,/, these/DT algorithms/NNS might/MD perform/VB poorly/RB especially/RB if/IN it/PRP is/VBZ hard/JJ to/TO approximate/VB the/DT Hessian/JJ well/NN and/CC efficiently/RB ./.
+As/RB far/RB as/IN we/PRP know/VBP ,/, there/EX is/VBZ no/DT effective/JJ way/NN to/TO handle/VB this/DT problem/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP resort/VBP to/IN Nestrov/NNP 's/POS acceleration/NN technique/NN to/TO improve/VB the/DT convergence/NN performance/NN of/IN a/DT class/NN of/IN second/JJ -/HYPH order/NN methods/NNS called/VBN approximate/JJ Newton/NNP ./.
+We/PRP give/VBP a/DT theoretical/JJ analysis/NN that/WDT Nestrov/NNP 's/POS acceleration/NN technique/NN can/MD improve/VB the/DT convergence/NN performance/NN for/IN approximate/JJ Newton/NNP just/RB like/IN for/IN first/JJ -/HYPH order/NN methods/NNS ./.
+We/PRP accordingly/RB propose/VBP an/DT accelerated/VBN regularized/VBN sub-sampled/JJ Newton/NNP ./.
+Our/PRP$ accelerated/VBN algorithm/NN performs/VBZ much/RB better/JJR than/IN the/DT original/JJ regularized/VBN sub-sampled/JJ Newton/NNP in/IN experiments/NNS ,/, which/WDT validates/VBZ our/PRP$ theory/NN empirically/RB ./.
+Besides/RB ,/, the/DT accelerated/VBN regularized/VBN sub-sampled/JJ Newton/NNP has/VBZ good/JJ performance/NN comparable/JJ to/IN or/CC even/RB better/JJR than/IN state/NN -/HYPH of/IN -/HYPH art/NN algorithms/NNS ./.

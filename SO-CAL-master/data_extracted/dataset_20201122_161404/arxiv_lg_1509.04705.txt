@@ -1,0 +1,8 @@
+The paper is focused on the forecasting method for time series groups with the use of algorithms for cluster analysis.
+$K$-means algorithm is suggested to be a basic one for clustering.
+The coordinates of the centers of clusters have been put in correspondence with summarizing time series data the centroids of the clusters.
+A description of time series, the centroids of the clusters, is implemented with the use of forecasting models.
+They are based on strict binary trees and a modified clonal selection algorithm.
+With the help of such forecasting models, the possibility of forming analytic dependences is shown.
+It is suggested to use a common forecasting model, which is constructed for time series the centroid of the cluster, in forecasting the private (individual) time series in the cluster.
+The promising application of the suggested method for grouped time series forecasting is demonstrated.

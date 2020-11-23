@@ -1,0 +1,8 @@
+Recently/RB ,/, there/EX has/VBZ been/VBN a/DT surge/NN of/IN interest/NN in/IN using/VBG spectral/JJ methods/NNS for/IN estimating/VBG latent/JJ variable/JJ models/NNS ./.
+However/RB ,/, it/PRP is/VBZ usually/RB assumed/VBN that/IN the/DT distribution/NN of/IN the/DT observations/NNS conditioned/VBN on/IN the/DT latent/JJ variables/NNS is/VBZ either/CC discrete/JJ or/CC belongs/VBZ to/IN a/DT parametric/JJ family/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP the/DT estimation/NN of/IN an/DT $/$ m/CD $/$ -/HYPH state/NN hidden/JJ Markov/NNP model/NN (/-LRB- HMM/NN )/-RRB- with/IN only/RB smoothness/NN assumptions/NNS ,/, such/JJ as/IN H/NN \/SYM "/`` olderian/JJ conditions/NNS ,/, on/IN the/DT emission/NN densities/NNS ./.
+By/IN leveraging/VBG some/DT recent/JJ advances/NNS in/IN continuous/JJ linear/JJ algebra/NN and/CC numerical/JJ analysis/NN ,/, we/PRP develop/VBP a/DT computationally/RB efficient/JJ spectral/JJ algorithm/NN for/IN learning/VBG nonparametric/JJ HMMs/NNS ./.
+Our/PRP$ technique/NN is/VBZ based/VBN on/IN computing/VBG an/DT SVD/NN on/IN nonparametric/JJ estimates/NNS of/IN density/NN functions/NNS by/IN viewing/VBG them/PRP as/IN \/SYM emph/NN {/-LRB- continuous/JJ matrices/NNS }/-RRB- ./.
+We/PRP derive/VBP sample/NN complexity/NN bounds/NNS via/IN concentration/NN results/NNS for/IN nonparametric/JJ density/NN estimation/NN and/CC novel/JJ perturbation/NN theory/NN results/VBZ for/IN continuous/JJ matrices/NNS ./.
+We/PRP implement/VBP our/PRP$ method/NN using/VBG Chebyshev/NNP polynomial/JJ approximations/NNS ./.
+Our/PRP$ method/NN is/VBZ competitive/JJ with/IN other/JJ baselines/NNS on/IN synthetic/JJ and/CC real/JJ problems/NNS and/CC is/VBZ also/RB very/RB computationally/RB efficient/JJ ./.

@@ -1,0 +1,10 @@
+Supervised/VBN classification/NN approaches/NNS can/MD predict/VB labels/NNS for/IN unknown/JJ data/NNS because/IN of/IN the/DT supervised/JJ training/NN process/NN ./.
+The/DT success/NN of/IN classification/NN is/VBZ heavily/RB dependent/JJ on/IN the/DT labeled/VBN training/NN data/NNS ./.
+Differently/RB ,/, clustering/NN is/VBZ effective/JJ in/IN revealing/VBG the/DT aggregation/NN property/NN of/IN unlabeled/JJ data/NNS ,/, but/CC the/DT performance/NN of/IN most/JJS clustering/NN methods/NNS is/VBZ limited/VBN by/IN the/DT absence/NN of/IN labeled/VBN data/NNS ./.
+In/IN real/JJ applications/NNS ,/, however/RB ,/, it/PRP is/VBZ time/NN -/HYPH consuming/VBG and/CC sometimes/RB impossible/JJ to/TO obtain/VB labeled/VBN data/NNS ./.
+The/DT combination/NN of/IN clustering/NN and/CC classification/NN is/VBZ a/DT promising/JJ and/CC active/JJ approach/NN which/WDT can/MD largely/RB improve/VB the/DT performance/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT innovative/JJ and/CC effective/JJ clustering/NN framework/NN based/VBN on/IN self/NN -/HYPH adaptive/JJ labeling/NN (/-LRB- CSAL/NNP )/-RRB- which/WDT integrates/VBZ clustering/NN and/CC classification/NN on/IN unlabeled/JJ data/NNS ./.
+Clustering/NN is/VBZ first/JJ employed/VBN to/TO partition/VB data/NNS and/CC a/DT certain/JJ proportion/NN of/IN clustered/VBN data/NNS are/VBP selected/VBN by/IN our/PRP$ proposed/VBN labeling/NN approach/NN for/IN training/NN classifiers/NNS ./.
+In/IN order/NN to/TO refine/VB the/DT trained/VBN classifiers/NNS ,/, an/DT iterative/JJ process/NN of/IN Expectation/NN -/HYPH Maximization/NN algorithm/NN is/VBZ devised/VBN into/IN the/DT proposed/VBN clustering/NN framework/NN CSAL/NNP ./.
+Experiments/NNS are/VBP conducted/VBN on/IN publicly/RB data/NN sets/NNS to/TO test/VB different/JJ combinations/NNS of/IN clustering/NN algorithms/NNS and/CC classification/NN models/NNS as/RB well/RB as/IN various/JJ training/NN data/NNS labeling/NN methods/NNS ./.
+The/DT experimental/JJ results/NNS show/VBP that/IN our/PRP$ approach/NN along/IN with/IN the/DT self/NN -/HYPH adaptive/JJ method/NN outperforms/VBZ other/JJ methods/NNS ./.

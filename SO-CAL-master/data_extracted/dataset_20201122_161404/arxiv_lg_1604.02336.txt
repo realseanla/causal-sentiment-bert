@@ -1,0 +1,6 @@
+Estimating student proficiency is an important task for computer-based learning systems.
+We compare a family of IRT-based proficiency estimation methods with a recently proposed approach using recurrent neural networks (RNNs) on two publicly available and one proprietary data set, evaluating each model according to how well a student's future response is predicted given previous responses.
+IRT-based methods consistently matched or outperformed the RNN-based method across all data sets at the finest level of content granularity that was tractable for them to be trained on.
+A hierarchical extension of IRT that captured item grouping structure performed best overall.
+When data sets included non-trivial autocorrelations in student response patterns, a temporal extension of IRT improved performance over standard IRT while the RNN-based method did not.
+We conclude that IRT-based models provide a simpler, better-performing alternative to the current generation of RNN-based models while also affording more interpretability and guarantees due to their formulation as Bayesian probabilistic models.

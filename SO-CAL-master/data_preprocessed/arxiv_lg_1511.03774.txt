@@ -1,0 +1,8 @@
+We/PRP study/VBP the/DT best/JJS arm/NN identification/NN (/-LRB- BEST/JJS -1-ARM/NN )/-RRB- problem/NN ,/, which/WDT is/VBZ defined/VBN as/IN follows/VBZ ./.
+We/PRP are/VBP given/VBN $/$ n/NN $/$ stochastic/JJ bandit/NN arms/NNS ./.
+The/DT $/$ i/CD $/$ th/IN arm/NN has/VBZ a/DT reward/NN distribution/NN $/$ D_i/CD $/$ with/IN an/DT unknown/JJ mean/NN $/$ \/SYM mu_i/FW $/$ ./.
+Upon/IN each/DT play/NN of/IN the/DT $/$ i/CD $/$ th/IN arm/NN ,/, we/PRP can/MD get/VB a/DT reward/NN ,/, sampled/VBN i.i.d./VBN from/IN $/$ D_i/CD $/$ ./.
+We/PRP would/MD like/VB to/TO identify/VB the/DT arm/NN with/IN largest/JJS mean/NN with/IN probability/NN at/IN least/JJS $/$ 1/CD -/HYPH \/SYM delta/NN $/$ ,/, using/VBG as/IN few/JJ samples/NNS as/IN possible/JJ ./.
+We/PRP also/RB study/VBP an/DT important/JJ special/JJ case/NN where/WRB there/EX are/VBP only/RB two/CD arms/NNS ,/, which/WDT we/PRP call/VBP the/DT sign/NN problem/NN ./.
+We/PRP achieve/VBP a/DT very/RB detailed/JJ understanding/NN of/IN the/DT optimal/JJ sample/NN complexity/NN of/IN sign/NN ,/, simplifying/VBG and/CC significantly/RB extending/VBG a/DT classical/JJ result/NN by/IN Farrell/NNP in/IN 1964/CD ,/, with/IN a/DT completely/RB new/JJ proof/NN ./.
+Using/VBG the/DT new/JJ lower/JJR bound/VBN for/IN sign/NN ,/, we/PRP obtain/VBP the/DT first/RB lower/JJR bound/VBN for/IN BEST/JJS -1-ARM/NN that/WDT goes/VBZ beyond/IN the/DT classic/JJ Mannor/NNP -/HYPH Tsitsiklis/NNP lower/JJR bound/JJ ,/, by/IN an/DT interesting/JJ reduction/NN from/IN sign/NN to/IN BEST/JJS -1-ARM/NN ./.

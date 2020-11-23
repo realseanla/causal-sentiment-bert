@@ -1,0 +1,5 @@
+Online/NN learning/NN is/VBZ becoming/VBG increasingly/RB popular/JJ for/IN training/NN on/IN large/JJ datasets/NNS ./.
+However/RB ,/, the/DT sequential/JJ nature/NN of/IN online/JJ learning/NN requires/VBZ a/DT centralized/JJ learner/NN to/TO store/VB data/NNS and/CC update/NN parameters/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP a/DT fully/RB decentralized/VBN setting/NN ,/, cooperative/JJ autonomous/JJ online/JJ learning/NN ,/, with/IN a/DT distributed/VBN data/NNS source/NN ./.
+The/DT learners/NNS perform/VBP learning/VBG with/IN local/JJ parameters/NNS while/IN periodically/RB communicating/VBG with/IN a/DT small/JJ subset/NN of/IN neighbors/NNS to/TO exchange/VB information/NN ./.
+We/PRP define/VBP the/DT regret/NN in/IN terms/NNS of/IN an/DT implicit/JJ aggregated/VBN parameter/NN of/IN the/DT learners/NNS for/IN such/PDT a/DT setting/NN and/CC prove/VB regret/NN bounds/NNS similar/JJ to/IN the/DT classical/JJ sequential/JJ online/JJ learning/NN ./.

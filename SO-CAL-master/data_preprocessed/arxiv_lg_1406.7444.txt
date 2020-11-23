@@ -1,0 +1,3 @@
+We/PRP describe/VBP a/DT learning/NN -/HYPH based/VBN approach/NN to/IN blind/JJ image/NN deconvolution/NN ./.
+It/PRP uses/VBZ a/DT deep/JJ layered/JJ architecture/NN ,/, parts/NNS of/IN which/WDT are/VBP borrowed/VBN from/IN recent/JJ work/NN on/IN neural/JJ network/NN learning/NN ,/, and/CC parts/NNS of/IN which/WDT incorporate/VBP computations/NNS that/WDT are/VBP specific/JJ to/IN image/NN deconvolution/NN ./.
+The/DT system/NN is/VBZ trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN on/IN a/DT set/NN of/IN artificially/RB generated/VBN training/NN examples/NNS ,/, enabling/VBG competitive/JJ performance/NN in/IN blind/JJ deconvolution/NN ,/, both/CC with/IN respect/NN to/IN quality/NN and/CC runtime/NN ./.

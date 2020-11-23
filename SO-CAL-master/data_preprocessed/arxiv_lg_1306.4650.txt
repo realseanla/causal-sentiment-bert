@@ -1,0 +1,10 @@
+Majorization/NNP -/HYPH minimization/NN algorithms/NNS consist/VBP of/IN iteratively/RB minimizing/VBG a/DT majorizing/NN surrogate/NN of/IN an/DT objective/JJ function/NN ./.
+Because/IN of/IN its/PRP$ simplicity/NN and/CC its/PRP$ wide/JJ applicability/NN ,/, this/DT principle/NN has/VBZ been/VBN very/RB popular/JJ in/IN statistics/NNS and/CC in/IN signal/NN processing/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP intend/VBP to/TO make/VB this/DT principle/NN scalable/JJ ./.
+We/PRP introduce/VBP and/CC study/VBP a/DT stochastic/JJ majorization/NN -/HYPH minimization/NN scheme/NN ,/, which/WDT is/VBZ able/JJ to/TO deal/VB with/IN large/JJ -/HYPH scale/NN or/CC possibly/RB infinite/JJ data/NNS sets/NNS ./.
+When/WRB applied/VBN to/IN convex/NN optimization/NN problems/NNS under/IN suitable/JJ assumptions/NNS ,/, we/PRP show/VBP that/IN it/PRP achieves/VBZ an/DT expected/VBN convergence/NN rate/NN of/IN O/NN (/-LRB- 1/CD //SYM \/SYM sqrt/SYM {/-LRB- n/NN }/-RRB- )/-RRB- after/IN n/NN iterations/NNS ,/, and/CC O/NN (/-LRB- 1/CD //SYM n/NN )/-RRB- for/IN strongly/RB convex/JJ functions/NNS ./.
+Equally/RB important/JJ ,/, our/PRP$ scheme/NN almost/RB surely/RB converges/VBZ to/IN stationary/JJ points/NNS for/IN a/DT large/JJ class/NN of/IN non-convex/JJ problems/NNS ./.
+We/PRP derive/VBP from/IN our/PRP$ framework/NN several/JJ efficient/JJ algorithms/NNS ./.
+First/RB ,/, we/PRP propose/VBP a/DT new/JJ stochastic/JJ proximal/JJ gradient/NN method/NN ,/, which/WDT experimentally/RB matches/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN solvers/NNS for/IN large/JJ -/HYPH scale/NN l1/NN -/HYPH logistic/JJ regression/NN ./.
+Second/RB ,/, we/PRP develop/VBP an/DT online/JJ DC/NNP programming/NN algorithm/NN for/IN non-convex/JJ sparse/JJ estimation/NN ./.
+Finally/RB ,/, we/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ technique/NN for/IN solving/VBG large/JJ -/HYPH scale/NN structured/JJ matrix/NN factorization/NN problems/NNS ./.

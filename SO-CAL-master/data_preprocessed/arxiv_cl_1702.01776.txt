@@ -1,0 +1,7 @@
+In/IN aspect/NN -/HYPH based/VBN sentiment/NN analysis/NN ,/, most/JJS existing/VBG methods/NNS either/CC focus/NN on/IN aspect/NN //HYPH opinion/NN terms/NNS extraction/NN or/CC aspect/NN terms/NNS categorization/NN ./.
+However/RB ,/, each/DT task/NN by/IN itself/PRP only/RB provides/VBZ partial/JJ information/NN to/TO end/VB users/NNS ./.
+To/TO generate/VB more/RBR detailed/JJ and/CC structured/JJ opinion/NN analysis/NN ,/, we/PRP propose/VBP a/DT finer/JJR -/HYPH grained/JJ problem/NN ,/, which/WDT we/PRP call/VBP category/NN -/HYPH specific/JJ aspect/NN and/CC opinion/NN terms/NNS extraction/NN ./.
+This/DT problem/NN involves/VBZ the/DT identification/NN of/IN aspect/NN and/CC opinion/NN terms/NNS within/IN each/DT sentence/NN ,/, as/RB well/RB as/IN the/DT categorization/NN of/IN the/DT identified/VBN terms/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP propose/VBP an/DT end/NN -/HYPH to/IN -/HYPH end/NN multi-task/VB attention/NN model/NN ,/, where/WRB each/DT task/NN corresponds/VBZ to/IN aspect/NN //HYPH opinion/NN terms/NNS extraction/NN for/IN a/DT specific/JJ category/NN ./.
+Our/PRP$ model/NN benefits/NNS from/IN exploring/VBG the/DT commonalities/NNS and/CC relationships/NNS among/IN different/JJ tasks/NNS to/TO address/VB the/DT data/NNS sparsity/NN issue/NN ./.
+We/PRP demonstrate/VBP its/PRP$ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN three/CD benchmark/NN datasets/NNS ./.

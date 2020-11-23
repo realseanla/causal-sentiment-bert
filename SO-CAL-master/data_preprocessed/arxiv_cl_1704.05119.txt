@@ -1,0 +1,9 @@
+Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- RNN/NN )/-RRB- are/VBP widely/RB used/VBN to/TO solve/VB a/DT variety/NN of/IN problems/NNS and/CC as/IN the/DT quantity/NN of/IN data/NNS and/CC the/DT amount/NN of/IN available/JJ compute/VB have/VBP increased/VBN ,/, so/RB have/VBP model/NN sizes/NNS ./.
+The/DT number/NN of/IN parameters/NNS in/IN recent/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN networks/NNS makes/VBZ them/PRP hard/JJ to/TO deploy/VB ,/, especially/RB on/IN mobile/JJ phones/NNS and/CC embedded/VBN devices/NNS ./.
+The/DT challenge/NN is/VBZ due/JJ to/IN both/CC the/DT size/NN of/IN the/DT model/NN and/CC the/DT time/NN it/PRP takes/VBZ to/TO evaluate/VB it/PRP ./.
+In/IN order/NN to/TO deploy/VB these/DT RNNs/NNS efficiently/RB ,/, we/PRP propose/VBP a/DT technique/NN to/TO reduce/VB the/DT parameters/NNS of/IN a/DT network/NN by/IN pruning/NN weights/NNS during/IN the/DT initial/JJ training/NN of/IN the/DT network/NN ./.
+At/IN the/DT end/NN of/IN training/NN ,/, the/DT parameters/NNS of/IN the/DT network/NN are/VBP sparse/JJ while/IN accuracy/NN is/VBZ still/RB close/JJ to/IN the/DT original/JJ dense/JJ neural/JJ network/NN ./.
+The/DT network/NN size/NN is/VBZ reduced/VBN by/IN 8x/NN and/CC the/DT time/NN required/VBN to/TO train/VB the/DT model/NN remains/VBZ constant/JJ ./.
+Additionally/RB ,/, we/PRP can/MD prune/VB a/DT larger/JJR dense/JJ network/NN to/TO achieve/VB better/JJR than/IN baseline/NN performance/NN while/IN still/RB reducing/VBG the/DT total/JJ number/NN of/IN parameters/NNS significantly/RB ./.
+Pruning/VBG RNNs/NNS reduces/VBZ the/DT size/NN of/IN the/DT model/NN and/CC can/MD also/RB help/VB achieve/VB significant/JJ inference/NN time/NN speed/NN -/HYPH up/NN using/VBG sparse/JJ matrix/NN multiply/VB ./.
+Benchmarks/NNS show/VBP that/IN using/VBG our/PRP$ technique/NN model/NN size/NN can/MD be/VB reduced/VBN by/IN 90/CD percent/NN and/CC speed/NN -/HYPH up/NN is/VBZ around/IN 2x/NN to/IN 7x/NN ./.

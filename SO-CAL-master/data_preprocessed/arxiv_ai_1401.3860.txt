@@ -1,0 +1,9 @@
+Noisy/JJ probabilistic/JJ relational/JJ rules/NNS are/VBP a/DT promising/JJ world/NN model/NN representation/NN for/IN several/JJ reasons/NNS ./.
+They/PRP are/VBP compact/JJ and/CC generalize/VB over/IN world/NN instantiations/NNS ./.
+They/PRP are/VBP usually/RB interpretable/JJ and/CC they/PRP can/MD be/VB learned/VBN effectively/RB from/IN the/DT action/NN experiences/NNS in/IN complex/JJ worlds/NNS ./.
+We/PRP investigate/VBP reasoning/NN with/IN such/JJ rules/NNS in/IN grounded/VBN relational/JJ domains/NNS ./.
+Our/PRP$ algorithms/NNS exploit/VBP the/DT compactness/NN of/IN rules/NNS for/IN efficient/JJ and/CC flexible/JJ decision/NN -/HYPH theoretic/JJ planning/NN ./.
+As/IN a/DT first/JJ approach/NN ,/, we/PRP combine/VBP these/DT rules/NNS with/IN the/DT Upper/NNP Confidence/NN Bounds/NNP applied/VBD to/IN Trees/NNP (/-LRB- UCT/NNP )/-RRB- algorithm/NN based/VBN on/IN look/NN -/HYPH ahead/NN trees/NNS ./.
+Our/PRP$ second/JJ approach/NN converts/VBZ these/DT rules/NNS into/IN a/DT structured/JJ dynamic/JJ Bayesian/JJ network/NN representation/NN and/CC predicts/VBZ the/DT effects/NNS of/IN action/NN sequences/NNS using/VBG approximate/JJ inference/NN and/CC beliefs/NNS over/IN world/NN states/NNS ./.
+We/PRP evaluate/VBP the/DT effectiveness/NN of/IN our/PRP$ approaches/NNS for/IN planning/VBG in/IN a/DT simulated/JJ complex/JJ 3D/NN robot/NN manipulation/NN scenario/NN with/IN an/DT articulated/JJ manipulator/NN and/CC realistic/JJ physics/NN and/CC in/IN domains/NNS of/IN the/DT probabilistic/JJ planning/NN competition/NN ./.
+Empirical/JJ results/NNS show/VBP that/IN our/PRP$ methods/NNS can/MD solve/VB problems/NNS where/WRB existing/VBG methods/NNS fail/VBP ./.

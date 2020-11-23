@@ -1,0 +1,5 @@
+This/DT paper/NN describes/VBZ an/DT alignment/NN -/HYPH based/VBN model/NN for/IN interpreting/VBG natural/JJ language/NN instructions/NNS in/IN context/NN ./.
+We/PRP approach/VBP instruction/NN following/VBG as/IN a/DT search/NN over/IN plans/NNS ,/, scoring/VBG sequences/NNS of/IN actions/NNS conditioned/VBN on/IN structured/JJ observations/NNS of/IN text/NN and/CC the/DT environment/NN ./.
+By/IN explicitly/RB modeling/VBG both/CC the/DT low/JJ -/HYPH level/NN compositional/JJ structure/NN of/IN individual/JJ actions/NNS and/CC the/DT high/JJ -/HYPH level/NN structure/NN of/IN full/JJ plans/NNS ,/, we/PRP are/VBP able/JJ to/TO learn/VB both/DT grounded/VBN representations/NNS of/IN sentence/NN meaning/NN and/CC pragmatic/JJ constraints/NNS on/IN interpretation/NN ./.
+To/TO demonstrate/VB the/DT model/NN 's/POS flexibility/NN ,/, we/PRP apply/VBP it/PRP to/IN a/DT diverse/JJ set/NN of/IN benchmark/NN tasks/NNS ./.
+On/IN every/DT task/NN ,/, we/PRP outperform/VBP strong/JJ task/NN -/HYPH specific/JJ baselines/NNS ,/, and/CC achieve/VB several/JJ new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ./.

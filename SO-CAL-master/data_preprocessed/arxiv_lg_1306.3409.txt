@@ -1,0 +1,6 @@
+The/DT (/-LRB- constrained/VBN )/-RRB- minimization/NN of/IN a/DT ratio/NN of/IN set/VBN functions/NNS is/VBZ a/DT problem/NN frequently/RB occurring/VBG in/IN clustering/NN and/CC community/NN detection/NN ./.
+As/IN these/DT optimization/NN problems/NNS are/VBP typically/RB NP/NNP -/HYPH hard/JJ ,/, one/CD uses/VBZ convex/NN or/CC spectral/JJ relaxations/NNS in/IN practice/NN ./.
+While/IN these/DT relaxations/NNS can/MD be/VB solved/VBN globally/RB optimally/RB ,/, they/PRP are/VBP often/RB too/RB loose/JJ and/CC thus/RB lead/VB to/IN results/NNS far/RB away/RB from/IN the/DT optimum/JJ ./.
+In/IN this/DT paper/NN we/PRP show/VBP that/IN every/DT constrained/VBN minimization/NN problem/NN of/IN a/DT ratio/NN of/IN non-negative/JJ set/NN functions/VBZ allows/VBZ a/DT tight/JJ relaxation/NN into/IN an/DT unconstrained/JJ continuous/JJ optimization/NN problem/NN ./.
+This/DT result/NN leads/VBZ to/IN a/DT flexible/JJ framework/NN for/IN solving/VBG constrained/VBN problems/NNS in/IN network/NN analysis/NN ./.
+While/IN a/DT globally/RB optimal/JJ solution/NN for/IN the/DT resulting/VBG non-convex/JJ problem/NN can/MD not/RB be/VB guaranteed/VBN ,/, we/PRP outperform/VBP the/DT loose/JJ convex/NN or/CC spectral/JJ relaxations/NNS by/IN a/DT large/JJ margin/NN on/IN constrained/JJ local/JJ clustering/NN problems/NNS ./.

@@ -1,0 +1,7 @@
+The/DT research/NN presents/VBZ epsilon/NN hierarchical/JJ fuzzy/JJ twin/JJ support/NN vector/NN regression/NN based/VBN on/IN epsilon/NN fuzzy/JJ twin/JJ support/NN vector/NN regression/NN and/CC epsilon/NN twin/JJ support/NN vector/NN regression/NN ./.
+Epsilon/NNP FTSVR/NNP is/VBZ achieved/VBN by/IN incorporating/VBG trapezoidal/JJ fuzzy/JJ numbers/NNS to/IN epsilon/NNP TSVR/NNP which/WDT takes/VBZ care/NN of/IN uncertainty/NN existing/VBG in/IN forecasting/NN problems/NNS ./.
+Epsilon/NNP FTSVR/NNP determines/VBZ a/DT pair/NN of/IN epsilon/NN insensitive/JJ proximal/JJ functions/NNS by/IN solving/VBG two/CD related/JJ quadratic/JJ programming/NN problems/NNS ./.
+The/DT structural/JJ risk/NN minimization/NN principle/NN is/VBZ implemented/VBN by/IN introducing/VBG regularization/NN term/NN in/IN primal/JJ problems/NNS of/IN epsilon/NNP FTSVR/NNP ./.
+This/DT yields/VBZ dual/JJ stable/JJ positive/JJ definite/JJ problems/NNS which/WDT improves/VBZ regression/NN performance/NN ./.
+Epsilon/NNP FTSVR/NNP is/VBZ then/RB reformulated/VBN as/IN epsilon/NNP HFTSVR/NNP consisting/VBG of/IN a/DT set/NN of/IN hierarchical/JJ layers/NNS each/DT containing/VBG epsilon/NN FTSVR/NN ./.
+Experimental/JJ results/NNS on/IN both/DT synthetic/JJ and/CC real/JJ datasets/NNS reveal/VBP that/IN epsilon/NNP HFTSVR/NNP has/VBZ remarkable/JJ generalization/NN performance/NN with/IN minimum/JJ training/NN time/NN ./.

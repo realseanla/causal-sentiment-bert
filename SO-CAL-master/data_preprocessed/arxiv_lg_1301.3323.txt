@@ -1,0 +1,7 @@
+Learning/VBG invariant/JJ representations/NNS from/IN images/NNS is/VBZ one/CD of/IN the/DT hardest/JJS challenges/NNS facing/VBG computer/NN vision/NN ./.
+Spatial/JJ pooling/VBG is/VBZ widely/RB used/VBN to/TO create/VB invariance/NN to/IN spatial/JJ shifting/NN ,/, but/CC it/PRP is/VBZ restricted/VBN to/IN convolutional/JJ models/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/NN pooling/VBG method/NN that/WDT can/MD learn/VB soft/JJ clustering/NN of/IN features/NNS from/IN image/NN sequences/NNS ./.
+It/PRP is/VBZ trained/VBN to/TO improve/VB the/DT temporal/JJ coherence/NN of/IN features/NNS ,/, while/IN keeping/VBG the/DT information/NN loss/NN at/IN minimum/NN ./.
+Our/PRP$ method/NN does/VBZ not/RB use/VB spatial/JJ information/NN ,/, so/IN it/PRP can/MD be/VB used/VBN with/IN non-convolutional/JJ models/NNS too/RB ./.
+Experiments/NNS on/IN images/NNS extracted/VBN from/IN natural/JJ videos/NNS showed/VBD that/IN our/PRP$ method/NN can/MD cluster/VB similar/JJ features/NNS together/RB ./.
+When/WRB trained/VBN by/IN convolutional/JJ features/NNS ,/, auto/NN -/HYPH pooling/VBG outperformed/VBN traditional/JJ spatial/JJ pooling/VBG on/IN an/DT image/NN classification/NN task/NN ,/, even/RB though/IN it/PRP does/VBZ not/RB use/VB the/DT spatial/JJ topology/NN of/IN features/NNS ./.

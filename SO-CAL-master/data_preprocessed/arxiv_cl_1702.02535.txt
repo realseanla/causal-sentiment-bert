@@ -1,0 +1,6 @@
+A/DT fundamental/JJ advantage/NN of/IN neural/JJ models/NNS for/IN NLP/NN is/VBZ their/PRP$ ability/NN to/TO learn/VB representations/NNS from/IN scratch/NN ./.
+However/RB ,/, in/IN practice/NN this/DT often/RB means/VBZ ignoring/VBG existing/VBG external/JJ linguistic/JJ resources/NNS ,/, e.g./FW ,/, WordNet/NNP or/CC domain/NN specific/JJ ontologies/NNS such/JJ as/IN the/DT Unified/NNP Medical/NNP Language/NNP System/NNP (/-LRB- UMLS/NNP )/-RRB- ./.
+We/PRP propose/VBP a/DT general/JJ ,/, novel/JJ method/NN for/IN exploiting/VBG such/JJ resources/NNS via/IN weight/NN sharing/NN ./.
+Prior/JJ work/NN on/IN weight/NN sharing/NN in/IN neural/JJ networks/NNS has/VBZ considered/VBN it/PRP largely/RB as/IN a/DT means/NN of/IN model/NN compression/NN ./.
+In/IN contrast/NN ,/, we/PRP treat/VBP weight/NN sharing/NN as/IN a/DT flexible/JJ mechanism/NN for/IN incorporating/VBG prior/JJ knowledge/NN into/IN neural/JJ models/NNS ./.
+We/PRP show/VBP that/IN this/DT approach/NN consistently/RB yields/VBZ improved/VBN performance/NN on/IN classification/NN tasks/NNS compared/VBN to/IN baseline/NN strategies/NNS that/WDT do/VBP not/RB exploit/VB weight/NN sharing/NN ./.

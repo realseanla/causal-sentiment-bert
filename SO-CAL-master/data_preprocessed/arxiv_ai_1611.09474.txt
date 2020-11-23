@@ -1,0 +1,5 @@
+We/PRP consider/VBP the/DT problem/NN of/IN maximizing/VBG a/DT non-monotone/JJ DR/NNP -/HYPH submodular/JJ function/NN subject/NN to/IN a/DT cardinality/NN constraint/NN ./.
+Diminishing/VBG returns/NNS (/-LRB- DR/NNP )/-RRB- submodularity/NN is/VBZ a/DT generalization/NN of/IN the/DT diminishing/VBG returns/NNS property/NN for/IN functions/NNS defined/VBN over/IN the/DT integer/NN lattice/NN ./.
+This/DT generalization/NN can/MD be/VB used/VBN to/TO solve/VB many/JJ machine/NN learning/NN or/CC combinatorial/JJ optimization/NN problems/NNS such/JJ as/IN optimal/JJ budget/NN allocation/NN ,/, revenue/NN maximization/NN ,/, etc/FW ./.
+In/IN this/DT work/NN we/PRP propose/VBP the/DT first/JJ polynomial/JJ -/HYPH time/NN approximation/NN algorithms/NNS for/IN non-monotone/JJ constrained/JJ maximization/NN ./.
+We/PRP implement/VBP our/PRP$ algorithms/NNS for/IN a/DT revenue/NN maximization/NN problem/NN with/IN a/DT real/JJ -/HYPH world/NN dataset/NN to/TO check/VB their/PRP$ efficiency/NN and/CC performance/NN ./.

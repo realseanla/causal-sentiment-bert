@@ -1,0 +1,7 @@
+The/DT University/NNP of/IN Sheffield/NNP (/-LRB- USFD/NNP )/-RRB- participated/VBD in/IN the/DT International/NNP Workshop/NNP for/IN Spoken/NNP Language/NNP Translation/NN (/-LRB- IWSLT/NN )/-RRB- in/IN 2014/CD ./.
+In/IN this/DT paper/NN ,/, we/PRP will/MD introduce/VB the/DT USFD/NNP SLT/NN system/NN for/IN IWSLT/NNP ./.
+Automatic/JJ speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- is/VBZ achieved/VBN by/IN two/CD multi-pass/NN deep/JJ neural/JJ network/NN systems/NNS with/IN adaptation/NN and/CC rescoring/NN techniques/NNS ./.
+Machine/NN translation/NN (/-LRB- MT/NN )/-RRB- is/VBZ achieved/VBN by/IN a/DT phrase/NN -/HYPH based/VBN system/NN ./.
+The/DT USFD/NNP primary/JJ system/NN incorporates/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ASR/NN and/CC MT/NN techniques/NNS and/CC gives/VBZ a/DT BLEU/NN score/NN of/IN 23.45/CD and/CC 14.75/CD on/IN the/DT English/NNP -/HYPH to/IN -/HYPH French/JJ and/CC English/JJ -/HYPH to/IN -/HYPH German/JJ speech/NN -/HYPH to/IN -/HYPH text/NN translation/NN task/NN with/IN the/DT IWSLT/NNP 2014/CD data/NNS ./.
+The/DT USFD/NNP contrastive/JJ systems/NNS explore/VB the/DT integration/NN of/IN ASR/NN and/CC MT/NN by/IN using/VBG a/DT quality/NN estimation/NN system/NN to/IN rescore/VB the/DT ASR/NNP outputs/NNS ,/, optimising/VBG towards/IN better/JJR translation/NN ./.
+This/DT gives/VBZ a/DT further/JJ 0.54/CD and/CC 0.26/CD BLEU/NN improvement/NN respectively/RB on/IN the/DT IWSLT/NNP 2012/CD and/CC 2014/CD evaluation/NN data/NNS ./.

@@ -1,0 +1,9 @@
+Chinese/JJ word/NN segmentation/NN is/VBZ a/DT fundamental/JJ task/NN for/IN Chinese/JJ language/NN processing/NN ./.
+The/DT granularity/NN mismatch/NN problem/NN is/VBZ the/DT main/JJ cause/NN of/IN the/DT errors/NNS ./.
+This/DT paper/NN showed/VBD that/IN the/DT binary/JJ tree/NN representation/NN can/MD store/VB outputs/NNS with/IN different/JJ granularity/NN ./.
+A/DT binary/JJ tree/NN based/VBN framework/NN is/VBZ also/RB designed/VBN to/TO overcome/VB the/DT granularity/NN mismatch/NN problem/NN ./.
+There/EX are/VBP two/CD steps/NNS in/IN this/DT framework/NN ,/, namely/RB tree/NN building/NN and/CC tree/NN pruning/NN ./.
+The/DT tree/NN pruning/NN step/NN is/VBZ specially/RB designed/VBN to/TO focus/VB on/IN the/DT granularity/NN problem/NN ./.
+Previous/JJ work/NN for/IN Chinese/JJ word/NN segmentation/NN such/JJ as/IN the/DT sequence/NN tagging/NN can/MD be/VB easily/RB employed/VBN in/IN this/DT framework/NN ./.
+This/DT framework/NN can/MD also/RB provide/VB quantitative/JJ error/NN analysis/NN methods/NNS ./.
+The/DT experiments/NNS showed/VBD that/IN after/IN using/VBG a/DT more/RBR sophisticated/JJ tree/NN pruning/NN function/NN for/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN conditional/JJ random/JJ field/NN based/VBN baseline/NN ,/, the/DT error/NN reduction/NN can/MD be/VB up/RB to/IN 20/CD percent/NN ./.

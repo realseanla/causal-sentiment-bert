@@ -1,0 +1,6 @@
+Non-maximum/JJ suppression/NN (/-LRB- NMS/NN )/-RRB- is/VBZ used/VBN in/IN virtually/RB all/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN object/NN detection/NN pipelines/NNS ./.
+While/IN essential/JJ object/NN detection/NN ingredients/NNS such/JJ as/IN features/NNS ,/, classifiers/NNS and/CC proposal/NN methods/NNS have/VBP been/VBN extensively/RB researched/VBN it/PRP it/PRP surprising/JJ how/WRB little/JJ work/NN has/VBZ aimed/VBN to/TO systematically/RB address/VB NMS/NNP ./.
+The/DT de-facto/JJ standard/NN for/IN NMS/NNP is/VBZ based/VBN on/IN greedy/JJ clustering/NN with/IN a/DT fixed/VBN distance/NN threshold/NN ,/, which/WDT forces/VBZ to/TO trade/VB -/HYPH off/RP recall/NN versus/CC precision/NN ./.
+We/PRP propose/VBP a/DT convnet/NN designed/VBN to/TO perform/VB NMS/NN of/IN a/DT given/VBN set/NN of/IN detections/NNS ./.
+We/PRP report/VBP experiments/NNS on/IN a/DT synthetic/JJ setup/NN ,/, and/CC results/VBZ on/IN crowded/JJ pedestrian/NN detection/NN scenes/NNS ./.
+Our/PRP$ approach/NN overcomes/VBZ the/DT intrinsic/JJ limitations/NNS of/IN greedy/JJ NMS/NN ,/, obtaining/VBG better/JJR recall/NN and/CC precision/NN ./.

@@ -1,0 +1,3 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP the/DT distributed/VBN tree/NN kernels/NNS (/-LRB- DTK/NN )/-RRB- as/IN a/DT novel/JJ method/NN to/TO reduce/VB time/NN and/CC space/NN complexity/NN of/IN tree/NN kernels/NNS ./.
+Using/VBG a/DT linear/JJ complexity/NN algorithm/NN to/TO compute/VB vectors/NNS for/IN trees/NNS ,/, we/PRP embed/VBP feature/NN spaces/NNS of/IN tree/NN fragments/NNS in/IN low/JJ -/HYPH dimensional/JJ spaces/NNS where/WRB the/DT kernel/NN computation/NN is/VBZ directly/RB done/VBN with/IN dot/NN product/NN ./.
+We/PRP show/VBP that/IN DTKs/NNS are/VBP faster/RBR ,/, correlate/VB with/IN tree/NN kernels/NNS ,/, and/CC obtain/VB a/DT statistically/RB similar/JJ performance/NN in/IN two/CD natural/JJ language/NN processing/NN tasks/NNS ./.

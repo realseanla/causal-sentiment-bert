@@ -1,0 +1,6 @@
+CPU/NN Scheduling/NN is/VBZ the/DT base/NN of/IN multiprogramming/NN ./.
+Scheduling/NN is/VBZ a/DT process/NN which/WDT decides/VBZ order/NN of/IN task/NN from/IN a/DT set/NN of/IN multiple/JJ tasks/NNS that/WDT are/VBP ready/JJ to/TO execute/VB ./.
+There/EX are/VBP number/NN of/IN CPU/NN scheduling/NN algorithms/NNS available/JJ ,/, but/CC it/PRP is/VBZ very/RB difficult/JJ task/NN to/TO decide/VB which/WDT one/NN is/VBZ better/JJR ./.
+This/DT paper/NN discusses/VBZ the/DT design/NN and/CC implementation/NN of/IN modified/VBN fuzzy/JJ based/VBN CPU/NN scheduling/NN algorithm/NN ./.
+This/DT paper/NN present/NN a/DT new/JJ set/NN of/IN fuzzy/JJ rules/NNS ./.
+It/PRP demonstrates/VBZ that/IN scheduling/NN done/VBN with/IN new/JJ priority/NN improves/VBZ average/JJ waiting/VBG time/NN and/CC average/JJ turnaround/NN time/NN ./.

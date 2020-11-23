@@ -1,0 +1,3 @@
+Ensemble methods such as boosting combine multiple learners to obtain better prediction than could be obtained from any individual learner.
+Here we propose a principled framework for directly constructing ensemble learning methods from kernel methods.
+Unlike previous studies showing the equivalence between boosting and support vector machines (SVMs), which needs a translation procedure, we show that it is possible to design boosting-like procedure to solve the SVM optimization problems.

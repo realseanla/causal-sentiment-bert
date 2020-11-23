@@ -1,0 +1,6 @@
+A/DT plausible/JJ definition/NN of/IN "/`` reasoning/NN "/'' could/MD be/VB "/`` algebraically/RB manipulating/VBG previously/RB acquired/VBN knowledge/NN in/IN order/NN to/TO answer/VB a/DT new/JJ question/NN "/'' ./.
+This/DT definition/NN covers/VBZ first/RB -/HYPH order/NN logical/JJ inference/NN or/CC probabilistic/JJ inference/NN ./.
+It/PRP also/RB includes/VBZ much/JJ simpler/JJR manipulations/NNS commonly/RB used/VBN to/TO build/VB large/JJ learning/NN systems/NNS ./.
+For/IN instance/NN ,/, we/PRP can/MD build/VB an/DT optical/JJ character/NN recognition/NN system/NN by/IN first/JJ training/NN a/DT character/NN segmenter/NN ,/, an/DT isolated/JJ character/NN recognizer/NN ,/, and/CC a/DT language/NN model/NN ,/, using/VBG appropriate/JJ labeled/VBN training/NN sets/NNS ./.
+Adequately/RB concatenating/VBG these/DT modules/NNS and/CC fine/JJ tuning/NN the/DT resulting/VBG system/NN can/MD be/VB viewed/VBN as/IN an/DT algebraic/JJ operation/NN in/IN a/DT space/NN of/IN models/NNS ./.
+The/DT resulting/VBG model/NN answers/VBZ a/DT new/JJ question/NN ,/, that/DT is/VBZ ,/, converting/VBG the/DT image/NN of/IN a/DT text/NN page/NN into/IN a/DT computer/NN readable/JJ text/NN ./.

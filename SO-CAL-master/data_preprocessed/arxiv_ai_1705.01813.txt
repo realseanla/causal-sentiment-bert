@@ -1,0 +1,12 @@
+In/IN the/DT era/NN of/IN big/JJ data/NNS ,/, k/CD -/HYPH means/NN clustering/NN has/VBZ been/VBN widely/RB adopted/VBN as/IN a/DT basic/JJ processing/NN tool/NN in/IN various/JJ contexts/NNS ./.
+However/RB ,/, its/PRP$ computational/JJ cost/NN could/MD be/VB prohibitively/RB high/JJ as/IN the/DT data/NNS size/NN and/CC the/DT cluster/NN number/NN are/VBP large/JJ ./.
+It/PRP is/VBZ well/RB known/VBN that/IN the/DT processing/NN bottleneck/NN of/IN k/CD -/HYPH means/NN lies/NNS in/IN the/DT operation/NN of/IN seeking/VBG closest/JJS centroid/JJ in/IN each/DT iteration/NN ./.
+In/IN this/DT paper/NN ,/, a/DT novel/JJ solution/NN towards/IN the/DT scalability/NN issue/NN of/IN k/CD -/HYPH means/NN is/VBZ presented/VBN ./.
+In/IN the/DT proposal/NN ,/, k/CD -/HYPH means/NN is/VBZ supported/VBN by/IN an/DT approximate/JJ k/NN -/HYPH nearest/JJS neighbors/NNS graph/NN ./.
+In/IN the/DT k/NN -/HYPH means/NN iteration/NN ,/, each/DT data/NN sample/NN is/VBZ only/RB compared/VBN to/IN clusters/NNS that/IN its/PRP$ nearest/JJS neighbors/NNS reside/VBP ./.
+Since/IN the/DT number/NN of/IN nearest/JJS neighbors/NNS we/PRP consider/VBP is/VBZ much/RB less/JJR than/IN k/CD ,/, the/DT processing/NN cost/NN in/IN this/DT step/NN becomes/VBZ minor/JJ and/CC irrelevant/JJ to/IN k/NN ./.
+The/DT processing/NN bottleneck/NN is/VBZ therefore/RB overcome/VBN ./.
+The/DT most/RBS interesting/JJ thing/NN is/VBZ that/IN k/CD -/HYPH nearest/JJS neighbor/NN graph/NN is/VBZ constructed/VBN by/IN iteratively/RB calling/VBG the/DT fast/JJ $/$ k/CD $/$ -/HYPH means/VBZ itself/PRP ./.
+Comparing/VBG with/IN existing/VBG fast/JJ k/NN -/HYPH means/NN variants/NNS ,/, the/DT proposed/VBN algorithm/NN achieves/VBZ hundreds/NNS to/IN thousands/NNS times/NNS speed/NN -/HYPH up/NN while/IN maintaining/VBG high/JJ clustering/NN quality/NN ./.
+As/IN it/PRP is/VBZ tested/VBN on/IN 10/CD million/CD 512/CD -/HYPH dimensional/JJ data/NNS ,/, it/PRP takes/VBZ only/RB 5.2/CD hours/NNS to/TO produce/VB 1/CD million/CD clusters/NNS ./.
+In/IN contrast/NN ,/, to/TO fulfill/VB the/DT same/JJ scale/NN of/IN clustering/NN ,/, it/PRP would/MD take/VB 3/CD years/NNS for/IN traditional/JJ k/NN -/HYPH means/NNS ./.

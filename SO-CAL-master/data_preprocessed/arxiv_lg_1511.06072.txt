@@ -1,0 +1,8 @@
+We/PRP present/VBP a/DT new/JJ supervised/JJ architecture/NN termed/VBN Mediated/JJ Mixture/NN -/HYPH of/IN -/HYPH Experts/NNS (/-LRB- MMoE/NN )/-RRB- that/WDT allows/VBZ us/PRP to/TO improve/VB classification/NN accuracy/NN of/IN Deep/NNP Convolutional/NNP Networks/NNP (/-LRB- DCN/NNP )/-RRB- ./.
+Our/PRP$ architecture/NN achieves/VBZ this/DT with/IN the/DT help/NN of/IN expert/NN networks/NNS :/: A/DT network/NN is/VBZ trained/VBN on/IN a/DT disjoint/NN subset/NN of/IN a/DT given/VBN dataset/NN and/CC then/RB run/VB in/IN parallel/JJ to/IN other/JJ experts/NNS during/IN deployment/NN ./.
+A/DT mediator/NN is/VBZ employed/VBN if/IN experts/NNS contradict/VBP each/DT other/JJ ./.
+This/DT allows/VBZ our/PRP$ framework/NN to/IN naturally/RB support/NN incremental/JJ learning/NN ,/, as/IN adding/VBG new/JJ classes/NNS requires/VBZ (/-LRB- re/IN -/HYPH )/-RRB- training/NN of/IN the/DT new/JJ expert/NN only/RB ./.
+We/PRP also/RB propose/VBP two/CD measures/NNS to/TO control/VB computational/JJ complexity/NN :/: An/DT early/JJ -/HYPH stopping/NN mechanism/NN halts/VBZ experts/NNS that/WDT have/VBP low/JJ confidence/NN in/IN their/PRP$ prediction/NN ./.
+The/DT system/NN allows/VBZ to/TO trade/VB -/HYPH off/RP accuracy/NN and/CC complexity/NN without/IN further/RB retraining/VBG ./.
+We/PRP also/RB suggest/VBP to/TO share/VB low/JJ -/HYPH level/NN convolutional/JJ layers/NNS between/IN experts/NNS in/IN an/DT effort/NN to/TO avoid/VB computation/NN of/IN a/DT near/JJ -/HYPH duplicate/JJ feature/NN set/NN ./.
+We/PRP evaluate/VBP our/PRP$ system/NN on/IN a/DT popular/JJ dataset/NN and/CC report/NN improved/VBD accuracy/NN compared/VBN to/IN a/DT single/JJ model/NN of/IN same/JJ configuration/NN ./.

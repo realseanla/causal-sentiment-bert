@@ -1,0 +1,6 @@
+We/PRP present/VBP \/SYM textit/FW {/-LRB- AutoExtend/NNP }/-RRB- ,/, a/DT system/NN to/TO learn/VB embeddings/NNS for/IN synsets/NNS and/CC lexemes/NNS ./.
+It/PRP is/VBZ flexible/JJ in/IN that/IN it/PRP can/MD take/VB any/DT word/NN embeddings/NNS as/IN input/NN and/CC does/VBZ not/RB need/VB an/DT additional/JJ training/NN corpus/NN ./.
+The/DT synset/NN //HYPH lexeme/NN embeddings/NNS obtained/VBN live/VBP in/IN the/DT same/JJ vector/NN space/NN as/IN the/DT word/NN embeddings/NNS ./.
+A/DT sparse/JJ tensor/NN formalization/NN guarantees/NNS efficiency/NN and/CC parallelizability/NN ./.
+We/PRP use/VBP WordNet/NNP as/IN a/DT lexical/JJ resource/NN ,/, but/CC AutoExtend/NNP can/MD be/VB easily/RB applied/VBN to/IN other/JJ resources/NNS like/IN Freebase/NNP ./.
+AutoExtend/NNP achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN word/NN similarity/NN and/CC word/NN sense/NN disambiguation/NN tasks/NNS ./.

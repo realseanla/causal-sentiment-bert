@@ -1,0 +1,11 @@
+Relational/JJ Markov/NNP Random/NNP Fields/NNPS are/VBP a/DT general/JJ and/CC flexible/JJ framework/NN for/IN reasoning/NN about/IN the/DT joint/JJ distribution/NN over/IN attributes/NNS of/IN a/DT large/JJ number/NN of/IN interacting/VBG entities/NNS ./.
+The/DT main/JJ computational/JJ difficulty/NN in/IN learning/VBG such/JJ models/NNS is/VBZ inference/NN ./.
+Even/RB when/WRB dealing/VBG with/IN complete/JJ data/NNS ,/, where/WRB one/PRP can/MD summarize/VB a/DT large/JJ domain/NN by/IN sufficient/JJ statistics/NNS ,/, learning/VBG requires/VBZ one/CD to/IN compute/VB the/DT expectation/NN of/IN the/DT sufficient/JJ statistics/NNS given/VBN different/JJ parameter/NN choices/NNS ./.
+The/DT typical/JJ solution/NN to/IN this/DT problem/NN is/VBZ to/TO resort/VB to/IN approximate/JJ inference/NN procedures/NNS ,/, such/JJ as/IN loopy/JJ belief/NN propagation/NN ./.
+Although/IN these/DT procedures/NNS are/VBP quite/RB efficient/JJ ,/, they/PRP still/RB require/VBP computation/NN that/WDT is/VBZ on/IN the/DT order/NN of/IN the/DT number/NN of/IN interactions/NNS (/-LRB- or/CC features/NNS )/-RRB- in/IN the/DT model/NN ./.
+When/WRB learning/VBG a/DT large/JJ relational/JJ model/NN over/IN a/DT complex/JJ domain/NN ,/, even/RB such/JJ approximations/NNS require/VBP unrealistic/JJ running/NN time/NN ./.
+In/IN this/DT paper/NN we/PRP show/VBP that/IN for/IN a/DT particular/JJ class/NN of/IN relational/JJ MRFs/NNS ,/, which/WDT have/VBP inherent/JJ symmetry/NN ,/, we/PRP can/MD perform/VB the/DT inference/NN needed/VBN for/IN learning/VBG procedures/NNS using/VBG a/DT template/NN -/HYPH level/NN belief/NN propagation/NN ./.
+This/DT procedure/NN 's/POS running/NN time/NN is/VBZ proportional/JJ to/IN the/DT size/NN of/IN the/DT relational/JJ model/NN rather/RB than/IN the/DT size/NN of/IN the/DT domain/NN ./.
+Moreover/RB ,/, we/PRP show/VBP that/IN this/DT computational/JJ procedure/NN is/VBZ equivalent/JJ to/IN sychronous/JJ loopy/JJ belief/NN propagation/NN ./.
+This/DT enables/VBZ a/DT dramatic/JJ speedup/NN in/IN inference/NN and/CC learning/NN time/NN ./.
+We/PRP use/VBP this/DT procedure/NN to/TO learn/VB relational/JJ MRFs/NNS for/IN capturing/VBG the/DT joint/JJ distribution/NN of/IN large/JJ protein/NN -/HYPH protein/NN interaction/NN networks/NNS ./.

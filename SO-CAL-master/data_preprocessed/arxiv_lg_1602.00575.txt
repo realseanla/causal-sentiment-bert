@@ -1,0 +1,10 @@
+We/PRP explore/VBP the/DT design/NN of/IN an/DT effective/JJ crowdsourcing/NN system/NN for/IN an/DT $/$ M$/$ -/HYPH ary/JJ classification/NN task/NN ./.
+Crowd/NN workers/NNS complete/JJ simple/JJ binary/JJ microtasks/NNS whose/WP$ results/NNS are/VBP aggregated/VBN to/TO give/VB the/DT final/JJ decision/NN ./.
+We/PRP consider/VBP the/DT novel/JJ scenario/NN where/WRB the/DT workers/NNS have/VBP a/DT reject/VB option/NN so/IN that/IN they/PRP are/VBP allowed/VBN to/TO skip/VB microtasks/NNS when/WRB they/PRP are/VBP unable/JJ to/TO or/CC choose/VB not/RB to/TO respond/VB to/IN binary/JJ microtasks/NNS ./.
+For/IN example/NN ,/, in/IN mismatched/VBN speech/NN transcription/NN ,/, crowd/NN workers/NNS who/WP do/VBP not/RB know/VB the/DT language/NN may/MD not/RB be/VB able/JJ to/TO respond/VB to/IN certain/JJ microtasks/NNS outside/IN their/PRP$ categorical/JJ perception/NN ./.
+We/PRP present/VBP an/DT aggregation/NN approach/NN using/VBG a/DT weighted/JJ majority/NN voting/NN rule/NN ,/, where/WRB each/DT worker/NN 's/POS response/NN is/VBZ assigned/VBN an/DT optimized/VBN weight/NN to/TO maximize/VB crowd/NN 's/POS classification/NN performance/NN ./.
+We/PRP evaluate/VBP system/NN performance/NN in/IN both/CC exact/JJ and/CC asymptotic/JJ forms/NNS ./.
+Further/RB ,/, we/PRP consider/VBP the/DT case/NN where/WRB there/EX may/MD be/VB a/DT set/NN of/IN greedy/JJ workers/NNS in/IN the/DT crowd/NN for/IN whom/WP reward/NN is/VBZ very/RB important/JJ ./.
+Greedy/JJ workers/NNS may/MD respond/VB to/IN a/DT microtask/NN even/RB when/WRB they/PRP are/VBP unable/JJ to/TO perform/VB it/PRP reliably/RB ./.
+We/PRP consider/VBP an/DT oblivious/JJ and/CC an/DT expurgation/NN strategy/NN for/IN crowdsourcing/VBG with/IN greedy/JJ workers/NNS ,/, and/CC develop/VB an/DT algorithm/NN to/TO adaptively/RB switch/VB between/IN the/DT two/CD ,/, based/VBN on/IN the/DT estimated/VBN fraction/NN of/IN greedy/JJ workers/NNS in/IN the/DT anonymous/JJ crowd/NN ./.
+Simulation/NNP results/VBZ show/NN performance/NN improvement/NN of/IN the/DT proposed/VBN approaches/NNS compared/VBN with/IN conventional/JJ majority/NN voting/NN ./.

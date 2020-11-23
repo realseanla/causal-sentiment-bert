@@ -1,0 +1,2 @@
+We/PRP build/VBP a/DT multi-source/JJ machine/NN translation/NN model/NN and/CC train/VB it/PRP to/TO maximize/VB the/DT probability/NN of/IN a/DT target/NN English/NNP string/NN given/VBN French/JJ and/CC German/JJ sources/NNS ./.
+Using/VBG the/DT neural/JJ encoder/NN -/HYPH decoder/NN framework/NN ,/, we/PRP explore/VBP several/JJ combination/NN methods/NNS and/CC report/VB up/RP to/IN 4.8/CD Bleu/NNP increases/VBZ on/IN top/NN of/IN a/DT very/RB strong/JJ attention/NN -/HYPH based/VBN neural/JJ translation/NN model/NN ./.

@@ -1,0 +1,9 @@
+Time/NNP -/HYPH efficient/JJ link/NN discovery/NN is/VBZ of/IN central/JJ importance/NN to/TO implement/VB the/DT vision/NN of/IN the/DT Semantic/JJ Web/NN ./.
+Some/DT of/IN the/DT most/RBS rapid/JJ Link/NNP Discovery/NNP approaches/VBZ rely/VBP internally/RB on/IN planning/VBG to/TO execute/VB link/NN specifications/NNS ./.
+In/IN newer/JJR works/NNS ,/, linear/JJ models/NNS have/VBP been/VBN used/VBN to/TO estimate/VB the/DT runtime/NN the/DT fastest/JJS planners/NNS ./.
+However/RB ,/, no/DT other/JJ category/NN of/IN models/NNS has/VBZ been/VBN studied/VBN for/IN this/DT purpose/NN so/RB far/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP non-linear/JJ runtime/NN estimation/NN functions/VBZ for/IN runtime/NN estimation/NN ./.
+In/IN particular/JJ ,/, we/PRP study/VBP exponential/JJ and/CC mixed/JJ models/NNS for/IN the/DT estimation/NN of/IN the/DT runtimes/NNS of/IN planners/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP evaluate/VBP three/CD different/JJ models/NNS for/IN runtime/NN on/IN six/CD datasets/NNS using/VBG 400/CD link/NN specifications/NNS ./.
+We/PRP show/VBP that/IN exponential/JJ and/CC mixed/JJ models/NNS achieve/VBP better/JJR fits/NNS when/WRB trained/VBN but/CC are/VBP only/RB to/TO be/VB preferred/VBN in/IN some/DT cases/NNS ./.
+Our/PRP$ evaluation/NN also/RB shows/VBZ that/IN the/DT use/NN of/IN better/JJR runtime/NN approximation/NN models/NNS has/VBZ a/DT positive/JJ impact/NN on/IN the/DT overall/JJ execution/NN of/IN link/NN specifications/NNS ./.

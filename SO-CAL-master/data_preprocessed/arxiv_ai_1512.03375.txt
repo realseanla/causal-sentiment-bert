@@ -1,0 +1,3 @@
+In/IN this/DT work/NN ,/, we/PRP present/VBP a/DT MCTS/NN -/HYPH based/VBN Go/NNP -/HYPH playing/VBG program/NN which/WDT uses/VBZ convolutional/JJ networks/NNS in/IN all/DT parts/NNS ./.
+Our/PRP$ method/NN performs/VBZ MCTS/NNP in/IN batches/NNS ,/, explores/VBZ the/DT Monte/NNP Carlo/NNP search/VB tree/NN using/VBG Thompson/NNP sampling/NN and/CC a/DT convolutional/JJ network/NN ,/, and/CC evaluates/VBZ convnet/NN -/HYPH based/VBN rollouts/NNS on/IN the/DT GPU/NNP ./.
+We/PRP achieve/VBP strong/JJ win/NN rates/NNS against/IN open/JJ source/NN Go/VB programs/NNS and/CC attain/VB competitive/JJ results/NNS against/IN state/NN of/IN the/DT art/NN convolutional/JJ net/NN -/HYPH based/VBN Go/NNP -/HYPH playing/VBG programs/NNS ./.

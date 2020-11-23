@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, harmony/NN search/NN algorithm/NN is/VBZ applied/VBN to/IN curriculum/NN -/HYPH based/VBN course/NN timetabling/NN ./.
+The/DT implementation/NN ,/, specifically/RB the/DT process/NN of/IN improvisation/NN consists/VBZ of/IN memory/NN consideration/NN ,/, random/JJ consideration/NN and/CC pitch/NN adjustment/NN ./.
+In/IN memory/NN consideration/NN ,/, the/DT value/NN of/IN the/DT course/NN number/NN for/IN new/JJ solution/NN was/VBD selected/VBN from/IN all/DT other/JJ course/NN number/NN located/VBN in/IN the/DT same/JJ column/NN of/IN the/DT Harmony/NNP Memory/NN ./.
+This/DT research/NN used/VBD the/DT highest/JJS occurrence/NN of/IN the/DT course/NN number/NN to/TO be/VB scheduled/VBN in/IN a/DT new/JJ harmony/NN ./.
+The/DT remaining/VBG courses/NNS that/WDT have/VBP not/RB been/VBN scheduled/VBN by/IN memory/NN consideration/NN will/MD go/VB through/IN random/JJ consideration/NN ,/, i.e./FW will/MD select/VB any/DT feasible/JJ location/NN available/JJ to/TO be/VB scheduled/VBN in/IN the/DT new/JJ harmony/NN solution/NN ./.
+Each/DT course/NN scheduled/VBN out/IN of/IN memory/NN consideration/NN is/VBZ examined/VBN as/IN to/IN whether/IN it/PRP should/MD be/VB pitch/JJ adjusted/VBN with/IN probability/NN of/IN eight/CD procedures/NNS ./.
+However/RB ,/, the/DT algorithm/NN produced/VBD results/NNS that/WDT were/VBD not/RB comparatively/RB better/JJR than/IN those/DT previously/RB known/VBN as/IN best/JJS solution/NN ./.
+With/IN proper/JJ modification/NN in/IN terms/NNS of/IN the/DT approach/NN in/IN this/DT algorithm/NN would/MD make/VB the/DT algorithm/NN perform/VB better/JJR on/IN curriculum/NN -/HYPH based/VBN course/NN timetabling/NN ./.

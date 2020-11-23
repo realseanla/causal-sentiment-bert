@@ -1,0 +1,7 @@
+Multi-label/JJ classification/NN is/VBZ a/DT common/JJ supervised/VBD machine/NN learning/NN problem/NN where/WRB each/DT instance/NN is/VBZ associated/VBN with/IN multiple/JJ classes/NNS ./.
+The/DT key/JJ challenge/NN in/IN this/DT problem/NN is/VBZ learning/VBG the/DT correlations/NNS between/IN the/DT classes/NNS ./.
+An/DT additional/JJ challenge/NN arises/VBZ when/WRB the/DT labels/NNS of/IN the/DT training/NN instances/NNS are/VBP provided/VBN by/IN noisy/JJ ,/, heterogeneous/JJ crowdworkers/NNS with/IN unknown/JJ qualities/NNS ./.
+We/PRP first/RB assume/VBP labels/NNS from/IN a/DT perfect/JJ source/NN and/CC propose/VB a/DT novel/NN topic/NN model/NN where/WRB the/DT present/JJ as/RB well/RB as/IN the/DT absent/JJ classes/NNS generate/VBP the/DT latent/JJ topics/NNS and/CC hence/RB the/DT words/NNS ./.
+We/PRP non-trivially/RB extend/VBP our/PRP$ topic/NN model/NN to/IN the/DT scenario/NN where/WRB the/DT labels/NNS are/VBP provided/VBN by/IN noisy/JJ crowdworkers/NNS ./.
+Extensive/JJ experimentation/NN on/IN real/JJ world/NN datasets/NNS reveals/VBZ the/DT superior/JJ performance/NN of/IN the/DT proposed/VBN model/NN ./.
+The/DT proposed/VBN model/NN learns/VBZ the/DT qualities/NNS of/IN the/DT annotators/NNS as/RB well/RB ,/, even/RB with/IN minimal/JJ training/NN data/NNS ./.

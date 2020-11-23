@@ -1,0 +1,8 @@
+We show a Talagrand-type of concentration inequality for Multi-Task Learning (MTL), using which we establish sharp excess risk bounds for MTL in terms of distribution- and data-dependent versions of the Local Rademacher Complexity (LRC).
+We also give a new bound on the LRC for strongly convex hypothesis classes, which applies not only to MTL but also to the standard i.i.d.
+setting.
+Combining both results, one can now easily derive fast-rate bounds on the excess risk for many prominent MTL methods, including---as we demonstrate---Schatten-norm, group-norm, and graph-regularized MTL.
+The derived bounds reflect a relationship akeen to a conservation law of asymptotic convergence rates.
+This very relationship allows for trading o?
+slower rates w.r.t.
+the number of tasks for faster rates with respect to the number of available samples per task, when compared to the rates obtained via a traditional, global Rademacher analysis.

@@ -1,0 +1,4 @@
+Semi-supervised/VBN learning/NN algorithms/NNS are/VBP an/DT indispensable/JJ tool/NN when/WRB labeled/VBN examples/NNS are/VBP scarce/JJ and/CC there/EX are/VBP many/JJ unlabeled/JJ examples/NNS [/-LRB- Blum/NNP and/CC Chawla/NNP 2001/CD ,/, Zhu/NNP et/FW ./.
+al./FW 2003/CD ]/-RRB- ./.
+With/IN graph/NN -/HYPH based/VBN methods/NNS ,/, entities/NNS (/-LRB- examples/NNS )/-RRB- correspond/VBP to/IN nodes/NNS in/IN a/DT graph/NN and/CC edges/NNS correspond/VBP to/IN related/JJ entities/NNS ./.
+The/DT graph/NN structure/NN is/VBZ used/VBN to/TO infer/VB implicit/JJ pairwise/JJ affinity/NN values/NNS (/-LRB- kernel/NN )/-RRB- which/WDT are/VBP used/VBN to/TO compute/VB the/DT learned/VBN labels/NNS ./.

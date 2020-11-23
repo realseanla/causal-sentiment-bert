@@ -1,0 +1,8 @@
+We/PRP describe/VBP a/DT new/JJ instance/NN -/HYPH based/VBN learning/NN algorithm/NN called/VBD the/DT Boundary/NNP Forest/NNP (/-LRB- BF/NN )/-RRB- algorithm/NN ,/, that/WDT can/MD be/VB used/VBN for/IN supervised/JJ and/CC unsupervised/JJ learning/NN ./.
+The/DT algorithm/NN builds/VBZ a/DT forest/NN of/IN trees/NNS whose/WP$ nodes/NNS store/VBP previously/RB seen/VBN examples/NNS ./.
+It/PRP can/MD be/VB shown/VBN data/NNS points/VBZ one/CD at/IN a/DT time/NN and/CC updates/NNS itself/PRP incrementally/RB ,/, hence/RB it/PRP is/VBZ naturally/RB online/RB ./.
+Few/JJ instance/NN -/HYPH based/VBN algorithms/NNS have/VBP this/DT property/NN while/IN being/VBG simultaneously/RB fast/RB ,/, which/WDT the/DT BF/NN is/VBZ ./.
+This/DT is/VBZ crucial/JJ for/IN applications/NNS where/WRB one/PRP needs/VBZ to/TO respond/VB to/IN input/NN data/NNS in/IN real/JJ time/NN ./.
+The/DT number/NN of/IN children/NNS of/IN each/DT node/NN is/VBZ not/RB set/VBN beforehand/RB but/CC obtained/VBN from/IN the/DT training/NN procedure/NN ,/, which/WDT makes/VBZ the/DT algorithm/NN very/RB flexible/JJ with/IN regards/NNS to/IN what/WP data/NNS manifolds/NNS it/PRP can/MD learn/VB ./.
+We/PRP test/VBP its/PRP$ generalization/NN performance/NN and/CC speed/NN on/IN a/DT range/NN of/IN benchmark/NN datasets/NNS and/CC detail/NN in/IN which/WDT settings/NNS it/PRP outperforms/VBZ the/DT state/NN of/IN the/DT art/NN ./.
+Empirically/RB we/PRP find/VBP that/IN training/NN time/NN scales/NNS as/IN O/NN (/-LRB- DNlog/NNP (/-LRB- N/NN )/-RRB- )/-RRB- and/CC testing/NN as/IN O/NN (/-LRB- Dlog/NNP (/-LRB- N/NN )/-RRB- )/-RRB- ,/, where/WRB D/NN is/VBZ the/DT dimensionality/NN and/CC N/NN the/DT amount/NN of/IN data/NNS ,/,

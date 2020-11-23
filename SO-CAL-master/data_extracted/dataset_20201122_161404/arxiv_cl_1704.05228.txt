@@ -1,0 +1,9 @@
+Prominent applications of sentiment analysis are countless, including areas such as marketing, customer service and communication.
+The conventional bag-of-words approach for measuring sentiment merely counts term frequencies; however, it neglects the position of the terms within the discourse.
+As a remedy, we thus develop a discourse-aware method that builds upon the discourse structure of documents.
+For this purpose, we utilize rhetorical structure theory to label (sub-)clauses according to their hierarchical relationships and then assign polarity scores to individual leaves.
+To learn from the resulting rhetoric structure, we propose a tensor-based, tree-structured deep neural network (named RST-LSTM) in order to process the complete discourse tree.
+The underlying attention mechanism infers the salient passages of narrative materials.
+In addition, we suggest two algorithms for data augmentation (node reordering and artificial leaf insertion) that increase our training set and reduce overfitting.
+Our benchmarks demonstrate the superior performance of our approach.
+Ultimately, this work advances the status quo in natural language processing by developing algorithms that incorporate semantic information.

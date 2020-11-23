@@ -1,0 +1,9 @@
+In/IN this/DT paper/NN we/PRP describe/VBP a/DT method/NN to/TO discover/VB frequent/JJ behavioral/JJ patterns/NNS in/IN event/NN logs/NNS ./.
+We/PRP express/VBP these/DT patterns/NNS as/IN \/SYM emph/NN {/-LRB- local/JJ process/NN models/NNS }/-RRB- ./.
+Local/JJ process/NN model/NN mining/NN can/MD be/VB positioned/VBN in/IN -/HYPH between/IN process/NN discovery/NN and/CC episode/NN //HYPH sequential/JJ pattern/NN mining/NN ./.
+The/DT technique/NN presented/VBN in/IN this/DT paper/NN is/VBZ able/JJ to/TO learn/VB behavioral/JJ patterns/NNS involving/VBG sequential/JJ composition/NN ,/, concurrency/NN ,/, choice/NN and/CC loop/NN ,/, like/IN in/IN process/NN mining/NN ./.
+However/RB ,/, we/PRP do/VBP not/RB look/VB at/IN start/NN -/HYPH to/IN -/HYPH end/NN models/NNS ,/, which/WDT distinguishes/VBZ our/PRP$ approach/NN from/IN process/NN discovery/NN and/CC creates/VBZ a/DT link/NN to/IN episode/NN //HYPH sequential/JJ pattern/NN mining/NN ./.
+We/PRP propose/VBP an/DT incremental/JJ procedure/NN for/IN building/VBG local/JJ process/NN models/NNS capturing/VBG frequent/JJ patterns/NNS based/VBN on/IN so/RB -/HYPH called/VBN process/NN trees/NNS ./.
+We/PRP propose/VBP five/CD quality/NN dimensions/NNS and/CC corresponding/VBG metrics/NNS for/IN local/JJ process/NN models/NNS ,/, given/VBN an/DT event/NN log/NN ./.
+We/PRP show/VBP monotonicity/NN properties/NNS for/IN some/DT quality/NN dimensions/NNS ,/, enabling/VBG a/DT speedup/NN of/IN local/JJ process/NN model/NN discovery/NN through/IN pruning/NN ./.
+We/PRP demonstrate/VBP through/IN a/DT real/JJ life/NN case/NN study/NN that/WDT mining/NN local/JJ patterns/NNS allows/VBZ us/PRP to/TO get/VB insights/NNS in/IN processes/NNS where/WRB regular/JJ start/NN -/HYPH to/IN -/HYPH end/NN process/NN discovery/NN techniques/NNS are/VBP only/RB able/JJ to/TO learn/VB unstructured/JJ ,/, flower/NN -/HYPH like/JJ ,/, models/NNS ./.

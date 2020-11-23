@@ -1,0 +1,9 @@
+Non-linear performance measures are widely used for the evaluation of learning algorithms.
+For example, $F$-measure is a commonly used performance measure for classification problems in machine learning and information retrieval community.
+We study the theoretical properties of a subset of non-linear performance measures called pseudo-linear performance measures which includes $F$-measure, \emph{Jaccard Index}, among many others.
+We establish that many notions of $F$-measures and \emph{Jaccard Index} are pseudo-linear functions of the per-class false negatives and false positives for binary, multiclass and multilabel classification.
+Based on this observation, we present a general reduction of such performance measure optimization problem to cost-sensitive classification problem with unknown costs.
+We then propose an algorithm with provable guarantees to obtain an approximately optimal classifier for the $F$-measure by solving a series of cost-sensitive classification problems.
+The strength of our analysis is to be valid on any dataset and any class of classifiers, extending the existing theoretical results on pseudo-linear measures, which are asymptotic in nature.
+We also establish the multi-objective nature of the $F$-score maximization problem by linking the algorithm with the weighted-sum approach used in multi-objective optimization.
+We present numerical experiments to illustrate the relative importance of cost asymmetry and thresholding when learning linear classifiers on various $F$-measure optimization tasks.

@@ -1,0 +1,8 @@
+One/CD of/IN the/DT simplest/JJS metalearning/NN methods/NNS is/VBZ the/DT average/JJ ranking/NN method/NN ./.
+This/DT method/NN uses/VBZ metadata/NN in/IN the/DT form/NN of/IN test/NN results/NNS of/IN a/DT given/VBN set/NN of/IN algorithms/NNS on/IN given/VBN set/NN of/IN datasets/NNS and/CC calculates/VBZ an/DT average/JJ rank/NN for/IN each/DT algorithm/NN ./.
+The/DT ranks/NNS are/VBP used/VBN to/TO construct/VB the/DT average/JJ ranking/NN ./.
+We/PRP investigate/VBP the/DT problem/NN of/IN how/WRB the/DT process/NN of/IN generating/VBG the/DT average/JJ ranking/NN is/VBZ affected/VBN by/IN incomplete/JJ metadata/NN including/VBG fewer/JJR test/NN results/NNS ./.
+This/DT issue/NN is/VBZ relevant/JJ ,/, because/IN if/IN we/PRP could/MD show/VB that/IN incomplete/JJ metadata/NN does/VBZ not/RB affect/VB the/DT final/JJ results/NNS much/RB ,/, we/PRP could/MD explore/VB it/PRP in/IN future/JJ design/NN ./.
+We/PRP could/MD simply/RB conduct/VB fewer/JJR tests/NNS and/CC save/VB thus/RB computation/JJ time/NN ./.
+In/IN this/DT paper/NN we/PRP describe/VBP an/DT upgraded/VBN average/JJ ranking/NN method/NN that/WDT is/VBZ capable/JJ of/IN dealing/VBG with/IN incomplete/JJ metadata/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN the/DT proposed/JJ method/NN is/VBZ relatively/RB robust/JJ to/IN omission/NN in/IN test/NN results/NNS in/IN the/DT meta/NN datasets/NNS ./.

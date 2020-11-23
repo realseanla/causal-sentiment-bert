@@ -1,0 +1,5 @@
+We/PRP introduce/VBP a/DT new/JJ type/NN of/IN graphical/JJ model/NN that/WDT we/PRP call/VBP a/DT "/`` memory/NN factor/NN network/NN "/'' (/-LRB- MFN/NNP )/-RRB- ./.
+We/PRP show/VBP how/WRB to/TO use/VB MFNs/NNS to/TO model/VB the/DT structure/NN inherent/JJ in/IN many/JJ types/NNS of/IN data/NNS sets/NNS ./.
+We/PRP also/RB introduce/VBP an/DT associated/JJ message/NN -/HYPH passing/VBG style/NN algorithm/NN called/VBN "/`` proactive/JJ message/NN passing/VBG "/`` '/'' (/-LRB- PMP/NN )/-RRB- that/WDT performs/VBZ inference/NN on/IN MFNs/NNS ./.
+PMP/NN comes/VBZ with/IN convergence/NN guarantees/NNS and/CC is/VBZ efficient/JJ in/IN comparison/NN to/IN competing/VBG algorithms/NNS such/JJ as/IN variants/NNS of/IN belief/NN propagation/NN ./.
+We/PRP specialize/VBP MFNs/NNS and/CC PMP/NN to/IN a/DT number/NN of/IN distinct/JJ types/NNS of/IN data/NNS (/-LRB- discrete/JJ ,/, continuous/JJ ,/, labelled/VBN )/-RRB- and/CC inference/NN problems/NNS (/-LRB- interpolation/NN ,/, hypothesis/NN testing/NN )/-RRB- ,/, provide/VBP examples/NNS ,/, and/CC discuss/VB approaches/NNS for/IN efficient/JJ implementation/NN ./.

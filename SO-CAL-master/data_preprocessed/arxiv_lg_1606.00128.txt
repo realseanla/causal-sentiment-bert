@@ -1,0 +1,9 @@
+Self/NN -/HYPH paced/VBN learning/NN (/-LRB- SPL/NN )/-RRB- mimics/VBZ the/DT cognitive/JJ mechanism/NN of/IN humans/NNS and/CC animals/NNS that/WDT gradually/RB learns/VBZ from/IN easy/JJ to/TO hard/JJ samples/NNS ./.
+One/CD key/JJ issue/NN in/IN SPL/NN is/VBZ to/TO obtain/VB better/JJR weighting/NN strategy/NN that/WDT is/VBZ determined/VBN by/IN the/DT minimizer/NN functions/VBZ ./.
+Existing/VBG methods/NNS usually/RB pursue/VBP this/DT by/IN artificially/RB designing/VBG the/DT explicit/JJ form/NN of/IN regularizers/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN the/DT minimizer/NN functions/NNS ,/, and/CC study/VB a/DT group/NN of/IN new/JJ regularizers/NNS ,/, named/VBN self/NN -/HYPH paced/VBN implicit/JJ regularizers/NNS that/WDT are/VBP derived/VBN from/IN convex/NN conjugacy/NN ./.
+Based/VBN on/IN the/DT multiplicative/JJ form/NN of/IN half/NN -/HYPH quadratic/JJ optimization/NN ,/, convex/NN and/CC non-convex/JJ functions/NNS induced/VBN minimizer/NN functions/NNS for/IN the/DT implicit/JJ regularizers/NNS are/VBP developed/VBN ./.
+And/CC a/DT general/JJ framework/NN (/-LRB- named/VBN SPL/NN -/HYPH IR/NN )/-RRB- for/IN SPL/NN is/VBZ developed/VBN accordingly/RB ./.
+We/PRP further/RB analyze/VB the/DT relation/NN between/IN SPLIR/NNP and/CC half/NN -/HYPH quadratic/JJ optimization/NN ./.
+We/PRP implement/VBP SPL/NN -/HYPH IR/NN to/IN matrix/NN factorization/NN and/CC multi-view/JJ clustering/NN ./.
+Experimental/JJ results/NNS on/IN both/DT synthetic/JJ and/CC real/JJ -/HYPH world/NN databases/NNS corroborate/VBP our/PRP$ ideas/NNS and/CC demonstrate/VBP the/DT effectiveness/NN of/IN implicit/JJ regularizers/NNS ./.

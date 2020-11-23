@@ -1,0 +1,9 @@
+The/DT goal/NN of/IN model/NN -/HYPH based/VBN diagnosis/NN is/VBZ to/TO isolate/VB causes/NNS of/IN anomalous/JJ system/NN behavior/NN and/CC recommend/VB inexpensive/JJ repair/NN actions/NNS in/IN response/NN ./.
+In/IN general/JJ ,/, precomputing/VBG optimal/JJ repair/NN policies/NNS is/VBZ intractable/JJ ./.
+To/IN date/NN ,/, investigators/NNS addressing/VBG this/DT problem/NN have/VBP explored/VBN approximations/NNS that/WDT either/CC impose/VB restrictions/NNS on/IN the/DT system/NN model/NN (/-LRB- such/JJ as/IN a/DT single/JJ fault/NN assumption/NN )/-RRB- or/CC compute/VB an/DT immediate/JJ best/JJS action/NN with/IN limited/JJ lookahead/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP a/DT formulation/NN of/IN repair/NN in/IN model/NN -/HYPH based/VBN diagnosis/NN and/CC a/DT repair/NN algorithm/NN that/WDT computes/VBZ optimal/JJ sequences/NNS of/IN actions/NNS ./.
+This/DT optimal/JJ approach/NN is/VBZ costly/JJ but/CC can/MD be/VB applied/VBN to/IN precompute/NN an/DT optimal/JJ repair/NN strategy/NN for/IN compact/JJ systems/NNS ./.
+We/PRP show/VBP how/WRB we/PRP can/MD exploit/VB a/DT hierarchical/JJ system/NN specification/NN to/TO make/VB this/DT approach/NN tractable/JJ for/IN large/JJ systems/NNS ./.
+When/WRB introducing/VBG hierarchy/NN ,/, we/PRP also/RB consider/VBP the/DT tradeoff/NN between/IN simply/RB replacing/VBG a/DT component/NN and/CC decomposing/VBG it/PRP to/TO repair/VB its/PRP$ subcomponents/NNS ./.
+The/DT hierarchical/JJ repair/NN algorithm/NN is/VBZ suitable/JJ for/IN off/RB -/HYPH line/NN precomputation/NN of/IN an/DT optimal/JJ repair/NN strategy/NN ./.
+A/DT modification/NN of/IN the/DT algorithm/NN takes/VBZ advantage/NN of/IN an/DT iterative/JJ deepening/VBG scheme/NN to/TO trade/VB off/RP inference/NN time/NN and/CC the/DT quality/NN of/IN the/DT computed/VBN strategy/NN ./.

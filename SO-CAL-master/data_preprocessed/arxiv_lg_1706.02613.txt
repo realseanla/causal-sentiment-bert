@@ -1,0 +1,8 @@
+Deep/JJ learning/NN requires/VBZ data/NNS ./.
+A/DT useful/JJ approach/NN to/TO obtain/VB data/NNS is/VBZ to/TO be/VB creative/JJ and/CC mine/JJ data/NNS from/IN various/JJ sources/NNS ,/, that/WDT were/VBD created/VBN for/IN different/JJ purposes/NNS ./.
+Unfortunately/RB ,/, this/DT approach/NN often/RB leads/VBZ to/IN noisy/JJ labels/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT meta/NN algorithm/NN for/IN tackling/VBG the/DT noisy/JJ labels/NNS problem/NN ./.
+The/DT key/JJ idea/NN is/VBZ to/TO decouple/VB "/`` when/WRB to/TO update/VB "/`` from/IN "/`` how/WRB to/TO update/VB "/'' ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ algorithm/NN by/IN mining/NN data/NNS for/IN gender/NN classification/NN by/IN combining/VBG the/DT Labeled/VBN Faces/NNS in/IN the/DT Wild/NNP (/-LRB- LFW/NNP )/-RRB- face/NN recognition/NN dataset/NN with/IN a/DT textual/JJ genderizing/NN service/NN ,/, which/WDT leads/VBZ to/IN a/DT noisy/JJ dataset/NN ./.
+While/IN our/PRP$ approach/NN is/VBZ very/RB simple/JJ to/TO implement/VB ,/, it/PRP leads/VBZ to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ./.
+We/PRP analyze/VBP some/DT convergence/NN properties/NNS of/IN the/DT proposed/VBN algorithm/NN ./.

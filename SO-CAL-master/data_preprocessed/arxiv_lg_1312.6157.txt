@@ -1,0 +1,4 @@
+Data/NNS representation/NN is/VBZ an/DT important/JJ pre-processing/JJ step/NN in/IN many/JJ machine/NN learning/VBG algorithms/NNS ./.
+There/EX are/VBP a/DT number/NN of/IN methods/NNS used/VBN for/IN this/DT task/NN such/JJ as/IN Deep/JJ Belief/NN Networks/NNS (/-LRB- DBNs/NNS )/-RRB- and/CC Discrete/NNP Fourier/NNP Transforms/VBZ (/-LRB- DFTs/NNS )/-RRB- ./.
+Since/IN some/DT of/IN the/DT features/NNS extracted/VBN using/VBG automated/VBN feature/NN extraction/NN methods/NNS may/MD not/RB always/RB be/VB related/VBN to/IN a/DT specific/JJ machine/NN learning/VBG task/NN ,/, in/IN this/DT paper/NN we/PRP propose/VBP two/CD methods/NNS in/IN order/NN to/TO make/VB a/DT distinction/NN between/IN extracted/VBN features/NNS based/VBN on/IN their/PRP$ relevancy/NN to/IN the/DT task/NN ./.
+We/PRP applied/VBD these/DT two/CD methods/NNS to/IN a/DT Deep/JJ Belief/NNP Network/NNP trained/VBD for/IN a/DT face/NN recognition/NN task/NN ./.

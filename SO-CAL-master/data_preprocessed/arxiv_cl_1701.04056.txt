@@ -1,0 +1,5 @@
+In/IN this/DT work/NN ,/, we/PRP propose/VBP contextual/JJ language/NN models/NNS that/WDT incorporate/VBP dialog/NN level/NN discourse/NN information/NN into/IN language/NN modeling/NN ./.
+Previous/JJ works/NNS on/IN contextual/JJ language/NN model/NN treat/VBP preceding/VBG utterances/NNS as/IN a/DT sequence/NN of/IN inputs/NNS ,/, without/IN considering/VBG dialog/NN interactions/NNS ./.
+We/PRP design/VBP recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- based/VBN contextual/JJ language/NN models/NNS that/WDT specially/RB track/VBP the/DT interactions/NNS between/IN speakers/NNS in/IN a/DT dialog/NN ./.
+Experiment/NN results/NNS on/IN Switchboard/NN Dialog/NNP Act/NNP Corpus/NNP show/VBP that/IN the/DT proposed/VBN model/NN outperforms/VBZ conventional/JJ single/JJ turn/NN based/VBN RNN/NNP language/NN model/NN by/IN 3.3/CD percent/NN on/IN perplexity/NN ./.
+The/DT proposed/VBN models/NNS also/RB demonstrate/VBP advantageous/JJ performance/NN over/IN other/JJ competitive/JJ contextual/JJ language/NN models/NNS ./.

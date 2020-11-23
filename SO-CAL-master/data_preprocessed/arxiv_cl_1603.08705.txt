@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP ROOT13/NN ,/, a/DT supervised/JJ system/NN for/IN the/DT classification/NN of/IN hypernyms/NNS ,/, co-hyponyms/NNS and/CC random/JJ words/NNS ./.
+The/DT system/NN relies/VBZ on/IN a/DT Random/NNP Forest/NNP algorithm/NN and/CC 13/CD unsupervised/JJ corpus/NN -/HYPH based/VBN features/NNS ./.
+We/PRP evaluate/VBP it/PRP with/IN a/DT 10-fold/RB cross/NN validation/NN on/IN 9,600/CD pairs/NNS ,/, equally/RB distributed/VBN among/IN the/DT three/CD classes/NNS and/CC involving/VBG several/JJ Parts/NNS -/: Of/IN -/HYPH Speech/NNP (/-LRB- i.e./FW adjectives/NNS ,/, nouns/NNS and/CC verbs/NNS )/-RRB- ./.
+When/WRB all/PDT the/DT classes/NNS are/VBP present/JJ ,/, ROOT13/NN achieves/VBZ an/DT F1/NN score/NN of/IN 88.3/CD percent/NN ,/, against/IN a/DT baseline/NN of/IN 57.6/CD percent/NN (/-LRB- vector/NN cosine/NN )/-RRB- ./.
+When/WRB the/DT classification/NN is/VBZ binary/JJ ,/, ROOT13/NN achieves/VBZ the/DT following/JJ results/NNS :/: hypernyms/NNS -/HYPH co-hyponyms/NNS (/-LRB- 93.4/CD percent/NN vs./FW 60.2/CD percent/NN )/-RRB- ,/, hypernymsrandom/NN (/-LRB- 92.3/CD percent/NN vs./FW 65.5/CD percent/NN )/-RRB- and/CC co-hyponyms-random/NN (/-LRB- 97.3/CD percent/NN vs./FW 81.5/CD percent/NN )/-RRB- ./.
+Our/PRP$ results/NNS are/VBP competitive/JJ with/IN stateof/NN -/HYPH the/DT -/HYPH art/NN models/NNS ./.

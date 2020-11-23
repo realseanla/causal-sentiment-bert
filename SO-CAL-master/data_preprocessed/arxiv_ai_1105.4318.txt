@@ -1,0 +1,11 @@
+Correction/NN of/IN Noisy/NNP Natural/NNP Language/NNP Text/VBP is/VBZ an/DT important/JJ and/CC well/RB studied/VBN problem/NN in/IN Natural/NNP Language/NNP Processing/NNP ./.
+It/PRP has/VBZ a/DT number/NN of/IN applications/NNS in/IN domains/NNS like/IN Statistical/JJ Machine/NN Translation/NN ,/, Second/NNP Language/NNP Learning/NNP and/CC Natural/NNP Language/NNP Generation/NNP ./.
+In/IN this/DT work/NN ,/, we/PRP consider/VBP some/DT statistical/JJ techniques/NNS for/IN Text/VB Correction/NN ./.
+We/PRP define/VBP the/DT classes/NNS of/IN errors/NNS commonly/RB found/VBN in/IN text/NN and/CC describe/VB algorithms/NNS to/TO correct/VB them/PRP ./.
+The/DT data/NNS has/VBZ been/VBN taken/VBN from/IN a/DT poorly/RB trained/VBN Machine/NN Translation/NN system/NN ./.
+The/DT algorithms/NNS use/VBP only/RB a/DT language/NN model/NN in/IN the/DT target/NN language/NN in/IN order/NN to/TO correct/VB the/DT sentences/NNS ./.
+We/PRP use/VBP phrase/NN based/VBN correction/NN methods/NNS in/IN both/CC the/DT algorithms/NNS ./.
+The/DT phrases/NNS are/VBP replaced/VBN and/CC combined/VBN to/TO give/VB us/PRP the/DT final/JJ corrected/VBN sentence/NN ./.
+We/PRP also/RB present/VBP the/DT methods/NNS to/TO model/VB different/JJ kinds/NNS of/IN errors/NNS ,/, in/IN addition/NN to/IN results/NNS of/IN the/DT working/NN of/IN the/DT algorithms/NNS on/IN the/DT test/NN set/NN ./.
+We/PRP show/VBP that/IN one/CD of/IN the/DT approaches/NNS fail/VBP to/TO achieve/VB the/DT desired/VBN goal/NN ,/, whereas/IN the/DT other/JJ succeeds/VBZ well/RB ./.
+In/IN the/DT end/NN ,/, we/PRP analyze/VBP the/DT possible/JJ reasons/NNS for/IN such/PDT a/DT trend/NN in/IN performance/NN ./.

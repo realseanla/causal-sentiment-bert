@@ -1,0 +1,7 @@
+Several/JJ deep/JJ learning/NN models/NNS have/VBP been/VBN proposed/VBN for/IN question/NN answering/NN ./.
+However/RB ,/, due/IN to/IN their/PRP$ single/JJ -/HYPH pass/NN nature/NN ,/, they/PRP have/VBP no/DT way/NN to/TO recover/VB from/IN local/JJ maxima/NNS corresponding/VBG to/IN incorrect/JJ answers/NNS ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP introduce/VBP the/DT Dynamic/JJ Coattention/NNP Network/NNP (/-LRB- DCN/NNP )/-RRB- for/IN question/NN answering/NN ./.
+The/DT DCN/NNP first/RB fuses/VBZ co-dependent/JJ representations/NNS of/IN the/DT question/NN and/CC the/DT document/NN in/IN order/NN to/TO focus/VB on/IN relevant/JJ parts/NNS of/IN both/DT ./.
+Then/RB a/DT dynamic/JJ pointing/NN decoder/NN iterates/VBZ over/IN potential/JJ answer/NN spans/NNS ./.
+This/DT iterative/JJ procedure/NN enables/VBZ the/DT model/NN to/TO recover/VB from/IN initial/JJ local/JJ maxima/NNS corresponding/VBG to/IN incorrect/JJ answers/NNS ./.
+On/IN the/DT Stanford/NNP question/NN answering/VBG dataset/NN ,/, a/DT single/JJ DCN/NNP model/NN improves/VBZ the/DT previous/JJ state/NN of/IN the/DT art/NN from/IN 71.0/CD percent/NN F1/NN to/IN 75.9/CD percent/NN ,/, while/IN a/DT DCN/NNP ensemble/NN obtains/VBZ 80.4/CD percent/NN F1/NN ./.

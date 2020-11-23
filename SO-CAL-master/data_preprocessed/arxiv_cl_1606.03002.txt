@@ -1,0 +1,6 @@
+Recurrent/JJ neural/JJ networks/NNS such/JJ as/IN the/DT GRU/NNP and/CC LSTM/NNP found/VBD wide/JJ adoption/NN in/IN natural/JJ language/NN processing/NN and/CC achieve/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS for/IN many/JJ tasks/NNS ./.
+These/DT models/NNS are/VBP characterized/VBN by/IN a/DT memory/NN state/NN that/WDT can/MD be/VB written/VBN to/IN and/CC read/VB from/IN by/IN applying/VBG gated/VBN composition/NN operations/NNS to/IN the/DT current/JJ input/NN and/CC the/DT previous/JJ state/NN ./.
+However/RB ,/, they/PRP only/RB cover/VBP a/DT small/JJ subset/NN of/IN potentially/RB useful/JJ compositions/NNS ./.
+We/PRP propose/VBP Multi-Function/NNP Recurrent/NNP Units/NNP (/-LRB- MuFuRUs/NNP )/-RRB- that/WDT allow/VBP for/IN arbitrary/JJ differentiable/JJ functions/NNS as/IN composition/NN operations/NNS ./.
+Furthermore/RB ,/, MuFuRUs/NNS allow/VBP for/IN an/DT input/NN -/HYPH and/CC state/NN -/HYPH dependent/JJ choice/NN of/IN these/DT composition/NN operations/NNS that/WDT is/VBZ learned/VBN ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN the/DT additional/JJ functionality/NN helps/VBZ in/IN different/JJ sequence/NN modeling/NN tasks/NNS ,/, including/VBG the/DT evaluation/NN of/IN propositional/JJ logic/NN formulae/NNS ,/, language/NN modeling/NN and/CC sentiment/NN analysis/NN ./.

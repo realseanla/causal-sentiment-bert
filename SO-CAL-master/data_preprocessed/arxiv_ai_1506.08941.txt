@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP the/DT task/NN of/IN learning/VBG control/NN policies/NNS for/IN text/NN -/HYPH based/VBN games/NNS ./.
+In/IN these/DT games/NNS ,/, all/DT interactions/NNS in/IN the/DT virtual/JJ world/NN are/VBP through/IN text/NN and/CC the/DT underlying/VBG state/NN is/VBZ not/RB observed/VBN ./.
+The/DT resulting/VBG language/NN barrier/NN makes/VBZ such/JJ environments/NNS challenging/VBG for/IN automatic/JJ game/NN players/NNS ./.
+We/PRP employ/VBP a/DT deep/JJ reinforcement/NN learning/VBG framework/NN to/TO jointly/RB learn/VB state/NN representations/NNS and/CC action/NN policies/NNS using/VBG game/NN rewards/NNS as/IN feedback/NN ./.
+This/DT framework/NN enables/VBZ us/PRP to/TO map/VB text/NN descriptions/NNS into/IN vector/NN representations/NNS that/WDT capture/VBP the/DT semantics/NNS of/IN the/DT game/NN states/NNS ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN on/IN two/CD game/NN worlds/NNS ,/, comparing/VBG against/IN a/DT baseline/NN with/IN a/DT bag/NN -/HYPH of/IN -/HYPH words/NNS state/NN representation/NN ./.
+Our/PRP$ algorithm/NN outperforms/VBZ the/DT baseline/NN on/IN quest/NN completion/NN by/IN 54/CD percent/NN on/IN a/DT newly/RB created/VBN world/NN and/CC by/IN 14/CD percent/NN on/IN a/DT pre-existing/JJ fantasy/NN game/NN ./.

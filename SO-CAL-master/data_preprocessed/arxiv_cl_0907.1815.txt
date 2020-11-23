@@ -1,0 +1,4 @@
+We/PRP describe/VBP an/DT approach/NN to/IN domain/NN adaptation/NN that/WDT is/VBZ appropriate/JJ exactly/RB in/IN the/DT case/NN when/WRB one/PRP has/VBZ enough/RB ``/`` target/NN ''/'' data/NNS to/TO do/VB slightly/RB better/JJR than/IN just/RB using/VBG only/RB ``/`` source/NN ''/'' data/NNS ./.
+Our/PRP$ approach/NN is/VBZ incredibly/RB simple/JJ ,/, easy/JJ to/TO implement/VB as/IN a/DT preprocessing/JJ step/NN (/-LRB- 10/CD lines/NNS of/IN Perl/NNP !/. )/-RRB-
+and/CC outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS on/IN a/DT range/NN of/IN datasets/NNS ./.
+Moreover/RB ,/, it/PRP is/VBZ trivially/RB extended/VBN to/IN a/DT multi-domain/JJ adaptation/NN problem/NN ,/, where/WRB one/PRP has/VBZ data/NNS from/IN a/DT variety/NN of/IN different/JJ domains/NNS ./.

@@ -1,0 +1,6 @@
+Events/NNS and/CC entities/NNS are/VBP closely/RB related/VBN ;/: entities/NNS are/VBP often/RB actors/NNS or/CC participants/NNS in/IN events/NNS and/CC events/NNS without/IN entities/NNS are/VBP uncommon/JJ ./.
+The/DT interpretation/NN of/IN events/NNS and/CC entities/NNS is/VBZ highly/RB contextually/RB dependent/JJ ./.
+Existing/VBG work/NN in/IN information/NN extraction/NN typically/RB models/NNS events/NNS separately/RB from/IN entities/NNS ,/, and/CC performs/VBZ inference/NN at/IN the/DT sentence/NN level/NN ,/, ignoring/VBG the/DT rest/NN of/IN the/DT document/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ approach/NN that/WDT models/NNS the/DT dependencies/NNS among/IN variables/NNS of/IN events/NNS ,/, entities/NNS ,/, and/CC their/PRP$ relations/NNS ,/, and/CC performs/VBZ joint/JJ inference/NN of/IN these/DT variables/NNS across/IN a/DT document/NN ./.
+The/DT goal/NN is/VBZ to/TO enable/VB access/NN to/IN document/NN -/HYPH level/NN contextual/JJ information/NN and/CC facilitate/VB context/NN -/HYPH aware/JJ predictions/NNS ./.
+We/PRP demonstrate/VBP that/IN our/PRP$ approach/NN substantially/RB outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS for/IN event/NN extraction/NN as/RB well/RB as/IN a/DT strong/JJ baseline/NN for/IN entity/NN extraction/NN ./.

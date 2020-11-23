@@ -1,0 +1,5 @@
+We/PRP present/VBP LR/NN -/HYPH GAN/NN :/: an/DT adversarial/JJ image/NN generation/NN model/NN which/WDT takes/VBZ scene/NN structure/NN and/CC context/NN into/IN account/NN ./.
+Unlike/IN previous/JJ generative/JJ adversarial/JJ networks/NNS (/-LRB- GANs/NNS )/-RRB- ,/, the/DT proposed/VBN GAN/NNP learns/VBZ to/TO generate/VB image/NN background/NN and/CC foregrounds/VBZ separately/RB and/CC recursively/RB ,/, and/CC stitch/VB the/DT foregrounds/NNS on/IN the/DT background/NN in/IN a/DT contextually/RB relevant/JJ manner/NN to/TO produce/VB a/DT complete/JJ natural/JJ image/NN ./.
+For/IN each/DT foreground/NN ,/, the/DT model/NN learns/VBZ to/TO generate/VB its/PRP$ appearance/NN ,/, shape/NN and/CC pose/NN ./.
+The/DT whole/JJ model/NN is/VBZ unsupervised/JJ ,/, and/CC is/VBZ trained/VBN in/IN an/DT end/NN -/HYPH to/IN -/HYPH end/NN manner/NN with/IN gradient/NN descent/NN methods/NNS ./.
+The/DT experiments/NNS demonstrate/VBP that/IN LR/NN -/HYPH GAN/NN can/MD generate/VB more/JJR natural/JJ images/NNS with/IN objects/NNS that/WDT are/VBP more/RBR human/JJ recognizable/JJ than/IN DCGAN/NNP ./.

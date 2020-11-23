@@ -1,0 +1,9 @@
+We/PRP introduce/VBP a/DT temporal/JJ model/NN for/IN reasoning/NN on/IN disjunctive/JJ metric/JJ constraints/NNS on/IN intervals/NNS and/CC time/NN points/NNS in/IN temporal/JJ contexts/NNS ./.
+This/DT temporal/JJ model/NN is/VBZ composed/VBN of/IN a/DT labeled/VBN temporal/JJ algebra/NN and/CC its/PRP$ reasoning/NN algorithms/NNS ./.
+The/DT labeled/VBN temporal/JJ algebra/NN defines/VBZ labeled/VBN disjunctive/JJ metric/JJ point/NN -/HYPH based/VBN constraints/NNS ,/, where/WRB each/DT disjunct/NN in/IN each/DT input/NN disjunctive/JJ constraint/NN is/VBZ univocally/RB associated/VBN to/IN a/DT label/NN ./.
+Reasoning/NN algorithms/NNS manage/VBP labeled/VBN constraints/NNS ,/, associated/VBN label/NN lists/NNS ,/, and/CC sets/NNS of/IN mutually/RB inconsistent/JJ disjuncts/NNS ./.
+These/DT algorithms/NNS guarantee/VB consistency/NN and/CC obtain/VB a/DT minimal/JJ network/NN ./.
+Additionally/RB ,/, constraints/NNS can/MD be/VB organized/VBN in/IN a/DT hierarchy/NN of/IN alternative/JJ temporal/JJ contexts/NNS ./.
+Therefore/RB ,/, we/PRP can/MD reason/VB on/IN context/NN -/HYPH dependent/JJ disjunctive/JJ metric/JJ constraints/NNS on/IN intervals/NNS and/CC points/NNS ./.
+Moreover/RB ,/, the/DT model/NN is/VBZ able/JJ to/TO represent/VB non-binary/JJ constraints/NNS ,/, such/JJ that/IN logical/JJ dependencies/NNS on/IN disjuncts/NNS in/IN constraints/NNS can/MD be/VB handled/VBN ./.
+The/DT computational/JJ cost/NN of/IN reasoning/NN algorithms/NNS is/VBZ exponential/JJ in/IN accordance/NN with/IN the/DT underlying/JJ problem/NN complexity/NN ,/, although/IN some/DT improvements/NNS are/VBP proposed/VBN ./.

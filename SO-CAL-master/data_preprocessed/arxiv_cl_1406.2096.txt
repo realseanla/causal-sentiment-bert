@@ -1,0 +1,7 @@
+Business/NN rules/NNS represent/VBP the/DT primary/JJ means/NNS by/IN which/WDT companies/NNS define/VBP their/PRP$ business/NN ,/, perform/VB their/PRP$ actions/NNS in/IN order/NN to/TO reach/VB their/PRP$ objectives/NNS ./.
+Thus/RB ,/, they/PRP need/VBP to/TO be/VB expressed/VBN unambiguously/RB to/TO avoid/VB inconsistencies/NNS between/IN business/NN stakeholders/NNS and/CC formally/RB in/IN order/NN to/TO be/VB machine/NN -/HYPH processed/VBN ./.
+A/DT promising/JJ solution/NN is/VBZ the/DT use/NN of/IN a/DT controlled/VBN natural/JJ language/NN (/-LRB- CNL/NN )/-RRB- which/WDT is/VBZ a/DT good/JJ mediator/NN between/IN natural/JJ and/CC formal/JJ languages/NNS ./.
+This/DT paper/NN presents/VBZ RuleCNL/NN ,/, which/WDT is/VBZ a/DT CNL/NN for/IN defining/VBG business/NN rules/NNS ./.
+Its/PRP$ core/NN feature/NN is/VBZ the/DT alignment/NN of/IN the/DT business/NN rule/NN definition/NN with/IN the/DT business/NN vocabulary/NN which/WDT ensures/VBZ traceability/NN and/CC consistency/NN with/IN the/DT business/NN domain/NN ./.
+The/DT RuleCNL/NN tool/NN provides/VBZ editors/NNS that/WDT assist/VBP end/NN -/HYPH users/NNS in/IN the/DT writing/NN process/NN and/CC automatic/JJ mappings/NNS into/IN the/DT Semantics/NNS of/IN Business/NN Vocabulary/NN and/CC Business/NN Rules/NNS (/-LRB- SBVR/NN )/-RRB- standard/NN ./.
+SBVR/NNP is/VBZ grounded/VBN in/IN first/JJ order/NN logic/NN and/CC includes/VBZ constructs/NNS called/VBN semantic/JJ formulations/NNS that/WDT structure/VBP the/DT meaning/NN of/IN rules/NNS ./.

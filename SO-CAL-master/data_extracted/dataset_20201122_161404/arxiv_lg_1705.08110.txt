@@ -1,0 +1,6 @@
+This paper unifies two lines of work on multi-armed bandits, Bandits with Knapsacks (BwK) and semi-bandits.
+The former concerns scenarios with limited "resources" consumed by the algorithm, e.g., limited inventory in a dynamic pricing problem.
+The latter has a huge number of actions, but there is combinatorial structure and additional feedback which makes the problem tractable.
+Both lines of work has received considerable recent attention, and are supported by numerous application examples.
+We define a common generalization, and design a general algorithm for this model.
+Our regret rates are comparable with those for BwK and semi-bandits in general, and essentially optimal for important special cases.

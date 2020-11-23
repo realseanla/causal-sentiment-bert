@@ -1,0 +1,4 @@
+We/PRP propose/VBP a/DT method/NN for/IN next/JJ frame/NN prediction/NN from/IN video/NN input/NN ./.
+A/DT convolutional/JJ recurrent/JJ neural/JJ network/NN is/VBZ trained/VBN to/TO predict/VB depth/NN from/IN monocular/JJ video/NN input/NN ,/, which/WDT ,/, along/IN with/IN the/DT current/JJ video/NN image/NN and/CC the/DT camera/NN trajectory/NN ,/, can/MD then/RB be/VB used/VBN to/TO compute/VB the/DT next/JJ frame/NN ./.
+Unlike/IN prior/JJ next/JJ -/HYPH frame/NN prediction/NN approaches/NNS ,/, we/PRP take/VBP advantage/NN of/IN the/DT scene/NN geometry/NN and/CC use/VB the/DT predicted/VBN depth/NN for/IN generating/VBG next/JJ frame/NN prediction/NN ./.
+A/DT useful/JJ side/NN effect/NN of/IN our/PRP$ technique/NN is/VBZ that/IN it/PRP produces/VBZ depth/NN from/IN video/NN ,/, which/WDT can/MD be/VB used/VBN in/IN other/JJ applications/NNS ./.

@@ -1,0 +1,6 @@
+The/DT Minimum/NNP Description/NN Length/NN (/-LRB- MDL/NN )/-RRB- principle/NN selects/VBZ the/DT model/NN that/WDT has/VBZ the/DT shortest/JJS code/NN for/IN data/NNS plus/CC model/NN ./.
+We/PRP show/VBP that/IN for/IN a/DT countable/JJ class/NN of/IN models/NNS ,/, MDL/NN predictions/NNS are/VBP close/JJ to/IN the/DT true/JJ distribution/NN in/IN a/DT strong/JJ sense/NN ./.
+The/DT result/NN is/VBZ completely/RB general/JJ ./.
+No/DT independence/NN ,/, ergodicity/NN ,/, stationarity/NN ,/, identifiability/NN ,/, or/CC other/JJ assumption/NN on/IN the/DT model/NN class/NN need/VBP to/TO be/VB made/VBN ./.
+More/JJR formally/RB ,/, we/PRP show/VBP that/IN for/IN any/DT countable/JJ class/NN of/IN models/NNS ,/, the/DT distributions/NNS selected/VBN by/IN MDL/NN (/-LRB- or/CC MAP/NN )/-RRB- asymptotically/RB predict/VBP (/-LRB- merge/VB with/IN )/-RRB- the/DT true/JJ measure/NN in/IN the/DT class/NN in/IN total/JJ variation/NN distance/NN ./.
+Implications/NNS for/IN non-i.i.d./JJ domains/NNS like/IN time/NN -/HYPH series/NN forecasting/NN ,/, discriminative/JJ learning/NN ,/, and/CC reinforcement/NN learning/NN are/VBP discussed/VBN ./.

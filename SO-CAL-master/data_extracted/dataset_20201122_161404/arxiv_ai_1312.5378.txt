@@ -1,0 +1,7 @@
+First-order model counting emerged recently as a novel reasoning task, at the core of efficient algorithms for probabilistic logics.
+We present a Skolemization algorithm for model counting problems that eliminates existential quantifiers from a first-order logic theory without changing its weighted model count.
+For certain subsets of first-order logic, lifted model counters were shown to run in time polynomial in the number of objects in the domain of discourse, where propositional model counters require exponential time.
+However, these guarantees apply only to Skolem normal form theories (i.e., no existential quantifiers) as the presence of existential quantifiers reduces lifted model counters to propositional ones.
+Since textbook Skolemization is not sound for model counting, these restrictions precluded efficient model counting for directed models, such as probabilistic logic programs, which rely on existential quantification.
+Our Skolemization procedure extends the applicability of first-order model counters to these representations.
+Moreover, it simplifies the design of lifted model counting algorithms.

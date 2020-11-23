@@ -1,0 +1,6 @@
+Multi-context/NN systems/NNS provide/VBP a/DT powerful/JJ framework/NN for/IN modelling/VBG information/NN -/HYPH aggregation/NN systems/NNS featuring/VBG heterogeneous/JJ reasoning/NN components/NNS ./.
+Their/PRP$ execution/NN can/MD ,/, however/RB ,/, incur/VB non-negligible/JJ cost/NN ./.
+Here/RB ,/, we/PRP focus/VBP on/IN cost/NN -/HYPH complexity/NN of/IN such/JJ systems/NNS ./.
+To/IN that/DT end/NN ,/, we/PRP introduce/VBP cost/NN -/HYPH aware/JJ multi-context/NN systems/NNS ,/, an/DT extension/NN of/IN non-monotonic/JJ multi-context/JJ systems/NNS framework/NN taking/VBG into/IN account/NN costs/NNS incurred/VBN by/IN execution/NN of/IN semantic/JJ operators/NNS of/IN the/DT individual/JJ contexts/NNS ./.
+We/PRP formulate/VBP the/DT notion/NN of/IN cost/NN -/HYPH complexity/NN for/IN consistency/NN and/CC reasoning/NN problems/NNS in/IN MCSs/NNS ./.
+Subsequently/RB ,/, we/PRP provide/VBP a/DT series/NN of/IN results/NNS related/VBN to/IN gradually/RB more/RBR and/CC more/RBR constrained/JJ classes/NNS of/IN MCSs/NNS and/CC finally/RB introduce/VB an/DT incremental/JJ cost/NN -/HYPH reducing/VBG algorithm/NN solving/VBG the/DT reasoning/NN problem/NN for/IN definite/JJ MCSs/NNS ./.

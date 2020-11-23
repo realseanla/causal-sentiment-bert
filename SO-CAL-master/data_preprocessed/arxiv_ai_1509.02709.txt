@@ -1,0 +1,5 @@
+Search/NN is/VBZ a/DT central/JJ problem/NN in/IN artificial/JJ intelligence/NN ,/, and/CC BFS/NNP and/CC DFS/NNP the/DT two/CD most/RBS fundamental/JJ ways/NNS to/TO search/VB ./.
+In/IN this/DT report/NN we/PRP derive/VBP results/NNS for/IN average/JJ BFS/NNP and/CC DFS/NNP runtime/NN :/: For/IN tree/NN search/NN ,/, we/PRP employ/VBP a/DT probabilistic/JJ model/NN of/IN goal/NN distribution/NN ;/: for/IN graph/NN search/NN ,/, the/DT analysis/NN depends/VBZ on/IN an/DT additional/JJ statistic/NN of/IN path/NN redundancy/NN and/CC average/JJ branching/NN factor/NN ./.
+As/IN an/DT application/NN ,/, we/PRP use/VBP the/DT results/NNS on/IN two/CD concrete/JJ grammar/NN problems/NNS ./.
+The/DT runtime/NN estimates/NNS can/MD be/VB used/VBN to/TO select/VB the/DT faster/RBR out/IN of/IN BFS/NNP and/CC DFS/NNP for/IN a/DT given/VBN problem/NN ,/, and/CC may/MD form/VB the/DT basis/NN for/IN further/JJ analysis/NN of/IN more/JJR advanced/JJ search/NN methods/NNS ./.
+Finally/RB ,/, we/PRP verify/VBP our/PRP$ results/NNS experimentally/RB ;/: the/DT analytical/JJ approximations/NNS come/VBP surprisingly/RB close/JJ to/IN empirical/JJ reality/NN ./.

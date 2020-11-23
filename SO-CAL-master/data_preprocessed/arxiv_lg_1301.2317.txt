@@ -1,0 +1,9 @@
+We/PRP present/VBP a/DT novel/JJ inference/NN algorithm/NN for/IN arbitrary/JJ ,/, binary/JJ ,/, undirected/JJ graphs/NNS ./.
+Unlike/IN loopy/JJ belief/NN propagation/NN ,/, which/WDT iterates/VBZ fixed/VBN point/NN equations/NNS ,/, we/PRP directly/RB descend/VBP on/IN the/DT Bethe/NNP free/JJ energy/NN ./.
+The/DT algorithm/NN consists/VBZ of/IN two/CD phases/NNS ,/, first/RB we/PRP update/VBP the/DT pairwise/JJ probabilities/NNS ,/, given/VBN the/DT marginal/JJ probabilities/NNS at/IN each/DT unit/NN ,/, using/VBG an/DT analytic/JJ expression/NN ./.
+Next/RB ,/, we/PRP update/VBP the/DT marginal/JJ probabilities/NNS ,/, given/VBN the/DT pairwise/JJ probabilities/NNS by/IN following/VBG the/DT negative/JJ gradient/NN of/IN the/DT Bethe/NNP free/JJ energy/NN ./.
+Both/DT steps/NNS are/VBP guaranteed/VBN to/TO decrease/VB the/DT Bethe/NNP free/JJ energy/NN ,/, and/CC since/IN it/PRP is/VBZ lower/JJR bounded/VBD ,/, the/DT algorithm/NN is/VBZ guaranteed/VBN to/TO converge/VB to/IN a/DT local/JJ minimum/NN ./.
+We/PRP also/RB show/VBP that/IN the/DT Bethe/NNP free/JJ energy/NN is/VBZ equal/JJ to/IN the/DT TAP/NN free/JJ energy/NN up/IN to/IN second/JJ order/NN in/IN the/DT weights/NNS ./.
+In/IN experiments/NNS we/PRP confirm/VBP that/IN when/WRB belief/NN propagation/NN converges/VBZ it/PRP usually/RB finds/VBZ identical/JJ solutions/NNS as/IN our/PRP$ belief/NN optimization/NN method/NN ./.
+However/RB ,/, in/IN cases/NNS where/WRB belief/NN propagation/NN fails/VBZ to/TO converge/VB ,/, belief/NN optimization/NN continues/VBZ to/TO converge/VB to/IN reasonable/JJ beliefs/NNS ./.
+The/DT stable/JJ nature/NN of/IN belief/NN optimization/NN makes/VBZ it/PRP ideally/RB suited/VBN for/IN learning/VBG graphical/JJ models/NNS from/IN data/NNS ./.

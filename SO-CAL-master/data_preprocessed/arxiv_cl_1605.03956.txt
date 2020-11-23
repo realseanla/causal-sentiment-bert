@@ -1,0 +1,7 @@
+Do/VB word/NN embeddings/NNS converge/VBP to/TO learn/VB similar/JJ things/NNS over/IN different/JJ initializations/NNS ?/.
+How/WRB repeatable/JJ are/VBP experiments/NNS with/IN word/NN embeddings/NNS ?/.
+Are/VBP all/DT word/NN embedding/NN techniques/NNS equally/RB reliable/JJ ?/.
+In/IN this/DT paper/NN we/PRP propose/VBP evaluating/VBG methods/NNS for/IN learning/VBG word/NN representations/NNS by/IN their/PRP$ consistency/NN across/IN initializations/NNS ./.
+We/PRP propose/VBP a/DT measure/NN to/TO quantify/VB the/DT similarity/NN of/IN the/DT learned/VBN word/NN representations/NNS under/IN this/DT setting/NN (/-LRB- where/WRB they/PRP are/VBP subject/JJ to/IN different/JJ random/JJ initializations/NNS )/-RRB- ./.
+Our/PRP$ preliminary/JJ results/NNS illustrate/VBP that/IN our/PRP$ metric/JJ not/RB only/RB measures/VBZ a/DT intrinsic/JJ property/NN of/IN word/NN embedding/NN methods/NNS but/CC also/RB correlates/VBZ well/RB with/IN other/JJ evaluation/NN metrics/NNS on/IN downstream/JJ tasks/NNS ./.
+We/PRP believe/VBP our/PRP$ methods/NNS are/VBP is/VBZ useful/JJ in/IN characterizing/VBG robustness/NN --/: an/DT important/JJ property/NN to/TO consider/VB when/WRB developing/VBG new/JJ word/NN embedding/NN methods/NNS ./.

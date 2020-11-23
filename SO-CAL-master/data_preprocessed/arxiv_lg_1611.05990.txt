@@ -1,0 +1,5 @@
+Monte/NNP Carlo/NNP Tree/NNP Search/NNP (/-LRB- MCTS/NNP )/-RRB- is/VBZ a/DT technique/NN to/TO guide/VB search/NN in/IN a/DT large/JJ decision/NN space/NN by/IN taking/VBG random/JJ samples/NNS and/CC evaluating/VBG their/PRP$ outcome/NN ./.
+In/IN this/DT work/NN ,/, we/PRP study/VBP MCTS/NNP methods/NNS in/IN the/DT context/NN of/IN the/DT connection/NN calculus/NN and/CC implement/VB them/PRP on/IN top/NN of/IN the/DT leanCoP/NN prover/NN ./.
+This/DT includes/VBZ proposing/VBG useful/JJ proof/NN -/HYPH state/NN evaluation/NN heuristics/NNS that/WDT are/VBP learned/VBN from/IN previous/JJ proofs/NNS ,/, and/CC proposing/VBG and/CC automatically/RB improving/VBG suitable/JJ MCTS/NN strategies/NNS in/IN this/DT context/NN ./.
+The/DT system/NN is/VBZ trained/VBN and/CC evaluated/VBN on/IN a/DT large/JJ suite/NN of/IN related/JJ problems/NNS coming/VBG from/IN the/DT Mizar/NNP proof/NN assistant/NN ,/, showing/VBG that/IN it/PRP is/VBZ capable/JJ to/TO find/VB new/JJ and/CC different/JJ proofs/NNS ./.
+To/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ time/NN MCTS/NN has/VBZ been/VBN applied/VBN to/IN theorem/NN proving/NN ./.

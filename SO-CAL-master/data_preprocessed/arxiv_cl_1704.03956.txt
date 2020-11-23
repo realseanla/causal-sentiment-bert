@@ -1,0 +1,4 @@
+This/DT paper/NN explores/VBZ an/DT incremental/JJ training/NN strategy/NN for/IN the/DT skip/VB -/HYPH gram/NN model/NN with/IN negative/JJ sampling/NN (/-LRB- SGNS/NN )/-RRB- from/IN both/DT empirical/JJ and/CC theoretical/JJ perspectives/NNS ./.
+Existing/VBG methods/NNS of/IN neural/JJ word/NN embeddings/NNS ,/, including/VBG SNGS/NNP ,/, are/VBP multi-pass/NN algorithms/NNS and/CC thus/RB can/MD not/RB perform/VB incremental/JJ model/NN update/NN ./.
+To/TO address/VB this/DT problem/NN ,/, we/PRP present/VBP a/DT simple/JJ incremental/JJ extension/NN of/IN SNGS/NNP and/CC provide/VB a/DT thorough/JJ theoretical/JJ analysis/NN to/TO demonstrate/VB its/PRP$ validity/NN ./.
+Empirical/JJ experiments/NNS demonstrated/VBD the/DT correctness/NN of/IN the/DT theoretical/JJ analysis/NN as/RB well/RB as/IN the/DT practical/JJ usefulness/NN of/IN the/DT incremental/JJ algorithm/NN ./.

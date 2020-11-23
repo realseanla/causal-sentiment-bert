@@ -1,0 +1,5 @@
+We/PRP propose/VBP Diverse/JJ Embedding/VBG Neural/JJ Network/NN (/-LRB- DENN/NNP )/-RRB- -/: a/DT novel/JJ architecture/NN for/IN neural/JJ network/NN language/NN models/NNS (/-LRB- LMs/NNS )/-RRB- ./.
+A/DT DENN/NN -/HYPH LM/NN projects/NNS the/DT input/NN word/NN history/NN vector/NN onto/IN multiple/JJ diverse/JJ low/JJ -/HYPH dimensional/JJ sub-spaces/NNS instead/RB of/IN a/DT single/JJ higher/JJR -/HYPH dimensional/JJ sub-space/NN as/IN in/IN conventional/JJ feed/NN -/HYPH forward/JJ neural/JJ network/NN LMs/NNS ./.
+We/PRP encourage/VBP these/DT sub-spaces/NNS to/TO be/VB diverse/JJ during/IN network/NN training/NN through/IN an/DT augmented/VBN loss/NN function/NN ./.
+Our/PRP$ language/NN modeling/NN experiments/NNS on/IN the/DT Penn/NNP Treebank/NNP data/NNS set/VBN show/VBP the/DT performance/NN benefit/NN of/IN using/VBG a/DT DENN/NN -/HYPH LM/NN ./.
+We/PRP also/RB present/VBP an/DT empirical/JJ analysis/NN of/IN the/DT diverse/JJ word/NN embeddings/NNS learned/VBN by/IN DENN/NN -/HYPH LM/NN ./.

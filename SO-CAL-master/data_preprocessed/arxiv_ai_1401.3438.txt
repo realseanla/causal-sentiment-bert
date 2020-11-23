@@ -1,0 +1,8 @@
+A/DT phylogenetic/JJ tree/NN shows/VBZ the/DT evolutionary/JJ relationships/NNS among/IN species/NNS ./.
+Internal/JJ nodes/NNS of/IN the/DT tree/NN represent/VB speciation/NN events/NNS and/CC leaf/NN nodes/NNS correspond/VBP to/IN species/NNS ./.
+A/DT goal/NN of/IN phylogenetics/NNS is/VBZ to/TO combine/VB such/JJ trees/NNS into/IN larger/JJR trees/NNS ,/, called/VBN supertrees/NNS ,/, whilst/IN respecting/VBG the/DT relationships/NNS in/IN the/DT original/JJ trees/NNS ./.
+A/DT rooted/JJ tree/NN exhibits/VBZ an/DT ultrametric/JJ property/NN ;/: that/DT is/VBZ ,/, for/IN any/DT three/CD leaves/NNS of/IN the/DT tree/NN it/PRP must/MD be/VB that/IN one/CD pair/NN has/VBZ a/DT deeper/JJR most/RBS recent/JJ common/JJ ancestor/NN than/IN the/DT other/JJ pairs/NNS ,/, or/CC that/IN all/DT three/CD have/VBP the/DT same/JJ most/RBS recent/JJ common/JJ ancestor/NN ./.
+This/DT inspires/VBZ a/DT constraint/NN programming/NN encoding/VBG for/IN rooted/VBN trees/NNS ./.
+We/PRP present/VBP an/DT efficient/JJ constraint/NN that/WDT enforces/VBZ the/DT ultrametric/JJ property/NN over/IN a/DT symmetric/JJ array/NN of/IN constrained/VBN integer/NN variables/NNS ,/, with/IN the/DT inevitable/JJ property/NN that/IN the/DT lower/JJR bounds/NNS of/IN any/DT three/CD variables/NNS are/VBP mutually/RB supportive/JJ ./.
+We/PRP show/VBP that/IN this/DT allows/VBZ an/DT efficient/JJ constraint/NN -/HYPH based/VBN solution/NN to/IN the/DT supertree/NN construction/NN problem/NN ./.
+We/PRP demonstrate/VBP that/IN the/DT versatility/NN of/IN constraint/NN programming/NN can/MD be/VB exploited/VBN to/TO allow/VB solutions/NNS to/IN variants/NNS of/IN the/DT supertree/NN construction/NN problem/NN ./.

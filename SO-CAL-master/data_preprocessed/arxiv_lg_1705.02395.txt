@@ -1,0 +1,9 @@
+Abundant/JJ data/NNS is/VBZ the/DT key/NN to/IN successful/JJ machine/NN learning/NN ./.
+However/RB ,/, supervised/VBD learning/NN requires/VBZ annotated/VBN data/NNS that/WDT are/VBP often/RB hard/JJ to/TO obtain/VB ./.
+In/IN a/DT classification/NN task/NN with/IN limited/JJ resources/NNS ,/, Active/JJ Learning/NN (/-LRB- AL/NNP )/-RRB- promises/VBZ to/TO guide/VB annotators/NNS to/IN examples/NNS that/WDT bring/VBP the/DT most/RBS value/NN for/IN a/DT classifier/NN ./.
+AL/NNP can/MD be/VB successfully/RB combined/VBN with/IN self/NN -/HYPH training/NN ,/, i.e./FW ,/, extending/VBG a/DT training/NN set/VBN with/IN the/DT unlabelled/JJ examples/NNS for/IN which/WDT a/DT classifier/NN is/VBZ the/DT most/RBS certain/JJ ./.
+We/PRP report/VBP our/PRP$ experiences/NNS on/IN using/VBG AL/NNP in/IN a/DT systematic/JJ manner/NN to/TO train/VB an/DT SVM/NN classifier/NN for/IN Stack/NNP Overflow/NNP posts/NNS discussing/VBG performance/NN of/IN software/NN components/NNS ./.
+We/PRP show/VBP that/IN the/DT training/NN examples/NNS deemed/VBN as/IN the/DT most/RBS valuable/JJ to/IN the/DT classifier/NN are/VBP also/RB the/DT most/RBS difficult/JJ for/IN humans/NNS to/TO annotate/VB ./.
+Despite/IN carefully/RB evolved/VBN annotation/NN criteria/NNS ,/, we/PRP report/VBP low/JJ inter-rater/JJ agreement/NN ,/, but/CC we/PRP also/RB propose/VBP mitigation/NN strategies/NNS ./.
+Finally/RB ,/, based/VBN on/IN one/CD annotator/NN 's/POS work/NN ,/, we/PRP show/VBP that/IN self/NN -/HYPH training/NN can/MD improve/VB the/DT classification/NN accuracy/NN ./.
+We/PRP conclude/VBP the/DT paper/NN by/IN discussing/VBG implication/NN for/IN future/JJ text/NN miners/NNS aspiring/VBG to/TO use/VB AL/NNP and/CC self/NN -/HYPH training/NN ./.

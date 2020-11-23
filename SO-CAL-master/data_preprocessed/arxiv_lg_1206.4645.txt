@@ -1,0 +1,4 @@
+Convex/NNP regression/NN is/VBZ a/DT promising/JJ area/NN for/IN bridging/VBG statistical/JJ estimation/NN and/CC deterministic/JJ convex/NN optimization/NN ./.
+New/NNP piecewise/RB linear/JJ convex/NN regression/NN methods/NNS are/VBP fast/JJ and/CC scalable/JJ ,/, but/CC can/MD have/VB instability/NN when/WRB used/VBN to/TO approximate/VB constraints/NNS or/CC objective/JJ functions/NNS for/IN optimization/NN ./.
+Ensemble/NN methods/NNS ,/, like/IN bagging/NN ,/, smearing/VBG and/CC random/JJ partitioning/NN ,/, can/MD alleviate/VB this/DT problem/NN and/CC maintain/VB the/DT theoretical/JJ properties/NNS of/IN the/DT underlying/VBG estimator/NN ./.
+We/PRP empirically/RB examine/VBP the/DT performance/NN of/IN ensemble/NN methods/NNS for/IN prediction/NN and/CC optimization/NN ,/, and/CC then/RB apply/VB them/PRP to/IN device/NN modeling/NN and/CC constraint/NN approximation/NN for/IN geometric/JJ programming/NN based/VBN circuit/NN design/NN ./.

@@ -1,0 +1,8 @@
+Classification/NN involves/VBZ the/DT learning/NN of/IN the/DT mapping/NN function/NN that/WDT associates/VBZ input/NN samples/NNS to/IN corresponding/VBG target/NN label/NN ./.
+There/EX are/VBP two/CD major/JJ categories/NNS of/IN classification/NN problems/NNS :/: Single/JJ -/HYPH label/NN classification/NN and/CC Multi-label/NN classification/NN ./.
+Traditional/JJ binary/NN and/CC multi-class/NN classifications/NNS are/VBP sub-categories/NNS of/IN single/JJ -/HYPH label/NN classification/NN ./.
+Several/JJ classifiers/NNS are/VBP developed/VBN for/IN binary/JJ ,/, multi-class/JJ and/CC multi-label/JJ classification/NN problems/NNS ,/, but/CC there/EX are/VBP no/DT classifiers/NNS available/JJ in/IN the/DT literature/NN capable/JJ of/IN performing/VBG all/DT three/CD types/NNS of/IN classification/NN ./.
+In/IN this/DT paper/NN ,/, a/DT novel/JJ online/JJ universal/JJ classifier/NN capable/JJ of/IN performing/VBG all/PDT the/DT three/CD types/NNS of/IN classification/NN is/VBZ proposed/VBN ./.
+Being/VBG a/DT high/JJ speed/NN online/JJ classifier/NN ,/, the/DT proposed/VBN technique/NN can/MD be/VB applied/VBN to/IN streaming/NN data/NNS applications/NNS ./.
+The/DT performance/NN of/IN the/DT developed/VBN classifier/NN is/VBZ evaluated/VBN using/VBG datasets/NNS from/IN binary/JJ ,/, multi-class/JJ and/CC multi-label/JJ problems/NNS ./.
+The/DT results/NNS obtained/VBN are/VBP compared/VBN with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN techniques/NNS from/IN each/DT of/IN the/DT classification/NN types/NNS ./.

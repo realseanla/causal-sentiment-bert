@@ -1,0 +1,5 @@
+Submodular/JJ function/NN minimization/NN is/VBZ a/DT fundamental/JJ optimization/NN problem/NN that/WDT arises/VBZ in/IN several/JJ applications/NNS in/IN machine/NN learning/NN and/CC computer/NN vision/NN ./.
+The/DT problem/NN is/VBZ known/VBN to/TO be/VB solvable/JJ in/IN polynomial/JJ time/NN ,/, but/CC general/JJ purpose/NN algorithms/NNS have/VBP high/JJ running/NN times/NNS and/CC are/VBP unsuitable/JJ for/IN large/JJ -/HYPH scale/NN problems/NNS ./.
+Recent/JJ work/NN have/VBP used/VBN convex/NN optimization/NN techniques/NNS to/TO obtain/VB very/RB practical/JJ algorithms/NNS for/IN minimizing/VBG functions/NNS that/WDT are/VBP sums/NNS of/IN ``/`` simple/JJ "/'' functions/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP use/VBP random/JJ coordinate/NN descent/NN methods/NNS to/TO obtain/VB algorithms/NNS with/IN faster/JJR linear/JJ convergence/NN rates/NNS and/CC cheaper/JJR iteration/NN costs/NNS ./.
+Compared/VBN to/IN alternating/VBG projection/NN methods/NNS ,/, our/PRP$ algorithms/NNS do/VBP not/RB rely/VB on/IN full/JJ -/HYPH dimensional/JJ vector/NN operations/NNS and/CC they/PRP converge/VBP in/IN significantly/RB fewer/JJR iterations/NNS ./.

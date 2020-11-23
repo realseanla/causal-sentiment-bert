@@ -1,0 +1,7 @@
+In typical perceptual tasks, higher-order concepts are inferred from visual features to assist with perceptual decision making.
+However, there is a multitude of visual concepts which can be inferred from a single stimulus.
+When learning nonlinear embeddings with siamese or triplet networks from similarities, we typically assume they are sourced from a single visual concept.
+In this paper, we are concerned with the hypothesis that it can be potentially harmful to ignore the heterogeneity of concepts affiliated with observed similarities when learning these embedding networks.
+We demonstrate empirically that this hypothesis holds and suggest an approach that deals with these shortcomings, by combining multiple notions of similarities in one compact system.
+We propose Multi-Query Networks (MQNs) that leverage recent advances in representation learning on factorized triplet embeddings in combination with Convolutional Networks in order to learn embeddings differentiated into semantically distinct subspaces, which are learned with a latent space attention mechanism.
+We show that the resulting model learns visually relevant semantic subspaces with features that do not only outperform single triplet networks, but even sets of concept specific networks.

@@ -1,0 +1,6 @@
+Robots/NNP and/CC autonomous/JJ systems/NNS that/WDT operate/VBP around/IN humans/NNS will/MD likely/RB always/RB rely/VBP on/IN kill/NN switches/NNS that/WDT stop/VBP their/PRP$ execution/NN and/CC allow/VB them/PRP to/TO be/VB remote/JJ -/HYPH controlled/VBN for/IN the/DT safety/NN of/IN humans/NNS or/CC to/TO prevent/VB damage/NN to/IN the/DT system/NN ./.
+It/PRP is/VBZ theoretically/RB possible/JJ for/IN an/DT autonomous/JJ system/NN with/IN sufficient/JJ sensor/NN and/CC effector/NN capability/NN and/CC using/VBG reinforcement/NN learning/VBG to/TO learn/VB that/IN the/DT kill/NN switch/NN deprives/VBZ it/PRP of/IN long/JJ -/HYPH term/NN reward/NN and/CC learn/VB to/TO act/VB to/IN disable/VB the/DT switch/NN or/CC otherwise/RB prevent/VB a/DT human/JJ operator/NN from/IN using/VBG the/DT switch/NN ./.
+This/DT is/VBZ referred/VBN to/IN as/IN the/DT big/JJ red/JJ button/NN problem/NN ./.
+We/PRP present/VBP a/DT technique/NN which/WDT prevents/VBZ a/DT reinforcement/NN learning/VBG agent/NN from/IN learning/VBG to/IN disable/VB the/DT big/JJ red/JJ button/NN ./.
+Our/PRP$ technique/NN interrupts/VBZ the/DT agent/NN or/CC robot/NN by/IN placing/VBG it/PRP in/IN a/DT virtual/JJ simulation/NN where/WRB it/PRP continues/VBZ to/TO receive/VB reward/NN ./.
+We/PRP illustrate/VBP our/PRP$ technique/NN in/IN a/DT simple/JJ grid/NN world/NN environment/NN ./.

@@ -1,0 +1,6 @@
+In distant supervised relation extraction, the connection between relations of one entity tuple, which we call class ties, is common.
+Exploiting this connection may be promising for relation extraction.
+However, this property is seldom considered by previous work.
+In this work, to leverage class ties, we propose to make joint relation extraction with a unified model that integrates convolutional neural network with a general pairwise ranking framework, in which two novel ranking loss functions are introduced.
+Besides, an effective method is proposed to relieve the impact of relation NR (not relation) for model training and test.
+Experimental results on a widely used dataset show that: (1) Our model is much more superior than the baselines, achieving state-of-the-art performance; (2) Leveraging class ties, joint extraction is indeed better than separated extraction; (3) Relieving the impact of NR will significantly boost our model performance; (4) Our model can primely deal with wrong labeling problem.

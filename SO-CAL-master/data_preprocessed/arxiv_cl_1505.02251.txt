@@ -1,0 +1,5 @@
+Hierarchies/NNS are/VBP frequently/RB used/VBN for/IN the/DT organization/NN of/IN objects/NNS ./.
+Given/VBN a/DT hierarchy/NN of/IN classes/NNS ,/, two/CD main/JJ approaches/NNS are/VBP used/VBN ,/, to/IN automatically/RB classify/VB new/JJ instances/NNS :/: flat/JJ classification/NN and/CC cascade/NN classification/NN ./.
+Flat/JJ classification/NN ignores/VBZ the/DT hierarchy/NN ,/, while/IN cascade/NN classification/NN greedily/RB traverses/VBZ the/DT hierarchy/NN from/IN the/DT root/NN to/IN the/DT predicted/VBN leaf/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT new/JJ approach/NN ,/, which/WDT extends/VBZ cascade/NN classification/NN to/TO predict/VB the/DT right/JJ leaf/NN by/IN estimating/VBG the/DT probability/NN of/IN each/DT root/NN -/HYPH to/IN -/HYPH leaf/NN path/NN ./.
+We/PRP provide/VBP experimental/JJ results/NNS which/WDT indicate/VBP that/IN ,/, using/VBG the/DT same/JJ classification/NN algorithm/NN ,/, one/PRP can/MD achieve/VB better/JJR results/NNS with/IN our/PRP$ approach/NN ,/, compared/VBN to/IN the/DT traditional/JJ flat/JJ and/CC cascade/NN classifications/NNS ./.

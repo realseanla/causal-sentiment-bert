@@ -1,0 +1,11 @@
+We/PRP consider/VBP a/DT class/NN of/IN probabilistic/JJ grammars/NNS for/IN generating/VBG scenes/NNS with/IN multiple/JJ objects/NNS ./.
+Probabilistic/JJ scene/NN grammars/NNS capture/VBP relationships/NNS between/IN objects/NNS using/VBG compositional/JJ rules/NNS that/WDT provide/VBP important/JJ contextual/JJ cues/NNS for/IN inference/NN with/IN ambiguous/JJ data/NNS ./.
+We/PRP show/VBP how/WRB to/TO represent/VB the/DT distribution/NN defined/VBN by/IN a/DT probabilistic/JJ scene/NN grammar/NN using/VBG a/DT factor/NN graph/NN ./.
+We/PRP also/RB show/VBP how/WRB to/TO efficiently/RB perform/VB message/NN passing/VBG in/IN this/DT factor/NN graph/NN ./.
+This/DT leads/VBZ to/IN an/DT efficient/JJ approach/NN for/IN inference/NN with/IN a/DT grammar/NN model/NN using/VBG belief/NN propagation/NN as/IN the/DT underlying/VBG computational/JJ engine/NN ./.
+Inference/NN with/IN belief/NN propagation/NN naturally/RB combines/VBZ bottom/NN -/HYPH up/NN and/CC top/JJ -/HYPH down/JJ contextual/JJ information/NN and/CC leads/VBZ to/IN a/DT robust/JJ algorithm/NN for/IN aggregating/VBG evidence/NN ./.
+We/PRP show/VBP experiments/NNS on/IN two/CD different/JJ applications/NNS to/TO demonstrate/VB the/DT generality/NN of/IN the/DT framework/NN ./.
+The/DT first/JJ application/NN involves/VBZ detecting/VBG curves/NNS in/IN noisy/JJ images/NNS ,/, and/CC we/PRP address/VBP this/DT problem/NN using/VBG a/DT grammar/NN that/WDT generates/VBZ a/DT collection/NN of/IN curves/NNS using/VBG a/DT first/JJ -/HYPH order/NN Markov/NNP process/NN ./.
+The/DT second/JJ application/NN involves/VBZ localizing/VBG faces/NNS and/CC parts/NNS of/IN faces/NNS in/IN images/NNS ./.
+In/IN this/DT case/NN ,/, we/PRP use/VBP a/DT grammar/NN that/WDT captures/VBZ spatial/JJ relationships/NNS between/IN the/DT parts/NNS of/IN a/DT face/NN ./.
+In/IN both/DT applications/NNS the/DT same/JJ framework/NN leads/VBZ to/IN robust/JJ inference/NN algorithms/NNS that/WDT can/MD effectively/RB combine/VB weak/JJ local/JJ information/NN to/IN reason/NN about/IN a/DT scene/NN ./.

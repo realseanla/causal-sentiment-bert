@@ -1,0 +1,8 @@
+Individuals/NNS on/IN social/JJ media/NNS may/MD reveal/VB themselves/PRP to/TO be/VB in/IN various/JJ states/NNS of/IN crisis/NN (/-LRB- e.g./FW suicide/NN ,/, self/NN -/HYPH harm/NN ,/, abuse/NN ,/, or/CC eating/VBG disorders/NNS )/-RRB- ./.
+Detecting/VBG crisis/NN from/IN social/JJ media/NNS text/NN automatically/RB and/CC accurately/RB can/MD have/VB profound/JJ consequences/NNS ./.
+However/RB ,/, detecting/VBG a/DT general/JJ state/NN of/IN crisis/NN without/IN explaining/VBG why/WRB has/VBZ limited/VBN applications/NNS ./.
+An/DT explanation/NN in/IN this/DT context/NN is/VBZ a/DT coherent/JJ ,/, concise/JJ subset/NN of/IN the/DT text/NN that/WDT rationalizes/VBZ the/DT crisis/NN detection/NN ./.
+We/PRP explore/VBP several/JJ methods/NNS to/TO detect/VB and/CC explain/VB crisis/NN using/VBG a/DT combination/NN of/IN neural/JJ and/CC non-neural/JJ techniques/NNS ./.
+We/PRP evaluate/VBP these/DT techniques/NNS on/IN a/DT unique/JJ data/NNS set/VBN obtained/VBN from/IN Koko/NNP ,/, an/DT anonymous/JJ emotional/JJ support/NN network/NN available/JJ through/IN various/JJ messaging/NN applications/NNS ./.
+We/PRP annotate/VBP a/DT small/JJ subset/NN of/IN the/DT samples/NNS labeled/VBN with/IN crisis/NN with/IN corresponding/VBG explanations/NNS ./.
+Our/PRP$ best/JJS technique/NN significantly/RB outperforms/VBZ the/DT baseline/NN for/IN detection/NN and/CC explanation/NN ./.

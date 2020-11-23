@@ -1,0 +1,7 @@
+Theoretical/JJ and/CC empirical/JJ evidence/NN indicates/VBZ that/IN the/DT depth/NN of/IN neural/JJ networks/NNS is/VBZ crucial/JJ for/IN their/PRP$ success/NN ./.
+However/RB ,/, training/NN becomes/VBZ more/RBR difficult/JJ as/IN depth/NN increases/NNS ,/, and/CC training/NN of/IN very/RB deep/JJ networks/NNS remains/VBZ an/DT open/JJ problem/NN ./.
+Here/RB we/PRP introduce/VBP a/DT new/JJ architecture/NN designed/VBN to/TO overcome/VB this/DT ./.
+Our/PRP$ so/RB -/HYPH called/VBN highway/NN networks/NNS allow/VBP unimpeded/JJ information/NN flow/NN across/IN many/JJ layers/NNS on/IN information/NN highways/NNS ./.
+They/PRP are/VBP inspired/VBN by/IN Long/JJ Short/JJ -/HYPH Term/NN Memory/NN recurrent/JJ networks/NNS and/CC use/VB adaptive/JJ gating/NN units/NNS to/TO regulate/VB the/DT information/NN flow/NN ./.
+Even/RB with/IN hundreds/NNS of/IN layers/NNS ,/, highway/NN networks/NNS can/MD be/VB trained/VBN directly/RB through/IN simple/JJ gradient/NN descent/NN ./.
+This/DT enables/VBZ the/DT study/NN of/IN extremely/RB deep/JJ and/CC efficient/JJ architectures/NNS ./.

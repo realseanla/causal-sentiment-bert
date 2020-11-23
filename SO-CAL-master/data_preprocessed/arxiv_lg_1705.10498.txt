@@ -1,0 +1,7 @@
+Determinantal/JJ point/NN processes/NNS (/-LRB- DPPs/NNS )/-RRB- are/VBP distributions/NNS over/IN sets/NNS of/IN items/NNS that/WDT model/VBP diversity/NN using/VBG kernels/NNS ./.
+Their/PRP$ applications/NNS in/IN machine/NN learning/NN include/VBP summary/NN extraction/NN and/CC recommendation/NN systems/NNS ./.
+Yet/RB ,/, the/DT cost/NN of/IN sampling/NN from/IN a/DT DPP/NNP is/VBZ prohibitive/JJ in/IN large/JJ -/HYPH scale/NN applications/NNS ,/, which/WDT has/VBZ triggered/VBN an/DT effort/NN towards/IN efficient/JJ approximate/JJ samplers/NNS ./.
+We/PRP build/VBP a/DT novel/JJ MCMC/NN sampler/NN that/WDT combines/VBZ ideas/NNS from/IN combinatorial/JJ geometry/NN ,/, linear/JJ programming/NN ,/, and/CC Monte/NNP Carlo/NNP methods/NNS to/TO sample/VB from/IN DPPs/NNS with/IN a/DT fixed/VBN sample/NN cardinality/NN ,/, also/RB called/VBN projection/NN DPPs/NNS ./.
+Our/PRP$ sampler/NN leverages/VBZ the/DT ability/NN of/IN the/DT hit/NN -/HYPH and/CC -/HYPH run/VB MCMC/NNP kernel/NN to/TO efficiently/RB move/VB across/IN convex/NN bodies/NNS ./.
+Previous/JJ theoretical/JJ results/NNS yield/VBP a/DT fast/JJ mixing/NN time/NN of/IN our/PRP$ chain/NN when/WRB targeting/VBG a/DT distribution/NN that/WDT is/VBZ close/JJ to/IN a/DT projection/NN DPP/NNP ,/, but/CC not/RB a/DT DPP/NNP in/IN general/JJ ./.
+Our/PRP$ empirical/JJ results/NNS demonstrate/VBP that/IN this/DT extends/VBZ to/IN sampling/NN projection/NN DPPs/NNS ,/, i.e./FW ,/, our/PRP$ sampler/NN is/VBZ more/JJR sample/NN -/HYPH efficient/JJ than/IN previous/JJ approaches/NNS ./.

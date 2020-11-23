@@ -1,0 +1,8 @@
+Sequence/NN model/NN learning/VBG algorithms/NNS typically/RB maximize/VBP log/NN -/HYPH likelihood/NN minus/IN the/DT norm/NN of/IN the/DT model/NN (/-LRB- or/CC minimize/VB Hamming/NN loss/NN norm/NN )/-RRB- ./.
+In/IN cross-lingual/JJ part/NN -/HYPH of/IN -/HYPH speech/NN (/-LRB- POS/NN )/-RRB- tagging/NN ,/, our/PRP$ target/NN language/NN training/NN data/NNS consists/VBZ of/IN sequences/NNS of/IN sentences/NNS with/IN word/NN -/HYPH by/IN -/HYPH word/NN labels/NNS projected/VBN from/IN translations/NNS in/IN $/$ k/CD $/$ languages/NNS for/IN which/WDT we/PRP have/VBP labeled/VBN data/NNS ,/, via/IN word/NN alignments/NNS ./.
+Our/PRP$ training/NN data/NNS is/VBZ therefore/RB very/RB noisy/JJ ,/, and/CC if/IN Rademacher/NNP complexity/NN is/VBZ high/JJ ,/, learning/VBG algorithms/NNS are/VBP prone/JJ to/IN overfit/NN ./.
+Norm/NN -/HYPH based/VBN regularization/NN assumes/VBZ a/DT constant/JJ width/NN and/CC zero/CD mean/NN prior/JJ ./.
+We/PRP instead/RB propose/VBP to/TO use/VB the/DT $/$ k/CD $/$ source/NN language/NN models/NNS to/TO estimate/VB the/DT parameters/NNS of/IN a/DT Gaussian/NNP prior/JJ for/IN learning/VBG new/JJ POS/NN taggers/NNS ./.
+This/DT leads/VBZ to/IN significantly/RB better/JJR performance/NN in/IN multi-source/JJ transfer/NN set/NN -/HYPH ups/NNS ./.
+We/PRP also/RB present/VBP a/DT drop/NN -/HYPH out/NN version/NN that/WDT injects/VBZ (/-LRB- empirical/JJ )/-RRB- Gaussian/JJ noise/NN during/IN online/JJ learning/NN ./.
+Finally/RB ,/, we/PRP note/VBP that/IN using/VBG empirical/JJ Gaussian/JJ priors/NNS leads/VBZ to/IN much/RB lower/JJR Rademacher/NNP complexity/NN ,/, and/CC is/VBZ superior/JJ to/IN optimally/RB weighted/JJ model/NN interpolation/NN ./.

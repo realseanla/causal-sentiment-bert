@@ -1,0 +1,7 @@
+Subspace/NN learning/NN is/VBZ becoming/VBG more/RBR and/CC more/RBR popular/JJ thanks/NNS to/IN its/PRP$ capabilities/NNS of/IN good/JJ interpretation/NN ./.
+However/RB ,/, existing/VBG approaches/NNS do/VBP not/RB adapt/VB both/DT local/JJ structure/NN and/CC self/NN reconstruction/NN very/RB well/RB ./.
+We/PRP propose/VBP local/JJ -/HYPH structure/NN adaptive/JJ sparse/JJ subspace/NN learning/NN (/-LRB- ASSL/NN )/-RRB- model/NN for/IN unsupervised/JJ feature/NN selection/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP formulate/VBP the/DT feature/NN selection/NN process/NN as/IN a/DT subspace/NN learning/NN problem/NN and/CC incorporate/VB a/DT regularization/NN term/NN to/TO preserve/VB the/DT local/JJ structure/NN of/IN the/DT data/NNS ./.
+Furthermore/RB ,/, we/PRP develop/VBP a/DT greedy/JJ algorithm/NN to/TO establish/VB the/DT basic/JJ model/NN and/CC an/DT iterative/JJ strategy/NN based/VBN on/IN an/DT accelerated/VBN block/NN coordinate/NN descent/NN is/VBZ used/VBN to/TO solve/VB the/DT local/JJ -/HYPH structure/NN ASSL/NN problem/NN ./.
+We/PRP also/RB provide/VBP the/DT global/JJ convergence/NN analysis/NN of/IN the/DT proposed/VBN ASSL/NN algorithm/NN ./.
+Extensive/JJ experiments/NNS are/VBP conducted/VBN on/IN real/JJ -/HYPH world/NN datasets/NNS to/TO show/VB the/DT superiority/NN of/IN the/DT proposed/VBN approach/NN over/IN several/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN unsupervised/JJ feature/NN selection/NN approaches/NNS ./.

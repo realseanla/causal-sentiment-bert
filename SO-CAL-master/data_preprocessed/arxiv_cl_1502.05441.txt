@@ -1,0 +1,9 @@
+This/DT paper/NN investigates/VBZ the/DT problem/NN that/IN some/DT Arabic/JJ names/NNS can/MD be/VB written/VBN in/IN multiple/JJ ways/NNS ./.
+When/WRB someone/NN searches/VBZ for/IN only/RB one/CD form/NN of/IN a/DT name/NN ,/, neither/CC exact/JJ nor/CC approximate/JJ matching/NN is/VBZ appropriate/JJ for/IN returning/VBG the/DT multiple/JJ variants/NNS of/IN the/DT name/NN ./.
+Exact/JJ matching/NN requires/VBZ the/DT user/NN to/TO enter/VB all/DT forms/NNS of/IN the/DT name/NN for/IN the/DT search/NN ,/, and/CC approximate/JJ matching/NN yields/NNS names/NNS not/RB among/IN the/DT variations/NNS of/IN the/DT one/NN being/VBG sought/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP attempt/VBP to/TO solve/VB the/DT problem/NN with/IN a/DT dictionary/NN of/RB all/DT Arabic/JJ names/NNS mapped/VBN to/IN their/PRP$ different/JJ (/-LRB- alternative/JJ )/-RRB- writing/VBG forms/NNS ./.
+We/PRP generated/VBD alternatives/NNS based/VBN on/IN rules/NNS we/PRP derived/VBD from/IN reviewing/VBG the/DT first/JJ names/NNS of/IN 9.9/CD million/CD citizens/NNS and/CC former/JJ citizens/NNS of/IN Jordan/NNP ./.
+This/DT dictionary/NN can/MD be/VB used/VBN for/IN both/DT standardizing/VBG the/DT written/VBN form/NN when/WRB inserting/VBG a/DT new/JJ name/NN into/IN a/DT database/NN and/CC for/IN searching/VBG for/IN the/DT name/NN and/CC all/PDT its/PRP$ alternative/NN written/VBN forms/NNS ./.
+Creating/VBG the/DT dictionary/NN automatically/RB based/VBN on/IN rules/NNS resulted/VBD in/IN at/IN least/RBS 7/CD percent/NN erroneous/JJ acceptance/NN errors/NNS and/CC 7.9/CD percent/NN erroneous/JJ rejection/NN errors/NNS ./.
+We/PRP addressed/VBD the/DT errors/NNS by/IN manually/RB editing/VBG the/DT dictionary/NN ./.
+The/DT dictionary/NN can/MD be/VB of/IN help/NN to/IN real/JJ world/NN -/HYPH databases/NNS ,/, with/IN the/DT qualification/NN that/WDT manual/JJ editing/NN does/VBZ not/RB guarantee/VB 100/CD percent/NN correctness/NN ./.

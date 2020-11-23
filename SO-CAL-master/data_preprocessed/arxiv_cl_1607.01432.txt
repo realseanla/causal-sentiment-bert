@@ -1,0 +1,7 @@
+We/PRP introduce/VBP the/DT first/JJ global/JJ recursive/JJ neural/JJ parsing/VBG model/NN with/IN optimality/NN guarantees/NNS during/IN decoding/NN ./.
+To/TO support/VB global/JJ features/NNS ,/, we/PRP give/VBP up/RP dynamic/JJ programs/NNS and/CC instead/RB search/VB directly/RB in/IN the/DT space/NN of/IN all/DT possible/JJ subtrees/NNS ./.
+Although/IN this/DT space/NN is/VBZ exponentially/RB large/JJ in/IN the/DT sentence/NN length/NN ,/, we/PRP show/VBP it/PRP is/VBZ possible/JJ to/TO learn/VB an/DT efficient/JJ A/NN */NFP parser/NN ./.
+We/PRP augment/VBP existing/VBG parsing/VBG models/NNS ,/, which/WDT have/VBP informative/JJ bounds/NNS on/IN the/DT outside/JJ score/NN ,/, with/IN a/DT global/JJ model/NN that/WDT has/VBZ loose/JJ bounds/NNS but/CC only/RB needs/VBZ to/TO model/VB non-local/JJ phenomena/NNS ./.
+The/DT global/JJ model/NN is/VBZ trained/VBN with/IN a/DT new/JJ objective/NN that/WDT encourages/VBZ the/DT parser/NN to/TO explore/VB a/DT tiny/JJ fraction/NN of/IN the/DT search/NN space/NN ./.
+The/DT approach/NN is/VBZ applied/VBN to/IN CCG/NN parsing/VBG ,/, improving/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN accuracy/NN by/IN 0.4/CD F1/NN ./.
+The/DT parser/NN finds/VBZ the/DT optimal/JJ parse/VB for/IN 99.9/CD percent/NN of/IN held/VBN -/HYPH out/RP sentences/NNS ,/, exploring/VBG on/IN average/JJ only/RB 190/CD subtrees/NNS ./.

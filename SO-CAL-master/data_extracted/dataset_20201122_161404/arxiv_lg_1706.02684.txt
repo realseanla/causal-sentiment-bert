@@ -1,0 +1,5 @@
+To achieve state-of-the-art results on challenges in vision, Convolutional Neural Networks learn stationary filters that take advantage of the underlying image structure.
+Our purpose is to propose an efficient layer formulation that extends this property to any domain described by a graph.
+Namely, we use the support of its adjacency matrix to design learnable weight sharing filters able to exploit the underlying structure of signals.
+The proposed formulation makes it possible to learn the weights of the filter as well as a scheme that controls how they are shared across the graph.
+We perform validation experiments with image datasets and show that these filters offer performances comparable with convolutional ones.

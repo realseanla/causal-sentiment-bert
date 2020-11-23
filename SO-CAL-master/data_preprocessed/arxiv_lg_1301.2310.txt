@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT new/JJ method/NN for/IN estimating/VBG the/DT expected/VBN return/NN of/IN a/DT POMDP/NN from/IN experience/NN ./.
+The/DT method/NN does/VBZ not/RB assume/VB any/DT knowledge/NN of/IN the/DT POMDP/NN and/CC allows/VBZ the/DT experience/NN to/TO be/VB gathered/VBN from/IN an/DT arbitrary/JJ sequence/NN of/IN policies/NNS ./.
+The/DT return/NN is/VBZ estimated/VBN for/IN any/DT new/JJ policy/NN of/IN the/DT POMDP/NN ./.
+We/PRP motivate/VBP the/DT estimator/NN from/IN function/NN -/HYPH approximation/NN and/CC importance/NN sampling/NN points/NNS -/, of/IN -/HYPH view/NN and/CC derive/VBP its/PRP$ theoretical/JJ properties/NNS ./.
+Although/IN the/DT estimator/NN is/VBZ biased/VBN ,/, it/PRP has/VBZ low/JJ variance/NN and/CC the/DT bias/NN is/VBZ often/RB irrelevant/JJ when/WRB the/DT estimator/NN is/VBZ used/VBN for/IN pair-wise/JJ comparisons/NNS ./.
+We/PRP conclude/VBP by/IN extending/VBG the/DT estimator/NN to/IN policies/NNS with/IN memory/NN and/CC compare/VB its/PRP$ performance/NN in/IN a/DT greedy/JJ search/NN algorithm/NN to/TO REINFORCE/VB algorithms/NNS showing/VBG an/DT order/NN of/IN magnitude/NN reduction/NN in/IN the/DT number/NN of/IN trials/NNS required/VBN ./.

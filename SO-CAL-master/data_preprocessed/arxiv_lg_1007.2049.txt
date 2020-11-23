@@ -1,0 +1,6 @@
+This/DT paper/NN introduces/VBZ a/DT principled/JJ approach/NN for/IN the/DT design/NN of/IN a/DT scalable/JJ general/JJ reinforcement/NN learning/VBG agent/NN ./.
+This/DT approach/NN is/VBZ based/VBN on/IN a/DT direct/JJ approximation/NN of/IN AIXI/NNP ,/, a/DT Bayesian/JJ optimality/NN notion/NN for/IN general/JJ reinforcement/NN learning/VBG agents/NNS ./.
+Previously/RB ,/, it/PRP has/VBZ been/VBN unclear/JJ whether/IN the/DT theory/NN of/IN AIXI/NNP could/MD motivate/VB the/DT design/NN of/IN practical/JJ algorithms/NNS ./.
+We/PRP answer/VBP this/DT hitherto/RB open/JJ question/NN in/IN the/DT affirmative/JJ ,/, by/IN providing/VBG the/DT first/JJ computationally/RB feasible/JJ approximation/NN to/IN the/DT AIXI/NNP agent/NN ./.
+To/TO develop/VB our/PRP$ approximation/NN ,/, we/PRP introduce/VBP a/DT Monte/NNP Carlo/NNP Tree/NNP Search/VB algorithm/NN along/IN with/IN an/DT agent/NN -/HYPH specific/JJ extension/NN of/IN the/DT Context/NNP Tree/NNP Weighting/NNP algorithm/NN ./.
+Empirically/RB ,/, we/PRP present/VBP a/DT set/NN of/IN encouraging/JJ results/NNS on/IN a/DT number/NN of/IN stochastic/JJ ,/, unknown/JJ ,/, and/CC partially/RB observable/JJ domains/NNS ./.

@@ -1,0 +1,11 @@
+The/DT Singleton/NNP Property/NNP (/-LRB- SP/NN )/-RRB- approach/NN has/VBZ been/VBN proposed/VBN for/IN representing/VBG and/CC querying/VBG metadata/NN about/IN RDF/NNP triples/NNS such/JJ as/IN provenance/NN ,/, time/NN ,/, location/NN ,/, and/CC evidence/NN ./.
+In/IN this/DT approach/NN ,/, one/CD singleton/NN property/NN is/VBZ created/VBN to/IN uniquely/RB represent/VBP a/DT relationship/NN in/IN a/DT particular/JJ context/NN ,/, and/CC in/IN general/JJ ,/, generates/VBZ a/DT large/JJ property/NN hierarchy/NN in/IN the/DT schema/NN ./.
+It/PRP has/VBZ become/VBN the/DT subject/NN of/IN important/JJ questions/NNS from/IN Semantic/JJ Web/NN practitioners/NNS ./.
+Can/MD an/DT existing/VBG reasoner/NN recognize/VB the/DT singleton/NN property/NN triples/NNS ?/.
+And/CC how/WRB ?/.
+If/IN the/DT singleton/NN property/NN triples/NNS describe/VBP a/DT data/NN triple/RB ,/, then/RB how/WRB can/MD a/DT reasoner/NN infer/VBP this/DT data/NNS triple/RB from/IN the/DT singleton/NN property/NN triples/NNS ?/.
+Or/CC would/MD the/DT large/JJ property/NN hierarchy/NN affect/VB the/DT reasoners/NNS in/IN some/DT way/NN ?/.
+We/PRP address/VBP these/DT questions/NNS in/IN this/DT paper/NN and/CC present/VB our/PRP$ study/NN about/IN the/DT reasoning/NN aspects/NNS of/IN the/DT singleton/NN properties/NNS ./.
+We/PRP propose/VBP a/DT simple/JJ mechanism/NN to/TO enable/VB existing/VBG reasoners/NNS to/TO recognize/VB the/DT singleton/NN property/NN triples/NNS ,/, as/RB well/RB as/IN to/IN infer/VB the/DT data/NNS triples/NNS described/VBN by/IN the/DT singleton/NN property/NN triples/NNS ./.
+We/PRP evaluate/VBP the/DT effect/NN of/IN the/DT singleton/NN property/NN triples/NNS in/IN the/DT reasoning/NN processes/NNS by/IN comparing/VBG the/DT performance/NN on/IN RDF/NNP datasets/NNS with/IN and/CC without/IN singleton/NN properties/NNS ./.
+Our/PRP$ evaluation/NN uses/VBZ as/IN benchmark/NN the/DT LUBM/NNP datasets/NNS and/CC the/DT LUBM/NN -/HYPH SP/NN datasets/NNS derived/VBN from/IN LUBM/NNP with/IN temporal/JJ information/NN added/VBN through/IN singleton/NN properties/NNS ./.

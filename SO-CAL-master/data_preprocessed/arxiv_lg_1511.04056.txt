@@ -1,0 +1,8 @@
+Decision/NN trees/NNS and/CC randomized/VBD forests/NNS are/VBP widely/RB used/VBN in/IN computer/NN vision/NN and/CC machine/NN learning/NN ./.
+Standard/JJ algorithms/NNS for/IN decision/NN tree/NN induction/NN optimize/VBP the/DT split/NN functions/VBZ one/CD node/NN at/IN a/DT time/NN according/VBG to/IN some/DT splitting/JJ criteria/NNS ./.
+This/DT greedy/JJ procedure/NN often/RB leads/VBZ to/IN suboptimal/JJ trees/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT algorithm/NN for/IN optimizing/VBG the/DT split/NN functions/VBZ at/IN all/DT levels/NNS of/IN the/DT tree/NN jointly/RB with/IN the/DT leaf/NN parameters/NNS ,/, based/VBN on/IN a/DT global/JJ objective/NN ./.
+We/PRP show/VBP that/IN the/DT problem/NN of/IN finding/VBG optimal/JJ linear/JJ -/HYPH combination/NN (/-LRB- oblique/JJ )/-RRB- splits/VBZ for/IN decision/NN trees/NNS is/VBZ related/VBN to/IN structured/JJ prediction/NN with/IN latent/JJ variables/NNS ,/, and/CC we/PRP formulate/VBP a/DT convex/NN -/HYPH concave/JJ upper/JJ bound/VBN on/IN the/DT tree/NN 's/POS empirical/JJ loss/NN ./.
+The/DT run/NN -/HYPH time/NN of/IN computing/VBG the/DT gradient/NN of/IN the/DT proposed/VBN surrogate/JJ objective/NN with/IN respect/NN to/IN each/DT training/NN exemplar/NN is/VBZ quadratic/JJ in/IN the/DT the/DT tree/NN depth/NN ,/, and/CC thus/RB training/VBG deep/JJ trees/NNS is/VBZ feasible/JJ ./.
+The/DT use/NN of/IN stochastic/JJ gradient/NN descent/NN for/IN optimization/NN enables/VBZ effective/JJ training/NN with/IN large/JJ datasets/NNS ./.
+Experiments/NNS on/IN several/JJ classification/NN benchmarks/NNS demonstrate/VBP that/IN the/DT resulting/VBG non-greedy/JJ decision/NN trees/NNS outperform/VBP greedy/JJ decision/NN tree/NN baselines/NNS ./.

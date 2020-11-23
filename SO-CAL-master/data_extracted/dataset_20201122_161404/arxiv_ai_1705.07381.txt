@@ -1,0 +1,7 @@
+The stochastic shortest path problem (SSP) is a highly expressive model for probabilistic planning.
+The computational hardness of SSPs has sparked interest in determinization-based planners that can quickly solve large problems.
+However, existing methods employ a simplistic approach to determinization.
+In particular, they ignore the possibility of tailoring the determinization to the specific characteristics of the target domain.
+In this work we examine this question, by showing that learning a good determinization for a planning domain can be done efficiently and can improve performance.
+Moreover, we show how to directly incorporate probabilistic reasoning into the planning problem when a good determinization is not sufficient by itself.
+Based on these insights, we introduce a planner, FF-LAO*, that outperforms state-of-the-art probabilistic planners on several well-known competition benchmarks.

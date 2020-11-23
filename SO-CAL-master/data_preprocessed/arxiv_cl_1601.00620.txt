@@ -1,0 +1,5 @@
+Distant/JJ labeling/NN for/IN information/NN extraction/NN (/-LRB- IE/NNP )/-RRB- suffers/VBZ from/IN noisy/JJ training/NN data/NNS ./.
+We/PRP describe/VBP a/DT way/NN of/IN reducing/VBG the/DT noise/NN associated/VBN with/IN distant/JJ IE/NNP by/IN identifying/VBG coupling/NN constraints/NNS between/IN potential/JJ instance/NN labels/NNS ./.
+As/IN one/CD example/NN of/IN coupling/NN ,/, items/NNS in/IN a/DT list/NN are/VBP likely/JJ to/TO have/VB the/DT same/JJ label/NN ./.
+A/DT second/JJ example/NN of/IN coupling/NN comes/VBZ from/IN analysis/NN of/IN document/NN structure/NN :/: in/IN some/DT corpora/NNS ,/, sections/NNS can/MD be/VB identified/VBN such/JJ that/IN items/NNS in/IN the/DT same/JJ section/NN are/VBP likely/JJ to/TO have/VB the/DT same/JJ label/NN ./.
+Such/JJ sections/NNS do/VBP not/RB exist/VB in/IN all/DT corpora/NNS ,/, but/CC we/PRP show/VBP that/IN augmenting/VBG a/DT large/JJ corpus/NN with/IN coupling/NN constraints/NNS from/IN even/RB a/DT small/JJ ,/, well/RB -/HYPH structured/VBN corpus/NN can/MD improve/VB performance/NN substantially/RB ,/, doubling/VBG F1/NN on/IN one/CD task/NN ./.

@@ -1,0 +1,6 @@
+Bayesian/JJ networks/NNS offer/VBP great/JJ potential/NN for/IN use/NN in/IN automating/VBG large/JJ scale/NN diagnostic/JJ reasoning/NN tasks/NNS ./.
+Gibbs/NNP sampling/NN is/VBZ the/DT main/JJ technique/NN used/VBN to/TO perform/VB diagnostic/JJ reasoning/NN in/IN large/JJ richly/RB interconnected/VBN Bayesian/JJ networks/NNS ./.
+Unfortunately/RB Gibbs/NNP sampling/NN can/MD take/VB an/DT excessive/JJ time/NN to/TO generate/VB a/DT representative/NN sample/NN ./.
+In/IN this/DT paper/NN we/PRP describe/VBP and/CC test/VBP a/DT number/NN of/IN heuristic/NN strategies/NNS for/IN improving/VBG sampling/NN in/IN noisy/JJ -/HYPH or/CC Bayesian/JJ networks/NNS ./.
+The/DT strategies/NNS include/VBP Monte/NNP Carlo/NNP Markov/NNP chain/NN sampling/NN techniques/NNS other/JJ than/IN Gibbs/NNP sampling/NN ./.
+Emphasis/NN is/VBZ put/VBN on/RP strategies/NNS that/WDT can/MD be/VB implemented/VBN in/IN distributed/VBN systems/NNS ./.

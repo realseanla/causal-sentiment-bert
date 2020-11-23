@@ -1,0 +1,5 @@
+Unsupervised/JJ dependency/NN parsing/VBG aims/NNS to/TO learn/VB a/DT dependency/NN parser/NN from/IN unannotated/JJ sentences/NNS ./.
+Existing/VBG work/NN focuses/VBZ on/IN either/CC learning/VBG generative/JJ models/NNS using/VBG the/DT expectation/NN -/HYPH maximization/NN algorithm/NN and/CC its/PRP$ variants/NNS ,/, or/CC learning/VBG discriminative/JJ models/NNS using/VBG the/DT discriminative/JJ clustering/NN algorithm/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ learning/NN strategy/NN that/WDT learns/VBZ a/DT generative/JJ model/NN and/CC a/DT discriminative/JJ model/NN jointly/RB based/VBN on/IN the/DT dual/JJ decomposition/NN method/NN ./.
+Our/PRP$ method/NN is/VBZ simple/JJ and/CC general/JJ ,/, yet/RB effective/JJ to/TO capture/VB the/DT advantages/NNS of/IN both/DT models/NNS and/CC improve/VB their/PRP$ learning/NN results/NNS ./.
+We/PRP tested/VBD our/PRP$ method/NN on/IN the/DT UD/NNP treebank/NN and/CC achieved/VBD a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN thirty/CD languages/NNS ./.

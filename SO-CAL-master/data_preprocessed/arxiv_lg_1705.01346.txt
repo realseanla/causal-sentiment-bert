@@ -1,0 +1,7 @@
+Recurrent/JJ Neural/JJ Network/NN (/-LRB- RNN/NN )/-RRB- has/VBZ been/VBN widely/RB applied/VBN for/IN sequence/NN modeling/NN ./.
+In/IN RNN/NN ,/, the/DT hidden/JJ states/NNS at/IN current/JJ step/NN are/VBP full/JJ connected/VBN to/IN those/DT at/IN previous/JJ step/NN ,/, thus/RB the/DT influence/NN from/IN less/JJR related/JJ features/NNS at/IN previous/JJ step/NN may/MD potentially/RB decrease/VB model/NN 's/POS learning/NN ability/NN ./.
+We/PRP propose/VBP a/DT simple/JJ technique/NN called/VBN parallel/JJ cells/NNS (/-LRB- PCs/NNS )/-RRB- to/TO enhance/VB the/DT learning/NN ability/NN of/IN Recurrent/JJ Neural/JJ Network/NN (/-LRB- RNN/NN )/-RRB- ./.
+In/IN each/DT layer/NN ,/, we/PRP run/VBP multiple/JJ small/JJ RNN/NN cells/NNS rather/RB than/IN one/CD single/JJ large/JJ cell/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP evaluate/VBP PCs/NNS on/IN 2/CD tasks/NNS ./.
+On/IN language/NN modeling/NN task/NN on/IN PTB/NNP (/-LRB- Penn/NNP Tree/NNP Bank/NNP )/-RRB- ,/, our/PRP$ model/NN outperforms/VBZ state/NN of/IN art/NN models/NNS by/IN decreasing/VBG perplexity/NN from/IN 78.6/CD to/IN 75.3/CD ./.
+On/IN Chinese/JJ -/HYPH English/JJ translation/NN task/NN ,/, our/PRP$ model/NN increases/VBZ BLEU/NNP score/NN for/IN 0.39/CD points/NNS than/IN baseline/NN model/NN ./.

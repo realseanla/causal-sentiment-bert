@@ -1,0 +1,5 @@
+Given/VBN a/DT set/NN of/IN terms/NNS from/IN a/DT given/VBN domain/NN ,/, how/WRB can/MD we/PRP structure/VB them/PRP into/IN a/DT taxonomy/NN without/IN manual/JJ intervention/NN ?/.
+This/DT is/VBZ the/DT task/NN 17/CD of/IN SemEval/NNP 2015/CD ./.
+Here/RB we/PRP present/VBP our/PRP$ simple/JJ taxonomy/NN structuring/NN techniques/NNS which/WDT ,/, despite/IN their/PRP$ simplicity/NN ,/, ranked/VBD first/RB in/IN this/DT 2015/CD benchmark/NN ./.
+We/PRP use/VBP large/JJ quantities/NNS of/IN text/NN (/-LRB- English/NNP Wikipedia/NNP )/-RRB- and/CC simple/JJ heuristics/NNS such/JJ as/IN term/NN overlap/NN and/CC document/NN and/CC sentence/NN co-occurrence/NN to/TO produce/VB hypernym/NN lists/NNS ./.
+We/PRP describe/VBP these/DT techniques/NNS and/CC pre-sent/VB an/DT initial/JJ evaluation/NN of/IN results/NNS ./.

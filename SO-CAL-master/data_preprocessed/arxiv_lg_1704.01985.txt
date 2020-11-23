@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ technique/NN for/IN direct/JJ recognition/NN of/IN multiple/JJ speech/NN streams/NNS given/VBN the/DT single/JJ channel/NN of/IN mixed/JJ speech/NN ,/, without/IN first/JJ separating/VBG them/PRP ./.
+Our/PRP$ technique/NN is/VBZ based/VBN on/IN permutation/NN invariant/JJ training/NN (/-LRB- PIT/NN )/-RRB- for/IN automatic/JJ speech/NN recognition/NN (/-LRB- ASR/NN )/-RRB- ./.
+In/IN PIT/NN -/HYPH ASR/NN ,/, we/PRP compute/VBP the/DT average/JJ cross/NN entropy/NN (/-LRB- CE/NN )/-RRB- over/IN all/DT frames/NNS in/IN the/DT whole/JJ utterance/NN for/IN each/DT possible/JJ output/NN -/HYPH target/NN assignment/NN ,/, pick/VB the/DT one/CD with/IN the/DT minimum/JJ CE/NN ,/, and/CC optimize/NN for/IN that/DT assignment/NN ./.
+PIT/NN -/HYPH ASR/NN forces/NNS all/PDT the/DT frames/NNS of/IN the/DT same/JJ speaker/NN to/TO be/VB aligned/VBN with/IN the/DT same/JJ output/NN layer/NN ./.
+This/DT strategy/NN elegantly/RB solves/VBZ the/DT label/NN permutation/NN problem/NN and/CC speaker/NN tracing/VBG problem/NN in/IN one/CD shot/NN ./.
+Our/PRP$ experiments/NNS on/IN artificially/RB mixed/JJ AMI/NNP data/NNS showed/VBD that/IN the/DT proposed/VBN approach/NN is/VBZ very/RB promising/JJ ./.

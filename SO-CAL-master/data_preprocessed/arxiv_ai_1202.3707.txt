@@ -1,0 +1,5 @@
+Hierarchical/JJ problem/NN abstraction/NN ,/, when/WRB applicable/JJ ,/, may/MD offer/VB exponential/JJ reductions/NNS in/IN computational/JJ complexity/NN ./.
+Previous/JJ work/NN on/IN coarse/JJ -/HYPH to/TO -/HYPH fine/JJ dynamic/JJ programming/NN (/-LRB- CFDP/NNP )/-RRB- has/VBZ demonstrated/VBN this/DT possibility/NN using/VBG state/NN abstraction/NN to/TO speed/VB up/RP the/DT Viterbi/NNP algorithm/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP how/WRB to/TO apply/VB temporal/JJ abstraction/NN to/IN the/DT Viterbi/NNP problem/NN ./.
+Our/PRP$ algorithm/NN uses/VBZ bounds/NNS derived/VBN from/IN analysis/NN of/IN coarse/JJ timescales/NNS to/TO prune/VB large/JJ parts/NNS of/IN the/DT state/NN trellis/NN at/IN finer/JJR timescales/NNS ./.
+We/PRP demonstrate/VBP improvements/NNS of/IN several/JJ orders/NNS of/IN magnitude/NN over/IN the/DT standard/JJ Viterbi/NNP algorithm/NN ,/, as/RB well/RB as/IN significant/JJ speedups/NNS over/IN CFDP/NNP ,/, for/IN problems/NNS whose/WP$ state/NN variables/NNS evolve/VBP at/IN widely/RB differing/VBG rates/NNS ./.

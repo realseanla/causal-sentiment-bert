@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT simple/JJ neural/JJ network/NN for/IN word/NN alignment/NN that/WDT builds/VBZ source/NN and/CC target/NN word/NN window/NN representations/NNS to/TO compute/VB alignment/NN scores/NNS for/IN sentence/NN pairs/NNS ./.
+To/TO enable/VB unsupervised/JJ training/NN ,/, we/PRP use/VBP an/DT aggregation/NN operation/NN that/WDT summarizes/VBZ the/DT alignment/NN scores/NNS for/IN a/DT given/VBN target/NN word/NN ./.
+A/DT soft/JJ -/HYPH margin/NN objective/NN increases/VBZ scores/NNS for/IN true/JJ target/NN words/NNS while/IN decreasing/VBG scores/NNS for/IN target/NN words/NNS that/WDT are/VBP not/RB present/JJ ./.
+Compared/VBN to/IN the/DT popular/JJ Fast/JJ Align/NNP model/NN ,/, our/PRP$ approach/NN improves/VBZ alignment/NN accuracy/NN by/IN 7/CD AER/NNP on/IN English/NNP -/HYPH Czech/NNP ,/, by/IN 6/CD AER/NNP on/IN Romanian/JJ -/HYPH English/JJ and/CC by/IN 1.7/CD AER/NNP on/IN English/NNP -/HYPH French/NNP alignment/NN ./.

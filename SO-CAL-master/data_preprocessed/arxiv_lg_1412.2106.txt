@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP theoretically/RB justify/VBP an/DT approach/NN popular/JJ among/IN participants/NNS of/IN the/DT Higgs/NNP Boson/NNP Machine/NNP Learning/NNP Challenge/NNP to/TO optimize/VB approximate/JJ median/JJ significance/NN (/-LRB- AMS/NN )/-RRB- ./.
+The/DT approach/NN is/VBZ based/VBN on/IN the/DT following/VBG two/CD -/HYPH stage/NN procedure/NN ./.
+First/RB ,/, a/DT real/JJ -/HYPH valued/VBN function/NN is/VBZ learned/VBN by/IN minimizing/VBG a/DT surrogate/JJ loss/NN for/IN binary/JJ classification/NN ,/, such/JJ as/IN logistic/JJ loss/NN ,/, on/IN the/DT training/NN sample/NN ./.
+Then/RB ,/, a/DT threshold/NN is/VBZ tuned/VBN on/IN a/DT separate/JJ validation/NN sample/NN ,/, by/IN direct/JJ optimization/NN of/IN AMS/NNP ./.
+We/PRP show/VBP that/IN the/DT regret/NN of/IN the/DT resulting/VBG (/-LRB- thresholded/VBN )/-RRB- classifier/NN measured/VBN with/IN respect/NN to/IN the/DT squared/VBN AMS/NNP ,/, is/VBZ upperbounded/VBN by/IN the/DT regret/NN of/IN the/DT underlying/VBG real/JJ -/HYPH valued/VBN function/NN measured/VBN with/IN respect/NN to/IN the/DT logistic/JJ loss/NN ./.
+Hence/RB ,/, we/PRP prove/VBP that/IN minimizing/VBG logistic/JJ surrogate/NN is/VBZ a/DT consistent/JJ method/NN of/IN optimizing/VBG AMS/NNP ./.

@@ -1,0 +1,4 @@
+We/PRP give/VBP algorithms/NNS with/IN provable/JJ guarantees/NNS that/WDT learn/VBP a/DT class/NN of/IN deep/JJ nets/NNS in/IN the/DT generative/JJ model/NN view/NN popularized/VBN by/IN Hinton/NNP and/CC others/NNS ./.
+Our/PRP$ generative/JJ model/NN is/VBZ an/DT $/$ n/NN $/$ node/NN multilayer/JJ neural/JJ net/NN that/WDT has/VBZ degree/NN at/IN most/RBS $/$ n/NN ^/SYM {/-LRB- \/SYM gamma/NN }/-RRB- $/$ for/IN some/DT $/$ \/SYM gamma/NN &lt;/SYM 1/CD $/$ and/CC each/DT edge/NN has/VBZ a/DT random/JJ edge/NN weight/NN in/IN $/$ [/-LRB- -/HYPH 1,1/NN ]/-RRB- $/$ ./.
+Our/PRP$ algorithm/NN learns/VBZ {/-LRB- \/SYM em/PRP almost/RB all/DT }/-RRB- networks/NNS in/IN this/DT class/NN with/IN polynomial/JJ running/NN time/NN ./.
+The/DT sample/NN complexity/NN is/VBZ quadratic/JJ or/CC cubic/JJ depending/VBG upon/IN the/DT details/NNS of/IN the/DT model/NN ./.

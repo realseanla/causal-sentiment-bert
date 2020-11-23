@@ -1,0 +1,8 @@
+Message/NN -/HYPH passing/VBG algorithms/NNS have/VBP emerged/VBN as/IN powerful/JJ techniques/NNS for/IN approximate/JJ inference/NN in/IN graphical/JJ models/NNS ./.
+When/WRB these/DT algorithms/NNS converge/VBP ,/, they/PRP can/MD be/VB shown/VBN to/TO find/VB local/JJ (/-LRB- or/CC sometimes/RB even/RB global/JJ )/-RRB- optima/NN of/IN variational/JJ formulations/NNS to/IN the/DT inference/NN problem/NN ./.
+But/CC many/JJ of/IN the/DT most/RBS popular/JJ algorithms/NNS are/VBP not/RB guaranteed/VBN to/TO converge/VB ./.
+This/DT has/VBZ lead/VBN to/IN recent/JJ interest/NN in/IN convergent/JJ message/NN -/HYPH passing/VBG algorithms/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT unified/JJ view/NN of/IN convergent/JJ message/NN -/HYPH passing/VBG algorithms/NNS ./.
+We/PRP present/VBP a/DT simple/JJ derivation/NN of/IN an/DT abstract/JJ algorithm/NN ,/, tree/NN -/HYPH consistency/NN bound/VBN optimization/NN (/-LRB- TCBO/NN )/-RRB- that/WDT is/VBZ provably/RB convergent/JJ in/IN both/CC its/PRP$ sum/NN and/CC max/NN product/NN forms/NNS ./.
+We/PRP then/RB show/VBP that/IN many/JJ of/IN the/DT existing/VBG convergent/JJ algorithms/NNS are/VBP instances/NNS of/IN our/PRP$ TCBO/NN algorithm/NN ,/, and/CC obtain/VB novel/JJ convergent/JJ algorithms/NNS "/'' for/IN free/JJ "/`` by/IN exchanging/VBG maximizations/NNS and/CC summations/NNS in/IN existing/VBG algorithms/NNS ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/IN Wainwright/NNP 's/POS non-convergent/JJ sum/NN -/HYPH product/NN algorithm/NN for/IN tree/NN based/VBN variational/JJ bounds/NNS ,/, is/VBZ actually/RB convergent/JJ with/IN the/DT right/JJ update/NN order/NN for/IN the/DT case/NN where/WRB trees/NNS are/VBP monotonic/JJ chains/NNS ./.

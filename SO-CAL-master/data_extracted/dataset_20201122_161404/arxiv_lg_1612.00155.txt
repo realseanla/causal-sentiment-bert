@@ -1,0 +1,7 @@
+We investigate adversarial attacks for autoencoders.
+We propose a procedure that distorts the input image to mislead the autoencoder in reconstructing a completely different target image.
+We attack the internal latent representations, attempting to make the adversarial input produce an internal representation as similar as possible as the target's.
+We find that autoencoders are much more robust to the attack than classifiers: while some examples have tolerably small input distortion, and reasonable similarity to the target image, there is a quasi-linear trade-off between those aims.
+We report results on MNIST and SVHN datasets, and also test regular deterministic autoencoders, reaching similar conclusions in all cases.
+Finally, we show that the usual adversarial attack for classifiers, while being much easier, also presents a direct proportion between distortion on the input, and misdirection on the output.
+That proportionality however is hidden by the normalization of the output, which maps a linear layer into non-linear probabilities.

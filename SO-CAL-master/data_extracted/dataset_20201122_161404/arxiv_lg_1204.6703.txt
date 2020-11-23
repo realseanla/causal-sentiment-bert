@@ -1,0 +1,3 @@
+Topic models can be seen as a generalization of the clustering problem, in that they posit that observations are generated due to multiple latent factors (e.g.
+the words in each document are generated as a mixture of several active topics, as opposed to just one).
+This increased representational power comes at the cost of a more challenging unsupervised learning problem of estimating the topic probability vectors (the distributions over words for each topic), when only the words are observed and the corresponding topics are hidden.

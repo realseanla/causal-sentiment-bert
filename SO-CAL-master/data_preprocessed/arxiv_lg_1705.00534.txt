@@ -1,0 +1,4 @@
+This/DT paper/NN proposes/VBZ a/DT new/JJ residual/JJ convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- architecture/NN for/IN single/JJ image/NN depth/NN estimation/NN ./.
+Compared/VBN with/IN existing/VBG deep/JJ CNN/NNP based/VBN methods/NNS ,/, our/PRP$ method/NN achieves/VBZ much/RB better/JJR results/NNS with/IN fewer/JJR training/NN examples/NNS and/CC model/NN parameters/NNS ./.
+The/DT advantages/NNS of/IN our/PRP$ method/NN come/VBN from/IN the/DT usage/NN of/IN dilated/VBN convolution/NN ,/, skip/VB connection/NN architecture/NN and/CC soft/JJ -/HYPH weight/NN -/HYPH sum/NN inference/NN ./.
+Experimental/JJ evaluation/NN on/IN the/DT NYU/NNP Depth/NN V2/NN dataset/NN shows/VBZ that/IN our/PRP$ method/NN outperforms/VBZ other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS by/IN a/DT margin/NN ./.

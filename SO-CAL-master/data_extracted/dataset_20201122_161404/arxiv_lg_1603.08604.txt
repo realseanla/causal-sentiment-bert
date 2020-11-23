@@ -1,0 +1,6 @@
+Deep neural networks (DNNs) are powerful types of artificial neural networks (ANNs) that use several hidden layers.
+They have recently gained considerable attention in the speech transcription and image recognition community (Krizhevsky et al., 2012) for their superior predictive properties including robustness to overfitting.
+However their application to algorithmic trading has not been previously researched, partly because of their computational complexity.
+This paper describes the application of DNNs to predicting financial market movement directions.
+In particular we describe the configuration and training approach and then demonstrate their application to backtesting a simple trading strategy over 43 different Commodity and FX future mid-prices at 5-minute intervals.
+All results in this paper are generated using a C++ implementation on the Intel Xeon Phi co-processor which is 11.4x faster than the serial version and a Python strategy backtesting environment both of which are available as open source code written by the authors.

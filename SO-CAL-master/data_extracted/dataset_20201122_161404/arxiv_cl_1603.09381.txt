@@ -1,0 +1,5 @@
+We report an implementation of a clinical information extraction tool that leverages deep neural network to annotate event spans and their attributes from raw clinical notes and pathology reports.
+Our approach uses context words and their part-of-speech tags and shape information as features.
+Then we hire temporal (1D) convolutional neural network to learn hidden feature representations.
+Finally, we use Multilayer Perceptron (MLP) to predict event spans.
+The empirical evaluation demonstrates that our approach significantly outperforms baselines.

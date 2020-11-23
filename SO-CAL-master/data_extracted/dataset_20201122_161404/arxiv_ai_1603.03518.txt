@@ -1,0 +1,6 @@
+Divide and Conquer (DC) is conceptually well suited to high-dimensional optimization by decomposing a problem into multiple small-scale sub-problems.
+However, appealing performance can be seldom observed when the sub-problems are interdependent.
+This paper suggests that the major difficulty of tackling interdependent sub-problems lies in the precise evaluation of a partial solution (to a sub-problem), which can be overwhelmingly costly and thus makes sub-problems non-trivial to conquer.
+Thus, we propose an approximation approach, named Divide and Approximate Conquer (DAC), which reduces the cost of partial solution evaluation from exponential time to polynomial time.
+Meanwhile, the convergence to the global optimum (of the original problem) is still guaranteed.
+The effectiveness of DAC is demonstrated empirically on two sets of non-separable high-dimensional problems.

@@ -1,0 +1,6 @@
+The/DT paper/NN [/-LRB- 1/CD ]/-RRB- shows/VBZ that/IN simple/JJ linear/JJ classifier/NN can/MD compete/VB with/IN complex/JJ deep/JJ learning/NN algorithms/NNS in/IN text/NN classification/NN applications/NNS ./.
+Combining/VBG bag/NN of/IN words/NNS (/-LRB- BoW/NN )/-RRB- and/CC linear/JJ classification/NN techniques/NNS ,/, fastText/NN [/-LRB- 1/CD ]/-RRB- attains/VBZ same/JJ or/CC only/RB slightly/RB lower/JJR accuracy/NN than/IN deep/JJ learning/NN algorithms/NNS [/-LRB- 2/CD -/SYM 9/CD ]/-RRB- that/WDT are/VBP orders/NNS of/IN magnitude/NN slower/RBR ./.
+We/PRP proved/VBD formally/RB that/IN fastText/NN can/MD be/VB transformed/VBN into/IN a/DT simpler/JJR equivalent/JJ classifier/NN ,/, which/WDT unlike/IN fastText/NN does/VBZ not/RB have/VB any/DT hidden/JJ layer/NN ./.
+We/PRP also/RB proved/VBD that/IN the/DT necessary/JJ and/CC sufficient/JJ dimensionality/NN of/IN the/DT word/NN vector/NN embedding/NN space/NN is/VBZ exactly/RB the/DT number/NN of/IN document/NN classes/NNS ./.
+These/DT results/NNS help/VBP constructing/VBG more/JJR optimal/JJ linear/JJ text/NN classifiers/NNS with/IN guaranteed/VBN maximum/JJ classification/NN capabilities/NNS ./.
+The/DT results/NNS are/VBP proven/VBN exactly/RB by/IN pure/JJ formal/JJ algebraic/JJ methods/NNS without/IN attracting/VBG any/DT empirical/JJ data/NNS ./.

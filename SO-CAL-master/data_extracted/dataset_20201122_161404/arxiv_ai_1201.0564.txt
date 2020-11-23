@@ -1,0 +1,8 @@
+We study propagation of the RegularGcc global constraint.
+This ensures that each row of a matrix of decision variables satisfies a Regular constraint, and each column satisfies a Gcc constraint.
+On the negative side, we prove that propagation is NP-hard even under some strong restrictions (e.g.
+just 3 values, just 4 states in the automaton, or just 5 columns to the matrix).
+On the positive side, we identify two cases where propagation is fixed parameter tractable.
+In addition, we show how to improve propagation over a simple decomposition into separate Regular and Gcc constraints by identifying some necessary but insufficient conditions for a solution.
+We enforce these conditions with some additional weighted row automata.
+Experimental results demonstrate the potential of these methods on some standard benchmark problems.

@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP the/DT patient/JJ similarity/NN matching/VBG problem/NN over/IN a/DT cancer/NN cohort/NN of/IN more/JJR than/IN 220,000/CD patients/NNS ./.
+Our/PRP$ approach/NN first/RB leverages/VBZ on/IN Word2Vec/NN framework/NN to/TO embed/VB ICD/NN codes/NNS into/IN vector/NN -/HYPH valued/VBN representation/NN ./.
+We/PRP then/RB propose/VB a/DT sequential/JJ algorithm/NN for/IN case/NN -/HYPH control/NN matching/NN on/IN this/DT representation/NN space/NN of/IN diagnosis/NN codes/NNS ./.
+The/DT novel/JJ practice/NN of/IN applying/VBG the/DT sequential/JJ matching/NN on/IN the/DT vector/NN representation/NN lifted/VBD the/DT matching/NN accuracy/NN measured/VBN through/IN multiple/JJ clinical/JJ outcomes/NNS ./.
+We/PRP reported/VBD the/DT results/NNS on/IN a/DT large/JJ -/HYPH scale/NN dataset/NN to/TO demonstrate/VB the/DT effectiveness/NN of/IN our/PRP$ method/NN ./.
+For/IN such/PDT a/DT large/JJ dataset/NN where/WRB most/JJS clinical/JJ information/NN has/VBZ been/VBN codified/VBN ,/, the/DT new/JJ method/NN is/VBZ particularly/RB relevant/JJ ./.

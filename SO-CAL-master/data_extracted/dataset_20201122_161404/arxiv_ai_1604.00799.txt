@@ -1,0 +1,2 @@
+We introduce an extension of the n-ary description logic DLR to deal with attribute-labelled tuples (generalising the positional notation), with arbitrary projections of relations (inclusion dependencies), generic functional dependencies and with global and local objectification (reifying relations or their projections).
+We show how a simple syntactic condition on the appearance of projections and functional dependencies in a knowledge base makes the language decidable without increasing the computational complexity of the basic DLR language.

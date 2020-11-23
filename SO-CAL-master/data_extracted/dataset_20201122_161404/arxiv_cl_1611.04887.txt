@@ -1,0 +1,4 @@
+Research in social media analysis is experiencing a recent surge with a large number of works applying representation learning models to solve high-level syntactico-semantic tasks such as sentiment analysis, semantic textual similarity computation, hashtag prediction and so on.
+Although the performance of the representation learning models are better than the traditional baselines for the tasks, little is known about the core properties of a tweet encoded within the representations.
+Understanding these core properties would empower us in making generalizable conclusions about the quality of representations.
+Our work presented here constitutes the first step in opening the black-box of vector embedding for social media posts, with emphasis on tweets in particular.

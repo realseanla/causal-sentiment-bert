@@ -1,0 +1,6 @@
+We/PRP introduce/VBP TensorFlow/NNP Agents/NNPS ,/, an/DT efficient/JJ infrastructure/NN paradigm/NN for/IN building/VBG parallel/JJ reinforcement/NN learning/VBG algorithms/NNS in/IN TensorFlow/NNP ./.
+We/PRP simulate/VBP multiple/JJ environments/NNS in/IN parallel/NN ,/, and/CC group/NN them/PRP to/TO perform/VB the/DT neural/JJ network/NN computation/NN on/IN a/DT batch/NN rather/RB than/IN individual/JJ observations/NNS ./.
+This/DT allows/VBZ the/DT TensorFlow/NNP execution/NN engine/NN to/IN parallelize/NN computation/NN ,/, without/IN the/DT need/NN for/IN manual/JJ synchronization/NN ./.
+Environments/NNS are/VBP stepped/VBN in/IN separate/JJ Python/NN processes/NNS to/TO progress/VB them/PRP in/IN parallel/NN without/IN interference/NN of/IN the/DT global/JJ interpreter/NN lock/NN ./.
+As/IN part/NN of/IN this/DT project/NN ,/, we/PRP introduce/VBP BatchPPO/NNP ,/, an/DT efficient/JJ implementation/NN of/IN the/DT proximal/JJ policy/NN optimization/NN algorithm/NN ./.
+By/IN open/JJ sourcing/NN TensorFlow/NNP Agents/NNPS ,/, we/PRP hope/VBP to/TO provide/VB a/DT flexible/JJ starting/NN point/NN for/IN future/JJ projects/NNS that/WDT accelerates/VBZ future/JJ research/NN in/IN the/DT field/NN ./.

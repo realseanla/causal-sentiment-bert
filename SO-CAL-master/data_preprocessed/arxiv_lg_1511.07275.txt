@@ -1,0 +1,5 @@
+We/PRP present/VBP an/DT approach/NN for/IN learning/VBG simple/JJ algorithms/NNS such/JJ as/IN copying/NN ,/, multi-digit/JJ addition/NN and/CC single/JJ digit/NN multiplication/NN directly/RB from/IN examples/NNS ./.
+Our/PRP$ framework/NN consists/VBZ of/IN a/DT set/NN of/RB interfaces/VBZ ,/, accessed/VBN by/IN a/DT controller/NN ./.
+Typical/JJ interfaces/VBZ are/VBP 1/CD -/HYPH D/NN tapes/NNS or/CC 2/CD -/HYPH D/NN grids/NNS that/WDT hold/VBP the/DT input/NN and/CC output/NN data/NNS ./.
+For/IN the/DT controller/NN ,/, we/PRP explore/VBP a/DT range/NN of/IN neural/JJ network/NN -/HYPH based/VBN models/NNS which/WDT vary/VBP in/IN their/PRP$ ability/NN to/IN abstract/JJ the/DT underlying/VBG algorithm/NN from/IN training/NN instances/NNS and/CC generalize/VB to/TO test/VB examples/NNS with/IN many/JJ thousands/NNS of/IN digits/NNS ./.
+The/DT controller/NN is/VBZ trained/VBN using/VBG $/$ Q$/CD -/HYPH learning/NN with/IN several/JJ enhancements/NNS and/CC we/PRP show/VBP that/IN the/DT bottleneck/NN is/VBZ in/IN the/DT capabilities/NNS of/IN the/DT controller/NN rather/RB than/IN in/IN the/DT search/NN incurred/VBN by/IN $/$ Q$/CD -/HYPH learning/NN ./.

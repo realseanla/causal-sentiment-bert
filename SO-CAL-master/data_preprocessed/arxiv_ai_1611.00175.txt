@@ -1,0 +1,5 @@
+Spectral/JJ inference/NN provides/VBZ fast/JJ algorithms/NNS and/CC provable/JJ optimality/NN for/IN latent/JJ topic/NN analysis/NN ./.
+But/CC for/IN real/JJ data/NNS these/DT algorithms/NNS require/VBP additional/JJ ad/FW -/HYPH hoc/FW heuristics/NNS ,/, and/CC even/RB then/RB often/RB produce/VBP unusable/JJ results/NNS ./.
+We/PRP explain/VBP this/DT poor/JJ performance/NN by/IN casting/VBG the/DT problem/NN of/IN topic/NN inference/NN in/IN the/DT framework/NN of/IN Joint/NNP Stochastic/NNP Matrix/NNP Factorization/NNP (/-LRB- JSMF/NNP )/-RRB- and/CC showing/VBG that/IN previous/JJ methods/NNS violate/VBP the/DT theoretical/JJ conditions/NNS necessary/JJ for/IN a/DT good/JJ solution/NN to/TO exist/VB ./.
+We/PRP then/RB propose/VB a/DT novel/JJ rectification/NN method/NN that/WDT learns/VBZ high/JJ quality/NN topics/NNS and/CC their/PRP$ interactions/NNS even/RB on/IN small/JJ ,/, noisy/JJ data/NNS ./.
+This/DT method/NN achieves/VBZ results/NNS comparable/JJ to/IN probabilistic/JJ techniques/NNS in/IN several/JJ domains/NNS while/IN maintaining/VBG scalability/NN and/CC provable/JJ optimality/NN ./.

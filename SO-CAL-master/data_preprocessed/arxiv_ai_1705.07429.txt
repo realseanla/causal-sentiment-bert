@@ -1,0 +1,8 @@
+Answer/NN Set/VBN Programming/NN (/-LRB- ASP/NN )/-RRB- is/VBZ a/DT powerful/JJ modeling/NN formalism/NN for/IN combinatorial/JJ problems/NNS ./.
+However/RB ,/, writing/VBG ASP/NN models/NNS is/VBZ not/RB trivial/JJ ./.
+We/PRP propose/VBP a/DT novel/JJ method/NN ,/, called/VBN Sketched/NNP Answer/NN Set/VBN Programming/NN (/-LRB- SkASP/NN )/-RRB- ,/, aiming/VBG at/IN supporting/VBG the/DT user/NN in/IN resolving/VBG this/DT issue/NN ./.
+The/DT user/NN writes/VBZ an/DT ASP/NN program/NN while/IN marking/VBG uncertain/JJ parts/NNS open/JJ with/IN question/NN marks/NNS ./.
+In/IN addition/NN ,/, the/DT user/NN provides/VBZ a/DT number/NN of/IN positive/JJ and/CC negative/JJ examples/NNS of/IN the/DT desired/VBN program/NN behaviour/NN ./.
+The/DT sketched/JJ model/NN is/VBZ rewritten/VBN into/IN another/DT ASP/NN program/NN ,/, which/WDT is/VBZ solved/VBN by/IN traditional/JJ methods/NNS ./.
+As/IN a/DT result/NN ,/, the/DT user/NN obtains/VBZ a/DT functional/JJ and/CC reusable/JJ ASP/NN program/NN modelling/VBG her/PRP$ problem/NN ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN on/IN 21/CD well/RB known/JJ puzzles/NNS and/CC combinatorial/JJ problems/NNS inspired/VBN by/IN Karp/NNP 's/POS 21/CD NP/NNP -/HYPH complete/JJ problems/NNS and/CC demonstrate/VBP a/DT use/NN -/HYPH case/NN for/IN a/DT database/NN application/NN based/VBN on/IN ASP/NN ./.

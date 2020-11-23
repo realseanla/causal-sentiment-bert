@@ -1,0 +1,8 @@
+This/DT paper/NN discusses/VBZ the/DT structure/NN of/IN Syntagma/NNP 's/POS Lexical/NNP Database/NNP (/-LRB- focused/VBN on/IN Italian/JJ )/-RRB- ./.
+The/DT basic/JJ database/NN consists/VBZ in/IN four/CD tables/NNS ./.
+Table/NN Forms/NNS contains/VBZ word/NN inflections/NNS ,/, used/VBN by/IN the/DT POS/NN -/HYPH tagger/NN for/IN the/DT identification/NN of/IN input/NN -/HYPH words/NNS ./.
+Forms/NNS is/VBZ related/VBN to/IN Lemma/NNP ./.
+Table/NN Lemma/NNP stores/NNS all/DT kinds/NNS of/IN grammatical/JJ features/NNS of/IN words/NNS ,/, word/NN -/HYPH level/NN semantic/JJ data/NNS and/CC restrictions/NNS ./.
+In/IN the/DT table/NN Meanings/NNS meaning/VBG -/HYPH related/VBN data/NNS are/VBP stored/VBN :/: definition/NN ,/, examples/NNS ,/, domain/NN ,/, and/CC semantic/JJ information/NN ./.
+Table/NN Valency/NN contains/VBZ the/DT argument/NN structure/NN of/IN each/DT meaning/NN ,/, with/IN syntactic/JJ and/CC semantic/JJ features/NNS for/IN each/DT argument/NN ./.
+The/DT extended/JJ version/NN of/IN SLD/NN contains/VBZ the/DT links/NNS to/IN Syntagma/NNP 's/POS Semantic/JJ Net/NN and/CC to/IN the/DT WordNet/NNP synsets/NNS of/IN other/JJ languages/NNS ./.

@@ -1,0 +1,4 @@
+This paper reviews an experiment in human-computer interaction, where interaction takes place when humans attempt to teach a computer to play a strategy board game.
+We show that while individually learned models can be shown to improve the playing performance of the computer, their straightforward composition results in diluting what was earlier learned.
+This observation suggests that interaction cannot be easily distributed when one hopes to harness multiple human experts to develop a quality computer player.
+This is related to similar approaches in robot task learning and to classic approaches to human learning and reinforces the need to develop tools that facilitate the mix of human-based tuition and computer self-learning.

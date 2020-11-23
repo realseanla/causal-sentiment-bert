@@ -1,0 +1,8 @@
+Collaborative/JJ Filtering/NNP aims/VBZ at/IN exploiting/VBG the/DT feedback/NN of/IN users/NNS to/TO provide/VB personalised/JJ recommendations/NNS ./.
+Such/JJ algorithms/NNS look/VBP for/IN latent/JJ variables/NNS in/IN a/DT large/JJ sparse/JJ matrix/NN of/IN ratings/NNS ./.
+They/PRP can/MD be/VB enhanced/VBN by/IN adding/VBG side/NN information/NN to/TO tackle/VB the/DT well/NN -/HYPH known/VBN cold/JJ start/NN problem/NN ./.
+While/IN Neu/NNP -/HYPH ral/NNP Networks/NNS have/VBP tremendous/JJ success/NN in/IN image/NN and/CC speech/NN recognition/NN ,/, they/PRP have/VBP received/VBN less/JJR attention/NN in/IN Collaborative/JJ Filtering/NN ./.
+This/DT is/VBZ all/PDT the/DT more/RBR surprising/JJ that/IN Neural/JJ Networks/NNS are/VBP able/JJ to/TO discover/VB latent/JJ variables/NNS in/IN large/JJ and/CC heterogeneous/JJ datasets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT Collaborative/JJ Filtering/NN Neural/JJ network/NN architecture/NN aka/RB CFN/NNP which/WDT computes/VBZ a/DT non-linear/JJ Matrix/NNP Factorization/NNP from/IN sparse/JJ rating/NN inputs/NNS and/CC side/NN information/NN ./.
+We/PRP show/VBP experimentally/RB on/IN the/DT MovieLens/NNPS and/CC Douban/NNP dataset/NN that/WDT CFN/NNP outper/NN -/HYPH forms/VBZ the/DT state/NN of/IN the/DT art/NN and/CC benefits/NNS from/IN side/NN information/NN ./.
+We/PRP provide/VBP an/DT implementation/NN of/IN the/DT algorithm/NN as/IN a/DT reusable/JJ plugin/NN for/IN Torch/NNP ,/, a/DT popular/JJ Neural/JJ Network/NN framework/NN ./.

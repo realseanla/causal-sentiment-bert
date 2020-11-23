@@ -1,0 +1,10 @@
+Combining/VBG first/RB -/HYPH order/NN logic/NN and/CC probability/NN has/VBZ long/RB been/VBN a/DT goal/NN of/IN AI/NN ./.
+Markov/NNP logic/NN (/-LRB- Richardson/NNP &amp;/CC Domingos/NNP ,/, 2006/CD )/-RRB- accomplishes/VBZ this/DT by/IN attaching/VBG weights/NNS to/TO first/RB -/HYPH order/NN formulas/NNS and/CC viewing/VBG them/PRP as/IN templates/NNS for/IN features/NNS of/IN Markov/NNP networks/NNS ./.
+Unfortunately/RB ,/, it/PRP does/VBZ not/RB have/VB the/DT full/JJ power/NN of/IN first/JJ -/HYPH order/NN logic/NN ,/, because/IN it/PRP is/VBZ only/RB defined/VBN for/IN finite/NN domains/NNS ./.
+This/DT paper/NN extends/VBZ Markov/NNP logic/NN to/IN infinite/JJ domains/NNS ,/, by/IN casting/VBG it/PRP in/IN the/DT framework/NN of/IN Gibbs/NNP measures/NNS (/-LRB- Georgii/NNP ,/, 1988/CD )/-RRB- ./.
+We/PRP show/VBP that/IN a/DT Markov/NNP logic/NN network/NN (/-LRB- MLN/NNP )/-RRB- admits/VBZ a/DT Gibbs/NNP measure/NN as/RB long/RB as/IN each/DT ground/NN atom/NN has/VBZ a/DT finite/JJ number/NN of/IN neighbors/NNS ./.
+Many/JJ interesting/JJ cases/NNS fall/VBP in/IN this/DT category/NN ./.
+We/PRP also/RB show/VBP that/IN an/DT MLN/NNP admits/VBZ a/DT unique/JJ measure/NN if/IN the/DT weights/NNS of/IN its/PRP$ non-unit/JJ clauses/NNS are/VBP small/JJ enough/RB ./.
+We/PRP then/RB examine/VBP the/DT structure/NN of/IN the/DT set/NN of/IN consistent/JJ measures/NNS in/IN the/DT non-unique/JJ case/NN ./.
+Many/JJ important/JJ phenomena/NN ,/, including/VBG systems/NNS with/IN phase/NN transitions/NNS ,/, are/VBP represented/VBN by/IN MLNs/NNS with/IN non-unique/JJ measures/NNS ./.
+We/PRP relate/VBP the/DT problem/NN of/IN satisfiability/NN in/IN first/JJ -/HYPH order/NN logic/NN to/IN the/DT properties/NNS of/IN MLN/NNP measures/NNS ,/, and/CC discuss/VB how/WRB Markov/NNP logic/NN relates/VBZ to/IN previous/JJ infinite/JJ models/NNS ./.

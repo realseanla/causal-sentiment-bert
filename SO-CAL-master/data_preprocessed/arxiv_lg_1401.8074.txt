@@ -1,0 +1,11 @@
+There/EX exist/VBP many/JJ algorithms/NNS for/IN learning/VBG how/WRB to/TO play/VB repeated/VBN bimatrix/NN games/NNS ./.
+Most/JJS of/IN these/DT algorithms/NNS are/VBP justified/VBN in/IN terms/NNS of/IN some/DT sort/NN of/IN theoretical/JJ guarantee/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, little/JJ is/VBZ known/VBN about/IN the/DT empirical/JJ performance/NN of/IN these/DT algorithms/NNS ./.
+Most/JJS such/JJ claims/NNS in/IN the/DT literature/NN are/VBP based/VBN on/IN small/JJ experiments/NNS ,/, which/WDT has/VBZ hampered/VBN understanding/NN as/RB well/RB as/IN the/DT development/NN of/IN new/JJ multiagent/JJ learning/NN (/-LRB- MAL/NNP )/-RRB- algorithms/NNS ./.
+We/PRP have/VBP developed/VBN a/DT new/JJ suite/NN of/IN tools/NNS for/IN running/VBG multiagent/JJ experiments/NNS :/: the/DT MultiAgent/NNP Learning/NNP Testbed/NNP (/-LRB- MALT/NNP )/-RRB- ./.
+These/DT tools/NNS are/VBP designed/VBN to/TO facilitate/VB larger/JJR and/CC more/JJR comprehensive/JJ experiments/NNS by/IN removing/VBG the/DT need/NN to/TO build/VB one/CD -/HYPH off/IN experimental/JJ code/NN ./.
+MALT/NN also/RB provides/VBZ baseline/NN implementations/NNS of/IN many/JJ MAL/NNP algorithms/NNS ,/, hopefully/RB eliminating/VBG or/CC reducing/VBG differences/NNS between/IN algorithm/NN implementations/NNS and/CC increasing/VBG the/DT reproducibility/NN of/IN results/NNS ./.
+Using/VBG this/DT test/NN suite/NN ,/, we/PRP ran/VBD an/DT experiment/NN unprecedented/JJ in/IN size/NN ./.
+We/PRP analyzed/VBD the/DT results/NNS according/VBG to/IN a/DT variety/NN of/IN performance/NN metrics/NNS including/VBG reward/NN ,/, maxmin/NN distance/NN ,/, regret/NN ,/, and/CC several/JJ notions/NNS of/IN equilibrium/NN convergence/NN ./.
+We/PRP confirmed/VBD several/JJ pieces/NNS of/IN conventional/JJ wisdom/NN ,/, but/CC also/RB discovered/VBD some/DT surprising/JJ results/NNS ./.
+For/IN example/NN ,/, we/PRP found/VBD that/IN single/JJ -/HYPH agent/NN $/$ Q$/CD -/HYPH learning/NN outperformed/VBD many/JJ more/JJR complicated/JJ and/CC more/RBR modern/JJ MAL/NNP algorithms/NNS ./.

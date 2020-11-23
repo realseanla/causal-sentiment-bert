@@ -1,0 +1,5 @@
+Fixed/VBN -/HYPH point/NN optimization/NN of/IN deep/JJ neural/JJ networks/NNS plays/VBZ an/DT important/JJ role/NN in/IN hardware/NN based/VBN design/NN and/CC low/JJ -/HYPH power/NN implementations/NNS ./.
+Many/JJ deep/JJ neural/JJ networks/NNS show/VBP fairly/RB good/JJ performance/NN even/RB with/IN 2/CD -/HYPH or/CC 3/CD -/HYPH bit/NN precision/NN when/WRB quantized/VBN weights/NNS are/VBP fine/JJ -/HYPH tuned/VBN by/IN retraining/VBG ./.
+We/PRP propose/VBP an/DT improved/VBN fixedpoint/NN optimization/NN algorithm/NN that/WDT estimates/VBZ the/DT quantization/NN step/NN size/NN dynamically/RB during/IN the/DT retraining/VBG ./.
+In/IN addition/NN ,/, a/DT gradual/JJ quantization/NN scheme/NN is/VBZ also/RB tested/VBN ,/, which/WDT sequentially/RB applies/VBZ fixed/VBN -/HYPH point/NN optimizations/NNS from/IN high/JJ -/HYPH to/TO low/RB -/HYPH precision/NN ./.
+The/DT experiments/NNS are/VBP conducted/VBN for/IN feed/NN -/HYPH forward/JJ deep/JJ neural/JJ networks/NNS (/-LRB- FFDNNs/NNS )/-RRB- ,/, convolutional/JJ neural/JJ networks/NNS (/-LRB- CNNs/NNS )/-RRB- ,/, and/CC recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- ./.

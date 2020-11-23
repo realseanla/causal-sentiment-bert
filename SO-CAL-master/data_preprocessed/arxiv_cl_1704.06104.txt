@@ -1,0 +1,5 @@
+We/PRP investigate/VBP neural/JJ techniques/NNS for/IN end/NN -/HYPH to/IN -/HYPH end/NN computational/JJ argumentation/NN mining/NN ./.
+We/PRP frame/VBP the/DT problem/NN as/IN a/DT token/NN -/HYPH based/VBN dependency/NN parsing/VBG as/RB well/RB as/IN a/DT token/NN -/HYPH based/VBN sequence/NN tagging/NN model/NN ,/, including/VBG a/DT multi-task/VB learning/NN setup/NN ./.
+Contrary/JJ to/IN models/NNS that/WDT operate/VBP on/IN the/DT argument/NN component/NN level/NN ,/, we/PRP find/VBP that/IN framing/VBG the/DT problem/NN as/IN dependency/NN parsing/VBG leads/NNS to/IN subpar/JJ performance/NN results/NNS ./.
+In/IN contrast/NN ,/, less/RBR complex/JJ (/-LRB- local/JJ )/-RRB- tagging/NN models/NNS based/VBN on/IN BiLSTMs/NNPS perform/VBP robustly/RB across/IN classification/NN scenarios/NNS ,/, being/VBG able/JJ to/TO catch/VB long/RB -/HYPH range/NN dependencies/NNS inherent/JJ to/IN the/DT argumentation/NN mining/NN problem/NN ./.
+Moreover/RB ,/, we/PRP find/VBP that/IN jointly/RB learning/VBG '/'' natural/JJ '/'' subtasks/NNS ,/, in/IN a/DT multi-task/VB learning/NN setup/NN ,/, improves/VBZ performance/NN ./.

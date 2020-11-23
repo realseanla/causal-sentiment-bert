@@ -1,0 +1,10 @@
+In/IN this/DT paper/NN ,/, we/PRP applied/VBD a/DT dynamic/JJ model/NN for/IN manoeuvring/NN targets/NNS in/IN SIR/NNP particle/NN filter/NN algorithm/NN for/IN improving/VBG tracking/VBG accuracy/NN of/IN multiple/JJ manoeuvring/NN targets/NNS ./.
+In/IN our/PRP$ proposed/VBN approach/NN ,/, a/DT color/NN distribution/NN model/NN is/VBZ used/VBN to/TO detect/VB changes/NNS of/IN target/NN 's/POS model/NN ./.
+Our/PRP$ proposed/VBN approach/NN controls/VBZ deformation/NN of/IN target/NN 's/POS model/NN ./.
+If/IN deformation/NN of/IN target/NN 's/POS model/NN is/VBZ larger/JJR than/IN a/DT predetermined/VBN threshold/NN ,/, then/RB the/DT model/NN will/MD be/VB updated/VBN ./.
+Global/JJ Nearest/NNP Neighbor/NNP (/-LRB- GNN/NNP )/-RRB- algorithm/NN is/VBZ used/VBN as/IN data/NNS association/NN algorithm/NN ./.
+We/PRP named/VBD our/PRP$ proposed/JJ method/NN as/IN Deformation/NN Detection/NN Particle/NN Filter/NN (/-LRB- DDPF/NN )/-RRB- ./.
+DDPF/NNP approach/NN is/VBZ compared/VBN with/IN basic/JJ SIR/NNP -/HYPH PF/NNP algorithm/NN on/IN real/JJ airshow/NN videos/NNS ./.
+Comparisons/NNS results/NNS show/VBP that/IN ,/, the/DT basic/JJ SIR/NNP -/HYPH PF/NNP algorithm/NN is/VBZ not/RB able/JJ to/TO track/VB the/DT manoeuvring/NN targets/NNS when/WRB the/DT rotation/NN or/CC scaling/NN is/VBZ occurred/VBN in/IN target/NN '/'' s/POS model/NN ./.
+However/RB ,/, DDPF/NNP approach/NN updates/NNS target/NN 's/POS model/NN when/WRB the/DT rotation/NN or/CC scaling/NN is/VBZ occurred/VBN ./.
+Thus/RB ,/, the/DT proposed/VBN approach/NN is/VBZ able/JJ to/TO track/VB the/DT manoeuvring/NN targets/VBZ more/RBR efficiently/RB and/CC accurately/RB ./.

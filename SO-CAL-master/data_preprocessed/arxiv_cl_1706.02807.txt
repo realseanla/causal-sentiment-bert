@@ -1,0 +1,5 @@
+We/PRP present/VBP models/NNS for/IN embedding/VBG words/NNS in/IN the/DT context/NN of/IN surrounding/VBG words/NNS ./.
+Such/JJ models/NNS ,/, which/WDT we/PRP refer/VBP to/IN as/IN token/JJ embeddings/NNS ,/, represent/VBP the/DT characteristics/NNS of/IN a/DT word/NN that/WDT are/VBP specific/JJ to/IN a/DT given/VBN context/NN ,/, such/JJ as/IN word/NN sense/NN ,/, syntactic/JJ category/NN ,/, and/CC semantic/JJ role/NN ./.
+We/PRP explore/VBP simple/JJ ,/, efficient/JJ token/JJ embedding/NN models/NNS based/VBN on/IN standard/JJ neural/JJ network/NN architectures/NNS ./.
+We/PRP learn/VBP token/JJ embeddings/NNS on/IN a/DT large/JJ amount/NN of/IN unannotated/JJ text/NN and/CC evaluate/VB them/PRP as/IN features/NNS for/IN part/NN -/HYPH of/IN -/HYPH speech/NN taggers/NNS and/CC dependency/NN parsers/NNS trained/VBN on/RB much/RB smaller/JJR amounts/NNS of/IN annotated/VBN data/NNS ./.
+We/PRP find/VBP that/IN predictors/NNS endowed/VBN with/IN token/JJ embeddings/NNS consistently/RB outperform/VBP baseline/NN predictors/NNS across/IN a/DT range/NN of/IN context/NN window/NN and/CC training/NN set/VBN sizes/NNS ./.

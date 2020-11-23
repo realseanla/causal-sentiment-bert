@@ -1,0 +1,5 @@
+Coreference/NN evaluation/NN metrics/NNS are/VBP hard/JJ to/TO optimize/VB directly/RB as/IN they/PRP are/VBP non-differentiable/JJ functions/NNS ,/, not/RB easily/RB decomposable/JJ into/IN elementary/JJ decisions/NNS ./.
+Consequently/RB ,/, most/JJS approaches/NNS optimize/VBP objectives/NNS only/RB indirectly/RB related/JJ to/IN the/DT end/NN goal/NN ,/, resulting/VBG in/IN suboptimal/JJ performance/NN ./.
+Instead/RB ,/, we/PRP propose/VBP a/DT differentiable/JJ relaxation/NN that/WDT lends/VBZ itself/PRP to/IN gradient/NN -/HYPH based/VBN optimisation/NN ,/, thus/RB bypassing/VBG the/DT need/NN for/IN reinforcement/NN learning/NN or/CC heuristic/NN modification/NN of/IN cross-entropy/JJ ./.
+We/PRP show/VBP that/IN by/IN modifying/VBG the/DT training/NN objective/NN of/IN a/DT competitive/JJ neural/JJ coreference/NN system/NN ,/, we/PRP obtain/VBP a/DT substantial/JJ gain/NN in/IN performance/NN ./.
+This/DT suggests/VBZ that/IN our/PRP$ approach/NN can/MD be/VB regarded/VBN as/IN a/DT viable/JJ alternative/NN to/IN using/VBG reinforcement/NN learning/NN or/CC more/JJR computationally/RB expensive/JJ imitation/NN learning/NN ./.

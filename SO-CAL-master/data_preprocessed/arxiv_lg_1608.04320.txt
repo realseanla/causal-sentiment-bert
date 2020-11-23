@@ -1,0 +1,8 @@
+Given/VBN a/DT matrix/NN of/IN observed/VBN data/NNS ,/, Principal/NN Components/NNS Analysis/NN (/-LRB- PCA/NN )/-RRB- computes/VBZ a/DT small/JJ number/NN of/IN orthogonal/JJ directions/NNS that/WDT contain/VBP most/JJS of/IN its/PRP$ variability/NN ./.
+Provably/RB accurate/JJ solutions/NNS for/IN PCA/NNP have/VBP been/VBN in/IN use/NN for/IN decades/NNS ./.
+However/RB ,/, to/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, all/DT existing/VBG theoretical/JJ guarantees/NNS for/IN it/PRP assume/VBP that/IN the/DT data/NNS and/CC the/DT corrupting/NN noise/NN are/VBP mutually/RB independent/JJ ,/, or/CC at/IN least/RBS uncorrelated/JJ ./.
+This/DT is/VBZ valid/JJ in/IN practice/NN often/RB ,/, but/CC not/RB always/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP the/DT PCA/NNP problem/NN in/IN the/DT setting/NN where/WRB the/DT data/NNS and/CC noise/NN can/MD be/VB correlated/VBN ./.
+Such/JJ noise/NN is/VBZ often/RB referred/VBN to/IN as/IN "/`` data/NNS -/HYPH dependent/JJ noise/NN "/'' ./.
+We/PRP obtain/VBP a/DT correctness/NN result/NN for/IN the/DT standard/JJ eigenvalue/NN decomposition/NN (/-LRB- EVD/NN )/-RRB- based/VBN solution/NN to/IN PCA/NNP under/IN simple/JJ assumptions/NNS on/IN the/DT data/NN -/HYPH noise/NN correlation/NN ./.
+We/PRP also/RB develop/VBP and/CC analyze/VBP a/DT generalization/NN of/IN EVD/NNP ,/, called/VBN cluster/NN -/HYPH EVD/NN ,/, and/CC argue/VBP that/IN it/PRP reduces/VBZ the/DT sample/NN complexity/NN of/IN EVD/NN in/IN certain/JJ regimes/NNS ./.

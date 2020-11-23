@@ -1,0 +1,10 @@
+Description/NN logic/NN (/-LRB- DL/NN )/-RRB- based/VBN biomedical/JJ terminology/NN (/-LRB- SNOMED/NN CT/NN )/-RRB- is/VBZ used/VBN routinely/RB in/IN medical/JJ practice/NN ./.
+However/RB ,/, diagnostic/JJ inference/NN using/VBG such/JJ terminology/NN is/VBZ precluded/VBN by/IN its/PRP$ complexity/NN ./.
+Here/RB we/PRP propose/VBP a/DT model/NN that/WDT simplifies/VBZ these/DT inferential/JJ components/NNS ./.
+We/PRP propose/VBP three/CD concepts/NNS that/WDT classify/VBP clinical/JJ features/NNS and/CC examined/VBD their/PRP$ effect/NN on/IN inference/NN using/VBG SNOMED/NN CT/NN ./.
+We/PRP used/VBD PAIRS/NNP (/-LRB- Physician/NNP Assistant/NNP Artificial/NNP Intelligence/NNP Reference/NNP System/NNP )/-RRB- database/NN (/-LRB- 1964/CD findings/NNS for/IN 485/CD disorders/NNS ,/, 18/CD 397/CD disease/NN feature/NN links/NNS )/-RRB- for/IN our/PRP$ analysis/NN ./.
+We/PRP also/RB use/VBP a/DT 50/CD -/HYPH million/CD medical/JJ word/NN corpus/NN for/IN estimating/VBG the/DT vectors/NNS of/IN disease/NN -/HYPH feature/NN links/NNS ./.
+Our/PRP$ major/JJ results/NNS are/VBP 10/CD percent/NN of/IN finding/NN -/HYPH disorder/NN links/NNS are/VBP concomitant/JJ in/IN both/CC assertion/NN and/CC negation/NN where/WRB as/IN 90/CD percent/NN are/VBP either/RB concomitant/JJ in/IN assertion/NN or/CC negation/NN ./.
+Logical/JJ implications/NNS of/IN PAIRS/NNP data/NNS on/IN SNOMED/NN CT/NN include/VBP 70/CD percent/NN of/IN the/DT links/NNS do/VBP not/RB share/VB any/DT common/JJ system/NN while/IN 18/CD percent/NN share/NN organ/NN and/CC 12/CD percent/NN share/NN both/CC system/NN and/CC organ/NN ./.
+Applications/NNS of/IN these/DT principles/NNS for/IN inference/NN are/VBP discussed/VBN and/CC suggestions/NNS are/VBP made/VBN for/IN deriving/VBG a/DT diagnostic/JJ process/NN using/VBG SNOMED/NN CT/NN ./.
+Limitations/NNPS of/IN these/DT processes/NNS and/CC suggestions/NNS for/IN improvements/NNS are/VBP also/RB discussed/VBN ./.

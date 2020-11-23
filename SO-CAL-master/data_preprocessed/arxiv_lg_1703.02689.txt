@@ -1,0 +1,8 @@
+Given/VBN a/DT graphical/JJ model/NN ,/, one/CD essential/JJ problem/NN is/VBZ MAP/NN inference/NN ,/, that/DT is/VBZ ,/, finding/VBG the/DT most/RBS likely/JJ configuration/NN of/IN states/NNS according/VBG to/IN the/DT model/NN ./.
+Although/IN this/DT problem/NN is/VBZ NP/NNP -/HYPH hard/JJ ,/, large/JJ instances/NNS can/MD be/VB solved/VBN in/IN practice/NN ./.
+A/DT major/JJ open/JJ question/NN is/VBZ to/TO explain/VB why/WRB this/DT is/VBZ true/JJ ./.
+We/PRP give/VBP a/DT natural/JJ condition/NN under/IN which/WDT we/PRP can/MD provably/RB perform/VB MAP/NN inference/NN in/IN polynomial/JJ time/NN ./.
+We/PRP require/VBP that/IN the/DT number/NN of/IN fractional/JJ vertices/NNS in/IN the/DT LP/NN relaxation/NN exceeding/VBG the/DT optimal/JJ solution/NN is/VBZ bounded/VBN by/IN a/DT polynomial/JJ in/IN the/DT problem/NN size/NN ./.
+This/DT resolves/VBZ an/DT open/JJ question/NN by/IN Dimakis/NNP ,/, Gohari/NNP ,/, and/CC Wainwright/NNP ./.
+In/IN contrast/NN ,/, for/IN general/JJ LP/NN relaxations/NNS of/IN integer/NN programs/NNS ,/, known/VBN techniques/NNS can/MD only/RB handle/VB a/DT constant/JJ number/NN of/IN fractional/JJ vertices/NNS whose/WP$ value/NN exceeds/VBZ the/DT optimal/JJ solution/NN ./.
+We/PRP experimentally/RB verify/VBP this/DT condition/NN and/CC demonstrate/VBP how/WRB efficient/JJ various/JJ integer/NN programming/NN methods/NNS are/VBP at/IN removing/VBG fractional/JJ solutions/NNS ./.

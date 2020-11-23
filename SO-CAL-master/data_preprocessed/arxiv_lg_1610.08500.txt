@@ -1,0 +1,7 @@
+We/PRP formalize/VBP synthesis/NN of/IN shared/VBN control/NN protocols/NNS with/IN correctness/NN guarantees/NNS for/IN temporal/JJ logic/NN specifications/NNS ./.
+More/RBR specifically/RB ,/, we/PRP introduce/VBP a/DT modeling/NN formalism/NN in/IN which/WDT both/CC a/DT human/JJ and/CC an/DT autonomy/NN protocol/NN can/MD issue/VB commands/NNS to/IN a/DT robot/NN towards/IN performing/VBG a/DT certain/JJ task/NN ./.
+These/DT commands/NNS are/VBP blended/VBN into/IN a/DT joint/JJ input/NN to/IN the/DT robot/NN ./.
+The/DT autonomy/NN protocol/NN is/VBZ synthesized/VBN using/VBG an/DT abstraction/NN of/IN possible/JJ human/JJ commands/NNS accounting/VBG for/IN randomness/NN in/IN decisions/NNS caused/VBN by/IN factors/NNS such/JJ as/IN fatigue/NN or/CC incomprehensibility/NN of/IN the/DT problem/NN at/IN hand/NN ./.
+The/DT synthesis/NN is/VBZ designed/VBN to/TO ensure/VB that/IN the/DT resulting/VBG robot/NN behavior/NN satisfies/VBZ given/VBN safety/NN and/CC performance/NN specifications/NNS ,/, e.g./FW ,/, in/IN temporal/JJ logic/NN ./.
+Our/PRP$ solution/NN is/VBZ based/VBN on/IN nonlinear/JJ programming/NN and/CC we/PRP address/VBP the/DT inherent/JJ scalability/NN issue/NN by/IN presenting/VBG alternative/JJ methods/NNS ./.
+We/PRP assess/VBP the/DT feasibility/NN and/CC the/DT scalability/NN of/IN the/DT approach/NN by/IN an/DT experimental/JJ evaluation/NN ./.

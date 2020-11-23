@@ -1,0 +1,13 @@
+It/PRP has/VBZ been/VBN a/DT long/JJ time/NN ,/, since/IN data/NNS mining/NN technologies/NNS have/VBP made/VBN their/PRP$ ways/NNS to/IN the/DT field/NN of/IN data/NNS management/NN ./.
+Classification/NN is/VBZ one/CD of/IN the/DT most/RBS important/JJ data/NNS mining/NN tasks/NNS for/IN label/NN prediction/NN ,/, categorization/NN of/IN objects/NNS into/IN groups/NNS ,/, advertisement/NN and/CC data/NNS management/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN the/DT standard/JJ classification/NN problem/NN which/WDT is/VBZ predicting/VBG unknown/JJ labels/NNS in/IN Euclidean/NNP space/NN ./.
+Most/JJS efforts/NNS in/IN Machine/NN Learning/VBG communities/NNS are/VBP devoted/VBN to/IN methods/NNS that/WDT use/VBP probabilistic/JJ algorithms/NNS which/WDT are/VBP heavy/JJ on/IN Calculus/NN and/CC Linear/NNP Algebra/NNP ./.
+Most/JJS of/IN these/DT techniques/NNS have/VBP scalability/NN issues/NNS for/IN big/JJ data/NNS ,/, and/CC are/VBP hardly/RB parallelizable/JJ if/IN they/PRP are/VBP to/TO maintain/VB their/PRP$ high/JJ accuracies/NNS in/IN their/PRP$ standard/JJ form/NN ./.
+Sampling/NN is/VBZ a/DT new/JJ direction/NN for/IN improving/VBG scalability/NN ,/, using/VBG many/JJ small/JJ parallel/JJ classifiers/NNS ./.
+In/IN this/DT paper/NN ,/, rather/RB than/IN conventional/JJ sampling/NN methods/NNS ,/, we/PRP focus/VBP on/IN a/DT discrete/JJ classification/NN algorithm/NN with/IN O/NN (/-LRB- n/NN )/-RRB- expected/VBN running/VBG time/NN ./.
+Our/PRP$ approach/NN performs/VBZ a/DT similar/JJ task/NN as/IN sampling/NN methods/NNS ./.
+However/RB ,/, we/PRP use/VBP column-wise/JJ sampling/NN of/IN data/NNS ,/, rather/RB than/IN the/DT row-wise/JJ sampling/NN used/VBN in/IN the/DT literature/NN ./.
+In/IN either/DT case/NN ,/, our/PRP$ algorithm/NN is/VBZ completely/RB deterministic/JJ ./.
+Our/PRP$ algorithm/NN ,/, proposes/VBZ a/DT way/NN of/IN combining/VBG 2D/NN convex/NN hulls/NNS in/IN order/NN to/TO achieve/VB high/JJ classification/NN accuracy/NN as/RB well/RB as/IN scalability/NN in/IN the/DT same/JJ time/NN ./.
+First/RB ,/, we/PRP thoroughly/RB describe/VBP and/CC prove/VBP our/PRP$ O/NN (/-LRB- n/NN )/-RRB- algorithm/NN for/IN finding/VBG the/DT convex/NN hull/NN of/IN a/DT point/NN set/VBN in/IN 2D/NN ./.
+Then/RB ,/, we/PRP show/VBP with/IN experiments/NNS our/PRP$ classifier/NN model/NN built/VBN based/VBN on/IN this/DT idea/NN is/VBZ very/RB competitive/JJ compared/VBN with/IN existing/VBG sophisticated/JJ classification/NN algorithms/NNS included/VBD in/IN commercial/JJ statistical/JJ applications/NNS such/JJ as/IN MATLAB/NNP ./.

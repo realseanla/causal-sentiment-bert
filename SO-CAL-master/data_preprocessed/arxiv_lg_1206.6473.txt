@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN we/PRP introduce/VBP a/DT framework/NN for/IN option/NN model/NN composition/NN ./.
+Option/NN models/NNS are/VBP temporal/JJ abstractions/NNS that/WDT ,/, like/IN macro-operators/NNS in/IN classical/JJ planning/NN ,/, jump/VB directly/RB from/IN a/DT start/NN state/NN to/IN an/DT end/NN state/NN ./.
+Prior/JJ work/NN has/VBZ focused/VBN on/IN constructing/VBG option/NN models/NNS from/IN primitive/JJ actions/NNS ,/, by/IN intra-option/JJ model/NN learning/NN ;/: or/CC on/IN using/VBG option/NN models/NNS to/TO construct/VB a/DT value/NN function/NN ,/, by/IN inter-option/NN planning/NN ./.
+We/PRP present/VBP a/DT unified/JJ view/NN of/IN intra/AFX -/HYPH and/CC inter-option/NN model/NN learning/NN ,/, based/VBN on/IN a/DT major/JJ generalisation/NN of/IN the/DT Bellman/NNP equation/NN ./.
+Our/PRP$ fundamental/JJ operation/NN is/VBZ the/DT recursive/JJ composition/NN of/IN option/NN models/NNS into/IN other/JJ option/NN models/NNS ./.
+This/DT key/JJ idea/NN enables/VBZ compositional/JJ planning/NN over/IN many/JJ levels/NNS of/IN abstraction/NN ./.
+We/PRP illustrate/VBP our/PRP$ framework/NN using/VBG a/DT dynamic/JJ programming/NN algorithm/NN that/WDT simultaneously/RB constructs/VBZ optimal/JJ option/NN models/NNS for/IN multiple/JJ subgoals/NNS ,/, and/CC also/RB searches/VBZ over/IN those/DT option/NN models/NNS to/TO provide/VB rapid/JJ progress/NN towards/IN other/JJ subgoals/NNS ./.

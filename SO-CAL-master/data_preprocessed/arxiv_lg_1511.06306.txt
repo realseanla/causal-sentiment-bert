@@ -1,0 +1,7 @@
+Recent/JJ studies/NNS have/VBP shown/VBN that/IN Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNNs/NNS )/-RRB- are/VBP vulnerable/JJ to/IN a/DT small/JJ perturbation/NN of/IN input/NN called/VBN "/`` adversarial/JJ examples/NNS "/'' ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP a/DT new/JJ feedforward/NN CNN/NNP that/WDT improves/VBZ robustness/NN in/IN the/DT presence/NN of/IN adversarial/JJ noise/NN ./.
+Our/PRP$ model/NN uses/VBZ stochastic/JJ additive/JJ noise/NN added/VBD to/IN the/DT input/NN image/NN and/CC to/IN the/DT CNN/NNP models/NNS ./.
+The/DT proposed/VBN model/NN operates/VBZ in/IN conjunction/NN with/IN a/DT CNN/NNP trained/VBN with/IN standard/JJ backpropagation/NN algorithm/NN ./.
+In/IN particular/JJ ,/, convolution/NN ,/, max/NN -/HYPH pooling/VBG ,/, and/CC ReLU/NNP layers/NNS are/VBP modified/VBN to/TO benefit/VB from/IN the/DT noise/NN model/NN ./.
+Our/PRP$ model/NN is/VBZ parameterized/VBN by/IN only/RB a/DT mean/NN and/CC variance/NN per/IN pixel/NN which/WDT simplifies/VBZ computations/NNS and/CC makes/VBZ our/PRP$ method/NN scalable/JJ to/IN a/DT deep/JJ architecture/NN ./.
+The/DT proposed/VBN model/NN outperforms/VBZ the/DT standard/JJ CNN/NNP by/IN 13.12/CD percent/NN on/IN ImageNet/NNP and/CC 7.37/CD percent/NN on/IN CIFAR/NN -/HYPH 10/CD under/IN adversarial/JJ noise/NN at/IN the/DT expense/NN of/IN 0.28/CD percent/NN of/IN accuracy/NN drop/NN when/WRB used/VBN in/IN the/DT original/JJ dataset/NN --/: with/IN no/DT added/VBN noise/NN ./.

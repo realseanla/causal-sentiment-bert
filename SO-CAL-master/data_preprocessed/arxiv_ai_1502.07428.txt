@@ -1,0 +1,7 @@
+This/DT paper/NN considers/VBZ the/DT problem/NN of/IN representative/JJ selection/NN :/: choosing/VBG a/DT subset/NN of/IN data/NNS points/NNS from/IN a/DT dataset/NN that/WDT best/JJS represents/VBZ its/PRP$ overall/JJ set/NN of/IN elements/NNS ./.
+This/DT subset/NN needs/VBZ to/TO inherently/RB reflect/VB the/DT type/NN of/IN information/NN contained/VBN in/IN the/DT entire/JJ set/NN ,/, while/IN minimizing/VBG redundancy/NN ./.
+For/IN such/JJ purposes/NNS ,/, clustering/NN may/MD seem/VB like/IN a/DT natural/JJ approach/NN ./.
+However/RB ,/, existing/VBG clustering/NN methods/NNS are/VBP not/RB ideally/RB suited/VBN for/IN representative/JJ selection/NN ,/, especially/RB when/WRB dealing/VBG with/IN non-metric/JJ data/NNS ,/, where/WRB only/RB a/DT pairwise/JJ similarity/NN measure/NN exists/VBZ ./.
+In/IN this/DT paper/NN we/PRP propose/VBP $/$ \/SYM delta/NN $/$ -/HYPH medoids/NNS ,/, a/DT novel/JJ approach/NN that/WDT can/MD be/VB viewed/VBN as/IN an/DT extension/NN to/IN the/DT $/$ k/CD $/$ -/HYPH medoids/NNS algorithm/NN and/CC is/VBZ specifically/RB suited/VBN for/IN sample/NN representative/NN selection/NN from/IN non-metric/JJ data/NNS ./.
+We/PRP empirically/RB validate/VBP $/$ \/SYM delta/NN $/$ -/HYPH medoids/NNS in/IN two/CD domains/NNS ,/, namely/RB music/NN analysis/NN and/CC motion/NN analysis/NN ./.
+We/PRP also/RB show/VBP some/DT theoretical/JJ bounds/NNS on/IN the/DT performance/NN of/IN $/$ \/SYM delta/NN $/$ -/HYPH medoids/NNS and/CC the/DT hardness/NN of/IN representative/JJ selection/NN in/IN general/JJ ./.

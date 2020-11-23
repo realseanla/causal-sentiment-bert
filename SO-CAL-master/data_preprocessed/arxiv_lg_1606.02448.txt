@@ -1,0 +1,6 @@
+Sequentially/RB learning/VBG to/TO place/VB items/NNS in/IN multi-position/JJ displays/NNS or/CC lists/NNS is/VBZ a/DT task/NN that/WDT can/MD be/VB cast/VBN into/IN the/DT multiple/JJ -/HYPH play/NN semi-bandit/NN setting/NN ./.
+However/RB ,/, a/DT major/JJ concern/NN in/IN this/DT context/NN is/VBZ when/WRB the/DT system/NN can/MD not/RB decide/VB whether/IN the/DT user/NN feedback/NN for/IN each/DT item/NN is/VBZ actually/RB exploitable/JJ ./.
+Indeed/RB ,/, much/RB of/IN the/DT content/NN may/MD have/VB been/VBN simply/RB ignored/VBN by/IN the/DT user/NN ./.
+The/DT present/JJ work/NN proposes/VBZ to/TO exploit/VB available/JJ information/NN regarding/VBG the/DT display/NN position/NN bias/NN under/IN the/DT so/RB -/HYPH called/VBN Position/NN -/HYPH based/VBN click/NN model/NN (/-LRB- PBM/NN )/-RRB- ./.
+We/PRP first/RB discuss/VBP how/WRB this/DT model/NN differs/VBZ from/IN the/DT Cascade/NNP model/NN and/CC its/PRP$ variants/NNS considered/VBN in/IN several/JJ recent/JJ works/NNS on/IN multiple/JJ -/HYPH play/NN bandits/NNS ./.
+We/PRP then/RB provide/VBP a/DT novel/JJ regret/NN lower/JJR bound/VBN for/IN this/DT model/NN as/RB well/RB as/IN computationally/RB efficient/JJ algorithms/NNS that/WDT display/VBP good/JJ empirical/JJ and/CC theoretical/JJ performance/NN ./.

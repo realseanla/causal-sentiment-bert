@@ -1,0 +1,6 @@
+We/PRP establish/VBP a/DT data/NN -/HYPH dependent/JJ notion/NN of/IN algorithmic/JJ stability/NN for/IN Stochastic/NNP Gradient/NNP Descent/NNP (/-LRB- SGD/NNP )/-RRB- and/CC employ/VB it/PRP to/TO develop/VB novel/JJ generalization/NN bounds/NNS ./.
+This/DT is/VBZ in/IN contrast/NN to/IN previous/JJ distribution/NN -/HYPH free/JJ algorithmic/JJ stability/NN results/NNS for/IN SGD/NNP which/WDT depend/VBP on/IN the/DT worst/JJS -/HYPH case/NN constants/NNS ./.
+By/IN virtue/NN of/IN the/DT data/NN -/HYPH dependent/JJ argument/NN ,/, our/PRP$ bounds/NNS provide/VBP new/JJ insights/NNS into/IN learning/NN with/IN SGD/NNP on/IN convex/NN and/CC non-convex/NN problems/NNS ./.
+In/IN the/DT convex/NN case/NN ,/, we/PRP show/VBP that/IN the/DT bound/VBN on/IN the/DT generalization/NN error/NN is/VBZ multiplicative/JJ in/IN the/DT risk/NN at/IN the/DT initialization/NN point/NN ./.
+In/IN the/DT non-convex/JJ case/NN ,/, we/PRP prove/VBP that/IN the/DT expected/VBN curvature/NN of/IN the/DT objective/JJ function/NN around/IN the/DT initialization/NN point/NN has/VBZ crucial/JJ influence/NN on/IN the/DT generalization/NN error/NN ./.
+In/IN both/DT cases/NNS ,/, our/PRP$ results/NNS suggest/VBP a/DT simple/JJ data/NN -/HYPH driven/VBN strategy/NN to/TO stabilize/VB SGD/NNP by/IN pre-screening/VBG its/PRP$ initialization/NN ./.

@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT conversational/JJ model/NN that/WDT incorporates/VBZ both/DT context/NN and/CC participant/NN role/NN for/IN two/CD -/HYPH party/NN conversations/NNS ./.
+Different/JJ architectures/NNS are/VBP explored/VBN for/IN integrating/VBG participant/NN role/NN and/CC context/NN information/NN into/IN a/DT Long/JJ Short/JJ -/HYPH term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- language/NN model/NN ./.
+The/DT conversational/JJ model/NN can/MD function/VB as/IN a/DT language/NN model/NN or/CC a/DT language/NN generation/NN model/NN ./.
+Experiments/NNS on/IN the/DT Ubuntu/NNP Dialog/NNP Corpus/NNP show/VBP that/IN our/PRP$ model/NN can/MD capture/VB multiple/JJ turn/NN interaction/NN between/IN participants/NNS ./.
+The/DT proposed/JJ method/NN outperforms/VBZ a/DT traditional/JJ LSTM/NN model/NN as/IN measured/VBN by/IN language/NN model/NN perplexity/NN and/CC response/NN ranking/NN ./.
+Generated/VBN responses/NNS show/VBP characteristic/JJ differences/NNS between/IN the/DT two/CD participant/NN roles/NNS ./.

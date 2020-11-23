@@ -1,0 +1,4 @@
+The accuracy of Optical Character Recognition (OCR) is crucial to the success of subsequent applications used in text analyzing pipeline.
+Recent models of OCR post-processing significantly improve the quality of OCR-generated text, but are still prone to suggest correction candidates from limited observations while insufficiently accounting for the characteristics of OCR errors.
+In this paper, we show how to enlarge candidate suggestion space by using external corpus and integrating OCR-specific features in a regression approach to correct OCR-generated errors.
+The evaluation results show that our model can correct 61.5 percent of the OCR-errors (considering the top 1 suggestion) and 71.5 percent of the OCR-errors (considering the top 3 suggestions), for cases where the theoretical correction upper-bound is 78 percent.

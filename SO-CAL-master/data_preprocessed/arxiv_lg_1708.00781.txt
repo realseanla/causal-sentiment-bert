@@ -1,0 +1,5 @@
+Understanding/VBG a/DT long/JJ document/NN requires/VBZ tracking/VBG how/WRB entities/NNS are/VBP introduced/VBN and/CC evolve/VB over/IN time/NN ./.
+We/PRP present/VBP a/DT new/JJ type/NN of/IN language/NN model/NN ,/, EntityNLM/NN ,/, that/DT can/MD explicitly/RB model/VB entities/NNS ,/, dynamically/RB update/VB their/PRP$ representations/NNS ,/, and/CC contextually/RB generate/VBP their/PRP$ mentions/VBZ ./.
+Our/PRP$ model/NN is/VBZ generative/JJ and/CC flexible/JJ ;/: it/PRP can/MD model/VB an/DT arbitrary/JJ number/NN of/IN entities/NNS in/IN context/NN while/IN generating/VBG each/DT entity/NN mention/NN at/IN an/DT arbitrary/JJ length/NN ./.
+In/IN addition/NN ,/, it/PRP can/MD be/VB used/VBN for/IN several/JJ different/JJ tasks/NNS such/JJ as/IN language/NN modeling/NN ,/, coreference/NN resolution/NN ,/, and/CC entity/NN prediction/NN ./.
+Experimental/JJ results/NNS with/IN all/PDT these/DT tasks/NNS demonstrate/VBP that/IN our/PRP$ model/NN consistently/RB outperforms/VBZ strong/JJ baselines/NNS and/CC prior/JJ work/NN ./.

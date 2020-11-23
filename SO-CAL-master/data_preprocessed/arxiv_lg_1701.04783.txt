@@ -1,0 +1,8 @@
+A/DT large/JJ amount/NN of/IN information/NN exists/VBZ in/IN reviews/NNS written/VBN by/IN users/NNS ./.
+This/DT source/NN of/IN information/NN has/VBZ been/VBN ignored/VBN by/IN most/JJS of/IN the/DT current/JJ recommender/NN systems/NNS while/IN it/PRP can/MD potentially/RB alleviate/VB the/DT sparsity/NN problem/NN and/CC improve/VB the/DT quality/NN of/IN recommendations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT deep/JJ model/NN to/TO learn/VB item/NN properties/NNS and/CC user/NN behaviors/NNS jointly/RB from/IN review/NN text/NN ./.
+The/DT proposed/VBN model/NN ,/, named/VBN Deep/NNP Cooperative/NNP Neural/JJ Networks/NNS (/-LRB- DeepCoNN/NNP )/-RRB- ,/, consists/VBZ of/IN two/CD parallel/JJ neural/JJ networks/NNS coupled/VBN in/IN the/DT last/JJ layers/NNS ./.
+One/CD of/IN the/DT networks/NNS focuses/VBZ on/IN learning/VBG user/NN behaviors/NNS exploiting/VBG reviews/NNS written/VBN by/IN the/DT user/NN ,/, and/CC the/DT other/JJ one/CD learns/VBZ item/NN properties/NNS from/IN the/DT reviews/NNS written/VBN for/IN the/DT item/NN ./.
+A/DT shared/VBN layer/NN is/VBZ introduced/VBN on/IN the/DT top/NN to/TO couple/VB these/DT two/CD networks/NNS together/RB ./.
+The/DT shared/VBN layer/NN enables/VBZ latent/JJ factors/NNS learned/VBD for/IN users/NNS and/CC items/NNS to/TO interact/VB with/IN each/DT other/JJ in/IN a/DT manner/NN similar/JJ to/IN factorization/NN machine/NN techniques/NNS ./.
+Experimental/JJ results/NNS demonstrate/VBP that/IN DeepCoNN/NNP significantly/RB outperforms/VBZ all/DT baseline/NN recommender/NN systems/NNS on/IN a/DT variety/NN of/IN datasets/NNS ./.

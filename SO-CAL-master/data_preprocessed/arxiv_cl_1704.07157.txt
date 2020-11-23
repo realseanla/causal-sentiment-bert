@@ -1,0 +1,6 @@
+This/DT paper/NN presents/VBZ a/DT new/JJ graph/NN -/HYPH based/VBN approach/NN that/WDT induces/VBZ synsets/NNS using/VBG synonymy/NN dictionaries/NNS and/CC word/NN embeddings/NNS ./.
+First/RB ,/, we/PRP build/VBP a/DT weighted/JJ graph/NN of/IN synonyms/NNS extracted/VBN from/IN commonly/RB available/JJ resources/NNS ,/, such/JJ as/IN Wiktionary/NNP ./.
+Second/RB ,/, we/PRP apply/VBP word/NN sense/NN induction/NN to/TO deal/VB with/IN ambiguous/JJ words/NNS ./.
+Finally/RB ,/, we/PRP cluster/VBP the/DT disambiguated/JJ version/NN of/IN the/DT ambiguous/JJ input/NN graph/NN into/IN synsets/NNS ./.
+Our/PRP$ meta/NN -/HYPH clustering/NN approach/NN lets/VBZ us/PRP use/VB an/DT efficient/JJ hard/JJ clustering/NN algorithm/NN to/TO perform/VB a/DT fuzzy/JJ clustering/NN of/IN the/DT graph/NN ./.
+Despite/IN its/PRP$ simplicity/NN ,/, our/PRP$ approach/NN shows/VBZ excellent/JJ results/NNS ,/, outperforming/VBG five/CD competitive/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS in/IN terms/NNS of/IN F/NN -/HYPH score/NN on/IN three/CD gold/NN standard/JJ datasets/NNS for/IN English/NNP and/CC Russian/JJ derived/VBN from/IN large/JJ -/HYPH scale/NN manually/RB constructed/VBD lexical/JJ resources/NNS ./.

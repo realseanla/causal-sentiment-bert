@@ -1,0 +1,7 @@
+Regulations/NNS in/IN the/DT Building/NNP Industry/NNP are/VBP becoming/VBG increasingly/RB complex/JJ and/CC involve/VBP more/JJR than/IN one/CD technical/JJ area/NN ./.
+They/PRP cover/VBP products/NNS ,/, components/NNS and/CC project/NN implementation/NN ./.
+They/PRP also/RB play/VBP an/DT important/JJ role/NN to/TO ensure/VB the/DT quality/NN of/IN a/DT building/NN ,/, and/CC to/TO minimize/VB its/PRP$ environmental/JJ impact/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP are/VBP particularly/RB interested/JJ in/IN the/DT modeling/NN of/IN the/DT regulatory/JJ constraints/NNS derived/VBN from/IN the/DT Technical/NNP Guides/NNP issued/VBN by/IN CSTB/NNP and/CC used/VBN to/TO validate/VB Technical/JJ Assessments/NNS ./.
+We/PRP first/RB describe/VB our/PRP$ approach/NN for/IN modeling/VBG regulatory/JJ constraints/NNS in/IN the/DT SBVR/NNP language/NN ,/, and/CC formalizing/VBG them/PRP in/IN the/DT SPARQL/NNP language/NN ./.
+Second/RB ,/, we/PRP describe/VBP how/WRB we/PRP model/VBP the/DT processes/NNS of/IN compliance/NN checking/VBG described/VBN in/IN the/DT CSTB/NNP Technical/NNP Guides/NNP ./.
+Third/JJ ,/, we/PRP show/VBP how/WRB we/PRP implement/VBP these/DT processes/NNS to/TO assist/VB industrials/NNS in/IN drafting/VBG Technical/JJ Documents/NNS in/IN order/NN to/TO acquire/VB a/DT Technical/JJ Assessment/NNP ;/: a/DT compliance/NN report/NN is/VBZ automatically/RB generated/VBN to/TO explain/VB the/DT compliance/NN or/CC noncompliance/NN of/IN this/DT Technical/JJ Documents/NNS ./.

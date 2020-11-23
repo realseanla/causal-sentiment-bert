@@ -1,0 +1,12 @@
+We/PRP extend/VBP the/DT standard/JJ rough/JJ set/NN -/HYPH based/VBN approach/NN to/TO deal/VB with/IN huge/JJ amounts/NNS of/IN numeric/JJ attributes/NNS versus/IN small/JJ amount/NN of/IN available/JJ objects/NNS ./.
+Here/RB ,/, a/DT novel/JJ approach/NN of/IN clustering/NN along/IN with/IN dimensionality/NN reduction/NN ;/: Hybrid/NN Fuzzy/JJ C/NN Means/NNPS -/HYPH Quick/NNP Reduct/NNP (/-LRB- FCMQR/NNP )/-RRB- algorithm/NN is/VBZ proposed/VBN for/IN single/JJ gene/NN selection/NN ./.
+Gene/NN selection/NN is/VBZ a/DT process/NN to/TO select/VB genes/NNS which/WDT are/VBP more/RBR informative/JJ ./.
+It/PRP is/VBZ one/CD of/IN the/DT important/JJ steps/NNS in/IN knowledge/NN discovery/NN ./.
+The/DT problem/NN is/VBZ that/IN all/DT genes/NNS are/VBP not/RB important/JJ in/IN gene/NN expression/NN data/NNS ./.
+Some/DT of/IN the/DT genes/NNS may/MD be/VB redundant/JJ ,/, and/CC others/NNS may/MD be/VB irrelevant/JJ and/CC noisy/JJ ./.
+In/IN this/DT study/NN ,/, the/DT entire/JJ dataset/NN is/VBZ divided/VBN in/IN proper/JJ grouping/NN of/IN similar/JJ genes/NNS by/IN applying/VBG Fuzzy/JJ C/NN Means/NNS (/-LRB- FCM/NN )/-RRB- algorithm/NN ./.
+A/DT high/JJ class/NN discriminated/VBN genes/NNS has/VBZ been/VBN selected/VBN based/VBN on/IN their/PRP$ degree/NN of/IN dependence/NN by/IN applying/VBG Quick/NNP Reduct/NNP algorithm/NN based/VBN on/IN Rough/NNP Set/NNP Theory/NNP to/IN all/PDT the/DT resultant/JJ clusters/NNS ./.
+Average/JJ Correlation/NN Value/NN (/-LRB- ACV/NNP )/-RRB- is/VBZ calculated/VBN for/IN the/DT high/JJ class/NN discriminated/VBN genes/NNS ./.
+The/DT clusters/NNS which/WDT have/VBP the/DT ACV/NNP value/NN a/DT s/NN 1/CD is/VBZ determined/VBN as/IN significant/JJ clusters/NNS ,/, whose/WP$ classification/NN accuracy/NN will/MD be/VB equal/JJ or/CC high/JJ when/WRB comparing/VBG to/IN the/DT accuracy/NN of/IN the/DT entire/JJ dataset/NN ./.
+The/DT proposed/VBN algorithm/NN is/VBZ evaluated/VBN using/VBG WEKA/NN classifiers/NNS and/CC compared/VBN ./.
+Finally/RB ,/, experimental/JJ results/NNS related/VBN to/IN the/DT leukemia/NN cancer/NN data/NNS confirm/VBP that/IN our/PRP$ approach/NN is/VBZ quite/RB promising/JJ ,/, though/IN it/PRP surely/RB requires/VBZ further/JJ research/NN ./.

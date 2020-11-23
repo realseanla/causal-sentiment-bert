@@ -1,0 +1,8 @@
+Accurate/JJ mobile/JJ traffic/NN forecast/NN is/VBZ important/JJ for/IN efficient/JJ network/NN planning/NN and/CC operations/NNS ./.
+However/RB ,/, existing/VBG traffic/NN forecasting/NN models/NNS have/VBP high/JJ complexity/NN ,/, making/VBG the/DT forecasting/NN process/NN slow/JJ and/CC costly/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP analyze/VBP some/DT characteristics/NNS of/IN mobile/JJ traffic/NN such/JJ as/IN periodicity/NN ,/, spatial/JJ similarity/NN and/CC short/JJ term/NN relativity/NN ./.
+Based/VBN on/IN these/DT characteristics/NNS ,/, we/PRP propose/VBP a/DT \/NN emph/NN {/-LRB- Block/NNP Regression/NNP }/-RRB- (/-LRB- {/-LRB- BR/NNP }/-RRB- )/-RRB- model/NN for/IN mobile/JJ traffic/NN forecasting/NN ./.
+This/DT model/NN employs/VBZ seasonal/JJ differentiation/NN so/IN as/IN to/TO take/VB into/IN account/NN of/IN the/DT temporally/RB repetitive/JJ nature/NN of/IN mobile/JJ traffic/NN ./.
+One/CD of/IN the/DT key/JJ features/NNS of/IN our/PRP$ {/-LRB- BR/NNP }/-RRB- model/NN lies/VBZ in/IN its/PRP$ low/JJ complexity/NN since/IN it/PRP constructs/VBZ a/DT single/JJ model/NN for/IN all/DT base/NN stations/NNS ./.
+We/PRP evaluate/VBP the/DT accuracy/NN of/IN {/-LRB- BR/NNP }/-RRB- model/NN based/VBN on/IN real/JJ traffic/NN data/NNS and/CC compare/VB it/PRP with/IN the/DT existing/VBG models/NNS ./.
+Results/NNS show/VBP that/IN our/PRP$ {/-LRB- BR/NNP }/-RRB- model/NN offers/VBZ equal/JJ accuracy/NN to/IN the/DT existing/VBG models/NNS but/CC has/VBZ much/RB less/JJR complexity/NN ./.

@@ -1,0 +1,8 @@
+End-to-end (E2E) systems have achieved competitive results compared to conventional hybrid hidden Markov model (HMM)-deep neural network based automatic speech recognition (ASR) systems.
+Such E2E systems are attractive due to the lack of dependence on alignments between input acoustic and output grapheme or HMM state sequence during training.
+This paper explores the design of an ASR-free end-to-end system for text query-based keyword search (KWS) from speech trained with minimal supervision.
+Our E2E KWS system consists of three sub-systems.
+The first sub-system is a recurrent neural network (RNN)-based acoustic auto-encoder trained to reconstruct the audio through a finite-dimensional representation.
+The second sub-system is a character-level RNN language model using embeddings learned from a convolutional neural network.
+Since the acoustic and text query embeddings occupy different representation spaces, they are input to a third feed-forward neural network that predicts whether the query occurs in the acoustic utterance or not.
+This E2E ASR-free KWS system performs respectably despite lacking a conventional ASR system and trains much faster.

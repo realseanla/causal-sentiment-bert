@@ -1,0 +1,10 @@
+Studies/NNS on/IN microscopic/JJ pedestrian/NN requires/VBZ large/JJ amounts/NNS of/IN trajectory/NN data/NNS from/IN real/JJ -/HYPH world/NN pedestrian/NN crowds/NNS ./.
+Such/JJ data/NNS collection/NN ,/, if/IN done/VBN manually/RB ,/, needs/VBZ tremendous/JJ effort/NN and/CC is/VBZ very/RB time/NN consuming/VBG ./.
+Though/IN many/JJ studies/NNS have/VBP asserted/VBN the/DT possibility/NN of/IN automating/VBG this/DT task/NN using/VBG video/NN cameras/NNS ,/, we/PRP found/VBD that/IN only/RB a/DT few/JJ have/VBP demonstrated/VBN good/JJ performance/NN in/IN very/RB crowded/JJ situations/NNS or/CC from/IN a/DT top/JJ -/HYPH angled/JJ view/NN scene/NN ./.
+This/DT paper/NN deals/NNS with/IN tracking/VBG pedestrian/NN crowd/NN under/IN heavy/JJ occlusions/NNS from/IN an/DT angular/JJ scene/NN ./.
+Our/PRP$ automated/VBN tracking/NN system/NN consists/VBZ of/IN two/CD modules/NNS that/WDT perform/VBP sequentially/RB ./.
+The/DT first/JJ module/NN detects/VBZ moving/VBG objects/NNS as/IN blobs/NNS ./.
+The/DT second/JJ module/NN is/VBZ a/DT tracking/NN system/NN ./.
+We/PRP employ/VBP probability/NN distribution/NN from/IN the/DT detection/NN of/IN each/DT pedestrian/NN and/CC use/VB Bayesian/JJ update/NN to/TO track/VB the/DT next/JJ position/NN ./.
+The/DT result/NN of/IN such/JJ tracking/NN is/VBZ a/DT database/NN of/IN pedestrian/NN trajectories/NNS over/IN time/NN and/CC space/NN ./.
+With/IN certain/JJ prior/JJ information/NN ,/, we/PRP showed/VBD that/IN the/DT system/NN can/MD track/VB a/DT large/JJ number/NN of/IN people/NNS under/IN occlusion/NN and/CC clutter/NN scene/NN ./.

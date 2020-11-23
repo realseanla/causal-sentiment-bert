@@ -1,0 +1,5 @@
+Several/JJ algorithms/NNS have/VBP been/VBN proposed/VBN for/IN discovering/VBG patterns/NNS from/IN trajectories/NNS of/IN moving/VBG objects/NNS ,/, but/CC only/RB a/DT few/JJ have/VBP concentrated/VBN on/IN outlier/NN detection/NN ./.
+Existing/VBG approaches/NNS ,/, in/IN general/JJ ,/, discover/VBP spatial/JJ outliers/NNS ,/, and/CC do/VBP not/RB provide/VB any/DT further/JJ analysis/NN of/IN the/DT patterns/NNS ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP semantic/JJ spatial/JJ and/CC spatio/JJ -/HYPH temporal/JJ outliers/NNS and/CC propose/VB a/DT new/JJ algorithm/NN for/IN trajectory/NN outlier/NN detection/NN ./.
+Semantic/JJ outliers/NNS are/VBP computed/VBN between/IN regions/NNS of/IN interest/NN ,/, where/WRB objects/NNS have/VBP similar/JJ movement/NN intention/NN ,/, and/CC there/RB exist/VBP standard/JJ paths/NNS which/WDT connect/VBP the/DT regions/NNS ./.
+We/PRP show/VBP with/IN experiments/NNS on/IN real/JJ data/NNS that/WDT the/DT method/NN finds/VBZ semantic/JJ outliers/NNS from/IN trajectory/NN data/NNS that/WDT are/VBP not/RB discovered/VBN by/IN similar/JJ approaches/NNS ./.

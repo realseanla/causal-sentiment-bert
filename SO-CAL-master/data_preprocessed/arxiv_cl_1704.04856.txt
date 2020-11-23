@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT model/NN to/TO automatically/RB describe/VB changes/NNS introduced/VBN in/IN the/DT source/NN code/NN of/IN a/DT program/NN using/VBG natural/JJ language/NN ./.
+Our/PRP$ method/NN receives/VBZ as/IN input/NN a/DT set/NN of/IN code/NN commits/VBZ ,/, which/WDT contains/VBZ both/CC the/DT modifications/NNS and/CC message/NN introduced/VBN by/IN an/DT user/NN ./.
+These/DT two/CD modalities/NNS are/VBP used/VBN to/TO train/VB an/DT encoder/NN -/HYPH decoder/NN architecture/NN ./.
+We/PRP evaluated/VBD our/PRP$ approach/NN on/IN twelve/CD real/JJ world/NN open/JJ source/NN projects/NNS from/IN four/CD different/JJ programming/NN languages/NNS ./.
+Quantitative/JJ and/CC qualitative/JJ results/NNS showed/VBD that/IN the/DT proposed/VBN approach/NN can/MD generate/VB feasible/JJ and/CC semantically/RB sound/JJ descriptions/NNS not/RB only/RB in/IN standard/JJ in/IN -/HYPH project/NN settings/NNS ,/, but/CC also/RB in/IN a/DT cross-project/JJ setting/NN ./.

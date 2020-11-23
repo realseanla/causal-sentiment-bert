@@ -1,0 +1,5 @@
+Online/NN content/NN analysis/NN employs/VBZ algorithmic/JJ methods/NNS to/TO identify/VB entities/NNS in/IN unstructured/JJ text/NN ./.
+Both/DT machine/NN learning/NN and/CC knowledge/NN -/HYPH base/NN approaches/NNS lie/VBP at/IN the/DT foundation/NN of/IN contemporary/JJ named/VBN entities/NNS extraction/NN systems/NNS ./.
+However/RB ,/, the/DT progress/NN in/IN deploying/VBG these/DT approaches/NNS on/IN web/NN -/HYPH scale/NN has/VBZ been/VBN been/VBN hampered/VBN by/IN the/DT computational/JJ cost/NN of/IN NLP/NN over/IN massive/JJ text/NN corpora/NNS ./.
+We/PRP present/VBP SpeedRead/NNP (/-LRB- SR/NNP )/-RRB- ,/, a/DT named/VBN entity/NN recognition/NN pipeline/NN that/WDT runs/VBZ at/IN least/RBS 10/CD times/NNS faster/JJR than/IN Stanford/NNP NLP/NNP pipeline/NN ./.
+This/DT pipeline/NN consists/VBZ of/IN a/DT high/JJ performance/NN Penn/NNP Treebank/NNP -/HYPH compliant/JJ tokenizer/NN ,/, close/JJ to/IN state/NN -/HYPH of/IN -/HYPH art/NN part/NN -/HYPH of/IN -/HYPH speech/NN (/-LRB- POS/NN )/-RRB- tagger/NN and/CC knowledge/NN -/HYPH based/VBN named/VBN entity/NN recognizer/NN ./.

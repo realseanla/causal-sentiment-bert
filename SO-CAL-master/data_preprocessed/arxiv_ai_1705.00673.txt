@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT software/NN architecture/NN designed/VBN to/TO ease/VB the/DT implementation/NN of/IN dialogue/NN systems/NNS ./.
+The/DT Modular/NNP Architecture/NNP for/IN Conversational/NNP Agents/NNPS (/-LRB- MACA/NNP )/-RRB- uses/VBZ a/DT plug/NN -/HYPH n/NN -/HYPH play/NN style/NN that/WDT allows/VBZ quick/JJ prototyping/NN ,/, thereby/RB facilitating/VBG the/DT development/NN of/IN new/JJ techniques/NNS and/CC the/DT reproduction/NN of/IN previous/JJ work/NN ./.
+The/DT architecture/NN separates/VBZ the/DT domain/NN of/IN the/DT conversation/NN from/IN the/DT agent/NN 's/POS dialogue/NN strategy/NN ,/, and/CC as/IN such/JJ can/MD be/VB easily/RB extended/VBN to/IN multiple/JJ domains/NNS ./.
+MACA/NN provides/VBZ tools/NNS to/TO host/VB dialogue/NN agents/NNS on/IN Amazon/NNP Mechanical/NNP Turk/NNP (/-LRB- mTurk/NNP )/-RRB- for/IN data/NNS collection/NN and/CC allows/VBZ processing/NN of/IN other/JJ sources/NNS of/IN training/NN data/NNS ./.
+The/DT current/JJ version/NN of/IN the/DT framework/NN already/RB incorporates/VBZ several/JJ domains/NNS and/CC existing/VBG dialogue/NN strategies/NNS from/IN the/DT recent/JJ literature/NN ./.

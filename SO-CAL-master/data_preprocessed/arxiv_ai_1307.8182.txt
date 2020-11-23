@@ -1,0 +1,11 @@
+Penetration/NN Testing/NN is/VBZ a/DT methodology/NN for/IN assessing/VBG network/NN security/NN ,/, by/IN generating/VBG and/CC executing/VBG possible/JJ hacking/NN attacks/NNS ./.
+Doing/VBG so/RB automatically/RB allows/VBZ for/IN regular/JJ and/CC systematic/JJ testing/NN ./.
+A/DT key/JJ question/NN is/VBZ how/WRB to/TO generate/VB the/DT attacks/NNS ./.
+This/DT is/VBZ naturally/RB formulated/VBN as/IN planning/VBG under/IN uncertainty/NN ,/, i.e./FW ,/, under/IN incomplete/JJ knowledge/NN about/IN the/DT network/NN configuration/NN ./.
+Previous/JJ work/NN uses/VBZ classical/JJ planning/NN ,/, and/CC requires/VBZ costly/JJ pre-processes/NNS reducing/VBG this/DT uncertainty/NN by/IN extensive/JJ application/NN of/IN scanning/NN methods/NNS ./.
+By/IN contrast/NN ,/, we/PRP herein/RB model/VBP the/DT attack/NN planning/NN problem/NN in/IN terms/NNS of/IN partially/RB observable/JJ Markov/NNP decision/NN processes/NNS (/-LRB- POMDP/NN )/-RRB- ./.
+This/DT allows/VBZ to/IN reason/NN about/IN the/DT knowledge/NN available/JJ ,/, and/CC to/TO intelligently/RB employ/VB scanning/VBG actions/NNS as/IN part/NN of/IN the/DT attack/NN ./.
+As/IN one/PRP would/MD expect/VB ,/, this/DT accurate/JJ solution/NN does/VBZ not/RB scale/NN ./.
+We/PRP devise/VBP a/DT method/NN that/WDT relies/VBZ on/IN POMDPs/NNS to/TO find/VB good/JJ attacks/NNS on/IN individual/JJ machines/NNS ,/, which/WDT are/VBP then/RB composed/VBN into/IN an/DT attack/NN on/IN the/DT network/NN as/IN a/DT whole/JJ ./.
+This/DT decomposition/NN exploits/NNS network/NN structure/NN to/IN the/DT extent/NN possible/JJ ,/, making/VBG targeted/VBN approximations/NNS (/-LRB- only/RB )/-RRB- where/WRB needed/VBN ./.
+Evaluating/VBG this/DT method/NN on/IN a/DT suitably/RB adapted/VBN industrial/JJ test/NN suite/NN ,/, we/PRP demonstrate/VBP its/PRP$ effectiveness/NN in/IN both/CC runtime/NN and/CC solution/NN quality/NN ./.

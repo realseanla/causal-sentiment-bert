@@ -1,0 +1,4 @@
+The online Markov decision process (MDP) is a generalization of the classical Markov decision process that incorporates changing reward functions.
+In this paper, we propose practical online MDP algorithms with policy iteration and theoretically establish a sublinear regret bound.
+A notable advantage of the proposed algorithm is that it can be easily combined with function approximation, and thus large and possibly continuous state spaces can be efficiently handled.
+Through experiments, we demonstrate the usefulness of the proposed algorithm.

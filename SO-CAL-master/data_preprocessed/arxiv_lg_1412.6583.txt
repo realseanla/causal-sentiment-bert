@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT method/NN for/IN learning/VBG latent/JJ representations/NNS of/IN the/DT factors/NNS of/IN variation/NN in/IN data/NNS ./.
+By/IN augmenting/VBG deep/JJ autoencoders/NNS with/IN a/DT supervised/JJ cost/NN and/CC an/DT additional/JJ unsupervised/JJ cost/NN ,/, we/PRP create/VBP a/DT semi-supervised/JJ model/NN that/WDT can/MD discover/VB and/CC explicitly/RB represent/VBP factors/NNS of/IN variation/NN beyond/IN those/DT relevant/JJ for/IN categorization/NN ./.
+We/PRP use/VBP a/DT novel/JJ unsupervised/JJ covariance/NN penalty/NN (/-LRB- XCov/NNP )/-RRB- to/IN disentangle/NN factors/NNS like/IN handwriting/NN style/NN for/IN digits/NNS and/CC subject/JJ identity/NN in/IN faces/NNS ./.
+We/PRP demonstrate/VBP this/DT on/IN the/DT MNIST/NNP handwritten/JJ digit/NN database/NN ,/, the/DT Toronto/NNP Faces/VBZ Database/NN (/-LRB- TFD/NN )/-RRB- and/CC the/DT Multi-PIE/JJ dataset/NN by/IN generating/VBG manipulated/VBN instances/NNS of/IN the/DT data/NNS ./.
+Our/PRP$ model/NN discovers/VBZ additional/JJ high/JJ -/HYPH level/NN latent/JJ factors/NNS absent/JJ from/IN the/DT supervised/JJ signal/NN ./.

@@ -1,0 +1,7 @@
+Infinite/JJ mixture/NN models/NNS are/VBP commonly/RB used/VBN for/IN clustering/NN ./.
+One/PRP can/MD sample/VB from/IN the/DT posterior/NN of/IN mixture/NN assignments/NNS by/IN Monte/NNP Carlo/NNP methods/NNS or/CC find/VB its/PRP$ maximum/NN a/DT posteriori/JJ solution/NN by/IN optimization/NN ./.
+However/RB ,/, in/IN some/DT problems/NNS the/DT posterior/JJ is/VBZ diffuse/JJ and/CC it/PRP is/VBZ hard/JJ to/TO interpret/VB the/DT sampled/VBN partitionings/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP novel/JJ statistics/NNS based/VBN on/IN block/NN sizes/NNS for/IN representing/VBG sample/NN sets/NNS of/IN partitionings/NNS and/CC feature/NN allocations/NNS ./.
+We/PRP develop/VBP an/DT element/NN -/HYPH based/VBN definition/NN of/IN entropy/NN to/TO quantify/VB segmentation/NN among/IN their/PRP$ elements/NNS ./.
+Then/RB we/PRP propose/VBP a/DT simple/JJ algorithm/NN called/VBN entropy/NN agglomeration/NN (/-LRB- EA/NNP )/-RRB- to/TO summarize/VB and/CC visualize/VB this/DT information/NN ./.
+Experiments/NNS on/IN various/JJ infinite/JJ mixture/NN posteriors/NNS as/RB well/RB as/IN a/DT feature/NN allocation/NN dataset/NN demonstrate/VBP that/IN the/DT proposed/VBN statistics/NNS are/VBP useful/JJ in/IN practice/NN ./.

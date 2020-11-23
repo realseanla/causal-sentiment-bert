@@ -1,0 +1,7 @@
+Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- RNN/NN )/-RRB- have/VBP obtained/VBN excellent/JJ result/NN in/IN many/JJ natural/JJ language/NN processing/NN (/-LRB- NLP/NN )/-RRB- tasks/NNS ./.
+However/RB ,/, understanding/NN and/CC interpreting/VBG the/DT source/NN of/IN this/DT success/NN remains/VBZ a/DT challenge/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP Recurrent/JJ Memory/NNP Network/NNP (/-LRB- RMN/NNP )/-RRB- ,/, a/DT novel/JJ RNN/NN architecture/NN ,/, that/IN not/RB only/RB amplifies/VBZ the/DT power/NN of/IN RNN/NNP but/CC also/RB facilitates/VBZ our/PRP$ understanding/NN of/IN its/PRP$ internal/JJ functioning/NN and/CC allows/VBZ us/PRP to/TO discover/VB underlying/VBG patterns/NNS in/IN data/NNS ./.
+We/PRP demonstrate/VBP the/DT power/NN of/IN RMN/NNP on/IN language/NN modeling/NN and/CC sentence/NN completion/NN tasks/NNS ./.
+On/IN language/NN modeling/NN ,/, RMN/NNP outperforms/VBZ Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- network/NN on/IN three/CD large/JJ German/JJ ,/, Italian/JJ ,/, and/CC English/NNP dataset/NN ./.
+Additionally/RB we/PRP perform/VBP in/IN -/HYPH depth/NN analysis/NN of/IN various/JJ linguistic/JJ dimensions/NNS that/WDT RMN/NNP captures/VBZ ./.
+On/IN Sentence/NNP Completion/NNP Challenge/NNP ,/, for/IN which/WDT it/PRP is/VBZ essential/JJ to/TO capture/VB sentence/NN coherence/NN ,/, our/PRP$ RMN/NNP obtains/VBZ 69.2/CD percent/NN accuracy/NN ,/, surpassing/VBG the/DT previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN by/IN a/DT large/JJ margin/NN ./.

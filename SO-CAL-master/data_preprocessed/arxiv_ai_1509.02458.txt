@@ -1,0 +1,9 @@
+An/DT approach/NN for/IN game/NN bot/NN detection/NN in/IN MMORPGs/NNP is/VBZ proposed/VBN based/VBN on/IN the/DT analysis/NN of/IN game/NN playing/VBG behavior/NN ./.
+Since/IN MMORPGs/NNS are/VBP large/JJ scale/NN games/NNS ,/, users/NNS can/MD play/VB in/IN various/JJ ways/NNS ./.
+This/DT variety/NN in/IN playing/VBG behavior/NN makes/VBZ it/PRP hard/JJ to/TO detect/VB game/NN bots/NNS based/VBN on/IN play/NN behaviors/NNS ./.
+In/IN order/NN to/TO cope/VB with/IN this/DT problem/NN ,/, the/DT proposed/VBN approach/NN observes/VBZ game/NN playing/VBG behaviors/NNS of/IN users/NNS and/CC groups/NNS them/PRP by/IN their/PRP$ behavioral/JJ similarities/NNS ./.
+Then/RB ,/, it/PRP develops/VBZ a/DT local/JJ bot/NN detection/NN model/NN for/IN each/DT player/NN group/NN ./.
+Since/IN the/DT locally/RB optimized/VBN models/NNS can/MD more/RBR accurately/RB detect/VB game/NN bots/NNS within/IN each/DT player/NN group/NN ,/, the/DT combination/NN of/IN those/DT models/NNS brings/VBZ about/RB overall/JJ improvement/NN ./.
+For/IN a/DT practical/JJ purpose/NN of/IN reducing/VBG the/DT workloads/NNS of/IN the/DT game/NN servers/NNS in/IN service/NN ,/, the/DT game/NN data/NNS is/VBZ collected/VBN at/IN a/DT low/JJ resolution/NN in/IN time/NN ./.
+Behavioral/JJ features/NNS are/VBP selected/VBN and/CC developed/VBN to/IN accurately/RB detect/VB game/NN bots/NNS with/IN the/DT low/JJ resolution/NN data/NNS ,/, considering/VBG common/JJ aspects/NNS of/IN MMORPG/NNP playing/VBG ./.
+Through/IN the/DT experiment/NN with/IN the/DT real/JJ data/NNS from/IN a/DT game/NN currently/RB in/IN service/NN ,/, it/PRP is/VBZ shown/VBN that/IN the/DT proposed/VBN local/JJ model/NN approach/NN yields/VBZ more/RBR accurate/JJ results/NNS ./.

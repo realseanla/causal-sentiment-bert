@@ -1,0 +1,6 @@
+We/PRP propose/VBP several/JJ neural/JJ models/NNS arranged/VBN in/IN a/DT two/CD -/HYPH stage/NN framework/NN to/TO tackle/VB question/NN generation/NN from/IN documents/NNS ./.
+First/RB ,/, we/PRP estimate/VBP the/DT probability/NN of/IN "/`` interesting/JJ "/'' answers/NNS in/IN a/DT document/NN using/VBG a/DT neural/JJ model/NN trained/VBN on/IN a/DT question/NN -/HYPH answering/VBG corpus/NN ./.
+The/DT predicted/VBN key/NN phrases/NNS are/VBP then/RB used/VBN as/IN answers/NNS to/IN condition/NN a/DT sequence/NN -/HYPH to/IN -/HYPH sequence/NN question/NN generation/NN model/NN ./.
+Empirically/RB ,/, our/PRP$ neural/JJ key/NN phrase/NN detection/NN models/NNS significantly/RB outperform/VBP an/DT entity/NN -/HYPH tagging/NN baseline/NN system/NN ./.
+We/PRP demonstrate/VBP that/IN the/DT question/NN generator/NN formulates/VBZ good/JJ quality/NN natural/JJ language/NN questions/NNS from/IN extracted/VBN key/JJ phrases/NNS ./.
+The/DT resulting/VBG questions/NNS and/CC answers/NNS can/MD be/VB used/VBN to/TO assess/VB reading/NN comprehension/NN in/IN educational/JJ settings/NNS ./.

@@ -1,0 +1,9 @@
+We/PRP explore/VBP the/DT utility/NN of/IN clustering/NN in/IN reducing/VBG error/NN in/IN various/JJ prediction/NN tasks/NNS ./.
+Previous/JJ work/NN has/VBZ hinted/VBN at/IN the/DT improvement/NN in/IN prediction/NN accuracy/NN attributed/VBN to/IN clustering/NN algorithms/NNS if/IN used/VBN to/TO pre-process/VB the/DT data/NNS ./.
+In/IN this/DT work/NN we/PRP more/RBR deeply/RB investigate/VB the/DT direct/JJ utility/NN of/IN using/VBG clustering/NN to/TO improve/VB prediction/NN accuracy/NN and/CC provide/VB explanations/NNS for/IN why/WRB this/DT may/MD be/VB so/RB ./.
+We/PRP look/VBP at/IN a/DT number/NN of/IN datasets/NNS ,/, run/VB k/CD -/HYPH means/NNS at/IN different/JJ scales/NNS and/CC for/IN each/DT scale/NN we/PRP train/VBP predictors/NNS ./.
+This/DT produces/VBZ k/CD sets/NNS of/IN predictions/NNS ./.
+These/DT predictions/NNS are/VBP then/RB combined/VBN by/IN a/DT na/TO \/SYM "/`` ive/VB ensemble/NN ./.
+We/PRP observed/VBD that/IN this/DT use/NN of/IN a/DT predictor/NN in/IN conjunction/NN with/IN clustering/NN improved/VBD the/DT prediction/NN accuracy/NN in/IN most/JJS datasets/NNS ./.
+We/PRP believe/VBP this/DT indicates/VBZ the/DT predictive/JJ utility/NN of/IN exploiting/VBG structure/NN in/IN the/DT data/NNS and/CC the/DT data/NNS compression/NN handed/VBN over/RP by/IN clustering/NN ./.
+We/PRP also/RB found/VBD that/IN using/VBG this/DT method/NN improves/VBZ upon/IN the/DT prediction/NN of/IN even/RB a/DT Random/NNP Forests/NNS predictor/NN which/WDT suggests/VBZ this/DT method/NN is/VBZ providing/VBG a/DT novel/NN ,/, and/CC useful/JJ source/NN of/IN variance/NN in/IN the/DT prediction/NN process/NN ./.

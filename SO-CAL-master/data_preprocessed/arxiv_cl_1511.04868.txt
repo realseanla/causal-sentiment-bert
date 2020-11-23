@@ -1,0 +1,16 @@
+Sequence/NN -/HYPH to/IN -/HYPH sequence/NN models/NNS have/VBP achieved/VBN impressive/JJ results/NNS on/IN various/JJ tasks/NNS ./.
+However/RB ,/, they/PRP are/VBP unsuitable/JJ for/IN tasks/NNS that/WDT require/VBP incremental/JJ predictions/NNS to/TO be/VB made/VBN as/IN more/JJR data/NNS arrives/VBZ ./.
+This/DT is/VBZ because/IN they/PRP generate/VBP an/DT output/NN sequence/NN conditioned/VBN on/IN an/DT entire/JJ input/NN sequence/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ model/NN that/WDT can/MD make/VB incremental/JJ predictions/NNS as/IN more/JJR input/NN arrives/VBZ ,/, without/IN redoing/VBG the/DT entire/JJ computation/NN ./.
+Unlike/IN sequence/NN -/HYPH to/IN -/HYPH sequence/NN models/NNS ,/, our/PRP$ method/NN computes/VBZ the/DT next/JJ -/HYPH step/NN distribution/NN conditioned/VBN on/IN the/DT partial/JJ input/NN sequence/NN observed/VBN and/CC the/DT partial/JJ sequence/NN generated/VBN ./.
+It/PRP accomplishes/VBZ this/DT goal/NN using/VBG an/DT encoder/NN recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- that/WDT computes/VBZ features/NNS at/IN the/DT same/JJ frame/NN rate/NN as/IN the/DT input/NN ,/, and/CC a/DT transducer/NN RNN/NN that/WDT operates/VBZ over/IN blocks/NNS of/IN input/NN steps/NNS ./.
+The/DT transducer/NN RNN/NN extends/VBZ the/DT sequence/NN produced/VBN so/RB far/RB using/VBG a/DT local/JJ sequence/NN -/HYPH to/IN -/HYPH sequence/NN model/NN ./.
+During/IN training/NN ,/, our/PRP$ method/NN uses/VBZ alignment/NN information/NN to/TO generate/VB supervised/JJ targets/NNS for/IN each/DT block/NN ./.
+Approximate/JJ alignment/NN is/VBZ easily/RB available/JJ for/IN tasks/NNS such/JJ as/IN speech/NN recognition/NN ,/, action/NN recognition/NN in/IN videos/NNS ,/, etc/FW ./.
+During/IN inference/NN (/-LRB- decoding/NN )/-RRB- ,/, beam/NN search/NN is/VBZ used/VBN to/TO find/VB the/DT most/RBS likely/JJ output/NN sequence/NN for/IN an/DT input/NN sequence/NN ./.
+This/DT decoding/NN is/VBZ performed/VBN online/RB -/HYPH at/IN the/DT end/NN of/IN each/DT block/NN ,/, the/DT best/JJS candidates/NNS from/IN the/DT previous/JJ block/NN are/VBP extended/VBN through/IN the/DT local/JJ sequence/NN -/HYPH to/IN -/HYPH sequence/NN model/NN ./.
+On/IN TIMIT/NNP ,/, our/PRP$ online/JJ method/NN achieves/VBZ 19.8/CD percent/NN phone/NN error/NN rate/NN (/-LRB- PER/NN )/-RRB- ./.
+For/IN comparison/NN with/IN published/VBN sequence/NN -/HYPH to/IN -/HYPH sequence/NN methods/NNS ,/, we/PRP used/VBD a/DT bidirectional/JJ encoder/NN and/CC achieved/VBD 18.7/CD percent/NN PER/NN ./.
+This/DT compares/VBZ favorably/RB to/IN the/DT best/JJS reported/VBN sequence/NN -/HYPH to/IN -/HYPH sequence/NN model/NN which/WDT achieves/VBZ 17.6/CD percent/NN ./.
+Importantly/RB ,/, unlike/IN sequence/NN -/HYPH to/IN -/HYPH sequence/NN models/NNS our/PRP$ model/NN is/VBZ minimally/RB impacted/VBN by/IN the/DT length/NN of/IN the/DT input/NN ./.
+On/IN 10/CD -/HYPH times/NNS replicated/VBN utterances/NNS ,/, it/PRP achieves/VBZ 20.9/CD percent/NN with/IN a/DT unidirectional/JJ model/NN ,/, compared/VBN to/IN 20/CD percent/NN from/IN the/DT best/JJS bidirectional/JJ sequence/NN -/HYPH to/IN -/HYPH sequence/NN models/NNS ./.

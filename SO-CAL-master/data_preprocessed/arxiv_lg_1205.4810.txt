@@ -1,0 +1,12 @@
+In/IN environments/NNS with/IN uncertain/JJ dynamics/NNS exploration/NN is/VBZ necessary/JJ to/TO learn/VB how/WRB to/TO perform/VB well/RB ./.
+Existing/VBG reinforcement/NN learning/VBG algorithms/NNS provide/VBP strong/JJ exploration/NN guarantees/NNS ,/, but/CC they/PRP tend/VBP to/TO rely/VB on/IN an/DT ergodicity/NN assumption/NN ./.
+The/DT essence/NN of/IN ergodicity/NN is/VBZ that/IN any/DT state/NN is/VBZ eventually/RB reachable/JJ from/IN any/DT other/JJ state/NN by/IN following/VBG a/DT suitable/JJ policy/NN ./.
+This/DT assumption/NN allows/VBZ for/IN exploration/NN algorithms/NNS that/WDT operate/VBP by/IN simply/RB favoring/VBG states/NNS that/WDT have/VBP rarely/RB been/VBN visited/VBN before/RB ./.
+For/IN most/JJS physical/JJ systems/NNS this/DT assumption/NN is/VBZ impractical/JJ as/IN the/DT systems/NNS would/MD break/VB before/IN any/DT reasonable/JJ exploration/NN has/VBZ taken/VBN place/NN ,/, i.e./FW ,/, most/JJS physical/JJ systems/NNS do/VBP n't/RB satisfy/VB the/DT ergodicity/NN assumption/NN ./.
+In/IN this/DT paper/NN we/PRP address/VBP the/DT need/NN for/IN safe/JJ exploration/NN methods/NNS in/IN Markov/NNP decision/NN processes/NNS ./.
+We/PRP first/RB propose/VB a/DT general/JJ formulation/NN of/IN safety/NN through/IN ergodicity/NN ./.
+We/PRP show/VBP that/IN imposing/VBG safety/NN by/IN restricting/VBG attention/NN to/IN the/DT resulting/VBG set/NN of/IN guaranteed/VBN safe/JJ policies/NNS is/VBZ NP/NNP -/HYPH hard/JJ ./.
+We/PRP then/RB present/VBP an/DT efficient/JJ algorithm/NN for/IN guaranteed/VBN safe/JJ ,/, but/CC potentially/RB suboptimal/JJ ,/, exploration/NN ./.
+At/IN the/DT core/NN is/VBZ an/DT optimization/NN formulation/NN in/IN which/WDT the/DT constraints/NNS restrict/VBP attention/NN to/IN a/DT subset/NN of/IN the/DT guaranteed/VBN safe/JJ policies/NNS and/CC the/DT objective/NN favors/VBZ exploration/NN policies/NNS ./.
+Our/PRP$ framework/NN is/VBZ compatible/JJ with/IN the/DT majority/NN of/IN previously/RB proposed/VBN exploration/NN methods/NNS ,/, which/WDT rely/VBP on/IN an/DT exploration/NN bonus/NN ./.
+Our/PRP$ experiments/NNS ,/, which/WDT include/VBP a/DT Martian/JJ terrain/NN exploration/NN problem/NN ,/, show/VBP that/IN our/PRP$ method/NN is/VBZ able/JJ to/TO explore/VB better/JJR than/IN classical/JJ exploration/NN methods/NNS ./.

@@ -1,0 +1,11 @@
+Designing/NNP appropriate/JJ features/NNS for/IN acoustic/JJ event/NN recognition/NN tasks/NNS is/VBZ an/DT active/JJ field/NN of/IN research/NN ./.
+Expressive/JJ features/NNS should/MD both/DT improve/VB the/DT performance/NN of/IN the/DT tasks/NNS and/CC also/RB be/VB interpret/VB -/HYPH able/JJ ./.
+Currently/RB ,/, heuristically/RB designed/VBN features/NNS based/VBN on/IN the/DT domain/NN knowledge/NN requires/VBZ tremendous/JJ effort/NN in/IN hand/NN -/HYPH crafting/VBG ,/, while/IN features/NNS extracted/VBN through/IN deep/JJ network/NN are/VBP difficult/JJ for/IN human/JJ to/TO interpret/VB ./.
+In/IN this/DT work/NN ,/, we/PRP explore/VBP the/DT experience/NN guided/VBN learning/NN method/NN for/IN designing/VBG acoustic/JJ features/NNS ./.
+This/DT is/VBZ a/DT novel/JJ hybrid/NN approach/NN combining/VBG both/CC domain/NN knowledge/NN and/CC purely/RB data/NNS driven/VBN feature/NN designing/NN ./.
+Based/VBN on/IN the/DT procedure/NN of/IN log/NN Mel/NNP -/HYPH filter/NN banks/NNS ,/, we/PRP design/VBP a/DT filter/NN bank/NN learning/NN layer/NN ./.
+We/PRP concatenate/VBP this/DT layer/NN with/IN a/DT convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- model/NN ./.
+After/IN training/VBG the/DT network/NN ,/, the/DT weight/NN of/IN the/DT filter/NN bank/NN learning/NN layer/NN is/VBZ extracted/VBN to/TO facilitate/VB the/DT design/NN of/IN acoustic/JJ features/NNS ./.
+We/PRP smooth/VBP the/DT trained/VBN weight/NN of/IN the/DT learning/NN layer/NN and/CC re-initialize/VB it/PRP in/IN filter/NN bank/NN learning/NN layer/NN as/IN audio/JJ feature/NN extractor/NN ./.
+For/IN the/DT environmental/JJ sound/NN recognition/NN task/NN based/VBN on/IN the/DT Urban/JJ -/HYPH sound8K/NN dataset/NN ,/, the/DT experience/NN guided/VBN learning/NN leads/VBZ to/IN a/DT 2/CD percent/NN accuracy/NN improvement/NN compared/VBN with/IN the/DT fixed/VBN feature/NN extractors/NNS (/-LRB- the/DT log/NN Mel/NNP -/HYPH filter/NN bank/NN )/-RRB- ./.
+The/DT shape/NN of/IN the/DT new/JJ filter/NN banks/NNS are/VBP visualized/VBN and/CC explained/VBN to/TO prove/VB the/DT effectiveness/NN of/IN the/DT feature/NN design/NN process/NN ./.

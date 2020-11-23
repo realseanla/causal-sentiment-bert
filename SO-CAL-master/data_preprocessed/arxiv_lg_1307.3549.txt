@@ -1,0 +1,9 @@
+Microarray/NN technology/NN is/VBZ a/DT process/NN that/WDT allows/VBZ thousands/NNS of/IN genes/NNS simultaneously/RB monitor/VBP to/IN various/JJ experimental/JJ conditions/NNS ./.
+It/PRP is/VBZ used/VBN to/TO identify/VB the/DT co-expressed/VBN genes/NNS in/IN specific/JJ cells/NNS or/CC tissues/NNS that/WDT are/VBP actively/RB used/VBN to/TO make/VB proteins/NN ,/, This/DT method/NN is/VBZ used/VBN to/IN analysis/NN the/DT gene/NN expression/NN ,/, an/DT important/JJ task/NN in/IN bioinformatics/NN research/NN ./.
+Cluster/NN analysis/NN of/IN gene/NN expression/NN data/NNS has/VBZ proved/VBN to/TO be/VB a/DT useful/JJ tool/NN for/IN identifying/VBG co-expressed/VBN genes/NNS ,/, biologically/RB relevant/JJ groupings/NNS of/IN genes/NNS and/CC samples/NNS ./.
+In/IN this/DT paper/NN we/PRP analysed/VBD K/NNP -/HYPH Means/NNP with/IN Automatic/NNP Generations/NNPS of/IN Merge/NNP Factor/NN for/IN ISODATA/NNP -/HYPH AGMFI/NNP ,/, to/IN group/NN the/DT microarray/NN data/NN sets/NNS on/IN the/DT basic/JJ of/IN ISODATA/NNP ./.
+AGMFI/NN is/VBZ to/TO generate/VB initial/JJ values/NNS for/IN merge/NN and/CC Spilt/NN factor/NN ,/, maximum/JJ merge/NN times/NNS instead/RB of/IN selecting/VBG efficient/JJ values/NNS as/IN in/IN ISODATA/NNP ./.
+The/DT initial/JJ seeds/NNS for/IN each/DT cluster/NN were/VBD normally/RB chosen/VBN either/CC sequentially/RB or/CC randomly/RB ./.
+The/DT quality/NN of/IN the/DT final/JJ clusters/NNS was/VBD found/VBN to/TO be/VB influenced/VBN by/IN these/DT initial/JJ seeds/NNS ./.
+For/IN the/DT real/JJ life/NN problems/NNS ,/, the/DT suitable/JJ number/NN of/IN clusters/NNS can/MD not/RB be/VB predicted/VBN ./.
+To/TO overcome/VB the/DT above/JJ drawback/NN the/DT current/JJ research/NN focused/VBD on/IN developing/VBG the/DT clustering/NN algorithms/NNS without/IN giving/VBG the/DT initial/JJ number/NN of/IN clusters/NNS ./.

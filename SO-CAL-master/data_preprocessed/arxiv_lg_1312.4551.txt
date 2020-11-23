@@ -1,0 +1,7 @@
+We/PRP present/VBP an/DT asymptotic/JJ analysis/NN of/IN Viterbi/NNP Training/NNP (/-LRB- VT/NNP )/-RRB- and/CC contrast/NN it/PRP with/IN a/DT more/RBR conventional/JJ Maximum/JJ Likelihood/NN (/-LRB- ML/NN )/-RRB- approach/NN to/IN parameter/NN estimation/NN in/IN Hidden/JJ Markov/NNP Models/NNPS ./.
+While/IN ML/NNP estimator/NN works/VBZ by/IN (/-LRB- locally/RB )/-RRB- maximizing/VBG the/DT likelihood/NN of/IN the/DT observed/VBN data/NNS ,/, VT/NNP seeks/VBZ to/TO maximize/VB the/DT probability/NN of/IN the/DT most/RBS likely/JJ hidden/JJ state/NN sequence/NN ./.
+We/PRP develop/VBP an/DT analytical/JJ framework/NN based/VBN on/IN a/DT generating/NN function/NN formalism/NN and/CC illustrate/VBP it/PRP on/IN an/DT exactly/RB solvable/JJ model/NN of/IN HMM/NNP with/IN one/CD unambiguous/JJ symbol/NN ./.
+For/IN this/DT particular/JJ model/NN the/DT ML/NNP objective/NN function/NN is/VBZ continuously/RB degenerate/JJ ./.
+VT/NN objective/NN ,/, in/IN contrast/NN ,/, is/VBZ shown/VBN to/TO have/VB only/RB finite/JJ degeneracy/NN ./.
+Furthermore/RB ,/, VT/NN converges/VBZ faster/RBR and/CC results/VBZ in/IN sparser/JJR (/-LRB- simpler/JJR )/-RRB- models/NNS ,/, thus/RB realizing/VBG an/DT automatic/JJ Occam/NNP 's/POS razor/NN for/IN HMM/NNP learning/NN ./.
+For/IN more/JJR general/JJ scenario/NN VT/NNP can/MD be/VB worse/JJR compared/VBN to/IN ML/NNP but/CC still/RB capable/JJ of/IN correctly/RB recovering/VBG most/JJS of/IN the/DT parameters/NNS ./.

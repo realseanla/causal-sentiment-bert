@@ -1,0 +1,8 @@
+Deep/JJ Neural/JJ Networks/NNS often/RB require/VBP good/JJ regularizers/NNS to/IN generalize/VB well/RB ./.
+Dropout/NN is/VBZ one/CD such/JJ regularizer/NN that/WDT is/VBZ widely/RB used/VBN among/IN Deep/JJ Learning/NN practitioners/NNS ./.
+Recent/JJ work/NN has/VBZ shown/VBN that/IN Dropout/NNP can/MD also/RB be/VB viewed/VBN as/IN performing/VBG Approximate/JJ Bayesian/JJ Inference/NN over/IN the/DT network/NN parameters/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP generalize/VBP this/DT notion/NN and/CC introduce/VB a/DT rich/JJ family/NN of/IN regularizers/NNS which/WDT we/PRP call/VBP Generalized/VBN Dropout/NN ./.
+One/CD set/NN of/IN methods/NNS in/IN this/DT family/NN ,/, called/VBN Dropout/NNP ,/, is/VBZ a/DT version/NN of/IN Dropout/NN with/IN trainable/JJ parameters/NNS ./.
+Classical/JJ Dropout/NN emerges/VBZ as/IN a/DT special/JJ case/NN of/IN this/DT method/NN ./.
+Another/DT member/NN of/IN this/DT family/NN selects/VBZ the/DT width/NN of/IN neural/JJ network/NN layers/NNS ./.
+Experiments/NNS show/VBP that/IN these/DT methods/NNS help/VBP in/IN improving/VBG generalization/NN performance/NN over/IN Dropout/NN ./.

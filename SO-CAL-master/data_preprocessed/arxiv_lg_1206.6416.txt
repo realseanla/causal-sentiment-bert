@@ -1,0 +1,9 @@
+Latent/JJ variable/JJ models/NNS for/IN network/NN data/NNS extract/VBP a/DT summary/NN of/IN the/DT relational/JJ structure/NN underlying/VBG an/DT observed/VBN network/NN ./.
+The/DT simplest/JJS possible/JJ models/NNS subdivide/VBP nodes/NNS of/IN the/DT network/NN into/IN clusters/NNS ;/: the/DT probability/NN of/IN a/DT link/NN between/IN any/DT two/CD nodes/NNS then/RB depends/VBZ only/RB on/IN their/PRP$ cluster/NN assignment/NN ./.
+Currently/RB available/JJ models/NNS can/MD be/VB classified/VBN by/IN whether/IN clusters/NNS are/VBP disjoint/NN or/CC are/VBP allowed/VBN to/TO overlap/VB ./.
+These/DT models/NNS can/MD explain/VB a/DT "/`` flat/JJ "/'' clustering/NN structure/NN ./.
+Hierarchical/JJ Bayesian/JJ models/NNS provide/VBP a/DT natural/JJ approach/NN to/TO capture/VB more/RBR complex/JJ dependencies/NNS ./.
+We/PRP propose/VBP a/DT model/NN in/IN which/WDT objects/NNS are/VBP characterised/VBN by/IN a/DT latent/JJ feature/NN vector/NN ./.
+Each/DT feature/NN is/VBZ itself/PRP partitioned/VBN into/IN disjoint/NN groups/NNS (/-LRB- subclusters/NNS )/-RRB- ,/, corresponding/VBG to/IN a/DT second/JJ layer/NN of/IN hierarchy/NN ./.
+In/IN experimental/JJ comparisons/NNS ,/, the/DT model/NN achieves/VBZ significantly/RB improved/VBN predictive/JJ performance/NN on/IN social/JJ and/CC biological/JJ link/NN prediction/NN tasks/NNS ./.
+The/DT results/NNS indicate/VBP that/IN models/NNS with/IN a/DT single/JJ layer/NN hierarchy/NN over-simplify/JJ real/JJ networks/NNS ./.

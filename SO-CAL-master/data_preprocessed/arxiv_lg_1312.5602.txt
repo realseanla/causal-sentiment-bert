@@ -1,0 +1,4 @@
+We/PRP present/VBP the/DT first/JJ deep/JJ learning/NN model/NN to/TO successfully/RB learn/VB control/NN policies/NNS directly/RB from/IN high/JJ -/HYPH dimensional/JJ sensory/JJ input/NN using/VBG reinforcement/NN learning/NN ./.
+The/DT model/NN is/VBZ a/DT convolutional/JJ neural/JJ network/NN ,/, trained/VBN with/IN a/DT variant/NN of/IN Q/NN -/HYPH learning/NN ,/, whose/WP$ input/NN is/VBZ raw/JJ pixels/NNS and/CC whose/WP$ output/NN is/VBZ a/DT value/NN function/NN estimating/VBG future/JJ rewards/NNS ./.
+We/PRP apply/VBP our/PRP$ method/NN to/TO seven/CD Atari/NNP 2600/CD games/NNS from/IN the/DT Arcade/NNP Learning/NNP Environment/NNP ,/, with/IN no/DT adjustment/NN of/IN the/DT architecture/NN or/CC learning/NN algorithm/NN ./.
+We/PRP find/VBP that/IN it/PRP outperforms/VBZ all/DT previous/JJ approaches/NNS on/IN six/CD of/IN the/DT games/NNS and/CC surpasses/VBZ a/DT human/JJ expert/NN on/IN three/CD of/IN them/PRP ./.

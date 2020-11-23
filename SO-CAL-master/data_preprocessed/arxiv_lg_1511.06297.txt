@@ -1,0 +1,8 @@
+Deep/JJ learning/NN has/VBZ become/VBN the/DT state/NN -/HYPH of/IN -/HYPH art/NN tool/NN in/IN many/JJ applications/NNS ,/, but/CC the/DT evaluation/NN and/CC training/NN of/IN deep/JJ models/NNS can/MD be/VB time/NN -/HYPH consuming/VBG and/CC computationally/RB expensive/JJ ./.
+Dropout/NN has/VBZ been/VBN shown/VBN to/TO be/VB an/DT effective/JJ strategy/NN to/IN sparsify/JJ computations/NNS (/-LRB- by/IN not/RB involving/VBG all/DT units/NNS )/-RRB- ,/, as/RB well/RB as/IN to/IN regularize/VB models/NNS ./.
+In/IN typical/JJ dropout/NN ,/, nodes/NNS are/VBP dropped/VBN uniformly/RB at/IN random/JJ ./.
+Our/PRP$ goal/NN is/VBZ to/TO use/VB reinforcement/NN learning/VBG in/IN order/NN to/TO design/VB better/JJR ,/, more/RBR informed/JJ dropout/NN policies/NNS ,/, which/WDT are/VBP data/NNS -/HYPH dependent/JJ ./.
+We/PRP cast/VBD the/DT problem/NN of/IN learning/NN activation/NN -/HYPH dependent/JJ dropout/NN policies/NNS for/IN blocks/NNS of/IN units/NNS as/IN a/DT reinforcement/NN learning/VBG problem/NN ./.
+We/PRP propose/VBP a/DT learning/NN scheme/NN motivated/VBN by/IN computation/NN speed/NN ,/, capturing/VBG the/DT idea/NN of/IN wanting/VBG to/TO have/VB parsimonious/JJ activations/NNS while/IN maintaining/VBG prediction/NN accuracy/NN ./.
+We/PRP apply/VBP a/DT policy/NN gradient/NN algorithm/NN for/IN learning/VBG policies/NNS that/WDT optimize/VBP this/DT loss/NN function/NN and/CC propose/VB a/DT regularization/NN mechanism/NN that/WDT encourages/VBZ diversification/NN of/IN the/DT dropout/NN policy/NN ./.
+We/PRP present/VBP encouraging/VBG empirical/JJ results/NNS showing/VBG that/IN this/DT approach/NN improves/VBZ the/DT speed/NN of/IN computation/NN without/IN impacting/VBG the/DT quality/NN of/IN the/DT approximation/NN ./.

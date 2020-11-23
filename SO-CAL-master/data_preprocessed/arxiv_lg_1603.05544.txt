@@ -1,0 +1,14 @@
+SGD/NNP is/VBZ the/DT widely/RB adopted/VBN method/NN to/TO train/VB CNN/NNP ./.
+Conceptually/RB it/PRP approximates/VBZ the/DT population/NN with/IN a/DT randomly/RB sampled/VBN batch/NN ;/: then/RB it/PRP evenly/RB trains/VBZ batches/NNS by/IN conducting/VBG a/DT gradient/NN update/NN on/IN every/DT batch/NN in/IN an/DT epoch/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP demonstrate/VBP Sampling/VBG Bias/NNP ,/, Intrinsic/JJ Image/NN Difference/NN and/CC Fixed/VBN Cycle/NN Pseudo/NNP Random/NNP Sampling/NNP differentiate/VBP batches/NNS in/IN training/NN ,/, which/WDT then/RB affect/VBP learning/VBG speeds/NNS on/IN them/PRP ./.
+Because/IN of/IN this/DT ,/, the/DT unbiased/JJ treatment/NN of/IN batches/NNS involved/VBN in/IN SGD/NNP creates/VBZ improper/JJ load/NN balancing/NN ./.
+To/TO address/VB this/DT issue/NN ,/, we/PRP present/VBP Inconsistent/NNP Stochastic/NNP Gradient/NNP Descent/NNP (/-LRB- ISGD/NNP )/-RRB- to/IN dynamically/RB vary/VBP training/NN effort/NN according/VBG to/IN learning/VBG statuses/NNS on/IN batches/NNS ./.
+Specifically/RB ISGD/NNP leverages/VBZ techniques/NNS in/IN Statistical/JJ Process/NN Control/NN to/TO identify/VB a/DT undertrained/JJ batch/NN ./.
+Once/IN a/DT batch/NN is/VBZ undertrained/JJ ,/, ISGD/NNP solves/VBZ a/DT new/JJ subproblem/NN ,/, a/DT chasing/VBG logic/NN plus/CC a/DT conservative/JJ constraint/NN ,/, to/TO accelerate/VB the/DT training/NN on/IN the/DT batch/NN while/IN avoid/NN drastic/JJ parameter/NN changes/NNS ./.
+Extensive/JJ experiments/NNS on/IN a/DT variety/NN of/IN datasets/NNS demonstrate/VBP ISGD/NN converges/VBZ faster/JJR than/IN SGD/NNP ./.
+In/IN training/NN AlexNet/NNP ,/, ISGD/NNP is/VBZ 21.05/CD \/SYM percent/NN faster/RBR than/IN SGD/NNP to/TO reach/VB 56/CD \/SYM percent/NN top1/NN accuracy/NN under/IN the/DT exactly/RB same/JJ experiment/NN setup/NN ./.
+We/PRP also/RB extend/VBP ISGD/NNP to/TO work/VB on/IN multiGPU/NN or/CC heterogeneous/JJ distributed/VBN system/NN based/VBN on/IN data/NNS parallelism/NN ,/, enabling/VBG the/DT batch/NN size/NN to/TO be/VB the/DT key/NN to/IN scalability/NN ./.
+Then/RB we/PRP present/VBP the/DT study/NN of/IN ISGD/NN batch/NN size/NN to/IN the/DT learning/NN rate/NN ,/, parallelism/NN ,/, synchronization/NN cost/NN ,/, system/NN saturation/NN and/CC scalability/NN ./.
+We/PRP conclude/VBP the/DT optimal/JJ ISGD/NN batch/NN size/NN is/VBZ machine/NN dependent/JJ ./.
+Various/JJ experiments/NNS on/IN a/DT multiGPU/NN system/NN validate/VBP our/PRP$ claim/NN ./.
+In/IN particular/JJ ,/, ISGD/NN trains/NNS AlexNet/NNP to/TO 56.3/CD percent/NN top1/NN and/CC 80.1/CD percent/NN top5/NN accuracy/NN in/IN 11.5/CD hours/NNS with/IN 4/CD NVIDIA/NNP TITAN/NNP X/NN at/IN the/DT batch/NN size/NN of/IN 1536/CD ./.

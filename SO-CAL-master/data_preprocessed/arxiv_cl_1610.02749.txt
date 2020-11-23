@@ -1,0 +1,6 @@
+Combinatory/NNP Category/NNP Grammar/NNP (/-LRB- CCG/NN )/-RRB- supertagging/NN is/VBZ a/DT task/NN to/TO assign/VB lexical/JJ categories/NNS to/IN each/DT word/NN in/IN a/DT sentence/NN ./.
+Almost/RB all/DT previous/JJ methods/NNS use/VBP fixed/VBN context/NN window/NN sizes/VBZ as/IN input/NN features/NNS ./.
+However/RB ,/, it/PRP is/VBZ obvious/JJ that/IN different/JJ tags/NNS usually/RB rely/VBP on/IN different/JJ context/NN window/NN sizes/NNS ./.
+These/DT motivate/VBP us/PRP to/TO build/VB a/DT supertagger/NN with/IN a/DT dynamic/JJ window/NN approach/NN ,/, which/WDT can/MD be/VB treated/VBN as/IN an/DT attention/NN mechanism/NN on/IN the/DT local/JJ contexts/NNS ./.
+Applying/VBG dropout/NN on/IN the/DT dynamic/JJ filters/NNS can/MD be/VB seen/VBN as/IN drop/NN on/IN words/NNS directly/RB ,/, which/WDT is/VBZ superior/JJ to/IN the/DT regular/JJ dropout/NN on/IN word/NN embeddings/NNS ./.
+We/PRP use/VBP this/DT approach/NN to/TO demonstrate/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN CCG/NN supertagging/NN performance/NN on/IN the/DT standard/JJ test/NN set/NN ./.

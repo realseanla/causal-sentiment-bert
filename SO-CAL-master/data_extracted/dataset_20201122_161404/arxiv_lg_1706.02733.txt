@@ -1,0 +1,2 @@
+We revisit the \emph{leaderboard problem} introduced by Blum and Hardt (2015) in an effort to reduce overfitting in machine learning benchmarks.
+We show that a randomized version of their Ladder algorithm achieves leaderboard error O(1/n^{0.4}) compared with the previous best rate of O(1/n^{1/3}).

@@ -1,0 +1,3 @@
+We show that the learning sample complexity of a sigmoidal neural network constructed by Sontag (1992) required to achieve a given misclassification error under a fixed purely atomic distribution can grow arbitrarily fast: for any prescribed rate of growth there is an input distribution having this rate as the sample complexity, and the bound is asymptotically tight.
+The rate can be superexponential, a non-recursive function, etc.
+We further observe that Sontag's ANN is not Glivenko-Cantelli under any input distribution having a non-atomic part.

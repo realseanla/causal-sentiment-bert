@@ -1,0 +1,4 @@
+We/PRP consider/VBP regret/NN minimization/NN in/IN repeated/VBN games/NNS with/IN non-convex/JJ loss/NN functions/NNS ./.
+Minimizing/VBG the/DT standard/JJ notion/NN of/IN regret/NN is/VBZ computationally/RB intractable/JJ ./.
+Thus/RB ,/, we/PRP define/VBP a/DT natural/JJ notion/NN of/IN regret/NN which/WDT permits/VBZ efficient/JJ optimization/NN and/CC generalizes/VBZ offline/RB guarantees/NNS for/IN convergence/NN to/IN an/DT approximate/JJ local/JJ optimum/JJ ./.
+We/PRP give/VBP gradient/NN -/HYPH based/VBN methods/NNS that/WDT achieve/VBP optimal/JJ regret/NN ,/, which/WDT in/IN turn/NN guarantee/NN convergence/NN to/IN equilibrium/NN in/IN this/DT framework/NN ./.

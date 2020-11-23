@@ -1,0 +1,8 @@
+In/IN this/DT work/NN ,/, we/PRP open/VBP up/RP the/DT DAWT/NNP dataset/NN -/HYPH Densely/RB Annotated/VBN Wikipedia/NNP Texts/NNS across/IN multiple/JJ languages/NNS ./.
+The/DT annotations/NNS include/VBP labeled/VBN text/NN mentions/VBZ mapping/NN to/IN entities/NNS (/-LRB- represented/VBN by/IN their/PRP$ Freebase/NN machine/NN ids/NNS )/-RRB- as/RB well/RB as/IN the/DT type/NN of/IN the/DT entity/NN ./.
+The/DT data/NNS set/NN contains/VBZ total/NN of/IN 13.6/CD M/NN articles/NNS ,/, 5.0/CD B/NN tokens/NNS ,/, 13.8/CD M/NN mention/NN entity/NN co-occurrences/NNS ./.
+DAWT/NN contains/VBZ 4.8/CD times/NNS more/JJR anchor/NN text/NN to/IN entity/NN links/NNS than/IN originally/RB present/JJ in/IN the/DT Wikipedia/NNP markup/NN ./.
+Moreover/RB ,/, it/PRP spans/VBZ several/JJ languages/NNS including/VBG English/NNP ,/, Spanish/NNP ,/, Italian/NNP ,/, German/NNP ,/, French/NNP and/CC Arabic/NNP ./.
+We/PRP also/RB present/VBP the/DT methodology/NN used/VBN to/TO generate/VB the/DT dataset/NN which/WDT enriches/VBZ Wikipedia/NNP markup/NN in/IN order/NN to/TO increase/VB number/NN of/IN links/NNS ./.
+In/IN addition/NN to/IN the/DT main/JJ dataset/NN ,/, we/PRP open/VBP up/RP several/JJ derived/VBN datasets/NNS including/VBG mention/NN entity/NN co-occurrence/NN counts/NNS and/CC entity/NN embeddings/NNS ,/, as/RB well/RB as/IN mappings/NNS between/IN Freebase/NN ids/NNS and/CC Wikidata/NNP item/NN ids/NNS ./.
+We/PRP also/RB discuss/VBP two/CD applications/NNS of/IN these/DT datasets/NNS and/CC hope/VBP that/IN opening/VBG them/PRP up/RP would/MD prove/VB useful/JJ for/IN the/DT Natural/NNP Language/NNP Processing/NNP and/CC Information/NNP Retrieval/NNP communities/NNS ,/, as/RB well/RB as/IN facilitate/VB multi-lingual/JJ research/NN ./.

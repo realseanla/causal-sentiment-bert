@@ -1,0 +1,8 @@
+We/PRP view/VBP the/DT syntax/NN -/HYPH based/VBN approaches/NNS to/IN default/NN reasoning/NN as/IN a/DT model/NN -/HYPH based/VBN diagnosis/NN problem/NN ,/, where/WRB each/DT source/NN giving/VBG a/DT piece/NN of/IN information/NN is/VBZ considered/VBN as/IN a/DT component/NN ./.
+It/PRP is/VBZ formalized/VBN in/IN the/DT ATMS/NNP framework/NN (/-LRB- each/DT source/NN corresponds/VBZ to/IN an/DT assumption/NN )/-RRB- ./.
+We/PRP assume/VBP then/RB that/IN all/DT sources/NNS are/VBP independent/JJ and/CC "/`` fail/VB "/'' with/IN a/DT very/RB small/JJ probability/NN ./.
+This/DT leads/VBZ to/IN a/DT probability/NN assignment/NN on/IN the/DT set/NN of/IN candidates/NNS ,/, or/CC equivalently/RB on/IN the/DT set/NN of/IN consistent/JJ environments/NNS ./.
+This/DT probability/NN assignment/NN induces/VBZ a/DT Dempster/NNP -/HYPH Shafer/NNP belief/NN function/NN which/WDT measures/VBZ the/DT probability/NN that/IN a/DT proposition/NN can/MD be/VB deduced/VBN from/IN the/DT evidence/NN ./.
+This/DT belief/NN function/NN can/MD be/VB used/VBN in/IN several/JJ different/JJ ways/NNS to/TO define/VB a/DT non-monotonic/JJ consequence/NN relation/NN ./.
+We/PRP study/VBP and/CC compare/VBP these/DT consequence/NN relations/NNS ./.
+The/DT -/HYPH case/NN of/IN prioritized/VBN knowledge/NN bases/NNS is/VBZ briefly/RB considered/VBN ./.

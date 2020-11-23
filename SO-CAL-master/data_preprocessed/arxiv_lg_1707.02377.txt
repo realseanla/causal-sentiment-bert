@@ -1,0 +1,9 @@
+We/PRP present/VBP an/DT efficient/JJ document/NN representation/NN learning/NN framework/NN ,/, Document/NNP Vector/NNP through/IN Corruption/NNP (/-LRB- Doc2VecC/NN )/-RRB- ./.
+Doc2VecC/NN represents/VBZ each/DT document/NN as/IN a/DT simple/JJ average/NN of/IN word/NN embeddings/NNS ./.
+It/PRP ensures/VBZ a/DT representation/NN generated/VBN as/IN such/JJ captures/VBZ the/DT semantic/JJ meanings/NNS of/IN the/DT document/NN during/IN learning/NN ./.
+A/DT corruption/NN model/NN is/VBZ included/VBN ,/, which/WDT introduces/VBZ a/DT data/NN -/HYPH dependent/JJ regularization/NN that/WDT favors/VBZ informative/JJ or/CC rare/JJ words/NNS while/IN forcing/VBG the/DT embeddings/NNS of/IN common/JJ and/CC non-discriminative/JJ ones/NNS to/TO be/VB close/JJ to/IN zero/CD ./.
+Doc2VecC/NN produces/VBZ significantly/RB better/JJR word/NN embeddings/NNS than/IN Word2Vec/NN ./.
+We/PRP compare/VBP Doc2VecC/NN with/IN several/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN document/NN representation/NN learning/NN algorithms/NNS ./.
+The/DT simple/JJ model/NN architecture/NN introduced/VBN by/IN Doc2VecC/NN matches/NNS or/CC out/RB -/HYPH performs/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN generating/VBG high/JJ -/HYPH quality/NN document/NN representations/NNS for/IN sentiment/NN analysis/NN ,/, document/NN classification/NN as/RB well/RB as/IN semantic/JJ relatedness/NN tasks/NNS ./.
+The/DT simplicity/NN of/IN the/DT model/NN enables/VBZ training/NN on/IN billions/NNS of/IN words/NNS per/IN hour/NN on/IN a/DT single/JJ machine/NN ./.
+At/IN the/DT same/JJ time/NN ,/, the/DT model/NN is/VBZ very/RB efficient/JJ in/IN generating/VBG representations/NNS of/IN unseen/JJ documents/NNS at/IN test/NN time/NN ./.

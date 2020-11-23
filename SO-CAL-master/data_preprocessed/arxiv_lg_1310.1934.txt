@@ -1,0 +1,5 @@
+Representing/VBG examples/NNS in/IN a/DT way/NN that/WDT is/VBZ compatible/JJ with/IN the/DT underlying/VBG classifier/NN can/MD greatly/RB enhance/VB the/DT performance/NN of/IN a/DT learning/NN system/NN ./.
+In/IN this/DT paper/NN we/PRP investigate/VBP scalable/JJ techniques/NNS for/IN inducing/VBG discriminative/JJ features/NNS by/IN taking/VBG advantage/NN of/IN simple/JJ second/JJ order/NN structure/NN in/IN the/DT data/NNS ./.
+We/PRP focus/VBP on/IN multiclass/NN classification/NN and/CC show/VBP that/IN features/NNS extracted/VBN from/IN the/DT generalized/VBN eigenvectors/NNS of/IN the/DT class/NN conditional/JJ second/JJ moments/NNS lead/VBP to/IN classifiers/NNS with/IN excellent/JJ empirical/JJ performance/NN ./.
+Moreover/RB ,/, these/DT features/NNS have/VBP attractive/JJ theoretical/JJ properties/NNS ,/, such/JJ as/IN inducing/VBG representations/NNS that/WDT are/VBP invariant/JJ to/IN linear/JJ transformations/NNS of/IN the/DT input/NN ./.
+We/PRP evaluate/VBP classifiers/NNS built/VBN from/IN these/DT features/NNS on/IN three/CD different/JJ tasks/NNS ,/, obtaining/VBG state/NN of/IN the/DT art/NN results/NNS ./.

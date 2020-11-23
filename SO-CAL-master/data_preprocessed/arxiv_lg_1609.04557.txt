@@ -1,0 +1,8 @@
+Many/JJ success/NN stories/NNS involving/VBG deep/JJ neural/JJ networks/NNS are/VBP instances/NNS of/IN supervised/JJ learning/NN ,/, where/WRB available/JJ labels/NNS power/NN gradient/NN -/HYPH based/VBN learning/NN methods/NNS ./.
+Creating/VBG such/JJ labels/NNS ,/, however/RB ,/, can/MD be/VB expensive/JJ and/CC thus/RB there/EX is/VBZ increasing/VBG interest/NN in/IN weak/JJ labels/NNS which/WDT only/RB provide/VBP coarse/JJ information/NN ,/, with/IN uncertainty/NN regarding/VBG time/NN ,/, location/NN or/CC value/NN ./.
+Using/VBG such/JJ labels/NNS often/RB leads/VBZ to/IN considerable/JJ challenges/NNS for/IN the/DT learning/NN process/NN ./.
+Current/JJ methods/NNS for/IN weak/JJ -/HYPH label/NN training/NN often/RB employ/VBP standard/JJ supervised/JJ approaches/NNS that/WDT additionally/RB reassign/VBP or/CC prune/VBP labels/NNS during/IN the/DT learning/NN process/NN ./.
+The/DT information/NN gain/NN ,/, however/RB ,/, is/VBZ often/RB limited/VBN as/IN only/RB the/DT importance/NN of/IN labels/NNS where/WRB the/DT network/NN already/RB yields/VBZ reasonable/JJ results/NNS is/VBZ boosted/VBN ./.
+We/PRP propose/VBP treating/VBG weak/JJ -/HYPH label/NN training/NN as/IN an/DT unsupervised/JJ problem/NN and/CC use/VB the/DT labels/NNS to/TO guide/VB the/DT representation/NN learning/NN to/TO induce/VB structure/NN ./.
+To/IN this/DT end/NN ,/, we/PRP propose/VBP two/CD autoencoder/NN extensions/NNS :/: class/NN activity/NN penalties/NNS and/CC structured/VBN dropout/NN ./.
+We/PRP demonstrate/VBP the/DT capabilities/NNS of/IN our/PRP$ approach/NN in/IN the/DT context/NN of/IN score/NN -/HYPH informed/VBN source/NN separation/NN of/IN music/NN ./.

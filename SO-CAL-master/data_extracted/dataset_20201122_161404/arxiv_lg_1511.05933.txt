@@ -1,0 +1,8 @@
+K-means is one of the most widely used algorithms for clustering in Data Mining applications, which attempts to minimize the sum of square of Euclidean distance of the points in the clusters from the respective means of the clusters.
+The simplicity and scalability of K-means makes it very appealing.
+However, K-means suffers from local minima problem, and comes with no guarantee to converge to the optimal cost.
+K-means++ tries to address the problem by seeding the means using a distance based sampling scheme.
+However, seeding the means in K-means++ needs O(K) passes through the entire dataset, which could be very costly in large amount of dataset.
+Here we propose a method of seeding initial means based on higher order moments of the data, which takes O(1) passes through the entire dataset to extract the initial set of means.
+Our method yields competitive performance with respect to all the existing K-means algorithms, whilst avoiding the expensive mean selection steps of K-means++ and other heuristics.
+We demonstrate the performance of our algorithm in comparison with the existing algorithms on various benchmark datasets.

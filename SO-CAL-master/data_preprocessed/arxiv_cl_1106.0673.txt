@@ -1,0 +1,8 @@
+This/DT paper/NN presents/VBZ an/DT algorithm/NN for/IN identifying/VBG noun/NN -/HYPH phrase/NN antecedents/NNS of/IN pronouns/NNS and/CC adjectival/JJ anaphors/NNS in/IN Spanish/JJ dialogues/NNS ./.
+We/PRP believe/VBP that/IN anaphora/NN resolution/NN requires/VBZ numerous/JJ sources/NNS of/IN information/NN in/IN order/NN to/TO find/VB the/DT correct/JJ antecedent/NN of/IN the/DT anaphor/NN ./.
+These/DT sources/NNS can/MD be/VB of/IN different/JJ kinds/NNS ,/, e.g./FW ,/, linguistic/JJ information/NN ,/, discourse/NN //HYPH dialogue/NN structure/NN information/NN ,/, or/CC topic/NN information/NN ./.
+For/IN this/DT reason/NN ,/, our/PRP$ algorithm/NN uses/VBZ various/JJ different/JJ kinds/NNS of/IN information/NN (/-LRB- hybrid/NN information/NN )/-RRB- ./.
+The/DT algorithm/NN is/VBZ based/VBN on/IN linguistic/JJ constraints/NNS and/CC preferences/NNS and/CC uses/VBZ an/DT anaphoric/JJ accessibility/NN space/NN within/IN which/WDT the/DT algorithm/NN finds/VBZ the/DT noun/NN phrase/NN ./.
+We/PRP present/VBP some/DT experiments/NNS related/VBN to/IN this/DT algorithm/NN and/CC this/DT space/NN using/VBG a/DT corpus/NN of/IN 204/CD dialogues/NNS ./.
+The/DT algorithm/NN is/VBZ implemented/VBN in/IN Prolog/NNP ./.
+According/VBG to/IN this/DT study/NN ,/, 95.9/CD percent/NN of/IN antecedents/NNS were/VBD located/VBN in/IN the/DT proposed/VBN space/NN ,/, a/DT precision/NN of/IN 81.3/CD percent/NN was/VBD obtained/VBN for/IN pronominal/JJ anaphora/NN resolution/NN ,/, and/CC 81.5/CD percent/NN for/IN adjectival/JJ anaphora/NNS ./.

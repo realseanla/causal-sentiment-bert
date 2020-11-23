@@ -1,0 +1,7 @@
+In/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN Neural/JJ Machine/NN Translation/NN ,/, an/DT attention/NN mechanism/NN is/VBZ used/VBN during/IN decoding/NN to/TO enhance/VB the/DT translation/NN ./.
+At/IN every/DT step/NN ,/, the/DT decoder/NN uses/VBZ this/DT mechanism/NN to/TO focus/VB on/IN different/JJ parts/NNS of/IN the/DT source/NN sentence/NN to/TO gather/VB the/DT most/RBS useful/JJ information/NN before/IN outputting/VBG its/PRP$ target/NN word/NN ./.
+Recently/RB ,/, the/DT effectiveness/NN of/IN the/DT attention/NN mechanism/NN has/VBZ also/RB been/VBN explored/VBN for/IN multimodal/JJ tasks/NNS ,/, where/WRB it/PRP becomes/VBZ possible/JJ to/TO focus/VB both/DT on/IN sentence/NN parts/NNS and/CC image/NN regions/NNS ./.
+Approaches/NNS to/IN pool/NN two/CD modalities/NNS usually/RB include/VBP element-wise/JJ product/NN ,/, sum/NN or/CC concatenation/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP evaluate/VBP the/DT more/RBR advanced/JJ Multimodal/NNP Compact/NNP Bilinear/NNP pooling/VBG method/NN ,/, which/WDT takes/VBZ the/DT outer/JJ product/NN of/IN two/CD vectors/NNS to/TO combine/VB the/DT attention/NN features/VBZ for/IN the/DT two/CD modalities/NNS ./.
+This/DT has/VBZ been/VBN previously/RB investigated/VBN for/IN visual/JJ question/NN answering/VBG ./.
+We/PRP try/VBP out/RP this/DT approach/NN for/IN multimodal/JJ image/NN caption/NN translation/NN and/CC show/NN improvements/NNS compared/VBN to/IN basic/JJ combination/NN methods/NNS ./.

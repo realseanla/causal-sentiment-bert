@@ -1,0 +1,16 @@
+Adaptive/JJ networks/NNS are/VBP well/RB -/HYPH suited/VBN to/TO perform/VB decentralized/JJ information/NN processing/NN and/CC optimization/NN tasks/NNS and/CC to/TO model/VB various/JJ types/NNS of/IN self/NN organized/VBN and/CC complex/JJ behavior/NN encountered/VBD in/IN nature/NN ./.
+Adaptive/JJ networks/NNS consist/VBP of/IN a/DT collection/NN of/IN agents/NNS with/IN processing/NN and/CC learning/NN abilities/NNS ./.
+The/DT agents/NNS are/VBP linked/VBN together/RB through/IN a/DT connection/NN topology/NN ,/, and/CC they/PRP cooperate/VBP with/IN each/DT other/JJ through/IN local/JJ interactions/NNS to/TO solve/VB distributed/VBN inference/NN problems/NNS in/IN real/JJ -/HYPH time/NN ./.
+The/DT continuous/JJ diffusion/NN of/IN information/NN across/IN the/DT network/NN enables/VBZ agents/NNS to/TO adapt/VB their/PRP$ performance/NN in/IN relation/NN to/IN changing/VBG data/NNS and/CC network/NN conditions/NNS ;/: it/PRP also/RB results/VBZ in/IN improved/VBN adaptation/NN and/CC learning/NN performance/NN relative/JJ to/IN non-cooperative/JJ networks/NNS ./.
+This/DT article/NN provides/VBZ an/DT overview/NN of/IN diffusion/NN strategies/NNS for/IN adaptation/NN and/CC learning/NN over/IN networks/NNS ./.
+The/DT article/NN is/VBZ divided/VBN into/IN several/JJ sections/NNS :/: 1/LS ./.
+Motivation/NN ;/: 2/LS ./.
+Mean/NNP -/HYPH Square/NNP -/HYPH Error/NNP Estimation/NN ;/: 3/LS ./.
+Distributed/VBN Optimization/NN via/IN Diffusion/NN Strategies/NNS ;/: 4/LS ./.
+Adaptive/JJ Diffusion/NN Strategies/NNS ;/: 5/CD ./.
+Performance/NN of/IN Steepest/NNP -/HYPH Descent/NNP Diffusion/NN Strategies/NNS ;/: 6/CD ./.
+Performance/NN of/IN Adaptive/JJ Diffusion/NN Strategies/NNS ;/: 7/CD ./.
+Comparing/VBG the/DT Performance/NN of/IN Cooperative/NNP Strategies/NNP ;/: 8/CD ./.
+Selecting/VBG the/DT Combination/NN Weights/NNS ;/: 9/CD ./.
+Diffusion/NN with/IN Noisy/JJ Information/NN Exchanges/NNS ;/: 10/CD ./.
+Extensions/NNS and/CC Further/JJ Considerations/NNS ;/: Appendix/NN A/NN :/: Properties/NNP of/IN Kronecker/NNP Products/NNPS ;/: Appendix/NN B/NN :/: Graph/NNP Laplacian/NNP and/CC Network/NNP Connectivity/NNP ;/: Appendix/NN C/NN :/: Stochastic/JJ Matrices/NNPS ;/: Appendix/NN D/NN :/: Block/NNP Maximum/NNP Norm/NNP ;/: Appendix/NN E/NN :/: Comparison/NN with/IN Consensus/NNP Strategies/NNS ;/: References/NNS ./.

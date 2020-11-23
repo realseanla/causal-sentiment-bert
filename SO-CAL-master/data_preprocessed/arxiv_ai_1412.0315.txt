@@ -1,0 +1,10 @@
+Lifted/VBN probabilistic/JJ inference/NN algorithms/NNS have/VBP been/VBN successfully/RB applied/VBN to/IN a/DT large/JJ number/NN of/IN symmetric/JJ graphical/JJ models/NNS ./.
+Unfortunately/RB ,/, the/DT majority/NN of/IN real/JJ -/HYPH world/NN graphical/NN models/NNS is/VBZ asymmetric/JJ ./.
+This/DT is/VBZ even/RB the/DT case/NN for/IN relational/JJ representations/NNS when/WRB evidence/NN is/VBZ given/VBN ./.
+Therefore/RB ,/, more/RBR recent/JJ work/NN in/IN the/DT community/NN moved/VBD to/IN making/VBG the/DT models/NNS symmetric/JJ and/CC then/RB applying/VBG existing/VBG lifted/VBN inference/NN algorithms/NNS ./.
+However/RB ,/, this/DT approach/NN has/VBZ two/CD shortcomings/NNS ./.
+First/RB ,/, all/DT existing/VBG over-symmetric/JJ approximations/NNS require/VBP a/DT relational/JJ representation/NN such/JJ as/IN Markov/NNP logic/NN networks/NNS ./.
+Second/RB ,/, the/DT induced/VBN symmetries/NNS often/RB change/VBP the/DT distribution/NN significantly/RB ,/, making/VBG the/DT computed/VBN probabilities/NNS highly/RB biased/JJ ./.
+We/PRP present/VBP a/DT framework/NN for/IN probabilistic/JJ sampling/NN -/HYPH based/VBN inference/NN that/WDT only/RB uses/VBZ the/DT induced/VBN approximate/JJ symmetries/NNS to/TO propose/VB steps/NNS in/IN a/DT Metropolis/NNP -/HYPH Hastings/NNP style/NN Markov/NNP chain/NN ./.
+The/DT framework/NN ,/, therefore/RB ,/, leads/VBZ to/IN improved/VBN probability/NN estimates/NNS while/IN remaining/VBG unbiased/JJ ./.
+Experiments/NNS demonstrate/VBP that/IN the/DT approach/NN outperforms/VBZ existing/VBG MCMC/NNP algorithms/NNS ./.

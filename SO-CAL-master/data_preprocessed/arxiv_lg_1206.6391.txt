@@ -1,0 +1,5 @@
+Direct/JJ quantile/NN regression/NN involves/VBZ estimating/VBG a/DT given/VBN quantile/NN of/IN a/DT response/NN variable/NN as/IN a/DT function/NN of/IN input/NN variables/NNS ./.
+We/PRP present/VBP a/DT new/JJ framework/NN for/IN direct/JJ quantile/JJ regression/NN where/WRB a/DT Gaussian/JJ process/NN model/NN is/VBZ learned/VBN ,/, minimising/VBG the/DT expected/VBN tilted/JJ loss/NN function/NN ./.
+The/DT integration/NN required/VBN in/IN learning/NN is/VBZ not/RB analytically/RB tractable/JJ so/RB to/IN speed/NN up/IN the/DT learning/NN we/PRP employ/VBP the/DT Expectation/NNP Propagation/NNP algorithm/NN ./.
+We/PRP describe/VBP how/WRB this/DT work/NN relates/VBZ to/IN other/JJ quantile/JJ regression/NN methods/NNS and/CC apply/VB the/DT method/NN on/IN both/DT synthetic/JJ and/CC real/JJ data/NNS sets/NNS ./.
+The/DT method/NN is/VBZ shown/VBN to/TO be/VB competitive/JJ with/IN state/NN of/IN the/DT art/NN methods/NNS whilst/IN allowing/VBG for/IN the/DT leverage/NN of/IN the/DT full/JJ Gaussian/JJ process/NN probabilistic/JJ framework/NN ./.

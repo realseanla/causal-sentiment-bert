@@ -1,0 +1,6 @@
+This/DT paper/NN focuses/VBZ on/IN style/NN transfer/NN on/IN the/DT basis/NN of/IN non-parallel/JJ text/NN ./.
+This/DT is/VBZ an/DT instance/NN of/IN a/DT broader/JJR family/NN of/IN problems/NNS including/VBG machine/NN translation/NN ,/, decipherment/NN ,/, and/CC sentiment/NN modification/NN ./.
+The/DT key/JJ technical/JJ challenge/NN is/VBZ to/TO separate/VB the/DT content/NN from/IN desired/VBN text/NN characteristics/NNS such/JJ as/IN sentiment/NN ./.
+We/PRP leverage/VBP refined/JJ alignment/NN of/IN latent/JJ representations/NNS across/IN mono/NN -/HYPH lingual/NN text/NN corpora/NNS with/IN different/JJ characteristics/NNS ./.
+We/PRP deliberately/RB modify/VBP encoded/VBN examples/NNS according/VBG to/IN their/PRP$ characteristics/NNS ,/, requiring/VBG the/DT reproduced/VBD instances/NNS to/TO match/VB available/JJ examples/NNS with/IN the/DT altered/JJ characteristics/NNS as/IN a/DT population/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN this/DT cross-alignment/JJ method/NN on/IN three/CD tasks/NNS :/: sentiment/NN modification/NN ,/, decipherment/NN of/IN word/NN substitution/NN ciphers/NNS ,/, and/CC recovery/NN of/IN word/NN order/NN ./.

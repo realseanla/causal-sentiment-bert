@@ -1,0 +1,2 @@
+We consider the fundamental problem in non-convex optimization of efficiently reaching a stationary point.
+In contrast to the convex case, in the long history of this basic problem, the only known theoretical results on first-order non-convex optimization remain to be full gradient descent that converges in $O(1/\varepsilon)$ iterations for smooth objectives, and stochastic gradient descent that converges in $O(1/\varepsilon^2)$ iterations for objectives that are sum of smooth functions.

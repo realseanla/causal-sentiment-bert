@@ -1,0 +1,8 @@
+Data clustering is a technique for clustering set of objects into known number of groups.
+Several approaches are widely applied to data clustering so that objects within the clusters are similar and objects in different clusters are far away from each other.
+K-Means, is one of the familiar center based clustering algorithms since implementation is very easy and fast convergence.
+However, K-Means algorithm suffers from initialization, hence trapped in local optima.
+Flower Pollination Algorithm (FPA) is the global optimization technique, which avoids trapping in local optimum solution.
+In this paper, a novel hybrid data clustering approach using Flower Pollination Algorithm and K-Means (FPAKM) is proposed.
+The proposed algorithm results are compared with K-Means and FPA on eight datasets.
+From the experimental results, FPAKM is better than FPA and K-Means.

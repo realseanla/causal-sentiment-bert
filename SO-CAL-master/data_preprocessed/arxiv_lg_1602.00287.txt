@@ -1,0 +1,10 @@
+High/JJ dimensional/JJ nonparametric/JJ regression/NN is/VBZ an/DT inherently/RB difficult/JJ problem/NN with/IN known/VBN lower/JJR bounds/NNS depending/VBG exponentially/RB in/IN dimension/NN ./.
+A/DT popular/JJ strategy/NN to/TO alleviate/VB this/DT curse/NN of/IN dimensionality/NN has/VBZ been/VBN to/TO use/VB additive/JJ models/NNS of/IN \/SYM emph/NN {/-LRB- first/JJ order/NN }/-RRB- ,/, which/WDT model/VBP the/DT regression/NN function/NN as/IN a/DT sum/NN of/IN independent/JJ functions/NNS on/IN each/DT dimension/NN ./.
+Though/IN useful/JJ in/IN controlling/VBG the/DT variance/NN of/IN the/DT estimate/NN ,/, such/JJ models/NNS are/VBP often/RB too/RB restrictive/JJ in/IN practical/JJ settings/NNS ./.
+Between/IN non-additive/JJ models/NNS which/WDT often/RB have/VBP large/JJ variance/NN and/CC first/JJ order/NN additive/JJ models/NNS which/WDT have/VBP large/JJ bias/NN ,/, there/EX has/VBZ been/VBN little/JJ work/NN to/TO exploit/VB the/DT trade/NN -/HYPH off/NN in/IN the/DT middle/JJ via/IN additive/JJ models/NNS of/IN intermediate/JJ order/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP SALSA/NNP ,/, which/WDT bridges/VBZ this/DT gap/NN by/IN allowing/VBG interactions/NNS between/IN variables/NNS ,/, but/CC controls/VBZ model/NN capacity/NN by/IN limiting/VBG the/DT order/NN of/IN interactions/NNS ./.
+SALSA/NN minimises/VBZ the/DT residual/JJ sum/NN of/IN squares/NNS with/IN squared/VBN RKHS/NN norm/NN penalties/NNS ./.
+Algorithmically/RB ,/, it/PRP can/MD be/VB viewed/VBN as/IN Kernel/NNP Ridge/NNP Regression/NN with/IN an/DT additive/JJ kernel/NN ./.
+When/WRB the/DT regression/NN function/NN is/VBZ additive/JJ ,/, the/DT excess/JJ risk/NN is/VBZ only/RB polynomial/JJ in/IN dimension/NN ./.
+Using/VBG the/DT Girard/NNP -/HYPH Newton/NNP formulae/NNS ,/, we/PRP efficiently/RB sum/VBP over/IN a/DT combinatorial/JJ number/NN of/IN terms/NNS in/IN the/DT additive/JJ expansion/NN ./.
+Via/NNP a/DT comparison/NN on/IN $/$ 16/CD $/$ real/JJ datasets/NNS ,/, we/PRP show/VBP that/IN our/PRP$ method/NN is/VBZ competitive/JJ against/IN $/$ 21/CD $/$ other/JJ alternatives/NNS ./.

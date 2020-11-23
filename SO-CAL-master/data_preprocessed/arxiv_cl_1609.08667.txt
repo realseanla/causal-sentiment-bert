@@ -1,0 +1,4 @@
+Coreference/NN resolution/NN systems/NNS are/VBP typically/RB trained/VBN with/IN heuristic/NN loss/NN functions/VBZ that/IN require/VB careful/JJ tuning/NN ./.
+In/IN this/DT paper/NN we/PRP instead/RB apply/VBP reinforcement/NN learning/VBG to/TO directly/RB optimize/VB a/DT neural/JJ mention/NN -/HYPH ranking/VBG model/NN for/IN coreference/NN evaluation/NN metrics/NNS ./.
+We/PRP experiment/VBP with/IN two/CD approaches/NNS :/: the/DT REINFORCE/NN policy/NN gradient/NN algorithm/NN and/CC a/DT reward/NN -/HYPH rescaled/VBN max/NN -/HYPH margin/NN objective/NN ./.
+We/PRP find/VBP the/DT latter/JJ to/TO be/VB more/RBR effective/JJ ,/, resulting/VBG in/IN significant/JJ improvements/NNS over/IN the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN on/IN the/DT English/NNP and/CC Chinese/NNP portions/NNS of/IN the/DT CoNLL/NNP 2012/CD Shared/NNP Task/NNP ./.

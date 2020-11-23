@@ -1,0 +1,12 @@
+The/DT composition/NN of/IN polyphonic/JJ chorale/JJ music/NN in/IN the/DT style/NN of/IN J.S/NNP Bach/NNP has/VBZ represented/VBN a/DT major/JJ challenge/NN in/IN automatic/JJ music/NN composition/NN over/IN the/DT last/JJ decades/NNS ./.
+The/DT art/NN of/IN Bach/NNP chorales/VBZ composition/NN involves/VBZ combining/VBG four/CD -/HYPH part/NN harmony/NN with/IN characteristic/JJ rhythmic/JJ patterns/NNS and/CC typical/JJ melodic/JJ movements/NNS to/TO produce/VB musical/JJ phrases/NNS which/WDT begin/VBP ,/, evolve/VB and/CC end/VB (/-LRB- cadences/NNS )/-RRB- in/IN a/DT harmonious/JJ way/NN ./.
+To/IN our/PRP$ knowledge/NN ,/, no/DT model/NN so/RB far/RB was/VBD able/JJ to/TO solve/VB all/PDT these/DT problems/NNS simultaneously/RB using/VBG an/DT agnostic/JJ machine/NN -/HYPH learning/NN approach/NN ./.
+This/DT paper/NN introduces/VBZ DeepBach/NNP ,/, a/DT statistical/JJ model/NN aimed/VBN at/IN modeling/NN polyphonic/JJ music/NN and/CC specifically/RB four/CD parts/NNS ,/, hymn/NN -/HYPH like/JJ pieces/NNS ./.
+We/PRP claim/VBP that/IN ,/, after/IN being/VBG trained/VBN on/IN the/DT chorale/NN harmonizations/NNS by/IN Johann/NNP Sebastian/NNP Bach/NNP ,/, our/PRP$ model/NN is/VBZ capable/JJ of/IN generating/VBG highly/RB convincing/JJ chorales/NNS in/IN the/DT style/NN of/IN Bach/NNP ./.
+We/PRP evaluate/VBP how/WRB indistinguishable/JJ our/PRP$ generated/VBN chorales/NNS are/VBP from/IN existing/VBG Bach/NNP chorales/NNS with/IN a/DT listening/NN test/NN ./.
+The/DT results/NNS corroborate/VBP our/PRP$ claim/NN ./.
+A/DT key/JJ strength/NN of/IN DeepBach/NNP is/VBZ that/IN it/PRP is/VBZ agnostic/JJ and/CC flexible/JJ ./.
+Users/NNS can/MD constrain/VB the/DT generation/NN by/IN imposing/VBG some/DT notes/NNS ,/, rhythms/NNS or/CC cadences/NNS in/IN the/DT generated/VBN score/NN ./.
+This/DT allows/VBZ users/NNS to/TO reharmonize/VB user/NN -/HYPH defined/VBN melodies/NNS ./.
+DeepBach/NNP 's/POS generation/NN is/VBZ fast/RB ,/, making/VBG it/PRP usable/JJ for/IN interactive/JJ music/NN composition/NN applications/NNS ./.
+Several/JJ generation/NN examples/NNS are/VBP provided/VBN and/CC discussed/VBN from/IN a/DT musical/JJ point/NN of/IN view/NN ./.

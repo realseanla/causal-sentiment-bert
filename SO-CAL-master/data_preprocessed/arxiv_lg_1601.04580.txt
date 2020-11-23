@@ -1,0 +1,6 @@
+News/NNP events/NNS and/CC social/JJ media/NNS are/VBP composed/VBN of/IN evolving/VBG storylines/NNS ,/, which/WDT capture/VBP public/JJ attention/NN for/IN a/DT limited/JJ period/NN of/IN time/NN ./.
+Identifying/VBG these/DT storylines/NNS would/MD enable/VB many/JJ high/JJ -/HYPH impact/NN applications/NNS ,/, such/JJ as/IN tracking/VBG public/JJ interest/NN and/CC opinion/NN in/IN ongoing/JJ crisis/NN events/NNS ./.
+However/RB ,/, this/DT requires/VBZ integrating/VBG temporal/JJ and/CC linguistic/JJ information/NN ,/, and/CC prior/JJ work/NN takes/VBZ a/DT largely/RB heuristic/NN approach/NN ./.
+We/PRP present/VBP a/DT novel/JJ online/JJ non-parametric/JJ Bayesian/JJ framework/NN for/IN storyline/NN detection/NN ,/, using/VBG the/DT distance/NN -/HYPH dependent/JJ Chinese/JJ Restaurant/NNP Process/NN (/-LRB- dd/NN -/HYPH CRP/NN )/-RRB- ./.
+To/TO ensure/VB efficient/JJ linear/JJ -/HYPH time/NN inference/NN ,/, we/PRP employ/VBP a/DT fixed/VBN -/HYPH lag/NN Gibbs/NNP sampling/NN procedure/NN ,/, which/WDT is/VBZ novel/JJ for/IN the/DT dd/NN -/HYPH CRP/NN ./.
+We/PRP evaluate/VBP our/PRP$ baseline/NN and/CC proposed/VBN models/NNS on/IN the/DT TREC/NNP Twitter/NNP Timeline/NNP Generation/NNP task/NN and/CC show/VBP strong/JJ results/NNS ./.

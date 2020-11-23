@@ -1,0 +1,6 @@
+We/PRP describe/VBP an/DT approach/NN to/TO incorporate/VB diversity/NN into/IN spectral/JJ learning/NN of/IN latent/NN -/HYPH variable/JJ PCFGs/NNS (/-LRB- L/NN -/HYPH PCFGs/NN )/-RRB- ./.
+Our/PRP$ approach/NN works/VBZ by/IN creating/VBG multiple/JJ spectral/JJ models/NNS where/WRB noise/NN is/VBZ added/VBN to/IN the/DT underlying/VBG features/NNS in/IN the/DT training/NN set/VBN before/IN the/DT estimation/NN of/IN each/DT model/NN ./.
+We/PRP describe/VBP three/CD ways/NNS to/TO decode/VB with/IN multiple/JJ models/NNS ./.
+In/IN addition/NN ,/, we/PRP describe/VBP a/DT simple/JJ variant/NN of/IN the/DT spectral/JJ algorithm/NN for/IN L/NN -/HYPH PCFGs/NNS that/WDT is/VBZ fast/JJ and/CC leads/VBZ to/IN compact/JJ models/NNS ./.
+Our/PRP$ experiments/NNS for/IN natural/JJ language/NN parsing/VBG ,/, for/IN English/NNP and/CC German/NNP ,/, show/VBP that/IN we/PRP get/VBP a/DT significant/JJ improvement/NN over/IN baselines/NNS comparable/JJ to/IN state/NN of/IN the/DT art/NN ./.
+For/IN English/NNP ,/, we/PRP achieve/VBP the/DT $/$ F_1/CD $/$ score/NN of/IN 90.18/CD ,/, and/CC for/IN German/JJ we/PRP achieve/VBP the/DT $/$ F_1/CD $/$ score/NN of/IN 83.38/CD ./.

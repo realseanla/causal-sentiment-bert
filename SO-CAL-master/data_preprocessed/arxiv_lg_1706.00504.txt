@@ -1,0 +1,4 @@
+Stripes/NNP is/VBZ a/DT Deep/JJ Neural/JJ Network/NN (/-LRB- DNN/NN )/-RRB- accelerator/NN that/WDT uses/VBZ bit/NN -/HYPH serial/JJ computation/NN to/TO offer/VB performance/NN that/WDT is/VBZ proportional/JJ to/IN the/DT fixed/VBN -/HYPH point/NN precision/NN of/IN the/DT activation/NN values/NNS ./.
+The/DT fixed/VBN -/HYPH point/NN precisions/NNS are/VBP determined/VBN a/FW priori/FW using/VBG profiling/NN and/CC are/VBP selected/VBN at/IN a/DT per/IN layer/NN granularity/NN ./.
+This/DT paper/NN presents/VBZ Dynamic/JJ Stripes/NNPS ,/, an/DT extension/NN to/IN Stripes/NNP that/WDT detects/VBZ precision/NN variance/NN at/IN runtime/NN and/CC at/IN a/DT finer/JJR granularity/NN ./.
+This/DT extra/JJ level/NN of/IN precision/NN reduction/NN increases/VBZ performance/NN by/IN 41/CD percent/NN over/IN Stripes/NNPS ./.

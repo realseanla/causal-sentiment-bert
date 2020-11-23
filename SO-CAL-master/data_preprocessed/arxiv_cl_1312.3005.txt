@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT new/JJ benchmark/NN corpus/NN to/TO be/VB used/VBN for/IN measuring/VBG progress/NN in/IN statistical/JJ language/NN modeling/NN ./.
+With/IN almost/RB one/CD billion/CD words/NNS of/IN training/NN data/NNS ,/, we/PRP hope/VBP this/DT benchmark/NN will/MD be/VB useful/JJ to/TO quickly/RB evaluate/VB novel/JJ language/NN modeling/NN techniques/NNS ,/, and/CC to/TO compare/VB their/PRP$ contribution/NN when/WRB combined/VBN with/IN other/JJ advanced/JJ techniques/NNS ./.
+We/PRP show/VBP performance/NN of/IN several/JJ well/RB -/HYPH known/VBN types/NNS of/IN language/NN models/NNS ,/, with/IN the/DT best/JJS results/NNS achieved/VBN with/IN a/DT recurrent/JJ neural/JJ network/NN based/VBN language/NN model/NN ./.
+The/DT baseline/NN unpruned/JJ Kneser/NN -/HYPH Ney/NN 5/CD -/HYPH gram/NN model/NN achieves/VBZ perplexity/NN 74.4/CD ./.
+A/DT combination/NN of/IN techniques/NNS leads/VBZ to/IN 37/CD percent/NN reduction/NN in/IN perplexity/NN ,/, or/CC 11/CD percent/NN reduction/NN in/IN cross-entropy/NN (/-LRB- bits/NNS )/-RRB- ,/, over/IN that/DT baseline/NN ./.

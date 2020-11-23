@@ -1,0 +1,8 @@
+Recently/RB ,/, there/EX has/VBZ been/VBN considerable/JJ progress/NN on/IN designing/VBG algorithms/NNS with/IN provable/JJ guarantees/NNS --/: typically/RB using/VBG linear/JJ algebraic/JJ methods/NNS --/: for/IN parameter/NN learning/NN in/IN latent/JJ variable/JJ models/NNS ./.
+But/CC designing/VBG provable/JJ algorithms/NNS for/IN inference/NN has/VBZ proven/VBN to/TO be/VB more/RBR challenging/JJ ./.
+Here/RB we/PRP take/VBP a/DT first/JJ step/NN towards/IN provable/JJ inference/NN in/IN topic/NN models/NNS ./.
+We/PRP leverage/VBP a/DT property/NN of/IN topic/NN models/NNS that/WDT enables/VBZ us/PRP to/TO construct/VB simple/JJ linear/JJ estimators/NNS for/IN the/DT unknown/JJ topic/NN proportions/NNS that/WDT have/VBP small/JJ variance/NN ,/, and/CC consequently/RB can/MD work/VB with/IN short/JJ documents/NNS ./.
+Our/PRP$ estimators/NNS also/RB correspond/VBP to/IN finding/VBG an/DT estimate/NN around/IN which/WDT the/DT posterior/JJ is/VBZ well/RB -/HYPH concentrated/VBN ./.
+We/PRP show/VBP lower/JJR bounds/NNS that/WDT for/IN shorter/JJR documents/NNS it/PRP can/MD be/VB information/NN theoretically/RB impossible/JJ to/TO find/VB the/DT hidden/JJ topics/NNS ./.
+Finally/RB ,/, we/PRP give/VBP empirical/JJ results/NNS that/WDT demonstrate/VBP that/IN our/PRP$ algorithm/NN works/VBZ on/IN realistic/JJ topic/NN models/NNS ./.
+It/PRP yields/VBZ good/JJ solutions/NNS on/IN synthetic/JJ data/NNS and/CC runs/NNS in/IN time/NN comparable/JJ to/IN a/DT {/-LRB- \/SYM em/PRP single/JJ }/-RRB- iteration/NN of/IN Gibbs/NNP sampling/NN ./.

@@ -1,0 +1,4 @@
+We/PRP introduce/VBP a/DT model/NN that/WDT learns/VBZ active/JJ learning/NN algorithms/NNS via/IN metalearning/NN ./.
+For/IN a/DT distribution/NN of/IN related/JJ tasks/NNS ,/, our/PRP$ model/NN jointly/RB learns/VBZ :/: a/DT data/NN representation/NN ,/, an/DT item/NN selection/NN heuristic/NN ,/, and/CC a/DT method/NN for/IN constructing/VBG prediction/NN functions/NNS from/IN labeled/VBN training/NN sets/NNS ./.
+Our/PRP$ model/NN uses/VBZ the/DT item/NN selection/NN heuristic/NN to/TO gather/VB labeled/VBN training/NN sets/NNS from/IN which/WDT to/TO construct/VB prediction/NN functions/NNS ./.
+Using/VBG the/DT Omniglot/NN and/CC MovieLens/NNP datasets/NNS ,/, we/PRP test/VBP our/PRP$ model/NN in/IN synthetic/JJ and/CC practical/JJ settings/NNS ./.

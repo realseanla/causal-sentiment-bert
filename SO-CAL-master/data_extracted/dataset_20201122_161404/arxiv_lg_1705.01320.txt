@@ -1,0 +1,2 @@
+We present an approach for the verification of feed-forward neural networks in which all nodes have a piece-wise linear activation function.
+Such networks are often used in deep learning and have been shown to be hard to verify for modern satisfiability modulo theory (SMT) and integer linear programming (ILP) solvers.

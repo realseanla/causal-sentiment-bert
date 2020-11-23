@@ -1,0 +1,6 @@
+Human/JJ computer/NN conversation/NN is/VBZ regarded/VBN as/IN one/CD of/IN the/DT most/RBS difficult/JJ problems/NNS in/IN artificial/JJ intelligence/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP one/CD of/IN its/PRP$ key/JJ sub-problems/NNS ,/, referred/VBN to/IN as/IN short/JJ text/NN conversation/NN ,/, in/IN which/WDT given/VBN a/DT message/NN from/IN human/JJ ,/, the/DT computer/NN returns/VBZ a/DT reasonable/JJ response/NN to/IN the/DT message/NN ./.
+We/PRP leverage/VBP the/DT vast/JJ amount/NN of/IN short/JJ conversation/NN data/NNS available/JJ on/IN social/JJ media/NNS to/TO study/VB the/DT issue/NN ./.
+We/PRP propose/VBP formalizing/VBG short/JJ text/NN conversation/NN as/IN a/DT search/NN problem/NN at/IN the/DT first/JJ step/NN ,/, and/CC employing/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN information/NN retrieval/NN (/-LRB- IR/NN )/-RRB- techniques/NNS to/TO carry/VB out/RP the/DT task/NN ./.
+We/PRP investigate/VBP the/DT significance/NN as/RB well/RB as/IN the/DT limitation/NN of/IN the/DT IR/NN approach/NN ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN the/DT retrieval/NN -/HYPH based/VBN model/NN can/MD make/VB the/DT system/NN behave/VBP rather/RB "/`` intelligently/RB "/'' ,/, when/WRB combined/VBN with/IN a/DT huge/JJ repository/NN of/IN conversation/NN data/NNS from/IN social/JJ media/NNS ./.

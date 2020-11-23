@@ -1,0 +1,6 @@
+Recurrent neural networks (RNN) are capable of learning to encode and exploit activation history over an arbitrary timescale.
+However, in practice, state of the art gradient descent based training methods are known to suffer from difficulties in learning long term dependencies.
+Here, we describe a novel training method that involves concurrent parallel cloned networks, each sharing the same weights, each trained at different stimulus phase and each maintaining independent activation histories.
+Training proceeds by recursively performing batch-updates over the parallel clones as activation history is progressively increased.
+This allows conflicts to propagate hierarchically from short-term contexts towards longer-term contexts until they are resolved.
+We illustrate the parallel clones method and hierarchical conflict propagation with a character-level deep RNN tasked with memorizing a paragraph of Moby Dick (by Herman Melville).

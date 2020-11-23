@@ -1,0 +1,7 @@
+Recent/JJ results/NNS have/VBP shown/VBN that/IN the/DT MCTS/NNP algorithm/NN (/-LRB- a/DT new/JJ ,/, adaptive/JJ ,/, randomized/JJ optimization/NN algorithm/NN )/-RRB- is/VBZ effective/JJ in/IN a/DT remarkably/RB diverse/JJ set/NN of/IN applications/NNS in/IN Artificial/NNP Intelligence/NNP ,/, Operations/NNP Research/NNP ,/, and/CC High/NNP Energy/NNP Physics/NNP ./.
+MCTS/NNP can/MD find/VB good/JJ solutions/NNS without/IN domain/NN dependent/JJ heuristics/NNS ,/, using/VBG the/DT UCT/NNP formula/NN to/TO balance/VB exploitation/NN and/CC exploration/NN ./.
+It/PRP has/VBZ been/VBN suggested/VBN that/IN the/DT optimum/JJ in/IN the/DT exploitation/NN -/HYPH exploration/NN balance/NN differs/VBZ for/IN different/JJ search/NN tree/NN sizes/NNS :/: small/JJ search/NN trees/NNS needs/VBZ more/JJR exploitation/NN ;/: large/JJ search/NN trees/NNS need/VBP more/JJR exploration/NN ./.
+Small/JJ search/NN trees/NNS occur/VBP in/IN variations/NNS of/IN MCTS/NNP ,/, such/JJ as/IN parallel/NN and/CC ensemble/NN approaches/NNS ./.
+This/DT paper/NN investigates/VBZ the/DT possibility/NN of/IN improving/VBG the/DT performance/NN of/IN Ensemble/NNP UCT/NNP by/IN increasing/VBG the/DT level/NN of/IN exploitation/NN ./.
+As/IN the/DT search/NN trees/NNS becomes/VBZ smaller/JJR we/PRP achieve/VBP an/DT improved/VBN performance/NN ./.
+The/DT results/NNS are/VBP important/JJ for/IN improving/VBG the/DT performance/NN of/IN large/JJ scale/NN parallelism/NN of/IN MCTS/NNP ./.

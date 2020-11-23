@@ -1,0 +1,9 @@
+Online/JJ music/NN services/NNS are/VBP increasing/VBG in/IN popularity/NN ./.
+They/PRP enable/VBP us/PRP to/TO analyze/VB people/NNS 's/POS music/NN listening/VBG behavior/NN based/VBN on/IN play/NN logs/NNS ./.
+Although/IN it/PRP is/VBZ known/VBN that/IN people/NNS listen/VBP to/IN music/NN based/VBN on/IN topic/NN (/-LRB- e.g./FW ,/, rock/NN or/CC jazz/NN )/-RRB- ,/, we/PRP assume/VBP that/IN when/WRB a/DT user/NN is/VBZ addicted/VBN to/IN an/DT artist/NN ,/, s/NN //, he/PRP chooses/VBZ the/DT artist/NN 's/POS songs/NNS regardless/RB of/IN topic/NN ./.
+Based/VBN on/IN this/DT assumption/NN ,/, in/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT probabilistic/JJ model/NN to/TO analyze/VB people/NNS 's/POS music/NN listening/VBG behavior/NN ./.
+Our/PRP$ main/JJ contributions/NNS are/VBP three-fold/JJ ./.
+First/RB ,/, to/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ study/NN modeling/NN music/NN listening/VBG behavior/NN by/IN taking/VBG into/IN account/NN the/DT influence/NN of/IN addiction/NN to/IN artists/NNS ./.
+Second/RB ,/, by/IN using/VBG real/JJ -/HYPH world/NN datasets/NNS of/IN play/NN logs/NNS ,/, we/PRP showed/VBD the/DT effectiveness/NN of/IN our/PRP$ proposed/VBN model/NN ./.
+Third/JJ ,/, we/PRP carried/VBD out/RP qualitative/JJ experiments/NNS and/CC showed/VBD that/IN taking/VBG addiction/NN into/IN account/NN enables/VBZ us/PRP to/TO analyze/VB music/NN listening/VBG behavior/NN from/IN a/DT new/JJ viewpoint/NN in/IN terms/NNS of/IN how/WRB people/NNS listen/VBP to/IN music/NN according/VBG to/IN the/DT time/NN of/IN day/NN ,/, how/WRB an/DT artist/NN 's/POS songs/NNS are/VBP listened/VBN to/IN by/IN people/NNS ,/, etc/FW ./.
+We/PRP also/RB discuss/VBP the/DT possibility/NN of/IN applying/VBG the/DT analysis/NN results/VBZ to/IN applications/NNS such/JJ as/IN artist/NN similarity/NN computation/NN and/CC song/NN recommendation/NN ./.

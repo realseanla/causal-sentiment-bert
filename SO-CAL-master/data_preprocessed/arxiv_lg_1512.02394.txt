@@ -1,0 +1,4 @@
+In/IN many/JJ problems/NNS in/IN machine/NN learning/NN and/CC operations/NNS research/NN ,/, we/PRP need/VBP to/TO optimize/VB a/DT function/NN whose/WP$ input/NN is/VBZ a/DT random/JJ variable/JJ or/CC a/DT probability/NN density/NN function/NN ,/, i.e./FW to/TO solve/VB optimization/NN problems/NNS in/IN an/DT infinite/JJ dimensional/JJ space/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, online/JJ learning/NN has/VBZ the/DT advantage/NN of/IN dealing/VBG with/IN streaming/NN examples/NNS ,/, and/CC better/JJR model/NN a/DT changing/VBG environ/NN -/HYPH ment/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP extend/VBP the/DT celebrated/JJ online/JJ gradient/NN descent/NN algorithm/NN to/IN Hilbert/NNP spaces/NNS (/-LRB- function/NN spaces/NNS )/-RRB- ,/, and/CC analyze/VB the/DT convergence/NN guarantee/NN of/IN the/DT algorithm/NN ./.
+Finally/RB ,/, we/PRP demonstrate/VBP that/IN our/PRP$ algorithms/NNS can/MD be/VB useful/JJ in/IN several/JJ important/JJ problems/NNS ./.

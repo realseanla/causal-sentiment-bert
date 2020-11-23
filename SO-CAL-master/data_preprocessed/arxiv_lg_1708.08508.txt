@@ -1,0 +1,11 @@
+Active/JJ appearance/NN models/NNS (/-LRB- AAMs/NNS )/-RRB- are/VBP a/DT class/NN of/IN generative/JJ models/NNS that/WDT have/VBP seen/VBN tremendous/JJ success/NN in/IN face/NN analysis/NN ./.
+However/RB ,/, model/NN learning/NN depends/VBZ on/IN the/DT availability/NN of/IN detailed/JJ annotation/NN of/IN canonical/JJ landmark/NN points/NNS ./.
+As/IN a/DT result/NN ,/, when/WRB accurate/JJ AAM/NN fitting/NN is/VBZ required/VBN on/IN a/DT different/JJ set/NN of/IN variations/NNS (/-LRB- expression/NN ,/, pose/NN ,/, identity/NN )/-RRB- ,/, a/DT new/JJ dataset/NN is/VBZ collected/VBN and/CC annotated/VBN ./.
+To/TO overcome/VB the/DT need/NN for/IN time/NN consuming/VBG data/NNS collection/NN and/CC annotation/NN ,/, transfer/NN learning/NN approaches/NNS have/VBP received/VBN recent/JJ attention/NN ./.
+The/DT goal/NN is/VBZ to/TO transfer/VB knowledge/NN from/IN previously/RB available/JJ datasets/NNS (/-LRB- source/NN )/-RRB- to/IN a/DT new/JJ dataset/NN (/-LRB- target/NN )/-RRB- ./.
+We/PRP propose/VBP a/DT subspace/NN transfer/NN learning/NN method/NN ,/, in/IN which/WDT we/PRP select/VBP a/DT subspace/NN from/IN the/DT source/NN that/WDT best/JJS describes/VBZ the/DT target/NN space/NN ./.
+We/PRP propose/VBP a/DT metric/JJ to/IN compute/VB the/DT directional/JJ similarity/NN between/IN the/DT source/NN eigenvectors/NNS and/CC the/DT target/NN subspace/NN ./.
+We/PRP show/VBP an/DT equivalence/NN between/IN this/DT metric/JJ and/CC the/DT variance/NN of/IN target/NN data/NNS when/WRB projected/VBN onto/IN source/NN eigenvectors/NNS ./.
+Using/VBG this/DT equivalence/NN ,/, we/PRP select/VBP a/DT subset/NN of/IN source/NN principal/JJ directions/NNS that/WDT capture/VBP the/DT variance/NN in/IN target/NN data/NNS ./.
+To/TO define/VB our/PRP$ model/NN ,/, we/PRP augment/VBP the/DT selected/VBN source/NN subspace/NN with/IN the/DT target/NN subspace/NN learned/VBN from/IN a/DT handful/NN of/IN target/NN examples/NNS ./.
+In/IN experiments/NNS done/VBN on/IN six/CD publicly/RB available/JJ datasets/NNS ,/, we/PRP show/VBP that/IN our/PRP$ approach/NN outperforms/VBZ the/DT state/NN of/IN the/DT art/NN in/IN terms/NNS of/IN the/DT RMS/NN fitting/VBG error/NN as/RB well/RB as/IN the/DT percentage/NN of/IN test/NN examples/NNS for/IN which/WDT AAM/NN fitting/JJ converges/VBZ to/IN the/DT ground/NN truth/NN ./.

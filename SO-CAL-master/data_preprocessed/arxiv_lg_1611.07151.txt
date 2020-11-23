@@ -1,0 +1,6 @@
+Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNNs/NNS )/-RRB- exhibit/VBP remarkable/JJ performance/NN in/IN various/JJ machine/NN learning/NN tasks/NNS ./.
+As/IN sensor/NN -/HYPH equipped/VBN internet/NN of/IN things/NNS (/-LRB- IoT/NN )/-RRB- devices/NNS permeate/VB into/IN every/DT aspect/NN of/IN modern/JJ life/NN ,/, it/PRP is/VBZ increasingly/RB important/JJ to/TO run/VB CNN/NNP inference/NN ,/, a/DT computationally/RB intensive/JJ application/NN ,/, on/IN resource/NN constrained/VBN devices/NNS ./.
+We/PRP present/VBP a/DT technique/NN for/IN fast/JJ and/CC energy/NN -/HYPH efficient/JJ CNN/NNP inference/NN on/IN mobile/JJ SoC/NN platforms/NNS ,/, which/WDT are/VBP projected/VBN to/TO be/VB a/DT major/JJ player/NN in/IN the/DT IoT/NNP space/NN ./.
+We/PRP propose/VBP techniques/NNS for/IN efficient/JJ parallelization/NN of/IN CNN/NNP inference/NN targeting/VBG mobile/JJ GPUs/NNS ,/, and/CC explore/VB the/DT underlying/VBG tradeoffs/NNS ./.
+Experiments/NNS with/IN running/VBG Squeezenet/NNP on/IN three/CD different/JJ mobile/JJ devices/NNS confirm/VBP the/DT effectiveness/NN of/IN our/PRP$ approach/NN ./.
+For/IN further/JJ study/NN ,/, please/UH refer/VB to/IN the/DT project/NN repository/NN available/JJ on/IN our/PRP$ GitHub/NNP page/NN :/:

@@ -1,0 +1,6 @@
+In/IN this/DT work/NN ,/, we/PRP propose/VBP two/CD stochastic/JJ architectural/JJ models/NNS (/-LRB- CMC/NNP and/CC CMC/NNP -/HYPH M/NNP )/-RRB- with/IN two/CD layers/NNS of/IN classifiers/NNS applicable/JJ to/IN datasets/NNS with/IN one/CD and/CC multiple/JJ skewed/JJ classes/NNS ./.
+This/DT distinction/NN becomes/VBZ important/JJ when/WRB the/DT datasets/NNS have/VBP a/DT large/JJ number/NN of/IN classes/NNS ./.
+Therefore/RB ,/, we/PRP present/VBP a/DT novel/JJ solution/NN to/IN imbalanced/VBN multiclass/NN learning/NN with/IN several/JJ skewed/VBN majority/NN classes/NNS ,/, which/WDT improves/VBZ minority/NN classes/NNS identification/NN ./.
+This/DT fact/NN is/VBZ particularly/RB important/JJ for/IN text/NN classification/NN tasks/NNS ,/, such/JJ as/IN event/NN detection/NN ./.
+Our/PRP$ models/NNS combined/VBN with/IN pre-processing/JJ sampling/NN techniques/NNS improved/VBD the/DT classification/NN results/VBZ on/IN 6/CD well/RB -/HYPH known/VBN datasets/NNS ./.
+Finally/RB ,/, we/PRP have/VBP also/RB introduced/VBN a/DT new/JJ metric/JJ SG/NN -/HYPH Mean/NNP to/TO overcome/VB the/DT multiplication/NN by/IN zero/CD limitation/NN of/IN G/NNP -/HYPH Mean/NNP ./.

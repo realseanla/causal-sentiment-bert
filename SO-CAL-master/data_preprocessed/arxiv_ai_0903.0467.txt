@@ -1,0 +1,7 @@
+We/PRP argue/VBP that/IN parameterized/JJ complexity/NN is/VBZ a/DT useful/JJ tool/NN with/IN which/WDT to/TO study/VB global/JJ constraints/NNS ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/IN many/JJ global/JJ constraints/NNS which/WDT are/VBP intractable/JJ to/IN propagate/VB completely/RB have/VB natural/JJ parameters/NNS which/WDT make/VBP them/PRP fixed/VBN -/HYPH parameter/NN tractable/JJ and/CC which/WDT are/VBP easy/JJ to/TO compute/VB ./.
+This/DT tractability/NN tends/VBZ either/RB to/TO be/VB the/DT result/NN of/IN a/DT simple/JJ dynamic/JJ program/NN or/CC of/IN a/DT decomposition/NN which/WDT has/VBZ a/DT strong/JJ backdoor/NN of/IN bounded/VBN size/NN ./.
+This/DT strong/JJ backdoor/NN is/VBZ often/RB a/DT cycle/NN cutset/NN ./.
+We/PRP also/RB show/VBP that/IN parameterized/JJ complexity/NN can/MD be/VB used/VBN to/TO study/VB other/JJ aspects/NNS of/IN constraint/NN programming/NN like/IN symmetry/NN breaking/NN ./.
+For/IN instance/NN ,/, we/PRP prove/VBP that/IN value/NN symmetry/NN is/VBZ fixed/VBN -/HYPH parameter/NN tractable/JJ to/TO break/VB in/IN the/DT number/NN of/IN symmetries/NNS ./.
+Finally/RB ,/, we/PRP argue/VBP that/IN parameterized/JJ complexity/NN can/MD be/VB used/VBN to/TO derive/VB results/NNS about/IN the/DT approximability/NN of/IN constraint/NN propagation/NN ./.

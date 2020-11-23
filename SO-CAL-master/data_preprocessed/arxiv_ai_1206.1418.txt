@@ -1,0 +1,11 @@
+The/DT similarity/NN between/IN trajectory/NN patterns/NNS in/IN clustering/NN has/VBZ played/VBN an/DT important/JJ role/NN in/IN discovering/VBG movement/NN behaviour/NN of/IN different/JJ groups/NNS of/IN mobile/JJ objects/NNS ./.
+Several/JJ approaches/NNS have/VBP been/VBN proposed/VBN to/TO measure/VB the/DT similarity/NN between/IN sequences/NNS in/IN trajectory/NN data/NNS ./.
+Most/JJS of/IN these/DT measures/NNS are/VBP based/VBN on/IN Euclidean/JJ space/NN or/CC on/IN spatial/JJ network/NN and/CC some/DT of/IN them/PRP have/VBP been/VBN concerned/VBN with/IN temporal/JJ aspect/NN or/CC ordering/VBG types/NNS ./.
+However/RB ,/, they/PRP are/VBP not/RB appropriate/JJ to/IN characteristics/NNS of/IN spatiotemporal/JJ mobility/NN patterns/NNS in/IN wireless/JJ networks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ similarity/NN measure/NN for/IN mobility/NN patterns/NNS in/IN cellular/JJ space/NN of/IN wireless/JJ network/NN ./.
+The/DT framework/NN for/IN constructing/VBG our/PRP$ measure/NN is/VBZ composed/VBN of/IN two/CD phases/NNS as/IN follows/VBZ ./.
+First/RB ,/, we/PRP present/VBP formal/JJ definitions/NNS to/TO capture/VB mathematically/RB two/CD spatial/JJ and/CC temporal/JJ similarity/NN measures/NNS for/IN mobility/NN patterns/NNS ./.
+And/CC then/RB ,/, we/PRP define/VBP the/DT total/JJ similarity/NN measure/NN by/IN means/NNS of/IN a/DT weighted/JJ combination/NN of/IN these/DT similarities/NNS ./.
+The/DT truth/NN of/IN the/DT partial/JJ and/CC total/JJ similarity/NN measures/NNS are/VBP proved/VBN in/IN mathematics/NNS ./.
+Furthermore/RB ,/, instead/RB of/IN the/DT time/NN interval/NN or/CC ordering/NN ,/, our/PRP$ work/NN makes/VBZ use/NN of/IN the/DT timestamp/NN at/IN which/WDT two/CD mobility/NN patterns/NNS share/VBP the/DT same/JJ cell/NN ./.
+A/DT case/NN study/NN is/VBZ also/RB described/VBN to/TO give/VB a/DT comparison/NN of/IN the/DT combination/NN measure/NN with/IN other/JJ ones/NNS ./.

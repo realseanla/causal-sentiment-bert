@@ -1,0 +1,5 @@
+The/DT Tawny/NN -/HYPH OWL/NN library/NN provides/VBZ a/DT fully/RB -/HYPH programmatic/JJ environment/NN for/IN ontology/NN building/NN ;/: it/PRP enables/VBZ the/DT use/NN of/IN a/DT rich/JJ set/NN of/IN tools/NNS for/IN ontology/NN development/NN ,/, by/IN recasting/VBG development/NN as/IN a/DT form/NN of/IN programming/NN ./.
+It/PRP is/VBZ built/VBN in/IN Clojure/NN -/HYPH a/DT modern/JJ Lisp/NN dialect/NN ,/, and/CC is/VBZ backed/VBN by/IN the/DT OWL/NN API/NN ./.
+Used/VBN simply/RB ,/, it/PRP has/VBZ a/DT similar/JJ syntax/NN to/IN OWL/NN Manchester/NN syntax/NN ,/, but/CC it/PRP provides/VBZ arbitrary/JJ extensibility/NN and/CC abstraction/NN ./.
+It/PRP builds/VBZ on/IN existing/VBG facilities/NNS for/IN Clojure/NNP ,/, which/WDT provides/VBZ a/DT rich/JJ and/CC modern/JJ programming/NN tool/NN chain/NN ,/, for/IN versioning/VBG ,/, distributed/VBN development/NN ,/, build/NN ,/, testing/NN and/CC continuous/JJ integration/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP the/DT library/NN ,/, this/DT environment/NN and/CC the/DT its/PRP$ potential/JJ implications/NNS for/IN the/DT ontology/NN development/NN process/NN ./.

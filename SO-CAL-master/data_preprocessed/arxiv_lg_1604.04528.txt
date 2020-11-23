@@ -1,0 +1,9 @@
+Kinect/NNP skeleton/NN tracker/NN is/VBZ able/JJ to/TO achieve/VB considerable/JJ human/JJ body/NN tracking/NN performance/NN in/IN convenient/JJ and/CC a/DT low/JJ -/HYPH cost/NN manner/NN ./.
+However/RB ,/, The/DT tracker/NN often/RB captures/VBZ unnatural/JJ human/JJ poses/NNS such/JJ as/IN discontinuous/JJ and/CC vibrated/VBN motions/NNS when/WRB self/NN -/HYPH occlusions/NNS occur/VBP ./.
+A/DT majority/NN of/IN approaches/NNS tackle/VBP this/DT problem/NN by/IN using/VBG multiple/JJ Kinect/NNP sensors/NNS in/IN a/DT workspace/NN ./.
+Combination/NN of/IN the/DT measurements/NNS from/IN different/JJ sensors/NNS is/VBZ then/RB conducted/VBN in/IN Kalman/NNP filter/NN framework/NN or/CC optimization/NN problem/NN is/VBZ formulated/VBN for/IN sensor/NN fusion/NN ./.
+However/RB ,/, these/DT methods/NNS usually/RB require/VBP heuristics/NNS to/TO measure/VB reliability/NN of/IN measurements/NNS observed/VBN from/IN each/DT Kinect/NNP sensor/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP developed/VBD a/DT method/NN to/TO improve/VB Kinect/NNP skeleton/NN using/VBG single/JJ Kinect/NNP sensor/NN ,/, in/IN which/WDT supervised/VBD learning/VBG technique/NN was/VBD employed/VBN to/TO correct/VB unnatural/JJ tracking/NN motions/NNS ./.
+Specifically/RB ,/, deep/JJ recurrent/JJ neural/JJ networks/NNS were/VBD used/VBN for/IN improving/VBG joint/JJ positions/NNS and/CC velocities/NNS of/IN Kinect/NNP skeleton/NN ,/, and/CC three/CD methods/NNS were/VBD proposed/VBN to/TO integrate/VB the/DT refined/JJ positions/NNS and/CC velocities/NNS for/IN further/JJ enhancement/NN ./.
+Moreover/RB ,/, we/PRP suggested/VBD a/DT novel/JJ measure/NN to/TO evaluate/VB naturalness/NN of/IN captured/VBN motions/NNS ./.
+We/PRP evaluated/VBD the/DT proposed/VBN approach/NN by/IN comparison/NN with/IN the/DT ground/NN truth/NN obtained/VBN using/VBG a/DT commercial/JJ optical/JJ maker/NN -/HYPH based/VBN motion/NN capture/NN system/NN ./.

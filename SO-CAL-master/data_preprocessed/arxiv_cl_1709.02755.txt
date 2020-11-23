@@ -1,0 +1,6 @@
+Recurrent/JJ neural/JJ networks/NNS scale/NN poorly/RB due/IN to/IN the/DT intrinsic/JJ difficulty/NN in/IN parallelizing/VBG their/PRP$ state/NN computations/NNS ./.
+For/IN instance/NN ,/, the/DT forward/JJ pass/NN computation/NN of/IN $/$ h_t/CD $/$ is/VBZ blocked/VBN until/IN the/DT entire/JJ computation/NN of/IN $/$ h/LS _/NFP {/-LRB- t/NN -/HYPH 1/CD }/-RRB- $/$ finishes/NNS ,/, which/WDT is/VBZ a/DT major/JJ bottleneck/NN for/IN parallel/JJ computing/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP an/DT alternative/JJ RNN/NN implementation/NN by/IN deliberately/RB simplifying/VBG the/DT state/NN computation/NN and/CC exposing/VBG more/JJR parallelism/NN ./.
+The/DT proposed/VBN recurrent/JJ unit/NN operates/VBZ as/RB fast/RB as/IN a/DT convolutional/JJ layer/NN and/CC 5/CD -/HYPH 10x/CD faster/JJR than/IN cuDNN/NN -/HYPH optimized/VBN LSTM/NNP ./.
+We/PRP demonstrate/VBP the/DT unit/NN 's/POS effectiveness/NN across/IN a/DT wide/JJ range/NN of/IN applications/NNS including/VBG classification/NN ,/, question/NN answering/NN ,/, language/NN modeling/NN ,/, translation/NN and/CC speech/NN recognition/NN ./.
+We/PRP open/VBP source/NN our/PRP$ implementation/NN in/IN PyTorch/NNP and/CC CNTK/NNP ./.

@@ -1,0 +1,4 @@
+The/DT ability/NN to/TO automatically/RB generalise/VB (/-LRB- interactive/JJ )/-RRB- proofs/NNS and/CC use/VB such/JJ generalisations/NNS to/IN discharge/NN related/VBN conjectures/VBZ is/VBZ a/DT very/RB hard/JJ problem/NN which/WDT remains/VBZ unsolved/JJ ./.
+Here/RB ,/, we/PRP develop/VBP a/DT notion/NN of/IN goal/NN types/NNS to/TO capture/VB key/JJ properties/NNS of/IN goals/NNS ,/, which/WDT enables/VBZ abstractions/NNS over/IN the/DT specific/JJ order/NN and/CC number/NN of/IN sub-goals/NNS arising/VBG when/WRB composing/VBG tactics/NNS ./.
+We/PRP show/VBP that/IN the/DT goal/NN types/NNS form/VBP a/DT lattice/NN ,/, and/CC utilise/VB this/DT property/NN in/IN the/DT techniques/NNS we/PRP develop/VBP to/IN automatically/RB generalise/VB proof/JJ strategies/NNS in/IN order/NN to/TO reuse/VB it/PRP for/IN proofs/NNS of/IN related/VBN conjectures/VBZ ./.
+We/PRP illustrate/VBP our/PRP$ approach/NN with/IN an/DT example/NN ./.

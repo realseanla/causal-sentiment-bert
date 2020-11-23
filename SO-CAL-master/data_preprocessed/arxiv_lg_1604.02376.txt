@@ -1,0 +1,9 @@
+In/IN Computer/NN Vision/NN ,/, problem/NN of/IN identifying/VBG or/CC classifying/VBG the/DT objects/NNS present/VBP in/IN an/DT image/NN is/VBZ called/VBN Object/NN Categorization/NN ./.
+It/PRP is/VBZ a/DT challenging/JJ problem/NN ,/, especially/RB when/WRB the/DT images/NNS have/VBP clutter/NN background/NN ,/, occlusions/NNS or/CC different/JJ lighting/NN conditions/NNS ./.
+Many/JJ vision/NN features/NNS have/VBP been/VBN proposed/VBN which/WDT aid/NN object/NN categorization/NN even/RB in/IN such/JJ adverse/JJ conditions/NNS ./.
+Past/JJ research/NN has/VBZ shown/VBN that/IN ,/, employing/VBG multiple/JJ features/NNS rather/RB than/IN any/DT single/JJ features/NNS leads/VBZ to/IN better/JJR recognition/NN ./.
+Multiple/JJ Kernel/NNP Learning/NNP (/-LRB- MKL/NNP )/-RRB- framework/NN has/VBZ been/VBN developed/VBN for/IN learning/VBG an/DT optimal/JJ combination/NN of/IN features/NNS for/IN object/NN categorization/NN ./.
+Existing/VBG MKL/NN methods/NNS use/VBP linear/JJ combination/NN of/IN base/NN kernels/NNS which/WDT may/MD not/RB be/VB optimal/JJ for/IN object/NN categorization/NN ./.
+Real/JJ -/HYPH world/NN object/NN categorization/NN may/MD need/VB to/TO consider/VB complex/JJ combination/NN of/IN kernels/NNS (/-LRB- non-linear/JJ )/-RRB- and/CC not/RB only/RB linear/JJ combination/NN ./.
+Evolving/VBG non-linear/JJ functions/NNS of/IN base/NN kernels/NNS using/VBG Genetic/JJ Programming/NN is/VBZ proposed/VBN in/IN this/DT report/NN ./.
+Experiment/NN results/NNS show/VBP that/IN non-kernel/JJ generated/VBN using/VBG genetic/JJ programming/NN gives/VBZ good/JJ accuracy/NN as/IN compared/VBN to/IN linear/JJ combination/NN of/IN kernels/NNS ./.

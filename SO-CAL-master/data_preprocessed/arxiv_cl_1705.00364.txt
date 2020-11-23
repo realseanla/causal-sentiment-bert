@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN learning/VBG general/JJ -/HYPH purpose/NN ,/, paraphrastic/JJ sentence/NN embeddings/NNS ,/, revisiting/VBG the/DT setting/NN of/IN Wieting/NNP et/FW al./FW (/-LRB- 2016b/NN )/-RRB- ./.
+While/IN they/PRP found/VBD LSTM/NNP recurrent/JJ networks/NNS to/TO underperform/VB word/NN averaging/NN ,/, we/PRP present/VBP several/JJ developments/NNS that/WDT together/RB produce/VBP the/DT opposite/JJ conclusion/NN ./.
+These/DT include/VBP training/NN on/IN sentence/NN pairs/NNS rather/RB than/IN phrase/NN pairs/NNS ,/, averaging/VBG states/NNS to/TO represent/VB sequences/NNS ,/, and/CC regularizing/VBG aggressively/RB ./.
+These/DT improve/VBP LSTMs/NNPS in/IN both/DT transfer/NN learning/NN and/CC supervised/VBD settings/NNS ./.
+We/PRP also/RB introduce/VBP a/DT new/JJ recurrent/JJ architecture/NN ,/, the/DT Gated/JJ Recurrent/JJ Averaging/NNP Network/NNP ,/, that/DT is/VBZ inspired/VBN by/IN averaging/VBG and/CC LSTMs/NNPS while/IN outperforming/VBG them/PRP both/DT ./.
+We/PRP analyze/VBP our/PRP$ learned/VBN models/NNS ,/, finding/VBG evidence/NN of/IN preferences/NNS for/IN particular/JJ parts/NNS of/IN speech/NN and/CC dependency/NN relations/NNS ./.

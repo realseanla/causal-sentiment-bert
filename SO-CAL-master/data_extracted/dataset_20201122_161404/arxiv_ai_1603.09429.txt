@@ -1,0 +1,4 @@
+We are interested in belief revision involving conditional statements where the antecedent is almost certainly false.
+To represent such problems, we use Ordinal Conditional Functions that may take infinite values.
+We model belief change in this context through simple arithmetical operations that allow us to capture the intuition that certain antecedents can not be validated by any number of observations.
+We frame our approach as a form of finite belief improvement, and we propose a model of conditional belief revision in which only the "right" hypothetical levels of implausibility are revised.

@@ -1,0 +1,8 @@
+This/DT paper/NN proposes/VBZ to/TO use/VB probabilistic/JJ model/NN checking/VBG to/IN synthesize/VB optimal/JJ robot/NN policies/NNS in/IN multi-tasking/JJ autonomous/JJ systems/NNS that/WDT are/VBP subject/JJ to/IN human/JJ -/HYPH robot/NN interaction/NN ./.
+Given/VBN the/DT convincing/JJ empirical/JJ evidence/NN that/IN human/JJ behavior/NN can/MD be/VB related/VBN to/IN reinforcement/NN models/NNS ,/, we/PRP take/VBP as/IN input/NN a/DT well/RB -/HYPH studied/VBN Q/NN -/HYPH table/NN model/NN of/IN the/DT human/JJ behavior/NN for/IN flexible/JJ scenarios/NNS ./.
+We/PRP first/RB describe/VB an/DT automated/VBN procedure/NN to/IN distill/VB a/DT Markov/NNP decision/NN process/NN (/-LRB- MDP/NN )/-RRB- for/IN the/DT human/JJ in/IN an/DT arbitrary/JJ but/CC fixed/JJ scenario/NN ./.
+The/DT distinctive/JJ issue/NN is/VBZ that/DT --/: in/IN contrast/NN to/IN existing/VBG models/NNS --/: under/IN -/HYPH specification/NN of/IN the/DT human/JJ behavior/NN is/VBZ included/VBN ./.
+Probabilistic/JJ model/NN checking/VBG is/VBZ used/VBN to/TO predict/VB the/DT human/NN 's/POS behavior/NN ./.
+Finally/RB ,/, the/DT MDP/NNP model/NN is/VBZ extended/VBN with/IN a/DT robot/NN model/NN ./.
+Optimal/JJ robot/NN policies/NNS are/VBP synthesized/VBN by/IN analyzing/VBG the/DT resulting/VBG two/CD -/HYPH player/NN stochastic/JJ game/NN ./.
+Experimental/JJ results/NNS with/IN a/DT prototypical/JJ implementation/NN using/VBG PRISM/NN show/NN promising/JJ results/NNS ./.

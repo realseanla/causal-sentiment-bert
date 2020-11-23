@@ -1,0 +1,9 @@
+Temporal/JJ drift/NN of/IN sensory/JJ data/NNS is/VBZ a/DT severe/JJ problem/NN impacting/VBG the/DT data/NNS quality/NN of/IN wireless/JJ sensor/NN networks/NNS (/-LRB- WSNs/NNS )/-RRB- ./.
+With/IN the/DT proliferation/NN of/IN large/JJ -/HYPH scale/NN and/CC long/JJ -/HYPH term/NN WSNs/NNS ,/, it/PRP is/VBZ becoming/VBG more/RBR important/JJ to/IN calibrate/NN sensors/NNS when/WRB the/DT ground/NN truth/NN is/VBZ unavailable/JJ ./.
+This/DT problem/NN is/VBZ called/VBN "/`` blind/JJ calibration/NN "/'' ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ deep/JJ learning/NN method/NN named/VBN projection/NN -/HYPH recovery/NN network/NN (/-LRB- PRNet/NN )/-RRB- to/IN blindly/RB calibrate/VBP sensor/NN measurements/NNS online/RB ./.
+The/DT PRNet/NN first/JJ projects/VBZ the/DT drifted/VBN data/NNS to/IN a/DT feature/NN space/NN ,/, and/CC uses/VBZ a/DT powerful/JJ deep/JJ convolutional/JJ neural/JJ network/NN to/TO recover/VB the/DT estimated/VBN drift/NN -/HYPH free/JJ measurements/NNS ./.
+We/PRP deploy/VBP a/DT 24/CD -/HYPH sensor/NN testbed/NN and/CC provide/VB comprehensive/JJ empirical/JJ evidence/NN showing/VBG that/IN the/DT proposed/JJ method/NN significantly/RB improves/VBZ the/DT sensing/VBG accuracy/NN and/CC drifted/VBD sensor/NN detection/NN ./.
+Compared/VBN with/IN previous/JJ methods/NNS ,/, PRNet/NN can/MD calibrate/VB 2x/NN of/IN drifted/VBD sensors/NNS at/IN the/DT recovery/NN rate/NN of/IN 80/CD percent/NN under/IN the/DT same/JJ level/NN of/IN accuracy/NN requirement/NN ./.
+We/PRP also/RB provide/VBP helpful/JJ insights/NNS for/IN designing/VBG deep/JJ neural/JJ networks/NNS for/IN sensor/NN calibration/NN ./.
+We/PRP hope/VBP our/PRP$ proposed/VBN simple/JJ and/CC effective/JJ approach/NN will/MD serve/VB as/IN a/DT solid/JJ baseline/NN in/IN blind/JJ drift/NN calibration/NN of/IN sensor/NN networks/NNS ./.

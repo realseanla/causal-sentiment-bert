@@ -1,0 +1,5 @@
+The/DT crux/NN of/IN the/DT problem/NN in/IN KDD/NNP Cup/NNP 2016/CD involves/VBZ developing/VBG data/NNS mining/NN techniques/NNS to/TO rank/VB research/NN institutions/NNS based/VBN on/IN publications/NNS ./.
+Rank/NNP importance/NN of/IN research/NN institutions/NNS are/VBP derived/VBN from/IN predictions/NNS on/IN the/DT number/NN of/IN full/JJ research/NN papers/NNS that/WDT would/MD potentially/RB get/VB accepted/VBN in/IN upcoming/JJ top/JJ -/HYPH tier/NN conferences/NNS ,/, utilizing/VBG public/JJ information/NN on/IN the/DT web/NN ./.
+This/DT paper/NN describes/VBZ our/PRP$ solution/NN to/IN KDD/NNP Cup/NNP 2016/CD ./.
+We/PRP used/VBD a/DT two/CD step/NN approach/NN in/IN which/WDT we/PRP first/RB identify/VBP full/JJ research/NN papers/NNS corresponding/VBG to/IN each/DT conference/NN of/IN interest/NN and/CC then/RB train/VB two/CD variants/NNS of/IN exponential/JJ smoothing/NN models/NNS to/TO make/VB predictions/NNS ./.
+Our/PRP$ solution/NN achieves/VBZ an/DT overall/JJ score/NN of/IN 0.7508/CD ,/, while/IN the/DT winning/VBG submission/NN scored/VBN 0.7656/CD in/IN the/DT overall/JJ results/NNS ./.

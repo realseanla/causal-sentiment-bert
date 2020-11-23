@@ -1,0 +1,7 @@
+In this work, we introduce a novel interpretation of residual networks showing they are exponential ensembles.
+This observation is supported by a large-scale lesion study that demonstrates they behave just like ensembles at test time.
+Subsequently, we perform an analysis showing these ensembles mostly consist of networks that are each relatively shallow.
+For example, contrary to our expectations, most of the gradient in a residual network with 110 layers comes from an ensemble of very short networks, i.e., only 10-34 layers deep.
+This suggests that in addition to describing neural networks in terms of width and depth, there is a third dimension: multiplicity, the size of the implicit ensemble.
+Ultimately, residual networks do not resolve the vanishing gradient problem by preserving gradient flow throughout the entire depth of the network - rather, they avoid the problem simply by ensembling many short networks together.
+This insight reveals that depth is still an open research question and invites the exploration of the related notion of multiplicity.

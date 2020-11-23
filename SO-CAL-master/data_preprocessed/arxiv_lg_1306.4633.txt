@@ -1,0 +1,10 @@
+Fuzzy/JJ logic/NN deals/NNS with/IN degrees/NNS of/IN truth/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP have/VBP shown/VBN how/WRB to/TO apply/VB fuzzy/JJ logic/NN in/IN text/NN mining/NN in/IN order/NN to/TO perform/VB document/NN clustering/NN ./.
+We/PRP took/VBD an/DT example/NN of/IN document/NN clustering/NN where/WRB the/DT documents/NNS had/VBD to/TO be/VB clustered/VBN into/IN two/CD categories/NNS ./.
+The/DT method/NN involved/VBN cleaning/VBG up/RP the/DT text/NN and/CC stemming/VBG of/IN words/NNS ./.
+Then/RB ,/, we/PRP chose/VBD m/NN number/NN of/IN features/NNS which/WDT differ/VBP significantly/RB in/IN their/PRP$ word/NN frequencies/NNS (/-LRB- WF/NN )/-RRB- ,/, normalized/VBN by/IN document/NN length/NN ,/, between/IN documents/NNS belonging/VBG to/IN these/DT two/CD clusters/NNS ./.
+The/DT documents/NNS to/TO be/VB clustered/VBN were/VBD represented/VBN as/IN a/DT collection/NN of/IN m/NN normalized/VBN WF/NN values/NNS ./.
+Fuzzy/JJ c/NN -/HYPH means/NN (/-LRB- FCM/NN )/-RRB- algorithm/NN was/VBD used/VBN to/TO cluster/VB these/DT documents/NNS into/IN two/CD clusters/NNS ./.
+After/IN the/DT FCM/NNP execution/NN finished/VBD ,/, the/DT documents/NNS in/IN the/DT two/CD clusters/NNS were/VBD analysed/VBN for/IN the/DT values/NNS of/IN their/PRP$ respective/JJ m/NN features/NNS ./.
+It/PRP was/VBD known/VBN that/IN documents/NNS belonging/VBG to/IN a/DT document/NN type/NN ,/, say/VBP X/NN ,/, tend/VBP to/TO have/VB higher/JJR WF/NN values/NNS for/IN some/DT particular/JJ features/NNS ./.
+If/IN the/DT documents/NNS belonging/VBG to/IN a/DT cluster/NN had/VBD higher/JJR WF/NN values/NNS for/IN those/DT same/JJ features/NNS ,/, then/RB that/DT cluster/NN was/VBD said/VBN to/TO represent/VB X./NNP By/IN fuzzy/JJ logic/NN ,/, we/PRP not/RB only/RB get/VB the/DT cluster/NN name/NN ,/, but/CC also/RB the/DT degree/NN to/TO which/WDT a/DT document/NN belongs/VBZ to/IN a/DT cluster/NN ./.

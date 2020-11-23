@@ -1,0 +1,6 @@
+This paper presents a study of improvement in stability in a single machine connected to infinite bus (SMIB) power system by using static compensator (STATCOM).
+The gains of Proportional-Integral-Derivative (PID) controller in STATCOM are being optimized by heuristic technique based on Particle swarm optimization (PSO).
+Further, Bacterial Foraging Optimization (BFO) as an alternative heuristic method is also applied to select optimal gains of PID controller.
+The performance of STATCOM with the above soft-computing techniques are studied and compared with the conventional PID controller under various scenarios.
+The simulation results are accompanied with performance indices based quantitative analysis.
+The analysis clearly signifies the robustness of the new scheme in terms of stability and voltage regulation when compared with conventional PID.

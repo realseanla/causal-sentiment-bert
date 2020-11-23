@@ -1,0 +1,8 @@
+Many/JJ combinatorial/JJ problems/NNS arising/VBG in/IN machine/NN learning/NN can/MD be/VB reduced/VBN to/IN the/DT problem/NN of/IN minimizing/VBG a/DT submodular/JJ function/NN ./.
+Submodular/JJ functions/NNS are/VBP a/DT natural/JJ discrete/JJ analog/NN of/IN convex/NN functions/NNS ,/, and/CC can/MD be/VB minimized/VBN in/IN strongly/RB polynomial/JJ time/NN ./.
+Unfortunately/RB ,/, state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithms/NNS for/IN general/JJ submodular/JJ minimization/NN are/VBP intractable/JJ for/IN larger/JJR problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT novel/JJ subclass/NN of/IN submodular/JJ minimization/NN problems/NNS that/WDT we/PRP call/VBP decomposable/JJ ./.
+Decomposable/JJ submodular/JJ functions/NNS are/VBP those/DT that/WDT can/MD be/VB represented/VBN as/IN sums/NNS of/IN concave/JJ functions/NNS applied/VBD to/IN modular/JJ functions/NNS ./.
+We/PRP develop/VBP an/DT algorithm/NN ,/, SLG/NN ,/, that/DT can/MD efficiently/RB minimize/VB decomposable/JJ submodular/JJ functions/NNS with/IN tens/NNS of/IN thousands/NNS of/IN variables/NNS ./.
+Our/PRP$ algorithm/NN exploits/NNS recent/JJ results/NNS in/IN smoothed/VBN convex/NN minimization/NN ./.
+We/PRP apply/VBP SLG/NN to/IN synthetic/JJ benchmarks/NNS and/CC a/DT joint/JJ classification/NN -/HYPH and/CC -/HYPH segmentation/NN task/NN ,/, and/CC show/VBP that/IN it/PRP outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN general/JJ purpose/NN submodular/JJ minimization/NN algorithms/NNS by/IN several/JJ orders/NNS of/IN magnitude/NN ./.

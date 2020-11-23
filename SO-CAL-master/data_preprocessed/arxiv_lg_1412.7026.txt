@@ -1,0 +1,8 @@
+Random/NNP Indexing/NN is/VBZ a/DT simple/JJ implementation/NN of/IN Random/NNP Projections/NNPS with/IN a/DT wide/JJ range/NN of/IN applications/NNS ./.
+It/PRP can/MD solve/VB a/DT variety/NN of/IN problems/NNS with/IN good/JJ accuracy/NN without/IN introducing/VBG much/JJ complexity/NN ./.
+Here/RB we/PRP use/VBP it/PRP for/IN identifying/VBG the/DT language/NN of/IN text/NN samples/NNS ./.
+We/PRP present/VBP a/DT novel/JJ method/NN of/IN generating/VBG language/NN representation/NN vectors/NNS using/VBG letter/NN blocks/NNS ./.
+Further/RB ,/, we/PRP show/VBP that/IN the/DT method/NN is/VBZ easily/RB implemented/VBN and/CC requires/VBZ little/JJ computational/JJ power/NN and/CC space/NN ./.
+Experiments/NNS on/IN a/DT number/NN of/IN model/NN parameters/NNS illustrate/VBP certain/JJ properties/NNS about/RB high/JJ dimensional/JJ sparse/JJ vector/NN representations/NNS of/IN data/NNS ./.
+Proof/NN of/IN statistically/RB relevant/JJ language/NN vectors/NNS are/VBP shown/VBN through/IN the/DT extremely/RB high/JJ success/NN of/IN various/JJ language/NN recognition/NN tasks/NNS ./.
+On/IN a/DT difficult/JJ data/NNS set/NN of/IN 21,000/CD short/JJ sentences/NNS from/IN 21/CD different/JJ languages/NNS ,/, our/PRP$ model/NN performs/VBZ a/DT language/NN recognition/NN task/NN and/CC achieves/VBZ 97.8/CD percent/NN accuracy/NN ,/, comparable/JJ to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

@@ -1,0 +1,8 @@
+Accuracy/NN and/CC interpretation/NN are/VBP two/CD goals/NNS of/IN any/DT successful/JJ predictive/JJ models/NNS ./.
+Most/JJS existing/JJ works/NNS have/VBP to/TO suffer/VB the/DT tradeoff/NN between/IN the/DT two/CD by/IN either/CC picking/VBG complex/JJ black/JJ box/NN models/NNS such/JJ as/IN recurrent/JJ neural/JJ networks/NNS (/-LRB- RNN/NN )/-RRB- or/CC relying/VBG on/IN less/RBR accurate/JJ traditional/JJ models/NNS with/IN better/JJR interpretation/NN such/JJ as/IN logistic/JJ regression/NN ./.
+To/TO address/VB this/DT dilemma/NN ,/, we/PRP present/VBP REverse/NNP Time/NNP AttentIoN/NN model/NN (/-LRB- RETAIN/VB )/-RRB- for/IN analyzing/VBG EHR/NNP data/NNS that/WDT achieves/VBZ high/JJ accuracy/NN while/IN remaining/VBG clinically/RB interpretable/JJ ./.
+RETAIN/VB is/VBZ a/DT two/CD -/HYPH level/NN neural/JJ attention/NN model/NN that/WDT can/MD find/VB influential/JJ past/JJ visits/NNS and/CC significant/JJ clinical/JJ variables/NNS within/IN those/DT visits/NNS (/-LRB- e.g/NN ,/, ./.
+key/JJ diagnoses/NNS )/-RRB- ./.
+RETAIN/VB mimics/VBZ physician/NN practice/NN by/IN attending/VBG the/DT EHR/NNP data/NNS in/IN a/DT reverse/JJ time/NN order/NN so/IN that/IN more/RBR recent/JJ clinical/JJ visits/NNS will/MD likely/RB get/VB higher/JJR attention/NN ./.
+Experiments/NNS on/IN a/DT large/JJ real/JJ EHR/NNP dataset/NN of/IN 14/CD million/CD visits/NNS from/IN 263K/NN patients/NNS over/IN 8/CD years/NNS confirmed/VBD the/DT comparable/JJ predictive/JJ accuracy/NN and/CC computational/JJ scalability/NN to/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS such/JJ as/IN RNN/NN ./.
+Finally/RB ,/, we/PRP demonstrate/VBP the/DT clinical/JJ interpretation/NN with/IN concrete/JJ examples/NNS from/IN RETAIN/NNP ./.

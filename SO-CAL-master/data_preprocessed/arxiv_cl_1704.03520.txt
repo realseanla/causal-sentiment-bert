@@ -1,0 +1,8 @@
+Process/NN mining/NN analyzes/VBZ business/NN processes/NNS based/VBN on/IN events/NNS stored/VBN in/IN event/NN logs/NNS ./.
+However/RB ,/, some/DT recorded/VBD events/NNS may/MD correspond/VB to/IN activities/NNS on/IN a/DT very/RB low/JJ level/NN of/IN abstraction/NN ./.
+When/WRB events/NNS are/VBP recorded/VBN on/IN a/DT too/RB low/JJ level/NN of/IN granularity/NN ,/, process/NN discovery/NN methods/NNS tend/VBP to/TO generate/VB overgeneralizing/JJ process/NN models/NNS ./.
+Grouping/VBG low/JJ -/HYPH level/NN events/NNS to/IN higher/JJR level/NN activities/NNS ,/, i.e./FW ,/, event/NN abstraction/NN ,/, can/MD be/VB used/VBN to/TO discover/VB better/JJR process/NN models/NNS ./.
+Existing/VBG event/NN abstraction/NN methods/NNS are/VBP mainly/RB based/VBN on/IN common/JJ sub-sequences/NNS and/CC clustering/NN techniques/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO first/RB discover/VB local/JJ process/NN models/NNS and/CC then/RB use/VB those/DT models/NNS to/TO lift/VB the/DT event/NN log/NN to/IN a/DT higher/JJR level/NN of/IN abstraction/NN ./.
+Our/PRP$ conjecture/NN is/VBZ that/IN process/NN models/NNS discovered/VBN on/IN the/DT obtained/VBN high/JJ -/HYPH level/NN event/NN log/NN return/NN process/NN models/NNS of/IN higher/JJR quality/NN :/: their/PRP$ fitness/NN and/CC precision/NN scores/NNS are/VBP more/RBR balanced/JJ ./.
+We/PRP show/VBP this/DT with/IN preliminary/JJ results/NNS on/IN several/JJ real/JJ -/HYPH life/NN event/NN logs/NNS ./.

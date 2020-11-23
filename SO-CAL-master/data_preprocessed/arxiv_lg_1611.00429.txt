@@ -1,0 +1,5 @@
+Motivated/VBN by/IN the/DT need/NN for/IN distributed/VBN optimization/NN algorithms/NNS with/IN low/JJ communication/NN cost/NN ,/, we/PRP study/VBP communication/NN efficient/JJ algorithms/NNS to/TO perform/VB distributed/VBN mean/JJ estimation/NN ./.
+We/PRP study/VBP scenarios/NNS in/IN which/WDT each/DT client/NN sends/VBZ one/CD bit/NN per/IN dimension/NN ./.
+We/PRP first/RB show/VBP that/IN for/IN $/$ d/LS $/$ dimensional/JJ data/NNS with/IN $/$ n/NN $/$ clients/NNS ,/, a/DT naive/JJ stochastic/JJ rounding/NN approach/NN yields/VBZ a/DT mean/JJ squared/JJ error/NN $/$ \/SYM Theta/NNP (/-LRB- d/NN //HYPH n/NN )/-RRB- $/$ ./.
+We/PRP then/RB show/VBP by/IN applying/VBG a/DT structured/JJ random/JJ rotation/NN of/IN the/DT data/NNS (/-LRB- an/DT $/$ \/CD mathcal/NN {/-LRB- O/NN }/-RRB- (/-LRB- d/NN \/SYM log/NN d/NN )/-RRB- $/$ algorithm/NN )/-RRB- ,/, the/DT error/NN can/MD be/VB reduced/VBN to/IN $/$ \/CD mathcal/NN {/-LRB- O/NN }/-RRB- (/-LRB- (/-LRB- \/SYM log/NN d/NN )/-RRB- //HYPH n/NN )/-RRB- $/$ ./.
+The/DT algorithms/NNS and/CC the/DT analysis/NN make/VBP no/DT distributional/JJ assumptions/NNS on/IN the/DT data/NNS ./.

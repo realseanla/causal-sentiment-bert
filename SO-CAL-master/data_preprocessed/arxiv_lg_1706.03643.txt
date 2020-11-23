@@ -1,0 +1,8 @@
+Variational/NNP autoencoders/NNS (/-LRB- VAE/NNP )/-RRB- are/VBP directed/VBN generative/JJ models/NNS that/WDT learn/VBP factorial/JJ latent/JJ variables/NNS ./.
+As/IN noted/VBN by/IN Burda/NNP et/FW al./FW (/-LRB- 2015/CD )/-RRB- ,/, these/DT models/NNS exhibit/VBP the/DT problem/NN of/IN factor/NN over-pruning/NN where/WRB a/DT significant/JJ number/NN of/IN stochastic/JJ factors/NNS fail/VBP to/TO learn/VB anything/NN and/CC become/VB inactive/JJ ./.
+This/DT can/MD limit/VB their/PRP$ modeling/NN power/NN and/CC their/PRP$ ability/NN to/TO learn/VB diverse/JJ and/CC meaningful/JJ latent/JJ representations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP evaluate/VBP several/JJ methods/NNS to/TO address/VB this/DT problem/NN and/CC propose/VB a/DT more/RBR effective/JJ model/NN -/HYPH based/VBN approach/NN called/VBD the/DT epitomic/JJ variational/JJ autoencoder/NN (/-LRB- eVAE/NN )/-RRB- ./.
+The/DT so/RB -/HYPH called/VBN epitomes/NNS of/IN this/DT model/NN are/VBP groups/NNS of/IN mutually/RB exclusive/JJ latent/JJ factors/NNS that/WDT compete/VBP to/TO explain/VB the/DT data/NNS ./.
+This/DT approach/NN helps/VBZ prevent/VB inactive/JJ units/NNS since/IN each/DT group/NN is/VBZ pressured/VBN to/TO explain/VB the/DT data/NNS ./.
+We/PRP compare/VBP the/DT approaches/NNS with/IN qualitative/JJ and/CC quantitative/JJ results/NNS on/IN MNIST/NNP and/CC TFD/NNP datasets/NNS ./.
+Our/PRP$ results/NNS show/VBP that/IN eVAE/NN makes/VBZ efficient/JJ use/NN of/IN model/NN capacity/NN and/CC generalizes/VBZ better/JJR than/IN VAE/NNP ./.

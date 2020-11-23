@@ -1,0 +1,5 @@
+Syntactic/JJ features/NNS play/VBP an/DT essential/JJ role/NN in/IN identifying/VBG relationship/NN in/IN a/DT sentence/NN ./.
+Previous/JJ neural/JJ network/NN models/NNS often/RB suffer/VBP from/IN irrelevant/JJ information/NN introduced/VBN when/WRB subjects/NNS and/CC objects/NNS are/VBP in/IN a/DT long/JJ distance/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO learn/VB more/JJR robust/JJ relation/NN representations/NNS from/IN the/DT shortest/JJS dependency/NN path/NN through/IN a/DT convolution/NN neural/JJ network/NN ./.
+We/PRP further/RB propose/VB a/DT straightforward/JJ negative/JJ sampling/NN strategy/NN to/TO improve/VB the/DT assignment/NN of/IN subjects/NNS and/CC objects/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ method/NN outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS on/IN the/DT SemEval/NNP -/HYPH 2010/CD Task/NNP 8/CD dataset/NN ./.

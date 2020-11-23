@@ -1,0 +1,5 @@
+We/PRP introduce/VBP the/DT first/JJ ,/, general/JJ purpose/NN ,/, slice/NN sampling/NN inference/NN engine/NN for/IN probabilistic/JJ programs/NNS ./.
+This/DT engine/NN is/VBZ released/VBN as/IN part/NN of/IN StocPy/NNP ,/, a/DT new/JJ Turing/NNP -/HYPH Complete/NNP probabilistic/JJ programming/NN language/NN ,/, available/JJ as/IN a/DT Python/NNP library/NN ./.
+We/PRP present/VBP a/DT transdimensional/JJ generalisation/NN of/IN slice/NN sampling/NN which/WDT is/VBZ necessary/JJ for/IN the/DT inference/NN engine/NN to/TO work/VB on/IN traces/NNS with/IN different/JJ numbers/NNS of/IN random/JJ variables/NNS ./.
+We/PRP show/VBP that/IN StocPy/NNP compares/VBZ favourably/RB to/IN other/JJ PPLs/NNS in/IN terms/NNS of/IN flexibility/NN and/CC usability/NN ,/, and/CC that/DT slice/NN sampling/NN can/MD outperform/VB previously/RB introduced/VBN inference/NN methods/NNS ./.
+Our/PRP$ experiments/NNS include/VBP a/DT logistic/JJ regression/NN ,/, HMM/NNP ,/, and/CC Bayesian/JJ Neural/JJ Net/NN ./.

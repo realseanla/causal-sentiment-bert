@@ -1,0 +1,6 @@
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN multilingual/JJ learning/NN for/IN unsupervised/JJ part/NN -/HYPH of/IN -/HYPH speech/NN tagging/NN ./.
+The/DT central/JJ assumption/NN of/IN our/PRP$ work/NN is/VBZ that/IN by/IN combining/VBG cues/NNS from/IN multiple/JJ languages/NNS ,/, the/DT structure/NN of/IN each/DT becomes/VBZ more/JJR apparent/JJ ./.
+We/PRP consider/VBP two/CD ways/NNS of/IN applying/VBG this/DT intuition/NN to/IN the/DT problem/NN of/IN unsupervised/JJ part/NN -/HYPH of/IN -/HYPH speech/NN tagging/NN :/: a/DT model/NN that/WDT directly/RB merges/VBZ tag/NN structures/NNS for/IN a/DT pair/NN of/IN languages/NNS into/IN a/DT single/JJ sequence/NN and/CC a/DT second/JJ model/NN which/WDT instead/RB incorporates/VBZ multilingual/JJ context/NN using/VBG latent/NN variables/NNS ./.
+Both/DT approaches/NNS are/VBP formulated/VBN as/IN hierarchical/JJ Bayesian/JJ models/NNS ,/, using/VBG Markov/NNP Chain/NNP Monte/NNP Carlo/NNP sampling/NN techniques/NNS for/IN inference/NN ./.
+Our/PRP$ results/NNS demonstrate/VBP that/IN by/IN incorporating/VBG multilingual/JJ evidence/NN we/PRP can/MD achieve/VB impressive/JJ performance/NN gains/NNS across/IN a/DT range/NN of/IN scenarios/NNS ./.
+We/PRP also/RB found/VBD that/IN performance/NN improves/VBZ steadily/RB as/IN the/DT number/NN of/IN available/JJ languages/NNS increases/NNS ./.

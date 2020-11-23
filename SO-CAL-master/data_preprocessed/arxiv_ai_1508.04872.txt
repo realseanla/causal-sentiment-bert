@@ -1,0 +1,9 @@
+Warehouse/NN is/VBZ one/CD of/IN the/DT important/JJ aspects/NNS of/IN a/DT company/NN ./.
+Therefore/RB ,/, it/PRP is/VBZ necessary/JJ to/TO improve/VB Warehouse/NNP Management/NNP System/NNP (/-LRB- WMS/NNP )/-RRB- to/TO have/VB a/DT simple/JJ function/NN that/WDT can/MD determine/VB the/DT layout/NN of/IN the/DT storage/NN goods/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP an/DT improved/VBN warehouse/NN layout/NN method/NN based/VBN on/IN ant/NN colony/NN algorithm/NN and/CC backtracking/VBG algorithm/NN ./.
+The/DT method/NN works/VBZ on/IN two/CD steps/NNS ./.
+First/RB ,/, it/PRP generates/VBZ a/DT solutions/NNS parameter/NN tree/NN from/IN backtracking/VBG algorithm/NN ./.
+Then/RB second/RB ,/, it/PRP deducts/VBZ the/DT solutions/NNS parameter/NN by/IN using/VBG a/DT combination/NN of/IN ant/NN colony/NN algorithm/NN and/CC backtracking/VBG algorithm/NN ./.
+This/DT method/NN was/VBD tested/VBN by/IN measuring/VBG the/DT time/NN needed/VBN to/TO build/VB the/DT tree/NN and/CC to/TO fill/VB up/RP the/DT space/NN using/VBG two/CD scenarios/NNS ./.
+The/DT method/NN needs/VBZ 0.294/CD to/IN 33.15/CD seconds/NNS to/TO construct/VB the/DT tree/NN and/CC 3.23/CD seconds/NNS (/-LRB- best/JJS case/NN )/-RRB- to/IN 61.41/CD minutes/NNS (/-LRB- worst/JJS case/NN )/-RRB- to/TO fill/VB up/RP the/DT warehouse/NN ./.
+This/DT method/NN is/VBZ proved/VBN to/TO be/VB an/DT attractive/JJ alternative/NN solution/NN for/IN warehouse/NN layout/NN system/NN ./.

@@ -1,0 +1,7 @@
+Automatic/JJ annotation/NN of/IN temporal/JJ expressions/NNS is/VBZ a/DT research/NN challenge/NN of/IN great/JJ interest/NN in/IN the/DT field/NN of/IN information/NN extraction/NN ./.
+Gold/NN standard/JJ temporally/RB -/HYPH annotated/VBN resources/NNS are/VBP limited/VBN in/IN size/NN ,/, which/WDT makes/VBZ research/NN using/VBG them/PRP difficult/JJ ./.
+Standards/NNPS have/VBP also/RB evolved/VBN over/IN the/DT past/JJ decade/NN ,/, so/RB not/RB all/DT temporally/RB annotated/VBN data/NNS is/VBZ in/IN the/DT same/JJ format/NN ./.
+We/PRP vastly/RB increase/VBP available/JJ human/JJ -/HYPH annotated/JJ temporal/JJ expression/NN resources/NNS by/IN converting/VBG older/JJR format/NN resources/NNS to/IN TimeML/NN //HYPH TIMEX3/NN ./.
+This/DT task/NN is/VBZ difficult/JJ due/IN to/IN differing/VBG annotation/NN methods/NNS ./.
+We/PRP present/VBP a/DT robust/JJ conversion/NN tool/NN and/CC a/DT new/JJ ,/, large/JJ temporal/JJ expression/NN resource/NN ./.
+Using/VBG this/DT ,/, we/PRP evaluate/VBP our/PRP$ conversion/NN process/NN by/IN using/VBG it/PRP as/IN training/NN data/NNS for/IN an/DT existing/VBG TimeML/NN annotation/NN tool/NN ,/, achieving/VBG a/DT 0.87/CD F1/NN measure/NN --/: better/JJR than/IN any/DT system/NN in/IN the/DT TempEval/NNP -/HYPH 2/CD timex/NN recognition/NN exercise/NN ./.

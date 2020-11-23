@@ -1,0 +1,6 @@
+We/PRP describe/VBP MITRE/NNP 's/POS submission/NN to/IN the/DT SemEval/NNP -/HYPH 2016/CD Task/NNP 6/CD ,/, Detecting/VBG Stance/NN in/IN Tweets/NNS ./.
+This/DT effort/NN achieved/VBD the/DT top/JJ score/NN in/IN Task/NNP A/NNP on/IN supervised/JJ stance/NN detection/NN ,/, producing/VBG an/DT average/JJ F1/NN score/NN of/IN 67.8/CD when/WRB assessing/VBG whether/IN a/DT tweet/NN author/NN was/VBD in/IN favor/NN or/CC against/IN a/DT topic/NN ./.
+We/PRP employed/VBD a/DT recurrent/JJ neural/JJ network/NN initialized/VBN with/IN features/NNS learned/VBN via/IN distant/JJ supervision/NN on/IN two/CD large/JJ unlabeled/JJ datasets/NNS ./.
+We/PRP trained/VBD embeddings/NNS of/IN words/NNS and/CC phrases/NNS with/IN the/DT word2vec/NN skip/VB -/HYPH gram/NN method/NN ,/, then/RB used/VBD those/DT features/NNS to/TO learn/VB sentence/NN representations/NNS via/IN a/DT hashtag/NN prediction/NN auxiliary/JJ task/NN ./.
+These/DT sentence/NN vectors/NNS were/VBD then/RB fine/JJ -/HYPH tuned/VBN for/IN stance/NN detection/NN on/IN several/JJ hundred/CD labeled/VBN examples/NNS ./.
+The/DT result/NN was/VBD a/DT high/JJ performing/VBG system/NN that/WDT used/VBD transfer/NN learning/NN to/TO maximize/VB the/DT value/NN of/IN the/DT available/JJ training/NN data/NNS ./.

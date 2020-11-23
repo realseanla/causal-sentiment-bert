@@ -1,0 +1,9 @@
+The/DT Random/NNP Walks/NNPS (/-LRB- RW/NNP )/-RRB- algorithm/NN is/VBZ one/CD of/IN the/DT most/JJS e/NN -/HYPH cient/NN and/CC easy/JJ -/HYPH to/IN -/HYPH use/NN probabilistic/JJ segmentation/NN methods/NNS ./.
+By/IN combining/VBG contrast/NN terms/NNS with/IN prior/JJ terms/NNS ,/, it/PRP provides/VBZ accurate/JJ segmentations/NNS of/IN medical/JJ images/NNS in/IN a/DT fully/RB automated/VBN manner/NN ./.
+However/RB ,/, one/CD of/IN the/DT main/JJ drawbacks/NNS of/IN using/VBG the/DT RW/NNP algorithm/NN is/VBZ that/IN its/PRP$ parameters/NNS have/VBP to/TO be/VB hand/NN -/HYPH tuned/VBN ./.
+we/PRP propose/VBP a/DT novel/JJ discriminative/JJ learning/NN framework/NN that/WDT estimates/VBZ the/DT parameters/NNS using/VBG a/DT training/NN dataset/NN ./.
+The/DT main/JJ challenge/NN we/PRP face/VBP is/VBZ that/IN the/DT training/NN samples/NNS are/VBP not/RB fully/RB supervised/JJ ./.
+Speci/NNP cally/RB ,/, they/PRP provide/VBP a/DT hard/JJ segmentation/NN of/IN the/DT images/NNS ,/, instead/RB of/IN a/DT proba/NN -/HYPH bilistic/JJ segmentation/NN ./.
+We/PRP overcome/VBP this/DT challenge/NN by/IN treating/VBG the/DT optimal/JJ probabilistic/JJ segmentation/NN that/WDT is/VBZ compatible/JJ with/IN the/DT given/VBN hard/JJ segmentation/NN as/IN a/DT latent/JJ variable/NN ./.
+This/DT allows/VBZ us/PRP to/TO employ/VB the/DT latent/JJ support/NN vector/NN machine/NN formulation/NN for/IN parameter/NN estimation/NN ./.
+We/PRP show/VBP that/IN our/PRP$ approach/NN signi/NN cantly/RB outperforms/VBZ the/DT baseline/NN methods/NNS on/IN a/DT challenging/JJ dataset/NN consisting/VBG of/IN real/JJ clinical/JJ 3D/NN MRI/NN volumes/NNS of/IN skeletal/JJ muscles/NNS ./.

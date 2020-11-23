@@ -1,0 +1,6 @@
+In/IN recent/JJ years/NNS ,/, model/NN -/HYPH free/JJ methods/NNS that/WDT use/VBP deep/JJ learning/NN have/VBP achieved/VBN great/JJ success/NN in/IN many/JJ different/JJ reinforcement/NN learning/VBG environments/NNS ./.
+Most/JJS successful/JJ approaches/NNS focus/VBP on/IN solving/VBG a/DT single/JJ task/NN ,/, while/IN multi-task/VB reinforcement/NN learning/NN remains/VBZ an/DT open/JJ problem/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT model/NN based/VBN approach/NN to/IN deep/JJ reinforcement/NN learning/NN which/WDT we/PRP use/VBP to/TO solve/VB different/JJ tasks/NNS simultaneously/RB ./.
+We/PRP show/VBP that/IN our/PRP$ approach/NN not/RB only/RB does/VBZ not/RB degrade/VB but/CC actually/RB benefits/NNS from/IN learning/VBG multiple/JJ tasks/NNS ./.
+For/IN our/PRP$ model/NN ,/, we/PRP also/RB present/VBP a/DT new/JJ kind/NN of/IN recurrent/JJ neural/JJ network/NN inspired/VBN by/IN residual/JJ networks/NNS that/WDT decouples/VBZ memory/NN from/IN computation/NN allowing/VBG to/IN model/NN complex/JJ environments/NNS that/WDT do/VBP not/RB require/VB lots/NNS of/IN memory/NN ./.
+The/DT code/NN will/MD be/VB released/VBN before/IN ICLR/NN 2017/CD ./.

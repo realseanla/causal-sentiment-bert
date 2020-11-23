@@ -1,0 +1,7 @@
+Multi-label/JJ classification/NN deals/NNS with/IN the/DT problem/NN where/WRB each/DT instance/NN is/VBZ associated/VBN with/IN multiple/JJ class/NN labels/NNS ./.
+Because/IN evaluation/NN in/IN multi-label/JJ classification/NN is/VBZ more/RBR complicated/JJ than/IN single/JJ -/HYPH label/NN setting/NN ,/, a/DT number/NN of/IN performance/NN measures/NNS have/VBP been/VBN proposed/VBN ./.
+It/PRP is/VBZ noticed/VBN that/IN an/DT algorithm/NN usually/RB performs/VBZ differently/RB on/IN different/JJ measures/NNS ./.
+Therefore/RB ,/, it/PRP is/VBZ important/JJ to/TO understand/VB which/WDT algorithms/NNS perform/VBP well/RB on/IN which/WDT measure/NN (/-LRB- s/AFX )/-RRB- and/CC why/WRB ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT unified/JJ margin/NN view/NN to/IN revisit/VB eleven/CD performance/NN measures/NNS in/IN multi-label/JJ classification/NN ./.
+In/IN particular/JJ ,/, we/PRP define/VBP label-wise/JJ margin/NN and/CC instance-wise/NN margin/NN ,/, and/CC prove/VB that/IN through/IN maximizing/VBG these/DT margins/NNS ,/, different/JJ corresponding/VBG performance/NN measures/NNS will/MD be/VB optimized/VBN ./.
+Based/VBN on/IN the/DT defined/VBN margins/NNS ,/, a/DT max/NN -/HYPH margin/NN approach/NN called/VBN LIMO/NNP is/VBZ designed/VBN and/CC empirical/JJ results/NNS verify/VBP our/PRP$ theoretical/JJ findings/NNS ./.

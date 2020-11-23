@@ -1,0 +1,5 @@
+LogitBoost/NNP and/CC its/PRP$ later/JJ improvement/NN ,/, ABC/NNP -/HYPH LogitBoost/NNP ,/, are/VBP both/DT successful/JJ multi-class/NN boosting/VBG algorithms/NNS for/IN classification/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP explicitly/RB formulate/VB the/DT tree/NN building/NN at/IN each/DT LogitBoost/NNP iteration/NN as/IN constrained/VBN quadratic/JJ optimization/NN ./.
+Both/DT LogitBoost/NNP and/CC ABC/NNP -/HYPH LogtiBoost/NNP adopt/VB approximated/VBN solver/NN to/IN such/JJ quadratic/JJ subproblem/NN ./.
+We/PRP then/RB propose/VB an/DT intuitively/RB more/RBR natural/JJ solver/NN ,/, i.e./FW the/DT block/NN coordinate/NN descent/NN algorithm/NN ,/, and/CC demonstrate/VBP that/IN it/PRP leads/VBZ to/IN higher/JJR classification/NN accuracy/NN and/CC faster/JJR convergence/NN rate/NN on/IN a/DT number/NN of/IN public/JJ datasets/NNS ./.
+This/DT new/JJ LogitBoost/NNP behaves/VBZ as/IN if/IN it/PRP combines/VBZ many/JJ one/CD -/HYPH vs/IN -/HYPH one/CD binary/JJ classifiers/NNS adaptively/RB ,/, hence/RB the/DT name/NN AOSO/NN -/HYPH LogitBoost/NN (/-LRB- Adaptive/JJ One/CD -/HYPH vs/IN -/HYPH One/CD LogitBoost/NNP )/-RRB-

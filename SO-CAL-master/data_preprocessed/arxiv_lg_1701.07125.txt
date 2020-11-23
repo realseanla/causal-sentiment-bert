@@ -1,0 +1,9 @@
+We/PRP describe/VBP jsCcoq/NNP ,/, a/DT new/JJ platform/NN and/CC user/NN environment/NN for/IN the/DT Coq/NNP interactive/JJ proof/NN assistant/NN ./.
+The/DT jsCoq/NN system/NN targets/VBZ the/DT HTML5/NN -/HYPH ECMAScript/NN 2015/CD specification/NN ,/, and/CC it/PRP is/VBZ typically/RB run/VBN inside/IN a/DT standards/JJ -/HYPH compliant/JJ browser/NN ,/, without/IN the/DT need/NN of/IN external/JJ servers/NNS or/CC services/NNS ./.
+Targeting/VBG educational/JJ use/NN ,/, jsCoq/NN allows/VBZ the/DT user/NN to/TO start/VB interaction/NN with/IN proof/NN scripts/NNS right/RB away/RB ,/, thanks/NNS to/IN its/PRP$ self/NN -/HYPH contained/VBN nature/NN ./.
+Indeed/RB ,/, a/DT full/JJ Coq/NNP environment/NN is/VBZ packed/VBN along/IN the/DT proof/NN scripts/NNS ,/, easing/VBG distribution/NN and/CC installation/NN ./.
+Starting/VBG to/TO use/VB jsCoq/NNP is/VBZ as/RB easy/JJ as/IN clicking/VBG on/IN a/DT link/NN ./.
+The/DT current/JJ release/NN ships/NNS more/JJR than/IN 10/CD popular/JJ Coq/NNP libraries/NNS ,/, and/CC supports/VBZ popular/JJ books/NNS such/JJ as/IN Software/NNP Foundations/NNPS or/CC Certified/NNP Programming/NNP with/IN Dependent/NNP Types/NNS ./.
+The/DT new/JJ target/NN platform/NN has/VBZ opened/VBN up/RP new/JJ interaction/NN and/CC display/VBP possibilities/NNS ./.
+It/PRP has/VBZ also/RB fostered/VBN the/DT development/NN of/IN some/DT new/JJ Coq/NNP -/HYPH related/VBN technology/NN ./.
+In/IN particular/JJ ,/, we/PRP have/VBP implemented/VBN a/DT new/JJ serialization/NN -/HYPH based/VBN protocol/NN for/IN interaction/NN with/IN the/DT proof/NN assistant/NN ,/, as/RB well/RB as/IN a/DT new/JJ package/NN format/NN for/IN library/NN distribution/NN ./.

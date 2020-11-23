@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT skip/VB -/HYPH thought/VBN model/NN with/IN neighborhood/NN information/NN as/IN weak/JJ supervision/NN ./.
+More/RBR specifically/RB ,/, we/PRP propose/VBP a/DT skip/VB -/HYPH thought/VBN neighbor/NN model/NN to/TO consider/VB the/DT adjacent/JJ sentences/NNS as/IN a/DT neighborhood/NN ./.
+We/PRP train/VBP our/PRP$ skip/VB -/HYPH thought/VBN neighbor/NN model/NN on/IN a/DT large/JJ corpus/NN with/IN continuous/JJ sentences/NNS ,/, and/CC then/RB evaluate/VB the/DT trained/VBN model/NN on/IN 7/CD tasks/NNS ,/, which/WDT include/VBP semantic/JJ relatedness/NN ,/, paraphrase/NN detection/NN ,/, and/CC classification/NN benchmarks/NNS ./.
+Both/DT quantitative/JJ comparison/NN and/CC qualitative/JJ investigation/NN are/VBP conducted/VBN ./.
+We/PRP empirically/RB show/VBP that/IN ,/, our/PRP$ skip/VB -/HYPH thought/VBN neighbor/NN model/NN performs/VBZ as/RB well/RB as/IN the/DT skip/VB -/HYPH thought/VBN model/NN on/IN evaluation/NN tasks/NNS ./.
+In/IN addition/NN ,/, we/PRP found/VBD that/IN ,/, incorporating/VBG an/DT autoencoder/NN path/NN in/IN our/PRP$ model/NN did/VBD n't/RB aid/VB our/PRP$ model/NN to/TO perform/VB better/JJR ,/, while/IN it/PRP hurts/VBZ the/DT performance/NN of/IN the/DT skip/VB -/HYPH thought/VBN model/NN ./.

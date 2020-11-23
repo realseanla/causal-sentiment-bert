@@ -1,0 +1,6 @@
+This/DT paper/NN introduces/VBZ a/DT neural/JJ model/NN for/IN concept/NN -/HYPH to/IN -/HYPH text/NN generation/NN that/WDT scales/VBZ to/IN large/JJ ,/, rich/JJ domains/NNS ./.
+We/PRP experiment/VBP with/IN a/DT new/JJ dataset/NN of/IN biographies/NNS from/IN Wikipedia/NNP that/WDT is/VBZ an/DT order/NN of/IN magni/NN -/HYPH tude/NN larger/JJR than/IN existing/VBG resources/NNS with/IN over/IN 700k/CD samples/NNS ./.
+The/DT dataset/NN is/VBZ also/RB vastly/RB more/RBR diverse/JJ with/IN a/DT 400k/NN vocab/NN -/HYPH ulary/JJ ,/, compared/VBN to/IN a/DT few/JJ hundred/CD words/NNS for/IN Weathergov/NNP or/CC Robocup/NNP ./.
+Our/PRP$ model/NN builds/VBZ upon/IN recent/JJ work/NN on/IN conditional/JJ neural/JJ language/NN model/NN for/IN text/NN genera/NN -/HYPH tion/NN ./.
+To/TO deal/VB with/IN the/DT large/JJ vocabulary/NN ,/, we/PRP extend/VBP these/DT models/NNS to/TO mix/VB a/DT fixed/VBN vocabulary/NN with/IN copy/NN actions/NNS that/WDT trans/NN -/HYPH fer/NN sample/NN -/HYPH specific/JJ words/NNS from/IN the/DT in/IN -/HYPH put/VBN database/NN to/IN the/DT generated/VBN output/NN sen/NNP -/HYPH tence/NN ./.
+Our/PRP$ neural/JJ model/NN significantly/RB out/RB -/HYPH performs/VBZ a/DT classical/JJ Kneser/NNP -/HYPH Ney/NNP language/NN model/NN adapted/VBN to/IN this/DT task/NN by/IN nearly/RB 15/CD BLEU/NN ./.

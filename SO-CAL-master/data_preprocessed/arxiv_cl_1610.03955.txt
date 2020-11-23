@@ -1,0 +1,5 @@
+In/IN human/JJ -/HYPH computer/NN conversation/NN systems/NNS ,/, the/DT context/NN of/IN a/DT user/NN -/HYPH issued/VBN utterance/NN is/VBZ particularly/RB important/JJ because/IN it/PRP provides/VBZ useful/JJ background/NN information/NN of/IN the/DT conversation/NN ./.
+However/RB ,/, it/PRP is/VBZ unwise/JJ to/TO track/VB all/DT previous/JJ utterances/NNS in/IN the/DT current/JJ session/NN as/IN not/RB all/DT of/IN them/PRP are/VBP equally/RB important/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN session/NN segmentation/NN ./.
+We/PRP propose/VBP an/DT embedding/NN -/HYPH enhanced/VBN TextTiling/NNP approach/NN ,/, inspired/VBN by/IN the/DT observation/NN that/IN conversation/NN utterances/NNS are/VBP highly/RB noisy/JJ ,/, and/CC that/DT word/NN embeddings/NNS provide/VBP a/DT robust/JJ way/NN of/IN capturing/VBG semantics/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ approach/NN achieves/VBZ better/JJR performance/NN than/IN the/DT TextTiling/NNP ,/, MMD/NNP approaches/VBZ ./.

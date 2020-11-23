@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT simple/JJ method/NN to/TO incorporate/VB syntactic/JJ information/NN about/IN the/DT target/NN language/NN in/IN a/DT neural/JJ machine/NN translation/NN system/NN by/IN translating/VBG into/IN linearized/VBN ,/, lexicalized/VBN constituency/NN trees/NNS ./.
+An/DT experiment/NN on/IN the/DT WMT16/JJ German/JJ -/HYPH English/JJ news/NN translation/NN task/NN resulted/VBD in/IN an/DT improved/VBN BLEU/NN score/NN when/WRB compared/VBN to/IN a/DT syntax/NN -/HYPH agnostic/JJ NMT/NN baseline/NN trained/VBN on/IN the/DT same/JJ dataset/NN ./.
+An/DT analysis/NN of/IN the/DT translations/NNS from/IN the/DT syntax/NN -/HYPH aware/JJ system/NN shows/VBZ that/IN it/PRP performs/VBZ more/JJR reordering/NN during/IN translation/NN in/IN comparison/NN to/IN the/DT baseline/NN ./.
+A/DT small/JJ -/HYPH scale/NN human/JJ evaluation/NN also/RB showed/VBD an/DT advantage/NN to/IN the/DT syntax/NN -/HYPH aware/JJ system/NN ./.

@@ -1,0 +1,16 @@
+In/IN animal/NN monitoring/NN applications/NNS ,/, both/CC animal/NN detection/NN and/CC their/PRP$ movement/NN prediction/NN are/VBP major/JJ tasks/NNS ./.
+While/IN a/DT variety/NN of/IN animal/NN monitoring/NN strategies/NNS exist/VBP ,/, most/JJS of/IN them/PRP rely/VBP on/IN mounting/VBG devices/NNS ./.
+However/RB ,/, in/IN real/JJ world/NN ,/, it/PRP is/VBZ difficult/JJ to/TO find/VB these/DT animals/NNS and/CC install/VB mounting/VBG devices/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT animal/NN monitoring/NN application/NN by/IN utilizing/VBG wireless/JJ sensor/NN networks/NNS (/-LRB- WSNs/NNS )/-RRB- and/CC unmanned/JJ aerial/JJ vehicle/NN (/-LRB- UAV/NNP )/-RRB- ./.
+The/DT objective/NN of/IN the/DT application/NN is/VBZ to/TO detect/VB locations/NNS of/IN endangered/JJ species/NNS in/IN large/JJ -/HYPH scale/NN wildlife/NN areas/NNS and/CC monitor/VB movement/NN of/IN animals/NNS without/IN any/DT attached/VBN devices/NNS ./.
+In/IN this/DT application/NN ,/, sensors/NNS deployed/VBN throughout/IN the/DT observation/NN area/NN are/VBP responsible/JJ for/IN gathering/VBG animal/NN information/NN ./.
+The/DT UAV/NNP flies/NNS above/IN the/DT observation/NN area/NN and/CC collects/VBZ the/DT information/NN from/IN sensors/NNS ./.
+To/TO achieve/VB the/DT information/NN efficiently/RB ,/, we/PRP propose/VBP a/DT path/NN planning/NN approach/NN for/IN the/DT UAV/NNP based/VBN on/IN a/DT Markov/NNP decision/NN process/NN (/-LRB- MDP/NN )/-RRB- model/NN ./.
+The/DT UAV/NNP receives/VBZ a/DT certain/JJ amount/NN of/IN reward/NN from/IN an/DT area/NN if/IN some/DT animals/NNS are/VBP detected/VBN at/IN that/DT location/NN ./.
+We/PRP solve/VB the/DT MDP/NN using/VBG Q/NN -/HYPH learning/VBG such/JJ that/IN the/DT UAV/NNP prefers/VBZ going/VBG to/IN those/DT areas/NNS that/WDT animals/NNS are/VBP detected/VBN before/RB ./.
+Meanwhile/RB ,/, the/DT UAV/NNP explores/VBZ other/JJ areas/NNS as/RB well/RB to/TO cover/VB the/DT entire/JJ network/NN and/CC detects/VBZ changes/NNS in/IN the/DT animal/NN positions/NNS ./.
+We/PRP first/RB define/VBP the/DT mathematical/JJ model/NN underlying/VBG the/DT animal/NN monitoring/NN problem/NN in/IN terms/NNS of/IN the/DT value/NN of/IN information/NN (/-LRB- VoI/NN )/-RRB- and/CC rewards/NNS ./.
+We/PRP propose/VBP a/DT network/NN model/NN including/VBG clusters/NNS of/IN sensor/NN nodes/NNS and/CC a/DT single/JJ UAV/NN that/WDT acts/VBZ as/IN a/DT mobile/JJ sink/NN and/CC visits/VBZ the/DT clusters/NNS ./.
+Then/RB ,/, one/CD MDP/NN -/HYPH based/VBN path/NN planning/NN approach/NN is/VBZ designed/VBN to/TO maximize/VB the/DT VoI/NN while/IN reducing/VBG message/NN delays/NNS ./.
+The/DT effectiveness/NN of/IN the/DT proposed/VBN approach/NN is/VBZ evaluated/VBN using/VBG two/CD real/JJ -/HYPH world/NN movement/NN datasets/NNS of/IN zebras/NNS and/CC leopard/NN ./.
+Simulation/NNP results/NNS show/VBP that/IN our/PRP$ approach/NN outperforms/VBZ greedy/JJ ,/, random/JJ heuristics/NNS and/CC the/DT path/NN planning/NN based/VBN on/IN the/DT traveling/VBG salesman/NN problem/NN ./.

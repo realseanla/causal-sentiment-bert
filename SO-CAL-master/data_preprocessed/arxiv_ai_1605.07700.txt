@@ -1,0 +1,8 @@
+Artificial/NNP intelligence/NN is/VBZ commonly/RB defined/VBN as/IN the/DT ability/NN to/TO achieve/VB goals/NNS in/IN the/DT world/NN ./.
+In/IN the/DT reinforcement/NN learning/VBG framework/NN ,/, goals/NNS are/VBP encoded/VBN as/IN reward/NN functions/VBZ that/IN guide/NN agent/NN behaviour/NN ,/, and/CC the/DT sum/NN of/IN observed/VBN rewards/NNS provide/VBP a/DT notion/NN of/IN progress/NN ./.
+However/RB ,/, some/DT domains/NNS have/VBP no/DT such/JJ reward/NN signal/NN ,/, or/CC have/VBP a/DT reward/NN signal/NN so/IN sparse/JJ as/IN to/TO appear/VB absent/JJ ./.
+Without/IN reward/NN feedback/NN ,/, agent/NN behaviour/NN is/VBZ typically/RB random/JJ ,/, often/RB dithering/VBG aimlessly/RB and/CC lacking/VBG intentionality/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP an/DT algorithm/NN capable/JJ of/IN learning/VBG purposeful/JJ behaviour/NN in/IN the/DT absence/NN of/IN rewards/NNS ./.
+The/DT algorithm/NN proceeds/NNS by/IN constructing/VBG temporally/RB extended/VBN actions/NNS (/-LRB- options/NNS )/-RRB- ,/, through/IN the/DT identification/NN of/IN purposes/NNS that/WDT are/VBP "/`` just/RB out/IN of/IN reach/NN "/'' of/IN the/DT agent/NN 's/POS current/JJ behaviour/NN ./.
+These/DT purposes/NNS establish/VBP intrinsic/JJ goals/NNS for/IN the/DT agent/NN to/TO learn/VB ,/, ultimately/RB resulting/VBG in/IN a/DT suite/NN of/IN behaviours/NNS that/WDT encourage/VBP the/DT agent/NN to/TO visit/VB different/JJ parts/NNS of/IN the/DT state/NN space/NN ./.
+Moreover/RB ,/, the/DT approach/NN is/VBZ particularly/RB suited/VBN for/IN settings/NNS where/WRB rewards/NNS are/VBP very/RB sparse/JJ ,/, and/CC such/JJ behaviours/NNS can/MD help/VB in/IN the/DT exploration/NN of/IN the/DT environment/NN until/IN reward/NN is/VBZ observed/VBN ./.

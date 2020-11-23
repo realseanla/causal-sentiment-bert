@@ -1,0 +1,8 @@
+Neural/JJ Networks/NNS sequentially/RB build/VBP high/JJ -/HYPH level/NN features/NNS through/IN their/PRP$ successive/JJ layers/NNS ./.
+We/PRP propose/VBP here/RB a/DT new/JJ neural/JJ network/NN model/NN where/WRB each/DT layer/NN is/VBZ associated/VBN with/IN a/DT set/NN of/IN candidate/NN mappings/NNS ./.
+When/WRB an/DT input/NN is/VBZ processed/VBN ,/, at/IN each/DT layer/NN ,/, one/CD mapping/NN among/IN these/DT candidates/NNS is/VBZ selected/VBN according/VBG to/IN a/DT sequential/JJ decision/NN process/NN ./.
+The/DT resulting/VBG model/NN is/VBZ structured/VBN according/VBG to/IN a/DT DAG/NN like/IN architecture/NN ,/, so/IN that/IN a/DT path/NN from/IN the/DT root/NN to/IN a/DT leaf/NN node/NN defines/VBZ a/DT sequence/NN of/IN transformations/NNS ./.
+Instead/RB of/IN considering/VBG global/JJ transformations/NNS ,/, like/IN in/IN classical/JJ multilayer/JJ networks/NNS ,/, this/DT model/NN allows/VBZ us/PRP for/IN learning/VBG a/DT set/NN of/IN local/JJ transformations/NNS ./.
+It/PRP is/VBZ thus/RB able/JJ to/TO process/VB data/NNS with/IN different/JJ characteristics/NNS through/IN specific/JJ sequences/NNS of/IN such/JJ local/JJ transformations/NNS ,/, increasing/VBG the/DT expression/NN power/NN of/IN this/DT model/NN w.r.t/IN a/DT classical/JJ multilayered/JJ network/NN ./.
+The/DT learning/NN algorithm/NN is/VBZ inspired/VBN from/IN policy/NN gradient/NN techniques/NNS coming/VBG from/IN the/DT reinforcement/NN learning/VBG domain/NN and/CC is/VBZ used/VBN here/RB instead/RB of/IN the/DT classical/JJ back/NN -/HYPH propagation/NN based/VBN gradient/NN descent/NN techniques/NNS ./.
+Experiments/NNS on/IN different/JJ datasets/NNS show/VBP the/DT relevance/NN of/IN this/DT approach/NN ./.

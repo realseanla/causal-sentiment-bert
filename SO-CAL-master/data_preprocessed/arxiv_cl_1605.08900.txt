@@ -1,0 +1,7 @@
+We/PRP introduce/VBP a/DT deep/JJ memory/NN network/NN for/IN aspect/NN level/NN sentiment/NN classification/NN ./.
+Unlike/IN feature/NN -/HYPH based/VBN SVM/NNP and/CC sequential/JJ neural/JJ models/NNS such/JJ as/IN LSTM/NNP ,/, this/DT approach/NN explicitly/RB captures/VBZ the/DT importance/NN of/IN each/DT context/NN word/NN when/WRB inferring/VBG the/DT sentiment/NN polarity/NN of/IN an/DT aspect/NN ./.
+Such/JJ importance/NN degree/NN and/CC text/NN representation/NN are/VBP calculated/VBN with/IN multiple/JJ computational/JJ layers/NNS ,/, each/DT of/IN which/WDT is/VBZ a/DT neural/JJ attention/NN model/NN over/IN an/DT external/JJ memory/NN ./.
+Experiments/NNS on/IN laptop/NN and/CC restaurant/NN datasets/NNS demonstrate/VBP that/IN our/PRP$ approach/NN performs/VBZ comparable/JJ to/IN state/NN -/HYPH of/IN -/HYPH art/NN feature/NN based/VBN SVM/NNP system/NN ,/, and/CC substantially/RB better/JJR than/IN LSTM/NNP and/CC attention/NN -/HYPH based/VBN LSTM/NNP architectures/NNS ./.
+On/IN both/DT datasets/NNS we/PRP show/VBP that/IN multiple/JJ computational/JJ layers/NNS could/MD improve/VB the/DT performance/NN ./.
+Moreover/RB ,/, our/PRP$ approach/NN is/VBZ also/RB fast/RB ./.
+The/DT deep/JJ memory/NN network/NN with/IN 9/CD layers/NNS is/VBZ 15/CD times/NNS faster/JJR than/IN LSTM/NN with/IN a/DT CPU/NN implementation/NN ./.

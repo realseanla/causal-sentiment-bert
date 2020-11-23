@@ -1,0 +1,6 @@
+Fully connected network has been widely used in deep learning, and its computation efficiency is highly benefited from the matrix multiplication algorithm with cuBLAS on GPU.
+However, We found that, there exist some drawbacks of cuBLAS in calculating matrix $\textbf{A}$ multiplies the transpose of matrix $\textbf{B}$ (i.e., NT operation).
+To reduce the impact of NT operation by cuBLAS, we exploit the out-of-place transpose of matrix $\textbf{B}$ to avoid using NT operation, and then we apply our method to Caffe, which is a popular deep learning tool.
+Our contribution is two-fold.
+First, we propose a naive method (TNN) and model-based method (MTNN) to increase the performance in calculating $\textbf{A}\times \textbf{B}^T$, and it achieves about 4.7 times performance enhancement in our tested cases on GTX1080 card.
+Second, we integrate MTNN method into Caffe to enhance the efficiency in training fully connected networks, which achieves about 70 percent speedup compared to the original Caffe in our configured fully connected networks on GTX1080 card.

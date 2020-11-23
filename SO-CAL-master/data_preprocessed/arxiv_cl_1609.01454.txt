@@ -1,0 +1,8 @@
+Attention/NN -/HYPH based/VBN encoder/NN -/HYPH decoder/NN neural/JJ network/NN models/NNS have/VBP recently/RB shown/VBN promising/JJ results/NNS in/IN machine/NN translation/NN and/CC speech/NN recognition/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP an/DT attention/NN -/HYPH based/VBN neural/JJ network/NN model/NN for/IN joint/JJ intent/NN detection/NN and/CC slot/NN filling/NN ,/, both/DT of/IN which/WDT are/VBP critical/JJ steps/NNS for/IN many/JJ speech/NN understanding/NN and/CC dialog/NN systems/NNS ./.
+Unlike/IN in/IN machine/NN translation/NN and/CC speech/NN recognition/NN ,/, alignment/NN is/VBZ explicit/JJ in/IN slot/NN filling/NN ./.
+We/PRP explore/VBP different/JJ strategies/NNS in/IN incorporating/VBG this/DT alignment/NN information/NN to/IN the/DT encoder/NN -/HYPH decoder/NN framework/NN ./.
+Learning/VBG from/IN the/DT attention/NN mechanism/NN in/IN encoder/NN -/HYPH decoder/NN model/NN ,/, we/PRP further/RB propose/VBP introducing/VBG attention/NN to/IN the/DT alignment/NN -/HYPH based/VBN RNN/NN models/NNS ./.
+Such/JJ attentions/NNS provide/VBP additional/JJ information/NN to/IN the/DT intent/NN classification/NN and/CC slot/NN label/NN prediction/NN ./.
+Our/PRP$ independent/JJ task/NN models/NNS achieve/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN intent/NN detection/NN error/NN rate/NN and/CC slot/NN filling/VBG F1/NN score/NN on/IN the/DT benchmark/NN ATIS/NN task/NN ./.
+Our/PRP$ joint/JJ training/NN model/NN further/RB obtains/VBZ 0.56/CD percent/NN absolute/JJ (/-LRB- 23.8/CD percent/NN relative/JJ )/-RRB- error/NN reduction/NN on/IN intent/JJ detection/NN and/CC 0.23/CD percent/NN absolute/JJ gain/NN on/IN slot/NN filling/VBG over/RP the/DT independent/JJ task/NN models/NNS ./.

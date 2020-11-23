@@ -1,0 +1,6 @@
+We consider the problem of learning causal networks with interventions, when each intervention is limited in size under Pearl's Structural Equation Model with independent errors (SEM-IE).
+The objective is to minimize the number of experiments to discover the causal directions of all the edges in a causal graph.
+Previous work has focused on the use of separating systems for complete graphs for this task.
+We prove that any deterministic adaptive algorithm needs to be a separating system in order to learn complete graphs in the worst case.
+In addition, we present a novel separating system construction, whose size is close to optimal and is arguably simpler than previous work in combinatorics.
+We also develop a novel information theoretic lower bound on the number of interventions that applies in full generality, including for randomized adaptive learning algorithms.

@@ -1,0 +1,3 @@
+We present LTLS, a technique for multiclass and multilabel prediction that can perform training and inference in logarithmic time and space.
+LTLS embeds large classification problems into simple structured prediction problems and relies on efficient dynamic programming algorithms for inference.
+We train LTLS with stochastic gradient descent on a number of multiclass and multilabel datasets and show that despite its small memory footprint it is often competitive with existing approaches.

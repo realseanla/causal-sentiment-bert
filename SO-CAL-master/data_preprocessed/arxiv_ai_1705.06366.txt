@@ -1,0 +1,9 @@
+Reinforcement/NN learning/NN is/VBZ a/DT powerful/JJ technique/NN to/TO train/VB an/DT agent/NN to/TO perform/VB a/DT task/NN ./.
+However/RB ,/, an/DT agent/NN that/WDT is/VBZ trained/VBN using/VBG reinforcement/NN learning/NN is/VBZ only/RB capable/JJ of/IN achieving/VBG the/DT single/JJ task/NN that/WDT is/VBZ specified/VBN via/IN its/PRP$ reward/NN function/NN ./.
+Such/PDT an/DT approach/NN does/VBZ not/RB scale/VB well/RB to/IN settings/NNS in/IN which/WDT an/DT agent/NN needs/VBZ to/TO perform/VB a/DT diverse/JJ set/NN of/IN tasks/NNS ,/, such/JJ as/IN navigating/VBG to/IN varying/VBG positions/NNS in/IN a/DT room/NN or/CC moving/VBG objects/NNS to/IN varying/VBG locations/NNS ./.
+Instead/RB ,/, we/PRP propose/VBP a/DT method/NN that/WDT allows/VBZ an/DT agent/NN to/TO automatically/RB discover/VB the/DT range/NN of/IN tasks/NNS that/IN it/PRP is/VBZ capable/JJ of/IN performing/VBG ./.
+We/PRP use/VBP a/DT generator/NN network/NN to/TO propose/VB tasks/NNS for/IN the/DT agent/NN to/TO try/VB to/TO achieve/VB ,/, specified/VBN as/IN goal/NN states/NNS ./.
+The/DT generator/NN network/NN is/VBZ optimized/VBN using/VBG adversarial/JJ training/NN to/TO produce/VB tasks/NNS that/WDT are/VBP always/RB at/IN the/DT appropriate/JJ level/NN of/IN difficulty/NN for/IN the/DT agent/NN ./.
+Our/PRP$ method/NN thus/RB automatically/RB produces/VBZ a/DT curriculum/NN of/IN tasks/NNS for/IN the/DT agent/NN to/TO learn/VB ./.
+We/PRP show/VBP that/IN ,/, by/IN using/VBG this/DT framework/NN ,/, an/DT agent/NN can/MD efficiently/RB and/CC automatically/RB learn/VB to/TO perform/VB a/DT wide/JJ set/NN of/IN tasks/NNS without/IN requiring/VBG any/DT prior/JJ knowledge/NN of/IN its/PRP$ environment/NN ./.
+Our/PRP$ method/NN can/MD also/RB learn/VB to/TO achieve/VB tasks/NNS with/IN sparse/JJ rewards/NNS ,/, which/WDT traditionally/RB pose/VBP significant/JJ challenges/NNS ./.

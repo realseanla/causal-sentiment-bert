@@ -1,0 +1,9 @@
+Recently/RB ,/, dropout/NN has/VBZ seen/VBN increasing/VBG use/NN in/IN deep/JJ learning/NN ./.
+For/IN deep/JJ convolutional/JJ neural/JJ networks/NNS ,/, dropout/NN is/VBZ known/VBN to/TO work/VB well/RB in/IN fully/RB -/HYPH connected/VBN layers/NNS ./.
+However/RB ,/, its/PRP$ effect/NN in/IN convolutional/JJ and/CC pooling/VBG layers/NNS is/VBZ still/RB not/RB clear/JJ ./.
+This/DT paper/NN demonstrates/VBZ that/IN max/NN -/HYPH pooling/VBG dropout/NN is/VBZ equivalent/JJ to/IN randomly/RB picking/VBG activation/NN based/VBN on/IN a/DT multinomial/JJ distribution/NN at/IN training/NN time/NN ./.
+In/IN light/NN of/IN this/DT insight/NN ,/, we/PRP advocate/VBP employing/VBG our/PRP$ proposed/VBN probabilistic/JJ weighted/JJ pooling/VBG ,/, instead/RB of/IN commonly/RB used/VBN max/NN -/HYPH pooling/VBG ,/, to/TO act/VB as/IN model/NN averaging/VBG at/IN test/NN time/NN ./.
+Empirical/JJ evidence/NN validates/VBZ the/DT superiority/NN of/IN probabilistic/JJ weighted/JJ pooling/VBG ./.
+We/PRP also/RB empirically/RB show/VB that/IN the/DT effect/NN of/IN convolutional/JJ dropout/NN is/VBZ not/RB trivial/JJ ,/, despite/IN the/DT dramatically/RB reduced/VBN possibility/NN of/IN over-fitting/VBG due/IN to/IN the/DT convolutional/JJ architecture/NN ./.
+Elaborately/RB designing/VBG dropout/NN training/NN simultaneously/RB in/IN max/NN -/HYPH pooling/VBG and/CC fully/RB -/HYPH connected/VBN layers/NNS ,/, we/PRP achieve/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN MNIST/NNP ,/, and/CC very/RB competitive/JJ results/NNS on/IN CIFAR/NN -/HYPH 10/CD and/CC CIFAR/NN -/HYPH 100/CD ,/, relative/JJ to/IN other/JJ approaches/NNS without/IN data/NNS augmentation/NN ./.
+Finally/RB ,/, we/PRP compare/VBP max/NN -/HYPH pooling/VBG dropout/NN and/CC stochastic/JJ pooling/VBG ,/, both/DT of/IN which/WDT introduce/VBP stochasticity/NN based/VBN on/IN multinomial/JJ distributions/NNS at/IN pooling/VBG stage/NN ./.

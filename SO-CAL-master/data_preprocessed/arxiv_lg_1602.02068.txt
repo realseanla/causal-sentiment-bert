@@ -1,0 +1,6 @@
+We/PRP propose/VBP sparsemax/NN ,/, a/DT new/JJ activation/NN function/NN similar/JJ to/IN the/DT traditional/JJ softmax/NN ,/, but/CC able/JJ to/TO output/NN sparse/JJ probabilities/NNS ./.
+After/IN deriving/VBG its/PRP$ properties/NNS ,/, we/PRP show/VBP how/WRB its/PRP$ Jacobian/NNP can/MD be/VB efficiently/RB computed/VBN ,/, enabling/VBG its/PRP$ use/NN in/IN a/DT network/NN trained/VBN with/IN backpropagation/NN ./.
+Then/RB ,/, we/PRP propose/VBP a/DT new/JJ smooth/JJ and/CC convex/JJ loss/NN function/NN which/WDT is/VBZ the/DT sparsemax/JJ analogue/NN of/IN the/DT logistic/JJ loss/NN ./.
+We/PRP reveal/VBP an/DT unexpected/JJ connection/NN between/IN this/DT new/JJ loss/NN and/CC the/DT Huber/NNP classification/NN loss/NN ./.
+We/PRP obtain/VBP promising/JJ empirical/JJ results/NNS in/IN multi-label/JJ classification/NN problems/NNS and/CC in/IN attention/NN -/HYPH based/VBN neural/JJ networks/NNS for/IN natural/JJ language/NN inference/NN ./.
+For/IN the/DT latter/JJ ,/, we/PRP achieve/VBP a/DT similar/JJ performance/NN as/IN the/DT traditional/JJ softmax/NN ,/, but/CC with/IN a/DT selective/JJ ,/, more/RBR compact/JJ ,/, attention/NN focus/NN ./.

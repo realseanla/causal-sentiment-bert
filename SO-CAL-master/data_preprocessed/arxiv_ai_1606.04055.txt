@@ -1,0 +1,6 @@
+The/DT Bacterial/JJ Foraging/VBG Optimization/NN (/-LRB- BFO/NN )/-RRB- is/VBZ one/CD of/IN the/DT metaheuristics/NNS algorithms/NNS that/WDT most/RBS widely/RB used/VBN to/TO solve/VB optimization/NN problems/NNS ./.
+The/DT BFO/NNP is/VBZ imitated/VBN from/IN the/DT behavior/NN of/IN the/DT foraging/VBG bacteria/NNS group/NN such/JJ as/IN Ecoli/NNP ./.
+The/DT main/JJ aim/NN of/IN algorithm/NN is/VBZ to/TO eliminate/VB those/DT bacteria/NNS that/WDT have/VBP weak/JJ foraging/VBG methods/NNS and/CC maintaining/VBG those/DT bacteria/NNS that/WDT have/VBP strong/JJ foraging/VBG methods/NNS ./.
+In/IN this/DT extent/NN ,/, each/DT bacterium/NN communicates/VBZ with/IN other/JJ bacteria/NNS by/IN sending/VBG signals/NNS such/JJ that/IN bacterium/NN change/VBP the/DT position/NN in/IN the/DT next/JJ step/NN if/IN prior/JJ factors/NNS have/VBP been/VBN satisfied/JJ ./.
+In/IN fact/NN ,/, the/DT process/NN of/IN algorithm/NN allows/VBZ bacteria/NNS to/TO follow/VB up/RP nutrients/NNS toward/IN the/DT optimal/JJ ./.
+In/IN this/DT paper/NN ,/, the/DT BFO/NNP is/VBZ used/VBN for/IN the/DT solutions/NNS of/IN Quadratic/JJ Assignment/NN Problem/NNP (/-LRB- QAP/NNP )/-RRB- ,/, and/CC multi/JJ -/HYPH objective/JJ QAP/NNP (/-LRB- mQAP/NN )/-RRB- by/IN using/VBG updating/VBG mechanisms/NNS including/VBG mutation/NN ,/, crossover/NN ,/, and/CC a/DT local/JJ search/NN ./.

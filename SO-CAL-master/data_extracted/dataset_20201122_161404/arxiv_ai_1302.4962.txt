@@ -1,0 +1,5 @@
+Consider the situation where some evidence e has been entered to a Bayesian network.
+When performing conflict analysis, sensitivity analysis, or when answering questions like "What if the finding on X had been y instead of x?"
+you need probabilities P (e'| h), where e' is a subset of e, and h is a configuration of a (possibly empty) set of variables.
+Cautious propagation is a modification of HUGIN propagation into a Shafer-Shenoy-like architecture.
+It is less efficient than HUGIN propagation; however, it provides easy access to P (e'| h) for a great deal of relevant subsets e'.

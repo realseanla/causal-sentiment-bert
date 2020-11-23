@@ -1,0 +1,10 @@
+Semantic/JJ relatedness/NN of/IN terms/NNS represents/VBZ similarity/NN of/IN meaning/NN by/IN a/DT numerical/JJ score/NN ./.
+On/IN the/DT one/CD hand/NN ,/, humans/NNS easily/RB make/VBP judgments/NNS about/IN semantic/JJ relatedness/NN ./.
+On/IN the/DT other/JJ hand/NN ,/, this/DT kind/NN of/IN information/NN is/VBZ useful/JJ in/IN language/NN processing/NN systems/NNS ./.
+While/IN semantic/JJ relatedness/NN has/VBZ been/VBN extensively/RB studied/VBN for/IN English/NNP using/VBG numerous/JJ language/NN resources/NNS ,/, such/JJ as/IN associative/JJ norms/NNS ,/, human/JJ judgments/NNS ,/, and/CC datasets/NNS generated/VBN from/IN lexical/JJ databases/NNS ,/, no/DT evaluation/NN resources/NNS of/IN this/DT kind/NN have/VBP been/VBN available/JJ for/IN Russian/JJ to/IN date/NN ./.
+Our/PRP$ contribution/NN addresses/NNS this/DT problem/NN ./.
+We/PRP present/VBP five/CD language/NN resources/NNS of/IN different/JJ scale/NN and/CC purpose/NN for/IN Russian/JJ semantic/JJ relatedness/NN ,/, each/DT being/VBG a/DT list/NN of/IN triples/NNS (/-LRB- word_i/NNS ,/, word_j/NN ,/, relatedness_ij/NN )/-RRB- ./.
+Four/CD of/IN them/PRP are/VBP designed/VBN for/IN evaluation/NN of/IN systems/NNS for/IN computing/VBG semantic/JJ relatedness/NN ,/, complementing/VBG each/DT other/JJ in/IN terms/NNS of/IN the/DT semantic/JJ relation/NN type/NN they/PRP represent/VBP ./.
+These/DT benchmarks/NNS were/VBD used/VBN to/TO organize/VB a/DT shared/VBN task/NN on/IN Russian/JJ semantic/JJ relatedness/NN ,/, which/WDT attracted/VBD 19/CD teams/NNS ./.
+We/PRP use/VBP one/CD of/IN the/DT best/JJS approaches/NNS identified/VBN in/IN this/DT competition/NN to/TO generate/VB the/DT fifth/JJ high/JJ -/HYPH coverage/NN resource/NN ,/, the/DT first/JJ open/JJ distributional/JJ thesaurus/NN of/IN Russian/JJ ./.
+Multiple/JJ evaluations/NNS of/IN this/DT thesaurus/NN ,/, including/VBG a/DT large/JJ -/HYPH scale/NN crowdsourcing/VBG study/NN involving/VBG native/JJ speakers/NNS ,/, indicate/VBP its/PRP$ high/JJ accuracy/NN ./.

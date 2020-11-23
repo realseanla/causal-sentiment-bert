@@ -1,0 +1,7 @@
+There/EX has/VBZ been/VBN a/DT recent/JJ focus/NN in/IN reinforcement/NN learning/VBG on/IN addressing/VBG continuous/JJ state/NN and/CC action/NN problems/NNS by/IN optimizing/VBG parameterized/JJ policies/NNS ./.
+PI2/NN is/VBZ a/DT recent/JJ example/NN of/IN this/DT approach/NN ./.
+It/PRP combines/VBZ a/DT derivation/NN from/IN first/JJ principles/NNS of/IN stochastic/JJ optimal/JJ control/NN with/IN tools/NNS from/IN statistical/JJ estimation/NN theory/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP PI2/NN as/IN a/DT member/NN of/IN the/DT wider/JJR family/NN of/IN methods/NNS which/WDT share/VBP the/DT concept/NN of/IN probability/NN -/HYPH weighted/JJ averaging/NN to/TO iteratively/RB update/VB parameters/NNS to/TO optimize/VB a/DT cost/NN function/NN ./.
+We/PRP compare/VBP PI2/NN to/IN other/JJ members/NNS of/IN the/DT same/JJ family/NN -/HYPH Cross-Entropy/JJ Methods/NNS and/CC CMAES/NN -/HYPH at/IN the/DT conceptual/JJ level/NN and/CC in/IN terms/NNS of/IN performance/NN ./.
+The/DT comparison/NN suggests/VBZ the/DT derivation/NN of/IN a/DT novel/JJ algorithm/NN which/WDT we/PRP call/VBP PI2/NN -/HYPH CMA/NN for/IN "/`` Path/NN Integral/JJ Policy/NN Improvement/NN with/IN Covariance/NNP Matrix/NNP Adaptation/NNP "/'' ./.
+PI2/NN -/HYPH CMA/NN 's/POS main/JJ advantage/NN is/VBZ that/IN it/PRP determines/VBZ the/DT magnitude/NN of/IN the/DT exploration/NN noise/NN automatically/RB ./.

@@ -1,0 +1,7 @@
+Convolutional/JJ neural/JJ networks/NNS provide/VBP visual/JJ features/NNS that/WDT perform/VBP remarkably/RB well/RB in/IN many/JJ computer/NN vision/NN applications/NNS ./.
+However/RB ,/, training/VBG these/DT networks/NNS requires/VBZ significant/JJ amounts/NNS of/IN supervision/NN ./.
+This/DT paper/NN introduces/VBZ a/DT generic/JJ framework/NN to/TO train/VB deep/JJ networks/NNS ,/, end/NN -/HYPH to/IN -/HYPH end/NN ,/, with/IN no/DT supervision/NN ./.
+We/PRP propose/VBP to/TO fix/VB a/DT set/NN of/IN target/NN representations/NNS ,/, called/VBN Noise/NN As/IN Targets/NNS (/-LRB- NAT/NNP )/-RRB- ,/, and/CC to/TO constrain/VB the/DT deep/JJ features/NNS to/TO align/VB to/IN them/PRP ./.
+This/DT domain/NN agnostic/JJ approach/NN avoids/VBZ the/DT standard/JJ unsupervised/JJ learning/NN issues/NNS of/IN trivial/JJ solutions/NNS and/CC collapsing/VBG of/IN features/NNS ./.
+Thanks/NN to/IN a/DT stochastic/JJ batch/NN reassignment/NN strategy/NN and/CC a/DT separable/JJ square/JJ loss/NN function/NN ,/, it/PRP scales/VBZ to/IN millions/NNS of/IN images/NNS ./.
+The/DT proposed/VBN approach/NN produces/VBZ representations/NNS that/WDT perform/VBP on/IN par/NN with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN unsupervised/JJ methods/NNS on/IN ImageNet/NNP and/CC Pascal/NNP VOC/NNP ./.

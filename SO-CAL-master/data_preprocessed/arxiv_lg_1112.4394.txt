@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT Gaussian/JJ process/NN model/NN of/IN functions/NNS which/WDT are/VBP additive/JJ ./.
+An/DT additive/JJ function/NN is/VBZ one/CD which/WDT decomposes/VBZ into/IN a/DT sum/NN of/IN low/JJ -/HYPH dimensional/JJ functions/NNS ,/, each/DT depending/VBG on/IN only/RB a/DT subset/NN of/IN the/DT input/NN variables/NNS ./.
+Additive/JJ GPs/NNS generalize/VBP both/DT Generalized/VBN Additive/JJ Models/NNS ,/, and/CC the/DT standard/JJ GP/NNP models/NNS which/WDT use/VBP squared/VBN -/HYPH exponential/JJ kernels/NNS ./.
+Hyperparameter/NN learning/NN in/IN this/DT model/NN can/MD be/VB seen/VBN as/IN Bayesian/JJ Hierarchical/JJ Kernel/NNP Learning/NNP (/-LRB- HKL/NNP )/-RRB- ./.
+We/PRP introduce/VBP an/DT expressive/JJ but/CC tractable/JJ parameterization/NN of/IN the/DT kernel/NN function/NN ,/, which/WDT allows/VBZ efficient/JJ evaluation/NN of/IN all/DT input/NN interaction/NN terms/NNS ,/, whose/WP$ number/NN is/VBZ exponential/JJ in/IN the/DT input/NN dimension/NN ./.
+The/DT additional/JJ structure/NN discoverable/JJ by/IN this/DT model/NN results/VBZ in/IN increased/VBN interpretability/NN ,/, as/RB well/RB as/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN predictive/JJ power/NN in/IN regression/NN tasks/NNS ./.

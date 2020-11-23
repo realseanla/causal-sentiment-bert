@@ -1,0 +1,4 @@
+Derivational/JJ morphology/NN is/VBZ a/DT fundamental/JJ and/CC complex/JJ characteristic/NN of/IN language/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP the/DT new/JJ task/NN of/IN predicting/VBG the/DT derivational/JJ form/NN of/IN a/DT given/VBN base/NN -/HYPH form/NN lemma/NN that/WDT is/VBZ appropriate/JJ for/IN a/DT given/VBN context/NN ./.
+We/PRP present/VBP an/DT encoder/NN --/: decoder/NN style/NN neural/JJ network/NN to/TO produce/VB a/DT derived/VBN form/NN character/NN -/HYPH by/IN -/HYPH character/NN ,/, based/VBN on/IN its/PRP$ corresponding/JJ character/NN -/HYPH level/NN representation/NN of/IN the/DT base/NN form/NN and/CC the/DT context/NN ./.
+We/PRP demonstrate/VBP that/IN our/PRP$ model/NN is/VBZ able/JJ to/TO generate/VB valid/JJ context/NN -/HYPH sensitive/JJ derivations/NNS from/IN known/JJ base/NN forms/NNS ,/, but/CC is/VBZ less/RBR accurate/JJ under/IN a/DT lexicon/NN agnostic/JJ setting/NN ./.

@@ -1,0 +1,3 @@
+We/PRP present/VBP a/DT neural/JJ transition/NN -/HYPH based/VBN parser/NN for/IN spinal/JJ trees/NNS ,/, a/DT dependency/NN representation/NN of/IN constituent/NN trees/NNS ./.
+The/DT parser/NN uses/VBZ Stack/NN -/HYPH LSTMs/NNS that/WDT compose/VBP constituent/JJ nodes/NNS with/IN dependency/NN -/HYPH based/VBN derivations/NNS ./.
+In/IN experiments/NNS ,/, we/PRP show/VBP that/IN this/DT model/NN adapts/VBZ to/IN different/JJ styles/NNS of/IN dependency/NN relations/NNS ,/, but/CC this/DT choice/NN has/VBZ little/JJ effect/NN for/IN predicting/VBG constituent/JJ structure/NN ,/, suggesting/VBG that/IN LSTMs/NNS induce/VBP useful/JJ states/NNS by/IN themselves/PRP ./.

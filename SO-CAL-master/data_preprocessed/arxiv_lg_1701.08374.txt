@@ -1,0 +1,13 @@
+Most/JJS of/IN researches/NNS on/IN image/NN forensics/NNS have/VBP been/VBN mainly/RB focused/VBN on/IN detection/NN of/IN artifacts/NNS introduced/VBN by/IN a/DT single/JJ processing/NN tool/NN ./.
+They/PRP lead/VBP in/IN the/DT development/NN of/IN many/JJ specialized/JJ algorithms/NNS looking/VBG for/IN one/CD or/CC more/JJR particular/JJ footprints/NNS under/IN specific/JJ settings/NNS ./.
+Naturally/RB ,/, the/DT performance/NN of/IN such/JJ algorithms/NNS are/VBP not/RB perfect/JJ ,/, and/CC accordingly/RB the/DT provided/VBN output/NN might/MD be/VB noisy/JJ ,/, inaccurate/JJ and/CC only/RB partially/RB correct/JJ ./.
+Furthermore/RB ,/, a/DT forged/VBN image/NN in/IN practical/JJ scenarios/NNS is/VBZ often/RB the/DT result/NN of/IN utilizing/VBG several/JJ tools/NNS available/JJ by/IN image/NN -/HYPH processing/NN software/NN systems/NNS ./.
+Therefore/RB ,/, reliable/JJ tamper/VB detection/NN requires/VBZ developing/VBG more/JJR poweful/JJ tools/NNS to/TO deal/VB with/IN various/JJ tempering/VBG scenarios/NNS ./.
+Fusion/NNP of/IN forgery/NN detection/NN tools/NNS based/VBN on/IN Fuzzy/JJ Inference/NN System/NN has/VBZ been/VBN used/VBN before/IN for/IN addressing/VBG this/DT problem/NN ./.
+Adjusting/VBG the/DT membership/NN functions/NNS and/CC defining/VBG proper/JJ fuzzy/JJ rules/NNS for/IN attaining/VBG to/IN better/JJR results/NNS are/VBP time/NN -/HYPH consuming/VBG processes/NNS ./.
+This/DT can/MD be/VB accounted/VBN as/IN main/JJ disadvantage/NN of/IN fuzzy/JJ inference/NN systems/NNS ./.
+In/IN this/DT paper/NN ,/, a/DT Neuro/NN -/HYPH Fuzzy/JJ inference/NN system/NN for/IN fusion/NN of/IN forgery/NN detection/NN tools/NNS is/VBZ developed/VBN ./.
+The/DT neural/JJ network/NN characteristic/NN of/IN these/DT systems/NNS provides/VBZ appropriate/JJ tool/NN for/IN automatically/RB adjusting/VBG the/DT membership/NN functions/VBZ ./.
+Moreover/RB ,/, initial/JJ fuzzy/JJ inference/NN system/NN is/VBZ generated/VBN based/VBN on/IN fuzzy/JJ clustering/NN techniques/NNS ./.
+The/DT proposed/VBN framework/NN is/VBZ implemented/VBN and/CC validated/VBN on/IN a/DT benchmark/NN image/NN splicing/NN data/NNS set/VBN in/IN which/WDT three/CD forgery/NN detection/NN tools/NNS are/VBP fused/VBN based/VBN on/IN adaptive/JJ Neuro/NN -/HYPH Fuzzy/JJ inference/NN system/NN ./.
+The/DT outcome/NN of/IN the/DT proposed/JJ method/NN reveals/VBZ that/IN applying/VBG Neuro/NNP Fuzzy/JJ inference/NN systems/NNS could/MD be/VB a/DT better/JJR approach/NN for/IN fusion/NN of/IN forgery/NN detection/NN tools/NNS ./.

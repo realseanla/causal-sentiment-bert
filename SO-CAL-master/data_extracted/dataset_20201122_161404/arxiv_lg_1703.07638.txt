@@ -1,0 +1,6 @@
+As of today the programming language of the vast majority of the published source code is manually specified or programmatically assigned based on the sole file extension.
+In this paper we show that the source code programming language identification task can be fully automated using machine learning techniques.
+We first define the criteria that a production-level automatic programming language identification solution should meet.
+Our criteria include accuracy, programming language coverage, extensibility and performance.
+We then describe our approach: How training files are preprocessed for extracting features that mimic grammar productions, and then how these extracted grammar productions are used for the training and testing of our classifier.
+We achieve a 99 percent accuracy rate while classifying 29 of the most popular programming languages with a Maximum Entropy classifier.

@@ -1,0 +1,6 @@
+This/DT paper/NN describes/VBZ the/DT AMU/NN -/HYPH UEDIN/NN submissions/NNS to/IN the/DT WMT/NNP 2016/CD shared/VBD task/NN on/IN news/NN translation/NN ./.
+We/PRP explore/VBP methods/NNS of/IN decode/NN -/HYPH time/NN integration/NN of/IN attention/NN -/HYPH based/VBN neural/JJ translation/NN models/NNS with/IN phrase/NN -/HYPH based/VBN statistical/JJ machine/NN translation/NN ./.
+Efficient/JJ batch/NN -/HYPH algorithms/NNS for/IN GPU/NNP -/HYPH querying/VBG are/VBP proposed/VBN and/CC implemented/VBN ./.
+For/IN English/NNP -/HYPH Russian/NNP ,/, the/DT phrase/NN -/HYPH based/VBN system/NN can/MD not/RB surpass/VB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN stand/NN -/HYPH alone/JJ neural/JJ models/NNS ./.
+For/IN the/DT Russian/JJ -/HYPH English/JJ task/NN ,/, our/PRP$ submission/NN achieves/VBZ the/DT top/JJ BLEU/NN result/NN ,/, outperforming/VBG the/DT best/JJS pure/JJ -/HYPH neural/JJ system/NN by/IN 1.1/CD BLEU/NN points/NNS and/CC our/PRP$ own/JJ phrase/NN -/HYPH based/VBN baseline/NN by/IN 1.6/CD BLEU/NN ./.
+In/IN follow/NN -/HYPH up/NN experiments/NNS we/PRP improve/VBP these/DT results/NNS by/IN additional/JJ 0.7/CD BLEU/NN ./.

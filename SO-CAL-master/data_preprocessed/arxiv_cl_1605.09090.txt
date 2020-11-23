@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP proposed/VBD a/DT sentence/NN encoding/VBG -/HYPH based/VBN model/NN for/IN recognizing/VBG text/NN entailment/NN ./.
+In/IN our/PRP$ approach/NN ,/, the/DT encoding/NN of/IN sentence/NN is/VBZ a/DT two/CD -/HYPH stage/NN process/NN ./.
+Firstly/RB ,/, average/JJ pooling/VBG was/VBD used/VBN over/IN word/NN -/HYPH level/NN bidirectional/JJ LSTM/NN (/-LRB- biLSTM/NN )/-RRB- to/TO generate/VB a/DT first/JJ -/HYPH stage/NN sentence/NN representation/NN ./.
+Secondly/RB ,/, attention/NN mechanism/NN was/VBD employed/VBN to/TO replace/VB average/JJ pooling/VBG on/IN the/DT same/JJ sentence/NN for/IN better/JJR representations/NNS ./.
+Instead/RB of/IN using/VBG target/NN sentence/NN to/TO attend/VB words/NNS in/IN source/NN sentence/NN ,/, we/PRP utilized/VBD the/DT sentence/NN 's/POS first/JJ -/HYPH stage/NN representation/NN to/TO attend/VB words/NNS appeared/VBN in/IN itself/PRP ,/, which/WDT is/VBZ called/VBN "/`` Inner/JJ -/HYPH Attention/NN "/'' in/IN our/PRP$ paper/NN ./.
+Experiments/NNS conducted/VBN on/IN Stanford/NNP Natural/NNP Language/NNP Inference/NNP (/-LRB- SNLI/NNP )/-RRB- Corpus/NNP has/VBZ proved/VBN the/DT effectiveness/NN of/IN "/`` Inner/JJ -/HYPH Attention/NN "/'' mechanism/NN ./.
+With/IN less/JJR number/NN of/IN parameters/NNS ,/, our/PRP$ model/NN outperformed/VBD the/DT existing/VBG best/JJS sentence/NN encoding/VBG -/HYPH based/VBN approach/NN by/IN a/DT large/JJ margin/NN ./.

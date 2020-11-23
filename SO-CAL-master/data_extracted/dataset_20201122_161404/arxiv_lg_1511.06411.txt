@@ -1,0 +1,7 @@
+Supervised training of deep neural nets typically relies on minimizing cross-entropy.
+However, in many domains, we are interested in performing well on specific application-specific metrics.
+In this paper we proposed a direct loss minimization approach to train deep neural networks, taking into account the application-specific loss functions.
+This can be non-trivial, when these functions are non-smooth and non-decomposable.
+We demonstrate the effectiveness of our approach in the context of maximizing average precision for ranking problems.
+Towards this goal, we propose a dynamic programming algorithm that can efficiently compute the weight updates.
+Our approach proves superior to a variety of baselines in the context of action classification and object detection.

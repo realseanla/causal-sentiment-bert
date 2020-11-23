@@ -1,0 +1,8 @@
+While/IN several/JJ matrix/NN factorization/NN (/-LRB- MF/NN )/-RRB- and/CC tensor/NN factorization/NN (/-LRB- TF/NN )/-RRB- models/NNS have/VBP been/VBN proposed/VBN for/IN knowledge/NN base/NN (/-LRB- KB/NN )/-RRB- inference/NN ,/, they/PRP have/VBP rarely/RB been/VBN compared/VBN across/IN various/JJ datasets/NNS ./.
+Is/VBZ there/RB a/DT single/JJ model/NN that/WDT performs/VBZ well/RB across/IN datasets/NNS ?/.
+If/IN not/RB ,/, what/WDT characteristics/NNS of/IN a/DT dataset/NN determine/VB the/DT performance/NN of/IN MF/NNP and/CC TF/NNP models/NNS ?/.
+Is/VBZ there/RB a/DT joint/JJ TF/NN MF/NN model/NN that/WDT performs/VBZ robustly/RB on/IN all/DT datasets/NNS ?/.
+We/PRP perform/VBP an/DT extensive/JJ evaluation/NN to/TO compare/VB popular/JJ KB/NN inference/NN models/NNS across/IN popular/JJ datasets/NNS in/IN the/DT literature/NN ./.
+In/IN addition/NN to/IN answering/VBG the/DT questions/NNS above/IN ,/, we/PRP remove/VBP a/DT limitation/NN in/IN the/DT standard/JJ evaluation/NN protocol/NN for/IN MF/NN models/NNS ,/, propose/VB an/DT extension/NN to/TO MF/NNP models/NNS so/IN that/IN they/PRP can/MD better/RBR handle/VB out/RB -/HYPH of/IN -/HYPH vocabulary/NN (/-LRB- OOV/NN )/-RRB- entity/NN pairs/NNS ,/, and/CC develop/VB a/DT novel/JJ combination/NN of/IN TF/NN and/CC MF/NN models/NNS ./.
+We/PRP also/RB analyze/VB and/CC explain/VB the/DT results/NNS based/VBN on/IN models/NNS and/CC dataset/NN characteristics/NNS ./.
+Our/PRP$ best/JJS model/NN is/VBZ robust/JJ ,/, and/CC obtains/VBZ strong/JJ results/NNS across/IN all/DT datasets/NNS ./.

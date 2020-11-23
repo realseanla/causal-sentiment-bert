@@ -1,0 +1,8 @@
+When/WRB deep/JJ learning/NN is/VBZ applied/VBN to/IN visual/JJ object/NN recognition/NN ,/, data/NNS augmentation/NN is/VBZ often/RB used/VBN to/TO generate/VB additional/JJ training/NN data/NNS without/IN extra/JJ labeling/NN cost/NN ./.
+It/PRP helps/VBZ to/TO reduce/VB overfitting/NN and/CC increase/VB the/DT performance/NN of/IN the/DT algorithm/NN ./.
+In/IN this/DT paper/NN we/PRP investigate/VBP if/IN it/PRP is/VBZ possible/JJ to/TO use/VB data/NNS augmentation/NN as/IN the/DT main/JJ component/NN of/IN an/DT unsupervised/JJ feature/NN learning/VBG architecture/NN ./.
+To/IN that/DT end/NN we/PRP sample/VBP a/DT set/NN of/IN random/JJ image/NN patches/NNS and/CC declare/VB each/DT of/IN them/PRP to/TO be/VB a/DT separate/JJ single/JJ -/HYPH image/NN surrogate/JJ class/NN ./.
+We/PRP then/RB extend/VBP these/DT trivial/JJ one/CD -/HYPH element/NN classes/NNS by/IN applying/VBG a/DT variety/NN of/IN transformations/NNS to/IN the/DT initial/JJ '/`` seed/NN '/'' patches/NNS ./.
+Finally/RB we/PRP train/VBP a/DT convolutional/JJ neural/JJ network/NN to/TO discriminate/VB between/IN these/DT surrogate/JJ classes/NNS ./.
+The/DT feature/NN representation/NN learned/VBN by/IN the/DT network/NN can/MD then/RB be/VB used/VBN in/IN various/JJ vision/NN tasks/NNS ./.
+We/PRP find/VBP that/IN this/DT simple/JJ feature/NN learning/VBG algorithm/NN is/VBZ surprisingly/RB successful/JJ ,/, achieving/VBG competitive/JJ classification/NN results/NNS on/IN several/JJ popular/JJ vision/NN datasets/NNS (/-LRB- STL/NNP -/HYPH 10/CD ,/, CIFAR/NN -/HYPH 10/CD ,/, Caltech/NNP -/HYPH 101/CD )/-RRB- ./.

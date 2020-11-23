@@ -1,0 +1,7 @@
+Information/NN -/HYPH theoretic/JJ principles/NNS for/IN learning/NN and/CC acting/NN have/VBP been/VBN proposed/VBN to/TO solve/VB particular/JJ classes/NNS of/IN Markov/NNP Decision/NN Problems/NNS ./.
+Mathematically/RB ,/, such/JJ approaches/NNS are/VBP governed/VBN by/IN a/DT variational/JJ free/JJ energy/NN principle/NN and/CC allow/VB solving/VBG MDP/NNP planning/NN problems/NNS with/IN information/NN -/HYPH processing/NN constraints/NNS expressed/VBN in/IN terms/NNS of/IN a/DT Kullback/NN -/HYPH Leibler/NN divergence/NN with/IN respect/NN to/IN a/DT reference/NN distribution/NN ./.
+Here/RB we/PRP consider/VBP a/DT generalization/NN of/IN such/JJ MDP/NNP planners/NNS by/IN taking/VBG model/NN uncertainty/NN into/IN account/NN ./.
+As/IN model/NN uncertainty/NN can/MD also/RB be/VB formalized/VBN as/IN an/DT information/NN -/HYPH processing/NN constraint/NN ,/, we/PRP can/MD derive/VB a/DT unified/JJ solution/NN from/IN a/DT single/JJ generalized/VBN variational/JJ principle/NN ./.
+We/PRP provide/VBP a/DT generalized/VBN value/NN iteration/NN scheme/NN together/RB with/IN a/DT convergence/NN proof/NN ./.
+As/IN limit/NN cases/NNS ,/, this/DT generalized/VBN scheme/NN includes/VBZ standard/JJ value/NN iteration/NN with/IN a/DT known/VBN model/NN ,/, Bayesian/JJ MDP/NN planning/NN ,/, and/CC robust/JJ planning/NN ./.
+We/PRP demonstrate/VBP the/DT benefits/NNS of/IN this/DT approach/NN in/IN a/DT grid/NN world/NN simulation/NN ./.

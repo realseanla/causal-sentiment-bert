@@ -1,0 +1,10 @@
+Process/NN modeling/NN and/CC understanding/NN is/VBZ fundamental/JJ for/IN advanced/JJ human/JJ -/HYPH computer/NN interfaces/VBZ and/CC automation/NN systems/NNS ./.
+Recent/JJ research/NN focused/VBD on/IN activity/NN recognition/NN ,/, but/CC little/JJ work/NN has/VBZ focused/VBN on/IN process/NN progress/NN detection/NN from/IN sensor/NN data/NNS ./.
+We/PRP introduce/VBP a/DT real/JJ -/HYPH time/NN ,/, sensor/NN -/HYPH based/VBN system/NN for/IN modeling/NN ,/, recognizing/VBG and/CC estimating/VBG the/DT completeness/NN of/IN a/DT process/NN ./.
+We/PRP implemented/VBD a/DT multimodal/JJ CNN/NNP -/HYPH LSTM/NNP structure/NN to/TO extract/VB the/DT spatio/JJ -/HYPH temporal/JJ features/NNS from/IN different/JJ sensory/JJ datatypes/NNS ./.
+We/PRP used/VBD a/DT novel/JJ deep/JJ regression/NN structure/NN for/IN overall/JJ completeness/NN estimation/NN ./.
+By/IN combining/VBG process/NN completeness/NN estimation/NN with/IN a/DT Gaussian/JJ mixture/NN model/NN ,/, our/PRP$ system/NN can/MD predict/VB the/DT process/NN phase/NN using/VBG the/DT estimated/VBN completeness/NN ./.
+We/PRP also/RB introduce/VBP the/DT rectified/VBN hyperbolic/JJ tangent/NN (/-LRB- rtanh/NN )/-RRB- activation/NN function/NN and/CC conditional/JJ loss/NN to/TO help/VB the/DT training/NN process/NN ./.
+Using/VBG the/DT completeness/NN estimation/NN result/NN and/CC performance/NN speed/NN calculations/NNS ,/, we/PRP also/RB implemented/VBD an/DT online/JJ estimator/NN of/IN remaining/VBG time/NN ./.
+We/PRP tested/VBD this/DT system/NN using/VBG data/NNS obtained/VBN from/IN a/DT medical/JJ process/NN (/-LRB- trauma/NN resuscitation/NN )/-RRB- and/CC sport/NN events/NNS (/-LRB- swim/NN competition/NN )/-RRB- ./.
+Our/PRP$ system/NN outperformed/VBD existing/VBG implementations/NNS for/IN phase/NN prediction/NN during/IN trauma/NN resuscitation/NN and/CC achieved/VBN over/IN 80/CD percent/NN of/IN process/NN phase/NN detection/NN accuracy/NN with/IN less/JJR than/IN 9/CD percent/NN completeness/NN estimation/NN error/NN and/CC time/NN remaining/VBG estimation/NN error/NN less/JJR than/IN 18/CD percent/NN of/IN duration/NN in/IN both/CC dataset/NN ./.

@@ -1,0 +1,10 @@
+We/PRP describe/VBP a/DT general/JJ approach/NN to/IN optimization/NN which/WDT we/PRP term/VBP `/`` Squeaky/NNP Wheel/NNP '/POS Optimization/NN (/-LRB- SWO/NN )/-RRB- ./.
+In/IN SWO/NN ,/, a/DT greedy/JJ algorithm/NN is/VBZ used/VBN to/TO construct/VB a/DT solution/NN which/WDT is/VBZ then/RB analyzed/VBN to/TO find/VB the/DT trouble/NN spots/NNS ,/, i.e./FW ,/, those/DT elements/NNS ,/, that/IN ,/, if/IN improved/VBN ,/, are/VBP likely/JJ to/TO improve/VB the/DT objective/JJ function/NN score/NN ./.
+The/DT results/NNS of/IN the/DT analysis/NN are/VBP used/VBN to/TO generate/VB new/JJ priorities/NNS that/WDT determine/VBP the/DT order/NN in/IN which/WDT the/DT greedy/JJ algorithm/NN constructs/NNS the/DT next/JJ solution/NN ./.
+This/DT Construct/NN //HYPH Analyze/NN //HYPH Prioritize/VB cycle/NN continues/VBZ until/IN some/DT limit/NN is/VBZ reached/VBN ,/, or/CC an/DT acceptable/JJ solution/NN is/VBZ found/VBN ./.
+SWO/NN can/MD be/VB viewed/VBN as/IN operating/VBG on/IN two/CD search/NN spaces/NNS :/: solutions/NNS and/CC prioritizations/NNS ./.
+Successive/JJ solutions/NNS are/VBP only/RB indirectly/RB related/JJ ,/, via/IN the/DT re-prioritization/NN that/WDT results/VBZ from/IN analyzing/VBG the/DT prior/JJ solution/NN ./.
+Similarly/RB ,/, successive/JJ prioritizations/NNS are/VBP generated/VBN by/IN constructing/VBG and/CC analyzing/VBG solutions/NNS ./.
+This/DT `/`` coupled/VBN search/NN '/'' has/VBZ some/DT interesting/JJ properties/NNS ,/, which/WDT we/PRP discuss/VBP ./.
+We/PRP report/VBP encouraging/VBG experimental/JJ results/NNS on/IN two/CD domains/NNS ,/, scheduling/NN problems/NNS that/WDT arise/VBP in/IN fiber/NN -/HYPH optic/JJ cable/NN manufacturing/NN ,/, and/CC graph/NN coloring/NN problems/NNS ./.
+The/DT fact/NN that/IN these/DT domains/NNS are/VBP very/RB different/JJ supports/NNS our/PRP$ claim/NN that/IN SWO/NN is/VBZ a/DT general/JJ technique/NN for/IN optimization/NN ./.

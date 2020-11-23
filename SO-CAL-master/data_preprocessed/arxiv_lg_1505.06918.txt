@@ -1,0 +1,9 @@
+The/DT ubiquity/NN of/IN professional/JJ sports/NNS and/CC specifically/RB the/DT NFL/NNP have/VBP lead/NN to/IN an/DT increase/NN in/IN popularity/NN for/IN Fantasy/NNP Football/NNP ./.
+Users/NNS have/VBP many/JJ tools/NNS at/IN their/PRP$ disposal/NN :/: statistics/NNS ,/, predictions/NNS ,/, rankings/NNS of/IN experts/NNS and/CC even/RB recommendations/NNS of/IN peers/NNS ./.
+There/EX are/VBP issues/NNS with/IN all/DT of/IN these/DT ,/, though/RB ./.
+Especially/RB since/IN many/JJ people/NNS pay/VBP money/NN to/TO play/VB ,/, the/DT prediction/NN tools/NNS should/MD be/VB enhanced/VBN as/IN they/PRP provide/VBP unbiased/JJ and/CC easy/JJ -/HYPH to/IN -/HYPH use/NN assistance/NN for/IN users/NNS ./.
+This/DT paper/NN provides/VBZ and/CC discusses/VBZ approaches/NNS to/TO predict/VB Fantasy/NNP Football/NNP scores/NNS of/IN Quarterbacks/NNS with/IN relatively/RB limited/JJ data/NNS ./.
+In/IN addition/NN to/IN that/DT ,/, it/PRP includes/VBZ several/JJ suggestions/NNS on/IN how/WRB the/DT data/NNS could/MD be/VB enhanced/VBN to/TO achieve/VB better/JJR results/NNS ./.
+The/DT dataset/NN consists/VBZ only/RB of/IN game/NN data/NNS from/IN the/DT last/JJ six/CD NFL/NNP seasons/NNS ./.
+I/PRP used/VBD two/CD different/JJ methods/NNS to/TO predict/VB the/DT Fantasy/NNP Football/NNP scores/NNS of/IN NFL/NNP players/NNS :/: Support/NN Vector/NNP Regression/NNP (/-LRB- SVR/NNP )/-RRB- and/CC Neural/JJ Networks/NNS ./.
+The/DT results/NNS of/IN both/DT are/VBP promising/VBG given/VBN the/DT limited/JJ data/NNS that/WDT was/VBD used/VBN ./.

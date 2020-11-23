@@ -1,0 +1,7 @@
+The/DT design/NN of/IN neural/JJ architectures/NNS for/IN structured/JJ objects/NNS is/VBZ typically/RB guided/VBN by/IN experimental/JJ insights/NNS rather/RB than/IN a/DT formal/JJ process/NN ./.
+In/IN this/DT work/NN ,/, we/PRP appeal/VBP to/IN kernels/NNS over/IN combinatorial/JJ structures/NNS ,/, such/JJ as/IN sequences/NNS and/CC graphs/NNS ,/, to/TO derive/VB appropriate/JJ neural/JJ operations/NNS ./.
+We/PRP introduce/VBP a/DT class/NN of/IN deep/JJ recurrent/JJ neural/JJ operations/NNS and/CC formally/RB characterize/VBP their/PRP$ associated/VBN kernel/NN spaces/NNS ./.
+Our/PRP$ recurrent/JJ modules/NNS compare/VBP the/DT input/NN to/IN virtual/JJ reference/NN objects/NNS (/-LRB- cf./FW filters/NNS in/IN CNN/NNP )/-RRB- via/IN the/DT kernels/NNS ./.
+Similar/JJ to/IN traditional/JJ neural/JJ operations/NNS ,/, these/DT reference/NN objects/NNS are/VBP parameterized/JJ and/CC directly/RB optimized/VBN in/IN end/NN -/HYPH to/IN -/HYPH end/NN training/NN ./.
+We/PRP empirically/RB evaluate/VB the/DT proposed/VBN class/NN of/IN neural/JJ architectures/NNS on/IN standard/JJ applications/NNS such/JJ as/IN language/NN modeling/NN and/CC molecular/JJ graph/NN regression/NN ,/, achieving/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN or/CC competitive/JJ results/NNS across/IN these/DT applications/NNS ./.
+We/PRP also/RB draw/VBP connections/NNS to/IN existing/VBG architectures/NNS such/JJ as/IN LSTMs/NNS ./.

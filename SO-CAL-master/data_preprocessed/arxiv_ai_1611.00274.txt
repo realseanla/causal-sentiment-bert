@@ -1,0 +1,13 @@
+The/DT term/NN "/`` affordance/FW "/'' denotes/VBZ the/DT behavioral/JJ meaning/NN of/IN objects/NNS ./.
+We/PRP propose/VBP a/DT cognitive/JJ architecture/NN for/IN the/DT detection/NN of/IN affordances/NNS in/IN the/DT visual/JJ modality/NN ./.
+This/DT model/NN is/VBZ based/VBN on/IN the/DT internal/JJ simulation/NN of/IN movement/NN sequences/NNS ./.
+For/IN each/DT movement/NN step/NN ,/, the/DT resulting/VBG sensory/JJ state/NN is/VBZ predicted/VBN by/IN a/DT forward/JJ model/NN ,/, which/WDT in/IN turn/NN triggers/VBZ the/DT generation/NN of/IN a/DT new/JJ (/-LRB- simulated/JJ )/-RRB- motor/NN command/NN by/IN an/DT inverse/JJ model/NN ./.
+Thus/RB ,/, a/DT series/NN of/IN mental/JJ images/NNS in/IN the/DT sensory/JJ and/CC in/IN the/DT motor/NN domain/NN is/VBZ evoked/VBN ./.
+Starting/VBG from/IN a/DT real/JJ sensory/JJ state/NN ,/, a/DT large/JJ number/NN of/IN such/JJ sequences/NNS is/VBZ simulated/VBN in/IN parallel/NN ./.
+Final/JJ affordance/JJ detection/NN is/VBZ based/VBN on/IN the/DT generated/VBN motor/NN commands/NNS ./.
+We/PRP apply/VBP this/DT model/NN to/IN a/DT real/JJ -/HYPH world/NN mobile/JJ robot/NN which/WDT is/VBZ faced/VBN with/IN obstacle/NN arrangements/NNS some/DT of/IN which/WDT are/VBP passable/JJ (/-LRB- corridor/NN )/-RRB- and/CC some/DT of/IN which/WDT are/VBP not/RB (/-LRB- dead/JJ ends/NNS )/-RRB- ./.
+The/DT robot/NN 's/POS task/NN is/VBZ to/TO detect/VB the/DT right/JJ affordance/NN (/-LRB- "/`` pass/VB -/HYPH through/IN -/HYPH able/JJ "/'' or/CC "/`` non-pass-through-able/JJ "/'' )/-RRB- ./.
+The/DT required/VBN internal/JJ models/NNS are/VBP acquired/VBN in/IN a/DT hierarchical/JJ training/NN process/NN ./.
+Afterwards/RB ,/, the/DT robotic/JJ agent/NN is/VBZ able/JJ to/TO distinguish/VB reliably/RB between/IN corridors/NNS and/CC dead/JJ ends/NNS ./.
+This/DT real/JJ -/HYPH world/NN result/NN enhances/VBZ the/DT validity/NN of/IN the/DT proposed/VBN mental/JJ simulation/NN approach/NN ./.
+In/IN addition/NN ,/, we/PRP compare/VBP several/JJ key/JJ factors/NNS in/IN the/DT simulation/NN process/NN regarding/VBG performance/NN and/CC efficiency/NN ./.

@@ -1,0 +1,8 @@
+VCM/NN (/-LRB- Visualization/NN of/IN Concept/NNP in/IN Medicine/NNP )/-RRB- is/VBZ an/DT iconic/JJ language/NN for/IN representing/VBG key/JJ medical/JJ concepts/NNS by/IN icons/NNS ./.
+However/RB ,/, the/DT use/NN of/IN this/DT language/NN with/IN reference/NN terminologies/NNS ,/, such/JJ as/IN SNOMED/NN CT/NN ,/, will/MD require/VB the/DT mapping/NN of/IN its/PRP$ icons/NNS to/IN the/DT terms/NNS of/IN these/DT terminologies/NNS ./.
+Here/RB ,/, we/PRP present/VBP and/CC evaluate/VBP a/DT semi-automatic/JJ semantic/JJ method/NN for/IN the/DT mapping/NN of/IN SNOMED/NN CT/NN concepts/NNS to/IN VCM/NN icons/NNS ./.
+Both/DT SNOMED/NN CT/NN and/CC VCM/NN are/VBP compositional/JJ in/IN nature/NN ;/: SNOMED/NN CT/NN is/VBZ expressed/VBN in/IN description/NN logic/NN and/CC VCM/NN semantics/NNS are/VBP formalized/VBN in/IN an/DT OWL/NN ontology/NN ./.
+The/DT proposed/JJ method/NN involves/VBZ the/DT manual/JJ mapping/NN of/IN a/DT limited/JJ number/NN of/IN underlying/VBG concepts/NNS from/IN the/DT VCM/NN ontology/NN ,/, followed/VBN by/IN automatic/JJ generation/NN of/IN the/DT rest/NN of/IN the/DT mapping/NN ./.
+We/PRP applied/VBD this/DT method/NN to/IN the/DT clinical/JJ findings/NNS of/IN the/DT SNOMED/NN CT/NN CORE/NN subset/NN ,/, and/CC 100/CD randomly/RB -/HYPH selected/VBN mappings/NNS were/VBD evaluated/VBN by/IN three/CD experts/NNS ./.
+The/DT results/NNS obtained/VBN were/VBD promising/VBG ,/, with/IN 82/CD of/IN the/DT SNOMED/NN CT/NN concepts/NNS correctly/RB linked/VBN to/IN VCM/NN icons/NNS according/VBG to/IN the/DT experts/NNS ./.
+Most/JJS of/IN the/DT errors/NNS were/VBD easy/JJ to/TO fix/VB ./.

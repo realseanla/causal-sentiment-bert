@@ -1,0 +1,7 @@
+Neural/JJ Networks/NNS are/VBP function/NN approximators/NNS that/WDT have/VBP achieved/VBN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN accuracy/NN in/IN numerous/JJ machine/NN learning/NN tasks/NNS ./.
+In/IN spite/NN of/IN their/PRP$ great/JJ success/NN in/IN terms/NNS of/IN accuracy/NN ,/, their/PRP$ large/JJ training/NN time/NN makes/VBZ it/PRP difficult/JJ to/TO use/VB them/PRP for/IN various/JJ tasks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP explore/VBP the/DT idea/NN of/IN learning/VBG weight/NN evolution/NN pattern/NN from/IN a/DT simple/JJ network/NN for/IN accelerating/VBG training/NN of/IN novel/JJ neural/JJ networks/NNS ./.
+We/PRP use/VBP a/DT neural/JJ network/NN to/TO learn/VB the/DT training/NN pattern/NN from/IN MNIST/NN classification/NN and/CC utilize/VB it/PRP to/TO accelerate/VB training/NN of/IN neural/JJ networks/NNS used/VBN for/IN CIFAR/NN -/HYPH 10/CD and/CC ImageNet/NNP classification/NN ./.
+Our/PRP$ method/NN has/VBZ a/DT low/JJ memory/NN footprint/NN and/CC is/VBZ computationally/RB efficient/JJ ./.
+This/DT method/NN can/MD also/RB be/VB used/VBN with/IN other/JJ optimizers/NNS to/TO give/VB faster/RBR convergence/NN ./.
+The/DT results/NNS indicate/VBP a/DT general/JJ trend/NN in/IN the/DT weight/NN evolution/NN during/IN training/NN of/IN neural/JJ networks/NNS ./.

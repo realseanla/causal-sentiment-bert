@@ -1,0 +1,10 @@
+In recent years increasingly complex architectures for deep convolution networks (DCNs) have been proposed to boost the performance on image recognition tasks.
+However, the gains in performance have come at a cost of substantial increase in compute resources, the model size and processing speed of the network for training and evaluation.
+Fixed point implementation of these networks has the potential to alleviate some of the burden of these additional complexities.
+In this paper, we propose a quantizer design for fixed point implementation for DCNs.
+We then formulate an optimization problem to identify optimal fixed point bit-width allocation across DCN layers.
+We perform experiments on a recently proposed DCN architecture for CIFAR-10 benchmark that generates test error of less than 7 percent.
+We evaluate the effectiveness of our proposed fixed point bit-width allocation for this DCN.
+Our experiments show that in comparison to equal bit-width settings, the fixed point DCNs with optimized bit width allocation offer &gt;20 percent reduction in the model size without any loss in performance.
+We also demonstrate that fine tuning can further enhance the accuracy of fixed point DCNs beyond that of the original floating point model.
+In doing so, we report a new state-of-the-art fixed point performance of 6.78 percent error-rate on CIFAR-10 benchmark.

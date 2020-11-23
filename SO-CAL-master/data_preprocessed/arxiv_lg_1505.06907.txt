@@ -1,0 +1,5 @@
+In/IN this/DT work/NN we/PRP show/VBP that/IN the/DT classification/NN performance/NN of/IN high/JJ -/HYPH dimensional/JJ structural/JJ MRI/NN data/NNS with/IN only/RB a/DT small/JJ set/NN of/IN training/NN examples/NNS is/VBZ improved/VBN by/IN the/DT usage/NN of/IN dimension/NN reduction/NN methods/NNS ./.
+We/PRP assessed/VBD two/CD different/JJ dimension/NN reduction/NN variants/NNS :/: feature/NN selection/NN by/IN ANOVA/NN F/NN -/HYPH test/NN and/CC feature/NN transformation/NN by/IN PCA/NNP ./.
+On/IN the/DT reduced/VBN datasets/NNS ,/, we/PRP applied/VBD common/JJ learning/NN algorithms/NNS using/VBG 5-fold/RB cross-validation/NN ./.
+Training/NN ,/, tuning/NN of/IN the/DT hyperparameters/NNS ,/, as/RB well/RB as/IN the/DT performance/NN evaluation/NN of/IN the/DT classifiers/NNS was/VBD conducted/VBN using/VBG two/CD different/JJ performance/NN measures/NNS :/: Accuracy/NNP ,/, and/CC Receiver/NN Operating/NN Characteristic/JJ curve/NN (/-LRB- AUC/NN )/-RRB- ./.
+Our/PRP$ hypothesis/NN is/VBZ supported/VBN by/IN experimental/JJ results/NNS ./.

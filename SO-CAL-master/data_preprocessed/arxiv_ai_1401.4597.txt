@@ -1,0 +1,5 @@
+We/PRP describe/VBP Dr.Fill/NNP ,/, a/DT program/NN that/WDT solves/VBZ American/JJ -/HYPH style/NN crossword/NN puzzles/NNS ./.
+From/IN a/DT technical/JJ perspective/NN ,/, Dr.Fill/NN works/NNS by/IN converting/VBG crosswords/NNS to/IN weighted/JJ CSPs/NNS ,/, and/CC then/RB using/VBG a/DT variety/NN of/IN novel/JJ techniques/NNS to/TO find/VB a/DT solution/NN ./.
+These/DT techniques/NNS include/VBP generally/RB applicable/JJ heuristics/NNS for/IN variable/JJ and/CC value/NN selection/NN ,/, a/DT variant/NN of/IN limited/JJ discrepancy/NN search/NN ,/, and/CC postprocessing/NN and/CC partitioning/NN ideas/NNS ./.
+Branch/NNP and/CC bound/VBN is/VBZ not/RB used/VBN ,/, as/IN it/PRP was/VBD incompatible/JJ with/IN postprocessing/NN and/CC was/VBD determined/VBN experimentally/RB to/TO be/VB of/IN little/JJ practical/JJ value/NN ./.
+Dr.Fillls/NNS performance/NN on/IN crosswords/NNS from/IN the/DT American/JJ Crossword/NN Puzzle/NN Tournament/NN suggests/VBZ that/IN it/PRP ranks/VBZ among/IN the/DT top/NN fifty/CD or/CC so/RB crossword/JJ solvers/NNS in/IN the/DT world/NN ./.

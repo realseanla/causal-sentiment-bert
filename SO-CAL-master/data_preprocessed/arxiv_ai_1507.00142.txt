@@ -1,0 +1,5 @@
+There/EX are/VBP already/RB quite/PDT a/DT few/JJ tools/NNS for/IN solving/VBG the/DT Satisfiability/NNP Modulo/NNP Theories/NNPS (/-LRB- SMT/NN )/-RRB- problems/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP \/SYM texttt/NN {/-LRB- VolCE/NN }/-RRB- ,/, a/DT tool/NN for/IN counting/VBG the/DT solutions/NNS of/IN SMT/NN constraints/NNS ,/, or/CC in/IN other/JJ words/NNS ,/, for/IN computing/VBG the/DT volume/NN of/IN the/DT solution/NN space/NN ./.
+Its/PRP$ input/NN is/VBZ essentially/RB a/DT set/NN of/IN Boolean/JJ combinations/NNS of/IN linear/JJ constraints/NNS ,/, where/WRB the/DT numeric/JJ variables/NNS are/VBP either/RB all/DT integers/NNS or/CC all/DT reals/NNS ,/, and/CC each/DT variable/NN is/VBZ bounded/VBN ./.
+The/DT tool/NN extends/VBZ SMT/NNP solving/VBG with/IN integer/NN solution/NN counting/NN and/CC volume/NN computation/NN //HYPH estimation/NN for/IN convex/NN polytopes/NNS ./.
+Effective/JJ heuristics/NNS are/VBP adopted/VBN ,/, which/WDT enable/VBP the/DT tool/NN to/TO deal/VB with/IN high/JJ -/HYPH dimensional/JJ problem/NN instances/NNS efficiently/RB and/CC accurately/RB ./.

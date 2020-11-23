@@ -1,0 +1,10 @@
+Classification/NN is/VBZ a/DT fundamental/JJ task/NN in/IN machine/NN learning/NN and/CC artificial/JJ intelligence/NN ./.
+Existing/VBG classification/NN methods/NNS are/VBP designed/VBN to/TO classify/VB unknown/JJ instances/NNS within/IN a/DT set/NN of/IN previously/RB known/VBN classes/NNS that/WDT are/VBP seen/VBN in/IN training/NN ./.
+Such/JJ classification/NN takes/VBZ the/DT form/NN of/IN prediction/NN within/IN a/DT closed/JJ -/HYPH set/NN ./.
+However/RB ,/, a/DT more/RBR realistic/JJ scenario/NN that/WDT fits/VBZ the/DT ground/NN truth/NN of/IN real/JJ world/NN applications/NNS is/VBZ to/TO consider/VB the/DT possibility/NN of/IN encountering/VBG instances/NNS that/WDT do/VBP not/RB belong/VB to/IN any/DT of/IN the/DT classes/NNS that/WDT are/VBP seen/VBN in/IN training/NN ,/, $/$ i.e./FW $/$ ,/, an/DT open/JJ -/HYPH set/NN classification/NN ./.
+In/IN such/JJ situation/NN ,/, existing/VBG closed/JJ -/HYPH set/NN classification/NN methods/NNS will/MD assign/VB a/DT training/NN label/NN to/IN these/DT instances/NNS resulting/VBG in/IN a/DT misclassification/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP Galaxy/NNP -/HYPH X/NNP ,/, a/DT novel/JJ multi-class/NN classification/NN method/NN for/IN open/JJ -/HYPH set/NN problem/NN ./.
+For/IN each/DT class/NN of/IN the/DT training/NN set/NN ,/, Galaxy/NNP -/HYPH X/NNP creates/VBZ a/DT minimum/NN bounding/VBG hyper/JJ -/HYPH sphere/NN that/WDT encompasses/VBZ the/DT distribution/NN of/IN the/DT class/NN by/IN enclosing/VBG all/DT of/IN its/PRP$ instances/NNS ./.
+In/IN such/JJ manner/NN ,/, our/PRP$ method/NN is/VBZ able/JJ to/TO distinguish/VB instances/NNS resembling/VBG previously/RB seen/VBN classes/NNS from/IN those/DT that/WDT are/VBP of/IN unseen/JJ classes/NNS ./.
+Experimental/JJ results/NNS on/IN benchmark/NN datasets/NNS show/VBP the/DT efficiency/NN of/IN our/PRP$ approach/NN in/IN classifying/VBG novel/JJ instances/NNS from/IN known/VBN as/RB well/RB as/IN unknown/JJ classes/NNS ./.
+We/PRP also/RB introduce/VBP a/DT novel/JJ evaluation/NN procedure/NN to/TO adequately/RB evaluate/VB open/JJ -/HYPH set/NN classification/NN ./.

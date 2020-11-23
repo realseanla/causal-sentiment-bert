@@ -1,0 +1,13 @@
+Deep/JJ neural/JJ perception/NN and/CC control/NN networks/NNS are/VBP likely/JJ to/TO be/VB a/DT key/JJ component/NN of/IN self/NN -/HYPH driving/VBG vehicles/NNS ./.
+These/DT models/NNS need/VBP to/TO be/VB explainable/JJ -/HYPH they/PRP should/MD provide/VB easy/JJ -/HYPH to/TO -/HYPH interpret/VB rationales/NNS for/IN their/PRP$ behavior/NN -/HYPH so/RB that/IN passengers/NNS ,/, insurance/NN companies/NNS ,/, law/NN enforcement/NN ,/, developers/NNS etc./FW ,/, can/MD understand/VB what/WP triggered/VBD a/DT particular/JJ behavior/NN ./.
+Here/RB we/PRP explore/VB the/DT use/NN of/IN visual/JJ explanations/NNS ./.
+These/DT explanations/NNS take/VBP the/DT form/NN of/IN real/JJ -/HYPH time/NN highlighted/VBN regions/NNS of/IN an/DT image/NN that/WDT causally/RB influence/VBP the/DT network/NN 's/POS output/NN (/-LRB- steering/NN control/NN )/-RRB- ./.
+Our/PRP$ approach/NN is/VBZ two/CD -/HYPH stage/NN ./.
+In/IN the/DT first/JJ stage/NN ,/, we/PRP use/VBP a/DT visual/JJ attention/NN model/NN to/TO train/VB a/DT convolution/NN network/NN end/NN -/HYPH to/IN -/HYPH end/NN from/IN images/NNS to/IN steering/NN angle/NN ./.
+The/DT attention/NN model/NN highlights/NNS image/NN regions/NNS that/WDT potentially/RB influence/VBP the/DT network/NN 's/POS output/NN ./.
+Some/DT of/IN these/DT are/VBP true/JJ influences/NNS ,/, but/CC some/DT are/VBP spurious/JJ ./.
+We/PRP then/RB apply/VB a/DT causal/JJ filtering/NN step/NN to/TO determine/VB which/WDT input/NN regions/NNS actually/RB influence/VBP the/DT output/NN ./.
+This/DT produces/VBZ more/JJR succinct/JJ visual/JJ explanations/NNS and/CC more/RBR accurately/RB exposes/VBZ the/DT network/NN 's/POS behavior/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN our/PRP$ model/NN on/IN three/CD datasets/NNS totaling/VBG 16/CD hours/NNS of/IN driving/VBG ./.
+We/PRP first/RB show/VBP that/IN training/NN with/IN attention/NN does/VBZ not/RB degrade/VB the/DT performance/NN of/IN the/DT end/NN -/HYPH to/IN -/HYPH end/NN network/NN ./.
+Then/RB we/PRP show/VBP that/IN the/DT network/NN causally/RB cues/NNS on/IN a/DT variety/NN of/IN features/NNS that/WDT are/VBP used/VBN by/IN humans/NNS while/IN driving/VBG ./.

@@ -1,0 +1,8 @@
+Answer/NN Set/VBN Programming/NN (/-LRB- ASP/NN )/-RRB- is/VBZ an/DT expressive/JJ knowledge/NN representation/NN and/CC reasoning/NN framework/NN ./.
+Due/IN to/IN its/PRP$ rather/RB simple/JJ syntax/NN paired/VBN with/IN high/JJ -/HYPH performance/NN solvers/NNS ,/, ASP/NN is/VBZ interesting/JJ for/IN industrial/JJ applications/NNS ./.
+However/RB ,/, to/TO err/VB is/VBZ human/JJ and/CC thus/RB debugging/NN is/VBZ an/DT important/JJ activity/NN during/IN the/DT development/NN process/NN ./.
+Therefore/RB ,/, tools/NNS for/IN debugging/VBG non-ground/JJ answer/NN set/VBN programs/NNS are/VBP needed/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ graphical/JJ debugging/NN interface/NN for/IN non-ground/JJ answer/NN set/VBN programs/NNS ./.
+The/DT tool/NN is/VBZ based/VBN on/IN the/DT recently/RB -/HYPH introduced/VBN DWASP/NNP approach/NN for/IN debugging/NN and/CC it/PRP simplifies/VBZ the/DT interaction/NN with/IN the/DT debugger/NN ./.
+Furthermore/RB ,/, the/DT debugging/NN interface/NN is/VBZ integrated/VBN in/IN ASPIDE/NNP ,/, a/DT rich/JJ IDE/NN for/IN answer/NN set/VBN programs/NNS ./.
+With/IN our/PRP$ extension/NN ASPIDE/NNP turns/VBZ into/IN a/DT full/JJ -/HYPH fledged/JJ IDE/NN by/IN offering/VBG debugging/VBG support/NN ./.

@@ -1,0 +1,6 @@
+The/DT multilingual/JJ nature/NN of/IN the/DT world/NN makes/VBZ translation/NN a/DT crucial/JJ requirement/NN today/NN ./.
+Parallel/JJ dictionaries/NNS constructed/VBN by/IN humans/NNS are/VBP a/DT widely/RB -/HYPH available/JJ resource/NN ,/, but/CC they/PRP are/VBP limited/JJ and/CC do/VBP not/RB provide/VB enough/JJ coverage/NN for/IN good/JJ quality/NN translation/NN purposes/NNS ,/, due/IN to/IN out/RB -/HYPH of/IN -/HYPH vocabulary/NN words/NNS and/CC neologisms/NNS ./.
+This/DT motivates/VBZ the/DT use/NN of/IN statistical/JJ translation/NN systems/NNS ,/, which/WDT are/VBP unfortunately/RB dependent/JJ on/IN the/DT quantity/NN and/CC quality/NN of/IN training/NN data/NNS ./.
+Such/JJ has/VBZ a/DT very/RB limited/JJ availability/NN especially/RB for/IN some/DT languages/NNS and/CC very/RB narrow/JJ text/NN domains/NNS ./.
+Is/VBZ this/DT research/NN we/PRP present/VBP our/PRP$ improvements/NNS to/IN Yalign/NNP mining/NN methodology/NN by/IN reimplementing/VBG the/DT comparison/NN algorithm/NN ,/, introducing/VBG a/DT tuning/NN scripts/NNS and/CC by/IN improving/VBG performance/NN using/VBG GPU/NNP computing/VBG acceleration/NN ./.
+The/DT experiments/NNS are/VBP conducted/VBN on/IN various/JJ text/NN domains/NNS and/CC bi-data/NN is/VBZ extracted/VBN from/IN the/DT Wikipedia/NNP dumps/VBZ ./.

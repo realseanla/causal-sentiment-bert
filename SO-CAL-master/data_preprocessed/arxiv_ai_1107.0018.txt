@@ -1,0 +1,4 @@
+This/DT paper/NN presents/VBZ a/DT new/JJ classifier/NN combination/NN technique/NN based/VBN on/IN the/DT Dempster/NNP -/HYPH Shafer/NNP theory/NN of/IN evidence/NN ./.
+The/DT Dempster/NNP -/HYPH Shafer/NNP theory/NN of/IN evidence/NN is/VBZ a/DT powerful/JJ method/NN for/IN combining/VBG measures/NNS of/IN evidence/NN from/IN different/JJ classifiers/NNS ./.
+However/RB ,/, since/IN each/DT of/IN the/DT available/JJ methods/NNS that/WDT estimates/VBZ the/DT evidence/NN of/IN classifiers/NNS has/VBZ its/PRP$ own/JJ limitations/NNS ,/, we/PRP propose/VBP here/RB a/DT new/JJ implementation/NN which/WDT adapts/VBZ to/IN training/NN data/NNS so/IN that/IN the/DT overall/JJ mean/NN square/JJ error/NN is/VBZ minimized/VBN ./.
+The/DT proposed/VBN technique/NN is/VBZ shown/VBN to/TO outperform/VB most/JJS available/JJ classifier/NN combination/NN methods/NNS when/WRB tested/VBN on/IN three/CD different/JJ classification/NN problems/NNS ./.

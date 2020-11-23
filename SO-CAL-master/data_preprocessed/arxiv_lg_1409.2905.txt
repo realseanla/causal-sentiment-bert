@@ -1,0 +1,6 @@
+The/DT sensitivity/NN of/IN Adaboost/NNP to/IN random/JJ label/NN noise/NN is/VBZ a/DT well/RB -/HYPH studied/VBN problem/NN ./.
+LogitBoost/NNP ,/, BrownBoost/NNP and/CC RobustBoost/NNP are/VBP boosting/VBG algorithms/NNS claimed/VBD to/TO be/VB less/RBR sensitive/JJ to/IN noise/NN than/IN AdaBoost/NNP ./.
+We/PRP present/VBP the/DT results/NNS of/IN experiments/NNS evaluating/VBG these/DT algorithms/NNS on/IN both/DT synthetic/JJ and/CC real/JJ datasets/NNS ./.
+We/PRP compare/VBP the/DT performance/NN on/IN each/DT of/IN datasets/NNS when/WRB the/DT labels/NNS are/VBP corrupted/VBN by/IN different/JJ levels/NNS of/IN independent/JJ label/NN noise/NN ./.
+In/IN presence/NN of/IN random/JJ label/NN noise/NN ,/, we/PRP found/VBD that/IN BrownBoost/NNP and/CC RobustBoost/NNP perform/VBP significantly/RB better/JJR than/IN AdaBoost/NNP and/CC LogitBoost/NNP ,/, while/IN the/DT difference/NN between/IN each/DT pair/NN of/IN algorithms/NNS is/VBZ insignificant/JJ ./.
+We/PRP provide/VBP an/DT explanation/NN for/IN the/DT difference/NN based/VBN on/IN the/DT margin/NN distributions/NNS of/IN the/DT algorithms/NNS ./.

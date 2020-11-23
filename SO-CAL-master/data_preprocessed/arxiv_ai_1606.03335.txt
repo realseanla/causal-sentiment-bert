@@ -1,0 +1,8 @@
+A/DT complex/JJ nature/NN of/IN big/JJ data/NNS resources/NNS demands/VBZ new/JJ methods/NNS for/IN structuring/VBG especially/RB for/IN textual/JJ content/NN ./.
+WordNet/NNP is/VBZ a/DT good/JJ knowledge/NN source/NN for/IN comprehensive/JJ abstraction/NN of/IN natural/JJ language/NN as/IN its/PRP$ good/JJ implementations/NNS exist/VBP for/IN many/JJ languages/NNS ./.
+Since/IN WordNet/NNP embeds/VBZ natural/JJ language/NN in/IN the/DT form/NN of/IN a/DT complex/JJ network/NN ,/, a/DT transformation/NN mechanism/NN WordNet2Vec/NN is/VBZ proposed/VBN in/IN the/DT paper/NN ./.
+It/PRP creates/VBZ vectors/NNS for/IN each/DT word/NN from/IN WordNet/NNP ./.
+These/DT vectors/NNS encapsulate/VBP general/JJ position/NN -/HYPH role/NN of/IN a/DT given/VBN word/NN towards/IN all/DT other/JJ words/NNS in/IN the/DT natural/JJ language/NN ./.
+Any/DT list/NN or/CC set/NN of/IN such/JJ vectors/NNS contains/VBZ knowledge/NN about/IN the/DT context/NN of/IN its/PRP$ component/NN within/IN the/DT whole/JJ language/NN ./.
+Such/JJ word/NN representation/NN can/MD be/VB easily/RB applied/VBN to/IN many/JJ analytic/JJ tasks/NNS like/IN classification/NN or/CC clustering/NN ./.
+The/DT usefulness/NN of/IN the/DT WordNet2Vec/NN method/NN was/VBD demonstrated/VBN in/IN sentiment/NN analysis/NN ,/, i.e./FW classification/NN with/IN transfer/NN learning/NN for/IN the/DT real/JJ Amazon/NNP opinion/NN textual/JJ dataset/NN ./.

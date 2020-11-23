@@ -1,0 +1,4 @@
+The/DT deep/JJ Boltzmann/NNP machine/NN (/-LRB- DBM/NN )/-RRB- has/VBZ been/VBN an/DT important/JJ development/NN in/IN the/DT quest/NN for/IN powerful/JJ "/`` deep/JJ "/'' probabilistic/JJ models/NNS ./.
+To/IN date/NN ,/, simultaneous/JJ or/CC joint/JJ training/NN of/IN all/DT layers/NNS of/IN the/DT DBM/NNP has/VBZ been/VBN largely/RB unsuccessful/JJ with/IN existing/VBG training/NN methods/NNS ./.
+We/PRP introduce/VBP a/DT simple/JJ regularization/NN scheme/NN that/WDT encourages/VBZ the/DT weight/NN vectors/NNS associated/VBN with/IN each/DT hidden/JJ unit/NN to/TO have/VB similar/JJ norms/NNS ./.
+We/PRP demonstrate/VBP that/IN this/DT regularization/NN can/MD be/VB easily/RB combined/VBN with/IN standard/JJ stochastic/JJ maximum/JJ likelihood/NN to/TO yield/VB an/DT effective/JJ training/NN strategy/NN for/IN the/DT simultaneous/JJ training/NN of/IN all/DT layers/NNS of/IN the/DT deep/JJ Boltzmann/NNP machine/NN ./.

@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT new/JJ clustering/NN method/NN that/WDT can/MD be/VB regarded/VBN as/IN a/DT numerical/JJ method/NN to/TO compute/VB the/DT proximity/NN gestalt/NN ./.
+The/DT method/NN analyzes/VBZ edge/NN length/NN statistics/NNS in/IN the/DT MST/NN of/IN the/DT dataset/NN and/CC provides/VBZ an/DT a/DT contrario/JJ cluster/NN detection/NN criterion/NN ./.
+The/DT approach/NN is/VBZ fully/RB parametric/JJ on/IN the/DT chosen/VBN distance/NN and/CC can/MD detect/VB arbitrarily/RB shaped/VBN clusters/NNS ./.
+The/DT method/NN is/VBZ also/RB automatic/JJ ,/, in/IN the/DT sense/NN that/IN only/RB a/DT single/JJ parameter/NN is/VBZ left/VBN to/IN the/DT user/NN ./.
+This/DT parameter/NN has/VBZ an/DT intuitive/JJ interpretation/NN as/IN it/PRP controls/VBZ the/DT expected/VBN number/NN of/IN false/JJ detections/NNS ./.
+We/PRP show/VBP that/IN the/DT iterative/JJ application/NN of/IN our/PRP$ method/NN can/MD (/-LRB- 1/CD )/-RRB- provide/VBP robustness/NN to/IN noise/NN and/CC (/-LRB- 2/LS )/-RRB- solve/VB a/DT masking/NN phenomenon/NN in/IN which/WDT a/DT highly/RB populated/JJ and/CC salient/JJ cluster/NN dominates/VBZ the/DT scene/NN and/CC inhibits/VBZ the/DT detection/NN of/IN less/JJR -/HYPH populated/NN ,/, but/CC still/RB salient/JJ ,/, clusters/NNS ./.

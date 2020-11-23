@@ -1,0 +1,8 @@
+Mixed/JJ language/NN data/NNS is/VBZ one/CD of/IN the/DT difficult/JJ yet/RB less/RBR explored/VBN domains/NNS of/IN natural/JJ language/NN processing/NN ./.
+Most/JJS research/NN in/IN fields/NNS like/IN machine/NN translation/NN or/CC sentiment/NN analysis/NN assume/VBP monolingual/JJ input/NN ./.
+However/RB ,/, people/NNS who/WP are/VBP capable/JJ of/IN using/VBG more/JJR than/IN one/CD language/NN often/RB communicate/VBP using/VBG multiple/JJ languages/NNS at/IN the/DT same/JJ time/NN ./.
+Sociolinguists/NNS believe/VBP this/DT "/`` code/NN -/HYPH switching/VBG "/'' phenomenon/NN to/TO be/VB socially/RB motivated/JJ ./.
+For/IN example/NN ,/, to/TO express/VB solidarity/NN or/CC to/TO establish/VB authority/NN ./.
+Most/JJS past/JJ work/NN depend/VB on/IN external/JJ tools/NNS or/CC resources/NNS ,/, such/JJ as/IN part/NN -/HYPH of/IN -/HYPH speech/NN tagging/NN ,/, dictionary/JJ look/NN -/HYPH up/NN ,/, or/CC named/VBN -/HYPH entity/NN recognizers/NNS to/TO extract/VB rich/JJ features/NNS for/IN training/VBG machine/NN learning/NN models/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP train/VBP recurrent/JJ neural/JJ networks/NNS with/IN only/RB raw/JJ features/NNS ,/, and/CC use/VB word/NN embedding/NN to/IN automatically/RB learn/VB meaningful/JJ representations/NNS ./.
+Using/VBG the/DT same/JJ mixed/JJ -/HYPH language/NN Twitter/NNP corpus/NN ,/, our/PRP$ system/NN is/VBZ able/JJ to/TO outperform/VB the/DT best/JJS SVM/NN -/HYPH based/VBN systems/NNS reported/VBN in/IN the/DT EMNLP/NN '14/CD Code/NN -/HYPH Switching/VBG Workshop/NN by/IN 1/CD percent/NN in/IN accuracy/NN ,/, or/CC by/IN 17/CD percent/NN in/IN error/NN rate/NN reduction/NN ./.

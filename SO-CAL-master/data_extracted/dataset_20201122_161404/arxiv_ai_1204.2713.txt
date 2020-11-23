@@ -1,0 +1,6 @@
+A useful step towards better interpretation and analysis of the usage patterns is to formalize the semantics of the resources that users are accessing in the Web.
+We focus on this problem and present an approach for the semantic formalization of usage logs, which lays the basis for eective techniques of querying expressive usage patterns.
+We also present a query answering approach, which is useful to nd in the logs expressive patterns of usage behavior via formulation of semantic and temporal-based constraints.
+We have processed over 30 thousand user browsing sessions extracted from usage logs of DBPedia and Semantic Web Dog Food.
+All these events are formalized semantically using respective domain ontologies and RDF representations of the Web resources being accessed.
+We show the eectiveness of our approach through experimental results, providing in this way an exploratory analysis of the way users browse theWeb of Data.

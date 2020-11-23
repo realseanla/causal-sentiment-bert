@@ -1,0 +1,5 @@
+The/DT goal/NN of/IN semi/NN supervised/VBD learning/NN methods/NNS is/VBZ to/TO effectively/RB combine/VB labeled/VBN and/CC unlabeled/JJ data/NNS to/TO arrive/VB at/IN a/DT better/JJR model/NN ./.
+Many/JJ such/JJ methods/NNS rely/VBP on/IN graph/NN -/HYPH based/VBN approaches/NNS ,/, where/WRB continuous/JJ labels/NNS are/VBP propagated/VBN through/IN a/DT graph/NN on/IN the/DT input/NN points/NNS ./.
+Here/RB we/PRP argue/VBP that/IN it/PRP is/VBZ more/RBR effective/JJ to/TO consider/VB infection/NN processes/NNS on/IN these/DT graphs/NNS ,/, whereby/WRB at/IN any/DT point/NN in/IN time/NN nodes/NNS can/MD infect/VB other/JJ nodes/NNS with/IN their/PRP$ labels/NNS ./.
+Since/IN the/DT dynamics/NNS of/IN these/DT processes/NNS is/VBZ stochastic/JJ ,/, we/PRP develop/VBP algorithms/NNS for/IN efficiently/RB estimating/VBG the/DT expected/VBN labels/NNS over/IN time/NN ./.
+We/PRP show/VBP that/IN our/PRP$ approach/NN addresses/VBZ many/JJ of/IN the/DT limitations/NNS of/IN graph/NN based/VBN learning/NN ,/, and/CC is/VBZ also/RB empirically/RB effective/JJ ./.

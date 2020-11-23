@@ -1,0 +1,9 @@
+We/PRP consider/VBP the/DT setting/NN in/IN which/WDT we/PRP train/VBP a/DT supervised/JJ model/NN that/WDT learns/VBZ task/NN -/HYPH specific/JJ word/NN representations/NNS ./.
+We/PRP assume/VBP that/IN we/PRP have/VBP access/NN to/IN some/DT initial/JJ word/NN representations/NNS (/-LRB- e.g./FW ,/, unsupervised/JJ embeddings/NNS )/-RRB- ,/, and/CC that/IN the/DT supervised/JJ learning/NN procedure/NN updates/NNS them/PRP to/IN task/NN -/HYPH specific/JJ representations/NNS for/IN words/NNS contained/VBN in/IN the/DT training/NN data/NNS ./.
+But/CC what/WP about/IN words/NNS not/RB contained/VBN in/IN the/DT supervised/JJ training/NN data/NNS ?/.
+When/WRB such/JJ unseen/JJ words/NNS are/VBP encountered/VBN at/IN test/NN time/NN ,/, they/PRP are/VBP typically/RB represented/VBN by/IN either/CC their/PRP$ initial/JJ vectors/NNS or/CC a/DT single/RB unknown/JJ vector/NN ,/, which/WDT often/RB leads/VBZ to/IN errors/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP address/VBP this/DT issue/NN by/IN learning/VBG to/TO map/VB from/IN initial/JJ representations/NNS to/IN task/NN -/HYPH specific/JJ ones/NNS ./.
+We/PRP present/VBP a/DT general/JJ technique/NN that/WDT uses/VBZ a/DT neural/JJ network/NN mapper/NN with/IN a/DT weighted/JJ multiple/JJ -/HYPH loss/NN criterion/NN ./.
+This/DT allows/VBZ us/PRP to/TO use/VB the/DT same/JJ learned/VBN model/NN parameters/NNS at/IN test/NN time/NN but/CC now/RB with/IN appropriate/JJ task/NN -/HYPH specific/JJ representations/NNS for/IN unseen/JJ words/NNS ./.
+We/PRP consider/VBP the/DT task/NN of/IN dependency/NN parsing/VBG and/CC report/NN improvements/NNS in/IN performance/NN (/-LRB- and/CC reductions/NNS in/IN out/RB -/HYPH of/IN -/HYPH vocabulary/NN rates/NNS )/-RRB- across/IN multiple/JJ domains/NNS such/JJ as/IN news/NN ,/, Web/NN ,/, and/CC speech/NN ./.
+We/PRP also/RB achieve/VBP downstream/JJ improvements/NNS on/IN the/DT task/NN of/IN parsing/VBG -/HYPH based/VBN sentiment/NN analysis/NN ./.

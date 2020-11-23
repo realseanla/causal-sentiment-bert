@@ -1,0 +1,8 @@
+Semi-supervised/VBN learning/NN plays/VBZ an/DT important/JJ role/NN in/IN large/JJ -/HYPH scale/NN machine/NN learning/NN ./.
+Properly/RB using/VBG additional/JJ unlabeled/JJ data/NNS (/-LRB- largely/RB available/JJ nowadays/RB )/-RRB- often/RB can/MD improve/VB the/DT machine/NN learning/VBG accuracy/NN ./.
+However/RB ,/, if/IN the/DT machine/NN learning/NN model/NN is/VBZ misspecified/VBN for/IN the/DT underlying/JJ true/JJ data/NNS distribution/NN ,/, the/DT model/NN performance/NN could/MD be/VB seriously/RB jeopardized/JJ ./.
+This/DT issue/NN is/VBZ known/VBN as/IN model/NN misspecification/NN ./.
+To/TO address/VB this/DT issue/NN ,/, we/PRP focus/VBP on/IN generative/JJ models/NNS and/CC propose/VB a/DT criterion/NN to/TO detect/VB the/DT onset/NN of/IN model/NN misspecification/NN by/IN measuring/VBG the/DT performance/NN difference/NN between/IN models/NNS obtained/VBN using/VBG supervised/JJ and/CC semi-supervised/JJ learning/NN ./.
+Then/RB ,/, we/PRP propose/VBP to/IN automatically/RB modify/VB the/DT generative/JJ models/NNS during/IN model/NN training/NN to/TO achieve/VB an/DT unbiased/JJ generative/JJ model/NN ./.
+Rigorous/JJ experiments/NNS were/VBD carried/VBN out/RP to/TO evaluate/VB the/DT proposed/JJ method/NN using/VBG two/CD image/NN classification/NN data/NNS sets/VBZ PASCAL/NNP VOC/NNP '07/CD and/CC MIR/NNP Flickr/NNP ./.
+Our/PRP$ proposed/JJ method/NN has/VBZ been/VBN demonstrated/VBN to/TO outperform/VB a/DT number/NN of/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN semi-supervised/VBN learning/VBG approaches/NNS for/IN the/DT classification/NN task/NN ./.

@@ -1,0 +1,5 @@
+We present theoretical results in terms of lower and upper bounds on the query complexity of noisy search with comparative feedback.
+In this search model, the noise in the feedback depends on the distance between query points and the search target.
+Consequently, the error probability in the feedback is not fixed but varies for the queries posed by the search algorithm.
+Our results show that a target out of n items can be found in O(log n) queries.
+We also show the surprising result that for k possible answers per query, the speedup is not log k (as for k-ary search) but only log log k in some cases.

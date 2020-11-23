@@ -1,0 +1,4 @@
+This/DT work/NN presents/VBZ an/DT attention/NN mechanism/NN -/HYPH based/VBN neural/JJ network/NN approach/NN for/IN tracking/VBG objects/NNS in/IN video/NN ./.
+A/DT recurrent/JJ neural/JJ network/NN is/VBZ trained/VBN to/TO predict/VB the/DT position/NN of/IN an/DT object/NN at/IN time/NN t/NN 1/CD given/VBN a/DT series/NN of/IN selective/JJ glimpses/NNS into/IN video/NN frames/NNS at/IN time/NN steps/NNS 1/CD to/IN t/NN ./.
+The/DT proposed/VBN recurrent/JJ attentive/JJ tracking/NN model/NN can/MD be/VB trained/VBN using/VBG simple/JJ gradient/NN -/HYPH based/VBN training/NN ./.
+Various/JJ settings/NNS are/VBP explored/VBN in/IN experiments/NNS on/IN artificial/JJ data/NNS to/TO justify/VB design/NN choices/NNS ./.

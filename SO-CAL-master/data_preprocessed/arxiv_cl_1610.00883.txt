@@ -1,0 +1,8 @@
+This/DT paper/NN makes/VBZ a/DT simple/JJ increment/NN to/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN sarcasm/NN detection/NN research/NN ./.
+Existing/VBG approaches/NNS are/VBP unable/JJ to/TO capture/VB subtle/JJ forms/NNS of/IN context/NN incongruity/NN which/WDT lies/VBZ at/IN the/DT heart/NN of/IN sarcasm/NN ./.
+We/PRP explore/VBP if/IN prior/JJ work/NN can/MD be/VB enhanced/VBN using/VBG semantic/JJ similarity/NN //HYPH discordance/NN between/IN word/NN embeddings/NNS ./.
+We/PRP augment/VBP word/NN embedding/NN -/HYPH based/VBN features/NNS to/IN four/CD feature/NN sets/NNS reported/VBN in/IN the/DT past/NN ./.
+We/PRP also/RB experiment/VBP with/IN four/CD types/NNS of/IN word/NN embeddings/NNS ./.
+We/PRP observe/VBP an/DT improvement/NN in/IN sarcasm/NN detection/NN ,/, irrespective/RB of/IN the/DT word/NN embedding/NN used/VBN or/CC the/DT original/JJ feature/NN set/NN to/TO which/WDT our/PRP$ features/NNS are/VBP augmented/VBN ./.
+For/IN example/NN ,/, this/DT augmentation/NN results/VBZ in/IN an/DT improvement/NN in/IN F/NN -/HYPH score/NN of/IN around/RB 4/CD \/SYM percent/NN for/IN three/CD out/IN of/IN these/DT four/CD feature/NN sets/NNS ,/, and/CC a/DT minor/JJ degradation/NN in/IN case/NN of/IN the/DT fourth/JJ ,/, when/WRB Word2Vec/NN embeddings/NNS are/VBP used/VBN ./.
+Finally/RB ,/, a/DT comparison/NN of/IN the/DT four/CD embeddings/NNS shows/VBZ that/IN Word2Vec/NN and/CC dependency/NN weight/NN -/HYPH based/VBN features/NNS outperform/VBP LSA/NNP and/CC GloVe/NNP ,/, in/IN terms/NNS of/IN their/PRP$ benefit/NN to/IN sarcasm/NN detection/NN ./.

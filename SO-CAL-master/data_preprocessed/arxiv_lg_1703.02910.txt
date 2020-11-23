@@ -1,0 +1,9 @@
+Even/RB though/IN active/JJ learning/NN forms/VBZ an/DT important/JJ pillar/NN of/IN machine/NN learning/NN ,/, deep/JJ learning/NN tools/NNS are/VBP not/RB prevalent/JJ within/IN it/PRP ./.
+Deep/JJ learning/NN poses/VBZ several/JJ difficulties/NNS when/WRB used/VBN in/IN an/DT active/JJ learning/NN setting/NN ./.
+First/RB ,/, active/JJ learning/NN (/-LRB- AL/NNP )/-RRB- methods/NNS generally/RB rely/VBP on/IN being/VBG able/JJ to/TO learn/VB and/CC update/VB models/NNS from/IN small/JJ amounts/NNS of/IN data/NNS ./.
+Recent/JJ advances/NNS in/IN deep/JJ learning/NN ,/, on/IN the/DT other/JJ hand/NN ,/, are/VBP notorious/JJ for/IN their/PRP$ dependence/NN on/IN large/JJ amounts/NNS of/IN data/NNS ./.
+Second/RB ,/, many/JJ AL/NNP acquisition/NN functions/NNS rely/VBP on/IN model/NN uncertainty/NN ,/, yet/CC deep/JJ learning/NN methods/NNS rarely/RB represent/VBP such/JJ model/NN uncertainty/NN ./.
+In/IN this/DT paper/NN we/PRP combine/VBP recent/JJ advances/NNS in/IN Bayesian/JJ deep/JJ learning/NN into/IN the/DT active/JJ learning/NN framework/NN in/IN a/DT practical/JJ way/NN ./.
+We/PRP develop/VBP an/DT active/JJ learning/NN framework/NN for/IN high/JJ dimensional/JJ data/NNS ,/, a/DT task/NN which/WDT has/VBZ been/VBN extremely/RB challenging/JJ so/RB far/RB ,/, with/IN very/RB sparse/JJ existing/VBG literature/NN ./.
+Taking/VBG advantage/NN of/IN specialised/VBN models/NNS such/JJ as/IN Bayesian/JJ convolutional/JJ neural/JJ networks/NNS ,/, we/PRP demonstrate/VBP our/PRP$ active/JJ learning/NN techniques/NNS with/IN image/NN data/NNS ,/, obtaining/VBG a/DT significant/JJ improvement/NN on/IN existing/VBG active/JJ learning/NN approaches/NNS ./.
+We/PRP demonstrate/VBP this/DT on/IN both/CC the/DT MNIST/NN dataset/NN ,/, as/RB well/RB as/IN for/IN skin/NN cancer/NN diagnosis/NN from/IN lesion/NN images/NNS (/-LRB- ISIC2016/NN task/NN )/-RRB- ./.

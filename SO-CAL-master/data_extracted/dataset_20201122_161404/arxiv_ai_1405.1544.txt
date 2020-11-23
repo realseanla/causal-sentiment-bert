@@ -1,0 +1,3 @@
+In this paper we present the Transalg system, designed to produce SAT encodings for discrete functions, written as programs in a specific language.
+Translation of such programs to SAT is based on propositional encoding methods for formal computing models and on the concept of symbolic execution.
+We used the Transalg system to make SAT encodings for a number of cryptographic functions.

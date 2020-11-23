@@ -1,0 +1,9 @@
+This/DT paper/NN presents/VBZ an/DT application/NN of/IN statistical/JJ machine/NN learning/NN to/IN the/DT field/NN of/IN watermarking/NN ./.
+We/PRP propose/VBP a/DT new/JJ attack/NN model/NN on/IN additive/JJ spread/NN -/HYPH spectrum/NN watermarking/NN systems/NNS ./.
+The/DT proposed/JJ attack/NN is/VBZ based/VBN on/IN Bayesian/JJ statistics/NNS ./.
+We/PRP consider/VBP the/DT scenario/NN in/IN which/WDT a/DT watermark/NN signal/NN is/VBZ repeatedly/RB embedded/VBN in/IN specific/JJ ,/, possibly/RB chosen/VBN based/VBN on/IN a/DT secret/JJ message/NN bitstream/NN ,/, segments/NNS (/-LRB- signals/NNS )/-RRB- of/IN the/DT host/NN data/NNS ./.
+The/DT host/NN signal/NN can/MD represent/VB a/DT patch/NN of/IN pixels/NNS from/IN an/DT image/NN or/CC a/DT video/NN frame/NN ./.
+We/PRP propose/VBP a/DT probabilistic/JJ model/NN that/WDT infers/VBZ the/DT embedded/VBN message/NN bitstream/NN and/CC watermark/NN signal/NN ,/, directly/RB from/IN the/DT watermarked/JJ data/NNS ,/, without/IN access/NN to/IN the/DT decoder/NN ./.
+We/PRP develop/VBP an/DT efficient/JJ Markov/NNP chain/NN Monte/NNP Carlo/NNP sampler/NN for/IN updating/VBG the/DT model/NN parameters/NNS from/IN their/PRP$ conjugate/JJ full/JJ conditional/JJ posteriors/NNS ./.
+We/PRP also/RB provide/VBP a/DT variational/JJ Bayesian/JJ solution/NN ,/, which/WDT further/RB increases/VBZ the/DT convergence/NN speed/NN of/IN the/DT algorithm/NN ./.
+Experiments/NNS with/IN synthetic/JJ and/CC real/JJ image/NN signals/NNS demonstrate/VBP that/IN the/DT attack/NN model/NN is/VBZ able/JJ to/TO correctly/RB infer/VB a/DT large/JJ part/NN of/IN the/DT message/NN bitstream/NN and/CC obtain/VB a/DT very/RB accurate/JJ estimate/NN of/IN the/DT watermark/NN signal/NN ./.

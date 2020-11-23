@@ -1,0 +1,10 @@
+Automatically learning features, especially robust features, has attracted much attention in the machine learning community.
+In this paper, we propose a new method to learn non-linear robust features by taking advantage of the data manifold structure.
+We first follow the commonly used trick of the trade, that is learning robust features with artificially corrupted data, which are training samples with manually injected noise.
+Following the idea of the auto-encoder, we first assume features should contain much information to well reconstruct the input from its corrupted copies.
+However, merely reconstructing clean input from its noisy copies could make data manifold in the feature space noisy.
+To address this problem, we propose a new method, called Incremental Auto-Encoders, to iteratively denoise the extracted features.
+We assume the noisy manifold structure is caused by a diffusion process.
+Consequently, we reverse this specific diffusion process to further contract this noisy manifold, which results in an incremental optimization of model parameters .
+Furthermore, we show these learned non-linear features can be stacked into a hierarchy of features.
+Experimental results on real-world datasets demonstrate the proposed method can achieve better classification performances.

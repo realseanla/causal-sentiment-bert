@@ -1,0 +1,4 @@
+Unification in Description Logics has been introduced as a means to detect redundancies in ontologies.
+We try to extend the known decidability results for unification in the Description Logic $\mathcal{EL}$ to disunification since negative constraints can be used to avoid unwanted unifiers.
+While decidability of the solvability of general $\mathcal{EL}$-disunification problems remains an open problem, we obtain NP-completeness results for two interesting special cases: dismatching problems, where one side of each negative constraint must be ground, and local solvability of disunification problems, where we consider only solutions that are constructed from terms occurring in the input problem.
+More precisely, we first show that dismatching can be reduced to local disunification, and then provide two complementary NP-algorithms for finding local solutions of disunification problems.

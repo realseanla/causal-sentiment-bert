@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ several/JJ new/JJ tractability/NN results/NNS for/IN planning/VBG based/VBN on/IN macros/NNS ./.
+We/PRP describe/VBP an/DT algorithm/NN that/WDT optimally/RB solves/VBZ planning/NN problems/NNS in/IN a/DT class/NN that/WDT we/PRP call/VBP inverted/VBN tree/NN reducible/JJ ,/, and/CC is/VBZ provably/RB tractable/JJ for/IN several/JJ subclasses/NNS of/IN this/DT class/NN ./.
+By/IN using/VBG macros/NNS to/TO store/VB partial/JJ plans/NNS that/WDT recur/VBP frequently/RB in/IN the/DT solution/NN ,/, the/DT algorithm/NN is/VBZ polynomial/JJ in/IN time/NN and/CC space/NN even/RB for/IN exponentially/RB long/JJ plans/NNS ./.
+We/PRP generalize/VBP the/DT inverted/VBN tree/NN reducible/JJ class/NN in/IN several/JJ ways/NNS and/CC describe/VB modifications/NNS of/IN the/DT algorithm/NN to/TO deal/VB with/IN these/DT new/JJ classes/NNS ./.
+Theoretical/JJ results/NNS are/VBP validated/VBN in/IN experiments/NNS ./.

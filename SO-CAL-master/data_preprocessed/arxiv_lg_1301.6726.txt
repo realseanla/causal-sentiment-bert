@@ -1,0 +1,6 @@
+This/DT paper/NN describes/VBZ stochastic/JJ search/NN approaches/NNS ,/, including/VBG a/DT new/JJ stochastic/JJ algorithm/NN and/CC an/DT adaptive/JJ mutation/NN operator/NN ,/, for/IN learning/VBG Bayesian/JJ networks/NNS from/IN incomplete/JJ data/NNS ./.
+This/DT problem/NN is/VBZ characterized/VBN by/IN a/DT huge/JJ solution/NN space/NN with/IN a/DT highly/RB multimodal/JJ landscape/NN ./.
+State/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS all/DT involve/VBP using/VBG deterministic/JJ approaches/NNS such/JJ as/IN the/DT expectation/NN -/HYPH maximization/NN algorithm/NN ./.
+These/DT approaches/NNS are/VBP guaranteed/VBN to/TO find/VB local/JJ maxima/NNS ,/, but/CC do/VBP not/RB explore/VB the/DT landscape/NN for/IN other/JJ modes/NNS ./.
+Our/PRP$ approach/NN evolves/VBZ structure/NN and/CC the/DT missing/JJ data/NNS ./.
+We/PRP compare/VBP our/PRP$ stochastic/JJ algorithms/NNS and/CC show/VBP they/PRP all/DT produce/VBP accurate/JJ results/NNS ./.

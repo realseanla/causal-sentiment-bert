@@ -1,0 +1,6 @@
+A/DT wide/JJ variety/NN of/IN machine/NN learning/NN algorithms/NNS such/JJ as/IN support/NN vector/NN machine/NN (/-LRB- SVM/NN )/-RRB- ,/, minimax/NN probability/NN machine/NN (/-LRB- MPM/NNP )/-RRB- ,/, and/CC Fisher/NNP discriminant/JJ analysis/NN (/-LRB- FDA/NNP )/-RRB- ,/, exist/VBP for/IN binary/JJ classification/NN ./.
+The/DT purpose/NN of/IN this/DT paper/NN is/VBZ to/TO provide/VB a/DT unified/JJ classification/NN model/NN that/WDT includes/VBZ the/DT above/JJ models/NNS through/IN a/DT robust/JJ optimization/NN approach/NN ./.
+This/DT unified/VBN model/NN has/VBZ several/JJ benefits/NNS ./.
+One/CD is/VBZ that/IN the/DT extensions/NNS and/CC improvements/NNS intended/VBN for/IN SVM/NN become/VBN applicable/JJ to/IN MPM/NNP and/CC FDA/NNP ,/, and/CC vice/RB versa/RB ./.
+Another/DT benefit/NN is/VBZ to/TO provide/VB theoretical/JJ results/NNS to/IN above/JJ learning/NN methods/NNS at/IN once/RB by/IN dealing/VBG with/IN the/DT unified/VBN model/NN ./.
+We/PRP give/VBP a/DT statistical/JJ interpretation/NN of/IN the/DT unified/VBN classification/NN model/NN and/CC propose/VB a/DT non-convex/JJ optimization/NN algorithm/NN that/WDT can/MD be/VB applied/VBN to/IN non-convex/JJ variants/NNS of/IN existing/VBG learning/NN methods/NNS ./.

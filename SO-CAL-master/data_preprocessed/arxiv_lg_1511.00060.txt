@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN we/PRP develop/VBP a/DT recurrent/JJ neural/JJ network/NN (/-LRB- TreeRNN/NNP )/-RRB- ,/, which/WDT is/VBZ designed/VBN to/TO predict/VB a/DT tree/NN rather/RB than/IN a/DT linear/JJ sequence/NN as/RB is/VBZ the/DT case/NN in/IN conventional/JJ recurrent/JJ neural/JJ networks/NNS ./.
+Our/PRP$ model/NN defines/VBZ the/DT probability/NN of/IN a/DT sentence/NN by/IN estimating/VBG the/DT generation/NN probability/NN of/IN its/PRP$ dependency/NN tree/NN ./.
+We/PRP construct/VBP the/DT tree/NN incrementally/RB by/IN generating/VBG the/DT left/JJ and/CC right/JJ dependents/NNS of/IN a/DT node/NN whose/WP$ probability/NN is/VBZ computed/VBN using/VBG recurrent/JJ neural/JJ networks/NNS with/IN shared/VBN hidden/JJ layers/NNS ./.
+Application/NN of/IN our/PRP$ model/NN to/IN two/CD language/NN modeling/NN tasks/NNS shows/VBZ that/IN it/PRP outperforms/VBZ or/CC performs/VBZ on/IN par/NN with/IN related/JJ models/NNS ./.

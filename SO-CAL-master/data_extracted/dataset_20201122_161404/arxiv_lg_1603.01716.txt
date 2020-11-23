@@ -1,0 +1,4 @@
+In this paper, a novel approach to classifier ensemble creation is presented.
+While other ensemble creation techniques are based on careful selection of existing classifiers or preprocessing of the data, the presented approach automatically creates an optimal labelling for a number of classifiers, which are then assigned to the original data instances and fed to classifiers.
+The approach has been evaluated on high-dimensional biomedical datasets.
+The results show that the approach outperformed individual approaches in all cases.

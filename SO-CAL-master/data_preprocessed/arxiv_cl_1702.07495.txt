@@ -1,0 +1,6 @@
+This/DT document/NN is/VBZ about/IN the/DT multi-document/JJ Von/NNP -/HYPH Mises/NNP -/HYPH Fisher/NNP mixture/NN model/NN with/IN a/DT Dirichlet/NNP prior/RB ,/, referred/VBN to/IN as/IN VMFMix/NNP ./.
+VMFMix/NNP is/VBZ analogous/JJ to/IN Latent/JJ Dirichlet/NNP Allocation/NN (/-LRB- LDA/NN )/-RRB- in/IN that/IN they/PRP can/MD capture/VB the/DT co-occurrence/NN patterns/NNS acorss/VBP multiple/JJ documents/NNS ./.
+The/DT difference/NN is/VBZ that/IN in/IN VMFMix/NNP ,/, the/DT topic/NN -/HYPH word/NN distribution/NN is/VBZ defined/VBN on/IN a/DT continuous/JJ n/NN -/HYPH dimensional/JJ hypersphere/NN ./.
+Hence/RB VMFMix/NNP is/VBZ used/VBN to/TO derive/VB topic/NN embeddings/NNS ,/, i.e./FW ,/, representative/NN vectors/NNS ,/, from/IN multiple/JJ sets/NNS of/IN embedding/NN vectors/NNS ./.
+An/DT efficient/JJ Variational/NNP Expectation/NN -/HYPH Maximization/NN inference/NN algorithm/NN is/VBZ derived/VBN ./.
+The/DT performance/NN of/IN VMFMix/NNP on/IN two/CD document/NN classification/NN tasks/NNS is/VBZ reported/VBN ,/, with/IN some/DT preliminary/JJ analysis/NN ./.

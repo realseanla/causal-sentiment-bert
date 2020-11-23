@@ -1,0 +1,10 @@
+Traditionally/RB ,/, multitask/JJ learning/NN (/-LRB- MTL/NN )/-RRB- assumes/VBZ that/IN all/PDT the/DT tasks/NNS are/VBP related/VBN ./.
+This/DT can/MD lead/VB to/IN negative/JJ transfer/NN when/WRB tasks/NNS are/VBP indeed/RB incoherent/JJ ./.
+Recently/RB ,/, a/DT number/NN of/IN approaches/NNS have/VBP been/VBN proposed/VBN that/IN alleviate/VB this/DT problem/NN by/IN discovering/VBG the/DT underlying/VBG task/NN clusters/NNS or/CC relationships/NNS ./.
+However/RB ,/, they/PRP are/VBP limited/VBN to/IN modeling/VBG these/DT relationships/NNS at/IN the/DT task/NN level/NN ,/, which/WDT may/MD be/VB restrictive/JJ in/IN some/DT applications/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ MTL/NN formulation/NN that/WDT captures/VBZ task/NN relationships/NNS at/IN the/DT feature/NN -/HYPH level/NN ./.
+Depending/VBG on/IN the/DT interactions/NNS among/IN tasks/NNS and/CC features/NNS ,/, the/DT proposed/JJ method/NN construct/NN different/JJ task/NN clusters/NNS for/IN different/JJ features/NNS ,/, without/IN even/RB the/DT need/NN of/IN pre-specifying/VBG the/DT number/NN of/IN clusters/NNS ./.
+Computationally/RB ,/, the/DT proposed/VBN formulation/NN is/VBZ strongly/RB convex/JJ ,/, and/CC can/MD be/VB efficiently/RB solved/VBN by/IN accelerated/VBN proximal/JJ methods/NNS ./.
+Experiments/NNS are/VBP performed/VBN on/IN a/DT number/NN of/IN synthetic/JJ and/CC real/JJ -/HYPH world/NN data/NN sets/NNS ./.
+Under/IN various/JJ degrees/NNS of/IN task/NN relationships/NNS ,/, the/DT accuracy/NN of/IN the/DT proposed/JJ method/NN is/VBZ consistently/RB among/IN the/DT best/JJS ./.
+Moreover/RB ,/, the/DT feature/NN -/HYPH specific/JJ task/NN clusters/NNS obtained/VBN agree/VBP with/IN the/DT known/JJ //HYPH plausible/JJ task/NN structures/NNS of/IN the/DT data/NNS ./.

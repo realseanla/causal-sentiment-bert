@@ -1,0 +1,8 @@
+Assisted/VBN text/NN input/NN techniques/NNS can/MD save/VB time/NN and/CC effort/NN and/CC improve/VB text/NN quality/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP how/WRB grounded/VBN and/CC conditional/JJ extensions/NNS to/IN standard/JJ neural/JJ language/NN models/NNS can/MD bring/VB improvements/NNS in/IN the/DT tasks/NNS of/IN word/NN prediction/NN and/CC completion/NN ./.
+These/DT extensions/NNS incorporate/VB a/DT structured/JJ knowledge/NN base/NN and/CC numerical/JJ values/NNS from/IN the/DT text/NN into/IN the/DT context/NN used/VBN to/TO predict/VB the/DT next/JJ word/NN ./.
+Our/PRP$ automated/VBN evaluation/NN on/IN a/DT clinical/JJ dataset/NN shows/VBZ extended/VBN models/NNS significantly/RB outperform/VBP standard/JJ models/NNS ./.
+Our/PRP$ best/JJS system/NN uses/VBZ both/DT conditioning/NN and/CC grounding/NN ,/, because/IN of/IN their/PRP$ orthogonal/JJ benefits/NNS ./.
+For/IN word/NN prediction/NN with/IN a/DT list/NN of/IN 5/CD suggestions/NNS ,/, it/PRP improves/VBZ recall/NN from/IN 25.03/CD percent/NN to/IN 71.28/CD percent/NN and/CC for/IN word/NN completion/NN it/PRP improves/VBZ keystroke/JJ savings/NNS from/IN 34.35/CD percent/NN to/IN 44.81/CD percent/NN ,/, where/WRB theoretical/JJ bound/VBN for/IN this/DT dataset/NN is/VBZ 58.78/CD percent/NN ./.
+We/PRP also/RB perform/VBP a/DT qualitative/JJ investigation/NN of/IN how/WRB models/NNS with/IN lower/JJR perplexity/NN occasionally/RB fare/VBP better/RBR at/IN the/DT tasks/NNS ./.
+We/PRP found/VBD that/IN at/IN test/NN time/NN numbers/NNS have/VBP more/JJR influence/NN on/IN the/DT document/NN level/NN than/IN on/IN individual/JJ word/NN probabilities/NNS ./.

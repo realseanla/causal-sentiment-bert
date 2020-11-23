@@ -1,0 +1,4 @@
+We/PRP propose/VBP a/DT new/JJ way/NN of/IN incorporating/VBG temporal/JJ information/NN present/NN in/IN videos/NNS into/IN Spatial/JJ Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- ConvNets/NNP )/-RRB- trained/VBN on/IN images/NNS ,/, that/IN avoids/VBZ training/NN Spatio/JJ -/HYPH Temporal/JJ ConvNets/NNS from/IN scratch/NN ./.
+We/PRP describe/VBP several/JJ initializations/NNS of/IN weights/NNS in/IN 3D/JJ Convolutional/NNP Layers/NNS of/IN Spatio/JJ -/HYPH Temporal/JJ ConvNet/NN using/VBG 2D/NN Convolutional/NNP Weights/NNPS learned/VBD from/IN ImageNet/NNP ./.
+We/PRP show/VBP that/IN it/PRP is/VBZ important/JJ to/IN initialize/VB 3D/JJ Convolutional/NNP Weights/NNS judiciously/RB in/IN order/NN to/TO learn/VB temporal/JJ representations/NNS of/IN videos/NNS ./.
+We/PRP evaluate/VBP our/PRP$ methods/NNS on/IN the/DT UCF/NN -/HYPH 101/CD dataset/NN and/CC demonstrate/VBP improvement/NN over/IN Spatial/JJ ConvNets/NNPS ./.

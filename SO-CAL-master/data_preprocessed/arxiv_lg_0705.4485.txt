@@ -1,0 +1,6 @@
+Observations/NNS consisting/VBG of/IN measurements/NNS on/IN relationships/NNS for/IN pairs/NNS of/IN objects/NNS arise/VBP in/IN many/JJ settings/NNS ,/, such/JJ as/IN protein/NN interaction/NN and/CC gene/NN regulatory/JJ networks/NNS ,/, collections/NNS of/IN author/NN -/HYPH recipient/NN email/NN ,/, and/CC social/JJ networks/NNS ./.
+Analyzing/VBG such/JJ data/NNS with/IN probabilisic/JJ models/NNS can/MD be/VB delicate/JJ because/IN the/DT simple/JJ exchangeability/NN assumptions/NNS underlying/VBG many/JJ boilerplate/NN models/NNS no/RB longer/RBR hold/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP a/DT latent/JJ variable/JJ model/NN of/IN such/JJ data/NNS called/VBD the/DT mixed/JJ membership/NN stochastic/JJ blockmodel/NN ./.
+This/DT model/NN extends/VBZ blockmodels/NNS for/IN relational/JJ data/NNS to/IN ones/NNS which/WDT capture/VBP mixed/JJ membership/NN latent/NN relational/JJ structure/NN ,/, thus/RB providing/VBG an/DT object/NN -/HYPH specific/JJ low/JJ -/HYPH dimensional/JJ representation/NN ./.
+We/PRP develop/VBP a/DT general/JJ variational/JJ inference/NN algorithm/NN for/IN fast/JJ approximate/JJ posterior/JJ inference/NN ./.
+We/PRP explore/VBP applications/NNS to/IN social/JJ and/CC protein/NN interaction/NN networks/NNS ./.

@@ -1,0 +1,5 @@
+The Data Mining process enables the end users to analyze, understand and use the extracted knowledge in an intelligent system or to support in the decision-making processes.
+However, many algorithms used in the process encounter large quantities of patterns, complicating the analysis of the patterns.
+This fact occurs with association rules, a Data Mining technique that tries to identify intrinsic patterns in large data sets.
+A method that can help the analysis of the association rules is the use of taxonomies in the step of post-processing knowledge.
+In this paper, the GART algorithm is proposed, which uses taxonomies to generalize association rules, and the RulEE-GAR computational module, that enables the analysis of the generalized rules.

@@ -1,0 +1,8 @@
+Biomedical/NNP events/NNS describe/VBP complex/JJ interactions/NNS between/IN various/JJ biomedical/JJ entities/NNS ./.
+Event/NN trigger/NN is/VBZ a/DT word/NN or/CC a/DT phrase/NN which/WDT typically/RB signifies/VBZ the/DT occurrence/NN of/IN an/DT event/NN ./.
+Event/NN trigger/NN identification/NN is/VBZ an/DT important/JJ first/JJ step/NN in/IN all/DT event/NN extraction/NN methods/NNS ./.
+However/RB many/JJ of/IN the/DT current/JJ approaches/NNS either/CC rely/VBP on/IN complex/JJ hand/NN -/HYPH crafted/VBN features/NNS or/CC consider/VB features/NNS only/RB within/IN a/DT window/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT method/NN that/WDT takes/VBZ the/DT advantage/NN of/IN recurrent/JJ neural/JJ network/NN (/-LRB- RNN/NN )/-RRB- to/TO extract/VB higher/JJR level/NN features/NNS present/VBP across/IN the/DT sentence/NN ./.
+Thus/RB hidden/JJ state/NN representation/NN of/IN RNN/NN along/IN with/IN word/NN and/CC entity/NN type/NN embedding/NN as/IN features/NNS avoid/VBP relying/VBG on/IN the/DT complex/JJ hand/NN -/HYPH crafted/VBN features/NNS generated/VBN using/VBG various/JJ NLP/NNP toolkits/NNS ./.
+Our/PRP$ experiments/NNS have/VBP shown/VBN to/TO achieve/VB state/NN -/HYPH of/IN -/HYPH art/NN F1/NN -/HYPH score/NN on/IN Multi/NNP Level/NNP Event/NN Extraction/NN (/-LRB- MLEE/NN )/-RRB- corpus/NN ./.
+We/PRP have/VBP also/RB performed/VBN category-wise/NN analysis/NN of/IN the/DT result/NN and/CC discussed/VBD the/DT importance/NN of/IN various/JJ features/NNS in/IN trigger/NN identification/NN task/NN ./.

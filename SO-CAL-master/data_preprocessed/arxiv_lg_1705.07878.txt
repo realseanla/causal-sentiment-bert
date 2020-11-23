@@ -1,0 +1,9 @@
+High/JJ network/NN communication/NN cost/NN for/IN synchronizing/VBG gradients/NNS and/CC parameters/NNS is/VBZ the/DT well/NN -/HYPH known/VBN bottleneck/NN of/IN distributed/VBN training/NN ./.
+In/IN this/DT work/NN ,/, we/PRP propose/VBP TernGrad/NNP that/WDT uses/VBZ ternary/JJ gradients/NNS to/TO accelerate/VB distributed/VBN deep/JJ learning/NN in/IN data/NNS parallelism/NN ./.
+Our/PRP$ approach/NN requires/VBZ only/RB three/CD numerical/JJ levels/NNS {/-LRB- -/HYPH 1,0,1/NN }/-RRB- which/WDT can/MD aggressively/RB reduce/VB the/DT communication/NN time/NN ./.
+We/PRP mathematically/RB prove/VBP the/DT convergence/NN of/IN TernGrad/NNP under/IN the/DT assumption/NN of/IN a/DT bound/VBN on/IN gradients/NNS ./.
+Guided/VBN by/IN the/DT bound/VBN ,/, we/PRP propose/VBP layer-wise/JJ ternarizing/NN and/CC gradient/NN clipping/VBG to/TO improve/VB its/PRP$ convergence/NN ./.
+Our/PRP$ experiments/NNS show/VBP that/IN applying/VBG TernGrad/NNP on/IN AlexNet/NNP does/VBZ not/RB incur/VB any/DT accuracy/NN loss/NN and/CC can/MD even/RB improve/VB accuracy/NN ./.
+The/DT accuracy/NN loss/NN of/IN GoogLeNet/NNP induced/VBN by/IN TernGrad/NNP is/VBZ less/JJR than/IN 2/CD percent/NN on/IN average/JJ ./.
+Finally/RB ,/, a/DT performance/NN model/NN is/VBZ proposed/VBN to/TO study/VB the/DT scalability/NN of/IN TernGrad/NNP ./.
+Experiments/NNS show/VBP significant/JJ speed/NN gains/NNS for/IN various/JJ deep/JJ neural/JJ networks/NNS ./.

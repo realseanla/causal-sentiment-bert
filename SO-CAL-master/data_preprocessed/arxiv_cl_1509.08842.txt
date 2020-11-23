@@ -1,0 +1,7 @@
+Dividing/VBG oral/JJ histories/NNS into/IN topically/RB coherent/JJ segments/NNS can/MD make/VB them/PRP more/RBR accessible/JJ online/NN ./.
+People/NNS regularly/RB make/VBP judgments/NNS about/IN where/WRB coherent/JJ segments/NNS can/MD be/VB extracted/VBN from/IN oral/JJ histories/NNS ./.
+But/CC making/VBG these/DT judgments/NNS can/MD be/VB taxing/VBG ,/, so/RB automated/JJ assistance/NN is/VBZ potentially/RB attractive/JJ to/TO speed/VB the/DT task/NN of/IN extracting/VBG segments/NNS from/IN open/JJ -/HYPH ended/JJ interviews/NNS ./.
+When/WRB different/JJ people/NNS are/VBP asked/VBN to/TO extract/VB coherent/JJ segments/NNS from/IN the/DT same/JJ oral/JJ histories/NNS ,/, they/PRP often/RB do/VBP not/RB agree/VB about/IN precisely/RB where/WRB such/JJ segments/NNS begin/VBP and/CC end/VBP ./.
+This/DT low/JJ agreement/NN makes/VBZ the/DT evaluation/NN of/IN algorithmic/JJ segmenters/NNS challenging/VBG ,/, but/CC there/EX is/VBZ reason/NN to/TO believe/VB that/IN for/IN segmenting/VBG oral/JJ history/NN transcripts/NNS ,/, some/DT approaches/NNS are/VBP more/RBR promising/JJ than/IN others/NNS ./.
+The/DT BayesSeg/NNP algorithm/NN performs/VBZ slightly/RB better/JJR than/IN TextTiling/NNP ,/, while/IN TextTiling/NNP does/VBZ not/RB perform/VB significantly/RB better/JJR than/IN a/DT uniform/JJ segmentation/NN ./.
+BayesSeg/NNP might/MD be/VB used/VBN to/TO suggest/VB boundaries/NNS to/IN someone/NN segmenting/VBG oral/JJ histories/NNS ,/, but/CC this/DT segmentation/NN task/NN needs/VBZ to/TO be/VB better/JJR defined/VBN ./.

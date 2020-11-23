@@ -1,0 +1,6 @@
+Robot/NNP vision/NN is/VBZ a/DT fundamental/JJ device/NN for/IN human/JJ -/HYPH robot/NN interaction/NN and/CC robot/NN complex/JJ tasks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP use/VBP Kinect/NNP and/CC propose/VB a/DT feature/NN graph/NN fusion/NN (/-LRB- FGF/NN )/-RRB- for/IN robot/NN recognition/NN ./.
+Our/PRP$ feature/NN fusion/NN utilizes/VBZ RGB/NNP and/CC depth/NN information/NN to/TO construct/VB fused/VBN feature/NN from/IN Kinect/NNP ./.
+FGF/NN involves/VBZ multi-Jaccard/JJ similarity/NN to/IN compute/VB a/DT robust/JJ graph/NN and/CC utilize/VB word/NN embedding/NN method/NN to/TO enhance/VB the/DT recognition/NN results/NNS ./.
+We/PRP also/RB collect/VBP DUT/NNP RGB/NNP -/HYPH D/NNP face/NN dataset/NN and/CC a/DT benchmark/NN datset/NN to/TO evaluate/VB the/DT effectiveness/NN and/CC efficiency/NN of/IN our/PRP$ method/NN ./.
+The/DT experimental/JJ results/NNS illustrate/VBP FGF/NN is/VBZ robust/JJ and/CC effective/JJ to/TO face/VB and/CC object/VB datasets/NNS in/IN robot/NN applications/NNS ./.

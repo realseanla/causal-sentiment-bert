@@ -1,0 +1,10 @@
+The/DT paper/NN focuses/VBZ on/IN mining/NN patterns/NNS that/WDT are/VBP characterized/VBN by/IN a/DT fuzzy/JJ lagged/VBN relationship/NN between/IN the/DT data/NNS objects/NNS forming/VBG them/PRP ./.
+Such/PDT a/DT regulatory/JJ mechanism/NN is/VBZ quite/RB common/JJ in/IN real/JJ life/NN settings/NNS ./.
+It/PRP appears/VBZ in/IN a/DT variety/NN of/IN fields/NNS :/: finance/NN ,/, gene/NN expression/NN ,/, neuroscience/NN ,/, crowds/NNS and/CC collective/JJ movements/NNS are/VBP but/CC a/DT limited/JJ list/NN of/IN examples/NNS ./.
+Mining/NN such/JJ patterns/NNS not/RB only/RB helps/VBZ in/IN understanding/VBG the/DT relationship/NN between/IN objects/NNS in/IN the/DT domain/NN ,/, but/CC assists/VBZ in/IN forecasting/VBG their/PRP$ future/JJ behavior/NN ./.
+For/IN most/JJS interesting/JJ variants/NNS of/IN this/DT problem/NN ,/, finding/VBG an/DT optimal/JJ fuzzy/JJ lagged/VBN co-cluster/NN is/VBZ an/DT NP/NNP -/HYPH complete/JJ problem/NN ./.
+We/PRP thus/RB present/VBP a/DT polynomial/JJ -/HYPH time/NN Monte/NNP -/HYPH Carlo/NNP approximation/NN algorithm/NN for/IN mining/NN fuzzy/JJ lagged/VBD co-clusters/NNS ./.
+We/PRP prove/VBP that/IN for/IN any/DT data/NNS matrix/NN ,/, the/DT algorithm/NN mines/NNS a/DT fuzzy/JJ lagged/VBN co-cluster/NN with/IN fixed/VBN probability/NN ,/, which/WDT encompasses/VBZ the/DT optimal/JJ fuzzy/JJ lagged/VBN co-cluster/NN by/IN a/DT maximum/NN 2/CD ratio/NN columns/NNS overhead/RB and/CC completely/RB no/DT rows/NNS overhead/RB ./.
+Moreover/RB ,/, the/DT algorithm/NN handles/VBZ noise/NN ,/, anti-correlations/NNS ,/, missing/VBG values/NNS and/CC overlapping/VBG patterns/NNS ./.
+The/DT algorithm/NN was/VBD extensively/RB evaluated/VBN using/VBG both/DT artificial/JJ and/CC real/JJ datasets/NNS ./.
+The/DT results/NNS not/RB only/RB corroborate/VB the/DT ability/NN of/IN the/DT algorithm/NN to/TO efficiently/RB mine/VB relevant/JJ and/CC accurate/JJ fuzzy/JJ lagged/VBN co-clusters/NNS ,/, but/CC also/RB illustrate/VBP the/DT importance/NN of/IN including/VBG the/DT fuzziness/NN in/IN the/DT lagged/VBN -/HYPH pattern/NN model/NN ./.

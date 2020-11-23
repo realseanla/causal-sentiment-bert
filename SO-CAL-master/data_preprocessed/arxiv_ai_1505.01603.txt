@@ -1,0 +1,9 @@
+Most/JJS practitioners/NNS use/VBP a/DT variant/NN of/IN the/DT Alpha/NN -/HYPH Beta/NN algorithm/NN ,/, a/DT simple/JJ depth/NN -/HYPH first/JJ pro-/VB cedure/NN ,/, for/IN searching/VBG minimax/NN trees/NNS ./.
+SSS/NNP */NFP ,/, with/IN its/PRP$ best/RBS -/HYPH first/JJ search/NN strategy/NN ,/, reportedly/RB offers/VBZ the/DT potential/NN for/IN more/RBR efficient/JJ search/NN ./.
+However/RB ,/, the/DT complex/JJ formulation/NN of/IN the/DT al/NNP -/HYPH gorithm/NNP and/CC its/PRP$ alleged/JJ excessive/JJ memory/NN requirements/NNS preclude/VBP its/PRP$ use/NN in/IN practice/NN ./.
+For/IN two/CD decades/NNS ,/, the/DT search/NN efficiency/NN of/IN "/`` smart/JJ "/'' best/RBS -/HYPH first/JJ SSS/NN */NFP has/VBZ cast/VBN doubt/NN on/IN the/DT effectiveness/NN of/IN "/`` dumb/JJ "/'' depth/NN -/HYPH first/JJ Alpha/NN -/HYPH Beta/NN ./.
+This/DT paper/NN presents/VBZ a/DT simple/JJ framework/NN for/IN calling/VBG Alpha/NNP -/HYPH Beta/NNP that/WDT allows/VBZ us/PRP to/TO create/VB a/DT variety/NN of/IN algorithms/NNS ,/, including/VBG SSS/NNP */NFP and/CC DUAL/JJ */NFP ./.
+In/IN effect/NN ,/, we/PRP formulate/VBP a/DT best/RBS -/HYPH first/JJ algorithm/NN using/VBG depth/NN -/HYPH first/JJ search/NN ./.
+Expressed/VBN in/IN this/DT framework/NN SSS/NN */NFP is/VBZ just/RB a/DT special/JJ case/NN of/IN Alpha/NN -/HYPH Beta/NN ,/, solving/VBG all/DT of/IN the/DT perceived/VBN drawbacks/NNS of/IN the/DT algorithm/NN ./.
+In/IN practice/NN ,/, Alpha/NN -/HYPH Beta/NN variants/NNS typically/RB evaluate/VBP less/RBR nodes/NNS than/IN SSS/NNP */NFP ./.
+A/DT new/JJ instance/NN of/IN this/DT framework/NN ,/, MTD/NN (/-LRB- f/NN )/-RRB- ,/, out/IN -/HYPH performs/VBZ SSS/NNP */NFP and/CC NegaScout/NNP ,/, the/DT Alpha/NN -/HYPH Beta/NN variant/NN of/IN choice/NN by/IN practitioners/NNS ./.

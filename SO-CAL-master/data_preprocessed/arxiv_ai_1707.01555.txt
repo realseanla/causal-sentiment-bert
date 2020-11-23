@@ -1,0 +1,4 @@
+While/IN natural/JJ languages/NNS are/VBP compositional/JJ ,/, how/WRB state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN neural/JJ models/NNS achieve/VBP compositionality/NN is/VBZ still/RB unclear/JJ ./.
+We/PRP propose/VBP a/DT deep/JJ network/NN ,/, which/WDT not/RB only/RB achieves/VBZ competitive/JJ accuracy/NN for/IN text/NN classification/NN ,/, but/CC also/RB exhibits/VBZ compositional/JJ behavior/NN ./.
+That/DT is/VBZ ,/, while/IN creating/VBG hierarchical/JJ representations/NNS of/IN a/DT piece/NN of/IN text/NN ,/, such/JJ as/IN a/DT sentence/NN ,/, the/DT lower/JJR layers/NNS of/IN the/DT network/NN distribute/VB their/PRP$ layer/NN -/HYPH specific/JJ attention/NN weights/NNS to/IN individual/JJ words/NNS ./.
+In/IN contrast/NN ,/, the/DT higher/JJR layers/NNS compose/VB meaningful/JJ phrases/NNS and/CC clauses/NNS ,/, whose/WP$ lengths/NNS increase/VBP as/IN the/DT networks/NNS get/VBP deeper/JJR until/IN fully/RB composing/VBG the/DT sentence/NN ./.

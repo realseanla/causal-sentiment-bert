@@ -1,0 +1,6 @@
+We/PRP present/VBP the/DT Bayesian/JJ Case/NN Model/NN (/-LRB- BCM/NN )/-RRB- ,/, a/DT general/JJ framework/NN for/IN Bayesian/JJ case/NN -/HYPH based/VBN reasoning/NN (/-LRB- CBR/NNP )/-RRB- and/CC prototype/NN classification/NN and/CC clustering/NN ./.
+BCM/NN brings/VBZ the/DT intuitive/JJ power/NN of/IN CBR/NNP to/IN a/DT Bayesian/JJ generative/JJ framework/NN ./.
+The/DT BCM/NN learns/VBZ prototypes/NNS ,/, the/DT "/`` quintessential/JJ "/'' observations/NNS that/WDT best/JJS represent/VBP clusters/NNS in/IN a/DT dataset/NN ,/, by/IN performing/VBG joint/JJ inference/NN on/IN cluster/NN labels/NNS ,/, prototypes/NNS and/CC important/JJ features/NNS ./.
+Simultaneously/RB ,/, BCM/NN pursues/VBZ sparsity/NN by/IN learning/VBG subspaces/NNS ,/, the/DT sets/NNS of/IN features/NNS that/WDT play/VBP important/JJ roles/NNS in/IN the/DT characterization/NN of/IN the/DT prototypes/NNS ./.
+The/DT prototype/NN and/CC subspace/NN representation/NN provides/VBZ quantitative/JJ benefits/NNS in/IN interpretability/NN while/IN preserving/VBG classification/NN accuracy/NN ./.
+Human/JJ subject/NN experiments/NNS verify/VBP statistically/RB significant/JJ improvements/NNS to/IN participants/NNS '/POS understanding/NN when/WRB using/VBG explanations/NNS produced/VBN by/IN BCM/NN ,/, compared/VBN to/IN those/DT given/VBN by/IN prior/JJ art/NN ./.

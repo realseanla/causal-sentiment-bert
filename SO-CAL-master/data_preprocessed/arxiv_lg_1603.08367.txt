@@ -1,0 +1,8 @@
+Sparseness/NN is/VBZ a/DT useful/JJ regularizer/NN for/IN learning/VBG in/IN a/DT wide/JJ range/NN of/IN applications/NNS ,/, in/IN particular/JJ in/IN neural/JJ networks/NNS ./.
+This/DT paper/NN proposes/VBZ a/DT model/NN targeted/VBN at/IN classification/NN tasks/NNS ,/, where/WRB sparse/JJ activity/NN and/CC sparse/JJ connectivity/NN are/VBP used/VBN to/TO enhance/VB classification/NN capabilities/NNS ./.
+The/DT tool/NN for/IN achieving/VBG this/DT is/VBZ a/DT sparseness/NN -/HYPH enforcing/VBG projection/NN operator/NN which/WDT finds/VBZ the/DT closest/JJS vector/NN with/IN a/DT pre-defined/JJ sparseness/NN for/IN any/DT given/VBN vector/NN ./.
+In/IN the/DT theoretical/JJ part/NN of/IN this/DT paper/NN ,/, a/DT comprehensive/JJ theory/NN for/IN such/PDT a/DT projection/NN is/VBZ developed/VBN ./.
+In/IN conclusion/NN ,/, it/PRP is/VBZ shown/VBN that/IN the/DT projection/NN is/VBZ differentiable/JJ almost/RB everywhere/RB and/CC can/MD thus/RB be/VB implemented/VBN as/IN a/DT smooth/JJ neuronal/JJ transfer/NN function/NN ./.
+The/DT entire/JJ model/NN can/MD hence/RB be/VB tuned/VBN end/NN -/HYPH to/IN -/HYPH end/NN using/VBG gradient/NN -/HYPH based/VBN methods/NNS ./.
+Experiments/NNS on/IN the/DT MNIST/NNP database/NN of/IN handwritten/JJ digits/NNS show/VBP that/IN classification/NN performance/NN can/MD be/VB boosted/VBN by/IN sparse/JJ activity/NN or/CC sparse/JJ connectivity/NN ./.
+With/IN a/DT combination/NN of/IN both/CC ,/, performance/NN can/MD be/VB significantly/RB better/JJR compared/VBN to/IN classical/JJ non-sparse/JJ approaches/NNS ./.

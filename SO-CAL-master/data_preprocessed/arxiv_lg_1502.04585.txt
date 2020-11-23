@@ -1,0 +1,5 @@
+The/DT organizer/NN of/IN a/DT machine/NN learning/NN competition/NN faces/VBZ the/DT problem/NN of/IN maintaining/VBG an/DT accurate/JJ leaderboard/NN that/WDT faithfully/RB represents/VBZ the/DT quality/NN of/IN the/DT best/JJS submission/NN of/IN each/DT competing/VBG team/NN ./.
+What/WP makes/VBZ this/DT estimation/NN problem/NN particularly/RB challenging/VBG is/VBZ its/PRP$ sequential/JJ and/CC adaptive/JJ nature/NN ./.
+As/IN participants/NNS are/VBP allowed/VBN to/TO repeatedly/RB evaluate/VB their/PRP$ submissions/NNS on/IN the/DT leaderboard/NN ,/, they/PRP may/MD begin/VB to/TO overfit/VB to/IN the/DT holdout/NN data/NNS that/WDT supports/VBZ the/DT leaderboard/NN ./.
+Few/JJ theoretical/JJ results/NNS give/VBP actionable/JJ advice/NN on/IN how/WRB to/TO design/VB a/DT reliable/JJ leaderboard/NN ./.
+Existing/VBG approaches/NNS therefore/RB often/RB resort/VB to/IN poorly/RB understood/VBN heuristics/NNS such/JJ as/IN limiting/VBG the/DT bit/NN precision/NN of/IN answers/NNS and/CC the/DT rate/NN of/IN re-submission/NN ./.

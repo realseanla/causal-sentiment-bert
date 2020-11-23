@@ -1,0 +1,5 @@
+In this paper we study the uses and the semantics of non-monotonic negation in probabilistic deductive data bases.
+Based on the stable semantics for classical logic programming, we introduce the notion of stable formula, functions.
+We show that stable formula, functions are minimal fixpoints of operators associated with probabilistic deductive databases with negation.
+Furthermore, since a. probabilistic deductive database may not necessarily have a stable formula function, we provide a stable class semantics for such databases.
+Finally, we demonstrate that the proposed semantics can handle default reasoning naturally in the context of probabilistic deduction.

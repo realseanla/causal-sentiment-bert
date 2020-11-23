@@ -1,0 +1,5 @@
+The scale of modern datasets necessitates the development of efficient distributed optimization methods for machine learning.
+We present a general-purpose framework for the distributed environment, CoCoA, that has an efficient communication scheme and is applicable to a wide variety of problems in machine learning and signal processing.
+We extend the framework to cover general non-strongly convex regularizers, including L1-regularized problems like lasso, sparse logistic regression, and elastic net regularization, and show how earlier work can be derived as a special case.
+We provide convergence guarantees for the class of convex regularized loss minimization objectives, leveraging a novel approach in handling non-strongly convex regularizers and non-smooth loss functions.
+The resulting framework has markedly improved performance over state-of-the-art methods, as we illustrate with an extensive set of experiments on real distributed datasets.

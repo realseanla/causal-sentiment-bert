@@ -1,0 +1,4 @@
+We/PRP evaluate/VBP a/DT semantic/JJ parser/NN based/VBN on/IN a/DT character/NN -/HYPH based/VBN sequence/NN -/HYPH to/IN -/HYPH sequence/NN model/NN in/IN the/DT context/NN of/IN the/DT SemEval/NNP -/HYPH 2017/CD shared/VBD task/NN on/IN semantic/JJ parsing/VBG for/IN AMRs/NNS ./.
+With/IN data/NNS augmentation/NN ,/, super/JJ characters/NNS ,/, and/CC POS/NN -/HYPH tagging/NN we/PRP gain/VBP major/JJ improvements/NNS in/IN performance/NN compared/VBN to/IN a/DT baseline/NN model/NN ./.
+The/DT overall/JJ accuracy/NN however/RB is/VBZ still/RB lower/JJR than/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN AMR/NNP parser/NN ./.
+An/DT ensemble/NN combining/VBG our/PRP$ neural/JJ semantic/JJ parser/NN with/IN an/DT existing/VBG ,/, traditional/JJ parser/NN ,/, yields/VBZ a/DT small/JJ gain/NN in/IN performance/NN ./.

@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP present/VBP a/DT domain/NN adaptation/NN technique/NN for/IN formant/JJ estimation/NN using/VBG a/DT deep/JJ network/NN ./.
+We/PRP first/RB train/VB a/DT deep/JJ learning/NN network/NN on/IN a/DT small/JJ read/NN speech/NN dataset/NN ./.
+We/PRP then/RB freeze/VB the/DT parameters/NNS of/IN the/DT trained/VBN network/NN and/CC use/VB several/JJ different/JJ datasets/NNS to/TO train/VB an/DT adaptation/NN layer/NN that/WDT makes/VBZ the/DT obtained/VBN network/NN universal/JJ in/IN the/DT sense/NN that/IN it/PRP works/VBZ well/RB for/IN a/DT variety/NN of/IN speakers/NNS and/CC speech/NN domains/NNS with/IN very/RB different/JJ characteristics/NNS ./.
+We/PRP evaluated/VBD our/PRP$ adapted/VBN network/NN on/IN three/CD datasets/NNS ,/, each/DT of/IN which/WDT has/VBZ different/JJ speaker/NN characteristics/NNS and/CC speech/NN styles/NNS ./.
+The/DT performance/NN of/IN our/PRP$ method/NN compares/VBZ favorably/RB with/IN alternative/JJ methods/NNS for/IN formant/JJ estimation/NN ./.

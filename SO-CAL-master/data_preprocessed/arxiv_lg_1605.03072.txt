@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP present/VBP a/DT new/JJ way/NN of/IN semi-supervised/VBN representation/NN learning/NN ./.
+The/DT algorithm/NN is/VBZ based/VBN on/IN assigning/VBG class/NN probabilities/NNS to/IN unlabeled/JJ data/NNS ./.
+The/DT approach/NN will/MD use/VB Hilber/NNP -/HYPH Schmidt/NNP Independence/NNP Criterion/NNP (/-LRB- HSIC/NNP )/-RRB- to/TO find/VB a/DT mapping/NN which/WDT takes/VBZ the/DT data/NNS to/IN a/DT lower/JJR dimensional/JJ space/NN ./.
+We/PRP call/VBP this/DT algorithm/NN SSRL/NN -/HYPH PL/NN ./.
+Use/NNP of/IN unlabeled/JJ data/NNS for/IN learning/NN is/VBZ not/RB always/RB beneficial/JJ and/CC there/EX is/VBZ no/DT algorithm/NN which/WDT deterministically/RB guarantee/VBP the/DT improvement/NN of/IN the/DT performance/NN by/IN using/VBG unlabeled/JJ data/NNS ./.
+Therefore/RB ,/, we/PRP also/RB propose/VBP a/DT bound/VBN on/IN the/DT performance/NN of/IN the/DT algorithm/NN which/WDT can/MD be/VB used/VBN to/TO determine/VB the/DT effectiveness/NN of/IN using/VBG the/DT structure/NN of/IN unlabeled/JJ data/NNS in/IN the/DT algorithm/NN ./.

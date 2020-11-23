@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT problem/NN of/IN identifying/VBG botnets/NNS and/CC the/DT IP/NN addresses/NNS which/WDT they/PRP comprise/VBP ,/, based/VBN on/IN the/DT observation/NN of/IN a/DT fraction/NN of/IN the/DT global/JJ email/NN spam/NN traffic/NN ./.
+Observed/VBN mailing/NN campaigns/NNS constitute/VBP evidence/NN for/IN joint/JJ botnet/NN membership/NN ,/, they/PRP are/VBP represented/VBN by/IN cliques/NNS in/IN the/DT graph/NN of/IN all/DT messages/NNS ./.
+No/DT evidence/NN against/IN an/DT association/NN of/IN nodes/NNS is/VBZ ever/RB available/JJ ./.
+We/PRP reduce/VBP the/DT problem/NN of/IN identifying/VBG botnets/NNS to/IN a/DT problem/NN of/IN finding/VBG a/DT minimal/JJ clustering/NN of/IN the/DT graph/NN of/IN messages/NNS ./.
+We/PRP directly/RB model/VBP the/DT distribution/NN of/IN clusterings/NNS given/VBN the/DT input/NN graph/NN ;/: this/DT avoids/VBZ potential/JJ errors/NNS caused/VBN by/IN distributional/JJ assumptions/NNS of/IN a/DT generative/JJ model/NN ./.
+We/PRP report/VBP on/IN a/DT case/NN study/NN in/IN which/WDT we/PRP evaluate/VBP the/DT model/NN by/IN its/PRP$ ability/NN to/TO predict/VB the/DT spam/NN campaign/NN that/WDT a/DT given/VBN IP/NN address/NN is/VBZ going/VBG to/TO participate/VB in/IN ./.

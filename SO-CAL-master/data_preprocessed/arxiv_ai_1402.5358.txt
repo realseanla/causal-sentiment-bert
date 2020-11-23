@@ -1,0 +1,6 @@
+The/DT task/NN of/IN artificial/JJ intelligence/NN is/VBZ to/TO provide/VB representation/NN techniques/NNS for/IN describing/VBG problems/NNS ,/, as/RB well/RB as/IN search/NN algorithms/NNS that/WDT can/MD be/VB used/VBN to/TO answer/VB our/PRP$ questions/NNS ./.
+A/DT widespread/JJ and/CC elaborated/VBD model/NN is/VBZ state/NN -/HYPH space/NN representation/NN ,/, which/WDT ,/, however/RB ,/, has/VBZ some/DT shortcomings/NNS ./.
+Classical/JJ search/NN algorithms/NNS are/VBP not/RB applicable/JJ in/IN practice/NN when/WRB the/DT state/NN space/NN contains/VBZ even/RB only/RB a/DT few/JJ tens/NNS of/IN thousands/NNS of/IN states/NNS ./.
+We/PRP can/MD give/VB remedy/NN to/IN this/DT problem/NN by/IN defining/VBG some/DT kind/NN of/IN heuristic/NN knowledge/NN ./.
+In/IN case/NN of/IN classical/JJ state/NN -/HYPH space/NN representation/NN ,/, heuristic/NN must/MD be/VB defined/VBN so/IN that/IN it/PRP qualifies/VBZ an/DT arbitrary/JJ state/NN based/VBN on/IN its/PRP$ "/`` goodness/NN ,/, "/'' which/WDT is/VBZ obviously/RB not/RB trivial/JJ ./.
+In/IN our/PRP$ paper/NN ,/, we/PRP introduce/VBP an/DT algorithm/NN that/WDT gives/VBZ us/PRP the/DT ability/NN to/TO handle/VB huge/JJ state/NN spaces/NNS and/CC to/TO use/VB a/DT heuristic/NN concept/NN which/WDT is/VBZ easier/JJR to/TO embed/VB into/IN search/NN algorithms/NNS ./.

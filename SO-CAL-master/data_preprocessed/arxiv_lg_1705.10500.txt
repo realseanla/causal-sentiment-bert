@@ -1,0 +1,5 @@
+This/DT paper/NN proposes/VBZ a/DT CS/NN scheme/NN that/WDT exploits/VBZ the/DT representational/JJ power/NN of/IN restricted/VBN Boltzmann/NNP machines/NNS and/CC deep/JJ learning/NN architectures/NNS to/TO model/VB the/DT prior/JJ distribution/NN of/IN the/DT sparsity/NN pattern/NN of/IN signals/NNS belonging/VBG to/IN the/DT same/JJ class/NN ./.
+The/DT determined/JJ probability/NN distribution/NN is/VBZ then/RB used/VBN in/IN a/DT maximum/NN a/DT posteriori/NN (/-LRB- MAP/NN )/-RRB- approach/NN for/IN the/DT reconstruction/NN ./.
+The/DT parameters/NNS of/IN the/DT prior/JJ distribution/NN are/VBP learned/VBN from/IN training/NN data/NNS ./.
+The/DT motivation/NN behind/IN this/DT approach/NN is/VBZ to/TO model/VB the/DT higher/JJR -/HYPH order/NN statistical/JJ dependencies/NNS between/IN the/DT coefficients/NNS of/IN the/DT sparse/JJ representation/NN ,/, with/IN the/DT final/JJ goal/NN of/IN improving/VBG the/DT reconstruction/NN ./.
+The/DT performance/NN of/IN the/DT proposed/JJ method/NN is/VBZ validated/VBN on/IN the/DT Berkeley/NNP Segmentation/NNP Dataset/NN and/CC the/DT MNIST/NNP Database/NN of/IN handwritten/JJ digits/NNS ./.

@@ -1,0 +1,4 @@
+We present a large-scale study, exploring the capability of temporal deep neural networks in interpreting natural human kinematics and introduce the first method for active biometric authentication with mobile inertial sensors.
+At Google, we have created a first-of-its-kind dataset of human movements, passively collected by 1500 volunteers using their smartphones daily over several months.
+We (1) compare several neural architectures for efficient learning of temporal multi-modal data representations, (2) propose an optimized shift-invariant dense convolutional mechanism (DCWRNN) and (3) incorporate the discriminatively-trained dynamic features in a probabilistic generative framework taking into account temporal characteristics.
+Our results demonstrate, that human kinematics convey important information about user identity and can serve as a valuable component of multi-modal authentication systems.

@@ -1,0 +1,4 @@
+Hypernymy/NNP ,/, textual/JJ entailment/NN ,/, and/CC image/NN captioning/NN can/MD be/VB seen/VBN as/IN special/JJ cases/NNS of/IN a/DT single/JJ visual/JJ -/HYPH semantic/JJ hierarchy/NN over/IN words/NNS ,/, sentences/NNS ,/, and/CC images/NNS ./.
+In/IN this/DT paper/NN we/PRP advocate/VBP for/IN explicitly/RB modeling/VBG the/DT partial/JJ order/NN structure/NN of/IN this/DT hierarchy/NN ./.
+Towards/IN this/DT goal/NN ,/, we/PRP introduce/VBP a/DT general/JJ method/NN for/IN learning/VBG ordered/VBN representations/NNS ,/, and/CC show/VB how/WRB it/PRP can/MD be/VB applied/VBN to/IN a/DT variety/NN of/IN tasks/NNS involving/VBG images/NNS and/CC language/NN ./.
+We/PRP show/VBP that/IN the/DT resulting/VBG representations/NNS improve/VB performance/NN over/IN current/JJ approaches/NNS for/IN hypernym/NN prediction/NN and/CC image/NN -/HYPH caption/NN retrieval/NN ./.

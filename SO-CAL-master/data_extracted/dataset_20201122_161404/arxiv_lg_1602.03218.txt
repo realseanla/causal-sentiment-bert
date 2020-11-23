@@ -1,0 +1,3 @@
+In this paper, we propose and investigate a novel memory architecture for neural networks called Hierarchical Attentive Memory (HAM).
+It is based on a binary tree with leaves corresponding to memory cells.
+This allows HAM to perform memory access in O(log n) complexity, which is a significant improvement over the standard attention mechanism that requires O(n) operations, where n is the size of the memory.

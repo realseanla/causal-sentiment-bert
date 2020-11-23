@@ -1,0 +1,5 @@
+Selectional/JJ preferences/NNS have/VBP long/RB been/VBN claimed/VBN to/TO be/VB essential/JJ for/IN coreference/NN resolution/NN ./.
+However/RB ,/, they/PRP are/VBP mainly/RB modeled/VBN only/RB implicitly/RB by/IN current/JJ coreference/NN resolvers/NNS ./.
+We/PRP propose/VBP a/DT dependency/NN -/HYPH based/VBN embedding/NN model/NN of/IN selectional/JJ preferences/NNS which/WDT allows/VBZ fine/JJ -/HYPH grained/JJ compatibility/NN judgments/NNS with/IN high/JJ coverage/NN ./.
+We/PRP show/VBP that/IN the/DT incorporation/NN of/IN our/PRP$ model/NN improves/VBZ coreference/NN resolution/NN performance/NN on/IN the/DT CoNLL/NN dataset/NN ,/, matching/VBG the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS of/IN a/DT more/RBR complex/JJ system/NN ./.
+However/RB ,/, it/PRP comes/VBZ with/IN a/DT cost/NN that/WDT makes/VBZ it/PRP debatable/JJ how/WRB worthwhile/JJ such/JJ improvements/NNS are/VBP ./.

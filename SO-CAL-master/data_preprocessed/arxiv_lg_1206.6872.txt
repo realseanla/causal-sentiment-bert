@@ -1,0 +1,15 @@
+We/PRP present/VBP a/DT machine/NN learning/NN approach/NN for/IN estimating/VBG the/DT second/JJ derivative/NN of/IN a/DT drivable/JJ surface/NN ,/, its/PRP$ roughness/NN ./.
+Robot/NNP perception/NN generally/RB focuses/VBZ on/IN the/DT first/JJ derivative/NN ,/, obstacle/NN detection/NN ./.
+However/RB ,/, the/DT second/JJ derivative/NN is/VBZ also/RB important/JJ due/IN to/IN its/PRP$ direct/JJ relation/NN (/-LRB- with/IN speed/NN )/-RRB- to/IN the/DT shock/NN the/DT vehicle/NN experiences/NNS ./.
+Knowing/VBG the/DT second/JJ derivative/NN allows/VBZ a/DT vehicle/NN to/TO slow/VB down/RP in/IN advance/NN of/IN rough/JJ terrain/NN ./.
+Estimating/VBG the/DT second/JJ derivative/NN is/VBZ challenging/VBG due/IN to/IN uncertainty/NN ./.
+For/IN example/NN ,/, at/IN range/NN ,/, laser/NN readings/NNS may/MD be/VB so/RB sparse/JJ that/IN significant/JJ information/NN about/IN the/DT surface/NN is/VBZ missing/VBG ./.
+Also/RB ,/, a/DT high/JJ degree/NN of/IN precision/NN is/VBZ required/VBN in/IN projecting/VBG laser/NN readings/NNS ./.
+This/DT precision/NN may/MD be/VB unavailable/JJ due/IN to/IN latency/NN or/CC error/NN in/IN the/DT pose/NN estimation/NN ./.
+We/PRP model/VBP these/DT sources/NNS of/IN error/NN as/IN a/DT multivariate/JJ polynomial/JJ ./.
+Its/PRP$ coefficients/NNS are/VBP learned/VBN using/VBG the/DT shock/NN data/NNS as/IN ground/NN truth/NN --/: the/DT accelerometers/NNS are/VBP used/VBN to/TO train/VB the/DT lasers/NNS ./.
+The/DT resulting/VBG classifier/NN operates/VBZ on/IN individual/JJ laser/NN readings/NNS from/IN a/DT road/NN surface/NN described/VBN by/IN a/DT 3D/NN point/NN cloud/NN ./.
+The/DT classifier/NN identifies/VBZ sections/NNS of/IN road/NN where/WRB the/DT second/JJ derivative/NN is/VBZ likely/JJ to/TO be/VB large/JJ ./.
+Thus/RB ,/, the/DT vehicle/NN can/MD slow/VB down/RP in/IN advance/NN ,/, reducing/VBG the/DT shock/NN it/PRP experiences/NNS ./.
+The/DT algorithm/NN is/VBZ an/DT evolution/NN of/IN one/CD we/PRP used/VBD in/IN the/DT 2005/CD DARPA/NNP Grand/NNP Challenge/NNP ./.
+We/PRP analyze/VBP it/PRP using/VBG data/NNS from/IN that/DT route/NN ./.

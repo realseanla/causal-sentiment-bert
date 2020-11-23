@@ -1,0 +1,6 @@
+Cardinality/NN constraints/NNS or/CC ,/, more/RBR generally/RB ,/, weight/NN constraints/NNS are/VBP well/RB recognized/VBN as/IN an/DT important/JJ extension/NN of/IN answer/NN -/HYPH set/VBN programming/NN ./.
+Clearly/RB ,/, all/DT common/JJ algorithmic/JJ tasks/NNS related/VBN to/IN programs/NNS with/IN cardinality/NN or/CC weight/NN constraints/NNS -/, like/IN checking/VBG the/DT consistency/NN of/IN a/DT program/NN -/HYPH are/VBP intractable/JJ ./.
+Many/JJ intractable/JJ problems/NNS in/IN the/DT area/NN of/IN knowledge/NN representation/NN and/CC reasoning/NN have/VBP been/VBN shown/VBN to/TO become/VB linear/JJ time/NN tractable/JJ if/IN the/DT treewidth/NN of/IN the/DT programs/NNS or/CC formulas/NNS under/IN consideration/NN is/VBZ bounded/VBN by/IN some/DT constant/JJ ./.
+The/DT goal/NN of/IN this/DT paper/NN is/VBZ to/TO apply/VB the/DT notion/NN of/IN treewidth/NN to/IN programs/NNS with/IN cardinality/NN or/CC weight/NN constraints/NNS and/CC to/TO identify/VB tractable/JJ fragments/NNS ./.
+It/PRP will/MD turn/VB out/RP that/IN the/DT straightforward/JJ application/NN of/IN treewidth/NN to/IN such/JJ class/NN of/IN programs/NNS does/VBZ not/RB suffice/VB to/TO obtain/VB tractability/NN ./.
+However/RB ,/, by/IN imposing/VBG further/JJ restrictions/NNS ,/, tractability/NN can/MD be/VB achieved/VBN ./.

@@ -1,0 +1,6 @@
+Deep/JJ learning/NN models/NNS are/VBP often/RB successfully/RB trained/VBN using/VBG gradient/NN descent/NN ,/, despite/IN the/DT worst/JJS case/NN hardness/NN of/IN the/DT underlying/VBG non-convex/JJ optimization/NN problem/NN ./.
+The/DT key/JJ question/NN is/VBZ then/RB under/IN what/WP conditions/NNS can/MD one/PRP prove/VB that/IN optimization/NN will/MD succeed/VB ./.
+Here/RB we/PRP provide/VBP a/DT strong/JJ result/NN of/IN this/DT kind/NN ./.
+We/PRP consider/VBP a/DT neural/JJ net/NN with/IN one/CD hidden/VBN layer/NN and/CC a/DT convolutional/JJ structure/NN with/IN no/DT overlap/NN and/CC a/DT ReLU/NN activation/NN function/NN ./.
+For/IN this/DT architecture/NN we/PRP show/VBP that/IN learning/NN is/VBZ NP/NNP -/HYPH complete/JJ in/IN the/DT general/JJ case/NN ,/, but/CC that/IN when/WRB the/DT input/NN distribution/NN is/VBZ Gaussian/JJ ,/, gradient/NN descent/NN converges/VBZ to/IN the/DT global/JJ optimum/JJ in/IN polynomial/JJ time/NN ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ global/JJ optimality/NN guarantee/NN of/IN gradient/NN descent/NN on/IN a/DT convolutional/JJ neural/JJ network/NN with/IN ReLU/NN activations/NNS ./.

@@ -1,0 +1,8 @@
+Large-scale deep neural networks (DNN) have been successfully used in a number of tasks from image recognition to natural language processing.
+They are trained using large training sets on large models, making them computationally and memory intensive.
+As such, there is much interest in research development for faster training and test time.
+In this paper, we present a unique approach using lower precision weights for more efficient and faster training phase.
+We separate imagery into different frequency bands (e.g.
+with different information content) such that the neural net can better learn using less bits.
+We present this approach as a complement existing methods such as pruning network connections and encoding learning weights.
+We show results where this approach supports more stable learning with 2-4X reduction in precision with 17X reduction in DNN parameters.

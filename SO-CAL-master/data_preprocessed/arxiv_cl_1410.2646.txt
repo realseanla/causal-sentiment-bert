@@ -1,0 +1,10 @@
+Hybrid/NN approaches/VBZ for/IN automatic/JJ vowelization/NN of/IN Arabic/JJ texts/NNS are/VBP presented/VBN in/IN this/DT article/NN ./.
+The/DT process/NN is/VBZ made/VBN up/IN of/IN two/CD modules/NNS ./.
+In/IN the/DT first/JJ one/CD ,/, a/DT morphological/JJ analysis/NN of/IN the/DT text/NN words/NNS is/VBZ performed/VBN using/VBG the/DT open/JJ source/NN morphological/JJ Analyzer/NNP AlKhalil/NNP Morpho/NNP Sys/NNP ./.
+Outputs/NNS for/IN each/DT word/NN analyzed/VBN out/IN of/IN context/NN ,/, are/VBP its/PRP$ different/JJ possible/JJ vowelizations/NNS ./.
+The/DT integration/NN of/IN this/DT Analyzer/NNP in/IN our/PRP$ vowelization/NN system/NN required/VBD the/DT addition/NN of/IN a/DT lexical/JJ database/NN containing/VBG the/DT most/RBS frequent/JJ words/NNS in/IN Arabic/JJ language/NN ./.
+Using/VBG a/DT statistical/JJ approach/NN based/VBN on/IN two/CD hidden/JJ Markov/NNP models/NNS (/-LRB- HMM/NN )/-RRB- ,/, the/DT second/JJ module/NN aims/VBZ to/TO eliminate/VB the/DT ambiguities/NNS ./.
+Indeed/RB ,/, for/IN the/DT first/JJ HMM/NNP ,/, the/DT unvowelized/JJ Arabic/JJ words/NNS are/VBP the/DT observed/VBN states/NNS and/CC the/DT vowelized/VBN words/NNS are/VBP the/DT hidden/JJ states/NNS ./.
+The/DT observed/VBN states/NNS of/IN the/DT second/JJ HMM/NN are/VBP identical/JJ to/IN those/DT of/IN the/DT first/JJ ,/, but/CC the/DT hidden/JJ states/NNS are/VBP the/DT lists/NNS of/IN possible/JJ diacritics/NNS of/IN the/DT word/NN without/IN its/PRP$ Arabic/JJ letters/NNS ./.
+Our/PRP$ system/NN uses/VBZ Viterbi/NNP algorithm/NN to/TO select/VB the/DT optimal/JJ path/NN among/IN the/DT solutions/NNS proposed/VBN by/IN Al/NNP Khalil/NNP Morpho/NNP Sys/NNP ./.
+Our/PRP$ approach/NN opens/VBZ an/DT important/JJ way/NN to/TO improve/VB the/DT performance/NN of/IN automatic/JJ vowelization/NN of/IN Arabic/JJ texts/NNS for/IN other/JJ uses/NNS in/IN automatic/JJ natural/JJ language/NN processing/NN ./.

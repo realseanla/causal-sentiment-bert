@@ -1,0 +1,11 @@
+Role/NN discovery/NN in/IN graphs/NNS is/VBZ an/DT emerging/VBG area/NN that/WDT allows/VBZ analysis/NN of/IN complex/JJ graphs/NNS in/IN an/DT intuitive/JJ way/NN ./.
+In/IN contrast/NN to/IN other/JJ graph/NN prob/NN -/HYPH lems/NNS such/JJ as/IN community/NN discovery/NN ,/, which/WDT finds/VBZ groups/NNS of/IN highly/RB connected/JJ nodes/NNS ,/, the/DT role/NN discovery/NN problem/NN finds/VBZ groups/NNS of/IN nodes/NNS that/WDT share/VBP similar/JJ graph/NN topological/JJ structure/NN ./.
+However/RB ,/, existing/VBG work/NN so/RB far/RB has/VBZ two/CD severe/JJ limitations/NNS that/WDT prevent/VBP its/PRP$ use/NN in/IN some/DT domains/NNS ./.
+Firstly/RB ,/, it/PRP is/VBZ completely/RB unsupervised/JJ which/WDT is/VBZ undesirable/JJ for/IN a/DT number/NN of/IN reasons/NNS ./.
+Secondly/RB ,/, most/JJS work/NN is/VBZ limited/VBN to/IN a/DT single/JJ relational/JJ graph/NN ./.
+We/PRP address/VBP both/PDT these/DT lim/NN -/HYPH itations/NNS in/IN an/DT intuitive/JJ and/CC easy/JJ to/TO implement/VB alternating/VBG least/JJS squares/NNS framework/NN ./.
+Our/PRP$ framework/NN allows/VBZ convex/NN constraints/NNS to/TO be/VB placed/VBN on/IN the/DT role/NN discovery/NN problem/NN which/WDT can/MD provide/VB useful/JJ supervision/NN ./.
+In/IN par/JJ -/HYPH ticular/JJ we/PRP explore/VBP supervision/NN to/TO enforce/VB i/LS )/-RRB- sparsity/NN ,/, ii/CD )/-RRB- diversity/NN and/CC iii/LS )/-RRB- alternativeness/NN ./.
+We/PRP then/RB show/VBP how/WRB to/TO lift/VB this/DT work/NN for/IN multi-relational/JJ graphs/NNS ./.
+A/DT natural/JJ representation/NN of/IN a/DT multi-relational/JJ graph/NN is/VBZ an/DT order/NN 3/CD tensor/NN (/-LRB- rather/RB than/IN a/DT matrix/NN )/-RRB- and/CC that/IN a/DT Tucker/NNP decomposition/NN allows/VBZ us/PRP to/TO find/VB complex/JJ interactions/NNS between/IN collections/NNS of/IN entities/NNS (/-LRB- E-groups/NNS )/-RRB- and/CC the/DT roles/NNS they/PRP play/VBP for/IN a/DT combination/NN of/IN relations/NNS (/-LRB- R/NN -/HYPH groups/NNS )/-RRB- ./.
+Existing/VBG Tucker/NNP decomposition/NN methods/NNS in/IN tensor/NN toolboxes/NNS are/VBP not/RB suited/VBN for/IN our/PRP$ purpose/NN ,/, so/RB we/PRP create/VBP our/PRP$ own/JJ algorithm/NN that/WDT we/PRP demonstrate/VBP is/VBZ pragmatically/RB useful/JJ ./.

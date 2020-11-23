@@ -1,0 +1,9 @@
+Present/NNP day/NN machine/NN learning/NN is/VBZ computationally/RB intensive/JJ and/CC processes/NNS large/JJ amounts/NNS of/IN data/NNS ./.
+It/PRP is/VBZ implemented/VBN in/IN a/DT distributed/VBN fashion/NN in/IN order/NN to/TO address/VB these/DT scalability/NN issues/NNS ./.
+The/DT work/NN is/VBZ parallelized/VBN across/IN a/DT number/NN of/IN computing/VBG nodes/NNS ./.
+It/PRP is/VBZ usually/RB hard/JJ to/TO estimate/VB in/IN advance/NN how/WRB many/JJ nodes/NNS to/TO use/VB for/IN a/DT particular/JJ workload/NN ./.
+We/PRP propose/VBP a/DT simple/JJ framework/NN for/IN estimating/VBG the/DT scalability/NN of/IN distributed/VBN machine/NN learning/NN algorithms/NNS ./.
+We/PRP measure/VBP the/DT scalability/NN by/IN means/NNS of/IN the/DT speedup/NN an/DT algorithm/NN achieves/VBZ with/IN more/JJR nodes/NNS ./.
+We/PRP propose/VBP time/NN complexity/NN models/NNS for/IN gradient/NN descent/NN and/CC graphical/JJ model/NN inference/NN ./.
+We/PRP validate/VBP our/PRP$ models/NNS with/IN experiments/NNS on/IN deep/JJ learning/NN training/NN and/CC belief/NN propagation/NN ./.
+This/DT framework/NN was/VBD used/VBN to/TO study/VB the/DT scalability/NN of/IN machine/NN learning/NN algorithms/NNS in/IN Apache/NNP Spark/NNP ./.

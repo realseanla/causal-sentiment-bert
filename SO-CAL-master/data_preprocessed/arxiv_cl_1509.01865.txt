@@ -1,0 +1,7 @@
+The/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN Entity/NN Linking/VBG (/-LRB- EL/NNP )/-RRB- systems/NNS are/VBP geared/VBN towards/IN corpora/NNS that/WDT are/VBP as/IN heterogeneous/JJ as/IN the/DT Web/NN ,/, and/CC therefore/RB perform/VB sub-optimally/RB on/IN domain/NN -/HYPH specific/JJ corpora/NNS ./.
+A/DT key/JJ open/JJ problem/NN is/VBZ how/WRB to/TO construct/VB effective/JJ EL/NNP systems/NNS for/IN specific/JJ domains/NNS ,/, as/IN knowledge/NN of/IN the/DT local/JJ context/NN should/MD in/IN principle/JJ increase/NN ,/, rather/RB than/IN decrease/NN ,/, effectiveness/NN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP the/DT hybrid/NN use/NN of/IN simple/JJ specialist/NN linkers/NNS in/IN combination/NN with/IN an/DT existing/VBG generalist/NN system/NN to/TO address/VB this/DT problem/NN ./.
+Our/PRP$ main/JJ findings/NNS are/VBP the/DT following/VBG ./.
+First/RB ,/, we/PRP construct/VBP a/DT new/JJ reusable/JJ benchmark/NN for/IN EL/NNP on/IN a/DT corpus/NN of/IN domain/NN -/HYPH specific/JJ conversations/NNS ./.
+Second/RB ,/, we/PRP test/VBP the/DT performance/NN of/IN a/DT range/NN of/IN approaches/NNS under/IN the/DT same/JJ conditions/NNS ,/, and/CC show/VBP that/IN specialist/NN linkers/NNS obtain/VBP high/JJ precision/NN in/IN isolation/NN ,/, and/CC high/JJ recall/NN when/WRB combined/VBN with/IN generalist/NN linkers/NNS ./.
+Hence/RB ,/, we/PRP can/MD effectively/RB exploit/VB local/JJ context/NN and/CC get/VB the/DT best/JJS of/IN both/DT worlds/NNS ./.

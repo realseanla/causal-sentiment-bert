@@ -1,0 +1,5 @@
+Spectral/JJ clustering/NN is/VBZ arguably/RB one/CD of/IN the/DT most/RBS important/JJ algorithms/NNS in/IN data/NNS mining/NN and/CC machine/NN intelligence/NN ;/: however/RB ,/, its/PRP$ computational/JJ complexity/NN makes/VBZ challenging/JJ to/TO use/VB in/IN large/JJ scale/NN data/NNS analysis/NN ./.
+Recently/RB ,/, several/JJ approximation/NN algorithms/NNS for/IN spectral/JJ clustering/NN have/VBP been/VBN developed/VBN in/IN order/NN to/TO alleviate/VB the/DT relevant/JJ costs/NNS ,/, but/CC theoretical/JJ results/NNS are/VBP lacking/VBG ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT approximation/NN algorithm/NN for/IN spectral/JJ clustering/NN with/IN strong/JJ theoretical/JJ evidence/NN of/IN its/PRP$ performance/NN ./.
+Our/PRP$ algorithm/NN is/VBZ based/VBN on/IN approximating/VBG the/DT eigenvectors/NNS of/IN the/DT Laplacian/NNP matrix/NN using/VBG random/JJ projections/NNS ,/, a.k.a/JJ randomized/VBD sketching/VBG ./.
+Our/PRP$ experimental/JJ results/NNS demonstrate/VBP that/IN the/DT proposed/VBN approximation/NN algorithm/NN compares/VBZ remarkably/RB well/RB to/IN the/DT exact/JJ algorithm/NN ./.

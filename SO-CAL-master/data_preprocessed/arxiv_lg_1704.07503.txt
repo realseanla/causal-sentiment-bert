@@ -1,0 +1,9 @@
+There/EX is/VBZ a/DT wide/JJ gap/NN between/IN symbolic/JJ reasoning/NN and/CC deep/JJ learning/NN ./.
+In/IN this/DT research/NN ,/, we/PRP explore/VBP the/DT possibility/NN of/IN using/VBG deep/JJ learning/NN to/TO improve/VB symbolic/JJ reasoning/NN ./.
+Briefly/RB ,/, in/IN a/DT reasoning/NN system/NN ,/, a/DT deep/JJ feedforward/NN neural/JJ network/NN is/VBZ used/VBN to/TO guide/VB rewriting/VBG processes/NNS after/IN learning/VBG from/IN algebraic/JJ reasoning/NN examples/NNS produced/VBN by/IN humans/NNS ./.
+To/TO enable/VB the/DT neural/JJ network/NN to/TO recognise/VB patterns/NNS of/IN algebraic/JJ expressions/NNS with/IN non-deterministic/JJ sizes/NNS ,/, reduced/VBN partial/JJ trees/NNS are/VBP used/VBN to/TO represent/VB the/DT expressions/NNS ./.
+Also/RB ,/, to/TO represent/VB both/DT top/JJ -/HYPH down/JJ and/CC bottom/JJ -/HYPH up/JJ information/NN of/IN the/DT expressions/NNS ,/, a/DT centralisation/NN technique/NN is/VBZ used/VBN to/TO improve/VB the/DT reduced/VBN partial/JJ trees/NNS ./.
+Besides/RB ,/, symbolic/JJ association/NN vectors/NNS and/CC rule/NN application/NN records/NNS are/VBP used/VBN to/TO improve/VB the/DT rewriting/VBG processes/NNS ./.
+Experimental/JJ results/NNS reveal/VBP that/IN the/DT algebraic/JJ reasoning/NN examples/NNS can/MD be/VB accurately/RB learnt/VBN only/RB if/IN the/DT feedforward/JJ neural/JJ network/NN has/VBZ enough/JJ hidden/JJ layers/NNS ./.
+Also/RB ,/, the/DT centralisation/NN technique/NN ,/, the/DT symbolic/JJ association/NN vectors/NNS and/CC the/DT rule/NN application/NN records/NNS can/MD reduce/VB error/NN rates/NNS of/IN reasoning/NN ./.
+In/IN particular/JJ ,/, the/DT above/JJ approaches/NNS have/VBP led/VBN to/IN 4.6/CD percent/NN error/NN rate/NN of/IN reasoning/NN on/IN a/DT dataset/NN of/IN linear/JJ equations/NNS ,/, differentials/NNS and/CC integrals/NNS ./.

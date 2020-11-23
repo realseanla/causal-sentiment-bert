@@ -1,0 +1,8 @@
+Machine/NN -/HYPH learning/NN techniques/NNS have/VBP been/VBN recently/RB used/VBN with/IN spectacular/JJ results/NNS to/TO generate/VB artefacts/NNS such/JJ as/IN music/NN or/CC text/NN ./.
+However/RB ,/, these/DT techniques/NNS are/VBP still/RB unable/JJ to/TO capture/VB and/CC generate/VB artefacts/NNS that/WDT are/VBP convincingly/RB structured/VBN ./.
+In/IN this/DT paper/NN we/PRP present/VBP an/DT approach/NN to/TO generate/VB structured/JJ musical/JJ sequences/NNS ./.
+We/PRP introduce/VBP a/DT mechanism/NN for/IN sampling/NN efficiently/RB variations/NNS of/IN musical/JJ sequences/NNS ./.
+Given/VBN a/DT input/NN sequence/NN and/CC a/DT statistical/JJ model/NN ,/, this/DT mechanism/NN samples/NNS a/DT set/NN of/IN sequences/NNS whose/WP$ distance/NN to/IN the/DT input/NN sequence/NN is/VBZ approximately/RB within/IN specified/VBN bounds/NNS ./.
+This/DT mechanism/NN is/VBZ implemented/VBN as/IN an/DT extension/NN of/IN belief/NN propagation/NN ,/, and/CC uses/VBZ local/JJ fields/NNS to/IN bias/NN the/DT generation/NN ./.
+We/PRP show/VBP experimentally/RB that/IN sampled/VBN sequences/NNS are/VBP indeed/RB closely/RB correlated/VBN to/IN the/DT standard/JJ musical/JJ similarity/NN measure/NN defined/VBN by/IN Mongeau/NNP and/CC Sankoff/NNP ./.
+We/PRP then/RB show/VBP how/WRB this/DT mechanism/NN can/MD used/VBN to/TO implement/VB composition/NN strategies/NNS that/WDT enforce/VBP arbitrary/JJ structure/NN on/IN a/DT musical/JJ lead/NN sheet/NN generation/NN problem/NN ./.

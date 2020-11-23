@@ -1,0 +1,6 @@
+Training/VBG the/DT parameters/NNS of/IN statistical/JJ models/NNS to/TO describe/VB a/DT given/VBN data/NNS set/NN is/VBZ a/DT central/JJ task/NN in/IN the/DT field/NN of/IN data/NNS mining/NN and/CC machine/NN learning/NN ./.
+A/DT very/RB popular/JJ and/CC powerful/JJ way/NN of/IN parameter/NN estimation/NN is/VBZ the/DT method/NN of/IN maximum/JJ likelihood/NN estimation/NN (/-LRB- MLE/NNP )/-RRB- ./.
+Among/IN the/DT most/RBS widely/RB used/VBN families/NNS of/IN statistical/JJ models/NNS are/VBP mixture/NN models/NNS ,/, especially/RB ,/, mixtures/NNS of/IN Gaussian/JJ distributions/NNS ./.
+A/DT popular/JJ hard/JJ -/HYPH clustering/NN variant/NN of/IN the/DT MLE/NNP problem/NN is/VBZ the/DT so/RB -/HYPH called/VBN complete/JJ -/HYPH data/NN maximum/NN likelihood/NN estimation/NN (/-LRB- CMLE/NN )/-RRB- method/NN ./.
+The/DT standard/JJ approach/NN to/TO solve/VB the/DT CMLE/NN problem/NN is/VBZ the/DT Classification/NN -/HYPH Expectation/NN -/HYPH Maximization/NN (/-LRB- CEM/NNP )/-RRB- algorithm/NN ./.
+Unfortunately/RB ,/, it/PRP is/VBZ only/RB guaranteed/VBN that/IN the/DT algorithm/NN converges/VBZ to/IN some/DT (/-LRB- possibly/RB arbitrarily/RB poor/JJ )/-RRB- stationary/JJ point/NN of/IN the/DT objective/JJ function/NN ./.

@@ -1,0 +1,4 @@
+In this paper, we utilize stochastic optimization to reduce the space complexity of convex composite optimization with a nuclear norm regularizer, where the variable is a matrix of size $m \times n$.
+By constructing a low-rank estimate of the gradient, we propose an iterative algorithm based on stochastic proximal gradient descent (SPGD), and take the last iterate of SPGD as the final solution.
+The main advantage of the proposed algorithm is that its space complexity is $O(m+n)$, in contrast, most of previous algorithms have a $O(mn)$ space complexity.
+Theoretical analysis shows that it achieves $O(\log T/\sqrt{T})$ and $O(\log T/T)$ convergence rates for general convex functions and strongly convex functions, respectively.

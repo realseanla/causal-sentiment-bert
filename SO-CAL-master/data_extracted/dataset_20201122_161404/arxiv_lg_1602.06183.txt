@@ -1,0 +1,4 @@
+Multilayer networks have seen a resurgence under the umbrella of deep learning.
+Current deep learning algorithms train the layers of the network sequentially, improving algorithmic performance as well as providing some regularization.
+We present a new training algorithm for deep networks which trains \emph{each node in the network} sequentially.
+Our algorithm is orders of magnitude faster, creates more interpretable internal representations at the node level, while not sacrificing on the ultimate out-of-sample performance.

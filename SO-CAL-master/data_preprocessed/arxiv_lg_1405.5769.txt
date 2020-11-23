@@ -1,0 +1,6 @@
+Latest/JJS results/NNS indicate/VBP that/IN features/NNS learned/VBN via/IN convolutional/JJ neural/JJ networks/NNS outperform/VBP previous/JJ descriptors/NNS on/IN classification/NN tasks/NNS by/IN a/DT large/JJ margin/NN ./.
+It/PRP has/VBZ been/VBN shown/VBN that/IN these/DT networks/NNS still/RB work/VBP well/RB when/WRB they/PRP are/VBP applied/VBN to/IN datasets/NNS or/CC recognition/NN tasks/NNS different/JJ from/IN those/DT they/PRP were/VBD trained/VBN on/IN ./.
+However/RB ,/, descriptors/NNS like/IN SIFT/NNP are/VBP not/RB only/RB used/VBN in/IN recognition/NN but/CC also/RB for/IN many/JJ correspondence/NN problems/NNS that/WDT rely/VBP on/IN descriptor/NN matching/NN ./.
+In/IN this/DT paper/NN we/PRP compare/VBP features/NNS from/IN various/JJ layers/NNS of/IN convolutional/JJ neural/JJ nets/NNS to/IN standard/JJ SIFT/NNP descriptors/NNS ./.
+We/PRP consider/VBP a/DT network/NN that/WDT was/VBD trained/VBN on/IN ImageNet/NNP and/CC another/DT one/NN that/WDT was/VBD trained/VBN without/IN supervision/NN ./.
+Surprisingly/RB ,/, convolutional/JJ neural/JJ networks/NNS clearly/RB outperform/VBP SIFT/NNP on/IN descriptor/NN matching/NN ./.

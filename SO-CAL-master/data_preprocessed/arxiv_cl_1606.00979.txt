@@ -1,0 +1,9 @@
+With/IN the/DT rapid/JJ growth/NN of/IN knowledge/NN bases/NNS (/-LRB- KBs/NNS )/-RRB- on/IN the/DT web/NN ,/, how/WRB to/TO take/VB full/JJ advantage/NN of/IN them/PRP becomes/VBZ increasingly/RB important/JJ ./.
+Knowledge/NN base/NN -/HYPH based/VBN question/NN answering/NN (/-LRB- KB/NN -/HYPH QA/NN )/-RRB- is/VBZ one/CD of/IN the/DT most/RBS promising/JJ approaches/NNS to/TO access/VB the/DT substantial/JJ knowledge/NN ./.
+Meantime/RB ,/, as/IN the/DT neural/JJ network/NN -/HYPH based/VBN (/-LRB- NN/NNP -/HYPH based/VBN )/-RRB- methods/NNS develop/VBP ,/, NN/NNP -/HYPH based/VBN KB/NNP -/HYPH QA/NNP has/VBZ already/RB achieved/VBN impressive/JJ results/NNS ./.
+However/RB ,/, previous/JJ work/NN did/VBD not/RB put/VB emphasis/NN on/IN question/NN representation/NN ,/, and/CC the/DT question/NN is/VBZ converted/VBN into/IN a/DT fixed/VBN vector/NN regardless/RB of/IN its/PRP$ candidate/NN answers/NNS ./.
+This/DT simple/JJ representation/NN strategy/NN is/VBZ unable/JJ to/TO express/VB the/DT proper/JJ information/NN of/IN the/DT question/NN ./.
+Hence/RB ,/, we/PRP present/VBP a/DT neural/JJ attention/NN -/HYPH based/VBN model/NN to/TO represent/VB the/DT questions/NNS dynamically/RB according/VBG to/IN the/DT different/JJ focuses/NNS of/IN various/JJ candidate/NN answer/NN aspects/NNS ./.
+In/IN addition/NN ,/, we/PRP leverage/VBP the/DT global/JJ knowledge/NN inside/IN the/DT underlying/VBG KB/NN ,/, aiming/VBG at/IN integrating/VBG the/DT rich/JJ KB/NN information/NN into/IN the/DT representation/NN of/IN the/DT answers/NNS ./.
+And/CC it/PRP also/RB alleviates/VBZ the/DT out/NN of/IN vocabulary/NN (/-LRB- OOV/NN )/-RRB- problem/NN ,/, which/WDT helps/VBZ the/DT attention/NN model/NN to/TO represent/VB the/DT question/NN more/RBR precisely/RB ./.
+The/DT experimental/JJ results/NNS on/IN WEBQUESTIONS/NNS demonstrate/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN approach/NN ./.

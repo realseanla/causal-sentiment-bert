@@ -1,0 +1,8 @@
+Machine/NN learning/NN enables/VBZ systems/NNS to/TO build/VB and/CC update/VB domain/NN models/NNS based/VBN on/IN runtime/NN observations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP statistical/JJ model/NN checking/VBG and/CC runtime/NN verification/NN for/IN systems/NNS with/IN this/DT ability/NN ./.
+Two/CD challenges/NNS arise/VBP :/: (/-LRB- 1/LS )/-RRB- Models/NNS built/VBN from/IN limited/JJ runtime/NN data/NNS yield/VBP uncertainty/NN to/TO be/VB dealt/VBN with/IN ./.
+(/-LRB- 2/LS )/-RRB- There/EX is/VBZ no/DT definition/NN of/IN satisfaction/NN w.r.t./RB uncertain/JJ hypotheses/NNS ./.
+We/PRP propose/VBP such/PDT a/DT definition/NN of/IN subjective/JJ satisfaction/NN based/VBN on/IN recently/RB introduced/VBN satisfaction/NN functions/NNS ./.
+We/PRP also/RB propose/VBP the/DT BV/NN algorithm/NN as/IN a/DT Bayesian/JJ solution/NN to/IN runtime/NN verification/NN of/IN subjective/JJ satisfaction/NN under/IN model/NN uncertainty/NN ./.
+BV/NN provides/VBZ user/NN -/HYPH definable/JJ stochastic/JJ bounds/NNS for/IN type/NN I/CD and/CC II/CD errors/NNS ./.
+We/PRP discuss/VBP empirical/JJ results/NNS from/IN an/DT example/NN application/NN to/TO illustrate/VB our/PRP$ ideas/NNS ./.

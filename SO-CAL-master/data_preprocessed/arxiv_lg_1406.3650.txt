@@ -1,0 +1,7 @@
+The/DT field/NN of/IN statistical/JJ machine/NN learning/NN has/VBZ seen/VBN a/DT rapid/JJ progress/NN in/IN complex/JJ hierarchical/JJ Bayesian/JJ models/NNS ./.
+In/IN Stochastic/JJ Variational/JJ Inference/NN (/-LRB- SVI/NN )/-RRB- ,/, the/DT inference/NN problem/NN is/VBZ mapped/VBN to/IN an/DT optimization/NN problem/NN involving/VBG stochastic/JJ gradients/NNS ./.
+While/IN this/DT scheme/NN was/VBD shown/VBN to/TO scale/VB up/RP to/IN massive/JJ data/NNS sets/NNS ,/, the/DT intrinsic/JJ noise/NN of/IN the/DT stochastic/JJ gradients/NNS impedes/VBZ a/DT fast/JJ convergence/NN ./.
+Inspired/VBN by/IN gradient/NN averaging/NN methods/NNS from/IN stochastic/JJ optimization/NN ,/, we/PRP propose/VBP a/DT variance/NN reduction/NN scheme/NN tailored/VBN to/IN SVI/NN by/IN averaging/VBG successively/RB over/IN the/DT sufficient/JJ statistics/NNS of/IN the/DT local/JJ variational/JJ parameters/NNS ./.
+Its/PRP$ simplicity/NN comes/VBZ at/IN the/DT cost/NN of/IN biased/JJ stochastic/JJ gradients/NNS ./.
+We/PRP show/VBP that/IN we/PRP can/MD eliminate/VB large/JJ parts/NNS of/IN the/DT bias/NN while/IN obtaining/VBG the/DT same/JJ variance/NN reduction/NN as/IN in/IN simple/JJ gradient/NN averaging/VBG schemes/NNS ./.
+We/PRP explore/VBP the/DT tradeoff/NN between/IN variance/NN and/CC bias/NN based/VBN on/IN the/DT example/NN of/IN Latent/JJ Dirichlet/NNP Allocation/NNP ./.

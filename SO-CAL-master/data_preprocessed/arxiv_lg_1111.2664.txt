@@ -1,0 +1,6 @@
+Machine/NN Learning/VBG competitions/NNS such/JJ as/IN the/DT Netflix/NNP Prize/NNP have/VBP proven/VBN reasonably/RB successful/JJ as/IN a/DT method/NN of/IN "/`` crowdsourcing/VBG "/'' prediction/NN tasks/NNS ./.
+But/CC these/DT competitions/NNS have/VBP a/DT number/NN of/IN weaknesses/NNS ,/, particularly/RB in/IN the/DT incentive/NN structure/NN they/PRP create/VBP for/IN the/DT participants/NNS ./.
+We/PRP propose/VBP a/DT new/JJ approach/NN ,/, called/VBD a/DT Crowdsourced/JJ Learning/NN Mechanism/NN ,/, in/IN which/WDT participants/NNS collaboratively/RB "/`` learn/VB "/'' a/DT hypothesis/NN for/IN a/DT given/VBN prediction/NN task/NN ./.
+The/DT approach/NN draws/VBZ heavily/RB from/IN the/DT concept/NN of/IN a/DT prediction/NN market/NN ,/, where/WRB traders/NNS bet/VBP on/IN the/DT likelihood/NN of/IN a/DT future/JJ event/NN ./.
+In/IN our/PRP$ framework/NN ,/, the/DT mechanism/NN continues/VBZ to/TO publish/VB the/DT current/JJ hypothesis/NN ,/, and/CC participants/NNS can/MD modify/VB this/DT hypothesis/NN by/IN wagering/NN on/IN an/DT update/NN ./.
+The/DT critical/JJ incentive/NN property/NN is/VBZ that/IN a/DT participant/NN will/MD profit/VB an/DT amount/NN that/WDT scales/VBZ according/VBG to/IN how/WRB much/RB her/PRP$ update/NN improves/VBZ performance/NN on/IN a/DT released/VBN test/NN set/NN ./.

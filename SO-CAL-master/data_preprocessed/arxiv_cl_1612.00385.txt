@@ -1,0 +1,8 @@
+Typical/JJ techniques/NNS for/IN sequence/NN classification/NN are/VBP designed/VBN for/IN well/RB -/HYPH segmented/JJ sequences/NNS which/WDT has/VBZ been/VBN edited/VBN to/TO remove/VB noisy/JJ or/CC irrelevant/JJ parts/NNS ./.
+Therefore/RB ,/, such/JJ methods/NNS can/MD not/RB be/VB easily/RB applied/VBN on/IN noisy/JJ sequences/NNS which/WDT are/VBP expected/VBN in/IN real/JJ -/HYPH world/NN applications/NNS ./.
+We/PRP present/VBP the/DT Temporal/JJ Attention-Gated/JJ Model/NN (/-LRB- TAGM/NN )/-RRB- which/WDT is/VBZ able/JJ to/TO deal/VB with/IN noisy/JJ sequences/NNS ./.
+Our/PRP$ model/NN assimilates/VBZ ideas/NNS from/IN attention/NN models/NNS and/CC gated/VBN recurrent/JJ networks/NNS ./.
+Specifically/RB ,/, we/PRP employ/VBP an/DT attention/NN model/NN to/TO measure/VB the/DT relevance/NN of/IN each/DT time/NN step/NN of/IN a/DT sequence/NN to/IN the/DT final/JJ decision/NN ./.
+We/PRP then/RB use/VBP the/DT relevant/JJ segments/NNS based/VBN on/IN their/PRP$ attention/NN scores/NNS in/IN a/DT novel/JJ gated/VBN recurrent/JJ network/NN to/TO learn/VB the/DT hidden/JJ representation/NN for/IN the/DT classification/NN ./.
+More/RBR importantly/RB ,/, our/PRP$ attention/NN weights/NNS provide/VBP a/DT physically/RB meaningful/JJ interpretation/NN for/IN the/DT salience/NN of/IN each/DT time/NN step/NN in/IN the/DT sequence/NN ./.
+We/PRP demonstrate/VBP the/DT merits/NNS of/IN our/PRP$ model/NN in/IN both/CC interpretability/NN and/CC classification/NN performance/NN on/IN a/DT variety/NN of/IN tasks/NNS ,/, including/VBG speech/NN recognition/NN ,/, textual/JJ sentiment/NN analysis/NN and/CC event/NN recognition/NN ./.

@@ -1,0 +1,6 @@
+We/PRP introduce/VBP Bayesian/JJ Poisson/NNP Tucker/NNP decomposition/NN (/-LRB- BPTD/NN )/-RRB- for/IN modeling/VBG country/NN --/: country/NN interaction/NN event/NN data/NNS ./.
+These/DT data/NNS consist/VBP of/IN interaction/NN events/NNS of/IN the/DT form/NN "/`` country/NN $/$ i/CD $/$ took/VBD action/NN $/$ a/DT $/$ toward/IN country/NN $/$ j/NN $/$ at/IN time/NN $/$ t/CD $/$ ./. "/''
+BPTD/NNP discovers/VBZ overlapping/VBG country/NN --/: community/NN memberships/NNS ,/, including/VBG the/DT number/NN of/IN latent/JJ communities/NNS ./.
+In/IN addition/NN ,/, it/PRP discovers/VBZ directed/VBN community/NN --/: community/NN interaction/NN networks/NNS that/WDT are/VBP specific/JJ to/IN "/`` topics/NNS "/'' of/IN action/NN types/NNS and/CC temporal/JJ "/'' regimes/NNS ./. "/''
+We/PRP show/VBP that/IN BPTD/NN yields/VBZ an/DT efficient/JJ MCMC/NN inference/NN algorithm/NN and/CC achieves/VBZ better/JJR predictive/JJ performance/NN than/IN related/JJ models/NNS ./.
+We/PRP also/RB demonstrate/VBP that/IN it/PRP discovers/VBZ interpretable/JJ latent/JJ structure/NN that/WDT agrees/VBZ with/IN our/PRP$ knowledge/NN of/IN international/JJ relations/NNS ./.

@@ -1,0 +1,4 @@
+While/IN dependency/NN parsers/NNS reach/VBP very/RB high/JJ overall/JJ accuracy/NN ,/, some/DT dependency/NN relations/NNS are/VBP much/RB harder/JJR than/IN others/NNS ./.
+In/IN particular/JJ ,/, dependency/NN parsers/NNS perform/VBP poorly/RB in/IN coordination/NN construction/NN (/-LRB- i.e./FW ,/, correctly/RB attaching/VBG the/DT "/`` conj/NN "/'' relation/NN )/-RRB- ./.
+We/PRP extend/VBP a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN dependency/NN parser/NN with/IN conjunction/NN -/HYPH specific/JJ features/NNS ,/, focusing/VBG on/IN the/DT similarity/NN between/IN the/DT conjuncts/NNS head/VBP words/NNS ./.
+Training/VBG the/DT extended/VBN parser/NN yields/VBZ an/DT improvement/NN in/IN "/`` conj/NN "/'' attachment/NN as/RB well/RB as/IN in/IN overall/JJ dependency/NN parsing/VBG accuracy/NN on/IN the/DT Stanford/NNP dependency/NN conversion/NN of/IN the/DT Penn/NNP TreeBank/NNP ./.

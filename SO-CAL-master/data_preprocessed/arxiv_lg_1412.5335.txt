@@ -1,0 +1,7 @@
+Sentiment/NN analysis/NN is/VBZ a/DT common/JJ task/NN in/IN natural/JJ language/NN processing/NN that/WDT aims/VBZ to/TO detect/VB polarity/NN of/IN a/DT text/NN document/NN (/-LRB- typically/RB a/DT consumer/NN review/NN )/-RRB- ./.
+In/IN the/DT simplest/JJS settings/NNS ,/, we/PRP discriminate/VBP only/RB between/IN positive/JJ and/CC negative/JJ sentiment/NN ,/, turning/VBG the/DT task/NN into/IN a/DT standard/JJ binary/JJ classification/NN problem/NN ./.
+We/PRP compare/VBP several/JJ ma/NN -/HYPH chine/NN learning/NN approaches/VBZ to/IN this/DT problem/NN ,/, and/CC combine/VB them/PRP to/TO achieve/VB the/DT best/JJS possible/JJ results/NNS ./.
+We/PRP show/VBP how/WRB to/TO use/VB for/IN this/DT task/NN the/DT standard/JJ generative/JJ lan/NNP -/HYPH guage/NN models/NNS ,/, which/WDT are/VBP slightly/RB complementary/JJ to/IN the/DT state/NN of/IN the/DT art/NN techniques/NNS ./.
+We/PRP achieve/VBP strong/JJ results/NNS on/IN a/DT well/RB -/HYPH known/VBN dataset/NN of/IN IMDB/NNP movie/NN reviews/NNS ./.
+Our/PRP$ results/NNS are/VBP easily/RB reproducible/JJ ,/, as/IN we/PRP publish/VBP also/RB the/DT code/NN needed/VBN to/TO repeat/VB the/DT experiments/NNS ./.
+This/DT should/MD simplify/VB further/JJ advance/NN of/IN the/DT state/NN of/IN the/DT art/NN ,/, as/IN other/JJ researchers/NNS can/MD combine/VB their/PRP$ techniques/NNS with/IN ours/PRP with/IN little/JJ effort/NN ./.

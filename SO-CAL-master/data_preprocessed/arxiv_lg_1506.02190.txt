@@ -1,0 +1,7 @@
+This/DT work/NN focuses/VBZ on/IN top/JJ -/HYPH k/NN recommendation/NN in/IN domains/NNS where/WRB underlying/VBG data/NNS distribution/NN shifts/VBZ overtime/NN ./.
+We/PRP propose/VBP to/TO learn/VB a/DT time/NN -/HYPH dependent/JJ bias/NN for/IN each/DT item/NN over/IN whatever/WDT existing/JJ recommendation/NN engine/NN ./.
+Such/PDT a/DT bias/NN learning/NN process/NN alleviates/VBZ data/NNS sparsity/NN in/IN constructing/VBG the/DT engine/NN ,/, and/CC at/IN the/DT same/JJ time/NN captures/VBZ recent/JJ trend/NN shift/NN observed/VBN in/IN data/NNS ./.
+We/PRP present/VBP an/DT alternating/VBG optimization/NN framework/NN to/TO resolve/VB the/DT bias/NN learning/NN problem/NN ,/, and/CC develop/VB methods/NNS to/TO handle/VB a/DT variety/NN of/IN commonly/RB used/VBN recommendation/NN evaluation/NN criteria/NNS ,/, as/RB well/RB as/IN large/JJ number/NN of/IN items/NNS and/CC users/NNS in/IN practice/NN ./.
+The/DT proposed/VBN algorithm/NN is/VBZ examined/VBN ,/, both/CC offline/RB and/CC online/RB ,/, using/VBG real/JJ world/NN data/NN sets/NNS collected/VBN from/IN the/DT largest/JJS retailer/NN worldwide/RB ./.
+Empirical/JJ results/NNS demonstrate/VBP that/IN the/DT bias/NN learning/NN can/MD almost/RB always/RB boost/VB recommendation/NN performance/NN ./.
+We/PRP encourage/VBP other/JJ practitioners/NNS to/TO adopt/VB it/PRP as/IN a/DT standard/JJ component/NN in/IN recommender/NN systems/NNS where/WRB temporal/JJ dynamics/NNS is/VBZ a/DT norm/NN ./.

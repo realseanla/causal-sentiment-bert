@@ -1,0 +1,11 @@
+Tensor/NNP factorization/NN is/VBZ an/DT important/JJ approach/NN to/IN multiway/JJ data/NNS analysis/NN ./.
+Compared/VBN with/IN popular/JJ multilinear/NN methods/NNS ,/, nonlinear/JJ tensor/NN factorization/NN models/NNS are/VBP able/JJ to/TO capture/VB more/RBR complex/JJ relationships/NNS in/IN data/NNS ./.
+However/RB ,/, they/PRP are/VBP computationally/RB expensive/JJ and/CC incapable/JJ of/IN exploiting/VBG the/DT data/NNS sparsity/NN ./.
+To/TO overcome/VB these/DT limitations/NNS ,/, we/PRP propose/VBP a/DT new/JJ tensor/NN factorization/NN model/NN ./.
+The/DT model/NN employs/VBZ a/DT Gaussian/JJ process/NN (/-LRB- GP/NNP )/-RRB- to/TO capture/VB the/DT complex/JJ nonlinear/JJ relationships/NNS ./.
+The/DT GP/NNP can/MD be/VB projected/VBN to/IN arbitrary/JJ sets/NNS of/IN tensor/NN elements/NNS ,/, and/CC thus/RB can/MD avoid/VB the/DT expensive/JJ computation/NN of/IN the/DT Kronecker/NNP product/NN and/CC is/VBZ able/JJ to/TO flexibly/RB incorporate/VB meaningful/JJ entries/NNS for/IN training/NN ./.
+Furthermore/RB ,/, to/TO scale/VB up/RP the/DT model/NN to/IN large/JJ data/NNS ,/, we/PRP develop/VBP a/DT distributed/VBN variational/JJ inference/NN algorithm/NN in/IN MapReduce/NNP framework/NN ./.
+To/IN this/DT end/NN ,/, we/PRP derive/VBP a/DT tractable/JJ and/CC tight/JJ variational/JJ evidence/NN lower/JJR bound/JJ (/-LRB- ELBO/NN )/-RRB- that/WDT enables/VBZ efficient/JJ parallel/JJ computations/NNS and/CC high/JJ quality/NN inferences/NNS ./.
+In/IN addition/NN ,/, we/PRP design/VBP a/DT non-key-value/JJ Map/NN -/HYPH Reduce/VB scheme/NN that/WDT can/MD prevent/VB the/DT costly/JJ data/NNS shuffling/NN and/CC fully/RB use/VB the/DT memory/NN -/HYPH cache/NN mechanism/NN in/IN fast/JJ MapReduce/NNP systems/NNS such/JJ as/IN SPARK/NN ./.
+Experiments/NNS demonstrate/VBP the/DT advantages/NNS of/IN our/PRP$ method/NN over/IN existing/VBG approaches/NNS in/IN terms/NNS of/IN both/DT predictive/JJ performance/NN and/CC computational/JJ efficiency/NN ./.
+Moreover/RB ,/, our/PRP$ approach/NN shows/VBZ a/DT promising/JJ potential/NN in/IN the/DT application/NN of/IN Click/VB -/HYPH Through/IN -/HYPH Rate/NN (/-LRB- CTR/NN )/-RRB- prediction/NN for/IN online/JJ advertising/NN ./.

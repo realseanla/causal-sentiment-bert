@@ -1,0 +1,7 @@
+This paper addresses a question about music cognition: how do we derive polymetric structures.
+A preference rule system is presented which is implemented into a drum computer.
+The preference rule system allows inferring local polymetric structures, like two-over-three and three-over-two.
+By analyzing the micro-timing of West African percussion music a timing pattern consisting of six pulses was discovered.
+It integrates binary and ternary rhythmic feels.
+The presented drum computer integrates the discovered superimposed polymetric swing (timing and velocity) appropriate to the rhythmic sequence the user inputs.
+For binary sequences, the amount of binary swing is increased and for ternary sequences, the ternary swing is increased.

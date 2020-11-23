@@ -1,0 +1,6 @@
+Programming/VBG languages/NNS themselves/PRP have/VBP a/DT limited/JJ number/NN of/IN reserved/VBN keywords/NNS and/CC character/NN based/VBN tokens/NNS that/WDT define/VBP the/DT language/NN specification/NN ./.
+However/RB ,/, programmers/NNS have/VBP a/DT rich/JJ use/NN of/IN natural/JJ language/NN within/IN their/PRP$ code/NN through/IN comments/NNS ,/, text/NN literals/NNS and/CC naming/VBG entities/NNS ./.
+The/DT programmer/NN defined/VBN names/NNS that/WDT can/MD be/VB found/VBN in/IN source/NN code/NN are/VBP a/DT rich/JJ source/NN of/IN information/NN to/TO build/VB a/DT high/JJ level/NN understanding/NN of/IN the/DT project/NN ./.
+The/DT goal/NN of/IN this/DT paper/NN is/VBZ to/TO apply/VB topic/NN modeling/NN to/IN names/NNS used/VBN in/IN over/IN 13.6/CD million/CD repositories/NNS and/CC perceive/VB the/DT inferred/VBN topics/NNS ./.
+One/CD of/IN the/DT problems/NNS in/IN such/PDT a/DT study/NN is/VBZ the/DT occurrence/NN of/IN duplicate/JJ repositories/NNS not/RB officially/RB marked/VBN as/IN forks/NNS (/-LRB- obscure/JJ forks/NNS )/-RRB- ./.
+We/PRP show/VBP how/WRB to/TO address/VB it/PRP using/VBG the/DT same/JJ identifiers/NNS which/WDT are/VBP extracted/VBN for/IN topic/NN modeling/NN ./.

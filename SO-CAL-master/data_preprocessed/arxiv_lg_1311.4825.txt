@@ -1,0 +1,4 @@
+In/IN this/DT paper/NN ,/, we/PRP analyze/VBP a/DT generic/JJ algorithm/NN scheme/NN for/IN sequential/JJ global/JJ optimization/NN using/VBG Gaussian/JJ processes/NNS ./.
+The/DT upper/JJ bounds/NNS we/PRP derive/VBP on/IN the/DT cumulative/JJ regret/NN for/IN this/DT generic/JJ algorithm/NN improve/VB by/IN an/DT exponential/JJ factor/NN the/DT previously/RB known/VBN bounds/NNS for/IN algorithms/NNS like/IN GP/NNP -/HYPH UCB/NNP ./.
+We/PRP also/RB introduce/VBP the/DT novel/JJ Gaussian/JJ Process/NN Mutual/JJ Information/NN algorithm/NN (/-LRB- GP/NNP -/HYPH MI/NNP )/-RRB- ,/, which/WDT significantly/RB improves/VBZ further/RB these/DT upper/JJ bounds/NNS for/IN the/DT cumulative/JJ regret/NN ./.
+We/PRP confirm/VBP the/DT efficiency/NN of/IN this/DT algorithm/NN on/IN synthetic/JJ and/CC real/JJ tasks/NNS against/IN the/DT natural/JJ competitor/NN ,/, GP/NNP -/HYPH UCB/NNP ,/, and/CC also/RB the/DT Expected/VBN Improvement/NN heuristic/NN ./.

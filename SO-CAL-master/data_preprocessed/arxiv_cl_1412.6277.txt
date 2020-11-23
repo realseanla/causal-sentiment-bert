@@ -1,0 +1,11 @@
+The/DT bag/NN -/HYPH of/IN -/HYPH words/NNS (/-LRB- BOW/NN )/-RRB- model/NN is/VBZ the/DT common/JJ approach/NN for/IN classifying/VBG documents/NNS ,/, where/WRB words/NNS are/VBP used/VBN as/IN feature/NN for/IN training/VBG a/DT classifier/NN ./.
+This/DT generally/RB involves/VBZ a/DT huge/JJ number/NN of/IN features/NNS ./.
+Some/DT techniques/NNS ,/, such/JJ as/IN Latent/JJ Semantic/JJ Analysis/NN (/-LRB- LSA/NN )/-RRB- or/CC Latent/JJ Dirichlet/NNP Allocation/NN (/-LRB- LDA/NN )/-RRB- ,/, have/VBP been/VBN designed/VBN to/TO summarize/VB documents/NNS in/IN a/DT lower/JJR dimension/NN with/IN the/DT least/JJS semantic/JJ information/NN loss/NN ./.
+Some/DT semantic/JJ information/NN is/VBZ nevertheless/RB always/RB lost/VBN ,/, since/IN only/RB words/NNS are/VBP considered/VBN ./.
+Instead/RB ,/, we/PRP aim/VBP at/IN using/VBG information/NN coming/VBG from/IN n/NN -/HYPH grams/NNS to/TO overcome/VB this/DT limitation/NN ,/, while/IN remaining/VBG in/IN a/DT low/JJ -/HYPH dimension/NN space/NN ./.
+Many/JJ approaches/NNS ,/, such/JJ as/IN the/DT Skip/VB -/HYPH gram/NN model/NN ,/, provide/VB good/JJ word/NN vector/NN representations/NNS very/RB quickly/RB ./.
+We/PRP propose/VBP to/IN average/JJ these/DT representations/NNS to/TO obtain/VB representations/NNS of/IN n/NN -/HYPH grams/NNS ./.
+All/DT n/NN -/HYPH grams/NNS are/VBP thus/RB embedded/VBN in/IN a/DT same/JJ semantic/JJ space/NN ./.
+A/DT K/NN -/HYPH means/NN clustering/NN can/MD then/RB group/NN them/PRP into/IN semantic/JJ concepts/NNS ./.
+The/DT number/NN of/IN features/NNS is/VBZ therefore/RB dramatically/RB reduced/VBN and/CC documents/NNS can/MD be/VB represented/VBN as/IN bag/NN of/IN semantic/JJ concepts/NNS ./.
+We/PRP show/VBP that/IN this/DT model/NN outperforms/VBZ LSA/NNP and/CC LDA/NNP on/IN a/DT sentiment/NN classification/NN task/NN ,/, and/CC yields/NNS similar/JJ results/NNS than/IN a/DT traditional/JJ BOW/NN -/HYPH model/NN with/IN far/RB less/JJR features/NNS ./.

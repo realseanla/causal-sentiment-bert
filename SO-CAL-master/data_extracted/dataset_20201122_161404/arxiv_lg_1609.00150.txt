@@ -1,0 +1,7 @@
+A key problem in structured output prediction is direct optimization of the task reward function that matters for test evaluation.
+This paper presents a simple and computationally efficient approach to incorporate task reward into a maximum likelihood framework.
+We establish a connection between the log-likelihood and regularized expected reward objectives, showing that at a zero temperature, they are approximately equivalent in the vicinity of the optimal solution.
+We show that optimal regularized expected reward is achieved when the conditional distribution of the outputs given the inputs is proportional to their exponentiated (temperature adjusted) rewards.
+Based on this observation, we optimize conditional log-probability of edited outputs that are sampled proportionally to their scaled exponentiated reward.
+We apply this framework to optimize edit distance in the output label space.
+Experiments on speech recognition and machine translation for neural sequence to sequence models show notable improvements over a maximum likelihood baseline by using edit distance augmented maximum likelihood.

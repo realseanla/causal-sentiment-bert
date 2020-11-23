@@ -1,0 +1,7 @@
+Search/VB systems/NNS are/VBP often/RB focused/VBN on/IN providing/VBG relevant/JJ results/NNS for/IN the/DT "/`` now/RB "/'' ,/, assuming/VBG both/CC corpora/NNS and/CC user/NN needs/VBZ that/DT focus/NN on/IN the/DT present/JJ ./.
+However/RB ,/, many/JJ corpora/NNS today/NN reflect/VBP significant/JJ longitudinal/JJ collections/NNS ranging/VBG from/IN 20/CD years/NNS of/IN the/DT Web/NN to/IN hundreds/NNS of/IN years/NNS of/IN digitized/VBN newspapers/NNS and/CC books/NNS ./.
+Understanding/VBG the/DT temporal/JJ intent/NN of/IN the/DT user/NN and/CC retrieving/VBG the/DT most/RBS relevant/JJ historical/JJ content/NN has/VBZ become/VBN a/DT significant/JJ challenge/NN ./.
+Common/JJ search/NN features/NNS ,/, such/JJ as/IN query/NN expansion/NN ,/, leverage/NN the/DT relationship/NN between/IN terms/NNS but/CC can/MD not/RB function/VB well/RB across/IN all/DT times/NNS when/WRB relationships/NNS vary/VBP temporally/RB ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP a/DT temporal/JJ relationship/NN model/NN that/WDT is/VBZ extracted/VBN from/IN longitudinal/JJ data/NNS collections/NNS ./.
+The/DT model/NN supports/VBZ the/DT task/NN of/IN identifying/VBG ,/, given/VBN two/CD words/NNS ,/, when/WRB they/PRP relate/VBP to/IN each/DT other/JJ ./.
+We/PRP present/VBP an/DT algorithmic/JJ framework/NN for/IN this/DT task/NN and/CC show/VB its/PRP$ application/NN for/IN the/DT task/NN of/IN query/NN expansion/NN ,/, achieving/VBG high/JJ gain/NN ./.

@@ -1,0 +1,6 @@
+Learning useful information across long time lags is a critical and difficult problem for temporal neural models in tasks like language modeling.
+Existing architectures that address the issue are often complex and costly to train.
+The Delta Recurrent Neural Network (Delta-RNN) framework is a simple and high-performing design that unifies previously proposed gated neural models.
+The Delta-RNN models maintain longer-term memory by learning to interpolate between a fast-changing data-driven representation and a slowly changing, implicitly stable state.
+This requires hardly any more parameters than a classical simple recurrent network.
+The models outperform popular complex architectures, such as the Long Short Term Memory (LSTM) and the Gated Recurrent Unit (GRU) and achieve state-of-the art performance in language modeling at character and word levels and yield comparable performance at the subword level.

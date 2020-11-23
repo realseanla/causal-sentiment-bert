@@ -1,0 +1,4 @@
+We/PRP present/VBP a/DT general/JJ framework/NN for/IN defining/VBG priors/NNS on/IN model/NN structure/NN and/CC sampling/NN from/IN the/DT posterior/JJ using/VBG the/DT Metropolis/NNP -/HYPH Hastings/NNP algorithm/NN ./.
+The/DT key/JJ idea/NN is/VBZ that/IN structure/NN priors/NNS are/VBP defined/VBN via/IN a/DT probability/NN tree/NN and/CC that/IN the/DT proposal/NN mechanism/NN for/IN the/DT Metropolis/NNP -/HYPH Hastings/NNP algorithm/NN operates/VBZ by/IN traversing/VBG this/DT tree/NN ,/, thereby/RB defining/VBG a/DT cheaply/RB computable/JJ acceptance/NN probability/NN ./.
+We/PRP have/VBP applied/VBN this/DT approach/NN to/IN Bayesian/JJ net/JJ structure/NN learning/NN using/VBG a/DT number/NN of/IN priors/NNS and/CC tree/NN traversal/JJ strategies/NNS ./.
+Our/PRP$ results/NNS show/VBP that/IN these/DT must/MD be/VB chosen/VBN appropriately/RB for/IN this/DT approach/NN to/TO be/VB successful/JJ ./.

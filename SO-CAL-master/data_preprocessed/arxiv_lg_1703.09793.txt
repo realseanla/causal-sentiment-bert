@@ -1,0 +1,13 @@
+Despite/IN the/DT rapid/JJ progress/NN of/IN the/DT techniques/NNS for/IN image/NN classification/NN ,/, video/NN annotation/NN has/VBZ remained/VBN a/DT challenging/JJ task/NN ./.
+Automated/VBN video/NN annotation/NN would/MD be/VB a/DT breakthrough/NN technology/NN ,/, enabling/VBG users/NNS to/TO search/VB within/IN the/DT videos/NNS ./.
+Recently/RB ,/, Google/NNP introduced/VBD the/DT Cloud/NNP Video/NNP Intelligence/NNP API/NN for/IN video/NN analysis/NN ./.
+As/IN per/IN the/DT website/NN ,/, the/DT system/NN "/'' separates/VBZ signal/NN from/IN noise/NN ,/, by/IN retrieving/VBG relevant/JJ information/NN at/IN the/DT video/NN ,/, shot/NN or/CC per/IN frame/NN ./. "/''
+A/DT demonstration/NN website/NN has/VBZ been/VBN also/RB launched/VBN ,/, which/WDT allows/VBZ anyone/NN to/TO select/VB a/DT video/NN for/IN annotation/NN ./.
+The/DT API/NN then/RB detects/VBZ the/DT video/NN labels/NNS (/-LRB- objects/NNS within/IN the/DT video/NN )/-RRB- as/RB well/RB as/IN shot/NN labels/NNS (/-LRB- description/NN of/IN the/DT video/NN events/NNS over/IN time/NN )/-RRB- ./.
+In/IN this/DT paper/NN ,/, we/PRP examine/VBP the/DT usability/NN of/IN the/DT Google/NNP 's/POS Cloud/NNP Video/NNP Intelligence/NNP API/NN in/IN adversarial/JJ environments/NNS ./.
+In/IN particular/JJ ,/, we/PRP investigate/VBP whether/IN an/DT adversary/NN can/MD manipulate/VB a/DT video/NN in/IN such/PDT a/DT way/NN that/IN the/DT API/NN will/MD return/VB only/RB the/DT adversary/NN -/HYPH desired/VBN labels/NNS ./.
+For/IN this/DT ,/, we/PRP select/VBP an/DT image/NN that/WDT is/VBZ different/JJ from/IN the/DT content/NN of/IN the/DT Video/NN and/CC insert/VB it/PRP ,/, periodically/RB and/CC at/IN a/DT very/RB low/JJ rate/NN ,/, into/IN the/DT video/NN ./.
+We/PRP found/VBD that/IN if/IN we/PRP insert/VBP one/CD image/NN every/DT two/CD seconds/NNS ,/, the/DT API/NN is/VBZ deceived/VBN into/IN annotating/VBG the/DT entire/JJ video/NN as/IN if/IN it/PRP only/RB contains/VBZ the/DT inserted/VBN image/NN ./.
+Note/VB that/IN the/DT modification/NN to/IN the/DT video/NN is/VBZ hardly/RB noticeable/JJ as/IN ,/, for/IN instance/NN ,/, for/IN a/DT typical/JJ frame/NN rate/NN of/IN 25/CD ,/, we/PRP insert/VBP only/RB one/CD image/NN per/IN 50/CD video/NN frames/NNS ./.
+We/PRP also/RB found/VBD that/IN ,/, by/IN inserting/VBG one/CD image/NN per/IN second/NN ,/, all/PDT the/DT shot/NN labels/NNS returned/VBN by/IN the/DT API/NN are/VBP related/VBN to/IN the/DT inserted/VBN image/NN ./.
+We/PRP perform/VBP the/DT experiments/NNS on/IN the/DT sample/NN videos/NNS provided/VBN by/IN the/DT API/NN demonstration/NN website/NN and/CC show/VBP that/IN our/PRP$ attack/NN is/VBZ successful/JJ with/IN different/JJ videos/NNS and/CC images/NNS ./.

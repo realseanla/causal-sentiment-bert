@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP study/VBP the/DT problem/NN of/IN answering/VBG cloze/NN -/HYPH style/NN questions/NNS over/IN short/JJ documents/NNS ./.
+We/PRP introduce/VBP a/DT new/JJ attention/NN mechanism/NN which/WDT uses/VBZ multiplicative/JJ interactions/NNS between/IN the/DT query/NN embedding/NN and/CC intermediate/JJ states/NNS of/IN a/DT recurrent/JJ neural/JJ network/NN reader/NN ./.
+This/DT enables/VBZ the/DT reader/NN to/TO build/VB query/NN -/HYPH specific/JJ representations/NNS of/IN tokens/NNS in/IN the/DT document/NN which/WDT are/VBP further/RB used/VBN for/IN answer/NN selection/NN ./.
+Our/PRP$ model/NN ,/, the/DT Gated/VBN -/HYPH Attention/NN Reader/NN ,/, outperforms/VBZ all/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS on/IN several/JJ large/JJ -/HYPH scale/NN benchmark/NN datasets/NNS for/IN this/DT task/NN ---/, the/DT CNN/NNP \/SYM &amp;/CC Dailymail/NNP news/NN stories/NNS and/CC Children/NNS 's/POS Book/NNP Test/NNP ./.
+We/PRP also/RB provide/VBP a/DT detailed/JJ analysis/NN of/IN the/DT performance/NN of/IN our/PRP$ model/NN and/CC several/JJ baselines/NNS over/IN a/DT subset/NN of/IN questions/NNS manually/RB annotated/VBN with/IN certain/JJ linguistic/JJ features/NNS ./.
+The/DT analysis/NN sheds/VBZ light/NN on/IN the/DT strengths/NNS and/CC weaknesses/NNS of/IN several/JJ existing/VBG models/NNS ./.

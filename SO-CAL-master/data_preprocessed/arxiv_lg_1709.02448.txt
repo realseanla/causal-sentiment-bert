@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT neural/JJ embedding/NN algorithm/NN called/VBN Network/NNP Vector/NNP ,/, which/WDT learns/VBZ distributed/VBN representations/NNS of/IN nodes/NNS and/CC the/DT entire/JJ networks/NNS simultaneously/RB ./.
+By/IN embedding/VBG networks/NNS in/IN a/DT low/JJ -/HYPH dimensional/JJ space/NN ,/, the/DT algorithm/NN allows/VBZ us/PRP to/TO compare/VB networks/NNS in/IN terms/NNS of/IN structural/JJ similarity/NN and/CC to/TO solve/VB outstanding/JJ predictive/JJ problems/NNS ./.
+Unlike/IN alternative/JJ approaches/NNS that/WDT focus/VBP on/IN node/NN level/NN features/NNS ,/, we/PRP learn/VBP a/DT continuous/JJ global/JJ vector/NN that/WDT captures/VBZ each/DT node/NN 's/POS global/JJ context/NN by/IN maximizing/VBG the/DT predictive/JJ likelihood/NN of/IN random/JJ walk/NN paths/NNS in/IN the/DT network/NN ./.
+Our/PRP$ algorithm/NN is/VBZ scalable/JJ to/IN real/JJ world/NN graphs/NNS with/IN many/JJ nodes/NNS ./.
+We/PRP evaluate/VBP our/PRP$ algorithm/NN on/IN datasets/NNS from/IN diverse/JJ domains/NNS ,/, and/CC compare/VB it/PRP with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN techniques/NNS in/IN node/NN classification/NN ,/, role/NN discovery/NN and/CC concept/NN analogy/NN tasks/NNS ./.
+The/DT empirical/JJ results/NNS show/VBP the/DT effectiveness/NN and/CC the/DT efficiency/NN of/IN our/PRP$ algorithm/NN ./.

@@ -1,0 +1,8 @@
+The/DT problem/NN of/IN anomaly/NN detection/NN has/VBZ been/VBN studied/VBN for/IN a/DT long/JJ time/NN ./.
+In/IN short/JJ ,/, anomalies/NNS are/VBP abnormal/JJ or/CC unlikely/JJ things/NNS ./.
+In/IN financial/JJ networks/NNS ,/, thieves/NNS and/CC illegal/JJ activities/NNS are/VBP often/RB anomalous/JJ in/IN nature/NN ./.
+Members/NNS of/IN a/DT network/NN want/VBP to/TO detect/VB anomalies/NNS as/RB soon/RB as/IN possible/JJ to/TO prevent/VB them/PRP from/IN harming/VBG the/DT network/NN 's/POS community/NN and/CC integrity/NN ./.
+Many/JJ Machine/NN Learning/VBG techniques/NNS have/VBP been/VBN proposed/VBN to/TO deal/VB with/IN this/DT problem/NN ;/: some/DT results/NNS appear/VBP to/TO be/VB quite/RB promising/JJ but/CC there/EX is/VBZ no/DT obvious/JJ superior/JJ method/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP consider/VBP anomaly/RB detection/NN particular/JJ to/IN the/DT Bitcoin/NNP transaction/NN network/NN ./.
+Our/PRP$ goal/NN is/VBZ to/TO detect/VB which/WDT users/NNS and/CC transactions/NNS are/VBP the/DT most/RBS suspicious/JJ ;/: in/IN this/DT case/NN ,/, anomalous/JJ behavior/NN is/VBZ a/DT proxy/NN for/IN suspicious/JJ behavior/NN ./.
+To/IN this/DT end/NN ,/, we/PRP use/VBP three/CD unsupervised/JJ learning/NN methods/NNS including/VBG k/CD -/HYPH means/NN clustering/NN ,/, Mahalanobis/NNP distance/NN ,/, and/CC Unsupervised/JJ Support/NN Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- on/IN two/CD graphs/NNS generated/VBN by/IN the/DT Bitcoin/NNP transaction/NN network/NN :/: one/CD graph/NN has/VBZ users/NNS as/IN nodes/NNS ,/, and/CC the/DT other/JJ has/VBZ transactions/NNS as/IN nodes/NNS ./.

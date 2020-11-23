@@ -1,0 +1,3 @@
+We present power low rank ensembles, a flexible framework for n-gram language modeling where ensembles of low rank matrices and tensors are used to obtain smoothed probability estimates of words in context.
+Our method is a generalization of n-gram modeling to non-integer n, and includes standard techniques such as absolute discounting and Kneser-Ney smoothing as special cases.
+On English and Russian evaluation sets, we obtain noticeably lower perplexities relative to state-of-the-art modified Kneser-Ney and class-based n-gram models.

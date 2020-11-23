@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN we/PRP address/VBP the/DT problem/NN of/IN decision/NN making/NN within/IN a/DT Markov/NNP decision/NN process/NN (/-LRB- MDP/NN )/-RRB- framework/NN where/WRB risk/NN and/CC modeling/NN errors/NNS are/VBP taken/VBN into/IN account/NN ./.
+Our/PRP$ approach/NN is/VBZ to/TO minimize/VB a/DT risk/NN -/HYPH sensitive/JJ conditional/JJ -/HYPH value/NN -/HYPH at/NN -/HYPH risk/NN (/-LRB- CVaR/NN )/-RRB- objective/NN ,/, as/IN opposed/VBN to/IN a/DT standard/JJ risk/NN -/HYPH neutral/JJ expectation/NN ./.
+We/PRP refer/VBP to/IN such/JJ problem/NN as/IN CVaR/NNP MDP/NNP ./.
+Our/PRP$ first/JJ contribution/NN is/VBZ to/TO show/VB that/IN a/DT CVaR/NN objective/NN ,/, besides/IN capturing/VBG risk/NN sensitivity/NN ,/, has/VBZ an/DT alternative/JJ interpretation/NN as/IN expected/VBN cost/NN under/IN worst/JJS -/HYPH case/NN modeling/NN errors/NNS ,/, for/IN a/DT given/VBN error/NN budget/NN ./.
+This/DT result/NN ,/, which/WDT is/VBZ of/IN independent/JJ interest/NN ,/, motivates/VBZ CVaR/NNS MDPs/NNS as/IN a/DT unifying/JJ framework/NN for/IN risk/NN -/HYPH sensitive/JJ and/CC robust/JJ decision/NN making/NN ./.
+Our/PRP$ second/JJ contribution/NN is/VBZ to/TO present/VB an/DT approximate/JJ value/NN -/HYPH iteration/NN algorithm/NN for/IN CVaR/NNS MDPs/NNS and/CC analyze/VB its/PRP$ convergence/NN rate/NN ./.
+To/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ solution/NN algorithm/NN for/IN CVaR/NNS MDPs/NNS that/WDT enjoys/VBZ error/NN guarantees/NNS ./.
+Finally/RB ,/, we/PRP present/VBP results/NNS from/IN numerical/JJ experiments/NNS that/WDT corroborate/VBP our/PRP$ theoretical/JJ findings/NNS and/CC show/VB the/DT practicality/NN of/IN our/PRP$ approach/NN ./.

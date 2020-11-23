@@ -1,0 +1,16 @@
+NLP/NN tasks/NNS differ/VBP in/IN the/DT semantic/JJ information/NN they/PRP require/VBP ,/, and/CC at/IN this/DT time/NN no/DT single/JJ semantic/JJ representation/NN fulfills/VBZ all/DT requirements/NNS ./.
+Logic/NN -/HYPH based/VBN representations/NNS characterize/VBP sentence/NN structure/NN ,/, but/CC do/VBP not/RB capture/VB the/DT graded/JJ aspect/NN of/IN meaning/NN ./.
+Distributional/JJ models/NNS give/VBP graded/VBN similarity/NN ratings/NNS for/IN words/NNS and/CC phrases/NNS ,/, but/CC do/VBP not/RB adequately/RB capture/NN overall/JJ sentence/NN structure/NN ./.
+So/RB it/PRP has/VBZ been/VBN argued/VBN that/IN the/DT two/CD are/VBP complementary/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP adopt/VBP a/DT hybrid/NN approach/NN that/WDT combines/VBZ logic/NN -/HYPH based/VBN and/CC distributional/JJ semantics/NNS through/IN probabilistic/JJ logic/NN inference/NN in/IN Markov/NNP Logic/NNP Networks/NNP (/-LRB- MLNs/NNS )/-RRB- ./.
+We/PRP focus/VBP on/IN textual/JJ entailment/NN (/-LRB- RTE/NN )/-RRB- ,/, a/DT task/NN that/WDT can/MD utilize/VB the/DT strengths/NNS of/IN both/DT representations/NNS ./.
+Our/PRP$ system/NN is/VBZ three/CD components/NNS ,/, 1/CD )/-RRB- parsing/VBG and/CC task/NN representation/NN ,/, where/WRB input/NN RTE/NN problems/NNS are/VBP represented/VBN in/IN probabilistic/JJ logic/NN ./.
+This/DT is/VBZ quite/RB different/JJ from/IN representing/VBG them/PRP in/IN standard/JJ first/JJ -/HYPH order/NN logic/NN ./.
+2/LS )/-RRB- knowledge/NN base/NN construction/NN in/IN the/DT form/NN of/IN weighted/JJ inference/NN rules/NNS from/IN different/JJ sources/NNS like/IN WordNet/NNP ,/, paraphrase/NN collections/NNS ,/, and/CC lexical/JJ and/CC phrasal/JJ distributional/JJ rules/NNS generated/VBN on/IN the/DT fly/NN ./.
+We/PRP use/VBP a/DT variant/NN of/IN Robinson/NNP resolution/NN to/TO determine/VB the/DT necessary/JJ inference/NN rules/NNS ./.
+More/JJR sources/NNS can/MD easily/RB be/VB added/VBN by/IN mapping/VBG them/PRP to/IN logical/JJ rules/NNS ;/: our/PRP$ system/NN learns/VBZ a/DT resource/NN -/HYPH specific/JJ weight/NN that/WDT counteract/VBP scaling/JJ differences/NNS between/IN resources/NNS ./.
+3/LS )/-RRB- inference/NN ,/, where/WRB we/PRP show/VBP how/WRB to/TO solve/VB the/DT inference/NN problems/NNS efficiently/RB ./.
+In/IN this/DT paper/NN we/PRP focus/VBP on/IN the/DT SICK/NNP dataset/NN ,/, and/CC we/PRP achieve/VBP a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN result/NN ./.
+Our/PRP$ system/NN handles/VBZ overall/JJ sentence/NN structure/NN and/CC phenomena/NN like/IN negation/NN in/IN the/DT logic/NN ,/, then/RB uses/VBZ our/PRP$ Robinson/NNP resolution/NN variant/NN to/IN query/NN distributional/JJ systems/NNS about/IN words/NNS and/CC short/JJ phrases/NNS ./.
+Therefor/NNP ,/, we/PRP use/VBP our/PRP$ system/NN to/TO evaluate/VB distributional/JJ lexical/JJ entailment/NN approaches/NNS ./.
+We/PRP also/RB publish/VB the/DT set/NN of/IN rules/NNS queried/VBN from/IN the/DT SICK/NNP dataset/NN ,/, which/WDT can/MD be/VB a/DT good/JJ resource/NN to/TO evaluate/VB them/PRP ./.

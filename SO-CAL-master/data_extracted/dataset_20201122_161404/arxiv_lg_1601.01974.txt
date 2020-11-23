@@ -1,0 +1,4 @@
+We design algorithms for online linear optimization that have optimal regret and at the same time do not need to know any upper or lower bounds on the norm of the loss vectors.
+We achieve adaptiveness to the norms of the loss vectors by scale invariance, i.e., our algorithms make exactly the same decisions if the sequence of loss vectors is multiplied by any positive constant.
+One of our algorithms works for any decision set, bounded or unbounded.
+For unbounded decisions sets, this is the first adaptive algorithm for online linear optimization with a non-vacuous regret bound.

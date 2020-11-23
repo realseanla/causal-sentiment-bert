@@ -1,0 +1,8 @@
+Visualizing/VBG NLP/NN annotation/NN is/VBZ useful/JJ for/IN the/DT collection/NN of/IN training/NN data/NNS for/IN the/DT statistical/JJ NLP/NN approaches/NNS ./.
+Existing/VBG toolkits/NNS either/CC provide/VBP limited/JJ visual/JJ aid/NN ,/, or/CC introduce/VB comprehensive/JJ operators/NNS to/TO realize/VB sophisticated/JJ linguistic/JJ rules/NNS ./.
+Workers/NNS must/MD be/VB well/RB trained/VBN to/TO use/VB them/PRP ./.
+Their/PRP$ audience/NN thus/RB can/MD hardly/RB be/VB scaled/VBN to/IN large/JJ amounts/NNS of/IN non-expert/NN crowdsourced/VBN workers/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP CROWDANNO/NNP ,/, a/DT visualization/NN toolkit/NN to/TO allow/VB crowd/NN -/HYPH sourced/VBN workers/NNS to/IN annotate/VB two/CD general/JJ categories/NNS of/IN NLP/NN problems/NNS :/: clustering/VBG and/CC parsing/VBG ./.
+Workers/NNS can/MD finish/VB the/DT tasks/NNS with/IN simplified/VBN operators/NNS in/IN an/DT interactive/JJ interface/NN ,/, and/CC fix/NN errors/NNS conveniently/RB ./.
+User/NN studies/NNS show/VBP our/PRP$ toolkit/NN is/VBZ very/RB friendly/JJ to/IN NLP/NNP non-experts/NNS ,/, and/CC allow/VB them/PRP to/TO produce/VB high/JJ quality/NN labels/NNS for/IN several/JJ sophisticated/JJ problems/NNS ./.
+We/PRP release/VBP our/PRP$ source/NN code/NN and/CC toolkit/NN to/TO spur/VB future/JJ research/NN ./.

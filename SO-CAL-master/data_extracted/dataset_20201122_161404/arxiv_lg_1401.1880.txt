@@ -1,0 +1,7 @@
+In recent years, there has been growing focus on the study of automated recommender systems.
+Music recommendation systems serve as a prominent domain for such works, both from an academic and a commercial perspective.
+A relatively well known fact in music cognition is that music is experienced in temporal context and in sequence.
+In this work we present DJ-MC, a reinforcement-learning based framework for music recommendation that does not recommend songs individually but rather song sequences, or playlists, based on a learned model of preferences for both individual songs and song transitions.
+To reduce exploration time, we initialize a model based on user feedback.
+This model is subsequently updated by reinforcement.
+We show our algorithm outperforms a more naive approach, using both real song data and real playlist data to validate our approach.

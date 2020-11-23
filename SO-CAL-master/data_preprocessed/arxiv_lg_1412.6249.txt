@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP a/DT novel/JJ deep/JJ learning/NN framework/NN ,/, termed/VBN Purine/NNP ./.
+In/IN Purine/NN ,/, a/DT deep/JJ network/NN is/VBZ expressed/VBN as/IN a/DT bipartite/JJ graph/NN (/-LRB- bi-graph/NN )/-RRB- ,/, which/WDT is/VBZ composed/VBN of/IN interconnected/VBN operators/NNS and/CC data/NNS tensors/NNS ./.
+With/IN the/DT bi-graph/NN abstraction/NN ,/, networks/NNS are/VBP easily/RB solvable/JJ with/IN event/NN -/HYPH driven/VBN task/NN dispatcher/NN ./.
+We/PRP then/RB demonstrate/VBP that/IN different/JJ parallelism/NN schemes/NNS over/IN GPUs/NNS and/CC //HYPH or/CC CPUs/NNS on/IN single/JJ or/CC multiple/JJ PCs/NNS can/MD be/VB universally/RB implemented/VBN by/IN graph/NN composition/NN ./.
+Scheduled/VBN by/IN the/DT task/NN dispatcher/NN ,/, memory/NN transfers/NNS are/VBP fully/RB overlapped/VBN with/IN other/JJ computations/NNS ,/, which/WDT greatly/RB reduce/VBP the/DT communication/NN overhead/NN and/CC help/VB us/PRP achieve/VB approximate/JJ linear/JJ acceleration/NN ./.
+This/DT eases/VBZ researchers/NNS from/IN coding/VBG for/IN various/JJ parallelization/NN schemes/NNS ,/, and/CC the/DT same/JJ dispatcher/NN can/MD be/VB used/VBN for/IN solving/VBG variant/JJ graphs/NNS ./.

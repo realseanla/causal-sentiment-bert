@@ -1,0 +1,6 @@
+A/DT number/NN of/IN tasks/NNS in/IN classification/NN ,/, information/NN retrieval/NN ,/, recommendation/NN systems/NNS ,/, and/CC record/NN linkage/NN reduce/VB to/IN the/DT core/NN problem/NN of/IN inner/JJ product/NN similarity/NN join/VBP (/-LRB- IPS/NNP join/VB )/-RRB- :/: identifying/VBG pairs/NNS of/IN vectors/NNS in/IN a/DT collection/NN that/WDT have/VBP a/DT sufficiently/RB large/JJ inner/JJ product/NN ./.
+IPS/NNP join/VBP is/VBZ well/RB understood/VBN when/WRB vectors/NNS are/VBP normalized/VBN and/CC some/DT approximation/NN of/IN inner/JJ products/NNS is/VBZ allowed/VBN ./.
+However/RB ,/, the/DT general/JJ case/NN where/WRB vectors/NNS may/MD have/VB any/DT length/NN appears/VBZ much/RB more/JJR challenging/JJ ./.
+Recently/RB ,/, new/JJ upper/JJ bounds/NNS based/VBN on/IN asymmetric/JJ locality/NN -/HYPH sensitive/JJ hashing/VBG (/-LRB- ALSH/NNP )/-RRB- and/CC asymmetric/JJ embeddings/NNS have/VBP emerged/VBN ,/, but/CC little/JJ has/VBZ been/VBN known/VBN on/IN the/DT lower/JJR bound/JJ side/NN ./.
+In/IN this/DT paper/NN we/PRP initiate/VBP a/DT systematic/JJ study/NN of/IN inner/JJ product/NN similarity/NN join/VBP ,/, showing/VBG new/JJ lower/JJR and/CC upper/JJ bounds/NNS ./.
+Our/PRP$ main/JJ results/NNS are/VBP :/:

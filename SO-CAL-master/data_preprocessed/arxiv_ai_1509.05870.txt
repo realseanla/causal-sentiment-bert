@@ -1,0 +1,6 @@
+The/DT Minimum/NNP Vertex/NNP Cover/NNP (/-LRB- MinVC/NNP )/-RRB- problem/NN is/VBZ a/DT well/RB -/HYPH known/VBN NP/NNP -/HYPH hard/JJ problem/NN ./.
+Recently/RB there/EX has/VBZ been/VBN great/JJ interest/NN in/IN solving/VBG this/DT problem/NN on/IN real/JJ -/HYPH world/NN massive/JJ graphs/NNS ./.
+For/IN such/JJ graphs/NNS ,/, local/JJ search/NN is/VBZ a/DT promising/JJ approach/NN to/IN finding/VBG optimal/JJ or/CC near/JJ -/HYPH optimal/JJ solutions/NNS ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT local/JJ search/NN algorithm/NN that/WDT exploits/VBZ reduction/NN rules/NNS and/CC data/NNS structures/NNS to/TO solve/VB the/DT MinVC/NNP problem/NN in/IN such/JJ graphs/NNS ./.
+Experimental/JJ results/NNS on/IN a/DT wide/JJ range/NN of/IN real/JJ -/HYPH word/NN massive/JJ graphs/NNS show/VBP that/IN our/PRP$ algorithm/NN finds/VBZ better/JJR covers/NNS than/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN local/JJ search/NN algorithms/NNS for/IN MinVC/NNP ./.
+Also/RB we/PRP present/VBP interesting/JJ results/NNS about/IN the/DT complexities/NNS of/IN some/DT well/RB -/HYPH known/VBN heuristics/NNS ./.

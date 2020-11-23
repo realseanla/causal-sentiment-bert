@@ -1,0 +1,5 @@
+A/DT Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- network/NN is/VBZ a/DT type/NN of/IN recurrent/JJ neural/JJ network/NN architecture/NN which/WDT has/VBZ recently/RB obtained/VBN strong/JJ results/NNS on/IN a/DT variety/NN of/IN sequence/NN modeling/NN tasks/NNS ./.
+The/DT only/JJ underlying/VBG LSTM/NN structure/NN that/WDT has/VBZ been/VBN explored/VBN so/RB far/RB is/VBZ a/DT linear/JJ chain/NN ./.
+However/RB ,/, natural/JJ language/NN exhibits/VBZ syntactic/JJ properties/NNS that/WDT would/MD naturally/RB combine/VB words/NNS to/TO phrases/NNS ./.
+We/PRP introduce/VBP the/DT Tree/NNP -/HYPH LSTM/NNP ,/, a/DT generalization/NN of/IN LSTMs/NNPS to/IN tree/NN -/HYPH structured/VBN network/NN topologies/NNS ./.
+Tree/NN -/HYPH LSTMs/NNS outperform/VBP all/DT existing/VBG systems/NNS and/CC strong/JJ LSTM/NN baselines/NNS on/IN two/CD tasks/NNS :/: predicting/VBG the/DT semantic/JJ relatedness/NN of/IN two/CD sentences/NNS (/-LRB- SemEval/NNP 2014/CD ,/, Task/NNP 1/CD )/-RRB- and/CC sentiment/NN classification/NN (/-LRB- Stanford/NNP Sentiment/NN Treebank/NNP )/-RRB- ./.

@@ -1,0 +1,9 @@
+The Random Walks (RW) algorithm is one of the most e - cient and easy-to-use probabilistic segmentation methods.
+By combining contrast terms with prior terms, it provides accurate segmentations of medical images in a fully automated manner.
+However, one of the main drawbacks of using the RW algorithm is that its parameters have to be hand-tuned.
+we propose a novel discriminative learning framework that estimates the parameters using a training dataset.
+The main challenge we face is that the training samples are not fully supervised.
+Speci cally, they provide a hard segmentation of the images, instead of a proba-bilistic segmentation.
+We overcome this challenge by treating the optimal probabilistic segmentation that is compatible with the given hard segmentation as a latent variable.
+This allows us to employ the latent support vector machine formulation for parameter estimation.
+We show that our approach signi cantly outperforms the baseline methods on a challenging dataset consisting of real clinical 3D MRI volumes of skeletal muscles.

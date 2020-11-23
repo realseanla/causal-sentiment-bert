@@ -1,0 +1,5 @@
+In this paper, we introduce a new notion of algorithmic stability called typical stability.
+When our goal is to release real-valued queries (statistics) computed over a dataset, this notion does not require the queries to be of bounded sensitivity -- a condition that is generally assumed under a standard notion of algorithmic stability known as differential privacy [DMNS06, Dwo06].
+Instead, typical stability requires the output of the query, when computed on a dataset drawn from the underlying distribution, to be "well-concentrated" around its expected value with respect to that distribution.
+Typical stability can also be motivated as an alternative definition for database privacy (in such case, we call it typical privacy).
+Like differential privacy, this notion enjoys several important properties including robustness to post-processing and adaptive composition.

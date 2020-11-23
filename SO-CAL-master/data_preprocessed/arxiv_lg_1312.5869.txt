@@ -1,0 +1,6 @@
+Recent/JJ non-linear/JJ feature/NN selection/NN approaches/VBZ employing/VBG greedy/JJ optimisation/NN of/IN Centred/NNP Kernel/NNP Target/NNP Alignment/NNP (/-LRB- KTA/NNP )/-RRB- exhibit/VBP strong/JJ results/NNS in/IN terms/NNS of/IN generalisation/NN accuracy/NN and/CC sparsity/NN ./.
+However/RB ,/, they/PRP are/VBP computationally/RB prohibitive/JJ for/IN large/JJ datasets/NNS ./.
+We/PRP propose/VBP randSel/NNP ,/, a/DT randomised/VBN feature/NN selection/NN algorithm/NN ,/, with/IN attractive/JJ scaling/NN properties/NNS ./.
+Our/PRP$ theoretical/JJ analysis/NN of/IN randSel/NN provides/VBZ strong/JJ probabilistic/JJ guarantees/NNS for/IN correct/JJ identification/NN of/IN relevant/JJ features/NNS ./.
+RandSel/NNP 's/POS characteristics/NNS make/VBP it/PRP an/DT ideal/JJ candidate/NN for/IN identifying/VBG informative/JJ learned/VBN representations/NNS ./.
+We/PRP 've/VBP conducted/VBN experimentation/NN to/TO establish/VB the/DT performance/NN of/IN this/DT approach/NN ,/, and/CC present/JJ encouraging/JJ results/NNS ,/, including/VBG a/DT 3rd/JJ position/NN result/NN in/IN the/DT recent/JJ ICML/NN black/JJ box/NN learning/NN challenge/NN as/RB well/RB as/IN competitive/JJ results/NNS for/IN signal/NN peptide/NN prediction/NN ,/, an/DT important/JJ problem/NN in/IN bioinformatics/NN ./.

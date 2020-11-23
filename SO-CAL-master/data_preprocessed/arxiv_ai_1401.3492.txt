@@ -1,0 +1,8 @@
+The/DT identification/NN of/IN performance/NN -/HYPH optimizing/VBG parameter/NN settings/NNS is/VBZ an/DT important/JJ part/NN of/IN the/DT development/NN and/CC application/NN of/IN algorithms/NNS ./.
+We/PRP describe/VBP an/DT automatic/JJ framework/NN for/IN this/DT algorithm/NN configuration/NN problem/NN ./.
+More/JJR formally/RB ,/, we/PRP provide/VBP methods/NNS for/IN optimizing/VBG a/DT target/NN algorithm/NN 's/POS performance/NN on/IN a/DT given/VBN class/NN of/IN problem/NN instances/NNS by/IN varying/VBG a/DT set/NN of/IN ordinal/JJ and/CC //HYPH or/CC categorical/JJ parameters/NNS ./.
+We/PRP review/VBP a/DT family/NN of/IN local/JJ -/HYPH search/NN -/HYPH based/VBN algorithm/NN configuration/NN procedures/NNS and/CC present/JJ novel/JJ techniques/NNS for/IN accelerating/VBG them/PRP by/IN adaptively/RB limiting/VBG the/DT time/NN spent/VBN for/IN evaluating/VBG individual/JJ configurations/NNS ./.
+We/PRP describe/VBP the/DT results/NNS of/IN a/DT comprehensive/JJ experimental/JJ evaluation/NN of/IN our/PRP$ methods/NNS ,/, based/VBN on/IN the/DT configuration/NN of/IN prominent/JJ complete/JJ and/CC incomplete/JJ algorithms/NNS for/IN SAT/NNP ./.
+We/PRP also/RB present/VBP what/WP is/VBZ ,/, to/IN our/PRP$ knowledge/NN ,/, the/DT first/JJ published/VBN work/NN on/IN automatically/RB configuring/VBG the/DT CPLEX/NN mixed/JJ integer/NN programming/NN solver/NN ./.
+All/PDT the/DT algorithms/NNS we/PRP considered/VBD had/VBD default/NN parameter/NN settings/NNS that/WDT were/VBD manually/RB identified/VBN with/IN considerable/JJ effort/NN ./.
+Nevertheless/RB ,/, using/VBG our/PRP$ automated/VBN algorithm/NN configuration/NN procedures/NNS ,/, we/PRP achieved/VBD substantial/JJ and/CC consistent/JJ performance/NN improvements/NNS ./.

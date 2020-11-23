@@ -1,0 +1,5 @@
+Convolutional/JJ neural/JJ networks/NNS with/IN many/JJ layers/NNS have/VBP recently/RB been/VBN shown/VBN to/TO achieve/VB excellent/JJ results/NNS on/IN many/JJ high/JJ -/HYPH level/NN tasks/NNS such/JJ as/IN image/NN classification/NN ,/, object/NN detection/NN and/CC more/RBR recently/RB also/RB semantic/JJ segmentation/NN ./.
+Particularly/RB for/IN semantic/JJ segmentation/NN ,/, a/DT two/CD -/HYPH stage/NN procedure/NN is/VBZ often/RB employed/VBN ./.
+Hereby/RB ,/, convolutional/JJ networks/NNS are/VBP trained/VBN to/TO provide/VB good/JJ local/JJ pixel-wise/NN features/NNS for/IN the/DT second/JJ step/NN being/VBG traditionally/RB a/DT more/RBR global/JJ graphical/JJ model/NN ./.
+In/IN this/DT work/NN we/PRP unify/VBP this/DT two/CD -/HYPH stage/NN process/NN into/IN a/DT single/JJ joint/JJ training/NN algorithm/NN ./.
+We/PRP demonstrate/VBP our/PRP$ method/NN on/IN the/DT semantic/JJ image/NN segmentation/NN task/NN and/CC show/VBP encouraging/JJ results/NNS on/IN the/DT challenging/JJ PASCAL/NNP VOC/NNP 2012/CD dataset/NN ./.

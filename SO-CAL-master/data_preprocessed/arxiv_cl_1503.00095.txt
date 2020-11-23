@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT novel/JJ learning/NN method/NN for/IN word/NN embeddings/NNS designed/VBN for/IN relation/NN classification/NN ./.
+Our/PRP$ word/NN embeddings/NNS are/VBP trained/VBN by/IN predicting/VBG words/NNS between/IN noun/NN pairs/NNS using/VBG lexical/JJ relation/NN -/HYPH specific/JJ features/NNS on/IN a/DT large/JJ unlabeled/JJ corpus/NN ./.
+This/DT allows/VBZ us/PRP to/TO explicitly/RB incorporate/VB relation/NN -/HYPH specific/JJ information/NN into/IN the/DT word/NN embeddings/NNS ./.
+The/DT learned/VBN word/NN embeddings/NNS are/VBP then/RB used/VBN to/TO construct/VB feature/NN vectors/NNS for/IN a/DT relation/NN classification/NN model/NN ./.
+On/IN a/DT well/RB -/HYPH established/VBN semantic/JJ relation/NN classification/NN task/NN ,/, our/PRP$ method/NN significantly/RB outperforms/VBZ a/DT baseline/NN based/VBN on/IN a/DT previously/RB introduced/VBN word/NN embedding/NN method/NN ,/, and/CC compares/VBZ favorably/RB to/IN previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS without/IN syntactic/JJ information/NN or/CC manually/RB constructed/VBN external/JJ resources/NNS ./.
+Furthermore/RB ,/, when/WRB incorporating/VBG external/JJ resources/NNS ,/, our/PRP$ method/NN outperforms/VBZ the/DT previous/JJ state/NN of/IN the/DT art/NN ./.

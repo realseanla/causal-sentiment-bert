@@ -1,0 +1,9 @@
+The success of the application of machine-learning techniques to compilation tasks can be largely attributed to the recent development and advancement of program characterization, a process that numerically or structurally quantifies a target program.
+While great achievements have been made in identifying key features to characterize programs, choosing a correct set of features for a specific compiler task remains an ad hoc procedure.
+In order to guarantee a comprehensive coverage of features, compiler engineers usually need to select excessive number of features.
+This, unfortunately, would potentially lead to a selection of multiple similar features, which in turn could create a new problem of bias that emphasizes certain aspects of a program's characteristics, hence reducing the accuracy and performance of the target compiler task.
+In this paper, we propose FEAture Selection for compilation Tasks (FEAST), an efficient and automated framework for determining the most relevant and representative features from a feature pool.
+Specifically, FEAST utilizes widely used statistics and machine-learning tools, including LASSO, sequential forward and backward selection, for automatic feature selection, and can in general be applied to any numerical feature set.
+This paper further proposes an automated approach to compiler parameter assignment for assessing the performance of FEAST.
+Intensive experimental results demonstrate that, under the compiler parameter assignment task, FEAST can achieve comparable results with about 18 percent of features that are automatically selected from the entire feature pool.
+We also inspect these selected features and discuss their roles in program execution.

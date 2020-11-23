@@ -1,0 +1,9 @@
+We/PRP consider/VBP the/DT problem/NN of/IN repeatedly/RB solving/VBG a/DT variant/NN of/IN the/DT same/JJ dynamic/JJ programming/NN problem/NN in/IN successive/JJ trials/NNS ./.
+An/DT instance/NN of/IN the/DT type/NN of/IN problems/NNS we/PRP consider/VBP is/VBZ to/TO find/VB the/DT optimal/JJ binary/JJ search/NN tree/NN ./.
+At/IN the/DT beginning/NN of/IN each/DT trial/NN ,/, the/DT learner/NN probabilistically/RB chooses/VBZ a/DT tree/NN with/IN the/DT n/NN keys/NNS at/IN the/DT internal/JJ nodes/NNS and/CC the/DT n/NN 1/CD gaps/NN between/IN keys/NNS at/IN the/DT leaves/NNS ./.
+It/PRP is/VBZ then/RB told/VBD the/DT frequencies/NNS of/IN the/DT keys/NNS and/CC gaps/NNS and/CC is/VBZ charged/VBN by/IN the/DT average/JJ search/NN cost/NN for/IN the/DT chosen/VBN tree/NN ./.
+The/DT problem/NN is/VBZ online/JJ because/IN the/DT frequencies/NNS can/MD change/VB between/IN trials/NNS ./.
+The/DT goal/NN is/VBZ to/TO develop/VB algorithms/NNS with/IN the/DT property/NN that/IN their/PRP$ total/JJ average/JJ search/NN cost/NN (/-LRB- loss/NN )/-RRB- in/IN all/DT trials/NNS is/VBZ close/JJ to/IN the/DT total/JJ loss/NN of/IN the/DT best/JJS tree/NN chosen/VBN in/IN hind/NN sight/NN for/IN all/DT trials/NNS ./.
+The/DT challenge/NN ,/, of/IN course/NN ,/, is/VBZ that/IN the/DT algorithm/NN has/VBZ to/TO deal/VB with/IN exponential/JJ number/NN of/IN trees/NNS ./.
+We/PRP develop/VBP a/DT methodology/NN for/IN tackling/VBG such/JJ problems/NNS for/IN a/DT wide/JJ class/NN of/IN dynamic/JJ programming/NN algorithms/NNS ./.
+Our/PRP$ framework/NN allows/VBZ us/PRP to/TO extend/VB online/JJ learning/NN algorithms/NNS like/IN Hedge/NNP and/CC Component/NNP Hedge/NNP to/IN a/DT significantly/RB wider/JJR class/NN of/IN combinatorial/JJ objects/NNS than/IN was/VBD possible/JJ before/IN ./.

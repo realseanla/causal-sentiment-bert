@@ -1,0 +1,6 @@
+We/PRP address/VBP a/DT problem/NN of/IN area/NN protection/NN in/IN graph/NN -/HYPH based/VBN scenarios/NNS with/IN multiple/JJ mobile/JJ agents/NNS where/WRB connectivity/NN is/VBZ maintained/VBN among/IN agents/NNS to/TO ensure/VB they/PRP can/MD communicate/VB ./.
+The/DT problem/NN consists/VBZ of/IN two/CD adversarial/JJ teams/NNS of/IN agents/NNS that/WDT move/VBP in/IN an/DT undirected/JJ graph/NN shared/VBN by/IN both/DT teams/NNS ./.
+Agents/NNS are/VBP placed/VBN in/IN vertices/NNS of/IN the/DT graph/NN ;/: at/IN most/RBS one/CD agent/NN can/MD occupy/VB a/DT vertex/NN ;/: and/CC they/PRP can/MD move/VB into/IN adjacent/JJ vertices/NNS in/IN a/DT conflict/NN free/JJ way/NN ./.
+Teams/NNS have/VBP asymmetric/JJ goals/NNS :/: the/DT aim/NN of/IN one/CD team/NN -/HYPH attackers/NNS -/, is/VBZ to/TO invade/VB into/IN given/VBN area/NN while/IN the/DT aim/NN of/IN the/DT opponent/NN team/NN -/HYPH defenders/NNS -/, is/VBZ to/TO protect/VB the/DT area/NN from/IN being/VBG entered/VBN by/IN attackers/NNS by/IN occupying/VBG selected/VBN vertices/NNS ./.
+The/DT team/NN of/IN defenders/NNS need/VBP to/TO maintain/VB connectivity/NN of/IN vertices/NNS occupied/VBN by/IN its/PRP$ own/JJ agents/NNS in/IN a/DT visibility/NN graph/NN ./.
+The/DT visibility/NN graph/NN models/NNS possibility/NN of/IN communication/NN between/IN pairs/NNS of/IN vertices/NNS ./.

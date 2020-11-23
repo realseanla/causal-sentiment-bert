@@ -1,0 +1,9 @@
+One/CD of/IN the/DT basic/JJ tasks/NNS which/WDT is/VBZ responded/VBN for/IN head/NN of/IN each/DT university/NN department/NN ,/, is/VBZ employing/VBG lecturers/NNS based/VBN on/IN some/DT default/NN factors/NNS such/JJ as/IN experience/NN ,/, evidences/NNS ,/, qualifies/VBZ and/CC etc/FW ./.
+In/IN this/DT respect/NN ,/, to/TO help/VB the/DT heads/NNS ,/, some/DT automatic/JJ systems/NNS have/VBP been/VBN proposed/VBN until/IN now/RB using/VBG machine/NN learning/NN methods/NNS ,/, decision/NN support/NN systems/NNS (/-LRB- DSS/NN )/-RRB- and/CC etc/FW ./.
+According/VBG to/IN advantages/NNS and/CC disadvantages/NNS of/IN the/DT previous/JJ methods/NNS ,/, a/DT full/JJ automatic/JJ system/NN is/VBZ designed/VBN in/IN this/DT paper/NN using/VBG expert/NN systems/NNS ./.
+The/DT proposed/VBN system/NN is/VBZ included/VBN two/CD main/JJ steps/NNS ./.
+In/IN the/DT first/JJ one/CD ,/, the/DT human/JJ expert/NN 's/POS knowledge/NN is/VBZ designed/VBN as/IN decision/NN trees/NNS ./.
+The/DT second/JJ step/NN is/VBZ included/VBN an/DT expert/NN system/NN which/WDT is/VBZ evaluated/VBN using/VBG extracted/VBN rules/NNS of/IN these/DT decision/NN trees/NNS ./.
+Also/RB ,/, to/TO improve/VB the/DT quality/NN of/IN the/DT proposed/VBN system/NN ,/, a/DT majority/NN voting/NN algorithm/NN is/VBZ proposed/VBN as/IN post/NN processing/NN step/NN to/TO choose/VB the/DT best/JJS lecturer/NN which/WDT satisfied/VBD more/RBR expert/NN 's/POS decision/NN trees/NNS for/IN each/DT course/NN ./.
+The/DT results/NNS are/VBP shown/VBN that/IN the/DT designed/VBN system/NN average/JJ accuracy/NN is/VBZ 78.88/CD ./.
+Low/JJ computational/JJ complexity/NN ,/, simplicity/NN to/IN program/NN and/CC are/VBP some/DT of/IN other/JJ advantages/NNS of/IN the/DT proposed/VBN system/NN ./.

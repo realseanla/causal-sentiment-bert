@@ -1,0 +1,8 @@
+Word/NNP alignment/NN is/VBZ an/DT important/JJ natural/JJ language/NN processing/NN task/NN that/WDT indicates/VBZ the/DT correspondence/NN between/IN natural/JJ languages/NNS ./.
+Recently/RB ,/, unsupervised/JJ learning/NN of/IN log/NN -/HYPH linear/JJ models/NNS for/IN word/NN alignment/NN has/VBZ received/VBN considerable/JJ attention/NN as/IN it/PRP combines/VBZ the/DT merits/NNS of/IN generative/JJ and/CC discriminative/JJ approaches/NNS ./.
+However/RB ,/, a/DT major/JJ challenge/NN still/RB remains/VBZ :/: it/PRP is/VBZ intractable/JJ to/TO calculate/VB the/DT expectations/NNS of/IN non-local/JJ features/NNS that/WDT are/VBP critical/JJ for/IN capturing/VBG the/DT divergence/NN between/IN natural/JJ languages/NNS ./.
+We/PRP propose/VBP a/DT contrastive/JJ approach/NN that/WDT aims/VBZ to/TO differentiate/VB observed/VBN training/NN examples/NNS from/IN noises/NNS ./.
+It/PRP not/RB only/RB introduces/VBZ prior/JJ knowledge/NN to/TO guide/VB unsupervised/JJ learning/NN but/CC also/RB cancels/VBZ out/RP partition/NN functions/NNS ./.
+Based/VBN on/IN the/DT observation/NN that/IN the/DT probability/NN mass/NN of/IN log/NN -/HYPH linear/JJ models/NNS for/IN word/NN alignment/NN is/VBZ usually/RB highly/RB concentrated/JJ ,/, we/PRP propose/VBP to/TO use/VB top/JJ -/HYPH n/NN alignments/NNS to/TO approximate/VB the/DT expectations/NNS with/IN respect/NN to/IN posterior/JJ distributions/NNS ./.
+This/DT allows/VBZ for/IN efficient/JJ and/CC accurate/JJ calculation/NN of/IN expectations/NNS of/IN non-local/JJ features/NNS ./.
+Experiments/NNS show/VBP that/IN our/PRP$ approach/NN achieves/VBZ significant/JJ improvements/NNS over/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN unsupervised/JJ word/NN alignment/NN methods/NNS ./.

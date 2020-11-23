@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP report/VBP a/DT knowledge/NN -/HYPH based/VBN method/NN for/IN Word/NNP Sense/NN Disambiguation/NN in/IN the/DT domains/NNS of/IN biomedical/JJ and/CC clinical/JJ text/NN ./.
+We/PRP combine/VBP word/NN representations/NNS created/VBN on/IN large/JJ corpora/NNS with/IN a/DT small/JJ number/NN of/IN definitions/NNS from/IN the/DT UMLS/NNP to/TO create/VB concept/NN representations/NNS ,/, which/WDT we/PRP then/RB compare/VBP to/IN representations/NNS of/IN the/DT context/NN of/IN ambiguous/JJ terms/NNS ./.
+Using/VBG no/DT relational/JJ information/NN ,/, we/PRP obtain/VBP comparable/JJ performance/NN to/IN previous/JJ approaches/NNS on/IN the/DT MSH/NNP -/HYPH WSD/NNP dataset/NN ,/, which/WDT is/VBZ a/DT well/RB -/HYPH known/VBN dataset/NN in/IN the/DT biomedical/JJ domain/NN ./.
+Additionally/RB ,/, our/PRP$ method/NN is/VBZ fast/JJ and/CC easy/JJ to/TO set/VB up/RP and/CC extend/VB to/IN other/JJ domains/NNS ./.
+Supplementary/JJ materials/NNS ,/, including/VBG source/NN code/NN ,/, can/MD be/VB found/VBN at/IN https/NNS :/SYM //SYM //SYM github.com/clips/SYM //SYM yarn/NN

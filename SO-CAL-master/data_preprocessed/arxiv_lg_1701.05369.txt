@@ -1,0 +1,6 @@
+We/PRP explore/VBP recently/RB proposed/VBN variational/JJ dropout/NN technique/NN which/WDT provided/VBD an/DT elegant/JJ Bayesian/JJ interpretation/NN to/IN dropout/NN ./.
+We/PRP extend/VBP variational/JJ dropout/NN to/IN the/DT case/NN when/WRB dropout/NN rate/NN is/VBZ unknown/JJ and/CC show/VBP that/IN it/PRP can/MD be/VB found/VBN by/IN optimizing/VBG evidence/NN variational/JJ lower/JJR bound/JJ ./.
+We/PRP show/VBP that/IN it/PRP is/VBZ possible/JJ to/TO assign/VB and/CC find/VB individual/JJ dropout/NN rates/NNS to/IN each/DT connection/NN in/IN DNN/NNP ./.
+Interestingly/RB such/JJ assignment/NN leads/VBZ to/IN extremely/RB sparse/JJ solutions/NNS both/CC in/IN fully/RB -/HYPH connected/VBN and/CC convolutional/JJ layers/NNS ./.
+This/DT effect/NN is/VBZ similar/JJ to/IN automatic/JJ relevance/NN determination/NN (/-LRB- ARD/NNP )/-RRB- effect/NN in/IN empirical/JJ Bayes/NNS but/CC has/VBZ a/DT number/NN of/IN advantages/NNS ./.
+We/PRP report/VBP up/RP to/IN 128/CD fold/RB compression/NN of/IN popular/JJ architectures/NNS without/IN a/DT large/JJ loss/NN of/IN accuracy/NN providing/VBG additional/JJ evidence/NN to/IN the/DT fact/NN that/IN modern/JJ deep/JJ architectures/NNS are/VBP very/RB redundant/JJ ./.

@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP bounded/VBN action/NN theories/NNS in/IN the/DT situation/NN calculus/NN ./.
+A/DT bounded/VBD action/NN theory/NN is/VBZ one/CD which/WDT entails/VBZ that/IN ,/, in/IN every/DT situation/NN ,/, the/DT number/NN of/IN object/NN tuples/NNS in/IN the/DT extension/NN of/IN fluents/NNS is/VBZ bounded/VBN by/IN a/DT given/VBN constant/NN ,/, although/IN such/JJ extensions/NNS are/VBP in/IN general/JJ different/JJ across/IN the/DT infinitely/RB many/JJ situations/NNS ./.
+We/PRP argue/VBP that/IN such/JJ theories/NNS are/VBP common/JJ in/IN applications/NNS ,/, either/CC because/IN facts/NNS do/VBP not/RB persist/VB indefinitely/RB or/CC because/IN the/DT agent/NN eventually/RB forgets/VBZ some/DT facts/NNS ,/, as/IN new/JJ ones/NNS are/VBP learnt/VBN ./.
+We/PRP discuss/VBP various/JJ classes/NNS of/IN bounded/VBN action/NN theories/NNS ./.
+Then/RB we/PRP show/VBP that/IN verification/NN of/IN a/DT powerful/JJ first/JJ -/HYPH order/NN variant/NN of/IN the/DT mu/NN -/HYPH calculus/NN is/VBZ decidable/JJ for/IN such/JJ theories/NNS ./.
+Notably/RB ,/, this/DT variant/NN supports/VBZ a/DT controlled/VBN form/NN of/IN quantification/NN across/IN situations/NNS ./.
+We/PRP also/RB show/VBP that/IN through/IN verification/NN ,/, we/PRP can/MD actually/RB check/VB whether/IN an/DT arbitrary/JJ action/NN theory/NN maintains/VBZ boundedness/NN ./.

@@ -1,0 +1,8 @@
+Learning/VBG to/TO predict/VB multi-label/JJ outputs/NNS is/VBZ challenging/JJ ,/, but/CC in/IN many/JJ problems/NNS there/EX is/VBZ a/DT natural/JJ metric/NN on/IN the/DT outputs/NNS that/WDT can/MD be/VB used/VBN to/TO improve/VB predictions/NNS ./.
+In/IN this/DT paper/NN we/PRP develop/VBP a/DT loss/NN function/NN for/IN multi-label/JJ learning/NN ,/, based/VBN on/IN the/DT Wasserstein/NNP distance/NN ./.
+The/DT Wasserstein/NNP distance/NN provides/VBZ a/DT natural/JJ notion/NN of/IN dissimilarity/NN for/IN probability/NN measures/NNS ./.
+Although/IN optimizing/VBG with/IN respect/NN to/IN the/DT exact/JJ Wasserstein/NNP distance/NN is/VBZ costly/JJ ,/, recent/JJ work/NN has/VBZ described/VBN a/DT regularized/VBN approximation/NN that/WDT is/VBZ efficiently/RB computed/VBN ./.
+We/PRP describe/VBP efficient/JJ learning/NN algorithms/NNS based/VBN on/IN this/DT regularization/NN ,/, extending/VBG the/DT Wasserstein/NNP loss/NN from/IN probability/NN measures/NNS to/TO unnormalized/JJ measures/NNS ./.
+We/PRP also/RB describe/VBP a/DT statistical/JJ learning/NN bound/VBN for/IN the/DT loss/NN and/CC show/NN connections/NNS with/IN the/DT total/JJ variation/NN norm/NN and/CC the/DT Jaccard/NNP index/NN ./.
+The/DT Wasserstein/NNP loss/NN can/MD encourage/VB smoothness/NN of/IN the/DT predictions/NNS with/IN respect/NN to/IN a/DT chosen/VBN metric/JJ on/IN the/DT output/NN space/NN ./.
+We/PRP demonstrate/VBP this/DT property/NN on/IN a/DT real/JJ -/HYPH data/NN tag/NN prediction/NN problem/NN ,/, using/VBG the/DT Yahoo/NNP Flickr/NNP Creative/NNP Commons/NNP dataset/NN ,/, achieving/VBG superior/JJ performance/NN over/IN a/DT baseline/NN that/WDT does/VBZ n't/RB use/VB the/DT metric/JJ ./.

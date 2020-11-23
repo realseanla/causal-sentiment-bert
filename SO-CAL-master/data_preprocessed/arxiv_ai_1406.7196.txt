@@ -1,0 +1,7 @@
+On/IN the/DT one/CD hand/NN ,/, Constraint/NN Satisfaction/NN Problems/NNS allow/VBP one/CD to/IN declaratively/RB model/NN problems/NNS ./.
+On/IN the/DT other/JJ hand/NN ,/, propositional/JJ satisfiability/NN problem/NN (/-LRB- SAT/NN )/-RRB- solvers/NNS can/MD handle/VB huge/JJ SAT/NN instances/NNS ./.
+We/PRP thus/RB present/VBP a/DT technique/NN to/IN declaratively/RB model/NN set/VBN constraint/NN problems/NNS and/CC to/TO encode/VB them/PRP automatically/RB into/IN SAT/NN instances/NNS ./.
+We/PRP apply/VBP our/PRP$ technique/NN to/IN the/DT Social/NNP Golfer/NNP Problem/NNP and/CC we/PRP also/RB use/VBP it/PRP to/TO break/VB symmetries/NNS of/IN the/DT problem/NN ./.
+Our/PRP$ technique/NN is/VBZ simpler/JJR ,/, more/RBR declarative/JJ ,/, and/CC less/JJR error/NN -/HYPH prone/JJ than/IN direct/JJ and/CC improved/JJ hand/NN modeling/NN ./.
+The/DT SAT/NN instances/NNS that/WDT we/PRP automatically/RB generate/VBP contain/VBP less/JJR clauses/NNS than/IN improved/JJ hand/NN -/HYPH written/VBN instances/NNS such/JJ as/IN in/IN [/-LRB- 20/CD ]/-RRB- ,/, and/CC with/IN unit/NN propagation/NN they/PRP also/RB contain/VBP less/RBR variables/NNS ./.
+Moreover/RB ,/, they/PRP are/VBP well/RB -/HYPH suited/VBN for/IN SAT/NN solvers/NNS and/CC they/PRP are/VBP solved/VBN faster/RBR as/IN shown/VBN when/WRB solving/VBG difficult/JJ instances/NNS of/IN the/DT Social/NNP Golfer/NNP Problem/NNP ./.

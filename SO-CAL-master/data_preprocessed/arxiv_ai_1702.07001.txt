@@ -1,0 +1,12 @@
+Devising/VBG an/DT optimal/JJ strategy/NN for/IN navigation/NN in/IN a/DT partially/RB observable/JJ environment/NN is/VBZ one/CD of/IN the/DT key/JJ objectives/NNS in/IN AI/NN ./.
+One/CD of/IN the/DT problem/NN in/IN this/DT context/NN is/VBZ the/DT Canadian/JJ Traveler/NN Problem/NN (/-LRB- CTP/NN )/-RRB- ./.
+CTP/NN is/VBZ a/DT navigation/NN problem/NN where/WRB an/DT agent/NN is/VBZ tasked/VBN to/TO travel/VB from/IN source/NN to/TO target/VB in/IN a/DT partially/RB observable/JJ weighted/JJ graph/NN ,/, whose/WP$ edge/NN might/MD be/VB blocked/VBN with/IN a/DT certain/JJ probability/NN and/CC observing/VBG such/JJ blockage/NN occurs/VBZ only/RB when/WRB reaching/VBG upon/IN one/CD of/IN the/DT edges/NNS end/VBP points/NNS ./.
+The/DT goal/NN is/VBZ to/TO find/VB a/DT strategy/NN that/WDT minimizes/VBZ the/DT expected/JJ travel/NN cost/NN ./.
+The/DT problem/NN is/VBZ known/VBN to/TO be/VB P$/NNP \/SYM #/SYM $/$ hard/RB ./.
+In/IN this/DT work/NN we/PRP study/VBP the/DT CTP/NN theoretically/RB and/CC empirically/RB ./.
+First/RB ,/, we/PRP study/VBP the/DT Dep/NNP -/HYPH CTP/NNP ,/, a/DT CTP/NN variant/NN we/PRP introduce/VBP which/WDT assumes/VBZ dependencies/NNS between/IN the/DT edges/NNS status/NN ./.
+We/PRP show/VBP that/IN Dep/NN -/HYPH CTP/NN is/VBZ intractable/JJ ,/, and/CC further/RB we/PRP analyze/VBP two/CD of/IN its/PRP$ subclasses/NNS on/IN disjoint/NN paths/NNS graph/NN ./.
+Second/RB ,/, we/PRP develop/VBP a/DT general/JJ algorithm/NN Gen/NNP -/HYPH PAO/NNP that/IN optimally/RB solve/VB the/DT CTP/NN ./.
+Gen/NNP -/HYPH PAO/NNP is/VBZ capable/JJ of/IN solving/VBG two/CD other/JJ types/NNS of/IN CTP/NNP called/VBD Sensing/VBG -/HYPH CTP/NN and/CC Expensive/JJ -/HYPH Edges/NNS CTP/NN ./.
+Since/IN the/DT CTP/NN is/VBZ intractable/JJ ,/, Gen/NNP -/HYPH PAO/NNP use/VB some/DT pruning/NN methods/NNS to/TO reduce/VB the/DT space/NN search/NN for/IN the/DT optimal/JJ solution/NN ./.
+We/PRP also/RB define/VBP some/DT variants/NNS of/IN Gen/NNP -/HYPH PAO/NNP ,/, compare/VBP their/PRP$ performance/NN and/CC show/VB some/DT benefits/NNS of/IN Gen/NNP -/HYPH PAO/NNP over/IN existing/VBG work/NN ./.

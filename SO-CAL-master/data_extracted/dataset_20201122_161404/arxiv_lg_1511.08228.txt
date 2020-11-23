@@ -1,0 +1,4 @@
+Learning an algorithm from examples is a fundamental problem that has been widely studied.
+Recently it has been addressed using neural networks, in particular by Neural Turing Machines (NTMs).
+These are fully differentiable computers that use backpropagation to learn their own programming.
+Despite their appeal NTMs have a weakness that is caused by their sequential nature: they cannot be parallelized and are are hard to train due to their large depth when unfolded.

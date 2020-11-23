@@ -1,0 +1,4 @@
+This/DT paper/NN focuses/VBZ on/IN detecting/VBG anomalies/NNS in/IN a/DT digital/JJ video/NN broadcasting/NN (/-LRB- DVB/NN )/-RRB- system/NN from/IN providers/NNS '/POS perspective/NN ./.
+We/PRP learn/VBP a/DT probabilistic/JJ deterministic/JJ real/JJ timed/VBN automaton/NN profiling/NN benign/JJ behavior/NN of/IN encryption/NN control/NN in/IN the/DT DVB/NN control/NN access/NN system/NN ./.
+This/DT profile/NN is/VBZ used/VBN as/IN a/DT one/CD -/HYPH class/NN classifier/NN ./.
+Anomalous/JJ items/NNS in/IN a/DT testing/NN sequence/NN are/VBP detected/VBN when/WRB the/DT sequence/NN is/VBZ not/RB accepted/VBN by/IN the/DT learned/VBN model/NN ./.

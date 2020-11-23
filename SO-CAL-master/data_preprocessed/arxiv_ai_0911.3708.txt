@@ -1,0 +1,8 @@
+For/IN many/JJ voting/NN rules/NNS ,/, it/PRP is/VBZ NP/NNP -/HYPH hard/JJ to/TO compute/VB a/DT successful/JJ manipulation/NN ./.
+However/RB ,/, NP/NN -/HYPH hardness/NN only/JJ bounds/NNS the/DT worst/RBS -/HYPH case/NN complexity/NN ./.
+Recent/JJ theoretical/JJ results/NNS suggest/VBP that/IN manipulation/NN may/MD often/RB be/VB easy/JJ in/IN practice/NN ./.
+We/PRP study/VBP empirically/RB the/DT cost/NN of/IN manipulating/VBG the/DT single/JJ transferable/JJ vote/NN (/-LRB- STV/NNP )/-RRB- rule/NN ./.
+This/DT was/VBD one/CD of/IN the/DT first/JJ rules/NNS shown/VBN to/TO be/VB NP/NNP -/HYPH hard/JJ to/TO manipulate/VB ./.
+It/PRP also/RB appears/VBZ to/TO be/VB one/CD of/IN the/DT harder/JJR rules/NNS to/TO manipulate/VB since/IN it/PRP involves/VBZ multiple/JJ rounds/NNS and/CC since/IN ,/, unlike/IN many/JJ other/JJ rules/NNS ,/, it/PRP is/VBZ NP/NNP -/HYPH hard/JJ for/IN a/DT single/JJ agent/NN to/TO manipulate/VB without/IN weights/NNS on/IN the/DT votes/NNS or/CC uncertainty/NN about/IN how/WRB the/DT other/JJ agents/NNS have/VBP voted/VBN ./.
+In/IN almost/RB every/DT election/NN in/IN our/PRP$ experiments/NNS ,/, it/PRP was/VBD easy/JJ to/TO compute/VB how/WRB a/DT single/JJ agent/NN could/MD manipulate/VB the/DT election/NN or/CC to/TO prove/VB that/IN manipulation/NN by/IN a/DT single/JJ agent/NN was/VBD impossible/JJ ./.
+It/PRP remains/VBZ an/DT interesting/JJ open/JJ question/NN if/IN manipulation/NN by/IN a/DT coalition/NN of/IN agents/NNS is/VBZ hard/JJ to/TO compute/VB in/IN practice/NN ./.

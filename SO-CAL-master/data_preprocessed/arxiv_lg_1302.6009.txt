@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT novel/JJ approach/NN for/IN learning/VBG an/DT HMM/NN whose/WP$ outputs/NNS are/VBP distributed/VBN according/VBG to/IN a/DT parametric/JJ family/NN ./.
+This/DT is/VBZ done/VBN by/IN {/-LRB- \/SYM em/PRP decoupling/VBG }/-RRB- the/DT learning/NN task/NN into/IN two/CD steps/NNS :/: first/JJ estimating/VBG the/DT output/NN parameters/NNS ,/, and/CC then/RB estimating/VBG the/DT hidden/JJ states/NNS transition/NN probabilities/NNS ./.
+The/DT first/JJ step/NN is/VBZ accomplished/VBN by/IN fitting/VBG a/DT mixture/NN model/NN to/IN the/DT output/NN stationary/JJ distribution/NN ./.
+Given/VBN the/DT parameters/NNS of/IN this/DT mixture/NN model/NN ,/, the/DT second/JJ step/NN is/VBZ formulated/VBN as/IN the/DT solution/NN of/IN an/DT easily/RB solvable/JJ convex/NN quadratic/JJ program/NN ./.
+We/PRP provide/VBP an/DT error/NN analysis/NN for/IN the/DT estimated/VBN transition/NN probabilities/NNS and/CC show/VBP they/PRP are/VBP robust/JJ to/IN small/JJ perturbations/NNS in/IN the/DT estimates/NNS of/IN the/DT mixture/NN parameters/NNS ./.
+Finally/RB ,/, we/PRP support/VBP our/PRP$ analysis/NN with/IN some/DT encouraging/JJ empirical/JJ results/NNS ./.

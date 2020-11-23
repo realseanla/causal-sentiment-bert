@@ -1,0 +1,6 @@
+Most machine learning models are static, but the world is dynamic, and increasing online deployment of learned models gives increasing urgency to the development of efficient and effective mechanisms to address learning in the context of non-stationary distributions, or as it is commonly called concept drift.
+However, the key issue of characterizing the different types of drift that can occur has not previously been subjected to rigorous definition and analysis.
+In particular, while some qualitative drift categorizations have been proposed, few have been formally defined, and the quantitative descriptions required for detailed understanding of learner performance have not existed.
+We present the first comprehensive framework for quantitative analysis of drift.
+This supports the development of the first comprehensive set of formal definitions of types of concept drift.
+The formal definitions clarify ambiguities and identify gaps in previous definitions, giving rise to a new comprehensive taxonomy of concept drift types and a solid foundation for research into mechanisms to detect and address concept drift.

@@ -1,0 +1,11 @@
+We/PRP introduce/VBP a/DT method/NN to/TO train/VB Quantized/JJ Neural/JJ Networks/NNS (/-LRB- QNNs/NNS )/-RRB- ---/NFP neural/JJ networks/NNS with/IN extremely/RB low/JJ precision/NN (/-LRB- e.g./FW ,/, 1/CD -/HYPH bit/NN )/-RRB- weights/NNS and/CC activations/NNS ,/, at/IN run/NN -/HYPH time/NN ./.
+At/IN train/NN -/HYPH time/NN the/DT quantized/JJ weights/NNS and/CC activations/NNS are/VBP used/VBN for/IN computing/VBG the/DT parameter/NN gradients/NNS ./.
+During/IN the/DT forward/JJ pass/NN ,/, QNNs/NNS drastically/RB reduce/VBP memory/NN size/NN and/CC accesses/VBZ ,/, and/CC replace/VB most/JJS arithmetic/NN operations/NNS with/IN bit-wise/JJ operations/NNS ./.
+As/IN a/DT result/NN ,/, power/NN consumption/NN is/VBZ expected/VBN to/TO be/VB drastically/RB reduced/VBN ./.
+We/PRP trained/VBD QNNs/NNS over/IN the/DT MNIST/NNP ,/, CIFAR/NNP -/HYPH 10/CD ,/, SVHN/NNP and/CC ImageNet/NNP datasets/NNS ./.
+The/DT resulting/VBG QNNs/NNS achieve/VB prediction/NN accuracy/NN comparable/JJ to/IN their/PRP$ 32/CD -/HYPH bit/NN counterparts/NNS ./.
+For/IN example/NN ,/, our/PRP$ quantized/VBN version/NN of/IN AlexNet/NNP with/IN 1/CD -/HYPH bit/NN weights/NNS and/CC 2/CD -/HYPH bit/NN activations/NNS achieves/VBZ $/$ 51/CD \/SYM percent/NN $/$ top/RB -/HYPH 1/CD accuracy/NN ./.
+Moreover/RB ,/, we/PRP quantize/VBP the/DT parameter/NN gradients/NNS to/IN 6/CD -/HYPH bits/NNS as/RB well/RB which/WDT enables/VBZ gradients/NNS computation/NN using/VBG only/RB bit-wise/JJ operation/NN ./.
+Quantized/VBN recurrent/JJ neural/JJ networks/NNS were/VBD tested/VBN over/IN the/DT Penn/NNP Treebank/NNP dataset/NN ,/, and/CC achieved/VBD comparable/JJ accuracy/NN as/IN their/PRP$ 32/CD -/HYPH bit/NN counterparts/NNS using/VBG only/RB 4/CD -/HYPH bits/NNS ./.
+Last/JJ but/CC not/RB least/JJS ,/, we/PRP programmed/VBD a/DT binary/JJ matrix/NN multiplication/NN GPU/NNP kernel/NN with/IN which/WDT it/PRP is/VBZ possible/JJ to/TO run/VB our/PRP$ MNIST/NN QNN/NN 7/CD times/NNS faster/JJR than/IN with/IN an/DT unoptimized/JJ GPU/NNP kernel/NN ,/, without/IN suffering/VBG any/DT loss/NN in/IN classification/NN accuracy/NN ./.
+The/DT QNN/NNP code/NN is/VBZ available/JJ online/RB ./.

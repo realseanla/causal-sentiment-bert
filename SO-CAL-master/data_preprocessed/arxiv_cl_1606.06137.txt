@@ -1,0 +1,6 @@
+We/PRP describe/VBP a/DT method/NN for/IN proactive/JJ information/NN retrieval/NN targeted/VBN at/IN retrieving/VBG relevant/JJ information/NN during/IN a/DT writing/NN task/NN ./.
+In/IN our/PRP$ method/NN ,/, the/DT current/JJ task/NN and/CC the/DT needs/NNS of/IN the/DT user/NN are/VBP estimated/VBN ,/, and/CC the/DT potential/JJ next/JJ steps/NNS are/VBP unobtrusively/RB predicted/VBN based/VBN on/IN the/DT user/NN 's/POS past/JJ actions/NNS ./.
+We/PRP focus/VBP on/IN the/DT task/NN of/IN writing/NN ,/, in/IN which/WDT the/DT user/NN is/VBZ coalescing/VBG previously/RB collected/VBN information/NN into/IN a/DT text/NN ./.
+Our/PRP$ proactive/JJ system/NN automatically/RB recommends/VBZ the/DT user/NN relevant/JJ background/NN information/NN ./.
+The/DT proposed/VBN system/NN incorporates/VBZ text/NN input/NN prediction/NN using/VBG a/DT long/JJ short/JJ -/HYPH term/NN memory/NN (/-LRB- LSTM/NN )/-RRB- network/NN ./.
+We/PRP present/VBP simulations/NNS ,/, which/WDT show/VBP that/IN the/DT system/NN is/VBZ able/JJ to/TO reach/VB higher/JJR precision/NN values/NNS in/IN an/DT exploratory/JJ search/NN setting/NN compared/VBN to/IN both/CC a/DT baseline/NN and/CC a/DT comparison/NN system/NN ./.

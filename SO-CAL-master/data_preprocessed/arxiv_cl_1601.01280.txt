@@ -1,0 +1,6 @@
+Semantic/JJ parsing/VBG aims/NNS at/IN mapping/VBG natural/JJ language/NN to/IN machine/NN interpretable/JJ meaning/NN representations/NNS ./.
+Traditional/JJ approaches/NNS rely/VBP on/IN high/JJ -/HYPH quality/NN lexicons/NNS ,/, manually/RB -/HYPH built/VBN templates/NNS ,/, and/CC linguistic/JJ features/NNS which/WDT are/VBP either/RB domain/NN -/HYPH or/CC representation/NN -/HYPH specific/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT general/JJ method/NN based/VBN on/IN an/DT attention/NN -/HYPH enhanced/VBN sequence/NN -/HYPH to/IN -/HYPH sequence/NN model/NN ./.
+We/PRP encode/VBP input/NN sentences/NNS into/IN vector/NN representations/NNS using/VBG recurrent/JJ neural/JJ networks/NNS ,/, and/CC generate/VBP their/PRP$ logical/JJ forms/NNS by/IN conditioning/VBG the/DT output/NN on/IN the/DT encoding/NN vectors/NNS ./.
+The/DT model/NN is/VBZ trained/VBN in/IN an/DT end/NN -/HYPH to/IN -/HYPH end/NN fashion/NN to/TO maximize/VB the/DT likelihood/NN of/IN target/NN logical/JJ forms/NNS given/VBN the/DT natural/JJ language/NN inputs/NNS ./.
+Experimental/JJ results/NNS on/IN four/CD datasets/NNS show/VBP that/IN our/PRP$ approach/NN performs/VBZ competitively/RB without/IN using/VBG hand/NN -/HYPH engineered/VBN features/NNS and/CC is/VBZ easy/JJ to/TO adapt/VB across/IN domains/NNS and/CC meaning/VBG representations/NNS ./.

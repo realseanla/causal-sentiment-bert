@@ -1,0 +1,4 @@
+Markov/NNP Chain/NNP Monte/NNP Carlo/NNP (/-LRB- MCMC/NNP )/-RRB- algorithms/NNS are/VBP often/RB used/VBN for/IN approximate/JJ inference/NN inside/IN learning/NN ,/, but/CC their/PRP$ slow/JJ mixing/NN can/MD be/VB difficult/JJ to/TO diagnose/VB and/CC the/DT approximations/NNS can/MD seriously/RB degrade/VB learning/NN ./.
+To/TO alleviate/VB these/DT issues/NNS ,/, we/PRP define/VBP a/DT new/JJ model/NN family/NN using/VBG strong/JJ Doeblin/NNP Markov/NNP chains/NNS ,/, whose/WP$ mixing/VBG times/NNS can/MD be/VB precisely/RB controlled/VBN by/IN a/DT parameter/NN ./.
+We/PRP also/RB develop/VBP an/DT algorithm/NN to/TO learn/VB such/JJ models/NNS ,/, which/WDT involves/VBZ maximizing/VBG the/DT data/NNS likelihood/NN under/IN the/DT induced/VBN stationary/JJ distribution/NN of/IN these/DT chains/NNS ./.
+We/PRP show/VBP empirical/JJ improvements/NNS on/IN two/CD challenging/JJ inference/NN tasks/NNS ./.

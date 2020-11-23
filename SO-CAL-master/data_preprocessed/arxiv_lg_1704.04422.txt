@@ -1,0 +1,13 @@
+Dictionary/NNP learning/NN is/VBZ a/DT challenge/NN topic/NN in/IN many/JJ image/NN processing/NN areas/NNS ./.
+The/DT basic/JJ goal/NN is/VBZ to/TO learn/VB a/DT sparse/JJ representation/NN from/IN an/DT overcomplete/JJ basis/NN set/NN ./.
+Due/IN to/IN combining/VBG the/DT advantages/NNS of/IN generic/JJ multiscale/JJ representations/NNS with/IN learning/NN based/VBN adaptivity/NN ,/, multiscale/JJ dictionary/JJ representation/NN approaches/NNS have/VBP the/DT power/NN in/IN capturing/NN structural/JJ characteristics/NNS of/IN natural/JJ images/NNS ./.
+However/RB ,/, existing/VBG multiscale/JJ learning/NN approaches/NNS still/RB suffer/VBP from/IN three/CD main/JJ weaknesses/NNS :/: inadaptability/NN to/IN diverse/JJ scales/NNS of/IN image/NN data/NNS ,/, sensitivity/NN to/IN noise/NN and/CC outliers/NNS ,/, difficulty/NN to/TO determine/VB optimal/JJ dictionary/JJ structure/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT novel/JJ multiscale/JJ dictionary/NN learning/VBG paradigm/NN for/IN sparse/JJ image/NN representations/NNS based/VBN on/IN an/DT improved/VBN empirical/JJ mode/NN decomposition/NN ./.
+This/DT powerful/JJ data/NN -/HYPH driven/VBN analysis/NN tool/NN for/IN multi-dimensional/JJ signal/NN can/MD fully/RB adaptively/RB decompose/VB the/DT image/NN into/IN multiscale/NN oscillating/NN components/NNS according/VBG to/IN intrinsic/JJ modes/NNS of/IN data/NNS self/NN ./.
+This/DT treatment/NN can/MD obtain/VB a/DT robust/JJ and/CC effective/JJ sparse/JJ representation/NN ,/, and/CC meanwhile/RB generates/VBZ a/DT raw/JJ base/NN dictionary/NN at/RB multiple/JJ geometric/JJ scales/NNS and/CC spatial/JJ frequency/NN bands/NNS ./.
+This/DT dictionary/NN is/RB refined/VBN by/IN selecting/VBG optimal/JJ oscillating/VBG atoms/NNS based/VBN on/IN frequency/NN clustering/NN ./.
+In/IN order/NN to/TO further/RB enhance/VB sparsity/NN and/CC generalization/NN ,/, a/DT tolerance/NN dictionary/NN is/RB learned/VBN using/VBG a/DT coherence/NN regularized/VBN model/NN ./.
+A/DT fast/JJ proximal/JJ scheme/NN is/VBZ developed/VBN to/TO optimize/VB this/DT model/NN ./.
+The/DT multiscale/JJ dictionary/NN is/RB considered/VBN as/IN the/DT product/NN of/IN oscillating/VBG dictionary/NN and/CC tolerance/NN dictionary/NN ./.
+Experimental/JJ results/NNS demonstrate/VBP that/IN the/DT proposed/VBN learning/NN approach/NN has/VBZ the/DT superior/JJ performance/NN in/IN sparse/JJ image/NN representations/NNS as/IN compared/VBN with/IN several/JJ competing/VBG methods/NNS ./.
+We/PRP also/RB show/VBP the/DT promising/JJ results/NNS in/IN image/NN denoising/NN application/NN ./.

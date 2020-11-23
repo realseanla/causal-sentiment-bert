@@ -1,0 +1,5 @@
+Modal/JJ sense/NN classification/NN (/-LRB- MSC/NN )/-RRB- is/VBZ a/DT special/JJ WSD/NN task/NN that/WDT depends/VBZ on/IN the/DT meaning/NN of/IN the/DT proposition/NN in/IN the/DT modal/NN 's/POS scope/NN ./.
+We/PRP explore/VBP a/DT CNN/NNP architecture/NN for/IN classifying/VBG modal/JJ sense/NN in/IN English/NNP and/CC German/NNP ./.
+We/PRP show/VBP that/IN CNNs/NNS are/VBP superior/JJ to/IN manually/RB designed/VBN feature/NN -/HYPH based/VBN classifiers/NNS and/CC a/DT standard/JJ NN/NNP classifier/NN ./.
+We/PRP analyze/VBP the/DT feature/NN maps/VBZ learned/VBN by/IN the/DT CNN/NNP and/CC identify/VB known/VBN and/CC previously/RB unattested/JJ linguistic/JJ features/NNS ./.
+We/PRP benchmark/NN the/DT CNN/NNP on/IN a/DT standard/JJ WSD/NNP task/NN ,/, where/WRB it/PRP compares/VBZ favorably/RB to/IN models/NNS using/VBG sense/NN -/HYPH disambiguated/VBN target/NN vectors/NNS ./.

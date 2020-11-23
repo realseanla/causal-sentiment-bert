@@ -1,0 +1,9 @@
+Estimators/NNS of/IN information/NN theoretic/JJ measures/NNS such/JJ as/IN entropy/NN and/CC mutual/JJ information/NN are/VBP a/DT basic/JJ workhorse/NN for/IN many/JJ downstream/JJ applications/NNS in/IN modern/JJ data/NNS science/NN ./.
+State/NN of/IN the/DT art/NN approaches/NNS have/VBP been/VBN either/CC geometric/JJ (/-LRB- nearest/JJS neighbor/NN (/-LRB- NN/NNP )/-RRB- based/VBN )/-RRB- or/CC kernel/NN based/VBN (/-LRB- with/IN a/DT globally/RB chosen/VBN bandwidth/NN )/-RRB- ./.
+In/IN this/DT paper/NN ,/, we/PRP combine/VBP both/PDT these/DT approaches/NNS to/TO design/VB new/JJ estimators/NNS of/IN entropy/NN and/CC mutual/JJ information/NN that/WDT outperform/VBP state/NN of/IN the/DT art/NN methods/NNS ./.
+Our/PRP$ estimator/NN uses/VBZ local/JJ bandwidth/NN choices/NNS of/IN $/$ k/CD $/$ -/HYPH NN/NNP distances/NNS with/IN a/DT finite/JJ $/$ k/CD $/$ ,/, independent/JJ of/IN the/DT sample/NN size/NN ./.
+Such/PDT a/DT local/JJ and/CC data/NNS dependent/JJ choice/NN improves/VBZ performance/NN in/IN practice/NN ,/, but/CC the/DT bandwidth/NN is/VBZ vanishing/VBG at/IN a/DT fast/JJ rate/NN ,/, leading/VBG to/IN a/DT non-vanishing/JJ bias/NN ./.
+We/PRP show/VBP that/IN the/DT asymptotic/JJ bias/NN of/IN the/DT proposed/VBN estimator/NN is/VBZ universal/JJ ;/: it/PRP is/VBZ independent/JJ of/IN the/DT underlying/JJ distribution/NN ./.
+Hence/RB ,/, it/PRP can/MD be/VB pre-computed/VBN and/CC subtracted/VBN from/IN the/DT estimate/NN ./.
+As/IN a/DT byproduct/NN ,/, we/PRP obtain/VBP a/DT unified/JJ way/NN of/IN obtaining/VBG both/DT kernel/NN and/CC NN/NNP estimators/NNS ./.
+The/DT corresponding/VBG theoretical/JJ contribution/NN relating/VBG the/DT asymptotic/JJ geometry/NN of/IN nearest/JJS neighbors/NNS to/TO order/VB statistics/NNS is/VBZ of/IN independent/JJ mathematical/JJ interest/NN ./.

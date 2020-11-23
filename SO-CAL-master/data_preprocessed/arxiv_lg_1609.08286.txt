@@ -1,0 +1,17 @@
+In/IN the/DT era/NN of/IN big/JJ data/NNS ,/, it/PRP is/VBZ becoming/VBG common/JJ to/TO have/VB data/NNS with/IN multiple/JJ modalities/NNS or/CC coming/VBG from/IN multiple/JJ sources/NNS ,/, known/VBN as/IN "/`` multi-view/JJ data/NNS "/'' ./.
+Multi-view/JJ data/NNS are/VBP usually/RB unlabeled/JJ and/CC come/VB from/IN high/JJ -/HYPH dimensional/JJ spaces/NNS (/-LRB- such/JJ as/IN language/NN vocabularies/NNS )/-RRB- ,/, unsupervised/JJ multi-view/NN feature/NN selection/NN is/VBZ crucial/JJ to/IN many/JJ applications/NNS ./.
+However/RB ,/, it/PRP is/VBZ nontrivial/JJ due/IN to/IN the/DT following/VBG challenges/NNS ./.
+First/RB ,/, there/EX are/VBP too/RB many/JJ instances/NNS or/CC the/DT feature/NN dimensionality/NN is/VBZ too/RB large/JJ ./.
+Thus/RB ,/, the/DT data/NNS may/MD not/RB fit/VB in/IN memory/NN ./.
+How/WRB to/TO select/VB useful/JJ features/NNS with/IN limited/JJ memory/NN space/NN ?/.
+Second/RB ,/, how/WRB to/TO select/VB features/NNS from/IN streaming/VBG data/NNS and/CC handles/VBZ the/DT concept/NN drift/NN ?/.
+Third/JJ ,/, how/WRB to/TO leverage/VB the/DT consistent/JJ and/CC complementary/JJ information/NN from/IN different/JJ views/NNS to/TO improve/VB the/DT feature/NN selection/NN in/IN the/DT situation/NN when/WRB the/DT data/NNS are/VBP too/RB big/JJ or/CC come/VB in/IN as/IN streams/NNS ?/.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, none/NN of/IN the/DT previous/JJ works/NNS can/MD solve/VB all/PDT the/DT challenges/NNS simultaneously/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT Online/NN unsupervised/JJ Multi-View/NNP Feature/NN Selection/NN ,/, OMVFS/NN ,/, which/WDT deals/VBZ with/IN large/JJ -/HYPH scale/NN //HYPH streaming/NN multi-view/JJ data/NNS in/IN an/DT online/JJ fashion/NN ./.
+OMVFS/NNP embeds/VBZ unsupervised/JJ feature/NN selection/NN into/IN a/DT clustering/NN algorithm/NN via/IN NMF/NN with/IN sparse/JJ learning/NN ./.
+It/PRP further/RB incorporates/VBZ the/DT graph/NN regularization/NN to/TO preserve/VB the/DT local/JJ structure/NN information/NN and/CC help/NN select/VB discriminative/JJ features/NNS ./.
+Instead/RB of/IN storing/VBG all/PDT the/DT historical/JJ data/NNS ,/, OMVFS/NN processes/VBZ the/DT multi-view/JJ data/NNS chunk/NN by/IN chunk/NN and/CC aggregates/NNS all/PDT the/DT necessary/JJ information/NN into/IN several/JJ small/JJ matrices/NNS ./.
+By/IN using/VBG the/DT buffering/VBG technique/NN ,/, the/DT proposed/VBN OMVFS/NN can/MD reduce/VB the/DT computational/JJ and/CC storage/NN cost/NN while/IN taking/VBG advantage/NN of/IN the/DT structure/NN information/NN ./.
+Furthermore/RB ,/, OMVFS/NNP can/MD capture/VB the/DT concept/NN drifts/VBZ in/IN the/DT data/NN streams/NN ./.
+Extensive/JJ experiments/NNS on/IN four/CD real/JJ -/HYPH world/NN datasets/NNS show/VBP the/DT effectiveness/NN and/CC efficiency/NN of/IN the/DT proposed/VBN OMVFS/NN method/NN ./.
+More/RBR importantly/RB ,/, OMVFS/NNP is/VBZ about/RB 100/CD times/NNS faster/JJR than/IN the/DT off/NN -/HYPH line/NN methods/NNS ./.

@@ -1,0 +1,8 @@
+We can program a Real-Time (RT) music improvisation system in C++ without a formal semantic or we can model it with process calculi such as the Non-deterministic Timed Concurrent Constraint (ntcc) calculus.
+"A Concurrent Constraints Factor Oracle (FO) model for Music Improvisation" (Ccfomi) is an improvisation model specified on ntcc.
+Since Ccfomi improvises non-deterministically, there is no control on choices and therefore little control over the sequence variation during the improvisation.
+To avoid this, we extended Ccfomi using the Probabilistic Non-deterministic Timed Concurrent Constraint calculus.
+Our extension to Ccfomi does not change the time and space complexity of building the FO, thus making our extension compatible with RT.
+However, there was not a ntcc interpreter capable of RT to execute Ccfomi.
+We developed Ntccrt --a RT capable interpreter for ntcc-- and we executed Ccfomi on Ntccrt.
+In the future, we plan to extend Ntccrt to execute our extension to Ccfomi.

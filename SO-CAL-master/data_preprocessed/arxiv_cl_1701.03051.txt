@@ -1,0 +1,12 @@
+As/IN microblogging/NN services/NNS like/IN Twitter/NNP are/VBP becoming/VBG more/RBR and/CC more/RBR influential/JJ in/IN today/NN 's/POS globalised/JJ world/NN ,/, its/PRP$ facets/NNS like/IN sentiment/NN analysis/NN are/VBP being/VBG extensively/RB studied/VBN ./.
+We/PRP are/VBP no/RB longer/RBR constrained/VBN by/IN our/PRP$ own/JJ opinion/NN ./.
+Others/NNS opinions/NNS and/CC sentiments/NNS play/VBP a/DT huge/JJ role/NN in/IN shaping/VBG our/PRP$ perspective/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP build/VBP on/IN previous/JJ works/NNS on/IN Twitter/NNP sentiment/NN analysis/NN using/VBG Distant/NNP Supervision/NNP ./.
+The/DT existing/VBG approach/NN requires/VBZ huge/JJ computation/NN resource/NN for/IN analysing/VBG large/JJ number/NN of/IN tweets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP techniques/NNS to/TO speed/VB up/RP the/DT computation/NN process/NN for/IN sentiment/NN analysis/NN ./.
+We/PRP use/VBP tweet/NN subjectivity/NN to/TO select/VB the/DT right/JJ training/NN samples/NNS ./.
+We/PRP also/RB introduce/VBP the/DT concept/NN of/IN EFWS/NNP (/-LRB- Effective/JJ Word/NN Score/NN )/-RRB- of/IN a/DT tweet/NN that/WDT is/VBZ derived/VBN from/IN polarity/NN scores/NNS of/IN frequently/RB used/VBN words/NNS ,/, which/WDT is/VBZ an/DT additional/JJ heuristic/NN that/WDT can/MD be/VB used/VBN to/TO speed/VB up/RP the/DT sentiment/NN classification/NN with/IN standard/JJ machine/NN learning/VBG algorithms/NNS ./.
+We/PRP performed/VBD our/PRP$ experiments/NNS using/VBG 1.6/CD million/CD tweets/NNS ./.
+Experimental/JJ evaluations/NNS show/VBP that/IN our/PRP$ proposed/VBN technique/NN is/VBZ more/RBR efficient/JJ and/CC has/VBZ higher/JJR accuracy/NN compared/VBN to/IN previously/RB proposed/VBN methods/NNS ./.
+We/PRP achieve/VBP overall/JJ accuracies/NNS of/IN around/RB 80/CD percent/NN (/-LRB- EFWS/NN heuristic/NN gives/VBZ an/DT accuracy/NN around/IN 85/CD percent/NN )/-RRB- on/IN a/DT training/NN dataset/NN of/IN 100K/NN tweets/NNS ,/, which/WDT is/VBZ half/PDT the/DT size/NN of/IN the/DT dataset/NN used/VBN for/IN the/DT baseline/NN model/NN ./.
+The/DT accuracy/NN of/IN our/PRP$ proposed/VBN model/NN is/VBZ 2/CD -/HYPH 3/CD percent/NN higher/JJR than/IN the/DT baseline/NN model/NN ,/, and/CC the/DT model/NN effectively/RB trains/VBZ at/IN twice/PDT the/DT speed/NN of/IN the/DT baseline/NN model/NN ./.

@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT K/NN -/HYPH armed/VBN dueling/VBG bandit/NN problem/NN ,/, a/DT variation/NN of/IN the/DT standard/JJ stochastic/JJ bandit/NN problem/NN where/WRB the/DT feedback/NN is/VBZ limited/VBN to/IN relative/JJ comparisons/NNS of/IN a/DT pair/NN of/IN arms/NNS ./.
+The/DT hardness/NN of/IN recommending/VBG Copeland/NNP winners/NNS ,/, the/DT arms/NNS that/WDT beat/VBP the/DT greatest/JJS number/NN of/IN other/JJ arms/NNS ,/, is/VBZ characterized/VBN by/IN deriving/VBG an/DT asymptotic/JJ regret/NN bound/VBN ./.
+We/PRP propose/VBP Copeland/NNP Winners/NNS Relative/JJ Minimum/JJ Empirical/JJ Divergence/NN (/-LRB- CW/NNP -/HYPH RMED/NNP )/-RRB- and/CC derive/VBP an/DT asymptotically/RB optimal/JJ regret/NN bound/VBN for/IN it/PRP ./.
+However/RB ,/, it/PRP is/VBZ not/RB known/VBN whether/IN the/DT algorithm/NN can/MD be/VB efficiently/RB computed/VBN or/CC not/RB ./.
+To/TO address/VB this/DT issue/NN ,/, we/PRP devise/VBP an/DT efficient/JJ version/NN (/-LRB- ECW/NN -/HYPH RMED/NN )/-RRB- and/CC derive/VBP its/PRP$ asymptotic/JJ regret/NN bound/VBN ./.
+Experimental/JJ comparisons/NNS of/IN dueling/VBG bandit/NN algorithms/NNS show/VBP that/IN ECW/NN -/HYPH RMED/NN significantly/RB outperforms/VBZ existing/VBG ones/NNS ./.

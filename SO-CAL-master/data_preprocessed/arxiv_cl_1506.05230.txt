@@ -1,0 +1,5 @@
+Data/NNP -/HYPH driven/VBN representation/NN learning/NN for/IN words/NNS is/VBZ a/DT technique/NN of/IN central/JJ importance/NN in/IN NLP/NN ./.
+While/IN indisputably/RB useful/JJ as/IN a/DT source/NN of/IN features/NNS in/IN downstream/JJ tasks/NNS ,/, such/JJ vectors/NNS tend/VBP to/TO consist/VB of/IN uninterpretable/JJ components/NNS whose/WP$ relationship/NN to/IN the/DT categories/NNS of/IN traditional/JJ lexical/JJ semantic/JJ theories/NNS is/VBZ tenuous/JJ at/IN best/JJS ./.
+We/PRP present/VBP a/DT method/NN for/IN constructing/VBG interpretable/JJ word/NN vectors/NNS from/IN hand/NN -/HYPH crafted/VBN linguistic/JJ resources/NNS like/IN WordNet/NNP ,/, FrameNet/NNP etc/FW ./.
+These/DT vectors/NNS are/VBP binary/JJ (/-LRB- i.e/FW ,/, contain/VBP only/RB 0/CD and/CC 1/CD )/-RRB- and/CC are/VBP 99.9/CD percent/NN sparse/JJ ./.
+We/PRP analyze/VBP their/PRP$ performance/NN on/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN evaluation/NN methods/NNS for/IN distributional/JJ models/NNS of/IN word/NN vectors/NNS and/CC find/VB they/PRP are/VBP competitive/JJ to/IN standard/JJ distributional/JJ approaches/NNS ./.

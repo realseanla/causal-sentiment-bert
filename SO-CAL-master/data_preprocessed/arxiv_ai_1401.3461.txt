@@ -1,0 +1,7 @@
+Multiagent/NNP planning/NN and/CC coordination/NN problems/NNS are/VBP common/JJ and/CC known/VBN to/TO be/VB computationally/RB hard/RB ./.
+We/PRP show/VBP that/IN a/DT wide/JJ range/NN of/IN two/CD -/HYPH agent/NN problems/NNS can/MD be/VB formulated/VBN as/IN bilinear/NN programs/NNS ./.
+We/PRP present/VBP a/DT successive/JJ approximation/NN algorithm/NN that/WDT significantly/RB outperforms/VBZ the/DT coverage/NN set/VBN algorithm/NN ,/, which/WDT is/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN method/NN for/IN this/DT class/NN of/IN multiagent/NN problems/NNS ./.
+Because/IN the/DT algorithm/NN is/VBZ formulated/VBN for/IN bilinear/NN programs/NNS ,/, it/PRP is/VBZ more/RBR general/JJ and/CC simpler/JJR to/TO implement/VB ./.
+The/DT new/JJ algorithm/NN can/MD be/VB terminated/VBN at/IN any/DT time/NN and/CC -/HYPH unlike/IN the/DT coverage/NN set/VBN algorithm/NN -/HYPH it/PRP facilitates/VBZ the/DT derivation/NN of/IN a/DT useful/JJ online/JJ performance/NN bound/VBN ./.
+It/PRP is/VBZ also/RB much/RB more/RBR efficient/JJ ,/, on/IN average/JJ reducing/VBG the/DT computation/NN time/NN of/IN the/DT optimal/JJ solution/NN by/IN about/RB four/CD orders/NNS of/IN magnitude/NN ./.
+Finally/RB ,/, we/PRP introduce/VBP an/DT automatic/JJ dimensionality/NN reduction/NN method/NN that/WDT improves/VBZ the/DT effectiveness/NN of/IN the/DT algorithm/NN ,/, extending/VBG its/PRP$ applicability/NN to/IN new/JJ domains/NNS and/CC providing/VBG a/DT new/JJ way/NN to/TO analyze/VB a/DT subclass/NN of/IN bilinear/NN programs/NNS ./.

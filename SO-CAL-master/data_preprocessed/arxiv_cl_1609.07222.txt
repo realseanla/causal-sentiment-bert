@@ -1,0 +1,5 @@
+Neural/JJ network/NN based/VBN models/NNS have/VBP achieved/VBN impressive/JJ results/NNS on/IN various/JJ specific/JJ tasks/NNS ./.
+However/RB ,/, in/IN previous/JJ works/NNS ,/, most/JJS models/NNS are/VBP learned/VBN separately/RB based/VBN on/IN single/JJ -/HYPH task/NN supervised/VBD objectives/NNS ,/, which/WDT often/RB suffer/VBP from/IN insufficient/JJ training/NN data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP two/CD deep/JJ architectures/NNS which/WDT can/MD be/VB trained/VBN jointly/RB on/IN multiple/JJ related/JJ tasks/NNS ./.
+More/RBR specifically/RB ,/, we/PRP augment/VBP neural/JJ model/NN with/IN an/DT external/JJ memory/NN ,/, which/WDT is/VBZ shared/VBN by/IN several/JJ tasks/NNS ./.
+Experiments/NNS on/IN two/CD groups/NNS of/IN text/NN classification/NN tasks/NNS show/VBP that/IN our/PRP$ proposed/VBN architectures/NNS can/MD improve/VB the/DT performance/NN of/IN a/DT task/NN with/IN the/DT help/NN of/IN other/JJ related/JJ tasks/NNS ./.

@@ -1,0 +1,9 @@
+Partial/JJ monitoring/NN is/VBZ a/DT general/JJ model/NN for/IN sequential/JJ learning/NN with/IN limited/JJ feedback/NN formalized/VBN as/IN a/DT game/NN between/IN two/CD players/NNS ./.
+In/IN this/DT game/NN ,/, the/DT learner/NN chooses/VBZ an/DT action/NN and/CC at/IN the/DT same/JJ time/NN the/DT opponent/NN chooses/VBZ an/DT outcome/NN ,/, then/RB the/DT learner/NN suffers/VBZ a/DT loss/NN and/CC receives/VBZ a/DT feedback/NN signal/NN ./.
+The/DT goal/NN of/IN the/DT learner/NN is/VBZ to/TO minimize/VB the/DT total/JJ loss/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP partial/JJ monitoring/NN with/IN finite/JJ actions/NNS and/CC stochastic/JJ outcomes/NNS ./.
+We/PRP derive/VBP a/DT logarithmic/JJ distribution/NN -/HYPH dependent/JJ regret/NN lower/JJR bound/VBN that/IN defines/VBZ the/DT hardness/NN of/IN the/DT problem/NN ./.
+Inspired/VBN by/IN the/DT DMED/NN algorithm/NN (/-LRB- Honda/NNP and/CC Takemura/NNP ,/, 2010/CD )/-RRB- for/IN the/DT multi-armed/JJ bandit/NN problem/NN ,/, we/PRP propose/VBP PM/NN -/HYPH DMED/NN ,/, an/DT algorithm/NN that/WDT minimizes/VBZ the/DT distribution/NN -/HYPH dependent/JJ regret/NN ./.
+PM/NN -/: DMED/NN significantly/RB outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN algorithms/NNS in/IN numerical/JJ experiments/NNS ./.
+To/TO show/VB the/DT optimality/NN of/IN PM/NN -/HYPH DMED/NN with/IN respect/NN to/IN the/DT regret/NN bound/VBN ,/, we/PRP slightly/RB modify/VBP the/DT algorithm/NN by/IN introducing/VBG a/DT hinge/NN function/NN (/-LRB- PM/NN -/HYPH DMED/NN -/HYPH Hinge/NN )/-RRB- ./.
+Then/RB ,/, we/PRP derive/VBP an/DT asymptotically/RB optimal/JJ regret/NN upper/JJ bound/VBN of/IN PM/NN -/HYPH DMED/NN -/HYPH Hinge/VB that/DT matches/VBZ the/DT lower/JJR bound/JJ ./.

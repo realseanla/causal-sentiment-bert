@@ -1,0 +1,5 @@
+Document/NN classification/NN tasks/NNS were/VBD primarily/RB tackled/VBN at/IN word/NN level/NN ./.
+Recent/JJ research/NN that/WDT works/VBZ with/IN character/NN -/HYPH level/NN inputs/NNS shows/VBZ several/JJ benefits/NNS over/IN word/NN -/HYPH level/NN approaches/NNS such/JJ as/IN natural/JJ incorporation/NN of/IN morphemes/NNS and/CC better/JJR handling/NN of/IN rare/JJ words/NNS ./.
+We/PRP propose/VBP a/DT neural/JJ network/NN architecture/NN that/WDT utilizes/VBZ both/CC convolution/NN and/CC recurrent/JJ layers/NNS to/TO efficiently/RB encode/VB character/NN inputs/NNS ./.
+We/PRP validate/VBP the/DT proposed/VBN model/NN on/IN eight/CD large/JJ scale/NN document/NN classification/NN tasks/NNS and/CC compare/VB with/IN character/NN -/HYPH level/NN convolution/NN -/HYPH only/JJ models/NNS ./.
+It/PRP achieves/VBZ comparable/JJ performances/NNS with/IN much/RB less/JJR parameters/NNS ./.

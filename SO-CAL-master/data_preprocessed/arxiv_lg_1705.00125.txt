@@ -1,0 +1,7 @@
+We/PRP discuss/VBP several/JJ modifications/NNS and/CC extensions/NNS over/IN the/DT previous/JJ proposed/VBN Cnvlutin/NN (/-LRB- CNV/NN )/-RRB- accelerator/NN for/IN convolutional/JJ and/CC fully/RB -/HYPH connected/VBN layers/NNS of/IN Deep/NNP Learning/NNP Network/NNP ./.
+We/PRP first/RB describe/VBP different/JJ encodings/NNS of/IN the/DT activations/NNS that/WDT are/VBP deemed/VBN ineffectual/JJ ./.
+The/DT encodings/NNS have/VBP different/JJ memory/NN overhead/NN and/CC energy/NN characteristics/NNS ./.
+We/PRP propose/VBP using/VBG a/DT level/NN of/IN indirection/NN when/WRB accessing/VBG activations/NNS from/IN memory/NN to/TO reduce/VB their/PRP$ memory/NN footprint/NN by/IN storing/VBG only/RB the/DT effectual/JJ activations/NNS ./.
+We/PRP also/RB present/VBP a/DT modified/VBN organization/NN that/WDT detects/VBZ the/DT activations/NNS that/WDT are/VBP deemed/VBN as/IN ineffectual/JJ while/IN fetching/VBG them/PRP from/IN memory/NN ./.
+This/DT is/VBZ different/JJ than/IN the/DT original/JJ design/NN that/WDT instead/RB detected/VBD them/PRP at/IN the/DT output/NN of/IN the/DT preceding/VBG layer/NN ./.
+Finally/RB ,/, we/PRP present/VBP an/DT extended/JJ CNV/NN that/WDT can/MD also/RB skip/VB ineffectual/JJ weights/NNS ./.

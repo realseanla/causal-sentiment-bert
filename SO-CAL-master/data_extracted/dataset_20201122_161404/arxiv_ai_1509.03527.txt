@@ -1,0 +1,8 @@
+New proof assistant developments often involve concepts similar to already formalized ones.
+When proving their properties, a human can often take inspiration from the existing formalized proofs available in other provers or libraries.
+In this paper we propose and evaluate a number of methods, which strengthen proof automation by learning from proof libraries of different provers.
+Certain conjectures can be proved directly from the dependencies induced by similar proofs in the other library.
+Even if exact correspondences are not found, learning-reasoning systems can make use of the association between proved theorems and their characteristics to predict the relevant premises.
+Such external help can be further combined with internal advice.
+We evaluate the proposed knowledge-sharing methods by reproving the HOL Light and HOL4 standard libraries.
+The learning-reasoning system HOL(y)Hammer, whose single best strategy could automatically find proofs for 30 percent of the HOL Light problems, can prove 40 percent with the knowledge from HOL4.

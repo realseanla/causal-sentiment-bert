@@ -1,0 +1,5 @@
+In this paper, we present the Difference- Based Causality Learner (DBCL), an algorithm for learning a class of discrete-time dynamic models that represents all causation across time by means of difference equations driving change in a system.
+We motivate this representation with real-world mechanical systems and prove DBCL's correctness for learning structure from time series data, an endeavour that is complicated by the existence of latent derivatives that have to be detected.
+We also prove that, under common assumptions for causal discovery, DBCL will identify the presence or absence of feedback loops, making the model more useful for predicting the effects of manipulating variables when the system is in equilibrium.
+We argue analytically and show empirically the advantages of DBCL over vector autoregression (VAR) and Granger causality models as well as modified forms of Bayesian and constraintbased structure discovery algorithms.
+Finally, we show that our algorithm can discover causal directions of alpha rhythms in human brains from EEG data.

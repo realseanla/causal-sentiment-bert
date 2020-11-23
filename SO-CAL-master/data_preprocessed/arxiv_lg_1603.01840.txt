@@ -1,0 +1,7 @@
+The/DT power/NN grid/NN is/VBZ a/DT complex/JJ and/CC vital/JJ system/NN that/WDT necessitates/VBZ careful/JJ reliability/NN management/NN ./.
+Managing/VBG the/DT grid/NN is/VBZ a/DT difficult/JJ problem/NN with/IN multiple/JJ time/NN scales/NNS of/IN decision/NN making/NN and/CC stochastic/JJ behavior/NN due/IN to/IN renewable/JJ energy/NN generations/NNS ,/, variable/JJ demand/NN and/CC unplanned/JJ outages/NNS ./.
+Solving/VBG this/DT problem/NN in/IN the/DT face/NN of/IN uncertainty/NN requires/VBZ a/DT new/JJ methodology/NN with/IN tractable/JJ algorithms/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP a/DT new/JJ model/NN for/IN hierarchical/JJ decision/NN making/VBG in/IN complex/JJ systems/NNS ./.
+We/PRP apply/VBP reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- methods/NNS to/TO learn/VB a/DT proxy/NN ,/, i.e./FW ,/, a/DT level/NN of/IN abstraction/NN ,/, for/IN real/JJ -/HYPH time/NN power/NN grid/NN reliability/NN ./.
+We/PRP devise/VBP an/DT algorithm/NN that/WDT alternates/VBZ between/IN slow/JJ time/NN -/HYPH scale/NN policy/NN improvement/NN ,/, and/CC fast/JJ time/NN -/HYPH scale/NN value/NN function/NN approximation/NN ./.
+We/PRP compare/VBP our/PRP$ results/NNS to/IN prevailing/VBG heuristics/NNS ,/, and/CC show/VB the/DT strength/NN of/IN our/PRP$ method/NN ./.

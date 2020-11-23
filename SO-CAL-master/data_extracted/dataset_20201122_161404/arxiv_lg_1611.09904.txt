@@ -1,0 +1,3 @@
+Generative adversarial networks have been proposed as a way of efficiently training deep generative neural networks.
+We propose a generative adversarial model that works on continuous sequential data, and apply it by training it on a collection of classical music.
+We conclude that it generates music that sounds better and better as the model is trained, report statistics on generated music, and let the reader judge the quality by downloading the generated songs.

@@ -1,0 +1,4 @@
+Neural/JJ models/NNS with/IN minimal/JJ feature/NN engineering/NN have/VBP achieved/VBN competitive/JJ performance/NN against/IN traditional/JJ methods/NNS for/IN the/DT task/NN of/IN Chinese/JJ word/NN segmentation/NN ./.
+However/RB ,/, both/CC training/NN and/CC working/VBG procedures/NNS of/IN the/DT current/JJ neural/JJ models/NNS are/VBP computationally/RB inefficient/JJ ./.
+This/DT paper/NN presents/VBZ a/DT greedy/JJ neural/JJ word/NN segmenter/NN with/IN balanced/JJ word/NN and/CC character/NN embedding/NN inputs/NNS to/TO alleviate/VB the/DT existing/VBG drawbacks/NNS ./.
+Our/PRP$ segmenter/NN is/VBZ truly/RB end/NN -/HYPH to/IN -/HYPH end/NN ,/, capable/JJ of/IN performing/VBG segmentation/NN much/RB faster/RBR and/CC even/RB more/RBR accurate/JJ than/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN neural/JJ models/NNS on/IN Chinese/JJ benchmark/NN datasets/NNS ./.

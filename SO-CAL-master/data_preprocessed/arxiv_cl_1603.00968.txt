@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT novel/NN ,/, simple/JJ convolution/NN neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- architecture/NN -/HYPH multi-group/JJ norm/NN constraint/NN CNN/NNP (/-LRB- MGNC/NNP -/HYPH CNN/NNP )/-RRB- that/WDT capitalizes/VBZ on/IN multiple/JJ sets/NNS of/IN word/NN embeddings/NNS for/IN sentence/NN classification/NN ./.
+MGNC/NN -/HYPH CNN/NN extracts/NNS features/VBZ from/IN input/NN embedding/NN sets/NNS independently/RB and/CC then/RB joins/VBZ these/DT at/IN the/DT penultimate/JJ layer/NN in/IN the/DT network/NN to/TO form/VB a/DT final/JJ feature/NN vector/NN ./.
+We/PRP then/RB adopt/VB a/DT group/NN regularization/NN strategy/NN that/WDT differentially/RB penalizes/VBZ weights/NNS associated/VBN with/IN the/DT subcomponents/NNS generated/VBN from/IN the/DT respective/JJ embedding/NN sets/NNS ./.
+This/DT model/NN is/VBZ much/JJ simpler/JJR than/IN comparable/JJ alternative/JJ architectures/NNS and/CC requires/VBZ substantially/RB less/JJR training/NN time/NN ./.
+Furthermore/RB ,/, it/PRP is/VBZ flexible/JJ in/IN that/IN it/PRP does/VBZ not/RB require/VB input/JJ word/NN embeddings/NNS to/TO be/VB of/IN the/DT same/JJ dimensionality/NN ./.
+We/PRP show/VBP that/IN MGNC/NNP -/HYPH CNN/NNP consistently/RB outperforms/VBZ baseline/NN models/NNS ./.

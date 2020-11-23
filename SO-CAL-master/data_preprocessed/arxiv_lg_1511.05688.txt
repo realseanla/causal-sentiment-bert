@@ -1,0 +1,6 @@
+Proposed/VBN methods/NNS for/IN prediction/NN interval/NN estimation/NN focus/NN on/IN cases/NNS where/WRB input/NN variables/NNS are/VBP numerical/JJ ./.
+Since/IN categorical/JJ input/NN variables/NNS can/MD also/RB be/VB represented/VBN using/VBG numerical/JJ variables/NNS ,/, such/JJ methods/NNS are/VBP applicable/JJ to/IN most/JJS datasets/NNS ./.
+We/PRP propose/VBP a/DT new/JJ prediction/NN interval/NN estimation/NN method/NN tailored/VBN for/IN datasets/NNS with/IN nominal/JJ input/NN variables/NNS ./.
+This/DT method/NN has/VBZ two/CD main/JJ phases/NNS :/: I/PRP )/-RRB- modeling/VBG the/DT output/NN variable/JJ distribution/NN separately/RB for/IN groups/NNS of/IN samples/NNS with/IN equal/JJ input/NN vectors/NNS II/CD )/-RRB- training/VBG the/DT parameters/NNS of/IN the/DT predictor/NN such/JJ that/IN ,/, it/PRP can/MD best/RBS represent/VB the/DT relationship/NN between/IN the/DT input/NN variables/NNS and/CC modeled/VBN distributions/NNS of/IN output/NN variables/NNS ./.
+The/DT trained/VBN predictor/NN is/VBZ then/RB used/VBN to/TO provide/VB prediction/NN intervals/NNS for/IN a/DT new/JJ input/NN ./.
+For/IN Gaussian/JJ distribution/NN ,/, our/PRP$ experiment/NN on/IN synthetic/JJ dataset/NN show/VBP higher/JJR performance/NN when/WRB compared/VBN to/IN the/DT popular/JJ bootstrap/NN method/NN ./.

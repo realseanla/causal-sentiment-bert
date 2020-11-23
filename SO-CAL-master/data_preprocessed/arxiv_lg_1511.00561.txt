@@ -1,0 +1,16 @@
+We/PRP present/VBP a/DT novel/NN and/CC practical/JJ deep/JJ fully/RB convolutional/JJ neural/JJ network/NN architecture/NN for/IN semantic/JJ pixel-wise/JJ segmentation/NN termed/VBN SegNet/NNP ./.
+This/DT core/NN trainable/JJ segmentation/NN engine/NN consists/VBZ of/IN an/DT encoder/NN network/NN ,/, a/DT corresponding/VBG decoder/NN network/NN followed/VBN by/IN a/DT pixel-wise/JJ classification/NN layer/NN ./.
+The/DT architecture/NN of/IN the/DT encoder/NN network/NN is/VBZ topologically/RB identical/JJ to/IN the/DT 13/CD convolutional/JJ layers/NNS in/IN the/DT VGG16/NN network/NN ./.
+The/DT role/NN of/IN the/DT decoder/NN network/NN is/VBZ to/TO map/VB the/DT low/JJ resolution/NN encoder/NN feature/NN maps/VBZ to/IN full/JJ input/NN resolution/NN feature/NN maps/VBZ for/IN pixel-wise/JJ classification/NN ./.
+The/DT novelty/NN of/IN SegNet/NNP lies/VBZ is/VBZ in/IN the/DT manner/NN in/IN which/WDT the/DT decoder/NN upsamples/VBZ its/PRP$ lower/JJR resolution/NN input/NN feature/NN map/NN (/-LRB- s/AFX )/-RRB- ./.
+Specifically/RB ,/, the/DT decoder/NN uses/VBZ pooling/VBG indices/NNS computed/VBN in/IN the/DT max/NN -/HYPH pooling/VBG step/NN of/IN the/DT corresponding/VBG encoder/NN to/TO perform/VB non-linear/JJ upsampling/NN ./.
+This/DT eliminates/VBZ the/DT need/NN for/IN learning/VBG to/IN upsample/NN ./.
+The/DT upsampled/JJ maps/NNS are/VBP sparse/JJ and/CC are/VBP then/RB convolved/VBN with/IN trainable/JJ filters/NNS to/TO produce/VB dense/JJ feature/NN maps/NNS ./.
+We/PRP compare/VBP our/PRP$ proposed/VBN architecture/NN with/IN the/DT fully/RB convolutional/JJ network/NN (/-LRB- FCN/NN )/-RRB- architecture/NN and/CC its/PRP$ variants/NNS ./.
+This/DT comparison/NN reveals/VBZ the/DT memory/NN versus/IN accuracy/NN trade/NN -/HYPH off/NN involved/VBN in/IN achieving/VBG good/JJ segmentation/NN performance/NN ./.
+The/DT design/NN of/IN SegNet/NNP was/VBD primarily/RB motivated/VBN by/IN road/NN scene/NN understanding/NN applications/NNS ./.
+Hence/RB ,/, it/PRP is/VBZ efficient/JJ both/CC in/IN terms/NNS of/IN memory/NN and/CC computational/JJ time/NN during/IN inference/NN ./.
+It/PRP is/VBZ also/RB significantly/RB smaller/JJR in/IN the/DT number/NN of/IN trainable/JJ parameters/NNS than/IN competing/VBG architectures/NNS and/CC can/MD be/VB trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN using/VBG stochastic/JJ gradient/NN descent/NN ./.
+We/PRP also/RB benchmark/NN the/DT performance/NN of/IN SegNet/NNP on/IN Pascal/NNP VOC12/NNP salient/JJ object/NN segmentation/NN and/CC the/DT recent/JJ SUN/NNP RGB/NNP -/HYPH D/NNP indoor/JJ scene/NN understanding/NN challenge/NN ./.
+We/PRP show/VBP that/IN SegNet/NNP provides/VBZ competitive/JJ performance/NN although/IN it/PRP is/VBZ significantly/RB smaller/JJR than/IN other/JJ architectures/NNS ./.
+We/PRP also/RB provide/VBP a/DT Caffe/NNP implementation/NN of/IN SegNet/NNP and/CC a/DT webdemo/NN at/IN

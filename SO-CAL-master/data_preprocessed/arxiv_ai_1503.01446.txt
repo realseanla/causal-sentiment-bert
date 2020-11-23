@@ -1,0 +1,9 @@
+The/DT goal/NN of/IN this/DT project/NN is/VBZ to/TO predict/VB the/DT opponent/NN 's/POS configuration/NN in/IN a/DT RoboCup/NNP SSL/NNP environment/NN ./.
+For/IN simplicity/NN ,/, a/DT Markov/NNP model/NN assumption/NN is/VBZ made/VBN such/JJ that/IN the/DT predicted/VBN formation/NN of/IN the/DT opponent/NN team/NN only/RB depends/VBZ on/IN its/PRP$ current/JJ formation/NN ./.
+The/DT field/NN is/VBZ divided/VBN into/IN a/DT grid/NN and/CC a/DT robot/NN state/NN per/IN player/NN is/VBZ created/VBN with/IN information/NN about/IN its/PRP$ position/NN and/CC its/PRP$ velocity/NN ./.
+To/TO gather/VB a/DT more/RBR general/JJ sense/NN of/IN what/WP the/DT opposing/VBG team/NN is/VBZ doing/VBG ,/, the/DT state/NN also/RB incorporates/VBZ the/DT team/NN 's/POS average/JJ position/NN (/-LRB- centroid/JJ )/-RRB- ./.
+All/DT possible/JJ state/NN transitions/NNS are/VBP stored/VBN in/IN a/DT hash/NN table/NN that/WDT requires/VBZ minimum/JJ storage/NN space/NN ./.
+The/DT table/NN is/VBZ populated/VBN with/IN transition/NN probabilities/NNS that/WDT are/VBP learned/VBN by/IN reading/VBG vision/NN packages/NNS and/CC counting/VBG the/DT state/NN transitions/NNS regardless/RB of/IN the/DT specific/JJ robot/NN player/NN ./.
+Therefore/RB ,/, the/DT computation/NN during/IN the/DT game/NN is/VBZ reduced/VBN to/IN interpreting/VBG a/DT given/VBN vision/NN package/NN to/TO assign/VB each/DT player/NN to/IN a/DT state/NN ,/, and/CC looking/VBG for/IN the/DT most/RBS likely/JJ state/NN it/PRP will/MD transition/VB to/IN ./.
+The/DT confidence/NN of/IN the/DT predicted/VBN team/NN 's/POS formation/NN is/VBZ the/DT product/NN of/IN each/DT individual/JJ player/NN 's/POS probability/NN ./.
+The/DT project/NN is/VBZ noteworthy/JJ in/IN that/IN it/PRP minimizes/VBZ the/DT time/NN and/CC space/NN complexity/NN requirements/NNS for/IN opponent/NN 's/POS moves/NNS prediction/NN ./.

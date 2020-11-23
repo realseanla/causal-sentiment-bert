@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP introduce/VBP a/DT new/JJ unsupervised/JJ reinforcement/NN learning/NN method/NN for/IN discovering/VBG the/DT set/NN of/IN intrinsic/JJ options/NNS available/JJ to/IN an/DT agent/NN ./.
+This/DT set/NN is/VBZ learned/VBN by/IN maximizing/VBG the/DT number/NN of/IN different/JJ states/NNS an/DT agent/NN can/MD reliably/RB reach/VB ,/, as/IN measured/VBN by/IN the/DT mutual/JJ information/NN between/IN the/DT set/NN of/IN options/NNS and/CC option/NN termination/NN states/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP instantiate/VBP two/CD policy/NN gradient/NN based/VBN algorithms/NNS ,/, one/CD that/WDT creates/VBZ an/DT explicit/JJ embedding/NN space/NN of/IN options/NNS and/CC one/CD that/WDT represents/VBZ options/NNS implicitly/RB ./.
+The/DT algorithms/NNS also/RB provide/VBP an/DT explicit/JJ measure/NN of/IN empowerment/NN in/IN a/DT given/VBN state/NN that/WDT can/MD be/VB used/VBN by/IN an/DT empowerment/NN maximizing/VBG agent/NN ./.
+The/DT algorithm/NN scales/VBZ well/RB with/IN function/NN approximation/NN and/CC we/PRP demonstrate/VBP the/DT applicability/NN of/IN the/DT algorithm/NN on/IN a/DT range/NN of/IN tasks/NNS ./.

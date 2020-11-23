@@ -1,0 +1,7 @@
+Multiple/JJ instance/NN learning/NN (/-LRB- MIL/NN )/-RRB- is/VBZ a/DT variation/NN of/IN traditional/JJ supervised/JJ learning/NN problems/NNS where/WRB data/NNS (/-LRB- referred/VBN to/IN as/IN bags/NNS )/-RRB- are/VBP composed/VBN of/IN sub-elements/NNS (/-LRB- referred/VBN to/IN as/IN instances/NNS )/-RRB- and/CC only/RB bag/NN labels/NNS are/VBP available/JJ ./.
+MIL/NN has/VBZ a/DT variety/NN of/IN applications/NNS such/JJ as/IN content/NN -/HYPH based/VBN image/NN retrieval/NN ,/, text/NN categorization/NN and/CC medical/JJ diagnosis/NN ./.
+Most/JJS of/IN the/DT previous/JJ work/NN for/IN MIL/NNP assume/VBP that/IN the/DT training/NN bags/NNS are/VBP fully/RB labeled/VBN ./.
+However/RB ,/, it/PRP is/VBZ often/RB difficult/JJ to/TO obtain/VB an/DT enough/JJ number/NN of/IN labeled/VBN bags/NNS in/IN practical/JJ situations/NNS ,/, while/IN many/JJ unlabeled/JJ bags/NNS are/VBP available/JJ ./.
+A/DT learning/NN framework/NN called/VBN PU/NNP learning/NN (/-LRB- positive/JJ and/CC unlabeled/JJ learning/NN )/-RRB- can/MD address/VB this/DT problem/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT convex/NN PU/NN learning/NN method/NN to/TO solve/VB an/DT MIL/NN problem/NN ./.
+We/PRP experimentally/RB show/VBP that/IN the/DT proposed/JJ method/NN achieves/VBZ better/JJR performance/NN with/IN significantly/RB lower/JJR computational/JJ costs/NNS than/IN an/DT existing/JJ method/NN for/IN PU/NNP -/HYPH MIL/NNP ./.

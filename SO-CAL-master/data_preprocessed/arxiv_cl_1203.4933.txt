@@ -1,0 +1,7 @@
+This/DT paper/NN gives/VBZ a/DT detail/NN overview/NN about/IN the/DT modified/VBN features/NNS selection/NN in/IN CRF/NNP (/-LRB- Conditional/JJ Random/NNP Field/NNP )/-RRB- based/VBN Manipuri/NNP POS/NN (/-LRB- Part/NN of/IN Speech/NNP )/-RRB- tagging/NN ./.
+Selection/NN of/IN features/NNS is/VBZ so/RB important/JJ in/IN CRF/NNP that/IN the/DT better/JJR are/VBP the/DT features/NNS then/RB the/DT better/JJR are/VBP the/DT outputs/NNS ./.
+This/DT work/NN is/VBZ an/DT attempt/NN or/CC an/DT experiment/NN to/TO make/VB the/DT previous/JJ work/NN more/RBR efficient/JJ ./.
+Multiple/JJ new/JJ features/NNS are/VBP tried/VBN to/TO run/VB the/DT CRF/NNP and/CC again/RB tried/VBD with/IN the/DT Reduplicated/NNP Multiword/NNP Expression/NN (/-LRB- RMWE/NN )/-RRB- as/IN another/DT feature/NN ./.
+The/DT CRF/NNP run/VB with/IN RMWE/NN because/IN Manipuri/NNP is/VBZ rich/JJ of/IN RMWE/NNP and/CC identification/NN of/IN RMWE/NNP becomes/VBZ one/CD of/IN the/DT necessities/NNS to/TO bring/VB up/RP the/DT result/NN of/IN POS/NN tagging/NN ./.
+The/DT new/JJ CRF/NNP system/NN shows/VBZ a/DT Recall/NNP of/IN 78.22/CD percent/NN ,/, Precision/NNP of/IN 73.15/CD percent/NN and/CC F/NN -/HYPH measure/NN of/IN 75.60/CD percent/NN ./.
+With/IN the/DT identification/NN of/IN RMWE/NNP and/CC considering/VBG it/PRP as/IN a/DT feature/NN makes/VBZ an/DT improvement/NN to/IN a/DT Recall/NNP of/IN 80.20/CD percent/NN ,/, Precision/NNP of/IN 74.31/CD percent/NN and/CC F/NN -/HYPH measure/NN of/IN 77.14/CD percent/NN ./.

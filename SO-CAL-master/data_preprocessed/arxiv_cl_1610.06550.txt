@@ -1,0 +1,4 @@
+Most/JJS existing/VBG Neural/JJ Machine/NN Translation/NN models/NNS use/VBP groups/NNS of/IN characters/NNS or/CC whole/JJ words/NNS as/IN their/PRP$ unit/NN of/IN input/NN and/CC output/NN ./.
+We/PRP propose/VBP a/DT model/NN with/IN a/DT hierarchical/JJ char2word/NN encoder/NN ,/, that/DT takes/VBZ individual/JJ characters/NNS both/CC as/IN input/NN and/CC output/NN ./.
+We/PRP first/RB argue/VBP that/IN this/DT hierarchical/JJ representation/NN of/IN the/DT character/NN encoder/NN reduces/VBZ computational/JJ complexity/NN ,/, and/CC show/VBP that/IN it/PRP improves/VBZ translation/NN performance/NN ./.
+Secondly/RB ,/, by/IN qualitatively/RB studying/VBG attention/NN plots/NNS from/IN the/DT decoder/NN we/PRP find/VBP that/IN the/DT model/NN learns/VBZ to/IN compress/VB common/JJ words/NNS into/IN a/DT single/JJ embedding/NN whereas/IN rare/JJ words/NNS ,/, such/JJ as/IN names/NNS and/CC places/NNS ,/, are/VBP represented/VBN character/NN by/IN character/NN ./.

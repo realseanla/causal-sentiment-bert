@@ -1,0 +1,6 @@
+We/PRP investigate/VBP the/DT generation/NN of/IN one/CD -/HYPH sentence/NN Wikipedia/NNP biographies/NNS from/IN facts/NNS derived/VBN from/IN Wikidata/NNP slot/NN -/HYPH value/NN pairs/NNS ./.
+We/PRP train/VBP a/DT recurrent/JJ neural/JJ network/NN sequence/NN -/HYPH to/IN -/HYPH sequence/NN model/NN with/IN attention/NN to/IN select/JJ facts/NNS and/CC generate/VBP textual/JJ summaries/NNS ./.
+Our/PRP$ model/NN incorporates/VBZ a/DT novel/JJ secondary/JJ objective/NN that/WDT helps/VBZ ensure/VB it/PRP generates/VBZ sentences/NNS that/WDT contain/VBP the/DT input/NN facts/NNS ./.
+The/DT model/NN achieves/VBZ a/DT BLEU/NN score/NN of/IN 41/CD ,/, improving/VBG significantly/RB upon/IN the/DT vanilla/NN sequence/NN -/HYPH to/IN -/HYPH sequence/NN model/NN and/CC scoring/VBG roughly/RB twice/RB that/DT of/IN a/DT simple/JJ template/NN baseline/NN ./.
+Human/JJ preference/NN evaluation/NN suggests/VBZ the/DT model/NN is/VBZ nearly/RB as/RB good/JJ as/IN the/DT Wikipedia/NNP reference/NN ./.
+Manual/JJ analysis/NN explores/VBZ content/NN selection/NN ,/, suggesting/VBG the/DT model/NN can/MD trade/VB the/DT ability/NN to/TO infer/VB knowledge/NN against/IN the/DT risk/NN of/IN hallucinating/NN incorrect/JJ information/NN ./.

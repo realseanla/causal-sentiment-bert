@@ -1,0 +1,7 @@
+Audio event detection in the era of Big Data has the constraint of lacking annotations to train robust models that match the scale of class diversity.
+This is mainly due to the expensive and time-consuming process of manually annotating sound events in isolation or as segments within audio recordings.
+In this paper, we propose an approach for semi-supervised self-training of audio event detectors using unlabeled web data.
+We started with a small annotated dataset and trained sound events detectors.
+Then, we crawl and collect thousands of web videos and extract their soundtrack.
+The segmented soundtracks are run by the detectors and different selection techniques were used to determine whether a segment should be used for self-training the detectors.
+The original detectors were compared to the self-trained detectors and the results showed a performance improvement by the latter when evaluated on the annotated test set.

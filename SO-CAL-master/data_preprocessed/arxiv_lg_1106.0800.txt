@@ -1,0 +1,5 @@
+The/DT exploration/NN -/HYPH exploitation/NN tradeoff/NN is/VBZ among/IN the/DT central/JJ challenges/NNS of/IN reinforcement/NN learning/NN ./.
+A/DT hypothetical/JJ exact/JJ Bayesian/JJ learner/NN would/MD provide/VB the/DT optimal/JJ solution/NN ,/, but/CC is/VBZ intractable/JJ in/IN general/JJ ./.
+I/PRP show/VBP that/IN ,/, however/RB ,/, in/IN the/DT specific/JJ case/NN of/IN Gaussian/JJ process/NN inference/NN ,/, it/PRP is/VBZ possible/JJ to/TO make/VB analytic/JJ statements/NNS about/IN optimal/JJ learning/NN of/IN both/DT rewards/NNS and/CC transition/NN dynamics/NNS ,/, for/IN nonlinear/JJ ,/, time/NN -/HYPH varying/VBG systems/NNS in/IN continuous/JJ time/NN and/CC space/NN ,/, subject/NN to/IN a/DT relatively/RB weak/JJ restriction/NN on/IN the/DT dynamics/NNS ./.
+The/DT solution/NN is/VBZ described/VBN by/IN an/DT infinite/JJ -/HYPH dimensional/JJ differential/JJ equation/NN ./.
+For/IN a/DT first/JJ impression/NN of/IN how/WRB this/DT result/NN may/MD be/VB useful/JJ ,/, I/PRP also/RB provide/VBP an/DT approximate/JJ reduction/NN to/IN a/DT finite/NN -/HYPH dimensional/JJ problem/NN ,/, with/IN a/DT numeric/JJ solution/NN ./.

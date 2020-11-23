@@ -1,0 +1,12 @@
+Automatic/JJ diagnosis/NN of/IN coronary/JJ heart/NN disease/NN helps/VBZ the/DT doctor/NN to/TO support/VB in/IN decision/NN making/VBG a/DT diagnosis/NN ./.
+Coronary/JJ heart/NN disease/NN have/VBP some/DT types/NNS or/CC levels/NNS ./.
+Referring/VBG to/IN the/DT UCI/NNP Repository/NN dataset/NN ,/, it/PRP divided/VBD into/IN 4/CD types/NNS or/CC levels/NNS that/WDT are/VBP labeled/VBN numbers/NNS 1/CD -/SYM 4/CD (/-LRB- low/JJ ,/, medium/JJ ,/, high/JJ and/CC serious/JJ )/-RRB- ./.
+The/DT diagnosis/NN models/NNS can/MD be/VB analyzed/VBN with/IN multiclass/NN classification/NN approach/NN ./.
+One/CD of/IN multiclass/NN classification/NN approach/NN used/VBN ,/, one/CD of/IN which/WDT is/VBZ a/DT support/NN vector/NN machine/NN (/-LRB- SVM/NN )/-RRB- ./.
+The/DT SVM/NNP use/NN due/IN to/IN strong/JJ performance/NN of/IN SVM/NNP in/IN binary/JJ classification/NN ./.
+This/DT research/NN study/NN multiclass/NN performance/NN classification/NN support/NN vector/NN machine/NN to/TO diagnose/VB the/DT type/NN or/CC level/NN of/IN coronary/JJ heart/NN disease/NN ./.
+Coronary/JJ heart/NN disease/NN patient/NN data/NNS taken/VBN from/IN the/DT UCI/NNP Repository/NNP ./.
+Stages/NNS in/IN this/DT study/NN is/VBZ preprocessing/VBG ,/, which/WDT consist/VBP of/IN ,/, to/IN normalizing/VBG the/DT data/NNS ,/, divide/VBP the/DT data/NNS into/IN data/NNS training/NN and/CC testing/NN ./.
+The/DT next/JJ stage/NN of/IN multiclass/NN classification/NN and/CC performance/NN analysis/NN ./.
+This/DT study/NN uses/VBZ multiclass/NNS SVM/NNP algorithm/NN ,/, namely/RB :/: Binary/JJ Tree/NN Support/NN Vector/NNP Machine/NNP (/-LRB- BTSVM/NNP )/-RRB- ,/, One/CD -/HYPH Against/IN -/HYPH One/CD (/-LRB- OAO/NN )/-RRB- ,/, One/CD -/HYPH Against/IN -/HYPH All/DT (/-LRB- OAA/NN )/-RRB- ,/, Decision/NN Direct/JJ Acyclic/NNP Graph/NNP (/-LRB- DDAG/NNP )/-RRB- and/CC Exhaustive/JJ Output/NN Error/NN Correction/NN Code/NN (/-LRB- ECOC/NN )/-RRB- ./.
+Performance/NN parameter/NN used/VBN is/VBZ recall/NN ,/, precision/NN ,/, F/NN -/HYPH measure/NN and/CC Overall/JJ accuracy/NN ./.

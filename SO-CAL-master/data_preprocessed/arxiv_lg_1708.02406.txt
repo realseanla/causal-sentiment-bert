@@ -1,0 +1,4 @@
+Conditional/JJ probabilities/NNS are/VBP a/DT core/NN concept/NN in/IN machine/NN learning/NN ./.
+For/IN example/NN ,/, optimal/JJ prediction/NN of/IN a/DT label/NN $/$ Y$/CD given/VBN an/DT input/NN $/$ X$/CD corresponds/VBZ to/IN maximizing/VBG the/DT conditional/JJ probability/NN of/IN $/$ Y$/CD given/VBN $/$ X$/CD ./.
+A/DT common/JJ approach/NN to/IN inference/NN tasks/NNS is/VBZ learning/VBG a/DT model/NN of/IN conditional/JJ probabilities/NNS ./.
+However/RB ,/, these/DT models/NNS are/VBP often/RB based/VBN on/IN strong/JJ assumptions/NNS (/-LRB- e.g./FW ,/, log/NN -/HYPH linear/JJ models/NNS )/-RRB- ,/, and/CC hence/RB their/PRP$ estimate/NN of/IN conditional/JJ probabilities/NNS is/VBZ not/RB robust/JJ and/CC is/VBZ highly/RB dependent/JJ on/IN the/DT validity/NN of/IN their/PRP$ assumptions/NNS ./.

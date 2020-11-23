@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT multimodal/JJ Recurrent/JJ Neural/JJ Network/NN (/-LRB- m/NN -/HYPH RNN/NN )/-RRB- model/NN for/IN generating/VBG novel/JJ image/NN captions/NNS ./.
+It/PRP directly/RB models/NNS the/DT probability/NN distribution/NN of/IN generating/VBG a/DT word/NN given/VBN previous/JJ words/NNS and/CC an/DT image/NN ./.
+Image/NN captions/NNS are/VBP generated/VBN by/IN sampling/NN from/IN this/DT distribution/NN ./.
+The/DT model/NN consists/VBZ of/IN two/CD sub-networks/NNS :/: a/DT deep/JJ recurrent/JJ neural/JJ network/NN for/IN sentences/NNS and/CC a/DT deep/JJ convolutional/JJ network/NN for/IN images/NNS ./.
+These/DT two/CD sub-networks/NNS interact/VBP with/IN each/DT other/JJ in/IN a/DT multimodal/JJ layer/NN to/TO form/VB the/DT whole/JJ m/NN -/HYPH RNN/NN model/NN ./.
+The/DT effectiveness/NN of/IN our/PRP$ model/NN is/VBZ validated/VBN on/IN four/CD benchmark/NN datasets/NNS (/-LRB- IAPR/NN TC/NN -/HYPH 12/CD ,/, Flickr/NNP 8K/NN ,/, Flickr/NNP 30K/NNP and/CC MS/NNP COCO/NNP )/-RRB- ./.
+Our/PRP$ model/NN outperforms/VBZ the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.
+In/IN addition/NN ,/, the/DT m/NN -/HYPH RNN/NN model/NN can/MD be/VB applied/VBN to/IN retrieval/NN tasks/NNS for/IN retrieving/VBG images/NNS or/CC sentences/NNS ,/, and/CC achieves/VBZ significant/JJ performance/NN improvement/NN over/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS which/WDT directly/RB optimize/VBP the/DT ranking/VBG objective/NN function/NN for/IN retrieval/NN ./.

@@ -1,0 +1,10 @@
+This/DT paper/NN presents/VBZ machine/NN learning/NN solutions/NNS to/IN a/DT practical/JJ problem/NN of/IN Natural/NNP Language/NNP Generation/NNP (/-LRB- NLG/NNP )/-RRB- ,/, particularly/RB the/DT word/NN formation/NN in/IN agglutinative/JJ languages/NNS like/IN Tamil/NNP ,/, in/IN a/DT supervised/JJ manner/NN ./.
+The/DT morphological/JJ generator/NN is/VBZ an/DT important/JJ component/NN of/IN Natural/NNP Language/NNP Processing/NNP in/IN Artificial/NNP Intelligence/NNP ./.
+It/PRP generates/VBZ word/NN forms/NNS given/VBN a/DT root/NN and/CC affixes/VBZ ./.
+The/DT morphophonemic/JJ changes/NNS like/IN addition/NN ,/, deletion/NN ,/, alternation/NN etc./FW ,/, occur/VB when/WRB two/CD or/CC more/JJR morphemes/NNS or/CC words/NNS joined/VBD together/RB ./.
+The/DT Sandhi/NNP rules/NNS should/MD be/VB explicitly/RB specified/VBN in/IN the/DT rule/NN based/VBN morphological/JJ analyzers/NNS and/CC generators/NNS ./.
+In/IN machine/NN learning/NN framework/NN ,/, these/DT rules/NNS can/MD be/VB learned/VBN automatically/RB by/IN the/DT system/NN from/IN the/DT training/NN samples/NNS and/CC subsequently/RB be/VB applied/VBN for/IN new/JJ inputs/NNS ./.
+In/IN this/DT paper/NN we/PRP proposed/VBD the/DT machine/NN learning/NN models/NNS which/WDT learn/VBP the/DT morphophonemic/JJ rules/NNS for/IN noun/NN declensions/NNS from/IN the/DT given/VBN training/NN data/NNS ./.
+These/DT models/NNS are/VBP trained/VBN to/TO learn/VB sandhi/JJ rules/NNS using/VBG various/JJ learning/NN algorithms/NNS and/CC the/DT performance/NN of/IN those/DT algorithms/NNS are/VBP presented/VBN ./.
+From/IN this/DT we/PRP conclude/VBP that/IN machine/NN learning/NN of/IN morphological/JJ processing/NN such/JJ as/IN word/NN form/NN generation/NN can/MD be/VB successfully/RB learned/VBN in/IN a/DT supervised/JJ manner/NN ,/, without/IN explicit/JJ description/NN of/IN rules/NNS ./.
+The/DT performance/NN of/IN Decision/NN trees/NNS and/CC Bayesian/JJ machine/NN learning/VBG algorithms/NNS on/IN noun/NN declensions/NNS are/VBP discussed/VBN ./.

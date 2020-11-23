@@ -1,0 +1,5 @@
+Predicting/NNP properties/NNS of/IN molecules/NNS requires/VBZ functions/NNS that/WDT take/VBP graphs/NNS as/IN inputs/NNS ./.
+Molecular/JJ graphs/NNS are/VBP usually/RB preprocessed/VBN using/VBG hash/NN -/HYPH based/VBN functions/NNS to/TO produce/VB fixed/VBN -/HYPH size/NN fingerprint/NN vectors/NNS ,/, which/WDT are/VBP used/VBN as/IN features/NNS for/IN making/VBG predictions/NNS ./.
+We/PRP introduce/VBP a/DT convolutional/JJ neural/JJ network/NN that/WDT operates/VBZ directly/RB on/IN graphs/NNS ,/, allowing/VBG end/NN -/HYPH to/IN -/HYPH end/NN learning/NN of/IN the/DT feature/NN pipeline/NN ./.
+This/DT architecture/NN generalizes/VBZ standard/JJ molecular/JJ fingerprints/NNS ./.
+We/PRP show/VBP that/IN these/DT data/NNS -/HYPH driven/VBN features/NNS are/VBP more/RBR interpretable/JJ ,/, and/CC have/VB better/JJR predictive/JJ performance/NN on/IN a/DT variety/NN of/IN tasks/NNS ./.

@@ -1,0 +1,9 @@
+Timeline/NNP Generation/NNP aims/VBZ at/IN summarizing/VBG news/NN from/IN different/JJ epochs/NNS and/CC telling/VBG readers/NNS how/WRB an/DT event/NN evolves/VBZ ./.
+It/PRP is/VBZ a/DT new/JJ challenge/NN that/WDT combines/VBZ salience/NN ranking/VBG with/IN novelty/NN detection/NN ./.
+For/IN long/JJ -/HYPH term/NN public/JJ events/NNS ,/, the/DT main/JJ topic/NN usually/RB includes/VBZ various/JJ aspects/NNS across/IN different/JJ epochs/NNS and/CC each/DT aspect/NN has/VBZ its/PRP$ own/JJ evolving/VBG pattern/NN ./.
+Existing/VBG approaches/NNS neglect/NN such/JJ hierarchical/JJ topic/NN structure/NN involved/VBN in/IN the/DT news/NN corpus/NN in/IN timeline/NN generation/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP a/DT novel/JJ time/NN -/HYPH dependent/JJ Hierarchical/JJ Dirichlet/NNP Model/NNP (/-LRB- HDM/NNP )/-RRB- for/IN timeline/NN generation/NN ./.
+Our/PRP$ model/NN can/MD aptly/RB detect/VB different/JJ levels/NNS of/IN topic/NN information/NN across/IN corpus/NN and/CC such/JJ structure/NN is/VBZ further/RB used/VBN for/IN sentence/NN selection/NN ./.
+Based/VBN on/IN the/DT topic/NN mined/VBN fro/RB HDM/NNP ,/, sentences/NNS are/VBP selected/VBN by/IN considering/VBG different/JJ aspects/NNS such/JJ as/IN relevance/NN ,/, coherence/NN and/CC coverage/NN ./.
+We/PRP develop/VBP experimental/JJ systems/NNS to/TO evaluate/VB 8/CD long/JJ -/HYPH term/NN events/NNS that/WDT public/JJ concern/NN ./.
+Performance/NN comparison/NN between/IN different/JJ systems/NNS demonstrates/VBZ the/DT effectiveness/NN of/IN our/PRP$ model/NN in/IN terms/NNS of/IN ROUGE/NN metrics/NNS ./.

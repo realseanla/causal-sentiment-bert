@@ -1,0 +1,6 @@
+Semantic parsing aims at mapping natural language to machine interpretable meaning representations.
+Traditional approaches rely on high-quality lexicons, manually-built templates, and linguistic features which are either domain- or representation-specific.
+In this paper, we present a general method based on an attention-enhanced sequence-to-sequence model.
+We encode input sentences into vector representations using recurrent neural networks, and generate their logical forms by conditioning the output on the encoding vectors.
+The model is trained in an end-to-end fashion to maximize the likelihood of target logical forms given the natural language inputs.
+Experimental results on four datasets show that our approach performs competitively without using hand-engineered features and is easy to adapt across domains and meaning representations.

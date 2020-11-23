@@ -1,0 +1,6 @@
+The/DT rigorous/JJ theoretical/JJ analyses/NNS of/IN algorithms/NNS for/IN exact/JJ 3/CD -/HYPH satisfiability/NN (/-LRB- X3SAT/NN )/-RRB- have/VBP been/VBN proposed/VBN in/IN the/DT literature/NN ./.
+As/IN we/PRP know/VBP ,/, previous/JJ algorithms/NNS for/IN solving/VBG X3SAT/NN have/VBP been/VBN analyzed/VBN only/RB regarding/VBG the/DT number/NN of/IN variables/NNS as/IN the/DT parameter/NN ./.
+However/RB ,/, the/DT time/NN complexity/NN for/IN solving/VBG X3SAT/NN instances/NNS depends/VBZ not/RB only/RB on/IN the/DT number/NN of/IN variables/NNS ,/, but/CC also/RB on/IN the/DT number/NN of/IN clauses/NNS ./.
+Therefore/RB ,/, it/PRP is/VBZ significant/JJ to/TO exploit/VB the/DT time/NN complexity/NN from/IN the/DT other/JJ point/NN of/IN view/NN ,/, i.e./FW the/DT number/NN of/IN clauses/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP algorithms/NNS for/IN solving/VBG X3SAT/NN with/IN rigorous/JJ complexity/NN analyses/NNS using/VBG the/DT number/NN of/IN clauses/NNS as/IN the/DT parameter/NN ./.
+By/IN analyzing/VBG the/DT algorithms/NNS ,/, we/PRP obtain/VBP the/DT new/JJ worst/JJS -/HYPH case/NN upper/JJ bounds/NNS O/NN (/-LRB- 1.15855/CD m/NN )/-RRB- ,/, where/WRB m/NN is/VBZ the/DT number/NN of/IN clauses/NNS ./.

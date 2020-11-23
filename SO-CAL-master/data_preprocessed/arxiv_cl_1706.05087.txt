@@ -1,0 +1,6 @@
+We/PRP investigate/VBP the/DT integration/NN of/IN a/DT planning/NN mechanism/NN into/IN an/DT encoder/NN -/HYPH decoder/NN architecture/NN with/IN attention/NN for/IN character/NN -/HYPH level/NN machine/NN translation/NN ./.
+We/PRP develop/VBP a/DT model/NN that/WDT plans/VBZ ahead/RB when/WRB it/PRP computes/VBZ alignments/NNS between/IN the/DT source/NN and/CC target/NN sequences/NNS ,/, constructing/VBG a/DT matrix/NN of/IN proposed/VBN future/NN alignments/NNS and/CC a/DT commitment/NN vector/NN that/WDT governs/VBZ whether/IN to/TO follow/VB or/CC recompute/VB the/DT plan/NN ./.
+This/DT mechanism/NN is/VBZ inspired/VBN by/IN the/DT strategic/JJ attentive/JJ reader/NN and/CC writer/NN (/-LRB- STRAW/NN )/-RRB- model/NN ./.
+Our/PRP$ proposed/VBN model/NN is/VBZ end/NN -/HYPH to/IN -/HYPH end/NN trainable/JJ with/IN fully/RB differentiable/JJ operations/NNS ./.
+We/PRP show/VBP that/IN it/PRP outperforms/VBZ a/DT strong/JJ baseline/NN on/IN three/CD character/NN -/HYPH level/NN decoder/NN neural/JJ machine/NN translation/NN on/IN WMT/NNP '15/CD corpus/NN ./.
+Our/PRP$ analysis/NN demonstrates/VBZ that/IN our/PRP$ model/NN can/MD compute/VB qualitatively/RB intuitive/JJ alignments/NNS and/CC achieves/VBZ superior/JJ performance/NN with/IN fewer/JJR parameters/NNS ./.

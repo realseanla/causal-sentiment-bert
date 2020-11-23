@@ -1,0 +1,4 @@
+The/DT purported/VBN "/`` black/JJ box/NN "/'' nature/NN of/IN neural/JJ networks/NNS is/VBZ a/DT barrier/NN to/IN adoption/NN in/IN applications/NNS where/WRB interpretability/NN is/VBZ essential/JJ ./.
+Here/RB we/PRP present/JJ DeepLIFT/NNS (/-LRB- Learning/VBG Important/JJ FeaTures/NNS )/-RRB- ,/, an/DT efficient/JJ and/CC effective/JJ method/NN for/IN computing/VBG importance/NN scores/NNS in/IN a/DT neural/JJ network/NN ./.
+DeepLIFT/NNP compares/VBZ the/DT activation/NN of/IN each/DT neuron/NN to/IN its/PRP$ '/`` reference/NN activation/NN '/'' and/CC assigns/VBZ contribution/NN scores/NNS according/VBG to/IN the/DT difference/NN ./.
+We/PRP apply/VBP DeepLIFT/NN to/IN models/NNS trained/VBN on/IN natural/JJ images/NNS and/CC genomic/JJ data/NNS ,/, and/CC show/VBP significant/JJ advantages/NNS over/IN gradient/NN -/HYPH based/VBN methods/NNS ./.

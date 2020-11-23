@@ -1,0 +1,7 @@
+We/PRP design/NN and/CC implement/VB a/DT distributed/VBN multinode/NN synchronous/JJ SGD/NNP algorithm/NN ,/, without/IN altering/VBG hyper/JJ parameters/NNS ,/, or/CC compressing/VBG data/NNS ,/, or/CC altering/VBG algorithmic/JJ behavior/NN ./.
+We/PRP perform/VBP a/DT detailed/JJ analysis/NN of/IN scaling/NN ,/, and/CC identify/VB optimal/JJ design/NN points/NNS for/IN different/JJ networks/NNS ./.
+We/PRP demonstrate/VBP scaling/NN of/IN CNNs/NNPS on/IN 100s/NNPS of/IN nodes/NNS ,/, and/CC present/VB what/WP we/PRP believe/VBP to/TO be/VB record/JJ training/NN throughputs/NNS ./.
+A/DT 512/CD minibatch/NN VGG/NN -/HYPH A/NN CNN/NNP training/VBG run/NN is/VBZ scaled/VBN 90X/NN on/IN 128/CD nodes/NNS ./.
+Also/RB 256/CD minibatch/NN VGG/NN -/HYPH A/NN and/CC OverFeat/NN -/HYPH FAST/JJ networks/NNS are/VBP scaled/VBN 53X/NN and/CC 42X/NN respectively/RB on/IN a/DT 64/CD node/NN cluster/NN ./.
+We/PRP also/RB demonstrate/VBP the/DT generality/NN of/IN our/PRP$ approach/NN via/IN best/JJS -/HYPH in/IN -/HYPH class/NN 6.5/CD X/NN scaling/NN for/IN a/DT 7/CD -/HYPH layer/NN DNN/NN on/IN 16/CD nodes/NNS ./.
+Thereafter/RB we/PRP attempt/VBP to/TO democratize/VB deep/JJ -/HYPH learning/NN by/IN training/VBG on/IN an/DT Ethernet/NN based/VBN AWS/NNP cluster/NNP and/CC show/VB ~/SYM 14X/NN scaling/NN on/IN 16/CD nodes/NNS ./.

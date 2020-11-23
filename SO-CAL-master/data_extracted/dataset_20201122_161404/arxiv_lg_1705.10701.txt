@@ -1,0 +1,10 @@
+This paper proposes a new approach to a novel value network architecture for the game Go, called a multi-labelled (ML) value network.
+In the ML value network, different values (win rates) are trained simultaneously for different settings of komi, a compensation given to balance the initiative of playing first.
+The ML value network has three advantages, (a) it outputs values for different komi, (b) it supports dynamic komi, and (c) it lowers the mean squared error (MSE).
+This paper also proposes a new dynamic komi method to improve game-playing strength.
+This paper also performs experiments to demonstrate the merits of the architecture.
+First, the MSE of the ML value network is generally lower than the value network alone.
+Second, the program based on the ML value network wins by a rate of 67.6 percent against the program based on the value network alone.
+Third, the program with the proposed dynamic komi method significantly improves the playing strength over the baseline that does not use dynamic komi, especially for handicap games.
+To our knowledge, up to date, no handicap games have been played openly by programs using value networks.
+This paper provides these programs with a useful approach to playing handicap games.

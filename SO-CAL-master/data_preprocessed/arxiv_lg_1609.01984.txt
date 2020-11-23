@@ -1,0 +1,9 @@
+Personal/JJ robots/NNS are/VBP expected/VBN to/TO interact/VB with/IN the/DT user/NN by/IN recognizing/VBG the/DT user/NN 's/POS face/NN ./.
+However/RB ,/, in/IN most/JJS of/IN the/DT service/NN robot/NN applications/NNS ,/, the/DT user/NN needs/VBZ to/TO move/VB himself/PRP //, herself/PRP to/TO allow/VB the/DT robot/NN to/TO see/VB him/PRP //, her/PRP$ face/NN to/IN face/NN ./.
+To/TO overcome/VB such/JJ limitations/NNS ,/, a/DT method/NN for/IN estimating/VBG human/JJ body/NN orientation/NN is/VBZ required/VBN ./.
+Previous/JJ studies/NNS used/VBD various/JJ components/NNS such/JJ as/IN feature/NN extractors/NNS and/CC classification/NN models/NNS to/IN classify/VB the/DT orientation/NN which/WDT resulted/VBD in/IN low/JJ performance/NN ./.
+For/IN a/DT more/RBR robust/JJ and/CC accurate/JJ approach/NN ,/, we/PRP propose/VBP the/DT light/JJ weight/NN convolutional/JJ neural/JJ networks/NNS ,/, an/DT end/NN to/IN end/NN system/NN ,/, for/IN estimating/VBG human/JJ body/NN orientation/NN ./.
+Our/PRP$ body/NN orientation/NN estimation/NN model/NN achieved/VBN 81.58/CD percent/NN and/CC 94/CD percent/NN accuracy/NN with/IN the/DT benchmark/NN dataset/NN and/CC our/PRP$ own/JJ dataset/NN respectively/RB ./.
+The/DT proposed/JJ method/NN can/MD be/VB used/VBN in/IN a/DT wide/JJ range/NN of/IN service/NN robot/NN applications/NNS which/WDT depend/VBP on/IN the/DT ability/NN to/TO estimate/VB human/JJ body/NN orientation/NN ./.
+To/TO show/VB its/PRP$ usefulness/NN in/IN service/NN robot/NN applications/NNS ,/, we/PRP designed/VBD a/DT simple/JJ robot/NN application/NN which/WDT allows/VBZ the/DT robot/NN to/TO move/VB towards/IN the/DT user/NN 's/POS frontal/JJ plane/NN ./.
+With/IN this/DT ,/, we/PRP demonstrated/VBD an/DT improved/JJ face/NN detection/NN rate/NN ./.

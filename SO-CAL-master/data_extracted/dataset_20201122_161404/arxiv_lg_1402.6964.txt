@@ -1,0 +1,5 @@
+Numerous algorithms are used for nonnegative matrix factorization under the assumption that the matrix is nearly separable.
+In this paper, we show how to make these algorithms efficient for data matrices that have many more rows than columns, so-called "tall-and-skinny matrices".
+One key component to these improved methods is an orthogonal matrix transformation that preserves the separability of the NMF problem.
+Our final methods need a single pass over the data matrix and are suitable for streaming, multi-core, and MapReduce architectures.
+We demonstrate the efficacy of these algorithms on terabyte-sized synthetic matrices and real-world matrices from scientific computing and bioinformatics.

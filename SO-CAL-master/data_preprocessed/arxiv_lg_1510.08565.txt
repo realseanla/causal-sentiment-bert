@@ -1,0 +1,9 @@
+In/IN a/DT conversation/NN or/CC a/DT dialogue/NN process/NN ,/, attention/NN and/CC intention/NN play/VBP intrinsic/JJ roles/NNS ./.
+This/DT paper/NN proposes/VBZ a/DT neural/JJ network/NN based/VBN approach/NN that/WDT models/NNS the/DT attention/NN and/CC intention/NN processes/NNS ./.
+It/PRP essentially/RB consists/VBZ of/IN three/CD recurrent/JJ networks/NNS ./.
+The/DT encoder/NN network/NN is/VBZ a/DT word/NN -/HYPH level/NN model/NN representing/VBG source/NN side/NN sentences/NNS ./.
+The/DT intention/NN network/NN is/VBZ a/DT recurrent/JJ network/NN that/WDT models/NNS the/DT dynamics/NNS of/IN the/DT intention/NN process/NN ./.
+The/DT decoder/NN network/NN is/VBZ a/DT recurrent/JJ network/NN produces/VBZ responses/NNS to/IN the/DT input/NN from/IN the/DT source/NN side/NN ./.
+It/PRP is/VBZ a/DT language/NN model/NN that/WDT is/VBZ dependent/JJ on/IN the/DT intention/NN and/CC has/VBZ an/DT attention/NN mechanism/NN to/TO attend/VB to/IN particular/JJ source/NN side/NN words/NNS ,/, when/WRB predicting/VBG a/DT symbol/NN in/IN the/DT response/NN ./.
+The/DT model/NN is/VBZ trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN without/IN labeling/VBG data/NNS ./.
+Experiments/NNS show/VBP that/IN this/DT model/NN generates/VBZ natural/JJ responses/NNS to/IN user/NN inputs/NNS ./.

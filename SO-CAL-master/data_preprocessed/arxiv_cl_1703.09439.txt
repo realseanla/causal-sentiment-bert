@@ -1,0 +1,6 @@
+We/PRP describe/VBP a/DT prototype/NN dialogue/NN response/NN generation/NN model/NN for/IN the/DT customer/NN service/NN domain/NN at/IN Amazon/NNP ./.
+The/DT model/NN ,/, which/WDT is/VBZ trained/VBN in/IN a/DT weakly/RB supervised/JJ fashion/NN ,/, measures/VBZ the/DT similarity/NN between/IN customer/NN questions/NNS and/CC agent/NN answers/NNS using/VBG a/DT dual/JJ encoder/NN network/NN ,/, a/DT Siamese/JJ -/HYPH like/JJ neural/JJ network/NN architecture/NN ./.
+Answer/NN templates/NNS are/VBP extracted/VBN from/IN embeddings/NNS derived/VBN from/IN past/JJ agent/NN answers/NNS ,/, without/IN turn/NN -/HYPH by/IN -/HYPH turn/NN annotations/NNS ./.
+Responses/NNS to/IN customer/NN inquiries/NNS are/VBP generated/VBN by/IN selecting/VBG the/DT best/JJS template/NN from/IN the/DT final/JJ set/NN of/IN templates/NNS ./.
+We/PRP show/VBP that/IN ,/, in/IN a/DT closed/JJ domain/NN like/IN customer/NN service/NN ,/, the/DT selected/VBN templates/NNS cover/VBP $/$ &gt;/SYM $/$ 70/CD \/SYM percent/NN of/IN past/JJ customer/NN inquiries/NNS ./.
+Furthermore/RB ,/, the/DT relevance/NN of/IN the/DT model/NN -/HYPH selected/VBN templates/NNS is/VBZ significantly/RB higher/JJR than/IN templates/NNS selected/VBN by/IN a/DT standard/JJ tf/NN -/HYPH idf/NN baseline/NN ./.

@@ -1,0 +1,5 @@
+The/DT method/NN introduced/VBN in/IN this/DT paper/NN aims/VBZ at/IN helping/VBG deep/JJ learning/NN practitioners/NNS faced/VBN with/IN an/DT overfit/JJ problem/NN ./.
+The/DT idea/NN is/VBZ to/TO replace/VB ,/, in/IN a/DT multi-branch/JJ network/NN ,/, the/DT standard/JJ summation/NN of/IN parallel/JJ branches/NNS with/IN a/DT stochastic/JJ affine/NN combination/NN ./.
+Applied/NNP to/TO 3/CD -/HYPH branch/NN residual/JJ networks/NNS ,/, shake/VB -/HYPH shake/VB regularization/NN improves/VBZ on/IN the/DT best/JJS single/JJ shot/NN published/VBD results/NNS on/IN CIFAR/NN -/HYPH 10/CD and/CC CIFAR/NN -/HYPH 100/CD by/IN reaching/VBG test/NN errors/NNS of/IN 2.86/CD percent/NN and/CC 15.85/CD percent/NN ./.
+Experiments/NNS on/IN architectures/NNS without/IN skip/VB connections/NNS or/CC Batch/NN Normalization/NN show/VBP encouraging/JJ results/NNS and/CC open/VB the/DT door/NN to/IN a/DT large/JJ set/NN of/IN applications/NNS ./.
+Code/NN is/VBZ available/JJ at/IN

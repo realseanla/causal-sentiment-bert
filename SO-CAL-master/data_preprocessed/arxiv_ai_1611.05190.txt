@@ -1,0 +1,6 @@
+The/DT CDCL/NNP algorithm/NN is/VBZ the/DT leading/JJ solution/NN adopted/VBN by/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN solvers/NNS for/IN SAT/NNP ,/, SMT/NNP ,/, ASP/NNP ,/, and/CC others/NNS ./.
+Experiments/NNS show/VBP that/IN the/DT performance/NN of/IN CDCL/NN solvers/NNS can/MD be/VB significantly/RB boosted/VBN by/IN embedding/VBG domain/NN -/HYPH specific/JJ heuristics/NNS ,/, especially/RB on/IN large/JJ real/JJ -/HYPH world/NN problems/NNS ./.
+However/RB ,/, a/DT proper/JJ integration/NN of/IN such/JJ criteria/NNS in/IN off/RB -/HYPH the/DT -/HYPH shelf/NN CDCL/NN implementations/NNS is/VBZ not/RB obvious/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP distill/VBP the/DT key/JJ ingredients/NNS that/WDT drive/VBP the/DT search/NN of/IN CDCL/NN solvers/NNS ,/, and/CC propose/VB a/DT general/JJ framework/NN for/IN designing/VBG and/CC implementing/VBG new/JJ heuristics/NNS ./.
+We/PRP implemented/VBD our/PRP$ strategy/NN in/IN an/DT ASP/NN solver/NN ,/, and/CC we/PRP experimented/VBD on/IN two/CD industrial/JJ domains/NNS ./.
+On/IN hard/JJ problem/NN instances/NNS ,/, state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN implementations/NNS fail/VBP to/TO find/VB any/DT solution/NN in/IN acceptable/JJ time/NN ,/, whereas/IN our/PRP$ implementation/NN is/VBZ very/RB successful/JJ and/CC finds/VBZ all/DT solutions/NNS ./.

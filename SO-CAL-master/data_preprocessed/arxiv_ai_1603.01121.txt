@@ -1,0 +1,6 @@
+Many/JJ real/JJ -/HYPH world/NN applications/NNS can/MD be/VB described/VBN as/IN large/JJ -/HYPH scale/NN games/NNS of/IN imperfect/JJ information/NN ./.
+To/TO deal/VB with/IN these/DT challenging/VBG domains/NNS ,/, prior/JJ work/NN has/VBZ focused/VBN on/IN computing/VBG Nash/NNP equilibria/NNS in/IN a/DT handcrafted/VBN abstraction/NN of/IN the/DT domain/NN ./.
+In/IN this/DT paper/NN we/PRP introduce/VBP the/DT first/JJ scalable/JJ end/NN -/HYPH to/IN -/HYPH end/NN approach/NN to/IN learning/VBG approximate/JJ Nash/NNP equilibria/NNS without/IN any/DT prior/JJ knowledge/NN ./.
+Our/PRP$ method/NN combines/VBZ fictitious/JJ self/NN -/HYPH play/NN with/IN deep/JJ reinforcement/NN learning/NN ./.
+When/WRB applied/VBN to/IN Leduc/NNP poker/NN ,/, Neural/JJ Fictitious/JJ Self/NN -/HYPH Play/NN (/-LRB- NFSP/NN )/-RRB- approached/VBD a/DT Nash/NNP equilibrium/NN ,/, whereas/IN common/JJ reinforcement/NN learning/VBG methods/NNS diverged/VBD ./.
+In/IN Limit/NNP Texas/NNP Holdem/NNP ,/, a/DT poker/NN game/NN of/IN real/JJ -/HYPH world/NN scale/NN ,/, NFSP/NNP learnt/VBD a/DT competitive/JJ strategy/NN that/WDT approached/VBD the/DT performance/NN of/IN human/JJ experts/NNS and/CC state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

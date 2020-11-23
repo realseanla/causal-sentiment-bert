@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT heuristic/NN operator/NN which/WDT aims/VBZ at/IN simultaneously/RB optimizing/VBG the/DT orientations/NNS of/IN all/PDT the/DT edges/NNS in/IN an/DT intermediate/JJ Bayesian/JJ network/NN structure/NN during/IN the/DT search/NN process/NN ./.
+This/DT is/VBZ done/VBN by/IN alternating/VBG between/IN the/DT space/NN of/IN directed/VBN acyclic/JJ graphs/NNS (/-LRB- DAGs/NNS )/-RRB- and/CC the/DT space/NN of/IN skeletons/NNS ./.
+The/DT found/VBN orientations/NNS of/IN the/DT edges/NNS are/VBP based/VBN on/IN a/DT scoring/NN function/NN rather/RB than/IN on/IN induced/VBN conditional/JJ independences/NNS ./.
+This/DT operator/NN can/MD be/VB used/VBN as/IN an/DT extension/NN to/IN commonly/RB employed/VBN search/NN strategies/NNS ./.
+It/PRP is/VBZ evaluated/VBN in/IN experiments/NNS with/IN artificial/JJ and/CC real/JJ -/HYPH world/NN data/NNS ./.

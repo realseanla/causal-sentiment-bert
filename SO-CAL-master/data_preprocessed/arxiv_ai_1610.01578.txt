@@ -1,0 +1,11 @@
+Identity/NN verification/NN based/VBN on/IN authenticity/NN assessment/NN of/IN a/DT handwritten/JJ signature/NN is/VBZ an/DT important/JJ issue/NN in/IN biometrics/NNS ./.
+There/EX are/VBP many/JJ effective/JJ methods/NNS for/IN signature/NN verification/NN taking/VBG into/IN account/NN dynamics/NNS of/IN a/DT signing/NN process/NN ./.
+Methods/NNS based/VBN on/IN partitioning/VBG take/VB a/DT very/RB important/JJ place/NN among/IN them/PRP ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT new/JJ approach/NN to/IN signature/NN partitioning/NN ./.
+Its/PRP$ most/RBS important/JJ feature/NN is/VBZ the/DT possibility/NN of/IN selecting/VBG and/CC processing/VBG of/IN hybrid/NN partitions/NNS in/IN order/NN to/TO increase/VB a/DT precision/NN of/IN the/DT test/NN signature/NN analysis/NN ./.
+Partitions/NNS are/VBP formed/VBN by/IN a/DT combination/NN of/IN vertical/JJ and/CC horizontal/JJ sections/NNS of/IN the/DT signature/NN ./.
+Vertical/NNP sections/NNS correspond/VBP to/IN the/DT initial/JJ ,/, middle/JJ ,/, and/CC final/JJ time/NN moments/NNS of/IN the/DT signing/NN process/NN ./.
+In/IN turn/NN ,/, horizontal/JJ sections/NNS correspond/VBP to/IN the/DT signature/NN areas/NNS associated/VBN with/IN high/JJ and/CC low/JJ pen/NN velocity/NN and/CC high/JJ and/CC low/JJ pen/NN pressure/NN on/IN the/DT surface/NN of/IN a/DT graphics/NNS tablet/NN ./.
+Our/PRP$ previous/JJ research/NN on/IN vertical/JJ and/CC horizontal/JJ sections/NNS of/IN the/DT dynamic/JJ signature/NN (/-LRB- created/VBN independently/RB )/-RRB- led/VBD us/PRP to/TO develop/VB the/DT algorithm/NN presented/VBN in/IN this/DT paper/NN ./.
+Selection/NN of/IN sections/NNS ,/, among/IN others/NNS ,/, allows/VBZ us/PRP to/TO define/VB the/DT stability/NN of/IN the/DT signing/NN process/NN in/IN the/DT partitions/NNS ,/, promoting/VBG signature/NN areas/NNS of/IN greater/JJR stability/NN (/-LRB- and/CC vice/RB versa/RB )/-RRB- ./.
+In/IN the/DT test/NN of/IN the/DT proposed/JJ method/NN two/CD databases/NNS were/VBD used/VBN :/: public/JJ MCYT/NN -/HYPH 100/CD and/CC paid/VBN BioSecure/NNP ./.

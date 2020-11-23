@@ -1,0 +1,3 @@
+Matrix Completion is the problem of recovering an unknown real-valued low-rank matrix from a subsample of its entries.
+Important recent results show that the problem can be solved efficiently under the assumption that the unknown matrix is incoherent and the subsample is drawn uniformly at random.
+Are these assumptions necessary?

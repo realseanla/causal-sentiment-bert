@@ -1,0 +1,7 @@
+Music/NN emotion/NN recognition/NN (/-LRB- MER/NN )/-RRB- is/VBZ usually/RB regarded/VBN as/IN a/DT multi-label/JJ tagging/NN task/NN ,/, and/CC each/DT segment/NN of/IN music/NN can/MD inspire/VB specific/JJ emotion/NN tags/NNS ./.
+Most/JJS researchers/NNS extract/VBP acoustic/JJ features/NNS from/IN music/NN and/CC explore/VB the/DT relations/NNS between/IN these/DT features/NNS and/CC their/PRP$ corresponding/VBG emotion/NN tags/NNS ./.
+Considering/VBG the/DT inconsistency/NN of/IN emotions/NNS inspired/VBN by/IN the/DT same/JJ music/NN segment/NN for/IN human/JJ beings/NNS ,/, seeking/VBG for/IN the/DT key/JJ acoustic/JJ features/NNS that/WDT really/RB affect/VBP on/IN emotions/NNS is/VBZ really/RB a/DT challenging/JJ task/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ MER/NN method/NN by/IN using/VBG deep/JJ convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- on/IN the/DT music/NN spectrograms/NNS that/WDT contains/VBZ both/CC the/DT original/JJ time/NN and/CC frequency/NN domain/NN information/NN ./.
+By/IN the/DT proposed/JJ method/NN ,/, no/DT additional/JJ effort/NN on/IN extracting/VBG specific/JJ features/NNS required/VBN ,/, which/WDT is/VBZ left/VBN to/IN the/DT training/NN procedure/NN of/IN the/DT CNN/NNP model/NN ./.
+Experiments/NNS are/VBP conducted/VBN on/IN the/DT standard/JJ CAL500/NN and/CC CAL500exp/NN dataset/NN ./.
+Results/NNS show/VBP that/IN ,/, for/IN both/DT datasets/NNS ,/, the/DT proposed/JJ method/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

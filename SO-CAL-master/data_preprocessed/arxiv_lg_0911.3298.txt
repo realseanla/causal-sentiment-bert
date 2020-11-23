@@ -1,0 +1,12 @@
+Recursive/JJ Neural/JJ Networks/NNS are/VBP non-linear/JJ adaptive/JJ models/NNS that/WDT are/VBP able/JJ to/TO learn/VB deep/JJ structured/JJ information/NN ./.
+However/RB ,/, these/DT models/NNS have/VBP not/RB yet/RB been/VBN broadly/RB accepted/VBN ./.
+This/DT fact/NN is/VBZ mainly/RB due/IN to/IN its/PRP$ inherent/JJ complexity/NN ./.
+In/IN particular/JJ ,/, not/RB only/RB for/IN being/VBG extremely/RB complex/JJ information/NN processing/NN models/NNS ,/, but/CC also/RB because/IN of/IN a/DT computational/JJ expensive/JJ learning/NN phase/NN ./.
+The/DT most/RBS popular/JJ training/NN method/NN for/IN these/DT models/NNS is/VBZ back/RB -/HYPH propagation/NN through/IN the/DT structure/NN ./.
+This/DT algorithm/NN has/VBZ been/VBN revealed/VBN not/RB to/TO be/VB the/DT most/RBS appropriate/JJ for/IN structured/JJ processing/NN due/IN to/IN problems/NNS of/IN convergence/NN ,/, while/IN more/RBR sophisticated/JJ training/NN methods/NNS enhance/VB the/DT speed/NN of/IN convergence/NN at/IN the/DT expense/NN of/IN increasing/VBG significantly/RB the/DT computational/JJ cost/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP firstly/RB perform/VBP an/DT analysis/NN of/IN the/DT underlying/VBG principles/NNS behind/IN these/DT models/NNS aimed/VBN at/IN understanding/VBG their/PRP$ computational/JJ power/NN ./.
+Secondly/RB ,/, we/PRP propose/VBP an/DT approximate/JJ second/JJ order/NN stochastic/JJ learning/NN algorithm/NN ./.
+The/DT proposed/VBN algorithm/NN dynamically/RB adapts/VBZ the/DT learning/NN rate/NN throughout/IN the/DT training/NN phase/NN of/IN the/DT network/NN without/IN incurring/VBG excessively/RB expensive/JJ computational/JJ effort/NN ./.
+The/DT algorithm/NN operates/VBZ in/IN both/DT on/IN -/HYPH line/NN and/CC batch/NN modes/NNS ./.
+Furthermore/RB ,/, the/DT resulting/VBG learning/NN scheme/NN is/VBZ robust/JJ against/IN the/DT vanishing/VBG gradients/NNS problem/NN ./.
+The/DT advantages/NNS of/IN the/DT proposed/VBN algorithm/NN are/VBP demonstrated/VBN with/IN a/DT real/JJ -/HYPH world/NN application/NN example/NN ./.

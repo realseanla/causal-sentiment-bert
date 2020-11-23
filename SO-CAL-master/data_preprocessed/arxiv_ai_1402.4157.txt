@@ -1,0 +1,7 @@
+Existing/VBG work/NN in/IN multi-agent/JJ collision/NN prediction/NN and/CC avoidance/NN typically/RB assumes/VBZ discrete/JJ -/HYPH time/NN trajectories/NNS with/IN Gaussian/JJ uncertainty/NN or/CC that/WDT are/VBP completely/RB deterministic/JJ ./.
+We/PRP propose/VBP an/DT approach/NN that/WDT allows/VBZ detection/NN of/IN collisions/NNS even/RB between/IN continuous/JJ ,/, stochastic/JJ trajectories/NNS with/IN the/DT only/JJ restriction/NN that/WDT means/VBZ and/CC covariances/VBZ can/MD be/VB computed/VBN ./.
+To/IN this/DT end/NN ,/, we/PRP employ/VBP probabilistic/JJ bounds/NNS to/TO derive/VB criterion/NN functions/NNS whose/WP$ negative/JJ sign/NN provably/RB is/VBZ indicative/JJ of/IN probable/JJ collisions/NNS ./.
+For/IN criterion/NN functions/NNS that/WDT are/VBP Lipschitz/NNP ,/, an/DT algorithm/NN is/VBZ provided/VBN to/TO rapidly/RB find/VB negative/JJ values/NNS or/CC prove/VB their/PRP$ absence/NN ./.
+We/PRP propose/VBP an/DT iterative/JJ policy/NN -/HYPH search/NN approach/NN that/WDT avoids/VBZ prior/JJ discretisations/NNS and/CC yields/NNS collision/NN -/HYPH free/JJ trajectories/NNS with/IN adjustably/RB high/JJ certainty/NN ./.
+We/PRP test/VBP our/PRP$ method/NN with/IN both/DT fixed/VBN -/HYPH priority/NN and/CC auction/NN -/HYPH based/VBN protocols/NNS for/IN coordinating/VBG the/DT iterative/JJ planning/NN process/NN ./.
+Results/NNS are/VBP provided/VBN in/IN collision/NN -/HYPH avoidance/NN simulations/NNS of/IN feedback/NN controlled/VBN plants/NNS ./.

@@ -1,0 +1,6 @@
+The/DT currently/RB most/RBS efficient/JJ algorithm/NN for/IN inference/NN with/IN a/DT probabilistic/JJ network/NN builds/VBZ upon/IN a/DT triangulation/NN of/IN a/DT network/NN 's/POS graph/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP that/IN pre-processing/NN can/MD help/VB in/IN finding/VBG good/JJ triangulations/NNS forprobabilistic/JJ networks/NNS ,/, that/DT is/VBZ ,/, triangulations/NNS with/IN a/DT minimal/JJ maximum/NN clique/NN size/NN ./.
+We/PRP provide/VBP a/DT set/NN of/IN rules/NNS for/IN stepwise/JJ reducing/VBG a/DT graph/NN ,/, without/IN losing/VBG optimality/NN ./.
+This/DT reduction/NN allows/VBZ us/PRP to/TO solve/VB the/DT triangulation/NN problem/NN on/IN a/DT smaller/JJR graph/NN ./.
+From/IN the/DT smaller/JJR graph/NN 's/POS triangulation/NN ,/, a/DT triangulation/NN of/IN the/DT original/JJ graph/NN is/VBZ obtained/VBN by/IN reversing/VBG the/DT reduction/NN steps/NNS ./.
+Our/PRP$ experimental/JJ results/NNS show/VBP that/IN the/DT graphs/NNS of/IN some/DT well/RB -/HYPH known/VBN real/JJ -/HYPH life/NN probabilistic/JJ networks/NNS can/MD be/VB triangulated/VBN optimally/RB just/RB by/IN preprocessing/VBG ;/: for/IN other/JJ networks/NNS ,/, huge/JJ reductions/NNS in/IN their/PRP$ graph/NN 's/POS size/NN are/VBP obtained/VBN ./.

@@ -1,0 +1,9 @@
+Since/IN the/DT advent/NN of/IN computers/NNS ,/, many/JJ tasks/NNS which/WDT required/VBD humans/NNS to/TO spend/VB a/DT lot/NN of/IN time/NN and/CC energy/NN have/VBP been/VBN trivialized/VBN by/IN the/DT computers/NNS '/POS ability/NN to/TO perform/VB repetitive/JJ tasks/NNS extremely/RB quickly/RB ./.
+However/RB there/EX are/VBP still/RB many/JJ areas/NNS in/IN which/WDT humans/NNS excel/VBP in/IN comparison/NN with/IN the/DT machines/NNS ./.
+One/CD such/JJ area/NN is/VBZ chess/NN ./.
+Even/RB with/IN great/JJ advances/NNS in/IN the/DT speed/NN and/CC computational/JJ power/NN of/IN modern/JJ machines/NNS ,/, Grandmasters/NNS often/RB beat/VBP the/DT best/JJS chess/NN programs/NNS in/IN the/DT world/NN with/IN relative/JJ ease/NN ./.
+This/DT may/MD be/VB due/JJ to/IN the/DT fact/NN that/IN a/DT game/NN of/IN chess/NN can/MD not/RB be/VB won/VBN by/IN pure/JJ calculation/NN ./.
+There/EX is/VBZ more/JJR to/IN the/DT goodness/NN of/IN a/DT chess/NN position/NN than/IN some/DT numerical/JJ value/NN which/WDT apparently/RB can/MD be/VB seen/VBN only/RB by/IN the/DT human/JJ brain/NN ./.
+Here/RB an/DT effort/NN has/VBZ been/VBN made/VBN to/TO improve/VB current/JJ chess/NN engines/NNS by/IN letting/VBG themselves/PRP evolve/VB over/IN a/DT period/NN of/IN time/NN ./.
+Firstly/RB ,/, the/DT problem/NN of/IN learning/NN is/VBZ reduced/VBN into/IN an/DT optimization/NN problem/NN by/IN defining/VBG Position/NN Evaluation/NN in/IN terms/NNS of/IN Positional/JJ Value/NN Tables/NNS (/-LRB- PVTs/NNS )/-RRB- ./.
+Next/RB ,/, the/DT PVTs/NNS are/VBP optimized/VBN using/VBG Multi-Niche/NNP Crowding/NNP which/WDT successfully/RB identifies/VBZ the/DT optima/NN in/IN a/DT multimodal/JJ function/NN ,/, thereby/RB arriving/VBG at/IN distinctly/RB different/JJ solutions/NNS which/WDT are/VBP close/JJ to/IN the/DT global/JJ optimum/JJ ./.

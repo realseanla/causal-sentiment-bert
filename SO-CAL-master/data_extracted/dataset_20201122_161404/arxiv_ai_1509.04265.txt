@@ -1,0 +1,3 @@
+Feature weighting algorithms try to solve a problem of great importance nowadays in machine learning: The search of a relevance measure for the features of a given domain.
+This relevance is primarily used for feature selection as feature weighting can be seen as a generalization of it, but it is also useful to better understand a problem's domain or to guide an inductor in its learning process.
+Relief family of algorithms are proven to be very effective in this task.

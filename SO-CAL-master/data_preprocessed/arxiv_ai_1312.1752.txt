@@ -1,0 +1,10 @@
+Bio-inspired/JJ optimization/NN algorithms/NNS have/VBP been/VBN gaining/VBG more/JJR popularity/NN recently/RB ./.
+One/CD of/IN the/DT most/RBS important/JJ of/IN these/DT algorithms/NNS is/VBZ particle/NN swarm/NN optimization/NN (/-LRB- PSO/NNP )/-RRB- ./.
+PSO/NNP is/VBZ based/VBN on/IN the/DT collective/JJ intelligence/NN of/IN a/DT swam/NN of/IN particles/NNS ./.
+Each/DT particle/NN explores/VBZ a/DT part/NN of/IN the/DT search/NN space/NN looking/VBG for/IN the/DT optimal/JJ position/NN and/CC adjusts/VBZ its/PRP$ position/NN according/VBG to/IN two/CD factors/NNS ;/: the/DT first/JJ is/VBZ its/PRP$ own/JJ experience/NN and/CC the/DT second/NN is/VBZ the/DT collective/JJ experience/NN of/IN the/DT whole/JJ swarm/NN ./.
+PSO/NNP has/VBZ been/VBN successfully/RB used/VBN to/TO solve/VB many/JJ optimization/NN problems/NNS ./.
+In/IN this/DT work/NN we/PRP use/VBP PSO/NNP to/TO improve/VB the/DT performance/NN of/IN a/DT well/RB -/HYPH known/VBN representation/NN method/NN of/IN time/NN series/NN data/NNS which/WDT is/VBZ the/DT symbolic/JJ aggregate/NN approximation/NN (/-LRB- SAX/NNP )/-RRB- ./.
+As/IN with/IN other/JJ time/NN series/NN representation/NN methods/NNS ,/, SAX/NNP results/VBZ in/IN loss/NN of/IN information/NN when/WRB applied/VBN to/TO represent/VB time/NN series/NN ./.
+In/IN this/DT paper/NN we/PRP use/VBP PSO/NNP to/TO propose/VB a/DT new/JJ minimum/JJ distance/NN WMD/NNP for/IN SAX/NNP to/TO remedy/VB this/DT problem/NN ./.
+Unlike/IN the/DT original/JJ minimum/NN distance/NN ,/, the/DT new/JJ distance/NN sets/VBZ different/JJ weights/NNS to/IN different/JJ segments/NNS of/IN the/DT time/NN series/NN according/VBG to/IN their/PRP$ information/NN content/NN ./.
+This/DT weighted/JJ minimum/NN distance/NN enhances/VBZ the/DT performance/NN of/IN SAX/NNP as/IN we/PRP show/VBP through/IN experiments/NNS using/VBG different/JJ time/NN series/NN datasets/NNS ./.

@@ -1,0 +1,9 @@
+The ability to predict and therefore to anticipate the future is an important attribute of intelligence.
+It is also of utmost importance in real-time systems, e.g.
+in robotics or autonomous driving, which depend on visual scene understanding for decision making.
+While prediction of the raw RGB pixel values in future video frames has been studied in previous work, here we focus on predicting semantic segmentations of future frames.
+More precisely, given a sequence of semantically segmented video frames, our goal is to predict segmentation maps of not yet observed video frames that lie up to a second or further in the future.
+We develop an autoregressive convolutional neural network that learns to iteratively generate multiple frames.
+Our results on the Cityscapes dataset show that directly predicting future segmentations is substantially better than predicting and then segmenting future RGB frames.
+Our models predict trajectories of cars and pedestrians much more accurately (25 percent) than baselines that copy the most recent semantic segmentation or warp it using optical flow.
+Prediction results up to half a second in the future are visually convincing, the mean IoU of predicted segmentations reaching two thirds of the real future segmentations.

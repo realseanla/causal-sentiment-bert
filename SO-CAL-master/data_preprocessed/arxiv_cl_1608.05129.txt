@@ -1,0 +1,9 @@
+Sentiment/NN in/IN social/JJ media/NNS is/VBZ increasingly/RB considered/VBN as/IN an/DT important/JJ resource/NN for/IN customer/NN segmentation/NN ,/, market/NN understanding/NN ,/, and/CC tackling/VBG other/JJ socio/GW -/HYPH economic/JJ issues/NNS ./.
+However/RB ,/, sentiment/NN in/IN social/JJ media/NNS is/VBZ difficult/JJ to/TO measure/VB since/IN user/NN -/HYPH generated/VBN content/NN is/VBZ usually/RB short/JJ and/CC informal/JJ ./.
+Although/IN many/JJ traditional/JJ sentiment/NN analysis/NN methods/NNS have/VBP been/VBN proposed/VBN ,/, identifying/VBG slang/NN sentiment/NN words/NNS remains/VBZ untackled/JJ ./.
+One/CD of/IN the/DT reasons/NNS is/VBZ that/IN slang/NN sentiment/NN words/NNS are/VBP not/RB available/JJ in/IN existing/VBG dictionaries/NNS or/CC sentiment/NN lexicons/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP propose/VBP to/TO build/VB the/DT first/JJ sentiment/NN dictionary/NN of/IN slang/NN words/NNS to/TO aid/VB sentiment/NN analysis/NN of/IN social/JJ media/NN content/NN ./.
+It/PRP is/VBZ laborious/JJ and/CC time/NN -/HYPH consuming/VBG to/TO collect/VB and/CC label/VB the/DT sentiment/NN polarity/NN of/IN a/DT comprehensive/JJ list/NN of/IN slang/NN words/NNS ./.
+We/PRP present/VBP an/DT approach/NN to/IN leverage/NN web/NN resources/NNS to/TO construct/VB an/DT extensive/JJ Slang/NN Sentiment/NN word/NN Dictionary/NNP (/-LRB- SlangSD/NNP )/-RRB- that/WDT is/VBZ easy/JJ to/TO maintain/VB and/CC extend/VB ./.
+SlangSD/NNP is/VBZ publicly/RB available/JJ for/IN research/NN purposes/NNS ./.
+We/PRP empirically/RB show/VBP the/DT advantages/NNS of/IN using/VBG SlangSD/NNP ,/, the/DT newly/RB -/HYPH built/VBN slang/NN sentiment/NN word/NN dictionary/NN for/IN sentiment/NN classification/NN ,/, and/CC provide/VB examples/NNS demonstrating/VBG its/PRP$ ease/NN of/IN use/NN with/IN an/DT existing/JJ sentiment/NN system/NN ./.

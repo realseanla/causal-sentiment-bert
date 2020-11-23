@@ -1,0 +1,6 @@
+Speech/NNP emotion/NN recognition/NN is/VBZ an/DT important/JJ and/CC challenging/JJ task/NN in/IN the/DT realm/NN of/IN human/JJ -/HYPH computer/NN interaction/NN ./.
+Prior/JJ work/NN proposed/VBD a/DT variety/NN of/IN models/NNS and/CC feature/NN sets/NNS for/IN training/VBG a/DT system/NN ./.
+In/IN this/DT work/NN ,/, we/PRP conduct/VBP extensive/JJ experiments/NNS using/VBG an/DT attentive/JJ convolutional/JJ neural/JJ network/NN with/IN multi-view/JJ learning/NN objective/NN function/NN ./.
+We/PRP compare/VBP system/NN performance/NN using/VBG different/JJ lengths/NNS of/IN the/DT input/NN signal/NN ,/, different/JJ types/NNS of/IN acoustic/JJ features/NNS and/CC different/JJ types/NNS of/IN emotion/NN speech/NN (/-LRB- improvised/VBN //, scripted/VBN )/-RRB- ./.
+Our/PRP$ experimental/JJ results/NNS on/IN the/DT Interactive/JJ Emotional/JJ Motion/NN Capture/VB (/-LRB- IEMOCAP/NNP )/-RRB- database/NN reveal/VBP that/IN the/DT recognition/NN performance/NN strongly/RB depends/VBZ on/IN the/DT type/NN of/IN speech/NN data/NNS independent/JJ of/IN the/DT choice/NN of/IN input/NN features/NNS ./.
+Furthermore/RB ,/, we/PRP achieved/VBD state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN the/DT improvised/VBN speech/NN data/NNS of/IN IEMOCAP/NNP ./.

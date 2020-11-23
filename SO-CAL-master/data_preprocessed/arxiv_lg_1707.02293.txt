@@ -1,0 +1,6 @@
+Making/VBG inferences/NNS from/IN data/NN streams/NN is/VBZ a/DT pervasive/JJ problem/NN in/IN many/JJ modern/JJ data/NNS analysis/NN applications/NNS ./.
+But/CC it/PRP requires/VBZ to/TO address/VB the/DT problem/NN of/IN continuous/JJ model/NN updating/VBG and/CC adapt/VB to/IN changes/NNS or/CC drifts/NNS in/IN the/DT underlying/VBG data/NNS generating/VBG distribution/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP approach/VBP these/DT problems/NNS from/IN a/DT Bayesian/JJ perspective/NN covering/VBG general/JJ conjugate/JJ exponential/JJ models/NNS ./.
+Our/PRP$ proposal/NN makes/VBZ use/NN of/IN non-conjugate/JJ hierarchical/JJ priors/NNS to/IN explicitly/RB model/NN temporal/JJ changes/NNS of/IN the/DT model/NN parameters/NNS ./.
+We/PRP also/RB derive/VBP a/DT novel/JJ variational/JJ inference/NN scheme/NN which/WDT overcomes/VBZ the/DT use/NN of/IN non-conjugate/JJ priors/NNS while/IN maintaining/VBG the/DT computational/JJ efficiency/NN of/IN variational/JJ methods/NNS over/IN conjugate/NN models/NNS ./.
+The/DT approach/NN is/VBZ validated/VBN on/IN three/CD real/JJ data/NNS sets/NNS over/IN three/CD latent/JJ variable/JJ models/NNS ./.

@@ -1,0 +1,5 @@
+In/IN this/DT paper/NN we/PRP introduce/VBP RankPL/NN ,/, a/DT modeling/NN language/NN that/WDT can/MD be/VB thought/VBN of/IN as/IN a/DT qualitative/JJ variant/NN of/IN a/DT probabilistic/JJ programming/NN language/NN with/IN a/DT semantics/NNS based/VBN on/IN Spohn/NNP 's/POS ranking/VBG theory/NN ./.
+Broadly/RB speaking/VBG ,/, RankPL/NN can/MD be/VB used/VBN to/TO represent/VB and/CC reason/VB about/RB processes/NNS that/WDT exhibit/VBP uncertainty/NN expressible/NN by/IN distinguishing/VBG "/`` normal/JJ "/'' from/IN "/`` surprising/JJ "/'' events/NNS ./.
+RankPL/NN allows/VBZ (/-LRB- iterated/VBN )/-RRB- revision/NN of/IN rankings/NNS over/IN alternative/JJ program/NN states/NNS and/CC supports/NNS various/JJ types/NNS of/IN reasoning/NN ,/, including/VBG abduction/NN and/CC causal/JJ inference/NN ./.
+We/PRP present/VBP the/DT language/NN ,/, its/PRP$ denotational/JJ semantics/NNS ,/, and/CC a/DT number/NN of/IN practical/JJ examples/NNS ./.
+We/PRP also/RB discuss/VBP an/DT implementation/NN of/IN RankPL/NN that/WDT is/VBZ available/JJ for/IN download/NN ./.

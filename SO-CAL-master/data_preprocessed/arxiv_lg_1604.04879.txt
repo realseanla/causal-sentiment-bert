@@ -1,0 +1,10 @@
+With/IN the/DT massive/JJ data/NNS challenges/NNS nowadays/RB and/CC the/DT rapid/JJ growing/NN of/IN technology/NN ,/, stream/NN mining/NN has/VBZ recently/RB received/VBN considerable/JJ attention/NN ./.
+To/TO address/VB the/DT large/JJ number/NN of/IN scenarios/NNS in/IN which/WDT this/DT phenomenon/NN manifests/VBZ itself/PRP suitable/JJ tools/NNS are/VBP required/VBN in/IN various/JJ research/NN fields/NNS ./.
+Instance/NNP -/HYPH based/VBN data/NNS stream/NN algorithms/NNS generally/RB employ/VBP the/DT Euclidean/JJ distance/NN for/IN the/DT classification/NN task/NN underlying/VBG this/DT problem/NN ./.
+A/DT novel/JJ way/NN to/TO look/VB into/IN this/DT issue/NN is/VBZ to/TO take/VB advantage/NN of/IN a/DT more/RBR flexible/JJ metric/JJ due/IN to/IN the/DT increased/VBN requirements/NNS imposed/VBN by/IN the/DT data/NNS stream/NN scenario/NN ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT new/JJ algorithm/NN that/WDT learns/VBZ a/DT Mahalanobis/NNP metric/NN using/VBG similarity/NN and/CC dissimilarity/NN constraints/NNS in/IN an/DT online/JJ manner/NN ./.
+This/DT approach/NN hybridizes/VBZ a/DT Mahalanobis/NNP distance/NN metric/JJ learning/NN algorithm/NN and/CC a/DT k/CD -/HYPH NN/NNP data/NNS stream/NN classification/NN algorithm/NN with/IN concept/NN drift/NN detection/NN ./.
+First/RB ,/, some/DT basic/JJ aspects/NNS of/IN Mahalanobis/NNP distance/NN metric/JJ learning/NN are/VBP described/VBN taking/VBG into/IN account/NN key/JJ properties/NNS as/RB well/RB as/IN online/JJ distance/NN metric/JJ learning/NN algorithms/NNS ./.
+Second/RB ,/, we/PRP implement/VBP specific/JJ evaluation/NN methodologies/NNS and/CC comparative/JJ metrics/NNS such/JJ as/IN Q/NN statistic/NN for/IN data/NNS stream/NN classification/NN algorithms/NNS ./.
+Finally/RB ,/, our/PRP$ algorithm/NN is/VBZ evaluated/VBN on/IN different/JJ datasets/NNS by/IN comparing/VBG its/PRP$ results/NNS with/IN one/CD of/IN the/DT best/JJS instance/NN -/HYPH based/VBN data/NNS stream/NN classification/NN algorithm/NN of/IN the/DT state/NN of/IN the/DT art/NN ./.
+The/DT results/NNS demonstrate/VBP that/IN our/PRP$ proposal/NN is/VBZ better/JJR

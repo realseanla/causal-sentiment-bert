@@ -1,0 +1,5 @@
+Error/NN propagation/NN is/VBZ a/DT common/JJ problem/NN in/IN NLP/NN ./.
+Reinforcement/NN learning/NN explores/VBZ erroneous/JJ states/NNS during/IN training/NN and/CC can/MD therefore/RB be/VB more/RBR robust/JJ when/WRB mistakes/NNS are/VBP made/VBN early/JJ in/IN a/DT process/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP apply/VBP reinforcement/NN learning/VBG to/IN greedy/JJ dependency/NN parsing/VBG which/WDT is/VBZ known/VBN to/TO suffer/VB from/IN error/NN propagation/NN ./.
+Reinforcement/NN learning/NN improves/VBZ accuracy/NN of/IN both/DT labeled/VBN and/CC unlabeled/JJ dependencies/NNS of/IN the/DT Stanford/NNP Neural/JJ Dependency/NN Parser/NN ,/, a/DT high/JJ performance/NN greedy/JJ parser/NN ,/, while/IN maintaining/VBG its/PRP$ efficiency/NN ./.
+We/PRP investigate/VBP the/DT portion/NN of/IN errors/NNS which/WDT are/VBP the/DT result/NN of/IN error/NN propagation/NN and/CC confirm/VB that/IN reinforcement/NN learning/VBG reduces/VBZ the/DT occurrence/NN of/IN error/NN propagation/NN ./.

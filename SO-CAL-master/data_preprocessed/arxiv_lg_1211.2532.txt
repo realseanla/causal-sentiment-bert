@@ -1,0 +1,8 @@
+The/DT L1/NN -/HYPH regularized/VBN maximum/JJ likelihood/NN estimation/NN problem/NN has/VBZ recently/RB become/VBN a/DT topic/NN of/IN great/JJ interest/NN within/IN the/DT machine/NN learning/NN ,/, statistics/NNS ,/, and/CC optimization/NN communities/NNS as/IN a/DT method/NN for/IN producing/VBG sparse/JJ inverse/JJ covariance/NN estimators/NNS ./.
+In/IN this/DT paper/NN ,/, a/DT proximal/JJ gradient/NN method/NN (/-LRB- G/NN -/HYPH ISTA/NN )/-RRB- for/IN performing/VBG L1/NN -/HYPH regularized/VBN covariance/NN matrix/NN estimation/NN is/VBZ presented/VBN ./.
+Although/IN numerous/JJ algorithms/NNS have/VBP been/VBN proposed/VBN for/IN solving/VBG this/DT problem/NN ,/, this/DT simple/JJ proximal/JJ gradient/NN method/NN is/VBZ found/VBN to/TO have/VB attractive/JJ theoretical/JJ and/CC numerical/JJ properties/NNS ./.
+G/NN -/HYPH ISTA/NN has/VBZ a/DT linear/JJ rate/NN of/IN convergence/NN ,/, resulting/VBG in/IN an/DT O/NN (/-LRB- log/NN e/NN )/-RRB- iteration/NN complexity/NN to/TO reach/VB a/DT tolerance/NN of/IN e/NN ./.
+This/DT paper/NN gives/VBZ eigenvalue/NN bounds/NNS for/IN the/DT G/NN -/HYPH ISTA/NN iterates/NNS ,/, providing/VBG a/DT closed/JJ -/HYPH form/NN linear/JJ convergence/NN rate/NN ./.
+The/DT rate/NN is/VBZ shown/VBN to/TO be/VB closely/RB related/VBN to/IN the/DT condition/NN number/NN of/IN the/DT optimal/JJ point/NN ./.
+Numerical/NNP convergence/NN results/NNS and/CC timing/VBG comparisons/NNS for/IN the/DT proposed/JJ method/NN are/VBP presented/VBN ./.
+G/NN -/HYPH ISTA/NN is/VBZ shown/VBN to/TO perform/VB very/RB well/RB ,/, especially/RB when/WRB the/DT optimal/JJ point/NN is/VBZ well/RB -/HYPH conditioned/VBN ./.

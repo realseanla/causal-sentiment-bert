@@ -1,0 +1,6 @@
+Performance/NN of/IN fingerprint/NN recognition/NN depends/VBZ heavily/RB on/IN the/DT extraction/NN of/IN minutiae/NNS points/NNS ./.
+Enhancement/NN of/IN the/DT fingerprint/NN ridge/NN pattern/NN is/VBZ thus/RB an/DT essential/JJ pre-processing/JJ step/NN that/WDT noticeably/RB reduces/VBZ false/JJ positive/JJ and/CC negative/JJ detection/NN rates/NNS ./.
+A/DT particularly/RB challenging/JJ setting/NN is/VBZ when/WRB the/DT fingerprint/NN images/NNS are/VBP corrupted/VBN or/CC partially/RB missing/VBG ./.
+In/IN this/DT work/NN ,/, we/PRP apply/VBP generative/JJ convolutional/JJ networks/NNS to/TO denoise/VB visible/JJ minutiae/NNS and/CC predict/VB the/DT missing/JJ parts/NNS of/IN the/DT ridge/NN pattern/NN ./.
+The/DT proposed/VBN enhancement/NN approach/NN is/VBZ tested/VBN as/IN a/DT pre-processing/JJ step/NN in/IN combination/NN with/IN several/JJ standard/JJ feature/NN extraction/NN methods/NNS such/JJ as/IN MINDTCT/NNP ,/, followed/VBN by/IN biometric/JJ comparison/NN using/VBG MCC/NNP and/CC BOZORTH3/NN ./.
+We/PRP evaluate/VBP our/PRP$ method/NN on/IN several/JJ publicly/RB available/JJ latent/JJ fingerprint/NN datasets/NNS captured/VBN using/VBG different/JJ sensors/NNS ./.

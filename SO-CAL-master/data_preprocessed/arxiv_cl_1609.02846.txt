@@ -1,0 +1,9 @@
+Spoken/VBN dialogue/NN systems/NNS allow/VBP humans/NNS to/TO interact/VB with/IN machines/NNS using/VBG natural/JJ speech/NN ./.
+As/IN such/JJ ,/, they/PRP have/VBP many/JJ benefits/NNS ./.
+By/IN using/VBG speech/NN as/IN the/DT primary/JJ communication/NN medium/NN ,/, a/DT computer/NN interface/NN can/MD facilitate/VB swift/JJ ,/, human/JJ -/HYPH like/JJ acquisition/NN of/IN information/NN ./.
+In/IN recent/JJ years/NNS ,/, speech/NN interfaces/VBZ have/VBP become/VBN ever/RB more/RBR popular/JJ ,/, as/RB is/VBZ evident/JJ from/IN the/DT rise/NN of/IN personal/JJ assistants/NNS such/JJ as/IN Siri/NNP ,/, Google/NNP Now/RB ,/, Cortana/NNP and/CC Amazon/NNP Alexa/NNP ./.
+Recently/RB ,/, data/NNS -/HYPH driven/VBN machine/NN learning/NN methods/NNS have/VBP been/VBN applied/VBN to/IN dialogue/NN modelling/NN and/CC the/DT results/NNS achieved/VBN for/IN limited/JJ -/HYPH domain/NN applications/NNS are/VBP comparable/JJ to/TO or/CC outperform/VB traditional/JJ approaches/NNS ./.
+Methods/NNS based/VBN on/IN Gaussian/JJ processes/NNS are/VBP particularly/RB effective/JJ as/IN they/PRP enable/VBP good/JJ models/NNS to/TO be/VB estimated/VBN from/IN limited/JJ training/NN data/NNS ./.
+Furthermore/RB ,/, they/PRP provide/VBP an/DT explicit/JJ estimate/NN of/IN the/DT uncertainty/NN which/WDT is/VBZ particularly/RB useful/JJ for/IN reinforcement/NN learning/NN ./.
+This/DT article/NN explores/VBZ the/DT additional/JJ steps/NNS that/WDT are/VBP necessary/JJ to/TO extend/VB these/DT methods/NNS to/TO model/VB multiple/JJ dialogue/NN domains/NNS ./.
+We/PRP show/VBP that/IN Gaussian/JJ process/NN reinforcement/NN learning/NN is/VBZ an/DT elegant/JJ framework/NN that/WDT naturally/RB supports/VBZ a/DT range/NN of/IN methods/NNS ,/, including/VBG prior/JJ knowledge/NN ,/, Bayesian/JJ committee/NN machines/NNS and/CC multi-agent/JJ learning/NN ,/, for/IN facilitating/VBG extensible/NN and/CC adaptable/JJ dialogue/NN systems/NNS ./.

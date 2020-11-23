@@ -1,0 +1,5 @@
+Sparse/JJ Filtering/NN is/VBZ a/DT popular/JJ feature/NN learning/VBG algorithm/NN for/IN image/NN classification/NN pipelines/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP connect/VBP the/DT performance/NN of/IN Sparse/JJ Filtering/NN in/IN image/NN classification/NN pipelines/NNS to/IN spectral/JJ properties/NNS of/IN the/DT corresponding/VBG feature/NN matrices/NNS ./.
+This/DT connection/NN provides/VBZ new/JJ insights/NNS into/IN Sparse/JJ Filtering/NN ;/: in/IN particular/JJ ,/, it/PRP suggests/VBZ stopping/VBG Sparse/JJ Filtering/VBG early/RB ./.
+We/PRP therefore/RB introduce/VBP the/DT Optimal/NNP Roundness/NNP Criterion/NNP (/-LRB- ORC/NN )/-RRB- ,/, a/DT novel/JJ stopping/VBG criterion/NN for/IN Sparse/JJ Filtering/NN ./.
+We/PRP show/VBP that/IN this/DT stopping/VBG criterion/NN is/VBZ related/VBN with/IN pre-processing/JJ procedures/NNS such/JJ as/IN Statistical/JJ Whitening/NN and/CC that/IN it/PRP can/MD make/VB image/NN classification/NN with/IN Sparse/JJ Filtering/VBG considerably/RB faster/RBR and/CC more/RBR accurate/JJ ./.

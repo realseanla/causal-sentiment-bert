@@ -1,0 +1,7 @@
+The/DT problem/NN is/VBZ to/TO identify/VB a/DT probability/NN mass/NN function/NN associated/VBN with/IN a/DT discrete/JJ set/NN ,/, given/VBN an/DT infinite/JJ data/NN sequence/NN of/IN elements/NNS from/IN the/DT set/NN ./.
+If/IN the/DT given/VBN sequence/NN is/VBZ drawn/VBN i.i.d./NNP and/CC the/DT probability/NN mass/NN function/NN is/VBZ computable/JJ and/CC has/VBZ a/DT finite/JJ mean/NN ,/, then/RB there/EX is/VBZ an/DT algorithm/NN to/IN almost/RB surely/RB identify/VB the/DT target/NN in/IN the/DT limit/NN ./.
+If/IN the/DT probability/NN mass/NN function/NN is/VBZ incomputable/JJ ,/, has/VBZ a/DT finite/JJ mean/NN ,/, and/CC the/DT drawing/NN is/VBZ i.i.d./NN ,/, then/RB there/EX is/VBZ an/DT algorithm/NN which/WDT pointwise/RB converges/VBZ to/IN the/DT target/NN almost/RB surely/RB ./.
+Here/RB we/PRP use/VBP the/DT strong/JJ law/NN of/IN large/JJ numbers/NNS ./.
+If/IN the/DT elements/NNS of/IN the/DT sequence/NN are/VBP dependent/JJ and/CC the/DT sequence/NN is/VBZ typical/JJ (/-LRB- random/JJ )/-RRB- for/IN at/RB least/RBS one/CD computable/JJ measure/NN and/CC the/DT set/NN is/VBZ finite/JJ ,/, then/RB there/EX is/VBZ an/DT algorithm/NN to/IN almost/RB surely/RB identify/VB in/IN the/DT limit/NN a/DT computable/JJ measure/NN for/IN which/WDT the/DT sequence/NN is/VBZ typical/JJ (/-LRB- there/EX may/MD be/VB more/JJR than/IN one/CD such/JJ measure/NN )/-RRB- ./.
+Here/RB we/PRP use/VBP the/DT theory/NN of/IN Kolmogorov/NNP complexity/NN ./.
+We/PRP give/VBP the/DT algorithms/NNS and/CC consider/VB the/DT associated/VBN predictions/NNS ./.

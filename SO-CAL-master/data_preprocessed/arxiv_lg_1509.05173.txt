@@ -1,0 +1,5 @@
+Rectified/VBN Linear/NNP Units/NNS (/-LRB- ReLU/NN )/-RRB- seem/VBP to/TO have/VB displaced/VBN traditional/JJ '/'' smooth/JJ '/'' nonlinearities/NNS as/IN activation/NN -/HYPH function/NN -/HYPH du/FW -/HYPH jour/FW in/IN many/JJ -/HYPH but/CC not/RB all/RB -/HYPH deep/JJ neural/JJ network/NN (/-LRB- DNN/NN )/-RRB- applications/NNS ./.
+However/RB ,/, nobody/NN seems/VBZ to/TO know/VB why/WRB ./.
+In/IN this/DT article/NN ,/, we/PRP argue/VBP that/IN ReLU/NN are/VBP useful/JJ because/IN they/PRP are/VBP ideal/JJ demodulators/NNS -/, this/DT helps/VBZ them/PRP perform/VB fast/RB abstract/JJ learning/NN ./.
+However/RB ,/, this/DT fast/JJ learning/NN comes/VBZ at/IN the/DT expense/NN of/IN serious/JJ nonlinear/JJ distortion/NN products/NNS -/, decoy/NN features/NNS ./.
+We/PRP show/VBP that/IN Parallel/JJ Dither/NN acts/VBZ to/TO suppress/VB the/DT decoy/NN features/NNS ,/, preventing/VBG overfitting/NN and/CC leaving/VBG the/DT true/JJ features/NNS cleanly/RB demodulated/VBN for/IN rapid/JJ ,/, reliable/JJ learning/NN ./.

@@ -1,0 +1,6 @@
+Pattern/NN -/HYPH based/VBN methods/NNS of/IN IS/NN -/HYPH A/NN relation/NN extraction/NN rely/VBP heavily/RB on/IN so/RB called/VBN Hearst/NNP patterns/NNS ./.
+These/DT are/VBP ways/NNS of/IN expressing/VBG instance/NN enumerations/NNS of/IN a/DT class/NN in/IN natural/JJ language/NN ./.
+While/IN these/DT lexico/NN -/HYPH syntactic/JJ patterns/NNS prove/VBP quite/RB useful/JJ ,/, they/PRP may/MD not/RB capture/VB all/DT taxonomical/JJ relations/NNS expressed/VBN in/IN text/NN ./.
+Therefore/RB in/IN this/DT paper/NN we/PRP describe/VBP a/DT novel/JJ method/NN of/IN IS/NN -/HYPH A/NN relation/NN extraction/NN from/IN patterns/NNS ,/, which/WDT uses/VBZ morpho/NN -/HYPH syntactical/JJ annotations/NNS along/IN with/IN grammatical/JJ case/NN of/IN noun/NN phrases/NNS that/WDT constitute/VBP entities/NNS participating/VBG in/IN IS/NN -/HYPH A/NN relation/NN ./.
+We/PRP also/RB describe/VBP a/DT method/NN for/IN increasing/VBG the/DT number/NN of/IN extracted/VBN relations/NNS that/WDT we/PRP call/VBP pseudo-subclass/NN boosting/VBG which/WDT has/VBZ potential/JJ application/NN in/IN any/DT pattern/NN -/HYPH based/VBN relation/NN extraction/NN method/NN ./.
+Experiments/NNS were/VBD conducted/VBN on/IN a/DT corpus/NN of/IN about/RB 0.5/CD billion/CD web/NN documents/NNS in/IN Polish/JJ language/NN ./.

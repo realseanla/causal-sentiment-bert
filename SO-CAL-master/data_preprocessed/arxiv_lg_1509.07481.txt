@@ -1,0 +1,5 @@
+We/PRP propose/VBP an/DT off/RB -/HYPH line/NN approach/NN to/IN explicitly/RB encode/VBP temporal/JJ patterns/NNS spatially/RB as/IN different/JJ types/NNS of/IN images/NNS ,/, namely/RB ,/, Gramian/NNP Angular/NNP Fields/NNPS and/CC Markov/NNP Transition/NNP Fields/NNP ./.
+This/DT enables/VBZ the/DT use/NN of/IN techniques/NNS from/IN computer/NN vision/NN for/IN feature/NN learning/NN and/CC classification/NN ./.
+We/PRP used/VBD Tiled/VBN Convolutional/JJ Neural/JJ Networks/NNS to/TO learn/VB high/JJ -/HYPH level/NN features/NNS from/IN individual/JJ GAF/NNP ,/, MTF/NN ,/, and/CC GAF/NNP -/HYPH MTF/NN images/NNS on/IN 12/CD benchmark/NN time/NN series/NN datasets/NNS and/CC two/CD real/JJ spatial/JJ -/HYPH temporal/JJ trajectory/NN datasets/NNS ./.
+The/DT classification/NN results/NNS of/IN our/PRP$ approach/NN are/VBP competitive/JJ with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS on/IN both/DT types/NNS of/IN data/NNS ./.
+An/DT analysis/NN of/IN the/DT features/NNS and/CC weights/NNS learned/VBN by/IN the/DT CNNs/NNPS explains/VBZ why/WRB the/DT approach/NN works/VBZ ./.

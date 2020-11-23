@@ -1,0 +1,11 @@
+Answer/NN set/VBN programming/NN is/VBZ a/DT declarative/JJ programming/NN paradigm/NN oriented/VBN towards/IN difficult/JJ combinatorial/JJ search/NN problems/NNS ./.
+A/DT fundamental/JJ task/NN in/IN answer/NN set/VBN programming/NN is/VBZ to/TO compute/VB stable/JJ models/NNS ,/, i.e./FW ,/, solutions/NNS of/IN logic/NN programs/NNS ./.
+Answer/NN set/VBN solvers/NNS are/VBP the/DT programs/NNS that/WDT perform/VBP this/DT task/NN ./.
+The/DT problem/NN of/IN deciding/VBG whether/IN a/DT disjunctive/JJ program/NN has/VBZ a/DT stable/JJ model/NN is/VBZ $/$ \/SYM Sigma/NNP ^/SYM P_2/NNP $/$ -/HYPH complete/JJ ./.
+The/DT high/JJ complexity/NN of/IN reasoning/NN within/IN disjunctive/JJ logic/NN programming/NN is/VBZ responsible/JJ for/IN few/JJ solvers/NNS capable/JJ of/IN dealing/VBG with/IN such/JJ programs/NNS ,/, namely/RB DLV/NNP ,/, GnT/NNP ,/, Cmodels/NNP ,/, CLASP/NNP and/CC WASP/NNP ./.
+In/IN this/DT paper/NN we/PRP show/VBP that/IN transition/NN systems/NNS introduced/VBN by/IN Nieuwenhuis/NNP ,/, Oliveras/NNP ,/, and/CC Tinelli/NNP to/TO model/VB and/CC analyze/VB satisfiability/NN solvers/NNS can/MD be/VB adapted/VBN for/IN disjunctive/JJ answer/NN set/VBN solvers/NNS ./.
+Transition/NN systems/NNS give/VBP a/DT unifying/JJ perspective/NN and/CC bring/VB clarity/NN in/IN the/DT description/NN and/CC comparison/NN of/IN solvers/NNS ./.
+They/PRP can/MD be/VB effectively/RB used/VBN for/IN analyzing/VBG ,/, comparing/VBG and/CC proving/VBG correctness/NN of/IN search/NN algorithms/NNS as/RB well/RB as/IN inspiring/VBG new/JJ ideas/NNS in/IN the/DT design/NN of/IN disjunctive/JJ answer/NN set/VBN solvers/NNS ./.
+In/IN this/DT light/NN ,/, we/PRP introduce/VBP a/DT general/JJ template/NN ,/, which/WDT accounts/VBZ for/IN major/JJ techniques/NNS implemented/VBN in/IN disjunctive/JJ solvers/NNS ./.
+We/PRP then/RB illustrate/VBP how/WRB this/DT general/JJ template/NN captures/VBZ solvers/NNS DLV/NNP ,/, GnT/NNP and/CC Cmodels/NNP ./.
+We/PRP also/RB show/VBP how/WRB this/DT framework/NN provides/VBZ a/DT convenient/JJ tool/NN for/IN designing/VBG new/JJ solving/VBG algorithms/NNS by/IN means/NNS of/IN combinations/NNS of/IN techniques/NNS employed/VBN in/IN different/JJ solvers/NNS ./.

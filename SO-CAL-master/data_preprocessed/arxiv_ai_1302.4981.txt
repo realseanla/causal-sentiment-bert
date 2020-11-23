@@ -1,0 +1,7 @@
+The/DT main/JJ goal/NN of/IN this/DT paper/NN is/VBZ to/TO describe/VB a/DT new/JJ pruning/NN method/NN for/IN solving/VBG decision/NN trees/NNS and/CC game/NN trees/NNS ./.
+The/DT pruning/NN method/NN for/IN decision/NN trees/NNS suggests/VBZ a/DT slight/JJ variant/NN of/IN decision/NN trees/NNS that/WDT we/PRP call/VBP scenario/NN trees/NNS ./.
+In/IN scenario/NN trees/NNS ,/, we/PRP do/VBP not/RB need/VB a/DT conditional/JJ probability/NN for/IN each/DT edge/NN emanating/VBG from/IN a/DT chance/NN node/NN ./.
+Instead/RB ,/, we/PRP require/VBP a/DT joint/JJ probability/NN for/IN each/DT path/NN from/IN the/DT root/NN node/NN to/IN a/DT leaf/NN node/NN ./.
+We/PRP compare/VBP the/DT pruning/NN method/NN to/IN the/DT traditional/JJ rollback/NN method/NN for/IN decision/NN trees/NNS and/CC game/NN trees/NNS ./.
+For/IN problems/NNS that/WDT require/VBP Bayesian/JJ revision/NN of/IN probabilities/NNS ,/, a/DT scenario/NN tree/NN representation/NN with/IN the/DT pruning/NN method/NN is/VBZ more/RBR efficient/JJ than/IN a/DT decision/NN tree/NN representation/NN with/IN the/DT rollback/NN method/NN ./.
+For/IN game/NN trees/NNS ,/, the/DT pruning/NN method/NN is/VBZ more/RBR efficient/JJ than/IN the/DT rollback/NN method/NN ./.

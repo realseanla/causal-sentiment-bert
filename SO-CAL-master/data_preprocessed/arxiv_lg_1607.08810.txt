@@ -1,0 +1,5 @@
+Polynomial/JJ networks/NNS and/CC factorization/NN machines/NNS are/VBP two/CD recently/RB -/HYPH proposed/VBN models/NNS that/WDT can/MD efficiently/RB use/VB feature/NN interactions/NNS in/IN classification/NN and/CC regression/NN tasks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP revisit/VBP both/DT models/NNS from/IN a/DT unified/JJ perspective/NN ./.
+Based/VBN on/IN this/DT new/JJ view/NN ,/, we/PRP study/VBP the/DT properties/NNS of/IN both/DT models/NNS and/CC propose/VB new/JJ efficient/JJ training/NN algorithms/NNS ./.
+Key/JJ to/IN our/PRP$ approach/NN is/VBZ to/TO cast/VB parameter/NN learning/NN as/IN a/DT low/JJ -/HYPH rank/NN symmetric/JJ tensor/NN estimation/NN problem/NN ,/, which/WDT we/PRP solve/VB by/IN multi-convex/JJ optimization/NN ./.
+We/PRP demonstrate/VBP our/PRP$ approach/NN on/IN regression/NN and/CC recommender/NN system/NN tasks/NNS ./.

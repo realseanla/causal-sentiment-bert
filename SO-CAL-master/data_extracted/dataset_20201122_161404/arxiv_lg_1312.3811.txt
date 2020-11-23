@@ -1,0 +1,6 @@
+Policy Gradient methods that explore directly in parameter space are among the most effective and robust direct policy search methods and have drawn a lot of attention lately.
+The basic method from this field, Policy Gradients with Parameter-based Exploration, uses two samples that are symmetric around the current hypothesis to circumvent misleading reward in \emph{asymmetrical} reward distributed problems gathered with the usual baseline approach.
+The exploration parameters are still updated by a baseline approach - leaving the exploration prone to asymmetric reward distributions.
+In this paper we will show how the exploration parameters can be sampled quasi symmetric despite having limited instead of free parameters for exploration.
+We give a transformation approximation to get quasi symmetric samples with respect to the exploration without changing the overall sampling distribution.
+Finally we will demonstrate that sampling symmetrically also for the exploration parameters is superior in needs of samples and robustness than the original sampling approach.

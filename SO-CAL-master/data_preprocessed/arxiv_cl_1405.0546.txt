@@ -1,0 +1,10 @@
+Our/PRP$ winning/VBG submission/NN to/IN the/DT 2014/CD Kaggle/NNP competition/NN for/IN Large/JJ Scale/NNP Hierarchical/NNP Text/VB Classification/NN (/-LRB- LSHTC/NN )/-RRB- consists/VBZ mostly/RB of/IN an/DT ensemble/NN of/IN sparse/JJ generative/NN models/NNS extending/VBG Multinomial/NNP Naive/NNP Bayes/NNP ./.
+The/DT base/NN -/HYPH classifiers/NNS consist/VBP of/IN hierarchically/RB smoothed/VBN models/NNS combining/VBG document/NN ,/, label/NN ,/, and/CC hierarchy/NN level/NN Multinomials/NNS ,/, with/IN feature/NN pre-processing/NN using/VBG variants/NNS of/IN TF/NNP -/HYPH IDF/NNP and/CC BM25/NNP ./.
+Additional/JJ diversification/NN is/VBZ introduced/VBN by/IN different/JJ types/NNS of/IN folds/NNS and/CC random/JJ search/NN optimization/NN for/IN different/JJ measures/NNS ./.
+The/DT ensemble/NN algorithm/NN optimizes/VBZ macroFscore/NN by/IN predicting/VBG the/DT documents/NNS for/IN each/DT label/NN ,/, instead/RB of/IN the/DT usual/JJ prediction/NN of/IN labels/NNS per/IN document/NN ./.
+Scores/NNS for/IN documents/NNS are/VBP predicted/VBN by/IN weighted/JJ voting/NN of/IN base/NN -/HYPH classifier/NN outputs/NNS with/IN a/DT variant/NN of/IN Feature/NN -/HYPH Weighted/JJ Linear/NNP Stacking/NN ./.
+The/DT number/NN of/IN documents/NNS per/IN label/NN is/VBZ chosen/VBN using/VBG label/NN priors/NNS and/CC thresholding/NN of/IN vote/NN scores/NNS ./.
+This/DT document/NN describes/VBZ the/DT models/NNS and/CC software/NN used/VBN to/TO build/VB our/PRP$ solution/NN ./.
+Reproducing/VBG the/DT results/NNS for/IN our/PRP$ solution/NN can/MD be/VB done/VBN by/IN running/VBG the/DT scripts/NNS included/VBD in/IN the/DT Kaggle/NNP package/NN ./.
+A/DT package/NN omitting/VBG precomputed/VBN result/NN files/NNS is/VBZ also/RB distributed/VBN ./.
+All/DT code/NN is/VBZ open/JJ source/NN ,/, released/VBN under/IN GNU/NNP GPL/NNP 2.0/CD ,/, and/CC GPL/NNP 3.0/CD for/IN Weka/NNP and/CC Meka/NNP dependencies/NNS ./.

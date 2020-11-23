@@ -1,0 +1,6 @@
+Within/IN the/DT framework/NN of/IN probably/RB approximately/RB correct/JJ Markov/NNP decision/NN processes/NNS (/-LRB- PAC/NN -/HYPH MDP/NN )/-RRB- ,/, much/JJ theoretical/JJ work/NN has/VBZ focused/VBN on/IN methods/NNS to/TO attain/VB near/IN optimality/NN after/IN a/DT relatively/RB long/JJ period/NN of/IN learning/NN and/CC exploration/NN ./.
+However/RB ,/, practical/JJ concerns/NNS require/VBP the/DT attainment/NN of/IN satisfactory/JJ behavior/NN within/IN a/DT short/JJ period/NN of/IN time/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP relax/VBP the/DT PAC/NN -/HYPH MDP/NN conditions/NNS to/TO reconcile/VB theoretically/RB driven/VBN exploration/NN methods/NNS and/CC practical/JJ needs/NNS ./.
+We/PRP propose/VBP simple/JJ algorithms/NNS for/IN discrete/JJ and/CC continuous/JJ state/NN spaces/NNS ,/, and/CC illustrate/VBP the/DT benefits/NNS of/IN our/PRP$ proposed/VBN relaxation/NN via/IN theoretical/JJ analyses/NNS and/CC numerical/JJ examples/NNS ./.
+Our/PRP$ algorithms/NNS also/RB maintain/VBP anytime/RB error/NN bounds/NNS and/CC average/JJ loss/NN bounds/NNS ./.
+Our/PRP$ approach/NN accommodates/VBZ both/CC Bayesian/JJ and/CC non-Bayesian/JJ methods/NNS ./.

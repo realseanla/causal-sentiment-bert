@@ -1,0 +1,11 @@
+Progress/NN in/IN Multiple/JJ Object/NN Tracking/VBG (/-LRB- MOT/NN )/-RRB- has/VBZ been/VBN limited/VBN by/IN the/DT size/NN of/IN the/DT available/JJ datasets/NNS ./.
+We/PRP present/VBP an/DT efficient/JJ framework/NN to/IN annotate/VB trajectories/NNS and/CC use/VB it/PRP to/TO produce/VB a/DT MOT/NN dataset/NN of/IN unprecedented/JJ size/NN ./.
+A/DT novel/JJ path/NN supervision/NN paradigm/NN lets/VBZ the/DT annotator/NN loosely/RB track/VB the/DT object/NN with/IN a/DT cursor/NN while/IN watching/VBG the/DT video/NN ./.
+This/DT results/VBZ in/IN a/DT path/NN annotation/NN for/IN each/DT object/NN in/IN the/DT sequence/NN ./.
+These/DT path/NN annotations/NNS ,/, together/RB with/IN object/NN detections/NNS ,/, are/VBP fed/VBN into/IN a/DT two/CD -/HYPH step/NN optimization/NN to/TO produce/VB full/JJ bounding/VBG -/HYPH box/NN trajectories/NNS ./.
+Our/PRP$ experiments/NNS on/IN existing/VBG datasets/NNS prove/VBP that/IN our/PRP$ framework/NN produces/VBZ more/RBR accurate/JJ annotations/NNS than/IN the/DT state/NN of/IN the/DT art/NN and/CC this/DT in/IN a/DT fraction/NN of/IN the/DT time/NN ./.
+We/PRP further/RB validate/VBP our/PRP$ approach/NN by/IN generating/VBG the/DT PathTrack/NN dataset/NN ,/, with/IN more/JJR than/IN 15,000/CD person/NN trajectories/NNS in/IN 720/CD sequences/NNS ./.
+We/PRP believe/VBP tracking/VBG approaches/NNS can/MD benefit/VB from/IN a/DT larger/JJR dataset/NN like/IN this/DT one/CD ,/, just/RB as/RB was/VBD the/DT case/NN in/IN object/NN recognition/NN ./.
+We/PRP show/VBP its/PRP$ potential/JJ by/IN using/VBG it/PRP to/IN retrain/VB an/DT off/RB -/HYPH the/DT -/HYPH shelf/NN person/NN matching/VBG network/NN ,/, originally/RB trained/VBN on/IN the/DT MOT15/NN dataset/NN ,/, almost/RB halving/VBG the/DT misclassification/NN rate/NN ./.
+Additionally/RB ,/, training/NN on/IN our/PRP$ data/NNS consistently/RB improves/VBZ tracking/NN results/NNS ,/, both/DT on/IN our/PRP$ dataset/NN and/CC on/IN MOT15/NN ./.
+In/IN the/DT latter/JJ ,/, where/WRB we/PRP improve/VBP the/DT top/JJ -/HYPH performing/VBG tracker/NN (/-LRB- NOMT/NN )/-RRB- dropping/VBG the/DT number/NN of/IN ID/NN Switches/NNS by/IN 18/CD percent/NN and/CC fragments/NNS by/IN 5/CD percent/NN ./.

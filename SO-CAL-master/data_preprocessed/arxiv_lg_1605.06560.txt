@@ -1,0 +1,7 @@
+As/IN the/DT complexity/NN of/IN deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- trend/NN to/TO grow/VB to/TO absorb/VB the/DT increasing/VBG sizes/NNS of/IN data/NNS ,/, memory/NN and/CC energy/NN consumption/NN has/VBZ been/VBN receiving/VBG more/JJR and/CC more/JJR attentions/NNS for/IN industrial/JJ applications/NNS ,/, especially/RB on/IN mobile/JJ devices/NNS ./.
+This/DT paper/NN presents/VBZ a/DT novel/JJ structure/NN based/VBN on/IN functional/JJ hashing/VBG to/IN compress/VB DNNs/NNS ,/, namely/RB FunHashNN/NNP ./.
+For/IN each/DT entry/NN in/IN a/DT deep/JJ net/NN ,/, FunHashNN/NNP uses/VBZ multiple/JJ low/JJ -/HYPH cost/NN hash/NN functions/VBZ to/TO fetch/VB values/NNS in/IN the/DT compression/NN space/NN ,/, and/CC then/RB employs/VBZ a/DT small/JJ reconstruction/NN network/NN to/TO recover/VB that/DT entry/NN ./.
+The/DT reconstruction/NN network/NN is/VBZ plugged/VBN into/IN the/DT whole/JJ network/NN and/CC trained/VBN jointly/RB ./.
+FunHashNN/NNP includes/VBZ the/DT recently/RB proposed/VBN HashedNets/NNPS as/IN a/DT degenerated/VBN case/NN ,/, and/CC benefits/NNS from/IN larger/JJR value/NN capacity/NN and/CC less/JJR reconstruction/NN loss/NN ./.
+We/PRP further/RB discuss/VBP extensions/NNS with/IN dual/JJ space/NN hashing/VBG and/CC multi-hops/NNS ./.
+On/IN several/JJ benchmark/NN datasets/NNS ,/, FunHashNN/NNP demonstrates/VBZ high/JJ compression/NN ratios/NNS with/IN little/JJ loss/NN on/IN prediction/NN accuracy/NN ./.

@@ -1,0 +1,7 @@
+We/PRP present/VBP two/CD novel/JJ and/CC contrasting/VBG Recurrent/JJ Neural/JJ Network/NN (/-LRB- RNN/NN )/-RRB- based/VBN architectures/NNS for/IN extractive/JJ summarization/NN of/IN documents/NNS ./.
+The/DT Classifier/NN based/VBN architecture/NN sequentially/RB accepts/VBZ or/CC rejects/VBZ each/DT sentence/NN in/IN the/DT original/JJ document/NN order/NN for/IN its/PRP$ membership/NN in/IN the/DT final/JJ summary/NN ./.
+The/DT Selector/NN architecture/NN ,/, on/IN the/DT other/JJ hand/NN ,/, is/VBZ free/JJ to/TO pick/VB one/CD sentence/NN at/IN a/DT time/NN in/IN any/DT arbitrary/JJ order/NN to/TO piece/VB together/RB the/DT summary/NN ./.
+Our/PRP$ models/NNS under/IN both/DT architectures/NNS jointly/RB capture/VBP the/DT notions/NNS of/IN salience/NN and/CC redundancy/NN of/IN sentences/NNS ./.
+In/IN addition/NN ,/, these/DT models/NNS have/VBP the/DT advantage/NN of/IN being/VBG very/RB interpretable/JJ ,/, since/IN they/PRP allow/VBP visualization/NN of/IN their/PRP$ predictions/NNS broken/VBN up/RP by/IN abstract/JJ features/NNS such/JJ as/IN information/NN content/NN ,/, salience/NN and/CC redundancy/NN ./.
+We/PRP show/VBP that/IN our/PRP$ models/NNS reach/VBP or/CC outperform/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN supervised/VBD models/NNS on/IN two/CD different/JJ corpora/NNS ./.
+We/PRP also/RB recommend/VBP the/DT conditions/NNS under/IN which/WDT one/CD architecture/NN is/VBZ superior/JJ to/IN the/DT other/JJ based/VBN on/IN experimental/JJ evidence/NN ./.

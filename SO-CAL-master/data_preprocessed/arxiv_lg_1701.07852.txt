@@ -1,0 +1,5 @@
+Machine/NN learning/NN models/NNS ,/, such/JJ as/IN neural/JJ networks/NNS ,/, decision/NN trees/NNS ,/, random/JJ forests/NNS and/CC gradient/NN boosting/VBG machines/NNS accept/VB a/DT feature/NN vector/NN and/CC provide/VB a/DT prediction/NN ./.
+These/DT models/NNS learn/VBP in/IN a/DT supervised/JJ fashion/NN where/WRB a/DT set/NN of/IN feature/NN vectors/NNS with/IN expected/VBN output/NN is/VBZ provided/VBN ./.
+It/PRP is/VBZ very/RB common/JJ practice/NN to/IN engineer/NN new/JJ features/NNS from/IN the/DT provided/VBN feature/NN set/NN ./.
+Such/JJ engineered/VBN features/NNS will/MD either/CC augment/VB ,/, or/CC replace/VB portions/NNS of/IN the/DT existing/VBG feature/NN vector/NN ./.
+These/DT engineered/VBN features/NNS are/VBP essentially/RB calculated/VBN fields/NNS ,/, based/VBN on/IN the/DT values/NNS of/IN the/DT other/JJ features/NNS ./.

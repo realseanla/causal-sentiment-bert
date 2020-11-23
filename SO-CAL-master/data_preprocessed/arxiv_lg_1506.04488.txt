@@ -1,0 +1,4 @@
+Distilling/VBG knowledge/NN from/IN a/DT well/RB -/HYPH trained/VBN cumbersome/JJ network/NN to/IN a/DT small/JJ one/NN has/VBZ become/VBN a/DT new/JJ research/NN topic/NN recently/RB ,/, as/IN lightweight/JJ neural/JJ networks/NNS with/IN high/JJ performance/NN are/VBP particularly/RB in/IN need/NN in/IN various/JJ resource/NN -/HYPH restricted/VBN systems/NNS ./.
+This/DT paper/NN addresses/VBZ the/DT problem/NN of/IN distilling/VBG embeddings/NNS for/IN NLP/NN tasks/NNS ./.
+We/PRP propose/VBP an/DT encoding/VBG approach/NN to/IN distill/VB task/NN -/HYPH specific/JJ knowledge/NN from/IN high/JJ -/HYPH dimensional/JJ embeddings/NNS ,/, which/WDT can/MD retain/VB high/JJ performance/NN and/CC reduce/VB model/NN complexity/NN to/IN a/DT large/JJ extent/NN ./.
+Experimental/JJ results/NNS show/VBP our/PRP$ method/NN is/VBZ better/JJR than/IN directly/RB training/VBG neural/JJ networks/NNS with/IN small/JJ embeddings/NNS ./.

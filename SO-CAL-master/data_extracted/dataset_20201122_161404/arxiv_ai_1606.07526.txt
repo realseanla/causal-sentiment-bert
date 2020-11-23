@@ -1,0 +1,6 @@
+In this paper we introduce a computational-level model of theory of mind (ToM) based on dynamic epistemic logic (DEL), and we analyze its computational complexity.
+The model is a special case of DEL model checking.
+We provide a parameterized complexity analysis, considering several aspects of DEL (e.g., number of agents, size of preconditions, etc.)
+as parameters.
+We show that model checking for DEL is PSPACE-hard, also when restricted to single-pointed models and S5 relations, thereby solving an open problem in the literature.
+Our approach is aimed at formalizing current intractability claims in the cognitive science literature regarding computational models of ToM.

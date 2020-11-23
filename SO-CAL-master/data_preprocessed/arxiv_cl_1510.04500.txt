@@ -1,0 +1,7 @@
+Text/VB alignment/NN and/CC text/NN quality/NN are/VBP critical/JJ to/IN the/DT accuracy/NN of/IN Machine/NN Translation/NN (/-LRB- MT/NN )/-RRB- systems/NNS ,/, some/DT NLP/NN tools/NNS ,/, and/CC any/DT other/JJ text/NN processing/NN tasks/NNS requiring/VBG bilingual/JJ data/NNS ./.
+This/DT research/NN proposes/VBZ a/DT language/NN independent/JJ bi-sentence/NN filtering/VBG approach/NN based/VBN on/IN Polish/JJ (/-LRB- not/RB a/DT position/NN -/HYPH sensitive/JJ language/NN )/-RRB- to/IN English/NNP experiments/NNS ./.
+This/DT cleaning/NN approach/NN was/VBD developed/VBN on/IN the/DT TED/NNP Talks/NNPS corpus/NN and/CC also/RB initially/RB tested/VBN on/IN the/DT Wikipedia/NNP comparable/JJ corpus/NN ,/, but/CC it/PRP can/MD be/VB used/VBN for/IN any/DT text/NN domain/NN or/CC language/NN pair/NN ./.
+The/DT proposed/VBN approach/NN implements/NNS various/JJ heuristics/NNS for/IN sentence/NN comparison/NN ./.
+Some/DT of/IN them/PRP leverage/NN synonyms/NNS and/CC semantic/JJ and/CC structural/JJ analysis/NN of/IN text/NN as/IN additional/JJ information/NN ./.
+Minimization/NN of/IN data/NNS loss/NN was/VBD ensured/VBN ./.
+An/DT improvement/NN in/IN MT/NN system/NN score/NN with/IN text/NN processed/VBN using/VBG the/DT tool/NN is/VBZ discussed/VBN ./.

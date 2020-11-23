@@ -1,0 +1,7 @@
+Bayesian/JJ networks/NNS are/VBP a/DT useful/JJ tool/NN in/IN the/DT representation/NN of/IN uncertain/JJ knowledge/NN ./.
+This/DT paper/NN proposes/VBZ a/DT new/JJ algorithm/NN called/VBN ACO/NNP -/HYPH E/NNP ,/, to/TO learn/VB the/DT structure/NN of/IN a/DT Bayesian/JJ network/NN ./.
+It/PRP does/VBZ this/DT by/IN conducting/VBG a/DT search/NN through/IN the/DT space/NN of/IN equivalence/NN classes/NNS of/IN Bayesian/JJ networks/NNS using/VBG Ant/NN Colony/NN Optimization/NN (/-LRB- ACO/NNP )/-RRB- ./.
+To/IN this/DT end/NN ,/, two/CD novel/JJ extensions/NNS of/IN traditional/JJ ACO/NNP techniques/NNS are/VBP proposed/VBN and/CC implemented/VBN ./.
+Firstly/RB ,/, multiple/JJ types/NNS of/IN moves/NNS are/VBP allowed/VBN ./.
+Secondly/RB ,/, moves/NNS can/MD be/VB given/VBN in/IN terms/NNS of/IN indices/NNS that/WDT are/VBP not/RB based/VBN on/IN construction/NN graph/NN nodes/NNS ./.
+The/DT results/NNS of/IN testing/NN show/NN that/WDT ACO/NNP -/HYPH E/NNP performs/VBZ better/JJR than/IN a/DT greedy/JJ search/NN and/CC other/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN and/CC metaheuristic/JJ algorithms/NNS whilst/IN searching/VBG in/IN the/DT space/NN of/IN equivalence/NN classes/NNS ./.

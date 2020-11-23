@@ -1,0 +1,10 @@
+Building/NNP neural/JJ networks/NNS to/TO query/VB a/DT knowledge/NN base/NN (/-LRB- a/DT table/NN )/-RRB- with/IN natural/JJ language/NN is/VBZ an/DT emerging/VBG research/NN topic/NN in/IN NLP/NN ./.
+The/DT neural/JJ enquirer/NN typically/RB necessitates/VBZ multiple/JJ steps/NNS of/IN execution/NN because/IN of/IN the/DT compositionality/NN of/IN queries/NNS ./.
+In/IN previous/JJ studies/NNS ,/, researchers/NNS have/VBP developed/VBN either/CC distributed/VBN enquirers/NNS or/CC symbolic/JJ ones/NNS for/IN table/NN querying/NN ./.
+The/DT distributed/VBN enquirer/NN is/VBZ end/NN -/HYPH to/IN -/HYPH end/NN learnable/JJ ,/, but/CC is/VBZ weak/JJ in/IN terms/NNS of/IN execution/NN efficiency/NN and/CC explicit/JJ interpretability/NN ./.
+The/DT symbolic/JJ enqurier/NN ,/, on/IN the/DT contrary/NN ,/, is/VBZ efficient/JJ during/IN execution/NN ;/: but/CC it/PRP is/VBZ very/RB difficult/JJ to/TO train/VB especially/RB at/IN initial/JJ stages/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/IN couple/NN distributed/VBN and/CC symbolic/JJ execution/NN for/IN natural/JJ language/NN queries/NNS ./.
+The/DT observation/NN is/VBZ that/IN a/DT fully/RB distributed/VBN executor/NN also/RB exhibits/VBZ meaningful/JJ ,/, albeit/IN imperfect/JJ ,/, interpretation/NN ./.
+We/PRP can/MD thus/RB pretrain/VB the/DT symbolic/JJ executor/NN with/IN the/DT distributed/VBN one/NN 's/POS intermediate/JJ execution/NN results/NNS in/IN a/DT step/NN -/HYPH by/IN -/HYPH step/NN fashion/NN ./.
+Experiments/NNS show/VBP that/IN our/PRP$ approach/NN significantly/RB outperforms/VBZ either/CC the/DT distributed/VBN or/CC symbolic/JJ executor/NN ;/: moreover/RB ,/, we/PRP have/VBP recovered/VBN more/JJR than/IN 80/CD percent/NN execution/NN sequences/NNS with/IN only/RB groundtruth/JJ denotations/NNS during/IN training/NN ./.
+In/IN summary/NN ,/, the/DT coupled/VBN neural/JJ enquirer/NN takes/VBZ advantages/NNS of/IN both/DT distributed/VBN and/CC symbolic/JJ executors/NNS ,/, and/CC has/VBZ high/JJ performance/NN ,/, high/JJ learning/NN efficiency/NN ,/, high/JJ execution/NN efficiency/NN ,/, and/CC high/JJ interpretability/NN ./.

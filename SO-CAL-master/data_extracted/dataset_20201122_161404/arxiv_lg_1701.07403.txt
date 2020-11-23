@@ -1,0 +1,4 @@
+We show that the equations of reinforcement learning and light transport simulation are related integral equations.
+Based on this correspondence, a scheme to learn importance while sampling path space is derived.
+The new approach is demonstrated in a consistent light transport simulation algorithm that uses reinforcement learning to progressively learn where light comes from.
+As using this information for importance sampling includes information about visibility, too, the number of light transport paths with non-zero contribution is dramatically increased, resulting in much less noisy images within a fixed time budget.

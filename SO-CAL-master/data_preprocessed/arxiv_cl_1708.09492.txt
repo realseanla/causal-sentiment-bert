@@ -1,0 +1,10 @@
+Commit/VB messages/NNS are/VBP a/DT valuable/JJ resource/NN in/IN comprehension/NN of/IN software/NN evolution/NN ,/, since/IN they/PRP provide/VBP a/DT record/NN of/IN changes/NNS such/JJ as/IN feature/NN additions/NNS and/CC bug/NN repairs/NNS ./.
+Unfortunately/RB ,/, programmers/NNS often/RB neglect/NN to/TO write/VB good/JJ commit/VB messages/NNS ./.
+Different/JJ techniques/NNS have/VBP been/VBN proposed/VBN to/TO help/VB programmers/NNS by/IN automatically/RB writing/VBG these/DT messages/NNS ./.
+These/DT techniques/NNS are/VBP effective/JJ at/IN describing/VBG what/WP changed/VBD ,/, but/CC are/VBP often/RB verbose/JJ and/CC lack/VBP context/NN for/IN understanding/VBG the/DT rationale/NN behind/IN a/DT change/NN ./.
+In/IN contrast/NN ,/, humans/NNS write/VBP messages/NNS that/WDT are/VBP short/JJ and/CC summarize/VB the/DT high/JJ level/NN rationale/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP adapt/VBP Neural/JJ Machine/NN Translation/NN (/-LRB- NMT/NN )/-RRB- to/IN automatically/RB "/`` translate/VB "/'' diffs/NNS into/IN commit/VB messages/NNS ./.
+We/PRP trained/VBD an/DT NMT/NN algorithm/NN using/VBG a/DT corpus/NN of/IN diffs/NNS and/CC human/JJ -/HYPH written/JJ commit/VB messages/NNS from/IN the/DT top/JJ 1k/NN Github/NNP projects/NNS ./.
+We/PRP designed/VBD a/DT filter/NN to/TO help/VB ensure/VB that/IN we/PRP only/RB trained/VBD the/DT algorithm/NN on/IN higher/JJR -/HYPH quality/NN commit/VB messages/NNS ./.
+Our/PRP$ evaluation/NN uncovered/VBD a/DT pattern/NN in/IN which/WDT the/DT messages/NNS we/PRP generate/VBP tend/VBP to/TO be/VB either/CC very/RB high/JJ or/CC very/RB low/JJ quality/NN ./.
+Therefore/RB ,/, we/PRP created/VBD a/DT quality/NN -/HYPH assurance/NN filter/NN to/TO detect/VB cases/NNS in/IN which/WDT we/PRP are/VBP unable/JJ to/TO produce/VB good/JJ messages/NNS ,/, and/CC return/VB a/DT warning/NN instead/RB ./.

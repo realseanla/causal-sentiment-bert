@@ -1,0 +1,8 @@
+We/PRP introduce/VBP Deep/NNP Linear/NNP Discriminant/NNP Analysis/NNP (/-LRB- DeepLDA/NNP )/-RRB- which/WDT learns/VBZ linearly/RB separable/JJ latent/NN representations/NNS in/IN an/DT end/NN -/HYPH to/IN -/HYPH end/NN fashion/NN ./.
+Classic/NNP LDA/NNP extracts/NNS features/NNS which/WDT preserve/VBP class/NN separability/NN and/CC is/VBZ used/VBN for/IN dimensionality/NN reduction/NN for/IN many/JJ classification/NN problems/NNS ./.
+The/DT central/JJ idea/NN of/IN this/DT paper/NN is/VBZ to/TO put/VB LDA/NN on/IN top/NN of/IN a/DT deep/JJ neural/JJ network/NN ./.
+This/DT can/MD be/VB seen/VBN as/IN a/DT non-linear/JJ extension/NN of/IN classic/JJ LDA/NN ./.
+Instead/RB of/IN maximizing/VBG the/DT likelihood/NN of/IN target/NN labels/NNS for/IN individual/JJ samples/NNS ,/, we/PRP propose/VBP an/DT objective/JJ function/NN that/WDT pushes/VBZ the/DT network/NN to/TO produce/VB feature/NN distributions/NNS which/WDT :/: (/-LRB- a/LS )/-RRB- have/VB low/JJ variance/NN within/IN the/DT same/JJ class/NN and/CC (/-LRB- b/LS )/-RRB- high/JJ variance/NN between/IN different/JJ classes/NNS ./.
+Our/PRP$ objective/NN is/VBZ derived/VBN from/IN the/DT general/JJ LDA/NN eigenvalue/NN problem/NN and/CC still/RB allows/VBZ to/TO train/VB with/IN stochastic/JJ gradient/NN descent/NN and/CC back/RB -/HYPH propagation/NN ./.
+For/IN evaluation/NN we/PRP test/VBP our/PRP$ approach/NN on/IN three/CD different/JJ benchmark/NN datasets/NNS (/-LRB- MNIST/NNP ,/, CIFAR/NNP -/HYPH 10/CD and/CC STL/NNP -/HYPH 10/CD )/-RRB- ./.
+DeepLDA/NNP produces/VBZ competitive/JJ results/NNS on/IN all/DT three/CD datasets/NNS and/CC sets/VBZ a/DT new/JJ state/NN of/IN the/DT art/NN on/IN STL/NNP -/HYPH 10/CD with/IN a/DT test/NN set/VBN accuracy/NN of/IN 81.4/CD percent/NN ./.

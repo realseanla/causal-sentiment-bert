@@ -1,0 +1,5 @@
+Semi-supervised/VBN learning/NN becomes/VBZ one/CD of/IN the/DT most/RBS significant/JJ problems/NNS nowadays/RB since/IN the/DT size/NN of/IN datasets/NNS is/VBZ increasing/VBG tremendously/RB while/IN labeled/VBN data/NNS is/VBZ limited/VBN ./.
+We/PRP propose/VBP a/DT new/JJ semi-supervised/JJ learning/NN method/NN for/IN sequence/NN classification/NN tasks/NNS ./.
+Our/PRP$ work/NN is/VBZ based/VBN on/IN both/DT deep/JJ generative/JJ model/NN for/IN semi-supervised/JJ learning/NN and/CC variational/JJ auto/NN -/HYPH encoder/NN for/IN sequence/NN modeling/NN ./.
+We/PRP found/VBD the/DT introduction/NN of/IN Sc/NN -/HYPH LSTM/NN is/VBZ critical/JJ to/IN the/DT success/NN in/IN our/PRP$ method/NN ./.
+We/PRP have/VBP obtained/VBN some/DT preliminary/JJ experimental/JJ results/NNS on/IN IMDB/NNP sentiment/NN classification/NN dataset/NN ,/, showing/VBG that/IN the/DT proposed/VBN model/NN improves/VBZ the/DT classification/NN accuracy/NN comparing/VBG to/IN pure/JJ supervised/JJ classifier/NN ./.

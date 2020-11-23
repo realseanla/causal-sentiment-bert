@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP are/VBP interested/JJ in/IN learning/VBG the/DT underlying/JJ graph/NN structure/NN behind/IN training/NN data/NNS ./.
+Solving/VBG this/DT basic/JJ problem/NN is/VBZ essential/JJ to/TO carry/VB out/RP any/DT graph/NN signal/NN processing/NN or/CC machine/NN learning/NN task/NN ./.
+To/TO realize/VB this/DT ,/, we/PRP assume/VBP that/IN the/DT data/NNS is/VBZ smooth/JJ with/IN respect/NN to/IN the/DT graph/NN topology/NN ,/, and/CC we/PRP parameterize/VBP the/DT graph/NN topology/NN using/VBG an/DT edge/NN sampling/NN function/NN ./.
+That/DT is/VBZ ,/, the/DT graph/NN Laplacian/NNP is/VBZ expressed/VBN in/IN terms/NNS of/IN a/DT sparse/JJ edge/NN selection/NN vector/NN ,/, which/WDT provides/VBZ an/DT explicit/JJ handle/NN to/TO control/VB the/DT sparsity/NN level/NN of/IN the/DT graph/NN ./.
+We/PRP solve/VB the/DT sparse/JJ graph/NN learning/NN problem/NN given/VBN some/DT training/NN data/NNS in/IN both/CC the/DT noiseless/JJ and/CC noisy/JJ settings/NNS ./.
+Given/VBN the/DT true/JJ smooth/JJ data/NNS ,/, the/DT posed/VBN sparse/JJ graph/NN learning/NN problem/NN can/MD be/VB solved/VBN optimally/RB and/CC is/VBZ based/VBN on/IN simple/JJ rank/NN ordering/NN ./.
+Given/VBN the/DT noisy/JJ data/NNS ,/, we/PRP show/VBP that/IN the/DT joint/JJ sparse/JJ graph/NN learning/NN and/CC denoising/NN problem/NN can/MD be/VB simplified/VBN to/IN designing/VBG only/RB the/DT sparse/JJ edge/NN selection/NN vector/NN ,/, which/WDT can/MD be/VB solved/VBN using/VBG convex/NN optimization/NN ./.

@@ -1,0 +1,7 @@
+Sentence/NN ordering/NN is/VBZ one/CD of/IN important/JJ tasks/NNS in/IN NLP/NN ./.
+Previous/JJ works/NNS mainly/RB focused/VBD on/IN improving/VBG its/PRP$ performance/NN by/IN using/VBG pair-wise/JJ strategy/NN ./.
+However/RB ,/, it/PRP is/VBZ nontrivial/JJ for/IN pair-wise/JJ models/NNS to/TO incorporate/VB the/DT contextual/JJ sentence/NN information/NN ./.
+In/IN addition/NN ,/, error/NN prorogation/NN could/MD be/VB introduced/VBN by/IN using/VBG the/DT pipeline/NN strategy/NN in/IN pair-wise/JJ models/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT end/NN -/HYPH to/IN -/HYPH end/NN neural/JJ approach/NN to/TO address/VB the/DT sentence/NN ordering/VBG problem/NN ,/, which/WDT uses/VBZ the/DT pointer/NN network/NN (/-LRB- Ptr/NN -/HYPH Net/NN )/-RRB- to/TO alleviate/VB the/DT error/NN propagation/NN problem/NN and/CC utilize/VB the/DT whole/JJ contextual/JJ information/NN ./.
+Experimental/JJ results/NNS show/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN model/NN ./.
+Source/NN codes/NNS and/CC dataset/NN of/IN this/DT paper/NN are/VBP available/JJ ./.

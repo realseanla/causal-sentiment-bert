@@ -1,0 +1,10 @@
+The/DT character/NN information/NN in/IN natural/JJ scene/NN images/NNS contains/VBZ various/JJ personal/JJ information/NN ,/, such/JJ as/IN telephone/NN numbers/NNS ,/, home/NN addresses/NNS ,/, etc/FW ./.
+It/PRP is/VBZ a/DT high/JJ risk/NN of/IN leakage/NN the/DT information/NN if/IN they/PRP are/VBP published/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP proposed/VBD a/DT scene/NN text/NN erasing/VBG method/NN to/TO properly/RB hide/VB the/DT information/NN via/IN an/DT inpainting/NN convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- model/NN ./.
+The/DT input/NN is/VBZ a/DT scene/NN text/NN image/NN ,/, and/CC the/DT output/NN is/VBZ expected/VBN to/TO be/VB text/NN erased/VBN image/NN with/IN all/PDT the/DT character/NN regions/NNS filled/VBN up/RP the/DT colors/NNS of/IN the/DT surrounding/VBG background/NN pixels/NNS ./.
+This/DT work/NN is/VBZ accomplished/VBN by/IN a/DT CNN/NNP model/NN through/IN convolution/NN to/IN deconvolution/NN with/IN interconnection/NN process/NN ./.
+The/DT training/NN samples/NNS and/CC the/DT corresponding/VBG inpainting/NN images/NNS are/VBP considered/VBN as/IN teaching/NN signals/NNS for/IN training/NN ./.
+To/TO evaluate/VB the/DT text/NN erasing/VBG performance/NN ,/, the/DT output/NN images/NNS are/VBP detected/VBN by/IN a/DT novel/JJ scene/NN text/NN detection/NN method/NN ./.
+Subsequently/RB ,/, the/DT same/JJ measurement/NN on/IN text/NN detection/NN is/VBZ utilized/VBN for/IN testing/VBG the/DT images/NNS in/IN benchmark/NN dataset/NN ICDAR2013/NN ./.
+Compared/VBN with/IN direct/JJ text/NN detection/NN way/NN ,/, the/DT scene/NN text/NN erasing/VBG process/NN demonstrates/VBZ a/DT drastically/RB decrease/NN on/IN the/DT precision/NN ,/, recall/NN and/CC f/NN -/HYPH score/NN ./.
+That/DT proves/VBZ the/DT effectiveness/NN of/IN proposed/JJ method/NN for/IN erasing/VBG the/DT text/NN in/IN natural/JJ scene/NN images/NNS ./.

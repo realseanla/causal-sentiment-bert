@@ -1,0 +1,5 @@
+Learning/VBG to/TO localize/VB objects/NNS with/IN minimal/JJ supervision/NN is/VBZ an/DT important/JJ problem/NN in/IN computer/NN vision/NN ,/, since/IN large/JJ fully/RB annotated/VBN datasets/NNS are/VBP extremely/RB costly/JJ to/TO obtain/VB ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT new/JJ method/NN that/WDT achieves/VBZ this/DT goal/NN with/IN only/JJ image/NN -/HYPH level/NN labels/NNS of/IN whether/IN the/DT objects/NNS are/VBP present/JJ or/CC not/RB ./.
+Our/PRP$ approach/NN combines/VBZ a/DT discriminative/JJ submodular/JJ cover/NN problem/NN for/IN automatically/RB discovering/VBG a/DT set/NN of/IN positive/JJ object/NN windows/NNS with/IN a/DT smoothed/VBN latent/NN SVM/NN formulation/NN ./.
+The/DT latter/JJ allows/VBZ us/PRP to/TO leverage/VB efficient/JJ Quasi-Newton/NNP optimization/NN techniques/NNS ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN the/DT proposed/VBN approach/NN provides/VBZ approximately/RB 70/CD percent/NN relative/JJ improvement/NN in/IN average/JJ precision/NN over/IN the/DT current/JJ state/NN of/IN the/DT art/NN on/IN standard/JJ benchmark/NN datasets/NNS ./.

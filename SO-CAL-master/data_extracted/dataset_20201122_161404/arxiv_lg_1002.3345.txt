@@ -1,0 +1,5 @@
+We introduce a natural generalization of submodular set cover and exact active learning with a finite hypothesis class (query learning).
+We call this new problem interactive submodular set cover.
+Applications include advertising in social networks with hidden information.
+We give an approximation guarantee for a greedy algorithm and give a hardness of approximation result which matches up to constant factors.
+We also discuss the adaptivity gap for the problem and present encouraging early experimental results.

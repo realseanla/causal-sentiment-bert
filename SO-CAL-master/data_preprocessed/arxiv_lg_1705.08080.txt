@@ -1,0 +1,8 @@
+A/DT crucial/JJ capability/NN of/IN real/JJ -/HYPH world/NN intelligent/JJ agents/NNS is/VBZ their/PRP$ ability/NN to/TO plan/VB a/DT sequence/NN of/IN actions/NNS to/TO achieve/VB their/PRP$ goals/NNS in/IN the/DT visual/JJ world/NN ./.
+In/IN this/DT work/NN ,/, we/PRP address/VBP the/DT problem/NN of/IN visual/JJ semantic/JJ planning/NN :/: the/DT task/NN of/IN predicting/VBG a/DT sequence/NN of/IN actions/NNS from/IN visual/JJ observations/NNS that/WDT transform/VBP a/DT dynamic/JJ environment/NN from/IN an/DT initial/JJ state/NN to/IN a/DT goal/NN state/NN ./.
+Doing/VBG so/RB entails/VBZ knowledge/NN about/IN objects/NNS and/CC their/PRP$ affordances/NNS ,/, as/RB well/RB as/IN actions/NNS and/CC their/PRP$ preconditions/NNS and/CC effects/NNS ./.
+We/PRP propose/VBP learning/VBG these/DT through/IN interacting/VBG with/IN a/DT visual/JJ and/CC dynamic/JJ environment/NN ./.
+Our/PRP$ proposed/VBN solution/NN involves/VBZ bootstrapping/NN reinforcement/NN learning/VBG with/IN imitation/NN learning/NN ./.
+To/TO ensure/VB cross-task/JJ generalization/NN ,/, we/PRP develop/VBP a/DT deep/JJ predictive/JJ model/NN based/VBN on/IN successor/NN representations/NNS ./.
+Our/PRP$ experimental/JJ results/NNS show/VBP near/IN optimal/JJ results/NNS across/IN a/DT wide/JJ range/NN of/IN tasks/NNS in/IN the/DT challenging/JJ THOR/NN environment/NN ./.
+The/DT supplementary/JJ video/NN can/MD be/VB accessed/VBN at/IN the/DT following/VBG link/NN :/:

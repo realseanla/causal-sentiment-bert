@@ -1,0 +1,6 @@
+The/DT recent/JJ application/NN of/IN RNN/NNP encoder/NN -/HYPH decoder/NN models/NNS has/VBZ resulted/VBN in/IN substantial/JJ progress/NN in/IN fully/RB data/NN -/HYPH driven/VBN dialogue/NN systems/NNS ,/, but/CC evaluation/NN remains/VBZ a/DT challenge/NN ./.
+An/DT adversarial/JJ loss/NN could/MD be/VB a/DT way/NN to/TO directly/RB evaluate/VB the/DT extent/NN to/TO which/WDT generated/VBD dialogue/NN responses/NNS sound/VBP like/IN they/PRP came/VBD from/IN a/DT human/JJ ./.
+This/DT could/MD reduce/VB the/DT need/NN for/IN human/JJ evaluation/NN ,/, while/IN more/RBR directly/RB evaluating/VBG on/IN a/DT generative/JJ task/NN ./.
+In/IN this/DT work/NN ,/, we/PRP investigate/VBP this/DT idea/NN by/IN training/VBG an/DT RNN/NN to/TO discriminate/VB a/DT dialogue/NN model/NN 's/POS samples/NNS from/IN human/JJ -/HYPH generated/VBN samples/NNS ./.
+Although/IN we/PRP find/VBP some/DT evidence/NN this/DT setup/NN could/MD be/VB viable/JJ ,/, we/PRP also/RB note/VBP that/IN many/JJ issues/NNS remain/VBP in/IN its/PRP$ practical/JJ application/NN ./.
+We/PRP discuss/VBP both/DT aspects/NNS and/CC conclude/VB that/IN future/JJ work/NN is/VBZ warranted/VBN ./.

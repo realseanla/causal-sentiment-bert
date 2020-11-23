@@ -1,0 +1,7 @@
+Open/VB world/NN games/NNS present/JJ players/NNS with/IN more/JJR freedom/NN than/IN games/NNS with/IN linear/JJ progression/NN structures/NNS ./.
+However/RB ,/, without/IN clearly/RB -/HYPH defined/VBN objectives/NNS ,/, they/PRP often/RB leave/VBP players/NNS without/IN a/DT sense/NN of/IN purpose/NN ./.
+Most/JJS of/IN the/DT time/NN ,/, quests/NNS and/CC objectives/NNS are/VBP hand/NN -/HYPH authored/VBN and/CC overlaid/VBN atop/IN an/DT open/JJ world/NN 's/POS mechanics/NNS ./.
+But/CC what/WP if/IN they/PRP could/MD be/VB generated/VBN organically/RB from/IN the/DT gameplay/NN itself/PRP ?/.
+The/DT goal/NN of/IN our/PRP$ project/NN was/VBD to/TO develop/VB a/DT model/NN of/IN the/DT mechanics/NNS in/IN Minecraft/NNP that/WDT could/MD be/VB used/VBN to/TO determine/VB the/DT ideal/JJ placement/NN of/IN objectives/NNS in/IN an/DT open/JJ world/NN setting/VBG ./.
+We/PRP formalized/VBD the/DT game/NN logic/NN of/IN Minecraft/NNP in/IN terms/NNS of/IN logical/JJ rules/NNS that/WDT can/MD be/VB manipulated/VBN in/IN two/CD ways/NNS :/: they/PRP may/MD be/VB executed/VBN to/TO generate/VB graphs/NNS representative/NN of/IN the/DT player/NN experience/NN when/WRB playing/VBG an/DT open/JJ world/NN game/NN with/IN little/JJ developer/NN direction/NN ;/: and/CC they/PRP may/MD be/VB statically/RB analyzed/VBN to/TO determine/VB dependency/NN orderings/NNS ,/, feedback/NN loops/NNS ,/, and/CC bottlenecks/NNS ./.
+These/DT analyses/NNS may/MD then/RB be/VB used/VBN to/TO place/VB achievements/NNS on/IN gameplay/NN actions/NNS algorithmically/RB ./.

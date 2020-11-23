@@ -1,0 +1,7 @@
+Negative/JJ transfer/NN in/IN training/NN of/IN acoustic/JJ models/NNS for/IN automatic/JJ speech/NN recognition/NN has/VBZ been/VBN reported/VBN in/IN several/JJ contexts/NNS such/JJ as/IN domain/NN change/NN or/CC speaker/NN characteristics/NNS ./.
+This/DT paper/NN proposes/VBZ a/DT novel/JJ technique/NN to/TO overcome/VB negative/JJ transfer/NN by/IN efficient/JJ selection/NN of/IN speech/NN data/NNS for/IN acoustic/JJ model/NN training/NN ./.
+Here/RB data/NNS is/VBZ chosen/VBN on/IN relevance/NN for/IN a/DT specific/JJ target/NN ./.
+A/DT submodular/JJ function/NN based/VBN on/IN likelihood/NN ratios/NNS is/VBZ used/VBN to/TO determine/VB how/WRB acoustically/RB similar/JJ each/DT training/NN utterance/NN is/VBZ to/IN a/DT target/NN test/NN set/NN ./.
+The/DT approach/NN is/VBZ evaluated/VBN on/IN a/DT wide/JJ -/HYPH domain/NN data/NNS set/VBN ,/, covering/VBG speech/NN from/IN radio/NN and/CC TV/NN broadcasts/NNS ,/, telephone/NN conversations/NNS ,/, meetings/NNS ,/, lectures/NNS and/CC read/VB speech/NN ./.
+Experiments/NNS demonstrate/VBP that/IN the/DT proposed/VBN technique/NN both/DT finds/VBZ relevant/JJ data/NNS and/CC limits/NNS negative/JJ transfer/NN ./.
+Results/NNS on/IN a/DT 6/CD --/: hour/NN test/NN set/VBN show/NN a/DT relative/JJ improvement/NN of/IN 4/CD percent/NN with/IN data/NNS selection/NN over/IN using/VBG all/DT data/NNS in/IN PLP/NN based/VBN models/NNS ,/, and/CC 2/CD percent/NN with/IN DNN/NN features/NNS ./.

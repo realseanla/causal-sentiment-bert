@@ -1,0 +1,7 @@
+Conditional random fields (CRFs) are usually specified by graphical models but in this paper we propose to use probabilistic logic programs and specify them generatively.
+Our intension is first to provide a unified approach to CRFs for complex modeling through the use of a Turing complete language and second to offer a convenient way of realizing generative-discriminative pairs in machine learning to compare generative and discriminative models and choose the best model.
+We implemented our approach as the D-PRISM language by modifying PRISM, a logic-based probabilistic modeling language for generative modeling, while exploiting its dynamic programming mechanism for efficient probability computation.
+We tested D-PRISM with logistic regression, a linear-chain CRF and a CRF-CFG and empirically confirmed their excellent discriminative performance compared to their generative counterparts, i.e.\ naive Bayes, an HMM and a PCFG.
+We also introduced new CRF models, CRF-BNCs and CRF-LCGs.
+They are CRF versions of Bayesian network classifiers and probabilistic left-corner grammars respectively and easily implementable in D-PRISM.
+We empirically showed that they outperform their generative counterparts as expected.

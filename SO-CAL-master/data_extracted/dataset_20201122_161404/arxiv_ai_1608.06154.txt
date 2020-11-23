@@ -1,0 +1,7 @@
+Many approaches for estimation of Remaining Useful Life (RUL) of a machine, using its operational sensor data, make assumptions about how a system degrades or a fault evolves, e.g., exponential degradation.
+However, in many domains degradation may not follow a pattern.
+We propose a Long Short Term Memory based Encoder-Decoder (LSTM-ED) scheme to obtain an unsupervised health index (HI) for a system using multi-sensor time-series data.
+LSTM-ED is trained to reconstruct the time-series corresponding to healthy state of a system.
+The reconstruction error is used to compute HI which is then used for RUL estimation.
+We evaluate our approach on publicly available Turbofan Engine and Milling Machine datasets.
+We also present results on a real-world industry dataset from a pulverizer mill where we find significant correlation between LSTM-ED based HI and maintenance costs.

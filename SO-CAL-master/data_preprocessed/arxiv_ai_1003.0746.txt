@@ -1,0 +1,10 @@
+Model/NN transformations/NNS operate/VBP on/IN models/NNS conforming/VBG to/IN precisely/RB defined/VBN metamodels/NNS ./.
+Consequently/RB ,/, it/PRP often/RB seems/VBZ relatively/RB easy/JJ to/TO chain/VB them/PRP :/: the/DT output/NN of/IN a/DT transformation/NN may/MD be/VB given/VBN as/IN input/NN to/IN a/DT second/JJ one/NN if/IN metamodels/NNS match/NN ./.
+However/RB ,/, this/DT simple/JJ rule/NN has/VBZ some/DT obvious/JJ limitations/NNS ./.
+For/IN instance/NN ,/, a/DT transformation/NN may/MD only/RB use/VB a/DT subset/NN of/IN a/DT metamodel/NN ./.
+Therefore/RB ,/, chaining/VBG transformations/NNS appropriately/RB requires/VBZ more/JJR information/NN ./.
+We/PRP present/VBP here/RB an/DT approach/NN that/WDT automatically/RB discovers/VBZ more/RBR detailed/JJ information/NN about/IN actual/JJ chaining/VBG constraints/NNS by/IN statically/RB analyzing/VBG transformations/NNS ./.
+The/DT objective/NN is/VBZ to/TO provide/VB developers/NNS who/WP decide/VBP to/TO chain/VB transformations/NNS with/IN more/JJR data/NNS on/IN which/WDT to/TO base/VB their/PRP$ choices/NNS ./.
+This/DT approach/NN has/VBZ been/VBN successfully/RB applied/VBN to/IN the/DT case/NN of/IN a/DT library/NN of/IN endogenous/JJ transformations/NNS ./.
+They/PRP all/DT have/VBP the/DT same/JJ source/NN and/CC target/NN metamodel/NN but/CC have/VBP some/DT hidden/JJ chaining/VBG constraints/NNS ./.
+In/IN such/PDT a/DT case/NN ,/, the/DT simple/JJ metamodel/NN matching/VBG rule/NN given/VBN above/IN does/VBZ not/RB provide/VB any/DT useful/JJ information/NN ./.

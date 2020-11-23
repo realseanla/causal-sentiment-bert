@@ -1,0 +1,9 @@
+We/PRP study/VBP optimization/NN algorithms/NNS based/VBN on/IN variance/NN reduction/NN for/IN stochastic/JJ gradient/NN descent/NN (/-LRB- SGD/NNP )/-RRB- ./.
+Remarkable/JJ recent/JJ progress/NN has/VBZ been/VBN made/VBN in/IN this/DT direction/NN through/IN development/NN of/IN algorithms/NNS like/IN SAG/NNP ,/, SVRG/NNP ,/, SAGA/NNP ./.
+These/DT algorithms/NNS have/VBP been/VBN shown/VBN to/TO outperform/VB SGD/NNP ,/, both/CC theoretically/RB and/CC empirically/RB ./.
+However/RB ,/, asynchronous/JJ versions/NNS of/IN these/DT algorithms/NNS ---/, a/DT crucial/JJ requirement/NN for/IN modern/JJ large/JJ -/HYPH scale/NN applications/NNS ---/, have/VBP not/RB been/VBN studied/VBN ./.
+We/PRP bridge/VBP this/DT gap/NN by/IN presenting/VBG a/DT unifying/JJ framework/NN for/IN many/JJ variance/NN reduction/NN techniques/NNS ./.
+Subsequently/RB ,/, we/PRP propose/VBP an/DT asynchronous/JJ algorithm/NN grounded/VBN in/IN our/PRP$ framework/NN ,/, and/CC prove/VB its/PRP$ fast/JJ convergence/NN ./.
+An/DT important/JJ consequence/NN of/IN our/PRP$ general/JJ approach/NN is/VBZ that/IN it/PRP yields/VBZ asynchronous/JJ versions/NNS of/IN variance/NN reduction/NN algorithms/NNS such/JJ as/IN SVRG/NNP and/CC SAGA/NNP as/IN a/DT byproduct/NN ./.
+Our/PRP$ method/NN achieves/VBZ near/IN linear/JJ speedup/NN in/IN sparse/JJ settings/NNS common/JJ to/IN machine/NN learning/NN ./.
+We/PRP demonstrate/VBP the/DT empirical/JJ performance/NN of/IN our/PRP$ method/NN through/IN a/DT concrete/JJ realization/NN of/IN asynchronous/JJ SVRG/NN ./.

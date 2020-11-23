@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT deep/JJ neural/JJ architecture/NN that/WDT parses/VBZ sentences/NNS into/IN three/CD semantic/JJ dependency/NN graph/NN formalisms/NNS ./.
+By/IN using/VBG efficient/JJ ,/, nearly/RB arc/NN -/HYPH factored/VBN inference/NN and/CC a/DT bidirectional/JJ -/HYPH LSTM/NN composed/VBN with/IN a/DT multi-layer/JJ perceptron/NN ,/, our/PRP$ base/NN system/NN is/VBZ able/JJ to/TO significantly/RB improve/VB the/DT state/NN of/IN the/DT art/NN for/IN semantic/JJ dependency/NN parsing/VBG ,/, without/IN using/VBG hand/NN -/HYPH engineered/VBN features/NNS or/CC syntax/NN ./.
+We/PRP then/RB explore/VB two/CD multitask/JJ learning/NN approaches/VBZ ---/, one/CD that/WDT shares/VBZ parameters/NNS across/IN formalisms/NNS ,/, and/CC one/CD that/WDT uses/VBZ higher/JJR -/HYPH order/NN structures/NNS to/TO predict/VB the/DT graphs/NNS jointly/RB ./.
+We/PRP find/VBP that/IN both/DT approaches/NNS improve/VBP performance/NN across/IN formalisms/NNS on/IN average/JJ ,/, achieving/VBG a/DT new/JJ state/NN of/IN the/DT art/NN ./.
+Our/PRP$ code/NN is/VBZ open/JJ -/HYPH source/NN and/CC available/JJ at/IN

@@ -1,0 +1,6 @@
+Recurrent neural network (RNN) based character-level language models (CLMs) are extremely useful for modeling unseen words by nature.
+However, their performance is generally much worse than the word-level language models (WLMs), since CLMs need to consider longer history of tokens to properly predict the next one.
+We address this problem by proposing hierarchical RNN architectures, which consist of multiple modules with different clock rates.
+Despite the multi-clock structures, the input and output layers operate with the character-level clock, which allows the existing RNN CLM training approaches to be directly applicable without any modifications.
+Our CLM models show better perplexity than Kneser-Ney (KN) 5-gram WLMs on the One Billion Word Benchmark with only 2 percent of parameters.
+Also, we present real-time character-level end-to-end speech recognition examples on the Wall Street Journal (WSJ) corpus, where replacing traditional mono-clock RNN CLMs with the proposed models results in better recognition accuracies even though the number of parameters are reduced to 30 percent.

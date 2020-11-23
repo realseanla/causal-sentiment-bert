@@ -1,0 +1,10 @@
+Recently/RB ,/, we/PRP have/VBP proposed/VBN a/DT maximum/JJ likelihood/NN iterative/JJ algorithm/NN for/IN estimation/NN of/IN the/DT parameters/NNS of/IN the/DT Nakagami/NNP -/HYPH m/NN distribution/NN ./.
+This/DT technique/NN performs/VBZ better/JJR than/IN state/NN of/IN art/NN estimation/NN techniques/NNS for/IN this/DT distribution/NN ./.
+This/DT could/MD be/VB of/IN particular/JJ use/NN in/IN low/JJ data/NNS or/CC block/NN based/VBN estimation/NN problems/NNS ./.
+In/IN these/DT scenarios/NNS ,/, the/DT estimator/NN should/MD be/VB able/JJ to/TO give/VB accurate/JJ estimates/NNS in/IN the/DT mean/JJ square/JJ sense/NN with/IN less/JJR amounts/NNS of/IN data/NNS ./.
+Also/RB ,/, the/DT estimates/NNS should/MD improve/VB with/IN the/DT increase/NN in/IN number/NN of/IN blocks/NNS received/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP see/VBP through/IN our/PRP$ simulations/NNS ,/, that/IN our/PRP$ proposal/NN is/VBZ well/RB designed/VBN for/IN such/JJ requirements/NNS ./.
+Further/RB ,/, it/PRP is/VBZ well/RB known/VBN in/IN the/DT literature/NN that/WDT an/DT efficient/JJ estimator/NN does/VBZ not/RB exist/VB for/IN Nakagami/NNP -/HYPH m/NN distribution/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP derive/VBP a/DT theoretical/JJ expression/NN for/IN the/DT variance/NN of/IN our/PRP$ proposed/VBN estimator/NN ./.
+We/PRP find/VBP that/IN this/DT expression/NN clearly/RB fits/VBZ the/DT experimental/JJ curve/NN for/IN the/DT variance/NN of/IN the/DT proposed/VBN estimator/NN ./.
+This/DT expression/NN is/VBZ pretty/RB close/RB to/IN the/DT cramer/NN -/HYPH rao/NN lower/JJR bound/JJ (/-LRB- CRLB/NNP )/-RRB- ./.

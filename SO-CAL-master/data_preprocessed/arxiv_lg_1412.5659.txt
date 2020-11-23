@@ -1,0 +1,7 @@
+Automated/VBN writing/VBG evaluation/NN (/-LRB- AWE/NN )/-RRB- has/VBZ been/VBN shown/VBN to/TO be/VB an/DT effective/JJ mechanism/NN for/IN quickly/RB providing/VBG feedback/NN to/IN students/NNS ./.
+It/PRP has/VBZ already/RB seen/VBN wide/JJ adoption/NN in/IN enterprise/NN -/HYPH scale/NN applications/NNS and/CC is/VBZ starting/VBG to/TO be/VB adopted/VBN in/IN large/JJ -/HYPH scale/NN contexts/NNS ./.
+Training/VBG an/DT AWE/NN model/NN has/VBZ historically/RB required/VBN a/DT single/JJ batch/NN of/IN several/JJ hundred/CD writing/NN examples/NNS and/CC human/JJ scores/NNS for/IN each/DT of/IN them/PRP ./.
+This/DT requirement/NN limits/NNS large/JJ -/HYPH scale/NN adoption/NN of/IN AWE/NN since/IN human/JJ -/HYPH scoring/NN essays/NNS is/VBZ costly/JJ ./.
+Here/RB we/PRP evaluate/VBP algorithms/NNS for/IN ensuring/VBG that/IN AWE/NN models/NNS are/VBP consistently/RB trained/VBN using/VBG the/DT most/RBS informative/JJ essays/NNS ./.
+Our/PRP$ results/NNS show/VBP how/WRB to/TO minimize/VB training/NN set/VBN sizes/NNS while/IN maximizing/VBG predictive/JJ performance/NN ,/, thereby/RB reducing/VBG cost/NN without/IN unduly/RB sacrificing/VBG accuracy/NN ./.
+We/PRP conclude/VBP with/IN a/DT discussion/NN of/IN how/WRB to/TO integrate/VB this/DT approach/NN into/IN large/JJ -/HYPH scale/NN AWE/NN systems/NNS ./.

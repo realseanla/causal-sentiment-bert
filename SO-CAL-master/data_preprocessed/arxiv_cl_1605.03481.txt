@@ -1,0 +1,5 @@
+Text/VB from/IN social/JJ media/NN provides/VBZ a/DT set/NN of/IN challenges/NNS that/WDT can/MD cause/VB traditional/JJ NLP/NN approaches/VBZ to/TO fail/VB ./.
+Informal/NNP language/NN ,/, spelling/NN errors/NNS ,/, abbreviations/NNS ,/, and/CC special/JJ characters/NNS are/VBP all/DT commonplace/JJ in/IN these/DT posts/NNS ,/, leading/VBG to/IN a/DT prohibitively/RB large/JJ vocabulary/NN size/NN for/IN word/NN -/HYPH level/NN approaches/NNS ./.
+We/PRP propose/VBP a/DT character/NN composition/NN model/NN ,/, tweet2vec/NN ,/, which/WDT finds/VBZ vector/NN -/HYPH space/NN representations/NNS of/IN whole/JJ tweets/NNS by/IN learning/VBG complex/JJ ,/, non-local/JJ dependencies/NNS in/IN character/NN sequences/NNS ./.
+The/DT proposed/VBN model/NN outperforms/VBZ a/DT word/NN -/HYPH level/NN baseline/NN at/IN predicting/VBG user/NN -/HYPH annotated/VBN hashtags/NNS associated/VBN with/IN the/DT posts/NNS ,/, doing/VBG significantly/RB better/JJR when/WRB the/DT input/NN contains/VBZ many/JJ out/IN -/HYPH of/IN -/HYPH vocabulary/NN words/NNS or/CC unusual/JJ character/NN sequences/NNS ./.
+Our/PRP$ tweet2vec/NN encoder/NN is/VBZ publicly/RB available/JJ ./.

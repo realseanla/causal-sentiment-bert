@@ -1,0 +1,7 @@
+Managing/VBG risk/NN in/IN dynamic/JJ decision/NN problems/NNS is/VBZ of/IN cardinal/JJ importance/NN in/IN many/JJ fields/NNS such/JJ as/IN finance/NN and/CC process/NN control/NN ./.
+The/DT most/RBS common/JJ approach/NN to/IN defining/VBG risk/NN is/VBZ through/IN various/JJ variance/NN related/VBN criteria/NNS such/JJ as/IN the/DT Sharpe/NNP Ratio/NN or/CC the/DT standard/JJ deviation/NN adjusted/VBN reward/NN ./.
+It/PRP is/VBZ known/VBN that/IN optimizing/VBG many/JJ of/IN the/DT variance/NN related/VBN risk/NN criteria/NNS is/VBZ NP/NNP -/HYPH hard/JJ ./.
+In/IN this/DT paper/NN we/PRP devise/VBP a/DT framework/NN for/IN local/JJ policy/NN gradient/NN style/NN algorithms/NNS for/IN reinforcement/NN learning/VBG for/IN variance/NN related/VBN criteria/NNS ./.
+Our/PRP$ starting/NN point/NN is/VBZ a/DT new/JJ formula/NN for/IN the/DT variance/NN of/IN the/DT cost/NN -/HYPH to/IN -/HYPH go/NN in/IN episodic/JJ tasks/NNS ./.
+Using/VBG this/DT formula/NN we/PRP develop/VBP policy/NN gradient/NN algorithms/NNS for/IN criteria/NNS that/WDT involve/VBP both/CC the/DT expected/VBN cost/NN and/CC the/DT variance/NN of/IN the/DT cost/NN ./.
+We/PRP prove/VBP the/DT convergence/NN of/IN these/DT algorithms/NNS to/IN local/JJ minima/NN and/CC demonstrate/VBP their/PRP$ applicability/NN in/IN a/DT portfolio/NN planning/NN problem/NN ./.

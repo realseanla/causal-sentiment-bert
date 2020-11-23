@@ -1,0 +1,9 @@
+Uncertainty/NN plays/VBZ a/DT central/JJ role/NN in/IN spoken/VBN dialogue/NN systems/NNS ./.
+Some/DT stochastic/JJ models/NNS like/IN Markov/NNP decision/NN process/NN (/-LRB- MDP/NN )/-RRB- are/VBP used/VBN to/TO model/VB the/DT dialogue/NN manager/NN ./.
+But/CC the/DT partially/RB observable/JJ system/NN state/NN and/CC user/NN intention/NN hinder/VBP the/DT natural/JJ representation/NN of/IN the/DT dialogue/NN state/NN ./.
+MDP/NN -/HYPH based/VBN system/NN degrades/VBZ fast/RB when/WRB uncertainty/NN about/IN a/DT user/NN 's/POS intention/NN increases/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ dialogue/NN model/NN based/VBN on/IN the/DT partially/RB observable/JJ Markov/NNP decision/NN process/NN (/-LRB- POMDP/NN )/-RRB- ./.
+We/PRP use/VBP hidden/JJ system/NN states/NNS and/CC user/NN intentions/NNS as/IN the/DT state/NN set/NN ,/, parser/NN results/NNS and/CC low/JJ -/HYPH level/NN information/NN as/IN the/DT observation/NN set/NN ,/, domain/NN actions/NNS and/CC dialogue/NN repair/NN actions/NNS as/IN the/DT action/NN set/NN ./.
+Here/RB the/DT low/JJ -/HYPH level/NN information/NN is/VBZ extracted/VBN from/IN different/JJ input/NN modals/NNS ,/, including/VBG speech/NN ,/, keyboard/NN ,/, mouse/NN ,/, etc./FW ,/, using/VBG Bayesian/JJ networks/NNS ./.
+Because/IN of/IN the/DT limitation/NN of/IN the/DT exact/JJ algorithms/NNS ,/, we/PRP focus/VBP on/IN heuristic/NN approximation/NN algorithms/NNS and/CC their/PRP$ applicability/NN in/IN POMDP/NN for/IN dialogue/NN management/NN ./.
+We/PRP also/RB propose/VBP two/CD methods/NNS for/IN grid/NN point/NN selection/NN in/IN grid/NN -/HYPH based/VBN approximation/NN algorithms/NNS ./.

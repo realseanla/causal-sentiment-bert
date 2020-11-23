@@ -1,0 +1,11 @@
+We/PRP use/VBP multilayer/JJ Long/JJ Short/JJ Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- networks/NNS to/TO learn/VB representations/NNS of/IN video/NN sequences/NNS ./.
+Our/PRP$ model/NN uses/VBZ an/DT encoder/NN LSTM/NN to/TO map/VB an/DT input/NN sequence/NN into/IN a/DT fixed/VBN length/NN representation/NN ./.
+This/DT representation/NN is/VBZ decoded/VBN using/VBG single/JJ or/CC multiple/JJ decoder/NN LSTMs/NNS to/TO perform/VB different/JJ tasks/NNS ,/, such/JJ as/IN reconstructing/VBG the/DT input/NN sequence/NN ,/, or/CC predicting/VBG the/DT future/JJ sequence/NN ./.
+We/PRP experiment/VBP with/IN two/CD kinds/NNS of/IN input/NN sequences/NNS -/, patches/NNS of/IN image/NN pixels/NNS and/CC high/JJ -/HYPH level/NN representations/NNS (/-LRB- "/`` percepts/NNS "/'' )/-RRB- of/IN video/NN frames/NNS extracted/VBN using/VBG a/DT pretrained/JJ convolutional/JJ net/NN ./.
+We/PRP explore/VBP different/JJ design/NN choices/NNS such/JJ as/IN whether/IN the/DT decoder/NN LSTMs/NNS should/MD condition/VB on/IN the/DT generated/VBN output/NN ./.
+We/PRP analyze/VBP the/DT outputs/NNS of/IN the/DT model/NN qualitatively/RB to/TO see/VB how/WRB well/RB the/DT model/NN can/MD extrapolate/VB the/DT learned/VBN video/NN representation/NN into/IN the/DT future/NN and/CC into/IN the/DT past/NN ./.
+We/PRP try/VBP to/TO visualize/VB and/CC interpret/VB the/DT learned/VBN features/NNS ./.
+We/PRP stress/VBP test/NN the/DT model/NN by/IN running/VBG it/PRP on/IN longer/JJR time/NN scales/NNS and/CC on/IN out/RB -/HYPH of/IN -/HYPH domain/NN data/NNS ./.
+We/PRP further/RB evaluate/VB the/DT representations/NNS by/IN finetuning/VBG them/PRP for/IN a/DT supervised/JJ learning/NN problem/NN -/HYPH human/JJ action/NN recognition/NN on/IN the/DT UCF/NN -/HYPH 101/CD and/CC HMDB/NN -/HYPH 51/CD datasets/NNS ./.
+We/PRP show/VBP that/IN the/DT representations/NNS help/VBP improve/VB classification/NN accuracy/NN ,/, especially/RB when/WRB there/EX are/VBP only/RB a/DT few/JJ training/NN examples/NNS ./.
+Even/RB models/NNS pretrained/VBN on/IN unrelated/JJ datasets/NNS (/-LRB- 300/CD hours/NNS of/IN YouTube/NNP videos/NNS )/-RRB- can/MD help/VB action/NN recognition/NN performance/NN ./.

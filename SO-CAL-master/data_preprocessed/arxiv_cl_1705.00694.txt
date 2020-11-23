@@ -1,0 +1,7 @@
+Lambek/NNP calculus/NN is/VBZ a/DT logical/JJ foundation/NN of/IN categorial/JJ grammar/NN ,/, a/DT linguistic/JJ paradigm/NN of/IN grammar/NN as/IN logic/NN and/CC parsing/VBG as/IN deduction/NN ./.
+Pentus/NNP (/-LRB- 2010/CD )/-RRB- gave/VBD a/DT polynomial/JJ -/HYPH time/NN algorithm/NN for/IN determ/NN -/HYPH ining/VBG provability/NN of/IN bounded/VBD depth/NN formulas/NNS in/IN the/DT Lambek/NNP calculus/NN with/IN empty/JJ antecedents/NNS allowed/VBN ./.
+Pentus/NNP '/POS algorithm/NN is/VBZ based/VBN on/IN tabularisation/NN of/IN proof/NN nets/NNS ./.
+Lambek/NNP calculus/NN with/IN brackets/NNS is/VBZ a/DT conservative/JJ extension/NN of/IN Lambek/NNP calculus/NN with/IN bracket/NN modalities/NNS ,/, suitable/JJ for/IN the/DT modeling/NN of/IN syntactical/JJ domains/NNS ./.
+In/IN this/DT paper/NN we/PRP give/VBP an/DT algorithm/NN for/IN provability/NN the/DT Lambek/NNP calculus/NN with/IN brackets/NNS allowing/VBG empty/JJ antecedents/NNS ./.
+Our/PRP$ algorithm/NN runs/VBZ in/IN polynomial/JJ time/NN when/WRB both/CC the/DT formula/NN depth/NN and/CC the/DT bracket/NN nesting/VBG depth/NN are/VBP bounded/VBN ./.
+It/PRP combines/VBZ a/DT Pentus/NNP -/HYPH style/NN tabularisation/NN of/IN proof/NN nets/NNS with/IN an/DT automata/NN -/HYPH theoretic/JJ treatment/NN of/IN bracketing/VBG ./.

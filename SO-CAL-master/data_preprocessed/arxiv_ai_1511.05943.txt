@@ -1,0 +1,7 @@
+The/DT study/NN of/IN representations/NNS invariant/JJ to/IN common/JJ transformations/NNS of/IN the/DT data/NNS is/VBZ important/JJ to/IN learning/NN ./.
+Most/JJS techniques/NNS have/VBP focused/VBN on/IN local/JJ approximate/JJ invariance/NN implemented/VBD within/IN expensive/JJ optimization/NN frameworks/NNS lacking/VBG explicit/JJ theoretical/JJ guarantees/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP kernels/NNS that/WDT are/VBP invariant/JJ to/IN the/DT unitary/JJ group/NN while/IN having/VBG theoretical/JJ guarantees/NNS in/IN addressing/VBG practical/JJ issues/NNS such/JJ as/IN (/-LRB- 1/CD )/-RRB- unavailability/NN of/IN transformed/VBN versions/NNS of/IN labelled/VBN data/NNS and/CC (/-LRB- 2/LS )/-RRB- not/RB observing/VBG all/DT transformations/NNS ./.
+We/PRP present/VBP a/DT theoretically/RB motivated/JJ alternate/JJ approach/NN to/IN the/DT invariant/JJ kernel/NN SVM/NN ./.
+Unlike/IN previous/JJ approaches/NNS to/IN the/DT invariant/JJ SVM/NN ,/, the/DT proposed/VBN formulation/NN solves/VBZ both/CC issues/VBZ mentioned/VBN ./.
+We/PRP also/RB present/VBP a/DT kernel/NN extension/NN of/IN a/DT recent/JJ technique/NN to/TO extract/VB linear/JJ unitary/JJ -/HYPH group/NN invariant/JJ features/NNS addressing/VBG both/CC issues/NNS and/CC extend/VB some/DT guarantees/NNS regarding/VBG invariance/NN and/CC stability/NN ./.
+We/PRP present/VBP experiments/NNS on/IN the/DT UCI/NNP ML/NNP datasets/NNS to/TO illustrate/VB and/CC validate/VB our/PRP$ methods/NNS ./.

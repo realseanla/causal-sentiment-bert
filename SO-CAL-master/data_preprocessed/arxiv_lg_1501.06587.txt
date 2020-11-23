@@ -1,0 +1,10 @@
+The/DT importance/NN of/IN a/DT research/NN article/NN is/VBZ routinely/RB measured/VBN by/IN counting/VBG how/WRB many/JJ times/NNS it/PRP has/VBZ been/VBN cited/VBN ./.
+However/RB ,/, treating/VBG all/DT citations/NNS with/IN equal/JJ weight/NN ignores/VBZ the/DT wide/JJ variety/NN of/IN functions/NNS that/WDT citations/NNS perform/VBP ./.
+We/PRP want/VBP to/TO automatically/RB identify/VB the/DT subset/NN of/IN references/NNS in/IN a/DT bibliography/NN that/WDT have/VBP a/DT central/JJ academic/JJ influence/NN on/IN the/DT citing/VBG paper/NN ./.
+For/IN this/DT purpose/NN ,/, we/PRP examine/VBP the/DT effectiveness/NN of/IN a/DT variety/NN of/IN features/NNS for/IN determining/VBG the/DT academic/JJ influence/NN of/IN a/DT citation/NN ./.
+By/IN asking/VBG authors/NNS to/TO identify/VB the/DT key/JJ references/NNS in/IN their/PRP$ own/JJ work/NN ,/, we/PRP created/VBD a/DT data/NN set/NN in/IN which/WDT citations/NNS were/VBD labeled/VBN according/VBG to/IN their/PRP$ academic/JJ influence/NN ./.
+Using/VBG automatic/JJ feature/NN selection/NN with/IN supervised/JJ machine/NN learning/NN ,/, we/PRP found/VBD a/DT model/NN for/IN predicting/VBG academic/JJ influence/NN that/WDT achieves/VBZ good/JJ performance/NN on/IN this/DT data/NNS set/VBN using/VBG only/RB four/CD features/NNS ./.
+The/DT best/JJS features/NNS ,/, among/IN those/DT we/PRP evaluated/VBD ,/, were/VBD those/DT based/VBN on/IN the/DT number/NN of/IN times/NNS a/DT reference/NN is/VBZ mentioned/VBN in/IN the/DT body/NN of/IN a/DT citing/VBG paper/NN ./.
+The/DT performance/NN of/IN these/DT features/NNS inspired/VBD us/PRP to/TO design/VB an/DT influence/NN -/HYPH primed/VBN h/NN -/HYPH index/NN (/-LRB- the/DT hip/NN -/HYPH index/NN )/-RRB- ./.
+Unlike/IN the/DT conventional/JJ h/NN -/HYPH index/NN ,/, it/PRP weights/NNS citations/NNS by/IN how/WRB many/JJ times/NNS a/DT reference/NN is/VBZ mentioned/VBN ./.
+According/VBG to/IN our/PRP$ experiments/NNS ,/, the/DT hip/NN -/HYPH index/NN is/VBZ a/DT better/JJR indicator/NN of/IN researcher/NN performance/NN than/IN the/DT conventional/JJ h/NN -/HYPH index/NN ./.

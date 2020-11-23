@@ -1,0 +1,9 @@
+Tensor/NNP CANDECOMP/NNP //HYPH PARAFAC/NNP (/-LRB- CP/NN )/-RRB- decomposition/NN has/VBZ wide/JJ applications/NNS in/IN statistical/JJ learning/NN of/IN latent/JJ variable/JJ models/NNS and/CC in/IN data/NNS mining/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP fast/JJ and/CC randomized/JJ tensor/NN CP/NN decomposition/NN algorithms/NNS based/VBN on/IN sketching/VBG ./.
+We/PRP build/VBP on/IN the/DT idea/NN of/IN count/NN sketches/NNS ,/, but/CC introduce/VB many/JJ novel/JJ ideas/NNS which/WDT are/VBP unique/JJ to/IN tensors/NNS ./.
+We/PRP develop/VBP novel/JJ methods/NNS for/IN randomized/JJ computation/NN of/IN tensor/NN contractions/NNS via/IN FFTs/NNS ,/, without/IN explicitly/RB forming/VBG the/DT tensors/NNS ./.
+Such/JJ tensor/NN contractions/NNS are/VBP encountered/VBN in/IN decomposition/NN methods/NNS such/JJ as/IN tensor/NN power/NN iterations/NNS and/CC alternating/VBG least/JJS squares/NNS ./.
+We/PRP also/RB design/VBP novel/JJ colliding/VBG hashes/NNS for/IN symmetric/JJ tensors/NNS to/TO further/RB save/VB time/NN in/IN computing/VBG the/DT sketches/NNS ./.
+We/PRP then/RB combine/VBP these/DT sketching/VBG ideas/NNS with/IN existing/VBG whitening/NN and/CC tensor/NN power/NN iterative/JJ techniques/NNS to/TO obtain/VB the/DT fastest/JJS algorithm/NN on/IN both/DT sparse/JJ and/CC dense/JJ tensors/NNS ./.
+The/DT quality/NN of/IN approximation/NN under/IN our/PRP$ method/NN does/VBZ not/RB depend/VB on/IN properties/NNS such/JJ as/IN sparsity/NN ,/, uniformity/NN of/IN elements/NNS ,/, etc/FW ./.
+We/PRP apply/VBP the/DT method/NN for/IN topic/NN modeling/NN and/CC obtain/VB competitive/JJ results/NNS ./.

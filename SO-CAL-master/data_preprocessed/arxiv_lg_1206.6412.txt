@@ -1,0 +1,4 @@
+In/IN this/DT work/NN ,/, we/PRP develop/VBP a/DT simple/JJ algorithm/NN for/IN semi-supervised/JJ regression/NN ./.
+The/DT key/JJ idea/NN is/VBZ to/TO use/VB the/DT top/JJ eigenfunctions/NNS of/IN integral/JJ operator/NN derived/VBN from/IN both/DT labeled/VBN and/CC unlabeled/JJ examples/NNS as/IN the/DT basis/NN functions/NNS and/CC learn/VB the/DT prediction/NN function/NN by/IN a/DT simple/JJ linear/JJ regression/NN ./.
+We/PRP show/VBP that/IN under/IN appropriate/JJ assumptions/NNS about/IN the/DT integral/JJ operator/NN ,/, this/DT approach/NN is/VBZ able/JJ to/TO achieve/VB an/DT improved/JJ regression/NN error/NN bound/VBN better/JJR than/IN existing/VBG bounds/NNS of/IN supervised/JJ learning/NN ./.
+We/PRP also/RB verify/VBP the/DT effectiveness/NN of/IN the/DT proposed/VBN algorithm/NN by/IN an/DT empirical/JJ study/NN ./.

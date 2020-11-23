@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN end/NN -/HYPH to/IN -/HYPH end/NN Automatic/NNP Speech/NNP Recognition/NNP (/-LRB- ASR/NNP )/-RRB- model/NN ./.
+We/PRP learn/VBP to/TO listen/VB and/CC write/VB characters/NNS with/IN a/DT joint/JJ Connectionist/NN Temporal/JJ Classification/NN (/-LRB- CTC/NN )/-RRB- and/CC attention/NN -/HYPH based/VBN encoder/NN -/HYPH decoder/NN network/NN ./.
+The/DT encoder/NN is/VBZ a/DT deep/JJ Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- based/VBN on/IN the/DT VGG/NNP network/NN ./.
+The/DT CTC/NN network/NN sits/VBZ on/IN top/NN of/IN the/DT encoder/NN and/CC is/VBZ jointly/RB trained/VBN with/IN the/DT attention/NN -/HYPH based/VBN decoder/NN ./.
+During/IN the/DT beam/NN search/NN process/NN ,/, we/PRP combine/VBP the/DT CTC/NN predictions/NNS ,/, the/DT attention/NN -/HYPH based/VBN decoder/NN predictions/NNS and/CC a/DT separately/RB trained/VBN LSTM/NNP language/NN model/NN ./.
+We/PRP achieve/VBP a/DT 5/CD -/SYM 10/CD \/SYM percent/NN error/NN reduction/NN compared/VBN to/IN prior/JJ systems/NNS on/IN spontaneous/JJ Japanese/JJ and/CC Chinese/JJ speech/NN ,/, and/CC our/PRP$ end/NN -/HYPH to/IN -/HYPH end/NN model/NN beats/VBZ out/IN traditional/JJ hybrid/JJ ASR/NN systems/NNS ./.

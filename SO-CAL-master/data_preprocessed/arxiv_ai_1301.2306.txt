@@ -1,0 +1,6 @@
+A/DT method/NN is/VBZ presented/VBN for/IN the/DT rhythmic/JJ parsing/VBG problem/NN :/: Given/VBN a/DT sequence/NN of/IN observed/VBN musical/JJ note/NN onset/NN times/NNS ,/, we/PRP estimate/VBP the/DT corresponding/VBG notated/JJ rhythm/NN and/CC tempo/NN process/NN ./.
+A/DT graphical/JJ model/NN is/VBZ developed/VBN that/WDT represents/VBZ the/DT simultaneous/JJ evolution/NN of/IN tempo/NN and/CC rhythm/NN and/CC relates/VBZ these/DT hidden/JJ quantities/NNS to/IN observations/NNS ./.
+The/DT rhythm/NN variables/NNS are/VBP discrete/JJ and/CC the/DT tempo/NN and/CC observation/NN variables/NNS are/VBP continuous/JJ ./.
+We/PRP show/VBP how/WRB to/TO compute/VB the/DT globally/RB most/RBS likely/JJ configuration/NN of/IN the/DT tempo/NN and/CC rhythm/NN variables/NNS given/VBN an/DT observation/NN of/IN note/NN onset/NN times/NNS ./.
+Preliminary/JJ experiments/NNS are/VBP presented/VBN on/IN a/DT small/JJ data/NNS set/VBN ./.
+A/DT generalization/NN to/IN arbitrary/JJ conditional/JJ Gaussian/JJ distributions/NNS is/VBZ outlined/VBN ./.

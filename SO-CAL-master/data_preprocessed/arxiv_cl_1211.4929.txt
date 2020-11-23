@@ -1,0 +1,7 @@
+We/PRP present/VBP a/DT novel/JJ summarization/NN framework/NN for/IN reviews/NNS of/IN products/NNS and/CC services/NNS by/IN selecting/VBG informative/JJ and/CC concise/JJ text/NN segments/NNS from/IN the/DT reviews/NNS ./.
+Our/PRP$ method/NN consists/VBZ of/IN two/CD major/JJ steps/NNS ./.
+First/RB ,/, we/PRP identify/VBP five/CD frequently/RB occurring/VBG variable/JJ -/HYPH length/NN syntactic/JJ patterns/NNS and/CC use/VB them/PRP to/TO extract/VB candidate/NN segments/NNS ./.
+Then/RB we/PRP use/VBP the/DT output/NN of/IN a/DT joint/JJ generative/JJ sentiment/NN topic/NN model/NN to/IN filter/NN out/IN the/DT non-informative/JJ segments/NNS ./.
+We/PRP verify/VBP the/DT proposed/JJ method/NN with/IN quantitative/JJ and/CC qualitative/JJ experiments/NNS ./.
+In/IN a/DT quantitative/JJ study/NN ,/, our/PRP$ approach/NN outperforms/VBZ previous/JJ methods/NNS in/IN producing/VBG informative/JJ segments/NNS and/CC summaries/NNS that/WDT capture/VBP aspects/NNS of/IN products/NNS and/CC services/NNS as/IN expressed/VBN in/IN the/DT user/NN -/HYPH generated/VBN pros/NNS and/CC cons/NNS lists/NNS ./.
+Our/PRP$ user/NN study/NN with/IN ninety/CD users/NNS resonates/VBZ with/IN this/DT result/NN :/: individual/JJ segments/NNS extracted/VBN and/CC filtered/VBN by/IN our/PRP$ method/NN are/VBP rated/VBN as/IN more/JJR useful/JJ by/IN users/NNS compared/VBN to/IN previous/JJ approaches/NNS by/IN users/NNS ./.

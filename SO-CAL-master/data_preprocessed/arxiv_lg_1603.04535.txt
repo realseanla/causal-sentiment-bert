@@ -1,0 +1,11 @@
+When/WRB the/DT distributions/NNS of/IN the/DT source/NN and/CC the/DT target/NN domains/NNS are/VBP different/JJ ,/, domain/NN adaptation/NN techniques/NNS are/VBP needed/VBN ./.
+For/IN example/NN ,/, in/IN the/DT field/NN of/IN sensors/NNS and/CC measurement/NN ,/, discrete/JJ and/CC continuous/JJ distributional/JJ change/NN often/RB exist/VBP in/IN data/NNS because/IN of/IN instrumental/JJ variation/NN and/CC time/NN -/HYPH varying/VBG sensor/NN drift/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP maximum/JJ independence/NN domain/NN adaptation/NN (/-LRB- MIDA/NNP )/-RRB- to/TO address/VB this/DT problem/NN ./.
+Domain/NN features/NNS are/VBP first/RB defined/VBN to/TO describe/VB the/DT background/NN information/NN of/IN a/DT sample/NN ,/, such/JJ as/IN the/DT device/NN label/NN and/CC acquisition/NN time/NN ./.
+Then/RB ,/, MIDA/NNP learns/VBZ features/NNS which/WDT have/VBP maximal/JJ independence/NN with/IN the/DT domain/NN features/VBZ ,/, so/RB as/IN to/TO reduce/VB the/DT inter-domain/NN discrepancy/NN in/IN distributions/NNS ./.
+A/DT feature/NN augmentation/NN strategy/NN is/VBZ designed/VBN so/IN that/IN the/DT learned/VBN projection/NN is/VBZ background/NN -/HYPH specific/JJ ./.
+Semi-supervised/VBN MIDA/NNP (/-LRB- SMIDA/NNP )/-RRB- extends/VBZ MIDA/NNP by/IN exploiting/VBG the/DT label/NN information/NN ./.
+The/DT proposed/VBN methods/NNS can/MD handle/VB not/RB only/RB discrete/JJ domains/NNS in/IN traditional/JJ domain/NN adaptation/NN problems/NNS but/CC also/RB continuous/JJ distributional/JJ change/NN such/JJ as/IN the/DT time/NN -/HYPH varying/VBG drift/NN ./.
+In/IN addition/NN ,/, they/PRP are/VBP naturally/RB applicable/JJ in/IN supervised/JJ //HYPH semi/NN -/HYPH supervised/JJ //HYPH unsupervised/JJ classification/NN or/CC regression/NN problems/NNS with/IN multiple/JJ domains/NNS ./.
+This/DT flexibility/NN brings/VBZ potential/JJ for/IN a/DT wide/JJ range/NN of/IN applications/NNS ./.
+The/DT effectiveness/NN of/IN our/PRP$ approaches/NNS is/VBZ verified/VBN by/IN experiments/NNS on/IN synthetic/JJ datasets/NNS and/CC four/CD real/JJ -/HYPH world/NN ones/NNS on/IN sensors/NNS ,/, measurement/NN ,/, and/CC computer/NN vision/NN ./.

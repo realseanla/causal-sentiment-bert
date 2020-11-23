@@ -1,0 +1,7 @@
+In/IN \/SYM citep/NN {/-LRB- Yangnips13/NN }/-RRB- ,/, the/DT author/NN presented/VBD distributed/VBN stochastic/JJ dual/JJ coordinate/NN ascent/NN (/-LRB- DisDCA/NN )/-RRB- algorithms/NNS for/IN solving/VBG large/JJ -/HYPH scale/NN regularized/VBN loss/NN minimization/NN ./.
+Extraordinary/JJ performances/NNS have/VBP been/VBN observed/VBN and/CC reported/VBN for/IN the/DT well/JJ -/HYPH motivated/JJ updates/NNS ,/, as/IN referred/VBN to/IN the/DT practical/JJ updates/NNS ,/, compared/VBN to/IN the/DT naive/JJ updates/NNS ./.
+However/RB ,/, no/DT serious/JJ analysis/NN has/VBZ been/VBN provided/VBN to/TO understand/VB the/DT updates/NNS and/CC therefore/RB the/DT convergence/NN rates/NNS ./.
+In/IN the/DT paper/NN ,/, we/PRP bridge/VBP the/DT gap/NN by/IN providing/VBG a/DT theoretical/JJ analysis/NN of/IN the/DT convergence/NN rates/NNS of/IN the/DT practical/JJ DisDCA/NN algorithm/NN ./.
+Our/PRP$ analysis/NN helped/VBN by/IN empirical/JJ studies/NNS has/VBZ shown/VBN that/IN it/PRP could/MD yield/VB an/DT exponential/JJ speed/NN -/HYPH up/NN in/IN the/DT convergence/NN by/IN increasing/VBG the/DT number/NN of/IN dual/JJ updates/NNS at/IN each/DT iteration/NN ./.
+This/DT result/NN justifies/VBZ the/DT superior/JJ performances/NNS of/IN the/DT practical/JJ DisDCA/NN as/IN compared/VBN to/IN the/DT naive/JJ variant/NN ./.
+As/IN a/DT byproduct/NN ,/, our/PRP$ analysis/NN also/RB reveals/VBZ the/DT convergence/NN behavior/NN of/IN the/DT one/CD -/HYPH communication/NN DisDCA/NN ./.

@@ -1,0 +1,6 @@
+In/IN this/DT work/NN ,/, we/PRP explore/VBP a/DT genre/NN of/IN puzzles/NNS (/-LRB- "/`` image/NN riddles/NNS "/'' )/-RRB- which/WDT involves/VBZ a/DT set/NN of/IN images/NNS and/CC a/DT question/NN ./.
+Answering/VBG these/DT puzzles/NNS require/VBP both/CC capabilities/NNS involving/VBG visual/JJ detection/NN (/-LRB- including/VBG object/NN ,/, activity/NN recognition/NN )/-RRB- and/CC ,/, knowledge/NN -/HYPH based/VBN or/CC commonsense/JJ reasoning/NN ./.
+We/PRP compile/VBP a/DT dataset/NN of/IN over/IN 3k/NN riddles/NNS where/WRB each/DT riddle/NN consists/VBZ of/IN 4/CD images/NNS and/CC a/DT groundtruth/NN answer/NN ./.
+The/DT annotations/NNS are/VBP validated/VBN using/VBG crowd/NN -/HYPH sourced/VBN evaluation/NN ./.
+We/PRP also/RB define/VBP an/DT automatic/JJ evaluation/NN metric/JJ to/TO track/VB future/JJ progress/NN ./.
+Our/PRP$ task/NN bears/VBZ similarity/NN with/IN the/DT commonly/RB known/VBN IQ/NNP tasks/NNS such/JJ as/IN analogy/NN solving/NN ,/, sequence/NN filling/NN that/WDT are/VBP often/RB used/VBN to/TO test/VB intelligence/NN ./.

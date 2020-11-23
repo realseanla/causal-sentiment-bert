@@ -1,0 +1,5 @@
+We/PRP present/VBP a/DT fast/JJ algorithm/NN for/IN kernel/NN summation/NN problems/NNS in/IN high/JJ -/HYPH dimensions/NNS ./.
+These/DT problems/NNS appear/VBP in/IN computational/JJ physics/NN ,/, numerical/JJ approximation/NN ,/, non-parametric/JJ statistics/NNS ,/, and/CC machine/NN learning/NN ./.
+In/IN our/PRP$ context/NN ,/, the/DT sums/NNS depend/VBP on/IN a/DT kernel/NN function/NN that/WDT is/VBZ a/DT pair/NN potential/JJ defined/VBN on/IN a/DT dataset/NN of/IN points/NNS in/IN a/DT high/JJ -/HYPH dimensional/JJ Euclidean/JJ space/NN ./.
+A/DT direct/JJ evaluation/NN of/IN the/DT sum/NN scales/NNS quadratically/RB with/IN the/DT number/NN of/IN points/NNS ./.
+Fast/JJ kernel/NN summation/NN methods/NNS can/MD reduce/VB this/DT cost/NN to/IN linear/JJ complexity/NN ,/, but/CC the/DT constants/NNS involved/VBN do/VBP not/RB scale/VB well/RB with/IN the/DT dimensionality/NN of/IN the/DT dataset/NN ./.

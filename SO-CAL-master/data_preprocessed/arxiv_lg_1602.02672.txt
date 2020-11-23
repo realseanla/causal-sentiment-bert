@@ -1,0 +1,6 @@
+We/PRP propose/VBP deep/JJ distributed/VBN recurrent/JJ Q/NN -/HYPH networks/NNS (/-LRB- DDRQN/NNP )/-RRB- ,/, which/WDT enable/VBP teams/NNS of/IN agents/NNS to/TO learn/VB to/TO solve/VB communication/NN -/HYPH based/VBN coordination/NN tasks/NNS ./.
+In/IN these/DT tasks/NNS ,/, the/DT agents/NNS are/VBP not/RB given/VBN any/DT pre-designed/JJ communication/NN protocol/NN ./.
+Therefore/RB ,/, in/IN order/NN to/TO successfully/RB communicate/VB ,/, they/PRP must/MD first/RB automatically/RB develop/VB and/CC agree/VB upon/IN their/PRP$ own/JJ communication/NN protocol/NN ./.
+We/PRP present/VBP empirical/JJ results/NNS on/IN two/CD multi-agent/JJ learning/NN problems/NNS based/VBN on/IN well/RB -/HYPH known/VBN riddles/NNS ,/, demonstrating/VBG that/IN DDRQN/NNP can/MD successfully/RB solve/VB such/JJ tasks/NNS and/CC discover/VBP elegant/JJ communication/NN protocols/NNS to/TO do/VB so/RB ./.
+To/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ time/NN deep/JJ reinforcement/NN learning/NN has/VBZ succeeded/VBN in/IN learning/VBG communication/NN protocols/NNS ./.
+In/IN addition/NN ,/, we/PRP present/VBP ablation/NN experiments/NNS that/WDT confirm/VBP that/IN each/DT of/IN the/DT main/JJ components/NNS of/IN the/DT DDRQN/NNP architecture/NN are/VBP critical/JJ to/IN its/PRP$ success/NN ./.

@@ -1,0 +1,4 @@
+Motivated/VBN by/IN the/DT recent/JJ progress/NN in/IN generative/JJ models/NNS ,/, we/PRP introduce/VBP a/DT model/NN that/WDT generates/VBZ images/NNS from/IN natural/JJ language/NN descriptions/NNS ./.
+The/DT proposed/VBN model/NN iteratively/RB draws/VBZ patches/NNS on/IN a/DT canvas/NN ,/, while/IN attending/VBG to/IN the/DT relevant/JJ words/NNS in/IN the/DT description/NN ./.
+After/IN training/VBG on/IN Microsoft/NNP COCO/NNP ,/, we/PRP compare/VBP our/PRP$ model/NN with/IN several/JJ baseline/NN generative/NN models/NNS on/IN image/NN generation/NN and/CC retrieval/NN tasks/NNS ./.
+We/PRP demonstrate/VBP that/IN our/PRP$ model/NN produces/VBZ higher/JJR quality/NN samples/NNS than/IN other/JJ approaches/NNS and/CC generates/VBZ images/NNS with/IN novel/JJ scene/NN compositions/NNS corresponding/VBG to/IN previously/RB unseen/JJ captions/NNS in/IN the/DT dataset/NN ./.

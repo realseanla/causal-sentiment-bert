@@ -1,0 +1,9 @@
+Representation/NN learning/NN and/CC option/NN discovery/NN are/VBP two/CD of/IN the/DT biggest/JJS challenges/NNS in/IN reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- ./.
+Proto/NNP -/HYPH RL/NNP is/VBZ a/DT well/RB known/VBN approach/NN for/IN representation/NN learning/NN in/IN MDPs/NNS ./.
+The/DT representations/NNS learned/VBD with/IN this/DT framework/NN are/VBP called/VBN proto/NN -/HYPH value/NN functions/NNS (/-LRB- PVFs/NNS )/-RRB- ./.
+In/IN this/DT paper/NN we/PRP address/VBP the/DT option/NN discovery/NN problem/NN by/IN showing/VBG how/WRB PVFs/NNS implicitly/RB define/VBP options/NNS ./.
+We/PRP do/VBP it/PRP by/IN introducing/VBG eigenpurposes/NNS ,/, intrinsic/JJ reward/NN functions/VBZ derived/VBN from/IN the/DT learned/VBN representations/NNS ./.
+The/DT options/NNS discovered/VBN from/IN eigenpurposes/NNS traverse/VBP the/DT principal/JJ directions/NNS of/IN the/DT state/NN space/NN ./.
+They/PRP are/VBP useful/JJ for/IN multiple/JJ tasks/NNS because/IN they/PRP are/VBP independent/JJ of/IN the/DT agents/NNS '/POS intentions/NNS ./.
+Moreover/RB ,/, by/IN capturing/VBG the/DT diffusion/NN process/NN of/IN a/DT random/JJ walk/NN ,/, different/JJ options/NNS act/VBP at/IN different/JJ time/NN scales/NNS ,/, making/VBG them/PRP helpful/JJ for/IN exploration/NN strategies/NNS ./.
+We/PRP demonstrate/VBP features/NNS of/IN eigenpurposes/NNS in/IN traditional/JJ tabular/JJ domains/NNS as/RB well/RB as/IN in/IN Atari/NNP 2600/CD games/NNS ./.

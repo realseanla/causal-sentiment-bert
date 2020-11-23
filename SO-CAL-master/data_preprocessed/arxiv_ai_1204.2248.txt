@@ -1,0 +1,9 @@
+Many/JJ real/JJ -/HYPH world/NN phenomena/NN can/MD be/VB represented/VBN by/IN a/DT spatio/JJ -/HYPH temporal/JJ signal/NN :/: where/WRB ,/, when/WRB ,/, and/CC how/WRB much/JJ ./.
+Social/JJ media/NNS is/VBZ a/DT tantalizing/JJ data/NNS source/NN for/IN those/DT who/WP wish/VBP to/TO monitor/VB such/JJ signals/NNS ./.
+Unlike/IN most/JJS prior/JJ work/NN ,/, we/PRP assume/VBP that/IN the/DT target/NN phenomenon/NN is/VBZ known/VBN and/CC we/PRP are/VBP given/VBN a/DT method/NN to/TO count/VB its/PRP$ occurrences/NNS in/IN social/JJ media/NNS ./.
+However/RB ,/, counting/VBG is/VBZ plagued/VBN by/IN sample/NN bias/NN ,/, incomplete/JJ data/NNS ,/, and/CC ,/, paradoxically/RB ,/, data/NNS scarcity/NN --/: issues/NNS inadequately/RB addressed/VBN by/IN prior/JJ work/NN ./.
+We/PRP formulate/VBP signal/NN recovery/NN as/IN a/DT Poisson/NNP point/NN process/NN estimation/NN problem/NN ./.
+We/PRP explicitly/RB incorporate/VB human/JJ population/NN bias/NN ,/, time/NN delays/NNS and/CC spatial/JJ distortions/NNS ,/, and/CC spatio/JJ -/HYPH temporal/JJ regularization/NN into/IN the/DT model/NN to/TO address/VB the/DT noisy/JJ count/NN issues/NNS ./.
+We/PRP present/VBP an/DT efficient/JJ optimization/NN algorithm/NN and/CC discuss/VB its/PRP$ theoretical/JJ properties/NNS ./.
+We/PRP show/VBP that/IN our/PRP$ model/NN is/VBZ more/RBR accurate/JJ than/IN commonly/RB -/HYPH used/VBN baselines/NNS ./.
+Finally/RB ,/, we/PRP present/VBP a/DT case/NN study/NN on/IN wildlife/NN roadkill/NN monitoring/NN ,/, where/WRB our/PRP$ model/NN produces/VBZ qualitatively/RB convincing/JJ results/NNS ./.

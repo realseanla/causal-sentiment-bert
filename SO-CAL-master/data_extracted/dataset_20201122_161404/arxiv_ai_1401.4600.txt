@@ -1,0 +1,3 @@
+We focus on the problem of sequential decision making in partially observable environments shared with other agents of uncertain types having similar or conflicting objectives.
+This problem has been previously formalized by multiple frameworks one of which is the interactive dynamic influence diagram (I-DID), which generalizes the well-known influence diagram to the multiagent setting.
+I-DIDs are graphical models and may be used to compute the policy of an agent given its belief over the physical state and others models, which changes as the agent acts and observes in the multiagent setting.

@@ -1,0 +1,4 @@
+We/PRP prove/VBP that/IN the/DT empirical/JJ risk/NN of/IN most/JJS well/RB -/HYPH known/VBN loss/NN functions/VBZ factors/NNS into/IN a/DT linear/JJ term/NN aggregating/VBG all/DT labels/NNS with/IN a/DT term/NN that/WDT is/VBZ label/NN free/JJ ,/, and/CC can/MD further/RB be/VB expressed/VBN by/IN sums/NNS of/IN the/DT loss/NN ./.
+This/DT holds/VBZ true/JJ even/RB for/IN non-smooth/JJ ,/, non-convex/JJ losses/NNS and/CC in/IN any/DT RKHS/NN ./.
+The/DT first/JJ term/NN is/VBZ a/DT (/-LRB- kernel/NN )/-RRB- mean/VBP operator/NN --/: the/DT focal/JJ quantity/NN of/IN this/DT work/NN --/: which/WDT we/PRP characterize/VBP as/IN the/DT sufficient/JJ statistic/NN for/IN the/DT labels/NNS ./.
+The/DT result/NN tightens/VBZ known/VBN generalization/NN bounds/NNS and/CC sheds/VBZ new/JJ light/NN on/IN their/PRP$ interpretation/NN ./.

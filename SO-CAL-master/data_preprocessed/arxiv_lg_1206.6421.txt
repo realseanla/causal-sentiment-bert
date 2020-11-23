@@ -1,0 +1,8 @@
+Structured/VBN learning/NN is/VBZ appropriate/JJ when/WRB predicting/VBG structured/VBN outputs/NNS such/JJ as/IN trees/NNS ,/, graphs/NNS ,/, or/CC sequences/NNS ./.
+Most/JJS prior/JJ work/NN requires/VBZ the/DT training/NN set/NN to/TO consist/VB of/IN complete/JJ trees/NNS ,/, graphs/NNS or/CC sequences/NNS ./.
+Specifying/VBG such/JJ detailed/JJ ground/NN truth/NN can/MD be/VB tedious/JJ or/CC infeasible/JJ for/IN large/JJ outputs/NNS ./.
+Our/PRP$ main/JJ contribution/NN is/VBZ a/DT large/JJ margin/NN formulation/NN that/WDT makes/VBZ structured/JJ learning/NN from/IN only/RB partially/RB annotated/VBN data/NNS possible/JJ ./.
+The/DT resulting/VBG optimization/NN problem/NN is/VBZ non-convex/JJ ,/, yet/CC can/MD be/VB efficiently/RB solve/VB by/IN concave/NN -/HYPH convex/NN procedure/NN (/-LRB- CCCP/NN )/-RRB- with/IN novel/JJ speedup/NN strategies/NNS ./.
+We/PRP apply/VBP our/PRP$ method/NN to/IN a/DT challenging/JJ tracking/NN -/HYPH by/IN -/HYPH assignment/NN problem/NN of/IN a/DT variable/JJ number/NN of/IN divisible/JJ objects/NNS ./.
+On/IN this/DT benchmark/NN ,/, using/VBG only/RB 25/CD percent/NN of/IN a/DT full/JJ annotation/NN we/PRP achieve/VBP a/DT performance/NN comparable/JJ to/IN a/DT model/NN learned/VBN with/IN a/DT full/JJ annotation/NN ./.
+Finally/RB ,/, we/PRP offer/VBP a/DT unifying/JJ perspective/NN of/IN previous/JJ work/NN using/VBG the/DT hinge/NN ,/, ramp/NN ,/, or/CC max/NN loss/NN for/IN structured/JJ learning/NN ,/, followed/VBN by/IN an/DT empirical/JJ comparison/NN on/IN their/PRP$ practical/JJ performance/NN ./.

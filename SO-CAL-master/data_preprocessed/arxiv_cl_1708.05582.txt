@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ models/NNS for/IN detecting/VBG agreement/NN //, disagreement/NN in/IN online/JJ discussions/NNS ./.
+In/IN this/DT work/NN we/PRP show/VBP that/IN by/IN using/VBG a/DT Siamese/JJ inspired/JJ architecture/NN to/TO encode/VB the/DT discussions/NNS ,/, we/PRP no/RB longer/RBR need/VBP to/TO rely/VB on/IN hand/NN -/HYPH crafted/VBN features/NNS to/TO exploit/VB the/DT meta/NN thread/NN structure/NN ./.
+We/PRP evaluate/VBP our/PRP$ model/NN on/IN existing/VBG online/JJ discussion/NN corpora/NN -/HYPH ABCD/NN ,/, IAC/NN and/CC AWTP/NN ./.
+Experimental/JJ results/NNS on/IN ABCD/NN dataset/NN show/VBP that/IN by/IN fusing/VBG lexical/JJ and/CC word/NN embedding/NN features/NNS ,/, our/PRP$ model/NN achieves/VBZ the/DT state/NN of/IN the/DT art/NN performance/NN of/IN 0.804/CD average/JJ F1/NN score/NN ./.
+We/PRP also/RB show/VBP that/IN the/DT model/NN trained/VBN on/IN ABCD/NN dataset/NN performs/VBZ competitively/RB on/IN relatively/RB smaller/JJR annotated/VBN datasets/NNS (/-LRB- IAC/NN and/CC AWTP/NN )/-RRB- ./.

@@ -1,0 +1,7 @@
+We/PRP describe/VBP a/DT variational/JJ approximation/NN method/NN for/IN efficient/JJ inference/NN in/IN large/JJ -/HYPH scale/NN probabilistic/JJ models/NNS ./.
+Variational/JJ methods/NNS are/VBP deterministic/JJ procedures/NNS that/WDT provide/VBP approximations/NNS to/IN marginal/JJ and/CC conditional/JJ probabilities/NNS of/IN interest/NN ./.
+They/PRP provide/VBP alternatives/NNS to/IN approximate/JJ inference/NN methods/NNS based/VBN on/IN stochastic/JJ sampling/NN or/CC search/NN ./.
+We/PRP describe/VBP a/DT variational/JJ approach/NN to/IN the/DT problem/NN of/IN diagnostic/JJ inference/NN in/IN the/DT `/`` Quick/NNP Medical/NNP Reference/NNP '/POS (/-LRB- QMR/NN )/-RRB- network/NN ./.
+The/DT QMR/NNP network/NN is/VBZ a/DT large/JJ -/HYPH scale/NN probabilistic/JJ graphical/JJ model/NN built/VBN on/IN statistical/JJ and/CC expert/JJ knowledge/NN ./.
+Exact/JJ probabilistic/JJ inference/NN is/VBZ infeasible/JJ in/IN this/DT model/NN for/IN all/DT but/IN a/DT small/JJ set/NN of/IN cases/NNS ./.
+We/PRP evaluate/VBP our/PRP$ variational/JJ inference/NN algorithm/NN on/IN a/DT large/JJ set/NN of/IN diagnostic/JJ test/NN cases/NNS ,/, comparing/VBG the/DT algorithm/NN to/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN stochastic/JJ sampling/NN method/NN ./.

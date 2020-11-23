@@ -1,0 +1,10 @@
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP a/DT research/NN method/NN that/WDT generates/VBZ Bangla/NNP word/NN clusters/NNS on/IN the/DT basis/NN of/IN relating/VBG to/IN meaning/VBG in/IN language/NN and/CC contextual/JJ similarity/NN ./.
+The/DT importance/NN of/IN word/NN clustering/NN is/VBZ in/IN parts/NNS of/IN speech/NN (/-LRB- POS/NN )/-RRB- tagging/NN ,/, word/NN sense/NN disambiguation/NN ,/, text/NN classification/NN ,/, recommender/NN system/NN ,/, spell/VB checker/NN ,/, grammar/NN checker/NN ,/, knowledge/NN discover/VBP and/CC for/IN many/JJ others/NNS Natural/NNP Language/NNP Processing/NNP (/-LRB- NLP/NNP )/-RRB- applications/NNS ./.
+In/IN the/DT history/NN of/IN word/NN clustering/NN ,/, English/NNP and/CC some/DT other/JJ languages/NNS have/VBP already/RB implemented/VBN some/DT methods/NNS on/IN word/NN clustering/NN efficiently/RB ./.
+But/CC due/IN to/IN lack/NN of/IN the/DT resources/NNS ,/, word/NN clustering/NN in/IN Bangla/NNP has/VBZ not/RB been/VBN still/RB implemented/VBN efficiently/RB ./.
+Presently/RB ,/, its/PRP$ implementation/NN is/VBZ in/IN the/DT beginning/NN stage/NN ./.
+In/IN some/DT research/NN of/IN word/NN clustering/NN in/IN English/NNP based/VBN on/IN preceding/VBG and/CC next/JJ five/CD words/NNS of/IN a/DT key/JJ word/NN they/PRP found/VBD an/DT efficient/JJ result/NN ./.
+Now/RB ,/, we/PRP are/VBP trying/VBG to/TO implement/VB the/DT tri-gram/NN ,/, 4/CD -/HYPH gram/NN and/CC 5/CD -/HYPH gram/NN model/NN of/IN word/NN clustering/NN for/IN Bangla/NNP to/TO observe/VB which/WDT one/NN is/VBZ the/DT best/JJS among/IN them/PRP ./.
+We/PRP have/VBP started/VBN our/PRP$ research/NN with/IN quite/PDT a/DT large/JJ corpus/NN of/IN approximate/JJ 1/CD lakh/NN Bangla/NN words/NNS ./.
+We/PRP are/VBP using/VBG a/DT machine/NN learning/VBG technique/NN in/IN this/DT research/NN ./.
+We/PRP will/MD generate/VB word/NN clusters/NNS and/CC analyze/VB the/DT clusters/NNS by/IN testing/VBG some/DT different/JJ threshold/NN values/NNS ./.

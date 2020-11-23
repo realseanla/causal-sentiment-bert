@@ -1,0 +1,8 @@
+Text/VB normalization/NN techniques/NNS based/VBN on/IN rules/NNS ,/, lexicons/NNS or/CC supervised/JJ training/NN requiring/VBG large/JJ corpora/NNS are/VBP not/RB scalable/JJ nor/CC domain/NN interchangeable/JJ ,/, and/CC this/DT makes/VBZ them/PRP unsuitable/JJ for/IN normalizing/VBG user/NN -/HYPH generated/VBN content/NN (/-LRB- UGC/NNP )/-RRB- ./.
+Current/JJ tools/NNS available/JJ for/IN Brazilian/JJ Portuguese/JJ make/NN use/NN of/IN such/JJ techniques/NNS ./.
+In/IN this/DT work/NN we/PRP propose/VBP a/DT technique/NN based/VBN on/IN distributed/VBN representation/NN of/IN words/NNS (/-LRB- or/CC word/NN embeddings/NNS )/-RRB- ./.
+It/PRP generates/VBZ continuous/JJ numeric/JJ vectors/NNS of/IN high/JJ -/HYPH dimensionality/NN to/TO represent/VB words/NNS ./.
+The/DT vectors/NNS explicitly/RB encode/VBP many/JJ linguistic/JJ regularities/NNS and/CC patterns/NNS ,/, as/RB well/RB as/IN syntactic/JJ and/CC semantic/JJ word/NN relationships/NNS ./.
+Words/NNS that/WDT share/VBP semantic/JJ similarity/NN are/VBP represented/VBN by/IN similar/JJ vectors/NNS ./.
+Based/VBN on/IN these/DT features/NNS ,/, we/PRP present/VBP a/DT totally/RB unsupervised/JJ ,/, expandable/JJ and/CC language/NN and/CC domain/NN independent/JJ method/NN for/IN learning/VBG normalization/NN lexicons/NNS from/IN word/NN embeddings/NNS ./.
+Our/PRP$ approach/NN obtains/VBZ high/JJ correction/NN rate/NN of/IN orthographic/JJ errors/NNS and/CC internet/NN slang/NN in/IN product/NN reviews/NNS ,/, outperforming/VBG the/DT current/JJ available/JJ tools/NNS for/IN Brazilian/JJ Portuguese/JJ ./.

@@ -1,0 +1,8 @@
+Probabilistic logic programs are logic programs in which some of the facts are annotated with probabilities.
+Several classical probabilistic inference tasks (such as MAP and computing marginals) have not yet received a lot of attention for this formalism.
+The contribution of this paper is that we develop efficient inference algorithms for these tasks.
+This is based on a conversion of the probabilistic logic program and the query and evidence to a weighted CNF formula.
+This allows us to reduce the inference tasks to well-studied tasks such as weighted model counting.
+To solve such tasks, we employ state-of-the-art methods.
+We consider multiple methods for the conversion of the programs as well as for inference on the weighted CNF.
+The resulting approach is evaluated experimentally and shown to improve upon the state-of-the-art in probabilistic logic programming.

@@ -1,0 +1,9 @@
+Knowledge base is the way to store structured and unstructured data throughout the web.
+Since the size of the web is increasing rapidly, there are huge needs to structure the knowledge in a fully automated way.
+However fully-automated knowledge-base evolution on the Semantic Web is a major challenges, although there are many ontology evolution techniques available.
+Therefore learning ontology automatically can contribute to the semantic web society significantly.
+In this paper, we propose full-automated ontology learning algorithm to generate refined knowledge base from incomplete knowledge base and rdf-triples.
+Our algorithm is data-driven approach which is based on the property of each instance.
+Ontology class is being elaborated by generalizing frequent property of its instances.
+By using that developed class information, each instance can find its most relatively matching class.
+By repeating these two steps, we achieve fully-automated ontology evolution from incomplete basic knowledge base.

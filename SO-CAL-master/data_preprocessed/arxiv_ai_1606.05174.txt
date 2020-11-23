@@ -1,0 +1,8 @@
+Deep/JJ Reinforcement/NN Learning/NN (/-LRB- DRL/NN )/-RRB- is/VBZ a/DT trending/VBG field/NN of/IN research/NN ,/, showing/VBG great/JJ promise/NN in/IN challenging/JJ problems/NNS such/JJ as/IN playing/VBG Atari/NNP ,/, solving/VBG Go/NNP and/CC controlling/VBG robots/NNS ./.
+While/IN DRL/NNP agents/NNS perform/VBP well/RB in/IN practice/NN we/PRP are/VBP still/RB lacking/VBG the/DT tools/NNS to/TO analayze/VB their/PRP$ performance/NN ./.
+In/IN this/DT work/NN we/PRP present/VBP the/DT Semi-Aggregated/NNP MDP/NNP (/-LRB- SAMDP/NNP )/-RRB- model/NN ./.
+A/DT model/NN best/JJS suited/JJ to/TO describe/VB policies/NNS exhibiting/VBG both/CC spatial/JJ and/CC temporal/JJ hierarchies/NNS ./.
+We/PRP describe/VBP its/PRP$ advantages/NNS for/IN analyzing/VBG trained/VBN policies/NNS over/IN other/JJ modeling/NN approaches/NNS ,/, and/CC show/VBP that/IN under/IN the/DT right/JJ state/NN representation/NN ,/, like/IN that/DT of/IN DQN/NNP agents/NNS ,/, SAMDP/NNP can/MD help/VB to/TO identify/VB skills/NNS ./.
+We/PRP detail/VBP the/DT automatic/JJ process/NN of/IN creating/VBG it/PRP from/IN recorded/VBN trajectories/NNS ,/, up/IN to/IN presenting/VBG it/PRP on/IN t/NN -/HYPH SNE/NN maps/NNS ./.
+We/PRP explain/VBP how/WRB to/TO evaluate/VB its/PRP$ fitness/NN and/CC show/VBP surprising/JJ results/NNS indicating/VBG high/JJ compatibility/NN with/IN the/DT policy/NN at/IN hand/NN ./.
+We/PRP conclude/VBP by/IN showing/VBG how/WRB using/VBG the/DT SAMDP/NNP model/NN ,/, an/DT extra/JJ performance/NN gain/NN can/MD be/VB squeezed/VBN from/IN the/DT agent/NN ./.

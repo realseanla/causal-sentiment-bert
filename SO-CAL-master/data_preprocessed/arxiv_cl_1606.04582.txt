@@ -1,0 +1,4 @@
+We/PRP present/VBP Query/NNP -/HYPH Regression/NNP Network/NNP (/-LRB- QRN/NNP )/-RRB- ,/, a/DT variant/NN of/IN Recurrent/JJ Neural/JJ Network/NN (/-LRB- RNN/NN )/-RRB- that/WDT is/VBZ suitable/JJ for/IN end/NN -/HYPH to/IN -/HYPH end/NN machine/NN comprehension/NN ./.
+While/IN previous/JJ work/NN largely/RB relied/VBD on/IN external/JJ memory/NN and/CC attention/NN mechanism/NN ,/, QRN/NNP is/VBZ a/DT single/JJ recurrent/JJ unit/NN with/IN internal/JJ memory/NN ./.
+Unlike/IN most/JJS RNN/NN -/HYPH based/VBN models/NNS ,/, QRN/NNP is/VBZ able/JJ to/TO effectively/RB handle/VB long/JJ -/HYPH term/NN dependencies/NNS and/CC is/VBZ highly/RB parallelizable/JJ ./.
+In/IN our/PRP$ experiments/NNS we/PRP show/VBP that/IN QRN/NNP outperforms/VBZ the/DT state/NN of/IN the/DT art/NN in/IN end/NN -/HYPH to/IN -/HYPH end/NN bAbI/NN QA/NN tasks/NNS ./.

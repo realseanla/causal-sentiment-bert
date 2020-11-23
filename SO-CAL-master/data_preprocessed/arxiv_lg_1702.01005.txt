@@ -1,0 +1,12 @@
+Principal/NN Component/NN Analysis/NN (/-LRB- PCA/NN )/-RRB- is/VBZ a/DT fundamental/JJ method/NN for/IN estimating/VBG a/DT linear/JJ subspace/NN approximation/NN to/IN high/JJ -/HYPH dimensional/JJ data/NNS ./.
+Many/JJ algorithms/NNS exist/VBP in/IN literature/NN to/TO achieve/VB a/DT statistically/RB robust/JJ version/NN of/IN PCA/NNP called/VBD RPCA/NNP ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT geometric/JJ framework/NN for/IN computing/VBG the/DT principal/JJ linear/JJ subspaces/NNS in/IN both/DT situations/NNS that/WDT amounts/VBZ to/IN computing/VBG the/DT intrinsic/JJ average/NN on/IN the/DT space/NN of/IN all/DT subspaces/NNS (/-LRB- the/DT Grassmann/NNP manifold/NN )/-RRB- ./.
+Points/NNS on/IN this/DT manifold/NN are/VBP defined/VBN as/IN the/DT subspaces/NNS spanned/VBN by/IN $/$ K$/CD -/HYPH tuples/NNS of/IN observations/NNS ./.
+We/PRP show/VBP that/IN the/DT intrinsic/JJ Grassmann/NNP average/NN of/IN these/DT subspaces/NNS coincide/VBP with/IN the/DT principal/JJ components/NNS of/IN the/DT observations/NNS when/WRB they/PRP are/VBP drawn/VBN from/IN a/DT Gaussian/JJ distribution/NN ./.
+Similar/JJ results/NNS are/VBP also/RB shown/VBN to/TO hold/VB for/IN the/DT RPCA/NNP ./.
+Further/RB ,/, we/PRP propose/VBP an/DT efficient/JJ online/JJ algorithm/NN to/TO do/VB subspace/NN averaging/NN which/WDT is/VBZ of/IN linear/JJ complexity/NN in/IN terms/NNS of/IN number/NN of/IN samples/NNS and/CC has/VBZ a/DT linear/JJ convergence/NN rate/NN ./.
+When/WRB the/DT data/NNS has/VBZ outliers/NNS ,/, our/PRP$ proposed/VBN online/RB robust/JJ subspace/NN averaging/VBG algorithm/NN shows/VBZ significant/JJ performance/NN (/-LRB- accuracy/NN and/CC computation/NN time/NN )/-RRB- gain/NN over/IN a/DT recently/RB published/VBN RPCA/NN methods/NNS with/IN publicly/RB accessible/JJ code/NN ./.
+We/PRP have/VBP demonstrated/VBN competitive/JJ performance/NN of/IN our/PRP$ proposed/VBN online/JJ subspace/NN algorithm/NN method/NN on/IN one/CD synthetic/JJ and/CC two/CD real/JJ data/NNS sets/NNS ./.
+Experimental/JJ results/NNS depicting/VBG stability/NN of/IN our/PRP$ proposed/JJ method/NN are/VBP also/RB presented/VBN ./.
+Furthermore/RB ,/, on/IN two/CD real/JJ outlier/NN corrupted/VBN datasets/NNS ,/, we/PRP present/VBP comparison/NN experiments/NNS showing/VBG lower/JJR reconstruction/NN error/NN using/VBG our/PRP$ online/JJ RPCA/NN algorithm/NN ./.
+In/IN terms/NNS of/IN reconstruction/NN error/NN and/CC time/NN required/VBN ,/, both/CC our/PRP$ algorithms/NNS outperform/VBP the/DT competition/NN ./.

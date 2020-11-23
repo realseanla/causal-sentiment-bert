@@ -1,0 +1,8 @@
+The/DT lack/NN of/IN parallel/JJ data/NNS for/IN many/JJ language/NN pairs/NNS is/VBZ an/DT important/JJ challenge/NN to/IN statistical/JJ machine/NN translation/NN (/-LRB- SMT/NN )/-RRB- ./.
+One/CD common/JJ solution/NN is/VBZ to/IN pivot/NN through/IN a/DT third/JJ language/NN for/IN which/WDT there/EX exist/VBP parallel/JJ corpora/NNS with/IN the/DT source/NN and/CC target/NN languages/NNS ./.
+Although/IN pivoting/VBG is/VBZ a/DT robust/JJ technique/NN ,/, it/PRP introduces/VBZ some/DT low/JJ quality/NN translations/NNS especially/RB when/WRB a/DT poor/JJ morphology/NN language/NN is/VBZ used/VBN as/IN the/DT pivot/NN between/IN rich/JJ morphology/NN languages/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP examine/VBP the/DT use/NN of/IN synchronous/JJ morphology/NN constraint/NN features/VBZ to/TO improve/VB the/DT quality/NN of/IN phrase/NN pivot/NN SMT/NN ./.
+We/PRP compare/VBP hand/NN -/HYPH crafted/VBN constraints/NNS to/IN those/DT learned/VBN from/IN limited/JJ parallel/JJ data/NNS between/IN source/NN and/CC target/NN languages/NNS ./.
+The/DT learned/VBN morphology/NN constraints/NNS are/VBP based/VBN on/IN projected/VBN align/VB -/HYPH ments/NNS between/IN the/DT source/NN and/CC target/NN phrases/NNS in/IN the/DT pivot/NN phrase/NN table/NN ./.
+We/PRP show/VBP positive/JJ results/NNS on/IN Hebrew/JJ -/HYPH Arabic/JJ SMT/NN (/-LRB- pivoting/VBG on/IN English/NNP )/-RRB- ./.
+We/PRP get/VBP 1.5/CD BLEU/NN points/NNS over/IN a/DT phrase/NN pivot/NN baseline/NN and/CC 0.8/CD BLEU/NN points/NNS over/IN a/DT system/NN combination/NN baseline/NN with/IN a/DT direct/JJ model/NN built/VBN from/IN parallel/JJ data/NNS ./.

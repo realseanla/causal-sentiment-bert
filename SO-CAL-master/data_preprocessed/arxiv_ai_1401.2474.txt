@@ -1,0 +1,8 @@
+Instance/NNP -/HYPH specific/JJ algorithm/NN configuration/NN and/CC algorithm/NN portfolios/NNS have/VBP been/VBN shown/VBN to/TO offer/VB significant/JJ improvements/NNS over/IN single/JJ algorithm/NN approaches/VBZ in/IN a/DT variety/NN of/IN application/NN domains/NNS ./.
+In/IN the/DT SAT/NNP and/CC CSP/NNP domains/NNS algorithm/NN portfolios/NNS have/VBP consistently/RB dominated/VBN the/DT main/JJ competitions/NNS in/IN these/DT fields/NNS for/IN the/DT past/JJ five/CD years/NNS ./.
+For/IN a/DT portfolio/NN approach/NN to/TO be/VB effective/JJ there/EX are/VBP two/CD crucial/JJ conditions/NNS that/WDT must/MD be/VB met/VBN ./.
+First/RB ,/, there/EX needs/VBZ to/TO be/VB a/DT collection/NN of/IN complementary/JJ solvers/NNS with/IN which/WDT to/TO make/VB a/DT portfolio/NN ./.
+Second/RB ,/, there/EX must/MD be/VB a/DT collection/NN of/IN problem/NN features/VBZ that/DT can/MD accurately/RB identify/VB structural/JJ differences/NNS between/IN instances/NNS ./.
+This/DT paper/NN focuses/VBZ on/IN the/DT latter/JJ issue/NN :/: feature/NN representation/NN ,/, because/IN ,/, unlike/IN SAT/NNP ,/, not/RB every/DT problem/NN has/VBZ well/RB -/HYPH studied/VBN features/NNS ./.
+We/PRP employ/VBP the/DT well/RB -/HYPH known/VBN SATzilla/NNP feature/NN set/NN ,/, but/CC compute/VB alternative/JJ sets/NNS on/IN different/JJ SAT/VBD encodings/NNS of/IN CSPs/NNS ./.
+We/PRP show/VBP that/IN regardless/RB of/IN what/WP encoding/NN is/VBZ used/VBN to/TO convert/VB the/DT instances/NNS ,/, adequate/JJ structural/JJ information/NN is/VBZ maintained/VBN to/TO differentiate/VB between/IN problem/NN instances/NNS ,/, and/CC that/IN this/DT can/MD be/VB exploited/VBN to/TO make/VB an/DT effective/JJ portfolio/NN -/HYPH based/VBN CSP/NNP solver/NN ./.

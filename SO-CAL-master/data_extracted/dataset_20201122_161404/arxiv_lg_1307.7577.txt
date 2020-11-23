@@ -1,0 +1,8 @@
+The model selected by sparse learning techniques usually has a few non-zero entries.
+Safe screening---which eliminates the features that are guaranteed to be absent for a target regularization parameter based on an existing solution---is a technique for improving the computational efficiency while maintaining the same solution.
+In this note, we propose an approach called Sasvi (Safe screening with variational inequalities) and take LASSO for example in the analysis.
+Sasvi makes use of the variational inequalities which provide the sufficient and necessary optimality conditions for the dual problem.
+The existing approaches can be casted as relaxed versions of the proposed Sasvi, and thus Sasvi provides a much stronger screening rule.
+The monotone properties of Sasvi are studied based on which a sure removal regularization parameter can be identified for each feature.
+In addition, the proposed Sasvi is readily extended for solving the generalized sparse linear models.
+Preliminary experimental results are reported.

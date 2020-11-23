@@ -1,0 +1,8 @@
+Currently/RB ,/, state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN motor/NN intention/NN decoding/NN algorithms/NNS in/IN brain/NN -/HYPH machine/NN interfaces/VBZ are/VBP mostly/RB implemented/VBN on/IN a/DT PC/NN and/CC consume/VB significant/JJ amount/NN of/IN power/NN ./.
+A/DT machine/NN learning/VBG co-processor/NN in/IN 0.35/CD um/UH CMOS/NN for/IN motor/NN intention/NN decoding/NN in/IN brain/NN -/HYPH machine/NN interfaces/VBZ is/VBZ presented/VBN in/IN this/DT paper/NN ./.
+Using/VBG Extreme/NNP Learning/NNP Machine/NNP algorithm/NN and/CC low/JJ -/HYPH power/NN analog/NN processing/NN ,/, it/PRP achieves/VBZ an/DT energy/NN efficiency/NN of/IN 290/CD GMACs/NNS //SYM W/NN at/IN a/DT classification/NN rate/NN of/IN 50/CD Hz/NN ./.
+The/DT learning/NN in/IN second/JJ stage/NN and/CC corresponding/VBG digitally/RB stored/VBN coefficients/NNS are/VBP used/VBN to/TO increase/VB robustness/NN of/IN the/DT core/NN analog/NN processor/NN ./.
+The/DT chip/NN is/VBZ verified/VBN with/IN neural/JJ data/NNS recorded/VBN in/IN monkey/NN finger/NN movements/NNS experiment/NN ,/, achieving/VBG a/DT decoding/NN accuracy/NN of/IN 99.3/CD percent/NN for/IN movement/NN type/NN ./.
+The/DT same/JJ co-processor/NN is/VBZ also/RB used/VBN to/TO decode/VB time/NN of/IN movement/NN from/IN asynchronous/JJ neural/JJ spikes/NNS ./.
+With/IN time/NN -/HYPH delayed/VBN feature/NN dimension/NN enhancement/NN ,/, the/DT classification/NN accuracy/NN can/MD be/VB increased/VBN by/IN 5/CD percent/NN with/IN limited/JJ number/NN of/IN input/NN channels/NNS ./.
+Further/RB ,/, a/DT sparsity/NN promoting/VBG training/NN scheme/NN enables/VBZ reduction/NN of/IN number/NN of/IN programmable/JJ weights/NNS by/IN ~/SYM 2X/NN ./.

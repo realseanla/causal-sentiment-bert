@@ -1,0 +1,6 @@
+We/PRP introduce/VBP a/DT deep/JJ scattering/VBG network/NN ,/, which/WDT computes/VBZ invariants/NNS with/IN iterated/VBN contractions/NNS adapted/VBD to/IN training/NN data/NNS ./.
+It/PRP defines/VBZ a/DT deep/JJ convolution/NN network/NN model/NN ,/, whose/WP$ contraction/NN properties/NNS can/MD be/VB analyzed/VBN mathematically/RB ./.
+A/DT cascade/NN of/IN wavelet/NN transform/VBP convolutions/NNS are/VBP computed/VBN with/IN a/DT multirate/JJ filter/NN bank/NN ,/, and/CC adapted/VBN with/IN permutations/NNS ./.
+Unsupervised/JJ learning/NN of/IN permutations/NNS optimize/VBP the/DT contraction/NN directions/NNS ,/, by/IN maximizing/VBG the/DT average/JJ discriminability/NN of/IN training/NN data/NNS ./.
+For/IN Haar/NNP wavelets/NNS ,/, it/PRP is/VBZ solved/VBN with/IN a/DT polynomial/JJ complexity/NN pairing/VBG algorithm/NN ./.
+Translation/NN and/CC rotation/NN invariance/NN learning/NN is/VBZ shown/VBN with/IN classification/NN experiments/NNS on/IN hand/NN -/HYPH written/VBN digits/NNS ./.

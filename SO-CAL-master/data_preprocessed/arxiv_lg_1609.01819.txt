@@ -1,0 +1,5 @@
+Query/NN -/HYPH based/VBN video/NN summarization/NN is/VBZ the/DT task/NN of/IN creating/VBG a/DT brief/JJ visual/JJ trailer/NN ,/, which/WDT captures/VBZ the/DT parts/NNS of/IN the/DT video/NN (/-LRB- or/CC a/DT collection/NN of/IN videos/NNS )/-RRB- that/WDT are/VBP most/RBS relevant/JJ to/IN the/DT user/NN -/HYPH issued/VBN query/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT unsupervised/JJ label/NN propagation/NN approach/NN for/IN this/DT task/NN ./.
+Our/PRP$ approach/NN effectively/RB captures/VBZ the/DT multimodal/JJ semantics/NNS of/IN queries/NNS and/CC videos/NNS using/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN deep/JJ neural/JJ networks/NNS and/CC creates/VBZ a/DT summary/NN that/WDT is/VBZ both/DT semantically/RB coherent/JJ and/CC visually/RB attractive/JJ ./.
+We/PRP describe/VBP the/DT theoretical/JJ framework/NN of/IN our/PRP$ graph/NN -/HYPH based/VBN approach/NN and/CC empirically/RB evaluate/VB its/PRP$ effectiveness/NN in/IN creating/VBG relevant/JJ and/CC attractive/JJ trailers/NNS ./.
+Finally/RB ,/, we/PRP showcase/NN example/NN video/NN trailers/NNS generated/VBN by/IN our/PRP$ system/NN ./.

@@ -1,0 +1,7 @@
+The classic supervised classification algorithms are efficient, but time-consuming, complicated and not interpretable, which makes it difficult to analyze their results that limits the possibility to improve them based on real observations.
+In this paper, we propose a new and a simple classifier to predict a sentiment label of a short text.
+This model keeps the capacity of human interpret-ability and can be extended to integrate NLP techniques in a more interpretable way.
+Our model is based on a correlation metric which measures the degree of association between a sentiment label and a word.
+Ten correlation metrics are proposed and evaluated intrinsically.
+And then a classifier based on each metric is proposed, evaluated and compared to the classic classification algorithms which have proved their performance in many studies.
+Our model outperforms these algorithms with several correlation metrics.

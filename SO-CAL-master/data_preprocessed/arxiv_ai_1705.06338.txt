@@ -1,0 +1,11 @@
+The/DT main/JJ idea/NN of/IN this/DT paper/NN is/VBZ to/TO represent/VB shopping/NN items/NNS through/IN vectors/NNS because/IN these/DT vectors/NNS act/VBP as/IN the/DT base/NN for/IN building/VBG em/PRP -/HYPH beddings/NNS for/IN customers/NNS and/CC shopping/NN carts/NNS ./.
+Also/RB ,/, these/DT vectors/NNS are/VBP input/NN to/IN the/DT mathematical/JJ models/NNS that/WDT act/VBP as/IN either/CC a/DT recommendation/NN engine/NN or/CC help/NN in/IN targeting/VBG potential/JJ customers/NNS ./.
+We/PRP have/VBP used/VBN exponential/JJ family/NN embeddings/NNS as/IN the/DT tool/NN to/TO construct/VB two/CD basic/JJ vectors/NNS -/HYPH product/NN embeddings/NNS and/CC context/NN vectors/NNS ./.
+Using/VBG the/DT basic/JJ vectors/NNS ,/, we/PRP build/VBP combined/VBN embeddings/NNS ,/, trip/NN embeddings/NNS and/CC customer/NN embeddings/NNS ./.
+Combined/VBN embeddings/NNS mix/VB linguistic/JJ properties/NNS of/IN product/NN names/NNS with/IN their/PRP$ shopping/NN patterns/NNS ./.
+The/DT customer/NN embeddings/NNS establish/VBP an/DT understand/VB -/HYPH ing/VBG of/IN the/DT buying/NN pattern/NN of/IN customers/NNS in/IN a/DT group/NN and/CC help/NN in/IN building/VBG customer/NN profile/NN ./.
+For/IN example/NN a/DT customer/NN profile/NN can/MD represent/VB customers/NNS frequently/RB buying/VBG pet/NN -/HYPH food/NN ./.
+Identifying/VBG such/JJ profiles/NNS can/MD help/VB us/PRP bring/VB out/RP offers/NNS and/CC discounts/NNS ./.
+Similarly/RB ,/, trip/NN embeddings/NNS are/VBP used/VBN to/TO build/VB trip/NN profiles/NNS ./.
+People/NNS happen/VBP to/TO buy/VB similar/JJ set/NN of/IN products/NNS in/IN a/DT trip/NN and/CC hence/RB their/PRP$ trip/NN embeddings/NNS can/MD be/VB used/VBN to/TO predict/VB the/DT next/JJ product/NN they/PRP would/MD like/VB to/TO buy/VB ./.
+This/DT is/VBZ a/DT novel/JJ technique/NN and/CC the/DT first/JJ of/IN its/PRP$ kind/NN to/TO make/VB recommendation/NN using/VBG product/NN ,/, trip/NN and/CC customer/NN embeddings/NNS ./.

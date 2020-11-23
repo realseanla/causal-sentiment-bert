@@ -1,0 +1,8 @@
+A/DT patient/NN 's/POS estimated/VBN glomerular/JJ filtration/NN rate/NN (/-LRB- eGFR/NN )/-RRB- can/MD provide/VB important/JJ information/NN about/IN disease/NN progression/NN and/CC kidney/NN function/NN ./.
+Traditionally/RB ,/, an/DT eGFR/NN time/NN series/NN is/VBZ interpreted/VBN by/IN a/DT human/JJ expert/NN labelling/VBG it/PRP as/IN stable/JJ or/CC unstable/JJ ./.
+While/IN this/DT approach/NN works/VBZ for/IN individual/JJ patients/NNS ,/, the/DT time/NN consuming/VBG nature/NN of/IN it/PRP precludes/VBZ the/DT quick/JJ evaluation/NN of/IN risk/NN in/IN large/JJ numbers/NNS of/IN patients/NNS ./.
+However/RB ,/, automating/VBG this/DT process/NN poses/VBZ significant/JJ challenges/NNS as/IN eGFR/NN measurements/NNS are/VBP usually/RB recorded/VBN at/IN irregular/JJ intervals/NNS and/CC the/DT series/NN of/IN measurements/NNS differs/VBZ in/IN length/NN between/IN patients/NNS ./.
+Here/RB we/PRP present/VBP a/DT two/CD -/HYPH tier/NN system/NN to/TO automatically/RB classify/VB an/DT eGFR/NN trend/NN ./.
+First/RB ,/, we/PRP model/VBP the/DT time/NN series/NN using/VBG Gaussian/JJ process/NN regression/NN (/-LRB- GPR/NN )/-RRB- to/TO fill/VB in/RP `/`` gaps/NNS '/'' by/IN resampling/VBG a/DT fixed/VBN size/NN vector/NN of/IN fifty/CD time/NN -/HYPH dependent/JJ observations/NNS ./.
+Second/RB ,/, we/PRP classify/VBP the/DT resampled/JJ eGFR/NN time/NN series/NN using/VBG a/DT K/NNP -/HYPH NN/NNP //HYPH SVM/NNP classifier/NN ,/, and/CC evaluate/VB its/PRP$ performance/NN via/IN 5-fold/RB cross/VB validation/NN ./.
+Using/VBG this/DT approach/NN we/PRP achieved/VBD an/DT F/NN -/HYPH score/NN of/IN 0.90/CD ,/, compared/VBN to/IN 0.96/CD for/IN 5/CD human/JJ experts/NNS when/WRB scored/VBN amongst/IN themselves/PRP ./.

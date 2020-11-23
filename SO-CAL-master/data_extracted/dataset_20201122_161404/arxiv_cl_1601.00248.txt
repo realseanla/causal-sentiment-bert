@@ -1,0 +1,8 @@
+Perplexity(per word) is the most widely used metric for evaluating language models.
+This is mostly due to a its ease of computation, lack of dependence on external tools like speech recognition pipeline and a good theoretical justification for why it should work.
+Despite this, there has been no dearth of criticism for this metric.
+Most of this criticism center around lack of correlation with extrinsic metrics like word error rate(WER), dependence upon shared vocabulary for model comparison and unsuitability for un-normalized language model evaluation.
+In this paper we address the last problem of inability to evaluate un-normalized models by introducing a new discriminative evaluation metric that predicts model's performance based on its ability to discriminate between test sentences and their deformed version.
+Due to its discriminative formulation, this approach can work with un-normalized probabilities while retaining perplexity's ease of computation.
+We show a strong correlation between our new metric and perplexity across a range of models on WSJ datasets.
+We also hypothesize a stronger correlation between WER and our new metric vis-a-vis perplexity due to similar discriminative objective.

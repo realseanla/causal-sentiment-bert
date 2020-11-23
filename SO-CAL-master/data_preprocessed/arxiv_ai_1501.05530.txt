@@ -1,0 +1,6 @@
+Speech/NNP Recognition/NNP searches/VBZ to/TO predict/VB the/DT spoken/VBN words/NNS automatically/RB ./.
+These/DT systems/NNS are/VBP known/VBN to/TO be/VB very/RB expensive/JJ because/IN of/IN using/VBG several/JJ pre-recorded/JJ hours/NNS of/IN speech/NN ./.
+Hence/RB ,/, building/VBG a/DT model/NN that/WDT minimizes/VBZ the/DT cost/NN of/IN the/DT recognizer/NN will/MD be/VB very/RB interesting/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT new/JJ approach/NN for/IN recognizing/VBG speech/NN based/VBN on/IN belief/NN HMMs/NNS instead/RB of/IN proba/NN -/HYPH bilistic/JJ HMMs/NNS ./.
+Experiments/NNS shows/VBZ that/IN our/PRP$ belief/NN recognizer/NN is/VBZ insensitive/JJ to/IN the/DT lack/NN of/IN the/DT data/NNS and/CC it/PRP can/MD be/VB trained/VBN using/VBG only/RB one/CD exemplary/JJ of/IN each/DT acoustic/JJ unit/NN and/CC it/PRP gives/VBZ a/DT good/JJ recognition/NN rates/NNS ./.
+Consequently/RB ,/, using/VBG the/DT belief/NN HMM/NNP recognizer/NN can/MD greatly/RB minimize/VB the/DT cost/NN of/IN these/DT systems/NNS ./.

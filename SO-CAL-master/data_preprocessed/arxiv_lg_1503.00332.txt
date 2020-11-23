@@ -1,0 +1,8 @@
+Markov/NNP jump/NN processes/NNS (/-LRB- MJPs/NNS )/-RRB- are/VBP used/VBN to/TO model/VB a/DT wide/JJ range/NN of/IN phenomena/NN from/IN disease/NN progression/NN to/IN RNA/NN path/NN folding/NN ./.
+However/RB ,/, maximum/JJ likelihood/NN estimation/NN of/IN parametric/JJ models/NNS leads/VBZ to/IN degenerate/JJ trajectories/NNS and/CC inferential/JJ performance/NN is/VBZ poor/JJ in/IN nonparametric/JJ models/NNS ./.
+We/PRP take/VBP a/DT small/JJ -/HYPH variance/NN asymptotics/NNS (/-LRB- SVA/NN )/-RRB- approach/NN to/TO overcome/VB these/DT limitations/NNS ./.
+We/PRP derive/VBP the/DT small/JJ -/HYPH variance/NN asymptotics/NNS for/IN parametric/JJ and/CC nonparametric/JJ MJPs/NNS for/IN both/DT directly/RB observed/VBN and/CC hidden/VBN state/NN models/NNS ./.
+In/IN the/DT parametric/JJ case/NN we/PRP obtain/VBP a/DT novel/JJ objective/JJ function/NN which/WDT leads/VBZ to/IN non-degenerate/JJ trajectories/NNS ./.
+To/TO derive/VB the/DT nonparametric/JJ version/NN we/PRP introduce/VBP the/DT gamma/NN -/HYPH gamma/NN process/NN ,/, a/DT novel/JJ extension/NN to/IN the/DT gamma/NN -/HYPH exponential/JJ process/NN ./.
+We/PRP propose/VBP algorithms/NNS for/IN each/DT of/IN these/DT formulations/NNS ,/, which/WDT we/PRP call/VBP \/SYM emph/NN {/-LRB- JUMP/NN -/HYPH means/NNS }/-RRB- ./.
+Our/PRP$ experiments/NNS demonstrate/VBP that/IN JUMP/NN -/HYPH means/NN is/VBZ competitive/JJ with/IN or/CC outperforms/VBZ widely/RB used/VBN MJP/NNP inference/NN approaches/VBZ in/IN terms/NNS of/IN both/DT speed/NN and/CC reconstruction/NN accuracy/NN ./.

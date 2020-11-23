@@ -1,0 +1,7 @@
+Determinantal/JJ Point/NN Processes/NNS (/-LRB- DPPs/NNS )/-RRB- are/VBP probabilistic/JJ models/NNS over/IN all/DT subsets/NNS a/DT ground/NN set/NN of/IN $/$ N$/CD items/NNS ./.
+They/PRP have/VBP recently/RB gained/VBN prominence/NN in/IN several/JJ applications/NNS that/WDT rely/VBP on/IN "/`` diverse/JJ "/'' subsets/NNS ./.
+However/RB ,/, their/PRP$ applicability/NN to/IN large/JJ problems/NNS is/VBZ still/RB limited/VBN due/IN to/IN the/DT $/$ \/CD mathcal/NN O/NN (/-LRB- N/NN ^/SYM 3/CD )/-RRB- $/$ complexity/NN of/IN core/NN tasks/NNS such/JJ as/IN sampling/NN and/CC learning/NN ./.
+We/PRP enable/VBP efficient/JJ sampling/NN and/CC learning/NN for/IN DPPs/NNS by/IN introducing/VBG KronDPP/NN ,/, a/DT DPP/NNP model/NN whose/WP$ kernel/NN matrix/NN decomposes/VBZ as/IN a/DT tensor/NN product/NN of/IN multiple/JJ smaller/JJR kernel/NN matrices/NNS ./.
+This/DT decomposition/NN immediately/RB enables/VBZ fast/JJ exact/JJ sampling/NN ./.
+But/CC contrary/JJ to/IN what/WP one/CD may/MD expect/VB ,/, leveraging/VBG the/DT Kronecker/NNP product/NN structure/NN for/IN speeding/VBG up/RP DPP/NNP learning/VBG turns/VBZ out/RP to/TO be/VB more/RBR difficult/JJ ./.
+We/PRP overcome/VBP this/DT challenge/NN ,/, and/CC derive/VBP batch/NN and/CC stochastic/JJ optimization/NN algorithms/NNS for/IN efficiently/RB learning/VBG the/DT parameters/NNS of/IN a/DT KronDPP/NN ./.

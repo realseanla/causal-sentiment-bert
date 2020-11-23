@@ -1,0 +1,11 @@
+Grounding/NN is/VBZ the/DT task/NN of/IN reducing/VBG a/DT first/JJ -/HYPH order/NN theory/NN and/CC finite/JJ domain/NN to/IN an/DT equivalent/JJ propositional/JJ theory/NN ./.
+It/PRP is/VBZ used/VBN as/IN preprocessing/JJ phase/NN in/IN many/JJ logic/NN -/HYPH based/VBN reasoning/NN systems/NNS ./.
+Such/JJ systems/NNS provide/VBP a/DT rich/JJ first/JJ -/HYPH order/NN input/NN language/NN to/IN a/DT user/NN and/CC can/MD rely/VB on/IN efficient/JJ propositional/JJ solvers/NNS to/TO perform/VB the/DT actual/JJ reasoning/NN ./.
+Besides/IN a/DT first/JJ -/HYPH order/NN theory/NN and/CC finite/JJ domain/NN ,/, the/DT input/NN for/IN grounders/NNS contains/VBZ in/IN many/JJ applications/NNS also/RB additional/JJ data/NNS ./.
+By/IN exploiting/VBG this/DT data/NNS ,/, the/DT size/NN of/IN the/DT grounders/NNS output/NN can/MD often/RB be/VB reduced/VBN significantly/RB ./.
+A/DT common/JJ practice/NN to/TO improve/VB the/DT efficiency/NN of/IN a/DT grounder/NN in/IN this/DT context/NN is/VBZ by/IN manually/RB adding/VBG semantically/RB redundant/JJ information/NN to/IN the/DT input/NN theory/NN ,/, indicating/VBG where/WRB and/CC when/WRB the/DT grounder/NN should/MD exploit/VB the/DT data/NNS ./.
+In/IN this/DT paper/NN we/PRP present/VBP a/DT method/NN to/TO compute/VB and/CC add/VB such/JJ redundant/JJ information/NN automatically/RB ./.
+Our/PRP$ method/NN therefore/RB simplifies/VBZ the/DT task/NN of/IN writing/VBG input/NN theories/NNS that/WDT can/MD be/VB grounded/VBN efficiently/RB by/IN current/JJ systems/NNS ./.
+We/PRP first/RB present/VBP our/PRP$ method/NN for/IN classical/JJ first/JJ -/HYPH order/NN logic/NN (/-LRB- FO/NN )/-RRB- theories/NNS ./.
+Then/RB we/PRP extend/VBP it/PRP to/IN FO/NN (/-LRB- ID/NN )/-RRB- ,/, the/DT extension/NN of/IN FO/NN with/IN inductive/JJ definitions/NNS ,/, which/WDT allows/VBZ for/IN more/JJR concise/JJ and/CC comprehensive/JJ input/NN theories/NNS ./.
+We/PRP discuss/VBP implementation/NN issues/NNS and/CC experimentally/RB validate/VB the/DT practical/JJ applicability/NN of/IN our/PRP$ method/NN ./.

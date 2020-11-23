@@ -1,0 +1,7 @@
+The/DT past/JJ few/JJ years/NNS have/VBP seen/VBN a/DT surge/NN of/IN interest/NN in/IN the/DT field/NN of/IN probabilistic/JJ logic/NN learning/NN and/CC statistical/JJ relational/JJ learning/NN ./.
+In/IN this/DT endeavor/NN ,/, many/JJ probabilistic/JJ logics/NNS have/VBP been/VBN developed/VBN ./.
+ProbLog/NNP is/VBZ a/DT recent/JJ probabilistic/JJ extension/NN of/IN Prolog/NNP motivated/VBN by/IN the/DT mining/NN of/IN large/JJ biological/JJ networks/NNS ./.
+In/IN ProbLog/NNP ,/, facts/NNS can/MD be/VB labeled/VBN with/IN probabilities/NNS ./.
+These/DT facts/NNS are/VBP treated/VBN as/IN mutually/RB independent/JJ random/JJ variables/NNS that/WDT indicate/VBP whether/IN these/DT facts/NNS belong/VBP to/IN a/DT randomly/RB sampled/VBN program/NN ./.
+Different/JJ kinds/NNS of/IN queries/NNS can/MD be/VB posed/VBN to/IN ProbLog/NNP programs/NNS ./.
+We/PRP introduce/VBP algorithms/NNS that/WDT allow/VBP the/DT efficient/JJ execution/NN of/IN these/DT queries/NNS ,/, discuss/VBP their/PRP$ implementation/NN on/IN top/NN of/IN the/DT YAP/NN -/HYPH Prolog/NN system/NN ,/, and/CC evaluate/VB their/PRP$ performance/NN in/IN the/DT context/NN of/IN large/JJ networks/NNS of/IN biological/JJ entities/NNS ./.

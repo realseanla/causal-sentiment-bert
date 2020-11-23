@@ -1,0 +1,8 @@
+Data/NNS clustering/NN is/VBZ a/DT technique/NN for/IN clustering/NN set/NN of/IN objects/NNS into/IN known/VBN number/NN of/IN groups/NNS ./.
+Several/JJ approaches/NNS are/VBP widely/RB applied/VBN to/IN data/NNS clustering/NN so/IN that/IN objects/NNS within/IN the/DT clusters/NNS are/VBP similar/JJ and/CC objects/NNS in/IN different/JJ clusters/NNS are/VBP far/RB away/RB from/IN each/DT other/JJ ./.
+K/NNP -/HYPH Means/NNP ,/, is/VBZ one/CD of/IN the/DT familiar/JJ center/NN based/VBN clustering/NN algorithms/NNS since/IN implementation/NN is/VBZ very/RB easy/JJ and/CC fast/JJ convergence/NN ./.
+However/RB ,/, K/NNP -/HYPH Means/NNP algorithm/NN suffers/VBZ from/IN initialization/NN ,/, hence/RB trapped/VBN in/IN local/JJ optima/NN ./.
+Flower/NNP Pollination/NNP Algorithm/NNP (/-LRB- FPA/NNP )/-RRB- is/VBZ the/DT global/JJ optimization/NN technique/NN ,/, which/WDT avoids/VBZ trapping/VBG in/IN local/JJ optimum/JJ solution/NN ./.
+In/IN this/DT paper/NN ,/, a/DT novel/JJ hybrid/NN data/NNS clustering/NN approach/NN using/VBG Flower/NNP Pollination/NNP Algorithm/NNP and/CC K/NNP -/HYPH Means/NNP (/-LRB- FPAKM/NNP )/-RRB- is/VBZ proposed/VBN ./.
+The/DT proposed/VBN algorithm/NN results/NNS are/VBP compared/VBN with/IN K/NNP -/HYPH Means/NNP and/CC FPA/NNP on/IN eight/CD datasets/NNS ./.
+From/IN the/DT experimental/JJ results/NNS ,/, FPAKM/NNP is/VBZ better/JJR than/IN FPA/NNP and/CC K/NNP -/HYPH Means/NNP ./.

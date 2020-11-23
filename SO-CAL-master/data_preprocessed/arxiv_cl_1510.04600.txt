@@ -1,0 +1,14 @@
+Machine/NN translation/NN is/VBZ evolving/VBG quite/RB rapidly/RB in/IN terms/NNS of/IN quality/NN ./.
+Nowadays/RB ,/, we/PRP have/VBP several/JJ machine/NN translation/NN systems/NNS available/JJ in/IN the/DT web/NN ,/, which/WDT provide/VBP reasonable/JJ translations/NNS ./.
+However/RB ,/, these/DT systems/NNS are/VBP not/RB perfect/JJ ,/, and/CC their/PRP$ quality/NN may/MD decrease/VB in/IN some/DT specific/JJ domains/NNS ./.
+This/DT paper/NN examines/VBZ the/DT effects/NNS of/IN different/JJ training/NN methods/NNS when/WRB it/PRP comes/VBZ to/IN Polish/JJ -/HYPH English/JJ Statistical/JJ Machine/NN Translation/NN system/NN used/VBN for/IN the/DT medical/JJ data/NNS ./.
+Numerous/JJ elements/NNS of/IN the/DT EMEA/NNP parallel/VB text/NN corpora/NNS and/CC not/RB related/VBN OPUS/NNP Open/NNP Subtitles/NNP project/NN were/VBD used/VBN as/IN the/DT ground/NN for/IN creation/NN of/IN phrase/NN tables/NNS and/CC different/JJ language/NN models/NNS including/VBG the/DT development/NN ,/, tuning/NN and/CC testing/NN of/IN these/DT translation/NN systems/NNS ./.
+The/DT BLEU/NNP ,/, NIST/NNP ,/, METEOR/NNP ,/, and/CC TER/NN metrics/NNS have/VBP been/VBN used/VBN in/IN order/NN to/TO evaluate/VB the/DT results/NNS of/IN various/JJ systems/NNS ./.
+Our/PRP$ experiments/NNS deal/VBP with/IN the/DT systems/NNS that/WDT include/VBP POS/NN tagging/NN ,/, factored/VBD phrase/NN models/NNS ,/, hierarchical/JJ models/NNS ,/, syntactic/JJ taggers/NNS ,/, and/CC other/JJ alignment/NN methods/NNS ./.
+We/PRP also/RB executed/VBD a/DT deep/JJ analysis/NN of/IN Polish/JJ data/NNS as/IN preparatory/JJ work/NN before/IN automatized/VBN data/NNS processing/VBG such/JJ as/IN true/JJ casing/NN or/CC punctuation/NN normalization/NN phase/NN ./.
+Normalized/VBN metrics/NNS was/VBD used/VBN to/TO compare/VB results/NNS ./.
+Scores/NNS lower/JJR than/IN 15/CD percent/NN mean/VBP that/IN Machine/NN Translation/NN engine/NN is/VBZ unable/JJ to/TO provide/VB satisfying/JJ quality/NN ,/, scores/NNS greater/JJR than/IN 30/CD percent/NN mean/VBP that/IN translations/NNS should/MD be/VB understandable/JJ without/IN problems/NNS and/CC scores/NNS over/IN 50/CD reflect/VBP adequate/JJ translations/NNS ./.
+The/DT average/JJ results/NNS of/IN Polish/JJ to/IN English/JJ translations/NNS scores/NNS for/IN BLEU/NNP ,/, NIST/NNP ,/, METEOR/NNP ,/, and/CC TER/NNP were/VBD relatively/RB high/JJ and/CC ranged/VBD from/IN 70,58/CD to/IN 82,72/CD ./.
+The/DT lowest/JJS score/NN was/VBD 64,38/CD ./.
+The/DT average/JJ results/NNS ranges/VBZ for/IN English/NNP to/IN Polish/NNP translations/NNS were/VBD little/RB lower/JJR (/-LRB- 67,58/CD -/SYM 78,97/CD )/-RRB- ./.
+The/DT real/JJ -/HYPH life/NN implementations/NNS of/IN presented/VBN high/JJ quality/NN Machine/NN Translation/NN Systems/NNPS are/VBP anticipated/VBN in/IN general/JJ medical/JJ practice/NN and/CC telemedicine/NN ./.

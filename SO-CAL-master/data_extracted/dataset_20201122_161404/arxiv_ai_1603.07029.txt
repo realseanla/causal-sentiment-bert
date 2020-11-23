@@ -1,0 +1,6 @@
+Written responses can provide a wealth of data in understanding student reasoning on a topic.
+Yet they are time- and labor-intensive to score, requiring many instructors to forego them except as limited parts of summative assessments at the end of a unit or course.
+Recent developments in Machine Learning (ML) have produced computational methods of scoring written responses for the presence or absence of specific concepts.
+Here, we compare the scores from one particular ML program -- EvoGrader -- to human scoring of responses to structurally- and content-similar questions that are distinct from the ones the program was trained on.
+We find that there is substantial inter-rater reliability between the human and ML scoring.
+However, sufficient systematic differences remain between the human and ML scoring that we advise only using the ML scoring for formative, rather than summative, assessment of student reasoning.

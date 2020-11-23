@@ -1,0 +1,7 @@
+We consider online planning in Markov decision processes.
+An algorithm for this problem should explore the set of possible policies from the current state, and, when interrupted, recommend an action to follow based on the outcome of the exploration.
+The performance of such an algorithm is assessed in terms of its simple regret, that is the loss in performance resulting from choosing the recommended action instead of an optimal one, and/or in terms of probability that the recommended action is not an optimal one.
+The best guarantees provided by the state-of-the-art algorithms for reduction of these measures over time are only polynomial.
+We introduce a new algorithm, BRUE, that achieves over time exponential reduction of these two measures.
+The algorithm is based on a simple yet non-standard state-space sampling scheme in which different samples are dedicated to different objectives.
+Our preliminary empirical evaluation shows that BRUE not only provides superior performance guarantees, but is also very effective in practice and favorably compares to state-of-the-art.

@@ -1,0 +1,14 @@
+Object/NN Categorization/NN is/VBZ a/DT challenging/JJ problem/NN ,/, especially/RB when/WRB the/DT images/NNS have/VBP clutter/NN background/NN ,/, occlusions/NNS or/CC different/JJ lighting/NN conditions/NNS ./.
+In/IN the/DT past/NN ,/, many/JJ descriptors/NNS have/VBP been/VBN proposed/VBN which/WDT aid/NN object/NN categorization/NN even/RB in/IN such/JJ adverse/JJ conditions/NNS ./.
+Each/DT descriptor/NN has/VBZ its/PRP$ own/JJ merits/NNS and/CC de-merits/NNS ./.
+Some/DT descriptors/NNS are/VBP invariant/JJ to/IN transformations/NNS while/IN the/DT others/NNS are/VBP more/RBR discriminative/JJ ./.
+Past/JJ research/NN has/VBZ shown/VBN that/IN ,/, employing/VBG multiple/JJ descriptors/NNS rather/RB than/IN any/DT single/JJ descriptor/NN leads/VBZ to/IN better/JJR recognition/NN ./.
+The/DT problem/NN of/IN learning/VBG the/DT optimal/JJ combination/NN of/IN the/DT available/JJ descriptors/NNS for/IN a/DT particular/JJ classification/NN task/NN is/VBZ studied/VBN ./.
+Multiple/JJ Kernel/NNP Learning/NNP (/-LRB- MKL/NNP )/-RRB- framework/NN has/VBZ been/VBN developed/VBN for/IN learning/VBG an/DT optimal/JJ combination/NN of/IN descriptors/NNS for/IN object/NN categorization/NN ./.
+Existing/VBG MKL/NN formulations/NNS often/RB employ/VBP block/NN l/NN -/HYPH 1/CD norm/NN regularization/NN which/WDT is/VBZ equivalent/JJ to/IN selecting/VBG a/DT single/JJ kernel/NN from/IN a/DT library/NN of/IN kernels/NNS ./.
+Since/IN essentially/RB a/DT single/JJ descriptor/NN is/VBZ selected/VBN ,/, the/DT existing/VBG formulations/NNS maybe/RB sub/NN -/HYPH optimal/JJ for/IN object/NN categorization/NN ./.
+A/DT MKL/NN formulation/NN based/VBN on/IN block/NN l/NN -/HYPH infinity/NN norm/NN regularization/NN has/VBZ been/VBN developed/VBN ,/, which/WDT chooses/VBZ an/DT optimal/JJ combination/NN of/IN kernels/NNS as/IN opposed/VBN to/IN selecting/VBG a/DT single/JJ kernel/NN ./.
+A/DT Composite/NN Multiple/JJ Kernel/NNP Learning/NNP (/-LRB- CKL/NNP )/-RRB- formulation/NN based/VBN on/IN mixed/JJ l/NN -/HYPH infinity/NN and/CC l/NN -/HYPH 1/CD norm/NN regularization/NN has/VBZ been/VBN developed/VBN ./.
+These/DT formulations/NNS end/VBP in/IN Second/JJ Order/NNP Cone/NNP Programs/NNP (/-LRB- SOCP/NNP )/-RRB- ./.
+Other/JJ efficient/JJ alter/VB -/HYPH native/JJ algorithms/NNS for/IN these/DT formulation/NN have/VBP been/VBN implemented/VBN ./.
+Empirical/JJ results/NNS on/IN benchmark/NN datasets/NNS show/VBP significant/JJ improvement/NN using/VBG these/DT new/JJ MKL/NN formulations/NNS ./.

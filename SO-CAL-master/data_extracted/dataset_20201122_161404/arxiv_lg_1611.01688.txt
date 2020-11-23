@@ -1,0 +1,3 @@
+We consider the design of online no-regret algorithms that are computationally efficient, given access to an offline optimization oracle.
+We present an algorithm we call Generalized Follow-the-Perturbed-Leader and provide conditions under which it achieves vanishing regret and is oracle-efficient.
+Our second main contribution is introducing a new adversarial auction-design framework for revenue maximization and applying our oracle-efficient learning results to the adaptive optimization of auctions.

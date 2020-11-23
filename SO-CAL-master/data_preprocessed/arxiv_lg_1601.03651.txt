@@ -1,0 +1,7 @@
+Nowadays/RB ,/, neural/JJ networks/NNS play/VBP an/DT important/JJ role/NN in/IN the/DT task/NN of/IN relation/NN classification/NN ./.
+By/IN designing/VBG different/JJ neural/JJ architectures/NNS ,/, researchers/NNS have/VBP improved/VBN the/DT performance/NN to/IN a/DT large/JJ extent/NN ,/, compared/VBN with/IN traditional/JJ methods/NNS ./.
+However/RB ,/, existing/VBG neural/JJ networks/NNS for/IN relation/NN classification/NN are/VBP usually/RB of/IN shallow/JJ architectures/NNS (/-LRB- e.g./FW ,/, one/CD -/HYPH layer/NN convolution/NN neural/JJ networks/NNS or/CC recurrent/JJ networks/NNS )/-RRB- ./.
+They/PRP may/MD fail/VB to/TO explore/VB the/DT potential/JJ representation/NN space/NN in/IN different/JJ abstraction/NN levels/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP deep/JJ recurrent/JJ neural/JJ networks/NNS (/-LRB- DRNNs/NNS )/-RRB- to/TO tackle/VB this/DT challenge/NN ./.
+Further/RB ,/, we/PRP propose/VBP a/DT data/NN augmentation/NN method/NN by/IN leveraging/VBG the/DT directionality/NN of/IN relations/NNS ./.
+We/PRP evaluate/VBP our/PRP$ DRNNs/NNS on/IN the/DT SemEval/NNP -/HYPH 2010/CD Task/NNP 8/CD ,/, and/CC achieve/VB an/DT $/$ F_1/CD $/$ -/HYPH score/NN of/IN 85.81/CD percent/NN ,/, outperforming/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN recorded/VBD results/NNS ./.

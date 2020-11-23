@@ -1,0 +1,5 @@
+As/IN the/DT practical/JJ use/NN of/IN answer/NN set/VBN programming/NN (/-LRB- ASP/NN )/-RRB- has/VBZ grown/VBN with/IN the/DT development/NN of/IN efficient/JJ solvers/NNS ,/, we/PRP expect/VBP a/DT growing/VBG interest/NN in/IN extensions/NNS of/IN ASP/NN as/IN their/PRP$ semantics/NNS stabilize/VBP and/CC solvers/NNS supporting/VBG them/PRP mature/JJ ./.
+Epistemic/JJ Specifications/NNS ,/, which/WDT adds/VBZ modal/JJ operators/NNS K/NN and/CC M/NN to/IN the/DT language/NN of/IN ASP/NN ,/, is/VBZ one/CD such/JJ extension/NN ./.
+We/PRP call/VBP a/DT program/NN in/IN this/DT language/NN an/DT epistemic/JJ logic/NN program/NN (/-LRB- ELP/NNP )/-RRB- ./.
+Solvers/NNS have/VBP thus/RB far/RB been/VBN practical/JJ for/IN only/RB the/DT simplest/JJS ELPs/NNS due/IN to/IN exponential/JJ growth/NN of/IN the/DT memory/NN required/VBN ./.
+We/PRP describe/VBP a/DT solver/NN that/WDT is/VBZ able/JJ to/TO solve/VB harder/JJR problems/NNS better/JJR (/-LRB- without/IN exponentially/RB -/HYPH growing/VBG memory/NN needs/VBZ w.r.t./IN K/NNP and/CC M/NNP occurrences/NNS )/-RRB- and/CC faster/JJR than/IN any/DT other/JJ known/JJ ELP/NNP solver/NN ./.

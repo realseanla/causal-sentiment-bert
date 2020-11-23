@@ -1,0 +1,10 @@
+Previous/JJ studies/NNS on/IN Chinese/JJ semantic/JJ role/NN labeling/NN (/-LRB- SRL/NN )/-RRB- have/VBP concentrated/VBN on/IN single/JJ semantically/RB annotated/VBN corpus/NN ./.
+But/CC the/DT training/NN data/NNS of/IN single/JJ corpus/NN is/VBZ often/RB limited/VBN ./.
+Meanwhile/RB ,/, there/EX usually/RB exists/VBZ other/JJ semantically/RB annotated/VBN corpora/NNS for/IN Chinese/JJ SRL/NN scattered/VBN across/IN different/JJ annotation/NN frameworks/NNS ./.
+Data/NNS sparsity/NN remains/VBZ a/DT bottleneck/NN ./.
+This/DT situation/NN calls/VBZ for/IN larger/JJR training/NN datasets/NNS ,/, or/CC effective/JJ approaches/NNS which/WDT can/MD take/VB advantage/NN of/IN highly/RB heterogeneous/JJ data/NNS ./.
+In/IN these/DT papers/NNS ,/, we/PRP focus/VBP mainly/RB on/IN the/DT latter/JJ ,/, that/DT is/VBZ ,/, to/TO improve/VB Chinese/JJ SRL/NN by/IN using/VBG heterogeneous/JJ corpora/NNS together/RB ./.
+We/PRP propose/VBP a/DT novel/JJ progressive/JJ learning/NN model/NN which/WDT augments/VBZ the/DT Progressive/JJ Neural/JJ Network/NN with/IN Gated/VBN Recurrent/JJ Adapters/NNS ./.
+The/DT model/NN can/MD accommodate/VB heterogeneous/JJ inputs/NNS and/CC effectively/RB transfer/VB knowledge/NN between/IN them/PRP ./.
+We/PRP also/RB release/VBP a/DT new/JJ corpus/NN ,/, Chinese/JJ SemBank/NNP ,/, for/IN Chinese/JJ SRL/NN ./.
+Experiments/NNS on/IN CPB/NNP 1.0/CD show/NN that/WDT ours/PRP$ model/NN outperforms/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

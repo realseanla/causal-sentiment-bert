@@ -1,0 +1,8 @@
+Local Process Model (LPM) discovery is focused on the mining of a set of process models where each model describes the behavior represented in the event log only partially, i.e.
+subsets of possible events are taken into account to create so-called local process models.
+Often such smaller models provide valuable insights into the behavior of the process, especially when no adequate and comprehensible single overall process model exists that is able to describe the traces of the process from start to end.
+The practical application of LPM discovery is however hindered by computational issues in the case of logs with many activities (problems may already occur when there are more than 17 unique activities).
+In this paper, we explore three heuristics to discover subsets of activities that lead to useful log projections with the goal of speeding up LPM discovery considerably while still finding high-quality LPMs.
+We found that a Markov clustering approach to create projection sets results in the largest improvement of execution time, with discovered LPMs still being better than with the use of randomly generated activity sets of the same size.
+Another heuristic, based on log entropy, yields a more moderate speedup, but enables the discovery of higher quality LPMs.
+The third heuristic, based on the relative information gain, shows unstable performance: for some data sets the speedup and LPM quality are higher than with the log entropy based method, while for other data sets there is no speedup at all.

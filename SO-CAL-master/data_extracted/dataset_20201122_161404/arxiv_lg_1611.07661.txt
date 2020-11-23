@@ -1,0 +1,7 @@
+We propose a multigrid extension of convolutional neural networks (CNNs).
+Rather than manipulating representations living on a single spatial grid, our network layers operate across scale space, on a pyramid of tensors.
+They consume multigrid inputs and produce multigrid outputs; convolutional filters themselves have both within-scale and cross-scale extent.
+This aspect is distinct from simple multiscale designs, which only process the input at different scales.
+Viewed in terms of information flow, a multigrid network passes messages across a spatial pyramid.
+As a consequence, receptive field size grows exponentially with depth, facilitating rapid integration of context.
+Most critically, multigrid structure enables networks to learn internal attention and dynamic routing mechanisms, and use them to accomplish tasks on which modern CNNs fail.

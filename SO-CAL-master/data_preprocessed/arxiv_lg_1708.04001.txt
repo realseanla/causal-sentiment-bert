@@ -1,0 +1,8 @@
+Due/IN to/IN the/DT popularity/NN of/IN smartphones/NNS and/CC wearable/JJ devices/NNS nowadays/RB ,/, mobile/JJ health/NN (/-LRB- mHealth/NN )/-RRB- technologies/NNS are/VBP promising/VBG to/TO bring/VB positive/JJ and/CC wide/JJ impacts/NNS on/IN people/NNS 's/POS health/NN ./.
+State/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN decision/NN -/HYPH making/VBG methods/NNS for/IN mHealth/NNP rely/VBP on/IN some/DT ideal/JJ assumptions/NNS ./.
+Those/DT methods/NNS either/CC assume/VBP that/IN the/DT users/NNS are/VBP completely/RB homogenous/JJ or/CC completely/RB heterogeneous/JJ ./.
+However/RB ,/, in/IN reality/NN ,/, a/DT user/NN might/MD be/VB similar/JJ with/IN some/DT ,/, but/CC not/RB all/DT ,/, users/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ group/NN -/HYPH driven/VBN reinforcement/NN learning/NN method/NN for/IN the/DT mHealth/NNP ./.
+We/PRP aim/VBP to/TO understand/VB how/WRB to/TO share/VB information/NN among/IN similar/JJ users/NNS to/TO better/RBR convert/VB the/DT limited/JJ user/NN information/NN into/IN sharper/JJR learned/VBN RL/NN policies/NNS ./.
+Specifically/RB ,/, we/PRP employ/VBP the/DT K/NN -/HYPH means/NN clustering/NN method/NN to/IN group/NN users/NNS based/VBN on/IN their/PRP$ trajectory/NN information/NN similarity/NN and/CC learn/VB a/DT shared/VBN RL/NN policy/NN for/IN each/DT group/NN ./.
+Extensive/JJ experiment/NN results/NNS have/VBP shown/VBN that/IN our/PRP$ method/NN can/MD achieve/VB clear/JJ gains/NNS over/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN RL/NN methods/NNS for/IN mHealth/NNP ./.

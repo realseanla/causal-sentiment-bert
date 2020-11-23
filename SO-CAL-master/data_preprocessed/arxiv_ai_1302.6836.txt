@@ -1,0 +1,7 @@
+This/DT paper/NN describes/VBZ a/DT novel/JJ approach/NN to/IN planning/NN which/WDT takes/VBZ advantage/NN of/IN decision/NN theory/NN to/IN greatly/RB improve/VB robustness/NN in/IN an/DT uncertain/JJ environment/NN ./.
+We/PRP present/VBP an/DT algorithm/NN which/WDT computes/VBZ conditional/JJ plans/NNS of/IN maximum/NN expected/VBN utility/NN ./.
+This/DT algorithm/NN relies/VBZ on/IN a/DT representation/NN of/IN the/DT search/NN space/NN as/IN an/DT AND/CC //SYM OR/CC tree/NN and/CC employs/VBZ a/DT depth/NN -/HYPH limit/NN to/TO control/VB computation/NN costs/NNS ./.
+A/DT numeric/JJ robustness/NN factor/NN ,/, which/WDT parameterizes/VBZ the/DT utility/NN function/NN ,/, allows/VBZ the/DT user/NN to/TO modulate/VB the/DT degree/NN of/IN risk/NN -/HYPH aversion/NN employed/VBN by/IN the/DT planner/NN ./.
+Via/NNP a/DT look/NN -/HYPH ahead/NN search/NN ,/, the/DT planning/NN algorithm/NN seeks/VBZ to/TO find/VB an/DT optimal/JJ plan/NN using/VBG expected/VBN utility/NN as/IN its/PRP$ optimization/NN criterion/NN ./.
+We/PRP present/VBP experimental/JJ results/NNS obtained/VBN by/IN applying/VBG our/PRP$ algorithm/NN to/IN a/DT non-deterministic/JJ extension/NN of/IN the/DT blocks/NNS world/NN domain/NN ./.
+Our/PRP$ results/NNS demonstrate/VBP that/IN the/DT robustness/NN factor/NN governs/VBZ the/DT degree/NN of/IN risk/NN embodied/VBN in/IN the/DT conditional/JJ plans/NNS computed/VBN by/IN our/PRP$ algorithm/NN ./.

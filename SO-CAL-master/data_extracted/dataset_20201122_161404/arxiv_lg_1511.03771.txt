@@ -1,0 +1,8 @@
+In recent years significant progress has been made in successfully training recurrent neural networks (RNNs) on sequence learning problems involving long range temporal dependencies.
+The progress has been made on three fronts: (a) Algorithmic improvements involving sophisticated optimization techniques, (b) network design involving complex hidden layer nodes and specialized recurrent layer connections and (c) weight initialization methods.
+In this paper, we focus on recently proposed weight initialization with identity matrix for the recurrent weights in a RNN.
+This initialization is specifically proposed for hidden nodes with Rectified Linear Unit (ReLU) non linearity.
+We offer a simple dynamical systems perspective on weight initialization process, which allows us to propose a modified weight initialization strategy.
+We show that this initialization technique leads to successfully training RNNs composed of ReLUs.
+We demonstrate that our proposal produces comparable or better solution for three toy problems involving long range temporal structure: the addition problem, the multiplication problem and the MNIST classification problem using sequence of pixels.
+In addition, we present results for a benchmark action recognition problem.

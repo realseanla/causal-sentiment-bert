@@ -1,0 +1,4 @@
+We/PRP propose/VBP the/DT Gaussian/NNP Error/NNP Linear/NNP Unit/NNP (/-LRB- GELU/NNP )/-RRB- ,/, a/DT high/JJ -/HYPH performing/VBG neural/JJ network/NN activation/NN function/NN ./.
+The/DT GELU/NNP nonlinearity/NN is/VBZ the/DT expected/VBN transformation/NN of/IN a/DT stochastic/JJ process/NN which/WDT randomly/RB applies/VBZ the/DT identity/NN or/CC zero/CD map/NN ,/, combining/VBG the/DT intuitions/NNS of/IN dropout/NN and/CC zoneout/NN while/IN respecting/VBG neuron/NN values/NNS ./.
+This/DT connection/NN suggests/VBZ a/DT new/JJ probabilistic/JJ understanding/NN of/IN nonlinearities/NNS ./.
+We/PRP perform/VBP an/DT empirical/JJ evaluation/NN of/IN the/DT GELU/NNP nonlinearity/NN against/IN the/DT ReLU/NN and/CC ELU/NN activations/NNS and/CC find/VB performance/NN improvements/NNS across/IN all/DT tasks/NNS ./.

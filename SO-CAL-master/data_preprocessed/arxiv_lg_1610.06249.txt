@@ -1,0 +1,11 @@
+Anomalies/NNS are/VBP those/DT deviating/VBG from/IN the/DT norm/NN ./.
+Unsupervised/JJ anomaly/NN detection/NN often/RB translates/VBZ to/IN identifying/VBG low/JJ density/NN regions/NNS ./.
+Major/JJ problems/NNS arise/VBP when/WRB data/NNS is/VBZ high/JJ -/HYPH dimensional/JJ and/CC mixed/JJ of/IN discrete/JJ and/CC continuous/JJ attributes/NNS ./.
+We/PRP propose/VBP MIXMAD/NNP ,/, which/WDT stands/VBZ for/IN MIXed/JJ data/NNS Multilevel/NNP Anomaly/NNP Detection/NNP ,/, an/DT ensemble/NN method/NN that/WDT estimates/VBZ the/DT sparse/JJ regions/NNS across/IN multiple/JJ levels/NNS of/IN abstraction/NN of/IN mixed/JJ data/NNS ./.
+The/DT hypothesis/NN is/VBZ for/IN domains/NNS where/WRB multiple/JJ data/NNS abstractions/NNS exist/VBP ,/, a/DT data/NN point/NN may/MD be/VB anomalous/JJ with/IN respect/NN to/IN the/DT raw/JJ representation/NN or/CC more/JJR abstract/JJ representations/NNS ./.
+To/IN this/DT end/NN ,/, our/PRP$ method/NN sequentially/RB constructs/VBZ an/DT ensemble/NN of/IN Deep/JJ Belief/NN Nets/NNS (/-LRB- DBNs/NNS )/-RRB- with/IN varying/VBG depths/NNS ./.
+Each/DT DBN/NN is/VBZ an/DT energy/NN -/HYPH based/VBN detector/NN at/IN a/DT predefined/JJ abstraction/NN level/NN ./.
+At/IN the/DT bottom/JJ level/NN of/IN each/DT DBN/NNP ,/, there/EX is/VBZ a/DT Mixed/JJ -/HYPH variate/NN Restricted/VBN Boltzmann/NNP Machine/NNP that/IN models/NNS the/DT density/NN of/IN mixed/JJ data/NNS ./.
+Predictions/NNS across/IN the/DT ensemble/NN are/VBP finally/RB combined/VBN via/IN rank/NN aggregation/NN ./.
+The/DT proposed/VBN MIXMAD/NN is/VBZ evaluated/VBN on/IN high/JJ -/HYPH dimensional/JJ realworld/NN datasets/NNS of/IN different/JJ characteristics/NNS ./.
+The/DT results/NNS demonstrate/VBP that/IN for/IN anomaly/NN detection/NN ,/, (/-LRB- a/LS )/-RRB- multilevel/JJ abstraction/NN of/IN high/JJ -/HYPH dimensional/JJ and/CC mixed/JJ data/NNS is/VBZ a/DT sensible/JJ strategy/NN ,/, and/CC (/-LRB- b/LS )/-RRB- empirically/RB ,/, MIXMAD/NNP is/VBZ superior/JJ to/IN popular/JJ unsupervised/JJ detection/NN methods/NNS for/IN both/DT homogeneous/JJ and/CC mixed/JJ data/NNS ./.

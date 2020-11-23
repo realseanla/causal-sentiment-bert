@@ -1,0 +1,8 @@
+Advances/NNS in/IN deep/JJ reinforcement/NN learning/NN have/VBP allowed/VBN autonomous/JJ agents/NNS to/TO perform/VB well/RB on/IN Atari/NNP games/NNS ,/, often/RB outperforming/VBG humans/NNS ,/, using/VBG only/RB raw/JJ pixels/NNS to/TO make/VB their/PRP$ decisions/NNS ./.
+However/RB ,/, most/JJS of/IN these/DT games/NNS take/VB place/NN in/IN 2D/NN environments/NNS that/WDT are/VBP fully/RB observable/JJ to/IN the/DT agent/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP the/DT first/JJ architecture/NN to/TO tackle/VB 3D/JJ environments/NNS in/IN first/JJ -/HYPH person/NN shooter/NN games/NNS ,/, that/DT involve/VBP partially/RB observable/JJ states/NNS ./.
+Typically/RB ,/, deep/JJ reinforcement/NN learning/VBG methods/NNS only/RB utilize/VBP visual/JJ input/NN for/IN training/NN ./.
+We/PRP present/VBP a/DT method/NN to/TO augment/VB these/DT models/NNS to/TO exploit/VB game/NN feature/NN information/NN such/JJ as/IN the/DT presence/NN of/IN enemies/NNS or/CC items/NNS ,/, during/IN the/DT training/NN phase/NN ./.
+Our/PRP$ model/NN is/VBZ trained/VBN to/TO simultaneously/RB learn/VB these/DT features/NNS along/IN with/IN minimizing/VBG a/DT Q/NN -/HYPH learning/NN objective/NN ,/, which/WDT is/VBZ shown/VBN to/TO dramatically/RB improve/VB the/DT training/NN speed/NN and/CC performance/NN of/IN our/PRP$ agent/NN ./.
+Our/PRP$ architecture/NN is/VBZ also/RB modularized/VBN to/TO allow/VB different/JJ models/NNS to/TO be/VB independently/RB trained/VBN for/IN different/JJ phases/NNS of/IN the/DT game/NN ./.
+We/PRP show/VBP that/IN the/DT proposed/VBN architecture/NN substantially/RB outperforms/VBZ built/VBN -/HYPH in/RP AI/NN agents/NNS of/IN the/DT game/NN as/RB well/RB as/IN humans/NNS in/IN deathmatch/NN scenarios/NNS ./.

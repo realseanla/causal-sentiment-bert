@@ -1,0 +1,8 @@
+Social/JJ media/NNS platforms/NNS provide/VBP an/DT environment/NN where/WRB people/NNS can/MD freely/RB engage/VB in/IN discussions/NNS ./.
+Unfortunately/RB ,/, they/PRP also/RB enable/VBP several/JJ problems/NNS ,/, such/JJ as/IN online/JJ harassment/NN ./.
+Recently/RB ,/, Google/NNP and/CC Jigsaw/NNP started/VBD a/DT project/NN called/VBN Perspective/NNP ,/, which/WDT uses/VBZ machine/NN learning/NN to/IN automatically/RB detect/VB toxic/JJ language/NN ./.
+A/DT demonstration/NN website/NN has/VBZ been/VBN also/RB launched/VBN ,/, which/WDT allows/VBZ anyone/NN to/TO type/VB a/DT phrase/NN in/IN the/DT interface/NN and/CC instantaneously/RB see/VB the/DT toxicity/NN score/NN [/-LRB- 1/CD ]/-RRB- ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT attack/NN on/IN the/DT Perspective/NN toxic/JJ detection/NN system/NN based/VBN on/IN the/DT adversarial/JJ examples/NNS ./.
+We/PRP show/VBP that/IN an/DT adversary/NN can/MD subtly/RB modify/VB a/DT highly/RB toxic/JJ phrase/NN in/IN a/DT way/NN that/IN the/DT system/NN assigns/VBZ significantly/RB lower/JJR toxicity/NN score/NN to/IN it/PRP ./.
+We/PRP apply/VBP the/DT attack/NN on/IN the/DT sample/NN phrases/NNS provided/VBN in/IN the/DT Perspective/NN website/NN and/CC show/VBP that/IN we/PRP can/MD consistently/RB reduce/VB the/DT toxicity/NN scores/NNS to/IN the/DT level/NN of/IN the/DT non-toxic/JJ phrases/NNS ./.
+The/DT existence/NN of/IN such/JJ adversarial/JJ examples/NNS is/VBZ very/RB harmful/JJ for/IN toxic/JJ detection/NN systems/NNS and/CC seriously/RB undermines/VBZ their/PRP$ usability/NN ./.

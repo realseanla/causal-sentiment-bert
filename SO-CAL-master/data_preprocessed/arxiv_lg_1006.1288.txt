@@ -1,0 +1,7 @@
+The/DT paper/NN addresses/VBZ the/DT problem/NN of/IN learning/VBG a/DT regression/NN model/NN parameterized/VBN by/IN a/DT fixed/VBN -/HYPH rank/NN positive/JJ semidefinite/NN matrix/NN ./.
+The/DT focus/NN is/VBZ on/IN the/DT nonlinear/JJ nature/NN of/IN the/DT search/NN space/NN and/CC on/IN scalability/NN to/IN high/JJ -/HYPH dimensional/JJ problems/NNS ./.
+The/DT mathematical/JJ developments/NNS rely/VBP on/IN the/DT theory/NN of/IN gradient/NN descent/NN algorithms/NNS adapted/VBD to/IN the/DT Riemannian/NNP geometry/NN that/WDT underlies/VBZ the/DT set/NN of/IN fixed/VBN -/HYPH rank/NN positive/JJ semidefinite/NN matrices/NNS ./.
+In/IN contrast/NN with/IN previous/JJ contributions/NNS in/IN the/DT literature/NN ,/, no/DT restrictions/NNS are/VBP imposed/VBN on/IN the/DT range/NN space/NN of/IN the/DT learned/VBN matrix/NN ./.
+The/DT resulting/VBG algorithms/NNS maintain/VBP a/DT linear/JJ complexity/NN in/IN the/DT problem/NN size/NN and/CC enjoy/VB important/JJ invariance/NN properties/NNS ./.
+We/PRP apply/VBP the/DT proposed/VBN algorithms/NNS to/IN the/DT problem/NN of/IN learning/VBG a/DT distance/NN function/NN parameterized/VBN by/IN a/DT positive/JJ semidefinite/NN matrix/NN ./.
+Good/JJ performance/NN is/VBZ observed/VBN on/IN classical/JJ benchmarks/NNS ./.

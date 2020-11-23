@@ -1,0 +1,10 @@
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT novel/JJ learning/NN framework/NN called/VBN Supervised/VBN and/CC Weakly/RB Supervised/VBN Learning/NN where/WRB the/DT goal/NN is/VBZ to/TO learn/VB simultaneously/RB from/IN weakly/RB and/CC strongly/RB labeled/VBN data/NNS ./.
+Strongly/RB labeled/VBN data/NNS can/MD be/VB simply/RB understood/VBN as/IN fully/RB supervised/JJ data/NNS where/WRB all/DT labeled/VBN instances/NNS are/VBP available/JJ ./.
+In/IN weakly/RB supervised/JJ learning/NN only/RB weak/JJ labels/NNS are/VBP available/JJ ./.
+Our/PRP$ proposed/VBN framework/NN is/VBZ motivated/VBN by/IN the/DT fact/NN that/IN a/DT small/JJ amount/NN of/IN strongly/RB labeled/VBN data/NNS can/MD give/VB considerable/JJ improvement/NN over/IN only/RB weakly/RB supervised/JJ learning/NN ./.
+The/DT primary/JJ problem/NN domain/NN focus/NN of/IN this/DT paper/NN is/VBZ acoustic/JJ event/NN and/CC scene/NN detection/NN in/IN audio/JJ recordings/NNS ./.
+We/PRP first/RB propose/VB a/DT naive/JJ formulation/NN for/IN leveraging/VBG labeled/VBN data/NNS in/IN both/DT forms/NNS ./.
+We/PRP then/RB propose/VB a/DT more/RBR general/JJ framework/NN for/IN Supervised/VBN and/CC Weakly/RB Supervised/VBN Learning/NN (/-LRB- SWSL/NN )/-RRB- ./.
+Based/VBN on/IN this/DT general/JJ framework/NN ,/, we/PRP propose/VBP a/DT graph/NN based/VBN approach/NN for/IN SWSL/NNP ./.
+Our/PRP$ main/JJ method/NN is/VBZ based/VBN on/IN manifold/JJ regularization/NN on/IN graphs/NNS in/IN which/WDT we/PRP show/VBP that/IN the/DT unified/VBN learning/NN can/MD be/VB formulated/VBN as/IN a/DT constraint/NN optimization/NN problem/NN which/WDT can/MD be/VB solved/VBN by/IN iterative/JJ concave/NN -/HYPH convex/NN procedure/NN (/-LRB- CCCP/NN )/-RRB- ./.
+Our/PRP$ experiments/NNS show/VBP that/IN our/PRP$ proposed/VBN framework/NN can/MD address/VB several/JJ concerns/NNS of/IN audio/NN content/NN analysis/NN using/VBG weakly/RB labeled/VBN data/NNS ./.

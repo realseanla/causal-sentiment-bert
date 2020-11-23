@@ -1,0 +1,11 @@
+A/DT word/NN embedding/NN is/VBZ a/DT low/JJ -/HYPH dimensional/JJ ,/, dense/JJ and/CC real/JJ -/HYPH valued/VBN vector/NN representation/NN of/IN a/DT word/NN ./.
+Word/NNP embeddings/NNS have/VBP been/VBN used/VBN in/IN many/JJ NLP/NN tasks/NNS ./.
+They/PRP are/VBP usually/RB gener/NN -/HYPH ated/VBN from/IN a/DT large/JJ text/NN corpus/NN ./.
+The/DT embedding/NN of/IN a/DT word/NN cap/NN -/HYPH tures/NNS both/CC its/PRP$ syntactic/JJ and/CC semantic/JJ aspects/NNS ./.
+Tweets/NNS are/VBP short/JJ ,/, noisy/JJ and/CC have/VBP unique/JJ lexical/JJ and/CC semantic/JJ features/NNS that/WDT are/VBP different/JJ from/IN other/JJ types/NNS of/IN text/NN ./.
+Therefore/RB ,/, it/PRP is/VBZ necessary/JJ to/TO have/VB word/NN embeddings/NNS learned/VBD specifically/RB from/IN tweets/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP ten/CD word/NN embedding/NN data/NN sets/NNS ./.
+In/IN addition/NN to/IN the/DT data/NN sets/VBZ learned/VBN from/IN just/RB tweet/NN data/NNS ,/, we/PRP also/RB built/VBD embedding/NN sets/NNS from/IN the/DT general/JJ data/NNS and/CC the/DT combination/NN of/IN tweets/NNS with/IN the/DT general/JJ data/NNS ./.
+The/DT general/JJ data/NNS consist/VBP of/IN news/NN articles/NNS ,/, Wikipedia/NNP data/NNS and/CC other/JJ web/NN data/NNS ./.
+These/DT ten/CD embedding/NN models/NNS were/VBD learned/VBN from/IN about/RB 400/CD million/CD tweets/NNS and/CC 7/CD billion/CD words/NNS from/IN the/DT general/JJ text/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP also/RB present/JJ two/CD experiments/NNS demonstrating/VBG how/WRB to/TO use/VB the/DT data/NN sets/NNS in/IN some/DT NLP/NN tasks/NNS ,/, such/JJ as/IN tweet/NN sentiment/NN analysis/NN and/CC tweet/NN topic/NN classification/NN tasks/NNS ./.

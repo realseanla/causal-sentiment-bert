@@ -1,0 +1,11 @@
+Multi-class/NN supervised/VBD learning/VBG systems/NNS require/VBP the/DT knowledge/NN of/IN the/DT entire/JJ range/NN of/IN labels/NNS they/PRP predict/VBP ./.
+Often/RB when/WRB learnt/VBN incrementally/RB ,/, they/PRP suffer/VBP from/IN catastrophic/JJ forgetting/VBG ./.
+To/TO avoid/VB this/DT ,/, generous/JJ leeways/NNS have/VBP to/TO be/VB made/VBN to/IN the/DT philosophy/NN of/IN incremental/JJ learning/NN that/WDT either/CC forces/NNS a/DT part/NN of/IN the/DT machine/NN to/TO not/RB learn/VB ,/, or/CC to/IN retrain/VB the/DT machine/NN again/RB with/IN a/DT selection/NN of/IN the/DT historic/JJ data/NNS ./.
+While/IN these/DT tricks/NNS work/VBP to/IN various/JJ degrees/NNS ,/, they/PRP do/VBP not/RB adhere/VB to/IN the/DT spirit/NN of/IN incremental/JJ learning/NN ./.
+In/IN this/DT article/NN ,/, we/PRP redefine/VBP incremental/JJ learning/NN with/IN stringent/JJ conditions/NNS that/WDT do/VBP not/RB allow/VB for/IN any/DT undesirable/JJ relaxations/NNS and/CC assumptions/NNS ./.
+We/PRP design/VBP a/DT strategy/NN involving/VBG generative/JJ models/NNS and/CC the/DT distillation/NN of/IN dark/JJ knowledge/NN as/IN a/DT means/NN of/IN hallucinating/NN data/NNS along/IN with/IN appropriate/JJ targets/NNS from/IN past/JJ distributions/NNS ./.
+We/PRP call/VBP this/DT technique/NN phantom/NN sampling/NN ./.
+We/PRP show/VBP that/IN phantom/NN sampling/NN helps/VBZ avoid/VB catastrophic/JJ forgetting/VBG during/IN incremental/JJ learning/NN ./.
+Using/VBG an/DT implementation/NN based/VBN on/IN deep/JJ neural/JJ networks/NNS ,/, we/PRP demonstrate/VBP that/IN phantom/NN sampling/NN dramatically/RB avoids/VBZ catastrophic/JJ forgetting/VBG ./.
+We/PRP apply/VBP these/DT strategies/NNS to/IN competitive/JJ multi-class/NN incremental/JJ learning/NN of/IN deep/JJ neural/JJ networks/NNS ./.
+Using/VBG various/JJ benchmark/NN datasets/NNS through/IN our/PRP$ strategy/NN ,/, we/PRP demonstrate/VBP that/IN strict/JJ incremental/JJ learning/NN could/MD be/VB achieved/VBN ./.

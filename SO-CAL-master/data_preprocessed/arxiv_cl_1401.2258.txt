@@ -1,0 +1,14 @@
+This/DT work/NN compares/VBZ concept/NN models/NNS for/IN cross-language/JJ retrieval/NN :/: First/RB ,/, we/PRP adapt/VBP probabilistic/JJ Latent/JJ Semantic/JJ Analysis/NN (/-LRB- pLSA/NN )/-RRB- for/IN multilingual/JJ documents/NNS ./.
+Experiments/NNS with/IN different/JJ weighting/NN schemes/NNS show/VBP that/IN a/DT weighting/NN method/NN favoring/VBG documents/NNS of/IN similar/JJ length/NN in/IN both/DT language/NN sides/NNS gives/VBZ best/JJS results/NNS ./.
+Considering/VBG that/IN both/DT monolingual/JJ and/CC multilingual/JJ Latent/JJ Dirichlet/NN Allocation/NN (/-LRB- LDA/NN )/-RRB- behave/VBP alike/RB when/WRB applied/VBN for/IN such/JJ documents/NNS ,/, we/PRP use/VBP a/DT training/NN corpus/NN built/VBN on/IN Wikipedia/NNP where/WRB all/DT documents/NNS are/VBP length/NN -/HYPH normalized/VBN and/CC obtain/VB improvements/NNS over/IN previously/RB reported/VBN scores/NNS for/IN LDA/NNP ./.
+Another/DT focus/NN of/IN our/PRP$ work/NN is/VBZ on/IN model/NN combination/NN ./.
+For/IN this/DT end/NN we/PRP include/VBP Explicit/NNP Semantic/NNP Analysis/NN (/-LRB- ESA/NN )/-RRB- in/IN the/DT experiments/NNS ./.
+We/PRP observe/VBP that/DT ESA/NN is/VBZ not/RB competitive/JJ with/IN LDA/NN in/IN a/DT query/NN based/VBN retrieval/NN task/NN on/IN CLEF/NNP 2000/CD data/NNS ./.
+The/DT combination/NN of/IN machine/NN translation/NN with/IN concept/NN models/NNS increased/VBN performance/NN by/IN 21.1/CD percent/NN map/NN in/IN comparison/NN to/IN machine/NN translation/NN alone/RB ./.
+Machine/NN translation/NN relies/VBZ on/IN parallel/JJ corpora/NNS ,/, which/WDT may/MD not/RB be/VB available/JJ for/IN many/JJ language/NN pairs/NNS ./.
+We/PRP further/RB explore/VB how/WRB much/JJ cross-lingual/JJ information/NN can/MD be/VB carried/VBN over/RP by/IN a/DT specific/JJ information/NN source/NN in/IN Wikipedia/NNP ,/, namely/RB linked/VBN text/NN ./.
+The/DT best/JJS results/NNS are/VBP obtained/VBN using/VBG a/DT language/NN modeling/NN approach/NN ,/, entirely/RB without/IN information/NN from/IN parallel/JJ corpora/NNS ./.
+The/DT need/NN for/IN smoothing/NN raises/VBZ interesting/JJ questions/NNS on/IN soundness/NN and/CC efficiency/NN ./.
+Link/NN models/NNS capture/VBP only/RB a/DT certain/JJ kind/NN of/IN information/NN and/CC suggest/VBP weighting/NN schemes/NNS to/TO emphasize/VB particular/JJ words/NNS ./.
+For/IN a/DT combined/VBN model/NN ,/, another/DT interesting/JJ question/NN is/VBZ therefore/RB how/WRB to/TO integrate/VB different/JJ weighting/NN schemes/NNS ./.
+Using/VBG a/DT very/RB simple/JJ combination/NN scheme/NN ,/, we/PRP obtain/VBP results/NNS that/WDT compare/VBP favorably/RB to/IN previously/RB reported/VBN results/NNS on/IN the/DT CLEF/NNP 2000/CD dataset/NN ./.

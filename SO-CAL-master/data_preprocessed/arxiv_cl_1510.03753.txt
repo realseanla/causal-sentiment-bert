@@ -1,0 +1,6 @@
+This/DT paper/NN presents/VBZ results/NNS of/IN our/PRP$ experiments/NNS using/VBG the/DT Ubuntu/NNP Dialog/NNP Corpus/NNP -/, the/DT largest/JJS publicly/RB available/JJ multi-turn/JJ dialog/NN corpus/NN ./.
+First/RB ,/, we/PRP use/VBP an/DT in/IN -/HYPH house/NN implementation/NN of/IN previously/RB reported/VBN models/NNS to/TO do/VB an/DT independent/JJ evaluation/NN using/VBG the/DT same/JJ data/NNS ./.
+Second/RB ,/, we/PRP evaluate/VBP the/DT performances/NNS of/IN various/JJ LSTMs/NNPS ,/, Bi-LSTMs/NNPS and/CC CNNs/NNPS on/IN the/DT dataset/NN ./.
+Third/JJ ,/, we/PRP create/VBP an/DT ensemble/NN by/IN averaging/VBG predictions/NNS of/IN multiple/JJ models/NNS ./.
+The/DT ensemble/NN further/RB improves/VBZ the/DT performance/NN and/CC it/PRP achieves/VBZ a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN result/NN for/IN this/DT dataset/NN ./.
+Finally/RB ,/, we/PRP discuss/VBP our/PRP$ future/JJ plans/NNS using/VBG this/DT corpus/NN ./.

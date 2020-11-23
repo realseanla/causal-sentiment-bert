@@ -1,0 +1,7 @@
+Summarization/NN of/IN large/JJ texts/NNS is/VBZ still/RB an/DT open/JJ problem/NN in/IN language/NN processing/NN ./.
+In/IN this/DT work/NN we/PRP develop/VBP a/DT full/JJ fledged/JJ pipeline/NN to/TO generate/VB summaries/NNS of/IN news/NN articles/NNS using/VBG the/DT Abstract/NNP Meaning/VBG Representation/NN (/-LRB- AMR/NNP )/-RRB- ./.
+We/PRP first/RB generate/VBP the/DT AMR/NNP graphs/NNS of/IN stories/NNS then/RB extract/VBP summary/NN graphs/NNS from/IN the/DT story/NN graphs/NNS and/CC finally/RB generate/VBP sentences/NNS from/IN the/DT summary/NN graph/NN ./.
+For/IN extracting/VBG summary/NN AMRs/NNS from/IN the/DT story/NN AMRs/NNS we/PRP use/VBP a/DT two/CD step/NN process/NN ./.
+First/RB ,/, we/PRP find/VBP important/JJ sentences/NNS from/IN the/DT text/NN and/CC then/RB extract/VB the/DT summary/NN AMRs/NNS from/IN those/DT selected/VBN sentences/NNS ./.
+We/PRP outperform/VBP the/DT previous/JJ methods/NNS using/VBG AMR/NNP for/IN summarization/NN by/IN more/JJR that/IN 3/CD ROGUE/NN -/HYPH 1/CD points/NNS ./.
+On/IN the/DT CNN/NNP -/HYPH Dailymail/NNP corpus/NN we/PRP achieve/VBP results/NNS competitive/JJ with/IN the/DT strong/JJ lead/NN -/HYPH 3/CD baseline/NN till/IN summary/NN graph/NN extraction/NN step/NN ./.

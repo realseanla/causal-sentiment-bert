@@ -1,0 +1,6 @@
+Algorithms/NNS for/IN learning/VBG the/DT conditional/JJ probabilities/NNS of/IN Bayesian/JJ networks/NNS with/IN hidden/JJ variables/NNS typically/RB operate/VBP within/IN a/DT high/JJ -/HYPH dimensional/JJ search/NN space/NN and/CC yield/NN only/RB locally/RB optimal/JJ solutions/NNS ./.
+One/CD way/NN of/IN limiting/VBG the/DT search/NN space/NN and/CC avoiding/VBG local/JJ optima/NN is/VBZ to/TO impose/VB qualitative/JJ constraints/NNS that/WDT are/VBP based/VBN on/IN background/NN knowledge/NN concerning/VBG the/DT domain/NN ./.
+We/PRP present/VBP a/DT method/NN for/IN integrating/VBG formal/JJ statements/NNS of/IN qualitative/JJ constraints/NNS into/IN two/CD learning/VBG algorithms/NNS ,/, APN/NNP and/CC EM/NNP ./.
+In/IN our/PRP$ experiments/NNS with/IN synthetic/JJ data/NNS ,/, this/DT method/NN yielded/VBD networks/NNS that/WDT satisfied/VBD the/DT constraints/NNS almost/RB perfectly/RB ./.
+The/DT accuracy/NN of/IN the/DT learned/VBN networks/NNS was/VBD consistently/RB superior/JJ to/IN that/DT of/IN corresponding/VBG networks/NNS learned/VBD without/IN constraints/NNS ./.
+The/DT exploitation/NN of/IN qualitative/JJ constraints/NNS therefore/RB appears/VBZ to/TO be/VB a/DT promising/JJ way/NN to/TO increase/VB both/CC the/DT interpretability/NN and/CC the/DT accuracy/NN of/IN learned/VBN Bayesian/JJ networks/NNS with/IN known/JJ structure/NN ./.

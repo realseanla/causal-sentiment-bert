@@ -1,0 +1,5 @@
+Parametric/NNP density/NN estimation/NN ,/, for/IN example/NN as/IN Gaussian/JJ distribution/NN ,/, is/VBZ the/DT base/NN of/IN the/DT field/NN of/IN statistics/NNS ./.
+Machine/NN learning/NN requires/VBZ inexpensive/JJ estimation/NN of/IN much/RB more/RBR complex/JJ densities/NNS ,/, and/CC the/DT basic/JJ approach/NN is/VBZ relatively/RB costly/JJ maximum/JJ likelihood/NN estimation/NN (/-LRB- MLE/NNP )/-RRB- ./.
+There/EX will/MD be/VB discussed/VBN inexpensive/JJ density/NN estimators/NNS ,/, for/IN example/NN literally/RB fitting/VBG polynomial/JJ to/IN the/DT sample/NN ,/, which/WDT coefficients/NNS are/VBP calculated/VBN from/IN just/RB averaging/VBG monomials/NNS over/IN the/DT sample/NN (/-LRB- estimators/NNS of/IN moments/NNS )/-RRB- ./.
+Another/DT discussed/VBN basic/JJ application/NN is/VBZ fitting/JJ distortion/NN to/IN some/DT standard/JJ distribution/NN like/IN Gaussian/NNP ./.
+The/DT estimated/VBN parameters/NNS are/VBP approaching/VBG the/DT optimal/JJ values/NNS with/IN error/NN dropping/VBG like/IN $/$ 1/CD //SYM \/SYM sqrt/SYM {/-LRB- n/NN }/-RRB- $/$ ,/, where/WRB $/$ n/NN $/$ is/VBZ the/DT sample/NN size/NN ./.

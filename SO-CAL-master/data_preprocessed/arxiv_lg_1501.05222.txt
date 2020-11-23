@@ -1,0 +1,8 @@
+Numerous/JJ machine/NN learning/VBG algorithms/NNS contain/VBP pairwise/JJ statistical/JJ problems/NNS at/IN their/PRP$ core/NN ---/NFP that/DT is/VBZ ,/, tasks/NNS that/WDT require/VBP computations/NNS over/IN all/DT pairs/NNS of/IN input/NN points/NNS if/IN implemented/VBN naively/RB ./.
+Often/RB ,/, tree/NN structures/NNS are/VBP used/VBN to/TO solve/VB these/DT problems/NNS efficiently/RB ./.
+Dual/JJ -/HYPH tree/NN algorithms/NNS can/MD efficiently/RB solve/VB or/CC approximate/VB many/JJ of/IN these/DT problems/NNS ./.
+Using/VBG cover/NN trees/NNS ,/, rigorous/JJ worst/JJS -/HYPH case/NN runtime/NN guarantees/NNS have/VBP been/VBN proven/VBN for/IN some/DT of/IN these/DT algorithms/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT problem/NN -/HYPH independent/JJ runtime/NN guarantee/NN for/IN any/DT dual/JJ -/HYPH tree/NN algorithm/NN using/VBG the/DT cover/NN tree/NN ,/, separating/VBG out/RP the/DT problem/NN -/HYPH dependent/JJ and/CC the/DT problem/NN -/HYPH independent/JJ elements/NNS ./.
+This/DT allows/VBZ us/PRP to/TO just/RB plug/VB in/RP bounds/NNS for/IN the/DT problem/NN -/HYPH dependent/JJ elements/NNS to/TO get/VB runtime/NN guarantees/NNS for/IN dual/JJ -/HYPH tree/NN algorithms/NNS for/IN any/DT pairwise/JJ statistical/JJ problem/NN without/IN re-deriving/VBG the/DT entire/JJ proof/NN ./.
+We/PRP demonstrate/VBP this/DT plug/NN -/HYPH and/CC -/HYPH play/VB procedure/NN for/IN nearest/JJS -/HYPH neighbor/NN search/NN and/CC approximate/JJ kernel/NN density/NN estimation/NN to/TO get/VB improved/VBN runtime/NN guarantees/NNS ./.
+Under/IN mild/JJ assumptions/NNS ,/, we/PRP also/RB present/VBP the/DT first/JJ linear/JJ runtime/NN guarantee/NN for/IN dual/JJ -/HYPH tree/NN based/VBN range/NN search/NN ./.

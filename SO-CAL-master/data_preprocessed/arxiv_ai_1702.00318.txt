@@ -1,0 +1,6 @@
+The/DT longest/JJS arc/NN -/HYPH preserving/VBG common/JJ subsequence/NN problem/NN is/VBZ an/DT NP/NNP -/HYPH hard/JJ combinatorial/JJ optimization/NN problem/NN from/IN the/DT field/NN of/IN computational/JJ biology/NN ./.
+This/DT problem/NN finds/VBZ applications/NNS ,/, in/IN particular/JJ ,/, in/IN the/DT comparison/NN of/IN arc/NN -/HYPH annotated/VBN Ribonucleic/JJ acid/NN (/-LRB- RNA/NN )/-RRB- sequences/NNS ./.
+In/IN this/DT work/NN we/PRP propose/VBP a/DT simple/JJ ,/, hybrid/JJ evolutionary/JJ algorithm/NN to/TO tackle/VB this/DT problem/NN ./.
+The/DT most/RBS important/JJ feature/NN of/IN this/DT algorithm/NN concerns/VBZ a/DT crossover/NN operator/NN based/VBN on/IN solution/NN merging/NN ./.
+In/IN solution/NN merging/NN ,/, two/CD or/CC more/JJR solutions/NNS to/IN the/DT problem/NN are/VBP merged/VBN ,/, and/CC an/DT exact/JJ technique/NN is/VBZ used/VBN to/TO find/VB the/DT best/JJS solution/NN within/IN this/DT union/NN ./.
+It/PRP is/VBZ experimentally/RB shown/VBN that/IN the/DT proposed/VBN algorithm/NN outperforms/VBZ a/DT heuristic/NN from/IN the/DT literature/NN ./.

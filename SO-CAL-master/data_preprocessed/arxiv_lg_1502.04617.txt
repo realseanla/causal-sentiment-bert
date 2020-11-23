@@ -1,0 +1,5 @@
+Errors/NNS in/IN data/NNS are/VBP usually/RB unwelcome/JJ and/CC so/RB some/DT means/NNS to/TO correct/VB them/PRP is/VBZ useful/JJ ./.
+However/RB ,/, it/PRP is/VBZ difficult/JJ to/TO define/VB ,/, detect/VB or/CC correct/VB errors/NNS in/IN an/DT unsupervised/JJ way/NN ./.
+Here/RB ,/, we/PRP train/VBP a/DT deep/JJ neural/JJ network/NN to/TO re-synthesize/VB its/PRP$ inputs/NNS at/IN its/PRP$ output/NN layer/NN for/IN a/DT given/VBN class/NN of/IN data/NNS ./.
+We/PRP then/RB exploit/VBP the/DT fact/NN that/IN this/DT abstract/JJ transformation/NN ,/, which/WDT we/PRP call/VBP a/DT deep/RB transform/VBP (/-LRB- DT/NNP )/-RRB- ,/, inherently/RB rejects/VBZ information/NN (/-LRB- errors/NNS )/-RRB- existing/VBG outside/IN of/IN the/DT abstract/JJ feature/NN space/NN ./.
+Using/VBG the/DT DT/NN to/TO perform/VB probabilistic/JJ re-synthesis/NN ,/, we/PRP demonstrate/VBP the/DT recovery/NN of/IN data/NNS that/WDT has/VBZ been/VBN subject/JJ to/IN extreme/JJ degradation/NN ./.

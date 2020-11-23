@@ -1,0 +1,8 @@
+Classic/NNP machine/NN learning/NN algorithms/NNS learn/VBP from/IN labelled/VBN examples/NNS ./.
+For/IN example/NN ,/, to/TO design/VB a/DT machine/NN translation/NN system/NN ,/, a/DT typical/JJ training/NN set/NN will/MD consist/VB of/IN English/NNP sentences/NNS and/CC their/PRP$ translation/NN ./.
+There/EX is/VBZ a/DT stronger/JJR model/NN ,/, in/IN which/WDT the/DT algorithm/NN can/MD also/RB query/VB for/IN labels/NNS of/IN new/JJ examples/NNS it/PRP creates/VBZ ./.
+E.g/FW ,/, in/IN the/DT translation/NN task/NN ,/, the/DT algorithm/NN can/MD create/VB a/DT new/JJ English/NNP sentence/NN ,/, and/CC request/VBP its/PRP$ translation/NN from/IN the/DT user/NN during/IN training/NN ./.
+This/DT combination/NN of/IN examples/NNS and/CC queries/NNS has/VBZ been/VBN widely/RB studied/VBN ./.
+Yet/RB ,/, despite/IN many/JJ theoretical/JJ results/NNS ,/, query/NN algorithms/NNS are/VBP almost/RB never/RB used/VBN ./.
+One/CD of/IN the/DT main/JJ causes/NNS for/IN this/DT is/VBZ a/DT report/NN (/-LRB- Baum/NNP and/CC Lang/NNP ,/, 1992/CD )/-RRB- on/IN very/RB disappointing/JJ empirical/JJ performance/NN of/IN a/DT query/NN algorithm/NN ./.
+These/DT poor/JJ results/NNS were/VBD mainly/RB attributed/VBN to/IN the/DT fact/NN that/IN the/DT algorithm/NN queried/VBD for/IN labels/NNS of/IN examples/NNS that/WDT are/VBP artificial/JJ ,/, and/CC impossible/JJ to/TO interpret/VB by/IN humans/NNS ./.

@@ -1,0 +1,6 @@
+Adversarial/JJ neural/JJ networks/NNS solve/VB many/JJ important/JJ problems/NNS in/IN data/NNS science/NN ,/, but/CC are/VBP notoriously/RB difficult/JJ to/TO train/VB ./.
+These/DT difficulties/NNS come/VB from/IN the/DT fact/NN that/IN optimal/JJ weights/NNS for/IN adversarial/JJ nets/NNS correspond/VBP to/IN saddle/NN points/NNS ,/, and/CC not/RB minimizers/NNS ,/, of/IN the/DT loss/NN function/NN ./.
+The/DT alternating/VBG stochastic/JJ gradient/NN methods/NNS typically/RB used/VBN for/IN such/JJ problems/NNS do/VBP not/RB reliably/RB converge/VB to/TO saddle/VB points/NNS ,/, and/CC when/WRB convergence/NN does/VBZ happen/VB it/PRP is/VBZ often/RB highly/RB sensitive/JJ to/IN learning/VBG rates/NNS ./.
+We/PRP propose/VBP a/DT simple/JJ modification/NN of/IN stochastic/JJ gradient/NN descent/NN that/WDT stabilizes/VBZ adversarial/JJ networks/NNS ./.
+We/PRP show/VBP ,/, both/CC in/IN theory/NN and/CC practice/NN ,/, that/IN the/DT proposed/JJ method/NN reliably/RB converges/VBZ to/TO saddle/VB points/NNS ./.
+This/DT makes/VBZ adversarial/JJ networks/NNS less/RBR likely/JJ to/TO "/`` collapse/VB "/'' ,/, and/CC enables/VBZ faster/RBR training/VBG with/IN larger/JJR learning/NN rates/NNS ./.

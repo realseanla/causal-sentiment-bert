@@ -1,0 +1,8 @@
+Traditional/JJ topic/NN models/NNS do/VBP not/RB account/VB for/IN semantic/JJ regularities/NNS in/IN language/NN ./.
+Recent/JJ distributional/JJ representations/NNS of/IN words/NNS exhibit/VBP semantic/JJ consistency/NN over/IN directional/JJ metrics/NNS such/JJ as/IN cosine/NN similarity/NN ./.
+However/RB ,/, neither/CC categorical/JJ nor/CC Gaussian/JJ observational/JJ distributions/NNS used/VBN in/IN existing/VBG topic/NN models/NNS are/VBP appropriate/JJ to/IN leverage/NN such/JJ correlations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP to/TO use/VB the/DT von/NNP Mises/NNP -/HYPH Fisher/NNP distribution/NN to/TO model/VB the/DT density/NN of/IN words/NNS over/IN a/DT unit/NN sphere/NN ./.
+Such/PDT a/DT representation/NN is/VBZ well/RB -/HYPH suited/VBN for/IN directional/JJ data/NNS ./.
+We/PRP use/VBP a/DT Hierarchical/JJ Dirichlet/NN Process/NN for/IN our/PRP$ base/NN topic/NN model/NN and/CC propose/VB an/DT efficient/JJ inference/NN algorithm/NN based/VBN on/IN Stochastic/JJ Variational/JJ Inference/NN ./.
+This/DT model/NN enables/VBZ us/PRP to/TO naturally/RB exploit/VB the/DT semantic/JJ structures/NNS of/IN word/NN embeddings/NNS while/IN flexibly/RB discovering/VBG the/DT number/NN of/IN topics/NNS ./.
+Experiments/NNS demonstrate/VBP that/IN our/PRP$ method/NN outperforms/VBZ competitive/JJ approaches/NNS in/IN terms/NNS of/IN topic/NN coherence/NN on/IN two/CD different/JJ text/NN corpora/NN while/IN offering/VBG efficient/JJ inference/NN ./.

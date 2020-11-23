@@ -1,0 +1,4 @@
+Domain/NN adaptation/NN ,/, and/CC transfer/NN learning/VBG more/RBR generally/RB ,/, seeks/VBZ to/TO remedy/VB the/DT problem/NN created/VBN when/WRB training/NN and/CC testing/NN datasets/NNS are/VBP generated/VBN by/IN different/JJ distributions/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP introduce/VBP a/DT new/JJ unsupervised/JJ domain/NN adaptation/NN algorithm/NN for/IN when/WRB there/EX are/VBP multiple/JJ sources/NNS available/JJ to/IN a/DT learner/NN ./.
+Our/PRP$ technique/NN assigns/VBZ a/DT rough/JJ labeling/NN on/IN the/DT target/NN samples/NNS ,/, then/RB uses/VBZ it/PRP to/TO learn/VB a/DT transformation/NN that/WDT aligns/VBZ the/DT two/CD datasets/NNS before/IN final/JJ classification/NN ./.
+In/IN this/DT article/NN we/PRP give/VBP a/DT convenient/JJ implementation/NN of/IN our/PRP$ method/NN ,/, show/VBP several/JJ experiments/NNS using/VBG it/PRP ,/, and/CC compare/VB it/PRP to/IN other/JJ methods/NNS commonly/RB used/VBN in/IN the/DT field/NN ./.

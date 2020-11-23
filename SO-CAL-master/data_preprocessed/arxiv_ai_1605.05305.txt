@@ -1,0 +1,6 @@
+Game/NN tree/NN search/VB algorithms/NNS ,/, such/JJ as/IN Monte/NNP Carlo/NNP Tree/NNP Search/NNP (/-LRB- MCTS/NNP )/-RRB- ,/, require/VBP access/NN to/IN a/DT forward/JJ model/NN (/-LRB- or/CC "/`` simulator/NN "/'' )/-RRB- of/IN the/DT game/NN at/IN hand/NN ./.
+However/RB ,/, in/IN some/DT games/NNS such/JJ forward/JJ model/NN is/VBZ not/RB readily/RB available/JJ ./.
+This/DT paper/NN presents/VBZ three/CD forward/JJ models/NNS for/IN two/CD -/HYPH player/NN attrition/NN games/NNS ,/, which/WDT we/PRP call/VBP "/`` combat/NN models/NNS "/'' ,/, and/CC show/VB how/WRB they/PRP can/MD be/VB used/VBN to/TO simulate/VB combat/NN in/IN RTS/NNP games/NNS ./.
+We/PRP also/RB show/VBP how/WRB these/DT combat/NN models/NNS can/MD be/VB learned/VBN from/IN replay/NN data/NNS ./.
+We/PRP use/VBP StarCraft/NNP as/IN our/PRP$ application/NN domain/NN ./.
+We/PRP report/VBP experiments/NNS comparing/VBG our/PRP$ combat/NN models/NNS predicting/VBG a/DT combat/NN output/NN and/CC their/PRP$ impact/NN when/WRB used/VBN for/IN tactical/JJ decisions/NNS during/IN a/DT real/JJ game/NN ./.

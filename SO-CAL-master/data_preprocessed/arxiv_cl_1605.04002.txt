@@ -1,0 +1,8 @@
+We/PRP propose/VBP a/DT novel/JJ framework/NN for/IN the/DT analysis/NN of/IN learning/VBG algorithms/NNS that/WDT allows/VBZ us/PRP to/TO say/VB when/WRB such/JJ algorithms/NNS can/MD and/CC can/MD not/RB generalize/VB certain/JJ patterns/NNS from/IN training/NN data/NNS to/TO test/VB data/NNS ./.
+In/IN particular/JJ we/PRP focus/VBP on/IN situations/NNS where/WRB the/DT rule/NN that/WDT must/MD be/VB learned/VBN concerns/NNS two/CD components/NNS of/IN a/DT stimulus/NN being/VBG identical/JJ ./.
+We/PRP call/VBP such/PDT a/DT basis/NN for/IN discrimination/NN an/DT identity/NN -/HYPH based/VBN rule/NN ./.
+Identity/NN -/HYPH based/VBN rules/NNS have/VBP proven/VBN to/TO be/VB difficult/JJ or/CC impossible/JJ for/IN certain/JJ types/NNS of/IN learning/VBG algorithms/NNS to/TO acquire/VB from/IN limited/JJ datasets/NNS ./.
+This/DT is/VBZ in/IN contrast/NN to/IN human/JJ behaviour/NN on/IN similar/JJ tasks/NNS ./.
+Here/RB we/PRP provide/VBP a/DT framework/NN for/IN rigorously/RB establishing/VBG which/WDT learning/VBG algorithms/NNS will/MD fail/VB at/IN generalizing/VBG identity/NN -/HYPH based/VBN rules/NNS to/IN novel/JJ stimuli/NNS ./.
+We/PRP use/VBP this/DT framework/NN to/TO show/VB that/IN such/JJ algorithms/NNS are/VBP unable/JJ to/TO generalize/VB identity/NN -/HYPH based/VBN rules/NNS to/IN novel/JJ inputs/NNS unless/IN trained/VBN on/IN virtually/RB all/DT possible/JJ inputs/NNS ./.
+We/PRP demonstrate/VBP these/DT results/NNS computationally/RB with/IN a/DT multilayer/JJ feedforward/NN neural/JJ network/NN ./.

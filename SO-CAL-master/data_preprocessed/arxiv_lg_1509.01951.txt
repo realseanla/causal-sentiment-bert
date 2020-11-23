@@ -1,0 +1,14 @@
+Evolution/NN of/IN visual/JJ object/NN recognition/NN architectures/NNS based/VBN on/IN Convolutional/JJ Neural/JJ Networks/NNS &amp;/CC Convolutional/NNP Deep/NNP Belief/NNP Networks/NNP paradigms/NNS has/VBZ revolutionized/VBN artificial/JJ Vision/NNP Science/NNP ./.
+These/DT architectures/NNS extract/VBP &amp;/CC learn/VBP the/DT real/JJ world/NN hierarchical/JJ visual/JJ features/NNS utilizing/VBG supervised/JJ &amp;/CC unsupervised/JJ learning/NN approaches/VBZ respectively/RB ./.
+Both/CC the/DT approaches/NNS yet/RB can/MD not/RB scale/VB up/RP realistically/RB to/TO provide/VB recognition/NN for/IN a/DT very/RB large/JJ number/NN of/IN objects/NNS as/IN high/JJ as/IN 10K/NN ./.
+We/PRP propose/VBP a/DT two/CD level/NN hierarchical/JJ deep/JJ learning/NN architecture/NN inspired/VBN by/IN divide/NN &amp;/CC conquer/VB principle/NN that/WDT decomposes/VBZ the/DT large/JJ scale/NN recognition/NN architecture/NN into/IN root/NN &amp;/CC leaf/NN level/NN model/NN architectures/NNS ./.
+Each/DT of/IN the/DT root/NN &amp;/CC leaf/NN level/NN models/NNS is/VBZ trained/VBN exclusively/RB to/TO provide/VB superior/JJ results/NNS than/IN possible/JJ by/IN any/DT 1/CD -/HYPH level/NN deep/JJ learning/NN architecture/NN prevalent/JJ today/NN ./.
+The/DT proposed/VBN architecture/NN classifies/VBZ objects/NNS in/IN two/CD steps/NNS ./.
+In/IN the/DT first/JJ step/NN the/DT root/NN level/NN model/NN classifies/VBZ the/DT object/NN in/IN a/DT high/JJ level/NN category/NN ./.
+In/IN the/DT second/JJ step/NN ,/, the/DT leaf/NN level/NN recognition/NN model/NN for/IN the/DT recognized/VBN high/JJ level/NN category/NN is/VBZ selected/VBN among/IN all/PDT the/DT leaf/NN models/NNS ./.
+This/DT leaf/NN level/NN model/NN is/VBZ presented/VBN with/IN the/DT same/JJ input/NN object/NN image/NN which/WDT classifies/VBZ it/PRP in/IN a/DT specific/JJ category/NN ./.
+Also/RB we/PRP propose/VBP a/DT blend/NN of/IN leaf/NN level/NN models/NNS trained/VBN with/IN either/CC supervised/JJ or/CC unsupervised/JJ learning/NN approaches/NNS ./.
+Unsupervised/JJ learning/NN is/VBZ suitable/JJ whenever/WRB labelled/VBN data/NNS is/VBZ scarce/JJ for/IN the/DT specific/JJ leaf/NN level/NN models/NNS ./.
+Currently/RB the/DT training/NN of/IN leaf/NN level/NN models/NNS is/VBZ in/IN progress/NN ;/: where/WRB we/PRP have/VBP trained/VBN 25/CD out/IN of/IN the/DT total/JJ 47/CD leaf/NN level/NN models/NNS as/IN of/IN now/RB ./.
+We/PRP have/VBP trained/VBN the/DT leaf/NN models/NNS with/IN the/DT best/JJS case/NN top/JJ -/HYPH 5/CD error/NN rate/NN of/IN 3.2/CD percent/NN on/IN the/DT validation/NN data/NNS set/VBN for/IN the/DT particular/JJ leaf/NN models/NNS ./.
+Also/RB we/PRP demonstrate/VBP that/IN the/DT validation/NN error/NN of/IN the/DT leaf/NN level/NN models/NNS saturates/VBZ towards/IN the/DT above/JJ mentioned/VBN accuracy/NN as/IN the/DT number/NN of/IN epochs/NNS are/VBP increased/VBN to/IN more/JJR than/IN sixty/CD ./.

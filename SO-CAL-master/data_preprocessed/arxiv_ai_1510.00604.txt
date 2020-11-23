@@ -1,0 +1,7 @@
+If/IN a/DT robot/NN is/VBZ supposed/VBN to/TO roam/VB an/DT environment/NN and/CC interact/VB with/IN objects/NNS ,/, it/PRP is/VBZ often/RB necessary/JJ to/TO know/VB all/DT possible/JJ objects/NNS in/IN advance/NN ,/, so/IN that/IN a/DT database/NN with/IN models/NNS of/IN all/DT objects/NNS can/MD be/VB generated/VBN for/IN visual/JJ identification/NN ./.
+However/RB ,/, this/DT constraint/NN can/MD not/RB always/RB be/VB fulfilled/VBN ./.
+Due/IN to/IN that/DT reason/NN ,/, a/DT model/NN based/VBN object/NN recognition/NN can/MD not/RB be/VB used/VBN to/TO guide/VB the/DT robot/NN 's/POS interactions/NNS ./.
+Therefore/RB ,/, this/DT paper/NN proposes/VBZ a/DT system/NN that/WDT analyzes/VBZ features/NNS of/IN encountered/VBN objects/NNS and/CC then/RB uses/VBZ these/DT features/NNS to/TO compare/VB unknown/JJ objects/NNS to/TO already/RB known/VBN ones/NNS ./.
+From/IN the/DT resulting/VBG similarity/NN appropriate/JJ actions/NNS can/MD be/VB derived/VBN ./.
+Moreover/RB ,/, the/DT system/NN enables/VBZ the/DT robot/NN to/TO learn/VB object/NN categories/NNS by/IN grouping/NN similar/JJ objects/NNS or/CC by/IN splitting/VBG existing/VBG categories/NNS ./.
+To/TO represent/VB the/DT knowledge/NN a/DT hybrid/NN form/NN is/VBZ used/VBN ,/, consisting/VBG of/IN both/DT symbolic/JJ and/CC subsymbolic/JJ representations/NNS ./.

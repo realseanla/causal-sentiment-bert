@@ -1,0 +1,7 @@
+Most/JJS Relevant/JJ Explanation/NN (/-LRB- MRE/NN )/-RRB- is/VBZ a/DT method/NN for/IN finding/VBG multivariate/JJ explanations/NNS for/IN given/VBN evidence/NN in/IN Bayesian/JJ networks/NNS [/-LRB- 12/CD ]/-RRB- ./.
+This/DT paper/NN studies/NNS the/DT theoretical/JJ properties/NNS of/IN MRE/NN and/CC develops/VBZ an/DT algorithm/NN for/IN finding/VBG multiple/JJ top/JJ MRE/NN solutions/NNS ./.
+Our/PRP$ study/NN shows/VBZ that/IN MRE/NN relies/VBZ on/IN an/DT implicit/JJ soft/JJ relevance/NN measure/NN in/IN automatically/RB identifying/VBG the/DT most/RBS relevant/JJ target/NN variables/NNS and/CC pruning/NN less/RBR relevant/JJ variables/NNS from/IN an/DT explanation/NN ./.
+The/DT soft/JJ measure/NN also/RB enables/VBZ MRE/NN to/TO capture/VB the/DT intuitive/JJ phenomenon/NN of/IN explaining/VBG away/RB encoded/VBN in/IN Bayesian/JJ networks/NNS ./.
+Furthermore/RB ,/, our/PRP$ study/NN shows/VBZ that/IN the/DT solution/NN space/NN of/IN MRE/NN has/VBZ a/DT special/JJ lattice/NN structure/NN which/WDT yields/VBZ interesting/JJ dominance/NN relations/NNS among/IN the/DT solutions/NNS ./.
+A/DT K/NN -/HYPH MRE/NN algorithm/NN based/VBN on/IN these/DT dominance/NN relations/NNS is/VBZ developed/VBN for/IN generating/VBG a/DT set/NN of/IN top/JJ solutions/NNS that/WDT are/VBP more/RBR representative/JJ ./.
+Our/PRP$ empirical/JJ results/NNS show/VBP that/IN MRE/NN methods/NNS are/VBP promising/JJ approaches/NNS for/IN explanation/NN in/IN Bayesian/JJ networks/NNS ./.

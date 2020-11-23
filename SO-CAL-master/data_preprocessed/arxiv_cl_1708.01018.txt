@@ -1,0 +1,6 @@
+Unsupervised/JJ dependency/NN parsing/VBG ,/, which/WDT tries/VBZ to/TO discover/VB linguistic/JJ dependency/NN structures/NNS from/IN unannotated/JJ data/NNS ,/, is/VBZ a/DT very/RB challenging/JJ task/NN ./.
+Almost/RB all/DT previous/JJ work/NN on/IN this/DT task/NN focuses/VBZ on/IN learning/VBG generative/JJ models/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP develop/VBP an/DT unsupervised/JJ dependency/NN parsing/VBG model/NN based/VBN on/IN the/DT CRF/NNP autoencoder/NN ./.
+The/DT encoder/NN part/NN of/IN our/PRP$ model/NN is/VBZ discriminative/JJ and/CC globally/RB normalized/VBN which/WDT allows/VBZ us/PRP to/TO use/VB rich/JJ features/NNS as/RB well/RB as/IN universal/JJ linguistic/JJ priors/NNS ./.
+We/PRP propose/VBP an/DT exact/JJ algorithm/NN for/IN parsing/VBG as/RB well/RB as/IN a/DT tractable/JJ learning/NN algorithm/NN ./.
+We/PRP evaluated/VBD the/DT performance/NN of/IN our/PRP$ model/NN on/IN eight/CD multilingual/JJ treebanks/NNS and/CC found/VBD that/IN our/PRP$ model/NN achieved/VBD comparable/JJ performance/NN with/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS ./.

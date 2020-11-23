@@ -1,0 +1,18 @@
+The/DT size/NN and/CC complexity/NN of/IN software/NN and/CC hardware/NN systems/NNS have/VBP significantly/RB increased/VBN in/IN the/DT past/JJ years/NNS ./.
+As/IN a/DT result/NN ,/, it/PRP is/VBZ harder/JJR to/TO guarantee/VB their/PRP$ correct/JJ behavior/NN ./.
+One/CD of/IN the/DT most/RBS successful/JJ methods/NNS for/IN automated/VBN verification/NN of/IN finite/NN -/HYPH state/NN systems/NNS is/VBZ model/NN checking/VBG ./.
+Most/JJS of/IN the/DT current/JJ model/NN -/HYPH checking/VBG systems/NNS use/VBP binary/JJ decision/NN diagrams/NNS (/-LRB- BDDs/NNS )/-RRB- for/IN the/DT representation/NN of/IN the/DT tested/VBN model/NN and/CC in/IN the/DT verification/NN process/NN of/IN its/PRP$ properties/NNS ./.
+Generally/RB ,/, BDDs/NNS allow/VBP a/DT canonical/JJ compact/JJ representation/NN of/IN a/DT boolean/JJ function/NN (/-LRB- given/VBN an/DT order/NN of/IN its/PRP$ variables/NNS )/-RRB- ./.
+The/DT more/RBR compact/JJ the/DT BDD/NN is/VBZ ,/, the/DT better/JJR performance/NN one/CD gets/VBZ from/IN the/DT verifier/NN ./.
+However/RB ,/, finding/VBG an/DT optimal/JJ order/NN for/IN a/DT BDD/NN is/VBZ an/DT NP/NNP -/HYPH complete/JJ problem/NN ./.
+Therefore/RB ,/, several/JJ heuristic/NN methods/NNS based/VBN on/IN expert/JJ knowledge/NN have/VBP been/VBN developed/VBN for/IN variable/JJ ordering/NN ./.
+We/PRP propose/VBP an/DT alternative/JJ approach/NN in/IN which/WDT the/DT variable/JJ ordering/NN algorithm/NN gains/NNS '/POS ordering/NN experience/NN '/'' from/IN training/NN models/NNS and/CC uses/VBZ the/DT learned/VBN knowledge/NN for/IN finding/VBG good/JJ orders/NNS ./.
+Our/PRP$ methodology/NN is/VBZ based/VBN on/IN offline/RB learning/VBG of/IN pair/NN precedence/NN classifiers/NNS from/IN training/NN models/NNS ,/, that/DT is/VBZ ,/, learning/VBG which/WDT variable/JJ pair/NN permutation/NN is/VBZ more/RBR likely/JJ to/TO lead/VB to/IN a/DT good/JJ order/NN ./.
+For/IN each/DT training/NN model/NN ,/, a/DT number/NN of/IN training/NN sequences/NNS are/VBP evaluated/VBN ./.
+Every/DT training/NN model/NN variable/JJ pair/NN permutation/NN is/VBZ then/RB tagged/VBN based/VBN on/IN its/PRP$ performance/NN on/IN the/DT evaluated/VBN orders/NNS ./.
+The/DT tagged/VBN permutations/NNS are/VBP then/RB passed/VBN through/IN a/DT feature/NN extractor/NN and/CC are/VBP given/VBN as/IN examples/NNS to/IN a/DT classifier/NN creation/NN algorithm/NN ./.
+Given/VBN a/DT model/NN for/IN which/WDT an/DT order/NN is/VBZ requested/VBN ,/, the/DT ordering/NN algorithm/NN consults/VBZ each/DT precedence/NN classifier/NN and/CC constructs/NNS a/DT pair/NN precedence/NN table/NN which/WDT is/VBZ used/VBN to/TO create/VB the/DT order/NN ./.
+Our/PRP$ algorithm/NN was/VBD integrated/VBN with/IN SMV/NN ,/, which/WDT is/VBZ one/CD of/IN the/DT most/RBS widely/RB used/VBN verification/NN systems/NNS ./.
+Preliminary/JJ empirical/JJ evaluation/NN of/IN our/PRP$ methodology/NN ,/, using/VBG real/JJ benchmark/NN models/NNS ,/, shows/VBZ performance/NN that/WDT is/VBZ better/JJR than/IN random/JJ ordering/NN and/CC is/VBZ competitive/JJ with/IN existing/VBG algorithms/NNS that/WDT use/VBP expert/JJ knowledge/NN ./.
+We/PRP believe/VBP that/IN in/IN sub-domains/NNS of/IN models/NNS (/-LRB- alu/NN ,/, caches/NNS ,/, etc./FW )/-RRB- our/PRP$ system/NN will/MD prove/VB even/RB more/RBR valuable/JJ ./.
+This/DT is/VBZ because/IN it/PRP features/VBZ the/DT ability/NN to/TO learn/VB sub-domain/JJ knowledge/NN ,/, something/NN that/WDT no/DT other/JJ ordering/VBG algorithm/NN does/VBZ ./.

@@ -1,0 +1,7 @@
+Structural/JJ kernels/NNS are/VBP a/DT flexible/JJ learning/NN paradigm/NN that/WDT has/VBZ been/VBN widely/RB used/VBN in/IN Natural/NNP Language/NNP Processing/NNP ./.
+However/RB ,/, the/DT problem/NN of/IN model/NN selection/NN in/IN kernel/NN -/HYPH based/VBN methods/NNS is/VBZ usually/RB overlooked/VBN ./.
+Previous/JJ approaches/NNS mostly/RB rely/VBP on/IN setting/VBG default/NN values/NNS for/IN kernel/NN hyperparameters/NNS or/CC using/VBG grid/NN search/NN ,/, which/WDT is/VBZ slow/JJ and/CC coarse/JJ -/HYPH grained/NN ./.
+In/IN contrast/NN ,/, Bayesian/JJ methods/NNS allow/VBP efficient/JJ model/NN selection/NN by/IN maximizing/VBG the/DT evidence/NN on/IN the/DT training/NN data/NNS through/IN gradient/NN -/HYPH based/VBN methods/NNS ./.
+In/IN this/DT paper/NN we/PRP show/VBP how/WRB to/TO perform/VB this/DT in/IN the/DT context/NN of/IN structural/JJ kernels/NNS by/IN using/VBG Gaussian/JJ Processes/NNS ./.
+Experimental/JJ results/NNS on/IN tree/NN kernels/NNS show/VBP that/IN this/DT procedure/NN results/VBZ in/IN better/JJR prediction/NN performance/NN compared/VBN to/IN hyperparameter/NN optimization/NN via/IN grid/NN search/NN ./.
+The/DT framework/NN proposed/VBN in/IN this/DT paper/NN can/MD be/VB adapted/VBN to/IN other/JJ structures/NNS besides/IN trees/NNS ,/, e.g./FW ,/, strings/NNS and/CC graphs/NNS ,/, thereby/RB extending/VBG the/DT utility/NN of/IN kernel/NN -/HYPH based/VBN methods/NNS ./.

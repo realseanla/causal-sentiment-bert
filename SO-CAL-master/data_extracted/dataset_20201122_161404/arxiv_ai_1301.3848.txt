@@ -1,0 +1,6 @@
+We have recently introduced an any-space algorithm for exact inference in Bayesian networks, called Recursive Conditioning, RC, which allows one to trade space with time at increments of X-bytes, where X is the number of bytes needed to cache a floating point number.
+In this paper, we present three key extensions of RC.
+First, we modify the algorithm so it applies to more general factorization of probability distributions, including (but not limited to) Bayesian network factorizations.
+Second, we present a forgetting mechanism which reduces the space requirements of RC considerably and then compare such requirmenets with those of variable elimination on a number of realistic networks, showing orders of magnitude improvements in certain cases.
+Third, we present a version of RC for computing maximum a posteriori hypotheses (MAP), which turns out to be the first MAP algorithm allowing a smooth time-space tradeoff.
+A key advantage of presented MAP algorithm is that it does not have to start from scratch each time a new query is presented, but can reuse some of its computations across multiple queries, leading to significant savings in ceratain cases.

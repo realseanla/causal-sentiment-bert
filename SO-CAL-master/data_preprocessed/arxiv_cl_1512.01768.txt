@@ -1,0 +1,11 @@
+Questions/NNS form/VBP an/DT integral/JJ part/NN of/IN our/PRP$ everyday/JJ communication/NN ,/, both/CC offline/RB and/CC online/RB ./.
+Getting/VBG responses/NNS to/IN our/PRP$ questions/NNS from/IN others/NNS is/VBZ fundamental/JJ to/IN satisfying/VBG our/PRP$ information/NN need/NN and/CC in/IN extending/VBG our/PRP$ knowledge/NN boundaries/NNS ./.
+A/DT question/NN may/MD be/VB represented/VBN using/VBG various/JJ factors/NNS such/JJ as/IN social/JJ ,/, syntactic/JJ ,/, semantic/JJ ,/, etc/FW ./.
+We/PRP hypothesize/VBP that/IN these/DT factors/NNS contribute/VBP with/IN varying/VBG degrees/NNS towards/IN getting/VBG responses/NNS from/IN others/NNS for/IN a/DT given/VBN question/NN ./.
+We/PRP perform/VBP a/DT thorough/JJ empirical/JJ study/NN to/TO measure/VB effects/NNS of/IN these/DT factors/NNS using/VBG a/DT novel/JJ question/NN and/CC answer/NN dataset/NN from/IN the/DT website/NN Reddit.com/NN ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ such/JJ analysis/NN of/IN its/PRP$ kind/NN on/IN this/DT important/JJ topic/NN ./.
+We/PRP also/RB use/VBP a/DT sparse/JJ nonnegative/JJ matrix/NN factorization/NN technique/NN to/TO automatically/RB induce/VB interpretable/JJ semantic/JJ factors/NNS from/IN the/DT question/NN dataset/NN ./.
+We/PRP also/RB document/VBP various/JJ patterns/NNS on/IN response/NN prediction/NN we/PRP observe/VBP during/IN our/PRP$ analysis/NN in/IN the/DT data/NNS ./.
+For/IN instance/NN ,/, we/PRP found/VBD that/IN preference/NN -/HYPH probing/VBG questions/NNS are/VBP scantily/RB answered/VBN ./.
+Our/PRP$ method/NN is/VBZ robust/JJ to/TO capture/VB such/JJ latent/JJ response/NN factors/NNS ./.
+We/PRP hope/VBP to/TO make/VB our/PRP$ code/NN and/CC datasets/NNS publicly/RB available/JJ upon/IN publication/NN of/IN the/DT paper/NN ./.

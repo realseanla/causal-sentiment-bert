@@ -1,0 +1,10 @@
+Use/NNP of/IN social/JJ media/NNS has/VBZ grown/VBN dramatically/RB during/IN the/DT last/JJ few/JJ years/NNS ./.
+Users/NNS follow/VBP informal/JJ languages/NNS in/IN communicating/VBG through/IN social/JJ media/NNS ./.
+The/DT language/NN of/IN communication/NN is/VBZ often/RB mixed/VBN in/IN nature/NN ,/, where/WRB people/NNS transcribe/VBP their/PRP$ regional/JJ language/NN with/IN English/NNP and/CC this/DT technique/NN is/VBZ found/VBN to/TO be/VB extremely/RB popular/JJ ./.
+Natural/JJ language/NN processing/NN (/-LRB- NLP/NN )/-RRB- aims/VBZ to/TO infer/VB the/DT information/NN from/IN these/DT text/NN where/WRB Part/NN -/HYPH of/IN -/HYPH Speech/NNP (/-LRB- PoS/NNP )/-RRB- tagging/VBG plays/VBZ an/DT important/JJ role/NN in/IN getting/VBG the/DT prosody/NN of/IN the/DT written/VBN text/NN ./.
+For/IN the/DT task/NN of/IN PoS/NN tagging/VBG on/IN Code/NN -/HYPH Mixed/JJ Indian/JJ Social/JJ Media/NNS Text/VBP ,/, we/PRP develop/VBP a/DT supervised/JJ system/NN based/VBN on/IN Conditional/JJ Random/NNP Field/NNP classifier/NN ./.
+In/IN order/NN to/TO tackle/VB the/DT problem/NN effectively/RB ,/, we/PRP have/VBP focused/VBN on/IN extracting/VBG rich/JJ linguistic/JJ features/NNS ./.
+We/PRP participate/VBP in/IN three/CD different/JJ language/NN pairs/NNS ,/, ie/FW ./.
+English/NNP -/HYPH Hindi/NNP ,/, English/NNP -/HYPH Bengali/NNP and/CC English/NNP -/HYPH Telugu/NNP on/IN three/CD different/JJ social/JJ media/NNS platforms/NNS ,/, Twitter/NNP ,/, Facebook/NNP &amp;/CC WhatsApp/NNP ./.
+The/DT proposed/VBN system/NN is/VBZ able/JJ to/TO successfully/RB assign/VB coarse/JJ as/RB well/RB as/IN fine/JJ -/HYPH grained/JJ PoS/NN tag/NN labels/NNS for/IN a/DT given/VBN a/DT code/NN -/HYPH mixed/JJ sentence/NN ./.
+Experiments/NNS show/VBP that/IN our/PRP$ system/NN is/VBZ quite/RB generic/JJ that/IN shows/NNS encouraging/VBG performance/NN levels/NNS on/IN all/PDT the/DT three/CD language/NN pairs/NNS in/IN all/PDT the/DT domains/NNS ./.

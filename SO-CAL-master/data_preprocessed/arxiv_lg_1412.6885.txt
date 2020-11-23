@@ -1,0 +1,9 @@
+The/DT Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- has/VBZ achieved/VBN great/JJ success/NN in/IN image/NN classification/NN ./.
+The/DT classification/NN model/NN can/MD also/RB be/VB utilized/VBN at/IN image/NN or/CC patch/NN level/NN for/IN many/JJ other/JJ applications/NNS ,/, such/JJ as/IN object/NN detection/NN and/CC segmentation/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT whole/JJ -/HYPH image/NN CNN/NNP regression/NN model/NN ,/, by/IN removing/VBG the/DT full/JJ connection/NN layer/NN and/CC training/VBG the/DT network/NN with/IN continuous/JJ feature/NN maps/NNS ./.
+This/DT is/VBZ a/DT generic/JJ regression/NN framework/NN that/WDT fits/VBZ many/JJ applications/NNS ./.
+We/PRP demonstrate/VBP this/DT method/NN through/IN two/CD tasks/NNS :/: simultaneous/JJ face/NN detection/NN &amp;/CC segmentation/NN ,/, and/CC scene/NN saliency/NN prediction/NN ./.
+The/DT result/NN is/VBZ comparable/JJ with/IN other/JJ models/NNS in/IN the/DT respective/JJ fields/NNS ,/, using/VBG only/RB a/DT small/JJ scale/NN network/NN ./.
+Since/IN the/DT regression/NN model/NN is/VBZ trained/VBN on/IN corresponding/VBG image/NN //HYPH feature/NN map/NN pairs/NNS ,/, there/EX are/VBP no/DT requirements/NNS on/IN uniform/JJ input/NN size/NN as/IN opposed/VBN to/IN the/DT classification/NN model/NN ./.
+Our/PRP$ framework/NN avoids/VBZ classifier/NN design/NN ,/, a/DT process/NN that/WDT may/MD introduce/VB too/RB much/JJ manual/NN intervention/NN in/IN model/NN development/NN ./.
+Yet/RB ,/, it/PRP is/VBZ highly/RB correlated/VBN to/IN the/DT classification/NN network/NN and/CC offers/VBZ some/DT in/IN -/HYPH deep/JJ review/NN of/IN CNN/NNP structures/NNS ./.

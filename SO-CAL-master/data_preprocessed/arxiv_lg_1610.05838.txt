@@ -1,0 +1,15 @@
+Matrix/NN factorization/NN (/-LRB- MF/NN )/-RRB- has/VBZ been/VBN widely/RB used/VBN in/IN e.g./FW ,/, recommender/NN systems/NNS ,/, topic/NN modeling/NN and/CC word/NN embedding/NN ./.
+Stochastic/JJ gradient/NN descent/NN (/-LRB- SGD/NNP )/-RRB- is/VBZ popular/JJ in/IN solving/VBG MF/NN problems/NNS because/IN it/PRP can/MD deal/VB with/IN large/JJ data/NNS sets/NNS and/CC is/VBZ easy/JJ to/TO do/VB incremental/JJ learning/NN ./.
+We/PRP observed/VBD that/IN SGD/NNP for/IN MF/NNP is/VBZ memory/NN bound/VBN ./.
+Meanwhile/RB ,/, single/JJ -/HYPH node/NN CPU/NN systems/NNS with/IN caching/NN performs/VBZ well/RB only/RB for/IN small/JJ data/NNS sets/NNS ;/: distributed/VBN systems/NNS have/VBP higher/JJR aggregated/JJ memory/NN bandwidth/NN but/CC suffer/VB from/IN relatively/RB slow/JJ network/NN connection/NN ./.
+This/DT observation/NN inspires/VBZ us/PRP to/TO accelerate/VB MF/NN by/IN utilizing/VBG GPUs/NNS 's/POS high/JJ memory/NN bandwidth/NN and/CC fast/JJ intra-node/JJ connection/NN ./.
+We/PRP present/VBP cuMF_SGD/NNP ,/, a/DT CUDA/NNP -/HYPH based/VBN SGD/NNP solution/NN for/IN large/JJ -/HYPH scale/NN MF/NN problems/NNS ./.
+On/IN a/DT single/JJ CPU/NN ,/, we/PRP design/VBP two/CD workload/NN schedule/NN schemes/NNS ,/, i.e./FW ,/, batch/NN -/HYPH Hogwild/NN !/.
+and/CC wavefront/NN -/HYPH update/NN that/WDT fully/RB exploit/VBP the/DT massive/JJ amount/NN of/IN cores/NNS ./.
+Especially/RB ,/, batch/NN -/HYPH Hogwild/NN !/.
+as/IN a/DT vectorized/VBN version/NN of/IN Hogwild/NNP !/.
+overcomes/VBZ the/DT issue/NN of/IN memory/NN discontinuity/NN ./.
+We/PRP also/RB develop/VBP highly/RB -/HYPH optimized/VBN kernels/NNS for/IN SGD/NNP update/NN ,/, leveraging/VBG cache/NN ,/, warp/NN -/HYPH shuffle/NN instructions/NNS and/CC half/NN -/HYPH precision/NN floats/NNS ./.
+We/PRP also/RB design/VB a/DT partition/NN scheme/NN to/TO utilize/VB multiple/JJ GPUs/NNS while/IN addressing/VBG the/DT well/RB -/HYPH known/VBN convergence/NN issue/NN when/WRB parallelizing/VBG SGD/NNP ./.
+On/IN three/CD data/NNS sets/VBZ with/IN only/RB one/CD Maxwell/NNP or/CC Pascal/NNP GPU/NNP ,/, cuMF_SGD/NNP runs/VBZ 3.1X/NN -/HYPH 28.2/CD X/NN as/IN fast/JJ compared/VBN with/IN state/NN -/HYPH of/IN -/HYPH art/NN CPU/NN solutions/NNS on/IN 1/CD -/HYPH 64/CD CPU/NN nodes/NNS ./.
+Evaluations/NNS also/RB show/VBP that/IN cuMF_SGD/NN scales/NNS well/RB on/IN multiple/JJ GPUs/NNS in/IN large/JJ data/NNS sets/NNS ./.

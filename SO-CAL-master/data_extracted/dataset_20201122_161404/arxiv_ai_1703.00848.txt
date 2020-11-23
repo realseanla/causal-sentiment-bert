@@ -1,0 +1,8 @@
+Most of the existing image-to-image translation frameworks---mapping an image in one domain to a corresponding image in another---are based on supervised learning, i.e., pairs of corresponding images in two domains are required for learning the translation function.
+This largely limits their applications, because capturing corresponding images in two different domains is often a difficult task.
+To address the issue, we propose the UNsupervised Image-to-image Translation (UNIT) framework, which is based on variational autoencoders and generative adversarial networks.
+The proposed framework can learn the translation function without any corresponding images in two domains.
+We enable this learning capability by combining a weight-sharing constraint and an adversarial training objective.
+Through visualization results from various unsupervised image translation tasks, we verify the effectiveness of the proposed framework.
+An ablation study further reveals the critical design choices.
+Moreover, we apply the UNIT framework to the unsupervised domain adaptation task and achieve better results than competing algorithms do in benchmark datasets.

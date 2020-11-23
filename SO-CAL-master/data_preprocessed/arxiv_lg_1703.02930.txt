@@ -1,0 +1,6 @@
+We/PRP prove/VBP new/JJ upper/JJ and/CC lower/JJR bounds/NNS on/IN the/DT VC/NNP -/HYPH dimension/NN of/IN deep/JJ neural/JJ networks/NNS with/IN the/DT ReLU/NN activation/NN function/NN ./.
+These/DT bounds/NNS are/VBP tight/JJ for/IN almost/RB the/DT entire/JJ range/NN of/IN parameters/NNS ./.
+Letting/VBG $/$ W$/CD be/VB the/DT number/NN of/IN weights/NNS and/CC $/$ L$/CD be/VB the/DT number/NN of/IN layers/NNS ,/, we/PRP prove/VBP that/IN the/DT VC/NNP -/HYPH dimension/NN is/VBZ $/$ O/UH (/-LRB- W/NNP L/NNP \/SYM log/NN (/-LRB- W/NN )/-RRB- )/-RRB- $/$ and/CC $/$ \/CD Omega/NN (/-LRB- W/NN L/NN \/SYM log/NN (/-LRB- W/NN //SYM L/NN )/-RRB- )/-RRB- $/$ ./.
+This/DT improves/VBZ both/CC the/DT previously/RB known/VBN upper/JJ bounds/NNS and/CC lower/JJR bounds/NNS ./.
+In/IN terms/NNS of/IN the/DT number/NN $/$ U$/NNP of/IN non-linear/JJ units/NNS ,/, we/PRP prove/VBP a/DT tight/JJ bound/JJ $/$ \/SYM Theta/NNP (/-LRB- W/NNP U/NNP )/-RRB- $/$ on/IN the/DT VC/NNP -/HYPH dimension/NN ./.
+All/DT of/IN these/DT results/NNS generalize/VB to/IN arbitrary/JJ piecewise/JJ linear/JJ activation/NN functions/NNS ./.

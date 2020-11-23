@@ -1,0 +1,6 @@
+This/DT paper/NN emphasizes/VBZ the/DT significance/NN to/TO jointly/RB exploit/VB the/DT problem/NN structure/NN and/CC the/DT parameter/NN structure/NN ,/, in/IN the/DT context/NN of/IN deep/JJ modeling/NN ./.
+As/IN a/DT specific/JJ and/CC interesting/JJ example/NN ,/, we/PRP describe/VBP the/DT deep/JJ double/JJ sparsity/NN encoder/NN (/-LRB- DDSE/NN )/-RRB- ,/, which/WDT is/VBZ inspired/VBN by/IN the/DT double/JJ sparsity/NN model/NN for/IN dictionary/NN learning/NN ./.
+DDSE/NNP simultaneously/RB sparsities/VBZ the/DT output/NN features/NNS and/CC the/DT learned/VBN model/NN parameters/NNS ,/, under/IN one/CD unified/VBN framework/NN ./.
+In/IN addition/NN to/IN its/PRP$ intuitive/JJ model/NN interpretation/NN ,/, DDSE/NNP also/RB possesses/VBZ compact/JJ model/NN size/NN and/CC low/JJ complexity/NN ./.
+Extensive/JJ simulations/NNS compare/VBP DDSE/NNP with/IN several/JJ carefully/RB -/HYPH designed/VBN baselines/NNS ,/, and/CC verify/VB the/DT consistently/RB superior/JJ performance/NN of/IN DDSE/NNP ./.
+We/PRP further/RB apply/VBP DDSE/NN to/IN the/DT novel/JJ application/NN domain/NN of/IN brain/NN encoding/NN ,/, with/IN promising/JJ preliminary/JJ results/NNS achieved/VBN ./.

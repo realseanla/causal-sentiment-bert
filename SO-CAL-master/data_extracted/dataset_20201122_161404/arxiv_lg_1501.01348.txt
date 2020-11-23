@@ -1,0 +1,5 @@
+High-content screening uses large collections of unlabeled cell image data to reason about genetics or cell biology.
+Two important tasks are to identify those cells which bear interesting phenotypes, and to identify sub-populations enriched for these phenotypes.
+This exploratory data analysis usually involves dimensionality reduction followed by clustering, in the hope that clusters represent a phenotype.
+We propose the use of stacked de-noising auto-encoders to perform dimensionality reduction for high-content screening.
+We demonstrate the superior performance of our approach over PCA, Local Linear Embedding, Kernel PCA and Isomap.

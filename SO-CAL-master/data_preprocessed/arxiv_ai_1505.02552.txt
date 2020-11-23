@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT relations/NNS between/IN Multi-valued/VBN Decision/NN Diagrams/NNS (/-LRB- MDD/NNP )/-RRB- and/CC tuples/NNS (/-LRB- i.e./FW elements/NNS of/IN the/DT Cartesian/JJ Product/NN of/IN variables/NNS )/-RRB- ./.
+First/RB ,/, we/PRP improve/VBP the/DT existing/VBG methods/NNS for/IN transforming/VBG a/DT set/NN of/IN tuples/NNS ,/, Global/JJ Cut/NN Seeds/NNS ,/, sequences/NNS of/IN tuples/NNS into/IN MDDs/NNS ./.
+Then/RB ,/, we/PRP present/VBP some/DT in/IN -/HYPH place/NN algorithms/NNS for/IN adding/VBG and/CC deleting/VBG tuples/NNS from/IN an/DT MDD/NNP ./.
+Next/RB ,/, we/PRP consider/VBP an/DT MDD/NNP constraint/NN which/WDT is/VBZ modified/VBN during/IN the/DT search/NN by/IN deleting/VBG some/DT tuples/NNS ./.
+We/PRP give/VBP an/DT algorithm/NN which/WDT adapts/VBZ MDD/NN -/HYPH 4R/NN to/IN these/DT dynamic/JJ and/CC persistent/JJ modifications/NNS ./.
+Some/DT experiments/NNS show/VBP that/IN MDD/NNP constraints/NNS are/VBP competitive/JJ with/IN Table/NN constraints/NNS ./.

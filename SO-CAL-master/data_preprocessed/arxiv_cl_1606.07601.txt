@@ -1,0 +1,8 @@
+Word/NN embedding/NN has/VBZ been/VBN shown/VBN to/TO be/VB remarkably/RB effective/JJ in/IN a/DT lot/NN of/IN Natural/NNP Language/NNP Processing/NNP tasks/NNS ./.
+However/RB ,/, existing/VBG models/NNS still/RB have/VBP a/DT couple/NN of/IN limitations/NNS in/IN interpreting/VBG the/DT dimensions/NNS of/IN word/NN vector/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP provide/VBP a/DT new/JJ approach/NN ---/, roots/NNS and/CC affixes/VBZ model/NN (/-LRB- RAAM/NNP )/-RRB- ---/, to/TO interpret/VB it/PRP from/IN the/DT intrinsic/JJ structures/NNS of/IN natural/JJ language/NN ./.
+Also/RB it/PRP can/MD be/VB used/VBN as/IN an/DT evaluation/NN measure/NN of/IN the/DT quality/NN of/IN word/NN embedding/NN ./.
+We/PRP introduce/VBP the/DT information/NN entropy/NN into/IN our/PRP$ model/NN and/CC divide/VBP the/DT dimensions/NNS into/IN two/CD categories/NNS ,/, just/RB like/IN roots/NNS and/CC affixes/VBZ in/IN lexical/JJ semantics/NNS ./.
+Then/RB considering/VBG each/DT category/NN as/IN a/DT whole/JJ rather/RB than/IN individually/RB ./.
+We/PRP experimented/VBD with/IN English/NNP Wikipedia/NNP corpus/NN ./.
+Our/PRP$ result/NN show/NN that/IN there/EX is/VBZ a/DT negative/JJ linear/JJ relation/NN between/IN the/DT two/CD attributes/NNS and/CC a/DT high/JJ positive/JJ correlation/NN between/IN our/PRP$ model/NN and/CC downstream/JJ semantic/JJ evaluation/NN tasks/NNS ./.

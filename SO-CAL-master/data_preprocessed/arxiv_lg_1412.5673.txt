@@ -1,0 +1,7 @@
+Discourse/NN relations/NNS bind/VBP smaller/JJR linguistic/JJ elements/NNS into/IN coherent/JJ texts/NNS ./.
+However/RB ,/, automatically/RB identifying/VBG discourse/NN relations/NNS is/VBZ difficult/JJ ,/, because/IN it/PRP requires/VBZ understanding/VBG the/DT semantics/NNS of/IN the/DT linked/VBN sentences/NNS ./.
+A/DT more/RBR subtle/JJ challenge/NN is/VBZ that/IN it/PRP is/VBZ not/RB enough/JJ to/TO represent/VB the/DT meaning/NN of/IN each/DT sentence/NN of/IN a/DT discourse/NN relation/NN ,/, because/IN the/DT relation/NN may/MD depend/VB on/IN links/NNS between/IN lower/JJR -/HYPH level/NN elements/NNS ,/, such/JJ as/IN entity/NN mentions/VBZ ./.
+Our/PRP$ solution/NN computes/VBZ distributional/JJ meaning/NN representations/NNS by/IN composition/NN up/IN the/DT syntactic/JJ parse/VB tree/NN ./.
+A/DT key/JJ difference/NN from/IN previous/JJ work/NN on/IN compositional/JJ distributional/JJ semantics/NNS is/VBZ that/IN we/PRP also/RB compute/VB representations/NNS for/IN entity/NN mentions/VBZ ,/, using/VBG a/DT novel/JJ downward/JJ compositional/JJ pass/NN ./.
+Discourse/NN relations/NNS are/VBP predicted/VBN not/RB only/RB from/IN the/DT distributional/JJ representations/NNS of/IN the/DT sentences/NNS ,/, but/CC also/RB of/IN their/PRP$ coreferent/JJ entity/NN mentions/VBZ ./.
+The/DT resulting/VBG system/NN obtains/VBZ substantial/JJ improvements/NNS over/IN the/DT previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN in/IN predicting/VBG implicit/JJ discourse/NN relations/NNS in/IN the/DT Penn/NNP Discourse/NN Treebank/NNP ./.

@@ -1,0 +1,8 @@
+Many/JJ different/JJ approaches/NNS for/IN solving/VBG Constraint/NN Satisfaction/NN Problems/NNS (/-LRB- CSPs/NNS )/-RRB- and/CC related/VBN Constraint/NN Optimization/NN Problems/NNS (/-LRB- COPs/NNS )/-RRB- exist/VBP ./.
+However/RB ,/, there/EX is/VBZ no/DT single/JJ solver/NN (/-LRB- nor/CC approach/NN )/-RRB- that/WDT performs/VBZ well/RB on/IN all/DT classes/NNS of/IN problems/NNS and/CC many/JJ portfolio/NN approaches/VBZ for/IN selecting/VBG a/DT suitable/JJ solver/NN based/VBN on/IN simple/JJ syntactic/JJ features/NNS of/IN the/DT input/NN CSP/NNP instance/NN have/VBP been/VBN developed/VBN ./.
+In/IN this/DT paper/NN we/PRP first/RB present/VBP a/DT simple/JJ portfolio/NN method/NN for/IN CSP/NNP based/VBN on/IN k/CD -/HYPH nearest/JJS neighbors/NNS method/NN ./.
+Then/RB ,/, we/PRP propose/VBP a/DT new/JJ way/NN of/IN using/VBG portfolio/NN systems/NNS ---/: training/VBG them/PRP shortly/RB in/IN the/DT exploitation/NN time/NN ,/, specifically/RB for/IN the/DT set/NN of/IN instances/NNS to/TO be/VB solved/VBN and/CC using/VBG them/PRP on/IN that/DT set/NN ./.
+Thorough/JJ evaluation/NN has/VBZ been/VBN performed/VBN and/CC has/VBZ shown/VBN that/IN the/DT approach/NN yields/VBZ good/JJ results/NNS ./.
+We/PRP evaluated/VBD several/JJ machine/NN learning/NN techniques/NNS for/IN our/PRP$ portfolio/NN ./.
+Due/IN to/IN its/PRP$ simplicity/NN and/CC efficiency/NN ,/, the/DT selected/VBN k/CD -/HYPH nearest/JJS neighbors/NNS method/NN is/VBZ especially/RB suited/JJ for/IN our/PRP$ short/JJ training/NN approach/NN and/CC it/PRP also/RB yields/VBZ the/DT best/JJS results/NNS among/IN the/DT tested/VBN methods/NNS ./.
+We/PRP also/RB confirm/VBP that/IN our/PRP$ approach/NN yields/VBZ good/JJ results/NNS on/IN SAT/NN domain/NN ./.

@@ -1,0 +1,3 @@
+The/DT aim/NN of/IN the/DT k/NN -/HYPH means/NN is/VBZ to/TO minimize/VB squared/JJ sum/NN of/IN Euclidean/JJ distance/NN from/IN the/DT mean/NN (/-LRB- SSEDM/NN )/-RRB- of/IN each/DT cluster/NN ./.
+The/DT k/NN -/HYPH means/NNS can/MD effectively/RB optimize/VB this/DT function/NN ,/, but/CC it/PRP is/VBZ too/RB sensitive/JJ for/IN initial/JJ centers/NNS (/-LRB- seeds/NNS )/-RRB- ./.
+This/DT paper/NN proposed/VBD a/DT method/NN for/IN initialization/NN of/IN the/DT k/NN -/HYPH means/NNS using/VBG the/DT concept/NN of/IN useful/JJ nearest/JJS center/NN for/IN each/DT data/NN point/NN ./.

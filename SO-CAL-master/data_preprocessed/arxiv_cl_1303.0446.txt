@@ -1,0 +1,9 @@
+The/DT classification/NN of/IN opinion/NN texts/NNS in/IN positive/JJ and/CC negative/JJ is/VBZ becoming/VBG a/DT subject/NN of/IN great/JJ interest/NN in/IN sentiment/NN analysis/NN ./.
+The/DT existence/NN of/IN many/JJ labeled/VBN opinions/NNS motivates/VBZ the/DT use/NN of/IN statistical/JJ and/CC machine/NN -/HYPH learning/NN methods/NNS ./.
+First/RB -/HYPH order/NN statistics/NNS have/VBP proven/VBN to/TO be/VB very/RB limited/JJ in/IN this/DT field/NN ./.
+The/DT Opinum/NNP approach/NN is/VBZ based/VBN on/IN the/DT order/NN of/IN the/DT words/NNS without/IN using/VBG any/DT syntactic/JJ and/CC semantic/JJ information/NN ./.
+It/PRP consists/VBZ of/IN building/VBG one/CD probabilistic/JJ model/NN for/IN the/DT positive/JJ and/CC another/DT one/NN for/IN the/DT negative/JJ opinions/NNS ./.
+Then/RB the/DT test/NN opinions/NNS are/VBP compared/VBN to/IN both/DT models/NNS and/CC a/DT decision/NN and/CC confidence/NN measure/NN are/VBP calculated/VBN ./.
+In/IN order/NN to/TO reduce/VB the/DT complexity/NN of/IN the/DT training/NN corpus/NN we/PRP first/RB lemmatize/VBP the/DT texts/NNS and/CC we/PRP replace/VBP most/RBS named/VBN -/HYPH entities/NNS with/IN wildcards/NNS ./.
+Opinum/NNP presents/VBZ an/DT accuracy/NN above/IN 81/CD percent/NN for/IN Spanish/JJ opinions/NNS in/IN the/DT financial/JJ products/NNS domain/NN ./.
+In/IN this/DT work/NN we/PRP discuss/VBP which/WDT are/VBP the/DT most/RBS important/JJ factors/NNS that/WDT have/VBP impact/NN on/IN the/DT classification/NN performance/NN ./.

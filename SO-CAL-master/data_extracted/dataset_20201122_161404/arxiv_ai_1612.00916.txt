@@ -1,0 +1,3 @@
+We show that the Bellman operator underlying the options framework leads to a matrix splitting, an approach traditionally used to speed up convergence of iterative solvers for large linear systems of equations.
+Based on standard comparison theo- rems for matrix splittings, we then show how the asymptotic rate of convergence varies as a function of the inherent timescales of the options.
+This new perspective highlights a trade-off between asymptotic performance and the cost of computation associated with building a good set of options.

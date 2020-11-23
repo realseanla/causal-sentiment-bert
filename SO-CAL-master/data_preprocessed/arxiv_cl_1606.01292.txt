@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT neural/JJ conversation/NN model/NN for/IN conducting/VBG dialogues/NNS ./.
+We/PRP demonstrate/VBP the/DT use/NN of/IN this/DT model/NN to/TO generate/VB help/NN desk/NN responses/NNS ,/, where/WRB users/NNS are/VBP asking/VBG questions/NNS about/IN PC/NN applications/NNS ./.
+Our/PRP$ model/NN is/VBZ distinguished/VBN by/IN two/CD characteristics/NNS ./.
+First/RB ,/, it/PRP models/NNS intention/NN across/IN turns/NNS with/IN a/DT recurrent/JJ network/NN ,/, and/CC incorporates/VBZ an/DT attention/NN model/NN that/WDT is/VBZ conditioned/VBN on/IN the/DT representation/NN of/IN intention/NN ./.
+Secondly/RB ,/, it/PRP avoids/VBZ generating/VBG non-specific/JJ responses/NNS by/IN incorporating/VBG an/DT IDF/NNP term/NN in/IN the/DT objective/JJ function/NN ./.
+The/DT model/NN is/VBZ evaluated/VBN both/DT as/IN a/DT pure/JJ generation/NN model/NN in/IN which/WDT a/DT help/NN -/HYPH desk/NN response/NN is/VBZ generated/VBN from/IN scratch/NN ,/, and/CC as/IN a/DT retrieval/NN model/NN with/IN performance/NN measured/VBN using/VBG recall/NN rates/NNS of/IN the/DT correct/JJ response/NN ./.
+Experimental/JJ results/NNS indicate/VBP that/IN the/DT model/NN outperforms/VBZ previously/RB proposed/VBN neural/JJ conversation/NN architectures/NNS ,/, and/CC that/IN using/VBG specificity/NN in/IN the/DT objective/JJ function/NN significantly/RB improves/VBZ performances/NNS for/IN both/DT generation/NN and/CC retrieval/NN ./.

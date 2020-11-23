@@ -1,0 +1,6 @@
+We/PRP consider/VBP a/DT scheduling/NN problem/NN where/WRB a/DT cloud/NN service/NN provider/NN has/VBZ multiple/JJ units/NNS of/IN a/DT resource/NN available/JJ over/IN time/NN ./.
+Selfish/JJ clients/NNS submit/VBP jobs/NNS ,/, each/DT with/IN an/DT arrival/NN time/NN ,/, deadline/NN ,/, length/NN ,/, and/CC value/NN ./.
+The/DT service/NN provider/NN 's/POS goal/NN is/VBZ to/TO implement/VB a/DT truthful/JJ online/JJ mechanism/NN for/IN scheduling/NN jobs/NNS so/RB as/IN to/TO maximize/VB the/DT social/JJ welfare/NN of/IN the/DT schedule/NN ./.
+Recent/JJ work/NN shows/VBZ that/IN under/IN a/DT stochastic/JJ assumption/NN on/IN job/NN arrivals/NNS ,/, there/EX is/VBZ a/DT single/JJ -/HYPH parameter/NN family/NN of/IN mechanisms/NNS that/WDT achieves/VBZ near/IN -/HYPH optimal/JJ social/JJ welfare/NN ./.
+We/PRP show/VBP that/IN given/VBN any/DT such/JJ family/NN of/IN near/JJ -/HYPH optimal/JJ online/JJ mechanisms/NNS ,/, there/RB exists/VBZ an/DT online/JJ mechanism/NN that/WDT in/IN the/DT worst/JJS case/NN performs/VBZ nearly/RB as/RB well/RB as/IN the/DT best/JJS of/IN the/DT given/VBN mechanisms/NNS ./.
+Our/PRP$ mechanism/NN is/VBZ truthful/JJ whenever/WRB the/DT mechanisms/NNS in/IN the/DT given/VBN family/NN are/VBP truthful/JJ and/CC prompt/JJ ,/, and/CC achieves/VBZ optimal/JJ (/-LRB- within/IN constant/JJ factors/NNS )/-RRB- regret/NN ./.

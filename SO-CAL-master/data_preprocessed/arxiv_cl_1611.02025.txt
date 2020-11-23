@@ -1,0 +1,5 @@
+The/DT timeline/NN generation/NN task/NN summarises/VBZ an/DT entity/NN 's/POS biography/NN by/IN selecting/VBG stories/NNS representing/VBG key/JJ events/NNS from/IN a/DT large/JJ pool/NN of/IN relevant/JJ documents/NNS ./.
+This/DT paper/NN addresses/VBZ the/DT lack/NN of/IN a/DT standard/JJ dataset/NN and/CC evaluative/JJ methodology/NN for/IN the/DT problem/NN ./.
+We/PRP present/VBP and/CC make/VBP publicly/RB available/JJ a/DT new/JJ dataset/NN of/IN 18,793/CD news/NN articles/NNS covering/VBG 39/CD entities/NNS ./.
+For/IN each/DT entity/NN ,/, we/PRP provide/VBP a/DT gold/NN standard/JJ timeline/NN and/CC a/DT set/NN of/IN entity/NN -/HYPH related/VBN articles/NNS ./.
+We/PRP propose/VBP ROUGE/NNP as/IN an/DT evaluation/NN metric/JJ and/CC validate/VB our/PRP$ dataset/NN by/IN showing/VBG that/IN top/JJ Google/NNP results/NNS outperform/VBP straw/NN -/HYPH man/NN baselines/NNS ./.

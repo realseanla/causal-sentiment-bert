@@ -1,0 +1,5 @@
+This/DT paper/NN introduces/VBZ a/DT greedy/JJ parser/NN based/VBN on/IN neural/JJ networks/NNS ,/, which/WDT leverages/VBZ a/DT new/JJ compositional/JJ sub-tree/NN representation/NN ./.
+The/DT greedy/JJ parser/NN and/CC the/DT compositional/JJ procedure/NN are/VBP jointly/RB trained/VBN ,/, and/CC tightly/RB depends/VBZ on/IN each/DT -/HYPH other/JJ ./.
+The/DT composition/NN procedure/NN outputs/NNS a/DT vector/NN representation/NN which/WDT sumarrizes/VBZ syntactically/RB (/-LRB- parsing/VBG tags/NNS )/-RRB- and/CC semantically/RB (/-LRB- words/NNS )/-RRB- sub-trees/NNS ./.
+Composition/NN and/CC tagging/NN is/VBZ achieved/VBN over/IN continuous/JJ (/-LRB- word/NN or/CC tag/NN )/-RRB- representations/NNS ,/, and/CC recurrent/JJ neural/JJ networks/NNS ./.
+We/PRP reach/VBP F1/NN performance/NN on/IN par/NN with/IN well/RB -/HYPH known/VBN existing/VBG parsers/NNS ,/, while/IN having/VBG the/DT advantage/NN of/IN speed/NN ,/, thanks/NNS to/IN the/DT greedy/JJ nature/NN of/IN the/DT parser/NN ./.

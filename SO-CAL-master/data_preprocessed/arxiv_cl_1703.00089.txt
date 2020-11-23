@@ -1,0 +1,6 @@
+Prior/JJ work/NN on/IN revision/NN identification/NN typically/RB uses/VBZ a/DT pipeline/NN method/NN :/: revision/NN extraction/NN is/VBZ first/JJ conducted/VBN to/TO identify/VB the/DT locations/NNS of/IN revisions/NNS and/CC revision/NN classification/NN is/VBZ then/RB conducted/VBN on/IN the/DT identified/VBN revisions/NNS ./.
+Such/PDT a/DT setting/NN propagates/VBZ the/DT errors/NNS of/IN the/DT revision/NN extraction/NN step/NN to/IN the/DT revision/NN classification/NN step/NN ./.
+This/DT paper/NN proposes/VBZ an/DT approach/NN that/WDT identifies/VBZ the/DT revision/NN location/NN and/CC the/DT revision/NN type/NN jointly/RB to/TO solve/VB the/DT issue/NN of/IN error/NN propagation/NN ./.
+It/PRP utilizes/VBZ a/DT sequence/NN representation/NN of/IN revisions/NNS and/CC conducts/VBZ sequence/NN labeling/NN for/IN revision/NN identification/NN ./.
+A/DT mutation/NN -/HYPH based/VBN approach/NN is/VBZ utilized/VBN to/TO update/VB identification/NN sequences/NNS ./.
+Results/NNS demonstrate/VBP that/IN our/PRP$ proposed/VBN approach/NN yields/VBZ better/JJR performance/NN on/IN both/DT revision/NN location/NN extraction/NN and/CC revision/NN type/NN classification/NN compared/VBN to/IN a/DT pipeline/NN baseline/NN ./.

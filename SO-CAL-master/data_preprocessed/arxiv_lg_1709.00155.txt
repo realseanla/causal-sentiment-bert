@@ -1,0 +1,7 @@
+Generating/NNP texts/NNS from/IN structured/VBN data/NNS (/-LRB- e.g./FW ,/, a/DT table/NN )/-RRB- is/VBZ important/JJ for/IN various/JJ natural/JJ language/NN processing/NN tasks/NNS such/JJ as/IN question/NN answering/NN and/CC dialog/NN systems/NNS ./.
+In/IN recent/JJ studies/NNS ,/, researchers/NNS use/VBP neural/JJ language/NN models/NNS and/CC encoder/NN -/HYPH decoder/NN frameworks/NNS for/IN table/NN -/HYPH to/IN -/HYPH text/NN generation/NN ./.
+However/RB ,/, these/DT neural/JJ network/NN -/HYPH based/VBN approaches/NNS do/VBP not/RB model/VB the/DT order/NN of/IN contents/NNS during/IN text/NN generation/NN ./.
+When/WRB a/DT human/JJ writes/VBZ a/DT summary/NN based/VBN on/IN a/DT given/VBN table/NN ,/, he/PRP or/CC she/PRP would/MD probably/RB consider/VB the/DT content/NN order/NN before/IN wording/NN ./.
+In/IN a/DT biography/NN ,/, for/IN example/NN ,/, the/DT nationality/NN of/IN a/DT person/NN is/VBZ typically/RB mentioned/VBN before/IN occupation/NN in/IN a/DT biography/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT order/NN -/HYPH planning/NN text/NN generation/NN model/NN to/TO capture/VB the/DT relationship/NN between/IN different/JJ fields/NNS and/CC use/VB such/JJ relationship/NN to/TO make/VB the/DT generated/VBN text/NN more/RBR fluent/JJ and/CC smooth/JJ ./.
+We/PRP conducted/VBD experiments/NNS on/IN the/DT WikiBio/NNP dataset/NN and/CC achieve/VB significantly/RB higher/JJR performance/NN than/IN previous/JJ methods/NNS in/IN terms/NNS of/IN BLEU/NNP ,/, ROUGE/NNP ,/, and/CC NIST/NN scores/NNS ./.

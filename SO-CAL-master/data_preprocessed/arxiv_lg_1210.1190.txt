@@ -1,0 +1,5 @@
+The/DT separability/NN assumption/NN (/-LRB- Donoho/NNP &amp;/CC Stodden/NNP ,/, 2003/CD ;/: Arora/NNP et/FW al./FW ,/, 2012/CD )/-RRB- turns/VBZ non-negative/JJ matrix/NN factorization/NN (/-LRB- NMF/NN )/-RRB- into/IN a/DT tractable/JJ problem/NN ./.
+Recently/RB ,/, a/DT new/JJ class/NN of/IN provably/RB -/HYPH correct/JJ NMF/NN algorithms/NNS have/VBP emerged/VBN under/IN this/DT assumption/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP reformulate/VBP the/DT separable/JJ NMF/NN problem/NN as/IN that/DT of/IN finding/VBG the/DT extreme/JJ rays/NNS of/IN the/DT conical/JJ hull/NN of/IN a/DT finite/NN set/NN of/IN vectors/NNS ./.
+From/IN this/DT geometric/JJ perspective/NN ,/, we/PRP derive/VBP new/JJ separable/JJ NMF/NN algorithms/NNS that/WDT are/VBP highly/RB scalable/JJ and/CC empirically/RB noise/NN robust/JJ ,/, and/CC have/VBP several/JJ other/JJ favorable/JJ properties/NNS in/IN relation/NN to/IN existing/VBG methods/NNS ./.
+A/DT parallel/JJ implementation/NN of/IN our/PRP$ algorithm/NN demonstrates/VBZ high/JJ scalability/NN on/IN shared/VBN -/HYPH and/CC distributed/VBN -/HYPH memory/NN machines/NNS ./.

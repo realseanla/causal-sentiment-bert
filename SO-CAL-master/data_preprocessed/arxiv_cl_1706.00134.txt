@@ -1,0 +1,6 @@
+Natural/JJ language/NN generation/NN (/-LRB- NLG/NN )/-RRB- plays/VBZ a/DT critical/JJ role/NN in/IN spoken/VBN dialogue/NN systems/NNS ./.
+This/DT paper/NN presents/VBZ a/DT new/JJ approach/NN to/IN NLG/NNP by/IN using/VBG recurrent/JJ neural/JJ networks/NNS (/-LRB- RNN/NN )/-RRB- ,/, in/IN which/WDT a/DT gating/NN mechanism/NN is/VBZ applied/VBN before/IN RNN/NN computation/NN ./.
+This/DT allows/VBZ the/DT proposed/VBN model/NN to/TO generate/VB appropriate/JJ sentences/NNS ./.
+The/DT RNN/NN -/HYPH based/VBN generator/NN can/MD be/VB learned/VBN from/IN unaligned/JJ data/NNS by/IN jointly/RB training/VBG sentence/NN planning/NN and/CC surface/NN realization/NN to/TO produce/VB natural/JJ language/NN responses/NNS ./.
+The/DT model/NN was/VBD extensively/RB evaluated/VBN on/IN four/CD different/JJ NLG/NN domains/NNS ./.
+The/DT results/NNS show/VBP that/IN the/DT proposed/VBN generator/NN achieved/VBD better/JJR performance/NN on/IN all/PDT the/DT NLG/NN domains/NNS compared/VBN to/IN previous/JJ generators/NNS ./.

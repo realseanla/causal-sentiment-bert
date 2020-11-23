@@ -1,0 +1,7 @@
+In/IN this/DT paper/NN ,/, we/PRP theoretically/RB address/VBP three/CD fundamental/JJ problems/NNS involving/VBG deep/JJ convolutional/JJ networks/NNS regarding/VBG invariance/NN ,/, depth/NN and/CC hierarchy/NN ./.
+We/PRP introduce/VBP the/DT paradigm/NN of/IN Transformation/NNP Networks/NNP (/-LRB- TN/NNP )/-RRB- which/WDT are/VBP a/DT direct/JJ generalization/NN of/IN Convolutional/NNP Networks/NNP (/-LRB- ConvNets/NNP )/-RRB- ./.
+Theoretically/RB ,/, we/PRP show/VBP that/IN TNs/NNS (/-LRB- and/CC thereby/RB ConvNets/NNP )/-RRB- are/VBP can/MD be/VB invariant/JJ to/IN non-linear/JJ transformations/NNS of/IN the/DT input/NN despite/IN pooling/VBG over/IN mere/JJ local/JJ translations/NNS ./.
+Our/PRP$ analysis/NN provides/VBZ clear/JJ insights/NNS into/IN the/DT increase/NN in/IN invariance/NN with/IN depth/NN in/IN these/DT networks/NNS ./.
+Deeper/JJR networks/NNS are/VBP able/JJ to/TO model/VB much/RB richer/JJR classes/NNS of/IN transformations/NNS ./.
+We/PRP also/RB find/VBP that/IN a/DT hierarchical/JJ architecture/NN allows/VBZ the/DT network/NN to/TO generate/VB invariance/NN much/RB more/RBR efficiently/RB than/IN a/DT non-hierarchical/JJ network/NN ./.
+Our/PRP$ results/NNS provide/VBP useful/JJ insight/NN into/IN these/DT three/CD fundamental/JJ problems/NNS in/IN deep/JJ learning/NN using/VBG ConvNets/NNP ./.

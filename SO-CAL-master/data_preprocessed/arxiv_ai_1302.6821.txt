@@ -1,0 +1,5 @@
+To/TO coordinate/VB with/IN other/JJ agents/NNS in/IN its/PRP$ environment/NN ,/, an/DT agent/NN needs/VBZ models/NNS of/IN what/WP the/DT other/JJ agents/NNS are/VBP trying/VBG to/TO do/VB ./.
+When/WRB communication/NN is/VBZ impossible/JJ or/CC expensive/JJ ,/, this/DT information/NN must/MD be/VB acquired/VBN indirectly/RB via/IN plan/NN recognition/NN ./.
+Typical/JJ approaches/NNS to/TO plan/VB recognition/NN start/VB with/IN a/DT specification/NN of/IN the/DT possible/JJ plans/VBZ the/DT other/JJ agents/NNS may/MD be/VB following/VBG ,/, and/CC develop/VB special/JJ techniques/NNS for/IN discriminating/VBG among/IN the/DT possibilities/NNS ./.
+Perhaps/RB more/RBR desirable/JJ would/MD be/VB a/DT uniform/JJ procedure/NN for/IN mapping/VBG plans/NNS to/TO general/JJ structures/NNS supporting/VBG inference/NN based/VBN on/IN uncertain/JJ and/CC incomplete/JJ observations/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP a/DT set/NN of/IN methods/NNS for/IN converting/VBG plans/NNS represented/VBN in/IN a/DT flexible/JJ procedural/JJ language/NN to/IN observation/NN models/NNS represented/VBN as/IN probabilistic/JJ belief/NN networks/NNS ./.

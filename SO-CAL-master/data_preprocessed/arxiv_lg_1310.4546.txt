@@ -1,0 +1,7 @@
+The/DT recently/RB introduced/VBN continuous/JJ Skip/VB -/HYPH gram/NN model/NN is/VBZ an/DT efficient/JJ method/NN for/IN learning/VBG high/JJ -/HYPH quality/NN distributed/VBN vector/NN representations/NNS that/WDT capture/VBP a/DT large/JJ number/NN of/IN precise/JJ syntactic/JJ and/CC semantic/JJ word/NN relationships/NNS ./.
+In/IN this/DT paper/NN we/PRP present/VBP several/JJ extensions/NNS that/WDT improve/VBP both/CC the/DT quality/NN of/IN the/DT vectors/NNS and/CC the/DT training/NN speed/NN ./.
+By/IN subsampling/VBG of/IN the/DT frequent/JJ words/NNS we/PRP obtain/VBP significant/JJ speedup/NN and/CC also/RB learn/VBP more/RBR regular/JJ word/NN representations/NNS ./.
+We/PRP also/RB describe/VBP a/DT simple/JJ alternative/NN to/IN the/DT hierarchical/JJ softmax/NN called/VBN negative/JJ sampling/NN ./.
+An/DT inherent/JJ limitation/NN of/IN word/NN representations/NNS is/VBZ their/PRP$ indifference/NN to/IN word/NN order/NN and/CC their/PRP$ inability/NN to/TO represent/VB idiomatic/JJ phrases/NNS ./.
+For/IN example/NN ,/, the/DT meanings/NNS of/IN "/`` Canada/NNP "/'' and/CC "/`` Air/NNP "/'' can/MD not/RB be/VB easily/RB combined/VBN to/TO obtain/VB "/`` Air/NNP Canada/NNP "/'' ./.
+Motivated/VBN by/IN this/DT example/NN ,/, we/PRP present/VBP a/DT simple/JJ method/NN for/IN finding/VBG phrases/NNS in/IN text/NN ,/, and/CC show/VBP that/IN learning/VBG good/JJ vector/NN representations/NNS for/IN millions/NNS of/IN phrases/NNS is/VBZ possible/JJ ./.

@@ -1,0 +1,3 @@
+Multiple extensions of Recurrent Neural Networks (RNNs) have been proposed recently to address the difficulty of storing information over long time periods.
+In this paper, we experiment with the capacity of Neural Turing Machines (NTMs) to deal with these long-term dependencies on well-balanced strings of parentheses.
+We show that not only does the NTM emulate a stack with its heads and learn an algorithm to recognize such words, but it is also capable of strongly generalizing to much longer sequences.

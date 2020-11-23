@@ -1,0 +1,4 @@
+One of the most basic functions of language is to refer to objects in a shared scene.
+Modeling reference with continuous representations is challenging because it requires individuation, i.e., tracking and distinguishing an arbitrary number of referents.
+We introduce a neural network model that, given a definite description and a set of objects represented by natural images, points to the intended object if the expression has a unique referent, or indicates a failure, if it does not.
+The model, directly trained on reference acts, is competitive with a pipeline manually engineered to perform the same task, both when referents are purely visual, and when they are characterized by a combination of visual and linguistic properties.

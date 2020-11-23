@@ -1,0 +1,9 @@
+As most database users cannot precisely express their information needs, it is challenging for database querying and exploration interfaces to understand them.
+We propose a novel formal framework for representing and understanding information needs in database querying and exploration.
+Our framework considers querying as a collaboration between the user and the database system to establish a mutual language for representing information needs.
+We formalize this collaboration as a signaling game, where each mutual language is an equilibrium for the game.
+A query interface is more effective if it establishes a less ambiguous mutual language faster.
+We discuss some equilibria, strategies, and the convergence in this game.
+In particular, we propose a reinforcement learning mechanism and analyze it within our framework.
+We prove that this adaptation mechanism for the query interface improves the effectiveness of answering queries stochastically speaking, and converges almost surely.
+Most importantly, we show that the proposed learning rule is robust to the choice of the metric/reward by the database.

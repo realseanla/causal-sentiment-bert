@@ -1,0 +1,4 @@
+Let $F$ be a set of boolean functions.
+We present an algorithm for learning $F_\vee := \{\vee_{f\in S} f \mid S \subseteq F\}$ from membership queries.
+Our algorithm asks at most $|F| \cdot OPT(F_\vee)$ membership queries where $OPT(F_\vee)$ is the minimum worst case number of membership queries for learning $F_\vee$.
+When $F$ is a set of halfspaces over a constant dimension space or a set of variable inequalities, our algorithm runs in polynomial time.

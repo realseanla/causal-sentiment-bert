@@ -1,0 +1,7 @@
+This/DT study/NN suggests/VBZ a/DT new/JJ prediction/NN model/NN for/IN chaotic/JJ time/NN series/NN inspired/VBN by/IN the/DT brain/NN emotional/JJ learning/NN of/IN mammals/NNS ./.
+We/PRP describe/VBP the/DT structure/NN and/CC function/NN of/IN this/DT model/NN ,/, which/WDT is/VBZ referred/VBN to/IN as/IN BELPM/NN (/-LRB- Brain/NN Emotional/JJ Learning/NN -/HYPH Based/VBN Prediction/NN Model/NN )/-RRB- ./.
+Structurally/RB ,/, the/DT model/NN mimics/VBZ the/DT connection/NN between/IN the/DT regions/NNS of/IN the/DT limbic/JJ system/NN ,/, and/CC functionally/RB it/PRP uses/VBZ weighted/JJ k/NN nearest/JJS neighbors/NNS to/TO imitate/VB the/DT roles/NNS of/IN those/DT regions/NNS ./.
+The/DT learning/NN algorithm/NN of/IN BELPM/NNP is/VBZ defined/VBN using/VBG steepest/JJS descent/NN (/-LRB- SD/NN )/-RRB- and/CC the/DT least/JJS square/JJ estimator/NN (/-LRB- LSE/NN )/-RRB- ./.
+Two/CD benchmark/NN chaotic/JJ time/NN series/NN ,/, Lorenz/NNP and/CC Henon/NNP ,/, have/VBP been/VBN used/VBN to/TO evaluate/VB the/DT performance/NN of/IN BELPM/NNP ./.
+The/DT obtained/VBN results/NNS have/VBP been/VBN compared/VBN with/IN those/DT of/IN other/JJ prediction/NN methods/NNS ./.
+The/DT results/NNS show/VBP that/IN BELPM/NNP has/VBZ the/DT capability/NN to/TO achieve/VB a/DT reasonable/JJ accuracy/NN for/IN long/JJ -/HYPH term/NN prediction/NN of/IN chaotic/JJ time/NN series/NN ,/, using/VBG a/DT limited/JJ amount/NN of/IN training/NN data/NNS and/CC a/DT reasonably/RB low/JJ computational/JJ time/NN ./.

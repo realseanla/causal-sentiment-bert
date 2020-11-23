@@ -1,0 +1,17 @@
+Recent/JJ research/NN on/IN the/DT Symbolic/JJ Probabilistic/JJ Inference/NN (/-LRB- SPI/NN )/-RRB- algorithm/NN [/-LRB- 2/CD ]/-RRB- has/VBZ focused/VBN attention/NN on/IN the/DT importance/NN of/IN resolving/VBG general/JJ queries/NNS in/IN Bayesian/JJ networks/NNS ./.
+SPI/NNP applies/VBZ the/DT concept/NN of/IN dependency/NN -/HYPH directed/VBN backward/JJ search/NN to/IN probabilistic/JJ inference/NN ,/, and/CC is/VBZ incremental/JJ with/IN respect/NN to/IN both/DT queries/NNS and/CC observations/NNS ./.
+In/IN response/NN to/IN this/DT research/NN we/PRP have/VBP extended/VBN the/DT evidence/NN potential/JJ algorithm/NN [/-LRB- 3/CD ]/-RRB- with/IN the/DT same/JJ features/NNS ./.
+We/PRP call/VBP the/DT extension/NN symbolic/JJ evidence/NN potential/JJ inference/NN (/-LRB- SEPI/NN )/-RRB- ./.
+SEPI/NNP like/IN SPI/NNP can/MD handle/VB generic/JJ queries/NNS and/CC is/VBZ incremental/JJ with/IN respect/NN to/IN queries/NNS and/CC observations/NNS ./.
+While/IN in/IN SPI/NNP ,/, operations/NNS are/VBP done/VBN on/IN a/DT search/NN tree/NN constructed/VBN from/IN the/DT nodes/NNS of/IN the/DT original/JJ network/NN ,/, in/IN SEPI/NNP ,/, a/DT clique/NN -/HYPH tree/NN structure/NN obtained/VBN from/IN the/DT evidence/NN potential/JJ algorithm/NN [/-LRB- 3/CD ]/-RRB- is/VBZ the/DT basic/JJ framework/NN for/IN recursive/JJ query/NN processing/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP describe/VBP the/DT systematic/JJ query/NN and/CC caching/NN procedure/NN of/IN SEPI/NNP ./.
+SEPI/NN begins/VBZ with/IN finding/VBG a/DT clique/NN tree/NN from/IN a/DT Bayesian/JJ network/NN -/: the/DT standard/JJ procedure/NN of/IN the/DT evidence/NN potential/JJ algorithm/NN ./.
+With/IN the/DT clique/NN tree/NN ,/, various/JJ probability/NN distributions/NNS are/VBP computed/VBN and/CC stored/VBN in/IN each/DT clique/NN ./.
+This/DT is/VBZ the/DT ?/.
+pre-processing/VBG ?/.
+step/NN of/IN SEPI/NNP ./.
+Once/IN this/DT step/NN is/VBZ done/VBN ,/, the/DT query/NN can/MD then/RB be/VB computed/VBN ./.
+To/TO process/VB a/DT query/NN ,/, a/DT recursive/JJ process/NN similar/JJ to/IN the/DT SPI/NNP algorithm/NN is/VBZ used/VBN ./.
+The/DT queries/NNS are/VBP directed/VBN to/IN the/DT root/NN clique/NN and/CC decomposed/VBN into/IN queries/NNS for/IN the/DT clique/NN 's/POS subtrees/NNS until/IN a/DT particular/JJ query/NN can/MD be/VB answered/VBN at/IN the/DT clique/NN at/IN which/WDT it/PRP is/VBZ directed/VBN ./.
+The/DT algorithm/NN and/CC the/DT computation/NN are/VBP simple/JJ ./.
+The/DT SEPI/NNP algorithm/NN will/MD be/VB presented/VBN in/IN this/DT paper/NN along/IN with/IN several/JJ examples/NNS ./.

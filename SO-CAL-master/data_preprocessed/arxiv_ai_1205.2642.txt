@@ -1,0 +1,9 @@
+A/DT Bayesian/JJ belief/NN network/NN models/NNS a/DT joint/JJ distribution/NN with/IN an/DT directed/VBN acyclic/JJ graph/NN representing/VBG dependencies/NNS among/IN variables/NNS and/CC network/NN parameters/NNS characterizing/VBG conditional/JJ distributions/NNS ./.
+The/DT parameters/NNS are/VBP viewed/VBN as/IN random/JJ variables/NNS to/TO quantify/VB uncertainty/NN about/IN their/PRP$ values/NNS ./.
+Belief/NN nets/NNS are/VBP used/VBN to/TO compute/VB responses/NNS to/IN queries/NNS ;/: i.e./FW ,/, conditional/JJ probabilities/NNS of/IN interest/NN ./.
+A/DT query/NN is/VBZ a/DT function/NN of/IN the/DT parameters/NNS ,/, hence/RB a/DT random/JJ variable/NN ./.
+Van/NNP Allen/NNP et/FW al./FW (/-LRB- 2001/CD ,/, 2008/CD )/-RRB- showed/VBD how/WRB to/TO quantify/VB uncertainty/NN about/IN a/DT query/NN via/IN a/DT delta/NN method/NN approximation/NN of/IN its/PRP$ variance/NN ./.
+We/PRP develop/VBP more/RBR accurate/JJ approximations/NNS for/IN both/DT query/NN mean/NN and/CC variance/NN ./.
+The/DT key/JJ idea/NN is/VBZ to/TO extend/VB the/DT query/NN mean/VB approximation/NN to/IN a/DT "/`` doubled/VBD network/NN "/'' involving/VBG two/CD independent/JJ replicates/NNS ./.
+Our/PRP$ method/NN assumes/VBZ complete/JJ data/NNS and/CC can/MD be/VB applied/VBN to/IN discrete/JJ ,/, continuous/JJ ,/, and/CC hybrid/NN networks/NNS (/-LRB- provided/VBN discrete/JJ variables/NNS have/VBP only/RB discrete/JJ parents/NNS )/-RRB- ./.
+We/PRP analyze/VBP several/JJ improvements/NNS ,/, and/CC provide/VB empirical/JJ studies/NNS to/TO demonstrate/VB their/PRP$ effectiveness/NN ./.

@@ -1,0 +1,10 @@
+In/IN natural/JJ language/NN ,/, words/NNS and/CC phrases/NNS themselves/PRP imply/VBP the/DT semantics/NNS ./.
+In/IN contrast/NN ,/, the/DT meaning/NN of/IN identifiers/NNS in/IN mathematical/JJ formulae/NNS is/VBZ undefined/JJ ./.
+Thus/RB scientists/NNS must/MD study/VB the/DT context/NN to/IN decode/VB the/DT meaning/NN ./.
+The/DT Mathematical/NNP Language/NNP Processing/NNP (/-LRB- MLP/NNP )/-RRB- project/NN aims/VBZ to/TO support/VB that/DT process/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP compare/VBP two/CD approaches/NNS to/TO discover/VB identifier/NN -/HYPH definition/NN tuples/NNS ./.
+At/IN first/RB we/PRP use/VBP a/DT simple/JJ pattern/NN matching/VBG approach/NN ./.
+Second/RB ,/, we/PRP present/VBP the/DT MLP/NNP approach/NN that/WDT uses/VBZ part/NN -/HYPH of/IN -/HYPH speech/NN tag/NN based/VBN distances/NNS as/RB well/RB as/IN sentence/NN positions/NNS to/TO calculate/VB identifier/NN -/HYPH definition/NN probabilities/NNS ./.
+The/DT evaluation/NN of/IN our/PRP$ prototypical/JJ system/NN ,/, applied/VBD on/IN the/DT Wikipedia/NNP text/NN corpus/NN ,/, shows/VBZ that/IN our/PRP$ approach/NN augments/VBZ the/DT user/NN experience/NN substantially/RB ./.
+While/IN hovering/VBG the/DT identifiers/NNS in/IN the/DT formula/NN ,/, tool/NN -/HYPH tips/NNS with/IN the/DT most/RBS probable/JJ definitions/NNS occur/VBP ./.
+Tests/NNS with/IN random/JJ samples/NNS show/VBP that/IN the/DT displayed/VBN definitions/NNS provide/VBP a/DT good/JJ match/NN with/IN the/DT actual/JJ meaning/NN of/IN the/DT identifiers/NNS ./.

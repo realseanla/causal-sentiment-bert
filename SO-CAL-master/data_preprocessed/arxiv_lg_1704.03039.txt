@@ -1,0 +1,10 @@
+The/DT role/NN of/IN semantics/NNS in/IN zero/CD -/HYPH shot/NN learning/NN is/VBZ considered/VBN ./.
+The/DT effectiveness/NN of/IN previous/JJ approaches/NNS is/VBZ analyzed/VBN according/VBG to/IN the/DT form/NN of/IN supervision/NN provided/VBN ./.
+While/IN some/DT learn/VBP semantics/NNS independently/RB ,/, others/NNS only/RB supervise/VBP the/DT semantic/JJ subspace/NN explained/VBN by/IN training/NN classes/NNS ./.
+Thus/RB ,/, the/DT former/JJ is/VBZ able/JJ to/TO constrain/VB the/DT whole/JJ space/NN but/CC lacks/VBZ the/DT ability/NN to/TO model/VB semantic/JJ correlations/NNS ./.
+The/DT latter/JJ addresses/NNS this/DT issue/NN but/CC leaves/VBZ part/NN of/IN the/DT semantic/JJ space/NN unsupervised/JJ ./.
+This/DT complementarity/NN is/VBZ exploited/VBN in/IN a/DT new/JJ convolutional/JJ neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- framework/NN ,/, which/WDT proposes/VBZ the/DT use/NN of/IN semantics/NNS as/IN constraints/NNS for/IN recognition.Although/NN a/DT CNN/NNP trained/VBN for/IN classification/NN has/VBZ no/DT transfer/NN ability/NN ,/, this/DT can/MD be/VB encouraged/VBN by/IN learning/VBG an/DT hidden/JJ semantic/JJ layer/NN together/RB with/IN a/DT semantic/JJ code/NN for/IN classification/NN ./.
+Two/CD forms/NNS of/IN semantic/JJ constraints/NNS are/VBP then/RB introduced/VBN ./.
+The/DT first/JJ is/VBZ a/DT loss/NN -/HYPH based/VBN regularizer/NN that/WDT introduces/VBZ a/DT generalization/NN constraint/NN on/IN each/DT semantic/JJ predictor/NN ./.
+The/DT second/JJ is/VBZ a/DT codeword/NN regularizer/NN that/WDT favors/VBZ semantic/JJ -/HYPH to/IN -/HYPH class/NN mappings/NNS consistent/JJ with/IN prior/JJ semantic/JJ knowledge/NN while/IN allowing/VBG these/DT to/TO be/VB learned/VBN from/IN data/NNS ./.
+Significant/JJ improvements/NNS over/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN are/VBP achieved/VBN on/IN several/JJ datasets/NNS ./.

@@ -1,0 +1,7 @@
+The/DT Generative/NNP Adversarial/NNP Network/NNP (/-LRB- GAN/NNP )/-RRB- has/VBZ achieved/VBN great/JJ success/NN in/IN generating/VBG realistic/JJ (/-LRB- real/JJ -/HYPH valued/VBN )/-RRB- synthetic/JJ data/NNS ./.
+However/RB ,/, convergence/NN issues/NNS and/CC difficulties/NNS dealing/VBG with/IN discrete/JJ data/NNS hinder/VBP the/DT applicability/NN of/IN GAN/NNP to/IN text/NN ./.
+We/PRP propose/VBP a/DT framework/NN for/IN generating/VBG realistic/JJ text/NN via/IN adversarial/JJ training/NN ./.
+We/PRP employ/VBP a/DT long/JJ short/JJ -/HYPH term/NN memory/NN network/NN as/IN generator/NN ,/, and/CC a/DT convolutional/JJ network/NN as/IN discriminator/NN ./.
+Instead/RB of/IN using/VBG the/DT standard/JJ objective/NN of/IN GAN/NNP ,/, we/PRP propose/VBP matching/VBG the/DT high/JJ -/HYPH dimensional/JJ latent/NN feature/NN distributions/NNS of/IN real/JJ and/CC synthetic/JJ sentences/NNS ,/, via/IN a/DT kernelized/VBN discrepancy/NN metric/JJ ./.
+This/DT eases/VBZ adversarial/JJ training/NN by/IN alleviating/VBG the/DT mode/NN -/HYPH collapsing/VBG problem/NN ./.
+Our/PRP$ experiments/NNS show/VBP superior/JJ performance/NN in/IN quantitative/JJ evaluation/NN ,/, and/CC demonstrate/VBP that/IN our/PRP$ model/NN can/MD generate/VB realistic/JJ -/HYPH looking/VBG sentences/NNS ./.

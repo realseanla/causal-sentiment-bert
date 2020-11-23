@@ -1,0 +1,4 @@
+We describe CITlab's recognition system for the HTRtS competition attached to the 13. International Conference on Document Analysis and Recognition, ICDAR 2015.
+The task comprises the recognition of historical handwritten documents.
+The core algorithms of our system are based on multi-dimensional recurrent neural networks (MDRNN) and connectionist temporal classification (CTC).
+The software modules behind that as well as the basic utility technologies are essentially powered by PLANET's ARGUS framework for intelligent text recognition and image processing.

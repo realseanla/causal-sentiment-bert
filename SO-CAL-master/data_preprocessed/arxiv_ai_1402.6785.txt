@@ -1,0 +1,8 @@
+Formal/JJ methods/NNS apply/VBP algorithms/NNS based/VBN on/IN mathematical/JJ principles/NNS to/TO enhance/VB the/DT reliability/NN of/IN systems/NNS ./.
+It/PRP would/MD only/RB be/VB natural/JJ to/TO try/VB to/TO progress/VB from/IN verification/NN ,/, model/NN checking/VBG or/CC testing/VBG a/DT system/NN against/IN its/PRP$ formal/JJ specification/NN into/IN constructing/VBG it/PRP automatically/RB ./.
+Classical/JJ algorithmic/JJ synthesis/NN theory/NN provides/VBZ interesting/JJ algorithms/NNS but/CC also/RB alarming/JJ high/JJ complexity/NN and/CC undecidability/NN results/NNS ./.
+The/DT use/NN of/IN genetic/JJ programming/NN ,/, in/IN combination/NN with/IN model/NN checking/VBG and/CC testing/VBG ,/, provides/VBZ a/DT powerful/JJ heuristic/NN to/TO synthesize/VB programs/NNS ./.
+The/DT method/NN is/VBZ not/RB completely/RB automatic/JJ ,/, as/IN it/PRP is/VBZ fine/JJ tuned/VBN by/IN a/DT user/NN that/WDT sets/VBZ up/RP the/DT specification/NN and/CC parameters/NNS ./.
+It/PRP also/RB does/VBZ not/RB guarantee/VB to/IN always/RB succeed/VB and/CC converge/VB towards/IN a/DT solution/NN that/WDT satisfies/VBZ all/PDT the/DT required/VBN properties/NNS ./.
+However/RB ,/, we/PRP applied/VBD it/PRP successfully/RB on/IN quite/RB nontrivial/JJ examples/NNS and/CC managed/VBD to/TO find/VB solutions/NNS to/IN hard/JJ programming/NN challenges/NNS ,/, as/RB well/RB as/IN to/TO improve/VB and/CC to/TO correct/VB code/NN ./.
+We/PRP describe/VBP here/RB several/JJ versions/NNS of/IN our/PRP$ method/NN for/IN synthesizing/VBG sequential/JJ and/CC concurrent/JJ systems/NNS ./.

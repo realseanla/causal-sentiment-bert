@@ -1,0 +1,8 @@
+We/PRP study/VBP optimization/NN of/IN finite/JJ sums/NNS of/IN \/SYM emph/NN {/-LRB- geodesically/RB }/-RRB- smooth/JJ functions/NNS on/IN Riemannian/NNP manifolds/NNS ./.
+Although/IN variance/NN reduction/NN techniques/NNS for/IN optimizing/VBG finite/NN -/HYPH sum/NN problems/NNS have/VBP witnessed/VBN a/DT huge/JJ surge/NN of/IN interest/NN in/IN recent/JJ years/NNS ,/, all/DT existing/VBG work/NN is/VBZ limited/VBN to/IN vector/NN space/NN problems/NNS ./.
+We/PRP introduce/VBP \/SYM emph/NN {/-LRB- Riemannian/NNP SVRG/NNP }/-RRB- ,/, a/DT new/JJ variance/NN reduced/VBN Riemannian/NNP optimization/NN method/NN ./.
+We/PRP analyze/VBP this/DT method/NN for/IN both/DT geodesically/RB smooth/JJ \/SYM emph/NN {/-LRB- convex/NN }/-RRB- and/CC \/SYM emph/NN {/-LRB- nonconvex/NN }/-RRB- functions/VBZ ./.
+Our/PRP$ analysis/NN reveals/VBZ that/IN Riemannian/NNP SVRG/NNP comes/VBZ with/IN advantages/NNS of/IN the/DT usual/JJ SVRG/NN method/NN ,/, but/CC with/IN factors/NNS depending/VBG on/IN manifold/JJ curvature/NN that/WDT influence/VBP its/PRP$ convergence/NN ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN ,/, ours/PRP is/VBZ the/DT first/JJ \/NN emph/NN {/-LRB- fast/JJ }/-RRB- stochastic/JJ Riemannian/JJ method/NN ./.
+Moreover/RB ,/, our/PRP$ work/NN offers/VBZ the/DT first/JJ non-asymptotic/JJ complexity/NN analysis/NN for/IN nonconvex/JJ Riemannian/JJ optimization/NN (/-LRB- even/RB for/IN the/DT batch/NN setting/NN )/-RRB- ./.
+Our/PRP$ results/NNS have/VBP several/JJ implications/NNS ;/: for/IN instance/NN ,/, they/PRP offer/VBP a/DT Riemannian/JJ perspective/NN on/IN variance/NN reduced/VBN PCA/NNP ,/, which/WDT promises/VBZ a/DT short/JJ ,/, transparent/JJ convergence/NN analysis/NN ./.

@@ -1,0 +1,9 @@
+This/DT paper/NN describes/VBZ our/PRP$ solution/NN to/IN the/DT multi-modal/JJ learning/NN challenge/NN of/IN ICML/NN ./.
+This/DT solution/NN comprises/VBZ constructing/VBG three/CD -/HYPH level/NN representations/NNS in/IN three/CD consecutive/JJ stages/NNS and/CC choosing/VBG correct/JJ tag/NN words/NNS with/IN a/DT data/NN -/HYPH specific/JJ strategy/NN ./.
+Firstly/RB ,/, we/PRP use/VBP typical/JJ methods/NNS to/TO obtain/VB level/NN -/HYPH 1/CD representations/NNS ./.
+Each/DT image/NN is/VBZ represented/VBN using/VBG MPEG/NN -/HYPH 7/CD and/CC gist/NN descriptors/NNS with/IN additional/JJ features/NNS released/VBN by/IN the/DT contest/NN organizers/NNS ./.
+And/CC the/DT corresponding/JJ word/NN tags/NNS are/VBP represented/VBN by/IN bag/NN -/HYPH of/IN -/HYPH words/NNS model/NN with/IN a/DT dictionary/NN of/IN 4000/CD words/NNS ./.
+Secondly/RB ,/, we/PRP learn/VBP the/DT level/NN -/HYPH 2/CD representations/NNS using/VBG two/CD stacked/VBN RBMs/NNS for/IN each/DT modality/NN ./.
+Thirdly/RB ,/, we/PRP propose/VBP a/DT bimodal/JJ auto/NN -/HYPH encoder/NN to/TO learn/VB the/DT similarities/NNS //, dissimilarities/NNS between/IN the/DT pairwise/JJ image/NN -/HYPH tags/NNS as/IN level/NN -/HYPH 3/CD representations/NNS ./.
+Finally/RB ,/, during/IN the/DT test/NN phase/NN ,/, based/VBN on/IN one/CD observation/NN of/IN the/DT dataset/NN ,/, we/PRP come/VBP up/RP with/IN a/DT data/NN -/HYPH specific/JJ strategy/NN to/TO choose/VB the/DT correct/JJ tag/NN words/NNS leading/VBG to/IN a/DT leap/NN of/IN an/DT improved/VBN overall/JJ performance/NN ./.
+Our/PRP$ final/JJ average/JJ accuracy/NN on/IN the/DT private/JJ test/NN set/NN is/VBZ 100/CD percent/NN ,/, which/WDT ranks/VBZ the/DT first/JJ place/NN in/IN this/DT challenge/NN ./.

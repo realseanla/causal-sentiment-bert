@@ -1,0 +1,5 @@
+Understanding/VBG the/DT behaviour/NN of/IN heuristic/NN search/NN methods/NNS is/VBZ a/DT challenge/NN ./.
+This/DT even/RB holds/VBZ for/IN simple/JJ local/JJ search/NN methods/NNS such/JJ as/IN 2/CD -/HYPH OPT/NN for/IN the/DT Traveling/VBG Salesperson/NN problem/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT general/JJ framework/NN that/WDT is/VBZ able/JJ to/TO construct/VB a/DT diverse/JJ set/NN of/IN instances/NNS that/WDT are/VBP hard/JJ or/CC easy/JJ for/IN a/DT given/VBN search/NN heuristic/NN ./.
+Such/PDT a/DT diverse/JJ set/NN is/VBZ obtained/VBN by/IN using/VBG an/DT evolutionary/JJ algorithm/NN for/IN constructing/VBG hard/JJ or/CC easy/JJ instances/NNS that/WDT are/VBP diverse/JJ with/IN respect/NN to/IN different/JJ features/NNS of/IN the/DT underlying/JJ problem/NN ./.
+Examining/VBG the/DT constructed/VBN instance/NN sets/NNS ,/, we/PRP show/VBP that/IN many/JJ combinations/NNS of/IN two/CD or/CC three/CD features/NNS give/VBP a/DT good/JJ classification/NN of/IN the/DT TSP/NN instances/NNS in/IN terms/NNS of/IN whether/IN they/PRP are/VBP hard/JJ to/TO be/VB solved/VBN by/IN 2/CD -/HYPH OPT/NN ./.

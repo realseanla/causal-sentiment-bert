@@ -1,0 +1,4 @@
+We/PRP propose/VBP MVCNN/NNP ,/, a/DT convolution/NN neural/JJ network/NN (/-LRB- CNN/NNP )/-RRB- architecture/NN for/IN sentence/NN classification/NN ./.
+It/PRP (/-LRB- i/LS )/-RRB- combines/VBZ diverse/JJ versions/NNS of/IN pretrained/JJ word/NN embeddings/NNS and/CC (/-LRB- ii/LS )/-RRB- extracts/NNS features/NNS of/IN multigranular/JJ phrases/NNS with/IN variable/JJ -/HYPH size/NN convolution/NN filters/NNS ./.
+We/PRP also/RB show/VBP that/IN pretraining/NN MVCNN/NN is/VBZ critical/JJ for/IN good/JJ performance/NN ./.
+MVCNN/NNP achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN four/CD tasks/NNS :/: on/IN small/JJ -/HYPH scale/NN binary/NN ,/, small/JJ -/HYPH scale/NN multi-class/NN and/CC largescale/JJ Twitter/NNP sentiment/NN prediction/NN and/CC on/IN subjectivity/NN classification/NN ./.

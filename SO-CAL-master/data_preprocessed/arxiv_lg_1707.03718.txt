@@ -1,0 +1,7 @@
+Pixel-wise/JJ semantic/JJ segmentation/NN for/IN visual/JJ scene/NN understanding/VBG not/RB only/RB needs/VBZ to/TO be/VB accurate/JJ ,/, but/CC also/RB efficient/JJ in/IN order/NN to/TO find/VB any/DT use/NN in/IN real/JJ -/HYPH time/NN application/NN ./.
+Existing/VBG algorithms/NNS even/RB though/IN are/VBP accurate/JJ but/CC they/PRP do/VBP not/RB focus/VB on/IN utilizing/VBG the/DT parameters/NNS of/IN neural/JJ network/NN efficiently/RB ./.
+As/IN a/DT result/NN they/PRP are/VBP huge/JJ in/IN terms/NNS of/IN parameters/NNS and/CC number/NN of/IN operations/NNS ;/: hence/RB slow/RB too/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ deep/JJ neural/JJ network/NN architecture/NN which/WDT allows/VBZ it/PRP to/TO learn/VB without/IN any/DT significant/JJ increase/NN in/IN number/NN of/IN parameters/NNS ./.
+Our/PRP$ network/NN uses/VBZ only/RB 11.5/CD million/CD parameters/NNS and/CC 21.2/CD GFLOPs/NNS for/IN processing/VBG an/DT image/NN of/IN resolution/NN 3x640x360/NN ./.
+It/PRP gives/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN CamVid/NNP and/CC comparable/JJ results/NNS on/IN Cityscapes/NNS dataset/NN ./.
+We/PRP also/RB compare/VBP our/PRP$ networks/NNS processing/VBG time/NN on/IN NVIDIA/NNP GPU/NNP and/CC embedded/VBN system/NN device/NN with/IN existing/VBG state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN architectures/NNS for/IN different/JJ image/NN resolutions/NNS ./.

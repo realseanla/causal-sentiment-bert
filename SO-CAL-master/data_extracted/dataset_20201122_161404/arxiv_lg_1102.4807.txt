@@ -1,0 +1,7 @@
+We analyze a class of estimators based on convex relaxation for solving high-dimensional matrix decomposition problems.
+The observations are the noisy realizations of the sum of an (appproximately) low rank matrix $\Theta^\star$ with a second matrix $\Gamma^\star$ endowed with a complementary form of low-dimensional structure.
+We derive a general theorem that gives upper bounds on the Frobenius norm error for an estimate of the pair $(\Theta^\star, \Gamma^\star)$ obtained by solving a convex optimization problem that combines the nuclear norm with a general decomposable regularizer.
+We then specialize this result to two cases that have been studied in the context of robust PCA: low rank plus an entrywise sparse matrix, and low rank plus a columnwise sparse matrix.
+For both models, our theory yields non-asymptotic Frobenius error bounds for both for deterministic and stochastic noise matrices, and applies to matrices $\Theta^\star$ that can be exactly or approximately low rank, and matrices $\Gamma^\star$ that can be exactly or approximately sparse.
+Moreover, for the case of stochastic noise matrices, we establish matching lower bounds on the minimax error, showing that our results cannot be improved beyond constant factors.
+The sharpness of our theoretical predictions is confirmed by numerical simulations.

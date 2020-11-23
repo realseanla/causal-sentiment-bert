@@ -1,0 +1,4 @@
+Metabolomic data can potentially enable accurate, non-invasive and low-cost prediction of coronary artery disease.
+Regression-based analytical approaches however might fail to fully account for interactions between metabolites, rely on a priori selected input features and thus might suffer from poorer accuracy.
+Supervised machine learning methods can potentially be used in order to fully exploit the dimensionality and richness of the data.
+In this paper, we systematically implement and evaluate a set of supervised learning methods (L1 regression, random forest classifier) and compare them to traditional regression-based approaches for disease prediction using metabolomic data.

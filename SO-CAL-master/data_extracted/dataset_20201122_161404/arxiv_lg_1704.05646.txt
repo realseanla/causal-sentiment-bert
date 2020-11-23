@@ -1,0 +1,3 @@
+Despite being so vital to success of Support Vector Machines, the principle of separating margin maximisation is not used in deep learning.
+We show that minimisation of margin variance and not maximisation of the margin is more suitable for improving generalisation in deep architectures.
+We propose the Halfway loss function that minimises the Normalised Margin Variance (NMV) at the output of a deep learning models and evaluate its performance against the Softmax Cross-Entropy loss on the MNIST, smallNORB and CIFAR-10 datasets.

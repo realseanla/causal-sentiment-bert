@@ -1,0 +1,7 @@
+Multi-task/VB learning/NN (/-LRB- MTL/NN )/-RRB- involves/VBZ the/DT simultaneous/JJ training/NN of/IN two/CD or/CC more/JJR related/JJ tasks/NNS over/IN shared/VBN representations/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP apply/VBP MTL/NN to/IN audio/JJ -/HYPH visual/JJ automatic/JJ speech/NN recognition/NN (/-LRB- AV/NN -/HYPH ASR/NN )/-RRB- ./.
+Our/PRP$ primary/JJ task/NN is/VBZ to/TO learn/VB a/DT mapping/NN between/IN audio/JJ -/HYPH visual/JJ fused/VBN features/NNS and/CC frame/NN labels/NNS obtained/VBN from/IN acoustic/JJ GMM/NN //HYPH HMM/NN model/NN ./.
+This/DT is/VBZ combined/VBN with/IN an/DT auxiliary/JJ task/NN which/WDT maps/VBZ visual/JJ features/NNS to/IN frame/NN labels/NNS obtained/VBN from/IN a/DT separate/JJ visual/JJ GMM/NN //HYPH HMM/NN model/NN ./.
+The/DT MTL/NN model/NN is/VBZ tested/VBN at/IN various/JJ levels/NNS of/IN babble/NN noise/NN and/CC the/DT results/NNS are/VBP compared/VBN with/IN a/DT base/NN -/HYPH line/NN hybrid/NN DNN/NN -/HYPH HMM/NN AV/NN -/HYPH ASR/NN model/NN ./.
+Our/PRP$ results/NNS indicate/VBP that/IN MTL/NN is/VBZ especially/RB useful/JJ at/IN higher/JJR level/NN of/IN noise/NN ./.
+Compared/VBN to/IN base/NN -/HYPH line/NN ,/, upto/NN 7/CD \/SYM percent/NN relative/JJ improvement/NN in/IN WER/NNP is/VBZ reported/VBN at/IN -3/CD SNR/NN dB/NN

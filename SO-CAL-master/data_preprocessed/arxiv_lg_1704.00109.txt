@@ -1,0 +1,9 @@
+Ensembles/NNS of/IN neural/JJ networks/NNS are/VBP known/VBN to/TO be/VB much/RB more/RBR robust/JJ and/CC accurate/JJ than/IN individual/JJ networks/NNS ./.
+However/RB ,/, training/VBG multiple/JJ deep/JJ networks/NNS for/IN model/NN averaging/NN is/VBZ computationally/RB expensive/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT method/NN to/TO obtain/VB the/DT seemingly/RB contradictory/JJ goal/NN of/IN ensembling/VBG multiple/JJ neural/JJ networks/NNS at/IN no/DT additional/JJ training/NN cost/NN ./.
+We/PRP achieve/VBP this/DT goal/NN by/IN training/VBG a/DT single/JJ neural/JJ network/NN ,/, converging/VBG to/IN several/JJ local/JJ minima/NN along/IN its/PRP$ optimization/NN path/NN and/CC saving/VBG the/DT model/NN parameters/NNS ./.
+To/TO obtain/VB repeated/VBN rapid/JJ convergence/NN ,/, we/PRP leverage/VBP recent/JJ work/NN on/IN cyclic/JJ learning/NN rate/NN schedules/NNS ./.
+The/DT resulting/VBG technique/NN ,/, which/WDT we/PRP refer/VBP to/IN as/IN Snapshot/NNP Ensembling/NNP ,/, is/VBZ simple/JJ ,/, yet/CC surprisingly/RB effective/JJ ./.
+We/PRP show/VBP in/IN a/DT series/NN of/IN experiments/NNS that/IN our/PRP$ approach/NN is/VBZ compatible/JJ with/IN diverse/JJ network/NN architectures/NNS and/CC learning/VBG tasks/NNS ./.
+It/PRP consistently/RB yields/VBZ lower/JJR error/NN rates/NNS than/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN single/JJ models/NNS at/IN no/DT additional/JJ training/NN cost/NN ,/, and/CC compares/VBZ favorably/RB with/IN traditional/JJ network/NN ensembles/NNS ./.
+On/IN CIFAR/NN -/HYPH 10/CD and/CC CIFAR/NN -/HYPH 100/CD our/PRP$ DenseNet/NNP Snapshot/NNP Ensembles/NNPS obtain/VB error/NN rates/NNS of/IN 3.4/CD percent/NN and/CC 17.4/CD percent/NN respectively/RB ./.

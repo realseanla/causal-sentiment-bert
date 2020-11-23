@@ -1,0 +1,4 @@
+Gaussian belief propagation (BP) has been widely used for distributed estimation in large-scale networks such as the smart grid, communication networks, and social networks, where local measurements/observations are scattered over a wide geographical area.
+However, the convergence of Gaus- sian BP is still an open issue.
+In this paper, we consider the convergence of Gaussian BP, focusing in particular on the convergence of the information matrix.
+We show analytically that the exchanged message information matrix converges for arbitrary positive semidefinite initial value, and its dis- tance to the unique positive definite limit matrix decreases exponentially fast.

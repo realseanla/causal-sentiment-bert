@@ -1,0 +1,6 @@
+We/PRP propose/VBP novel/JJ model/NN transfer/NN -/HYPH learning/NN methods/NNS that/WDT refine/VBP a/DT decision/NN forest/NN model/NN M/NN learned/VBD within/IN a/DT "/`` source/NN "/'' domain/NN using/VBG a/DT training/NN set/VBN sampled/VBN from/IN a/DT "/`` target/NN "/'' domain/NN ,/, assumed/VBD to/TO be/VB a/DT variation/NN of/IN the/DT source/NN ./.
+We/PRP present/VBP two/CD random/JJ forest/NN transfer/NN algorithms/NNS ./.
+The/DT first/JJ algorithm/NN searches/NNS greedily/RB for/IN locally/RB optimal/JJ modifications/NNS of/IN each/DT tree/NN structure/NN by/IN trying/VBG to/TO locally/RB expand/VB or/CC reduce/VB the/DT tree/NN around/IN individual/JJ nodes/NNS ./.
+The/DT second/JJ algorithm/NN does/VBZ not/RB modify/VB structure/NN ,/, but/CC only/RB the/DT parameter/NN (/-LRB- thresholds/NNS )/-RRB- associated/VBN with/IN decision/NN nodes/NNS ./.
+We/PRP also/RB propose/VBP to/TO combine/VB both/DT methods/NNS by/IN considering/VBG an/DT ensemble/NN that/WDT contains/VBZ the/DT union/NN of/IN the/DT two/CD forests/NNS ./.
+The/DT proposed/VBN methods/NNS exhibit/VBP impressive/JJ experimental/JJ results/NNS over/IN a/DT range/NN of/IN problems/NNS ./.

@@ -1,0 +1,4 @@
+We/PRP propose/VBP an/DT attention/NN -/HYPH enabled/VBN encoder/NN -/HYPH decoder/NN model/NN for/IN the/DT problem/NN of/IN grapheme/NN -/HYPH to/IN -/HYPH phoneme/NN conversion/NN ./.
+Most/JJS previous/JJ work/NN has/VBZ tackled/VBN the/DT problem/NN via/IN joint/NN sequence/NN models/NNS that/WDT require/VBP explicit/JJ alignments/NNS for/IN training/NN ./.
+In/IN contrast/NN ,/, the/DT attention/NN -/HYPH enabled/VBN encoder/NN -/HYPH decoder/NN model/NN allows/VBZ for/IN jointly/RB learning/VBG to/TO align/VB and/CC convert/VB characters/NNS to/IN phonemes/NNS ./.
+We/PRP explore/VBP different/JJ types/NNS of/IN attention/NN models/NNS ,/, including/VBG global/JJ and/CC local/JJ attention/NN ,/, and/CC our/PRP$ best/JJS models/NNS achieve/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN three/CD standard/JJ data/NNS sets/NNS (/-LRB- CMUDict/NNP ,/, Pronlex/NNP ,/, and/CC NetTalk/NNP )/-RRB- ./.

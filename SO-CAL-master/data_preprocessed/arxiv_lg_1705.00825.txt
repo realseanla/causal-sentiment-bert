@@ -1,0 +1,8 @@
+Multi-view/RB high/JJ -/HYPH dimensional/JJ data/NNS become/VBP increasingly/RB popular/JJ in/IN the/DT big/JJ data/NNS era/NN ./.
+Feature/NN selection/NN is/VBZ a/DT useful/JJ technique/NN for/IN alleviating/VBG the/DT curse/NN of/IN dimensionality/NN in/IN multi-view/JJ learning/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP study/VBP unsupervised/JJ feature/NN selection/NN for/IN multi-view/JJ data/NNS ,/, as/IN class/NN labels/NNS are/VBP usually/RB expensive/JJ to/TO obtain/VB ./.
+Traditional/JJ feature/NN selection/NN methods/NNS are/VBP mostly/RB designed/VBN for/IN single/JJ -/HYPH view/NN data/NNS and/CC can/MD not/RB fully/RB exploit/VB the/DT rich/JJ information/NN from/IN multi-view/JJ data/NNS ./.
+Existing/VBG multi-view/JJ feature/NN selection/NN methods/NNS are/VBP usually/RB based/VBN on/IN noisy/JJ cluster/NN labels/NNS which/WDT might/MD not/RB preserve/VB sufficient/JJ information/NN from/IN multi-view/JJ data/NNS ./.
+To/TO better/RBR utilize/VB multi-view/JJ information/NN ,/, we/PRP propose/VBP a/DT method/NN ,/, CDMA/NN -/HYPH FS/NN ,/, to/TO select/VB features/NNS for/IN each/DT view/NN by/IN performing/VBG alignment/NN on/IN a/DT cross/NN diffused/VBD matrix/NN ./.
+We/PRP formulate/VBP it/PRP as/IN a/DT constrained/VBN optimization/NN problem/NN and/CC solve/VB it/PRP using/VBG Quasi-Newton/NNP based/VBN method/NN ./.
+Experiments/NNS results/NNS on/IN four/CD real/JJ -/HYPH world/NN datasets/NNS show/VBP that/IN the/DT proposed/JJ method/NN is/VBZ more/RBR effective/JJ than/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS in/IN multi-view/JJ setting/NN ./.

@@ -1,0 +1,8 @@
+Approximate/JJ linear/JJ programming/NN (/-LRB- ALP/NN )/-RRB- is/VBZ an/DT efficient/JJ approach/NN to/IN solving/VBG large/JJ factored/VBD Markov/NNP decision/NN processes/NNS (/-LRB- MDPs/NNS )/-RRB- ./.
+The/DT main/JJ idea/NN of/IN the/DT method/NN is/VBZ to/TO approximate/VB the/DT optimal/JJ value/NN function/NN by/IN a/DT set/NN of/IN basis/NN functions/NNS and/CC optimize/VB their/PRP$ weights/NNS by/IN linear/JJ programming/NN (/-LRB- LP/NN )/-RRB- ./.
+This/DT paper/NN proposes/VBZ a/DT new/JJ ALP/NN approximation/NN ./.
+Comparing/VBG to/IN the/DT standard/JJ ALP/NN formulation/NN ,/, we/PRP decompose/VBP the/DT constraint/NN space/NN into/IN a/DT set/NN of/IN low/JJ -/HYPH dimensional/JJ spaces/NNS ./.
+This/DT structure/NN allows/VBZ for/IN solving/VBG the/DT new/JJ LP/NNP efficiently/RB ./.
+In/IN particular/JJ ,/, the/DT constraints/NNS of/IN the/DT LP/NN can/MD be/VB satisfied/JJ in/IN a/DT compact/JJ form/NN without/IN an/DT exponential/JJ dependence/NN on/IN the/DT treewidth/NN of/IN ALP/NN constraints/NNS ./.
+We/PRP study/VBP both/DT practical/JJ and/CC theoretical/JJ aspects/NNS of/IN the/DT proposed/VBN approach/NN ./.
+Moreover/RB ,/, we/PRP demonstrate/VBP its/PRP$ scale/NN -/HYPH up/JJ potential/NN on/IN an/DT MDP/NN with/IN more/JJR than/IN 2/CD ^/SYM 100/CD states/NNS ./.

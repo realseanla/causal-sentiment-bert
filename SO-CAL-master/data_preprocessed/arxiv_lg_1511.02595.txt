@@ -1,0 +1,9 @@
+Normalized/JJ graph/NN cut/NN (/-LRB- NGC/NNP )/-RRB- has/VBZ become/VBN a/DT popular/JJ research/NN topic/NN due/IN to/IN its/PRP$ wide/JJ applications/NNS in/IN a/DT large/JJ variety/NN of/IN areas/NNS like/IN machine/NN learning/NN and/CC very/RB large/JJ scale/NN integration/NN (/-LRB- VLSI/NNP )/-RRB- circuit/NN design/NN ./.
+Most/JJS of/IN traditional/JJ NGC/NNP methods/NNS are/VBP based/VBN on/IN pairwise/JJ relationships/NNS (/-LRB- similarities/NNS )/-RRB- ./.
+However/RB ,/, in/IN real/JJ -/HYPH world/NN applications/NNS relationships/NNS among/IN the/DT vertices/NNS (/-LRB- objects/NNS )/-RRB- may/MD be/VB more/RBR complex/JJ than/IN pairwise/JJ ,/, which/WDT are/VBP typically/RB represented/VBN as/IN hyperedges/NNS in/IN hypergraphs/NNS ./.
+Thus/RB ,/, normalized/VBN hypergraph/NN cut/NN (/-LRB- NHC/NN )/-RRB- has/VBZ attracted/VBN more/JJR and/CC more/JJR attention/NN ./.
+Existing/VBG NHC/NN methods/NNS can/MD not/RB achieve/VB satisfactory/JJ performance/NN in/IN real/JJ applications/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT novel/JJ relaxation/NN approach/NN ,/, which/WDT is/VBZ called/VBN relaxed/JJ NHC/NN (/-LRB- RNHC/NN )/-RRB- ,/, to/TO solve/VB the/DT NHC/NN problem/NN ./.
+Our/PRP$ model/NN is/VBZ defined/VBN as/IN an/DT optimization/NN problem/NN on/IN the/DT Stiefel/NNP manifold/NN ./.
+To/TO solve/VB this/DT problem/NN ,/, we/PRP resort/VBP to/IN the/DT Cayley/NNP transformation/NN to/TO devise/VB a/DT feasible/JJ learning/NN algorithm/NN ./.
+Experimental/JJ results/NNS on/IN a/DT set/NN of/IN large/JJ hypergraph/NN benchmarks/NNS for/IN clustering/NN and/CC partitioning/NN in/IN VLSI/NNP domain/NN show/NN that/WDT RNHC/NNP can/MD outperform/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN methods/NNS ./.

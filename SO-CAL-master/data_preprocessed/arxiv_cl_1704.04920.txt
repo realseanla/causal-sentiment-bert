@@ -1,0 +1,4 @@
+We/PRP propose/VBP a/DT novel/JJ deep/JJ learning/NN model/NN for/IN joint/JJ document/NN -/HYPH level/NN entity/NN disambiguation/NN ,/, which/WDT leverages/VBZ learned/VBN neural/JJ representations/NNS ./.
+Key/JJ components/NNS are/VBP entity/NN embeddings/NNS ,/, a/DT neural/JJ attention/NN mechanism/NN over/IN local/JJ context/NN windows/NNS ,/, and/CC a/DT differentiable/JJ joint/JJ inference/NN stage/NN for/IN disambiguation/NN ./.
+Our/PRP$ approach/NN thereby/RB combines/VBZ benefits/NNS of/IN deep/JJ learning/NN with/IN more/JJR traditional/JJ approaches/NNS such/JJ as/IN graphical/JJ models/NNS and/CC probabilistic/JJ mention/NN -/HYPH entity/NN maps/NNS ./.
+Extensive/JJ experiments/NNS show/VBP that/IN we/PRP are/VBP able/JJ to/TO obtain/VB competitive/JJ or/CC state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN accuracy/NN at/IN moderate/JJ computational/JJ costs/NNS ./.

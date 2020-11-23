@@ -1,0 +1,6 @@
+This/DT paper/NN presents/VBZ a/DT RKHS/NN ,/, in/IN general/JJ ,/, of/IN vector/NN -/HYPH valued/VBN functions/NNS intended/VBN to/TO be/VB used/VBN as/IN hypothesis/NN space/NN for/IN multi-task/VB classification/NN ./.
+It/PRP extends/VBZ similar/JJ hypothesis/NN spaces/NNS that/WDT have/VBP previously/RB considered/VBN in/IN the/DT literature/NN ./.
+Assuming/VBG this/DT space/NN ,/, an/DT improved/JJ Empirical/JJ Rademacher/NNP Complexity/NN -/HYPH based/VBN generalization/NN bound/VBN is/VBZ derived/VBN ./.
+The/DT analysis/NN is/VBZ itself/PRP extended/VBN to/IN an/DT MKL/NN setting/NN ./.
+The/DT connection/NN between/IN the/DT proposed/VBN hypothesis/NN space/NN and/CC a/DT Group/NNP -/HYPH Lasso/NNP type/NN regularizer/NN is/VBZ discussed/VBN ./.
+Finally/RB ,/, experimental/JJ results/NNS ,/, with/IN some/DT SVM/NN -/HYPH based/VBN Multi-Task/NNP Learning/NNP problems/NNS ,/, underline/VB the/DT quality/NN of/IN the/DT derived/VBN bounds/NNS and/CC validate/VB the/DT paper/NN 's/POS analysis/NN ./.

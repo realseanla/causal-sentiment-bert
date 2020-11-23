@@ -1,0 +1,6 @@
+Solving/VBG algebraic/JJ word/NN problems/NNS requires/VBZ executing/VBG a/DT series/NN of/IN arithmetic/NN operations/NNS ---/, a/DT program/NN ---/, to/TO obtain/VB a/DT final/JJ answer/NN ./.
+However/RB ,/, since/IN programs/NNS can/MD be/VB arbitrarily/RB complicated/VBN ,/, inducing/VBG them/PRP directly/RB from/IN question/NN -/HYPH answer/NN pairs/NNS is/VBZ a/DT formidable/JJ challenge/NN ./.
+To/TO make/VB this/DT task/NN more/RBR feasible/JJ ,/, we/PRP solve/VBP these/DT problems/NNS by/IN generating/VBG answer/NN rationales/NNS ,/, sequences/NNS of/IN natural/JJ language/NN and/CC human/JJ -/HYPH readable/JJ mathematical/JJ expressions/NNS that/WDT derive/VBP the/DT final/JJ answer/NN through/IN a/DT series/NN of/IN small/JJ steps/NNS ./.
+Although/IN rationales/NNS do/VBP not/RB explicitly/RB specify/VB programs/NNS ,/, they/PRP provide/VBP a/DT scaffolding/NN for/IN their/PRP$ structure/NN via/IN intermediate/JJ milestones/NNS ./.
+To/TO evaluate/VB our/PRP$ approach/NN ,/, we/PRP have/VBP created/VBN a/DT new/JJ 100,000/CD -/HYPH sample/NN dataset/NN of/IN questions/NNS ,/, answers/NNS and/CC rationales/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN indirect/JJ supervision/NN of/IN program/NN learning/NN via/IN answer/NN rationales/NNS is/VBZ a/DT promising/JJ strategy/NN for/IN inducing/VBG arithmetic/NN programs/NNS ./.

@@ -1,0 +1,5 @@
+Much/JJ recent/JJ research/NN in/IN decision/NN theoretic/JJ planning/NN has/VBZ adopted/VBN Markov/NNP decision/NN processes/NNS (/-LRB- MDPs/NNS )/-RRB- as/IN the/DT model/NN of/IN choice/NN ,/, and/CC has/VBZ attempted/VBN to/TO make/VB their/PRP$ solution/NN more/RBR tractable/JJ by/IN exploiting/VBG problem/NN structure/NN ./.
+One/CD particular/JJ algorithm/NN ,/, structured/JJ policy/NN construction/NN achieves/VBZ this/DT by/IN means/NNS of/IN a/DT decision/NN theoretic/JJ analog/NN of/IN goal/NN regression/NN using/VBG action/NN descriptions/NNS based/VBN on/IN Bayesian/JJ networks/NNS with/IN tree/NN -/HYPH structured/VBN conditional/JJ probability/NN tables/NNS ./.
+The/DT algorithm/NN as/IN presented/VBN is/VBZ not/RB able/JJ to/TO deal/VB with/IN actions/NNS with/IN correlated/VBN effects/NNS ./.
+We/PRP describe/VBP a/DT new/JJ decision/NN theoretic/JJ regression/NN operator/NN that/WDT corrects/VBZ this/DT weakness/NN ./.
+While/IN conceptually/RB straightforward/JJ ,/, this/DT extension/NN requires/VBZ a/DT somewhat/RB more/RBR complicated/JJ technical/JJ approach/NN ./.

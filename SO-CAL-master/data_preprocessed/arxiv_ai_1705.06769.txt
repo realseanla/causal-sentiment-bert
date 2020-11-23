@@ -1,0 +1,8 @@
+The/DT problem/NN of/IN sparse/JJ rewards/NNS is/VBZ one/CD of/IN the/DT hardest/JJS challenges/NNS in/IN contemporary/JJ reinforcement/NN learning/NN ./.
+Hierarchical/JJ reinforcement/NN learning/NN (/-LRB- HRL/NN )/-RRB- tackles/VBZ this/DT problem/NN by/IN using/VBG a/DT set/NN of/IN temporally/RB -/HYPH extended/VBN actions/NNS ,/, or/CC options/NNS ,/, each/DT of/IN which/WDT has/VBZ its/PRP$ own/JJ subgoal/NN ./.
+These/DT subgoals/NNS are/VBP normally/RB handcrafted/VBN for/IN specific/JJ tasks/NNS ./.
+Here/RB ,/, though/RB ,/, we/PRP introduce/VBP a/DT generic/JJ class/NN of/IN subgoals/NNS with/IN broad/JJ applicability/NN in/IN the/DT visual/JJ domain/NN ./.
+Underlying/VBG our/PRP$ approach/NN (/-LRB- in/IN common/JJ with/IN work/NN using/VBG "/`` auxiliary/JJ tasks/NNS "/'' )/-RRB- is/VBZ the/DT hypothesis/NN that/IN the/DT ability/NN to/TO control/VB aspects/NNS of/IN the/DT environment/NN is/VBZ an/DT inherently/RB useful/JJ skill/NN to/TO have/VB ./.
+We/PRP incorporate/VBP such/JJ subgoals/NNS in/IN an/DT end/NN -/HYPH to/IN -/HYPH end/NN hierarchical/JJ reinforcement/NN learning/VBG system/NN and/CC test/NN two/CD variants/NNS of/IN our/PRP$ algorithm/NN on/IN a/DT number/NN of/IN games/NNS from/IN the/DT Atari/NNP suite/NN ./.
+We/PRP highlight/VBP the/DT advantage/NN of/IN our/PRP$ approach/NN in/IN one/CD of/IN the/DT hardest/JJS games/NNS --/: Montezuma/NNP 's/POS revenge/NN --/: for/IN which/WDT the/DT ability/NN to/TO handle/VB sparse/JJ rewards/NNS is/VBZ key/JJ ./.
+Our/PRP$ agent/NN learns/VBZ several/JJ times/NNS faster/JJR than/IN the/DT current/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN HRL/NNP agent/NN in/IN this/DT game/NN ,/, reaching/VBG a/DT similar/JJ level/NN of/IN performance/NN ./.

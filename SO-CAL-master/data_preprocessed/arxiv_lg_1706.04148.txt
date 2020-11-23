@@ -1,0 +1,5 @@
+Session/NNP -/HYPH based/VBN recommendations/NNS are/VBP highly/RB relevant/JJ in/IN many/JJ modern/JJ on/IN -/HYPH line/NN services/NNS (/-LRB- e.g./FW e-commerce/NN ,/, video/NN streaming/NN )/-RRB- and/CC recommendation/NN settings/NNS ./.
+Recurrent/JJ Neural/JJ Networks/NNS have/VBP recently/RB been/VBN shown/VBN to/TO perform/VB very/RB well/RB in/IN session/NN -/HYPH based/VBN settings/NNS ./.
+While/IN in/IN many/JJ session/NN -/HYPH based/VBN recommendation/NN domains/NNS user/NN identifiers/NNS are/VBP hard/JJ to/TO come/VB by/IN ,/, there/EX are/VBP also/RB domains/NNS in/IN which/WDT user/NN profiles/NNS are/VBP readily/RB available/JJ ./.
+We/PRP propose/VBP a/DT seamless/JJ way/NN to/IN personalize/VB RNN/NN models/NNS with/IN cross-session/NN information/NN transfer/NN and/CC devise/VB a/DT hierarchical/JJ RNN/NN model/NN that/WDT relies/VBZ end/NN evolves/VBZ latent/JJ hidden/JJ states/NNS of/IN the/DT RNN/NNP 's/POS across/IN user/NN sessions/NNS ./.
+Results/NNS on/IN two/CD industry/NN datasets/NNS show/VBP large/JJ improvements/NNS over/IN the/DT session/NN -/HYPH only/JJ RNN/NNP 's/POS ./.

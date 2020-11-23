@@ -1,0 +1,11 @@
+Using/VBG supporting/VBG backchannel/NN (/-LRB- BC/NN )/-RRB- cues/NNS can/MD make/VB human/JJ -/HYPH computer/NN interaction/NN more/RBR social/JJ ./.
+BCs/NNS provide/VBP a/DT feedback/NN from/IN the/DT listener/NN to/IN the/DT speaker/NN indicating/VBG to/IN the/DT speaker/NN that/IN he/PRP is/VBZ still/RB listened/VBN to/IN ./.
+BCs/NNS can/MD be/VB expressed/VBN in/IN different/JJ ways/NNS ,/, depending/VBG on/IN the/DT modality/NN of/IN the/DT interaction/NN ,/, for/IN example/NN as/IN gestures/NNS or/CC acoustic/JJ cues/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP only/RB considered/VBD acoustic/JJ cues/NNS ./.
+We/PRP are/VBP proposing/VBG an/DT approach/NN towards/IN detecting/VBG BC/NN opportunities/NNS based/VBN on/IN acoustic/JJ input/NN features/VBZ like/IN power/NN and/CC pitch/NN ./.
+While/IN other/JJ works/NNS in/IN the/DT field/NN rely/VBP on/IN the/DT use/NN of/IN a/DT hand/NN -/HYPH written/VBN rule/NN set/NN or/CC specialized/JJ features/NNS ,/, we/PRP made/VBD use/NN of/IN artificial/JJ neural/JJ networks/NNS ./.
+They/PRP are/VBP capable/JJ of/IN deriving/VBG higher/JJR order/NN features/NNS from/IN input/NN features/NNS themselves/PRP ./.
+In/IN our/PRP$ setup/NN ,/, we/PRP first/RB used/VBD a/DT fully/RB connected/VBN feed/NN -/HYPH forward/JJ network/NN to/TO establish/VB an/DT updated/VBN baseline/NN in/IN comparison/NN to/IN our/PRP$ previously/RB proposed/VBN setup/NN ./.
+We/PRP also/RB extended/VBD this/DT setup/NN by/IN the/DT use/NN of/IN Long/JJ Short/JJ -/HYPH Term/NN Memory/NN (/-LRB- LSTM/NN )/-RRB- networks/NNS which/WDT have/VBP shown/VBN to/TO outperform/VB feed/NN -/HYPH forward/NN based/VBN setups/NNS on/IN various/JJ tasks/NNS ./.
+Our/PRP$ best/JJS system/NN achieved/VBD an/DT F1/NN -/HYPH Score/NN of/IN 0.37/CD using/VBG power/NN and/CC pitch/NN features/NNS ./.
+Adding/VBG linguistic/JJ information/NN using/VBG word2vec/NN ,/, the/DT score/NN increased/VBD to/IN 0.39/CD ./.

@@ -1,0 +1,8 @@
+The/DT paper/NN introduces/VBZ a/DT new/JJ method/NN for/IN discrimination/NN of/IN documents/NNS given/VBN in/IN different/JJ scripts/NNS ./.
+The/DT document/NN is/VBZ mapped/VBN into/IN a/DT uniformly/RB coded/VBN text/NN of/IN numerical/JJ values/NNS ./.
+It/PRP is/VBZ derived/VBN from/IN the/DT position/NN of/IN the/DT letters/NNS in/IN the/DT text/NN line/NN ,/, based/VBN on/IN their/PRP$ typographical/JJ characteristics/NNS ./.
+Each/DT code/NN is/VBZ considered/VBN as/IN a/DT gray/JJ level/NN ./.
+Accordingly/RB ,/, the/DT coded/VBN text/NN determines/VBZ a/DT 1/CD -/HYPH D/NN image/NN ,/, on/IN which/WDT texture/NN analysis/NN by/IN run/NN -/HYPH length/NN statistics/NNS and/CC local/JJ binary/JJ pattern/NN is/VBZ performed/VBN ./.
+It/PRP defines/VBZ feature/NN vectors/NNS representing/VBG the/DT script/NN content/NN of/IN the/DT document/NN ./.
+A/DT modified/VBN clustering/NN approach/NN employed/VBN on/IN document/NN feature/NN vector/NN groups/NNS documents/NNS written/VBN in/IN the/DT same/JJ script/NN ./.
+Experimentation/NNP performed/VBD on/IN two/CD custom/NN oriented/VBN databases/NNS of/IN historical/JJ documents/NNS in/IN old/JJ Cyrillic/JJ ,/, angular/JJ and/CC round/JJ Glagolitic/JJ as/RB well/RB as/IN Antiqua/NNP and/CC Fraktur/NNP scripts/NNS demonstrates/VBZ the/DT superiority/NN of/IN the/DT proposed/JJ method/NN with/IN respect/NN to/IN well/RB -/HYPH known/VBN methods/NNS in/IN the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN ./.

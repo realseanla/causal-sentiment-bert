@@ -1,0 +1,6 @@
+In/IN the/DT context/NN of/IN contemporary/JJ monophonic/JJ music/NN ,/, expression/NN can/MD be/VB seen/VBN as/IN the/DT difference/NN between/IN a/DT musical/JJ performance/NN and/CC its/PRP$ symbolic/JJ representation/NN ,/, i.e./FW a/DT musical/JJ score/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP how/WRB Maximum/JJ Entropy/NNP (/-LRB- MaxEnt/NNP )/-RRB- models/NNS can/MD be/VB used/VBN to/TO generate/VB musical/JJ expression/NN in/IN order/NN to/TO mimic/VB a/DT human/JJ performance/NN ./.
+As/IN a/DT training/NN corpus/NN ,/, we/PRP had/VBD a/DT professional/JJ pianist/NN play/NN about/RB 150/CD melodies/NNS of/IN jazz/NN ,/, pop/NN ,/, and/CC latin/JJ jazz/NN ./.
+The/DT results/NNS show/VBP a/DT good/JJ predictive/JJ power/NN ,/, validating/VBG the/DT choice/NN of/IN our/PRP$ model/NN ./.
+Additionally/RB ,/, we/PRP set/VBD up/RP a/DT listening/NN test/NN whose/WP$ results/NNS reveal/VBP that/IN on/IN average/JJ ,/, people/NNS significantly/RB prefer/VBP the/DT melodies/NNS generated/VBN by/IN the/DT MaxEnt/NNP model/NN than/IN the/DT ones/NNS without/IN any/DT expression/NN ,/, or/CC with/IN fully/RB random/JJ expression/NN ./.
+Furthermore/RB ,/, in/IN some/DT cases/NNS ,/, MaxEnt/NNP melodies/NNS are/VBP almost/RB as/IN popular/JJ as/IN the/DT human/JJ performed/VBN ones/NNS ./.

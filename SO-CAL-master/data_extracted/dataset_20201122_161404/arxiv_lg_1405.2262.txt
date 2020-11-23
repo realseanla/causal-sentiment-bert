@@ -1,0 +1,5 @@
+We present a method for training a deep neural network containing sinusoidal activation functions to fit to time-series data.
+Weights are initialized using a fast Fourier transform, then trained with regularization to improve generalization.
+A simple dynamic parameter tuning method is employed to adjust both the learning rate and regularization term, such that stability and efficient training are both achieved.
+We show how deeper layers can be utilized to model the observed sequence using a sparser set of sinusoid units, and how non-uniform regularization can improve generalization by promoting the shifting of weight toward simpler units.
+The method is demonstrated with time-series problems to show that it leads to effective extrapolation of nonlinear trends.

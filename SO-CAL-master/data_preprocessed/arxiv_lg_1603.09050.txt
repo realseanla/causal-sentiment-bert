@@ -1,0 +1,8 @@
+We/PRP study/VBP the/DT robustness/NN of/IN active/JJ learning/NN (/-LRB- AL/NNP )/-RRB- algorithms/NNS against/IN prior/JJ misspecification/NN :/: whether/IN an/DT algorithm/NN achieves/VBZ similar/JJ performance/NN using/VBG a/DT perturbed/VBN prior/JJ as/IN compared/VBN to/IN using/VBG the/DT true/JJ prior/JJ ./.
+In/IN both/CC the/DT average/JJ and/CC worst/JJS cases/NNS of/IN the/DT maximum/NN coverage/NN setting/NN ,/, we/PRP prove/VBP that/IN all/DT $/$ \/SYM alpha/NN $/$ -/HYPH approximate/JJ algorithms/NNS are/VBP robust/JJ (/-LRB- i.e./FW ,/, near/IN $/$ \/SYM alpha/NN $/$ -/HYPH approximate/JJ )/-RRB- if/IN the/DT utility/NN is/VBZ Lipschitz/NNP continuous/JJ in/IN the/DT prior/JJ ./.
+We/PRP further/RB show/VBP that/IN robustness/NN may/MD not/RB be/VB achieved/VBN if/IN the/DT utility/NN is/VBZ non-Lipschitz/JJ ./.
+This/DT suggests/VBZ we/PRP should/MD use/VB a/DT Lipschitz/NNP utility/NN for/IN AL/NNP if/IN robustness/NN is/VBZ required/VBN ./.
+For/IN the/DT minimum/JJ cost/NN setting/NN ,/, we/PRP can/MD also/RB obtain/VB a/DT robustness/NN result/NN for/IN approximate/JJ AL/NNP algorithms/NNS ./.
+Our/PRP$ results/NNS imply/VBP that/IN many/JJ commonly/RB used/VBN AL/NNP algorithms/NNS are/VBP robust/JJ against/IN perturbed/VBN priors/NNS ./.
+We/PRP then/RB propose/VB the/DT use/NN of/IN a/DT mixture/NN prior/RB to/IN alleviate/VB the/DT problem/NN of/IN prior/JJ misspecification/NN ./.
+We/PRP analyze/VBP the/DT robustness/NN of/IN the/DT uniform/JJ mixture/NN prior/JJ and/CC show/VBP experimentally/RB that/IN it/PRP performs/VBZ reasonably/RB well/RB in/IN practice/NN ./.

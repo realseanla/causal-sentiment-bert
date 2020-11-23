@@ -1,0 +1,6 @@
+Topic/NN models/NNS provide/VBP a/DT useful/JJ method/NN for/IN dimensionality/NN reduction/NN and/CC exploratory/JJ data/NNS analysis/NN in/IN large/JJ text/NN corpora/NNS ./.
+Most/JJS approaches/NNS to/IN topic/NN model/NN inference/NN have/VBP been/VBN based/VBN on/IN a/DT maximum/JJ likelihood/NN objective/NN ./.
+Efficient/JJ algorithms/NNS exist/VBP that/IN approximate/JJ this/DT objective/NN ,/, but/CC they/PRP have/VBP no/DT provable/JJ guarantees/NNS ./.
+Recently/RB ,/, algorithms/NNS have/VBP been/VBN introduced/VBN that/WDT provide/VBP provable/JJ bounds/NNS ,/, but/CC these/DT algorithms/NNS are/VBP not/RB practical/JJ because/IN they/PRP are/VBP inefficient/JJ and/CC not/RB robust/JJ to/IN violations/NNS of/IN model/NN assumptions/NNS ./.
+In/IN this/DT paper/NN we/PRP present/VBP an/DT algorithm/NN for/IN topic/NN model/NN inference/NN that/WDT is/VBZ both/DT provable/JJ and/CC practical/JJ ./.
+The/DT algorithm/NN produces/VBZ results/NNS comparable/JJ to/IN the/DT best/JJS MCMC/NN implementations/NNS while/IN running/VBG orders/NNS of/IN magnitude/NN faster/RBR ./.

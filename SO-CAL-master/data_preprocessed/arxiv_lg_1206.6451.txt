@@ -1,0 +1,6 @@
+As/IN machine/NN learning/NN algorithms/NNS enter/VBP applications/NNS in/IN industrial/JJ settings/NNS ,/, there/EX is/VBZ increased/VBN interest/NN in/IN controlling/VBG their/PRP$ cpu/NN -/HYPH time/NN during/IN testing/NN ./.
+The/DT cpu/NN -/HYPH time/NN consists/VBZ of/IN the/DT running/NN time/NN of/IN the/DT algorithm/NN and/CC the/DT extraction/NN time/NN of/IN the/DT features/NNS ./.
+The/DT latter/JJ can/MD vary/VB drastically/RB when/WRB the/DT feature/NN set/NN is/VBZ diverse/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT algorithm/NN ,/, the/DT Greedy/NNP Miser/NNP ,/, that/DT incorporates/VBZ the/DT feature/NN extraction/NN cost/NN during/IN training/NN to/IN explicitly/RB minimize/VB the/DT cpu/NN -/HYPH time/NN during/IN testing/NN ./.
+The/DT algorithm/NN is/VBZ a/DT straightforward/JJ extension/NN of/IN stage-wise/JJ regression/NN and/CC is/VBZ equally/RB suitable/JJ for/IN regression/NN or/CC multi-class/NN classification/NN ./.
+Compared/VBN to/IN prior/JJ work/NN ,/, it/PRP is/VBZ significantly/RB more/JJR cost/NN -/HYPH effective/JJ and/CC scales/NNS to/IN larger/JJR data/NNS sets/NNS ./.

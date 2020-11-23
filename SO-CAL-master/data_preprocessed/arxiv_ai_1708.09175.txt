@@ -1,0 +1,13 @@
+Chemical/NNP multisensor/NN devices/NNS need/VBP calibration/NN algorithms/NNS to/TO estimate/VB gas/NN concentrations/NNS ./.
+Their/PRP$ possible/JJ adoption/NN as/IN indicative/JJ air/NN quality/NN measurements/NNS devices/NNS poses/VBZ new/JJ challenges/NNS due/IN to/IN the/DT need/NN to/TO operate/VB in/IN continuous/JJ monitoring/NN modes/NNS in/IN uncontrolled/JJ environments/NNS ./.
+Several/JJ issues/NNS ,/, including/VBG slow/JJ dynamics/NNS ,/, continue/VB to/TO affect/VB their/PRP$ real/JJ world/NN performances/NNS ./.
+At/IN the/DT same/JJ time/NN ,/, the/DT need/NN for/IN estimating/VBG pollutant/JJ concentrations/NNS on/IN board/NN the/DT devices/NNS ,/, espe/NN -/HYPH cially/NN for/IN wearables/NNS and/CC IoT/NN deployments/NNS ,/, is/VBZ becoming/VBG highly/RB desirable/JJ ./.
+In/IN this/DT framework/NN ,/, several/JJ calibration/NN approaches/NNS have/VBP been/VBN proposed/VBN and/CC tested/VBN on/IN a/DT variety/NN of/IN proprietary/JJ devices/NNS and/CC datasets/NNS ;/: still/RB ,/, no/DT thorough/JJ comparison/NN is/VBZ available/JJ to/IN researchers/NNS ./.
+This/DT work/NN attempts/VBZ a/DT benchmarking/NN of/IN the/DT most/RBS promising/JJ calibration/NN algorithms/NNS according/VBG to/IN recent/JJ literature/NN with/IN a/DT focus/NN on/IN machine/NN learning/NN approaches/NNS ./.
+We/PRP test/VBP the/DT techniques/NNS against/IN absolute/JJ and/CC dynamic/JJ performances/NNS ,/, generalization/NN capabilities/NNS and/CC computational/JJ //HYPH storage/NN needs/NNS using/VBG three/CD different/JJ datasets/NNS sharing/VBG continuous/JJ monitoring/NN operation/NN methodology/NN ./.
+Our/PRP$ results/NNS can/MD guide/VB researchers/NNS and/CC engineers/NNS in/IN the/DT choice/NN of/IN optimal/JJ strategy/NN ./.
+They/PRP show/VBP that/IN non-linear/JJ multivariate/JJ techniques/NNS yield/VBP reproducible/JJ results/NNS ,/, outperforming/VBG lin/NN -/HYPH ear/NN approaches/NNS ./.
+Specifically/RB ,/, the/DT Support/NN Vector/NNP Regression/NN method/NN consistently/RB shows/VBZ good/JJ performances/NNS in/IN all/PDT the/DT considered/VBN scenarios/NNS ./.
+We/PRP highlight/VBP the/DT enhanced/VBN suitability/NN of/IN shallow/JJ neural/JJ networks/NNS in/IN a/DT trade/NN -/HYPH off/NN between/IN performance/NN and/CC computational/JJ //HYPH storage/NN needs/NNS ./.
+We/PRP confirm/VBP ,/, on/IN a/DT much/JJ wider/JJR basis/NN ,/, the/DT advantages/NNS of/IN dynamic/JJ approaches/NNS with/IN respect/NN to/IN static/JJ ones/NNS that/WDT only/RB rely/VBP on/IN instantaneous/JJ sensor/NN array/NN response/NN ./.
+The/DT latter/JJ have/VBP been/VBN shown/VBN to/TO be/VB best/JJS choice/NN whenever/WRB prompt/JJ and/CC precise/JJ response/NN is/VBZ needed/VBN ./.

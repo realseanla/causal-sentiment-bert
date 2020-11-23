@@ -1,0 +1,7 @@
+Information/NN sources/NNS such/JJ as/IN relational/JJ databases/NNS ,/, spreadsheets/NNS ,/, XML/NN ,/, JSON/NNP ,/, and/CC Web/NN APIs/NNS contain/VBP a/DT tremendous/JJ amount/NN of/IN structured/JJ data/NNS that/WDT can/MD be/VB leveraged/VBN to/TO build/VB and/CC augment/VB knowledge/NN graphs/NNS ./.
+However/RB ,/, they/PRP rarely/RB provide/VBP a/DT semantic/JJ model/NN to/TO describe/VB their/PRP$ contents/NNS ./.
+Semantic/JJ models/NNS of/IN data/NNS sources/NNS represent/VBP the/DT implicit/JJ meaning/NN of/IN the/DT data/NNS by/IN specifying/VBG the/DT concepts/NNS and/CC the/DT relationships/NNS within/IN the/DT data/NNS ./.
+Such/JJ models/NNS are/VBP the/DT key/JJ ingredients/NNS to/IN automatically/RB publish/VB the/DT data/NNS into/IN knowledge/NN graphs/NNS ./.
+Manually/RB modeling/VBG the/DT semantics/NNS of/IN data/NNS sources/NNS requires/VBZ significant/JJ effort/NN and/CC expertise/NN ,/, and/CC although/IN desirable/JJ ,/, building/VBG these/DT models/NNS automatically/RB is/VBZ a/DT challenging/JJ problem/NN ./.
+Most/JJS of/IN the/DT related/JJ work/NN focuses/VBZ on/IN semantic/JJ annotation/NN of/IN the/DT data/NNS fields/NNS (/-LRB- source/NN attributes/NNS )/-RRB- ./.
+However/RB ,/, constructing/VBG a/DT semantic/JJ model/NN that/WDT explicitly/RB describes/VBZ the/DT relationships/NNS between/IN the/DT attributes/NNS in/IN addition/NN to/IN their/PRP$ semantic/JJ types/NNS is/VBZ critical/JJ ./.

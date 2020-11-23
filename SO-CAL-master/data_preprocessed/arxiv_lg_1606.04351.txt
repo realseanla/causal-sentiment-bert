@@ -1,0 +1,9 @@
+This/DT paper/NN describes/VBZ the/DT participation/NN of/IN the/DT team/NN "/`` TwiSE/NNP "/'' in/IN the/DT SemEval/NNP 2016/CD challenge/NN ./.
+Specifically/RB ,/, we/PRP participated/VBD in/IN Task/NNP 4/CD ,/, namely/RB "/`` Sentiment/NN Analysis/NN in/IN Twitter/NNP "/'' for/IN which/WDT we/PRP implemented/VBD sentiment/NN classification/NN systems/NNS for/IN subtasks/NNS A/DT ,/, B/NNP ,/, C/NNP and/CC D/NNP ./.
+Our/PRP$ approach/NN consists/VBZ of/IN two/CD steps/NNS ./.
+In/IN the/DT first/JJ step/NN ,/, we/PRP generate/VBP and/CC validate/VBP diverse/JJ feature/NN sets/NNS for/IN twitter/NN sentiment/NN evaluation/NN ,/, inspired/VBN by/IN the/DT work/NN of/IN participants/NNS of/IN previous/JJ editions/NNS of/IN such/JJ challenges/NNS ./.
+In/IN the/DT second/JJ step/NN ,/, we/PRP focus/VBP on/IN the/DT optimization/NN of/IN the/DT evaluation/NN measures/NNS of/IN the/DT different/JJ subtasks/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP examine/VBP different/JJ learning/NN strategies/NNS by/IN validating/VBG them/PRP on/IN the/DT data/NNS provided/VBN by/IN the/DT task/NN organisers/NNS ./.
+For/IN our/PRP$ final/JJ submissions/NNS we/PRP used/VBD an/DT ensemble/NN learning/NN approach/NN (/-LRB- stacked/VBN generalization/NN )/-RRB- for/IN Subtask/NNP A/NNP and/CC single/JJ linear/JJ models/NNS for/IN the/DT rest/NN of/IN the/DT subtasks/NNS ./.
+In/IN the/DT official/JJ leaderboard/NN we/PRP were/VBD ranked/VBN 9/35/CD ,/, 8/19/CD ,/, 1/11/CD and/CC 2/14/CD for/IN subtasks/NNS A/DT ,/, B/NNP ,/, C/NNP and/CC D/NNP respectively/RB ./.
+\/SYM footnote/NN {/-LRB- We/PRP make/VBP the/DT code/NN available/JJ for/IN research/NN purposes/NNS at/IN \/SYM url/NN {/-LRB-

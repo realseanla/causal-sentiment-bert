@@ -1,0 +1,7 @@
+One/CD of/IN the/DT most/RBS important/JJ fields/NNS in/IN robotics/NNS is/VBZ the/DT optimization/NN of/IN controllers/NNS ./.
+Currently/RB ,/, robots/NNS are/VBP treated/VBN as/IN a/DT black/JJ box/NN in/IN this/DT optimization/NN process/NN ,/, which/WDT is/VBZ the/DT reason/NN why/WRB derivative/JJ -/HYPH free/JJ optimization/NN methods/NNS such/JJ as/IN evolutionary/JJ algorithms/NNS or/CC reinforcement/NN learning/NN are/VBP omnipresent/JJ ./.
+We/PRP propose/VBP an/DT implementation/NN of/IN a/DT modern/JJ physics/NN engine/NN ,/, which/WDT has/VBZ the/DT ability/NN to/TO differentiate/VB control/NN parameters/NNS ./.
+This/DT has/VBZ been/VBN implemented/VBN on/IN both/DT CPU/NN and/CC GPU/NNP ./.
+We/PRP show/VBP how/WRB this/DT speeds/VBZ up/RP the/DT optimization/NN process/NN ,/, even/RB for/IN small/JJ problems/NNS ,/, and/CC why/WRB it/PRP will/MD scale/VB to/IN bigger/JJR problems/NNS ./.
+We/PRP explain/VBP why/WRB this/DT is/VBZ an/DT alternative/JJ approach/NN to/IN deep/JJ Q/NN -/HYPH learning/NN ,/, for/IN using/VBG deep/JJ learning/NN in/IN robotics/NNS ./.
+Lastly/RB ,/, we/PRP argue/VBP that/IN this/DT is/VBZ a/DT big/JJ step/NN for/IN deep/JJ learning/NN in/IN robotics/NNS ,/, as/IN it/PRP opens/VBZ up/RP new/JJ possibilities/NNS to/TO optimize/VB robots/NNS ,/, both/CC in/IN hardware/NN and/CC software/NN ./.

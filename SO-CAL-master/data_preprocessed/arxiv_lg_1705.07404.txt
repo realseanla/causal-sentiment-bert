@@ -1,0 +1,5 @@
+We/PRP propose/VBP a/DT novel/JJ neural/JJ network/NN structure/NN called/VBN CrossNets/NNP ,/, which/WDT considers/VBZ architectures/NNS on/IN directed/VBN acyclic/JJ graphs/NNS ./.
+This/DT structure/NN builds/VBZ on/IN previous/JJ generalizations/NNS of/IN feed/NN forward/NN models/NNS ,/, such/JJ as/IN ResNets/NNP ,/, by/IN allowing/VBG for/IN all/DT forward/JJ cross/NN connections/NNS between/IN layers/NNS (/-LRB- both/CC adjacent/JJ and/CC non-adjacent/JJ )/-RRB- ./.
+The/DT addition/NN of/IN cross/NN connections/NNS among/IN the/DT network/NN increases/VBZ information/NN flow/NN across/IN the/DT whole/JJ network/NN ,/, leading/VBG to/IN better/JJR training/NN and/CC testing/NN performances/NNS ./.
+The/DT superior/JJ performance/NN of/IN the/DT network/NN is/VBZ tested/VBN against/IN four/CD benchmark/NN datasets/NNS :/: MNIST/NNP ,/, CIFAR/NNP -/HYPH 10/CD ,/, CIFAR/NN -/HYPH 100/CD ,/, and/CC SVHN/NNP ./.
+We/PRP conclude/VBP with/IN a/DT proof/NN of/IN convergence/NN for/IN Crossnets/NNS to/IN a/DT local/JJ minimum/NN for/IN error/NN ,/, where/WRB weights/NNS for/IN connections/NNS are/VBP chosen/VBN through/IN backpropagation/NN with/IN momentum/NN ./.

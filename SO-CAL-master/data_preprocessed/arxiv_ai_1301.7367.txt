@@ -1,0 +1,10 @@
+We/PRP investigate/VBP the/DT application/NN of/IN classification/NN techniques/NNS to/IN utility/NN elicitation/NN ./.
+In/IN a/DT decision/NN problem/NN ,/, two/CD sets/NNS of/IN parameters/NNS must/MD generally/RB be/VB elicited/VBN :/: the/DT probabilities/NNS and/CC the/DT utilities/NNS ./.
+While/IN the/DT prior/JJ and/CC conditional/JJ probabilities/NNS in/IN the/DT model/NN do/VBP not/RB change/VB from/IN user/NN to/IN user/NN ,/, the/DT utility/NN models/NNS do/VBP ./.
+Thus/RB it/PRP is/VBZ necessary/JJ to/TO elicit/VB a/DT utility/NN model/NN separately/RB for/IN each/DT new/JJ user/NN ./.
+Elicitation/NN is/VBZ long/JJ and/CC tedious/JJ ,/, particularly/RB if/IN the/DT outcome/NN space/NN is/VBZ large/JJ and/CC not/RB decomposable/JJ ./.
+There/EX are/VBP two/CD common/JJ approaches/NNS to/IN utility/NN function/NN elicitation/NN ./.
+The/DT first/JJ is/VBZ to/TO base/VB the/DT determination/NN of/IN the/DT users/NNS utility/NN function/NN solely/RB ON/IN elicitation/NN OF/IN qualitative/JJ preferences.The/JJ second/JJ makes/VBZ assumptions/NNS about/IN the/DT form/NN AND/CC decomposability/NN OF/IN the/DT utility/NN function.Here/NN we/PRP take/VBP a/DT different/JJ approach/NN :/: we/PRP attempt/VBP TO/TO identify/VB the/DT new/JJ USERs/NNS utility/NN function/NN based/VBN on/IN classification/NN relative/JJ to/IN a/DT database/NN of/IN previously/RB collected/VBN utility/NN functions/NNS ./.
+We/PRP do/VBP this/DT by/IN identifying/VBG clusters/NNS of/IN utility/NN functions/VBZ that/IN minimize/VB an/DT appropriate/JJ distance/NN measure/NN ./.
+Having/VBG identified/VBN the/DT clusters/NNS ,/, we/PRP develop/VBP a/DT classification/NN scheme/NN that/WDT requires/VBZ many/JJ fewer/JJR and/CC simpler/JJR assessments/NNS than/IN full/JJ utility/NN elicitation/NN and/CC is/VBZ more/RBR robust/JJ than/IN utility/NN elicitation/NN based/VBN solely/RB on/IN preferences/NNS ./.
+We/PRP have/VBP tested/VBN our/PRP$ algorithm/NN on/IN a/DT small/JJ database/NN of/IN utility/NN functions/NNS in/IN a/DT prenatal/JJ diagnosis/NN domain/NN and/CC the/DT results/NNS are/VBP quite/RB promising/JJ ./.

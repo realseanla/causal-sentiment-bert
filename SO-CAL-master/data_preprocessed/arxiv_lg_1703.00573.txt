@@ -1,0 +1,5 @@
+This/DT paper/NN makes/VBZ progress/NN on/IN several/JJ open/JJ theoretical/JJ issues/NNS related/VBN to/IN Generative/JJ Adversarial/JJ Networks/NNS ./.
+A/DT definition/NN is/VBZ provided/VBN for/IN what/WP it/PRP means/VBZ for/IN the/DT training/NN to/TO generalize/VB ,/, and/CC it/PRP is/VBZ shown/VBN that/IN generalization/NN is/VBZ not/RB guaranteed/VBN for/IN the/DT popular/JJ distances/NNS between/IN distributions/NNS such/JJ as/IN Jensen/NNP -/HYPH Shannon/NNP or/CC Wasserstein/NNP ./.
+We/PRP introduce/VBP a/DT new/JJ metric/JJ called/VBN neural/JJ net/NN distance/NN for/IN which/WDT generalization/NN does/VBZ occur/VB ./.
+We/PRP also/RB show/VBP that/IN an/DT approximate/JJ pure/JJ equilibrium/NN in/IN the/DT 2/CD -/HYPH player/NN game/NN exists/VBZ for/IN a/DT natural/JJ training/NN objective/NN (/-LRB- Wasserstein/NNP )/-RRB- ./.
+Showing/VBG such/PDT a/DT result/NN has/VBZ been/VBN an/DT open/JJ problem/NN (/-LRB- for/IN any/DT training/NN objective/NN )/-RRB- ./.

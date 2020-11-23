@@ -1,0 +1,7 @@
+Recently/RB recurrent/JJ neural/JJ networks/NNS (/-LRB- RNN/NN )/-RRB- has/VBZ been/VBN very/RB successful/JJ in/IN handling/VBG sequence/NN data/NNS ./.
+However/RB ,/, understanding/VBG RNN/NNP and/CC finding/VBG the/DT best/JJS practices/NNS for/IN RNN/NN is/VBZ a/DT difficult/JJ task/NN ,/, partly/RB because/IN there/EX are/VBP many/JJ competing/VBG and/CC complex/JJ hidden/JJ units/NNS (/-LRB- such/JJ as/IN LSTM/NNP and/CC GRU/NNP )/-RRB- ./.
+We/PRP propose/VBP a/DT gated/VBN unit/NN for/IN RNN/NNP ,/, named/VBN as/IN Minimal/JJ Gated/JJ Unit/NN (/-LRB- MGU/NN )/-RRB- ,/, since/IN it/PRP only/RB contains/VBZ one/CD gate/NN ,/, which/WDT is/VBZ a/DT minimal/JJ design/NN among/IN all/DT gated/VBN hidden/VBN units/NNS ./.
+The/DT design/NN of/IN MGU/NN benefits/NNS from/IN evaluation/NN results/NNS on/IN LSTM/NNP and/CC GRU/NNP in/IN the/DT literature/NN ./.
+Experiments/NNS on/IN various/JJ sequence/NN data/NNS show/VBP that/IN MGU/NN has/VBZ comparable/JJ accuracy/NN with/IN GRU/NNP ,/, but/CC has/VBZ a/DT simpler/JJR structure/NN ,/, fewer/JJR parameters/NNS ,/, and/CC faster/RBR training/NN ./.
+Hence/RB ,/, MGU/NN is/VBZ suitable/JJ in/IN RNN/NNP 's/POS applications/NNS ./.
+Its/PRP$ simple/JJ architecture/NN also/RB means/VBZ that/IN it/PRP is/VBZ easier/JJR to/TO evaluate/VB and/CC tune/VB ,/, and/CC in/IN principle/NN it/PRP is/VBZ easier/JJR to/TO study/VB MGU/NNP 's/POS properties/NNS theoretically/RB and/CC empirically/RB ./.

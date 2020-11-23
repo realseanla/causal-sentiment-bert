@@ -1,0 +1,10 @@
+In/IN the/DT study/NN of/IN human/JJ learning/NN ,/, there/EX is/VBZ broad/JJ evidence/NN that/IN our/PRP$ ability/NN to/TO retain/VB a/DT piece/NN of/IN information/NN improves/VBZ with/IN repeated/VBN exposure/NN ,/, and/CC that/IN it/PRP decays/VBZ with/IN delay/NN since/IN the/DT last/JJ exposure/NN ./.
+This/DT plays/VBZ a/DT crucial/JJ role/NN in/IN the/DT design/NN of/IN educational/JJ software/NN ,/, leading/VBG to/IN a/DT trade/NN -/HYPH off/NN between/IN teaching/VBG new/JJ material/NN and/CC reviewing/VBG what/WP has/VBZ already/RB been/VBN taught/VBN ./.
+A/DT common/JJ way/NN to/TO balance/VB this/DT trade/NN -/HYPH off/NN is/VBZ via/IN spaced/VBN repetition/NN --/: using/VBG periodic/JJ review/NN of/IN content/NN to/TO improve/VB long/JJ -/HYPH term/NN retention/NN ./.
+Though/IN widely/RB used/VBN in/IN practice/NN ,/, there/EX is/VBZ little/JJ formal/JJ understanding/NN of/IN the/DT design/NN of/IN these/DT systems/NNS ./.
+This/DT paper/NN addresses/VBZ this/DT gap/NN ./.
+First/RB ,/, we/PRP mine/JJ log/NN data/NNS from/IN a/DT spaced/VBN repetition/NN system/NN to/TO establish/VB the/DT functional/JJ dependence/NN of/IN retention/NN on/IN reinforcement/NN and/CC delay/NN ./.
+Second/RB ,/, based/VBN on/IN this/DT memory/NN model/NN ,/, we/PRP develop/VBP a/DT mathematical/JJ framework/NN for/IN spaced/VBN repetition/NN systems/NNS using/VBG a/DT queueing/NN -/HYPH network/NN approach/NN ./.
+This/DT model/NN formalizes/VBZ the/DT popular/JJ Leitner/NNP Heuristic/NNP for/IN spaced/VBN repetition/NN ,/, providing/VBG the/DT first/JJ rigorous/JJ and/CC computationally/RB tractable/JJ means/NNS of/IN optimizing/VBG the/DT review/NN schedule/NN ./.
+Finally/RB ,/, we/PRP empirically/RB confirm/VBP the/DT validity/NN of/IN our/PRP$ formal/JJ model/NN via/IN a/DT Mechanical/JJ Turk/NNP experiment/NN ./.
+In/IN particular/JJ ,/, we/PRP verify/VBP a/DT key/JJ qualitative/JJ insight/NN and/CC prediction/NN of/IN our/PRP$ model/NN --/: the/DT existence/NN of/IN a/DT sharp/JJ phase/NN transition/NN in/IN learning/VBG outcomes/NNS upon/IN increasing/VBG the/DT rate/NN of/IN new/JJ item/NN introductions/NNS ./.

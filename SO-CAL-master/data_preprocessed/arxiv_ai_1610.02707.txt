@@ -1,0 +1,4 @@
+We/PRP propose/VBP Deep/NNP Optimistic/NNP Linear/NNP Support/NNP Learning/NNP (/-LRB- DOL/NNP )/-RRB- to/TO solve/VB high/JJ -/HYPH dimensional/JJ multi-objective/JJ decision/NN problems/NNS where/WRB the/DT relative/JJ importances/NNS of/IN the/DT objectives/NNS are/VBP not/RB known/VBN a/FW priori/FW ./.
+Using/VBG features/NNS from/IN the/DT high/JJ -/HYPH dimensional/JJ inputs/NNS ,/, DOL/NNP computes/VBZ the/DT convex/NN coverage/NN set/NN containing/VBG all/DT potential/JJ optimal/JJ solutions/NNS of/IN the/DT convex/JJ combinations/NNS of/IN the/DT objectives/NNS ./.
+To/IN our/PRP$ knowledge/NN ,/, this/DT is/VBZ the/DT first/JJ time/NN that/WDT deep/JJ reinforcement/NN learning/NN has/VBZ succeeded/VBN in/IN learning/VBG multi-objective/JJ policies/NNS ./.
+In/IN addition/NN ,/, we/PRP provide/VBP a/DT testbed/VBN with/IN two/CD experiments/NNS to/TO be/VB used/VBN as/IN a/DT benchmark/NN for/IN deep/JJ multi-objective/JJ reinforcement/NN learning/NN ./.

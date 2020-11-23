@@ -1,0 +1,5 @@
+Training/NN of/IN large/JJ -/HYPH scale/NN deep/JJ neural/JJ networks/NNS is/VBZ often/RB constrained/VBN by/IN the/DT available/JJ computational/JJ resources/NNS ./.
+We/PRP study/VBP the/DT effect/NN of/IN limited/JJ precision/NN data/NNS representation/NN and/CC computation/NN on/IN neural/JJ network/NN training/NN ./.
+Within/IN the/DT context/NN of/IN low/JJ -/HYPH precision/NN fixed/VBN -/HYPH point/NN computations/NNS ,/, we/PRP observe/VBP the/DT rounding/VBG scheme/NN to/TO play/VB a/DT crucial/JJ role/NN in/IN determining/VBG the/DT network/NN 's/POS behavior/NN during/IN training/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN deep/JJ networks/NNS can/MD be/VB trained/VBN using/VBG only/RB 16/CD -/HYPH bit/NN wide/JJ fixed/VBN -/HYPH point/NN number/NN representation/NN when/WRB using/VBG stochastic/JJ rounding/NN ,/, and/CC incur/VB little/JJ to/IN no/DT degradation/NN in/IN the/DT classification/NN accuracy/NN ./.
+We/PRP also/RB demonstrate/VBP an/DT energy/NN -/HYPH efficient/JJ hardware/NN accelerator/NN that/WDT implements/VBZ low/JJ -/HYPH precision/NN fixed/VBN -/HYPH point/NN arithmetic/NN with/IN stochastic/JJ rounding/NN ./.

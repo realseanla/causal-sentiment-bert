@@ -1,0 +1,12 @@
+Artificial/NNP Neural/JJ Network/NN (/-LRB- ANN/NNP )/-RRB- s/POS has/VBZ widely/RB been/VBN used/VBN for/IN recognition/NN of/IN optically/RB scanned/VBN character/NN ,/, which/WDT partially/RB emulates/VBZ human/JJ thinking/NN in/IN the/DT domain/NN of/IN the/DT Artificial/NNP Intelligence/NNP ./.
+But/CC prior/JJ to/IN recognition/NN ,/, it/PRP is/VBZ necessary/JJ to/IN segment/NN the/DT character/NN from/IN the/DT text/NN to/IN sentences/NNS ,/, words/NNS etc/FW ./.
+Segmentation/NN of/IN words/NNS into/IN individual/JJ letters/NNS has/VBZ been/VBN one/CD of/IN the/DT major/JJ problems/NNS in/IN handwriting/NN recognition/NN ./.
+Despite/IN several/JJ successful/JJ works/NNS all/RB over/IN the/DT work/NN ,/, development/NN of/IN such/JJ tools/NNS in/IN specific/JJ languages/NNS is/VBZ still/RB an/DT ongoing/JJ process/NN especially/RB in/IN the/DT Indian/JJ context/NN ./.
+This/DT work/NN explores/VBZ the/DT application/NN of/IN ANN/NNP as/IN an/DT aid/NN to/IN segmentation/NN of/IN handwritten/JJ characters/NNS in/IN Assamese/NN -/HYPH an/DT important/JJ language/NN in/IN the/DT North/NNP Eastern/NNP part/NN of/IN India/NNP ./.
+The/DT work/NN explores/VBZ the/DT performance/NN difference/NN obtained/VBN in/IN applying/VBG an/DT ANN/NNP -/HYPH based/VBN dynamic/JJ segmentation/NN algorithm/NN compared/VBN to/IN projection/NN -/HYPH based/VBN static/NN segmentation/NN ./.
+The/DT algorithm/NN involves/VBZ ,/, first/JJ training/NN of/IN an/DT ANN/NNP with/IN individual/JJ handwritten/JJ characters/NNS recorded/VBN from/IN different/JJ individuals/NNS ./.
+Handwritten/JJ sentences/NNS are/VBP separated/VBN out/RP from/IN text/NN using/VBG a/DT static/NN segmentation/NN method/NN ./.
+From/IN the/DT segmented/JJ line/NN ,/, individual/JJ characters/NNS are/VBP separated/VBN out/RP by/IN first/RB over/IN segmenting/VBG the/DT entire/JJ line/NN ./.
+Each/DT of/IN the/DT segments/NNS thus/RB obtained/VBN ,/, next/RB ,/, is/VBZ fed/VBN to/IN the/DT trained/VBN ANN/NNP ./.
+The/DT point/NN of/IN segmentation/NN at/IN which/WDT the/DT ANN/NNP recognizes/VBZ a/DT segment/NN or/CC a/DT combination/NN of/IN several/JJ segments/NNS to/TO be/VB similar/JJ to/IN a/DT handwritten/JJ character/NN ,/, a/DT segmentation/NN boundary/NN for/IN the/DT character/NN is/VBZ assumed/VBN to/TO exist/VB and/CC segmentation/NN performed/VBN ./.
+The/DT segmented/JJ character/NN is/VBZ next/JJ compared/VBN to/IN the/DT best/JJS available/JJ match/NN and/CC the/DT segmentation/NN boundary/NN confirmed/VBD ./.

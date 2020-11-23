@@ -1,0 +1,5 @@
+We/PRP study/VBP the/DT best/RBS -/HYPH arm/NN identification/NN problem/NN in/IN linear/JJ bandit/NN ,/, where/WRB the/DT rewards/NNS of/IN the/DT arms/NNS depend/VBP linearly/RB on/IN an/DT unknown/JJ parameter/NN $/$ \/SYM theta/NN ^/SYM */NFP $/$ and/CC the/DT objective/NN is/VBZ to/TO return/VB the/DT arm/NN with/IN the/DT largest/JJS reward/NN ./.
+We/PRP characterize/VBP the/DT complexity/NN of/IN the/DT problem/NN and/CC introduce/VB sample/NN allocation/NN strategies/NNS that/WDT pull/VBP arms/NNS to/TO identify/VB the/DT best/JJS arm/NN with/IN a/DT fixed/VBN confidence/NN ,/, while/IN minimizing/VBG the/DT sample/NN budget/NN ./.
+In/IN particular/JJ ,/, we/PRP show/VBP the/DT importance/NN of/IN exploiting/VBG the/DT global/JJ linear/JJ structure/NN to/TO improve/VB the/DT estimate/NN of/IN the/DT reward/NN of/IN near/JJ -/HYPH optimal/JJ arms/NNS ./.
+We/PRP analyze/VBP the/DT proposed/VBN strategies/NNS and/CC compare/VB their/PRP$ empirical/JJ performance/NN ./.
+Finally/RB ,/, we/PRP point/VBP out/RP the/DT connection/NN to/IN the/DT $/$ G$/CD -/HYPH optimality/NN criterion/NN used/VBN in/IN optimal/JJ experimental/JJ design/NN ./.

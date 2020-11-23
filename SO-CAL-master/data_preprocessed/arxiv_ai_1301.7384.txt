@@ -1,0 +1,5 @@
+We/PRP present/VBP an/DT anytime/NN algorithm/NN which/WDT computes/VBZ policies/NNS for/IN decision/NN problems/NNS represented/VBN as/IN multi-stage/JJ influence/NN diagrams/NNS ./.
+Our/PRP$ algorithm/NN constructs/NNS policies/NNS incrementally/RB ,/, starting/VBG from/IN a/DT policy/NN which/WDT makes/VBZ no/DT use/NN of/IN the/DT available/JJ information/NN ./.
+The/DT incremental/JJ process/NN constructs/NNS policies/NNS which/WDT includes/VBZ more/JJR of/IN the/DT information/NN available/JJ to/IN the/DT decision/NN maker/NN at/IN each/DT step/NN ./.
+While/IN the/DT process/NN converges/VBZ to/IN the/DT optimal/JJ policy/NN ,/, our/PRP$ approach/NN is/VBZ designed/VBN for/IN situations/NNS in/IN which/WDT computing/VBG the/DT optimal/JJ policy/NN is/VBZ infeasible/JJ ./.
+We/PRP provide/VBP examples/NNS of/IN the/DT process/NN on/IN several/JJ large/JJ decision/NN problems/NNS ,/, showing/VBG that/IN ,/, for/IN these/DT examples/NNS ,/, the/DT process/NN constructs/NNS valuable/JJ (/-LRB- but/CC sub-optimal/JJ )/-RRB- policies/NNS before/IN the/DT optimal/JJ policy/NN would/MD be/VB available/JJ by/IN traditional/JJ methods/NNS ./.

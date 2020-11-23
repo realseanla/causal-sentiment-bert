@@ -1,0 +1,10 @@
+Deep/JJ neural/JJ networks/NNS are/VBP known/VBN to/TO be/VB difficult/JJ to/TO train/VB due/IN to/IN the/DT instability/NN of/IN back/RB -/HYPH propagation/NN ./.
+A/DT deep/JJ \/NN emph/NN {/-LRB- residual/JJ network/NN }/-RRB- (/-LRB- ResNet/NNP )/-RRB- with/IN identity/NN loops/NNS remedies/NNS this/DT by/IN stabilizing/VBG gradient/NN computations/NNS ./.
+We/PRP prove/VBP a/DT boosting/VBG theory/NN for/IN the/DT ResNet/NNP architecture/NN ./.
+We/PRP construct/VBP $/$ T$/CD weak/JJ module/NN classifiers/NNS ,/, each/DT contains/VBZ two/CD of/IN the/DT $/$ T$/CD layers/NNS ,/, such/JJ that/IN the/DT combined/VBN strong/JJ learner/NN is/VBZ a/DT ResNet/NNP ./.
+Therefore/RB ,/, we/PRP introduce/VBP an/DT alternative/JJ Deep/JJ ResNet/NNP training/NN algorithm/NN ,/, \/SYM emph/NN {/-LRB- BoostResNet/NNP }/-RRB- ,/, which/WDT is/VBZ particularly/RB suitable/JJ in/IN non-differentiable/JJ architectures/NNS ./.
+Our/PRP$ proposed/VBN algorithm/NN merely/RB requires/VBZ a/DT sequential/JJ training/NN of/IN $/$ T$/CD "/`` shallow/JJ ResNets/NNS "/'' which/WDT are/VBP inexpensive/JJ ./.
+We/PRP prove/VBP that/IN the/DT training/NN error/NN decays/VBZ exponentially/RB with/IN the/DT depth/NN $/$ T$/CD if/IN the/DT \/SYM emph/NN {/-LRB- weak/JJ module/NN classifiers/NNS }/-RRB- that/WDT we/PRP train/VBP perform/VB slightly/RB better/JJR than/IN some/DT weak/JJ baseline/NN ./.
+In/IN other/JJ words/NNS ,/, we/PRP propose/VBP a/DT weak/JJ learning/NN condition/NN and/CC prove/VB a/DT boosting/VBG theory/NN for/IN ResNet/NNP under/IN the/DT weak/JJ learning/NN condition/NN ./.
+Our/PRP$ results/NNS apply/VBP to/IN general/JJ multi-class/NN ResNets/NNS ./.
+A/DT generalization/NN error/NN bound/VBN based/VBN on/IN margin/NN theory/NN is/VBZ proved/VBN and/CC suggests/VBZ ResNet/NNP 's/POS resistant/JJ to/IN overfitting/VBG under/IN network/NN with/IN $/$ l_1/CD $/$ norm/NN bounded/VBD weights/NNS ./.

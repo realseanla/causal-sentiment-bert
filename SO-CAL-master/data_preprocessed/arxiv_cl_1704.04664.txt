@@ -1,0 +1,8 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT online/JJ learning/NN algorithm/NN based/VBN on/IN a/DT Rao/NN -/HYPH Blackwellized/VBN particle/NN filter/NN for/IN spatial/JJ concept/NN acquisition/NN and/CC mapping/NN ./.
+We/PRP have/VBP proposed/VBN a/DT nonparametric/JJ Bayesian/JJ spatial/JJ concept/NN acquisition/NN model/NN (/-LRB- SpCoA/NN )/-RRB- ./.
+We/PRP propose/VBP a/DT novel/JJ method/NN (/-LRB- SpCoSLAM/NN )/-RRB- integrating/VBG SpCoA/NN and/CC FastSLAM/NN in/IN the/DT theoretical/JJ framework/NN of/IN the/DT Bayesian/JJ generative/JJ model/NN ./.
+The/DT proposed/JJ method/NN can/MD simultaneously/RB learn/VB place/NN categories/NNS and/CC lexicons/NNS while/IN incrementally/RB generating/VBG an/DT environmental/JJ map/NN ./.
+Furthermore/RB ,/, the/DT proposed/JJ method/NN has/VBZ scene/NN image/NN features/NNS and/CC a/DT language/NN model/NN added/VBD to/IN SpCoA/NNP ./.
+In/IN the/DT experiments/NNS ,/, we/PRP tested/VBD online/JJ learning/NN of/IN spatial/JJ concepts/NNS and/CC environmental/JJ maps/NNS in/IN a/DT novel/JJ environment/NN of/IN which/WDT the/DT robot/NN did/VBD not/RB have/VB a/DT map/NN ./.
+Then/RB ,/, we/PRP evaluated/VBD the/DT results/NNS of/IN online/JJ learning/NN of/IN spatial/JJ concepts/NNS and/CC lexical/JJ acquisition/NN ./.
+The/DT experimental/JJ results/NNS demonstrated/VBD that/IN the/DT robot/NN was/VBD able/JJ to/TO more/RBR accurately/RB learn/VB the/DT relationships/NNS between/IN words/NNS and/CC the/DT place/NN in/IN the/DT environmental/JJ map/NN incrementally/RB by/IN using/VBG the/DT proposed/JJ method/NN ./.

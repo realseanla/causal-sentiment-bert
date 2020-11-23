@@ -1,0 +1,5 @@
+This/DT paper/NN presents/VBZ an/DT end/NN -/HYPH to/IN -/HYPH end/NN framework/NN for/IN task/NN -/HYPH oriented/VBN dialog/NN systems/NNS using/VBG a/DT variant/NN of/IN Deep/NNP Recurrent/NNP Q/NNP -/HYPH Networks/NNP (/-LRB- DRQN/NNP )/-RRB- ./.
+The/DT model/NN is/VBZ able/JJ to/TO interface/VB with/IN a/DT relational/JJ database/NN and/CC jointly/RB learn/VB policies/NNS for/IN both/DT language/NN understanding/NN and/CC dialog/NN strategy/NN ./.
+Moreover/RB ,/, we/PRP propose/VBP a/DT hybrid/NN algorithm/NN that/WDT combines/VBZ the/DT strength/NN of/IN reinforcement/NN learning/NN and/CC supervised/VBD learning/NN to/TO achieve/VB faster/RBR learning/VBG speed/NN ./.
+We/PRP evaluated/VBD the/DT proposed/VBN model/NN on/IN a/DT 20/CD Question/NN Game/NN conversational/JJ game/NN simulator/NN ./.
+Results/NNS show/VBP that/IN the/DT proposed/JJ method/NN outperforms/VBZ the/DT modular/JJ -/HYPH based/VBN baseline/NN and/CC learns/VBZ a/DT distributed/VBN representation/NN of/IN the/DT latent/JJ dialog/NN state/NN ./.

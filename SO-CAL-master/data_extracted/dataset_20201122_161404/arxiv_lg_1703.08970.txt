@@ -1,0 +1,4 @@
+In this paper, we present a joint compression and classification approach of EEG and EMG signals using a deep learning approach.
+Specifically, we build our system based on the deep autoencoder architecture which is designed not only to extract discriminant features in the multimodal data representation but also to reconstruct the data from the latent representation using encoder-decoder layers.
+Since autoencoder can be seen as a compression approach, we extend it to handle multimodal data at the encoder layer, reconstructed and retrieved at the decoder layer.
+We show through experimental results, that exploiting both multimodal data intercorellation and intracorellation 1) Significantly reduces signal distortion particularly for high compression levels 2) Achieves better accuracy in classifying EEG and EMG signals recorded and labeled according to the sentiments of the volunteer.

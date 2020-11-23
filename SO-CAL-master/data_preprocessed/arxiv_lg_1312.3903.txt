@@ -1,0 +1,16 @@
+AI/NN is/VBZ gradually/RB receiving/VBG more/JJR attention/NN as/IN a/DT fundamental/JJ feature/NN to/TO increase/VB the/DT immersion/NN in/IN digital/JJ games/NNS ./.
+Among/IN the/DT several/JJ AI/NN approaches/NNS ,/, player/NN modeling/NN is/VBZ becoming/VBG an/DT important/JJ one/NN ./.
+The/DT main/JJ idea/NN is/VBZ to/TO understand/VB and/CC model/VB the/DT player/NN characteristics/NNS and/CC behaviors/NNS in/IN order/NN to/TO develop/VB a/DT better/JJR AI/NN ./.
+In/IN this/DT work/NN ,/, we/PRP discuss/VBP several/JJ aspects/NNS of/IN this/DT new/JJ field/NN ./.
+We/PRP proposed/VBD a/DT taxonomy/NN to/TO organize/VB the/DT area/NN ,/, discussing/VBG several/JJ facets/NNS of/IN this/DT topic/NN ,/, ranging/VBG from/IN implementation/NN decisions/NNS up/IN to/IN what/WP a/DT model/NN attempts/VBZ to/TO describe/VB ./.
+We/PRP then/RB classify/VB ,/, in/IN our/PRP$ taxonomy/NN ,/, some/DT of/IN the/DT most/RBS important/JJ works/NNS in/IN this/DT field/NN ./.
+We/PRP also/RB presented/VBD a/DT generic/JJ approach/NN to/TO deal/VB with/IN player/NN modeling/NN using/VBG ML/NNP ,/, and/CC we/PRP instantiated/VBD this/DT approach/NN to/IN model/NN players/NNS '/POS preferences/NNS in/IN the/DT game/NN Civilization/NN IV/NN ./.
+The/DT instantiation/NN of/IN this/DT approach/NN has/VBZ several/JJ steps/NNS ./.
+We/PRP first/RB discuss/VBP a/DT generic/JJ representation/NN ,/, regardless/RB of/IN what/WP is/VBZ being/VBG modeled/VBN ,/, and/CC evaluate/VB it/PRP performing/VBG experiments/NNS with/IN the/DT strategy/NN game/NN Civilization/NN IV/NN ./.
+Continuing/VBG the/DT instantiation/NN of/IN the/DT proposed/VBN approach/NN we/PRP evaluated/VBD the/DT applicability/NN of/IN using/VBG game/NN score/NN information/NN to/TO distinguish/VB different/JJ preferences/NNS ./.
+We/PRP presented/VBD a/DT characterization/NN of/IN virtual/JJ agents/NNS in/IN the/DT game/NN ,/, comparing/VBG their/PRP$ behavior/NN with/IN their/PRP$ stated/VBN preferences/NNS ./.
+Once/IN we/PRP have/VBP characterized/VBN these/DT agents/NNS ,/, we/PRP were/VBD able/JJ to/TO observe/VB that/IN different/JJ preferences/NNS generate/VBP different/JJ behaviors/NNS ,/, measured/VBN by/IN several/JJ game/NN indicators/NNS ./.
+We/PRP then/RB tackled/VBD the/DT preference/NN modeling/NN problem/NN as/IN a/DT binary/JJ classification/NN task/NN ,/, with/IN a/DT supervised/JJ learning/NN approach/NN ./.
+We/PRP compared/VBD four/CD different/JJ methods/NNS ,/, based/VBN on/IN different/JJ paradigms/NNS (/-LRB- SVM/NN ,/, AdaBoost/NNP ,/, NaiveBayes/NNP and/CC JRip/NNP )/-RRB- ,/, evaluating/VBG them/PRP on/IN a/DT set/NN of/IN matches/NNS played/VBN by/IN different/JJ virtual/JJ agents/NNS ./.
+We/PRP conclude/VBP our/PRP$ work/NN using/VBG the/DT learned/VBN models/NNS to/TO infer/VB human/JJ players/NNS '/POS preferences/NNS ./.
+Using/VBG some/DT of/IN the/DT evaluated/VBN classifiers/NNS we/PRP obtained/VBD accuracies/NNS over/IN 60/CD percent/NN for/IN most/JJS of/IN the/DT inferred/VBN preferences/NNS ./.

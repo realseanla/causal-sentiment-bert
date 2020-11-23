@@ -1,0 +1,5 @@
+In this work, we address the problem of spelling correction in the Arabic language utilizing the new corpus provided by QALB (Qatar Arabic Language Bank) project which is an annotated corpus of sentences with errors and their corrections.
+The corpus contains edit, add before, split, merge, add after, move and other error types.
+We are concerned with the first four error types as they contribute more than 90 percent of the spelling errors in the corpus.
+The proposed system has many models to address each error type on its own and then integrating all the models to provide an efficient and robust system that achieves an overall recall of 0.59, precision of 0.58 and F1 score of 0.58 including all the error types on the development set.
+Our system participated in the QALB 2014 shared task "Automatic Arabic Error Correction" and achieved an F1 score of 0.6, earning the sixth place out of nine participants.

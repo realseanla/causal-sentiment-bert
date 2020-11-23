@@ -1,0 +1,7 @@
+Recent/JJ studies/NNS have/VBP shown/VBN that/IN deep/JJ neural/JJ networks/NNS (/-LRB- DNN/NN )/-RRB- are/VBP vulnerable/JJ to/IN adversarial/JJ samples/NNS :/: maliciously/RB -/HYPH perturbed/VBN samples/NNS crafted/VBN to/TO yield/VB incorrect/JJ model/NN outputs/NNS ./.
+Such/JJ attacks/NNS can/MD severely/RB undermine/VB DNN/NN systems/NNS ,/, particularly/RB in/IN security/NN -/HYPH sensitive/JJ settings/NNS ./.
+It/PRP was/VBD observed/VBN that/IN an/DT adversary/NN could/MD easily/RB generate/VB adversarial/JJ samples/NNS by/IN making/VBG a/DT small/JJ perturbation/NN on/IN irrelevant/JJ feature/NN dimensions/NNS that/WDT are/VBP unnecessary/JJ for/IN the/DT current/JJ classification/NN task/NN ./.
+To/TO overcome/VB this/DT problem/NN ,/, we/PRP introduce/VBP a/DT defensive/JJ mechanism/NN called/VBN DeepMask/NNP ./.
+By/IN identifying/VBG and/CC removing/VBG unnecessary/JJ features/NNS in/IN a/DT DNN/NN model/NN ,/, DeepMask/NNP limits/VBZ the/DT capacity/NN an/DT attacker/NN can/MD use/VB generating/VBG adversarial/JJ samples/NNS and/CC therefore/RB increase/VB the/DT robustness/NN against/IN such/JJ inputs/NNS ./.
+Comparing/VBG with/IN other/JJ defensive/JJ approaches/NNS ,/, DeepMask/NNP is/VBZ easy/JJ to/TO implement/VB and/CC computationally/RB efficient/JJ ./.
+Experimental/JJ results/NNS show/VBP that/IN DeepMask/NNP can/MD increase/VB the/DT performance/NN of/IN state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN DNN/NN models/NNS against/IN adversarial/JJ samples/NNS ./.

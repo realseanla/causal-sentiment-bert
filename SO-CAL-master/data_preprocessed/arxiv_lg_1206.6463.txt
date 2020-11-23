@@ -1,0 +1,6 @@
+Local/JJ Linear/NNP embedding/NN (/-LRB- LLE/NN )/-RRB- is/VBZ a/DT popular/JJ dimension/NN reduction/NN method/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP first/RB show/VBP LLE/NN with/IN nonnegative/JJ constraint/NN is/VBZ equivalent/JJ to/IN the/DT widely/RB used/VBN Laplacian/JJ embedding/NN ./.
+We/PRP further/RB propose/VB to/IN iterate/VB the/DT two/CD steps/NNS in/IN LLE/NN repeatedly/RB to/TO improve/VB the/DT results/NNS ./.
+Thirdly/RB ,/, we/PRP relax/VBP the/DT kNN/NN constraint/NN of/IN LLE/NN and/CC present/VB a/DT sparse/JJ similarity/NN learning/VBG algorithm/NN ./.
+The/DT final/JJ Iterative/JJ LLE/NN combines/VBZ these/DT three/CD improvements/NNS ./.
+Extensive/JJ experiment/NN results/NNS show/VBP that/IN iterative/JJ LLE/NN algorithm/NN significantly/RB improve/VB both/DT classification/NN and/CC clustering/NN results/NNS ./.

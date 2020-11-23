@@ -1,0 +1,10 @@
+Low-rank matrix factorization (MF) is an important technique in data science.
+The key idea of MF is that there exists latent structures in the data, by uncovering which we could obtain a compressed representation of the data.
+By factorizing an original matrix to low-rank matrices, MF provides a unified method for dimesion reduction, clustering, and matrix completion.
+In this article we review several important variants of MF, including: Basic MF, Non-negative MF, Orthogonal non-negative MF.
+As can be seen from their names, non-negative MF and orthogonal non-negative MF are variants of basic MF with non-negativity and/or orthogonality constraints.
+Such constraints are useful in specific senarios.
+In the first part of this article, we introduce, for each of these models, the application scenarios, the distinctive properties, and the optimizing method.
+By properly adapting MF, we can go beyond the problem of clustering and matrix completion.
+In the second part of this article, we will extend MF to sparse matrix compeletion, enhance matrix compeletion using various regularization methods, and make use of MF for (semi-)supervised learning by introducing latent space reinforcement and transformation.
+We will see that MF is not only a useful model but also as a flexible framework that is applicable for various prediction problems.

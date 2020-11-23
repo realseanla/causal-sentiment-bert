@@ -1,0 +1,8 @@
+Nowadays/RB ontologies/RB present/VB a/DT growing/VBG interest/NN in/IN Data/NNP Fusion/NNP applications/NNS ./.
+As/IN a/DT matter/NN of/IN fact/NN ,/, the/DT ontologies/NNS are/VBP seen/VBN as/IN a/DT semantic/JJ tool/NN for/IN describing/VBG and/CC reasoning/NN about/IN sensor/NN data/NNS ,/, objects/NNS ,/, relations/NNS and/CC general/JJ domain/NN theories/NNS ./.
+In/IN addition/NN ,/, uncertainty/NN is/VBZ perhaps/RB one/CD of/IN the/DT most/RBS important/JJ characteristics/NNS of/IN the/DT data/NNS and/CC information/NN handled/VBN by/IN Data/NNP Fusion/NNP ./.
+However/RB ,/, the/DT fundamental/JJ nature/NN of/IN ontologies/NNS implies/VBZ that/IN ontologies/NNS describe/VBP only/RB asserted/VBN and/CC veracious/JJ facts/NNS of/IN the/DT world/NN ./.
+Different/JJ probabilistic/JJ ,/, fuzzy/JJ and/CC evidential/JJ approaches/NNS already/RB exist/VBP to/TO fill/VB this/DT gap/NN ;/: this/DT paper/NN recaps/VBZ the/DT most/RBS popular/JJ tools/NNS ./.
+However/RB none/NN of/IN the/DT tools/NNS meets/VBZ exactly/RB our/PRP$ purposes/NNS ./.
+Therefore/RB ,/, we/PRP constructed/VBD a/DT Dempster/NNP -/HYPH Shafer/NNP ontology/NN that/WDT can/MD be/VB imported/VBN into/IN any/DT specific/JJ domain/NN ontology/NN and/CC that/IN enables/VBZ us/PRP to/TO instantiate/VB it/PRP in/IN an/DT uncertain/JJ manner/NN ./.
+We/PRP also/RB developed/VBD a/DT Java/NNP application/NN that/WDT enables/VBZ reasoning/NN about/IN these/DT uncertain/JJ ontological/JJ instances/NNS ./.

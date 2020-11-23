@@ -1,0 +1,6 @@
+This paper investigates multi-agent frequencybased patrolling of intersecting, circle graphs under conditions where graph nodes have non-uniform visitation requirements and agents have limited ability to communicate.
+The task is modeled as a partially observable Markov decision process, and a reinforcement learning solution is developed.
+Each agent generates its own policy from Markov chains, and policies are exchanged only when agents occupy the same or adjacent nodes.
+This constraint on policy exchange models sparse communication conditions over large, unstructured environments.
+Empirical results provide perspectives on convergence properties, agent cooperation, and generalization of learned patrolling policies to new instances of the task.
+The emergent behavior indicates learned coordination strategies between heterogeneous agents for patrolling large, unstructured regions as well as the ability to generalize to dynamic variation in node visitation requirements.

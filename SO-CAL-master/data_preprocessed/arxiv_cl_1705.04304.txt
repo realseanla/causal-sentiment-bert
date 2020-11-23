@@ -1,0 +1,10 @@
+Attentional/JJ ,/, RNN/NN -/HYPH based/VBN encoder/NN -/HYPH decoder/NN models/NNS for/IN abstractive/JJ summarization/NN have/VBP achieved/VBN good/JJ performance/NN on/IN short/JJ input/NN and/CC output/NN sequences/NNS ./.
+However/RB ,/, for/IN longer/RBR documents/NNS and/CC summaries/NNS ,/, these/DT models/NNS often/RB include/VBP repetitive/JJ and/CC incoherent/JJ phrases/NNS ./.
+We/PRP introduce/VBP a/DT neural/JJ network/NN model/NN with/IN intra-attention/NN and/CC a/DT new/JJ training/NN method/NN ./.
+This/DT method/NN combines/VBZ standard/JJ supervised/JJ word/NN prediction/NN and/CC reinforcement/NN learning/NN (/-LRB- RL/NN )/-RRB- ./.
+Models/NNS trained/VBN only/RB with/IN the/DT former/JJ often/RB exhibit/VBP "/`` exposure/NN bias/NN "/'' --/: they/PRP assume/VBP ground/NN truth/NN is/VBZ provided/VBN at/IN each/DT step/NN during/IN training/NN ./.
+However/RB ,/, when/WRB standard/JJ word/NN prediction/NN is/VBZ combined/VBN with/IN the/DT global/JJ sequence/NN prediction/NN training/NN of/IN RL/NNP the/DT resulting/VBG summaries/NNS become/VBP more/RBR readable/JJ ./.
+We/PRP evaluate/VBP this/DT model/NN on/IN the/DT CNN/NNP //HYPH Daily/NNP Mail/NNP and/CC New/NNP York/NNP Times/NNP datasets/NNS ./.
+Our/PRP$ model/NN obtains/VBZ a/DT 41.16/CD ROUGE/NN -/HYPH 1/CD score/NN on/IN the/DT CNN/NNP //HYPH Daily/NNP Mail/NNP dataset/NN ,/, a/DT 5.7/CD absolute/JJ points/NNS improvement/NN over/IN previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN models/NNS ./.
+It/PRP also/RB performs/VBZ well/RB as/IN the/DT first/JJ abstractive/JJ model/NN on/IN the/DT New/NNP York/NNP Times/NNP corpus/NN ./.
+Human/JJ evaluation/NN also/RB shows/VBZ that/IN our/PRP$ model/NN produces/VBZ higher/JJR quality/NN summaries/NNS ./.

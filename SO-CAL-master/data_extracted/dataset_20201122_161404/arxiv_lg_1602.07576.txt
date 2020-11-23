@@ -1,0 +1,4 @@
+We introduce Group equivariant Convolutional Neural Networks (G-CNNs), a natural generalization of convolutional neural networks that reduces sample complexity by exploiting symmetries.
+By convolving over groups larger than the translation group, G-CNNs build representations that are equivariant to these groups, which makes it possible to greatly increase the degree of parameter sharing.
+We show how G-CNNs can be implemented with negligible computational overhead for discrete groups such as the group of translations, reflections and rotations by multiples of 90 degrees.
+G-CNNs achieve state of the art results on rotated MNIST and significantly improve over a competitive baseline on augmented and non-augmented CIFAR-10.

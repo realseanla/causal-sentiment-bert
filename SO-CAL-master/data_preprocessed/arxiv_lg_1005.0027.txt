@@ -1,0 +1,6 @@
+We/PRP consider/VBP semi-supervised/JJ learning/NN from/IN multiple/JJ outlooks/NNS of/IN the/DT same/JJ learning/NN task/NN ,/, that/DT is/VBZ ,/, learning/VBG from/IN different/JJ representations/NNS of/IN the/DT same/JJ type/NN of/IN data/NNS ./.
+As/IN opposed/VBN to/IN learning/VBG from/IN multiple/JJ views/NNS where/WRB it/PRP is/VBZ assumed/VBN that/IN the/DT exact/JJ same/JJ instances/NNS have/VBP multiple/JJ representations/NNS ,/, we/PRP only/RB assume/VBP the/DT availability/NN of/IN samples/NNS of/IN the/DT same/JJ learning/NN task/NN in/IN different/JJ domains/NNS ./.
+We/PRP develop/VBP an/DT algorithmic/JJ framework/NN that/WDT is/VBZ based/VBN on/IN mapping/VBG the/DT (/-LRB- unlabeled/JJ )/-RRB- data/NNS followed/VBN by/IN adjusting/VBG the/DT mapping/NN using/VBG the/DT scarcer/JJR labeled/VBN data/NNS ./.
+The/DT mapped/VBN data/NNS from/IN all/PDT the/DT outlooks/NNS can/MD then/RB be/VB used/VBN for/IN a/DT generic/JJ classification/NN algorithm/NN ./.
+We/PRP further/RB provide/VBP sample/NN complexity/NN results/NNS under/IN the/DT assumption/NN that/IN the/DT different/JJ outlooks/NNS are/VBP inherently/RB low/JJ dimension/NN Gaussian/JJ mixtures/NNS ./.
+Experiments/NNS with/IN real/JJ -/HYPH world/NN data/NNS indicate/VBP the/DT performance/NN boost/NN from/IN using/VBG multiple/JJ outlooks/NNS ./.

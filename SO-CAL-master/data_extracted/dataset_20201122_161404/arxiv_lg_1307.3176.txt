@@ -1,0 +1,8 @@
+We improve the computational complexity of online learning algorithms that require to often recompute least squares regression estimates of parameters.
+We propose two stochastic gradient descent schemes with randomisation in order to efficiently track the true solutions of the regression problems achieving an O(d) improvement in complexity, where d is the dimension of the data.
+The first algorithm assumes strong convexity in the regression problem, and we provide bounds on the error both in expectation and high probability (the latter is often needed to provide theoretical guarantees for higher level algorithms).
+The second algorithm deals with cases where strong convexity of the regression problem cannot be guaranteed and uses adaptive regularisation.
+We again give error bounds in both expectation and high probability.
+We apply our approaches to the linear bandit algorithms PEGE and ConfidenceBall and demonstrate significant gains in complexity in both cases.
+Since strong convexity is guaranteed by the PEGE algorithm, we lose only logarithmic factors in the regret performance of the algorithm.
+On the other hand, in the ConfidenceBall algorithm we adaptively regularise to ensure strong convexity, and this results in an O(n^{1/5}) deterioration of the regret.

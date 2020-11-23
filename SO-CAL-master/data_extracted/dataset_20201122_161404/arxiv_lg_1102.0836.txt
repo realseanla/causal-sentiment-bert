@@ -1,0 +1,8 @@
+It is a challenging task to select correlated variables in a high dimensional space.
+To address this challenge, the elastic net has been developed and successfully applied to many applications.
+Despite its great success, the elastic net does not explicitly use correlation information embedded in data to select correlated variables.
+To overcome this limitation, we present a novel Bayesian hybrid model, the \eig, that uses the eigenstructures of data to guide variable selection.
+Specifically, it integrates a sparse conditional classification model with a generative model capturing variable correlations in a principled Bayesian framework.
+We reparameterize the hybrid model in the eigenspace to avoid overfiting and to increase the computational efficiency of its MCMC sampler.
+Furthermore, we provide an alternative view to the \eig from a regularization perspective: the \eig has an adaptive eigenspace-based composite regularizer, which naturally generalizes the $l_{1/2}$ regularizer used by the elastic net.
+Experiments on synthetic and real data show that the \eig significantly outperforms the lasso, the elastic net, and the Bayesian lasso in terms of prediction accuracy, especially when the number of training samples is smaller than the number of variables.

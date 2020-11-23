@@ -1,0 +1,5 @@
+We/PRP introduce/VBP a/DT general/JJ and/CC simple/JJ structural/JJ design/NN called/VBN Multiplicative/NNP Integration/NNP (/-LRB- MI/NNP )/-RRB- to/TO improve/VB recurrent/JJ neural/JJ networks/NNS (/-LRB- RNNs/NNS )/-RRB- ./.
+MI/NN changes/VBZ the/DT way/NN in/IN which/WDT information/NN from/IN difference/NN sources/NNS flows/VBZ and/CC is/VBZ integrated/VBN in/IN the/DT computational/JJ building/NN block/NN of/IN an/DT RNN/NN ,/, while/IN introducing/VBG almost/RB no/DT extra/JJ parameters/NNS ./.
+The/DT new/JJ structure/NN can/MD be/VB easily/RB embedded/VBN into/IN many/JJ popular/JJ RNN/NN models/NNS ,/, including/VBG LSTMs/NNPS and/CC GRUs/NNPS ./.
+We/PRP empirically/RB analyze/VB its/PRP$ learning/NN behaviour/NN and/CC conduct/NN evaluations/NNS on/IN several/JJ tasks/NNS using/VBG different/JJ RNN/NN models/NNS ./.
+Our/PRP$ experimental/JJ results/NNS demonstrate/VBP that/IN Multiplicative/NNP Integration/NNP can/MD provide/VB a/DT substantial/JJ performance/NN boost/NN over/IN many/JJ of/IN the/DT existing/VBG RNN/NN models/NNS ./.

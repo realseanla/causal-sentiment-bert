@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN we/PRP explore/VBP whether/IN or/CC not/RB deep/JJ neural/JJ architectures/NNS can/MD learn/VB to/TO classify/VB Boolean/NNP satisfiability/NN (/-LRB- SAT/NN )/-RRB- ./.
+We/PRP devote/VBP considerable/JJ time/NN to/IN discussing/VBG the/DT theoretical/JJ properties/NNS of/IN SAT/NNP ./.
+Then/RB ,/, we/PRP define/VBP a/DT graph/NN representation/NN for/IN Boolean/JJ formulas/NNS in/IN conjunctive/JJ normal/JJ form/NN ,/, and/CC train/NN neural/JJ classifiers/NNS over/IN general/JJ graph/NN structures/NNS called/VBN Graph/NNP Neural/JJ Networks/NNS ,/, or/CC GNNs/NNS ,/, to/TO recognize/VB features/NNS of/IN satisfiability/NN ./.
+To/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN this/DT has/VBZ never/RB been/VBN tried/VBN before/RB ./.
+Our/PRP$ preliminary/JJ findings/NNS are/VBP potentially/RB profound/JJ ./.
+In/IN a/DT weakly/RB -/HYPH supervised/JJ setting/NN ,/, that/DT is/VBZ ,/, without/IN problem/NN specific/JJ feature/NN engineering/NN ,/, Graph/NN Neural/JJ Networks/NNS can/MD learn/VB features/NNS of/IN satisfiability/NN ./.

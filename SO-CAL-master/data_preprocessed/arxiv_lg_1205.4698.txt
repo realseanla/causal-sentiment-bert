@@ -1,0 +1,6 @@
+We/PRP introduce/VBP into/IN the/DT classical/JJ perceptron/NN algorithm/NN with/IN margin/NN a/DT mechanism/NN that/WDT shrinks/VBZ the/DT current/JJ weight/NN vector/NN as/IN a/DT first/JJ step/NN of/IN the/DT update/NN ./.
+If/IN the/DT shrinking/VBG factor/NN is/VBZ constant/JJ the/DT resulting/VBG algorithm/NN may/MD be/VB regarded/VBN as/IN a/DT margin/NN -/HYPH error/NN -/HYPH driven/VBN version/NN of/IN NORMA/NNP with/IN constant/JJ learning/NN rate/NN ./.
+In/IN this/DT case/NN we/PRP show/VBP that/IN the/DT allowed/VBN strength/NN of/IN shrinking/VBG depends/VBZ on/IN the/DT value/NN of/IN the/DT maximum/JJ margin/NN ./.
+We/PRP also/RB consider/VBP variable/JJ shrinking/VBG factors/NNS for/IN which/WDT there/EX is/VBZ no/DT such/JJ dependence/NN ./.
+In/IN both/DT cases/NNS we/PRP obtain/VBP new/JJ generalizations/NNS of/IN the/DT perceptron/NN with/IN margin/NN able/JJ to/TO provably/RB attain/VB in/IN a/DT finite/JJ number/NN of/IN steps/NNS any/DT desirable/JJ approximation/NN of/IN the/DT maximal/JJ margin/NN hyperplane/NN ./.
+The/DT new/JJ approximate/JJ maximum/JJ margin/NN classifiers/NNS appear/VBP experimentally/RB to/TO be/VB very/RB competitive/JJ in/IN 2/CD -/HYPH norm/NN soft/JJ margin/NN tasks/NNS involving/VBG linear/JJ kernels/NNS ./.

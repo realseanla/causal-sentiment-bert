@@ -1,0 +1,8 @@
+Auto/NN -/HYPH encoders/NNS are/VBP perhaps/RB the/DT best/RBS -/HYPH known/VBN non-probabilistic/JJ methods/NNS for/IN representation/NN learning/NN ./.
+They/PRP are/VBP conceptually/RB simple/JJ and/CC easy/JJ to/TO train/VB ./.
+Recent/JJ theoretical/JJ work/NN has/VBZ shed/VBN light/NN on/IN their/PRP$ ability/NN to/TO capture/VB manifold/JJ structure/NN ,/, and/CC drawn/VBN connections/NNS to/IN density/NN modelling/NN ./.
+This/DT has/VBZ motivated/VBN researchers/NNS to/TO seek/VB ways/NNS of/IN auto/NN -/HYPH encoder/NN scoring/NN ,/, which/WDT has/VBZ furthered/VBN their/PRP$ use/NN in/IN classification/NN ./.
+Gated/JJ auto/NN -/HYPH encoders/NNS (/-LRB- GAEs/NNS )/-RRB- are/VBP an/DT interesting/JJ and/CC flexible/JJ extension/NN of/IN auto/NN -/HYPH encoders/NNS which/WDT can/MD learn/VB transformations/NNS among/IN different/JJ images/NNS or/CC pixel/NN covariances/NNS within/IN images/NNS ./.
+However/RB ,/, they/PRP have/VBP been/VBN much/RB less/RBR studied/VBN ,/, theoretically/RB or/CC empirically/RB ./.
+In/IN this/DT work/NN ,/, we/PRP apply/VBP a/DT dynamical/JJ systems/NNS view/VBP to/IN GAEs/NNS ,/, deriving/VBG a/DT scoring/NN function/NN ,/, and/CC drawing/VBG connections/NNS to/IN RBMs/NNS ./.
+On/IN a/DT set/NN of/IN deep/JJ learning/NN benchmarks/NNS ,/, we/PRP also/RB demonstrate/VBP their/PRP$ effectiveness/NN for/IN single/JJ and/CC multi-label/JJ classification/NN ./.

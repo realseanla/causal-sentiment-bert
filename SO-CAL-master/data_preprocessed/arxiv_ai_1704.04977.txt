@@ -1,0 +1,6 @@
+Intelligent/NNP systems/NNS sometimes/RB need/VBP to/TO infer/VB the/DT probable/JJ goals/NNS of/IN people/NNS ,/, cars/NNS ,/, and/CC robots/NNS ,/, based/VBN on/IN partial/JJ observations/NNS of/IN their/PRP$ motion/NN ./.
+This/DT paper/NN introduces/VBZ a/DT class/NN of/IN probabilistic/JJ programs/NNS for/IN formulating/VBG and/CC solving/VBG these/DT problems/NNS ./.
+The/DT formulation/NN uses/VBZ randomized/VBN path/NN planning/NN algorithms/NNS as/IN the/DT basis/NN for/IN probabilistic/JJ models/NNS of/IN the/DT process/NN by/IN which/WDT autonomous/JJ agents/NNS plan/VBP to/TO achieve/VB their/PRP$ goals/NNS ./.
+Because/IN these/DT path/NN planning/NN algorithms/NNS do/VBP not/RB have/VB tractable/JJ likelihood/NN functions/NNS ,/, new/JJ inference/NN algorithms/NNS are/VBP needed/VBN ./.
+This/DT paper/NN proposes/VBZ two/CD Monte/NNP Carlo/NNP techniques/NNS for/IN these/DT "/`` likelihood/NN -/HYPH free/JJ "/`` models/NNS ,/, one/CD of/IN which/WDT can/MD use/VB likelihood/NN estimates/NNS from/IN neural/JJ networks/NNS to/TO accelerate/VB inference/NN ./.
+The/DT paper/NN demonstrates/VBZ efficacy/NN on/IN three/CD simple/JJ examples/NNS ,/, each/DT using/VBG under/IN 50/CD lines/NNS of/IN probabilistic/JJ code/NN ./.

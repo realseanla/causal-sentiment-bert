@@ -1,0 +1,16 @@
+Information/NN fusion/NN is/VBZ an/DT advanced/JJ research/NN area/NN which/WDT can/MD assist/VB decision/NN makers/NNS in/IN enhancing/VBG their/PRP$ decisions/NNS ./.
+This/DT paper/NN aims/VBZ at/IN designing/VBG a/DT new/JJ multi-layer/JJ framework/NN that/WDT can/MD support/VB the/DT process/NN of/IN performing/VBG decisions/NNS from/IN the/DT obtained/VBN beliefs/NNS using/VBG information/NN fusion/NN ./.
+Since/IN it/PRP is/VBZ not/RB an/DT easy/JJ task/NN to/TO cross/VB the/DT gap/NN between/IN computed/VBN beliefs/NNS of/IN certain/JJ hypothesis/NN and/CC decisions/NNS ,/, the/DT proposed/VBN framework/NN consists/VBZ of/IN the/DT following/VBG layers/NNS in/IN order/NN to/TO provide/VB a/DT suitable/JJ architecture/NN (/-LRB- ordered/VBN bottom/NN up/RP )/-RRB- :/: 1/LS ./.
+A/DT layer/NN for/IN combination/NN of/IN basic/JJ belief/NN assignments/NNS using/VBG an/DT information/NN fusion/NN approach/NN ./.
+Such/JJ approach/NN exploits/NNS Dezert/NNP -/HYPH Smarandache/NNP Theory/NNP ,/, DSmT/NNP ,/, and/CC proportional/JJ conflict/NN redistribution/NN to/TO provide/VB more/JJR realistic/JJ final/JJ beliefs/NNS ./.
+2/LS ./.
+A/DT layer/NN for/IN computation/NN of/IN pignistic/JJ probability/NN of/IN the/DT underlying/VBG propositions/NNS from/IN the/DT corresponding/VBG final/JJ beliefs/NNS ./.
+3/LS ./.
+A/DT layer/NN for/IN performing/VBG probabilistic/JJ reasoning/NN using/VBG a/DT Bayesian/JJ network/NN that/WDT can/MD obtain/VB the/DT probable/JJ reason/NN of/IN a/DT proposition/NN from/IN its/PRP$ pignistic/JJ probability/NN ./.
+4/LS ./.
+Ranking/VBG the/DT system/NN decisions/NNS is/VBZ ultimately/RB used/VBN to/TO support/VB decision/NN making/NN ./.
+A/DT case/NN study/NN has/VBZ been/VBN accomplished/VBN at/IN various/JJ operational/JJ conditions/NNS in/IN order/NN to/TO prove/VB the/DT concept/NN ,/, in/IN addition/NN it/PRP pointed/VBD out/RP that/IN :/: 1/LS ./.
+The/DT use/NN of/IN DSmT/NN for/IN information/NN fusion/NN yields/NNS not/RB only/RB more/RBR realistic/JJ beliefs/NNS but/CC also/RB reliable/JJ pignistic/JJ probabilities/NNS for/IN the/DT underlying/VBG propositions/NNS ./.
+2/LS ./.
+Exploiting/VBG the/DT pignistic/JJ probability/NN for/IN the/DT integration/NN of/IN the/DT information/NN fusion/NN with/IN the/DT Bayesian/JJ network/NN provides/VBZ probabilistic/JJ inference/NN and/CC enable/VB decision/NN making/VBG on/IN the/DT basis/NN of/IN both/DT belief/NN based/VBN probabilities/NNS for/IN the/DT underlying/VBG propositions/NNS and/CC Bayesian/JJ based/VBN probabilities/NNS for/IN the/DT corresponding/VBG reasons/NNS ./.
+A/DT comparative/JJ study/NN of/IN the/DT proposed/VBN framework/NN with/IN respect/NN to/IN other/JJ information/NN fusion/NN systems/NNS confirms/VBZ its/PRP$ superiority/NN to/TO support/VB decision/NN making/NN ./.

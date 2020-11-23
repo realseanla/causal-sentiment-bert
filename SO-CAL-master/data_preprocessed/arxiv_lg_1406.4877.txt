@@ -1,0 +1,4 @@
+Several/JJ generic/JJ summarization/NN algorithms/NNS were/VBD developed/VBN in/IN the/DT past/NN and/CC successfully/RB applied/VBN in/IN fields/NNS such/JJ as/IN text/NN and/CC speech/NN summarization/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP review/VBP and/CC apply/VBP these/DT algorithms/NNS to/IN music/NN ./.
+To/TO evaluate/VB this/DT summarization/NN 's/POS performance/NN ,/, we/PRP adopt/VBP an/DT extrinsic/JJ approach/NN :/: we/PRP compare/VBP a/DT Fado/NNP Genre/NNP Classifier/NNP 's/POS performance/NN using/VBG truncated/VBN contiguous/JJ clips/NNS against/IN the/DT summaries/NNS extracted/VBN with/IN those/DT algorithms/NNS on/IN 2/CD different/JJ datasets/NNS ./.
+We/PRP show/VBP that/IN Maximal/JJ Marginal/JJ Relevance/NN (/-LRB- MMR/NN )/-RRB- ,/, LexRank/NNP and/CC Latent/NNP Semantic/NNP Analysis/NNP (/-LRB- LSA/NNP )/-RRB- all/DT improve/VB classification/NN performance/NN in/IN both/CC datasets/NNS used/VBN for/IN testing/NN ./.

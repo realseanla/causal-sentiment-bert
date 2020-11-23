@@ -1,0 +1,6 @@
+Learning your first language is an incredible feat and not easily duplicated.
+Doing this using nothing but a few pictureless books, a corpus, would likely be impossible even for humans.
+As an alternative we propose to use situated interactions between agents as a driving force for communication, and the framework of Deep Recurrent Q-Networks (DRQN) for learning a common language grounded in the provided environment.
+We task the agents with interactive image search in the form of the game Guess Who?.
+The images from the game provide a non trivial environment for the agents to discuss and a natural grounding for the concepts they decide to encode in their communication.
+Our experiments show that it is possible to learn this task using DRQN and even more importantly that the words the agents use correspond to physical attributes present in the images that make up the agents environment.

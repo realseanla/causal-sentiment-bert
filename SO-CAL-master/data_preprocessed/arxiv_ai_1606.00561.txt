@@ -1,0 +1,6 @@
+Object/NN -/HYPH oriented/VBN Application/NN Programing/NNP Interfaces/NNPS (/-LRB- APIs/NNS )/-RRB- support/NN software/NN reuse/VB by/IN providing/VBG pre-implemented/JJ functionalities/NNS ./.
+Due/IN to/IN the/DT huge/JJ number/NN of/IN included/VBN classes/NNS ,/, reusing/VBG and/CC understanding/VBG large/JJ APIs/NNS is/VBZ a/DT complex/JJ task/NN ./.
+Otherwise/RB ,/, software/NN components/NNS are/VBP admitted/VBN to/TO be/VB more/RBR reusable/JJ and/CC understandable/JJ entities/NNS than/IN object/NN -/HYPH oriented/VBN ones/NNS ./.
+Thus/RB ,/, in/IN this/DT paper/NN ,/, we/PRP propose/VBP an/DT approach/NN for/IN reengineering/VBG object/NN -/HYPH oriented/VBN APIs/NNS into/IN component/NN -/HYPH based/VBN ones/NNS ./.
+We/PRP mine/PRP components/NNS as/IN a/DT group/NN of/IN classes/NNS based/VBN on/IN the/DT frequency/NN they/PRP are/VBP used/VBN together/RB and/CC their/PRP$ ability/NN to/TO form/VB a/DT quality/NN -/HYPH centric/JJ component/NN ./.
+To/TO validate/VB our/PRP$ approach/NN ,/, we/PRP experimented/VBD on/IN 100/CD Java/NNP applications/NNS that/WDT used/VBD Android/NN APIs/NNS ./.

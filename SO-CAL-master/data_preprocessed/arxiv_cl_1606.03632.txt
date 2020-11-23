@@ -1,0 +1,7 @@
+Natural/JJ language/NN generation/NN plays/VBZ a/DT critical/JJ role/NN in/IN any/DT spoken/VBN dialogue/NN system/NN ./.
+We/PRP present/VBP a/DT new/JJ approach/NN to/IN natural/JJ language/NN generation/NN using/VBG recurrent/JJ neural/JJ networks/NNS in/IN an/DT encoder/NN -/HYPH decoder/NN framework/NN ./.
+In/IN contrast/NN with/IN previous/JJ work/NN ,/, our/PRP$ model/NN uses/VBZ both/CC lexicalized/VBN and/CC delexicalized/VBN versions/NNS of/IN slot/NN -/HYPH value/NN pairs/NNS for/IN each/DT dialogue/NN act/NN ./.
+This/DT allows/VBZ our/PRP$ model/NN to/TO learn/VB from/IN all/DT available/JJ data/NNS ,/, rather/RB than/IN being/VBG restricted/VBN to/IN learning/VBG only/RB from/IN delexicalized/VBN slot/NN -/HYPH value/NN pairs/NNS ./.
+We/PRP show/VBP that/IN this/DT helps/VBZ our/PRP$ model/NN generate/VBP more/RBR natural/JJ sentences/NNS with/IN better/JJR grammar/NN ./.
+We/PRP further/RB improve/VB our/PRP$ model/NN 's/POS performance/NN by/IN initializing/VBG its/PRP$ weights/NNS from/IN a/DT pretrained/JJ language/NN model/NN ./.
+Human/JJ evaluation/NN of/IN our/PRP$ best/RBS -/HYPH performing/VBG model/NN indicates/VBZ that/IN it/PRP generates/VBZ sentences/NNS which/WDT users/NNS find/VBP more/RBR natural/JJ and/CC appealing/JJ ./.

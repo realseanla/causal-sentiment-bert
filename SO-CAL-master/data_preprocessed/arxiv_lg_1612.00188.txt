@@ -1,0 +1,12 @@
+Recurrent/JJ Neural/JJ Networks/NNS (/-LRB- RNNs/NNS )/-RRB- have/VBP been/VBN successfully/RB used/VBN in/IN many/JJ applications/NNS ./.
+However/RB ,/, the/DT problem/NN of/IN learning/VBG long/JJ -/HYPH term/NN dependencies/NNS in/IN sequences/NNS using/VBG these/DT networks/NNS is/VBZ still/RB a/DT major/JJ challenge/NN ./.
+Recent/JJ methods/NNS have/VBP been/VBN suggested/VBN to/TO solve/VB this/DT problem/NN by/IN constraining/VBG the/DT transition/NN matrix/NN to/TO be/VB unitary/JJ during/IN training/NN ,/, which/WDT ensures/VBZ that/IN its/PRP$ norm/NN is/VBZ exactly/RB equal/JJ to/IN one/CD ./.
+These/DT methods/NNS either/CC have/VBP limited/VBN expressiveness/NN or/CC scale/NN poorly/RB with/IN the/DT size/NN of/IN the/DT network/NN when/WRB compared/VBN to/IN the/DT simple/JJ RNN/NN case/NN ,/, especially/RB in/IN an/DT online/JJ learning/NN setting/NN ./.
+Our/PRP$ contributions/NNS are/VBP as/IN follows/VBZ ./.
+We/PRP first/RB show/VBP that/IN constraining/VBG the/DT transition/NN matrix/NN to/TO be/VB unitary/JJ is/VBZ a/DT special/JJ case/NN of/IN an/DT orthogonal/JJ constraint/NN ./.
+Therefore/RB ,/, it/PRP may/MD not/RB be/VB necessary/JJ to/TO work/VB with/IN complex/JJ valued/VBN matrices/NNS ./.
+Then/RB we/PRP present/VBP a/DT new/JJ parametrisation/NN of/IN the/DT transition/NN matrix/NN which/WDT allows/VBZ efficient/JJ training/NN of/IN an/DT RNN/NN while/IN ensuring/VBG that/IN the/DT transition/NN matrix/NN is/VBZ always/RB orthogonal/JJ ./.
+Using/VBG our/PRP$ approach/NN ,/, one/CD online/JJ gradient/NN step/NN can/MD ,/, in/IN the/DT worst/JJS case/NN ,/, be/VB performed/VBN in/IN time/NN complexity/NN $/$ \/CD mathcal/NN {/-LRB- O/NN }/-RRB- (/-LRB- T/NN n/NN ^/SYM 2/CD )/-RRB- $/$ ,/, where/WRB $/$ T$/CD and/CC $/$ n/NN $/$ are/VBP the/DT length/NN of/IN the/DT input/NN sequence/NN and/CC the/DT size/NN of/IN the/DT hidden/JJ layer/NN respectively/RB ./.
+This/DT time/NN complexity/NN is/VBZ the/DT same/JJ as/IN the/DT simple/JJ RNN/NN case/NN ./.
+Finally/RB ,/, we/PRP test/VBP our/PRP$ new/JJ parametrisation/NN on/IN problems/NNS with/IN long/JJ -/HYPH term/NN dependencies/NNS ./.
+Our/PRP$ results/NNS suggest/VBP that/IN the/DT orthogonal/JJ constraint/NN on/IN the/DT transition/NN matrix/NN has/VBZ similar/JJ benefits/NNS to/IN the/DT unitary/JJ constraint/NN ./.

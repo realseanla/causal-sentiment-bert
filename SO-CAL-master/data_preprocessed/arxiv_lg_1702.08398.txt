@@ -1,0 +1,4 @@
+We/PRP introduce/VBP new/JJ families/NNS of/IN Integral/NNP Probability/NNP Metrics/NNP (/-LRB- IPM/NNP )/-RRB- for/IN training/NN Generative/JJ Adversarial/JJ Networks/NNS (/-LRB- GAN/NNP )/-RRB- ./.
+Our/PRP$ IPMs/NNS are/VBP based/VBN on/IN matching/VBG statistics/NNS of/IN distributions/NNS embedded/VBN in/IN a/DT finite/JJ dimensional/JJ feature/NN space/NN ./.
+Mean/NNP and/CC covariance/NN feature/NN matching/VBG IPMs/NNS allow/VBP for/IN stable/JJ training/NN of/IN GANs/NNS ,/, which/WDT we/PRP will/MD call/VB McGan/NNP ./.
+McGan/NNP minimizes/VBZ a/DT meaningful/JJ loss/NN between/IN distributions/NNS ./.

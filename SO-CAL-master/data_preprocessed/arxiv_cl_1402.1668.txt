@@ -1,0 +1,6 @@
+We/PRP used/VBD MetaMap/NNP and/CC YTEX/NNP as/IN a/DT basis/NN for/IN the/DT construc/NN -/HYPH tion/NN of/IN two/CD separate/JJ systems/NNS to/TO participate/VB in/IN the/DT 2013/CD ShARe/NN //SYM CLEF/NN eHealth/NN Task/NNP 1/CD [/-LRB- 9/CD ]/-RRB- ,/, the/DT recognition/NN of/IN clinical/JJ concepts/NNS ./.
+No/DT modifications/NNS were/VBD directly/RB made/VBN to/IN these/DT systems/NNS ,/, but/CC output/NN concepts/NNS were/VBD filtered/VBN using/VBG stop/NN concepts/NNS ,/, stop/VB concept/NN text/NN and/CC UMLS/NNP semantic/JJ type/NN ./.
+Con/NN -/HYPH cept/NN boundaries/NNS were/VBD also/RB adjusted/VBN using/VBG a/DT small/JJ collection/NN of/IN rules/NNS to/TO increase/VB precision/NN on/IN the/DT strict/JJ task/NN ./.
+Overall/RB MetaMap/NNP had/VBD better/JJR per/IN -/HYPH formance/NN than/IN YTEX/NNP on/IN the/DT strict/JJ task/NN ,/, primarily/RB due/IN to/IN a/DT 20/CD percent/NN perfor/NN -/HYPH mance/NN improvement/NN in/IN precision/NN ./.
+In/IN the/DT relaxed/JJ task/NN YTEX/NNP had/VBD better/JJR performance/NN in/IN both/CC precision/NN and/CC recall/NN giving/VBG it/PRP an/DT overall/JJ F/NN -/HYPH Score/NN 4.6/CD percent/NN higher/JJR than/IN MetaMap/NNP on/IN the/DT test/NN data/NNS ./.
+Our/PRP$ results/NNS also/RB indicated/VBD a/DT 1.3/CD percent/NN higher/JJR accuracy/NN for/IN YTEX/NNP in/IN UMLS/NNP CUI/NNP mapping/NN ./.

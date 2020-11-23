@@ -1,0 +1,11 @@
+There/EX is/VBZ a/DT large/JJ variation/NN in/IN the/DT activities/NNS that/WDT humans/NNS perform/VBP in/IN their/PRP$ everyday/JJ lives/NNS ./.
+We/PRP consider/VBP modeling/VBG these/DT composite/JJ human/JJ activities/NNS which/WDT comprises/VBZ multiple/JJ basic/JJ level/NN actions/NNS in/IN a/DT completely/RB unsupervised/JJ setting/NN ./.
+Our/PRP$ model/NN learns/VBZ high/JJ -/HYPH level/NN co-occurrence/NN and/CC temporal/JJ relations/NNS between/IN the/DT actions/NNS ./.
+We/PRP consider/VBP the/DT video/NN as/IN a/DT sequence/NN of/IN short/JJ -/HYPH term/NN action/NN clips/NNS ,/, which/WDT contains/VBZ human/JJ -/HYPH words/NNS and/CC object/NN -/HYPH words/NNS ./.
+An/DT activity/NN is/VBZ about/IN a/DT set/NN of/IN action/NN -/HYPH topics/NNS and/CC object/NN -/HYPH topics/NNS indicating/VBG which/WDT actions/NNS are/VBP present/JJ and/CC which/WDT objects/NNS are/VBP interacting/VBG with/IN ./.
+We/PRP then/RB propose/VB a/DT new/JJ probabilistic/JJ model/NN relating/VBG the/DT words/NNS and/CC the/DT topics/NNS ./.
+It/PRP allows/VBZ us/PRP to/TO model/VB long/JJ -/HYPH range/NN action/NN relations/NNS that/WDT commonly/RB exist/VBP in/IN the/DT composite/JJ activities/NNS ,/, which/WDT is/VBZ challenging/VBG in/IN previous/JJ works/NNS ./.
+We/PRP apply/VBP our/PRP$ model/NN to/IN the/DT unsupervised/JJ action/NN segmentation/NN and/CC clustering/NN ,/, and/CC to/IN a/DT novel/JJ application/NN that/WDT detects/VBZ forgotten/VBN actions/NNS ,/, which/WDT we/PRP call/VBP action/NN patching/VBG ./.
+For/IN evaluation/NN ,/, we/PRP contribute/VBP a/DT new/JJ challenging/JJ RGB/NN -/HYPH D/NN activity/NN video/NN dataset/NN recorded/VBN by/IN the/DT new/JJ Kinect/NNP v2/NN ,/, which/WDT contains/VBZ several/JJ human/JJ daily/JJ activities/NNS as/IN compositions/NNS of/IN multiple/JJ actions/NNS interacting/VBG with/IN different/JJ objects/NNS ./.
+Moreover/RB ,/, we/PRP develop/VBP a/DT robotic/JJ system/NN that/WDT watches/VBZ people/NNS and/CC reminds/VBZ people/NNS by/IN applying/VBG our/PRP$ action/NN patching/VBG algorithm/NN ./.
+Our/PRP$ robotic/JJ setup/NN can/MD be/VB easily/RB deployed/VBN on/IN any/DT assistive/JJ robot/NN ./.

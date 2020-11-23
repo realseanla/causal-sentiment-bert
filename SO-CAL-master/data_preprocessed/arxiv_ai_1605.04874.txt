@@ -1,0 +1,13 @@
+Time/NN -/HYPH frequency/NN methods/NNS for/IN vibration/NN -/HYPH based/VBN gearbox/NN faults/NNS detection/NN have/VBP been/VBN considered/VBN the/DT most/RBS efficient/JJ method/NN ./.
+Among/IN these/DT methods/NNS ,/, continuous/JJ wavelet/NN transform/VB (/-LRB- CWT/NNP )/-RRB- as/IN one/CD of/IN the/DT best/JJS time/NN -/HYPH frequency/NN method/NN has/VBZ been/VBN used/VBN for/IN both/DT stationary/JJ and/CC transitory/JJ signals/NNS ./.
+Some/DT deficiencies/NNS of/IN CWT/NNP are/VBP problem/NN of/IN overlapping/VBG and/CC distortion/NN ofsignals/NNS ./.
+In/IN this/DT condition/NN ,/, a/DT large/JJ amount/NN of/IN redundant/JJ information/NN exists/VBZ so/IN that/IN it/PRP may/MD cause/VB false/JJ alarm/NN or/CC misinterpretation/NN of/IN the/DT operator/NN ./.
+In/IN this/DT paper/NN a/DT modified/VBN method/NN called/VBN Exact/JJ Wavelet/NNP Analysis/NNP is/VBZ used/VBN to/TO minimize/VB the/DT effects/NNS of/IN overlapping/VBG and/CC distortion/NN in/IN case/NN of/IN gearbox/NN faults/NNS ./.
+To/TO implement/VB exact/JJ wavelet/NN analysis/NN ,/, Particle/NN Swarm/NN Optimization/NN (/-LRB- PSO/NNP )/-RRB- algorithm/NN has/VBZ been/VBN used/VBN for/IN this/DT purpose/NN ./.
+This/DT method/NN have/VBP been/VBN implemented/VBN for/IN the/DT acceleration/NN signals/NNS from/IN 2D/NN acceleration/NN sensor/NN acquired/VBN by/IN Advantech/NNP PCI/NN -/HYPH 1710/CD card/NN from/IN a/DT gearbox/NN test/NN setup/NN in/IN Amirkabir/NNP University/NNP of/IN Technology/NNP ./.
+Gearbox/NN has/VBZ been/VBN considered/VBN in/IN both/CC healthy/JJ and/CC chipped/VBD tooth/NN gears/NNS conditions/NNS ./.
+Kernelized/NNP Support/NNP Vector/NNP Machine/NNP (/-LRB- SVM/NNP )/-RRB- with/IN radial/JJ basis/NN functions/NNS has/VBZ used/VBN the/DT extracted/VBN features/NNS from/IN exact/JJ wavelet/NN analysis/NN for/IN classification/NN ./.
+The/DT efficiency/NN of/IN this/DT classifier/NN is/VBZ then/RB evaluated/VBN with/IN the/DT other/JJ signals/NNS acquired/VBN from/IN the/DT setup/NN test/NN ./.
+The/DT results/NNS show/VBP that/IN in/IN comparison/NN of/IN CWT/NNP ,/, PSO/NNP Exact/JJ Wavelet/NNP Transform/NNP has/VBZ better/JJR ability/NN in/IN feature/NN extraction/NN in/IN price/NN of/IN more/JJR computational/JJ effort/NN ./.
+In/IN addition/NN ,/, PSO/NNP exact/JJ wavelet/NN has/VBZ better/JJR speed/NN comparing/VBG to/IN Genetic/JJ Algorithm/NN (/-LRB- GA/NN )/-RRB- exact/JJ wavelet/NN in/IN condition/NN of/IN equal/JJ population/NN because/IN of/IN factoring/NN mutation/NN and/CC crossover/NN in/IN PSO/NNP algorithm/NN ./.
+SVM/NNP classifier/NN with/IN the/DT extracted/VBN features/NNS in/IN gearbox/NN shows/VBZ very/RB good/JJ results/NNS and/CC its/PRP$ ability/NN has/VBZ been/VBN proved/VBN ./.

@@ -1,0 +1,3 @@
+We/PRP present/VBP a/DT parallel/JJ solver/NN for/IN numerical/JJ constraint/NN satisfaction/NN problems/NNS (/-LRB- NCSPs/NNS )/-RRB- that/WDT can/MD scale/VB on/RP a/DT number/NN of/IN cores/NNS ./.
+Our/PRP$ proposed/JJ method/NN runs/VBZ worker/NN solvers/NNS on/IN the/DT available/JJ cores/NNS and/CC simultaneously/RB the/DT workers/NNS cooperate/VBP for/IN the/DT search/NN space/NN distribution/NN and/CC balancing/NN ./.
+In/IN the/DT experiments/NNS ,/, we/PRP attained/VBD up/RP to/IN 119-fold/JJ speedup/NN using/VBG 256/CD cores/NNS of/IN a/DT parallel/JJ computer/NN ./.

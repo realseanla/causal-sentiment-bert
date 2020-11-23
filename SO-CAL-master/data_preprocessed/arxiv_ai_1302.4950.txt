@@ -1,0 +1,6 @@
+We/PRP present/VBP an/DT algorithm/NN ,/, called/VBN Predict/NNP ,/, for/IN updating/VBG beliefs/NNS in/IN causal/JJ networks/NNS quantified/VBN with/IN order/NN -/HYPH of/IN -/HYPH magnitude/NN probabilities/NNS ./.
+The/DT algorithm/NN takes/VBZ advantage/NN of/IN both/CC the/DT structure/NN and/CC the/DT quantification/NN of/IN the/DT network/NN and/CC presents/VBZ a/DT polynomial/JJ asymptotic/JJ complexity/NN ./.
+Predict/VB exhibits/VBZ a/DT conservative/JJ behavior/NN in/IN that/IN it/PRP is/VBZ always/RB sound/JJ but/CC not/RB always/RB complete/JJ ./.
+We/PRP provide/VBP sufficient/JJ conditions/NNS for/IN completeness/NN and/CC present/JJ algorithms/NNS for/IN testing/VBG these/DT conditions/NNS and/CC for/IN computing/VBG a/DT complete/JJ set/NN of/IN plausible/JJ values/NNS ./.
+We/PRP propose/VBP Predict/VB as/IN an/DT efficient/JJ method/NN to/TO estimate/VB probabilistic/JJ values/NNS and/CC illustrate/VB its/PRP$ use/NN in/IN conjunction/NN with/IN two/CD known/VBN algorithms/NNS for/IN probabilistic/JJ inference/NN ./.
+Finally/RB ,/, we/PRP describe/VBP an/DT application/NN of/IN Predict/NNP to/TO plan/VB evaluation/NN ,/, present/JJ experimental/JJ results/NNS ,/, and/CC discuss/VB issues/NNS regarding/VBG its/PRP$ use/NN with/IN conditional/JJ logics/NNS of/IN belief/NN ,/, and/CC in/IN the/DT characterization/NN of/IN irrelevance/NN ./.

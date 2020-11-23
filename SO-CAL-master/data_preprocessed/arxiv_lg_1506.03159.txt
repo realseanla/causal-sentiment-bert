@@ -1,0 +1,6 @@
+We/PRP develop/VBP a/DT general/JJ methodology/NN for/IN variational/JJ inference/NN which/WDT preserves/VBZ dependency/NN among/IN the/DT latent/JJ variables/NNS ./.
+This/DT is/VBZ done/VBN by/IN augmenting/VBG the/DT families/NNS of/IN distributions/NNS used/VBN in/IN mean/NN -/HYPH field/NN and/CC structured/VBN approximation/NN with/IN copulas/NNS ./.
+Copulas/NNS allow/VBP one/CD to/TO separately/RB model/VB the/DT dependency/NN given/VBN a/DT factorization/NN of/IN the/DT variational/JJ distribution/NN ,/, and/CC can/MD guarantee/VB us/PRP better/JJR approximations/NNS to/IN the/DT posterior/JJ as/IN measured/VBN by/IN KL/NN divergence/NN ./.
+We/PRP show/VBP that/IN inference/NN on/IN the/DT augmented/VBN distribution/NN is/VBZ highly/RB scalable/JJ using/VBG stochastic/JJ optimization/NN ./.
+Furthermore/RB ,/, the/DT addition/NN of/IN a/DT copula/NN is/VBZ generic/JJ and/CC can/MD be/VB applied/VBN straightforwardly/RB to/IN any/DT inference/NN procedure/NN using/VBG the/DT original/JJ mean/NN -/HYPH field/NN or/CC structured/VBN approach/NN ./.
+This/DT reduces/VBZ bias/NN ,/, sensitivity/NN to/IN local/JJ optima/NN ,/, sensitivity/NN to/IN hyperparameters/NNS ,/, and/CC significantly/RB helps/VBZ characterize/VB and/CC interpret/VB the/DT dependency/NN among/IN the/DT latent/JJ variables/NNS ./.

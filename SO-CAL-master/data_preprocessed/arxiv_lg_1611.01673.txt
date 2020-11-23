@@ -1,0 +1,6 @@
+Generative/JJ adversarial/JJ networks/NNS (/-LRB- GANs/NNS )/-RRB- are/VBP a/DT framework/NN for/IN producing/VBG a/DT generative/JJ model/NN by/IN way/NN of/IN a/DT two/CD -/HYPH player/NN minimax/NN game/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP the/DT \/NN emph/NN {/-LRB- Generative/NNP Multi-Adversarial/NNP Network/NNP }/-RRB- (/-LRB- GMAN/NNP )/-RRB- ,/, a/DT framework/NN that/WDT extends/VBZ GANs/NNS to/IN multiple/JJ discriminators/NNS ./.
+In/IN previous/JJ work/NN ,/, the/DT successful/JJ training/NN of/IN GANs/NNP requires/VBZ modifying/VBG the/DT minimax/NN objective/NN to/TO accelerate/VB training/NN early/RB on/IN ./.
+In/IN contrast/NN ,/, GMAN/NNP can/MD be/VB reliably/RB trained/VBN with/IN the/DT original/JJ ,/, untampered/JJ objective/NN ./.
+We/PRP explore/VBP a/DT number/NN of/IN design/NN perspectives/NNS with/IN the/DT discriminator/NN role/NN ranging/VBG from/IN formidable/JJ adversary/NN to/IN forgiving/VBG teacher/NN ./.
+Image/NN generation/NN tasks/NNS comparing/VBG the/DT proposed/VBN framework/NN to/IN standard/JJ GANs/NNS demonstrate/VBP GMAN/NNP produces/VBZ higher/JJR quality/NN samples/NNS in/IN a/DT fraction/NN of/IN the/DT iterations/NNS when/WRB measured/VBN by/IN a/DT pairwise/JJ GAM/NN -/HYPH type/NN metric/JJ ./.

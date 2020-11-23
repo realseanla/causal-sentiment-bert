@@ -1,0 +1,4 @@
+A large number of experimental data shows that Support Vector Machine (SVM) algorithm has obvious advantages in text classification, handwriting recognition, image classification, bioinformatics, and some other fields.
+To some degree, the optimization of SVM depends on its kernel function and Slack variable, the determinant of which is its parameters $\delta$ and c in the classification function.
+That is to say,to optimize the SVM algorithm, the optimization of the two parameters play a huge role.
+Ant Colony Optimization (ACO) is optimization algorithm which simulate ants to find the optimal path.In the available literature, we mix the ACO algorithm and Parallel algorithm together to find a well parameters.

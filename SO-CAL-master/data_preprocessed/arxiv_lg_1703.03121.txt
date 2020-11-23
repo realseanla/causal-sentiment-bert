@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT problem/NN of/IN imitation/NN learning/NN from/IN demonstrations/NNS of/IN multiple/JJ coordinating/VBG agents/NNS ./.
+One/CD key/NN challenge/NN in/IN this/DT setting/NN is/VBZ that/IN learning/VBG a/DT good/JJ model/NN of/IN coordination/NN can/MD be/VB difficult/JJ ,/, since/IN coordination/NN is/VBZ often/RB implicit/JJ in/IN the/DT demonstrations/NNS and/CC must/MD be/VB inferred/VBN as/IN a/DT latent/JJ variable/NN ./.
+We/PRP propose/VBP a/DT joint/JJ approach/NN that/WDT simultaneously/RB learns/VBZ a/DT latent/JJ coordination/NN model/NN along/IN with/IN the/DT individual/JJ policies/NNS ./.
+In/IN particular/JJ ,/, our/PRP$ method/NN integrates/VBZ unsupervised/JJ structure/NN learning/NN with/IN conventional/JJ imitation/NN learning/NN ./.
+We/PRP illustrate/VBP the/DT power/NN of/IN our/PRP$ approach/NN on/IN a/DT difficult/JJ problem/NN of/IN learning/VBG multiple/JJ policies/NNS for/IN fine/JJ -/HYPH grained/JJ behavior/NN modeling/NN in/IN team/NN sports/NNS ,/, where/WRB different/JJ players/NNS occupy/VBP different/JJ roles/NNS in/IN the/DT coordinated/VBN team/NN strategy/NN ./.
+We/PRP show/VBP that/IN having/VBG a/DT coordination/NN model/NN to/IN infer/VB the/DT roles/NNS of/IN players/NNS yields/VBZ substantially/RB improved/VBN imitation/NN loss/NN compared/VBN to/IN conventional/JJ baselines/NNS ./.

@@ -1,0 +1,5 @@
+We/PRP present/VBP an/DT approach/NN to/IN training/VBG a/DT binary/JJ logistic/JJ regression/NN classifier/NN in/IN the/DT setting/NN where/WRB the/DT training/NN data/NNS needs/VBZ to/TO be/VB kept/VBN private/JJ ./.
+We/PRP provide/VBP a/DT theoretical/JJ analysis/NN of/IN the/DT security/NN of/IN this/DT procedure/NN and/CC experimental/JJ results/NNS for/IN the/DT problem/NN of/IN large/JJ scale/NN spam/NN detection/NN ./.
+High/JJ performance/NN spam/NN filters/NNS often/RB use/VBP character/NN n/NN -/HYPH grams/NNS as/IN features/NNS which/WDT result/VBP in/IN large/JJ sparse/JJ vectors/NNS to/IN which/WDT applying/VBG our/PRP$ protocol/NN directly/RB is/VBZ not/RB feasible/JJ ./.
+We/PRP explore/VBP various/JJ dimensionality/NN reduction/NN and/CC parallelization/NN approaches/NNS and/CC provide/VB a/DT detailed/JJ analysis/NN of/IN the/DT speed/NN and/CC accuracy/NN trade/NN -/HYPH off/NN ./.
+Our/PRP$ results/NNS show/VBP that/IN we/PRP can/MD achieve/VB the/DT accuracy/NN of/IN state/NN of/IN the/DT art/NN spam/NN filters/NNS at/IN comparable/JJ training/NN and/CC testing/NN time/NN of/IN non-private/JJ version/NN of/IN logistic/JJ regression/NN ./.

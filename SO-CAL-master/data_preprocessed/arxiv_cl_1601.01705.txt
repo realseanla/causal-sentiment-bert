@@ -1,0 +1,4 @@
+We/PRP describe/VBP a/DT question/NN answering/VBG model/NN that/WDT applies/VBZ to/IN both/DT images/NNS and/CC structured/JJ knowledge/NN bases/NNS ./.
+The/DT model/NN uses/VBZ natural/JJ language/NN strings/NNS to/TO automatically/RB assemble/VB neural/JJ networks/NNS from/IN a/DT collection/NN of/IN composable/JJ modules/NNS ./.
+Parameters/NNS for/IN these/DT modules/NNS are/VBP learned/VBN jointly/RB with/IN network/NN -/HYPH assembly/NN parameters/NNS via/IN reinforcement/NN learning/NN ,/, with/IN only/RB (/-LRB- world/NN ,/, question/NN ,/, answer/NN )/-RRB- triples/NNS as/IN supervision/NN ./.
+Our/PRP$ approach/NN ,/, which/WDT we/PRP term/VBP a/DT dynamic/JJ neural/JJ model/NN network/NN ,/, achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS on/IN benchmark/NN datasets/NNS in/IN both/DT visual/JJ and/CC structured/JJ domains/NNS ./.

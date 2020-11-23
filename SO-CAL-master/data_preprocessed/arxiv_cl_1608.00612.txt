@@ -1,0 +1,7 @@
+Sequence/NN labeling/NN is/VBZ a/DT widely/RB used/JJ method/NN for/IN named/VBN entity/NN recognition/NN and/CC information/NN extraction/NN from/IN unstructured/JJ natural/JJ language/NN data/NNS ./.
+In/IN clinical/JJ domain/NN one/CD major/JJ application/NN of/IN sequence/NN labeling/NN involves/VBZ extraction/NN of/IN medical/JJ entities/NNS such/JJ as/IN medication/NN ,/, indication/NN ,/, and/CC side/NN -/HYPH effects/NNS from/IN Electronic/NNP Health/NNP Record/NNP narratives/NNS ./.
+Sequence/NN labeling/NN in/IN this/DT domain/NN ,/, presents/VBZ its/PRP$ own/JJ set/NN of/IN challenges/NNS and/CC objectives/NNS ./.
+In/IN this/DT work/NN we/PRP experimented/VBD with/IN various/JJ CRF/NNP based/VBN structured/VBN learning/NN models/NNS with/IN Recurrent/JJ Neural/JJ Networks/NNS ./.
+We/PRP extend/VBP the/DT previously/RB studied/VBN LSTM/NNP -/HYPH CRF/NNP models/NNS with/IN explicit/JJ modeling/NN of/IN pairwise/JJ potentials/NNS ./.
+We/PRP also/RB propose/VBP an/DT approximate/JJ version/NN of/IN skip/VB -/HYPH chain/NN CRF/NNP inference/NN with/IN RNN/NN potentials/NNS ./.
+We/PRP use/VBP these/DT methodologies/NNS for/IN structured/JJ prediction/NN in/IN order/NN to/TO improve/VB the/DT exact/JJ phrase/NN detection/NN of/IN various/JJ medical/JJ entities/NNS ./.

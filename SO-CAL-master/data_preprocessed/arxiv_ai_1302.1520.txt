@@ -1,0 +1,6 @@
+Wide/JJ -/HYPH angle/NN sonar/NN mapping/NN of/IN the/DT environment/NN by/IN mobile/JJ robot/NN is/VBZ nontrivial/JJ due/IN to/IN several/JJ sources/NNS of/IN uncertainty/NN :/: dropouts/NNS due/IN to/IN "/`` specular/JJ "/'' reflections/NNS ,/, obstacle/NN location/NN uncertainty/NN due/IN to/IN the/DT wide/JJ beam/NN ,/, and/CC distance/NN measurement/NN error/NN ./.
+Earlier/RBR papers/NNS address/VBP the/DT latter/JJ problems/NNS ,/, but/CC dropouts/NNS remain/VBP a/DT problem/NN in/IN many/JJ environments/NNS ./.
+We/PRP present/VBP an/DT approach/NN that/WDT lifts/VBZ the/DT overoptimistic/JJ independence/NN assumption/NN used/VBN in/IN earlier/JJR work/NN ,/, and/CC use/VB Bayes/NNP nets/NNS to/TO represent/VB the/DT dependencies/NNS between/IN objects/NNS of/IN the/DT model/NN ./.
+Objects/NNS of/IN the/DT model/NN consist/VB of/IN readings/NNS ,/, and/CC of/IN regions/NNS in/IN which/WDT "/`` quasi/JJ location/NN invariance/NN "/'' of/IN the/DT (/-LRB- possible/JJ )/-RRB- obstacles/NNS exists/VBZ ,/, with/IN respect/NN to/IN the/DT readings/NNS ./.
+Simulation/NNP supports/VBZ the/DT method/NN 's/POS feasibility/NN ./.
+The/DT model/NN is/VBZ readily/RB extensible/JJ to/TO allow/VB for/IN prior/JJ distributions/NNS ,/, as/RB well/RB as/IN other/JJ types/NNS of/IN sensing/VBG operations/NNS ./.

@@ -1,0 +1,6 @@
+Path/NN planning/NN for/IN multiple/JJ robots/NNS is/VBZ well/RB studied/VBN in/IN the/DT AI/NN and/CC robotics/NNS communities/NNS ./.
+For/IN a/DT given/VBN discretized/JJ environment/NN ,/, robots/NNS need/VBP to/TO find/VB collision/NN -/HYPH free/JJ paths/NNS to/IN a/DT set/NN of/IN specified/VBN goal/NN locations/NNS ./.
+Robots/NNP can/MD be/VB fully/RB anonymous/JJ ,/, non-anonymous/JJ ,/, or/CC organized/VBN in/IN groups/NNS ./.
+Although/IN powerful/JJ solvers/NNS for/IN this/DT abstract/JJ problem/NN exist/VBP ,/, they/PRP make/VBP simplifying/VBG assumptions/NNS by/IN ignoring/VBG kinematic/JJ constraints/NNS ,/, making/VBG it/PRP difficult/JJ to/TO use/VB the/DT resulting/VBG plans/NNS on/IN actual/JJ robots/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT solution/NN which/WDT takes/VBZ kinematic/JJ constraints/NNS ,/, such/JJ as/IN maximum/JJ velocities/NNS ,/, into/IN account/NN ,/, while/IN guaranteeing/VBG a/DT user/NN -/HYPH specified/VBN minimum/JJ safety/NN distance/NN between/IN robots/NNS ./.
+We/PRP demonstrate/VBP our/PRP$ approach/NN in/IN simulation/NN and/CC on/IN real/JJ robots/NNS in/IN 2D/NN and/CC 3D/NN environments/NNS ./.

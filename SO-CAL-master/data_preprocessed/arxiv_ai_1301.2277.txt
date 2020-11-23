@@ -1,0 +1,10 @@
+In/IN this/DT work/NN we/PRP focus/VBP on/IN efficient/JJ heuristics/NNS for/IN solving/VBG a/DT class/NN of/IN stochastic/JJ planning/NN problems/NNS that/WDT arise/VBP in/IN a/DT variety/NN of/IN business/NN ,/, investment/NN ,/, and/CC industrial/JJ applications/NNS ./.
+The/DT problem/NN is/VBZ best/JJS described/VBN in/IN terms/NNS of/IN future/JJ buy/NN and/CC sell/VB contracts/NNS ./.
+By/IN buying/VBG less/JJR reliable/JJ ,/, but/CC less/RBR expensive/JJ ,/, buy/VB (/-LRB- supply/NN )/-RRB- contracts/NNS ,/, a/DT company/NN or/CC a/DT trader/NN can/MD cover/VB a/DT position/NN of/IN more/JJR reliable/JJ and/CC more/RBR expensive/JJ sell/NN contracts/NNS ./.
+The/DT goal/NN is/VBZ to/TO maximize/VB the/DT expected/VBN net/JJ gain/NN (/-LRB- profit/NN )/-RRB- by/IN constructing/VBG a/DT dose/NN to/IN optimum/JJ portfolio/NN out/IN of/IN the/DT available/JJ buy/NN and/CC sell/VB contracts/NNS ./.
+This/DT stochastic/JJ planning/NN problem/NN can/MD be/VB formulated/VBN as/IN a/DT two/CD -/HYPH stage/NN stochastic/JJ linear/JJ programming/NN problem/NN with/IN recourse/NN ./.
+However/RB ,/, this/DT formalization/NN leads/VBZ to/IN solutions/NNS that/WDT are/VBP exponential/JJ in/IN the/DT number/NN of/IN possible/JJ failure/NN combinations/NNS ./.
+Thus/RB ,/, this/DT approach/NN is/VBZ not/RB feasible/JJ for/IN large/JJ scale/NN problems/NNS ./.
+In/IN this/DT work/NN we/PRP investigate/VBP heuristic/NN approximation/NN techniques/NNS alleviating/VBG the/DT efficiency/NN problem/NN ./.
+We/PRP primarily/RB focus/VBP on/IN the/DT clustering/NN approach/NN and/CC devise/VB heuristics/NNS for/IN finding/VBG clusterings/NNS leading/VBG to/IN good/JJ approximations/NNS ./.
+We/PRP illustrate/VBP the/DT quality/NN and/CC feasibility/NN of/IN the/DT approach/NN through/IN experimental/JJ data/NNS ./.

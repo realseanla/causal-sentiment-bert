@@ -1,0 +1,8 @@
+We/PRP study/VBP the/DT problem/NN of/IN structured/JJ prediction/NN under/IN test/NN -/HYPH time/NN budget/NN constraints/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ approach/NN applicable/JJ to/IN a/DT wide/JJ range/NN of/IN structured/JJ prediction/NN problems/NNS in/IN computer/NN vision/NN and/CC natural/JJ language/NN processing/NN ./.
+Our/PRP$ approach/NN seeks/VBZ to/TO adaptively/RB generate/VB computationally/RB costly/JJ features/NNS during/IN test/NN -/HYPH time/NN in/IN order/NN to/TO reduce/VB the/DT computational/JJ cost/NN of/IN prediction/NN while/IN maintaining/VBG prediction/NN performance/NN ./.
+We/PRP show/VBP that/IN training/VBG the/DT adaptive/JJ feature/NN generation/NN system/NN can/MD be/VB reduced/VBN to/IN a/DT series/NN of/IN structured/JJ learning/NN problems/NNS ,/, resulting/VBG in/IN efficient/JJ training/NN using/VBG existing/VBG structured/VBN learning/NN algorithms/NNS ./.
+This/DT framework/NN provides/VBZ theoretical/JJ justification/NN for/IN several/JJ existing/VBG heuristic/NN approaches/NNS found/VBN in/IN literature/NN ./.
+We/PRP evaluate/VBP our/PRP$ proposed/VBN adaptive/JJ system/NN on/IN two/CD real/JJ -/HYPH world/NN structured/JJ prediction/NN tasks/NNS ,/, optical/JJ character/NN recognition/NN (/-LRB- OCR/NN )/-RRB- and/CC dependency/NN parsing/VBG ./.
+For/IN OCR/NNP our/PRP$ method/NN cuts/VBZ the/DT feature/NN acquisition/NN time/NN by/IN half/NN coming/VBG within/IN a/DT 1/CD percent/NN margin/NN of/IN top/JJ accuracy/NN ./.
+For/IN dependency/NN parsing/VBG we/PRP realize/VBP an/DT overall/JJ runtime/NN gain/NN of/IN 20/CD percent/NN without/IN significant/JJ loss/NN in/IN performance/NN ./.

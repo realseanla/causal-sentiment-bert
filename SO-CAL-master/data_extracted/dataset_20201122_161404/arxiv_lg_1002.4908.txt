@@ -1,0 +1,6 @@
+We introduce a new online convex optimization algorithm that adaptively chooses its regularization function based on the loss functions observed so far.
+This is in contrast to previous algorithms that use a fixed regularization function such as L2-squared, and modify it only via a single time-dependent parameter.
+Our algorithm's regret bounds are worst-case optimal, and for certain realistic classes of loss functions they are much better than existing bounds.
+These bounds are problem-dependent, which means they can exploit the structure of the actual problem instance.
+Critically, however, our algorithm does not need to know this structure in advance.
+Rather, we prove competitive guarantees that show the algorithm provides a bound within a constant factor of the best possible bound (of a certain functional form) in hindsight.

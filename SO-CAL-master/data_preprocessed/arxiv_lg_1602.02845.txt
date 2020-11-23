@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN online/JJ active/JJ learning/NN to/TO collect/VB data/NNS for/IN regression/NN modeling/NN ./.
+Specifically/RB ,/, we/PRP consider/VBP a/DT decision/NN maker/NN that/WDT faces/VBZ a/DT limited/JJ experimentation/NN budget/NN but/CC must/MD efficiently/RB learn/VB an/DT underlying/VBG linear/JJ population/NN model/NN ./.
+Our/PRP$ goal/NN is/VBZ to/TO develop/VB algorithms/NNS that/WDT provide/VBP substantial/JJ gains/NNS over/IN passive/JJ random/JJ sampling/NN of/IN observations/NNS ./.
+To/IN that/DT end/NN ,/, our/PRP$ main/JJ contribution/NN is/VBZ a/DT novel/JJ threshold/NN -/HYPH based/VBN algorithm/NN for/IN selection/NN of/IN observations/NNS ;/: we/PRP characterize/VBP its/PRP$ performance/NN and/CC related/VBN lower/JJR bounds/NNS ./.
+We/PRP also/RB apply/VBP our/PRP$ approach/NN successfully/RB to/IN regularized/VBN regression/NN ./.
+Simulations/NNS suggest/VBP the/DT algorithm/NN is/VBZ remarkably/RB robust/JJ :/: it/PRP provides/VBZ significant/JJ benefits/NNS over/IN passive/JJ random/JJ sampling/NN even/RB in/IN several/JJ real/JJ -/HYPH world/NN datasets/NNS that/WDT exhibit/VBP high/JJ nonlinearity/NN and/CC high/JJ dimensionality/NN ---/, significantly/RB reducing/VBG the/DT mean/NN and/CC variance/NN of/IN the/DT squared/JJ error/NN ./.

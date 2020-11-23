@@ -1,0 +1,7 @@
+Many/JJ approaches/NNS for/IN estimation/NN of/IN Remaining/VBG Useful/JJ Life/NN (/-LRB- RUL/NN )/-RRB- of/IN a/DT machine/NN ,/, using/VBG its/PRP$ operational/JJ sensor/NN data/NNS ,/, make/VB assumptions/NNS about/IN how/WRB a/DT system/NN degrades/VBZ or/CC a/DT fault/NN evolves/VBZ ,/, e.g./FW ,/, exponential/JJ degradation/NN ./.
+However/RB ,/, in/IN many/JJ domains/NNS degradation/NN may/MD not/RB follow/VB a/DT pattern/NN ./.
+We/PRP propose/VBP a/DT Long/JJ Short/JJ Term/NN Memory/NN based/VBN Encoder/NNP -/HYPH Decoder/NNP (/-LRB- LSTM/NN -/HYPH ED/NN )/-RRB- scheme/NN to/TO obtain/VB an/DT unsupervised/JJ health/NN index/NN (/-LRB- HI/NN )/-RRB- for/IN a/DT system/NN using/VBG multi-sensor/NN time/NN -/HYPH series/NN data/NNS ./.
+LSTM/NN -/HYPH ED/NN is/VBZ trained/VBN to/TO reconstruct/VB the/DT time/NN -/HYPH series/NN corresponding/VBG to/IN healthy/JJ state/NN of/IN a/DT system/NN ./.
+The/DT reconstruction/NN error/NN is/VBZ used/VBN to/TO compute/VB HI/NN which/WDT is/VBZ then/RB used/VBN for/IN RUL/NNP estimation/NN ./.
+We/PRP evaluate/VBP our/PRP$ approach/NN on/IN publicly/RB available/JJ Turbofan/NNP Engine/NNP and/CC Milling/NNP Machine/NNP datasets/NNS ./.
+We/PRP also/RB present/JJ results/NNS on/IN a/DT real/JJ -/HYPH world/NN industry/NN dataset/NN from/IN a/DT pulverizer/NN mill/NN where/WRB we/PRP find/VBP significant/JJ correlation/NN between/IN LSTM/NN -/HYPH ED/NN based/VBN HI/NNP and/CC maintenance/NN costs/NNS ./.

@@ -1,0 +1,3 @@
+This paper addresses the scalar regression problem presenting a solution for optimizing the Huber loss in a general semi-supervised setting, which combines multi-view learning and manifold regularization.
+To this aim, we propose a principled algorithm to 1) avoid computationally expensive iterative solutions while 2) adapting the Huber loss threshold in a data-driven fashion and 3) actively balancing the use of labelled data to remove noisy or inconsistent annotations from the training stage.
+In a wide experimental evaluation, dealing with diverse applications, we assess the superiority of our paradigm which is able to combine strong performance and robustness to noise at a low computational cost.

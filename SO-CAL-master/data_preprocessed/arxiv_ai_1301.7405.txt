@@ -1,0 +1,6 @@
+This/DT paper/NN presents/VBZ two/CD new/JJ approaches/NNS to/IN decomposing/VBG and/CC solving/VBG large/JJ Markov/NNP decision/NN problems/NNS (/-LRB- MDPs/NNS )/-RRB- ,/, a/DT partial/JJ decoupling/NN method/NN and/CC a/DT complete/JJ decoupling/NN method/NN ./.
+In/IN these/DT approaches/NNS ,/, a/DT large/JJ ,/, stochastic/JJ decision/NN problem/NN is/VBZ divided/VBN into/IN smaller/JJR pieces/NNS ./.
+The/DT first/JJ approach/NN builds/VBZ a/DT cache/NN of/IN policies/NNS for/IN each/DT part/NN of/IN the/DT problem/NN independently/RB ,/, and/CC then/RB combines/VBZ the/DT pieces/NNS in/IN a/DT separate/JJ ,/, light/JJ -/HYPH weight/NN step/NN ./.
+A/DT second/JJ approach/NN also/RB divides/VBZ the/DT problem/NN into/IN smaller/JJR pieces/NNS ,/, but/CC information/NN is/VBZ communicated/VBN between/IN the/DT different/JJ problem/NN pieces/NNS ,/, allowing/VBG intelligent/JJ decisions/NNS to/TO be/VB made/VBN about/IN which/WDT piece/NN requires/VBZ the/DT most/JJS attention/NN ./.
+Both/DT approaches/NNS can/MD be/VB used/VBN to/TO find/VB optimal/JJ policies/NNS or/CC approximately/RB optimal/JJ policies/NNS with/IN provable/JJ bounds/NNS ./.
+These/DT algorithms/NNS also/RB provide/VBP a/DT framework/NN for/IN the/DT efficient/JJ transfer/NN of/IN knowledge/NN across/IN problems/NNS that/WDT share/VBP similar/JJ structure/NN ./.

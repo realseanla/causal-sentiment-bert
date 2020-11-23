@@ -1,0 +1,9 @@
+Bayesian/JJ Optimisation/NN (/-LRB- BO/NN )/-RRB- is/VBZ a/DT technique/NN used/VBN in/IN optimising/VBG a/DT $/$ D$/CD -/HYPH dimensional/JJ function/NN which/WDT is/VBZ typically/RB expensive/JJ to/TO evaluate/VB ./.
+While/IN there/EX have/VBP been/VBN many/JJ successes/NNS for/IN BO/NNP in/IN low/JJ dimensions/NNS ,/, scaling/VBG it/PRP to/IN high/JJ dimensions/NNS has/VBZ been/VBN a/DT notoriously/RB difficult/JJ problem/NN ./.
+Existing/VBG literature/NN on/IN the/DT subject/NN are/VBP under/IN very/RB restrictive/JJ settings/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP identify/VBP two/CD key/JJ challenges/NNS in/IN this/DT endeavour/NN ./.
+We/PRP tackle/VBP these/DT challenges/NNS by/IN assuming/VBG an/DT additive/JJ structure/NN for/IN the/DT function/NN ./.
+This/DT setting/NN is/VBZ substantially/RB more/JJR expressive/JJ and/CC contains/VBZ a/DT richer/JJR class/NN of/IN functions/NNS than/IN previous/JJ work/NN ./.
+In/IN our/PRP$ theoretical/JJ analysis/NN we/PRP prove/VBP that/IN for/IN additive/JJ functions/NNS the/DT regret/NN has/VBZ only/RB linear/JJ (/-LRB- as/IN opposed/VBN to/IN exponential/JJ )/-RRB- dependence/NN on/IN $/$ D$/CD even/RB though/IN the/DT function/NN depends/VBZ on/IN all/DT $/$ D$/CD dimensions/NNS ./.
+We/PRP also/RB demonstrate/VBP several/JJ other/JJ statistical/JJ and/CC computational/JJ benefits/NNS in/IN our/PRP$ framework/NN ./.
+Empirically/RB via/IN synthetic/JJ examples/NNS ,/, a/DT scientific/JJ simulation/NN and/CC a/DT face/NN detection/NN problem/NN we/PRP demonstrate/VBP that/IN our/PRP$ method/NN outperforms/VBZ naive/JJ BO/NN on/IN additive/JJ functions/NNS and/CC on/IN several/JJ examples/NNS when/WRB the/DT function/NN is/VBZ not/RB additive/JJ ./.

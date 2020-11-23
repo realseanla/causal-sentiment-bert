@@ -1,0 +1,5 @@
+This/DT paper/NN describes/VBZ the/DT USTC_NELSLIP/NN systems/NNS submitted/VBN to/IN the/DT Trilingual/JJ Entity/NN Detection/NN and/CC Linking/VBG (/-LRB- EDL/NN )/-RRB- track/NN in/IN 2016/CD TAC/NN Knowledge/NN Base/NNP Population/NNP (/-LRB- KBP/NN )/-RRB- contests/NNS ./.
+We/PRP have/VBP built/VBN two/CD systems/NNS for/IN entity/NN discovery/NN and/CC mention/VB detection/NN (/-LRB- MD/NN )/-RRB- :/: one/CD uses/VBZ the/DT conditional/JJ RNNLM/NN and/CC the/DT other/JJ one/CD uses/VBZ the/DT attention/NN -/HYPH based/VBN encoder/NN -/HYPH decoder/NN framework/NN ./.
+The/DT entity/NN linking/VBG (/-LRB- EL/NNP )/-RRB- system/NN consists/VBZ of/IN two/CD modules/NNS :/: a/DT rule/NN based/VBN candidate/NN generation/NN and/CC a/DT neural/JJ networks/NNS probability/NN ranking/VBG model/NN ./.
+Moreover/RB ,/, some/DT simple/JJ string/NN matching/NN rules/NNS are/VBP used/VBN for/IN NIL/NN clustering/NN ./.
+At/IN the/DT end/NN ,/, our/PRP$ best/JJS system/NN has/VBZ achieved/VBN an/DT F1/NN score/NN of/IN 0.624/CD in/IN the/DT end/NN -/HYPH to/IN -/HYPH end/NN typed/VBN mention/NN ceaf/NN plus/CC metric/JJ ./.

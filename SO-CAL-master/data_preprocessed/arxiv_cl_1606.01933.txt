@@ -1,0 +1,4 @@
+We/PRP propose/VBP a/DT simple/JJ neural/JJ architecture/NN for/IN natural/JJ language/NN inference/NN ./.
+Our/PRP$ approach/NN uses/VBZ attention/NN to/IN decompose/VB the/DT problem/NN into/IN subproblems/NNS that/WDT can/MD be/VB solved/VBN separately/RB ,/, thus/RB making/VBG it/PRP trivially/RB parallelizable/JJ ./.
+On/IN the/DT Stanford/NNP Natural/NNP Language/NNP Inference/NN (/-LRB- SNLI/NN )/-RRB- dataset/NN ,/, we/PRP obtain/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS with/IN almost/RB an/DT order/NN of/IN magnitude/NN fewer/JJR parameters/NNS than/IN previous/JJ work/NN and/CC without/IN relying/VBG on/IN any/DT word/NN -/HYPH order/NN information/NN ./.
+Adding/VBG intra-sentence/JJ attention/NN that/WDT takes/VBZ a/DT minimum/JJ amount/NN of/IN order/NN into/IN account/NN yields/NNS further/JJ improvements/NNS ./.

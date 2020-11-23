@@ -1,0 +1,6 @@
+Learning/VBG from/IN synthetic/JJ data/NNS has/VBZ many/JJ important/JJ and/CC practical/JJ applications/NNS ./.
+An/DT example/NN of/IN application/NN is/VBZ photo/NN -/HYPH sketch/NN recognition/NN ./.
+Using/VBG synthetic/JJ data/NNS is/VBZ challenging/VBG due/IN to/IN the/DT differences/NNS in/IN feature/NN distributions/NNS between/IN synthetic/JJ and/CC real/JJ data/NNS ,/, a/DT phenomenon/NN we/PRP term/VBP synthetic/JJ gap/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP investigate/VBP and/CC formalize/VBP a/DT general/JJ framework/NN -/HYPH Stacked/VBN Multichannel/NNP Autoencoder/NNP (/-LRB- SMCAE/NNP )/-RRB- that/WDT enables/VBZ bridging/VBG the/DT synthetic/JJ gap/NN and/CC learning/NN from/IN synthetic/JJ data/NNS more/RBR efficiently/RB ./.
+In/IN particular/JJ ,/, we/PRP show/VBP that/IN our/PRP$ SMCAE/NNP can/MD not/RB only/RB transform/VB and/CC use/VB synthetic/JJ data/NNS on/IN the/DT challenging/JJ face/NN -/HYPH sketch/NN recognition/NN task/NN ,/, but/CC that/IN it/PRP can/MD also/RB help/VB simulate/VB real/JJ images/NNS ,/, which/WDT can/MD be/VB used/VBN for/IN training/NN classifiers/NNS for/IN recognition/NN ./.
+Preliminary/JJ experiments/NNS validate/VBP the/DT effectiveness/NN of/IN the/DT framework/NN ./.

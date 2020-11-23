@@ -1,0 +1,5 @@
+We propose an off-line approach to explicitly encode temporal patterns spatially as different types of images, namely, Gramian Angular Fields and Markov Transition Fields.
+This enables the use of techniques from computer vision for feature learning and classification.
+We used Tiled Convolutional Neural Networks to learn high-level features from individual GAF, MTF, and GAF-MTF images on 12 benchmark time series datasets and two real spatial-temporal trajectory datasets.
+The classification results of our approach are competitive with state-of-the-art approaches on both types of data.
+An analysis of the features and weights learned by the CNNs explains why the approach works.

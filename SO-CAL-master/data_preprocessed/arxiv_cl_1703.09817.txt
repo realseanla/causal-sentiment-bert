@@ -1,0 +1,10 @@
+A/DT significant/JJ source/NN of/IN errors/NNS in/IN Automatic/NNP Speech/NNP Recognition/NNP (/-LRB- ASR/NNP )/-RRB- systems/NNS is/VBZ due/JJ to/IN pronunciation/NN variations/NNS which/WDT occur/VBP in/IN spontaneous/JJ and/CC conversational/JJ speech/NN ./.
+Usually/RB ASR/NNP systems/NNS use/VBP a/DT finite/JJ lexicon/NN that/WDT provides/VBZ one/CD or/CC more/JJR pronunciations/NNS for/IN each/DT word/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP focus/VBP on/IN learning/VBG a/DT similarity/NN function/NN between/IN two/CD pronunciations/NNS ./.
+The/DT pronunciation/NN can/MD be/VB the/DT canonical/JJ and/CC the/DT surface/NN pronunciations/NNS of/IN the/DT same/JJ word/NN or/CC it/PRP can/MD be/VB two/CD surface/NN pronunciations/NNS of/IN different/JJ words/NNS ./.
+This/DT task/NN generalizes/VBZ problems/NNS such/JJ as/IN lexical/JJ access/NN (/-LRB- the/DT problem/NN of/IN learning/VBG the/DT mapping/NN between/IN words/NNS and/CC their/PRP$ possible/JJ pronunciations/NNS )/-RRB- ,/, and/CC defining/VBG word/NN neighborhoods/NNS ./.
+It/PRP can/MD also/RB be/VB used/VBN to/TO dynamically/RB increase/VB the/DT size/NN of/IN the/DT pronunciation/NN lexicon/NN ,/, or/CC in/IN predicting/VBG ASR/NNP errors/NNS ./.
+We/PRP propose/VBP two/CD methods/NNS ,/, which/WDT are/VBP based/VBN on/IN recurrent/JJ neural/JJ networks/NNS ,/, to/TO learn/VB the/DT similarity/NN function/NN ./.
+The/DT first/JJ is/VBZ based/VBN on/IN binary/JJ classification/NN ,/, and/CC the/DT second/NN is/VBZ based/VBN on/IN learning/VBG the/DT ranking/NN of/IN the/DT pronunciations/NNS ./.
+We/PRP demonstrate/VBP the/DT efficiency/NN of/IN our/PRP$ approach/NN on/IN the/DT task/NN of/IN lexical/JJ access/NN using/VBG a/DT subset/NN from/IN the/DT Switchboard/NN conversational/JJ speech/NN corpus/NN ./.
+Results/NNS suggest/VBP that/IN our/PRP$ method/NN is/VBZ superior/JJ to/IN previous/JJ methods/NNS which/WDT are/VBP based/VBN on/IN graphical/JJ Bayesian/JJ methods/NNS ./.

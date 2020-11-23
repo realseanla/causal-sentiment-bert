@@ -1,0 +1,7 @@
+Cooperative transmission of data fosters rapid accumulation of knowledge by efficiently combining experience across learners.
+Although well studied in human learning, there has been less attention to cooperative transmission of data in machine learning, and we consequently lack strong formal frameworks through which we may reason about the benefits and limitations of cooperative inference.
+We present such a framework.
+We introduce a novel index for measuring the effectiveness of probabilistic information transmission, and cooperative information transmission specifically.
+We relate our cooperative index to previous measures of teaching in deterministic settings.
+We prove conditions under which optimal cooperative inference can be achieved, including a representation theorem which constrains the form of inductive biases for learners optimized for cooperative inference.
+We conclude by demonstrating how these principles may inform the design of machine learning algorithms and discuss implications for human learning, machine learning, and human-machine learning systems.

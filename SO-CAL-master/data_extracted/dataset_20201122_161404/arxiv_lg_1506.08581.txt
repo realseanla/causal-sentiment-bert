@@ -1,0 +1,5 @@
+We propose a Gaussian mixture model for background subtraction in infrared imagery.
+Following a Bayesian approach, our method automatically estimates the number of Gaussian components as well as their parameters, while simultaneously it avoids over/under fitting.
+The equations for estimating model parameters are analytically derived and thus our method does not require any sampling algorithm that is computationally and memory inefficient.
+The pixel density estimate is followed by an efficient and highly accurate updating mechanism, which permits our system to be automatically adapted to dynamically changing operation conditions.
+Experimental results and comparisons with other methods show that our method outperforms, in terms of precision and recall, while at the same time it keeps computational cost suitable for real-time applications.

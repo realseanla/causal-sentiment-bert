@@ -1,0 +1,6 @@
+Bayesian/JJ model/NN -/HYPH based/VBN reinforcement/NN learning/NN is/VBZ a/DT formally/RB elegant/JJ approach/NN to/IN learning/VBG optimal/JJ behaviour/NN under/IN model/NN uncertainty/NN ./.
+In/IN this/DT setting/NN ,/, a/DT Bayes/NNP -/HYPH optimal/JJ policy/NN captures/VBZ the/DT ideal/JJ trade/NN -/HYPH off/NN between/IN exploration/NN and/CC exploitation/NN ./.
+Unfortunately/RB ,/, finding/VBG Bayes/NNP -/HYPH optimal/JJ policies/NNS is/VBZ notoriously/RB taxing/VBG due/IN to/IN the/DT enormous/JJ search/NN space/NN in/IN the/DT augmented/VBN belief/NN -/HYPH state/NN MDP/NNP ./.
+In/IN this/DT paper/NN we/PRP exploit/VBP recent/JJ advances/NNS in/IN sample/NN -/HYPH based/VBN planning/NN ,/, based/VBN on/IN Monte/NNP -/HYPH Carlo/NNP tree/NN search/NN ,/, to/TO introduce/VB a/DT tractable/JJ method/NN for/IN approximate/JJ Bayes/NNP -/HYPH optimal/JJ planning/NN ./.
+Unlike/IN prior/JJ work/NN in/IN this/DT area/NN ,/, we/PRP avoid/VBP expensive/JJ applications/NNS of/IN Bayes/NNP rule/NN within/IN the/DT search/NN tree/NN ,/, by/IN lazily/RB sampling/VBG models/NNS from/IN the/DT current/JJ beliefs/NNS ./.
+Our/PRP$ approach/NN outperformed/VBD prior/JJ Bayesian/JJ model/NN -/HYPH based/VBN RL/NNP algorithms/NNS by/IN a/DT significant/JJ margin/NN on/IN several/JJ well/RB -/HYPH known/VBN benchmark/NN problems/NNS ./.

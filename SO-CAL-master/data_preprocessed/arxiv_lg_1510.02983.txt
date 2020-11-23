@@ -1,0 +1,6 @@
+OmniGraph/NNP ,/, a/DT novel/JJ representation/NN to/TO support/VB a/DT range/NN of/IN NLP/NN classification/NN tasks/NNS ,/, integrates/VBZ lexical/JJ items/NNS ,/, syntactic/JJ dependencies/NNS and/CC frame/NN semantic/JJ parses/VBZ into/IN graphs/NNS ./.
+Feature/NN engineering/NN is/VBZ folded/VBN into/IN the/DT learning/NN through/IN convolution/NN graph/NN kernel/NN learning/NN to/TO explore/VB different/JJ extents/NNS of/IN the/DT graph/NN ./.
+A/DT high/JJ -/HYPH dimensional/JJ space/NN of/IN features/NNS includes/VBZ individual/JJ nodes/NNS as/RB well/RB as/IN complex/JJ subgraphs/NNS ./.
+In/IN experiments/NNS on/IN a/DT text/NN -/HYPH forecasting/NN problem/NN that/WDT predicts/VBZ stock/NN price/NN change/NN from/IN news/NN for/IN company/NN mentions/VBZ ,/, OmniGraph/NNP beats/VBZ several/JJ benchmarks/NNS based/VBN on/IN bag/NN -/HYPH of/IN -/HYPH words/NNS ,/, syntactic/JJ dependencies/NNS ,/, and/CC semantic/JJ trees/NNS ./.
+The/DT highly/RB expressive/JJ features/NNS OmniGraph/NNP discovers/VBZ provide/VBP insights/NNS into/IN the/DT semantics/NNS across/IN distinct/JJ market/NN sectors/NNS ./.
+To/TO demonstrate/VB the/DT method/NN 's/POS generality/NN ,/, we/PRP also/RB report/VBP its/PRP$ high/JJ performance/NN results/NNS on/IN a/DT fine/JJ -/HYPH grained/JJ sentiment/NN corpus/NN ./.

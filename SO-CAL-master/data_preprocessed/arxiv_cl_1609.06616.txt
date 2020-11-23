@@ -1,0 +1,8 @@
+We/PRP compare/VBP policy/NN differences/NNS across/IN institutions/NNS by/IN embedding/VBG representations/NNS of/IN the/DT entire/JJ legal/JJ corpus/NN of/IN each/DT institution/NN and/CC the/DT vocabulary/NN shared/VBD across/IN all/DT corpora/NNS into/IN a/DT continuous/JJ vector/NN space/NN ./.
+We/PRP apply/VBP our/PRP$ method/NN ,/, Gov2Vec/NN ,/, to/IN Supreme/NNP Court/NNP opinions/NNS ,/, Presidential/JJ actions/NNS ,/, and/CC official/JJ summaries/NNS of/IN Congressional/JJ bills/NNS ./.
+The/DT model/NN discerns/VBZ meaningful/JJ differences/NNS between/IN government/NN branches/NNS ./.
+We/PRP also/RB learn/VBP representations/NNS for/IN more/JJR fine/JJ -/HYPH grained/JJ word/NN sources/NNS :/: individual/JJ Presidents/NNS and/CC (/-LRB- 2/CD -/HYPH year/NN )/-RRB- Congresses/NNPS ./.
+The/DT similarities/NNS between/IN learned/VBN representations/NNS of/IN Congresses/NNPS over/IN time/NN and/CC sitting/VBG Presidents/NNS are/VBP negatively/RB correlated/VBN with/IN the/DT bill/NN veto/NN rate/NN ,/, and/CC the/DT temporal/JJ ordering/NN of/IN Presidents/NNPS and/CC Congresses/NNPS was/VBD implicitly/RB learned/VBN from/IN only/RB text/NN ./.
+With/IN the/DT resulting/VBG vectors/NNS we/PRP answer/VBP questions/NNS such/JJ as/IN :/: how/WRB does/VBZ Obama/NNP and/CC the/DT 113th/JJ House/NNP differ/VBP in/IN addressing/VBG climate/NN change/NN and/CC how/WRB does/VBZ this/DT vary/VB from/IN environmental/JJ or/CC economic/JJ perspectives/NNS ?/.
+Our/PRP$ work/NN illustrates/VBZ vector/NN -/HYPH arithmetic/NN -/HYPH based/VBN investigations/NNS of/IN complex/JJ relationships/NNS between/IN word/NN sources/NNS ./.
+We/PRP are/VBP extending/VBG this/DT to/TO create/VB a/DT comprehensive/JJ legal/JJ semantic/JJ map/NN ./.

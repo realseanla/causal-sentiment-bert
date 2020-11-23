@@ -1,0 +1,8 @@
+We/PRP have/VBP previously/RB reported/VBN a/DT Bayesian/JJ algorithm/NN for/IN determining/VBG the/DT coordinates/NNS of/IN points/NNS in/IN three/CD -/HYPH dimensional/JJ space/NN from/IN uncertain/JJ constraints/NNS ./.
+This/DT method/NN is/VBZ useful/JJ in/IN the/DT determination/NN of/IN biological/JJ molecular/JJ structure/NN ./.
+It/PRP is/VBZ limited/JJ ,/, however/RB ,/, by/IN the/DT requirement/NN that/IN the/DT uncertainty/NN in/IN the/DT constraints/NNS be/VB normally/RB distributed/VBN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP an/DT extension/NN of/IN the/DT original/JJ algorithm/NN that/WDT allows/VBZ constraint/NN uncertainty/NN to/TO be/VB represented/VBN as/IN a/DT mixture/NN of/IN Gaussians/NNPS ,/, and/CC thereby/RB allows/VBZ arbitrary/JJ constraint/NN distributions/NNS ./.
+We/PRP illustrate/VBP the/DT performance/NN of/IN this/DT algorithm/NN on/IN a/DT problem/NN drawn/VBN from/IN the/DT domain/NN of/IN molecular/JJ structure/NN determination/NN ,/, in/IN which/WDT a/DT multicomponent/JJ constraint/NN representation/NN produces/VBZ a/DT much/RB more/RBR accurate/JJ solution/NN than/IN the/DT old/JJ single/JJ component/NN mechanism/NN ./.
+The/DT new/JJ mechanism/NN uses/VBZ mixture/NN distributions/NNS to/IN decompose/VB the/DT problem/NN into/IN a/DT set/NN of/IN independent/JJ problems/NNS with/IN unimodal/JJ constraint/NN uncertainty/NN ./.
+The/DT results/NNS of/IN the/DT unimodal/JJ subproblems/NNS are/VBP periodically/RB recombined/VBN using/VBG Bayes/NNP '/POS law/NN ,/, to/TO avoid/VB combinatorial/JJ explosion/NN ./.
+The/DT new/JJ algorithm/NN is/VBZ particularly/RB suited/VBN for/IN parallel/JJ implementation/NN ./.

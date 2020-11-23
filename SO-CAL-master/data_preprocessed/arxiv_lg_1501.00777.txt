@@ -1,0 +1,9 @@
+Sparse/JJ coding/NN can/MD learn/VB good/JJ robust/JJ representation/NN to/IN noise/NN and/CC model/NN more/RBR higher/JJR -/HYPH order/NN representation/NN for/IN image/NN classification/NN ./.
+However/RB ,/, the/DT inference/NN algorithm/NN is/VBZ computationally/RB expensive/JJ even/RB though/IN the/DT supervised/JJ signals/NNS are/VBP used/VBN to/TO learn/VB compact/JJ and/CC discriminative/JJ dictionaries/NNS in/IN sparse/JJ coding/NN techniques/NNS ./.
+Luckily/RB ,/, a/DT simplified/JJ neural/JJ network/NN module/NN (/-LRB- SNNM/NN )/-RRB- has/VBZ been/VBN proposed/VBN to/TO directly/RB learn/VB the/DT discriminative/JJ dictionaries/NNS for/IN avoiding/VBG the/DT expensive/JJ inference/NN ./.
+But/CC the/DT SNNM/NNP module/NN ignores/VBZ the/DT sparse/JJ representations/NNS ./.
+Therefore/RB ,/, we/PRP propose/VBP a/DT sparse/JJ SNNM/NN module/NN by/IN adding/VBG the/DT mixed/JJ -/HYPH norm/NN regularization/NN (/-LRB- l1/NN //HYPH l2/NN norm/NN )/-RRB- ./.
+The/DT sparse/JJ SNNM/NN modules/NNS are/VBP further/JJ stacked/VBN to/TO build/VB a/DT sparse/JJ deep/JJ stacking/VBG network/NN (/-LRB- S/NN -/HYPH DSN/NN )/-RRB- ./.
+In/IN the/DT experiments/NNS ,/, we/PRP evaluate/VBP S/NN -/HYPH DSN/NN with/IN four/CD databases/NNS ,/, including/VBG Extended/VBN YaleB/NN ,/, AR/NNP ,/, 15/CD scene/NN and/CC Caltech101/NN ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ model/NN outperforms/VBZ related/JJ classification/NN methods/NNS with/IN only/RB a/DT linear/JJ classifier/NN ./.
+It/PRP is/VBZ worth/JJ noting/VBG that/IN we/PRP reach/VBP 98.8/CD percent/NN recognition/NN accuracy/NN on/IN 15/CD scene/NN ./.

@@ -1,0 +1,6 @@
+We/PRP present/VBP a/DT practical/JJ approach/NN for/IN processing/VBG mobile/JJ sensor/NN time/NN series/NN data/NNS for/IN continual/JJ deep/JJ learning/NN predictions/NNS ./.
+The/DT approach/NN comprises/VBZ data/NNS cleaning/NN ,/, normalization/NN ,/, capping/VBG ,/, time/NN -/HYPH based/VBN compression/NN ,/, and/CC finally/RB classification/NN with/IN a/DT recurrent/JJ neural/JJ network/NN ./.
+We/PRP demonstrate/VBP the/DT effectiveness/NN of/IN the/DT approach/NN in/IN a/DT case/NN study/NN with/IN 279/CD participants/NNS ./.
+On/IN the/DT basis/NN of/IN sparse/JJ sensor/NN events/NNS ,/, the/DT network/NN continually/RB predicts/VBZ whether/IN the/DT participants/NNS would/MD attend/VB to/IN a/DT notification/NN within/IN 10/CD minutes/NNS ./.
+Compared/VBN to/IN a/DT random/JJ baseline/NN ,/, the/DT classifier/NN achieves/VBZ a/DT 40/CD percent/NN performance/NN increase/NN (/-LRB- AUC/NN of/IN 0.702/CD )/-RRB- on/IN a/DT withheld/VBN test/NN set/NN ./.
+This/DT approach/NN allows/VBZ to/TO forgo/VB resource/NN -/HYPH intensive/JJ ,/, domain/NN -/HYPH specific/JJ ,/, error/NN -/HYPH prone/JJ feature/NN engineering/NN ,/, which/WDT may/MD drastically/RB increase/VB the/DT applicability/NN of/IN machine/NN learning/NN to/IN mobile/JJ phone/NN sensor/NN data/NNS ./.

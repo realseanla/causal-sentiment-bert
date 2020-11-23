@@ -1,0 +1,12 @@
+Formal/JJ synthesis/NN is/VBZ the/DT process/NN of/IN generating/VBG a/DT program/NN satisfying/VBG a/DT high/JJ -/HYPH level/NN specification/NN ./.
+In/IN recent/JJ times/NNS ,/, effective/JJ formal/JJ synthesis/NN methods/NNS have/VBP been/VBN proposed/VBN based/VBN on/IN the/DT use/NN of/IN inductive/JJ learning/NN ./.
+We/PRP refer/VBP to/IN this/DT class/NN of/IN methods/NNS that/WDT learn/VBP programs/NNS from/IN examples/NNS as/IN formal/JJ inductive/JJ synthesis/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP a/DT theoretical/JJ framework/NN for/IN formal/JJ inductive/JJ synthesis/NN ./.
+We/PRP discuss/VBP how/WRB formal/JJ inductive/JJ synthesis/NN differs/VBZ from/IN traditional/JJ machine/NN learning/NN ./.
+We/PRP then/RB describe/VBP oracle/NN -/HYPH guided/VBN inductive/JJ synthesis/NN (/-LRB- OGIS/NN )/-RRB- ,/, a/DT class/NN of/IN synthesizers/NNS that/WDT operate/VBP by/IN iteratively/RB querying/VBG an/DT oracle/NN ./.
+An/DT instance/NN of/IN OGIS/NN that/WDT has/VBZ had/VBN much/JJ practical/JJ impact/NN is/VBZ counterexample/NN -/HYPH guided/VBN inductive/JJ synthesis/NN (/-LRB- CEGIS/NN )/-RRB- ./.
+We/PRP present/VBP a/DT theoretical/JJ characterization/NN of/IN CEGIS/NN for/IN learning/VBG any/DT program/NN that/WDT computes/VBZ a/DT recursive/JJ language/NN ./.
+In/IN particular/JJ ,/, we/PRP analyze/VBP the/DT relative/JJ power/NN of/IN CEGIS/NN variants/NNS where/WRB the/DT types/NNS of/IN counterexamples/NNS generated/VBN by/IN the/DT oracle/NN varies/VBZ ./.
+We/PRP also/RB consider/VBP the/DT impact/NN of/IN bounded/VBN versus/CC unbounded/JJ memory/NN available/JJ to/IN the/DT learning/NN algorithm/NN ./.
+In/IN the/DT special/JJ case/NN where/WRB the/DT universe/NN of/IN candidate/NN programs/NNS is/VBZ finite/JJ ,/, we/PRP relate/VBP the/DT speed/NN of/IN convergence/NN to/IN the/DT notion/NN of/IN teaching/NN dimension/NN studied/VBN in/IN machine/NN learning/NN theory/NN ./.
+Altogether/RB ,/, the/DT results/NNS of/IN the/DT paper/NN take/VB a/DT first/JJ step/NN towards/IN a/DT theoretical/JJ foundation/NN for/IN the/DT emerging/VBG field/NN of/IN formal/JJ inductive/JJ synthesis/NN ./.

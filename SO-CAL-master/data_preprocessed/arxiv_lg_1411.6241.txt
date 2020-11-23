@@ -1,0 +1,8 @@
+Spectral/JJ clustering/NN is/VBZ a/DT key/JJ research/NN topic/NN in/IN the/DT field/NN of/IN machine/NN learning/NN and/CC data/NNS mining/NN ./.
+Most/JJS of/IN the/DT existing/VBG spectral/JJ clustering/NN algorithms/NNS are/VBP built/VBN upon/IN Gaussian/NNP Laplacian/NNP matrices/NNS ,/, which/WDT are/VBP sensitive/JJ to/IN parameters/NNS ./.
+We/PRP propose/VBP a/DT novel/JJ parameter/NN free/JJ ,/, distance/NN consistent/JJ Locally/RB Linear/NNP Embedding/NNP ./.
+The/DT proposed/VBN distance/NN consistent/JJ LLE/NN promises/NNS that/WDT edges/VBZ between/IN closer/JJR data/NNS points/NNS have/VBP greater/JJR weight.Furthermore/NN ,/, we/PRP propose/VBP a/DT novel/NN improved/VBD spectral/JJ clustering/NN via/IN embedded/VBN label/NN propagation/NN ./.
+Our/PRP$ algorithm/NN is/VBZ built/VBN upon/IN two/CD advancements/NNS of/IN the/DT state/NN of/IN the/DT art/NN :/: 1/LS )/-RRB- label/NN propagation/NN ,/, which/WDT propagates/VBZ a/DT node/NN \/NN 's/POS labels/NNS to/IN neighboring/VBG nodes/NNS according/VBG to/IN their/PRP$ proximity/NN ;/: and/CC 2/LS )/-RRB- manifold/NN learning/NN ,/, which/WDT has/VBZ been/VBN widely/RB used/VBN in/IN its/PRP$ capacity/NN to/TO leverage/VB the/DT manifold/JJ structure/NN of/IN data/NNS points/NNS ./.
+First/RB we/PRP perform/VBP standard/JJ spectral/JJ clustering/NN on/IN original/JJ data/NNS and/CC assign/VB each/DT cluster/NN to/IN k/CD nearest/JJS data/NNS points/NNS ./.
+Next/RB ,/, we/PRP propagate/VBP labels/NNS through/IN dense/JJ ,/, unlabeled/JJ data/NNS regions/NNS ./.
+Extensive/JJ experiments/NNS with/IN various/JJ datasets/NNS validate/VBP the/DT superiority/NN of/IN the/DT proposed/VBN algorithm/NN compared/VBN to/IN current/JJ state/NN of/IN the/DT art/NN spectral/JJ algorithms/NNS ./.

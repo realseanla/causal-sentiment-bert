@@ -1,0 +1,7 @@
+This/DT paper/NN describes/VBZ a/DT context/NN free/JJ grammar/NN (/-LRB- CFG/NNP )/-RRB- based/VBN grammatical/JJ relations/NNS for/IN Myanmar/NNP sentences/NNS which/WDT combine/VBP corpus/NN -/HYPH based/VBN function/NN tagging/NN system/NN ./.
+Part/NN of/IN the/DT challenge/NN of/IN statistical/JJ function/NN tagging/VBG for/IN Myanmar/NNP sentences/NNS comes/VBZ from/IN the/DT fact/NN that/IN Myanmar/NNP has/VBZ free/JJ -/HYPH phrase/NN -/HYPH order/NN and/CC a/DT complex/JJ morphological/JJ system/NN ./.
+Function/NN tagging/NN is/VBZ a/DT pre-processing/JJ step/NN to/TO show/VB grammatical/JJ relations/NNS of/IN Myanmar/NNP sentences/NNS ./.
+In/IN the/DT task/NN of/IN function/NN tagging/NN ,/, which/WDT tags/NNS the/DT function/NN of/IN Myanmar/NNP sentences/NNS with/IN correct/JJ segmentation/NN ,/, POS/NN (/-LRB- part/NN -/HYPH of/IN -/HYPH speech/NN )/-RRB- tagging/NN and/CC chunking/VBG information/NN ,/, we/PRP use/VBP Naive/JJ Bayesian/JJ theory/NN to/IN disambiguate/VB the/DT possible/JJ function/NN tags/NNS of/IN a/DT word/NN ./.
+We/PRP apply/VBP context/NN free/JJ grammar/NN (/-LRB- CFG/NNP )/-RRB- to/TO find/VB out/RP the/DT grammatical/JJ relations/NNS of/IN the/DT function/NN tags/NNS ./.
+We/PRP also/RB create/VBP a/DT functional/JJ annotated/JJ tagged/VBN corpus/NN for/IN Myanmar/NNP and/CC propose/VB the/DT grammar/NN rules/NNS for/IN Myanmar/NNP sentences/NNS ./.
+Experiments/NNS show/VBP that/IN our/PRP$ analysis/NN achieves/VBZ a/DT good/JJ result/NN with/IN simple/JJ sentences/NNS and/CC complex/JJ sentences/NNS ./.

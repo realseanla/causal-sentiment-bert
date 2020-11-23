@@ -1,0 +1,3 @@
+In this work, we present a MCTS-based Go-playing program which uses convolutional networks in all parts.
+Our method performs MCTS in batches, explores the Monte Carlo search tree using Thompson sampling and a convolutional network, and evaluates convnet-based rollouts on the GPU.
+We achieve strong win rates against open source Go programs and attain competitive results against state of the art convolutional net-based Go-playing programs.

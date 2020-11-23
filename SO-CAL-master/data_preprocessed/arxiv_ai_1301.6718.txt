@@ -1,0 +1,5 @@
+Decision/NN -/HYPH making/VBG problems/NNS in/IN uncertain/JJ or/CC stochastic/JJ domains/NNS are/VBP often/RB formulated/VBN as/IN Markov/NNP decision/NN processes/NNS (/-LRB- MDPs/NNS )/-RRB- ./.
+Policy/NN iteration/NN (/-LRB- PI/NN )/-RRB- is/VBZ a/DT popular/JJ algorithm/NN for/IN searching/VBG over/RP policy/NN -/HYPH space/NN ,/, the/DT size/NN of/IN which/WDT is/VBZ exponential/JJ in/IN the/DT number/NN of/IN states/NNS ./.
+We/PRP are/VBP interested/JJ in/IN bounds/NNS on/IN the/DT complexity/NN of/IN PI/NNP that/WDT do/VBP not/RB depend/VB on/IN the/DT value/NN of/IN the/DT discount/NN factor/NN ./.
+In/IN this/DT paper/NN we/PRP prove/VBP the/DT first/JJ such/JJ non-trivial/JJ ,/, worst/JJS -/HYPH case/NN ,/, upper/JJ bounds/NNS on/IN the/DT number/NN of/IN iterations/NNS required/VBN by/IN PI/NNP to/TO converge/VB to/IN the/DT optimal/JJ policy/NN ./.
+Our/PRP$ analysis/NN also/RB sheds/VBZ new/JJ light/NN on/IN the/DT manner/NN in/IN which/WDT PI/NN progresses/VBZ through/IN the/DT space/NN of/IN policies/NNS ./.

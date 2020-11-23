@@ -1,0 +1,8 @@
+In/IN this/DT work/NN we/PRP present/VBP a/DT method/NN for/IN using/VBG Deep/NNP Q/NNP -/HYPH Networks/NNP (/-LRB- DQNs/NNS )/-RRB- in/IN multi-objective/JJ tasks/NNS ./.
+Deep/JJ Q/NN -/HYPH Networks/NNS provide/VBP remarkable/JJ performance/NN in/IN single/JJ objective/JJ tasks/NNS learning/VBG from/IN high/JJ -/HYPH level/NN visual/JJ perception/NN ./.
+However/RB ,/, in/IN many/JJ scenarios/NNS (/-LRB- e.g/NN in/IN robotics/NNS )/-RRB- ,/, the/DT agent/NN needs/VBZ to/TO pursue/VB multiple/JJ objectives/NNS simultaneously/RB ./.
+We/PRP propose/VBP an/DT architecture/NN in/IN which/WDT separate/JJ DQNs/NNS are/VBP used/VBN to/TO control/VB the/DT agent/NN 's/POS behaviour/NN with/IN respect/NN to/IN particular/JJ objectives/NNS ./.
+In/IN this/DT architecture/NN we/PRP use/VBP signal/NN suppression/NN ,/, known/VBN from/IN the/DT (/-LRB- Brooks/NNP )/-RRB- subsumption/NN architecture/NN ,/, to/TO combine/VB outputs/NNS of/IN several/JJ DQNs/NNS into/IN a/DT single/JJ action/NN ./.
+Our/PRP$ architecture/NN enables/VBZ the/DT decomposition/NN of/IN the/DT agent/NN 's/POS behaviour/NN into/IN controllable/JJ and/CC replaceable/JJ sub-behaviours/NNS learned/VBN by/IN distinct/JJ modules/NNS ./.
+To/TO evaluate/VB our/PRP$ solution/NN we/PRP used/VBD a/DT game/NN -/HYPH like/JJ simulator/NN in/IN which/WDT an/DT agent/NN -/HYPH provided/VBN with/IN high/JJ -/HYPH level/NN visual/JJ input/NN -/HYPH pursues/VBZ multiple/JJ objectives/NNS in/IN a/DT 2D/NN world/NN ./.
+Our/PRP$ solution/NN provides/VBZ benefits/NNS of/IN modularity/NN ,/, while/IN its/PRP$ performance/NN is/VBZ comparable/JJ to/IN the/DT monolithic/JJ approach/NN ./.

@@ -1,0 +1,9 @@
+Asynchronous/JJ Partial/JJ Overlay/NN (/-LRB- APO/NN )/-RRB- is/VBZ a/DT search/NN algorithm/NN that/WDT uses/VBZ cooperative/JJ mediation/NN to/TO solve/VB Distributed/VBN Constraint/NN Satisfaction/NN Problems/NNS (/-LRB- DisCSPs/NNS )/-RRB- ./.
+The/DT algorithm/NN partitions/NNS the/DT search/NN into/IN different/JJ subproblems/NNS of/IN the/DT DisCSP/NN ./.
+The/DT original/JJ proof/NN of/IN completeness/NN of/IN the/DT APO/NN algorithm/NN is/VBZ based/VBN on/IN the/DT growth/NN of/IN the/DT size/NN of/IN the/DT subproblems/NNS ./.
+The/DT present/JJ paper/NN demonstrates/VBZ that/IN this/DT expected/VBN growth/NN of/IN subproblems/NNS does/VBZ not/RB occur/VB in/IN some/DT situations/NNS ,/, leading/VBG to/IN a/DT termination/NN problem/NN of/IN the/DT algorithm/NN ./.
+The/DT problematic/JJ parts/NNS in/IN the/DT APO/NN algorithm/NN that/WDT interfere/VBP with/IN its/PRP$ completeness/NN are/VBP identified/VBN and/CC necessary/JJ modifications/NNS to/IN the/DT algorithm/NN that/WDT fix/VBP these/DT problematic/JJ parts/NNS are/VBP given/VBN ./.
+The/DT resulting/VBG version/NN of/IN the/DT algorithm/NN ,/, Complete/JJ Asynchronous/JJ Partial/JJ Overlay/NN (/-LRB- CompAPO/NN )/-RRB- ,/, ensures/VBZ its/PRP$ completeness/NN ./.
+Formal/JJ proofs/NNS for/IN the/DT soundness/NN and/CC completeness/NN of/IN CompAPO/NN are/VBP given/VBN ./.
+A/DT detailed/JJ performance/NN evaluation/NN of/IN CompAPO/NN comparing/VBG it/PRP to/IN other/JJ DisCSP/NNP algorithms/NNS is/VBZ presented/VBN ,/, along/IN with/IN an/DT extensive/JJ experimental/JJ evaluation/NN of/IN the/DT algorithm/NN 's/POS unique/JJ behavior/NN ./.
+Additionally/RB ,/, an/DT optimization/NN version/NN of/IN the/DT algorithm/NN ,/, CompOptAPO/NN ,/, is/VBZ presented/VBN ,/, discussed/VBN ,/, and/CC evaluated/VBN ./.

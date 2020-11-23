@@ -1,0 +1,6 @@
+In Dung's abstract argumentation, arguments are either acceptable or unacceptable, given a chosen notion of acceptability.
+This gives a coarse way to compare arguments.
+In this paper, we propose a counting approach for a more fine-gained assessment to arguments by counting the number of their respective attackers and defenders based on argument graph and argument game.
+An argument is more acceptable if the proponent puts forward more number of defenders for it and the opponent puts forward less number of attackers against it.
+We show that our counting model has two well-behaved properties: normalization and convergence.
+Then, we define a counting semantics based on this model, and investigate some general properties of the semantics.

@@ -1,0 +1,8 @@
+The/DT outputs/NNS of/IN non-linear/JJ feed/NN -/HYPH forward/JJ neural/JJ network/NN are/VBP positive/JJ ,/, which/WDT could/MD be/VB treated/VBN as/IN probability/NN when/WRB they/PRP are/VBP normalized/VBN to/IN one/CD ./.
+If/IN we/PRP take/VBP Entropy/NNP -/HYPH Based/VBN Principle/NNP into/IN consideration/NN ,/, the/DT outputs/NNS for/IN each/DT sample/NN could/MD be/VB represented/VBN as/IN the/DT distribution/NN of/IN this/DT sample/NN for/IN different/JJ clusters/NNS ./.
+Entropy/NNP -/HYPH Based/VBN Principle/NNP is/VBZ the/DT principle/NN with/IN which/WDT we/PRP could/MD estimate/VB the/DT unknown/JJ distribution/NN under/IN some/DT limited/JJ conditions/NNS ./.
+As/IN this/DT paper/NN defines/VBZ two/CD processes/NNS in/IN Feed/NN -/HYPH Forward/NNP Neural/JJ Network/NN ,/, our/PRP$ limited/JJ condition/NN is/VBZ the/DT abstracted/JJ features/NNS of/IN samples/NNS which/WDT are/VBP worked/VBN out/RP in/IN the/DT abstraction/NN process/NN ./.
+And/CC the/DT final/JJ outputs/NNS are/VBP the/DT probability/NN distribution/NN for/IN different/JJ clusters/NNS in/IN the/DT clustering/NN process/NN ./.
+As/IN Entropy/NNP -/HYPH Based/VBN Principle/NNP is/VBZ considered/VBN into/IN the/DT feed/NN -/HYPH forward/JJ neural/JJ network/NN ,/, a/DT clustering/NN method/NN is/VBZ born/VBN ./.
+We/PRP have/VBP conducted/VBN some/DT experiments/NNS on/IN six/CD open/JJ UCI/NNP datasets/NNS ,/, comparing/VBG with/IN a/DT few/JJ baselines/NNS and/CC applied/VBD purity/NN as/IN the/DT measurement/NN ./.
+The/DT results/NNS illustrate/VBP that/IN our/PRP$ method/NN outperforms/VBZ all/PDT the/DT other/JJ baselines/NNS that/WDT are/VBP most/RBS popular/JJ clustering/NN methods/NNS ./.

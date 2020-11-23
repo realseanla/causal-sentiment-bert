@@ -1,0 +1,5 @@
+Solving/VBG sequential/JJ decision/NN making/VBG problems/NNS ,/, such/JJ as/IN text/NN parsing/VBG ,/, robotic/JJ control/NN ,/, and/CC game/NN playing/NN ,/, requires/VBZ a/DT combination/NN of/IN planning/VBG policies/NNS and/CC generalisation/NN of/IN those/DT plans/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP Expert/NNP Iteration/NNP ,/, a/DT novel/JJ algorithm/NN which/WDT decomposes/VBZ the/DT problem/NN into/IN separate/JJ planning/NN and/CC generalisation/NN tasks/NNS ./.
+Planning/VBG new/JJ policies/NNS is/VBZ performed/VBN by/IN tree/NN search/NN ,/, while/IN a/DT deep/JJ neural/JJ network/NN generalises/VBZ those/DT plans/NNS ./.
+In/IN contrast/NN ,/, standard/JJ Deep/JJ Reinforcement/NN Learning/VBG algorithms/NNS rely/VBP on/IN a/DT neural/JJ network/NN not/RB only/RB to/TO generalise/VB plans/NNS ,/, but/CC to/TO discover/VB them/PRP too/RB ./.
+We/PRP show/VBP that/IN our/PRP$ method/NN substantially/RB outperforms/VBZ Policy/NN Gradients/NNS in/IN the/DT board/NN game/NN Hex/NN ,/, winning/VBG 84.4/CD percent/NN of/IN games/NNS against/IN it/PRP when/WRB trained/VBN for/IN equal/JJ time/NN ./.

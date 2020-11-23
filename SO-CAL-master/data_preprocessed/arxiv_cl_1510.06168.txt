@@ -1,0 +1,5 @@
+Bidirectional/JJ Long/JJ Short/JJ -/HYPH Term/NN Memory/NN Recurrent/JJ Neural/JJ Network/NN (/-LRB- BLSTM/NN -/HYPH RNN/NN )/-RRB- has/VBZ been/VBN shown/VBN to/TO be/VB very/RB effective/JJ for/IN tagging/VBG sequential/JJ data/NNS ,/, e.g./FW speech/NN utterances/NNS or/CC handwritten/JJ documents/NNS ./.
+While/IN word/NN embedding/NN has/VBZ been/VBN demoed/VBN as/IN a/DT powerful/JJ representation/NN for/IN characterizing/VBG the/DT statistical/JJ properties/NNS of/IN natural/JJ language/NN ./.
+In/IN this/DT study/NN ,/, we/PRP propose/VBP to/TO use/VB BLSTM/NNP -/HYPH RNN/NNP with/IN word/NN embedding/NN for/IN part/NN -/HYPH of/IN -/HYPH speech/NN (/-LRB- POS/NN )/-RRB- tagging/NN task/NN ./.
+When/WRB tested/VBN on/IN Penn/NNP Treebank/NNP WSJ/NNP test/NN set/NN ,/, a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN of/IN 97.40/CD tagging/VBG accuracy/NN is/VBZ achieved/VBN ./.
+Without/IN using/VBG morphological/JJ features/NNS ,/, this/DT approach/NN can/MD also/RB achieve/VB a/DT good/JJ performance/NN comparable/JJ with/IN the/DT Stanford/NNP POS/NNP tagger/NN ./.

@@ -1,0 +1,7 @@
+Recently/RB there/EX has/VBZ been/VBN an/DT increasing/VBG trend/NN to/TO use/VB deep/JJ learning/NN frameworks/NNS for/IN both/DT 2D/NN consumer/NN images/NNS and/CC for/IN 3D/JJ medical/JJ images/NNS ./.
+However/RB ,/, there/EX has/VBZ been/VBN little/JJ effort/NN to/TO use/VB deep/JJ frameworks/NNS for/IN volumetric/JJ vascular/JJ segmentation/NN ./.
+We/PRP wanted/VBD to/TO address/VB this/DT by/IN providing/VBG a/DT freely/RB available/JJ dataset/NN of/IN 12/CD annotated/JJ two/CD -/HYPH photon/NN vasculature/NN microscopy/NN stacks/NNS ./.
+We/PRP demonstrated/VBD the/DT use/NN of/IN deep/JJ learning/NN framework/NN consisting/VBG both/CC 2D/NN and/CC 3D/NN convolutional/JJ filters/NNS (/-LRB- ConvNet/NNP )/-RRB- ./.
+Our/PRP$ hybrid/NN 2D/NN -/HYPH 3D/NN architecture/NN produced/VBD promising/JJ segmentation/NN result/NN ./.
+We/PRP derived/VBD the/DT architectures/NNS from/IN Lee/NNP et/FW al./FW who/WP used/VBD the/DT ZNN/NNP framework/NN initially/RB designed/VBN for/IN electron/NN microscope/NN image/NN segmentation/NN ./.
+We/PRP hope/VBP that/IN by/IN sharing/VBG our/PRP$ volumetric/JJ vasculature/NN datasets/NNS ,/, we/PRP will/MD inspire/VB other/JJ researchers/NNS to/IN experiment/NN with/IN vasculature/NN dataset/NN and/CC improve/VB the/DT used/VBN network/NN architectures/NNS ./.

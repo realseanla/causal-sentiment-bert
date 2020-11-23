@@ -1,0 +1,3 @@
+In this paper, we advocate the use of stratified logical theories for representing probabilistic models.
+We argue that such encodings can be more interpretable than those obtained in existing frameworks such as Markov logic networks.
+Among others, this allows for the use of domain experts to improve learned models by directly removing, adding, or modifying logical formulas.

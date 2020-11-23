@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT new/JJ internal/JJ guidance/NN method/NN for/IN automated/VBN theorem/NN provers/NNS based/VBN on/IN the/DT given/VBN -/HYPH clause/NN algorithm/NN ./.
+Our/PRP$ method/NN influences/VBZ the/DT choice/NN of/IN unprocessed/JJ clauses/NNS using/VBG positive/JJ and/CC negative/JJ examples/NNS from/IN previous/JJ proofs/NNS ./.
+To/IN this/DT end/NN ,/, we/PRP present/VBP an/DT efficient/JJ scheme/NN for/IN Naive/JJ Bayesian/JJ classification/NN by/IN generalising/VBG label/NN occurrences/NNS to/IN types/NNS with/IN monoid/NN structure/NN ./.
+This/DT makes/VBZ it/PRP possible/JJ to/TO extend/VB existing/VBG fast/RB classifiers/NNS ,/, which/WDT consider/VBP only/RB positive/JJ examples/NNS ,/, with/IN negative/JJ ones/NNS ./.
+We/PRP implement/VBP the/DT method/NN in/IN the/DT higher/JJR -/HYPH order/NN logic/NN prover/NN Satallax/NNP ,/, where/WRB we/PRP modify/VBP the/DT delay/NN with/IN which/WDT propositions/NNS are/VBP processed/VBN ./.
+We/PRP evaluated/VBD our/PRP$ method/NN on/IN a/DT simply/RB -/HYPH typed/VBN higher/JJR -/HYPH order/NN logic/NN version/NN of/IN the/DT Flyspeck/NNP project/NN ,/, where/WRB it/PRP solves/VBZ 26/CD percent/NN more/RBR problems/NNS than/IN Satallax/NNP without/IN internal/JJ guidance/NN ./.

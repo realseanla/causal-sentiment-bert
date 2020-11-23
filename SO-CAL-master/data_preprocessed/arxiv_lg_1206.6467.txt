@@ -1,0 +1,7 @@
+Many/JJ classification/NN problems/NNS involve/VBP data/NNS instances/NNS that/WDT are/VBP interlinked/VBN with/IN each/DT other/JJ ,/, such/JJ as/IN webpages/NNS connected/VBN by/IN hyperlinks/NNS ./.
+Techniques/NNS for/IN "/`` collective/JJ classification/NN "/'' (/-LRB- CC/NNP )/-RRB- often/RB increase/VBP accuracy/NN for/IN such/JJ data/NNS graphs/NNS ,/, but/CC usually/RB require/VBP a/DT fully/RB -/HYPH labeled/VBN training/NN graph/NN ./.
+In/IN contrast/NN ,/, we/PRP examine/VBP how/WRB to/TO improve/VB the/DT semi-supervised/JJ learning/NN of/IN CC/NN models/NNS when/WRB given/VBN only/RB a/DT sparsely/RB -/HYPH labeled/VBN graph/NN ,/, a/DT common/JJ situation/NN ./.
+We/PRP first/RB describe/VB how/WRB to/TO use/VB novel/JJ combinations/NNS of/IN classifiers/NNS to/TO exploit/VB the/DT different/JJ characteristics/NNS of/IN the/DT relational/JJ features/NNS vs./IN the/DT non-relational/JJ features/NNS ./.
+We/PRP also/RB extend/VBP the/DT ideas/NNS of/IN "/`` label/NN regularization/NN "/'' to/IN such/JJ hybrid/JJ classifiers/NNS ,/, enabling/VBG them/PRP to/TO leverage/VB the/DT unlabeled/JJ data/NNS to/IN bias/NN the/DT learning/NN process/NN ./.
+We/PRP find/VBP that/IN these/DT techniques/NNS ,/, which/WDT are/VBP efficient/JJ and/CC easy/JJ to/TO implement/VB ,/, significantly/RB increase/VB accuracy/NN on/IN three/CD real/JJ datasets/NNS ./.
+In/IN addition/NN ,/, our/PRP$ results/NNS explain/VBP conflicting/VBG findings/NNS from/IN prior/JJ related/JJ studies/NNS ./.

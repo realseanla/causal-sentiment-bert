@@ -1,0 +1,5 @@
+The/DT popular/JJ bag/NN of/IN words/NNS assumption/NN represents/VBZ a/DT document/NN as/IN a/DT histogram/NN of/IN word/NN occurrences/NNS ./.
+While/IN computationally/RB efficient/JJ ,/, such/PDT a/DT representation/NN is/VBZ unable/JJ to/TO maintain/VB any/DT sequential/JJ information/NN ./.
+We/PRP present/VBP a/DT continuous/JJ and/CC differentiable/JJ sequential/JJ document/NN representation/NN that/WDT goes/VBZ beyond/IN the/DT bag/NN of/IN words/NNS assumption/NN ,/, and/CC yet/RB is/VBZ efficient/JJ and/CC effective/JJ ./.
+This/DT representation/NN employs/VBZ smooth/JJ curves/NNS in/IN the/DT multinomial/JJ simplex/NN to/TO account/VB for/IN sequential/JJ information/NN ./.
+We/PRP discuss/VBP the/DT representation/NN and/CC its/PRP$ geometric/JJ properties/NNS and/CC demonstrate/VBP its/PRP$ applicability/NN for/IN the/DT task/NN of/IN text/NN classification/NN ./.

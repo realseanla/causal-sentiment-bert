@@ -1,0 +1,6 @@
+Information/NN extraction/NN (/-LRB- IE/NNP )/-RRB- from/IN text/NN has/VBZ largely/RB focused/VBN on/IN relations/NNS between/IN individual/JJ entities/NNS ,/, such/JJ as/IN who/WP has/VBZ won/VBN which/WDT award/NN ./.
+However/RB ,/, some/DT facts/NNS are/VBP never/RB fully/RB mentioned/VBN ,/, and/CC no/DT IE/NNP method/NN has/VBZ perfect/JJ recall/NN ./.
+Thus/RB ,/, it/PRP is/VBZ beneficial/JJ to/TO also/RB tap/VB contents/NNS about/IN the/DT cardinalities/NNS of/IN these/DT relations/NNS ,/, for/IN example/NN ,/, how/WRB many/JJ awards/NNS someone/NN has/VBZ won/VBN ./.
+We/PRP introduce/VBP this/DT novel/JJ problem/NN of/IN extracting/VBG cardinalities/NNS and/CC discusses/VBZ the/DT specific/JJ challenges/NNS that/WDT set/VBD it/PRP apart/RB from/IN standard/JJ IE/NNP ./.
+We/PRP present/VBP a/DT distant/JJ supervision/NN method/NN using/VBG conditional/JJ random/JJ fields/NNS ./.
+A/DT preliminary/JJ evaluation/NN results/NNS in/IN precision/NN between/IN 3/CD percent/NN and/CC 55/CD percent/NN ,/, depending/VBG on/IN the/DT difficulty/NN of/IN relations/NNS ./.

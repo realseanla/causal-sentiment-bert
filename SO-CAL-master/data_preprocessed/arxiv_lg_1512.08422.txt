@@ -1,0 +1,8 @@
+Recognizing/VBG entailment/NN and/CC contradiction/NN between/IN two/CD sentences/NNS has/VBZ wide/RB applications/NNS in/IN NLP/NN ./.
+Traditional/JJ methods/NNS include/VBP feature/NN -/HYPH rich/JJ classifiers/NNS or/CC formal/JJ reasoning/NN ./.
+However/RB ,/, they/PRP are/VBP usually/RB limited/VBN in/IN terms/NNS of/IN accuracy/NN and/CC scope/NN ./.
+Recently/RB ,/, the/DT renewed/JJ prosperity/NN neural/JJ networks/NNS has/VBZ made/VBN many/JJ improvements/NNS in/IN a/DT variety/NN of/IN NLP/NN tasks/NNS ./.
+In/IN particular/JJ ,/, the/DT tree/NN -/HYPH based/VBN convolutional/JJ neural/JJ network/NN (/-LRB- TBCNN/NN )/-RRB- proposed/VBN in/IN our/PRP$ previous/JJ work/NN has/VBZ achieved/VBN high/JJ performance/NN in/IN several/JJ sentence/NN -/HYPH level/NN classification/NN tasks/NNS ./.
+But/CC whether/IN TBCNN/NNP is/VBZ applicable/JJ to/TO recognize/VB entailment/NN and/CC contradiction/NN between/IN two/CD sentences/NNS remains/VBZ unknown/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP TBCNN/NN -/HYPH pair/NN model/NN for/IN entailment/NN //HYPH contradiction/NN recognition/NN ./.
+Experimental/JJ results/NNS in/IN a/DT large/JJ dataset/NN verifies/VBZ the/DT rationale/NN of/IN using/VBG TBCNN/NNP as/IN the/DT sentence/NN -/HYPH level/NN model/NN ;/: leveraging/VBG additional/JJ heuristics/NNS like/IN element-wise/JJ product/NN //HYPH difference/NN further/JJ improves/VBZ the/DT result/NN ,/, and/CC outperforms/VBZ published/VBN results/NNS by/IN a/DT large/JJ margin/NN ./.

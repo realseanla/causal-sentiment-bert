@@ -1,0 +1,7 @@
+One/CD of/IN the/DT key/JJ challenges/NNS of/IN artificial/JJ intelligence/NN is/VBZ to/TO learn/VB models/NNS that/WDT are/VBP effective/JJ in/IN the/DT context/NN of/IN planning/NN ./.
+In/IN this/DT document/NN we/PRP introduce/VBP the/DT predictron/NN architecture/NN ./.
+The/DT predictron/NN consists/VBZ of/IN a/DT fully/RB abstract/JJ model/NN ,/, represented/VBN by/IN a/DT Markov/NNP reward/NN process/NN ,/, that/WDT can/MD be/VB rolled/VBN forward/RB multiple/JJ "/'' imagined/VBD "/`` planning/VBG steps/NNS ./.
+Each/DT forward/JJ pass/NN of/IN the/DT predictron/NN accumulates/VBZ internal/JJ rewards/NNS and/CC values/NNS over/IN multiple/JJ planning/NN depths/NNS ./.
+The/DT predictron/NN is/VBZ trained/VBN end/NN -/HYPH to/IN -/HYPH end/NN so/IN as/IN to/TO make/VB these/DT accumulated/VBN values/NNS accurately/RB approximate/VBP the/DT true/JJ value/NN function/NN ./.
+We/PRP applied/VBD the/DT predictron/NN to/IN procedurally/RB generated/VBN random/JJ mazes/NNS and/CC a/DT simulator/NN for/IN the/DT game/NN of/IN pool/NN ./.
+The/DT predictron/NN yielded/VBD significantly/RB more/RBR accurate/JJ predictions/NNS than/IN conventional/JJ deep/JJ neural/JJ network/NN architectures/NNS ./.

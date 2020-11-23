@@ -1,0 +1,4 @@
+We/PRP design/NN and/CC analyze/VB minimax/NN -/HYPH optimal/JJ algorithms/NNS for/IN online/JJ linear/JJ optimization/NN games/NNS where/WRB the/DT player/NN 's/POS choice/NN is/VBZ unconstrained/JJ ./.
+The/DT player/NN strives/VBZ to/TO minimize/VB regret/NN ,/, the/DT difference/NN between/IN his/PRP$ loss/NN and/CC the/DT loss/NN of/IN a/DT post-hoc/JJ benchmark/NN strategy/NN ./.
+The/DT standard/JJ benchmark/NN is/VBZ the/DT loss/NN of/IN the/DT best/JJS strategy/NN chosen/VBN from/IN a/DT bounded/VBN comparator/NN set/NN ./.
+When/WRB the/DT the/DT comparison/NN set/NN and/CC the/DT adversary/NN 's/POS gradients/NNS satisfy/VBP L_infinity/NN bounds/NNS ,/, we/PRP give/VBP the/DT value/NN of/IN the/DT game/NN in/IN closed/JJ form/NN and/CC prove/VB it/PRP approaches/VBZ sqrt/NN (/-LRB- 2T/NN //HYPH pi/NN )/-RRB- as/IN T/NN -/HYPH &gt;/SYM infinity/NN ./.

@@ -1,0 +1,11 @@
+With/IN faster/JJR connection/NN speed/NN ,/, Internet/NN users/NNS are/VBP now/RB making/VBG social/JJ network/NN a/DT huge/JJ reservoir/NN of/IN texts/NNS ,/, images/NNS and/CC video/NN clips/NNS (/-LRB- GIF/NN )/-RRB- ./.
+Sentiment/NN analysis/NN for/IN such/JJ online/JJ platform/NN can/MD be/VB used/VBN to/TO predict/VB political/JJ elections/NNS ,/, evaluates/VBZ economic/JJ indicators/NNS and/CC so/RB on/RB ./.
+However/RB ,/, GIF/NN sentiment/NN analysis/NN is/VBZ quite/RB challenging/JJ ,/, not/RB only/RB because/IN it/PRP hinges/VBZ on/IN spatio/JJ -/HYPH temporal/JJ visual/JJ contentabstraction/NN ,/, but/CC also/RB for/IN the/DT relationship/NN between/IN such/JJ abstraction/NN and/CC final/JJ sentiment/NN remains/VBZ unknown.In/JJ this/DT paper/NN ,/, we/PRP dedicated/VBD to/TO find/VB out/RP such/JJ relationship.We/NN proposed/VBD a/DT SentiPairSequence/NN basedspatiotemporal/NN visual/JJ sentiment/NN ontology/NN ,/, which/WDT forms/VBZ the/DT midlevel/JJ representations/NNS for/IN GIFsentiment/NN ./.
+The/DT establishment/NN process/NN of/IN SentiPair/NNP contains/VBZ two/CD steps/NNS ./.
+First/RB ,/, we/PRP construct/VBP the/DT Synset/NNP Forest/NNP to/TO define/VB the/DT semantic/JJ tree/NN structure/NN of/IN visual/JJ sentiment/NN label/NN elements/NNS ./.
+Then/RB ,/, through/IN theSynset/NNP Forest/NNP ,/, we/PRP organically/RB select/VB and/CC combine/VB sentiment/NN label/NN elements/NNS to/TO form/VB a/DT mid-level/NN visual/JJ sentiment/NN representation/NN ./.
+Our/PRP$ experiments/NNS indicate/VBP that/IN SentiPair/NNP outperforms/VBZ other/JJ competing/VBG mid-level/NN attributes/NNS ./.
+Using/VBG SentiPair/NNP ,/, our/PRP$ analysis/NN frameworkcan/JJ achieve/VB satisfying/VBG prediction/NN accuracy/NN (/-LRB- 72.6/CD percent/NN )/-RRB- ./.
+We/PRP also/RB opened/VBD ourdataset/NN (/-LRB- GSO/NN -/HYPH 2015/CD )/-RRB- to/IN the/DT research/NN community/NN ./.
+GSO/NN -/: 2015/CD contains/VBZ more/JJR than/IN 6,000/CD manually/RB annotated/VBN GIFs/NNS out/IN of/IN more/JJR than/IN 40,000/CD candidates/NNS ./.
+Each/DT is/VBZ labeled/VBN with/IN both/DT sentiment/NN and/CC SentiPair/NNP Sequence/NN ./.

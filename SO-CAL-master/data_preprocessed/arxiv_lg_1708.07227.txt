@@ -1,0 +1,9 @@
+Deep/JJ Neural/JJ Networks/NNS are/VBP generally/RB trained/VBN using/VBG iterative/JJ gradient/NN updates/NNS ./.
+Magnitudes/NNS of/IN gradients/NNS are/VBP affected/VBN by/IN many/JJ factors/NNS ,/, including/VBG choice/NN of/IN activation/NN functions/NNS and/CC initialization/NN ./.
+More/RBR importantly/RB ,/, gradient/NN magnitudes/NNS can/MD greatly/RB differ/VB across/IN layers/NNS ,/, with/IN some/DT layers/NNS receiving/VBG much/RB smaller/JJR gradients/NNS than/IN others/NNS ./.
+causing/VBG some/DT layers/NNS to/TO train/VB slower/JJR than/IN others/NNS and/CC therefore/RB slowing/VBG down/RP the/DT overall/JJ convergence/NN ./.
+We/PRP analytically/RB explain/VBP this/DT disproportionality/NN ./.
+Then/RB we/PRP propose/VBP to/IN explicitly/RB train/VB all/DT layers/NNS at/IN the/DT same/JJ speed/NN ,/, by/IN scaling/VBG the/DT gradient/NN w.r.t./NN every/DT trainable/JJ tensor/NN to/TO be/VB proportional/JJ to/IN its/PRP$ current/JJ value/NN ./.
+In/IN particular/JJ ,/, at/IN every/DT batch/NN ,/, we/PRP want/VBP to/TO update/VB all/DT trainable/JJ tensors/NNS ,/, such/JJ that/IN the/DT relative/JJ change/NN of/IN the/DT L1/NN -/HYPH norm/NN of/IN the/DT tensors/NNS is/VBZ the/DT same/JJ ,/, across/IN all/DT layers/NNS of/IN the/DT network/NN ,/, throughout/IN training/NN time/NN ./.
+Experiments/NNS on/IN MNIST/NNP show/VBP that/IN our/PRP$ method/NN appropriately/RB scales/VBZ gradients/NNS ,/, such/JJ that/IN the/DT relative/JJ change/NN in/IN trainable/JJ tensors/NNS is/VBZ approximately/RB equal/JJ across/IN layers/NNS ./.
+In/IN addition/NN ,/, measuring/VBG the/DT test/NN accuracy/NN with/IN training/NN time/NN ,/, shows/VBZ that/IN our/PRP$ method/NN trains/NNS faster/RBR than/IN other/JJ methods/NNS ,/, giving/VBG higher/JJR test/NN accuracy/NN given/VBN same/JJ budget/NN of/IN training/NN steps/NNS ./.

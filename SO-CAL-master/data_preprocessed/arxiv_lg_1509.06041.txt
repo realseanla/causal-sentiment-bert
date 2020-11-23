@@ -1,0 +1,11 @@
+Sentiment/NN analysis/NN of/IN online/JJ user/NN generated/VBN content/NN is/VBZ important/JJ for/IN many/JJ social/JJ media/NNS analytics/NNS tasks/NNS ./.
+Researchers/NNS have/VBP largely/RB relied/VBN on/IN textual/JJ sentiment/NN analysis/NN to/TO develop/VB systems/NNS to/TO predict/VB political/JJ elections/NNS ,/, measure/VB economic/JJ indicators/NNS ,/, and/CC so/RB on/RB ./.
+Recently/RB ,/, social/JJ media/NNS users/NNS are/VBP increasingly/RB using/VBG images/NNS and/CC videos/NNS to/TO express/VB their/PRP$ opinions/NNS and/CC share/VB their/PRP$ experiences/NNS ./.
+Sentiment/NN analysis/NN of/IN such/JJ large/JJ scale/NN visual/JJ content/NN can/MD help/VB better/JJR extract/NN user/NN sentiments/NNS toward/IN events/NNS or/CC topics/NNS ,/, such/JJ as/IN those/DT in/IN image/NN tweets/NNS ,/, so/IN that/IN prediction/NN of/IN sentiment/NN from/IN visual/JJ content/NN is/VBZ complementary/JJ to/IN textual/JJ sentiment/NN analysis/NN ./.
+Motivated/VBN by/IN the/DT needs/NNS in/IN leveraging/VBG large/JJ scale/NN yet/RB noisy/JJ training/NN data/NNS to/TO solve/VB the/DT extremely/RB challenging/JJ problem/NN of/IN image/NN sentiment/NN analysis/NN ,/, we/PRP employ/VBP Convolutional/JJ Neural/JJ Networks/NNS (/-LRB- CNN/NNP )/-RRB- ./.
+We/PRP first/RB design/VB a/DT suitable/JJ CNN/NNP architecture/NN for/IN image/NN sentiment/NN analysis/NN ./.
+We/PRP obtain/VBP half/PDT a/DT million/CD training/NN samples/NNS by/IN using/VBG a/DT baseline/NN sentiment/NN algorithm/NN to/TO label/VB Flickr/NNP images/NNS ./.
+To/TO make/VB use/NN of/IN such/JJ noisy/JJ machine/NN labeled/VBN data/NNS ,/, we/PRP employ/VBP a/DT progressive/JJ strategy/NN to/IN fine/JJ -/HYPH tune/NN the/DT deep/JJ network/NN ./.
+Furthermore/RB ,/, we/PRP improve/VBP the/DT performance/NN on/IN Twitter/NNP images/NNS by/IN inducing/VBG domain/NN transfer/NN with/IN a/DT small/JJ number/NN of/IN manually/RB labeled/VBN Twitter/NNP images/NNS ./.
+We/PRP have/VBP conducted/VBN extensive/JJ experiments/NNS on/IN manually/RB labeled/VBN Twitter/NNP images/NNS ./.
+The/DT results/NNS show/VBP that/IN the/DT proposed/VBN CNN/NNP can/MD achieve/VB better/JJR performance/NN in/IN image/NN sentiment/NN analysis/NN than/IN competing/VBG algorithms/NNS ./.

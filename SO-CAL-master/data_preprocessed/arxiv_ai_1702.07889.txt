@@ -1,0 +1,8 @@
+Open/VB forms/NNS of/IN global/JJ constraints/NNS allow/VBP the/DT addition/NN of/IN new/JJ variables/NNS to/IN an/DT argument/NN during/IN the/DT execution/NN of/IN a/DT constraint/NN program/NN ./.
+Such/JJ forms/NNS are/VBP needed/VBN for/IN difficult/JJ constraint/NN programming/NN problems/NNS where/WRB problem/NN construction/NN and/CC problem/NN solving/VBG are/VBP interleaved/VBN ,/, and/CC fit/JJ naturally/RB within/IN constraint/NN logic/NN programming/NN ./.
+However/RB ,/, in/IN general/JJ ,/, filtering/VBG that/DT is/VBZ sound/JJ for/IN a/DT global/JJ constraint/NN can/MD be/VB unsound/JJ when/WRB the/DT constraint/NN is/VBZ open/JJ ./.
+This/DT paper/NN provides/VBZ a/DT simple/JJ characterization/NN ,/, called/VBN contractibility/NN ,/, of/IN the/DT constraints/NNS where/WRB filtering/NN remains/VBZ sound/JJ when/WRB the/DT constraint/NN is/VBZ open/JJ ./.
+With/IN this/DT characterization/NN we/PRP can/MD easily/RB determine/VB whether/IN a/DT constraint/NN has/VBZ this/DT property/NN or/CC not/RB ./.
+In/IN the/DT latter/JJ case/NN ,/, we/PRP can/MD use/VB it/PRP to/TO derive/VB a/DT contractible/JJ approximation/NN to/IN the/DT constraint/NN ./.
+We/PRP demonstrate/VBP this/DT work/NN on/IN both/DT hard/JJ and/CC soft/JJ constraints/NNS ./.
+In/IN the/DT process/NN ,/, we/PRP formulate/VBP two/CD general/JJ classes/NNS of/IN soft/JJ constraints/NNS ./.

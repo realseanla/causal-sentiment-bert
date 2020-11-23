@@ -1,0 +1,10 @@
+Deep/JJ convolutional/JJ neural/JJ networks/NNS have/VBP recently/RB proven/VBN extremely/RB competitive/JJ in/IN challenging/JJ image/NN recognition/NN tasks/NNS ./.
+This/DT paper/NN proposes/VBZ the/DT epitomic/JJ convolution/NN as/IN a/DT new/JJ building/NN block/NN for/IN deep/JJ neural/JJ networks/NNS ./.
+An/DT epitomic/JJ convolution/NN layer/NN replaces/VBZ a/DT pair/NN of/IN consecutive/JJ convolution/NN and/CC max/NN -/HYPH pooling/VBG layers/NNS found/VBN in/IN standard/JJ deep/JJ convolutional/JJ neural/JJ networks/NNS ./.
+The/DT main/JJ version/NN of/IN the/DT proposed/VBN model/NN uses/VBZ mini-epitomes/NNS in/IN place/NN of/IN filters/NNS and/CC computes/VBZ responses/NNS invariant/JJ to/IN small/JJ translations/NNS by/IN epitomic/JJ search/NN instead/RB of/IN max/NN -/HYPH pooling/VBG over/IN image/NN positions/NNS ./.
+The/DT topographic/JJ version/NN of/IN the/DT proposed/VBN model/NN uses/VBZ large/JJ epitomes/NNS to/TO learn/VB filter/NN maps/NNS organized/VBN in/IN translational/JJ topographies/NNS ./.
+We/PRP show/VBP that/IN error/NN back/RB -/HYPH propagation/NN can/MD successfully/RB learn/VB multiple/JJ epitomic/JJ layers/NNS in/IN a/DT supervised/JJ fashion/NN ./.
+The/DT effectiveness/NN of/IN the/DT proposed/JJ method/NN is/VBZ assessed/VBN in/IN image/NN classification/NN tasks/NNS on/IN standard/JJ benchmarks/NNS ./.
+Our/PRP$ experiments/NNS on/IN Imagenet/NNP indicate/VBP improved/VBN recognition/NN performance/NN compared/VBN to/IN standard/JJ convolutional/JJ neural/JJ networks/NNS of/IN similar/JJ architecture/NN ./.
+Our/PRP$ models/NNS pre-trained/VBN on/IN Imagenet/NNP perform/VB excellently/RB on/IN Caltech/NNP -/HYPH 101/CD ./.
+We/PRP also/RB obtain/VB competitive/JJ image/NN classification/NN results/VBZ on/IN the/DT small/JJ -/HYPH image/NN MNIST/NNP and/CC CIFAR/NNP -/HYPH 10/CD datasets/NNS ./.

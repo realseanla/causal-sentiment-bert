@@ -1,0 +1,6 @@
+Tissue/NN segmentation/NN is/VBZ an/DT important/JJ pre-requisite/NN for/IN efficient/JJ and/CC accurate/JJ diagnostics/NNS in/IN digital/JJ pathology/NN ./.
+However/RB ,/, it/PRP is/VBZ well/RB known/VBN that/IN whole/JJ -/HYPH slide/NN scanners/NNS can/MD fail/VB in/IN detecting/VBG all/DT tissue/NN regions/NNS ,/, for/IN example/NN due/IN to/IN the/DT tissue/NN type/NN ,/, or/CC due/IN to/IN weak/JJ staining/NN because/IN their/PRP$ tissue/NN detection/NN algorithms/NNS are/VBP not/RB robust/JJ enough/RB ./.
+In/IN this/DT paper/NN ,/, we/PRP introduce/VBP two/CD different/JJ convolutional/JJ neural/JJ network/NN architectures/NNS for/IN whole/JJ slide/NN image/NN segmentation/NN to/IN accurately/RB identify/VB the/DT tissue/NN sections/NNS ./.
+We/PRP also/RB compare/VBP the/DT algorithms/NNS to/IN a/DT published/VBN traditional/JJ method/NN ./.
+We/PRP collected/VBD 54/CD whole/JJ slide/NN images/NNS with/IN differing/VBG stains/NNS and/CC tissue/NN types/NNS from/IN three/CD laboratories/NNS to/TO validate/VB our/PRP$ algorithms/NNS ./.
+We/PRP show/VBP that/IN while/IN the/DT two/CD methods/NNS do/VBP not/RB differ/VB significantly/RB they/PRP outperform/VBP their/PRP$ traditional/JJ counterpart/NN (/-LRB- Jaccard/NNP index/NN of/IN 0.937/CD and/CC 0.929/CD vs./FW 0.870/CD ,/, p/NN &lt;/SYM 0.01/CD )/-RRB- ./.

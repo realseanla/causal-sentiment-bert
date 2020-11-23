@@ -1,0 +1,5 @@
+Structured/VBN prediction/NN is/VBZ the/DT cornerstone/NN of/IN several/JJ machine/NN learning/NN applications/NNS ./.
+Unfortunately/RB ,/, in/IN structured/JJ prediction/NN settings/NNS with/IN expressive/JJ inter-variable/JJ interactions/NNS ,/, exact/JJ inference/NN -/HYPH based/VBN learning/NN algorithms/NNS ,/, e.g./FW Structural/JJ SVM/NN ,/, are/VBP often/RB intractable/JJ ./.
+We/PRP present/VBP a/DT new/JJ way/NN ,/, Decomposed/VBN Learning/NNP (/-LRB- DecL/NN )/-RRB- ,/, which/WDT performs/VBZ efficient/JJ learning/NN by/IN restricting/VBG the/DT inference/NN step/NN to/IN a/DT limited/JJ part/NN of/IN the/DT structured/JJ spaces/NNS ./.
+We/PRP provide/VBP characterizations/NNS based/VBN on/IN the/DT structure/NN ,/, target/NN parameters/NNS ,/, and/CC gold/NN labels/NNS ,/, under/IN which/WDT DecL/NN is/VBZ equivalent/JJ to/IN exact/JJ learning/NN ./.
+We/PRP then/RB show/VBP that/IN in/IN real/JJ world/NN settings/NNS ,/, where/WRB our/PRP$ theoretical/JJ assumptions/NNS may/MD not/RB completely/RB hold/VB ,/, DecL/NN -/HYPH based/VBN algorithms/NNS are/VBP significantly/RB more/RBR efficient/JJ and/CC as/IN accurate/JJ as/IN exact/JJ learning/NN ./.

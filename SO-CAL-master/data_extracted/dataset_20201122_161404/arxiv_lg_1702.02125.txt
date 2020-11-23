@@ -1,0 +1,8 @@
+This paper presents a multi-layer perceptron model for the estimation of classrooms number of occupants from sensed indoor environmental data-relative humidity, air temperature, and carbon dioxide concentration.
+The modelling datasets were collected from two classrooms in the Secondary School of Pombal, Portugal.
+The number of occupants and occupation periods were obtained from class attendance reports.
+However, post-class occupancy was unknown and the developed model is used to reconstruct the classrooms occupancy by filling the unreported periods.
+Different model structure and environment variables combination were tested.
+The model with best accuracy had as input vector 10 variables of five averaged time intervals of relative humidity and carbon dioxide concentration.
+The model presented a mean square error of 1.99, coefficient of determination of 0.96 with a significance of p-value &lt; 0.001, and a mean absolute error of 1 occupant.
+These results show promising estimation capabilities in uncertain indoor environment conditions.

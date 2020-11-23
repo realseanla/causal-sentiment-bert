@@ -1,0 +1,9 @@
+The/DT need/NN to/TO help/VB people/NNS choose/VB among/IN large/JJ numbers/NNS of/IN items/NNS and/CC to/TO filter/VB through/IN large/JJ amounts/NNS of/IN information/NN has/VBZ led/VBN to/IN a/DT flood/NN of/IN research/NN in/IN construction/NN of/IN personal/JJ recommendation/NN agents/NNS ./.
+One/CD of/IN the/DT central/JJ issues/NNS in/IN constructing/VBG such/JJ agents/NNS is/VBZ the/DT representation/NN and/CC elicitation/NN of/IN user/NN preferences/NNS or/CC interests/NNS ./.
+This/DT topic/NN has/VBZ long/RB been/VBN studied/VBN in/IN Decision/NN Theory/NN ,/, but/CC surprisingly/RB little/JJ work/NN in/IN the/DT area/NN of/IN recommender/NN systems/NNS has/VBZ made/VBN use/NN of/IN formal/JJ decision/NN -/HYPH theoretic/JJ techniques/NNS ./.
+This/DT paper/NN describes/VBZ DIVA/NN ,/, a/DT decision/NN -/HYPH theoretic/JJ agent/NN for/IN recommending/VBG movies/NNS that/WDT contains/VBZ a/DT number/NN of/IN novel/JJ features/NNS ./.
+DIVA/NN represents/VBZ user/NN preferences/NNS using/VBG pairwise/JJ comparisons/NNS among/IN items/NNS ,/, rather/RB than/IN numeric/JJ ratings/NNS ./.
+It/PRP uses/VBZ a/DT novel/JJ similarity/NN measure/NN based/VBN on/IN the/DT concept/NN of/IN the/DT probability/NN of/IN conflict/NN between/IN two/CD orderings/NNS of/IN items/NNS ./.
+The/DT system/NN has/VBZ a/DT rich/JJ representation/NN of/IN preference/NN ,/, distinguishing/VBG between/IN a/DT user/NN 's/POS general/JJ taste/NN in/IN movies/NNS and/CC his/PRP$ immediate/JJ interests/NNS ./.
+It/PRP takes/VBZ an/DT incremental/JJ approach/NN to/IN preference/NN elicitation/NN in/IN which/WDT the/DT user/NN can/MD provide/VB feedback/NN if/IN not/RB satisfied/JJ with/IN the/DT recommendation/NN list/NN ./.
+We/PRP empirically/RB evaluate/VB the/DT performance/NN of/IN the/DT system/NN using/VBG the/DT EachMovie/NNP collaborative/JJ filtering/NN database/NN ./.

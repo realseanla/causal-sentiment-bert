@@ -1,0 +1,5 @@
+Hate/VBP speech/NN detection/NN on/IN Twitter/NNP is/VBZ critical/JJ for/IN applications/NNS like/IN controversial/JJ event/NN extraction/NN ,/, building/VBG AI/NN chatterbots/NNS ,/, content/JJ recommendation/NN ,/, and/CC sentiment/NN analysis/NN ./.
+We/PRP define/VBP this/DT task/NN as/IN being/VBG able/JJ to/TO classify/VB a/DT tweet/NN as/IN racist/JJ ,/, sexist/JJ or/CC neither/RB ./.
+The/DT complexity/NN of/IN the/DT natural/JJ language/NN constructs/NNS makes/VBZ this/DT task/NN very/RB challenging/JJ ./.
+We/PRP perform/VBP extensive/JJ experiments/NNS with/IN multiple/JJ deep/JJ learning/NN architectures/NNS to/TO learn/VB semantic/JJ word/NN embeddings/NNS to/TO handle/VB this/DT complexity/NN ./.
+Our/PRP$ experiments/NNS on/IN a/DT benchmark/NN dataset/NN of/IN 16K/NN annotated/VBN tweets/NNS show/VBP that/IN such/JJ deep/JJ learning/NN methods/NNS outperform/VBP state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN char/NN //HYPH word/NN n/NN -/HYPH gram/NN methods/NNS by/IN ~/SYM 18/CD F1/NN points/NNS ./.

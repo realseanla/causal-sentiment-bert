@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT task/NN of/IN learning/VBG control/NN policies/NNS for/IN a/DT robotic/JJ mechanism/NN striking/VBG a/DT puck/NN in/IN an/DT air/NN hockey/NN game/NN ./.
+The/DT control/NN signal/NN is/VBZ a/DT direct/JJ command/NN to/IN the/DT robot/NN 's/POS motors/NNS ./.
+We/PRP employ/VBP a/DT model/NN free/JJ deep/JJ reinforcement/NN learning/VBG framework/NN to/TO learn/VB the/DT motoric/JJ skills/NNS of/IN striking/VBG the/DT puck/NN accurately/RB in/IN order/NN to/TO score/VB ./.
+We/PRP propose/VBP certain/JJ improvements/NNS to/IN the/DT standard/JJ learning/NN scheme/NN which/WDT make/VBP the/DT deep/JJ Q/NN -/HYPH learning/VBG algorithm/NN feasible/JJ when/WRB it/PRP might/MD otherwise/RB fail/VB ./.
+Our/PRP$ improvements/NNS include/VBP integrating/VBG prior/JJ knowledge/NN into/IN the/DT learning/NN scheme/NN ,/, and/CC accounting/VBG for/IN the/DT changing/VBG distribution/NN of/IN samples/NNS in/IN the/DT experience/NN replay/NN buffer/NN ./.
+Finally/RB we/PRP present/VBP our/PRP$ simulation/NN results/VBZ for/IN aimed/VBN striking/JJ which/WDT demonstrate/VBP the/DT successful/JJ learning/NN of/IN this/DT task/NN ,/, and/CC the/DT improvement/NN in/IN algorithm/NN stability/NN due/IN to/IN the/DT proposed/VBN modifications/NNS ./.

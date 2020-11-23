@@ -1,0 +1,6 @@
+We propose several neural models arranged in a two-stage framework to tackle question generation from documents.
+First, we estimate the probability of "interesting" answers in a document using a neural model trained on a question-answering corpus.
+The predicted key phrases are then used as answers to condition a sequence-to-sequence question generation model.
+Empirically, our neural key phrase detection models significantly outperform an entity-tagging baseline system.
+We demonstrate that the question generator formulates good quality natural language questions from extracted key phrases.
+The resulting questions and answers can be used to assess reading comprehension in educational settings.

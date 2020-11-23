@@ -1,0 +1,9 @@
+To/TO support/VB a/DT freight/NN carrier/NN in/IN a/DT combinatorial/JJ transport/NN auction/NN ,/, we/PRP proposes/VBZ an/DT exact/JJ and/CC two/CD heuristic/NN strategies/NNS for/IN bidding/VBG on/IN subsets/NNS of/IN requests/NNS ./.
+The/DT exact/JJ bidding/NN strategy/NN is/VBZ based/VBN on/IN the/DT concept/NN of/IN elementary/JJ request/NN combinations/NNS ./.
+We/PRP show/VBP that/IN it/PRP is/VBZ sufficient/JJ and/CC necessary/JJ for/IN a/DT carrier/NN to/TO bid/VB on/IN each/DT elementary/JJ request/NN combination/NN in/IN order/NN to/TO guarantee/VB the/DT same/JJ result/NN as/IN bidding/NN on/IN each/DT element/NN of/IN the/DT powerset/NN of/IN the/DT set/NN of/IN tendered/VBN requests/NNS ./.
+Both/DT heuristic/NN bidding/NN strategies/NNS identify/VBP promising/VBG request/NN combinations/NNS ./.
+For/IN this/DT ,/, pairwise/JJ synergies/NNS based/VBN on/IN saving/VBG values/NNS as/RB well/RB as/IN the/DT capacitated/VBN p/NN -/HYPH median/NN problem/NN are/VBP used/VBN ./.
+The/DT bidding/NN strategies/NNS are/VBP evaluated/VBN by/IN a/DT computational/JJ study/NN that/WDT simulates/VBZ an/DT auction/NN ./.
+It/PRP is/VBZ based/VBN on/IN 174/CD benchmark/NN instances/NNS and/CC therefore/RB easily/RB extendable/JJ by/IN other/JJ researchers/NNS ./.
+On/IN average/JJ ,/, the/DT two/CD heuristic/NN strategies/NNS achieve/VBP 91/CD percent/NN and/CC 81/CD percent/NN of/IN the/DT available/JJ sales/NNS potential/NN while/IN generating/VBG 36/CD and/CC only/RB 4/CD percent/NN of/IN the/DT bundle/NN bids/NNS of/IN the/DT exact/JJ strategy/NN ./.
+Therefore/RB ,/, the/DT proposed/VBN bidding/NN strategies/NNS help/VBP a/DT carrier/NN to/TO increase/VB her/PRP$ chance/NN to/TO win/VB and/CC at/IN the/DT same/JJ time/NN reduce/VB the/DT computational/JJ burden/NN to/TO participate/VB in/IN a/DT combinatorial/JJ transport/NN auction/NN ./.

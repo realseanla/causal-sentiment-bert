@@ -1,0 +1,5 @@
+Recently/RB ,/, several/JJ works/NNS in/IN the/DT domain/NN of/IN natural/JJ language/NN processing/NN presented/VBN successful/JJ methods/NNS for/IN word/NN embedding/NN ./.
+Among/IN them/PRP ,/, the/DT Skip/VB -/HYPH gram/NN (/-LRB- SG/NN )/-RRB- with/IN negative/JJ sampling/NN ,/, known/VBN also/RB as/IN Word2Vec/NN ,/, advanced/VBD the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN of/IN various/JJ linguistics/NNS tasks/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT scalable/JJ Bayesian/JJ neural/JJ word/NN embedding/NN algorithm/NN that/WDT can/MD be/VB beneficial/JJ to/IN general/JJ item/NN similarity/NN tasks/NNS as/RB well/RB ./.
+The/DT algorithm/NN relies/VBZ on/IN a/DT Variational/NNP Bayes/NNP solution/NN for/IN the/DT SG/NN objective/NN and/CC a/DT detailed/JJ step/NN by/IN step/NN description/NN of/IN the/DT algorithm/NN is/VBZ provided/VBN ./.
+We/PRP present/VBP experimental/JJ results/NNS that/WDT demonstrate/VBP the/DT performance/NN of/IN the/DT proposed/VBN algorithm/NN and/CC show/VB it/PRP is/VBZ competitive/JJ with/IN the/DT original/JJ SG/NN method/NN ./.

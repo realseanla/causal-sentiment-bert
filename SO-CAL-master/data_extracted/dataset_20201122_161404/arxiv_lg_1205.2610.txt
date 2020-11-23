@@ -1,0 +1,5 @@
+We consider MAP estimators for structured prediction with exponential family models.
+In particular, we concentrate on the case that efficient algorithms for uniform sampling from the output space exist.
+We show that under this assumption (i) exact computation of the partition function remains a hard problem, and (ii) the partition function and the gradient of the log partition function can be approximated efficiently.
+Our main result is an approximation scheme for the partition function based on Markov Chain Monte Carlo theory.
+We also show that the efficient uniform sampling assumption holds in several application settings that are of importance in machine learning.

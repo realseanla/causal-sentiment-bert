@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT new/JJ formal/JJ language/NN for/IN the/DT expressive/JJ representation/NN of/IN probabilistic/JJ knowledge/NN based/VBN on/IN Answer/NN Set/VBN Programming/NN (/-LRB- ASP/NN )/-RRB- ./.
+It/PRP allows/VBZ for/IN the/DT annotation/NN of/IN first/JJ -/HYPH order/NN formulas/NNS as/RB well/RB as/IN ASP/NN rules/NNS and/CC facts/NNS with/IN probabilities/NNS and/CC for/IN learning/NN of/IN such/JJ weights/NNS from/IN data/NNS (/-LRB- parameter/NN estimation/NN )/-RRB- ./.
+Weighted/JJ formulas/NNS are/VBP given/VBN a/DT semantics/NNS in/IN terms/NNS of/IN soft/JJ and/CC hard/JJ constraints/NNS which/WDT determine/VBP a/DT probability/NN distribution/NN over/IN answer/NN sets/NNS ./.
+In/IN contrast/NN to/IN related/JJ approaches/NNS ,/, we/PRP approach/VBP inference/NN by/IN optionally/RB utilizing/VBG so/RB -/HYPH called/VBN streamlining/VBG XOR/NN constraints/NNS ,/, in/IN order/NN to/TO reduce/VB the/DT number/NN of/IN computed/VBN answer/NN sets/NNS ./.
+Our/PRP$ approach/NN is/VBZ prototypically/RB implemented/VBN ./.
+Examples/NNS illustrate/VBP the/DT introduced/VBN concepts/NNS and/CC point/NN at/IN issues/NNS and/CC topics/NNS for/IN future/JJ research/NN ./.

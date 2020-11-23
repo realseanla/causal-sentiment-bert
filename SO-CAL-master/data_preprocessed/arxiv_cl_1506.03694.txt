@@ -1,0 +1,4 @@
+We/PRP propose/VBP Imaginet/NNP ,/, a/DT model/NN of/IN learning/NN visually/RB grounded/VBN representations/NNS of/IN language/NN from/IN coupled/VBN textual/JJ and/CC visual/JJ input/NN ./.
+The/DT model/NN consists/VBZ of/IN two/CD Gated/VBN Recurrent/JJ Unit/NN networks/NNS with/IN shared/VBN word/NN embeddings/NNS ,/, and/CC uses/VBZ a/DT multi-task/VB objective/NN by/IN receiving/VBG a/DT textual/JJ description/NN of/IN a/DT scene/NN and/CC trying/VBG to/TO concurrently/RB predict/VB its/PRP$ visual/JJ representation/NN and/CC the/DT next/JJ word/NN in/IN the/DT sentence/NN ./.
+Like/IN humans/NNS ,/, it/PRP acquires/VBZ meaning/VBG representations/NNS for/IN individual/JJ words/NNS from/IN descriptions/NNS of/IN visual/JJ scenes/NNS ./.
+Moreover/RB ,/, it/PRP learns/VBZ to/TO effectively/RB use/VB sequential/JJ structure/NN in/IN semantic/JJ interpretation/NN of/IN multi-word/JJ phrases/NNS ./.

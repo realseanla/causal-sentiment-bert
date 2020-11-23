@@ -1,0 +1,8 @@
+Comprehending/VBG lyrics/NNS ,/, as/IN found/VBN in/IN songs/NNS and/CC poems/NNS ,/, can/MD pose/VB a/DT challenge/NN to/IN human/JJ and/CC machine/NN readers/NNS alike/RB ./.
+This/DT motivates/VBZ the/DT need/NN for/IN systems/NNS that/WDT can/MD understand/VB the/DT ambiguity/NN and/CC jargon/NN found/VBN in/IN such/JJ creative/JJ texts/NNS ,/, and/CC provide/VB commentary/NN to/TO aid/VB readers/NNS in/IN reaching/VBG the/DT correct/JJ interpretation/NN ./.
+We/PRP introduce/VBP the/DT task/NN of/IN automated/VBN lyric/NN annotation/NN (/-LRB- ALA/NNP )/-RRB- ./.
+Like/IN text/NN simplification/NN ,/, a/DT goal/NN of/IN ALA/NNP is/VBZ to/TO rephrase/VB the/DT original/JJ text/NN in/IN a/DT more/RBR easily/RB understandable/JJ manner/NN ./.
+However/RB ,/, in/IN ALA/NNP the/DT system/NN must/MD often/RB include/VB additional/JJ information/NN to/TO clarify/VB niche/NN terminology/NN and/CC abstract/JJ concepts/NNS ./.
+To/TO stimulate/VB research/NN on/IN this/DT task/NN ,/, we/PRP release/VBP a/DT large/JJ collection/NN of/IN crowdsourced/VBN annotations/NNS for/IN song/NN lyrics/NNS ./.
+We/PRP analyze/VBP the/DT performance/NN of/IN translation/NN and/CC retrieval/NN models/NNS on/IN this/DT task/NN ,/, measuring/VBG performance/NN with/IN both/DT automated/VBN and/CC human/JJ evaluation/NN ./.
+We/PRP find/VBP that/IN each/DT model/NN captures/VBZ a/DT unique/JJ type/NN of/IN information/NN important/JJ to/IN the/DT task/NN ./.

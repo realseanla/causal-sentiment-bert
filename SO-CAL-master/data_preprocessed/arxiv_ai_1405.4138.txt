@@ -1,0 +1,8 @@
+Artificial/NNP fish/NN swarm/NN algorithm/NN (/-LRB- AFSA/NNP )/-RRB- is/VBZ one/CD of/IN the/DT swarm/NN intelligence/NN optimization/NN algorithms/NNS that/WDT works/VBZ based/VBN on/IN population/NN and/CC stochastic/JJ search/NN ./.
+In/IN order/NN to/TO achieve/VB acceptable/JJ result/NN ,/, there/EX are/VBP many/JJ parameters/NNS needs/VBZ to/TO be/VB adjusted/VBN in/IN AFSA/NNP ./.
+Among/IN these/DT parameters/NNS ,/, visual/JJ and/CC step/NN are/VBP very/RB significant/JJ in/IN view/NN of/IN the/DT fact/NN that/IN artificial/JJ fish/NN basically/RB move/VBP based/VBN on/IN these/DT parameters/NNS ./.
+In/IN standard/JJ AFSA/NNP ,/, these/DT two/CD parameters/NNS remain/VBP constant/JJ until/IN the/DT algorithm/NN termination/NN ./.
+Large/JJ values/NNS of/IN these/DT parameters/NNS increase/VBP the/DT capability/NN of/IN algorithm/NN in/IN global/JJ search/NN ,/, while/IN small/JJ values/NNS improve/VBP the/DT local/JJ search/NN ability/NN of/IN the/DT algorithm/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP empirically/RB study/VB the/DT performance/NN of/IN the/DT AFSA/NNP and/CC different/JJ approaches/NNS to/TO balance/VB between/IN local/JJ and/CC global/JJ exploration/NN have/VBP been/VBN tested/VBN based/VBN on/IN the/DT adaptive/JJ modification/NN of/IN visual/JJ and/CC step/NN during/IN algorithm/NN execution/NN ./.
+The/DT proposed/VBN approaches/NNS have/VBP been/VBN evaluated/VBN based/VBN on/IN the/DT four/CD well/RB -/HYPH known/VBN benchmark/NN functions/NNS ./.
+Experimental/JJ results/NNS show/VBP considerable/JJ positive/JJ impact/NN on/IN the/DT performance/NN of/IN AFSA/NNP ./.

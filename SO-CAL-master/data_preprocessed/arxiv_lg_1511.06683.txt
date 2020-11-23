@@ -1,0 +1,6 @@
+Class/NN ambiguity/NN is/VBZ typical/JJ in/IN image/NN classification/NN problems/NNS with/IN a/DT large/JJ number/NN of/IN classes/NNS ./.
+When/WRB classes/NNS are/VBP difficult/JJ to/TO discriminate/VB ,/, it/PRP makes/VBZ sense/NN to/TO allow/VB k/CD guesses/NNS and/CC evaluate/VB classifiers/NNS based/VBN on/IN the/DT top/JJ -/HYPH k/NN error/NN instead/RB of/IN the/DT standard/JJ zero/CD -/HYPH one/CD loss/NN ./.
+We/PRP propose/VBP top/JJ -/HYPH k/NN multiclass/NN SVM/NN as/IN a/DT direct/JJ method/NN to/TO optimize/VB for/IN top/JJ -/HYPH k/NN performance/NN ./.
+Our/PRP$ generalization/NN of/IN the/DT well/NN -/HYPH known/VBN multiclass/NN SVM/NN is/VBZ based/VBN on/IN a/DT tight/JJ convex/NN upper/JJ bound/VBN of/IN the/DT top/JJ -/HYPH k/NN error/NN ./.
+We/PRP propose/VBP a/DT fast/JJ optimization/NN scheme/NN based/VBN on/IN an/DT efficient/JJ projection/NN onto/IN the/DT top/JJ -/HYPH k/NN simplex/NN ,/, which/WDT is/VBZ of/IN its/PRP$ own/JJ interest/NN ./.
+Experiments/NNS on/IN five/CD datasets/NNS show/VBP consistent/JJ improvements/NNS in/IN top/JJ -/HYPH k/NN accuracy/NN compared/VBN to/IN various/JJ baselines/NNS ./.

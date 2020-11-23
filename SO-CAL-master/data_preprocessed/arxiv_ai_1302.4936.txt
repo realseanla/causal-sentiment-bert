@@ -1,0 +1,7 @@
+An/DT approach/NN to/IN fault/NN isolation/NN that/WDT exploits/VBZ vastly/RB incomplete/JJ models/NNS is/VBZ presented/VBN ./.
+It/PRP relies/VBZ on/IN separate/JJ descriptions/NNS of/IN each/DT component/NN behavior/NN ,/, together/RB with/IN the/DT links/NNS between/IN them/PRP ,/, which/WDT enables/VBZ focusing/VBG of/IN the/DT reasoning/NN to/IN the/DT relevant/JJ part/NN of/IN the/DT system/NN ./.
+As/IN normal/JJ observations/NNS do/VBP not/RB need/VB explanation/NN ,/, the/DT behavior/NN of/IN the/DT components/NNS is/VBZ limited/VBN to/IN anomaly/NN propagation/NN ./.
+Diagnostic/JJ solutions/NNS are/VBP disorders/NNS (/-LRB- fault/NN modes/NNS or/CC abnormal/JJ signatures/NNS )/-RRB- that/WDT are/VBP consistent/JJ with/IN the/DT observations/NNS ,/, as/RB well/RB as/IN abductive/JJ explanations/NNS ./.
+An/DT ordinal/JJ representation/NN of/IN uncertainty/NN based/VBN on/IN possibility/NN theory/NN provides/VBZ a/DT simple/JJ exception/NN -/HYPH tolerant/JJ description/NN of/IN the/DT component/NN behaviors/NNS ./.
+We/PRP can/MD for/IN instance/NN distinguish/VB between/IN effects/NNS that/WDT are/VBP more/RBR or/CC less/RBR certainly/RB present/JJ (/-LRB- or/CC absent/JJ )/-RRB- and/CC effects/NNS that/WDT are/VBP more/RBR or/CC less/RBR certainly/RB present/JJ (/-LRB- or/CC absent/JJ )/-RRB- when/WRB a/DT given/VBN anomaly/NN is/VBZ present/JJ ./.
+A/DT realistic/JJ example/NN illustrates/VBZ the/DT benefits/NNS of/IN this/DT approach/NN ./.

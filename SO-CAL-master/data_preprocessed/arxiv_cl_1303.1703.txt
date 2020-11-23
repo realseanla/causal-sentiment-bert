@@ -1,0 +1,11 @@
+Traditional/JJ information/NN retrieval/NN systems/NNS rely/VBP on/IN keywords/NNS to/IN index/NN documents/NNS and/CC queries/NNS ./.
+In/IN such/JJ systems/NNS ,/, documents/NNS are/VBP retrieved/VBN based/VBN on/IN the/DT number/NN of/IN shared/VBN keywords/NNS with/IN the/DT query/NN ./.
+This/DT lexical/JJ -/HYPH focused/JJ retrieval/NN leads/VBZ to/IN inaccurate/JJ and/CC incomplete/JJ results/NNS when/WRB different/JJ keywords/NNS are/VBP used/VBN to/TO describe/VB the/DT documents/NNS and/CC queries/NNS ./.
+Semantic/JJ -/HYPH focused/JJ retrieval/NN approaches/VBZ attempt/NN to/TO overcome/VB this/DT problem/NN by/IN relying/VBG on/IN concepts/NNS rather/RB than/IN on/IN keywords/NNS to/IN indexing/NN and/CC retrieval/NN ./.
+The/DT goal/NN is/VBZ to/TO retrieve/VB documents/NNS that/WDT are/VBP semantically/RB relevant/JJ to/IN a/DT given/VBN user/NN query/NN ./.
+This/DT paper/NN addresses/VBZ this/DT issue/NN by/IN proposing/VBG a/DT solution/NN at/IN the/DT indexing/NN level/NN ./.
+More/RBR precisely/RB ,/, we/PRP propose/VBP a/DT novel/JJ approach/NN for/IN semantic/JJ indexing/NN based/VBN on/IN concepts/NNS identified/VBN from/IN a/DT linguistic/JJ resource/NN ./.
+In/IN particular/JJ ,/, our/PRP$ approach/NN relies/VBZ on/IN the/DT joint/JJ use/NN of/IN WordNet/NNP and/CC WordNetDomains/NNP lexical/JJ databases/NNS for/IN concept/NN identification/NN ./.
+Furthermore/RB ,/, we/PRP propose/VBP a/DT semantic/JJ -/HYPH based/VBN concept/NN weighting/NN scheme/NN that/WDT relies/VBZ on/IN a/DT novel/JJ definition/NN of/IN concept/NN centrality/NN ./.
+The/DT resulting/VBG system/NN is/VBZ evaluated/VBN on/IN the/DT TIME/NN test/NN collection/NN ./.
+Experimental/JJ results/NNS show/VBP the/DT effectiveness/NN of/IN our/PRP$ proposition/NN over/IN traditional/JJ IR/NN approaches/NNS ./.

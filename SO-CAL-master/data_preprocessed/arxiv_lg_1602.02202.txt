@@ -1,0 +1,4 @@
+We/PRP propose/VBP Sketched/NNP Online/NNP Newton/NNP (/-LRB- SON/NN )/-RRB- ,/, an/DT online/JJ second/JJ order/NN learning/VBG algorithm/NN that/WDT enjoys/VBZ substantially/RB improved/VBN regret/NN guarantees/NNS for/IN ill/JJ -/HYPH conditioned/VBN data/NNS ./.
+SON/NN is/VBZ an/DT enhanced/VBN version/NN of/IN the/DT Online/NN Newton/NNP Step/NNP ,/, which/WDT ,/, via/IN sketching/VBG techniques/NNS enjoys/VBZ a/DT linear/JJ running/NN time/NN ./.
+We/PRP further/RB improve/VB the/DT computational/JJ complexity/NN to/IN linear/JJ in/IN the/DT number/NN of/IN nonzero/JJ entries/NNS by/IN creating/VBG sparse/JJ forms/NNS of/IN the/DT sketching/VBG methods/NNS (/-LRB- such/JJ as/IN Oja/NNP 's/POS rule/NN )/-RRB- for/IN top/JJ eigenvector/NN extraction/NN ./.
+Together/RB ,/, these/DT algorithms/NNS eliminate/VBP all/DT computational/JJ obstacles/NNS in/IN previous/JJ second/JJ order/NN online/RB learning/VBG approaches/NNS ./.

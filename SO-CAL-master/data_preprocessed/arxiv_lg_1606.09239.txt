@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT problem/NN of/IN automatically/RB building/VBG hypernym/NN taxonomies/NNS from/IN textual/JJ and/CC visual/JJ data/NNS ./.
+Previous/JJ works/NNS in/IN taxonomy/NN induction/NN generally/RB ignore/VBP the/DT increasingly/RB prominent/JJ visual/JJ data/NNS ,/, which/WDT encode/VBP important/JJ perceptual/JJ semantics/NNS ./.
+Instead/RB ,/, we/PRP propose/VBP a/DT probabilistic/JJ model/NN for/IN taxonomy/NN induction/NN by/IN jointly/RB leveraging/VBG text/NN and/CC images/NNS ./.
+To/TO avoid/VB hand/NN -/HYPH crafted/VBN feature/NN engineering/NN ,/, we/PRP design/VBP end/NN -/HYPH to/IN -/HYPH end/NN features/NNS based/VBN on/IN distributed/VBN representations/NNS of/IN images/NNS and/CC words/NNS ./.
+The/DT model/NN is/VBZ discriminatively/RB trained/VBN given/VBN a/DT small/JJ set/NN of/IN existing/VBG ontologies/NNS and/CC is/VBZ capable/JJ of/IN building/VBG full/JJ taxonomies/NNS from/IN scratch/NN for/IN a/DT collection/NN of/IN unseen/JJ conceptual/JJ label/NN items/NNS with/IN associated/JJ images/NNS ./.
+We/PRP evaluate/VBP our/PRP$ model/NN and/CC features/NNS on/IN the/DT WordNet/NNP hierarchies/NNS ,/, where/WRB our/PRP$ system/NN outperforms/VBZ previous/JJ approaches/NNS by/IN a/DT large/JJ gap/NN ./.

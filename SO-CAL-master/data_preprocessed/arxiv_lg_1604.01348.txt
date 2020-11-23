@@ -1,0 +1,4 @@
+This/DT paper/NN presents/VBZ a/DT Bayesian/JJ optimization/NN method/NN with/IN exponential/JJ convergence/NN without/IN the/DT need/NN of/IN auxiliary/JJ optimization/NN and/CC without/IN the/DT delta/NN -/HYPH cover/NN sampling/NN ./.
+Most/JJS Bayesian/JJ optimization/NN methods/NNS require/VBP auxiliary/JJ optimization/NN :/: an/DT additional/JJ non-convex/JJ global/JJ optimization/NN problem/NN ,/, which/WDT can/MD be/VB time/NN -/HYPH consuming/VBG and/CC hard/JJ to/TO implement/VB in/IN practice/NN ./.
+Also/RB ,/, the/DT existing/VBG Bayesian/JJ optimization/NN method/NN with/IN exponential/JJ convergence/NN requires/VBZ access/NN to/IN the/DT delta/NN -/HYPH cover/NN sampling/NN ,/, which/WDT was/VBD considered/VBN to/TO be/VB impractical/JJ ./.
+Our/PRP$ approach/NN eliminates/VBZ both/CC requirements/NNS and/CC achieves/VBZ an/DT exponential/JJ convergence/NN rate/NN ./.

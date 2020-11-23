@@ -1,0 +1,9 @@
+Recent literature has pointed out that machine learning classifiers, including deep neural networks (DNN), are vulnerable to adversarial samples that are maliciously created inputs that force a machine learning classifier to produce wrong output labels.
+Multiple studies have tried to analyze and thus harden machine classifiers under such adversarial noise (AN).
+However, they are mostly empirical and provide little understanding of the underlying principles that enable evaluation of the robustness of a classier against AN.
+This paper proposes a unified framework using two metric spaces to evaluate classifiers' robustness against AN and provides general guidance for hardening such classifiers.
+The central idea of our work is that for a certain classification task, the robustness of a classifier $f_1$ against AN is decided by both $f_1$ and its oracle $f_2$ (like human annotator of that specific task).
+In particular: (1) By adding oracle $f_2$ into the framework, we provide a general definition of the adversarial sample problem.
+(2) We theoretically formulate a definition that decides whether a classifier is always robust against AN (strong-robustness); (3) Using two metric spaces ($X_1,d_1$) and ($X_2,d_2$) defined by $f_1$ and $f_2$ respectively, we prove that the topological equivalence between ($X_1,d_1$) and ($X_2,d_2$) is sufficient in deciding whether $f_1$ is strong-robust at test time, or not; (5) By training a DNN classifier using the Siamese architecture, we propose a new defense strategy "Siamese training" to intuitively approach topological equivalence between ($X_1,d_1$) and ($X_2,d_2$).
+Experimental results show that Siamese training helps multiple DNN models achieve better accuracy compared to previous defense strategies in an adversarial setting.
+DNN models after Siamese training exhibit better robustness than the state-of-the-art baselines.

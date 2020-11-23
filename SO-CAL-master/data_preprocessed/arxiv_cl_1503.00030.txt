@@ -1,0 +1,6 @@
+We/PRP reduce/VBP phrase/NN -/HYPH representation/NN parsing/VBG to/IN dependency/NN parsing/VBG ./.
+Our/PRP$ reduction/NN is/VBZ grounded/VBN on/IN a/DT new/JJ intermediate/JJ representation/NN ,/, "/'' head/NN -/HYPH ordered/VBN dependency/NN trees/NNS "/'' ,/, shown/VBN to/TO be/VB isomorphic/JJ to/IN constituent/NN trees/NNS ./.
+By/IN encoding/VBG order/NN information/NN in/IN the/DT dependency/NN labels/NNS ,/, we/PRP show/VBP that/IN any/DT off/IN -/HYPH the/DT -/HYPH shelf/NN ,/, trainable/JJ dependency/NN parser/NN can/MD be/VB used/VBN to/TO produce/VB constituents/NNS ./.
+When/WRB this/DT parser/NN is/VBZ non-projective/JJ ,/, we/PRP can/MD perform/VB discontinuous/JJ parsing/VBG in/IN a/DT very/RB natural/JJ manner/NN ./.
+Despite/IN the/DT simplicity/NN of/IN our/PRP$ approach/NN ,/, experiments/NNS show/VBP that/IN the/DT resulting/VBG parsers/NNS are/VBP on/IN par/NN with/IN strong/JJ baselines/NNS ,/, such/JJ as/IN the/DT Berkeley/NNP parser/NN for/IN English/NNP and/CC the/DT best/JJS single/JJ system/NN in/IN the/DT SPMRL/NN -/HYPH 2014/CD shared/VBD task/NN ./.
+Results/NNS are/VBP particularly/RB striking/VBG for/IN discontinuous/JJ parsing/VBG of/IN German/JJ ,/, where/WRB we/PRP surpass/VBP the/DT current/JJ state/NN of/IN the/DT art/NN by/IN a/DT wide/JJ margin/NN ./.

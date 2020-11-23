@@ -1,0 +1,5 @@
+Many/JJ papers/NNS have/VBP been/VBN published/VBN on/IN the/DT knowledge/NN base/NN completion/NN task/NN in/IN the/DT past/JJ few/JJ years/NNS ./.
+Most/JJS of/IN these/DT introduce/VBP novel/JJ architectures/NNS for/IN relation/NN learning/NN that/WDT are/VBP evaluated/VBN on/IN standard/JJ datasets/NNS such/JJ as/IN FB15k/NN and/CC WN18/NN ./.
+This/DT paper/NN shows/VBZ that/IN the/DT accuracy/NN of/IN almost/RB all/DT models/NNS published/VBN on/IN the/DT FB15k/NN can/MD be/VB outperformed/VBN by/IN an/DT appropriately/RB tuned/VBN baseline/NN -/HYPH our/PRP$ reimplementation/NN of/IN the/DT DistMult/NNP model/NN ./.
+Our/PRP$ findings/NNS cast/VBD doubt/NN on/IN the/DT claim/NN that/IN the/DT performance/NN improvements/NNS of/IN recent/JJ models/NNS are/VBP due/JJ to/IN architectural/JJ changes/NNS as/IN opposed/VBN to/IN hyper/JJ -/HYPH parameter/NN tuning/NN or/CC different/JJ training/NN objectives/NNS ./.
+This/DT should/MD prompt/VB future/JJ research/NN to/IN re-consider/VB how/WRB the/DT performance/NN of/IN models/NNS is/VBZ evaluated/VBN and/CC reported/VBN ./.

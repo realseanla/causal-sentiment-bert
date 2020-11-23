@@ -1,0 +1,6 @@
+Markov logic uses weighted formulas to compactly encode a probability distribution over possible worlds.
+Despite the use of logical formulas, Markov logic networks (MLNs) can be difficult to interpret, due to the often counter-intuitive meaning of their weights.
+To address this issue, we propose a method to construct a possibilistic logic theory that exactly captures what can be derived from a given MLN using maximum a posteriori (MAP) inference.
+Unfortunately, the size of this theory is exponential in general.
+We therefore also propose two methods which can derive compact theories that still capture MAP inference, but only for specific types of evidence.
+These theories can be used, among others, to make explicit the hidden assumptions underlying an MLN or to explain the predictions it makes.

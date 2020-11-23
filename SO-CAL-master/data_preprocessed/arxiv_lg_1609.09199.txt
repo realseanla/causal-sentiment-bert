@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP a/DT supervised/JJ dictionary/NN learning/NN algorithm/NN that/WDT aims/VBZ to/TO preserve/VB the/DT local/JJ geometry/NN in/IN both/CC dimensions/NNS of/IN the/DT data/NNS ./.
+A/DT graph/NN -/HYPH based/VBN regularization/NN explicitly/RB takes/VBZ into/IN account/NN the/DT local/JJ manifold/JJ structure/NN of/IN the/DT data/NNS points/NNS ./.
+A/DT second/JJ graph/NN regularization/NN gives/VBZ similar/JJ treatment/NN to/IN the/DT feature/NN domain/NN and/CC helps/VBZ in/IN learning/VBG a/DT more/RBR robust/JJ dictionary/NN ./.
+Both/DT graphs/NNS can/MD be/VB constructed/VBN from/IN the/DT training/NN data/NNS or/CC learned/VBN and/CC adapted/VBN along/IN the/DT dictionary/NN learning/NN process/NN ./.
+The/DT combination/NN of/IN these/DT two/CD terms/NNS promotes/VBZ the/DT discriminative/JJ power/NN of/IN the/DT learned/VBN sparse/JJ representations/NNS and/CC leads/VBZ to/IN improved/VBN classification/NN accuracy/NN ./.
+The/DT proposed/JJ method/NN was/VBD evaluated/VBN on/IN several/JJ different/JJ datasets/NNS ,/, representing/VBG both/DT single/JJ -/HYPH label/NN and/CC multi-label/NN classification/NN problems/NNS ,/, and/CC demonstrated/VBD better/JJR performance/NN compared/VBN with/IN other/JJ dictionary/NN based/VBN approaches/NNS ./.

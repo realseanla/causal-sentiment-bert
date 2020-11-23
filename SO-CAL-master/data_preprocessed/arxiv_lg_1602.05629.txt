@@ -1,0 +1,5 @@
+Modern/JJ mobile/JJ devices/NNS have/VBP access/NN to/IN a/DT wealth/NN of/IN data/NNS suitable/JJ for/IN learning/VBG models/NNS ,/, which/WDT in/IN turn/NN can/MD greatly/RB improve/VB the/DT user/NN experience/NN on/IN the/DT device/NN ./.
+For/IN example/NN ,/, language/NN models/NNS can/MD improve/VB speech/NN recognition/NN and/CC text/NN entry/NN ,/, and/CC image/NN models/NNS can/MD automatically/RB select/VB good/JJ photos/NNS ./.
+However/RB ,/, this/DT rich/JJ data/NNS is/VBZ often/RB privacy/NN sensitive/JJ ,/, large/JJ in/IN quantity/NN ,/, or/CC both/CC ,/, which/WDT may/MD preclude/VB logging/VBG to/IN the/DT data/NN -/HYPH center/NN and/CC training/NN there/RB using/VBG conventional/JJ approaches/NNS ./.
+We/PRP advocate/VBP an/DT alternative/NN that/WDT leaves/VBZ the/DT training/NN data/NNS distributed/VBN on/IN the/DT mobile/JJ devices/NNS ,/, and/CC learns/VBZ a/DT shared/VBN model/NN by/IN aggregating/VBG locally/RB -/HYPH computed/VBN updates/NNS ./.
+We/PRP term/VBP this/DT decentralized/VBN approach/NN Federated/NNP Learning/NNP ./.

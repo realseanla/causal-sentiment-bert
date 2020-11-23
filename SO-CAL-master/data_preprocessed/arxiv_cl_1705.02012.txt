@@ -1,0 +1,6 @@
+We/PRP propose/VBP a/DT recurrent/JJ neural/JJ model/NN that/WDT generates/VBZ natural/JJ -/HYPH language/NN questions/NNS from/IN documents/NNS ,/, conditioned/VBN on/IN answers/NNS ./.
+We/PRP show/VBP how/WRB to/TO train/VB the/DT model/NN using/VBG a/DT combination/NN of/IN supervised/JJ and/CC reinforcement/NN learning/NN ./.
+After/IN teacher/NN forcing/VBG for/IN standard/JJ maximum/JJ likelihood/NN training/NN ,/, we/PRP fine/RB -/HYPH tune/VB the/DT model/NN using/VBG policy/NN gradient/NN techniques/NNS to/TO maximize/VB several/JJ rewards/NNS that/WDT measure/VBP question/NN quality/NN ./.
+Most/RBS notably/RB ,/, one/CD of/IN these/DT rewards/NNS is/VBZ the/DT performance/NN of/IN a/DT question/NN -/HYPH answering/VBG system/NN ./.
+We/PRP motivate/VBP question/NN generation/NN as/IN a/DT means/NN to/TO improve/VB the/DT performance/NN of/IN question/NN answering/VBG systems/NNS ./.
+Our/PRP$ model/NN is/VBZ trained/VBN and/CC evaluated/VBN on/IN the/DT recent/JJ question/NN -/HYPH answering/VBG dataset/NN SQuAD/NN ./.

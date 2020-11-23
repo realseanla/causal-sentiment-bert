@@ -1,0 +1,7 @@
+Reordering/NN is/VBZ a/DT preprocessing/JJ stage/NN for/IN Statistical/JJ Machine/NN Translation/NN (/-LRB- SMT/NN )/-RRB- system/NN where/WRB the/DT words/NNS of/IN the/DT source/NN sentence/NN are/VBP reordered/VBN as/IN per/IN the/DT syntax/NN of/IN the/DT target/NN language/NN ./.
+We/PRP are/VBP proposing/VBG a/DT rich/JJ set/NN of/IN rules/NNS for/IN better/JJR reordering/NN ./.
+The/DT idea/NN is/VBZ to/TO facilitate/VB the/DT training/NN process/NN by/IN better/JJR alignments/NNS and/CC parallel/JJ phrase/NN extraction/NN for/IN a/DT phrase/NN -/HYPH based/VBN SMT/NNP system/NN ./.
+Reordering/NN also/RB helps/VBZ the/DT decoding/NN process/NN and/CC hence/RB improving/VBG the/DT machine/NN translation/NN quality/NN ./.
+We/PRP have/VBP observed/VBN significant/JJ improvements/NNS in/IN the/DT translation/NN quality/NN by/IN using/VBG our/PRP$ approach/NN over/IN the/DT baseline/NN SMT/NN ./.
+We/PRP have/VBP used/VBN BLEU/NNP ,/, NIST/NNP ,/, multi-reference/JJ word/NN error/NN rate/NN ,/, multi-reference/NN position/NN independent/JJ error/NN rate/NN for/IN judging/VBG the/DT improvements/NNS ./.
+We/PRP have/VBP exploited/VBN open/JJ source/NN SMT/NN toolkit/NN MOSES/NNP to/TO develop/VB the/DT system/NN ./.

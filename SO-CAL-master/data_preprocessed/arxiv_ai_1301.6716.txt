@@ -1,0 +1,6 @@
+Solving/VBG symmetric/JJ Bayesian/JJ decision/NN problems/NNS is/VBZ a/DT computationally/RB intensive/JJ task/NN to/TO perform/VB regardless/RB of/IN the/DT algorithm/NN used/VBN ./.
+In/IN this/DT paper/NN we/PRP propose/VBP a/DT method/NN for/IN improving/VBG the/DT efficiency/NN of/IN algorithms/NNS for/IN solving/VBG Bayesian/JJ decision/NN problems/NNS ./.
+The/DT method/NN is/VBZ based/VBN on/IN the/DT principle/NN of/IN lazy/JJ evaluation/NN -/HYPH a/DT principle/NN recently/RB shown/VBN to/TO improve/VB the/DT efficiency/NN of/IN inference/NN in/IN Bayesian/JJ networks/NNS ./.
+The/DT basic/JJ idea/NN is/VBZ to/TO maintain/VB decompositions/NNS of/IN potentials/NNS and/CC to/TO postpone/VB computations/NNS for/IN as/RB long/JJ as/IN possible/JJ ./.
+The/DT efficiency/NN improvements/NNS obtained/VBN with/IN the/DT lazy/JJ evaluation/NN based/VBN method/NN is/VBZ emphasized/VBN through/IN examples/NNS ./.
+Finally/RB ,/, the/DT lazy/JJ evaluation/NN based/VBN method/NN is/VBZ compared/VBN with/IN the/DT hugin/NN and/CC valuation/NN -/HYPH based/VBN systems/NNS architectures/NNS for/IN solving/VBG symmetric/JJ Bayesian/JJ decision/NN problems/NNS ./.

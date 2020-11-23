@@ -1,0 +1,5 @@
+We present an approach to training a binary logistic regression classifier in the setting where the training data needs to be kept private.
+We provide a theoretical analysis of the security of this procedure and experimental results for the problem of large scale spam detection.
+High performance spam filters often use character n-grams as features which result in large sparse vectors to which applying our protocol directly is not feasible.
+We explore various dimensionality reduction and parallelization approaches and provide a detailed analysis of the speed and accuracy trade-off.
+Our results show that we can achieve the accuracy of state of the art spam filters at comparable training and testing time of non-private version of logistic regression.

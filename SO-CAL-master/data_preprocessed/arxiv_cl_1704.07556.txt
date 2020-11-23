@@ -1,0 +1,6 @@
+Different/JJ linguistic/JJ perspectives/NNS causes/VBZ many/JJ diverse/JJ segmentation/NN criteria/NNS for/IN Chinese/JJ word/NN segmentation/NN (/-LRB- CWS/NN )/-RRB- ./.
+Most/JJS existing/VBG methods/NNS focus/VBP on/IN improve/VB the/DT performance/NN for/IN each/DT single/JJ criterion/NN ./.
+However/RB ,/, it/PRP is/VBZ interesting/JJ to/TO exploit/VB these/DT different/JJ criteria/NNS and/CC mining/VBG their/PRP$ common/JJ underlying/JJ knowledge/NN ./.
+In/IN this/DT paper/NN ,/, we/PRP propose/VBP adversarial/JJ multi-criteria/JJ learning/NN for/IN CWS/NNP by/IN integrating/VBG shared/VBN knowledge/NN from/IN multiple/JJ heterogeneous/JJ segmentation/NN criteria/NNS ./.
+Experiments/NNS on/IN eight/CD corpora/NNS with/IN heterogeneous/JJ segmentation/NN criteria/NNS show/VBP that/IN the/DT performance/NN of/IN each/DT corpus/NN obtains/VBZ a/DT significant/JJ improvement/NN ,/, compared/VBN to/IN single/JJ -/HYPH criterion/NN learning/NN ./.
+Source/NN codes/NNS of/IN this/DT paper/NN are/VBP available/JJ on/IN Github/NNP ./.

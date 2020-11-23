@@ -1,0 +1,7 @@
+Path/NN queries/NNS on/IN a/DT knowledge/NN graph/NN can/MD be/VB used/VBN to/TO answer/VB compositional/JJ questions/NNS such/JJ as/IN "/`` What/WP languages/NNS are/VBP spoken/VBN by/IN people/NNS living/VBG in/IN Lisbon/NNP ?/. "/''
+./.
+However/RB ,/, knowledge/NN graphs/NNS often/RB have/VBP missing/VBG facts/NNS (/-LRB- edges/NNS )/-RRB- which/WDT disrupts/VBZ path/NN queries/NNS ./.
+Recent/JJ models/NNS for/IN knowledge/NN base/NN completion/NN impute/NN missing/VBG facts/NNS by/IN embedding/VBG knowledge/NN graphs/NNS in/IN vector/NN spaces/NNS ./.
+We/PRP show/VBP that/IN these/DT models/NNS can/MD be/VB recursively/RB applied/VBN to/TO answer/VB path/NN queries/NNS ,/, but/CC that/IN they/PRP suffer/VBP from/IN cascading/VBG errors/NNS ./.
+This/DT motivates/VBZ a/DT new/JJ "/`` compositional/JJ "/'' training/NN objective/NN ,/, which/WDT dramatically/RB improves/VBZ all/DT models/NNS '/POS ability/NN to/TO answer/VB path/NN queries/NNS ,/, in/IN some/DT cases/NNS more/JJR than/IN doubling/VBG accuracy/NN ./.
+On/IN a/DT standard/JJ knowledge/NN base/NN completion/NN task/NN ,/, we/PRP also/RB demonstrate/VBP that/IN compositional/JJ training/NN acts/VBZ as/IN a/DT novel/JJ form/NN of/IN structural/JJ regularization/NN ,/, reliably/RB improving/VBG performance/NN across/IN all/DT base/NN models/NNS (/-LRB- reducing/VBG errors/NNS by/IN up/RB to/IN 43/CD percent/NN )/-RRB- and/CC achieving/VBG new/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN results/NNS ./.

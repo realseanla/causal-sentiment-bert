@@ -1,0 +1,11 @@
+Deep/JJ Neural/JJ Network/NN (/-LRB- DNN/NN )/-RRB- are/VBP currently/RB of/IN great/JJ inter/AFX -/HYPH est/FW in/IN research/NN and/CC application/NN ./.
+The/DT training/NN of/IN these/DT net/JJ -/HYPH works/NNS is/VBZ a/DT compute/VB intensive/JJ and/CC time/NN consuming/VBG task/NN ./.
+To/TO reduce/VB training/NN times/NNS to/IN a/DT bearable/JJ amount/NN at/IN reasonable/JJ cost/NN we/PRP extend/VBP the/DT popular/JJ Caffe/NNP toolbox/NN for/IN DNN/NN with/IN an/DT efficient/JJ distributed/VBN memory/NN communication/NN pattern/NN ./.
+To/TO achieve/VB good/JJ scalability/NN we/PRP emphasize/VBP the/DT overlap/NN of/IN computation/NN and/CC communication/NN and/CC prefer/VBP fine/JJ granu/NN -/HYPH lar/JJ synchronization/NN patterns/NNS over/IN global/JJ barriers/NNS ./.
+To/TO im/VB -/: plement/NN these/DT communication/NN patterns/NNS we/PRP rely/VBP on/IN the/DT the/DT Global/JJ address/NN space/NN Programming/NN Interface/NN version/NN 2/CD (/-LRB- GPI/NN -/HYPH 2/CD )/-RRB- communication/NN library/NN ./.
+This/DT interface/NN provides/VBZ a/DT light/NN -/HYPH weight/NN set/NN of/IN asynchronous/JJ one/CD -/HYPH sided/JJ communica/NN -/HYPH tion/NN primitives/NNS supplemented/VBN by/IN non-blocking/JJ fine/JJ gran/NN -/HYPH ular/JJ data/NNS synchronization/NN mechanisms/NNS ./.
+Therefore/RB ,/, Caf/NNP -/HYPH feGPI/NNP is/VBZ the/DT name/NN of/IN our/PRP$ parallel/JJ version/NN of/IN Caffe/NNP ./.
+First/RB benchmarks/NNS demonstrate/VBP better/JJR scaling/JJ behavior/NN com/NN -/HYPH pared/VBN with/IN other/JJ extensions/NNS ,/, e.g./FW ,/, the/DT Intel/NNP TM/NN Caffe/NNP ./.
+Even/RB within/IN a/DT single/JJ symmetric/JJ multiprocessing/NN machine/NN with/IN four/CD graphics/NNS processing/VBG units/NNS ,/, the/DT CaffeGPI/NNP scales/NNS bet/NN -/HYPH ter/NN than/IN the/DT standard/JJ Caffe/NNP toolbox/NN ./.
+These/DT first/JJ results/NNS demonstrate/VBP that/IN the/DT use/NN of/IN standard/JJ High/NNP Performance/NNP Computing/NNP (/-LRB- HPC/NNP )/-RRB- hardware/NN is/VBZ a/DT valid/JJ cost/NN saving/VBG ap/NN -/HYPH proach/NN to/TO train/VB large/JJ DDNs/NNS ./.
+I/PRP //SYM O/NN is/VBZ an/DT other/JJ bottleneck/NN to/TO work/VB with/IN DDNs/NNS in/IN a/DT standard/JJ parallel/JJ HPC/NN setting/NN ,/, which/WDT we/PRP will/MD consider/VB in/IN more/JJR detail/NN in/IN a/DT forthcoming/JJ paper/NN ./.

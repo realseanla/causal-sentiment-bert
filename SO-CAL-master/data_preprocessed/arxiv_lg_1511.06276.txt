@@ -1,0 +1,6 @@
+A/DT Deep/JJ Belief/NNP Network/NNP (/-LRB- DBN/NNP )/-RRB- requires/VBZ large/JJ ,/, multiple/JJ hidden/JJ layers/NNS with/IN high/JJ number/NN of/IN hidden/VBN units/NNS to/TO learn/VB good/JJ features/NNS from/IN the/DT raw/JJ pixels/NNS of/IN large/JJ images/NNS ./.
+This/DT implies/VBZ more/JJR training/NN time/NN as/RB well/RB as/IN computational/JJ complexity/NN ./.
+By/IN integrating/VBG DBN/NNP with/IN Discrete/NNP Wavelet/NNP Transform/NNP (/-LRB- DWT/NNP )/-RRB- ,/, both/CC training/NN time/NN and/CC computational/JJ complexity/NN can/MD be/VB reduced/VBN ./.
+The/DT low/JJ resolution/NN images/NNS obtained/VBN after/IN application/NN of/IN DWT/NNP are/VBP used/VBN to/TO train/VB multiple/JJ DBNs/NNS ./.
+The/DT results/NNS obtained/VBN from/IN these/DT DBNs/NNS are/VBP combined/VBN using/VBG a/DT weighted/JJ voting/NN algorithm/NN ./.
+The/DT performance/NN of/IN this/DT method/NN is/VBZ found/VBN to/TO be/VB competent/JJ and/CC faster/RBR in/IN comparison/NN with/IN that/DT of/IN traditional/JJ DBNs/NNS ./.

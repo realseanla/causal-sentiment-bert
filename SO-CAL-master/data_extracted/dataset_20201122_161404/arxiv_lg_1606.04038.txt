@@ -1,0 +1,3 @@
+In this paper, we propose a framework for training multiple neural networks simultaneously.
+The parameters from all models are regularised by the tensor trace norm, so that one neural network is encouraged to reuse others' parameters if possible -- this is the main motivation behind multi-task learning.
+In contrast to many deep multi-task learning work, we do not predefine a parameter sharing strategy by tying some (usually bottom) layers' parameters, instead, our framework allows the sharing for all shareable layers thus the sharing strategy is learned from a pure data-driven way.

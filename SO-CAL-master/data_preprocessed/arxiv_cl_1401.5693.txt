@@ -1,0 +1,4 @@
+This/DT paper/NN presents/VBZ a/DT tree/NN -/HYPH to/IN -/HYPH tree/NN transduction/NN method/NN for/IN sentence/NN compression/NN ./.
+Our/PRP$ model/NN is/VBZ based/VBN on/IN synchronous/JJ tree/NN substitution/NN grammar/NN ,/, a/DT formalism/NN that/WDT allows/VBZ local/JJ distortion/NN of/IN the/DT tree/NN topology/NN and/CC can/MD thus/RB naturally/RB capture/VB structural/JJ mismatches/NNS ./.
+We/PRP describe/VBP an/DT algorithm/NN for/IN decoding/NN in/IN this/DT framework/NN and/CC show/VB how/WRB the/DT model/NN can/MD be/VB trained/VBN discriminatively/RB within/IN a/DT large/JJ margin/NN framework/NN ./.
+Experimental/JJ results/NNS on/IN sentence/NN compression/NN bring/VB significant/JJ improvements/NNS over/IN a/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN model/NN ./.

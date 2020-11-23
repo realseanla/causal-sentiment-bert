@@ -1,0 +1,7 @@
+Reasoning and inference are central to human and artificial intelligence.
+Modeling inference in human language is notoriously challenging but is fundamental to natural language understanding and many applications.
+With the availability of large annotated data, neural network models have recently advanced the field significantly.
+In this paper, we present a new state-of-the-art result, achieving the accuracy of 88.3 percent on the standard benchmark, the Stanford Natural Language Inference dataset.
+This result is achieved first through our enhanced sequential encoding model, which outperforms the previous best model that employs more complicated network architectures, suggesting that the potential of sequential LSTM-based models have not been fully explored yet in previous work.
+We further show that by explicitly considering recursive architectures, we achieve additional improvement.
+Particularly, incorporating syntactic parse information contributes to our best result; it improves the performance even when the parse information is added to an already very strong system.

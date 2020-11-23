@@ -1,0 +1,3 @@
+This/DT paper/NN adapts/VBZ a/DT recently/RB developed/VBN regularized/VBN stochastic/JJ version/NN of/IN the/DT Broyden/NNP ,/, Fletcher/NNP ,/, Goldfarb/NNP ,/, and/CC Shanno/NNP (/-LRB- BFGS/NNP )/-RRB- quasi-Newton/NNP method/NN for/IN the/DT solution/NN of/IN support/NN vector/NN machine/NN classification/NN problems/NNS ./.
+The/DT proposed/JJ method/NN is/VBZ shown/VBN to/TO converge/VB almost/RB surely/RB to/IN the/DT optimal/JJ classifier/NN at/IN a/DT rate/NN that/WDT is/VBZ linear/JJ in/IN expectation/NN ./.
+Numerical/NNP results/NNS show/VBP that/IN the/DT proposed/JJ method/NN exhibits/VBZ a/DT convergence/NN rate/NN that/WDT degrades/VBZ smoothly/RB with/IN the/DT dimensionality/NN of/IN the/DT feature/NN vectors/NNS ./.

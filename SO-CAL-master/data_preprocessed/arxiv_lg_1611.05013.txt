@@ -1,0 +1,7 @@
+Natural/JJ image/NN modeling/NN is/VBZ a/DT landmark/NN challenge/NN of/IN unsupervised/JJ learning/NN ./.
+Variational/NNP Autoencoders/NNP (/-LRB- VAEs/NNS )/-RRB- learn/VBP a/DT useful/JJ latent/NN representation/NN and/CC model/NN global/JJ structure/NN well/RB but/CC have/VBP difficulty/NN capturing/VBG small/JJ details/NNS ./.
+PixelCNN/NN models/NNS details/NNS very/RB well/RB ,/, but/CC lacks/VBZ a/DT latent/JJ code/NN and/CC is/VBZ difficult/JJ to/TO scale/VB for/IN capturing/VBG large/JJ structures/NNS ./.
+We/PRP present/VBP PixelVAE/NNP ,/, a/DT VAE/NNP model/NN with/IN an/DT autoregressive/JJ decoder/NN based/VBN on/IN PixelCNN/NNP ./.
+Our/PRP$ model/NN requires/VBZ very/RB few/JJ expensive/JJ autoregressive/JJ layers/NNS compared/VBN to/IN PixelCNN/NNP and/CC learns/VBZ latent/JJ codes/NNS that/WDT are/VBP more/RBR compressed/JJ than/IN a/DT standard/JJ VAE/NNP while/IN still/RB capturing/VBG most/RBS non-trivial/JJ structure/NN ./.
+Finally/RB ,/, we/PRP extend/VBP our/PRP$ model/NN to/IN a/DT hierarchy/NN of/IN latent/JJ variables/NNS at/IN different/JJ scales/NNS ./.
+Our/PRP$ model/NN achieves/VBZ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN performance/NN on/IN binarized/VBN MNIST/NNP ,/, competitive/JJ performance/NN on/IN 64x64/CD ImageNet/NNP ,/, and/CC high/JJ -/HYPH quality/NN samples/NNS on/IN the/DT LSUN/NNP bedrooms/NNS dataset/NN ./.

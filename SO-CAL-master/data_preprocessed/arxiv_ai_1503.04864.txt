@@ -1,0 +1,8 @@
+In/IN recent/JJ years/NNS ,/, with/IN the/DT advent/NN of/IN the/DT web/NN of/IN data/NNS ,/, a/DT growing/VBG number/NN of/IN national/JJ mapping/NN agencies/NNS tend/VBP to/TO publish/VB their/PRP$ geospatial/JJ data/NNS as/IN Linked/NNP Data/NNP ./.
+However/RB ,/, differences/NNS between/IN traditional/JJ GIS/NN data/NNS models/NNS and/CC Linked/NNP Data/NNP model/NN can/MD make/VB the/DT publication/NN process/NN more/RBR complicated/JJ ./.
+Besides/RB ,/, it/PRP may/MD require/VB ,/, to/TO be/VB done/VBN ,/, the/DT setting/NN of/IN several/JJ parameters/NNS and/CC some/DT expertise/NN in/IN the/DT semantic/JJ web/NN technologies/NNS ./.
+In/IN addition/NN ,/, the/DT use/NN of/IN standards/NNS like/IN GeoSPARQL/NNP (/-LRB- or/CC ad/FW hoc/FW predicates/NNS )/-RRB- is/VBZ mandatory/JJ to/TO perform/VB spatial/JJ queries/NNS on/IN published/VBN geospatial/JJ data/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP present/VBP GeomRDF/NNP ,/, a/DT tool/NN that/WDT helps/VBZ users/NNS to/TO convert/VB spatial/JJ data/NNS from/IN traditional/JJ GIS/NN formats/NNS to/IN RDF/NNP model/NN easily/RB ./.
+It/PRP generates/VBZ geometries/NNS represented/VBN as/IN GeoSPARQL/NN WKT/NN literal/JJ but/CC also/RB as/IN structured/VBN geometries/NNS that/WDT can/MD be/VB exploited/VBN by/IN using/VBG only/RB the/DT RDF/NNP query/NN language/NN ,/, SPARQL/NNP ./.
+GeomRDF/NN was/VBD implemented/VBN as/IN a/DT module/NN in/IN the/DT RDF/NNP publication/NN platform/NN Datalift/NNP ./.
+A/DT validation/NN of/IN GeomRDF/NNP has/VBZ been/VBN realized/VBN against/IN the/DT French/JJ administrative/JJ units/NNS dataset/NN (/-LRB- provided/VBN by/IN IGN/NNP France/NNP )/-RRB- ./.

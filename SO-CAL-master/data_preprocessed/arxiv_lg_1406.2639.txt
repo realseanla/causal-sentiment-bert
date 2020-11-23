@@ -1,0 +1,12 @@
+Automated/VBN Lymph/NN Node/NN (/-LRB- LN/NN )/-RRB- detection/NN is/VBZ an/DT important/JJ clinical/JJ diagnostic/JJ task/NN but/CC very/RB challenging/JJ due/IN to/IN the/DT low/JJ contrast/NN of/IN surrounding/VBG structures/NNS in/IN Computed/VBN Tomography/NN (/-LRB- CT/NN )/-RRB- and/CC to/IN their/PRP$ varying/VBG sizes/NNS ,/, poses/NNS ,/, shapes/NNS and/CC sparsely/RB distributed/VBN locations/NNS ./.
+State/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN studies/NNS show/VBP the/DT performance/NN range/NN of/IN 52.9/CD percent/NN sensitivity/NN at/IN 3.1/CD false/JJ -/HYPH positives/NNS per/IN volume/NN (/-LRB- FP/NN //HYPH vol/NN ./. )/-RRB-
+,/, or/CC 60.9/CD percent/NN at/IN 6.1/CD FP/NN //HYPH vol/NN ./.
+for/IN mediastinal/JJ LN/NN ,/, by/IN one/CD -/HYPH shot/NN boosting/VBG on/IN 3D/JJ HAAR/NN features/NNS ./.
+In/IN this/DT paper/NN ,/, we/PRP first/RB operate/VBP a/DT preliminary/JJ candidate/NN generation/NN stage/NN ,/, towards/IN 100/CD percent/NN sensitivity/NN at/IN the/DT cost/NN of/IN high/JJ FP/NN levels/NNS (/-LRB- 40/CD per/IN patient/NN )/-RRB- ,/, to/IN harvest/NN volumes/NNS of/IN interest/NN (/-LRB- VOI/NN )/-RRB- ./.
+Our/PRP$ 2.5/CD D/NN approach/NN consequently/RB decomposes/VBZ any/DT 3D/NN VOI/NN by/IN resampling/VBG 2D/NN reformatted/VBD orthogonal/JJ views/NNS N/NN times/NNS ,/, via/IN scale/NN ,/, random/JJ translations/NNS ,/, and/CC rotations/NNS with/IN respect/NN to/IN the/DT VOI/NN centroid/JJ coordinates/NNS ./.
+These/DT random/JJ views/NNS are/VBP then/RB used/VBN to/TO train/VB a/DT deep/JJ Convolutional/JJ Neural/JJ Network/NN (/-LRB- CNN/NNP )/-RRB- classifier/NN ./.
+In/IN testing/NN ,/, the/DT CNN/NNP is/VBZ employed/VBN to/TO assign/VB LN/NN probabilities/NNS for/IN all/DT N/NN random/JJ views/NNS that/WDT can/MD be/VB simply/RB averaged/VBN (/-LRB- as/IN a/DT set/NN )/-RRB- to/IN compute/VB the/DT final/JJ classification/NN probability/NN per/IN VOI/NN ./.
+We/PRP validate/VBP the/DT approach/NN on/IN two/CD datasets/NNS :/: 90/CD CT/NN volumes/NNS with/IN 388/CD mediastinal/JJ LNs/NNS and/CC 86/CD patients/NNS with/IN 595/CD abdominal/JJ LNs/NNS ./.
+We/PRP achieve/VBP sensitivities/NNS of/IN 70/CD percent/NN //SYM 83/CD percent/NN at/IN 3/CD FP/NN //HYPH vol/NN ./.
+and/CC 84/CD percent/NN //SYM 90/CD percent/NN at/IN 6/CD FP/NN //HYPH vol/NN ./.
+in/IN mediastinum/NN and/CC abdomen/NN respectively/RB ,/, which/WDT drastically/RB improves/VBZ over/IN the/DT previous/JJ state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN work/NN ./.

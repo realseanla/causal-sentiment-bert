@@ -1,0 +1,6 @@
+We/PRP study/VBP the/DT problem/NN of/IN agreement/NN and/CC disagreement/NN detection/NN in/IN online/JJ discussions/NNS ./.
+An/DT isotonic/JJ Conditional/JJ Random/NNP Fields/NNPS (/-LRB- isotonic/JJ CRF/NNP )/-RRB- based/VBN sequential/JJ model/NN is/VBZ proposed/VBN to/TO make/VB predictions/NNS on/IN sentence/NN -/HYPH or/CC segment/NN -/HYPH level/NN ./.
+We/PRP automatically/RB construct/VB a/DT socially/RB -/HYPH tuned/VBN lexicon/NN that/WDT is/VBZ bootstrapped/VBN from/IN existing/VBG general/JJ -/HYPH purpose/NN sentiment/NN lexicons/NNS to/TO further/RB improve/VB the/DT performance/NN ./.
+We/PRP evaluate/VBP our/PRP$ agreement/NN and/CC disagreement/NN tagging/NN model/NN on/IN two/CD disparate/JJ online/JJ discussion/NN corpora/NNS --/: Wikipedia/NNP Talk/NNP pages/NNS and/CC online/JJ debates/NNS ./.
+Our/PRP$ model/NN is/VBZ shown/VBN to/TO outperform/VB the/DT state/NN -/HYPH of/IN -/HYPH the/DT -/HYPH art/NN approaches/NNS in/IN both/DT datasets/NNS ./.
+For/IN example/NN ,/, the/DT isotonic/JJ CRF/NNP model/NN achieves/VBZ F1/NN scores/NNS of/IN 0.74/CD and/CC 0.67/CD for/IN agreement/NN and/CC disagreement/NN detection/NN ,/, when/WRB a/DT linear/JJ chain/NN CRF/NNP obtains/VBZ 0.58/CD and/CC 0.56/CD for/IN the/DT discussions/NNS on/IN Wikipedia/NNP Talk/NNP pages/NNS ./.

@@ -1,0 +1,6 @@
+In/IN this/DT paper/NN ,/, we/PRP extend/VBP neural/JJ Turing/NN machine/NN (/-LRB- NTM/NN )/-RRB- into/IN a/DT dynamic/JJ neural/JJ Turing/NN machine/NN (/-LRB- D/NN -/HYPH NTM/NN )/-RRB- by/IN introducing/VBG a/DT trainable/JJ memory/NN addressing/VBG scheme/NN ./.
+This/DT scheme/NN maintains/VBZ for/IN each/DT memory/NN cell/NN two/CD separate/JJ vectors/NNS ,/, content/NN and/CC address/NN vectors/NNS ./.
+This/DT allows/VBZ the/DT D/NN -/HYPH NTM/NN to/TO learn/VB a/DT wide/JJ variety/NN of/IN location/NN -/HYPH based/VBN addressing/VBG strategies/NNS including/VBG both/CC linear/JJ and/CC nonlinear/JJ ones/NNS ./.
+We/PRP implement/VBP the/DT D/NN -/HYPH NTM/NN with/IN both/DT soft/JJ ,/, differentiable/JJ and/CC hard/JJ ,/, non-differentiable/JJ read/NN //HYPH write/NN mechanisms/NNS ./.
+We/PRP investigate/VBP the/DT mechanisms/NNS and/CC effects/NNS for/IN learning/VBG to/TO read/VB and/CC write/VB to/IN a/DT memory/NN through/IN experiments/NNS on/IN Facebook/NNP bAbI/NNP tasks/NNS using/VBG both/CC a/DT feedforward/NN and/CC GRU/NN -/HYPH controller/NN ./.
+The/DT D/NN -/HYPH NTM/NN is/VBZ evaluated/VBN on/IN a/DT set/NN of/IN the/DT Facebook/NNP bAbI/NNP tasks/NNS and/CC shown/VBN to/TO outperform/VB NTM/NNP and/CC LSTM/NNP baselines/NNS ./.

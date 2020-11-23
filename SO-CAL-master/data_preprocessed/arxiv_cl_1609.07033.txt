@@ -1,0 +1,14 @@
+Summaries/NNS of/IN meetings/NNS are/VBP very/RB important/JJ as/IN they/PRP convey/VBP the/DT essential/JJ content/NN of/IN discussions/NNS in/IN a/DT concise/JJ form/NN ./.
+Generally/RB ,/, it/PRP is/VBZ time/NN consuming/VBG to/TO read/VB and/CC understand/VB the/DT whole/JJ documents/NNS ./.
+Therefore/RB ,/, summaries/NNS play/VBP an/DT important/JJ role/NN as/IN the/DT readers/NNS are/VBP interested/JJ in/IN only/RB the/DT important/JJ context/NN of/IN discussions/NNS ./.
+In/IN this/DT work/NN ,/, we/PRP address/VBP the/DT task/NN of/IN meeting/NN document/NN summarization/NN ./.
+Automatic/JJ summarization/NN systems/NNS on/IN meeting/NN conversations/NNS developed/VBN so/RB far/RB have/VBP been/VBN primarily/RB extractive/JJ ,/, resulting/VBG in/IN unacceptable/JJ summaries/NNS that/WDT are/VBP hard/JJ to/TO read/VB ./.
+The/DT extracted/VBN utterances/NNS contain/VBP disfluencies/NNS that/WDT affect/VBP the/DT quality/NN of/IN the/DT extractive/JJ summaries/NNS ./.
+To/TO make/VB summaries/NNS much/RB more/RBR readable/JJ ,/, we/PRP propose/VBP an/DT approach/NN to/IN generating/VBG abstractive/JJ summaries/NNS by/IN fusing/VBG important/JJ content/NN from/IN several/JJ utterances/NNS ./.
+We/PRP first/RB separate/JJ meeting/NN transcripts/NNS into/IN various/JJ topic/NN segments/NNS ,/, and/CC then/RB identify/VB the/DT important/JJ utterances/NNS in/IN each/DT segment/NN using/VBG a/DT supervised/JJ learning/NN approach/NN ./.
+The/DT important/JJ utterances/NNS are/VBP then/RB combined/VBN together/RB to/TO generate/VB a/DT one/CD -/HYPH sentence/NN summary/NN ./.
+In/IN the/DT text/NN generation/NN step/NN ,/, the/DT dependency/NN parses/VBZ of/IN the/DT utterances/NNS in/IN each/DT segment/NN are/VBP combined/VBN together/RB to/TO create/VB a/DT directed/VBN graph/NN ./.
+The/DT most/RBS informative/JJ and/CC well/RB -/HYPH formed/VBN sub-graph/JJ obtained/VBN by/IN integer/NN linear/JJ programming/NN (/-LRB- ILP/NN )/-RRB- is/VBZ selected/VBN to/TO generate/VB a/DT one/CD -/HYPH sentence/NN summary/NN for/IN each/DT topic/NN segment/NN ./.
+The/DT ILP/NNP formulation/NN reduces/VBZ disfluencies/NNS by/IN leveraging/VBG grammatical/JJ relations/NNS that/WDT are/VBP more/RBR prominent/JJ in/IN non-conversational/JJ style/NN of/IN text/NN ,/, and/CC therefore/RB generates/VBZ summaries/NNS that/WDT is/VBZ comparable/JJ to/IN human/JJ -/HYPH written/VBN abstractive/JJ summaries/NNS ./.
+Experimental/JJ results/NNS show/VBP that/IN our/PRP$ method/NN can/MD generate/VB more/JJR informative/JJ summaries/NNS than/IN the/DT baselines/NNS ./.
+In/IN addition/NN ,/, readability/NN assessments/NNS by/IN human/JJ judges/NNS as/RB well/RB as/IN log/NN -/HYPH likelihood/NN estimates/NNS obtained/VBN from/IN the/DT dependency/NN parser/NN show/VBP that/IN our/PRP$ generated/VBN summaries/NNS are/VBP significantly/RB readable/JJ and/CC well/RB -/HYPH formed/VBN ./.

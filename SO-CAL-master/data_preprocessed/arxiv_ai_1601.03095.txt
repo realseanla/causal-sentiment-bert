@@ -1,0 +1,6 @@
+We/PRP consider/VBP the/DT problem/NN of/IN maximizing/VBG monotone/JJ submodular/JJ functions/NNS under/IN noise/NN ,/, which/WDT to/IN the/DT best/JJS of/IN our/PRP$ knowledge/NN has/VBZ not/RB been/VBN studied/VBN in/IN the/DT past/NN ./.
+There/EX has/VBZ been/VBN a/DT great/JJ deal/NN of/IN work/NN on/IN optimization/NN of/IN submodular/JJ functions/NNS under/IN various/JJ constraints/NNS ,/, with/IN many/JJ algorithms/NNS that/WDT provide/VBP desirable/JJ approximation/NN guarantees/NNS ./.
+However/RB ,/, in/IN many/JJ applications/NNS we/PRP do/VBP not/RB have/VB access/NN to/IN the/DT submodular/JJ function/NN we/PRP aim/VBP to/TO optimize/VB ,/, but/CC rather/RB to/IN some/DT erroneous/JJ or/CC noisy/JJ version/NN of/IN it/PRP ./.
+This/DT raises/VBZ the/DT question/NN of/IN whether/IN provable/JJ guarantees/NNS are/VBP obtainable/JJ in/IN presence/NN of/IN error/NN and/CC noise/NN ./.
+We/PRP provide/VBP initial/JJ answers/NNS ,/, by/IN focusing/VBG on/IN the/DT question/NN of/IN maximizing/VBG a/DT monotone/JJ submodular/JJ function/NN under/IN cardinality/NN constraints/NNS when/WRB given/VBN access/NN to/IN a/DT noisy/JJ oracle/NN of/IN the/DT function/NN ./.
+We/PRP show/VBP that/IN :/:

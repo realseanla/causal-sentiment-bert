@@ -1,0 +1,7 @@
+We/PRP consider/VBP filtering/VBG for/IN a/DT continuous/JJ -/HYPH time/NN ,/, or/CC asynchronous/JJ ,/, stochastic/JJ system/NN where/WRB the/DT full/JJ distribution/NN over/IN states/NNS is/VBZ too/RB large/JJ to/TO be/VB stored/VBN or/CC calculated/VBN ./.
+We/PRP assume/VBP that/IN the/DT rate/NN matrix/NN of/IN the/DT system/NN can/MD be/VB compactly/RB represented/VBN and/CC that/IN the/DT belief/NN distribution/NN is/VBZ to/TO be/VB approximated/VBN as/IN a/DT product/NN of/IN marginals/NNS ./.
+The/DT essential/JJ computation/NN is/VBZ the/DT matrix/NN exponential/JJ ./.
+We/PRP look/VBP at/IN two/CD different/JJ methods/NNS for/IN its/PRP$ computation/NN :/: ODE/NN integration/NN and/CC uniformization/NN of/IN the/DT Taylor/NNP expansion/NN ./.
+For/IN both/DT we/PRP consider/VBP approximations/NNS in/IN which/WDT only/RB a/DT factored/JJ belief/NN state/NN is/VBZ maintained/VBN ./.
+For/IN factored/JJ uniformization/NN we/PRP demonstrate/VBP that/IN the/DT KL/NN -/HYPH divergence/NN of/IN the/DT filtering/NN is/VBZ bounded/VBN ./.
+Our/PRP$ experimental/JJ results/NNS confirm/VBP our/PRP$ factored/JJ uniformization/NN performs/VBZ better/JJR than/IN previously/RB suggested/VBN uniformization/NN methods/NNS and/CC the/DT mean/JJ field/NN algorithm/NN ./.

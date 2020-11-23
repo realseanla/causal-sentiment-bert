@@ -1,0 +1,9 @@
+We/PRP consider/VBP a/DT setting/NN where/WRB a/DT system/NN learns/VBZ to/TO rank/VB a/DT fixed/VBN set/NN of/IN m/NN items/NNS ./.
+The/DT goal/NN is/VBZ produce/VB a/DT good/JJ ranking/NN for/IN users/NNS with/IN diverse/JJ interests/NNS who/WP interact/VBP with/IN the/DT system/NN for/IN T/NN rounds/NNS in/IN an/DT online/JJ fashion/NN ./.
+We/PRP consider/VBP a/DT novel/JJ top/JJ -/HYPH 1/CD feedback/NN model/NN for/IN this/DT problem/NN :/: at/IN the/DT end/NN of/IN each/DT round/NN ,/, the/DT relevance/NN score/NN for/IN only/RB the/DT top/JJ ranked/VBN object/NN is/VBZ revealed/VBN to/IN the/DT system/NN ./.
+However/RB ,/, the/DT performance/NN of/IN the/DT system/NN is/VBZ judged/VBN on/IN the/DT entire/JJ ranked/VBN list/NN ./.
+We/PRP provide/VBP a/DT comprehensive/JJ set/NN of/IN results/NNS regarding/VBG learnability/NN under/IN this/DT challenging/JJ setting/NN ./.
+For/IN popular/JJ ranking/NN measures/NNS such/JJ as/IN PairwiseLoss/NNP and/CC DCG/NNP ,/, we/PRP prove/VBP that/IN the/DT minimax/NN regret/NN is/VBZ of/IN order/NN T/NN ^/SYM {/-LRB- 2/3/CD }/-RRB- ./.
+Moreover/RB ,/, the/DT minimax/NN regret/NN is/VBZ achievable/JJ using/VBG an/DT efficient/JJ algorithmic/JJ strategy/NN that/WDT only/RB spends/VBZ O/NN (/-LRB- m/NN log/NN m/NN )/-RRB- time/NN per/IN round/NN ./.
+The/DT same/JJ algorithmic/JJ strategy/NN achieves/VBZ O/NN (/-LRB- T/NN ^/SYM {/-LRB- 2/3/CD }/-RRB- )/-RRB- regret/NN for/IN Precision/NNP @k/NNP ./.
+Surprisingly/RB ,/, we/PRP show/VBP that/IN for/IN normalized/VBN versions/NNS of/IN these/DT ranking/VBG measures/NNS ,/, namely/RB AUC/NNP ,/, NDCG/NNP and/CC MAP/NN ,/, no/DT online/RB ranking/VBG algorithm/NN can/MD have/VB sub-linear/JJ regret/NN ./.

@@ -1,0 +1,6 @@
+Vehicle/NN Routing/NN Problem/NN is/VBZ a/DT well/RB -/HYPH known/VBN problem/NN in/IN logistics/NNS and/CC transportation/NN ,/, and/CC the/DT variety/NN of/IN such/JJ problems/NNS is/VBZ explained/VBN by/IN the/DT fact/NN that/IN it/PRP occurs/VBZ in/IN many/JJ real/JJ -/HYPH life/NN situations/NNS ./.
+It/PRP is/VBZ an/DT NP/NNP -/HYPH hard/JJ combinatorial/JJ optimization/NN problem/NN and/CC finding/VBG an/DT exact/JJ optimal/JJ solution/NN is/VBZ practically/RB impossible/JJ ./.
+In/IN this/DT work/NN ,/, Site/NNP -/HYPH Dependent/NNP Truck/NNP and/CC Trailer/NNP Routing/NNP Problem/NNP with/IN hard/JJ and/CC soft/JJ Time/NN Windows/NNP and/CC Split/NNP Deliveries/NNPS is/VBZ considered/VBN (/-LRB- SDTTRPTWSD/NN )/-RRB- ./.
+In/IN this/DT article/NN ,/, we/PRP develop/VBP a/DT heuristic/NN with/IN the/DT elements/NNS of/IN Tabu/NNP Search/VB for/IN solving/VBG SDTTRPTWSD/NNP ./.
+The/DT heuristic/NN uses/VBZ the/DT concept/NN of/IN neighborhoods/NNS and/CC visits/NNS infeasible/JJ solutions/NNS during/IN the/DT search/NN ./.
+A/DT greedy/JJ heuristic/NN is/VBZ applied/VBN to/TO construct/VB an/DT initial/JJ solution/NN ./.

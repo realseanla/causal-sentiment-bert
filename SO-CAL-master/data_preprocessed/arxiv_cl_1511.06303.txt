@@ -1,0 +1,8 @@
+Recurrent/JJ neural/JJ networks/NNS are/VBP convenient/JJ and/CC efficient/JJ models/NNS for/IN language/NN modeling/NN ./.
+However/RB ,/, when/WRB applied/VBN on/IN the/DT level/NN of/IN characters/NNS instead/RB of/IN words/NNS ,/, they/PRP suffer/VBP from/IN several/JJ problems/NNS ./.
+In/IN order/NN to/TO successfully/RB model/VB long/JJ -/HYPH term/NN dependencies/NNS ,/, the/DT hidden/JJ representation/NN needs/VBZ to/TO be/VB large/JJ ./.
+This/DT in/IN turn/NN implies/VBZ higher/JJR computational/JJ costs/NNS ,/, which/WDT can/MD become/VB prohibitive/JJ in/IN practice/NN ./.
+We/PRP propose/VBP two/CD alternative/JJ structural/JJ modifications/NNS to/IN the/DT classical/JJ RNN/NN model/NN ./.
+The/DT first/JJ one/CD consists/VBZ on/IN conditioning/VBG the/DT character/NN level/NN representation/NN on/IN the/DT previous/JJ word/NN representation/NN ./.
+The/DT other/JJ one/CD uses/VBZ the/DT character/NN history/NN to/IN condition/NN the/DT output/NN probability/NN ./.
+We/PRP evaluate/VBP the/DT performance/NN of/IN the/DT two/CD proposed/VBN modifications/NNS on/IN challenging/JJ ,/, multi-lingual/JJ real/JJ world/NN data/NNS ./.

@@ -1,0 +1,5 @@
+Numerous/JJ algorithms/NNS are/VBP used/VBN for/IN nonnegative/JJ matrix/NN factorization/NN under/IN the/DT assumption/NN that/IN the/DT matrix/NN is/VBZ nearly/RB separable/JJ ./.
+In/IN this/DT paper/NN ,/, we/PRP show/VBP how/WRB to/TO make/VB these/DT algorithms/NNS efficient/JJ for/IN data/NNS matrices/NNS that/WDT have/VBP many/JJ more/JJR rows/NNS than/IN columns/NNS ,/, so/RB -/HYPH called/VBN "/`` tall/JJ -/HYPH and/CC -/HYPH skinny/JJ matrices/NNS "/'' ./.
+One/CD key/JJ component/NN to/IN these/DT improved/VBN methods/NNS is/VBZ an/DT orthogonal/JJ matrix/NN transformation/NN that/WDT preserves/VBZ the/DT separability/NN of/IN the/DT NMF/NN problem/NN ./.
+Our/PRP$ final/JJ methods/NNS need/VBP a/DT single/JJ pass/NN over/IN the/DT data/NNS matrix/NN and/CC are/VBP suitable/JJ for/IN streaming/NN ,/, multi-core/NN ,/, and/CC MapReduce/NNP architectures/NNS ./.
+We/PRP demonstrate/VBP the/DT efficacy/NN of/IN these/DT algorithms/NNS on/IN terabyte/NN -/HYPH sized/JJ synthetic/JJ matrices/NNS and/CC real/JJ -/HYPH world/NN matrices/NNS from/IN scientific/JJ computing/NN and/CC bioinformatics/NN ./.

@@ -1,0 +1,12 @@
+In/IN this/DT work/NN ,/, we/PRP define/VBP cost/NN -/HYPH free/JJ learning/NN (/-LRB- CFL/NNP )/-RRB- formally/RB in/IN comparison/NN with/IN cost/NN -/HYPH sensitive/JJ learning/NN (/-LRB- CSL/NN )/-RRB- ./.
+The/DT main/JJ difference/NN between/IN them/PRP is/VBZ that/IN a/DT CFL/NNP approach/NN seeks/VBZ optimal/JJ classification/NN results/NNS without/IN requiring/VBG any/DT cost/NN information/NN ,/, even/RB in/IN the/DT class/NN imbalance/NN problem/NN ./.
+In/IN fact/NN ,/, several/JJ CFL/NNP approaches/VBZ exist/VBP in/IN the/DT related/JJ studies/NNS ,/, such/JJ as/IN sampling/NN and/CC some/DT criteria/NNS -/HYPH based/VBN pproaches/NNS ./.
+However/RB ,/, to/IN our/PRP$ best/JJS knowledge/NN ,/, none/NN of/IN the/DT existing/VBG CFL/NNP and/CC CSL/NNP approaches/NNS are/VBP able/JJ to/TO process/VB the/DT abstaining/VBG classifications/NNS properly/RB when/WRB no/DT information/NN is/VBZ given/VBN about/IN errors/NNS and/CC rejects/VBZ ./.
+Based/VBN on/IN information/NN theory/NN ,/, we/PRP propose/VBP a/DT novel/JJ CFL/NNP which/WDT seeks/VBZ to/TO maximize/VB normalized/VBN mutual/JJ information/NN of/IN the/DT targets/NNS and/CC the/DT decision/NN outputs/NNS of/IN classifiers/NNS ./.
+Using/VBG the/DT strategy/NN ,/, we/PRP can/MD deal/VB with/IN binary/NN //HYPH multi-class/NN classifications/NNS with/IN //SYM without/IN abstaining/VBG ./.
+Significant/JJ features/NNS are/VBP observed/VBN from/IN the/DT new/JJ strategy/NN ./.
+While/IN the/DT degree/NN of/IN class/NN imbalance/NN is/VBZ changing/VBG ,/, the/DT proposed/VBN strategy/NN is/VBZ able/JJ to/TO balance/VB the/DT errors/NNS and/CC rejects/VBZ accordingly/RB and/CC automatically/RB ./.
+Another/DT advantage/NN of/IN the/DT strategy/NN is/VBZ its/PRP$ ability/NN of/IN deriving/VBG optimal/JJ rejection/NN thresholds/NNS for/IN abstaining/VBG classifications/NNS and/CC the/DT "/`` equivalent/JJ "/'' costs/NNS in/IN binary/JJ classifications/NNS ./.
+The/DT connection/NN between/IN rejection/NN thresholds/NNS and/CC ROC/NNP curve/NN is/VBZ explored/VBN ./.
+Empirical/JJ investigation/NN is/VBZ made/VBN on/IN several/JJ benchmark/NN data/NN sets/NNS in/IN comparison/NN with/IN other/JJ existing/VBG approaches/NNS ./.
+The/DT classification/NN results/VBZ demonstrate/VBP a/DT promising/JJ perspective/NN of/IN the/DT strategy/NN in/IN machine/NN learning/NN ./.

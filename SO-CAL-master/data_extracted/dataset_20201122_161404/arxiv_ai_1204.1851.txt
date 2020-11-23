@@ -1,0 +1,6 @@
+We present a system for recognising human activity given a symbolic representation of video content.
+The input of our system is a set of time-stamped short-term activities (STA) detected on video frames.
+The output is a set of recognised long-term activities (LTA), which are pre-defined temporal combinations of STA.
+The constraints on the STA that, if satisfied, lead to the recognition of a LTA, have been expressed using a dialect of the Event Calculus.
+In order to handle the uncertainty that naturally occurs in human activity recognition, we adapted this dialect to a state-of-the-art probabilistic logic programming framework.
+We present a detailed evaluation and comparison of the crisp and probabilistic approaches through experimentation on a benchmark dataset of human surveillance videos.

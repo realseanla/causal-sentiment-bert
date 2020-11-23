@@ -1,0 +1,8 @@
+The/DT process/NN of/IN diagnosis/NN involves/VBZ learning/VBG about/IN the/DT state/NN of/IN a/DT system/NN from/IN various/JJ observations/NNS of/IN symptoms/NNS or/CC findings/NNS about/IN the/DT system/NN ./.
+Sophisticated/JJ Bayesian/JJ (/-LRB- and/CC other/JJ )/-RRB- algorithms/NNS have/VBP been/VBN developed/VBN to/TO revise/VB and/CC maintain/VB beliefs/NNS about/IN the/DT system/NN as/IN observations/NNS are/VBP made/VBN ./.
+Nonetheless/RB ,/, diagnostic/JJ models/NNS have/VBP tended/VBN to/TO ignore/VB some/DT common/JJ sense/NN reasoning/NN exploited/VBN by/IN human/JJ diagnosticians/NNS ;/: In/IN particular/JJ ,/, one/PRP can/MD learn/VB from/IN which/WDT observations/NNS have/VBP not/RB been/VBN made/VBN ,/, in/IN the/DT spirit/NN of/IN conversational/JJ implicature/NN ./.
+There/EX are/VBP two/CD concepts/NNS that/WDT we/PRP describe/VBP to/TO extract/VB information/NN from/IN the/DT observations/NNS not/RB made/VBN ./.
+First/RB ,/, some/DT symptoms/NNS ,/, if/IN present/JJ ,/, are/VBP more/RBR likely/JJ to/TO be/VB reported/VBN before/IN others/NNS ./.
+Second/RB ,/, most/JJS human/JJ diagnosticians/NNS and/CC expert/NN systems/NNS are/VBP economical/JJ in/IN their/PRP$ data/NN -/HYPH gathering/NN ,/, searching/VBG first/RB where/WRB they/PRP are/VBP more/RBR likely/JJ to/TO find/VB symptoms/NNS present/JJ ./.
+Thus/RB ,/, there/EX is/VBZ a/DT desirable/JJ bias/NN toward/IN reporting/VBG symptoms/NNS that/WDT are/VBP present/JJ ./.
+We/PRP develop/VBP a/DT simple/JJ model/NN for/IN these/DT concepts/NNS that/WDT can/MD significantly/RB improve/VB diagnostic/JJ inference/NN ./.

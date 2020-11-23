@@ -1,0 +1,7 @@
+Several/JJ techniques/NNS have/VBP been/VBN used/VBN to/TO generate/VB weather/NN forecast/NN texts/NNS ./.
+In/IN this/DT paper/NN ,/, case/NN based/VBN reasoning/NN (/-LRB- CBR/NNP )/-RRB- is/VBZ proposed/VBN for/IN weather/NN forecast/VBN text/NN generation/NN because/IN similar/JJ weather/NN conditions/NNS occur/VBP over/IN time/NN and/CC should/MD have/VB similar/JJ forecast/NN texts/NNS ./.
+CBR/NNP -/HYPH METEO/NNP ,/, a/DT system/NN for/IN generating/VBG weather/NN forecast/NN texts/NNS was/VBD developed/VBN using/VBG a/DT generic/JJ framework/NN (/-LRB- jCOLIBRI/NN )/-RRB- which/WDT provides/VBZ modules/NNS for/IN the/DT standard/JJ components/NNS of/IN the/DT CBR/NNP architecture/NN ./.
+The/DT advantage/NN in/IN a/DT CBR/NNP approach/NN is/VBZ that/IN systems/NNS can/MD be/VB built/VBN in/IN minimal/JJ time/NN with/IN far/RB less/JJR human/JJ effort/NN after/IN initial/JJ consultation/NN with/IN experts/NNS ./.
+The/DT approach/NN depends/VBZ heavily/RB on/IN the/DT goodness/NN of/IN the/DT retrieval/NN and/CC revision/NN components/NNS of/IN the/DT CBR/NNP process/NN ./.
+We/PRP evaluated/VBD CBRMETEO/NNP with/IN NIST/NNP ,/, an/DT automated/VBN metric/JJ which/WDT has/VBZ been/VBN shown/VBN to/TO correlate/VB well/RB with/IN human/JJ judgements/NNS for/IN this/DT domain/NN ./.
+The/DT system/NN shows/VBZ comparable/JJ performance/NN with/IN other/JJ NLG/NNP systems/NNS that/WDT perform/VBP the/DT same/JJ task/NN ./.

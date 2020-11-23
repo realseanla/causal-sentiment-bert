@@ -1,0 +1,4 @@
+In this paper, we first prove a high probability bound rather than an expectation bound for stochastic optimization with smooth loss.
+Furthermore, the existing analysis requires the knowledge of optimal classifier for tuning the step size in order to achieve the desired bound.
+However, this information is usually not accessible in advanced.
+We also propose a strategy to address the limitation.

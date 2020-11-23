@@ -1,0 +1,8 @@
+Deep/JJ neural/JJ networks/NNS (/-LRB- DNNs/NNS )/-RRB- have/VBP set/VBN state/NN of/IN the/DT art/NN results/NNS in/IN many/JJ machine/NN learning/NN and/CC NLP/NN tasks/NNS ./.
+However/RB ,/, we/PRP do/VBP not/RB have/VB a/DT strong/JJ understanding/NN of/IN what/WP DNN/NNP models/NNS learn/VBP ./.
+In/IN this/DT paper/NN ,/, we/PRP examine/VBP learning/VBG in/IN DNNs/NNS through/IN analysis/NN of/IN their/PRP$ outputs/NNS ./.
+We/PRP compare/VBP DNN/NNP performance/NN directly/RB to/IN a/DT human/JJ population/NN ,/, and/CC use/VB characteristics/NNS of/IN individual/JJ data/NNS points/NNS such/JJ as/IN difficulty/NN to/TO see/VB how/WRB well/RB models/NNS perform/VBP on/IN easy/JJ and/CC hard/JJ examples/NNS ./.
+We/PRP investigate/VBP how/WRB training/NN size/NN and/CC the/DT incorporation/NN of/IN noise/NN affect/VBP a/DT DNN/NNP 's/POS ability/NN to/TO generalize/VB and/CC learn/VB ./.
+Our/PRP$ experiments/NNS show/VBP that/IN unlike/IN traditional/JJ machine/NN learning/NN models/NNS (/-LRB- e.g./FW ,/, Naive/JJ Bayes/NNS ,/, Decision/NN Trees/NNS )/-RRB- ,/, DNNs/NNS exhibit/VBP human/JJ -/HYPH like/JJ learning/NN properties/NNS ./.
+As/IN they/PRP are/VBP trained/VBN with/IN more/JJR data/NNS ,/, they/PRP are/VBP more/RBR able/JJ to/TO distinguish/VB between/IN easy/JJ and/CC difficult/JJ items/NNS ,/, and/CC performance/NN on/IN easy/JJ items/NNS improves/VBZ at/IN a/DT higher/JJR rate/NN than/IN difficult/JJ items/NNS ./.
+We/PRP find/VBP that/IN different/JJ DNN/NN models/NNS exhibit/VBP different/JJ strengths/NNS in/IN learning/NN and/CC are/VBP robust/JJ to/IN noise/NN in/IN training/NN data/NNS ./.
