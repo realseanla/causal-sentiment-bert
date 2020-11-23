@@ -39,8 +39,12 @@ def extract_arxiv(categories=("ai", "cl", "lg"), splits=("dev", "test", "train")
                     j_dict = json.load(_json)
                     abstract = clean_abstract(j_dict["abstract"])
                     accepted = j_dict["accepted"]
+                    title = j_dict["title"]
                     if accepted: n_accepted += 1
-                extracted_data["arxiv_" + c + "_" + file_id] = {"abstract": abstract, "split": s, "accepted": accepted}
+                extracted_data["arxiv_" + c + "_" + file_id] = {"title": title,
+                                                                "abstract": abstract,
+                                                                "split": s,
+                                                                "accepted": accepted}
     print(n_accepted)
     return extracted_data
 
@@ -83,7 +87,7 @@ def clean_abstract(_str, rm_cites=True, replace_p=True):
 
 def main():
     extracted_data = extract_arxiv()
-    generate_abstract_files(extracted_data)
+    # generate_abstract_files(extracted_data)
     save_dict(extracted_data)
 
 
