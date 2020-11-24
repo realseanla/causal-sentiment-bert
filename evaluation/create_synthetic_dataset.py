@@ -12,6 +12,7 @@ TODO: Sentiment label must be 0 or 1!
 DATASET_PATH = 'SO-CAL-master/dataset.json'
 SAVE_PATH    = 'evaluation/synthetic/buzzy.json'
 BUZZY_WORDS  = ['deep','neural','embed','adversarial net']
+numpy.random.seed(0)
 
 
 def load_json(path):
