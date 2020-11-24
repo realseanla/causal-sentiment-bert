@@ -5,6 +5,8 @@ import numpy
 
 """
 Run: python create_synthetic_dataset.py
+
+TODO: Sentiment label must be 0 or 1!
 """
 
 DATASET_PATH = 'SO-CAL-master/dataset.json'
