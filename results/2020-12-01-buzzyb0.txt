@@ -1,0 +1,74 @@
+!python3 CausalBert.py /content/sentiment-causal-bert/evaluation/synthetic/buzzyb0.json --format json --outcome accepted --treatment sentiment --sentiment --text abstract --confounder confounder --epochs 50 --cutoff 0
+2020-12-01 22:19:54.577851: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+10:19:56 PM (3405 ms) -> INFO: Reading data from /content/sentiment-causal-bert/evaluation/synthetic/buzzyb0.json
+10:19:59 PM (6318 ms) -> INFO: Preprocessing data...
+10:19:59 PM (6318 ms) -> INFO: Using sentiment as treatment
+10:19:59 PM (6318 ms) -> INFO: Positive sentiment set to be > 0.0
+10:19:59 PM (6326 ms) -> INFO: Splitting into train and test...
+10:19:59 PM (6331 ms) -> INFO: NumExpr defaulting to 2 threads.
+Some weights of CausalBert were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['Q_cls.0.0.weight', 'Q_cls.0.0.bias', 'Q_cls.0.2.weight', 'Q_cls.0.2.bias', 'Q_cls.1.0.weight', 'Q_cls.1.0.bias', 'Q_cls.1.2.weight', 'Q_cls.1.2.bias', 'g_cls.weight', 'g_cls.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+10:20:08 PM (15024 ms) -> INFO: Training Sentiment Causal BERT for 50 epoch(s)...
+/usr/local/lib/python3.6/dist-packages/transformers/tokenization_utils_base.py:2142: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+  0% 0/5300 [00:00<?, ?it/s]CausalBert.py:145: UserWarning: This overload of nonzero is deprecated:
+	nonzero()
+Consider using one of the following signatures instead:
+	nonzero(*, bool as_tuple) (Triggered internally at  /pytorch/torch/csrc/utils/python_arg_parser.cpp:882.)
+  T0_indices = (T == 0).nonzero().squeeze()
+100% 5300/5300 [03:33<00:00, 24.82it/s]
+100% 5300/5300 [03:33<00:00, 24.78it/s]
+100% 5300/5300 [03:36<00:00, 24.53it/s]
+100% 5300/5300 [03:33<00:00, 24.80it/s]
+100% 5300/5300 [03:34<00:00, 24.69it/s]
+100% 5300/5300 [03:34<00:00, 24.75it/s]
+100% 5300/5300 [03:33<00:00, 24.81it/s]
+100% 5300/5300 [03:33<00:00, 24.86it/s]
+100% 5300/5300 [03:28<00:00, 25.36it/s]
+100% 5300/5300 [03:33<00:00, 24.77it/s]
+100% 5300/5300 [03:35<00:00, 24.58it/s]
+100% 5300/5300 [03:35<00:00, 24.58it/s]
+100% 5300/5300 [03:34<00:00, 24.66it/s]
+100% 5300/5300 [03:36<00:00, 24.47it/s]
+100% 5300/5300 [03:35<00:00, 24.58it/s]
+100% 5300/5300 [03:35<00:00, 24.63it/s]
+100% 5300/5300 [03:34<00:00, 24.71it/s]
+100% 5300/5300 [03:36<00:00, 24.46it/s]
+100% 5300/5300 [03:36<00:00, 24.51it/s]
+100% 5300/5300 [03:36<00:00, 24.48it/s]
+100% 5300/5300 [03:33<00:00, 24.78it/s]
+100% 5300/5300 [03:33<00:00, 24.87it/s]
+100% 5300/5300 [03:35<00:00, 24.63it/s]
+100% 5300/5300 [03:33<00:00, 24.83it/s]
+100% 5300/5300 [03:34<00:00, 24.70it/s]
+100% 5300/5300 [03:36<00:00, 24.51it/s]
+100% 5300/5300 [03:33<00:00, 24.79it/s]
+100% 5300/5300 [03:32<00:00, 24.94it/s]
+100% 5300/5300 [03:32<00:00, 24.90it/s]
+100% 5300/5300 [03:32<00:00, 24.92it/s]
+100% 5300/5300 [03:33<00:00, 24.84it/s]
+100% 5300/5300 [03:36<00:00, 24.51it/s]
+100% 5300/5300 [03:36<00:00, 24.52it/s]
+100% 5300/5300 [03:32<00:00, 24.99it/s]
+100% 5300/5300 [03:35<00:00, 24.62it/s]
+100% 5300/5300 [03:35<00:00, 24.58it/s]
+100% 5300/5300 [03:36<00:00, 24.52it/s]
+100% 5300/5300 [03:35<00:00, 24.60it/s]
+100% 5300/5300 [03:36<00:00, 24.51it/s]
+100% 5300/5300 [03:35<00:00, 24.62it/s]
+100% 5300/5300 [03:35<00:00, 24.65it/s]
+100% 5300/5300 [03:35<00:00, 24.55it/s]
+100% 5300/5300 [03:35<00:00, 24.64it/s]
+100% 5300/5300 [03:37<00:00, 24.36it/s]
+100% 5300/5300 [03:37<00:00, 24.41it/s]
+100% 5300/5300 [03:37<00:00, 24.36it/s]
+100% 5300/5300 [03:37<00:00, 24.33it/s]
+100% 5300/5300 [03:36<00:00, 24.43it/s]
+100% 5300/5300 [03:38<00:00, 24.25it/s]
+100% 5300/5300 [03:37<00:00, 24.34it/s]
+01:19:56 AM (10803760 ms) -> INFO: Calculating ATT...
+100% 590/590 [00:05<00:00, 99.92it/s] 
+01:20:07 AM (10813993 ms) -> INFO: ATT = 0.07617753684983422
+01:20:07 AM (10813993 ms) -> INFO: Calculating ATE...
+100% 590/590 [00:05<00:00, 104.17it/s]
+01:20:17 AM (10823996 ms) -> INFO: ATE = 0.08570403004362316
