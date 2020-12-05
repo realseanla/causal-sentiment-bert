@@ -14,6 +14,9 @@ for column in sentiment:
 df.loc[:, 'sentiment'] = (df['pos'].to_numpy() > df['neg'].to_numpy()) & (df['pos'].to_numpy() > df['neu'].to_numpy())
 df.loc[:, 'sentiment'] = df['sentiment'].astype(int)
 
+df.loc[:, 'score'] = (df.score > np.mean(df.score))
+df.loc[:, 'score'] = df['score'].astype(int)
+
 df = df[['comment', 'score', 'sentiment']]
 
 train, test = train_test_split(df, train_size=0.9, random_state=0)
