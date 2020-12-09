@@ -1,0 +1,282 @@
+2020-12-06 03:03:26.592902: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+03:03:29 AM (5624 ms) -> INFO: Reading data from /content/sentiment-causal-bert/evaluation/synthetic/buzzyb0.json
+03:03:32 AM (8468 ms) -> INFO: Preprocessing data...
+03:03:32 AM (8469 ms) -> INFO: Using sentiment as treatment
+03:03:32 AM (8469 ms) -> INFO: Positive sentiment set to be > 0.0
+03:03:32 AM (8479 ms) -> INFO: Splitting into train and test...
+03:03:32 AM (8497 ms) -> INFO: NumExpr defaulting to 2 threads.
+03:03:32 AM (8786 ms) -> INFO: Lock 140569666095760 acquired on /root/.cache/huggingface/transformers/23454919702d26495337f3da04d1655c7ee010d5ec9d77bdb9e399e00302c0a1.d423bdf2f58dc8b77d5f5d18028d7ae4a72dcfd8f468e81fe979ada957a8c361.lock
+Downloading: 100% 442/442 [00:00<00:00, 334kB/s]
+03:03:32 AM (9076 ms) -> INFO: Lock 140569666095760 released on /root/.cache/huggingface/transformers/23454919702d26495337f3da04d1655c7ee010d5ec9d77bdb9e399e00302c0a1.d423bdf2f58dc8b77d5f5d18028d7ae4a72dcfd8f468e81fe979ada957a8c361.lock
+03:03:32 AM (9350 ms) -> INFO: Lock 140569685538520 acquired on /root/.cache/huggingface/transformers/9c169103d7e5a73936dd2b627e42851bec0831212b677c637033ee4bce9ab5ee.126183e36667471617ae2f0835fab707baa54b731f991507ebbb55ea85adb12a.lock
+Downloading: 100% 268M/268M [00:03<00:00, 84.7MB/s]
+03:03:36 AM (12576 ms) -> INFO: Lock 140569685538520 released on /root/.cache/huggingface/transformers/9c169103d7e5a73936dd2b627e42851bec0831212b677c637033ee4bce9ab5ee.126183e36667471617ae2f0835fab707baa54b731f991507ebbb55ea85adb12a.lock
+Some weights of CausalBert were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['Q_cls.0.0.weight', 'Q_cls.0.0.bias', 'Q_cls.0.2.weight', 'Q_cls.0.2.bias', 'Q_cls.1.0.weight', 'Q_cls.1.0.bias', 'Q_cls.1.2.weight', 'Q_cls.1.2.bias', 'g_cls.weight', 'g_cls.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+03:03:48 AM (25215 ms) -> INFO: Training Sentiment Causal BERT for 50 epoch(s)...
+03:03:49 AM (25492 ms) -> INFO: Lock 140569678124312 acquired on /root/.cache/huggingface/transformers/45c3f7a79a80e1cf0a489e5c62b43f173c15db47864303a55d623bb3c96f72a5.d789d64ebfe299b0e416afc4a169632f903f693095b4629a7ea271d5a0cf2c99.lock
+Downloading: 100% 232k/232k [00:00<00:00, 702kB/s]
+03:03:49 AM (26101 ms) -> INFO: Lock 140569678124312 released on /root/.cache/huggingface/transformers/45c3f7a79a80e1cf0a489e5c62b43f173c15db47864303a55d623bb3c96f72a5.d789d64ebfe299b0e416afc4a169632f903f693095b4629a7ea271d5a0cf2c99.lock
+/usr/local/lib/python3.6/dist-packages/transformers/tokenization_utils_base.py:2142: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+  0% 0/5300 [00:00<?, ?it/s]CausalBert.py:145: UserWarning: This overload of nonzero is deprecated:
+	nonzero()
+Consider using one of the following signatures instead:
+	nonzero(*, bool as_tuple) (Triggered internally at  /pytorch/torch/csrc/utils/python_arg_parser.cpp:882.)
+  T0_indices = (T == 0).nonzero().squeeze()
+100% 5300/5300 [03:18<00:00, 26.65it/s]
+03:07:42 AM (258733 ms) -> INFO: Epoch 0 total loss: 2.3706310427427852
+03:07:42 AM (258733 ms) -> INFO: Epoch 0 propensity loss: 0.5611686858956544
+03:07:42 AM (258733 ms) -> INFO: Epoch 0 conditional outcome loss: 0.9046503018320732
+03:07:42 AM (258733 ms) -> INFO: Epoch 0 masked language model loss: 2.2240491424875986
+100% 5300/5300 [03:19<00:00, 26.53it/s]
+03:11:02 AM (458485 ms) -> INFO: Epoch 1 total loss: 2.281783213729285
+03:11:02 AM (458485 ms) -> INFO: Epoch 1 propensity loss: 0.4830490793990639
+03:11:02 AM (458485 ms) -> INFO: Epoch 1 conditional outcome loss: 0.8926485900890152
+03:11:02 AM (458485 ms) -> INFO: Epoch 1 masked language model loss: 2.14421344433099
+100% 5300/5300 [03:22<00:00, 26.20it/s]
+03:14:24 AM (660751 ms) -> INFO: Epoch 2 total loss: 2.2930449869610228
+03:14:24 AM (660751 ms) -> INFO: Epoch 2 propensity loss: 0.4725944874787106
+03:14:24 AM (660751 ms) -> INFO: Epoch 2 conditional outcome loss: 0.8986103197313705
+03:14:24 AM (660751 ms) -> INFO: Epoch 2 masked language model loss: 2.155924502915785
+100% 5300/5300 [03:22<00:00, 26.23it/s]
+03:17:46 AM (862806 ms) -> INFO: Epoch 3 total loss: 2.3387336250928774
+03:17:46 AM (862806 ms) -> INFO: Epoch 3 propensity loss: 0.4554737183985845
+03:17:46 AM (862806 ms) -> INFO: Epoch 3 conditional outcome loss: 0.8908718856550613
+03:17:46 AM (862807 ms) -> INFO: Epoch 3 masked language model loss: 2.2040990630501955
+100% 5300/5300 [03:24<00:00, 25.90it/s]
+03:21:11 AM (1067442 ms) -> INFO: Epoch 4 total loss: 2.4271126642907563
+03:21:11 AM (1067442 ms) -> INFO: Epoch 4 propensity loss: 0.4385314870829571
+03:21:11 AM (1067442 ms) -> INFO: Epoch 4 conditional outcome loss: 0.8958050305832107
+03:21:11 AM (1067442 ms) -> INFO: Epoch 4 masked language model loss: 2.2936790095807695
+100% 5300/5300 [03:27<00:00, 25.58it/s]
+03:24:38 AM (1274673 ms) -> INFO: Epoch 5 total loss: 2.4828665401196144
+03:24:38 AM (1274673 ms) -> INFO: Epoch 5 propensity loss: 0.41689380678436105
+03:24:38 AM (1274673 ms) -> INFO: Epoch 5 conditional outcome loss: 0.8994539199347766
+03:24:38 AM (1274673 ms) -> INFO: Epoch 5 masked language model loss: 2.3512317642992535
+100% 5300/5300 [03:27<00:00, 25.58it/s]
+03:28:05 AM (1481837 ms) -> INFO: Epoch 6 total loss: 2.504232113681171
+03:28:05 AM (1481838 ms) -> INFO: Epoch 6 propensity loss: 0.3969515417363354
+03:28:05 AM (1481838 ms) -> INFO: Epoch 6 conditional outcome loss: 0.8938831915383069
+03:28:05 AM (1481838 ms) -> INFO: Epoch 6 masked language model loss: 2.3751486392915817
+100% 5300/5300 [03:27<00:00, 25.54it/s]
+03:31:32 AM (1689326 ms) -> INFO: Epoch 7 total loss: 2.5552283357168144
+03:31:32 AM (1689326 ms) -> INFO: Epoch 7 propensity loss: 0.3817546539692173
+03:31:32 AM (1689326 ms) -> INFO: Epoch 7 conditional outcome loss: 0.8949511610955562
+03:31:32 AM (1689326 ms) -> INFO: Epoch 7 masked language model loss: 2.4275577514326616
+100% 5300/5300 [03:27<00:00, 25.59it/s]
+03:35:00 AM (1896458 ms) -> INFO: Epoch 8 total loss: 2.5279382019609495
+03:35:00 AM (1896458 ms) -> INFO: Epoch 8 propensity loss: 0.3668367476195519
+03:35:00 AM (1896458 ms) -> INFO: Epoch 8 conditional outcome loss: 0.8963655457181751
+03:35:00 AM (1896458 ms) -> INFO: Epoch 8 masked language model loss: 2.4016179694988895
+100% 5300/5300 [03:28<00:00, 25.43it/s]
+03:38:28 AM (2104911 ms) -> INFO: Epoch 9 total loss: 2.5402804515714634
+03:38:28 AM (2104911 ms) -> INFO: Epoch 9 propensity loss: 0.35577248330368605
+03:38:28 AM (2104911 ms) -> INFO: Epoch 9 conditional outcome loss: 0.8905965692198502
+03:38:28 AM (2104911 ms) -> INFO: Epoch 9 masked language model loss: 2.415643545182227
+100% 5300/5300 [03:26<00:00, 25.63it/s]
+03:41:55 AM (2311712 ms) -> INFO: Epoch 10 total loss: 2.5611360971179775
+03:41:55 AM (2311712 ms) -> INFO: Epoch 10 propensity loss: 0.34250351867194834
+03:41:55 AM (2311712 ms) -> INFO: Epoch 10 conditional outcome loss: 0.8920128953681802
+03:41:55 AM (2311712 ms) -> INFO: Epoch 10 masked language model loss: 2.4376844524686363
+100% 5300/5300 [03:25<00:00, 25.83it/s]
+03:45:20 AM (2516942 ms) -> INFO: Epoch 11 total loss: 2.5287757679257754
+03:45:20 AM (2516942 ms) -> INFO: Epoch 11 propensity loss: 0.32797923645435145
+03:45:20 AM (2516942 ms) -> INFO: Epoch 11 conditional outcome loss: 0.8887960276569961
+03:45:20 AM (2516942 ms) -> INFO: Epoch 11 masked language model loss: 2.4070982398289975
+100% 5300/5300 [03:28<00:00, 25.38it/s]
+03:48:49 AM (2725780 ms) -> INFO: Epoch 12 total loss: 2.51725747872636
+03:48:49 AM (2725781 ms) -> INFO: Epoch 12 propensity loss: 0.3196485293348636
+03:48:49 AM (2725781 ms) -> INFO: Epoch 12 conditional outcome loss: 0.8963248293242364
+03:48:49 AM (2725781 ms) -> INFO: Epoch 12 masked language model loss: 2.3956601384837266
+100% 5300/5300 [03:28<00:00, 25.40it/s]
+03:52:18 AM (2934455 ms) -> INFO: Epoch 13 total loss: 2.5143912308754506
+03:52:18 AM (2934455 ms) -> INFO: Epoch 13 propensity loss: 0.3082494827121593
+03:52:18 AM (2934455 ms) -> INFO: Epoch 13 conditional outcome loss: 0.8889980160234109
+03:52:18 AM (2934455 ms) -> INFO: Epoch 13 masked language model loss: 2.3946664761743968
+100% 5300/5300 [03:27<00:00, 25.57it/s]
+03:55:45 AM (3141768 ms) -> INFO: Epoch 14 total loss: 2.522929751440039
+03:55:45 AM (3141768 ms) -> INFO: Epoch 14 propensity loss: 0.2932678077478656
+03:55:45 AM (3141768 ms) -> INFO: Epoch 14 conditional outcome loss: 0.8796546260478362
+03:55:45 AM (3141768 ms) -> INFO: Epoch 14 masked language model loss: 2.4056375062591786
+100% 5300/5300 [03:22<00:00, 26.13it/s]
+03:59:08 AM (3344613 ms) -> INFO: Epoch 15 total loss: 2.4513017975321074
+03:59:08 AM (3344613 ms) -> INFO: Epoch 15 propensity loss: 0.2827488010944052
+03:59:08 AM (3344613 ms) -> INFO: Epoch 15 conditional outcome loss: 0.8821933107331114
+03:59:08 AM (3344613 ms) -> INFO: Epoch 15 masked language model loss: 2.3348075836249187
+100% 5300/5300 [03:27<00:00, 25.58it/s]
+04:02:35 AM (3551785 ms) -> INFO: Epoch 16 total loss: 2.498712235788973
+04:02:35 AM (3551786 ms) -> INFO: Epoch 16 propensity loss: 0.26966335785231454
+04:02:35 AM (3551786 ms) -> INFO: Epoch 16 conditional outcome loss: 0.8788862647537915
+04:02:35 AM (3551786 ms) -> INFO: Epoch 16 masked language model loss: 2.3838572700254153
+100% 5300/5300 [03:24<00:00, 25.92it/s]
+04:05:59 AM (3756297 ms) -> INFO: Epoch 17 total loss: 2.468322981858169
+04:05:59 AM (3756297 ms) -> INFO: Epoch 17 propensity loss: 0.2568882261866699
+04:05:59 AM (3756297 ms) -> INFO: Epoch 17 conditional outcome loss: 0.8799847502922112
+04:05:59 AM (3756297 ms) -> INFO: Epoch 17 masked language model loss: 2.3546356835676727
+100% 5300/5300 [03:24<00:00, 25.88it/s]
+04:09:24 AM (3961078 ms) -> INFO: Epoch 18 total loss: 2.458017116453288
+04:09:24 AM (3961078 ms) -> INFO: Epoch 18 propensity loss: 0.24472568252035481
+04:09:24 AM (3961078 ms) -> INFO: Epoch 18 conditional outcome loss: 0.8697443778728539
+04:09:24 AM (3961078 ms) -> INFO: Epoch 18 masked language model loss: 2.3465701081852375
+100% 5300/5300 [03:24<00:00, 25.96it/s]
+04:12:48 AM (4165231 ms) -> INFO: Epoch 19 total loss: 2.440216246678863
+04:12:48 AM (4165231 ms) -> INFO: Epoch 19 propensity loss: 0.2326630521719871
+04:12:48 AM (4165231 ms) -> INFO: Epoch 19 conditional outcome loss: 0.865709742943071
+04:12:48 AM (4165231 ms) -> INFO: Epoch 19 masked language model loss: 2.3303789684692364
+100% 5300/5300 [03:26<00:00, 25.64it/s]
+04:16:15 AM (4371979 ms) -> INFO: Epoch 20 total loss: 2.4205177571519085
+04:16:15 AM (4371979 ms) -> INFO: Epoch 20 propensity loss: 0.21085493161036625
+04:16:15 AM (4371979 ms) -> INFO: Epoch 20 conditional outcome loss: 0.857118373248937
+04:16:15 AM (4371979 ms) -> INFO: Epoch 20 masked language model loss: 2.3137204265791715
+100% 5300/5300 [03:28<00:00, 25.44it/s]
+04:19:43 AM (4580323 ms) -> INFO: Epoch 21 total loss: 2.4147341000337925
+04:19:43 AM (4580323 ms) -> INFO: Epoch 21 propensity loss: 0.20400418005496557
+04:19:43 AM (4580323 ms) -> INFO: Epoch 21 conditional outcome loss: 0.8575240830711599
+04:19:43 AM (4580323 ms) -> INFO: Epoch 21 masked language model loss: 2.3085812714985856
+100% 5300/5300 [03:30<00:00, 25.21it/s]
+04:23:14 AM (4790560 ms) -> INFO: Epoch 22 total loss: 2.4402679026415046
+04:23:14 AM (4790560 ms) -> INFO: Epoch 22 propensity loss: 0.19014453495176123
+04:23:14 AM (4790560 ms) -> INFO: Epoch 22 conditional outcome loss: 0.8448778428109187
+04:23:14 AM (4790560 ms) -> INFO: Epoch 22 masked language model loss: 2.3367656629091536
+100% 5300/5300 [03:28<00:00, 25.44it/s]
+04:26:42 AM (4998936 ms) -> INFO: Epoch 23 total loss: 2.3814387741470533
+04:26:42 AM (4998937 ms) -> INFO: Epoch 23 propensity loss: 0.1716317409277127
+04:26:42 AM (4998937 ms) -> INFO: Epoch 23 conditional outcome loss: 0.8388357390603929
+04:26:42 AM (4998937 ms) -> INFO: Epoch 23 masked language model loss: 2.2803920250768783
+100% 5300/5300 [03:24<00:00, 25.91it/s]
+04:30:07 AM (5203465 ms) -> INFO: Epoch 24 total loss: 2.4136139073792213
+04:30:07 AM (5203465 ms) -> INFO: Epoch 24 propensity loss: 0.16281126725826703
+04:30:07 AM (5203465 ms) -> INFO: Epoch 24 conditional outcome loss: 0.8222385996833163
+04:30:07 AM (5203465 ms) -> INFO: Epoch 24 masked language model loss: 2.315108919137446
+100% 5300/5300 [03:25<00:00, 25.78it/s]
+04:33:32 AM (5409061 ms) -> INFO: Epoch 25 total loss: 2.4023484345803143
+04:33:32 AM (5409061 ms) -> INFO: Epoch 25 propensity loss: 0.14991887760961034
+04:33:32 AM (5409061 ms) -> INFO: Epoch 25 conditional outcome loss: 0.8182004733917848
+04:33:32 AM (5409061 ms) -> INFO: Epoch 25 masked language model loss: 2.3055364979202677
+100% 5300/5300 [03:22<00:00, 26.21it/s]
+04:36:54 AM (5611268 ms) -> INFO: Epoch 26 total loss: 2.3723785466275547
+04:36:54 AM (5611268 ms) -> INFO: Epoch 26 propensity loss: 0.14169796661045628
+04:36:54 AM (5611268 ms) -> INFO: Epoch 26 conditional outcome loss: 0.806253930901019
+04:36:54 AM (5611268 ms) -> INFO: Epoch 26 masked language model loss: 2.27758335447326
+100% 5300/5300 [03:20<00:00, 26.41it/s]
+04:40:15 AM (5811950 ms) -> INFO: Epoch 27 total loss: 2.3429318415556315
+04:40:15 AM (5811950 ms) -> INFO: Epoch 27 propensity loss: 0.1291862500508446
+04:40:15 AM (5811950 ms) -> INFO: Epoch 27 conditional outcome loss: 0.7843863470065144
+04:40:15 AM (5811950 ms) -> INFO: Epoch 27 masked language model loss: 2.251574579695427
+100% 5300/5300 [03:17<00:00, 26.80it/s]
+04:43:33 AM (6009696 ms) -> INFO: Epoch 28 total loss: 2.300413498685186
+04:43:33 AM (6009696 ms) -> INFO: Epoch 28 propensity loss: 0.12057622559622753
+04:43:33 AM (6009697 ms) -> INFO: Epoch 28 conditional outcome loss: 0.7746925802233646
+04:43:33 AM (6009697 ms) -> INFO: Epoch 28 masked language model loss: 2.210886616137879
+100% 5300/5300 [03:16<00:00, 26.91it/s]
+04:46:50 AM (6206688 ms) -> INFO: Epoch 29 total loss: 2.3402982218106683
+04:46:50 AM (6206688 ms) -> INFO: Epoch 29 propensity loss: 0.10919582028848177
+04:46:50 AM (6206688 ms) -> INFO: Epoch 29 conditional outcome loss: 0.7555405458315926
+04:46:50 AM (6206688 ms) -> INFO: Epoch 29 masked language model loss: 2.253824586930566
+100% 5300/5300 [03:14<00:00, 27.32it/s]
+04:50:04 AM (6400708 ms) -> INFO: Epoch 30 total loss: 2.348561382133092
+04:50:04 AM (6400708 ms) -> INFO: Epoch 30 propensity loss: 0.10086575797547771
+04:50:04 AM (6400708 ms) -> INFO: Epoch 30 conditional outcome loss: 0.7429620628375209
+04:50:04 AM (6400708 ms) -> INFO: Epoch 30 masked language model loss: 2.264178598085762
+100% 5300/5300 [03:13<00:00, 27.42it/s]
+04:53:17 AM (6594016 ms) -> INFO: Epoch 31 total loss: 2.3572284535023402
+04:53:17 AM (6594016 ms) -> INFO: Epoch 31 propensity loss: 0.09697895508895993
+04:53:17 AM (6594017 ms) -> INFO: Epoch 31 conditional outcome loss: 0.7180979386773312
+04:53:17 AM (6594017 ms) -> INFO: Epoch 31 masked language model loss: 2.275720763643014
+100% 5300/5300 [03:12<00:00, 27.55it/s]
+04:56:30 AM (6786405 ms) -> INFO: Epoch 32 total loss: 2.3331611088821487
+04:56:30 AM (6786405 ms) -> INFO: Epoch 32 propensity loss: 0.0858403323450357
+04:56:30 AM (6786405 ms) -> INFO: Epoch 32 conditional outcome loss: 0.6969467580409826
+04:56:30 AM (6786405 ms) -> INFO: Epoch 32 masked language model loss: 2.2548823959602537
+100% 5300/5300 [03:13<00:00, 27.43it/s]
+04:59:43 AM (6979643 ms) -> INFO: Epoch 33 total loss: 2.321834993437987
+04:59:43 AM (6979643 ms) -> INFO: Epoch 33 propensity loss: 0.07885131413498696
+04:59:43 AM (6979643 ms) -> INFO: Epoch 33 conditional outcome loss: 0.6710823212154561
+04:59:43 AM (6979643 ms) -> INFO: Epoch 33 masked language model loss: 2.2468416276413015
+100% 5300/5300 [03:13<00:00, 27.40it/s]
+05:02:56 AM (7173073 ms) -> INFO: Epoch 34 total loss: 2.3460137343332876
+05:02:56 AM (7173073 ms) -> INFO: Epoch 34 propensity loss: 0.0737357714126466
+05:02:56 AM (7173073 ms) -> INFO: Epoch 34 conditional outcome loss: 0.6560959645515343
+05:02:56 AM (7173073 ms) -> INFO: Epoch 34 masked language model loss: 2.2730305593882645
+100% 5300/5300 [03:11<00:00, 27.67it/s]
+05:06:08 AM (7364629 ms) -> INFO: Epoch 35 total loss: 2.2298614129569945
+05:06:08 AM (7364629 ms) -> INFO: Epoch 35 propensity loss: 0.07050835159548569
+05:06:08 AM (7364629 ms) -> INFO: Epoch 35 conditional outcome loss: 0.6360485488789613
+05:06:08 AM (7364629 ms) -> INFO: Epoch 35 masked language model loss: 2.1592057219545424
+100% 5300/5300 [03:11<00:00, 27.68it/s]
+05:09:19 AM (7556077 ms) -> INFO: Epoch 36 total loss: 2.247304159323597
+05:09:19 AM (7556077 ms) -> INFO: Epoch 36 propensity loss: 0.06391093186347069
+05:09:19 AM (7556077 ms) -> INFO: Epoch 36 conditional outcome loss: 0.6086659662084619
+05:09:19 AM (7556077 ms) -> INFO: Epoch 36 masked language model loss: 2.1800464667570445
+100% 5300/5300 [03:10<00:00, 27.86it/s]
+05:12:29 AM (7746288 ms) -> INFO: Epoch 37 total loss: 2.216728186623879
+05:12:29 AM (7746288 ms) -> INFO: Epoch 37 propensity loss: 0.06067114192805406
+05:12:29 AM (7746288 ms) -> INFO: Epoch 37 conditional outcome loss: 0.5861379726380461
+05:12:29 AM (7746288 ms) -> INFO: Epoch 37 masked language model loss: 2.152047276433898
+100% 5300/5300 [03:11<00:00, 27.69it/s]
+05:15:41 AM (7937708 ms) -> INFO: Epoch 38 total loss: 2.2958992916512533
+05:15:41 AM (7937708 ms) -> INFO: Epoch 38 propensity loss: 0.05974083255568258
+05:15:41 AM (7937708 ms) -> INFO: Epoch 38 conditional outcome loss: 0.5636440483321664
+05:15:41 AM (7937708 ms) -> INFO: Epoch 38 masked language model loss: 2.2335608012620423
+100% 5300/5300 [03:12<00:00, 27.51it/s]
+05:18:53 AM (8130348 ms) -> INFO: Epoch 39 total loss: 2.232761642632672
+05:18:53 AM (8130348 ms) -> INFO: Epoch 39 propensity loss: 0.05785582301481078
+05:18:53 AM (8130348 ms) -> INFO: Epoch 39 conditional outcome loss: 0.5366645540221471
+05:18:53 AM (8130348 ms) -> INFO: Epoch 39 masked language model loss: 2.1733096047870046
+100% 5300/5300 [03:11<00:00, 27.74it/s]
+05:22:05 AM (8321433 ms) -> INFO: Epoch 40 total loss: 2.2273914867636027
+05:22:05 AM (8321434 ms) -> INFO: Epoch 40 propensity loss: 0.054567873316015446
+05:22:05 AM (8321434 ms) -> INFO: Epoch 40 conditional outcome loss: 0.513024935613931
+05:22:05 AM (8321434 ms) -> INFO: Epoch 40 masked language model loss: 2.1706322049574234
+100% 5300/5300 [03:12<00:00, 27.60it/s]
+05:25:17 AM (8513495 ms) -> INFO: Epoch 41 total loss: 2.1808042257729006
+05:25:17 AM (8513495 ms) -> INFO: Epoch 41 propensity loss: 0.04926489011712441
+05:25:17 AM (8513495 ms) -> INFO: Epoch 41 conditional outcome loss: 0.4944389529643967
+05:25:17 AM (8513495 ms) -> INFO: Epoch 41 masked language model loss: 2.126433841345805
+100% 5300/5300 [03:11<00:00, 27.66it/s]
+05:28:28 AM (8705079 ms) -> INFO: Epoch 42 total loss: 2.2240899549078916
+05:28:28 AM (8705079 ms) -> INFO: Epoch 42 propensity loss: 0.045470637873705366
+05:28:28 AM (8705079 ms) -> INFO: Epoch 42 conditional outcome loss: 0.4779167660967148
+05:28:28 AM (8705079 ms) -> INFO: Epoch 42 masked language model loss: 2.171751215575616
+100% 5300/5300 [03:11<00:00, 27.72it/s]
+05:31:39 AM (8896249 ms) -> INFO: Epoch 43 total loss: 2.163108540635758
+05:31:39 AM (8896249 ms) -> INFO: Epoch 43 propensity loss: 0.045798939888970644
+05:31:39 AM (8896249 ms) -> INFO: Epoch 43 conditional outcome loss: 0.460335310245952
+05:31:39 AM (8896249 ms) -> INFO: Epoch 43 masked language model loss: 2.112495114572267
+100% 5300/5300 [03:15<00:00, 27.17it/s]
+05:34:54 AM (9091322 ms) -> INFO: Epoch 44 total loss: 2.1980541135459473
+05:34:54 AM (9091323 ms) -> INFO: Epoch 44 propensity loss: 0.04323731584189721
+05:34:54 AM (9091323 ms) -> INFO: Epoch 44 conditional outcome loss: 0.44241235480197916
+05:34:54 AM (9091323 ms) -> INFO: Epoch 44 masked language model loss: 2.149489146059685
+100% 5300/5300 [03:12<00:00, 27.59it/s]
+05:38:07 AM (9283457 ms) -> INFO: Epoch 45 total loss: 2.1369533163107017
+05:38:07 AM (9283457 ms) -> INFO: Epoch 45 propensity loss: 0.04370559011129972
+05:38:07 AM (9283457 ms) -> INFO: Epoch 45 conditional outcome loss: 0.4234899690175508
+05:38:07 AM (9283457 ms) -> INFO: Epoch 45 masked language model loss: 2.0902337610681325
+100% 5300/5300 [03:12<00:00, 27.46it/s]
+05:41:20 AM (9476442 ms) -> INFO: Epoch 46 total loss: 2.2302172943731806
+05:41:20 AM (9476443 ms) -> INFO: Epoch 46 propensity loss: 0.03948357224132389
+05:41:20 AM (9476443 ms) -> INFO: Epoch 46 conditional outcome loss: 0.4163983515752172
+05:41:20 AM (9476443 ms) -> INFO: Epoch 46 masked language model loss: 2.1846290997897477
+100% 5300/5300 [03:12<00:00, 27.54it/s]
+05:44:32 AM (9668899 ms) -> INFO: Epoch 47 total loss: 2.1642573219683143
+05:44:32 AM (9668900 ms) -> INFO: Epoch 47 propensity loss: 0.03763987610284818
+05:44:32 AM (9668900 ms) -> INFO: Epoch 47 conditional outcome loss: 0.4097077795554541
+05:44:32 AM (9668900 ms) -> INFO: Epoch 47 masked language model loss: 2.1195225566417975
+100% 5300/5300 [03:19<00:00, 26.54it/s]
+05:47:52 AM (9868620 ms) -> INFO: Epoch 48 total loss: 2.1936252650268866
+05:47:52 AM (9868620 ms) -> INFO: Epoch 48 propensity loss: 0.038215985659527836
+05:47:52 AM (9868620 ms) -> INFO: Epoch 48 conditional outcome loss: 0.396396686454163
+05:47:52 AM (9868620 ms) -> INFO: Epoch 48 masked language model loss: 2.1501639962989234
+100% 5300/5300 [03:30<00:00, 25.19it/s]
+05:51:22 AM (10079010 ms) -> INFO: Epoch 49 total loss: 2.0830106514829807
+05:51:22 AM (10079010 ms) -> INFO: Epoch 49 propensity loss: 0.03726069718162946
+05:51:22 AM (10079010 ms) -> INFO: Epoch 49 conditional outcome loss: 0.39888958955111964
+05:51:22 AM (10079010 ms) -> INFO: Epoch 49 masked language model loss: 2.0393956235706883
+05:51:22 AM (10079011 ms) -> INFO: Calculating ATT...
+100% 590/590 [00:05<00:00, 110.77it/s]
+05:51:32 AM (10088723 ms) -> INFO: ATT = -0.033475753296307816
+05:51:32 AM (10088723 ms) -> INFO: Calculating ATE...
+100% 590/590 [00:05<00:00, 111.21it/s]
+05:51:42 AM (10098421 ms) -> INFO: ATE = -0.026391226479992886
