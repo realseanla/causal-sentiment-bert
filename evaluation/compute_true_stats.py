@@ -5,15 +5,16 @@ import pandas as pd
 import sys
 
 
-def data_to_dataframe(json: dict):
+def data_to_dataframe(json: dict, test_only=True):
     # Return a dataframe with columns Y, T, Z
     # where Y is 'accepted', T is 'sentiment', and Z is 'confounder'
     Y, T, Z = [], [], []
     for paper_info in json.values():
-        if paper_info['split'] == 'test':
-            Y.append(paper_info['accepted'])
-            T.append(paper_info['sentiment'])
-            Z.append(paper_info['confounder'])
+        if test_only and not paper_info['split'] == 'test':
+            continue
+        Y.append(paper_info['accepted'])
+        T.append(paper_info['sentiment'])
+        Z.append(paper_info['confounder'])
     return pd.DataFrame({'Y': Y, 'T': T, 'Z': Z})
 
 
@@ -79,7 +80,10 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     dataset = load_json(args.d)
-    df = data_to_dataframe(dataset)
-    true_ate = compute_ate(data=df, b=args.b)
-    true_att = compute_att(data=df, b=args.b)
-    save_json(args.s, {'ATE': true_ate, 'ATT': true_att})
+    df = data_to_dataframe(dataset, test_only=True)
+    true_ate_test = compute_ate(data=df, b=args.b)
+    true_att_test = compute_att(data=df, b=args.b)
+    df = data_to_dataframe(dataset, test_only=False)
+    true_ate_all = compute_ate(data=df, b=args.b)
+    true_att_all = compute_att(data=df, b=args.b)
+    save_json(args.s, {'ATE_all': true_ate_all, 'ATT_all': true_att_all, 'ATE_test': true_ate_test, 'ATT_test': true_att_test})
