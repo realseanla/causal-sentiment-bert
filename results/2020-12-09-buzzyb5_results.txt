@@ -1,3 +1,4 @@
+!python3 CausalBert.py /content/sentiment-causal-bert/evaluation/synthetic/buzzyb5.json --format json --epochs 50 --outcome accepted --treatment sentiment --sentiment --cutoff 0 --text abstract --experiment buzzyb5
 2020-12-09 11:19:03.513958: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
 11:19:05 AM (3657 ms) -> INFO: Reading data from /content/sentiment-causal-bert/evaluation/synthetic/buzzyb5.json
 11:19:09 AM (7625 ms) -> INFO: Preprocessing data...
