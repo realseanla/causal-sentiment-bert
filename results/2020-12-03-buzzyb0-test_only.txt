@@ -1,0 +1,82 @@
+2020-12-04 00:17:15.415090: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+12:17:17 AM (5474 ms) -> INFO: Reading data from /content/sentiment-causal-bert/evaluation/synthetic/buzzyb0.json
+12:17:20 AM (8466 ms) -> INFO: Preprocessing data...
+12:17:20 AM (8466 ms) -> INFO: Using sentiment as treatment
+12:17:20 AM (8467 ms) -> INFO: Positive sentiment set to be > 0.0
+12:17:20 AM (8474 ms) -> INFO: Splitting into train and test...
+12:17:20 AM (8490 ms) -> INFO: NumExpr defaulting to 2 threads.
+12:17:21 AM (8779 ms) -> INFO: Lock 140007449789944 acquired on /root/.cache/huggingface/transformers/23454919702d26495337f3da04d1655c7ee010d5ec9d77bdb9e399e00302c0a1.d423bdf2f58dc8b77d5f5d18028d7ae4a72dcfd8f468e81fe979ada957a8c361.lock
+Downloading: 100% 442/442 [00:00<00:00, 359kB/s]
+12:17:21 AM (9050 ms) -> INFO: Lock 140007449789944 released on /root/.cache/huggingface/transformers/23454919702d26495337f3da04d1655c7ee010d5ec9d77bdb9e399e00302c0a1.d423bdf2f58dc8b77d5f5d18028d7ae4a72dcfd8f468e81fe979ada957a8c361.lock
+12:17:21 AM (9323 ms) -> INFO: Lock 140007437921472 acquired on /root/.cache/huggingface/transformers/9c169103d7e5a73936dd2b627e42851bec0831212b677c637033ee4bce9ab5ee.126183e36667471617ae2f0835fab707baa54b731f991507ebbb55ea85adb12a.lock
+Downloading: 100% 268M/268M [00:03<00:00, 79.6MB/s]
+12:17:25 AM (12748 ms) -> INFO: Lock 140007437921472 released on /root/.cache/huggingface/transformers/9c169103d7e5a73936dd2b627e42851bec0831212b677c637033ee4bce9ab5ee.126183e36667471617ae2f0835fab707baa54b731f991507ebbb55ea85adb12a.lock
+Some weights of CausalBert were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['Q_cls.0.0.weight', 'Q_cls.0.0.bias', 'Q_cls.0.2.weight', 'Q_cls.0.2.bias', 'Q_cls.1.0.weight', 'Q_cls.1.0.bias', 'Q_cls.1.2.weight', 'Q_cls.1.2.bias', 'g_cls.weight', 'g_cls.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12:17:37 AM (25442 ms) -> INFO: Training Sentiment Causal BERT for 50 epoch(s)...
+12:17:38 AM (25715 ms) -> INFO: Lock 140007449953504 acquired on /root/.cache/huggingface/transformers/45c3f7a79a80e1cf0a489e5c62b43f173c15db47864303a55d623bb3c96f72a5.d789d64ebfe299b0e416afc4a169632f903f693095b4629a7ea271d5a0cf2c99.lock
+Downloading: 100% 232k/232k [00:00<00:00, 685kB/s]
+12:17:38 AM (26326 ms) -> INFO: Lock 140007449953504 released on /root/.cache/huggingface/transformers/45c3f7a79a80e1cf0a489e5c62b43f173c15db47864303a55d623bb3c96f72a5.d789d64ebfe299b0e416afc4a169632f903f693095b4629a7ea271d5a0cf2c99.lock
+/usr/local/lib/python3.6/dist-packages/transformers/tokenization_utils_base.py:2142: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+  0% 0/5300 [00:00<?, ?it/s]CausalBert.py:145: UserWarning: This overload of nonzero is deprecated:
+	nonzero()
+Consider using one of the following signatures instead:
+	nonzero(*, bool as_tuple) (Triggered internally at  /pytorch/torch/csrc/utils/python_arg_parser.cpp:882.)
+  T0_indices = (T == 0).nonzero().squeeze()
+100% 5300/5300 [03:31<00:00, 25.02it/s]
+100% 5300/5300 [03:30<00:00, 25.17it/s]
+100% 5300/5300 [03:30<00:00, 25.23it/s]
+100% 5300/5300 [03:26<00:00, 25.71it/s]
+100% 5300/5300 [03:25<00:00, 25.74it/s]
+100% 5300/5300 [03:28<00:00, 25.44it/s]
+100% 5300/5300 [03:28<00:00, 25.45it/s]
+100% 5300/5300 [03:27<00:00, 25.56it/s]
+100% 5300/5300 [03:26<00:00, 25.71it/s]
+100% 5300/5300 [03:26<00:00, 25.68it/s]
+100% 5300/5300 [03:27<00:00, 25.57it/s]
+100% 5300/5300 [03:27<00:00, 25.58it/s]
+100% 5300/5300 [03:27<00:00, 25.59it/s]
+100% 5300/5300 [03:27<00:00, 25.52it/s]
+100% 5300/5300 [03:30<00:00, 25.18it/s]
+100% 5300/5300 [03:25<00:00, 25.75it/s]
+100% 5300/5300 [03:22<00:00, 26.15it/s]
+100% 5300/5300 [03:21<00:00, 26.30it/s]
+100% 5300/5300 [03:24<00:00, 25.92it/s]
+100% 5300/5300 [03:23<00:00, 26.10it/s]
+100% 5300/5300 [03:22<00:00, 26.12it/s]
+100% 5300/5300 [03:20<00:00, 26.39it/s]
+100% 5300/5300 [03:21<00:00, 26.31it/s]
+100% 5300/5300 [03:22<00:00, 26.19it/s]
+100% 5300/5300 [03:21<00:00, 26.35it/s]
+100% 5300/5300 [03:19<00:00, 26.55it/s]
+100% 5300/5300 [03:20<00:00, 26.44it/s]
+100% 5300/5300 [03:22<00:00, 26.24it/s]
+100% 5300/5300 [03:22<00:00, 26.22it/s]
+100% 5300/5300 [03:21<00:00, 26.31it/s]
+100% 5300/5300 [03:19<00:00, 26.60it/s]
+100% 5300/5300 [03:24<00:00, 25.94it/s]
+100% 5300/5300 [03:30<00:00, 25.16it/s]
+100% 5300/5300 [03:30<00:00, 25.22it/s]
+100% 5300/5300 [03:30<00:00, 25.19it/s]
+100% 5300/5300 [03:30<00:00, 25.18it/s]
+100% 5300/5300 [03:29<00:00, 25.26it/s]
+100% 5300/5300 [03:30<00:00, 25.19it/s]
+100% 5300/5300 [03:30<00:00, 25.15it/s]
+100% 5300/5300 [03:30<00:00, 25.20it/s]
+100% 5300/5300 [03:30<00:00, 25.21it/s]
+100% 5300/5300 [03:29<00:00, 25.30it/s]
+100% 5300/5300 [03:31<00:00, 25.11it/s]
+100% 5300/5300 [03:30<00:00, 25.22it/s]
+100% 5300/5300 [03:29<00:00, 25.25it/s]
+100% 5300/5300 [03:28<00:00, 25.42it/s]
+100% 5300/5300 [03:27<00:00, 25.57it/s]
+100% 5300/5300 [03:28<00:00, 25.41it/s]
+100% 5300/5300 [03:28<00:00, 25.40it/s]
+100% 5300/5300 [03:28<00:00, 25.38it/s]
+03:10:27 AM (10395228 ms) -> INFO: Calculating ATT...
+100% 295/295 [00:02<00:00, 113.64it/s]
+03:10:32 AM (10400192 ms) -> INFO: ATT = 0.21080399366478333
+03:10:32 AM (10400192 ms) -> INFO: Calculating ATE...
+100% 295/295 [00:02<00:00, 112.46it/s]
+03:10:37 AM (10405150 ms) -> INFO: ATE = 0.18540671530608344
