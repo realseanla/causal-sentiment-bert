@@ -1,0 +1,8 @@
+!python3 CausalBert.py /content/sentiment-causal-bert/reddit/reddit_sentiment_processed.csv --format csv --epochs 50 --outcome score --outcome_type continuous --treatment sentiment --sentiment --cutoff 0 --text comment --experiment reddit
+09:26:04 PM (10184875 ms) -> INFO: ATT = -0.2500622272491455
+09:26:04 PM (10184875 ms) -> INFO: Calculating ATT with ground-truth treatments...
+100% 597/597 [00:04<00:00, 127.71it/s]
+09:26:10 PM (10190895 ms) -> INFO: ATT = -0.20688286423683167
+09:26:10 PM (10190895 ms) -> INFO: Calculating ATE...
+100% 597/597 [00:04<00:00, 126.97it/s]
+09:26:16 PM (10196918 ms) -> INFO: ATE = -0.08850864718815707
