@@ -1,0 +1,73 @@
+2020-12-04 03:10:41.034167: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+03:10:42 AM (3235 ms) -> INFO: Reading data from /content/sentiment-causal-bert/evaluation/synthetic/buzzyb5.json
+03:10:45 AM (6162 ms) -> INFO: Preprocessing data...
+03:10:45 AM (6163 ms) -> INFO: Using sentiment as treatment
+03:10:45 AM (6163 ms) -> INFO: Positive sentiment set to be > 0.0
+03:10:45 AM (6170 ms) -> INFO: Splitting into train and test...
+03:10:45 AM (6174 ms) -> INFO: NumExpr defaulting to 2 threads.
+Some weights of CausalBert were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['Q_cls.0.0.weight', 'Q_cls.0.0.bias', 'Q_cls.0.2.weight', 'Q_cls.0.2.bias', 'Q_cls.1.0.weight', 'Q_cls.1.0.bias', 'Q_cls.1.2.weight', 'Q_cls.1.2.bias', 'g_cls.weight', 'g_cls.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+03:10:54 AM (14870 ms) -> INFO: Training Sentiment Causal BERT for 50 epoch(s)...
+/usr/local/lib/python3.6/dist-packages/transformers/tokenization_utils_base.py:2142: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+  0% 0/5300 [00:00<?, ?it/s]CausalBert.py:145: UserWarning: This overload of nonzero is deprecated:
+	nonzero()
+Consider using one of the following signatures instead:
+	nonzero(*, bool as_tuple) (Triggered internally at  /pytorch/torch/csrc/utils/python_arg_parser.cpp:882.)
+  T0_indices = (T == 0).nonzero().squeeze()
+100% 5300/5300 [03:33<00:00, 24.78it/s]
+100% 5300/5300 [03:32<00:00, 24.97it/s]
+100% 5300/5300 [03:33<00:00, 24.77it/s]
+100% 5300/5300 [03:33<00:00, 24.81it/s]
+100% 5300/5300 [03:36<00:00, 24.53it/s]
+100% 5300/5300 [03:32<00:00, 24.89it/s]
+100% 5300/5300 [03:26<00:00, 25.67it/s]
+100% 5300/5300 [03:28<00:00, 25.38it/s]
+100% 5300/5300 [03:30<00:00, 25.24it/s]
+100% 5300/5300 [03:29<00:00, 25.27it/s]
+100% 5300/5300 [03:27<00:00, 25.49it/s]
+100% 5300/5300 [03:26<00:00, 25.61it/s]
+100% 5300/5300 [03:29<00:00, 25.32it/s]
+100% 5300/5300 [03:31<00:00, 25.03it/s]
+100% 5300/5300 [03:26<00:00, 25.67it/s]
+100% 5300/5300 [03:26<00:00, 25.71it/s]
+100% 5300/5300 [03:26<00:00, 25.63it/s]
+100% 5300/5300 [03:29<00:00, 25.36it/s]
+100% 5300/5300 [03:25<00:00, 25.73it/s]
+100% 5300/5300 [03:27<00:00, 25.50it/s]
+100% 5300/5300 [03:30<00:00, 25.23it/s]
+100% 5300/5300 [03:31<00:00, 25.10it/s]
+100% 5300/5300 [03:27<00:00, 25.51it/s]
+100% 5300/5300 [03:24<00:00, 25.93it/s]
+100% 5300/5300 [03:26<00:00, 25.70it/s]
+100% 5300/5300 [03:28<00:00, 25.39it/s]
+100% 5300/5300 [03:26<00:00, 25.60it/s]
+100% 5300/5300 [03:26<00:00, 25.67it/s]
+100% 5300/5300 [03:28<00:00, 25.45it/s]
+100% 5300/5300 [03:31<00:00, 25.04it/s]
+100% 5300/5300 [03:28<00:00, 25.42it/s]
+100% 5300/5300 [03:32<00:00, 24.98it/s]
+100% 5300/5300 [03:33<00:00, 24.83it/s]
+100% 5300/5300 [03:34<00:00, 24.73it/s]
+100% 5300/5300 [03:34<00:00, 24.69it/s]
+100% 5300/5300 [03:34<00:00, 24.74it/s]
+100% 5300/5300 [03:35<00:00, 24.63it/s]
+100% 5300/5300 [03:35<00:00, 24.60it/s]
+100% 5300/5300 [03:35<00:00, 24.65it/s]
+100% 5300/5300 [03:35<00:00, 24.63it/s]
+100% 5300/5300 [03:35<00:00, 24.61it/s]
+100% 5300/5300 [03:35<00:00, 24.64it/s]
+100% 5300/5300 [03:35<00:00, 24.64it/s]
+100% 5300/5300 [03:35<00:00, 24.58it/s]
+100% 5300/5300 [03:35<00:00, 24.64it/s]
+100% 5300/5300 [03:35<00:00, 24.59it/s]
+100% 5300/5300 [03:35<00:00, 24.57it/s]
+100% 5300/5300 [03:34<00:00, 24.66it/s]
+100% 5300/5300 [03:35<00:00, 24.58it/s]
+100% 5300/5300 [03:33<00:00, 24.87it/s]
+06:07:37 AM (10618102 ms) -> INFO: Calculating ATT...
+100% 295/295 [00:02<00:00, 107.86it/s]
+06:07:42 AM (10623225 ms) -> INFO: ATT = 0.00820769814233626
+06:07:42 AM (10623225 ms) -> INFO: Calculating ATE...
+100% 295/295 [00:02<00:00, 109.27it/s]
+06:07:48 AM (10628296 ms) -> INFO: ATE = 0.02606839446698205
