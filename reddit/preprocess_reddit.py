@@ -16,9 +16,11 @@ df.loc[:, 'sentiment'] = df['sentiment'].astype(int)
 
 df = df[['comment', 'score', 'sentiment']]
 
-train, test = train_test_split(df, train_size=0.9, random_state=0)
+train, test = train_test_split(df, train_size=0.8, random_state=0)
+test, dev = train_test_split(test, train_size=0.5, random_state=0)
 
 df.loc[train.index, "split"] = "train"
 df.loc[test.index, "split"] = "test"
+df.loc[dev.index, "split"] = "dev"
 
 df.to_csv('reddit_sentiment_processed.csv')

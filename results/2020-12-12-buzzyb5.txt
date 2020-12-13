@@ -1,0 +1,428 @@
+2020-12-12 03:17:20.626543: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+03:17:22 AM (3526 ms) -> INFO: Reading data from /content/sentiment-causal-bert/evaluation/synthetic/buzzyb5.json
+03:17:25 AM (6653 ms) -> INFO: Preprocessing data...
+03:17:25 AM (6653 ms) -> INFO: Using sentiment as treatment
+03:17:25 AM (6653 ms) -> INFO: Positive sentiment set to be > 0.0
+03:17:25 AM (6671 ms) -> INFO: Splitting into train and test...
+03:17:25 AM (6675 ms) -> INFO: NumExpr defaulting to 2 threads.
+Some weights of CausalBert were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['Q_cls.0.0.weight', 'Q_cls.0.0.bias', 'Q_cls.0.2.weight', 'Q_cls.0.2.bias', 'Q_cls.1.0.weight', 'Q_cls.1.0.bias', 'Q_cls.1.2.weight', 'Q_cls.1.2.bias', 'g_cls.weight', 'g_cls.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+03:17:34 AM (15487 ms) -> INFO: Training Sentiment Causal BERT for 50 epoch(s)...
+/usr/local/lib/python3.6/dist-packages/transformers/tokenization_utils_base.py:2142: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+  0% 0/5300 [00:00<?, ?it/s]CausalBert.py:194: UserWarning: This overload of nonzero is deprecated:
+	nonzero()
+Consider using one of the following signatures instead:
+	nonzero(*, bool as_tuple) (Triggered internally at  /pytorch/torch/csrc/utils/python_arg_parser.cpp:882.)
+  T0_indices = (T == 0).nonzero().squeeze()
+100% 5300/5300 [03:35<00:00, 24.57it/s]
+03:21:47 AM (268397 ms) -> INFO: Epoch 0 train total loss: 2.3395578945277014
+03:21:47 AM (268397 ms) -> INFO: Epoch 0 train propensity loss: 0.5340781274972097
+03:21:47 AM (268397 ms) -> INFO: Epoch 0 train conditional outcome loss: 0.39570545736419144
+03:21:47 AM (268397 ms) -> INFO: Epoch 0 train masked language model loss: 2.2465795326782736
+100% 295/295 [00:02<00:00, 120.46it/s]
+03:21:52 AM (273169 ms) -> INFO: Epoch 0 dev propensity loss: 0.5213349834337073
+03:21:52 AM (273169 ms) -> INFO: Epoch 0 dev conditional outcome loss: 0.14145445160694042
+100% 5300/5300 [03:33<00:00, 24.88it/s]
+03:25:25 AM (486225 ms) -> INFO: Epoch 1 train total loss: 2.1846731577077354
+03:25:25 AM (486225 ms) -> INFO: Epoch 1 train propensity loss: 0.48152336877471996
+03:25:25 AM (486226 ms) -> INFO: Epoch 1 train conditional outcome loss: 0.13480699279099562
+03:25:25 AM (486226 ms) -> INFO: Epoch 1 train masked language model loss: 2.123040121335029
+100% 295/295 [00:02<00:00, 121.48it/s]
+03:25:29 AM (490967 ms) -> INFO: Epoch 1 dev propensity loss: 0.5121538473135334
+03:25:29 AM (490967 ms) -> INFO: Epoch 1 dev conditional outcome loss: 0.14323559487712081
+100% 5300/5300 [03:29<00:00, 25.27it/s]
+03:28:59 AM (700682 ms) -> INFO: Epoch 2 train total loss: 2.212247225707748
+03:28:59 AM (700682 ms) -> INFO: Epoch 2 train propensity loss: 0.4659507455226948
+03:28:59 AM (700682 ms) -> INFO: Epoch 2 train conditional outcome loss: 0.13347222310139464
+03:28:59 AM (700682 ms) -> INFO: Epoch 2 train masked language model loss: 2.1523049280813717
+100% 295/295 [00:02<00:00, 120.26it/s]
+03:29:04 AM (705463 ms) -> INFO: Epoch 2 dev propensity loss: 0.5242887565897683
+03:29:04 AM (705464 ms) -> INFO: Epoch 2 dev conditional outcome loss: 0.1440117867221519
+100% 5300/5300 [03:33<00:00, 24.80it/s]
+03:32:38 AM (919164 ms) -> INFO: Epoch 3 train total loss: 2.305343711025275
+03:32:38 AM (919164 ms) -> INFO: Epoch 3 train propensity loss: 0.45139788552345533
+03:32:38 AM (919164 ms) -> INFO: Epoch 3 train conditional outcome loss: 0.13307840317083558
+03:32:38 AM (919164 ms) -> INFO: Epoch 3 train masked language model loss: 2.2468960831440246
+100% 295/295 [00:02<00:00, 121.00it/s]
+03:32:42 AM (923907 ms) -> INFO: Epoch 3 dev propensity loss: 0.5358376870847354
+03:32:42 AM (923907 ms) -> INFO: Epoch 3 dev conditional outcome loss: 0.1503238209570616
+100% 5300/5300 [03:32<00:00, 24.90it/s]
+03:36:15 AM (1136800 ms) -> INFO: Epoch 4 train total loss: 2.329285711197288
+03:36:15 AM (1136800 ms) -> INFO: Epoch 4 train propensity loss: 0.43160961383426527
+03:36:15 AM (1136800 ms) -> INFO: Epoch 4 train conditional outcome loss: 0.13294794349527023
+03:36:15 AM (1136801 ms) -> INFO: Epoch 4 train masked language model loss: 2.2728299548807818
+100% 295/295 [00:02<00:00, 119.33it/s]
+03:36:20 AM (1141596 ms) -> INFO: Epoch 4 dev propensity loss: 0.47539762651263656
+03:36:20 AM (1141596 ms) -> INFO: Epoch 4 dev conditional outcome loss: 0.14348029779049298
+100% 5300/5300 [03:32<00:00, 24.94it/s]
+03:39:53 AM (1354136 ms) -> INFO: Epoch 5 train total loss: 2.461682447482006
+03:39:53 AM (1354137 ms) -> INFO: Epoch 5 train propensity loss: 0.4070098341187849
+03:39:53 AM (1354137 ms) -> INFO: Epoch 5 train conditional outcome loss: 0.1327592228644721
+03:39:53 AM (1354137 ms) -> INFO: Epoch 5 train masked language model loss: 2.4077055386368116
+100% 295/295 [00:02<00:00, 121.27it/s]
+03:39:57 AM (1358849 ms) -> INFO: Epoch 5 dev propensity loss: 0.4834714631534229
+03:39:57 AM (1358849 ms) -> INFO: Epoch 5 dev conditional outcome loss: 0.14851515986088473
+100% 5300/5300 [03:32<00:00, 24.89it/s]
+03:43:30 AM (1571778 ms) -> INFO: Epoch 6 train total loss: 2.4185097537851314
+03:43:30 AM (1571778 ms) -> INFO: Epoch 6 train propensity loss: 0.3856254856337635
+03:43:30 AM (1571778 ms) -> INFO: Epoch 6 train conditional outcome loss: 0.13129957716209145
+03:43:30 AM (1571778 ms) -> INFO: Epoch 6 train masked language model loss: 2.3668172472096574
+100% 295/295 [00:02<00:00, 120.56it/s]
+03:43:35 AM (1576542 ms) -> INFO: Epoch 6 dev propensity loss: 0.5404044598846113
+03:43:35 AM (1576542 ms) -> INFO: Epoch 6 dev conditional outcome loss: 0.14476307251695858
+100% 5300/5300 [03:33<00:00, 24.83it/s]
+03:47:08 AM (1790015 ms) -> INFO: Epoch 7 train total loss: 2.4640135156190603
+03:47:08 AM (1790015 ms) -> INFO: Epoch 7 train propensity loss: 0.3698719859124987
+03:47:08 AM (1790015 ms) -> INFO: Epoch 7 train conditional outcome loss: 0.13084054653401012
+03:47:08 AM (1790016 ms) -> INFO: Epoch 7 train masked language model loss: 2.413942260991878
+100% 295/295 [00:02<00:00, 120.98it/s]
+03:47:13 AM (1794786 ms) -> INFO: Epoch 7 dev propensity loss: 0.4699774888928159
+03:47:13 AM (1794787 ms) -> INFO: Epoch 7 dev conditional outcome loss: 0.14127998058447394
+100% 5300/5300 [03:33<00:00, 24.86it/s]
+03:50:46 AM (2007987 ms) -> INFO: Epoch 8 train total loss: 2.439254469916681
+03:50:46 AM (2007987 ms) -> INFO: Epoch 8 train propensity loss: 0.36072903496494413
+03:50:46 AM (2007987 ms) -> INFO: Epoch 8 train conditional outcome loss: 0.13070588151801307
+03:50:46 AM (2007987 ms) -> INFO: Epoch 8 train masked language model loss: 2.390110979234611
+100% 295/295 [00:02<00:00, 119.76it/s]
+03:50:51 AM (2012768 ms) -> INFO: Epoch 8 dev propensity loss: 0.4255063492852121
+03:50:51 AM (2012768 ms) -> INFO: Epoch 8 dev conditional outcome loss: 0.1431272776071298
+100% 5300/5300 [03:32<00:00, 24.93it/s]
+03:54:24 AM (2225393 ms) -> INFO: Epoch 9 train total loss: 2.4606368440093105
+03:54:24 AM (2225393 ms) -> INFO: Epoch 9 train propensity loss: 0.34834632475750593
+03:54:24 AM (2225393 ms) -> INFO: Epoch 9 train conditional outcome loss: 0.13082244221288009
+03:54:24 AM (2225393 ms) -> INFO: Epoch 9 train masked language model loss: 2.412719965453641
+100% 295/295 [00:02<00:00, 120.36it/s]
+03:54:29 AM (2230147 ms) -> INFO: Epoch 9 dev propensity loss: 0.4436317358134409
+03:54:29 AM (2230147 ms) -> INFO: Epoch 9 dev conditional outcome loss: 0.14485131382184513
+100% 5300/5300 [03:31<00:00, 25.04it/s]
+03:58:00 AM (2441823 ms) -> INFO: Epoch 10 train total loss: 2.416821666081427
+03:58:00 AM (2441823 ms) -> INFO: Epoch 10 train propensity loss: 0.3384515923045066
+03:58:00 AM (2441823 ms) -> INFO: Epoch 10 train conditional outcome loss: 0.13008087061749737
+03:58:00 AM (2441823 ms) -> INFO: Epoch 10 train masked language model loss: 2.3699684216957615
+100% 295/295 [00:02<00:00, 120.46it/s]
+03:58:05 AM (2446565 ms) -> INFO: Epoch 10 dev propensity loss: 0.43152952256565125
+03:58:05 AM (2446565 ms) -> INFO: Epoch 10 dev conditional outcome loss: 0.1435580163089148
+100% 5300/5300 [03:32<00:00, 25.00it/s]
+04:01:37 AM (2658575 ms) -> INFO: Epoch 11 train total loss: 2.4236606226835558
+04:01:37 AM (2658575 ms) -> INFO: Epoch 11 train propensity loss: 0.32868614170015
+04:01:37 AM (2658575 ms) -> INFO: Epoch 11 train conditional outcome loss: 0.1289010648663103
+04:01:37 AM (2658575 ms) -> INFO: Epoch 11 train masked language model loss: 2.3779019015045115
+100% 295/295 [00:02<00:00, 122.55it/s]
+04:01:42 AM (2663283 ms) -> INFO: Epoch 11 dev propensity loss: 0.45625260930145317
+04:01:42 AM (2663283 ms) -> INFO: Epoch 11 dev conditional outcome loss: 0.14988510913483924
+100% 5300/5300 [03:31<00:00, 25.06it/s]
+04:05:13 AM (2874774 ms) -> INFO: Epoch 12 train total loss: 2.4716976476228303
+04:05:13 AM (2874775 ms) -> INFO: Epoch 12 train propensity loss: 0.3147377049410496
+04:05:13 AM (2874775 ms) -> INFO: Epoch 12 train conditional outcome loss: 0.12857270509698693
+04:05:13 AM (2874775 ms) -> INFO: Epoch 12 train masked language model loss: 2.4273666048757274
+100% 295/295 [00:02<00:00, 120.98it/s]
+04:05:18 AM (2879519 ms) -> INFO: Epoch 12 dev propensity loss: 0.49757627764700957
+04:05:18 AM (2879520 ms) -> INFO: Epoch 12 dev conditional outcome loss: 0.15113213720210528
+100% 5300/5300 [03:31<00:00, 25.09it/s]
+04:08:49 AM (3090728 ms) -> INFO: Epoch 13 train total loss: 2.4244435418228933
+04:08:49 AM (3090729 ms) -> INFO: Epoch 13 train propensity loss: 0.302840519601343
+04:08:49 AM (3090729 ms) -> INFO: Epoch 13 train conditional outcome loss: 0.1282240550147967
+04:08:49 AM (3090729 ms) -> INFO: Epoch 13 train masked language model loss: 2.381337085178228
+100% 295/295 [00:02<00:00, 119.94it/s]
+04:08:54 AM (3095484 ms) -> INFO: Epoch 13 dev propensity loss: 0.5028267786834169
+04:08:54 AM (3095484 ms) -> INFO: Epoch 13 dev conditional outcome loss: 0.14942094892642255
+100% 5300/5300 [03:31<00:00, 25.09it/s]
+04:12:25 AM (3306705 ms) -> INFO: Epoch 14 train total loss: 2.4376628645209877
+04:12:25 AM (3306705 ms) -> INFO: Epoch 14 train propensity loss: 0.2876367472041451
+04:12:25 AM (3306705 ms) -> INFO: Epoch 14 train conditional outcome loss: 0.1270696515405445
+04:12:25 AM (3306705 ms) -> INFO: Epoch 14 train masked language model loss: 2.3961922227696935
+100% 295/295 [00:02<00:00, 122.07it/s]
+04:12:30 AM (3311436 ms) -> INFO: Epoch 14 dev propensity loss: 0.5065203567951033
+04:12:30 AM (3311437 ms) -> INFO: Epoch 14 dev conditional outcome loss: 0.14945325484120492
+100% 5300/5300 [03:30<00:00, 25.12it/s]
+04:16:01 AM (3522426 ms) -> INFO: Epoch 15 train total loss: 2.3489831989776464
+04:16:01 AM (3522426 ms) -> INFO: Epoch 15 train propensity loss: 0.27375596076716835
+04:16:01 AM (3522426 ms) -> INFO: Epoch 15 train conditional outcome loss: 0.12599341325242214
+04:16:01 AM (3522427 ms) -> INFO: Epoch 15 train masked language model loss: 2.309008261077372
+100% 295/295 [00:02<00:00, 121.72it/s]
+04:16:06 AM (3527123 ms) -> INFO: Epoch 15 dev propensity loss: 0.461693080939684
+04:16:06 AM (3527123 ms) -> INFO: Epoch 15 dev conditional outcome loss: 0.15318651087266408
+100% 5300/5300 [03:30<00:00, 25.21it/s]
+04:19:36 AM (3737365 ms) -> INFO: Epoch 16 train total loss: 2.3824817335175545
+04:19:36 AM (3737365 ms) -> INFO: Epoch 16 train propensity loss: 0.26278358809808094
+04:19:36 AM (3737365 ms) -> INFO: Epoch 16 train conditional outcome loss: 0.12527602500374482
+04:19:36 AM (3737365 ms) -> INFO: Epoch 16 train masked language model loss: 2.3436757719766748
+100% 295/295 [00:02<00:00, 121.72it/s]
+04:19:41 AM (3742055 ms) -> INFO: Epoch 16 dev propensity loss: 0.5514739246865324
+04:19:41 AM (3742055 ms) -> INFO: Epoch 16 dev conditional outcome loss: 0.15830134659437306
+100% 5300/5300 [03:30<00:00, 25.19it/s]
+04:23:11 AM (3952499 ms) -> INFO: Epoch 17 train total loss: 2.397543248878616
+04:23:11 AM (3952499 ms) -> INFO: Epoch 17 train propensity loss: 0.25397636115398337
+04:23:11 AM (3952499 ms) -> INFO: Epoch 17 train conditional outcome loss: 0.12453181072278827
+04:23:11 AM (3952499 ms) -> INFO: Epoch 17 train masked language model loss: 2.3596924306484794
+100% 295/295 [00:02<00:00, 123.96it/s]
+04:23:16 AM (3957150 ms) -> INFO: Epoch 17 dev propensity loss: 0.5080408897909919
+04:23:16 AM (3957150 ms) -> INFO: Epoch 17 dev conditional outcome loss: 0.14897589983450155
+100% 5300/5300 [03:29<00:00, 25.35it/s]
+04:26:45 AM (4166255 ms) -> INFO: Epoch 18 train total loss: 2.3225028868552458
+04:26:45 AM (4166256 ms) -> INFO: Epoch 18 train propensity loss: 0.23567360777878488
+04:26:45 AM (4166256 ms) -> INFO: Epoch 18 train conditional outcome loss: 0.12304397944167678
+04:26:45 AM (4166256 ms) -> INFO: Epoch 18 train masked language model loss: 2.2866311284899377
+100% 295/295 [00:02<00:00, 123.87it/s]
+04:26:49 AM (4170939 ms) -> INFO: Epoch 18 dev propensity loss: 0.48627521785132005
+04:26:49 AM (4170939 ms) -> INFO: Epoch 18 dev conditional outcome loss: 0.15159436908345353
+100% 5300/5300 [03:28<00:00, 25.44it/s]
+04:30:18 AM (4379314 ms) -> INFO: Epoch 19 train total loss: 2.4052912728497233
+04:30:18 AM (4379314 ms) -> INFO: Epoch 19 train propensity loss: 0.22527640837916274
+04:30:18 AM (4379314 ms) -> INFO: Epoch 19 train conditional outcome loss: 0.12099126204883434
+04:30:18 AM (4379314 ms) -> INFO: Epoch 19 train masked language model loss: 2.370664503871586
+100% 295/295 [00:02<00:00, 121.24it/s]
+04:30:22 AM (4383999 ms) -> INFO: Epoch 19 dev propensity loss: 0.4878993715412157
+04:30:22 AM (4383999 ms) -> INFO: Epoch 19 dev conditional outcome loss: 0.15373980130021603
+100% 5300/5300 [03:30<00:00, 25.18it/s]
+04:33:53 AM (4594482 ms) -> INFO: Epoch 20 train total loss: 2.3748908297639377
+04:33:53 AM (4594482 ms) -> INFO: Epoch 20 train propensity loss: 0.2083873562953536
+04:33:53 AM (4594482 ms) -> INFO: Epoch 20 train conditional outcome loss: 0.12032605366539738
+04:33:53 AM (4594482 ms) -> INFO: Epoch 20 train masked language model loss: 2.342019487439213
+100% 295/295 [00:02<00:00, 122.60it/s]
+04:33:58 AM (4599136 ms) -> INFO: Epoch 20 dev propensity loss: 0.5212909893313289
+04:33:58 AM (4599136 ms) -> INFO: Epoch 20 dev conditional outcome loss: 0.15528995733613432
+100% 5300/5300 [03:28<00:00, 25.43it/s]
+04:37:26 AM (4807535 ms) -> INFO: Epoch 21 train total loss: 2.3506343682150725
+04:37:26 AM (4807536 ms) -> INFO: Epoch 21 train propensity loss: 0.19367031737990165
+04:37:26 AM (4807536 ms) -> INFO: Epoch 21 train conditional outcome loss: 0.11930318403321336
+04:37:26 AM (4807536 ms) -> INFO: Epoch 21 train masked language model loss: 2.3193370187431026
+100% 295/295 [00:02<00:00, 123.75it/s]
+04:37:31 AM (4812167 ms) -> INFO: Epoch 21 dev propensity loss: 0.5163337449853947
+04:37:31 AM (4812168 ms) -> INFO: Epoch 21 dev conditional outcome loss: 0.1576864376095897
+100% 5300/5300 [03:27<00:00, 25.51it/s]
+04:40:58 AM (5019895 ms) -> INFO: Epoch 22 train total loss: 2.4101689836032962
+04:40:58 AM (5019896 ms) -> INFO: Epoch 22 train propensity loss: 0.18337300622534558
+04:40:58 AM (5019896 ms) -> INFO: Epoch 22 train conditional outcome loss: 0.1180211322509051
+04:40:58 AM (5019896 ms) -> INFO: Epoch 22 train masked language model loss: 2.38002956935112
+100% 295/295 [00:02<00:00, 123.41it/s]
+04:41:03 AM (5024587 ms) -> INFO: Epoch 22 dev propensity loss: 0.5831498334609995
+04:41:03 AM (5024587 ms) -> INFO: Epoch 22 dev conditional outcome loss: 0.16401083829686425
+100% 5300/5300 [03:27<00:00, 25.55it/s]
+04:44:31 AM (5232032 ms) -> INFO: Epoch 23 train total loss: 2.353158178828472
+04:44:31 AM (5232032 ms) -> INFO: Epoch 23 train propensity loss: 0.1696191513369421
+04:44:31 AM (5232032 ms) -> INFO: Epoch 23 train conditional outcome loss: 0.11608945135721269
+04:44:31 AM (5232032 ms) -> INFO: Epoch 23 train masked language model loss: 2.324587317551637
+100% 295/295 [00:02<00:00, 124.50it/s]
+04:44:35 AM (5236636 ms) -> INFO: Epoch 23 dev propensity loss: 0.5525712766867107
+04:44:35 AM (5236637 ms) -> INFO: Epoch 23 dev conditional outcome loss: 0.16005755360869658
+100% 5300/5300 [03:26<00:00, 25.63it/s]
+04:48:02 AM (5443425 ms) -> INFO: Epoch 24 train total loss: 2.3241972806472506
+04:48:02 AM (5443425 ms) -> INFO: Epoch 24 train propensity loss: 0.15489042958909952
+04:48:02 AM (5443425 ms) -> INFO: Epoch 24 train conditional outcome loss: 0.11586339195188627
+04:48:02 AM (5443425 ms) -> INFO: Epoch 24 train masked language model loss: 2.2971218991839497
+100% 295/295 [00:02<00:00, 126.01it/s]
+04:48:06 AM (5448003 ms) -> INFO: Epoch 24 dev propensity loss: 0.5436981615361804
+04:48:06 AM (5448003 ms) -> INFO: Epoch 24 dev conditional outcome loss: 0.16224569052426238
+100% 5300/5300 [03:27<00:00, 25.59it/s]
+04:51:34 AM (5655129 ms) -> INFO: Epoch 25 train total loss: 2.287864262829315
+04:51:34 AM (5655129 ms) -> INFO: Epoch 25 train propensity loss: 0.14879824303416755
+04:51:34 AM (5655129 ms) -> INFO: Epoch 25 train conditional outcome loss: 0.11237124442485302
+04:51:34 AM (5655129 ms) -> INFO: Epoch 25 train masked language model loss: 2.261747314385105
+100% 295/295 [00:02<00:00, 122.35it/s]
+04:51:38 AM (5659801 ms) -> INFO: Epoch 25 dev propensity loss: 0.6641708023620718
+04:51:38 AM (5659801 ms) -> INFO: Epoch 25 dev conditional outcome loss: 0.16307872521485817
+100% 5300/5300 [03:27<00:00, 25.59it/s]
+04:55:05 AM (5866946 ms) -> INFO: Epoch 26 train total loss: 2.3192021676386436
+04:55:05 AM (5866946 ms) -> INFO: Epoch 26 train propensity loss: 0.13405504130391527
+04:55:05 AM (5866946 ms) -> INFO: Epoch 26 train conditional outcome loss: 0.11166261099375574
+04:55:05 AM (5866947 ms) -> INFO: Epoch 26 train masked language model loss: 2.2946304007734595
+100% 295/295 [00:02<00:00, 125.57it/s]
+04:55:10 AM (5871552 ms) -> INFO: Epoch 26 dev propensity loss: 0.6127683438224051
+04:55:10 AM (5871552 ms) -> INFO: Epoch 26 dev conditional outcome loss: 0.16899393686582728
+100% 5300/5300 [03:28<00:00, 25.48it/s]
+04:58:38 AM (6079587 ms) -> INFO: Epoch 27 train total loss: 2.354784700923428
+04:58:38 AM (6079587 ms) -> INFO: Epoch 27 train propensity loss: 0.1301573491226146
+04:58:38 AM (6079587 ms) -> INFO: Epoch 27 train conditional outcome loss: 0.10995317049049948
+04:58:38 AM (6079587 ms) -> INFO: Epoch 27 train masked language model loss: 2.3307736488463178
+100% 295/295 [00:02<00:00, 124.69it/s]
+04:58:43 AM (6084212 ms) -> INFO: Epoch 27 dev propensity loss: 0.6352211599082586
+04:58:43 AM (6084212 ms) -> INFO: Epoch 27 dev conditional outcome loss: 0.175664079567749
+100% 5300/5300 [03:27<00:00, 25.51it/s]
+05:02:10 AM (6291993 ms) -> INFO: Epoch 28 train total loss: 2.308701483560089
+05:02:10 AM (6291993 ms) -> INFO: Epoch 28 train propensity loss: 0.11507859902984664
+05:02:10 AM (6291993 ms) -> INFO: Epoch 28 train conditional outcome loss: 0.10809878526022658
+05:02:10 AM (6291993 ms) -> INFO: Epoch 28 train masked language model loss: 2.2863837436189947
+100% 295/295 [00:02<00:00, 122.34it/s]
+05:02:15 AM (6296709 ms) -> INFO: Epoch 28 dev propensity loss: 0.6525162932100302
+05:02:15 AM (6296709 ms) -> INFO: Epoch 28 dev conditional outcome loss: 0.1710389707628164
+100% 5300/5300 [03:27<00:00, 25.58it/s]
+05:05:42 AM (6503921 ms) -> INFO: Epoch 29 train total loss: 2.269651761882431
+05:05:42 AM (6503921 ms) -> INFO: Epoch 29 train propensity loss: 0.10998516324976457
+05:05:42 AM (6503921 ms) -> INFO: Epoch 29 train conditional outcome loss: 0.10397759800585743
+05:05:42 AM (6503921 ms) -> INFO: Epoch 29 train masked language model loss: 2.248255486642075
+100% 295/295 [00:02<00:00, 125.71it/s]
+05:05:47 AM (6508526 ms) -> INFO: Epoch 29 dev propensity loss: 0.7330360092330104
+05:05:47 AM (6508526 ms) -> INFO: Epoch 29 dev conditional outcome loss: 0.17263554826071012
+100% 5300/5300 [03:26<00:00, 25.71it/s]
+05:09:13 AM (6714653 ms) -> INFO: Epoch 30 train total loss: 2.2685407975118252
+05:09:13 AM (6714653 ms) -> INFO: Epoch 30 train propensity loss: 0.09638366928243347
+05:09:13 AM (6714653 ms) -> INFO: Epoch 30 train conditional outcome loss: 0.10108464580176416
+05:09:13 AM (6714653 ms) -> INFO: Epoch 30 train masked language model loss: 2.248793965260039
+100% 295/295 [00:02<00:00, 125.22it/s]
+05:09:18 AM (6719256 ms) -> INFO: Epoch 30 dev propensity loss: 0.6956516127211525
+05:09:18 AM (6719256 ms) -> INFO: Epoch 30 dev conditional outcome loss: 0.18562943627169923
+100% 5300/5300 [03:25<00:00, 25.80it/s]
+05:12:43 AM (6924659 ms) -> INFO: Epoch 31 train total loss: 2.2987414517095925
+05:12:43 AM (6924659 ms) -> INFO: Epoch 31 train propensity loss: 0.09327103255827957
+05:12:43 AM (6924659 ms) -> INFO: Epoch 31 train conditional outcome loss: 0.10013412939028195
+05:12:43 AM (6924659 ms) -> INFO: Epoch 31 train masked language model loss: 2.279400934329498
+100% 295/295 [00:02<00:00, 125.96it/s]
+05:12:48 AM (6929198 ms) -> INFO: Epoch 31 dev propensity loss: 0.7396769758971875
+05:12:48 AM (6929198 ms) -> INFO: Epoch 31 dev conditional outcome loss: 0.18152101534631862
+100% 5300/5300 [03:24<00:00, 25.95it/s]
+05:16:12 AM (7133449 ms) -> INFO: Epoch 32 train total loss: 2.2820637991865613
+05:16:12 AM (7133449 ms) -> INFO: Epoch 32 train propensity loss: 0.0842477362614733
+05:16:12 AM (7133449 ms) -> INFO: Epoch 32 train conditional outcome loss: 0.0993900112890779
+05:16:12 AM (7133449 ms) -> INFO: Epoch 32 train masked language model loss: 2.263700022004447
+100% 295/295 [00:02<00:00, 124.46it/s]
+05:16:17 AM (7138043 ms) -> INFO: Epoch 32 dev propensity loss: 0.7756361089917445
+05:16:17 AM (7138043 ms) -> INFO: Epoch 32 dev conditional outcome loss: 0.1845906628649958
+100% 5300/5300 [03:24<00:00, 25.94it/s]
+05:19:41 AM (7342366 ms) -> INFO: Epoch 33 train total loss: 2.316546051471718
+05:19:41 AM (7342366 ms) -> INFO: Epoch 33 train propensity loss: 0.0775463161581903
+05:19:41 AM (7342366 ms) -> INFO: Epoch 33 train conditional outcome loss: 0.0978492783190889
+05:19:41 AM (7342366 ms) -> INFO: Epoch 33 train masked language model loss: 2.2990064913464985
+100% 295/295 [00:02<00:00, 126.11it/s]
+05:19:45 AM (7346873 ms) -> INFO: Epoch 33 dev propensity loss: 0.7015708992770207
+05:19:45 AM (7346873 ms) -> INFO: Epoch 33 dev conditional outcome loss: 0.18778575246273618
+100% 5300/5300 [03:22<00:00, 26.12it/s]
+05:23:08 AM (7549808 ms) -> INFO: Epoch 34 train total loss: 2.2723520332032856
+05:23:08 AM (7549808 ms) -> INFO: Epoch 34 train propensity loss: 0.07107966619108477
+05:23:08 AM (7549809 ms) -> INFO: Epoch 34 train conditional outcome loss: 0.09456487270725566
+05:23:08 AM (7549809 ms) -> INFO: Epoch 34 train masked language model loss: 2.255787578137776
+100% 295/295 [00:02<00:00, 129.59it/s]
+05:23:13 AM (7554286 ms) -> INFO: Epoch 34 dev propensity loss: 0.7961626800075742
+05:23:13 AM (7554286 ms) -> INFO: Epoch 34 dev conditional outcome loss: 0.1819254239648186
+100% 5300/5300 [03:21<00:00, 26.36it/s]
+05:26:34 AM (7755364 ms) -> INFO: Epoch 35 train total loss: 2.2305561625763097
+05:26:34 AM (7755364 ms) -> INFO: Epoch 35 train propensity loss: 0.07237138091191467
+05:26:34 AM (7755364 ms) -> INFO: Epoch 35 train conditional outcome loss: 0.09091340687523217
+05:26:34 AM (7755364 ms) -> INFO: Epoch 35 train masked language model loss: 2.214227684988006
+100% 295/295 [00:02<00:00, 126.46it/s]
+05:26:38 AM (7759903 ms) -> INFO: Epoch 35 dev propensity loss: 0.7817987009386805
+05:26:38 AM (7759903 ms) -> INFO: Epoch 35 dev conditional outcome loss: 0.19055523344900624
+100% 5300/5300 [03:21<00:00, 26.25it/s]
+05:30:00 AM (7961807 ms) -> INFO: Epoch 36 train total loss: 2.2360285480188553
+05:30:00 AM (7961807 ms) -> INFO: Epoch 36 train propensity loss: 0.060203564521150596
+05:30:00 AM (7961807 ms) -> INFO: Epoch 36 train conditional outcome loss: 0.08930462979524888
+05:30:00 AM (7961807 ms) -> INFO: Epoch 36 train masked language model loss: 2.2210777275389284
+100% 295/295 [00:02<00:00, 124.63it/s]
+05:30:05 AM (7966400 ms) -> INFO: Epoch 36 dev propensity loss: 0.8094002572471639
+05:30:05 AM (7966401 ms) -> INFO: Epoch 36 dev conditional outcome loss: 0.19119979892147043
+100% 5300/5300 [03:25<00:00, 25.83it/s]
+05:33:30 AM (8171584 ms) -> INFO: Epoch 37 train total loss: 2.2487792253794527
+05:33:30 AM (8171584 ms) -> INFO: Epoch 37 train propensity loss: 0.05508570010679267
+05:33:30 AM (8171584 ms) -> INFO: Epoch 37 train conditional outcome loss: 0.0859650990237561
+05:33:30 AM (8171584 ms) -> INFO: Epoch 37 train masked language model loss: 2.2346741459505144
+100% 295/295 [00:02<00:00, 123.75it/s]
+05:33:35 AM (8176199 ms) -> INFO: Epoch 37 dev propensity loss: 0.8155559834648434
+05:33:35 AM (8176199 ms) -> INFO: Epoch 37 dev conditional outcome loss: 0.19179176473072573
+100% 5300/5300 [03:26<00:00, 25.71it/s]
+05:37:01 AM (8382373 ms) -> INFO: Epoch 38 train total loss: 2.1967583471024876
+05:37:01 AM (8382373 ms) -> INFO: Epoch 38 train propensity loss: 0.05386393529191108
+05:37:01 AM (8382373 ms) -> INFO: Epoch 38 train conditional outcome loss: 0.0830912150681389
+05:37:01 AM (8382373 ms) -> INFO: Epoch 38 train masked language model loss: 2.183062831943582
+100% 295/295 [00:02<00:00, 124.64it/s]
+05:37:05 AM (8386955 ms) -> INFO: Epoch 38 dev propensity loss: 0.8037056003983584
+05:37:05 AM (8386955 ms) -> INFO: Epoch 38 dev conditional outcome loss: 0.201240045697156
+100% 5300/5300 [03:29<00:00, 25.29it/s]
+05:40:35 AM (8596567 ms) -> INFO: Epoch 39 train total loss: 2.1999396795518082
+05:40:35 AM (8596567 ms) -> INFO: Epoch 39 train propensity loss: 0.05198827672429135
+05:40:35 AM (8596567 ms) -> INFO: Epoch 39 train conditional outcome loss: 0.08067218008038081
+05:40:35 AM (8596567 ms) -> INFO: Epoch 39 train masked language model loss: 2.186673633838869
+100% 295/295 [00:02<00:00, 123.04it/s]
+05:40:40 AM (8601269 ms) -> INFO: Epoch 39 dev propensity loss: 0.8171677665733715
+05:40:40 AM (8601269 ms) -> INFO: Epoch 39 dev conditional outcome loss: 0.2117397296462051
+100% 5300/5300 [03:30<00:00, 25.17it/s]
+05:44:10 AM (8811877 ms) -> INFO: Epoch 40 train total loss: 2.1579401407246026
+05:44:10 AM (8811878 ms) -> INFO: Epoch 40 train propensity loss: 0.04617602747846895
+05:44:10 AM (8811878 ms) -> INFO: Epoch 40 train conditional outcome loss: 0.08008845555467832
+05:44:10 AM (8811878 ms) -> INFO: Epoch 40 train masked language model loss: 2.1453136925305616
+100% 295/295 [00:02<00:00, 122.45it/s]
+05:44:15 AM (8816545 ms) -> INFO: Epoch 40 dev propensity loss: 0.9005507052419265
+05:44:15 AM (8816545 ms) -> INFO: Epoch 40 dev conditional outcome loss: 0.20670778789512875
+100% 5300/5300 [03:27<00:00, 25.51it/s]
+05:47:43 AM (9024345 ms) -> INFO: Epoch 41 train total loss: 2.1684433256073214
+05:47:43 AM (9024346 ms) -> INFO: Epoch 41 train propensity loss: 0.04736863908713402
+05:47:43 AM (9024346 ms) -> INFO: Epoch 41 train conditional outcome loss: 0.07756228765844736
+05:47:43 AM (9024346 ms) -> INFO: Epoch 41 train masked language model loss: 2.1559502323673705
+100% 295/295 [00:02<00:00, 124.62it/s]
+05:47:47 AM (9028958 ms) -> INFO: Epoch 41 dev propensity loss: 0.9100368206469592
+05:47:47 AM (9028958 ms) -> INFO: Epoch 41 dev conditional outcome loss: 0.2192128992015661
+100% 5300/5300 [03:27<00:00, 25.51it/s]
+05:51:15 AM (9236714 ms) -> INFO: Epoch 42 train total loss: 2.1670381927003817
+05:51:15 AM (9236714 ms) -> INFO: Epoch 42 train propensity loss: 0.0443378007577242
+05:51:15 AM (9236715 ms) -> INFO: Epoch 42 train conditional outcome loss: 0.07837229925910953
+05:51:15 AM (9236715 ms) -> INFO: Epoch 42 train masked language model loss: 2.1547671832665296
+100% 295/295 [00:02<00:00, 122.04it/s]
+05:51:20 AM (9241425 ms) -> INFO: Epoch 42 dev propensity loss: 0.8909910400829735
+05:51:20 AM (9241425 ms) -> INFO: Epoch 42 dev conditional outcome loss: 0.2132977603157781
+100% 5300/5300 [03:30<00:00, 25.13it/s]
+05:54:51 AM (9452291 ms) -> INFO: Epoch 43 train total loss: 2.1304342337358273
+05:54:51 AM (9452291 ms) -> INFO: Epoch 43 train propensity loss: 0.0419241468382862
+05:54:51 AM (9452291 ms) -> INFO: Epoch 43 train conditional outcome loss: 0.07539984233162579
+05:54:51 AM (9452291 ms) -> INFO: Epoch 43 train masked language model loss: 2.1187018340347747
+100% 295/295 [00:02<00:00, 121.92it/s]
+05:54:55 AM (9456977 ms) -> INFO: Epoch 43 dev propensity loss: 0.8865446110984668
+05:54:55 AM (9456977 ms) -> INFO: Epoch 43 dev conditional outcome loss: 0.21962973123239463
+100% 5300/5300 [03:29<00:00, 25.25it/s]
+05:58:25 AM (9666853 ms) -> INFO: Epoch 44 train total loss: 2.1146369895551853
+05:58:25 AM (9666853 ms) -> INFO: Epoch 44 train propensity loss: 0.04013772158247565
+05:58:25 AM (9666854 ms) -> INFO: Epoch 44 train conditional outcome loss: 0.07165338729429901
+05:58:25 AM (9666854 ms) -> INFO: Epoch 44 train masked language model loss: 2.1034578794348024
+100% 295/295 [00:02<00:00, 122.56it/s]
+05:58:30 AM (9671524 ms) -> INFO: Epoch 44 dev propensity loss: 0.8510328479790518
+05:58:30 AM (9671524 ms) -> INFO: Epoch 44 dev conditional outcome loss: 0.2154030180868438
+100% 5300/5300 [03:30<00:00, 25.21it/s]
+06:02:00 AM (9881795 ms) -> INFO: Epoch 45 train total loss: 2.0722436119549394
+06:02:00 AM (9881796 ms) -> INFO: Epoch 45 train propensity loss: 0.03980973339438048
+06:02:00 AM (9881796 ms) -> INFO: Epoch 45 train conditional outcome loss: 0.0722220888952019
+06:02:00 AM (9881796 ms) -> INFO: Epoch 45 train masked language model loss: 2.061040428656757
+100% 295/295 [00:02<00:00, 122.91it/s]
+06:02:05 AM (9886483 ms) -> INFO: Epoch 45 dev propensity loss: 0.9226282931152289
+06:02:05 AM (9886483 ms) -> INFO: Epoch 45 dev conditional outcome loss: 0.21180255407736573
+100% 5300/5300 [03:31<00:00, 25.02it/s]
+06:05:37 AM (10098296 ms) -> INFO: Epoch 46 train total loss: 2.104014339471364
+06:05:37 AM (10098296 ms) -> INFO: Epoch 46 train propensity loss: 0.03803838122148258
+06:05:37 AM (10098296 ms) -> INFO: Epoch 46 train conditional outcome loss: 0.06862923369722647
+06:05:37 AM (10098296 ms) -> INFO: Epoch 46 train masked language model loss: 2.0933475793129728
+100% 295/295 [00:02<00:00, 120.72it/s]
+06:05:42 AM (10103059 ms) -> INFO: Epoch 46 dev propensity loss: 0.9183867822834549
+06:05:42 AM (10103060 ms) -> INFO: Epoch 46 dev conditional outcome loss: 0.21880665060572504
+100% 5300/5300 [03:32<00:00, 25.00it/s]
+06:09:14 AM (10315101 ms) -> INFO: Epoch 47 train total loss: 2.1285526038056464
+06:09:14 AM (10315101 ms) -> INFO: Epoch 47 train propensity loss: 0.03498668908757161
+06:09:14 AM (10315101 ms) -> INFO: Epoch 47 train conditional outcome loss: 0.06951110734831707
+06:09:14 AM (10315101 ms) -> INFO: Epoch 47 train masked language model loss: 2.1181028247012885
+100% 295/295 [00:02<00:00, 123.34it/s]
+06:09:18 AM (10319775 ms) -> INFO: Epoch 47 dev propensity loss: 0.9481434631782958
+06:09:18 AM (10319775 ms) -> INFO: Epoch 47 dev conditional outcome loss: 0.21809043706344416
+100% 5300/5300 [03:31<00:00, 25.06it/s]
+06:12:50 AM (10531287 ms) -> INFO: Epoch 48 train total loss: 2.0825695815073977
+06:12:50 AM (10531288 ms) -> INFO: Epoch 48 train propensity loss: 0.03756554940926894
+06:12:50 AM (10531288 ms) -> INFO: Epoch 48 train conditional outcome loss: 0.06868565009966743
+06:12:50 AM (10531288 ms) -> INFO: Epoch 48 train masked language model loss: 2.0719444622611007
+100% 295/295 [00:02<00:00, 118.69it/s]
+06:12:55 AM (10536109 ms) -> INFO: Epoch 48 dev propensity loss: 0.917556116293588
+06:12:55 AM (10536109 ms) -> INFO: Epoch 48 dev conditional outcome loss: 0.22113180159392837
+100% 5300/5300 [03:32<00:00, 24.98it/s]
+06:16:27 AM (10748254 ms) -> INFO: Epoch 49 train total loss: 2.1338778147836304
+06:16:27 AM (10748254 ms) -> INFO: Epoch 49 train propensity loss: 0.031912403055751444
+06:16:27 AM (10748254 ms) -> INFO: Epoch 49 train conditional outcome loss: 0.06832233079157925
+06:16:27 AM (10748254 ms) -> INFO: Epoch 49 train masked language model loss: 2.1238543427408834
+100% 295/295 [00:02<00:00, 121.78it/s]
+06:16:31 AM (10752966 ms) -> INFO: Epoch 49 dev propensity loss: 0.9109786798497564
+06:16:31 AM (10752966 ms) -> INFO: Epoch 49 dev conditional outcome loss: 0.22116822390386714
+06:16:32 AM (10753211 ms) -> INFO: Calculating ATT with inferred treatments...
+/usr/local/lib/python3.6/dist-packages/transformers/tokenization_utils_base.py:2142: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+100% 295/295 [00:02<00:00, 107.21it/s]
+06:16:37 AM (10758506 ms) -> INFO: ATT = 0.014900190607895927
+06:16:37 AM (10758506 ms) -> INFO: Calculating ATT with ground-truth treatments...
+100% 295/295 [00:02<00:00, 109.51it/s]
+06:16:42 AM (10763576 ms) -> INFO: ATT = 0.018672427320792006
+06:16:42 AM (10763576 ms) -> INFO: Calculating ATE...
+100% 295/295 [00:02<00:00, 109.89it/s]
+06:16:47 AM (10768626 ms) -> INFO: ATE = 0.027893163794178073
