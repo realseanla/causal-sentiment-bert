@@ -1,0 +1,108 @@
+2020-12-15 19:02:06.656920: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+07:02:08 PM (3549 ms) -> INFO: Reading data from /content/sentiment-causal-bert/evaluation/synthetic/buzzyb0.json
+07:02:11 PM (6673 ms) -> INFO: Preprocessing data...
+07:02:11 PM (6673 ms) -> INFO: Using sentiment as treatment
+07:02:11 PM (6673 ms) -> INFO: Positive sentiment set to be > 0.0
+07:02:11 PM (6693 ms) -> INFO: Splitting into train and test...
+07:02:11 PM (6697 ms) -> INFO: NumExpr defaulting to 2 threads.
+Some weights of CausalBert were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['Q_cls.0.0.weight', 'Q_cls.0.0.bias', 'Q_cls.0.2.weight', 'Q_cls.0.2.bias', 'Q_cls.1.0.weight', 'Q_cls.1.0.bias', 'Q_cls.1.2.weight', 'Q_cls.1.2.bias', 'g_cls.weight', 'g_cls.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+07:02:20 PM (15616 ms) -> INFO: Training Sentiment Causal BERT for 10 epoch(s)...
+/usr/local/lib/python3.6/dist-packages/transformers/tokenization_utils_base.py:2142: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+  0% 0/5300 [00:00<?, ?it/s]CausalBert.py:194: UserWarning: This overload of nonzero is deprecated:
+	nonzero()
+Consider using one of the following signatures instead:
+	nonzero(*, bool as_tuple) (Triggered internally at  /pytorch/torch/csrc/utils/python_arg_parser.cpp:882.)
+  T0_indices = (T == 0).nonzero().squeeze()
+100% 5300/5300 [03:36<00:00, 24.51it/s]
+07:06:34 PM (269078 ms) -> INFO: Epoch 0 train total loss: 2.418591106982445
+07:06:34 PM (269079 ms) -> INFO: Epoch 0 train propensity loss: 0.5055627671615133
+07:06:34 PM (269079 ms) -> INFO: Epoch 0 train conditional outcome loss: 0.6868112080220906
+07:06:34 PM (269079 ms) -> INFO: Epoch 0 train masked language model loss: 2.2993537077109933
+100% 295/295 [00:02<00:00, 115.96it/s]
+07:06:38 PM (273959 ms) -> INFO: Epoch 0 dev propensity loss: 0.5153370272305052
+07:06:38 PM (273960 ms) -> INFO: Epoch 0 dev conditional outcome loss: 0.6926205022860381
+100% 5300/5300 [03:36<00:00, 24.53it/s]
+07:10:15 PM (490003 ms) -> INFO: Epoch 1 train total loss: 2.4958030551071015
+07:10:15 PM (490004 ms) -> INFO: Epoch 1 train propensity loss: 0.46260642730121343
+07:10:15 PM (490004 ms) -> INFO: Epoch 1 train conditional outcome loss: 0.6859219295573684
+07:10:15 PM (490004 ms) -> INFO: Epoch 1 train masked language model loss: 2.38095021656854
+100% 295/295 [00:02<00:00, 116.47it/s]
+07:10:19 PM (494899 ms) -> INFO: Epoch 1 dev propensity loss: 0.5169442536719775
+07:10:19 PM (494899 ms) -> INFO: Epoch 1 dev conditional outcome loss: 0.6892478201348903
+100% 5300/5300 [03:36<00:00, 24.47it/s]
+07:13:56 PM (711460 ms) -> INFO: Epoch 2 train total loss: 2.453870374263739
+07:13:56 PM (711460 ms) -> INFO: Epoch 2 train propensity loss: 0.44209270120018496
+07:13:56 PM (711460 ms) -> INFO: Epoch 2 train conditional outcome loss: 0.6848384033227867
+07:13:56 PM (711460 ms) -> INFO: Epoch 2 train masked language model loss: 2.3411772602936103
+100% 295/295 [00:02<00:00, 113.95it/s]
+07:14:01 PM (716370 ms) -> INFO: Epoch 2 dev propensity loss: 0.5351411818826602
+07:14:01 PM (716371 ms) -> INFO: Epoch 2 dev conditional outcome loss: 0.6876321447097649
+100% 5300/5300 [03:35<00:00, 24.61it/s]
+07:17:36 PM (931719 ms) -> INFO: Epoch 3 train total loss: 2.4337094336122553
+07:17:36 PM (931719 ms) -> INFO: Epoch 3 train propensity loss: 0.42283271294544045
+07:17:36 PM (931719 ms) -> INFO: Epoch 3 train conditional outcome loss: 0.6841596285295937
+07:17:36 PM (931719 ms) -> INFO: Epoch 3 train masked language model loss: 2.3230101989093743
+100% 295/295 [00:02<00:00, 120.18it/s]
+07:17:41 PM (936485 ms) -> INFO: Epoch 3 dev propensity loss: 0.5005440789259086
+07:17:41 PM (936486 ms) -> INFO: Epoch 3 dev conditional outcome loss: 0.6904759846501431
+100% 5300/5300 [03:37<00:00, 24.37it/s]
+07:21:19 PM (1154013 ms) -> INFO: Epoch 4 train total loss: 2.337924040196077
+07:21:19 PM (1154013 ms) -> INFO: Epoch 4 train propensity loss: 0.40097073006742406
+07:21:19 PM (1154013 ms) -> INFO: Epoch 4 train conditional outcome loss: 0.68359740209467
+07:21:19 PM (1154014 ms) -> INFO: Epoch 4 train masked language model loss: 2.229467224073105
+100% 295/295 [00:02<00:00, 119.36it/s]
+07:21:23 PM (1158808 ms) -> INFO: Epoch 4 dev propensity loss: 0.44990283914415513
+07:21:23 PM (1158808 ms) -> INFO: Epoch 4 dev conditional outcome loss: 0.6877897496950829
+100% 5300/5300 [03:33<00:00, 24.83it/s]
+07:24:57 PM (1372250 ms) -> INFO: Epoch 5 train total loss: 2.3581182728830794
+07:24:57 PM (1372250 ms) -> INFO: Epoch 5 train propensity loss: 0.3835023445744981
+07:24:57 PM (1372250 ms) -> INFO: Epoch 5 train conditional outcome loss: 0.682868562666875
+07:24:57 PM (1372250 ms) -> INFO: Epoch 5 train masked language model loss: 2.2514811821810015
+100% 295/295 [00:02<00:00, 118.61it/s]
+07:25:02 PM (1377032 ms) -> INFO: Epoch 5 dev propensity loss: 0.47278957542158284
+07:25:02 PM (1377033 ms) -> INFO: Epoch 5 dev conditional outcome loss: 0.6888007705494509
+100% 5300/5300 [03:34<00:00, 24.72it/s]
+07:28:36 PM (1591463 ms) -> INFO: Epoch 6 train total loss: 2.2638431563671184
+07:28:36 PM (1591463 ms) -> INFO: Epoch 6 train propensity loss: 0.37303614656968076
+07:28:36 PM (1591463 ms) -> INFO: Epoch 6 train conditional outcome loss: 0.6819431544587298
+07:28:36 PM (1591464 ms) -> INFO: Epoch 6 train masked language model loss: 2.158345224252623
+100% 295/295 [00:02<00:00, 121.41it/s]
+07:28:41 PM (1596186 ms) -> INFO: Epoch 6 dev propensity loss: 0.49692364547685797
+07:28:41 PM (1596186 ms) -> INFO: Epoch 6 dev conditional outcome loss: 0.690804220155134
+100% 5300/5300 [03:34<00:00, 24.71it/s]
+07:32:15 PM (1810670 ms) -> INFO: Epoch 7 train total loss: 2.244085477518164
+07:32:15 PM (1810670 ms) -> INFO: Epoch 7 train propensity loss: 0.3626359891099855
+07:32:15 PM (1810670 ms) -> INFO: Epoch 7 train conditional outcome loss: 0.6810806139741303
+07:32:15 PM (1810670 ms) -> INFO: Epoch 7 train masked language model loss: 2.139713814103314
+100% 295/295 [00:02<00:00, 119.74it/s]
+07:32:20 PM (1815447 ms) -> INFO: Epoch 7 dev propensity loss: 0.4668919433792264
+07:32:20 PM (1815447 ms) -> INFO: Epoch 7 dev conditional outcome loss: 0.689103153095407
+100% 5300/5300 [03:33<00:00, 24.80it/s]
+07:35:54 PM (2029120 ms) -> INFO: Epoch 8 train total loss: 2.192973763518879
+07:35:54 PM (2029120 ms) -> INFO: Epoch 8 train propensity loss: 0.36040195536413144
+07:35:54 PM (2029120 ms) -> INFO: Epoch 8 train conditional outcome loss: 0.6803401152705246
+07:35:54 PM (2029120 ms) -> INFO: Epoch 8 train masked language model loss: 2.0888995540822966
+100% 295/295 [00:02<00:00, 119.90it/s]
+07:35:58 PM (2033915 ms) -> INFO: Epoch 8 dev propensity loss: 0.45173602268036644
+07:35:58 PM (2033915 ms) -> INFO: Epoch 8 dev conditional outcome loss: 0.6880641189672179
+100% 5300/5300 [03:36<00:00, 24.50it/s]
+07:39:35 PM (2250266 ms) -> INFO: Epoch 9 train total loss: 2.165943961686121
+07:39:35 PM (2250266 ms) -> INFO: Epoch 9 train propensity loss: 0.35527481411267425
+07:39:35 PM (2250266 ms) -> INFO: Epoch 9 train conditional outcome loss: 0.6798256887017556
+07:39:35 PM (2250266 ms) -> INFO: Epoch 9 train masked language model loss: 2.0624339102033717
+100% 295/295 [00:02<00:00, 120.81it/s]
+07:39:40 PM (2255016 ms) -> INFO: Epoch 9 dev propensity loss: 0.47593350780780536
+07:39:40 PM (2255016 ms) -> INFO: Epoch 9 dev conditional outcome loss: 0.6888672910504422
+07:39:40 PM (2255282 ms) -> INFO: Calculating ATT with inferred treatments...
+/usr/local/lib/python3.6/dist-packages/transformers/tokenization_utils_base.py:2142: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+100% 295/295 [00:02<00:00, 106.84it/s]
+07:39:45 PM (2260430 ms) -> INFO: ATT = -0.02589016818749717
+07:39:45 PM (2260431 ms) -> INFO: Calculating ATT with ground-truth treatments...
+100% 295/295 [00:02<00:00, 105.93it/s]
+07:39:50 PM (2265595 ms) -> INFO: ATT = -0.02075079959981582
+07:39:50 PM (2265595 ms) -> INFO: Calculating ATE...
+100% 295/295 [00:02<00:00, 106.84it/s]
+07:39:55 PM (2270726 ms) -> INFO: ATE = -0.027252234190197313
